@@ -17,4 +17,5 @@ or if you have some sort of Word document, please contribute it to the website p
 
 ## TODO
 
+[ ] Embed typst template in project and update commands to use the fgbooks template
 [ ] Instead of committing ebooks and PDFs, create a workflow that builds packages
