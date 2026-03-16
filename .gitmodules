@@ -1,0 +1,3 @@
+[submodule "books/1689-baptist-confession/1689-baptist-confession/symbolics-data"]
+	path = books/1689-baptist-confession/1689-baptist-confession/symbolics-data
+	url = https://gitlab.com/svrbc/symbolics-data.git

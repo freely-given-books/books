@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 1em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  -webkit-column-break-before: always;
+  break-before: page;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  padding-top: 25%;
+  margin-bottom: 1.5em;
+}
+
+p {
+  text-indent: 1.5em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+h2 + p,
+h3 + p {
+  text-indent: 0;
+}
+
+img {
+  display: block;
+  margin: 1.5em auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

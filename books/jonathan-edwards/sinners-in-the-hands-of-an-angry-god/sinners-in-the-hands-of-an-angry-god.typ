@@ -1,0 +1,518 @@
+#import "@local/fgbooks:0.5.1": *
+
+#show: book.with(
+  title: [Sinners in the Hands of an Angry God],
+  author: "Jonathan Edwards",
+  publishing-info: [
+    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license. 
+    
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+    #image("lcc_standard_pd.png", width: 50%)
+    
+    Freely you have received; freely give. - Matthew 10:8b
+    
+    To get more free ebooks or at-cost printed copies, visit:
+    
+    https://books.freely.giving
+    
+    Printed books are at the cost of the printing, no revenue or
+    royalty is made from printings so you can get ahold of
+    physical prints at the lowest cost possible.
+    
+    Book formatted by Courtney Allen Hicks
+    
+    #link("mailto:books@lyndnex.com")
+    
+    ebook and PDF also available.
+
+    Quoted bible verses from the Berean Standard Bible unless otherwise stated.
+  ],
+  preface: [
+    #align(center)[
+      #text()[
+        Enfield, Connecticut
+    
+        July 8, 1741 
+      ]
+    ]
+    
+    #align(center + horizon)[
+      #text(size: 14pt)[_"Their foot shall slide in due time." - Deuteronomy 32:35_]
+    ]
+  ],
+  page-height: 6.875in,
+  page-width: 4.25in,
+  page-margin: (top: 0.625in, bottom: 0.625in, outside: 0.5in, inside: 0.625in),
+  show-outline: false
+)
+
+== Sinners in the Hands of an Angry God
+
+
+In this verse is threatened the vengeance of God on the wicked unbelieving Israelites, who
+were God's visible people, and who lived under the means of grace; but who, notwithstanding
+all God's wonderful works towards them, remained (as verse 28) void of counsel, having no
+understanding in them. Under all the cultivations of heaven, they brought forth bitter and
+poisonous fruit; as in the two verses next preceding the text. The expression I have chosen
+for my text, Their foot shall slide in due time, seems to imply the following things, relating to
+the punishment and destruction to which these wicked Israelites were exposed.
+
++ That they were always exposed to destruction; as one that stands or walks in slippery places
+  is always exposed to fall. This is implied in the manner of their destruction coming upon
+  them, being represented by their foot sliding. The same is expressed, Psalm 73:18.
+  "Surely You set them on slick ground; You cast them down into ruin."
++ It implies, that they were always exposed to sudden unexpected destruction. As he that
+  walks in slippery places is every moment liable to fall, he cannot foresee one moment whether
+  he shall stand or fall the next; and when he does fall, he falls at once without warning: Which
+  is also expressed in Psalm 73:18-19 (KJV). "Surely thou didst set them in slippery places; thou
+  castedst them down into destruction: How are they brought into desolation as in a moment!"
++ Another thing implied is, that they are liable to fall of themselves, without being thrown
+  down by the hand of another; as he that stands or walks on slippery ground needs nothing
+  but his own weight to throw him down.
++ That the reason why they are not fallen already, and do not fall now, is only that God's
+  appointed time is not come. For it is said, that when that due time, or appointed time comes,
+  their foot shall slide. Then they shall be left to fall, as they are inclined by their own weight.
+  God will not hold them up in these slippery places any longer, but will let them go; and then
+  at that very instant, they shall fall into destruction; as he that stands on such slippery declining
+  ground, on the edge of a pit, he cannot stand alone, when he is let go he immediately falls
+  and is lost.
+
+The observation from the words that I would now insist upon is this. "There is nothing that
+keeps wicked men at any one moment out of hell, but the mere pleasure of God." By the
+mere pleasure of God, I mean his sovereign pleasure, his arbitrary will, restrained by no
+obligation, hindered by no manner of difficulty, any more than if nothing else but God's
+mere will had in the least degree, or in any respect whatsoever, any hand in the preservation
+of wicked men one moment.
+
+The truth of this observation may appear by the following considerations.
+
++ There is no want of power in God to cast wicked men into hell at any moment. Men's hands
+  cannot be strong when God rises up. The strongest have no power to resist him, nor can any
+  deliver out of his hands.—He is not only able to cast wicked men into hell, but he can most
+  easily do it. Sometimes an earthly prince meets with a great deal of difficulty to subdue a
+  rebel, who has found means to fortify himself, and has made himself strong by the numbers
+  of his followers. But it is not so with God. There is no fortress that is any defence from the
+  power of God. Though hand join in hand, and vast multitudes of God's enemies combine
+  and associate themselves, they are easily broken in pieces. They are as great heaps of light
+  chaff before the whirlwind; or large quantities of dry stubble before devouring flames. We
+  find it easy to tread on and crush a worm that we see crawling on the earth; so it is easy for us
+  to cut or singe a slender thread that any thing hangs by: thus easy is it for God, when he
+  pleases, to cast his enemies down to hell.
+
++ What are we, that we should think to stand before him, at whose rebuke the earth trembles,
+  and before whom the rocks are thrown down? They deserve to be cast into hell; so that divine
+  justice never stands in the way, it makes no objection against God's using his power at any
+  moment to destroy them. Yea, on the contrary, justice calls aloud for an infinite punishment
+  of their sins. Divine justice says of the tree that brings forth such grapes of Sodom, "Therefore
+  cut it down! Why should it use up the soil?" Luke 13:7. The sword of divine justice is every
+  moment brandished over their heads, and it is nothing but the hand of arbitrary mercy, and
+  God's mere will, that holds it back.
+
++ They are already under a sentence of condemnation to hell. They do not only justly
+  deserve to be cast down there, but the sentence of the law of God, that eternal and
+  immutable rule of righteousness that God has fixed between him and mankind, is gone out
+  against them, and stands against them; so that they are bound over already to hell. John 3:18
+  "Whoever believes in Him is not condemned." So that every unconverted man properly
+  belongs to hell; that is his place; from thence he is, John 8:23. "You are from below."
+  And there he is bound; it is the place that justice, and God's word, and the sentence of his
+  unchangeable law assign to him.
+
++ They are now the objects of that very same anger and wrath of God, that is expressed in
+  the torments of hell. And the reason why they do not go down to hell at each moment, is not
+  because God, in whose power they are, is not then very angry with them; as he is with many
+  miserable creatures now tormented in hell, who there feel and bear the fierceness of his wrath.
+  Yea, God is a great deal more angry with great numbers that are now on earth: yea, doubtless,
+  with many that are now in this congregation, who it may be are at ease, than he is with many
+  of those who are now in the flames of hell.
+
+  So that it is not because God is unmindful of their wickedness, and does not resent it, that he
+  does not let loose his hand and cut them off. God is not altogether such an one as themselves,
+  though they may imagine him to be so. The wrath of God burns against them, their
+  damnation does not slumber; the pit is prepared, the fire is made ready, the furnace is now
+  hot, ready to receive them; the flames do now rage and glow. The glittering sword is whet,
+  and held over them, and the pit hath opened its mouth under them.
+
++ The devil stands ready to fall upon them, and seize them as his own, at what moment God
+  shall permit him. They belong to him; he has their souls in his possession, and under his
+  dominion. The scripture represents them as his goods, Luke 11:21. The devils watch them;
+  they are ever by them at their right hand; they stand waiting for them, like greedy hungry
+  lions that see their prey, and expect to have it, but are for the present kept back. If God
+  should withdraw his hand, by which they are restrained, they would in one moment fly upon
+  their poor souls. The old serpent is gaping for them; hell opens its mouth wide to receive
+  them; and if God should permit it, they would be hastily swallowed up and lost.
+
++ There are in the souls of wicked men those hellish principles reigning, that would immediately
+  kindle and flame out into hell fire, if it were not for God's restraints. There is laid in the very
+  nature of carnal men, a foundation for the torments of hell. There are those corrupt
+  principles, in reigning power in them, and in full possession of them, that are seeds of hell
+  fire. These principles are active and powerful, exceeding violent in their nature, and if it were
+  not for the restraining hand of God upon them, they would soon break out, they would flame
+  out after the same manner as the same corruptions, the same enmity does in the hearts of
+  damned souls, and would beget the same torments as they do in them. The souls of the
+  wicked are in scripture compared to the troubled sea, Isaiah 57:20. For the present, God
+  restrains their wickedness by his mighty power, as he does the raging waves of the troubled
+  sea, saying, "You may come this far, but no farther" but if God should withdraw that
+  restraining power, it would soon carry all before it. Sin is the ruin and misery of the soul; it is
+  destructive in its nature; and if God should leave it without restraint, there would need nothing
+  else to make the soul perfectly miserable. The corruption of the heart of man is immoderate
+  and boundless in its fury; and while wicked men live here, it is like fire pent up by God's
+  restraints, whereas if it were let loose, it would set on fire the course of nature; and as the heart
+  is now a sink of sin, so if sin was not restrained, it would immediately turn the soul into a fiery
+  oven, or a furnace of fire and brimstone.
+
++ It is no security to wicked men for one moment, that there are no visible means of death at
+  hand. It is no security to a natural man, that he is now in health, and that he does not see
+  which way he should now immediately go out of the world by any accident, and that there is
+  no visible danger in any respect in his circumstances. The manifold and continual experience
+  of the world in all ages, shows this is no evidence, that a man is not on the very brink of
+  eternity, and that the next step will not be into another world. The unseen, unthought-of ways
+  and means of persons going suddenly out of the world are innumerable and inconceivable.
+  Unconverted men walk over the pit of hell on a rotten covering, and there are innumerable
+  places in this covering so weak that they will not bear their weight, and these places are not
+  seen. The arrows of death fly unseen at noon-day; the sharpest sight cannot discern them.
+  God has so many different unsearchable ways of taking wicked men out of the world and
+  sending them to hell, that there is nothing to make it appear, that God had need to be at the
+  expense of a miracle, or go out of the ordinary course of his providence, to destroy any
+  wicked man, at any moment. All the means that there are of sinners going out of the world,
+  are so in God's hands, and so universally and absolutely subject to his power and
+  determination, that it does not depend at all the less on the mere will of God, whether sinners
+  shall at any moment go to hell, than if means were never made use of, or at all concerned in
+  the case.
+
++ Natural men's prudence and care to preserve their own lives, or the care of others to
+  preserve them, do not secure them a moment. To this, divine providence and universal
+  experience do also bear testimony. There is this clear evidence that men's own wisdom is no
+  security to them from death; that if it were otherwise we should see some difference between
+  the wise and politic men of the world, and others, with regard to their liableness to early and
+  unexpected death: but how is it in fact? Ecclesiastes 2:16. "Alas, the wise man will die just like the fool!"
+
++ All wicked men's pains and contrivance which they use to escape hell, while they continue
+  to reject Christ, and so remain wicked men, do not secure them from hell one moment.
+  Almost every natural man that hears of hell, flatters himself that he shall escape it; he depends
+  upon himself for his own security; he flatters himself in what he has done, in what he is now
+  doing, or what he intends to do. Every one lays out matters in his own mind how he shall
+  avoid damnation, and flatters himself that he contrives well for himself, and that his schemes
+  will not fail. They hear indeed that there are but few saved, and that the greater part of men
+  that have died before are gone to hell; but each one imagines that he lays out matters
+  better for his own escape than others have done. He does not intend to come to that place of
+  torment; he says within himself, that he intends to take effectual care, and to order matters so
+  for himself as not to fail.
+
+  But the foolish children of men miserably delude themselves in their own schemes, and in
+  confidence in their own strength and wisdom; they trust to nothing but a shadow. The greater
+  part of those who have previously lived under the same means of grace, and are now dead, are
+  undoubtedly gone to hell; and it was not because they were not as wise as those who are now
+  alive: it was not because they did not lay out matters as well for themselves to secure their own
+  escape. If we could speak with them, and inquire of them, one by one, whether they expected,
+  when alive, and when they used to hear about hell ever to be the subjects of that misery: we
+  doubtless, should hear one and another reply, "No, I never intended to come here: I had laid
+  out matters otherwise in my mind; I thought I should contrive well for myself: I thought my
+  scheme good. I intended to take effectual care; but it came upon me unexpected; I did not
+  look for it at that time, and in that manner; it came as a thief: Death outwitted me: God's
+  wrath was too quick for me. Oh, my cursed foolishness! I was flattering myself, and pleasing
+  myself with vain dreams of what I would do hereafter; and when I was saying, Peace and
+  safety, then suddenly destruction came upon me."
+
++ God has laid himself under no obligation, by any promise to keep any natural man out of
+  hell one moment. God certainly has made no promises either of eternal life, or of any
+  deliverance or preservation from eternal death, but what are contained in the covenant of
+  grace, the promises that are given in Christ, in whom all the promises are yea and amen. But
+  surely they have no interest in the promises of the covenant of grace who are not the children
+  of the covenant, who do not believe in any of the promises, and have no interest in the
+  Mediator of the covenant.
+
+So that, whatever some have imagined and pretended about promises made to natural men's
+earnest seeking and knocking, it is plain and manifest, that whatever pains a natural man takes
+in religion, whatever prayers he makes, till he believes in Christ, God is under no manner of
+obligation to keep him a moment from eternal destruction.
+So that, thus it is that natural men are held in the hand of God, over the pit of hell; they have
+deserved the fiery pit, and are already sentenced to it; and God is dreadfully provoked, his
+anger is as great towards them as to those that are actually suffering the executions of the
+fierceness of his wrath in hell, and they have done nothing in the least to appease or abate that
+anger, neither is God in the least bound by any promise to hold them up one moment; the
+devil is waiting for them, hell is gaping for them, the flames gather and flash about them, and
+would gladly lay hold on them, and swallow them up; the fire pent up in their own hearts is
+struggling to break out: and they have no interest in any Mediator, there are no means within
+reach that can be any security to them. In short, they have no refuge, nothing to take hold of,
+all that preserves them every moment is the mere arbitrary will, and uncovenanted, unobliged
+forbearance of an incensed God.
+
+== Application
+
+The use of this awful subject may be for awakening unconverted persons in this
+congregation. This that you have heard is the case of every one of you that are out of
+Christ.—That world of misery, that lake of burning brimstone, is extended abroad under you.
+There is the dreadful pit of the glowing flames of the wrath of God; there is hell's wide
+gaping mouth open; and you have nothing to stand upon, nor any thing to take hold of, there
+is nothing between you and hell but the air; it is only the power and mere pleasure of God
+that holds you up.
+
+You probably are not aware of this; you find you are kept out of hell, but do not see the
+hand of God in it; but look at other things, as the good state of your bodily constitution, your
+care of your own life, and the means you use for your own preservation. But indeed these
+things are nothing; if God should withdraw his hand, they would avail no more to keep you
+from falling, than the thin air to hold up a person that is suspended in it.
+
+Your wickedness makes you as it were heavy as lead, and to tend downwards with great weight
+and pressure towards hell; and if God should let you go, you would immediately sink and
+swiftly descend and plunge into the bottomless gulf, and your healthy constitution, and your
+own care and prudence, and best contrivance, and all your righteousness, would have no more
+influence to uphold you and keep you out of hell, than a spider's web would have to stop a
+falling rock. Were it not for the sovereign pleasure of God, the earth would not bear you one
+moment; for you are a burden to it; the creation groans with you; the creature is made subject
+to the bondage of your corruption, not willingly; the sun does not willingly shine upon you
+to give you light to serve sin and Satan; the earth does not willingly yield her increase to
+satisfy your lusts; nor is it willingly a stage for your wickedness to be acted upon; the air does
+not willingly serve you for breath to maintain the flame of life in your vitals, while you spend
+your life in the service of God's enemies. God's creatures are good, and were made for men
+to serve God with, and do not willingly subserve to any other purpose, and groan when they
+are abused to purposes so directly contrary to their nature and end. And the world would
+spew you out, were it not for the sovereign hand of him who hath subjected it in hope. There
+are black clouds of God's wrath now hanging directly over your heads, full of the dreadful
+storm, and big with thunder; and were it not for the restraining hand of God, it would
+immediately burst forth upon you. The sovereign pleasure of God, for the present, stays his
+rough wind; otherwise it would come with fury, and your destruction would come like a
+whirlwind, and you would be like the chaff of the summer threshing floor.
+
+The wrath of God is like great waters that are dammed for the present; they increase more
+and more, and rise higher and higher, till an outlet is given; and the longer the stream is
+stopped, the more rapid and mighty is its course, when once it is let loose. It is true, that
+judgment against your evil works has not been executed up to this time; the floods of God's
+vengeance have been withheld; but your guilt in the mean time is constantly increasing, and
+you are every day treasuring up more wrath; the waters are constantly rising, and increasing
+more and more mighty; and there is nothing but the mere pleasure of God, that holds the
+waters back, that are unwilling to be stopped, and press hard to go forward. If God should
+only withdraw his hand from the flood-gate, it would immediately fly open, and the fiery
+floods of the fierceness and wrath of God, would rush forth with inconceivable fury, and
+would come upon you with omnipotent power; and if your strength were ten thousand times
+greater than it is, yea, ten thousand times greater than the strength of the stoutest, sturdiest
+devil in hell, it would be nothing to withstand or endure it.
+
+The bow of God's wrath is bent, and the arrow made ready on the string, and justice bends
+the arrow at your heart, and strains the bow, and it is nothing but the mere pleasure of God,
+and that of an angry God, without any promise or obligation at all, that keeps the arrow one
+moment from being made drunk with your blood. Thus all you that never passed under a
+great change of heart,
+by the mighty power of the Spirit of God upon your souls; all you that were never born
+again, and made new creatures, and raised from being dead in sin, to a state of new, and
+before altogether unexperienced light and life, are in the hands of an angry God. However
+you may have reformed your life in many things, and may have had religious affections, and
+may keep up a form of religion in your families and closets, and in the house of God, it is
+nothing but his mere pleasure that keeps you from being this moment swallowed up in
+everlasting destruction. However unconvinced you may now be of the truth of what you
+hear, by and by you will be fully convinced of it. Those that are gone from being in the like
+circumstances with you, see that it was so with them; for destruction came suddenly upon
+most of them; when they expected nothing of it, and while they were saying, Peace and
+safety: now they see, that those things on which they depended for peace and safety, were
+nothing but thin air and empty shadows.
+
+The God that holds you over the pit of hell, much as one holds a spider, or some loathsome
+insect over the fire, abhors you, and is dreadfully provoked: his wrath towards you burns like
+fire; he looks upon you as worthy of nothing else, but to be cast into the fire; he is of purer
+eyes than to bear to have you in his sight; you are ten thousand times more abominable in his
+eyes, than the most hateful venomous serpent is in ours. You have offended him infinitely
+more than ever a stubborn rebel did his prince; and yet it is nothing but his hand that holds
+you from falling into the fire every moment. It is to be ascribed to nothing else, that you did
+not go to hell the last night; that you were suffered to awake again in this world, after you
+closed your eyes to sleep. And there is no other reason to be given, why you have not
+dropped into hell since you arose in the morning, but that God's hand has held you up.
+There is no other reason to be given why you have not gone to hell, since you have sat here
+in the house of God, provoking his pure eyes by your sinful wicked manner of attending his
+solemn worship. Yea, there is nothing else that is to be given as a reason why you do not this
+very moment drop down into hell.
+
+O sinner! Consider the fearful danger you are in: it is a great furnace of wrath, a wide and
+bottomless pit, full of the fire of wrath, that you are held over in the hand of that God, whose
+wrath is provoked and incensed as much against you, as against many of the damned in hell.
+You hang by a slender thread, with the flames of divine wrath flashing about it, and ready
+every moment to singe it, and burn it asunder; and you have no interest in any Mediator, and
+nothing to lay hold of to save yourself, nothing to keep off the flames of wrath, nothing of
+your own, nothing that you ever have done, nothing that you can do, to induce God to spare
+you one moment. And consider here more particularly
+
++ Whose wrath it is: it is the wrath of the infinite God. If it were only the wrath of man,
+  though it were of the most potent prince, it would be comparatively little to be regarded. The
+  wrath of kings is very much dreaded, especially of absolute monarchs, who have the
+  possessions and lives of their subjects wholly in their power, to be disposed of at their mere
+  will. Proverbs 20:2. "The terror of a king is like the roar of a lion; whoever provokes him
+  forfeits his own soul." The subject that very much enrages an arbitrary prince,
+  is liable to suffer the most extreme torments that human art can invent, or human power can
+  inflict. But the greatest earthly potentates in their greatest majesty and strength, and when
+  clothed in their greatest terrors, are but feeble, despicable worms of the dust, in comparison of
+  the great and almighty Creator and King of heaven and earth. It is but little that they can do,
+  when most enraged, and when they have exerted the utmost of their fury. All the kings of the
+  earth, before God, are as grasshoppers; they are nothing, and less than nothing: both their
+  love and their hatred is to be despised. The wrath of the great King of kings, is as much more
+  terrible than theirs, as his majesty is greater. Luke 12:4-5. "I tell you, My friends, do not
+  be afraid of those who kill the body and after that can do no more. But I will show you whom
+  you should fear: Fear the One who, after you have been killed, has authority to throw you
+  into hell. Yes, I tell you, fear Him!"
+
++ It is the fierceness of his wrath that you are exposed to. We often read of the fury of God;
+  as in Isaiah 59:18. "So He will repay according to their deeds: fury to His enemies."
+  So Isaiah 66:15. "For behold, the LORD will come with fire — His chariots are like a whirlwind —
+  to execute His anger with fury and His rebuke with flames of fire."
+  And in many other places. So, Revelation 19:15 (KJV), we read of "the wine press of the fierceness and
+  wrath of Almighty God." The words are exceeding terrible. If it had only been said, "the
+  wrath of God," the words would have implied that which is infinitely dreadful: but it is "the
+  fierceness and wrath of God." The fury of God! the fierceness of Jehovah! Oh, how dreadful
+  must that be! Who can utter or conceive what such expressions carry in them! But it is also
+  "the fierceness and wrath of Almighty God." As though there would be a very great
+  manifestation of his almighty power in what the fierceness of his wrath should inflict, as
+  though omnipotence should be as it were enraged, and exerted, as men are accustomed to exert their
+  strength in the fierceness of their wrath. Oh! then, what will be the consequence! What will
+  become of the poor worms that shall suffer it! Whose hands can be strong? And whose heart
+  can endure? To what a dreadful, inexpressible, inconceivable depth of misery must the poor
+  creature be sunk who shall be the subject of this!
+  
+  Consider this, you that are here present, that yet remain in an unregenerate state. That God
+  will execute the fierceness of his anger, implies, that he will inflict wrath without any pity.
+  When God beholds the ineffable extremity of your case, and sees your torment to be so vastly
+  disproportioned to your strength, and sees how your poor soul is crushed, and sinks down, as
+  it were, into an infinite gloom; he will have no compassion upon you, he will not forbear the
+  executions of his wrath, or in the least lighten his hand; there shall be no moderation or
+  mercy, nor will God then at all stay his rough wind; he will have no regard to your welfare,
+  nor be at all careful lest you should suffer too much in any other sense, than only that you
+  shall not suffer beyond what strict justice requires. Nothing shall be withheld, because it is so
+  hard for you to bear. Ezekiel 8:18. "Therefore I will respond with wrath. I will not look on them
+  with pity, nor will I spare them. Although they shout loudly in My ears, I will not listen to them."
+  Now God stands ready to pity you; this is a day of mercy; you may cry now
+  with some encouragement of obtaining mercy. But when once the day of mercy is past,
+  your most lamentable and sorrowful cries and shrieks will be in vain; you will be wholly lost
+  and thrown away of God, as to any regard to your welfare. God will have no other use to put
+  you to, but to suffer misery; you shall be continued in being to no other end; for you will be
+  a vessel of wrath fitted to destruction; and there will be no other use of this vessel, but to be
+  filled full of wrath. God will be so far from pitying you when you cry to him, that it is said he
+  will only "laugh and mock," Proverbs 1:25-26, etc.
+
+  How awful are those words, Isaiah 63:3, which are the words of the great God. "I have trodden
+  the winepress alone, and no one from the nations was with Me. I trampled them in My anger
+  and trod them down in My fury; their blood spattered My garments, and all My clothes were stained."
+  It is perhaps impossible to conceive of
+  words that carry in them greater manifestations of these three things, namely, contempt, and
+  hatred, and fierceness of indignation. If you cry to God to pity you, he will be so far from
+  pitying you in your doleful case, or showing you the least regard or favour, that instead of
+  that, he will only tread you under foot. And though he will know that you cannot bear the
+  weight of omnipotence treading upon you, yet he will not regard that, but he will crush you
+  under his feet without mercy; he will crush out your blood, and make it fly, and it shall be
+  sprinkled on his garments, so as to stain all his raiment (clothing). He will not only hate you, but he will
+  have you, in the utmost contempt: no place shall be thought fit for you, but under his feet to
+  be trodden down as the mire of the streets.
+
++ The misery you are exposed to is that which God will inflict to that end, that he might show
+  what that wrath of Jehovah is. God hath had it on his heart to show to angels and men, both
+  how excellent his love is, and also how terrible his wrath is. Sometimes earthly kings have a
+  mind to show how terrible their wrath is, by the extreme punishments they would execute on
+  those that would provoke them. Nebuchadnezzar, that mighty and haughty monarch of the
+  Chaldean empire, was willing to show his wrath when enraged with Shadrach, Meshach, and
+  Abednego; and accordingly gave orders that the burning fiery furnace should be heated
+  seven times hotter than it was before; doubtless, it was raised to the utmost degree of
+  fierceness that human art could raise it. But the great God is also willing to show his wrath,
+  and magnify his awful majesty and mighty power in the extreme sufferings of his enemies.
+  Romans 9:22. "What if God, intending to show His wrath and make His power known, bore with
+  great patience the vessels of His wrath, prepared for destruction?" And seeing this is his
+  design, and what he has determined, even to show how terrible the unrestrained wrath, the
+  fury and fierceness of Jehovah is, he will do it to effect. There will be something
+  accomplished and brought to pass that will be dreadful with a witness. When the great and
+  angry God hath risen up and executed his awful vengeance on the poor sinner, and the
+  wretch is actually suffering the infinite weight and power of his indignation, then will God
+  call upon the whole universe to behold that awful majesty and mighty power that is to be seen
+  in it. Isaiah 33:12-14. "The peoples will be burned to ashes,like thorns cut down and set
+  ablaze. You who are far off, hear what I have done; you who are near, acknowledge My might.
+  The sinners in Zion are afraid; trembling grips the ungodly" etc.
+  Thus it will be with you that are in an unconverted state, if you continue in it; the infinite
+  might, and majesty, and terribleness of the omnipotent God shall be magnified upon you, in
+  the ineffable strength of your torments. You shall be tormented in the presence of the holy
+  angels, and in the presence of the Lamb; and when you shall be in this state of suffering, the
+  glorious inhabitants of heaven shall go forth and look on the awful spectacle, that they may
+  see what the wrath and fierceness of the Almighty is; and when they have seen it, they will fall
+  down and adore that great power and majesty. Isaiah 66:23-24. "From one New Moon to another
+  and from one Sabbath to another, all mankind will come to worship before Me, says the LORD.
+  As they go forth, they will see the corpses of the men who have rebelled against Me;
+  for their worm will never die, their fire will never be quenched, and they will be a horror
+  to all mankind."
+
++ It is everlasting wrath. It would be dreadful to suffer this fierceness and wrath of Almighty
+  God one moment; but you must suffer it to all eternity. There will be no end to this exquisite
+  horrible misery. When you look forward, you shall see a long for ever, a boundless duration
+  before you, which will swallow up your thoughts, and amaze your soul; and you will
+  absolutely despair of ever having any deliverance, any end, any mitigation, any rest at all.
+  You will know certainly that you must wear out long ages, millions of millions of ages, in
+  wrestling and conflicting with this almighty merciless vengeance; and then when you have so
+  done, when so many ages have actually been spent by you in this manner, you will know that
+  all is but a point to what remains. So that your punishment will indeed be infinite. Oh, who
+  can express what the state of a soul in such circumstances is! All that we can possibly say
+  about it, gives but a very feeble, faint representation of it; it is inexpressible and
+  inconceivable: For "who knows the power of God's anger?"
+
+How dreadful is the state of those that are daily and hourly in the danger of this great wrath
+and infinite misery! But this is the dismal case of every soul in this congregation that has not
+been born again, however moral and strict, sober and religious, they may otherwise be. Oh
+that you would consider it, whether you be young or old! There is reason to think, that there
+are many in this congregation now hearing this discourse, that will actually be the subjects of
+this very misery to all eternity. We know not who they are, or in what seats they sit, or what
+thoughts they now have. It may be they are now at ease, and hear all these things without
+much disturbance, and are now flattering themselves that they are not the persons, promising
+themselves that they shall escape. If we knew that there was one person, and but one, in the
+whole congregation, that was to be the subject of this misery, what an awful thing would it be
+to think of! If we knew who it was, what an awful sight would it be to see such a person! How
+might all the rest of the congregation lift up a lamentable and bitter cry over him! But, alas!
+instead of one, how many is it likely will remember this discourse in hell? And it would be a
+wonder, if some that are now present should not be in hell in a very short time, even before
+this year is out. And it would be no wonder if some persons, that now sit here, in some seats
+of this meeting-house, in health, quiet and secure, should be there before tomorrow
+morning. Those of you that finally continue in a natural condition, that shall keep out of hell
+longest will be there in a little time! your damnation does not slumber; it will come swiftly,
+and, in all probability, very suddenly upon many of you. You have reason to wonder that you
+are not already in hell. It is doubtless the case of some whom you have seen and known, that
+never deserved hell more than you, and that previously appeared as likely to have been now
+alive as you. Their case is past all hope; they are crying in extreme misery and perfect
+despair; but here you are in the land of the living and in the house of God, and have an
+opportunity to obtain salvation. What would not those poor damned hopeless souls give for
+one day's opportunity such as you now enjoy!
+
+And now you have an extraordinary opportunity, a day wherein Christ has thrown the door
+of mercy wide open, and stands in calling and crying with a loud voice to poor sinners; a day
+wherein many are flocking to him, and pressing into the kingdom of God. Many are daily
+coming from the east, west, north and south; many that were very lately in the same miserable
+condition that you are in, are now in a happy state, with their hearts filled with love to him
+who has loved them, and washed them from their sins in his own blood, and rejoicing in hope
+of the glory of God. How awful is it to be left behind at such a day! To see so many others
+feasting, while you are pining and perishing! To see so many rejoicing and singing for joy of
+heart, while you have cause to mourn for sorrow of heart, and howl for vexation of spirit!
+How can you rest one moment in such a condition? Are not your souls as precious as the
+souls of the people at Suffield#footnote[a town in the area], where they are flocking from day to day to Christ?
+
+Are there not many here who have lived long in the world, and are not to this day born
+again? and so are aliens from the commonwealth of Israel, and have done nothing ever since
+they have lived, but treasure up wrath against the day of wrath? Oh, sirs, your case, in an
+especial manner, is extremely dangerous. Your guilt and hardness of heart is extremely great.
+Do you not see how generally persons of your years are passed over and left, in the present
+remarkable and wonderful dispensation of God's mercy? You had need to consider
+yourselves, and awake thoroughly out of sleep. You cannot bear the fierceness and wrath of
+the infinite God.—And you, young men, and young women, will you neglect this precious
+season which you now enjoy, when so many others of your age are renouncing all youthful
+vanities, and flocking to Christ? You especially have now an extraordinary opportunity; but if
+you neglect it, it will soon be with you as with those persons who spent all the precious days
+of youth in sin, and are now come to such a dreadful pass in blindness and hardness. And
+you, children, who are unconverted, do not you know that you are going down to hell, to bear
+the dreadful wrath of that God, who is now angry with you every day and every night? Will
+you be content to be the children of the devil, when so many other children in the land are
+converted, and are become the holy and happy children of the King of kings?
+
+And let every one that is yet out of Christ, and hanging over the pit of hell, whether they be
+old men and women, or middle aged, or young people, or little children, now harken to the
+loud calls of God's word and providence. This acceptable year of the Lord, a day of such
+great favours to some, will doubtless be a day of as remarkable vengeance to others. Men's
+hearts harden, and their guilt increases apace at such a day as this, if they neglect their souls;
+and never was there so great danger of such persons being given up to hardness of heart and
+blindness of mind. God seems now to be hastily gathering in his elect in all parts of the land;
+and probably the greater part of adult persons that ever shall be saved, will be brought in now
+in a little time, and that it will be as it was on the great out-pouring of the Spirit upon the Jews
+in the apostles' days; the election will obtain, and the rest will be blinded. If this should be the
+case with you, you will eternally curse this day, and will curse the day that ever you were born,
+to see such a season of the pouring out of God's Spirit, and will wish that you had died and
+gone to hell before you had seen it. Now undoubtedly it is, as it was in the days of John the
+Baptist, the axe is in an extraordinary manner laid at the root of the trees, that every tree
+which brings not forth good fruit, may be hewn down and cast into the fire.
