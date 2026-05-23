@@ -1,3 +1,5 @@
+#show align: it => html.elem("div", attrs: (style: "text-align: center"))[#it.body]
+
 = All of Grace
 
 This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license. 
