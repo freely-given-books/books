@@ -51,7 +51,7 @@
   width: 100%,
   above: 1.6em,
   below: 0.2em,
-  align(center, text(size: 9.5pt, style: "italic", body)),
+  align(center, text(size: 9.5pt, style: "italic", hyphenate: false, body)),
 )
 
 // A divider the translation sets between verses, such as Psalm 119's acrostic
@@ -60,7 +60,7 @@
   width: 100%,
   above: 1.8em,
   below: 0.6em,
-  align(center, text(size: 10pt, tracking: 0.18em, smallcaps(body))),
+  align(center, text(size: 10pt, tracking: 0.18em, hyphenate: false, smallcaps(body))),
 )
 
 // The slice of Scripture Gill is expounding, which opens each comment.
@@ -120,7 +120,7 @@
     v(2.2em)
     text(15pt, tracking: 0.28em, upper[An Exposition of])
     v(1.4em)
-    text(30pt, weight: 700, tracking: 0.06em, smallcaps(title))
+    text(30pt, weight: 700, tracking: 0.06em, hyphenate: false, smallcaps(title))
     v(1.6em)
     line(length: 42%, stroke: 0.75pt)
     v(1.6em)
@@ -157,6 +157,8 @@
   set par(justify: true, leading: 0.62em, spacing: 1.15em, first-line-indent: 0pt)
 
   // Contents.
+  show outline: set text(hyphenate: false)
+  show outline: set par(justify: false)
   show outline.entry.where(level: 1): it => {
     let loc = it.element.location()
     v(1em)
@@ -236,7 +238,8 @@
 
   // A book of Scripture opens on its own page.
   show heading.where(level: 1): it => context {
-    set text(weight: 400)
+    set text(weight: 400, hyphenate: false)
+    set par(justify: false)
     pagebreak(to: "odd", weak: true)
     let subtitle = query(selector(<part-subtitle>).after(here())).at(0, default: none)
     v(1fr)
@@ -256,7 +259,8 @@
   }
 
   show heading.where(level: 2): it => {
-    set text(weight: 400)
+    set text(weight: 400, hyphenate: false)
+    set par(justify: false)
     pagebreak(weak: true)
     v(5%)
     align(center, {
