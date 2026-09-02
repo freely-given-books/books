@@ -48,7 +48,7 @@
 
 #lemma[High, minded;] puffed and swelled up with a vain conceit of themselves, and speaking great swelling words of vanity;
 
-#lemma[lovers of pleasure] more than lovers of God; lovers of sinful pleasures, or the pleasures of sin, which are but for a season, and not God; serving divers lusts and pleasures, and not God; making a god of their belly; sensual idolaters, delighting themselves in their carnal lusts, and not in the service of God.
+#lemma[lovers of pleasure more than lovers of God;] lovers of sinful pleasures, or the pleasures of sin, which are but for a season, and not God; serving divers lusts and pleasures, and not God; making a god of their belly; sensual idolaters, delighting themselves in their carnal lusts, and not in the service of God.
 
 #verse(3, 5)[Having a form of godliness, but denying the power thereof: from such turn away.]
 
@@ -106,7 +106,7 @@ whom Josephus#footnote[Antiqu. l. 13. c. 1. sect. 2.] calls the sons of Amaraeus
 
 #lemma[faith,] embraced, professed, and preached by him, was well known, so no less conspicuous was the grace of faith in him, with respect to his interest in God's everlasting love, in salvation by Jesus Christ, and in eternal glory and happiness; of which be had a full assurance, and which remained constant and firm in him to the end. Unless rather his faithfulness in the discharge of his ministerial work should be here designed, for which he was very remarkable; as also for his
 
-#lemma[longsuffering] both towards those that were without, the open enemies and persecutors of the Gospel, and towards them that were within, the brethren, whose infirmities he bore; and also for the success of the Gospel as the husbandman has long patience, and waits long for the former and latter rain to which is added
+#lemma[longsuffering,] both towards those that were without, the open enemies and persecutors of the Gospel, and towards them that were within, the brethren, whose infirmities he bore; and also for the success of the Gospel as the husbandman has long patience, and waits long for the former and latter rain to which is added
 
 #lemma[charity;] which suffers long, and is kind; and may include his love to God, to Christ, and to the souls of men; which was very great, and particularly to his countrymen, the Jews, and also to the Gentiles; and especially to the churches he was more immediately concerned with, and even to all the saints: this is left out in the Alexandrian copy: it follows,
 

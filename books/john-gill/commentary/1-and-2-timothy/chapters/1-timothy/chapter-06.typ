@@ -64,7 +64,7 @@ or teach another doctrine, from that of the Bible, of Christ and his apostles:
 
 #lemma[Perverse disputings of men of corrupt minds,…] Who being corrupt in their principles, and corrupters of the word of God, dispute in a very froward and perverse way, rubbing and galling one another, and so provoke, to wrath and anger, and, every evil work:
 
-#lemma[and destitute of the truth] of Christ, who is the truth, knowing nothing of him spiritually and savingly; and of the Gospel, the word of truth; and also of the truth of grace, being carnal, sensual, and having not the Spirit of God.
+#lemma[and destitute of the truth,] of Christ, who is the truth, knowing nothing of him spiritually and savingly; and of the Gospel, the word of truth; and also of the truth of grace, being carnal, sensual, and having not the Spirit of God.
 
 #lemma[Supposing that gain is godliness;] such were Simon Magus and his followers, and other false teachers, who made merchandise of men, looked everyone for his gain from his quarter, and acted as if there was nothing in religion but worldly profit and gain; these served themselves, their own bellies, and selfish interests, and not the Lord Jesus Christ. Wherefore the apostle gives the following advice to Timothy, and through him to all ministers and churches,
 

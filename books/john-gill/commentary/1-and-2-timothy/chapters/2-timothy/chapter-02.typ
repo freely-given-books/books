@@ -18,7 +18,7 @@
 
 #lemma[the same commit thou to faithful men;] who not only have received the grace of God, and are true believers in Christ, but are men of great uprightness and integrity; who having the word of God, will speak it out boldly, and faithfully, and keep back nothing that is profitable, but declare the whole counsel of God, without any mixture or adulteration; for the Gospel being committed to their trust, they would become stewards, and of such it is required that they be faithful; and therefore this is mentioned as a necessary and requisite qualification in them; and not only so, but they must be such
 
-#lemma[who shall be able] or sufficient
+#lemma[who shall be able,] or "sufficient",
 
 #lemma[to teach others also.] No man is sufficient for these things, of himself, but his sufficiency is of God; it is he who makes men able ministers of the word, by giving them gifts suitable for such work; so that they have a furniture in them, a treasure in their earthen vessels, an understanding of the sacred Scriptures, a gift of explaining them, and a faculty of speaking to edification; and so are apt to teach men, to their profit and advantage, The Ethiopic version renders it, "who are fit to teach the foolish".
 
@@ -128,7 +128,7 @@
 
 #lemma[But shun profane and vain babblings,…] The ministry of false teachers is mere babbling; a voice, and nothing else, as the man said of his nightingale; a sound of words, but no solid matter in them; great swelling words of vanity, like large bubbles of water, look big, and make a great noise, but have nothing in them; contain nothing but vain, empty, idle, and trifling stuff; what is unprofitable and unedifying, yea, what is profane, contrary to the nature and perfections of God, and not agreeable to the doctrine which is according to godliness; and being palmed upon the Holy Scriptures, is a profanation of them. And all such wicked and empty prate, and babbling, is to be shunned, avoided, and discouraged, refused, and rejected; and, as much as can be, a stop should be put to it, both by ministers and hearers of the word.
 
-#lemma[For they will increase unto more ungodliness] meaning either that such babblings, if used and encouraged, will grow more and more profane and wicked; or the persons that use them, the unruly and vain talkers, will grow more daring, bold; and impudent, will wax worse and worse, and from one error will proceed to another, for such seldom stop; and having abused one passage of Scripture, will go on to attack another, and will not cease, till they have wrested the whole Scripture to their own destruction, and that of others.
+#lemma[For they will increase unto more ungodliness.] meaning either that such babblings, if used and encouraged, will grow more and more profane and wicked; or the persons that use them, the unruly and vain talkers, will grow more daring, bold; and impudent, will wax worse and worse, and from one error will proceed to another, for such seldom stop; and having abused one passage of Scripture, will go on to attack another, and will not cease, till they have wrested the whole Scripture to their own destruction, and that of others.
 
 #verse(2, 17)[And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;]
 
