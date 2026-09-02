@@ -1,7 +1,8 @@
 # John Gill on 1 & 2 Timothy
 
 John Gill's verse-by-verse exposition of both Epistles to Timothy, set for
-6×9in print. **PDF only** — there is no ebook edition. 216 pages.
+6×9in print. **PDF only** — there is no ebook edition. 216 pages, with covers
+for both paperback and hardcover.
 
 ## Building
 
@@ -33,6 +34,9 @@ See `../REVIEW.md` for how the conversion works and what to check in
   and the King James text, and the recto running head names the book and the
   verses opened on that page. Each epistle is a part, with its own title page,
   Gill's introduction, and chapters.
+- `cover-paperback.typ`, `cover-hardcover.typ` — the full-wrap covers, built on
+  the set's shared `cover.typ`. The spine width is computed from the interior's
+  page count, so delete and rebuild these if the interior changes length.
 - `chapters/` — generated Typst, one directory per epistle.
 - `src/` — the JSON as fetched, kept so the build is reproducible offline.
 
