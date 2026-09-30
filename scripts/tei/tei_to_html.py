@@ -157,7 +157,7 @@ class HtmlR(R):
                 items.append(f"<li>{txt}{inner}</li>")
         if items:
             tag = "ol" if numbered else "ul"
-            cls = ' class="roman"' if numbered else ""
+            cls = ' class="roman"' if numbered and self.enum == "I." else ""
             out.append(f"<{tag}{cls}>" + "".join(items) + f"</{tag}>")
         return out
 
@@ -223,6 +223,7 @@ class HtmlR(R):
             " ".join(self.inline(e) for e in els)).strip()))
 
     levels = None             # layout mode: {div type: heading level}
+    enum = "I."               # TYPST_ENUM: numbering of lists the review made
     run_in = set()
 
     def div_html(self, div, level):
@@ -276,6 +277,13 @@ class HtmlR(R):
                 continue
             n = local(c)
             if n in ("head", "pb"):
+                continue
+            if n == "epigraph" and self.layer == "reg":
+                ref = self.text_of(c.findall(T + "bibl"))
+                body = self.text_of([q for q in c if local(q) in ("q", "p")])
+                out.append('<div class="epigraph">' +
+                           (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
+                           (f'<p class="epigraph-text">{body}</p>' if body else "") + "</div>")
                 continue
             if n == "p" and layout.p_blocks(c):
                 out += self.split_p(c)
@@ -391,6 +399,7 @@ def divisions(root, r, cfg=None):
     """(id, heading text, lines) for the dedication and each chapter, or for
     each file of the book's LAYOUT (cfg: the book's editorial.py settings)."""
     files = layout.book_layout(root, cfg or {})
+    r.enum = (cfg or {}).get("TYPST_ENUM", "I.")
     if files is not None:
         r.levels, r.run_in = layout.div_levels(cfg)
         for f in files:

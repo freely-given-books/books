@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# fgb: the TEI book pipeline in one command (see scripts/tei/fgb.py or ./fgb --help).
+# Works from any folder; sets up the Python environment the first time.
+set -e
+repo="$(cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")" && pwd)"
+venv="${FGB_VENV:-$HOME/.venvs/fgb-tei}"
+if [ ! -x "$venv/bin/python" ]; then
+    echo "fgb: setting up $venv (once) ..." >&2
+    python3 -m venv "$venv"
+    "$venv/bin/pip" install -q -r "$repo/scripts/tei/requirements.txt"
+fi
+exec "$venv/bin/python" "$repo/scripts/tei/fgb.py" "$@"

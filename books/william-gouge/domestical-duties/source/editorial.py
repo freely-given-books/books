@@ -123,3 +123,18 @@ EXPAND_ETC = True
 # "AS there are" under a decorated initial is set "As there are".
 ITALIC_SENTENCE_QUIRK = "after-stop"
 DROP_CAP_CASE = True
+
+# Lists the review numbers ("+" items) keep Typst's 1. 2. 3., not I. II.
+TYPST_ENUM = None
+
+# A paragraph that opens with its number ("3. It is a means...") is set as a
+# numbered item, as the printed volumes have always had it.
+TYPST_NUMBERED_PARAGRAPHS = "enum"
+
+# ./fgb epub / pdf / page (paths from the book folder)
+EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
+        "file": "domestical-duties.epub", "cover": "cover-ebook-front.jpg",
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "toc_depth": 4}
+PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)]
+SIDE_BY_SIDE = {"split": ["vol-1/", "vol-2/", "vol-3/", "vol-4/"]}

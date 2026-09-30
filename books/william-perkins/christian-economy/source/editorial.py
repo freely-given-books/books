@@ -68,3 +68,9 @@ REPORT_NOTES = [
     "as separate paragraphs with their printed numerals. Extract the "
     "untouched TCP file itself for the exact 1609 paragraphing.",
 ]
+
+# ./fgb epub / pdf / page (paths from the book folder)
+EPUB = {"title": "Christian Economy", "author": "William Perkins",
+        "front": "ebook-front.html", "cover": "cover_front.jpg",
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
+PRINT = ["christian-economy.typ"]

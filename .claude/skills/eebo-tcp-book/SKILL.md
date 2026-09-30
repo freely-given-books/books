@@ -27,6 +27,14 @@ disagree. `verify.py` proves that.
 
 ## Setup
 
+For the user, and for routine work, `./fgb` at the repo root wraps
+everything below (sync, find, page, check, epub, pdf; `./fgb --help`). It
+creates the venv itself. A book's `EPUB`, `PRINT` and `SIDE_BY_SIDE`
+settings in `editorial.py` hold what those commands need; give a new book
+them when it is set up, and point the user at `./fgb` rather than the long
+commands.
+
+
 The scripts need `lxml` and `pyspellchecker`. System pip on this machine
 (Artix) refuses to install packages, so use a venv and call its python for
 every script below (written `$PY`):

@@ -210,12 +210,39 @@ def _scan_block(r, text, italic=False):
         r.body_sp_map[i] = sp
 
 
+def join_brackets(text):
+    """Blank lines inside an open [ ... ] (a multi-line call such as an
+    epigraph block) do not end the block: turn them into single newlines."""
+    out, depth, i = [], 0, 0
+    while i < len(text):
+        c = text[i]
+        if c == "\\":
+            out.append(text[i:i + 2])
+            i += 2
+            continue
+        if c == "[":
+            depth += 1
+        elif c == "]":
+            depth = max(0, depth - 1)
+        if depth and text.startswith("\n\n", i):
+            out.append("\n")
+            i += 2
+            while i < len(text) and text[i] == "\n":
+                i += 1
+            continue
+        out.append(c)
+        i += 1
+    return "".join(out)
+
+
 def parse_review(text, inline_headings=False, titled=True):
     """inline_headings (a book with a LAYOUT): heading lines are text of the
     file, marked "H", except the first when the file has a title of the
     edition's own (titled), which goes to headings."""
     r = Review()
     r.titled = titled
+    if inline_headings:
+        text = join_brackets(text)
     r.body_sp_map = {}
     for block in re.split(r"\n\s*\n", text):
         lines = [l for l in block.split("\n")

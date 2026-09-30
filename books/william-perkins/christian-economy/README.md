@@ -25,6 +25,21 @@ The scripts in `sources/` are the first-pass converters, superseded by
 `scripts/tei/` at the repo root. See `source/README.md` for extracting either
 spelling from the TEI and for rebuilding it after further review.
 
+## Everyday commands
+
+From anywhere in the repository (`./fgb --help` for the rest):
+
+``` sh
+$ ./fgb sync perkins      # after editing chapters/typ: into the TEI, list the changes
+$ ./fgb find perkins WORD # every place a word is, as printed and as decided
+$ ./fgb page perkins      # the side-by-side page
+$ ./fgb check perkins     # verify
+$ ./fgb epub perkins      # the EPUB, checked with epubcheck
+$ ./fgb pdf perkins       # the print PDF
+```
+
+The long forms below do the same.
+
 ## Steps for Generation
 
 ### ebook

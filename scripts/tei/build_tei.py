@@ -112,6 +112,7 @@ def load_tables(path):
         spelling.MANUAL[k] = v
         spelling.NAMES.pop(k, None)
 
+NUMERAL_RE = re.compile(r"\d{1,2}|(?=[IVXLC]+$)[IVXLC]+", re.I)
 ROMAN_RE = re.compile(r"^(?=[IVXLC]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",
                       re.I)
 
@@ -880,6 +881,15 @@ def align(src, tgt, report, label, owner=None):
             if len(s_runs) == len(r_runs):
                 prev = next((s for s in reversed(src[:i1]) if s[1] == "w"), None)
                 for n, (sr, rr) in enumerate(zip(s_runs, r_runs)):
+                    # a printed numeral ("1." "II.") the review dropped when
+                    # it made the block a "+" item is the item's label, not
+                    # a deleted word
+                    if n and n - 1 < len(Rm) and Rm[n - 1] == "+" and len(sr) >= 2 and \
+                            NUMERAL_RE.fullmatch(sr[0][0][0]) and sr[1][0][0] in ".)" and \
+                            not (rr and rr[0][0][0] == sr[0][0][0]):
+                        for e, _ in sr[:2]:
+                            add_tgt(e[2], [e[0]], [])
+                        sr = sr[2:]
                     words = [e[0] for e, _ in rr]
                     idxs = [j for _, j in rr]
                     if sr:
@@ -991,16 +1001,18 @@ def classify(old, new):
 
 
 def ancestors(tok):
+    """Container tokens above tok (the element-less root is left out)."""
     a = []
     p = tok.parent
     while p is not None:
-        a.append(p)
+        if p.el is not None:
+            a.append(p)
         p = p.parent
     return a
 
 
 def in_container(tok, names):
-    return any(a.el is not None and local(a.el) in names for a in ancestors(tok))
+    return any(local(a.el) in names for a in ancestors(tok))
 
 
 def recompute_word(t):
@@ -1793,12 +1805,36 @@ def wrap_label(labels):
     return True
 
 
+MADE_LISTS = []
+
+
+def merge_lists(log):
+    """Lists the review made from neighbouring paragraphs ("1. ..." and
+    "2. ..." each a <p>) are one list: join a new list to the one before it
+    when nothing but space lies between."""
+    for lst in MADE_LISTS:
+        par = lst.parent
+        if par is None or lst not in par.children:
+            continue
+        k = par.children.index(lst)
+        j = k - 1
+        while j >= 0 and par.children[j].kind in ("space", "noise"):
+            j -= 1
+        prev = par.children[j] if j >= 0 else None
+        if prev is not None and prev.kind == "container" and local(prev.el) == "list" \
+                and prev.el.get("change") == "#review" and prev in MADE_LISTS:
+            prev.children += [Tok("space", ["\n"])] + [c for c in lst.children]
+            relink(prev)
+            del par.children[j + 1:k + 1]
+            relink(par)
+
+
 def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
-    later = [s for s in splits if s[1] in ("quote", "merge")]
-    splits = [s for s in splits if s[1] not in ("quote", "merge")]
+    later = [s for s in splits if s[1] in ("quote", "merge", "renumber")]
+    splits = [s for s in splits if s[1] not in ("quote", "merge", "renumber")]
     by_block = {}
     for s in splits:
         b = block_of(s[0])
@@ -1840,6 +1876,7 @@ def restructure(splits, log):
                     lst.el.set("type", "numbered")
                     lst.el.set("change", "#review")
                     out.append(lst)
+                    MADE_LISTS.append(lst)
                 if lst.children:
                     lst.children.append(Tok("space", ["\n"]))
                 lst.children.append(item)
@@ -1865,7 +1902,21 @@ def restructure(splits, log):
         log.append((pts[0][4], "split", "paragraph",
                     f"{len(cleaned) - 1} split(s) at " +
                     ", ".join((s[2][0].orig if s[2] else s[0].orig) for s in pts)))
+    merge_lists(log)
     for tok, kind, _l, _o, f in sorted(later, key=lambda s: s[3]):
+        if kind == "renumber":
+            # a printed bullet list the review numbers: its numerals become labels
+            lst = next((a for a in ancestors(tok) if local(a.el) == "list"), None)
+            if lst is None:
+                log.append((f, "skipped", f"numbering at '{tok.orig}'", "not in a list"))
+                continue
+            if lst.el.get("type") != "numbered":
+                lst.el.set("type", "numbered")
+                lst.el.set("change", "#review")
+                log.append((f, "list", "printed list", "numbered"))
+            if _l:
+                wrap_label(_l)
+            continue
         # the innermost paragraph (a <q> may itself hold paragraphs)
         b = next((a for a in ancestors(tok) if local(a.el) == "p"), None) or block_of(tok)
         if b is None or local(b.el) not in ("p", "q"):
@@ -1908,6 +1959,12 @@ def collect_splits(struct, stream_index, log):
             if len(Sw) >= 2 and ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == ".":
                 labels = [Sw[0][2], Sw[1][2]]
             splits.append((labels[0] if labels else tok, "+", labels, order, s["label"]))
+        elif s["tgt_marks"] == ["+"] and s["src_marks"] in (["¶"], ["-"]):
+            labels = []
+            if len(Sw) >= 2 and NUMERAL_RE.fullmatch(Sw[0][0]) and Sw[1][0] in ".)":
+                labels = [Sw[0][2], Sw[1][2]]
+            kind = "+" if s["src_marks"] == ["¶"] else "renumber"
+            splits.append((labels[0] if labels else tok, kind, labels, order, s["label"]))
         elif s["tgt_marks"] == ["¶"] and not s["src_marks"]:
             if in_container(tok, ("closer", "signed", "trailer")):
                 continue

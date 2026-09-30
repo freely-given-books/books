@@ -26,3 +26,13 @@ REPORT_NOTES = [
     "The table of contents and the publisher's advertisement are in the TEI "
     "(as printed) but are not part of this edition.",
 ]
+
+# ./fgb epub / pdf / page (paths from the book folder)
+EPUB = {"title": "The Anatomy of Simon Magus", "author": "Anonymous",
+        "front": "ebook-front.html", "cover": "cover_front.jpg",
+        "before": ["chapters/typ/foreword.typ"],
+        "after": ["ebook-appendix.html", "chapters/typ/abbreviations.typ"],
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
+PRINT = ["the-anatomy-of-simon-magus.typ"]
+SIDE_BY_SIDE = {"before": ["chapters/typ/foreword.typ"],
+                "after": ["ebook-appendix.html", "chapters/typ/abbreviations.typ"]}

@@ -79,6 +79,20 @@ works unchanged.
 
 ## Commands
 
+Day to day, use `./fgb` at the repo root: it works from any folder, sets up
+the venv, and takes a book by part of its name (or none inside the book):
+
+```sh
+./fgb sync gouge          # after editing chapters/typ: fold into the TEI, show changes
+./fgb find gouge thorow   # where a word is, as printed, and what was decided
+./fgb page gouge --open   # side-by-side page(s)
+./fgb check gouge         # verify.py
+./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py)
+./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
+```
+
+The underlying scripts, for anything else:
+
 ```sh
 # enriched TEI from the TCP file, folding in reviewed Typst chapters
 python3 scripts/tei/build_tei.py source/A09377.tcp.xml source/christian-economy.tei.xml \

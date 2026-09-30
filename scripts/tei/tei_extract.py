@@ -47,10 +47,12 @@ def esc(s):
     return ESC_RE.sub(r"\\\1", s)
 
 
-def block_start_escape(s):
+def block_start_escape(s, numerals=True):
     """Typst treats '1. ', '- ', '+ ', '= ' and '//' at the start of a
-    block as markup; escape them."""
-    s = re.sub(r"^(\d+)\.(\s)", r"\1\\.\2", s)
+    block as markup; escape them. numerals=False leaves '3. ' alone, so a
+    numbered paragraph is set as a numbered item (TYPST_NUMBERED_PARAGRAPHS)."""
+    if numerals:
+        s = re.sub(r"^(\d+)\.(\s)", r"\1\\.\2", s)
     s = re.sub(r"^([-+=])(\s)", r"\\\1\2", s)
     s = re.sub(r"^/(/)", r"\\/\1", s)
     return s
@@ -226,7 +228,9 @@ class R:
 
     # -- blocks ----------------------------------------------------------
     def para(self, el):
-        return block_start_escape(collapse(self.inline(el)).strip())
+        enum = getattr(self, "settings", {}).get("TYPST_NUMBERED_PARAGRAPHS") == "enum"
+        return block_start_escape(collapse(self.inline(el)).strip(),
+                                  numerals=not (enum and self.layer == "reg"))
 
     def list_block(self, lst, depth=0, lines=None):
         lines = [] if lines is None else lines
@@ -299,8 +303,9 @@ def div_blocks(r, div, level=2):
                 t = f"#quote[{t}]"
             add_block(r, lines, c, t)
         elif n == "list":
-            if c.get("type") == "numbered" and r.layer == "reg" and not enum_set:
-                lines += ['#set enum(numbering: "I.")', ""]
+            enum = getattr(r, "settings", {}).get("TYPST_ENUM", "I.")
+            if c.get("type") == "numbered" and r.layer == "reg" and not enum_set and enum:
+                lines += [f'#set enum(numbering: "{enum}")', ""]
                 enum_set = True
             lines += r.list_block(c)
             lines.append("")
@@ -325,6 +330,8 @@ def div_blocks(r, div, level=2):
                 lines += [f"#align(right)[{r.para(signed)}]", ""]
         elif n == "trailer":
             lines += trailer_lines(r, c)
+        elif n == "epigraph":
+            lines += epigraph_lines(r, c)
         elif n == "div" and getattr(r, "levels", None) is not None:
             lines += div_lines(r, c, r.levels.get(c.get("type"), level + 1))
         elif n == "div" or (n == "q" and c.find(T + "p") is not None):
@@ -332,6 +339,26 @@ def div_blocks(r, div, level=2):
         else:
             add_block(r, lines, c, r.para(c))
     return lines
+
+
+def epigraph_lines(r, ep):
+    """A scripture epigraph: in the reg layer centred, the reference small
+    and bold, the verses italic (text(style:) rather than #emph, since the
+    italics are the edition's setting, not the printed text's); in the orig
+    layer as a paragraph, as printed."""
+    if r.layer != "reg":
+        t = r.para(ep)
+        return [t, ""] if t else []
+    ref = " ".join(collapse(r.inline(b)).strip() for b in ep.findall(T + "bibl"))
+    body = " ".join(collapse(r.inline(q)).strip() for q in ep if local(q) in ("q", "p"))
+    if not (ref or body):
+        return []
+    lines = ["#align(center)[", "  #block(width: 85%)[", "    #set par(justify: false)"]
+    if ref:
+        lines += [f"    #text(size: 0.9em, weight: 600)[{ref}]", ""]
+    if body:
+        lines.append(f'    #text(style: "italic")[{body}]')
+    return lines + ["  ]", "]", "", "#v(0.8em)", ""]
 
 
 def p_runs(p):
@@ -407,7 +434,8 @@ def div_lines(r, div, level):
         if not t:
             continue
         if div.get("type") in r.run_in:
-            lines += [f"#strong[{block_start_escape(t)}]", ""]
+            enum = getattr(r, "settings", {}).get("TYPST_NUMBERED_PARAGRAPHS") == "enum"
+            lines += [f"#strong[{block_start_escape(t, numerals=not enum)}]", ""]
         else:
             lines += [f"{'=' * level} {t}", ""]
     return lines + div_blocks(r, div, level)
@@ -467,7 +495,8 @@ def book_settings(tei_path):
     import runpy
     ed = Path(tei_path).parent / "editorial.py"
     ns = runpy.run_path(str(ed)) if ed.exists() else {}
-    return {k: ns[k] for k in ("TYPST_PREAMBLE", "TYPST_HEADING") if k in ns}
+    return {k: ns[k] for k in ("TYPST_PREAMBLE", "TYPST_HEADING", "TYPST_ENUM",
+                               "TYPST_NUMBERED_PARAGRAPHS") if k in ns}
 
 
 def heading_lines(r, div):
