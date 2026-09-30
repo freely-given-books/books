@@ -9,7 +9,7 @@
 | kind | count |
 | --- | --- |
 | case | 18 |
-| spelling | 16 |
+| spelling | 12 |
 | expansion | 9 |
 | emendation | 9 |
 | gap | 8 |
@@ -100,13 +100,10 @@
 
 - vail → veil (×4)
 - Iam → Jam (×2)
-- main → maine (×2)
 - Be → Bee
 - Corinthes → Corinthians
 - Tigres → Tigers
-- behoveful → behooful
 - harts → hearts
-- marry → mary
 - saken → shaken
 - sundrie → sundry
 
