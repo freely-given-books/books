@@ -2,7 +2,7 @@
 
 ## Please check
 
-- chapter-05.typ: the #linebreak() before 'Concerning affinity' is layout, not text, so it is not stored in the TEI. Add it back in your template or the extracted file if you want the extra space.
+- chapter-05.typ: the #linebreak() before 'Concerning affinity' is layout, not text, so it is not stored in the TEI; keep it in chapters/typ.
 - chapter-10 heading: your title drops ', and of due benevolence'. The printed heading is kept in orig; the shortened title is your reg.
 - In the orig layer, the run-in lists you set out (I. ... II. ...) come out as separate paragraphs with their printed numerals. Extract the untouched TCP file itself for the exact 1609 paragraphing.
 

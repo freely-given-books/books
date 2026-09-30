@@ -2,7 +2,10 @@
 """
 Build an enriched TEI edition of an EEBO-TCP text.
 
-  python3 build_tei.py SOURCE.xml OUT.xml [--review DIR] [--report FILE]
+  python3 build_tei.py SOURCE.xml OUT.xml [--review DIR] [--report FILE] [--tables FILE]
+
+Book-specific tables (macron n/m, reconstructed gaps, nouns to lowercase,
+report notes) live in the book's source/editorial.py, found next to SOURCE.
 
 Starting from the untouched TCP transcription, this adds editorial layers
 *inside* the same file, without removing anything from the original:
@@ -39,60 +42,33 @@ import reviewparse  # noqa: E402
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 
 # ---------------------------------------------------------------------------
-# Book-specific editorial tables (A09377, Christian Oeconomie)
+# Book-specific editorial tables: loaded from the book's source/editorial.py
+# (see load_tables); these are the defaults for a book that has none.
 # ---------------------------------------------------------------------------
 
 # Macron abbreviations default to a suppressed "n"; these document-order
 # indices expand to "m" instead (checked by hand against context).
-MACRON_M = {4, 29, 31, 35, 51, 53, 62, 72, 75, 78, 79, 81, 87, 88, 93,
-            109, 113, 115, 132, 141, 144, 146, 151}
+MACRON_M = set()
 
 # Illegible <gap>s reconstructed from context, keyed by document-order
 # index of non-duplicate gaps: (letters, certainty, evidence note).
-GAP_FIXES = {
-    3: ("eu", "high", "1 Tim. 2:8, 'pray every where'"),
-    4: ("w", "high", "1 Tim. 2:8, 'without wrath'"),
-    5: ("st", "high", "custome"),
-    6: ("ti", "high", "times"),
-    7: ("t", "high", "Gen. 18:19, 'that they keep'"),
-    8: ("t", "high", "Gen. 18:19, 'righteousness'"),
-    9: ("G", "high", "citation Gen. 18. 19."),
-    11: ("i", "high", "it is"),
-    12: ("e", "high", "maxim: diu deliberandum quod semel statuendum"),
-    13: ("t", "high", "maxim: diu deliberandum quod semel statuendum"),
-    14: ("b", "high", "canon-law formula: in verbis de praesenti"),
-    15: ("praesenti", "medium", "canon-law formula: in verbis de praesenti"),
-    16: ("i", "high", "de iure, glossed 'in regard of right'"),
-    17: ("u", "high", "lawfull"),
-    19: ("5", "low", "Augustine, De Civ. Dei lib. 15 cap. 16 (digit uncertain)"),
-    20: ("a", "high", "in stead"),
-    21: ("o", "high", "blood"),
-    22: ("o", "high", "Epistol."),
-    24: ("e", "high", "cousin-german"),
-    25: ("it", "medium", "it forbiddeth"),
-    26: ("en", "high", "children"),
-    27: ("e", "high", "the mother"),
-    28: ("i", "high", "Marie"),
-    29: ("i", "high", "maxim: cuius nuptias inire non licet"),
-    30: ("g", "high", "maxim: eius nec coniugis licet"),
-    31: ("r", "high", "formerly"),
-    32: ("nta", "high", "maintaining"),
-    34: ("r", "high", "mariage (this text's spelling)"),
-    36: ("su", "high", "succeeding"),
-    37: ("r", "high", "seueritie"),
-    38: ("8", "medium", "Matt. 18:15, on rebuking a brother"),
-}
+GAP_FIXES = {}
 
-LOWERCASE_COMMON_NOUNS = {
-    "family", "familie", "contract", "marriage", "mariage", "society",
-    "societie", "societies", "common", "line", "case", "nature", "rules",
-    "rule", "argument", "author", "education", "sacrament", "baptisme",
-    "baptism", "concubine", "bride", "wife", "wiues", "wives", "children",
-    "husbands", "husband", "master", "masters", "servant", "servants",
-    "seruant", "seruants", "goodwife", "mother", "image", "signe", "sign",
-    "generall", "general", "proper", "honour", "honor", "mistresse",
-    "mistress", "state", "states", "commonwealth", "parent", "parents",
-}
+# Capitalized common nouns lowercased when not sentence-initial.
+LOWERCASE_COMMON_NOUNS = set()
+
+# Notes shown under "Please check" at the top of the report.
+REPORT_NOTES = []
+
+
+def load_tables(path):
+    """Replace the tables above with those defined in a book's editorial.py."""
+    import runpy
+    ns = runpy.run_path(str(path))
+    g = globals()
+    for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES"):
+        if name in ns:
+            g[name] = ns[name]
 
 ROMAN_RE = re.compile(r"^(?=[IVXLC]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",
                       re.I)
@@ -853,27 +829,6 @@ def collect_splits(struct, stream_index, log):
 # Book-specific repair of the review copy (not adopted as review edits)
 # ---------------------------------------------------------------------------
 
-CH05_LIST = """+ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father or mother, or half sisters by one of them and not by both.
-+ The brothers children or cousin germans; that is, the uncles sons or daughters, or the aunts sons or daughters. The sisters children, or cousin germans; that is, the aunts sons or daughters, which are the children of two sisters.
-+ The cousin german, the son of the great uncle by the fathers or mothers side, and the cousin german the son of the great aunt, by the fathers or mothers side. The cousin-german the daughter of the great uncle, by the fathers or mothers side, and the cousin german, the daughter of the great aunt by the same sides."""
-
-
-def repair_review(name, text, log):
-    if name == "chapter-05.typ":
-        start = text.find("Kinsmen of this line, are,\n")
-        if start >= 0:
-            s2 = text.find("\n", start) + 1
-            end = text.find("daughter of the great aunt by the same sides.", s2)
-            if end > 0 and " brothers, that is, brothers by the same fat\n" in text[s2:end]:
-                end += len("daughter of the great aunt by the same sides.")
-                text = text[:s2] + "\n" + CH05_LIST + text[end:]
-                log.append(("chapter-05.typ", "repair",
-                            "'Kinsmen of this line, are,' list",
-                            "damaged block (words cut mid-line) rebuilt from the "
-                            "source as items I-III; please check"))
-    return text
-
-
 # ---------------------------------------------------------------------------
 # TEI header additions
 # ---------------------------------------------------------------------------
@@ -939,6 +894,41 @@ def add_header(root, editor_name):
 
 
 # ---------------------------------------------------------------------------
+# --list: the occurrences editorial.py is keyed on
+# ---------------------------------------------------------------------------
+
+def list_editorial(toks, width=6):
+    """Print each macron abbreviation and non-duplicate gap in document order,
+    numbered exactly as MACRON_M and GAP_FIXES index them, with the printed
+    page (pb/@n, pb/@facs for the page image) and the words around it."""
+    words, page = [], ("?", "")
+    for kind, t in iter_stream(toks):
+        if kind != "tok":
+            continue
+        if t.kind == "atom" and t.el is not None and local(t.el) == "pb":
+            page = (t.el.get("n") or "?", t.el.get("facs") or "")
+        if t.kind == "word":
+            words.append((t, page))
+    for i, (t, (pn, facs)) in enumerate(words):
+        if not (t.macrons or t.gaps):
+            continue
+        before = " ".join(w.expanded for w, _ in words[max(0, i - width):i])
+        after = " ".join(w.expanded for w, _ in words[i + 1:i + 1 + width])
+        where = f"p.{pn} {facs}".strip() + (" note" if t.in_note else "")
+        for idx, _ in t.macrons:
+            m = "m" if idx in MACRON_M else "n"
+            print(f"macron {idx:4d}  [{m}]  {t.expanded!r:18}  {where}\n"
+                  f"        ... {before} [{t.expanded}] {after} ...")
+        for idx, g in t.gaps:
+            desc = g.find(T + "desc")
+            shown = desc.text if desc is not None and desc.text else "•"
+            fix = GAP_FIXES.get(idx)
+            state = f"fixed {fix[0]!r} ({fix[1]}: {fix[2]})" if fix else f"OPEN {shown!r}"
+            print(f"gap    {idx:4d}  {state}  {where}\n"
+                  f"        ... {before} [{t.expanded}] {after} ...")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -946,11 +936,23 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("source")
-    ap.add_argument("out")
+    ap.add_argument("out", nargs="?")
+    ap.add_argument("--list", action="store_true",
+                    help="list every macron abbreviation and illegible gap with its "
+                    "index, page and context (for filling in editorial.py), then stop")
     ap.add_argument("--review", help="folder with dedication.typ, chapter-NN.typ")
     ap.add_argument("--report", help="write a Markdown report of review decisions")
     ap.add_argument("--editor", default="Courtney Allen Hicks")
+    ap.add_argument("--tables", help="book's editorial.py (default: editorial.py "
+                    "next to SOURCE, if there is one)")
     args = ap.parse_args()
+    if not args.list and not args.out:
+        ap.error("OUT is required unless --list is given")
+    tables = Path(args.tables) if args.tables else Path(args.source).parent / "editorial.py"
+    if tables.exists():
+        load_tables(tables)
+    elif args.tables:
+        ap.error(f"no such file: {tables}")
 
     src = etree.parse(args.source)
     tree = copy.deepcopy(src)
@@ -958,6 +960,9 @@ def main():
     text = root.find(".//" + T + "text")
     toks = tokenize(text, {"macron": 0, "gap": 0})
     compute_auto(toks)
+    if args.list:
+        list_editorial(toks)
+        return
 
     divs = []
 
@@ -972,10 +977,11 @@ def main():
     log, unresolved, all_splits = [], [], []
     if args.review:
         R = Path(args.review)
-        files = ["dedication.typ"] + [f"chapter-{i:02d}.typ" for i in range(1, 19)]
+        files = [("dedication.typ" if d.el.get("type") == "dedication"
+                  else f"chapter-{int(d.el.get('n')):02d}.typ") for d in divs]
         order = 0
         for d, f in zip(divs, files):
-            raw = repair_review(f, (R / f).read_text(), log)
+            raw = (R / f).read_text()
             heads, tg = reviewparse.parse_typ(raw)
             # headings
             sub = [c for c in d.children if c.kind == "container" and
@@ -1021,16 +1027,7 @@ def main():
           f"{len(unresolved)} unresolved")
 
 
-REPORT_NOTES = [
-    "chapter-05.typ: the #linebreak() before 'Concerning affinity' is layout, "
-    "not text, so it is not stored in the TEI. Add it back in your template "
-    "or the extracted file if you want the extra space.",
-    "chapter-10 heading: your title drops ', and of due benevolence'. The "
-    "printed heading is kept in orig; the shortened title is your reg.",
-    "In the orig layer, the run-in lists you set out (I. ... II. ...) come out "
-    "as separate paragraphs with their printed numerals. Extract the "
-    "untouched TCP file itself for the exact 1609 paragraphing.",
-]
+
 
 
 def write_report(path, log, unresolved):

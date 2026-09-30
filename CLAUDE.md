@@ -175,9 +175,18 @@ and copied back into `chapters/typ`.
 
 ## Starting a new TCP book
 
+The step-by-step workflow is the `eebo-tcp-book` skill
+(`.claude/skills/eebo-tcp-book/SKILL.md`). In short:
+
 1. Clone the TCP repo; copy `<ID>.xml` to `source/<ID>.tcp.xml`.
-2. Copy `build_tei.py` and replace the book tables at the top:
-   `MACRON_M`, `GAP_FIXES`, `REPORT_NOTES`, `repair_review`, and the
-   file-name mapping in `main()` (dedication + chapter-NN).
-3. Run `build_tei.py` without `--review` for the machine-only edition,
-   extract the reg layer, review in Typst, then rebuild with `--review`.
+2. `build_tei.py source/<ID>.tcp.xml --list` prints every macron and gap
+   with its index, page and context. Record decisions in
+   `source/editorial.py` (`MACRON_M`, `GAP_FIXES`, `LOWERCASE_COMMON_NOUNS`,
+   `REPORT_NOTES`; all optional). `build_tei.py` finds it next to the TCP
+   file; the shared script itself holds no book data.
+3. Build without `--review` for the machine-only edition, extract the reg
+   layer into `chapters/typ`, review there, then rebuild with `--review`.
+4. The scripts only know `div[@type='dedication']` and
+   `div[@type='chapter']` (with `@n`). A book with a preface, parts or
+   sermons needs the division selection in `build_tei.py`,
+   `tei_extract.py` and `tei_to_html.py` extended first.
