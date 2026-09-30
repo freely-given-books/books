@@ -76,8 +76,7 @@
 // Render a catechism question (BC 1695 / AOC 1680 style)
 #let render-catechism-question(question) = {
   let result = build-segments-and-proofs(question.segments)
-
-  block(breakable: false)[
+  let body = [
     *Question #question.id - * #question.question
 
     *Answer:* #result.content
@@ -85,8 +84,14 @@
     #result.proofs
     #line(stroke: 0.02em)
   ]
+  // layout() is dropped by HTML export, so the ebook gets the plain body
+  context if target() == "html" { body } else {
+    layout(size => {
+      let h = measure(block(width: size.width, body)).height
+      block(breakable: h > size.height, body)
+    })
+  }
 }
-
 // ============================================================================
 // LBCF 1689 - London Baptist Confession of Faith
 // ============================================================================
