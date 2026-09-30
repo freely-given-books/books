@@ -125,6 +125,14 @@ width depends on the page count), `ebook-front.html`, `ebook-override.css`,
 `README.md` and `source/README.md`. Also copy `lcc_standard_pd.png`.
 
 Hand `chapters/typ` to the user for review. That is their job, not yours.
+Give them the side-by-side reading copy too (printed text next to the
+edition, every change marked; read-only, git-ignored):
+
+```sh
+$PY scripts/tei/tei_review.py $B/source/<book>.tei.xml $B/side-by-side.html
+```
+
+Regenerate it after every rebuild of the TEI.
 Don't "improve" the text on your own.
 
 ## After the user reviews `chapters/typ`

@@ -41,6 +41,17 @@ $ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml chri
 $ calibre-debug ../../../scripts/tei/check_epub.py christian-economy.epub   # optional check
 ```
 
+### side-by-side reading copy
+
+The 1609 text next to the edition, block by block, with every editorial
+change marked (hover a word to see the printed reading, the machine's and
+the editor's). It is read-only: edit `chapters/typ`, rebuild the TEI, then
+regenerate it. It is git-ignored.
+
+``` sh
+$ python3 ../../../scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
+```
+
 ### pdf
 
 ``` sh

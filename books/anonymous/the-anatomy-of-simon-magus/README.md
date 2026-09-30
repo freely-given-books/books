@@ -51,3 +51,14 @@ $ python3 ../../../../scripts/tei/build_tei.py A25330.tcp.xml the-anatomy-of-sim
         --review ../chapters/typ --report review-report.md
 $ cd ../../../.. && python3 scripts/tei/verify.py books/anonymous/the-anatomy-of-simon-magus
 ```
+
+### side-by-side reading copy
+
+The 1700 text next to the edition, block by block, with every editorial
+change marked (hover a word to see the printed reading, the machine's and
+the editor's). It is read-only: edit `chapters/typ`, rebuild the TEI as
+above, then regenerate it. It is git-ignored.
+
+``` sh
+$ python3 ../../../scripts/tei/tei_review.py source/the-anatomy-of-simon-magus.tei.xml side-by-side.html
+```

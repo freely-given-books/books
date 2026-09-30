@@ -8,10 +8,11 @@
 | kind | count |
 | --- | --- |
 | case | 4563 |
-| spelling | 1124 |
 | italic | 762 |
+| spelling | 584 |
+| grammar | 401 |
 | punctuation | 373 |
-| emendation | 192 |
+| emendation | 331 |
 | note moved | 160 |
 | spacing | 90 |
 | split | 28 |
@@ -74,31 +75,51 @@
 - [chapter-01.typ note] Joh . → John
 - [chapter-01.typ note] In Sent . Lib . → Bonaventure, Commentary on the Sentences, Liber 4, Distinction 25, Article 1, Question
 - [chapter-01.typ note] Dist . 25 . Art . 1 . q . 4 . → 
+- [chapter-01.typ] and → 
 - [chapter-01.typ] whereof → of which
 - [chapter-01.typ] & c . → (
 - [chapter-01.typ] thence → from there
 - [chapter-01.typ] mis - employ → misemploy
 - [chapter-01.typ] thereby : → by that.
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] than → of
 - [chapter-01.typ] luke - warm Clergy → lukewarm clergy
 - [chapter-01.typ] thereof → of that
 - [chapter-01.typ] thereof → of that
 - [chapter-01.typ] Author thereof → author of that
 - [chapter-01.typ] . Chapter → chapter
 - [chapter-01.typ] the Gift → gift
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] thereupon offer'd → upon that offered
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] With the 〈◊〉 accuse thou hast → with you, because you have
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Matter contain'd therein → matter contained in that
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] therewith → with that
+- [chapter-01.typ] 2dly → Secondly
 - [chapter-01.typ] Merchandise thereof → merchandise of it
 - [chapter-01.typ] wherewith → with which
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] as → 
+- [chapter-01.typ] says → 
+- [chapter-01.typ] Gregory → 
 - [chapter-01.typ] sell → sell); as says Gregory
 - [chapter-01.typ] & c → etc
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Gain thereby : Wherefore → gain by that. Therefore
 - [chapter-01.typ] whereby → by which
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] therewith → with it
 - [chapter-01.typ] whereupon → upon which
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] Chost → Spirit
+- [chapter-01.typ] Infidel → unbeliever
+- [chapter-01.typ] Raiment → clothing
 - [chapter-01.typ] & c → etc
 - [chapter-01.typ] thereof → of them
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] self same → selfsame
 - [chapter-01.typ] Instruments whereby → instruments by which
 - [chapter-01.typ] Helps thereto → helps to them
@@ -106,17 +127,27 @@
 - [chapter-01.typ] First - Fruits → firstfruits
 - [chapter-01.typ] whereof → of which
 - [chapter-01.typ] thereof → of that
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] wherein whosoever → in which whoever
+- [chapter-01.typ] Ghost → Spirit)
+- [chapter-01.typ] 2dly → Secondly
 - [chapter-01.typ] Inducements thereto → inducements to that
 - [chapter-01.typ] Whoredoms → sexual immorality
+- [chapter-01.typ] Whores → prostitutes
+- [chapter-01.typ] Ghost → Spirit
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Ministeries thereto → ministries to that
 - [chapter-01.typ] Definition thereof → definition of that
 - [chapter-01.typ] School - men → schoolmen
 - [chapter-01.typ] Spiritual Things → spiritual things)
 - [chapter-01.typ] Definition thereof → definition of it
 - [chapter-01.typ] Spiritual Things → spiritual things)
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Trespass thereabout → trespass in that
+- [chapter-01.typ] That → 
 - [chapter-01.typ] Gift → that gift
+- [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Spiritual Things thereby → spiritual things by that
 - [chapter-01.typ] Titles thereto → titles to them
 - [chapter-01.typ] & c → etc
@@ -125,28 +156,50 @@
 - [chapter-01.typ] thereof → of those
 - [chapter-01.typ] hereunto → to this
 - [chapter-01.typ] Nature thereof → nature of them
+- [chapter-01.typ] 2dly → Secondly
 - [chapter-01.typ] thereof → of them
 - [chapter-01.typ] Church - → church
 - [chapter-01.typ] Church - Revenue → church revenue
+- [chapter-01.typ] Increpation → rebuke
 - [chapter-01.typ] whereunto → to which
+- [chapter-01.typ] 3dly → Thirdly
 - [chapter-01.typ] Presentation thereto → presentation to it
 - [chapter-02.typ note] 3 . → 
+- [chapter-02.typ note] 4 → 5
 - [chapter-02.typ note] Joh . → John
+- [chapter-02.typ note] 3 → 3:1
 - [chapter-02.typ note] • . → 
+- [chapter-02.typ] shall → will
+- [chapter-02.typ] shall → will
 - [chapter-02.typ] any thing → anything
 - [chapter-02.typ] whereby → by which
+- [chapter-02.typ] shall → will
+- [chapter-02.typ] shall → will
 - [chapter-02.typ] whereof → of which
+- [chapter-02.typ] shall → will
+- [chapter-02.typ] to → that
+- [chapter-02.typ] wit → is
 - [chapter-02.typ] any thing → anything
 - [chapter-02.typ] School - men → schoolmen
 - [chapter-02.typ] & c → etc
+- [chapter-02.typ] Increpation → rebuke
+- [chapter-02.typ] 2dly → Secondly
 - [chapter-02.typ] whereby → by which
+- [chapter-02.typ] frustraneous → fruitless
+- [chapter-02.typ] subdolous → deceitful
 - [chapter-02.typ] whereby Men → by which men
 - [chapter-02.typ] The Promise → (the promise
+- [chapter-02.typ] doth → 
+- [chapter-02.typ] 3dly → Thirdly
 - [chapter-02.typ] School - men → schoolmen
+- [chapter-02.typ] to → that
+- [chapter-02.typ] wit → is
 - [chapter-02.typ] any thing Moveable → anything moveable
 - [chapter-02.typ] Canon - Law → canon law
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] any thing → anything
+- [chapter-02.typ] Laick → lay
+- [chapter-02.typ] thence → therefrom
 - [chapter-02.typ] Sacraut → sacra ut
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] any thing → anything
@@ -156,53 +209,102 @@
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] whereby → by which
 - [chapter-02.typ] & c → etc
+- [chapter-02.typ] shall → will
+- [chapter-02.typ] 2dly → Secondly
 - [chapter-02.typ] wellgrounded Hope → well-grounded hope
+- [chapter-02.typ] 3dly → Thirdly
 - [chapter-02.typ] whereby → by which
 - [chapter-02.typ] an Hand - maid → a handmaid
 - [chapter-02.typ] Country → countrymen, smock
+- [chapter-02.typ] men → 
+- [chapter-02.typ] Smock → 
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] so be → 
+- [chapter-02.typ] mancipates → enslaves
 - [chapter-02.typ] whereupon → upon which
+- [chapter-02.typ] betwixt → between
 - [chapter-02.typ] whereof → of which
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] any thing → anything
 - [chapter-02.typ] Clergy - man → clergyman
 - [chapter-02.typ] Laick → lay person
 - [chapter-02.typ] & c → etc
+- [chapter-02.typ] 2dly → Secondly
 - [chapter-02.typ] wherein → in which
 - [chapter-02.typ] whereby → by which
 - [chapter-02.typ] Sheep - fold → sheepfold
+- [chapter-02.typ] 3dly → Thirdly
 - [chapter-02.typ] thereat → at it
 - [chapter-02.typ] whereby → by which
+- [chapter-02.typ] Whoso → Whoever
+- [chapter-02.typ] then → 
 - [chapter-02.typ] thereat → at it
 - [chapter-02.typ] & c → etc
+- [chapter-02.typ] shall → will
+- [chapter-02.typ] 4thly → Fourthly
+- [chapter-02.typ] to → that
+- [chapter-02.typ] wit → is
 - [chapter-02.typ] evil doers → evildoers
 - [chapter-02.typ] whereby Men → by which men
+- [chapter-03.typ note] 5 → 5:2
 - [chapter-03.typ] consine it self → confine itself
 - [chapter-03.typ] extendeth it self → extends itself
+- [chapter-03.typ] Ghost → Spirit
 - [chapter-03.typ] Covetousness , → covetousness
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] shall → will
 - [chapter-03.typ] Church , → church
+- [chapter-03.typ] to → that
+- [chapter-03.typ] wit → is
 - [chapter-03.typ] whilst , → while
 - [chapter-03.typ] wholsom , Food → wholesome food
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] shall → will
 - [chapter-03.typ] & c → etc
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] 2dly → Secondly
+- [chapter-03.typ] shall → will
 - [chapter-03.typ] our selves → ourselves
 - [chapter-03.typ] & c → etc
 - [chapter-03.typ] & c → etc
 - [chapter-03.typ] any thing → anything
 - [chapter-03.typ] & c → etc
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] shall → will
 - [chapter-03.typ] solver ; → solvere. (
 - [chapter-03.typ] doth → does he
+- [chapter-03.typ] shall → will
+- [chapter-03.typ] shall → will
 - [chapter-04.typ note] Joh . → John
+- [chapter-04.typ] Ghost → Spirit
+- [chapter-04.typ] 1st → First
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] 2dly → Secondly
 - [chapter-04.typ] Off - spring → offspring
+- [chapter-04.typ] 3dly → Thirdly
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
+- [chapter-04.typ] 4thly → Fourthly
+- [chapter-04.typ] shall → will
 - [chapter-04.typ] Thy → . Y
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] Ghost → Spirit
+- [chapter-04.typ] Ghost → Spirit
+- [chapter-04.typ] Ghost → Spirit
+- [chapter-04.typ] shall → will
 - [chapter-04.typ] Laicks → the laity
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] shall → will
+- [chapter-04.typ] Laick → lay
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
+- [chapter-04.typ] Laicks → laymen
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
@@ -214,26 +316,62 @@
 - [chapter-05.typ note] & c → etc
 - [chapter-05.typ note] Joh . → John
 - [chapter-05.typ note] Joh . → John
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] by → 
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] shall → will
 - [chapter-05.typ] & c → etc
 - [chapter-05.typ] & c → etc
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] to → that
+- [chapter-05.typ] wit → is
 - [chapter-05.typ] & c → etc
+- [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] Arch - Bishop → archbishop
 - [chapter-05.typ] planteth any thing → plants anything
 - [chapter-05.typ] watereth any thing → waters anything
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] and → 
+- [chapter-05.typ] shall → will
+- [chapter-05.typ] to → that
+- [chapter-05.typ] wit → is
+- [chapter-05.typ] shall → will
 - [chapter-05.typ] & c → etc
+- [chapter-05.typ] to → that
+- [chapter-05.typ] wit → is
+- [chapter-05.typ] to → that
+- [chapter-05.typ] wit → is
+- [chapter-05.typ] That → 
 - [chapter-05.typ] & c → etc
 - [chapter-05.typ] . Intentions → intentions
 - [chapter-05.typ] oft times → often
 - [chapter-05.typ] tho' → ) though
 - [chapter-05.typ] doth oft times → does often
 - [chapter-06.typ note] & c → etc
+- [chapter-06.typ note] 33 → 33:7
 - [chapter-06.typ note] • . → 
 - [chapter-06.typ] all ways → always
 - [chapter-06.typ] him - → 
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
+- [chapter-06.typ] it → 
 - [chapter-06.typ] Silverkeys → silver keys
+- [chapter-06.typ] to → 
 - [chapter-06.typ] our selves → ourselves
 - [chapter-06.typ] our selves → ourselves
 - [chapter-06.typ] assoon → as soon
@@ -251,11 +389,115 @@
 - [chapter-08.typ note] & c → etc
 - [chapter-08.typ] Common - wealth → commonwealth
 - [chapter-08.typ] your selves → yourselves
+- [chapter-08.typ] assoon → 
 - [chapter-08.typ] Youths → soon as youths
 - [chapter-08.typ] Censures → ) censures
 - [chapter-08.typ] luke - warm → lukewarm
 - [chapter-08.typ] your selves → yourselves
+- [chapter-08.typ] e'er → ere
 - [chapter-08.typ] lother → more loath
+
+## grammar
+
+- hath → has (×95)
+- thou → you (×40)
+- doth → does (×35)
+- ye → you (×22)
+- thee → you (×19)
+- thy → your (×14)
+- unto → to (×14)
+- an → a (×8)
+- be → is (×8)
+- thine → your (×8)
+- saith → says (×7)
+- art → are (×6)
+- Thou → You (×5)
+- hast → have (×5)
+- Thy → Your (×4)
+- wilt → will (×4)
+- be → are (×3)
+- camest → came (×3)
+- dispenseth → dispenses (×3)
+- giveth → gives (×3)
+- may'st → may (×3)
+- worketh → works (×3)
+- Ye → You (×2)
+- buyeth → buys (×2)
+- calleth → calls (×2)
+- considereth → considers (×2)
+- desireth → desires (×2)
+- entereth → enters (×2)
+- exerciseth → exercises (×2)
+- expresseth → expresses (×2)
+- preacheth → preaches (×2)
+- rendereth → renders (×2)
+- shalt → shall (×2)
+- taketh → takes (×2)
+- Administrateth → administers
+- Doth → does
+- Exerciseth → exercises
+- Preacheth → preaches
+- Thy → your
+- addresseth → addresses
+- advanceth → advances
+- affirmeth → affirms
+- aimest → aim
+- alloweth → allows
+- altereth → alters
+- answereth → answers
+- ariseth → arises
+- asserteth → asserts
+- availeth → avails
+- bewrayeth → betrays
+- bindeth → binds
+- blesseth → blesses
+- bribeth → bribes
+- climbeth → climbs
+- comprehendeth → comprehends
+- decayeth → decays
+- denounceth → denounces
+- dependeth → depends
+- deriveth → derives
+- designest → design
+- disjoineth → disjoins
+- espouseth → espouses
+- exposeth → exposes
+- findest → find
+- flourisheth → flourishes
+- forbeareth → forbears
+- hateth → hates
+- heareth → hears
+- interposeth → interposes
+- lingereth → lingers
+- looseth → looses
+- maketh → makes
+- meaneth → means
+- offereth → offers
+- opposeth → opposes
+- payeth → pays
+- pleadeth → pleads
+- pleaseth → pleases
+- practiseth → practices
+- produceth → produces
+- proposest → propose
+- proposeth → proposes
+- putteth → puts
+- reacheth → reaches
+- reckoneth → reckons
+- rendreth → renders
+- requireth → requires
+- sacrificeth → sacrifices
+- sawest → saw
+- selleth → sells
+- separateth → separates
+- shalt → will
+- slumbereth → slumbers
+- soweth → sows
+- teacheth → teaches
+- treadeth → treads
+- tryeth → tries
+- useth → uses
+- withereth → withers
 
 ## punctuation
 
@@ -1857,20 +2099,11 @@
 
 ## spelling
 
-- hath → has (×95)
 - Ministery → ministry (×57)
-- thou → you (×40)
-- Ghost → Spirit (×35)
-- doth → does (×35)
-- shall → will (×35)
 - whilst → while (×31)
-- ye → you (×22)
-- thee → you (×19)
 - condemn'd → condemned (×16)
 - Matth → Matt (×15)
 - Maintainance → maintenance (×14)
-- thy → your (×14)
-- unto → to (×14)
 - incurr'd → incurred (×12)
 - whosoever → whoever (×12)
 - amongst → among (×11)
@@ -1878,33 +2111,20 @@
 - Favour → favor (×9)
 - Paction → pact (×9)
 - Wherefore → Therefore (×9)
-- 2dly → Secondly (×8)
-- an → a (×8)
-- be → is (×8)
-- thine → your (×8)
-- to → that (×8)
-- wit → is (×8)
-- saith → says (×7)
 - Labours → labors (×6)
-- art → are (×6)
 - call'd → called (×6)
-- 3dly → Thirdly (×5)
 - Endeavour → endeavor (×5)
 - Endeavours → endeavors (×5)
-- Thou → You (×5)
-- hast → have (×5)
 - lyable → liable (×5)
 - showed → shown (×5)
 - Call'd → called (×4)
 - Errours → errors (×4)
 - Honour → honor (×4)
 - Simonical → simoniacal (×4)
-- Thy → Your (×4)
 - design'd → designed (×4)
 - hainousness → heinousness (×4)
 - humane → human (×4)
 - meerly → merely (×4)
-- wilt → will (×4)
 - Administred → administered (×3)
 - Antients → ancients (×3)
 - Catholick → catholic (×3)
@@ -1922,42 +2142,23 @@
 - Whosoever → Whoever (×3)
 - abhorrency → abhorrence (×3)
 - acquir'd → acquired (×3)
-- be → are (×3)
-- camest → came (×3)
-- dispenseth → dispenses (×3)
-- giveth → gives (×3)
-- may'st → may (×3)
 - shewing → showing (×3)
-- worketh → works (×3)
-- 4thly → Fourthly (×2)
 - Administring → administering (×2)
 - Burthen → burden (×2)
 - Countrey → country (×2)
 - Falshood → falsehood (×2)
-- Increpation → rebuke (×2)
 - Intreaties → entreaties (×2)
 - Labourer → laborer (×2)
 - Labourers → laborers (×2)
-- Laick → lay (×2)
 - Ministeries → ministries (×2)
 - Offence → offense (×2)
 - Simoniac → simoniace (×2)
-- That →  (×2)
-- Ye → You (×2)
-- and →  (×2)
 - bewrays → betrays (×2)
 - burthen → burden (×2)
-- buyeth → buys (×2)
-- calleth → calls (×2)
 - conferr'd → conferred (×2)
-- considereth → considers (×2)
 - defin'd → defined (×2)
 - depriv'd → deprived (×2)
 - deriv'd → derived (×2)
-- desireth → desires (×2)
-- entereth → enters (×2)
-- exerciseth → exercises (×2)
-- expresseth → expresses (×2)
 - howsoever → however (×2)
 - implicitely → implicitly (×2)
 - interceeds → intercedes (×2)
@@ -1968,24 +2169,14 @@
 - possess'd → possessed (×2)
 - practise → practice (×2)
 - practised → practiced (×2)
-- preacheth → preaches (×2)
 - publick → public (×2)
 - reduc'd → reduced (×2)
-- rendereth → renders (×2)
 - rendred → rendered (×2)
-- shalt → shall (×2)
 - shews → shows (×2)
 - stigmatiz'd → stigmatized (×2)
-- taketh → takes (×2)
 - use → uses (×2)
 - wouldst → would (×2)
-- 1st → First
-- 3 → 3:1
-- 33 → 33:7
-- 4 → 5
-- 5 → 5:2
 - Accessaries → accessories
-- Administrateth → administers
 - Advanc'd → advanced
 - All → (All
 - Ambassadours → ambassadors
@@ -1997,7 +2188,6 @@
 - Bleffing → blessing
 - Bracar → Braga
 - Caelestinus → Celestinus
-- Chost → Spirit
 - Christ → Christ)
 - Colos → Col
 - Colours → colors
@@ -2006,20 +2196,16 @@
 - Counsellor → counselor
 - Countrey's → country's
 - Dipensing → dispensing
-- Doth → does
 - Ecclesia → Ecclesiae
 - Ecclesiasticks → ecclesiastics
 - Effect → effect)
-- Exerciseth → exercises
 - Favor → favore
 - Favour → (Favor
 - Favourite → favorite
 - Favourites → favorites
 - Fervour → fervor
-- Ghost → Spirit)
 - God → God)
 - Gothick → Gothic
-- Gregory → 
 - Herauld → herald
 - Heretick → heretic
 - Horrour → horror
@@ -2027,12 +2213,10 @@
 - Humours → humors
 - Inconveniencies → inconveniences
 - Indebitae → Indebita
-- Infidel → unbeliever
 - Instrustrument → instrument
 - Intercessour → intercessor
 - Jerom → Jerome
 - Jews → Jews'
-- Laicks → laymen
 - Maintainances → maintenance
 - Malachy → Malachi
 - Mechanick → mechanic
@@ -2050,11 +2234,9 @@
 - Philip → Phil
 - Philipp → Phil
 - Practisers → practicers
-- Preacheth → preaches
 - Preferr'd → preferred
 - Prophesy → prophecy
 - Prosit → profit
-- Raiment → clothing
 - Reflexion → reflection
 - Reordain → re-ordain
 - Rhemes → Rheims
@@ -2063,53 +2245,29 @@
 - Shouldst → Should
 - Simoniacks → Simoniacs
 - Simony → simony)
-- Smock → 
 - Steven → Stephen
 - Suare → snare
 - Tentations → temptations
 - Terrour → terror
 - That → (That
-- Thy → your
 - Thyatyra → Thyatira
 - Traffick → traffic
 - Transgressours → transgressors
 - Whilst → (While
-- Whores → prostitutes
-- Whoso → Whoever
 - aagain → again
 - aboundantly → abundantly
-- addresseth → addresses
-- advanceth → advances
-- affirmeth → affirms
 - affix'd → affixed
-- aimest → aim
-- alloweth → allows
-- altereth → alters
-- answereth → answers
 - apappear → appear
-- ariseth → arises
-- as → 
 - asham'd → ashamed
-- asserteth → asserts
-- assoon → 
 - attain'd → attained
-- availeth → avails
 - banish'd → banished
 - betray'd → betrayed
-- betwixt → between
 - bewray → betray
-- bewrayeth → betrays
-- bindeth → binds
-- blesseth → blesses
 - block'd → blocked
 - brib'd → bribed
-- bribeth → bribes
-- by → 
 - cenatu → conatu
 - charg'd → charged
 - clesiasticum → ecclesiasticum
-- climbeth → climbs
-- comprehendeth → comprehends
 - conjoin'd → conjoined
 - connexion → connection
 - consentedst → consented
@@ -2121,26 +2279,16 @@
 - coud → could
 - croking → croaking
 - cry'd → cried
-- decayeth → decays
 - decree'd → decreed
-- denounceth → denounces
-- dependeth → depends
-- deriveth → derives
-- designest → design
 - destin'd → destined
-- disjoineth → disjoins
 - divers → diverse
 - do → does
-- doth → 
-- e'er → ere
 - employ'd → employed
 - endeavour → endeavor
 - enjoy'd → enjoyed
 - ensnar'd → ensnared
 - entertain'd → entertained
-- espouseth → espouses
 - explicitely → explicitly
-- exposeth → exposes
 - facer → facere
 - facrifice → sacrifice
 - fame → same
@@ -2150,16 +2298,10 @@
 - felling → selling
 - fer → fere
 - fet → set
-- findest → find
-- flourisheth → flourishes
-- forbeareth → forbears
 - found → sound
-- frustraneous → fruitless
 - gain'd → gained
 - griev'd → grieved
 - hainously → heinously
-- hateth → hates
-- heareth → hears
 - hearkned → hearkened
 - ill → ille
 - imploy'd → employed
@@ -2170,103 +2312,63 @@
 - intangled → entangled
 - interceed → intercede
 - interessed → interested
-- interposeth → interposes
 - intreat → entreat
 - intreating → entreating
 - introduc'd → introduced
 - intrâsti → intrasti
-- it → 
 - join'd → joined
 - judg'd → judged
 - justling → jostling
 - kind → kind)
 - labour → labor
 - likwise → likewise
-- lingereth → lingers
 - lofe → lose
 - look'd → looked
-- looseth → looses
 - lye → lie
 - lyes → lies
 - maintain'd → maintained
 - maintainance → maintenance
-- maketh → makes
-- mancipates → enslaves
-- meaneth → means
 - medling → meddling
-- men → 
 - ministred → ministered
 - mov'd → moved
 - my → may
 - nature → nature)
 - nubs → nubes
 - occasion'd → occasioned
-- offereth → offers
-- opposeth → opposes
 - parallel'd → paralleled
-- payeth → pays
 - perditerum → perditorum
 - perform'd → performed
-- pleadeth → pleads
 - pleas'd → pleased
-- pleaseth → pleases
-- practiseth → practices
 - pretious → precious
 - priz'd → prized
 - procur'd → procured
-- produceth → produces
 - propagate → propagated
-- proposest → propose
-- proposeth → proposes
 - prov'd → proved
-- putteth → puts
 - question'd → questioned
-- reacheth → reaches
 - receiv'd → received
-- reckoneth → reckons
-- rendreth → renders
-- requireth → requires
 - retain'd → retained
-- sacrificeth → sacrifices
 - savour → savor
-- sawest → saw
-- says → 
 - scarce → scarcely
-- selleth → sells
 - selling → selling)
 - sence → sense
-- separateth → separates
-- shalt → will
 - sinish → finish
-- slumbereth → slumbers
 - sooth → soothe
-- soweth → sows
 - sparr'd → spurred
 - spight → spite
 - stirr'd → stirred
 - strengthning → strengthening
-- subdolous → deceitful
 - suppos'd → supposed
 - sustain'd → sustained
-- teacheth → teaches
 - tendred → tendered
 - tentation → temptation
-- than → of
-- then → 
-- thence → therefrom
 - thorow → through
 - threatend → threatened
-- to → 
-- treadeth → treads
-- tryeth → tries
 - undefil'd → undefiled
 - unsold → unsold)
 - unvaluable → invaluable
-- useth → uses
 - vigor → vigore
 - warn'd → warned
 - whatsoever → whatever
 - whomsoever → whomever
-- withereth → withers
 - woful → woeful
 

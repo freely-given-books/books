@@ -44,7 +44,9 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
     lists, printed numerals kept in `<label>`
   - `<head type="edition">` this edition's section title, printed head kept;
     `<head type="short">` its running-head form
-  - `reg/@type`: spelling, case, punctuation, emendation, spacing; a `reg`
+  - `reg/@type`: spelling, case, punctuation, spacing, grammar (archaic
+    forms modernized: thou, hath, -eth), emendation (another word, a word
+    added or removed, a changed number; "wording" in `tei_review.py`); a `reg`
     may hold `<hi>` (italic words of the reading) and `<anchor>`s
   - notes: `note/@target` → `<anchor>` where the edition moved the note
     (it stays where it was printed for the orig layer);
@@ -96,6 +98,9 @@ python3 scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-econo
     --front ebook-front.html --cover cover_front.jpg --css ebook.css
 # or the whole book as one XHTML file, to preview in a browser
 python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml preview.html
+# side-by-side reading copy: printed text | edition, every change marked
+# (hover a word for printed / machine / editor readings); read-only
+python3 scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
 
 # end-to-end check: rebuild matches committed TEI, round trips, compile
 python3 scripts/tei/verify.py books/william-perkins/christian-economy
@@ -126,7 +131,10 @@ for a book with its own heading macro).
 
 ## Review workflow
 
-The reviewed Typst chapters remain a fine place to edit. Re-run
+The reviewed Typst chapters remain a fine place to edit. To read the
+edition against the printed text, generate `side-by-side.html` with
+`tei_review.py` (above); it is read-only, and it shows which
+`chapters/typ` file to edit. Re-run
 `build_tei.py --review chapters/typ`: it aligns the reviewed text against
 the machine pass token by token and records every difference as an
 `#editor` decision (macron n/m fixes and filled-in gaps are recognized as
@@ -179,7 +187,8 @@ and copied back into `chapters/typ`.
 5. **The machine keeps grammatical archaisms** (hath, doth, thou, thee,
    thy, ye, shalt, wilt, art, hast, dost): different words, not spellings.
    An edition may still modernize them (Simon Magus does: hath → has, thou
-   → you); those are editor decisions, never `spelling.py` entries.
+   → you); those are editor decisions (`reg[@type="grammar"]`), never
+   `spelling.py` entries.
    Footnotes stay in original spelling in the machine pass (abbreviations
    expanded only).
 6. **Sentence case rules are legacy-compatible on purpose**: first word of

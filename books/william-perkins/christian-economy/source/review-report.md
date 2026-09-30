@@ -10,10 +10,10 @@
 | --- | --- |
 | case | 18 |
 | expansion | 9 |
+| emendation | 9 |
 | gap | 8 |
-| spelling | 8 |
 | split | 8 |
-| emendation | 7 |
+| spelling | 6 |
 | punctuation | 4 |
 | skipped | 1 |
 
@@ -63,7 +63,9 @@
 - [chapter-09.typ] ship wrack → shipwreck
 - [chapter-10.typ heading] married folks , and of due benevolence → Married Folks
 - [chapter-13.typ] beforborne → be forborne
+- [chapter-13.typ] y• → the
 - [chapter-14.typ note] parfactis → parentum factis
+- [chapter-16.typ] y• → the
 
 ## punctuation
 
@@ -90,7 +92,6 @@
 
 ## spelling
 
-- y• → the (×2)
 - Be → Bee
 - Corinthes → Corinthians
 - Tigres → Tigers

@@ -613,10 +613,31 @@ def join_tokens(ts):
     return out
 
 
+# Grammatical archaisms: modernizing them (thou -> you, hath -> has) is a
+# change of word, not of spelling, but common enough to get its own type so
+# that real rewordings stay easy to find.
+ARCHAIC = {"thou", "thee", "thy", "thine", "ye", "hath", "doth", "hast", "dost",
+           "art", "shalt", "wilt", "saith", "unto", "wast", "wert"}
+ARCHAIC_ENDING = re.compile(r"(eth|est|'st)$")
+# Pairs rather than words: "be" -> "bee" is a spelling fix (Bee-hive).
+ARCHAIC_PAIRS = {("be", "is"), ("be", "are"), ("be", "am"), ("an", "a")}
+
+
 def classify(old, new):
+    """reg/@type of a single-token editor change: case, spelling (the same
+    word spelled differently), grammar (an archaic form modernized) or
+    emendation (another word, a word removed or added, a changed number)."""
     if old.lower() == new.lower():
         return "case"
-    if " " in new or " " in old:
+    if " " in new or " " in old or not old.strip() or not new.strip():
+        return "emendation"
+    a, b = old.lower(), new.lower()
+    if re.sub(r"\D", "", a) != re.sub(r"\D", "", b):
+        return "emendation"                    # citation numbers
+    if a in ARCHAIC or (a, b) in ARCHAIC_PAIRS or (ARCHAIC_ENDING.search(a) and
+                        difflib.SequenceMatcher(None, a, b).ratio() >= 0.5):
+        return "grammar"
+    if difflib.SequenceMatcher(None, a, b).ratio() < 0.6:
         return "emendation"
     return "spelling"
 
@@ -1570,7 +1591,9 @@ def add_header(root, editor_name):
         "inline; nothing of the transcription has been removed.",
         "choice/orig holds the text as printed; choice/reg holds the modern "
         "reading. reg/@resp says who decided it (#auto = machine, #editor = "
-        "reviewed by hand); reg/@type is spelling, case, punctuation or emendation. "
+        "reviewed by hand); reg/@type is spelling, case, punctuation, spacing, "
+        "grammar (an archaic form modernized: thou, hath, -eth) or emendation "
+        "(another word, or a word added or removed). "
         "Where the editor overrode the machine, the editor's reg comes first and "
         "the machine's proposal follows as a second reg[@resp='#auto'].",
         "choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) "
@@ -1795,12 +1818,12 @@ def write_report(path, log, unresolved):
     for e in log:
         groups[e[1]].append(e)
     for k in ["repair", "unresolved", "split", "skipped", "gap", "expansion",
-              "emendation", "punctuation", "case", "spelling"]:
+              "emendation", "grammar", "punctuation", "case", "spelling"]:
         if k not in groups:
             continue
         lines.append(f"## {k}")
         lines.append("")
-        if k in ("spelling", "case"):
+        if k in ("spelling", "case", "grammar"):
             c = Counter((e[2], e[3]) for e in groups[k])
             for (a, b), n in sorted(c.items(), key=lambda x: (-x[1], x[0])):
                 lines.append(f"- {a} → {b}" + (f" (×{n})" if n > 1 else ""))
