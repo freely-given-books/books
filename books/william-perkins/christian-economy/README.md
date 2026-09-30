@@ -11,26 +11,45 @@ Latin by Thomas Pickering.
 | `chapters/typ/dedication.typ` | Pickering's epistle dedicatory to Lord Rich |
 | `chapters/typ/chapter-01.typ` … `chapter-18.typ` | one file per chapter of the treatise |
 | `christian-economy.typ` | print edition (imports the `fgbooks` template) |
-| `ebook-christian-economy.typ` | ebook edition (Typst HTML export) |
+| `ebook-front.html` | ebook front matter (title page, licence, epigraph) |
+| `ebook-christian-economy.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
-| `dedication.typ`, `treatise.typ` | original-spelling render, kept for reference |
-| `dedication_modern.typ`, `treatise_modern.typ` | modernized render the chapters were split from |
+| `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
+| `sources/dedication_modern.typ`, `sources/treatise_modern.typ` | modernized render the chapters were split from |
+| `source/A09377.tcp.xml` | untouched EEBO-TCP transcription of the 1609 printing (provenance) |
+| `source/christian-economy.tei.xml` | enriched TEI edition: the 1609 text plus every editorial decision inline |
+| `source/review-report.md` | review decisions carried from `chapters/typ` into the TEI |
+
+The scripts in `sources/` are the first-pass converters, superseded by
+`scripts/tei/` at the repo root. See `source/README.md` for extracting either
+spelling from the TEI and for rebuilding it after further review.
 
 ## Steps for Generation
 
 ### ebook
 
+The EPUB 3 is built straight from the TEI by `scripts/tei/tei_epub.py`: one
+file per chapter, notes as pop-up footnotes (shown after the chapter on
+readers without pop-ups), Greek and Hebrew language-tagged.
+
 ``` sh
-$ typst compile --features html ebook-christian-economy.typ -f html
-$ ebook-convert ebook-christian-economy.html christian-economy.epub \
-        --authors "William Perkins" \
-        --title "Christian Economy" \
-        --cover cover_front.jpg \
-        --extra-css ../../resources/css/ebook.css \
-        --extra-css ebook-override.css \
-        --epub-version 2 \
-        --level1-toc '//h:h3'
+$ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
+        --title "Christian Economy" --author "William Perkins" \
+        --front ebook-front.html --cover cover_front.jpg \
+        --css ../../resources/css/ebook.css --css ebook-override.css
+$ epubcheck christian-economy.epub   # 0 errors, 0 warnings
+```
+
+### side-by-side reading copy
+
+The 1609 text next to the edition, block by block, with every editorial
+change marked (hover a word to see the printed reading, the machine's and
+the editor's). It is read-only: edit `chapters/typ`, rebuild the TEI, then
+regenerate it. It is git-ignored.
+
+``` sh
+$ python3 ../../../scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
 ```
 
 ### pdf
