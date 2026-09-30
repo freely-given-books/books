@@ -11,7 +11,8 @@ Latin by Thomas Pickering.
 | `chapters/typ/dedication.typ` | Pickering's epistle dedicatory to Lord Rich |
 | `chapters/typ/chapter-01.typ` … `chapter-18.typ` | one file per chapter of the treatise |
 | `christian-economy.typ` | print edition (imports the `fgbooks` template) |
-| `ebook-christian-economy.typ` | ebook edition (Typst HTML export) |
+| `ebook-front.html` | ebook front matter (title page, licence, epigraph) |
+| `ebook-christian-economy.typ` | earlier ebook source (Typst HTML export), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
 | `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
@@ -28,8 +29,12 @@ spelling from the TEI and for rebuilding it after further review.
 
 ### ebook
 
+The ebook text comes straight from the TEI (`scripts/tei/tei_to_html.py`):
+each chapter keeps its own notes, and Greek and Hebrew are language-tagged.
+
 ``` sh
-$ typst compile --features html ebook-christian-economy.typ -f html
+$ python3 ../../../scripts/tei/tei_to_html.py source/christian-economy.tei.xml \
+        ebook-christian-economy.html --front ebook-front.html --title "Christian Economy"
 $ ebook-convert ebook-christian-economy.html christian-economy.epub \
         --authors "William Perkins" \
         --title "Christian Economy" \

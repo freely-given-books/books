@@ -63,20 +63,33 @@ class R:
         self.mark = mark_supplied
         self.only_auto = only_auto
 
+    # -- output format (Typst); tei_to_html.py overrides these ----------
+    def esc(self, s):
+        return esc(s)
+
+    def sup(self, inner):
+        return f"#super[{inner}]"
+
+    def emph(self, inner):
+        return f"#emph[{block_start_escape(inner)}]"
+
+    def footnote(self, body):
+        return f"#footnote[{block_start_escape(body)}]"
+
     # -- inline ----------------------------------------------------------
     def inline(self, el, in_numbered=False):
         kids = list(el)
         lead = el.text or ""
         if kids and noise(lead, None, kids[0], leading=True):
             lead = ""
-        parts = [("t", esc(lead))]
+        parts = [("t", self.esc(lead))]
         for i, c in enumerate(kids):
             parts.append(("n" if local(c) == "note" else "e", self.node(c, in_numbered)))
             nxt = kids[i + 1] if i + 1 < len(kids) else None
             raw_tail = c.tail or ""
             if noise(raw_tail, c, nxt):
                 raw_tail = ""
-            parts.append(("t", esc(raw_tail)))
+            parts.append(("t", self.esc(raw_tail)))
         out = []
         for i, (k, s) in enumerate(parts):
             if k == "n" and s:
@@ -99,32 +112,32 @@ class R:
                 g = c.find(T + "gap")
                 if g is not None:
                     return self.node(g)
-            t = esc(c.text or "")
+            t = self.esc(c.text or "")
             return f"⟨{t}⟩" if self.mark else t
         if n == "gap":
             if c.get("reason") == "duplicate":
                 return ""
             d = c.find(T + "desc")
-            return esc(d.text if d is not None and d.text else "•")
+            return self.esc(d.text if d is not None and d.text else "•")
         if n == "g":
             ref = c.get("ref")
             if ref in ("char:EOLhyphen", "char:EOLunhyphen"):
                 return ""
             if ref == "char:abque":
                 return "ꝗ"
-            return esc(c.text or "")
+            return self.esc(c.text or "")
         if n == "hi":
             inner = self.inline(c, in_numbered)
             if c.get("rend") == "sup":
-                return f"#super[{inner}]"
+                return self.sup(inner)
             if not inner.strip():
                 return inner
             lead = inner[:len(inner) - len(inner.lstrip())]
             trail = inner[len(inner.rstrip()):]
-            return f"{lead}#emph[{block_start_escape(inner.strip())}]{trail}"
+            return f"{lead}{self.emph(inner.strip())}{trail}"
         if n == "note":
             body = collapse(self.inline(c)).strip()
-            return f"#footnote[{block_start_escape(body)}]" if body else ""
+            return self.footnote(body) if body else ""
         if n == "label":
             if self.layer == "reg" and in_numbered:
                 return ""
@@ -134,7 +147,7 @@ class R:
                 am = c.find(T + "am")
                 return "".join(self.node(x) for x in am) if am is not None else ""
             ex = c.find(T + "ex")
-            return esc(ex.text or "") if ex is not None else ""
+            return self.esc(ex.text or "") if ex is not None else ""
         if n in ("pb", "lb", "milestone", "fw"):
             return ""
         return self.inline(c, in_numbered)                 # seg, q, bibl, ...
@@ -155,13 +168,13 @@ class R:
         abbr, expan = c.find(T + "abbr"), c.find(T + "expan")
         if orig is not None and reg is not None:
             if self.layer == "reg":
-                return esc(reg.text or "")
+                return self.esc(reg.text or "")
             return self.inline(orig)
         if abbr is not None and expan is not None:
             if self.layer == "reg" or self.expand:
                 if self.only_auto and expan.get("resp") and expan.get("resp") != "#auto":
                     return self.inline(abbr)
-                return esc(expan.text or "")
+                return self.esc(expan.text or "")
             return self.inline(abbr)
         return self.inline(c)
 

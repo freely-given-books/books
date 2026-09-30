@@ -31,3 +31,68 @@ section[role="doc-endnotes"] {
   padding-top: 1em;
   font-size: 0.9em;
 }
+
+/* TEI-built ebook (scripts/tei/tei_to_html.py) */
+#front p {
+  text-indent: 0;
+  text-align: left;
+  margin-bottom: 0.6em;
+}
+
+#front p.title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+#front p.epigraph {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+}
+
+img.licence {
+  width: 50%;
+}
+
+ol.roman {
+  list-style-type: upper-roman;
+}
+
+li {
+  text-align: justify;
+}
+
+p.list-head {
+  text-indent: 0;
+  margin-top: 0.5em;
+}
+
+p.closer {
+  margin-top: 2em;
+  text-indent: 0;
+}
+
+p.signature {
+  text-align: right;
+  text-indent: 0;
+}
+
+p.trailer {
+  text-align: center;
+  text-indent: 0;
+  margin-top: 1.5em;
+}
+
+section.notes ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+section.notes li {
+  text-align: left;
+  margin-bottom: 0.3em;
+}
+
+a.noteref sup {
+  font-size: 0.7em;
+}

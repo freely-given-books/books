@@ -14,8 +14,17 @@ TCP transcription (untouched)          books/<author>/<book>/source/<ID>.tcp.xml
 enriched TEI edition                   books/<author>/<book>/source/<book>.tei.xml
         │  scripts/tei/tei_extract.py   or   scripts/tei/tei.typ (Typst reads the XML)
         ▼
-Typst chapters / PDF / ebook           chapters/typ/*.typ, <book>.typ
+Typst chapters / PDF                   chapters/typ/*.typ, <book>.typ
+
+enriched TEI edition
+        │  scripts/tei/tei_to_html.py (+ ebook-front.html), then ebook-convert
+        ▼
+ebook                                  ebook-<book>.html, <book>.epub
 ```
+
+`tei_to_html.py` reuses `tei_extract.py`'s renderer (the `R` class; its
+output methods `esc`/`emph`/`sup`/`footnote` are what the HTML subclass
+overrides), so the ebook and the Typst chapters cannot drift apart.
 
 - The **untouched TCP file** is provenance. Never edit it.
 - The **enriched TEI** holds the 1609 text *and* every editorial decision
@@ -66,6 +75,10 @@ python3 scripts/tei/tei_extract.py source/christian-economy.tei.xml out/orig --l
 #   --show-gaps       orig layer: show illegible print as transcribed (•)
 #   --mark-supplied   wrap reconstructed letters in ⟨ ⟩
 #   --only-auto       reg layer: machine pass only (audit what the review changed)
+
+# one XHTML file for the ebook (then ebook-convert, see the book's README)
+python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml ebook.html \
+    --front ebook-front.html --title "Christian Economy"
 
 # end-to-end check: rebuild matches committed TEI, round trips, compile
 python3 scripts/tei/verify.py books/william-perkins/christian-economy
