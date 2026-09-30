@@ -6,6 +6,7 @@ change marked. Open the HTML file in a browser; hover over a marked word to
 see what was printed, what the machine proposed and who decided.
 
   python3 tei_review.py EDITION.tei.xml OUT.html [--before FILE] [--after FILE]
+                        [--only vol-1/]
 
 It is for reading only. Make changes in chapters/typ and rebuild the TEI
 (build_tei.py --review), then run this again.
@@ -31,7 +32,8 @@ from pathlib import Path
 from lxml import etree
 
 from tei_extract import R, T, collapse, local, following_trailers
-from tei_to_html import HtmlR, curl, NOTEREF_GAP, tei_title
+from tei_to_html import HtmlR, curl, NOTEREF_GAP, tei_title, file_ident
+import layout
 from tei_epub import typst_page
 
 TYPES = [  # (class, label, shown by default)
@@ -201,12 +203,31 @@ def rows(div, o, m):
     return out
 
 
-def counts(div):
+def counts(*els):
     c = collections.Counter()
-    for reg in div.iter(T + "reg"):
-        if reg.get("resp") == "#editor":
-            c[reg.get("type") or "spelling"] += 1
+    for el in els:
+        for reg in el.iter(T + "reg"):
+            if reg.get("resp") == "#editor":
+                c[reg.get("type") or "spelling"] += 1
     return c
+
+
+def division_units(root, cfg):
+    """(ident, title or None, [part elements], whole division?) per file."""
+    files = layout.book_layout(root, cfg)
+    if files is not None:
+        for f in files:
+            yield file_ident(f["file"]), f["file"], f["title"], f["parts"]
+        return
+    for div in root.iter(T + "div"):
+        typ = div.get("type")
+        if typ == "dedication":
+            ident = "dedication"
+        elif typ == "chapter":
+            ident = f"chapter-{int(div.get('n')):02d}"
+        else:
+            continue
+        yield ident, f"{ident}.typ", None, div
 
 
 CSS = """
@@ -330,6 +351,9 @@ def main():
                     help="modern page before the text (.typ or .html); repeatable")
     ap.add_argument("--after", action="append", default=[],
                     help="modern page after the text; repeatable")
+    ap.add_argument("--only", metavar="PREFIX",
+                    help="only the files whose path starts with PREFIX, e.g. vol-1/ "
+                    "(a big book is easier to read a volume at a time)")
     ap.add_argument("--typst-root",
                     help="Typst --root for .typ pages (default: the book folder)")
     a = ap.parse_args()
@@ -364,28 +388,42 @@ def main():
 
     for f in a.before:
         modern(f, "before")
-    for div in root.iter(T + "div"):
-        typ = div.get("type")
-        if typ == "dedication":
-            ident = "dedication"
-        elif typ == "chapter":
-            ident = f"chapter-{int(div.get('n')):02d}"
-        else:
+    for ident, fname, ftitle, unit in division_units(root, layout.settings(a.tei)):
+        if a.only and not fname.startswith(a.only):
             continue
-        mh = m.heading(div)
-        oh = o.heading(div)
-        name = re.sub(r"<[^>]+>", "", mh[0]) if mh else ident
-        c = counts(div)
+        if isinstance(unit, list):              # a layout file: its parts
+            div = unit
+            mh = [f"<h3>{html.escape(ftitle)}</h3>"] if ftitle else []
+            oh = []
+            wrapper = unit
+        else:
+            div = unit
+            mh = m.heading(div)
+            oh = o.heading(div)
+            wrapper = [div]
+        name = re.sub(r"<[^>]+>", "", mh[0]) if mh else fname
+        c = counts(*wrapper)
         summary = ", ".join(f"{v} {k}" for k, v in c.most_common()) or "none"
         body = [f'<section class="div" id="{ident}"><h2>{name}</h2>',
-                f'<div class="meta">edit in <code>{html.escape(a.chapters)}/{ident}.typ'
+                f'<div class="meta">edit in <code>{html.escape(a.chapters)}/{fname}'
                 f'</code> · editor decisions: {summary}</div>',
                 f'<div class="row colhead"><div>Printed {year}</div><div>Edition</div></div>',
                 f'<div class="row head"><div class="orig">{"".join(oh)}</div>'
                 f'<div class="reg">{"".join(mh)}</div></div>']
-        rs = rows(div, o, m)
-        for tr in following_trailers(div):
-            rs.append(("".join(o.blocks([tr])), "".join(m.blocks([tr])), ""))
+        if isinstance(unit, list):
+            rs = []
+            for el in unit:
+                if local(el) == "div":
+                    oh_, mh_ = o.heading(el), m.heading(el)
+                    if oh_ or mh_:
+                        rs.append(("".join(oh_), "".join(mh_), "head"))
+                    rs += rows(el, o, m)
+                else:
+                    rs += rows([el], o, m)
+        else:
+            rs = rows(div, o, m)
+            for tr in following_trailers(div):
+                rs.append(("".join(o.blocks([tr])), "".join(m.blocks([tr])), ""))
         for ob, mb, cls in rs:
             body.append(f'<div class="row {cls}"><div class="orig">{ob}</div>'
                         f'<div class="reg">{mb}</div></div>')

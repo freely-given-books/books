@@ -52,19 +52,30 @@ mkdir -p $B/source && cp /tmp/<ID>/<ID>.xml $B/source/<ID>.tcp.xml
 $PY scripts/tei/tcp_structure.py $B/source/<ID>.tcp.xml
 ```
 
-**Check the structure before going further.** The scripts only understand
-`div[@type="dedication"]` and `div[@type="chapter"]` with an `@n`, which
-fit Perkins's *Christian Oeconomie*. `tcp_structure.py` prints the division
-tree (marking unsupported types with `*`) and exits non-zero when text sits
-in a division the scripts would skip. Many TCP texts fail this check. Perkins's
-*A Cloud of Faithful Witnesses* (A09376), for instance, is built from
-`commentary` and `section` divisions. For such a book, the division selection
-in `build_tei.py` (`find` and `files` in `main`), `tei_extract.py` (`main`)
-and `tei_to_html.py` (`divisions`) has to be extended first. Show the user
-the tree, agree on how divisions map to files (e.g. `preface.typ`,
-`section-03.typ`), and make the change before building anything. Don't force
-a book into the wrong shape, and don't start step 2 on a book that fails the
-check: text in skipped divisions would silently vanish. A printed division
+**Check the structure before going further.** Without further setup the
+scripts handle `div[@type="dedication"]` and `div[@type="chapter"]` with an
+`@n` (one file each: `dedication.typ`, `chapter-NN.typ`), which fits
+Perkins's *Christian Oeconomie*. `tcp_structure.py` prints the division
+tree (marking other types with `*`) and exits non-zero when text sits in a
+division that shape would skip. Many TCP texts are shaped differently:
+treatises, sections, sermons, parts.
+
+Such a book gets a **`LAYOUT`** in `editorial.py`: a function from the TEI
+root to the list of chapter files, each with its title and its parts (whole
+divisions, or loose blocks such as a treatise's opening epigraph).
+`DIV_LEVELS` sets each division type's heading level, and `RUN_IN_DIVS` sets
+types whose head is a bold run-in paragraph. `scripts/tei/layout.py`
+explains the format, and `layout.sections(div, first, last)` cuts a run of
+sub-divisions by position. Gouge's *Of Domesticall Duties*
+(`books/william-gouge/domestical-duties/source/editorial.py`) is the model:
+8 treatises, 594 sections and 242 questions, cut into 50 chapters in 4
+volumes from `edition.json`. Every tool reads the layout: build, extract,
+EPUB (`--toc-depth 4` lists the sections), side-by-side (`--only vol-1/`)
+and `verify.py`. With a layout, `tcp_structure.py` checks instead that the
+layout covers all the text (`--layout` lists the files). Show the user the
+tree and agree on the files and their names before building anything.
+Don't start step 2 until the check passes: text in no file would silently
+vanish. A printed division
 the edition deliberately leaves out (a table of contents, a publisher's
 advertisement) goes in `editorial.py` as `SKIP_DIVISIONS`; ask the user
 before deciding that anything with text is left out.

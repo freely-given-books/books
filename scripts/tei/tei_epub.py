@@ -26,6 +26,8 @@ Options:
                      the TEI's source/ folder, i.e. the book folder)
   --cover FILE       cover image; gets a cover page and cover-image property
   --css FILE         stylesheet, linked from every page; repeatable, in order
+  --toc-depth N      deepest heading in the contents: 3 (default) or 4, for a
+                     book whose sections (h4) should be listed too
   --lang CODE        language of the text (default en)
   --identifier ID    dc:identifier (default: a UUID derived from title+author,
                      stable across rebuilds)
@@ -48,6 +50,7 @@ from pathlib import Path
 
 from lxml import etree
 
+import layout
 from tei_to_html import add_text_args, divisions, renderer, xhtml
 
 MEDIA = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg",
@@ -86,19 +89,18 @@ def local_images(fragment, base):
 
 
 def nest(heads):
-    """[(file, id, level, text)] -> [(href, text, [children])]: an h2 opens a
-    top-level entry, h3s nest under the last h2 (or stand alone before one)."""
-    top, cur, seen = [], None, set()
+    """[(file, id, level, text)] -> [(href, text, [children])]: each heading
+    nests under the last heading of a higher level (h3s under the last h2,
+    h4s under the last h3), or stands at the top when there is none."""
+    top, stack, seen = [], [], set()
     for f, hid, lvl, text in heads:
         href = f if f not in seen else f"{f}#{hid}"
         seen.add(f)
-        if lvl == 2:
-            cur = (href, text, [])
-            top.append(cur)
-        elif cur is not None:
-            cur[2].append((href, text, []))
-        else:
-            top.append((href, text, []))
+        entry = (href, text, [])
+        while stack and stack[-1][0] >= lvl:
+            stack.pop()
+        (stack[-1][1][2] if stack else top).append(entry)
+        stack.append((lvl, entry))
     return top
 
 
@@ -181,8 +183,8 @@ def typst_page(path, root, first_note):
     return frag, len(order)
 
 
-def heading_ids(body, prefix):
-    """Give every h2/h3 an id; return (body, [(id, level, text)])."""
+def heading_ids(body, prefix, depth=3):
+    """Give every h2..h{depth} an id; return (body, [(id, level, text)])."""
     heads = []
 
     def add(m):
@@ -191,7 +193,8 @@ def heading_ids(body, prefix):
         heads.append((hid, int(m.group(1)), text))
         attrs = m.group(2) if m.group(3) else f'{m.group(2)} id="{hid}"'
         return f"<h{m.group(1)}{attrs}>{m.group(4)}</h{m.group(1)}>"
-    body = re.sub(r'<h([23])((?:\s[^>]*?)?(?:\sid="([^"]*)")?[^>]*)>(.*?)</h\1>',
+    levels = "".join(str(n) for n in range(2, depth + 1))
+    body = re.sub(r'<h([' + levels + r'])((?:\s[^>]*?)?(?:\sid="([^"]*)")?[^>]*)>(.*?)</h\1>',
                   lambda m: add(m), body, flags=re.S)
     return body, heads
 
@@ -228,6 +231,9 @@ def main():
     ap.add_argument("--before", action="append", default=[])
     ap.add_argument("--after", action="append", default=[])
     ap.add_argument("--typst-root")
+    ap.add_argument("--toc-depth", type=int, default=3,
+                    help="deepest heading in the contents: 3 (h3, the default) or "
+                    "4 (also h4, e.g. a book's numbered sections)")
     ap.add_argument("--cover")
     ap.add_argument("--css", action="append", default=[])
     ap.add_argument("--lang", default="en")
@@ -249,7 +255,7 @@ def main():
     spine, heads, landmarks = [], [], []
 
     def page(ident_, name, title, body):
-        text, hs = heading_ids("\n".join(body), ident_)
+        text, hs = heading_ids("\n".join(body), ident_, a.toc_depth)
         heads.extend((name, hid, lvl, t) for hid, lvl, t in hs)
         files[name] = xhtml(title, [text], css_names, a.lang).encode("utf-8")
         items.append((ident_, name, "application/xhtml+xml", None))
@@ -299,7 +305,7 @@ def main():
     r = renderer(a, root)
     r.note_no = notes_used[0]                    # notes are numbered through the book
     ndiv = 0
-    for n, (div_id, head, lines) in enumerate(divisions(root, r)):
+    for n, (div_id, head, lines) in enumerate(divisions(root, r, layout.settings(a.tei))):
         name = f"{div_id}.xhtml"
         page(div_id, name, head, lines)
         ndiv += 1

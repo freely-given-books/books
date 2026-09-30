@@ -32,6 +32,8 @@ from pathlib import Path
 
 from lxml import etree
 
+import layout
+
 NS = "http://www.tei-c.org/ns/1.0"
 T = "{%s}" % NS
 ESC_RE = re.compile(r"([\\#\$\*_`<>@\[\]])")
@@ -275,7 +277,7 @@ def noise(text, prev, nxt, leading=False):
     return prev is not None and nxt is not None and local(prev) in j and local(nxt) in j
 
 
-def div_blocks(r, div):
+def div_blocks(r, div, level=2):
     """Render the non-heading content of a division as Typst lines."""
     lines = []
     enum_set = False
@@ -317,11 +319,45 @@ def div_blocks(r, div):
                 lines += [f"#align(right)[{r.para(signed)}]", ""]
         elif n == "trailer":
             lines += trailer_lines(r, c)
+        elif n == "div" and getattr(r, "levels", None) is not None:
+            lines += div_lines(r, c, r.levels.get(c.get("type"), level + 1))
         elif n == "div" or (n == "q" and c.find(T + "p") is not None):
             lines += div_blocks(r, c)       # a quotation made of paragraphs too
         else:
             add_block(r, lines, c, r.para(c))
     return lines
+
+
+def div_lines(r, div, level):
+    """Layout mode: a division with its heads (a heading line at `level`, or
+    a bold run-in paragraph for RUN_IN_DIVS) and all it contains."""
+    lines = []
+    for h in div.findall(T + "head"):
+        t = collapse(r.inline(h)).strip()
+        if not t:
+            continue
+        if div.get("type") in r.run_in:
+            lines += [f"#strong[{block_start_escape(t)}]", ""]
+        else:
+            lines += [f"{'=' * level} {t}", ""]
+    return lines + div_blocks(r, div, level)
+
+
+def part_lines(r, el, level):
+    """Layout mode: one part of a file, a division or a loose block."""
+    if local(el) == "div":
+        return div_lines(r, el, r.levels.get(el.get("type"), level))
+    return div_blocks(r, _Loose(el), level)
+
+
+class _Loose:
+    """Iterates as a division holding one element, without moving it."""
+
+    def __init__(self, el):
+        self.el = el
+
+    def __iter__(self):
+        return iter([self.el])
 
 
 def add_block(r, lines, c, t):
@@ -392,6 +428,24 @@ def heading_lines(r, div):
     return [f"== {collapse(r.inline(h)).strip()}", ""] if h is not None else []
 
 
+def layout_file_lines(r, f, cfg, pre):
+    """Layout mode: the Typst lines of one file (its title, then its parts)."""
+    r.levels, run_in = layout.div_levels(cfg)
+    r.run_in = run_in
+    tpl = cfg.get("TYPST_HEADING")
+    lines = list(pre)
+    if f["title"]:
+        title = esc(f["title"])
+        short = esc(f["short"]) if f["short"] else title
+        lines += [tpl.format(n="", title=title, short=short) if tpl
+                  else f"== {title}", ""]
+    for el in f["parts"]:
+        lines += part_lines(r, el, 3)
+    while lines and lines[-1] == "":
+        lines.pop()
+    return lines
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -410,6 +464,16 @@ def main():
     pre = [r.settings["TYPST_PREAMBLE"], ""] if "TYPST_PREAMBLE" in r.settings else []
     out = Path(a.outdir)
     out.mkdir(parents=True, exist_ok=True)
+    cfg = layout.settings(a.tei)
+    files = layout.book_layout(root, cfg)
+    if files is not None:
+        for f in files:
+            path = out / f["file"]
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text("\n".join(layout_file_lines(r, f, cfg, pre)) + "\n",
+                            encoding="utf-8")
+        print(f"wrote {len(files)} files to {out} ({a.layer} layer)")
+        return
     n = 0
     for div in root.iter(T + "div"):
         typ = div.get("type")

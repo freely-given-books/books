@@ -250,7 +250,9 @@ The step-by-step workflow is the `eebo-tcp-book` skill
    file; the shared script itself holds no book data.
 3. Build without `--review` for the machine-only edition, extract the reg
    layer into `chapters/typ`, review there, then rebuild with `--review`.
-4. The scripts only know `div[@type='dedication']` and
-   `div[@type='chapter']` (with `@n`). A book with a preface, parts or
-   sermons needs the division selection in `build_tei.py`,
-   `tei_extract.py` and `tei_to_html.py` extended first.
+4. Without setup the scripts handle `div[@type='dedication']` and
+   `div[@type='chapter']` (with `@n`), one file each. Any other shape gets
+   a `LAYOUT` in `editorial.py` (files -> TEI parts; `DIV_LEVELS`,
+   `RUN_IN_DIVS`); see `scripts/tei/layout.py` and Gouge's `editorial.py`.
+   In a layout book, division heads are text of the file (`=` lines),
+   aligned and editable like the rest; the file titles belong to the layout.

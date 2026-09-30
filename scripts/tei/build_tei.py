@@ -38,6 +38,7 @@ from teitok import NS, T, Tok, local, tokenize, iter_stream  # noqa: E402
 from spelling import (modernize_word_lower, apply_case_pattern,  # noqa: E402
                       GRAMMAR_EXCEPTIONS)
 import reviewparse  # noqa: E402
+import layout  # noqa: E402
 
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 
@@ -331,6 +332,10 @@ def emit_word(b, t):
 
 SPLIT_RE = reviewparse.TOKEN_RE
 BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶"}
+# Layout mode (a book with LAYOUT in editorial.py): division heads are text
+# of the file, marked "H" (a heading line) or "¶" (a run-in heading, for the
+# div types in RUN_IN_DIVS). None: heads are skipped, the classic behaviour.
+HEAD_MODE = {"on": False, "run_in": set()}
 
 
 def compute_auto(toks):
@@ -395,7 +400,14 @@ def stream(toks, skip_heads=True):
             if t.kind == "container":
                 n = local(t.el)
                 if skip_heads and n == "head" and local(t.el.getparent()) == "div":
+                    if not HEAD_MODE["on"]:
+                        continue
+                    run_in = t.el.getparent().get("type") in HEAD_MODE["run_in"]
+                    out.append(("¶" if run_in else "H", "m", t, path))
+                    walk(t.children, path + (t,))
                     continue
+                if HEAD_MODE["on"] and n == "epigraph":
+                    out.append(("¶", "m", t, path))
                 # an item that only wraps a nested list continues the
                 # previous item (that is how the Typst lists are nested)
                 list_only = n == "item" and all(
@@ -406,7 +418,9 @@ def stream(toks, skip_heads=True):
                 # own, unless it is made of paragraphs itself
                 block_q = n == "q" and t.el.getparent() is not None and \
                     local(t.el.getparent()) == "div" and t.el.find(T + "p") is None
-                if (n in BLOCK_MARK or block_q) and not list_only:
+                in_epigraph = HEAD_MODE["on"] and any(
+                    local(a.el) == "epigraph" for a in path if a.el is not None)
+                if (n in BLOCK_MARK or block_q) and not list_only and not in_epigraph:
                     out.append((BLOCK_MARK.get(n, "¶"), "m", t, path))
                 walk(t.children, path + (t,))
             elif t.kind in ("word", "punct"):
@@ -652,7 +666,7 @@ def ancestors(tok):
 
 
 def in_container(tok, names):
-    return any(local(a.el) in names for a in ancestors(tok))
+    return any(a.el is not None and local(a.el) in names for a in ancestors(tok))
 
 
 def recompute_word(t):
@@ -1002,19 +1016,18 @@ def pad(t, lead="", trail=""):
 def split_notes(entries):
     """Body entries, and [(note Tok, its entries, anchor)] where anchor is
     the number of body entries before the note."""
-    body, notes = [], []
-    cur = None
+    body, notes, rec = [], [], {}
     for e in entries:
-        note = next((c for c in e[3] if local(c.el) == "note"), None)
+        # the innermost note: a note printed inside a note is a note of its own
+        note = next((c for c in reversed(e[3]) if local(c.el) == "note"), None)
         if note is None:
             body.append(e)
-            cur = None
             continue
-        if cur is None or cur[0] is not note:
-            cur = (note, [], len(body))
-            notes.append(cur)
+        if id(note) not in rec:
+            rec[id(note)] = (note, [], len(body))
+            notes.append(rec[id(note)])
         if e[1] == "w":
-            cur[1].append(e)
+            rec[id(note)][1].append(e)
     return body, notes
 
 
@@ -1106,7 +1119,7 @@ def keep_trailers(d, review, f, log):
     """A trailer is left out of the edition unless the review ends with it;
     then it is marked ana="#in-edition" (and, if it sits outside the
     division, taken out of the review so the rest aligns cleanly)."""
-    for tr in division_trailers(d.el):
+    for tr in (division_trailers(d.el) if d.el is not None else []):
         words = [w.lower() for w in SPLIT_RE.findall(
             " ".join("".join(tr.itertext()).split()).replace("ſ", "s"))]
         k = max((i for i, e in enumerate(review.body) if e[1] == "m"), default=None)
@@ -1120,6 +1133,18 @@ def keep_trailers(d, review, f, log):
         log.append((f, "trailer", " ".join(words), "kept in the edition"))
         if tr.getparent() is not d.el:
             del review.body[k:]
+
+
+class View:
+    """A run of TEI parts (divisions and loose blocks) aligned as one unit
+    with one reviewed file: the layout-mode stand-in for a division."""
+    kind = "container"
+
+    def __init__(self, children, el):
+        self.children = children
+        self.el = el
+        self.extra = {}
+        self.parent = None
 
 
 def review_division(d, review, f, log, unresolved):
@@ -1286,6 +1311,17 @@ def apply_emphasis(d, tflags, log, f):
             walk_hi(c)
     walk_hi(d)
 
+    def plain_leaves(t):
+        for c in t.children or []:
+            if c.kind == "container":
+                if local(c.el) == "note":
+                    continue
+                if is_emph(c) and c.el.get("ana") != "#print-only":
+                    continue
+                yield from plain_leaves(c)
+            elif c.kind in ("word", "punct", "group"):
+                yield c
+
     # 2. italics the edition adds
     def walk_add(t, italic):
         kids = t.children or []
@@ -1295,7 +1331,11 @@ def apply_emphasis(d, tflags, log, f):
                 if local(c.el) == "note":
                     need.append("break")
                     continue
-                inner = [want(x) for x in leaves(c)]
+                # words already under a printed italic inside c need nothing
+                inner = [want(x) for x in plain_leaves(c)]
+                if not inner and any(True for _ in leaves(c)):
+                    need.append("neutral")
+                    continue
                 c_it = italic or (is_emph(c) and c.el.get("ana") != "#print-only")
                 inline = local(c.el) in INLINE and not (
                     local(c.el) == "q" and local(c.el.getparent()) == "div")
@@ -1716,8 +1756,11 @@ def main():
     if not args.list and not args.out:
         ap.error("OUT is required unless --list is given")
     tables = Path(args.tables) if args.tables else Path(args.source).parent / "editorial.py"
+    cfg = {}
     if tables.exists():
         load_tables(tables)
+        import runpy
+        cfg = runpy.run_path(str(tables))
     elif args.tables:
         ap.error(f"no such file: {tables}")
 
@@ -1730,6 +1773,19 @@ def main():
     if args.list:
         list_editorial(toks)
         return
+
+    files = layout.book_layout(root, cfg)
+    if files is not None:
+        missing = layout.check(root, files, cfg)
+        if missing:
+            for el, n in missing[:20]:
+                print(f"  not in any file: <{local(el)}> {n} words: "
+                      f"{' '.join(''.join(el.itertext()).split())[:70]}", file=sys.stderr)
+            sys.exit(f"LAYOUT leaves {len(missing)} text blocks out; add them to a "
+                     "file or to SKIP_DIVISIONS")
+        HEAD_MODE["on"] = True
+        HEAD_MODE["run_in"] = set(cfg.get("RUN_IN_DIVS", ()))
+        return build_layout(args, tree, root, text, toks, files)
 
     divs = []
 
@@ -1802,6 +1858,49 @@ def main():
 
 
 
+
+
+def build_layout(args, tree, root, text, toks, files):
+    """main() for a book with a LAYOUT: each file is aligned as one unit with
+    the parts the layout gives it; heads are part of its text."""
+    by_el = {}
+
+    def index(ts):
+        for t in ts:
+            if t.kind == "container":
+                by_el[t.el] = t
+                index(t.children)
+    index(toks)
+    log, unresolved, all_splits = [], [], []
+    if args.review:
+        R = Path(args.review)
+        order = 0
+        for f in files:
+            fname = f["file"]
+            path = R / fname
+            if not path.exists():
+                unresolved.append((fname, "file", "missing from the review"))
+                continue
+            review = reviewparse.parse_review(path.read_text(), inline_headings=True,
+                                              titled=bool(f["title"]))
+            title = review.headings[0] if review.headings else None
+            if f["title"] and title and " ".join(title.split()) != " ".join(f["title"].split()):
+                unresolved.append((fname, "file title (change it in the LAYOUT)", title))
+            view = View([by_el[p] for p in f["parts"]], None)
+            st, s = review_division(view, review, fname, log, unresolved)
+            index_ = {}
+            for k, e in enumerate(s):
+                index_.setdefault(id(e[2]), order + k)
+            order += len(s)
+            all_splits += collect_splits(st, index_, log)
+        restructure(all_splits, log)
+    rebuild(text, toks)
+    add_header(root, args.editor)
+    tree.write(args.out, xml_declaration=True, encoding="UTF-8")
+    if args.report:
+        write_report(args.report, log, unresolved)
+    print(f"wrote {args.out}: {len(files)} files, {len(log)} review decisions, "
+          f"{len(unresolved)} unresolved")
 
 
 def write_report(path, log, unresolved):

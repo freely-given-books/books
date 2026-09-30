@@ -31,6 +31,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
+import layout
 import reviewparse  # noqa: E402
 
 
@@ -41,9 +42,14 @@ def run(*args):
     return r.stdout + r.stderr
 
 
+LAYOUT_FILES = None       # a book with a LAYOUT: its file list
+
+
 def chapter_files(d):
     """The chapter files the TEI produces (other .typ files in chapters/typ,
     such as a modern foreword, are not part of the TEI and are ignored)."""
+    if LAYOUT_FILES is not None:
+        return LAYOUT_FILES
     d = Path(d)
     return (["dedication.typ"] if (d / "dedication.typ").exists() else []) + \
         sorted(p.name for p in d.glob("chapter-*.typ"))
@@ -72,6 +78,11 @@ def main():
     tcp = src / (a.tcp or next(p.name for p in src.glob("*.tcp.xml")))
     tei = src / (a.tei or next(p.name for p in src.glob("*.tei.xml")))
     chapters = book / "chapters" / "typ"
+    global LAYOUT_FILES
+    from lxml import etree
+    files = layout.book_layout(etree.parse(str(tei)).getroot(), layout.settings(tei))
+    if files is not None:
+        LAYOUT_FILES = [f["file"] for f in files]
     ok = True
     tmp = Path(tempfile.mkdtemp(prefix="tei-verify-"))
 
@@ -108,8 +119,9 @@ def main():
                        reviewparse.TOKEN_RE.findall((d / f).read_text())
                        if w not in ("#", "emph", "[", "]")]
     wa, wb = words(o2), words(o1)
-    ops = [o for o in difflib.SequenceMatcher(None, wa, wb, autojunk=False).get_opcodes()
-           if o[0] != "equal"]
+    ops = [] if wa == wb else [
+        o for o in difflib.SequenceMatcher(None, wa, wb, autojunk=False).get_opcodes()
+        if o[0] != "equal"]
     print(f"[3] orig layer has the TCP words exactly: {not ops}"
           + (f" ({len(ops)} differences)" if ops else ""))
     ok &= not ops
