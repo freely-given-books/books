@@ -12,7 +12,7 @@ Latin by Thomas Pickering.
 | `chapters/typ/chapter-01.typ` … `chapter-18.typ` | one file per chapter of the treatise |
 | `christian-economy.typ` | print edition (imports the `fgbooks` template) |
 | `ebook-front.html` | ebook front matter (title page, licence, epigraph) |
-| `ebook-christian-economy.typ` | earlier ebook source (Typst HTML export), superseded by `ebook-front.html` + the TEI |
+| `ebook-christian-economy.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
 | `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
@@ -29,20 +29,16 @@ spelling from the TEI and for rebuilding it after further review.
 
 ### ebook
 
-The ebook text comes straight from the TEI (`scripts/tei/tei_to_html.py`):
-each chapter keeps its own notes, and Greek and Hebrew are language-tagged.
+The EPUB 3 is built straight from the TEI by `scripts/tei/tei_epub.py`: one
+file per chapter, notes as pop-up footnotes (shown after the chapter on
+readers without pop-ups), Greek and Hebrew language-tagged.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_to_html.py source/christian-economy.tei.xml \
-        ebook-christian-economy.html --front ebook-front.html --title "Christian Economy"
-$ ebook-convert ebook-christian-economy.html christian-economy.epub \
-        --authors "William Perkins" \
-        --title "Christian Economy" \
-        --cover cover_front.jpg \
-        --extra-css ../../resources/css/ebook.css \
-        --extra-css ebook-override.css \
-        --epub-version 2 \
-        --level1-toc '//h:h3'
+$ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
+        --title "Christian Economy" --author "William Perkins" \
+        --front ebook-front.html --cover cover_front.jpg \
+        --css ../../resources/css/ebook.css --css ebook-override.css
+$ calibre-debug ../../../scripts/tei/check_epub.py christian-economy.epub   # optional check
 ```
 
 ### pdf

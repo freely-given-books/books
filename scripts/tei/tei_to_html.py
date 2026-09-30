@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """
-Render an (enriched) EEBO-TCP TEI file as one XHTML file for an ebook.
+Render an (enriched) EEBO-TCP TEI file as XHTML: the ebook renderer.
 
   python3 tei_to_html.py EDITION.tei.xml OUT.html [--layer reg|orig] [options]
 
+tei_epub.py uses this module to build the EPUB; run on its own it writes the
+whole book as one XHTML file, handy for previewing in a browser.
+
 The text comes from the same renderer as tei_extract.py (same --layer and
 audit options), so the ebook and the Typst chapters read identically.
-Each division becomes a <section> with an <h3> head (what the ebook CSS
-and ebook-convert's --level1-toc expect) and its own notes at the end, so
-a note is never more than a chapter away from its reference. Notes are
-numbered through the book. Greek and Hebrew runs get lang (and dir) so
-readers pick a font that has them.
+Each division becomes a <section> with an <h3> head and its own notes at
+the end as EPUB 3 footnotes (noteref + aside), numbered through the book.
+Greek and Hebrew runs get lang (and dir) so readers pick a font that has
+them.
 
 Options:
   --front FILE   XHTML fragment (title page, licence ...) placed before the text
@@ -76,8 +78,8 @@ class HtmlR(R):
         self.note_no += 1
         n = self.note_no
         self.notes.append((n, body))
-        return (f'<a class="noteref" id="nr-{n}" href="#fn-{n}" role="doc-noteref">'
-                f"<sup>{n}</sup></a>")
+        return (f'<a class="noteref" id="nr-{n}" href="#fn-{n}" '
+                f'epub:type="noteref" role="doc-noteref"><sup>{n}</sup></a>')
 
     def text(self, el):
         return NOTEREF_GAP.sub(r"\1", collapse(self.inline(el)).strip())
@@ -187,44 +189,45 @@ class HtmlR(R):
         return [f"<h3>{self.text(h)}</h3>"] if h is not None else []
 
     def division(self, div, ident):
+        """Lines for one division, its notes at the end as EPUB 3 footnotes:
+        readers that support it show a note as a pop-up and hide the aside,
+        the rest show the notes after the chapter."""
         self.notes = []
-        out = [f'<section id="{ident}">'] + self.heading(div) + self.blocks(div)
+        head = self.heading(div)
+        self.title = re.sub(r"<[^>]+>", "", head[0]) if head else ident
+        out = [f'<section id="{ident}">'] + head + self.blocks(div)
         if self.notes:
-            out.append('<section class="notes" role="doc-endnotes"><ol>')
+            out.append('<section class="notes">')
             for n, body in self.notes:
                 body = NOTEREF_GAP.sub(r"\1", body)
-                out.append(f'<li id="fn-{n}" value="{n}" role="doc-endnote">'
-                           f'<a href="#nr-{n}" role="doc-backlink">{n}.</a> {body}</li>')
-            out.append("</ol></section>")
+                out.append(f'<aside id="fn-{n}" class="note" epub:type="footnote" '
+                           f'role="doc-footnote"><p><a href="#nr-{n}" '
+                           f'role="doc-backlink">{n}.</a> {body}</p></aside>')
+            out.append("</section>")
         out.append("</section>")
         return out
 
 
-def main():
-    ap = argparse.ArgumentParser(description=__doc__,
-                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("tei")
-    ap.add_argument("out")
+def add_text_args(ap):
+    """The text options shared with tei_extract.py."""
     ap.add_argument("--layer", choices=["reg", "orig"], default="reg")
     ap.add_argument("--expand", action="store_true")
     ap.add_argument("--mark-supplied", action="store_true")
     ap.add_argument("--only-auto", action="store_true")
     ap.add_argument("--show-gaps", action="store_true")
-    ap.add_argument("--front")
-    ap.add_argument("--title")
-    ap.add_argument("--css", action="append", default=[])
-    a = ap.parse_args()
-    r = HtmlR(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
-    root = etree.parse(a.tei).getroot()
 
-    title = a.title
-    if not title:
-        t = root.find(f"{T}teiHeader/{T}fileDesc/{T}titleStmt/{T}title")
-        title = collapse("".join(t.itertext())).strip() if t is not None else ""
 
-    body = []
-    if a.front:
-        body.append(Path(a.front).read_text(encoding="utf-8").strip())
+def renderer(a):
+    return HtmlR(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
+
+
+def tei_title(root):
+    t = root.find(f"{T}teiHeader/{T}fileDesc/{T}titleStmt/{T}title")
+    return collapse("".join(t.itertext())).strip() if t is not None else ""
+
+
+def divisions(root, r):
+    """(id, heading text, lines) for the dedication and each chapter."""
     for div in root.iter(T + "div"):
         typ = div.get("type")
         if typ == "dedication":
@@ -233,16 +236,42 @@ def main():
             ident = f"chapter-{int(div.get('n')):02d}"
         else:
             continue
-        body += r.division(div, ident)
+        lines = r.division(div, ident)
+        yield ident, html.unescape(r.title), lines
 
+
+def xhtml(title, body, css=(), lang="en"):
+    """A complete XHTML document; raises if it is not well-formed."""
     links = "".join(f'<link rel="stylesheet" type="text/css" href="{html.escape(c)}"/>'
-                    for c in a.css)
+                    for c in css)
     doc = ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html>\n"
-           '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">\n'
+           '<html xmlns="http://www.w3.org/1999/xhtml" '
+           f'xmlns:epub="http://www.idpf.org/2007/ops" lang="{lang}" xml:lang="{lang}">\n'
            f'<head><meta charset="utf-8"/><title>{html.escape(title)}</title>{links}</head>\n'
            "<body>\n" + "\n".join(body) + "\n</body>\n</html>\n")
-    etree.fromstring(doc.encode("utf-8"))          # fail loudly if not well-formed
-    Path(a.out).write_text(doc, encoding="utf-8")
+    etree.fromstring(doc.encode("utf-8"))
+    return doc
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("tei")
+    ap.add_argument("out")
+    add_text_args(ap)
+    ap.add_argument("--front")
+    ap.add_argument("--title")
+    ap.add_argument("--css", action="append", default=[])
+    a = ap.parse_args()
+    r = renderer(a)
+    root = etree.parse(a.tei).getroot()
+    body = []
+    if a.front:
+        body.append(Path(a.front).read_text(encoding="utf-8").strip())
+    for _, _, lines in divisions(root, r):
+        body += lines
+    Path(a.out).write_text(xhtml(a.title or tei_title(root), body, a.css),
+                           encoding="utf-8")
     print(f"wrote {a.out}: {r.note_no} notes ({a.layer} layer)")
 
 

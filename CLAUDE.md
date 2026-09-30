@@ -17,12 +17,13 @@ enriched TEI edition                   books/<author>/<book>/source/<book>.tei.x
 Typst chapters / PDF                   chapters/typ/*.typ, <book>.typ
 
 enriched TEI edition
-        │  scripts/tei/tei_to_html.py (+ ebook-front.html), then ebook-convert
+        │  scripts/tei/tei_epub.py (+ ebook-front.html, cover, CSS)
         ▼
-ebook                                  ebook-<book>.html, <book>.epub
+EPUB 3                                 <book>.epub
 ```
 
-`tei_to_html.py` reuses `tei_extract.py`'s renderer (the `R` class; its
+`tei_epub.py` gets its XHTML from `tei_to_html.py`, which reuses
+`tei_extract.py`'s renderer (the `R` class; its
 output methods `esc`/`emph`/`sup`/`footnote` are what the HTML subclass
 overrides), so the ebook and the Typst chapters cannot drift apart.
 
@@ -76,9 +77,12 @@ python3 scripts/tei/tei_extract.py source/christian-economy.tei.xml out/orig --l
 #   --mark-supplied   wrap reconstructed letters in ⟨ ⟩
 #   --only-auto       reg layer: machine pass only (audit what the review changed)
 
-# one XHTML file for the ebook (then ebook-convert, see the book's README)
-python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml ebook.html \
-    --front ebook-front.html --title "Christian Economy"
+# EPUB 3 straight from the TEI (no Calibre); full command in the book's README
+python3 scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
+    --title "Christian Economy" --author "William Perkins" \
+    --front ebook-front.html --cover cover_front.jpg --css ebook.css
+# or the whole book as one XHTML file, to preview in a browser
+python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml preview.html
 
 # end-to-end check: rebuild matches committed TEI, round trips, compile
 python3 scripts/tei/verify.py books/william-perkins/christian-economy
@@ -164,6 +168,10 @@ and copied back into `chapters/typ`.
    (`relaxng/jing-trang` releases). lxml's RelaxNG is too slow for
    `tei_all`. `@resp` is not allowed on `list`/`head` in that schema, hence
    `@change="#review"`.
+10. **EPUB checking**: epubcheck needs Java. Without it, Calibre's own
+   checker (the editor's "Check book") runs headless:
+   `calibre-debug scripts/tei/check_epub.py book.epub` (ignore the Qt/GPU
+   noise it prints). The Perkins EPUB passes with 0 issues.
 
 ## Starting a new TCP book
 

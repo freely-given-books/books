@@ -25,14 +25,32 @@ h3 {
   margin-bottom: 1.5em;
 }
 
-section[role="doc-endnotes"] {
+section.notes {
   margin-top: 3em;
   border-top: 1px solid;
   padding-top: 1em;
   font-size: 0.9em;
 }
 
-/* TEI-built ebook (scripts/tei/tei_to_html.py) */
+/* TEI-built ebook (scripts/tei/tei_epub.py) */
+section.cover {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+section.cover img {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: 0 auto;
+}
+
+aside.note p {
+  text-indent: 0;
+  text-align: left;
+  margin-bottom: 0.3em;
+}
+
 #front p {
   text-indent: 0;
   text-align: left;
@@ -81,16 +99,6 @@ p.trailer {
   text-align: center;
   text-indent: 0;
   margin-top: 1.5em;
-}
-
-section.notes ol {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-section.notes li {
-  text-align: left;
-  margin-bottom: 0.3em;
 }
 
 a.noteref sup {
