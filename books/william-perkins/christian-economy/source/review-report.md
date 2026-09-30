@@ -9,12 +9,13 @@
 | kind | count |
 | --- | --- |
 | case | 18 |
+| spelling | 16 |
 | expansion | 9 |
 | emendation | 9 |
 | gap | 8 |
 | split | 8 |
-| spelling | 6 |
 | punctuation | 4 |
+| grammar | 4 |
 | skipped | 1 |
 
 ## split
@@ -67,6 +68,11 @@
 - [chapter-14.typ note] parfactis → parentum factis
 - [chapter-16.typ] y• → the
 
+## grammar
+
+- cometh → commeth (×3)
+- becometh → cometh
+
 ## punctuation
 
 - [dedication.typ] ▪ → ;
@@ -92,10 +98,15 @@
 
 ## spelling
 
+- vail → veil (×4)
+- Iam → Jam (×2)
+- main → maine (×2)
 - Be → Bee
 - Corinthes → Corinthians
 - Tigres → Tigers
-- conuince → convince
+- behoveful → behooful
 - harts → hearts
+- marry → mary
+- saken → shaken
 - sundrie → sundry
 

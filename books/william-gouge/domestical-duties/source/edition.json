@@ -18,7 +18,7 @@
   ],
 
   "front": {
-    "dedication": {"div": 2},
+    "dedication": {"div": 2, "title": "The Epistle Dedicatory"},
     "parallel-of-duties": {
       "div": 3,
       "title": "A Parallel of the Duties of Husbands and Wives"

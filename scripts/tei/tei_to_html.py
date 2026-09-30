@@ -30,7 +30,7 @@ from pathlib import Path
 
 from lxml import etree
 
-from tei_extract import R, T, collapse, local, following_trailers
+from tei_extract import R, T, collapse, local, following_trailers, p_runs
 import layout
 
 GREEK = "Ͱ-Ͽἀ-῿"
@@ -179,6 +179,49 @@ class HtmlR(R):
             return self.para(c)
         return []
 
+    def split_p(self, p):
+        """A paragraph with block lists or tables: text, block, text."""
+        out = []
+        for kind, el in p_runs(p):
+            if kind == "text":
+                out += self.para(el)
+            elif local(el) == "table":
+                out += self.table_html(el)
+            else:
+                out += self.list_html(el)
+        return out
+
+    def table_html(self, table):
+        """As tei_extract.table_lines: labels as paragraphs, branches as a
+        list (reg layer); rows as printed (orig layer)."""
+        out, items = [], []
+
+        def flush():
+            if items:
+                out.append('<ol class="brace">' + "".join(items) + "</ol>")
+                items.clear()
+        if self.layer == "reg":
+            for marker, cells in layout.table_reading(table)[1]:
+                t = self.text_of(cells)
+                if not t:
+                    continue
+                if marker == "+":
+                    items.append(f"<li>{t}</li>")
+                else:
+                    flush()
+                    out.append(f"<p>{t}</p>")
+        else:
+            for row in table.findall(T + "row"):
+                t = self.text_of(row.findall(T + "cell"))
+                if t:
+                    out.append(f"<p>{t}</p>")
+        flush()
+        return out
+
+    def text_of(self, els):
+        return curl(NOTEREF_GAP.sub(r"\1", collapse(
+            " ".join(self.inline(e) for e in els)).strip()))
+
     levels = None             # layout mode: {div type: heading level}
     run_in = set()
 
@@ -233,6 +276,9 @@ class HtmlR(R):
                 continue
             n = local(c)
             if n in ("head", "pb"):
+                continue
+            if n == "p" and layout.p_blocks(c):
+                out += self.split_p(c)
                 continue
             if n == "p":
                 t = self.text(c)

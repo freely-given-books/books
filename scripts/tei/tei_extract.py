@@ -187,6 +187,10 @@ class R:
             return self.esc(ex.text or "") if ex is not None else ""
         if n in ("pb", "lb", "milestone", "fw"):
             return ""
+        if n == "table" and self.layer == "reg":
+            # read into its sentence, column by column (layout.table_reading)
+            _mode, blocks = layout.table_reading(c)
+            return " ".join(self.inline(cell) for _m, cells in blocks for cell in cells)
         return self.inline(c, in_numbered)                 # seg, q, bibl, ...
 
     def choice(self, c):
@@ -255,7 +259,7 @@ class R:
                     lines.append(txt)
                     lines.append("")
                 else:
-                    lines.append("  " * depth + "- " + txt)
+                    lines.append("  " * depth + "- " + block_start_escape(txt))
             for s in subs:
                 self.list_block(s, depth + 1, lines)
         return lines
@@ -287,7 +291,9 @@ def div_blocks(r, div, level=2):
         n = local(c)
         if n in ("head", "pb"):
             continue
-        if n == "p":
+        if n == "p" and layout.p_blocks(c):
+            lines += split_p_lines(r, c)
+        elif n == "p":
             t = r.para(c)
             if t and r.layer == "reg" and c.get("rend") == "quote":
                 t = f"#quote[{t}]"
@@ -325,6 +331,70 @@ def div_blocks(r, div, level=2):
             lines += div_blocks(r, c)       # a quotation made of paragraphs too
         else:
             add_block(r, lines, c, r.para(c))
+    return lines
+
+
+def p_runs(p):
+    """A paragraph split around its block children (layout.p_blocks):
+    [("text", element holding a run of inline content) | ("block", element)].
+    The runs are copies, so the paragraph itself is not changed."""
+    blocks = layout.p_blocks(p)
+    idx = {i for i, c in enumerate(p) if c in blocks}
+    src = copy.deepcopy(p)
+    out = []
+    run = etree.Element(src.tag)
+    run.text = src.text
+    for i, child in enumerate(list(src)):
+        if i not in idx:
+            run.append(child)                 # moves it, tail and all
+            continue
+        out.append(("text", run))
+        tail, child.tail = child.tail, None
+        out.append(("block", child))
+        run = etree.Element(src.tag)
+        run.text = tail
+    out.append(("text", run))
+    return out
+
+
+def table_lines(r, table):
+    """A table as the edition sets it: in the reg layer a brace's labels as
+    lines and its branches as a list (layout.table_reading); in the orig
+    layer row by row, as printed."""
+    lines = []
+    if r.layer == "reg":
+        _mode, blocks = layout.table_reading(table)
+        for marker, cells in blocks:
+            t = collapse(" ".join(r.inline(c) for c in cells)).strip()
+            if not t:
+                continue
+            if marker == "+":
+                lines.append("+ " + t)
+            else:
+                if lines and lines[-1] != "":
+                    lines.append("")
+                lines += [block_start_escape(t), ""]
+    else:
+        for row in table.findall(T + "row"):
+            t = collapse(" ".join(r.inline(c) for c in row.findall(T + "cell"))).strip()
+            if t:
+                lines += [block_start_escape(t), ""]
+    if lines and lines[-1] != "":
+        lines.append("")
+    return lines
+
+
+def split_p_lines(r, p):
+    lines = []
+    for kind, el in p_runs(p):
+        if kind == "text":
+            t = r.para(el)
+            if t:
+                lines += [t, ""]
+        elif local(el) == "table":
+            lines += table_lines(r, el)
+        else:
+            lines += r.list_block(el) + [""]
     return lines
 
 

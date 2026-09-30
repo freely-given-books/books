@@ -134,3 +134,101 @@ def sections(div, first=1, last=None):
         elif first <= seen and (last is None or seen <= last):
             out.append(c)
     return out
+
+
+# ---------------------------------------------------------------------------
+# Tables: early printed "tables" are brace diagrams, not grids
+# ---------------------------------------------------------------------------
+
+def _cell_span(cell):
+    return int(cell.get("rows") or 1), int(cell.get("cols") or 1)
+
+
+def table_grid(table):
+    """[(cell, row, col, rowspan, colspan)] in document order, honouring
+    rowspan and colspan; empty unspanned cells (the compositor's spacers)
+    are dropped so each branch stays under its own head."""
+    placements, occupied = [], {}
+    for row_i, row in enumerate(table.findall(T + "row")):
+        cells = [c for c in row.findall(T + "cell")
+                 if "".join(c.itertext()).strip() or _cell_span(c) != (1, 1)]
+        col = 0
+        for cell in cells:
+            rowspan, colspan = _cell_span(cell)
+            while occupied.get(col, 0) > 0:
+                col += 1
+            placements.append((cell, row_i, col, rowspan, colspan))
+            for c in range(col, col + colspan):
+                occupied[c] = rowspan
+            col += colspan
+        occupied = {c: n - 1 for c, n in occupied.items() if n > 1}
+    return placements
+
+
+def text_follows(p, node):
+    """Is there text after `node` inside `p` (the block interrupts a sentence)?"""
+    seen = False
+    for child in p:
+        if child is node:
+            seen = True
+            continue
+        if seen and ((child.tail or "").strip() or "".join(child.itertext()).strip()):
+            return True
+    return bool((node.tail or "").strip())
+
+
+BLOCK_IN_P = ("table", "list")
+
+
+def p_blocks(p):
+    """The block children (tables, lists) a paragraph is split around, or []
+    when it is set whole: no blocks, or a table interrupting its sentence
+    (that one is read inline, column by column)."""
+    blocks = [c for c in p if isinstance(c.tag, str) and local(c) in BLOCK_IN_P]
+    if any(local(b) == "table" and text_follows(p, b) for b in blocks):
+        return []
+    return blocks
+
+
+NUMBER_CELL = r"\d{1,2}[.)]?"
+
+
+def table_reading(table):
+    """How the edition reads a table: (mode, [(marker, [cells])]).
+
+    "brace" (a cell spans rows): column by column, as a brace groups; a
+    column of one cell is a label (marker "¶"), a column of several is the
+    branches (one "+" item each). "rows": row by row; a row of one cell is a
+    heading line ("¶"), any other row is one "+" item (its leading number
+    cell is left out by the machine pass). "inline" (the table interrupts a
+    sentence): all cells column by column, no markers."""
+    import re
+    grid = table_grid(table)
+    if not grid:
+        return "rows", []
+    p = table.getparent()
+    if p is not None and local(p) == "p" and text_follows(p, table):
+        cells = [c for c, *_ in sorted(grid, key=lambda g: (g[2], g[1]))]
+        return "inline", [("", cells)]
+    if any(g[3] > 1 for g in grid):
+        cols = {}
+        for cell, row, col, _rs, _cs in grid:
+            cols.setdefault(col, []).append((row, cell))
+        out = []
+        for col in sorted(cols):
+            cells = [c for _r, c in sorted(cols[col]) if "".join(c.itertext()).strip()]
+            if len(cells) == 1:
+                out.append(("¶", cells))
+            else:
+                out += [("+", [c]) for c in cells]
+        return "brace", out
+    rows = {}
+    for cell, row, col, _rs, _cs in grid:
+        rows.setdefault(row, []).append((col, cell))
+    out = []
+    for row in sorted(rows):
+        cells = [c for _col, c in sorted(rows[row])]
+        if not any("".join(c.itertext()).strip() for c in cells):
+            continue
+        out.append(("¶" if len(cells) == 1 else "+", cells))
+    return "rows", out

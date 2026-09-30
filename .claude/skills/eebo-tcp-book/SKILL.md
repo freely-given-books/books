@@ -118,6 +118,12 @@ page-image id (`tcp:NNNN:NN`) and the words around it. Copy Perkins's
   own heading macro, e.g. Simon Magus's
   `#import "../../common.typ": chapter` + `#chapter[{title}][{short}]`.
 
+- **Machine-pass switches** (all off by default; see CLAUDE.md "Book
+  settings"): `SPELLING`, `MODERNIZE_NOTES`, `LATIN_RUNS`,
+  `DROP_FOREIGN_GAPS`, `GAP_NOTES`, `EXPAND_ETC`, `DROP_CAP_CASE`,
+  `ITALIC_SENTENCE_QUIRK`. Gouge's `editorial.py` uses them all; copy it for
+  a large book whose notes are English commentary.
+
 `build_tei.py` finds `editorial.py` next to the TCP file automatically. The
 shared script holds no book data, so never put book tables back into it.
 

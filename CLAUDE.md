@@ -117,7 +117,23 @@ and TEI files, read by `build_tei.py`, `tei_extract.py` and
 `tcp_structure.py`: `MACRON_M`, `GAP_FIXES`, `LOWERCASE_COMMON_NOUNS`,
 `REPORT_NOTES`, `SKIP_DIVISIONS` (printed divisions the edition leaves out),
 `TYPST_PREAMBLE` and `TYPST_HEADING` (e.g. `"#chapter[{title}][{short}]"`
-for a book with its own heading macro).
+for a book with its own heading macro), `LAYOUT`/`DIV_LEVELS`/`RUN_IN_DIVS`
+(any other shape, see `layout.py`). Machine-pass switches, all off by
+default (Gouge turns them on): `SPELLING` (the book's own words over the
+shared table, e.g. "domestical"), `MODERNIZE_NOTES`, `LATIN_RUNS` (Latin
+found per run of 4+ words and left as printed), `DROP_FOREIGN_GAPS`,
+`GAP_NOTES` (text for a missing-pages or unrestorable gap), `EXPAND_ETC`
+("&c." -> "etc."), `DROP_CAP_CASE` ("AS there" -> "As there") and
+`ITALIC_SENTENCE_QUIRK` (`True`, the Perkins/Simon Magus rule; Gouge
+`"after-stop"`). A `GAP_FIXES` entry may carry a fourth item, the resp
+(`"#editor"` for a gap filled by hand).
+
+Tables are read the way early printers meant them (`layout.table_reading`):
+a brace (a cell spans rows) column by column, labels as lines and branches
+as a `+` list; a row-wise table row by row; a table interrupting its
+sentence inline. A paragraph is split around a block table or list. The
+machine records the tidying (item numbers, trailing commas, capitals, the
+closing stop) as readings.
 
 ## Review workflow
 
@@ -187,7 +203,12 @@ and copied back into `chapters/typ`.
    lowercase); a short list of common nouns is lowercased mid-sentence;
    roman numerals are left alone. Changing these rules would make an
    unreviewed rebuild differ from what was reviewed.
-7. **spelling.py misses** found by the review (bee→be ×78, lawes→laws,
+7. **spelling.py** is Perkins' engine merged (2026) with Gouge's: a
+   letterform search (u/v and i/j swapped until the dictionary knows the
+   word), more silent-e/doubled-letter patterns, `NAMES` (checked first; a
+   table entry beats `DO_NOT_TOUCH`), a large `LATIN_SKIP`. Merging moved
+   some Perkins/Simon Magus decisions between `#auto` and `#editor`; the
+   rendered text did not change. **spelling.py misses** found by the review (bee→be ×78, lawes→laws,
    Prou→Prov, Heere→Here, bin→been, dais→days, yong→young, reade→read,
    shew→show, KJV name forms like Isaak→Isaac, Thar→Terah…) are
    now in `spelling.py`'s `MANUAL` (so this book's TEI credits them to
