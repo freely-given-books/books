@@ -1,0 +1,3 @@
+lxml>=5
+pyspellchecker>=0.8
+typst>=0.13   # optional: only for verify.py's compile check

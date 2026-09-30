@@ -14,8 +14,15 @@ Latin by Thomas Pickering.
 | `ebook-christian-economy.typ` | ebook edition (Typst HTML export) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
-| `dedication.typ`, `treatise.typ` | original-spelling render, kept for reference |
-| `dedication_modern.typ`, `treatise_modern.typ` | modernized render the chapters were split from |
+| `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
+| `sources/dedication_modern.typ`, `sources/treatise_modern.typ` | modernized render the chapters were split from |
+| `source/A09377.tcp.xml` | untouched EEBO-TCP transcription of the 1609 printing (provenance) |
+| `source/christian-economy.tei.xml` | enriched TEI edition: the 1609 text plus every editorial decision inline |
+| `source/review-report.md` | review decisions carried from `chapters/typ` into the TEI |
+
+The scripts in `sources/` are the first-pass converters, superseded by
+`scripts/tei/` at the repo root. See `source/README.md` for extracting either
+spelling from the TEI and for rebuilding it after further review.
 
 ## Steps for Generation
 

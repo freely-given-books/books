@@ -83,21 +83,9 @@ The equal collateral line, is that, whereby kinsmen are equally distant from the
 
 Kinsmen of this line, are,
 
- brothers, that is, brothers by the same fat
-
-
- and mother, or half brothers, that is, brethren by the same father, but not
- the same mother. Again whole sisters by the same fa
- or mother, or half sisters by one of them and not by both.
- brothers
- or cousin germans; that is,
-
-
- uncles sons or daughters, or the aunts sons or daughters. The sisters chil
-, or cousin germans; that is, the aunts
- or daughters, which are the children of two sisters.
- cousin german,
- son of the great uncle by the fathers or mothers side, and the cousin german the son of the great aunt, by the fathers or mothers side. The cousin-german the daughter of the great uncle, by the fathers or mothers side, and the cousin german, the daughter of the great aunt by the same sides.
++ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father or mother, or half sisters by one of them and not by both.
++ The brothers children or cousin germans; that is, the uncles sons or daughters, or the aunts sons or daughters. The sisters children, or cousin germans; that is, the aunts sons or daughters, which are the children of two sisters.
++ The cousin german, the son of the great uncle by the fathers or mothers side, and the cousin german the son of the great aunt, by the fathers or mothers side. The cousin-german the daughter of the great uncle, by the fathers or mothers side, and the cousin german, the daughter of the great aunt by the same sides.
 
 In this line, look how many degrees the party in question is removed from the common stock, by so many twice-told, is he removed from his kinsman in question. Put the case between #emph[Bethuel] and #emph[Isaac,] as in this example.
 
