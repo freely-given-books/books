@@ -11,8 +11,9 @@ What it checks
   2. Extracting the reg layer reproduces chapters/typ (ignoring // comment
      lines); lists any chapter that differs.
   3. The orig layer, with gaps shown, has exactly the words of the TCP file.
-  4. The TEI validates against tei_all (only if --schema and java + jing
-     are available: --jing path/to/jing.jar --schema path/to/tei_all.rng).
+  4. The TEI validates against tei_all (needs java, jing and tei_all.rng:
+     --jing path/to/jing.jar --schema path/to/tei_all.rng, or both found
+     in ~/.cache/fgb-tei, where the eebo-tcp-book skill puts them).
   5. The extracted chapters compile with Typst (if the `typst` Python
      package or CLI is installed).
 
@@ -60,6 +61,11 @@ def main():
     ap.add_argument("--jing")
     ap.add_argument("--schema")
     a = ap.parse_args()
+    cache = Path.home() / ".cache" / "fgb-tei"
+    if not a.jing:
+        a.jing = next((str(p) for p in sorted(cache.glob("jing-*/bin/jing.jar"))), None)
+    if not a.schema and (cache / "tei_all.rng").exists():
+        a.schema = str(cache / "tei_all.rng")
 
     book = Path(a.book)
     src = book / "source"
@@ -110,14 +116,18 @@ def main():
 
     # 4. schema
     if a.jing and a.schema and shutil.which("java"):
-        out = run("java", "-jar", a.jing, a.schema, tei)
-        errs = [l for l in out.splitlines() if "error" in l]
+        r = subprocess.run(["java", "-jar", a.jing, a.schema, str(tei)],
+                           capture_output=True, text=True)
+        errs = [l for l in (r.stdout + r.stderr).splitlines() if "error" in l]
+        if r.returncode and not errs:
+            errs = [(r.stdout + r.stderr).strip() or f"jing exited {r.returncode}"]
         print(f"[4] valid against {Path(a.schema).name}: {not errs}")
         for e in errs[:10]:
             print("    ", e)
         ok &= not errs
     else:
-        print("[4] schema validation skipped (pass --jing and --schema)")
+        print("[4] schema validation skipped (no java, jing or tei_all.rng; "
+              "see --jing/--schema)")
 
     # 5. typst: the extracted chapters in a copy of the book folder, so
     # imports such as "../../common.typ" resolve

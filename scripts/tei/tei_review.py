@@ -5,7 +5,7 @@ on the left, the edition on the right, block by block, every editorial
 change marked. Open the HTML file in a browser; hover over a marked word to
 see what was printed, what the machine proposed and who decided.
 
-  python3 tei_review.py EDITION.tei.xml OUT.html
+  python3 tei_review.py EDITION.tei.xml OUT.html [--before FILE] [--after FILE]
 
 It is for reading only. Make changes in chapters/typ and rebuild the TEI
 (build_tei.py --review), then run this again.
@@ -15,6 +15,11 @@ exactly as the ebook does: the left column is the orig layer (with printed
 page numbers), the right the reg layer. One row is one block of the TEI; a
 block the edition runs on from the one before is marked with a return
 arrow instead of being joined, so the rows stay aligned.
+
+Modern matter that is not in the TEI (a foreword, an abbreviations guide)
+can be shown too, with the same --before/--after files as tei_epub.py: a
+.typ file is rendered with Typst's HTML export, a .html file is a fragment.
+It fills the edition column; the printed column says it is not in print.
 """
 
 import argparse
@@ -27,6 +32,7 @@ from lxml import etree
 
 from tei_extract import R, T, collapse, local, following_trailers
 from tei_to_html import HtmlR, curl, NOTEREF_GAP, tei_title
+from tei_epub import typst_page
 
 TYPES = [  # (class, label, shown by default)
     ("t-emendation", "wording", True),
@@ -246,6 +252,11 @@ body.no-auto .ch.auto { text-decoration:none; }
 .pb { font:11px system-ui,sans-serif; color:var(--pb); border:1px solid var(--pb);
   border-radius:3px; padding:0 3px; vertical-align:2px; white-space:nowrap; }
 body.no-pages .pb { display:none; }
+.row.modern > .orig { font:italic 14px/1.4 system-ui,sans-serif; color:var(--muted); }
+.reg section.notes { font-size:14px; line-height:1.45; color:var(--muted);
+  border-top:1px dashed var(--rule); margin-top:.6em; padding-top:4px; }
+.reg section.notes p { margin:0 0 .3em; }
+.reg h2, .reg h3 { font-size:1.1em; margin:.2em 0 .5em; }
 .runon { font:12px system-ui,sans-serif; color:var(--muted); margin-right:6px; }
 ol.notes { font-size:14px; line-height:1.45; color:var(--muted); margin:.4em 0 0;
   padding-left:0; list-style:none; border-top:1px dashed var(--rule); padding-top:4px; }
@@ -315,6 +326,12 @@ def main():
     ap.add_argument("out")
     ap.add_argument("--chapters", default="chapters/typ",
                     help="where the editable files are, as shown on the page")
+    ap.add_argument("--before", action="append", default=[],
+                    help="modern page before the text (.typ or .html); repeatable")
+    ap.add_argument("--after", action="append", default=[],
+                    help="modern page after the text; repeatable")
+    ap.add_argument("--typst-root",
+                    help="Typst --root for .typ pages (default: the book folder)")
     a = ap.parse_args()
     root = etree.parse(a.tei).getroot()
     date = root.find(f".//{T}sourceDesc//{T}date")
@@ -324,6 +341,29 @@ def main():
     o.index(root)
     m.index(root)
     sections, toc = [], []
+    typst_root = Path(a.typst_root) if a.typst_root else Path(a.tei).resolve().parent.parent
+    notes_used = [0]
+
+    def modern(path, where):
+        path = Path(path)
+        if path.suffix == ".typ":
+            frag, k = typst_page(path, typst_root, notes_used[0] + 1)
+            notes_used[0] += k
+        else:
+            frag = path.read_text(encoding="utf-8").strip()
+        ident = f"{where}-{re.sub(r'[^a-z0-9]+', '-', path.stem.lower())}"
+        h = re.search(r"<h[1-6][^>]*>(.*?)</h[1-6]>", frag, re.S)
+        name = html.unescape(re.sub(r"<[^>]+>", "", h.group(1))).strip() if h else path.stem
+        sections.append(
+            f'<section class="div" id="{ident}"><h2>{html.escape(name)}</h2>'
+            f'<div class="meta">modern matter, not in the {year} text and not in the TEI'
+            f' · edit <code>{html.escape(str(path))}</code></div>'
+            f'<div class="row modern"><div class="orig">Not in the {year} printing.</div>'
+            f'<div class="reg">{frag}</div></div></section>')
+        toc.append(f'<a href="#{ident}">{html.escape(name)}</a>')
+
+    for f in a.before:
+        modern(f, "before")
     for div in root.iter(T + "div"):
         typ = div.get("type")
         if typ == "dedication":
@@ -352,10 +392,13 @@ def main():
         body.append("</section>")
         sections.append("\n".join(body))
         toc.append(f'<a href="#{ident}">{html.escape(html.unescape(name))}</a>')
+    for f in a.after:
+        modern(f, "after")
     Path(a.out).write_text(
         page(tei_title(root), year, "\n".join(sections), " · ".join(toc)),
         encoding="utf-8")
-    print(f"wrote {a.out}: {len(sections)} divisions")
+    extra = len(a.before) + len(a.after)
+    print(f"wrote {a.out}: {len(sections) - extra} divisions, {extra} modern pages")
 
 
 if __name__ == "__main__":

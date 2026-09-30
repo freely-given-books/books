@@ -132,7 +132,9 @@ edition, every change marked; read-only, git-ignored):
 $PY scripts/tei/tei_review.py $B/source/<book>.tei.xml $B/side-by-side.html
 ```
 
-Regenerate it after every rebuild of the TEI.
+Regenerate it after every rebuild of the TEI. Modern pages (foreword,
+appendix) go in with the same `--before`/`--after` files as the ebook, so the
+page shows the whole book.
 Don't "improve" the text on your own.
 
 ## After the user reviews `chapters/typ`
@@ -227,8 +229,15 @@ This rebuilds the TEI and compares it, checks that the modern-spelling
 extraction matches `chapters/typ`, that the original-spelling layer keeps
 every TCP word, and that the chapters compile. Expect `OK`. [2] may list
 chapters whose only differences are layout lines. Check that with
-`tei_extract.py` into a temp folder and `diff`. Schema validation needs
-`--jing`/`--schema` (see CLAUDE.md lesson 9).
+`tei_extract.py` into a temp folder and `diff`. [4] validates against
+`tei_all` with jing; `verify.py` finds `jing.jar` and `tei_all.rng` in
+`~/.cache/fgb-tei`. If they are missing there, fetch them once:
+
+```sh
+mkdir -p ~/.cache/fgb-tei && cd ~/.cache/fgb-tei
+curl -sSLO https://github.com/relaxng/jing-trang/releases/download/V20241231/jing-20241231.zip && unzip -q jing-20241231.zip
+curl -sSLO https://raw.githubusercontent.com/TEIC/TEI-Simple/master/tei_all.rng
+```
 
 ## Ebook (EPUB 3, no Calibre)
 
@@ -237,7 +246,7 @@ cd $B
 $PY ../../../scripts/tei/tei_epub.py source/<book>.tei.xml <book>.epub \
     --title "…" --author "…" --front ebook-front.html --cover cover_front.jpg \
     --css ../../resources/css/ebook.css --css ebook-override.css
-calibre-debug ../../../scripts/tei/check_epub.py <book>.epub
+epubcheck <book>.epub
 ```
 
 Pages that aren't in the TEI go in with `--before FILE` / `--after FILE`
@@ -247,8 +256,9 @@ book folder), a `.html` file is an XHTML fragment (e.g. an "Appendix"
 divider). The contents nest by heading: h2 opens an entry, h3s go under it.
 See Simon Magus's README for the full command.
 
-The check needs 0 issues; ignore the Qt/GPU noise it prints (epubcheck needs
-Java, which isn't installed). When replacing an older ebook, run
+epubcheck must report 0 errors and 0 warnings. Calibre's checker
+(`calibre-debug ../../../scripts/tei/check_epub.py <book>.epub`) is a second
+opinion; ignore the Qt/GPU noise it prints. When replacing an older ebook, run
 `compare.py epub old.epub new.epub` too. Notes become EPUB 3 pop-up footnotes; Greek and
 Hebrew get `lang`. `cover_front.jpg` is cut from the compiled `cover.pdf`
 (command in the book README). `books/.gitignore` ignores `*html`, so a new

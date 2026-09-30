@@ -38,7 +38,7 @@ $ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml chri
         --title "Christian Economy" --author "William Perkins" \
         --front ebook-front.html --cover cover_front.jpg \
         --css ../../resources/css/ebook.css --css ebook-override.css
-$ calibre-debug ../../../scripts/tei/check_epub.py christian-economy.epub   # optional check
+$ epubcheck christian-economy.epub   # 0 errors, 0 warnings
 ```
 
 ### side-by-side reading copy

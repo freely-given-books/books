@@ -25,18 +25,6 @@ marked it instead of the restored letters, `--expand` to spell out
 abbreviations, or `--only-auto` to see the machine pass without the review
 (handy for auditing).
 
-Or load the XML directly in Typst:
-
-```typst
-#import "../../../scripts/tei/tei.typ": tei-division
-#let ed = xml("source/christian-economy.tei.xml")
-#tei-division(ed, "dedication")
-#tei-division(ed, 1)
-#tei-division(ed, 1, layer: "orig")
-```
-
-(compile with `--root ../../../`, as for the cover).
-
 ## Rebuilding after more review
 
 Keep reviewing in `chapters/typ`, then:

@@ -32,7 +32,7 @@ $ python3 ../../../scripts/tei/tei_epub.py source/the-anatomy-of-simon-magus.tei
         --before chapters/typ/foreword.typ \
         --after ebook-appendix.html --after chapters/typ/abbreviations.typ \
         --css ../../resources/css/ebook.css --css ebook-override.css
-$ calibre-debug ../../../scripts/tei/check_epub.py the-anatomy-of-simon-magus.epub   # optional check
+$ epubcheck the-anatomy-of-simon-magus.epub   # 0 errors, 0 warnings
 ```
 
 ### pdf
@@ -56,9 +56,11 @@ $ cd ../../../.. && python3 scripts/tei/verify.py books/anonymous/the-anatomy-of
 
 The 1700 text next to the edition, block by block, with every editorial
 change marked (hover a word to see the printed reading, the machine's and
-the editor's). It is read-only: edit `chapters/typ`, rebuild the TEI as
+the editor's), with the foreword and appendix in the edition column. It is read-only: edit `chapters/typ`, rebuild the TEI as
 above, then regenerate it. It is git-ignored.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_review.py source/the-anatomy-of-simon-magus.tei.xml side-by-side.html
+$ python3 ../../../scripts/tei/tei_review.py source/the-anatomy-of-simon-magus.tei.xml side-by-side.html \
+        --before chapters/typ/foreword.typ \
+        --after ebook-appendix.html --after chapters/typ/abbreviations.typ
 ```

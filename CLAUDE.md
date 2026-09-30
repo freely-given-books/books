@@ -13,7 +13,7 @@ TCP transcription (untouched)          books/<author>/<book>/source/<ID>.tcp.xml
         │  scripts/tei/build_tei.py  (+ reviewed Typst chapters, optional)
         ▼
 enriched TEI edition                   books/<author>/<book>/source/<book>.tei.xml
-        │  scripts/tei/tei_extract.py   or   scripts/tei/tei.typ (Typst reads the XML)
+        │  scripts/tei/tei_extract.py
         ▼
 Typst chapters / PDF                   chapters/typ/*.typ, <book>.typ
 
@@ -101,26 +101,16 @@ python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml preview.html
 # side-by-side reading copy: printed text | edition, every change marked
 # (hover a word for printed / machine / editor readings); read-only
 python3 scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
+#   --before/--after FILE   modern pages (.typ or .html), as for tei_epub.py
 
 # end-to-end check: rebuild matches committed TEI, round trips, compile
 python3 scripts/tei/verify.py books/william-perkins/christian-economy
 ```
 
-Or straight from Typst (compile with `--root` at the repo root, like the cover):
-
-```typst
-#import "../../../scripts/tei/tei.typ": tei-division, tei-book
-#let ed = xml("source/christian-economy.tei.xml")   // load in *this* file
-#tei-division(ed, "dedication")
-#tei-division(ed, 1)                    // layer: "reg" is the default
-#tei-book(ed, layer: "orig")
-```
-
-`tei.typ` and `tei_extract.py` produced text-identical output for Perkins
-(checked by comparing compiled PDFs). `tei.typ` has not been taught the
-later encodings (moved notes, `@prev` merges, print-/edition-only italics
-and notes, spacing choices, heading templates), so use `tei_extract.py` for
-any book that has them.
+There used to be a Typst-native reader, `scripts/tei/tei.typ`
+(`#tei-division(xml(...), 1)`). It matched `tei_extract.py` for Perkins but
+never learned the later encodings, so it was removed; it is in git history
+(commit 72afc55) if Typst ever needs to read the TEI directly again.
 
 Book settings live in the book's `source/editorial.py`, next to the TCP
 and TEI files, read by `build_tei.py`, `tei_extract.py` and
@@ -205,7 +195,7 @@ and copied back into `chapters/typ`.
    which stay in original spelling). Context-dependent ones were left out
    (harts/hearts, Tigres, Corinthes). `bee`→`be` is a known risk: it
    mangles "Bee-hive", which the editor layer here overrides.
-8. **Typst `xml()` gotchas** (for `tei.typ`): paths resolve relative to the
+8. **Typst `xml()` gotchas** (from the removed `tei.typ`): paths resolve relative to the
    file that calls `xml()`, so load the XML in the book file and pass it
    in; `while` loops hit an iteration limit on a whole book, use recursion;
    adjacent string pieces keep double spaces (collapse them yourself);
@@ -213,13 +203,15 @@ and copied back into `chapters/typ`.
    apostrophes are applied to markup, not strings.
 9. **TEI validation**: `tei_all.rng` is on GitHub
    (`TEIC/TEI-Simple`), tei-c.org is often unreachable; validate with jing
-   (`relaxng/jing-trang` releases). lxml's RelaxNG is too slow for
+   (`relaxng/jing-trang` releases); keep both in `~/.cache/fgb-tei`,
+   where `verify.py` finds them. lxml's RelaxNG is too slow for
    `tei_all`. `@resp` is not allowed on `list`/`head` in that schema, hence
    `@change="#review"`.
-10. **EPUB checking**: epubcheck needs Java. Without it, Calibre's own
-   checker (the editor's "Check book") runs headless:
+10. **EPUB checking**: `epubcheck book.epub` (installed, needs Java); both
+   EPUBs pass with 0 errors and 0 warnings. Calibre's own checker is a
+   second opinion that runs headless:
    `calibre-debug scripts/tei/check_epub.py book.epub` (ignore the Qt/GPU
-   noise it prints). The Perkins EPUB passes with 0 issues.
+   noise it prints).
 11. **Check the rendered text, not just the tokens.** A comparison of
    parsed words is blind to spacing: Simon Magus matched word for word
    while printing "natura( of" for "natura (of" — the editor had turned a
