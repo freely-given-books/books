@@ -7,7 +7,10 @@ Show a TCP file's division structure and whether the TEI scripts support it.
 build_tei.py, tei_extract.py and tei_to_html.py only handle
 div[@type="dedication"] and div[@type="chapter"] (numbered by @n). Any other
 division that holds text is reported, so the scripts can be extended before
-the book is started.
+the book is started. Divisions the edition leaves out on purpose (a printed
+table of contents, a publisher's advertisement) are listed in the book's
+source/editorial.py as SKIP_DIVISIONS = {"table_of_contents", ...}; they are
+still in the TEI, as printed, but do not fail the check.
 """
 
 import sys
@@ -24,6 +27,10 @@ def words(el):
 
 
 def main():
+    import runpy
+    from pathlib import Path
+    ed = Path(sys.argv[1]).parent / "editorial.py"
+    skip = set(runpy.run_path(str(ed)).get("SKIP_DIVISIONS", ())) if ed.exists() else set()
     root = etree.parse(sys.argv[1]).getroot()
     title = root.find(f"{T}teiHeader/{T}fileDesc/{T}titleStmt/{T}title")
     if title is not None:
@@ -35,7 +42,8 @@ def main():
             head = d.find(T + "head")
             h = " ".join("".join(head.itertext()).split())[:60] if head is not None else ""
             n = f" n={d.get('n')}" if d.get("n") else ""
-            mark = "" if d.get("type") in SUPPORTED else "  *"
+            mark = "" if d.get("type") in SUPPORTED else \
+                "  (left out)" if d.get("type") in skip else "  *"
             print(f"{'  ' * depth}{d.get('type')}{n}  ({words(d)} words)  {h}{mark}")
             if d.get("type") not in SUPPORTED:
                 show(d, depth + 1)
@@ -52,7 +60,7 @@ def main():
     missing_n = [d for d in divs if d.get("type") == "chapter" and not d.get("n")]
     # text sitting directly in an unsupported div (not only in supported children)
     stray = [d for d in divs if d.get("type") not in SUPPORTED
-             and d.get("type") != "title_page"
+             and d.get("type") != "title_page" and d.get("type") not in skip
              and any(c.tag in (T + "p", T + "list", T + "lg") for c in d)]
     ok = not missing_n and not stray
     if missing_n:

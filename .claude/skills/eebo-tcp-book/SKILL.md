@@ -1,12 +1,15 @@
 ---
 name: eebo-tcp-book
-description: Prepare a Freely Given Books edition from an EEBO-TCP transcription — enriched TEI master, modern-spelling Typst chapters, print PDF and EPUB 3 — using scripts/tei/. Use this whenever the user wants to start a book from quod.lib.umich.edu, EEBO, the Text Creation Partnership or an A##### id; fill in macron or illegible-gap decisions; rebuild the TEI after editing chapters/typ; deal with review-report.md or spelling decisions; change spelling.py; or rebuild/check a TEI-based EPUB. Use it even when the request only names one step ("rebuild the TEI", "the Perkins ebook", "add a spelling fix"), because the steps depend on each other.
+description: Prepare a Freely Given Books edition from an EEBO-TCP transcription — enriched TEI master, modern-spelling Typst chapters, print PDF and EPUB 3 — using scripts/tei/. Use this whenever the user wants to start a book from quod.lib.umich.edu, EEBO, the Text Creation Partnership or an A##### id; bring an already finished book into the TEI pipeline ("make it match"); fill in macron or illegible-gap decisions; rebuild the TEI after editing chapters/typ; deal with review-report.md or spelling decisions; change spelling.py; or rebuild/check a TEI-based EPUB. Use it even when the request only names one step ("rebuild the TEI", "the Perkins ebook", "add a spelling fix"), because the steps depend on each other.
 ---
 
 # EEBO-TCP book pipeline
 
-The model book is William Perkins, *Christian Economy*
-(`books/william-perkins/christian-economy/`). When in doubt, do what it does.
+The model books are William Perkins, *Christian Economy*
+(`books/william-perkins/christian-economy/`, reviewed from the machine
+pass) and *The Anatomy of Simon Magus* (`books/anonymous/the-anatomy-of-simon-magus/`,
+a finished, heavily edited book brought in afterwards). When in doubt, do
+what they do.
 The repo-root `CLAUDE.md` holds the hard-won lessons behind every script; read
 its "Hard-won lessons" before changing any script in `scripts/tei/`.
 
@@ -61,7 +64,10 @@ and `tei_to_html.py` (`divisions`) has to be extended first. Show the user
 the tree, agree on how divisions map to files (e.g. `preface.typ`,
 `section-03.typ`), and make the change before building anything. Don't force
 a book into the wrong shape, and don't start step 2 on a book that fails the
-check: text in skipped divisions would silently vanish.
+check: text in skipped divisions would silently vanish. A printed division
+the edition deliberately leaves out (a table of contents, a publisher's
+advertisement) goes in `editorial.py` as `SKIP_DIVISIONS`; ask the user
+before deciding that anything with text is left out.
 
 ### 2. Editorial decisions: `source/editorial.py`
 
@@ -95,6 +101,11 @@ page-image id (`tcp:NNNN:NN`) and the words around it. Copy Perkins's
   alone.
 - **`REPORT_NOTES`**: lines shown under "Please check" in the report. Use
   it for anything the user must look at.
+- **`SKIP_DIVISIONS`**, **`TYPST_PREAMBLE`**, **`TYPST_HEADING`**: printed
+  divisions left out; a line at the top of every chapter file and a
+  chapter-heading format (`{n}`, `{title}`, `{short}`) for a book with its
+  own heading macro, e.g. Simon Magus's
+  `#import "../../common.typ": chapter` + `#chapter[{title}][{short}]`.
 
 `build_tei.py` finds `editorial.py` next to the TCP file automatically. The
 shared script holds no book data, so never put book tables back into it.
@@ -139,6 +150,36 @@ Every difference between the review copy and the machine pass becomes an
 When the report shows something that looks like a slip in the review
 (Perkins had "Bee pitiful" for "Be pitiful"), ask the user. Don't change
 their text yourself; if they agree, edit `chapters/typ` and rebuild.
+
+## Bringing in a book that is already finished
+
+When the modern text exists already (made by hand, or with older tools) and
+the user wants the TEI to match it, treat the finished chapters as the
+review. Nothing about the book should change except what the user agreed.
+
+1. Source and structure check as in step 1; `SKIP_DIVISIONS` for printed
+   parts the edition omits. Modern matter (a foreword, an appendix) stays
+   Typst-only in `chapters/typ`; it is not in the TEI.
+2. `editorial.py`: the heading template if the chapters use their own macro.
+3. Build with the finished chapters as the review, into a scratch copy
+   first, and read the report: `unresolved` must be 0.
+4. Prove the round trip before touching the book:
+   - `compare.py chapters <extracted> chapters/typ` for words, paragraph
+     breaks, italics, notes and headings;
+   - compile the print book from the old and from the extracted chapters
+     (copy the book folder to scratch), then `compare.py pdf old.pdf new.pdf`
+     and `cmp` of `pdftotext -layout` for both — the rendered text must be
+     identical line for line; this is what catches spacing;
+   - the same for the ebook with `compare.py epub`.
+   Fix the tools, not the data, when something differs, and keep Perkins
+   byte-identical (`verify.py`) after every change.
+5. Ask before replacing `chapters/typ` with the extraction (same rendering,
+   different line wrapping and markup style), then run `verify.py`: [1]
+   proves rebuilding from the new files gives the same TEI.
+
+Expect thousands of decisions for a thorough modern edition (Simon Magus:
+about 7,300 — capitalization, grammar modernized, notes rewritten and moved,
+translations inserted). That is the record doing its job, not noise.
 
 ## Spelling decisions
 
@@ -191,8 +232,16 @@ $PY ../../../scripts/tei/tei_epub.py source/<book>.tei.xml <book>.epub \
 calibre-debug ../../../scripts/tei/check_epub.py <book>.epub
 ```
 
+Pages that aren't in the TEI go in with `--before FILE` / `--after FILE`
+(repeatable, in order): a `.typ` file is rendered with Typst's HTML export
+(footnotes become the same pop-up footnotes; `--typst-root` defaults to the
+book folder), a `.html` file is an XHTML fragment (e.g. an "Appendix"
+divider). The contents nest by heading: h2 opens an entry, h3s go under it.
+See Simon Magus's README for the full command.
+
 The check needs 0 issues; ignore the Qt/GPU noise it prints (epubcheck needs
-Java, which isn't installed). Notes become EPUB 3 pop-up footnotes; Greek and
+Java, which isn't installed). When replacing an older ebook, run
+`compare.py epub old.epub new.epub` too. Notes become EPUB 3 pop-up footnotes; Greek and
 Hebrew get `lang`. `cover_front.jpg` is cut from the compiled `cover.pdf`
 (command in the book README). `books/.gitignore` ignores `*html`, so a new
 `ebook-front.html` must be added once with `git add -f`; after that git

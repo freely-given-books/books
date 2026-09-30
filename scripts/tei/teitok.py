@@ -32,7 +32,8 @@ def is_join_atom(el):
     n = local(el)
     if n == "g":
         return el.get("ref") in ("char:EOLhyphen", "char:EOLunhyphen",
-                                 "char:cmbAbbrStroke", "char:abque")
+                                 "char:cmbAbbrStroke", "char:abque",
+                                 "char:V")          # Ʋ, a capital U/V letter form
     if n == "gap":
         return el.get("reason") != "duplicate"
     if n == "hi":

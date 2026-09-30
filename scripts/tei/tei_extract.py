@@ -59,13 +59,33 @@ class R:
                  show_gaps=False):
         self.show_gaps = show_gaps
         self.layer = layer
+        self.moved = {}             # anchor id -> note placed there by the review
         self.expand = expand
         self.mark = mark_supplied
         self.only_auto = only_auto
 
+    def index(self, root):
+        """Notes the review moved: note[@target] is shown at its anchor in
+        the reg layer and where it was printed in the orig layer."""
+        for n in root.iter(T + "note"):
+            tgt = n.get("target")
+            if tgt and tgt.startswith("#"):
+                self.moved[tgt[1:]] = n
+
+    def note_shown(self, c):
+        ana = c.get("ana")
+        if self.layer == "reg":
+            return ana != "#print-only" and not c.get("target")
+        return ana != "#edition-only"
+
     # -- output format (Typst); tei_to_html.py overrides these ----------
     def esc(self, s):
         return esc(s)
+
+    def after_call(self, prev):
+        """Does prev end a Typst call (#emph[..], #footnote[..]), so that a
+        following ( or [ would be read as more arguments?"""
+        return prev.endswith("]") and not prev.endswith("\\]")
 
     def sup(self, inner):
         return f"#super[{inner}]"
@@ -84,7 +104,8 @@ class R:
             lead = ""
         parts = [("t", self.esc(lead))]
         for i, c in enumerate(kids):
-            parts.append(("n" if local(c) == "note" else "e", self.node(c, in_numbered)))
+            parts.append(("n" if local(c) in ("note", "anchor") else "e",
+                          self.node(c, in_numbered)))
             nxt = kids[i + 1] if i + 1 < len(kids) else None
             raw_tail = c.tail or ""
             if noise(raw_tail, c, nxt):
@@ -92,6 +113,8 @@ class R:
             parts.append(("t", self.esc(raw_tail)))
         out = []
         for i, (k, s) in enumerate(parts):
+            if k != "n" and s and s[0] in "([" and self.after_call("".join(out)):
+                s = "\\" + s                 # "#emph[x](y)" would call emph again
             if k == "n" and s:
                 before = "".join(out)
                 after = "".join(x for _, x in parts[i + 1:])
@@ -130,13 +153,25 @@ class R:
             inner = self.inline(c, in_numbered)
             if c.get("rend") == "sup":
                 return self.sup(inner)
+            ana = c.get("ana")
+            if (ana == "#print-only" and self.layer == "reg") or \
+                    (ana == "#edition-only" and self.layer == "orig"):
+                return inner                 # italic in one layer only
             if not inner.strip():
                 return inner
             lead = inner[:len(inner) - len(inner.lstrip())]
             trail = inner[len(inner.rstrip()):]
             return f"{lead}{self.emph(inner.strip())}{trail}"
         if n == "note":
+            if not self.note_shown(c):
+                return ""
             body = collapse(self.inline(c)).strip()
+            return self.footnote(body) if body else ""
+        if n == "anchor":
+            note = self.moved.get(c.get("{http://www.w3.org/XML/1998/namespace}id"))
+            if self.layer != "reg" or note is None:
+                return ""
+            body = collapse(self.inline(note)).strip()
             return self.footnote(body) if body else ""
         if n == "label":
             if self.layer == "reg" and in_numbered:
@@ -168,7 +203,7 @@ class R:
         abbr, expan = c.find(T + "abbr"), c.find(T + "expan")
         if orig is not None and reg is not None:
             if self.layer == "reg":
-                return self.esc(reg.text or "")
+                return self.inline(reg) if len(reg) else self.esc(reg.text or "")
             return self.inline(orig)
         if abbr is not None and expan is not None:
             if self.layer == "reg" or self.expand:
@@ -252,8 +287,9 @@ def div_blocks(r, div):
             continue
         if n == "p":
             t = r.para(c)
-            if t:
-                lines += [t, ""]
+            if t and r.layer == "reg" and c.get("rend") == "quote":
+                t = f"#quote[{t}]"
+            add_block(r, lines, c, t)
         elif n == "list":
             if c.get("type") == "numbered" and r.layer == "reg" and not enum_set:
                 lines += ['#set enum(numbering: "I.")', ""]
@@ -280,19 +316,64 @@ def div_blocks(r, div):
             else:
                 lines += [f"#align(right)[{r.para(signed)}]", ""]
         elif n == "trailer":
-            if r.layer == "orig":
-                lines += [f"#align(center)[{r.para(c)}]", ""]
-        elif n == "div":
-            lines += div_blocks(r, c)
+            lines += trailer_lines(r, c)
+        elif n == "div" or (n == "q" and c.find(T + "p") is not None):
+            lines += div_blocks(r, c)       # a quotation made of paragraphs too
         else:
-            t = r.para(c)
-            if t:
-                lines += [t, ""]
+            add_block(r, lines, c, r.para(c))
     return lines
+
+
+def add_block(r, lines, c, t):
+    """A paragraph-like block; in the reg layer one with @prev (the review
+    ran it on from the block before) joins that block's paragraph."""
+    if not t:
+        return
+    if r.layer == "reg" and c.get("prev") and len(lines) >= 2 and lines[-1] == "":
+        lines[-2] += " " + t
+    else:
+        lines += [t, ""]
+
+
+def trailer_lines(r, c):
+    """FINIS and the like: printed centred in the orig layer; in the reg
+    layer only if the review kept it (ana="#in-edition")."""
+    if r.layer == "orig":
+        return [f"#align(center)[{r.para(c)}]", ""]
+    if c.get("ana") == "#in-edition":
+        return [r.para(c), ""]
+    return []
+
+
+def following_trailers(div):
+    out, sib = [], div.getnext()
+    while sib is not None and local(sib) == "trailer":
+        out.append(sib)
+        sib = sib.getnext()
+    return out
+
+
+def book_settings(tei_path):
+    """Optional Typst settings from the book's source/editorial.py (next to
+    the TEI): TYPST_PREAMBLE, a line put at the top of every chapter file,
+    and TYPST_HEADING, a format string for chapter headings in the reg layer
+    with {n}, {title} (head type=edition) and {short} (head type=short)."""
+    import runpy
+    ed = Path(tei_path).parent / "editorial.py"
+    ns = runpy.run_path(str(ed)) if ed.exists() else {}
+    return {k: ns[k] for k in ("TYPST_PREAMBLE", "TYPST_HEADING") if k in ns}
 
 
 def heading_lines(r, div):
     heads = div.findall(T + "head")
+    ed = next((h for h in heads if h.get("type") == "edition"), None)
+    tpl = getattr(r, "settings", {}).get("TYPST_HEADING")
+    if div.get("type") == "chapter" and r.layer == "reg" and ed is not None and tpl:
+        short = next((h for h in heads if h.get("type") == "short"), None)
+        title = collapse(r.inline(ed)).strip()
+        return [tpl.format(n=div.get("n"), title=title,
+                           short=collapse(r.inline(short)).strip() if short is not None
+                           else title), ""]
     if div.get("type") == "chapter":
         sub = next((h for h in heads if h.get("type") == "sub"), None)
         first = next((h for h in heads if h.get("type") is None), None)
@@ -324,6 +405,9 @@ def main():
     a = ap.parse_args()
     r = R(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
     root = etree.parse(a.tei).getroot()
+    r.index(root)
+    r.settings = book_settings(a.tei)
+    pre = [r.settings["TYPST_PREAMBLE"], ""] if "TYPST_PREAMBLE" in r.settings else []
     out = Path(a.outdir)
     out.mkdir(parents=True, exist_ok=True)
     n = 0
@@ -335,7 +419,9 @@ def main():
             name = f"chapter-{int(div.get('n')):02d}.typ"
         else:
             continue
-        lines = heading_lines(r, div) + div_blocks(r, div)
+        lines = pre + heading_lines(r, div) + div_blocks(r, div)
+        for tr in following_trailers(div):
+            lines += trailer_lines(r, tr)
         while lines and lines[-1] == "":
             lines.pop()
         (out / name).write_text("\n".join(lines) + "\n", encoding="utf-8")

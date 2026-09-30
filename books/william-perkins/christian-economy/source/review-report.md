@@ -34,14 +34,14 @@
 
 ## gap
 
-- [dedication.typ] 〈…〉 → Aristot. Politic. 1.
-- [dedication.typ] 〈…〉 → Xenoph. in Oeconom.
-- [dedication.typ] 〈 in non-Latin alphabet 〉 → ἀποικίζει
-- [chapter-03.typ] 〈 in non-Latin alphabet 〉 → προσκολληθήσεται
-- [chapter-05.typ] 〈 in non-Latin alphabet 〉 → שְׁאֵר בְּשָׂרוֹ
-- [chapter-05.typ] 〈◊〉 → 8. epist.
-- [chapter-09.typ] 1• → 16
-- [chapter-11.typ] 〈…〉 → L. Consensu. C. de diuortijs.
+- [dedication.typ note] 〈…〉 → Aristot. Politic. 1.
+- [dedication.typ note] 〈…〉 → Xenoph. in Oeconom.
+- [dedication.typ note] 〈 in non-Latin alphabet 〉 → ἀποικίζει
+- [chapter-03.typ note] 〈 in non-Latin alphabet 〉 → προσκολληθήσεται
+- [chapter-05.typ note] 〈 in non-Latin alphabet 〉 → שְׁאֵר בְּשָׂרוֹ
+- [chapter-05.typ note] 〈◊〉 → 8. epist.
+- [chapter-09.typ note] 1• → 16
+- [chapter-11.typ note] 〈…〉 → L. Consensu. C. de diuortijs.
 
 ## expansion
 
@@ -63,14 +63,14 @@
 - [chapter-09.typ] ship wrack → shipwreck
 - [chapter-10.typ heading] married folks , and of due benevolence → Married Folks
 - [chapter-13.typ] beforborne → be forborne
-- [chapter-14.typ] parfactis → parentum factis
+- [chapter-14.typ note] parfactis → parentum factis
 
 ## punctuation
 
 - [dedication.typ] ▪ → ;
 - [chapter-05.typ] ▪ → ,
 - [chapter-06.typ] ▪ → .
-- [chapter-16.typ] ▪ → .
+- [chapter-16.typ note] ▪ → .
 
 ## case
 

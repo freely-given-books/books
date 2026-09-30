@@ -30,7 +30,7 @@ from pathlib import Path
 
 from lxml import etree
 
-from tei_extract import R, T, collapse, local
+from tei_extract import R, T, collapse, local, following_trailers
 
 GREEK = "Ͱ-Ͽἀ-῿"
 HEBREW = "֐-׿"
@@ -44,13 +44,37 @@ SCRIPT_RUNS = [
 NOTEREF_GAP = re.compile(r'\s+(<a class="noteref")')
 
 
-def smart_quotes(s):
-    """Curl straight quotes the way Typst does for markup: after a letter or
-    closing punctuation a quote closes, otherwise it opens."""
-    s = re.sub(r"(?<=[\w.,;:!?)\]])'", "\u2019", s)
-    s = s.replace("'", "\u2018")
-    s = re.sub(r'(?<=[\w.,;:!?)\]])"', "\u201d", s)
-    return s.replace('"', "\u201c")
+CLOSERS = set(".,;:!?)]")
+
+
+def curl(markup):
+    """Curl straight quotes in rendered XHTML the way Typst does: after a
+    letter, digit or closing punctuation a quote closes, otherwise it opens.
+    Works across tags ("<em>Simon</em>'s" closes), so it runs on whole
+    paragraphs, headings and notes rather than on text fragments."""
+    out, prev, i = [], " ", 0
+    while i < len(markup):
+        c = markup[i]
+        if c == "<":
+            j = markup.index(">", i)
+            out.append(markup[i:j + 1])
+            i = j + 1
+            continue
+        if c == "&":
+            j = markup.find(";", i)
+            ent = markup[i:j + 1]
+            out.append(ent)
+            prev = html.unescape(ent)[-1:] or prev
+            i = j + 1
+            continue
+        if c in "'\"":
+            closing = prev.isalnum() or prev in CLOSERS
+            c = ("\u2019" if closing else "\u2018") if c == "'" else \
+                ("\u201d" if closing else "\u201c")
+        out.append(c)
+        prev = c
+        i += 1
+    return "".join(out)
 
 
 class HtmlR(R):
@@ -62,11 +86,13 @@ class HtmlR(R):
         self.note_no = 0
 
     def esc(self, s):
-        s = smart_quotes(s)
         s = html.escape(s, quote=False)
         for rx, wrap in SCRIPT_RUNS:
             s = rx.sub(lambda m: wrap.format(m.group(0)), s)
         return s
+
+    def after_call(self, prev):
+        return False
 
     def sup(self, inner):
         return f"<sup>{inner}</sup>"
@@ -82,7 +108,7 @@ class HtmlR(R):
                 f'epub:type="noteref" role="doc-noteref"><sup>{n}</sup></a>')
 
     def text(self, el):
-        return NOTEREF_GAP.sub(r"\1", collapse(self.inline(el)).strip())
+        return curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(el)).strip()))
 
     def para(self, el, cls=None):
         t = self.text(el)
@@ -113,7 +139,7 @@ class HtmlR(R):
                             body.text = (body.text or "") + c.tail
                 else:
                     body.append(copy.deepcopy(c))
-            txt = NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip())
+            txt = curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip()))
             if numbered and self.layer == "orig":
                 # printed numerals stay in the text, as run-in paragraphs
                 if txt:
@@ -134,6 +160,24 @@ class HtmlR(R):
             out.append(f"<{tag}{cls}>" + "".join(items) + f"</{tag}>")
         return out
 
+    def add_block(self, out, c, html_):
+        """Like tei_extract.add_block: a block with @prev (the review ran it
+        on from the block before) joins that paragraph in the reg layer."""
+        if not html_:
+            return
+        if self.layer == "reg" and c.get("prev") and out and out[-1].endswith("</p>"):
+            inner = re.sub(r"^<p[^>]*>|</p>$", "", html_)
+            out[-1] = out[-1][:-len("</p>")] + " " + inner + "</p>"
+        else:
+            out.append(html_)
+
+    def trailer(self, c):
+        if self.layer == "orig":
+            return self.para(c, "trailer")
+        if c.get("ana") == "#in-edition":
+            return self.para(c)
+        return []
+
     def blocks(self, div):
         out = []
         for c in div:
@@ -141,6 +185,14 @@ class HtmlR(R):
                 continue
             n = local(c)
             if n in ("head", "pb"):
+                continue
+            if n == "p":
+                t = self.text(c)
+                if t and self.layer == "reg" and c.get("rend") == "quote":
+                    t = f"\u201c{t}\u201d"          # as Typst sets #quote[...]
+                    self.add_block(out, c, f'<p class="quote">{t}</p>')
+                elif t:
+                    self.add_block(out, c, f"<p>{t}</p>")
                 continue
             if n == "list":
                 out += self.list_html(c)
@@ -163,16 +215,19 @@ class HtmlR(R):
                 else:
                     out += self.para(signed, "signature")
             elif n == "trailer":
-                if self.layer == "orig":
-                    out += self.para(c, "trailer")
-            elif n == "div":
+                out += self.trailer(c)
+            elif n == "div" or (n == "q" and c.find(T + "p") is not None):
                 out += self.blocks(c)
             else:
-                out += self.para(c)
+                for h in self.para(c):
+                    self.add_block(out, c, h)
         return out
 
     def heading(self, div):
         heads = div.findall(T + "head")
+        ed = next((h for h in heads if h.get("type") == "edition"), None)
+        if div.get("type") == "chapter" and self.layer == "reg" and ed is not None:
+            return [f"<h3>{self.text(ed)}</h3>"]
         if div.get("type") == "chapter":
             sub = next((h for h in heads if h.get("type") == "sub"), None)
             first = next((h for h in heads if h.get("type") is None), None)
@@ -196,10 +251,12 @@ class HtmlR(R):
         head = self.heading(div)
         self.title = re.sub(r"<[^>]+>", "", head[0]) if head else ident
         out = [f'<section id="{ident}">'] + head + self.blocks(div)
+        for tr in following_trailers(div):
+            out += self.trailer(tr)
         if self.notes:
             out.append('<section class="notes">')
             for n, body in self.notes:
-                body = NOTEREF_GAP.sub(r"\1", body)
+                body = curl(NOTEREF_GAP.sub(r"\1", body))
                 out.append(f'<aside id="fn-{n}" class="note" epub:type="footnote" '
                            f'role="doc-footnote"><p><a href="#nr-{n}" '
                            f'role="doc-backlink">{n}.</a> {body}</p></aside>')
@@ -217,8 +274,11 @@ def add_text_args(ap):
     ap.add_argument("--show-gaps", action="store_true")
 
 
-def renderer(a):
-    return HtmlR(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
+def renderer(a, root=None):
+    r = HtmlR(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
+    if root is not None:
+        r.index(root)
+    return r
 
 
 def tei_title(root):
@@ -263,8 +323,8 @@ def main():
     ap.add_argument("--title")
     ap.add_argument("--css", action="append", default=[])
     a = ap.parse_args()
-    r = renderer(a)
     root = etree.parse(a.tei).getroot()
+    r = renderer(a, root)
     body = []
     if a.front:
         body.append(Path(a.front).read_text(encoding="utf-8").strip())

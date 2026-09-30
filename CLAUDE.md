@@ -2,8 +2,9 @@
 
 How books from early printed sources are prepared in this repo, and what
 was learned doing it for William Perkins' *Christian Oeconomie* (1609,
-EEBO-TCP `A09377`). Read this before starting a new book from the same
-kind of source.
+EEBO-TCP `A09377`) and *The Anatomy of Simon Magus* (1700, `A25330`, a
+heavily edited edition brought into the pipeline after it was finished).
+Read this before starting a new book from the same kind of source.
 
 ## Architecture: TEI is the master, Typst is a view
 
@@ -17,7 +18,8 @@ enriched TEI edition                   books/<author>/<book>/source/<book>.tei.x
 Typst chapters / PDF                   chapters/typ/*.typ, <book>.typ
 
 enriched TEI edition
-        │  scripts/tei/tei_epub.py (+ ebook-front.html, cover, CSS)
+        │  scripts/tei/tei_epub.py (+ ebook-front.html, cover, CSS,
+        │                           extra .typ/.html pages via --before/--after)
         ▼
 EPUB 3                                 <book>.epub
 ```
@@ -40,8 +42,19 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
     the TCP `<gap>` kept inside
   - `<list type="numbered" change="#review">` run-in "I. … II. …" set out as
     lists, printed numerals kept in `<label>`
-  - `<head type="edition">` this edition's section title, printed head kept
-  - `reg/@type`: spelling, case, punctuation, emendation
+  - `<head type="edition">` this edition's section title, printed head kept;
+    `<head type="short">` its running-head form
+  - `reg/@type`: spelling, case, punctuation, emendation, spacing; a `reg`
+    may hold `<hi>` (italic words of the reading) and `<anchor>`s
+  - notes: `note/@target` → `<anchor>` where the edition moved the note
+    (it stays where it was printed for the orig layer);
+    `note[@ana="#edition-only"]` added by the editor,
+    `note[@ana="#print-only"]` dropped
+  - `hi[@ana="#print-only"]` italic in print, roman in the edition;
+    `hi[@ana="#edition-only"]` the other way round
+  - `@prev`/`@next` blocks the edition runs together (both kept as printed);
+    `p[@rend="quote"]` a paragraph the edition sets as a quotation;
+    `trailer[@ana="#in-edition"]` a "FINIS." the edition keeps
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML
@@ -98,8 +111,18 @@ Or straight from Typst (compile with `--root` at the repo root, like the cover):
 #tei-book(ed, layer: "orig")
 ```
 
-`tei.typ` and `tei_extract.py` produce text-identical output (checked by
-comparing compiled PDFs).
+`tei.typ` and `tei_extract.py` produced text-identical output for Perkins
+(checked by comparing compiled PDFs). `tei.typ` has not been taught the
+later encodings (moved notes, `@prev` merges, print-/edition-only italics
+and notes, spacing choices, heading templates), so use `tei_extract.py` for
+any book that has them.
+
+Book settings live in the book's `source/editorial.py`, next to the TCP
+and TEI files, read by `build_tei.py`, `tei_extract.py` and
+`tcp_structure.py`: `MACRON_M`, `GAP_FIXES`, `LOWERCASE_COMMON_NOUNS`,
+`REPORT_NOTES`, `SKIP_DIVISIONS` (printed divisions the edition leaves out),
+`TYPST_PREAMBLE` and `TYPST_HEADING` (e.g. `"#chapter[{title}][{short}]"`
+for a book with its own heading macro).
 
 ## Review workflow
 
@@ -107,10 +130,23 @@ The reviewed Typst chapters remain a fine place to edit. Re-run
 `build_tei.py --review chapters/typ`: it aligns the reviewed text against
 the machine pass token by token and records every difference as an
 `#editor` decision (macron n/m fixes and filled-in gaps are recognized as
-such). Structural edits it understands: a printed "I." turned into a `+ `
-enum item, and a paragraph split. Pure layout (`#linebreak()`,
-`#align(...)`) is not text and is not stored. `//` comment lines are
-ignored. The report lists every decision and anything it could not apply.
+such). Body text and footnotes are aligned separately and notes are paired
+by position and text, so a note can be rewritten, moved, added or dropped.
+It also carries italics (`_…_`, `#emph[…]`), the review's exact spacing,
+paragraph splits and merges, a printed "I." turned into a `+ ` item,
+`#quote[…]` blocks and `#chapter[long][short]` headings. Pure layout
+(`#linebreak()`, `#align(...)`) is not text and is not stored. `//` comment
+lines are ignored. The report lists every decision and anything it could
+not apply.
+
+**Bringing in a finished book** (Simon Magus): put the TCP file in
+`source/`, give `editorial.py` the book's heading template, build with the
+finished chapters as `--review`, and prove the round trip before replacing
+anything: `scripts/tei/compare.py chapters` (words, notes, italics,
+headings), then compile the print book from the old and the extracted
+chapters and run `compare.py pdf` (spacing-sensitive) and `cmp` on
+`pdftotext -layout` (every line and page), and `compare.py epub` against
+the old ebook. Only then replace `chapters/typ` with the extraction.
 
 For *Christian Oeconomie* the reg extraction reproduces the reviewed
 chapters byte for byte, except the `#linebreak()` in chapter 5 (layout). A
@@ -130,8 +166,8 @@ and copied back into `chapters/typ`.
    Treating it as a space gives "con sent", "cu stome". The enriched file
    drops it inside words so consumers need no heuristics; `tei_extract.py`
    still guards against it for raw TCP input.
-3. **Macron abbreviations are ambiguous** (n or m). `MACRON_M` in
-   `build_tei.py` lists, by document order, the ones that are m; everything
+3. **Macron abbreviations are ambiguous** (n or m). `MACRON_M` in the
+   book's `source/editorial.py` lists, by document order, the ones that are m; everything
    else is n. Build it per book by reading each occurrence. The review
    caught 9 wrong ones here (fron→from, conmonly→commonly); those are now
    `<expan resp="#editor">`.
@@ -140,9 +176,12 @@ and copied back into `chapters/typ`.
    evidence). Use the document's *own* spelling for the letters ("euery",
    not "every"; check word frequencies). Greek/Hebrew and citation digits
    need the page image — the editor filled 8 of those by hand.
-5. **Keep grammatical archaisms** (hath, doth, thou, thee, thy, ye, shalt,
-   wilt, art, hast, dost): different words, not spellings. Footnotes stay
-   in original spelling (abbreviations expanded only).
+5. **The machine keeps grammatical archaisms** (hath, doth, thou, thee,
+   thy, ye, shalt, wilt, art, hast, dost): different words, not spellings.
+   An edition may still modernize them (Simon Magus does: hath → has, thou
+   → you); those are editor decisions, never `spelling.py` entries.
+   Footnotes stay in original spelling in the machine pass (abbreviations
+   expanded only).
 6. **Sentence case rules are legacy-compatible on purpose**: first word of
    a paragraph or after . ! ? is capitalized; an italic boundary right
    after a full stop does *not* start a sentence (so "…do.] vers. 26." stays
@@ -172,6 +211,30 @@ and copied back into `chapters/typ`.
    checker (the editor's "Check book") runs headless:
    `calibre-debug scripts/tei/check_epub.py book.epub` (ignore the Qt/GPU
    noise it prints). The Perkins EPUB passes with 0 issues.
+11. **Check the rendered text, not just the tokens.** A comparison of
+   parsed words is blind to spacing: Simon Magus matched word for word
+   while printing "natura( of" for "natura (of" — the editor had turned a
+   comma into "(" but the space after the comma was still in the source.
+   The review parser now records the review's spaces, readings are joined
+   with them, and a spacing pass records each added or removed space as a
+   `reg[@type="spacing"]` choice. `compare.py pdf` catches the rest.
+12. **Typst reads `#emph[x](y)` as a call** with more arguments. Any `(` or
+   `[` straight after a markup call is escaped (`\(`) by `tei_extract.py`;
+   check against everything rendered so far, since an empty text part can
+   sit in between.
+13. **1700 printings differ from 1609 ones**: long s (`ſ`) throughout and
+   `<g ref="char:V">Ʋ</g>` for capital U are letter forms, normalized by
+   the machine pass (not spelling decisions); nouns are capitalized
+   mid-sentence (the review lowercases them: thousands of `case`
+   decisions, which `LOWERCASE_COMMON_NOUNS` could move to the machine);
+   margin notes sit at the start of a quotation, and a modern edition
+   moves them to its end.
+14. **A `<q>` in a division can hold `<p>`s.** Only a quotation with text
+   directly inside counts as a block; one made of paragraphs is walked
+   into, and merges attach to the innermost paragraph.
+15. **Quotes are curled per paragraph in the ebook**, after rendering,
+   because an italic name and a roman "'s" are separate fragments
+   (per-fragment curling gave "Simon‘s").
 
 ## Starting a new TCP book
 

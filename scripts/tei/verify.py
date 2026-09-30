@@ -41,7 +41,11 @@ def run(*args):
 
 
 def chapter_files(d):
-    return ["dedication.typ"] + sorted(p.name for p in Path(d).glob("chapter-*.typ"))
+    """The chapter files the TEI produces (other .typ files in chapters/typ,
+    such as a modern foreword, are not part of the TEI and are ignored)."""
+    d = Path(d)
+    return (["dedication.typ"] if (d / "dedication.typ").exists() else []) + \
+        sorted(p.name for p in d.glob("chapter-*.typ"))
 
 
 def strip_comments(s):
@@ -115,17 +119,23 @@ def main():
     else:
         print("[4] schema validation skipped (pass --jing and --schema)")
 
-    # 5. typst
-    book_typ = reg / "book.typ"
+    # 5. typst: the extracted chapters in a copy of the book folder, so
+    # imports such as "../../common.typ" resolve
+    bk = tmp / "book"
+    (bk / "chapters").mkdir(parents=True)
+    shutil.copytree(reg, bk / "chapters" / "typ")
+    for f in book.glob("*.typ"):
+        shutil.copy(f, bk / f.name)
+    book_typ = bk / "verify-book.typ"
     book_typ.write_text("#set page(width: 6in, height: 9in, margin: 1in)\n"
-                        + "".join(f'#include "{f}"\n' for f in chapter_files(reg)))
+                        + "".join(f'#include "chapters/typ/{f}"\n' for f in chapter_files(reg)))
     try:
         import typst
-        typst.compile(str(book_typ), output=str(reg / "book.pdf"))
+        typst.compile(str(book_typ), output=str(bk / "book.pdf"))
         print("[5] extracted chapters compile with Typst: True")
     except ImportError:
         if shutil.which("typst"):
-            run("typst", "compile", book_typ, reg / "book.pdf")
+            run("typst", "compile", book_typ, bk / "book.pdf")
             print("[5] extracted chapters compile with Typst: True")
         else:
             print("[5] Typst not installed; compile check skipped")
