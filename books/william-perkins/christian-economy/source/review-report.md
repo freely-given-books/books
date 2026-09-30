@@ -10,8 +10,8 @@
 | --- | --- |
 | case | 18 |
 | expansion | 9 |
-| spelling | 9 |
 | gap | 8 |
+| spelling | 8 |
 | split | 8 |
 | emendation | 7 |
 | punctuation | 4 |
@@ -90,8 +90,8 @@
 
 ## spelling
 
-- Be → Bee (×2)
 - y• → the (×2)
+- Be → Bee
 - Corinthes → Corinthians
 - Tigres → Tigers
 - conuince → convince

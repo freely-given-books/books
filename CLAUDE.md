@@ -136,7 +136,7 @@ and copied back into `chapters/typ`.
    Prou→Prov, Heere→Here, bin→been, dais→days, yong→young, reade→read,
    shew→show, KJV name forms like Isaak→Isaac, Thar→Terah…) are
    now in `spelling.py`'s `MANUAL` (so this book's TEI credits them to
-   `#auto`; its report is down to 9 spelling decisions, mostly in notes,
+   `#auto`; its report is down to 8 spelling decisions, mostly in notes,
    which stay in original spelling). Context-dependent ones were left out
    (harts/hearts, Tigres, Corinthes). `bee`→`be` is a known risk: it
    mangles "Bee-hive", which the editor layer here overrides.
