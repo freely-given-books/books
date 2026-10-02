@@ -96,7 +96,7 @@ His guns, his nets, his lime-twigs, light and bell: \
 He creeps, he goes, he stands; yea, who can tell \
 Of all his postures? yet there’s none of these \
 Will make him master of what fowls he please. \
-Yea, he must pipe and whistle, to catch #emph[this]; \
+Yea, he must pipe and whistle, to catch #emph[this]\; \
 Yet if he does so, #emph[that] bird he will miss. \
 If that a pearl may in toad’s head dwell, \
 And may be found too in an oyster-shell; \

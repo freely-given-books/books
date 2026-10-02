@@ -134,7 +134,7 @@ class R:
             parts.append(("t", self.esc(raw_tail)))
         out = []
         for i, (k, s) in enumerate(parts):
-            if k != "n" and s and s[0] in "([" and self.after_call("".join(out)):
+            if k != "n" and s and s[0] in "([;" and self.after_call("".join(out)):
                 s = "\\" + s                 # "#emph[x](y)" would call emph again
             if k == "n" and s:
                 before = "".join(out)

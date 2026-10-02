@@ -321,8 +321,10 @@ and copied back into `chapters/typ`.
    The review parser now records the review's spaces, readings are joined
    with them, and a spacing pass records each added or removed space as a
    `reg[@type="spacing"]` choice. `compare.py pdf` catches the rest.
-12. **Typst reads `#emph[x](y)` as a call** with more arguments. Any `(` or
-   `[` straight after a markup call is escaped (`\(`) by `tei_extract.py`;
+12. **Typst reads `#emph[x](y)` as a call** with more arguments, and a `;`
+   straight after a call (`#emph[x];`) ends it and is swallowed, so the
+   semicolon never prints. Any `(`, `[` or `;` straight after a markup call is
+   escaped (`\(`, `\;`) by `tei_extract.py`;
    check against everything rendered so far, since an empty text part can
    sit in between.
 13. **1700 printings differ from 1609 ones**: long s (`ſ`) throughout and

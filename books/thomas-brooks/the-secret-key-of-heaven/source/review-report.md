@@ -7,16 +7,16 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4990 |
-| emendation | 3806 |
-| case | 3773 |
+| punctuation | 4988 |
+| case | 3775 |
+| emendation | 3770 |
 | spelling | 2428 |
-| italic | 1933 |
+| italic | 1946 |
 | spacing | 1839 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
-| grammar | 73 |
+| grammar | 74 |
 | gap | 26 |
 | merge | 24 |
 | list | 9 |
@@ -649,8 +649,7 @@
 - [argument-08.typ] super substantial → supersubstantial
 - [argument-08.typ] , What → what
 - [argument-08.typ] Cockle - shel → cockleshell
-- [argument-08.typ] Nomen → majestic
-- [argument-08.typ] Majestativum → name
+- [argument-08.typ] Nomen Majestativum → nomen majestativum (majestic name)
 - [argument-08.typ] , vers → (Gen 32:22)
 - [argument-08.typ] 22 . ( → 
 - [argument-08.typ] River , → river
@@ -1161,7 +1160,6 @@
 - [argument-18.typ] But , → 
 - [argument-19.typ] 19thly , → 
 - [argument-19.typ] O → oh,
-- [argument-19.typ] , and to weary him of secret prayer . → !
 - [argument-19.typ] 'tis → it is
 - [argument-19.typ] 'tis → it is
 - [argument-19.typ] 'tis → it is
@@ -1609,7 +1607,6 @@
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] , Psal . → (Psa
 - [application-02.typ] 'tis → It is
-- [application-02.typ] ( O donec praetereat hora → 
 - [application-02.typ] c → 
 - [application-02.typ] O → “Oh,
 - [application-02.typ] gone → gone! Oh
@@ -2538,20 +2535,13 @@
 - [application-03.typ] 55 → 
 - [application-03.typ] 17 → 
 - [application-03.typ] aloud → aloud” (Psa 55:17)
-- [application-03.typ] Vir orationis → “a man of prayer”
+- [application-03.typ] orationis → orationis, “a man of prayer,”
 - [application-03.typ] Psal → 
 - [application-03.typ] 109 → 
 - [application-03.typ] 4 → 
 - [application-03.typ] my self → myself
 - [application-03.typ] prayer → prayer” (Psa 109
 - [application-03.typ] Or → 4), or
-- [application-03.typ] Carolus → 
-- [application-03.typ] plus → 
-- [application-03.typ] cum → 
-- [application-03.typ] Deo → 
-- [application-03.typ] quam → 
-- [application-03.typ] hominibus → 
-- [application-03.typ] loquitur → 
 - [application-03.typ] Secondly → [2] Secondly
 - [application-03.typ] Duty , → duty
 - [application-03.typ] 1 → 
@@ -2798,15 +2788,6 @@
 - [application-03.typ] Sirs → 
 - [application-03.typ] the → sirs! The
 - [application-03.typ] Closet - → closet
-- [application-03.typ] these → 
-- [application-03.typ] words → 
-- [application-03.typ] Tephillah → 
-- [application-03.typ] belo → 
-- [application-03.typ] cavannah → 
-- [application-03.typ] ceguph → 
-- [application-03.typ] belo → 
-- [application-03.typ] neshamah → 
-- [application-03.typ] is , → 
 - [application-03.typ] Closet - → closet
 - [application-03.typ] hearts → hearts: “My son
 - [application-03.typ] My Son → 
@@ -3024,7 +3005,6 @@
 - [application-03.typ] By → By “
 - [application-03.typ] ; now → . Now,
 - [application-03.typ] satisfy → have satisfied
-- [application-03.typ] Nanquam abs te , absque te recedo : → 
 - [application-03.typ] When ever → Whenever
 - [application-03.typ] shining → shining (Exo 34:29-35)
 - [application-03.typ] O → Oh,
@@ -3197,11 +3177,6 @@
 - [application-03.typ] Humility → humility: “Suppose
 - [application-03.typ] Suppose → 
 - [application-03.typ] Closet - → closet
-- [application-03.typ] Non → 
-- [application-03.typ] sum → 
-- [application-03.typ] dignus → 
-- [application-03.typ] dici → 
-- [application-03.typ] minimus → 
 - [application-03.typ] Job → 
 - [application-03.typ] 42 → 
 - [application-03.typ] 5 , 6 . → “
@@ -3280,15 +3255,8 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Question , → question
 - [application-03.typ] Duties → ,
-- [application-03.typ] Quod → 
-- [application-03.typ] non → 
-- [application-03.typ] actibus → 
-- [application-03.typ] sed → 
-- [application-03.typ] finibus → 
-- [application-03.typ] pensantur → 
-- [application-03.typ] officia → 
-- [application-03.typ] That → 
-- [application-03.typ] malum opus in bona materia → “bad work with regard to a good matter/occasion
+- [application-03.typ] That → “
+- [application-03.typ] materia → materia (a bad work in a good matter)
 - [application-03.typ] 's → ’s
 - [application-03.typ] Jer → 
 - [application-03.typ] 32 . 23 . → “
@@ -3354,7 +3322,6 @@
 - [application-03.typ] 'tis → It is
 - [application-03.typ] 130 . → 130th
 - [application-03.typ] Closet - → closet
-- [application-03.typ] not in your own names , but in the name of Christ ; and that you plead → 
 - [application-03.typ] Col → 
 - [application-03.typ] 3 . 17 . → “
 - [application-03.typ] Jesus → Jesus” (Col 3:17)
@@ -3427,8 +3394,6 @@
 - [application-04.typ] 'twill → it will
 - [application-04.typ] 'tis → it is
 - [application-04.typ] 'twas → It was
-- [application-04.typ] Facito aliquid operis → “Do some work so that the devil always finds you busy
-- [application-04.typ] ut te semper Diabolus inveniat occupatum , → ”
 - [application-04.typ] ( sometimes → ,
 - [application-04.typ] Hermite ) → hermit, “
 - [application-04.typ] experience → experience (Eze 16:49)
@@ -3900,7 +3865,6 @@
 - [application-05.typ] ever → ever (Joe 2:28-29; Isa 44:3)
 - [application-05.typ] every → ,
 - [application-05.typ] one → everyone
-- [application-05.typ] Ille dolet vere , qui sine test dolet , → “
 - [application-05.typ] Closet , → closet
 - [application-05.typ] Cant → 
 - [application-05.typ] 2 → 
@@ -4001,6 +3965,7 @@
 - rest → rest.
 - saiest → sayest
 - stepeth → steppeth
+- test → teste
 - thee → Thee,
 - thou → “Thou
 - unto → to
@@ -5316,6 +5281,7 @@
 - [argument-19.typ] ; → .
 - [argument-19.typ] & → and
 - [argument-19.typ] ! → ,
+- [argument-19.typ] . → !
 - [argument-19.typ] , → 
 - [argument-19.typ] ; → .
 - [argument-19.typ] , → 
@@ -5996,6 +5962,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → , “
 - [application-02.typ] ; → ,”
+- [application-02.typ] ( → ,
 - [application-02.typ] & → 
 - [application-02.typ] . → 
 - [application-02.typ] ) → 
@@ -7226,9 +7193,8 @@
 - [application-03.typ] . → “
 - [application-03.typ] , → , “
 - [application-03.typ] . → .”
-- [application-03.typ] , → 
 - [application-03.typ] ( → 
-- [application-03.typ] ) → 
+- [application-03.typ] ) → ,
 - [application-03.typ] . → 
 - [application-03.typ] . → 
 - [application-03.typ] . → :
@@ -7492,8 +7458,6 @@
 - [application-03.typ] ; → .
 - [application-03.typ] ; → ,
 - [application-03.typ] , → 
-- [application-03.typ] , → 
-- [application-03.typ] ; → 
 - [application-03.typ] ( → ,
 - [application-03.typ] , → 
 - [application-03.typ] ) → ,
@@ -8035,7 +7999,6 @@
 - [application-03.typ] , → .
 - [application-03.typ] . → .”
 - [application-03.typ] , → 
-- [application-03.typ] , → 
 - [application-03.typ] ; → ,
 - [application-03.typ] , → 
 - [application-03.typ] , → :
@@ -8139,12 +8102,10 @@
 - [application-03.typ] - → duties
 - [application-03.typ] , → ;
 - [application-03.typ] ( → 
-- [application-03.typ] , → 
-- [application-03.typ] ) → 
+- [application-03.typ] ) → ,
 - [application-03.typ] , → 
 - [application-03.typ] . → .”
 - [application-03.typ] ; → ,
-- [application-03.typ] , → ,”
 - [application-03.typ] , → 
 - [application-03.typ] ( → ,
 - [application-03.typ] ) → ,
@@ -8348,6 +8309,7 @@
 - [application-04.typ] , → 
 - [application-04.typ] , → 
 - [application-04.typ] . → !
+- [application-04.typ] , → , “Do some work so that the devil always finds you busy,”
 - [application-04.typ] , → 
 - [application-04.typ] , → 
 - [application-04.typ] & → and
@@ -8912,6 +8874,7 @@
 - [application-05.typ] , → 
 - [application-05.typ] , → 
 - [application-05.typ] ; → ,
+- [application-05.typ] , → , “
 - [application-05.typ] , → 
 - [application-05.typ] . → .”
 - [application-05.typ] , → ;
@@ -9879,6 +9842,7 @@
 - Victor → victor
 - Victory → victory
 - Violet → violet
+- Vir → vir
 - Virgin → virgin
 - Virtues → virtues
 - Visitant → visitant
@@ -9909,6 +9873,7 @@
 - by → By
 - christianity → Christianity
 - comforter → Comforter
+- duties → Duties
 - either → Either
 - flood → Flood
 - four → Four
@@ -10473,6 +10438,7 @@
 - Monarch → monarch,
 - Morgan → Morgan,
 - Musick → music
+- Nanquam → Nunquam
 - Nebuchadnezzar → Nebuchadnezzar,
 - Neighbour → neighbor
 - Nilus → Nile
@@ -10747,7 +10713,6 @@
 - duel → duel,
 - duely → duly
 - dulness → dullness
-- duties → “Duties
 - duty → duty,
 - e're → ere
 - ear → ears
