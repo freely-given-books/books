@@ -23,6 +23,8 @@ from collections import Counter
 
 from lxml import etree
 
+import sources
+
 T = "{http://www.tei-c.org/ns/1.0}"
 SUPPORTED = {"dedication", "chapter"}
 
@@ -39,7 +41,7 @@ def main():
     ed = Path(sys.argv[1]).parent / "editorial.py"
     cfg = runpy.run_path(str(ed)) if ed.exists() else {}
     skip = set(cfg.get("SKIP_DIVISIONS", ()))
-    root = etree.parse(sys.argv[1]).getroot()
+    root = sources.load(sys.argv[1]).getroot()
     files = layout.book_layout(root, cfg)
     title = root.find(f"{T}teiHeader/{T}fileDesc/{T}titleStmt/{T}title")
     if title is not None:

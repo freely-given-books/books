@@ -71,11 +71,19 @@ don't fight it. Every text is on GitHub as plain TEI:
 quod.lib URL is the Nth top-level `<div>` across front/body/back.
 `<pb n="90" facs="tcp:2719:61"/>` gives the printed page and page image.
 
-**CCEL** (not done yet). CCEL offers ThML (an old HTML-based format) or
-plain text. Plan: write a converter to the same TEI subset used here, with
-`<pb>`/line information optional and the header saying the text is
-paragraph-faithful rather than line-faithful. Then everything downstream
-works unchanged.
+**CCEL** (ccel.org; first book: Spurgeon, *All of Grace*). Take the ThML,
+not the plain text: `https://www.ccel.org/ccel/<letter>/<author>/<work>.xml`
+(e.g. `.../s/spurgeon/grace.xml`), kept untouched as
+`source/<work>.thml.xml`. It plays the TCP file's part: every tool reads the
+source through `scripts/tei/sources.py`, which converts ThML in memory with
+`thml_to_tei.py` (div1 → chapter, blockquote/verse → `quote`, scripRef →
+`ref[@cRef]`, the title page → `front/titlePage`), so there is no converted
+copy. The text is kept exactly; CCEL has no page or line information, and
+the header says the TEI is paragraph-faithful. A modern text sets
+`MODERNIZE = False` (no early-modern spelling or case rules) and
+`TYPOGRAPHY = True` (ASCII quotes curled as Typst curls them, `--` as
+`DASH`, as `#auto` punctuation readings), and `QUOTE_BLOCK = True` when
+the print template sets `#quote` as a block (the ebook uses `<blockquote>`).
 
 ## Commands
 

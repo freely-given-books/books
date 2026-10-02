@@ -39,6 +39,7 @@ from spelling import (modernize_word_lower, apply_case_pattern, AMBIGUOUS_NAMES,
                       GRAMMAR_EXCEPTIONS)
 import reviewparse  # noqa: E402
 import layout  # noqa: E402
+import sources  # noqa: E402
 
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 
@@ -94,6 +95,21 @@ ITALIC_SENTENCE_QUIRK = True
 # set the word in ordinary case at the start of the paragraph.
 DROP_CAP_CASE = False
 
+# The early-modern machine pass (spelling engine, sentence case, common-noun
+# lowercasing). A book from a modern source (CCEL) turns it off: its words
+# stay as given, and only TYPOGRAPHY and the review change them.
+MODERNIZE = True
+
+# Straight quotes curled the way Typst curls them (after a letter, digit or
+# closing punctuation a quote closes, otherwise it opens) and "--" set as an
+# em dash, recorded as #auto punctuation readings. For sources keyed in
+# ASCII (CCEL); a TCP transcription already has its printed marks.
+TYPOGRAPHY = False
+DASH = "\u2014"          # what "--" becomes; " \u2014 " for a spaced dash
+
+# What the source is ("tcp" or "thml"), for the header; set by main().
+SOURCE_KIND = "tcp"
+
 
 def load_tables(path):
     """Replace the tables above with those defined in a book's editorial.py."""
@@ -102,7 +118,8 @@ def load_tables(path):
     g = globals()
     for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES",
                  "MODERNIZE_NOTES", "LATIN_RUNS", "DROP_FOREIGN_GAPS", "GAP_NOTES",
-                 "EXPAND_ETC", "ITALIC_SENTENCE_QUIRK", "DROP_CAP_CASE"):
+                 "EXPAND_ETC", "ITALIC_SENTENCE_QUIRK", "DROP_CAP_CASE",
+                 "MODERNIZE", "TYPOGRAPHY", "DASH"):
         if name in ns:
             g[name] = ns[name]
     # the book's own spellings, over the shared table (e.g. Gouge keeps
@@ -180,6 +197,8 @@ def auto_reg(tok, sentence_start, heading=False):
     if any(not isinstance(p, (str, tuple)) and local(p) == "hi" for p in tok.pieces):
         return w                     # y^e -> the (already expanded)
     if not re.fullmatch(r"[A-Za-z']+", w):
+        return w
+    if not MODERNIZE:
         return w
     low = w.lower()
     if ROMAN_RE.match(w) and w.isupper():
@@ -465,6 +484,76 @@ def compute_auto(toks):
     if EXPAND_ETC:
         expand_etc(toks)
     table_readings(toks)
+    if TYPOGRAPHY:
+        typography(toks)
+
+
+TYPO_BLOCKS = {"p", "head", "item", "l", "note", "cell", "titlePart", "byline",
+               "docAuthor", "signed", "trailer", "label"}
+TYPO_CLOSERS = set(".,;:!?)]")
+
+
+def typography(toks):
+    """TYPOGRAPHY: curl straight quotes, set "--" as an em dash."""
+    leaves = []
+
+    def walk(ts):
+        for t in ts:
+            if t.kind == "container":
+                if local(t.el) in TYPO_BLOCKS:
+                    leaves.append(None)            # a block starts: nothing before
+                walk(t.children)
+            elif t.kind in ("word", "punct", "space", "noise"):
+                leaves.append(t)
+    walk(toks)
+    prev = " "
+
+    def curl(c, prev):
+        closing = prev.isalnum() or prev in TYPO_CLOSERS
+        if c == "'":
+            return "\u2019" if closing else "\u2018"
+        return "\u201d" if closing else "\u201c"
+
+    for i, t in enumerate(leaves):
+        if t is None:
+            prev = " "
+            continue
+        if t.kind in ("space", "noise"):
+            prev = " "
+            continue
+        cur = t.reg if t.reg is not None else t.orig
+        if cur is None:
+            continue
+        if t.kind == "punct" and cur == "-":
+            # "--", or "-" at a line end and "-" opening the next line (a
+            # dash the keying split at the line break)
+            j = i + 1
+            if j < len(leaves) and leaves[j] is not None and \
+                    leaves[j].kind in ("space", "noise") and "\n" in (leaves[j].pieces[0] or ""):
+                j += 1
+            nxt = leaves[j] if j < len(leaves) else None
+            if nxt is not None and nxt.kind == "punct" and \
+                    (nxt.reg if nxt.reg is not None else nxt.orig) == "-":
+                t.reg, t.resp, t.rtype = DASH, "#auto", "punctuation"
+                nxt.reg, nxt.resp, nxt.rtype = "", "#auto", "punctuation"
+                prev = DASH[-1]
+                continue
+        if "'" in cur or '"' in cur:
+            out = []
+            for c in cur:
+                if c in "'\"":
+                    c = curl(c, prev)
+                out.append(c)
+                prev = c
+            new = "".join(out)
+            if new != cur:
+                t.reg, t.resp = new, "#auto"
+                if t.kind == "punct" or new.replace("\u2019", "'").replace("\u2018", "'") == \
+                        (t.expanded if t.kind == "word" else cur):
+                    t.rtype = "punctuation"
+            continue
+        if cur:
+            prev = cur[-1]
 
 
 def table_mode(cell_el):
@@ -735,7 +824,16 @@ def stream(toks, skip_heads=True):
                     # opened only if text comes before its first block
                     walk(t.children, path + (t,), pending=True)
                     continue
-                if (n in BLOCK_MARK or block_q) and not list_only and not in_epigraph:
+                # a quotation block of the source (CCEL blockquote, verse) is
+                # the review's #quote[...]; its paragraphs open no block
+                if n == "quote":
+                    out.append((">", "m", t, path))
+                    walk(t.children, path + (t,))
+                    continue
+                in_quote = n == "p" and t.el.getparent() is not None and \
+                    local(t.el.getparent()) == "quote"
+                if (n in BLOCK_MARK or block_q) and not list_only and not in_epigraph \
+                        and not in_quote:
                     out.append((BLOCK_MARK.get(n, "¶"), "m", t, path))
                 walk(t.children, path + (t,))
             elif t.kind in ("word", "punct"):
@@ -1326,7 +1424,10 @@ def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
         between = leaves[ia + 1:ib]
         spaces = [x for x in between if x.kind == "space"]
         want = sp[j2]
-        if want == bool(spaces):
+        # a reading may carry its own space (a spaced dash, DASH = " — ")
+        padded = (a.kind in ("word", "punct") and (a.reg or "").endswith(" ")) or \
+            (b.kind in ("word", "punct") and (b.reg or "").startswith(" "))
+        if want == (bool(spaces) or padded):
             continue
         if want:
             if is_changed(b) and b.extra.get("tidx", [None])[0] == j2:
@@ -1748,7 +1849,8 @@ def new_container(tag, like=None):
     el = etree.Element(T + tag)
     if like is not None:
         for k, v in like.attrib.items():
-            el.set(k, v)
+            if k != "{%s}id" % XML_NS:      # the split-off part is a new element
+                el.set(k, v)
     t = Tok("container", el=el)
     t.children = []
     return t
@@ -1829,6 +1931,42 @@ def merge_lists(log):
             relink(par)
 
 
+def split_quote(q, pts, log):
+    """A source quotation the review breaks up (CCEL puts prose and verse in
+    one blockquote): split it at each point; a part after a new paragraph
+    mark leaves the quotation (its paragraphs become the edition's own), a
+    part after a new quote mark is a quotation of its own."""
+    div = q.parent
+    parts, cur = [(q, None)], q
+    for tok, kind, _labels, _o, _f in pts:
+        _left, right = split_container(cur, tok)
+        parts.append((right, kind))
+        cur = right
+    out = []
+    for ct, kind in parts:
+        if kind is None:
+            if has_content(ct.children):
+                out.append(ct)
+        elif kind == ">":
+            ct.el.set("change", "#review")
+            out.append(ct)
+        else:
+            for c in ct.children:
+                if c.kind == "container":
+                    c.el.set("change", "#review")
+                    out.append(c)
+    i = div.children.index(q)
+    repl = []
+    for k, t in enumerate(out):
+        if k:
+            repl.append(Tok("space", ["\n"]))
+        repl.append(t)
+    div.children[i:i + 1] = repl
+    relink(div)
+    log.append((pts[0][4], "split", "quotation",
+                f"{len(parts) - 1} split(s) at " + ", ".join(s[0].orig or "" for s in pts)))
+
+
 def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
@@ -1838,6 +1976,9 @@ def restructure(splits, log):
     by_block = {}
     for s in splits:
         b = block_of(s[0])
+        if b is not None and local(b.el) == "quote":
+            by_block.setdefault(id(b), (b, []))[1].append(s)
+            continue
         if b is None or local(b.el) != "p":
             log.append((s[4], "skipped", f"new {s[1]} before '{s[0].orig}'",
                         "not a paragraph (e.g. a list heading); kept as is"))
@@ -1845,6 +1986,9 @@ def restructure(splits, log):
         by_block.setdefault(id(b), (b, []))[1].append(s)
     for b, pts in by_block.values():
         pts.sort(key=lambda s: s[3])
+        if local(b.el) == "quote":
+            split_quote(b, pts, log)
+            continue
         div = b.parent
         cleaned = [(b, None)]
         cur = b
@@ -2018,9 +2162,12 @@ def add_header(root, editor_name):
         ed = etree.Element(T + "encodingDesc")
         hdr.insert(list(hdr).index(fd) + 1, ed)
     decl = etree.SubElement(ed, T + "editorialDecl")
+    ccel = SOURCE_KIND == "thml"
     paras = [
-        "This file is the EEBO-TCP transcription with editorial layers added "
-        "inline; nothing of the transcription has been removed.",
+        ("This file is the CCEL text (converted from ThML) with editorial layers "
+         "added inline; nothing of it has been removed." if ccel else
+         "This file is the EEBO-TCP transcription with editorial layers added "
+         "inline; nothing of the transcription has been removed."),
         "choice/orig holds the text as printed; choice/reg holds the modern "
         "reading. reg/@resp says who decided it (#auto = machine, #editor = "
         "reviewed by hand); reg/@type is spelling, case, punctuation, spacing, "
@@ -2045,6 +2192,17 @@ def add_header(root, editor_name):
         "g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). "
         "pb/@n is the printed page, pb/@facs the page image.",
     ]
+    if ccel:
+        # a modern source has no abbreviations, illegible print, period
+        # spelling or transcription line breaks; say what it does have
+        tcp_only = ("choice/abbr", "supplied:", "Spelling regularized", "Line breaks")
+        paras = [x for x in paras if not x.startswith(tcp_only)]
+        paras.append("The text is CCEL's, paragraph by paragraph; CCEL gives no page "
+                     "or line information. quote: a block quotation or verse set off "
+                     "in the source.")
+        if TYPOGRAPHY:
+            paras.append("reg[@type='punctuation'][@resp='#auto']: CCEL's straight "
+                         "quotes curled and its -- set as an em dash.")
     # encodings added for editions that rework the text more (moved notes,
     # italics, merges ...): documented only when the file uses them
     used = [(xp, txt) for xp, txt in (
@@ -2089,7 +2247,9 @@ def add_header(root, editor_name):
     ch.set("{%s}id" % XML_NS, "review")
     ch.set("when", date.today().isoformat())
     ch.set("who", "#editor")
-    ch.text = "Enriched edition built from the TCP file and the reviewed Typst chapters."
+    ch.text = ("Enriched edition built from the CCEL text and the reviewed Typst chapters."
+               if SOURCE_KIND == "thml" else
+               "Enriched edition built from the TCP file and the reviewed Typst chapters.")
     ch.tail = rd.text
     rd.insert(0, ch)
 
@@ -2158,7 +2318,9 @@ def main():
     elif args.tables:
         ap.error(f"no such file: {tables}")
 
-    src = etree.parse(args.source)
+    global SOURCE_KIND
+    SOURCE_KIND = sources.kind(args.source)
+    src = sources.load(args.source)
     tree = copy.deepcopy(src)
     root = tree.getroot()
     text = root.find(".//" + T + "text")

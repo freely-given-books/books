@@ -32,6 +32,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import layout
+import sources
 import reviewparse  # noqa: E402
 
 
@@ -75,7 +76,7 @@ def main():
 
     book = Path(a.book)
     src = book / "source"
-    tcp = src / (a.tcp or next(p.name for p in src.glob("*.tcp.xml")))
+    tcp = src / a.tcp if a.tcp else sources.find(src)
     tei = src / (a.tei or next(p.name for p in src.glob("*.tei.xml")))
     chapters = book / "chapters" / "typ"
     global LAYOUT_FILES
@@ -116,7 +117,8 @@ def main():
     run(sys.executable, HERE / "tei_extract.py", tei, o1, "--layer", "orig", "--show-gaps")
     run(sys.executable, HERE / "tei_extract.py", tcp, o2, "--layer", "orig")
     words = lambda d: [w for f in chapter_files(d) for w in
-                       reviewparse.TOKEN_RE.findall((d / f).read_text())
+                       reviewparse.TOKEN_RE.findall(
+                           (d / f).read_text().replace("#quote[", " "))
                        if w not in ("#", "emph", "[", "]")]
     wa, wb = words(o2), words(o1)
     ops = [] if wa == wb else [
