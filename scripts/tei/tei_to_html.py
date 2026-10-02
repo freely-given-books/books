@@ -49,16 +49,24 @@ CLOSERS = set(".,;:!?)]")
 
 
 def curl(markup):
-    """Curl straight quotes in rendered XHTML the way Typst does: after a
-    letter, digit or closing punctuation a quote closes, otherwise it opens.
-    Works across tags ("<em>Simon</em>'s" closes), so it runs on whole
-    paragraphs, headings and notes rather than on text fragments."""
-    out, prev, i = [], " ", 0
+    """Curl straight quotes in rendered XHTML the way Typst does (its
+    SmartQuoter): within a paragraph it remembers which quotes are open; a
+    single quote after a letter is an apostrophe unless a single quotation
+    is open; a quote after a digit is a prime unless one of its kind is
+    open; an open quote of the same kind closes unless the quote follows a
+    space or an opening bracket; anything else opens a quotation. Works
+    across tags ("<em>Simon</em>'s" closes), so it runs on whole paragraphs,
+    headings and notes rather than on text fragments; a block tag (p, li,
+    a heading ...) starts a new paragraph."""
+    out, prev, i, stack = [], " ", 0, []
     while i < len(markup):
         c = markup[i]
         if c == "<":
             j = markup.index(">", i)
-            out.append(markup[i:j + 1])
+            tag = markup[i:j + 1]
+            if BLOCK_TAG.match(tag):
+                prev, stack = " ", []
+            out.append(tag)
             i = j + 1
             continue
         if c == "&":
@@ -69,13 +77,35 @@ def curl(markup):
             i = j + 1
             continue
         if c in "'\"":
-            closing = prev.isalnum() or prev in CLOSERS
-            c = ("\u2019" if closing else "\u2018") if c == "'" else \
-                ("\u201d" if closing else "\u201c")
+            double = c == '"'
+            opened = stack[-1] if stack else None
+            if prev.isnumeric() and opened != double:
+                c = "\u2033" if double else "\u2032"
+            elif not double and opened is not False and prev.isalpha():
+                c = "\u2019"
+            elif opened == double and not prev.isspace() and prev not in "([{":
+                stack.pop()
+                c = "\u201d" if double else "\u2019"
+            else:
+                stack.append(double)
+                c = "\u201c" if double else "\u2018"
         out.append(c)
         prev = c
         i += 1
     return "".join(out)
+
+
+def finish(blocks):
+    """Rendered blocks with their quotes curled, each a paragraph or more."""
+    return [curl(b) for b in blocks]
+
+
+BLOCK_TAG = re.compile(r"<(p|li|h[1-6]|blockquote|div|aside|section|td|th)[\s>/]")
+
+
+# list/@rend (a Typst numbering pattern) as an HTML <ol type>
+OL_TYPE = {"1.": "1", "1)": "1", "I.": "I", "i.": "i", "i)": "i",
+           "A.": "A", "a.": "a", "a)": "a"}
 
 
 class HtmlR(R):
@@ -120,7 +150,9 @@ class HtmlR(R):
                 f'epub:type="noteref" role="doc-noteref"><sup>{n}</sup></a>')
 
     def text(self, el):
-        return curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(el)).strip()))
+        """Inline XHTML of el; quotes stay straight until the block it goes
+        into is finished (finish()), since a run-on block joins another."""
+        return NOTEREF_GAP.sub(r"\1", collapse(self.inline(el)).strip())
 
     def para(self, el, cls=None):
         t = self.text(el)
@@ -141,7 +173,7 @@ class HtmlR(R):
             body.text = item.text
             subs = []
             for c in item:
-                if local(c) == "list":
+                if local(c) in ("list", "p"):
                     subs.append(c)
                     if c.tail:
                         prev = body[-1] if len(body) else None
@@ -151,15 +183,32 @@ class HtmlR(R):
                             body.text = (body.text or "") + c.tail
                 else:
                     body.append(copy.deepcopy(c))
-            txt = curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip()))
+            txt = NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip())
+
+            def sub_html(s):            # a list or a paragraph inside the item
+                if local(s) == "list":
+                    return self.list_html(s, depth + 1)
+                t = self.text(s)
+                return [f"<p>{t}</p>"] if t else []
             if numbered and self.layer == "orig" and lst.get("subtype") != "printed":
                 # printed numerals stay in the text, as run-in paragraphs
                 if txt:
                     out.append(f"<p>{txt}</p>")
                 for s in subs:
-                    out += self.list_html(s, depth + 1)
+                    out += sub_html(s)
                 continue
-            inner = "".join("".join(self.list_html(s, depth + 1)) for s in subs)
+            pieces = []
+            for s in subs:
+                if self.layer == "reg" and local(s) == "p" and s.get("prev"):
+                    t = self.text(s)        # runs on from the text before it
+                    sp = "" if s.get("rend") == "run-on" else " "
+                    if pieces and pieces[-1].endswith("</p>"):
+                        pieces[-1] = pieces[-1][:-len("</p>")] + sp + t + "</p>"
+                    elif t:
+                        txt = (txt + sp + t).strip()
+                    continue
+                pieces += sub_html(s)
+            inner = "".join(pieces)
             if not txt and inner and items:
                 # a text-less item holding a sub-list: the TCP's way of hanging
                 # a branch of a genealogy under the item before it
@@ -170,7 +219,13 @@ class HtmlR(R):
             if numbered and self.layer == "orig":
                 numbered = False                 # printed list: numerals are text
             tag = "ol" if numbered else "ul"
-            cls = ' class="roman"' if numbered and self.enum == "I." else ""
+            cls = ' class="roman"' if numbered and self.enum == "I." and \
+                not lst.get("rend") else ""
+            if numbered and lst.get("rend"):       # the edition's own numbering
+                cls = f' type="{OL_TYPE.get(lst.get("rend"), "1")}"'
+            first = lst.find(T + "item")
+            if numbered and first is not None and first.get("n"):
+                cls += f' start="{first.get("n")}"'
             out.append(f"<{tag}{cls}>" + "".join(items) + f"</{tag}>")
         return out
 
@@ -180,10 +235,18 @@ class HtmlR(R):
         if not html_:
             return
         if self.layer == "reg" and c.get("prev") and out and \
+                re.search(r"</li></[ou]l>$", out[-1]):
+            # runs on into the last item of the list before
+            inner = re.sub(r"^(<blockquote>)?<p[^>]*>|</p>(</blockquote>)?$", "", html_)
+            k = out[-1].rindex("</li>")
+            sp = "" if c.get("rend") == "run-on" else " "
+            out[-1] = out[-1][:k] + sp + inner + out[-1][k:]
+        elif self.layer == "reg" and c.get("prev") and out and \
                 out[-1].endswith(("</p>", "</p></blockquote>")):
             inner = re.sub(r"^(<blockquote>)?<p[^>]*>|</p>(</blockquote>)?$", "", html_)
             end = "</p></blockquote>" if out[-1].endswith("</blockquote>") else "</p>"
-            out[-1] = out[-1][:-len(end)] + " " + inner + end
+            sp = "" if c.get("rend") == "run-on" else " "
+            out[-1] = out[-1][:-len(end)] + sp + inner + end
         else:
             out.append(html_)
 
@@ -234,8 +297,8 @@ class HtmlR(R):
         return out
 
     def text_of(self, els):
-        return curl(NOTEREF_GAP.sub(r"\1", collapse(
-            " ".join(self.inline(e) for e in els)).strip()))
+        return NOTEREF_GAP.sub(r"\1", collapse(
+            " ".join(self.inline(e) for e in els)).strip())
 
     levels = None             # layout mode: {div type: heading level}
     enum = "I."               # TYPST_ENUM: numbering of lists the review made
@@ -269,7 +332,8 @@ class HtmlR(R):
             if local(el) == "div":
                 out += self.div_html(el, self.levels.get(el.get("type"), 2))
             else:
-                out += self.blocks([el], 2)
+                self.blocks([el], 2, out)      # may run on from the block before
+        out = finish(out)
         heads = [re.sub(r"<[^>]+>", "", x) for x in out if re.match(r"<h[1-6]>", x)]
         self.title = title or (heads[0] if heads else ident)
         out += self.notes_section()
@@ -288,8 +352,12 @@ class HtmlR(R):
         out.append("</section>")
         return out
 
-    def blocks(self, div, level=2):
-        out = []
+    def blocks(self, div, level=2, out=None):
+        """HTML of a division's blocks: finished (quotes curled) when
+        returned, or added unfinished to `out` when given, for the caller to
+        finish once every block that may run on has joined."""
+        if out is None:
+            return finish(self.blocks(div, level, []))
         for c in div:
             if not isinstance(c.tag, str):
                 continue
@@ -312,6 +380,13 @@ class HtmlR(R):
             if n == "epigraph" and self.layer == "reg":
                 ref = self.text_of(c.findall(T + "bibl"))
                 body = self.text_of([q for q in c if local(q) in ("q", "p")])
+                if c.get("rend") == "quote":      # set as a quotation
+                    t = " ".join(x for x in (ref, body) if x)
+                    if t and self.quote_block:
+                        out.append(f"<blockquote><p>{t}</p></blockquote>")
+                    elif t:
+                        out.append(f'<p class="quote">\u201c{t}\u201d</p>')
+                    continue
                 out.append('<div class="epigraph">' +
                            (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
                            (f'<p class="epigraph-text">{body}</p>' if body else "") + "</div>")
@@ -319,7 +394,8 @@ class HtmlR(R):
             if n == "p" and layout.p_blocks(c):
                 out += self.split_p(c)
                 continue
-            if n == "p":
+            if n == "p" or \
+                    (n == "q" and c.get("rend") == "quote" and c.find(T + "p") is None):
                 t = self.text(c)
                 if t and self.layer == "reg" and c.get("rend") == "quote":
                     if self.quote_block:
@@ -352,6 +428,10 @@ class HtmlR(R):
                     out.append(f'<p class="verse">{t}</p>')
                 elif t:
                     out.append(f"<blockquote><p>{t}</p></blockquote>")
+            elif n == "closer" and layout.closer_lines(c, self.layer) is not None:
+                for x in layout.closer_lines(c, self.layer):
+                    for h in self.para(x):
+                        self.add_block(out, x, h)
             elif n == "closer":
                 signed = c.find(T + "signed")
                 if signed is None:
@@ -408,11 +488,11 @@ class HtmlR(R):
         readers that support it show a note as a pop-up and hide the aside,
         the rest show the notes after the chapter."""
         self.notes = []
-        head = self.heading(div)
+        head = finish(self.heading(div))
         self.title = re.sub(r"<[^>]+>", "", head[0]) if head else ident
         out = [f'<section id="{ident}">'] + head + self.blocks(div)
         for tr in following_trailers(div):
-            out += self.trailer(tr)
+            out += finish(self.trailer(tr))
         if self.notes:
             out.append('<section class="notes">')
             for n, body in self.notes:

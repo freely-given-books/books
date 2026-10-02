@@ -57,6 +57,15 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
   - `@prev`/`@next` blocks the edition runs together (both kept as printed);
     `p[@rend="quote"]` a paragraph the edition sets as a quotation;
     `trailer[@ana="#in-edition"]` a "FINIS." the edition keeps
+  - lists the review shapes (Sibbes): `list/@rend` a numbering of its own
+    (`"a)"`, `"I."`; the review's `#[ #set enum(numbering: ..., start: N) ... ]`),
+    `item/@n` on the first item the number it starts from, an item or a
+    paragraph the review indents under an item moved inside it, a paragraph
+    run on into a list's last item moved there (`@prev`);
+    `@rend="run-on"` a block run on with no space between;
+    `epigraph[@rend="quote"]` / `q[@rend="quote"]` set as `#quote[...]`
+  - a closer with a dateline or several signatories is set one line each,
+    signatories first (orig layer: as printed)
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML
@@ -317,7 +326,19 @@ and copied back into `chapters/typ`.
    into, and merges attach to the innermost paragraph.
 15. **Quotes are curled per paragraph in the ebook**, after rendering,
    because an italic name and a roman "'s" are separate fragments
-   (per-fragment curling gave "Simon‘s").
+   (per-fragment curling gave "Simon‘s"), and only once a run-on block has
+   joined (`finish()` in `tei_to_html.py`). The rule is Typst's own: it
+   remembers open quotes, so `sacrificed,' wisdom` opens and `beasts,'`
+   closes. The same rule makes a straight apostrophe inside a single
+   quotation (`'You are Christ's,'`) close it, so a book quoting with
+   single quotes types its apostrophes as `’` in `chapters/typ`.
+16. **A finished copy from a scanned Victorian edition** (Sibbes, from a
+   Grosart-type text) carries OCR misprints (he/be, b/h, "Gentles"). With a
+   second modern witness of the same early text (Monergism), list the places
+   where the copy departs from the early text *and* the witness agrees with
+   the early text (`source/witness-report.md`); those are the likely slips,
+   for the user to accept or reject. Folding the copy in keeps them until
+   then.
 
 ## Starting a new TCP book
 

@@ -3,7 +3,7 @@
 #quote[
 I will destroy in this mountain the face of the covering cast over all people,
 and the veil that is spread over all nations. He will swallow up death in
-victory,.—Isaiah 25:7, 8.
+victory.—Isaiah 25:7, 8.
 ]
 
 We have heretofore at large spoken of the spiritual and eternal favours
@@ -20,7 +20,7 @@ may refresh a man in the lowest condition, if he can but have a taste of it.
 
 Now because the spiritual things of Christ do us no good, as long as
 they are hid, therefore the Holy Ghost setteth down a promise, 'that God
-will take away tho covering cast on all people, and the veil spread over all
+will take away the covering cast on all people, and the veil spread over all
 nations.'
 
 But there be some things that will damp all mirth. Now here is security
@@ -65,7 +65,7 @@ there is this equity in him, he spares none.
 
 He hath continued from the beginning of the world to this time; but he
 is a tyrant brought in by ourselves, Romans 5:19. Sin let in death. It
-opened the door. Death is no creature of God's making. Satan brought in
+opened the door. Death is no creature of God’s making. Satan brought in
 sin, and sin brought in death. So that we be accessory ourselves to the
 powerful stroke of this prevailing tyrant. And therefore sin is called the cause
 of death. Sin brought in death, and armeth death. The weapon that death
@@ -90,7 +90,7 @@ follows hell.
 
 Now this death is swallowed up. When the Scripture puts a person upon
 death, it is not uncomely for us to speak as the Scripture doth. The Scripture
-puts a person upon death, and a kind of triumphing spirit in God's children
+puts a person upon death, and a kind of triumphing spirit in God’s children
 over death. 'O death, where is thy sting? O grave, where is thy victory?'
 1 Corinthians 15:55. Death is the greatest swallower, and yet it is swallowed up by
 Christ. Death hath swallowed up all, and when it hath swallowed up, it
@@ -104,7 +104,7 @@ But how cometh death to be swallowed up? Christ will swallow up death
 in victory, for himself and his.
 
 Reason. First of all, because sin brought in death, our Saviour Christ
-became sin, a sacrifice to his father's justice for sin. He was made sin for us,
+became sin, a sacrifice to his father’s justice for sin. He was made sin for us,
 he was made a curse for us, to take away the curse due to us; and sin being
 taken away, what hath death to do with us, and hell, and damnation, the
 attendants on death? Nothing at all. Therefore, Colossians 2:10, upon the cross
@@ -142,7 +142,7 @@ is a conqueror of death, though he die, because he sees it conquered in Christ
 his head; and as it is truly conquered in him, so Christ will conquer it in all
 his members. For as Christ in his natural body is gone to heaven, there to
 appear in our behalf, so shall mystical Christ be wholly in glory. He will not
-leave a finger. We shall all triumph over all our spiritual enemies. As Christ's
+leave a finger. We shall all triumph over all our spiritual enemies. As Christ’s
 natural body is glorious in heaven as our head, so shall also his mystical body
 be.
 
@@ -165,7 +165,7 @@ have had a great morsel when he devoured Christ, but there was an hook in
 his divine power that catched him, that when he thought to have swallowed
 up Christ, was swallowed up himself. His head was then broken. He never
 had such a blow, as by Christ on the cross, when he was overcome, being a
-scorn of the world visibly, yet invisibly in God's acceptation of that sacrifice,
+scorn of the world visibly, yet invisibly in God’s acceptation of that sacrifice,
 and in a spirit of faith. Christ triumpheth over Satan. Death was subdued
 even in his own kingdom, and that makes the victory great.
 
@@ -218,7 +218,7 @@ Use 2. Again, if death be swallowed up in victory, labour to be one with
 Christ crucified, for union with him. Begin with union with Christ crucified.
 The first union is with Christ abased, and then with Christ glorified. And
 therefore labour to see sin, that brought in death, subdued by the power of
-Christ's death in some measure, and then we shall have comfort in his death
+Christ’s death in some measure, and then we shall have comfort in his death
 glorified. For in my 'holy mount' death is swallowed up, that is, the true
 church of Christ. Labour to be members of Christ, otherwise death will come
 as a tyrant indeed, armed with a terrible sting, in his full force to assail you. It
@@ -227,7 +227,7 @@ of God, and attended with hell and damnation. Labour, therefore, to be one
 with Christ crucified, to get our sins crucified, and ourselves partakers of his
 death; and then no damnation, no fear of death to them that are in Christ.
 They may die, but they are freed from eternal death, and they shall rise again,
-even as Christ's body rose, to glory.
+even as Christ’s body rose, to glory.
 
 Get, therefore, into Christ, and desire the power of his death subduing
 sin. In what measure we grow in that, we grow in boldness and joy, and
@@ -241,7 +241,7 @@ terrible and fearful things in the world as conquered enemies, say, Oh,
 blessed be God for Christ, and blessed be Christ for dying for us, and by
 death disarming death of his sting! That now we can think of it in our
 judgments quietly; now we can think of all these as conquered enemies: this
-is the fruit of Christ's death. They are not only enemies, but friends in Christ.
+is the fruit of Christ’s death. They are not only enemies, but friends in Christ.
 Sin, the remainder of it—(the guilt of it, that bindeth over to damnation, is
 taken away)—the remainders of it serve to humble us, make us feel the
 power of pardon, and to desire another world, where we shall be all spiritual.
@@ -275,10 +275,10 @@ encounter with sin and the wrath of God, and death in all its strength. But
 we are not so. We are to deal with death like the brazen serpent, that hath the
 shape of death, but no sting at all. It has become a drone ever since it lost its
 sting in Christ. Life took death, that death might take life, as he said. The
-meaning is, Christ's life itself took death, that we that were so subject to
+meaning is, Christ’s life itself took death, that we that were so subject to
 death, that we were death itself, might take life. Oh blessed consideration!
 Nothing comparable to the consideration of the death of Christ! It is the
-death of death.
+death of deaths.
 
 And then again we are sure of victory. It is conquered in our head, and
 shall be in us. But you say we are to conflict with the pangs of death, and
@@ -290,24 +290,24 @@ our dust, and must give them all again.
 
 Obj. But in the mean time we die.
 
-Ans.'Tis so, but we are sure of victory. He will protect us in our combat,
+Ans. ’Tis so, but we are sure of victory. He will protect us in our combat,
 that hath conquered for us. We fight against death and the terror of it, in the
 strength and faith of his victory. Join these three together.
 
 He that hath been our Saviour in life, will be so to death, and not
 exclusively, then to leave us, but to death, and in death, for ever; yea, most
 ready to help us in our last conflict. Indeed, to wicked men death is terrible,
-for he sendeth the devil to fetch them out of the world; but for those that be
+for he sendeth the devil to fetch them out of the world; but for these that be
 his, he sendeth his angels to fetch them, and he helps them in their combat.
 We must not therefore fear over much. There is a natural fear of death.
 Death wrought upon Christ himself, God-man; not only death, but such a
-death. He was to be left of his Father, and he under the sense of the wrath of
+death. He was to be left of his Father, and lie under the sense of the wrath of
 God; the separation of that soul from the body he took upon him was
 terrible; and therefore he saith, 'If it be possible, let this cup pass from me
 that was nature, and without it he had not been true man. But that I say is,
 that grace may be above nature. Death is a time of darkness. It strips us of
 earthly comforts, friends, callings, employments but then comes the eye of
-faith to lay hold of the victory on Christ in time to come, when death shall be
+faith to lay hold on the victory of Christ in time to come, when death shall be
 only swallowed up in victory; and then the glorious state to come, to which
 death bringeth us. So that here faith must be above sense, and grace above
 nature, and therefore I beseech you, let us labour for it.
@@ -331,11 +331,11 @@ not the most terrible judgment under heaven to die in our sins? A man that
 dies in sin dies in hell: he goeth from death to hell, and that eternal.
 
 I wonder, therefore, that the wisdom of flesh and blood should take
-away men's wit, and faith, and grace, and all, so much as to slight death, and
+away men’s wit, and faith, and grace, and all, so much as to slight death, and
 repentance, as if it were so easy. Now, beloved, death is a terrible thing. It
 hath a sting, and thou shalt know it. If thou hast not grace to feel the sting of
 it whilst thou livest, when thou diest the sting will revive; then thy conscience
-shall awake in hell. Drunkenness and jollity take away sense of sin; but sin
+shall awake in hell. Drunkenness and jollity takes away sense of sin; but sin
 will revive, and conscience will revive. God hath not put it into us for
 nought. Death is terrible, if not disarmed beforehand. And if thou go about
 to die without disarming it before, it will not be outfaced. It is not an enemy
@@ -355,12 +355,12 @@ rather, because the Holy Ghost meaneth more than a bare victory over death.
 Death is not only subdued, but is made a friend to us, as Psalm 110:1, it is said
 'his enemies shall be his footstool.' Now a footstool is not only trampled
 upon, but an help to rise. And so death is not only subdued, but it advanceth
-God's children, and raiseth them higher. It is not only an enemy, but a
+God’s children, and raiseth them higher. It is not only an enemy, but a
 reconciled friend; for he doth that which no friend in the world can do. It
 ends all our misery, and is the inlet into all happiness for eternity. And
 whatsoever it strips us of here, it giveth us advantage of better in another
 world. It cuts off our pleasures, and profits, and company, and callings here;
-but what is that to our blessed change afterward, to our praying of God for
+but what is that to our blessed change afterward, to our praising of God for
 ever, to the company of blessed souls, and the profits, and pleasures at the
 right hand of God for evermore? And therefore it is not only conquered, but
 to show the excellency of his power, he hath made it a friend of an enemy,
@@ -370,8 +370,8 @@ the separation, if the conjunction makes us partake of our desire. 'I desire to
 be dissolved,' saith St Paul, Philip 1:23, but that is not well translated. 'I
 desire to depart, and to be with Christ, which is best of all.' So that it is not
 only not an enemy, but a friend. And therefore the apostle makes it our
-jointure, part of our portion, all things are yours. Why? 'You are Christ's, and
-Christ is God's,' 1 Corinthians 3:22. What are ours? 'Things present, things to
+jointure, part of our portion, all things are yours. Why? 'You are Christ’s, and
+Christ is God’s,' 1 Corinthians 3:22. What are ours? 'Things present, things to
 come, life, death,' 1 Corinthians 3:22, 23. And well may death be ours, because sin
 is our enemy; that remainder, that is kept in our nature to exercise us, and
 humble us, and fit us for grace. As Austin saith, I dare be bold to say, it is
@@ -384,7 +384,7 @@ the humbling of their bodies, they be taught not to blaspheme; so that not
 only death, but sin, and he that brought sin into the world, the devil, are
 become our friends.
 
-This being so, it may be for special comfort that we fear not the king of
+This being so, it may be for special comfort that we do not fear the king of
 fears. The devil hath great advantage by this affection of fear, when it is set
 upon this object death. Overcome death, and all troubles are overcome. Who
 will fear anything that hath given up himself to God? 'Skin for skin, and all
@@ -401,10 +401,10 @@ whatsoever, because death itself is swallowed up in victory.
 
 The worst the world can do is to take away this nature of ours. When
 they have done that, they have done all they can; and when they have done
-that, they have done a pleasure. That is not to be feared, saith Tertulhan, that
+that, they have done a pleasure. That is not to be feared, saith Tertullian, that
 frees us from all that is to be feared. What is to be feared in the world? Every
 sickness, every disgrace? Why, death frees us from all. We do see every day
-takes away a piece of one's life, and when death cometh it overthroweth
+takes away a piece of one’s life, and when death cometh it overthroweth
 itself; for the soul goeth presently to the place of happiness. The body
 sleepeth a while, and death hath no more power.
 
@@ -430,7 +430,7 @@ have much comfort in them.
 
 Let us labour then to be comfortable: this use the apostle makes of it;
 and fruitful in our places, upon consideration of the victory we have by
-Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ's victory,
+Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ’s victory,
 as the cause of our victory, because he is the first fruit that sanctifieth all the
 rest. 'Finally, my brethren, be constant, immoveable, always abounding in the
 works of the Lord, knowing that your labour is not in vain in the Lord.' He
@@ -467,9 +467,9 @@ and die in Christ, and then 'there is no condemnation to them that are in
 Christ.'
 
 How besotted are we to put away preparation of death till it comes! He
-that forgets Christ and getting into Christ, all his lifetime, it is God's just
+that forgets Christ and getting into Christ, all his lifetime, it is God’s just
 judgment that he should forget himself in death. We see how a villain that
-hath no care of his own life, may have power of another man's life.
+hath no care of his own life, may have power of another man’s life.
 
 And therefore labour to be engrafted into Christ by faith; and that we
 may know it by the Spirit of Christ prevailing in us over our natural
@@ -488,7 +488,7 @@ Some hope to be saved by Christ, and yet they set up sin a throne in the soul.
 Sin biddeth them defile themselves, and they must obey it. This is a woeful
 estate! How can they expect to die in the Lord, but such as are freed by the
 law of the spirit of life? New lords, new laws. When kings conquer, they
-bring fundamental laws; and when we are taken from Satan's kingdom into
+bring fundamental laws; and when we are taken from Satan’s kingdom into
 the kingdom of Christ, the fundamental laws are then altered. Christ by his
 Spirit sets up a law of believing, and praying, and doing good, and abstaining
 from evil. The law of the spirit of life frees us from the law of sin and death.

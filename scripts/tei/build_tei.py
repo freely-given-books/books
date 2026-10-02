@@ -806,6 +806,20 @@ def stream(toks, skip_heads=True):
                     out.append(("¶" if run_in else "H", "m", t, path))
                     walk(t.children, path + (t,))
                     continue
+                if n == "closer" and layout.closer_lines(t.el) is not None:
+                    # signatories one to a line, then place and date
+                    toks_of = {}
+
+                    def index(ts_):
+                        for c in ts_:
+                            if c.kind == "container":
+                                toks_of[c.el] = c
+                                index(c.children)
+                    index(t.children)
+                    for el in layout.closer_lines(t.el):
+                        out.append(("¶", "m", toks_of[el], path))
+                        walk(toks_of[el].children, path + (t, toks_of[el]))
+                    continue
                 if HEAD_MODE["on"] and n == "epigraph":
                     out.append(("¶", "m", t, path))
                 # an item that only wraps a nested list continues the
@@ -889,6 +903,26 @@ class UF:
         self.p[self.find(a)] = self.find(b)
 
 
+def split_marks(ops, src, tgt):
+    """A changed stretch with block marks on both sides, more on one side
+    (a paragraph the review deletes, then a printed "2." it makes an item):
+    the surplus marks and what comes before them are a stretch of their
+    own, so the rest pairs mark with mark."""
+    out = []
+    for op, i1, i2, j1, j2 in ops:
+        sm_ = [k for k in range(i1, i2) if src[k][1] == "m"]
+        rm_ = [k for k in range(j1, j2) if tgt[k][1] == "m"]
+        if op == "equal" or not sm_ or not rm_ or len(sm_) == len(rm_):
+            out.append((op, i1, i2, j1, j2))
+            continue
+        if len(sm_) > len(rm_):
+            si, ri = sm_[len(sm_) - len(rm_)], rm_[0]
+        else:
+            si, ri = sm_[0], rm_[len(rm_) - len(sm_)]
+        out += [("replace", i1, si, j1, ri), ("replace", si, i2, ri, j2)]
+    return out
+
+
 def align(src, tgt, report, label, owner=None):
     """src: stream entries; tgt: [(text, kind)]. Returns (clusters,
     structure_ops). Each cluster: (list of Tok in order, target text list,
@@ -916,7 +950,7 @@ def align(src, tgt, report, label, owner=None):
             for j in idxs:
                 owner[j] = tok
 
-    for op, i1, i2, j1, j2 in sm.get_opcodes():
+    for op, i1, i2, j1, j2 in split_marks(sm.get_opcodes(), src, tgt):
         S = src[i1:i2]
         R = tgt[j1:j2]
         Sw = [s for s in S if s[1] == "w"]
@@ -1022,8 +1056,12 @@ def align(src, tgt, report, label, owner=None):
             for s in Sw[1:]:
                 add_tgt(s[2], [], [])
         elif Rw:
-            # pure insertion: attach to the previous source word token
+            # pure insertion: attach to the previous source word token, or,
+            # right after a block opens on both sides ("¶ Obs. 2. Again"),
+            # to the block's first word, so it opens that block
             prev = next((s for s in reversed(src[:i1]) if s[1] == "w"), None)
+            if i1 and src[i1 - 1][1] == "m" and j1 and tgt[j1 - 1][1] == "m":
+                prev = next((s for s in src[i2:] if s[1] == "w"), None) or prev
             if prev is None:
                 prev = next((s for s in src[i2:] if s[1] == "w"), None)
             if prev is not None:
@@ -1284,6 +1322,28 @@ def apply_clusters(clusters, log, unresolved, label, placed=None, flag_of=None,
         log.append((label, "emendation", " ".join(t.reg or t.orig for t in ts), g.reg))
 
 
+def space_between(a, b, limit=60):
+    """Whether a space token stands between word tokens a and b (b after a in
+    document order), looking at most `limit` tokens ahead."""
+    t = a
+    for _ in range(limit):
+        while t.parent is not None and t.idx is not None and \
+                t.idx == len(t.parent.children) - 1:
+            t = t.parent
+        if t.parent is None or t.idx is None:
+            return False
+        t = t.parent.children[t.idx + 1]
+        while t.kind in ("container", "group") and t.children:
+            if contains(t, b) and t.kind == "group":
+                return False
+            t = t.children[0]
+        if t is b:
+            return False
+        if t.kind == "space":
+            return True
+    return False
+
+
 def distribute(ts, new, log, label, idxs=None, mark=None, tgt=None):
     """Cut the reviewed text into one piece per source token, by aligning
     characters, and apply each piece to its token."""
@@ -1308,6 +1368,35 @@ def distribute(ts, new, log, label, idxs=None, mark=None, tgt=None):
     bounds[-1] = len(tgt_ns)
     # map no-space offsets back into tgt (with spaces)
     ns_to_full = [ci for ci, ch in enumerate(tgt) if ch != " "] + [len(tgt)]
+    # a cut just after a word's leading punctuation ("'I", "(of") moves to
+    # before it: the mark opens the next token's word, and the space printed
+    # between the two tokens stays in front of it
+    for k in range(len(bounds) - 1):
+        b = bounds[k]
+        w = ns_to_full[b] if b < len(ns_to_full) else len(tgt)
+        a = w
+        while a > 0 and tgt[a - 1] != " " and not tgt[a - 1].isalnum():
+            a -= 1
+        if a < w and (a == 0 or tgt[a - 1] == " ") and w < len(tgt) and tgt[w].isalnum():
+            bounds[k] = max(ns_to_full.index(a), bounds[k - 1] if k else 0)
+    # a cut inside a word, between tokens printed with a space between them,
+    # moves to the nearer end of that word (else the space splits the word:
+    # "Revela t ion")
+    for k in range(len(bounds) - 1):
+        w = ns_to_full[bounds[k]] if bounds[k] < len(ns_to_full) else len(tgt)
+        if not (0 < w < len(tgt) and tgt[w - 1] != " " and tgt[w] != " ") or \
+                not space_between(ts[k], ts[k + 1]):
+            continue
+        a, z = w, w
+        while a > 0 and tgt[a - 1] != " ":
+            a -= 1
+        while z < len(tgt) and tgt[z] != " ":
+            z += 1
+        to = a if w - a <= z - w else z
+        b = len(tgt[:to].replace(" ", ""))       # as an offset without spaces
+        bounds[k] = max(b, bounds[k - 1] if k else 0)
+    for k in range(1, len(bounds)):
+        bounds[k] = max(bounds[k], bounds[k - 1])
     start = 0
     pieces = []
     for b in bounds:
@@ -1676,6 +1765,15 @@ def review_division(d, review, f, log, unresolved):
 
     apply_clusters(cl, log, unresolved, f, placed, lambda j: review.body[j][2],
                    lambda j: review.body_sp[j])
+    # list items and the blocks set inside them (reviewparse list_info),
+    # placed after restructure() has made the review's lists
+    for j, info in sorted(getattr(review, "list_info", {}).items()):
+        jw = next((x for x in range(j + 1, len(tgt)) if tgt[x][1] == "w"), None)
+        tok = owner.get(jw) if jw is not None else None
+        if tok is not None:
+            LIST_SHAPE.append((tok, info, f))
+        elif info["depth"] or info.get("numbering") or info.get("start"):
+            unresolved.append((f, "list shape", tgt[jw][0] if jw is not None else "(end)"))
     # words the review left alone but put a note after
     in_cluster = {j for _ts, _n, idxs in cl for j in idxs}
     for k, els in placed.items():
@@ -1701,7 +1799,19 @@ def review_division(d, review, f, log, unresolved):
     for note_tok, nt, nowner in note_spacing:
         apply_spacing(note_tok, [(jj, 0) for jj in range(len(nt["toks"]))], nt["sp"],
                       log, f + " note", skip_notes=False, owner=nowner)
+    # a block the review runs on without a space ("Psalm 37:" + "6. And ...")
+    first_j = {}
+    for j, tok in sorted(owner.items()):
+        first_j.setdefault(id(tok), j)
+    for x in st:
+        if x["at"] is not None and x["src_marks"] and not x["tgt_marks"]:
+            j = first_j.get(id(x["at"][2]))
+            if j is not None and not review.body_sp[j]:
+                NO_SPACE_RUN_ON.add(id(x["at"][2]))
     return st, body
+
+
+NO_SPACE_RUN_ON = set()     # id(tok): a merge at tok joins without a space
 
 
 # ---------------------------------------------------------------------------
@@ -1943,6 +2053,108 @@ def merge_lists(log):
             relink(par)
 
 
+LIST_SHAPE = []         # (tok, list_info entry, file), in reading order
+ROOT = {"toks": []}
+
+
+def path_to(ts, tok, trail=()):
+    """The containers (and groups) from the top down to tok, or None."""
+    for c in ts:
+        if c is tok:
+            return list(trail)
+        if c.kind in ("container", "group") and c.children:
+            r = path_to(c.children, tok, trail + (c,))
+            if r is not None:
+                return r
+    return None
+
+
+def detach(blk, parent):
+    k = next(i for i, c in enumerate(parent.children) if c is blk)
+    j = k - 1 if k and parent.children[k - 1].kind in ("space", "noise") else k
+    del parent.children[j:k + 1]
+    relink(parent)
+
+
+def append_block(parent, blk):
+    parent.children += [Tok("space", ["\n"]), blk]
+    relink(parent)
+
+
+def apply_list_shape(log):
+    """The review's list layout: an item it indents under another goes into
+    a list inside that item, a paragraph it indents under an item goes
+    into the item, and a list it numbers in its own way (#[ #set enum(
+    numbering: "a)", start: 2) ... ]) gets list/@rend (the numbering) and
+    item/@n on its first item (the start). Printed text is not moved
+    across other text: only the nesting changes."""
+    last, cur = {}, None             # depth -> the latest item at that depth
+    for tok, info, f in LIST_SHAPE:
+        if f != cur:
+            last, cur = {}, f
+        path = path_to(ROOT["toks"], tok)
+        conts = [c for c in path or [] if c.kind == "container"]
+        d = info["depth"]
+        if info["kind"] == "+":
+            k = next((i for i in range(len(conts) - 1, 0, -1)
+                      if local(conts[i].el) == "item"), None)
+            if k is None:
+                if d or info.get("numbering") or info.get("start"):
+                    log.append((f, "skipped", f"list item at '{tok.orig}'", "not an item"))
+                continue
+            item, lst = conts[k], conts[k - 1]
+            parent = last.get(d - 1) if d else None
+            if parent is not None and parent not in path:
+                blocks = [c for c in parent.children if c.kind == "container"]
+                sub = blocks[-1] if blocks and local(blocks[-1].el) == "list" else None
+                if sub is None:
+                    sub = new_container("list", like=lst.el)
+                    sub.el.attrib.pop("rend", None)
+                    sub.el.set("change", "#review")
+                    append_block(parent, sub)
+                detach(item, lst)
+                if not any(c.kind == "container" and local(c.el) == "item"
+                           for c in lst.children):
+                    detach(lst, conts[k - 2])
+                sub.children += ([Tok("space", ["\n"])] if sub.children else []) + [item]
+                relink(sub)
+                lst = sub
+                log.append((f, "list", f"item at '{tok.orig}'", "set inside the item before"))
+            num = info.get("numbering")
+            if num and lst.el.get("rend") != num:
+                lst.el.set("rend", num)
+                lst.el.set("change", "#review")
+                log.append((f, "list", f"numbering at '{tok.orig}'", num))
+            if info.get("start"):
+                first = next(c for c in lst.children
+                             if c.kind == "container" and local(c.el) == "item")
+                if first is item:
+                    item.el.set("n", str(info["start"]))
+                    log.append((f, "list", f"numbering at '{tok.orig}'",
+                                f"starts at {info['start']}"))
+                else:
+                    log.append((f, "skipped", f"list start at '{tok.orig}'",
+                                "not the first item of its list"))
+            last[d] = item
+            for x in [x for x in last if x > d]:
+                del last[x]
+        else:
+            parent = last.get(d - 1)
+            k = next((i for i in range(len(conts) - 1, 0, -1)
+                      if local(conts[i].el) in ("p", "q")), None)
+            if parent is None or k is None:
+                log.append((f, "skipped", f"paragraph at '{tok.orig}'",
+                            "set inside a list item, but no item before it"))
+                continue
+            if parent in path:
+                continue
+            blk = conts[k]
+            detach(blk, conts[k - 1])
+            append_block(parent, blk)
+            log.append((f, "list", f"paragraph at '{tok.orig}'", "set inside the item before"))
+    merge_lists(log)            # the lists a paragraph stood between
+
+
 def leading(ct, tok):
     """The tokens of ct before tok, at every level down to it."""
     out = []
@@ -2110,9 +2322,13 @@ def restructure(splits, log):
             if _l:
                 wrap_label(_l)
             continue
-        # the innermost paragraph (a <q> may itself hold paragraphs)
+        # the innermost paragraph (a <q> may itself hold paragraphs); a
+        # scripture epigraph the review sets as a quotation is one block
         b = next((a for a in ancestors(tok) if local(a.el) == "p"), None) or block_of(tok)
-        if b is None or local(b.el) not in ("p", "q"):
+        ep = next((a for a in ancestors(tok) if local(a.el) == "epigraph"), None)
+        if kind == "quote" and ep is not None:
+            b = ep
+        if b is None or local(b.el) not in ("p", "q", "epigraph"):
             log.append((f, "skipped", f"{kind} at '{tok.orig}'", "not a paragraph"))
             continue
         if kind == "quote":
@@ -2125,9 +2341,20 @@ def restructure(splits, log):
         kids = b.parent.children
         k = kids.index(b)
         prev = next((c for c in reversed(kids[:k]) if c.kind == "container"), None)
-        if prev is None or local(prev.el) not in ("p", "q"):
+        into_item = False
+        if prev is not None and local(prev.el) == "list":
+            # runs on into the list's last item: it moves into that item,
+            # after the item's own text (and before anything set in it later)
+            items = [c for c in prev.children if c.kind == "container" and
+                     local(c.el) == "item"]
+            if items:
+                prev, into_item = items[-1], True
+        if prev is None or local(prev.el) not in ("p", "q", "item"):
             log.append((f, "skipped", f"merge at '{tok.orig}'", "no paragraph before it"))
             continue
+        if into_item:
+            detach(b, b.parent)
+            append_block(prev, b)
         for x in (prev, b):
             if not x.el.get("{%s}id" % XML_NS):
                 NOTE_SEQ["b"] = NOTE_SEQ.get("b", 0) + 1
@@ -2135,7 +2362,10 @@ def restructure(splits, log):
         prev.el.set("next", "#" + b.el.get("{%s}id" % XML_NS))
         b.el.set("prev", "#" + prev.el.get("{%s}id" % XML_NS))
         b.el.set("change", "#review")
+        if id(tok) in NO_SPACE_RUN_ON:
+            b.el.set("rend", "run-on")
         log.append((f, "merge", "paragraph", f"joined to the previous one at '{tok.orig}'"))
+    merge_lists(log)            # lists that a run-on paragraph kept apart
 
 
 def collect_splits(struct, stream_index, log):
@@ -2149,7 +2379,8 @@ def collect_splits(struct, stream_index, log):
         order = stream_index.get(id(tok), 0)
         if s["tgt_marks"] == ["+"] and not s["src_marks"]:
             labels = []
-            if len(Sw) >= 2 and ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == ".":
+            if len(Sw) >= 2 and (ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == "." or
+                                 NUMERAL_RE.fullmatch(Sw[0][0]) and Sw[1][0] in ".)"):
                 labels = [Sw[0][2], Sw[1][2]]
             splits.append((labels[0] if labels else tok, "+", labels, order, s["label"]))
         elif s["tgt_marks"] == ["+"] and s["src_marks"] in (["¶"], ["-"]):
@@ -2266,6 +2497,13 @@ def add_header(root, editor_name):
          "paragraph; they stay separate elements as printed."),
         (".//t:p[@rend='quote']", "p[@rend='quote']: a paragraph this edition sets as a "
          "quotation."),
+        (".//t:*[@rend='run-on']", "@rend='run-on': a block this edition runs on "
+         "from the one before without a space between them."),
+        (".//t:list[@rend]", "list/@rend: the numbering this edition gives a list "
+         "(a Typst numbering pattern, e.g. 'a)'); item/@n on its first item: the "
+         "number it starts from."),
+        (".//t:epigraph[@rend='quote']", "epigraph[@rend='quote']: a scripture "
+         "epigraph this edition sets as a quotation in the text."),
         (".//t:head[@type='short']", "head[@type='short']: the short form of this "
          "edition's title, used in running heads."),
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),
@@ -2437,6 +2675,8 @@ def main():
             order += len(s)
             all_splits += collect_splits(st, index, log)
         restructure(all_splits, log)
+        ROOT["toks"] = toks
+        apply_list_shape(log)
 
     rebuild(text, toks)
     for d in divs:
@@ -2502,6 +2742,8 @@ def build_layout(args, tree, root, text, toks, files):
             order += len(s)
             all_splits += collect_splits(st, index_, log)
         restructure(all_splits, log)
+        ROOT["toks"] = toks
+        apply_list_shape(log)
     rebuild(text, toks)
     add_header(root, args.editor)
     tree.write(args.out, xml_declaration=True, encoding="UTF-8")

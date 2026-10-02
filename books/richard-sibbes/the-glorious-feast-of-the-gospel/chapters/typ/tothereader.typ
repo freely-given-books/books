@@ -1,7 +1,7 @@
 == To The Reader
 
 So much of late hath been written about the times, that spiritual discourses
-are now almost out of season. Men's minds are so hurried up and down,
+are now almost out of season. Men’s minds are so hurried up and down,
 that it is to be feared they are much discomposed to think seriously as
 they ought, of their eternal concernments. Alas! Christians have lost
 much of their communion with Christ and his saints — the heaven upon earth —
@@ -18,37 +18,59 @@ precious memory, are published. Wherein thou art presented.
   Son of God, is the bridegroom, where every believer that hath 'put on' the
   Lord Jesus, Romans 13:14, 'the wedding garment,' Mat 22:11, is not
   only the guest, but the spouse of Christ, and the bride at this wedding supper.
-  Here Jesus Christ is the master of the feast , and the cheer and provision too.
+  Here Jesus Christ is the master of the feast, and the cheer and provision too.
   He is the 'Lamb of God,' John 1:29, the 'ram caught in the
   thicket,' Genesis 22:13. He is the 'fatted calf,' Luke 15:23. When he
-  was sacrificed,' wisdom killed her beasts,' Proverbs 9:2. At his death,' the
-  oxen and fatlings were killed,' Mat 22:4.' Αληθῶς βρῶσις και αληθῶς πόσις.
-  His' flesh is meat indeed, and his blood is drink indeed,' John 6:55.
+  was sacrificed, 'wisdom killed her beasts,' Proverbs 9:2. At his death, 'the
+  oxen and fatlings were killed,' Mat 22:4. Ἀληθῶς βρῶσις καὶ ἀληθῶς πόσις.
+  His 'flesh is meat indeed, and his blood is drink indeed,' John 6:55.
   And that thou mayest be fully delighted at this feast, Christ is the 'rose of
   Sharon,' the 'lily of the valley,' Song of Songs 2:1. He is a 'bundle of myrrh,'
-  Song of Songs 1:13, a 'cluster of camphir ,' Song of Songs 1:14; his name is 'an ointment
+  Song of Songs 1:13, a 'cluster of camphire,' Song of Songs 1:14; his name is 'an ointment
   poured out,' Song of Songs 1:3, and 'his love is better than wine,' Song of Songs 1:2. In
   Christ are 'all things ready,' Mat 22:4  for 'Christ is all in all,' Colossians 3:11.
   And great is the feast that Christ makes for believers, for it is the marriage
   feast which the great King 'makes for his Son,' Mat 22:2; the great
   design and aim of the gospel being to exalt the Lord Jesus Christ, and give
-  'him a name above every name, ' Philip, ii. 10. Great is the company
+  'him a name above every name,' Philippians 2:9. Great is the company
   that are bid, Luke 14:16, Jews and Gentiles. God keeps open house, 'Ho,
   every one that thirsteth, come,' Isaiah 55:1, and 'whosoever will, let him
   come  and freely take of the water of life,' Revelation 22:17. Great is the cheer
-  that is provided. Every guest here hath Asher's portion, 'royal dainties
-  and bread of fatness, ' Genesis 49:20 . Here is all excellent best wine, 'wine
+  that is provided. Every guest here hath Asher’s portion, 'royal dainties
+  and bread of fatness,' Genesis 49:20. Here is all excellent best wine, 'wine
   upon the lees well refined,' Isaiah 25:6. Here is 'fat things,' yea, 'fat
-  things full of marrow, ' Revelation 2:17, the 'water of life,' Revelation 22:17, and
+  things full of marrow.' Here is the 'hidden manna,' Revelation 2:17, the 'water of life,' Revelation 22:17, and
   the fruit of 'the tree of life which is in the midst of the paradise of God,'
   Genesis 2:9. All that is at this feast is of the best, yea, the best of the best.
+  Here is variety and plenty too; here is 'bread enough and to spare,' Luke 15:17.
+  Caligula and Heliogabalus their feasts, who ransacked the earth, air, and sea to
+  furnish their tables, were nothing to this. And above all, here is welcome for
+  every hungry thirsty soul; he that bids thee come, will bid thee welcome; 'he
+  will not say, Eat, when his heart is not with thee,' Proverbs 23:7. The
+  invitation is free, the preparation great, and the entertainment at this feast,
+  suiting the magnificence of the great King, is full and bountiful. All which is
+  at large treated of in these excellent sermons, which are therefore deservedly
+  entitled, The Marriage Feast between Christ and his Church. We read of a
+  philosopher, that having prepared an excellent treatise of happiness, and
+  presenting it unto a great king, the king answered him, 'Keep your book to
+  yourself; I am not now at leisure.' Here is an excellent treasure put into thy
+  hand; do not answer us, 'I am not now at leisure.' Oh, do not let Christ stand
+  'knocking at thy heart, who will come and sup with thee,' Revelation 3:20, and
+  bring his cheer with him. Oh, let not a 'deceived heart turn thee' any longer
+  'aside to feed upon ashes,' Isaiah 44:20; feed no longer with 'swine upon
+  husks,' Luke 15:16, while thou mayest be filled and satisfied with 'bread in
+  thy Father’s house,' Luke 15:17.
+
+  But this is not all; if thou wilt be pleased to peruse this book, thou wilt
+  find there are many other useful, seasonable, and excellent subjects handled
+  besides the marriage feast.
 
 + Jesus Christ hath not only provided a feast, but because he is desirous
   that all those for whom it is provided should come to it (which only they
   do that believe), he takes away the veil of ignorance and unbelief from off
   their hearts; and here you shall find this skilful preacher hath excellently
   discoursed what this veil is, how it naturally lies upon all, and is only
-  removed hy the Spirit of Christ. And if the Lord hath 'destroyed this
+  removed by the Spirit of Christ. And if the Lord hath 'destroyed this
   covering from off thy heart,' we doubt not, but the truth of this heavenly
   doctrine will shine comfortably into thy soul.
 
@@ -63,11 +85,11 @@ precious memory, are published. Wherein thou art presented.
   triumph over the king of fears, who was slain by the death of Christ, and
   we thereby delivered from the bondage of the fear of death, Hebrews 2:14, 15.
 
-  At other feasts they were wont of old to have a death's head served in
+  At other feasts they were wont of old to have a death’s head served in
   amongst other dishes, to mind them in the midst of all their mirth of their
   mortality (which practice of the heathens condemns the ranting jollity of
-  some loose professors in these times). Καπῆλθεν εἰς θάνατον ἀθάνἀτος, καὶ τῶ θανάτῳ καθειλε θάνατον.
-  But here, Christ serves in death's head, as David 'the head of Goliah,'
+  some loose professors in these times). Κατῆλθεν εἰς θάνατον ἀθάνατος, καὶ τῷ θανάτῳ καθεῖλε θάνατον.
+  But here, Christ serves in death’s head, as David 'the head of Goliah,'
   1 Samuel 31:9, the head of a slain and conquered death.
   Our Sampson by his own death 'hath destroyed death, and hath
   thereby ransomed us from the hand of the grave, and hath redeemed us
@@ -76,11 +98,11 @@ precious memory, are published. Wherein thou art presented.
   handled in these following sermons for thy comfort and joy, that thou
   mayest triumph in his love, through whom thou art more than conqueror.
 
-+ Because 'it is a merry heart that makes a continual feast, ' Proverbs 15:15,
++ Because 'it is a merry heart that makes a continual feast,' Proverbs 15:15,
   and that this feast might be a gaudy - day indeed unto thy soul,
   Christ doth here promise, 'to wipe away all tears from off the faces of his
   people,' Isaiah 25:8. The gospel hath comforts enough to make glad the
-  hearts of the saints and people of God. The 'light of God's countenance'
+  hearts of the saints and people of God. The 'light of God’s countenance'
   will refresh them with 'joy unspeakable and glorious,' 1 Peter 1:8, in the
   midst 'of the valley of the shadow of death,' Psalm 23:4. A truly godly
   person can weep for his sins, though the world smile never so much upon
@@ -105,14 +127,14 @@ precious memory, are published. Wherein thou art presented.
 
 + And because a Christian here hath more in hope than in hand, more
   in reversion than in possession, 'walks by faith' rather than sense, and
-  'lives by tho word of God, and not by bread alone,' Mat 4:4, thou
+  'lives by the word of God, and not by bread alone,' Mat 4:4, thou
   shalt have here, Christian reader, a sweet discourse of the precious promises
   of Christ which he hath left us here to stay the stomach of the soul, till we
   come to that feast of feasts in heaven; that by this glimpse we might in
   part know the 'greatness of that glory which shall be revealed,' 1 Peter 5:1;
   that the first fruits might be a pawn of the harvest, and the 'earnest
   of the Spirit,' Ephes 1:14, a pledge of that full reward we shall have in
-  heaven, where we shall be brimful of those 'pleasures that are at God's
+  heaven, where we shall be brimful of those 'pleasures that are at God’s
   right hand for ever,' Psalm 16:11. Christ hath given us promises to uphold
   our faith and hope, till faith be perfected in fruition, and hope end in vision,
   till Jesus Christ, who is here the object of our faith, be the reward of our
@@ -121,13 +143,13 @@ precious memory, are published. Wherein thou art presented.
 + Now because the comfort of the promises is grounded in the faithfulness
   of him that hath promised, this godly and learned man, hath
   strongly asserted the divine authority of the holy Scriptures, proving that
-  they are  θεόπνευστοι, that they are the very word of God, that they are ἀυτόπιστοι
-  and ἀξόπιστοι, worthy of all acceptation, and belief, for their own sakes;
-  a truth very seasonable for these times, to antidote thee against the poisonfull
+  they are  θεόπνευστοι, that they are the very word of God, that they are αὐτόπιστοι
+  and ἀξιόπιστοι, worthy of all acceptation, and belief, for their own sakes;
+  a truth very seasonable for these times, to antidote thee against the poisonful
   errors of blasphemous anti-scripturists.
 
 + Lastly, because that God often takes a long day for performance
-  of tho promise, thou shalt find herein the doctrine of waiting upon God,
+  of the promise, thou shalt find herein the doctrine of waiting upon God,
   excellently handled; a duty which we earnestly commend unto thy practice,
   as suitable to these sad times. Say, O say with the church, 'In the way
   of thy judgments, O Lord, we have waited for thee,' Isaiah 26:8; and

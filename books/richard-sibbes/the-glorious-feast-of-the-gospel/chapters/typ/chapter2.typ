@@ -35,7 +35,7 @@ be a sense of that emptiness, and pain from that sense, which must stir up a
 strong endeavour to follow after that that we do desire. Then Christ indeed is
 sweet, when we find our souls hungering and thirsting after him.
 
-(2.) Again, if so he we would have that appetite of spirit that is fit for
+(2.) Again, if so be we would have that appetite of spirit that is fit for
 this feast, we must purge our souls from the corruptions of flesh and spirit,
 'perfecting holiness in the fear of God,' 2 Corinthians 7:1. We must cleanse our
 souls from those lusts and passions that daily cleave unto them. All crudities
@@ -66,10 +66,9 @@ We need to every trade a great deal of knowledge. Then surely the calling of
 Christianity needeth a great deal. A Christian must expect much both in
 prosperity and adversity, as the apostle saith, 'I have learned to want and to
 abound, to be in honour and to be in disgrace, and I can do all things
-through Christ that strengthens me,' Philip 4:12. Now, because there is so
-much goings so, out for the maintenance of Christianity, we must also bring
+through Christ that strengthens me,' Philip 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
 in much grace, and faith, and love, and holiness, or else we shall never be
-able to uphold this condition. Where there is an exorcise of Christianity,
+able to uphold this condition. Where there is an exercise of Christianity,
 there will be an appetite to heaven; that is our best calling. For when that we
 have done all that we can, that, that we must have comfort from, is
 Christianity. Therefore, labour with all labour to be holy and able Christians.
@@ -102,7 +101,7 @@ us beforehand; and of all famines, a spiritual famine is most grievous, most
 fearful. Therefore do as Joseph did, and be wise. He in the seven years of
 plenty gathered for seven years of famine that was to come upon the land of
 Egypt, Genesis 41:36. Alas! if we have nothing laid up beforehand, what
-will be our end? We shall lie open to God's wrath and anger. Nothing can
+will be our end? We shall lie open to God’s wrath and anger. Nothing can
 support our souls in the evil time. Wherefore, as you desire at that day to
 have comfort of those things ye shall stand most in need of, labour to get a
 good appetite. For to perish and starve at a feast is a shame; to famish in the
@@ -125,8 +124,7 @@ fit and proportionable objects for those senses. The soul also hath her sense.
 Wheresoever there is life, there is sense. God having given spiritual life to the
 soul, he doth maintain that life with spiritual food. As in a feast there is sight,
 and the eye is not only fed there with rich furniture, but with variety of
-dainties; the ear likewise and the smell is satisfied, the one with music,.the
-other with sweet savours. So in this feast there is to delight both the ear and
+dainties; the ear likewise and the smell is satisfied, the one with music, the other with sweet savours. So in this feast there is to delight both the ear and
 the smell of the soul, the one with hearing the gracious promises of Jesus
 Christ, and the other in receiving the sweet savour of that sacrifice that was
 offered up once for all. Nothing so sweet to the soul as the blessings of
@@ -193,7 +191,7 @@ he pardons sins, he sanctifieth; where he sanctifieth, he writes his law in thei
 hearts. So that there is a chain of spiritual favours. Where the first link is, all
 the rest follow. Where forgiveness of sin is, there is the Spirit, and that Spirit
 sanctifieth, and comforts, and is an earnest of everlasting life. Therefore, feed
-especially upon the favours of God, and got forgiveness of sins, and then all
+especially upon the favours of God, and get forgiveness of sins, and then all
 the rest of the chain of grace and spiritual life will follow.
 
 Sometimes we stand in need of present grace and comfort, and we are
@@ -226,8 +224,7 @@ this feast.
 
 A man that hath no spiritual joy is drowned for the most part in the
 contentments of the world, drowned in riches and honours; and these are
-like to strong waters immoderately taken, instead of cheering the spirits,
-[they] exhaust and kill them. He that hath the joy of heaven here by faith, is
+like to strong waters immoderately taken, instead of cheering the spirits, exhaust and kill them. He that hath the joy of heaven here by faith, is
 mortified to all other base delights, 'he only mindeth the things above, where
 Christ is,' Colossians 3:1. And therefore the exhortation, or rather command, 'Seek
 the things that are above,' hath this promise in fit method annexed to it, 'and
@@ -247,21 +244,21 @@ things, what use should we make further of them, but labour from hence to
 justify the ways of godliness against our own false and carnal hearts, and
 against the slanderous imputations of the world. When our hearts are ready
 to be false to us, and hanker after the contentments of the world, and are
-ready to say the best contentments that they can enjoy is in the things below;
-let us answer our base and false disputing hearts, that the way's of wisdom,
+ready to say the best contentment that they can enjoy is in the things below;
+let us answer our base and false disputing hearts, that the way’s of wisdom,
 the ways that God directs us to, they only are the ways of pleasure. And
 religion is that that makes the hearts of the children of men joyful; and 'a
 good conscience only makes a continual feast,' Proverbs 15:15, so long as man
 liveth. But especially at the hour of death, when all the comforts of the world
 cease, then conscience standeth our friend.
 
-Obj. But the world's objection is, that of all kind of men in the world,
+Obj. But the world’s objection is, that of all kind of men in the world,
 those that profess religion are the most melancholy.
 
 Ans. But if it be so, it is because they are not religious enough. Their sins
 are continually before their eyes. They have pardon for sin, and freedom
 from the guilt of sin, but know it not. They have good things, and do not
-know them. And so in regard of spiritual comforts, God's people may have
+know them. And so in regard of spiritual comforts, God’s people may have
 spiritual joy, and inward consolation, and yet not know of it. There may be
 such a time when they may be sad and droop, and that is when they
 apprehend God doth not look pleasantly upon them. But the true character
@@ -269,7 +266,7 @@ of a Christian is to be cheerful, and none else can be truly cheerful and
 joyous. Joy is usurped by others. There is no comfort in them that can be
 said to be real. All the joy of a man that is a carnal man is but as it were the
 joy of a traitor. He may come to the sacraments, and feast with the rest of
-God's people, but what mirth or joy can he have so long as the Master of the
+God’s people, but what mirth or joy can he have so long as the Master of the
 feast frowns upon him? Where Christ is not, there God is not reconciled. No
 joy like that joy of him that is assured of the love of God in Christ. A man
 may sometime through ignorance want that joy that belongeth to him.
@@ -284,7 +281,7 @@ the world did then afford him; but after he was converted, then he could cry,
 in to taste of the sweetness of Jesus Christ.
 
 Take a Christian at the worst, and he is better than another man, take
-him at the best. The worst condition of God's children far surpasseth the
+him at the best. The worst condition of God’s children far surpasseth the
 very best condition of graceless persons. The issue of things shall turn to his
 good that is a member of Christ, a child of God, an heir of heaven. The evil
 of evils is taken away from him. Take him at the worst, he is an heir of
@@ -292,7 +289,7 @@ heaven; but take the wicked at the best, he is not a child of God, he is a
 stranger to God, he is as a branch cut off, and as miserable a wretch as ever
 Belshazzar in the midst of his cups, trembling and quaking with fear and
 astonishment, when he saw the writing on the wall, Daniel 5:24. When a
-man apprehends the wrath of God hanging over his head, though he were in
+man apprehends the wrath of God hanging over his head, though he were at
 the greatest feast in the world, and amongst those that make mirth and jollity,
 yet seeing vengeance ready to seize upon him, it cannot but damp all his joy
 and all his carnal pleasures; and therefore only a Christian hath a true title to
@@ -307,7 +304,7 @@ called to come in to this feast that are sensible of their sins; and that, God
 requires at our hands, or else we can have no appetite to taste of this feast.
 God saith, 'Come all,' Isaiah 55:1. Aye, but, saith the poor, sinful soul, I have
 no grace at all! Why! but yet come, 'buy without money;' the feast is free.
-'God's thoughts are not as thy thoughts are;' 'but as heaven is high above the
+'God’s thoughts are not as thy thoughts are;' 'but as heaven is high above the
 earth, even so are his thoughts above thy thoughts,' Isaiah 55:8, 9. Poor wretch!
 thou thinkest thou hast led a wicked life, and so thou hast! Aye, but now
 come in, God hath invited thee, and he will not always be inviting thee.
@@ -319,7 +316,7 @@ conscience and joy in the Holy Ghost; now they see salvation to be founded
 only on Christ, and all other excellencies belonging to Christianity; and
 therefore he goeth constantly provided with grace and holiness, so in this life
 that he may not lose his part in glory in the life to come. Think of this and
-pray for it, as they in the gospel. 'Lord, evermore give me of that bread,' John 7:34. Here is hope that thou mayest be saved, because thou art invited to
+pray for it, as they in the gospel. 'Lord, evermore give us of that bread,' John 7:34. Here is hope that thou mayest be saved, because thou art invited to
 come in. To what end is the ministry of the gospel, but to entreat thee to be
 reconciled? Oh! let this work upon our souls when we hear of the
 excellencies of these things! And together with them, consider of the
@@ -334,7 +331,7 @@ upon Jesus Christ; he hath food that endures to eternal life, and if I perish
 there, I perish. If I have not Christ I must die, the wrath of God hangeth
 over my head, and I cannot escape. Alas! poor soul, now thou seest thy
 wretchedness, cast thyself upon him, and come in. If thou venturest, thou
-canst but die! Adventure therefore, put thyself upon God's mercy, for he is
+canst but die! Adventure therefore, put thyself upon God’s mercy, for he is
 gracious and full of compassion.
 
 Those that have given up themselves to Christ, let them study to honour

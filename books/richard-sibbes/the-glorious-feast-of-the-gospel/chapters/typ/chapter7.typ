@@ -6,7 +6,7 @@ the mouth of the Lord hath spoken it.—Isaiah 25:8.
 ]
 
 Use 3. This is a great promise, and I pray you be comforted with it. For
-of all grief that God's people suffer in the world, there is none greater than
+of all grief that God’s people suffer in the world, there is none greater than
 reproach, disgrace, and contumely. Movemur contumeliis plus quam injuriis,
 we are more moved with reproaches than injuries. Injuries come from several
 causes, but disgrace from abundance of slighting. No man but thinks himself
@@ -26,19 +26,19 @@ glory shall rest upon us,' and rebuke shall be taken away.
 
 Ere long there will be no glory in heaven and earth but the glory of
 Christ and of his spouse, for all the rest shall be in their own place, as it was
-said of Judas, that 'he went to his place,' Acts 1:25. Then- proper place is not
+said of Judas, that 'he went to his place,' Acts 1:25. Their proper place is not
 to domineer, but to be in hell, and ere long they shall be there. Heaven is the
 proper element of the saints; that is the place of Christ, the head, and where
 should the body be but with the head? where the spouse but with the
 husband? I say this shall come to pass, that all the wicked shall be in their
 place, and all the godly in theirs with Christ, and then shall the rebukes of
-God's people be taken away. A great matter, and therefore it is sealed with a
+God’s people be taken away. A great matter, and therefore it is sealed with a
 great confirmation, 'The Lord Jehovah hath spoken it.' Therefore it must and
 will be so. 'The mouth of the Lord hath spoken it.' This is not in vain added,
 for the Lord knoweth well enough we need it to believe so great things, that
 there is such a feast provided, and that there is such a victory over death, our
 last enemy, and that there will be such glory, that all the glory shall be
-Christ's and his spouse's, that the wicked that are now so insolent shall be
+Christ’s and his spouse’s, that the wicked that are now so insolent shall be
 cast into their proper place with the devil, by whose spirit they are led. They
 be great matters, and there is great disproportion between the present
 condition and that condition in heaven; and infidelity being in the soul, it is
@@ -98,7 +98,7 @@ above God? It is a shameless, ridiculous impudency of men that will take
 upon them to be judges of Scripture, as if man would get upon the throne,
 and as a judge there judge. The Scriptures must judge all ere long, yea, that
 great antichrist. Now an ignorant man, a simple man, that perhaps never read
-Scriptures, must judge of all controversies, yea, that that is judge of all and of
+Scriptures, must judge of all controversies, yea, that that is the judge of all and of
 himself, the word, which is from the very mouth of God.
 
 Quest. 3. You will ask me, How shall I know it is the word of God if the
@@ -131,7 +131,7 @@ that in the word that showeth it to be the word:
   happier estate, as you have it, Isaiah 11:6—9. It makes lions lambs, leopards
   kids. And what is the ground of all? In that very place 'the earth shall be full
   of the knowledge of the Lord.' The knowledge of God reconciled is such a
-  powerful knowledge that it hath a transforming virtue to alter men's
+  powerful knowledge that it hath a transforming virtue to alter men’s
   dispositions. What was Paul before conversion? and Zaccheus? Therefore, it
   is the word, because it hath divine operation to heat the soul, and raise the
   soul, and change the soul, and cast down the soul, as low in a manner as hell,
@@ -153,7 +153,7 @@ greatest happiness, miserrimum est fuisse felicem; for he that enjoyed before
 communion with God and his angels, having sinned, and having conscience
 of his sin, considering his great parts, and apprehension of The state he had
 been in, this must needs affect him deeply; and being in this condition, the
-promise of the 'seed of the woman to break the serpent's head,' revived him.
+promise of the 'seed of the woman to break the serpent’s head,' revived him.
 
 There is a strange efficacy in the gospel. The Roman empire was the
 greatest enemy that the church ever had The ten persecutions you see what
@@ -167,9 +167,9 @@ above the crown, as it did in the time of Constantine, and so it continueth.
     comfort, change, cast down, raise up again, search secrets, search the heart to
     the bottom? A poor idiot that comes to hear the word of God, when he
     hears the secrets of his heart laid open by the word, he concludes certainly,
-    'God is in you, and you are God's ministers,' 1 Corinthians 4:25. The word
+    'God is in you, and you are God’s ministers,' 1 Corinthians 4:25. The word
     'divideth between the marrow and the bone,' Hebrews 15:12; it arraigneth the
-    heart before God's tribunal seat. Those that are saved, it hath these effects in
+    heart before God’s tribunal seat. Those that are saved, it hath these effects in
     them that I have named. And if you ask how they know whether the word be
     the word? A man may answer, I have found it to be so, raising me up,
     comforting me, and strengthening me. I had perished in my affliction if the
@@ -215,7 +215,7 @@ Use 2. If it be the word, I beseech you consider what we say, and know
 that God will make every part of it good. There shall not a jot of it fail,
 nothing of it shall miscarry. God speaketh all these words. And, therefore, if
 you be blasphemers, you shall not carry it away guiltless. God hath said it. If
-you continue not to obey, you are under God's curse. Unless you repent you
+you continue not to obey, you are under God’s curse. Unless you repent you
 shall perish. Every threat God will make good. You must repent and get into
 Christ, else perish eternally. God hath said it, and we may confirm it in the
 unfolding and reading of it. The time is coming for the execution of it, and
@@ -228,7 +228,7 @@ opening of heaven. If the Scripture saith, a man that liveth in such a sin shall
 not be saved, heaven shall be shut to him; he is in a state of death, he is
 strucken, and remaineth in danger till he repenteth. How many live in sins
 against conscience, that are under the guilt and danger of their sins. They be
-wounded, they he struck by the word. There is a threat against their sins,
+wounded, they be struck by the word. There is a threat against their sins,
 although it be not executed; and they be as much in danger of eternal death
 as a condemned traitor, only God suffers them to live, that they may make
 their peace. They have blessed times of visitation. Oh, make use of it! It is
@@ -237,13 +237,13 @@ in threats as well as in promises.
 
 Use 3. Take occasion from hence likewise to shame ourselves for our
 infidelity in the promises. When we are in any disconsolate estate, we are in
-Job's case. Being in trouble, the consolation of the Almighty seemed light to
+Job’s case. Being in trouble, the consolation of the Almighty seemed light to
 him, Job 15:11. These be the comforts of God. When we come to comfort
 some, though the sweet promises of the gospel be opened, yet they do not
 consider them as being the word, the consolations of the Almighty, and
 therefore they seem light to them. But it should not be so. Consider they be
 the comforts of the word, and therefore we should hear them with faith,
-labour to affect them, and shame ourselves. Is this God's word that giveth
+labour to affect them, and shame ourselves. Is this God’s word that giveth
 this direction, that giveth this comfort, and shall I not regard it? Is it the
 consolation of the Almighty, and shall not I embrace it? Therefore we should
 be ashamed, not to be more affected with the heavenly sweet things
@@ -257,7 +257,7 @@ to be a Christian, where is my faith? where is my hope? A man must
 acknowledge either I have no faith; for if I had faith believing God speaking
 these excellent things, I would not venture my loss of them to get the
 enjoyment of poor temporary things here, for the good things promised in
-another world. Labour, therefore, to bring men's hearts to believe the word,
+another world. Labour, therefore, to bring men’s hearts to believe the word,
 and desire God to seal it to our souls that it is so.
 
 Means. I will give one direction. Labour for the Spirit of God, that writ
@@ -265,7 +265,7 @@ the word, that indited the word. Beg of God to seal to our souls that it is the
 word, and that he would sanctify our hearts to be suitable to the word, and
 never rest till we can find God by his Spirit seasoning our hearts, so that the
 relish of our souls may suit to the relish of divine truths, that when we hear
-them we may relish the truth in them, and may so feel the work of God's
+them we may relish the truth in them, and may so feel the work of God’s
 Spirit, that we may be able to say, he is our God. And when we hear of any
 threatening, we may tremble at it, and any sin discovered, we may hate it. For
 unless we, by the Spirit of God, have something wrought in us suitable to the
@@ -329,7 +329,7 @@ The points considerable are these:
 
 + Again, 'we shall rejoice in our salvation, we shall glory in our God.'
   After they be a while exercised in waiting, then cometh performance,
-  then they he enjoyed, and they he enjoyed with joy, in glorying in God. For
+  then they be enjoyed, and they be enjoyed with joy, in glorying in God. For
   that is the issue of a Christian, when he hath what he would enjoy, when he
   enjoyeth it with joy, when the fruit of it is that God hath his glory, and
   therefore the heart can rejoice in his salvation.
@@ -344,7 +344,7 @@ The points considerable are these:
   not all to that day. There be lesser days before that great day. As at the first
   coming of Christ, so at the overthrow of antichrist, the conversion of the
   Jews, there will be much joy. But that is not that day. These days make way
-  for that day. Whensoever prophecies shall end in performances, then shall he
+  for that day. Whensoever prophecies shall end in performances, then shall be
   a day of joying and glorying in the God of our salvation for ever. And
   therefore in the Revelations where this Scripture is cited, Revelation 21:4, is meant
   the conversion of the Jews, and the glorious estate they shall enjoy before the
@@ -359,7 +359,7 @@ The points considerable are these:
   more certain, 'In that day it shall be said, This is our God; we have waited for
   him; he shall save us.' He bringeth them in speaking these words of affection.
 
-Indeed, when we come to enjoy the performance of God's gracious
+Indeed, when we come to enjoy the performance of God’s gracious
 promises, if we should live to see the fulness of the Gentiles come, and Jews
 called, we should speak of it again and again. Affections are large, and few
 expressions will not serve for large affections. It will be no tautology to say,

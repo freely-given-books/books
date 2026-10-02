@@ -6,7 +6,7 @@ from all faces; that the rebukes of his people may be taken away from off the
 earth: for the Lord hath spoken it.—Isaiah 25:8.
 ]
 
-You have heard heretofore of a feast provided for God's people, the
+You have heard heretofore of a feast provided for God’s people, the
 founder of it being God himself, who only can indeed comfort (that which is
 specially to be comforted) the soul and the conscience, he being above the
 conscience. The place where the feast is kept is 'mount Zion,' the church of
@@ -28,7 +28,7 @@ they shall be known to be. These be very great matters, and therefore there is
 a great confirmation, they have a seal, and what is that? 'The Lord hath
 spoken it.'
 
-The last day I showed that God's children shall shed tears, and that they
+The last day I showed that God’s children shall shed tears, and that they
 have cause to do it. I will now enlarge it a little.
 
 It is the condition of men since the fall. In paradise before there was no
@@ -59,7 +59,7 @@ messengers of grief; and oftentimes the deepest apprehension, that takes
 things deeply, cannot express it in tears. In some the passages fetching the
 conceit to the heart are made more tender that they can weep. Now, the grief
 of a Christian is a judicial grief; a rational grief, not only sensible tears must
-have sensible grief, but a Christian's grief is a sensible, judicial grief. He hath
+have sensible grief, but a Christian’s grief is a sensible, judicial grief. He hath
 a right judgment of things that cause sorrow, willeth it, and tears are only an
 expression of it.
 
@@ -67,7 +67,7 @@ But how shall I know whether grief be right or no? There be tears God
 hath no bottle for. 'Thou puttest my tears into thy bottle,' Psalm 56:8. He
 makes much of them. They be vinum angelicum, as he saith. God is an angel
 to his people, to wipe away their tears. But some tears God hath no bottle
-for, hypocritical tears, Delilah's tears, tears of revenge and anger, Esau's
+for, hypocritical tears, Delilah’s tears, tears of revenge and anger, Esau’s
 tears. And therefore the true tears that God will wipe away, are such as first
 of all follow our condition here, our misery. God will wipe them away. If we
 speak of tears from a judicial ground,
@@ -80,7 +80,7 @@ speak of tears from a judicial ground,
   world; that Christ, the Saviour of the world, should find such entertainment,
   that he should have anything in him that should offend such a Saviour! This
   unkindness stingeth him to the heart. He takes it grievously that God should
-  be abused. Latitia habet suas lachrymas, there is not only grief that is the
+  be abused. Laetitia habet suas lachrymas, there is not only grief that is the
   immediate cause of tears, but another cause beforehand; that is, love. Joy
   likewise hath its tears, though they be not here meant specially.
 
@@ -95,7 +95,7 @@ speak of tears from a judicial ground,
   terror of conscience. When a man can take to heart the sins of another, and
   that truly as it is an offence of his good God, and a crucifying again of his
   sweet Saviour, these be true tears indeed. It is more sign of grace than to
-  weep for a man's own sins.
+  weep for a man’s own sins.
 
   Some are taken up with terrors of conscience, that let their children,
   family, and friends alone. Their heart is eaten up with self-love, and they be
@@ -106,12 +106,12 @@ speak of tears from a judicial ground,
 + Again, tears arise from the right spring, from true grief, when we can
   weep in secret. Oh! saith Jeremiah, if you do so and so, 'My soul shall weep
   in secret for your pride,' Jeremiah 13:17. Here was a good soul indeed. Many will
-  have tears of comfort in public,. Aye, but when they can weep in secret
+  have tears of comfort in public. Aye, but when they can weep in secret
   for their own sins and the sins of others, it is an evidence of a right spring of
   grief.
 
 + Again, when tears tend to reformation of what they grieve for; for else
-  they be steriles lachryma, barren tears. Do they tend to reform what we weep
+  they be steriles lachrymae, barren tears. Do they tend to reform what we weep
   for? Do they tend to action? Affections are then good when they carry to
   action; as grief, love, joy, they are all for action. When we weep and grieve,
   and reform withal, it is a good sign. I will name no more. You see then that
@@ -143,14 +143,14 @@ virtue of his mediation, that giveth comfort. So that we have cause of joy,
 and cause of grief, about the same things at the same time.
 
 We are never in such a state of grief here, but if we look about us, look
-forward, look upward..... A Christian, that is, a good Christian, is a person
+forward, look upward. A Christian, that is, a good Christian, is a person
 that hath many things to look after, that he may manage his estate of
 Christianity wisely. He is to look to himself and his sins, to the mercies of
 God in Christ, to the constancy of it, that it is answerable to the fruit of it in
 peace and joy here, and happiness hereafter, which are constant too. His
 grace, as himself, is constant, the fruits of it constant. Therefore 'rejoice
 evermore.' And, saith the apostle, 'I know what I say, I am well advised,
-'evermore rejoice,' Philip 4:4. So that the life of a Christian is a mixed life,
+evermore rejoice,' Philip 4:4. So that the life of a Christian is a mixed life,
 nay, the ground of our joy is our sorrow and grief, and joy is sown in grief. If
 we will rejoice indeed, let us mourn indeed. True joy ariseth and springs out
 of sorrow.
@@ -158,30 +158,30 @@ of sorrow.
 I proceed to the next. 'And the rebukes of his people shall be taken away
 from off the face of the earth.' Another benefit that makes the feast sweet
 and comfortable is this: 'He will take away the rebukes of his people.' And
-here is the same method to be used, that God's children, his church, and
+here is the same method to be used, that God’s children, his church, and
 people, are under rebukes, and under reproach.
 We need not stand to prove the truth of it. It is true, first, the head of
 the church, and the church itself, and every particular member, they go under
 rebukes. For the head of the church, we should spend the time to no purpose
-to prove it. What was Christ's life? It was under a veil. He appeared not to be
+to prove it. What was Christ’s life? It was under a veil. He appeared not to be
 what he was. You know he was esteemed the chief of devils, an enemy to his
 prince, to Caesar. I will not spend time in clear truths.
 
-For the church itself, you see in the book of Esther, iii. 8, 'There is a
+For the church itself, you see in the book of Esther 3:8, 'There is a
 strange people that acknowledge no law, they be against the laws of the
 prince.' They pass under the imputation of rebels. The poor church, that had
 thoughts of peace, the meek church of God, they counted as enemies of the
 state, as Christ, the head, was. And so the church in Babylon, under what
 rebukes was it? They reproached them, 'By the waters of Babylon we sat
 down and wept, when they said, Sing us one of the songs of Zion,' Psalm 137:1. The church sitteth by the waters of Babylon all this life. The world
-is a kind of Babylon to God's people, and then sing us one of your songs.
+is a kind of Babylon to God’s people, and then sing us one of your songs.
 Where is now your God? say the hearts of wretched people, when they saw
 the people of God in disgrace. Tully could say of the nation of the Jews, 'It
 showeth how God regardeth it; it hath been so often overcome.' Thus the
-heathen man could scorn the state of God's people. You see how the
+heathen man could scorn the state of God’s people. You see how the
 psalmist complains in the name of particular Christians, 'Where is his God?
 he trusted in him, let him save him,' Psalm 22:8. Oh, this was daggers to
-David's heart. 'It pierced to my heart when they said, Where is thy God?' Psalm 42:10. To touch a Christian in his God, as if God had no care of him, it is
+David’s heart. 'It pierced to my heart when they said, Where is thy God?' Psalm 42:10. To touch a Christian in his God, as if God had no care of him, it is
 more than his own grief and affliction. So when a child of God is rebuked
 and affronted, when religion must suffer by it, so that the head of the church,
 the members of the church, are under rebukes, as it may be proved, if I carry
@@ -192,7 +192,7 @@ nation of the Jews, under what reproach it is. And surely this prophecy
 aimeth partly at the conversion of the Jews. It shall be accomplished at the
 resurrection, when all tears shall be perfectly wiped away. But it hath relation
 to the conversion of the Jews. In what state are they now? Are they not a
-word of reproach? Moses's speech is verified of them, 'They shall be a
+word of reproach? Moses’s speech is verified of them, 'They shall be a
 hissing to all nations,' 2 Chron 29:8. And is not it a proverb, Hated as a Jew?
 
 Reason. But what is the reason of it? Not to stand long upon the point,
@@ -241,23 +241,23 @@ can help it. The fraudulent persecution is worse than the violent. If he can
 bring to hell by fraud and lying, he will never do it by violence. He is a liar,
 that he may be a murderer; for when he can raise an imputation upon the
 church and children of God, that they be rebels, enemies of state, then he
-may cum privilegio be a murderer. When he hath tainted God's people in the
+may cum privilegio be a murderer. When he hath tainted God’s people in the
 conceit of the world, then they find that entertainment not which they
 deserve, but which they be apprehended to deserve, when the conceit of
 other men towards them is poisoned. 'Oh, this sect is spoken against
-everywhere,' say they to Paul, Acts 28:22. Therefore we had need he wise;
+everywhere,' say they to Paul, Acts 28:22. Therefore we had need be wise;
 for if the instruments of Satan, led with his spirit, had not hoped that
 slanders should take, they would never have been so skilful in that trade. But
 they know they shall find some shallow fools that will believe them, without
-searching into the depths of them, and take up persons and things under
+searching into the depth of them, and take up persons and things under
 prejudice. It is enough for them that this is said of them. They have neither
 wit nor judgment, nor so much patience, from following their lusts, as to
 examine them; and that makes them so mad as they are. Calumniare
-aucdacter, aliquid harebit, slander stoutly, something will stick, they are sure
-of it. That which hath raised and ruined many a man, is that of Hainan's
+audacter, aliquid haerebit, slander stoutly, something will stick, they are sure
+of it. That which hath raised and ruined many a man, is that of Hainan’s
 casting of jealousy upon those that are better than themselves. That was
-Haman's trick, and so will be the practice of the wicked, as it hath been from
-the beginning, so to the end of the world. 'Thou art not Cesar's friend,' say
+Haman’s trick, and so will be the practice of the wicked, as it hath been from
+the beginning, so to the end of the world. 'Thou art not Cesar’s friend,' say
 they, and it is enough to Pilate, John 19:12. Thus it has been, and will be to
 the end of the world. Therefore we had need to be wise, that we be not
 misled. Men will never leave to speak ill till they have learned to speak better,
@@ -309,22 +309,22 @@ men will reproach, they may reproach without a cause.
     reward when men speak evil of you,' Mat 5:12, for a good cause. It is the
     portion of a Christian in this life to do well and suffer ill. Of all, certainly they
     are best, that, out of love to goodness, are carried to goodness, without
-    looking to rewards or disgrace; that follow with a single eye. Labour,
+    looking to rewards or disgrace; that follows with a single eye. Labour,
     therefore, for patience, and not only so, but,
   
   + For courage. For the moon goeth its course, and lets the dog bark.
     We have a course to run, let us keep our course constantly; pass through
-    good reports and had reports; be at a point what the world thinks. We seek
+    good reports and bad reports; be at a point what the world thinks. We seek
     applause at another theatre than the world.
   
   + Again, then, labour for sincerity under rebukes, that we have a good
-    aim, such an aim as Paul had, 'If I be mad and out of my wits,' 1 Corinthians 5:13,14.
+    aim, such an aim as Paul had, 'If I be mad and out of my wits,' 2 Corinthians 5:13, 14.
     He being earnest for his master, Christ, they count him out of his wits. If
     I be out of my wits it is for Christ. 'If I be sober, it is for you, the love of
     Christ constraineth me to be so,' 2 Corinthians 5:14. Get the love of Christ, and
     that will make a man care for nothing. If I go beyond myself, it is to God. As
     David said, when he was mocked by Michal, 'It is to the Lord,' when he
-    danced before the ark,' 2 Samuel 6:20, 21. Bonus Indus, a good dance, where
+    danced before the ark, 2 Samuel 6:20, 21. Bonus ludus, a good dance, where
     Michal scoffeth, and David danceth. Where gracious men magnify God, and
     have Michals to scoff at them, it is bonus ludus. God will look upon them,
     for it is to the Lord. Labour that our aims be good, and it is no matter what
@@ -348,7 +348,7 @@ men will reproach, they may reproach without a cause.
     Christ. Now it is covered with disgrace and disrespect in the world, scorned
     and reproached, but what is that to him? It is an hidden life, and for the
     present he knoweth his own excellency, and, therefore, can pass through
-    good report and had report. 'I care not for man's day,' saith Paul, 'there is
+    good report and bad report. 'I care not for man’s day,' saith Paul, 'there is
     another day to which I must stand,' 1 Corinthians 4:3.
 ]
 
@@ -360,7 +360,7 @@ glory shall rest upon you,' and shall continue with you as long as disgrace
 shall continue. He opposeth this to all disgrace he meeteth with in the world.
 
 God putteth sometimes a glory and excellency upon his children under
-disgrace and ill usage in the world, that he will daunt the world, as Stephen's
+disgrace and ill usage in the world, that he will daunt the world, as Stephen’s
 face did shine as the face of an angel, which came from a spirit of glory that
 rested upon him, and expressed himself to be the servant of God. He that
 takes away from our good report, if we be good, he addeth to our reward.

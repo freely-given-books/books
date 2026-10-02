@@ -1,7 +1,7 @@
 == The Fifth Sermon
 
 #quote[
-And all tears shall be wiped away from all faces.— Isaiah 25:8.
+And all tears shall be wiped away from all faces.—Isaiah 25:8.
 ]
 
 Not only death shall be swallowed up in victory, but God 'will wipe
@@ -21,9 +21,9 @@ and misery of another.
 
 Our blessed Saviour himself, we never read that he laughed. We have
 heard that he wept, and for his very enemies, 'O Jerusalem, Jerusalem,' Mat 23:37. He shed tears for them that shed his blood. Tears were main
-evidences of Christ's sweetness of disposition; as that he would become man,
+evidences of Christ’s sweetness of disposition; as that he would become man,
 and a curse, and die for us, and that he would make so much of little
-children, and call all to him that were weary and heavy laden, that be never
+children, and call all to him that were weary and heavy laden, that he never
 refused any that came to him. He that wept specially for the miseries and
 afflictions, this showed his gracious and sweet disposition. And that in
 heaven, he is so full of sympathies in glory, that when Paul persecuted the
@@ -34,8 +34,7 @@ sins, and the misery that followeth them, but the sins and miseries of others.
 'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men break the law of God, whom he loved.
 
 A true natural child takes to heart the disgrace of his father. If we be not
-grieved to see our father disgraced, we are bastards, not sons. They that make
-sport of sin, what are they? Alas! they have not one spark of the spirit of
+grieved to see our father disgraced, we are bastards, not sons. They that make a sport of sin, what are they? Alas! they have not one spark of the spirit of
 adoption. They are not children, who rejoice at that at which they should
 grieve.
 
@@ -49,7 +48,7 @@ miseries of others, whether we respect God, or the church, or ourselves.
 First, the love of God moveth its to weep when we see him
 dishonoured.
 
-Second, if we lore the church, we should mourn for any sins that may
+Second, if we love the church, we should mourn for any sins that may
 prejudice their salvation.
 
 Doth it not pity any man to see an ox go to slaughter? to see a man of
@@ -81,7 +80,7 @@ proud stoical humour, but Christians desire it.
 
 And therefore we ought to labour to be more sensible, that we might
 make our peace, and reverence the justice of God, and be more sensible of
-him afterwards. It is most true, that Sapieus miner, plus miser; the more wise
+him afterwards. It is most true, that Sapiens miser, plus miser; the more wise
 any man is, the more sensible of misery. And therefore of all men, the best
 men have most grief, because they have most quick senses. They be not
 stupified with insensibility and resoluteness, to bear it bravely, as the world;
@@ -99,8 +98,8 @@ away.
 So that there is cause of tears, and tears is a duty of Christians, sensible
 of the cause both of sin and misery upon one and another.
 
-Use 2. And as it is an unavoidable grief, so it is flood we should grieve.
-We must stoop to God's course, we must bring our hearts to it, and pray
+Use 2. And as it is an unavoidable grief, so it is good we should grieve.
+We must stoop to God’s course, we must bring our hearts to it, and pray
 (that since our necessities and sins do call for this dispensation, that we must
 under correction, he will make us sensible of his rod), that he would make
 good his covenant of grace, 'to take away our stony hearts, and give us hearts
@@ -143,25 +142,25 @@ Then consider the presence of God in it. Indeed, I have matter of grief,
 but I find God moderating it. It might be far worse, it is his mercy I am not
 consumed; I find God by it doing me good, I find myself better by it, I
 cannot well be without it. Who would not labour to be sensible of a cross,
-when be looketh up to God's cross, and justice, and mercy? He bath rather
+when be looketh up to God’s cross, and justice, and mercy? He hath rather
 cause to joy, than to grieve in the very cross itself.
 
 But specially mark what the Holy Ghost saith here. We ought not to be
 cast down overmuch with any cross, considering God 'will wipe away all
 tears from our eyes,' that is, all natural tears, and the miseries of this life.
-There shall he no more misery, no more sickness, no more trouble.
+There shall be no more misery, no more sickness, no more trouble.
 
 And then all tears that arise from consideration of sin, and misery
 following sin. Death is the accomplishment of all mortification. It is a
 comfort we shall not always lead this conflicting life, but the war between the
 flesh and spirit will be taken up; the sense will be removed. We shall be out
-of Satan's reach, and the world's reach one day, which is a great comfort to
-consider. Whatsoever the cause is, the cause shall he removed ere long. If the
+of Satan’s reach, and the world’s reach one day, which is a great comfort to
+consider. Whatsoever the cause is, the cause shall be removed ere long. If the
 cause be desertion, for that God leaveth us comfortless, we shall be for ever
 hereafter with the Lord. If the cause be separation from friends, why we shall
 all meet together ere long, and be for ever in heaven. If the cause be our own
 sins, we shall cease hereafter to offend God, and Christ will be all in all. Now
-sin is almost all in all. Sin and corruption hear a great sway in us. If the
+sin is almost all in all. Sin and corruption bear a great sway in us. If the
 matter of our grief be the sins of others, and the afflictions of others, there is
 no sin in heaven, 'no unclean thing shall enter there,' Revelation 21:27. The souls
 of perfect men are there, and all are of one mind. There is no opposition to
@@ -213,7 +212,7 @@ come and serve them that watch and serve him; nay, he will attend them, and
 'sup with them,' Revelation 3:20. He is not only mercy and goodness, but there be
 in him bowels of mercy. He not only giveth matter of joy and comfort, but
 he will do like a tender-hearted mother, wiping away all tears from our eyes.
-We cannot apprehend the bowels in God's love, the pity and mercy of God
+We cannot apprehend the bowels in God’s love, the pity and mercy of God
 towards them that be his, and afflicted in the world, specially in a good cause.
 Though they be never so many, if they be penitent tears, he will wipe them all away.
 
@@ -246,7 +245,7 @@ may not see their fruits presently, but afterwards. And therefore be not
 discouraged for anything we can suffer here, or for the church, if we see her
 under pressure. As darkness is sown for the wicked, the foundation of their
 eternal torment is laid in their joy; so the ground and foundation of all a
-godly man's joy is laid in tears. 'Blessed are they that mourn, for they shall be
+godly man’s joy is laid in tears. 'Blessed are they that mourn, for they shall be
 comforted,' Mat 5:4. Yet for the present there is more matter of joy than
 grief, if we look with both eyes; as we ought to have double eyes, one to be
 sensible of our grief, as we must be, the other of our comfort, that we may
@@ -284,7 +283,7 @@ in misery. If he falls to joy, he is all joy; if to sorrow, he is all sorrow. He
 nothing to support him. He is like a Nabal, he sinketh like a piece of lead to
 the bottom of the sea, 1 Samuel 25:37, 38; like Ahithophel, down he goeth, 2
 Samuel 17:23. When he is upon the merry pin, he is nothing but joy. But a
-Christian's state and disposition are both mixed. He hath ground of sorrow
+Christian’s state and disposition are both mixed. He hath ground of sorrow
 for his own sins, and for the sins and miseries of the times. So he hath matter
 of comfort for the present, in the favour of God, in the pardoning of sins, in
 the presence of God, in delivering him from trouble. He hath special ground
