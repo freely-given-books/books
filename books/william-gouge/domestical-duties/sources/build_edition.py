@@ -43,6 +43,7 @@ HERE = Path(__file__).resolve().parent
 BOOK = HERE.parent
 XML = HERE / "A68107.xml"
 EDITION = BOOK / "source" / "edition.json"   # one map, shared with the TEI layout
+DIST = BOOK.parents[2] / "dist" / "william-gouge" / "domestical-duties"   # ./fgb pdf output
 
 # The imprint's boilerplate, shared by the print and ebook editions.  Kept here
 # rather than in each volume file so the four covers, four title pages and one
@@ -77,8 +78,6 @@ LICENCE = """This copy is provided to you free of charge under the Creative Comm
 EPIGRAPH = "Submitting your selves one to another in the fear of God."
 EPIGRAPH_SOURCE = "Ephesians 5:21"
 
-TRIM_W, TRIM_H = 6, 9
-BLEED = 0.125
 
 
 def slugify(title):
@@ -305,10 +304,8 @@ COVER_TEMPLATE = '''#import "../../../scripts/panel_cover.typ": *
 // they differ by 0.06in, and the trim tolerance is 0.125in.  VERIFY against a
 // downloaded live 6x9 perfect-bound template before ordering.
 //
-//   front-panel crop for the ebook cover, at 300 dpi:
-//     magick -density 300 "cover-vol-{number}.pdf[0]" -background white \\
-//       -alpha remove -crop 1800x2700+{crop_x}+38 +repage \\
-//       -resize 900x1350 -quality 92 cover-vol-{number}-front.jpg
+//   ./fgb build gouge renders the front panel alone (the ebook cover, and a
+//   picture for the web) as cover-vol-{number}-front.png.
 #panel-cover(
   title: [Of Domestical Duties],
   volume: [Volume {roman}],
@@ -351,16 +348,16 @@ def write_covers(edition):
     total = 0
     for vol in edition["volumes"]:
         n = vol["number"]
-        pdf = BOOK / f"domestical-duties-vol-{n}.pdf"
+        pdf = DIST / f"domestical-duties-vol-{n}.pdf"
         if not pdf.exists():
-            sys.exit(f"{pdf.name} does not exist -- compile the volume first")
+            sys.exit(f"{pdf} does not exist -- compile the volumes first "
+                     "(./fgb pdf gouge)")
         pages = pdf_pages(pdf)
         total += pages
         spine = pages / 444.0 + 0.06
-        crop_x = round((BLEED + TRIM_W + spine) * 300)
         (BOOK / f"cover-vol-{n}.typ").write_text(COVER_TEMPLATE.format(
             number=n, roman=vol["roman"], subtitle=vol["subtitle"],
-            pages=pages, crop_x=crop_x, back_lead=vol["back-lead"],
+            pages=pages, back_lead=vol["back-lead"],
             epigraph=EPIGRAPH, epigraph_source=EPIGRAPH_SOURCE),
             encoding="utf-8")
         print(f"cover-vol-{n}.typ: {pages} pages, spine {spine:.3f}in")
@@ -368,17 +365,19 @@ def write_covers(edition):
     # One more wrap with no volume line, for the ebook's cover image: the
     # ebook is the whole work, so a cover saying "Volume I" would be a lie.
     # Its spine is notional -- the four volumes together are past any
-    # perfect-binding limit -- but the crop offset has to come from
-    # somewhere, and the front panel is what gets used.
+    # perfect-binding limit -- and only the front panel is used.
     spine = total / 444.0 + 0.06
     text = COVER_TEMPLATE.format(
         number="ebook", roman="", subtitle=(
             "Eight Treatises on the Duties of Husbands and Wives, "
             "Parents and Children, Masters and Servants"),
-        pages=total, crop_x=round((BLEED + TRIM_W + spine) * 300),
+        pages=total,
         back_lead=EBOOK_COVER_BACK_LEAD,
         epigraph=EPIGRAPH, epigraph_source=EPIGRAPH_SOURCE)
     text = text.replace("  volume: [Volume ],\n", "")
+    # its comments name the whole work, not a volume
+    text = text.replace("domestical-duties-vol-ebook.pdf", "the four volumes")
+    text = text.replace("cover-vol-ebook-front.png", "cover-ebook-front.png")
     (BOOK / "cover-ebook.typ").write_text(text, encoding="utf-8")
     print(f"cover-ebook.typ: whole work, {total} pages across four volumes")
 

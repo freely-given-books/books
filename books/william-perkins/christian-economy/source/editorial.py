@@ -71,6 +71,6 @@ REPORT_NOTES = [
 
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Christian Economy", "author": "William Perkins",
-        "front": "ebook-front.html", "cover": "cover_front.jpg",
+        "front": "ebook-front.html", "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["christian-economy.typ"]

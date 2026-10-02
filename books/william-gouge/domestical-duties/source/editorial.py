@@ -133,7 +133,7 @@ TYPST_NUMBERED_PARAGRAPHS = "enum"
 
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
-        "file": "domestical-duties.epub", "cover": "cover-ebook-front.jpg",
+        "file": "domestical-duties.epub", "cover": "cover-ebook.typ",
         "front": "ebook-front.html",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"],
         "toc_depth": 4}

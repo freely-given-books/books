@@ -12,8 +12,8 @@ works from any folder.
                                   printed, with what the machine and you chose
   ./fgb page   [BOOK] [--open]    rebuild the side-by-side page(s)
   ./fgb check  [BOOK]             full verification (verify.py)
-  ./fgb epub   [BOOK]             build the EPUB and run epubcheck
-  ./fgb pdf    [BOOK]             compile the print edition(s) with Typst
+  ./fgb epub   [BOOK]             build the EPUB and run epubcheck   } into dist/
+  ./fgb pdf    [BOOK]             compile the print edition(s)       } <author>/<book>/
   ./fgb build  [BOOK ...]         PDFs (print editions, then covers) and the
                                   checked EPUB into dist/<author>/<book>/;
                                   no BOOK = every book on the TEI pipeline.
@@ -26,8 +26,9 @@ A book's source/editorial.py can hold what these commands need, so nobody
 has to remember options:
 
   EPUB = {"title": ..., "author": ..., "front": "ebook-front.html",
-          "cover": "cover_front.jpg", "css": [...], "before": [...],
-          "after": [...], "toc_depth": 4}          # paths from the book folder
+          "cover": "cover.typ",           # or an image; a .typ cover's
+          "css": [...], "before": [...],  # front panel is rendered
+          "after": [...], "toc_depth": 4} # paths from the book folder
   PRINT = ["book.typ"]                             # Typst files to compile
   COVERS = ["cover.typ"]       # covers, compiled after PRINT (default cover*.typ)
   SIDE_BY_SIDE = {"before": [...], "after": [...],
@@ -257,6 +258,16 @@ def cmd_check(a):
     sys.exit(r.returncode)
 
 
+def render_front(bk, cover, outdir):
+    """The front panel of a panel_cover.typ cover as an image at the trim
+    size, 150 ppi: the ebook cover, and the picture for a web page."""
+    img = outdir / (cover.stem + "-front.png")
+    print(f"typst: {cover.relative_to(REPO)} (front panel)")
+    run("typst", "compile", "--root", REPO, "--input", "front-only=true",
+        "--format", "png", "--ppi", "150", cover, img, cwd=bk.dir)
+    return img
+
+
 def build_epub(bk, outdir):
     e = bk.cfg.get("EPUB")
     if not e:
@@ -264,9 +275,17 @@ def build_epub(bk, outdir):
     out = outdir / e.get("file", bk.dir.name + ".epub")
     args = [PY, HERE / "tei_epub.py", bk.tei, out, "--title", e["title"],
             "--author", e["author"]]
-    for k in ("front", "cover"):
-        if e.get(k):
-            args += [f"--{k}", bk.dir / e[k]]
+    if e.get("front"):
+        args += ["--front", bk.dir / e["front"]]
+    extra = []
+    if e.get("cover"):
+        cover = bk.dir / e["cover"]
+        if cover.suffix == ".typ":
+            # a Typst cover: its front panel, rendered now, so no cover image
+            # has to be kept in git
+            cover = render_front(bk, cover, outdir)
+            extra = [cover]
+        args += ["--cover", cover]
     for k in ("css", "before", "after"):
         for f in e.get(k, []):
             args += [f"--{k}", f]
@@ -282,33 +301,41 @@ def build_epub(bk, outdir):
             sys.exit(f"{bk.name}: epubcheck failed")
     else:
         print("epubcheck: not installed, EPUB not checked")
-    return [out]
+    return extra + [out]
 
 
 def build_pdf(bk, outdir, covers=False):
     files = bk.cfg.get("PRINT") or [bk.dir.name + ".typ"]
-    if covers:
-        files = files + (bk.cfg.get("COVERS") or
-                         sorted(p.name for p in bk.dir.glob("cover*.typ")))
+    cover_files = (bk.cfg.get("COVERS") or
+                   sorted(p.name for p in bk.dir.glob("cover*.typ"))) if covers else []
     outs = []
-    for f in files:
+    for f in files + cover_files:
         src = bk.dir / f
         out = outdir / Path(f).with_suffix(".pdf").name
         print(f"typst: {src.relative_to(REPO)}")
         # --root: covers import the shared design from scripts/
         run("typst", "compile", "--root", REPO, src, out, cwd=bk.dir)
         outs.append(out)
+    for f in cover_files:
+        if "panel-cover(" in (bk.dir / f).read_text(encoding="utf-8"):
+            outs.append(render_front(bk, bk.dir / f, outdir))
     return outs
+
+
+def dist_dir(bk, root=None):
+    d = (Path(root).resolve() if root else REPO / "dist") / bk.name
+    d.mkdir(parents=True, exist_ok=True)
+    return d
 
 
 def cmd_epub(a):
     bk = Book(find_book(a.book))
-    build_epub(bk, bk.dir)
+    build_epub(bk, dist_dir(bk))
 
 
 def cmd_pdf(a):
     bk = Book(find_book(a.book))
-    build_pdf(bk, bk.dir)
+    build_pdf(bk, dist_dir(bk))
 
 
 # -- build: everything for some or all books, into dist/ -----------------------
@@ -369,13 +396,11 @@ def cmd_build(a):
             print("not on the TEI pipeline yet, skipped: " +
                   ", ".join(str(d.relative_to(REPO / "books")) for d in skipped))
     kinds = {"pdf", "epub"} if a.pdf == a.epub else ({"pdf"} if a.pdf else {"epub"})
-    out_root = Path(a.out).resolve() if a.out else REPO / "dist"
     state = git_state()
     built, failed = [], []
     for d in chosen:
         bk = Book(d)
-        outdir = out_root / bk.name
-        outdir.mkdir(parents=True, exist_ok=True)
+        outdir = dist_dir(bk, a.out)
         print(f"\n== {bk.name} -> {outdir}")
         try:
             files = []

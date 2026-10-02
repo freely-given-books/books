@@ -9,10 +9,8 @@
 // they differ by 0.06in, and the trim tolerance is 0.125in.  VERIFY against a
 // downloaded live 6x9 perfect-bound template before ordering.
 //
-//   front-panel crop for the ebook cover, at 300 dpi:
-//     magick -density 300 "cover-vol-2.pdf[0]" -background white \
-//       -alpha remove -crop 1800x2700+2055+38 +repage \
-//       -resize 900x1350 -quality 92 cover-vol-2-front.jpg
+//   ./fgb build gouge renders the front panel alone (the ebook cover, and a
+//   picture for the web) as cover-vol-2-front.png.
 #panel-cover(
   title: [Of Domestical Duties],
   volume: [Volume II],

@@ -114,7 +114,7 @@ python3 scripts/tei/tei_extract.py source/christian-economy.tei.xml out/orig --l
 # EPUB 3 straight from the TEI (no Calibre); full command in the book's README
 python3 scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
     --title "Christian Economy" --author "William Perkins" \
-    --front ebook-front.html --cover cover_front.jpg --css ebook.css
+    --front ebook-front.html --cover cover-front.png --css ebook.css
 # or the whole book as one XHTML file, to preview in a browser
 python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml preview.html
 # side-by-side reading copy: printed text | edition, every change marked

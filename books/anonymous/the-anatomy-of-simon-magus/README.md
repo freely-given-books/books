@@ -34,6 +34,12 @@ The long forms below do the same.
 
 ## Steps for Generation
 
+The PDF and the EPUB are not kept in git: `./fgb build simon` makes them in
+`dist/anonymous/the-anatomy-of-simon-magus/`. The cover was designed outside
+this repository, so its front, `cover_front.jpg`, is kept here as a source
+(the EPUB needs it at build time); the full print wrap for Lulu,
+`full_cover_lulu.pdf`, is a print file kept with the published PDFs, not in git.
+
 ### ebook
 
 The EPUB 3 is built from the TEI by `scripts/tei/tei_epub.py`; the foreword
