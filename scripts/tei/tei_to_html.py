@@ -168,9 +168,11 @@ class HtmlR(R):
         on from the block before) joins that paragraph in the reg layer."""
         if not html_:
             return
-        if self.layer == "reg" and c.get("prev") and out and out[-1].endswith("</p>"):
-            inner = re.sub(r"^<p[^>]*>|</p>$", "", html_)
-            out[-1] = out[-1][:-len("</p>")] + " " + inner + "</p>"
+        if self.layer == "reg" and c.get("prev") and out and \
+                out[-1].endswith(("</p>", "</p></blockquote>")):
+            inner = re.sub(r"^(<blockquote>)?<p[^>]*>|</p>(</blockquote>)?$", "", html_)
+            end = "</p></blockquote>" if out[-1].endswith("</blockquote>") else "</p>"
+            out[-1] = out[-1][:-len(end)] + " " + inner + end
         else:
             out.append(html_)
 
@@ -226,6 +228,8 @@ class HtmlR(R):
 
     levels = None             # layout mode: {div type: heading level}
     enum = "I."               # TYPST_ENUM: numbering of lists the review made
+    quote_block = False       # QUOTE_BLOCK: the print template sets #quote as a
+                              # block (no marks); else as an inline quotation
     run_in = set()
 
     def div_html(self, div, level):
@@ -293,13 +297,30 @@ class HtmlR(R):
             if n == "p":
                 t = self.text(c)
                 if t and self.layer == "reg" and c.get("rend") == "quote":
-                    t = f"\u201c{t}\u201d"          # as Typst sets #quote[...]
-                    self.add_block(out, c, f'<p class="quote">{t}</p>')
+                    if self.quote_block:
+                        self.add_block(out, c, f"<blockquote><p>{t}</p></blockquote>")
+                    else:
+                        t = f"\u201c{t}\u201d"      # as Typst sets #quote[...]
+                        self.add_block(out, c, f'<p class="quote">{t}</p>')
                 elif t:
                     self.add_block(out, c, f"<p>{t}</p>")
                 continue
             if n == "list":
                 out += self.list_html(c)
+            elif n == "quote":
+                # a quotation block of the source: one paragraph, as Typst sets
+                # #quote[...] with its lines run together
+                parts = []
+                for x in c:
+                    if not isinstance(x.tag, str):
+                        continue
+                    if local(x) == "lg":
+                        parts += [self.text(l) for l in x if isinstance(l.tag, str)]
+                    else:
+                        parts.append(self.text(x))
+                t = " ".join(p_ for p_ in parts if p_)
+                if t:
+                    out.append(f"<blockquote><p>{t}</p></blockquote>")
             elif n == "closer":
                 signed = c.find(T + "signed")
                 if signed is None:
@@ -337,6 +358,8 @@ class HtmlR(R):
         if div.get("type") == "chapter":
             sub = next((h for h in heads if h.get("type") == "sub"), None)
             first = next((h for h in heads if h.get("type") is None), None)
+            if self.layer == "reg" and sub is None and first is not None:
+                return [f"<h3>{self.text(first)}</h3>"]     # a single plain head
             if self.layer == "reg":
                 t = self.text(sub).rstrip(".") if sub is not None else ""
                 return [f"<h3>{div.get('n')}. {t}</h3>"]
@@ -402,6 +425,7 @@ def divisions(root, r, cfg=None):
     each file of the book's LAYOUT (cfg: the book's editorial.py settings)."""
     files = layout.book_layout(root, cfg or {})
     r.enum = (cfg or {}).get("TYPST_ENUM", "I.")
+    r.quote_block = (cfg or {}).get("QUOTE_BLOCK", False)
     if files is not None:
         r.levels, r.run_in = layout.div_levels(cfg)
         for f in files:

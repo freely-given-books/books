@@ -49,6 +49,7 @@ import tempfile
 from pathlib import Path
 
 import packages
+import sources
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent.parent
@@ -58,7 +59,8 @@ PY = sys.executable
 # -- finding the book --------------------------------------------------------
 
 def books():
-    return sorted(p.parent.parent for p in REPO.glob("books/*/*/source/*.tcp.xml"))
+    return sorted({p.parent.parent for pat in sources.PATTERNS
+                   for p in REPO.glob(f"books/*/*/source/{pat}")})
 
 
 def find_book(name):
@@ -82,7 +84,7 @@ class Book:
     def __init__(self, path):
         self.dir = path
         self.src = path / "source"
-        self.tcp = next(self.src.glob("*.tcp.xml"))
+        self.tcp = sources.find(self.src)          # the TCP or ThML source
         self.tei = next(self.src.glob("*.tei.xml"), self.src / (path.name + ".tei.xml"))
         self.chapters = path / "chapters" / "typ"
         self.report = self.src / "review-report.md"
@@ -368,8 +370,8 @@ def incompatible(path):
     """Why a book folder cannot be built by the TEI pipeline ([] if it can)."""
     src = path / "source"
     why = []
-    if not any(src.glob("*.tcp.xml")):
-        why.append("no source/*.tcp.xml")
+    if sources.find(src) is None:
+        why.append("no source/*.tcp.xml or *.thml.xml")
     if not any(src.glob("*.tei.xml")):
         why.append("no enriched TEI (source/*.tei.xml)")
     ed = src / "editorial.py"

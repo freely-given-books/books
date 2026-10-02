@@ -259,8 +259,9 @@ def parse_review(text, inline_headings=False, titled=True):
             r.headings.append(" ".join(long_.split()))
             r.short.append(" ".join(short.split()) if short is not None else None)
             continue
-        if st.startswith("#quote["):
-            inner, _ = _bracket_arg(st, len("#quote"))
+        if st.startswith(("#quote[", "#quote()[")):
+            inner, _ = _bracket_arg(st, len("#quote()") if st.startswith("#quote()[")
+                                    else len("#quote"))
             r.body.append((">", "m", False))
             _scan_block(r, inner)
             continue

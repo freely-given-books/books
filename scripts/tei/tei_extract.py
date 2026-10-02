@@ -32,6 +32,8 @@ from pathlib import Path
 
 from lxml import etree
 
+import sources
+
 import layout
 
 NS = "http://www.tei-c.org/ns/1.0"
@@ -333,6 +335,8 @@ def div_blocks(r, div, level=2):
             lines += trailer_lines(r, c)
         elif n == "epigraph":
             lines += epigraph_lines(r, c)
+        elif n == "quote":
+            lines += quote_lines(r, c)
         elif n == "div" and getattr(r, "levels", None) is not None:
             lines += div_lines(r, c, r.levels.get(c.get("type"), level + 1))
         elif n == "div" or (n == "q" and c.find(T + "p") is not None):
@@ -465,9 +469,27 @@ def add_block(r, lines, c, t):
     if not t:
         return
     if r.layer == "reg" and c.get("prev") and len(lines) >= 2 and lines[-1] == "":
-        lines[-2] += " " + t
+        if lines[-2].startswith("#quote[") and lines[-2].endswith("]"):
+            lines[-2] = lines[-2][:-1] + " " + t + "]"    # runs on inside the quotation
+        else:
+            lines[-2] += " " + t
     else:
         lines += [t, ""]
+
+
+def quote_lines(r, q):
+    """A quotation block of the source (a CCEL blockquote or verse), in both
+    layers as #quote[...]: its paragraphs, or its verse lines one to a line."""
+    parts = []
+    for c in q:
+        if not isinstance(c.tag, str):
+            continue
+        if local(c) == "lg":
+            parts += [r.para(l) for l in c if isinstance(l.tag, str) and local(l) == "l"]
+        else:
+            parts.append(r.para(c))
+    text = "\n".join(x for x in parts if x)
+    return [f"#quote[{text}]", ""] if text else []
 
 
 def trailer_lines(r, c):
@@ -513,6 +535,12 @@ def heading_lines(r, div):
     if div.get("type") == "chapter":
         sub = next((h for h in heads if h.get("type") == "sub"), None)
         first = next((h for h in heads if h.get("type") is None), None)
+        if r.layer == "reg" and sub is None and first is not None:
+            # a single plain head (a CCEL chapter): it is the title, unless
+            # the edition retitled it
+            t = collapse(r.inline(ed if ed is not None else first)).strip()
+            return [tpl.format(n=div.get("n"), title=t, short=t) if tpl
+                    else f"== {t}", ""]
         if r.layer == "reg":
             t = collapse(r.inline(sub)).strip().rstrip(".") if sub is not None else ""
             return [f"== {div.get('n')}. {t}", ""]
@@ -558,7 +586,7 @@ def main():
     ap.add_argument("--show-gaps", action="store_true")
     a = ap.parse_args()
     r = R(a.layer, a.expand, a.mark_supplied, a.only_auto, a.show_gaps)
-    root = etree.parse(a.tei).getroot()
+    root = sources.load(a.tei).getroot()
     r.index(root)
     r.settings = book_settings(a.tei)
     pre = [r.settings["TYPST_PREAMBLE"], ""] if "TYPST_PREAMBLE" in r.settings else []

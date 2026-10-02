@@ -17,6 +17,8 @@ __pycache__/
 
 # Built PDFs and EPUBs, for books whose builds are reproducible from the
 # repository (./fgb pdf / epub). Add a book's folder here when it moves.
+books/charles-spurgeon/all-of-grace/*.pdf
+books/charles-spurgeon/all-of-grace/*.epub
 books/anonymous/the-anatomy-of-simon-magus/*.pdf
 books/anonymous/the-anatomy-of-simon-magus/*.epub
 books/william-perkins/christian-economy/*.pdf
