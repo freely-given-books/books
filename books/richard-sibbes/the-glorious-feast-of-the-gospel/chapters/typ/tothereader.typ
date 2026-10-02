@@ -39,7 +39,7 @@ precious memory, are published. Wherein thou art presented.
   that is provided. Every guest here hath Asher’s portion, 'royal dainties
   and bread of fatness,' Genesis 49:20. Here is all excellent best wine, 'wine
   upon the lees well refined,' Isaiah 25:6. Here is 'fat things,' yea, 'fat
-  things full of marrow,' the 'hidden manna,' Revelation 2:17, the 'water of life,' Revelation 22:17, and
+  things full of marrow.' Here is the 'hidden manna,' Revelation 2:17, the 'water of life,' Revelation 22:17, and
   the fruit of 'the tree of life which is in the midst of the paradise of God,'
   Genesis 2:9. All that is at this feast is of the best, yea, the best of the best.
   Here is variety and plenty too; here is 'bread enough and to spare,' Luke 15:17.

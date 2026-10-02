@@ -193,7 +193,7 @@ appointed, then it were too short; if longer, too long. 'My times,' saith David,
 never be out; if in our own, we would never enter; if in our friends', their
 goodwill would be more than their ability. 'But my times;'—he saith not, 'my
 time,' but—my times are in thy hands that is, my times of trouble and times
-of waiting. And it is well that they be in God’s hands, for he hath a day, and a
+of waiting. And it is well they be in God’s hands, for he hath a day, and a
 certain day, and a fit day to answer the waiting of all his people.
 
 And when that day is come, you see how their hearts are enlarged, they
@@ -453,7 +453,7 @@ rejoice in God our salvation.
   offended with Christ, or with religion. Be not offended, saith Justin, with the
   parvity of religion. Every thing to the eyes of the world is little in religion. A
   Christian is a despised person, and the church, the meanest part of the world,
-  in regard to outward glory. But,
+  in regard of outward glory. But,
 
 + Consider with the littleness, and baseness, and despisedness of the
   church, the glory to come. Time will come when we shall rejoice, and not

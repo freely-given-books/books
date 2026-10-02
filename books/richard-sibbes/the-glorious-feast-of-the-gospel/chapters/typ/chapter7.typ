@@ -98,7 +98,7 @@ above God? It is a shameless, ridiculous impudency of men that will take
 upon them to be judges of Scripture, as if man would get upon the throne,
 and as a judge there judge. The Scriptures must judge all ere long, yea, that
 great antichrist. Now an ignorant man, a simple man, that perhaps never read
-Scriptures, must judge of all controversies, yea, that that is judge of all and of
+Scriptures, must judge of all controversies, yea, that that is the judge of all and of
 himself, the word, which is from the very mouth of God.
 
 Quest. 3. You will ask me, How shall I know it is the word of God if the

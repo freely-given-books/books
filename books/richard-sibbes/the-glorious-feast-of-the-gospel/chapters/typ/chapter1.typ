@@ -46,7 +46,7 @@ degrees of perfection. We have grace, and the means of grace; the ordinances
 of Christ, and a testimony of everlasting glory 'In this mountain will the Lord
 of hosts make a feast.'
 
-In these words ye have set down a glorious and a royal feast; and the
+In these words ye have set down a glorious and royal feast; and the
 place where this feast is to be kept is 'Mount Zion;' the feast-maker is 'the
 Lord of Hosts;' the parties invited, are 'all people;' the issues of it, and the
 provision for the feast, are 'fat things,' and 'wine' of the best; a feast of the
@@ -65,8 +65,7 @@ mountain.' For as mountains are raised high above the earth, so the church
 of God is raised in excellency and dignity above all the sorts of mankind.
 
 Obs. 1. As much as men above beasts, so much is the church raised
-above all men. This mountain is above all mountains. The 'mountain of the
-Lord' is above all mountains whatsoever. 'Thou, O mountain, shalt stand
+above all men. This mountain is above all mountains. The 'mountain of the Lord' is above all other mountains whatsoever. 'Thou, O mountain, shalt stand
 immoveable,' when all other mountains shall smoke, if they are but touched.
 This is the mountain of mountains. The church of God is most excellent in
 glory and dignity, as you may see in the latter end of the former chapter, how
@@ -82,7 +81,7 @@ power and truth of God. Mountains of brass and iron are not so firm as this
 mountain. For what sustains the church but the word of God? And being
 built upon his word and truth, it may very well be called a mountain, for it
 shall be as mount Zion, which shall never be removed, Psalm 125:1. It may be
-moved, but never removed. Thus, in regard to the firmness and stability
+moved, but never removed. Thus, in regard of the firmness and stability
 thereof, it may rightly be termed a mountain.
 
 Obs. 2. Again, we may here speak in some sort of the visibility of the
@@ -92,7 +91,7 @@ a mount; so saith the Scripture.
 
 I answer, Firstly, We confess in some sort their church to be a mount
 (though not this mount), for Babylon is built on seven hills; but if this prove
-her a church, it is an antichristian church. Secondly, That the Catholic
+her a church, it is the antichristian church. Secondly, That the Catholic
 Protestantial church had always a being, though sometimes invisible. The
 apostle, writing to the Romans, exhorts them 'not to be high-minded, but
 fear; for, saith he, 'if God hath broken off the natural branches, perhaps he
@@ -162,7 +161,7 @@ the greatness of his majesty known amongst the children of men.
 ]
 
 Those that are invited to this glorious feast are 'all people.' None
-excepted, none excluded, that will come to Christ! Some of all sorts, of all
+excepted, none excluded, that will come in to Christ! Some of all sorts, of all
 nations, of all languages! This hath relation to the time of the gospel. The
 church at first had its being in particular families, but afterwards more
 enlarged. The church at the first was of the daughters of men, and the sons
@@ -194,8 +193,7 @@ promised, a spiritual feast. The special graces and favours of God are
 compared to a feast made up of the best things, full of all varieties and
 excellencies, and the chief dish that is all in all, is Christ, and all the gracious
 benefits we by promise can in any wise expect from him. All other favours
-and blessings, whatsoever they are, are but Christ dished out, as I may speak,
-in several offices and attributes. He is the original of comfort, the principle of
+and blessings, whatsoever they are, are but Christ dished out, as I may so speak, in several offices and attributes. He is the original of comfort, the principle of
 grace and holiness. All is included in Christ. Ask of him and ye shall obtain,
 even the forgiveness of your sins, peace of conscience, and communion of
 saints. Ask of Christ, as of one invested with all privileges for the good of
@@ -247,7 +245,7 @@ be strong. He will refresh us. He is the best of meats. He is marrow. So, are
 our spirits faint? He is wine. Thus we have in Christ to supply all our wants.
 He is variety.
 
-There is a plant among the Indians called by the name of coquus(cocoa); the
+There is a plant among the Indians called by the name of coquus; the
 fruit thereof serveth for meat and drink, to comfort and refresh the body. It
 yieldeth that whereof the people make apparel to clothe themselves withal,
 and also that which is physical, very good against the distempers of the body.
@@ -273,10 +271,9 @@ As there is an all-sufficiency in God, so in Christ, who by the sacrificing of
 himself was able to give satisfaction to divine justice. Therefore saith he, 'My
 flesh is meat indeed, and my blood is drink indeed,' John 6:55; that is,
 spiritually to the soul he is food indeed, and can satisfy God’s justice. If we
-consider him as God alone, he is a 'consuming fire,' Hebrews 12:29; or as a man
-alone, he can do nothing; but considered as God-man, he is meat indeed, and
+consider him as God alone, he is a 'consuming fire,' Hebrews 12:29; or as man alone, he can do nothing; but considered as God-man, he is meat indeed, and
 drink indeed. And now the soul is content with that which divine justice is
-contented withal. Though our conscience be large, yet God is larger and
+contented withal. Though our consciences be large, yet God is larger and
 above our consciences. Therefore, as there is variety of excellency, so is there
 sufficiency and fulness in Christ. What he did, he did to the full. He is a
 Saviour, and he filleth up that name to the full. His pardon for sin is a full
@@ -293,8 +290,7 @@ the best and chiefest dish in this feast. The more we partake of the sweetness
 of Christ, the more we love one another. Christ by his Spirit so works in the
 hearts of the children of men, that, bring a thousand together of a thousand
 several nations, and within a little while you shall have them all acquainted
-one with another. If they be good, there is agreement of the spirit and
-sympathy between them. There is a kindred in Christ. He is the true Isaac.
+one with another. If they be good, there is agreement of the spirit, and a sympathy between them. There is a kindred in Christ. He is the true Isaac.
 The death of Christ and the blood of Christ is the ground of all union and
 joy and comfort whatsoever. The blood of Christ sprinkled upon the
 conscience will procure that peace of conscience that shall be a continual
@@ -337,7 +333,7 @@ Sixth. This was signified in old time by the Jews.
 + Again, manna was a type of Christ. It came from heaven to feed the
   hungry bodies of the Israelites in the wilderness. Even so came Christ, sent
   from God the Father, to be the eternal food and upholder of the souls and
-  bodies of every one of us. Manna was white and sweet; so was Christ, white
+  bodies of every one of us. Manna was white and sweet; so is Christ, white
   in righteousness and holiness, and also sweet to delight the soul. Manna fell
   upon the tents in the night; and Christ came when darkness was spread over
   all the world. God gave manna freely from heaven; so Christ was a free gift,
@@ -383,7 +379,7 @@ Sixth. This was signified in old time by the Jews.
   rod of Moses, presently water gushed out in abundance, which preserved life
   to the Israelites; so Christ, the rock of our salvation, the strength of his
   church, the rock and fortress of all his saints, when his precious side was
-  gored with the bloody lance upon the cross, the blood gushed out, and in
+  gored with the bloody lance upon the cross, that the blood gushed out, and in
   such a manner and such abundance, that by the shedding thereof our souls
   are preserved alive. He is both manna and the rock of water. Manna had all
   in it, so had the rock; and all necessities are plentifully supplied by Christ.

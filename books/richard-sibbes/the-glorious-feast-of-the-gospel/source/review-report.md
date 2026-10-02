@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2285 |
-| case | 1759 |
-| spelling | 1699 |
-| emendation | 836 |
+| punctuation | 2284 |
+| case | 1762 |
+| spelling | 1690 |
+| emendation | 804 |
 | italic | 583 |
 | note | 385 |
 | spacing | 206 |
@@ -120,7 +120,7 @@
 - [tothereader.typ] refined → refined,' Isaiah 25:6
 - [tothereader.typ] Here's → Here is
 - [tothereader.typ] fat → , 'fat
-- [tothereader.typ] Here's → '
+- [tothereader.typ] Here's → ' Here is
 - [tothereader.typ] hidden Manna → 'hidden manna,' Revelation 2:17
 - [tothereader.typ] life → life,' Revelation 22:17
 - [tothereader.typ] God → God,' Genesis 2:9
@@ -166,18 +166,14 @@
 - [chapter1.typ] & c → '
 - [chapter1.typ] earth → earth,' 2 Peter 3:13,
 - [chapter1.typ] ; nay → . Nay,
-- [chapter1.typ] and → and a
 - [chapter1.typ] Syon → Zion
 - [chapter1.typ] Mount Syon , → 'mount Zion;'
 - [chapter1.typ] man → mankind.
 - [chapter1.typ] - kind ; → Obs. 1.
-- [chapter1.typ] other Mountains → mountains
 - [chapter1.typ] Syon → Zion
 - [chapter1.typ] ; it → , Psalm 125:1. It
-- [chapter1.typ] of → to
 - [chapter1.typ] Again → Obs. 2. Again
 - [chapter1.typ] 1 → Firstly
-- [chapter1.typ] the → an
 - [chapter1.typ] fear → fear; for
 - [chapter1.typ] for → 
 - [chapter1.typ] also → also,' Romans 11:20, 21
@@ -191,28 +187,23 @@
 - [chapter1.typ] ; nay → . Nay,
 - [chapter1.typ] Why → ' Why
 - [chapter1.typ] , none → .' None
-- [chapter1.typ] in → 
 - [chapter1.typ] Act → '
 - [chapter1.typ] , it → .' It
 - [chapter1.typ] Church injoyes → church, enjoys
 - [chapter1.typ] Church , → church
-- [chapter1.typ] so → 
 - [chapter1.typ] it self , he → itself. He
 - [chapter1.typ] ; justification , → . Justification
 - [chapter1.typ] ; take any thing → . Take anything
 - [chapter1.typ] to → ' 'to
 - [chapter1.typ] Again → Second. Again
 - [chapter1.typ] ; so → . So,
-- [chapter1.typ] Coquus , → coquus(cocoa);
 - [chapter1.typ] every thing → everything
 - [chapter1.typ] Again → Third. Again
 - [chapter1.typ] truth → truth,' John 1:14
 - [chapter1.typ] Ther's → There is
 - [chapter1.typ] God → God,' 1 Peter 5:2
 - [chapter1.typ] fire → fire,' Hebrews 12:29
-- [chapter1.typ] as → as a
 - [chapter1.typ] A → Fourth. A
-- [chapter1.typ] a → 
 - [chapter1.typ] be → he
 - [chapter1.typ] our selves → ourselves
 - [chapter1.typ] us → us; therefore
@@ -222,7 +213,6 @@
 - [chapter1.typ] Again → Fifth. Again
 - [chapter1.typ] linen → linen,' Revelation 19:8
 - [chapter1.typ] This → Sixth. This
-- [chapter1.typ] is → was
 - [chapter1.typ] what → , What
 - [chapter1.typ] known → known,' 1 Corinthians 13:12
 - [chapter1.typ] dependencies , → dependences
@@ -234,7 +224,6 @@
 - [chapter1.typ] but Gods peculiar → 
 - [chapter1.typ] ; oh → . Oh!
 - [chapter1.typ] Syon → Zion
-- [chapter1.typ] that → 
 - [chapter1.typ] Rev . → Revelation
 - [chapter1.typ] . When → :6, 'When
 - [chapter1.typ] fed → fed, 1 Kings 17:4, 6
@@ -261,7 +250,6 @@
 - [chapter2.typ] our selves → ourselves
 - [chapter2.typ] Prosperity , → prosperity
 - [chapter2.typ] me → me,' Philip 4:12
-- [chapter2.typ] goings → goings so,
 - [chapter2.typ] Christianity → Christianity. Therefore
 - [chapter2.typ] therefore → 
 - [chapter2.typ] Again → (4.) Again
@@ -299,7 +287,6 @@
 - [chapter2.typ] him → him. 'Rejoice
 - [chapter2.typ] Rejoyce → 
 - [chapter2.typ] wall → wall, Daniel 5:24
-- [chapter2.typ] at → in
 - [chapter2.typ] in to → into
 - [chapter2.typ] Feast , → feast
 - [chapter2.typ] I → Isaiah 55:1. Aye,
@@ -337,8 +324,6 @@
 - [chapter3.typ] Ignorance , → ignorance
 - [chapter3.typ] life time , that → lifetime. That
 - [chapter3.typ] World Death → world, death,
-- [chapter3.typ] our → 
-- [chapter3.typ] the → 
 - [chapter3.typ] I → Aye,
 - [chapter3.typ] is → are
 - [chapter3.typ] Religion , → religion
@@ -352,7 +337,6 @@
 - [chapter3.typ] ; they → .' They
 - [chapter3.typ] School - master → schoolmaster
 - [chapter3.typ] Ceremonial Law , → ceremonial law
-- [chapter3.typ] in → 
 - [chapter3.typ] it self ; → itself.
 - [chapter3.typ] Again → (2.) Again
 - [chapter3.typ] Soul , → soul
@@ -369,10 +353,8 @@
 - [chapter3.typ] Again → Third. Again
 - [chapter3.typ] but → . But
 - [chapter3.typ] can → 
-- [chapter3.typ] them → them the
 - [chapter3.typ] ; I → . Aye,
 - [chapter3.typ] they → . They
-- [chapter3.typ] not → not the
 - [chapter3.typ] it self ; no → itself. No
 - [chapter3.typ] darkness it self → 'darkness itself,' 2 Corinthians 6:14
 - [chapter3.typ] this → this veil.
@@ -408,10 +390,8 @@
 - [chapter3.typ] I → Aye,
 - [chapter3.typ] of Gods Children → to God’s children,
 - [chapter3.typ] & c → ' Philip 4:7
-- [chapter3.typ] are → is
 - [chapter3.typ] it self → itself
 - [chapter3.typ] inwarpt → enwrapped
-- [chapter3.typ] us → 
 - [chapter3.typ] its → it is
 - [chapter3.typ] heart → heart,' 2 Corinthians 3:3
 - [chapter3.typ] be → he
@@ -517,8 +497,6 @@
 - [chapter4.typ] yea → 
 - [chapter4.typ] overmuch → over much
 - [chapter4.typ] imployments , → employments
-- [chapter4.typ] on → of
-- [chapter4.typ] of → on
 - [chapter4.typ] vain - glory → vainglory
 - [chapter4.typ] , dyes → dies
 - [chapter4.typ] before hand → beforehand
@@ -534,8 +512,6 @@
 - [chapter4.typ] death → death,' 1 Corinthians 3
 - [chapter4.typ] blaspheme → blaspheme,' 1 Timothy 1
 - [chapter4.typ] yet → 20. Yet
-- [chapter4.typ] we → we fear
-- [chapter4.typ] fear → 
 - [chapter4.typ] any thing → anything
 - [chapter4.typ] life → life,' Job 2:4
 - [chapter4.typ] body → body,' Mat 10
@@ -574,7 +550,6 @@
 - [chapter5.typ] Oh → 'O
 - [chapter5.typ] So → ' Acts 10:4; so,
 - [chapter5.typ] David → David, Psalm 119:136
-- [chapter5.typ] a → 
 - [chapter5.typ] Saint → St
 - [chapter5.typ] our selves → ourselves
 - [chapter5.typ] us → its
@@ -692,7 +667,6 @@
 - [chapter6.typ] our selves → ourselves
 - [chapter6.typ] denyall → -
 - [chapter6.typ] you → you,' Mat 5:12,
-- [chapter6.typ] follows , → follow
 - [chapter6.typ] so → so,' 2 Corinthians 5:14
 - [chapter6.typ] my self → myself
 - [chapter6.typ] Ark → ark, 2 Samuel 6:20, 21
@@ -728,7 +702,6 @@
 - [chapter7.typ] it self : it → itself. It
 - [chapter7.typ] it self ▪ → itself.
 - [chapter7.typ] its self : → itself.
-- [chapter7.typ] the Judge → judge
 - [chapter7.typ] You → Quest. 3. You
 - [chapter7.typ] A → Ans. A
 - [chapter7.typ] it self → itself
@@ -813,7 +786,6 @@
 - [chapter8.typ] him → him,' Psalm 145:19
 - [chapter8.typ] seed time → seedtime
 - [chapter8.typ] seed time → seedtime
-- [chapter8.typ] an → in
 - [chapter8.typ] : But → ), but
 - [chapter8.typ] die → die,' 1 Corinthians 15:82
 - [chapter8.typ] to morrow → 'Tomorrow
@@ -822,7 +794,6 @@
 - [chapter8.typ] Mount → mount,' Genesis 22:14
 - [chapter8.typ] Lo → 'Lo! behold
 - [chapter8.typ] behold → 
-- [chapter8.typ] it → him
 - [chapter8.typ] thy self → thyself
 - [chapter8.typ] world → world,' John 14:22
 - [chapter8.typ] Isaiah → 
@@ -832,7 +803,6 @@
 - [chapter8.typ] our selves → ourselves
 - [chapter8.typ] you → you,' Mat 6:33
 - [chapter8.typ] not → not,' 1 Corinthians 7
-- [chapter8.typ] all → all our
 - [chapter9.typ] ISAIAH 25 . 9 . → 
 - [chapter9.typ] & c . → ';
 - [chapter9.typ] quickly → quickly,' Revelation 22:20
@@ -857,7 +827,6 @@
 - [chapter9.typ] , he → .' He
 - [chapter9.typ] hands → hands,' Psalm 31:15
 - [chapter9.typ] good will → goodwill
-- [chapter9.typ] well → well that
 - [chapter9.typ] , This → .' 'This
 - [chapter9.typ] then it self → than itself
 - [chapter9.typ] it → itself
@@ -906,7 +875,6 @@
 - [chapter9.typ] of → of,' 1 Corinthians 2:9
 - [chapter9.typ] our selves → ourselves
 - [chapter9.typ] stiring , → stirring
-- [chapter9.typ] of → to
 - [chapter9.typ] glory → glory. But
 - [chapter9.typ] but consider → Consider
 - [chapter9.typ] any thing → anything
@@ -1011,7 +979,6 @@
 - [tothereader.typ] , → 
 - [tothereader.typ] , → 
 - [tothereader.typ] , → ,'
-- [tothereader.typ] . → ,
 - [tothereader.typ] , → ;
 - [tothereader.typ] : → :17.
 - [tothereader.typ] , → ;
@@ -1227,6 +1194,7 @@
 - [chapter1.typ] , → ?
 - [chapter1.typ] : → .
 - [chapter1.typ] , → .
+- [chapter1.typ] , → ;
 - [chapter1.typ] : → .
 - [chapter1.typ] ; → ,
 - [chapter1.typ] : → .
@@ -1264,7 +1232,6 @@
 - [chapter1.typ] , → 
 - [chapter1.typ] ; → .
 - [chapter1.typ] ; → .
-- [chapter1.typ] , → 
 - [chapter1.typ] , → .
 - [chapter1.typ] ; → .
 - [chapter1.typ] , → 
@@ -1460,7 +1427,6 @@
 - [chapter2.typ] , → 
 - [chapter2.typ] ; → ,
 - [chapter2.typ] , → ;
-- [chapter2.typ] , → , [they]
 - [chapter2.typ] : → .
 - [chapter2.typ] . → Colossians
 - [chapter2.typ] . → :
@@ -2535,6 +2501,7 @@
 - [chapter6.typ] , → 
 - [chapter6.typ] , → 
 - [chapter6.typ] , → ;
+- [chapter6.typ] , → 
 - [chapter6.typ] ; → .
 - [chapter6.typ] : → .
 - [chapter6.typ] , → 
@@ -3340,6 +3307,7 @@
 - It → it (×5)
 - Key → key (×5)
 - Kingdom → kingdom (×5)
+- Mountains → mountains (×5)
 - Nations → nations (×5)
 - Ordinance → ordinance (×5)
 - Sacraments → sacraments (×5)
@@ -3357,11 +3325,11 @@
 - Faith → faith (×4)
 - Famine → famine (×4)
 - Hell → hell (×4)
+- Judge → judge (×4)
 - Kings → kings (×4)
 - Majesty → majesty (×4)
 - Marrow → marrow (×4)
 - Moon → moon (×4)
-- Mountains → mountains (×4)
 - Ordinances → ordinances (×4)
 - Psalmist → psalmist (×4)
 - Revelation → revelation (×4)
@@ -3382,7 +3350,6 @@
 - Crown → crown (×3)
 - His → his (×3)
 - If → if (×3)
-- Judge → judge (×3)
 - Lamb → lamb (×3)
 - Laws → laws (×3)
 - Let → let (×3)
@@ -3512,6 +3479,7 @@
 - Continuance → continuance
 - Contract → contract
 - Controversies → controversies
+- Coquus → coquus
 - Cork → cork
 - Counsels → counsels
 - Country → country
@@ -4112,7 +4080,6 @@
 - Woe → 'Woe
 - Yea → Yea,
 - a → a-
-- abound → abounding
 - aboundant → abundant
 - admirare → admirari
 - admiration → admiration,
@@ -4183,12 +4150,10 @@
 - common → common-
 - condiscends → condescends
 - consceince → conscience
-- consciences → conscience
 - consolation → consolation.
 - constant → constant,
 - consuming → 'consuming
 - contentment → contentment,
-- contentment → contentments
 - corruptions → corruptions,
 - countenance → countenance'
 - course → coarse
@@ -4205,7 +4170,6 @@
 - defer → defer,
 - delights → delights.
 - dependance → dependence
-- depth → depths
 - descerner → discerner
 - destroyed → 'destroyed
 - devillish → devilish
@@ -4274,7 +4238,6 @@
 - full → full;
 - furnish'd → furnished
 - gather'd → gathered
-- get → got
 - ghost → ghost,
 - glorious → glorious,
 - gone → gone!
@@ -4485,7 +4448,6 @@
 - sweetness → sweetness,
 - swine → 'swine
 - take → 'take
-- takes → take
 - takes → takes,
 - tarry → tarry,
 - tasting → 'tasting
@@ -4499,7 +4461,6 @@
 - then → 'Then
 - therefore → 'therefore
 - therefore → there
-- these → those
 - they → 'They
 - think → think,
 - this → 'This
@@ -4560,12 +4521,10 @@
 - wine → 'wine'
 - wipe → 'wipe
 - wise → wise,
-- wit → wits
 - with → with,
 - woefully → wofully
 - woful → woeful
 - woman → 'Woman,
-- woman → women
 - wonder → wonder,
 - wonderful → 'Wonderful
 - wondred → wondered

@@ -297,7 +297,7 @@ strength and faith of his victory. Join these three together.
 He that hath been our Saviour in life, will be so to death, and not
 exclusively, then to leave us, but to death, and in death, for ever; yea, most
 ready to help us in our last conflict. Indeed, to wicked men death is terrible,
-for he sendeth the devil to fetch them out of the world; but for those that be
+for he sendeth the devil to fetch them out of the world; but for these that be
 his, he sendeth his angels to fetch them, and he helps them in their combat.
 We must not therefore fear over much. There is a natural fear of death.
 Death wrought upon Christ himself, God-man; not only death, but such a
@@ -307,7 +307,7 @@ terrible; and therefore he saith, 'If it be possible, let this cup pass from me
 that was nature, and without it he had not been true man. But that I say is,
 that grace may be above nature. Death is a time of darkness. It strips us of
 earthly comforts, friends, callings, employments but then comes the eye of
-faith to lay hold of the victory on Christ in time to come, when death shall be
+faith to lay hold on the victory of Christ in time to come, when death shall be
 only swallowed up in victory; and then the glorious state to come, to which
 death bringeth us. So that here faith must be above sense, and grace above
 nature, and therefore I beseech you, let us labour for it.
@@ -335,7 +335,7 @@ away men’s wit, and faith, and grace, and all, so much as to slight death, and
 repentance, as if it were so easy. Now, beloved, death is a terrible thing. It
 hath a sting, and thou shalt know it. If thou hast not grace to feel the sting of
 it whilst thou livest, when thou diest the sting will revive; then thy conscience
-shall awake in hell. Drunkenness and jollity take away sense of sin; but sin
+shall awake in hell. Drunkenness and jollity takes away sense of sin; but sin
 will revive, and conscience will revive. God hath not put it into us for
 nought. Death is terrible, if not disarmed beforehand. And if thou go about
 to die without disarming it before, it will not be outfaced. It is not an enemy
@@ -384,7 +384,7 @@ the humbling of their bodies, they be taught not to blaspheme; so that not
 only death, but sin, and he that brought sin into the world, the devil, are
 become our friends.
 
-This being so, it may be for special comfort that we fear not the king of
+This being so, it may be for special comfort that we not fear the king of
 fears. The devil hath great advantage by this affection of fear, when it is set
 upon this object death. Overcome death, and all troubles are overcome. Who
 will fear anything that hath given up himself to God? 'Skin for skin, and all
@@ -432,7 +432,7 @@ Let us labour then to be comfortable: this use the apostle makes of it;
 and fruitful in our places, upon consideration of the victory we have by
 Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ’s victory,
 as the cause of our victory, because he is the first fruit that sanctifieth all the
-rest. 'Finally, my brethren, be constant, immoveable, always abounding in the
+rest. 'Finally, my brethren, be constant, immoveable, always abound in the
 works of the Lord, knowing that your labour is not in vain in the Lord.' He
 raiseth that exhortation of fruitfulness and constancy from this very ground
 of the victory Christ hath gotten by death. 'O death, where is thy sting? O

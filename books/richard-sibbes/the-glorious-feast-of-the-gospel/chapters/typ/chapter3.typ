@@ -67,11 +67,10 @@ in fear all our lifetime. That that swalloweth up all kings and monarchs, the
 terror of the world, death, shall be and is swallowed up by our head, Christ,
 and shall be swallowed up by us in victory. In the mean time we are subject
 to many sorrows which cause tears; for tears are but drops that issue from
-that cloud of sorrow; and sorrow we have always in this world, either from
-sins or miseries, or sympathy in tears of that kind. Well, the time will come
+that cloud of sorrow; and sorrow we have always in this world, either from our sins or miseries, or sympathy in tears of that kind. Well, the time will come
 that tears shall be wiped away, and the cause of tears; all sorrow for our own
 sins, for our own misery, and for sympathizing with the times wherein we
-live. Our time shall be hereafter at the day of resurrection, when all tears shall
+live. Our time shall be hereafter at the day of the resurrection, when all tears shall
 be wiped from our eyes. God will perform that office of a mother to wipe
 the children’s eyes, or of a nurse to take away all cause of grief whatsoever,
 else it cannot be a perfect feast.
@@ -122,13 +121,13 @@ shall be taken away.
 (1.) The veil of things themselves is when they be hidden altogether, or
 in part; when we know part, and are ignorant of part. And this veil upon the
 things ariseth from the weak apprehension of them; when they are not
-represented in clear expressions, but in obscurity of words or types; when we
+represented in clear expressions, but in obscurity of words or in types; when we
 see them only in types or obscure phrases, which hideth sometime the sight
 of the thing itself. The manner of speech sometimes casteth a veil on things;
 for our Saviour Christ spake in parables, which were like the cloud, dark on
 the one side, light on the other, dark towards the Egyptians, light towards the
 Israelites. So some expressions of Scripture have a light side, that only the
-godly see, and a dark side, that other men, good wits, as natural men, see not.
+godly see, and a dark side, that other men, good wit, as natural men, see not.
 
 (2.) Again, there is a veil upon the soul and upon the sight. If the things
 be veiled, or the sight veiled, there is no sight. Now the soul is veiled when
@@ -256,8 +255,7 @@ influence. It is not experimental. As a blind man can talk of colours, if he be
 a scholar, and describe them better than he that hath his eyes, he being not a
 scholar. But he that hath his eyes can judge of colours a great deal better.
 Oftentimes, by book, a scholar can tell you foreign countries better than he
-that hath travelled, yet the traveller that hath been there can tell them the
-more distinctly. So he that is experienced in that kind, though a stranger, can
+that hath travelled, yet the traveller that hath been there can tell them more distinctly. So he that is experienced in that kind, though a stranger, can
 measure another man’s ground better than himself. He can tell you here is so
 many acres. But he that possesseth them knows the goodness of them, the
 worth of them, and improveth them to his own good. And so it is with
@@ -300,7 +298,7 @@ ignorance, at least unbelief, at that time upon the soul. All sin supposeth erro
 
 And this should make us hate sin the more. Whensoever we sin,
 specially against our conscience, there is atheism in the soul at that time, and
-there is unbelief. We believe not the truth itself. No sinner but calleth truth
+there is unbelief. We believe not truth itself. No sinner but calleth truth
 into question. When he sinneth, he denieth it or questioneth it; and therefore
 there is a veil on every man naturally over his heart by ignorance and
 unbelief. The truths themselves are clear. God is clear, and the gospel is light,
@@ -446,7 +444,7 @@ takes away the veil, he makes a feast. What a wonderful satisfaction hath the
 soul, when the veil is taken off, to see God in Christ reconciled! to see sin
 pardoned! to see the beginnings of grace, which shall be finished and
 accomplished in glory! to discern that 'peace which passeth understanding,'
-Philip 4:7. What a marvellous sweetness is in these things!
+Philip 4:7. What a marvellous sweetness are in these things!
 
 They cannot be revealed to the knowledge spiritually, but there is a feast
 in the soul, wherein the soul doth solace itself; so both these go together.
@@ -464,8 +462,7 @@ that only those that be godly and sanctified have this taken off: while this is,
 there is a spiritual feast, joy, and comfort, and strength; then let us labour to
 have this veil taken off; let us labour to have the eyes of our understandings
 enlightened, to have our hearts subdued to believe; let us take notice of our
-natural condition. We are drowned and enwrapped in darkness, the best of
-all. It is not having knowledge what we are by nature; it is not any knowledge
+natural condition. We are drowned and enwrapped in darkness, the best of us all. It is not having knowledge what we are by nature; it is not any knowledge
 that can bring us to heaven; there must be a revelation, a taking away of the
 veil. How many content themselves with common light of education, and
 traditionary knowledge! So they were bred and catechized, and under such a

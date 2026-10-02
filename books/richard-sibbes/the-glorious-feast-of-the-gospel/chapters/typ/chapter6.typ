@@ -249,7 +249,7 @@ everywhere,' say they to Paul, Acts 28:22. Therefore we had need be wise;
 for if the instruments of Satan, led with his spirit, had not hoped that
 slanders should take, they would never have been so skilful in that trade. But
 they know they shall find some shallow fools that will believe them, without
-searching into the depths of them, and take up persons and things under
+searching into the depth of them, and take up persons and things under
 prejudice. It is enough for them that this is said of them. They have neither
 wit nor judgment, nor so much patience, from following their lusts, as to
 examine them; and that makes them so mad as they are. Calumniare
@@ -309,7 +309,7 @@ men will reproach, they may reproach without a cause.
     reward when men speak evil of you,' Mat 5:12, for a good cause. It is the
     portion of a Christian in this life to do well and suffer ill. Of all, certainly they
     are best, that, out of love to goodness, are carried to goodness, without
-    looking to rewards or disgrace; that follow with a single eye. Labour,
+    looking to rewards or disgrace; that follows with a single eye. Labour,
     therefore, for patience, and not only so, but,
   
   + For courage. For the moon goeth its course, and lets the dog bark.

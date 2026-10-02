@@ -66,8 +66,7 @@ We need to every trade a great deal of knowledge. Then surely the calling of
 Christianity needeth a great deal. A Christian must expect much both in
 prosperity and adversity, as the apostle saith, 'I have learned to want and to
 abound, to be in honour and to be in disgrace, and I can do all things
-through Christ that strengthens me,' Philip 4:12. Now, because there is so
-much goings so, out for the maintenance of Christianity, we must also bring
+through Christ that strengthens me,' Philip 4:12. Now, because there is so much goings out for the maintenance of Christianity, we must also bring
 in much grace, and faith, and love, and holiness, or else we shall never be
 able to uphold this condition. Where there is an exercise of Christianity,
 there will be an appetite to heaven; that is our best calling. For when that we
@@ -192,7 +191,7 @@ he pardons sins, he sanctifieth; where he sanctifieth, he writes his law in thei
 hearts. So that there is a chain of spiritual favours. Where the first link is, all
 the rest follow. Where forgiveness of sin is, there is the Spirit, and that Spirit
 sanctifieth, and comforts, and is an earnest of everlasting life. Therefore, feed
-especially upon the favours of God, and got forgiveness of sins, and then all
+especially upon the favours of God, and get forgiveness of sins, and then all
 the rest of the chain of grace and spiritual life will follow.
 
 Sometimes we stand in need of present grace and comfort, and we are
@@ -225,8 +224,7 @@ this feast.
 
 A man that hath no spiritual joy is drowned for the most part in the
 contentments of the world, drowned in riches and honours; and these are
-like to strong waters immoderately taken, instead of cheering the spirits,
-[they] exhaust and kill them. He that hath the joy of heaven here by faith, is
+like to strong waters immoderately taken, instead of cheering the spirits, exhaust and kill them. He that hath the joy of heaven here by faith, is
 mortified to all other base delights, 'he only mindeth the things above, where
 Christ is,' Colossians 3:1. And therefore the exhortation, or rather command, 'Seek
 the things that are above,' hath this promise in fit method annexed to it, 'and
@@ -246,7 +244,7 @@ things, what use should we make further of them, but labour from hence to
 justify the ways of godliness against our own false and carnal hearts, and
 against the slanderous imputations of the world. When our hearts are ready
 to be false to us, and hanker after the contentments of the world, and are
-ready to say the best contentments that they can enjoy is in the things below;
+ready to say the best contentment that they can enjoy is in the things below;
 let us answer our base and false disputing hearts, that the way’s of wisdom,
 the ways that God directs us to, they only are the ways of pleasure. And
 religion is that that makes the hearts of the children of men joyful; and 'a
@@ -291,7 +289,7 @@ heaven; but take the wicked at the best, he is not a child of God, he is a
 stranger to God, he is as a branch cut off, and as miserable a wretch as ever
 Belshazzar in the midst of his cups, trembling and quaking with fear and
 astonishment, when he saw the writing on the wall, Daniel 5:24. When a
-man apprehends the wrath of God hanging over his head, though he were in
+man apprehends the wrath of God hanging over his head, though he were at
 the greatest feast in the world, and amongst those that make mirth and jollity,
 yet seeing vengeance ready to seize upon him, it cannot but damp all his joy
 and all his carnal pleasures; and therefore only a Christian hath a true title to

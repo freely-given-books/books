@@ -34,8 +34,7 @@ sins, and the misery that followeth them, but the sins and miseries of others.
 'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men break the law of God, whom he loved.
 
 A true natural child takes to heart the disgrace of his father. If we be not
-grieved to see our father disgraced, we are bastards, not sons. They that make
-sport of sin, what are they? Alas! they have not one spark of the spirit of
+grieved to see our father disgraced, we are bastards, not sons. They that make a sport of sin, what are they? Alas! they have not one spark of the spirit of
 adoption. They are not children, who rejoice at that at which they should
 grieve.
 
@@ -268,7 +267,7 @@ When the day of persecution approacheth, this will make us
 comfortable, for our life is a valley of tears; and shall not we go through this
 valley of tears, to this mount where all tears shall be wiped away from all
 eyes? When we be dejected with the loss of any friend, they say as Christ said
-to the women, 'Weep not for me,' Luke 23:28. They be happy, 'and all
+to the woman, 'Weep not for me,' Luke 23:28. They be happy, 'and all
 tears are wiped away from their eyes.' And therefore as it is matter of
 comfort while we live, so ground of comfort when we die. For there is
 occasion of sorrow in death, parting with friends and comforts of this world.
