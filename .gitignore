@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated pages: ebook XHTML, previews, side-by-side reading copies,
+# downloaded web pages. Hand-written pages that feed the EPUB are kept.
+*.html
+*.xhtml
+!ebook-front.html
+!ebook-appendix.html
+
+# Perkins' earlier converter (Gouge's is tracked as provenance)
+books/william-perkins/christian-economy/sources/
