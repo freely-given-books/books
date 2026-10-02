@@ -1,15 +1,11 @@
 # Review decisions carried into the enriched TEI
 
-## Please check
-
-- "thorow" is left as printed (10 times): it is "through" in some places ("strike thorow the very heart") and "thorough" in others ("a thorow dislike"). The old converter made them all "thorough".
-
 | kind | count |
 | --- | --- |
+| spelling | 12 |
 | emendation | 7 |
 | split | 5 |
 | list | 4 |
-| spelling | 3 |
 
 ## split
 
@@ -31,6 +27,8 @@
 
 ## spelling
 
+- thorow → through (×5)
+- thorow → thorough (×4)
 - Craelius → Cornelius
 - bourd → bound
 - ovaght → ought

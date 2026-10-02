@@ -291,7 +291,7 @@ The extent of the Churches subjection to Christ is without any restraint at all,
 
 #emph[They who are of the true Catholic Church will yield universal] #footnote[Doctr.] #emph[obedience to Christ:] they will obey him in all and every of his commandments. #emph[David turned not aside from any thing that] #footnote[1 #emph[Kings] 15. 5.] #emph[the Lord commanded him. Josiah turned to the Lord with all his] #footnote[2 #emph[Kings] 23. 25. #emph[Luke] 1. 6.] #emph[heart according to all the law:] and #emph[Zacharias,] and #emph[Elizabeth, walked in all the commandments of God.] All these were of this Church: and of their mind are all others that are of this Church.
 
-For the spirit of Christ which is in them worketh a thorow #footnote[Reason.] reformation: even as the flesh leadeth a natural man on to every sin, so the spirit of Christ stireth him up to every good duty. In which respect it is said, that #emph[whosoever is borne of God] #footnote[1 #emph[John] 3. 9.] #emph[doth not commit sin.]
+For the spirit of Christ which is in them worketh a thorough #footnote[Reason.] reformation: even as the flesh leadeth a natural man on to every sin, so the spirit of Christ stireth him up to every good duty. In which respect it is said, that #emph[whosoever is borne of God] #footnote[1 #emph[John] 3. 9.] #emph[doth not commit sin.]
 
 #strong[#emph[Object.] The best Saints in all ages have transgressed in many #footnote[#emph[Iam.] 3. 2.] things.]
 

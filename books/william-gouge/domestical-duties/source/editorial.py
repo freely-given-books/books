@@ -91,11 +91,11 @@ SPELLING = {
     "salomons": "Solomon's", "iaakobs": "Jacob's",
 }
 
-REPORT_NOTES = [
-    '"thorow" is left as printed (10 times): it is "through" in some places '
-    '("strike thorow the very heart") and "thorough" in others ("a thorow '
-    'dislike"). The old converter made them all "thorough".',
-]
+# "thorow" (9 times) is left as printed by the machine: it is "through" in
+# some places ("strike thorow the very heart") and "thorough" in others ("a
+# thorow dislike"); the old converter made them all "thorough". Each one is
+# an editor decision in the review (4 thorough, 5 through, 2026-10-01).
+REPORT_NOTES = []
 
 # Illegible gaps: 477 of 478 filled (189 by hand, 288 from the book's own
 # vocabulary), carried over from the earlier converter; see gap_fixes.py.

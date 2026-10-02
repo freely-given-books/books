@@ -2301,7 +2301,8 @@ def write_report(path, log, unresolved):
     from collections import Counter, defaultdict
     kinds = Counter(k for _, k, *_ in log)
     lines = ["# Review decisions carried into the enriched TEI", ""]
-    lines += ["## Please check", ""] + [f"- {n}" for n in REPORT_NOTES] + [""]
+    if REPORT_NOTES:
+        lines += ["## Please check", ""] + [f"- {n}" for n in REPORT_NOTES] + [""]
     lines.append("| kind | count |")
     lines.append("| --- | --- |")
     for k, n in kinds.most_common():

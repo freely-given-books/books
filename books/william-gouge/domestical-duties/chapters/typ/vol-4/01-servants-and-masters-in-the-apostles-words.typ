@@ -12,7 +12,7 @@ The Apostle is somewhat copious in laying forth the duties of servants, and in u
 
 2. Other servants there were whose masters believed the Gospel as well as they: now because the Gospel taught, that #emph[there is neither bond nor free, but all are one in Christ Jesus:] they thought that they ought not to be subject to their master who was their brother in Christ.
 
-These two preposterous and presumptuous conceits doth the Apostle intimate, and expressly meet with in #footnote[1 #emph[Tim.] 6. 1, 2.] another place. And because they had taken too deep rooting in the minds of many servants, the Apostle here in this place laboureth the more earnestly to root them out, and that by a thorow pressing upon their conscience that subjection wherein they are bound to their masters, as masters, whatsoever their disposition were. Hereof more #footnote[Treat. 7. §. 2, 3.] afterwards.
+These two preposterous and presumptuous conceits doth the Apostle intimate, and expressly meet with in #footnote[1 #emph[Tim.] 6. 1, 2.] another place. And because they had taken too deep rooting in the minds of many servants, the Apostle here in this place laboureth the more earnestly to root them out, and that by a thorough pressing upon their conscience that subjection wherein they are bound to their masters, as masters, whatsoever their disposition were. Hereof more #footnote[Treat. 7. §. 2, 3.] afterwards.
 
 Here by the way, note three points.
 
@@ -310,7 +310,7 @@ These two little particles #emph[(even your,] or #emph[your also)] add some emph
 
 That great master, under whom all masters on earth are, is here said to be #emph[in heaven,] the more to commend and set forth his dignity and authority: and to make masters to stand in the more awe of him: To like purpose #emph[David] having set forth God #footnote[#emph[Psal.] 2. 4, 10, 11.] sitting in #emph[the heavens,] infereth this exhortation unto the great Commanders on earth, #emph[Be wise now therefore, ôye Kings, be instructed, ye Judges of the earth: Serve the Lord with fear, and rejoice with trembling.]
 
-#emph[Object.] This placing of God #emph[in heaven,] maketh such as fear not God the more insolent and secure: for they will be ready to think and say, #emph[How doth God know? Can he judge thorow the] #footnote[#emph[Job] 22. 13, 14.] #emph[dark cloud? Thick clouds are a covering to him that he seeth not, and he walketh in the circuit of he aven?]
+#emph[Object.] This placing of God #emph[in heaven,] maketh such as fear not God the more insolent and secure: for they will be ready to think and say, #emph[How doth God know? Can he judge through the] #footnote[#emph[Job] 22. 13, 14.] #emph[dark cloud? Thick clouds are a covering to him that he seeth not, and he walketh in the circuit of he aven?]
 
 #emph[Answ.] 1. The Apostle wrote to Christian masters, who thought better of God then such Atheists did.
 

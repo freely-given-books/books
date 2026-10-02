@@ -97,7 +97,7 @@ Reasonable men herein show themselves more unreasonable then unreasonable beasts
 
 Though not so high, yet too high on this ladder of unnaturalness #footnote[Haters of children for piety.] do they climb, who hate their children, and that (which maketh the sin to be out of measure sinful) for piety and integrity; as many Popish and profane parents, who have children truly religious: and in that respect ought so much the more to be loved.
 
-The extreme in the excess is too much #emph[doting] upon children: #footnote[Doting on children.] as they do who so unmeasurably love them, as they make reckoning of nothing in comparison of children. Even God himself is lightly esteemed, his worship neglected, his word transgressed, all duty to others omitted, their own souls forgotten thorow care of children. Is not this mere apish kindness? For Apes kill their young ones with hugging. This is no love, but plain dotage. But what may be said of those that are so hellishly enamoured with their children as to commit incest or buggery with them?
+The extreme in the excess is too much #emph[doting] upon children: #footnote[Doting on children.] as they do who so unmeasurably love them, as they make reckoning of nothing in comparison of children. Even God himself is lightly esteemed, his worship neglected, his word transgressed, all duty to others omitted, their own souls forgotten through care of children. Is not this mere apish kindness? For Apes kill their young ones with hugging. This is no love, but plain dotage. But what may be said of those that are so hellishly enamoured with their children as to commit incest or buggery with them?
 
 === §. 4. #emph[Of Parents praying for their children.]
 
@@ -355,7 +355,7 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 #strong[12. #emph[Object.] Divers children being nursed by the mother have died one after another.]
 
-#emph[Answ.] Due and thorow search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain even must not be an hindrance to a known duty.
+#emph[Answ.] Due and thorough search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain even must not be an hindrance to a known duty.
 
 Thus the answering of the forenamed objections maketh the point so much the more clear.
 

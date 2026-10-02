@@ -4,7 +4,7 @@
 
 That charge which the master gave to his servants when he was going abroad #emph[(occupy till I come)] showeth that masters #footnote[#emph[Luk.] 19. 13.] must keep their servants exercised and employed about some business or other: which is also implied under this part of a good mistresses commendation, #emph[she giveth a portion to her maidens,] #footnote[#emph[Pro.] 31. 15.] meaning a portion of work. As there is never an idle member in a natural body, but every one is imploied, so should it be in a family.
 
-1. Thus servants being, while they are in subjection, inured to pains, they will be more industrious when they are of themselves: yea they will both more willingly undergo, and more easily go thorow matters which require pains and diligence. #emph[Use maketh perfect.]
+1. Thus servants being, while they are in subjection, inured to pains, they will be more industrious when they are of themselves: yea they will both more willingly undergo, and more easily go through matters which require pains and diligence. #emph[Use maketh perfect.]
 
 2. Thus will masters themselves, and others afterward receive the more profit, and greater benefit by them.
 
