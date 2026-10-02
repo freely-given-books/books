@@ -14,6 +14,10 @@ works from any folder.
   ./fgb check  [BOOK]             full verification (verify.py)
   ./fgb epub   [BOOK]             build the EPUB and run epubcheck
   ./fgb pdf    [BOOK]             compile the print edition(s) with Typst
+  ./fgb build  [BOOK ...]         PDFs (print editions, then covers) and the
+                                  checked EPUB into dist/<author>/<book>/;
+                                  no BOOK = every book on the TEI pipeline.
+                                  --pdf / --epub for one kind, --out DIR
 
 BOOK is any part of the book's folder name ("gouge", "perkins", "simon");
 leave it out when you are inside the book's folder.
@@ -25,6 +29,7 @@ has to remember options:
           "cover": "cover_front.jpg", "css": [...], "before": [...],
           "after": [...], "toc_depth": 4}          # paths from the book folder
   PRINT = ["book.typ"]                             # Typst files to compile
+  COVERS = ["cover.typ"]       # covers, compiled after PRINT (default cover*.typ)
   SIDE_BY_SIDE = {"before": [...], "after": [...],
                   "split": ["vol-1/", ...]}        # one page per prefix
 """
@@ -252,12 +257,11 @@ def cmd_check(a):
     sys.exit(r.returncode)
 
 
-def cmd_epub(a):
-    bk = Book(find_book(a.book))
+def build_epub(bk, outdir):
     e = bk.cfg.get("EPUB")
     if not e:
         sys.exit(f"{bk.name}: no EPUB settings in source/editorial.py (see ./fgb --help)")
-    out = bk.dir / e.get("file", bk.dir.name + ".epub")
+    out = outdir / e.get("file", bk.dir.name + ".epub")
     args = [PY, HERE / "tei_epub.py", bk.tei, out, "--title", e["title"],
             "--author", e["author"]]
     for k in ("front", "cover"):
@@ -275,17 +279,127 @@ def cmd_epub(a):
         print("epubcheck: " + (line or "failed to run"))
         if r.returncode:
             print(r.stdout[-2000:] + r.stderr[-2000:])
-            sys.exit(1)
+            sys.exit(f"{bk.name}: epubcheck failed")
+    else:
+        print("epubcheck: not installed, EPUB not checked")
+    return [out]
+
+
+def build_pdf(bk, outdir, covers=False):
+    files = bk.cfg.get("PRINT") or [bk.dir.name + ".typ"]
+    if covers:
+        files = files + (bk.cfg.get("COVERS") or
+                         sorted(p.name for p in bk.dir.glob("cover*.typ")))
+    outs = []
+    for f in files:
+        src = bk.dir / f
+        out = outdir / Path(f).with_suffix(".pdf").name
+        print(f"typst: {src.relative_to(REPO)}")
+        # --root: covers import the shared design from scripts/
+        run("typst", "compile", "--root", REPO, src, out, cwd=bk.dir)
+        outs.append(out)
+    return outs
+
+
+def cmd_epub(a):
+    bk = Book(find_book(a.book))
+    build_epub(bk, bk.dir)
 
 
 def cmd_pdf(a):
     bk = Book(find_book(a.book))
-    files = bk.cfg.get("PRINT") or [bk.dir.name + ".typ"]
-    for f in files:
-        src = bk.dir / f
-        out = src.with_suffix(".pdf")
-        print(f"typst: {src.relative_to(REPO)}")
-        run("typst", "compile", src, out, cwd=bk.dir)
+    build_pdf(bk, bk.dir)
+
+
+# -- build: everything for some or all books, into dist/ -----------------------
+
+def book_dirs():
+    """Every book folder under books/ (books/<author>/<book>), on the TEI
+    pipeline or not."""
+    return sorted(p for p in REPO.glob("books/*/*") if p.is_dir()
+                  and p.parent.name != "resources" and not p.name.startswith("."))
+
+
+def incompatible(path):
+    """Why a book folder cannot be built by the TEI pipeline ([] if it can)."""
+    src = path / "source"
+    why = []
+    if not any(src.glob("*.tcp.xml")):
+        why.append("no source/*.tcp.xml")
+    if not any(src.glob("*.tei.xml")):
+        why.append("no enriched TEI (source/*.tei.xml)")
+    ed = src / "editorial.py"
+    if not ed.exists():
+        why.append("no source/editorial.py")
+    else:
+        text = ed.read_text(encoding="utf-8")
+        for k in ("EPUB", "PRINT"):
+            if not re.search(rf"^{k}\s*=", text, re.M):
+                why.append(f"no {k} settings in source/editorial.py")
+    return why
+
+
+def git_state():
+    r = subprocess.run(["git", "-C", str(REPO), "describe", "--always", "--dirty"],
+                       capture_output=True, text=True)
+    return r.stdout.strip() or "unknown"
+
+
+def cmd_build(a):
+    all_dirs = book_dirs()
+    if a.books:
+        chosen = []
+        for name in a.books:
+            hits = [d for d in all_dirs if name.lower() in str(d.relative_to(REPO)).lower()]
+            if not hits:
+                sys.exit(f"no book matches '{name}'")
+            if len(hits) > 1:
+                sys.exit(f"'{name}' matches several books: " +
+                         ", ".join(str(d.relative_to(REPO / "books")) for d in hits))
+            why = incompatible(hits[0])
+            if why:
+                sys.exit(f"{hits[0].relative_to(REPO / 'books')} is not compatible with the "
+                         f"TEI pipeline ({'; '.join(why)}); nothing was built")
+            if hits[0] not in chosen:
+                chosen.append(hits[0])
+    else:
+        chosen = [d for d in all_dirs if not incompatible(d)]
+        skipped = [d for d in all_dirs if incompatible(d)]
+        if skipped:
+            print("not on the TEI pipeline yet, skipped: " +
+                  ", ".join(str(d.relative_to(REPO / "books")) for d in skipped))
+    kinds = {"pdf", "epub"} if a.pdf == a.epub else ({"pdf"} if a.pdf else {"epub"})
+    out_root = Path(a.out).resolve() if a.out else REPO / "dist"
+    state = git_state()
+    built, failed = [], []
+    for d in chosen:
+        bk = Book(d)
+        outdir = out_root / bk.name
+        outdir.mkdir(parents=True, exist_ok=True)
+        print(f"\n== {bk.name} -> {outdir}")
+        try:
+            files = []
+            if "pdf" in kinds:
+                files += build_pdf(bk, outdir, covers=True)
+            if "epub" in kinds:
+                files += build_epub(bk, outdir)
+        except SystemExit as e:
+            print(f"FAILED: {e}" if e.code not in (None, 0, 1) else "FAILED")
+            failed.append(bk.name)
+            continue
+        (outdir / "build-info.txt").write_text(
+            f"{bk.name}\nbuilt from commit {state}\n" +
+            "".join(f"{f.name}\n" for f in files), encoding="utf-8")
+        built.append((bk.name, files))
+    print()
+    for name, files in built:
+        size = sum(f.stat().st_size for f in files) / 1e6
+        print(f"  built  {name:50} {len(files)} file(s), {size:.1f} MB")
+    for name in failed:
+        print(f"  FAILED {name}")
+    if state.endswith("-dirty"):
+        print(f"note: the working tree has uncommitted changes ({state})")
+    sys.exit(1 if failed else 0)
 
 
 def main():
@@ -298,6 +412,12 @@ def main():
         p = sub.add_parser(name)
         p.add_argument("book", nargs="?")
         p.set_defaults(fn=fn)
+    p = sub.add_parser("build", help="PDFs and EPUB into dist/")
+    p.add_argument("books", nargs="*", metavar="BOOK")
+    p.add_argument("--pdf", action="store_true", help="only the PDFs")
+    p.add_argument("--epub", action="store_true", help="only the EPUB")
+    p.add_argument("--out", help="output folder (default: dist/ at the repo root)")
+    p.set_defaults(fn=cmd_build)
     p = sub.add_parser("page")
     p.add_argument("book", nargs="?")
     p.add_argument("--open", action="store_true", help="open it in the browser")

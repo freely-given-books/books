@@ -89,7 +89,12 @@ the venv, and takes a book by part of its name (or none inside the book):
 ./fgb check gouge         # verify.py
 ./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py)
 ./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
+./fgb build [gouge ...]   # PDFs + covers + checked EPUB into dist/ (git-ignored);
+                          # no book = every TEI book; --pdf/--epub, --out DIR
 ```
+
+Built PDFs and EPUBs of TEI books are not kept in git (the root
+`.gitignore` lists each book's folder); `./fgb build` remakes them.
 
 The underlying scripts, for anything else:
 
