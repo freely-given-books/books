@@ -14,6 +14,9 @@ works from any folder.
   ./fgb check  [BOOK]             full verification (verify.py)
   ./fgb epub   [BOOK]             build the EPUB and run epubcheck   } into dist/
   ./fgb pdf    [BOOK]             compile the print edition(s)       } <author>/<book>/
+  ./fgb packages                  unpack the Typst templates the books import
+                                  (typst/fgbooks-typst tags) and say how to use
+                                  them outside ./fgb
   ./fgb build  [BOOK ...]         PDFs (print editions, then covers) and the
                                   checked EPUB into dist/<author>/<book>/;
                                   no BOOK = every book on the TEI pipeline.
@@ -44,6 +47,8 @@ import subprocess
 import sys
 import tempfile
 from pathlib import Path
+
+import packages
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent.parent
@@ -338,6 +343,18 @@ def cmd_pdf(a):
     build_pdf(bk, dist_dir(bk))
 
 
+def cmd_packages(a):
+    for name, ver, source in a.packages:
+        print(f"  {'@local/' + name + ':' + ver:28} {source}")
+    print(f"\nin {packages.CACHE}\n"
+          "./fgb sets TYPST_PACKAGE_PATH to that folder itself. For typst or an editor\n"
+          "outside ./fgb, either export it (it replaces Typst's own local package\n"
+          "folder), or link the packages into that folder, one per package:\n")
+    local = Path.home() / ".local" / "share" / "typst" / "packages" / "local"
+    for name in sorted({n for n, _v, _s in a.packages}):
+        print(f"  ln -sfn {packages.CACHE / 'local' / name} {local / name}")
+
+
 # -- build: everything for some or all books, into dist/ -----------------------
 
 def book_dirs():
@@ -432,6 +449,7 @@ def main():
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("list").set_defaults(fn=cmd_list)
+    sub.add_parser("packages").set_defaults(fn=cmd_packages)
     for name, fn in (("sync", cmd_sync), ("check", cmd_check), ("epub", cmd_epub),
                      ("pdf", cmd_pdf)):
         p = sub.add_parser(name)
@@ -453,6 +471,12 @@ def main():
     a = ap.parse_args()
     if a.cmd == "find":
         a.book, a.word = (a.args[0], a.args[1]) if len(a.args) > 1 else (None, a.args[0])
+    if a.cmd not in ("list", "find"):
+        # the Typst templates, from the submodule's tags (scripts/tei/packages.py)
+        try:
+            a.packages = packages.setup()
+        except packages.PackageError as e:
+            sys.exit(f"fgb: {e}")
     a.fn(a)
 
 

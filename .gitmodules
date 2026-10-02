@@ -1,3 +1,6 @@
 [submodule "books/1689-baptist-confession/1689-baptist-confession/symbolics-data"]
 	path = books/1689-baptist-confession/1689-baptist-confession/symbolics-data
 	url = https://gitlab.com/svrbc/symbolics-data.git
+[submodule "typst/fgbooks-typst"]
+	path = typst/fgbooks-typst
+	url = https://github.com/freely-given-books/fgbooks-typst.git

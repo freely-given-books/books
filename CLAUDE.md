@@ -93,6 +93,12 @@ the venv, and takes a book by part of its name (or none inside the book):
                           # no book = every TEI book; --pdf/--epub, --out DIR
 ```
 
+The Typst templates (`@local/fgbooks:X.Y.Z`, `@local/fgbooksLBCF:...`) are
+tags in the `typst/fgbooks-typst` submodule; `./fgb` unpacks the imported
+versions into `~/.cache/fgb-typst/packages` and sets `TYPST_PACKAGE_PATH`
+(`scripts/tei/packages.py`; `./fgb packages` lists them). Run Typst through
+`./fgb`, or set that variable, so builds use the pinned versions.
+
 Built PDFs and EPUBs of TEI books are not kept in git (the root
 `.gitignore` lists each book's folder); `./fgb build` remakes them.
 
