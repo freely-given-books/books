@@ -30,7 +30,8 @@ from pathlib import Path
 
 from lxml import etree
 
-from tei_extract import R, T, collapse, local, following_trailers
+from tei_extract import R, T, collapse, local, following_trailers, p_runs
+import layout
 
 GREEK = "Ͱ-Ͽἀ-῿"
 HEBREW = "֐-׿"
@@ -140,7 +141,7 @@ class HtmlR(R):
                 else:
                     body.append(copy.deepcopy(c))
             txt = curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip()))
-            if numbered and self.layer == "orig":
+            if numbered and self.layer == "orig" and lst.get("subtype") != "printed":
                 # printed numerals stay in the text, as run-in paragraphs
                 if txt:
                     out.append(f"<p>{txt}</p>")
@@ -155,8 +156,10 @@ class HtmlR(R):
             elif txt or inner:
                 items.append(f"<li>{txt}{inner}</li>")
         if items:
+            if numbered and self.layer == "orig":
+                numbered = False                 # printed list: numerals are text
             tag = "ol" if numbered else "ul"
-            cls = ' class="roman"' if numbered else ""
+            cls = ' class="roman"' if numbered and self.enum == "I." else ""
             out.append(f"<{tag}{cls}>" + "".join(items) + f"</{tag}>")
         return out
 
@@ -178,13 +181,114 @@ class HtmlR(R):
             return self.para(c)
         return []
 
-    def blocks(self, div):
+    def split_p(self, p):
+        """A paragraph with block lists or tables: text, block, text."""
+        out = []
+        for kind, el in p_runs(p):
+            if kind == "text":
+                out += self.para(el)
+            elif local(el) == "table":
+                out += self.table_html(el)
+            else:
+                out += self.list_html(el)
+        return out
+
+    def table_html(self, table):
+        """As tei_extract.table_lines: labels as paragraphs, branches as a
+        list (reg layer); rows as printed (orig layer)."""
+        out, items = [], []
+
+        def flush():
+            if items:
+                out.append('<ol class="brace">' + "".join(items) + "</ol>")
+                items.clear()
+        if self.layer == "reg":
+            for marker, cells in layout.table_reading(table)[1]:
+                t = self.text_of(cells)
+                if not t:
+                    continue
+                if marker == "+":
+                    items.append(f"<li>{t}</li>")
+                else:
+                    flush()
+                    out.append(f"<p>{t}</p>")
+        else:
+            for row in table.findall(T + "row"):
+                t = self.text_of(row.findall(T + "cell"))
+                if t:
+                    out.append(f"<p>{t}</p>")
+        flush()
+        return out
+
+    def text_of(self, els):
+        return curl(NOTEREF_GAP.sub(r"\1", collapse(
+            " ".join(self.inline(e) for e in els)).strip()))
+
+    levels = None             # layout mode: {div type: heading level}
+    enum = "I."               # TYPST_ENUM: numbering of lists the review made
+    run_in = set()
+
+    def div_html(self, div, level):
+        """Layout mode: a division's heads (h{level+1}, or a bold run-in
+        paragraph for RUN_IN_DIVS) and its content."""
+        out = []
+        for h in div.findall(T + "head"):
+            t = self.text(h)
+            if not t:
+                continue
+            if div.get("type") in self.run_in:
+                out.append(f'<p class="runin"><strong>{t}</strong></p>')
+            else:
+                out.append(f"<h{min(level + 1, 6)}>{t}</h{min(level + 1, 6)}>")
+        return out + self.blocks(div, level)
+
+    def layout_file(self, f, ident):
+        """Layout mode: one file of the layout as a section, like division()."""
+        self.notes = []
+        title = f["title"]
+        out = [f'<section id="{ident}">']
+        if title:
+            out.append(f"<h3>{html.escape(title, quote=False)}</h3>")
+        for el in f["parts"]:
+            if local(el) == "div":
+                out += self.div_html(el, self.levels.get(el.get("type"), 2))
+            else:
+                out += self.blocks([el], 2)
+        heads = [re.sub(r"<[^>]+>", "", x) for x in out if re.match(r"<h[1-6]>", x)]
+        self.title = title or (heads[0] if heads else ident)
+        out += self.notes_section()
+        out.append("</section>")
+        return out
+
+    def notes_section(self):
+        if not self.notes:
+            return []
+        out = ['<section class="notes">']
+        for n, body in self.notes:
+            body = curl(NOTEREF_GAP.sub(r"\1", body))
+            out.append(f'<aside id="fn-{n}" class="note" epub:type="footnote" '
+                       f'role="doc-footnote"><p><a href="#nr-{n}" '
+                       f'role="doc-backlink">{n}.</a> {body}</p></aside>')
+        out.append("</section>")
+        return out
+
+    def blocks(self, div, level=2):
         out = []
         for c in div:
             if not isinstance(c.tag, str):
                 continue
             n = local(c)
             if n in ("head", "pb"):
+                continue
+            if n == "epigraph" and self.layer == "reg":
+                ref = self.text_of(c.findall(T + "bibl"))
+                body = self.text_of([q for q in c if local(q) in ("q", "p")])
+                out.append('<div class="epigraph">' +
+                           (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
+                           (f'<p class="epigraph-text">{body}</p>' if body else "") + "</div>")
+                continue
+            if n == "p" and layout.p_blocks(c):
+                out += self.split_p(c)
                 continue
             if n == "p":
                 t = self.text(c)
@@ -216,6 +320,8 @@ class HtmlR(R):
                     out += self.para(signed, "signature")
             elif n == "trailer":
                 out += self.trailer(c)
+            elif n == "div" and self.levels is not None:
+                out += self.div_html(c, self.levels.get(c.get("type"), level + 1))
             elif n == "div" or (n == "q" and c.find(T + "p") is not None):
                 out += self.blocks(c)
             else:
@@ -286,8 +392,23 @@ def tei_title(root):
     return collapse("".join(t.itertext())).strip() if t is not None else ""
 
 
-def divisions(root, r):
-    """(id, heading text, lines) for the dedication and each chapter."""
+def file_ident(name):
+    """An XHTML id / file stem for a layout file (vol-1/01-x.typ -> vol-1-01-x)."""
+    return re.sub(r"[^A-Za-z0-9]+", "-", re.sub(r"\.typ$", "", name)).strip("-")
+
+
+def divisions(root, r, cfg=None):
+    """(id, heading text, lines) for the dedication and each chapter, or for
+    each file of the book's LAYOUT (cfg: the book's editorial.py settings)."""
+    files = layout.book_layout(root, cfg or {})
+    r.enum = (cfg or {}).get("TYPST_ENUM", "I.")
+    if files is not None:
+        r.levels, r.run_in = layout.div_levels(cfg)
+        for f in files:
+            ident = file_ident(f["file"])
+            lines = r.layout_file(f, ident)
+            yield ident, html.unescape(r.title), lines
+        return
     for div in root.iter(T + "div"):
         typ = div.get("type")
         if typ == "dedication":
@@ -328,7 +449,7 @@ def main():
     body = []
     if a.front:
         body.append(Path(a.front).read_text(encoding="utf-8").strip())
-    for _, _, lines in divisions(root, r):
+    for _, _, lines in divisions(root, r, layout.settings(a.tei)):
         body += lines
     Path(a.out).write_text(xhtml(a.title or tei_title(root), body, a.css),
                            encoding="utf-8")

@@ -16,7 +16,7 @@ Now if the promise be uttered in words,#footnote[In futurum.] #emph[for time to 
 
 Those espousals, which are made upon condition, which is honest, possible, and belonging to marriage, do cease or depend: so far forth as the condition annexed ceaseth or dependeth. For example; If the one party promiseth to marry the other upon condition, that his or her kinsman will yield consent to the match; or upon condition of a dowry that she shall bring unto him, suitable to her education, and the family whereof she commeth: these conditions being kept or not kept, the promise doth likewise stand, or not stand.
 
-But those conditions which are necessarily understood, or which may certainly be kept and come to pass, do neither hinder nor suspend marriage. As this: #emph[I promise thee marriage, if I live;] or, #emph[I promise to mary thee, if the Sun rise to morrow.]
+But those conditions which are necessarily understood, or which may certainly be kept and come to pass, do neither hinder nor suspend marriage. As this: #emph[I promise thee marriage, if I live;] or, #emph[I promise to marry thee, if the Sun rise to morrow.]
 
 Again, conditions that are either impossible or dishonest, are not to be accounted as promises annexed#footnote[Jn sauorem Matrimony.] in way of marriage. Of which sort are these, #emph[I will be thy wife, if thou wilt take unto thee wings and fly,] or, #emph[If thou wilt bring an untimely birth.]
 

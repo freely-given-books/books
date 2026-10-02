@@ -1,0 +1,40 @@
+h2 {
+  page-break-after: always;
+  break-after: page;
+  text-align: center;
+  letter-spacing: 0.2em;
+  hyphens: none;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 0.7em 0;
+  margin-top: 30vh;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 0;
+}
+
+h3 {
+  -webkit-column-break-before: always;
+  break-before: page;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  padding-top: 25%;
+  margin-bottom: 1.5em;
+}
+
+section[role="doc-endnotes"] {
+  margin-top: 3em;
+  border-top: 1px solid;
+  padding-top: 1em;
+  font-size: 0.9em;
+}
+
+/* scripture epigraph above a section (tei_to_html.py) */
+div.epigraph { text-align: center; margin: 1em 7.5% 1.2em; }
+div.epigraph p { text-indent: 0; text-align: center; }
+p.epigraph-ref { font-size: 0.9em; font-weight: 600; margin-bottom: 0.5em; }
+p.epigraph-text { font-style: italic; }
+p.epigraph-text em { font-style: normal; }

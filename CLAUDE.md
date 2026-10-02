@@ -79,6 +79,20 @@ works unchanged.
 
 ## Commands
 
+Day to day, use `./fgb` at the repo root: it works from any folder, sets up
+the venv, and takes a book by part of its name (or none inside the book):
+
+```sh
+./fgb sync gouge          # after editing chapters/typ: fold into the TEI, show changes
+./fgb find gouge thorow   # where a word is, as printed, and what was decided
+./fgb page gouge --open   # side-by-side page(s)
+./fgb check gouge         # verify.py
+./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py)
+./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
+```
+
+The underlying scripts, for anything else:
+
 ```sh
 # enriched TEI from the TCP file, folding in reviewed Typst chapters
 python3 scripts/tei/build_tei.py source/A09377.tcp.xml source/christian-economy.tei.xml \
@@ -117,7 +131,23 @@ and TEI files, read by `build_tei.py`, `tei_extract.py` and
 `tcp_structure.py`: `MACRON_M`, `GAP_FIXES`, `LOWERCASE_COMMON_NOUNS`,
 `REPORT_NOTES`, `SKIP_DIVISIONS` (printed divisions the edition leaves out),
 `TYPST_PREAMBLE` and `TYPST_HEADING` (e.g. `"#chapter[{title}][{short}]"`
-for a book with its own heading macro).
+for a book with its own heading macro), `LAYOUT`/`DIV_LEVELS`/`RUN_IN_DIVS`
+(any other shape, see `layout.py`). Machine-pass switches, all off by
+default (Gouge turns them on): `SPELLING` (the book's own words over the
+shared table, e.g. "domestical"), `MODERNIZE_NOTES`, `LATIN_RUNS` (Latin
+found per run of 4+ words and left as printed), `DROP_FOREIGN_GAPS`,
+`GAP_NOTES` (text for a missing-pages or unrestorable gap), `EXPAND_ETC`
+("&c." -> "etc."), `DROP_CAP_CASE` ("AS there" -> "As there") and
+`ITALIC_SENTENCE_QUIRK` (`True`, the Perkins/Simon Magus rule; Gouge
+`"after-stop"`). A `GAP_FIXES` entry may carry a fourth item, the resp
+(`"#editor"` for a gap filled by hand).
+
+Tables are read the way early printers meant them (`layout.table_reading`):
+a brace (a cell spans rows) column by column, labels as lines and branches
+as a `+` list; a row-wise table row by row; a table interrupting its
+sentence inline. A paragraph is split around a block table or list. The
+machine records the tidying (item numbers, trailing commas, capitals, the
+closing stop) as readings.
 
 ## Review workflow
 
@@ -187,7 +217,12 @@ and copied back into `chapters/typ`.
    lowercase); a short list of common nouns is lowercased mid-sentence;
    roman numerals are left alone. Changing these rules would make an
    unreviewed rebuild differ from what was reviewed.
-7. **spelling.py misses** found by the review (bee→be ×78, lawes→laws,
+7. **spelling.py** is Perkins' engine merged (2026) with Gouge's: a
+   letterform search (u/v and i/j swapped until the dictionary knows the
+   word), more silent-e/doubled-letter patterns, `NAMES` (checked first; a
+   table entry beats `DO_NOT_TOUCH`), a large `LATIN_SKIP`. Merging moved
+   some Perkins/Simon Magus decisions between `#auto` and `#editor`; the
+   rendered text did not change. **spelling.py misses** found by the review (bee→be ×78, lawes→laws,
    Prou→Prov, Heere→Here, bin→been, dais→days, yong→young, reade→read,
    shew→show, KJV name forms like Isaak→Isaac, Thar→Terah…) are
    now in `spelling.py`'s `MANUAL` (so this book's TEI credits them to
@@ -250,7 +285,9 @@ The step-by-step workflow is the `eebo-tcp-book` skill
    file; the shared script itself holds no book data.
 3. Build without `--review` for the machine-only edition, extract the reg
    layer into `chapters/typ`, review there, then rebuild with `--review`.
-4. The scripts only know `div[@type='dedication']` and
-   `div[@type='chapter']` (with `@n`). A book with a preface, parts or
-   sermons needs the division selection in `build_tei.py`,
-   `tei_extract.py` and `tei_to_html.py` extended first.
+4. Without setup the scripts handle `div[@type='dedication']` and
+   `div[@type='chapter']` (with `@n`), one file each. Any other shape gets
+   a `LAYOUT` in `editorial.py` (files -> TEI parts; `DIV_LEVELS`,
+   `RUN_IN_DIVS`); see `scripts/tei/layout.py` and Gouge's `editorial.py`.
+   In a layout book, division heads are text of the file (`=` lines),
+   aligned and editable like the rest; the file titles belong to the layout.

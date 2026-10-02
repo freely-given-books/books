@@ -1,0 +1,118 @@
+{
+  "_comment": [
+    "How the 1622 book is cut into four printed volumes.",
+    "",
+    "`div` is the quod.lib.umich.edu 1:N number of the top-level division",
+    "(`tcp_to_typst.py --list` prints them).  `sections` is an inclusive range",
+    "of ORDINAL positions among that division's section divs -- position, not",
+    "the printed section number, because Gouge's numbering repeats itself and",
+    "two sections carry no number at all.  See section_divs() in",
+    "tcp_to_typst.py.",
+    "",
+    "The volumes follow Gouge's own eight treatises: I; II-IV; V-VI; and",
+    "VII-VIII together with the part of Treatise I that expounds Ephesians",
+    "6:5-9, which belongs with them.  Chapters are an editorial division",
+    "within that -- Gouge wrote in numbered sections, not chapters -- and",
+    "every one of his section headings is kept underneath, so nothing of his",
+    "own arrangement is lost."
+  ],
+
+  "front": {
+    "dedication": {"div": 2, "title": "The Epistle Dedicatory"},
+    "parallel-of-duties": {
+      "div": 3,
+      "title": "A Parallel of the Duties of Husbands and Wives"
+    },
+    "errata": {"div": 14}
+  },
+
+  "volumes": [
+    {
+      "number": 1,
+      "roman": "I",
+      "subtitle": "The First Treatise: An Exposition of That Part of Scripture Out of Which Domestical Duties Are Raised",
+      "back-lead": "The first of Gouge's eight treatises: a verse-by-verse exposition of Ephesians 5:21-6:4, the passage the whole work is raised out of. Wives and husbands, children and parents, and above them the marriage of Christ and His church.",
+      "front": ["dedication"],
+      "chapters": [
+        {"title": "Serving Each Other in the Fear of the Lord", "div": 5, "sections": [1, 6]},
+        {"title": "Particular Callings and the Wife’s Submission", "div": 5, "sections": [7, 13]},
+        {"title": "Headship in Marriage and the Church", "div": 5, "sections": [14, 25]},
+        {"title": "Husbands and the Love of Christ", "div": 5, "sections": [26, 33]},
+        {"title": "Love That Purifies the Unclean", "div": 5, "sections": [34, 47]},
+        {"title": "Redeemed for Glory", "div": 5, "sections": [48, 52]},
+        {"title": "Marital Love and Self-Love", "div": 5, "sections": [53, 67]},
+        {"title": "Christ’s Union with His Beloved Body", "div": 5, "sections": [68, 78]},
+        {"title": "The Ancient Law and Unique Bond of Marriage", "div": 5, "sections": [79, 89]},
+        {"title": "The Mystery and Practice of Marriage", "div": 5, "sections": [90, 95]},
+        {"title": "The Child’s Duties to His Parents", "div": 5, "sections": [96, 114]},
+        {"title": "The Parents’ Duty towards Their Children", "div": 5, "sections": [115, 122]}
+      ]
+    },
+    {
+      "number": 2,
+      "roman": "II",
+      "subtitle": "The Second, Third and Fourth Treatises: Of Husband and Wife",
+      "back-lead": "Who may marry and how a marriage is made; the duties husband and wife owe each other in common; and then, at length, the particular duties of wives and of husbands — each duty set against the fault that answers to it.",
+      "front": ["parallel-of-duties"],
+      "chapters": [
+        {"title": "Seeking Marriage", "div": 6, "sections": [1, 10]},
+        {"title": "Getting Married", "div": 6, "sections": [11, 25]},
+        {"title": "Marital Unity and Sexual Faithfulness", "div": 7, "sections": [1, 9]},
+        {"title": "Living Together in Love", "div": 7, "sections": [10, 17]},
+        {"title": "Caring for Each Other’s Souls", "div": 7, "sections": [18, 28]},
+        {"title": "Guarding Each Other’s Health, Reputation, and Property", "div": 7, "sections": [29, 39]},
+        {"title": "Serving Together in Family Ministry", "div": 7, "sections": [40, 45]},
+        {"title": "A Wife’s Respect for Her Husband", "div": 8, "sections": [1, 16]},
+        {"title": "A Wife’s Not Going Against Her Husband’s Will (I)", "div": 8, "sections": [17, 32]},
+        {"title": "A Wife’s Not Going Against Her Husband’s Will (II)", "div": 8, "sections": [33, 42]},
+        {"title": "A Wife’s Active Obedience to Her Husband", "div": 8, "sections": [43, 50]},
+        {"title": "A Wife’s Submission to Christ First", "div": 8, "sections": [51, 74]},
+        {"title": "A Husband’s Affectionate Authority over His Wife", "div": 9, "sections": [1, 12]},
+        {"title": "A Husband’s Humble Gentleness to His Wife", "div": 9, "sections": [13, 24]},
+        {"title": "A Husband’s Patient Correcting of His Wife", "div": 9, "sections": [25, 40]},
+        {"title": "A Husband’s Kind Conduct toward His Wife", "div": 9, "sections": [41, 48]},
+        {"title": "A Husband’s Providing for His Wife", "div": 9, "sections": [49, 63]},
+        {"title": "A Husband’s Sincere and Steady Love for His Wife", "div": 9, "sections": [64, 79]}
+      ]
+    },
+    {
+      "number": 3,
+      "roman": "III",
+      "subtitle": "The Fifth and Sixth Treatises: Of Children and Parents",
+      "back-lead": "The duties children owe their parents — reverence, consent, obedience, and the recompense owed to age — and then the parents' own: love and prayer, nursing and nurture, teaching and correction, and the settling of a child in a calling and a marriage.",
+      "front": [],
+      "chapters": [
+        {"title": "Children Showing Respect for Parents", "div": 10, "sections": [1, 10]},
+        {"title": "Children Getting Parents’ Permission", "div": 10, "sections": [11, 26]},
+        {"title": "Children Obeying Parents’ Instruction and Correction", "div": 10, "sections": [27, 38]},
+        {"title": "Children Giving Back to Parents", "div": 10, "sections": [39, 51]},
+        {"title": "Children Honoring Father and Mother in the Lord", "div": 10, "sections": [52, 64]},
+        {"title": "Parents Loving, Praying, and Providing for Children", "div": 11, "sections": [1, 25]},
+        {"title": "Parents Nurturing, Teaching, and Training Children", "div": 11, "sections": [26, 41]},
+        {"title": "Parents Admonishing and Correcting Children", "div": 11, "sections": [42, 49]},
+        {"title": "Parents Directing Children into Adulthood", "div": 11, "sections": [50, 70]},
+        {"title": "Parents Being Faithful to All under Their Care", "div": 11, "sections": [71, 79]}
+      ]
+    },
+    {
+      "number": 4,
+      "roman": "IV",
+      "subtitle": "The Seventh and Eighth Treatises: Of Servants and Masters",
+      "back-lead": "The last of the eight treatises, with the exposition of Ephesians 6:5-9 they are raised out of: what a servant owes his master in reverence, obedience and faithfulness, and what a master owes his servants in authority, provision, employment and wages — under the Master they both have in heaven.",
+      "front": [],
+      "back": ["errata"],
+      "chapters": [
+        {"title": "Servants and Masters in the Apostle’s Words", "div": 5, "sections": [123, 133]},
+        {"title": "A Servant’s Reverence for His Master", "div": 12, "sections": [1, 9]},
+        {"title": "A Servant’s Obedience to His Master", "div": 12, "sections": [10, 20]},
+        {"title": "A Servant’s Faithful and Willing Service", "div": 12, "sections": [21, 35]},
+        {"title": "A Servant’s Duty and Its Limits under God", "div": 12, "sections": [36, 44]},
+        {"title": "A Master’s Authority Rightly Maintained", "div": 13, "sections": [1, 13]},
+        {"title": "A Master’s Correcting and Governing of His Household", "div": 13, "sections": [14, 21]},
+        {"title": "A Master’s Care for His Servants’ Souls and Bodies", "div": 13, "sections": [22, 36]},
+        {"title": "A Master’s Employing and Rewarding of His Servants", "div": 13, "sections": [37, 47]},
+        {"title": "A Master’s Own Master in Heaven", "div": 13, "sections": [48, 51]}
+      ]
+    }
+  ]
+}

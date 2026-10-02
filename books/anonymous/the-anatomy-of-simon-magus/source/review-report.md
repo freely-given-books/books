@@ -7,9 +7,9 @@
 
 | kind | count |
 | --- | --- |
-| case | 4563 |
+| case | 4580 |
 | italic | 762 |
-| spelling | 584 |
+| spelling | 552 |
 | grammar | 401 |
 | punctuation | 373 |
 | emendation | 331 |
@@ -1046,6 +1046,7 @@
 - Saints → saints (×6)
 - Sentence → sentence (×6)
 - Tongue → tongue (×6)
+- Virtue → virtue (×6)
 - Whether → whether (×6)
 - Young → young (×6)
 - Body → body (×5)
@@ -1111,6 +1112,7 @@
 - Displeasure → displeasure (×4)
 - Earth → earth (×4)
 - Employment → employment (×4)
+- Errors → errors (×4)
 - Excommunication → excommunication (×4)
 - Fellowship → fellowship (×4)
 - Force → force (×4)
@@ -1159,6 +1161,7 @@
 - Wickedness → wickedness (×4)
 - Account → account (×3)
 - Act → act (×3)
+- Administered → administered (×3)
 - Appointment → appointment (×3)
 - Approbation → approbation (×3)
 - Arguments → arguments (×3)
@@ -1174,9 +1177,11 @@
 - Commodities → commodities (×3)
 - Communion → communion (×3)
 - Conduits → conduits (×3)
+- Connection → connection (×3)
 - Consecration → consecration (×3)
 - Consequences → consequences (×3)
 - Councils → councils (×3)
+- Country → country (×3)
 - Creature → creature (×3)
 - Cursed → cursed (×3)
 - Day → day (×3)
@@ -1252,12 +1257,12 @@
 - Text → text (×3)
 - Thought → thought (×3)
 - To → to (×3)
-- Virtue → virtue (×3)
 - Warrant → warrant (×3)
 - Works → works (×3)
 - Accipienti → accipienti (×2)
 - Actions → actions (×2)
 - Address → address (×2)
+- Administering → administering (×2)
 - Advancement → advancement (×2)
 - Adversaries → adversaries (×2)
 - Affair → affair (×2)
@@ -1588,7 +1593,6 @@
 - Corn → corn
 - Corruptions → corruptions
 - Counsellors → counsellors
-- Country → country
 - Courses → courses
 - Criminis → criminis
 - Crown → crown
@@ -2118,17 +2122,14 @@
 - lyable → liable (×5)
 - showed → shown (×5)
 - Call'd → called (×4)
-- Errours → errors (×4)
 - Honour → honor (×4)
 - Simonical → simoniacal (×4)
 - design'd → designed (×4)
 - hainousness → heinousness (×4)
 - humane → human (×4)
 - meerly → merely (×4)
-- Administred → administered (×3)
 - Antients → ancients (×3)
 - Catholick → catholic (×3)
-- Connexion → connection (×3)
 - Ecclesiastick → ecclesiastical (×3)
 - Governours → governors (×3)
 - Levit → Lev (×3)
@@ -2138,14 +2139,10 @@
 - Psal → Ps (×3)
 - Saviour's → Savior's (×3)
 - Tythes → tithes (×3)
-- Vertu → virtue (×3)
 - Whosoever → Whoever (×3)
 - abhorrency → abhorrence (×3)
 - acquir'd → acquired (×3)
-- shewing → showing (×3)
-- Administring → administering (×2)
 - Burthen → burden (×2)
-- Countrey → country (×2)
 - Falshood → falsehood (×2)
 - Intreaties → entreaties (×2)
 - Labourer → laborer (×2)
@@ -2171,8 +2168,6 @@
 - practised → practiced (×2)
 - publick → public (×2)
 - reduc'd → reduced (×2)
-- rendred → rendered (×2)
-- shews → shows (×2)
 - stigmatiz'd → stigmatized (×2)
 - use → uses (×2)
 - wouldst → would (×2)
@@ -2196,7 +2191,6 @@
 - Counsellor → counselor
 - Countrey's → country's
 - Dipensing → dispensing
-- Ecclesia → Ecclesiae
 - Ecclesiasticks → ecclesiastics
 - Effect → effect)
 - Favor → favore
@@ -2269,7 +2263,6 @@
 - charg'd → charged
 - clesiasticum → ecclesiasticum
 - conjoin'd → conjoined
-- connexion → connection
 - consentedst → consented
 - consider'd → considered
 - conspir'd → conspired
@@ -2289,7 +2282,6 @@
 - ensnar'd → ensnared
 - entertain'd → entertained
 - explicitely → explicitly
-- facer → facere
 - facrifice → sacrifice
 - fame → same
 - farther → further
@@ -2303,7 +2295,6 @@
 - griev'd → grieved
 - hainously → heinously
 - hearkned → hearkened
-- ill → ille
 - imploy'd → employed
 - inable → enable
 - indow → endow
@@ -2312,7 +2303,6 @@
 - intangled → entangled
 - interceed → intercede
 - interessed → interested
-- intreat → entreat
 - intreating → entreating
 - introduc'd → introduced
 - intrâsti → intrasti
@@ -2329,7 +2319,6 @@
 - maintain'd → maintained
 - maintainance → maintenance
 - medling → meddling
-- ministred → ministered
 - mov'd → moved
 - my → may
 - nature → nature)
@@ -2339,7 +2328,6 @@
 - perditerum → perditorum
 - perform'd → performed
 - pleas'd → pleased
-- pretious → precious
 - priz'd → prized
 - procur'd → procured
 - propagate → propagated
@@ -2359,7 +2347,6 @@
 - strengthning → strengthening
 - suppos'd → supposed
 - sustain'd → sustained
-- tendred → tendered
 - tentation → temptation
 - thorow → through
 - threatend → threatened

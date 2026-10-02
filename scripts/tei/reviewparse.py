@@ -176,6 +176,26 @@ def _scan(s, out_body, notes, italic=False, in_note=None, buf=None, sp_state=Non
                           sp_state)
                 i = j
                 continue
+            # any other call with content, e.g. #par(first-line-indent: 0em)[..]
+            # or a book macro #epigraph[..][..]: its content is text
+            m = re.match(r"#[A-Za-z][\w-]*(\([^()]*\))?(?=\[)", s[i:])
+            if m:
+                j = i + m.end()
+                first = True
+                while s[j:j + 1] == "[":
+                    inner, j = _bracket_arg(s, j)
+                    if not first:
+                        buf.append((" ", italic))
+                    _scan(inner, out_body, notes, italic, in_note, buf, sp_state)
+                    first = False
+                i = j
+                continue
+            # a call without content (#v(1em), #pagebreak()) is layout
+            m = re.match(r"#[A-Za-z][\w.-]*\([^()]*\)", s[i:])
+            if m:
+                buf.append((" ", italic))
+                i += m.end()
+                continue
         buf.append((c, italic))
         i += 1
     if top:
@@ -190,8 +210,39 @@ def _scan_block(r, text, italic=False):
         r.body_sp_map[i] = sp
 
 
-def parse_review(text):
+def join_brackets(text):
+    """Blank lines inside an open [ ... ] (a multi-line call such as an
+    epigraph block) do not end the block: turn them into single newlines."""
+    out, depth, i = [], 0, 0
+    while i < len(text):
+        c = text[i]
+        if c == "\\":
+            out.append(text[i:i + 2])
+            i += 2
+            continue
+        if c == "[":
+            depth += 1
+        elif c == "]":
+            depth = max(0, depth - 1)
+        if depth and text.startswith("\n\n", i):
+            out.append("\n")
+            i += 2
+            while i < len(text) and text[i] == "\n":
+                i += 1
+            continue
+        out.append(c)
+        i += 1
+    return "".join(out)
+
+
+def parse_review(text, inline_headings=False, titled=True):
+    """inline_headings (a book with a LAYOUT): heading lines are text of the
+    file, marked "H", except the first when the file has a title of the
+    edition's own (titled), which goes to headings."""
     r = Review()
+    r.titled = titled
+    if inline_headings:
+        text = join_brackets(text)
     r.body_sp_map = {}
     for block in re.split(r"\n\s*\n", text):
         lines = [l for l in block.split("\n")
@@ -217,12 +268,20 @@ def parse_review(text):
             # an ordinary paragraph: scan it whole, since a #footnote[...]
             # may run over several lines
             r.body.append(("¶", "m", False))
+            n = len(r.body)
             _scan_block(r, joined + "\n")
+            if inline_headings and len(r.body) == n:
+                r.body.pop()             # a layout-only block, e.g. #v(1em)
             continue
         cur = None
         for line in lines:
             s = line.lstrip()
             if s.startswith("="):
+                if inline_headings and (r.headings or not r.titled):
+                    r.body.append(("H", "m", False))
+                    _scan_block(r, s.lstrip("=").strip() + "\n")
+                    cur = None
+                    continue
                 r.headings.append(s.lstrip("=").strip())
                 r.short.append(None)
                 continue

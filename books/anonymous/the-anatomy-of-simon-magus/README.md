@@ -17,6 +17,21 @@ abbreviations guide.
 | `ebook-the-anatomy-of-simon-magus.typ` | earlier ebook source (Typst HTML + pandoc + Calibre), superseded by the TEI build |
 | `source/` | the TCP transcription, the enriched TEI and its tables; see `source/README.md` |
 
+## Everyday commands
+
+From anywhere in the repository (`./fgb --help` for the rest):
+
+``` sh
+$ ./fgb sync simon      # after editing chapters/typ: into the TEI, list the changes
+$ ./fgb find simon WORD # every place a word is, as printed and as decided
+$ ./fgb page simon      # the side-by-side page
+$ ./fgb check simon     # verify
+$ ./fgb epub simon      # the EPUB, checked with epubcheck
+$ ./fgb pdf simon       # the print PDF
+```
+
+The long forms below do the same.
+
 ## Steps for Generation
 
 ### ebook

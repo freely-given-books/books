@@ -17,6 +17,7 @@ Latin by Thomas Pickering.
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
 | `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
 | `sources/dedication_modern.typ`, `sources/treatise_modern.typ` | modernized render the chapters were split from |
+| `sources/*.py`, `sources/CLAUDE.md` | the first-pass converter and its notes (provenance) |
 | `source/A09377.tcp.xml` | untouched EEBO-TCP transcription of the 1609 printing (provenance) |
 | `source/christian-economy.tei.xml` | enriched TEI edition: the 1609 text plus every editorial decision inline |
 | `source/review-report.md` | review decisions carried from `chapters/typ` into the TEI |
@@ -24,6 +25,21 @@ Latin by Thomas Pickering.
 The scripts in `sources/` are the first-pass converters, superseded by
 `scripts/tei/` at the repo root. See `source/README.md` for extracting either
 spelling from the TEI and for rebuilding it after further review.
+
+## Everyday commands
+
+From anywhere in the repository (`./fgb --help` for the rest):
+
+``` sh
+$ ./fgb sync perkins      # after editing chapters/typ: into the TEI, list the changes
+$ ./fgb find perkins WORD # every place a word is, as printed and as decided
+$ ./fgb page perkins      # the side-by-side page
+$ ./fgb check perkins     # verify
+$ ./fgb epub perkins      # the EPUB, checked with epubcheck
+$ ./fgb pdf perkins       # the print PDF
+```
+
+The long forms below do the same.
 
 ## Steps for Generation
 

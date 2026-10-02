@@ -35,9 +35,10 @@ from lxml import etree
 
 sys.path.insert(0, str(Path(__file__).parent))
 from teitok import NS, T, Tok, local, tokenize, iter_stream  # noqa: E402
-from spelling import (modernize_word_lower, apply_case_pattern,  # noqa: E402
+from spelling import (modernize_word_lower, apply_case_pattern, AMBIGUOUS_NAMES,  # noqa: E402
                       GRAMMAR_EXCEPTIONS)
 import reviewparse  # noqa: E402
+import layout  # noqa: E402
 
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 
@@ -60,16 +61,58 @@ LOWERCASE_COMMON_NOUNS = set()
 # Notes shown under "Please check" at the top of the report.
 REPORT_NOTES = []
 
+# Margin notes modernized as well, keeping their capitals as printed (the
+# default keeps notes in original spelling, abbreviations expanded).
+MODERNIZE_NOTES = False
+
+# Latin found per run of text (the words between two pieces of markup): a run
+# of LATIN_MIN_WORDS or more that is mostly not English, even modernized, is
+# left as printed. Without it only the words in spelling.LATIN_SKIP are safe.
+LATIN_RUNS = False
+LATIN_MIN_WORDS = 4
+
+# Greek/Hebrew the transcribers could not key (<gap reason="foreign">): left
+# out of the reading text, with the punctuation it leaves stranded (reg/@type
+# "omission"; the orig layer keeps the placeholder).
+DROP_FOREIGN_GAPS = False
+
+# Text for the reading layer in place of a gap of another kind, by reason,
+# e.g. {"missing": "[{extent} of the 1622 edition are wanting here.]"}.
+GAP_NOTES = {}
+
+# "&c." read as "etc." (reg/@type "abbreviation").
+EXPAND_ETC = False
+
+# The legacy sentence rule (Perkins, Simon Magus): an italic run never opens
+# a sentence, even at the start of a paragraph or after a full stop.
+# "after-stop" (Gouge): an italic boundary right after . ! ? cancels the new
+# sentence, but a paragraph that opens in italics still starts one.
+# False: italics are ignored when deciding where a sentence starts.
+ITALIC_SENTENCE_QUIRK = True
+
+# A decorated initial printed with its word in capitals ("AS there are"):
+# set the word in ordinary case at the start of the paragraph.
+DROP_CAP_CASE = False
+
 
 def load_tables(path):
     """Replace the tables above with those defined in a book's editorial.py."""
     import runpy
     ns = runpy.run_path(str(path))
     g = globals()
-    for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES"):
+    for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES",
+                 "MODERNIZE_NOTES", "LATIN_RUNS", "DROP_FOREIGN_GAPS", "GAP_NOTES",
+                 "EXPAND_ETC", "ITALIC_SENTENCE_QUIRK", "DROP_CAP_CASE"):
         if name in ns:
             g[name] = ns[name]
+    # the book's own spellings, over the shared table (e.g. Gouge keeps
+    # "domestical" where the shared table has "domestic")
+    import spelling
+    for k, v in ns.get("SPELLING", {}).items():
+        spelling.MANUAL[k] = v
+        spelling.NAMES.pop(k, None)
 
+NUMERAL_RE = re.compile(r"\d{1,2}|(?=[IVXLC]+$)[IVXLC]+", re.I)
 ROMAN_RE = re.compile(r"^(?=[IVXLC]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",
                       re.I)
 
@@ -132,6 +175,8 @@ def auto_reg(tok, sentence_start, heading=False):
     """Automatic modern spelling for one word of main text."""
     # long s and the hooked capital Ʋ (U/V) are letter forms, not spellings
     w = tok.expanded.replace("ſ", "s").replace("Ʋ", "U")
+    # a W printed as two Vs (VVorshipfull, Vvisdome) is a letter form too
+    w = re.sub(r"^V[Vv](?=[a-z])", "W", re.sub(r"^VV(?=[A-Z])", "W", w))
     if any(not isinstance(p, (str, tuple)) and local(p) == "hi" for p in tok.pieces):
         return w                     # y^e -> the (already expanded)
     if not re.fullmatch(r"[A-Za-z']+", w):
@@ -142,6 +187,10 @@ def auto_reg(tok, sentence_start, heading=False):
     # decorated initial artifact: CHristian -> Christian
     if len(w) > 2 and w[0].isupper() and w[1].isupper() and w[2:].islower():
         w = w[0] + w[1:].lower()
+    elif DROP_CAP_CASE and len(w) > 1 and w.isupper() and any(
+            not isinstance(p, (str, tuple)) and local(p) == "seg" and
+            p.get("rend") == "decorInit" for p in tok.pieces):
+        w = w[0] + w[1:].lower()      # AS there are -> As there are
     if low in GRAMMAR_EXCEPTIONS:
         mod = low
     else:
@@ -153,6 +202,8 @@ def auto_reg(tok, sentence_start, heading=False):
             else apply_case_pattern(w, mod)
     if w[:1].isupper() and mod in LOWERCASE_COMMON_NOUNS:
         return mod
+    if w[:1].isupper() and low in AMBIGUOUS_NAMES:
+        return AMBIGUOUS_NAMES[low]  # "Mary" mid-sentence is the name, not "marry"
     return apply_case_pattern(w, mod)
 
 
@@ -202,8 +253,8 @@ def make_supplied(gap, idx, tok):
     if fill is not None:
         letters, cert, note, resp = fill
     else:
-        letters, cert, note = GAP_FIXES[idx]
-        resp = "#auto"
+        letters, cert, note, *who = GAP_FIXES[idx]
+        resp = who[0] if who else "#auto"
     s = etree.Element(T + "supplied")
     s.set("reason", gap.get("reason", "illegible"))
     s.set("cert", cert)
@@ -212,7 +263,8 @@ def make_supplied(gap, idx, tok):
     # keep the original <gap> inside for full provenance
     g = copy.deepcopy(gap)
     g.tail = None
-    s.append(etree.Comment(" " + note + " "))
+    # XML comments may not hold "--" or end in "-"
+    s.append(etree.Comment(" " + re.sub(r"-{2,}", "\u2013", note).rstrip("-") + " "))
     s.append(g)
     s[-1].tail = None
     return s
@@ -236,7 +288,7 @@ def emit(b, t):
         o.text = t.pieces[0] or None
         r = etree.SubElement(ch, T + "reg")
         r.text = t.reg or None
-        r.set("resp", "#editor")
+        r.set("resp", t.resp or "#editor")
         r.set("type", "spacing")
         b.elem(ch)
     elif t.kind == "atom":
@@ -331,6 +383,10 @@ def emit_word(b, t):
 
 SPLIT_RE = reviewparse.TOKEN_RE
 BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶"}
+# Layout mode (a book with LAYOUT in editorial.py): division heads are text
+# of the file, marked "H" (a heading line) or "¶" (a run-in heading, for the
+# div types in RUN_IN_DIVS). None: heads are skipped, the classic behaviour.
+HEAD_MODE = {"on": False, "run_in": set()}
 
 
 def compute_auto(toks):
@@ -344,31 +400,44 @@ def compute_auto(toks):
     Footnotes are left in original spelling (abbreviations expanded only).
     Division headings keep their printed case pattern."""
     state = {"start": True}
+    latin = latin_tokens(toks) if LATIN_RUNS else set()
 
     def walk(ts, in_note, in_head):
         for t in ts:
             if t.kind == "container":
                 n = local(t.el)
                 if n in ("p", "item", "signed", "trailer") or n == "head":
-                    state["start"] = True
+                    state["start"], state["by"] = True, "block"
                 # legacy quirk kept for continuity: an italic boundary right
                 # after a full stop did not start a new sentence
-                is_emph = n == "hi" and t.el.get("rend") != "sup"
+                is_emph = n == "hi" and t.el.get("rend") != "sup" and ITALIC_SENTENCE_QUIRK
+
+                def emph_boundary():
+                    if ITALIC_SENTENCE_QUIRK != "after-stop" or state.get("by") == "punct":
+                        state["start"] = False
                 if is_emph:
-                    state["start"] = False
+                    emph_boundary()
                 saved = state["start"]
                 is_div_head = n == "head" and t.el.getparent() is not None \
                     and local(t.el.getparent()) == "div"
-                walk(t.children, in_note or n == "note", in_head or is_div_head)
+                # a table set as a list: its cells keep the printed capitals
+                plain_cell = n == "cell" and table_mode(t.el) != "inline"
+                walk(t.children, in_note or n == "note", in_head or is_div_head or plain_cell)
                 if n == "note":
                     state["start"] = saved
                 if is_emph:
-                    state["start"] = False
+                    emph_boundary()
             elif t.kind == "word":
                 word_strings(t)
                 t.resp, t.rtype = "#auto", "spelling"
+                if id(t) in latin:
+                    t.reg = t.expanded.replace("ſ", "s").replace("Ʋ", "U")
+                    if not in_note:
+                        state["start"] = False
+                    continue
                 if in_note:
-                    t.reg = t.expanded.replace("ſ", "s")
+                    t.reg = auto_reg(t, False, heading=True) if MODERNIZE_NOTES \
+                        else t.expanded.replace("ſ", "s")
                     continue
                 if in_head:
                     t.reg = auto_reg(t, False, heading=True)
@@ -376,26 +445,280 @@ def compute_auto(toks):
                     t.sent_start = state["start"]
                     t.reg = auto_reg(t, state["start"])
                     if re.search(r"[A-Za-z]", t.expanded):
-                        state["start"] = False
+                        state["start"], state["by"] = False, None
+                    state["num"] = bool(re.fullmatch(r"\d+", t.expanded))
             elif t.kind == "punct":
                 p = t.pieces[0]
                 t.orig = p if isinstance(p, str) else (p.text or "")
                 t.reg = t.orig
                 if not in_note and not in_head:
+                    # "1." opening a paragraph is its numeral, not a sentence
+                    numeral = state.get("num") and state["start"] and \
+                        state.get("by") == "block" and t.orig == "."
                     state["start"] = t.orig in ".!?"
+                    if not numeral:
+                        state["by"] = "punct" if state["start"] else None
+                    state["num"] = False
     walk(toks, False, False)
+    if DROP_FOREIGN_GAPS or GAP_NOTES:
+        gap_readings(toks)
+    if EXPAND_ETC:
+        expand_etc(toks)
+    table_readings(toks)
+
+
+def table_mode(cell_el):
+    t = next((a for a in cell_el.iterancestors() if local(a) == "table"), None)
+    return layout.table_reading(t)[0] if t is not None else None
+
+
+def cell_leaves(ct):
+    """Word and punctuation tokens of a cell, notes left out."""
+    out = []
+
+    def walk(ts):
+        for t in ts:
+            if t.kind == "container":
+                if local(t.el) != "note":
+                    walk(t.children)
+            elif t.kind in ("word", "punct"):
+                out.append(t)
+    walk(ct.children)
+    return out
+
+
+def table_readings(toks):
+    """A table set as a list (layout.table_reading) gets the tidying a list
+    needs, as machine readings: a brace's items lose their printed number and
+    trailing comma, open with a capital and, in the last column, end with a
+    full stop; a label loses its trailing comma; a row-wise table's number
+    cells are left out; a table read inline into its sentence has its cells
+    joined with commas."""
+    def cells_of(t):
+        out = {}
+
+        def walk(ts):
+            for c in ts:
+                if c.kind == "container":
+                    if local(c.el) == "cell":
+                        out[c.el] = c
+                    else:
+                        walk(c.children)
+        walk(t.children)
+        return out
+
+    def omit(x, typ="omission"):
+        x.reg, x.rtype, x.resp = "", typ, "#auto"
+
+    def reading(x):
+        return x.reg if x.reg is not None else (x.orig or "")
+
+    def strip_comma(ls):
+        if ls and ls[-1].kind == "punct" and ls[-1].orig == ",":
+            omit(ls[-1], "punctuation")
+            return True
+        return False
+
+    def visit(ts):
+        for t in ts:
+            if t.kind != "container":
+                continue
+            if local(t.el) != "table":
+                visit(t.children)
+                continue
+            mode, blocks = layout.table_reading(t.el)
+            cells = cells_of(t)
+            if mode == "inline":
+                cs = [cells[c] for _m, cl in blocks for c in cl if c in cells]
+                for k, ct in enumerate(cs):
+                    ls = [x for x in cell_leaves(ct) if reading(x)]
+                    if not ls:
+                        continue
+                    if k == len(cs) - 1:
+                        strip_comma(ls)
+                    elif not (ls[-1].kind == "punct" and ls[-1].orig == ","):
+                        last = ls[-1]
+                        last.reg = reading(last) + ","
+                        last.rtype, last.resp = "punctuation", "#auto"
+                continue
+            last_col = max((i for i, (m, _c) in enumerate(blocks) if m == "¶"), default=-1)
+            for i, (marker, cl) in enumerate(blocks):
+                cts = [cells[c] for c in cl if c in cells]
+                if mode == "rows":
+                    if marker == "+" and len(cts) > 1 and \
+                            re.fullmatch(layout.NUMBER_CELL, " ".join(
+                                "".join(cts[0].el.itertext()).split())):
+                        for x in cell_leaves(cts[0]):
+                            omit(x)
+                    continue
+                for ct in cts:
+                    ls = cell_leaves(ct)
+                    if marker == "¶":
+                        strip_comma(ls)
+                        continue
+                    # an item: printed number, trailing comma, capital, stop
+                    if len(ls) >= 2 and ls[0].kind == "word" and \
+                            re.fullmatch(r"\d{1,2}", reading(ls[0])) and \
+                            ls[1].kind == "punct" and ls[1].orig in ".)":
+                        omit(ls[0])
+                        omit(ls[1])
+                    live = [x for x in ls if reading(x)]
+                    stripped = strip_comma(live)
+                    live = [x for x in live if reading(x)]
+                    first = next((x for x in live if x.kind == "word"), None)
+                    if first is not None and reading(first)[:1].islower():
+                        first.reg = reading(first)[:1].upper() + reading(first)[1:]
+                        first.rtype, first.resp = "case", "#auto"
+                    final = i > last_col
+                    if final and live and not re.search(
+                            r"[.!?:;][\s)\]]*$", "".join(reading(x) for x in live)):
+                        last = live[-1]
+                        last.reg = reading(last) + "."
+                        last.rtype, last.resp = "punctuation", "#auto"
+    visit(toks)
+
+
+def expand_etc(toks):
+    """&c. -> etc.: the ampersand reads "etc", the c nothing."""
+    def walk(ts):
+        kids = [c for c in ts if c.kind != "noise"]
+        for a, b in zip(kids, kids[1:]):
+            if a.kind == "punct" and a.orig == "&" and b.kind == "word" and \
+                    (b.expanded or "").lower() == "c":
+                a.reg, a.rtype, a.resp = ("Etc" if b.expanded == "C" else "etc"), \
+                    "abbreviation", "#auto"
+                b.reg, b.rtype = "", "abbreviation"
+                after = kids[kids.index(b) + 1] if kids.index(b) + 1 < len(kids) else None
+                if not (after is not None and after.kind == "punct" and after.orig == "."):
+                    a.reg += "."                  # "&c" printed without its stop
+        for c in ts:
+            if c.kind == "container":
+                walk(c.children)
+    walk(toks)
+
+
+def gap_only(t):
+    """The <gap> elements of a word token made of nothing but gaps."""
+    els = [p for p in t.pieces if not isinstance(p, (str, tuple))]
+    if not els or any(local(p) != "gap" for p in els):
+        return []
+    if any(isinstance(p, str) and p.strip() for p in t.pieces):
+        return []
+    return els
+
+
+def gap_readings(toks):
+    """DROP_FOREIGN_GAPS and GAP_NOTES: readings for words that are only a gap."""
+    def walk(ts, in_note):
+        kids = [c for c in ts if c.kind != "noise"]
+        for i, t in enumerate(kids):
+            if t.kind == "container":
+                walk(t.children, in_note or local(t.el) == "note")
+                continue
+            if t.kind != "word":
+                continue
+            gaps = gap_only(t)
+            if not gaps:
+                continue
+            reason = gaps[0].get("reason")
+            if all(i in GAP_FIXES for i, _g in t.gaps):
+                continue                        # filled in: <supplied>
+            if reason in GAP_NOTES:
+                t.reg = GAP_NOTES[reason].format(
+                    extent=(gaps[0].get("extent") or "").capitalize())
+                t.rtype = "editorial"
+            elif reason == "foreign" and DROP_FOREIGN_GAPS:
+                t.reg, t.rtype = "", "omission"
+                prev = kids[i - 1] if i else None
+                nxt = kids[i + 1] if i + 1 < len(kids) else None
+                # punctuation left stranded after it: at the start of a note
+                # or block it goes; mid-sentence the space before the gap goes
+                first = all(k.kind in ("space", "atom") or
+                            (k.kind == "word" and k.reg == "") for k in kids[:i])
+                if nxt is not None and nxt.kind == "punct" and nxt.orig in ".,;:":
+                    if first:
+                        nxt.reg, nxt.rtype, nxt.resp = "", "omission", "#auto"
+                        after = kids[i + 2] if i + 2 < len(kids) else None
+                        if after is not None and after.kind == "space":
+                            after.kind, after.reg, after.resp = "spacing", "", "#auto"
+                    elif prev is not None and prev.kind == "space":
+                        prev.kind, prev.reg, prev.resp = "spacing", "", "#auto"
+                elif nxt is not None and nxt.kind == "space" and \
+                        (first or (prev is not None and prev.kind == "space")):
+                    nxt.kind, nxt.reg, nxt.resp = "spacing", "", "#auto"
+    walk(toks, False)
+
+
+def latin_tokens(toks):
+    """ids of the word tokens in Latin runs (see LATIN_RUNS): a run is the
+    words of one container between two child containers (italics, notes)."""
+    from spelling import _SPELL
+
+    def english(w):
+        low = w.lower()
+        return low in _SPELL or modernize_word_lower(low) in _SPELL
+
+    out = set()
+
+    def judge(run):
+        words = [t for t in run if re.search(r"[A-Za-z]", t.expanded or "")]
+        if len(words) < LATIN_MIN_WORDS:
+            return
+        texts = [t.expanded.replace("ſ", "s") for t in words]
+        eng = sum(english(re.sub(r"[^A-Za-z']", "", w)) for w in texts)
+        if eng * 2 < len(words):
+            out.update(id(t) for t in words)
+
+    def walk(ts):
+        run = []
+        for t in ts:
+            if t.kind == "container":
+                judge(run)
+                run = []
+                walk(t.children)
+            elif t.kind == "word":
+                word_strings(t)
+                run.append(t)
+        judge(run)
+    walk(toks)
+    return out
 
 
 def stream(toks, skip_heads=True):
     """Flatten tokens to [(text, kind, tok, container_path)]; kind 'w' or 'm'."""
     out = []
 
-    def walk(ts, path):
+    def has_words(t):
+        if t.kind in ("word", "punct"):
+            return bool(t.reg if t.reg is not None else t.orig)
+        return t.kind == "container" and local(t.el) != "note" and \
+            any(has_words(c) for c in t.children or [])
+
+    def walk(ts, path, pending=False):
+        # a paragraph split around a block list or table goes on as a new
+        # paragraph after it (layout.p_blocks)
+        par = path[-1].el if path and path[-1].el is not None else None
+        split = layout.p_blocks(par) if par is not None and local(par) == "p" else []
         for t in ts:
+            if t.kind == "container" and t.el in split:
+                pending = True          # a new paragraph after the block ...
+            elif pending and has_words(t):
+                out.append(("¶", "m", t, path))   # ... if text follows it
+                pending = False
+            if t.kind == "container" and local(t.el) == "table":
+                table(t, path)
+                continue
             if t.kind == "container":
                 n = local(t.el)
                 if skip_heads and n == "head" and local(t.el.getparent()) == "div":
+                    if not HEAD_MODE["on"]:
+                        continue
+                    run_in = t.el.getparent().get("type") in HEAD_MODE["run_in"]
+                    out.append(("¶" if run_in else "H", "m", t, path))
+                    walk(t.children, path + (t,))
                     continue
+                if HEAD_MODE["on"] and n == "epigraph":
+                    out.append(("¶", "m", t, path))
                 # an item that only wraps a nested list continues the
                 # previous item (that is how the Typst lists are nested)
                 list_only = n == "item" and all(
@@ -406,13 +729,39 @@ def stream(toks, skip_heads=True):
                 # own, unless it is made of paragraphs itself
                 block_q = n == "q" and t.el.getparent() is not None and \
                     local(t.el.getparent()) == "div" and t.el.find(T + "p") is None
-                if (n in BLOCK_MARK or block_q) and not list_only:
+                in_epigraph = HEAD_MODE["on"] and any(
+                    local(a.el) == "epigraph" for a in path if a.el is not None)
+                if n == "p" and layout.p_blocks(t.el):
+                    # opened only if text comes before its first block
+                    walk(t.children, path + (t,), pending=True)
+                    continue
+                if (n in BLOCK_MARK or block_q) and not list_only and not in_epigraph:
                     out.append((BLOCK_MARK.get(n, "¶"), "m", t, path))
                 walk(t.children, path + (t,))
             elif t.kind in ("word", "punct"):
                 txt = t.reg if t.reg is not None else t.orig
                 for s in SPLIT_RE.findall(txt or ""):
                     out.append((s, "w", t, path))
+
+    def table(t, path):
+        """A table in the edition's reading order (layout.table_reading)."""
+        cells = {}
+
+        def find(ts):
+            for c in ts:
+                if c.kind == "container":
+                    if local(c.el) == "cell":
+                        cells[c.el] = c
+                    else:
+                        find(c.children)
+        find(t.children)
+        _mode, blocks = layout.table_reading(t.el)
+        for marker, cl in blocks:
+            if marker:
+                out.append((marker, "m", t, path))
+            for c in cl:
+                if c in cells:
+                    walk(cells[c].children, path + (t, cells[c]))
     walk(toks, ())
     return out
 
@@ -532,6 +881,15 @@ def align(src, tgt, report, label, owner=None):
             if len(s_runs) == len(r_runs):
                 prev = next((s for s in reversed(src[:i1]) if s[1] == "w"), None)
                 for n, (sr, rr) in enumerate(zip(s_runs, r_runs)):
+                    # a printed numeral ("1." "II.") the review dropped when
+                    # it made the block a "+" item is the item's label, not
+                    # a deleted word
+                    if n and n - 1 < len(Rm) and Rm[n - 1] == "+" and len(sr) >= 2 and \
+                            NUMERAL_RE.fullmatch(sr[0][0][0]) and sr[1][0][0] in ".)" and \
+                            not (rr and rr[0][0][0] == sr[0][0][0]):
+                        for e, _ in sr[:2]:
+                            add_tgt(e[2], [e[0]], [])
+                        sr = sr[2:]
                     words = [e[0] for e, _ in rr]
                     idxs = [j for _, j in rr]
                     if sr:
@@ -643,10 +1001,12 @@ def classify(old, new):
 
 
 def ancestors(tok):
+    """Container tokens above tok (the element-less root is left out)."""
     a = []
     p = tok.parent
     while p is not None:
-        a.append(p)
+        if p.el is not None:
+            a.append(p)
         p = p.parent
     return a
 
@@ -1002,19 +1362,18 @@ def pad(t, lead="", trail=""):
 def split_notes(entries):
     """Body entries, and [(note Tok, its entries, anchor)] where anchor is
     the number of body entries before the note."""
-    body, notes = [], []
-    cur = None
+    body, notes, rec = [], [], {}
     for e in entries:
-        note = next((c for c in e[3] if local(c.el) == "note"), None)
+        # the innermost note: a note printed inside a note is a note of its own
+        note = next((c for c in reversed(e[3]) if local(c.el) == "note"), None)
         if note is None:
             body.append(e)
-            cur = None
             continue
-        if cur is None or cur[0] is not note:
-            cur = (note, [], len(body))
-            notes.append(cur)
+        if id(note) not in rec:
+            rec[id(note)] = (note, [], len(body))
+            notes.append(rec[id(note)])
         if e[1] == "w":
-            cur[1].append(e)
+            rec[id(note)][1].append(e)
     return body, notes
 
 
@@ -1106,7 +1465,7 @@ def keep_trailers(d, review, f, log):
     """A trailer is left out of the edition unless the review ends with it;
     then it is marked ana="#in-edition" (and, if it sits outside the
     division, taken out of the review so the rest aligns cleanly)."""
-    for tr in division_trailers(d.el):
+    for tr in (division_trailers(d.el) if d.el is not None else []):
         words = [w.lower() for w in SPLIT_RE.findall(
             " ".join("".join(tr.itertext()).split()).replace("ſ", "s"))]
         k = max((i for i, e in enumerate(review.body) if e[1] == "m"), default=None)
@@ -1120,6 +1479,18 @@ def keep_trailers(d, review, f, log):
         log.append((f, "trailer", " ".join(words), "kept in the edition"))
         if tr.getparent() is not d.el:
             del review.body[k:]
+
+
+class View:
+    """A run of TEI parts (divisions and loose blocks) aligned as one unit
+    with one reviewed file: the layout-mode stand-in for a division."""
+    kind = "container"
+
+    def __init__(self, children, el):
+        self.children = children
+        self.el = el
+        self.extra = {}
+        self.parent = None
 
 
 def review_division(d, review, f, log, unresolved):
@@ -1286,6 +1657,17 @@ def apply_emphasis(d, tflags, log, f):
             walk_hi(c)
     walk_hi(d)
 
+    def plain_leaves(t):
+        for c in t.children or []:
+            if c.kind == "container":
+                if local(c.el) == "note":
+                    continue
+                if is_emph(c) and c.el.get("ana") != "#print-only":
+                    continue
+                yield from plain_leaves(c)
+            elif c.kind in ("word", "punct", "group"):
+                yield c
+
     # 2. italics the edition adds
     def walk_add(t, italic):
         kids = t.children or []
@@ -1295,7 +1677,11 @@ def apply_emphasis(d, tflags, log, f):
                 if local(c.el) == "note":
                     need.append("break")
                     continue
-                inner = [want(x) for x in leaves(c)]
+                # words already under a printed italic inside c need nothing
+                inner = [want(x) for x in plain_leaves(c)]
+                if not inner and any(True for _ in leaves(c)):
+                    need.append("neutral")
+                    continue
                 c_it = italic or (is_emph(c) and c.el.get("ana") != "#print-only")
                 inline = local(c.el) in INLINE and not (
                     local(c.el) == "q" and local(c.el.getparent()) == "div")
@@ -1419,12 +1805,36 @@ def wrap_label(labels):
     return True
 
 
+MADE_LISTS = []
+
+
+def merge_lists(log):
+    """Lists the review made from neighbouring paragraphs ("1. ..." and
+    "2. ..." each a <p>) are one list: join a new list to the one before it
+    when nothing but space lies between."""
+    for lst in MADE_LISTS:
+        par = lst.parent
+        if par is None or lst not in par.children:
+            continue
+        k = par.children.index(lst)
+        j = k - 1
+        while j >= 0 and par.children[j].kind in ("space", "noise"):
+            j -= 1
+        prev = par.children[j] if j >= 0 else None
+        if prev is not None and prev.kind == "container" and local(prev.el) == "list" \
+                and prev.el.get("change") == "#review" and prev in MADE_LISTS:
+            prev.children += [Tok("space", ["\n"])] + [c for c in lst.children]
+            relink(prev)
+            del par.children[j + 1:k + 1]
+            relink(par)
+
+
 def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
-    later = [s for s in splits if s[1] in ("quote", "merge")]
-    splits = [s for s in splits if s[1] not in ("quote", "merge")]
+    later = [s for s in splits if s[1] in ("quote", "merge", "renumber")]
+    splits = [s for s in splits if s[1] not in ("quote", "merge", "renumber")]
     by_block = {}
     for s in splits:
         b = block_of(s[0])
@@ -1466,6 +1876,7 @@ def restructure(splits, log):
                     lst.el.set("type", "numbered")
                     lst.el.set("change", "#review")
                     out.append(lst)
+                    MADE_LISTS.append(lst)
                 if lst.children:
                     lst.children.append(Tok("space", ["\n"]))
                 lst.children.append(item)
@@ -1491,7 +1902,22 @@ def restructure(splits, log):
         log.append((pts[0][4], "split", "paragraph",
                     f"{len(cleaned) - 1} split(s) at " +
                     ", ".join((s[2][0].orig if s[2] else s[0].orig) for s in pts)))
+    merge_lists(log)
     for tok, kind, _l, _o, f in sorted(later, key=lambda s: s[3]):
+        if kind == "renumber":
+            # a printed bullet list the review numbers: its numerals become labels
+            lst = next((a for a in ancestors(tok) if local(a.el) == "list"), None)
+            if lst is None:
+                log.append((f, "skipped", f"numbering at '{tok.orig}'", "not in a list"))
+                continue
+            if lst.el.get("type") != "numbered":
+                lst.el.set("type", "numbered")
+                lst.el.set("subtype", "printed")
+                lst.el.set("change", "#review")
+                log.append((f, "list", "printed list", "numbered"))
+            if _l:
+                wrap_label(_l)
+            continue
         # the innermost paragraph (a <q> may itself hold paragraphs)
         b = next((a for a in ancestors(tok) if local(a.el) == "p"), None) or block_of(tok)
         if b is None or local(b.el) not in ("p", "q"):
@@ -1534,6 +1960,12 @@ def collect_splits(struct, stream_index, log):
             if len(Sw) >= 2 and ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == ".":
                 labels = [Sw[0][2], Sw[1][2]]
             splits.append((labels[0] if labels else tok, "+", labels, order, s["label"]))
+        elif s["tgt_marks"] == ["+"] and s["src_marks"] in (["¶"], ["-"]):
+            labels = []
+            if len(Sw) >= 2 and NUMERAL_RE.fullmatch(Sw[0][0]) and Sw[1][0] in ".)":
+                labels = [Sw[0][2], Sw[1][2]]
+            kind = "+" if s["src_marks"] == ["¶"] else "renumber"
+            splits.append((labels[0] if labels else tok, kind, labels, order, s["label"]))
         elif s["tgt_marks"] == ["¶"] and not s["src_marks"]:
             if in_container(tok, ("closer", "signed", "trailer")):
                 continue
@@ -1627,6 +2059,8 @@ def add_header(root, editor_name):
         (".//t:head[@type='short']", "head[@type='short']: the short form of this "
          "edition's title, used in running heads."),
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),
+        (".//t:list[@subtype='printed']", "list[@subtype='printed']: a list printed as "
+         "one that this edition numbers; the printed numerals are kept in label."),
     ) if root.find(xp, {"t": NS}) is not None]
     paras += [txt for _, txt in used]
     cats = [(c, d) for c, d in (
@@ -1716,8 +2150,11 @@ def main():
     if not args.list and not args.out:
         ap.error("OUT is required unless --list is given")
     tables = Path(args.tables) if args.tables else Path(args.source).parent / "editorial.py"
+    cfg = {}
     if tables.exists():
         load_tables(tables)
+        import runpy
+        cfg = runpy.run_path(str(tables))
     elif args.tables:
         ap.error(f"no such file: {tables}")
 
@@ -1730,6 +2167,19 @@ def main():
     if args.list:
         list_editorial(toks)
         return
+
+    files = layout.book_layout(root, cfg)
+    if files is not None:
+        missing = layout.check(root, files, cfg)
+        if missing:
+            for el, n in missing[:20]:
+                print(f"  not in any file: <{local(el)}> {n} words: "
+                      f"{' '.join(''.join(el.itertext()).split())[:70]}", file=sys.stderr)
+            sys.exit(f"LAYOUT leaves {len(missing)} text blocks out; add them to a "
+                     "file or to SKIP_DIVISIONS")
+        HEAD_MODE["on"] = True
+        HEAD_MODE["run_in"] = set(cfg.get("RUN_IN_DIVS", ()))
+        return build_layout(args, tree, root, text, toks, files)
 
     divs = []
 
@@ -1804,11 +2254,55 @@ def main():
 
 
 
+def build_layout(args, tree, root, text, toks, files):
+    """main() for a book with a LAYOUT: each file is aligned as one unit with
+    the parts the layout gives it; heads are part of its text."""
+    by_el = {}
+
+    def index(ts):
+        for t in ts:
+            if t.kind == "container":
+                by_el[t.el] = t
+                index(t.children)
+    index(toks)
+    log, unresolved, all_splits = [], [], []
+    if args.review:
+        R = Path(args.review)
+        order = 0
+        for f in files:
+            fname = f["file"]
+            path = R / fname
+            if not path.exists():
+                unresolved.append((fname, "file", "missing from the review"))
+                continue
+            review = reviewparse.parse_review(path.read_text(), inline_headings=True,
+                                              titled=bool(f["title"]))
+            title = review.headings[0] if review.headings else None
+            if f["title"] and title and " ".join(title.split()) != " ".join(f["title"].split()):
+                unresolved.append((fname, "file title (change it in the LAYOUT)", title))
+            view = View([by_el[p] for p in f["parts"]], None)
+            st, s = review_division(view, review, fname, log, unresolved)
+            index_ = {}
+            for k, e in enumerate(s):
+                index_.setdefault(id(e[2]), order + k)
+            order += len(s)
+            all_splits += collect_splits(st, index_, log)
+        restructure(all_splits, log)
+    rebuild(text, toks)
+    add_header(root, args.editor)
+    tree.write(args.out, xml_declaration=True, encoding="UTF-8")
+    if args.report:
+        write_report(args.report, log, unresolved)
+    print(f"wrote {args.out}: {len(files)} files, {len(log)} review decisions, "
+          f"{len(unresolved)} unresolved")
+
+
 def write_report(path, log, unresolved):
     from collections import Counter, defaultdict
     kinds = Counter(k for _, k, *_ in log)
     lines = ["# Review decisions carried into the enriched TEI", ""]
-    lines += ["## Please check", ""] + [f"- {n}" for n in REPORT_NOTES] + [""]
+    if REPORT_NOTES:
+        lines += ["## Please check", ""] + [f"- {n}" for n in REPORT_NOTES] + [""]
     lines.append("| kind | count |")
     lines.append("| --- | --- |")
     for k, n in kinds.most_common():
