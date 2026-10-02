@@ -114,6 +114,26 @@ def verse_division(el):
     return _VERSE[div]
 
 
+def closer_lines(closer, layer="reg"):
+    """A closer with a place and date (dateline) or several signatories (a
+    list in signed), as one block per line: in the edition the signatories,
+    one to a line, then the dateline; in the orig layer as printed. None for
+    any other closer (a single signature is set as before)."""
+    signed = closer.find(T + "signed")
+    lst = signed.find(T + "list") if signed is not None else None
+    dates = closer.findall(T + "dateline")
+    if lst is None and not dates or \
+            any(local(c) not in ("dateline", "signed") for c in closer if local(c)) or \
+            (lst is not None and any(local(c) not in ("list",) for c in signed if local(c))):
+        return None
+    names = lst.findall(T + "item") if lst is not None else \
+        ([signed] if signed is not None else [])
+    if layer == "reg":
+        return names + dates
+    return [c for c in closer.iter(T + "dateline", T + "item", T + "signed")
+            if c in names or c in dates]
+
+
 def parts_of(f):
     """(element, is_div) for each part of a file."""
     return [(p, local(p) == "div") for p in f["parts"]]

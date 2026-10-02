@@ -32,7 +32,7 @@ from pathlib import Path
 from lxml import etree
 
 from tei_extract import R, T, collapse, local, following_trailers
-from tei_to_html import HtmlR, curl, NOTEREF_GAP, tei_title, file_ident
+from tei_to_html import HtmlR, curl, finish, NOTEREF_GAP, tei_title, file_ident
 import layout
 from tei_epub import typst_page
 
@@ -187,7 +187,7 @@ def rows(div, o, m):
             continue
         if n == "div" or (n == "q" and c.find(T + "p") is not None):
             if n == "div":
-                oh, mh = o.heading(c), m.heading(c)
+                oh, mh = finish(o.heading(c)), finish(m.heading(c))
                 if oh or mh:
                     out.append(("".join(oh), "".join(mh), "head"))
             out += rows(c, o, m)
@@ -398,8 +398,8 @@ def main():
             wrapper = unit
         else:
             div = unit
-            mh = m.heading(div)
-            oh = o.heading(div)
+            mh = finish(m.heading(div))
+            oh = finish(o.heading(div))
             wrapper = [div]
         name = re.sub(r"<[^>]+>", "", mh[0]) if mh else fname
         c = counts(*wrapper)
@@ -414,7 +414,7 @@ def main():
             rs = []
             for el in unit:
                 if local(el) == "div":
-                    oh_, mh_ = o.heading(el), m.heading(el)
+                    oh_, mh_ = finish(o.heading(el)), finish(m.heading(el))
                     if oh_ or mh_:
                         rs.append(("".join(oh_), "".join(mh_), "head"))
                     rs += rows(el, o, m)

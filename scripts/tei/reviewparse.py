@@ -235,20 +235,89 @@ def join_brackets(text):
     return "".join(out)
 
 
+ENUM_RE = re.compile(r"^\s*#set enum\((.*)\)\s*$")
+
+
+def unwrap_lists(text):
+    """A "#[" line opens a scope that its own "]" line closes (the review's
+    way of numbering one list differently: #[ #set enum(numbering: "a)",
+    start: 2) + ... ]). The two lines are layout and become "//@scope" and
+    "//@scope-end" lines for parse_review, and a #set enum inside such a
+    scope a "//@enum numbering|start" line."""
+    out, opens, depth = [], [], 0
+    for line in text.split("\n"):
+        st = line.strip()
+        if st == "#[":
+            opens.append(depth)
+            depth += 1
+            out += ["", "//@scope"]
+            continue
+        if st == "]" and opens and depth - 1 == opens[-1]:
+            opens.pop()
+            depth -= 1
+            out.append("//@scope-end")
+            continue
+        m = ENUM_RE.match(line)
+        if m and opens:
+            args = dict(re.findall(r'(\w+):\s*("[^"]*"|\d+)', m.group(1)))
+            out.append("//@enum " + args.get("numbering", "").strip('"') + "|" +
+                       args.get("start", ""))
+            continue
+        depth += len(re.findall(r"(?<!\\)\[", line)) - len(re.findall(r"(?<!\\)\]", line))
+        out.append(line)
+    return "\n".join(out)
+
+
 def parse_review(text, inline_headings=False, titled=True):
     """inline_headings (a book with a LAYOUT): heading lines are text of the
     file, marked "H", except the first when the file has a title of the
-    edition's own (titled), which goes to headings."""
+    edition's own (titled), which goes to headings.
+
+    r.list_info: body index of a "+" marker -> {"depth", "numbering",
+    "start"}, and of a "¶" marker of a paragraph indented under a list item
+    (Typst sets it inside the item) -> {"depth"}: how many items enclose it,
+    and the numbering a #[ #set enum(...) ] scope gives its list."""
     r = Review()
     r.titled = titled
+    r.list_info = {}
+    text = unwrap_lists(text)
     if inline_headings:
         text = join_brackets(text)
+    scopes = []                # #[ ] scopes: [numbering, start pending, items open]
+    items = []                 # columns of the list items open at this point
+
+    def enclosing(col):
+        while items and items[-1] >= col:
+            items.pop()
+        return len(items)
+
+    def item_mark(col):
+        depth = enclosing(col)
+        items.append(col)
+        info = {"kind": "+", "depth": depth, "numbering": None, "start": None}
+        if scopes:              # set rules reach into inner scopes
+            info["numbering"] = next((sc[0] for sc in reversed(scopes) if sc[0]), None)
+            info["start"], scopes[-1][1] = scopes[-1][1], None
+        r.list_info[len(r.body)] = info
     r.body_sp_map = {}
+    ends = 0                   # scopes closed by the block before
     for block in re.split(r"\n\s*\n", text):
+        for _ in range(ends):      # items opened inside a scope end with it
+            del items[scopes.pop()[2]:]
+        ends = 0
+        for l in block.split("\n"):
+            if l.startswith("//@scope-end"):
+                ends += 1
+            elif l.startswith("//@scope"):
+                scopes.append([None, None, len(items)])
+            elif l.startswith("//@enum ") and scopes:
+                num, start = l[len("//@enum "):].split("|")
+                scopes[-1][:2] = [num or None, int(start) if start else None]
         lines = [l for l in block.split("\n")
                  if l.strip() and not l.lstrip().startswith(("//", "#set ", "#import "))]
         if not lines:
             continue
+        indent = len(lines[0]) - len(lines[0].lstrip())
         joined = "\n".join(lines)
         st = joined.lstrip()
         if st.startswith("#chapter["):
@@ -260,6 +329,7 @@ def parse_review(text, inline_headings=False, titled=True):
             r.short.append(" ".join(short.split()) if short is not None else None)
             continue
         if st.startswith(("#quote[", "#quote()[")):
+            enclosing(indent)
             inner, _ = _bracket_arg(st, len("#quote()") if st.startswith("#quote()[")
                                     else len("#quote"))
             r.body.append((">", "m", False))
@@ -268,16 +338,21 @@ def parse_review(text, inline_headings=False, titled=True):
         if not any(l.lstrip().startswith("=") or re.match(r"^\s*[+-] ", l) for l in lines):
             # an ordinary paragraph: scan it whole, since a #footnote[...]
             # may run over several lines
+            depth = enclosing(indent)
+            if depth:
+                r.list_info[len(r.body)] = {"kind": "¶", "depth": depth}
             r.body.append(("¶", "m", False))
             n = len(r.body)
             _scan_block(r, joined + "\n")
             if inline_headings and len(r.body) == n:
                 r.body.pop()             # a layout-only block, e.g. #v(1em)
+                r.list_info.pop(n - 1, None)
             continue
         cur = None
         for line in lines:
             s = line.lstrip()
             if s.startswith("="):
+                items.clear()
                 if inline_headings and (r.headings or not r.titled):
                     r.body.append(("H", "m", False))
                     _scan_block(r, s.lstrip("=").strip() + "\n")
@@ -288,10 +363,15 @@ def parse_review(text, inline_headings=False, titled=True):
                 continue
             m = re.match(r"^(\s*)([+-]) (.*)$", line)
             if m:
+                if m.group(2) == "+":
+                    item_mark(len(m.group(1)))
                 r.body.append(("+" if m.group(2) == "+" else "-", "m", False))
                 body, cur = m.group(3), "item"
             else:
                 if cur is None:
+                    depth = enclosing(len(line) - len(line.lstrip()))
+                    if depth:
+                        r.list_info[len(r.body)] = {"kind": "¶", "depth": depth}
                     r.body.append(("¶", "m", False))
                     cur = "p"
                 body = line

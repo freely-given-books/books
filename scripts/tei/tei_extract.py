@@ -259,18 +259,31 @@ class R:
                                   numerals=not (enum and self.layer == "reg"))
 
     def list_block(self, lst, depth=0, lines=None):
+        """A list; in the reg layer a numbering of the edition's own
+        (list/@rend, a start in the first item's @n) is set in a #[ ... ]
+        scope, and a paragraph inside an item is indented under it."""
         lines = [] if lines is None else lines
         numbered = lst.get("type") == "numbered"
         head = lst.find(T + "head")
         if head is not None and depth == 0:
             lines.append(f"#strong[{collapse(self.inline(head)).strip()}]")
             lines.append("")
-        for item in lst.findall(T + "item"):
+        items = lst.findall(T + "item")
+        ind = "  " * depth
+        args = []
+        if numbered and self.layer == "reg":
+            if lst.get("rend"):
+                args.append(f'numbering: "{lst.get("rend")}"')
+            if items and items[0].get("n"):
+                args.append(f"start: {items[0].get('n')}")
+        if args:
+            lines += [ind + "#[", ind + f"#set enum({', '.join(args)})"]
+        for item in items:
             body = etree.Element("item-body")
             body.text = item.text
             subs = []
             for c in item:
-                if local(c) == "list":
+                if local(c) in ("list", "p"):
                     subs.append(c)
                     if c.tail:
                         prev = body[-1] if len(body) else None
@@ -292,7 +305,25 @@ class R:
                 else:
                     lines.append("  " * depth + "- " + block_start_escape(txt))
             for s in subs:
-                self.list_block(s, depth + 1, lines)
+                if local(s) == "list":
+                    self.list_block(s, depth + 1, lines)
+                    continue
+                t = self.para(s)
+                if not t:
+                    continue
+                if self.layer == "reg" and s.get("prev"):
+                    # runs on from the item's text (or the block before it)
+                    k = max(i for i, x in enumerate(lines) if x.strip())
+                    lines[k] += ("" if s.get("rend") == "run-on" else " ") + t
+                    continue
+                if lines and lines[-1] != "":
+                    lines.append("")
+                if self.layer == "reg" and numbered:
+                    lines += [ind + "  " + t, ""]
+                else:
+                    lines += [block_start_escape(t), ""]
+        if args:
+            lines.append(ind + "]")
         return lines
 
 
@@ -312,9 +343,10 @@ def noise(text, prev, nxt, leading=False):
     return prev is not None and nxt is not None and local(prev) in j and local(nxt) in j
 
 
-def div_blocks(r, div, level=2):
-    """Render the non-heading content of a division as Typst lines."""
-    lines = []
+def div_blocks(r, div, level=2, lines=None):
+    """Render the non-heading content of a division as Typst lines (added to
+    `lines` when given, so a block can run on into the one before it)."""
+    lines = [] if lines is None else lines
     enum_set = False
     for c in div:
         if not isinstance(c.tag, str):
@@ -327,7 +359,8 @@ def div_blocks(r, div, level=2):
             continue
         if n == "p" and layout.p_blocks(c):
             lines += split_p_lines(r, c)
-        elif n == "p":
+        elif n == "p" or \
+                (n == "q" and c.get("rend") == "quote" and c.find(T + "p") is None):
             t = r.para(c)
             if t and r.layer == "reg" and c.get("rend") == "quote":
                 t = f"#quote[{t}]"
@@ -339,6 +372,9 @@ def div_blocks(r, div, level=2):
                 enum_set = True
             lines += r.list_block(c)
             lines.append("")
+        elif n == "closer" and layout.closer_lines(c, r.layer) is not None:
+            for x in layout.closer_lines(c, r.layer):
+                add_block(r, lines, x, r.para(x))
         elif n == "closer":
             signed = c.find(T + "signed")
             if signed is None:
@@ -376,7 +412,8 @@ def div_blocks(r, div, level=2):
 def epigraph_lines(r, ep):
     """A scripture epigraph: in the reg layer centred, the reference small
     and bold, the verses italic (text(style:) rather than #emph, since the
-    italics are the edition's setting, not the printed text's); in the orig
+    italics are the edition's setting, not the printed text's), or as a
+    #quote when the edition sets it as one (@rend="quote"); in the orig
     layer as a paragraph, as printed."""
     if r.layer != "reg":
         t = r.para(ep)
@@ -385,6 +422,8 @@ def epigraph_lines(r, ep):
     body = " ".join(collapse(r.inline(q)).strip() for q in ep if local(q) in ("q", "p"))
     if not (ref or body):
         return []
+    if ep.get("rend") == "quote":      # the edition sets it as a quotation
+        return [f"#quote[{' '.join(x for x in (ref, body) if x)}]", ""]
     lines = ["#align(center)[", "  #block(width: 85%)[", "    #set par(justify: false)"]
     if ref:
         lines += [f"    #text(size: 0.9em, weight: 600)[{ref}]", ""]
@@ -488,11 +527,13 @@ def sp_lines(r, sp, level):
     return lines
 
 
-def part_lines(r, el, level):
-    """Layout mode: one part of a file, a division or a loose block."""
+def part_lines(r, el, level, lines):
+    """Layout mode: one part of a file, a division or a loose block, added to
+    the file's `lines` (a loose block may run on from the one before it)."""
     if local(el) == "div":
-        return div_lines(r, el, r.levels.get(el.get("type"), level))
-    return div_blocks(r, _Loose(el), level)
+        lines += div_lines(r, el, r.levels.get(el.get("type"), level))
+    else:
+        div_blocks(r, _Loose(el), level, lines)
 
 
 class _Loose:
@@ -511,10 +552,11 @@ def add_block(r, lines, c, t):
     if not t:
         return
     if r.layer == "reg" and c.get("prev") and len(lines) >= 2 and lines[-1] == "":
+        sp = "" if c.get("rend") == "run-on" else " "
         if lines[-2].startswith("#quote[") and lines[-2].endswith("]"):
-            lines[-2] = lines[-2][:-1] + " " + t + "]"    # runs on inside the quotation
+            lines[-2] = lines[-2][:-1] + sp + t + "]"    # runs on inside the quotation
         else:
-            lines[-2] += " " + t
+            lines[-2] += sp + t
     else:
         lines += [t, ""]
 
@@ -620,7 +662,7 @@ def layout_file_lines(r, f, cfg, pre):
         lines += [tpl.format(n="", title=title, short=short) if tpl
                   else f"== {title}", ""]
     for el in f["parts"]:
-        lines += part_lines(r, el, 3)
+        part_lines(r, el, 3, lines)
     while lines and lines[-1] == "":
         lines.pop()
     return lines
