@@ -1,6 +1,7 @@
-#import "@local/fgbooks:0.5.1": *
+#import "@local/fgbooks:0.5.3": *
 
 #show: book.with(
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
   title: [All of Grace],
   author: "Charles Spurgeon",
   publishing-info: [

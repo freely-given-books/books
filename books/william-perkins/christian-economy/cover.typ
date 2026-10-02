@@ -12,7 +12,7 @@
 // and check `pdfinfo` after the text changes length, or the spine will be
 // wrong.  Everything else on the wrap follows from it.
 //
-//   spine = pages x caliper = 130 x 0.0025in = 0.325in
+//   spine = pages x caliper = 124 x 0.0025in = 0.310in
 #panel-cover(
   title: [Christian Economy],
   subtitle: [
@@ -20,7 +20,7 @@
     and Ordering a Family, According to the Scriptures
   ],
   author: [William Perkins],
-  pages: 130,
+  pages: 124,
   paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,

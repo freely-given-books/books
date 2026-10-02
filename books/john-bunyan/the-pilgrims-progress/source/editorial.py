@@ -65,6 +65,6 @@ def LAYOUT(root):
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "The Pilgrim's Progress", "author": "John Bunyan",
         "file": "the-pilgrims-progress.epub", "front": "ebook-front.html",
-        "cover": "cover_front.jpg",
+        "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-pilgrims-progress.typ"]

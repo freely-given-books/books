@@ -13,7 +13,7 @@ under the Similitude of a Dream*, Parts I (1678) and II (1684).
 | `the-pilgrims-progress.typ` | print edition (imports the `@local/fgbooks` template) |
 | `ebook-front.html` | ebook front matter (licence) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
-| `cover.typ`, `cover_front.jpg` | print cover; the ebook cover (designed outside this repository, so kept as a source) |
+| `cover.typ` | the cover, in the imprint's panel design (`scripts/panel_cover.typ`, palette `ochre`); its front panel is the ebook cover, rendered at build time |
 | `source/pilgrim.thml.xml` | CCEL's ThML, untouched ([ccel.org/ccel/b/bunyan/pilgrim.xml](https://www.ccel.org/ccel/b/bunyan/pilgrim.xml); Logos's text of the 1853 Auburn edition): the provenance |
 | `source/the-pilgrims-progress.tei.xml` | enriched TEI edition: the CCEL text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings (modern text; the layout into stages; verse line by line) |
@@ -54,5 +54,5 @@ $ ./fgb build pilgrim      # print PDF, cover and checked EPUB into dist/
 ```
 
 The PDF and the EPUB are not kept in git: `./fgb build pilgrim` makes them
-in `dist/john-bunyan/the-pilgrims-progress/`. `cover.typ`'s spine width
-(0.97") was set for the earlier 382-page book; the edition has 404 pages.
+in `dist/john-bunyan/the-pilgrims-progress/`. `cover.typ` is set for 404
+pages (spine by Lulu's formula, 0.97"); change `pages` if the count changes.
