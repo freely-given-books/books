@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23.]
 
-    #emph[For the husband is the head of the wife, even as Christ is the head of the Church: and he is the Saviour of the body.]
+    #text(style: "italic")[For the husband is the head of the wife, even as Christ is the head of the Church: and he is the Saviour of the body.]
   ]
 ]
 
@@ -59,7 +59,7 @@ Upon this ground the Apostle infereth the conclusion in the next verse.
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24]
 
-    #emph[Therefore as the Church is subject to Christ, so let wives be to their own husbands in every thing.]
+    #text(style: "italic")[Therefore as the Church is subject to Christ, so let wives be to their own husbands in every thing.]
   ]
 ]
 
@@ -88,7 +88,7 @@ I will further consider these examples of Christ and the Church more distinctly 
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23, 24.]
 
-    #emph[23. #emph[Christ is the head of the Church: and he is the Saviour of the body.]]
+    #text(style: "italic")[23. #emph[Christ is the head of the Church: and he is the Saviour of the body.] 24. #emph[The Church is subject unto Christ in every thing.]]
   ]
 ]
 
@@ -139,7 +139,7 @@ Till the Pope of Rome can show so good reason for this #footnote[1 #emph[Use.]] 
 
 + This distinction is without all ground or warrant of Scripture.
 + It implieth plain contradiction. For to be a ministerial head, is to be an #emph[head] and a #emph[minister,] which is all one as an #emph[head] and a #emph[member] in relation to the same thing.
-+ Though in these two words #emph[(Imperial, Ministerial)] they may seem to advance Christ above the Pope, yet in their own interpretation of these words they make the Pope equal #footnote[#emph[Staplet. lib.] 6. #emph[cap.] 16. #emph[de princip. doct.]] to Christ, if not advance him above Christ. For they say that Christ is an #emph[imperial] head to quicken the Church inwardly: and the Pope a #emph[ministerial] head to govern it outwardly. First let it be noted, how little congruity this exposition hath with the words expounded. Doth this word #emph[(imperial)] intimate a quickening virtue? Doth this word #emph[(ministerial)] imply a governing power? Nay, is there not great incongruity in this, that Christ should be the #emph[Imperial] head, and yet the Pope an head to govern? Besides, doth not this rend asunder two of Christs offices, and leaving one to Christ, give another to the Pope, and so make him equal with Christ? If the particular branches of this government which is given by papists unto the Pope by virtue of his headship be observed, we shall find that to be verified in him, which the Apostle hath foretold concerning Antichrist, that #emph[as God he sitteth in the temple of] #footnote[2 #emph[Thess.] 2. 4.] #emph[God, showing himself that he is God.] For they give to him the keys of heaven and hell, to shut or open the one or other as #footnote[In Decretal.] pleaseth him: they give him power to dispense with Gods lawes, to coin articles of faith, to make lawes to bind mens consciences directly and immediately, to give pardon for sin, to free subjects from allegeance to their Soveraignes, to canonize Saints, and what not? But to let these impious blaspliemies pass, beside that this prerogative of Christ (to be #emph[head of] #footnote[#emph[Eph.] 1. 21, 22, 23] #emph[the Church)] is incommunicable (for thereby the Apostle proveth Christ to be advanced #emph[far above all principality, and power, and might, and dominion, and every name, etc.)] Christ needeth not for the execution of his office therein any Vicar, or Deputy: for as head he #emph[filleth all in all things:] and by his eternal spirit is he in heaven, earth, and every place where any of his members are, according to his #footnote[#emph[Mat.] 18. 20. & 28. 20.] promises made unto his Church.
++ Though in these two words #emph[(Imperial, Ministerial)] they may seem to advance Christ above the Pope, yet in their own interpretation of these words they make the Pope equal #footnote[#emph[Staplet. lib.] 6. #emph[cap.] 16. #emph[de princip. doct.]] to Christ, if not advance him above Christ. For they say that Christ is an #emph[imperial] head to quicken the Church inwardly: and the Pope a #emph[ministerial] head to govern it outwardly. First let it be noted, how little congruity this exposition hath with the words expounded. Doth this word #emph[(imperial)] intimate a quickening virtue? Doth this word #emph[(ministerial)] imply a governing power? Nay, is there not great incongruity in this, that Christ should be the #emph[Imperial] head, and yet the Pope an head to govern? Besides, doth not this rend asunder two of Christs offices, and leaving one to Christ, give another to the Pope, and so make him equal with Christ? If the particular branches of this government which is given by papists unto the Pope by virtue of his headship be observed, we shall find that to be verified in him, which the Apostle hath foretold concerning Antichrist, that #emph[as God he sitteth in the temple of] #footnote[2 #emph[Thess.] 2. 4.] #emph[God, showing himself that he is God.] For they give to him the keys of heaven and hell, to shut or open the one or other as #footnote[In Decretal.] pleaseth him: they give him power to dispense with Gods laws, to coin articles of faith, to make laws to bind mens consciences directly and immediately, to give pardon for sin, to free subjects from allegeance to their Soveraignes, to canonize Saints, and what not? But to let these impious blaspliemies pass, beside that this prerogative of Christ (to be #emph[head of] #footnote[#emph[Eph.] 1. 21, 22, 23] #emph[the Church)] is incommunicable (for thereby the Apostle proveth Christ to be advanced #emph[far above all principality, and power, and might, and dominion, and every name, etc.)] Christ needeth not for the execution of his office therein any Vicar, or Deputy: for as head he #emph[filleth all in all things:] and by his eternal spirit is he in heaven, earth, and every place where any of his members are, according to his #footnote[#emph[Mat.] 18. 20. & 28. 20.] promises made unto his Church.
 
 Much comfort and great confidence must this needs minister #footnote[Use.] to all such as have assurance that they are of this body: for having so mighty, so wise, so merciful an head, an head so sufficient every way, who can instruct, direct, guide, govern, protect, and help them in all their needs whatsoever, what need they fear? When we are assaulted by Satan, or any way set upon by any of his instruments, or are in any distress or need, let us lift up the eyes of our faith higher then we can the eyes of our body, and in heaven behold this our head, who is invisible, and we cannot but receive from thence much comfort, and encouragement.
 
@@ -175,7 +175,7 @@ Great matter of #emph[rejoicing,] and of #emph[confidence] doth this minister #f
 
 They who believe in this #emph[Saviour] will be of like mind: and as they rejoice in him, so they will trust unto him, and say with the Apostle, #emph[we are more then conquerors through him] #footnote[#emph[Rom.] 8. 37.] #emph[that loved us, etc.]
 
-This being so, to what end serueth the supposed #emph[treasure of] #footnote[Refut.] #emph[the Church,] wherein are said to be stored up #emph[indulgences, pardons, merits, works of supererogation,] and I know not what trash, to add to the satisfaction of this Saviour? Either Christ is not a sufficient Saviour, or these are (to speak the least) vain. But vain they are: & an empty, filthy, detestable treasure that is, which God will destroy with all that trust therein.
+This being so, to what end serveth the supposed #emph[treasure of] #footnote[Refut.] #emph[the Church,] wherein are said to be stored up #emph[indulgences, pardons, merits, works of supererogation,] and I know not what trash, to add to the satisfaction of this Saviour? Either Christ is not a sufficient Saviour, or these are (to speak the least) vain. But vain they are: & an empty, filthy, detestable treasure that is, which God will destroy with all that trust therein.
 
 === §. 20. #emph[Of Christ the only Saviour.]
 
@@ -191,7 +191,7 @@ Here by the way note the blasphemous arrogancy of those great sectaries among th
 
 But to return to our matter, Saint #emph[Peter] doth most plainly and fully prove the forenamed doctrine in these words spoken of Jesus Christ, #footnote[#emph[Act.] 4. 12.] #emph[There is not salvation in any other: for there is none other name under heaven given among men whereby we must be saved.] None is able, #footnote[#emph[Reu.] 5. 4, 5.] none is worthy to work so great #footnote[1\. #emph[Use.]] a work: he must do it, or it can not be done. But #footnote[#emph[Isa.] 63. 3.] he is so #footnote[See #emph[The whole Armour of God,] Treat. 1. part 1 §. 5.] able, and so worthy as he can do it of himself, and needeth none to assist him.
 
-What a dotage is it to trust to other Saviours? Legions of #footnote[#emph[Virum multi salutares dici possint non facile audendum est. Solus enim ipse saluator corporis est. Aug. in Ios. lib.] 6. #emph[quaest.] 23.] Saviours have Papists to whom they fly in their need. All the Angels in heaven, and all, whom at any time their Popes have canonized for Saints (which are many millions) are made Saviours by them. #footnote[#emph[Ier.] 2. 12, 13.] #emph[Be astonished, O ye heavens, at this: for they have committed two evils: they have forsaken Christ the fountain of living waters, and hewed them out cisterns, broken cisterns that can hold no water.]
+What a dotage is it to trust to other Saviours? Legions of #footnote[#emph[Virum multi salutares dici possint non facile audendum est. Solus enim ipse saluator corporis est. Aug. in Ios. lib.] 6. #emph[quaest.] 23.] Saviours have Papists to whom they fly in their need. All the Angels in heaven, and all, whom at any time their Popes have canonized for Saints (which are many millions) are made Saviours by them. #footnote[#emph[Jer.] 2. 12, 13.] #emph[Be astonished, O ye heavens, at this: for they have committed two evils: they have forsaken Christ the fountain of living waters, and hewed them out cisterns, broken cisterns that can hold no water.]
 
 Let us for our parts fly unto this Saviour only, and wholly #footnote[2\. #emph[Use.]] rely upon him, as we desire to be saved. Thus shall we honour him by preferring him before all: yea by rejecting all but him: and thus shall we be sure to bring help, ease and comfort to our own souls.
 
@@ -220,9 +220,9 @@ This metaphor, by which the persons that reap the benefit of Christs office are 
 
 2. #emph[None but those that are incorporated into Christ shall be saved.] For this privilege is appropriated to the #emph[body.]
 
-The former point is clearly set forth by a resemblance, which the Apostle maketh betwixt #emph[Adam] and #emph[Christ,] thus: #emph[As by the offence of one, judgment came on all men to condemnation,] #footnote[#emph[Rom.] 5. 18.] #emph[even so by the righteousness of one, the free gift came on all men unto justification of life.] Here are noted two roots, one is #emph[Adam,] the other is #emph[Christ:] both of them have their number of branches, to all which they convey that which is in them, as the root conveyeth the sap that is in it, into all the branches that sprout from it. The first root, which is #emph[Adam,] conveyeth sin and death to all that come from him: and the other root, which is #emph[Christ,] conveyeth grace and life to every one that is given to him: for saith he, #emph[All that the father] #footnote[#emph[Ioh.] 6. 37.] #emph[giveth me, shall come to me: and him that cometh to me, I will in no wise cast out:] and a little after, he rendreth this reason, #emph[This is the fathers will, that of all which he hath given me] #footnote[#emph[Vers.] 39.] #emph[I should lose nothing, but should raise it up again at the last day.]
+The former point is clearly set forth by a resemblance, which the Apostle maketh betwixt #emph[Adam] and #emph[Christ,] thus: #emph[As by the offence of one, judgment came on all men to condemnation,] #footnote[#emph[Rom.] 5. 18.] #emph[even so by the righteousness of one, the free gift came on all men unto justification of life.] Here are noted two roots, one is #emph[Adam,] the other is #emph[Christ:] both of them have their number of branches, to all which they convey that which is in them, as the root conveyeth the sap that is in it, into all the branches that sprout from it. The first root, which is #emph[Adam,] conveyeth sin and death to all that come from him: and the other root, which is #emph[Christ,] conveyeth grace and life to every one that is given to him: for saith he, #emph[All that the father] #footnote[#emph[Joh.] 6. 37.] #emph[giveth me, shall come to me: and him that cometh to me, I will in no wise cast out:] and a little after, he rendreth this reason, #emph[This is the fathers will, that of all which he hath given me] #footnote[#emph[Vers.] 39.] #emph[I should lose nothing, but should raise it up again at the last day.]
 
-#strong[#emph[Object.] Christ himself maketh exception of one, where he saith, #emph[none is lost but the son of perdition.] #footnote[#emph[Ioh.] 17. 12.]]
+#strong[#emph[Object.] Christ himself maketh exception of one, where he saith, #emph[none is lost but the son of perdition.] #footnote[#emph[Joh.] 17. 12.]]
 
 #emph[Answ.] That phrase #emph[son of perdition,] showeth that #emph[Judas] was never of this body: for can we imagine that Christ is a Saviour of a son of perdition?
 
@@ -239,18 +239,18 @@ This is a point of admirable comfort to such as have assurance #footnote[Use.] o
 
 - 1\. By virtue of that union they who are of Christs body,
   - 1\. #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
-  - 2\. #footnote[#emph[Ioh.] 17. 6.] Are guided and governed according to his will.
+  - 2\. #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
   - 3\. #footnote[#emph[Joh.] 17. 10] Seek to honour him in all things they do.
   - 4\. #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 116. 136.] Are offended and grieved when he is dishonoured by others.
 - 2\. By reason of their communion with the Saints being fellow members,
-  - 1\. #footnote[1 #emph[Ioh.] 4. 11.] They love the brethren.
+  - 1\. #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
   - 2\. #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
   - 3\. #footnote[#emph[Eph.] 4. 16.] They will edify one another.
   - 4\. #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 
-That none but those who are of Christs body, shall partake of the benefit of his office, is clear by other like titles of restraint, as #footnote[#emph[Mat.] 1. 21.] #emph[his people, and] #footnote[#emph[Ioh.] 10. 15.] #emph[his sheep:] but especially by denying to the #emph[world] the benefit of his intercession. #footnote[#emph[Ioh.] 17. 9.] #emph[I pray not for the world,] saith he. In this respect this position #emph[(out of the Church no salvation)] is without exception true: for #emph[the body] is the true, Catholic, invisible Church: he that is not a member of this Church, but is out of it, hath not Christ to be his head #footnote[#emph[Ecclesia corpus Christi est: unde manifestum est, eum qui non est in membris Christi Christianam salutem habere non posse. Aug. de Unit. Ec l. c.] 2.] and Saviour, whence then can he have salvation?
+That none but those who are of Christs body, shall partake of the benefit of his office, is clear by other like titles of restraint, as #footnote[#emph[Mat.] 1. 21.] #emph[his people, and] #footnote[#emph[Joh.] 10. 15.] #emph[his sheep:] but especially by denying to the #emph[world] the benefit of his intercession. #footnote[#emph[Joh.] 17. 9.] #emph[I pray not for the world,] saith he. In this respect this position #emph[(out of the Church no salvation)] is without exception true: for #emph[the body] is the true, Catholic, invisible Church: he that is not a member of this Church, but is out of it, hath not Christ to be his head #footnote[#emph[Ecclesia corpus Christi est: unde manifestum est, eum qui non est in membris Christi Christianam salutem habere non posse. Aug. de Unit. Ec l. c.] 2.] and Saviour, whence then can he have salvation?
 
 The former point is not more comfortable to those that have assurance that they are members of this body, then this is terrible to those that give too great evidence they are no members thereof; as all they do that have not the spirit of Christ ruling in them, but rather rebel against him: and bear no love to the Saints, but rather hate them, and do them all the spight they can.
 
@@ -261,7 +261,7 @@ The former point is not more comfortable to those that have assurance that they 
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24.]
 
-    #emph[The Church is subject unto Christ in every thing.]
+    #text(style: "italic")[The Church is subject unto Christ in every thing.]
   ]
 ]
 
@@ -291,7 +291,7 @@ The extent of the Churches subjection to Christ is without any restraint at all,
 
 #emph[They who are of the true Catholic Church will yield universal] #footnote[Doctr.] #emph[obedience to Christ:] they will obey him in all and every of his commandments. #emph[David turned not aside from any thing that] #footnote[1 #emph[Kings] 15. 5.] #emph[the Lord commanded him. Josiah turned to the Lord with all his] #footnote[2 #emph[Kings] 23. 25. #emph[Luke] 1. 6.] #emph[heart according to all the law:] and #emph[Zacharias,] and #emph[Elizabeth, walked in all the commandments of God.] All these were of this Church: and of their mind are all others that are of this Church.
 
-For the spirit of Christ which is in them worketh a thorough #footnote[Reason.] reformation: even as the flesh leadeth a natural man on to every sin, so the spirit of Christ stireth him up to every good duty. In which respect it is said, that #emph[whosoever is borne of God] #footnote[1 #emph[John] 3. 9.] #emph[doth not commit sin.]
+For the spirit of Christ which is in them worketh a thorow #footnote[Reason.] reformation: even as the flesh leadeth a natural man on to every sin, so the spirit of Christ stireth him up to every good duty. In which respect it is said, that #emph[whosoever is borne of God] #footnote[1 #emph[John] 3. 9.] #emph[doth not commit sin.]
 
 #strong[#emph[Object.] The best Saints in all ages have transgressed in many #footnote[#emph[Iam.] 3. 2.] things.]
 

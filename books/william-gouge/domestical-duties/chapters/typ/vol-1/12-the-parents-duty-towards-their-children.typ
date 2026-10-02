@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 4.]
 
-    #emph[And ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.]
+    #text(style: "italic")[And ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.]
   ]
 ]
 
@@ -49,7 +49,7 @@ If they do, they make their own sin the more heinous, and also they pull down up
 
 That parents by avoiding the rock of #emph[provoking,] fall not into the gulf of #emph[cockering,] the Apostle addeth a BUT, which is as a stop unto them, and teacheth them that
 
-#emph[It is not sufficient for parents to prevent such mischiefs as ] #footnote[3\. #emph[Obser.]] #emph[children may fall into, but they must also seek their good.] All the precepts in Scripture charging parents to seek their childrens good, prove the point. Herein lieth a main difference betwixt the affection which parents and strangers ought to bear toward children, and the duty which one and the other owe to them. Mere strangers ought not to provoke them: but parents ought moreover every way to seek their good.
+#emph[It is not sufficient for parents to prevent such mischiefs as] #footnote[3\. #emph[Obser.]] #emph[children may fall into, but they must also seek their good.] All the precepts in Scripture charging parents to seek their childrens good, prove the point. Herein lieth a main difference betwixt the affection which parents and strangers ought to bear toward children, and the duty which one and the other owe to them. Mere strangers ought not to provoke them: but parents ought moreover every way to seek their good.
 
 The main good which parents ought especially to seek after in the behalf of their children, is noted out in these words: #emph[Bring them up in the nurture and admonition of the Lord.]
 
@@ -69,7 +69,7 @@ The word translated #emph[nurture,] signifieth as well #emph[correction] as #emp
 
 This word #emph[(admonition)] according to the #footnote[#emph[menti indere.]] notation thereof, hath a particular relation to the #emph[mind,] and pointeth out an informing and instructing of it. It is taken either for the action of admonishing, (as Tit. 3. 10. #emph[reject an hereticke] #emph[after the first and second admonition)] or for the #footnote[In monitis.] thing admonished, in which latter sense most do here take it: yet would I not have the former clean excluded, for according to the full meaning of the word, I take thus much to be intended.
 
-#emph[As parents deliver good precepts and principles to their children,] #footnote[7\. #emph[Obseru.].] #emph[so they must be careful, by forcible and frequent admonitions, to fix and settle them in the mind of their children.] #footnote[#emph[Deut.] 6. 7.] The Law expresseth as much by another metaphor which it useth, in a direction which it giveth to parents, saying, #emph[thou shalt whet or sharpen Gods Lawes upon thy children,] that is, #footnote[#emph[Doctus inter Hebr. vocem] continuò loqui #emph[exponit, (i.) inculcare, vel identidem repetere. Innuit studium & diligentiam qua pueris praecepta Dei inculcari debent. Uatabl. in Deut.] 6. 7. #emph[vide Tr.] 6. §. 42.] thou shalt teach them diligently unto them.
+#emph[As parents deliver good precepts and principles to their children,] #footnote[7\. #emph[Obseru.].] #emph[so they must be careful, by forcible and frequent admonitions, to fix and settle them in the mind of their children.] #footnote[#emph[Deut.] 6. 7.] The Law expresseth as much by another metaphor which it useth, in a direction which it giveth to parents, saying, #emph[thou shalt whet or sharpen Gods Laws upon thy children,] that is, #footnote[#emph[Doctus inter Hebr. vocem] continuò loqui #emph[exponit, (i.) inculcare, vel identidem repetere. Innuit studium & diligentiam qua pueris praecepta Dei inculcari debent. Uatabl. in Deut.] 6. 7. #emph[vide Tr.] 6. §. 42.] thou shalt teach them diligently unto them.
 
 The more pains is taken in this kind, the less labour will be lost. That which at first is little heeded, by much urging and pressing will for ever be held, as a nail that at one blow scars entreth, with many blows is knockt up to the head.
 

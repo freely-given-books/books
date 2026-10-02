@@ -7,13 +7,13 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #emph[5. #emph[Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ.]]
+    #text(style: "italic")[5. #emph[servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ.] 6. #emph[Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart.] 7. #emph[With good will doing service, as to the Lord, and not to men.] 8. #emph[Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]]
   ]
 ]
 
 #v(0.8em)
 
-THe third and last couple of a family are—
+The third and last couple of a family are—
 
 + Masters.
 + Servants.
@@ -33,12 +33,12 @@ I. In declaring servants duties he noteth—
 
 of them.
 
-1. The kinds of servants duties are noted in two words,—
+1\. The kinds of servants duties are noted in two words,—
 
 + #emph[Obey,] vers. 5.
 + #emph[Serve,] vers. 7.
 
-2. The manner is set down
+2\. The manner is set down
 
 + #emph[Affirmatively,] vers. 5, 7.
 + #emph[Negatively,] vers. 6, 7.
@@ -49,7 +49,7 @@ of them.
 - 2\. #emph[Singleness of heart.]
 - 3\. #emph[Conscience to Christ.]
 
-4. #emph[Good will.] Under which are comprised—
+4\. #emph[Good will.] Under which are comprised—
 
 + Cheerfulness.
 + Readiness.
@@ -58,14 +58,14 @@ of them.
 
 2. #emph[Negatively,] by showing what vices are to be avoided, and these are two especially,
 
-1. #emph[Eye-service,] which is opposed to #emph[doing of things—]
+1\. #emph[Eye-service,] which is opposed to #emph[doing of things—]
 
 + #emph[As Christs servants.]
 + #emph[From the heart.]
 
 2. #emph[Men-pleasing,] which is opposed to #emph[doing the will of God.]
 
-3. The extent of servants duties is noted in these four phrases,—
+3\. The extent of servants duties is noted in these four phrases,—
 
 + Masters #emph[after the flesh,] vers. 5.
 + #emph[As to Christ,] vers. 5.
@@ -108,7 +108,7 @@ In their #emph[Opinion] they must be informed and resolved that the #footnote[Se
 
 1. #emph[God hath given express commandment] unto masters to govern their servants: and unto servants to be subject to their masters. #footnote[#emph[Exo.] 20. 10.] In the fourth commandment God giveth a charge to masters over their servants, to see that they do no manner of work. And the Angell biddeth #emph[Hagar] #footnote[#emph[Gen.] 16. 9.] #emph[humble her self under her mistress hands.] And here servants are commanded to #emph[obey their masters.]
 
-2. Many directions are given both to masters and servants in regard of their different places how to carry themselves one to another. Read for this purpose the many lawes which #emph[Moses] prescribed to both: the many counsels which #emph[Solomon,] in his proverbs especially, giveth also to both: and particularly the directions of this and other Apostles.
+2. Many directions are given both to masters and servants in regard of their different places how to carry themselves one to another. Read for this purpose the many laws which #emph[Moses] prescribed to both: the many counsels which #emph[Solomon,] in his proverbs especially, giveth also to both: and particularly the directions of this and other Apostles.
 
 3. Saints in all ages have been set in these places: some in the places of masters, and some in the places of servants: and according to the place wherein God hath set them, they have performed their duty: masters the duties of masters, and servants the duties of servants.
 
@@ -231,7 +231,7 @@ That they observe a fit season to speak to their master: as when he is at leasur
 
 A fourth caution is,
 
-That they give a ready and present answer to their master. This is oft commended in #emph[Peter,] that when Christ propounded any question to his disciples, he would presently and #footnote[#emph[Mat.] 16. 16. #emph[Ioh.] 6. 68.] readily answer.
+That they give a ready and present answer to their master. This is oft commended in #emph[Peter,] that when Christ propounded any question to his disciples, he would presently and #footnote[#emph[Mat.] 16. 16. #emph[Joh.] 6. 68.] readily answer.
 
 A fifth caution is,
 
@@ -262,7 +262,7 @@ Offences contrary to the forenamed #emph[reverence] of servants to their masters
 
 8. #emph[Unseasonable interruption] of their master: speaking to him when he is seriously occupied in some weighty business (as they who told Christ of his mother and brethren when he was preaching) or unseasonably speaking unto him while he #footnote[#emph[Mar.] 3. 32.] is in passion, whereby they oft bring much mischief upon themselves.
 
-9. #emph[Answering their master at their own leisure,] suffering him to call, and call again and again. This doth #emph[Iob] complain of, saying, #emph[I called my servant and he gave me no answer.] #footnote[#emph[Iob] 19. 16.]
+9. #emph[Answering their master at their own leisure,] suffering him to call, and call again and again. This doth #emph[Job] complain of, saying, #emph[I called my servant and he gave me no answer.] #footnote[#emph[Job] 19. 16.]
 
 10. #emph[Flapping their master in the mouth with a lie:] like #emph[Gehazi,] who, when he had lewdly fetched money and apparel of #emph[Naaman,] and his master asked him where he had been, said with a fair face, #emph[Thy servant went no whither.] Let the judgment #footnote[2 #emph[King.] 5. 25.] executed on him make all servants take heed of the like sin. For #emph[Lying] is in it self an heinous sin: yet so much the more heinous when it is told to one that hath authority over us, and by reason thereof standeth in Gods place.
 
@@ -304,4 +304,4 @@ Servants commonly most fail in this duty of reverence towards their masters ther
 
 3. Exceeding great is the fault of servants in their excess in apparel. #footnote[3\. Pride.] No distinction ordinarily betwixt a mans children and servants: nay none betwixt masters and their men, mistresses and their maids. It may be while men and maids are at their masters and mistresses finding, difference may be made: though even then also, if they can any way get wherewithal, they will do what they can to be as brave as they can. But if once they be at their own finding, all shall be laid out upon apparel, but they will be as fine as master or mistress: if not so costly, yet in show as specious and brave. New fashions are as soon got up by servants as by masters and mistresses. What is the end of this, but to be thought as good as master or mistress? If the Queen of #emph[Sheba] were now living, she would as much wonder at the disorder of servants in these days, as then she wondred at the comely order of #emph[Solomons] servants. Let these proud servants look to it: for if God have threatened to #emph[visit Princes children that walk in strange apparel,] #footnote[#emph[Zeph.] 1. 8.] can servants that so walk think to go scot-free?
 
-#quote(block: true)[Thus much of servants reverence. Their obedience followeth.]
+Thus much of servants reverence. Their obedience followeth.

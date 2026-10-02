@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
-    #emph[That he might present it to himself a glorious Church, etc.]
+    #text(style: "italic")[That he might present it to himself a glorious Church, etc.]
   ]
 ]
 
@@ -23,7 +23,7 @@ The most principal end, in regard of the Churches good, which Christ aimed at wh
 
 1. Heaven, the place of our glorification, is #emph[an holy City,] #footnote[#emph[Reasons. Reu.] 21. 10, 27.] #emph[whereinto no unclean thing shall enter.]
 
-2. In that place the Church is to be married unto Christ, and to be ever with him: she must therefore #emph[be pure as he is] #footnote[1 #emph[Ioh.] 3. 2, 3.] #emph[pure:] for he will not endure the society of a foul filthy spouse.
+2. In that place the Church is to be married unto Christ, and to be ever with him: she must therefore #emph[be pure as he is] #footnote[1 #emph[Joh.] 3. 2, 3.] #emph[pure:] for he will not endure the society of a foul filthy spouse.
 
 As we desire assurance of our glorification in heaven, so #footnote[Use.] let us get, and give evidence of our justification and sanctification on earth. The evidence of our justification is a sound and true faith. The evidence of our sanctification is a good and clear conscience.
 
@@ -48,7 +48,7 @@ For our parts as we desire to appear before Christ so as he #footnote[Use.] may 
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
-    #emph[That he might present it to himself a glorious Church, not having spot or wrinkle, or any such thing: but that it should be holy, and without blemish.]
+    #text(style: "italic")[That he might present it to himself a glorious Church, not having spot or wrinkle, or any such thing: but that it should be holy, and without blemish.]
   ]
 ]
 
@@ -68,27 +68,27 @@ In the general proposition is noted
 
 The particular exemplification thereof is
 
-1. Privative, by removing all deformity: noted in two words
+1\. Privative, by removing all deformity: noted in two words
 
-+ #emph[Spot].
++ #emph[Spot.]
 + #emph[Wrinkle.]
 
-2. Positive, by adorning her with beauty: noted also in two words
+2\. Positive, by adorning her with beauty: noted also in two words
 
-+ #emph[Holy].
++ #emph[Holy.]
 + #emph[Blameless.]
 
 The word #emph[(present)] is taken from the custom of solemnizing a marriage: first the spouse was wooed, and then set before her husband that he might take her to wife, to be with him. Thus #footnote[#emph[Gen.] 2. 22.] #emph[Eve] was presented by God to #emph[Adam] that he might take her for his wife: and #footnote[#emph[Est.] 2. 13.] #emph[Esther] among other virgins was presented to #emph[Ahash-verosh.] This showeth that #footnote[Doct.]
 
-#emph[The Church in heaven shall enjoy the presence of Christ:] #footnote[#emph[Ioh.] 14. 2, 3.] Christ himself saith expressly to his disciples, #emph[I go to prepare a place for you, that where I am, there ye may be also.] On this ground did the Apostle desire to depart, namely #footnote[#emph[Phil.] 1. 23.] #emph[to be with Christ,] and #footnote[2 #emph[Cor.] 5. 8. #emph[Reason.]] #emph[to be present with the Lord.]
+#emph[The Church in heaven shall enjoy the presence of Christ:] #footnote[#emph[Joh.] 14. 2, 3.] Christ himself saith expressly to his disciples, #emph[I go to prepare a place for you, that where I am, there ye may be also.] On this ground did the Apostle desire to depart, namely #footnote[#emph[Phil.] 1. 23.] #emph[to be with Christ,] and #footnote[2 #emph[Cor.] 5. 8. #emph[Reason.]] #emph[to be present with the Lord.]
 
-In heaven is the marriage betwixt Christ and the Church solemnized, which here on earth hath been in preparing. God the father hath given his #footnote[#emph[Ioh.] 3. 16.] son unto the Church, and the #footnote[#emph[&] 17. 6.] Church unto his son: yea #footnote[#emph[Act.] 20. 28.] Christ himself hath purchased the Church unto himself by his blood, and #footnote[#emph[Ose.] 2. 19, 20.] promised marriage unto her, and the more to assure the Church of his love he hath #footnote[#emph[Eph.] 4. 8.] bestowed many gifts upon her: he hath further sent #footnote[Paranymphi.] his Ministers in his name to #footnote[#emph[Ioh.] 3. 29.] woo and #footnote[2 #emph[Cor.] 5. 20.] beseech the Church to give her consent, and to #footnote[#emph[&] 11. 2.] prepare her as a pure virgin for himself: Hereupon the Church hath given her consent, for #footnote[#emph[Eph.] 5. 24.] as a spouse she is subject unto Christ as unto an head. These things being so, how can it be thought that Christ will forsake her, and not receive her to be with him for ever?
+In heaven is the marriage betwixt Christ and the Church solemnized, which here on earth hath been in preparing. God the father hath given his #footnote[#emph[Joh.] 3. 16.] son unto the Church, and the #footnote[#emph[&] 17. 6.] Church unto his son: yea #footnote[#emph[Act.] 20. 28.] Christ himself hath purchased the Church unto himself by his blood, and #footnote[#emph[Ose.] 2. 19, 20.] promised marriage unto her, and the more to assure the Church of his love he hath #footnote[#emph[Eph.] 4. 8.] bestowed many gifts upon her: he hath further sent #footnote[Paranymphi.] his Ministers in his name to #footnote[#emph[Joh.] 3. 29.] woo and #footnote[2 #emph[Cor.] 5. 20.] beseech the Church to give her consent, and to #footnote[#emph[&] 11. 2.] prepare her as a pure virgin for himself: Hereupon the Church hath given her consent, for #footnote[#emph[Eph.] 5. 24.] as a spouse she is subject unto Christ as unto an head. These things being so, how can it be thought that Christ will forsake her, and not receive her to be with him for ever?
 
-Can the thought of death be terrible to such as know and #footnote[Use.] believe the truth hereof? Will not rather the consideration #footnote[Incoragement against death.] thereof make them with the Apostle #emph[to sigh, and desire to depart,] that they may be with the Lord? The highest degree of the Churches happiness consisteth in this fruition of the #footnote[#emph[Totum tibi sit Deus: quia horum quae diligis, totum tibi est. Aug. in Ioh.] 3. #emph[tract.] 13. #emph[Reu.] 21. 22, 23. #emph[Ioh] 17. 20, 21.] presence of her spouse: for so he becometh all in all unto her: not by means, as in this world, but immediately by himself: so as there shall need no Minister, no Sacrament, no ordinance to set forth Christ unto us: no Governor in family, Church, or common-wealth, to represent his person, or to keep us in subjection: no light to direct us, no food to sustain us; we shall be so assisted with Christ as we shall need nothing. If those servants were happy that stood continually before #emph[Solomon,] what are they that always stand not as servants #footnote[1 #emph[King.] 10. 8.] but as a wife in his presence that is infinitely greater then #emph[Solomon?] If it were a great grace & favour, that #emph[Moses] saw the backparts #footnote[#emph[Exo.] 33. 23.] of God, what a grace and favour is it, to behold Christ #footnote[1 #emph[Cor.] 13. 12.] face to face? For #emph[when he doth appear, we shall see him as he is.] #footnote[1 #emph[Joh.] 3 2.] Though now we be absent from the Lord, yet let us uphold our selves with the expectation and assurance of this, that we shall be presented before Christ.
+Can the thought of death be terrible to such as know and #footnote[Use.] believe the truth hereof? Will not rather the consideration #footnote[Incoragement against death.] thereof make them with the Apostle #emph[to sigh, and desire to depart,] that they may be with the Lord? The highest degree of the Churches happiness consisteth in this fruition of the #footnote[#emph[Totum tibi sit Deus: quia horum quae diligis, totum tibi est. Aug. in Ioh.] 3. #emph[tract.] 13. #emph[Reu.] 21. 22, 23. #emph[Joh] 17. 20, 21.] presence of her spouse: for so he becometh all in all unto her: not by means, as in this world, but immediately by himself: so as there shall need no Minister, no Sacrament, no ordinance to set forth Christ unto us: no Governor in family, Church, or common-wealth, to represent his person, or to keep us in subjection: no light to direct us, no food to sustain us; we shall be so assisted with Christ as we shall need nothing. If those servants were happy that stood continually before #emph[Solomon,] what are they that always stand not as servants #footnote[1 #emph[King.] 10. 8.] but as a wife in his presence that is infinitely greater then #emph[Solomon?] If it were a great grace & favour, that #emph[Moses] saw the backparts #footnote[#emph[Exo.] 33. 23.] of God, what a grace and favour is it, to behold Christ #footnote[1 #emph[Cor.] 13. 12.] face to face? For #emph[when he doth appear, we shall see him as he is.] #footnote[1 #emph[Joh.] 3 2.] Though now we be absent from the Lord, yet let us uphold our selves with the expectation and assurance of this, that we shall be presented before Christ.
 
 === §. 50. #emph[Of the Glory of the Church in heaven.]
 
-#emph[The quality of the Church in heaven is as excellent as may be,] #footnote[Doctr.] and therefore here said to be #emph[glorious:] all beauty, all comeliness, all grace, whatsoever may make the Church amiable, lovely, or any way to be desired, or admired, is comprised under this word #emph[glorious.] In this respect the Saints are said to #emph[shine,] and that #emph[as] #footnote[#emph[Reu.] 21. 11.] #emph[precious stones,] yea as the #footnote[#emph[Dan.] 12. 3.] #emph[firmament,] as the #emph[stars,] and as the #footnote[#emph[Mat.] 13. 43.] #emph[sunn:] and to be #footnote[1 #emph[Ioh.] 3, 2.] #emph[like Christ] himself: and to #footnote[#emph[Col.] 3 4.] #emph[appear with him in glory.]
+#emph[The quality of the Church in heaven is as excellent as may be,] #footnote[Doctr.] and therefore here said to be #emph[glorious:] all beauty, all comeliness, all grace, whatsoever may make the Church amiable, lovely, or any way to be desired, or admired, is comprised under this word #emph[glorious.] In this respect the Saints are said to #emph[shine,] and that #emph[as] #footnote[#emph[Reu.] 21. 11.] #emph[precious stones,] yea as the #footnote[#emph[Dan.] 12. 3.] #emph[firmament,] as the #emph[stars,] and as the #footnote[#emph[Mat.] 13. 43.] #emph[sun:] and to be #footnote[1 #emph[Joh.] 3, 2.] #emph[like Christ] himself: and to #footnote[#emph[Col.] 3 4.] #emph[appear with him in glory.]
 
 This glory of the Saints extendeth both to soul and body, and whole person.
 
@@ -96,11 +96,11 @@ In regard of their souls they shall be all #footnote[#emph[Psal.] 45. 13.] #emph
 
 In regard of their bodies, they shall be #footnote[#emph[Phil.] 3. 21.] #emph[fashioned like to Christs glorious body:] and that in incorruption, immortality, #footnote[#emph[Ecclesia in fine seculi expectat quo l in Christi corpore praemonstratum est, etc. Aug. Epist.] 119.] beauty, brightness, grace, favour, agility, strength, and the like. It is therefore truly said, that the Church in the end of the world expecteth that which is before demonstrated in Christs body.
 
-In regard of their person, as a wife is advanced to the honour and dignity of her husband, so shall they to the honour and dignity of Christ, so far as they are capable of it: for they shall be #footnote[#emph[Luk.] 22. 30.] next unto Christ, yea #footnote[#emph[Ioh.] 17. 21] one with him, and so #footnote[#emph[Heb.] 1. 14.] above the most glorious Angels.
+In regard of their person, as a wife is advanced to the honour and dignity of her husband, so shall they to the honour and dignity of Christ, so far as they are capable of it: for they shall be #footnote[#emph[Luk.] 22. 30.] next unto Christ, yea #footnote[#emph[Joh.] 17. 21] one with him, and so #footnote[#emph[Heb.] 1. 14.] above the most glorious Angels.
 
 Much more might be spoken of the glory of the Church: but never can enough be spoken thereof, no not by the tongue of men or Angels: for #footnote[1 #emph[Cor.] 2. 9.] #emph[eye hath not seen, nor ear heard, neither have entered into the heart of man the things which God hath prepared for them which love him.] When #emph[Paul] was rapt up into the third heaven, and saw but a glimps of this glory, #footnote[2 #emph[Cer.] 12 4..] he #emph[heard unspeakable words, which are not possible for man to utter.] Wherefore #footnote[2 #emph[Cer.] 4. 17.] when he speaketh of it, he useth such a transcendent kind of phrase, as cannot in any tongue be fully expressed: we thus as well as we can by one degree of comparison upon another translate it, #emph[a far more exceeding] and eternal weight of glory.
 
-Is not this sufficient to uphold us against all the reproach and disgrace which the world layeth upon us, because we are #footnote[Use.] of the Church of Christ? The world hath #footnote[#emph[Isa.] 62. 4.] of old counted her, to whom Christ saith, #emph[Hephzibah] (that is, #emph[my delight in her)] and #emph[Beulah] (that is, #emph[married)] forsaken and desolate, yea #footnote[1 #emph[Cor.] 4. 13..] #emph[as the filth of the world, and the off-scowring of all things.] Among Heathen, none so vildly esteemed of as Christians; and amongst Papists, none so as Protestants; & amongst carnal Gospellers, none so as they who endeavour #footnote[1 #emph[Ioh.] 3. 3.] to #emph[purify themselves as Christ is pure,] and to avoid the common sins of the world. When for Christs sake we are basely accounted of, let us think of this.
+Is not this sufficient to uphold us against all the reproach and disgrace which the world layeth upon us, because we are #footnote[Use.] of the Church of Christ? The world hath #footnote[#emph[Isa.] 62. 4.] of old counted her, to whom Christ saith, #emph[Hephzibah] (that is, #emph[my delight in her)] and #emph[Beulah] (that is, #emph[married)] forsaken and desolate, yea #footnote[1 #emph[Cor.] 4. 13..] #emph[as the filth of the world, and the off-scowring of all things.] Among Heathen, none so vildly esteemed of as Christians; and amongst Papists, none so as Protestants; & amongst carnal Gospellers, none so as they who endeavour #footnote[1 #emph[Joh.] 3. 3.] to #emph[purify themselves as Christ is pure,] and to avoid the common sins of the world. When for Christs sake we are basely accounted of, let us think of this.
 
 === §. 51. #emph[Of the Churches freedom from all deformity in heaven. Not having spot, or wrinkle, or any such thing.]
 
@@ -112,7 +112,7 @@ Though this be but a privative good, yet it addeth much to the heavenly happines
 
 === §. 52. #emph[Of the perfect purity of the Church in heaven.]
 
-#quote(block: true)[But that it should be holy and without blemish.]
+But that it should be holy and without blemish.
 
 The last branch whereby the celestial glory of the Church is set forth, is the perfect purity thereof: the adversative particle (BUT) showeth that the holiness here spoken of is no imperfect holiness, such as the sanctification of the Saints is in this world, but an absolute perfect holiness in all the parts and degrees thereof: such as is without #emph[spot] or #emph[wrinkle:] without relique, or sign of sin: and therefore by way of explanation is added, #emph[without blemish,] or #emph[blameless:] such as man, Angell, nor God himself can find fault withal. #footnote[#emph[Heb.] 9. 14.] This attribute is oft applied to the person and blood of Jesus Christ, and therefore #footnote[1 #emph[Pet.] 1. 19.] it must needs set forth perfect purity. Whence we may observe that
 

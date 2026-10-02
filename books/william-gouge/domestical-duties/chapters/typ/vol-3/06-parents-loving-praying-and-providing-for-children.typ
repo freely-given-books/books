@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 4.]
 
-    #emph[And ye fathers provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord.]
+    #text(style: "italic")[And ye fathers provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord.]
   ]
 ]
 
@@ -97,7 +97,7 @@ Reasonable men herein show themselves more unreasonable then unreasonable beasts
 
 Though not so high, yet too high on this ladder of unnaturalness #footnote[Haters of children for piety.] do they climb, who hate their children, and that (which maketh the sin to be out of measure sinful) for piety and integrity; as many Popish and profane parents, who have children truly religious: and in that respect ought so much the more to be loved.
 
-The extreme in the excess is too much #emph[doting] upon children: #footnote[Doting on children.] as they do who so unmeasurably love them, as they make reckoning of nothing in comparison of children. Even God himself is lightly esteemed, his worship neglected, his word transgressed, all duty to others omitted, their own souls forgotten thorough care of children. Is not this mere apish kindness? For Apes kill their young ones with hugging. This is no love, but plain dotage. But what may be said of those that are so hellishly enamoured with their children as to commit incest or buggery with them?
+The extreme in the excess is too much #emph[doting] upon children: #footnote[Doting on children.] as they do who so unmeasurably love them, as they make reckoning of nothing in comparison of children. Even God himself is lightly esteemed, his worship neglected, his word transgressed, all duty to others omitted, their own souls forgotten thorow care of children. Is not this mere apish kindness? For Apes kill their young ones with hugging. This is no love, but plain dotage. But what may be said of those that are so hellishly enamoured with their children as to commit incest or buggery with them?
 
 === §. 4. #emph[Of Parents praying for their children.]
 
@@ -105,7 +105,7 @@ The first and best stream which issueth out of the forenamed fountain of #emph[l
 
 Though prayer be a general duty which all Christians owe #footnote[Prayer a peculiar duty of parents.] one to another, yet after a peculiar manner doth it appertain to parents: and of all others they are most bound to it. For the promise which God maketh to a parent is extended to his seed and children, as these and such like Scriptures show, #footnote[#emph[Gen.] 17. 7.] #emph[I will be thy God, and the God of thy seed:] #footnote[#emph[Deut.] 5. 29.] #emph[That it may be well with them and with their children:] #footnote[#emph[Act.] 2. 39.] #emph[The promise is unto you, and unto your children.] parents therefore with most assurance of faith may call upon God for their children. For Gods promise is the ground of faith: so far as Gods promise is extended, so far our faith may and ought to extend it self. Hence hath arisen the commendable custom of childrens asking #footnote[Treat 5. §. 9.] their parents blessing: which intimateth a desire that parents would pray for Gods blessing on them.
 
-This duty of prayer must be performed before parents have children (that they may have some, as #footnote[#emph[Gen.] 25. 21.] #emph[Isaac,] #footnote[1 #emph[Sam.] 1. 10. #emph[Paulam antè votis quàm vtero concepisti. Hier. ad] 1 #emph[aet.]] #emph[Hannah] and others did #footnote[#emph[Gen.] 25. 21.]) and so soon as children are conceived, especially if they observe them to be quick in the womb (as #footnote[#emph[Gen.] 25. 22.] #emph[Rebekah] did) and again when they are borne (as #footnote[#emph[Luk.] 1. 64.] #emph[Zachariah] did) and throughout the whole course of their life (as #footnote[#emph[Iob.] 1. 5.] #emph[Iob] did) and when they are going out of this world, and leaving their children (as #footnote[#emph[Gen.] 27. 4.] #emph[Isaac] did.)
+This duty of prayer must be performed before parents have children (that they may have some, as #footnote[#emph[Gen.] 25. 21.] #emph[Isaac,] #footnote[1 #emph[Sam.] 1. 10. #emph[Paulam antè votis quàm vtero concepisti. Hier. ad] 1 #emph[aet.]] #emph[Hannah] and others did #footnote[#emph[Gen.] 25. 21.]) and so soon as children are conceived, especially if they observe them to be quick in the womb (as #footnote[#emph[Gen.] 25. 22.] #emph[Rebekah] did) and again when they are borne (as #footnote[#emph[Luk.] 1. 64.] #emph[Zachariah] did) and throughout the whole course of their life (as #footnote[#emph[Job.] 1. 5.] #emph[Job] did) and when they are going out of this world, and leaving their children (as #footnote[#emph[Gen.] 27. 4.] #emph[Isaac] did.)
 
 There is no one thing wherein and whereby parents may do more good for their children, then in and by true prayer. God hath sanctified prayer as a means to receive all needful blessing from himself the fountain of all blessing. If therefore Gods blessing be of use to children (what Atheists are they that believe it not?) then also is prayer by which it is obtained.
 
@@ -119,7 +119,7 @@ But what may we say or think of such impious parents as #footnote[Parents imprec
 
 Another general branch proceeding from parents #emph[love to] their children, is, that for their childrens sake they endeavour to #emph[walk uprightly] before God, and to please him. This I do the rather note, because I find the reward promised to righteous parents to be extended unto their children #footnote[#emph[Psal.] 1. 12. 2.] #emph[The generation of the righteous shall be blessed,] saith #emph[David.] And #emph[Solomon,] #footnote[#emph[Pro.] 20. 7.] #emph[Blessed shall his children be after him:] and again, #footnote[#emph[&] 13. 22.] #emph[The good man shall give inheritance unto his childrens children.] #footnote[#emph[Deut.] 5. 29.] This motive is therefore urged by the holy Ghost to provoke parents unto all righteousness.
 
-Thus doth the Lord extend the reward of righteous parents unto their children to show his great good liking, and high approbation of righteousness. Reade for this purpose, 1 #emph[King.] 11. 34. #emph[&] 2 #emph[King.] 10. 30.
+Thus doth the Lord extend the reward of righteous parents unto their children to show his great good liking, and high approbation of righteousness. Read for this purpose, 1 #emph[King.] 11. 34. #emph[&] 2 #emph[King.] 10. 30.
 
 1. #emph[Object.] #footnote[#emph[Ezec.] 18. 20.] #emph[The righteousness of the righteous shall be upon himself.]
 
@@ -181,14 +181,14 @@ They who at any time in any thing are negligent and careless of their childrens 
 
 The first age of a child is the infancy thereof. I will therefore first show how therein parents must procure the #emph[temporal] good of their children, and then their #emph[spiritual] good.
 
-The first part of a childs #emph[infancy] is while it remaineth in the mothers womb. Here therefore the duty lieth principally upon the mother: who so soon as she perceiveth a child to be conceived in her womb, ought to have an especial care thereof, that (so much as in her lieth) the child may be safely brought forth. (#footnote[#emph[Grauidae corpora curare debent. Mens item earum quietem desiderat. Quae enim procreantur à matre in cuius aluo continentur, alimentum capiunt, vt à terra ea-quae gignantur ex ea. Arist. Pol. lib.] 7.] The heathen Philosophen, by light of nature, observed this to be a duty; and prescribed it to mothers.) A mother then must have a tender care over her self when she is with child: for the child being lodged in her, and receiving nourishment from her (as plants from the earth) her well-being tendeth much to the good and safety of the child: but the hurt that cometh to her, maketh the child the worse, if it be not a means to destroy it. Why was the charge of #footnote[#emph[Iudg.] 13. 4.] #emph[abstaining from wine, strong drink, and unclean things,] given to #emph[Manoahs] wife, but because of the child which she conceived?
+The first part of a childs #emph[infancy] is while it remaineth in the mothers womb. Here therefore the duty lieth principally upon the mother: who so soon as she perceiveth a child to be conceived in her womb, ought to have an especial care thereof, that (so much as in her lieth) the child may be safely brought forth. (#footnote[#emph[Grauidae corpora curare debent. Mens item earum quietem desiderat. Quae enim procreantur à matre in cuius aluo continentur, alimentum capiunt, vt à terra ea-quae gignantur ex ea. Arist. Pol. lib.] 7.] The heathen Philosophen, by light of nature, observed this to be a duty; and prescribed it to mothers.) A mother then must have a tender care over her self when she is with child: for the child being lodged in her, and receiving nourishment from her (as plants from the earth) her well-being tendeth much to the good and safety of the child: but the hurt that cometh to her, maketh the child the worse, if it be not a means to destroy it. Why was the charge of #footnote[#emph[Judg.] 13. 4.] #emph[abstaining from wine, strong drink, and unclean things,] given to #emph[Manoahs] wife, but because of the child which she conceived?
 
 In this case there is a double bond to make mothers careful of themselves.
 
 - 1\. Their #emph[own,]
 - 2\. Their #emph[childs] good.
 
-Husbands also in this case must be very tender over their wives, and helpful to them in all things needful, both in regard of that duty which they owe to their wives, and also of that they #footnote[#emph[Iudg.] 13. 11, #emph[etc.]] owe to their children. Why was #emph[Manoah] so desirous to hear himself the forenamed direction which the Angell gave to his wife? And why did the Angell again repeat it to him, but to show it belonged to him to see her observe it?
+Husbands also in this case must be very tender over their wives, and helpful to them in all things needful, both in regard of that duty which they owe to their wives, and also of that they #footnote[#emph[Judg.] 13. 11, #emph[etc.]] owe to their children. Why was #emph[Manoah] so desirous to hear himself the forenamed direction which the Angell gave to his wife? And why did the Angell again repeat it to him, but to show it belonged to him to see her observe it?
 
 They who through violence of passion, whether of grief, or #footnote[Contrary.] anger, or through violent motion of the body, as by dancing, striving, #footnote[1\. To miscarry through negligence.] running, galloping on horseback, or the like: or through distemper of the body, by eating things hurtful, by eating too much, by too much abstinence, by too much bashfulness in concealing their desires and longings (as we speak) cause any abortion or miscariage, fall into the offence contrary to the forenamed duty. If women were persuaded that in conscience they are bound to the forenamed duty, they would, I think, be more careful of themselves. For if through their default, they themselves or their child miscarry, they make themselves guilty of that miscariage: if both miscarry, they make themselves guilty of the blood of both; at least in the court of conscience before God.
 
@@ -202,7 +202,7 @@ The next degree of a childs infancy, is while it is in the swaddling bands, and 
 
 The first duty here required is, that sufficient provision of all things needful for a child in that weakness be before hand provided. What the particulars be, women better know, then I can express. For me, it is sufficient, to lay down the duty in general: which is commended unto us in that worthy pattern of the Virgin #emph[Mary,] who though she were very poor, and forced to travel far, and brought to bed in a strange place, where she was so little respected, as she was not afforded a place meet for a woman in her case, but was fain to content her self with a stable in a common Inn, yet she provided for her child. For it is said, #emph[She wrapped him in swaddling clothes, Luk] 2. 7.
 
-Contrary is the practise of such lewd and unnatural women, as leave their new-borne children under stalls, at mens doors, in Church porches, yea many times in open field. It is noted as a point of unnaturalness in the Ostrich, #emph[to leave her eggs in the earth, and in the dust:] in which respect she is said to be #emph[hardned against her young ones, as though they were not hers, Iob] 39. 14, 16. Much more hardned are the foresaid lewd women. The Eagle is #footnote[#emph[Iniquiffima volucris Aquila dicitur, quiae taedio nutriendi pullum quem genuit, ipsa fugat. Tales parentes ij sunt, qui liberos suos infantes exponunt. Basil. Hexam. hom.] 8. #emph[Necare videtur qui partum abijcit, & qui publicis locis misericordiae causa, quam ipse non habet, exponit. Digest. l,] 25. #emph[tit.] 3. §. 4. 1 #emph[Pet.] 2. 2.] counted an unnatural bird, because she thrusteth her young ones, which she hath brought forth, out of her nest. Are not then such mothers much more unnatural? They oft lay their children forth in public places, for others to show that mercy, which they themselves have not. The Civil Law judgeth this to be a kind of further.
+Contrary is the practise of such lewd and unnatural women, as leave their new-borne children under stalls, at mens doors, in Church porches, yea many times in open field. It is noted as a point of unnaturalness in the Ostrich, #emph[to leave her eggs in the earth, and in the dust:] in which respect she is said to be #emph[hardned against her young ones, as though they were not hers, Job] 39. 14, 16. Much more hardned are the foresaid lewd women. The Eagle is #footnote[#emph[Iniquiffima volucris Aquila dicitur, quiae taedio nutriendi pullum quem genuit, ipsa fugat. Tales parentes ij sunt, qui liberos suos infantes exponunt. Basil. Hexam. hom.] 8. #emph[Necare videtur qui partum abijcit, & qui publicis locis misericordiae causa, quam ipse non habet, exponit. Digest. l,] 25. #emph[tit.] 3. §. 4. 1 #emph[Pet.] 2. 2.] counted an unnatural bird, because she thrusteth her young ones, which she hath brought forth, out of her nest. Are not then such mothers much more unnatural? They oft lay their children forth in public places, for others to show that mercy, which they themselves have not. The Civil Law judgeth this to be a kind of further.
 
 === §. 11. #emph[Of giving suck to children.]
 
@@ -245,7 +245,7 @@ Sum these several consequences together, and we shall find the duty in question 
 - 5\. It is the note of a good woman to perform this part of her particular calling, namely to nurse her own child.
 - 6\. Women ought to do all the best duties of love that they can to their children.
 
-#quote(block: true)[Therefore mothers ought to nurse their own children.]
+Therefore mothers ought to nurse their own children.
 
 II. Some of the most worthy patterns, in whose example this duty is commended to mothers, are these.
 
@@ -333,7 +333,7 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 2. #emph[Answ.] Drying up a womans milk will more break her, then her childes sucking of it: for it is a means both of better health, and also of greater strength, as to bear children, so to give them suck. Barren women and bearing women which put forth their children to suck, are most subject to sickness and weakness. The drawing forth of a womans milk by her child is a means to get and preserve a good stomach, which is a great preservative of good health.
 
-#strong[8. #emph[Object.] Husbands are disturbed in the night time, and hindred of their sleep by their wives giving suck to their children.]
+#strong[8. #emph[Object.] Husbands are disturbed in the night time, and hindered of their sleep by their wives giving suck to their children.]
 
 1. #emph[Answ.] By this reason neither mothers nor other nurses which have husbands, should give suck to children.
 
@@ -355,7 +355,7 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 #strong[12. #emph[Object.] Divers children being nursed by the mother have died one after another.]
 
-#emph[Answ.] Due and thorough search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain even must not be an hindrance to a known duty.
+#emph[Answ.] Due and thorow search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain even must not be an hindrance to a known duty.
 
 Thus the answering of the forenamed objections maketh the point so much the more clear.
 
@@ -394,7 +394,7 @@ This is indeed a common duty appertaining to both parents, but most principally 
 
 That parents are bound to procure Baptism for their children these reasons declare.
 
-1. The #emph[commandment of God] concerning circumcising #footnote[#emph[Veraciter conijcere possumus quid valeat in parvulis baptismi sacramentum ex circumcision, etc. Aug. de Bap. l.] 5. #emph[c.] 24. #emph[Gen.] 21. 4. #emph[Luk.] 1. 59. #emph[&] 2. 21. #emph[Ios.] 5. 5.] children: in the room whereof Baptism succeedeth now under the Gospel #emph[(Col.] 2. 11, 12.) Gods commandment to this duty was first given to #emph[Abraham:] and that for himself and all his posterity to observe #emph[(Gen.] 17. 10.) After this it was in the law laid down as a positive statute, #emph[Leu.] 12. 3.
+1. The #emph[commandment of God] concerning circumcising #footnote[#emph[Veraciter conijcere possumus quid valeat in parvulis baptismi sacramentum ex circumcision, etc. Aug. de Bap. l.] 5. #emph[c.] 24. #emph[Gen.] 21. 4. #emph[Luk.] 1. 59. #emph[&] 2. 21. #emph[Jos.] 5. 5.] children: in the room whereof Baptism succeedeth now under the Gospel #emph[(Col.] 2. 11, 12.) Gods commandment to this duty was first given to #emph[Abraham:] and that for himself and all his posterity to observe #emph[(Gen.] 17. 10.) After this it was in the law laid down as a positive statute, #emph[Leu.] 12. 3.
 
 2. The #emph[practise of the Jews] in a faithful and constant observance of this ordinance: as of #emph[Abraham;] of #emph[Zachary] and #emph[elizabeth:] of #emph[Joseph] and #emph[Mary,] and many others.
 
@@ -429,7 +429,7 @@ In the #emph[right] performance thereof, some things are #emph[necessary,] and s
 
 Things of #emph[necessity] are these especially:
 
-1. That the child be baptized by a #emph[Minister] of the word. #footnote[#emph[Matth.] 28. 19. #emph[Ioh.] 3. 5.]
+1. That the child be baptized by a #emph[Minister] of the word. #footnote[#emph[Matth.] 28. 19. #emph[Joh.] 3. 5.]
 
 2. That it be baptized with the element of water: the only element sanctified to this purpose.
 
@@ -556,7 +556,7 @@ Under #emph[nourishment] are comprised all needful things for #footnote[#emph[In
 
 3. #emph[Recreation,] which in young children especially is needful for their health. In that #emph[Zachary] chap. 8. Vers. 5. Told the Jews, and that in way of blessing, that #emph[boys and girls should be playing in the streets,] he implieth that it is a lawful and meet thing, which parents should permit unto their children. But yet the time, and measure, and kind of recreation must be well ordered.
 
-4. #emph[Means for recovery of health] when they are sick: for this end was it, that #footnote[1 #emph[King.] 14. 2.] #emph[Jeroboam] sent his wife to the Prophet, in behalf of his son who was sick: that #footnote[#emph[Ioh.] 4. 47.] the Ruler came to Christ for his son also who was at point of death; and that many others came to him for their sons and daughters being ill.
+4. #emph[Means for recovery of health] when they are sick: for this end was it, that #footnote[1 #emph[King.] 14. 2.] #emph[Jeroboam] sent his wife to the Prophet, in behalf of his son who was sick: that #footnote[#emph[Joh.] 4. 47.] the Ruler came to Christ for his son also who was at point of death; and that many others came to him for their sons and daughters being ill.
 
 Whatsoever other things are needful, parents to their power #footnote[1 #emph[Tim.] 5. 8.] must provide for their children: else the Apostle counteth them worse then Infidels.
 

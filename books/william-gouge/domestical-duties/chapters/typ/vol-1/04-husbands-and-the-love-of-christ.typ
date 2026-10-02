@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25.]
 
-    #emph[25. #emph[Husbands love your wives, even as Christ also loved the Church, and gave himself for it.]]
+    #text(style: "italic")[25. #emph[husbands love your wives, even as Christ also loved the Church, and gave himself for it.]]
   ]
 ]
 
@@ -70,7 +70,7 @@ How the love of Christ is a pattern, I will #footnote[Treat 4 §. 61. #emph[etc.
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25.]
 
-    #emph[And gave himself for it.]
+    #text(style: "italic")[And gave himself for it.]
   ]
 ]
 
@@ -142,7 +142,7 @@ In that the person of Christ God-man was given up, I gather that #footnote[1 #em
 
 === §. 32. #emph[Of Christs seeking the good of the Church.]
 
-The #emph[End] why Christ gave himself was, #emph[for the Church: so] #footnote[Doctr.] #emph[as Christ in his death aimed at our good.] #footnote[2 #emph[Cor.] 5. 21.] He was made sin #emph[for us, that we might be made the righteousness of God in him:] #footnote[#emph[Gal.] 3. 13.] he was made a curse #emph[for us, and hath redeemed us from the curse of the Law:] #footnote[#emph[Gal.] 1. 4.] he gave himself #emph[for our sins, that he might deliver us:] #footnote[#emph[Ioh.] 10. 15.] he laid down his life #emph[for the sheep.]
+The #emph[End] why Christ gave himself was, #emph[for the Church: so] #footnote[Doctr.] #emph[as Christ in his death aimed at our good.] #footnote[2 #emph[Cor.] 5. 21.] He was made sin #emph[for us, that we might be made the righteousness of God in him:] #footnote[#emph[Gal.] 3. 13.] he was made a curse #emph[for us, and hath redeemed us from the curse of the Law:] #footnote[#emph[Gal.] 1. 4.] he gave himself #emph[for our sins, that he might deliver us:] #footnote[#emph[Joh.] 10. 15.] he laid down his life #emph[for the sheep.]
 
 This proves Christs giving of himself to be a fruit of his love: for #footnote[1\. #emph[Cor.] 13. 5. 1. #emph[Use.]] #emph[love seeketh not her own.]
 
@@ -150,7 +150,7 @@ Learn we hereby to apply all that Christ did to our selves. If #emph[for us] he 
 
 Learn we also hereby how to manifest love: namely by seeking, and procuring the good of others. #emph[Let no man seek his] #footnote[1 #emph[Cor.] 10. 24.] #emph[own, but every man anothers wealth.] If this were practised, would there be such oppressing, such undermining, such deceiving, such wronging of one another as there is? Too truly is the Apostles complaint verified in our days, #emph[All seek their] #footnote[#emph[Phil.] 2. 21.] #emph[own.] But let that mind be in us which was in Christ Jesus, and thus manifest our love, as we desire to partake of this fruit of Christs love.
 
-From hence by just consequence it followeth that #emph[Christ merited] #footnote[Christ merited not for himself.] #emph[not for himself.] Was there any need that Christ should come down from heaven on earth, to purchase any thing for himself? When he was going out of the world, thus he prayed, #emph[Now, O father, glorify thou me with the glory which I had] #footnote[#emph[Ioh.] 17. 5.] #emph[with thee before the world was.] Did Christ by any thing which he did on earth merit that glory which he had before the world was? All the exaltation whereunto he was advanced even in his human nature, was due to the dignity of his person.
+From hence by just consequence it followeth that #emph[Christ merited] #footnote[Christ merited not for himself.] #emph[not for himself.] Was there any need that Christ should come down from heaven on earth, to purchase any thing for himself? When he was going out of the world, thus he prayed, #emph[Now, O father, glorify thou me with the glory which I had] #footnote[#emph[Joh.] 17. 5.] #emph[with thee before the world was.] Did Christ by any thing which he did on earth merit that glory which he had before the world was? All the exaltation whereunto he was advanced even in his human nature, was due to the dignity of his person.
 
 #strong[1. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]]
 
@@ -175,7 +175,7 @@ This conceit of Christs meriting for himself, doth much extenuate the glory of C
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 26.]
 
-    #emph[That he might sanctify it, and cleanse it with the washing of water by the word.]
+    #text(style: "italic")[That he might sanctify it, and cleanse it with the washing of water by the word.]
   ]
 ]
 
@@ -214,9 +214,9 @@ The two branches of the former #emph[end,] namely #emph[Cleansing] and #emph[San
 
 The #emph[condition] is presupposed, which is, that she was impure, polluted, in the common estate of corrupt man. Things in themselves pure, are not cleansed, but things foul and impure: persons of themselves freed, and exempted from a common misery, need not anothers help to free and exempt them. Seeing then that the Church stood in need to be cleansed, and sanctified, surely
 
-#emph[The Church in herself was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant borne of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swadled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[#emph[Ezek.] 16. 3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[#emph[Eph.] 2. 3.] of the Church, that #footnote[#emph[Tit.] 3. 3.] #emph[we our selves also were such.] #footnote[1 #emph[Cor.] 6. 11.]
+#emph[The Church in herself was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant borne of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[#emph[Ezek.] 16. 3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[#emph[Eph.] 2. 3.] of the Church, that #footnote[#emph[Tit.] 3. 3.] #emph[we our selves also were such.] #footnote[1 #emph[Cor.] 6. 11.]
 
-The Church consisteth of none other then of such as came out of #emph[Adam's] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is borne of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[borne again.] #footnote[#emph[Ioh.] 3. 3, 5.]
+The Church consisteth of none other then of such as came out of #emph[Adam's] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is borne of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[borne again.] #footnote[#emph[Joh.] 3. 3, 5.]
 
 This our former estate by nature is oft and seriously #footnote[Our natural condition oft to be thought of.] to be thought of, and that in respect of
 
@@ -224,7 +224,7 @@ This our former estate by nature is oft and seriously #footnote[Our natural cond
 + Our selves.
 + Others.
 
-1. In regard of Christ, the more to magnify his love. Our former estate, before he cast the wings of his mercy upon us, showeth our unworthiness, our vileness, and wretchedness, and in that respect it openeth our heart and mouth to think and say, #footnote[#emph[Psal.] 8. 1, 4.] #emph[O Lord our Lord, what is man that thou art mindful of him, and the son of man that thou visitest him!] #footnote[#emph[Ioh.] 14. 22.] #emph[Lord, how is it that thou wilt manifest thy self unto us, and not unto the world!] The right knowledge of our former estate, and a due consideration thereof, maketh us ascribe all the glory of our present dignity, and happiness, to Christ that altered our estate, as Saint #emph[Paul,] #footnote[1 #emph[Tim.] 1. 12. #emph[etc.]] #emph[I thank Christ Jesus our Lord who hath enabled me, who was before a blasphemer, etc.] yea it maketh us the more to prize and esteem the present estate, as #footnote[2 #emph[Sam.] 7. 18, #emph[etc.]] #emph[David.]
+1. In regard of Christ, the more to magnify his love. Our former estate, before he cast the wings of his mercy upon us, showeth our unworthiness, our vileness, and wretchedness, and in that respect it openeth our heart and mouth to think and say, #footnote[#emph[Psal.] 8. 1, 4.] #emph[O Lord our Lord, what is man that thou art mindful of him, and the son of man that thou visitest him!] #footnote[#emph[Joh.] 14. 22.] #emph[Lord, how is it that thou wilt manifest thy self unto us, and not unto the world!] The right knowledge of our former estate, and a due consideration thereof, maketh us ascribe all the glory of our present dignity, and happiness, to Christ that altered our estate, as Saint #emph[Paul,] #footnote[1 #emph[Tim.] 1. 12. #emph[etc.]] #emph[I thank Christ Jesus our Lord who hath enabled me, who was before a blasphemer, etc.] yea it maketh us the more to prize and esteem the present estate, as #footnote[2 #emph[Sam.] 7. 18, #emph[etc.]] #emph[David.]
 
 2. In regard of our selves this is to be thought of, to humble us, and to keep us from insolent boasting in those privileges whereof through Christ we are made partakers. To this purpose doth the Apostle thus press this point, #emph[Who maketh] #footnote[1 #emph[Cor.] 4. 7.] #emph[thee to differ from another? And what hast thou that thou diddest not receive? Now if thou diddest receive it, why doest thou glory as if thou hadst not received it?] When a man is exalted from a mean, to a great place, and thereupon waxeth proud and insolent, we say, #emph[he hath forgotten from whence he came.] So as remembrance of our former condition is a means to preserve humility, and to suppress insolency.
 

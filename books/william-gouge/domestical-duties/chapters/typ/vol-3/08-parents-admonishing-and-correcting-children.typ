@@ -115,7 +115,7 @@ The general rules are these.
 
 3. Correction must be given in love. #emph[All things must be done in] #footnote[1 #emph[Cor.] 16. 14.] #emph[love:] much more this, that carrieth a show of anger and hatred. In love they will give physic to their children, and splinter a joint, if need be. God correcteth his children in love: so must #footnote[#emph[Reu.] 3. 19.] parents. Love will make them do it with tenderness and compassion.
 
-4. Correction must be given in a mild mood, when the affections #footnote[#emph[Nunquam, iratus qui accedit ad poenam, mediocritatem tenebit, Cic. Offic. lib.] 1. #emph[Ier.] 10. 11. Four particular rules for the manner of correcting.] are well ordered, and not distempered with choler, rage, fury, and other like passions. Disturbed passions cast a mist before the understanding, so as a man cannot discern what is enough, what too much. When passion is moved, correction must be deferred. God correcteth in #emph[measure.]
+4. Correction must be given in a mild mood, when the affections #footnote[#emph[Nunquam, iratus qui accedit ad poenam, mediocritatem tenebit, Cic. Offic. lib.] 1. #emph[Jer.] 10. 11. Four particular rules for the manner of correcting.] are well ordered, and not distempered with choler, rage, fury, and other like passions. Disturbed passions cast a mist before the understanding, so as a man cannot discern what is enough, what too much. When passion is moved, correction must be deferred. God correcteth in #emph[measure.]
 
 The particular rules are these.
 
@@ -123,7 +123,7 @@ The particular rules are these.
 
 2. Due respect must be had to the party corrected: if he be young and tender, the lighter correction must be used. #emph[Solomon] oft mentioneth a rod, as meetest for a child; for that is the lightest correction. So if the child be of a flexible and ingenuous disposition, soon sneapt, the correction must accordingly be moderated. If he be well grown, and withal be stout, and stubborn, the correction may be more severe.
 
-3. Due respect must be had to the fault: Sins directly #footnote[Cauendum ne maior poena, quàm culpa sit. Cic. loc. citat.] against God, open, notorious, scandalous sins, known sins, sins often committed, in which they are grown up, and whereof they have gotten an habit, are with greater severity to be corrected.
+3. Due respect must be had to the fault: Sins directly #footnote[Cavendum ne major poena, quàm culpa sit. Cic. loc. citat.] against God, open, notorious, scandalous sins, known sins, sins often committed, in which they are grown up, and whereof they have gotten an habit, are with greater severity to be corrected.
 
 4. A parent must behold his own faults in correcting his childes: so more compassion will be wrought in him.
 

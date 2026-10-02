@@ -94,5 +94,5 @@
 #metadata[A Master’s Own Master in Heaven] <short>
 #include "chapters/typ/vol-4/10-a-masters-own-master-in-heaven.typ"
 
-#metadata[Some faults escaped thus to be corrected] <short>
+#metadata[Some faults escaped thus to be corrected.] <short>
 #include "chapters/typ/vol-4/errata.typ"

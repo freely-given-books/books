@@ -60,7 +60,7 @@ Besides bearing with parents necessities, in such cases as parents stand in need
 
 Contrary is the opinion of Pharisees, who thought that children by consecrating their substance to the Temple, might be freed from this duty of #emph[recompense] to parents, which is the mystery of that Hebrew word #footnote[#emph[Mar.] 7. 11.] #emph[Corban.] They made a mere pretext of piety to God, a cause of manifest impiety against parents. Christ giveth this verdict of them, that #footnote[#emph[vers.] 13.] #emph[they make the word of God of none effect.] #footnote[See §. 14. 1. Sin of children in denying relief to parents.] Papists are of the same opinion, and so under the same censure.
 
-Contrary also is their practise, who having the goods of this world, suffer their parents to want. #footnote[1 #emph[Ioh.] 3. 17. #emph[Iniquissimum est patren eger, cùm filius sit in facultatibus. Digest. lib.] 25. #emph[tit.] 3. §. 5.] #emph[S. John] saith, that #emph[the love of God dwelleth not in him, who shuteth up his compassion from his brother] in that case; how then can it dwell in such a child? Not they only who suffer their parents to starve, offend in this extreme, but they also who suffer them to live poorely, and basely, when themselves #footnote[#emph[Luk.] 16. 19. 2. In bringing parents into extremities.] Dives-like fare delicately, and go gorgeously attired every day.
+Contrary also is their practise, who having the goods of this world, suffer their parents to want. #footnote[1 #emph[Joh.] 3. 17. #emph[Iniquissimum est patren eger, cùm filius sit in facultatibus. Digest. lib.] 25. #emph[tit.] 3. §. 5.] #emph[S. John] saith, that #emph[the love of God dwelleth not in him, who shuteth up his compassion from his brother] in that case; how then can it dwell in such a child? Not they only who suffer their parents to starve, offend in this extreme, but they also who suffer them to live poorely, and basely, when themselves #footnote[#emph[Luk.] 16. 19. 2. In bringing parents into extremities.] Dives-like fare delicately, and go gorgeously attired every day.
 
 In an higher degree do they offend, who bring their parents to such extremities, as to poverty by their lavish spending; to prison by importuning them to be their sureties; to excessive grief by their mischievous practises, as #footnote[#emph[Gen.] 37. 34. 3. In striking parents.] the sons of #emph[Jacob.]
 
@@ -72,7 +72,7 @@ When afterwards such inhumane impiety was manifested in the world, the Civil Law
 
 This sin having been committed among the heathen, the Apostle reckoneth it up among other most notorious and barbarous sins, 1. #emph[Tim.] 1. 9. As murder is one of those sins, which the earth can least bear, and which cryeth loudest to heaven for vengeance; so among the several kinds of murder, this is the most unsupportable, and crying.
 
-#quote(block: true)[Thus much of the duties of children, which they are to perform while their parents live. It remaineth to speak of those which they are to perform when their parents are dead.]
+Thus much of the duties of children, which they are to perform while their parents live. It remaineth to speak of those which they are to perform when their parents are dead.
 
 === §. 45. #emph[Of childrens care to bury their parents being dead.]
 
@@ -93,7 +93,7 @@ And great reason there is for it: for
 
 1. It is a testimony of great love and good respect to the party #footnote[1\. #emph[Reason.]] deceased. Now who should manifest more love, and greater respect then a child?
 
-2. It is a kind of #footnote[1 #emph[King.] 14. 13. 2 #emph[King.] 22. 20.] #emph[blessing,] promised by God to his Saints, #emph[to] #footnote[2\. #emph[Reason.]] #emph[be buried:] as on the other side, it is a #footnote[#emph[Ier.] 22. 19. 1 #emph[King.] 21. 23, 24. #emph[Psal] 79. 3.] #emph[curse] threatened against obstinate sinners, #emph[not to be buried.] In this respect, #footnote[2 #emph[Sam.] 2. 5.] #emph[David] blesseth the men of #emph[Jabesh Gilead] for burying #emph[Saul,] and acknowledgeth it a kindness done to #emph[Saul.] Now who ought rather to procure a blessing, and do a kindness to parents, then children, who are oft blessed through their parents means?
+2. It is a kind of #footnote[1 #emph[King.] 14. 13. 2 #emph[King.] 22. 20.] #emph[blessing,] promised by God to his Saints, #emph[to] #footnote[2\. #emph[Reason.]] #emph[be buried:] as on the other side, it is a #footnote[#emph[Jer.] 22. 19. 1 #emph[King.] 21. 23, 24. #emph[Psal] 79. 3.] #emph[curse] threatened against obstinate sinners, #emph[not to be buried.] In this respect, #footnote[2 #emph[Sam.] 2. 5.] #emph[David] blesseth the men of #emph[Jabesh Gilead] for burying #emph[Saul,] and acknowledgeth it a kindness done to #emph[Saul.] Now who ought rather to procure a blessing, and do a kindness to parents, then children, who are oft blessed through their parents means?
 
 3. It being a great deformity to have a mans corps lie above #footnote[3\. #emph[Reason.]] ground (for no carkase will be more loathsome then a mans if it lie unburied) children, who are most bound to cover their parents deformity, are in this respect bound to bury their corps. #footnote[Sin of children to neglect their parents dead corps.]
 

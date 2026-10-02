@@ -2,12 +2,9 @@
 
 A few faults escaped in the printing are noted in the end of the book, which I desire you to amend with a pen.
 
-
 TREAT. III.
 
-
 #emph[Particular duties of Wives.]
-
 
 #emph[Subjection,] the general head of all wives duties, §. 2.
 
@@ -24,12 +21,9 @@ TREAT. III.
 + Such a subjection as may stand with her subjection to Christ, §. 51.
 + Such a subjection as the Church yieldeth to Christ, which is sincere, pure, cheerful, constant, for conscience sake, §. 54, 55, etc.
 
-
 TREAT. IV.
 
-
 #emph[Particular duties of Husbands.]
-
 
 #emph[Wisdom] and #emph[Love,] the general heads of all husbands duties, §. 2, 4.
 
@@ -46,12 +40,9 @@ TREAT. IV.
 + A forbearing to exact any thing which stands not with a good conscience, §. 26.
 + Such a love, as Christ beareth to the Church, and man to himself, which is first free, in deed, and truth, pure, chaste, constant, §. 61, etc. and 74.
 
-
 TREAT. III.
 
-
 #emph[Aberrations of Wives from their particular duties.]
-
 
 #emph[Ambition,] the general ground of the aberrations of wives, §. 2.
 
@@ -68,12 +59,9 @@ TREAT. III.
 + Such a pleasing of her husband as offendeth Christ, §. 53.
 + Such a subjection as is most unlike to the Churches, viz. feigned, forced, fickle, etc. §. 56, etc.
 
-
 TREAT. IV.
 
-
 #emph[Aberrations of Husbands from their particular duties.]
-
 
 #emph[Want of wisdom] and #emph[love,] the general ground of the aberrations of husbands, §. 3, 5.
 

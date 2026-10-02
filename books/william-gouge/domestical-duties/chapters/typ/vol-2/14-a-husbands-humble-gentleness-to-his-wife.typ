@@ -35,12 +35,9 @@ But what may we say of such as scornfully reject their wives #footnote[3\. Scorn
 
 For the better conceiving of this so needful a point I will #footnote[How a mans good acceptance of his wives duty is manifested.] somewhat more particularly and distinctly apply the same to the several duties of a wife: which were drawn to two heads
 
-
 #emph[Reverence.]
 
-
 #emph[Obedience.]
-
 
 For the first, if a wife manifest her dutiful respect of her #footnote[1\. By answering reverence with courtesy. #emph[Depone asperitatem morum cum tibi sedula vxor occurrit, etc. Ambr. Hexaem. lib.] 5. #emph[cap.] 7.] husband by any reverend behaviour, gesture, or speech, he ought to meet her (as we say) in the middest of the way, and manifest his gracious acceptance thereof by some like courteous behaviour, gesture, and speech, being seemly, not foolish.
 
@@ -108,7 +105,7 @@ Contrary is the rigour and austerity of many husbands, who stand upon the utterm
 
 3. Who hold their wives under as if they were children or servants, restraining them from doing any thing without their knowledge and particular express consent.
 
-4. Who are over busy in prying into every business of the house, and will have their hand in all. Besides that such husbands afford no opportunity to their wives of giving proof of that understanding, wit, wisdom, care, and other gifts which God hath endowed them withal, they take away that main end for which a wife was given a man, namely, #emph[to be an ] #emph[help.] Such husbands cannot but neglect other more weighty #footnote[#emph[Gen.] 2. 18.] matters, which more properly belong unto them. For observe it and you shall find, that such husbands as are most busy about the private affairs of the house appertaining to their wives, are most negligent of such affairs as appertain unto themselves: they think they #emph[walk in integrity,] but yet are they not #emph[just] nor #emph[wise] therein: for #emph[the just man walketh in HIS integrity,] #footnote[#emph[Pro.] 20. 7. #emph[&] 14. 8.] and #emph[the wisdom of the prudent is to understand HIS way:] (i.) that integrity which appertaineth to his own peculiar place; and his own way: but #emph[every fool will be medling,] namely, with things not belonging to his place. #footnote[#emph[&] 20. 3.]
+4. Who are over busy in prying into every business of the house, and will have their hand in all. Besides that such husbands afford no opportunity to their wives of giving proof of that understanding, wit, wisdom, care, and other gifts which God hath endowed them withal, they take away that main end for which a wife was given a man, namely, #emph[to be an] #emph[help.] Such husbands cannot but neglect other more weighty #footnote[#emph[Gen.] 2. 18.] matters, which more properly belong unto them. For observe it and you shall find, that such husbands as are most busy about the private affairs of the house appertaining to their wives, are most negligent of such affairs as appertain unto themselves: they think they #emph[walk in integrity,] but yet are they not #emph[just] nor #emph[wise] therein: for #emph[the just man walketh in HIS integrity,] #footnote[#emph[Pro.] 20. 7. #emph[&] 14. 8.] and #emph[the wisdom of the prudent is to understand HIS way:] (i.) that integrity which appertaineth to his own peculiar place; and his own way: but #emph[every fool will be medling,] namely, with things not belonging to his place. #footnote[#emph[&] 20. 3.]
 
 5. Who are over suspicious of their wives, and thereupon over strickt in taking account of them. #emph[S. Paul] calleth surmises #footnote[1 #emph[Tim.] 6. 4.] #emph[evil,] and that not without just cause: for evil they are in their #emph[nature,] and evil in their #emph[effects,] being occasions of many mischiefs: but in none so evil as in husbands over their wives. If a wives fidelity (to whose good the welfare of the family, and increase of the stock redoundeth as well as to the husbands) be without just cause suspected, who shall be trusted? It is the overthrow of many families, that servants are trusted, and not wives.
 
@@ -116,7 +113,7 @@ Thus far of an husbands kind acceptance of that which his wife is willing and ab
 
 === §. 20. #emph[Of Husbands encouraging their wives in good things.]
 
-The #emph[love] which an husband oweth to his wife, further requireth #footnote[Husbands must commend and reward good things in their wives.] that he wisely #emph[commend] and #emph[reward] what she hath #emph[well done.] That which the Apostle faith of the Magistrates authority, may fitly be applied to an husbands in relation to his wife, #emph[Do that which is good, and thou shalt have praise of the same.] It is expressly noted in the description of a good husband, #footnote[a #emph[Rom.] 13. 3.] that #emph[he praiseth his wife:] and in that he saith, #footnote[#emph[Vers.] 31.] #emph[Give her of the] #footnote[b #emph[Prou.] 31. 28, 29.] #emph[fruit of her hands,] it is implied also that he rewardeth her.
+The #emph[love] which an husband oweth to his wife, further requireth #footnote[Husbands must commend and reward good things in their wives.] that he wisely #emph[commend] and #emph[reward] what she hath #emph[well done.] That which the Apostle faith of the Magistrates authority, may fitly be applied to an husbands in relation to his wife, #emph[Do that which is good, and thou shalt have praise of the same.] It is expressly noted in the description of a good husband, #footnote[a #emph[Rom.] 13. 3.] that #emph[he praiseth his wife:] and in that he saith, #footnote[#emph[Vers.] 31.] #emph[Give her of the] #footnote[b #emph[Prov.] 31. 28, 29.] #emph[fruit of her hands,] it is implied also that he rewardeth her.
 
 This is an undoubted evidence of his good acceptance of her duty, and a further encouragement to stir her up to go on and continue in well doing. Yea this is also an evidence of his by and delight both in her person, and also in her well doing. If there be no delight in ones person, well doing will rather stir up envy then joy: and they that envy a mans well doing, will never commend, or reward him for it.
 
@@ -126,7 +123,9 @@ In an husbands commending of his wife this caveat must be put: that he so order 
 
 Contrary is an ungrateful, if not envious disposition of such #footnote[#emph[Quisque suam laudot, studijs certamina crescunt. Ouid. Fast. lib.] 2.] husbands, as passing by many good things ordinarily and usually every day done by their wives without any approbation, commendation or remuneration, are ready to dispraise the least slip, or neglect in them; and that in such general terms as if they never did any thing well, so as their wives may well complain and say as it is in the proverb,
 
-#quote(block: true)[#emph[Oft did I well, and that hear I never:] #emph[Once did I ill, and that hear I ever.]]
+#emph[Oft did I well, and that hear I never:]
+
+#emph[Once did I ill, and that hear I ever.]
 
 Yet such will be ready to praise other mens wives, and up braid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
 

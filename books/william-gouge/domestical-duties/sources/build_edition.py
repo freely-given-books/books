@@ -3,18 +3,22 @@
 build_edition.py
 ================
 
-Cut the 1622 book into the four printed volumes described by edition.json and
-write everything that follows from it:
+Since the book moved to the TEI pipeline (2026-09-30) the chapters come from
+the TEI (source/domestical-duties.tei.xml, via ./fgb sync or tei_extract.py),
+cut by the same map, ../source/edition.json. This script now writes only what
+follows from the chapters:
 
-    chapters/typ/vol-N/NN-slug.typ    one file per chapter
     domestical-duties-vol-N.typ       the print edition of each volume
-    cover-vol-N.typ                   its wrap cover
-    ebook-domestical-duties.typ       the whole work, still as ONE ebook
+    cover-vol-N.typ                   its wrap cover (--covers)
+    ebook-domestical-duties.typ       the old one-file ebook source (the EPUB is
+                                      now built by ./fgb epub gouge)
 
 Usage:
-    python3 build_edition.py                 # chapters, volumes, ebook
-    python3 build_edition.py --covers        # ...and rewrite the covers from
-                                             #    the compiled page counts
+    python3 build_edition.py                 # volumes, old ebook source
+    python3 build_edition.py --covers        # rewrite the covers from the
+                                             #    compiled page counts
+    python3 build_edition.py --old-chapters  # the earlier converter's chapters
+                                             #    (overwrites chapters/typ!)
     python3 build_edition.py --original      # old-spelling render as well
 
 The covers need a page count, and the page count needs a compiled interior, so
@@ -38,7 +42,7 @@ import tcp_to_typst as T
 HERE = Path(__file__).resolve().parent
 BOOK = HERE.parent
 XML = HERE / "A68107.xml"
-EDITION = HERE / "edition.json"
+EDITION = BOOK / "source" / "edition.json"   # one map, shared with the TEI layout
 
 # The imprint's boilerplate, shared by the print and ebook editions.  Kept here
 # rather than in each volume file so the four covers, four title pages and one
@@ -140,6 +144,30 @@ def write_chapters(edition, divs, outdir, modernize):
         # errata leaf is the last thing in the 1622 book.
         items.extend(matter(name) for name in vol.get("back", []))
 
+        built[vol["number"]] = items
+    return built
+
+
+def chapter_index(edition):
+    """What write_chapters returns, for the chapters already in chapters/typ
+    (written from the TEI): {volume: [(slug, title, path, False), ...]}."""
+    built = {}
+    for vol in edition["volumes"]:
+        vdir = BOOK / "chapters" / "typ" / f"vol-{vol['number']}"
+        items = []
+
+        def matter(name):
+            path = vdir / f"{name}.typ"
+            spec = edition["front"][name]
+            return (name, spec.get("title") or
+                    first_heading(path.read_text(encoding="utf-8")), path, False)
+        items += [matter(n) for n in vol.get("front", [])]
+        for i, ch in enumerate(vol["chapters"], start=1):
+            path = vdir / f"{i:02d}-{slugify(ch['title'])}.typ"
+            if not path.exists():
+                sys.exit(f"missing {path.relative_to(BOOK)}: run ./fgb sync gouge")
+            items.append((path.stem, ch["title"], path, False))
+        items += [matter(n) for n in vol.get("back", [])]
         built[vol["number"]] = items
     return built
 
@@ -361,6 +389,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--covers", action="store_true",
                     help="Rewrite the covers from the compiled page counts")
+    ap.add_argument("--old-chapters", action="store_true",
+                    help="Write the earlier converter's chapters over chapters/typ")
     ap.add_argument("--original", action="store_true",
                     help="Also write the original-spelling render")
     args = ap.parse_args()
@@ -371,10 +401,14 @@ def main():
         write_covers(edition)
         return
 
-    built = write_chapters(edition, divs, BOOK / "chapters" / "typ", True)
+    if args.old_chapters:
+        built = write_chapters(edition, divs, BOOK / "chapters" / "typ", True)
+    else:
+        built = chapter_index(edition)
     write_volumes(edition, built)
     write_ebook(edition, built)
-    T.GAP_RESOLVER["r"].summarize(sys.stderr)
+    if args.old_chapters:
+        T.GAP_RESOLVER["r"].summarize(sys.stderr)
     total = sum(len(v["chapters"]) for v in edition["volumes"])
     print(f"{len(edition['volumes'])} volumes, {total} chapters")
 

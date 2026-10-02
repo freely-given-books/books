@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 32.]
 
-    #emph[This is a great mystery: but I speak concerning Christ and the Church.]
+    #text(style: "italic")[This is a great mystery: but I speak concerning Christ and the Church.]
   ]
 ]
 
@@ -43,15 +43,15 @@ It is a #emph[Divine] secret, for two other respects.
 
 It is further said to be a #emph[great] mystery.
 
-1. #emph[Simply] in it self, because the matter thereof is deep, #footnote[1\. #emph[Use.] The mystery of our union with Christ not to be measured with the last of our reason.] difficult, waighty, and of great moment.
+1. #emph[Simply] in it self, because the matter thereof is deep, #footnote[1\. #emph[Use.] The mystery of our union with Christ not to be measured with the last of our reason.] difficult, weighty, and of great moment.
 
 2. #emph[Comparatively] in relation to other mysteries: no mystery revealed in Gods word comparable to it.
 
 Let us not presume to measure it with the line of our own reason. It being #emph[a great mystery,] it is above our capacity: yet because it is revealed we must believe it, as we do the mysteries of the Trinity, of Christs eternal generation, of the personal union of his two natures, of the proceeding of the holy Ghost, with the like; because the word hath revealed them, though we cannot fully see the reason of them. Herein lieth a main difference betwixt our estate in this world and in the world to come: here we must believe what we know but in part: there we shall perfectly know whatsoever is to be believed. Preachers can but in part make known this mystery, and hearers can but in part conceive it, let us therefore wait for perfect understanding of it, till all things be perfected in Christ: but in the mean time believe without doubting or wavering, that which is revealed of it.
 
-In our meditation of this mystery, let us conceive no carnal, #footnote[2\. #emph[Use.] No carnal thing in our union with Christ. #emph[Ecclesia Christo in occulto vxor est. Occultè quip atque intus in abscondito secreto spiritali anima humana inhaeret verbo Dei, vt sint duo in carne una. Aug. contr. Faust. Man. lib.] 22. #emph[cap.] 38.] no earthly thing of it, because it is a mystery: it is altogether spiritual and heavenly. From the natural union of our head and body, and from the matrimonial union of man and wife, we may and ought to take occasion by way of resemblance, to help our understanding in the union of Christ and his Church: for this end are these resemblances used, and by this means may our understanding be much helped, as by the outward elements and rites which are used in the Sacraments: but if because of these comparisons we draw this which is only and wholly spiritual, to any carnal matter, we shall make that to be a thick mist, and dark cloud, which is given for a light.
+In our meditation of this mystery, let us conceive no carnal, #footnote[2\. #emph[Use.] No carnal thing in our union with Christ. #emph[Ecclesia Christo in occulto vxor est. Occultè quippe atque intus in abscondito secreto spiritali anima humana inhaeret verbo Dei, vt sint duo in carne vna. Aug. contr. Faust. Man. lib.] 22. #emph[cap.] 38.] no earthly thing of it, because it is a mystery: it is altogether spiritual and heavenly. From the natural union of our head and body, and from the matrimonial union of man and wife, we may and ought to take occasion by way of resemblance, to help our understanding in the union of Christ and his Church: for this end are these resemblances used, and by this means may our understanding be much helped, as by the outward elements and rites which are used in the Sacraments: but if because of these comparisons we draw this which is only and wholly spiritual, to any carnal matter, we shall make that to be a thick mist, and dark cloud, which is given for a light.
 
-The dotage of our adversaries is here plainly discovered. They make our union with Christ merely carnal. For they conceit it to consist in a corporeal commixtion of Christs flesh with ours, by our eating his flesh with the teeth of our bodies, and drinking his blood down our throats, and digesting both #footnote[3\. #emph[Use.] Papists make our union with Christ a carnal matter. #emph[Joh] 6. 52. #emph[Ioh.] 3. 4.] in our stomacks as our bodily food, that so it may turn into our substance. Thus they show themselves like the dull-headed Capernaitans, and like ignorant #emph[Nicodemus.] There is a great deal of gross absurdity, but no great mystery in that conceit.
+The dotage of our adversaries is here plainly discovered. They make our union with Christ merely carnal. For they conceit it to consist in a corporeal commixtion of Christs flesh with ours, by our eating his flesh with the teeth of our bodies, and drinking his blood down our throats, and digesting both #footnote[3\. #emph[Use.] Papists make our union with Christ a carnal matter. #emph[Joh] 6. 52. #emph[Joh.] 3. 4.] in our stomacks as our bodily food, that so it may turn into our substance. Thus they show themselves like the dull-headed Capernaitans, and like ignorant #emph[Nicodemus.] There is a great deal of gross absurdity, but no great mystery in that conceit.
 
 === §. 91. #emph[Of the Popes usurping to be Spouse of the Church.]
 
@@ -86,7 +86,7 @@ Others, other things. Thus they wanting the light of Gods word, one strayeth in 
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 33.]
 
-    #emph[Nevertheless, let every one of you in particular so love his wife, even as himself: and the wife see that she reverence her husband.]
+    #text(style: "italic")[Nevertheless, let every one of you in particular so love his wife, even as himself: and the wife see that she reverence her husband.]
   ]
 ]
 

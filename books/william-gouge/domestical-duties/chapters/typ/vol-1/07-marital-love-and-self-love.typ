@@ -7,13 +7,13 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
 
-    #emph[#emph[So ought men to love their wives,] etc.]
+    #text(style: "italic")[#emph[So ought men to love their wives,] etc.]
   ]
 ]
 
 #v(0.8em)
 
-THE first clause of this verse serueth both for an #emph[application] of the former argument, and also for a #emph[transition] to another argument.
+THE first clause of this verse serveth both for an #emph[application] of the former argument, and also for a #emph[transition] to another argument.
 
 The particle of relation (So) showeth that that which hath before been delivered of Christs love to his Church, ought to be referred and applied to husbands. For as Christ loved his Church, #emph[So] ought husbands to love their wives.
 
@@ -40,7 +40,7 @@ Of these points I shall hereafter more fully speak.
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
 
-    #emph[#emph[So ought men to love their wives as their own bodies.]]
+    #text(style: "italic")[#emph[So ought men to love their wives as their own bodies.]]
   ]
 ]
 
@@ -83,7 +83,7 @@ By this clause two things are implied.
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
 
-    #emph[For no man ever yet hated his own flesh: but nourisheth and cherisheth it, even as the Lord the Church.]
+    #text(style: "italic")[For no man ever yet hated his own flesh: but nourisheth and cherisheth it, even as the Lord the Church.]
   ]
 ]
 
@@ -124,7 +124,7 @@ That he may yet further press this point, he returneth again to the example of C
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28, 29.]
 
-    #emph[So ought men to love their wives as their own bodies: he that loveth his wife loveth himself. For no man ever yet hated his own flesh: but nourisheth, and cherisheth it, even as the Lord the Church.]
+    #text(style: "italic")[So ought men to love their wives as their own bodies: he that loveth his wife loveth himself. For no man ever yet hated his own flesh: but nourisheth, and cherisheth it, even as the Lord the Church.]
   ]
 ]
 
@@ -144,7 +144,6 @@ This is manifested two ways.
 
 + Negatively, #emph[No man hateth his own flesh.]
 + Affirmatively, and that in two branches
-
 + #emph[Nourisheth]
 + #emph[Cherisheth]
 
@@ -177,7 +176,7 @@ That which is natural is in all by the very instinct of nature: and it was at fi
 
 === §. 58. #emph[Of spiritual self-love.]
 
-Spiritual self-love is that which is supernaturally wrought in man by Gods Spirit: whereby he is both inlightned to discern what is most excellent, and best for him, and also moved to choose the same: so as this serueth to rectify the former. Hence it cometh to pass that their chiefest care is for their souls, and for the eternal salvation thereof: for the furthering whereof they can be content as need requireth, to #footnote[1 #emph[Cor.] 9. 27.] beat down their body, to #footnote[2 #emph[Cor.] 11. 27.] deny them sometimes their ordinary refreshing by food, rest, and other like means, yea and to #footnote[#emph[Heb.] 11. 36, 37.] suffer them to be imprisoned, racked, and otherwaies tortured, and life it self to be taken from them. This men do, #footnote[#emph[Non propterea quisquam dicendus est non diligere salutem, atque incolumitatem corporis sui, quia amplius aliquid diligit: nam auarus etc. Aug. de doct. Chr. lib.] 1. #emph[cap.] 25.] and suffer, not for want of natural affection, but by reason of spiritual affection which perswades them that it is good for them it should be so, A man is not therefore to be said not to love the health and safety of his body because he loveth something more. For a covetous man though he love his money, yet he can be content to part with it for bread to nourish his body: so a spiritual man though he love his life, yet he can be content to lose it for his souls salvation. For he loveth himself sufficiently, who doth his best to enjoy the chiefest and truest good. This spiritual affection extendeth it self as #footnote[#emph[Ille so satis diligit qui sedulo agit vt summo & vero perfruatur bono. Aug. de mor. eccl. l.] 1. #emph[c.] 26.] far as, natural affection, namely to wives, husbands, children, parents, brethren, cosins, friends, etc. Much is this urged and pressed in the Scriptures, as #emph[Isa.] 55. 1, 2, 3. #emph[Mat.] 6. 19, 20, 33. #emph[Ioh.] 6. 27. 1 #emph[Tim.] 6. 11, 19.
+Spiritual self-love is that which is supernaturally wrought in man by Gods Spirit: whereby he is both inlightned to discern what is most excellent, and best for him, and also moved to choose the same: so as this serveth to rectify the former. Hence it cometh to pass that their chiefest care is for their souls, and for the eternal salvation thereof: for the furthering whereof they can be content as need requireth, to #footnote[1 #emph[Cor.] 9. 27.] beat down their body, to #footnote[2 #emph[Cor.] 11. 27.] deny them sometimes their ordinary refreshing by food, rest, and other like means, yea and to #footnote[#emph[Heb.] 11. 36, 37.] suffer them to be imprisoned, racked, and otherwaies tortured, and life it self to be taken from them. This men do, #footnote[#emph[Non propterea quisquam dicendus est non diligere salutem, atque incolumitatem corporis sui, quia amplius aliquid diligit: nam auarus etc. Aug. de doct. Chr. lib.] 1. #emph[cap.] 25.] and suffer, not for want of natural affection, but by reason of spiritual affection which perswades them that it is good for them it should be so, A man is not therefore to be said not to love the health and safety of his body because he loveth something more. For a covetous man though he love his money, yet he can be content to part with it for bread to nourish his body: so a spiritual man though he love his life, yet he can be content to lose it for his souls salvation. For he loveth himself sufficiently, who doth his best to enjoy the chiefest and truest good. This spiritual affection extendeth it self as #footnote[#emph[Ille so satis diligit qui sedulo agit vt summo & vero perfruatur bono. Aug. de mor. eccl. l.] 1. #emph[c.] 26.] far as, natural affection, namely to wives, husbands, children, parents, brethren, cosins, friends, etc. Much is this urged and pressed in the Scriptures, as #emph[Isa.] 55. 1, 2, 3. #emph[Mat.] 6. 19, 20, 33. #emph[Joh.] 6. 27. 1 #emph[Tim.] 6. 11, 19.
 
 === §. 59. #emph[Of evil self-love.]
 
@@ -209,7 +208,7 @@ Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
 
-    #emph[For no man ever yet hated his own flesh: but nourisheth and cherisheth it.]
+    #text(style: "italic")[For no man ever yet hated his own flesh: but nourisheth and cherisheth it.]
   ]
 ]
 
@@ -257,7 +256,7 @@ The second evidence of that love which a man beareth to himself, is noted in two
 
 If he be worse then an Infidel that provideth not for his #footnote[1 #emph[Tim.] 5. 8. #emph[Inconcussa naturae lege diligimus nos ipsos, quae in bestias etiam promulgata est. Aug. de Doct. Chr. li.] 1. #emph[ca.] 26.] own, what is he that provideth not for himself? Even worse then a beast: for nature hath taught the bruit beasts to nourish and cherish themselves. If any think that it more befiteth beasts, or natural men then Saints, let them tell me which of the Saints at any time guided by Gods Spirit, hath wholly neglected himself. To omit all others, it is expressly noted of Christ, that as there was occasion, he #footnote[#emph[Mat.] 8. 24.] slept, he #footnote[#emph[Luke] 14. 1.] eat, he #footnote[#emph[John] 4. 6.] rested, and otherwise refreshed himself.
 
-#strong[#emph[Object.] Though he were #footnote[#emph[Ioh.] 4. 31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.]
+#strong[#emph[Object.] Though he were #footnote[#emph[Joh.] 4. 31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.]
 
 #emph[Answ.] 1. Forbearing one meal, is no great hindrance of #footnote[Lawful fasts no hindrance to the cherishing of the body.] cherishing the body.
 
@@ -295,7 +294,7 @@ As the Apostle by naming these two #emph[(nourish, cherish)] showeth that both o
 
 #emph[Having food and raiment, we must be therewith content.] #footnote[Doct.]
 
-The Apostle in these very words laieth down this doctrine in #footnote[1 #emph[Tim.] 6. 8.] another place. The #footnote[#emph[Prou.] 30. 8.] prayer of #emph[Agur,] and the tenour of the #footnote[#emph[Matth.] 6. 11.] fourth Petition prove as much.
+The Apostle in these very words laieth down this doctrine in #footnote[1 #emph[Tim.] 6. 8.] another place. The #footnote[#emph[Prov.] 30. 8.] prayer of #emph[Agur,] and the tenour of the #footnote[#emph[Matth.] 6. 11.] fourth Petition prove as much.
 
 #emph[Quest.] Is a man then strictly bound to care for no more then food to nourish, and apparel to cherish him?
 

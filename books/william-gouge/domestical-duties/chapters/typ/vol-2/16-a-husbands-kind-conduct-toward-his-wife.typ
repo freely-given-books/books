@@ -96,7 +96,7 @@ Contrary are the furious, and spiteful actions of many unkind husbands #emph[(he
 
 === §. 45. #emph[Of an husbands bearing with his wines infirmities.]
 
-#quote(block: true)[Hither to of the husbands avoiding of offence, a word concerning his bearing with offence.]
+Hither to of the husbands avoiding of offence, a word concerning his bearing with offence.
 
 A general duty it is, common to all of all sorts, to #emph[bear one] #footnote[#emph[Gal.] 6. 2.] #emph[anothers burden:] in which extent even a wife is to bear her husbands burden, because he, as every one else, is subject to slip and fall, and so hath need to be supported. Yet after a more special and peculiar manner doth this duty belong to an husband, and that in two respects.
 
@@ -114,7 +114,7 @@ Actual transgressions are breaches of Gods law: whereof such are here ment, as a
 
 2. By removing the stone whereat she stumbleth, by taking away the occasion (so far as conveniently he can) which maketh her offend. Thus #emph[Abram,] and that by Gods advice, put #emph[Hagar] and her son out of the house, because they were an offence to #emph[Sarah.]
 
-3. By turning his eyes away (if the matter be not great, but #footnote[1 #emph[Sam.] 1. 8. #emph[Gen.] 21. 14.] such as may be tolerated) and taking no notice of the offence, but rather passing by it, as if he perceived it not. #emph[Solomon] saith, that #emph[it is a mans glory to pass over a transgression:] and he exhorteth a #footnote[#emph[Prou.] 19. 11. #emph[Eccl] 7. 23.] man #emph[not to give his heart to all the words that men speak.]
+3. By turning his eyes away (if the matter be not great, but #footnote[1 #emph[Sam.] 1. 8. #emph[Gen.] 21. 14.] such as may be tolerated) and taking no notice of the offence, but rather passing by it, as if he perceived it not. #emph[Solomon] saith, that #emph[it is a mans glory to pass over a transgression:] and he exhorteth a #footnote[#emph[Prov.] 19. 11. #emph[Eccl] 7. 23.] man #emph[not to give his heart to all the words that men speak.]
 
 4. By forgiving and forgetting it (if notice be taken thereof.) #emph[Jacob] took notice of #emph[Rachels] rash, and froward demand, for he #footnote[#emph[Gen.] 30. 1. 2, #emph[etc.]] rebuked her for it: yet in that he readily yielded to that which afterwards she moved him unto, it appeareth that he forgave the offence, if not forgat it.
 

@@ -134,6 +134,7 @@ TYPST_NUMBERED_PARAGRAPHS = "enum"
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
         "file": "domestical-duties.epub", "cover": "cover-ebook-front.jpg",
+        "front": "ebook-front.html",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"],
         "toc_depth": 4}
 PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)]
