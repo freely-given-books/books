@@ -267,7 +267,7 @@ When the day of persecution approacheth, this will make us
 comfortable, for our life is a valley of tears; and shall not we go through this
 valley of tears, to this mount where all tears shall be wiped away from all
 eyes? When we be dejected with the loss of any friend, they say as Christ said
-to the woman, 'Weep not for me,' Luke 23:28. They be happy, 'and all
+to the women, 'Weep not for me,' Luke 23:28. They be happy, 'and all
 tears are wiped away from their eyes.' And therefore as it is matter of
 comfort while we live, so ground of comfort when we die. For there is
 occasion of sorrow in death, parting with friends and comforts of this world.

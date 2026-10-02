@@ -42,6 +42,14 @@ Christ", the gloss "(cocoa)" after coquus …) and 19 words it had changed
 "lay hold on the victory of Christ", "always abound", "Christ said to the
 woman", "these that be his", "something of it" …), and Caesar's for Cesar's.
 
+Where the 1650 reading is hard going today, the edition then words it in
+plain modern English, keeping as close to 1650 as it can: "other men of good
+wit", "that we do not fear the king of fears", "sow in tears, and in
+expectation", "what a marvellous sweetness is", "so much going out", "we
+may see something of him". Two go back to the earlier copy because the
+scripture they quote says so: "always abounding" (1 Corinthians 15:58) and
+"Christ said to the women" (Luke 23:28, the daughters of Jerusalem).
+
 ## Still different, by design
 
 Spelling and modernization (labours, Saviour, it is for its, St for Saint,

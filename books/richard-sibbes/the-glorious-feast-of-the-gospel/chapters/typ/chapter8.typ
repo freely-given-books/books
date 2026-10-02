@@ -315,7 +315,7 @@ followeth the night, and the Sabbath the week, and the jubilee such a term of
 years; and as the triumph followeth the war; and as the consummation of
 marriage followeth contract; so it is a happy and glorious condition, above all
 conditions here on earth. Therefore in this text you have not only the
-seedtime of the Christian (we may sow in tears, and an expectation, as in
+seedtime of the Christian (we may sow in tears, and in expectation, as in
 sowing), but here is likewise the harvest of a Christian. As there is time of
 sowing, so there is time of reaping; as time of waiting, so of enjoying. We
 have waited, and now, lo, we have what we waited for.
@@ -386,7 +386,7 @@ sight in heaven, there is no sight. The Scripture speaketh of sight of God
 comparatively. Moses 'saw God,' that is, more than any other; and Jacob 'saw
 God,' that is, comparatively more than before, but not fully and wholly. We
 can apprehend him, but not comprehend him, as they say. We may see
-something of it, but not wholly.
+something of him, but not wholly.
 
 But in heaven we shall have another sight of God, and then we shall say,
 'Lo, this is the God we have waited for!' We shall see Christ face to face.

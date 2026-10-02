@@ -9,8 +9,8 @@
 | --- | --- |
 | punctuation | 2284 |
 | case | 1762 |
-| spelling | 1690 |
-| emendation | 804 |
+| spelling | 1692 |
+| emendation | 809 |
 | italic | 583 |
 | note | 385 |
 | spacing | 206 |
@@ -338,6 +338,7 @@
 - [chapter3.typ] School - master → schoolmaster
 - [chapter3.typ] Ceremonial Law , → ceremonial law
 - [chapter3.typ] it self ; → itself.
+- [chapter3.typ] men → men of
 - [chapter3.typ] Again → (2.) Again
 - [chapter3.typ] Soul , → soul
 - [chapter3.typ] vailed , → veiled
@@ -390,6 +391,7 @@
 - [chapter3.typ] I → Aye,
 - [chapter3.typ] of Gods Children → to God’s children,
 - [chapter3.typ] & c → ' Philip 4:7
+- [chapter3.typ] are → is
 - [chapter3.typ] it self → itself
 - [chapter3.typ] inwarpt → enwrapped
 - [chapter3.typ] its → it is
@@ -512,6 +514,7 @@
 - [chapter4.typ] death → death,' 1 Corinthians 3
 - [chapter4.typ] blaspheme → blaspheme,' 1 Timothy 1
 - [chapter4.typ] yet → 20. Yet
+- [chapter4.typ] we → we do
 - [chapter4.typ] any thing → anything
 - [chapter4.typ] life → life,' Job 2:4
 - [chapter4.typ] body → body,' Mat 10
@@ -786,6 +789,7 @@
 - [chapter8.typ] him → him,' Psalm 145:19
 - [chapter8.typ] seed time → seedtime
 - [chapter8.typ] seed time → seedtime
+- [chapter8.typ] an → in
 - [chapter8.typ] : But → ), but
 - [chapter8.typ] die → die,' 1 Corinthians 15:82
 - [chapter8.typ] to morrow → 'Tomorrow
@@ -794,6 +798,7 @@
 - [chapter8.typ] Mount → mount,' Genesis 22:14
 - [chapter8.typ] Lo → 'Lo! behold
 - [chapter8.typ] behold → 
+- [chapter8.typ] it → him
 - [chapter8.typ] thy self → thyself
 - [chapter8.typ] world → world,' John 14:22
 - [chapter8.typ] Isaiah → 
@@ -3784,7 +3789,6 @@
 - it → 'it (×3)
 - jewell → jewel (×3)
 - joyne → join (×3)
-- men → men, (×3)
 - neer → near (×3)
 - not → not, (×3)
 - promise → promise, (×3)
@@ -3877,6 +3881,7 @@
 - lo → 'Lo (×2)
 - lo → 'Lo, (×2)
 - marvailous → marvellous (×2)
+- men → men, (×2)
 - mistery → mystery (×2)
 - my → 'my (×2)
 - notwithstanding → notwithstanding, (×2)
@@ -4080,6 +4085,7 @@
 - Woe → 'Woe
 - Yea → Yea,
 - a → a-
+- abound → abounding
 - aboundant → abundant
 - admirare → admirari
 - admiration → admiration,
@@ -4240,6 +4246,7 @@
 - gather'd → gathered
 - ghost → ghost,
 - glorious → glorious,
+- goings → going
 - gone → gone!
 - goodness → goodness,
 - grave → grave,
@@ -4525,6 +4532,7 @@
 - woefully → wofully
 - woful → woeful
 - woman → 'Woman,
+- woman → women
 - wonder → wonder,
 - wonderful → 'Wonderful
 - wondred → wondered

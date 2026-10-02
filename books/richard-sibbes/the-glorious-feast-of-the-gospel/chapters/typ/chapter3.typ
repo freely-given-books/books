@@ -127,7 +127,7 @@ of the thing itself. The manner of speech sometimes casteth a veil on things;
 for our Saviour Christ spake in parables, which were like the cloud, dark on
 the one side, light on the other, dark towards the Egyptians, light towards the
 Israelites. So some expressions of Scripture have a light side, that only the
-godly see, and a dark side, that other men, good wit, as natural men, see not.
+godly see, and a dark side, that other men of good wit, as natural men, see not.
 
 (2.) Again, there is a veil upon the soul and upon the sight. If the things
 be veiled, or the sight veiled, there is no sight. Now the soul is veiled when
@@ -444,7 +444,7 @@ takes away the veil, he makes a feast. What a wonderful satisfaction hath the
 soul, when the veil is taken off, to see God in Christ reconciled! to see sin
 pardoned! to see the beginnings of grace, which shall be finished and
 accomplished in glory! to discern that 'peace which passeth understanding,'
-Philip 4:7. What a marvellous sweetness are in these things!
+Philip 4:7. What a marvellous sweetness is in these things!
 
 They cannot be revealed to the knowledge spiritually, but there is a feast
 in the soul, wherein the soul doth solace itself; so both these go together.

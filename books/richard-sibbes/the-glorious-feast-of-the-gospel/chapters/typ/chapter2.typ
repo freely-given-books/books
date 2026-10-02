@@ -66,7 +66,7 @@ We need to every trade a great deal of knowledge. Then surely the calling of
 Christianity needeth a great deal. A Christian must expect much both in
 prosperity and adversity, as the apostle saith, 'I have learned to want and to
 abound, to be in honour and to be in disgrace, and I can do all things
-through Christ that strengthens me,' Philip 4:12. Now, because there is so much goings out for the maintenance of Christianity, we must also bring
+through Christ that strengthens me,' Philip 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
 in much grace, and faith, and love, and holiness, or else we shall never be
 able to uphold this condition. Where there is an exercise of Christianity,
 there will be an appetite to heaven; that is our best calling. For when that we

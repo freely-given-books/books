@@ -384,7 +384,7 @@ the humbling of their bodies, they be taught not to blaspheme; so that not
 only death, but sin, and he that brought sin into the world, the devil, are
 become our friends.
 
-This being so, it may be for special comfort that we not fear the king of
+This being so, it may be for special comfort that we do not fear the king of
 fears. The devil hath great advantage by this affection of fear, when it is set
 upon this object death. Overcome death, and all troubles are overcome. Who
 will fear anything that hath given up himself to God? 'Skin for skin, and all
@@ -432,7 +432,7 @@ Let us labour then to be comfortable: this use the apostle makes of it;
 and fruitful in our places, upon consideration of the victory we have by
 Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ’s victory,
 as the cause of our victory, because he is the first fruit that sanctifieth all the
-rest. 'Finally, my brethren, be constant, immoveable, always abound in the
+rest. 'Finally, my brethren, be constant, immoveable, always abounding in the
 works of the Lord, knowing that your labour is not in vain in the Lord.' He
 raiseth that exhortation of fruitfulness and constancy from this very ground
 of the victory Christ hath gotten by death. 'O death, where is thy sting? O
