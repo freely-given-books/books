@@ -11,6 +11,3 @@ __pycache__/
 *.xhtml
 !ebook-front.html
 !ebook-appendix.html
-
-# Perkins' earlier converter (Gouge's is tracked as provenance)
-books/william-perkins/christian-economy/sources/

@@ -17,6 +17,7 @@ Latin by Thomas Pickering.
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
 | `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |
 | `sources/dedication_modern.typ`, `sources/treatise_modern.typ` | modernized render the chapters were split from |
+| `sources/*.py`, `sources/CLAUDE.md` | the first-pass converter and its notes (provenance) |
 | `source/A09377.tcp.xml` | untouched EEBO-TCP transcription of the 1609 printing (provenance) |
 | `source/christian-economy.tei.xml` | enriched TEI edition: the 1609 text plus every editorial decision inline |
 | `source/review-report.md` | review decisions carried from `chapters/typ` into the TEI |

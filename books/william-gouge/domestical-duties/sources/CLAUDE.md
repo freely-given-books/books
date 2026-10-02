@@ -3,7 +3,7 @@
 This is the second book in the imprint set from EEBO-TCP. The first was
 William Perkins' *Christian Oeconomie* (`A09377`, 30,000 words); this is
 William Gouge's *Of Domesticall Duties* (`A68107`, 290,000 words). Everything
-in `../../../william-perkins/christian-economy/CLAUDE.md` still holds — read it
+in `../../../william-perkins/christian-economy/sources/CLAUDE.md` still holds — read it
 first. This file records what changed at ten times the size, and it is the
 version to copy for a new book.
 
