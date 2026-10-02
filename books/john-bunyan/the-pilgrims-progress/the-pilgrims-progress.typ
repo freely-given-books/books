@@ -42,48 +42,53 @@
 
 #set text(font: "Liberation Serif", size: 11pt)
 #set par(first-line-indent: 0em, spacing: 1.5em)
-#include "apology.typ"
+#include "chapters/typ/apology.typ"
 
 = PART ONE
 
-#include "part1/chapters/typst/chapter1.typ"
+#include "chapters/typ/part-1/stage-01.typ"
 
-#include "part1/chapters/typst/chapter2.typ"
+#include "chapters/typ/part-1/stage-02.typ"
 
-#include "part1/chapters/typst/chapter3.typ"
+#include "chapters/typ/part-1/stage-03.typ"
 
-#include "part1/chapters/typst/chapter4.typ"
+#include "chapters/typ/part-1/stage-04.typ"
 
-#include "part1/chapters/typst/chapter5.typ"
+#include "chapters/typ/part-1/stage-05.typ"
 
-#include "part1/chapters/typst/chapter6.typ"
+#include "chapters/typ/part-1/stage-06.typ"
 
-#include "part1/chapters/typst/chapter7.typ"
+#include "chapters/typ/part-1/stage-07.typ"
 
-#include "part1/chapters/typst/chapter8.typ"
+#include "chapters/typ/part-1/stage-08.typ"
 
-#include "part1/chapters/typst/chapter9.typ"
+#include "chapters/typ/part-1/stage-09.typ"
 
-#include "part1/chapters/typst/conclusion.typ"
+#include "chapters/typ/part-1/stage-10.typ"
+
+#include "chapters/typ/part-1/conclusion.typ"
 
 = PART TWO
 
-#include "part2/chapters/typst/1authorsway.typ"
+// Part Two's title page, set as Part One's preface page is
+#page(header: none)[#align(center + horizon)[#include "chapters/typ/part-2/title.typ"]]
 
-#include "part2/chapters/typst/2tothereader.typ"
+#include "chapters/typ/part-2/authors-way.typ"
 
-#include "part2/chapters/typst/chapter1.typ"
+#include "chapters/typ/part-2/to-the-reader.typ"
 
-#include "part2/chapters/typst/chapter2.typ"
+#include "chapters/typ/part-2/stage-01.typ"
 
-#include "part2/chapters/typst/chapter3.typ"
+#include "chapters/typ/part-2/stage-02.typ"
 
-#include "part2/chapters/typst/chapter4.typ"
+#include "chapters/typ/part-2/stage-03.typ"
 
-#include "part2/chapters/typst/chapter5.typ"
+#include "chapters/typ/part-2/stage-04.typ"
 
-#include "part2/chapters/typst/chapter6.typ"
+#include "chapters/typ/part-2/stage-05.typ"
 
-#include "part2/chapters/typst/chapter7.typ"
+#include "chapters/typ/part-2/stage-06.typ"
 
-#include "part2/chapters/typst/chapter8.typ"
+#include "chapters/typ/part-2/stage-07.typ"
+
+#include "chapters/typ/part-2/stage-08.typ"
