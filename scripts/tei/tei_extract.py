@@ -134,7 +134,7 @@ class R:
             parts.append(("t", self.esc(raw_tail)))
         out = []
         for i, (k, s) in enumerate(parts):
-            if k != "n" and s and s[0] in "([" and self.after_call("".join(out)):
+            if k != "n" and s and s[0] in "([;" and self.after_call("".join(out)):
                 s = "\\" + s                 # "#emph[x](y)" would call emph again
             if k == "n" and s:
                 before = "".join(out)
@@ -296,12 +296,16 @@ class R:
             text_parts = [self.inline(body, numbered)]
             txt = collapse("".join(text_parts)).strip()
             if txt:
-                if numbered and self.layer == "reg":
+                if self.layer == "reg" and item.get("rend") == "paragraph":
+                    lines += [block_start_escape(txt), ""]     # set as a paragraph
+                elif numbered and self.layer == "reg":
                     lines.append("  " * depth + "+ " + txt)
                 elif numbered and lst.get("subtype") != "printed":
                     # run-in in print: the numerals stay in the text
                     lines.append(block_start_escape(txt))
                     lines.append("")
+                elif self.layer == "orig" and lst.get("type") == "bulleted":
+                    lines += [block_start_escape(txt), ""]     # the edition's list
                 else:
                     lines.append("  " * depth + "- " + block_start_escape(txt))
             for s in subs:
@@ -357,7 +361,7 @@ def div_blocks(r, div, level=2, lines=None):
         if n == "sp":
             lines += sp_lines(r, c, level)
             continue
-        if n == "p" and layout.p_blocks(c):
+        if n == "p" and layout.p_blocks(c, r.layer == "reg"):
             lines += split_p_lines(r, c)
         elif n == "p" or \
                 (n == "q" and c.get("rend") == "quote" and c.find(T + "p") is None):
@@ -365,6 +369,8 @@ def div_blocks(r, div, level=2, lines=None):
             if t and r.layer == "reg" and c.get("rend") == "quote":
                 t = f"#quote[{t}]"
             add_block(r, lines, c, t)
+        elif n == "list" and r.layer == "reg" and c.get("rend") == "inline":
+            add_block(r, lines, c, collapse(r.inline(c)).strip())   # in the sentence
         elif n == "list":
             enum = getattr(r, "settings", {}).get("TYPST_ENUM", "I.")
             if c.get("type") == "numbered" and r.layer == "reg" and not enum_set and enum:
@@ -372,6 +378,14 @@ def div_blocks(r, div, level=2, lines=None):
                 enum_set = True
             lines += r.list_block(c)
             lines.append("")
+        elif n == "lg" and r.layer == "reg" and c.get("rend") == "paragraphs":
+            for x in c:                 # verse set a line to a paragraph
+                if isinstance(x.tag, str) and local(x) == "l":
+                    add_block(r, lines, x, r.para(x))
+        elif n in ("closer", "opener") and getattr(r, "settings", {}).get("CLOSER_PLAIN"):
+            for x in c:                 # salute, signature ...: plain paragraphs
+                if isinstance(x.tag, str) and local(x) not in ("pb",):
+                    add_block(r, lines, x, r.para(x))
         elif n == "closer" and layout.closer_lines(c, r.layer) is not None:
             for x in layout.closer_lines(c, r.layer):
                 add_block(r, lines, x, r.para(x))
@@ -396,6 +410,10 @@ def div_blocks(r, div, level=2, lines=None):
                 lines += [f"#align(right)[{r.para(signed)}]", ""]
         elif n == "trailer":
             lines += trailer_lines(r, c)
+        elif n == "label" and c.get("type") == "head":
+            # a heading the edition adds: not in the printed text
+            if r.layer == "reg":
+                lines += [f"{'=' * int(c.get('n', '3'))} {collapse(r.inline(c)).strip()}", ""]
         elif n == "epigraph":
             lines += epigraph_lines(r, c)
         elif n == "quote":
@@ -432,11 +450,11 @@ def epigraph_lines(r, ep):
     return lines + ["  ]", "]", "", "#v(0.8em)", ""]
 
 
-def p_runs(p):
+def p_runs(p, edition=True):
     """A paragraph split around its block children (layout.p_blocks):
     [("text", element holding a run of inline content) | ("block", element)].
     The runs are copies, so the paragraph itself is not changed."""
-    blocks = layout.p_blocks(p)
+    blocks = layout.p_blocks(p, edition)
     idx = {i for i, c in enumerate(p) if c in blocks}
     src = copy.deepcopy(p)
     out = []
@@ -484,7 +502,7 @@ def table_lines(r, table):
 
 def split_p_lines(r, p):
     lines = []
-    for kind, el in p_runs(p):
+    for kind, el in p_runs(p, r.layer == "reg"):
         if kind == "text":
             t = r.para(el)
             if t:
@@ -549,9 +567,13 @@ class _Loose:
 def add_block(r, lines, c, t):
     """A paragraph-like block; in the reg layer one with @prev (the review
     ran it on from the block before) joins that block's paragraph."""
+    empty = r.__dict__.setdefault("empty_blocks", set())
     if not t:
+        if c.get("{http://www.w3.org/XML/1998/namespace}id"):
+            empty.add(c.get("{http://www.w3.org/XML/1998/namespace}id"))     # nothing to run on into
         return
-    if r.layer == "reg" and c.get("prev") and len(lines) >= 2 and lines[-1] == "":
+    if r.layer == "reg" and c.get("prev") and c.get("prev")[1:] not in empty and \
+            len(lines) >= 2 and lines[-1] == "":
         sp = "" if c.get("rend") == "run-on" else " "
         if lines[-2].startswith("#quote[") and lines[-2].endswith("]"):
             lines[-2] = lines[-2][:-1] + sp + t + "]"    # runs on inside the quotation
@@ -612,7 +634,8 @@ def book_settings(tei_path):
     ed = Path(tei_path).parent / "editorial.py"
     ns = runpy.run_path(str(ed)) if ed.exists() else {}
     return {k: ns[k] for k in ("TYPST_PREAMBLE", "TYPST_HEADING", "TYPST_ENUM",
-                               "TYPST_NUMBERED_PARAGRAPHS", "VERSE_LINEBREAKS", "SMALLCAPS")
+                               "TYPST_NUMBERED_PARAGRAPHS", "VERSE_LINEBREAKS", "SMALLCAPS",
+                               "CLOSER_PLAIN")
             if k in ns}
 
 

@@ -406,6 +406,9 @@ BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶", "sp": "¶
 # of the file, marked "H" (a heading line) or "¶" (a run-in heading, for the
 # div types in RUN_IN_DIVS). None: heads are skipped, the classic behaviour.
 HEAD_MODE = {"on": False, "run_in": set()}
+# CLOSER_PLAIN: openers and closers are set as plain paragraphs (a salute,
+# a signature), which the review may run on into the text or split
+SETTINGS = {"closer_plain": False}
 
 
 def compute_auto(toks):
@@ -1403,9 +1406,13 @@ def distribute(ts, new, log, label, idxs=None, mark=None, tgt=None):
         b = max(b, start)
         pieces.append(tgt[ns_to_full[start]:ns_to_full[b]].strip() if start < len(ns_to_full) else "")
         start = b
-    for t, piece in zip(ts, pieces):
+    for k, (t, piece) in enumerate(zip(ts, pieces)):
         if piece != (t.reg if t.reg is not None else t.orig or ""):
             apply_to_token(t, piece, log, label)
+        # a piece that begins inside a review word: no space goes before it
+        w = ns_to_full[bounds[k - 1]] if k and bounds[k - 1] < len(ns_to_full) else None
+        if w is not None and 0 < w < len(tgt) and tgt[w - 1] != " " and tgt[w] != " ":
+            t.extra["midword"] = True
     if mark is not None and idxs:
         # each review word goes to the token whose piece holds its first letter
         starts, pos = [], 0
@@ -1517,13 +1524,17 @@ def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
         if ia >= ib:
             continue
         between = leaves[ia + 1:ib]
-        spaces = [x for x in between if x.kind == "space"]
+        # indentation between two words' elements renders as a space too
+        spaces = [x for x in between if x.kind == "space" or
+                  (x.kind == "noise" and "".join(p for p in x.pieces if isinstance(p, str)).strip() == "")]
         want = sp[j2]
         # a reading may carry its own space (a spaced dash, DASH = " — ")
         padded = (a.kind in ("word", "punct") and (a.reg or "").endswith(" ")) or \
             (b.kind in ("word", "punct") and (b.reg or "").startswith(" "))
         if want == (bool(spaces) or padded):
             continue
+        if want and b.extra.get("midword"):
+            continue            # b's reading starts inside a word; its space is in it
         if want:
             if is_changed(b) and b.extra.get("tidx", [None])[0] == j2:
                 pad(b, lead=" ")
@@ -1765,6 +1776,14 @@ def review_division(d, review, f, log, unresolved):
 
     apply_clusters(cl, log, unresolved, f, placed, lambda j: review.body[j][2],
                    lambda j: review.body_sp[j])
+    # the edition's own headings, placed before the block they stand over
+    for pos, level, text in getattr(review, "edition_heads", []):
+        jw = next((x for x in range(pos, len(tgt)) if tgt[x][1] == "w"), None)
+        tok = owner.get(jw) if jw is not None else None
+        if tok is None:
+            unresolved.append((f, "edition heading", text))
+        else:
+            EDITION_HEADS.append((tok, level, text, f))
     # list items and the blocks set inside them (reviewparse list_info),
     # placed after restructure() has made the review's lists
     for j, info in sorted(getattr(review, "list_info", {}).items()):
@@ -1803,9 +1822,17 @@ def review_division(d, review, f, log, unresolved):
     first_j = {}
     for j, tok in sorted(owner.items()):
         first_j.setdefault(id(tok), j)
+    where = {id(e[2]): k for k, e in reversed(list(enumerate(body)))}
     for x in st:
         if x["at"] is not None and x["src_marks"] and not x["tgt_marks"]:
-            j = first_j.get(id(x["at"][2]))
+            # the first word of the joined block that the review keeps
+            j = None
+            for e in body[where.get(id(x["at"][2]), len(body)):]:
+                if e[1] == "m":
+                    break
+                j = first_j.get(id(e[2]))
+                if j is not None:
+                    break
             if j is not None and not review.body_sp[j]:
                 NO_SPACE_RUN_ON.add(id(x["at"][2]))
     return st, body
@@ -2046,7 +2073,8 @@ def merge_lists(log):
             j -= 1
         prev = par.children[j] if j >= 0 else None
         if prev is not None and prev.kind == "container" and local(prev.el) == "list" \
-                and prev.el.get("change") == "#review" and prev in MADE_LISTS:
+                and prev.el.get("change") == "#review" and prev in MADE_LISTS \
+                and prev.el.get("type") == lst.el.get("type"):
             prev.children += [Tok("space", ["\n"])] + [c for c in lst.children]
             relink(prev)
             del par.children[j + 1:k + 1]
@@ -2054,6 +2082,37 @@ def merge_lists(log):
 
 
 LIST_SHAPE = []         # (tok, list_info entry, file), in reading order
+EDITION_HEADS = []      # (tok, level, text, file): headings the edition adds
+
+
+def apply_edition_heads(log):
+    """Each heading the edition adds becomes label[@type="head"] (its level
+    in @n, ana="#edition-only") before the block whose first word it stands
+    over; printed text is not touched."""
+    for tok, level, text, f in EDITION_HEADS:
+        path = path_to(ROOT["toks"], tok) or []
+        conts = [c for c in path if c.kind == "container"]
+        k = next((i for i in range(len(conts) - 1, 0, -1)
+                  if local(conts[i - 1].el) in ("div", "item")), None)
+        if k is None:
+            log.append((f, "skipped", f"heading '{text}'", "no block for it"))
+            continue
+        blk, par = conts[k], conts[k - 1]
+        if local(blk.el) == "list":     # over an item: before that item
+            item = next((c for c in conts[k + 1:] if local(c.el) == "item"), None)
+            items = [c for c in blk.children if c.kind == "container" and local(c.el) == "item"]
+            if item is not None and items and item is not items[0]:
+                blk, par = item, blk
+        el = etree.Element(T + "label")
+        el.set("type", "head")
+        el.set("n", str(level))
+        el.set("ana", "#edition-only")
+        el.set("change", "#review")
+        el.text = text
+        i = next(j for j, c in enumerate(par.children) if c is blk)
+        par.children[i:i] = [Tok("atom", el=el), Tok("space", ["\n"])]
+        relink(par)
+        log.append((f, "heading", "(none)", text))
 ROOT = {"toks": []}
 
 
@@ -2155,6 +2214,13 @@ def apply_list_shape(log):
     merge_lists(log)            # the lists a paragraph stood between
 
 
+def has_words(t):
+    """Whether a token (or anything in a container) has text."""
+    if t.kind in ("word", "punct"):
+        return bool(t.reg if t.reg is not None else t.orig)
+    return t.kind in ("container", "group") and any(has_words(c) for c in t.children or [])
+
+
 def leading(ct, tok):
     """The tokens of ct before tok, at every level down to it."""
     out = []
@@ -2231,13 +2297,32 @@ def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
-    later = [s for s in splits if s[1] in ("quote", "merge", "renumber")]
-    splits = [s for s in splits if s[1] not in ("quote", "merge", "renumber")]
+    LATER = ("quote", "merge", "renumber", "unlist", "inline")
+    later = [s for s in splits if s[1] in LATER]
+    splits = [s for s in splits if s[1] not in LATER]
     by_block = {}
     for s in splits:
         b = block_of(s[0])
         if b is not None and local(b.el) == "quote":
             by_block.setdefault(id(b), (b, []))[1].append(s)
+            continue
+        if b is not None and local(b.el) == "lg" and s[1] == "¶":
+            # verse the edition sets a line to a paragraph
+            if b.el.get("rend") != "paragraphs":
+                b.el.set("rend", "paragraphs")
+                b.el.set("change", "#review")
+                log.append((s[4], "verse", "lines", "set as paragraphs"))
+            continue
+        sg = next((a for a in ancestors(s[0]) if local(a.el) == "signed"), None)
+        if sg is not None and SETTINGS["closer_plain"] and s[1] == "¶":
+            # a signature the edition sets on two lines
+            par = sg.parent
+            _l, right = split_container(sg, s[0])
+            right.el.set("change", "#review")
+            i = next(k for k, c in enumerate(par.children) if c is sg)
+            par.children[i + 1:i + 1] = [Tok("space", ["\n"]), right]
+            relink(par)
+            log.append((s[4], "split", "signature", f"new line at '{s[0].orig}'"))
             continue
         if b is None or local(b.el) != "p":
             log.append((s[4], "skipped", f"new {s[1]} before '{s[0].orig}'",
@@ -2267,7 +2352,7 @@ def restructure(splits, log):
                     out.append(ct)
                 continue
             kind, labels = meta
-            if kind == "+":
+            if kind in ("+", "-"):
                 item = new_container("item")
                 kids = ct.children
                 if labels:
@@ -2275,9 +2360,12 @@ def restructure(splits, log):
                     kids = ct.children
                 item.children = kids
                 relink(item)
+                if lst is not None and lst.el.get("type") != ("numbered" if kind == "+"
+                                                             else "bulleted"):
+                    lst = None
                 if lst is None:
                     lst = new_container("list")
-                    lst.el.set("type", "numbered")
+                    lst.el.set("type", "numbered" if kind == "+" else "bulleted")
                     lst.el.set("change", "#review")
                     out.append(lst)
                     MADE_LISTS.append(lst)
@@ -2308,6 +2396,31 @@ def restructure(splits, log):
                     ", ".join((s[2][0].orig if s[2] else s[0].orig) for s in pts)))
     merge_lists(log)
     for tok, kind, _l, _o, f in sorted(later, key=lambda s: s[3]):
+        if kind in ("unlist", "inline"):
+            anc = ancestors(tok)
+            item = next((a for a in anc if local(a.el) == "item"), None)
+            lst = next((a for a in anc if local(a.el) == "list"), None)
+            if kind == "unlist" and item is not None:
+                item.el.set("rend", "paragraph")       # set as a paragraph
+                item.el.set("change", "#review")
+                log.append((f, "list", f"item at '{tok.orig}'", "set as a paragraph"))
+            elif kind == "inline" and lst is not None and lst.el.get("rend") != "inline":
+                lst.el.set("rend", "inline")
+                lst.el.set("change", "#review")
+                log.append((f, "list", f"list at '{tok.orig}'", "run into its sentence"))
+                if local(lst.el.getparent()) != "p":
+                    # a list between paragraphs: it runs on from the one before
+                    kids = lst.parent.children
+                    k = next(i for i, c in enumerate(kids) if c is lst)
+                    prev = next((c for c in reversed(kids[:k]) if c.kind == "container"), None)
+                    if prev is not None and local(prev.el) in ("p", "q"):
+                        for x in (prev, lst):
+                            if not x.el.get("{%s}id" % XML_NS):
+                                NOTE_SEQ["b"] = NOTE_SEQ.get("b", 0) + 1
+                                x.el.set("{%s}id" % XML_NS, f"rb{NOTE_SEQ['b']}")
+                        prev.el.set("next", "#" + lst.el.get("{%s}id" % XML_NS))
+                        lst.el.set("prev", "#" + prev.el.get("{%s}id" % XML_NS))
+            continue
         if kind == "renumber":
             # a printed bullet list the review numbers: its numerals become labels
             lst = next((a for a in ancestors(tok) if local(a.el) == "list"), None)
@@ -2325,10 +2438,24 @@ def restructure(splits, log):
         # the innermost paragraph (a <q> may itself hold paragraphs); a
         # scripture epigraph the review sets as a quotation is one block
         b = next((a for a in ancestors(tok) if local(a.el) == "p"), None) or block_of(tok)
+        if SETTINGS["closer_plain"]:
+            b = next((a for a in ancestors(tok) if local(a.el) in
+                      ("salute", "signed", "dateline")), None) or b
+        if kind == "merge" and b is not None and local(b.el) == "p" and \
+                any(has_words(c) for c in leading(b, tok)):
+            # text after a printed list inside the paragraph: the review
+            # runs the list into the sentence
+            for c in layout.p_blocks(b.el):
+                if local(c) == "list" and c.get("rend") != "inline":
+                    c.set("rend", "inline")
+                    c.set("change", "#review")
+                    log.append((f, "list", f"list before '{tok.orig}'", "run into its sentence"))
+            continue
         ep = next((a for a in ancestors(tok) if local(a.el) == "epigraph"), None)
         if kind == "quote" and ep is not None:
             b = ep
-        if b is None or local(b.el) not in ("p", "q", "epigraph"):
+        if b is None or local(b.el) not in ("p", "q", "epigraph", "salute", "signed",
+                                            "dateline"):
             log.append((f, "skipped", f"{kind} at '{tok.orig}'", "not a paragraph"))
             continue
         if kind == "quote":
@@ -2341,15 +2468,23 @@ def restructure(splits, log):
         kids = b.parent.children
         k = kids.index(b)
         prev = next((c for c in reversed(kids[:k]) if c.kind == "container"), None)
+        if prev is None and local(b.parent.el) in ("closer", "opener"):
+            # a closer's first line runs on from the paragraph before it
+            outer = b.parent.parent.children
+            j = next(i for i, c in enumerate(outer) if c is b.parent)
+            prev = next((c for c in reversed(outer[:j]) if c.kind == "container"), None)
+        if prev is not None and local(prev.el) == "opener":
+            prev = next((c for c in reversed(prev.children) if c.kind == "container"), prev)
         into_item = False
-        if prev is not None and local(prev.el) == "list":
+        if prev is not None and local(prev.el) == "list" and prev.el.get("rend") != "inline":
             # runs on into the list's last item: it moves into that item,
             # after the item's own text (and before anything set in it later)
             items = [c for c in prev.children if c.kind == "container" and
                      local(c.el) == "item"]
             if items:
                 prev, into_item = items[-1], True
-        if prev is None or local(prev.el) not in ("p", "q", "item"):
+        if prev is None or local(prev.el) not in ("p", "q", "item", "salute", "signed",
+                                                  "dateline", "list"):
             log.append((f, "skipped", f"merge at '{tok.orig}'", "no paragraph before it"))
             continue
         if into_item:
@@ -2389,8 +2524,13 @@ def collect_splits(struct, stream_index, log):
                 labels = [Sw[0][2], Sw[1][2]]
             kind = "+" if s["src_marks"] == ["¶"] else "renumber"
             splits.append((labels[0] if labels else tok, kind, labels, order, s["label"]))
+        elif s["tgt_marks"] == ["-"] and s["src_marks"] in ([], ["¶"]):
+            splits.append((tok, "-", [], order, s["label"]))
+        elif s["tgt_marks"] == ["¶"] and s["src_marks"] == ["-"]:
+            splits.append((tok, "unlist", [], order, s["label"]))
         elif s["tgt_marks"] == ["¶"] and not s["src_marks"]:
-            if in_container(tok, ("closer", "signed", "trailer")):
+            if in_container(tok, ("closer", "signed", "trailer")) and \
+                    not (SETTINGS["closer_plain"] and in_container(tok, ("signed",))):
                 continue
             splits.append((tok, "¶", [], order, s["label"]))
         elif s["tgt_marks"] == [">"] and not s["src_marks"]:
@@ -2407,7 +2547,13 @@ def collect_splits(struct, stream_index, log):
         elif s["src_marks"] == ["¶"] and not s["tgt_marks"]:
             splits.append((tok, "merge", [], order, s["label"]))
         elif s["src_marks"] == ["-"] and not s["tgt_marks"]:
-            continue          # list nesting shown differently; list kept as-is
+            # a printed list inside a paragraph that the review runs into
+            # its sentence; else list nesting shown differently, kept as is
+            lst = next((a for a in ancestors(tok) if local(a.el) == "list"), None)
+            if lst is not None and lst.el.getparent() is not None and \
+                    local(lst.el.getparent()) in ("p", "div"):
+                splits.append((tok, "inline", [], order, s["label"]))
+            continue
         elif s["src_marks"] == ["¶"] and not s["tgt_marks"] and \
                 in_container(tok, ("trailer",)):
             continue
@@ -2497,6 +2643,14 @@ def add_header(root, editor_name):
          "paragraph; they stay separate elements as printed."),
         (".//t:p[@rend='quote']", "p[@rend='quote']: a paragraph this edition sets as a "
          "quotation."),
+        (".//t:lg[@rend='paragraphs']", "lg[@rend='paragraphs']: verse this edition "
+         "sets a line to a paragraph."),
+        (".//t:item[@rend='paragraph']", "item[@rend='paragraph']: a printed list item "
+         "this edition sets as a paragraph."),
+        (".//t:list[@rend='inline']", "list[@rend='inline']: a printed list this "
+         "edition runs into its sentence."),
+        (".//t:label[@type='head']", "label[@type='head']: a heading this edition adds "
+         "(its level in @n); it is not printed text."),
         (".//t:*[@rend='run-on']", "@rend='run-on': a block this edition runs on "
          "from the one before without a space between them."),
         (".//t:list[@rend]", "list/@rend: the numbering this edition gives a list "
@@ -2631,7 +2785,10 @@ def main():
                      "file or to SKIP_DIVISIONS")
         HEAD_MODE["on"] = True
         HEAD_MODE["run_in"] = set(cfg.get("RUN_IN_DIVS", ()))
-        return build_layout(args, tree, root, text, toks, files)
+        SETTINGS["closer_plain"] = bool(cfg.get("CLOSER_PLAIN"))
+        if SETTINGS["closer_plain"]:
+            BLOCK_MARK.update({"salute": "¶", "dateline": "¶"})
+        return build_layout(args, tree, root, text, toks, files, cfg)
 
     divs = []
 
@@ -2708,7 +2865,7 @@ def main():
 
 
 
-def build_layout(args, tree, root, text, toks, files):
+def build_layout(args, tree, root, text, toks, files, cfg=None):
     """main() for a book with a LAYOUT: each file is aligned as one unit with
     the parts the layout gives it; heads are part of its text."""
     by_el = {}
@@ -2730,7 +2887,8 @@ def build_layout(args, tree, root, text, toks, files):
                 unresolved.append((fname, "file", "missing from the review"))
                 continue
             review = reviewparse.parse_review(path.read_text(), inline_headings=True,
-                                              titled=bool(f["title"]))
+                                              titled=bool(f["title"]),
+                                              edition_heads=bool((cfg or {}).get("EDITION_HEADINGS")))
             title = review.headings[0] if review.headings else None
             if f["title"] and title and " ".join(title.split()) != " ".join(f["title"].split()):
                 unresolved.append((fname, "file title (change it in the LAYOUT)", title))
@@ -2744,6 +2902,7 @@ def build_layout(args, tree, root, text, toks, files):
         restructure(all_splits, log)
         ROOT["toks"] = toks
         apply_list_shape(log)
+        apply_edition_heads(log)
     rebuild(text, toks)
     add_header(root, args.editor)
     tree.write(args.out, xml_declaration=True, encoding="UTF-8")

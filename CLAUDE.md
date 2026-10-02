@@ -66,6 +66,17 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
     `epigraph[@rend="quote"]` / `q[@rend="quote"]` set as `#quote[...]`
   - a closer with a dateline or several signatories is set one line each,
     signatories first (orig layer: as printed)
+  - headings the edition adds (Brooks, `EDITION_HEADINGS`):
+    `label[@type="head"][@n=level][@ana="#edition-only"]` before the block
+    they stand over; the review's `=` lines below the file title
+  - `lg[@rend="paragraphs"]` verse set a line to a paragraph;
+    `item[@rend="paragraph"]` a printed item set as a paragraph;
+    `list[@type="bulleted"]` a bullet list the review makes;
+    `list[@rend="inline"]` a printed list run into its sentence;
+    `CLOSER_PLAIN` salutes and signatures as plain paragraphs (run on, split)
+  - `SKIP_BLOCKS(root)` in `editorial.py`: loose blocks the edition leaves
+    out (most of a long dedication), kept in the TEI; a layout file's
+    `"part"` is a part page before it in the ebook
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML
@@ -310,8 +321,10 @@ and copied back into `chapters/typ`.
    The review parser now records the review's spaces, readings are joined
    with them, and a spacing pass records each added or removed space as a
    `reg[@type="spacing"]` choice. `compare.py pdf` catches the rest.
-12. **Typst reads `#emph[x](y)` as a call** with more arguments. Any `(` or
-   `[` straight after a markup call is escaped (`\(`) by `tei_extract.py`;
+12. **Typst reads `#emph[x](y)` as a call** with more arguments, and a `;`
+   straight after a call (`#emph[x];`) ends it and is swallowed, so the
+   semicolon never prints. Any `(`, `[` or `;` straight after a markup call is
+   escaped (`\(`, `\;`) by `tei_extract.py`;
    check against everything rendered so far, since an empty text part can
    sit in between.
 13. **1700 printings differ from 1609 ones**: long s (`ſ`) throughout and

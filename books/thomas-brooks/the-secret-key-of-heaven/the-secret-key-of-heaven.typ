@@ -1,8 +1,9 @@
-#import "@local/fgbooks:0.5.2": *
+#import "@local/fgbooks:0.5.3": *
 
 #show outline: set text(10pt)
 
 #show: book.with(
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),   // Lulu: 151-400 pages
   title: [The Secret Key of Heaven],
   subtitle: [Or twenty arguments for closet prayer],
   author: "Thomas Brooks",

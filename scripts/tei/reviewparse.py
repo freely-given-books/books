@@ -178,7 +178,7 @@ def _scan(s, out_body, notes, italic=False, in_note=None, buf=None, sp_state=Non
                 continue
             # any other call with content, e.g. #par(first-line-indent: 0em)[..]
             # or a book macro #epigraph[..][..]: its content is text
-            m = re.match(r"#[A-Za-z][\w-]*(\([^()]*\))?(?=\[)", s[i:])
+            m = re.match(r"#[A-Za-z][\w-]*(\((?:[^()]|\([^()]*\))*\))?(?=\[)", s[i:])
             if m:
                 j = i + m.end()
                 first = True
@@ -191,7 +191,7 @@ def _scan(s, out_body, notes, italic=False, in_note=None, buf=None, sp_state=Non
                 i = j
                 continue
             # a call without content (#v(1em), #pagebreak()) is layout
-            m = re.match(r"#[A-Za-z][\w.-]*\([^()]*\)", s[i:])
+            m = re.match(r"#[A-Za-z][\w.-]*\((?:[^()]|\([^()]*\))*\)", s[i:])
             if m:
                 buf.append((" ", italic))
                 i += m.end()
@@ -268,7 +268,7 @@ def unwrap_lists(text):
     return "\n".join(out)
 
 
-def parse_review(text, inline_headings=False, titled=True):
+def parse_review(text, inline_headings=False, titled=True, edition_heads=False):
     """inline_headings (a book with a LAYOUT): heading lines are text of the
     file, marked "H", except the first when the file has a title of the
     edition's own (titled), which goes to headings.
@@ -280,6 +280,10 @@ def parse_review(text, inline_headings=False, titled=True):
     r = Review()
     r.titled = titled
     r.list_info = {}
+    # edition_heads (EDITION_HEADINGS): headings below the file title are
+    # the edition's own, not printed text: (body index they stand before,
+    # level, text), kept out of the body
+    r.edition_heads = []
     text = unwrap_lists(text)
     if inline_headings:
         text = join_brackets(text)
@@ -353,6 +357,11 @@ def parse_review(text, inline_headings=False, titled=True):
             s = line.lstrip()
             if s.startswith("="):
                 items.clear()
+                if edition_heads and (r.headings or not r.titled):
+                    level = len(s) - len(s.lstrip("="))
+                    r.edition_heads.append((len(r.body), level, s.lstrip("=").strip()))
+                    cur = None
+                    continue
                 if inline_headings and (r.headings or not r.titled):
                     r.body.append(("H", "m", False))
                     _scan_block(r, s.lstrip("=").strip() + "\n")
