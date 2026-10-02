@@ -104,6 +104,17 @@
     rule:     rgb("#8A4438"),
     subtitle: rgb("#2A2A2A"),
   ),
+  // John Bunyan, The Pilgrim's Progress.  Ochre gold, after the gold type of
+  // the book's first cover, and the one yellow on a shelf of green, blue,
+  // mauve and red; the ground is a cool stone so it does not warm into the
+  // creams and sands of the others.
+  ochre: (
+    ground:   rgb("#E9E8E2"),
+    panel:    rgb("#C9A24E"),
+    ink:      rgb("#2E2618"),
+    rule:     rgb("#7A5A1E"),
+    subtitle: rgb("#2A2A2A"),
+  ),
 )
 
 #let spine-width(pages, paper: "cream-60") = pages * CALIPER.at(paper) * 1in
