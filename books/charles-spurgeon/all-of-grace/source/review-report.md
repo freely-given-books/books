@@ -11,8 +11,8 @@
 | merge | 19 |
 | quotation | 14 |
 | spacing | 12 |
+| emendation | 5 |
 | italic | 5 |
-| emendation | 4 |
 | split | 4 |
 | punctuation | 1 |
 
@@ -26,6 +26,7 @@
 ## emendation
 
 - [chapter-05.typ] you → 
+- [chapter-06.typ] if → it
 - [chapter-08.typ] is → in
 - [chapter-17.typ] Cor . → Corinthians
 - [chapter-19.typ] Cor . → Corinthians

@@ -1,6 +1,8 @@
 # Editorial settings for Charles Spurgeon, All of Grace (1886), from CCEL
 # (https://www.ccel.org/ccel/s/spurgeon/grace.xml), kept untouched in
 # grace.thml.xml. Read by build_tei.py, tei_extract.py and ./fgb.
+# Second witness for readings: Monergism's 2015 PDF (CCEL's text with three
+# typos corrected; see README.md).
 
 # A modern text: the early-modern spelling and case rules stay off; CCEL's
 # ASCII quotes and "--" are set as the print edition sets them.

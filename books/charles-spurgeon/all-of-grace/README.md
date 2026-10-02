@@ -21,7 +21,15 @@ Lord Jesus Christ* (1886).
 The edition differs from CCEL in about 160 recorded decisions: American
 spelling (Savior, offense, marvelous), headings in title case, the opening
 words of chapters in capitals, hymn stanzas run together and scripture set as
-quotations, two typos (mutrition, wordly), and "Cor." written out.
+quotations, typos corrected (mutrition, wordly, everasting, "he refreshed",
+"if would" in chapter 6), and "Cor." written out.
+
+Second witness: Monergism's edition
+([AllofGraceCHSpurgeon.pdf](https://www.monergism.com/thethreshold/sdg/spurgeon/AllofGraceCHSpurgeon.pdf),
+2015) is CCEL's text with three of its typos corrected, which the edition
+agrees with ("be refreshed", "everlasting", "it would forgive"). An earlier
+copy this book was first set from had lost two passages (chapter 10, and
+chapter 16's pasted into chapter 12); they are restored from CCEL.
 
 ## Everyday commands
 
