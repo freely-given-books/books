@@ -102,6 +102,21 @@ class R:
     def footnote(self, body):
         return f"#footnote[{block_start_escape(body)}]"
 
+    def linebreak(self):
+        """A line break of a modern source (CCEL <br/>), with VERSE_LINEBREAKS."""
+        return " \\ "
+
+    def smallcaps(self, inner):
+        """seg[@rend="smallcaps"] (CCEL's small capitals), as SMALLCAPS says:
+        "strong" sets it bold (for a font without small capitals),
+        "smallcaps" as #smallcaps, None as plain text."""
+        how = getattr(self, "settings", {}).get("SMALLCAPS")
+        if how == "strong":
+            return f"#strong[{block_start_escape(inner)}]"
+        if how == "smallcaps":
+            return f"#smallcaps[{block_start_escape(inner)}]"
+        return inner
+
     # -- inline ----------------------------------------------------------
     def inline(self, el, in_numbered=False):
         kids = list(el)
@@ -189,6 +204,15 @@ class R:
                 return "".join(self.node(x) for x in am) if am is not None else ""
             ex = c.find(T + "ex")
             return self.esc(ex.text or "") if ex is not None else ""
+        if n == "seg" and c.get("rend") == "smallcaps":
+            inner = self.inline(c, in_numbered)
+            if not inner.strip():
+                return inner
+            lead = inner[:len(inner) - len(inner.lstrip())]
+            trail = inner[len(inner.rstrip()):]
+            return f"{lead}{self.smallcaps(inner.strip())}{trail}"
+        if n == "lb" and getattr(self, "settings", {}).get("VERSE_LINEBREAKS"):
+            return self.linebreak()
         if n in ("pb", "lb", "milestone", "fw"):
             return ""
         if n == "table" and self.layer == "reg":
@@ -296,7 +320,10 @@ def div_blocks(r, div, level=2):
         if not isinstance(c.tag, str):
             continue
         n = local(c)
-        if n in ("head", "pb"):
+        if n in ("head", "pb", "speaker"):
+            continue
+        if n == "sp":
+            lines += sp_lines(r, c, level)
             continue
         if n == "p" and layout.p_blocks(c):
             lines += split_p_lines(r, c)
@@ -446,6 +473,21 @@ def div_lines(r, div, level):
     return lines + div_blocks(r, div, level)
 
 
+def sp_lines(r, sp, level):
+    """A speech: the speaker ("Christian:") opens its first paragraph; any
+    further paragraphs or verse follow as blocks of their own."""
+    lines = div_blocks(r, sp, level)
+    spk = sp.find(T + "speaker")
+    name = collapse(r.inline(spk)).strip() if spk is not None else ""
+    if name:
+        k = next((i for i, x in enumerate(lines) if x), None)
+        if k is None or lines[k].startswith("#"):
+            lines[k or 0:k or 0] = [block_start_escape(name), ""]
+        else:
+            lines[k] = name + " " + lines[k]
+    return lines
+
+
 def part_lines(r, el, level):
     """Layout mode: one part of a file, a division or a loose block."""
     if local(el) == "div":
@@ -479,17 +521,26 @@ def add_block(r, lines, c, t):
 
 def quote_lines(r, q):
     """A quotation block of the source (a CCEL blockquote or verse), in both
-    layers as #quote[...]: its paragraphs, or its verse lines one to a line."""
+    layers as #quote[...]: its paragraphs, or its verse lines one to a line.
+    With VERSE_LINEBREAKS the lines end in Typst line breaks (" \\"), else
+    they run together; in a section made of verse (layout.verse_division) a
+    stanza is a plain paragraph, not a quotation."""
+    br = " \\\n" if getattr(r, "settings", {}).get("VERSE_LINEBREAKS") else "\n"
     parts = []
     for c in q:
         if not isinstance(c.tag, str):
             continue
         if local(c) == "lg":
-            parts += [r.para(l) for l in c if isinstance(l.tag, str) and local(l) == "l"]
+            lines = [r.para(l) for l in c if isinstance(l.tag, str) and local(l) == "l"]
+            parts.append(br.join(x for x in lines if x))
         else:
             parts.append(r.para(c))
     text = "\n".join(x for x in parts if x)
-    return [f"#quote[{text}]", ""] if text else []
+    if not text:
+        return []
+    if layout.verse_division(q):
+        return [text, ""]
+    return [f"#quote[{text}]", ""]
 
 
 def trailer_lines(r, c):
@@ -519,7 +570,8 @@ def book_settings(tei_path):
     ed = Path(tei_path).parent / "editorial.py"
     ns = runpy.run_path(str(ed)) if ed.exists() else {}
     return {k: ns[k] for k in ("TYPST_PREAMBLE", "TYPST_HEADING", "TYPST_ENUM",
-                               "TYPST_NUMBERED_PARAGRAPHS") if k in ns}
+                               "TYPST_NUMBERED_PARAGRAPHS", "VERSE_LINEBREAKS", "SMALLCAPS")
+            if k in ns}
 
 
 def heading_lines(r, div):

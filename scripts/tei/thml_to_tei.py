@@ -9,12 +9,22 @@ converts it with this module in memory, so there is no intermediate file.
 
   ThML                         TEI
   div1                         div[@type="chapter"][@n], numbered in order
+  div2, div3 ... inside it     div[@type="section"][@n], numbered per parent
   div1 "Title Page"            front/titlePage (docTitle, byline/docAuthor,
                                epigraph)
+  div1 "Contents", "Indexes"   div[@type="contents"], div[@type="index"]
+                               (CCEL's own apparatus; SKIP_DIVISIONS)
   h1-h4 (first in a div)       head
-  p                            p (@class Centered -> @rend="center")
+  h1-h4 after the text began   signed (at the end of the div) or
+                               p[@rend="center"]
+  p                            p (@class Centered or text-align:center
+                               -> @rend="center")
+  p opening with a small-caps  sp/speaker + p (CCEL's dialogue labels,
+  "Name:" (span.sc)            "Christian:"; as a TCP text encodes them)
   blockquote                   quote (its p's kept)
   verse / l                    quote / lg / l
+  note                         note[@place="foot"]
+  span.sc (small capitals)     seg[@rend="smallcaps"]
   br                           lb
   i / em, b / strong           hi[@rend="italic"] / hi[@rend="bold"]
   scripRef                     ref[@type="scripture"][@cRef] (OSIS reference)
@@ -28,6 +38,7 @@ paragraph-faithful, not line-faithful; the header says so.
   python3 thml_to_tei.py grace.thml.xml [out.xml]   # write the TEI, to look at
 """
 
+import copy
 import re
 import sys
 from pathlib import Path
@@ -81,9 +92,13 @@ def inline(src, dst):
             el = tei("ref", dst, type="scripture",
                      cRef=osis.split(":", 1)[1] if ":" in osis else None)
             inline(c, el)
+        elif n == "note":
+            el = tei("note", dst, place="foot", n=c.get("n"), xml_id=xid(c))
+            inline(c, el)
         elif n in ("span", "a", "font", "sup", "sub", "name", "added", "foreign"):
             el = tei("hi" if n in ("sup", "sub") else "seg", dst,
-                     rend=n if n in ("sup", "sub") else None)
+                     rend=n if n in ("sup", "sub") else
+                     "smallcaps" if c.get("class") == "sc" else None)
             inline(c, el)
         else:
             raise ValueError(f"ThML <{n}> inside a paragraph is not handled yet "
@@ -91,20 +106,39 @@ def inline(src, dst):
         el.tail = c.tail
 
 
+def centred(src):
+    return (src.get("class") or "").lower() == "centered" or \
+        re.search(r"text-align:\s*center", src.get("style") or "") is not None
+
+
+def speaker(src):
+    """The span.sc "Name:" opening a dialogue paragraph, or None."""
+    first = next((c for c in src if isinstance(c.tag, str)), None)
+    if first is None or first.tag != "span" or first.get("class") != "sc" or \
+            (src.text or "").strip() or len(first):
+        return None
+    return first if (first.text or "").strip().endswith(":") else None
+
+
 def block(src, dst):
     """One ThML block element as TEI, appended to dst."""
     n = src.tag
-    if n == "p":
-        p = tei("p", dst, xml_id=xid(src),
-                rend="center" if (src.get("class") or "").lower() == "centered" else None)
+    if n == "p" and speaker(src) is not None:
+        span = speaker(src)
+        sp = tei("sp", dst, xml_id=xid(src))
+        tei("speaker", sp, span.text, xml_id=xid(span))
+        sp[-1].tail = " "
+        p = tei("p", sp, rend="center" if centred(src) else None)
+        rest = copy.copy(src)
+        rest.remove(rest[0])
+        rest.text = (span.tail or "").lstrip()
+        inline(rest, p)
+    elif n == "p":
+        p = tei("p", dst, xml_id=xid(src), rend="center" if centred(src) else None)
         inline(src, p)
     elif n == "blockquote":
         q = tei("quote", dst, xml_id=xid(src))
-        q.text = src.text
-        for c in src:
-            if isinstance(c.tag, str):
-                block(c, q)
-                q[-1].tail = c.tail
+        blocks(src, q)
     elif n == "verse":
         q = tei("quote", dst, xml_id=xid(src))
         lg = tei("lg", q)
@@ -120,8 +154,50 @@ def block(src, dst):
     elif re.fullmatch(r"h[1-6]", n):
         h = tei("head", dst, xml_id=xid(src))
         inline(src, h)
+    elif re.fullmatch(r"div\d?", n):
+        division(src, dst, "section", str(1 + sum(
+            1 for c in dst if isinstance(c.tag, str) and c.tag == T + "div")))
     else:
         raise ValueError(f"ThML block <{n}> is not handled yet (id {src.get('id')})")
+
+
+APPARATUS = {"contents": "contents", "indexes": "index", "index": "index"}
+
+
+def division(d, parent, typ, n):
+    """A ThML div (any level) as a TEI div, appended to parent."""
+    typ = APPARATUS.get((d.get("title") or "").strip().lower(), typ)
+    div = tei("div", parent, type=typ, n=n, xml_id=xid(d))
+    blocks(d, div)
+    # a heading after the text began is not the division's title: at the
+    # end it is a signature (the Apology's "JOHN BUNYAN."), else centred
+    kids = [c for c in div if isinstance(c.tag, str)]
+    for k, c in enumerate(kids):
+        if c.tag == T + "head" and any(x.tag != T + "head" for x in kids[:k]):
+            if all(x.tag == T + "head" for x in kids[k:]):
+                c.tag = T + "signed"
+            else:
+                c.tag = T + "p"
+                c.set("rend", "center")
+    return div
+
+
+def blocks(src, dst):
+    """src's block children as TEI in dst, the space between them kept."""
+    dst.text = src.text
+    for c in src:
+        if not isinstance(c.tag, str):
+            continue
+        if (c.tag == "a" and not len(c) and not (c.text or "").strip()) or \
+                c.tag == "insertIndex":
+            # an empty link target, CCEL's index marker: only the space stays
+            if len(dst):
+                dst[-1].tail = (dst[-1].tail or "") + (c.tail or "")
+            else:
+                dst.text = (dst.text or "") + (c.tail or "")
+            continue
+        block(c, dst)
+        dst[-1].tail = c.tail
 
 
 def title_page(d, front):
@@ -214,13 +290,9 @@ def convert(path):
                 text.insert(0, front)
             title_page(d, front)
             continue
-        n += 1
-        div = tei("div", body, type="chapter", n=str(n), xml_id=xid(d))
-        div.text = d.text
-        for c in d:
-            if isinstance(c.tag, str):
-                block(c, div)
-                div[-1].tail = c.tail
+        apparatus = (d.get("title") or "").strip().lower() in APPARATUS
+        n += 0 if apparatus else 1
+        division(d, body, "chapter", None if apparatus else str(n))
     return etree.ElementTree(root)
 
 

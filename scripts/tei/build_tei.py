@@ -401,7 +401,7 @@ def emit_word(b, t):
 # ---------------------------------------------------------------------------
 
 SPLIT_RE = reviewparse.TOKEN_RE
-BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶"}
+BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶", "sp": "¶"}
 # Layout mode (a book with LAYOUT in editorial.py): division heads are text
 # of the file, marked "H" (a heading line) or "¶" (a run-in heading, for the
 # div types in RUN_IN_DIVS). None: heads are skipped, the classic behaviour.
@@ -827,13 +827,19 @@ def stream(toks, skip_heads=True):
                 # a quotation block of the source (CCEL blockquote, verse) is
                 # the review's #quote[...]; its paragraphs open no block
                 if n == "quote":
-                    out.append((">", "m", t, path))
+                    # (a stanza of a section made of verse is a plain block)
+                    out.append(("¶" if layout.verse_division(t.el) else ">", "m", t, path))
                     walk(t.children, path + (t,))
                     continue
                 in_quote = n == "p" and t.el.getparent() is not None and \
                     local(t.el.getparent()) == "quote"
+                # a speech opens a block with its speaker ("Christian: ..."),
+                # which its first paragraph continues
+                speech = n == "p" and t.el.getparent() is not None and \
+                    local(t.el.getparent()) == "sp" and \
+                    t.el.getprevious() is not None and local(t.el.getprevious()) == "speaker"
                 if (n in BLOCK_MARK or block_q) and not list_only and not in_epigraph \
-                        and not in_quote:
+                        and not in_quote and not speech:
                     out.append((BLOCK_MARK.get(n, "¶"), "m", t, path))
                 walk(t.children, path + (t,))
             elif t.kind in ("word", "punct"):
@@ -1857,6 +1863,8 @@ def new_container(tag, like=None):
 
 
 def relink(ct):
+    if isinstance(ct, View):
+        return          # a layout file's parts keep their own divisions as parents
     for k, c in enumerate(ct.children):
         c.parent, c.idx = ct, k
 
@@ -1883,9 +1891,13 @@ def split_container(ct, tok):
 
 
 def block_of(tok):
+    """The block a token stands in: a child of its division, or a paragraph
+    of a speech (sp)."""
     a = tok.parent
     while a is not None and not (a.el.getparent() is not None and
-                                 local(a.el.getparent()) == "div"):
+                                 (local(a.el.getparent()) == "div" or
+                                  (local(a.el.getparent()) == "sp" and
+                                   local(a.el) != "speaker"))):
         a = a.parent
     return a
 
@@ -1931,6 +1943,36 @@ def merge_lists(log):
             relink(par)
 
 
+def leading(ct, tok):
+    """The tokens of ct before tok, at every level down to it."""
+    out = []
+    for c in ct.children:
+        if contains(c, tok):
+            if c is not tok and c.kind == "container":
+                out += leading(c, tok)
+            return out
+        out.append(c)
+    return out
+
+
+def lines_as_p(lg):
+    """Verse lines the review sets as prose: one paragraph of their words
+    (the line's id kept when there is one line)."""
+    p = new_container("p")
+    p.el.set("change", "#review")
+    lines = [c for c in lg.children if c.kind == "container" and local(c.el) == "l"]
+    kids = []
+    for ln in lines:
+        if kids:
+            kids.append(Tok("space", [" "]))
+        kids += ln.children
+    if len(lines) == 1 and lines[0].el.get("{%s}id" % XML_NS):
+        p.el.set("{%s}id" % XML_NS, lines[0].el.get("{%s}id" % XML_NS))
+    p.children = kids
+    relink(p)
+    return p
+
+
 def split_quote(q, pts, log):
     """A source quotation the review breaks up (CCEL puts prose and verse in
     one blockquote): split it at each point; a part after a new paragraph
@@ -1939,6 +1981,10 @@ def split_quote(q, pts, log):
     div = q.parent
     parts, cur = [(q, None)], q
     for tok, kind, _labels, _o, _f in pts:
+        if kind == "unquote" and parts[-1][1] is None and \
+                not any(has_content([c]) for c in leading(cur, tok)):
+            parts[-1] = (cur, "unquote")        # from its first word on
+            continue
         _left, right = split_container(cur, tok)
         parts.append((right, kind))
         cur = right
@@ -1952,7 +1998,9 @@ def split_quote(q, pts, log):
             out.append(ct)
         else:
             for c in ct.children:
-                if c.kind == "container":
+                if c.kind == "container" and local(c.el) == "lg":
+                    out.append(lines_as_p(c))
+                elif c.kind == "container":
                     c.el.set("change", "#review")
                     out.append(c)
     i = div.children.index(q)
@@ -2118,6 +2166,10 @@ def collect_splits(struct, stream_index, log):
             splits.append((tok, ">", [], order, s["label"]))
         elif s["tgt_marks"] == [">"] and s["src_marks"] == ["¶"]:
             splits.append((tok, "quote", [], order, s["label"]))
+        elif s["tgt_marks"] == ["¶"] and s["src_marks"] == [">"]:
+            # the review takes a quotation's opening lines out of it (CCEL set
+            # a line of prose as the first line of the verse)
+            splits.append((tok, "unquote", [], order, s["label"]))
         elif s["src_marks"] == ["¶"] and not s["tgt_marks"] and \
                 in_container(tok, ("trailer",)):
             continue          # a trailer the review left out

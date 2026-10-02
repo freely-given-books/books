@@ -101,6 +101,17 @@ class HtmlR(R):
     def emph(self, inner):
         return f"<em>{inner}</em>"
 
+    def linebreak(self):
+        return "<br/>"
+
+    def smallcaps(self, inner):
+        how = getattr(self, "settings", {}).get("SMALLCAPS")
+        if how == "strong":
+            return f"<strong>{inner}</strong>"
+        if how == "smallcaps":
+            return f'<span class="smallcaps">{inner}</span>'
+        return inner
+
     def footnote(self, body):
         self.note_no += 1
         n = self.note_no
@@ -228,6 +239,7 @@ class HtmlR(R):
 
     levels = None             # layout mode: {div type: heading level}
     enum = "I."               # TYPST_ENUM: numbering of lists the review made
+    verse_linebreaks = False   # VERSE_LINEBREAKS: verse lines broken as printed
     quote_block = False       # QUOTE_BLOCK: the print template sets #quote as a
                               # block (no marks); else as an inline quotation
     run_in = set()
@@ -282,7 +294,20 @@ class HtmlR(R):
             if not isinstance(c.tag, str):
                 continue
             n = local(c)
-            if n in ("head", "pb"):
+            if n in ("head", "pb", "speaker"):
+                continue
+            if n == "sp":
+                # the speaker ("Christian:") opens the speech's first paragraph
+                inner = self.blocks(c, level)
+                spk = c.find(T + "speaker")
+                name = self.text(spk) if spk is not None else ""
+                k = next((i for i, x in enumerate(inner) if x.startswith("<p")), None)
+                if name and k is not None and inner[k].startswith(("<p>", '<p class="')):
+                    j = inner[k].index(">") + 1
+                    inner[k] = inner[k][:j] + name + " " + inner[k][j:]
+                elif name:
+                    inner.insert(0, f"<p>{name}</p>")
+                out += inner
                 continue
             if n == "epigraph" and self.layer == "reg":
                 ref = self.text_of(c.findall(T + "bibl"))
@@ -310,16 +335,22 @@ class HtmlR(R):
             elif n == "quote":
                 # a quotation block of the source: one paragraph, as Typst sets
                 # #quote[...] with its lines run together
+                # (VERSE_LINEBREAKS: verse lines broken as printed; in a
+                # section made of verse a stanza is a plain paragraph)
                 parts = []
+                br = "<br/>" if self.verse_linebreaks else " "
                 for x in c:
                     if not isinstance(x.tag, str):
                         continue
                     if local(x) == "lg":
-                        parts += [self.text(l) for l in x if isinstance(l.tag, str)]
+                        lines = [self.text(l) for l in x if isinstance(l.tag, str)]
+                        parts.append(br.join(l_ for l_ in lines if l_))
                     else:
                         parts.append(self.text(x))
                 t = " ".join(p_ for p_ in parts if p_)
-                if t:
+                if t and layout.verse_division(c):
+                    out.append(f'<p class="verse">{t}</p>')
+                elif t:
                     out.append(f"<blockquote><p>{t}</p></blockquote>")
             elif n == "closer":
                 signed = c.find(T + "signed")
@@ -426,6 +457,9 @@ def divisions(root, r, cfg=None):
     files = layout.book_layout(root, cfg or {})
     r.enum = (cfg or {}).get("TYPST_ENUM", "I.")
     r.quote_block = (cfg or {}).get("QUOTE_BLOCK", False)
+    r.verse_linebreaks = (cfg or {}).get("VERSE_LINEBREAKS", False)
+    if (cfg or {}).get("SMALLCAPS"):
+        r.settings = dict(getattr(r, "settings", {}), SMALLCAPS=cfg["SMALLCAPS"])
     if files is not None:
         r.levels, r.run_in = layout.div_levels(cfg)
         for f in files:
