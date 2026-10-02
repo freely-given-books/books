@@ -2,7 +2,7 @@
 
 #quote[
 And in this mountain shall the Lord of hosts make unto all people a
-feast,.
+feast.
 And he will destroy in this mountain the face of the covering cast over all
 people, and the veil that is spread over all nations.—Isaiah 25:6, 7.
 ]
@@ -57,7 +57,7 @@ shall be taken from the earth, for the Lord hath spoken it.'
 These depend one upon another, being the several services of the feast.
 He promiseth a feast in the sixth verse. And what be the several services? He
 will destroy in this mountain, this church, the face of covering cast over all
-people,. He will take away the veil of ignorance and unbelief, that they
+people. He will take away the veil of ignorance and unbelief, that they
 may have special sight of heavenly things, without which they cannot relish
 heavenly things; they can take no joy at this feast.
 
@@ -73,7 +73,7 @@ that tears shall be wiped away, and the cause of tears; all sorrow for our own
 sins, for our own misery, and for sympathizing with the times wherein we
 live. Our time shall be hereafter at the day of resurrection, when all tears shall
 be wiped from our eyes. God will perform that office of a mother to wipe
-the children's eyes, or of a nurse to take away all cause of grief whatsoever,
+the children’s eyes, or of a nurse to take away all cause of grief whatsoever,
 else it cannot be a perfect feast.
 
 Aye, but there are reproaches cast upon religion and religious persons! It
@@ -114,7 +114,7 @@ shall be taken away.
 + Thirdly, that this is only in his church. And where this veil of
   ignorance is taken off, there is feasting with God and spiritual joy, and
   delight in the best order; and where it is taken off there is none of it.
-  First of all, by nature, there is a veil of covering over all men's spirits. To
+  First of all, by nature, there is a veil of covering over all men’s spirits. To
   understand this better, let us unfold the terms of veil a little. There is a veil
   either upon the things themselves that are to be seen, or upon the soul which
   should behold them.
@@ -151,7 +151,7 @@ When something is concealed, as in the sacrament, they be mysteries.
 We see the bread, we see the wine, but under the bread and wine other things
 are intended, the breaking of the body of Christ, and the shedding of his
 blood, and in that the love and mercy of God in Christ, in giving him to
-death for us, and Christ's love to give himself to satisfy divine justice. These
+death for us, and Christ’s love to give himself to satisfy divine justice. These
 be the things intended, which only the soul sees and apprehendeth. And so
 all things in the church, indeed, are mysteries, the incarnation of Christ, the
 union of both natures, that Christ should save the world by such a way as he
@@ -176,7 +176,7 @@ mysteries. There is a veil upon them in all these points, that a carnal man
 cannot see them.
 
 You see, then, in what sense there is a veil of the things, and in what
-sense there is a veil on men's hearts; that is, either the things themselves are
+sense there is a veil on men’s hearts; that is, either the things themselves are
 hid, or if the things be open, they want sight and light of knowledge, and
 they want faith to believe. Beloved, we live in times that the object is clear to
 us, the things themselves are made clear; as who knoweth not what Christ is,
@@ -203,10 +203,10 @@ and they know how to discourse as schoolmen do, from one thing to
 another, and to argue. They know the logic and rhetoric of the Scripture, but
 they stick in the stile. There is something they are ignorant of; that is, they
 have not an eye of knowledge, as we call it. They do not see the things
-themselves, but only they see things by another body's spirit, and they have
+themselves, but only they see things by another body’s spirit, and they have
 no light of their own. And so no man knoweth naturally but the children of
 God what original sin is, what corruption of nature is, nor knows sin in its
-own odious colour's, to be filthy, and to be dangerous as it is. To draw the
+own odious colours, to be filthy, and to be dangerous as it is. To draw the
 curse and vengeance of God upon it, this is not known, but by the Spirit
 revealing the odiousness of sin, that the soul may apprehend it, as Christ did
 when he suffered for it, and as God doth. A gracious man seeth it as God
@@ -258,12 +258,12 @@ scholar. But he that hath his eyes can judge of colours a great deal better.
 Oftentimes, by book, a scholar can tell you foreign countries better than he
 that hath travelled, yet the traveller that hath been there can tell them the
 more distinctly. So he that is experienced in that kind, though a stranger, can
-measure another man's ground better than himself. He can tell you here is so
+measure another man’s ground better than himself. He can tell you here is so
 many acres. But he that possesseth them knows the goodness of them, the
 worth of them, and improveth them to his own good. And so it is with
 many. They can measure the points of religion, and define and divide them.
 Aye, but the poor Christian can taste, can feel them, can relish and improve
-them. His knowledge is a knowledge with interest, but other men's
+them. His knowledge is a knowledge with interest, but other men’s
 knowledge is a knowledge with no interest or experience at all. So that there
 is naturally a veil of ignorance on the heart of every natural man.
 
@@ -282,7 +282,7 @@ And so there is a veil of unbelief. There is no man without grace that
 believeth truly what he knoweth; but he believeth in the general only, he
 believeth things so far forth as they cross not his lusts. But when particular
 truths are enforced on a carnal man, his lusts do overbear all his knowledge,
-and he hath a secret scorn arising in his heart, whereby he de-rideth those
+and he hath a secret scorn arising in his heart, whereby he derideth those
 truths and goeth against them, and makes him think certainly these be not
 true, and therefore he believeth them not. If a man by nature believed the
 truths he saith he knoweth, he would not go directly against them. But the
@@ -312,7 +312,7 @@ own hearts; and the love of sinful things raise such a cloud, that we know
 not, or else believe not, what is spoken. To proceed.
 
 Obs. 2. God only can reveal and take away the veil of ignorance and
-unbelief from off the sold. I will speak specially of this veil.
+unbelief from off the soul. I will speak specially of this veil.
 
 Reason 1. The reason is, there is such a natural unsuitableness between
 the soul and heavenly light and heavenly truths, that unless God opens the
@@ -351,7 +351,7 @@ of it in a glass. We have more fixedness of the other, because there is more
 reality. We see things put into water, and that is less; but then there is a sight
 of man in pictures which is less than the rest, because we see not the motion.
 It is even so; a carnal man scarce sees the dead resemblance of things. In
-Moses's time they saw things in water, as it were blindly, though true; but we
+Moses’s time they saw things in water, as it were blindly, though true; but we
 see things in a glass of truth as clearly as possibly we can in this world. In
 heaven we shall see face to face, shall see him as he is. And then will be the
 joy of this excellent feast, and the consummation of all sweet promises,
@@ -386,7 +386,7 @@ most skilful men in the world, cannot bring light into the soul, they cannot
 bring light into the heart. They can speak of divine things, but they
 understand them little. But to bring light into the heart, that the heart may
 taste of them and yield obedience to believe, that they cannot do. And
-therefore, all God's children, they be theodidactoi, taught of God. God only
+therefore, all God’s children, they be theodidactoi, taught of God. God only
 hath the privilege to teach the heart, to bend and bow the heart to believe.
 So that God only by his Spirit takes away the veil of ignorance and
 unbelief.
@@ -395,7 +395,7 @@ Obs. 3. Now, the third thing is, that this is peculiar to the church and to
 the children of God, to have the veil taken off. 'In this mountain,' saith the
 Scripture, 'the veil of all faces shall be swallowed up or taken away.'
 
-I partly showed in the former point, that it is peculiar to God's children
+I partly showed in the former point, that it is peculiar to God’s children
 to have the veil taken off. There is a veil in all things. Either the things be hid
 from them, as amongst the Gentiles, or if the things be revealed, there is a
 veil upon the heart; their lusts raise up a cloud, which, until God subdue by
@@ -410,8 +410,8 @@ true light, Christ himself.
 
 It is peculiar to the church to know the greatest good, and the greatest
 evil. It is nowhere but in the church, who are the people of God. None but
-God's elect can know the greatest evil, that is, sin, which the Spirit of God
-revealeth; and the greatest good, that is, God's mercy in Christ, and
+God’s elect can know the greatest evil, that is, sin, which the Spirit of God
+revealeth; and the greatest good, that is, God’s mercy in Christ, and
 sanctifying grace. The same Spirit doth both. As light doth discover foul
 things as well as fair; so the same Spirit of God discovers the loathsomeness
 of sin, and the sweetness of grace. Where the one is, there is never the other;
@@ -420,7 +420,7 @@ grace; there is none but in the church. Those that have the spirit of
 illumination, they have sanctification likewise.
 
 We shall make use of all together. You see, then, what naturally we are,
-and that God's grace must take away the veil; and this is from all them within
+and that God’s grace must take away the veil; and this is from all them within
 the church, and in the church those whom God is pleased to sanctify.
 
 Obs. In the fourth place. Where this veil is taken off from any, there is
@@ -436,10 +436,10 @@ both together. Beloved, there is a marvellous sweetness in divine truths. In
 Christ is all marrow, and in religion forgiveness of sins, and inward peace,
 and joy, and grace, fitting us to be like to Christ, and for heaven. They be
 incredibly sweet, they be all marrow. Aye, but they are only so to them that
-know them. Now God's Spirit, that revealeth these things to us, doth breed a
-taste in the soul. The Spirit of illumination to God's children, is a Spirit of
+know them. Now God’s Spirit, that revealeth these things to us, doth breed a
+taste in the soul. The Spirit of illumination to God’s children, is a Spirit of
 sanctification likewise; and that sanctification alters the taste and relish of the
-wall and affections, that with discovery of these things, there is a taste and
+will and affections, that with discovery of these things, there is a taste and
 relish of them. It is sapida scientia, a savoury knowledge they have. And
 therefore where he maketh a feast, he taketh away the veil; and where he
 takes away the veil, he makes a feast. What a wonderful satisfaction hath the
@@ -481,7 +481,7 @@ truth. We know ear-truths will harden, as none is harder than a common
 formal Christian. A man had better fall into the hands of papists, than into
 the hands of a formal hypocritical Christian. Why? They pride themselves in
 their profession. No persecutors worse than the Scribes and Pharisees, that
-stood in then own light. They were more cruel than Pilate. And therefore if
+stood in their own light. They were more cruel than Pilate. And therefore if
 we be informed, but not truly transformed, to love the truth we know, and
 hate the evil we know, it maketh us worse.
 
@@ -498,7 +498,7 @@ away the veil of ignorance and unbelief, that light and life may go together,
 and so we shall be fit to feast with the Lord.
 
 Means. Now that we may have true saving knowledge, first, we must
-attend meekly upon God's ordinances, which be sanctified to this end to let
+attend meekly upon God’s ordinances, which be sanctified to this end to let
 in light to the soul.
 
 + Will we know sin and our state by nature, and how to come out of it;
@@ -518,18 +518,18 @@ in light to the soul.
   emptied, in that measure it is fit to be filled with more supervenient liquor; so
   in what measure we grow in self-denial and humility, in that measure we are
   filled likewise with knowledge. He will teach an humble soul that stands not
-  in its own light, what it is to repent, to believe, to love.; what it is to be
+  in its own light, what it is to repent, to believe, to love; what it is to be
   patient under the cross; what it is to live holily, and die comfortably. The
   Spirit of God will teach an humble, self-denying soul all these things; and
   therefore labour for an humble, empty soul, and not to cast ourselves too
   much into the sins and fashions of the times, as the apostle, 'Be not
   conformed to this world, but be ye transformed by the renewing of your
-  mind.'- Romans 12:2.
+  mind,' Romans 12:2.
 
   #[
     #set enum(numbering: "a)")
       
-  + When a man casteth himself into the mould of the times, and "ill live
+  + When a man casteth himself into the mould of the times, and will live
     as the rest do, he shall never understand the secrets of God, and the good
     pleasure of God; for the world must be condemned. The world goeth the
     broad way. And therefore we must not consider what others do, but what
@@ -584,7 +584,7 @@ in light to the soul.
   teach the heart, as well as the brain. He must teach not only the truths
   themselves, as they be discovered, but the love of them, the faith in them, the
   practice of them; and he only can do this, he only can teach the heart, he only
-  can discover the bent of the heart, and Satan's wiles that cast a cloud upon
+  can discover the bent of the heart, and Satan’s wiles that cast a cloud upon
   the understanding. The Spirit only can do it; and therefore in all our
   endeavours, labour to get knowledge, and join holiness and divine grace, and
   pray to God that he would reveal the mystery of salvation to us.
@@ -594,7 +594,7 @@ revelation or no? whether the veil be yet upon our hearts or no? I will not be
 long in the point.
 
 Ans. 1. We may know it by this. The apostle Peter saith to express the
-virtue of God's power, 'He hath called us out of darkness to his marvellous
+virtue of God’s power, 'He hath called us out of darkness to his marvellous
 light,' 1 Peter 2:9. The soul that hath the veil taken from it, there is a
 marvelling at the goodness of God, a wondering at the things of faith. And
 the soul sets such a price upon divine things, that all is 'dung and dross' in
@@ -618,16 +618,16 @@ had in Jesus Christ, there is no knowledge at all. Certainly a gracious soul,
 when once it sees, it desires still to feel the power and virtue of Christ in it, as
 Paul counted all dung in comparison of this knowledge, to know myself in
 Christ, and feel the power of his death in dying to sin, and virtue of his
-resurrection in raising me to newness of life. It was Saint Paul's study to walk
-still to the high price of God's calling, and where that is not, no grace is
+resurrection in raising me to newness of life. It was Saint Paul’s study to walk
+still to the high price of God’s calling, and where that is not, no grace is
 begun.
 
 Ans. 3. And again, where divine light is, and the veil taken away, it is the
 sanctified means; for God works by his own instruments and means, and
 they be able to justify all courses of wisdom. 'Wisdom is justified of her
-children,' Mat 11:19. By experience they he able to say the word is the word.
+children,' Mat 11:19. By experience they be able to say the word is the word.
 I have found it casting me down, and raising me up, and searching the
-hidden corners of my heart. I have found God's ordinances powerful, the
+hidden corners of my heart. I have found God’s ordinances powerful, the
 word and sacrament. I have found my hope, faith, strength, and spiritual
 comfort, and therefore I can justify them; for I have found, tasted, and
 relished of these things, which worketh that upon the soul which Christ did
@@ -660,11 +660,11 @@ understanding; and wheresoever Christ is life, he is light, because true
 knowledge is a transforming knowledge. But if religion be not known to
 purpose, it hardens and makes worse.
 
-We are now by God's good providence come to farther business, to
+We are now by God’s good providence come to farther business, to
 partake of these mysteries; yet it should be the desire of our souls that our
 eyes may be opened, that in these divine and precious mysteries he would
 discover hidden love, which is not seen with the eyes of the body. They may
 see and taste and relish his love and goodness in Jesus Christ; that as the
 outward man is refreshed with the elements, so the inward man may be
 refreshed with his Spirit, that they may be effectual to us; that we may justify
-the course God takes, so for as to come charitably and joyfully to them.
+the course God takes, so far as to come charitably and joyfully to them.

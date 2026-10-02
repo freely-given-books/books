@@ -19,7 +19,7 @@ taking away the veil, which hinders them from the sight of it. And then death
 is swallowed up in victory, as it is already in our Head, who is gloriously
 triumphing in heaven; and then all tears shall be wiped from all faces. There
 is a vicissitude of things. They are now in a valley of tears, but it will not be
-always thus. Time shall come when all tears shall he wiped away, and the
+always thus. Time shall come when all tears shall be wiped away, and the
 cause of all tears are sorrow. The rebukes of his people shall be taken away,
 the scandal that lieth upon the best things shall be taken away. The worst
 things go under a better representation, and the best things under a veil; but
@@ -35,7 +35,7 @@ eternal happiness; but in this world, in our way, he vouchsafes precious
 promises to support our faith, that we may begin heaven upon earth. What
 these promises are we showed the last day.
 
-The second observation was, in that God's people are here in a state of
+The second observation was, in that God’s people are here in a state of
 expectation, it shall be said, 'Lo, we have waited for him.' We are in a
 condition of waiting while we live in this world, because we are not at home.
 Our state requires waiting; heaven requires settledness and rest. There all
@@ -102,7 +102,7 @@ David and others; and therefore God giveth grace to hold out and lengthen
 our spiritual faith, and hope, and perseverance, and constant courage to
 encounter with all difficulties in the way. When the spirit of a man beholds
 heaven, and happiness, and God, it makes him constant, in some sort as the
-things he beholdeth, for the Spirit transformeth him to the object. Now, be
+things he beholdeth, for the Spirit transformeth him to the object. Now, he
 beholds a constant covenant; and as faith looks upon a constant God,
 constant happiness, and constant promises, it frameth the soul suitable to the
 excellency of the object it layeth hold upon.
@@ -118,13 +118,13 @@ church saith here, 'This is the Lord; we have waited for him.' Now, he hath
 made good whatsoever he hath said.
 
 To enlarge this point a little. As there is a time of waiting, so there will
-be a time when God's people shall say, 'Lo, this is the Lord, we have waited
+be a time when God’s people shall say, 'Lo, this is the Lord, we have waited
 for him.' Why?
 
 Reason 1. God is Jehovah. A full and pregnant word! A word of
-comfort and stay for the soul is this word Jehovah! He is a God that giveth a
+comfort and stay for the soul in this word Jehovah! He is a God that giveth a
 being to all things, and a being to his word, and therefore what he saith he
-will make good. He is Lord of his word. Every man's word is, as his nature,
+will make good. He is Lord of his word. Every man’s word is, as his nature,
 and power, and ability is, the word of a man, or the word of an honest man,
 but being the word of a God, he will make all good.
 
@@ -149,26 +149,26 @@ giveth the first-fruits, he will give the harvest.
 
 But it will be a long time before, because he will exercise all grace to the
 uttermost. You see how Abraham was brought to the last. In the mountain
-God provideth for a sacrifice, when the knife was ready to seize on Isaac's
+God provideth for a sacrifice, when the knife was ready to seize on Isaac’s
 throat, Genesis 22:12, 18.
 
-We should answer with our faith God's dealing; that is, if God defer, let
+We should answer with our faith God’s dealing; that is, if God defer, let
 us wait, yea, wait to the uttermost, wait to death. He is our God to death, and
 in death, and for ever. If God perform his promise at the worst, then, till we
 are at the lowest, we must wait.
 
 And, therefore, one character of a child of God from others is this. Give
-me the present, saith the carnal, beastly man, the world; but God's people are
+me the present, saith the carnal, beastly man, the world; but God’s people are
 content to wait. He knoweth what he hath in promise is better than what he
-hath in possession. The gleanings of God's people are better than the others'
-harvest. The other cannot wait, but must have present payment. God's child
+hath in possession. The gleanings of God’s people are better than the others'
+harvest. The other cannot wait, but must have present payment. God’s child
 can wait, for he liveth by faith. And therefore we should learn patiently to
-wait for the performance of all God's promises.
+wait for the performance of all God’s promises.
 
 And to direct a little in that, remember some rules, which every man
 may gather to himself, as,
 
-+ God's time is the best time. Deus est optinus arbiter opportunitatis, the
++ God’s time is the best time. Deus est optimus arbiter opportunitatis, the
   best discerner of opportunities. And 'in the mountain will God be seen.'
   Though he tarry long, he will come, and not tarry over long; and then all the
   strength of the enemy is with God. Robur hostium apud Deum. The strength of
@@ -177,9 +177,9 @@ may gather to himself, as,
 + Then, though God seems to carry things by contrary ways to that he
   promiseth, which makes waiting so difficult, yet he will bring things about at
   last. He promiseth happiness, and there is nothing but misery. He promiseth
-  forgiveness, and opens the conscience to cry out of sin. Aye, but Luther's
+  forgiveness, and opens the conscience to cry out of sin. Aye, but Luther’s
   rule is exceeding good in this case. Summa ars, the greatest art of a Christian
-  is, credere credibilia,., and sperare dilata, to hope for things a long time, and to
+  is, credere credibilia, and sperare dilata, to hope for things a long time, and to
   believe God when he seemeth contrary to himself in his promise.
 
 But though God doth defer, yet in that day he doth perform. It is set
@@ -189,11 +189,11 @@ but 'in that day,' wherein he meaneth to be glorious in the performance of
 his promise. There is a time, and a set time, and there is a short time, too, in
 regard of God, and a fit time. If the time were shorter than God hath
 appointed, then it were too short; if longer, too long. 'My times,' saith David,
-'are in thy hands,' Psalm 31:15. If they were in the enemy's hands, we should
+'are in thy hands,' Psalm 31:15. If they were in the enemy’s hands, we should
 never be out; if in our own, we would never enter; if in our friends', their
 goodwill would be more than their ability. 'But my times;'—he saith not, 'my
-time,' but— my times are in thy hands that is, my times of trouble and times
-of waiting. And it is well that they be in God's hands, for he hath a day, and a
+time,' but—my times are in thy hands that is, my times of trouble and times
+of waiting. And it is well that they be in God’s hands, for he hath a day, and a
 certain day, and a fit day to answer the waiting of all his people.
 
 And when that day is come, you see how their hearts are enlarged, they
@@ -214,7 +214,7 @@ mercy of God.
 For the nature of the thing, it cannot be otherwise. Every member of the
 body shall be fit to glorify God. What the psalmist saith of his tongue,
 'Awake, my glory,' he may say of every member, Do thy office in glorifying
-the Lord, and rejoicing in the Lord. Pectus facit clisertos. The heart makes a man
+the Lord, and rejoicing in the Lord. Pectus facit disertos. The heart makes a man
 eloquent and full. So the performance of any promise fills the heart so full of
 affections, the affections are so enlarged; and therefore we must not have
 affections to a court-kind of expressions, as they in old time, and the like
@@ -246,7 +246,7 @@ We shall say so in heaven, 'Lo, this is the Lord; we have waited for him.'
 
 For every performance of promises, be much in thankfulness. 'Our
 conversation is in heaven,' saith the apostle, Philip 3:10. And what is the
-greatest part of a Christian's conversation, but in all things to give thanks.
+greatest part of a Christian’s conversation, but in all things to give thanks.
 Here the holy church saith, their matter of praise was too big for their soul,
 and therefore they break out in this manner. And so oftentimes a child of
 God. His heart is so full, that it is too big for his body in the expression of
@@ -274,19 +274,19 @@ And howsoever these promises be fulfilled in heaven, yet they have a
 gradual performance on earth. For he speaks certainly of the state of the Jews
 yet to come, wherein there shall be accomplishment of all these promises.
 
-'We have waited for him; he will save us.' Experience of God's
+'We have waited for him; he will save us.' Experience of God’s
 performance stirs them up still to wait for him, and rejoice in his salvation.
 Experience stirs up hope. The beginning of a Christian, and midst, is to hope
 for the end; and surely our beginning should help the latter end! All a
-Christian's life should help the end. All former things should come in and
+Christian’s life should help the end. All former things should come in and
 help his latter.
 
 Beloved, we are too backward that way to treasure up the benefit of
-experience. There be few of years but might make stories of God's gracious
+experience. There be few of years but might make stories of God’s gracious
 dealings with them, if all were kept; the comforts past, and for time to come,
-and all little enough. It was David's course, 'Thou art my God from my
-mother's womb, and upon thee have I hanged ever since I was born; fail me
-not when I am old,' Psalm 22:10. Go along with God's favours, and use them
+and all little enough. It was David’s course, 'Thou art my God from my
+mother’s womb, and upon thee have I hanged ever since I was born; fail me
+not when I am old,' Psalm 22:10. Go along with God’s favours, and use them
 as arguments of future blessings. As former victories are helps to get the
 second victory, every former favour helpeth to strengthen our faith.
 
@@ -300,14 +300,14 @@ things from the great God.
 we will rejoice in his salvation.' That which a child of God gives thanks for
 and rejoices in, and labours for, is more and more experience of his salvation.
 'We will rejoice in his salvation.' There is not a stronger word in all the
-Scripture, not in nature. He doth not say rejoicing in this or that benefit, but
+Scripture, nor in nature. He doth not say rejoicing in this or that benefit, but
 in his salvation, that is, in deliverance from all evil. We will rejoice in his
 preservation, when he hath delivered us, we will rejoice in his advancement
 of us, and we will rejoice in his salvation. And therefore, when the wisdom of
 heaven would include all in one word, he useth the word Jesus, all happiness
 in that word, that pregnant, full word, a Saviour.
 
-So that God's carriage towards his children is salvation. He is the God
+So that God’s carriage towards his children is salvation. He is the God
 of salvation, or a saving God. And God sent his name from heaven, and the
 angels brought it, the name of Jesus. Therefore look to the full sense of it.
 We have a Saviour that will answer his name; as he is Jesus, so he will save
@@ -324,10 +324,10 @@ God is salvation itself. Heaven were not heaven, if Jesus and God in our
 nature were not there. And therefore the apostle saith, 'I desire to depart,'
 not to be dissolved, 'and to be with Christ, for that is better.' The sight of
 God, specially in our nature, God the second person taking our nature, that
-we might he happy, will make us happy for ever. In loving God, and joying in
+we might be happy, will make us happy for ever. In loving God, and joying in
 God, and enjoying God, makes full happiness; but that is not the cause of joy
-in heaven, but the cause of all is God's influence into us. Here in the world
-happiness is mediate, in God's revealing of himself to us by his Holy Spirit,
+in heaven, but the cause of all is God’s influence into us. Here in the world
+happiness is mediate, in God’s revealing of himself to us by his Holy Spirit,
 in the use of means, in his dealings and deliverances, letting us see him by his
 grace, to see him, and joy and delight in him for ever. It is no good love that
 resteth in any blessings of God for themselves. It is an harlotry affection to
@@ -373,7 +373,7 @@ God, saith the psalmist, when there is occasion. 'This is the Lord, this is our
 God; we have waited for him,' specially in times of afflictions; and what is
 the reason? This will hold out to eternity. 'This is our God.' As in the
 Revelations, it is a plea, and a glory for ever; for God is our happiness. As the
-schoolmen say, he is our objective happiness, and owe formal happiness; he
+schoolmen say, he is our objective happiness, and our formal happiness; he
 is our happiness, as he is ours, and he is ours in life and death, and for ever.
 So there is always ground of glory, only God doth discover himself to be
 ours by little and little, as we are able to bear him. He is ours in our worst
@@ -397,11 +397,11 @@ therefore,
 + We must make this good while we live here, that God is our God, and
   that we may do so, observe this. Christ is called Emmanuel, God with us.
   God, in the second person, is God-man, and so God with us, and the Father
-  in Emmanuel is God with us too. So we are God the Father's, because we
+  in Emmanuel is God with us too. So we are God the Father’s, because we
   are his. 'All things are yours,' saith the apostle, 'whether Paul or Apollos,
-  things present, things to come. 'Why?' Because you are Christ's,' 1 Corinthians 3:22.
-  Aye, but what if I be Christ's, Christ is God's? So we must be Christ's,
-  and then we shall be God's. If Christ be ours, God is ours, for God is
+  things present, things to come. 'Why?' Because you are Christ’s,' 1 Corinthians 3:22.
+  Aye, but what if I be Christ’s, Christ is God’s? So we must be Christ’s,
+  and then we shall be God’s. If Christ be ours, God is ours, for God is
   Emmanuel, in Christ, Emmanuel, God is with us in Christ, who is with us.
   God is reconciled to us in God and man, in our nature. And therefore get by
   faith into Christ, and get union, and get communion; by prayer open our
@@ -481,7 +481,7 @@ rejoice in God our salvation.
   heaven, that is our rest, our element, and we shall never rest till we be there.
   And therefore he is befooled for it, in the gospel, that setteth up his rest here.
   Whosoever saith I have enough, and will now take contentment in them, he
-  is a fool. 'There is a rest for God's people,' Hebrews 4:9, but it is not here.
+  is a fool. 'There is a rest for God’s people,' Hebrews 4:9, but it is not here.
 
 + Neither rest in any measure of grace, or comfort. What is faith to
   sight? We have hope, an anchor, and helmet, that keepeth up many a soul, as

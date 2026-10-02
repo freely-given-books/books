@@ -47,8 +47,8 @@ of Christ, and a testimony of everlasting glory 'In this mountain will the Lord
 of hosts make a feast.'
 
 In these words ye have set down a glorious and a royal feast; and the
-place where this feast is to be kept is 'Mount Zion the feast-maker is 'the
-Lord of Hosts;' the parties invited, are 'all people the issues of it, and the
+place where this feast is to be kept is 'Mount Zion;' the feast-maker is 'the
+Lord of Hosts;' the parties invited, are 'all people;' the issues of it, and the
 provision for the feast, are 'fat things,' and 'wine' of the best; a feast of the
 best of the best, a feast of the fat and of the marrow, a feast of 'wine on the
 lees well refined.'
@@ -96,7 +96,7 @@ her a church, it is an antichristian church. Secondly, That the Catholic
 Protestantial church had always a being, though sometimes invisible. The
 apostle, writing to the Romans, exhorts them 'not to be high-minded, but
 fear; for, saith he, 'if God hath broken off the natural branches, perhaps he
-will break off you also,' Romans 11:21, 21. And, indeed, for their pride and
+will break off you also,' Romans 11:20, 21. And, indeed, for their pride and
 haughtiness of mind, they are at this day broken off. Christ, that 'walks
 between the seven golden candlesticks,' Revelation 1:12, did never say that the
 church of Smyrna or Ephesus should always remain a visible church to the
@@ -105,7 +105,7 @@ bondage and slavery to the Turk. The mount hath been always visible,
 though not always alike gloriously visible. For there will be a time when the
 church shall fly into the wilderness, Revelation 12:6. Where, then, shall be the
 glorious visibility of the church? There is a time when all shall follow the
-beast. The papists themselves confess that in antichrist's time the church
+beast. The papists themselves confess that in antichrist’s time the church
 shall scarce be visible. The essence of a thing and the quality of a thing may
 differ. The church is a church, and visible, but not always equally, and alike
 gloriously visible; yet those that had spiritual eyes, and did look upon things
@@ -123,13 +123,13 @@ Scriptures pure, they, corrupt. So that our church was in the midst of theirs,
 as a sound and more uncorrupt part in a corrupt body.
 
 This mountain is the church. 'The Lamb standeth upon mount Zion,
-and with him a hundred forty and four thousand, having his Father's name
+and with him a hundred forty and four thousand, having his Father’s name
 written in their foreheads,' Revelation 14:1. Christ standeth in the church, and
 standing in mount Zion he is accompanied with those that his Father hath
 given to him before the world was. Therefore those that belong to this holy
-mountain, they are Christ's. 'And in this mountain shall the Lord of hosts
+mountain, they are Christ’s. 'And in this mountain shall the Lord of hosts
 make a feast for all people.' And this feast is a royal feast, a marriage feast,
-wherein the joy and comfort of God's people are set down by that which is
+wherein the joy and comfort of God’s people are set down by that which is
 most comfortable among men. The founder of the feast is 'the Lord of
 hosts.' It is only he that is able to prepare a table in the wilderness, that is
 mighty and of ability to feast his church with a spiritual and holy banquet.
@@ -167,7 +167,7 @@ nations, of all languages! This hath relation to the time of the gospel. The
 church at first had its being in particular families, but afterwards more
 enlarged. The church at the first was of the daughters of men, and the sons
 of God. The children of the church mingled with a generation of corrupt
-persons, that would keep in no bounds; but after Abraham's time there was
+persons, that would keep in no bounds; but after Abraham’s time there was
 another generation of the church, that so it was a little more enlarged. Then
 there was a third generation, a divided generation, consisting of Jews and
 Gentiles. So that, when Christ came into the world, the bounds of the church
@@ -184,7 +184,7 @@ earthly, and so are finite. But in spiritual things all may have the whole, and
 every man in particular. Every man enjoyeth the light of the sun in particular,
 and all enjoy it too. So the whole church, and only the church, enjoys the
 benefit and comfort of this feast; but under the name of this church come all
-the elect, both Jews and Gentles, and therefore it must be the Lord of Hosts
+the elect, both Jews and Gentiles, and therefore it must be the Lord of Hosts
 that can make such a feast as this is, a feast for all people. No other is able to
 do it.
 
@@ -257,7 +257,7 @@ us the robes of righteousness, heals the distempers of our souls. There is
 variety in him for all our wants whatsoever. He is food, physic, and apparel
 to clothe us; and when we are clothed with him, we may with boldness stand
 before the majesty of God. He is all in all. He is variety, and all. There is
-something in Christ answerable to all the necessities of God's people, and
+something in Christ answerable to all the necessities of God’s people, and
 not only so, but to their full content in everything.
 
 Third. Again, as there is variety in a feast, so there is sufficiency, full
@@ -265,14 +265,14 @@ sufficiency. 'We beheld the only begotten Son of God, full of grace and
 truth,' John 1:14. And being full of grace, he is wise, and able to furnish this
 heavenly banquet with enough of all sorts of provisions fit for the soul to
 feed upon. There is abundance of grace, and excellency, and sufficiency in
-Christ. And it must needs be, because he is a Saviour of God's own sending.
+Christ. And it must needs be, because he is a Saviour of God’s own sending.
 'Labour not therefore for the meat that perisheth, but for the meat that the
-Son of God shall give yon; for him hath God the Father sealed,' John 6:27;
+Son of God shall give you; for him hath God the Father sealed,' John 6:27;
 that is, sent forth for this purpose, to 'feed the church of God,' 1 Peter 5:2.
 As there is an all-sufficiency in God, so in Christ, who by the sacrificing of
 himself was able to give satisfaction to divine justice. Therefore saith he, 'My
 flesh is meat indeed, and my blood is drink indeed,' John 6:55; that is,
-spiritually to the soul he is food indeed, and can satisfy God's justice. If we
+spiritually to the soul he is food indeed, and can satisfy God’s justice. If we
 consider him as God alone, he is a 'consuming fire,' Hebrews 12:29; or as a man
 alone, he can do nothing; but considered as God-man, he is meat indeed, and
 drink indeed. And now the soul is content with that which divine justice is
@@ -287,7 +287,7 @@ all he did was full.
 Fourth. A feast is for company. It is convivium. There is converse at it.
 So Cicero prefers the name of convivium among the Latins before the Greek
 name συμπόσιον. And this feast is not for one. We are all invited to it. The
-excellency of Christ's feast consisteth in the communion of saints; for
+excellency of Christ’s feast consisteth in the communion of saints; for
 whosoever takes part of it, their spirits must agree one with another. Love is
 the best and chiefest dish in this feast. The more we partake of the sweetness
 of Christ, the more we love one another. Christ by his Spirit so works in the
@@ -304,7 +304,7 @@ Father, and the Holy Spirit, sent by Christ, procured by the death of Christ.
 The angels at this feast attend us; therefore, it must needs be joyful. No joy
 comparable to the joy of a feast. This is not every feast. This is a marriage
 feast, at which we are contracted to Christ. Now, of all feasts, marriage feasts
-are most sumptuous. This is a marriage feast for the King's Son, for Christ
+are most sumptuous. This is a marriage feast for the King’s Son, for Christ
 himself; and therefore of necessity it must be full of all choice varieties, and
 of the sweetest of things, of the most excellentest of things, and of the
 quintessence of things. Here is all joy that belongeth to a feast. Here it is to
@@ -349,13 +349,13 @@ Sixth. This was signified in old time by the Jews.
   take him with a trembling hand, yet he shall have enough, for Christ is his.
   Whosoever hath the least grace, if it be true and sound, hath grace enough to
   bring him to eternal life. The Jews wondered at the manna, saying, What
-  thing is this?. So it is one of Christ's names to be called 'Wonderful,' Isaiah 9:6.
+  thing is this?. So it is one of Christ’s names to be called 'Wonderful,' Isaiah 9:6.
   Grace and favour from Christ is true spiritual manna to the soul. Manna
   fell in the wilderness: even so must we remain in the wilderness of this
   wretched world until we come to heaven. Christ is manna to us, and very
   sweet in the conveyance of his word and sacraments. When the Israelites
   came into the land of Canaan the manna ceased, not before. So when we
-  come to heaven, the elect's purchased possession, we shall have another kind
+  come to heaven, the elect’s purchased possession, we shall have another kind
   of manna for our souls. We shall not there feed on Christ, as in the
   sacrament; no, but we shall see him 'face to face, and know as we are known,'
   1 Corinthians 13:12. In the wilderness of this world it is fit God should convey this
@@ -371,7 +371,7 @@ Sixth. This was signified in old time by the Jews.
   came out of Egypt, so none shall taste of Christ but those that are not of the
   world, that are come out of Egypt, out of sin and darkness. Manna fell only
   about the tents of Israel, and in no other part of the world, but only there,
-  that none might have the privilege to eat of it but God's peculiar, chosen
+  that none might have the privilege to eat of it but God’s peculiar, chosen
   ones. Christ falls upon the tents of the righteous, and none shall taste of this
   blessed, spiritual food but such as are the Israel of God, such as are of the
   church, such as feel the burden of sin and groan under it. Oh! the very taste
@@ -388,18 +388,18 @@ Sixth. This was signified in old time by the Jews.
   are preserved alive. He is both manna and the rock of water. Manna had all
   in it, so had the rock; and all necessities are plentifully supplied by Christ.
   The church of God hath always had bread to satisfy spiritual hunger. It never
-  wanted necessary comforts. It is said, Revelation 12:6, 'When the church lied into
+  wanted necessary comforts. It is said, Revelation 12:6, 'When the church fled into
   the wilderness, God fed her there,' alluding to the children of Israel fed by
   manna. The Jews did not want in the wilderness, nor the church of God
   never wanted comfort, though in the midst of the persecution and
-  oppression of all her enemies. When Elias was in the wilderness, he was fed,'
-  1 Kings 17:4, G. The church of God shall not only be fed in her body, but
+  oppression of all her enemies. When Elias was in the wilderness, he was fed,
+  1 Kings 17:4, 6. The church of God shall not only be fed in her body, but
   in her soul, for Christ hath hidden manna for his elect. This doth typify the
   exceeding joy of the church, the hidden manna, 'that neither eye hath seen,
   nor ear heard of, neither can it enter into the heart of man to conceive of
   those joys,' 1 Corinthians 2:9, that the church of God shall have when the marriage
   shall be consummated. Joy in the Holy Ghost, and peace of conscience, they
-  are hid from the world, and sometimes from God's people themselves,
+  are hid from the world, and sometimes from God’s people themselves,
   though they shall enjoy them hereafter.
 
 + All the former feasts in times past were but types of this. The feast of

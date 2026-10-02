@@ -5,13 +5,12 @@ He shall swallow up death in victory; and the Lord God will wipe away
 tears from off all faces; and the rebukes of his people shall he take away from
 off all the earth: for the Lord hath spoken it. And it shall be said in that
 day, Lo, this is our God; we have waited for him, and he will save us: this is
-the Lord; we have united for him, we will be glad and rejoice in his salvation.
-—Isaiah 25:8, 9.
+the Lord; we have waited for him, we will be glad and rejoice in his salvation.—Isaiah 25:8, 9.
 ]
 
 To come closer to the particulars. 'It shall be said in that day, Lo, this is
 our God.' The mouth of the Lord hath spoken gracious things before, hath
-promised a feast, and an excellent feast. God's manner is first of all to give
+promised a feast, and an excellent feast. God’s manner is first of all to give
 promises to his church. Why? His goodness cometh from his goodness, his
 goodness of grace cometh from his goodness of nature. 'He is good and doth
 good.' Now the same goodness of disposition which we call bounty, that
@@ -26,8 +25,8 @@ come out of that hidden light, that no man can come into, and discover
 himself in his Son? The word in his promises to reveal his mind to mankind,
 and make known what he will have us to do, and what he will do to us. But
 only his goodness is the cause of all. And therefore the end of promises in
-God's intention is to comfort us in the way to heaven, that we may have
-something to support us. They are promissa, quasi pramissa. They are
+God’s intention is to comfort us in the way to heaven, that we may have
+something to support us. They are promissa, quasi praemissa. They are
 promises and premises, and sent before the thing itself.
 
 Now here it cometh that the glory to come is termed the joy of heaven
@@ -39,7 +38,7 @@ because all is conveyed by a promise, therefore all happiness is conveyed by a
 promise.
 
 Now the promises are of good things. They are for the spring of them,
-free, from God's free goodness; for the measure of them, full, for the truth
+free, from God’s free goodness; for the measure of them, full, for the truth
 of them, constant, even as God himself that promiseth. And therefore we
 may well build upon them.
 
@@ -65,7 +64,7 @@ waiting.
 The second thing, therefore, between the promises, wherein God is a
 debtor, and the performance, is, that there is a long time, a long day.
 Oftentimes God takes a long day for performing of his promise, as four
-hundred years Abraham's posterity went to be in Egypt. And it was four
+hundred years Abraham’s posterity went to be in Egypt. And it was four
 thousand years from the beginning of the world till the coming of Christ,
 which was the promise of promises, the promise of the seed, a great long
 day. And therefore Christ is said to come in 'the latter end of the world.'
@@ -87,7 +86,7 @@ As soon as he is a Christian, he is an heir to heaven. Perhaps he may live here
 twenty or forty years more before God takes him up to glory. Why doth he
 defer it so long?
 
-Reason 4. The reason is, God will fit us for heaven by title and little, and
+Reason 4. The reason is, God will fit us for heaven by little and little, and
 will perfume us as Esther was perfumed before she must come to Ahasuerus,
 Esther 2:12. There were many weeks and months of perfuming. So God will
 sweeten and fit us for heaven and happiness. It is a holy place; God a holy
@@ -104,13 +103,13 @@ Our Saviour Christ was thirty-four years before he was taken up to
 heaven, because he was to work our salvation. And he was willing to suspend
 his glory for such a time, that he might do it; to suspend his glory due to him
 from the first moment of his conception. For by virtue of the union, glory
-was due to him at the first; but because be bad taken upon him to be a
-Mediator, out of love be would suspend his glory due to him, that be might
+was due to him at the first; but because he had taken upon him to be a
+Mediator, out of love he would suspend his glory due to him, that he might
 suffer. And so God, by way of conformity, will suspend the glory due to us,
 that we may be conformed to Christ. Though we have right to heaven as
 soon as we are born, yet God will suspend the full performance of it; because
-be will by correction and by length of time subdue by little and little that
-which maketh us unconformable to our bead.
+he will by correction and by length of time subdue by little and little that
+which maketh us unconformable to our head.
 
 And can we complain for any deferring of heaven when we are but
 conformed to our glorious head, who was content to be without heaven so
@@ -118,10 +117,10 @@ long?
 
 But to go on. As there be gracious and rich promises, and they have
 long time of performance to us, and 'hope deferred makes the soul languish,'
-Proverbs 13:12; so God vouch safeth a spirit to fit that expectation of his, a
+Proverbs 13:12; so God vouchsafeth a spirit to fit that expectation of his, a
 spirit of hope and waiting. And this waiting hath something perfect in it, and
 something imperfect. It is a mixed condition. There is good, because there is
-a promise; for a promise is the declaration of God's will concerning good.
+a promise; for a promise is the declaration of God’s will concerning good.
 But because it is a promise of a thing not performed, there is an
 imperfection. So there is a mixture in the promise, and a mixture in the grace.
 Hope and expectation and waiting is an imperfect grace. That there be
@@ -145,7 +144,7 @@ remaineth. We shall have full communion of saints there; we have it here, in
 the taste of it. We know what it is to be acquainted with them that be
 gracious spirits. We have praising of God for ever there. We know the
 sweetness of it here in the house of God, which made David desire this one
-thing, 'that he might dwell in the house of God, to visit the beauty of God,'.,
+thing, 'that he might dwell in the house of God, to visit the beauty of God,'
 Psalm 27:4. There we shall have perfect peace; here we have inward
 peace, unspeakable and glorious, 'a peace that passeth understanding,' Philip 4:7,
 in the beginning of it. There we shall have joy without all mixture of
@@ -204,7 +203,7 @@ to be beholden to Satan. This is no waiting, but murmuring and rebellion,
 when in crosses and discomforts we cannot be content, but must be
 beholden to the devil, so there must be watchfulness; and not only so, but
 fruitfulness in waiting. For he waits that waiteth in doing good, that waiteth
-in observance. He waiteth for his master's coming, that is doing his duty all
+in observance. He waiteth for his master’s coming, that is doing his duty all
 the time in a fruitful course of observance and obedience; else it is no
 waiting. Waiting is not merely a distance of time, but a filling up of that time
 with all gracious carriage, with obedience, and with silence, with long-suffering
@@ -217,7 +216,7 @@ of all the wickedness of the world, and barrenness, and voluptuousness, but
 because they have not learned to wait? They hear of good things, and
 precious things promised; but they would have present payment, they will
 have something in hand. As Dives, 'Son, son, thou hast had thy good things
-here,' Luke 16:25, they will have their goods things here. And what is the
+here,' Luke 16:25, they will have their good things here. And what is the
 reason of wickedness, but because they will have present pleasures of sins?
 We must prefer the afflictions of Christ before the pleasures of sin, Hebrews 11:25.
 Now that shortness of spirit to have reward here is the cause of all sin.
@@ -238,7 +237,7 @@ And therefore it is an hard thing to be a good Christian, another thing
 than the world taketh it to be. For mark, I beseech you, what is between us
 and heaven, that we must go through, if ever we will come there. Between us
 and heaven, the thing promised, there be many crosses to be met withal, and
-they must be home, and home as a Christian should do. 'Through many
+they must be borne, and borne as a Christian should do. 'Through many
 afflictions we must enter into the kingdom of heaven,' Acts 14:22. Besides
 crosses, there be scandalous offences, that be enough to drive us from
 profession of religion, without grace. Sometimes good men by their failings,
@@ -273,8 +272,8 @@ of a Christian. Moses, he saith, such as waited for the consolation of Israel,
 Genesis 49:18, before Christ came in the flesh, such a one is one that 'waiteth
 for the consolation of Israel,' Luke 2:25. To have a gracious disposition, and
 a grace of waiting was the character of good people. Now since the coming
-of Christ, the character of the New Testament is, to wait for Christ's
-appearance. 'There is a crown of glory for me, and not only form, but for all
+of Christ, the character of the New Testament is, to wait for Christ’s
+appearance. 'There is a crown of glory for me, and not only for me, but for all
 them that love his appearance,' 2 Tim, iv. 8. That is an ingredient in waiting,
 when we love the thing we wait for. And so Titus 2:12, 'The grace of God
 that teacheth to deny ungodliness and worldly lusts, and to live holily, and
@@ -285,7 +284,7 @@ So that looking with the eye of the soul partly on the first coming of
 Christ, which was to redeem our souls, and partly upon the second, which is
 to redeem our bodies from corruption, and to make both soul and body
 happy, it makes a man a good Christian. For the grace of God on the first,
-teacheth us to deny ungodliness; and looking for Christ's appearing, maketh
+teacheth us to deny ungodliness; and looking for Christ’s appearing, maketh
 us zealous of good works. You have scarce any epistle, but you have time
 described for looking for the coming of Christ, as Jude, 'Preserve yourselves
 in the love of God, and wait for the coming of Christ.' So that as there be
@@ -325,11 +324,11 @@ But why doth not the Holy Ghost set down a certain time, but leaveth it
 indefinite, 'In that day.' God keeps times and seasons in his own power; the
 point of time in general he leaveth it. There is a day; but the point and
 moment of time he keepeth in his own power. It is enough to know there is
-a day, and a day that will come in the best season. God's time is the best
+a day, and a day that will come in the best season. God’s time is the best
 time. When judgments were threatened upon the wicked, they say, 'Let us
 eat, and drink, for to morrow we shall die,' 1 Corinthians 15:82.
 So Saul, 'Tomorrow thou shalt die,' 1 Samuel 28:19, and was he the better? So where
-there is a certain time of God's coming in judgment, godly men would not be
+there is a certain time of God’s coming in judgment, godly men would not be
 the worse, and wicked men never the better. Therefore God reserveth it
 indefinite, 'In that day.'
 
@@ -338,7 +337,7 @@ will have night, a day that we should think of every day, 'That day,' by way of
 excellency. And before that day there be particular days in this world,
 wherein God showeth himself, and fulfils the expectation of his children, to
 cherish the grand expectation of life everlasting. As in times of trouble they
-expect of God, and wait for deliverance in God's time, and they must be able
+expect of God, and wait for deliverance in God’s time, and they must be able
 to say, 'Lo, we have waited.' Because it is a beginning and pledge of the great
 performance that shall be consummate at that great day, and of all the
 miseries that shall then be removed; so there is a day when the Jews shall be
@@ -416,7 +415,7 @@ no sight of God, but it changeth, and alters to the likeness of God, when he
 calls to look up to him, and he looks on us in favour and mercy. The best
 fruit of his favour is grace, of peace, and joy, for these be beams that issue
 from him, grace, as beams from the sun. But where-ever God looks with any
-favour, their is a conformity to Christ, a gracious, humble, pitiful, merciful,
+favour, there is a conformity to Christ, a gracious, humble, pitiful, merciful,
 obedient disposition, which is an earnest of the Spirit of Christ.
 And there is a study of purity, of a refined disposition from the
 pollutions of the world. 'The pure in heart shall see God,' Mat 5:8. They
@@ -431,7 +430,7 @@ fit and enable him for heaven, so hope of heaven yields life to all grace.
 There is a mutual influence into these things. God vouchsafeth discovery of
 these glorious things, to help us to wait, to be patient, and fruitful, and
 abundant in the work of the Lord. And the more we wait fruitfully, and
-patiently, and silently, the more we see of heaven. So that as in 'nature, the
+patiently, and silently, the more we see of heaven. So that as in nature, the
 seed bringeth the tree, and the tree the seed; so in the things of God, one
 thing breeds another, and that breeds that again. So that waiting and grace fit
 us for heaven, and the thought of heaven puts life and vigour into all the
@@ -452,8 +451,7 @@ And therefore let me entreat and beseech you, with the apostle Paul, to
 that shall come hereafter. It is wisdom to look to the end. A man that
 buildeth an house will think of the end, that is, dwelling and habitation, that
 he propoundeth. We are for everlasting communion with God; we are to be
-perfect, as in grace, so in glory. Heaven is our element; we rest not till then,
-—we are in motion till then,—that being our station. Then think often of
+perfect, as in grace, so in glory. Heaven is our element; we rest not till then—we are in motion till then—that being our station. Then think often of
 this, never to rest in any intermediate condition, because we are in waiting till
 we come to that condition. Let us so carry ourselves, that we may say, this we
 waited for; it is the glory we expected. It is our wisdom often to have the end
@@ -466,7 +464,7 @@ Oh, have that day in our eyes, that day of all days, and the very thoughts
 of it will fit us for the day. The thoughts of our end will fit and stir us up to
 all means tending to that end. Physic is good, if it tend to health. The very
 thoughts of that prescribes order and means. We read, 'Seek the kingdom of
-heaven first, and all other things shall he added to you,' Mat 6:33. The
+heaven first, and all other things shall be added to you,' Mat 6:33. The
 thought of the end prescribes order to all means, and it prescribes measure,
 'How to use the world, as though I used it not,' 1 Corinthians 7:31, for the
 thoughts of my end stir me up to use all our courses suitable to that end.
