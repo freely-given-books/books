@@ -1,8 +1,9 @@
-#import "@local/fgbooks:0.5.2": *
+#import "@local/fgbooks:0.5.3": *
 
 #show outline: set text(9.5pt)
 
 #show: book.with(
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
   title: [Christian Economy],
   subtitle: [Or, a short survey of the right manner of erecting and ordering a family, according to the Scriptures],
   author: "William Perkins",

@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.5.1": *
+#import "@local/fgbooks:0.5.3": *
 
 
 
@@ -37,7 +37,7 @@
       by John Bunyan
     ]
   ],
-  page-margin: (bottom: 0.75in, top: 0.75in, outside: 0.75in, inside: 1.125in),
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.125in),
 )
 
 #set text(font: "Liberation Serif", size: 11pt)

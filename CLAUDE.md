@@ -127,6 +127,14 @@ versions into `~/.cache/fgb-typst/packages` and sets `TYPST_PACKAGE_PATH`
 (`scripts/tei/packages.py`; `./fgb packages` lists them). Run Typst through
 `./fgb`, or set that variable, so builds use the pinned versions.
 
+Print PDFs are checked against Lulu's interior rules as they are built
+(`scripts/tei/print_check.py`, measured on the rendered pages): nothing
+within 0.5in of the trim (running heads and page numbers included), and
+the inside margin Lulu's for the page count (0.625in for 61-150 pages, 1in
+for 151-400, 1.125in for 401-600). Template 0.5.3 puts the running head at
+0.5in (top margin 0.9in, bottom 0.6in); a book sets its inside margin in
+`page-margin`, and a cover's `pages:` must follow a page-count change.
+
 Built PDFs and EPUBs of TEI books are not kept in git (the root
 `.gitignore` lists each book's folder); `./fgb build` remakes them.
 

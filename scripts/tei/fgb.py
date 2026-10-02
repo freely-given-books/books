@@ -323,10 +323,23 @@ def build_pdf(bk, outdir, covers=False):
         # --root: covers import the shared design from scripts/
         run("typst", "compile", "--root", REPO, src, out, cwd=bk.dir)
         outs.append(out)
+        if f in files:
+            lulu_check(out)
     for f in cover_files:
         if "panel-cover(" in (bk.dir / f).read_text(encoding="utf-8"):
             outs.append(render_front(bk, bk.dir / f, outdir))
     return outs
+
+
+def lulu_check(pdf):
+    """Lulu's interior rules on a built print PDF (print_check.py): nothing
+    within 0.5in of the trim, the inside margin Lulu's for the page count.
+    A broken rule is reported, not fatal: the PDF is still worth looking at."""
+    import print_check
+    problems, summary = print_check.check(pdf)
+    print(f"lulu: {summary}")
+    for p in problems:
+        print(f"lulu: WARNING {p}")
 
 
 def dist_dir(bk, root=None):
