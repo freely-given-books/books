@@ -114,6 +114,9 @@ list against the earlier edition is `source/migration-differences.md`.
 
 ## Steps for Generation
 
+The PDFs and the EPUB are not kept in git: they are built from the
+repository, reproducibly, with the commands below.
+
 From anywhere in the repository (`./fgb --help`):
 
 ``` sh

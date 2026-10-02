@@ -11,3 +11,10 @@ __pycache__/
 *.xhtml
 !ebook-front.html
 !ebook-appendix.html
+
+# Built PDFs and EPUBs, for books whose builds are reproducible from the
+# repository (./fgb pdf / epub). Add a book's folder here when it moves.
+books/william-perkins/christian-economy/*.pdf
+books/william-perkins/christian-economy/*.epub
+books/william-gouge/domestical-duties/*.pdf
+books/william-gouge/domestical-duties/*.epub

@@ -43,6 +43,9 @@ The long forms below do the same.
 
 ## Steps for Generation
 
+The PDFs and the EPUB are not kept in git: they are built from the
+repository, reproducibly, with the commands below.
+
 ### ebook
 
 The EPUB 3 is built straight from the TEI by `scripts/tei/tei_epub.py`: one
