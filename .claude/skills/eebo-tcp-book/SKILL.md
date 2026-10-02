@@ -269,7 +269,7 @@ curl -sSLO https://raw.githubusercontent.com/TEIC/TEI-Simple/master/tei_all.rng
 ```sh
 cd $B
 $PY ../../../scripts/tei/tei_epub.py source/<book>.tei.xml <book>.epub \
-    --title "…" --author "…" --front ebook-front.html --cover cover_front.jpg \
+    --title "…" --author "…" --front ebook-front.html --cover cover-front.png \
     --css ../../resources/css/ebook.css --css ebook-override.css
 epubcheck <book>.epub
 ```
@@ -285,10 +285,13 @@ epubcheck must report 0 errors and 0 warnings. Calibre's checker
 (`calibre-debug ../../../scripts/tei/check_epub.py <book>.epub`) is a second
 opinion; ignore the Qt/GPU noise it prints. When replacing an older ebook, run
 `compare.py epub old.epub new.epub` too. Notes become EPUB 3 pop-up footnotes; Greek and
-Hebrew get `lang`. `cover_front.jpg` is cut from the compiled `cover.pdf`
-(command in the book README). `books/.gitignore` ignores `*html`, so a new
-`ebook-front.html` must be added once with `git add -f`; after that git
-tracks its changes like any other file.
+Hebrew get `lang`. Day to day, `./fgb epub` / `./fgb build` do all of this
+from the `EPUB` setting in `source/editorial.py`, into `dist/`. A cover made
+with `scripts/panel_cover.typ` is named by its `.typ` (`"cover": "cover.typ"`)
+and its front panel is rendered at build time (`--input front-only=true
+--format png`), so no cover image is kept in git; a cover designed elsewhere
+is a small front image committed with the book. Built PDFs and EPUBs are
+not kept in git: add the book's folder to the root `.gitignore`.
 
 ## Committing
 

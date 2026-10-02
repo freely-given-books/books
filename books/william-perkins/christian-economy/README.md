@@ -43,6 +43,11 @@ The long forms below do the same.
 
 ## Steps for Generation
 
+The PDFs and the EPUB are not kept in git: they are built from the
+repository, reproducibly. `./fgb build perkins` makes all of them in
+`dist/william-perkins/christian-economy/` (print PDF, cover wrap, the
+cover's front panel as an image, checked EPUB); the long forms follow.
+
 ### ebook
 
 The EPUB 3 is built straight from the TEI by `scripts/tei/tei_epub.py`: one
@@ -52,7 +57,7 @@ readers without pop-ups), Greek and Hebrew language-tagged.
 ``` sh
 $ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
         --title "Christian Economy" --author "William Perkins" \
-        --front ebook-front.html --cover cover_front.jpg \
+        --front ebook-front.html --cover cover-front.png \
         --css ../../resources/css/ebook.css --css ebook-override.css
 $ epubcheck christian-economy.epub   # 0 errors, 0 warnings
 ```
@@ -82,10 +87,10 @@ Because the import reaches above this directory, the compile needs a `--root`.
 
 ``` sh
 $ typst compile --root ../../../ cover.typ cover.pdf
-$ magick -density 300 "cover.pdf[0]" -background white -alpha remove \
-        -crop 1650x2550+1785+37 +repage -resize 825x1275 -quality 92 cover_front.jpg
+$ typst compile --root ../../../ --input front-only=true --format png --ppi 150 \
+        cover.typ cover-front.png
 ```
 
-The second command cuts the front panel out of the wrap for the ebook cover;
-its offsets are `bleed + trim + spine` across and `bleed` down, at 300 dpi, so
-they move if the page count does.
+The second command renders the front panel alone, at the trim size: the
+ebook cover (the `EPUB` setting's `cover` names `cover.typ`, so `./fgb`
+does this itself) and a picture for the web.
