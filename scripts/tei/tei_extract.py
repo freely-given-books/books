@@ -259,8 +259,9 @@ class R:
             if txt:
                 if numbered and self.layer == "reg":
                     lines.append("  " * depth + "+ " + txt)
-                elif numbered:
-                    lines.append(txt)
+                elif numbered and lst.get("subtype") != "printed":
+                    # run-in in print: the numerals stay in the text
+                    lines.append(block_start_escape(txt))
                     lines.append("")
                 else:
                     lines.append("  " * depth + "- " + block_start_escape(txt))

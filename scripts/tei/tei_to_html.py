@@ -141,7 +141,7 @@ class HtmlR(R):
                 else:
                     body.append(copy.deepcopy(c))
             txt = curl(NOTEREF_GAP.sub(r"\1", collapse(self.inline(body, numbered)).strip()))
-            if numbered and self.layer == "orig":
+            if numbered and self.layer == "orig" and lst.get("subtype") != "printed":
                 # printed numerals stay in the text, as run-in paragraphs
                 if txt:
                     out.append(f"<p>{txt}</p>")
@@ -156,6 +156,8 @@ class HtmlR(R):
             elif txt or inner:
                 items.append(f"<li>{txt}{inner}</li>")
         if items:
+            if numbered and self.layer == "orig":
+                numbered = False                 # printed list: numerals are text
             tag = "ol" if numbered else "ul"
             cls = ' class="roman"' if numbered and self.enum == "I." else ""
             out.append(f"<{tag}{cls}>" + "".join(items) + f"</{tag}>")

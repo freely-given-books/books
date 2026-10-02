@@ -1912,6 +1912,7 @@ def restructure(splits, log):
                 continue
             if lst.el.get("type") != "numbered":
                 lst.el.set("type", "numbered")
+                lst.el.set("subtype", "printed")
                 lst.el.set("change", "#review")
                 log.append((f, "list", "printed list", "numbered"))
             if _l:
@@ -2058,6 +2059,8 @@ def add_header(root, editor_name):
         (".//t:head[@type='short']", "head[@type='short']: the short form of this "
          "edition's title, used in running heads."),
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),
+        (".//t:list[@subtype='printed']", "list[@subtype='printed']: a list printed as "
+         "one that this edition numbers; the printed numerals are kept in label."),
     ) if root.find(xp, {"t": NS}) is not None]
     paras += [txt for _, txt in used]
     cats = [(c, d) for c, d in (
