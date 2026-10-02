@@ -7,7 +7,7 @@ matches a finished edition.
   python3 compare.py pdf A.pdf B.pdf           rendered text of two PDFs
   python3 compare.py epub A.epub B.epub        text and notes of two EPUBs
 
-chapters  parses every chapter-*.typ in both folders with reviewparse and
+chapters  parses every .typ file (subfolders too) in both folders with reviewparse and
           compares words, paragraph breaks, italics, notes (text, italics
           and position) and headings. Blind to spacing and line wrapping.
 pdf       word-by-word diff of pdftotext output (pdftotext must be
@@ -48,8 +48,8 @@ def diff(a, b):
 
 def chapters(da, db):
     bad = 0
-    for fa in sorted(Path(da).glob("chapter-*.typ")):
-        fb = Path(db) / fa.name
+    for fa in sorted(Path(da).rglob("*.typ")):
+        fb = Path(db) / fa.relative_to(da)
         ra = reviewparse.parse_review(fa.read_text())
         rb = reviewparse.parse_review(fb.read_text())
         wa = [(t, k) for t, k, _ in ra.body]
@@ -64,7 +64,7 @@ def chapters(da, db):
             "headings": (ra.headings, ra.short) == (rb.headings, rb.short),
         }
         bad += not all(res.values())
-        print(fa.name, " ".join(f"{k}={'ok' if v else 'DIFF'}" for k, v in res.items()))
+        print(fa.relative_to(da), " ".join(f"{k}={'ok' if v else 'DIFF'}" for k, v in res.items()))
         if not res["words"]:
             show(diff([t for t, _ in wa], [t for t, _ in wb]),
                  [t for t, _ in wa], [t for t, _ in wb], 5)

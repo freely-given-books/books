@@ -85,6 +85,26 @@ the header says the TEI is paragraph-faithful. A modern text sets
 `DASH`, as `#auto` punctuation readings), and `QUOTE_BLOCK = True` when
 the print template sets `#quote` as a block (the ebook uses `<blockquote>`).
 
+*The Pilgrim's Progress* (`.../b/bunyan/pilgrim.xml`, both parts) added:
+div2/div3 → nested `div[@type="section"]` (the layout cuts files from
+them), CCEL's contents and index divs (`SKIP_DIVISIONS`, which may also
+name `titlePage`), a paragraph opening with a small-caps "Name:" →
+`sp/speaker` + `p` (dialogue, as TCP texts encode it; rendered
+"Christian: …"), other small caps → `seg[@rend="smallcaps"]` (`SMALLCAPS =
+"strong"` sets them bold, for a font without small capitals), late
+headings → `signed`, and footnotes. `VERSE_LINEBREAKS = True` sets verse
+line by line (and keeps CCEL's `<br/>`); in a division that is mostly verse
+(`layout.verse_division`: the Apology, the Conclusion) stanzas are plain
+paragraphs, not `#quote`s.
+
+When the user published a book before from another copy, **CCEL is the
+text** (the user's preference): build the machine pass, extract it into
+`chapters/typ`, fix only clear CCEL errors there, and compare the old copy
+and any other witness (an EEBO-TCP first edition, kept untouched as
+`source/<ID>.witness.xml`, which `sources.find` does not pick up) with
+`scripts/tei/drift.py` into `source/witness-report.md`, instead of folding
+the old copy in as the review.
+
 ## Commands
 
 Day to day, use `./fgb` at the repo root: it works from any folder, sets up

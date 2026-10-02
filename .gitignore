@@ -19,6 +19,8 @@ __pycache__/
 # repository (./fgb pdf / epub). Add a book's folder here when it moves.
 books/charles-spurgeon/all-of-grace/*.pdf
 books/charles-spurgeon/all-of-grace/*.epub
+books/john-bunyan/the-pilgrims-progress/*.pdf
+books/john-bunyan/the-pilgrims-progress/*.epub
 books/anonymous/the-anatomy-of-simon-magus/*.pdf
 books/anonymous/the-anatomy-of-simon-magus/*.epub
 books/william-perkins/christian-economy/*.pdf

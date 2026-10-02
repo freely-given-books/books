@@ -119,7 +119,7 @@ def main():
     words = lambda d: [w for f in chapter_files(d) for w in
                        reviewparse.TOKEN_RE.findall(
                            (d / f).read_text().replace("#quote[", " "))
-                       if w not in ("#", "emph", "[", "]")]
+                       if w not in ("#", "emph", "strong", "[", "]", "\\")]
     wa, wb = words(o2), words(o1)
     ops = [] if wa == wb else [
         o for o in difflib.SequenceMatcher(None, wa, wb, autojunk=False).get_opcodes()

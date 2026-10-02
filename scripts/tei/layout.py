@@ -80,6 +80,8 @@ def check(root, files, cfg):
             n = local(c)
             if c in covered:
                 continue
+            if n in skip:
+                continue
             if n == "div":
                 if c.get("type") in skip:
                     continue
@@ -93,6 +95,23 @@ def check(root, files, cfg):
     text = root.find(f".//{T}text")
     walk(text)
     return missing
+
+
+_VERSE = {}
+
+
+def verse_division(el):
+    """Is el's division (el itself, if it is a div) a section made of verse,
+    such as a verse preface? Its stanzas are then the text itself, set as
+    plain stanzas, not as quotations standing out from prose."""
+    div = el if local(el) == "div" else next(el.iterancestors(T + "div"), None)
+    if div is None:
+        return False
+    if div not in _VERSE:
+        total = words(div) - sum(words(h) for h in div.findall(T + "head"))
+        verse = sum(words(x) for x in div.iter(T + "l"))
+        _VERSE[div] = bool(total) and verse / total >= 0.8
+    return _VERSE[div]
 
 
 def parts_of(f):
