@@ -168,6 +168,10 @@ class HtmlR(R):
         if head is not None and depth == 0:
             out.append(f"<p class=\"list-head\"><strong>{self.text(head)}</strong></p>")
         items = []
+
+        def flush_items():
+            out.extend(self._ol(lst, items))
+            items.clear()
         for item in lst.findall(T + "item"):
             body = etree.Element("item-body")
             body.text = item.text
@@ -190,7 +194,8 @@ class HtmlR(R):
                     return self.list_html(s, depth + 1)
                 t = self.text(s)
                 return [f"<p>{t}</p>"] if t else []
-            if numbered and self.layer == "orig" and lst.get("subtype") != "printed":
+            if self.layer == "orig" and (numbered and lst.get("subtype") != "printed" or
+                                         lst.get("type") == "bulleted"):
                 # printed numerals stay in the text, as run-in paragraphs
                 if txt:
                     out.append(f"<p>{txt}</p>")
@@ -213,8 +218,19 @@ class HtmlR(R):
                 # a text-less item holding a sub-list: the TCP's way of hanging
                 # a branch of a genealogy under the item before it
                 items[-1] = items[-1][:-len("</li>")] + inner + "</li>"
+            elif self.layer == "reg" and item.get("rend") == "paragraph":
+                flush_items()                   # a printed item set as a paragraph
+                out.append(f"<p>{txt}</p>")
+                out.extend([inner] if inner else [])
             elif txt or inner:
                 items.append(f"<li>{txt}{inner}</li>")
+        flush_items()
+        return out
+
+    def _ol(self, lst, items):
+        """The <ol>/<ul> for a run of rendered items."""
+        out = []
+        numbered = lst.get("type") == "numbered"
         if items:
             if numbered and self.layer == "orig":
                 numbered = False                 # printed list: numerals are text
@@ -232,9 +248,14 @@ class HtmlR(R):
     def add_block(self, out, c, html_):
         """Like tei_extract.add_block: a block with @prev (the review ran it
         on from the block before) joins that paragraph in the reg layer."""
+        empty = self.__dict__.setdefault("empty_blocks", set())
         if not html_:
+            if c.get("{http://www.w3.org/XML/1998/namespace}id"):
+                empty.add(c.get("{http://www.w3.org/XML/1998/namespace}id"))     # nothing to run on into
             return
-        if self.layer == "reg" and c.get("prev") and out and \
+        if c.get("prev") and c.get("prev")[1:] in empty:
+            out.append(html_)
+        elif self.layer == "reg" and c.get("prev") and out and \
                 re.search(r"</li></[ou]l>$", out[-1]):
             # runs on into the last item of the list before
             inner = re.sub(r"^(<blockquote>)?<p[^>]*>|</p>(</blockquote>)?$", "", html_)
@@ -260,7 +281,7 @@ class HtmlR(R):
     def split_p(self, p):
         """A paragraph with block lists or tables: text, block, text."""
         out = []
-        for kind, el in p_runs(p):
+        for kind, el in p_runs(p, self.layer == "reg"):
             if kind == "text":
                 out += self.para(el)
             elif local(el) == "table":
@@ -377,6 +398,11 @@ class HtmlR(R):
                     inner.insert(0, f"<p>{name}</p>")
                 out += inner
                 continue
+            if n == "label" and c.get("type") == "head":
+                if self.layer == "reg":       # a heading the edition adds
+                    h = min(int(c.get("n", "3")) + 1, 6)
+                    out.append(f"<h{h}>{self.text(c)}</h{h}>")
+                continue
             if n == "epigraph" and self.layer == "reg":
                 ref = self.text_of(c.findall(T + "bibl"))
                 body = self.text_of([q for q in c if local(q) in ("q", "p")])
@@ -391,7 +417,7 @@ class HtmlR(R):
                            (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
                            (f'<p class="epigraph-text">{body}</p>' if body else "") + "</div>")
                 continue
-            if n == "p" and layout.p_blocks(c):
+            if n == "p" and layout.p_blocks(c, self.layer == "reg"):
                 out += self.split_p(c)
                 continue
             if n == "p" or \
@@ -405,8 +431,12 @@ class HtmlR(R):
                         self.add_block(out, c, f'<p class="quote">{t}</p>')
                 elif t:
                     self.add_block(out, c, f"<p>{t}</p>")
+                else:
+                    self.add_block(out, c, "")      # remembered as empty
                 continue
-            if n == "list":
+            if n == "list" and self.layer == "reg" and c.get("rend") == "inline":
+                self.add_block(out, c, f"<p>{self.text(c)}</p>")   # in the sentence
+            elif n == "list":
                 out += self.list_html(c)
             elif n == "quote":
                 # a quotation block of the source: one paragraph, as Typst sets
@@ -428,6 +458,16 @@ class HtmlR(R):
                     out.append(f'<p class="verse">{t}</p>')
                 elif t:
                     out.append(f"<blockquote><p>{t}</p></blockquote>")
+            elif n == "lg" and self.layer == "reg" and c.get("rend") == "paragraphs":
+                for x in c:             # verse set a line to a paragraph
+                    if isinstance(x.tag, str) and local(x) == "l":
+                        for h in self.para(x):
+                            self.add_block(out, x, h)
+            elif n in ("closer", "opener") and getattr(self, "settings", {}).get("CLOSER_PLAIN"):
+                for x in c:             # salute, signature ...: plain paragraphs
+                    if isinstance(x.tag, str) and local(x) != "pb":
+                        for h in self.para(x):
+                            self.add_block(out, x, h)
             elif n == "closer" and layout.closer_lines(c, self.layer) is not None:
                 for x in layout.closer_lines(c, self.layer):
                     for h in self.para(x):
@@ -457,7 +497,7 @@ class HtmlR(R):
             elif n == "div" or (n == "q" and c.find(T + "p") is not None):
                 out += self.blocks(c)
             else:
-                for h in self.para(c):
+                for h in self.para(c) or [""]:
                     self.add_block(out, c, h)
         return out
 
@@ -540,9 +580,18 @@ def divisions(root, r, cfg=None):
     r.verse_linebreaks = (cfg or {}).get("VERSE_LINEBREAKS", False)
     if (cfg or {}).get("SMALLCAPS"):
         r.settings = dict(getattr(r, "settings", {}), SMALLCAPS=cfg["SMALLCAPS"])
+    if (cfg or {}).get("CLOSER_PLAIN"):
+        r.settings = dict(getattr(r, "settings", {}), CLOSER_PLAIN=True)
     if files is not None:
         r.levels, r.run_in = layout.div_levels(cfg)
         for f in files:
+            if f.get("part"):
+                # a part page before the file (its title an h2; the files
+                # after it nest under it in the contents)
+                pid = "part-" + re.sub(r"[^a-z0-9]+", "-", f["part"].lower()).strip("-")
+                title = html.escape(f["part"], quote=False)
+                yield pid, f["part"], [f'<section id="{pid}" class="part">',
+                                       f"<h2>{title}</h2>", "</section>"]
             ident = file_ident(f["file"])
             lines = r.layout_file(f, ident)
             yield ident, html.unescape(r.title), lines

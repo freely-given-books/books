@@ -66,6 +66,17 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
     `epigraph[@rend="quote"]` / `q[@rend="quote"]` set as `#quote[...]`
   - a closer with a dateline or several signatories is set one line each,
     signatories first (orig layer: as printed)
+  - headings the edition adds (Brooks, `EDITION_HEADINGS`):
+    `label[@type="head"][@n=level][@ana="#edition-only"]` before the block
+    they stand over; the review's `=` lines below the file title
+  - `lg[@rend="paragraphs"]` verse set a line to a paragraph;
+    `item[@rend="paragraph"]` a printed item set as a paragraph;
+    `list[@type="bulleted"]` a bullet list the review makes;
+    `list[@rend="inline"]` a printed list run into its sentence;
+    `CLOSER_PLAIN` salutes and signatures as plain paragraphs (run on, split)
+  - `SKIP_BLOCKS(root)` in `editorial.py`: loose blocks the edition leaves
+    out (most of a long dedication), kept in the TEI; a layout file's
+    `"part"` is a part page before it in the ebook
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML

@@ -10,6 +10,8 @@ the TEI root element and returning a list of files, in reading order:
     {"file": "vol-1/01-serving.typ",      # path under chapters/typ
      "title": "Serving Each Other",        # the edition's heading for the file
      "short": None,                        # optional short (running-head) title
+     "part": None,                         # optional: a part heading before this
+                                           # file (ebook only; print sets its own)
      "parts": [el, el, ...]}               # TEI elements, in order
 
 A part that is a <div> is set with its own heading (DIV_LEVELS gives the
@@ -67,6 +69,9 @@ def check(root, files, cfg):
     SKIP_DIVISIONS): [(element, words)]. Heads of divisions that contain
     parts are the edition's to replace, and are not counted."""
     skip = set(cfg.get("SKIP_DIVISIONS", ()))
+    # SKIP_BLOCKS(root): loose blocks this edition leaves out (kept in the
+    # TEI as printed), e.g. most of a long dedication
+    skip_blocks = set(cfg["SKIP_BLOCKS"](root)) if cfg.get("SKIP_BLOCKS") else set()
     covered = set()
     for f in files:
         for p in f["parts"]:
@@ -78,7 +83,7 @@ def check(root, files, cfg):
             if not isinstance(c.tag, str):
                 continue
             n = local(c)
-            if c in covered:
+            if c in covered or c in skip_blocks:
                 continue
             if n in skip:
                 continue
@@ -219,11 +224,12 @@ def text_follows(p, node):
 BLOCK_IN_P = ("table", "list")
 
 
-def p_blocks(p):
+def p_blocks(p, edition=True):
     """The block children (tables, lists) a paragraph is split around, or []
     when it is set whole: no blocks, or a table interrupting its sentence
     (that one is read inline, column by column)."""
-    blocks = [c for c in p if isinstance(c.tag, str) and local(c) in BLOCK_IN_P]
+    blocks = [c for c in p if isinstance(c.tag, str) and local(c) in BLOCK_IN_P
+              and not (edition and c.get("rend") == "inline")]   # in the sentence
     if any(local(b) == "table" and text_follows(p, b) for b in blocks):
         return []
     return blocks
