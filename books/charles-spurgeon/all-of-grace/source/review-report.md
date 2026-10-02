@@ -11,16 +11,15 @@
 | merge | 19 |
 | quotation | 14 |
 | spacing | 12 |
-| emendation | 10 |
 | italic | 5 |
-| split | 5 |
+| emendation | 4 |
+| split | 4 |
 | punctuation | 1 |
 
 ## split
 
 - [chapter-08.typ] paragraph → 1 split(s) at "
 - [chapter-09.typ] quotation → 2 split(s) at It, There
-- [chapter-12.typ] paragraph → 1 split(s) at despair
 - [chapter-16.typ] paragraph → 2 split(s) at ", Our
 - [chapter-19.typ] paragraph → 1 split(s) at "
 
@@ -28,12 +27,6 @@
 
 - [chapter-05.typ] you → 
 - [chapter-08.typ] is → in
-- [chapter-10.typ] been born of faith ; for good or for evil , faith works wonders by the man in whom it dwells . Faith in its natural form is an all - prevailing force , which enters into all manner of human actions . Possibly he who derides faith in God is the man who in an evil form has the most of faith ; indeed , he usually falls into a credulity which would be ridiculous , if it were not disgraceful . God gives salvation to faith , because by creating faith in us He thus touches the real mainspring of our emotions and actions . He has , so to speak , taken → 
-- [chapter-12.typ] in → in despaind joys, that He may produce in sinners a better mind toward their God. Be thankful for the providence which has made you poor, or sick, or sad; for by all this Jesus works the life of your spirit and turns you to Himself. The Lord’s mercy often rides to the door of our hearts on the black horse of affliction. Jesus uses the whole range of our experience to wean us from earth and woo us to Heaven. Christ is exalted to the throne of Heaven and earth in order that, by all the processes of His providence, He may subdue hard hearts unto the gracious softening of repentance.
-- [chapter-12.typ] despair → Besides, He is at work at this hour by all His whispers in the conscience, by His inspired Book, by those of us who speak out of that Book, and by praying friends and earnest hearts. He can send a word to you which shall strike your rocky heart as with the rod of Moses, and cause streams of repentance to flow forth. He can bring to your mind some heart-breaking text out of Holy Scripture which shall conquer you right speedily. He can mysteriously soften you, and cause not conscience, and against the Holy Spirit, and against the love of Jesus, there is yet space for repentance. Though you may be as hard as unbelieving
-- [chapter-16.typ] and joys , that He may produce in sinners a better mind toward their God . Be thankful for the providence which has made you poor , or sick , or sad ; for by all this Jesus works the life of your spirit and turns you to Himself . The Lord’s mercy often rides to the door of our hearts on the black horse of affliction . Jesus uses the whole range of our experience to wean us from earth and woo us to Heaven . Christ is exalted to the throne of Heaven and earth in order that , by all the processes of His providence , He may subdue hard hearts unto the gracious softening of repentance . → 
-- [chapter-16.typ] Besides , He is at work at this hour by all His whispers in the conscience , by His inspired Book , by those of us who speak out of that Book , and by praying friends and earnest hearts . He can send a word to you which shall strike your rocky heart as with the rod of Moses , and cause streams of repentance to flow forth . He can bring to your mind some heart - breaking text out of Holy Scripture which shall conquer you right speedily . He can mysteriously soften you , and cause → 
-- [chapter-16.typ] conscience , and against the Holy Spirit , and against the love of Jesus , there is yet space for repentance . Though you may be as hard as unbelieving → 
 - [chapter-17.typ] Cor . → Corinthians
 - [chapter-19.typ] Cor . → Corinthians
 
