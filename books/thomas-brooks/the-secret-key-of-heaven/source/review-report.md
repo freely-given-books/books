@@ -8,7 +8,7 @@
 | kind | count |
 | --- | --- |
 | punctuation | 4986 |
-| case | 3778 |
+| case | 3779 |
 | emendation | 3769 |
 | spelling | 2426 |
 | italic | 1946 |
@@ -1026,7 +1026,7 @@
 - [argument-14.typ] man → man (1Ti 2:8)
 - [argument-14.typ] , as well → 
 - [argument-14.typ] every → everywhere. “There is nowhere
-- [argument-14.typ] : as → God is not.” As
+- [argument-14.typ] : as he → God is not.” As He
 - [argument-14.typ] Jer → 
 - [argument-14.typ] 23 . 24 . → “
 - [argument-14.typ] man → 
@@ -8962,7 +8962,7 @@
 ## case
 
 - his → His (×342)
-- he → He (×191)
+- he → He (×192)
 - and → And (×76)
 - Communion → communion (×75)
 - him → Him (×66)
