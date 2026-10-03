@@ -24,6 +24,7 @@ Branch `pilgrims-progress-review`, worktree
 - [x] part-2 title, authors-way, to-the-reader
 - [ ] part-2 stage-01..08
 - [x] part-2 stage-01, stage-02
+- [x] part-2 stage-03
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
 
@@ -60,6 +61,7 @@ Branch `pilgrims-progress-review`, worktree
   missing open/close quotes on Christiana's speech para "The thoughts ... that land."; "I am sure," ;
   "within herself, If".
 - II s1: "stand; For" -> "for"; "Christiana, had I" -> "Had". II s2: "doing, But" -> "; but"; "said, stand back" -> "Stand"; "pilgrim’s life." -> "?"; "God made it a true saying upon me, and grant" -> "make" (sense, parallel to grant); "he, said" -> "he said"; "neat and find" -> "neat and fine".
+- II s3: "take A sword" -> "a"; "conductor, what" -> "What"; doubled "when" removed ("coming when, in my opinion, going down"). Q1 note: Part II s3 also has "Formality and Hypocrisy" (Bunyan 1684 likely Formality) — keep Part II.
 
 ## To do globally (after reading)
 
@@ -88,4 +90,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Continue Part II at part-2/stage-03.typ through stage-08 (whole files; helpers in scratchpad pp/: rep.py FILE PAIRS, prog.py NOTE --done --next --msg, w.py). Part I + front matter synced/checked OK; Part II stage fixes not yet synced: run ./fgb sync pilgrim and ./fgb check pilgrim after next batches. Then global to-do, build, PDF checks, report.
+Continue Part II at part-2/stage-04.typ through stage-08. Part II stage fixes not yet synced: run ./fgb sync pilgrim and ./fgb check pilgrim. Then global to-do, build, PDF checks, report.
