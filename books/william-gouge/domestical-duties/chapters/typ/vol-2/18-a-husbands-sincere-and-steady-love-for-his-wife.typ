@@ -178,7 +178,7 @@ This example of Christ is the rather to be noted, because it clean wipeth away a
 
 1. Their wives are of a far meaner rank then #footnote[1\. #emph[Object.]] themselves; should they then perform duty to their inferiors? They commonly who marry their kitchen maids, or others far under their degree, allege this pretence.
 
-#emph[Answ.] I might reply, That marriage aduanceth a wife to the degree of her husband: and that it was his own folly to marry one so mean: but for the purpose and point in hand, let any tell me, whether the supposed disparity betwixt them & their wives, be in any degree comparable to that which is betwixt Christ and the Church: yet Christ thinketh not much to do duties of love to his Church.
+#emph[Answ.] I might reply, That marriage advanceth a wife to the degree of her husband: and that it was his own folly to marry one so mean: but for the purpose and point in hand, let any tell me, whether the supposed disparity betwixt them & their wives, be in any degree comparable to that which is betwixt Christ and the Church: yet Christ thinketh not much to do duties of love to his Church.
 
 2. There is nothing in their wives worthy to be loved. #footnote[2\. #emph[Object.]]
 

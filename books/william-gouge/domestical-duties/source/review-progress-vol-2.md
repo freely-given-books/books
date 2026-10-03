@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-07: done and fixed
-- NEXT STEP: read 08 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-08: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 09 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -25,6 +25,7 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - V2-1 ch3 §9: "(Eccles. 20. 7.)" for abstinence in a wife's separation: the verse is Ezek. 18. 6. Rec: Ezek. 18. 6.
 - James is "Iam." 12x / "Jam." 3x in the book; vol-2 set to Jam. (Ioh->Joh rule). Coordinator: unify.
 - V2-2 ch6 §31: Prov. 22. 1 "to be chosen #emph[love great riches]": print "loue" (misprint). Rec: "above great riches" (or "rather then", the Geneva wording). Not applied.
+- V2-3 ch8 §2 erratum p.268: "honour which is required in the first commandment" -> "fifth commandment". Rec: apply.
 
 ## Word map (1622 spellings the machine missed; applied to vol-2)
 
@@ -146,6 +147,18 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - joveall -> jovial
 - releeving -> relieving
 - barre -> bar
+- Assise -> Assize
+- townes -> towns
+- aduanceth -> advanceth
+- dominere -> domineer
+- obserueth -> observeth
+- overweene -> overween
+- hony -> honey
+- fairely -> fairly
+- Counsellours -> Counsellors
+- Professours -> Professors
+- spightfully -> spitefully
+- stomacks -> stomachs
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -266,3 +279,40 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 07: `hath, or howfar forth` -> `hath, or how far forth` (spacing)
 - 07: `give not a pennies worth, out rather suffer` -> `give not a pennies worth, but rather suffer` (misprint)
 - 07: `#footnote[Read #emph[Iam.] 5. 1, 2. #emph[etc.]]` -> `#footnote[Read #emph[Jam.] 5. 1, 2. #emph[etc.]]` (ref)
+- 08: `Vers. 23. #emph[For the husband is the head of the wife, even as Chris` -> `Vers. 23. For the husband is the head of the wife, even as Christ is t` (italic)
+- 08: `Mari & foeminae ae natura tribuium est, vt hi, praesit` -> `Mari & foeminae a natura tributum est, vt hic praesit` (latin)
+- 08: `#emph[Sicapilli pro velamine dati sunt, qua gratia aliud addendun est` -> `#emph[Si capilli pro velamine dati sunt, qua gratia aliud addendum est` (latin)
+- 08: `cometh nearest to a paritic.]` -> `cometh nearest to a parity.]` (misprint)
+- 08: `#footnote[1 #emph[Pet.] 3. 7..]` -> `#footnote[1 #emph[Pet.] 3. 7.]` (punct)
+- 08: `#footnote[Treat. 4 §. 9.]` -> `#footnote[Treat. 4. §. 9.]` (punct)
+- 08: `#footnote[1 #emph[Pet] 3. 1, 2.]` -> `#footnote[1 #emph[Pet.] 3. 1, 2.]` (ref)
+- 08: `from ignorance of hind, and error` -> `from ignorance of mind, and error` (misprint)
+- 08: `and cleaneth warting Gods ordinance` -> `and clean thwarting Gods ordinance` (misprint)
+- 08: `#footnote[Treat. 4. §. 11] #emph[inward fear` -> `#footnote[Treat. 4. §. 11.] #emph[inward fear` (punct)
+- 08: `#footnote[#emph[Eph.] 5. 33..]` -> `#footnote[#emph[Eph.] 5. 33.]` (punct)
+- 08: `#footnote[1 #emph[Pet.] 3. 2..]` -> `#footnote[1 #emph[Pet.] 3. 2.]` (punct)
+- 08: `#footnote[#emph[Uers.] 20. How fear` -> `#footnote[#emph[Vers.] 20. How fear` (ref)
+- 08: `a base and wile esteem` -> `a base and vile esteem` (misprint)
+- 08: `#footnote[1\. From selfeconceit.] is they need` -> `#footnote[1\. From self-conceit.] as they need` (misprint)
+- 08: `#footnote[1 #emph[Pet.] 3. 1..] Saint` -> `#footnote[1 #emph[Pet.] 3. 1.] Saint` (punct)
+- 08: `Shall-she bow to him` -> `Shall she bow to him` (punct)
+- 08: `1 #emph[Tim.] 2 9. 1 #emph[Pet.] 3. 3.]` -> `1 #emph[Tim.] 2. 9. 1 #emph[Pet.] 3. 3.]` (ref)
+- 08: `for curiousness un beseeming his calling` -> `for curiousness unbeseeming his calling` (spacing)
+- 08: `such proud daines as must` -> `such proud dames as must` (misprint)
+- 08: `velle placcre quàm` -> `velle placere quàm` (latin)
+- 08: `must some what restrain` -> `must somewhat restrain` (spacing)
+- 08: `manifested thereverend respect` -> `manifested the reverend respect` (glued)
+- 08: `by for bearing to speak` -> `by forbearing to speak` (spacing)
+- 08: `as very hastile and forward` -> `as very hasty and forward` (misprint)
+- 08: `Thus-they disgrace` -> `Thus they disgrace` (punct)
+- 08: `word #footnote[1 #emph[Tim.] 2. 12..] #emph[silence:] which in the ori` -> `word #footnote[1 #emph[Tim.] 2. 12.] #emph[silence:] which in the orig` (punct)
+- 08: `#emph[Answ.] subjection is that mark` -> `#emph[Answ.] Subjection is that mark` (case)
+- 08: `#footnote[2 #emph[King.] 4. 10. 22.]` -> `#footnote[2 #emph[King.] 4. 10, 22.]` (ref)
+- 08: `#footnote[2 #emph[Sam.] 25. 31, 37.]` -> `#footnote[1 #emph[Sam.] 25. 31, 37.]` (ref)
+- 08: `#footnote[#emph[Cant] 5. 10. #emph[etc.]]` -> `#footnote[#emph[Cant.] 5. 10. #emph[etc.]]` (ref)
+- 08: `the fairest and meek est speeches` -> `the fairest and meekest speeches` (spacing)
+- 08: `See more hereof Treat 2. part 2. §. 36.]` -> `See more hereof Treat. 2. part. 2. §. 36.]` (punct)
+- 08: `husband (1. #emph[Pet.] 3. 6.)` -> `husband (1 #emph[Pet.] 3. 6.)` (ref)
+- 08: `heart.] utteredmost unreverend` -> `heart.] uttered most unreverend` (glued)
+- 01: `married (1. #emph[Cor.] 7. 39.)` -> `married (1 #emph[Cor.] 7. 39.)` (ref)
+- 01: `marry] (1. #emph[Tim.] 5. 14.)` -> `marry] (1 #emph[Tim.] 5. 14.)` (ref)
