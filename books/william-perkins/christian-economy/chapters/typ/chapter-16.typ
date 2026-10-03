@@ -8,7 +8,7 @@ Contrariwise, the servant must take heed that he do not his masters business neg
 
 Servants are of two sorts; either free, or bond-servants.
 
-A free-servant is he, whom his master hireth for wages to do him service. To him belongs the just payment of his hire, and in case of offence, them master hath authority to censure and correct him, provided that in the execution thereof, respect be had unto his age, and the correction be used with moderation, as if he were his son.
+A free-servant is he, whom his master hireth for wages to do him service. To him belongs the just payment of his hire, and in case of offence, the master hath authority to censure and correct him, provided that in the execution thereof, respect be had unto his age, and the correction be used with moderation, as if he were his son.
 
 A bond-servant, is a servant bought for money, and is commonly called a slave. Touching this sort, a question is moved, whether a Christian may with safe conscience, have and use a man as his slave?
 
@@ -36,7 +36,7 @@ I. God hath ordained & allowed it, even by warrant of his own law: The posterity
 
 III. The man that is ransomed from his enemy, is bound to serve as a slave in lieu of thankfulness.
 
-#emph[IV. The examples of the godly in the Scriptures.] Abraham #emph[had servants whom he bought for silver, Gen.] 17. 12. Every manchild of eight days old among you, shall be circumcised in your generations, as well he that is borne in thine house, as he that is bough with money of any stranger, which is not of thy seed. #emph[Gen.] 24. 35. The Lord hath blessed my master Abraham wonderfully— for he hath given him sheep and beeves, and silver and gold, & men-servants and maid-servants, and camels and asses.
+#emph[IV. The examples of the godly in the Scriptures.] Abraham #emph[had servants whom he bought for silver, Gen.] 17. 12. Every manchild of eight days old among you, shall be circumcised in your generations, as well he that is borne in thine house, as he that is bought with money of any stranger, which is not of thy seed. #emph[Gen.] 24. 35. The Lord hath blessed my master Abraham wonderfully—for he hath given him sheep and beeves, and silver and gold, & men-servants and maid-servants, and camels and asses.
 
 V. The Apostles do not disallow of such servants, but command them being servants, & called to the profession of Christianity in that state, not to change, but to abide in their calling. 1. Cor. 7. 21. #emph[Art thou called being a servant? Care not for it.]
 

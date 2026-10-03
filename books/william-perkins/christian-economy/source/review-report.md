@@ -8,15 +8,17 @@
 
 | kind | count |
 | --- | --- |
-| case | 18 |
-| spelling | 12 |
+| case | 42 |
+| spelling | 32 |
+| emendation | 24 |
+| grammar | 10 |
 | expansion | 9 |
-| emendation | 9 |
 | gap | 8 |
+| punctuation | 8 |
 | split | 8 |
-| punctuation | 5 |
-| grammar | 4 |
+| spacing | 4 |
 | skipped | 1 |
+| merge | 1 |
 
 ## split
 
@@ -58,53 +60,112 @@
 
 ## emendation
 
+- [chapter-02.typ] or → of
+- [chapter-02.typ] otherwise → other side
 - [chapter-03.typ] Bringforth → Bring forth
+- [chapter-03.typ] general → . General
+- [chapter-05.typ] for → . For
+- [chapter-05.typ] I → 1
+- [chapter-05.typ] II → 11
 - [chapter-05.typ] beconuinced → be convinced
+- [chapter-08.typ] in → 
 - [chapter-08.typ] honestpure → honest, pure,
+- [chapter-09.typ] II → 11
+- [chapter-09.typ] for saken → forsaken
 - [chapter-09.typ] ship wrack → shipwreck
 - [chapter-10.typ heading] married folks , and of due benevolence → Married Folks
+- [chapter-10.typ] intents → in tents
+- [chapter-10.typ] 7 → 5
 - [chapter-13.typ] beforborne → be forborne
 - [chapter-13.typ] y• → the
+- [chapter-13.typ] 3 → 4
+- [chapter-13.typ] 26 → 29
+- [chapter-13.typ] of → or
 - [chapter-14.typ note] parfactis → parentum factis
 - [chapter-16.typ] y• → the
+- [chapter-17.typ] 25 → 45
 
 ## grammar
 
+- commiteth → committeth (×5)
 - cometh → commeth (×3)
 - becometh → cometh
+- marieth → marrieth
 
 ## punctuation
 
 - [dedication.typ] ▪ → ;
+- [chapter-04.typ] , → .
 - [chapter-05.typ] ▪ → ,
 - [chapter-05.typ] , → 
 - [chapter-06.typ] ▪ → .
+- [chapter-08.typ] , → .
+- [chapter-11.typ] , → 
 - [chapter-16.typ note] ▪ → .
 
 ## case
 
+- And → and (×2)
 - case → Case (×2)
 - family → Family (×2)
 - house → House (×2)
+- marriage → Marriage (×2)
 - married → Married (×2)
 - persons → Persons (×2)
+- wives → Wives (×2)
+- Affirming → affirming
+- By → by
+- In → in
 - PICKERING → Pickering
+- Requires → requires
+- Resteth → resteth
+- Saith → saith
+- Shekels → shekels
+- Should → should
+- Speaketh → speaketh
+- Vers → vers
+- With → with
+- Years → years
+- Yet → yet
 - choice → Choice
 - consent → Consent
 - duties → Duties
 - fit → Fit
 - folks → Folks
 - goodman → Goodman
+- honor → Honor
+- parents → Parents
+- proper → Proper
+- sentences → Sentences
 - service → Service
+- the → The
 
 ## spelling
 
 - vail → veil (×4)
+- Cananites → Canaanites (×2)
 - Iam → Jam (×2)
+- bruit → brute (×2)
 - Be → Bee
 - Corinthes → Corinthians
+- Luk → Luk.
+- Sea → See
+- Thesphylus → Theophilus
 - Tigres → Tigers
+- advise → advice
+- bitterns → bitterness
+- bough → bought
+- brother → brothers
+- cal → call
+- daughter → daughter.
+- fair → fare
 - harts → hearts
-- saken → shaken
+- he → the
+- heard → herd
+- prays → praise
 - sundrie → sundry
+- the → thee
+- them → the
+- them → then
+- way → may
 

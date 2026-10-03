@@ -18,7 +18,7 @@ But if the disease be not contagious, yet either incurable, or so nasty, that ei
 
 Upon this advice given by their lawful Pastor, or some in his stead; if they both yield, or one of them at the least desires to be at his own liberty, the espousals are forthwith to be broken off. But if neither will consent to a separation, but rather proceed as they have begun, and in probability the one have no just cause to hold the other in suspicion, in respect of contagion; they are not to be hindered from the consummation of their marriage.
 
-Furthermore, though one of them should have a disease, which is continual without intermission, & yet curable, or any other inconvenience should befall either of them, after the sure-making, whereby they become lame, deaf, or dumb, &c. Yet this is not a sufficient cause to move them to renounce, and dissolve the contract.
+Furthermore, though one of them should have a disease, which is continual without intermission, & yet curable, or any other inconvenience should befall either of them, after the sure-making, whereby they become lame, deaf, or dumb, &c. yet this is not a sufficient cause to move them to renounce, and dissolve the contract.
 
 A second case. What if it falleth out, that after the finishing of the contract, one of the espoused persons be long absent from the other, so as the absence be prejudicial to the marriage, that should ensue upon the contract?
 
