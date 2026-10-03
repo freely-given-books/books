@@ -20,7 +20,7 @@ Branch `pilgrims-progress-review`, worktree
 
 - [x] apology.typ
 - [x] part-1/stage-01 .. stage-09
-- [ ] part-1/stage-10, conclusion
+- [x] part-1/stage-10, conclusion
 - [ ] part-2: title, authors-way, to-the-reader, stage-01..08
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
@@ -47,6 +47,12 @@ Branch `pilgrims-progress-review`, worktree
   2:21" (1678 margin; 5:21 is about idols); "Rom.10:4"; "action’s sake" ->
   "actions’ sake" (1678).
 
+- s10: "such conviction as tend" -> "convictions" (1678); "the sight of at it first" ->
+  "of it at first" (1678 "of it first"); "answered, they" -> "They"; "be: And" ->
+  "and"; "would; But" -> "but"; "1 John, 3:2"; CCEL small-caps lines lowercased ->
+  "Blessed", "Enter ye into the joy of your Lord", "Blessing ... unto the Lamb";
+  stray paragraph "Isa. 26:2." joined to the paragraph it belongs to.
+
 ## To do globally (after reading)
 
 - Ref spacing "Job 10: 21,22", "Heb. 9: 17-21", "John 10: 27-29", "John 5: 28,29";
@@ -68,4 +74,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Read part-1/stage-10.typ, then conclusion, then Part II in order.
+Part II in order: title, authors-way, to-the-reader, stage-01..
