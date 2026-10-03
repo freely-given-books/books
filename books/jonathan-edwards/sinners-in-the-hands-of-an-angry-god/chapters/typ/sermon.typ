@@ -370,7 +370,7 @@ that you are in such danger of:
   angry God hath risen up and executed his awful vengeance on the poor sinner, and the
   wretch is actually suffering the infinite weight and power of his indignation, then will God
   call upon the whole universe to behold that awful majesty and mighty power that is to be seen
-  in it. Isaiah 33:12-14. "The peoples will be burned to ashes,like thorns cut down and set
+  in it. Isaiah 33:12-14. "The peoples will be burned to ashes, like thorns cut down and set
   ablaze. You who are far off, hear what I have done; you who are near, acknowledge My might.
   The sinners in Zion are afraid; trembling grips the ungodly" etc.
   Thus it will be with you that are in an unconverted state, if you continue in it; the infinite

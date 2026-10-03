@@ -14,7 +14,7 @@
 | emendation | 9 |
 | gap | 8 |
 | split | 8 |
-| punctuation | 4 |
+| punctuation | 5 |
 | grammar | 4 |
 | skipped | 1 |
 
@@ -77,6 +77,7 @@
 
 - [dedication.typ] ▪ → ;
 - [chapter-05.typ] ▪ → ,
+- [chapter-05.typ] , → 
 - [chapter-06.typ] ▪ → .
 - [chapter-16.typ note] ▪ → .
 

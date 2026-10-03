@@ -12,7 +12,7 @@
 | punctuation | 163 |
 | spelling | 111 |
 | italic | 75 |
-| spacing | 64 |
+| spacing | 63 |
 | split | 18 |
 | grammar | 11 |
 | merge | 11 |
