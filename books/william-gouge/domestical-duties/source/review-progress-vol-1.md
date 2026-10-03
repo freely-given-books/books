@@ -29,7 +29,10 @@ the TEI / review-report.md / volume files / covers before committing).
 - 02: DONE
 - 03: DONE (user had reviewed only its lists/layout)
 - 04: DONE
-- 05-12: NOT YET READ
+- word map (vol-2's 72 entries + mine, helper v1/wmap-applied.txt in scratchpad/v1) applied to all vol-1 files
+- 05: DONE (Pascha & Pentecoste, still-born, 1 Joh. 1. 8, ad elementum, Object. merged)
+- 06-12: NOT YET READ
+- NOTE: scratchpad is shared with other agents; my helpers now live in scratchpad/v1/ (og.py, apply.py, orig/)
 
 ## Fixes so far (for the report)
 
@@ -89,9 +92,7 @@ dependance, every thing, your selves / it self, -eth doubled consonants.
 
 ## Next step
 
-Read 05-love-that-purifies-the-unclean.typ from the top (check the Latin
-"Pascit a & Pentecosle" note and B em -> Bellarm already done by the user),
-then 06-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
+Read 06 from the top, then 07-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
 files, commit WIP. Then sweep re-run, refs, ./fgb check, ./fgb pdf (check
 epigraph italics), pdftotext checks, write source/proofread-report-vol-1.md,
 final commit.

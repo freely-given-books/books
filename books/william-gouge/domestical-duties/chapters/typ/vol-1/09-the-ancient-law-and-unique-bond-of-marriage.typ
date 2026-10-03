@@ -35,7 +35,7 @@ To set forth the firmness of the marriage bond he addeth this Emphacicall phrase
 
 Fitly doth this agree with that which followeth #emph[(they two shall be one flesh)] Our English cannot well express the Greek in good sense word for word (which is thus, #emph[they two shall beinto,] or #emph[in one flesh)] the meaning is, They which were two before marriage, by the bond of marriage are brought into one flesh, to be even as one flesh: as nearly united, as the parts of the same body, and the same flesh. This unity is not in regard of carnal copulation (for if they be married they are #emph[one flesh,] #footnote[#emph[Matrimonium non facit coitus, sed voluntas. Chrysost. in Mat. hom.] 32.] though they never know one another) nor in regard of procreation, because one child cometh from them both (for though they never have child, yet are they one flesh) but in regard of Gods institution, who hath set it down for a law, and as another nature, that man and wife should be so near one to another. Their consent in marriage (by virtue of Gods institution) maketh them to be #emph[one flesh.]
 
-Well doth our English note the emphasis of the original in this particle THEY #emph[(they two)] which showeth that the bond of marriage kniteth only #emph[two] together: one man, and one woman, and no more.
+Well doth our English note the emphasis of the original in this particle THEY #emph[(they two)] which showeth that the bond of marriage knitteth only #emph[two] together: one man, and one woman, and no more.
 
 This Law setteth forth the #emph[Union betwixt man and wife.] #footnote[Sum.]
 
@@ -97,7 +97,7 @@ Can Polygamy (the having of many wives) or Bigamy (the having of two wives at on
 
 #emph[Answ.] It was their sin, and a great blemish in them. The common error of the time, & their unsatiable desire of increase made them fall into it. Many inconveniences followed thereupon: neither can it be thought but that much mischief must needs follow upon having more wives then one: for whereas God at first made a wife to be as an help unto man, two, or more wives cannot but be a great grief and vexation unto him by reason of that emulation that is betwixt them. Through #emph[Hagars] means was #emph[Sarah] stirred against #emph[Abraham,] and #emph[Abraham] grieved at #emph[Sarahs] words. Though #emph[Leah] and #emph[Rachel] were sisters, yet great were their emulations: the like whereof is noted of #emph[Peninnah] and many others.
 
-Considering the hainousness of this sin, our laws #footnote[#emph[Stat.] 1. #emph[Jacob.] 11.] have justly made it felony for a man to have more wives then one, or a woman more husbands.
+Considering the heinousness of this sin, our laws #footnote[#emph[Stat.] 1. #emph[Jacob.] 11.] have justly made it felony for a man to have more wives then one, or a woman more husbands.
 
 === §. 84. #emph[Of the near conjunction of man and wife together.]
 
@@ -105,7 +105,7 @@ Considering the hainousness of this sin, our laws #footnote[#emph[Stat.] 1. #emp
 
 1. #emph[Parents] must be #emph[left] for wife: who nearer then parent and child? If man and wife be nearer then the nearest, then they are the nearest of all.
 
-2. A man is #emph[glued] to his wife. This metaphor setteth forth the #emph[neerness] of a thing as well as the #emph[firmness] of it: for things glued together are as one entire thing.
+2. A man is #emph[glued] to his wife. This metaphor setteth forth the #emph[nearness] of a thing as well as the #emph[firmness] of it: for things glued together are as one entire thing.
 
 3. Man and wife are #emph[one flesh:] many of one are made two, but no #emph[two] so nearly and truly made #emph[one] as man and wife.
 
@@ -113,7 +113,7 @@ As God hath limited a propinquity, and unity of things, so #footnote[Reason.] ar
 
 1. This showeth that the transgressions of man and wife #footnote[Uses.] one against another are of all the most heinous, more then of #footnote[1\. Mutual transgressions of man and wife most heinous.] friend, fellow, brother, child, parent or any other. Who would not cry #emph[fie upon] that child that hates his parent, or #emph[fie upon] that parent that hates his child? The heathen & savages would not think them worthy of humane society. What then may be thought of the man that hateth his wife, or the wife that hateth her husband? Apply this to all other transgressions: and well note how #emph[the Lord is a witness] thereof. #footnote[#emph[Mal.] 2. 14.]
 
-2. This also showeth how monstrous a thing it is to sow #footnote[2\. Monstrous to make debate betwixt man and wife.] any seeds of discord, and stir debate betwixt man and wife. The devils instruments they are therein, and a diabolical spirit is in them. For Satan most laboureth to unloose those knots which the Lord kniteth most firmly. Children of several venters, and several friends of each party, are much faulty herein. #emph[Cursed be they all before the Lord.]
+2. This also showeth how monstrous a thing it is to sow #footnote[2\. Monstrous to make debate betwixt man and wife.] any seeds of discord, and stir debate betwixt man and wife. The devils instruments they are therein, and a diabolical spirit is in them. For Satan most laboureth to unloose those knots which the Lord knitteth most firmly. Children of several venters, and several friends of each party, are much faulty herein. #emph[Cursed be they all before the Lord.]
 
 3. #footnote[1 #emph[Sam.] 26. 19.] This near conjunction betwixt man and wife is a great #footnote[3\. All duties betwixt man and wife to be cheerfully performed. #emph[Isa.] 58. 7.] motive to stir them both up, cheerfully to perform all the duties which God requireth of either of them. For thereby they do duty, and show kindness to their own flesh. No man may #emph[hide himself from his own flesh] at large: that is, no man may neglect any duty of mercy, or justice to his neighbour who is of the same stock that he is: shall then an husband or wife hide themselves from one another who in the nearest respect that possibly can be are #emph[one flesh?] not because they come #emph[from] one flesh, but because they come #emph[into] one flesh.
 
@@ -199,7 +199,7 @@ Learn we by this pattern to cleave close unto the Lord, #footnote[#emph[Use.] Cl
 
 Three virtues there are which are of special use to this purpose, Faith, Hope, love.
 
-#emph[Faith] is the hand whereby we lay fast hold on Christ, and as it were knit him to our selves, as he by his Spirit kniteth us to himself. This maketh us rest and repose our selves on him for all needful things: and not to leave him for any thing.
+#emph[Faith] is the hand whereby we lay fast hold on Christ, and as it were knit him to our selves, as he by his Spirit knitteth us to himself. This maketh us rest and repose our selves on him for all needful things: and not to leave him for any thing.
 
 #emph[Hope] is the anchor, which holdeth us fast against all the storms of Satan, so as they can never drive us out of our harbour, which is the Lord Jesus Christ.
 
@@ -209,7 +209,7 @@ Three virtues there are which are of special use to this purpose, Faith, Hope, l
 
 III. Concerning the phrase, whereby the nearness of #footnote[All the Saints made one Spouse.] man and wife is set forth #emph[(they two shall be one flesh)] it may be demanded how this can be applied to Christ and the Saints, who are more then two?
 
-#emph[Answ.] Christ by one Spirit kniteth us all into one body, #footnote[1 #emph[Cor.] 12. 13.] and so maketh all jointly considered together one Spouse. The multitude of Saints doth no more imply many wives, then the multitude of members which the natural body of a wife hath. This point then teacheth us, that
+#emph[Answ.] Christ by one Spirit knitteth us all into one body, #footnote[1 #emph[Cor.] 12. 13.] and so maketh all jointly considered together one Spouse. The multitude of Saints doth no more imply many wives, then the multitude of members which the natural body of a wife hath. This point then teacheth us, that
 
 #emph[In the mystical marriage betwixt Christ and the Church, all and every of the Saints have an equal privilege.] Some are not #footnote[See §. 22.] Concubines, some wives, nor some more loved, or preferred to another, but all one wife. #emph[All are one in Christ Jesus.] #footnote[#emph[Gal.] 3. 28.]
 

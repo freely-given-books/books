@@ -2,7 +2,7 @@
 
 === §. 96. #emph[Of the meaning of the first verse of the sixth Chapter.]
 
-From those particular duties which concern #emph[husbands] and #emph[wives] the Apostle proceedeth to lay down such as concern children and parents. As before he laid down wives duties before husbands, so here he begineth with childrens (who are inferior to their parents) and that for the same reasons which were rendered #footnote[§. 10.] before.
+From those particular duties which concern #emph[husbands] and #emph[wives] the Apostle proceedeth to lay down such as concern children and parents. As before he laid down wives duties before husbands, so here he beginneth with childrens (who are inferior to their parents) and that for the same reasons which were rendered #footnote[§. 10.] before.
 
 Besides children are the fruits of matrimonial conjunction, therefore fitly placed next unto #emph[man] and #emph[wife.]
 
@@ -47,7 +47,7 @@ The former phrase #emph[(in the Lord)] implying one reason, this plainly noteth 
 
 #v(0.8em)
 
-The very words of the #emph[fifth commandment] are here alleged #footnote[Why the moral law is alleged.] by the Apostle as a confirmation of the forenamed reason, that, #emph[it is just and right to obey parents,] because God in the moral law enioyneth as much. The law is more general then the Apostles precept: for the law compriseth under it all those duties which all kind of inferiors owe to their superiors, whether they be in family, church, or common wealth: but the Apostles precept is given only to one kind of inferiors in the family: yet the argument is very sound and good from a general to a particular, thus, #emph[All inferiors must] #footnote[A genere ad speciem.] #emph[honour their superiors, therefore children their parents.]
+The very words of the #emph[fifth commandment] are here alleged #footnote[Why the moral law is alleged.] by the Apostle as a confirmation of the forenamed reason, that, #emph[it is just and right to obey parents,] because God in the moral law enjoineth as much. The law is more general then the Apostles precept: for the law compriseth under it all those duties which all kind of inferiors owe to their superiors, whether they be in family, church, or common wealth: but the Apostles precept is given only to one kind of inferiors in the family: yet the argument is very sound and good from a general to a particular, thus, #emph[All inferiors must] #footnote[A genere ad speciem.] #emph[honour their superiors, therefore children their parents.]
 
 By adding the express words of the law the Apostle showeth that the subjection which he required of children is no yoke which he of his own head put on their necks: but that which the moral law hath put on them: so as this may be noted as a third reason, namely Gods express charge in his moral law.
 
@@ -99,7 +99,7 @@ How highly doth this commend the good respect that #footnote[1\. #emph[Use.]] Go
 
 How ought this to stir us up willingly and cheerfully to #footnote[2\. #emph[Use.]] observe the Laws which God commandeth us, and perform the services he requireth of us, seeing thereby we procure our own good?
 
-How fully may this satisfy, and even stop the mouths of #footnote[3\. #emph[Use.]] all such as are discontent with their places, and mutter against that subjection which God enioyneth to them?
+How fully may this satisfy, and even stop the mouths of #footnote[3\. #emph[Use.]] all such as are discontent with their places, and mutter against that subjection which God enjoineth to them?
 
 What a good direction and resolution may this be to many, #footnote[4\. #emph[Use.]] who being moved in conscience to seek the good of others, doubt whether therein they may aim at their own good or no? To make this case clear by an instance, which may serve in stead of many. A Minister faithful in his place, and very painful, and in that respect of a good conscience, but withal of a tender and weak conscience, doubteth whether thereby he may seek maintenance to himself, fearing that so he seeketh himself, and not simply the edification of Gods Church. But by the forenamed doctrine we see that both may be aimed at: for God commandeth the one, and promiseth the other. As we have one eye on Gods Commandment for direction, so we may have another on his promise for encouragement.
 
@@ -301,7 +301,7 @@ Pray therefore for the spirit of illumination to discern betwixt #emph[substance
 
 === §. 113. #emph[Of the determined period of mans life.]
 
-Having declared such orthodoxall points as this text affordeth, I will further note out two heretical positions, which our adversaries thence raise. One is of those, that to the dishonour of him whom God raised up to be a worthy instrument in dispelling the mist of Popery, which had much darkned the light of the Gospel, call themselves #emph[Lutherans:] the other of #emph[Papists.]
+Having declared such orthodoxall points as this text affordeth, I will further note out two heretical positions, which our adversaries thence raise. One is of those, that to the dishonour of him whom God raised up to be a worthy instrument in dispelling the mist of Popery, which had much darkened the light of the Gospel, call themselves #emph[Lutherans:] the other of #emph[Papists.]
 
 The former is this, #emph[God hath not determined the set period of] #footnote[Hinc patescit humanae vitae terminum, non esse decreto simplici & absoluto constitutum, etc. Zach. Muthel. in hunc loc. & N. Heming. alijque.] #emph[mans days,] but it is in mans power to lengthen or shorten them: for if it were otherwise, say they, this and such like promises of long life were to no purpose, nor yet the contrary threatenings of shortening mans days.
 
