@@ -1,0 +1,1087 @@
+# Review decisions carried into the enriched TEI
+
+## Please check
+
+- sermon.typ: the #[ #set text(costs: (widow: 0%)) ... ] around the Suffield paragraph is layout (keeps the footnote on its marker's page), not stored in the TEI; keep it in chapters/typ.
+- True Grace, Distinguished from the Experience of Devils (the first book of this TCP volume) and Sinners' title page are in the TEI as printed, but not in this edition.
+
+| kind | count |
+| --- | --- |
+| case | 1162 |
+| emendation | 358 |
+| punctuation | 163 |
+| spelling | 111 |
+| italic | 75 |
+| spacing | 64 |
+| split | 18 |
+| grammar | 11 |
+| merge | 11 |
+| gap | 5 |
+| list | 4 |
+| note moved | 1 |
+| skipped | 1 |
+
+## split
+
+- [sermon.typ] paragraph → 1 split(s) at 1
+- [sermon.typ] paragraph → 1 split(s) at 2
+- [sermon.typ] paragraph → 1 split(s) at 3
+- [sermon.typ] paragraph → 1 split(s) at 4
+- [sermon.typ] paragraph → 1 split(s) at 1
+- [sermon.typ] paragraph → 1 split(s) at What
+- [sermon.typ] paragraph → 1 split(s) at 3
+- [sermon.typ] paragraph → 1 split(s) at 4
+- [sermon.typ] paragraph → 1 split(s) at 5
+- [sermon.typ] paragraph → 1 split(s) at 6
+- [sermon.typ] paragraph → 1 split(s) at 7
+- [sermon.typ] paragraph → 1 split(s) at 8
+- [sermon.typ] paragraph → 1 split(s) at 9
+- [sermon.typ] paragraph → 1 split(s) at 10
+- [sermon.typ] paragraph → 1 split(s) at 1
+- [sermon.typ] paragraph → 1 split(s) at 2
+- [sermon.typ] paragraph → 1 split(s) at 3
+- [sermon.typ] paragraph → 1 split(s) at 4
+
+## skipped
+
+- [sermon.typ] merge at 'IN' → no paragraph before it
+
+## gap
+
+- [sermon.typ] he•e → here
+- [sermon.typ] 〈◊◊〉 → be heated
+- [sermon.typ] he•• → hear
+- [sermon.typ] no• → not
+- [sermon.typ] ou• → out
+
+## emendation
+
+- [sermon.typ note] The → a
+- [sermon.typ note] next → town
+- [sermon.typ note] neighbour → in
+- [sermon.typ note] Town → the
+- [sermon.typ] DEUT → 
+- [sermon.typ] XXXII → 
+- [sermon.typ] 35 → 
+- [sermon.typ] Their → 
+- [sermon.typ] Foot → 
+- [sermon.typ] shall → 
+- [sermon.typ] slide → 
+- [sermon.typ] in → 
+- [sermon.typ] due → 
+- [sermon.typ] Time → 
+- [sermon.typ] GOD , → God
+- [sermon.typ] that → who
+- [sermon.typ] and → and who
+- [sermon.typ] Means → the means
+- [sermon.typ] and → but
+- [sermon.typ] that → who
+- [sermon.typ] Works → works towards them
+- [sermon.typ] that he had wrought towards that People , yet → 
+- [sermon.typ] is → 
+- [sermon.typ] expressed → 
+- [sermon.typ] ; and that , under → . Under
+- [sermon.typ] Expression that → expression
+- [sermon.typ] Distruction that → destruction to which
+- [sermon.typ] to → 
+- [sermon.typ] Places , → places
+- [sermon.typ] Psal . Lxxiii . → Psalm 73:
+- [sermon.typ] thou didst → You
+- [sermon.typ] in → on
+- [sermon.typ] slippery → slick
+- [sermon.typ] Places → ground
+- [sermon.typ] Destruction → ruin
+- [sermon.typ] that Psal → Psalm 73:18-19 (KJV)
+- [sermon.typ] Lxxiii . 18 , 19 . → "
+- [sermon.typ] Moment ? → moment!"
+- [sermon.typ] Ground , → ground
+- [sermon.typ] don't → do not
+- [sermon.typ] GOD won't → God will not
+- [sermon.typ] in → on
+- [sermon.typ] that → ,
+- [sermon.typ] Men , → men
+- [sermon.typ] Moment , → moment
+- [sermon.typ] By → " By
+- [sermon.typ] that → who
+- [sermon.typ] Worm , → worm
+- [sermon.typ] 'tis → it is
+- [sermon.typ] 2 . → 
+- [sermon.typ] Justice , → justice
+- [sermon.typ] Cut → "Therefore cut
+- [sermon.typ] cumbreth → should
+- [sermon.typ] it → it use up
+- [sermon.typ] Ground → soil
+- [sermon.typ] Luk → "
+- [sermon.typ] Xiii → 13
+- [sermon.typ] 'tis → it is
+- [sermon.typ] don't → do not
+- [sermon.typ] Righteousness , → righteousness
+- [sermon.typ] iii → 3:18 "Whoever believes in Him is not condemned
+- [sermon.typ] 18 → 
+- [sermon.typ] He → 
+- [sermon.typ] that → 
+- [sermon.typ] believeth → 
+- [sermon.typ] not → 
+- [sermon.typ] is → 
+- [sermon.typ] condemned → 
+- [sermon.typ] already → 
+- [sermon.typ] viii → 8
+- [sermon.typ] beneath : → below."
+- [sermon.typ] 'tis → it is
+- [sermon.typ] don't → do not
+- [sermon.typ] angry as → 
+- [sermon.typ] of those → 
+- [sermon.typ] Creatures → creatures now tormented in hell
+- [sermon.typ] that he is now tormenting in Hell , and do → who
+- [sermon.typ] that → who
+- [sermon.typ] Ease and Quiet → ease
+- [sermon.typ] that → who
+- [sermon.typ] don't → does not
+- [sermon.typ] don't → does not
+- [sermon.typ] Damnation don't → damnation does not
+- [sermon.typ] her → its
+- [sermon.typ] Luk . Xi . 12 → Luke 11:21
+- [sermon.typ] Men , → men
+- [sermon.typ] presently → immediately
+- [sermon.typ] Torments in 'em → torments
+- [sermon.typ] Wicked , → wicked
+- [sermon.typ] lvii → 
+- [sermon.typ] GOD → , God
+- [sermon.typ] Hitherto → "
+- [sermon.typ] come → come this far
+- [sermon.typ] and → but
+- [sermon.typ] Man is a Thing that → man
+- [sermon.typ] 'tis → It is
+- [sermon.typ] don't → does not
+- [sermon.typ] that → 
+- [sermon.typ] Step won't → step will not
+- [sermon.typ] won't → will not
+- [sermon.typ] 'em → them
+- [sermon.typ] universally → universally and
+- [sermon.typ] don't → does not
+- [sermon.typ] all → all the
+- [sermon.typ] don't → do not
+- [sermon.typ] 'em → them
+- [sermon.typ] This → To this,
+- [sermon.typ] Testimony to → testimony
+- [sermon.typ] Ecles . → Ecclesiastes
+- [sermon.typ] How dieth → "Alas,
+- [sermon.typ] Man ? As → man will die just like
+- [sermon.typ] Fool . → fool!"
+- [sermon.typ] Contrivance → contrivance which
+- [sermon.typ] don't → do not
+- [sermon.typ] 'em → them
+- [sermon.typ] and → 
+- [sermon.typ] Schemes won't → schemes will not
+- [sermon.typ] bigger → greater
+- [sermon.typ] don't → does not
+- [sermon.typ] Care that shall be → 
+- [sermon.typ] effectual → effectual care
+- [sermon.typ] Men do → men
+- [sermon.typ] their Confidence → confidence
+- [sermon.typ] bigger → greater
+- [sermon.typ] that heretofore → who
+- [sermon.typ] have → have previously
+- [sermon.typ] that → who
+- [sermon.typ] it were so , that → 
+- [sermon.typ] come to → 
+- [sermon.typ] could enquire → inquire
+- [sermon.typ] Hell , → hell
+- [sermon.typ] my self ; → myself:
+- [sermon.typ] ; O → . Oh,
+- [sermon.typ] Promise , → promise
+- [sermon.typ] Grace , that → grace who
+- [sermon.typ] and → who
+- [sermon.typ] that → do
+- [sermon.typ] don't → not
+- [sermon.typ] Promises of the Covenant → promises
+- [sermon.typ] 'tis → it is
+- [sermon.typ] 'em → them
+- [sermon.typ] fain → gladly
+- [sermon.typ] APPLICATION . → Application
+- [sermon.typ] USE → use of this awful subject
+- [sermon.typ] of → for
+- [sermon.typ] to → 
+- [sermon.typ] 'tis → it is
+- [sermon.typ] sensible → aware
+- [sermon.typ] don't → do not
+- [sermon.typ] , that so is → for
+- [sermon.typ] Sun don't → sun does not
+- [sermon.typ] Earth don't → earth does not
+- [sermon.typ] Air don't → air does not
+- [sermon.typ] don't → do not
+- [sermon.typ] the → 
+- [sermon.typ] 'tis → It is
+- [sermon.typ] Works , → works
+- [sermon.typ] hitherto → up to this time
+- [sermon.typ] with - held → withheld
+- [sermon.typ] waxing → increasing
+- [sermon.typ] are → 
+- [sermon.typ] all → all you
+- [sermon.typ] ( however → are in the hands of an angry God. However
+- [sermon.typ] and may be strict in → 
+- [sermon.typ] , ) you are thus in the Hands of an angry GOD ; 'tis Nothing → is nothing
+- [sermon.typ] meer Pleasure , → mere pleasure
+- [sermon.typ] Things that → things on which
+- [sermon.typ] on → 
+- [sermon.typ] Infect , → insect
+- [sermon.typ] so → more
+- [sermon.typ] as → than
+- [sermon.typ] Moment : 'tis → moment. It is
+- [sermon.typ] was → were
+- [sermon.typ] han't → have not
+- [sermon.typ] don't → do not
+- [sermon.typ] 'tis → it is
+- [sermon.typ] that → who
+- [sermon.typ] Prov . Xx . → Proverbs 20:
+- [sermon.typ] Fear → terror
+- [sermon.typ] as → like
+- [sermon.typ] Whoso → whoever
+- [sermon.typ] to Anger , sinneth against → forfeits
+- [sermon.typ] extream Torments , → extreme torments
+- [sermon.typ] Potentates , → potentates
+- [sermon.typ] wh•m → when
+- [sermon.typ] is → as
+- [sermon.typ] xii → 12
+- [sermon.typ] And → "
+- [sermon.typ] say unto → tell
+- [sermon.typ] my Friends → 
+- [sermon.typ] not → 
+- [sermon.typ] that → who
+- [sermon.typ] Body , → body
+- [sermon.typ] have → can do
+- [sermon.typ] that they can do : → .
+- [sermon.typ] forewarn → show
+- [sermon.typ] shall → should
+- [sermon.typ] ; fear him → : Fear the One who
+- [sermon.typ] which → 
+- [sermon.typ] he hath → you have been
+- [sermon.typ] Power → authority
+- [sermon.typ] cast → throw you
+- [sermon.typ] say unto → tell
+- [sermon.typ] him . → Him!"
+- [sermon.typ] 'tis → It is
+- [sermon.typ] Isai . Lix . → Isaiah 59:
+- [sermon.typ] According → "So He will repay according
+- [sermon.typ] Deeds , accordingly he will repay Fury → deeds: fury
+- [sermon.typ] Adversaries → enemies
+- [sermon.typ] Isai . Lxvi , → Isaiah 66:
+- [sermon.typ] Fire , and with Chariots , → fire — His chariots are
+- [sermon.typ] render → execute
+- [sermon.typ] Fury , → fury
+- [sermon.typ] so → 
+- [sermon.typ] So → So, Revelation 19:15 (KJV),
+- [sermon.typ] God's → 
+- [sermon.typ] Fierceness → "the wine press
+- [sermon.typ] Rev → 
+- [sermon.typ] Xix → 
+- [sermon.typ] 15 → 
+- [sermon.typ] There → 
+- [sermon.typ] we → 
+- [sermon.typ] read → 
+- [sermon.typ] Wine - Press of the Fierceness → fierceness
+- [sermon.typ] But 'tis not only said so , → 
+- [sermon.typ] but → but it is "
+- [sermon.typ] GOD : → God."
+- [sermon.typ] not only said so , but → also "
+- [sermon.typ] Power , → power
+- [sermon.typ] were → are
+- [sermon.typ] wont → accustomed
+- [sermon.typ] Heart → heart can
+- [sermon.typ] with - held → withheld
+- [sermon.typ] it's → it is
+- [sermon.typ] Ezek . Viii . → Ezekiel 8:
+- [sermon.typ] Therefore → Therefore I
+- [sermon.typ] I also deal in Fury ; mine Eye shall not spare , neither will I have Pity ; and tho' they cry in mine Ears → respond
+- [sermon.typ] a loud Voice , yet → wrath.
+- [sermon.typ] hear → look on them with pity, nor will I spare
+- [sermon.typ] dolorous → sorrowful
+- [sermon.typ] only → 
+- [sermon.typ] only → 
+- [sermon.typ] 'tis → it is
+- [sermon.typ] Prov → "
+- [sermon.typ] I → 1
+- [sermon.typ] 25 → 25-26
+- [sermon.typ] 26 . & c → etc
+- [sermon.typ] Isai → Isaiah 63:3
+- [sermon.typ] lxiii . 3 . Which → which
+- [sermon.typ] GOD → God. "I have trodden the winepress alone
+- [sermon.typ] will tread → trampled
+- [sermon.typ] mine Anger → My anger and trod them down in My fury; their blood spattered My garments
+- [sermon.typ] will trample them in my Fury , and their Blood shall be sprinkled upon my Garments , and I will stain → 
+- [sermon.typ] my Raiment → My clothes were stained
+- [sermon.typ] 'tis → " It is
+- [sermon.typ] viz → namely
+- [sermon.typ] he'll → he will
+- [sermon.typ] won't Regard → will not regard
+- [sermon.typ] He'll → he will
+- [sermon.typ] Raiment → raiment (clothing)
+- [sermon.typ] Feet , → feet
+- [sermon.typ] that → that would
+- [sermon.typ] 'em → them
+- [sermon.typ] Wrath , → wrath
+- [sermon.typ] Order , → orders
+- [sermon.typ] Fierceness , → fierceness
+- [sermon.typ] Rom . Xix . → Romans 9:
+- [sermon.typ] willing → , intending
+- [sermon.typ] HIS Wrath , → His wrath
+- [sermon.typ] to → 
+- [sermon.typ] endured → bore
+- [sermon.typ] much Long - suffering → great patience the vessels of His wrath
+- [sermon.typ] the Vessels of Wrath fitted to Destruction → prepared for destruction
+- [sermon.typ] unmixed , → 
+- [sermon.typ] GOD , → God
+- [sermon.typ] Power , → power
+- [sermon.typ] Isai . Xxxiii . → Isaiah 33:
+- [sermon.typ] , 13 , → -
+- [sermon.typ] And → "
+- [sermon.typ] shall → will
+- [sermon.typ] as the burning of Lime → burned to ashes
+- [sermon.typ] as → like
+- [sermon.typ] up shall they be burnt in the Fire → down and set ablaze
+- [sermon.typ] Hear ye that → You who
+- [sermon.typ] and ye that → you who
+- [sermon.typ] , Fearfulness hath surprized → ; trembling grips
+- [sermon.typ] Hypocrites , & c → ungodly" etc
+- [sermon.typ] Isai . Lxvi . → Isaiah 66:
+- [sermon.typ] And it shall come to pass , that from → "From
+- [sermon.typ] shall → 
+- [sermon.typ] Flesh → mankind will
+- [sermon.typ] and → As
+- [sermon.typ] shall → 
+- [sermon.typ] and look upon → , they will see
+- [sermon.typ] that → who
+- [sermon.typ] transgressed → rebelled
+- [sermon.typ] shall → will
+- [sermon.typ] not → never
+- [sermon.typ] neither shall → 
+- [sermon.typ] Fire → fire will never
+- [sermon.typ] shall → will
+- [sermon.typ] abhorring → horror
+- [sermon.typ] Flesh → mankind
+- [sermon.typ] 'tis → It is
+- [sermon.typ] Forever → for ever
+- [sermon.typ] saint Representation → , faint representation
+- [sermon.typ] 'tis → it is
+- [sermon.typ] For → For "
+- [sermon.typ] Danger → the danger
+- [sermon.typ] Wrath , → wrath
+- [sermon.typ] Congregation , → congregation
+- [sermon.typ] 〈◊〉 We → If we
+- [sermon.typ] and → 
+- [sermon.typ] To - morrow Morning → tomorrow morning
+- [sermon.typ] Your Damnation don't → your damnation does not
+- [sermon.typ] 'tis → It is
+- [sermon.typ] that heretofore → whom
+- [sermon.typ] heretofore , → previously
+- [sermon.typ] Living , → living
+- [sermon.typ] Souls , → souls
+- [sermon.typ] Day's → day's opportunity
+- [sermon.typ] Opportunity → 
+- [sermon.typ] slung → thrown
+- [sermon.typ] the Door , → 
+- [sermon.typ] Him , that → him who
+- [sermon.typ] that → who
+- [sermon.typ] that → and
+- [sermon.typ] Common - Wealth → commonwealth
+- [sermon.typ] Sirs → , sirs
+- [sermon.typ] Don't → Do
+- [sermon.typ] you → you not
+- [sermon.typ] your selves → yourselves
+- [sermon.typ] that are → ,
+- [sermon.typ] that → which
+- [sermon.typ] it is → 
+- [sermon.typ] that → who
+- [sermon.typ] away → 
+- [sermon.typ] Children → 
+- [sermon.typ] that → children, who
+- [sermon.typ] don't → do not
+- [sermon.typ] that → who
+- [sermon.typ] Day , → day
+- [sermon.typ] that is → 
+- [sermon.typ] Heart , → heart
+- [sermon.typ] bigger → greater
+- [sermon.typ] was → were
+- [sermon.typ] Manner , → manner
+- [sermon.typ] that → which
+- [sermon.typ] CHRIST , → Christ
+- [sermon.typ] GOD , → God
+- [sermon.typ] Sodom → Sodom. Genesis 19
+- [sermon.typ] Haste and escape → 17. "Run
+- [sermon.typ] Lives → lives! Do not look back
+- [sermon.typ] look → and do
+- [sermon.typ] behind you , escape → stop anywhere on the plain! Flee
+- [sermon.typ] lest → or
+- [sermon.typ] you → you will
+- [sermon.typ] consumed → swept
+
+## grammar
+
+- an → a (×2)
+- Ye → "You
+- hath → has
+- provoketh → provokes
+- saith → says
+- shalt → You
+- thou → You
+- thou → may
+- thy → they
+- unto → to
+
+## punctuation
+
+- [sermon.typ note] . → area
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] — → 
+- [sermon.typ] . → 
+- [sermon.typ] — → 
+- [sermon.typ] , → (
+- [sermon.typ] , → 
+- [sermon.typ] . → se
+- [sermon.typ] . → )
+- [sermon.typ] , → , they
+- [sermon.typ] ; → ,
+- [sermon.typ] ▪ → .
+- [sermon.typ] . → . "
+- [sermon.typ] . → ."
+- [sermon.typ] ; → ,
+- [sermon.typ] , → 
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] . → ;
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] , → . "
+- [sermon.typ] : → .
+- [sermon.typ] : → .
+- [sermon.typ] , → 
+- [sermon.typ] ; → :
+- [sermon.typ] , → !
+- [sermon.typ] , → ?
+- [sermon.typ] . → Luke
+- [sermon.typ] . → :
+- [sermon.typ] ; → ,
+- [sermon.typ] . → 
+- [sermon.typ] . → "
+- [sermon.typ] . → ,
+- [sermon.typ] . → :
+- [sermon.typ] ▪ → .
+- [sermon.typ] ; → :
+- [sermon.typ] , → 
+- [sermon.typ] , → ;
+- [sermon.typ] , → 
+- [sermon.typ] ; → .
+- [sermon.typ] : → .
+- [sermon.typ] . → ah
+- [sermon.typ] . → 57:
+- [sermon.typ] ; → "
+- [sermon.typ] , → 
+- [sermon.typ] ▪ → .
+- [sermon.typ] ; → :
+- [sermon.typ] . → :
+- [sermon.typ] ; → .
+- [sermon.typ] : → .
+- [sermon.typ] ; → :
+- [sermon.typ] , → :
+- [sermon.typ] , → , "
+- [sermon.typ] ; → :
+- [sermon.typ] ; → .
+- [sermon.typ] ; → :
+- [sermon.typ] ; → :
+- [sermon.typ] , → ;
+- [sermon.typ] . → ."
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] ; → :
+- [sermon.typ] . → .—
+- [sermon.typ] : → ,
+- [sermon.typ] , → ;
+- [sermon.typ] , → ;
+- [sermon.typ] ; → .
+- [sermon.typ] , → ;
+- [sermon.typ] ; → :
+- [sermon.typ] : → ;
+- [sermon.typ] , → it
+- [sermon.typ] : → .
+- [sermon.typ] : → .
+- [sermon.typ] : → .
+- [sermon.typ] : → .
+- [sermon.typ] . → :
+- [sermon.typ] . → . "
+- [sermon.typ] : → ;
+- [sermon.typ] . → ."
+- [sermon.typ] : → .
+- [sermon.typ] , → ;
+- [sermon.typ] . → :
+- [sermon.typ] , → -
+- [sermon.typ] , → , My friends, do not
+- [sermon.typ] ; → .
+- [sermon.typ] . → ."
+- [sermon.typ] . → . "
+- [sermon.typ] , → —
+- [sermon.typ] . → ."
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → ."
+- [sermon.typ] , → , "
+- [sermon.typ] , → ,"
+- [sermon.typ] . → ."
+- [sermon.typ] : → .
+- [sermon.typ] , → 
+- [sermon.typ] : → .
+- [sermon.typ] . → . "
+- [sermon.typ] . → . Although they shout loudly in My ears, I will not listen to them."
+- [sermon.typ] : → .
+- [sermon.typ] ; → .
+- [sermon.typ] : → .
+- [sermon.typ] . → Proverbs
+- [sermon.typ] . → :
+- [sermon.typ] , → , and no one from the nations was with Me.
+- [sermon.typ] , → 
+- [sermon.typ] ▪ → ,
+- [sermon.typ] . → ,
+- [sermon.typ] : → .
+- [sermon.typ] , → 
+- [sermon.typ] ; → :
+- [sermon.typ] , → 
+- [sermon.typ] : → .
+- [sermon.typ] . → . "
+- [sermon.typ] ? → ?"
+- [sermon.typ] , → , even
+- [sermon.typ] , → 
+- [sermon.typ] ; → ,
+- [sermon.typ] , → , hear
+- [sermon.typ] : → .
+- [sermon.typ] , → ;
+- [sermon.typ] , → -
+- [sermon.typ] , → 
+- [sermon.typ] ; → .
+- [sermon.typ] . → ."
+- [sermon.typ] : → .
+- [sermon.typ] : → .
+- [sermon.typ] , → ;
+- [sermon.typ] ; → .
+- [sermon.typ] , → 
+- [sermon.typ] , → ;
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] ? → ?"
+- [sermon.typ] . → !
+- [sermon.typ] : → .
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] , → , even
+- [sermon.typ] , → 
+- [sermon.typ] ▪ → .
+- [sermon.typ] , → 
+- [sermon.typ] : → .
+- [sermon.typ] ; → ,
+- [sermon.typ] ; → .
+- [sermon.typ] , → ?
+- [sermon.typ] ; → .
+- [sermon.typ] ; → .
+- [sermon.typ] , → 
+- [sermon.typ] : → ;
+- [sermon.typ] , → ;
+- [sermon.typ] ; → ,
+- [sermon.typ] , → 
+- [sermon.typ] : → .
+- [sermon.typ] . → away
+
+## case
+
+- GOD → God (×76)
+- Wrath → wrath (×48)
+- Hell → hell (×47)
+- Moment → moment (×26)
+- Hand → hand (×20)
+- Power → power (×19)
+- Men → men (×18)
+- Nothing → nothing (×18)
+- Day → day (×16)
+- Fierceness → fierceness (×15)
+- Fire → fire (×14)
+- Misery → misery (×11)
+- World → world (×11)
+- Destruction → destruction (×10)
+- Pit → pit (×10)
+- Souls → souls (×9)
+- Time → time (×9)
+- Case → case (×8)
+- Flames → flames (×8)
+- Heart → heart (×8)
+- Man → man (×8)
+- Means → means (×8)
+- Mercy → mercy (×8)
+- Persons → persons (×8)
+- Pleasure → pleasure (×8)
+- Soul → soul (×8)
+- State → state (×8)
+- Fury → fury (×7)
+- Reason → reason (×7)
+- Strength → strength (×7)
+- Things → things (×7)
+- Anger → anger (×6)
+- CHRIST → Christ (×6)
+- Children → children (×6)
+- Congregation → congregation (×6)
+- Justice → justice (×6)
+- Life → life (×6)
+- Manner → manner (×6)
+- Places → places (×6)
+- Weight → weight (×6)
+- Will → will (×6)
+- Words → words (×6)
+- Care → care (×5)
+- Death → death (×5)
+- Earth → earth (×5)
+- End → end (×5)
+- Kings → kings (×5)
+- Majesty → majesty (×5)
+- Matters → matters (×5)
+- Nature → nature (×5)
+- Promises → promises (×5)
+- Security → security (×5)
+- Sin → sin (×5)
+- Vengeance → vengeance (×5)
+- Ages → ages (×4)
+- Covenant → covenant (×4)
+- Danger → danger (×4)
+- Devil → devil (×4)
+- Enemies → enemies (×4)
+- Eyes → eyes (×4)
+- Furnace → furnace (×4)
+- Hands → hands (×4)
+- Hearts → hearts (×4)
+- Interest → interest (×4)
+- Men's → men's (×4)
+- Mind → mind (×4)
+- Obligation → obligation (×4)
+- Part → part (×4)
+- Place → place (×4)
+- Prince → prince (×4)
+- Regard → regard (×4)
+- Sinners → sinners (×4)
+- Times → times (×4)
+- Wickedness → wickedness (×4)
+- his → His (×4)
+- Air → air (×3)
+- Arrow → arrow (×3)
+- Blood → blood (×3)
+- Circumstances → circumstances (×3)
+- Condition → condition (×3)
+- Course → course (×3)
+- Days → days (×3)
+- Eternity → eternity (×3)
+- Foot → foot (×3)
+- Grace → grace (×3)
+- Guilt → guilt (×3)
+- Heaven → heaven (×3)
+- Hope → hope (×3)
+- Land → land (×3)
+- Love → love (×3)
+- Mouth → mouth (×3)
+- Opportunity → opportunity (×3)
+- People → people (×3)
+- Person → person (×3)
+- Preservation → preservation (×3)
+- Principles → principles (×3)
+- Providence → providence (×3)
+- Punishment → punishment (×3)
+- Safety → safety (×3)
+- Sentence → sentence (×3)
+- Sight → sight (×3)
+- Subject → subject (×3)
+- Subjects → subjects (×3)
+- Thing → thing (×3)
+- Torments → torments (×3)
+- Waters → waters (×3)
+- Whirlwind → whirlwind (×3)
+- And → and (×2)
+- Angels → angels (×2)
+- Art → art (×2)
+- Bow → bow (×2)
+- Chaff → chaff (×2)
+- Constitution → constitution (×2)
+- Contempt → contempt (×2)
+- Corruption → corruption (×2)
+- Covering → covering (×2)
+- Creature → creature (×2)
+- Creatures → creatures (×2)
+- Degree → degree (×2)
+- Deliverance → deliverance (×2)
+- Difficulty → difficulty (×2)
+- Discourse → discourse (×2)
+- Escape → escape (×2)
+- Executions → executions (×2)
+- Experience → experience (×2)
+- Floods → floods (×2)
+- Fruit → fruit (×2)
+- Hardness → hardness (×2)
+- Hatred → hatred (×2)
+- Heads → heads (×2)
+- Health → health (×2)
+- House → house (×2)
+- Indignation → indignation (×2)
+- JEHOVAH → Jehovah (×2)
+- Law → law (×2)
+- Light → light (×2)
+- Lives → lives (×2)
+- Lord → LORD (×2)
+- Might → might (×2)
+- Millions → millions (×2)
+- Night → night (×2)
+- Numbers → numbers (×2)
+- Observation → observation (×2)
+- Omnipotence → omnipotence (×2)
+- Pains → pains (×2)
+- Possession → possession (×2)
+- Presence → presence (×2)
+- Present → present (×2)
+- Promise → promise (×2)
+- Prudence → prudence (×2)
+- Rebel → rebel (×2)
+- Religion → religion (×2)
+- Respect → respect (×2)
+- Rest → rest (×2)
+- Restraints → restraints (×2)
+- SPIRIT → Spirit (×2)
+- Scripture → scripture (×2)
+- Sea → sea (×2)
+- Season → season (×2)
+- Seats → seats (×2)
+- Serpent → serpent (×2)
+- Sinner → sinner (×2)
+- Sins → sins (×2)
+- Sword → sword (×2)
+- Text → text (×2)
+- Thoughts → thoughts (×2)
+- Thread → thread (×2)
+- Torment → torment (×2)
+- Tree → tree (×2)
+- Truth → truth (×2)
+- Use → use (×2)
+- Way → way (×2)
+- Ways → ways (×2)
+- Welfare → welfare (×2)
+- Wind → wind (×2)
+- Wisdom → wisdom (×2)
+- Women → women (×2)
+- Wonder → wonder (×2)
+- Word → word (×2)
+- Worship → worship (×2)
+- Year → year (×2)
+- if → If (×2)
+- me → Me (×2)
+- the → The (×2)
+- you → You (×2)
+- ALMIGHTY → Almighty
+- Accident → accident
+- Affections → affections
+- Age → age
+- Aged → aged
+- Aliens → aliens
+- Amen → amen
+- Arrows → arrows
+- As → as
+- Awakening → awakening
+- Blindness → blindness
+- Bondage → bondage
+- Both → both
+- Breath → breath
+- Brimstone → brimstone
+- Brink → brink
+- Burden → burden
+- Calls → calls
+- Cause → cause
+- Change → change
+- Closets → closets
+- Clouds → clouds
+- Comparison → comparison
+- Compassion → compassion
+- Condemnation → condemnation
+- Consequence → consequence
+- Considerations → considerations
+- Contrivance → contrivance
+- Corruptions → corruptions
+- Counsel → counsel
+- Creation → creation
+- Cries → cries
+- Cry → cry
+- Cultivations → cultivations
+- Damnation → damnation
+- Damned → damned
+- Defence → defence
+- Depth → depth
+- Desolation → desolation
+- Despair → despair
+- Determination → determination
+- Devils → devils
+- Difference → difference
+- Dispensation → dispensation
+- Disturbance → disturbance
+- Dominion → dominion
+- Door → door
+- Dreams → dreams
+- Duration → duration
+- Dust → dust
+- Ease → ease
+- East → east
+- Edge → edge
+- Effect → effect
+- Elect → elect
+- Election → election
+- Empire → empire
+- Encouragement → encouragement
+- Enmity → enmity
+- Evidence → evidence
+- Expressions → expressions
+- Extremity → extremity
+- Fact → fact
+- Families → families
+- Favour → favour
+- Feet → feet
+- Flame → flame
+- Flood → flood
+- Floor → floor
+- Followers → followers
+- Foolishness → foolishness
+- Forbearance → forbearance
+- Form → form
+- Fortress → fortress
+- Foundation → foundation
+- Garments → garments
+- Gate → gate
+- Gloom → gloom
+- Glory → glory
+- Goods → goods
+- Grapes → grapes
+- Gulf → gulf
+- Heaps → heaps
+- Hell's → hell's
+- IN → In
+- Increase → increase
+- Influence → influence
+- Inhabitants → inhabitants
+- Instant → instant
+- Instead → instead
+- It → it
+- Joy → joy
+- Judgment → judgment
+- King → king
+- Kingdom → kingdom
+- LORD → Lord
+- Lake → lake
+- Liableness → liableness
+- Lion → lion
+- Lions → lions
+- Lusts → lusts
+- Manifestation → manifestation
+- Manifestations → manifestations
+- Mankind → mankind
+- Meeting → meeting
+- Miracle → miracle
+- Mire → mire
+- Mitigation → mitigation
+- Mock → mock
+- Moderation → moderation
+- Monarch → monarch
+- Monarchs → monarchs
+- Morning → morning
+- Multitudes → multitudes
+- Noon → noon
+- North → north
+- Now → now
+- OMNIPOTENT → omnipotent
+- Objection → objection
+- Objects → objects
+- Old → old
+- One → one
+- Out → out
+- Outlet → outlet
+- Oven → oven
+- Parts → parts
+- Pass → pass
+- Peace → peace
+- Pieces → pieces
+- Pity → pity
+- Point → point
+- Possessions → possessions
+- Prayers → prayers
+- Pressure → pressure
+- Prey → prey
+- Probability → probability
+- Punishments → punishments
+- Purpose → purpose
+- Purposes → purposes
+- Quantities → quantities
+- Reach → reach
+- Rebuke → rebuke
+- Refuge → refuge
+- Restraint → restraint
+- Righteousness → righteousness
+- Rock → rock
+- Rocks → rocks
+- Root → root
+- Ruin → ruin
+- Rule → rule
+- Salvation → salvation
+- Scheme → scheme
+- Schemes → schemes
+- Seeds → seeds
+- Sense → sense
+- Service → service
+- Shadow → shadow
+- Shadows → shadows
+- Shrieks → shrieks
+- Sink → sink
+- Sleep → sleep
+- Sorrow → sorrow
+- South → south
+- Spectacle → spectacle
+- Spider → spider
+- Spider's → spider's
+- Spirit → spirit
+- Stage → stage
+- Storm → storm
+- Stream → stream
+- Streets → streets
+- String → string
+- Stubble → stubble
+- Suffering → suffering
+- Sufferings → sufferings
+- Summer → summer
+- Terribleness → terribleness
+- Terrors → terrors
+- That → that
+- The → the
+- Thief → thief
+- Thorns → thorns
+- Thousand → thousand
+- Thunder → thunder
+- Trees → trees
+- Understanding → understanding
+- Universe → universe
+- Vanities → vanities
+- Verse → verse
+- Verses → verses
+- Vessel → vessel
+- Vexation → vexation
+- Vitals → vitals
+- Voice → voice
+- Void → void
+- Want → want
+- Warning → warning
+- Waves → waves
+- Web → web
+- West → west
+- Wicked → wicked
+- Witness → witness
+- Worm → worm
+- Worms → worms
+- Wretch → wretch
+- Yea → yea
+- Years → years
+- Young → young
+- Youth → youth
+- every → Every
+- many → Many
+- my → My
+- new → New
+- why → Why
+- your → Your
+
+## spelling
+
+- meer → mere (×10)
+- can't → cannot (×5)
+- tho' → though (×5)
+- extream → extreme (×3)
+- GOD → God, (×2)
+- Oh → Oh, (×2)
+- extreamly → extremely (×2)
+- it's → its (×2)
+- rejoycing → rejoicing (×2)
+- that → that, (×2)
+- thither → there (×2)
+- 'tis → is
+- And → —And
+- Apostle's → apostles'
+- Ax → axe
+- Brimstone → brimstone,
+- But → But,
+- Carcasses → corpses
+- Case → case,
+- Design → design,
+- Destruction's → destruction
+- Earth → earth,
+- Evidence → evidence,
+- Expence → expense
+- Favour → favours
+- Foot's → foot
+- Grashoppers → grasshoppers
+- Ground → ground,
+- He → —He
+- House → house,
+- Houses → house
+- Laugh → "laugh
+- Load → lead
+- Majesty → majesty,
+- Manner → manner,
+- Meshech → Meshach
+- Mountain → mountains
+- People → peoples
+- Rebukes → rebuke
+- Roaring → roar
+- Then → then,
+- Things → thing
+- Tho' → Though
+- Vessel → vessel,
+- Worm → worms
+- afore → before
+- and → and,
+- assigns → assign
+- castedst → cast
+- continually → constantly
+- crushed → crushed,
+- currupt → corrupt
+- disproportion'd → disproportioned
+- does → do
+- doubtless → doubtless,
+- expected → expected,
+- express'd → expressed
+- feeble → feeble,
+- further → farther
+- hearken → harken
+- here → here,
+- heretofore → before
+- hinder'd → hindered
+- humane → human
+- implies → implies,
+- pass'd → passed
+- politick → politic
+- preceeding → preceding
+- religious → religious,
+- restrain'd → restrained
+- saying → saying,
+- sits → sit
+- spue → spew
+- stop'd → stopped
+- sudden → suddenly
+- suffer'd → suffered
+- their's → theirs
+- them → those
+- then → than
+- uncovenanted → uncovenanted,
+- wake → awake
+- were → were,
+- whenas → whereas
+- yea → Yes
+- you → you,
+

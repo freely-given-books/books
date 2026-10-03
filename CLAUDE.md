@@ -151,7 +151,9 @@ Print PDFs are checked against Lulu's interior rules as they are built
 (`scripts/tei/print_check.py`, measured on the rendered pages): nothing
 within 0.5in of the trim (running heads and page numbers included), and
 the inside margin Lulu's for the page count (0.625in for 61-150 pages, 1in
-for 151-400, 1.125in for 401-600). Template 0.5.3 puts the running head at
+for 151-400, 1.125in for 401-600). It also warns when a footnote's text is set on
+another page than its marker (Typst's widow control can carry the marker's
+line over after placing the note; a crowded page can push the note on). Template 0.5.3 puts the running head at
 0.5in (top margin 0.9in, bottom 0.6in); a book sets its inside margin in
 `page-margin`, and a cover's `pages:` must follow a page-count change.
 

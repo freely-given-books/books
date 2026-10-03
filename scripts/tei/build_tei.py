@@ -906,6 +906,31 @@ class UF:
         self.p[self.find(a)] = self.find(b)
 
 
+def run_cut_ops(mw, ow, run_lens):
+    """Opcodes matching the words of several runs (mw, run after run) with
+    one run (ow). When the same word could match in two runs ("in" in a
+    deleted epigraph and "IN" opening the paragraph after it), take the
+    reading that matches more words at the start of a run; on a tie, the
+    first (difflib's own)."""
+    starts, k = set(), 0
+    for n in run_lens:
+        starts.add(k)
+        k += n
+
+    def ops_for(a, b):
+        return difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes()
+
+    def score(ops):
+        eq = sum(i2 - i1 for op, i1, i2, _j1, _j2 in ops if op == "equal")
+        st = sum(1 for op, i1, _i2, j1, _j2 in ops if op == "equal" and i1 in starts and j1 == 0)
+        return eq, st
+    fwd = ops_for(mw, ow)
+    rev = ops_for(mw[::-1], ow[::-1])
+    n, m = len(mw), len(ow)
+    rev = [(op, n - i2, n - i1, m - j2, m - j1) for op, i1, i2, j1, j2 in reversed(rev)]
+    return rev if score(rev) > score(fwd) else fwd
+
+
 def split_marks(ops, src, tgt):
     """A changed stretch with block marks on both sides, more on one side
     (a paragraph the review deletes, then a printed "2." it makes an item):
@@ -986,8 +1011,7 @@ def align(src, tgt, report, label, owner=None):
                 flat = one[0]
                 mw = [e[0].lower() for run in many for e, _ in run]
                 ow = [e[0].lower() for e, _ in flat]
-                wm = difflib.SequenceMatcher(None, mw, ow, autojunk=False)
-                wops = wm.get_opcodes()
+                wops = run_cut_ops(mw, ow, [len(run) for run in many])
 
                 def cut(p):
                     for op, a1, a2, b1, b2 in wops:
@@ -1482,6 +1506,15 @@ def is_changed(t):
     return t.kind == "group" or (t.kind in ("word", "punct") and t.resp == "#editor")
 
 
+def between_blocks(x):
+    """Whitespace between two blocks (in a division, list ...), not inside
+    one: a run-on join there is the block's @rend, not a spacing choice."""
+    par = x.parent
+    return isinstance(par, View) or par is None or par.el is None or \
+        local(par.el) in ("div", "list", "body", "front", "back", "text", "group",
+                          "lg", "sp", "closer", "opener", "epigraph")
+
+
 def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
     """order: target indices in reading order with their block number,
     [(j, block)]; sp[j]: space before target word j in the review.
@@ -1528,6 +1561,12 @@ def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
         spaces = [x for x in between if x.kind == "space" or
                   (x.kind == "noise" and "".join(p for p in x.pieces if isinstance(p, str)).strip() == "")]
         want = sp[j2]
+        if not want:
+            # whitespace between two blocks is not removed here: a block run
+            # on without a space says so itself (@rend="run-on")
+            if spaces and all(between_blocks(x) for x in spaces):
+                continue
+            spaces = [x for x in spaces if not between_blocks(x)]
         # a reading may carry its own space (a spaced dash, DASH = " — ")
         padded = (a.kind in ("word", "punct") and (a.reg or "").endswith(" ")) or \
             (b.kind in ("word", "punct") and (b.reg or "").startswith(" "))
@@ -2214,6 +2253,22 @@ def apply_list_shape(log):
     merge_lists(log)            # the lists a paragraph stood between
 
 
+def first_words(ct, n):
+    """The first n word/punct tokens inside a container, in order."""
+    out = []
+
+    def walk(ts):
+        for t in ts:
+            if len(out) >= n:
+                return
+            if t.kind in ("word", "punct"):
+                out.append(t)
+            elif t.kind == "container" and local(t.el) != "note":
+                walk(t.children or [])
+    walk(ct.children)
+    return out
+
+
 def has_words(t):
     """Whether a token (or anything in a container) has text."""
     if t.kind in ("word", "punct"):
@@ -2355,6 +2410,14 @@ def restructure(splits, log):
             if kind in ("+", "-"):
                 item = new_container("item")
                 kids = ct.children
+                if not labels:
+                    # a printed numeral ("9.") the review took no words from:
+                    # the item's label, not text
+                    ws = first_words(ct, 2)
+                    if len(ws) == 2 and NUMERAL_RE.fullmatch(ws[0].orig or "") and \
+                            ws[1].orig in (".", ")") and not ws[0].extra.get("tidx") and \
+                            not ws[1].extra.get("tidx") and ws[0].reg in (None, ws[0].orig):
+                        labels = ws
                 if labels:
                     wrap_label(labels)
                     kids = ct.children
