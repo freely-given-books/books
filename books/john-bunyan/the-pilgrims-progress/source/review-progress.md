@@ -77,6 +77,6 @@ Branch `pilgrims-progress-review`, worktree
 Start reading Part II at chapters/typ/part-2/title.typ, then authors-way.typ,
 to-the-reader.typ, stage-01 .. stage-08 (read whole files; check suspects with
 scratchpad pp/w.py against CCEL `-c`; no 1678 witness for Part II). Helper for
-exact replacements: scratchpad pp/rep.py FILE PAIRS. NOTE: `./fgb sync pilgrim`
+exact replacements: scratchpad pp/rep.py FILE PAIRS. NOTE (resolved: Part I synced and checked OK, commit after cfd1245): `./fgb sync pilgrim`
 and `./fgb check pilgrim` have NOT been run yet on the Part I fixes; run them
 after the next batch. Then the global to-do list, build, report.
