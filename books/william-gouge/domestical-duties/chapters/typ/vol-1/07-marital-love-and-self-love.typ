@@ -218,7 +218,7 @@ The first particle #emph[(for)] showeth that in this verse an evidence and manif
 
 #emph[It is against the common instinct of nature for a man to hate] #footnote[Doctr.] #emph[himself.] It is noted as an evidence that devils were in the Gadarene, in that #emph[he cut himself with stones:] had not the devils #footnote[#emph[Mar.] 5. 5.] forced him, he would never have done it.
 
-Hatred is contrary to love: it being therefore before proved #footnote[Reason.] that every man by nature loveth himself, by necessary consequence it followeth, that no man hateth his flesh: for two contrary effects proceed not from the same cause: #emph[no fountain can yield both salt water and fresh.] #footnote[#emph[Iam.] 3. 12.]
+Hatred is contrary to love: it being therefore before proved #footnote[Reason.] that every man by nature loveth himself, by necessary consequence it followeth, that no man hateth his flesh: for two contrary effects proceed not from the same cause: #emph[no fountain can yield both salt water and fresh.] #footnote[#emph[Jam.] 3. 12.]
 
 #emph[Object.] Many do macerate their bodies with fastings, watchings, labours, travels, and the like: others tear and gash their flesh with whips, knives, swords, yea and with their teeth also: others lay such violent hands upon themselves, as they take away their own lives.
 

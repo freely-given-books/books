@@ -31,7 +31,8 @@ the TEI / review-report.md / volume files / covers before committing).
 - 04: DONE
 - word map (vol-2's 72 entries + mine, helper v1/wmap-applied.txt in scratchpad/v1) applied to all vol-1 files
 - 05: DONE (Pascha & Pentecoste, still-born, 1 Joh. 1. 8, ad elementum, Object. merged)
-- 06-12: NOT YET READ
+- 06: DONE (Reu. -> Rev. and Iam. -> Jam. done volume-wide)
+- 07-12: NOT YET READ
 - NOTE: scratchpad is shared with other agents; my helpers now live in scratchpad/v1/ (og.py, apply.py, orig/)
 
 ## Fixes so far (for the report)
@@ -83,6 +84,7 @@ the TEI / review-report.md / volume files / covers before committing).
   "Solomon's" while the book writes "Aarons, Sauls, Josephs, Jacobs": "The issue
   of Adam's, Aarons, Sauls" (01). Ask: drop the apostrophes from the table
   names, or leave.
+- V1-5: 06 heading "§. 44. Of the fruition of Christs presence in heaven" sits between §48 and §50 (1622 prints 44). Recommend §. 49.
 - Kept: "It is then unlawful to fear any but God?" (01, as printed).
 
 ## Variants to count at the end (vol-1)
@@ -92,7 +94,7 @@ dependance, every thing, your selves / it self, -eth doubled consonants.
 
 ## Next step
 
-Read 06 from the top, then 07-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
+Read 07 from the top, then 08-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
 files, commit WIP. Then sweep re-run, refs, ./fgb check, ./fgb pdf (check
 epigraph italics), pdftotext checks, write source/proofread-report-vol-1.md,
 final commit.
