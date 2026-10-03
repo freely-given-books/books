@@ -42,5 +42,20 @@
 - Latin misprints (impiun, seruorun, seruabaxtur, Conslit, di'igat, sea quo. libet, fine causa, revs, Deil.) left as printed per README.
 - Errata: check each of 8 against the text (p215 dissolution, 218 Have no direct, ibid marg viro, 268 fifth com., 297 fifth reason, 412 And also, 606 injustice, 629 Of one equal).
 
-## Next step
-Check errata pages (page.py), then apply fix list per file, sync/check, commit per file.
+## Errata (checked against TCP pages with scratchpad/bin/page.py) - NONE applied
+- p.215 l.25 "such dissolution" -> "such a dissolution" (vol 2, divorce/desertion section) - not applied.
+- p.218 l.28 "(for we have direct and strict warrant for it)" -> "have no direct" (vol 2, adultery/repentance) - not applied, sense-changing.
+- p.218 margin l.8 "viro": Chrys. note "Vir post fornicationem non est vir" -> probably "...viro"? unresolved.
+- p.268 l.25 "Honour which is required in the first commandement" -> "fifth com." (vol 2, Treat. 3 §2) - not applied.
+- p.297 l.6 "A fit reason may be taken" -> "A fifth reason" (vol 2, Treat. 3 §27) - not applied.
+- p.412 l.2 "both by their wives ... but also by their children" -> "and also" (vol 2, §60/61) - not applied.
+- p.606 l.9 "a point of justice and unlawful" -> "injustice" (VOL 4 ch03 §11) - not applied -> V4 question.
+- p.629 l.18 "Example and advice of ones equal" -> "of one equal" (VOL 4 ch04 §31) - not applied -> V4 question.
+- Also checked: ch10 "As God is the masters of servants" is printed so (-> "master"? small fix); "heaven i, higher" printed (fix -> is).
+
+## Next step (resume here)
+No edits applied yet. Apply the fix list above file by file (01..10) with exact replacements,
+then `./fgb sync gouge` + `./fgb check gouge`, `git checkout --` regenerated files (TEI, volume
+files, covers, review-report), commit vol-4 chapters + this file per file. Then build/pdf check
+(epigraph italics in ch2 §1, ch10 §46), variant-spelling table with counts, and write
+source/proofread-report-vol-4.md (V4-1.. questions from the draft above).
