@@ -29,6 +29,7 @@ Branch `pilgrims-progress-review`, worktree
 - [x] part-2 stage-05
 - [x] part-2 stage-06
 - [x] part-2 stage-07
+- [x] part-2 stage-08 (ALL TEXT READ)
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
 
@@ -73,6 +74,7 @@ Branch `pilgrims-progress-review`, worktree
 - II s6 (259-end): "said, from the house" -> "From"; "Mr. Mnason So" -> "Mnason. So". Variant: staid/stayed.
 - II s7: "very loth die" -> "loth to die"; "Let’s knew" -> "know"; "come in Mr. Ready-to-halt; Come in" -> commas/lowercase.
 - II s8 (to 90): "one ." spacing; "dangerous; And" -> "and". Variant: Apostacy (I) / Apostasy (II).
+- II s8 (90-end): "come weather" + ";"; "heart’s delight." -> "?"; "welltuned" -> "well-tuned"; "he said, since" -> "Since". NOT fixable in chapters/typ: Standfast speech split mid-sentence ("this my" / "great deliverance") because CCEL put the second half in a plain <p> after an <sp>; build_tei cannot merge a paragraph into a preceding speech (merge reverted to keep check OK) — pipeline issue for the user. All of Part II synced; check OK.
 
 ## To do globally (after reading)
 
@@ -101,4 +103,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Continue part-2/stage-08.typ from line 90. Then ./fgb sync pilgrim, ./fgb check pilgrim, global to-do, build, PDF checks, report.
+Global to-do: ref spacing/stops; hyphen-dash and "; [A-Z]" scans; variant table; then ./fgb build pilgrim, PDF quote/markup checks, write source/proofread-report.md, final commit.

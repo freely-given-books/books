@@ -107,7 +107,7 @@ Valiant-for-Truth: It was so. I believed, and therefore came out, got into the w
 #quote[“Who would true valor see, \
 Let him come hither; \
 One here will constant be, \
-Come wind, come weather \
+Come wind, come weather; \
 There’s no discouragement \
 Shall make him once relent \
 His first avow’d intent \
@@ -177,7 +177,7 @@ Mr. Honest: Doth she not speak very smoothly, and give you a smile at the end of
 
 Standfast: You fall right upon it again, for these are her very actions.
 
-Mr. Honest: Doth she not wear a great purse by her side, and is not her hand often in it, fingering her money, as if that was her heart’s delight.
+Mr. Honest: Doth she not wear a great purse by her side, and is not her hand often in it, fingering her money, as if that was her heart’s delight?
 
 Standfast: ’Tis just so; had she stood by all this while, you could not more amply have set her forth before me, nor have better described her features.
 
@@ -225,7 +225,7 @@ After him came Mr. Despondency and his daughter Much-afraid, to whom she said, Y
 
 Then she said to Mr. Feeble-mind, Thou wast delivered from the mouth of Giant Slay-good, that thou mightest live in the light of the living, and see thy King with comfort. Only I advise thee to repent of thine aptness to fear and doubt of his goodness, before he sends for thee; lest thou shouldst, when he comes, be forced to stand before him for that fault with blushing.
 
-Now the day drew on that Christiana must be gone. So the road was full of people to see her take her journey. But behold, all the banks beyond the river were full of horses and chariots, which were come down from above to accompany her to the city gate. So she came forth, and entered the river, with a beckon of farewell to those that followed her. The last words that she was heard to say were, I come, Lord, to be with thee and bless thee! So her children and friends returned to their place, for those that waited for Christiana had carried her out of their sight. So she went and called, and entered in at the gate with all the ceremonies of joy that her husband Christian had entered with before her. At her departure, the children wept. But Mr. Great-Heart and Mr. Valiant played upon the welltuned cymbal and harp for joy. So all departed to their respective places.
+Now the day drew on that Christiana must be gone. So the road was full of people to see her take her journey. But behold, all the banks beyond the river were full of horses and chariots, which were come down from above to accompany her to the city gate. So she came forth, and entered the river, with a beckon of farewell to those that followed her. The last words that she was heard to say were, I come, Lord, to be with thee and bless thee! So her children and friends returned to their place, for those that waited for Christiana had carried her out of their sight. So she went and called, and entered in at the gate with all the ceremonies of joy that her husband Christian had entered with before her. At her departure, the children wept. But Mr. Great-Heart and Mr. Valiant played upon the well-tuned cymbal and harp for joy. So all departed to their respective places.
 
 In process of time there came a post to the town again, and his business was with Mr. Ready-to-halt. So he inquired him out, and said, I am come from Him whom thou hast loved and followed, though upon crutches; and my message is to tell thee, that he expects thee at his table to sup with him in his kingdom, the next day after Easter; wherefore prepare thyself for this journey. Then he also gave him a token that he was a true messenger, saying, “I have broken thy golden bowl, and loosed thy silver cord.” Eccles. 12:6.
 
@@ -233,7 +233,7 @@ After this, Mr. Ready-to-halt called for his fellow-pilgrims, and told them, say
 
 Then he thanked Mr. Great-Heart for his conduct and kindness, and so addressed himself to his journey. When he came to the brink of the river, he said, Now I shall have no more need of these crutches, since yonder are chariots and horses for me to ride on. The last words he was heard to say were, Welcome life! So he went his way.
 
-After this, Mr. Feeble-mind had tidings brought him that the post sounded his horn at his chamber door. Then he came in, and told him, saying, I am come to tell thee that thy Master hath need of thee, and that in a very little time thou must behold his face in brightness. And take this as a token of the truth of my message: “Those that look out at the windows shall be darkened.” Eccles. 12:3. Then Mr. Feeble-mind called for his friends, and told them what errand had been brought unto him, and what token he had received of the truth of the message. Then he said, since I have nothing to bequeath to any, to what purpose should I make a will? As for my feeble mind, that I will leave behind me, for that I shall have no need of it in the place whither I go, nor is it worth bestowing upon the poorest pilgrims: wherefore, when I am gone, I desire that you, Mr. Valiant, would bury it in a dunghill. This done, and the day being come on which he was to depart, he entered the river as the rest. His last words were, Hold out, faith and patience! So he went over to the other side.
+After this, Mr. Feeble-mind had tidings brought him that the post sounded his horn at his chamber door. Then he came in, and told him, saying, I am come to tell thee that thy Master hath need of thee, and that in a very little time thou must behold his face in brightness. And take this as a token of the truth of my message: “Those that look out at the windows shall be darkened.” Eccles. 12:3. Then Mr. Feeble-mind called for his friends, and told them what errand had been brought unto him, and what token he had received of the truth of the message. Then he said, Since I have nothing to bequeath to any, to what purpose should I make a will? As for my feeble mind, that I will leave behind me, for that I shall have no need of it in the place whither I go, nor is it worth bestowing upon the poorest pilgrims: wherefore, when I am gone, I desire that you, Mr. Valiant, would bury it in a dunghill. This done, and the day being come on which he was to depart, he entered the river as the rest. His last words were, Hold out, faith and patience! So he went over to the other side.
 
 When days had many of them passed away, Mr. Despondency was sent for; for a post was come, and brought this message to him: Trembling man! these are to summon thee to be ready with the King by the next Lord’s day, to shout for joy for thy deliverance from all thy doubtings. And, said the messenger, that my message is true, take this for a proof: so he gave him a grasshopper to be a burden unto him. Ecclesiastes 12:5.
 

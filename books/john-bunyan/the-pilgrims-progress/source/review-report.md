@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 40 |
-| case | 18 |
-| punctuation | 15 |
-| spelling | 11 |
-| spacing | 8 |
+| emendation | 45 |
+| case | 38 |
+| punctuation | 26 |
+| spelling | 25 |
+| spacing | 10 |
 | split | 1 |
 | merge | 1 |
 
@@ -41,15 +41,20 @@
 - [part-2/stage-02.typ] ‘ T is → ’Tis
 - [part-2/stage-02.typ] ‘ t is → ’tis
 - [part-2/stage-03.typ] ‘ twas → ’twas
+- [part-2/stage-03.typ] when → 
 - [part-2/stage-03.typ] ‘ Tis → ’Tis
+- [part-2/stage-05.typ] come → come to
+- [part-2/stage-05.typ] 36 → 35
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
+- [part-2/stage-06.typ] loss → loss of
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] ‘ Twas → ’Twas
 - [part-2/stage-06.typ] ‘ t would → ’twould
 - [part-2/stage-06.typ] ‘ T is → ’Tis
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
+- [part-2/stage-07.typ] loth → loth to
 - [part-2/stage-08.typ] ‘ Tis → ’Tis
 - [part-2/stage-08.typ] ‘ tis → ’tis
 - [part-2/stage-08.typ] ‘ t is → ’tis
@@ -74,39 +79,78 @@
 - [part-1/stage-09.typ] - → —
 - [part-1/stage-09.typ] - → —
 - [part-1/stage-10.typ] , → 
+- [part-2/to-the-reader.typ] , → 
+- [part-2/to-the-reader.typ] . → .”
+- [part-2/stage-02.typ] , → ;
+- [part-2/stage-02.typ] . → ?
+- [part-2/stage-02.typ] , → 
+- [part-2/stage-04.typ] . → .”
+- [part-2/stage-05.typ] - → —
+- [part-2/stage-06.typ] - → —
+- [part-2/stage-06.typ] , → 
+- [part-2/stage-06.typ] , → 
+- [part-2/stage-08.typ] . → ?
 
 ## case
 
-- And → and
-- But → but
+- answer → Answer (×4)
+- But → but (×3)
+- And → and (×2)
+- A → a
+- Are → are
 - Candle → candle
+- Come → come
 - Conscience → conscience
+- For → for
 - God → god
+- Head → head
 - So → so
 - They → they
 - blessed → Blessed
 - blessing → Blessing
 - christian’s → Christian’s
 - enter → Enter
+- from → From
+- good → Good
+- had → Had
+- if → If
 - it → It
 - lamb → Lamb
 - let → Let
 - lord → Lord
+- objection → Objection
+- since → Since
+- stand → Stand
 - they → They
+- what → What
 - wherein → Wherein
 - you → You
 
 ## spelling
 
+- Christana → Christiana
+- Mnason → Mnason.
+- The → “The
 - action’s → actions’
+- come → came
 - conviction → convictions
 - down → down;
+- find → fine
 - fleshy → fleshly
+- in → in,
+- knew → know
 - land → land,
+- made → make
 - of’ → of
+- pilgrims → pilgrims’
+- pilgrim’s → pilgrims
 - scouged → scourged
 - similtudes → similitudes
 - straight → strait
 - sufferet → suffered
+- sure → sure,
+- thought → thought,
 - understand → understand:
+- weather → weather;
+- welltuned → well-tuned
 
