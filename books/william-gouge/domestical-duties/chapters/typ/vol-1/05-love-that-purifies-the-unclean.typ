@@ -89,7 +89,9 @@ One of the means which Christ useth for the cleansing and sanctifying of his Chu
 
 This #emph[washing of water] here mentioned, being applied to an inward spiritual cleansing, what can it else set forth but the Sacrament of Baptism, wherein both #emph[water] and #emph[washing] is used?
 
-#emph[Object.] There is but little washing used in the Sacrament of Baptism, nothing but sprinkling a little water on the face of the party that is baptized.
+#strong[Object.]
+
+There is but little washing used in the Sacrament of Baptism, nothing but sprinkling a little water on the face of the party that is baptized.
 
 #emph[Answ.] That sprinkling is sufficient to show the use of water. #footnote[Why water in baptism is but sprinkled.] The party to be baptized is not brought to the Font to have his face, or any other part of his body made clean, but to have assurance of the inward cleansing of his soul. Now that our minds may not too much dote on the outward thing done, but be wholly raised up to the mystery, the outward element is no further used, then may serve to put us in mind of the inward thing signified thereby: answerably in the Lords Supper there is not so much bread and wine given and received, as would satisfy ones appetite, or slake his hunger and quench his thirst, but only a little bit of bread, and taste of wine, to declare the use of bread and wine, and so to draw the minds of the Communicants to a consideration of their spiritual nourishment by the body and blood of Jesus Christ.
 

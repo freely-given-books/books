@@ -32,7 +32,9 @@ the TEI / review-report.md / volume files / covers before committing).
 - word map (vol-2's 72 entries + mine, helper v1/wmap-applied.txt in scratchpad/v1) applied to all vol-1 files
 - 05: DONE (Pascha & Pentecoste, still-born, 1 Joh. 1. 8, ad elementum, Object. merged)
 - 06: DONE (Reu. -> Rev. and Iam. -> Jam. done volume-wide)
-- 07-12: NOT YET READ
+- 07: DONE
+- 08-12: NOT YET READ
+- Round-trip check: extract reg from worktree TEI to scratchpad/v1/rt and diff with chapters/typ/vol-1 (only the 2 pre-existing layout lines in 03 differ). A run-in '#strong[Object.]' head cannot be merged into its paragraph (reverted in 05); nested '+' sub-items do not round-trip (reverted in 07).
 - NOTE: scratchpad is shared with other agents; my helpers now live in scratchpad/v1/ (og.py, apply.py, orig/)
 
 ## Fixes so far (for the report)
@@ -85,6 +87,7 @@ the TEI / review-report.md / volume files / covers before committing).
   of Adam's, Aarons, Sauls" (01). Ask: drop the apostrophes from the table
   names, or leave.
 - V1-5: 06 heading "§. 44. Of the fruition of Christs presence in heaven" sits between §48 and §50 (1622 prints 44). Recommend §. 49.
+- V1-6: 07 §56 brace list '1. Negatively 2. Affirmatively, and that in two branches 3. Nourisheth 4. Cherisheth it.' prints as one 4-item list; Nourisheth/Cherisheth are branches of item 2. Nested items do not survive sync (pipeline). Recommend: '+ Affirmatively, and that in two branches, #emph[Nourisheth] and #emph[Cherisheth] it.' or a pipeline fix.
 - Kept: "It is then unlawful to fear any but God?" (01, as printed).
 
 ## Variants to count at the end (vol-1)
@@ -94,7 +97,7 @@ dependance, every thing, your selves / it self, -eth doubled consonants.
 
 ## Next step
 
-Read 07 from the top, then 08-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
+Read 08 from the top, then 09-12; after each file: apply edits, ./fgb sync gouge, restore regenerated
 files, commit WIP. Then sweep re-run, refs, ./fgb check, ./fgb pdf (check
 epigraph italics), pdftotext checks, write source/proofread-report-vol-1.md,
 final commit.
