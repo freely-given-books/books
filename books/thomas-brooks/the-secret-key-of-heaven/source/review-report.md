@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4988 |
-| case | 3775 |
-| emendation | 3770 |
-| spelling | 2428 |
+| punctuation | 4986 |
+| case | 3778 |
+| emendation | 3769 |
+| spelling | 2426 |
 | italic | 1946 |
 | spacing | 1839 |
 | note | 403 |
@@ -464,7 +464,7 @@
 - [argument-02.typ] our selves → ourselves
 - [argument-02.typ] ; and happy → . Happy
 - [argument-02.typ] Fifthly → Answer 5. Fifthly
-- [argument-02.typ] Priest → Priest (Heb 2:17; John 17)
+- [argument-02.typ] Priest → Priest (Heb 2:17; Joh 17)
 - [argument-02.typ] viz → 
 - [argument-02.typ] Sixthly → Answer 6. Sixthly
 - [argument-03.typ] Consider , → consider
@@ -971,7 +971,6 @@
 - [argument-12.typ] bedchamber → bedchamber (2Ki 6:12)
 - [argument-12.typ] O → Oh,
 - [argument-12.typ] him , who → Him Who
-- [argument-12.typ] his → our
 - [argument-12.typ] & c → etc
 - [argument-12.typ] But , → 
 - [argument-13.typ] Thirdly , → 
@@ -3989,7 +3988,7 @@
 - [chapter-02.typ] ) → 
 - [chapter-02.typ] , → :
 - [chapter-02.typ] , → 
-- [chapter-02.typ] . → 
+- [chapter-02.typ] . → th
 - [chapter-02.typ] , → 
 - [chapter-02.typ] . → 
 - [chapter-02.typ] , → 
@@ -4211,7 +4210,6 @@
 - [argument-01.typ] , → 
 - [argument-01.typ] . → . “
 - [argument-01.typ] , → ,”
-- [argument-01.typ] . → 
 - [argument-01.typ] , → !
 - [argument-01.typ] : → .
 - [argument-01.typ] , → :
@@ -4261,7 +4259,7 @@
 - [argument-01.typ] ( → ,
 - [argument-01.typ] , → 
 - [argument-01.typ] ) → ,
-- [argument-01.typ] , → . “
+- [argument-01.typ] , → , “
 - [argument-01.typ] , → .
 - [argument-02.typ] , → .
 - [argument-02.typ] . → :
@@ -4300,7 +4298,6 @@
 - [argument-02.typ] , → 
 - [argument-02.typ] ; → .
 - [argument-02.typ] , → 
-- [argument-02.typ] . → ;
 - [argument-02.typ] . → :
 - [argument-02.typ] , → 
 - [argument-02.typ] . → :
@@ -8964,8 +8961,8 @@
 
 ## case
 
-- his → His (×341)
-- he → He (×190)
+- his → His (×342)
+- he → He (×191)
 - and → And (×76)
 - Communion → communion (×75)
 - him → Him (×66)
@@ -9034,7 +9031,6 @@
 - Emperor → emperor (×9)
 - If → if (×9)
 - Prophet → prophet (×9)
-- So → so (×9)
 - White → white (×9)
 - for → For (×9)
 - who → Who (×9)
@@ -9046,6 +9042,7 @@
 - Mediator → mediator (×8)
 - Righteousness → righteousness (×8)
 - Silver → silver (×8)
+- So → so (×8)
 - Stone → stone (×8)
 - Take → take (×8)
 - Text → text (×8)
@@ -9077,6 +9074,7 @@
 - Bed → bed (×6)
 - Covenant → covenant (×6)
 - Door → door (×6)
+- Friends → friends (×6)
 - Grace → grace (×6)
 - Gracious → gracious (×6)
 - Holiness → holiness (×6)
@@ -9097,7 +9095,6 @@
 - Courts → courts (×5)
 - Faith → faith (×5)
 - For → for (×5)
-- Friends → friends (×5)
 - Garden → garden (×5)
 - Heathens → heathens (×5)
 - House → house (×5)
@@ -9162,6 +9159,7 @@
 - did → Did (×4)
 - every → Every (×4)
 - so → So (×4)
+- thou → Thou (×4)
 - what → What (×4)
 - witness → Witness (×4)
 - Adoption → adoption (×3)
@@ -9229,7 +9227,6 @@
 - take → Take (×3)
 - their → Their (×3)
 - this → This (×3)
-- thou → Thou (×3)
 - though → Though (×3)
 - why → Why (×3)
 - Adulterer → adulterer (×2)
@@ -10241,7 +10238,6 @@
 - 23 → 23)
 - 24 → 24)
 - 25 → 25)
-- 25th → 25
 - 29 → 29)
 - 31 → 31)
 - 32 → 32)
@@ -10363,7 +10359,6 @@
 - Fidler → fiddler
 - Fishes → fish’s
 - Frensy → frenzy
-- Friends → friend
 - Friends → friends,
 - Gabriel → Gabriel,
 - Gallio's → Gallios
@@ -11049,7 +11044,7 @@
 - sleep → sleep,
 - sleeping → sleeping,
 - sleepy → sleepy,
-- slight → flight
+- slight → sleight
 - slipt → slipped
 - sloath → sloth
 - slow → slow-
