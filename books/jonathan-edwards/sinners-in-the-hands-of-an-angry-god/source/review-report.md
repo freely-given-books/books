@@ -8,9 +8,9 @@
 | kind | count |
 | --- | --- |
 | case | 1162 |
-| emendation | 358 |
-| punctuation | 163 |
-| spelling | 111 |
+| emendation | 352 |
+| punctuation | 160 |
+| spelling | 110 |
 | italic | 75 |
 | spacing | 63 |
 | split | 18 |
@@ -56,10 +56,7 @@
 
 ## emendation
 
-- [sermon.typ note] The → a
-- [sermon.typ note] next → town
-- [sermon.typ note] neighbour → in
-- [sermon.typ note] Town → the
+- [sermon.typ note] The next neighbour Town . → the neighbouring town
 - [sermon.typ] DEUT → 
 - [sermon.typ] XXXII → 
 - [sermon.typ] 35 → 
@@ -116,14 +113,11 @@
 - [sermon.typ] 'tis → it is
 - [sermon.typ] don't → do not
 - [sermon.typ] Righteousness , → righteousness
-- [sermon.typ] iii → 3:18 "Whoever believes in Him is not condemned
-- [sermon.typ] 18 → 
-- [sermon.typ] He → 
-- [sermon.typ] that → 
-- [sermon.typ] believeth → 
-- [sermon.typ] not → 
-- [sermon.typ] is → 
-- [sermon.typ] condemned → 
+- [sermon.typ] iii → 3
+- [sermon.typ] He → "
+- [sermon.typ] that → Whoever
+- [sermon.typ] believeth → does
+- [sermon.typ] is → believe has already been
 - [sermon.typ] already → 
 - [sermon.typ] viii → 8
 - [sermon.typ] beneath : → below."
@@ -266,7 +260,7 @@
 - [sermon.typ] Deeds , accordingly he will repay Fury → deeds: fury
 - [sermon.typ] Adversaries → enemies
 - [sermon.typ] Isai . Lxvi , → Isaiah 66:
-- [sermon.typ] Fire , and with Chariots , → fire — His chariots are
+- [sermon.typ] Fire , and with Chariots , → fire—His chariots are
 - [sermon.typ] render → execute
 - [sermon.typ] Fury , → fury
 - [sermon.typ] so → 
@@ -370,7 +364,7 @@
 - [sermon.typ] 〈◊〉 We → If we
 - [sermon.typ] and → 
 - [sermon.typ] To - morrow Morning → tomorrow morning
-- [sermon.typ] Your Damnation don't → your damnation does not
+- [sermon.typ] Damnation don't → damnation does not
 - [sermon.typ] 'tis → It is
 - [sermon.typ] that heretofore → whom
 - [sermon.typ] heretofore , → previously
@@ -430,7 +424,6 @@
 
 ## punctuation
 
-- [sermon.typ note] . → area
 - [sermon.typ] . → 
 - [sermon.typ] . → 
 - [sermon.typ] . → 
@@ -464,8 +457,8 @@
 - [sermon.typ] . → Luke
 - [sermon.typ] . → :
 - [sermon.typ] ; → ,
-- [sermon.typ] . → 
-- [sermon.typ] . → "
+- [sermon.typ] . → :
+- [sermon.typ] . → ."
 - [sermon.typ] . → ,
 - [sermon.typ] . → :
 - [sermon.typ] ▪ → .
@@ -477,7 +470,6 @@
 - [sermon.typ] : → .
 - [sermon.typ] . → ah
 - [sermon.typ] . → 57:
-- [sermon.typ] ; → "
 - [sermon.typ] , → 
 - [sermon.typ] ▪ → .
 - [sermon.typ] ; → :
@@ -577,7 +569,6 @@
 - [sermon.typ] , → 
 - [sermon.typ] , → 
 - [sermon.typ] , → , even
-- [sermon.typ] , → 
 - [sermon.typ] ▪ → .
 - [sermon.typ] , → 
 - [sermon.typ] : → .
@@ -1057,8 +1048,7 @@
 - expected → expected,
 - express'd → expressed
 - feeble → feeble,
-- further → farther
-- hearken → harken
+- further → farther"
 - here → here,
 - heretofore → before
 - hinder'd → hindered

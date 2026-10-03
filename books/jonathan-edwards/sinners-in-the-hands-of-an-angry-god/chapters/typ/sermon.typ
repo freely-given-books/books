@@ -63,8 +63,8 @@ The truth of this observation may appear by the following considerations.
 + They are already under a sentence of condemnation to hell. They do not only justly
   deserve to be cast down there, but the sentence of the law of God, that eternal and
   immutable rule of righteousness that God has fixed between him and mankind, is gone out
-  against them, and stands against them; so that they are bound over already to hell. John 3:18
-  "Whoever believes in Him is not condemned." So that every unconverted man properly
+  against them, and stands against them; so that they are bound over already to hell. John 3:18.
+  "Whoever does not believe has already been condemned." So that every unconverted man properly
   belongs to hell; that is his place; from thence he is, John 8:23. "You are from below."
   And there he is bound; it is the place that justice, and God's word, and the sentence of his
   unchangeable law assign to him.
@@ -103,7 +103,7 @@ The truth of this observation may appear by the following considerations.
   damned souls, and would beget the same torments as they do in them. The souls of the
   wicked are in scripture compared to the troubled sea, Isaiah 57:20. For the present, God
   restrains their wickedness by his mighty power, as he does the raging waves of the troubled
-  sea, saying, "You may come this far, but no farther" but if God should withdraw that
+  sea, saying, "You may come this far, but no farther"; but if God should withdraw that
   restraining power, it would soon carry all before it. Sin is the ruin and misery of the soul; it is
   destructive in its nature; and if God should leave it without restraint, there would need nothing
   else to make the soul perfectly miserable. The corruption of the heart of man is immoderate
@@ -303,7 +303,7 @@ that you are in such danger of:
 
 + It is the fierceness of his wrath that you are exposed to. We often read of the fury of God;
   as in Isaiah 59:18. "So He will repay according to their deeds: fury to His enemies."
-  So Isaiah 66:15. "For behold, the LORD will come with fire — His chariots are like a whirlwind —
+  So Isaiah 66:15. "For behold, the LORD will come with fire—His chariots are like a whirlwind—
   to execute His anger with fury and His rebuke with flames of fire."
   And in many other places. So, Revelation 19:15 (KJV), we read of "the wine press of the fierceness and
   wrath of Almighty God." The words are exceeding terrible. If it had only been said, "the
@@ -415,7 +415,7 @@ wonder, if some that are now present should not be in hell in a very short time,
 this year is out. And it would be no wonder if some persons, that now sit here, in some seats
 of this meeting-house, in health, quiet and secure, should be there before tomorrow
 morning. Those of you that finally continue in a natural condition, that shall keep out of hell
-longest will be there in a little time! your damnation does not slumber; it will come swiftly,
+longest, will be there in a little time! Your damnation does not slumber; it will come swiftly,
 and, in all probability, very suddenly upon many of you. You have reason to wonder that you
 are not already in hell. It is doubtless the case of some whom you have seen and known, that
 never deserved hell more than you, and that previously appeared as likely to have been now
@@ -437,7 +437,7 @@ of the glory of God. How awful is it to be left behind at such a day! To see so 
 feasting, while you are pining and perishing! To see so many rejoicing and singing for joy of
 heart, while you have cause to mourn for sorrow of heart, and howl for vexation of spirit!
 How can you rest one moment in such a condition? Are not your souls as precious as the
-souls of the people at Suffield#footnote[a town in the area], where they are flocking from day to day to Christ?
+souls of the people at Suffield#footnote[the neighbouring town], where they are flocking from day to day to Christ?
 ]
 
 Are there not many here who have lived long in the world, and are not to this day born
@@ -458,7 +458,7 @@ you be content to be the children of the devil, when so many other children in t
 converted, and are become the holy and happy children of the King of kings?
 
 And let every one that is yet out of Christ, and hanging over the pit of hell, whether they be
-old men and women, or middle aged, or young people, or little children, now harken to the
+old men and women, or middle aged, or young people, or little children, now hearken to the
 loud calls of God's word and providence. This acceptable year of the Lord, a day of such
 great favours to some, will doubtless be a day of as remarkable vengeance to others. Men's
 hearts harden, and their guilt increases apace at such a day as this, if they neglect their souls;
