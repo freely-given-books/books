@@ -20,7 +20,7 @@ The hearts of the children of Israel had grown hard as an adamant stone. Luther 
 Hath been subdued in me;
 The wildest will that ever rose
 To scorn Thy cause and aid Thy foes
-Is quell’d my Lord, by Thee.
+Is quell’d, my Lord, by Thee.
 Thy will, and not my will be done,
 My heart be ever Thine;
 Confessing Thee the mighty Word,

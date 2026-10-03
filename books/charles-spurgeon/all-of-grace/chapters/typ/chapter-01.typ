@@ -4,7 +4,7 @@ HE WHO SPOKE and wrote this message will be greatly disappointed if it does not 
 
 Who knows how many will find their way to peace by what they read here? A more important question to you, dear reader, is this — Will you be one of them?
 
-A certain man placed a fountain by the wayside, and he hung up a cup near to it by a little chain. He was told some time after that a great art-critic had found much fault with its design. “But,” said he, “do many thirsty persons drink at it?” Then they told him that thousands of poor people, men, women, and children, slaked their thirst at this fountain; and he smiled and said, that he was little troubled by the critic’s observation, only he hoped that on some sultry summer’s day the critic himself might fill the cup, and he refreshed, and praise the name of the Lord.
+A certain man placed a fountain by the wayside, and he hung up a cup near to it by a little chain. He was told some time after that a great art-critic had found much fault with its design. “But,” said he, “do many thirsty persons drink at it?” Then they told him that thousands of poor people, men, women, and children, slaked their thirst at this fountain; and he smiled and said, that he was little troubled by the critic’s observation, only he hoped that on some sultry summer’s day the critic himself might fill the cup, and be refreshed, and praise the name of the Lord.
 
 Here is my fountain, and here is my cup: find fault if you please; but do drink of the water of life. I only care for this. I had rather bless the soul of the poorest crossing-sweeper, or rag-gatherer, than please a prince of the blood, and fail to convert him to God.
 

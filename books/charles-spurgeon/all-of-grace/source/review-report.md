@@ -6,15 +6,16 @@
 
 | kind | count |
 | --- | --- |
-| case | 48 |
-| spelling | 46 |
+| case | 50 |
+| spelling | 50 |
 | merge | 19 |
 | quotation | 14 |
-| spacing | 12 |
-| emendation | 5 |
+| spacing | 11 |
+| emendation | 7 |
+| punctuation | 6 |
 | italic | 5 |
 | split | 4 |
-| punctuation | 1 |
+| grammar | 1 |
 
 ## split
 
@@ -25,15 +26,26 @@
 
 ## emendation
 
+- [chapter-01.typ] he → be
 - [chapter-05.typ] you → 
 - [chapter-06.typ] if → it
 - [chapter-08.typ] is → in
+- [chapter-11.typ] l → I
 - [chapter-17.typ] Cor . → Corinthians
 - [chapter-19.typ] Cor . → Corinthians
+
+## grammar
+
+- YE → “YE
 
 ## punctuation
 
 - [chapter-03.typ] " → ”
+- [chapter-06.typ] . → 
+- [chapter-08.typ] , → ,”
+- [chapter-09.typ] . → ?
+- [chapter-11.typ] , → .
+- [chapter-18.typ] , → , “
 
 ## case
 
@@ -49,9 +61,11 @@
 - Christ → CHRIST
 - Forgiveness → FORGIVENESS
 - He → HE
+- Of → of
 - Reader → READER
 - Redeemer → REDEEMER
 - Sins → SINS
+- Sir → sir
 - You → YOU
 - away → AWAY
 - believe → BELIEVE
@@ -80,6 +94,7 @@
 - Endeavour → Endeavor (×2)
 - marvellous → marvelous (×2)
 - Ay → Aye
+- Come → Come,
 - Saviour’s → Savior’s
 - axe → ax
 - counsellor → counselor
@@ -88,5 +103,8 @@
 - mutrition → nutrition
 - offences → offenses
 - pretence → pretense
+- quell’d → quell’d,
+- sir → sir,
 - wordly → worldly
+- ‘Twas → ’Twas
 
