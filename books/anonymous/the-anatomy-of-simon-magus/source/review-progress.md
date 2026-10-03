@@ -42,7 +42,7 @@ The 44 fixes are synced. `./fgb check simon` is OK (8/8; chapter-08.typ was
 replaced by its extraction, which renders the same: the Cyprian italic is now split
 across two `#emph` calls). Committed as WIP.
 
-## Next step
+## Next step (done 2026-10-03: build OK, report written, final commit)
 1. `./fgb build simon` (Lulu checks, epubcheck), then search the pdftotext output for
    `,‘ `, `‘ `, `’’`, `#emph`, `\[`.
 2. Write source/proofread-report.md in the shape of Grace Abounding's report, using
