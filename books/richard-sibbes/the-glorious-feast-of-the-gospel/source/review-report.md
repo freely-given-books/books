@@ -7,15 +7,15 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2281 |
-| case | 1762 |
+| punctuation | 2280 |
+| case | 1761 |
 | spelling | 1688 |
-| emendation | 801 |
+| emendation | 800 |
 | italic | 583 |
 | note | 385 |
-| spacing | 198 |
+| spacing | 197 |
 | split | 68 |
-| grammar | 53 |
+| grammar | 52 |
 | merge | 30 |
 | list | 22 |
 | quotation | 15 |
@@ -684,7 +684,6 @@
 - [chapter7.typ] it self → itself
 - [chapter7.typ] lye , → lie
 - [chapter7.typ] it self → itself
-- [chapter7.typ] lye → be
 - [chapter7.typ] its → it is
 - [chapter7.typ] it self → itself
 - [chapter7.typ] But → Quest. But
@@ -705,10 +704,10 @@
 - [chapter7.typ] so → so; and
 - [chapter7.typ] and → 4,
 - [chapter7.typ] Emaus → Emmaus, Luke 24:32
-- [chapter7.typ] , 7 , 8 , → —
+- [chapter7.typ] , 7 , 8 , → -
 - [chapter7.typ] . There → :31, there
 - [chapter7.typ] God → , 'God
-- [chapter7.typ] Gods Ministers → God’s ministers,' 1 Corinthians 4:25
+- [chapter7.typ] Gods Ministers → God’s ministers,' 1 Corinthians 14:25
 - [chapter7.typ] it self ? And → itself, and
 - [chapter7.typ] it self . → itself?
 - [chapter7.typ] it self → itself
@@ -925,7 +924,6 @@
 - earnest → 'earnest
 - envyeth → envieth
 - explaneth → explaineth
-- fitteth → filleth
 - gloryeth → glorieth
 - hath → 'hath
 - hath → has
@@ -2633,11 +2631,10 @@
 - [chapter7.typ] : → .
 - [chapter7.typ] ; → ,
 - [chapter7.typ] : → .
-- [chapter7.typ] . → 
 - [chapter7.typ] , → ;
 - [chapter7.typ] ▪ → 
 - [chapter7.typ] . → ?
-- [chapter7.typ] , → ,' Hebrews 15:12;
+- [chapter7.typ] , → ,' Hebrews 4:12;
 - [chapter7.typ] ▪ → ,
 - [chapter7.typ] : → .
 - [chapter7.typ] . → ;
@@ -3235,7 +3232,7 @@
 - Church → church (×119)
 - Feast → feast (×91)
 - he → He (×87)
-- the → The (×45)
+- the → The (×44)
 - we → We (×43)
 - it → It (×40)
 - there → There (×32)
@@ -3709,6 +3706,7 @@
 - and → 'and (×6)
 - he → 'he (×6)
 - is → is, (×6)
+- lye → lie (×6)
 - mans → man’s (×6)
 - mens → men’s (×6)
 - somthing → something (×6)
@@ -3724,7 +3722,6 @@
 - here → here, (×5)
 - it → it, (×5)
 - long → long- (×5)
-- lye → lie (×5)
 - pitty → pity (×5)
 - soul → soul, (×5)
 - stomack → stomach (×5)
@@ -4077,7 +4074,6 @@
 - affraid → afraid
 - all → all:
 - an → 'an
-- and → and-
 - annex'd → annexed
 - applyed → applied
 - apprehension → apprehension,
