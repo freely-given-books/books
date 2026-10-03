@@ -17,6 +17,4 @@ Scratch (not in git): `$SP=/tmp/claude-1000/-home-courtney-Projects-fgbooks-book
 - Remaining wrong-verse references -> questions (see report draft below).
 
 ## Next step
-Emendation scan DONE (overmuch fixed). Consistency table DONE (questions). refs rerun: 0 missing.
-consistency table; refs.py rerun; ./fgb build sibbes; pdftotext checks; write
-source/proofread-report.md; final commit; handback.
+DONE: build OK (198 pp, epubcheck 0/0), PDF checks clean, proofread-report.md written, final commit made. Only the user decisions in proofread-report.md remain.
