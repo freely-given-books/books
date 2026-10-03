@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-09: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
-- NEXT STEP: read 10 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-10: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 11 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -176,6 +176,15 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - joynter -> jointure
 - indow -> endow
 - yoak -> yoke
+- intitled -> entitled
+- intituling -> entitling
+- relinquisht -> relinquished
+- imploiment -> employment
+- childes -> childs
+- journying -> journeying
+- president -> precedent
+- pilfring -> pilfering
+- deere -> dear
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -353,3 +362,16 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 09: `Fitzherb. Nat. breutum fol.` -> `Fitzherb. Nat. breuium fol.` (latin)
 - 09: `husbands body, #footnote[#emph[Cor.] 7. 4.]` -> `husbands body, #footnote[1 #emph[Cor.] 7. 4.]` (ref)
 - 09: `of his particualar free donation` -> `of his particular free donation` (misprint)
+- 10: `#footnote[§ 22.] ordinary duty` -> `#footnote[§. 22.] ordinary duty` (punct)
+- 10: `#footnote[#emph[Luke] 11. 41..]` -> `#footnote[#emph[Luke] 11. 41.]` (punct)
+- 10: `repentance of #emph[Ahab,] 1. #emph[King.] 21. 29.` -> `repentance of #emph[Ahab,] 1 #emph[King.] 21. 29.` (ref)
+- 10: `#footnote[#emph[Matth.] 1. 6..]` -> `#footnote[#emph[Matth.] 1. 6.]` (punct)
+- 10: `#footnote[#emph[Matth.] 10. 3..]` -> `#footnote[#emph[Matth.] 10. 3.]` (punct)
+- 10: `if possiby she can` -> `if possibly she can` (misprint)
+- 10: `#footnote[Treat 4. §. 18.] #emph[subjection to her husband about child` -> `#footnote[Treat. 4. §. 18.] #emph[subjection to her husband about chil` (punct)
+- 10: `#footnote[#emph[Vers] 22.]` -> `#footnote[#emph[Vers.] 22.]` (ref)
+- 10: `#emph[Annahs carrying a little coat to]` -> `#emph[Hannahs carrying a little coat to]` (name)
+- 10: `communibus side viri licentia` -> `communibus sine viri licentia` (latin)
+- 10: `#footnote[#emph[Uers.] 23.]` -> `#footnote[#emph[Vers.] 23.]` (ref)
+- 10: `the things which herequireth.` -> `the things which he requireth.` (glued)
+- 10: `#strong[Object.] (own paragraph) What if husbands...` -> `#emph[Object.] What if husbands... (one paragraph)` (layout)

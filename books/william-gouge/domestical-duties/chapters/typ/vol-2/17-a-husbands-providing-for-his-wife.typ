@@ -145,7 +145,7 @@ In regard of that #emph[protection] which an husband oweth his wife, he is calle
 
 But most pertinent to this purpose is the title, #footnote[Treat. 1. §. 15. and treat. 3. §. 73.] #emph[Saviour,] given to an husband in relation to his wife.
 
-For this end the Lord who subjected a woman unto her husband, gave to his sex greater strength, courage and boldness then to hers, that he might protect her which is the #emph[weaker vessel.] In this duty of #emph[protection] Christ showeth himself an excellent pattern and president unto husbands.
+For this end the Lord who subjected a woman unto her husband, gave to his sex greater strength, courage and boldness then to hers, that he might protect her which is the #emph[weaker vessel.] In this duty of #emph[protection] Christ showeth himself an excellent pattern and precedent unto husbands.
 
 The better to perform this duty, an husband must be careful,
 

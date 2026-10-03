@@ -138,7 +138,7 @@ For avoiding just offence, an husband must further have #emph[good respect to th
 This mildness is an especial fruit, and evidence of love, and a notable means to take away all offence that otherwise might be taken from many things which he doth. Sugar and Honey are not more pleasant to the tongue, then mildness to the heart; it causeth such things as otherwise are irksome and grievous to the soul, to be well taken and applied, even as bitter pils dipt in sweet syrrop, or rolled up in the soft pap of an apple, are soon swallowed down and well digested. If an husband desire to be accounted a servant of the Lord he must learn this lesson: For #emph[the servant of the Lord must be gentle to all men.] If any other servant of the Lord, much more husbands: #footnote[2 #emph[Tim.] 2. 24.] if to #emph[all men,] most of all to their wives: and that in many respects.
 
 - 1\. Because of the near union betwixt man and wife.
-- 2\. Because of the joint authority she hath with him over others: that herein he may be a president and example to her.
+- 2\. Because of the joint authority she hath with him over others: that herein he may be a precedent and example to her.
 - 3\. Because of her weakness: glasses are tenderly handled: a small knock soon breaks them.
 
 === §. 23. #emph[Of husbands bitterness.]
