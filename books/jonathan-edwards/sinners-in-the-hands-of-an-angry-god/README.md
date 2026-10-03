@@ -2,7 +2,9 @@
 
 The sermon preached at Enfield, Connecticut, July 8, 1741: a small book to
 hand out, so its scripture quotations are from the Berean Standard Bible
-(one KJV quotation kept on purpose, where Edwards expounds a KJV word).
+(two KJV quotations kept on purpose, where Edwards builds on the KJV's words:
+Psalm 73:18-19, "as in a moment", and Revelation 19:15, "the fierceness and
+wrath of Almighty God").
 
 ## Layout
 
