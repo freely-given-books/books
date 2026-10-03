@@ -61,7 +61,7 @@ Two cautions like the former are likewise to be observed #footnote[2\. Cautions 
 
 First, that she be sure (being truly informed by Gods word) that that which she refuseth to do at her husbands command, is forbidden by God.
 
-Secondly, that she first labour with all meekness and by all good means that she can to disswade her husband from urging and pressing that upon her, which with a good conscience she cannot do.
+Secondly, that she first labour with all meekness and by all good means that she can to dissuade her husband from urging and pressing that upon her, which with a good conscience she cannot do.
 
 A like proof may be brought for this as was for the former: for we know that a wife is not bound unto greater subjection to her husband then a son is unto a father: but a son may in the case propounded forbear to do that which his father requireth and commandeth him to do: instance the approved example of #emph[Jonathan,] who refused to bring #emph[David] #footnote[1 #emph[Sam.] 20. 31.] unto #emph[Saul] to be slain, though his father commanded him so to do. I might also instance the same in #emph[Sauls] subjects and #footnote[1 #emph[Sam.] 22. 17.] servants, who refused to slay the Priests of the Lord at his command. Though an husband be not reckoned in particular among those to whom we are forbidden to hearken if they #footnote[#emph[Deut.] 13. 6.] entice us to idolatry, yet by the rule of relation he is implied, and by just consequence gathered from this clause, #emph[thy friend which is as thine own soul;] for who so dear as an husband?
 
