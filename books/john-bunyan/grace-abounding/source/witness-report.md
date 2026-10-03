@@ -1,0 +1,483 @@
+# Witness: the 1666 first edition
+
+The edition is CCEL's text of *Grace Abounding* (`grace.thml.xml`), which
+is Bunyan's enlarged text: he added to the book in later editions, up to the
+sixth (1688). The witness is the first edition (London, George Larkin, 1666),
+EEBO-TCP A30143, kept untouched in `A30143.witness.xml`. It was compared word
+by word with the edition by `scripts/tei/drift.py`, with the 1666 file's
+three later sections (nested in its main text) taken as divisions of their
+own:
+
+```sh
+drift.py source/grace-abounding.tei.xml WITNESS --name "1666 first edition" \
+    --div preface=preface.typ --div text=relation.typ \
+    --div call=call-to-the-ministry.typ --div prison=imprisonment.typ \
+    --div conclusion=conclusion.typ --min 3
+```
+
+Words are compared loosely (spelling, case and punctuation ignored), so what
+is listed is a word added, dropped or changed. Passages only in the edition
+are Bunyan's later additions (about 7,500 words in the relation, 1,700 in
+his call to the ministry); short differences are his revisions, or, rarely,
+a slip in one text. CCEL's own clear errors were corrected as editor
+decisions (`review-report.md`). Differences of fewer than three words are
+counted but not listed.
+
+
+### preface (preface.typ)
+
+- edition: 1196 words; 1666 first edition: 1204 words; 96.17% alike
+- 52 places differ (42 words of the edition, 50 of the 1666 first edition); 1 of them are 3 words or more, listed below
+
+- **different** (3 words), after “…lions’ dens from the mountains of the leopards”
+  - edition: S of Sol
+  - 1666 first edition: Song
+
+### text (relation.typ)
+
+- edition: 32744 words; 1666 first edition: 25286 words; 82.32% alike
+- 1255 places differ (8860 words of the edition, 1402 of the 1666 first edition); 133 of them are 3 words or more, listed below
+
+- **different** (3 words), after “…itself both in my heart and life and”
+  - edition: that from
+  - 1666 first edition: tha f om
+- **different** (8 words), after “…down with the chains and bonds of eternal”
+  - edition: darkness unto the judgment of the great day
+  - 1666 first edition: da kn ss
+- **only in the edition** (6 words), after “…I say when I was but a child”
+  - edition: but nine or ten years old
+- **different** (4 words), after “…went thither I might be rather a tormentor”
+  - edition: than be tormented myself
+  - 1666 first edition: then ormented my self
+- **different** (243 words), after “…my spirit that it made my heart to”
+  - edition: ache But God did not utterly leave me but followed me still not now with convictions but judgments yet such … more rebellious against God and careless of mine own salvation
+  - 1666 first edition: ake
+- **different** (3 words), after “…often telling of me what a godly man”
+  - edition: her father
+  - 1666 first edition: he Fat er
+- **only in the edition** (3 words), after “…with labour sports or otherwise Now I was”
+  - edition: notwithstanding my religion
+- **only in the edition** (7 words), after “…me and that the fire was put out”
+  - edition: that I might sin again without control
+- **different** (6 words), after “…hopes for them for they have loved sins”
+  - edition: therefore after them they will go’
+  - 1666 first edition: Jer
+- **only in the edition** (14 words), after “…better next time and there get help again”
+  - edition: for then I thought I pleased God as well as any man in England
+- **only in the edition** (544 words), after “…say continued about a twelvemonth or more But”
+  - edition: I say my neighbours were amazed at this my great conversion from prodigious profaneness to something like a moral life … mercy showed me more of my state of nature But
+- **different** (3 words), after “…did make them speak they spake with such”
+  - edition: pleasantness
+  - 1666 first edition: plea antne s
+- **only in the edition** (3 words), after “…at any time I heard or read of”
+  - edition: By these things
+- **only in the edition** (591 words), after “…to get it again from earth to heaven”
+  - edition: One thing I may not omit There was a young man in our town to whom my heart was knit … since The Bible was precious to me in those days
+- **only in the edition** (25 words), after “…mused and could not tell what to do”
+  - edition: especially this word faith put me to it for I could not help it but sometimes must question whether I had any faith or no
+- **only in the edition** (17 words), after “…how can you tell if you have faith”
+  - edition: And besides I saw for certain if I had not I was sure to perish for ever
+- **different** (3 words), after “…is the way to God the Father But”
+  - edition: forasmuch
+  - 1666 first edition: for as much
+- **different** (3 words), after “…showed me that none could enter into life”
+  - edition: but those
+  - 1666 first edition: ut tho e
+- **different** (3 words), after “…texts that we call holy and canonical yet”
+  - edition: forasmuch
+  - 1666 first edition: for as much
+- **only in the edition** (5 words), after “…might find help thereby against this vile temptation”
+  - edition: This I then verily believed
+- **only in the edition** (321 words), after “…on purpose speak them to encourage me withal”
+  - edition: But I was not without my temptations to go back again temptations I say both from Satan mine own heart … way of salvation let a man be never so devout
+- **different** (3 words), after “…His Word and righteousness and to the comforts”
+  - edition: and first fruits
+  - 1666 first edition: first-fruits
+- **only in the edition** (12 words), after “…not called what then can do me good”
+  - edition: None but those who are effectually called inherit the kingdom of heaven
+- **only in the edition** (438 words), after “…Christ and the Spirit and all good things”
+  - edition: But I observe though I was such a great sinner before conversion yet God never much charged the guilt of … them as little burdens A wounded spirit who can bear
+- **different** (101 words), after “…myself alone and above the most of men”
+  - edition: unblessed Yea I thought it impossible that ever I should attain to so much goodness of heart as to thank … have rejoiced had my condition been as any of theirs
+  - 1666 first edition: unblest
+- **different** (3 words), after “…not that it was true which was done”
+  - edition: by
+  - 1666 first edition: unto him of
+- **only in the edition** (63 words), after “…could believe that my sins should be forgiven”
+  - edition: me yea I was now so taken with the love and mercy of God that I remember I could not … lands before me had they been capable to have understood
+- **only in the edition** (8 words), after “…forty days I began to question all again”
+  - edition: which made me begin to question all still
+- **only in the edition** (129 words), after “…called to me being at a great distance”
+  - edition: methought he called so loud it came as I have thought since to have stirred me up to prayer and … me believing that he that called so loud meant me
+- **different** (3 words), after “…to leap with my head downward into some”
+  - edition: muck hill hole
+  - 1666 first edition: Muckhil-hole
+- **only in the edition** (4 words), after “…up mire and dirt There is no peace”
+  - edition: saith my God to
+- **different** (119 words), after “…my God to the wicked saith my God”
+  - edition: And now my heart was at times exceeding hard if I would have given a thousand pounds for a tear … of or get rid of these things I could not
+  - 1666 first edition: Isa
+- **different** (3 words), after “…things a while I am persuaded that neither”
+  - edition: height nor depth
+  - 1666 first edition: death
+- **different** (3 words), after “…made that also a precious word unto me”
+  - edition: Forasmuch
+  - 1666 first edition: For as much
+- **different** (3 words), after “…my remembrance there was not anything that I”
+  - edition: then cried unto
+  - 1666 first edition: c ied to
+- **different** (3 words), after “…and birth even to His second coming to”
+  - edition: judgment Methought
+  - 1666 first edition: judgement me thought
+- **only in the 1666 first edition** (7 words), after “…confirmed in these things by these scriptures following”
+  - 1666 first edition: Acts Acts Act Heb Heb Rev Thes
+- **different** (3 words), after “…of the elders there is His manhood but”
+  - edition: oh methought
+  - 1666 first edition: O me thought
+- **only in the edition** (189 words), after “…into the scriptures that did wonderfully maintain it”
+  - edition: The errors that this people then maintained were That the holy Scriptures were not the Word of God That every … only enlightened but greatly confirmed and comforted in the truth
+- **only in the 1666 first edition** (10 words), after “…open them unto me make them shine before”
+  - 1666 first edition: me and cause them to dwell with me talk with
+- **different** (7 words), after “…God through Christ Now had I an evidence”
+  - edition: as I thought of my salvation from
+  - 1666 first edition: for
+- **only in the edition** (440 words), after “…my soul might be gone to rest But”
+  - edition: before I had got thus far out of these my temptations I did greatly long to see some ancient godly … Quickly after this my love was tried to purpose For
+- **only in the edition** (12 words), after “…had done for me as He had done”
+  - edition: and yet then I had almost none others but such blasphemous ones
+- **only in the edition** (4 words), after “…Christ for this or sell Christ for that”
+  - edition: sell Him sell Him
+- **only in the edition** (5 words), after “…or motion by way of pushing or thrusting”
+  - edition: with my hands or elbows
+- **only in the edition** (147 words), after “…I was or how to be composed again”
+  - edition: At these seasons he would not let me eat my food at quiet but forsooth when I was set at … as if I had broken the law of God indeed
+- **only in the edition** (11 words), after “…that I felt my heart freely consent thereto”
+  - edition: Oh the diligence of Satan Oh the desperateness of man’s heart
+- **different** (56 words), after “…repentance though he sought it carefully with tears’”
+  - edition: Now was I as one bound I felt myself shut up unto the judgment to come nothing now for two … moments for relief as in the sequel you will see
+  - 1666 first edition: Heb
+- **only in the edition** (96 words), after “…sunk in my spirit under exceeding guilt again”
+  - edition: But chiefly by the afore mentioned scripture concerning Esau’s selling of his birthright for that scripture would lie all day … place of repentance though he sought it carefully with tears
+- **only in the edition** (93 words), after “…repentance though he sought it carefully with tears”
+  - edition: And this stuck always with me And now was I both a burden and a terror to myself nor did … my transgression and to be saved from wrath to come
+- **only in the edition** (5 words), after “…against the gospel yea against the Mediator thereof”
+  - edition: I had sold my Saviour
+- **only in the edition** (128 words), after “…stings did I find in all these sentences”
+  - edition: What thought I is there but one sin that is unpardonable But one sin that layeth the soul without the … Oh none knows the terrors of those days but myself
+- **only in the edition** (266 words), after “…heritage of those whom the Lord had blessed”
+  - edition: Now I saw that as God had His hand in all providences and dispensation that overtook His elect so He … things wrought for my damage and for my eternal overthrow
+- **different** (4 words), after “…unpardonable And oh thought I if it should”
+  - edition: differ from it though
+  - 1666 first edition: be
+- **different** (4 words), after “…but mine in a fearful hurry on a”
+  - edition: sudden all this while
+  - 1666 first edition: udden Thus
+- **different** (3 words), after “…ways than one to commit the unpardonable sin”
+  - edition: also I thought
+  - 1666 first edition: and
+- **only in the edition** (525 words), after “…be such as might never be passed by”
+  - edition: I was often now ashamed that I should be like such an ugly man as Judas I thought also how … place of repentance though he sought it carefully with tears
+- **only in the edition** (48 words), after “…his government have taken up arms against him”
+  - edition: and this thought I is my very condition once I loved Him feared Him served Him but now I am … has gifts for rebels and then why not for me
+- **only in the edition** (275 words), after “…circumstances but alas it was all in vain”
+  - edition: I should think with myself that David shed blood to cover his adultery and that by the sword of the … you have parted with Jesus you have sold your Saviour
+- **different** (3 words), after “…of Him Let Him go if He will”
+  - edition: Oh methought
+  - 1666 first edition: O me thoughts
+- **different** (95 words), after “…return unto me for I have redeemed thee’”
+  - edition: This I say would come in upon my mind when I was fleeing from the face of God for I … grace did follow me with a pardon in His hand
+  - 1666 first edition: Isa
+- **only in the edition** (44 words), after “…me with a pardon in His hand but”
+  - edition: I could no sooner do that but all would be clouded and darkened again by that sentence For you know … of repentance though he sought it carefully with tears Wherefore
+- **only in the edition** (3 words), after “…should not come from God for that other”
+  - edition: as I said
+- **different** (29 words), after “…would have inherited the blessing he was rejected’”
+  - edition: etc Once as I was walking to and fro in a good man’s shop bemoaning of myself in my sad and doleful state afflicting myself with self abhorrence for
+  - 1666 first edition: c All
+- **different** (515 words), after “…state afflicting myself with self abhorrence for this”
+  - edition: wicked and ungodly thought lamenting also this hard hap of mine for that I should commit so great a sin … I began to mistrust and to despair again Wherefore still
+  - 1666 first edition: while
+- **different** (3 words), after “…foot of grace by prayer and supplication But”
+  - edition: oh it was
+  - 1666 first edition: O 'twas
+- **different** (4 words), after “…against whom I had thus most vilely sinned”
+  - edition: it was hard work
+  - 1666 first edition: yet
+- **different** (7 words), after “…most vilely sinned it was hard work I”
+  - edition: say to offer to look Him in
+  - 1666 first edition: knew this must be
+- **different** (53 words), after “…say to offer to look Him in the”
+  - edition: face against whom I had so vilely sinned and indeed I have found it as difficult to come to God … thought I am now a going to pray to Him
+  - 1666 first edition: way
+- **only in the edition** (11 words), after “…a going to pray to Him for mercy”
+  - edition: that I had so lightly esteemed but a while before I
+- **different** (53 words), after “…lightly esteemed but a while before I was”
+  - edition: ashamed yea even confounded because this villainy had been committed by me but I saw there was but one way … to me and have mercy upon my wretched sinful soul
+  - 1666 first edition: no where else
+- **different** (6 words), after “…did but with great difficulty God doth know”
+  - edition: and that because together with this
+  - 1666 first edition: for
+- **different** (3 words), after “…He had whispered this to some of them”
+  - edition: already only
+  - 1666 first edition: al eady onely
+- **different** (3 words), after “…should be so it would make me quite”
+  - edition: beside myself
+  - 1666 first edition: besides my self
+- **only in the edition** (90 words), after “…said Spira but who bounds the issues thereof”
+  - edition: About this time I took an opportunity to break my mind to an ancient Christian and told him all my … God again as well as I could for mercy still
+- **different** (190 words), after “…sin and my loss by it to mind”
+  - edition: nothing did twinge my conscience like this Every time that I thought of the Lord Jesus of His grace love … have I disinherited my poor soul of Oh it is
+  - 1666 first edition: O 'tis
+- **only in the edition** (4 words), after “…Saviour turn lion and destroyer I also trembled”
+  - edition: as I have said
+- **only in the edition** (13 words), after “…add continual affliction and shame unto my soul”
+  - edition: The dread of them was upon me and I trembled at God’s Samuels
+- **different** (3 words), after “…case and was sorry for my loss but”
+  - edition: forasmuch
+  - 1666 first edition: for as much
+- **only in the edition** (15 words), after “…yet I could have no benefit of Him”
+  - edition: These things may seem ridiculous to others even as ridiculous as they were in themselves
+- **different** (169 words), after “…as ridiculous as they were in themselves but”
+  - edition: to me they were most tormenting cogitations every of them augmented my misery that Jesus Christ should have so much … being misinformed of the nature of my sin But oh
+  - 1666 first edition: O
+- **different** (270 words), after “…more death hath no more dominion over him’”
+  - edition: Thus by the strange and unusual assaults of the tempter was my soul like a broken vessel driven as with … was so driven for the Word would shut him out
+  - 1666 first edition: Rom
+- **only in the edition** (37 words), after “…upon the houses did bend themselves against me”
+  - edition: methought that they all combined together to banish me out of the world I was abhorred of them and unfit to dwell among them or be partaker of their benefits because I had sinned against the Saviour
+- **only in the edition** (32 words), after “…and also at the unexpectedness of the sentence”
+  - edition: the fitness of the word the rightness of the timing of it the power and sweetness and light and glory that came with it was marvellous to me to find I was
+- **only in the edition** (199 words), after “…marvellous to me to find I was now”
+  - edition: for the time out of doubt as to that about which I so much was in doubt before my fears … word and prayer as any of them Now I say
+- **different** (10 words), after “…and peevishness for I feared the sorrow of”
+  - edition: despair nor could my faith now longer retain this word
+  - 1666 first edition: it
+- **only in the edition** (4 words), after “…the Lord and as I prayed I cried”
+  - edition: and my soul cried
+- **only in the edition** (3 words), after “…my soul cried to Him in these words”
+  - edition: with strong cries
+- **only in the edition** (6 words), after “…it but with sweetness this returned upon me”
+  - edition: as an echo or sounding again
+- **only in the edition** (4 words), after “…next morning it was fresh upon my soul”
+  - edition: and I believed it
+- **different** (3 words), after “…for as soon as ever the words came”
+  - edition: into my mind
+  - 1666 first edition: in
+- **only in the edition** (7 words), after “…nor could they help me for my sin”
+  - edition: therefore it was in vain to pray
+- **different** (14 words), after “…pray But said the tempter your sin is”
+  - edition: unpardonable Well said I I will pray It is to no boot said he
+  - 1666 first edition: unpardonoble
+- **only in the edition** (7 words), after “…Yet I was not able to believe this”
+  - edition: that this was a prayer of faith
+- **only in the edition** (4 words), after “…of desperation and went mourning up and down”
+  - edition: in a sad condition
+- **only in the edition** (212 words), after “…or no yet I greatly feared it was”
+  - edition: There was nothing now that I longed for more than to be put out of doubt as to this thing … might not be quite gone nor clean gone for ever
+- **only in the edition** (8 words), after “…unto me it showed such a great word”
+  - edition: it seemed to be writ in great letters
+- **only in the edition** (14 words), after “…I threw down my book in a pet”
+  - edition: Then I thought it was not large enough for me no not large enough
+- **only in the edition** (17 words), after “…to apply the whole sentence for as yet”
+  - edition: I could not that He gave I gathered but farther I could not go for as yet
+- **different** (8 words), after “…go for as yet it only helped me”
+  - edition: to hope there might be mercy for me
+  - 1666 first edition: thus far
+- **different** (56 words), after “…them’ II For the Scriptures cannot be broken”
+  - edition: These as the elders of the city of refuge I saw were to be the judges both of my case … I doubted that they would shut me out for ever
+  - 1666 first edition: Pet
+- **different** (3 words), after “…life and salvation doth far exceed in glory”
+  - edition: II
+  - 1666 first edition: Cor Mar John
+- **only in the edition** (29 words), after “…Satan and I did strive for any word”
+  - edition: of God in all my life it was for this good word of Christ he at one end and I at the other Oh what work did we make
+- **only in the edition** (9 words), after “…we make It was for this in John”
+  - edition: I say that we did so tug and strive
+- **only in the edition** (6 words), after “…pulled and I pulled but God be praised”
+  - edition: I got the better of him
+- **different** (3 words), after “…been exceeding glad that this thought had never”
+  - edition: befallen for
+  - 1666 first edition: be fallen fo
+- **only in the edition** (6 words), after “…not who lay in wait to shed blood”
+  - edition: it was not the wilful murderer
+- **different** (5 words), after “…the wilful murderer but he who unwittingly did”
+  - edition: it he who did unawares
+  - 1666 first edition: unawars
+- **only in the edition** (12 words), after “…did it he who did unawares shed blood”
+  - edition: not of spite or grudge or malice he that shed it unwittingly
+- **only in the edition** (95 words), after “…was not the sin in this place intended”
+  - edition: First I confessed I was fallen but not fallen away that is from the profession of faith in Jesus unto … by sorrow and repentance Blessed be God for unsearchable grace
+- **different** (4 words), after “…have enough my brother keep that thou hast”
+  - edition: unto thyself’
+  - 1666 first edition: to thy self Gen
+- **different** (4 words), after “…shall be blessed but as for you depart”
+  - edition: from me all ye
+  - 1666 first edition: you are
+- **only in the edition** (3 words), after “…relations offices and operations met together and that”
+  - edition: as He sat
+- **only in the 1666 first edition** (3 words), after “…considered and reckoned that we fulfilled the law”
+  - 1666 first edition: by him died
+- **only in the edition** (6 words), after “…will he revive us in the third day”
+  - edition: he will raise us up and
+- **only in the edition** (7 words), after “…those days made to spangle in mine eyes”
+  - edition: so that I have cause to say
+- **different** (4 words), after “…Lord had showed me that He knew my”
+  - edition: secret thoughts
+  - 1666 first edition: secr t t oughts
+- **only in the 1666 first edition** (15 words), after “…retort which also carried rebuke along with it”
+  - 1666 first edition: Now you may see that God doth know the most secret thoughts of the heart
+- **different** (3 words), after “…and of His beloved Son in the temptation”
+  - edition: that went before
+  - 1666 first edition: befo e
+- **different** (35 words), after “…temptation that went before my soul was perplexed”
+  - edition: with unbelief blasphemy hardness of heart questions about the being of God Christ the truth of the Word and certainty of the world to come I say then I was greatly assaulted and tormented with
+  - 1666 first edition: vvith
+- **different** (3 words), after “…Whose soever sins ye remit they are remitted”
+  - edition: unto them and
+  - 1666 first edition: but
+- **different** (3 words), after “…to see more into the nature of the”
+  - edition: promises than
+  - 1666 first edition: P omise then
+- **different** (3 words), after “…the thunderings of His justice this made me”
+  - edition: with careful
+  - 1666 first edition: vvith ca eful
+- **different** (3 words), after “…latitude By this temptation also I was greatly”
+  - edition: beaten off
+  - 1666 first edition: bea en oft
+- **only in the edition** (6 words), after “…upon that I might not sink for ever”
+  - edition: it was that I hunted for
+- **only in the edition** (67 words), after “…made to bear the iron yoke as I”
+  - edition: did I had two or three times at or about my deliverance from this temptation such strange apprehensions of the … upon me it would have made me incapable for business
+- **only in the edition** (3 words), after “…was because I did not with that reverence”
+  - edition: as became me
+- **different** (9 words), after “…through the redemption that is in Christ Jesus’”
+  - edition: But oh what a turn it made upon me
+  - 1666 first edition: Rom
+- **different** (3 words), after “…but according to his mercy he saved us”
+  - edition: etc II
+  - 1666 first edition: c Tim Tit
+- **only in the edition** (230 words), after “…at but cannot tell you what I saw”
+  - edition: Again as I was at another time very ill and weak all that time also the tempter did beset me … and I walked comfortably in my work for God again
+- **different** (3 words), after “…the other affliction the more heavy and uncomfortable”
+  - edition: to me After
+  - 1666 first edition: Afrer
+- **different** (5 words), after “…until morning yet that twelfth of the author”
+  - edition: of Hebrews
+  - 1666 first edition: to the H brews Heb
+- **different** (3 words), after “…words are these Ye are come unto mount”
+  - edition: Sion and unto
+  - 1666 first edition: Zion to
+
+### call (call-to-the-ministry.typ)
+
+- edition: 5308 words; 1666 first edition: 3585 words; 75.27% alike
+- 192 places differ (1961 words of the edition, 238 of the 1666 first edition); 15 of them are 3 words or more, listed below
+
+- **different** (5 words), after “…specified in the Word and other ancient histories”
+  - edition: Foxe’s
+  - 1666 first edition: Act c Pet Rom Fox
+- **different** (3 words), after “…the holy Word of truth which when the”
+  - edition: country understood
+  - 1666 first edition: Countrey unde stood
+- **different** (3 words), after “…immediately even before I could get down the”
+  - edition: pulpit stairs I
+  - 1666 first edition: Pulpit-Stairs
+- **different** (4 words), after “…have lain above as long again to confirm”
+  - edition: the truth
+  - 1666 first edition: t e T uth
+- **different** (4 words), after “…the glory of the earth without it O”
+  - edition: these words
+  - 1666 first edition: t at wo d
+- **only in the edition** (92 words), after “…his way shall save a soul from death’”
+  - edition: The fruit of the righteous is a tree of life and he that winneth souls is wise’ They that be … of a like nature have been great refreshments to me
+- **different** (3 words), after “…the by hath done more execution in a”
+  - edition: sermon than
+  - 1666 first edition: Se mon then
+- **only in the edition** (56 words), after “…should catch them I have fished for nothing”
+  - edition: I have also observed that where there hath been a work to do upon sinners there the devil hath begun … by the word I could instance particulars but I forbear
+- **different** (63 words), after “…shall speak with the enemies in the gate’”
+  - edition: It pleased me nothing to see people drink in opinions if they seemed ignorant of Jesus Christ and the worth … that delighted me those were the souls I counted blessed
+  - 1666 first edition: Psal
+- **different** (4 words), after “…had my temptations attending me and that of”
+  - edition: diverse kinds
+  - 1666 first edition: dive s kin s
+- **only in the edition** (109 words), after “…soul as you will never get from under”
+  - edition: But I thank the Lord I have been kept from consenting to these so horrid suggestions and have rather as … unrighteousness blessed be God for His help also in this
+- **different** (3 words), after “…a skilful player can make such melodious and”
+  - edition: heart inflaming music
+  - 1666 first edition: heart-inflaming Musick
+- **different** (3 words), after “…the cymbal hath not life neither comes the”
+  - edition: music from
+  - 1666 first edition: musick f om
+- **different** (3 words), after “…but because of the art of him that”
+  - edition: plays therewith
+  - 1666 first edition: playe the ewith
+- **only in the edition** (1443 words), after “…gift of knowledge can deliver themselves like angels”
+  - edition: Thus therefore I came to perceive that though gifts in themselves were good to the thing for which they are … shall in the next place give you a brief account
+
+### prison (imprisonment.typ)
+
+- edition: 2681 words; 1666 first edition: 2712 words; 89.93% alike
+- 218 places differ (256 words of the edition, 287 of the 1666 first edition); 16 of them are 3 words or more, listed below
+
+- **different** (20 words), after “…and after some conference there with the justices”
+  - edition: they taking my plain dealing with them for a confession as they termed it of the indictment did sentence me
+  - 1666 first edition: was sentenced
+- **different** (6 words), after “…home to prison and there have lain now”
+  - edition: complete twelve years
+  - 1666 first edition: above five year and a quarter
+- **different** (3 words), after “…years waiting to see what God would suffer”
+  - edition: those men
+  - 1666 first edition: these m n
+- **different** (4 words), after “…to pray for me and also to take”
+  - edition: encouragement should
+  - 1666 first edition: encoura ement shou d
+- **different** (3 words), after “…inlet into the Word of God as now”
+  - edition: Those scriptures
+  - 1666 first edition: them Scr ptures
+- **different** (4 words), after “…been great refreshments in this condition to me”
+  - edition: John xiv John xvi
+  - 1666 first edition: Joh Joh
+- **different** (4 words), after “…all turns and at every offer of Satan”
+  - edition: to afflict me etc
+  - 1666 first edition: c
+- **only in the 1666 first edition** (16 words), after “…the first was how to be able to”
+  - 1666 first edition: endure should my imprisonment be lon and tedious the second was How to be able to
+- **different** (3 words), after “…persuade me that if ever I would go”
+  - edition: through long suffering
+  - 1666 first edition: thorow long-suffering
+- **different** (4 words), after “…child who lay nearer my heart than all”
+  - edition: beside Oh
+  - 1666 first edition: I had besides O
+- **different** (4 words), after “…Oh the thoughts of the hardship I thought”
+  - edition: my poor blind one
+  - 1666 first edition: this
+- **different** (3 words), after “…entreat thee well in the time of evil”
+  - edition: Jer xlix xv
+  - 1666 first edition: c
+- **different** (3 words), after “…words and laws before the sons of men”
+  - edition: I thought also
+  - 1666 first edition: and
+- **only in the 1666 first edition** (3 words), after “…God when all is taken from him Is”
+  - 1666 first edition: he a go
+- **different** (3 words), after “…godly man that will serve God for nothing”
+  - edition: rather than
+  - 1666 first edition: ra her then
+- **different** (4 words), after “…thus considering that scripture was set before me”
+  - edition: Psalm xliv Now was
+  - 1666 first edition: Psa c Novv vvas
+
+### conclusion (conclusion.typ)
+
+- edition: 533 words; 1666 first edition: 454 words; 81.86% alike
+- 41 places differ (129 words of the edition, 50 of the 1666 first edition); 3 of them are 3 words or more, listed below
+
+- **different** (4 words), after “…the being of God and the truth of”
+  - edition: His gospel is
+  - 1666 first edition: the Go spel i
+- **only in the edition** (82 words), after “…foundations are destroyed what can the righteous do”
+  - edition: Sometimes when after sin committed I have looked for sore chastisement from the hand of God the very next that … such strength and weight have both these been upon me
+- **different** (4 words), after “…the sweetest that is mixed with mourning over”
+  - edition: Christ Oh it is
+  - 1666 first edition: Chri O tis
+
