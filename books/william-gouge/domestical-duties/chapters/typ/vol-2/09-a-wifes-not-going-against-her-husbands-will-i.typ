@@ -23,7 +23,7 @@ That #emph[Submission] consisteth in two things.
 
 First, in abstaining from doing things against her husbands mind.
 
-Secondly, in doing what her husband requireth. The former of these requireth that a wife have her husbands consent for the things which she doth. For the better cleering whereof we are to consider,
+Secondly, in doing what her husband requireth. The former of these requireth that a wife have her husbands consent for the things which she doth. For the better clearing whereof we are to consider,
 
 1. What kind of husbands they must be whose consent is required.
 

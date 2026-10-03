@@ -80,7 +80,7 @@ Much wisdom may be learned hereby: for when any #footnote[Wisdom learned.] meekl
 
 2. #emph[Answ.] Yet may not #emph[meekness] be forgotten. In such a case a wife may make a just apology to clear her own innocency, and manifest her husbands error: but if he refuse to hear her, or will not believe her, then (as #emph[S. Peter] speaketh in another #footnote[1 #emph[Pet.] 2. 19, 20.] case) she must #emph[endure grief for conscience toward God.]
 
-The two reasons which there he rendreth in that other case may not unfitly be applied to this.
+The two reasons which there he rendereth in that other case may not unfitly be applied to this.
 
 1. In general this is #emph[thank-worthy,] it is a grace, a glory to her: a matter that deserueth praise and commendation.
 
