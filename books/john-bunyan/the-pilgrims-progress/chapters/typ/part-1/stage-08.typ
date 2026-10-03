@@ -18,7 +18,7 @@ The Shepherds: Safe for those for whom it is to be safe; but transgressors shall
 
 Christian: Is there in this place any relief for pilgrims that are weary and faint in the way?
 
-The Shepherds: The Lord of these mountains hath given us a charge not to be forgetful to entertain strangers, Heb. 13:2; therefore the good of the place is before you .
+The Shepherds: The Lord of these mountains hath given us a charge not to be forgetful to entertain strangers, Heb. 13:2; therefore the good of the place is before you.
 
 I saw also in my dream, that when the shepherds perceived that they were wayfaring men, they also put questions to them, (to which they made answer as in other places,) as, Whence came you? and, How got you into the way? and, By what means have you so persevered therein? for but few of them that begin to come hither, do show their face on these mountains. But when the shepherds heard their answers, being pleased therewith, they looked very lovingly upon them, and said, Welcome to the Delectable Mountains.
 

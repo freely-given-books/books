@@ -11,7 +11,7 @@ And thus it was: I, writing of the way \
 And race of saints in this our gospel-day, \
 Fell suddenly into an allegory \
 About their journey, and the way to glory, \
-In more than twenty things which I set down \
+In more than twenty things which I set down; \
 This done, I twenty more had in my crown, \
 And they again began to multiply, \
 Like sparks that from the coals of fire do fly. \
@@ -70,7 +70,7 @@ I did too with them thus expostulate:
 
 May I not write in such a style as this? \
 In such a method too, and yet not miss \
-My end-thy good? Why may it not be done? \
+My end—thy good? Why may it not be done? \
 Dark clouds bring waters, when the bright bring none. \
 Yea, dark or bright, if they their silver drops \
 Cause to descend, the earth, by yielding crops, \
@@ -98,7 +98,7 @@ Of all his postures? yet there’s none of these \
 Will make him master of what fowls he please. \
 Yea, he must pipe and whistle, to catch #emph[this]\; \
 Yet if he does so, #emph[that] bird he will miss. \
-If that a pearl may in toad’s head dwell, \
+If that a pearl may in a toad’s head dwell, \
 And may be found too in an oyster-shell; \
 If things that promise nothing, do contain \
 What better is than gold; who will disdain, \
@@ -235,7 +235,7 @@ They lose their labor, and like fools do die.
 This book will make a traveler of thee, \
 If by its counsel thou wilt ruled be; \
 It will direct thee to the Holy Land, \
-If thou wilt its directions understand \
+If thou wilt its directions understand: \
 Yea, it will make the slothful active be; \
 The blind also delightful things to see.
 
