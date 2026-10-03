@@ -25,15 +25,23 @@ FILES = [("ccel-iii", "preface.typ", "A Preface, or Brief Account of the Publish
          ("ccel-vii", "conclusion.typ", "The Conclusion")]
 
 
+T = "{http://www.tei-c.org/ns/1.0}"
+XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
+
+
 def _by_id(root):
-    return {d.get("{http://www.w3.org/XML/1998/namespace}id"): d for d in layout.top_divs(root)}
+    return {d.get(XML_ID): d for d in layout.top_divs(root)}
 
 
 def LAYOUT(root):
     """Bunyan's preface, the relation itself, his call to the ministry, his
     imprisonment and the conclusion, one file each."""
     by_id = _by_id(root)
-    return [{"file": f, "title": t, "parts": layout.sections(by_id[i])} for i, f, t in FILES]
+    files = [{"file": f, "title": t, "parts": layout.sections(by_id[i])} for i, f, t in FILES]
+    # the preface's dedication, a printed head, set under its title
+    files[0]["subtitle"] = next(h for h in by_id["ccel-iii"].iter(f"{T}head")
+                                if h.get(XML_ID) == "ccel-iii-p0.3")
+    return files
 
 
 def SKIP_BLOCKS(root):

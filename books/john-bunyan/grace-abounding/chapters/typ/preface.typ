@@ -1,5 +1,7 @@
 == A Preface, or Brief Account of the Publishing of This Work
 
+#align(center)[#emph[Written by the author thereof, and dedicated to those whom God hath counted him worthy to beget to faith, by his ministry in the word]]
+
 CHILDREN, grace be with you, Amen. I being taken from you in presence, and so tied up, that I cannot perform that duty that from God doth lie upon me to youward, for your further edifying and building up in faith and holiness, etc., yet that you may see my soul hath fatherly care and desire after your spiritual and everlasting welfare; I now once again, as before, from the top of Shenir and Hermon, so now from the lions’ dens, from the mountains of the leopards (S.of Sol. 4.8), do look yet after you all, greatly longing to see your safe arrival into the desired haven.
 
 I thank God upon every remembrance of you; and rejoice, even while I stick between the teeth of the lions in the wilderness, at the grace, and mercy, and knowledge of Christ our Saviour, which God hath bestowed upon you, with abundance of faith and love. Your hungerings and thirstings also after further acquaintance with the Father, in His Son; your tenderness of heart, your trembling at sin, your sober and holy deportment also, before both God and men, is great refreshment to me; ‘For ye are my glory and joy’ (1 Thess. 2.20).

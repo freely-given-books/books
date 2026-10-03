@@ -349,6 +349,10 @@ class HtmlR(R):
         out = [f'<section id="{ident}">']
         if title:
             out.append(f"<h3>{html.escape(title, quote=False)}</h3>")
+        if f.get("subtitle") is not None:
+            t = self.text(f["subtitle"])
+            if t:
+                out.append(f'<p class="subtitle">{t}</p>')
         for el in f["parts"]:
             if local(el) == "div":
                 out += self.div_html(el, self.levels.get(el.get("type"), 2))

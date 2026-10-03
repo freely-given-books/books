@@ -77,6 +77,8 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
   - `SKIP_BLOCKS(root)` in `editorial.py`: loose blocks the edition leaves
     out (most of a long dedication), kept in the TEI; a layout file's
     `"part"` is a part page before it in the ebook
+  - a layout file's `"subtitle"`: a printed head set as a centred line under
+    the title (Bunyan's preface dedication), aligned like a paragraph
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML

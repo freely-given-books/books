@@ -406,6 +406,7 @@ BLOCK_MARK = {"p": "¶", "item": "-", "signed": "¶", "trailer": "¶", "sp": "¶
 # of the file, marked "H" (a heading line) or "¶" (a run-in heading, for the
 # div types in RUN_IN_DIVS). None: heads are skipped, the classic behaviour.
 HEAD_MODE = {"on": False, "run_in": set()}
+SUBTITLES = set()       # layout subtitles: printed heads set as a centred line
 # CLOSER_PLAIN: openers and closers are set as plain paragraphs (a salute,
 # a signature), which the review may run on into the text or split
 SETTINGS = {"closer_plain": False}
@@ -802,6 +803,10 @@ def stream(toks, skip_heads=True):
                 continue
             if t.kind == "container":
                 n = local(t.el)
+                if n == "head" and t.el in SUBTITLES:
+                    out.append(("¶", "m", t, path))      # a block of its own
+                    walk(t.children, path + (t,))
+                    continue
                 if skip_heads and n == "head" and local(t.el.getparent()) == "div":
                     if not HEAD_MODE["on"]:
                         continue
@@ -2955,7 +2960,9 @@ def build_layout(args, tree, root, text, toks, files, cfg=None):
             title = review.headings[0] if review.headings else None
             if f["title"] and title and " ".join(title.split()) != " ".join(f["title"].split()):
                 unresolved.append((fname, "file title (change it in the LAYOUT)", title))
-            view = View([by_el[p] for p in f["parts"]], None)
+            sub = [f["subtitle"]] if f.get("subtitle") is not None else []
+            SUBTITLES.update(sub)
+            view = View([by_el[p] for p in sub + f["parts"]], None)
             st, s = review_division(view, review, fname, log, unresolved)
             index_ = {}
             for k, e in enumerate(s):
