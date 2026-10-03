@@ -25,6 +25,7 @@ Branch `pilgrims-progress-review`, worktree
 - [ ] part-2 stage-01..08
 - [x] part-2 stage-01, stage-02
 - [x] part-2 stage-03
+- [x] part-2 stage-04
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
 
@@ -62,6 +63,7 @@ Branch `pilgrims-progress-review`, worktree
   "within herself, If".
 - II s1: "stand; For" -> "for"; "Christiana, had I" -> "Had". II s2: "doing, But" -> "; but"; "said, stand back" -> "Stand"; "pilgrim’s life." -> "?"; "God made it a true saying upon me, and grant" -> "make" (sense, parallel to grant); "he, said" -> "he said"; "neat and find" -> "neat and fine".
 - II s3: "take A sword" -> "a"; "conductor, what" -> "What"; doubled "when" removed ("coming when, in my opinion, going down"). Q1 note: Part II s3 also has "Formality and Hypocrisy" (Bunyan 1684 likely Formality) — keep Part II.
+- II s4: "before; But" -> "but"; missing close quote after Psa. 120:3,4 quotation; "there come to the door" -> "came"; "Christana" -> "Christiana"; "pilgrim’s had been" -> "pilgrims". QUESTION 7: s4 l.214 "So Christiana desired it, and entered the room, and had a little observed the boy, he concluded" — CCEL lost words; standard 1684 text "So Christiana desired it, and they sent for him, and he came; and when he was entered the room, and had a little observed the boy, he concluded". Recommend restoring.
 
 ## To do globally (after reading)
 
@@ -90,4 +92,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Continue Part II at part-2/stage-04.typ through stage-08. Part II stage fixes not yet synced: run ./fgb sync pilgrim and ./fgb check pilgrim. Then global to-do, build, PDF checks, report.
+Continue Part II at part-2/stage-05.typ through stage-08. Then ./fgb sync pilgrim, ./fgb check pilgrim, global to-do, build, PDF checks, report.
