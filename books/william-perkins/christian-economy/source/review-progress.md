@@ -32,5 +32,9 @@ Not applied (the TEI cannot hold them): Laban nested under Bethuel in the ch5 tr
 ## Status
 Batch 1 synced; ./fgb check OK (chapter-05 differs only by the known #linebreak()). WIP committed.
 
-## Next step
-./fgb build perkins; check PDF text for quotes and markup; write proofread-report.md; final commit.
+## Next step (paused here, 2026-10-02)
+Reading and fixing are finished. Still to do:
+1. `./fgb build perkins` (Lulu checks, epubcheck).
+2. Run `pdftotext` on dist/william-perkins/christian-economy/*.pdf and grep for `,‘ `, `‘ `, `’’`, `#emph`, `\[`.
+3. Write source/proofread-report.md in Grace Abounding's shape. "Needs your decision" = the 13 questions above, plus the two not-applied items. "Fixed" = the 63 changes in the first WIP commit's chapters/typ diff, grouped as: 1609 misprints, machine-pass errors (otherwise, fair, bitterns, prays, case after &c. and after references), an earlier review slip (for shaken -> forsaken), spelling, references (Esay 62.5, Ephes 6.4, Jerem 29.6, Mat 24.45, v. 11, chap. 1 vers. 11), and the ch17 paragraph rejoined. "Kept" = Philistims in Exod 2:19 (Perkins' own), Mat./Matth. and Psal./Psalm. as printed, Ans./Answ., footnotes in original spelling, "1 Cor. 7. 9" as printed.
+4. Final commit: "Christian Economy: proofread, pending decisions".
