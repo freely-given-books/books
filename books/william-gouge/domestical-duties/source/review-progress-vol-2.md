@@ -19,7 +19,12 @@ Helpers (scratchpad, /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/7734
 - 01 seeking-marriage: done
 - 02 getting-married: done
 - 03 marital-unity: done
-- next: 04 living-together-in-love
+- NEXT STEP: read 04 living-together-in-love from line 1 (word map already applied to all vol-2 files;
+  re-run wmap.py after adding words). Sync after ch 1-3 edits worked (94 new spelling decisions);
+  ./fgb check not yet run. Case-check list (case.py) still to handle: 04 'Lord. man and wife', 04 'house. persons at',
+  08 'Answ. subjection', 09 'Answ. wives cannot', 12 'subjection. example more', 13 'wife. love covereth',
+  15 'entreat it. note how', 17 'Object. mothers in law', 01 '(Mat. 19. 6.) husbands therefore'.
+  Also check every 'bruit' (brute) and verb 'loath' (loathe) in vol-2; ch 6 'and well him' -> 'tell him', 'which he good husband' -> 'the'.
 
 ## Questions so far (draft "Needs your decision")
 - V2-1 ch3 §9: "(Eccles. 20. 7.)" for abstinence in a wife's separation: the verse is Ezek. 18. 6. Print: Eccles. 20. 7. Rec: Ezek. 18. 6.
