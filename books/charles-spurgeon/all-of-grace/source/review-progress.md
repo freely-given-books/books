@@ -26,4 +26,4 @@ ch1 he→be refreshed; ch3 "Come, for"; ch6 "flesh. (Ezekiel" → "flesh (Ezekie
 9. ch9 "The faith which saves has its analogies..." set as a block quote (CCEL blockquote).
 
 ## Next step
-Write source/proofread-report.md, final commit.
+Done: proofread-report.md written and committed. (Draft question 6, italics, was dropped: CCEL's body has none.)
