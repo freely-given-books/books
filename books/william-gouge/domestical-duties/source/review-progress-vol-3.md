@@ -17,7 +17,8 @@ if the scratchpad is gone).
 - 03 done, fixed
 - 04 done, fixed
 - 05 done, fixed
-- 06-10 not yet read
+- 06 read to line 319 (of ~450); its fixes NOT yet applied (list below)
+- 07-10 not yet read
 
 ## Fix kinds so far (for the report)
 - misprints (print or TCP): siliall->filial, fullenness->sullenness, cavear->caveat,
@@ -69,5 +70,25 @@ if the scratchpad is gone).
 - "Iam." (James) not modernized to "Jam." though Ioh->Joh, Iob->Job were.
 - variant spellings: collect at the end.
 
+## 06 fixes identified, not yet applied (lines 1-319)
+enioyneth->enjoineth; item "3. To instruct" (l.37) into the "- 1\. / - 2\." list as "- 3\.";
+Isaacks->Isaacs; paine->pain (l.86 x2, l.94, l.314-318 x3); Savadges in Virginea->Savages in Virginia;
+"1 Thes 5. 17.."->"1 Thes. 5. 17."; "Treat 5."->"Treat. 5."; "Hier. ad] 1 #emph[aet.]]"->"Hier. ad Laet.]]";
+"Psal. 1. 12. 2."->"Psal. 112. 2." (settles V3-4 second half); degenerat->degenerate;
+join "#strong[3. #emph[Object.]]" with the next paragraph (as 03 §36); Ammon->Amnon (2 Sam 13);
+toile->toil; saulation->salvation; "Tro. 10. 22."->"Pro."; nutriend->nutriendi; coveteous; affoorded;
+Philosophen->Philosophers; Angell->Angel x3; miscariage->miscarriage x3;
+"vindie abitur si iniusle"->"vindicabitur si iniuste" (accented e); hardned->hardened x2;
+"Iniquiffima ... quiae"->"Iniquissima ... quia"; "Digest. l, 25." (comma inside the emph) -> "l.";
+"a kind of further."->"murder." (print "further"; the Latin beside it: necare videtur); bestfood->best food;
+add "(" before "As new-borne babes desire" (closing ")" is there); brest-milk; "ablactaueris cam"->eam;
+"1. The consequences" -> "I." (II., III. follow); "1\. #emph[Tim.] 5. 10."->"1 #emph[Tim.]"; "As his is"->this;
+"virgin #emph[man]"->Mary (print "Man"); diddest->didst; "taketh if also"->it; "womb bear him"->bare;
+Idoirco->Idcirco, "praebuit" + odd mark -> "praebuit."; "Plut. de Justit."->Instit.; seamonsters->sea-monsters;
+Cucco->Cuckoo x2; dugges->dugs; "up. And stilling them;"->"up, and stilling them:" (print "vp. and");
+"Or when ... he had one"->she; Pharohs->Pharaohs; "Reu.] 15. 16."->"16. 15." (Rev 16:15, thief).
+Coordinator note: "Reu." (Revelation) is not modernized to "Rev." anywhere in the book.
+
 ## Next step
-Read 06 (12.6k words), then 07-10; then variants table, build, report.
+Apply the 06 list above (python exact replacements, assert each count), then read 06 from line 319
+to the end, then 07-10; then variants table, sync/check/pdf, report proofread-report-vol-3.md.
