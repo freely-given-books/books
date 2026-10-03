@@ -541,7 +541,7 @@ in light to the soul.
     Ans. The meaning is this, that we have, first, breeding and education,
     and some light of the Spirit turneth it presently to practice, by obedience to
     that knowledge. And then you shall know more. He that doth these things,
-    he shall know all. They shall know that do practice what they know already.
+    he shall know all. They shall know that do practise what they know already.
     'To him that hath shall be given,' Mat 13:12; that is, to him that hath some
     knowledge, and putteth in practice what he hath, God will increase the talent
     of his knowledge; he shall know more and more, till God revealeth himself

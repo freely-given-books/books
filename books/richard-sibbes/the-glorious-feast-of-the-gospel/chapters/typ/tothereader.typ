@@ -91,7 +91,7 @@ precious memory, are published. Wherein thou art presented.
   some loose professors in these times). Κατῆλθεν εἰς θάνατον ἀθάνατος, καὶ τῷ θανάτῳ καθεῖλε θάνατον.
   But here, Christ serves in death’s head, as David 'the head of Goliah,'
   1 Samuel 31:9, the head of a slain and conquered death.
-  Our Sampson by his own death 'hath destroyed death, and hath
+  Our Samson by his own death 'hath destroyed death, and hath
   thereby ransomed us from the hand of the grave, and hath redeemed us
   from death,' Hosea 13:14, and the slavish fear of it.
   All which is at large

@@ -72,7 +72,7 @@ Abraham had promise of a son, but it was not performed till he was an old
 man. Simeon had a promise to see Christ in the flesh, but he was an old man,
 ready to yield up the ghost, before it was performed. God taketh a long day
 for his promises; long to us, not to him, 'for to him a thousand years are but
-as one day,'
+as one day.'
 
 Reason 1. The promises of God are long in performing; for to exercise
 our faith and our dependence to the full;
@@ -274,7 +274,7 @@ for the consolation of Israel,' Luke 2:25. To have a gracious disposition, and
 a grace of waiting was the character of good people. Now since the coming
 of Christ, the character of the New Testament is, to wait for Christ’s
 appearance. 'There is a crown of glory for me, and not only for me, but for all
-them that love his appearance,' 2 Tim, iv. 8. That is an ingredient in waiting,
+them that love his appearance,' 2 Timothy 4:8. That is an ingredient in waiting,
 when we love the thing we wait for. And so Titus 2:12, 'The grace of God
 that teacheth to deny ungodliness and worldly lusts, and to live holily, and
 justly, and soberly in this present evil world, looking for and waiting for this
@@ -296,7 +296,8 @@ as they say here, 'We have waited.' That is the speech of enjoying. God will at
 length make good what he hath promised; and what his truth hath promised,
 his power will perform. Goodness inclineth to make a promise, truth speaks
 it, and power performeth it, as you shall see here.
-'We have waited,'.
+'We have waited.'
+
 
 In God there is a mouth of truth, a heart of pity, and an hand of power.
 These three meeting together, make good whatsoever is promised. 'He will
@@ -326,7 +327,7 @@ point of time in general he leaveth it. There is a day; but the point and
 moment of time he keepeth in his own power. It is enough to know there is
 a day, and a day that will come in the best season. God’s time is the best
 time. When judgments were threatened upon the wicked, they say, 'Let us
-eat, and drink, for to morrow we shall die,' 1 Corinthians 15:82.
+eat, and drink, for tomorrow we shall die,' 1 Corinthians 15:32.
 So Saul, 'Tomorrow thou shalt die,' 1 Samuel 28:19, and was he the better? So where
 there is a certain time of God’s coming in judgment, godly men would not be
 the worse, and wicked men never the better. Therefore God reserveth it

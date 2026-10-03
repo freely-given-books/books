@@ -7,16 +7,16 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2280 |
+| punctuation | 2281 |
 | case | 1761 |
-| spelling | 1688 |
-| emendation | 800 |
+| spelling | 1687 |
+| emendation | 802 |
 | italic | 583 |
 | note | 385 |
-| spacing | 197 |
-| split | 68 |
+| spacing | 196 |
+| split | 67 |
 | grammar | 52 |
-| merge | 30 |
+| merge | 29 |
 | list | 22 |
 | quotation | 15 |
 | gap | 2 |
@@ -79,7 +79,6 @@
 - [chapter7.typ] paragraph → 1 split(s) at And
 - [chapter7.typ] paragraph → 1 split(s) at Againe
 - [chapter7.typ] paragraph → 1 split(s) at The
-- [chapter8.typ] paragraph → 1 split(s) at .
 - [chapter8.typ] paragraph → 2 split(s) at ,, to
 - [chapter8.typ] paragraph → 1 split(s) at but
 - [chapter9.typ] paragraph → 1 split(s) at God
@@ -745,6 +744,7 @@
 - [chapter8.typ] 400 → four hundred
 - [chapter8.typ] 4000 → four thousand
 - [chapter8.typ] 1000 → thousand
+- [chapter8.typ] The → Reason 1. The
 - [chapter8.typ] , to → Reason 2. To
 - [chapter8.typ] to indeare → Reason 3. To endear
 - [chapter8.typ] my self → myself
@@ -773,16 +773,17 @@
 - [chapter8.typ] Last → 
 - [chapter8.typ] Israel → Israel, Genesis 49:18,
 - [chapter8.typ] Israel → Israel,' Luke 2:25
-- [chapter8.typ] appearance → appearance,' 2 Tim, iv. 8
+- [chapter8.typ] appearance → appearance,' 2 Timothy 4:8
 - [chapter8.typ] Last → 12
 - [chapter8.typ] Preserve your selves → 'Preserve yourselves
-- [chapter8.typ] & c → '
+- [chapter8.typ] , & c → 
 - [chapter8.typ] him → him,' Psalm 145:19
 - [chapter8.typ] seed time → seedtime
 - [chapter8.typ] seed time → seedtime
 - [chapter8.typ] an → in
 - [chapter8.typ] : But → ), but
-- [chapter8.typ] die → die,' 1 Corinthians 15:82
+- [chapter8.typ] to morrow → tomorrow
+- [chapter8.typ] die → die,' 1 Corinthians 15:32
 - [chapter8.typ] to morrow → 'Tomorrow
 - [chapter8.typ] die → die,' 1 Samuel 28:19
 - [chapter8.typ] Penuell → Peniel, Genesis 32:30,
@@ -2762,7 +2763,7 @@
 - [chapter8.typ] . → .'
 - [chapter8.typ] : → .
 - [chapter8.typ] ; → ,
-- [chapter8.typ] . → Reason 1.
+- [chapter8.typ] . → .'
 - [chapter8.typ] , → 
 - [chapter8.typ] , → ;
 - [chapter8.typ] , → .
@@ -2881,6 +2882,7 @@
 - [chapter8.typ] . → .'
 - [chapter8.typ] , → .'
 - [chapter8.typ] . → ,
+- [chapter8.typ] . → .'
 - [chapter8.typ] ; → .
 - [chapter8.typ] : → .
 - [chapter8.typ] : → .
@@ -3762,7 +3764,6 @@
 - bowells → bowels (×3)
 - burthen → burden (×3)
 - but → but, (×3)
-- day → day,' (×3)
 - dayly → daily (×3)
 - face → 'face (×3)
 - fourty → forty (×3)
@@ -3835,6 +3836,7 @@
 - cloath → clothe (×2)
 - conquerour → conqueror (×2)
 - day → day, (×2)
+- day → day,' (×2)
 - denyall → denial (×2)
 - destroy → 'destroy (×2)
 - disgested → digested (×2)
@@ -3870,6 +3872,7 @@
 - my → 'my (×2)
 - notwithstanding → notwithstanding, (×2)
 - pittifull → pitiful (×2)
+- practice → practise (×2)
 - priviledges → privileges (×2)
 - rowle → roll (×2)
 - savor → savour (×2)
@@ -4028,7 +4031,6 @@
 - Rose → 'rose
 - Sacraments → sacraments,
 - Salvation → Salvation,
-- Samson → Sampson
 - Savior → Saviour
 - Scepters → sceptres
 - Scriptures → Scriptures,
@@ -4355,7 +4357,6 @@
 - possible → possible,
 - poyson'd → poisoned
 - poysonfull → poisonful
-- practice → practise
 - practise → practice
 - pradicall → practical
 - prayses → praises
