@@ -68,3 +68,22 @@ arg-13..20: "his"->"our" style slips; arg-19 "but in the" dropped; arg-17 fine.
 
 `./fgb check brooks`: OK. [2] lists 17 files as differing from the extraction: expected layout lines
 (README), but confirm it was 17 before this branch (`git stash`-free: compare on a clean checkout of main).
+
+## Update (resumed 2026-10-03)
+
+- arguments 13-20, application-01, application-02: done. NEXT: application-03, 04, 05; then build, PDF check, report.
+- check [2]: the 17 files differ from the extraction only by layout lines and a blank line after the heading
+  (argument-04 etc.); predates this branch.
+- more fixes: arg-14 "As he is included … so he" -> He; app-01 forpublic; app-02 "Sirs, I, as you, love" ->
+  "O sirs, as you love" (1665; CL slip) and "?"; Eropas -> Eropus (1665 "Ero••s", two letters lost; Aeropus);
+  "until he entered" -> He (Christ); "enjoin our affections" -> conjoin (1665); "What do ye more than others?";
+  "Thou sayest thou cannot pray" -> "canst not" (1665); Zech -> Zec (2); Sirtorius -> Sertorius; "so forwardly" ->
+  frowardly (1665; CL slip); "husbandmen until their fields" -> till (1665); "(1)#emph" space; "the holy”." ->
+  "holy.”"; "some of his people" -> His; "authentic. / And, for ensuring." merged as 1665; "(Compare Song 2:16; 3-6"
+  -> "2:16, 3-6"; "Tenthly and lastly. When" -> ", when"; "sweet meats" -> sweetmeats; "brevis doemon" -> daemon
+  (1665 Daemon); ‘My sister …” -> “; "the “the soul’s beast" -> doubled the removed; "our Saviour" -> Savior.
+- questions added: yearnings (=earnings, ×4: arg-15, arg-19, app-03 ×2); "[Queen Elizabeth]" is Chapel Library's
+  annotation (app-02) - remove?; Harcatus (1665) -> Hyrcanus (CL) - restore "Harcatius"?; "But secondly, this may serve
+  to exhort us" (app-01 end, "Secondly" cut); Isa 54:13 expanded by CL into a quotation, so "In these words" now points
+  at Isaiah (app-02, Spirit teaches); 1Sa 1:11 (Brooks's ref, 1:13 is the verse); "eminent danger" (=imminent, arg-13);
+  recompence (×2) / recompense.

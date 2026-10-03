@@ -7,17 +7,17 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4986 |
-| case | 3779 |
-| emendation | 3769 |
-| spelling | 2426 |
+| punctuation | 4982 |
+| case | 3782 |
+| emendation | 3760 |
+| spelling | 2427 |
 | italic | 1946 |
 | spacing | 1839 |
 | note | 403 |
-| split | 99 |
+| split | 98 |
 | heading | 90 |
 | grammar | 74 |
-| gap | 26 |
+| gap | 25 |
 | merge | 24 |
 | list | 9 |
 | verse | 1 |
@@ -75,7 +75,6 @@
 - [application-02.typ] paragraph → 2 split(s) at Joy, But
 - [application-02.typ] paragraph → 1 split(s) at So
 - [application-02.typ] paragraph → 1 split(s) at In
-- [application-02.typ] paragraph → 1 split(s) at ,
 - [application-02.typ] paragraph → 2 split(s) at To, As
 - [application-02.typ] paragraph → 1 split(s) at When
 - [application-02.typ] paragraph → 1 split(s) at Now
@@ -133,7 +132,6 @@
 - [application-02.typ] 〈 in non-Latin alphabet 〉 → ” (Eph 5:16)—ἐξαγοραζόμενοι τὸν καιρόν
 - [application-02.typ] •art → mart
 - [application-02.typ] c•lled → called
-- [application-02.typ] 〈 in non-Latin alphabet 〉 → ” (Mat
 - [application-02.typ] o• → of
 - [application-02.typ] 〈 in non-Latin alphabet 〉 → 
 - [application-02.typ] •ouls → souls
@@ -1250,7 +1248,6 @@
 - [application-01.typ] man → man who
 - [application-01.typ] who → 
 - [application-01.typ] But , → 
-- [application-01.typ] for publick → forpublic
 - [application-01.typ] Temple , → temple
 - [application-01.typ] Matth → 
 - [application-01.typ] . And → ), and
@@ -1328,7 +1325,6 @@
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] But , → 
 - [application-02.typ] account → account (Ecc 11
-- [application-02.typ] O sirs → Sirs, I
 - [application-02.typ] others , → others’
 - [application-02.typ] & c → etc
 - [application-02.typ] reckoning → reckoning before angels
@@ -1446,7 +1442,7 @@
 - [application-02.typ] 8 → 
 - [application-02.typ] infidel → infidel” (Exo 20:9; 1Co 7:20; 2Th 3:10-12; 1Th 4:11-12; Eph 4:28; 1Ti 5:8)
 - [application-02.typ] Carpenter , → carpenter
-- [application-02.typ] , till → until
+- [application-02.typ] , till he → until He
 - [application-02.typ] agree → agree (Mar 6:3; Mat 13:55-56)
 - [application-02.typ] 10 → :
 - [application-02.typ] 20 → )
@@ -1536,11 +1532,7 @@
 - [application-02.typ] Math → 
 - [application-02.typ] 5 . 47 . → “
 - [application-02.typ] you → ye
-- [application-02.typ] What → 
-- [application-02.typ] extraordinary → 
-- [application-02.typ] thing → 
-- [application-02.typ] do → 
-- [application-02.typ] you → 
+- [application-02.typ] 〈 in non-Latin alphabet 〉 ? What extraordinary thing do you ? → ” (Mat 5:47).
 - [application-02.typ] Publick Prayers , → public prayers
 - [application-02.typ] O but → Oh! But
 - [application-02.typ] O that → Oh! That
@@ -1555,7 +1547,6 @@
 - [application-02.typ] made → 
 - [application-02.typ] nature → nature” (2Pe 1:4)
 - [application-02.typ] 'tis → It is
-- [application-02.typ] conjoyne → enjoin
 - [application-02.typ] of → 
 - [application-02.typ] viz → 
 - [application-02.typ] made → made “
@@ -1774,7 +1765,7 @@
 - [application-02.typ] Zech → 
 - [application-02.typ] 12 → 
 - [application-02.typ] 10 → 
-- [application-02.typ] supplication → of supplications” (Eze 36:26-27; 11:19; Zech 12:10)
+- [application-02.typ] supplication → of supplications” (Eze 36:26-27; 11:19; Zec 12:10)
 - [application-02.typ] promises → promises (Isa 62:6-7; Isa 43:25-26)
 - [application-02.typ] Sanctification & Preservation → sanctification
 - [application-02.typ] he → and
@@ -1831,7 +1822,6 @@
 - [application-02.typ] or → 
 - [application-02.typ] & c → etc
 - [application-02.typ] O → Oh,
-- [application-02.typ] canst not → cannot
 - [application-02.typ] thy self → thyself
 - [application-02.typ] , — → -
 - [application-02.typ] walk → walk.” Oh
@@ -1850,7 +1840,7 @@
 - [application-02.typ] Zach → 
 - [application-02.typ] 12 → 
 - [application-02.typ] 10 → 
-- [application-02.typ] supplication → of supplications” (Zech 12:10)
+- [application-02.typ] supplication → of supplications” (Zec 12:10)
 - [application-02.typ] Psal . 51 . 11 . → “
 - [application-02.typ] me → me” (Psa 51:11)
 - [application-02.typ] Rom . 8 . 15 . → “
@@ -1995,13 +1985,12 @@
 - [application-02.typ] ; and → .” And
 - [application-02.typ] not → not “
 - [application-02.typ] but → but “
-- [application-02.typ] ; nor → ”. Nor “
+- [application-02.typ] ; nor → .” Nor “
 - [application-02.typ] but → but “
 - [application-02.typ] 2 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 1 . 22 . → ” “
 - [application-02.typ] hearts → hearts” (2Co 1:22)
-- [application-02.typ] and → 
 - [application-02.typ] The Time → the time,
 - [application-02.typ] thus → 
 - [application-02.typ] till → , until
@@ -2039,6 +2028,7 @@
 - [application-02.typ] a → 
 - [application-02.typ] Justification , → justification
 - [application-02.typ] a → 
+- [application-02.typ] sweet meats → sweetmeats
 - [application-02.typ] mean → mean (1Jo 1:7)
 - [application-02.typ] shels , → shells
 - [application-02.typ] practise , → practice
@@ -2070,7 +2060,7 @@
 - [application-02.typ] , to the 6th → -6)
 - [application-02.typ] , to → :1-
 - [application-02.typ] Ninthly → [9] Ninthly
-- [application-02.typ] Cant → (Compare Song 2:16; 3-6, etc
+- [application-02.typ] Cant → (Compare Song 2:16, 3-6, etc
 - [application-02.typ] 2 → 
 - [application-02.typ] 16 → 
 - [application-02.typ] 3 → 
@@ -2435,7 +2425,6 @@
 - [application-02.typ] 'tis → It is
 - [application-02.typ] and → ,
 - [application-02.typ] handsomly → , handsomely
-- [application-02.typ] Soul's → “the soul’s
 - [application-02.typ] worms - → ” “worms’
 - [application-02.typ] Soul , → soul
 - [application-02.typ] Closet , → closet
@@ -5522,6 +5511,7 @@
 - [application-02.typ] & → and
 - [application-02.typ] & → and
 - [application-02.typ] , → 
+- [application-02.typ] . → ?
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -5836,9 +5826,6 @@
 - [application-02.typ] & → 
 - [application-02.typ] , → ;
 - [application-02.typ] , → 
-- [application-02.typ] ? → 
-- [application-02.typ] ? → 
-- [application-02.typ] ? → 5:47).
 - [application-02.typ] , → 
 - [application-02.typ] ; → ,
 - [application-02.typ] ; → ,
@@ -6457,7 +6444,6 @@
 - [application-02.typ] ; → .
 - [application-02.typ] ; → .
 - [application-02.typ] ; → .
-- [application-02.typ] , → And,
 - [application-02.typ] . → :
 - [application-02.typ] ; → :
 - [application-02.typ] . → )
@@ -6567,7 +6553,6 @@
 - [application-02.typ] & → 
 - [application-02.typ] . → )
 - [application-02.typ] , → 
-- [application-02.typ] , → .
 - [application-02.typ] , → 
 - [application-02.typ] , → ;
 - [application-02.typ] , → 
@@ -7014,7 +6999,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] , → 
-- [application-02.typ] , → : ‘
+- [application-02.typ] , → : “
 - [application-02.typ] , → ,”
 - [application-02.typ] , → “
 - [application-02.typ] ) → 
@@ -7044,7 +7029,7 @@
 - [application-02.typ] & → and
 - [application-02.typ] , → 
 - [application-02.typ] , → “
-- [application-02.typ] , → 
+- [application-02.typ] , → “
 - [application-02.typ] , → ,” “
 - [application-02.typ] , → “
 - [application-02.typ] , → ,” “
@@ -7082,10 +7067,10 @@
 - [application-02.typ] : → :11).
 - [application-02.typ] ; → .
 - [application-02.typ] ; → .
-- [application-02.typ] , → 
+- [application-02.typ] , → —“
 - [application-02.typ] . → 
 - [application-02.typ] . → 
-- [application-02.typ] . → —“
+- [application-02.typ] . → 
 - [application-02.typ] ; → ” (Mat 8:19)—
 - [application-02.typ] : → .
 - [application-02.typ] ▪ → .
@@ -8961,7 +8946,7 @@
 
 ## case
 
-- his → His (×342)
+- his → His (×343)
 - he → He (×192)
 - and → And (×76)
 - Communion → communion (×75)
@@ -9031,6 +9016,7 @@
 - Emperor → emperor (×9)
 - If → if (×9)
 - Prophet → prophet (×9)
+- When → when (×9)
 - White → white (×9)
 - for → For (×9)
 - who → Who (×9)
@@ -9046,7 +9032,6 @@
 - Stone → stone (×8)
 - Take → take (×8)
 - Text → text (×8)
-- When → when (×8)
 - World → world (×8)
 - me → Me (×8)
 - you → You (×8)
@@ -9472,6 +9457,7 @@
 - Curtain → curtain
 - Curtains → curtains
 - Cymbal → cymbal
+- Daemon → daemon
 - Dams → dams
 - Daughter → daughter
 - Day → day
@@ -9929,17 +9915,17 @@
 - mans → man’s (×49)
 - Now → Now, (×38)
 - a → a- (×37)
-- publick → public (×32)
+- publick → public (×33)
 - Look → Look, (×28)
 - lye → lie (×25)
 - honour → honor (×22)
 - labour → labor (×22)
 - lyes → lies (×19)
 - Certainly → Certainly, (×18)
-- till → until (×16)
 - Christ's → Christ’s (×15)
 - Lords → Lord’s (×15)
 - Oh → Oh, (×15)
+- till → until (×15)
 - mens → men’s (×14)
 - neer → near (×14)
 - Jacobs → Jacob’s (×13)
@@ -9964,6 +9950,7 @@
 - pretence → pretense (×7)
 - voyce → voice (×7)
 - Ah → Ah, (×6)
+- Saviour → Savior (×6)
 - favourites → favorites (×6)
 - hours → hour’s (×6)
 - ingenious → ingenuous (×6)
@@ -9982,7 +9969,6 @@
 - Masters → masters’ (×5)
 - Publick → public (×5)
 - Satans → Satan’s (×5)
-- Saviour → Savior (×5)
 - Spirits → Spirit’s (×5)
 - cleer → clear (×5)
 - favours → favors (×5)
@@ -10083,7 +10069,6 @@
 - terrour → terror (×3)
 - woful → woeful (×3)
 - womans → woman’s (×3)
-- you → you, (×3)
 - 12 → 12) (×2)
 - 13 → 13) (×2)
 - 16 → 16) (×2)
@@ -10232,6 +10217,7 @@
 - wrapt → rapt (×2)
 - wrapt → wrapped (×2)
 - yea → yea, (×2)
+- you → you, (×2)
 - 1 → 1)
 - 14 → 14)
 - 18 → :18
@@ -10318,7 +10304,6 @@
 - Crown'd → crowned
 - Crucifiè → “Crucify
 - Cyclopes → Cyclops
-- Daemon → doemon
 - Dalilahs → Delilahs
 - Daniel → Daniel,
 - Darius → Darius,
@@ -10346,7 +10331,7 @@
 - Enech → Enoch
 - Epaphras → Epaphras’
 - Ephram → Ephraim
-- Ero••s → Eropas,
+- Ero••s → Eropus,
 - Esther → Est
 - Examples → examples,
 - Exod → Exo
@@ -10503,11 +10488,13 @@
 - Shut → “shut
 - Sibbs → Sibbes
 - Sir → sirs
+- Sirtorius → Sertorius
 - Sixthly → Sixth
 - Sodoms → Sodom’s
 - Solons → Solon’s
 - Some → Some,
 - Sotomen → Sozomen
+- Soul's → soul’s
 - Souls → soul
 - Souls → soul’s
 - Spouses → spouse’s
@@ -10579,7 +10566,7 @@
 - assayled → assailed
 - attain'd → attained
 - augmented → augmented,
-- authentick → authentic.
+- authentick → authentic
 - awakes → awakes,
 - awakning → awakening
 - ballance → balance
@@ -10658,6 +10645,7 @@
 - complements → compliments
 - comprized → comprised
 - condescention → condescension
+- conjoyne → conjoin
 - conquerour → conqueror
 - conquests → conquests,
 - consciences → conscience
@@ -10781,7 +10769,6 @@
 - freez → freeze
 - friends → friend’s
 - front → from
-- frowardly → forwardly
 - frugallity → frugality
 - fruits → firstfruits
 - gifts → gifts,
