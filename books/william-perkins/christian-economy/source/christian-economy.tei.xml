@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-09-30" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-02" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -2634,7 +2634,7 @@ an aged woman; the elder <choice><orig>partie</orig><reg resp="#auto" type="spel
 <choice><orig>weake</orig><reg resp="#auto" type="spelling">weak</reg></choice> and impotent, may the soo<g ref="char:EOLhyphen"/>ner
 come to be <choice><orig>vnfit</orig><reg resp="#auto" type="spelling">unfit</reg></choice> for <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> duties;
 and the <choice><orig>yonger</orig><reg resp="#auto" type="spelling">younger</reg></choice> being of greater <choice><abbr>stre<g ref="char:cmbAbbrStroke">̄</g>gth</abbr><expan>strength</expan></choice>
-and <choice><orig>abilitie</orig><reg resp="#auto" type="spelling">ability</reg></choice>,, the more in danger of be<g ref="char:EOLhyphen"/>ing
+and <choice><orig>abilitie</orig><reg resp="#auto" type="spelling">ability</reg></choice>,<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> the more in danger of be<g ref="char:EOLhyphen"/>ing
 exposed to <choice><orig>incontinencie</orig><reg resp="#auto" type="spelling">incontinency</reg></choice>, and that
 in the highest degree, <choice><orig>vnlesse</orig><reg resp="#auto" type="spelling">unless</reg></choice> he be re<g ref="char:EOLhyphen"/>strained
 by Gods <choice><orig>speciall</orig><reg resp="#auto" type="spelling">special</reg></choice> grace. For

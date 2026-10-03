@@ -188,6 +188,13 @@ python3 scripts/tei/tei_to_html.py source/christian-economy.tei.xml preview.html
 python3 scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
 #   --before/--after FILE   modern pages (.typ or .html), as for tei_epub.py
 
+# a copy against the early text and a modern witness: likely slips
+python3 scripts/tei/slips.py source/<book>.tei.xml witness.pdf   # or .epub, .txt, a .typ folder
+# odd spacing, punctuation, quotes, swallowed semicolons in chapters/typ
+python3 scripts/tei/sweep.py books/<author>/<book> [--early]
+# scripture references: verses that don't exist, quotes that don't match (KJV/BSB)
+python3 scripts/tei/refs.py books/<author>/<book> --quotes [--bible bsb]
+
 # end-to-end check: rebuild matches committed TEI, round trips, compile
 python3 scripts/tei/verify.py books/william-perkins/christian-economy
 ```

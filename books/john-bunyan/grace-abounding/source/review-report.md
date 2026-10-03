@@ -3,9 +3,10 @@
 | kind | count |
 | --- | --- |
 | case | 25 |
-| spacing | 14 |
+| spacing | 16 |
 | spelling | 3 |
 | italic | 1 |
+| merge | 1 |
 
 ## case
 

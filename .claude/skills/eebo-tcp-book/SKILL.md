@@ -1,6 +1,6 @@
 ---
 name: eebo-tcp-book
-description: Prepare a Freely Given Books edition from an EEBO-TCP transcription — enriched TEI master, modern-spelling Typst chapters, print PDF and EPUB 3 — using scripts/tei/. Use this whenever the user wants to start a book from quod.lib.umich.edu, EEBO, the Text Creation Partnership or an A##### id; bring an already finished book into the TEI pipeline ("make it match"); fill in macron or illegible-gap decisions; rebuild the TEI after editing chapters/typ; deal with review-report.md or spelling decisions; change spelling.py; or rebuild/check a TEI-based EPUB. Use it even when the request only names one step ("rebuild the TEI", "the Perkins ebook", "add a spelling fix"), because the steps depend on each other.
+description: Add a new book to Freely Given Books, or build one — the TEI pipeline in scripts/tei/ that turns an EEBO-TCP or Evans transcription or a CCEL text (and the user's own published copy, if any) into an enriched TEI master, modern-spelling Typst chapters, a print PDF to Lulu's rules with its cover, and an EPUB 3. Use this whenever the user wants to add, start or "do" a new book (by title, author, an A#####/N##### id, a quod.lib.umich.edu or CCEL link), bring their own copy of a book into the pipeline ("merge it in", "reference it with my work"), compare a copy with a witness such as Monergism or Chapel Library, or build books: ./fgb build/pdf/epub, print PDFs, covers and spines, EPUBs, epubcheck, Lulu margin or footnote warnings, page counts. Also for rebuilding the TEI after editing chapters/typ, macron or gap decisions, review-report.md, spelling.py. Use it even when the request only names one step ("rebuild the TEI", "build the Perkins ebook", "Sinners in the Hands next"), because the steps depend on each other. For proofreading or reviewing a book's text, use book-review instead.
 ---
 
 # EEBO-TCP book pipeline
@@ -9,7 +9,18 @@ The model books are William Perkins, *Christian Economy*
 (`books/william-perkins/christian-economy/`, reviewed from the machine
 pass) and *The Anatomy of Simon Magus* (`books/anonymous/the-anatomy-of-simon-magus/`,
 a finished, heavily edited book brought in afterwards). When in doubt, do
-what they do.
+what they do. Later books show the other shapes a book can take:
+
+| Book | Shape |
+| --- | --- |
+| Gouge, *Domestical Duties* | huge `LAYOUT`, four volumes, machine pass reviewed |
+| Spurgeon, *All of Grace*; Bunyan, *Pilgrim's Progress*, *Grace Abounding* | CCEL base, TCP first edition as witness |
+| Sibbes, *Glorious Feast*; Brooks, *Secret Key of Heaven* | the user's copy folded in, Monergism / Chapel Library as witness |
+| Edwards, *Sinners in the Hands* | one-file copy, Evans text bound with another work |
+
+**When the user already has a copy of the book** (any of the last two
+rows), read `references/finished-copies.md` before step 1: choosing the base
+text, the fold-in, the slip check and the sweep are all there.
 The repo-root `CLAUDE.md` holds the hard-won lessons behind every script; read
 its "Hard-won lessons" before changing any script in `scripts/tei/`.
 
@@ -51,8 +62,10 @@ for the book folder, e.g. `books/thomas-brooks/some-book`.
 
 ### 1. Get the source
 
-The `<ID>` is the `A#####` in a quod.lib.umich.edu URL. That site blocks
-scripted access, so don't try to fetch it. The same TEI is on GitHub:
+The `<ID>` is the `A#####` (EEBO) or `N#####` (Evans) in a quod.lib.umich.edu
+URL. That site blocks scripted access, so don't try to fetch it. The same TEI
+is on GitHub (an `R#####` the user gives is an ESTC number, not a TCP id:
+search TCP by title, see `references/finished-copies.md`):
 
 ```sh
 git clone --depth 1 https://github.com/textcreationpartnership/<ID> /tmp/<ID>
@@ -85,8 +98,14 @@ tree and agree on the files and their names before building anything.
 Don't start step 2 until the check passes: text in no file would silently
 vanish. A printed division
 the edition deliberately leaves out (a table of contents, a publisher's
-advertisement) goes in `editorial.py` as `SKIP_DIVISIONS`; ask the user
-before deciding that anything with text is left out.
+advertisement) goes in `editorial.py` as `SKIP_DIVISIONS`; loose blocks
+left out (most of a long dedication, a modern publisher's foreword) go in
+`SKIP_BLOCKS(root)`. Ask the user before deciding that anything with text
+is left out, and cut layouts by printed text, not by position.
+
+Before building, check which edition the text is (`<date>`, `<idno>`) and
+measure it against what the user expects: a first edition can lack a fifth
+of the text readers know (Bunyan's *Grace Abounding*, 1666 vs 1688).
 
 ### 2. Editorial decisions: `source/editorial.py`
 
@@ -143,11 +162,23 @@ $PY ../../../../scripts/tei/build_tei.py <ID>.tcp.xml <book>.tei.xml
 $PY ../../../../scripts/tei/tei_extract.py <book>.tei.xml ../chapters/typ --layer reg
 ```
 
-Then set up the book files by copying Perkins's and changing the text:
-`<book>.typ` (print, `@local/fgbooks` template, which is not in this repo, so
-the user compiles it), `cover.typ` (uses `scripts/panel_cover.typ`; the spine
-width depends on the page count), `ebook-front.html`, `ebook-override.css`,
-`README.md` and `source/README.md`. Also copy `lcc_standard_pd.png`.
+Then set up the book files by copying a recent book's (Grace Abounding,
+Pilgrim's Progress) and changing the text: `<book>.typ` (print,
+`@local/fgbooks:0.5.3`), `cover.typ` (`scripts/panel_cover.typ`, one
+palette per author: Bunyan is ochre), `ebook-front.html`,
+`ebook-override.css`, `README.md`, and `EPUB`/`PRINT`/`COVERS` in
+`editorial.py`. Also copy `lcc_standard_pd.png`.
+
+Print follows Lulu's rules (memory: lulu-margins): template 0.5.3 margins
+(top 0.9in, bottom 0.6in) and the inside margin from Lulu's table for the
+page count (under 60 pages 0.5in, 61-150 0.625in, 151-400 1in, 401-600
+1.125in). `./fgb pdf` checks it, and also warns when a footnote's text lands
+on another page than its marker (Typst's widow control or a crowded page;
+fix a single case by turning widow control off for that paragraph, accept
+it in note-dense books like Gouge). A running head that wraps breaks the top
+margin: give long titles a short one with `#metadata[Short] <short>` before
+the `#include`. After the page count changes, update the cover's `pages:`
+or spine.
 
 Hand `chapters/typ` to the user for review. That is their job, not yours.
 Give them the side-by-side reading copy too (printed text next to the
@@ -215,6 +246,11 @@ review. Nothing about the book should change except what the user agreed.
 Expect thousands of decisions for a thorough modern edition (Simon Magus:
 about 7,300 — capitalization, grammar modernized, notes rewritten and moved,
 translations inserted). That is the record doing its job, not noise.
+
+Then, for any book with a modern witness, run the slip check
+(`scripts/tei/slips.py`) and the sweep (`scripts/tei/sweep.py`); see
+`references/finished-copies.md` for reading their output, the encodings a
+copy's own headings, lists and closers need, and what to fix versus ask.
 
 ## Spelling decisions
 
@@ -295,16 +331,34 @@ not kept in git: add the book's folder to the root `.gitignore`.
 
 ## Committing
 
-Work on a branch, not `main`. Commit the TCP file, the TEI, `editorial.py`,
-`review-report.md`, `chapters/typ`, the book files and any script changes.
-Don't commit `/tmp` output, `__pycache__`, or intermediate HTML. Commit the
-PDF and EPUB only if the book already tracks them (Perkins does).
+Work on a branch, not `main`; commit and open a PR when the user asks (they
+merge). Commit the source file(s), the TEI, `editorial.py`, the reports,
+`chapters/typ`, the book files and any script changes; tools and book in
+separate commits. Built PDFs and EPUBs are not kept in git: add the book's
+lines to the root `.gitignore` and `git rm --cached` any it tracked.
+
+Stage paths by name, never a whole book folder: book folders hold things
+that must not be committed (the user's page scans, a publisher's EPUB under
+copyright, old backups). After `git rm --cached`, commit tools with a
+path-limited `git commit <paths>` so the staged deletions land in the book's
+commit.
+
+After any change to `scripts/tei/`, run `verify.py` on every TEI book
+(`ls books/*/*/source/*.tei.xml`): each must rebuild to its committed TEI.
 
 ## Decide vs ask
 
 Decide yourself: n/m macrons and gaps that context settles (with evidence
 notes), mechanical fixes, anything `verify.py` can prove.
-Ask the user: the book's division structure and file names, gaps that need
-a page image you couldn't get, anything that changes their reviewed text,
+Ask the user: the book's division structure and file names, which text is
+the base (TCP or CCEL, which edition), gaps that need a page image you
+couldn't get, anything that changes their reviewed text on purpose
+(restoring cut passages, undoing a modernization), what to leave out,
 `MANUAL` entries that could be context-dependent, and the editor credit
 (`build_tei.py --editor`, default "Courtney Allen Hicks").
+
+The user's standing preferences: editions now are *lightly* modernized (a
+separate, more modern edition may come later from the same TEI), so don't
+sweep for archaic grammar unless asked; clear slips are fixed and reported;
+a book's deliberate choices stand (Edwards quotes the BSB). Report what you
+fixed in plain words, with examples.
