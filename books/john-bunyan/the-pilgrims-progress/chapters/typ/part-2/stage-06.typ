@@ -145,7 +145,7 @@ Mr. Great-Heart: An opinion that is not fit to be with any allowance in the worl
 
 Mr. Honest: You must understand me rightly: he did not say that any man might do this; but that they who had the virtues of those that did such things, might also do the same.
 
-Mr. Great-Heart: But what more false than such a conclusion? For this is as much as to say, that because good men heretofore have sinned of infirmity, therefore he had allowance to do it of a presumptuous mind; or that if, because a child, by the blast of the wind, or for that it stumbled at a stone, fell down and defiled itself in the mire, therefore he might wilfully lie down and wallow like a boar therein. Who could have thought that any one could so far have been blinded by the power of lust? But what is written must be true: they “stumble at the word, being disobedient; whereunto also they were appointed.” 1 Peter, 2:8. His supposing that such may have the godly men’s virtues, who addict themselves to their vices, is also a delusion as strong as the other. To eat up the sin of God’s people, Hos. 4:8, as a dog licks up filth, is no sign that one is possessed with their virtues. Nor can I believe that one who is of this opinion, can at present have faith or love in him. But I know you have made strong objections against him; prithee what can he say for himself?
+Mr. Great-Heart: But what more false than such a conclusion? For this is as much as to say, that because good men heretofore have sinned of infirmity, therefore he had allowance to do it of a presumptuous mind; or that if, because a child, by the blast of the wind, or for that it stumbled at a stone, fell down and defiled itself in the mire, therefore he might wilfully lie down and wallow like a boar therein. Who could have thought that any one could so far have been blinded by the power of lust? But what is written must be true: they “stumble at the word, being disobedient; whereunto also they were appointed.” 1 Peter 2:8. His supposing that such may have the godly men’s virtues, who addict themselves to their vices, is also a delusion as strong as the other. To eat up the sin of God’s people, Hos. 4:8, as a dog licks up filth, is no sign that one is possessed with their virtues. Nor can I believe that one who is of this opinion, can at present have faith or love in him. But I know you have made strong objections against him; prithee what can he say for himself?
 
 Mr. Honest: Why, he says, to do this by way of opinion, seems abundantly more honest than to do it, and yet hold contrary to it in opinion.
 
@@ -171,13 +171,13 @@ Christiana then wished for an inn to refresh herself and her children, because t
 
 Gaius: Yes, gentlemen, if you be true men; for my house is for none but pilgrims. Then were Christiana, Mercy, and the boys the more glad, for that the innkeeper was a lover of pilgrims. So they called for rooms, and he showed them one for Christiana and her children and Mercy, and another for Mr. Great-Heart and the old gentleman.
 
-Mr. Great-Heart: Then said Mr. Great-Heart, good Gaius, what hast thou for supper? for these pilgrims have come far to-day, and are weary.
+Mr. Great-Heart: Then said Mr. Great-Heart, Good Gaius, what hast thou for supper? for these pilgrims have come far to-day, and are weary.
 
 Gaius: It is late, said Gaius, so we cannot conveniently go out to seek food; but such as we have you shall be welcome to, if that will content.
 
 Mr. Great-Heart: We will be content with what thou hast in the house; for as much as I have proved thee, thou art never destitute of that which is convenient.
 
-Then he went down and spake to the cook, whose name was, Taste-that-which-is-good, to get ready supper for so many pilgrims. This done, he comes up again, saying, Come, my good friends, you are welcome to me, and I am glad that I have a house to entertain you in; and while supper is making ready, if you please, let us entertain one another with some good discourse: so they all said, Content.
+Then he went down and spake to the cook, whose name was Taste-that-which-is-good, to get ready supper for so many pilgrims. This done, he comes up again, saying, Come, my good friends, you are welcome to me, and I am glad that I have a house to entertain you in; and while supper is making ready, if you please, let us entertain one another with some good discourse: so they all said, Content.
 
 Gaius: Then said Gaius, Whose wife is this aged matron? and whose daughter is this young damsel?
 
