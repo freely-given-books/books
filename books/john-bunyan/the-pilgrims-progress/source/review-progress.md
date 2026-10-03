@@ -27,6 +27,7 @@ Branch `pilgrims-progress-review`, worktree
 - [x] part-2 stage-03
 - [x] part-2 stage-04
 - [x] part-2 stage-05
+- [x] part-2 stage-06
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
 
@@ -68,6 +69,7 @@ Branch `pilgrims-progress-review`, worktree
 - II s5: "when we come be tried" -> "come to be tried"; "add-in" -> em dash; "pilgrims guide" -> "pilgrims’ guide"; Prov. 8:36 -> 8:35 ("found the words of life": 8:35 "whoso findeth me findeth life"). Variant one-offs for question: lillies, scull, befal, wholsome.
 - II s6 (to line 120): "Oh, Are" -> "are"; "City-he" -> em dash; "throne.Rev." spacing; "the loss other things" -> "loss of other things".
 - II s6 (120-259): "1 Peter, 2:8"; "Great-Heart, good Gaius" -> "Good"; "name was, Taste" comma removed.
+- II s6 (259-end): "said, from the house" -> "From"; "Mr. Mnason So" -> "Mnason. So". Variant: staid/stayed.
 
 ## To do globally (after reading)
 
@@ -96,4 +98,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Continue part-2/stage-06.typ from line 259, then 07, 08. Then ./fgb sync pilgrim, ./fgb check pilgrim, global to-do, build, PDF checks, report.
+Read part-2/stage-07.typ, then 08. Then ./fgb sync pilgrim, ./fgb check pilgrim, global to-do, build, PDF checks, report.

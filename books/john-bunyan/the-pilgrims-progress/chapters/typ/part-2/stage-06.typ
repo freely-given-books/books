@@ -372,7 +372,7 @@ Mr. Great-Heart: A very arch fellow, a downright hypocrite; one that would be re
 
 Now by this time they were come within sight of the town of Vanity, where Vanity Fair is kept. So, when they saw that they were so near the town, they consulted with one another how they should pass through the town; and some said one thing, and some another. At last Mr. Great-Heart said, I have, as you may understand, often been a conductor of pilgrims through this town. Now, I am acquainted with one Mr. Mnason, Acts 21:16, a Cyprusian by nation, an old disciple, at whose house we may lodge. If you think good, we will turn in there.
 
-Content, said old Honest; Content, said Christiana; Content, said Mr. Feeble-mind; and so they said all. Now you must think it was eventide by that they got to the outside of the town; but Mr. Great-Heart knew the way to the old man’s house. So thither they came; and he called at the door, and the old man within knew his tongue as soon as ever he heard it; so he opened the door, and they all came in. Then said Mnason, their host, How far have ye come to-day? So they said, from the house of Gaius our friend. I promise you, said he, you have gone a good stitch. You may well be weary; sit down. So they sat down.
+Content, said old Honest; Content, said Christiana; Content, said Mr. Feeble-mind; and so they said all. Now you must think it was eventide by that they got to the outside of the town; but Mr. Great-Heart knew the way to the old man’s house. So thither they came; and he called at the door, and the old man within knew his tongue as soon as ever he heard it; so he opened the door, and they all came in. Then said Mnason, their host, How far have ye come to-day? So they said, From the house of Gaius our friend. I promise you, said he, you have gone a good stitch. You may well be weary; sit down. So they sat down.
 
 Mr. Great-Heart: Then said their guide, Come, what cheer, good sirs? I dare say you are welcome to my friend.
 
@@ -384,7 +384,7 @@ Mr. Mnason: For harbor, you see what it is; but for good company, that will appe
 
 Mr. Great-Heart: Well, said Mr. Great-Heart, will you have the pilgrims up into their lodging?
 
-Mr. Mnason: I will, said Mr. Mnason So he had them to their respective places; and also showed them a very fair dining-room, where they might be, and sup together until the time should come to go to rest.
+Mr. Mnason: I will, said Mr. Mnason. So he had them to their respective places; and also showed them a very fair dining-room, where they might be, and sup together until the time should come to go to rest.
 
 Now, when they were seated in their places, and were a little cheery after their journey, Mr. Honest asked his landlord if there was any store of good people in the town.
 
