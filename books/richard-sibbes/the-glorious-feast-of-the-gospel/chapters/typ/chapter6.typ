@@ -207,8 +207,8 @@ to corruption. And hereupon pride and self-love in carnal men studieth how
 to overcast all they can the names of those that be better than themselves
 with a cloud of disgrace. It is the property of vile men to make all others vile,
 that they may be alike. Men cannot abide distinctions of one from another.
-The Scripture distinguished the 'righteous man, more excellent than his
-neighbour,' Proverbs 12:20; but they will not have that. The hatred of
+The Scripture distinguisheth the 'righteous man, more excellent than his
+neighbour,' Proverbs 12:26; but they will not have that. The hatred of
 distinction is the cause they make all as bad as they can. And hereupon it is
 that good things were never clothed in the right habit, nor ill things neither,
 but do pass under a veil. Take away the true garment of grace and holiness
@@ -223,8 +223,8 @@ world, and hath strange entertainment.
 
 Use 1. If this be so, we ought to take heed of laying a scandal or
 reproach upon religion. Salvian complains in his time that wickedness had
-gotten that head, that those that were good and honourable, mali esse volant,
-he a malis abhorreantur, they that were good studied to be vile, that they
+gotten that head, that those that were good and honourable, mali esse volunt,
+ne a malis abhorreantur, they that were good studied to be vile, that they
 might not be vilified of others. 'Oh,' saith he, 'how much is Christ beholden
 to the world, that those that own him, and own goodness, and own his cause,
 should be therefore base, because they be his friends.' Take heed of taking
@@ -254,10 +254,10 @@ prejudice. It is enough for them that this is said of them. They have neither
 wit nor judgment, nor so much patience, from following their lusts, as to
 examine them; and that makes them so mad as they are. Calumniare
 audacter, aliquid haerebit, slander stoutly, something will stick, they are sure
-of it. That which hath raised and ruined many a man, is that of Hainan’s
+of it. That which hath raised and ruined many a man, is that of Haman’s
 casting of jealousy upon those that are better than themselves. That was
 Haman’s trick, and so will be the practice of the wicked, as it hath been from
-the beginning, so to the end of the world. 'Thou art not Cesar’s friend,' say
+the beginning, so to the end of the world. 'Thou art not Caesar’s friend,' say
 they, and it is enough to Pilate, John 19:12. Thus it has been, and will be to
 the end of the world. Therefore we had need to be wise, that we be not
 misled. Men will never leave to speak ill till they have learned to speak better,
@@ -285,7 +285,7 @@ shall gloriously shine, to the confusion of the world. They that are good shall
 be known to be good, God will bring their righteousness to light. The
 witnesses that vexed the world, and had base entertainment, they were slain
 and disgraced, but they rose again, and were carried to heaven, Revelation 11:12,
-as Elias. So-there will be a resurrection of name, a resurrection of
+as Elias. So there will be a resurrection of name, a resurrection of
 reputation. That that is good shall be good, and that that is bad shall be bad.
 It shall be known to be as it is. This is for comfort.
 

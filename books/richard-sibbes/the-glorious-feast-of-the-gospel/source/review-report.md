@@ -7,15 +7,15 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2282 |
+| punctuation | 2281 |
 | case | 1762 |
-| spelling | 1690 |
+| spelling | 1688 |
 | emendation | 801 |
 | italic | 583 |
 | note | 385 |
-| spacing | 199 |
+| spacing | 198 |
 | split | 68 |
-| grammar | 54 |
+| grammar | 53 |
 | merge | 30 |
 | list | 22 |
 | quotation | 15 |
@@ -651,13 +651,13 @@
 - [chapter6.typ] and → ' 2 Chron 29:8. And
 - [chapter6.typ] , studyeth → studieth
 - [chapter6.typ] If → Use 1. If
-- [chapter6.typ] ne → he
 - [chapter6.typ] Oh → 'Oh,'
 - [chapter6.typ] ; take → .' Take
 - [chapter6.typ] every where → everywhere
 - [chapter6.typ] its → it is
 - [chapter6.typ] ; noe , → . No
 - [chapter6.typ] a → 
+- [chapter6.typ] heaven → heaven, Revelation 11:12
 - [chapter6.typ] You → Use 1. You
 - [chapter6.typ] our selves → ourselves
 - [chapter6.typ] denyall → -
@@ -920,7 +920,6 @@
 - best → best,
 - carryeth → carrieth
 - choisest → choicest
-- distinguisheth → distinguished
 - divideth → 'divideth
 - dyest → diest
 - earnest → 'earnest
@@ -2426,7 +2425,7 @@
 - [chapter6.typ] , → 
 - [chapter6.typ] , → 
 - [chapter6.typ] : → .
-- [chapter6.typ] , → ,' Proverbs 12:20;
+- [chapter6.typ] , → ,' Proverbs 12:26;
 - [chapter6.typ] : → .
 - [chapter6.typ] : → .
 - [chapter6.typ] , → 
@@ -2476,7 +2475,6 @@
 - [chapter6.typ] ; → ,
 - [chapter6.typ] : → .
 - [chapter6.typ] , → 
-- [chapter6.typ] , → , Revelation 11:12,
 - [chapter6.typ] : → .
 - [chapter6.typ] ; → .
 - [chapter6.typ] ; → .
@@ -3804,6 +3802,7 @@
 - Fathers → Father’s (×2)
 - First → First, (×2)
 - Foelix → Felix (×2)
+- Hamans → Haman’s (×2)
 - How → 'How (×2)
 - Indeed → Indeed, (×2)
 - Jeremy → Jeremiah (×2)
@@ -3926,7 +3925,7 @@
 - Bowells → bowels
 - Bread → 'bread
 - By → 'By
-- Caesars → Cesar’s
+- Caesars → Caesar’s
 - Catholick → Catholic
 - Chapter → chapter,
 - Chear → cheer
@@ -3965,8 +3964,6 @@
 - Governours → governors
 - Grammer → grammar
 - Grave → grave,
-- Hamans → Hainan’s
-- Hamans → Haman’s
 - Hereticks → heretics
 - Hester → Esther
 - Hic → his
@@ -4042,7 +4039,6 @@
 - Servants → servants,
 - Skin → 'Skin
 - So → So,
-- So → So-
 - Spirit → 'spirit
 - Spirit → Spirit,
 - Spouses → spouse’s
@@ -4482,7 +4478,6 @@
 - verse → verse,
 - vessel → vessel,
 - villified → vilified
-- volunt → volant
 - vvaite → wait
 - vvaiting → waiting
 - vvhich → which

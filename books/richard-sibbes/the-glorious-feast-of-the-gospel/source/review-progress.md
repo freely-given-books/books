@@ -17,8 +17,8 @@ Scratch (not in git): `$SP=/tmp/claude-1000/-home-courtney-Projects-fgbooks-book
 
 ## Files read
 - tothereader.typ: done, fixed
-- chapter1-5.typ: done, fixed
-- chapter6-9.typ: NOT yet read
+- chapter1-6.typ: done, fixed
+- chapter7-9.typ: NOT yet read
 
 ## Fixed so far
 - Misprints: needs he wonderful -> be (ch1); truths he pressed -> be (ch3); when be looketh -> he (ch5);
@@ -52,5 +52,5 @@ Scratch (not in git): `$SP=/tmp/claude-1000/-home-courtney-Projects-fgbooks-book
 - ch3 "intritively" (x3; 1650 same; Grosart Qu. intuitively). rec: intuitively?
 
 ## Next step
-Read chapter6.typ (then 7, 8, 9), fix, sync, check, commit after each.
+Read chapter7.typ (then 8, 9), fix, sync, check, commit after each.
 Then apply reference fixes, consistency table (practise/practice verb, Aye/Ay, Austin, St), build, report.
