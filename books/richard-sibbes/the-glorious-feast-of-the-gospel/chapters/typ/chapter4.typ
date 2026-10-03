@@ -299,7 +299,7 @@ exclusively, then to leave us, but to death, and in death, for ever; yea, most
 ready to help us in our last conflict. Indeed, to wicked men death is terrible,
 for he sendeth the devil to fetch them out of the world; but for these that be
 his, he sendeth his angels to fetch them, and he helps them in their combat.
-We must not therefore fear over much. There is a natural fear of death.
+We must not therefore fear overmuch. There is a natural fear of death.
 Death wrought upon Christ himself, God-man; not only death, but such a
 death. He was to be left of his Father, and lie under the sense of the wrath of
 God; the separation of that soul from the body he took upon him was

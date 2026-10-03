@@ -17,6 +17,6 @@ Scratch (not in git): `$SP=/tmp/claude-1000/-home-courtney-Projects-fgbooks-book
 - Remaining wrong-verse references -> questions (see report draft below).
 
 ## Next step
-Emendation-list scan (review-report.md) for OCR-type substitutions missed by slips.py;
+Emendation scan DONE (overmuch fixed). Consistency table DONE (questions). refs rerun: 0 missing.
 consistency table; refs.py rerun; ./fgb build sibbes; pdftotext checks; write
 source/proofread-report.md; final commit; handback.

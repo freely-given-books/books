@@ -10,7 +10,7 @@
 | punctuation | 2283 |
 | case | 1762 |
 | spelling | 1683 |
-| emendation | 800 |
+| emendation | 798 |
 | italic | 583 |
 | note | 385 |
 | spacing | 193 |
@@ -272,7 +272,6 @@
 - [chapter2.typ] Feast , → feast
 - [chapter2.typ] food → food, 1 Kings 19:8
 - [chapter2.typ] our selves → ourselves
-- [chapter2.typ] overmuch → over much
 - [chapter2.typ] ; therefore → . Therefore,
 - [chapter2.typ] Aquavitae → aqua vitae
 - [chapter2.typ] we → ' Colossians 3:3. We
@@ -494,7 +493,6 @@
 - [chapter4.typ] our selves → ourselves
 - [chapter4.typ] ever → ever; yea
 - [chapter4.typ] yea → 
-- [chapter4.typ] overmuch → over much
 - [chapter4.typ] vain - glory → vainglory
 - [chapter4.typ] , dyes → dies
 - [chapter4.typ] before hand → beforehand

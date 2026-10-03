@@ -183,8 +183,8 @@ conveyeth strength to us, that we may walk in the strength of Christ, as Elias
 did forty days in the strength of his food, 1 Kings 19:8. And consider,
 though in our consciences and conditions we have variety of changes, yet in
 Christ we have several comforts suitable to all our several conditions. If so be
-our sins trouble us, we should watch over ourselves, that we be not over
-much cast down, but feed upon spiritual things in consideration of pardon
+our sins trouble us, we should watch over ourselves, that we be not
+overmuch cast down, but feed upon spiritual things in consideration of pardon
 for sin in the blood of Christ. This is the grand issue of all that Christ hath
 traced out in the forgiveness of sins. He is not, he cannot be divided. Where
 he pardons sins, he sanctifieth; where he sanctifieth, he writes his law in their
