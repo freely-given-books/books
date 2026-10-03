@@ -2,6 +2,7 @@
 
 ## Please check
 
+- sermon.typ: the #[ #set text(costs: (widow: 0%)) ... ] around the Suffield paragraph is layout (keeps the footnote on its marker's page), not stored in the TEI; keep it in chapters/typ.
 - True Grace, Distinguished from the Experience of Devils (the first book of this TCP volume) and Sinners' title page are in the TEI as printed, but not in this edition.
 
 | kind | count |

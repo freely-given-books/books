@@ -424,6 +424,9 @@ despair; but here you are in the land of the living and in the house of God, and
 opportunity to obtain salvation. What would not those poor damned hopeless souls give for
 one day's opportunity such as you now enjoy!
 
+// layout: no widow control here, so "Suffield" stays on its footnote's page
+#[
+#set text(costs: (widow: 0%))
 And now you have an extraordinary opportunity, a day wherein Christ has thrown the door
 of mercy wide open, and stands in calling and crying with a loud voice to poor sinners; a day
 wherein many are flocking to him, and pressing into the kingdom of God. Many are daily
@@ -435,6 +438,7 @@ feasting, while you are pining and perishing! To see so many rejoicing and singi
 heart, while you have cause to mourn for sorrow of heart, and howl for vexation of spirit!
 How can you rest one moment in such a condition? Are not your souls as precious as the
 souls of the people at Suffield#footnote[a town in the area], where they are flocking from day to day to Christ?
+]
 
 Are there not many here who have lived long in the world, and are not to this day born
 again? and so are aliens from the commonwealth of Israel, and have done nothing ever since
