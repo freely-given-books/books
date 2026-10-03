@@ -27,7 +27,7 @@ children, and call all to him that were weary and heavy laden, that he never
 refused any that came to him. He that wept specially for the miseries and
 afflictions, this showed his gracious and sweet disposition. And that in
 heaven, he is so full of sympathies in glory, that when Paul persecuted the
-church, 'Why dost thou persecute me?' Acts 10:4; so, though he is free from
+church, 'Why dost thou persecute me?' Acts 9:4; so, though he is free from
 passion in heaven, he is not free from compassion, from sympathy with his
 church. And so every child of God is ready, not only to grieve for his own
 sins, and the misery that followeth them, but the sins and miseries of others.

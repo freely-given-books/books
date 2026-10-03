@@ -371,7 +371,7 @@ be dissolved,' saith St Paul, Philip 1:23, but that is not well translated. 'I
 desire to depart, and to be with Christ, which is best of all.' So that it is not
 only not an enemy, but a friend. And therefore the apostle makes it our
 jointure, part of our portion, all things are yours. Why? 'You are Christ’s, and
-Christ is God’s,' 1 Corinthians 3:22. What are ours? 'Things present, things to
+Christ is God’s,' 1 Corinthians 3:23. What are ours? 'Things present, things to
 come, life, death,' 1 Corinthians 3:22, 23. And well may death be ours, because sin
 is our enemy; that remainder, that is kept in our nature to exercise us, and
 humble us, and fit us for grace. As Austin saith, I dare be bold to say, it is

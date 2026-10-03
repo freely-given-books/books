@@ -27,7 +27,7 @@ one day, as things are they shall be. The God of truth will have truth to be
 clear enough. And all this is sealed up with the highest authority, that admits
 of no contradiction. 'The Lord of hosts hath spoken it.'
 
-We came the last day to these words, 'Lo, this is our God,'; wherein
+We came the last day to these words, 'Lo, this is our God'; wherein
 we may consider first of all, that God hath left to his church rich and
 precious promises, such as is spoken of before: a feast, and removal of all
 hindrances whatsoever. He not only vouchsafeth heaven when we die, and
@@ -192,7 +192,7 @@ appointed, then it were too short; if longer, too long. 'My times,' saith David,
 'are in thy hands,' Psalm 31:15. If they were in the enemy’s hands, we should
 never be out; if in our own, we would never enter; if in our friends', their
 goodwill would be more than their ability. 'But my times;'—he saith not, 'my
-time,' but—my times are in thy hands that is, my times of trouble and times
+time,' but—my times are in thy hands, that is, my times of trouble and times
 of waiting. And it is well they be in God’s hands, for he hath a day, and a
 certain day, and a fit day to answer the waiting of all his people.
 
@@ -245,10 +245,10 @@ And this may stir us up to begin the employment in heaven on earth here.
 We shall say so in heaven, 'Lo, this is the Lord; we have waited for him.'
 
 For every performance of promises, be much in thankfulness. 'Our
-conversation is in heaven,' saith the apostle, Philip 3:10. And what is the
+conversation is in heaven,' saith the apostle, Philip 3:20. And what is the
 greatest part of a Christian’s conversation, but in all things to give thanks.
 Here the holy church saith, their matter of praise was too big for their soul,
-and therefore they break out in this manner. And so oftentimes a child of
+and therefore they brake out in this manner. And so oftentimes a child of
 God. His heart is so full, that it is too big for his body in the expression of
 matter of praise. But it is his comfort that in heaven he shall have a large
 heart, answerable to the large occasion of praise. I will not enlarge myself in
@@ -333,7 +333,7 @@ grace, to see him, and joy and delight in him for ever. It is no good love that
 resteth in any blessings of God for themselves. It is an harlotry affection to
 love the gift more than the giver. So the saints of God they do all desire to
 see him as they may, and to joy in God, and enjoy God himself, and to see
-God in our nature, and to be with, him for ever. Before he spake of a feast,
+God in our nature, and to be with him for ever. Before he spake of a feast,
 and if the feast-maker be not there, what is all? In a funeral feast there is
 much cheer, but the feast-maker is gone. In heaven there is joy, but where is
 God, where is Christ, he that hath done so much, suffered so much for us,
@@ -359,7 +359,7 @@ glory in heaven, specially when we be set upon by anything that is apt to
 discourage us. Glory then in our Head. Perhaps a Christian hath no wealth,
 no great rents to glory in, aye, but he hath a God to glory in, let him glory in
 him. The world may take all else from him, but not his God. As the church,
-in Song of Solomon. v. The virgins put the church to describe her beloved, 'What is thy
+in Song of Solomon 5. The virgins put the church to describe her beloved, 'What is thy
 beloved more than another beloved? My beloved is white and ruddy, the
 chiefest of ten thousand.' Then she goeth on in particulars, 'my beloved is
 thus and thus;' and if you would know what my beloved is, 'this is my
@@ -399,7 +399,7 @@ therefore,
   God, in the second person, is God-man, and so God with us, and the Father
   in Emmanuel is God with us too. So we are God the Father’s, because we
   are his. 'All things are yours,' saith the apostle, 'whether Paul or Apollos,
-  things present, things to come. 'Why?' Because you are Christ’s,' 1 Corinthians 3:22.
+  things present, things to come.' Why? 'Because you are Christ’s,' 1 Corinthians 3:22, 23.
   Aye, but what if I be Christ’s, Christ is God’s? So we must be Christ’s,
   and then we shall be God’s. If Christ be ours, God is ours, for God is
   Emmanuel, in Christ, Emmanuel, God is with us in Christ, who is with us.
@@ -450,7 +450,7 @@ to ourselves and to others; be stirring and exciting one another to glory, and
 rejoice in God our salvation.
 
 + And, therefore, learn all to be stirred up from hence, not to be
-  offended with Christ, or with religion. Be not offended, saith Justin, with the
+  offended with Christ, or with religion. Be not offended, saith Austin, with the
   parvity of religion. Every thing to the eyes of the world is little in religion. A
   Christian is a despised person, and the church, the meanest part of the world,
   in regard of outward glory. But,
@@ -472,7 +472,7 @@ rejoice in God our salvation.
   afraid to die, let us not be overmuch cast down, for it shall end in glory. And
   let us be in expectation still of good times, wait for this blessed time to come,
   and never be content with any condition, so as to set up our rest here. We
-  may write upon every thing, his non est requies vestra. Our rest is behind; these
+  may write upon every thing, Hic non est requies vestra. Our rest is behind; these
   things are in passage. And therefore rest content with nothing here. Heaven
   is our centre, our element, our happiness; and every thing is contentedly
   happy, and thriveth in its element. The birds in the air, the fish in the sea,

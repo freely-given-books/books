@@ -7,13 +7,13 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2281 |
-| case | 1761 |
-| spelling | 1687 |
-| emendation | 802 |
+| punctuation | 2283 |
+| case | 1762 |
+| spelling | 1683 |
+| emendation | 800 |
 | italic | 583 |
 | note | 385 |
-| spacing | 196 |
+| spacing | 193 |
 | split | 67 |
 | grammar | 52 |
 | merge | 29 |
@@ -506,7 +506,7 @@
 - [chapter4.typ] Paul → Paul, Philip 1:23
 - [chapter4.typ] : so → .' So
 - [chapter4.typ] Gods → God’s,' 1 Corinthians 3
-- [chapter4.typ] what → 22. What
+- [chapter4.typ] what → 23. What
 - [chapter4.typ] death → death,' 1 Corinthians 3
 - [chapter4.typ] blaspheme → blaspheme,' 1 Timothy 1
 - [chapter4.typ] yet → 20. Yet
@@ -545,7 +545,7 @@
 - [chapter5.typ] Oh → 'O
 - [chapter5.typ] people → people,' Jeremiah 9:1
 - [chapter5.typ] Oh → 'O
-- [chapter5.typ] So → ' Acts 10:4; so,
+- [chapter5.typ] So → ' Acts 9:4; so,
 - [chapter5.typ] David → David, Psalm 119:136
 - [chapter5.typ] Saint → St
 - [chapter5.typ] our selves → ourselves
@@ -801,7 +801,7 @@
 - [chapter8.typ] you → you,' Mat 6:33
 - [chapter8.typ] not → not,' 1 Corinthians 7
 - [chapter9.typ] ISAIAH 25 . 9 . → 
-- [chapter9.typ] & c . → ';
+- [chapter9.typ] c → 
 - [chapter9.typ] quickly → quickly,' Revelation 22:20
 - [chapter9.typ] First → Reason 1. First
 - [chapter9.typ] Again → Reason 2. Again
@@ -850,8 +850,7 @@
 - [chapter9.typ] Rom . → Romans
 - [chapter9.typ] any thing → anything
 - [chapter9.typ] I → aye,
-- [chapter9.typ] Cant → Song of Solomon
-- [chapter9.typ] 5 → v
+- [chapter9.typ] Cant . → Song of Solomon
 - [chapter9.typ] 10000 → ten thousand
 - [chapter9.typ] Psal → ' Psalm 115:3
 - [chapter9.typ] 115 → 
@@ -860,8 +859,7 @@
 - [chapter9.typ] any thing → anything
 - [chapter9.typ] it self , → itself;
 - [chapter9.typ] and → 
-- [chapter9.typ] because → ' Because
-- [chapter9.typ] Christs → Christ’s,' 1 Corinthians 3:22
+- [chapter9.typ] Christs → Christ’s,' 1 Corinthians 3:22, 23
 - [chapter9.typ] I → Aye,
 - [chapter9.typ] spirit , → Spirit
 - [chapter9.typ] here → here first
@@ -1474,7 +1472,7 @@
 - [chapter2.typ] ; → ,
 - [chapter2.typ] , → 
 - [chapter2.typ] , → 
-- [chapter2.typ] ; → ,' John 7:34.
+- [chapter2.typ] ; → ,' John 6:34.
 - [chapter2.typ] : → .
 - [chapter2.typ] , → 
 - [chapter2.typ] , → !
@@ -2975,6 +2973,9 @@
 - [chapter9.typ] ; → .
 - [chapter9.typ] . → .'
 - [chapter9.typ] ; → ,
+- [chapter9.typ] , → ';
+- [chapter9.typ] & → 
+- [chapter9.typ] . → 
 - [chapter9.typ] . → :
 - [chapter9.typ] , → ;
 - [chapter9.typ] , → 
@@ -3054,7 +3055,6 @@
 - [chapter9.typ] , → ;'—
 - [chapter9.typ] , → ,'
 - [chapter9.typ] , → 
-- [chapter9.typ] , → 
 - [chapter9.typ] . → .'
 - [chapter9.typ] , → 
 - [chapter9.typ] , → ;
@@ -3085,7 +3085,7 @@
 - [chapter9.typ] , → ;
 - [chapter9.typ] . → .'
 - [chapter9.typ] , → ,'
-- [chapter9.typ] : → :10.
+- [chapter9.typ] : → :20.
 - [chapter9.typ] , → .
 - [chapter9.typ] , → 
 - [chapter9.typ] , → ;
@@ -3156,7 +3156,7 @@
 - [chapter9.typ] , → 
 - [chapter9.typ] ; → .
 - [chapter9.typ] , → 
-- [chapter9.typ] ; → .
+- [chapter9.typ] ; → .'
 - [chapter9.typ] . → ?
 - [chapter9.typ] ; → .
 - [chapter9.typ] , → ;
@@ -3291,6 +3291,7 @@
 - every → Every (×6)
 - that → That (×6)
 - though → Though (×6)
+- why → Why (×6)
 - A → a (×5)
 - But → but (×5)
 - Creature → creature (×5)
@@ -3309,7 +3310,6 @@
 - then → Then (×5)
 - therefore → Therefore (×5)
 - thus → Thus (×5)
-- why → Why (×5)
 - Chapter → chapter (×4)
 - Comfort → comfort (×4)
 - Court → court (×4)
@@ -3911,7 +3911,6 @@
 - Apollo → Apollos
 - As → as,
 - Ashers → Asher’s
-- Austin → Justin
 - Authority → authority,
 - Awake → 'Awake,
 - Babilon → 'Babylon
@@ -3966,7 +3965,6 @@
 - Grave → grave,
 - Hereticks → heretics
 - Hester → Esther
-- Hic → his
 - Husbandman → husbandman,
 - Ideot → idiot
 - Is → 'Is
@@ -4092,6 +4090,7 @@
 - bare → bore
 - barre → bar
 - beastiall → bestial
+- because → 'Because
 - beeing → being
 - been → been,
 - begining → beginning
@@ -4106,7 +4105,6 @@
 - bodies → body’s
 - body → body,
 - book → book,
-- brake → break
 - bravely → bravely,
 - brests → breasts
 - bretheren → brethren,
@@ -4499,7 +4497,6 @@
 - who → 'who
 - whose → 'whose
 - whosoever → 'whosoever
-- why → 'Why
 - why → why,
 - wich → which
 - widdow → widow
@@ -4507,7 +4504,6 @@
 - wine → 'wine'
 - wipe → 'wipe
 - wise → wise,
-- with → with,
 - woefully → wofully
 - woful → woeful
 - woman → 'Woman,

@@ -316,7 +316,7 @@ conscience and joy in the Holy Ghost; now they see salvation to be founded
 only on Christ, and all other excellencies belonging to Christianity; and
 therefore he goeth constantly provided with grace and holiness, so in this life
 that he may not lose his part in glory in the life to come. Think of this and
-pray for it, as they in the gospel. 'Lord, evermore give us of that bread,' John 7:34. Here is hope that thou mayest be saved, because thou art invited to
+pray for it, as they in the gospel. 'Lord, evermore give us of that bread,' John 6:34. Here is hope that thou mayest be saved, because thou art invited to
 come in. To what end is the ministry of the gospel, but to entreat thee to be
 reconciled? Oh! let this work upon our souls when we hear of the
 excellencies of these things! And together with them, consider of the
