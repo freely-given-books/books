@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-06: done and fixed
-- NEXT STEP: read 07 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-07: done and fixed
+- NEXT STEP: read 08 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -139,6 +139,13 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - tyring -> tiring
 - beggery -> beggary
 - begger -> beggar
+- incouraging -> encouraging
+- aide -> aid
+- lasiness -> laziness
+- entertaiment -> entertainment
+- joveall -> jovial
+- releeving -> relieving
+- barre -> bar
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -247,3 +254,15 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 06: `#emph[Cam] was cursed` -> `#emph[Ham] was cursed` (name)
 - 06: `that even the also is bound` -> `that even she also is bound` (misprint)
 - 06: `and both of then brought` -> `and both of them brought` (misprint)
+- 07: `#footnote[#emph[Jos] 4. 15.]` -> `#footnote[#emph[Jos.] 24. 15.]` (ref)
+- 07: `#footnote[#emph[Joh.] 4 53.]` -> `#footnote[#emph[Joh.] 4. 53.]` (ref)
+- 07: `#emph[Barthshebah] taught` -> `#emph[Bathsheba] taught` (name)
+- 07: `Pro▪ sunt ergo vterque alteri sua in commune confe rentes` -> `Prosunt ergo vterque alteri sua in commune conferentes` (latin)
+- 07: `ruling men servants, with the like) And for` -> `ruling men servants, with the like.) And for` (punct)
+- 07: `have no help from you, do not in those things` -> `have no help from you, no not in those things` (misprint)
+- 07: `#emph[Ely,] and` -> `#emph[Eli,] and` (name)
+- 07: `#footnote[#emph[Gen.] 18 6. #emph[etc.]]` -> `#footnote[#emph[Gen.] 18. 6. #emph[etc.]]` (ref)
+- 07: `when her husband inuits any friends` -> `when her husband invites any friends` (spelling)
+- 07: `hath, or howfar forth` -> `hath, or how far forth` (spacing)
+- 07: `give not a pennies worth, out rather suffer` -> `give not a pennies worth, but rather suffer` (misprint)
+- 07: `#footnote[Read #emph[Iam.] 5. 1, 2. #emph[etc.]]` -> `#footnote[Read #emph[Jam.] 5. 1, 2. #emph[etc.]]` (ref)

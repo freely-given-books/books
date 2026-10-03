@@ -123,7 +123,7 @@ As another reason may be alleged the Shunemites pattern who asked her husbands c
 
 2. #emph[Object.] In the Shunemites example there was more then a merciful relief of the Prophet, namely bringing him into the house to diet and to lodge, wherein the husband must have a chief stroke.
 
-#emph[Answ.] The word of God maketh not that difference betwixt releeving and entertaining: it extendeth a wives subjection to #emph[every thing:] wherefore the husband hath a chief stroke as well in the one, as in the other.
+#emph[Answ.] The word of God maketh not that difference betwixt relieving and entertaining: it extendeth a wives subjection to #emph[every thing:] wherefore the husband hath a chief stroke as well in the one, as in the other.
 
 === §. 25. #emph[Of the law of a wives vow.]
 
