@@ -32,7 +32,10 @@ Not applied (the TEI cannot hold them): Laban nested under Bethuel in the ch5 tr
 ## Status
 Batch 1 synced; ./fgb check OK (chapter-05 differs only by the known #linebreak()). WIP committed.
 
-## Next step (paused here, 2026-10-02)
+## Done (2026-10-03)
+Build OK (124 pp., Lulu OK, epubcheck 0/0), PDF text clean, proofread-report.md written, final commit made. Only the user's answers to the report's questions remain.
+
+## Earlier next step (paused here, 2026-10-02)
 Reading and fixing are finished. Still to do:
 1. `./fgb build perkins` (Lulu checks, epubcheck).
 2. Run `pdftotext` on dist/william-perkins/christian-economy/*.pdf and grep for `,‘ `, `‘ `, `’’`, `#emph`, `\[`.
