@@ -75,6 +75,7 @@ Branch `pilgrims-progress-review`, worktree
 - II s7: "very loth die" -> "loth to die"; "Let’s knew" -> "know"; "come in Mr. Ready-to-halt; Come in" -> commas/lowercase.
 - II s8 (to 90): "one ." spacing; "dangerous; And" -> "and". Variant: Apostacy (I) / Apostasy (II).
 - II s8 (90-end): "come weather" + ";"; "heart’s delight." -> "?"; "welltuned" -> "well-tuned"; "he said, since" -> "Since". NOT fixable in chapters/typ: Standfast speech split mid-sentence ("this my" / "great deliverance") because CCEL put the second half in a plain <p> after an <sp>; build_tei cannot merge a paragraph into a preceding speech (merge reverted to keep check OK) — pipeline issue for the user. All of Part II synced; check OK.
+- Global: ref spacing fixed (Job 10:21,22; Heb. 9:17-21; John 10:27-29; John 5:28,29; Exod. 13:8-10; Lev. 7:32-34); "Isa 64:6", "Rev 7:16" stops; "Habak 1:2,3" -> "Hab." (book form at Hab. 2:3); "tarry a while; For" -> "for". Variant table run (scratchpad pp/var.py) — goes to questions.
 
 ## To do globally (after reading)
 
@@ -103,4 +104,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Global to-do: ref spacing/stops; hyphen-dash and "; [A-Z]" scans; variant table; then ./fgb build pilgrim, PDF quote/markup checks, write source/proofread-report.md, final commit.
+Run ./fgb build pilgrim, PDF checks, write source/proofread-report.md, final commit.

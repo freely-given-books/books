@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | emendation | 45 |
-| case | 38 |
+| case | 39 |
+| spelling | 28 |
 | punctuation | 26 |
-| spelling | 25 |
-| spacing | 10 |
+| spacing | 16 |
 | split | 1 |
 | merge | 1 |
 
@@ -96,12 +96,12 @@
 - answer → Answer (×4)
 - But → but (×3)
 - And → and (×2)
+- For → for (×2)
 - A → a
 - Are → are
 - Candle → candle
 - Come → come
 - Conscience → conscience
-- For → for
 - God → god
 - Head → head
 - So → so
@@ -129,7 +129,10 @@
 ## spelling
 
 - Christana → Christiana
+- Habak → Hab.
+- Isa → Isa.
 - Mnason → Mnason.
+- Rev → Rev.
 - The → “The
 - action’s → actions’
 - come → came

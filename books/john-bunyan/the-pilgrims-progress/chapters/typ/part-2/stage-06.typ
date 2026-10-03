@@ -201,7 +201,7 @@ Then said Matthew, The sight of this cloth, and of this forerunner of the supper
 
 Gaius: So let all ministering doctrines to thee in this life beget in thee a greater desire to sit at the supper of the great King in his kingdom; for all preaching, books, and ordinances here, are but as the laying of the trenchers, and the setting of salt upon the board, when compared with the feast which our Lord will make for us when we come to his house.
 
-So supper came up. And first a heave-shoulder and a wave-breast were set on the table before them; to show that they must begin their meal with prayer and praise to God. The heave-shoulder David lifted up his heart to God with; and with the wave-breast, where his heart lay, he used to lean upon his harp when he played. Lev. 7: 32-34; 10:14,15; Psalm 25:1; Heb. 13:15. These two dishes were very fresh and good, and they all ate heartily thereof.
+So supper came up. And first a heave-shoulder and a wave-breast were set on the table before them; to show that they must begin their meal with prayer and praise to God. The heave-shoulder David lifted up his heart to God with; and with the wave-breast, where his heart lay, he used to lean upon his harp when he played. Lev. 7:32-34; 10:14,15; Psalm 25:1; Heb. 13:15. These two dishes were very fresh and good, and they all ate heartily thereof.
 
 The next they brought up was a bottle of wine, as red as blood. Deut. 32:14; Judges 9:13; John 15:5. So Gaius said to them, Drink freely; this is the true juice of the vine, that makes glad the heart of God and man. So they drank and were merry.
 

@@ -1,6 +1,6 @@
 == THE FIRST STAGE
 
-As I walked through the wilderness of this world, I lighted on a certain place where was a den,#footnote[Bedford jail, in which the author was imprisoned for conscience’ sake] and laid me down in that place to sleep; and as I slept, I dreamed a dream. I dreamed, and behold, I saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back. Isa 64:6; Luke 14:33; Psalm 38:4. I looked and saw him open the book, and read therein; and as he read, he wept and trembled; and not being able longer to contain, he brake out with a lamentable cry, saying, “What shall I do?” Acts 2:37; 16:30; Habak 1:2,3.
+As I walked through the wilderness of this world, I lighted on a certain place where was a den,#footnote[Bedford jail, in which the author was imprisoned for conscience’ sake] and laid me down in that place to sleep; and as I slept, I dreamed a dream. I dreamed, and behold, I saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back. Isa. 64:6; Luke 14:33; Psalm 38:4. I looked and saw him open the book, and read therein; and as he read, he wept and trembled; and not being able longer to contain, he brake out with a lamentable cry, saying, “What shall I do?” Acts 2:37; 16:30; Hab. 1:2,3.
 
 In this plight, therefore, he went home, and restrained himself as long as he could, that his wife and children should not perceive his distress; but he could not be silent long, because that his trouble increased. Wherefore at length he brake his mind to his wife and children; and thus he began to talk to them: “O, my dear wife,” said he, “and you the children of my bowels, I, your dear friend, am in myself undone by reason of a burden that lieth hard upon me; moreover, I am certainly informed that this our city will be burnt with fire from heaven; in which fearful overthrow, both myself, with thee my wife, and you my sweet babes, shall miserably come to ruin, except (the which yet I see not) some way of escape can be found whereby we may be delivered.” At this his relations were sore amazed; not for that they believed that what he had said to them was true, but because they thought that some frenzy distemper had got into his head; therefore, it drawing towards night, and they hoping that sleep might settle his brains, with all haste they got him to bed. But the night was as troublesome to him as the day; wherefore, instead of sleeping, he spent it in sighs and tears. So when the morning was come, they would know how he did. He told them, “Worse and worse:” he also set to talking to them again; but they began to be hardened. They also thought to drive away his distemper by harsh and surly carriage to him; sometimes they would deride, sometimes they would chide, and sometimes they would quite neglect him. Wherefore he began to retire himself to his chamber to pray for and pity them, and also to condole his own misery; he would also walk solitarily in the fields, sometimes reading, and sometimes praying: and thus for some days he spent his time.
 
@@ -8,7 +8,7 @@ Now I saw, upon a time, when he was walking in the fields, that he was (as he wa
 
 I saw also that he looked this way, and that way, as if he would run; yet he stood still because (as I perceived) he could not tell which way to go. I looked then, and saw a man named Evangelist coming to him, and he asked, “Wherefore dost thou cry?”
 
-He answered, “Sir, I perceive, by the book in my hand, that I am condemned to die, and after that to come to judgment, Heb. 9:27; and I find that I am not willing to do the first, Job 10: 21,22, nor able to do the second.” Ezek. 22:14.
+He answered, “Sir, I perceive, by the book in my hand, that I am condemned to die, and after that to come to judgment, Heb. 9:27; and I find that I am not willing to do the first, Job 10:21,22, nor able to do the second.” Ezek. 22:14.
 
 Then said Evangelist, “Why not willing to die, since this life is attended with so many evils?” The man answered, “Because, I fear that this burden that is upon my back will sink me lower than the grave, and I shall fall into Tophet. Isa. 30:33. And Sir, if I be not fit to go to prison, I am not fit to go to judgment, and from thence to execution; and the thoughts of these things make me cry.”
 
@@ -36,7 +36,7 @@ Pliable: Then said Pliable, Don’t revile; if what the good Christian says is t
 
 Obstinate: What, more fools still! Be ruled by me, and go back; who knows whither such a brain-sick fellow will lead you? Go back, go back, and be wise.
 
-Christian: Nay, but do thou come with thy neighbor Pliable; there are such things to be had which I spoke of, and many more glories besides. If you believe not me, read here in this book, and for the truth of what is expressed therein, behold, all is confirmed by the blood of Him that made it. Heb. 9: 17-21.
+Christian: Nay, but do thou come with thy neighbor Pliable; there are such things to be had which I spoke of, and many more glories besides. If you believe not me, read here in this book, and for the truth of what is expressed therein, behold, all is confirmed by the blood of Him that made it. Heb. 9:17-21.
 
 Pliable: Well, neighbor Obstinate, said Pliable, I begin to come to a point; I intend to go along with this good man, and to cast in my lot with him: but, my good companion, do you know the way to this desired place?
 
@@ -60,7 +60,7 @@ Christian: Yes, verily; for it was made by Him that cannot lie. Tit. 1:2.
 
 Pliable: Well said; what things are they?
 
-Christian: There is an endless kingdom to be inhabited, and everlasting life to be given us, that we may inhabit that kingdom for ever. Isa. 65:17; John 10: 27-29.
+Christian: There is an endless kingdom to be inhabited, and everlasting life to be given us, that we may inhabit that kingdom for ever. Isa. 65:17; John 10:27-29.
 
 Pliable: Well said; and what else?
 
@@ -68,7 +68,7 @@ Christian: There are crowns of glory to be given us; and garments that will make
 
 Pliable: This is very pleasant; and what else?
 
-Christian: There shall be no more crying, nor sorrow; for he that is owner of the place will wipe all tears from our eyes. Isa. 25:8; Rev 7:16, 17; 21:4.
+Christian: There shall be no more crying, nor sorrow; for he that is owner of the place will wipe all tears from our eyes. Isa. 25:8; Rev. 7:16, 17; 21:4.
 
 Pliable: And what company shall we have there?
 
