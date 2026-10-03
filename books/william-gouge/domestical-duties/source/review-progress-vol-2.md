@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-10: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
-- NEXT STEP: read 11 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-11: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 12 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -27,6 +27,7 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - V2-2 ch6 §31: Prov. 22. 1 "to be chosen #emph[love great riches]": print "loue" (misprint). Rec: "above great riches" (or "rather then", the Geneva wording). Not applied.
 - V2-3 ch8 §2 erratum p.268: "honour which is required in the first commandment" -> "fifth commandment". Rec: apply.
 - V2-4 ch9 §27 erratum p.297: "A fit reason may be taken from the mischiefs" -> "A fifth reason" (it follows the fourth reason, §26). Rec: apply.
+- (kept) ch11 §49 heading ends with "Of submission hitherto." as printed (a transition phrase set in the head). Could become the opening of the paragraph; left.
 
 ## Word map (1622 spellings the machine missed; applied to vol-2)
 
@@ -185,6 +186,17 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - president -> precedent
 - pilfring -> pilfering
 - deere -> dear
+- Vashty -> Vashti
+- Uashty -> Vashti
+- Vashties -> Vashtis
+- sharpe -> sharp
+- darkning -> darkening
+- deserueth -> deserveth
+- allaied -> allayed
+- unaduisedness -> unadvisedness
+- decaied -> decayed
+- vaineglory -> vainglory
+- expence -> expense
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -375,3 +387,15 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 10: `#footnote[#emph[Uers.] 23.]` -> `#footnote[#emph[Vers.] 23.]` (ref)
 - 10: `the things which herequireth.` -> `the things which he requireth.` (glued)
 - 10: `#strong[Object.] (own paragraph) What if husbands...` -> `#emph[Object.] What if husbands... (one paragraph)` (layout)
+- 11: `mind and will, sought to have the force` -> `mind and will, ought to have the force` (misprint)
+- 11: `extraordinary fact of #emph[Eliah] to pray` -> `extraordinary fact of #emph[Elijah] to pray` (name)
+- 11: `#footnote[#emph[Iam.] 5. 17.]` -> `#footnote[#emph[Jam.] 5. 17.]` (ref)
+- 11: `Vasthiam natam fuisse ex Baltbasare rege` -> `Vasthiam natam fuisse ex Baltasare rege` (latin)
+- 11: `for her as I think for any: for First, she was` -> `for her as I think for any: for first, she was` (case)
+- 11: `#footnote[Treat. §. 29.] #emph[do what her husband requireth.]` -> `#footnote[Treat. 4. §. 29.] #emph[do what her husband requireth.]` (ref)
+- 11: `viros etiam asperiores perserant. Chrys. hom.] 26. #emph[in] 1. #emph[` -> `viros etiam asperiores perferant. Chrys. hom.] 26. #emph[in] 1 #emph[C` (latin)
+- 11: `etc. Declare #emph[tartness:]` -> `etc. declare #emph[tartness:]` (case)
+- 11: `she showed #emph[meeknese.]` -> `she showed #emph[meekness.]` (misprint)
+- 11: `#footnote[#emph[Prov] 9. 7, 8.]` -> `#footnote[#emph[Prov.] 9. 7, 8.]` (ref)
+- 11: `#footnote[2 She must redress what is justly reproved.]` -> `#footnote[2\. She must redress what is justly reproved.]` (punct)
+- 11: `#footnote[Treat. 4. §. 50] #emph[contentment` -> `#footnote[Treat. 4. §. 50.] #emph[contentment` (punct)
