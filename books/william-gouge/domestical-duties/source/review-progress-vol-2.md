@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-11: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
-- NEXT STEP: read 12 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-12: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 13 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -28,6 +28,7 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - V2-3 ch8 §2 erratum p.268: "honour which is required in the first commandment" -> "fifth commandment". Rec: apply.
 - V2-4 ch9 §27 erratum p.297: "A fit reason may be taken from the mischiefs" -> "A fifth reason" (it follows the fourth reason, §26). Rec: apply.
 - (kept) ch11 §49 heading ends with "Of submission hitherto." as printed (a transition phrase set in the head). Could become the opening of the paragraph; left.
+- V2-5 ch12 §60: "a curst cow, which having given a fair soap of milk" — print "soape". Probably "sope/sup" (a quantity, a meal of milk). Rec: leave as is, or "pail" if you want sense; ask.
 
 ## Word map (1622 spellings the machine missed; applied to vol-2)
 
@@ -197,6 +198,18 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - decaied -> decayed
 - vaineglory -> vainglory
 - expence -> expense
+- thogh -> though
+- falshood -> falsehood
+- lyeth -> lieth
+- sowre -> sour
+- entercourse -> intercourse
+- differencies -> differences
+- dissentions -> dissensions
+- Apostolicall -> Apostolical
+- apostolicall -> apostolical
+- wils -> wills
+- incarnat -> incarnate
+- sherif -> sheriff
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -399,3 +412,28 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 11: `#footnote[#emph[Prov] 9. 7, 8.]` -> `#footnote[#emph[Prov.] 9. 7, 8.]` (ref)
 - 11: `#footnote[2 She must redress what is justly reproved.]` -> `#footnote[2\. She must redress what is justly reproved.]` (punct)
 - 11: `#footnote[Treat. 4. §. 50] #emph[contentment` -> `#footnote[Treat. 4. §. 50.] #emph[contentment` (punct)
+- 12: `then she must stay, and for bear till` -> `then she must stay, and forbear till` (spacing)
+- 12: `#footnote[#emph[Gen] 3 16.]` -> `#footnote[#emph[Gen.] 3. 16.]` (ref)
+- 12: `not every way instifiable.` -> `not every way justifiable.` (misprint)
+- 12: `#footnote[Treat 4. §. 15.]` -> `#footnote[Treat. 4. §. 15.]` (punct)
+- 12: `#footnote[1 Because wives have to do with Christ.]` -> `#footnote[1\. Because wives have to do with Christ.]` (punct)
+- 12: `betwixt holy women and others,]` -> `betwixt holy women and others.]` (punct)
+- 12: `or mif-interpret it` -> `or mis-interpret it` (misprint)
+- 12: `the proverb, #emph[A good never a whit as never the better.]` -> `the proverb, #emph[As good never a whit as never the better.]` (misprint)
+- 12: `to #emph[for sake the guide of her youth` -> `to #emph[forsake the guide of her youth` (spacing)
+- 12: `suspect her judgment when its contrary` -> `suspect her judgment when it's contrary` (spelling)
+- 12: `think themselves wifer then their husbands` -> `think themselves wiser then their husbands` (misprint)
+- 12: `good understanding, wife and discreet men` -> `good understanding, wise and discreet men` (misprint)
+- 12: `thinketh not to be the meet est.]` -> `thinketh not to be the meetest.]` (spacing)
+- 12: `quid censeas dic as minimè` -> `quid censeas dicas minimè` (latin)
+- 12: `the Shunemite did, 2. #emph[King.] 4. 23, 24.` -> `the Shunemite did, 2 #emph[King.] 4. 23, 24.` (ref)
+- 12: `#footnote[Tutun obsequium est` -> `#footnote[Tutum obsequium est` (latin)
+- 12: `EPHES. 5. 22.#emph[—As unto the Lord.]` -> `EPHES. 5. 22. #emph[—As unto the Lord.]` (spacing)
+- 12: `to enforce a wines subjection` -> `to enforce a wives subjection` (misprint)
+- 12: `The chird from the` -> `The third from the` (misprint)
+- 12: `=== § 70. #emph[Of an husbands place.]` -> `=== §. 70. #emph[Of an husbands place.]` (punct)
+- 12: `a #emph[pronider] of all needful` -> `a #emph[provider] of all needful` (misprint)
+- 12: `help her self, of she shall reject` -> `help her self, if she shall reject` (misprint)
+- 12: `the Church set before wines.]` -> `the Church set before wives.]` (misprint)
+- 12: `unto #emph[subjection.] example more prevails` -> `unto #emph[subjection.] Example more prevails` (case)
+- 12: `the Gospel of faluation` -> `the Gospel of salvation` (misprint)
