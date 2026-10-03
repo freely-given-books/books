@@ -114,7 +114,9 @@ Contrary is the overweening conceit which many children #footnote[Childrens over
 
 2. Though children cannot in their judgments think that which their parents require to be the fittest and meetest, yet being pressed thereto by the peremptory command of their parents, in practise they ought to yield unto it, saying to their parents as #emph[Peter] to the Lord, #emph[Nevertheless at thy word I will do this.] Thus did #footnote[#emph[Gen.] 27. 6. #emph[etc.]] #emph[Jacob] yield to #emph[Rebekah:] he thought by doing that which his mother bid him, he should seem a cocker to his father, yet she urging him, he did it.
 
-#strong[#emph[Quest.] May not a child, yielding better reason then his parent, refuse to do what he thinketh unmeet, or at least forbear to do what he is commanded, till he be better informed of the meetness thereof?]
+#strong[#emph[Quest.]]
+
+May not a child, yielding better reason then his parent, refuse to do what he thinketh unmeet, or at least forbear to do what he is commanded, till he be better informed of the meetness thereof?
 
 #emph[Answ.] With reverence and humility he may render his reason why he thinketh it not meet, and desire his parent not to urge it upon him.
 
