@@ -92,10 +92,11 @@ def main():
             for m in re.finditer(r"(?<=[A-Za-z])'(?=[A-Za-z])", flat):
                 show(f, "apostrophe", flat, m)
         if early is not None:
-            for m in re.finditer(r"[A-Za-z]+", re.sub(r"#\w+", " ", flat)):
+            # blank out markup calls at the same length, so offsets match flat
+            for m in re.finditer(r"[A-Za-z]+", re.sub(r"#\w+", lambda c: " " * len(c.group()), flat)):
                 w = m.group(0).lower()
                 if len(w) > 2 and w not in early and not sp.known([w]):
-                    show(f, "words", flat, m)
+                    show(f, f"words {m.group(0)}", flat, m)
     print(f"{hits} candidates", file=sys.stderr)
 
 
