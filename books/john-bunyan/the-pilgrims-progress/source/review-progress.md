@@ -23,6 +23,7 @@ Branch `pilgrims-progress-review`, worktree
 - [x] part-1/stage-10, conclusion
 - [x] part-2 title, authors-way, to-the-reader
 - [ ] part-2 stage-01..08
+- [x] part-2 stage-01, stage-02
 
 ## Fixes applied so far (all in chapters/typ; not yet synced)
 
@@ -58,6 +59,7 @@ Branch `pilgrims-progress-review`, worktree
 - II to-the-reader: "courteous companions" -> "Courteous"; "Jude, 14,15"; comma after "as she thought";
   missing open/close quotes on Christiana's speech para "The thoughts ... that land."; "I am sure," ;
   "within herself, If".
+- II s1: "stand; For" -> "for"; "Christiana, had I" -> "Had". II s2: "doing, But" -> "; but"; "said, stand back" -> "Stand"; "pilgrim’s life." -> "?"; "God made it a true saying upon me, and grant" -> "make" (sense, parallel to grant); "he, said" -> "he said"; "neat and find" -> "neat and fine".
 
 ## To do globally (after reading)
 
@@ -86,8 +88,4 @@ Branch `pilgrims-progress-review`, worktree
 
 ## Next step
 
-Continue Part II at part-2/stage-01.typ through .. stage-08 (read whole files; check suspects with
-scratchpad pp/w.py against CCEL `-c`; no 1678 witness for Part II). Helper for
-exact replacements: scratchpad pp/rep.py FILE PAIRS. NOTE (resolved: Part I synced and checked OK, commit after cfd1245): `./fgb sync pilgrim`
-and `./fgb check pilgrim` have NOT been run yet on the Part I fixes; run them
-after the next batch. Then the global to-do list, build, report.
+Continue Part II at part-2/stage-03.typ through stage-08 (whole files; helpers in scratchpad pp/: rep.py FILE PAIRS, prog.py NOTE --done --next --msg, w.py). Part I + front matter synced/checked OK; Part II stage fixes not yet synced: run ./fgb sync pilgrim and ./fgb check pilgrim after next batches. Then global to-do, build, PDF checks, report.
