@@ -13,8 +13,8 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01-08: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
-- NEXT STEP: read 09 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-09: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 10 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
   01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
@@ -26,6 +26,7 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - James is "Iam." 12x / "Jam." 3x in the book; vol-2 set to Jam. (Ioh->Joh rule). Coordinator: unify.
 - V2-2 ch6 §31: Prov. 22. 1 "to be chosen #emph[love great riches]": print "loue" (misprint). Rec: "above great riches" (or "rather then", the Geneva wording). Not applied.
 - V2-3 ch8 §2 erratum p.268: "honour which is required in the first commandment" -> "fifth commandment". Rec: apply.
+- V2-4 ch9 §27 erratum p.297: "A fit reason may be taken from the mischiefs" -> "A fifth reason" (it follows the fourth reason, §26). Rec: apply.
 
 ## Word map (1622 spellings the machine missed; applied to vol-2)
 
@@ -159,6 +160,22 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - Professours -> Professors
 - spightfully -> spitefully
 - stomacks -> stomachs
+- stupified -> stupefied
+- blockishnese -> blockishness
+- Ambassadour -> Ambassador
+- ambassadour -> ambassador
+- divolued -> devolved
+- pittifull -> pitiful
+- reserueth -> reserveth
+- Trespassor -> Trespasser
+- Friers -> Friars
+- brooke -> brook
+- bard -> barred
+- inheretrix -> inheritrix
+- jointer -> jointure
+- joynter -> jointure
+- indow -> endow
+- yoak -> yoke
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -316,3 +333,23 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 08: `heart.] utteredmost unreverend` -> `heart.] uttered most unreverend` (glued)
 - 01: `married (1. #emph[Cor.] 7. 39.)` -> `married (1 #emph[Cor.] 7. 39.)` (ref)
 - 01: `marry] (1. #emph[Tim.] 5. 14.)` -> `marry] (1 #emph[Tim.] 5. 14.)` (ref)
+- 09: `#footnote[1 #emph[Pet.] 3. 6..]` -> `#footnote[1 #emph[Pet.] 3. 6.]` (punct)
+- 09: `oft falleth out that a wife, #footnote[In two cases` -> `oft falleth out that a wise, #footnote[In two cases` (misprint)
+- 09: `#footnote[1 In case of her husbands impotency.]` -> `#footnote[1\. In case of her husbands impotency.]` (punct)
+- 09: `distemper, wound, or sicknesle.` -> `distemper, wound, or sickness.` (misprint)
+- 09: `#footnote[1 #emph[Sam] 1. 23.] that which #emph[Elkanah] gave to #emph` -> `#footnote[1 #emph[Sam.] 1. 23.] that which #emph[Elkanah] gave to #emp` (ref)
+- 09: `#footnote[4\. An implicit consent,]` -> `#footnote[4\. An implicit consent.]` (punct)
+- 09: `#footnote[#emph[Num] 30. 8.]` -> `#footnote[#emph[Num.] 30. 8.]` (ref)
+- 09: `which appertaineth to her husband authority simply` -> `which appertaineth to her husbands authority simply` (misprint)
+- 09: `by virtue of her hausbands former grant` -> `by virtue of her husbands former grant` (misprint)
+- 09: `How because it is in the power` -> `Now because it is in the power` (misprint)
+- 09: `#footnote[1 #emph[Tim.] 5. 14..]` -> `#footnote[1 #emph[Tim.] 5. 14.]` (punct)
+- 09: `or scarp of meat` -> `or scrap of meat` (misprint)
+- 09: `#emph[Ose.] 6. 6. #emph[Mat] 9. 13.` -> `#emph[Ose.] 6. 6. #emph[Mat.] 9. 13.` (ref)
+- 09: `#emph[Plowd. Com] 344.` -> `#emph[Plowd. Com.] 344.` (punct)
+- 09: `#emph[Answ.] wives cannot always know` -> `#emph[Answ.] Wives cannot always know` (case)
+- 09: `administrationem tamen, & vsum. fructun bonorum` -> `administrationem tamen, & vsumfructum bonorum` (latin)
+- 09: `18\. #emph[E.] 4. 11. #emph[p.] 4]` -> `18\. #emph[E.] 4. 11. #emph[p.] 4.]` (punct)
+- 09: `Fitzherb. Nat. breutum fol.` -> `Fitzherb. Nat. breuium fol.` (latin)
+- 09: `husbands body, #footnote[#emph[Cor.] 7. 4.]` -> `husbands body, #footnote[1 #emph[Cor.] 7. 4.]` (ref)
+- 09: `of his particualar free donation` -> `of his particular free donation` (misprint)
