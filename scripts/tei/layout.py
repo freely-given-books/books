@@ -10,6 +10,8 @@ the TEI root element and returning a list of files, in reading order:
     {"file": "vol-1/01-serving.typ",      # path under chapters/typ
      "title": "Serving Each Other",        # the edition's heading for the file
      "short": None,                        # optional short (running-head) title
+     "subtitle": el,                       # optional: a printed head set under
+                                           # the title, as a centred line
      "part": None,                         # optional: a part heading before this
                                            # file (ebook only; print sets its own)
      "parts": [el, el, ...]}               # TEI elements, in order
@@ -53,6 +55,7 @@ def book_layout(root, cfg):
     for f in files:
         f.setdefault("short", None)
         f.setdefault("title", None)
+        f.setdefault("subtitle", None)
     return files
 
 
@@ -74,7 +77,7 @@ def check(root, files, cfg):
     skip_blocks = set(cfg["SKIP_BLOCKS"](root)) if cfg.get("SKIP_BLOCKS") else set()
     covered = set()
     for f in files:
-        for p in f["parts"]:
+        for p in f["parts"] + ([f["subtitle"]] if f.get("subtitle") is not None else []):
             covered.add(p)
     missing = []
 

@@ -684,6 +684,10 @@ def layout_file_lines(r, f, cfg, pre):
         short = esc(f["short"]) if f["short"] else title
         lines += [tpl.format(n="", title=title, short=short) if tpl
                   else f"== {title}", ""]
+    if f.get("subtitle") is not None:
+        t = collapse(r.inline(f["subtitle"])).strip()
+        if t:
+            lines += [f"#align(center)[{t}]" if r.layer == "reg" else t, ""]
     for el in f["parts"]:
         part_lines(r, el, 3, lines)
     while lines and lines[-1] == "":
