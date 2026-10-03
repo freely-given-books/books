@@ -13,11 +13,10 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
 
 ## Files read
-- parallel, 01, 02, 03, 04, 05: done and fixed
-- NEXT STEP: read 06 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+- parallel, 01-06: done and fixed
+- NEXT STEP: read 07 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
   12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
-  01 '(Mat. 19. 6.) husbands therefore'. Ch 6: 'and well him' -> 'tell him', 'which he good husband' -> 'the'.
-  Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
+  01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
   Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
   ->"no direct" (ch3 §6); p218 margin "viro" (ch3 §5 Chrys. note?); p268 "first commandement"->"fifth" (ch8, Treat.3 §2);
   p297 "A fit reason"->"A fifth reason" (Treat.3 §27); p412 "but also"->"and also" (Treat.4 §60/61). All = questions.
@@ -25,6 +24,7 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 ## Questions so far (draft "Needs your decision")
 - V2-1 ch3 §9: "(Eccles. 20. 7.)" for abstinence in a wife's separation: the verse is Ezek. 18. 6. Rec: Ezek. 18. 6.
 - James is "Iam." 12x / "Jam." 3x in the book; vol-2 set to Jam. (Ioh->Joh rule). Coordinator: unify.
+- V2-2 ch6 §31: Prov. 22. 1 "to be chosen #emph[love great riches]": print "loue" (misprint). Rec: "above great riches" (or "rather then", the Geneva wording). Not applied.
 
 ## Word map (1622 spellings the machine missed; applied to vol-2)
 
@@ -121,6 +121,24 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - fewell -> fuel
 - sacriledge -> sacrilege
 - Pilats -> Pilates
+- mony -> money
+- vettues -> virtues
+- plaid -> played
+- unfainedly -> unfeignedly
+- unfained -> unfeigned
+- spred -> spread
+- boone -> boon
+- gainesaying -> gainsaying
+- embeaseled -> embezzled
+- houswife -> housewife
+- laieth -> layeth
+- hoordeth -> hoardeth
+- hoord -> hoard
+- hauking -> hawking
+- Bowlingalley -> Bowling-alley
+- tyring -> tiring
+- beggery -> beggary
+- begger -> beggar
 
 ## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
 
@@ -215,3 +233,17 @@ Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/77349
 - 05: `#emph[Acomplement all soothing of one anothers humour,]` -> `#emph[A complemental soothing of one anothers humour,]` (misprint)
 - 05: `See Treat. 4. §. 47.]` -> `see Treat. 4. §. 47.]` (case)
 - 05: `if without hoe it be` -> `if without ho it be` (spelling)
+- 06: `#emph[Rebecha] was so careful` -> `#emph[Rebekah] was so careful` (name)
+- 06: `make #emph[savory meat]` -> `make #emph[savoury meat]` (spelling)
+- 06: `God was moved to creare of mankind` -> `God was moved to create of mankind` (misprint)
+- 06: `#emph[Of husbands and wives backwandness to help` -> `#emph[Of husbands and wives backwardness to help` (misprint)
+- 06: `and well him that she was with child. The commendation which he good h` -> `and tell him that she was with child. The commendation which the good ` (misprint)
+- 06: `#emph[preserve a goodname.]` -> `#emph[preserve a good name.]` (spacing)
+- 06: `it is a part of #emph[Jove,]` -> `it is a part of #emph[love,]` (misprint)
+- 06: `as we #footnote[l #emph[Pro.] 31. 28, 29.]` -> `as we #footnote[#emph[Pro.] 31. 28, 29.]` (stray)
+- 06: `the Apothecary to sendforth a]` -> `the Apothecary to send forth a]` (spacing)
+- 06: `contrary to that mutuallcare, which` -> `contrary to that mutual care, which` (spacing)
+- 06: `An ill name in procured` -> `An ill name is procured` (misprint)
+- 06: `#emph[Cam] was cursed` -> `#emph[Ham] was cursed` (name)
+- 06: `that even the also is bound` -> `that even she also is bound` (misprint)
+- 06: `and both of then brought` -> `and both of them brought` (misprint)

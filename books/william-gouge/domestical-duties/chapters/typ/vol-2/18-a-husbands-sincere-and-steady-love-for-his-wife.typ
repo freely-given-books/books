@@ -4,7 +4,7 @@
 
 The general #emph[matter] together with the particular #emph[kinds] of husbands duties being thus far handled, The #emph[manner] also of performing them is to be delivered.
 
-To instruct an husband in the #emph[manner] of performing his duties to his wife, the Apostle laieth down two patterns
+To instruct an husband in the #emph[manner] of performing his duties to his wife, the Apostle layeth down two patterns
 
 + #emph[Christ,] vers. 25.
 + #emph[Our selves,] vers. 28.

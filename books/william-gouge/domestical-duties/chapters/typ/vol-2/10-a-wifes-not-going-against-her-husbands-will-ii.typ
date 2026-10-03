@@ -112,7 +112,7 @@ I have thought good to mention these particular points for illustration of a wiv
 
 Now consider we the usual vices and aberrations contrary to those duties: the general sum of all is, for a wife to take on her to do what she list, whether her husband will or no, either not willing that he should know what she doth, or not caring though it be against his mind and will. Of this sort are
 
-1. Such as privily take money out of their husbands closets, #footnote[1\. Privy purloining husbands goods.] counters, or other like places where he laieth it, never telling him of it, nor willing that he should know it: likewise such as after the like manner take ware out of the shop, corn out of the garner, sheep out of the flock, or any other goods to sell and make money of: or to give away, or otherwise to use so as their husbands shall never know, if they can hinder it. Such wives herein sin heinously, and that in many respects.
+1. Such as privily take money out of their husbands closets, #footnote[1\. Privy purloining husbands goods.] counters, or other like places where he layeth it, never telling him of it, nor willing that he should know it: likewise such as after the like manner take ware out of the shop, corn out of the garner, sheep out of the flock, or any other goods to sell and make money of: or to give away, or otherwise to use so as their husbands shall never know, if they can hinder it. Such wives herein sin heinously, and that in many respects.
 
 First they disobey the ordinance of God in a main branch of their particular calling, which is #emph[subjection.]
 
