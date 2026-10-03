@@ -7,12 +7,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4982 |
-| case | 3782 |
-| emendation | 3760 |
-| spelling | 2427 |
+| punctuation | 4979 |
+| case | 3784 |
+| emendation | 3763 |
+| spelling | 2429 |
 | italic | 1946 |
-| spacing | 1839 |
+| spacing | 1841 |
 | note | 403 |
 | split | 98 |
 | heading | 90 |
@@ -2625,7 +2625,7 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] , ( → —
 - [application-03.typ] Closet - → closet
-- [application-03.typ] Conscience → conscience (2Ti 4
+- [application-03.typ] Conscience → conscience (1Ti 4
 - [application-03.typ] 'tis → it is
 - [application-03.typ] Conscience → conscience that
 - [application-03.typ] that → 
@@ -2689,6 +2689,8 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
 - [application-03.typ] ; Oh → , oh,
+- [application-03.typ] Phylistins → Philistines (1Sa 5)
+- [application-03.typ] Closet - → closet
 - [application-03.typ] Closet , → closet
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
@@ -2852,6 +2854,7 @@
 - [application-03.typ] Christians Gun - shot → Christian’s gunshot
 - [application-03.typ] begging → begging (Isa 1:15; 65:5)
 - [application-03.typ] God → God (Mal 1:13-14)
+- [application-03.typ] ; it → (Psa 141:2). It
 - [application-03.typ] 'tis → It is
 - [application-03.typ] made → Isa
 - [application-03.typ] of → 45
@@ -2937,7 +2940,7 @@
 - [application-03.typ] it → it” (Rev 2:17)
 - [application-03.typ] that → 
 - [application-03.typ] . That → that
-- [application-03.typ] Tau → ה
+- [application-03.typ] Tau → ת
 - [application-03.typ] which is the → tau,
 - [application-03.typ] 'tis → It is
 - [application-03.typ] Closet - → closet
@@ -3081,7 +3084,7 @@
 - [application-03.typ] a - like Communion → alike communion
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
-- [application-03.typ] Ahimaaz → Ahimaaz (1Sa 18:23)
+- [application-03.typ] Ahimaaz → Ahimaaz (2Sa 18:23)
 - [application-03.typ] viz → 
 - [application-03.typ] Closets , → closets
 - [application-03.typ] Closets , → closets
@@ -3180,7 +3183,7 @@
 - [application-03.typ] ; so → . So,
 - [application-03.typ] that → 
 - [application-03.typ] . And when → , and
-- [application-03.typ] fifteenth vers → 15 verse: “
+- [application-03.typ] fifteenth vers → 15th verse: “
 - [application-03.typ] O → ” “Oh,”
 - [application-03.typ] : O → . Oh,
 - [application-03.typ] letters → letters, “
@@ -7364,8 +7367,6 @@
 - [application-03.typ] ) → , “
 - [application-03.typ] , → 
 - [application-03.typ] ? → !
-- [application-03.typ] , → (1Sa 5).
-- [application-03.typ] - → 
 - [application-03.typ] ; → .
 - [application-03.typ] ; → .
 - [application-03.typ] , → 
@@ -7591,7 +7592,6 @@
 - [application-03.typ] , → 
 - [application-03.typ] , → 
 - [application-03.typ] , → 
-- [application-03.typ] ; → (Psa 141:2).
 - [application-03.typ] , → 
 - [application-03.typ] , → made of brass and iron
 - [application-03.typ] , → (
@@ -8946,13 +8946,13 @@
 
 ## case
 
-- his → His (×343)
-- he → He (×192)
+- his → His (×344)
+- he → He (×195)
 - and → And (×76)
 - Communion → communion (×75)
 - him → Him (×66)
-- Closet → closet (×65)
 - Closets → closets (×65)
+- Closet → closet (×64)
 - Lord → LORD (×52)
 - Heaven → heaven (×49)
 - Saints → saints (×47)
@@ -9049,7 +9049,6 @@
 - Temple → temple (×7)
 - Wives → wives (×7)
 - some → Some (×7)
-- that → That (×7)
 - word → Word (×7)
 - Advice → advice (×6)
 - Allegories → allegories (×6)
@@ -9069,6 +9068,7 @@
 - Relations → relations (×6)
 - Secret → secret (×6)
 - Throne → throne (×6)
+- that → That (×6)
 - there → There (×6)
 - A → a (×5)
 - Arrows → arrows (×5)
@@ -9958,6 +9958,7 @@
 - judgements → judgments (×6)
 - leasure → leisure (×6)
 - masters → master’s (×6)
+- resting → resting- (×6)
 - rises → rise (×6)
 - show → shew (×6)
 - so → so, (×6)
@@ -10062,7 +10063,6 @@
 - plea's → pleas (×3)
 - priviledged → privileged (×3)
 - recompense → recompence (×3)
-- resting → resting- (×3)
 - slights → sleights (×3)
 - strugling → struggling (×3)
 - tast → taste (×3)
@@ -10440,10 +10440,9 @@
 - Peoples → people’s
 - Pession → passion
 - Pharisees → Pharisees’
-- Pharises → pharisees
+- Pharises → Pharisees
 - Pharoah's → Pharaoh’s
 - Phenix → phoenix
-- Phylistins → Philistines
 - Phylosophers → philosopher’s
 - Pius → Pius,
 - Platonicks → Platonics
