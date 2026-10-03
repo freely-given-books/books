@@ -245,8 +245,8 @@ is the fruit of Christ’s death. They are not only enemies, but friends in Chri
 Sin, the remainder of it—(the guilt of it, that bindeth over to damnation, is
 taken away)—the remainders of it serve to humble us, make us feel the
 power of pardon, and to desire another world, where we shall be all spiritual.
-So that death is a part of our jointure. 'All things are yours, life and death,' 1
-Corinthians 3:22. Death doth us many excellent services. It is a door and passage to
+So that death is a part of our jointure. 'All things are yours, life and death,'
+1 Corinthians 3:22. Death doth us many excellent services. It is a door and passage to
 life. Death is the death of itself, destroyeth itself. We never truly live till we
 die, and when we die, we are past fear of death. So that sin dieth, misery
 dieth, death dieth. Though it takes us from comforts, and employments, and
@@ -303,10 +303,10 @@ We must not therefore fear over much. There is a natural fear of death.
 Death wrought upon Christ himself, God-man; not only death, but such a
 death. He was to be left of his Father, and lie under the sense of the wrath of
 God; the separation of that soul from the body he took upon him was
-terrible; and therefore he saith, 'If it be possible, let this cup pass from me
+terrible; and therefore he saith, 'If it be possible, let this cup pass from me;'
 that was nature, and without it he had not been true man. But that I say is,
 that grace may be above nature. Death is a time of darkness. It strips us of
-earthly comforts, friends, callings, employments but then comes the eye of
+earthly comforts, friends, callings, employments, but then comes the eye of
 faith to lay hold on the victory of Christ in time to come, when death shall be
 only swallowed up in victory; and then the glorious state to come, to which
 death bringeth us. So that here faith must be above sense, and grace above
@@ -430,7 +430,7 @@ have much comfort in them.
 
 Let us labour then to be comfortable: this use the apostle makes of it;
 and fruitful in our places, upon consideration of the victory we have by
-Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ’s victory,
+Christ, 1 Corinthians 15. It is an excellent chapter that largely proveth Christ’s victory,
 as the cause of our victory, because he is the first fruit that sanctifieth all the
 rest. 'Finally, my brethren, be constant, immoveable, always abounding in the
 works of the Lord, knowing that your labour is not in vain in the Lord.' He

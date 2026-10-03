@@ -28,14 +28,14 @@ precious memory, are published. Wherein thou art presented.
   Sharon,' the 'lily of the valley,' Song of Songs 2:1. He is a 'bundle of myrrh,'
   Song of Songs 1:13, a 'cluster of camphire,' Song of Songs 1:14; his name is 'an ointment
   poured out,' Song of Songs 1:3, and 'his love is better than wine,' Song of Songs 1:2. In
-  Christ are 'all things ready,' Mat 22:4  for 'Christ is all in all,' Colossians 3:11.
+  Christ are 'all things ready,' Mat 22:4, for 'Christ is all in all,' Colossians 3:11.
   And great is the feast that Christ makes for believers, for it is the marriage
   feast which the great King 'makes for his Son,' Mat 22:2; the great
   design and aim of the gospel being to exalt the Lord Jesus Christ, and give
   'him a name above every name,' Philippians 2:9. Great is the company
   that are bid, Luke 14:16, Jews and Gentiles. God keeps open house, 'Ho,
   every one that thirsteth, come,' Isaiah 55:1, and 'whosoever will, let him
-  come  and freely take of the water of life,' Revelation 22:17. Great is the cheer
+  come and freely take of the water of life,' Revelation 22:17. Great is the cheer
   that is provided. Every guest here hath Asher’s portion, 'royal dainties
   and bread of fatness,' Genesis 49:20. Here is all excellent best wine, 'wine
   upon the lees well refined,' Isaiah 25:6. Here is 'fat things,' yea, 'fat
@@ -99,7 +99,7 @@ precious memory, are published. Wherein thou art presented.
   mayest triumph in his love, through whom thou art more than conqueror.
 
 + Because 'it is a merry heart that makes a continual feast,' Proverbs 15:15,
-  and that this feast might be a gaudy - day indeed unto thy soul,
+  and that this feast might be a gaudy-day indeed unto thy soul,
   Christ doth here promise, 'to wipe away all tears from off the faces of his
   people,' Isaiah 25:8. The gospel hath comforts enough to make glad the
   hearts of the saints and people of God. The 'light of God’s countenance'
@@ -143,7 +143,7 @@ precious memory, are published. Wherein thou art presented.
 + Now because the comfort of the promises is grounded in the faithfulness
   of him that hath promised, this godly and learned man, hath
   strongly asserted the divine authority of the holy Scriptures, proving that
-  they are  θεόπνευστοι, that they are the very word of God, that they are αὐτόπιστοι
+  they are θεόπνευστοι, that they are the very word of God, that they are αὐτόπιστοι
   and ἀξιόπιστοι, worthy of all acceptation, and belief, for their own sakes;
   a truth very seasonable for these times, to antidote thee against the poisonful
   errors of blasphemous anti-scripturists.

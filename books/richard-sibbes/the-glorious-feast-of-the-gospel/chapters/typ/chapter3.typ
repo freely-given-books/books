@@ -187,7 +187,7 @@ notwithstanding, there is a veil upon the soul. The soul of every man that is
 not graciously wrought upon by the Spirit of God hath a veil of ignorance
 and unbelief.
 
-First of all, of ignorance. There is a vale of ignorance in many, and in all
+First of all, of ignorance. There is a veil of ignorance in many, and in all
 men naturally a veil of ignorance of spiritual things. For, unless they be
 revealed, they can never be known to angels themselves. The angels
 themselves know not the gospel till it be opened, and therefore they be
@@ -483,7 +483,7 @@ we be informed, but not truly transformed, to love the truth we know, and
 hate the evil we know, it maketh us worse.
 
 And then it enrageth men the more. The more they know, the more they
-be enraged. Men when truths he pressed, which they purpose not to obey,
+be enraged. Men when truths be pressed, which they purpose not to obey,
 they fret against the ordinance, and cast stones, as it were, in the face of
 truth. When physic doth raise humours, but is not strong enough to carry
 them away, they endanger the body; and where light is not strong enough to

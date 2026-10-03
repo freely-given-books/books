@@ -199,7 +199,7 @@ undone if comforts and grace are not at hand, never considering the
 promises that are to come; as that promise of Christ, 'I will be with thee to
 the end of the world, fear not,' Mat 28:20. No temptation shall befall us,
 but we shall have an issue out of it, and it shall work together for the good of
-all those that fear God. This is aqua vita: to the soul of man. Therefore the
+all those that fear God. This is aqua vitae to the soul of man. Therefore the
 gracious promises of Christ and his Holy Spirit we should ever remember to
 get into our souls; for when all other comforts fail, then cometh in the
 comforts of the Spirit, who will be with us and uphold us in all extremities. If
@@ -245,7 +245,7 @@ justify the ways of godliness against our own false and carnal hearts, and
 against the slanderous imputations of the world. When our hearts are ready
 to be false to us, and hanker after the contentments of the world, and are
 ready to say the best contentment that they can enjoy is in the things below;
-let us answer our base and false disputing hearts, that the way’s of wisdom,
+let us answer our base and false disputing hearts, that the ways of wisdom,
 the ways that God directs us to, they only are the ways of pleasure. And
 religion is that that makes the hearts of the children of men joyful; and 'a
 good conscience only makes a continual feast,' Proverbs 15:15, so long as man

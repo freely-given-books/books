@@ -31,7 +31,7 @@ church, 'Why dost thou persecute me?' Acts 10:4; so, though he is free from
 passion in heaven, he is not free from compassion, from sympathy with his
 church. And so every child of God is ready, not only to grieve for his own
 sins, and the misery that followeth them, but the sins and miseries of others.
-'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men break the law of God, whom he loved.
+'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men brake the law of God, whom he loved.
 
 A true natural child takes to heart the disgrace of his father. If we be not
 grieved to see our father disgraced, we are bastards, not sons. They that make a sport of sin, what are they? Alas! they have not one spark of the spirit of
@@ -45,7 +45,7 @@ damnation, he telleth them of it weeping.
 
 We have cause, therefore, to mourn for the sins of others, and for the
 miseries of others, whether we respect God, or the church, or ourselves.
-First, the love of God moveth its to weep when we see him
+First, the love of God moveth us to weep when we see him
 dishonoured.
 
 Second, if we love the church, we should mourn for any sins that may
@@ -73,7 +73,7 @@ maximus, there were no patience without sensibleness. Away, then, with that
 iron, that flinty philosophy, that thinks it a virtue to be stupid; and as the
 apostle saith, 'without natural affections,' Romans 1:31. He counteth it the
 greatest judgment of God upon the soul, yet they would have it a virtue. Why
-should I smite them anymore? saith God; they have no sense, no feeling, Isaiah 1:5.
+should I smite them any more? saith God; they have no sense, no feeling, Isaiah 1:5.
 
 The proud philosopher thought it was not philosophical to weep, a
 proud stoical humour, but Christians desire it.
@@ -84,7 +84,7 @@ him afterwards. It is most true, that Sapiens miser, plus miser; the more wise
 any man is, the more sensible of misery. And therefore of all men, the best
 men have most grief, because they have most quick senses. They be not
 stupified with insensibility and resoluteness, to bear it bravely, as the world;
-but they apprehend with grief, the cause of grief And as they have a more
+but they apprehend with grief, the cause of grief. And as they have a more
 sanctified judgment than other men, so they have a more wise affection of
 love, and a quicker life of grace. Where life is, there is sense; and where there
 is a clear sight or cause of grief, there is most grief. Therefore the best men
@@ -142,7 +142,7 @@ Then consider the presence of God in it. Indeed, I have matter of grief,
 but I find God moderating it. It might be far worse, it is his mercy I am not
 consumed; I find God by it doing me good, I find myself better by it, I
 cannot well be without it. Who would not labour to be sensible of a cross,
-when be looketh up to God’s cross, and justice, and mercy? He hath rather
+when he looketh up to God’s cross, and justice, and mercy? He hath rather
 cause to joy, than to grieve in the very cross itself.
 
 But specially mark what the Holy Ghost saith here. We ought not to be
@@ -173,7 +173,7 @@ here, our consolation shall increase. That we suffer here, if for a good cause,
 will work our 'eternal and exceeding weight of glory,' 2 Corinthians 4:17. We say
 April showers bring forth May flowers. It is a common speech, from
 experience of common life. It is true in religion. The more tears we shed in
-the April of our lives, the more sweet comfort we shall have hereafter, If no
+the April of our lives, the more sweet comfort we shall have hereafter. If no
 tears are to be shed here, no flowers are to be gathered there. And, therefore,
 besides deliverance from trouble, here is comfort, God will take away all
 cause of grief, and all kinds of grief whatsoever.
@@ -281,8 +281,8 @@ condition. Aye, but it is a comfortable condition. The more afflictions here,
 the more comfort here, but specially hereafter. The life of a carnal man is all
 in misery. If he falls to joy, he is all joy; if to sorrow, he is all sorrow. He hath
 nothing to support him. He is like a Nabal, he sinketh like a piece of lead to
-the bottom of the sea, 1 Samuel 25:37, 38; like Ahithophel, down he goeth, 2
-Samuel 17:23. When he is upon the merry pin, he is nothing but joy. But a
+the bottom of the sea, 1 Samuel 25:37, 38; like Ahithophel, down he goeth,
+2 Samuel 17:23. When he is upon the merry pin, he is nothing but joy. But a
 Christian’s state and disposition are both mixed. He hath ground of sorrow
 for his own sins, and for the sins and miseries of the times. So he hath matter
 of comfort for the present, in the favour of God, in the pardoning of sins, in

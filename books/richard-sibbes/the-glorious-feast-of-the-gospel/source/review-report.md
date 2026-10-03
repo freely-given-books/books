@@ -7,13 +7,13 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2284 |
+| punctuation | 2282 |
 | case | 1762 |
-| spelling | 1692 |
-| emendation | 809 |
+| spelling | 1690 |
+| emendation | 801 |
 | italic | 583 |
 | note | 385 |
-| spacing | 206 |
+| spacing | 199 |
 | split | 68 |
 | grammar | 54 |
 | merge | 30 |
@@ -158,12 +158,12 @@
 - [tothereader.typ] him → him,' Isaiah 49:23
 - [tothereader.typ] WILL : TAYLOR → Will Taylor
 - [chapter1.typ] ISAIAH 25 . 6 . → 
-- [chapter1.typ] & c → '
+- [chapter1.typ] Song , & c → song
 - [chapter1.typ] ) ( → ,
 - [chapter1.typ] Divine Justice → divine justice,
 - [chapter1.typ] rejoyce → , rejoice
 - [chapter1.typ] Hallelujah → , 'Hallelujah'
-- [chapter1.typ] & c → '
+- [chapter1.typ] , & c → 
 - [chapter1.typ] earth → earth,' 2 Peter 3:13,
 - [chapter1.typ] ; nay → . Nay,
 - [chapter1.typ] Syon → Zion
@@ -174,7 +174,7 @@
 - [chapter1.typ] ; it → , Psalm 125:1. It
 - [chapter1.typ] Again → Obs. 2. Again
 - [chapter1.typ] 1 → Firstly
-- [chapter1.typ] fear → fear; for
+- [chapter1.typ] fear → fear;' for
 - [chapter1.typ] for → 
 - [chapter1.typ] also → also,' Romans 11:20, 21
 - [chapter1.typ] Candlesticks → candlesticks,' Revelation 1:12
@@ -204,7 +204,6 @@
 - [chapter1.typ] God → God,' 1 Peter 5:2
 - [chapter1.typ] fire → fire,' Hebrews 12:29
 - [chapter1.typ] A → Fourth. A
-- [chapter1.typ] be → he
 - [chapter1.typ] our selves → ourselves
 - [chapter1.typ] us → us; therefore
 - [chapter1.typ] therefore → 
@@ -276,7 +275,7 @@
 - [chapter2.typ] our selves → ourselves
 - [chapter2.typ] overmuch → over much
 - [chapter2.typ] ; therefore → . Therefore,
-- [chapter2.typ] Aquavitae → aqua vita:
+- [chapter2.typ] Aquavitae → aqua vitae
 - [chapter2.typ] we → ' Colossians 3:3. We
 - [chapter2.typ] in → ' Revelation 2:17. 'In
 - [chapter2.typ] Rom → '
@@ -396,7 +395,6 @@
 - [chapter3.typ] inwarpt → enwrapped
 - [chapter3.typ] its → it is
 - [chapter3.typ] heart → heart,' 2 Corinthians 3:3
-- [chapter3.typ] be → he
 - [chapter3.typ] Its → It is
 - [chapter3.typ] Now → Means. Now
 - [chapter3.typ] our selves → ourselves
@@ -498,7 +496,6 @@
 - [chapter4.typ] ever → ever; yea
 - [chapter4.typ] yea → 
 - [chapter4.typ] overmuch → over much
-- [chapter4.typ] imployments , → employments
 - [chapter4.typ] vain - glory → vainglory
 - [chapter4.typ] , dyes → dies
 - [chapter4.typ] before hand → beforehand
@@ -530,9 +527,7 @@
 - [chapter4.typ] things → things,' 1 Thessalonians 4:18
 - [chapter4.typ] , ( → :
 - [chapter4.typ] , ) → ;
-- [chapter4.typ] 1 → 
-- [chapter4.typ] Cor → 
-- [chapter4.typ] 15 → 1Cor. xv
+- [chapter4.typ] Cor . → Corinthians
 - [chapter4.typ] And → ' 'And
 - [chapter4.typ] Lord → Lord,' 1 Corinthians 15
 - [chapter4.typ] afraid → afraid; yea
@@ -555,13 +550,11 @@
 - [chapter5.typ] David → David, Psalm 119:136
 - [chapter5.typ] Saint → St
 - [chapter5.typ] our selves → ourselves
-- [chapter5.typ] us → its
 - [chapter5.typ] : If → Second, if
 - [chapter5.typ] any thing → anything
 - [chapter5.typ] When → Use 1. When
 - [chapter5.typ] ; away → . Away,
 - [chapter5.typ] Without natural affections : → 
-- [chapter5.typ] more → ?
 - [chapter5.typ] feeling → feeling, Isaiah 1:5
 - [chapter5.typ] ; therefore → . Therefore,
 - [chapter5.typ] our selves , → ourselves
@@ -570,7 +563,6 @@
 - [chapter5.typ] our selves , → ourselves
 - [chapter5.typ] ; indeed → . Indeed,
 - [chapter5.typ] my self → myself
-- [chapter5.typ] he → be
 - [chapter5.typ] it self → itself
 - [chapter5.typ] there → there,' Revelation 21:27
 - [chapter5.typ] way → way; there
@@ -973,7 +965,7 @@
 - [tothereader.typ] ; → ,' Song of Songs 2:1.
 - [tothereader.typ] , → ,' Song of Songs 1:14;
 - [tothereader.typ] , → ,' Song of Songs 1:3,
-- [tothereader.typ] , → ,' Mat 22:4
+- [tothereader.typ] , → ,' Mat 22:4,
 - [tothereader.typ] ; → ,
 - [tothereader.typ] . → ,' Mat 22:2;
 - [tothereader.typ] . → :
@@ -1040,6 +1032,7 @@
 - [chapter1.typ] . → .—Isaiah 25:6.
 - [chapter1.typ] , → 
 - [chapter1.typ] , → ;
+- [chapter1.typ] . → .'
 - [chapter1.typ] ( → ,
 - [chapter1.typ] ) → ,
 - [chapter1.typ] ( → ,
@@ -1050,13 +1043,13 @@
 - [chapter1.typ] , → ;
 - [chapter1.typ] , → 
 - [chapter1.typ] . → .'
+- [chapter1.typ] . → .'
 - [chapter1.typ] ; → ,
 - [chapter1.typ] ; → .
 - [chapter1.typ] , → ;
 - [chapter1.typ] , → ;
 - [chapter1.typ] , → .
 - [chapter1.typ] , → ;
-- [chapter1.typ] . → 
 - [chapter1.typ] . → .'
 - [chapter1.typ] ; → ;'
 - [chapter1.typ] ; → ;'
@@ -1273,7 +1266,6 @@
 - [chapter1.typ] : → .
 - [chapter1.typ] , → 
 - [chapter1.typ] ; → .
-- [chapter1.typ] ? → ?.
 - [chapter1.typ] , → ,'
 - [chapter1.typ] . → :
 - [chapter1.typ] , → :
@@ -2049,7 +2041,7 @@
 - [chapter4.typ] , → .
 - [chapter4.typ] , → .
 - [chapter4.typ] , → ;
-- [chapter4.typ] ; → 
+- [chapter4.typ] ; → ;'
 - [chapter4.typ] , → 
 - [chapter4.typ] ; → .
 - [chapter4.typ] , → .
@@ -2109,7 +2101,6 @@
 - [chapter4.typ] , → ?
 - [chapter4.typ] : → .
 - [chapter4.typ] ; → .
-- [chapter4.typ] , → 
 - [chapter4.typ] . → .'
 - [chapter4.typ] , → 
 - [chapter4.typ] : → .
@@ -2180,7 +2171,6 @@
 - [chapter5.typ] : → .
 - [chapter5.typ] , → .
 - [chapter5.typ] , → 
-- [chapter5.typ] . → 
 - [chapter5.typ] ; → .
 - [chapter5.typ] : → ;
 - [chapter5.typ] , → 
@@ -2224,7 +2214,7 @@
 - [chapter5.typ] , → 
 - [chapter5.typ] ; → .
 - [chapter5.typ] , → .
-- [chapter5.typ] : → ,
+- [chapter5.typ] : → .
 - [chapter5.typ] : → .
 - [chapter5.typ] ? → ? Reason 1.
 - [chapter5.typ] : → .
@@ -3245,7 +3235,7 @@
 ## case
 
 - Church → church (×119)
-- Feast → feast (×90)
+- Feast → feast (×91)
 - he → He (×87)
 - the → The (×45)
 - we → We (×43)
@@ -3601,7 +3591,6 @@
 - Service → service
 - Sight → sight
 - Slander → slander
-- Song → song
 - Souls → souls
 - Spades → spades
 - Speech → speech
@@ -3691,7 +3680,7 @@
 
 ## spelling
 
-- vail → veil (×76)
+- vail → veil (×77)
 - Gods → God’s (×68)
 - rejoyce → rejoice (×35)
 - then → than (×34)
@@ -3843,7 +3832,6 @@
 - away → away, (×2)
 - be → be, (×2)
 - borne → born (×2)
-- brake → break (×2)
 - bread → 'bread (×2)
 - carnal → carnal, (×2)
 - carryed → carried (×2)
@@ -3964,7 +3952,6 @@
 - Esaus → Esau’s
 - Famines → famines,
 - Father → 'Father,
-- Feast → -feast
 - Feast → feast.
 - Finally → 'Finally,
 - For → For,
@@ -4096,7 +4083,6 @@
 - an → 'an
 - and → and-
 - annex'd → annexed
-- any → anymore
 - applyed → applied
 - apprehension → apprehension,
 - are → 'are
@@ -4126,6 +4112,7 @@
 - bodies → body’s
 - body → body,
 - book → book,
+- brake → break
 - bravely → bravely,
 - brests → breasts
 - bretheren → brethren,
@@ -4276,6 +4263,7 @@
 - if → 'If
 - if → 'if
 - immediat → immediate
+- imployments → employments
 - in → 'In
 - inable → enable
 - induring → enduring
@@ -4328,6 +4316,7 @@
 - misery → misery,
 - misteries → mysteries
 - more → more,
+- more → more?
 - mothers → mother’s
 - mount → mount'
 - mountain → 'mountain'
@@ -4488,7 +4477,6 @@
 - union → union,
 - unperfect → imperfect
 - unsetledness → unsettledness
-- vail → vale
 - vail → veil'
 - vailes → veils
 - verse → verse,
@@ -4504,7 +4492,6 @@
 - water → 'water
 - water → water,
 - way → way,
-- ways → way’s
 - wayted → waited
 - we → we,
 - weep → 'Weep
