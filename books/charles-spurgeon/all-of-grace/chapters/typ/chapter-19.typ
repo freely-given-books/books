@@ -22,4 +22,4 @@ If you are indeed a believer you are one with Jesus, and therefore you are secur
 
 So, then, with the utmost confidence let us go forward into the unknown future, linked eternally with Jesus. If the men of the world should cry, “Who is this that cometh up from the wilderness, leaning upon her Beloved?” we will joyfully confess that we do lean on Jesus, and that we mean to lean on Him more and more. Our faithful God is an everflowing well of delight, and our fellowship with the Son of God is a full river of joy. Knowing these glorious things we cannot be discouraged: nay, rather we cry with the apostle,
 
-#quote[“Who shall separate us from the love of God which is in Christ Jesus our Lord?”]
+#quote[Who shall separate us from the love of God which is in Christ Jesus our Lord?]

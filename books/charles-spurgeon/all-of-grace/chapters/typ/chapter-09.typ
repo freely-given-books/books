@@ -2,7 +2,7 @@
 
 TO MAKE THE MATTER of faith clearer still, I will give you a few illustrations. Though the Holy Spirit alone can make my reader see, it is my duty and my joy to furnish all the light I can, and to pray the divine Lord to open blind eyes. Oh that my reader would pray the same prayer for himself!
 
-#quote[The faith which saves has its analogies in the human frame.]
+The faith which saves has its analogies in the human frame.
 
 It is the eye which looks. By the eye we bring into the mind that which is far away; we can bring the sun and the far-off stars into the mind by a glance of the eye. So by trust we bring the Lord Jesus near to us; and though He be far away in Heaven, He enters into our heart. Only look to Jesus; for the hymn is strictly true —
 

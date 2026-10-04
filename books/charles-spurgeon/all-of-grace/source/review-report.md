@@ -6,13 +6,13 @@
 
 | kind | count |
 | --- | --- |
-| case | 50 |
-| spelling | 50 |
+| spelling | 53 |
+| case | 51 |
 | merge | 19 |
+| punctuation | 14 |
 | quotation | 14 |
 | spacing | 11 |
-| emendation | 7 |
-| punctuation | 6 |
+| emendation | 8 |
 | italic | 5 |
 | split | 4 |
 | grammar | 1 |
@@ -20,16 +20,17 @@
 ## split
 
 - [chapter-08.typ] paragraph → 1 split(s) at "
-- [chapter-09.typ] quotation → 2 split(s) at It, There
-- [chapter-16.typ] paragraph → 2 split(s) at ", Our
+- [chapter-09.typ] quotation → 2 split(s) at The, It, There
+- [chapter-16.typ] paragraph → 2 split(s) at ", "
 - [chapter-19.typ] paragraph → 1 split(s) at "
 
 ## emendation
 
 - [chapter-01.typ] he → be
-- [chapter-05.typ] you → 
 - [chapter-06.typ] if → it
+- [chapter-07.typ] of → of it
 - [chapter-08.typ] is → in
+- [chapter-08.typ] of → 
 - [chapter-11.typ] l → I
 - [chapter-17.typ] Cor . → Corinthians
 - [chapter-19.typ] Cor . → Corinthians
@@ -41,11 +42,19 @@
 ## punctuation
 
 - [chapter-03.typ] " → ”
+- [chapter-05.typ] " → 
+- [chapter-05.typ] " → 
 - [chapter-06.typ] . → 
+- [chapter-07.typ] " → 
+- [chapter-07.typ] " → 
 - [chapter-08.typ] , → ,”
 - [chapter-09.typ] . → ?
 - [chapter-11.typ] , → .
+- [chapter-16.typ] " → 
+- [chapter-16.typ] " → 
 - [chapter-18.typ] , → , “
+- [chapter-19.typ] " → 
+- [chapter-19.typ] " → 
 
 ## case
 
@@ -66,6 +75,7 @@
 - Redeemer → REDEEMER
 - Sins → SINS
 - Sir → sir
+- Thy → thy
 - You → YOU
 - away → AWAY
 - believe → BELIEVE
@@ -95,6 +105,7 @@
 - marvellous → marvelous (×2)
 - Ay → Aye
 - Come → Come,
+- No → Nor
 - Saviour’s → Savior’s
 - axe → ax
 - counsellor → counselor
@@ -102,9 +113,11 @@
 - fulfilment → fulfillment
 - mutrition → nutrition
 - offences → offenses
+- plough → plow
 - pretence → pretense
 - quell’d → quell’d,
 - sir → sir,
 - wordly → worldly
+- you → you,
 - ‘Twas → ’Twas
 
