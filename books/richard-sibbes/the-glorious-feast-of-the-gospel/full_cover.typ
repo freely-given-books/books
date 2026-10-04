@@ -2,7 +2,7 @@
 // Template: w4ywv7q-cover-template.pdf
 // Total document size (with bleed): 11.756" × 8.75" (298.59mm × 222.25mm)
 // Book trim size: 5.5" × 8.5" (139.7mm × 215.9mm)
-// Spine width: 0.506" (12.85mm): Lulu's pages / 444 + 0.06in for 198 pages
+// Spine width: 0.501" (12.73mm): Lulu's pages / 444 + 0.06in for 196 pages
 // Bleed: 0.125" (3.17mm)
 // Safety margin: 0.5" (12.7mm) from trim edge
 
@@ -27,7 +27,7 @@
 #let bleed = 3.17mm
 #let trim-width = 139.7mm
 #let trim-height = 215.9mm
-#let spine-width = 12.85mm   // 198 pages; follow a page-count change
+#let spine-width = 12.73mm   // 196 pages; follow a page-count change
 #let safety = 12.7mm
 
 // Calculated positions
