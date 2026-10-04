@@ -51,7 +51,7 @@ A particular consent is that which is given to one or more particular #footnote[
 
 This particular consent may be #emph[expressed] or #emph[implied.] An expressed consent is when the husband manifesteth his good liking by word, writing, message, or sign, and that whether his consent be asked (as was noted in the example of #emph[Elkanah)] or freely offered.
 
-An implicit consent, when by any probable conjecture it may be gathered that the husbands will is not against such a thing, #footnote[4\. An implicit consent.] though he have not manifested his mind concerning that very particular. This implicit consent may be gathered either by his silence when he is present to see a thing done, or otherwise hath knowledge thereof: or else when he is absent, by his former carriage or disposition in other like cases. The Scripture accounteth an husbands silence, when he knoweth a thing and may, but doth not forbid it, to be a consent: as #footnote[#emph[Num.] 30. 8.] in the case of a wives vow. For any thing we read to the contrary #footnote[2 #emph[King.] 4. 10, 23.] the Shunemite had no other consent to prepare a chamber for the Prophet, and to go unto him, then her husbands silence, and not forbidding it when he knew it.
+An implicit consent, when by any probable conjecture it may be gathered that the husbands will is not against such a thing, #footnote[4\. An implicit consent.] though he have not manifested his mind concerning that very particular. This implicit consent may be gathered either by his silence when he is present to see a thing done, or otherwise hath knowledge thereof: or else when he is absent, by his former carriage or disposition in other like cases. The Scripture accounteth an husbands silence, when he knoweth a thing and may, but doth not forbid it, to be a consent: as #footnote[#emph[Num.] 30. 8.] in the case of a wives vow. For any thing we read to the contrary #footnote[2 #emph[King.] 4. 10, 23.] the Shunammite had no other consent to prepare a chamber for the Prophet, and to go unto him, then her husbands silence, and not forbidding it when he knew it.
 
 As for the other kind of implicit consent, it may be set forth in this following instance: suppose a good wife hath an husband whom she knoweth by his former carriage and disposition to be a pitiful and charitable man, taking all occasions to show mercy, and in his absence there falleth out a fit and needful occasion of showing mercy; if she take that occasion to show mercy, she hath an implicit consent, for she may well think that if her husband knew it he would approve what she doth. It is to be supposed that #footnote[1 #emph[Sam.] 1. 11.] #emph[Hannah] upon some such ground vowed her child to God. For it is not likely that she who would not tarry at home to wean her child without her husbands consent, would much less vow him to the Lord (which was a far greater matter) without some persuasion of her husbands good liking thereof. Now that a wife may show she dealeth uprightly in this case upon a true persuasion of her heart concerning her husbands mind, she ought (when conveniently she can) to make known to her husband what she hath done: as without all question #emph[Hannah] did; and so much may be gathered out of these words which #emph[Elkanah] uttered to #emph[Hannah,] #footnote[1 #emph[Sam.] 1. 23.] #emph[the Lord establish his word.]
 
@@ -111,9 +111,9 @@ Again it is objected that that old law is to be expounded of weighty matters.
 
 #emph[Answ.] The Apostle who was guided by the spirit of the #footnote[#emph[Eph.] 5. 24.] law-maker, extendeth that law to #emph[every thing:] But is not this matter of disposing goods a weighty matter? The consequences which I shall by and by note to follow hereupon will show it to be a matter of moment.
 
-=== §. 24. #emph[Of the example of the Shunemite in asking her husbands consent.] #footnote[2 #emph[King.] 4. 9, 22.]
+=== §. 24. #emph[Of the example of the Shunammite in asking her husbands consent.] #footnote[2 #emph[King.] 4. 9, 22.]
 
-As another reason may be alleged the Shunemites pattern who asked her husbands consent before she prepared the things that were thought meet for the Prophets entertainment: and before she used the things which were meet for her journey.
+As another reason may be alleged the Shunammites pattern who asked her husbands consent before she prepared the things that were thought meet for the Prophets entertainment: and before she used the things which were meet for her journey.
 
 #strong[#emph[Object.] It is indeed commendable for wives to seek their husbands consent as she did, but where such consent cannot be had, it is not necessary.]
 
@@ -121,7 +121,7 @@ As another reason may be alleged the Shunemites pattern who asked her husbands c
 
 2. #emph[Answ.] They that except against this reason taken from example, use themselves the like reason in other points, as the examples of #emph[Abigail, Joanna,] and #emph[Susanna] for the contrary.
 
-2. #emph[Object.] In the Shunemites example there was more then a merciful relief of the Prophet, namely bringing him into the house to diet and to lodge, wherein the husband must have a chief stroke.
+2. #emph[Object.] In the Shunammites example there was more then a merciful relief of the Prophet, namely bringing him into the house to diet and to lodge, wherein the husband must have a chief stroke.
 
 #emph[Answ.] The word of God maketh not that difference betwixt relieving and entertaining: it extendeth a wives subjection to #emph[every thing:] wherefore the husband hath a chief stroke as well in the one, as in the other.
 

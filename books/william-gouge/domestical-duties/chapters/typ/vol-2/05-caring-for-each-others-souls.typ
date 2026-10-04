@@ -85,7 +85,7 @@ be gathered by comparing
 + #emph[Gen.] 31. 19, 34.
 + #emph[Gen.] 35. 2, 4.
 
-A brother at large must not suffer sin to lie on his brother: #footnote[#emph[Leu.] 19. 17.] much less may husband or wife the one upon the other.
+A brother at large must not suffer sin to lie on his brother: #footnote[#emph[Lev.] 19. 17.] much less may husband or wife the one upon the other.
 
 #emph[Thou shalt not hate thy brother] (saith the law) #emph[and suffer] #footnote[It is a branch of hatred to suffer sin to lie on any.] #emph[sin to lie on him.] To do this then is a token and fruit of hatred. If an husband should see his wife, or a wife her husband lying in the fire, or water, ready to be burnt or drowned, and not afford their best help to pull them out, might they not justly be thought to hate them? But sin is as fire and water, which will burn and drown men in perdition.
 

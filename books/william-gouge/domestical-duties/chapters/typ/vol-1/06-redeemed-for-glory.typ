@@ -78,7 +78,7 @@ The particular exemplification thereof is
 + #emph[Holy.]
 + #emph[Blameless.]
 
-The word #emph[(present)] is taken from the custom of solemnizing a marriage: first the spouse was wooed, and then set before her husband that he might take her to wife, to be with him. Thus #footnote[#emph[Gen.] 2. 22.] #emph[Eve] was presented by God to #emph[Adam] that he might take her for his wife: and #footnote[#emph[Est.] 2. 13.] #emph[Esther] among other virgins was presented to #emph[Ahash-verosh.] This showeth that #footnote[Doct.]
+The word #emph[(present)] is taken from the custom of solemnizing a marriage: first the spouse was wooed, and then set before her husband that he might take her to wife, to be with him. Thus #footnote[#emph[Gen.] 2. 22.] #emph[Eve] was presented by God to #emph[Adam] that he might take her for his wife: and #footnote[#emph[Est.] 2. 13.] #emph[Esther] among other virgins was presented to #emph[Ahasuerus.] This showeth that #footnote[Doct.]
 
 #emph[The Church in heaven shall enjoy the presence of Christ:] #footnote[#emph[Joh.] 14. 2, 3.] Christ himself saith expressly to his disciples, #emph[I go to prepare a place for you, that where I am, there ye may be also.] On this ground did the Apostle desire to depart, namely #footnote[#emph[Phil.] 1. 23.] #emph[to be with Christ,] and #footnote[2 #emph[Cor.] 5. 8. #emph[Reason.]] #emph[to be present with the Lord.]
 

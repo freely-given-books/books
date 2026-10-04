@@ -102,7 +102,7 @@ In giving servants their wages these three things are to be #footnote[Direction 
 
 1. That there be a sufficient competency of wages allowed: even so much at least as may serve to provide such necessaries as are fit for a servant: for there is great reason, that he that worketh should live of his work.
 
-2. That it be given in due season. #footnote[#emph[Leu.] 19. 13. #emph[Deut.] 24. 15.] God would not have the labourers hire be unpaid one night after it was due. The time covenanted by a servant for his wages, is the seasonable time: then he expecteth it: to that time he putteth his occasions of using it: at that time therefore it ought to be given him.
+2. That it be given in due season. #footnote[#emph[Lev.] 19. 13. #emph[Deut.] 24. 15.] God would not have the labourers hire be unpaid one night after it was due. The time covenanted by a servant for his wages, is the seasonable time: then he expecteth it: to that time he putteth his occasions of using it: at that time therefore it ought to be given him.
 
 3. That it be paid to the full, according to the covenant: the masters promise, and the servants need require as much.
 
@@ -112,7 +112,7 @@ Injustice contrary to the forenamed duty of due paying their servants wages is m
 
 1. When masters do altogether detain their servants wages: #footnote[#emph[Deut.] 24. 15. #emph[Jam.] 5. 4.] this is a crying sin, which entereth into the ears of God.
 
-2. When they make their servants ask for their wages again and again, even till they be ashamed: yea to stay and wait for it till they be forced to sigh unto God: or else to filch and steal to supply their necessities: though these masters have not a purpose utterly to defraud their servants of their due, yet the putting them off, and delaying to pay it, putteth servants, that for the most part have but #emph[from hand to mouth,] unto great straits: which the Lord well knew: and therefore #footnote[#emph[Leu.] 19. 13. #emph[Deut.] 24. 15.] expressly forbad the detaining of a servants hire #emph[one night.] This therefore is a point not only of unkindness, but also of injustice.
+2. When they make their servants ask for their wages again and again, even till they be ashamed: yea to stay and wait for it till they be forced to sigh unto God: or else to filch and steal to supply their necessities: though these masters have not a purpose utterly to defraud their servants of their due, yet the putting them off, and delaying to pay it, putteth servants, that for the most part have but #emph[from hand to mouth,] unto great straits: which the Lord well knew: and therefore #footnote[#emph[Lev.] 19. 13. #emph[Deut.] 24. 15.] expressly forbad the detaining of a servants hire #emph[one night.] This therefore is a point not only of unkindness, but also of injustice.
 
 3. When masters alter and change the covenanted wages, and seek to diminish it, as #footnote[#emph[Gen.] 31. 41.] hard-hearted #emph[Laban] did: they show thereby that they repine at their servants welfare, and seek only themselves.
 

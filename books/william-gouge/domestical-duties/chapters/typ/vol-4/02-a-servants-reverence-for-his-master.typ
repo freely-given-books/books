@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #text(style: "italic")[5. #emph[Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ.] 6. #emph[Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart.] 7. #emph[With good will doing service, as to the Lord, and not to men.] 8. #emph[Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]]
+    #text(style: "italic")[5. Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ. 6. Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart. 7. With good will doing service, as to the Lord, and not to men. 8. Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]
   ]
 ]
 
@@ -280,7 +280,7 @@ For manifestation of a servants #emph[reverence in carriage] towards his master,
 - 2\. Respectful behaviour.
 - 3\. Modest apparel.
 
-I. Such dutiful and submissive obeisance and courtesy, as beseemeth their sex and place, and that according to the most usual #footnote[1\. Servants obeisance to their masters.] custom of the country and place where they are, must servants perform to their masters, as they have occasion to go to them, to come from them, to receive any charge of them, or to bring any message unto them. Where #emph[Isaac] saith in his blessing given to #emph[Jacob, Be lord over thy brethren, and let thy mothers sons bow] #footnote[#emph[Gen.] 27. 29.] #emph[down to thee,] by that phrase of #emph[bowing down,] he noteth the condition of a servant, and withal implieth a servants duty: on this ground, when the children of the Prophets saw that the spirit of #emph[Eliah] rested on #emph[Elisha,] they taking it for an evident sign that God had made him a governor and master over them, #emph[they came to] #footnote[2 #emph[King.] 2. 15.] #emph[meet him, and bowed themselves to the ground before him.]
+I. Such dutiful and submissive obeisance and courtesy, as beseemeth their sex and place, and that according to the most usual #footnote[1\. Servants obeisance to their masters.] custom of the country and place where they are, must servants perform to their masters, as they have occasion to go to them, to come from them, to receive any charge of them, or to bring any message unto them. Where #emph[Isaac] saith in his blessing given to #emph[Jacob, Be lord over thy brethren, and let thy mothers sons bow] #footnote[#emph[Gen.] 27. 29.] #emph[down to thee,] by that phrase of #emph[bowing down,] he noteth the condition of a servant, and withal implieth a servants duty: on this ground, when the children of the Prophets saw that the spirit of #emph[Elijah] rested on #emph[Elisha,] they taking it for an evident sign that God had made him a governor and master over them, #emph[they came to] #footnote[2 #emph[King.] 2. 15.] #emph[meet him, and bowed themselves to the ground before him.]
 
 II. Answerable to a servants obeisance must be his whole behaviour #footnote[2\. Servants dutiful behaviour before their masters.] before his master, seasoned and ordered with such modesty and humility, as may manifest an honourable respect to his master: as
 

@@ -91,7 +91,7 @@ If therefore there be more then two, it is an adulterous seed which proceedeth f
 
 === §. 83. #emph[Of Polygamy and Bigamy.]
 
-Can Polygamy (the having of many wives) or Bigamy (the having of two wives at once) have any good warrant against such an express law? Are not both of them against the first institution of marriage, so as we may say, #footnote[#emph[Mat.] 19. 8.] #emph[from the beginning it was not so?] Yea also and against #footnote[#emph[Deut.] 17. 17. #emph[Leu.] 18. 18.] other particular laws? #footnote[#emph[Gen.] 4. 19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc. Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. #emph[Gen.] 2. 18. #emph[Gen.] 16. 5. & 21. 11.] #emph[Lamech] one of #emph[Cains] cursed stock was the first that we read of to have presumed against that ancient law.
+Can Polygamy (the having of many wives) or Bigamy (the having of two wives at once) have any good warrant against such an express law? Are not both of them against the first institution of marriage, so as we may say, #footnote[#emph[Mat.] 19. 8.] #emph[from the beginning it was not so?] Yea also and against #footnote[#emph[Deut.] 17. 17. #emph[Lev.] 18. 18.] other particular laws? #footnote[#emph[Gen.] 4. 19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc. Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. #emph[Gen.] 2. 18. #emph[Gen.] 16. 5. & 21. 11.] #emph[Lamech] one of #emph[Cains] cursed stock was the first that we read of to have presumed against that ancient law.
 
 #strong[#emph[Object.] Afterwards many Patriarchs, and other Saints took that liberty unto themselves.]
 

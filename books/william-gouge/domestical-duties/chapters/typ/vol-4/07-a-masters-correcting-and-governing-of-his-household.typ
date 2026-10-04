@@ -17,7 +17,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 #emph[Answ.] His power reacheth not so far, as is evident by these reasons.
 
-1. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Leu.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
+1. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
 
 2. A master might not dismember his servant: if unawares he did smite out an eye or tooth of his servant, he must make a recompense: which was to let him go free. Much less therefore #footnote[#emph[Exod.] 21. 26.] might he take away his servants life.
 
@@ -103,7 +103,7 @@ They also do contrary to their power who seek to separate their servants that ar
 
 === §. 19. #emph[Of masters power to dispose their servants persons.]
 
-The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By Gods law not only #footnote[#emph[Leu.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
+The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By Gods law not only #footnote[#emph[Lev.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
 
 The customs and statutes of our land do also permit masters #footnote[Masters care in putting off servants.] to make over their servants from one to one: and on their death-beds to bequeath them to whom they will, even as their goods and possessions.
 

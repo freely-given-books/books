@@ -86,7 +86,7 @@ Whereas in Scripture it is sometimes said that the mothers named their children,
 
 If wives must have their husbands consent in ordering and disposing of their children which come out of her womb, much more of their servants.
 
-They may not take in, or thrust out servants against their husbands mind. In this point, as in many other, #emph[Sarah] manifested her wive-like obedience; in that #footnote[#emph[Gen.] 16. 5.] she would not deal roughly with her maid though she were provoked: much less #footnote[#emph[&] 21. 10.] put her out of doors till she had made the matter known to her husband. Though she failed in the manner, yet in the thing it self she is a good example. It is further noted and approved in the #footnote[2 #emph[King.] 4. 22.] Shunemite that she asked her husbands consent about sending a servant with her.
+They may not take in, or thrust out servants against their husbands mind. In this point, as in many other, #emph[Sarah] manifested her wive-like obedience; in that #footnote[#emph[Gen.] 16. 5.] she would not deal roughly with her maid though she were provoked: much less #footnote[#emph[&] 21. 10.] put her out of doors till she had made the matter known to her husband. Though she failed in the manner, yet in the thing it self she is a good example. It is further noted and approved in the #footnote[2 #emph[King.] 4. 22.] Shunammite that she asked her husbands consent about sending a servant with her.
 
 My meaning is not that such wives as have servants allowed them to attend upon them should ask their husbands consent whensoever they have occasion to use them; for their husbands by allowing them men for their attendance manifest their will and consent that they may use them as they see occasion: but that they should not use and employ their servants in such things as they know their husbands would dislike, except they can gain their husbands consent.
 
@@ -94,11 +94,11 @@ Against those particulars of children and servants it may be objected, that wive
 
 #emph[Answ.] Indeed if the authority of the husband come not between, that may be granted in relation betwixt her and them: but her power being subordinate to her husbands in relation to him she hath not so great a power: the power of a wife that now we speak of is directly in relation to her husband.
 
-The like may be said of their beasts and cattle, a particular point noted also in the example of the Shunemite, who having occasion to use a beast went to her husband, and said, #emph[send I pray thee with me one of the asses.] #footnote[2 #emph[King.] 4. 22.]
+The like may be said of their beasts and cattle, a particular point noted also in the example of the Shunammite, who having occasion to use a beast went to her husband, and said, #emph[send I pray thee with me one of the asses.] #footnote[2 #emph[King.] 4. 22.]
 
 === §. 41. #emph[Of a wives] #footnote[Treat. 4. §. 18.] #emph[subjection in entertaining strangers journeying abroad, and making vows.]
 
-If wives may not at their pleasure use the things appertaining to the house, much less may they bring strangers into the house and entertain them without or against their husbands consent. The good Shunemite so often named as a precedent #footnote[2 #emph[King.] 4. 10.] for good wives, first asked her husbands consent, before she lodged a Prophet of the Lord.
+If wives may not at their pleasure use the things appertaining to the house, much less may they bring strangers into the house and entertain them without or against their husbands consent. The good Shunammite so often named as a precedent #footnote[2 #emph[King.] 4. 10.] for good wives, first asked her husbands consent, before she lodged a Prophet of the Lord.
 
 The same pattern is also commended unto wives to move them not to journey abroad without their husbands consent. For though that good wife had a very weighty and just occasion #footnote[2 #emph[King.] 4. 22.] to go unto the Prophet, yet she would not before she knew her husbands mind.
 
