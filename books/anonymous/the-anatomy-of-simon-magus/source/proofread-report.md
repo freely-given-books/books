@@ -18,8 +18,8 @@ epubcheck clean): 1–9 as recommended (both "Holy Ghost" → Holy Spirit; the
 README notes the Jehu/Apollos corrections and the restored end of ch. 6);
 10: the 46 there-/where- compounds an earlier editor replaced in chapters 1–2
 (thereof, therein, whereby, wherein, hereunto, … and "Wherefore") are restored;
-the 14 "unto" → "to" changes in chapters 1–3 change no meaning and are left
-pending the user's choice; 11 "satire"; 12 foreword kept as is; 13 Athalaric /
+the 14 "unto" an earlier editor made "to" in chapters 1–3 (none changed the
+meaning) are restored too, so all eight chapters match; 11 "satire"; 12 foreword kept as is; 13 Athalaric /
 Pope John II entry corrected, Durandus added and the "Lib. 4. Dist. qu." form
 moved to him.
 

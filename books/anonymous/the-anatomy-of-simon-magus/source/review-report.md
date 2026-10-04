@@ -10,7 +10,7 @@
 | case | 4568 |
 | italic | 762 |
 | spelling | 601 |
-| grammar | 402 |
+| grammar | 388 |
 | punctuation | 369 |
 | emendation | 299 |
 | note moved | 160 |
@@ -373,7 +373,6 @@
 - ye → you (×23)
 - thee → you (×19)
 - thy → your (×14)
-- unto → to (×14)
 - an → a (×8)
 - be → is (×8)
 - thine → your (×8)
