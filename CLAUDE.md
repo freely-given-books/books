@@ -136,6 +136,8 @@ the venv, and takes a book by part of its name (or none inside the book):
 ./fgb sync gouge          # after editing chapters/typ: fold into the TEI, show changes
 ./fgb find gouge thorow   # where a word is, as printed, and what was decided
 ./fgb page gouge --open   # side-by-side page(s)
+./fgb changes gouge --open  # before-after.html: the EPUB published before the TEI
+                          # next to the one built now (--old REV|FILE.epub, --new FILE.epub)
 ./fgb check gouge         # verify.py
 ./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py)
 ./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
