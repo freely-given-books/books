@@ -510,14 +510,7 @@ Contrary to the forenamed duty of parents about well baptizing their children, a
 
 Hitherto of the duties of parents respecting their childrens Infancy. Such as respect their childhood follow.
 
-The childhood of a child is reckoned from the time that it beginneth to be of any discretion and understanding till it be fit to be placed forth: even so Many distinguish the whole course of a mans life into four parts.
-
-- 1\. Childhood
-- 2\. Youth.
-- 3\. Man-age
-- 4\. Old-age.
-
-Long as ordinarily it liveth under the parents government.
+The childhood of a child is reckoned from the time that it beginneth to be of any discretion and understanding till it be fit to be placed forth: even so long as ordinarily it liveth under the parents government.#footnote[Many distinguish the whole course of a mans life into four parts. 1. Childhood, 2. Youth, 3. Man-age, 4. Old-age. Child-hood from his birth to 14. years. Youth from 14 to 25. Man-age from 25. to 50. Old age from thence to his death. But for better distinguishing the duties which parents are to perform, I follow not so accurate a division, but rather distinguish the degrees of age according to the times wherein new duties are to be performed: and therefore I make a distinction betwixt infancy and childhood.]
 
 The duties which parents for this time must perform to their children may be drawn to these two heads.
 
@@ -528,25 +521,8 @@ For their well training up, respect must be had both to their #emph[temporal] an
 
 Two things are required of parents, in regard of the #emph[temporal] good of their children.
 
-- 1\. To #emph[nourish] them well.
-- 2\. To #emph[nurture] them well.
-
-Children must be well
-
-+ #emph[Fed.]
-+ #emph[Taught.]
-
-Child-hood from his birth to 14. years.
-
-Youth from 14 to 25.
-
-Man-age from 25. to 50.
-
-Old age from thence to his death.
-
-But for better distinguishing the duties which parents are to perform, I follow not so accurate a division, but rather distinguish the degrees of age according to the times wherein new duties are to be performed: and therefore I make a distinction betwixt infancy and childhood.
-
-#emph[Feed them in discipline,] saith the Apostle.
+- 1\. To #emph[nourish] them well.#footnote[Feed them in discipline, saith the Apostle.]
+- 2\. To #emph[nurture] them well.#footnote[Children must be well fed, taught.]
 
 Under #emph[nourishment] are comprised all needful things for #footnote[#emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
 

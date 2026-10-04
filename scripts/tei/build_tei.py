@@ -978,6 +978,26 @@ def numeral_stops(ops, src, tgt):
     return out
 
 
+def punct_after_deletion(ops, src):
+    """A deletion that starts with the same mark as the text after it
+    ("well . [deleted margin matter] . ¶ Under"): difflib keeps the later
+    stop; keep the one after the word before instead, so the stop stays in
+    its sentence and the deleted run takes the other."""
+    out = list(ops)
+    for k in range(1, len(out) - 1):
+        p_op, d_op, n_op = out[k - 1], out[k], out[k + 1]
+        if p_op[0] != "equal" or d_op[0] != "delete" or n_op[0] != "equal":
+            continue
+        a1, a2 = d_op[1], d_op[2]
+        c1, c2, e1, e2 = n_op[1], n_op[2], n_op[3], n_op[4]
+        if src[a1][1] != "w" or re.match(r"\w", src[a1][0]) or src[a1][0] != src[c1][0]:
+            continue
+        out[k - 1] = ("equal", p_op[1], p_op[2] + 1, p_op[3], p_op[4] + 1)
+        out[k] = ("delete", a1 + 1, c1 + 1, e1 + 1, e1 + 1)
+        out[k + 1] = ("equal", c1 + 1, c2, e1 + 1, e2) if c2 > c1 + 1 else None
+    return [o for o in out if o is not None]
+
+
 def align(src, tgt, report, label, owner=None):
     """src: stream entries; tgt: [(text, kind)]. Returns (clusters,
     structure_ops). Each cluster: (list of Tok in order, target text list,
@@ -1005,7 +1025,7 @@ def align(src, tgt, report, label, owner=None):
             for j in idxs:
                 owner[j] = tok
 
-    for op, i1, i2, j1, j2 in split_marks(numeral_stops(sm.get_opcodes(), src, tgt), src, tgt):
+    for op, i1, i2, j1, j2 in split_marks(punct_after_deletion(numeral_stops(sm.get_opcodes(), src, tgt), src), src, tgt):
         S = src[i1:i2]
         R = tgt[j1:j2]
         Sw = [s for s in S if s[1] == "w"]
@@ -1801,7 +1821,9 @@ def review_division(d, review, f, log, unresolved):
             el.set("ana", "#edition-only")
             el.set("resp", "#editor")
             el.set("change", "#review")
-            el.text = join_tokens([t for t, _ in nt["toks"]])
+            words = [t for t, _ in nt["toks"]]
+            sps = nt.get("sp")
+            el.text = join_sp(words, sps if sps and len(sps) == len(words) else None)
             k = prev_word(nt["anchor"])
             (placed.setdefault(k, []) if k >= 0 else before_first).append(el)
             log.append((f, "note", "(none)", el.text))
@@ -2402,7 +2424,7 @@ def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
-    LATER = ("quote", "merge", "renumber", "unlist", "inline")
+    LATER = ("quote", "merge", "renumber", "unlist", "inline", "headmerge")
     later = [s for s in splits if s[1] in LATER]
     splits = [s for s in splits if s[1] not in LATER]
     by_block = {}
@@ -2509,6 +2531,31 @@ def restructure(splits, log):
                     ", ".join((s[2][0].orig if s[2] else s[0].orig) for s in pts)))
     merge_lists(log)
     for tok, kind, _l, _o, f in sorted(later, key=lambda s: s[3]):
+        if kind == "headmerge":
+            head = next((a for a in ancestors(tok) if local(a.el) == "head"), None)
+            div = head.parent if head is not None else None
+            prev = None
+            if div is not None and div.parent is not None:
+                sibs = [c for c in div.parent.children if c.kind == "container"]
+                k = next(i for i, c in enumerate(sibs) if c is div)
+                prev = sibs[k - 1] if k else None
+                # the last paragraph of the division before
+                while prev is not None and local(prev.el) == "div":
+                    blocks = [c for c in prev.children if c.kind == "container"
+                              and local(c.el) in ("p", "div")]
+                    prev = blocks[-1] if blocks else None
+            if prev is None or local(prev.el) != "p":
+                log.append((f, "skipped", f"head at '{tok.orig}'", "no paragraph before it"))
+                continue
+            for x in (prev, head):
+                if not x.el.get("{%s}id" % XML_NS):
+                    NOTE_SEQ["b"] = NOTE_SEQ.get("b", 0) + 1
+                    x.el.set("{%s}id" % XML_NS, f"rb{NOTE_SEQ['b']}")
+            prev.el.set("next", "#" + head.el.get("{%s}id" % XML_NS))
+            head.el.set("prev", "#" + prev.el.get("{%s}id" % XML_NS))
+            head.el.set("change", "#review")
+            log.append((f, "merge", "heading", f"run on into the paragraph before at '{tok.orig}'"))
+            continue
         if kind in ("unlist", "inline"):
             anc = ancestors(tok)
             item = next((a for a in anc if local(a.el) == "item"), None)
@@ -2580,7 +2627,9 @@ def restructure(splits, log):
         # stay separate elements (as printed), linked by @prev/@next
         kids = b.parent.children
         k = kids.index(b)
-        prev = next((c for c in reversed(kids[:k]) if c.kind == "container"), None)
+        # the block before, passing over any the review emptied
+        prev = next((c for c in reversed(kids[:k]) if c.kind == "container"
+                     and (has_words(c) or local(c.el) not in ("p", "list"))), None)
         if prev is None and local(b.parent.el) in ("closer", "opener"):
             # a closer's first line runs on from the paragraph before it
             outer = b.parent.parent.children
@@ -2662,6 +2711,22 @@ def collect_splits(struct, stream_index, log):
             continue          # a trailer the review left out
         elif s["src_marks"] == ["¶"] and not s["tgt_marks"]:
             splits.append((tok, "merge", [], order, s["label"]))
+        elif len(s["src_marks"]) > 1 and not s["tgt_marks"] and \
+                all(m in ("¶", "-", "+") for m in s["src_marks"]):
+            # blocks the review deletes whole (margin matter moved into a
+            # note): they stay, emptied; the block after them, if it keeps
+            # any words, runs on into the text before them
+            marks = [x for x in s["S"] if x[1] == "m"]
+            blk = marks[-1][2]
+            ws = first_words(blk, 1) if blk.kind == "container" else []
+            if ws and has_words(blk):
+                splits.append((ws[0], "merge", [], order, s["label"]))
+            else:
+                log.append((s["label"], "list", "blocks", "emptied by the review"))
+        elif s["src_marks"] == ["H"] and not s["tgt_marks"]:
+            # a printed division head the review runs on into the text
+            # before it (the TCP made a sentence a heading)
+            splits.append((tok, "headmerge", [], order, s["label"]))
         elif s["src_marks"] == ["-"] and not s["tgt_marks"]:
             # a printed list inside a paragraph that the review runs into
             # its sentence; else list nesting shown differently, kept as is

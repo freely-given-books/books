@@ -227,12 +227,43 @@ def text_follows(p, node):
 BLOCK_IN_P = ("table", "list")
 
 
+def edition_empty(el):
+    """Whether the edition (the reg layer) leaves nothing of el: every word
+    of it is a reading the review emptied (margin matter moved to a note)."""
+    found = []
+
+    def walk(e):
+        if not isinstance(e.tag, str):
+            return
+        n = local(e)
+        if n in ("note", "pb", "lb", "orig", "abbr", "sic"):
+            return
+        if n == "choice":
+            r = next((c for c in e if isinstance(c.tag, str) and local(c) in
+                      ("reg", "expan", "corr")), None)
+            if r is not None:
+                found.append(r.get("resp") == "#editor" and not "".join(r.itertext()).strip())
+                if "".join(r.itertext()).strip():
+                    found.append(False)
+            return
+        if (e.text or "").strip():
+            found.append(False)
+        for c in e:
+            walk(c)
+            if (c.tail or "").strip():
+                found.append(False)
+    walk(el)
+    return bool(found) and all(found)
+
+
 def p_blocks(p, edition=True):
     """The block children (tables, lists) a paragraph is split around, or []
     when it is set whole: no blocks, or a table interrupting its sentence
-    (that one is read inline, column by column)."""
+    (that one is read inline, column by column). In the edition a list the
+    review emptied is no block: the paragraph runs on past it."""
     blocks = [c for c in p if isinstance(c.tag, str) and local(c) in BLOCK_IN_P
-              and not (edition and c.get("rend") == "inline")]   # in the sentence
+              and not (edition and c.get("rend") == "inline")    # in the sentence
+              and not (edition and local(c) == "list" and edition_empty(c))]
     if any(local(b) == "table" and text_follows(p, b) for b in blocks):
         return []
     return blocks

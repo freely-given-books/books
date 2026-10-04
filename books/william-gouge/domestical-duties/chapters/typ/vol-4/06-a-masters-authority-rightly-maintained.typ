@@ -102,9 +102,7 @@ After that masters have chosen good servants, their duty is well to use them: wh
 
 1. Gods image and authority, which a master carrieth, is thus preserved.
 
-2. Thus shall a master have much better service done. Not one servant of a thousand, that is not kept under authority, will do good service. A like duty to this was enjoined to an husband in relation to a wife, Treat. 4.
-
-=== §. 4. Some of the reasons, directions, & other points there handled, may be here applied. Read it therefore.
+2. Thus shall a master have much better service done. Not one servant of a thousand, that is not kept under authority, will do good service. A like duty to this was enjoined to an husband in relation to a wife, Treat. 4. §. 4. Some of the reasons, directions, & other points there handled, may be here applied. Read it therefore.
 
 For this end three things are to be observed. #footnote[Direction.]
 

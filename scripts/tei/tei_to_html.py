@@ -30,7 +30,23 @@ from pathlib import Path
 
 from lxml import etree
 
-from tei_extract import R, T, collapse, local, following_trailers, p_runs
+from tei_extract import R, T, collapse, local, following_trailers, p_runs, RUN_ON
+
+
+def join_run_on(out):
+    """A head the review runs on into the paragraph before it (head/@prev):
+    its text ends that paragraph instead of making a heading."""
+    res = []
+    for h in out:
+        if h.startswith(RUN_ON):
+            k = next((i for i in range(len(res) - 1, -1, -1) if res[i].endswith("</p>")), None)
+            if k is not None:
+                res[k] = res[k][:-len("</p>")] + " " + h[len(RUN_ON):] + "</p>"
+            else:
+                res.append(f"<p>{h[len(RUN_ON):]}</p>")
+            continue
+        res.append(h)
+    return res
 import layout
 
 GREEK = "Ͱ-Ͽἀ-῿"
@@ -336,6 +352,9 @@ class HtmlR(R):
             t = self.text(h)
             if not t:
                 continue
+            if self.layer == "reg" and h.get("prev"):
+                out.append(RUN_ON + t)      # the review runs it on (join_run_on)
+                continue
             if div.get("type") in self.run_in:
                 out.append(f'<p class="runin"><strong>{t}</strong></p>')
             else:
@@ -358,7 +377,7 @@ class HtmlR(R):
                 out += self.div_html(el, self.levels.get(el.get("type"), 2))
             else:
                 self.blocks([el], 2, out)      # may run on from the block before
-        out = finish(out)
+        out = finish(join_run_on(out))
         heads = [re.sub(r"<[^>]+>", "", x) for x in out if re.match(r"<h[1-6]>", x)]
         self.title = title or (heads[0] if heads else ident)
         out += self.notes_section()

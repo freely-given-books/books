@@ -3,18 +3,19 @@
 | kind | count |
 | --- | --- |
 | spelling | 1462 |
-| emendation | 248 |
+| emendation | 269 |
 | grammar | 149 |
-| punctuation | 140 |
-| case | 103 |
+| punctuation | 142 |
+| case | 102 |
 | italic | 36 |
 | spacing | 27 |
 | expansion | 25 |
 | gap | 24 |
+| list | 6 |
 | split | 6 |
-| list | 4 |
+| note | 5 |
 | note moved | 3 |
-| note | 1 |
+| merge | 2 |
 | skipped | 1 |
 
 ## split
@@ -284,6 +285,26 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 1 → I
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] man → Mary
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] if → it
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Many distinguish the whole course of a mans life into four parts . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 1 . Childhood → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 2 . Youth . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 3 . Man - age → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 4 . Old - age . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Children must be well → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Fed . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Taught . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Child - hood from his birth to 14 . Years . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Youth from 14 to 25 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Man - age from 25 . To 50 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Old age from thence to his death . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] But for better distinguishing the duties which parents are to perform , I follow not so accurate a division , but rather distinguish the degrees of age according to the times wherein new duties are to be performed : and therefore I make a distinction betwixt infancy and childhood . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Feed → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] them → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] in → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] discipline → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] saith → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] the → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Apostle → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] combe → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] 7 → 11
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] spir taliter → spiritaliter
@@ -332,6 +353,7 @@
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ] . Must → must
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] mastersmeanes → masters means
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] him self → himself
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] The Hebrew word is oft used for scarlet . But according to the proper notation of it , it signifieth things doubled : which I take to be most pertinent to this place , and therefore I have so translated it . The Kings translators have noted as much in the margin . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] reapebenefit → reap benefit
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] in humane → inhumane
 - [vol-4/10-a-masters-own-master-in-heaven.typ] i , → is
@@ -512,6 +534,8 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → , (
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → ,
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ; → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
@@ -548,13 +572,12 @@
 - The → the (×4)
 - love → Love (×4)
 - And → and (×3)
-- To → to (×3)
 - note → Note (×3)
 - servants → Servants (×3)
 - IN → In (×2)
 - Or → or (×2)
 - Take → take (×2)
-- Years → years (×2)
+- To → to (×2)
 - father → Father (×2)
 - mothers → Mothers (×2)
 - son → Son (×2)
@@ -565,6 +588,7 @@
 - But → but
 - Declare → declare
 - First → first
+- Long → long
 - May → may
 - Misinterpret → misinterpret
 - OF → Of
@@ -575,6 +599,7 @@
 - Their → their
 - Told → told
 - Vers → vers
+- Years → years
 - child → Child
 - example → Example
 - honour → Honour
