@@ -72,7 +72,7 @@ Abraham had promise of a son, but it was not performed till he was an old
 man. Simeon had a promise to see Christ in the flesh, but he was an old man,
 ready to yield up the ghost, before it was performed. God taketh a long day
 for his promises; long to us, not to him, 'for to him a thousand years are but
-as one day,'
+as one day.'
 
 Reason 1. The promises of God are long in performing; for to exercise
 our faith and our dependence to the full;
@@ -146,7 +146,7 @@ gracious spirits. We have praising of God for ever there. We know the
 sweetness of it here in the house of God, which made David desire this one
 thing, 'that he might dwell in the house of God, to visit the beauty of God,'
 Psalm 27:4. There we shall have perfect peace; here we have inward
-peace, unspeakable and glorious, 'a peace that passeth understanding,' Philip 4:7,
+peace, unspeakable and glorious, 'a peace that passeth understanding,' Philippians 4:7,
 in the beginning of it. There we shall have joy without all mixture of
 contrariety; here we have joy, 'and joy unspeakable and full of glory,' 1 Peter 1:8.
 There is nothing in heaven that is perfect, that is sweet, and good, and
@@ -274,7 +274,7 @@ for the consolation of Israel,' Luke 2:25. To have a gracious disposition, and
 a grace of waiting was the character of good people. Now since the coming
 of Christ, the character of the New Testament is, to wait for Christ’s
 appearance. 'There is a crown of glory for me, and not only for me, but for all
-them that love his appearance,' 2 Tim, iv. 8. That is an ingredient in waiting,
+them that love his appearance,' 2 Timothy 4:8. That is an ingredient in waiting,
 when we love the thing we wait for. And so Titus 2:12, 'The grace of God
 that teacheth to deny ungodliness and worldly lusts, and to live holily, and
 justly, and soberly in this present evil world, looking for and waiting for this
@@ -296,7 +296,8 @@ as they say here, 'We have waited.' That is the speech of enjoying. God will at
 length make good what he hath promised; and what his truth hath promised,
 his power will perform. Goodness inclineth to make a promise, truth speaks
 it, and power performeth it, as you shall see here.
-'We have waited,'.
+'We have waited.'
+
 
 In God there is a mouth of truth, a heart of pity, and an hand of power.
 These three meeting together, make good whatsoever is promised. 'He will
@@ -326,7 +327,7 @@ point of time in general he leaveth it. There is a day; but the point and
 moment of time he keepeth in his own power. It is enough to know there is
 a day, and a day that will come in the best season. God’s time is the best
 time. When judgments were threatened upon the wicked, they say, 'Let us
-eat, and drink, for to morrow we shall die,' 1 Corinthians 15:82.
+eat, and drink, for tomorrow we shall die,' 1 Corinthians 15:32.
 So Saul, 'Tomorrow thou shalt die,' 1 Samuel 28:19, and was he the better? So where
 there is a certain time of God’s coming in judgment, godly men would not be
 the worse, and wicked men never the better. Therefore God reserveth it
@@ -414,11 +415,11 @@ triumphing manner, 'This is the Lord,' this sight is a changing sight. There is
 no sight of God, but it changeth, and alters to the likeness of God, when he
 calls to look up to him, and he looks on us in favour and mercy. The best
 fruit of his favour is grace, of peace, and joy, for these be beams that issue
-from him, grace, as beams from the sun. But where-ever God looks with any
+from him, grace, as beams from the sun. But wherever God looks with any
 favour, there is a conformity to Christ, a gracious, humble, pitiful, merciful,
 obedient disposition, which is an earnest of the Spirit of Christ.
 And there is a study of purity, of a refined disposition from the
-pollutions of the world. 'The pure in heart shall see God,' Mat 5:8. They
+pollutions of the world. 'The pure in heart shall see God,' Matthew 5:8. They
 that hope to see God for ever in heaven, will study that purity that may
 dispose and fit them for heaven. And there is such a gracious influence in it,
 that they that hope for heaven, the very hope must needs help to purify
@@ -464,7 +465,7 @@ Oh, have that day in our eyes, that day of all days, and the very thoughts
 of it will fit us for the day. The thoughts of our end will fit and stir us up to
 all means tending to that end. Physic is good, if it tend to health. The very
 thoughts of that prescribes order and means. We read, 'Seek the kingdom of
-heaven first, and all other things shall be added to you,' Mat 6:33. The
+heaven first, and all other things shall be added to you,' Matthew 6:33. The
 thought of the end prescribes order to all means, and it prescribes measure,
 'How to use the world, as though I used it not,' 1 Corinthians 7:31, for the
 thoughts of my end stir me up to use all courses suitable to that end.

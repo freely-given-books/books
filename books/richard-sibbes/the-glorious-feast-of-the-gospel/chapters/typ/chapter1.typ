@@ -11,7 +11,7 @@ and desolation of the church, in many heavy, sad, and doleful expressions; as
 'the vine languisheth, the earth is defiled under the inhabitants thereof,
 because they have transgressed the laws, changed the ordinance, and broken
 the everlasting covenant; therefore the earth shall be accursed, and they that
-dwell therein shall not drink wine with a song,'. Here you see all
+dwell therein shall not drink wine with a song.' Here you see all
 sweetness and rejoicing of heart is departed from them; yet even in the midst
 of all these miseries, God, the God of comforts, makes sweet and gracious
 promises to his church, to raise it out of its mournful estate and condition.
@@ -32,7 +32,7 @@ of the Lord are brought to desolation, then we may, nay, we ought to sing,
 'Hallelujah' to him that liveth for ever and ever.
 
 I will now fall upon the very words of my text. 'In this mountain shall
-the Lord of hosts make unto all people a feast of fat things,'. These words
+the Lord of hosts make unto all people a feast of fat things.' These words
 they are prophetical, and cannot have a perfect performance all at once, but
 they shall be performed gradually. The promise of 'a new heaven and a new
 earth,' 2 Peter 3:13, shall be performed. The conversion of the Jews, and the
@@ -43,7 +43,7 @@ in the gospel of peace; and when all these promises shall be fulfilled, then all
 imperfection shall be done away, and we shall never be removed from our
 Rock; but our joy shall then be full. Nay, even in this life we have some
 degrees of perfection. We have grace, and the means of grace; the ordinances
-of Christ, and a testimony of everlasting glory 'In this mountain will the Lord
+of Christ, and a testimony of everlasting glory. 'In this mountain will the Lord
 of hosts make a feast.'
 
 In these words ye have set down a glorious and royal feast; and the
@@ -94,7 +94,7 @@ I answer, Firstly, We confess in some sort their church to be a mount
 her a church, it is the antichristian church. Secondly, That the Catholic
 Protestantial church had always a being, though sometimes invisible. The
 apostle, writing to the Romans, exhorts them 'not to be high-minded, but
-fear; for, saith he, 'if God hath broken off the natural branches, perhaps he
+fear;' for, saith he, 'if God hath broken off the natural branches, perhaps he
 will break off you also,' Romans 11:20, 21. And, indeed, for their pride and
 haughtiness of mind, they are at this day broken off. Christ, that 'walks
 between the seven golden candlesticks,' Revelation 1:12, did never say that the
@@ -171,7 +171,7 @@ another generation of the church, that so it was a little more enlarged. Then
 there was a third generation, a divided generation, consisting of Jews and
 Gentiles. So that, when Christ came into the world, the bounds of the church
 began to enlarge themselves more and more, so that now it is in this happy
-condition, 'Come ye all unto me, all that are heavy laden,' Mat 11:28. Both
+condition, 'Come ye all unto me, all that are heavy laden,' Matthew 11:28. Both
 Jews and Gentiles, all are invited, whosoever they are, 'nothing is now
 unclean,' Acts 10:15. Christ is come, and hath made 'to all people a feast of
 fat things.' It must be a feast, and of fat things, for all the world shall be the
@@ -212,7 +212,7 @@ comforts, is compared to a feast.
 
 First. In regard of the choice of the things. In a feast all things are of the
 best; so are the things we have in Christ. Whatsoever favours we have by
-Christ, they are choice ones. They are the best of every thing. Pardon for sin
+Christ, they are choice ones. They are the best of everything. Pardon for sin
 is a pardon of pardon. The title we have for heaven, through him, is a sure
 title. The joy we have by him is the joy of all joys. The liberty and freedom
 from sin, which he purchased for us by his death, is perfect freedom. The
@@ -294,7 +294,7 @@ one with another. If they be good, there is agreement of the spirit, and a sympa
 The death of Christ and the blood of Christ is the ground of all union and
 joy and comfort whatsoever. The blood of Christ sprinkled upon the
 conscience will procure that peace of conscience that shall be a continual
-feast unto the soul. This feast must needs he wonderful comfortable, for we
+feast unto the soul. This feast must needs be wonderful comfortable, for we
 do not feast with those that are like ourselves, but we feast with God the
 Father, and the Holy Spirit, sent by Christ, procured by the death of Christ.
 The angels at this feast attend us; therefore, it must needs be joyful. No joy
@@ -345,7 +345,7 @@ Sixth. This was signified in old time by the Jews.
   take him with a trembling hand, yet he shall have enough, for Christ is his.
   Whosoever hath the least grace, if it be true and sound, hath grace enough to
   bring him to eternal life. The Jews wondered at the manna, saying, What
-  thing is this?. So it is one of Christ’s names to be called 'Wonderful,' Isaiah 9:6.
+  thing is this? So it is one of Christ’s names to be called 'Wonderful,' Isaiah 9:6.
   Grace and favour from Christ is true spiritual manna to the soul. Manna
   fell in the wilderness: even so must we remain in the wilderness of this
   wretched world until we come to heaven. Christ is manna to us, and very
@@ -429,7 +429,7 @@ at this heavenly banquet. 'All fulness dwells in him,' Colossians 1:19, from whi
 'we have all received, and grace for grace.' Therefore,
 
 Use 1. Let us labour to have large hearts: for as our faith groweth more and
-more, so we shall carry more comfort and more strength from this holy-feast.
+more, so we shall carry more comfort and more strength from this holy feast.
 As the poor widow, if her vessels had not failed, the oil had not ceased; if
 there had been more vessels, there had been more oil. 2 Kings 4:6. Our
 souls are as these vessels. Let us therefore labour, and make it our great
@@ -440,13 +440,13 @@ fetch from him, the more glory we give unto him. But if they were finite, we
 should offend his bounty, he might soon be drawn dry, and so send us away
 with an uncomfortable answer, that he was not able to relieve us. But Christ
 is infinite, and the more we have from him, the more we may have. 'To him
-that hath shall be given,' Mat 13:12. The oftener we go to Christ, the more
+that hath shall be given,' Matthew 13:12. The oftener we go to Christ, the more
 honour and glory we bring unto him. This is a banquet to the full.
 
 We are now come to the banquet, and Christ is the founder of it; nay, he
 is the feast itself. He is the author of it, and he it is that we feed upon.
 
-Use 2. Let us labour not to be straight receivers of the sacrament, but
+Use 2. Let us labour not to be strait receivers of the sacrament, but
 suck in abundance from Christ with a great deal of delight, that we may come
 together not for the worse but the better, considering what a great deal of
 strength and grace is required as very necessary for the maintaining of

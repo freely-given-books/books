@@ -27,7 +27,7 @@ one day, as things are they shall be. The God of truth will have truth to be
 clear enough. And all this is sealed up with the highest authority, that admits
 of no contradiction. 'The Lord of hosts hath spoken it.'
 
-We came the last day to these words, 'Lo, this is our God,'; wherein
+We came the last day to these words, 'Lo, this is our God'; wherein
 we may consider first of all, that God hath left to his church rich and
 precious promises, such as is spoken of before: a feast, and removal of all
 hindrances whatsoever. He not only vouchsafeth heaven when we die, and
@@ -192,7 +192,7 @@ appointed, then it were too short; if longer, too long. 'My times,' saith David,
 'are in thy hands,' Psalm 31:15. If they were in the enemy’s hands, we should
 never be out; if in our own, we would never enter; if in our friends', their
 goodwill would be more than their ability. 'But my times;'—he saith not, 'my
-time,' but—my times are in thy hands that is, my times of trouble and times
+time,' but—my times are in thy hands, that is, my times of trouble and times
 of waiting. And it is well they be in God’s hands, for he hath a day, and a
 certain day, and a fit day to answer the waiting of all his people.
 
@@ -237,7 +237,7 @@ when it is full of joy, is like a dirty river that runs over the banks, and carr
 a deal of filth with it, dirty expressions. But when a gracious heart expresseth
 itself, being full of joy, it expresseth itself in thanks and praises, in stirring up
 of others. 'Lo, this is our God; we will rejoice and be glad in his salvation.' 'Is
-any merry?' saith the apostle Saint James, 'let him sing,' James 5:13. God
+any merry?' saith the apostle St James, 'let him sing,' James 5:13. God
 hath affections for any condition. 'Is a man in misery? let him pray.' This is a
 time of mourning. Doth God perform any promise, and so give cause of joy?
 let him sing. There is action for every affection, affection for every condition.
@@ -245,10 +245,10 @@ And this may stir us up to begin the employment in heaven on earth here.
 We shall say so in heaven, 'Lo, this is the Lord; we have waited for him.'
 
 For every performance of promises, be much in thankfulness. 'Our
-conversation is in heaven,' saith the apostle, Philip 3:10. And what is the
+conversation is in heaven,' saith the apostle, Philippians 3:20. And what is the
 greatest part of a Christian’s conversation, but in all things to give thanks.
 Here the holy church saith, their matter of praise was too big for their soul,
-and therefore they break out in this manner. And so oftentimes a child of
+and therefore they brake out in this manner. And so oftentimes a child of
 God. His heart is so full, that it is too big for his body in the expression of
 matter of praise. But it is his comfort that in heaven he shall have a large
 heart, answerable to the large occasion of praise. I will not enlarge myself in
@@ -258,9 +258,9 @@ In this condition we can never be miserable; for it springs from joy, and
 joy disposeth a man to thankfulness, and upon thankfulness there is peace,
 and can we be miserable in peace of conscience? Therefore, saith the apostle,
 'In all things give thanks, and let your requests be made known to God,'
-Philip 4:6; and what will follow upon that, when I have made known my
+Philippians 4:6; and what will follow upon that, when I have made known my
 requests, and paid my tribute of thanks? 'Then the peace of God which
-passeth understanding shall guide your mind,' Philip 4:7. When we have
+passeth understanding shall guide your mind,' Philippians 4:7. When we have
 paid to God the tribute we can pay him, then the soul, as having discharged a
 debt, is at peace. I have prayed to God, I have laid my petition in his bosom,
 I am not in arrearages for former favours, 'therefore the peace of God which
@@ -311,7 +311,7 @@ So that God’s carriage towards his children is salvation. He is the God
 of salvation, or a saving God. And God sent his name from heaven, and the
 angels brought it, the name of Jesus. Therefore look to the full sense of it.
 We have a Saviour that will answer his name; as he is Jesus, so he will save
-his people from their sins, Mat 1:21. And therefore we will rejoice in his
+his people from their sins, Matthew 1:21. And therefore we will rejoice in his
 salvation. God dealt with us like a God, when he delivered us from all
 misery, from all sins, and advanced us to all happiness that nature is capable
 of. As he said before, he will wipe away all tears from all faces, and take away
@@ -333,7 +333,7 @@ grace, to see him, and joy and delight in him for ever. It is no good love that
 resteth in any blessings of God for themselves. It is an harlotry affection to
 love the gift more than the giver. So the saints of God they do all desire to
 see him as they may, and to joy in God, and enjoy God himself, and to see
-God in our nature, and to be with, him for ever. Before he spake of a feast,
+God in our nature, and to be with him for ever. Before he spake of a feast,
 and if the feast-maker be not there, what is all? In a funeral feast there is
 much cheer, but the feast-maker is gone. In heaven there is joy, but where is
 God, where is Christ, he that hath done so much, suffered so much for us,
@@ -359,7 +359,7 @@ glory in heaven, specially when we be set upon by anything that is apt to
 discourage us. Glory then in our Head. Perhaps a Christian hath no wealth,
 no great rents to glory in, aye, but he hath a God to glory in, let him glory in
 him. The world may take all else from him, but not his God. As the church,
-in Song of Solomon. v. The virgins put the church to describe her beloved, 'What is thy
+in Song of Solomon 5. The virgins put the church to describe her beloved, 'What is thy
 beloved more than another beloved? My beloved is white and ruddy, the
 chiefest of ten thousand.' Then she goeth on in particulars, 'my beloved is
 thus and thus;' and if you would know what my beloved is, 'this is my
@@ -378,7 +378,7 @@ is our happiness, as he is ours, and he is ours in life and death, and for ever.
 So there is always ground of glory, only God doth discover himself to be
 ours by little and little, as we are able to bear him. He is ours in our worst
 times. 'My God, my God, why hast thou forsaken me?' Yet my God still,
-Mat 27:46.
+Matthew 27:46.
 
 He is our God to death, and he is ours in heaven. 'This is our God; we
 will rejoice in him.' And therefore well may we boast of God, because in
@@ -399,7 +399,7 @@ therefore,
   God, in the second person, is God-man, and so God with us, and the Father
   in Emmanuel is God with us too. So we are God the Father’s, because we
   are his. 'All things are yours,' saith the apostle, 'whether Paul or Apollos,
-  things present, things to come. 'Why?' Because you are Christ’s,' 1 Corinthians 3:22.
+  things present, things to come.' Why? 'Because you are Christ’s,' 1 Corinthians 3:22, 23.
   Aye, but what if I be Christ’s, Christ is God’s? So we must be Christ’s,
   and then we shall be God’s. If Christ be ours, God is ours, for God is
   Emmanuel, in Christ, Emmanuel, God is with us in Christ, who is with us.
@@ -426,7 +426,7 @@ therefore,
   fixed upon us as objects of his eternal love. In what case were he if he should
   lose that object? And therefore, as we glory in him, he glorieth in us. 'Who is
   this that cometh out of the wilderness?' Who? 'His beloved,' Song of Solomon 3:6. And,
-  'Woman, is this thy faith?' Mat 15:28. He admires the graces of the church,
+  'Woman, is this thy faith?' Matthew 15:28. He admires the graces of the church,
   as the church admires him. 'This is the Lord.' The church cannot be without
   him, nor he without the church. These words are spoken with a kind of
   admiration. 'Lo, this is the Lord, we will rejoice in him.' So I say, as there is
@@ -450,7 +450,7 @@ to ourselves and to others; be stirring and exciting one another to glory, and
 rejoice in God our salvation.
 
 + And, therefore, learn all to be stirred up from hence, not to be
-  offended with Christ, or with religion. Be not offended, saith Justin, with the
+  offended with Christ, or with religion. Be not offended, saith Austin, with the
   parvity of religion. Every thing to the eyes of the world is little in religion. A
   Christian is a despised person, and the church, the meanest part of the world,
   in regard of outward glory. But,
@@ -459,7 +459,7 @@ rejoice in God our salvation.
   church, the glory to come. Time will come when we shall rejoice, and not
   only see, but boast with admiration, to the stirring up of others, 'Lo, this is
   the Lord.' And, therefore, say with our Saviour Christ, 'happy is he that is not
-  offended with me,' Mat 11:6, nor with religion. There is a time coming, that
+  offended with me,' Matthew 11:6, nor with religion. There is a time coming, that
   will make amends for all. Who in the world can say at the hour of death, and
   day of judgment, Lo, this is my riches, this my honours! Alas! the greatest
   persons must stand naked to give account; all must stand on even ground to
@@ -472,9 +472,9 @@ rejoice in God our salvation.
   afraid to die, let us not be overmuch cast down, for it shall end in glory. And
   let us be in expectation still of good times, wait for this blessed time to come,
   and never be content with any condition, so as to set up our rest here. We
-  may write upon every thing, his non est requies vestra. Our rest is behind; these
+  may write upon everything, Hic non est requies vestra. Our rest is behind; these
   things are in passage. And therefore rest content with nothing here. Heaven
-  is our centre, our element, our happiness; and every thing is contentedly
+  is our centre, our element, our happiness; and everything is contentedly
   happy, and thriveth in its element. The birds in the air, the fish in the sea,
   beasts on the earth, they rest there as in their centre. And that that is our
   place for ever, it is heaven, it is God. The immediate enjoying of God in
@@ -505,7 +505,7 @@ rejoice in God our salvation.
   the time to come, 'and rejoice in hope by which we are saved,' Romans 12:12.
   Wait still, and though we have not content here, yet this is not our home, this
   is a good refreshment by the way. As when the children of Israel came from
-  Babylon, they had wells by the way, as in Micah, they digged up wells. So
+  Babylon, they had wells by the way, as in the valley of Baca, Psalm 84:6, they digged up wells. So
   from Babylon to Jerusalem we have many sweet refreshments; but they be
   refreshments far off the way. God digs many wells; we have breasts of
   consolation to comfort us, aye, but they are but for the way. And therefore
@@ -519,7 +519,7 @@ rejoice in God our salvation.
   things to the soul and presents them as present to the soul, seeth Babylon
   fallen, presents things in the Scripture phrase, and in the words, 'Babylon is
   fallen,' forasmuch as all the enemies of the church fall. Mighty is the Lord
-  that hath spoken, and will perform it, and, as the angel saith, 'it is done,' Revelation 19:17.
+  that hath spoken, and will perform it, and, as the angel saith, 'it is done,' Revelation 16:17.
 
 So time will come ere long when it shall be said, 'It is done.' The church
 shall be gathered, and then, 'Lo, this is our God.'

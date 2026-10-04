@@ -66,7 +66,7 @@ We need to every trade a great deal of knowledge. Then surely the calling of
 Christianity needeth a great deal. A Christian must expect much both in
 prosperity and adversity, as the apostle saith, 'I have learned to want and to
 abound, to be in honour and to be in disgrace, and I can do all things
-through Christ that strengthens me,' Philip 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
+through Christ that strengthens me,' Philippians 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
 in much grace, and faith, and love, and holiness, or else we shall never be
 able to uphold this condition. Where there is an exercise of Christianity,
 there will be an appetite to heaven; that is our best calling. For when that we
@@ -183,8 +183,8 @@ conveyeth strength to us, that we may walk in the strength of Christ, as Elias
 did forty days in the strength of his food, 1 Kings 19:8. And consider,
 though in our consciences and conditions we have variety of changes, yet in
 Christ we have several comforts suitable to all our several conditions. If so be
-our sins trouble us, we should watch over ourselves, that we be not over
-much cast down, but feed upon spiritual things in consideration of pardon
+our sins trouble us, we should watch over ourselves, that we be not
+overmuch cast down, but feed upon spiritual things in consideration of pardon
 for sin in the blood of Christ. This is the grand issue of all that Christ hath
 traced out in the forgiveness of sins. He is not, he cannot be divided. Where
 he pardons sins, he sanctifieth; where he sanctifieth, he writes his law in their
@@ -197,9 +197,9 @@ the rest of the chain of grace and spiritual life will follow.
 Sometimes we stand in need of present grace and comfort, and we are
 undone if comforts and grace are not at hand, never considering the
 promises that are to come; as that promise of Christ, 'I will be with thee to
-the end of the world, fear not,' Mat 28:20. No temptation shall befall us,
+the end of the world, fear not,' Matthew 28:20. No temptation shall befall us,
 but we shall have an issue out of it, and it shall work together for the good of
-all those that fear God. This is aqua vita: to the soul of man. Therefore the
+all those that fear God. This is aqua vitae to the soul of man. Therefore the
 gracious promises of Christ and his Holy Spirit we should ever remember to
 get into our souls; for when all other comforts fail, then cometh in the
 comforts of the Spirit, who will be with us and uphold us in all extremities. If
@@ -228,7 +228,7 @@ like to strong waters immoderately taken, instead of cheering the spirits, exhau
 mortified to all other base delights, 'he only mindeth the things above, where
 Christ is,' Colossians 3:1. And therefore the exhortation, or rather command, 'Seek
 the things that are above,' hath this promise in fit method annexed to it, 'and
-then all other things shall be cast in upon you,' Mat 6:33. Riches and
+then all other things shall be cast in upon you,' Matthew 6:33. Riches and
 honours in the world; and if not them, yet so much as is necessary, and
 mortification of our sins, and the lusts of the flesh.
 
@@ -245,7 +245,7 @@ justify the ways of godliness against our own false and carnal hearts, and
 against the slanderous imputations of the world. When our hearts are ready
 to be false to us, and hanker after the contentments of the world, and are
 ready to say the best contentment that they can enjoy is in the things below;
-let us answer our base and false disputing hearts, that the way’s of wisdom,
+let us answer our base and false disputing hearts, that the ways of wisdom,
 the ways that God directs us to, they only are the ways of pleasure. And
 religion is that that makes the hearts of the children of men joyful; and 'a
 good conscience only makes a continual feast,' Proverbs 15:15, so long as man
@@ -316,7 +316,7 @@ conscience and joy in the Holy Ghost; now they see salvation to be founded
 only on Christ, and all other excellencies belonging to Christianity; and
 therefore he goeth constantly provided with grace and holiness, so in this life
 that he may not lose his part in glory in the life to come. Think of this and
-pray for it, as they in the gospel. 'Lord, evermore give us of that bread,' John 7:34. Here is hope that thou mayest be saved, because thou art invited to
+pray for it, as they in the gospel. 'Lord, evermore give us of that bread,' John 6:34. Here is hope that thou mayest be saved, because thou art invited to
 come in. To what end is the ministry of the gospel, but to entreat thee to be
 reconciled? Oh! let this work upon our souls when we hear of the
 excellencies of these things! And together with them, consider of the
@@ -363,7 +363,7 @@ world; but yet we know we shall reap in joy in the world to come.
 Remember this, we have we know not what to go through withal in this
 valley of tears. That speech of Barzillai was good and excellent, who being by
 David himself invited to the court, answered, 'I am now grown old, I am not
-fit for the court, for my senses are decayed and gone,' 2 Samuel 19:32.
+fit for the court, for my senses are decayed and gone,' 2 Samuel 19:35.
 Even so the time will come when our sense of relishing earthly pleasures will
 utterly be lost. We are sure to go to our graves, and we know not what
 particular trouble we may meet with in this world and go through, if we live

@@ -16,26 +16,26 @@ precious memory, are published. Wherein thou art presented.
 + With an invitation to a great and wonderful feast, the marriage feast of
   the Lamb. An admirable feast indeed; wherein Jesus Christ, the eternal
   Son of God, is the bridegroom, where every believer that hath 'put on' the
-  Lord Jesus, Romans 13:14, 'the wedding garment,' Mat 22:11, is not
+  Lord Jesus, Romans 13:14, 'the wedding garment,' Matthew 22:11, is not
   only the guest, but the spouse of Christ, and the bride at this wedding supper.
   Here Jesus Christ is the master of the feast, and the cheer and provision too.
   He is the 'Lamb of God,' John 1:29, the 'ram caught in the
   thicket,' Genesis 22:13. He is the 'fatted calf,' Luke 15:23. When he
   was sacrificed, 'wisdom killed her beasts,' Proverbs 9:2. At his death, 'the
-  oxen and fatlings were killed,' Mat 22:4. Ἀληθῶς βρῶσις καὶ ἀληθῶς πόσις.
+  oxen and fatlings were killed,' Matthew 22:4. Ἀληθῶς βρῶσις καὶ ἀληθῶς πόσις.
   His 'flesh is meat indeed, and his blood is drink indeed,' John 6:55.
   And that thou mayest be fully delighted at this feast, Christ is the 'rose of
-  Sharon,' the 'lily of the valley,' Song of Songs 2:1. He is a 'bundle of myrrh,'
-  Song of Songs 1:13, a 'cluster of camphire,' Song of Songs 1:14; his name is 'an ointment
-  poured out,' Song of Songs 1:3, and 'his love is better than wine,' Song of Songs 1:2. In
-  Christ are 'all things ready,' Mat 22:4  for 'Christ is all in all,' Colossians 3:11.
+  Sharon,' the 'lily of the valley,' Song of Solomon 2:1. He is a 'bundle of myrrh,'
+  Song of Solomon 1:13, a 'cluster of camphire,' Song of Solomon 1:14; his name is 'an ointment
+  poured out,' Song of Solomon 1:3, and 'his love is better than wine,' Song of Solomon 1:2. In
+  Christ are 'all things ready,' Matthew 22:4, for 'Christ is all in all,' Colossians 3:11.
   And great is the feast that Christ makes for believers, for it is the marriage
-  feast which the great King 'makes for his Son,' Mat 22:2; the great
+  feast which the great King 'makes for his Son,' Matthew 22:2; the great
   design and aim of the gospel being to exalt the Lord Jesus Christ, and give
   'him a name above every name,' Philippians 2:9. Great is the company
   that are bid, Luke 14:16, Jews and Gentiles. God keeps open house, 'Ho,
   every one that thirsteth, come,' Isaiah 55:1, and 'whosoever will, let him
-  come  and freely take of the water of life,' Revelation 22:17. Great is the cheer
+  come and freely take of the water of life,' Revelation 22:17. Great is the cheer
   that is provided. Every guest here hath Asher’s portion, 'royal dainties
   and bread of fatness,' Genesis 49:20. Here is all excellent best wine, 'wine
   upon the lees well refined,' Isaiah 25:6. Here is 'fat things,' yea, 'fat
@@ -89,9 +89,9 @@ precious memory, are published. Wherein thou art presented.
   amongst other dishes, to mind them in the midst of all their mirth of their
   mortality (which practice of the heathens condemns the ranting jollity of
   some loose professors in these times). Κατῆλθεν εἰς θάνατον ἀθάνατος, καὶ τῷ θανάτῳ καθεῖλε θάνατον.
-  But here, Christ serves in death’s head, as David 'the head of Goliah,'
-  1 Samuel 31:9, the head of a slain and conquered death.
-  Our Sampson by his own death 'hath destroyed death, and hath
+  But here, Christ serves in death’s head, as David 'the head of Goliath,'
+  1 Samuel 17:54, the head of a slain and conquered death.
+  Our Samson by his own death 'hath destroyed death, and hath
   thereby ransomed us from the hand of the grave, and hath redeemed us
   from death,' Hosea 13:14, and the slavish fear of it.
   All which is at large
@@ -99,7 +99,7 @@ precious memory, are published. Wherein thou art presented.
   mayest triumph in his love, through whom thou art more than conqueror.
 
 + Because 'it is a merry heart that makes a continual feast,' Proverbs 15:15,
-  and that this feast might be a gaudy - day indeed unto thy soul,
+  and that this feast might be a gaudy-day indeed unto thy soul,
   Christ doth here promise, 'to wipe away all tears from off the faces of his
   people,' Isaiah 25:8. The gospel hath comforts enough to make glad the
   hearts of the saints and people of God. The 'light of God’s countenance'
@@ -121,19 +121,19 @@ precious memory, are published. Wherein thou art presented.
   offence,' Romans 9:32, that wear the 'reproaches of Christ as their crown,'
   and by 'well-doing put to silence the ignorance of foolish men,' 1 Peter 2:15;
   for let the world load them with all their revilings, yet 'the spirit of glory
-  rests upon them,' 2 Corinthians 12:9, and in due time he will roll away their
+  rests upon them,' 1 Peter 4:14, and in due time he will roll away their
   reproach, 'and bring forth their judgment as the light, and their righteousness
-  as the noon-day,' Psalm 37:6.
+  as the noonday,' Psalm 37:6.
 
 + And because a Christian here hath more in hope than in hand, more
   in reversion than in possession, 'walks by faith' rather than sense, and
-  'lives by the word of God, and not by bread alone,' Mat 4:4, thou
+  'lives by the word of God, and not by bread alone,' Matthew 4:4, thou
   shalt have here, Christian reader, a sweet discourse of the precious promises
   of Christ which he hath left us here to stay the stomach of the soul, till we
   come to that feast of feasts in heaven; that by this glimpse we might in
   part know the 'greatness of that glory which shall be revealed,' 1 Peter 5:1;
   that the first fruits might be a pawn of the harvest, and the 'earnest
-  of the Spirit,' Ephes 1:14, a pledge of that full reward we shall have in
+  of the Spirit,' Ephesians 1:14, a pledge of that full reward we shall have in
   heaven, where we shall be brimful of those 'pleasures that are at God’s
   right hand for ever,' Psalm 16:11. Christ hath given us promises to uphold
   our faith and hope, till faith be perfected in fruition, and hope end in vision,
@@ -143,7 +143,7 @@ precious memory, are published. Wherein thou art presented.
 + Now because the comfort of the promises is grounded in the faithfulness
   of him that hath promised, this godly and learned man, hath
   strongly asserted the divine authority of the holy Scriptures, proving that
-  they are  θεόπνευστοι, that they are the very word of God, that they are αὐτόπιστοι
+  they are θεόπνευστοι, that they are the very word of God, that they are αὐτόπιστοι
   and ἀξιόπιστοι, worthy of all acceptation, and belief, for their own sakes;
   a truth very seasonable for these times, to antidote thee against the poisonful
   errors of blasphemous anti-scripturists.

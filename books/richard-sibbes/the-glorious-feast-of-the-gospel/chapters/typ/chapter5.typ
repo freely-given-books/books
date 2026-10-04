@@ -20,18 +20,18 @@ observeth. They are easy to lament, not only for their own sins, but the sins
 and misery of another.
 
 Our blessed Saviour himself, we never read that he laughed. We have
-heard that he wept, and for his very enemies, 'O Jerusalem, Jerusalem,' Mat 23:37. He shed tears for them that shed his blood. Tears were main
+heard that he wept, and for his very enemies, 'O Jerusalem, Jerusalem,' Matthew 23:37. He shed tears for them that shed his blood. Tears were main
 evidences of Christ’s sweetness of disposition; as that he would become man,
 and a curse, and die for us, and that he would make so much of little
 children, and call all to him that were weary and heavy laden, that he never
 refused any that came to him. He that wept specially for the miseries and
 afflictions, this showed his gracious and sweet disposition. And that in
 heaven, he is so full of sympathies in glory, that when Paul persecuted the
-church, 'Why dost thou persecute me?' Acts 10:4; so, though he is free from
+church, 'Why dost thou persecute me?' Acts 9:4; so, though he is free from
 passion in heaven, he is not free from compassion, from sympathy with his
 church. And so every child of God is ready, not only to grieve for his own
 sins, and the misery that followeth them, but the sins and miseries of others.
-'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men break the law of God, whom he loved.
+'Mine eyes gush out with rivers of tears,' saith the prophet David, Psalm 119:136, when he saw that men brake the law of God, whom he loved.
 
 A true natural child takes to heart the disgrace of his father. If we be not
 grieved to see our father disgraced, we are bastards, not sons. They that make a sport of sin, what are they? Alas! they have not one spark of the spirit of
@@ -39,13 +39,13 @@ adoption. They are not children, who rejoice at that at which they should
 grieve.
 
 So St Paul, 'I have told you often, and now tell you weeping, there be
-many enemies of the cross of Christ,' Philip 3:18. When he saw some men
+many enemies of the cross of Christ,' Philippians 3:18. When he saw some men
 preach against, and others enemies of the cross of Christ, whose end is
 damnation, he telleth them of it weeping.
 
 We have cause, therefore, to mourn for the sins of others, and for the
 miseries of others, whether we respect God, or the church, or ourselves.
-First, the love of God moveth its to weep when we see him
+First, the love of God moveth us to weep when we see him
 dishonoured.
 
 Second, if we love the church, we should mourn for any sins that may
@@ -73,7 +73,7 @@ maximus, there were no patience without sensibleness. Away, then, with that
 iron, that flinty philosophy, that thinks it a virtue to be stupid; and as the
 apostle saith, 'without natural affections,' Romans 1:31. He counteth it the
 greatest judgment of God upon the soul, yet they would have it a virtue. Why
-should I smite them anymore? saith God; they have no sense, no feeling, Isaiah 1:5.
+should I smite them any more? saith God; they have no sense, no feeling, Isaiah 1:5.
 
 The proud philosopher thought it was not philosophical to weep, a
 proud stoical humour, but Christians desire it.
@@ -84,7 +84,7 @@ him afterwards. It is most true, that Sapiens miser, plus miser; the more wise
 any man is, the more sensible of misery. And therefore of all men, the best
 men have most grief, because they have most quick senses. They be not
 stupified with insensibility and resoluteness, to bear it bravely, as the world;
-but they apprehend with grief, the cause of grief And as they have a more
+but they apprehend with grief, the cause of grief. And as they have a more
 sanctified judgment than other men, so they have a more wise affection of
 love, and a quicker life of grace. Where life is, there is sense; and where there
 is a clear sight or cause of grief, there is most grief. Therefore the best men
@@ -142,7 +142,7 @@ Then consider the presence of God in it. Indeed, I have matter of grief,
 but I find God moderating it. It might be far worse, it is his mercy I am not
 consumed; I find God by it doing me good, I find myself better by it, I
 cannot well be without it. Who would not labour to be sensible of a cross,
-when be looketh up to God’s cross, and justice, and mercy? He hath rather
+when he looketh up to God’s cross, and justice, and mercy? He hath rather
 cause to joy, than to grieve in the very cross itself.
 
 But specially mark what the Holy Ghost saith here. We ought not to be
@@ -173,7 +173,7 @@ here, our consolation shall increase. That we suffer here, if for a good cause,
 will work our 'eternal and exceeding weight of glory,' 2 Corinthians 4:17. We say
 April showers bring forth May flowers. It is a common speech, from
 experience of common life. It is true in religion. The more tears we shed in
-the April of our lives, the more sweet comfort we shall have hereafter, If no
+the April of our lives, the more sweet comfort we shall have hereafter. If no
 tears are to be shed here, no flowers are to be gathered there. And, therefore,
 besides deliverance from trouble, here is comfort, God will take away all
 cause of grief, and all kinds of grief whatsoever.
@@ -246,7 +246,7 @@ discouraged for anything we can suffer here, or for the church, if we see her
 under pressure. As darkness is sown for the wicked, the foundation of their
 eternal torment is laid in their joy; so the ground and foundation of all a
 godly man’s joy is laid in tears. 'Blessed are they that mourn, for they shall be
-comforted,' Mat 5:4. Yet for the present there is more matter of joy than
+comforted,' Matthew 5:4. Yet for the present there is more matter of joy than
 grief, if we look with both eyes; as we ought to have double eyes, one to be
 sensible of our grief, as we must be, the other of our comfort, that we may
 not be surprised with grief. There is a sorrow to death, an overmuch sorrow.
@@ -281,8 +281,8 @@ condition. Aye, but it is a comfortable condition. The more afflictions here,
 the more comfort here, but specially hereafter. The life of a carnal man is all
 in misery. If he falls to joy, he is all joy; if to sorrow, he is all sorrow. He hath
 nothing to support him. He is like a Nabal, he sinketh like a piece of lead to
-the bottom of the sea, 1 Samuel 25:37, 38; like Ahithophel, down he goeth, 2
-Samuel 17:23. When he is upon the merry pin, he is nothing but joy. But a
+the bottom of the sea, 1 Samuel 25:37, 38; like Ahithophel, down he goeth,
+2 Samuel 17:23. When he is upon the merry pin, he is nothing but joy. But a
 Christian’s state and disposition are both mixed. He hath ground of sorrow
 for his own sins, and for the sins and miseries of the times. So he hath matter
 of comfort for the present, in the favour of God, in the pardoning of sins, in
@@ -301,7 +301,7 @@ taken away. Those that will be joyful, and not search to the bottom, must
 needs with shame be brought back to sorrow. When we will joy to purpose,
 let us judge ourselves, that we may not be judged of the Lord; mourn for our
 sins, and then lay hold upon the promise, that 'all they that mourn for sin
-shall be comforted,' Mat 5:4. And blessed are they that shed tears here, for
+shall be comforted,' Matthew 5:4. And blessed are they that shed tears here, for
 all tears shall be wiped away.
 
 We are subject to wrong ourselves, both good and bad: for the good
@@ -317,14 +317,14 @@ of heaven, and there is no cloud there, but all pure, all serene. Therefore in
 Christianity consider not their beginning but their ends. 'Mark the end of the
 upright, for the end of the upright is peace,' Psalm 37:37. Ways have their
 commendation from the term in which they end. 'If by any means I may
-attain the resurrection of the dead,' saith Paul, Philip 3:11. Through thick
+attain the resurrection of the dead,' saith Paul, Philippians 3:11. Through thick
 and thin, fair and foul, rugged winds, dry or bloody death; if by any means I
 may come to the resurrection of the dead, the first degree of glory, all is well.
 It is a good way that ends well. Non qua, sed quo. Consider not what way he
 brings us to heaven, but whither he brings us. If he bring us to heaven
 through a valley of tears, it is no matter; for in heaven 'all tears shall be wiped
 from our eyes.' And therefore Christianity is called wisdom. 'And this
-wisdom is justified of her children,' Mat 11:19. What is the chiefest point of
+wisdom is justified of her children,' Matthew 11:19. What is the chiefest point of
 wisdom? To look home to the end, and to direct all means to that end. He is
 wise that is wise for eternity. The wicked will have their payment here. 'But
 woe to them that laugh, for they shall mourn,' saith Christ, Luke 6:25. They

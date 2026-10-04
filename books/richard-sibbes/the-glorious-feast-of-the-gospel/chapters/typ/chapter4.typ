@@ -43,7 +43,7 @@ head ready to fall upon him, it would cast such a damp on his spirit, as would
 spoil the joy of this feast. So to hear of spiritual excellencies, and yet death,
 and hell, and damnation coming along, alas! where is the comfort you speak
 of. And therefore to make the feast more perfect, there is not only light and
-knowledge, but removal of it ever may damp the feast. So this must needs
+knowledge, but removal of whatever may damp the feast. So this must needs
 come in to comfort all the rest. 'He shall swallow up death in victory, and
 wipe away tears from all faces.' Death is here represented to us under the
 word victory, as a combatant, as one that we are to fight withal, a captain.
@@ -107,7 +107,7 @@ Reason. First of all, because sin brought in death, our Saviour Christ
 became sin, a sacrifice to his father’s justice for sin. He was made sin for us,
 he was made a curse for us, to take away the curse due to us; and sin being
 taken away, what hath death to do with us, and hell, and damnation, the
-attendants on death? Nothing at all. Therefore, Colossians 2:10, upon the cross
+attendants on death? Nothing at all. Therefore, Colossians 2:14, 15, upon the cross
 Christ did nail the law, and sin, and the devil. There he reigned over
 principalities and powers, which were but executioners let loose by reason of
 our sins. And God being satisfied for sin, the devil hath nothing to do with
@@ -130,7 +130,7 @@ kingdom of patience, and a kingdom of power.
   kingdom of patience to conquer our greatest enemies, what will he do in his
   kingdom of power? As Paul reasoneth, 'If by his death we are saved, much
   more now he triumphs in heaven, and appears for us, is he able to convey
-  greater matters to us,' Romans 5:21.
+  greater matters to us,' Romans 5:10.
 
 If Christ in the days of his flesh did conquer, how glorious will his
 conquest be at the day of judgment! Note, Christ hath conquered all in his
@@ -245,8 +245,8 @@ is the fruit of Christ’s death. They are not only enemies, but friends in Chri
 Sin, the remainder of it—(the guilt of it, that bindeth over to damnation, is
 taken away)—the remainders of it serve to humble us, make us feel the
 power of pardon, and to desire another world, where we shall be all spiritual.
-So that death is a part of our jointure. 'All things are yours, life and death,' 1
-Corinthians 3:22. Death doth us many excellent services. It is a door and passage to
+So that death is a part of our jointure. 'All things are yours, life and death,'
+1 Corinthians 3:22. Death doth us many excellent services. It is a door and passage to
 life. Death is the death of itself, destroyeth itself. We never truly live till we
 die, and when we die, we are past fear of death. So that sin dieth, misery
 dieth, death dieth. Though it takes us from comforts, and employments, and
@@ -273,7 +273,7 @@ and the wrath of God for sin. And, therefore, when he was to die, 'Father, let
 this cup pass from me,' Matthew 26:39. But death is disarmed to us. He had to
 encounter with sin and the wrath of God, and death in all its strength. But
 we are not so. We are to deal with death like the brazen serpent, that hath the
-shape of death, but no sting at all. It has become a drone ever since it lost its
+shape of death, but no sting at all. It is become a drone ever since it lost its
 sting in Christ. Life took death, that death might take life, as he said. The
 meaning is, Christ’s life itself took death, that we that were so subject to
 death, that we were death itself, might take life. Oh blessed consideration!
@@ -299,14 +299,14 @@ exclusively, then to leave us, but to death, and in death, for ever; yea, most
 ready to help us in our last conflict. Indeed, to wicked men death is terrible,
 for he sendeth the devil to fetch them out of the world; but for these that be
 his, he sendeth his angels to fetch them, and he helps them in their combat.
-We must not therefore fear over much. There is a natural fear of death.
+We must not therefore fear overmuch. There is a natural fear of death.
 Death wrought upon Christ himself, God-man; not only death, but such a
 death. He was to be left of his Father, and lie under the sense of the wrath of
 God; the separation of that soul from the body he took upon him was
-terrible; and therefore he saith, 'If it be possible, let this cup pass from me
+terrible; and therefore he saith, 'If it be possible, let this cup pass from me;'
 that was nature, and without it he had not been true man. But that I say is,
 that grace may be above nature. Death is a time of darkness. It strips us of
-earthly comforts, friends, callings, employments but then comes the eye of
+earthly comforts, friends, callings, employments, but then comes the eye of
 faith to lay hold on the victory of Christ in time to come, when death shall be
 only swallowed up in victory; and then the glorious state to come, to which
 death bringeth us. So that here faith must be above sense, and grace above
@@ -367,11 +367,11 @@ to show the excellency of his power, he hath made it a friend of an enemy,
 and the best friend in the world. It indeed separates soul from body, but it
 joineth the soul to Christ; so that the conjunction we have by it is better than
 the separation, if the conjunction makes us partake of our desire. 'I desire to
-be dissolved,' saith St Paul, Philip 1:23, but that is not well translated. 'I
+be dissolved,' saith St Paul, Philippians 1:23, but that is not well translated. 'I
 desire to depart, and to be with Christ, which is best of all.' So that it is not
 only not an enemy, but a friend. And therefore the apostle makes it our
 jointure, part of our portion, all things are yours. Why? 'You are Christ’s, and
-Christ is God’s,' 1 Corinthians 3:22. What are ours? 'Things present, things to
+Christ is God’s,' 1 Corinthians 3:23. What are ours? 'Things present, things to
 come, life, death,' 1 Corinthians 3:22, 23. And well may death be ours, because sin
 is our enemy; that remainder, that is kept in our nature to exercise us, and
 humble us, and fit us for grace. As Austin saith, I dare be bold to say, it is
@@ -390,7 +390,7 @@ upon this object death. Overcome death, and all troubles are overcome. Who
 will fear anything that hath given up himself to God? 'Skin for skin, and all
 that a man hath, will he give for his life,' Job 2:4. The devil knoweth that
 well enough. Therefore 'fear not,' saith Christ, 'them that can kill the body,'
-Mat 10:28. Fear causeth snares, saith Solomon, Proverbs 29:25, snares of
+Matthew 10:28. Fear causeth snares, saith Solomon, Proverbs 29:25, snares of
 conscience. But if a man hath overcome the fear of death once, what more is
 to be done? What if they take away life, they cannot take away that that is
 better than life, the favour of God. If we die in the Lord, we die in the favour
@@ -422,7 +422,7 @@ Christ represents us there as the husband doth the wife. He hath taken up
 heaven for us.
 
 Christ cannot be divided, as Austin saith. 'We sit in heavenly places
-already with Christ,' Ephesians 1:8. And what a comfort is this, that while we live
+already with Christ,' Ephesians 2:6. And what a comfort is this, that while we live
 we are in heaven, and that death cannot hinder us from our resurrection,
 which is the restoring of all things. And therefore, as the apostle saith,
 'Comfort one another with these things,' 1 Thessalonians 4:18. These things indeed
@@ -430,7 +430,7 @@ have much comfort in them.
 
 Let us labour then to be comfortable: this use the apostle makes of it;
 and fruitful in our places, upon consideration of the victory we have by
-Christ. 1Cor. xv. It is an excellent chapter that largely proveth Christ’s victory,
+Christ, 1 Corinthians 15. It is an excellent chapter that largely proveth Christ’s victory,
 as the cause of our victory, because he is the first fruit that sanctifieth all the
 rest. 'Finally, my brethren, be constant, immoveable, always abounding in the
 works of the Lord, knowing that your labour is not in vain in the Lord.' He
@@ -461,7 +461,7 @@ to no purpose. If there is granted this happiness of dying for the Lord, it is
 well; 'but blessed are they that die in the Lord.' Why? 'They rest from their
 labour.' Death takes them off from their labours. All their good works go to
 heaven with them. So saith the Spirit, whatsoever the flesh saith. And there is
-no resting till that time. Their life is full of troubles and combers, and
+no resting till that time. Their life is full of troubles and cumbers, and
 therefore labour to get assurance that we are in Christ, that we be in Christ,
 and die in Christ, and then 'there is no condemnation to them that are in
 Christ.'
@@ -475,7 +475,7 @@ And therefore labour to be engrafted into Christ by faith; and that we
 may know it by the Spirit of Christ prevailing in us over our natural
 corruptions more and more. As the apostle saith, 'There is no condemnation
 to them that are in Christ;' for the spirit of life, 'the law of the spirit of life
-which is in Christ, hath freed me from the law of sin and death,' Romans 6:7,
+which is in Christ, hath freed me from the law of sin and death,' Romans 8:2,
 the condemning law of sin. If the law of the spirit of life which is in
 Christ the head, be in us in any measure, it frees us from the condemning law
 of sin, that it carrieth us not whither it would. Then we may say with

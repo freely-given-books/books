@@ -49,7 +49,7 @@ cannot unsay it. When heaven hath concluded it, earth and hell cannot
 disannul it. 'The mouth of the Lord hath spoken it;' that is, truth itself hath
 spoken it that cannot lie. A man may lie and be a man, and an honest man
 too. He may sometimes speak an untruth; it taketh not away his nature. But
-God, who is pure truth, unchangeable truth, truth itself, cannot be.
+God, who is pure truth, unchangeable truth, truth itself, cannot lie.
 
 When we hear of great matters, as matters of Christianity be great
 matters, they be as large as the capacity of the soul, and larger too, and yet
@@ -128,7 +128,7 @@ that in the word that showeth it to be the word:
   glorious; it hath a power to pacify the soul amidst all troubles. When nothing
   will still the soul, the Spirit of God in the word will do it by its divine power.
   Yea, it will change a man from a beastly or devilish temper to a higher and
-  happier estate, as you have it, Isaiah 11:6—9. It makes lions lambs, leopards
+  happier estate, as you have it, Isaiah 11:6-9. It makes lions lambs, leopards
   kids. And what is the ground of all? In that very place 'the earth shall be full
   of the knowledge of the Lord.' The knowledge of God reconciled is such a
   powerful knowledge that it hath a transforming virtue to alter men’s
@@ -151,12 +151,12 @@ The first gospel ever preached in pardon was by God himself. Never
 was any creature so near damnation as our first father Adam, cast from the
 greatest happiness, miserrimum est fuisse felicem; for he that enjoyed before
 communion with God and his angels, having sinned, and having conscience
-of his sin, considering his great parts, and apprehension of The state he had
+of his sin, considering his great parts, and apprehension of the state he had
 been in, this must needs affect him deeply; and being in this condition, the
 promise of the 'seed of the woman to break the serpent’s head,' revived him.
 
 There is a strange efficacy in the gospel. The Roman empire was the
-greatest enemy that the church ever had The ten persecutions you see what
+greatest enemy that the church ever had. The ten persecutions you see what
 they were; and yet notwithstanding the word grew upon them and never
 rested, the spreading of the gospel, and the Spirit with it, till the cross got
 above the crown, as it did in the time of Constantine, and so it continueth.
@@ -167,8 +167,8 @@ above the crown, as it did in the time of Constantine, and so it continueth.
     comfort, change, cast down, raise up again, search secrets, search the heart to
     the bottom? A poor idiot that comes to hear the word of God, when he
     hears the secrets of his heart laid open by the word, he concludes certainly,
-    'God is in you, and you are God’s ministers,' 1 Corinthians 4:25. The word
-    'divideth between the marrow and the bone,' Hebrews 15:12; it arraigneth the
+    'God is in you, and you are God’s ministers,' 1 Corinthians 14:25. The word
+    'divideth between the marrow and the bone,' Hebrews 4:12; it arraigneth the
     heart before God’s tribunal seat. Those that are saved, it hath these effects in
     them that I have named. And if you ask how they know whether the word be
     the word? A man may answer, I have found it to be so, raising me up,
@@ -226,7 +226,7 @@ are condemned by God; and whom we shut heaven to, by opening the
 Scriptures, God will shut heaven to. The opening of the Scriptures is the
 opening of heaven. If the Scripture saith, a man that liveth in such a sin shall
 not be saved, heaven shall be shut to him; he is in a state of death, he is
-strucken, and remaineth in danger till he repenteth. How many live in sins
+stricken, and remaineth in danger till he repenteth. How many live in sins
 against conscience, that are under the guilt and danger of their sins. They be
 wounded, they be struck by the word. There is a threat against their sins,
 although it be not executed; and they be as much in danger of eternal death
@@ -275,7 +275,7 @@ frame them in our affections, that we may find the word in our joy, in our
 love, in our patience, that all may be seasoned with the word of God. When
 there is a relish in the word, and in the soul suitable to it, then a man is a
 Christian indeed to purpose. Till then men will apostatize, turn papist, turn
-atheist, or any thing, because there is a distance between the soul and the
+atheist, or anything, because there is a distance between the soul and the
 word. The word is not engrafted into the soul. They do not know the word
 to be the word by arguments fetched from the word, and therefore they fall
 from the power of the word. But if we will not fall from divine truths, get
@@ -383,8 +383,8 @@ till body and soul be joined together at the day of judgment for ever.
 And there we should labour to have those graces that are suitable for
 this condition. The things we wait for are of so transcending excellency, as
 glory to come, that they cannot be waited for, but the Spirit, by the things
-waited for, filleth us to wait for them. A man cannot wait for glory of soul
-and-body, but the Spirit that raiseth up faith to believe, and hope to wait, will
+waited for, fitteth us to wait for them. A man cannot wait for glory of soul
+and body, but the Spirit that raiseth up faith to believe, and hope to wait, will
 purge, and fit, and prepare him for that glorious condition. 'He that hath this
 hope purifieth himself, as he is pure,' 1 John 3:3. Oh, it is a quickening
 waiting, and a purging waiting. It is efficacious by the Spirit to fit and purify

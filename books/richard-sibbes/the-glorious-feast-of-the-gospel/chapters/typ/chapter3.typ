@@ -112,7 +112,7 @@ shall be taken away.
 
 + Thirdly, that this is only in his church. And where this veil of
   ignorance is taken off, there is feasting with God and spiritual joy, and
-  delight in the best order; and where it is taken off there is none of it.
+  delight in the best order; and where it is not taken off there is none of it.
   First of all, by nature, there is a veil of covering over all men’s spirits. To
   understand this better, let us unfold the terms of veil a little. There is a veil
   either upon the things themselves that are to be seen, or upon the soul which
@@ -187,7 +187,7 @@ notwithstanding, there is a veil upon the soul. The soul of every man that is
 not graciously wrought upon by the Spirit of God hath a veil of ignorance
 and unbelief.
 
-First of all, of ignorance. There is a vale of ignorance in many, and in all
+First of all, of ignorance. There is a veil of ignorance in many, and in all
 men naturally a veil of ignorance of spiritual things. For, unless they be
 revealed, they can never be known to angels themselves. The angels
 themselves know not the gospel till it be opened, and therefore they be
@@ -215,14 +215,14 @@ of it, and the danger it draweth after it.
 Second. And so in any points of religion naturally, a man sees not them
 spiritually, as they are, and as God sees them, but he seeth them by a human
 light. He seeth heavenly things by a human light, notionally, and merely to
-discourse of them. He seeth not intritively into the things themselves. He
+discourse of them. He seeth not intuitively into the things themselves. He
 seeth them sub aliena specie, under another representation than their own.
 Only a godly man seeth spiritual things as the Spirit of God, and seeth them
 as they are, knows sin as it is, knoweth grace to be as it is, and knoweth faith.
 What it is to believe, what it is to have peace of conscience, and the pardon
-of sins. He knoweth these things in some sense intritively, though not so as
+of sins. He knoweth these things in some sense intuitively, though not so as
 he shall do when he shall see these things in heaven, when he shall see face
-to face. There is a great difference in it. He sees them intritively in respect of
+to face. There is a great difference in it. He sees them intuitively in respect of
 the knowledge of other men, though he sees but in a glass in regard of the
 knowledge he shall have in heaven. As St Paul saith, 'For we see but as in a
 glass.' But he that sees in a glass seeth more life than he that sees the dead
@@ -304,7 +304,7 @@ there is a veil on every man naturally over his heart by ignorance and
 unbelief. The truths themselves are clear. God is clear, and the gospel is light,
 mens, lux; you know they know things in the object, but in us there is
 darkness in our understandings; and therefore the Scripture saith not we are
-dark only, but 'darkness itself,' 2 Corinthians 6:14. The clouds that arise are like the
+dark only, but 'darkness itself,' Ephesians 5:8. The clouds that arise are like the
 mists that do interpose between our souls and divine things, arising from our
 own hearts; and the love of sinful things raise such a cloud, that we know
 not, or else believe not, what is spoken. To proceed.
@@ -444,7 +444,7 @@ takes away the veil, he makes a feast. What a wonderful satisfaction hath the
 soul, when the veil is taken off, to see God in Christ reconciled! to see sin
 pardoned! to see the beginnings of grace, which shall be finished and
 accomplished in glory! to discern that 'peace which passeth understanding,'
-Philip 4:7. What a marvellous sweetness is in these things!
+Philippians 4:7. What a marvellous sweetness is in these things!
 
 They cannot be revealed to the knowledge spiritually, but there is a feast
 in the soul, wherein the soul doth solace itself; so both these go together.
@@ -483,7 +483,7 @@ we be informed, but not truly transformed, to love the truth we know, and
 hate the evil we know, it maketh us worse.
 
 And then it enrageth men the more. The more they know, the more they
-be enraged. Men when truths he pressed, which they purpose not to obey,
+be enraged. Men when truths be pressed, which they purpose not to obey,
 they fret against the ordinance, and cast stones, as it were, in the face of
 truth. When physic doth raise humours, but is not strong enough to carry
 them away, they endanger the body; and where light is not strong enough to
@@ -541,8 +541,8 @@ in light to the soul.
     Ans. The meaning is this, that we have, first, breeding and education,
     and some light of the Spirit turneth it presently to practice, by obedience to
     that knowledge. And then you shall know more. He that doth these things,
-    he shall know all. They shall know that do practice what they know already.
-    'To him that hath shall be given,' Mat 13:12; that is, to him that hath some
+    he shall know all. They shall know that do practise what they know already.
+    'To him that hath shall be given,' Matthew 13:12; that is, to him that hath some
     knowledge, and putteth in practice what he hath, God will increase the talent
     of his knowledge; he shall know more and more, till God revealeth himself
     fully in the world to come.
@@ -595,7 +595,7 @@ virtue of God’s power, 'He hath called us out of darkness to his marvellous
 light,' 1 Peter 2:9. The soul that hath the veil taken from it, there is a
 marvelling at the goodness of God, a wondering at the things of faith. And
 the soul sets such a price upon divine things, that all is 'dung and dross' in
-comparison of the excellent knowledge of Jesus Christ, Philip 3:8.
+comparison of the excellent knowledge of Jesus Christ, Philippians 3:8.
 Wherefore is it that thou wilt reveal thyself to us, and not unto the world? as
 admiring the goodness of God. What are we? What am I, that God should
 reveal these things to me, and not to the world? that many perish in darkness
@@ -603,7 +603,7 @@ and shadow of death, though they hear of divine things, yet they, teaching
 rebellion and unbelief, are not moulded to them, and so perish eternally?
 There is a secret admiration of the goodness of God to the poor soul, and a
 wonderment at spiritual things. 'O! how sweet is thy law,' saith David, Psalm 119:103. And teach me the wonders of thy law, and joy unspeakable and
-glorious, and peace that passeth understanding, Philip 4:7. These things be
+glorious, and peace that passeth understanding, Philippians 4:7. These things be
 high to the soul.
 
 Ans. 2. By the taste of what they have, they wonder at that little, and at
@@ -615,14 +615,14 @@ had in Jesus Christ, there is no knowledge at all. Certainly a gracious soul,
 when once it sees, it desires still to feel the power and virtue of Christ in it, as
 Paul counted all dung in comparison of this knowledge, to know myself in
 Christ, and feel the power of his death in dying to sin, and virtue of his
-resurrection in raising me to newness of life. It was Saint Paul’s study to walk
-still to the high price of God’s calling, and where that is not, no grace is
+resurrection in raising me to newness of life. It was St Paul’s study to walk
+still to the high prize of God’s calling, and where that is not, no grace is
 begun.
 
 Ans. 3. And again, where divine light is, and the veil taken away, it is the
 sanctified means; for God works by his own instruments and means, and
 they be able to justify all courses of wisdom. 'Wisdom is justified of her
-children,' Mat 11:19. By experience they be able to say the word is the word.
+children,' Matthew 11:19. By experience they be able to say the word is the word.
 I have found it casting me down, and raising me up, and searching the
 hidden corners of my heart. I have found God’s ordinances powerful, the
 word and sacrament. I have found my hope, faith, strength, and spiritual
