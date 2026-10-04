@@ -35,7 +35,7 @@ Here by the way, note three points.
 
 This title #emph[(servants)] is a general title, which may be applied to all such as by any outward civil bond, or right, #footnote[#emph[Origo vocabuli seruorun in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabaxtur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Uide apud Viu. ibid.]] owe their service to another: of what sex soever the persons themselves be: or of what kind soever their servitude is: whether more servile or liberal.
 
-#emph[Servile,] as being borne servants, or sold for servants, or taken in war, or ransomed; For of old they were called servants, who being taken in war, were saved from death.
+#emph[Servile,] as being born servants, or sold for servants, or taken in war, or ransomed; For of old they were called servants, who being taken in war, were saved from death.
 
 #emph[Liberal,] as being by voluntary contract made servants, whether at will, as some serving-men, journey men, and labourers; or for a certain term of years, as prentices, clerks, and such like. Wherefore whatsoever the birth, parentage, estate, or former condition of any have been; being
 

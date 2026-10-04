@@ -83,7 +83,7 @@ For #emph[their education,] the directions given before to natural parents are t
 
 For #emph[preservation of their patrimony,] they must do for their Pupils what they would do for their own children; and so carry themselves, as with good conscience they may give that account to their Pupils, or any other, which the law requireth.
 
-The two forenamed duties, are the rhaine ends for which Guardians are chosen: in performing whereof, if they be faithful, great redress will be made of the untimely death of parents; and notwithstanding parents die before their children be of discretion to manage their estate, yet will their houses and families be maintained, and young heirs kept from cunny-catchers and cheaters.
+The two forenamed duties, are the rhaine ends for which Guardians are chosen: in performing whereof, if they be faithful, great redress will be made of the untimely death of parents; and notwithstanding parents die before their children be of discretion to manage their estate, yet will their houses and families be maintained, and young heirs kept from coney-catchers and cheaters.
 
 It is noted of #emph[John,] who had the mother of Jesus commended #footnote[#emph[Joh.] 19. 27.] to him, that #emph[he took her to his own home:] whereby is implied his provident care for her good.
 

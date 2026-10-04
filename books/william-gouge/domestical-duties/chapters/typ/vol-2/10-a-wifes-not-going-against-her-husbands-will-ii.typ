@@ -72,7 +72,7 @@ Whereas in Scripture it is sometimes said that the mothers named their children,
 
 2. For appointing place and marriage it is noted that #footnote[#emph[Gen.] 27. 43, #emph[etc.]] #emph[Rebekah] #footnote[2\. Place and marriage.] asked the consent of her husband: though she told her son #emph[Jacob] that he should go to #emph[Haran to his uncle Laban] to be there kept in safety from the fury of #emph[Esau,] yet she would not send him till #footnote[#emph[Gen.] 28. 1, 2.] #emph[Isaac] had given his consent for his abode there, and taking a wife from thence.
 
-3. For deputing unto a calling, it is noted of #footnote[1 #emph[Sam.] 1. 11.] #emph[Hannah,] that #footnote[3\. Calling.] though before her child was borne she had by solemn vow dedicated him to the Lord, yet when the child was borne #footnote[#emph[Vers.] 22.] she asked her husbands consent about it. #footnote[4\. Apparel.]
+3. For deputing unto a calling, it is noted of #footnote[1 #emph[Sam.] 1. 11.] #emph[Hannah,] that #footnote[3\. Calling.] though before her child was born she had by solemn vow dedicated him to the Lord, yet when the child was born #footnote[#emph[Vers.] 22.] she asked her husbands consent about it. #footnote[4\. Apparel.]
 
 4. That which is noted of #footnote[1 #emph[Sam.] 2. 19.] #emph[Hannahs carrying a little coat to] #emph[her son year by year when she went up with her husband,] showeth that she did it not without her husbands consent. Women are for the most part prone to prank up their children above their husbands place and calling, and therefore good reason that therein they should be governed by their husbands.
 

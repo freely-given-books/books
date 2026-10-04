@@ -131,7 +131,7 @@ The obedience which servants in regard of these must show to their masters is tw
 
 For the first of these, servants have an express precept, enforced #footnote[1 #emph[Pet.] 2. 18. #emph[etc.]] by many reasons in these words, #emph[servants be subject to your masters with all fear, not only to the good and gentle, but also to the froward. For this is thank worthy if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it if when ye be buffeted for your faults ye take it patiently? But if when ye do well and suffer for it, ye take it patiently, this is acceptable with God.] Here we see,
 
-1. That correction is patiently to be borne by servants: if correction, then much more reproof.
+1. That correction is patiently to be born by servants: if correction, then much more reproof.
 
 2. That though correction be unjustly inflicted, yet it is patiently to be endured: therefore much more when it is deserved.
 

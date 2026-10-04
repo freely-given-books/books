@@ -24,11 +24,11 @@ The love of Christ to his Church is commended unto us in six several points: whi
 
 thereof.
 
-I. For the #emph[Order,] Christ began to love his Church: he mafested his love to her before she loved him: as the air heated by the Sun is hot, and a wall on which the Sun-beams smite, giveth a reflexion of heat back again: so the Church, as it were heated and warmed at heart by the sence of Christs love, loved him, as the Apostle expressly noteth, #emph[(We love him] #footnote[1 #emph[Joh.] 4. 19.] #emph[because he loved us first:)] and the Church her self acknowledgeth saying, #emph[Because of the savour of thy good ointments] #footnote[#emph[Cant.] 1. 2.] (wherewith we are revived, and cheered) #emph[the virgins love thee.]
+I. For the #emph[Order,] Christ began to love his Church: he manifested his love to her before she loved him: as the air heated by the Sun is hot, and a wall on which the Sun-beams smite, giveth a reflexion of heat back again: so the Church, as it were heated and warmed at heart by the sence of Christs love, loved him, as the Apostle expressly noteth, #emph[(We love him] #footnote[1 #emph[Joh.] 4. 19.] #emph[because he loved us first:)] and the Church her self acknowledgeth saying, #emph[Because of the savour of thy good ointments] #footnote[#emph[Cant.] 1. 2.] (wherewith we are revived, and cheered) #emph[the virgins love thee.]
 
 There is in us by nature no spark of love at all: if Christ #footnote[Husbands must by their love provoke their wives to love. #emph[Pro.] 2. 17.] by his loving of us first, did not instill love into us, we could no more love him then a living bird rise out of a cold egg, if it were not kept warm by the dams sitting upon it.
 
-Thus must an husband first begin to love his wife. His place of eminency, and authority requireth, that he should be to his wife, #emph[a guide,] which title is expressly given to him by the holy #footnote[#emph[Sicaput est vir, praecedere debet in omnibus bonis factis vxorem suam, vt illa imitetur virum, & sequatur caput suum. Aug. de decem chor. c.] 3.] Ghost, to teach him to go before her, and by his example to instruct, and incite her to do her duty. What a shame would it be for a man who is #emph[the Image and glory of God, the head of his wife,] in the same place to her that Christ is to his Church, to be provoked by his wives wive-like carriage (she being the weaker vessel, under him, to learn of him) to love her? #footnote[Treat. 1. §. 10.] Reasons there be to stir up a wife to indeavour to prevent her husband in doing her duty, which if she do, it is the greater glory to her; but this pattern of Christ should stir him much more to strive to go before her.
+Thus must an husband first begin to love his wife. His place of eminency, and authority requireth, that he should be to his wife, #emph[a guide,] which title is expressly given to him by the holy #footnote[#emph[Sicaput est vir, praecedere debet in omnibus bonis factis vxorem suam, vt illa imitetur virum, & sequatur caput suum. Aug. de decem chor. c.] 3.] Ghost, to teach him to go before her, and by his example to instruct, and incite her to do her duty. What a shame would it be for a man who is #emph[the Image and glory of God, the head of his wife,] in the same place to her that Christ is to his Church, to be provoked by his wives wive-like carriage (she being the weaker vessel, under him, to learn of him) to love her? #footnote[Treat. 1. §. 10.] Reasons there be to stir up a wife to endeavour to prevent her husband in doing her duty, which if she do, it is the greater glory to her; but this pattern of Christ should stir him much more to strive to go before her.
 
 === §. 62. #emph[Of husbands repaying unkindness for love.]
 
@@ -84,7 +84,7 @@ This may seem to be too high a strain, and pitch of love for an husband to attai
 
 === §. 70. #emph[Of husbands unkindness.]
 
-Contrary is their unkindness that prefer every trifle of their own before the good of their wives: their profit, their measure, their promotion, clean draw away their hearts and affections from their wives. If any extraordinary charge must be laid out, or pains taken for their wives good, little love will then appear: whereby it appears that there was no true and sound love settled in their hearts towards their wives. As gld and other like mettals are tryed by the fire, so love by afflictions and crosses.
+Contrary is their unkindness that prefer every trifle of their own before the good of their wives: their profit, their measure, their promotion, clean draw away their hearts and affections from their wives. If any extraordinary charge must be laid out, or pains taken for their wives good, little love will then appear: whereby it appears that there was no true and sound love settled in their hearts towards their wives. As gold and other like mettals are tryed by the fire, so love by afflictions and crosses.
 
 === §. 71. #emph[Of combats in pretence of wives honour.]
 
@@ -92,7 +92,7 @@ Contrary in another extreme is the over-bold and over-heady pretended manhood of
 
 === §. 72. #emph[Of husbands] #footnote[Treat. 3. §. 6. 6 Christs love #emph[perpetual.]] Constancy #emph[in love.]
 
-VI. The continuance of Christs love was without date: #footnote[#emph[Joh.] 13. 1.] #emph[Having loved his own, he loved them unto the end.] His love was constant (not by fits, now loving, then hating) and #footnote[#emph[Hos.] 2. 19.] #emph[everlasting] (never repenting thereof, never changing or altering his mind) no provocations, no transgressions could ever make him forget to love, and cease to do that good which he intended for his Church: note what he said to her even when she revoulted from him, #emph[Thou hast played the harlot with many] #footnote[#emph[Jer.] 3. 1. 2 #emph[Sam.] 7. 15.] #emph[lovers, yet return again to me:] and again, #emph[My mercy shall not depart away.]
+VI. The continuance of Christs love was without date: #footnote[#emph[Joh.] 13. 1.] #emph[Having loved his own, he loved them unto the end.] His love was constant (not by fits, now loving, then hating) and #footnote[#emph[Hos.] 2. 19.] #emph[everlasting] (never repenting thereof, never changing or altering his mind) no provocations, no transgressions could ever make him forget to love, and cease to do that good which he intended for his Church: note what he said to her even when she revolted from him, #emph[Thou hast played the harlot with many] #footnote[#emph[Jer.] 3. 1. 2 #emph[Sam.] 7. 15.] #emph[lovers, yet return again to me:] and again, #emph[My mercy shall not depart away.]
 
 For his love resteth not on the desert of his Church, but on the unchangeableness of his own will. As this manifested Christs love to be true sound love, so it made it profitable and beneficial to the Church, which, notwithstanding her many frailties, by virtue hereof is glorified.
 
@@ -100,7 +100,7 @@ This last branch must be added to all the former branches #footnote[Husbands mus
 
 1. He must be sure to lay a good foundation; he must ground his love on Gods ordinance: and love his wife in regard of the matrimonial bond which knitteth them together, and that near union which thence ariseth; and so it will last so long as that knot lasteth.
 
-2. He must further support and strengthen it with an inviolable resolution to be changed and altered with no provocation, but rather to pass by all infirmities; indeavouring in love to redress them if possibly he can: if not, to bear with them.
+2. He must further support and strengthen it with an inviolable resolution to be changed and altered with no provocation, but rather to pass by all infirmities; endeavouring in love to redress them if possibly he can: if not, to bear with them.
 
 === §. 73. #emph[Of husbands variableness.]
 
@@ -150,13 +150,13 @@ Two things there be which in Christs example are especially #footnote[Two things
 
 2. That small benefit which he reapeth by loving her.
 
-For the better discerning of that #emph[inequality,] the #emph[greatness] of #footnote[1\. The great inequality betwixt Christ and his spouse.] Christ on the one side, and the #emph[meaness] of the Church on the other, are duly to be weighed.
+For the better discerning of that #emph[inequality,] the #emph[greatness] of #footnote[1\. The great inequality betwixt Christ and his spouse.] Christ on the one side, and the #emph[meanness] of the Church on the other, are duly to be weighed.
 
 Christs #emph[greatness] is in Scripture set forth by comparing him with #emph[creatures,] and the #emph[Creator.] Compared with creatures he is far more excellent then the most excellent, as the Apostle by many arguments proveth in the first chapter to #emph[Hebr.] that whole chapter is spent in proof of this point: And in another place it is said that #footnote[#emph[Eph.] 1. 21.] #emph[He is set far above all principality and power, and might, and dominion, and every name that is named not only in this world, but also in that which is to come.]
 
 Compared with the Creator he is no whit inferior to him, but #footnote[#emph[Phil.] 2. 6.] #emph[equal:] #footnote[#emph[Heb.] 1. 3.] #emph[Being the brightness of glory, and the express image of his person:] and that #footnote[#emph[Job.] 1. 1, 3.] #emph[word] of whom it is said, #emph[In the beginning was the word, and the word was with God, and the word was God: All things were made by him etc.] So as he is the very #emph[Creator] himself, #emph[eternal, infinite, incomprehensible.] Thus is Christs greatness inexplicable.
 
-The meaness of the Church is as low on the other side: she is a creature, fashioned out of the earth, proceeding from the loins of corrupt #emph[Adam,] not only finite, but in it self vile and base: The Prophet #footnote[#emph[Ezec.] 16. 1. #emph[etc.]] #emph[Ezechiel] doth set her forth in her lively colours as she is in her self. Compared therefore unto Christ she is #footnote[#emph[Isa.] 40. 17.] #emph[nothing, less then nothing.] What equality, what proportion can there then be betwixt Christ and her?
+The meanness of the Church is as low on the other side: she is a creature, fashioned out of the earth, proceeding from the loins of corrupt #emph[Adam,] not only finite, but in it self vile and base: The Prophet #footnote[#emph[Ezec.] 16. 1. #emph[etc.]] #emph[Ezechiel] doth set her forth in her lively colours as she is in her self. Compared therefore unto Christ she is #footnote[#emph[Isa.] 40. 17.] #emph[nothing, less then nothing.] What equality, what proportion can there then be betwixt Christ and her?
 
 But if man and woman be compared together, we shall find a near equality: and that both in the points of their humiliation, and also of their exaltation. In regard of the former, they are both of the same mould, of the same corrupt nature, subject to the same infirmities, at length brought to the same end. In regard of the latter the best and greatest privileges are common to both of them: they are both made after the same image, redeemed by the same price, partakers of the same grace, and heirs together of the same inheritance.
 
@@ -184,13 +184,13 @@ This example of Christ is the rather to be noted, because it clean wipeth away a
 
 #emph[Answ.] This very thing, that #emph[such an one is thy wife,] is matter enough to make her worthy of love. But what was there in the Church to make her worthy of Christs love? If it be said that she is endued with many excellent graces, which make her amiable in Christs sight: I answer, that of her self she hath none of those graces, Christ hath bestowed them upon her, and so made her amiable: and thus oughtest thou to endeavour by using all good means thou canst to make thy wife answerable to thy love: but howsoever, to love her.
 
-3. Their wives give just occasion to be hated by reason of their #footnote[3\. #emph[Object.]] beevishness, stoutness, insolency, and other like intolerable vices.
+3. Their wives give just occasion to be hated by reason of their #footnote[3\. #emph[Object.]] peevishness, stoutness, insolency, and other like intolerable vices.
 
-#emph[Answ.] No occasion may seem just to move an husband to hate his wife: nor any vice seem to him intolerable: with goodness he ovught to overcome evil. If notorious sins seemed intolerable to Christ, or that he thought any occasion just to cause hatred, many that are of his Church would oft draw his hatred upon them: but Christ hateth never a member of his Church.
+#emph[Answ.] No occasion may seem just to move an husband to hate his wife: nor any vice seem to him intolerable: with goodness he ought to overcome evil. If notorious sins seemed intolerable to Christ, or that he thought any occasion just to cause hatred, many that are of his Church would oft draw his hatred upon them: but Christ hateth never a member of his Church.
 
 4. There is no hope that ever I shall receive any help of my #footnote[4\. #emph[Object.]] wife, or benefit from her.
 
-#emph[Ans.] There is little charity in such as can conceive no hope: for #emph[love hopeth all things:] but yet the case so standeth with Christ. The #footnote[1\. #emph[Cor.] 13. 7.] Church is so utterly unable to help or benefit him, as he may justly say, he cannot hope to receive any thing fron her. Christ loveth the church for her own good, not for his; so ought husbands. Thus if Christs example be well weighed, & observed of husbands, it will afford matter enough to remove every doubt or scruple raised to alienate their affections from their wives. Fitly therefore hath the Apostle set it before husbands, both to direct them how to love their wives, and also to move them so to do.
+#emph[Ans.] There is little charity in such as can conceive no hope: for #emph[love hopeth all things:] but yet the case so standeth with Christ. The #footnote[1\. #emph[Cor.] 13. 7.] Church is so utterly unable to help or benefit him, as he may justly say, he cannot hope to receive any thing from her. Christ loveth the church for her own good, not for his; so ought husbands. Thus if Christs example be well weighed, & observed of husbands, it will afford matter enough to remove every doubt or scruple raised to alienate their affections from their wives. Fitly therefore hath the Apostle set it before husbands, both to direct them how to love their wives, and also to move them so to do.
 
 === §. 76. #emph[Of a mans love to himself, a motive to provoke him to love his wife.]
 

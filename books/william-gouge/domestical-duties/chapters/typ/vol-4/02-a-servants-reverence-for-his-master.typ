@@ -256,7 +256,7 @@ Offences contrary to the forenamed #emph[reverence] of servants to their masters
 
 5. #emph[Disdain,] when they #footnote[See §. 5.] scorn to give the title #emph[master] to him that is set over them, because he is a poor and mean man.
 
-6. #emph[Arrogancy,] when their words are high and lofty against their master, pretending that they are as good as he, though for a time they be under him. Clerks, prentices, waiting women, and such like, being borne of gentlemen, and men of good degree, are for the most part guilty of this fault: the reason is, because their birth and parentage maketh them forget their present place and condition; or else (which is worse) maketh them wilfully presume above it.
+6. #emph[Arrogancy,] when their words are high and lofty against their master, pretending that they are as good as he, though for a time they be under him. Clerks, prentices, waiting women, and such like, being born of gentlemen, and men of good degree, are for the most part guilty of this fault: the reason is, because their birth and parentage maketh them forget their present place and condition; or else (which is worse) maketh them wilfully presume above it.
 
 7. #emph[Muttering] and murmuring upon every occasion of discontent: whereby it cometh to pass that they oft provoke much wrath (for #emph[grievous words stir up anger.)] #footnote[#emph[Pro.] 15. 1.]
 

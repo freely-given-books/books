@@ -16,7 +16,7 @@ More particularly it implieth these six points: #footnote[How children obey thei
 
 5. They must so be performed, as in performing them no #footnote[5\. In the fear of God.] sin be committed against God. Hereof also we spake #footnote[§. 37. & 38.] before.
 
-6. Constancy must be added to all other virtues. For as the #footnote[6\. With perseverance.] Lord himself is constant in all his ways and works, so he expecteth that children should be in the duties which he requireth at their hands. He that begineth well, and holdeth not on, loseth all the glory of his good beginning.
+6. Constancy must be added to all other virtues. For as the #footnote[6\. With perseverance.] Lord himself is constant in all his ways and works, so he expecteth that children should be in the duties which he requireth at their hands. He that beginneth well, and holdeth not on, loseth all the glory of his good beginning.
 
 If the examples of all good children commended in Scripture be well weighed, we shall find their duties, so far forth as they were acceptable to God, performed after the foresaid #emph[manner,] in all the branches thereof.
 

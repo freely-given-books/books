@@ -18,7 +18,7 @@ The second couple in a family are
 - Parents.
 - Children.
 
-In laying down their duties, the Apostle begineth with children: his direction, and instigation unto them is laid down in the three first verses of the sixth chapter: wherein
+In laying down their duties, the Apostle beginneth with children: his direction, and instigation unto them is laid down in the three first verses of the sixth chapter: wherein
 
 - 1\. He declareth their #emph[duty.]
 - 2\. He addeth #emph[reasons] to enforce the same.
@@ -90,7 +90,7 @@ The other is hatred and despight of parents: a vice more then monstrous, and unn
 
 To the forenamed duty of love, must #emph[fear] be added, which is a childes #emph[awful respect of his parent.]
 
-This #emph[awful respect] ariseth from an honourable esteem which a child in his judgment and opinion hath of his parent, as he is his parent; and from it proceedeth on the one side, a desire and indeavour in all things to please the parent, and on the other side a loathness to offend him.
+This #emph[awful respect] ariseth from an honourable esteem which a child in his judgment and opinion hath of his parent, as he is his parent; and from it proceedeth on the one side, a desire and endeavour in all things to please the parent, and on the other side a loathness to offend him.
 
 In this respect the fear of a #emph[child] is opposed to the fear of a #emph[slave.] For a childes fear being mixed with love, hath respect to the #emph[offence] which a parent may take; but a slaves fear, which is ordinarily mixed with hatred, hath respect to nothing but the #emph[punishment] which his master may inflict upon him. The forenamed fear is so proper to children, as that awful respect which the Saints bear to God, is called a #footnote[See Treat. 1. §. 4.] #emph[filial] or #emph[child-like fear.]
 
@@ -98,7 +98,7 @@ This #emph[fear] in a child is an especial branch of that #footnote[#emph[Exo.] 
 
 A worthy pattern we have hereof in #footnote[#emph[Gen.] 27. 12.] #emph[Jacob,] who was loath to gain the blessing with offence of his father.
 
-This #emph[fear] keepeth #emph[love] in compass: and restraineth a child #footnote[#emph[Reasons.] 1. Fear ordereth love.] from overmuch sauciness, and malipartness.
+This #emph[fear] keepeth #emph[love] in compass: and restraineth a child #footnote[#emph[Reasons.] 1. Fear ordereth love.] from overmuch sauciness, and malapertness.
 
 And it is a cause of a childes reverend and dutiful carriage #footnote[2\. It well guideth the carriage.] to his parent. For as the heart is affected the carriage will be ordered.
 
@@ -141,7 +141,7 @@ The two branches of silence, in #emph[forbearing] to speak (especially when pare
 
 And it is very needful that patience be added to silence, because many parents in tender love of their children, and earnest desire of their good, think they can never speak enough in instructing and admonishing them. The many exhortations #footnote[#emph[Gen.] 49. 2. #emph[Pro.] 1. 8, #emph[&] 4. 1. #emph[&] 7. 1.] given in Scripture unto children to #emph[hear, hearken, give ear, give heed, mark, and observe] the words of their parents, do imply the forenamed #emph[silence] and #emph[patience:] for they who #footnote[#emph[Iam.] 1. 19.] ought to be #emph[swift to hear] must be #emph[slow to speak.] I deny not but much more is intended under those phrases, namely, #emph[obedience:] yet must #emph[these] also be presupposed: for he that will not in silence patiently hearken to his parents while they speak, will much less obey what they say.
 
-Contrary to silence is sawciness (as we speak) and overmuch #footnote[Contrary, 1. boldness of speech.] boldness in children, when, without due respect of their parents presence, they will be prating of this thing or that thing: insomuch as if strangers should come into the room where such children are, they would not think that their parents were in presence; or if they knew it, they might well think that such children bear little respect to their parents.
+Contrary to silence is sauciness (as we speak) and overmuch #footnote[Contrary, 1. boldness of speech.] boldness in children, when, without due respect of their parents presence, they will be prating of this thing or that thing: insomuch as if strangers should come into the room where such children are, they would not think that their parents were in presence; or if they knew it, they might well think that such children bear little respect to their parents.
 
 Contrary to patience in hearing, is fretting and murmuring #footnote[2\. Impatient hearkening to parents.] against parents (if at least their speech be any whit long) and flinging or slinking away before they have done. These faults are the greater, if children by their loquacity, or impatiency hinder or interrupt their parents speech when they are giving any admonition or instruction: for thus they show both too light a respect of their parents: and also too little regard of the means of their own good.
 
@@ -181,7 +181,7 @@ If children had that regard to the honour of their parents which they should, th
 
 4. #emph[Indiscretion,] when children have no respect to any time, business, or temper, of their parents in speaking to them, and #footnote[4\. Unseasonable speech. #emph[Ephes.] 6. 4.] so, much provoke them. It is laid down as a caveat to parents, that they #emph[provoke not their children to wrath.] How much more must children observe that caveat?
 
-5. #emph[Stubbornness,] when children pout, lour, swell, and give #footnote[5\. Stomachfull silence.] to answer at all to their parents. This is too common a fault in children, and many parents are much offended and grieved thereat. We heard #footnote[§. 4.] before of a childelike silence which was very commendable, and a token of great reverence; but this is worthy of much blame, a token of great undutifulness; and carefully to be avoided, as that to be practised.
+5. #emph[Stubbornness,] when children pout, lour, swell, and give #footnote[5\. Stomachful silence.] to answer at all to their parents. This is too common a fault in children, and many parents are much offended and grieved thereat. We heard #footnote[§. 4.] before of a childelike silence which was very commendable, and a token of great reverence; but this is worthy of much blame, a token of great undutifulness; and carefully to be avoided, as that to be practised.
 
 === §. 7. #emph[Of childrens reverend speeches of their parents.]
 
@@ -238,7 +238,7 @@ Concerning the gesture of kneeling, it is answerable to the #footnote[It is lawf
 
 #emph[Answ.] It is not so proper, but that it may be used in civil cases: else Christ would have reproved the young man for #emph[kneeling] before him as well as for calling him #emph[good:] for he conceived #footnote[#emph[Mar.] 10. 17.] Christ to be but a mere man, and the worship he did him was but civil.
 
-It is not simply the gesture, but the occasion of the gesture, the mind of him that performeth it, and the end why he performeth it that maketh it divine, or civil. #emph[Cornelius] fell down before #emph[Peter] with conceit of some divine excellency in him, and was not allowed: his manner of worshiping was divine. The jaylor fell down before #emph[Paul] and #emph[Silas] in acknowledgment of some outward eminency in them, and was not reproved: his manner of worshipping was merely civil. The same gesture may be performed to different persons with a different respect. A child may kneel to his parent, and to the king. Yet it followeth not that he maketh his parent a king. Neither will it follow that by kneeling to his parent he maketh him a God, because men kneel to God.
+It is not simply the gesture, but the occasion of the gesture, the mind of him that performeth it, and the end why he performeth it that maketh it divine, or civil. #emph[Cornelius] fell down before #emph[Peter] with conceit of some divine excellency in him, and was not allowed: his manner of worshiping was divine. The jailor fell down before #emph[Paul] and #emph[Silas] in acknowledgment of some outward eminency in them, and was not reproved: his manner of worshipping was merely civil. The same gesture may be performed to different persons with a different respect. A child may kneel to his parent, and to the king. Yet it followeth not that he maketh his parent a king. Neither will it follow that by kneeling to his parent he maketh him a God, because men kneel to God.
 
 === §. 10. #emph[Of the vices contrary to childrens reverend gesture towards their parents.]
 

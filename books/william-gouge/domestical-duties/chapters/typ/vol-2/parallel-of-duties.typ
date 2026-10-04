@@ -35,7 +35,7 @@ TREAT. IV.
 + A wise maintaining his authority, and forbearing to exact all that is in his power, §. 4, 18.
 + A ready yielding to his wives request, and giving a general consent and liberty unto her to order the affairs of the house, children, servants, etc. And a free allowing her something to bestow as she seeth occasion, §. 18, 54.
 + A forbearing to exact more then his wife is willing to do, or to force her to dwell where it is not meet, or to enjoin her to do things unmeet in themselves, or against her mind, §. 18, 26.
-+ A wise ordering of reproof: not using it without just and weighty cause, and then privatly, and meekly, §. 35, 38.
++ A wise ordering of reproof: not using it without just and weighty cause, and then privately, and meekly, §. 35, 38.
 + A provident care for his wife, according to his ability, §. 46, 49, 50, 52.
 + A forbearing to exact any thing which stands not with a good conscience, §. 26.
 + Such a love, as Christ beareth to the Church, and man to himself, which is first free, in deed, and truth, pure, chaste, constant, §. 61, etc. and 74.

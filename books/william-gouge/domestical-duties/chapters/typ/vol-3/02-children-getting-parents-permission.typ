@@ -57,7 +57,7 @@ Contrary is the opinion of Papists, who say, that children may #footnote[36\. #e
 
 #emph[Answ.] 1. This is jump the Pharisees Corban, whereof Christ maketh mention, #emph[Mar.] 7. 11. And whereby he notably discovereth the hypocrisy of the Pharisees, who made pretence of religion, an hindrance to that obedience which God required of children.
 
-2. To pray for that which a man indevoureth not to do, when he may do it, is a plain mocking of God.
+2. To pray for that which a man endeavoureth not to do, when he may do it, is a plain mocking of God.
 
 The arguments which they allege for confirmation of their erroneous opinion, are taken from extraordinary examples, or from mystical resemblances, as
 

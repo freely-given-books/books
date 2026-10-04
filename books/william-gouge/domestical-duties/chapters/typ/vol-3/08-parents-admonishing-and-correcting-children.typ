@@ -21,7 +21,7 @@ The apprehension of children is fickle, and their memory weak: if they be but on
 
 For the better performing of this duty, parents must think of the best means they can to fasten their instructions upon their children: and observe their inclination and disposition, and see with what they are most moved. Constant exhortations, and powerful persuasions are comprised under admonition, which in their kinds, as occasion requireth, are to be used.
 
-=== §. 43. #emph[Of parents wearisomness in instructing their children.]
+=== §. 43. #emph[Of parents wearisomeness in instructing their children.]
 
 Contrary is the practise of those parents who soon wax weary in instructing their children. The Apostle laieth it down as a general caveat in good duties that we #emph[wax not] #footnote[#emph[Gal.] 6. 9.] #emph[weary:] if in no good thing we must wax weary, shall parents wax weary in doing good to their children? Yet how many be there that having once taught their children, think they have done duty enough in that kind: if their children will take it, they may. They are loth to take too much pains in often urging the points which they have taught them.
 
@@ -71,11 +71,11 @@ It is further commended by Gods own example, which is not only set forth in some
 
 The grounds of the equity of this duty, respect partly the #footnote[Reasons to move parents to correct.] children corrected, and partly the parents that correct. In regard of children, it freeth them from much evil, and worketh in them much good.
 
-Correction is as physic to purge out much corruption #footnote[1\. Benefits of correction to the parties corrected.] which lurketh in children, and as a salve to heal many wounds and sores made by their folly. In which respect #emph[Solomon] saith, that #footnote[#emph[Pro.] 22. 15.] #emph[Foolishness is bound in the heart of a child, but the rod of correction shall drive it far from him:] and again, #footnote[#emph[&] 20. 30.] #emph[The blewness of a wound is a purging medicine against evil: so do stripes the inward parts of the belly.] In regard of the inward operation of this physic, correction is further said to preserve a child from death, (#footnote[#emph[Pro.] 23. 13.] #emph[if thou beatest him he shall not die)] and that not only from temporal death (as many children are thus preserved from the Magistrates sword) but also from eternal death (#footnote[#emph[Vers.] 14.] #emph[thou shalt deliver his soul from hell.)] note this ye cockering parents, whose over-much lenity is very great cruelty. For may we not justly count him a cruel parent, that should suffer diseases, boils, sores, and wounds to remain, increase, and fester in his child, and give him no physic, nor apply any plaisters, or medicines to him? Nay rather who seeth his son running into a flaming fire, or deep water, and would not hold him back? Even so cruel, and more cruel are they, who suffer their children to run on in evil, rather then correct them.
+Correction is as physic to purge out much corruption #footnote[1\. Benefits of correction to the parties corrected.] which lurketh in children, and as a salve to heal many wounds and sores made by their folly. In which respect #emph[Solomon] saith, that #footnote[#emph[Pro.] 22. 15.] #emph[Foolishness is bound in the heart of a child, but the rod of correction shall drive it far from him:] and again, #footnote[#emph[&] 20. 30.] #emph[The blueness of a wound is a purging medicine against evil: so do stripes the inward parts of the belly.] In regard of the inward operation of this physic, correction is further said to preserve a child from death, (#footnote[#emph[Pro.] 23. 13.] #emph[if thou beatest him he shall not die)] and that not only from temporal death (as many children are thus preserved from the Magistrates sword) but also from eternal death (#footnote[#emph[Vers.] 14.] #emph[thou shalt deliver his soul from hell.)] note this ye cockering parents, whose over-much lenity is very great cruelty. For may we not justly count him a cruel parent, that should suffer diseases, boils, sores, and wounds to remain, increase, and fester in his child, and give him no physic, nor apply any plaisters, or medicines to him? Nay rather who seeth his son running into a flaming fire, or deep water, and would not hold him back? Even so cruel, and more cruel are they, who suffer their children to run on in evil, rather then correct them.
 
 #strong[#emph[Object.] Who can endure to make his own child smart, and to put him to pain?]
 
-#emph[Answ.] The future fruit is more to be considered, then the present pain. Potions, pills, and corasives, are fulsome, bitter, and painful; but because there is a necessity of using them, and great mischief is prevented by the use of them, wise parents will not forbear them for the sensible bitterness, and pain. Fitly doth the Apostle thus answer that objection, #emph[No chastning for the] #footnote[#emph[Heb.] 12. 11.] #emph[present seemeth to be joyous, but grievous; nevertheless, afterward it yieldeth the peaceable fruit of righteousness.] This may be applied to parents corrections as well as to Gods.
+#emph[Answ.] The future fruit is more to be considered, then the present pain. Potions, pills, and corrosives, are fulsome, bitter, and painful; but because there is a necessity of using them, and great mischief is prevented by the use of them, wise parents will not forbear them for the sensible bitterness, and pain. Fitly doth the Apostle thus answer that objection, #emph[No chastning for the] #footnote[#emph[Heb.] 12. 11.] #emph[present seemeth to be joyous, but grievous; nevertheless, afterward it yieldeth the peaceable fruit of righteousness.] This may be applied to parents corrections as well as to Gods.
 
 The good which correction bringeth to children, is by #emph[Solomon] noted in this and such like phrases, #emph[The rod giveth wisdom:] #footnote[#emph[Pro.] 29. 15.] for it maketh children observe, what is good, and what evil; what commendable, and what blame-worthy: and accordingly to do the good, and leave the evil, which is a great point of wisdom.
 
@@ -95,11 +95,11 @@ The quiet which is brought to parents by correcting their children, is thus note
 
 === §. 47. #emph[A direction to parents in correcting their children.]
 
-For well using this biting corasive of correction, parents must have respect to the #emph[matter] for which they do correct, and to their #emph[manner] of correcting.
+For well using this biting corrosive of correction, parents must have respect to the #emph[matter] for which they do correct, and to their #emph[manner] of correcting.
 
 In regard of the matter, these three things must be noted. #footnote[Three things noted in the matter, for which correction is to be given.]
 
-1. That they be sure there is a fault committed: that so there be just cause of correcting: else more hurt then good will proceed from thence. If a corasive be laid where there is no sore, it will make one. If correction be unjustly given, it may provoke to wrath, but will do little good. This is it wherein earthly fathers are taxed, and made unlike to God, for that many times they #emph[correct after their own pleasure:] which is a point of great injustice. #footnote[#emph[Heb.] 12. 10.]
+1. That they be sure there is a fault committed: that so there be just cause of correcting: else more hurt then good will proceed from thence. If a corrosive be laid where there is no sore, it will make one. If correction be unjustly given, it may provoke to wrath, but will do little good. This is it wherein earthly fathers are taxed, and made unlike to God, for that many times they #emph[correct after their own pleasure:] which is a point of great injustice. #footnote[#emph[Heb.] 12. 10.]
 
 2. That the fault be made known to the child corrected: and he apparently convinced thereof. Correction must be for instruction, which cannot be, except the child know why he is corrected: for it is all one to him, as if he were corrected for no fault, if he know not his fault. God thus a first proceeded with the serpent, #footnote[#emph[Gen.] 3. 11, #emph[etc.]] with #emph[Eve,] and with #emph[Adam.] Thus Judges proceed in punishing malefactors. Yea thus will men deal with a dog. Should they not much more with a child?
 
@@ -142,7 +142,7 @@ Mothers for the most part offend herein, who are so far from performing this dut
 
 #emph[Answ.] If Gods spirit deserve to have more credence then such foolish women, that objection is most false, for we heard #footnote[§. 46.] before how correction giveth wisdom, and driveth out foolishness.
 
-2. #emph[Object.] mothers may be the more borne with herein, because with long trouble they did bear, and with great travel bring forth their children.
+2. #emph[Object.] mothers may be the more born with herein, because with long trouble they did bear, and with great travel bring forth their children.
 
 #emph[Answ.] That may be a good motive for them to seek the true good of their children, that so their trouble and travel may not be in vain: but not to uphold them in the broad way that leadeth to destruction.
 

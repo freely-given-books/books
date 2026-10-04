@@ -71,7 +71,7 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 #emph[Answ.] No, not without the free consent of the servants themselves: for marriages must be made with the free consent of the parties that are married.
 
-#emph[Object.] The law implieth that a master hath power to give #footnote[#emph[Exo.] 21. 4.] his servant a wife, for it showeth whose those children shall be that are borne to that servant, to whom a master hath given a wife.
+#emph[Object.] The law implieth that a master hath power to give #footnote[#emph[Exo.] 21. 4.] his servant a wife, for it showeth whose those children shall be that are born to that servant, to whom a master hath given a wife.
 
 #emph[Answ.] 1. That law is to be understood of such servants as being strangers were bond-slaves, over whom masters had a more absolute power then over others.
 

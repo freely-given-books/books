@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 845 |
-| emendation | 145 |
-| grammar | 123 |
+| spelling | 943 |
+| emendation | 147 |
+| grammar | 133 |
 | punctuation | 93 |
 | case | 51 |
 | spacing | 23 |
+| expansion | 21 |
 | italic | 19 |
-| expansion | 18 |
-| gap | 13 |
+| gap | 16 |
 | split | 6 |
 | list | 4 |
 | note moved | 2 |
@@ -40,10 +40,13 @@
 - [vol-2/07-serving-together-in-family-ministry.typ] do → no
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ] sought → ought
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] of → if
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gld → gold
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ovught → ought
 - [vol-3/02-children-getting-parents-permission.typ] to → so
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] lieth → liveth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Deut → Deus
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] elizabeth → Elizabeth
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] begineth → beginneth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ft → fit
 
 ## expansion
@@ -61,6 +64,9 @@
 - [vol-2/04-living-together-in-love.typ note] maximun → maximum
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] addendun → addendum
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] Tutun → Tutum
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] conmandement → commandment
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] conpany → company
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] fron → from
 - [vol-3/04-children-giving-back-to-parents.typ note] patren → patrem
 - [vol-3/04-children-giving-back-to-parents.typ note] vicinun → vicinum
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Spiritun → Spiritum
@@ -105,6 +111,8 @@
 - [vol-1/07-marital-love-and-self-love.typ] otheralso → other also
 - [vol-1/07-marital-love-and-self-love.typ] wisestmen → wisest men
 - [vol-1/07-marital-love-and-self-love.typ] I doll → Idol
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] In couragement → Encouragement
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
 - [vol-2/01-seeking-marriage.typ note] Sivis → Si vis
 - [vol-2/01-seeking-marriage.typ] saidto → said to
 - [vol-2/01-seeking-marriage.typ] Apostlereckoneth → Apostle reckoneth
@@ -217,18 +225,18 @@
 
 ## grammar
 
+- begineth → beginneth (×9)
 - enioyneth → enjoineth (×9)
+- infereth → inferreth (×8)
 - joyneth → joineth (×8)
 - kniteth → knitteth (×8)
 - rendreth → rendereth (×8)
-- begineth → beginneth (×7)
 - laieth → layeth (×7)
 - lyeth → lieth (×7)
 - deserueth → deserveth (×5)
 - inioyneth → enjoineth (×5)
 - aduiseth → adviseth (×4)
 - commiteth → committeth (×3)
-- infereth → inferreth (×3)
 - obserueth → observeth (×3)
 - prefereth → preferreth (×3)
 - stireth → stirreth (×3)
@@ -255,7 +263,10 @@
 - decaieth → decayeth
 - diddest → didst
 - entreth → entereth
+- forgeteth → forgetteth
+- indevoureth → endeavoureth
 - marieth → marrieth
+- permiteth → permitteth
 - praieth → prayeth
 - preserueth → preserveth
 - raigneth → reigneth
@@ -400,13 +411,13 @@
 
 ## spelling
 
+- borne → born (×62)
 - paine → pain (×24)
 - sharpe → sharp (×13)
 - Angell → Angel (×11)
 - 3 → 3. (×10)
 - Iam → Jam (×9)
 - Reu → Rev (×8)
-- borne → born (×8)
 - 4 → 4. (×7)
 - president → precedent (×7)
 - marvell → marvel (×6)
@@ -419,6 +430,7 @@
 - Friers → Friars (×4)
 - Gen → Gen. (×4)
 - hainousness → heinousness (×4)
+- indeavour → endeavour (×4)
 - pitty → pity (×4)
 - ravisht → ravished (×4)
 - thorow → thorough (×4)
@@ -439,6 +451,8 @@
 - steed → stead (×3)
 - stolne → stolen (×3)
 - tenn → ten (×3)
+- unsetled → unsettled (×3)
+- wearisomness → wearisomeness (×3)
 - 10 → 10. (×2)
 - 12 → 12. (×2)
 - 19 → 19. (×2)
@@ -469,6 +483,7 @@
 - bruit → brute (×2)
 - burthensome → burdensome (×2)
 - conceipt → conceit (×2)
+- corasive → corrosive (×2)
 - deere → dear (×2)
 - deliberatly → deliberately (×2)
 - doatage → dotage (×2)
@@ -487,9 +502,11 @@
 - houswife → housewife (×2)
 - imploied → employed (×2)
 - inlightned → enlightened (×2)
+- intreaty → entreaty (×2)
 - joynter → jointure (×2)
 - kitchin → kitchen (×2)
 - left → lest (×2)
+- meaness → meanness (×2)
 - miscariage → miscarriage (×2)
 - mony → money (×2)
 - morter → mortar (×2)
@@ -498,8 +515,11 @@
 - patheticall → pathetical (×2)
 - peruersness → perverseness (×2)
 - pittifull → pitiful (×2)
+- privatly → privately (×2)
 - relique → relic (×2)
+- reprooving → reproving (×2)
 - sant → sunt (×2)
+- sawciness → sauciness (×2)
 - sory → sorry (×2)
 - tenour → tenor (×2)
 - toile → toil (×2)
@@ -614,6 +634,7 @@
 - Solemat → Solemn
 - Soveraignes → Sovereigns
 - Stevens → Stephens
+- Stomachfull → Stomachful
 - Stubborness → Stubbornness
 - Sucton → Sueton
 - Taylors → Tailors
@@ -631,6 +652,7 @@
 - Vers → Vers.
 - Virginea → Virginia
 - Wastfully → Wastefully
+- Welbeloved → Well-beloved
 - Wherupon → Whereupon
 - accurat → accurate
 - ae → a
@@ -659,11 +681,15 @@
 - baptiscth → baptizeth
 - bard → barred
 - barre → bar
+- bedred → bedrid
+- beevishness → peevishness
 - begger → beggar
 - bels → bells
 - besmeered → besmeared
+- beter → better
 - biosterous → boisterous
 - blaspliemies → blasphemies
+- blewness → blueness
 - blockishnese → blockishness
 - boared → bored
 - boaring → boring
@@ -672,13 +698,16 @@
 - boone → boon
 - borow → borrow
 - borowing → borrowing
+- boulster → bolster
 - boulstered → bolstered
 - boulstred → bolstered
+- boulstring → bolstering
 - bourd → bound
 - bredth → breadth
 - breutum → breuium
 - busibodies → busybodies
 - c → c.
+- caling → calling
 - cam → eam
 - carkase → carcass
 - catcht → catched
@@ -698,6 +727,7 @@
 - comprize → comprise
 - conscienc → conscience
 - continuali → continual
+- corasives → corrosives
 - corps → corpse
 - corrupton → corruption
 - cosens → cousins
@@ -708,6 +738,7 @@
 - creare → create
 - creast → crease
 - cum → eum
+- cunny → coney
 - daines → dames
 - daliance → dalliance
 - dampt → damped
@@ -762,6 +793,7 @@
 - gats → gates
 - gauling → galling
 - genetive → genitive
+- geslure → gesture
 - glimps → glimpse
 - goshipping → gossiping
 - grienous → grievous
@@ -799,6 +831,8 @@
 - imploying → employing
 - incarnat → incarnate
 - incesluosis → incestuosis
+- incumbred → encumbered
+- indeavouring → endeavouring
 - indow → endow
 - inheretrix → inheritrix
 - iniuslè → iniustè
@@ -820,6 +854,7 @@
 - irkesome → irksome
 - irrationabilla → irrationabilia
 - its → it's
+- jaylor → jailor
 - jealously → jealousy
 - jointer → jointure
 - journies → journeys
@@ -837,8 +872,11 @@
 - lillies → lilies
 - lims → limbs
 - linage → lineage
+- lothness → loathness
 - loynes → loins
+- mafested → manifested
 - malepartness → malapertness
+- malipartness → malapertness
 - malitious → malicious
 - mariagebed → marriage-bed
 - masters → master
@@ -850,6 +888,7 @@
 - mispend → misspend
 - mispent → misspent
 - mistris → mistress
+- murthering → murdering
 - must → just
 - must → most
 - nearely → nearly
@@ -894,7 +933,8 @@
 - praestitiss → praestitisse
 - prancke → prank
 - prince → price
-- privatly → privately
+- privat → private
+- profanenss → profaneness
 - pronider → provider
 - purchaesing → purchasing
 - quast → quaest
@@ -906,14 +946,15 @@
 - relinquisht → relinquished
 - remisnes → remissness
 - requirety → requireth
+- revenewes → revenues
 - revererend → reverend
 - revetence → reverence
+- revoulted → revolted
 - rubrick → rubric
 - ruptias → nuptias
 - sacriledge → sacrilege
 - saulation → salvation
 - savory → savoury
-- sawciness → sauciness
 - scarp → scrap
 - schismatiques → schismatics
 - scoales → scales
@@ -1004,5 +1045,6 @@
 - withdrawen → withdrawn
 - wives → wives.
 - wondred → wondered
+- wordlings → worldlings
 - yron → iron
 

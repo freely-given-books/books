@@ -33,7 +33,7 @@ It is not, because there is no matter of hatred in the Church, #footnote[Reason.
 
 Admirable is the comfort which every true member of the #footnote[1\. #emph[Use.] Comfort.] Catholic Church may reap from hence: for so long as the wrath and hatred of the Lord is turned from us, nothing can make us miserable: we may in this respect rejoice not only in prosperity, but also in all manner of affliction. No calamity can move Christ to hate his Church, but rather the more to pity it, as we do our bodies. Nay, though by sin he be provoked, and see it needful to correct his Church, yet in love, not in hatred, in mercy, not in wrath will he correct it.
 
-What now if all the world have us? Seeing Christ hateth #footnote[2\. #emph[Use.] In couragement.] us not, we need not fear nor care. The subject which is sure of his Kings favour, little regardeth the hatred of others. This therefore is to be thought of, both to comfort us under the cross, and to encourage us against the hatred of the world. That none may pervert this comfortable doctrine, let me add two caveats.
+What now if all the world have us? Seeing Christ hateth #footnote[2\. #emph[Use.] Encouragement.] us not, we need not fear nor care. The subject which is sure of his Kings favour, little regardeth the hatred of others. This therefore is to be thought of, both to comfort us under the cross, and to encourage us against the hatred of the world. That none may pervert this comfortable doctrine, let me add two caveats.
 
 1. That men deceive not themselves with a naked name, thinking themselves to be #emph[of] the Church, when they are only #emph[in] it, #footnote[#emph[Jer.] 12. 8.] such may Christ hate.
 
@@ -230,7 +230,7 @@ Hitherto of the union it self. The means of effecting it, remain to be handled.
 
 This clause declareth the means whereby we come to be members of Christ, namely by receiving a new #emph[being] from Christ, which is to be, not of the flesh, and of the bones of #emph[Adam,] but of the flesh and of the bones of Christ, which being spiritually taken, as hath been expounded #footnote[§. 70.] before, showeth that
 
-#emph[They who are true members of Christ body, are truly regenerate.] #footnote[Doct.] #emph[If any be in Christ he is a new creature:] these words are so #footnote[2 #emph[Cor.] 5. 17..] laid down by the Apostle, as they serve both for a demonstration, and an exhortation #emph[(he is,] or #emph[let him be a new creature)] neither is expressed, but either, or both may be understood. #emph[As many of you as have been baptized into Christ] (that is, made #footnote[#emph[Gal.] 3. 27.] members of this body) #emph[have put on Christ,] (that is, have been borne again) the first branch noteth out our incorporation into Christ, the latter our regeneration.
+#emph[They who are true members of Christ body, are truly regenerate.] #footnote[Doct.] #emph[If any be in Christ he is a new creature:] these words are so #footnote[2 #emph[Cor.] 5. 17..] laid down by the Apostle, as they serve both for a demonstration, and an exhortation #emph[(he is,] or #emph[let him be a new creature)] neither is expressed, but either, or both may be understood. #emph[As many of you as have been baptized into Christ] (that is, made #footnote[#emph[Gal.] 3. 27.] members of this body) #emph[have put on Christ,] (that is, have been born again) the first branch noteth out our incorporation into Christ, the latter our regeneration.
 
 This second man, and last #emph[Adam] Christ Jesus is #emph[a quickening] #footnote[Reason.] #emph[spirit:] he diffuseth life and grace into all his members: if his #footnote[1 #emph[Cor.] 15. 45. #emph[Rom.] 8. 11.] spirit be in us, it will #emph[quicken our mortal bodies.] If the head of our natural bodies conueigh sense into all our members: if the root of a tree diffuse sap into all the branches: shall not Christ much more give life to all his members?
 
@@ -248,7 +248,7 @@ This relative particle (HIS) twice repeated #emph[(of] HIS #emph[flesh,] #emph[a
 
 The father is (as I may so speak) the beginner of this work. His will it was that his son should be the head of a body, and that there should members be made fit for that head, and have a new being #emph[(of his own will begat he us)] for #footnote[#emph[Jam.] 1. 18.] this end he sent his son into the world to be made flesh. The son put in execution the will of his father: he took flesh upon him, that we might be #emph[of his flesh.] Thus saith Christ of himself, #emph[I came down from heaven to do the will of him that] #footnote[#emph[Joh.] 6. 38, 39.] #emph[sent me; And this is the fathers will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.] The Spirit applieth unto us the virtue and efficacy of the flesh of Christ, and so finisherh this blessed work. #emph[It is the Spirit that quickneth: the flesh profiteth nothing,] #footnote[#emph[Joh.] 6. 63.] namely, of it self without the Spirit.
 
-Thus we see that the applying of this work of regeneration unto Christ, excludeth not the work of the father, or of the Holy Ghost therein, but excludeth the work of man: so as it is not of our selves, nor of our parents, nor of any other man: for we are borne #emph[not of blood, nor of the will of the flesh, nor of the will of man, but of God:] in which respect our new birth #footnote[#emph[Joh.] 1. 13.] is said to be #emph[from above.]
+Thus we see that the applying of this work of regeneration unto Christ, excludeth not the work of the father, or of the Holy Ghost therein, but excludeth the work of man: so as it is not of our selves, nor of our parents, nor of any other man: for we are born #emph[not of blood, nor of the will of the flesh, nor of the will of man, but of God:] in which respect our new birth #footnote[#emph[Joh.] 1. 13.] is said to be #emph[from above.]
 
 #emph[Object.] How is it then attributed to the word, and to the #footnote[#emph[Joh.] 3. 3.] ministry of man? #footnote[How regeneration is attributed to the word, and to Ministers thereof.]
 
@@ -300,7 +300,7 @@ The bond is now much nearer.
 
 3. The #emph[being] which then we had, was from #emph[Adam:] But the #emph[being] which now we have is from Christ, #emph[of] HIS #emph[flesh.]
 
-4. That being was but #emph[natural.] This is #emph[spiritual:] for #emph[that] #footnote[#emph[Joh.] 3. 6.] #emph[which is borne of the Spirit, is Spirit.]
+4. That being was but #emph[natural.] This is #emph[spiritual:] for #emph[that] #footnote[#emph[Joh.] 3. 6.] #emph[which is born of the Spirit, is Spirit.]
 
 5. Then our being was different from Christs: but now it is the very same with Christs, #emph[Of his flesh.]
 
