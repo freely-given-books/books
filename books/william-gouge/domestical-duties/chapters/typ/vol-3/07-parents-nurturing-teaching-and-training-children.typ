@@ -57,7 +57,7 @@ The Holy Ghost having thus urged the point of #emph[good manners,] we may not th
 
 4. #emph[Object.] Many that make great show of religion are very rude, and unmannerly.
 
-#emph[Answ.] If there be only a show of religion in them, no marvell that they have no manners. If some examples of such as are truly religious and want good manners should be showed, their pattern is no president, much less can it prove that to be no duty which Gods word hath set down for a duty. Many that well perform some duties, much fail in other duties. Who almost followeth Gods word as he should in every thing?
+#emph[Answ.] If there be only a show of religion in them, no marvel that they have no manners. If some examples of such as are truly religious and want good manners should be showed, their pattern is no president, much less can it prove that to be no duty which Gods word hath set down for a duty. Many that well perform some duties, much fail in other duties. Who almost followeth Gods word as he should in every thing?
 
 === §. 30. #emph[Of parents suffering their children to be rudely brought up.]
 
@@ -95,7 +95,7 @@ Much good may from hence arise to parents themselves, to their children, and to 
 
 The point in general being declared to be a duty, I will #footnote[Directions for choice of callings. 1. General principles are to be taught.] add some directions for the better performing of it.
 
-1. Children are to be trained up in those things which are the ground work of all callings, as #emph[reading, writing, and principles of learning.] Whatsoever the particular calling be, these will be of great use to any one. Many that have not been taught them at first, would give much for them afterwards. Parents at the first might teach their children those things with much ease and small charge, which afterwards cannot be #footnote[#emph[Non sunt contemnenda quasi parua, sine quibus magna constare non possunt.] Hier. #emph[ad Laet.] 2. The calling must be lawful.] so well learned, partly for want of leasure, and partly because the parts of those who are grown in years are not so fresh and fit to learn, as in child-hood they were. Those things are not to be contemned as small, without which great things cannot stand.
+1. Children are to be trained up in those things which are the ground work of all callings, as #emph[reading, writing, and principles of learning.] Whatsoever the particular calling be, these will be of great use to any one. Many that have not been taught them at first, would give much for them afterwards. Parents at the first might teach their children those things with much ease and small charge, which afterwards cannot be #footnote[#emph[Non sunt contemnenda quasi parua, sine quibus magna constare non possunt.] Hier. #emph[ad Laet.] 2. The calling must be lawful.] so well learned, partly for want of leisure, and partly because the parts of those who are grown in years are not so fresh and fit to learn, as in child-hood they were. Those things are not to be contemned as small, without which great things cannot stand.
 
 2. The calling whereunto children are trained up must be lawful, approved by Gods word, and not against the general rules thereof: so may they keep a good conscience in the exercise thereof.
 
