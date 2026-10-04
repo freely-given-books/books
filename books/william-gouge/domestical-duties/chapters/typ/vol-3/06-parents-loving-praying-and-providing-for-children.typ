@@ -351,15 +351,15 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 1. #emph[Answ.] God requireth no impossibilities: wherefore in propounding the duty I put in this caution #emph[(so far as they are able.)]
 
-2. God requireth #emph[mercy, and not sacrifice:] if therefore in #footnote[#emph[Hos.] 6. 6. #emph[Matt.] 9. 13.] truth it be so that the mothers giving suck to the child will be dangerous to her self or to the child, she may and ought to forbear: for giving suck is but as #emph[sacrifice] to preventing of danger, which is #emph[mercy.] But women must take heed that they pretend not inability, and danger without just cause. Some are themselves the cause of wanting milk because they will not let it be drawn down; or because they will not use means (for means there are) to get and increase milk. There are means also to raise nipples where the breasts are very flat. Refusing to give suck many times causeth some sickishness in a woman, and sore breasts, which might be prevented with the childes sucking. If the foreness be only in the nipples, a mother with enduring a little more pain may safely give the child suck. Many mothers have given their children suck when blood hath run by the mouth of the child by reason of sore nipples, and yet both mother and child done very well.
+2. God requireth #emph[mercy, and not sacrifice:] if therefore in #footnote[#emph[Hos.] 6. 6. #emph[Matt.] 9. 13.] truth it be so that the mothers giving suck to the child will be dangerous to her self or to the child, she may and ought to forbear: for giving suck is but as #emph[sacrifice] to preventing of danger, which is #emph[mercy.] But women must take heed that they pretend not inability, and danger without just cause. Some are themselves the cause of wanting milk because they will not let it be drawn down; or because they will not use means (for means there are) to get and increase milk. There are means also to raise nipples where the breasts are very flat. Refusing to give suck many times causeth some sickishness in a woman, and sore breasts, which might be prevented with the childes sucking. If the soreness be only in the nipples, a mother with enduring a little more pain may safely give the child suck. Many mothers have given their children suck when blood hath run by the mouth of the child by reason of sore nipples, and yet both mother and child done very well.
 
 #strong[12. #emph[Object.] Divers children being nursed by the mother have died one after another.]
 
-#emph[Answ.] Due and thorough search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain even must not be an hindrance to a known duty.
+#emph[Answ.] Due and thorough search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain event must not be an hindrance to a known duty.
 
 Thus the answering of the forenamed objections maketh the point so much the more clear.
 
-=== §. 14. #emph[Of the fathers duty in incouraging his wife to nurse her child.]
+=== §. 14. #emph[Of the fathers duty in encouraging his wife to nurse her child.]
 
 The duty which on a fathers part in this respect is required, is that he encourage his wife, and help her with all needful things for the performance of this duty. It is noted of #emph[Elkanah,] that he suffered his wife to tarry at home while she gave suck to her son, and would not force her to go up to the tabernacle as his other wife did, but gave her all the ease and content he could, saying to her, #emph[Do what seemeth thee good.] #footnote[1 #emph[Sam.] 1. 23.] And of #emph[Abraham] it is noted, that after #emph[Sarah] had done giving the child suck, #emph[he made a great feast,] even #emph[the day that] #footnote[#emph[Gen.] 21. 8.] #emph[Isaac was weaned:] one end whereof was to testify his rejoicing for Gods blessing on her motherly duty so well performed.
 
@@ -376,7 +376,7 @@ Contrary to this duty do all such mothers offend, as for any by-respects when no
 
 === §. 16. #emph[Of a fathers fault in hindering his wives nursing of her child.]
 
-To the forenamed fault of mothers do all such fathers make themselves accessary, as forbid their wives to nurse their children, or are a grief to them by their complaints of trouble, disquiet and expence: or afford not things needful, or do not encourage them all they can to do it. The mothers both pain and pains is the greatest: it is in comparison but a small thing that fathers can endure therein. Their fault therefore must needs be the greater, if any way they be an occasion of their childes putting forth to nurse: which I have the rather noted, because husbands for the most part are the cause that their wives nurse not their own children: and that partly by suffering, and partly by egging them on to put out their children. If husbands were willing that their wives should perform this duty, and would persuade and encourage them thereto, and afford them what helps they could, where one mother now nurseth her child, twenty would do it.
+To the forenamed fault of mothers do all such fathers make themselves accessary, as forbid their wives to nurse their children, or are a grief to them by their complaints of trouble, disquiet and expense: or afford not things needful, or do not encourage them all they can to do it. The mothers both pain and pains is the greatest: it is in comparison but a small thing that fathers can endure therein. Their fault therefore must needs be the greater, if any way they be an occasion of their childes putting forth to nurse: which I have the rather noted, because husbands for the most part are the cause that their wives nurse not their own children: and that partly by suffering, and partly by egging them on to put out their children. If husbands were willing that their wives should perform this duty, and would persuade and encourage them thereto, and afford them what helps they could, where one mother now nurseth her child, twenty would do it.
 
 === §. 17. #emph[Of parents joint care about their childrens Baptism.]
 
@@ -394,9 +394,9 @@ This is indeed a common duty appertaining to both parents, but most principally 
 
 That parents are bound to procure Baptism for their children these reasons declare.
 
-1. The #emph[commandment of God] concerning circumcising #footnote[#emph[Veraciter conijcere possumus quid valeat in parvulis baptismi sacramentum ex circumcision, etc. Aug. de Bap. l.] 5. #emph[c.] 24. #emph[Gen.] 21. 4. #emph[Luk.] 1. 59. #emph[&] 2. 21. #emph[Jos.] 5. 5.] children: in the room whereof Baptism succeedeth now under the Gospel #emph[(Col.] 2. 11, 12.) Gods commandment to this duty was first given to #emph[Abraham:] and that for himself and all his posterity to observe #emph[(Gen.] 17. 10.) After this it was in the law laid down as a positive statute, #emph[Leu.] 12. 3.
+1. The #emph[commandment of God] concerning circumcising #footnote[#emph[Veraciter conijcere possumus quid valeat in parvulis baptismi sacramentum ex circumcisione, etc. Aug. de Bap. l.] 5. #emph[c.] 24. #emph[Gen.] 21. 4. #emph[Luk.] 1. 59. #emph[&] 2. 21. #emph[Jos.] 5. 5.] children: in the room whereof Baptism succeedeth now under the Gospel #emph[(Col.] 2. 11, 12.) Gods commandment to this duty was first given to #emph[Abraham:] and that for himself and all his posterity to observe #emph[(Gen.] 17. 10.) After this it was in the law laid down as a positive statute, #emph[Leu.] 12. 3.
 
-2. The #emph[practise of the Jews] in a faithful and constant observance of this ordinance: as of #emph[Abraham;] of #emph[Zachary] and #emph[elizabeth:] of #emph[Joseph] and #emph[Mary,] and many others.
+2. The #emph[practise of the Jews] in a faithful and constant observance of this ordinance: as of #emph[Abraham;] of #emph[Zachary] and #emph[Elizabeth:] of #emph[Joseph] and #emph[Mary,] and many others.
 
 #strong[#emph[Object.] The children which were borne in the wilderness were not circumcised.]
 
@@ -410,11 +410,11 @@ That parents are bound to procure Baptism for their children these reasons decla
 
 6. The #emph[right they have to Gods Kingdom.] Baptism is an #footnote[#emph[Mat.] 19. 14.] evidence of that their right. It is parents duty to get them that evidence. If children have just title to any lands and revenues, or to any earthly honours and dignities, parents will do what they can to make that title sure unto them even in their infancy: much more careful should they be to make that rich and glorious inheritance, which is in heaven reserved for them, as sure unto them as they can: now no better means for the effecting of this then Baptism.
 
-7. Their #emph[conception and birth in sin.] children drew contagion #footnote[#emph[Psal.] 51. 5.] from their parents: therefore great reason it is that their parents should see them washed with the water of regeneration.
+7. Their #emph[conception and birth in sin.] Children drew contagion #footnote[#emph[Psal.] 51. 5.] from their parents: therefore great reason it is that their parents should see them washed with the water of regeneration.
 
 8. The #emph[comfort] which from the performance of this duty will arise to Christian parents, yea and to the children also themselves when they come to the age of understanding. When parents behold the covenant of God surely sealed and confirmed to their children, they cannot (if at least they bear any love to their children) but much rejoice therein. And it must needs also much comfort the child when (being of understanding) he shall know that from his infancy he hath carried the seal and pledge of his regeneration.
 
-9. The constant continued #emph[custom] of the true catholicke #footnote[Consuetude matris Ecclesiae in] Church, which ever since the Apostles time hath afforded the #footnote[#emph[baptizandis paruulis nequaquam spernenda est. Aug. de Gen. l.] 10. #emph[c.] 23.] sacrament of baptism to children.
+9. The constant continued #emph[custom] of the true catholic #footnote[Consuetudo matris Ecclesiae in] Church, which ever since the Apostles time hath afforded the #footnote[#emph[baptizandis paruulis nequaquam spernenda est. Aug. de Gen. l.] 10. #emph[c.] 23.] sacrament of baptism to children.
 
 === §. 19. #emph[Of Parents procuring their children to be rightly baptized.]
 
@@ -433,7 +433,7 @@ Things of #emph[necessity] are these especially:
 
 2. That it be baptized with the element of water: the only element sanctified to this purpose.
 
-3. That the form prescribed by Christ #emph[(Matth.] 28. 19.) be #footnote[#emph[In Patrem, & in Filium, & in Spiritun Sanctun baptizamur, vt Trinitatis vnun appareat sacramentum: sed in vno nomine quod intelligitur Deut. Hier. in Eph.] 4.] used, #emph[In the name of the father, and of the son, and of the Holy Ghost:] whereby the unity of the Godhead, and trinity of persons is plainly set forth.
+3. That the form prescribed by Christ #emph[(Matth.] 28. 19.) be #footnote[#emph[In Patrem, & in Filium, & in Spiritum Sanctum baptizamur, vt Trinitatis vnum appareat sacramentum: sed in vno nomine quod intelligitur Deus. Hier. in Eph.] 4.] used, #emph[In the name of the Father, and of the Son, and of the Holy Ghost:] whereby the unity of the Godhead, and trinity of persons is plainly set forth.
 
 4. That the proper rite be used of applying the water to the body of the child, so as at least the face of the child may be sprinkled therewith.
 
@@ -456,7 +456,7 @@ It is also evident, that the time of Baptism is the fittest time for giving the 
 - 1\. That their names may be a testimony of their baptism. #footnote[Why the name is given at baptism.]
 - 2\. That so oft as they hear their names, they may be put in mind of their baptism.
 - 3\. That they might know how by name they are given to Christ to be his soldiers, and therefore there must be no starting from him.
-- 4\. That they may also be assured, that being baptized with water and the spirit, by name they are registred in heaven.
+- 4\. That they may also be assured, that being baptized with water and the spirit, by name they are registered in heaven.
 
 Now because names are so solemnly given, and of so good use, #footnote[Fit names to be given.] most meet it is that fit names should be given to children. And for proof hereof, let the names which in Scripture are recorded to be given by God himself, and by such holy men and women as were guided by his spirit, be observed; and we shall find them to be holy, sober, and fit names.
 
@@ -474,7 +474,7 @@ For direction to parents in this duty, I will set down some sorts and kinds of n
 
 Though Christians are not so strictly tied to a set day, as the Jews were to the eight day; yet from that strict direction given to the Jews, we may well gather, that it is not meet for Christians to defer the baptizing of their children beyond eight days: for a young child of that age may with more ease, and less danger, be baptized, then circumcised.
 
-The most seasonable time I take to be the day whereon Gods #footnote[Read the rubrick before the form of administering Baptism in our Common Prayer book.] people use in the place where the child is borne, publicly to assemble together to worship God next after the birth of the child, if at least it fall not out within two or three days after, which is somewhat with the soonest both for mother and child.
+The most seasonable time I take to be the day whereon Gods #footnote[Read the rubric before the form of administering Baptism in our Common Prayer book.] people use in the place where the child is borne, publicly to assemble together to worship God next after the birth of the child, if at least it fall not out within two or three days after, which is somewhat with the soonest both for mother and child.
 
 Whether we respect the honour of God (the riches of whose mercy is lively set forth in the sacrament of baptism) or the good of our child (which in that sacrament receiveth a pledge and seal of that rich mercy of God) Baptism is of great consequence: and therefore the first season of performing it to be taken. For parents by their diligence and due speed therein, give evidence both of their zeal to Gods glory, and also of their earnest desire of the childs spiritual good.
 
@@ -484,7 +484,7 @@ Contrary to the forenamed duty of parents about well baptizing their children, a
 
 1. The corrupt opinion of Anabaptists, who deny the lawfulness of baptizing children. The arguments before noted are sufficient to stop their mouths.
 
-2. The practise of Separatists (coming too near to Anabaptism) who excepting against the ministry and orders of our Church, do what they can to keep their children from that Sacrament. And to that end carry their wives ready to be delivered unto a strange place, where they are not known, and anon after they are delivered, privily convey wife, child, and all away, that so the Magistrate may not, against their will, cause their child to be baptized: and having no ministry of their own, nor means to convey the child over sea, keep it many years unbaptized. Where is the evidence of their faith in Gods promise, of their #footnote[Christianorum filij si baptisma non receperint, scelus refertur ad eos qui dare noluerint: maxime eo tempore quo contradicere non pote rant qui accepturi erant. Hier. ad Laet.] respect to Gods ordinance, and of their desire of their childs spiritual good? Though it be a great wrong to children to be kept from baptism, yet the sin lieth on such parents as procure not baptism for their children: especially at that age when their children cannot gainsay it.
+2. The practise of Separatists (coming too near to Anabaptism) who excepting against the ministry and orders of our Church, do what they can to keep their children from that Sacrament. And to that end carry their wives ready to be delivered unto a strange place, where they are not known, and anon after they are delivered, privily convey wife, child, and all away, that so the Magistrate may not, against their will, cause their child to be baptized: and having no ministry of their own, nor means to convey the child over sea, keep it many years unbaptized. Where is the evidence of their faith in Gods promise, of their #footnote[Christianorum filij si baptisma non receperint, scelus refertur ad eos qui dare noluerint: maxime eo tempore quo contradicere non poterant qui accepturi erant. Hier. ad Laet.] respect to Gods ordinance, and of their desire of their childs spiritual good? Though it be a great wrong to children to be kept from baptism, yet the sin lieth on such parents as procure not baptism for their children: especially at that age when their children cannot gainsay it.
 
 3. The perverse opinion and practise of certain ancient heretics, who in stead of baptizing children with water, had them branded with an hot iron. They grounded their error on a false interpretation of this phrase #emph[(he shall baptize with the Holy Ghost and with fire.)] #footnote[#emph[Seleuciani baptismum in aqua non accipiunt. Aug. de Haer.] 59. #emph[Chemnit. harm. Evang. cap.] 16.]
 
@@ -492,11 +492,11 @@ Contrary to the forenamed duty of parents about well baptizing their children, a
 
 2. They err in applying that to the outward action of a Minister, which was meant of the inward operation of Christ. By this their misinterpretation they thwart the main scope of him who first used that phrase, which was to manifest the difference betwixt #footnote[#emph[Sine mysterio Trinitatis quicquid in vnam aut alteram personam accipitur imperfectum est. Hier. in Ioel.] 2.] all other Ministers and Christ Jesus.
 
-4. The opinion and practise of those, who use other forms of Baptism, besides this, #emph[(In the name of the father, and of the son, and of the Holy Ghost.)] Their opinion and practise is grounded on certain concise phrases used by the Apostles: such as these, #emph[Baptized in the name of Jesus Christ: In the name of the Lord: In] #footnote[#emph[Act.] 2. 38. #emph[&] 10. 48. #emph[&] 19. 5.] #emph[the name of the Lord Jesus,] etc.
+4. The opinion and practise of those, who use other forms of Baptism, besides this, #emph[(In the name of the Father, and of the Son, and of the Holy Ghost.)] Their opinion and practise is grounded on certain concise phrases used by the Apostles: such as these, #emph[Baptized in the name of Jesus Christ: In the name of the Lord: In] #footnote[#emph[Act.] 2. 38. #emph[&] 10. 48. #emph[&] 19. 5.] #emph[the name of the Lord Jesus,] etc.
 
 #emph[Answ.] Those phrases rather set forth the very substance and inward matter of Baptism, then the form thereof.
 
-5. Their opinion and practise, who care not by whom their children are baptized, whether heretics, idolaters, laicks, or women: Little do they regard the comfort of conscience, and strength of faith, that ariseth from this; that a lawful Minister in Gods room and name, as Gods ambassador, putteth the seal of God to his covenant.
+5. Their opinion and practise, who care not by whom their children are baptized, whether heretics, idolaters, laics, or women: Little do they regard the comfort of conscience, and strength of faith, that ariseth from this; that a lawful Minister in Gods room and name, as Gods ambassador, putteth the seal of God to his covenant.
 
 6. The practise of those as (I know not upon what niceness or state) must have their children baptized at home in their private house. This manner of baptising taketh away much from the honour of that high ordinance, which ought to be done with all the seemly solemnity that may be.
 
@@ -504,13 +504,13 @@ Contrary to the forenamed duty of parents about well baptizing their children, a
 
 8. Their practise who upon state, or for great witnesses, or such by-respects put off the baptising of their children longer then is meet, some, two or three weeks, some, two or three months, some longer: whereby they show too light esteem of this Sacrament, in that they prefer mere complemental circumstances before a matter of so great moment. God oft showeth his just indignation against such, in taking away their children unbaptised before the time set down by them for baptism be come.
 
-9. Their practise who care not what heathenish, idolatrous, #footnote[Lasciua nomina paruulis baptizandis imponenda non sant. Ioh. de Bur.] ridiculous names they give to their children. What respect do they show either to God in whose name their child is baptised, or to the holy Sacrament it self, or to the congregation of Saints before whom the name is given, or to the child it self who all his life is to carry that name?
+9. Their practise who care not what heathenish, idolatrous, #footnote[Lasciua nomina paruulis baptizandis imponenda non sunt. Ioh. de Bur.] ridiculous names they give to their children. What respect do they show either to God in whose name their child is baptised, or to the holy Sacrament it self, or to the congregation of Saints before whom the name is given, or to the child it self who all his life is to carry that name?
 
 === §. 23. #emph[Of parents providing things needful for the life and health of their children.]
 
 Hitherto of the duties of parents respecting their childrens Infancy. Such as respect their childhood follow.
 
-The childhood of a child is reckoned from the time that it begineth to be of any discretion and understanding till it be ft to be placed forth: even so Many distinguish the whole course of a mans life into four parts.
+The childhood of a child is reckoned from the time that it begineth to be of any discretion and understanding till it be fit to be placed forth: even so Many distinguish the whole course of a mans life into four parts.
 
 - 1\. Childhood
 - 2\. Youth.
@@ -536,11 +536,11 @@ Children must be well
 + #emph[Fed.]
 + #emph[Taught.]
 
-Child-hood from his birth to 14. Years.
+Child-hood from his birth to 14. years.
 
 Youth from 14 to 25.
 
-Man-age from 25. To 50.
+Man-age from 25. to 50.
 
 Old age from thence to his death.
 
@@ -548,13 +548,13 @@ But for better distinguishing the duties which parents are to perform, I follow 
 
 #emph[Feed them in discipline,] saith the Apostle.
 
-Under #emph[nourishment] are comprised all needful things for #footnote[#emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualit as pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
+Under #emph[nourishment] are comprised all needful things for #footnote[#emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
 
 1. #emph[Food,] which Christ taketh for a ruled case. Whence he draweth his argument to show that God will provide for his children. #emph[What father] (saith he) #emph[if his son ask him bread would give him a stone, etc.] Mat. 7. 9, 10, 11.
 
 2. #emph[Apparel,] for it is expressly noted, that Israel made his son a coat, #emph[(Gen.] 37. 3.)
 
-3. #emph[Recreation,] which in young children especially is needful for their health. In that #emph[Zachary] chap. 8. Vers. 5. Told the Jews, and that in way of blessing, that #emph[boys and girls should be playing in the streets,] he implieth that it is a lawful and meet thing, which parents should permit unto their children. But yet the time, and measure, and kind of recreation must be well ordered.
+3. #emph[Recreation,] which in young children especially is needful for their health. In that #emph[Zachary] chap. 8. vers. 5. told the Jews, and that in way of blessing, that #emph[boys and girls should be playing in the streets,] he implieth that it is a lawful and meet thing, which parents should permit unto their children. But yet the time, and measure, and kind of recreation must be well ordered.
 
 4. #emph[Means for recovery of health] when they are sick: for this end was it, that #footnote[1 #emph[King.] 14. 2.] #emph[Jeroboam] sent his wife to the Prophet, in behalf of his son who was sick: that #footnote[#emph[Joh.] 4. 47.] the Ruler came to Christ for his son also who was at point of death; and that many others came to him for their sons and daughters being ill.
 
@@ -568,22 +568,22 @@ Both equity and necessity require thus much of parents.
 
 === §. 24. #emph[Of parents too much niggardliness, and carelessness toward their children.]
 
-There are two extremes contrary to the forenamed provident #footnote[1\. Contrary, Covetousness #emph[Non est boni parentis qucm procrearit, & eduxerit, cum non & vestire & ornare. Cic. de Orat. Nonne ipsae ferae foetus suos arctissimè amant? Nihilne fando de pardis, apris, boumque armentis audijsti, quanto cum tremore eorum saluti consulant? Greg. Naz. ad Ueial.]] care of parents for their childrens good:
+There are two extremes contrary to the forenamed provident #footnote[1\. Contrary, Covetousness #emph[Non est boni parentis quem procrearit, & eduxerit, eum non & vestire & ornare. Cic. de Orat. Nonne ipsae ferae foetus suos arctissimè amant? Nihilne fando de pardis, apris, boumque armentis audijsti, quanto cum tremore eorum saluti consulant? Greg. Naz. ad Ueial.]] care of parents for their childrens good:
 
 In the #emph[defect,] Covetousness.
 
 In the #emph[excess,] Lavishness.
 
-Some parents so far fail in the #emph[defect,] as they almost starve their children through want of necessaries: not affording them sufficient wholesome food, nor meet and comely apparel, but suffer them to go tagged and ragged like beggars brats: if they be sick, God may recover them if he please, but the parents will use no means when they are well, they afford them no time of refreshing themselves by any recreation, but over-strictly hold them in. There is not only want of charity, but plain unnaturalness in such parents: even more then in the most cruel beasts. For the wild beasts do with much tenderness provide for their young ones.
+Some parents so far fail in the #emph[defect,] as they almost starve their children through want of necessaries: not affording them sufficient wholesome food, nor meet and comely apparel, but suffer them to go tagged and ragged like beggars brats: if they be sick, God may recover them if he please, but the parents will use no means: when they are well, they afford them no time of refreshing themselves by any recreation, but over-strictly hold them in. There is not only want of charity, but plain unnaturalness in such parents: even more then in the most cruel beasts. For the wild beasts do with much tenderness provide for their young ones.
 
 === §. 25. #emph[Of parents too much lavishness and indulgency upon their children.]
 
 Others surpass as much in the #emph[excess,] feeding them too daintily: attiring them too garishly: tending them too cockeringly: and letting them spend too much time in sport and play. Many and great are the mischiefs that follow thereupon: as
 
-1. They who are in their childhood daintily fed, and too much pampered, besides that for the most part they are most sickly, they will in time grow so squeamish, and choice of meats, as their parents shall not know what to provide for them, or when to give it them: #emph[The full soul loatheth an hony] #footnote[#emph[Pro.] 27. 7.] #emph[combe:] yea if a stranger cometh to the table, where such a child sitteth, he may soon observe that he hath been too daintily fed. If at first children be fed with ordinary moderate diet, they will afterwards both be in better health and liking, and also more contentedly, and thankfully accept whatsoever shall be provided for them. But excess breedeth diseases both in body and mind.
+1. They who are in their childhood daintily fed, and too much pampered, besides that for the most part they are most sickly, they will in time grow so squeamish, and choice of meats, as their parents shall not know what to provide for them, or when to give it them: #emph[The full soul loatheth an honeycomb:] #footnote[#emph[Pro.] 27. 7.] yea if a stranger cometh to the table, where such a child sitteth, he may soon observe that he hath been too daintily fed. If at first children be fed with ordinary moderate diet, they will afterwards both be in better health and liking, and also more contentedly, and thankfully accept whatsoever shall be provided for them. But excess breedeth diseases both in body and mind.
 
 2. Vanity in apparel doth also much corrupt young children: for there is in them even from the cradle a natural disposition to outward bravery: now for parents to prank them up, what is it but to blow up the fire of that vanity, and make it arise into such a flame as in time may much scorch the parents themselves, and utterly consume the children: and yet how usual a fault is this? How monstrously do many parents offend therein? What foolish fashion is used of the greatest swaggerers, and lightest strumpets, which they will not bring their children unto, and that when their children are not able to discern betwixt stuffs or colours? What can this proclaim but parents pride and folly? Proud maids are many times the instruments of pranking up children (especially when they are little ones) more then is meet: but yet the blame lieth on parents for suffering it.
 
 3. Tending children too cockishly maketh them too long children, and too tender: and oft altereth a good constitution of body. Some are so over-much tender of their children, as if a child never so little complain, or refuse the meat (though for daintiness or fulness) the Physician must presently be sent for, and the Apothecary sent unto, and the child with supposed and apish kindness made much worse.
 
-4. Too much sport maketh them wild, rude, unfit to be trained up to any good calling, and spendeth their spirits, and wasteth their strength too much. Yet many parents care not how much time their children spend in sport, and how little in learning: they think it duls their children too much to be held to school, or to any learning: whereas indeed too much play infatuates them more, and learning would much sharpen their wits.
+4. Too much sport maketh them wild, rude, unfit to be trained up to any good calling, and spendeth their spirits, and wasteth their strength too much. Yet many parents care not how much time their children spend in sport, and how little in learning: they think it dulls their children too much to be held to school, or to any learning: whereas indeed too much play infatuates them more, and learning would much sharpen their wits.
