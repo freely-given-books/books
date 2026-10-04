@@ -978,6 +978,26 @@ def numeral_stops(ops, src, tgt):
     return out
 
 
+def punct_after_deletion(ops, src):
+    """A deletion that starts with the same mark as the text after it
+    ("well . [deleted margin matter] . ¶ Under"): difflib keeps the later
+    stop; keep the one after the word before instead, so the stop stays in
+    its sentence and the deleted run takes the other."""
+    out = list(ops)
+    for k in range(1, len(out) - 1):
+        p_op, d_op, n_op = out[k - 1], out[k], out[k + 1]
+        if p_op[0] != "equal" or d_op[0] != "delete" or n_op[0] != "equal":
+            continue
+        a1, a2 = d_op[1], d_op[2]
+        c1, c2, e1, e2 = n_op[1], n_op[2], n_op[3], n_op[4]
+        if src[a1][1] != "w" or re.match(r"\w", src[a1][0]) or src[a1][0] != src[c1][0]:
+            continue
+        out[k - 1] = ("equal", p_op[1], p_op[2] + 1, p_op[3], p_op[4] + 1)
+        out[k] = ("delete", a1 + 1, c1 + 1, e1 + 1, e1 + 1)
+        out[k + 1] = ("equal", c1 + 1, c2, e1 + 1, e2) if c2 > c1 + 1 else None
+    return [o for o in out if o is not None]
+
+
 def align(src, tgt, report, label, owner=None):
     """src: stream entries; tgt: [(text, kind)]. Returns (clusters,
     structure_ops). Each cluster: (list of Tok in order, target text list,
@@ -1005,7 +1025,7 @@ def align(src, tgt, report, label, owner=None):
             for j in idxs:
                 owner[j] = tok
 
-    for op, i1, i2, j1, j2 in split_marks(numeral_stops(sm.get_opcodes(), src, tgt), src, tgt):
+    for op, i1, i2, j1, j2 in split_marks(punct_after_deletion(numeral_stops(sm.get_opcodes(), src, tgt), src), src, tgt):
         S = src[i1:i2]
         R = tgt[j1:j2]
         Sw = [s for s in S if s[1] == "w"]
@@ -1773,6 +1793,18 @@ def review_division(d, review, f, log, unresolved):
     tgt = [(t, k) for t, k, _ in review.body]
     owner = {}
     cl, st = align(body, tgt, [], f, owner)
+    for j0 in getattr(review, "epigraphs", ()):
+        # a printed paragraph the review sets as a scripture epigraph
+        jw = next((j for j in range(j0 + 1, len(tgt)) if j in owner), None)
+        if jw is None:
+            continue
+        anc = ancestors(owner[jw])
+        p = next((a for a in anc if local(a.el) in ("p", "epigraph")), None)
+        if p is not None and local(p.el) == "p" and p.el.get("rend") != "epigraph" and \
+                not any(local(a.el) == "epigraph" for a in anc):
+            p.el.set("rend", "epigraph")
+            p.el.set("change", "#review")
+            log.append((f, "epigraph", owner[jw].orig, "set as a scripture epigraph"))
     tflags = {}            # id(tok) -> [(target index, italic flag)]
     for j, tok in owner.items():
         tflags.setdefault(id(tok), []).append((j, review.body[j][2]))
@@ -1801,7 +1833,9 @@ def review_division(d, review, f, log, unresolved):
             el.set("ana", "#edition-only")
             el.set("resp", "#editor")
             el.set("change", "#review")
-            el.text = join_tokens([t for t, _ in nt["toks"]])
+            words = [t for t, _ in nt["toks"]]
+            sps = nt.get("sp")
+            el.text = join_sp(words, sps if sps and len(sps) == len(words) else None)
             k = prev_word(nt["anchor"])
             (placed.setdefault(k, []) if k >= 0 else before_first).append(el)
             log.append((f, "note", "(none)", el.text))
@@ -2246,6 +2280,16 @@ def apply_list_shape(log):
         if info["kind"] in ("+", "-"):
             k = next((i for i in range(len(conts) - 1, 0, -1)
                       if local(conts[i].el) == "item"), None)
+            cell = next((c for c in reversed(conts) if local(c.el) == "cell"), None)
+            if k is None and cell is not None and d == 1 and info["kind"] == "+" and \
+                    not info.get("numbering") and not info.get("start"):
+                # a branch of a brace the review sets under the branch before
+                if cell.el.get("rend") != "nested":
+                    cell.el.set("rend", "nested")
+                    cell.el.set("change", "#review")
+                    log.append((f, "list", f"table cell at '{tok.orig}'",
+                                "nested under the branch before"))
+                continue
             if k is None:
                 if d or info.get("numbering") or info.get("start"):
                     log.append((f, "skipped", f"list item at '{tok.orig}'", "not an item"))
@@ -2402,7 +2446,21 @@ def restructure(splits, log):
     """splits: list of (tok, kind, label_toks, order, file). kind '+', '¶'
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
-    LATER = ("quote", "merge", "renumber", "unlist", "inline")
+    LATER = ("quote", "merge", "renumber", "unlist", "inline", "headmerge")
+    tables = {}
+    for s in splits:
+        if s[1] == "tableinline":
+            tables.setdefault(id(s[0]), (s[0], []))[1].append(s)
+    for tb, ss in tables.values():
+        marks = [m for m, _c in layout.table_reading(tb.el)[1] if m]
+        if len(ss) == len(marks):
+            tb.el.set("rend", "inline")
+            tb.el.set("change", "#review")
+            log.append((ss[0][4], "list", "table", "run into its sentence"))
+        else:
+            log.append((ss[0][4], "unresolved", "table",
+                        f"{len(ss)} of its {len(marks)} lines run on; kept as is"))
+    splits = [s for s in splits if s[1] != "tableinline"]
     later = [s for s in splits if s[1] in LATER]
     splits = [s for s in splits if s[1] not in LATER]
     by_block = {}
@@ -2509,6 +2567,31 @@ def restructure(splits, log):
                     ", ".join((s[2][0].orig if s[2] else s[0].orig) for s in pts)))
     merge_lists(log)
     for tok, kind, _l, _o, f in sorted(later, key=lambda s: s[3]):
+        if kind == "headmerge":
+            head = next((a for a in ancestors(tok) if local(a.el) == "head"), None)
+            div = head.parent if head is not None else None
+            prev = None
+            if div is not None and div.parent is not None:
+                sibs = [c for c in div.parent.children if c.kind == "container"]
+                k = next(i for i, c in enumerate(sibs) if c is div)
+                prev = sibs[k - 1] if k else None
+                # the last paragraph of the division before
+                while prev is not None and local(prev.el) == "div":
+                    blocks = [c for c in prev.children if c.kind == "container"
+                              and local(c.el) in ("p", "div")]
+                    prev = blocks[-1] if blocks else None
+            if prev is None or local(prev.el) != "p":
+                log.append((f, "skipped", f"head at '{tok.orig}'", "no paragraph before it"))
+                continue
+            for x in (prev, head):
+                if not x.el.get("{%s}id" % XML_NS):
+                    NOTE_SEQ["b"] = NOTE_SEQ.get("b", 0) + 1
+                    x.el.set("{%s}id" % XML_NS, f"rb{NOTE_SEQ['b']}")
+            prev.el.set("next", "#" + head.el.get("{%s}id" % XML_NS))
+            head.el.set("prev", "#" + prev.el.get("{%s}id" % XML_NS))
+            head.el.set("change", "#review")
+            log.append((f, "merge", "heading", f"run on into the paragraph before at '{tok.orig}'"))
+            continue
         if kind in ("unlist", "inline"):
             anc = ancestors(tok)
             item = next((a for a in anc if local(a.el) == "item"), None)
@@ -2580,7 +2663,9 @@ def restructure(splits, log):
         # stay separate elements (as printed), linked by @prev/@next
         kids = b.parent.children
         k = kids.index(b)
-        prev = next((c for c in reversed(kids[:k]) if c.kind == "container"), None)
+        # the block before, passing over any the review emptied
+        prev = next((c for c in reversed(kids[:k]) if c.kind == "container"
+                     and (has_words(c) or local(c.el) not in ("p", "list"))), None)
         if prev is None and local(b.parent.el) in ("closer", "opener"):
             # a closer's first line runs on from the paragraph before it
             outer = b.parent.parent.children
@@ -2599,8 +2684,23 @@ def restructure(splits, log):
                      local(c.el) == "item"]
             if items:
                 prev, into_item = items[-1], True
+        run_in_head = prev is not None and local(prev.el) == "head" and \
+            prev.el.getparent().get("type") in HEAD_MODE["run_in"]
         if prev is None or local(prev.el) not in ("p", "q", "item", "salute", "signed",
-                                                  "dateline", "list"):
+                                                  "dateline", "list") and not run_in_head:
+            # the last block of the division before
+            before = None
+            if prev is None and b.parent.parent is not None:
+                sibs = [c for c in b.parent.parent.children if c.kind == "container"]
+                i = next((n for n, c in enumerate(sibs) if c is b.parent), 0)
+                ps = [c for c in sibs[i - 1].children if c.kind == "container"
+                      and local(c.el) == "p"] if i else []
+                before = ps[-1] if ps else None
+            if before is not None and not has_words(before):
+                # the paragraph the review took out (margin matter set as a
+                # note) was aligned this side of the break: nothing runs on
+                log.append((f, "list", "blocks", "emptied by the review"))
+                continue
             log.append((f, "skipped", f"merge at '{tok.orig}'", "no paragraph before it"))
             continue
         if into_item:
@@ -2628,6 +2728,13 @@ def collect_splits(struct, stream_index, log):
         tok = at[2]
         Sw = [x for x in s["S"] if x[1] == "w"]
         order = stream_index.get(id(tok), 0)
+        tabs = [x[2] for x in s["S"] if x[1] == "m" and x[2].kind == "container"
+                and local(x[2].el) == "table"]
+        if tabs and len(tabs) == len(s["src_marks"]) and s["tgt_marks"] in ([], ["¶"]):
+            # a table's reading the review runs into one sentence
+            # (restructure checks that every one of its marks went)
+            splits += [(tb, "tableinline", [], order, s["label"]) for tb in tabs]
+            continue
         if s["tgt_marks"] == ["+"] and not s["src_marks"]:
             labels = []
             if len(Sw) >= 2 and (ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == "." or
@@ -2662,6 +2769,22 @@ def collect_splits(struct, stream_index, log):
             continue          # a trailer the review left out
         elif s["src_marks"] == ["¶"] and not s["tgt_marks"]:
             splits.append((tok, "merge", [], order, s["label"]))
+        elif len(s["src_marks"]) > 1 and not s["tgt_marks"] and \
+                all(m in ("¶", "-", "+") for m in s["src_marks"]):
+            # blocks the review deletes whole (margin matter moved into a
+            # note): they stay, emptied; the block after them, if it keeps
+            # any words, runs on into the text before them
+            marks = [x for x in s["S"] if x[1] == "m"]
+            blk = marks[-1][2]
+            ws = first_words(blk, 1) if blk.kind == "container" else []
+            if ws and has_words(blk):
+                splits.append((ws[0], "merge", [], order, s["label"]))
+            else:
+                log.append((s["label"], "list", "blocks", "emptied by the review"))
+        elif s["src_marks"] == ["H"] and not s["tgt_marks"]:
+            # a printed division head the review runs on into the text
+            # before it (the TCP made a sentence a heading)
+            splits.append((tok, "headmerge", [], order, s["label"]))
         elif s["src_marks"] == ["-"] and not s["tgt_marks"]:
             # a printed list inside a paragraph that the review runs into
             # its sentence; else list nesting shown differently, kept as is
@@ -2774,6 +2897,16 @@ def add_header(root, editor_name):
          "number it starts from."),
         (".//t:epigraph[@rend='quote']", "epigraph[@rend='quote']: a scripture "
          "epigraph this edition sets as a quotation in the text."),
+        (".//t:cell[@rend='nested']", "cell[@rend='nested']: a branch of a brace "
+         "table this edition sets as an item under the branch before it."),
+        (".//t:table[@rend='inline']", "table[@rend='inline']: a brace table this "
+         "edition reads into one sentence, column by column."),
+        (".//t:head[@next]", "head[@next]: a run-in head this edition sets as "
+         "the opening words of its paragraph (p/@prev), not as a bold line."),
+        (".//t:head[@prev]", "head[@prev]: a printed heading this edition runs on "
+         "into the paragraph before it (a margin note or catchword set as a head)."),
+        (".//t:p[@rend='epigraph']", "p[@rend='epigraph']: a paragraph holding a "
+         "scripture text (reference and verse) this edition sets as an epigraph."),
         (".//t:head[@type='short']", "head[@type='short']: the short form of this "
          "edition's title, used in running heads."),
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),

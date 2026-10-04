@@ -7,12 +7,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4982 |
+| punctuation | 4983 |
 | case | 3803 |
 | emendation | 3717 |
 | spelling | 2429 |
 | italic | 1968 |
-| spacing | 1841 |
+| spacing | 1840 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
@@ -1731,7 +1731,7 @@
 - [application-02.typ] his , → His
 - [application-02.typ] , he → He
 - [application-02.typ] glory → glory (1Co 9:25; 2Ti 4:8; Rev 2:10; Jam 1:12; 1Pe 5:4)
-- [application-02.typ] . But , → 
+- [application-02.typ] But , → 
 - [application-02.typ] Object → 
 - [application-02.typ] 3 → 
 - [application-02.typ] O → Oh,
@@ -3013,7 +3013,7 @@
 - [application-03.typ] door → door (Joh 3:8)
 - [application-03.typ] 'tis → it is
 - [application-03.typ] Closets , → closets
-- [application-03.typ] . But → 
+- [application-03.typ] But . → 
 - [application-03.typ] lived → lived (Exo 33
 - [application-03.typ] none → none “
 - [application-03.typ] Abraham → Abraham (Gen 18),
@@ -6121,6 +6121,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → .
 - [application-02.typ] ; → .
+- [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] ; → .
 - [application-02.typ] ; → .

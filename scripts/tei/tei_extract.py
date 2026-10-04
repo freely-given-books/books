@@ -368,6 +368,9 @@ def div_blocks(r, div, level=2, lines=None):
             t = r.para(c)
             if t and r.layer == "reg" and c.get("rend") == "quote":
                 t = f"#quote[{t}]"
+            if t and r.layer == "reg" and c.get("rend") == "epigraph":
+                lines += epigraph_block(*epigraph_parts(t))
+                continue
             add_block(r, lines, c, t)
         elif n == "list" and r.layer == "reg" and c.get("rend") == "inline":
             add_block(r, lines, c, collapse(r.inline(c)).strip())   # in the sentence
@@ -442,6 +445,21 @@ def epigraph_lines(r, ep):
         return []
     if ep.get("rend") == "quote":      # the edition sets it as a quotation
         return [f"#quote[{' '.join(x for x in (ref, body) if x)}]", ""]
+    return epigraph_block(ref, body)
+
+
+# a printed paragraph the edition sets as an epigraph (p[@rend="epigraph"]):
+# its reference ("EPHES. 6. 7.") is split off its verse
+EPIGRAPH_REF = re.compile(r"^((?:[1-3] )?[A-Z][A-Za-z]*\.\s*\d+\.(?:\s*\d+(?:,\s*\d+)*\.)?)\s+(.*)$", re.S)
+
+
+def epigraph_parts(t):
+    """(reference, verse) of a paragraph set as an epigraph."""
+    m = EPIGRAPH_REF.match(t)
+    return (m.group(1), m.group(2)) if m else ("", t)
+
+
+def epigraph_block(ref, body):
     lines = ["#align(center)[", "  #block(width: 85%)[", "    #set par(justify: false)"]
     if ref:
         lines += [f"    #text(size: 0.9em, weight: 600)[{ref}]", ""]
@@ -485,7 +503,8 @@ def table_lines(r, table):
             if not t:
                 continue
             if marker == "+":
-                lines.append("+ " + t)
+                nested = cells[0].get("rend") == "nested"
+                lines.append(("  + " if nested else "+ ") + t)
             else:
                 if lines and lines[-1] != "":
                     lines.append("")
@@ -514,6 +533,26 @@ def split_p_lines(r, p):
     return lines
 
 
+RUN_ON = "\x00run-on "
+
+
+def join_run_on(lines):
+    """A head the review runs on into the paragraph before it (head/@prev):
+    its text ends that paragraph instead of making a heading line."""
+    out = []
+    for ln in lines:
+        if ln.startswith(RUN_ON):
+            while out and out[-1] == "":
+                out.pop()
+            if out:
+                out[-1] += " " + ln[len(RUN_ON):]
+            else:
+                out.append(ln[len(RUN_ON):])
+            continue
+        out.append(ln)
+    return out
+
+
 def div_lines(r, div, level):
     """Layout mode: a division with its heads (a heading line at `level`, or
     a bold run-in paragraph for RUN_IN_DIVS) and all it contains."""
@@ -522,11 +561,19 @@ def div_lines(r, div, level):
         t = collapse(r.inline(h)).strip()
         if not t:
             continue
+        if r.layer == "reg" and h.get("prev"):
+            lines += [RUN_ON + t, ""]       # the review runs it on (join_run_on)
+            continue
+        if r.layer == "reg" and h.get("next"):
+            lines += [t, ""]                # its paragraph runs on (add_block)
+            continue
         if div.get("type") in r.run_in:
             enum = getattr(r, "settings", {}).get("TYPST_NUMBERED_PARAGRAPHS") == "enum"
             lines += [f"#strong[{block_start_escape(t, numerals=not enum)}]", ""]
         else:
             lines += [f"{'=' * level} {t}", ""]
+    if r.layer == "reg" and any(h.get("next") for h in div.findall(T + "head")):
+        return div_blocks(r, div, level, lines)     # its paragraph runs on (add_block)
     return lines + div_blocks(r, div, level)
 
 
@@ -575,6 +622,8 @@ def add_block(r, lines, c, t):
     if r.layer == "reg" and c.get("prev") and c.get("prev")[1:] not in empty and \
             len(lines) >= 2 and lines[-1] == "":
         sp = "" if c.get("rend") == "run-on" else " "
+        while len(lines) >= 3 and lines[-2] == "":
+            lines.pop()             # blank lines of blocks the review emptied
         if lines[-2].startswith("#quote[") and lines[-2].endswith("]"):
             lines[-2] = lines[-2][:-1] + sp + t + "]"    # runs on inside the quotation
         else:
@@ -690,6 +739,7 @@ def layout_file_lines(r, f, cfg, pre):
             lines += [f"#align(center)[{t}]" if r.layer == "reg" else t, ""]
     for el in f["parts"]:
         part_lines(r, el, 3, lines)
+    lines = join_run_on(lines)
     while lines and lines[-1] == "":
         lines.pop()
     return lines

@@ -17,7 +17,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 #emph[Answ.] His power reacheth not so far, as is evident by these reasons.
 
-1. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Leu.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toyling, droyling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
+1. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
 
 2. A master might not dismember his servant: if unawares he did smite out an eye or tooth of his servant, he must make a recompense: which was to let him go free. Much less therefore #footnote[#emph[Exod.] 21. 26.] might he take away his servants life.
 
@@ -39,21 +39,21 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 Contrary to their just and due power do they, who in their rage stab their servants, or otherwise make them away: yea they also who so unmercifully and unmeasurably beat them with rod, cudgel, or any other thing, as death follow thereupon: for many there be who having once begun to strike, know not when to cease, but lay on as if they were striking stocks and blocks, and not their own flesh. God foresaw that masters were prone to such cruelty, and therefore #footnote[#emph[Deut.] 25. 3.] set a stint number of stripes, which none that beat another might exceed.
 
-Among these may be reckoned such desperate masters as in their mood will strike their servant with any thing that cometh next to hand, be it heavy, cragged, hard, or sharpe, they care not (#footnote[#emph[Pro.] 26. 18.] #emph[As a mad man who casteth fire-brands, arrows, and death.)] These things may endanger a servants life, if not, they may break his head, or otherwise wound, bruise, and lame him.
+Among these may be reckoned such desperate masters as in their mood will strike their servant with any thing that cometh next to hand, be it heavy, cragged, hard, or sharp, they care not (#footnote[#emph[Pro.] 26. 18.] #emph[As a mad man who casteth fire-brands, arrows, and death.)] These things may endanger a servants life, if not, they may break his head, or otherwise wound, bruise, and lame him.
 
 It is beyond a masters power by any correction to impair life, health, or strength of his servant, or any way in his body to disable him from doing that which otherwise he might have been able to do.
 
 If masters, no not for punishment of any sin, may not take away or endanger the life of his servant, what may we think of such masters, as without any fault of their servants, cause them to be made away by putting them upon some desperate attempt, either to maintain their own quarrel, or for some other unjust end? #footnote[2 #emph[Sam.] 11. 15.] #emph[David] dealt thus with #emph[Uriah:] but afterwards he #footnote[#emph[Psal.] 51. 14.] sorely repented this part of injustice. At another #footnote[2 #emph[Sam.] 23. 15, #emph[etc.]] time when three of his servants had fetched him water, which he longed for, with jeopardy of their lives, though in safety they returned, yet his heart smote him for his longing, and he would not drink of that water because they had ventured their lives to fetch it.
 
-But what may we say of such masters, as cause their servants for their sakes to commit felony, murder, treason, rebellion, and such other things, as cause the public magistrate to unsheath his sword against them, & cut them off? We noted this #footnote[§. 8.] before to be a grienous fault in regard of the unlawfulness of the thing: here further we may note it to be much more heinous in regard of the mischief that followeth thereupon, which is the loss of their servants life: so as thus they make themselves accessary to a detestable sin, and guilty of the blood of their servant.
+But what may we say of such masters, as cause their servants for their sakes to commit felony, murder, treason, rebellion, and such other things, as cause the public magistrate to unsheath his sword against them, & cut them off? We noted this #footnote[§. 8.] before to be a grievous fault in regard of the unlawfulness of the thing: here further we may note it to be much more heinous in regard of the mischief that followeth thereupon, which is the loss of their servants life: so as thus they make themselves accessary to a detestable sin, and guilty of the blood of their servant.
 
 === §. 16. #emph[Of masters ordering that correction they give to their servants.]
 
 2. That masters may well order that correction which they give to their servants, difference must be put betwixt the age, sex, disposition, and faults of those whom they correct.
 
-1. Masters ought not to be so forward to strike such as are grown in years, as the younger sort. Years bring understanding, and a rebuke will make one of understanding more sory for a fault, and more careful to amend it, The direction prescribed to parents (Treat. 6. §. 47.) for well ordering that correction which they give to their children, may in many points be here fitly applied. Read it. Then blows: smart more works upon the younger sort. But if notwithstanding their years they be stout, and will not regard words, their stoutness. Must be beaten down with blows. #footnote[#emph[Pro.] 19. 25, 29.] #emph[Smite a scorner,] saith the wise man: and again, #emph[Judgments are prepared for scorners, and stripes for the back of fools.]
+1. Masters ought not to be so forward to strike such as are grown in years, as the younger sort. Years bring understanding, and a rebuke will make one of understanding more sorry for a fault, and more careful to amend it, then blows:#footnote[The direction prescribed to parents (Treat. 6. §. 47.) for well ordering that correction which they give to their children, may in many points be here fitly applied. Read it.] smart more works upon the younger sort. But if notwithstanding their years they be stout, and will not regard words, their stoutness must be beaten down with blows. #footnote[#emph[Pro.] 19. 25, 29.] #emph[Smite a scorner,] saith the wise man: and again, #emph[Judgments are prepared for scorners, and stripes for the back of fools.]
 
-Seeing servants in years are in this case to be corrected, it is further requisite to put a difference betwixt the kind or measure of correction which is given to them, and to the younger sort: if they be corrected as children, they may either make a toy of it, or the more disdain at it. #footnote[#emph[Pro.] 20. 30. #emph[Heris in famulos saeuitia adhibenda est, si aliter teneri non possunt. Cic. Offic. l.] 2.] #emph[Blewness, wound, and stripes piercing into the inward parts of the belly, are a purging medicine against evil,] to stout servants of ripe years.
+Seeing servants in years are in this case to be corrected, it is further requisite to put a difference betwixt the kind or measure of correction which is given to them, and to the younger sort: if they be corrected as children, they may either make a toy of it, or the more disdain at it. #footnote[#emph[Pro.] 20. 30. #emph[Heris in famulos saeuitia adhibenda est, si aliter teneri non possunt. Cic. Offic. l.] 2.] #emph[Blueness, wound, and stripes piercing into the inward parts of the belly, are a purging medicine against evil,] to stout servants of ripe years.
 
 2. If there be a master and mistress joint governors over an house, it is fittest for the master to correct men-servants, the mistress maids. #footnote[#emph[Seruam verberare viro maximae ignominiae est. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] #emph[Abraham] put his maid over to #emph[Sarah] in such a case. Yet if a maid should wax stout, and mannish, and turn against her mistress, she being weak, sickly, with child, or otherwise unable to master her maid, the master may and must beat down her stoutness and rebellion: #footnote[#emph[Exo.] 21. 20.] so much did the law of God permit.
 
@@ -71,7 +71,7 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 #emph[Answ.] No, not without the free consent of the servants themselves: for marriages must be made with the free consent of the parties that are married.
 
-#emph[Object.] The law implieth that a master hath power to give #footnote[#emph[Exo.] 21. 4.] his servant a wife, for it showeth whose those children shall be that are borne to that servant, to whom a master hath given a wife.
+#emph[Object.] The law implieth that a master hath power to give #footnote[#emph[Exo.] 21. 4.] his servant a wife, for it showeth whose those children shall be that are born to that servant, to whom a master hath given a wife.
 
 #emph[Answ.] 1. That law is to be understood of such servants as being strangers were bond-slaves, over whom masters had a more absolute power then over others.
 
@@ -85,7 +85,7 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 #emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Jobs] servants bond and free, as well as on his goods: which he could not have done, if #emph[Jobs] servants had not been as his goods.
 
-Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase with the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
+Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase which the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
 
 #strong[4. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?]
 
@@ -99,11 +99,11 @@ Yet notwithstanding if servants shall make it known to their master, that necess
 
 Contrary to a masters power do they, who force their servants to marry whom they like not: as when a master hath deflowered his maid, to cover his shame he will make one of his servants marry her.
 
-They also do contrary to their power who seek to separat their servants that are married from their bed-fellow: some will keep the man at his house day and night from his wife, and so the wife from her husband: others will send one of them into remote parts of the land, where the other shall not know: yea others will be sure to keep them one from another, for they will send one of them beyond sea for many years together, if not for ever. These practises are against the law of marriage, and too rigorous and unjust.
+They also do contrary to their power who seek to separate their servants that are married from their bed-fellow: some will keep the man at his house day and night from his wife, and so the wife from her husband: others will send one of them into remote parts of the land, where the other shall not know: yea others will be sure to keep them one from another, for they will send one of them beyond sea for many years together, if not for ever. These practises are against the law of marriage, and too rigorous and unjust.
 
 === §. 19. #emph[Of masters power to dispose their servants persons.]
 
-The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By Gods law not only #footnote[#emph[Leu.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
+The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By Gods law not only #footnote[#emph[Lev.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
 
 The customs and statutes of our land do also permit masters #footnote[Masters care in putting off servants.] to make over their servants from one to one: and on their death-beds to bequeath them to whom they will, even as their goods and possessions.
 
@@ -113,7 +113,7 @@ Contrary hereunto do they, who aim merely at their own advantage, not caring to 
 
 === §. 20. #emph[Of masters well managing their authority.]
 
-This Apostle in #footnote[#emph[Coloss.] 4. 1..] another place giveth this charge to masters, #emph[Give unto your servants that which is just and equal.]
+This Apostle in #footnote[#emph[Coloss.] 4. 1.] another place giveth this charge to masters, #emph[Give unto your servants that which is just and equal.]
 
 By doing these two things masters shall well manage their authority.
 

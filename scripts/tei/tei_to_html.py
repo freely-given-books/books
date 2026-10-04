@@ -30,7 +30,24 @@ from pathlib import Path
 
 from lxml import etree
 
-from tei_extract import R, T, collapse, local, following_trailers, p_runs
+from tei_extract import R, T, collapse, local, following_trailers, p_runs, RUN_ON, \
+    epigraph_parts
+
+
+def join_run_on(out):
+    """A head the review runs on into the paragraph before it (head/@prev):
+    its text ends that paragraph instead of making a heading."""
+    res = []
+    for h in out:
+        if h.startswith(RUN_ON):
+            k = next((i for i in range(len(res) - 1, -1, -1) if res[i].endswith("</p>")), None)
+            if k is not None:
+                res[k] = res[k][:-len("</p>")] + " " + h[len(RUN_ON):] + "</p>"
+            else:
+                res.append(f"<p>{h[len(RUN_ON):]}</p>")
+            continue
+        res.append(h)
+    return res
 import layout
 
 GREEK = "Ͱ-Ͽἀ-῿"
@@ -297,15 +314,19 @@ class HtmlR(R):
 
         def flush():
             if items:
-                out.append('<ol class="brace">' + "".join(items) + "</ol>")
+                out.append('<ol class="brace">' + "".join(
+                    f"<li>{t}" + (f"<ol>{''.join(f'<li>{x}</li>' for x in sub)}</ol>"
+                                  if sub else "") + "</li>" for t, sub in items) + "</ol>")
                 items.clear()
         if self.layer == "reg":
             for marker, cells in layout.table_reading(table)[1]:
                 t = self.text_of(cells)
                 if not t:
                     continue
-                if marker == "+":
-                    items.append(f"<li>{t}</li>")
+                if marker == "+" and cells[0].get("rend") == "nested" and items:
+                    items[-1][1].append(t)        # under the branch before
+                elif marker == "+":
+                    items.append((t, []))
                 else:
                     flush()
                     out.append(f"<p>{t}</p>")
@@ -336,10 +357,19 @@ class HtmlR(R):
             t = self.text(h)
             if not t:
                 continue
+            if self.layer == "reg" and h.get("prev"):
+                out.append(RUN_ON + t)      # the review runs it on (join_run_on)
+                continue
+            if self.layer == "reg" and h.get("next"):
+                out.append(f"<p>{t}</p>")    # its paragraph runs on
+                continue
             if div.get("type") in self.run_in:
                 out.append(f'<p class="runin"><strong>{t}</strong></p>')
             else:
                 out.append(f"<h{min(level + 1, 6)}>{t}</h{min(level + 1, 6)}>")
+        if self.layer == "reg" and any(h.get("next") for h in div.findall(T + "head")):
+            self.blocks(div, level, out)      # its paragraph runs on from the head
+            return finish(out)
         return out + self.blocks(div, level)
 
     def layout_file(self, f, ident):
@@ -358,7 +388,7 @@ class HtmlR(R):
                 out += self.div_html(el, self.levels.get(el.get("type"), 2))
             else:
                 self.blocks([el], 2, out)      # may run on from the block before
-        out = finish(out)
+        out = finish(join_run_on(out))
         heads = [re.sub(r"<[^>]+>", "", x) for x in out if re.match(r"<h[1-6]>", x)]
         self.title = title or (heads[0] if heads else ident)
         out += self.notes_section()
@@ -420,6 +450,12 @@ class HtmlR(R):
                 out.append('<div class="epigraph">' +
                            (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
                            (f'<p class="epigraph-text">{body}</p>' if body else "") + "</div>")
+                continue
+            if n == "p" and c.get("rend") == "epigraph" and self.layer == "reg":
+                ref, body = epigraph_parts(self.text(c))
+                out.append('<div class="epigraph">' +
+                           (f'<p class="epigraph-ref">{ref}</p>' if ref else "") +
+                           f'<p class="epigraph-text">{body}</p></div>')
                 continue
             if n == "p" and layout.p_blocks(c, self.layer == "reg"):
                 out += self.split_p(c)
@@ -575,10 +611,13 @@ def file_ident(name):
     return re.sub(r"[^A-Za-z0-9]+", "-", re.sub(r"\.typ$", "", name)).strip("-")
 
 
-def divisions(root, r, cfg=None):
+def divisions(root, r, cfg=None, only=None):
     """(id, heading text, lines) for the dedication and each chapter, or for
-    each file of the book's LAYOUT (cfg: the book's editorial.py settings)."""
+    each file of the book's LAYOUT (cfg: the book's editorial.py settings);
+    only: path prefixes of the layout files to include (one volume)."""
     files = layout.book_layout(root, cfg or {})
+    if files is not None and only:
+        files = [f for f in files if f["file"].startswith(tuple(only))]
     r.enum = (cfg or {}).get("TYPST_ENUM", "I.")
     r.quote_block = (cfg or {}).get("QUOTE_BLOCK", False)
     r.verse_linebreaks = (cfg or {}).get("VERSE_LINEBREAKS", False)

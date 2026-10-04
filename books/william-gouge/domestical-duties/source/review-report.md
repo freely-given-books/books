@@ -2,10 +2,22 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 12 |
-| emendation | 7 |
-| split | 5 |
-| list | 4 |
+| spelling | 641 |
+| emendation | 270 |
+| grammar | 147 |
+| punctuation | 142 |
+| case | 104 |
+| italic | 36 |
+| spacing | 27 |
+| expansion | 25 |
+| gap | 23 |
+| list | 9 |
+| split | 6 |
+| note | 5 |
+| note moved | 3 |
+| epigraph | 2 |
+| merge | 2 |
+| skipped | 1 |
 
 ## split
 
@@ -14,22 +26,1001 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 2
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
+
+## skipped
+
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] merge at 'This' → no paragraph before it
+
+## gap
+
+- [vol-1/07-marital-love-and-self-love.typ note] 2 → 29.
+- [vol-2/01-seeking-marriage.typ note] supra → stupra
+- [vol-2/04-living-together-in-love.typ] manage → marriage
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] well → tell
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] the → she
+- [vol-2/07-serving-together-in-family-ministry.typ] do → no
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ] sought → ought
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] of → if
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] foeminae → foeminas
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] of → if
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gld → gold
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ovught → ought
+- [vol-3/01-children-showing-respect-for-parents.typ] to → no
+- [vol-3/02-children-getting-parents-permission.typ] to → so
+- [vol-3/02-children-getting-parents-permission.typ] … → 1
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] lieth → liveth
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Deut → Deus
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] elizabeth → Elizabeth
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] begineth → beginneth
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ft → fit
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] each → teach
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] every → very
+- [vol-3/09-parents-directing-children-into-adulthood.typ] inn → in
+
+## expansion
+
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] tuun → tuum
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] Nazarenun → Nazarenum
+- [vol-2/01-seeking-marriage.typ note] vinculun → vinculum
+- [vol-2/01-seeking-marriage.typ note] inauditun → inauditum
+- [vol-2/01-seeking-marriage.typ note] dotiun → dotium
+- [vol-2/02-getting-married.typ note] auten → autem
+- [vol-2/02-getting-married.typ note] legitiman → legitimam
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] cun → cum
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] cun → cum
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] dun → dum
+- [vol-2/04-living-together-in-love.typ note] maximun → maximum
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] addendun → addendum
+- [vol-2/12-a-wifes-submission-to-christ-first.typ note] Tutun → Tutum
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] conmandement → commandment
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] conpany → company
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] curan → curam
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] hon → hom
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] hon → hom
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] fron → from
+- [vol-3/04-children-giving-back-to-parents.typ note] patren → patrem
+- [vol-3/04-children-giving-back-to-parents.typ note] vicinun → vicinum
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Spiritun → Spiritum
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Sanctun → Sanctum
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vnun → vnum
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] adultan → adultam
 
 ## emendation
 
+- [vol-1/dedication.typ note] Methodusintelligentiae → Methodus intelligentiae
+- [vol-1/dedication.typ] be → he
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] faci enda → facienda
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] praete rire → praeterire
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] cast us → castus
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] 7 → 
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ] therebe → there be
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ] ô → O
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ] back ward → backward
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ] 5 → 6
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] instrip tum → inscriptum
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] 116 → 119
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] Ec l → Eccl
+- [vol-1/03-headship-in-marriage-and-the-church.typ] samething → same thing
+- [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
+- [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
+- [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
+- [vol-1/03-headship-in-marriage-and-the-church.typ] somethings → some things
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] 32 → 22
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] necessita → se
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] e → necessitate
+- [vol-1/04-husbands-and-the-love-of-christ.typ] Churchwith → Church with
+- [vol-1/04-husbands-and-the-love-of-christ.typ] herself → her self
+- [vol-1/05-love-that-purifies-the-unclean.typ note] pulcl . ritudo → pulchritudo
+- [vol-1/05-love-that-purifies-the-unclean.typ note] 411 → 4
+- [vol-1/05-love-that-purifies-the-unclean.typ note] Exhypothesi → Ex hypothesi
+- [vol-1/05-love-that-purifies-the-unclean.typ note] Pascit a → Pascha
 - [vol-1/05-love-that-purifies-the-unclean.typ note] B em → Bellarm
+- [vol-1/05-love-that-purifies-the-unclean.typ] Ahash - verosh → Ahasuerus
+- [vol-1/05-love-that-purifies-the-unclean.typ] on → or
+- [vol-1/06-redeemed-for-glory.typ note] co → eo
+- [vol-1/06-redeemed-for-glory.typ note] vtram que → vtramque
+- [vol-1/06-redeemed-for-glory.typ note] quo l → quod
+- [vol-1/06-redeemed-for-glory.typ] ourselves → our selves
+- [vol-1/06-redeemed-for-glory.typ] 44 → 49
+- [vol-1/06-redeemed-for-glory.typ] Ahash - verosh → Ahasuerus
+- [vol-1/06-redeemed-for-glory.typ] wrinkl - → wrinkle
+- [vol-1/06-redeemed-for-glory.typ] Thereshall → There shall
+- [vol-1/06-redeemed-for-glory.typ] good - ness → goodness
+- [vol-1/07-marital-love-and-self-love.typ note] so → se
+- [vol-1/07-marital-love-and-self-love.typ] andraiment → and raiment
+- [vol-1/07-marital-love-and-self-love.typ] setforth → set forth
+- [vol-1/07-marital-love-and-self-love.typ] otheralso → other also
+- [vol-1/07-marital-love-and-self-love.typ] wisestmen → wisest men
+- [vol-1/07-marital-love-and-self-love.typ] I doll → Idol
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] In couragement → Encouragement
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] 210 → 2
+- [vol-1/08-christs-union-with-his-beloved-body.typ] 6 → 5
+- [vol-1/08-christs-union-with-his-beloved-body.typ] in humanely → inhumanely
+- [vol-1/08-christs-union-with-his-beloved-body.typ] Ahash - verosh → Ahasuerus
+- [vol-1/08-christs-union-with-his-beloved-body.typ] conueigh → convey
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] herequireth → he requireth
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] for saken → forsaken
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ note] last → line
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ note] ac . cusamur → accusamur
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] on to → unto
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] goodlessons → good lessons
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] Longlife → Long life
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 14 → 24
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 17 → 57
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 5 6 → 56
+- [vol-1/11-the-childs-duties-to-his-parents.typ] at → as
+- [vol-1/11-the-childs-duties-to-his-parents.typ] 28 → 128
+- [vol-1/11-the-childs-duties-to-his-parents.typ] in heritance → inheritance
+- [vol-1/12-the-parents-duty-towards-their-children.typ] yourselves → your selves
+- [vol-2/01-seeking-marriage.typ note] Sivis → Si vis
+- [vol-2/01-seeking-marriage.typ] saidto → said to
+- [vol-2/01-seeking-marriage.typ] Apostlereckoneth → Apostle reckoneth
+- [vol-2/01-seeking-marriage.typ] 2 → 3
+- [vol-2/01-seeking-marriage.typ] 10 → 12
+- [vol-2/01-seeking-marriage.typ] 2 → 3
+- [vol-2/01-seeking-marriage.typ] 10 → 12
+- [vol-2/01-seeking-marriage.typ] some what → somewhat
+- [vol-2/02-getting-married.typ note] vete ribus → veteribus
+- [vol-2/02-getting-married.typ note] sacer dotali → sacerdotali
+- [vol-2/02-getting-married.typ note] exse → ex se
+- [vol-2/02-getting-married.typ note] procell as → procellas
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] sirem → si rem
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] ambor um → amborum
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 6 → 16
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] tral ere → trahere
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] such → such a
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] have → have no
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] adult eress → adulteress
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] party → party (
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] all → will
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] Eccles → Ezek
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] 20 → 18
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] 7 → 6
+- [vol-2/04-living-together-in-love.typ note] directo . rem → directorem
+- [vol-2/04-living-together-in-love.typ note] longin . quitas → longinquitas
+- [vol-2/04-living-together-in-love.typ] there to → thereto
+- [vol-2/05-caring-for-each-others-souls.typ note] I am → Jam
+- [vol-2/05-caring-for-each-others-souls.typ note] co → eo
+- [vol-2/05-caring-for-each-others-souls.typ] ourselves → our selves
+- [vol-2/05-caring-for-each-others-souls.typ] for bear → forbear
+- [vol-2/05-caring-for-each-others-souls.typ] for → forsaken
+- [vol-2/05-caring-for-each-others-souls.typ] saken → (
+- [vol-2/05-caring-for-each-others-souls.typ] Acomplement → A
+- [vol-2/05-caring-for-each-others-souls.typ] all → complemental
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ note] l → 
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] goodname → good name
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] sendforth → send forth
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] mutuallcare → mutual care
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ] in → is
+- [vol-2/07-serving-together-in-family-ministry.typ note] 4 → . 24
+- [vol-2/07-serving-together-in-family-ministry.typ note] Pro ▪ sunt → Prosunt
+- [vol-2/07-serving-together-in-family-ministry.typ note] confe rentes → conferentes
+- [vol-2/07-serving-together-in-family-ministry.typ] howfar → how far
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] hi , → hic
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] Sicapilli → Si capilli
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] 2 → 1
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] herself → her self
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] utteredmost → uttered most
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] is → as
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] un beseeming → unbeseeming
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] some what → somewhat
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] thereverend → the reverend
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] for bearing → forbearing
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] meek est → meekest
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] vsum . fructun → vsumfructum
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Cor → 1 Cor
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] herequireth → he requireth
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Treat → Treat. 4
+- [vol-2/12-a-wifes-submission-to-christ-first.typ note] dic as → dicas
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] for bear → forbear
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] for sake → forsake
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] meet est → meetest
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] anim bus → animabus
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ] it → it be
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ] so briety → sobriety
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] a → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] b → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] try all → trial
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] hous - wife → housewife
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] tu → too
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] by → joy
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] up braid → upbraid
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] on → an
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] y . → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] for bearing → forbearing
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] healethy → heal thy
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] tuferitatem → tu feritatem
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] Sedefendendo → Se defendendo
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] ne que → neque
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] anniten . dum → annitendum
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] for beareth → forbeareth
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Hither to → Hitherto
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Cheney → China
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] 49 → 4
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Sicaput → Si caput
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] cuill → evil
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ought → ought (
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] time → aim
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] rule → soul
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gladly → gladly bestow, and be
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] est → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
+- [vol-3/01-children-showing-respect-for-parents.typ note] Iam → Jam.
+- [vol-3/02-children-getting-parents-permission.typ note] 5 1 → 51
+- [vol-3/02-children-getting-parents-permission.typ note] 17 → 16
+- [vol-3/02-children-getting-parents-permission.typ note] vx eres → vxores
+- [vol-3/02-children-getting-parents-permission.typ note] Di est → Digest
+- [vol-3/02-children-getting-parents-permission.typ] Ishai → Jesse
+- [vol-3/02-children-getting-parents-permission.typ] Ishai → Jesse
+- [vol-3/02-children-getting-parents-permission.typ] Godhath → God hath
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] ½ → 1
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ] Ishai → Jesse
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ] acomely → a comely
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ] in different → indifferent
+- [vol-3/04-children-giving-back-to-parents.typ note] Parent is imprecation → Parentis imprecatione
+- [vol-3/04-children-giving-back-to-parents.typ note] propera uerit → properauerit
+- [vol-3/04-children-giving-back-to-parents.typ note] subiect siue → subiectisque
+- [vol-3/04-children-giving-back-to-parents.typ] conueigh → convey
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] for borne → forborne
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] here by → hereby
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] ex emption → exemption
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] after wards → afterwards
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] thetime → the time
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 . 12 → 112
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vindie abitur → vindicabitur
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 16 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] pote rant → poterant
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] qualit as → qualitas
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] bestfood → best food
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 1 → I
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] man → Mary
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] if → it
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Many distinguish the whole course of a mans life into four parts . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 1 . Childhood → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 2 . Youth . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 3 . Man - age → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 4 . Old - age . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Children must be well → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Fed . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Taught . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Child - hood from his birth to 14 . Years . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Youth from 14 to 25 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Man - age from 25 . To 50 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Old age from thence to his death . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] But for better distinguishing the duties which parents are to perform , I follow not so accurate a division , but rather distinguish the degrees of age according to the times wherein new duties are to be performed : and therefore I make a distinction betwixt infancy and childhood . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Feed → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] them → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] in → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] discipline → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] saith → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] the → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Apostle → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] combe → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] 7 → 11
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] spir taliter → spiritaliter
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] abipsis → ab ipsis
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] consecre tur → consecretur
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] l . eonidis → Leonidis
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] semelest → semel est
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] in genuity → ingenuity
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] bean → be an
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] Ishas → Jesses
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] all eage → allege
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] solikewise → so likewise
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] be times → betimes
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] Sam → 1 Sam
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] 10 → 30
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] sinulla → si nulla
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] where in → wherein
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] aduncisunt → adunci sunt
+- [vol-3/09-parents-directing-children-into-adulthood.typ] intents → in tents
+- [vol-3/09-parents-directing-children-into-adulthood.typ] Ishai → Jesse
+- [vol-3/09-parents-directing-children-into-adulthood.typ] it → it is
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] construx it → construxit
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] OVVNE → OWN
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] of → : if
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] for → sort
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] where unto → whereunto
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] an other → another
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] meeretitular → mere titular
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ] austerit je → austerity
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ] ôye → ô ye
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ] he aven → heaven
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ] sure → suit
+- [vol-4/02-a-servants-reverence-for-his-master.typ] ingenerall → in general
+- [vol-4/02-a-servants-reverence-for-his-master.typ] of fending → offending
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] c → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ] One simus → Onesimus
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 11 → II
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 2 → 2 King
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] King → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ] be are → bear
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ] befor → be for
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ] Lordye → Lord ye
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ] Ahash - verosh → Ahasuerus
+- [vol-4/06-a-masters-authority-rightly-maintained.typ] relin quishing → relinquishing
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ] The direction prescribed to parents ( Treat . 6 . § . 47 . ) for well ordering that correction which they give to their children , may in many points be here fitly applied . Read it . Then → then
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ] . Must → must
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] mastersmeanes → masters means
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] him self → himself
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] The Hebrew word is oft used for scarlet . But according to the proper notation of it , it signifieth things doubled : which I take to be most pertinent to this place , and therefore I have so translated it . The Kings translators have noted as much in the margin . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] reapebenefit → reap benefit
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] in human → inhumane
+- [vol-4/10-a-masters-own-master-in-heaven.typ] i , → is
+
+## grammar
+
+- begineth → beginneth (×9)
+- enioyneth → enjoineth (×9)
+- infereth → inferreth (×8)
+- joyneth → joineth (×8)
+- kniteth → knitteth (×8)
+- rendreth → rendereth (×8)
+- laieth → layeth (×7)
+- lyeth → lieth (×7)
+- deserueth → deserveth (×5)
+- inioyneth → enjoineth (×5)
+- aduiseth → adviseth (×4)
+- obserueth → observeth (×4)
+- quickneth → quickeneth (×4)
+- commiteth → committeth (×3)
+- prefereth → preferreth (×3)
+- stireth → stirreth (×3)
+- admiteth → admitteth (×2)
+- aduanceth → advanceth (×2)
+- confereth → conferreth (×2)
+- diddest → didst (×2)
+- entreth → entereth (×2)
+- refereth → referreth (×2)
+- reserueth → reserveth (×2)
+- setleth → settleth (×2)
+- submiteth → submitteth (×2)
+- swerueth → swerveth (×2)
+- Deserueth → Deserveth
+- acquiteth → acquitteth
+- adioyneth → adjoineth
+- adiudgeth → adjudgeth
+- brest → breast
+- carryeth → carrieth
+- caveth → careth
+- cleaneth → clean
+- cleanfeth → cleanseth
+- combereth → cumbereth
+- comprizeth → compriseth
+- condeth → tendeth
+- conueigheth → conveyeth
+- cryeth → crieth
+- decaieth → decayeth
+- exprest → expressed
+- fetteth → setteth
+- forgeteth → forgetteth
+- indevoureth → endeavoureth
+- marieth → marrieth
+- middest → midst
+- permiteth → permitteth
+- praieth → prayeth
+- preserueth → preserveth
+- raigneth → reigneth
+- receineth → receiveth
+- seareheth → searcheth
+- shuteth → shutteth
+- softneth → softeneth
+- tyeth → tieth
+- wandreth → wandereth
+- watreth → watereth
+
+## punctuation
+
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] , → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → . 17.
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
+- [vol-1/03-headship-in-marriage-and-the-church.typ] . → , and
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] . → 
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] . → 
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] . → 
+- [vol-1/04-husbands-and-the-love-of-christ.typ] . → 
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → . 11.
+- [vol-1/05-love-that-purifies-the-unclean.typ] : → 
+- [vol-1/06-redeemed-for-glory.typ note] , → .
+- [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ] , → .
+- [vol-1/07-marital-love-and-self-love.typ] , → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → ,
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → . 10.
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] : → .
+- [vol-1/08-christs-union-with-his-beloved-body.typ] § → §.
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] . → .)
+- [vol-1/11-the-childs-duties-to-his-parents.typ] * → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ] § → §.
+- [vol-2/01-seeking-marriage.typ] . → 
+- [vol-2/01-seeking-marriage.typ] . → 
+- [vol-2/02-getting-married.typ note] . → 
+- [vol-2/02-getting-married.typ] , → .
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] § → §.
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] . → 
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] ) → ).
+- [vol-2/04-living-together-in-love.typ note] § → §.
+- [vol-2/05-caring-for-each-others-souls.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → ,
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] - → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] - → 
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] , → .
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] § → §.
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] . → 
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → 
+- [vol-2/12-a-wifes-submission-to-christ-first.typ note] , → .
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] . → 
+- [vol-2/12-a-wifes-submission-to-christ-first.typ] § → §.
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → ,
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] § → §.
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] , → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] , → .
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] . → 
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] . → ,
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → . 9.
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → ,
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] * → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] § → §.
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → ,
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] - → 
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] , → .
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ] , → .
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] - → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ] * → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ] , → .
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] , → .
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ] , → 
+- [vol-3/04-children-giving-back-to-parents.typ] . → 
+- [vol-3/04-children-giving-back-to-parents.typ] * → 
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → §.
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] , → .
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] , → .
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] ▪ → .
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → . 16.
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → , (
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → ,
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ; → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] § → §.
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] , → .
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] ▪ → .
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
+- [vol-4/02-a-servants-reverence-for-his-master.typ note] . → 
+- [vol-4/02-a-servants-reverence-for-his-master.typ note] . → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ] - → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ] ) → ).
+- [vol-4/06-a-masters-authority-rightly-maintained.typ note] . → 
+- [vol-4/06-a-masters-authority-rightly-maintained.typ note] . → 
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] - → 
+- [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ] , → .
+
+## case
+
+- holy → Holy (×27)
+- children → Children (×8)
+- The → the (×4)
+- love → Love (×4)
+- And → and (×3)
+- note → Note (×3)
+- servants → Servants (×3)
+- IN → In (×2)
+- Or → or (×2)
+- Take → take (×2)
+- To → to (×2)
+- father → Father (×2)
+- mothers → Mothers (×2)
+- son → Son (×2)
+- subjection → Subjection (×2)
+- the → The (×2)
+- A → a
+- Because → because
+- But → but
+- Declare → declare
+- Extent → extent
+- First → first
+- His → his
+- Long → long
+- May → may
+- Misinterpret → misinterpret
+- OF → Of
+- See → see
+- Sin → sin
+- THE → The
+- TO → To
+- Their → their
+- Told → told
+- Vers → vers
+- Years → years
+- child → Child
+- example → Example
+- honour → Honour
+- husbands → Husbands
+- man → Man
+- marriage → Marriage
+- masters → Masters
+- men → Men
+- parents → Parents
+- persons → Persons
+- place → Place
+- rule → Rule
+- their → Their
+- things → THINGS
+- wives → Wives
 
 ## spelling
 
+- borne → born (×60)
+- paine → pain (×24)
+- 3 → 3. (×14)
+- Iam → Jam (×12)
+- 2 → 2. (×9)
+- 4 → 4. (×9)
+- president → precedent (×9)
+- Treat → Treat. (×8)
+- Job → Joh (×7)
+- 11 → 11. (×6)
+- marvell → marvel (×6)
+- steed → stead (×5)
 - thorow → through (×5)
+- 1 → 1. (×4)
+- Friers → Friars (×4)
+- Gen → Gen. (×4)
 - thorow → thorough (×4)
+- wines → wives (×4)
+- 12 → 12. (×3)
+- 13 → 13. (×3)
+- 19 → 19. (×3)
+- 24 → 24. (×3)
+- 6 → 6. (×3)
+- Absoloms → Absaloms (×3)
+- Jehosaphat → Jehoshaphat (×3)
+- Joh → Joh. (×3)
+- at → that (×3)
+- childes → childs (×3)
+- maist → mayest (×3)
+- wise → wife (×3)
+- 10 → 10. (×2)
+- 14 → 14. (×2)
+- 20 → 20. (×2)
+- 21 → 21. (×2)
+- 5 → 5. (×2)
+- Ahashuerosh → Ahasuerus (×2)
+- Cer → Cor (×2)
+- Christ → Christs (×2)
+- Cucco → Cuckoo (×2)
+- Elizabet → Elizabeth (×2)
+- Epb → Eph (×2)
+- Jove → love (×2)
+- Jsa → Isa (×2)
+- Mat → Mat. (×2)
+- Pet → Pet. (×2)
+- Psal → Psal. (×2)
+- Rom → Rom. (×2)
+- Sam → Sam. (×2)
+- Thes → Thes. (×2)
+- Tim → Tim. (×2)
+- Tit → Tit. (×2)
+- advise → advice (×2)
+- bear → bare (×2)
+- borne → -born (×2)
+- bruit → brute (×2)
+- faith → saith (×2)
+- fullenness → sullenness (×2)
+- his → this (×2)
+- husband → husbands (×2)
+- jealously → jealousy (×2)
+- left → lest (×2)
+- must → just (×2)
+- out → but (×2)
+- sant → sunt (×2)
+- science → scion (×2)
+- stile → style (×2)
+- the → he (×2)
+- wife → wise (×2)
+- 18 → 18.
+- 18 → 18.)
+- 23 → 23.
+- 24 → 24,
+- 28 → 28.
+- 32 → 32.
+- 37 → 37.
+- 38 → 38.
+- 43 → 43,
+- 47 → 47.
+- 48 → 48.
+- 50 → 50.
+- 53 → 53.
+- 67 → 67.
+- 7 → 7.
+- 74 → 74.
+- 8 → 8.
+- 83 → 83.
+- A → As
+- Acqualen → Aequalem
+- Aenied → Aeneid
+- Ahashverosh → Ahasuerus
+- Ahoshuerosh → Ahasuerus
+- Ambassadour → Ambassador
+- Ammon → Amnon
+- Annahs → Hannahs
+- Ans → Answ
+- Baltbasare → Baltasare
+- Barthshebah → Bathsheba
+- Bathshebah → Bathsheba
+- Be → Bee
+- Cam → Ham
+- Can → Can.
+- Cant → Cant.
+- Chro → Chro.
+- Chrys → Chrys.
+- Com → Com.
+- Coning → Coniug
+- Consuetude → Consuetudo
 - Craelius → Cornelius
+- Dan → Dan.
+- Dent → Deut
+- Deul → Deut
+- Eccl → Eccl.
+- Emphacicall → emphatical
+- Eor → Cor
+- Eph → Eph.
+- Ephef → Ephes
+- Euscb → Euseb
+- Exhòrtation → Exhortation
+- Ezechiel → Ezekiel
+- Gal → Gal.
+- Grudgingly → Rudely
+- Hanna → Hannah
+- Hirom → Hiram
+- Hony → Honey
+- How → Now
+- Idoirco → Idcirco
+- Imag → Image
+- Indas → Judas
+- Iniquiffima → Iniquissima
+- Isaakes → Isaacs
+- Isay → Isaiah
+- Jayler → Jailer
+- Jaylor → Jailer
+- Jbin → Ibin
+- Jos → Jos.
+- Josuahs → Joshuas
+- Justit → Instit
+- Levire → Levite
+- Luk → Luk.
+- Manassch → Manasseh
+- Marvell → marvel
+- Micol → Michal
+- Nazaret → Nazareth
+- Num → Num.
+- Orthers → Others
+- Ose → Ose.
+- Ouid → Ovid
+- Pentecosle → Pentecoste
+- Philosophen → Philosophers
+- Phinchas → Phinehas
+- Phineas → Phinehas
+- Pro → Pro.
+- Prov → Prov.
+- Qust → Quest
+- Rudely → Grudgingly
+- San → Sam
+- Solemat → Solemn
+- Stevens → Stephens
+- Sucton → Sueton
+- Then → When
+- Tro → Pro
+- Uatabl → Vatabl
+- Uerendum → Verendum
+- Uirg → Virg
+- Uirginitas → Virginitas
+- Uiu → Viu
+- Uivem → Vivem
+- Uxor → Vxor
+- Vers → Vers.
+- Ves → Vers
+- Virginea → Virginia
+- Weigh → Weighty
+- Zacharias → Zachary
+- Zachary → Zechariah
+- a → an
+- a → at
+- about → above
+- adbuc → adhuc
+- ae → a
+- aet → Laet
+- affioere → afficere
+- ana → and
+- and → an
+- another → anothers
+- another → mother
+- are → are.
+- are → art
+- aufterity → austerity
+- awes → laws
+- backwandness → backwardness
+- baptiscth → baptizeth
+- bard → barred
+- beevishness → peevishness
+- beter → better
+- biosterous → boisterous
+- blaspliemies → blasphemies
+- blockishnese → blockishness
+- boay → body
+- bom → hom
 - bourd → bound
+- breutum → breuium
+- c → c.
+- cam → eam
+- case → ease
+- castigandun → castigandum
+- cavear → caveat
+- ccuet → covet
+- childings → chidings
+- chird → third
+- clementum → elementum
+- comprize → comprise
+- conscienc → conscience
+- conscience → consciences
+- continuali → continual
+- cording → according
+- corps → corpse
+- corrupton → corruption
+- corum → eorum
+- course → coarse
+- coverousness → covetousness
+- creare → create
+- creast → crease
+- cum → eum
+- daines → dames
+- despight → despite
+- eand → and
+- edisication → edification
+- entertaiment → entertainment
+- erroneeusly → erroneously
+- errore → errare
+- even → event
+- expani → expavi
+- extermities → extremities
+- faluation → salvation
+- farrc → far
+- fathfull → faithful
+- fauourèd → favoured
+- favoured → savoured
+- fearinglove → fearing-love
+- feat → fear
+- finisherh → finisheth
+- first → fifth
+- fist → fifth
+- fit → fifth
+- fit → sit
+- foking → soaking
+- foreness → soreness
+- fouth → fourth
+- furly → surly
+- further → murder
+- geslure → gesture
+- got → go
+- grienous → grievous
+- hastile → hasty
+- hatted → hatred
+- hausbands → husbands
+- have → hate
+- he → she
+- he → the
+- heaven → leaven
+- hiderance → hindrance
+- himseife → himself
+- himself → himself.
+- hind → mind
+- his → This
+- hoe → ho
+- hony → honeycomb
+- incesluosis → incestuosis
+- iniuslè → iniustè
+- iniustly → unjustly
+- insect → infect
+- insidell → infidel
+- instifiable → justifiable
+- instification → justification
+- instrument → instruments
+- inventutis → iuventutis
+- invenum → iuvenum
+- iom → iam
+- irkcsome → irksome
+- irrationabilla → irrationabilia
+- its → it's
+- jaylor → jailor
+- justice → injustice
+- laudot → laudat
+- leek → seek
+- lesum → Iesum
+- like → like.
+- likwise → likewise
+- love → above
+- mafested → manifested
+- mans' → mans
+- masters → master
+- matrimenio → matrimonio
+- me → some
+- me → time
+- means → means:
+- measure → pleasure
+- meeknese → meekness
+- men → mens
+- mif → mis
+- must → most
+- nothing → noting
+- nullase → nulla
+- nutriend → nutriendi
+- of → oft
+- ones → one
+- our → out
 - ovaght → ought
+- own → down
+- pacific → pacify
+- parentus → parentis
+- paritic → parity
+- part → part.
+- particualar → particular
+- perfome → perform
+- perform → perform:
+- perserant → perferant
+- placcre → placere
+- plaid → played
+- pole → poll
+- politipue → politic
+- possiby → possibly
+- potestantem → potestatem
+- poverry → poverty
+- practife → practise
+- praecsse → praeesse
+- praescriptun → praescriptum
+- prince → price
+- profanenss → profaneness
+- pronider → provider
+- purchaesing → purchasing
+- quast → quaest
+- qucm → quem
+- queant → quean
+- quiae → quia
+- rains → reins
+- rathet → rather
+- requirety → requireth
+- revererend → reverend
+- revetence → reverence
+- rhaine → main
+- ruptias → nuptias
+- rust → just
+- sab → fab
+- saulation → salvation
+- savory → savoury
+- savours → favours
+- scarp → scrap
+- scoales → scales
+- scole → scale
+- secit → fecit
+- see → set
+- sen → seu
+- sences → fences
+- seruans → servants
+- seruiee → service
+- shall → shalt
+- sicknesle → sickness
+- side → sine
+- siliall → filial
+- siliorum → filiorum
+- silios → filios
+- soeminas → foeminas
+- soon → noon
+- sornicandi → fornicandi
+- speut → spent
+- sruendo → fruendo
+- stabilite → stability
+- staid → stayed
+- staied → stayed
+- straitned → straitened
+- strise → strife
+- stroken → stricken
+- stut → slut
+- talents → talons
+- taquàm → tanquam
+- their → there
+- them → then
+- then → their
+- then → them
+- thier → their
+- things → things.
+- thogh → though
+- tht → that
+- togethet → together
+- tribuium → tributum
+- undesiled → undefiled
+- vers → vers.
+- vettues → virtues
+- vice → vice.
+- warting → thwarting
+- wch → which
+- weight → weigh
+- whethe → whether
+- whether → whither
+- whey → when
+- whither → whether
+- wifer → wiser
+- wile → vile
+- with → which
+- wives → wives.
+- wordlings → worldlings
+- world → world.
 

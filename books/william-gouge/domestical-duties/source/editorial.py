@@ -87,9 +87,11 @@ SPELLING = {
     "vaile": "veil", "vailes": "veils",
     "iudgement": "judgment", "iudgements": "judgments",
     "judgement": "judgment", "judgements": "judgments",
-    "abrahams": "Abraham's", "adams": "Adam's", "dauids": "David's",
-    "salomons": "Solomon's", "iaakobs": "Jacob's",
 }
+# the 1622 spellings the review fixed by hand, found in every place they
+# occur (possessives without the apostrophe, as printed: "Abrahams")
+import runpy as _runpy
+SPELLING.update(_runpy.run_path(str(Path(__file__).parent / "spelling_1622.py"))["SPELLING_1622"])
 
 # "thorow" (9 times) is left as printed by the machine: it is "through" in
 # some places ("strike thorow the very heart") and "thorough" in others ("a
@@ -136,6 +138,20 @@ EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
         "file": "domestical-duties.epub", "cover": "cover-ebook.typ",
         "front": "ebook-front.html",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"],
-        "toc_depth": 4}
+        "toc_depth": 4,
+        # one ebook per volume, as printed
+        "volumes": [
+        {"files": ["vol-1/"], "title": "Of Domestical Duties, Volume I",
+         "file": "domestical-duties-vol-1.epub", "cover": "cover-vol-1.typ",
+         "front": "ebook-front-vol-1.html"},
+        {"files": ["vol-2/"], "title": "Of Domestical Duties, Volume II",
+         "file": "domestical-duties-vol-2.epub", "cover": "cover-vol-2.typ",
+         "front": "ebook-front-vol-2.html"},
+        {"files": ["vol-3/"], "title": "Of Domestical Duties, Volume III",
+         "file": "domestical-duties-vol-3.epub", "cover": "cover-vol-3.typ",
+         "front": "ebook-front-vol-3.html"},
+        {"files": ["vol-4/"], "title": "Of Domestical Duties, Volume IV",
+         "file": "domestical-duties-vol-4.epub", "cover": "cover-vol-4.typ",
+         "front": "ebook-front-vol-4.html"}]}
 PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)]
 SIDE_BY_SIDE = {"split": ["vol-1/", "vol-2/", "vol-3/", "vol-4/"]}
