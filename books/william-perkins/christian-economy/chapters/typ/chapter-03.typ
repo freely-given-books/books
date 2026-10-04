@@ -18,7 +18,7 @@ Nevertheless, since the fall, to some men who have the gift of continency, it is
 
 The end of marriage is fourfold.
 
-The first is, procreation of children, for the propagation and continuance of the seed and posterity of man upon the earth, Gen. 1. 28. #emph[Bring forth fruit multiply, fill the earth, and subdue it,] Genes. 9. 1. 1. Tim. 5. 14.
+The first is, procreation of children, for the propagation and continuance of the seed and posterity of man upon the earth, Gen. 1. 28. #emph[Bring forth fruit and multiply, fill the earth, and subdue it,] Genes. 9. 1. 1. Tim. 5. 14.
 
 The second is the procreation of an holy seed, whereby the Church of God may be kept holy and chaste, and there may always be a holy company of men, that may worship and serve God in the Church from age to age, Malach. 2. 15. #emph[And did not he make one? Yet had he abundance of spirit; and wherefore one? Because he sought a godly seed.]
 
@@ -26,7 +26,7 @@ The third is, that after the fall of mankind, it might be a sovereign means to a
 
 #emph[The fourth end is, that the parties married may thereby perform the duties of their callings, in better and more comfortable manner. Prov.] 31. 11. The heart of her husband trusteth her, and he shall have no need of spoil. #emph[vers.] 13. She seeketh wool, and flax, and laboureth cheerfully with her hands.
 
-Marriage is free to all orders, and sorts of men without exception, even to those that have the gift of continency; but for them which cannot abstain, it is, by the express commandment of God, necessary. Hebr. 13. 4. #emph[marriage is honorable amongst all men, and the bed undefiled.] 1 Cor. 7. 9. #emph[But if they cannot abstain, let them marry.]
+Marriage is free to all orders, and sorts of men without exception, even to those that have the gift of continency; but for them which cannot abstain, it is, by the express commandment of God, necessary. Hebr. 13. 4. #emph[Marriage is honorable amongst all men, and the bed undefiled.] 1 Cor. 7. 9. #emph[But if they cannot abstain, let them marry.]
 
 By which it appeareth to be a clear case, that the commandment of the Pope of Rome, whereby he forbiddeth marriage of certain persons, as namely, of Clergy men, is merely diabolical; for so writeth the Apostle, 1. Tim. 4. 1. #emph[The spirit speaketh evidently, that in the latter times some shall depart from the faith, and shall give heed unto spirits of error, and doctrines of devils,] vers. 3. #emph[forbidding to marry.]
 
@@ -40,4 +40,4 @@ But against this doctrine sundry things are alleged.
 
 #emph[Object.] 4. He that doth earnestly and from his heart, crave the gift of continency, God will give it him, and therefore he need not marry.
 
-#emph[Answ.] The gifts of God are of two sorts, some are general, some are proper general gifts are such as God giveth generally to all, and these may be obtained, if they be asked according to Gods word, lawfully, Jam. 1. 5. #emph[If any of you lack wisdom, let him ask it of God, who giveth to all men liberally, and reproacheth no man, and it shall be given him.] vers. 6. #emph[But let him ask in faith, and waver not.] proper gifts, are those which are given only to some certain men; of which sort is the gift of continency and such like, which though they be often and earnestly asked, yet they are seldom or never granted unto some men; as appeareth in #emph[Pauls] example, who being #emph[buffeted by Satan,] saith of himself, #emph[For this thing I besought the Lord thrice, that it might depart from me; but he said unto me, My grace is sufficient for thee,] 2. Cor. 12. 8. 9.
+#emph[Answ.] The gifts of God are of two sorts, some are general, some are proper. General gifts are such as God giveth generally to all, and these may be obtained, if they be asked according to Gods word, lawfully, Jam. 1. 5. #emph[If any of you lack wisdom, let him ask it of God, who giveth to all men liberally, and reproacheth no man, and it shall be given him.] vers. 6. #emph[But let him ask in faith, and waver not.] Proper gifts, are those which are given only to some certain men; of which sort is the gift of continency and such like, which though they be often and earnestly asked, yet they are seldom or never granted unto some men; as appeareth in #emph[Pauls] example, who being #emph[buffeted by Satan,] saith of himself, #emph[For this thing I besought the Lord thrice, that it might depart from me; but he said unto me, My grace is sufficient for thee,] 2. Cor. 12. 8. 9.

@@ -1,6 +1,6 @@
 == 18. Of the Mistress of the Family, or Goodwife of the House
 
-The goodwife or mistress of the house, is a person which yieldeth help and assistance in government to the master of the family. For he is, as it were, the prince and chief ruler; she is the associate, not only in office and authority, but also in advise, and counsel unto him. 1. King. 17. 17. #emph[And after these things, the son of the woman, which was wife, or] #footnote[\[Bagnalath babbaijth.\] Domina domus.] #emph[mistress of the house, was sick.]
+The goodwife or mistress of the house, is a person which yieldeth help and assistance in government to the master of the family. For he is, as it were, the prince and chief ruler; she is the associate, not only in office and authority, but also in advice, and counsel unto him. 1. King. 17. 17. #emph[And after these things, the son of the woman, which was wife, or] #footnote[\[Bagnalath babbaijth.\] Domina domus.] #emph[mistress of the house, was sick.]
 
 Her duty is two-fold.
 
