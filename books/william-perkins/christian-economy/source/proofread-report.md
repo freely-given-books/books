@@ -8,8 +8,19 @@ footnotes stay in original spelling.
 
 ## Needs your decision
 
-Answer by number, for example "1 yes, 2 no, 3 as recommended". None of these
-has been applied.
+**Decided 2026-10-03 and applied:** 1–4 as recommended (Coloss. 3. 11; "cometh";
+KJV names: Hannah, Tamar, Reuben, Vashti, Iscah, Ahasuerus, Ham, Adonijah,
+Jezreelitess; honor and labour); 5–9 kept as printed (Perkins's own words);
+10 "Bring forth fruit and multiply"; 11 "In fauorem Matrimonij"; 12 "1. King.
+1. 5. 6."; 13 done: `build_tei.py` now carries a bullet item the review indents
+under another (Laban set under Bethuel, as the 1609 page 29 shows) and a stop
+added before a printed numeral that becomes an item (item VII now ends with a
+full stop, VIII keeps its label); 14 checked against the 1609 page image
+(archive.org `bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0`,
+p. 43): the TCP diagram is right — Isaac's children Esau, Jacob and Joseph,
+Jacob's son Joseph joined by a marriage line to Maria, the daughter of Eli
+among Samuel's children Aaron, Eli and Levi — and the edition already sets it
+so; no change.
 
 1. **Ch. 16, a reference to a chapter that does not exist.** The passage reads:
    "But Christ hath purchased liberty to believers, *Coloss. 5. 11.*" The 1609

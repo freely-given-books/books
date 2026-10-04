@@ -956,6 +956,28 @@ def split_marks(ops, src, tgt):
     return out
 
 
+def numeral_stops(ops, src, tgt):
+    """A stop the review adds before a printed numeral it makes a "+" item
+    ("husband VIII. The" -> "husband.\n+ The"): difflib pairs the review's
+    stop with the numeral's and deletes the numeral. Pair the numeral and
+    its stop with the item mark instead (the label), and the review's stop
+    is an insertion after the word before."""
+    out, k = [], 0
+    while k < len(ops):
+        if k + 2 < len(ops):
+            (o1, a1, a2, b1, b2), (o2, c1, c2, d1, d2), (o3, e1, e2, f1, f2) = ops[k:k + 3]
+            if o1 == "delete" and a2 - a1 == 1 and src[a1][1] == "w" and \
+                    NUMERAL_RE.fullmatch(src[a1][0]) and \
+                    o2 == "equal" and c2 - c1 == 1 and src[c1][0] in ".)" and \
+                    o3 == "insert" and tgt[f1][1] == "m" and tgt[f1][0] == "+":
+                out += [("insert", a1, a1, d1, d2), ("replace", a1, c2, f1, f2)]
+                k += 3
+                continue
+        out.append(ops[k])
+        k += 1
+    return out
+
+
 def align(src, tgt, report, label, owner=None):
     """src: stream entries; tgt: [(text, kind)]. Returns (clusters,
     structure_ops). Each cluster: (list of Tok in order, target text list,
@@ -983,7 +1005,7 @@ def align(src, tgt, report, label, owner=None):
             for j in idxs:
                 owner[j] = tok
 
-    for op, i1, i2, j1, j2 in split_marks(sm.get_opcodes(), src, tgt):
+    for op, i1, i2, j1, j2 in split_marks(numeral_stops(sm.get_opcodes(), src, tgt), src, tgt):
         S = src[i1:i2]
         R = tgt[j1:j2]
         Sw = [s for s in S if s[1] == "w"]
@@ -2184,6 +2206,29 @@ def append_block(parent, blk):
     relink(parent)
 
 
+def nested_under(item, path):
+    """Whether the containers in path put a block inside item: in it, or in
+    an item that only wraps a nested list and follows it (the TCP's way of
+    nesting a list under an item, which the Typst lists render as inside)."""
+    if item in path:
+        return True
+    lst = item.parent
+    if lst is None:
+        return False
+    sibs = [c for c in lst.children if c.kind == "container"]
+    k = next((i for i, c in enumerate(sibs) if c is item), None)
+    while k is not None and k + 1 < len(sibs):
+        nxt = sibs[k + 1]
+        inner = [c for c in nxt.children if c.kind == "container" or has_words(c)]
+        if local(nxt.el) != "item" or not inner or \
+                any(c.kind != "container" or local(c.el) != "list" for c in inner):
+            return False
+        if nxt in path:
+            return True
+        k += 1
+    return False
+
+
 def apply_list_shape(log):
     """The review's list layout: an item it indents under another goes into
     a list inside that item, a paragraph it indents under an item goes
@@ -2198,7 +2243,7 @@ def apply_list_shape(log):
         path = path_to(ROOT["toks"], tok)
         conts = [c for c in path or [] if c.kind == "container"]
         d = info["depth"]
-        if info["kind"] == "+":
+        if info["kind"] in ("+", "-"):
             k = next((i for i in range(len(conts) - 1, 0, -1)
                       if local(conts[i].el) == "item"), None)
             if k is None:
@@ -2207,7 +2252,7 @@ def apply_list_shape(log):
                 continue
             item, lst = conts[k], conts[k - 1]
             parent = last.get(d - 1) if d else None
-            if parent is not None and parent not in path:
+            if parent is not None and not nested_under(parent, path):
                 blocks = [c for c in parent.children if c.kind == "container"]
                 sub = blocks[-1] if blocks and local(blocks[-1].el) == "list" else None
                 if sub is None:
@@ -2249,7 +2294,7 @@ def apply_list_shape(log):
                 log.append((f, "skipped", f"paragraph at '{tok.orig}'",
                             "set inside a list item, but no item before it"))
                 continue
-            if parent in path:
+            if nested_under(parent, path):
                 continue
             blk = conts[k]
             detach(blk, conts[k - 1])

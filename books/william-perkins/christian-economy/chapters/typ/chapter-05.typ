@@ -53,7 +53,7 @@ And in this line, look how many degrees the kinsman that is furthest off from th
   - Abraham—
   - Nahor
     - Bethuel
-    - Laban.
+      - Laban.
 
 Here #emph[Laban] being removed furthest off, to wit, three degrees from the common stock #emph[Terah;] is likewise three degrees distant from #emph[Abraham,] his great uncle, and #emph[Abraham] so many from him.
 
@@ -133,7 +133,7 @@ Those that are of alliance, are commonly reduced to these heads.
 + The son in law, or daughters husband, and the daughter in law, or sons wife.
 + The nieces husband, & the nephews wife.
 + The step-son, or son in law, that is, the son of a man by another wife, or of a woman by another husband. The step-daughter, or daughter in law, that is, the daughter of a man by another wife, or of a woman by another husband.
-+ The step-sons son, or his son who comes of a man by another woman, or of a woman by another man. And the step-daughters daughter, or her daughter who comes of a man by another woman, or of the woman by another husband
++ The step-sons son, or his son who comes of a man by another woman, or of a woman by another man. And the step-daughters daughter, or her daughter who comes of a man by another woman, or of the woman by another husband.
 + The husbands or wives brother, & the husbands sister, or brothers wife.
 + The sisters husband, and the brothers wife.
 

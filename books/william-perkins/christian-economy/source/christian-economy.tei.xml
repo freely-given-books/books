@@ -1473,8 +1473,8 @@ in question distant one from the other.</p>
                         <item><choice><orig>Nachor</orig><reg resp="#auto" type="spelling">Nahor</reg></choice></item>
                         <item>
                            <list>
-                              <item>Bethuel</item>
-                              <item>Laban.</item>
+                              <item>Bethuel
+<list change="#review"><item>Laban.</item></list></item>
                            </list>
                         </item>
                      </list>
@@ -1936,7 +1936,7 @@ another woman, or of the woman by
 
 
 <pb n="43" facs="tcp:2719:34"/>
-another husband </item>
+another <choice><orig>husband</orig><reg resp="#editor" type="spelling">husband.</reg></choice> </item>
 <item><label>VIII.</label> The <choice><abbr>husba<g ref="char:cmbAbbrStroke">̄</g>ds</abbr><expan>husbands</expan></choice>
 or <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice> brother, &amp; the <choice><abbr>husba<g ref="char:cmbAbbrStroke">̄</g>ds</abbr><expan>husbands</expan></choice> sister,
 or brothers wife. </item>

@@ -295,10 +295,10 @@ def parse_review(text, inline_headings=False, titled=True, edition_heads=False):
             items.pop()
         return len(items)
 
-    def item_mark(col):
+    def item_mark(col, kind="+"):
         depth = enclosing(col)
         items.append(col)
-        info = {"kind": "+", "depth": depth, "numbering": None, "start": None}
+        info = {"kind": kind, "depth": depth, "numbering": None, "start": None}
         if scopes:              # set rules reach into inner scopes
             info["numbering"] = next((sc[0] for sc in reversed(scopes) if sc[0]), None)
             info["start"], scopes[-1][1] = scopes[-1][1], None
@@ -372,8 +372,7 @@ def parse_review(text, inline_headings=False, titled=True, edition_heads=False):
                 continue
             m = re.match(r"^(\s*)([+-]) (.*)$", line)
             if m:
-                if m.group(2) == "+":
-                    item_mark(len(m.group(1)))
+                item_mark(len(m.group(1)), m.group(2))
                 r.body.append(("+" if m.group(2) == "+" else "-", "m", False))
                 body, cur = m.group(3), "item"
             else:

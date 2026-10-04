@@ -8,7 +8,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 52 |
+| spelling | 53 |
 | case | 42 |
 | emendation | 28 |
 | expansion | 9 |
@@ -19,6 +19,7 @@
 | spacing | 4 |
 | skipped | 1 |
 | merge | 1 |
+| list | 1 |
 
 ## split
 
@@ -178,6 +179,7 @@
 - harts → hearts
 - he → the
 - heard → herd
+- husband → husband.
 - labors → labours
 - prays → praise
 - sauorem → fauorem
