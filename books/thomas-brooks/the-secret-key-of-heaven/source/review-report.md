@@ -7,12 +7,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4979 |
-| case | 3784 |
-| emendation | 3763 |
-| spelling | 2429 |
+| punctuation | 4980 |
+| case | 3786 |
+| emendation | 3758 |
+| spelling | 2430 |
 | italic | 1946 |
-| spacing | 1841 |
+| spacing | 1842 |
 | note | 403 |
 | split | 98 |
 | heading | 90 |
@@ -3534,7 +3534,6 @@
 - [application-04.typ] 139 . 11 , 12 , → “
 - [application-04.typ] thee → thee” (Psa 139:11-12)
 - [application-04.typ] 'tis → It is
-- [application-04.typ] care → ear
 - [application-04.typ] Psal → 
 - [application-04.typ] 44 → 
 - [application-04.typ] 21 → 
@@ -3588,7 +3587,6 @@
 - [application-04.typ] Whoremongers → , whoremongers
 - [application-04.typ] munito cord , → “
 - [application-04.typ] occlusa cord , → “
-- [application-04.typ] besiedged City → besieged city”
 - [application-04.typ] Maid , → maid
 - [application-04.typ] Woman , → woman
 - [application-04.typ] all → all (Pro 30:19-20)
@@ -3674,7 +3672,6 @@
 - [application-04.typ] Chamber → chamber will ere long
 - [application-04.typ] will e're long → 
 - [application-04.typ] Israel → Israel (2Sa 12:11)
-- [application-04.typ] not → but
 - [application-04.typ] upon → open
 - [application-04.typ] his → 
 - [application-04.typ] it self → itself
@@ -3751,7 +3748,7 @@
 - [application-05.typ] ; retire thy self → ? Retire thyself
 - [application-05.typ] embraces → embraces” (Song 8:11-12)
 - [application-05.typ] Meditatio nutrix orationis , → “
-- [application-05.typ] O → Oh,
+- [application-05.typ] O → ” Oh,
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
@@ -3767,7 +3764,6 @@
 - [application-05.typ] Heathens , → heathens
 - [application-05.typ] ends → ends: first
 - [application-05.typ] First , They → they
-- [application-05.typ] any → they
 - [application-05.typ] Stone ! ( → stone.
 - [application-05.typ] allude → allude in Revelation 2:17
 - [application-05.typ] in → 
@@ -3829,7 +3825,6 @@
 - [application-05.typ] Closet - → closet
 - [application-05.typ] or battel , → of battle
 - [application-05.typ] Closet , → closet
-- [application-05.typ] not stedfastly → steadfastly
 - [application-05.typ] Brass , → brass
 - [application-05.typ] Sepulchre ; they → sepulcher (Mat 28:2). They
 - [application-05.typ] Closet - → closet
@@ -8563,6 +8558,7 @@
 - [application-04.typ] , → ,”
 - [application-04.typ] , → , “
 - [application-04.typ] : → .”
+- [application-04.typ] , → ,”
 - [application-04.typ] , → , “
 - [application-04.typ] . → .”
 - [application-04.typ] , → 
@@ -9013,6 +9009,7 @@
 - They → they (×10)
 - You → you (×10)
 - no → No (×10)
+- City → city (×9)
 - Emperor → emperor (×9)
 - If → if (×9)
 - Prophet → prophet (×9)
@@ -9021,7 +9018,6 @@
 - for → For (×9)
 - who → Who (×9)
 - Apostle → apostle (×8)
-- City → city (×8)
 - Glory → glory (×8)
 - Gold → gold (×8)
 - Husband → husband (×8)
@@ -9046,6 +9042,7 @@
 - Master → master (×7)
 - Mother → mother (×7)
 - Ordinances → ordinances (×7)
+- Secret → secret (×7)
 - Temple → temple (×7)
 - Wives → wives (×7)
 - some → Some (×7)
@@ -9066,7 +9063,6 @@
 - Mount → mount (×6)
 - Ordinance → ordinance (×6)
 - Relations → relations (×6)
-- Secret → secret (×6)
 - Throne → throne (×6)
 - that → That (×6)
 - there → There (×6)
@@ -10198,6 +10194,7 @@
 - spoke → spoken (×2)
 - staid → stayed (×2)
 - stampt → stamped (×2)
+- stedfastly → steadfastly (×2)
 - stil → still (×2)
 - stroak → stroke (×2)
 - thou's → thous (×2)
@@ -10583,6 +10580,7 @@
 - belly'd → bellied
 - beloveds → beloved’s
 - besiedge → besiege
+- besiedged → besieged
 - better → better…
 - bewailed → bewailed,
 - bewildred → bewildered
@@ -11048,11 +11046,9 @@
 - sowrly → sourly
 - speaks → spake
 - special → especial
-- spend → spare
 - spiriritual → spiritual
 - spirits → Spirit’s
 - stand → “Stand
-- stedfastly → steadfastly
 - stept → stepped
 - still → still,
 - stomack → stomach

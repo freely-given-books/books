@@ -87,3 +87,18 @@ arg-13..20: "his"->"our" style slips; arg-19 "but in the" dropped; arg-17 fine.
   to exhort us" (app-01 end, "Secondly" cut); Isa 54:13 expanded by CL into a quotation, so "In these words" now points
   at Isaiah (app-02, Spirit teaches); 1Sa 1:11 (Brooks's ref, 1:13 is the verse); "eminent danger" (=imminent, arg-13);
   recompence (×2) / recompense.
+
+## Update (resumed again 2026-10-03, main session)
+
+- application-03 (d7f9c8d), 04, 05: done. ALL TEXT READ. NEXT: build, PDF text check, report.
+- app-04 fixes: "eye and ear of God" -> "eye and care" (1665); "if but thought on" -> "if not thought on" (1665);
+  "Thirdly, Secret sinning" -> secret; "besieged city”, that" -> "city,” that".
+- app-05 fixes: stray “ before "Meditation is the nurse of prayer" closed after it; "If they were condemned ... gave him"
+  -> "If any" (1665); "who is steadfastly resolved" -> "who is not steadfastly" (1665; CL dropped "not", sense reversed);
+  "would but spare one quarter of an hour" -> "spend" (1665).
+- questions added: "Sirs!" for 1665 "O Sirs" ×9 (app-02 ×2, app-03 ×5, app-04, app-05, arg-12 "Sirs!" also had O?)
+  - CL's style, 27 "O sirs" kept: restore O?; "nor punishable by the hands of men" (1665 "by the Laws or hands", app-04);
+  Ausonius (CL) / Ausanius (1665 and Gregory of Tours) app-04; "one perpetual day, which shall never see light"
+  (1665 too; sense needs "night"); Song 8:11-12 after Bernard is CL's added ref (not in 1665; Song 7:11-12 fits the
+  fields); Carnifex -> "executioner" (Latin cut, add to q1); "as is evident by the scriptures in the margin" (app-04
+  ×2: the margin is not printed).
