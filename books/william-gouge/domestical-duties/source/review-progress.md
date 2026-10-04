@@ -45,3 +45,10 @@ review-progress-vol-1..4.md (questions drafted there go into the final report).
   (John 9:3, 9:4 x2, 7:30), 1 King. 13. 24 (13. 14 printed), Isa. 57. 1 (17. 1), Judg. 9. 56,
   Psalm 128 (print "28"), afar off, epigraph Eph 6:3 inner emph removed ("mayest"),
   Answ. italic x3, Naomi, carrion, toil, inheritance, altered, Vatabl., scarce entereth.
+- vol-2 13-17 read and fixed 2026-10-03 (18 next). Notes for the report: duplicate section numbers
+  as printed (vol-2/14 §. 15 x2, vol-2/16 §. 43 x2, vol-2/17 §. 57 follows 55, §. 58 x2); vol-2/17 §47
+  brace set as a list "+ In this provident care ... of / + His wife, we will consider the / + Extent /
+  + Continuance" (machine table reading; the pipeline cannot turn list items back into a paragraph:
+  question / pipeline). Print misprints fixed: slut, drab, quean (print "stut, drab, queant"), above
+  all others ("about"), joy (print "by"), if before them ("of"), "if it be kept", Mic. 4. 9 (49),
+  Joh. 19. 26 (Iob.).

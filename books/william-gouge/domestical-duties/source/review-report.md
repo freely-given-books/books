@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1136 |
-| emendation | 194 |
-| grammar | 145 |
-| punctuation | 118 |
-| case | 68 |
+| spelling | 1275 |
+| emendation | 216 |
+| grammar | 149 |
+| punctuation | 138 |
+| case | 72 |
+| spacing | 26 |
 | italic | 26 |
-| spacing | 25 |
-| expansion | 22 |
-| gap | 19 |
+| expansion | 25 |
+| gap | 21 |
 | split | 6 |
 | list | 4 |
 | note moved | 3 |
@@ -40,6 +40,8 @@
 - [vol-2/07-serving-together-in-family-ministry.typ] do → no
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ] sought → ought
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] of → if
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] foeminae → foeminas
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] of → if
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gld → gold
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ovught → ought
 - [vol-3/02-children-getting-parents-permission.typ] to → so
@@ -69,6 +71,9 @@
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] Tutun → Tutum
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] conmandement → commandment
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] conpany → company
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] curan → curam
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] hon → hom
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] hon → hom
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] fron → from
 - [vol-3/04-children-giving-back-to-parents.typ note] patren → patrem
 - [vol-3/04-children-giving-back-to-parents.typ note] vicinun → vicinum
@@ -196,7 +201,29 @@
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] for bear → forbear
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] for sake → forsake
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] meet est → meetest
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] anim bus → animabus
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ] it → it be
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ] so briety → sobriety
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] a → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] b → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] try all → trial
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] hous - wife → housewife
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] tu → too
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] by → joy
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] up braid → upbraid
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] on → an
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] y . → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] for bearing → forbearing
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] healethy → heal thy
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] tuferitatem → tu feritatem
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] Sedefendendo → Se defendendo
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] ne que → neque
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] anniten . dum → annitendum
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] for beareth → forbeareth
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Hither to → Hitherto
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Cheney → China
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] 49 → 4
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
 - [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
 - [vol-3/02-children-getting-parents-permission.typ note] 5 1 → 51
 - [vol-3/02-children-getting-parents-permission.typ note] vx eres → vxores
@@ -295,6 +322,7 @@
 - admiteth → admitteth (×2)
 - aduanceth → advanceth (×2)
 - confereth → conferreth (×2)
+- diddest → didst (×2)
 - entreth → entereth (×2)
 - hoordeth → hoardeth (×2)
 - refereth → referreth (×2)
@@ -307,6 +335,7 @@
 - adioyneth → adjoineth
 - adiudgeth → adjudgeth
 - brest → breast
+- carryeth → carrieth
 - caveth → careth
 - cleaneth → clean
 - cleanfeth → cleanseth
@@ -316,12 +345,12 @@
 - conueigheth → conveyeth
 - cryeth → crieth
 - decaieth → decayeth
-- diddest → didst
 - exprest → expressed
 - fetteth → setteth
 - forgeteth → forgetteth
 - indevoureth → endeavoureth
 - marieth → marrieth
+- middest → midst
 - permiteth → permitteth
 - praieth → prayeth
 - preserueth → preserveth
@@ -329,6 +358,7 @@
 - receineth → receiveth
 - seareheth → searcheth
 - shuteth → shutteth
+- softneth → softeneth
 - tyeth → tieth
 - wandreth → wandereth
 - watreth → watereth
@@ -400,6 +430,26 @@
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] , → .
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] . → 
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] § → §.
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → ,
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] § → §.
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] , → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → 
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ] , → .
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] . → 
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ note] . → ,
+- [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → . 9.
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → ,
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] * → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] § → §.
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → ,
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] - → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] , → .
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ] , → .
@@ -457,9 +507,10 @@
 ## case
 
 - children → Children (×8)
+- love → Love (×4)
 - And → and (×3)
 - To → to (×3)
-- love → Love (×3)
+- note → Note (×3)
 - servants → Servants (×3)
 - IN → In (×2)
 - Or → or (×2)
@@ -467,7 +518,7 @@
 - The → the (×2)
 - Years → years (×2)
 - father → Father (×2)
-- note → Note (×2)
+- mothers → Mothers (×2)
 - son → Son (×2)
 - subjection → Subjection (×2)
 - the → The (×2)
@@ -476,6 +527,7 @@
 - Declare → declare
 - First → first
 - May → may
+- Misinterpret → misinterpret
 - OF → Of
 - See → see
 - Sin → sin
@@ -491,7 +543,6 @@
 - man → Man
 - masters → Masters
 - men → Men
-- mothers → Mothers
 - parents → Parents
 - persons → Persons
 - place → Place
@@ -505,35 +556,41 @@
 - borne → born (×60)
 - paine → pain (×24)
 - sharpe → sharp (×16)
-- 3 → 3. (×12)
+- 3 → 3. (×14)
 - Angell → Angel (×11)
+- 2 → 2. (×9)
 - 4 → 4. (×9)
 - Iam → Jam (×9)
 - president → precedent (×9)
 - Reu → Rev (×8)
-- 2 → 2. (×7)
+- Treat → Treat. (×8)
+- Uers → Vers (×8)
 - 11 → 11. (×6)
+- Job → Joh (×6)
 - marvell → marvel (×6)
-- Job → Joh (×5)
-- Treat → Treat. (×5)
-- Uers → Vers (×5)
 - brooke → brook (×5)
 - hinderances → hindrances (×5)
+- steed → stead (×5)
 - thorow → through (×5)
 - woful → woeful (×5)
 - 1 → 1. (×4)
 - Friers → Friars (×4)
 - Gen → Gen. (×4)
+- fowles → fowls (×4)
 - hainousness → heinousness (×4)
 - indeavour → endeavour (×4)
 - pitty → pity (×4)
 - ravisht → ravished (×4)
 - thorow → thorough (×4)
+- wines → wives (×4)
 - 12 → 12. (×3)
+- 19 → 19. (×3)
 - 24 → 24. (×3)
 - Absoloms → Absaloms (×3)
+- Isaacks → Isaacs (×3)
 - Joh → Joh. (×3)
 - at → that (×3)
+- cary → carry (×3)
 - childes → childs (×3)
 - cleering → clearing (×3)
 - conueniency → conveniency (×3)
@@ -541,25 +598,28 @@
 - devillish → devilish (×3)
 - disswade → dissuade (×3)
 - emphaticall → emphatical (×3)
-- fowles → fowls (×3)
 - incouraging → encouraging (×3)
 - indefinitly → indefinitely (×3)
+- intreating → entreating (×3)
 - leasure → leisure (×3)
+- ministery → ministry (×3)
 - releeving → relieving (×3)
+- scars → scarce (×3)
 - sowen → sown (×3)
-- steed → stead (×3)
 - stolne → stolen (×3)
 - tenn → ten (×3)
 - toile → toil (×3)
 - unsetled → unsettled (×3)
 - wearisomness → wearisomeness (×3)
+- wise → wife (×3)
 - 10 → 10. (×2)
 - 13 → 13. (×2)
 - 14 → 14. (×2)
-- 19 → 19. (×2)
+- 20 → 20. (×2)
 - 21 → 21. (×2)
 - 6 → 6. (×2)
 - Adoniah → Adonijah (×2)
+- Ahashuerosh → Ahasuerus (×2)
 - Apostolicall → Apostolical (×2)
 - Assise → Assize (×2)
 - Cer → Cor (×2)
@@ -571,6 +631,7 @@
 - Galile → Galilee (×2)
 - Jorden → Jordan (×2)
 - Jove → love (×2)
+- Jsa → Isa (×2)
 - Mat → Mat. (×2)
 - Pet → Pet. (×2)
 - Pilats → Pilates (×2)
@@ -578,8 +639,11 @@
 - Rom → Rom. (×2)
 - Sam → Sam. (×2)
 - Thes → Thes. (×2)
+- Tim → Tim. (×2)
+- Tit → Tit. (×2)
 - Vashties → Vashtis (×2)
 - Vashty → Vashti (×2)
+- advise → advice (×2)
 - allaied → allayed (×2)
 - backt → backed (×2)
 - ballance → balance (×2)
@@ -591,12 +655,12 @@
 - borne → -born (×2)
 - bruit → brute (×2)
 - burthensome → burdensome (×2)
-- cary → carry (×2)
 - cloathing → clothing (×2)
 - conceipt → conceit (×2)
 - corasive → corrosive (×2)
 - cosins → cousins (×2)
 - counseller → counsellor (×2)
+- dearely → dearly (×2)
 - deere → dear (×2)
 - deliberatly → deliberately (×2)
 - doatage → dotage (×2)
@@ -604,6 +668,7 @@
 - enlightned → enlightened (×2)
 - expence → expense (×2)
 - fairely → fairly (×2)
+- faith → saith (×2)
 - fullenness → sullenness (×2)
 - gaines → gains (×2)
 - greene → green (×2)
@@ -625,23 +690,26 @@
 - jealously → jealousy (×2)
 - joynter → jointure (×2)
 - kitchin → kitchen (×2)
+- lanch → lance (×2)
 - left → lest (×2)
 - lillies → lilies (×2)
 - maist → mayest (×2)
 - meaness → meanness (×2)
-- ministery → ministry (×2)
 - miscariage → miscarriage (×2)
 - mony → money (×2)
 - morter → mortar (×2)
 - orthodoxall → orthodoxal (×2)
 - otherwaies → otherways (×2)
 - out → but (×2)
+- outragious → outrageous (×2)
 - parents → parentes (×2)
 - patheticall → pathetical (×2)
 - peece → piece (×2)
+- peirce → pierce (×2)
 - peruersness → perverseness (×2)
 - pilfring → pilfering (×2)
 - pittifull → pitiful (×2)
+- plainely → plainly (×2)
 - privatly → privately (×2)
 - relique → relic (×2)
 - reprooving → reproving (×2)
@@ -649,6 +717,8 @@
 - sawciness → sauciness (×2)
 - science → scion (×2)
 - sory → sorry (×2)
+- steele → steel (×2)
+- sterne → stern (×2)
 - stile → style (×2)
 - stomacks → stomachs (×2)
 - tenour → tenor (×2)
@@ -659,17 +729,18 @@
 - villanies → villainies (×2)
 - wife → wise (×2)
 - wils → wills (×2)
-- wines → wives (×2)
 - yoak → yoke (×2)
 - 18 → 18.
 - 18 → 18.)
-- 20 → 20.
 - 23 → 23.
 - 24 → 24,
 - 28 → 28.
 - 32 → 32.
 - 37 → 37.
 - 38 → 38.
+- 43 → 43,
+- 47 → 47.
+- 48 → 48.
 - 50 → 50.
 - 53 → 53.
 - 67 → 67.
@@ -679,6 +750,9 @@
 - A → As
 - Acqualen → Aequalem
 - Aenied → Aeneid
+- Ahashverosh → Ahasuerus
+- Ahoshuerosh → Ahasuerus
+- Amalakites → Amalekites
 - Ambassadour → Ambassador
 - Ammon → Amnon
 - Annahs → Hannahs
@@ -709,30 +783,36 @@
 - Counseller → Counsellor
 - Counsellours → Counsellors
 - Craelius → Cornelius
+- Daemoniacks → Daemoniacs
 - Dan → Dan.
+- Dent → Deut
 - Deul → Deut
 - Devillish → Devilish
+- Eccl → Eccl.
 - Eliah → Elijah
 - Emphacicall → emphatical
 - Eor → Cor
+- Eph → Eph.
 - Ephef → Ephes
 - Euscb → Euseb
 - Exhòrtation → Exhortation
 - Fearefulness → Fearfulness
+- Gal → Gal.
 - Godman → God-man
 - Grudgingly → Rudely
 - Hanna → Hannah
 - Hereticke → Heretic
 - Heretique → Heretic
 - Hirom → Hiram
+- Hittits → Hittites
 - Hony → Honey
 - How → Now
 - Iam → Iam.
 - Idoirco → Idcirco
+- Imag → Image
 - Incoragement → Encouragement
 - Indas → Judas
 - Iniquiffima → Iniquissima
-- Isaacks → Isaacs
 - Isaakes → Isaacs
 - Isaaks → Isaacs
 - Jaacob → Jacob
@@ -745,11 +825,11 @@
 - Jess → Jesse
 - Jos → Jos.
 - Josuahs → Joshuas
-- Jsa → Isa
 - Justit → Instit
 - Leu → Lev
 - Levire → Levite
 - Lidia → Lydia
+- Luk → Luk.
 - Manassch → Manasseh
 - Marvell → marvel
 - Micol → Michal
@@ -757,6 +837,7 @@
 - Nazaret → Nazareth
 - Noami → Naomi
 - Num → Num.
+- Orthers → Others
 - Ose → Ose.
 - Ouid → Ovid
 - Passeover → Passover
@@ -764,6 +845,7 @@
 - Pentecosle → Pentecoste
 - Pharohs → Pharaohs
 - Philosophen → Philosophers
+- Phinchas → Phinehas
 - Phineas → Phinehas
 - Privat → Private
 - Pro → Pro.
@@ -774,6 +856,7 @@
 - Ruben → Reuben
 - Rudely → Grudgingly
 - Sabboth → Sabbath
+- San → Sam
 - Savadges → Savages
 - Sawciness → Sauciness
 - Seneca → Senecae
@@ -785,8 +868,6 @@
 - Sucton → Sueton
 - Taylors → Tailors
 - Then → When
-- Tim → Tim.
-- Tit → Tit.
 - Trespassor → Trespasser
 - Tro → Pro
 - Uashty → Vashti
@@ -797,17 +878,25 @@
 - Uiu → Viu
 - Uivem → Vivem
 - Unsetledly → Unsettledly
+- Uxor → Vxor
 - Vers → Vers.
+- Ves → Vers
 - Virginea → Virginia
 - Wastfully → Wastefully
+- Weigh → Weighty
 - Welbeloved → Well-beloved
 - Wherupon → Whereupon
+- a → an
 - a → at
+- aboundantly → abundantly
+- about → above
 - accurat → accurate
 - adbuc → adhuc
+- aduantageable → advantageable
 - ae → a
 - aet → Laet
 - afarra → afar
+- affioere → afficere
 - affoorded → afforded
 - aide → aid
 - alleadge → allege
@@ -816,11 +905,14 @@
 - alleaging → alleging
 - allegeance → allegiance
 - altred → altered
+- ana → and
 - and → an
 - annise → anise
+- another → anothers
 - another → mother
 - apprentises → apprentices
 - are → are.
+- are → art
 - assaied → assayed
 - asswage → assuage
 - asswaged → assuaged
@@ -828,6 +920,7 @@
 - attonement → atonement
 - aufterity → austerity
 - awefull → awful
+- awes → laws
 - backwandness → backwardness
 - ballances → balances
 - baptiscth → baptizeth
@@ -835,6 +928,7 @@
 - bedred → bedrid
 - beevishness → peevishness
 - begger → beggar
+- behoofull → behoveful
 - bels → bells
 - besmeered → besmeared
 - beter → better
@@ -844,9 +938,11 @@
 - blockishnese → blockishness
 - boared → bored
 - boaring → boring
+- boay → body
 - bolstred → bolstered
 - bom → hom
 - boone → boon
+- boord → board
 - boording → boarding
 - borow → borrow
 - borowing → borrowing
@@ -874,10 +970,12 @@
 - ccuet → covet
 - charets → chariots
 - chastning → chastening
+- childebirth → childbirth
 - childings → chidings
 - chird → third
 - choake → choke
 - cholericke → choleric
+- christall → crystal
 - circumcision → circumcisione
 - circumcized → circumcised
 - clearkes → clerks
@@ -908,45 +1006,53 @@
 - danted → daunted
 - darkned → darkened
 - darkning → darkening
-- dearely → dearly
 - decaied → decayed
 - deerely → dearly
 - degenerat → degenerate
 - delaied → delayed
 - delicatly → delicately
+- desperat → desperate
 - desperatly → desperately
 - despight → despite
 - differencies → differences
+- dipt → dipped
 - disanulled → disannulled
 - disdainefully → disdainfully
+- disioynted → disjointed
 - dispise → despise
 - dissention → dissension
 - dissentions → dissensions
 - disswasion → dissuasion
 - divolued → devolved
 - dominere → domineer
+- dreaned → drained
 - droyling → droiling
 - dugges → dugs
 - duls → dulls
+- eand → and
+- edisication → edification
 - eger → egere
 - embeaseled → embezzled
 - enioynes → enjoins
 - entercourse → intercourse
 - entertaiment → entertainment
 - equalls → equals
+- erroneeusly → erroneously
 - erronious → erroneous
 - errore → errare
 - even → event
 - expani → expavi
 - extermities → extremities
-- faith → saith
+- extreame → extreme
 - falshood → falsehood
 - faluation → salvation
 - farrc → far
 - fathfull → faithful
 - fauourèd → favoured
+- favoured → savoured
 - fearefulness → fearfulness
 - fearinglove → fearing-love
+- feat → fear
 - fewell → fuel
 - finisherh → finisheth
 - fist → fifth
@@ -955,6 +1061,7 @@
 - forraine → foreign
 - foureteene → fourteen
 - fouth → fourth
+- frantike → frantic
 - funeralls → funerals
 - furly → surly
 - further → murder
@@ -1004,6 +1111,7 @@
 - imploiments → employments
 - imploying → employing
 - imployments → employments
+- inamored → enamoured
 - incarnat → incarnate
 - incesluosis → incestuosis
 - incumbred → encumbered
@@ -1013,16 +1121,17 @@
 - inioying → enjoying
 - iniuslè → iniustè
 - iniustly → unjustly
+- inraged → enraged
 - insect → infect
 - insidell → infidel
 - instifiable → justifiable
 - instification → justification
+- instrument → instruments
 - intice → entice
 - inticed → enticed
 - inticements → enticements
 - intitled → entitled
 - intituling → entitling
-- intreating → entreating
 - inueagle → inveigle
 - inueagling → inveigling
 - inuits → invites
@@ -1041,16 +1150,21 @@
 - joynts → joints
 - kitchinmaids → kitchen-maids
 - laicks → laics
+- lanched → lanced
+- lanching → lancing
 - lasiness → laziness
+- laudot → laudat
 - launce → lance
 - leaud → lewd
 - leek → seek
 - lesum → Iesum
+- lier → liar
 - like → like.
 - likwise → likewise
 - lims → limbs
 - linage → lineage
 - lothness → loathness
+- lowd → loud
 - loynes → loins
 - lunatike → lunatic
 - mafested → manifested
@@ -1064,9 +1178,12 @@
 - me → time
 - means → means:
 - meated → meted
+- medling → meddling
 - meekely → meekly
 - meeknese → meekness
+- melancholicke → melancholic
 - men → mens
+- ment → meant
 - mif → mis
 - mispend → misspend
 - mispent → misspent
@@ -1077,21 +1194,26 @@
 - nearely → nearly
 - neast → nest
 - neerness → nearness
+- nigardly → niggardly
+- nigardlyness → niggardliness
 - nothing → noting
 - nullase → nulla
 - nurtered → nurtured
 - nutriend → nutriendi
 - obstinatly → obstinately
 - of → oft
+- our → out
 - ovaght → ought
 - overcomming → overcoming
 - overweene → overween
 - overweining → overweening
 - own → down
+- pacific → pacify
 - paralleld → paralleled
 - parentus → parentis
 - paritic → parity
 - part → part.
+- parteners → partners
 - particualar → particular
 - parts → partes
 - passeover → passover
@@ -1102,14 +1224,15 @@
 - perform → perform:
 - perserant → perferant
 - perswades → persuades
+- pils → pills
 - placcre → placere
 - plaid → played
 - plaiers → players
 - plaies → plays
-- plainely → plainly
 - pole → poll
 - politipue → politic
 - poorely → poorly
+- possessers → possessors
 - possiby → possibly
 - potestantem → potestatem
 - poverry → poverty
@@ -1119,6 +1242,7 @@
 - poyson → poison
 - poysoned → poisoned
 - practife → practise
+- praecsse → praeesse
 - praeposition → preposition
 - praescriptun → praescriptum
 - praestitiss → praestitisse
@@ -1128,17 +1252,23 @@
 - profanenss → profaneness
 - pronider → provider
 - prophecying → prophesying
+- publikly → publicly
 - purchaesing → purchasing
 - quast → quaest
 - qucm → quem
+- queant → quean
 - quiae → quia
+- rancke → rank
 - rathet → rather
 - rebells → rebels
 - refractary → refractory
 - registred → registered
 - relinquisht → relinquished
 - remisnes → remissness
+- reproches → reproaches
+- reproove → reprove
 - requirety → requireth
+- resoluedly → resolvedly
 - revenewes → revenues
 - revererend → reverend
 - revetence → reverence
@@ -1152,16 +1282,18 @@
 - saulation → salvation
 - savory → savoury
 - savours → favours
+- scabberd → scabbard
 - scarp → scrap
-- scars → scarce
 - schismatiques → schismatics
 - scoales → scales
 - scole → scale
 - scornefully → scornfully
 - scowring → scouring
 - scrabled → scrabbled
+- screekes → shrieks
 - seamonsters → sea-monsters
 - seasing → seizing
+- seaze → seize
 - seazed → seized
 - secit → fecit
 - see → set
@@ -1181,9 +1313,12 @@
 - siliall → filial
 - siliorum → filiorum
 - silios → filios
+- sinnefull → sinful
 - skabbed → scabbed
+- sleighting → slighting
 - soader → solder
 - soeminas → foeminas
+- somwhat → somewhat
 - sornicandi → fornicandi
 - soveraignty → sovereignty
 - sowre → sour
@@ -1191,6 +1326,7 @@
 - speut → spent
 - spight → spite
 - spightfully → spitefully
+- spoaken → spoken
 - spred → spread
 - spue → spew
 - spuing → spewing
@@ -1199,19 +1335,29 @@
 - staid → stayed
 - staied → stayed
 - stedfastness → steadfastness
-- steele → steel
+- stifly → stiffly
 - straitned → straitened
+- strickt → strict
 - striken → stricken
 - strise → strife
+- stroken → stricken
 - strugling → struggling
 - stupified → stupefied
+- stut → slut
+- subtil → subtle
 - succeding → succeeding
 - suerty → surety
+- suites → suits
+- suspence → suspense
 - swagerers → swaggerers
 - swarue → swerve
 - swel → swell
+- syrrop → syrup
 - talents → talons
+- taquàm → tanquam
 - theevery → thievery
+- their → there
+- them → then
 - then → their
 - then → them
 - therto → thereto
@@ -1226,6 +1372,7 @@
 - trayning → training
 - traytors → traitors
 - tribuium → tributum
+- troden → trodden
 - tyrany → tyranny
 - tyring → tiring
 - unaduisedness → unadvisedness
@@ -1233,6 +1380,7 @@
 - uncleaness → uncleanness
 - undesiled → undefiled
 - vaineglory → vainglory
+- venemous → venomous
 - vers → vers.
 - vertuously → virtuously
 - vettues → virtues
@@ -1240,6 +1388,7 @@
 - vildly → vilely
 - vocation → vocatione
 - waightier → weightier
+- waiwardness → waywardness
 - wals → walls
 - warting → thwarting
 - wastfull → wasteful
@@ -1252,11 +1401,11 @@
 - whether → whither
 - whey → when
 - whither → whether
+- wholy → wholly
 - wiars → wires
 - wier → wire
 - wifer → wiser
 - wile → vile
-- wise → wife
 - withdrawen → withdrawn
 - wives → wives.
 - wondred → wondered
