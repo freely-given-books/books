@@ -4,7 +4,7 @@
 
 The general #emph[matter] together with the particular #emph[kinds] of husbands duties being thus far handled, The #emph[manner] also of performing them is to be delivered.
 
-To instruct an husband in the #emph[manner] of performing his duties to his wife, the Apostle laieth down two patterns
+To instruct an husband in the #emph[manner] of performing his duties to his wife, the Apostle layeth down two patterns
 
 + #emph[Christ,] vers. 25.
 + #emph[Our selves,] vers. 28.
@@ -36,7 +36,7 @@ Contrary, is their disposition, who having loving and dutiful wives, are notwith
 
 === §. 63. #emph[Of the] #footnote[Treat. 3. §. 57. 2. Christ loveth in #emph[truth.]] truth #emph[of husbands love.]
 
-II. The #emph[truth] of Christs love was manifested by the fruits thereof to his Church: #emph[He gave himself for it.] It was therefore not in #emph[word] only, no nor only in #emph[heart,] but in #emph[deed] also. Thus his love proved profitable, and beneficial to his Church, which thereby was #emph[clensed, and made a glorious] #footnote[#emph[Vers.] 26, 27.] #emph[Church.] Had he only borne a tender compassion and pittifull affection towards it, or laboured only with comfortable and sweet words to uphold and succour it, it had still lain polluted with sin, in the power of the devil, and under Gods wrath, and so received no profit and benefit at all.
+II. The #emph[truth] of Christs love was manifested by the fruits thereof to his Church: #emph[He gave himself for it.] It was therefore not in #emph[word] only, no nor only in #emph[heart,] but in #emph[deed] also. Thus his love proved profitable, and beneficial to his Church, which thereby was #emph[clensed, and made a glorious] #footnote[#emph[Vers.] 26, 27.] #emph[Church.] Had he only borne a tender compassion and pitiful affection towards it, or laboured only with comfortable and sweet words to uphold and succour it, it had still lain polluted with sin, in the power of the devil, and under Gods wrath, and so received no profit and benefit at all.
 
 So must husbands love their wives in #emph[truth] and in #emph[deed.] #footnote[Husbands must love in #emph[deed.]] #footnote[1 #emph[Joh.] 3. 18.] Such a love is required of a man to his brother: much more therefore to his wife, who is not only a #emph[sister] (as #footnote[1 #emph[Cor.] 9. 5.] the Apostle expressly styleth her) but nearer then sister, mother, daughter, friend, or any other whatsoever. This therefore serveth to press the #emph[practise] of all the forenamed duties appertaining to an husband.
 
@@ -62,7 +62,7 @@ Contrary is their love which is only for their own content and advantage. Many c
 
 IIII. Christs love for the #emph[quality] is an holy, pure, chaste, #footnote[4\. Christs love #emph[pure. Eph.] 5. 26, 27.] love: as he himself is, so is his love, as is evident by the effect thereof: for it moved him to #emph[sanctify and clense his] #emph[Church, to make it a glorious Church without spot:] he did therefore no way pollute or defile his Spouse: and that his love might the better appear to be chaste love, cast only upon one Spouse and not many, he united all his Saints together by the #footnote[1 #emph[Cor.] 12. 12, 13] bond of his Spirit, and made them all #emph[one body.]
 
-Hereby husbands must learn so to be affected towards #footnote[Husbands love must be #emph[chaste. Heb.] 13. 4.] their wives as may stand with holiness, and chastity: though much love be required, yet it may not over-flow those banks. #emph[marriage is honourable and a bed undefiled.] It must therefore be used as an undefiled thing. This indeed appertaineth to the wife as well as to the husband. But because he is the head, and guide of his wife, and ought to be as a pattern and president before her, as Christ is before him, therefore is it more specially applied to him. The purity of an husbands love here spoken of, hath a double use,
+Hereby husbands must learn so to be affected towards #footnote[Husbands love must be #emph[chaste. Heb.] 13. 4.] their wives as may stand with holiness, and chastity: though much love be required, yet it may not over-flow those banks. #emph[marriage is honourable and a bed undefiled.] It must therefore be used as an undefiled thing. This indeed appertaineth to the wife as well as to the husband. But because he is the head, and guide of his wife, and ought to be as a pattern and precedent before her, as Christ is before him, therefore is it more specially applied to him. The purity of an husbands love here spoken of, hath a double use,
 
 1. It restraineth an husbands love to his own wife. There is a general Christian love whereby all occasions of doing good are taken, with which an husband may, and ought to love others: and a particular matrimonial love, whereby he is moved to prefer his wife before all, and to have his heart set and fixed on her, and so proper and peculiar to her.
 
@@ -98,7 +98,7 @@ For his love resteth not on the desert of his Church, but on the unchangeablenes
 
 This last branch must be added to all the former branches #footnote[Husbands must be constant in their love.] of an husbands love, or else they will be all in vain and to no purpose. This giveth the truest trial of sound love. Such was the love betwixt #emph[David] and #emph[Jonathan:] the soundest love that ever was, betwixt party and party. This bringeth the greatest glory to the party which loveth: and the greatest benefit to the party which is loved. That a mans love may thus remain firm and inviolable,
 
-1. He must be sure to lay a good foundation; he must ground his love on Gods ordinance: and love his wife in regard of the matrimonial bond which kniteth them together, and that near union which thence ariseth; and so it will last so long as that knot lasteth.
+1. He must be sure to lay a good foundation; he must ground his love on Gods ordinance: and love his wife in regard of the matrimonial bond which knitteth them together, and that near union which thence ariseth; and so it will last so long as that knot lasteth.
 
 2. He must further support and strengthen it with an inviolable resolution to be changed and altered with no provocation, but rather to pass by all infirmities; indeavouring in love to redress them if possibly he can: if not, to bear with them.
 
@@ -126,9 +126,9 @@ No other man will or can so tenderly handle a mans hand arm, leg or any other pa
 
 The metaphors which the Apostle useth in these words, #emph[He nourisheth and cherisheth it,] do lively set forth this tenderness: #footnote[#emph[Eph.] 5. 29.] for they are taken from fowles and birds which very charily, and tenderly hover over their young ones, covering them all over with their wings and feathers, but so bearing up their bodies as no weight lieth upon them.
 
-Thus ought husbands with all tenderness, and mildness #footnote[Husbands must deal tenderly with their wives.] to deal with their wives, as we have before noted in many particulars: only this example of a mans self I thought good to set before husbands, as a lively pattern wherein they might behold a president without exception, going before them, and whereby they might receive excellent direction for the better performing of the particulars before noted.
+Thus ought husbands with all tenderness, and mildness #footnote[Husbands must deal tenderly with their wives.] to deal with their wives, as we have before noted in many particulars: only this example of a mans self I thought good to set before husbands, as a lively pattern wherein they might behold a precedent without exception, going before them, and whereby they might receive excellent direction for the better performing of the particulars before noted.
 
-Again, no friend, no parent, no other party will or can so #footnote[Man is cheerful in doing himself good.] willingly and cheerfully do any kindness for one, as a man for himself. This among other is one especial point which the law aimeth at, when it enioynes a man to #emph[love his neighbour] #footnote[#emph[Leu.] 19. 18.] #emph[as himself,] namely, as willingly and readily as himself. Whatsoever a man doth for himself he doth much more cheerfully then for another. There needeth no other proof then experience. Let men take notice of their own mind and disposition when they do things for themselves, and this will be as clear as the light when the Sun shineth forth at soon day.
+Again, no friend, no parent, no other party will or can so #footnote[Man is cheerful in doing himself good.] willingly and cheerfully do any kindness for one, as a man for himself. This among other is one especial point which the law aimeth at, when it enjoins a man to #emph[love his neighbour] #footnote[#emph[Leu.] 19. 18.] #emph[as himself,] namely, as willingly and readily as himself. Whatsoever a man doth for himself he doth much more cheerfully then for another. There needeth no other proof then experience. Let men take notice of their own mind and disposition when they do things for themselves, and this will be as clear as the light when the Sun shineth forth at soon day.
 
 Such an affection ought husbands to have to their wives: #footnote[Husbands must be cheerful in seeking their wives good.] they ought more willingly and cheerfully to do any thing for their wives then for parents, children, friends or any other. Though this cheerfulness be an inward disposition of the heart, yet may it be manifested by a mans forwardness and readiness to do his wife good: when his wife shall no sooner desire a kindness, then he will be ready to grant it: as #emph[Boaz] saith to #emph[Ruth, I will do to thee all that thou requirest;] yea, #footnote[#emph[Ruth] 3. 11.] by any means he may know that this or that will be behoofull to her, though she desire it not, yet to effect it for her: which was the mind of the said #emph[Boaz] to #emph[Ruth,] as the history in many particulars showeth.
 
@@ -176,9 +176,9 @@ To apply this point also, and to bring it to the conclusion: #footnote[Christs e
 
 This example of Christ is the rather to be noted, because it clean wipeth away all those false colours, and vain pretences which many allege as reasons, to show that there is little reason they should love their wives: some of their pretences are these.
 
-1. Their wives are of a far meaner rank then #footnote[1\. #emph[Object.]] themselves; should they then perform duty to their inferiors? They commonly who marry their kitchin maids, or others far under their degree, allege this pretence.
+1. Their wives are of a far meaner rank then #footnote[1\. #emph[Object.]] themselves; should they then perform duty to their inferiors? They commonly who marry their kitchen maids, or others far under their degree, allege this pretence.
 
-#emph[Answ.] I might reply, That marriage aduanceth a wife to the degree of her husband: and that it was his own folly to marry one so mean: but for the purpose and point in hand, let any tell me, whether the supposed disparity betwixt them & their wives, be in any degree comparable to that which is betwixt Christ and the Church: yet Christ thinketh not much to do duties of love to his Church.
+#emph[Answ.] I might reply, That marriage advanceth a wife to the degree of her husband: and that it was his own folly to marry one so mean: but for the purpose and point in hand, let any tell me, whether the supposed disparity betwixt them & their wives, be in any degree comparable to that which is betwixt Christ and the Church: yet Christ thinketh not much to do duties of love to his Church.
 
 2. There is nothing in their wives worthy to be loved. #footnote[2\. #emph[Object.]]
 
@@ -194,7 +194,7 @@ This example of Christ is the rather to be noted, because it clean wipeth away a
 
 === §. 76. #emph[Of a mans love to himself, a motive to provoke him to love his wife.]
 
-To the same purpose that Christs example tendeth, tendeth also the pattern of a mans self. Great is the affection that a man beareth to himself, to his own flesh, his own body: he never hateth, but ever loveth himself: no sore, no disease, no paine, no stinch that the flesh bringeth to a man, can make him hate it: but rather all manner of infirmities do make him the more to pitty, tender, and cherish it. This is a work of nature: the most heathenish, and barbarous, that ever were, do it. Now a wife being to a man as his body and his flesh (for #emph[they two are one flesh)] and God having commanded men to #emph[love their wives as their own bodies,] these conclusions will necessarily follow from this motive:
+To the same purpose that Christs example tendeth, tendeth also the pattern of a mans self. Great is the affection that a man beareth to himself, to his own flesh, his own body: he never hateth, but ever loveth himself: no sore, no disease, no pain, no stinch that the flesh bringeth to a man, can make him hate it: but rather all manner of infirmities do make him the more to pity, tender, and cherish it. This is a work of nature: the most heathenish, and barbarous, that ever were, do it. Now a wife being to a man as his body and his flesh (for #emph[they two are one flesh)] and God having commanded men to #emph[love their wives as their own bodies,] these conclusions will necessarily follow from this motive:
 
 1. He that loveth not his wife is more carried with the instinct of nature, then with the express charge of the God of nature. Natures instinct moveth him to love his body. But Gods express charge moveth him not, to love his wife.
 

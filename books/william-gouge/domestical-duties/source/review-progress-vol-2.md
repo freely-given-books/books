@@ -1,0 +1,439 @@
+# Gouge Vol. 2 review: progress (branch gouge-review-vol-2)
+
+Helpers (scratchpad /tmp/claude-1000/-home-courtney-Projects-fgbooks-books/7734942a-5f8c-443c-b192-56f7915e6a6f/scratchpad/v2/):
+`orig/`,`auto/` = tei_extract --layer orig --expand / --only-auto (rebuild if gone);
+`g.py PRE RX...` searches the printed text; `apply.py eNN.txt` exact replacements (PRE|||old|||new|||kind);
+`wmap.py words.txt` whole-word spelling map over vol-2; `notes.md` + `progress.py` write this file.
+
+## Tools
+- sweep.py --early: 748 vol-2 hits, mostly -eth verbs / Latin / etc.; real hits taken into the read.
+- refs.py --quotes: vol-2 missing: Eccl. l. 1 and Jud. li. 2 (Socrates / Josephus, not Bible: fine);
+  Eccles. 20. 7 (ch 3 = V2-1); 2 Sam. 25. 31, 37 (ch 8?, check: 1 Sam. 25).
+- No modern witness; evidence = the 1622 printed layer only.
+- chapters/typ is the raw machine pass (unreviewed): many 1622 spellings survive -> word map.
+
+## Files read
+- parallel, 01-12: done and fixed (sync OK after ch 8; epigraph inner #emph removed, survives sync)
+- NEXT STEP: read 13 from line 1. Case list still to check when reached: 08 'Answ. subjection', 09 'Answ. wives cannot',
+  12 'subjection. example more', 13 'wife. love covereth', 15 'entreat it. note how', 17 'Object. mothers in law',
+  01 '(Mat. 19. 6.) husbands therefore'.   Iam. -> Jam. in 07 and 11. Check 'bruit' (brute) and verb 'loath' in vol-2. Epigraph italics (vol-1 note).
+  Errata in vol 2 (from vol-4 agent): p215 "such dissolution"->"such a dissolution" (ch3 §3); p218 "we have direct"
+  ->"no direct" (ch3 §6); p218 margin "viro" (ch3 §5 Chrys. note?); p268 "first commandement"->"fifth" (ch8, Treat.3 §2);
+  p297 "A fit reason"->"A fifth reason" (Treat.3 §27); p412 "but also"->"and also" (Treat.4 §60/61). All = questions.
+
+## Questions so far (draft "Needs your decision")
+- V2-1 ch3 §9: "(Eccles. 20. 7.)" for abstinence in a wife's separation: the verse is Ezek. 18. 6. Rec: Ezek. 18. 6.
+- James is "Iam." 12x / "Jam." 3x in the book; vol-2 set to Jam. (Ioh->Joh rule). Coordinator: unify.
+- V2-2 ch6 §31: Prov. 22. 1 "to be chosen #emph[love great riches]": print "loue" (misprint). Rec: "above great riches" (or "rather then", the Geneva wording). Not applied.
+- V2-3 ch8 §2 erratum p.268: "honour which is required in the first commandment" -> "fifth commandment". Rec: apply.
+- V2-4 ch9 §27 erratum p.297: "A fit reason may be taken from the mischiefs" -> "A fifth reason" (it follows the fourth reason, §26). Rec: apply.
+- (kept) ch11 §49 heading ends with "Of submission hitherto." as printed (a transition phrase set in the head). Could become the opening of the paragraph; left.
+- V2-5 ch12 §60: "a curst cow, which having given a fair soap of milk" — print "soape". Probably "sope/sup" (a quantity, a meal of milk). Rec: leave as is, or "pail" if you want sense; ask.
+
+## Word map (1622 spellings the machine missed; applied to vol-2)
+
+- cleering -> clearing
+- nearely -> nearly
+- aduiseth -> adviseth
+- greene -> green
+- sowen -> sown
+- foureteene -> fourteen
+- irkcsome -> irksome
+- indefinitly -> indefinitely
+- devillish -> devilish
+- patheticall -> pathetical
+- commiteth -> committeth
+- kniteth -> knitteth
+- shoo -> shoe
+- rendreth -> rendereth
+- alleage -> allege
+- alleadge -> allege
+- striken -> stricken
+- tenn -> ten
+- Jaacob -> Jacob
+- kitchinmaids -> kitchen-maids
+- kitchin -> kitchen
+- Beniamits -> Benjamites
+- catcht -> catched
+- journies -> journeys
+- fullenness -> sullenness
+- setleth -> settleth
+- deliberatly -> deliberately
+- perfome -> perform
+- pitty -> pity
+- marvell -> marvel
+- Angell -> Angel
+- cosen -> cousin
+- joyneth -> joineth
+- immoderatly -> immoderately
+- poysoned -> poisoned
+- Galile -> Galilee
+- dampt -> damped
+- Counseller -> Counsellor
+- burthensome -> burdensome
+- weyed -> weighed
+- hiderance -> hindrance
+- stolne -> stolen
+- hudled -> huddled
+- peruersness -> perverseness
+- inioyneth -> enjoineth
+- enioyneth -> enjoineth
+- enioynes -> enjoins
+- obstinatly -> obstinately
+- Heretique -> Heretic
+- heretique -> heretic
+- leasure -> leisure
+- ravisht -> ravished
+- tenour -> tenor
+- hainousness -> heinousness
+- hainously -> heinously
+- gauling -> galling
+- spuing -> spewing
+- spue -> spew
+- inticements -> enticements
+- inticed -> enticed
+- intice -> entice
+- daliance -> dalliance
+- asswaging -> assuaging
+- asswage -> assuage
+- asswaged -> assuaged
+- weakning -> weakening
+- paine -> pain
+- Canaanits -> Canaanites
+- stireth -> stirreth
+- conueigheth -> conveyeth
+- corps -> corpse
+- bolstred -> bolstered
+- Manassch -> Manasseh
+- Jorden -> Jordan
+- battels -> battles
+- admiteth -> admitteth
+- practife -> practise
+- ideots -> idiots
+- ideot -> idiot
+- thier -> their
+- woful -> woeful
+- schismatiques -> schismatics
+- joynts -> joints
+- hinderances -> hindrances
+- hinderance -> hindrance
+- powred -> poured
+- powre -> pour
+- rebells -> rebels
+- cholericke -> choleric
+- disswade -> dissuade
+- fewell -> fuel
+- sacriledge -> sacrilege
+- Pilats -> Pilates
+- mony -> money
+- vettues -> virtues
+- plaid -> played
+- unfainedly -> unfeignedly
+- unfained -> unfeigned
+- spred -> spread
+- boone -> boon
+- gainesaying -> gainsaying
+- embeaseled -> embezzled
+- houswife -> housewife
+- laieth -> layeth
+- hoordeth -> hoardeth
+- hoord -> hoard
+- hauking -> hawking
+- Bowlingalley -> Bowling-alley
+- tyring -> tiring
+- beggery -> beggary
+- begger -> beggar
+- incouraging -> encouraging
+- aide -> aid
+- lasiness -> laziness
+- entertaiment -> entertainment
+- joveall -> jovial
+- releeving -> relieving
+- barre -> bar
+- Assise -> Assize
+- townes -> towns
+- aduanceth -> advanceth
+- dominere -> domineer
+- obserueth -> observeth
+- overweene -> overween
+- hony -> honey
+- fairely -> fairly
+- Counsellours -> Counsellors
+- Professours -> Professors
+- spightfully -> spitefully
+- stomacks -> stomachs
+- stupified -> stupefied
+- blockishnese -> blockishness
+- Ambassadour -> Ambassador
+- ambassadour -> ambassador
+- divolued -> devolved
+- pittifull -> pitiful
+- reserueth -> reserveth
+- Trespassor -> Trespasser
+- Friers -> Friars
+- brooke -> brook
+- bard -> barred
+- inheretrix -> inheritrix
+- jointer -> jointure
+- joynter -> jointure
+- indow -> endow
+- yoak -> yoke
+- intitled -> entitled
+- intituling -> entitling
+- relinquisht -> relinquished
+- imploiment -> employment
+- childes -> childs
+- journying -> journeying
+- president -> precedent
+- pilfring -> pilfering
+- deere -> dear
+- Vashty -> Vashti
+- Uashty -> Vashti
+- Vashties -> Vashtis
+- sharpe -> sharp
+- darkning -> darkening
+- deserueth -> deserveth
+- allaied -> allayed
+- unaduisedness -> unadvisedness
+- decaied -> decayed
+- vaineglory -> vainglory
+- expence -> expense
+- thogh -> though
+- falshood -> falsehood
+- lyeth -> lieth
+- sowre -> sour
+- entercourse -> intercourse
+- differencies -> differences
+- dissentions -> dissensions
+- Apostolicall -> Apostolical
+- apostolicall -> apostolical
+- wils -> wills
+- incarnat -> incarnate
+- sherif -> sheriff
+
+## Targeted edits (scratchpad eNN.txt: file|||old|||new|||kind)
+
+- par: `his own wise to be` -> `his own wife to be` (misprint)
+- par: `§. 24 25, 26` -> `§. 24, 25, 26` (punct)
+- par: `weakness, §. 46, 51, 53` -> `weakness, §. 46, 51, 53.` (punct)
+- 01: `flour of their age.] child-hood` -> `flour of their age.] Child-hood` (case)
+- 01: `he is saidto be` -> `he is said to be` (glued)
+- 01: `Elizabet an old` -> `Elizabeth an old` (misprint)
+- 01: `4. 18 Neither` -> `4. 18.) Neither` (punct)
+- 01: `cepit secundas ruptias tanquam supra damnare` -> `cepit secundas nuptias tanquam stupra damnare` (latin)
+- 01: `#footnote[Treat. 1 §. 83]` -> `#footnote[#emph[Treat.] 1. §. 83.]` (punct)
+- 01: `husband of one wife,] 1 Tim. 2. 2, 10.` -> `husband of one wife,] 1 Tim. 3. 2, 12.` (ref)
+- 01: `(as 1 #emph[Tim.] 2. 2, 10. And 5. 9)` -> `(as 1 #emph[Tim.] 3. 2, 12. And 5. 9)` (ref)
+- 01: `their wives) To my` -> `their wives.) To my` (punct)
+- 01: `Acqualen ducito Pittaci dictum. Sivis nubere` -> `Aequalem ducito Pittaci dictum. Si vis nubere` (latin)
+- 01: `incesluosis` -> `incestuosis` (latin)
+- 01: `sociale vinculun` -> `sociale vinculum` (latin)
+- 01: `inauditun` -> `inauditum` (latin)
+- 01: `serui fiunt dotiun` -> `serui fiunt dotium` (latin)
+- 01: `Lud. Uivem` -> `Lud. Vivem` (latin)
+- 01: `some what elder` -> `somewhat elder` (spacing)
+- 01: `Apostlereckoneth` -> `Apostle reckoneth` (glued)
+- 01: `Est invenum` -> `Est iuvenum` (latin)
+- 02: `#emph[I A. Take thee B. To my espoused wife` -> `#emph[I A. take thee B. to my espoused wife` (case)
+- 02: `#emph[I B. Take thee A. To my espoused husband` -> `#emph[I B. take thee A. to my espoused husband` (case)
+- 02: `Mos ille vete ribus erat` -> `Mos ille veteribus erat` (latin)
+- 02: `Let such duly weight the reasons` -> `Let such duly weigh the reasons` (misprint)
+- 02: `#footnote[#emph[Heb.] 13 4.]` -> `#footnote[#emph[Heb.] 13. 4.]` (ref)
+- 02: `in a public place, whether any, that will` -> `in a public place, whither any, that will` (sense)
+- 02: `benedictione sacer dotali sanctificari` -> `benedictione sacerdotali sanctificari` (latin)
+- 02: `But to let that pass, The Scripture` -> `But to let that pass, the Scripture` (case)
+- 02: `#footnote[#emph[Jsa.] 22. 12, 13.]` -> `#footnote[#emph[Isa.] 22. 12, 13.]` (ref)
+- 02: `#footnote[#emph[Luk.] 21 34.]` -> `#footnote[#emph[Luk.] 21. 34.]` (ref)
+- 02: `ever was in this world, place, though` -> `ever was in this world. Place, though` (punct)
+- 02: `Solemat ordinances` -> `Solemn ordinances` (misprint)
+- 02: `qui exse natus est` -> `qui ex se natus est` (latin)
+- 02: `Id auten est` -> `Id autem est` (latin)
+- 02: `tentationum procell as cum` -> `tentationum procellas cum` (latin)
+- 02: `#emph[(Mat.] 19. 11) #emph[all men` -> `#emph[(Mat.] 19. 11.) #emph[all men` (punct)
+- 02: `multa irrationabilla,` -> `multa irrationabilia,` (latin)
+- 02: `#footnote[Sucton. in Aug.]` -> `#footnote[Sueton. in Aug.]` (latin)
+- 02: `put them in the other scole against` -> `put them in the other scale against` (spelling)
+- 02: `#emph[Cor.] 7. 26..]` -> `#emph[Cor.] 7. 26.]` (punct)
+- 02: `vocet legitiman commixtionem` -> `vocet legitimam commixtionem` (latin)
+- 02: `#emph[Uirginitas non` -> `#emph[Virginitas non` (latin)
+- 03: `IN the first part of this Treatise` -> `In the first part of this Treatise` (case)
+- 03: `#footnote[#emph[Mat] 19. 6.]` -> `#footnote[#emph[Mat.] 19. 6.]` (ref)
+- 03: `§ 24. #emph[Can] 9.]` -> `§. 24. #emph[Can.] 9.]` (ref)
+- 03: `ac sirem impediat, non coinquinet. Chrys in]` -> `ac si rem impediat, non coinquinet. Chrys. in]` (latin)
+- 03: `#emph[Cor.] 7. 2..]` -> `#emph[Cor.] 7. 2.]` (punct)
+- 03: `ignouisse Dominum ambor um:` -> `ignouisse Dominum amborum:` (latin)
+- 03: `Christ said to an adult eress,` -> `Christ said to an adulteress,` (spacing)
+- 03: `exemplo regere soeminas. Aug. de adult. Coning. l.]` -> `exemplo regere foeminas. Aug. de adult. Coniug. l.]` (latin)
+- 03: `6. 35.] who cannot rest contented with any satisfaction)` -> `6. 35.] (who cannot rest contented with any satisfaction)` (punct)
+- 03: `holy seed whereof is by this sin hindered)` -> `holy seed whereof is by this sin hindered).` (punct)
+- 03: `#footnote[#emph[Joel] 2. 6.]` -> `#footnote[#emph[Joel] 2. 16.]` (ref)
+- 03: `the body must be beaten own,` -> `the body must be beaten down,` (misprint)
+- 03: `all give thee grace sufficient.` -> `will give thee grace sufficient.` (misprint)
+- 03: `vir coierit cun muliere` -> `vir coierit cum muliere` (latin)
+- 03: `vitium seminis tral ere:` -> `vitium seminis trahere:` (latin)
+- 03: `require this duty in that me, which` -> `require this duty in that time, which` (misprint)
+- 03: `Nemo Essenorum cun praegnante` -> `Nemo Essenorum cum praegnante` (latin)
+- 03: `naturae iure praescriptun est` -> `naturae iure praescriptum est` (latin)
+- 03: `& dun infans lactatur` -> `& dum infans lactatur` (latin)
+- 03: `the #emph[mariagebed] were` -> `the #emph[marriage-bed] were` (spelling)
+- 04: `#emph[Rom.] 13. 10.] #emph[love is the fulfilling` -> `#emph[Rom.] 13. 10.] #emph[Love is the fulfilling` (case)
+- 04: `favour of the Lord.] man and wife therefore` -> `favour of the Lord.] Man and wife therefore` (case)
+- 04: `See Treat. 3. § 8.` -> `See Treat. 3. §. 8.` (punct)
+- 04: `in a wide house.] persons at variance` -> `in a wide house.] Persons at variance` (case)
+- 04: `maximun securitatis` -> `maximum securitatis` (latin)
+- 04: `prorae directo. rem dissentiat` -> `prorae directorem dissentiat` (latin)
+- 04: `#footnote[1 #emph[Pet.] 3 7.]` -> `#footnote[1 #emph[Pet.] 3. 7.]` (ref)
+- 04: `necessarily bound there to,` -> `necessarily bound thereto,` (spacing)
+- 04: `nulla longin. quitas` -> `nulla longinquitas` (latin)
+- 04: `Ecclesiam errore cùm ob multas causas separationem inter coniuges quoa` -> `Ecclesiam errare cùm ob multas causas separationem inter coniuges quoa` (latin)
+- 04: `giveth must cause of divorce` -> `giveth just cause of divorce` (misprint)
+- 04: `Si ferus moribus fit coniux` -> `Si ferus moribus sit coniux` (latin)
+- 04: `Basil. Hexaem. bom.]` -> `Basil. Hexaem. hom.]` (latin)
+- 04: `finally to dissolve manage in regard` -> `finally to dissolve marriage in regard` (misprint)
+- 05: `Prayer a mutual duty. 1 #emph[Pet] 3. 7.]` -> `Prayer a mutual duty. 1 #emph[Pet.] 3. 7.]` (ref)
+- 05: `#emph[I am.] 5. 16.]` -> `#emph[Jam.] 5. 16.]` (ref)
+- 05: `for outward shame for bear to belch` -> `for outward shame forbear to belch` (spacing)
+- 05: `inward corrupton of their heart` -> `inward corruption of their heart` (misprint)
+- 05: `carendo magis intellexi quàm sruendo` -> `carendo magis intellexi quàm fruendo` (latin)
+- 05: `#footnote[#emph[Epb.] 5. 25.]` -> `#footnote[#emph[Eph.] 5. 25.]` (ref)
+- 05: `#footnote[1 #emph[Pet.] 3. 7..]` -> `#footnote[1 #emph[Pet.] 3. 7.]` (punct)
+- 05: `#emph[the other shall be for saken] or left to endless and easeless to` -> `#emph[the other shall be forsaken] (or left to endless and easeless to` (punct)
+- 05: `#footnote[1 #emph[Thess.] 5. 11]` -> `#footnote[1 #emph[Thess.] 5. 11.]` (punct)
+- 05: `#footnote[#emph[Num.] 16. 27, 32]` -> `#footnote[#emph[Num.] 16. 27, 32.]` (punct)
+- 05: `Maritum co adducito` -> `Maritum eo adducito` (latin)
+- 05: `#emph[Acomplement all soothing of one anothers humour,]` -> `#emph[A complemental soothing of one anothers humour,]` (misprint)
+- 05: `See Treat. 4. §. 47.]` -> `see Treat. 4. §. 47.]` (case)
+- 05: `if without hoe it be` -> `if without ho it be` (spelling)
+- 06: `#emph[Rebecha] was so careful` -> `#emph[Rebekah] was so careful` (name)
+- 06: `make #emph[savory meat]` -> `make #emph[savoury meat]` (spelling)
+- 06: `God was moved to creare of mankind` -> `God was moved to create of mankind` (misprint)
+- 06: `#emph[Of husbands and wives backwandness to help` -> `#emph[Of husbands and wives backwardness to help` (misprint)
+- 06: `and well him that she was with child. The commendation which he good h` -> `and tell him that she was with child. The commendation which the good ` (misprint)
+- 06: `#emph[preserve a goodname.]` -> `#emph[preserve a good name.]` (spacing)
+- 06: `it is a part of #emph[Jove,]` -> `it is a part of #emph[love,]` (misprint)
+- 06: `as we #footnote[l #emph[Pro.] 31. 28, 29.]` -> `as we #footnote[#emph[Pro.] 31. 28, 29.]` (stray)
+- 06: `the Apothecary to sendforth a]` -> `the Apothecary to send forth a]` (spacing)
+- 06: `contrary to that mutuallcare, which` -> `contrary to that mutual care, which` (spacing)
+- 06: `An ill name in procured` -> `An ill name is procured` (misprint)
+- 06: `#emph[Cam] was cursed` -> `#emph[Ham] was cursed` (name)
+- 06: `that even the also is bound` -> `that even she also is bound` (misprint)
+- 06: `and both of then brought` -> `and both of them brought` (misprint)
+- 07: `#footnote[#emph[Jos] 4. 15.]` -> `#footnote[#emph[Jos.] 24. 15.]` (ref)
+- 07: `#footnote[#emph[Joh.] 4 53.]` -> `#footnote[#emph[Joh.] 4. 53.]` (ref)
+- 07: `#emph[Barthshebah] taught` -> `#emph[Bathsheba] taught` (name)
+- 07: `Pro▪ sunt ergo vterque alteri sua in commune confe rentes` -> `Prosunt ergo vterque alteri sua in commune conferentes` (latin)
+- 07: `ruling men servants, with the like) And for` -> `ruling men servants, with the like.) And for` (punct)
+- 07: `have no help from you, do not in those things` -> `have no help from you, no not in those things` (misprint)
+- 07: `#emph[Ely,] and` -> `#emph[Eli,] and` (name)
+- 07: `#footnote[#emph[Gen.] 18 6. #emph[etc.]]` -> `#footnote[#emph[Gen.] 18. 6. #emph[etc.]]` (ref)
+- 07: `when her husband inuits any friends` -> `when her husband invites any friends` (spelling)
+- 07: `hath, or howfar forth` -> `hath, or how far forth` (spacing)
+- 07: `give not a pennies worth, out rather suffer` -> `give not a pennies worth, but rather suffer` (misprint)
+- 07: `#footnote[Read #emph[Iam.] 5. 1, 2. #emph[etc.]]` -> `#footnote[Read #emph[Jam.] 5. 1, 2. #emph[etc.]]` (ref)
+- 08: `Vers. 23. #emph[For the husband is the head of the wife, even as Chris` -> `Vers. 23. For the husband is the head of the wife, even as Christ is t` (italic)
+- 08: `Mari & foeminae ae natura tribuium est, vt hi, praesit` -> `Mari & foeminae a natura tributum est, vt hic praesit` (latin)
+- 08: `#emph[Sicapilli pro velamine dati sunt, qua gratia aliud addendun est` -> `#emph[Si capilli pro velamine dati sunt, qua gratia aliud addendum est` (latin)
+- 08: `cometh nearest to a paritic.]` -> `cometh nearest to a parity.]` (misprint)
+- 08: `#footnote[1 #emph[Pet.] 3. 7..]` -> `#footnote[1 #emph[Pet.] 3. 7.]` (punct)
+- 08: `#footnote[Treat. 4 §. 9.]` -> `#footnote[Treat. 4. §. 9.]` (punct)
+- 08: `#footnote[1 #emph[Pet] 3. 1, 2.]` -> `#footnote[1 #emph[Pet.] 3. 1, 2.]` (ref)
+- 08: `from ignorance of hind, and error` -> `from ignorance of mind, and error` (misprint)
+- 08: `and cleaneth warting Gods ordinance` -> `and clean thwarting Gods ordinance` (misprint)
+- 08: `#footnote[Treat. 4. §. 11] #emph[inward fear` -> `#footnote[Treat. 4. §. 11.] #emph[inward fear` (punct)
+- 08: `#footnote[#emph[Eph.] 5. 33..]` -> `#footnote[#emph[Eph.] 5. 33.]` (punct)
+- 08: `#footnote[1 #emph[Pet.] 3. 2..]` -> `#footnote[1 #emph[Pet.] 3. 2.]` (punct)
+- 08: `#footnote[#emph[Uers.] 20. How fear` -> `#footnote[#emph[Vers.] 20. How fear` (ref)
+- 08: `a base and wile esteem` -> `a base and vile esteem` (misprint)
+- 08: `#footnote[1\. From selfeconceit.] is they need` -> `#footnote[1\. From self-conceit.] as they need` (misprint)
+- 08: `#footnote[1 #emph[Pet.] 3. 1..] Saint` -> `#footnote[1 #emph[Pet.] 3. 1.] Saint` (punct)
+- 08: `Shall-she bow to him` -> `Shall she bow to him` (punct)
+- 08: `1 #emph[Tim.] 2 9. 1 #emph[Pet.] 3. 3.]` -> `1 #emph[Tim.] 2. 9. 1 #emph[Pet.] 3. 3.]` (ref)
+- 08: `for curiousness un beseeming his calling` -> `for curiousness unbeseeming his calling` (spacing)
+- 08: `such proud daines as must` -> `such proud dames as must` (misprint)
+- 08: `velle placcre quàm` -> `velle placere quàm` (latin)
+- 08: `must some what restrain` -> `must somewhat restrain` (spacing)
+- 08: `manifested thereverend respect` -> `manifested the reverend respect` (glued)
+- 08: `by for bearing to speak` -> `by forbearing to speak` (spacing)
+- 08: `as very hastile and forward` -> `as very hasty and forward` (misprint)
+- 08: `Thus-they disgrace` -> `Thus they disgrace` (punct)
+- 08: `word #footnote[1 #emph[Tim.] 2. 12..] #emph[silence:] which in the ori` -> `word #footnote[1 #emph[Tim.] 2. 12.] #emph[silence:] which in the orig` (punct)
+- 08: `#emph[Answ.] subjection is that mark` -> `#emph[Answ.] Subjection is that mark` (case)
+- 08: `#footnote[2 #emph[King.] 4. 10. 22.]` -> `#footnote[2 #emph[King.] 4. 10, 22.]` (ref)
+- 08: `#footnote[2 #emph[Sam.] 25. 31, 37.]` -> `#footnote[1 #emph[Sam.] 25. 31, 37.]` (ref)
+- 08: `#footnote[#emph[Cant] 5. 10. #emph[etc.]]` -> `#footnote[#emph[Cant.] 5. 10. #emph[etc.]]` (ref)
+- 08: `the fairest and meek est speeches` -> `the fairest and meekest speeches` (spacing)
+- 08: `See more hereof Treat 2. part 2. §. 36.]` -> `See more hereof Treat. 2. part. 2. §. 36.]` (punct)
+- 08: `husband (1. #emph[Pet.] 3. 6.)` -> `husband (1 #emph[Pet.] 3. 6.)` (ref)
+- 08: `heart.] utteredmost unreverend` -> `heart.] uttered most unreverend` (glued)
+- 01: `married (1. #emph[Cor.] 7. 39.)` -> `married (1 #emph[Cor.] 7. 39.)` (ref)
+- 01: `marry] (1. #emph[Tim.] 5. 14.)` -> `marry] (1 #emph[Tim.] 5. 14.)` (ref)
+- 09: `#footnote[1 #emph[Pet.] 3. 6..]` -> `#footnote[1 #emph[Pet.] 3. 6.]` (punct)
+- 09: `oft falleth out that a wife, #footnote[In two cases` -> `oft falleth out that a wise, #footnote[In two cases` (misprint)
+- 09: `#footnote[1 In case of her husbands impotency.]` -> `#footnote[1\. In case of her husbands impotency.]` (punct)
+- 09: `distemper, wound, or sicknesle.` -> `distemper, wound, or sickness.` (misprint)
+- 09: `#footnote[1 #emph[Sam] 1. 23.] that which #emph[Elkanah] gave to #emph` -> `#footnote[1 #emph[Sam.] 1. 23.] that which #emph[Elkanah] gave to #emp` (ref)
+- 09: `#footnote[4\. An implicit consent,]` -> `#footnote[4\. An implicit consent.]` (punct)
+- 09: `#footnote[#emph[Num] 30. 8.]` -> `#footnote[#emph[Num.] 30. 8.]` (ref)
+- 09: `which appertaineth to her husband authority simply` -> `which appertaineth to her husbands authority simply` (misprint)
+- 09: `by virtue of her hausbands former grant` -> `by virtue of her husbands former grant` (misprint)
+- 09: `How because it is in the power` -> `Now because it is in the power` (misprint)
+- 09: `#footnote[1 #emph[Tim.] 5. 14..]` -> `#footnote[1 #emph[Tim.] 5. 14.]` (punct)
+- 09: `or scarp of meat` -> `or scrap of meat` (misprint)
+- 09: `#emph[Ose.] 6. 6. #emph[Mat] 9. 13.` -> `#emph[Ose.] 6. 6. #emph[Mat.] 9. 13.` (ref)
+- 09: `#emph[Plowd. Com] 344.` -> `#emph[Plowd. Com.] 344.` (punct)
+- 09: `#emph[Answ.] wives cannot always know` -> `#emph[Answ.] Wives cannot always know` (case)
+- 09: `administrationem tamen, & vsum. fructun bonorum` -> `administrationem tamen, & vsumfructum bonorum` (latin)
+- 09: `18\. #emph[E.] 4. 11. #emph[p.] 4]` -> `18\. #emph[E.] 4. 11. #emph[p.] 4.]` (punct)
+- 09: `Fitzherb. Nat. breutum fol.` -> `Fitzherb. Nat. breuium fol.` (latin)
+- 09: `husbands body, #footnote[#emph[Cor.] 7. 4.]` -> `husbands body, #footnote[1 #emph[Cor.] 7. 4.]` (ref)
+- 09: `of his particualar free donation` -> `of his particular free donation` (misprint)
+- 10: `#footnote[§ 22.] ordinary duty` -> `#footnote[§. 22.] ordinary duty` (punct)
+- 10: `#footnote[#emph[Luke] 11. 41..]` -> `#footnote[#emph[Luke] 11. 41.]` (punct)
+- 10: `repentance of #emph[Ahab,] 1. #emph[King.] 21. 29.` -> `repentance of #emph[Ahab,] 1 #emph[King.] 21. 29.` (ref)
+- 10: `#footnote[#emph[Matth.] 1. 6..]` -> `#footnote[#emph[Matth.] 1. 6.]` (punct)
+- 10: `#footnote[#emph[Matth.] 10. 3..]` -> `#footnote[#emph[Matth.] 10. 3.]` (punct)
+- 10: `if possiby she can` -> `if possibly she can` (misprint)
+- 10: `#footnote[Treat 4. §. 18.] #emph[subjection to her husband about child` -> `#footnote[Treat. 4. §. 18.] #emph[subjection to her husband about chil` (punct)
+- 10: `#footnote[#emph[Vers] 22.]` -> `#footnote[#emph[Vers.] 22.]` (ref)
+- 10: `#emph[Annahs carrying a little coat to]` -> `#emph[Hannahs carrying a little coat to]` (name)
+- 10: `communibus side viri licentia` -> `communibus sine viri licentia` (latin)
+- 10: `#footnote[#emph[Uers.] 23.]` -> `#footnote[#emph[Vers.] 23.]` (ref)
+- 10: `the things which herequireth.` -> `the things which he requireth.` (glued)
+- 10: `#strong[Object.] (own paragraph) What if husbands...` -> `#emph[Object.] What if husbands... (one paragraph)` (layout)
+- 11: `mind and will, sought to have the force` -> `mind and will, ought to have the force` (misprint)
+- 11: `extraordinary fact of #emph[Eliah] to pray` -> `extraordinary fact of #emph[Elijah] to pray` (name)
+- 11: `#footnote[#emph[Iam.] 5. 17.]` -> `#footnote[#emph[Jam.] 5. 17.]` (ref)
+- 11: `Vasthiam natam fuisse ex Baltbasare rege` -> `Vasthiam natam fuisse ex Baltasare rege` (latin)
+- 11: `for her as I think for any: for First, she was` -> `for her as I think for any: for first, she was` (case)
+- 11: `#footnote[Treat. §. 29.] #emph[do what her husband requireth.]` -> `#footnote[Treat. 4. §. 29.] #emph[do what her husband requireth.]` (ref)
+- 11: `viros etiam asperiores perserant. Chrys. hom.] 26. #emph[in] 1. #emph[` -> `viros etiam asperiores perferant. Chrys. hom.] 26. #emph[in] 1 #emph[C` (latin)
+- 11: `etc. Declare #emph[tartness:]` -> `etc. declare #emph[tartness:]` (case)
+- 11: `she showed #emph[meeknese.]` -> `she showed #emph[meekness.]` (misprint)
+- 11: `#footnote[#emph[Prov] 9. 7, 8.]` -> `#footnote[#emph[Prov.] 9. 7, 8.]` (ref)
+- 11: `#footnote[2 She must redress what is justly reproved.]` -> `#footnote[2\. She must redress what is justly reproved.]` (punct)
+- 11: `#footnote[Treat. 4. §. 50] #emph[contentment` -> `#footnote[Treat. 4. §. 50.] #emph[contentment` (punct)
+- 12: `then she must stay, and for bear till` -> `then she must stay, and forbear till` (spacing)
+- 12: `#footnote[#emph[Gen] 3 16.]` -> `#footnote[#emph[Gen.] 3. 16.]` (ref)
+- 12: `not every way instifiable.` -> `not every way justifiable.` (misprint)
+- 12: `#footnote[Treat 4. §. 15.]` -> `#footnote[Treat. 4. §. 15.]` (punct)
+- 12: `#footnote[1 Because wives have to do with Christ.]` -> `#footnote[1\. Because wives have to do with Christ.]` (punct)
+- 12: `betwixt holy women and others,]` -> `betwixt holy women and others.]` (punct)
+- 12: `or mif-interpret it` -> `or mis-interpret it` (misprint)
+- 12: `the proverb, #emph[A good never a whit as never the better.]` -> `the proverb, #emph[As good never a whit as never the better.]` (misprint)
+- 12: `to #emph[for sake the guide of her youth` -> `to #emph[forsake the guide of her youth` (spacing)
+- 12: `suspect her judgment when its contrary` -> `suspect her judgment when it's contrary` (spelling)
+- 12: `think themselves wifer then their husbands` -> `think themselves wiser then their husbands` (misprint)
+- 12: `good understanding, wife and discreet men` -> `good understanding, wise and discreet men` (misprint)
+- 12: `thinketh not to be the meet est.]` -> `thinketh not to be the meetest.]` (spacing)
+- 12: `quid censeas dic as minimè` -> `quid censeas dicas minimè` (latin)
+- 12: `the Shunemite did, 2. #emph[King.] 4. 23, 24.` -> `the Shunemite did, 2 #emph[King.] 4. 23, 24.` (ref)
+- 12: `#footnote[Tutun obsequium est` -> `#footnote[Tutum obsequium est` (latin)
+- 12: `EPHES. 5. 22.#emph[—As unto the Lord.]` -> `EPHES. 5. 22. #emph[—As unto the Lord.]` (spacing)
+- 12: `to enforce a wines subjection` -> `to enforce a wives subjection` (misprint)
+- 12: `The chird from the` -> `The third from the` (misprint)
+- 12: `=== § 70. #emph[Of an husbands place.]` -> `=== §. 70. #emph[Of an husbands place.]` (punct)
+- 12: `a #emph[pronider] of all needful` -> `a #emph[provider] of all needful` (misprint)
+- 12: `help her self, of she shall reject` -> `help her self, if she shall reject` (misprint)
+- 12: `the Church set before wines.]` -> `the Church set before wives.]` (misprint)
+- 12: `unto #emph[subjection.] example more prevails` -> `unto #emph[subjection.] Example more prevails` (case)
+- 12: `the Gospel of faluation` -> `the Gospel of salvation` (misprint)
