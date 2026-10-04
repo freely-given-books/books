@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 943 |
-| emendation | 147 |
-| grammar | 133 |
-| punctuation | 93 |
-| case | 51 |
-| spacing | 23 |
-| expansion | 21 |
-| italic | 19 |
-| gap | 16 |
+| spelling | 1049 |
+| emendation | 171 |
+| grammar | 135 |
+| punctuation | 102 |
+| case | 61 |
+| spacing | 24 |
+| italic | 22 |
+| expansion | 22 |
+| gap | 19 |
 | split | 6 |
 | list | 4 |
 | note moved | 2 |
@@ -48,6 +48,9 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] elizabeth → Elizabeth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] begineth → beginneth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ft → fit
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] each → teach
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] every → very
+- [vol-3/09-parents-directing-children-into-adulthood.typ] inn → in
 
 ## expansion
 
@@ -72,6 +75,7 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Spiritun → Spiritum
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Sanctun → Sanctum
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vnun → vnum
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] adultan → adultam
 
 ## emendation
 
@@ -198,9 +202,33 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] man → Mary
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] if → it
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] combe → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] 7 → 11
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] spir taliter → spiritaliter
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] abipsis → ab ipsis
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] consecre tur → consecretur
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] l . eonidis → Leonidis
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] semelest → semel est
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] in genuity → ingenuity
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] bean → be an
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] Ishas → Jesses
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] all eage → allege
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] solikewise → so likewise
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] be times → betimes
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] Sam → 1 Sam
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] 10 → 30
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] sinulla → si nulla
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] where in → wherein
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] aduncisunt → adunci sunt
+- [vol-3/09-parents-directing-children-into-adulthood.typ] intents → in tents
+- [vol-3/09-parents-directing-children-into-adulthood.typ] Ishai → Jesse
+- [vol-3/09-parents-directing-children-into-adulthood.typ] it → it is
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] construx it → construxit
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] OVVNE → OWN
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] of → : if
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] for → sort
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] where unto → whereunto
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] an other → another
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] meeretitular → mere titular
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] austerit je → austerity
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] ôye → ô ye
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] he aven → heaven
@@ -254,10 +282,12 @@
 - adioyneth → adjoineth
 - adiudgeth → adjudgeth
 - brest → breast
+- caveth → careth
 - cleaneth → clean
 - cleanfeth → cleanseth
 - combereth → cumbereth
 - comprizeth → compriseth
+- condeth → tendeth
 - conueigheth → conveyeth
 - cryeth → crieth
 - decaieth → decayeth
@@ -351,6 +381,15 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → , (
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → ,
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ; → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] § → §.
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] , → .
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] ▪ → .
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
@@ -374,26 +413,30 @@
 ## case
 
 - children → Children (×8)
+- And → and (×3)
 - To → to (×3)
 - servants → Servants (×3)
 - IN → In (×2)
+- Or → or (×2)
 - Take → take (×2)
+- The → the (×2)
+- Years → years (×2)
 - father → Father (×2)
+- note → Note (×2)
 - son → Son (×2)
 - subjection → Subjection (×2)
-- And → and
 - Because → because
+- But → but
 - Declare → declare
 - First → first
+- May → may
 - OF → Of
 - See → see
 - Sin → sin
 - THE → The
 - TO → To
-- The → the
 - Told → told
 - Vers → vers
-- Years → years
 - child → Child
 - example → Example
 - honour → Honour
@@ -402,7 +445,7 @@
 - man → Man
 - masters → Masters
 - men → Men
-- note → Note
+- mothers → Mothers
 - persons → Persons
 - place → Place
 - rule → Rule
@@ -411,21 +454,23 @@
 
 ## spelling
 
-- borne → born (×62)
+- borne → born (×60)
 - paine → pain (×24)
-- sharpe → sharp (×13)
+- sharpe → sharp (×16)
+- 3 → 3. (×12)
 - Angell → Angel (×11)
-- 3 → 3. (×10)
 - Iam → Jam (×9)
+- president → precedent (×9)
+- 4 → 4. (×8)
 - Reu → Rev (×8)
-- 4 → 4. (×7)
-- president → precedent (×7)
 - marvell → marvel (×6)
 - 2 → 2. (×5)
 - Treat → Treat. (×5)
+- Uers → Vers (×5)
 - brooke → brook (×5)
 - hinderances → hindrances (×5)
 - thorow → through (×5)
+- woful → woeful (×5)
 - 11 → 11. (×4)
 - Friers → Friars (×4)
 - Gen → Gen. (×4)
@@ -434,15 +479,18 @@
 - pitty → pity (×4)
 - ravisht → ravished (×4)
 - thorow → thorough (×4)
-- woful → woeful (×4)
 - 1 → 1. (×3)
-- Uers → Vers (×3)
+- 12 → 12. (×3)
+- Absoloms → Absaloms (×3)
+- at → that (×3)
 - childes → childs (×3)
 - cleering → clearing (×3)
 - conueniency → conveniency (×3)
 - cosen → cousin (×3)
 - devillish → devilish (×3)
 - disswade → dissuade (×3)
+- emphaticall → emphatical (×3)
+- fowles → fowls (×3)
 - incouraging → encouraging (×3)
 - indefinitly → indefinitely (×3)
 - leasure → leisure (×3)
@@ -454,16 +502,16 @@
 - unsetled → unsettled (×3)
 - wearisomness → wearisomeness (×3)
 - 10 → 10. (×2)
-- 12 → 12. (×2)
 - 19 → 19. (×2)
 - 21 → 21. (×2)
 - 24 → 24. (×2)
-- Absoloms → Absaloms (×2)
+- Adoniah → Adonijah (×2)
 - Apostolicall → Apostolical (×2)
 - Cer → Cor (×2)
 - Cosen → Cousin (×2)
 - Cucco → Cuckoo (×2)
 - Elizabet → Elizabeth (×2)
+- Ely → Eli (×2)
 - Galile → Galilee (×2)
 - Jorden → Jordan (×2)
 - Mat → Mat. (×2)
@@ -484,15 +532,17 @@
 - burthensome → burdensome (×2)
 - conceipt → conceit (×2)
 - corasive → corrosive (×2)
+- cosins → cousins (×2)
+- counseller → counsellor (×2)
 - deere → dear (×2)
 - deliberatly → deliberately (×2)
 - doatage → dotage (×2)
 - duely → duly (×2)
-- emphaticall → emphatical (×2)
 - enlightned → enlightened (×2)
 - expence → expense (×2)
 - fairely → fairly (×2)
 - fullenness → sullenness (×2)
+- gaines → gains (×2)
 - greene → green (×2)
 - hardned → hardened (×2)
 - hearkned → hearkened (×2)
@@ -500,20 +550,28 @@
 - his → this (×2)
 - horne → horn (×2)
 - houswife → housewife (×2)
+- ideots → idiots (×2)
 - imploied → employed (×2)
+- imploiment → employment (×2)
+- inabled → enabled (×2)
 - inlightned → enlightened (×2)
 - intreaty → entreaty (×2)
+- jealously → jealousy (×2)
 - joynter → jointure (×2)
 - kitchin → kitchen (×2)
 - left → lest (×2)
+- lillies → lilies (×2)
 - meaness → meanness (×2)
+- ministery → ministry (×2)
 - miscariage → miscarriage (×2)
 - mony → money (×2)
 - morter → mortar (×2)
 - otherwaies → otherways (×2)
 - out → but (×2)
+- parents → parentes (×2)
 - patheticall → pathetical (×2)
 - peruersness → perverseness (×2)
+- pilfring → pilfering (×2)
 - pittifull → pitiful (×2)
 - privatly → privately (×2)
 - relique → relic (×2)
@@ -522,8 +580,10 @@
 - sawciness → sauciness (×2)
 - sory → sorry (×2)
 - tenour → tenor (×2)
+- the → he (×2)
 - toile → toil (×2)
 - townes → towns (×2)
+- unfained → unfeigned (×2)
 - unfainedly → unfeignedly (×2)
 - villanies → villainies (×2)
 - wife → wise (×2)
@@ -540,6 +600,8 @@
 - 38 → 38.
 - 50 → 50.
 - 53 → 53.
+- 6 → 6.
+- 7 → 7.
 - 74 → 74.
 - 83 → 83.
 - A → As
@@ -547,6 +609,7 @@
 - Ambassadour → Ambassador
 - Ammon → Amnon
 - Annahs → Hannahs
+- Apostat → Apostate
 - Assise → Assize
 - Baltbasare → Baltasare
 - Barthshebah → Bathsheba
@@ -563,8 +626,10 @@
 - Canaanits → Canaanites
 - Cant → Cant.
 - Centurian → Centurion
+- Chro → Chro.
 - Chrys → Chrys.
 - Clearks → Clerks
+- Colledge → College
 - Com → Com.
 - Coning → Coniug
 - Consuetude → Consuetudo
@@ -572,9 +637,9 @@
 - Counsellours → Counsellors
 - Craelius → Cornelius
 - Dan → Dan.
+- Deul → Deut
 - Devillish → Devilish
 - Eliah → Elijah
-- Ely → Eli
 - Eor → Cor
 - Epb → Eph
 - Ephef → Ephes
@@ -586,6 +651,7 @@
 - Hanna → Hannah
 - Hereticke → Heretic
 - Heretique → Heretic
+- Hirom → Hiram
 - Hony → Honey
 - How → Now
 - Iam → Iam.
@@ -595,6 +661,7 @@
 - Iniquiffima → Iniquissima
 - Isaacks → Isaacs
 - Isaakes → Isaacs
+- Isaaks → Isaacs
 - Jaacob → Jacob
 - Jaacobs → Jacobs
 - Jackobs → Jacobs
@@ -605,6 +672,7 @@
 - Jess → Jesse
 - Job → Joh
 - Joh → Joh.
+- Jos → Jos.
 - Josuahs → Joshuas
 - Jove → love
 - Jsa → Isa
@@ -624,13 +692,17 @@
 - Philosophen → Philosophers
 - Phineas → Phinehas
 - Privat → Private
+- Pro → Pro.
 - Professours → Professors
 - Prov → Prov.
 - Rebecha → Rebekah
+- Rom → Rom.
+- Ruben → Reuben
 - Rudely → Grudgingly
 - Sabboth → Sabbath
 - Savadges → Savages
 - Sawciness → Sauciness
+- Seneca → Senecae
 - Solemat → Solemn
 - Soveraignes → Sovereigns
 - Stevens → Stephens
@@ -638,14 +710,17 @@
 - Stubborness → Stubbornness
 - Sucton → Sueton
 - Taylors → Tailors
+- Then → When
 - Thes → Thes.
 - Tim → Tim.
 - Tit → Tit.
 - Trespassor → Trespasser
 - Tro → Pro
 - Uashty → Vashti
+- Uerendum → Verendum
 - Uirg → Virg
 - Uirginitas → Virginitas
+- Uiu → Viu
 - Uivem → Vivem
 - Unsetledly → Unsettledly
 - Vashties → Vashtis
@@ -654,7 +729,9 @@
 - Wastfully → Wastefully
 - Welbeloved → Well-beloved
 - Wherupon → Whereupon
+- a → at
 - accurat → accurate
+- adbuc → adhuc
 - ae → a
 - aet → Laet
 - affoorded → afforded
@@ -665,6 +742,7 @@
 - alleaging → alleging
 - allegeance → allegiance
 - and → an
+- annise → anise
 - another → mother
 - apprentises → apprentices
 - are → are.
@@ -672,7 +750,6 @@
 - asswage → assuage
 - asswaged → assuaged
 - asswaging → assuaging
-- at → that
 - attonement → atonement
 - aufterity → austerity
 - awefull → awful
@@ -696,6 +773,7 @@
 - bolstred → bolstered
 - bom → hom
 - boone → boon
+- boording → boarding
 - borow → borrow
 - borowing → borrowing
 - boulster → bolster
@@ -705,14 +783,19 @@
 - bourd → bound
 - bredth → breadth
 - breutum → breuium
+- bruits → brutes
 - busibodies → busybodies
 - c → c.
 - caling → calling
 - cam → eam
 - carkase → carcass
+- case → ease
+- castigandun → castigandum
 - catcht → catched
 - catholicke → catholic
 - cavear → caveat
+- ccuet → covet
+- chastning → chastening
 - childings → chidings
 - chird → third
 - choake → choke
@@ -726,13 +809,15 @@
 - cloathing → clothing
 - comprize → comprise
 - conscienc → conscience
+- conscience → consciences
 - continuali → continual
 - corasives → corrosives
 - corps → corpse
 - corrupton → corruption
+- corum → eorum
 - cosens → cousins
-- cosins → cousins
-- counseller → counsellor
+- counsells → counsels
+- course → coarse
 - coverousness → covetousness
 - coveteous → covetous
 - creare → create
@@ -773,6 +858,7 @@
 - errore → errare
 - even → event
 - expani → expavi
+- faith → saith
 - falshood → falsehood
 - faluation → salvation
 - farrc → far
@@ -785,8 +871,8 @@
 - forraine → foreign
 - foureteene → fourteen
 - fouth → fourth
-- fowles → fowls
 - funeralls → funerals
+- furly → surly
 - further → murder
 - gainesaying → gainsaying
 - gainsaiers → gainsayers
@@ -804,6 +890,7 @@
 - he → she
 - he → the
 - hearbs → herbs
+- heaven → leaven
 - heighnous → heinous
 - hiderance → hindrance
 - himseife → himself
@@ -815,20 +902,20 @@
 - hony → honeycomb
 - hooke → hook
 - hoord → hoard
+- hoorded → hoarded
 - housholders → householders
 - houswives → housewives
 - hudled → huddled
 - husband → husbands
 - huswifery → housewifery
 - ideot → idiot
-- ideots → idiots
 - idolls → idols
 - imbalmed → embalmed
 - imbezill → embezzle
 - immoderatly → immoderately
-- imploiment → employment
 - imploiments → employments
 - imploying → employing
+- imployments → employments
 - incarnat → incarnate
 - incesluosis → incestuosis
 - incumbred → encumbered
@@ -838,6 +925,7 @@
 - iniuslè → iniustè
 - iniustly → unjustly
 - insect → infect
+- insidell → infidel
 - instifiable → justifiable
 - instification → justification
 - intice → entice
@@ -849,13 +937,14 @@
 - inueagle → inveigle
 - inueagling → inveigling
 - inuits → invites
+- inventutis → iuventutis
 - invenum → iuvenum
+- iom → iam
 - irkcsome → irksome
 - irkesome → irksome
 - irrationabilla → irrationabilia
 - its → it's
 - jaylor → jailor
-- jealously → jealousy
 - jointer → jointure
 - journies → journeys
 - journy → journey
@@ -865,25 +954,30 @@
 - kitchinmaids → kitchen-maids
 - laicks → laics
 - lasiness → laziness
+- launce → lance
 - leaud → lewd
+- leek → seek
 - lesum → Iesum
 - like → like.
 - likwise → likewise
-- lillies → lilies
 - lims → limbs
 - linage → lineage
 - lothness → loathness
 - loynes → loins
+- lunatike → lunatic
 - mafested → manifested
 - malepartness → malapertness
 - malipartness → malapertness
 - malitious → malicious
+- mans' → mans
 - mariagebed → marriage-bed
 - masters → master
+- matrimenio → matrimonio
 - me → time
 - means → means:
 - meated → meted
 - meeknese → meekness
+- men → mens
 - mif → mis
 - mispend → misspend
 - mispent → misspent
@@ -899,8 +993,10 @@
 - nurtered → nurtured
 - nutriend → nutriendi
 - obstinatly → obstinately
+- of → oft
 - orthodoxall → orthodoxal
 - ovaght → ought
+- overcomming → overcoming
 - overweene → overween
 - overweining → overweening
 - own → down
@@ -909,24 +1005,28 @@
 - paritic → parity
 - part → part.
 - particualar → particular
+- parts → partes
 - passeover → passover
 - peece → piece
 - peele → peel
 - perfome → perform
 - perserant → perferant
 - perswades → persuades
-- pilfring → pilfering
 - placcre → placere
 - plaid → played
+- plaiers → players
 - plaies → plays
 - plainely → plainly
 - pole → poll
 - politipue → politic
 - poorely → poorly
 - possiby → possibly
+- potestantem → potestatem
 - poverry → poverty
 - powre → pour
 - powred → poured
+- powring → pouring
+- poyson → poison
 - poysoned → poisoned
 - practife → practise
 - praescriptun → praescriptum
@@ -936,6 +1036,7 @@
 - privat → private
 - profanenss → profaneness
 - pronider → provider
+- prophecying → prophesying
 - purchaesing → purchasing
 - quast → quaest
 - qucm → quem
@@ -950,8 +1051,10 @@
 - revererend → reverend
 - revetence → reverence
 - revoulted → revolted
+- rhaine → main
 - rubrick → rubric
 - ruptias → nuptias
+- sab → fab
 - sacriledge → sacrilege
 - saulation → salvation
 - savory → savoury
@@ -967,23 +1070,29 @@
 - seazed → seized
 - secit → fecit
 - see → set
+- seer → sear
 - selfeconceit → self-conceit
 - sen → seu
 - sences → fences
 - separat → separate
 - seruans → servants
 - seruiee → service
+- shall → shalt
+- shepheard → shepherd
 - sherif → sheriff
 - shoo → shoe
 - sicknesle → sickness
 - side → sine
 - siliall → filial
 - siliorum → filiorum
+- silios → filios
 - skabbed → scabbed
 - soeminas → foeminas
+- sornicandi → fornicandi
 - soveraignty → sovereignty
 - sowre → sour
 - sowreness → sourness
+- speut → spent
 - spight → spite
 - spightfully → spitefully
 - spred → spread
@@ -991,6 +1100,7 @@
 - spuing → spewing
 - sruendo → fruendo
 - stabilite → stability
+- staied → stayed
 - steele → steel
 - stile → style
 - stomacks → stomachs
@@ -999,18 +1109,24 @@
 - strise → strife
 - strugling → struggling
 - stupified → stupefied
+- succeding → succeeding
 - suerty → surety
 - swagerers → swaggerers
+- swarue → swerve
 - swel → swell
+- talents → talons
 - theevery → thievery
 - then → their
 - then → them
 - therto → thereto
 - thier → their
+- things → things.
 - thogh → though
+- threds → threads
 - tht → that
 - toyled → toiled
 - toyling → toiling
+- trayning → training
 - tribuium → tributum
 - tyrany → tyranny
 - tyring → tiring
@@ -1018,11 +1134,11 @@
 - unbeleefe → unbelief
 - uncleaness → uncleanness
 - undesiled → undefiled
-- unfained → unfeigned
 - vaineglory → vainglory
 - vers → vers.
 - vertuously → virtuously
 - vettues → virtues
+- vice → vice.
 - vildly → vilely
 - vocation → vocatione
 - waightier → weightier
@@ -1038,6 +1154,7 @@
 - whether → whither
 - whey → when
 - whither → whether
+- wiars → wires
 - wier → wire
 - wifer → wiser
 - wile → vile
@@ -1046,5 +1163,6 @@
 - wives → wives.
 - wondred → wondered
 - wordlings → worldlings
+- world → world.
 - yron → iron
 
