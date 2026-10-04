@@ -8,14 +8,14 @@
 
 | kind | count |
 | --- | --- |
+| spelling | 52 |
 | case | 42 |
-| spelling | 32 |
-| emendation | 24 |
-| grammar | 10 |
+| emendation | 28 |
 | expansion | 9 |
 | gap | 8 |
 | punctuation | 8 |
 | split | 8 |
+| grammar | 7 |
 | spacing | 4 |
 | skipped | 1 |
 | merge | 1 |
@@ -60,10 +60,13 @@
 
 ## emendation
 
+- [dedication.typ note] King → King. 1
 - [chapter-02.typ] or → of
 - [chapter-02.typ] otherwise → other side
 - [chapter-03.typ] Bringforth → Bring forth
+- [chapter-03.typ] fruit → fruit and
 - [chapter-03.typ] general → . General
+- [chapter-04.typ note] Jn → In
 - [chapter-05.typ] for → . For
 - [chapter-05.typ] I → 1
 - [chapter-05.typ] II → 11
@@ -82,13 +85,13 @@
 - [chapter-13.typ] 26 → 29
 - [chapter-13.typ] of → or
 - [chapter-14.typ note] parfactis → parentum factis
+- [chapter-16.typ] 5 → 3
 - [chapter-16.typ] y• → the
 - [chapter-17.typ] 25 → 45
 
 ## grammar
 
 - commiteth → committeth (×5)
-- cometh → commeth (×3)
 - becometh → cometh
 - marieth → marrieth
 
@@ -143,15 +146,28 @@
 ## spelling
 
 - vail → veil (×4)
+- Anna → Hannah (×2)
 - Cananites → Canaanites (×2)
+- Cham → Ham (×2)
+- Honourable → Honorable (×2)
 - Iam → Jam (×2)
+- Thamar → Tamar (×2)
 - bruit → brute (×2)
+- honour → honor (×2)
+- Adoniah → Adonijah
+- Ahashuerosh → Ahasuerus
+- Anna's → Hannah's
 - Be → Bee
 - Corinthes → Corinthians
+- Iischa → Iscah
+- Izreelite → Jezreelitess
 - Luk → Luk.
+- Matrimony → Matrimonij
+- Ruben → Reuben
 - Sea → See
 - Thesphylus → Theophilus
 - Tigres → Tigers
+- Vashi → Vashti
 - advise → advice
 - bitterns → bitterness
 - bough → bought
@@ -162,7 +178,9 @@
 - harts → hearts
 - he → the
 - heard → herd
+- labors → labours
 - prays → praise
+- sauorem → fauorem
 - sundrie → sundry
 - the → thee
 - them → the

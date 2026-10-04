@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-02" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-03" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -278,7 +278,7 @@ Church-men. It was the error of <hi><choice><orig>Da<g ref="char:EOLhyphen"/>uid
                <pb facs="tcp:2719:6"/>
 in the administration and guidance
 of his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> house,<note place="margin">2. Sam. 14 33.</note> which <choice><orig>incouraged</orig><reg resp="#auto" type="spelling">encouraged</reg></choice>
-<hi>Absalom</hi> and <hi>Adoniah</hi> his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,<note place="margin">1. King. 5. 6.</note> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice>
+<hi>Absalom</hi> and <hi><choice><orig>Adoniah</orig><reg resp="#editor" type="spelling">Adonijah</reg></choice></hi> his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,<note place="margin">1. <choice><orig>King</orig><reg resp="#editor" type="emendation">King. 1</reg></choice>. 5. 6.</note> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice>
 presumption of their Fathers <choice><abbr>indul<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>indulgence</expan></choice>,<note place="margin">2. Sam. 15</note>
 to become ill <choice><orig>Common</orig><reg resp="#auto" type="spelling">common</reg></choice>-wealths
 men,<note place="margin">1. King. 1.</note> to aspire, and <choice><orig>vsurpe</orig><reg resp="#auto" type="spelling">usurp</reg></choice> the kingdom
@@ -490,7 +490,7 @@ of Rome, by the sale of their dispensa<g ref="char:EOLhyphen"/>tions.</item></li
 substance of this small discourse, I wil<g ref="char:EOLhyphen"/>lingly
 commend <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> your Lordship,
 desiring that <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> the wings of your
-Honourable protection, it may <choice><orig>safelie</orig><reg resp="#auto" type="spelling">safely</reg></choice>
+<choice><orig>Honourable</orig><reg resp="#editor" type="spelling">Honorable</reg></choice> protection, it may <choice><orig>safelie</orig><reg resp="#auto" type="spelling">safely</reg></choice>
 <choice><orig>walke</orig><reg resp="#auto" type="spelling">walk</reg></choice> abroad in the world, to the view
 
 
@@ -507,15 +507,15 @@ plants,<note place="margin">Psal. 128. 3.</note> a <choice><orig>vertuous</orig>
 whose young <choice><orig>yeeres</orig><reg resp="#auto" type="spelling">years</reg></choice> being seasoned
 therein, by the <choice><orig>sweete</orig><reg resp="#auto" type="spelling">sweet</reg></choice> <choice><orig>sauour</orig><reg resp="#auto" type="spelling">savour</reg></choice> of their
 fathers <choice><orig>vertues</orig><reg resp="#auto" type="spelling">virtues</reg></choice>, may <choice><orig>yeeld</orig><reg resp="#auto" type="spelling">yield</reg></choice> in time a
-<choice><orig>plentifull</orig><reg resp="#auto" type="spelling">plentiful</reg></choice> increase of <choice><orig>Honour</orig><reg resp="#auto" type="spelling">honour</reg></choice> in this
+<choice><orig>plentifull</orig><reg resp="#auto" type="spelling">plentiful</reg></choice> increase of <choice><orig>Honour</orig><reg resp="#editor" type="spelling">honor</reg><reg resp="#auto" type="spelling">honour</reg></choice> in this
 <choice><orig>Common</orig><reg resp="#auto" type="spelling">common</reg></choice>-wealth; and <choice><orig>consequentlie</orig><reg resp="#auto" type="spelling">consequently</reg></choice>
 <choice><orig>aduance</orig><reg resp="#auto" type="spelling">advance</reg></choice> your Name in <choice><orig>themselues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> and
 their <choice><orig>posteritie</orig><reg resp="#auto" type="spelling">posterity</reg></choice>. To this may be added
 mine own desire to <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> some <choice><orig>testimo<g ref="char:EOLhyphen"/>nie</orig><reg resp="#auto" type="spelling">testimony</reg></choice>
 of <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> to your Lordship, as hol<g ref="char:EOLhyphen"/>ding
-it your due, to be had in Honou<g ref="char:EOLhyphen"/>rable
+it your due, to be had in <choice><orig>Honou<g ref="char:EOLhyphen"/>rable</orig><reg resp="#editor" type="spelling">Honorable</reg></choice>
 <choice><orig>tearmes</orig><reg resp="#auto" type="spelling">terms</reg></choice> with men, whose care
-hath been to <choice><orig>maintaine</orig><reg resp="#auto" type="spelling">maintain</reg></choice> the <choice><orig>Honour</orig><reg resp="#auto" type="spelling">honour</reg></choice> of
+hath been to <choice><orig>maintaine</orig><reg resp="#auto" type="spelling">maintain</reg></choice> the <choice><orig>Honour</orig><reg resp="#editor" type="spelling">honor</reg><reg resp="#auto" type="spelling">honour</reg></choice> of
 the Highest by your constant profes<g ref="char:EOLhyphen"/>sion
 and practise of Religion. And thus
 emboldening my <choice><orig>selfe</orig><reg resp="#auto" type="spelling">self</reg></choice> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> the <choice><orig>per<g ref="char:EOLhyphen"/>swasion</orig><reg resp="#auto" type="spelling">persuasion</reg></choice>
@@ -940,7 +940,7 @@ trouble in the flesh,</hi> vers. 32. <hi>And I would
                <p>The first is, procreation of children,
 for the propagation and continuance of
 the seed and <choice><orig>posteritie</orig><reg resp="#auto" type="spelling">posterity</reg></choice> of man <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> the
-earth, Gen. 1. 28. <hi><choice><orig>Bringforth</orig><reg resp="#editor" type="emendation">Bring forth</reg></choice> fruit <choice><orig>multi<g ref="char:EOLhyphen"/>plie</orig><reg resp="#auto" type="spelling">multiply</reg></choice>,
+earth, Gen. 1. 28. <hi><choice><orig>Bringforth</orig><reg resp="#editor" type="emendation">Bring forth</reg></choice> <choice><orig>fruit</orig><reg resp="#editor" type="emendation">fruit and</reg></choice> <choice><orig>multi<g ref="char:EOLhyphen"/>plie</orig><reg resp="#auto" type="spelling">multiply</reg></choice>,
 fill the earth, and subdue it,</hi> Genes. 9. 1.
 1. Tim. 5. 14.</p>
                <p>The second is the procreation of an
@@ -1226,7 +1226,7 @@ that his or her kinsman will <choice><orig>yeeld</orig><reg resp="#auto" type="s
 to the match; or <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> condition
 of a <choice><orig>dowrie</orig><reg resp="#auto" type="spelling">dowry</reg></choice> that <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> shall bring <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice>
 him, <choice><orig>sutable</orig><reg resp="#auto" type="spelling">suitable</reg></choice> to her education, and the
-<choice><orig>familie</orig><reg resp="#auto" type="spelling">family</reg></choice> whereof she <choice><orig>commeth</orig><reg resp="#editor" type="grammar">commeth</reg><reg resp="#auto" type="spelling">cometh</reg></choice>: these
+<choice><orig>familie</orig><reg resp="#auto" type="spelling">family</reg></choice> whereof she <choice><orig>commeth</orig><reg resp="#auto" type="spelling">cometh</reg></choice>: these
 conditions being kept or not kept, the
 promise doth likewise stand, or not
 stand.</p>
@@ -1240,7 +1240,7 @@ to morrow.</hi>
                </p>
                <p><choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, conditions that are either
 impossible or dishonest, are not to <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice>
-accounted as promises annexed<note n="*" place="margin">Jn sauo<g ref="char:EOLhyphen"/>rem Ma<g ref="char:EOLhyphen"/>trimony.</note> in
+accounted as promises annexed<note n="*" place="margin"><choice><orig>Jn</orig><reg resp="#editor" type="emendation">In</reg></choice> <choice><orig>sauo<g ref="char:EOLhyphen"/>rem</orig><reg resp="#editor" type="spelling">fauorem</reg></choice> <choice><orig>Ma<g ref="char:EOLhyphen"/>trimony</orig><reg resp="#editor" type="spelling">Matrimonij</reg></choice>.</note> in
 way of <choice><orig>Marriage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>. Of which sort are
 these, <hi>I will be thy wife, if thou <choice><orig>willt</orig><reg resp="#auto" type="spelling">wilt</reg></choice> take <choice><orig>vn<g ref="char:EOLhyphen"/>to</orig><reg resp="#auto" type="spelling">unto</reg></choice>
 thee wings and <choice><orig>flie</orig><reg resp="#auto" type="spelling">fly</reg></choice>,</hi> or, <hi>If thou wilt bring
@@ -1431,7 +1431,7 @@ they be called and <choice><orig>knowne</orig><reg resp="#auto" type="spelling">
                <p>Now in this right line, whether
 ascending or descending, the person, of
 whom the case or question is <choice><orig>moued</orig><reg resp="#auto" type="spelling">moved</reg></choice>,
-<choice><orig>commeth</orig><reg resp="#editor" type="grammar">commeth</reg><reg resp="#auto" type="spelling">cometh</reg></choice> <choice><orig>neere</orig><reg resp="#auto" type="spelling">near</reg></choice> to the kindred of his
+<choice><orig>commeth</orig><reg resp="#auto" type="spelling">cometh</reg></choice> <choice><orig>neere</orig><reg resp="#auto" type="spelling">near</reg></choice> to the kindred of his
 flesh. And therefore <choice><orig>mariages</orig><reg resp="#auto" type="spelling">marriages</reg></choice> in this
 line are prohibited <choice><orig>infinitly</orig><reg resp="#auto" type="spelling">infinitely</reg></choice>, without
 any limitation; so as if <hi>Adam</hi> <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>
@@ -1680,7 +1680,7 @@ to all <choice><orig>kinsfolke</orig><reg resp="#auto" type="spelling">kinsfolk<
 Sister;</hi> yet indeed <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> was <hi>Abrahams</hi>
 <choice><orig>neece</orig><reg resp="#auto" type="spelling">niece</reg></choice>, the sister of <hi>Lot,</hi> and the daughter
 of <hi>Haran, Abrahams</hi> brother, which
-<hi>Moses</hi> elsewhere calleth <hi>Iischa,</hi> Genes.
+<hi>Moses</hi> elsewhere calleth <hi><choice><orig>Iischa</orig><reg resp="#editor" type="spelling">Iscah</reg></choice>,</hi> Genes.
 11. 29. Others <choice><orig>thinke</orig><reg resp="#auto" type="spelling">think</reg></choice>, that <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> was
 daughter in law to <hi><choice><orig>Thare</orig><reg resp="#auto" type="spelling">Terah</reg></choice>, Abrahams</hi> fa<g ref="char:EOLhyphen"/>ther;
 because <hi>Abraham</hi> <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> saith,
@@ -1699,13 +1699,13 @@ of truth, yet this is out of doubt, that
 God in those <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice> tolerated many
 things, which notwithstanding he did
 not altogether <choice><orig>approue</orig><reg resp="#auto" type="spelling">approve</reg></choice>.</p>
-               <p><choice><orig>Obiect</orig><reg resp="#auto" type="spelling">Object</reg></choice>. 3. 2. <hi>Sam.</hi> 13. 13. Thamar <hi><choice><orig>saies</orig><reg resp="#auto" type="spelling">says</reg></choice>
+               <p><choice><orig>Obiect</orig><reg resp="#auto" type="spelling">Object</reg></choice>. 3. 2. <hi>Sam.</hi> 13. 13. <choice><orig>Thamar</orig><reg resp="#editor" type="spelling">Tamar</reg></choice> <hi><choice><orig>saies</orig><reg resp="#auto" type="spelling">says</reg></choice>
 to her brother</hi> Amnon; <choice><orig>Speake</orig><reg resp="#auto" type="spelling">Speak</reg></choice> I pray thee
 
 
 <pb n="36" facs="tcp:2719:31"/>
                   <hi>to the King, and he will not <choice><orig>denie</orig><reg resp="#auto" type="spelling">deny</reg></choice> <choice><orig>mee</orig><reg resp="#auto" type="spelling">me</reg></choice> <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice>
-thee. Ans.</hi> The speech of <hi>Thamar</hi> is not
+thee. Ans.</hi> The speech of <hi><choice><orig>Thamar</orig><reg resp="#editor" type="spelling">Tamar</reg></choice></hi> is not
 <choice><orig>simplie</orig><reg resp="#auto" type="spelling">simply</reg></choice> to be taken, as if she desired that
 which she said, or as if it were <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> to
 be done, which she wished him to do;
@@ -3670,7 +3670,7 @@ is <choice><orig>meere</orig><reg resp="#auto" type="spelling">mere</reg></choic
 That it <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> performed in a moderate
 and sober <choice><orig>vse</orig><reg resp="#auto" type="spelling">use</reg></choice> of the creatures, without
 riot &amp; <choice><orig>excesse</orig><reg resp="#auto" type="spelling">excess</reg></choice>. Thus we <choice><orig>reade</orig><reg resp="#auto" type="spelling">read</reg></choice> that at the
-great feast of <hi>Ahashuerosh,</hi> it was appoin<g ref="char:EOLhyphen"/>ted
+great feast of <hi><choice><orig>Ahashuerosh</orig><reg resp="#editor" type="spelling">Ahasuerus</reg></choice>,</hi> it was appoin<g ref="char:EOLhyphen"/>ted
 by the King himself, <hi>that they should
 drink orderly,</hi> &amp; none might compel an<g ref="char:EOLhyphen"/>other
 to <choice><orig>drinke</orig><reg resp="#auto" type="spelling">drink</reg></choice> more then he thought
@@ -4444,7 +4444,7 @@ cherishing is the performing of any du<g ref="char:EOLhyphen"/>ties,
 that tend to the <choice><orig>preseruing</orig><reg resp="#auto" type="spelling">preserving</reg></choice> of the
 <choice><orig>liues</orig><reg resp="#auto" type="spelling">lives</reg></choice> one of another. Wherefore they
 are freely to <choice><abbr>co<g ref="char:cmbAbbrStroke">̄</g>municate</abbr><expan>communicate</expan></choice> their goods,
-their <choice><abbr>cou<g ref="char:cmbAbbrStroke">̄</g>sel</abbr><expan>counsel</expan></choice>, their labors each to other;
+their <choice><abbr>cou<g ref="char:cmbAbbrStroke">̄</g>sel</abbr><expan>counsel</expan></choice>, their <choice><orig>labors</orig><reg resp="#editor" type="spelling">labours</reg></choice> each to other;
 for the good of <choice><orig>themselues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> and theirs.</p>
                <p>
                   <hi>The third way is, by an holy kind of
@@ -4513,7 +4513,7 @@ thy brother: behold he is the <choice><orig>couering</orig><reg resp="#auto" typ
 thine <choice><orig>eies</orig><reg resp="#auto" type="spelling">eyes</reg></choice> amongst all that are with thee. Let
 it be <choice><orig>knowne</orig><reg resp="#auto" type="spelling">known</reg></choice> amongst all, &amp; be thou instru<g ref="char:EOLhyphen"/>cted.
 1. <hi>Sam. 30. 5. <choice><orig>Dauids</orig><reg resp="#auto" type="spelling">Davids</reg></choice></hi> two <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice> were
-taken prisoners also, <hi>Ahinoam</hi> the Izree<g ref="char:EOLhyphen"/>lite,
+taken prisoners also, <hi>Ahinoam</hi> the <choice><orig>Izree<g ref="char:EOLhyphen"/>lite</orig><reg resp="#editor" type="spelling">Jezreelitess</reg></choice>,
 and <hi>Abigail</hi> the wife of <hi>Nabal</hi> the
 Carmelite: <hi>v.</hi> 8. Then <hi><choice><orig>Dauid</orig><reg resp="#auto" type="spelling">David</reg></choice></hi> asked <choice><orig>coun<g ref="char:EOLhyphen"/>sell</orig><reg resp="#auto" type="spelling">counsel</reg></choice>
 of the Lord saying; Shall I follow after
@@ -4571,7 +4571,7 @@ the child, and for thy bond-woman: in all
 that</hi> Sarah <hi>shall say <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> thee, <choice><orig>heare</orig><reg resp="#auto" type="spelling">hear</reg></choice> her
 voice; For in</hi> <choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice> <hi>shall thy seed be called,</hi>
 Gen. 21. 12. Thus <hi>Elkanah</hi> was willing
-to subscribe <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> his wife <hi><choice><orig>Annaes</orig><reg resp="#auto" type="spelling">Anna's</reg></choice></hi> <choice><orig>ad<g ref="char:EOLhyphen"/>uice</orig><reg resp="#auto" type="spelling">advice</reg></choice>,
+to subscribe <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> his wife <hi><choice><orig>Annaes</orig><reg resp="#editor" type="spelling">Hannah's</reg><reg resp="#auto" type="spelling">Anna's</reg></choice></hi> <choice><orig>ad<g ref="char:EOLhyphen"/>uice</orig><reg resp="#auto" type="spelling">advice</reg></choice>,
 for her tarrying at home till the
 child was weaned, 1. Sam. 1. 23. <hi>And</hi> El<g ref="char:EOLhyphen"/>kanah
 <hi>her husband said <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> her, do what
@@ -4800,7 +4800,7 @@ O <choice><orig>bloodie</orig><reg resp="#auto" type="spelling">bloody</reg></ch
 whore, and went away from him <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> her
 fathers house to <choice><orig>Bethlem</orig><reg resp="#auto" type="spelling">Bethlehem</reg></choice> <choice><orig>Iudah</orig><reg resp="#auto" type="spelling">Judah</reg></choice>, and there
 continued the space of <choice><orig>foure</orig><reg resp="#auto" type="spelling">four</reg></choice> <choice><orig>moneths</orig><reg resp="#auto" type="spelling">months</reg></choice>. <hi>It was
-the <choice><orig>sinne</orig><reg resp="#auto" type="spelling">sin</reg></choice> of</hi> <choice><orig>Queene</orig><reg resp="#auto" type="spelling">Queen</reg></choice> Vashi, who refused to
+the <choice><orig>sinne</orig><reg resp="#auto" type="spelling">sin</reg></choice> of</hi> <choice><orig>Queene</orig><reg resp="#auto" type="spelling">Queen</reg></choice> <choice><orig>Vashi</orig><reg resp="#editor" type="spelling">Vashti</reg></choice>, who refused to
 come at the Kings word, which he had <choice><orig>gi<g ref="char:EOLhyphen"/>uen</orig><reg resp="#auto" type="spelling">given</reg></choice>
 in charge to the <choice><orig>Eunuches</orig><reg resp="#auto" type="spelling">Eunuchs</reg></choice>: therefore
 the King was <choice><orig>verie</orig><reg resp="#auto" type="spelling">very</reg></choice> <choice><orig>angrie</orig><reg resp="#auto" type="spelling">angry</reg></choice>, and his <choice><orig>warth</orig><reg resp="#auto" type="spelling">wrath</reg></choice>
@@ -4847,7 +4847,7 @@ infant <choice><orig>sucke</orig><reg resp="#auto" type="spelling">suck</reg></c
 clothes. <hi>Paul</hi> <choice><abbr>co<g ref="char:cmbAbbrStroke">̄</g>mends</abbr><expan>commends</expan></choice> it for a note
 of a good wife, <hi>to nurse her <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> children,</hi>
 1. Tim. 5. 10. Thus <hi>Sarah</hi> <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>sucke</orig><reg resp="#auto" type="spelling">suck</reg></choice> to
-<hi><choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice>,</hi> Gen. 21. 7. <hi>Anna</hi> nursed <hi>Samuel,</hi>
+<hi><choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice>,</hi> Gen. 21. 7. <hi><choice><orig>Anna</orig><reg resp="#editor" type="spelling">Hannah</reg></choice></hi> nursed <hi>Samuel,</hi>
 1. Sam. 1. 22. <hi><choice><orig>Dauid</orig><reg resp="#auto" type="spelling">David</reg></choice></hi> in likelihood was
 nursed by his mother, Psal. 22. 9. <hi>Thou
 <choice><orig>gauest</orig><reg resp="#auto" type="spelling">gavest</reg></choice> me hope <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> at my mothers breasts.</hi>
@@ -4986,7 +4986,7 @@ pregnant wit, and be indued with the
 best gifts, be consecrated <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> God, and
 brought <choice><orig>vp</orig><reg resp="#auto" type="spelling">up</reg></choice> in the <choice><orig>studie</orig><reg resp="#auto" type="spelling">study</reg></choice> of the Scrip<g ref="char:EOLhyphen"/>tures,
 to <choice><orig>serue</orig><reg resp="#auto" type="spelling">serve</reg></choice> afterward in the <choice><orig>Ministe<g ref="char:EOLhyphen"/>rie</orig><reg resp="#auto" type="spelling">Ministry</reg></choice>
-of the Church. Thus <hi>Anna</hi> dedica<g ref="char:EOLhyphen"/>ted
+of the Church. Thus <hi><choice><orig>Anna</orig><reg resp="#editor" type="spelling">Hannah</reg></choice></hi> dedica<g ref="char:EOLhyphen"/>ted
 <hi>Samuel</hi> her son <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> God by vow,
 1. Sam. 1. 11. <hi>And <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> vowed a vow, and
 
@@ -5299,7 +5299,7 @@ hated for the first borne, &amp; <choice><orig>giue</orig><reg resp="#auto" type
 portion of all that he hath, for he is the
 first of his strength, and to him belongeth
 the right of the first borne.</hi> This was the
-law; yet we <choice><orig>reade</orig><reg resp="#auto" type="spelling">read</reg></choice> that <hi>Ruben</hi> lost this
+law; yet we <choice><orig>reade</orig><reg resp="#auto" type="spelling">read</reg></choice> that <hi><choice><orig>Ruben</orig><reg resp="#editor" type="spelling">Reuben</reg></choice></hi> lost this
 <choice><orig>prerogatiue</orig><reg resp="#auto" type="spelling">prerogative</reg></choice>, by reason of his incest, and
 <hi><choice><orig>Iudah</orig><reg resp="#auto" type="spelling">Judah</reg></choice></hi> the fourth <choice><orig>sonne</orig><reg resp="#auto" type="spelling">son</reg></choice> of <hi><choice><orig>Iacob</orig><reg resp="#auto" type="spelling">Jacob</reg></choice></hi> had the
 <choice><orig>dignitie</orig><reg resp="#auto" type="spelling">dignity</reg></choice> of the first borne, Gen. 49. 8.
@@ -5621,9 +5621,9 @@ these cautions, is <choice><orig>lawfull</orig><reg resp="#auto" type="spelling"
 in <choice><abbr>co<g ref="char:cmbAbbrStroke">̄</g>scie<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>conscience</expan></choice>, it appears by these reasons.</p>
                <p>I. God hath ordained &amp; allowed it,
 <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> by warrant of his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> law: The
-<choice><orig>posteritie</orig><reg resp="#auto" type="spelling">posterity</reg></choice> of <hi>Cham</hi> was cursed by <hi>Noah,</hi>
+<choice><orig>posteritie</orig><reg resp="#auto" type="spelling">posterity</reg></choice> of <hi><choice><orig>Cham</orig><reg resp="#editor" type="spelling">Ham</reg></choice></hi> was cursed by <hi>Noah,</hi>
 and condemned to <choice><orig>slauerie</orig><reg resp="#auto" type="spelling">slavery</reg></choice>, Gen. 9. 25.
-<hi>And he said, Cursed be Cham, a <choice><orig>seruant</orig><reg resp="#auto" type="spelling">servant</reg></choice> of
+<hi>And he said, Cursed be <choice><orig>Cham</orig><reg resp="#editor" type="spelling">Ham</reg></choice>, a <choice><orig>seruant</orig><reg resp="#auto" type="spelling">servant</reg></choice> of
 <choice><orig>seruants</orig><reg resp="#auto" type="spelling">servants</reg></choice> <choice><orig>shal</orig><reg resp="#auto" type="spelling">shall</reg></choice> he be to his brethren.</hi> So were
 the Gibeonites by <hi><choice><orig>Ioshua</orig><reg resp="#auto" type="spelling">Joshua</reg></choice>,</hi> <choice><orig>Ios</orig><reg resp="#auto" type="spelling">Jos</reg></choice>. 9. 23. <hi>Now
 therefore <choice><orig>yee</orig><reg resp="#auto" type="spelling">ye</reg></choice> are cursed, and there shall none
@@ -5687,7 +5687,7 @@ against the law of <choice><orig>intire</orig><reg resp="#auto" type="spelling">
 before the fall, but against the law of
 corrupted nature since the fall, it is not.</p>
                <p>But Christ hath purchased liberty to
-<choice><orig>belieuers</orig><reg resp="#auto" type="spelling">believers</reg></choice>, Coloss. 5. 11. <hi>Ans.</hi> Only a <choice><orig>spiri<g ref="char:EOLhyphen"/>tuall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice>
+<choice><orig>belieuers</orig><reg resp="#auto" type="spelling">believers</reg></choice>, Coloss. <choice><orig>5</orig><reg resp="#editor" type="emendation">3</reg></choice>. 11. <hi>Ans.</hi> Only a <choice><orig>spiri<g ref="char:EOLhyphen"/>tuall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice>
 <choice><orig>libertie</orig><reg resp="#auto" type="spelling">liberty</reg></choice> in this life; &amp; a corporal on<g ref="char:EOLhyphen"/>ly
 in the life to come. For though <choice><orig><choice><abbr>y<hi rend="sup">•</hi></abbr><expan>y•</expan></choice></orig><reg resp="#editor" type="emendation">the</reg></choice> <choice><orig>ser<g ref="char:EOLhyphen"/>uant</orig><reg resp="#auto" type="spelling">servant</reg></choice>
 in regard of faith &amp; the inner man
@@ -5977,7 +5977,7 @@ performed <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg><
 I pray thee, with <choice><orig>walles</orig><reg resp="#auto" type="spelling">walls</reg></choice>, and let <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> set
 him a bed there, and a table, and a <choice><orig>stoole</orig><reg resp="#auto" type="spelling">stool</reg></choice>,
 and a <choice><orig>candlesticke</orig><reg resp="#auto" type="spelling">candlestick</reg></choice>, that he may <choice><orig>turne</orig><reg resp="#auto" type="spelling">turn</reg></choice> in hi<g ref="char:EOLhyphen"/>ther,
-when he <choice><orig>commeth</orig><reg resp="#editor" type="grammar">commeth</reg><reg resp="#auto" type="spelling">cometh</reg></choice> to <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice>. <hi>These are
+when he <choice><orig>commeth</orig><reg resp="#auto" type="spelling">cometh</reg></choice> to <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice>. <hi>These are
 the duties.</hi>
                </p>
                <p><choice><orig>Heere</orig><reg resp="#auto" type="spelling">Here</reg></choice> if it be demanded, whether the

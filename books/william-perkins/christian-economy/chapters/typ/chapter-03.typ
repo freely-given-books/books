@@ -18,7 +18,7 @@ Nevertheless, since the fall, to some men who have the gift of continency, it is
 
 The end of marriage is fourfold.
 
-The first is, procreation of children, for the propagation and continuance of the seed and posterity of man upon the earth, Gen. 1. 28. #emph[Bring forth fruit multiply, fill the earth, and subdue it,] Genes. 9. 1. 1. Tim. 5. 14.
+The first is, procreation of children, for the propagation and continuance of the seed and posterity of man upon the earth, Gen. 1. 28. #emph[Bring forth fruit and multiply, fill the earth, and subdue it,] Genes. 9. 1. 1. Tim. 5. 14.
 
 The second is the procreation of an holy seed, whereby the Church of God may be kept holy and chaste, and there may always be a holy company of men, that may worship and serve God in the Church from age to age, Malach. 2. 15. #emph[And did not he make one? Yet had he abundance of spirit; and wherefore one? Because he sought a godly seed.]
 
