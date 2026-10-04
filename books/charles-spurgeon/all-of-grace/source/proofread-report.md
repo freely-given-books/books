@@ -9,8 +9,11 @@ Monergism agree on an error, a fix rests on sense (marked *sense*).
 
 ## Needs your decision
 
-Answer by number ("1 yes, 2 no, 3 as recommended"). None of these has been
-applied.
+**Decided 2026-10-03 and applied** (synced, check OK, rebuilt: 135 pages, epubcheck
+clean): 1–4 as recommended ("I tell you, you cannot go to hell"; "think of it
+as if"; "made a sin-offering"; "thy cause to plead, / Nor doubt"); 5 kept as
+printed; 6 marks dropped in the four block quotations; 7 "plow"; 8 left as CCEL
+has it; 9 set as an ordinary paragraph.
 
 1. **Chapter 5, a word an earlier editor dropped.** The edition reads "If you
    believe on Him, I tell you cannot go to hell". CCEL and Monergism both
