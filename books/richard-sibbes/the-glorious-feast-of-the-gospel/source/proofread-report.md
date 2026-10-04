@@ -12,8 +12,16 @@ good wit", "always abounding" and "Christ said to the women".
 
 ## Needs your decision
 
-Answer by number ("1 yes, 2 no, 3 as recommended"). Nothing here has been
-applied.
+**Decided 2026-10-03 and applied:** 1 the "&c." stay out; 2 "is not taken
+off"; 3 "his veil" kept as printed; 4 "visible" kept (1650 and Grosart's text
+both read it; no witness reads "invisible"); 5 "removal of whatever may damp";
+6 "intuitively"; 7 prize, cumbers, strait, stricken; 8 Matthew, Philippians,
+Ephesians written out, Song of Solomon, St, anything/everything, noonday,
+wherever, Goliath; 9 all ten references corrected and each checked against
+the KJV verse (1 Sam 17:54, 1 Pet 4:14, 2 Sam 19:35, Eph 5:8, Col 2:14, 15,
+Rom 5:10, Eph 2:6, Rom 8:2, Deut 28:37, Rev 16:17); 10 "as in the valley of
+Baca, Psalm 84:6" (Grosart); 11 "It is become a drone", "Thus it hath been"
+(1650).
 
 1. **"etc." after a quoted verse.** The 1650 print has "&c." after six
    quotations, and the earlier copy dropped them all: sermon 1 twice ("drink

@@ -66,7 +66,7 @@ We need to every trade a great deal of knowledge. Then surely the calling of
 Christianity needeth a great deal. A Christian must expect much both in
 prosperity and adversity, as the apostle saith, 'I have learned to want and to
 abound, to be in honour and to be in disgrace, and I can do all things
-through Christ that strengthens me,' Philip 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
+through Christ that strengthens me,' Philippians 4:12. Now, because there is so much going out for the maintenance of Christianity, we must also bring
 in much grace, and faith, and love, and holiness, or else we shall never be
 able to uphold this condition. Where there is an exercise of Christianity,
 there will be an appetite to heaven; that is our best calling. For when that we
@@ -197,7 +197,7 @@ the rest of the chain of grace and spiritual life will follow.
 Sometimes we stand in need of present grace and comfort, and we are
 undone if comforts and grace are not at hand, never considering the
 promises that are to come; as that promise of Christ, 'I will be with thee to
-the end of the world, fear not,' Mat 28:20. No temptation shall befall us,
+the end of the world, fear not,' Matthew 28:20. No temptation shall befall us,
 but we shall have an issue out of it, and it shall work together for the good of
 all those that fear God. This is aqua vitae to the soul of man. Therefore the
 gracious promises of Christ and his Holy Spirit we should ever remember to
@@ -228,7 +228,7 @@ like to strong waters immoderately taken, instead of cheering the spirits, exhau
 mortified to all other base delights, 'he only mindeth the things above, where
 Christ is,' Colossians 3:1. And therefore the exhortation, or rather command, 'Seek
 the things that are above,' hath this promise in fit method annexed to it, 'and
-then all other things shall be cast in upon you,' Mat 6:33. Riches and
+then all other things shall be cast in upon you,' Matthew 6:33. Riches and
 honours in the world; and if not them, yet so much as is necessary, and
 mortification of our sins, and the lusts of the flesh.
 
@@ -363,7 +363,7 @@ world; but yet we know we shall reap in joy in the world to come.
 Remember this, we have we know not what to go through withal in this
 valley of tears. That speech of Barzillai was good and excellent, who being by
 David himself invited to the court, answered, 'I am now grown old, I am not
-fit for the court, for my senses are decayed and gone,' 2 Samuel 19:32.
+fit for the court, for my senses are decayed and gone,' 2 Samuel 19:35.
 Even so the time will come when our sense of relishing earthly pleasures will
 utterly be lost. We are sure to go to our graves, and we know not what
 particular trouble we may meet with in this world and go through, if we live

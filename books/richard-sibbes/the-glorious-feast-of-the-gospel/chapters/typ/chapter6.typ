@@ -150,7 +150,7 @@ God in Christ, to the constancy of it, that it is answerable to the fruit of it 
 peace and joy here, and happiness hereafter, which are constant too. His
 grace, as himself, is constant, the fruits of it constant. Therefore 'rejoice
 evermore.' And, saith the apostle, 'I know what I say, I am well advised,
-evermore rejoice,' Philip 4:4. So that the life of a Christian is a mixed life,
+evermore rejoice,' Philippians 4:4. So that the life of a Christian is a mixed life,
 nay, the ground of our joy is our sorrow and grief, and joy is sown in grief. If
 we will rejoice indeed, let us mourn indeed. True joy ariseth and springs out
 of sorrow.
@@ -193,7 +193,7 @@ aimeth partly at the conversion of the Jews. It shall be accomplished at the
 resurrection, when all tears shall be perfectly wiped away. But it hath relation
 to the conversion of the Jews. In what state are they now? Are they not a
 word of reproach? Moses’s speech is verified of them, 'They shall be a
-hissing to all nations,' 2 Chron 29:8. And is not it a proverb, Hated as a Jew?
+hissing to all nations,' Deuteronomy 28:37. And is not it a proverb, Hated as a Jew?
 
 Reason. But what is the reason of it? Not to stand long upon the point,
 you know there be two seeds in the world, the seed of the serpent and the
@@ -258,7 +258,7 @@ of it. That which hath raised and ruined many a man, is that of Haman’s
 casting of jealousy upon those that are better than themselves. That was
 Haman’s trick, and so will be the practice of the wicked, as it hath been from
 the beginning, so to the end of the world. 'Thou art not Caesar’s friend,' say
-they, and it is enough to Pilate, John 19:12. Thus it has been, and will be to
+they, and it is enough to Pilate, John 19:12. Thus it hath been, and will be to
 the end of the world. Therefore we had need to be wise, that we be not
 misled. Men will never leave to speak ill till they have learned to speak better,
 till the Spirit of God hath taught them.
@@ -306,7 +306,7 @@ men will reproach, they may reproach without a cause.
 #[
   #set enum(numbering: "1.", start: 2)
   + Then labour for a spirit of patience to serve Christ with. 'Great is your
-    reward when men speak evil of you,' Mat 5:12, for a good cause. It is the
+    reward when men speak evil of you,' Matthew 5:12, for a good cause. It is the
     portion of a Christian in this life to do well and suffer ill. Of all, certainly they
     are best, that, out of love to goodness, are carried to goodness, without
     looking to rewards or disgrace; that follows with a single eye. Labour,
@@ -365,4 +365,4 @@ face did shine as the face of an angel, which came from a spirit of glory that
 rested upon him, and expressed himself to be the servant of God. He that
 takes away from our good report, if we be good, he addeth to our reward.
 Our Saviour Christ saith as much, 'Blessed are you when you be ill spoken
-of, for great is your reward,' Mat 5:11, 12.
+of, for great is your reward,' Matthew 5:11, 12.

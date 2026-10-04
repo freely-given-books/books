@@ -171,7 +171,7 @@ another generation of the church, that so it was a little more enlarged. Then
 there was a third generation, a divided generation, consisting of Jews and
 Gentiles. So that, when Christ came into the world, the bounds of the church
 began to enlarge themselves more and more, so that now it is in this happy
-condition, 'Come ye all unto me, all that are heavy laden,' Mat 11:28. Both
+condition, 'Come ye all unto me, all that are heavy laden,' Matthew 11:28. Both
 Jews and Gentiles, all are invited, whosoever they are, 'nothing is now
 unclean,' Acts 10:15. Christ is come, and hath made 'to all people a feast of
 fat things.' It must be a feast, and of fat things, for all the world shall be the
@@ -212,7 +212,7 @@ comforts, is compared to a feast.
 
 First. In regard of the choice of the things. In a feast all things are of the
 best; so are the things we have in Christ. Whatsoever favours we have by
-Christ, they are choice ones. They are the best of every thing. Pardon for sin
+Christ, they are choice ones. They are the best of everything. Pardon for sin
 is a pardon of pardon. The title we have for heaven, through him, is a sure
 title. The joy we have by him is the joy of all joys. The liberty and freedom
 from sin, which he purchased for us by his death, is perfect freedom. The
@@ -440,13 +440,13 @@ fetch from him, the more glory we give unto him. But if they were finite, we
 should offend his bounty, he might soon be drawn dry, and so send us away
 with an uncomfortable answer, that he was not able to relieve us. But Christ
 is infinite, and the more we have from him, the more we may have. 'To him
-that hath shall be given,' Mat 13:12. The oftener we go to Christ, the more
+that hath shall be given,' Matthew 13:12. The oftener we go to Christ, the more
 honour and glory we bring unto him. This is a banquet to the full.
 
 We are now come to the banquet, and Christ is the founder of it; nay, he
 is the feast itself. He is the author of it, and he it is that we feed upon.
 
-Use 2. Let us labour not to be straight receivers of the sacrament, but
+Use 2. Let us labour not to be strait receivers of the sacrament, but
 suck in abundance from Christ with a great deal of delight, that we may come
 together not for the worse but the better, considering what a great deal of
 strength and grace is required as very necessary for the maintaining of

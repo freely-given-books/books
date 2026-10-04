@@ -146,7 +146,7 @@ gracious spirits. We have praising of God for ever there. We know the
 sweetness of it here in the house of God, which made David desire this one
 thing, 'that he might dwell in the house of God, to visit the beauty of God,'
 Psalm 27:4. There we shall have perfect peace; here we have inward
-peace, unspeakable and glorious, 'a peace that passeth understanding,' Philip 4:7,
+peace, unspeakable and glorious, 'a peace that passeth understanding,' Philippians 4:7,
 in the beginning of it. There we shall have joy without all mixture of
 contrariety; here we have joy, 'and joy unspeakable and full of glory,' 1 Peter 1:8.
 There is nothing in heaven that is perfect, that is sweet, and good, and
@@ -415,11 +415,11 @@ triumphing manner, 'This is the Lord,' this sight is a changing sight. There is
 no sight of God, but it changeth, and alters to the likeness of God, when he
 calls to look up to him, and he looks on us in favour and mercy. The best
 fruit of his favour is grace, of peace, and joy, for these be beams that issue
-from him, grace, as beams from the sun. But where-ever God looks with any
+from him, grace, as beams from the sun. But wherever God looks with any
 favour, there is a conformity to Christ, a gracious, humble, pitiful, merciful,
 obedient disposition, which is an earnest of the Spirit of Christ.
 And there is a study of purity, of a refined disposition from the
-pollutions of the world. 'The pure in heart shall see God,' Mat 5:8. They
+pollutions of the world. 'The pure in heart shall see God,' Matthew 5:8. They
 that hope to see God for ever in heaven, will study that purity that may
 dispose and fit them for heaven. And there is such a gracious influence in it,
 that they that hope for heaven, the very hope must needs help to purify
@@ -465,7 +465,7 @@ Oh, have that day in our eyes, that day of all days, and the very thoughts
 of it will fit us for the day. The thoughts of our end will fit and stir us up to
 all means tending to that end. Physic is good, if it tend to health. The very
 thoughts of that prescribes order and means. We read, 'Seek the kingdom of
-heaven first, and all other things shall be added to you,' Mat 6:33. The
+heaven first, and all other things shall be added to you,' Matthew 6:33. The
 thought of the end prescribes order to all means, and it prescribes measure,
 'How to use the world, as though I used it not,' 1 Corinthians 7:31, for the
 thoughts of my end stir me up to use all courses suitable to that end.

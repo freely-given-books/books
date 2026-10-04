@@ -226,7 +226,7 @@ are condemned by God; and whom we shut heaven to, by opening the
 Scriptures, God will shut heaven to. The opening of the Scriptures is the
 opening of heaven. If the Scripture saith, a man that liveth in such a sin shall
 not be saved, heaven shall be shut to him; he is in a state of death, he is
-strucken, and remaineth in danger till he repenteth. How many live in sins
+stricken, and remaineth in danger till he repenteth. How many live in sins
 against conscience, that are under the guilt and danger of their sins. They be
 wounded, they be struck by the word. There is a threat against their sins,
 although it be not executed; and they be as much in danger of eternal death
@@ -275,7 +275,7 @@ frame them in our affections, that we may find the word in our joy, in our
 love, in our patience, that all may be seasoned with the word of God. When
 there is a relish in the word, and in the soul suitable to it, then a man is a
 Christian indeed to purpose. Till then men will apostatize, turn papist, turn
-atheist, or any thing, because there is a distance between the soul and the
+atheist, or anything, because there is a distance between the soul and the
 word. The word is not engrafted into the soul. They do not know the word
 to be the word by arguments fetched from the word, and therefore they fall
 from the power of the word. But if we will not fall from divine truths, get

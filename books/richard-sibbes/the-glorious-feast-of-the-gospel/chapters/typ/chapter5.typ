@@ -20,7 +20,7 @@ observeth. They are easy to lament, not only for their own sins, but the sins
 and misery of another.
 
 Our blessed Saviour himself, we never read that he laughed. We have
-heard that he wept, and for his very enemies, 'O Jerusalem, Jerusalem,' Mat 23:37. He shed tears for them that shed his blood. Tears were main
+heard that he wept, and for his very enemies, 'O Jerusalem, Jerusalem,' Matthew 23:37. He shed tears for them that shed his blood. Tears were main
 evidences of Christ’s sweetness of disposition; as that he would become man,
 and a curse, and die for us, and that he would make so much of little
 children, and call all to him that were weary and heavy laden, that he never
@@ -39,7 +39,7 @@ adoption. They are not children, who rejoice at that at which they should
 grieve.
 
 So St Paul, 'I have told you often, and now tell you weeping, there be
-many enemies of the cross of Christ,' Philip 3:18. When he saw some men
+many enemies of the cross of Christ,' Philippians 3:18. When he saw some men
 preach against, and others enemies of the cross of Christ, whose end is
 damnation, he telleth them of it weeping.
 
@@ -246,7 +246,7 @@ discouraged for anything we can suffer here, or for the church, if we see her
 under pressure. As darkness is sown for the wicked, the foundation of their
 eternal torment is laid in their joy; so the ground and foundation of all a
 godly man’s joy is laid in tears. 'Blessed are they that mourn, for they shall be
-comforted,' Mat 5:4. Yet for the present there is more matter of joy than
+comforted,' Matthew 5:4. Yet for the present there is more matter of joy than
 grief, if we look with both eyes; as we ought to have double eyes, one to be
 sensible of our grief, as we must be, the other of our comfort, that we may
 not be surprised with grief. There is a sorrow to death, an overmuch sorrow.
@@ -301,7 +301,7 @@ taken away. Those that will be joyful, and not search to the bottom, must
 needs with shame be brought back to sorrow. When we will joy to purpose,
 let us judge ourselves, that we may not be judged of the Lord; mourn for our
 sins, and then lay hold upon the promise, that 'all they that mourn for sin
-shall be comforted,' Mat 5:4. And blessed are they that shed tears here, for
+shall be comforted,' Matthew 5:4. And blessed are they that shed tears here, for
 all tears shall be wiped away.
 
 We are subject to wrong ourselves, both good and bad: for the good
@@ -317,14 +317,14 @@ of heaven, and there is no cloud there, but all pure, all serene. Therefore in
 Christianity consider not their beginning but their ends. 'Mark the end of the
 upright, for the end of the upright is peace,' Psalm 37:37. Ways have their
 commendation from the term in which they end. 'If by any means I may
-attain the resurrection of the dead,' saith Paul, Philip 3:11. Through thick
+attain the resurrection of the dead,' saith Paul, Philippians 3:11. Through thick
 and thin, fair and foul, rugged winds, dry or bloody death; if by any means I
 may come to the resurrection of the dead, the first degree of glory, all is well.
 It is a good way that ends well. Non qua, sed quo. Consider not what way he
 brings us to heaven, but whither he brings us. If he bring us to heaven
 through a valley of tears, it is no matter; for in heaven 'all tears shall be wiped
 from our eyes.' And therefore Christianity is called wisdom. 'And this
-wisdom is justified of her children,' Mat 11:19. What is the chiefest point of
+wisdom is justified of her children,' Matthew 11:19. What is the chiefest point of
 wisdom? To look home to the end, and to direct all means to that end. He is
 wise that is wise for eternity. The wicked will have their payment here. 'But
 woe to them that laugh, for they shall mourn,' saith Christ, Luke 6:25. They
