@@ -17,12 +17,7 @@ Contrary is their mind, who take a wife only for their own #footnote[Contrary, t
 
 === §. 47. #emph[Of an husbands providing means of spiritual edification for his wife.]
 
-+ In this provident care which an husband ought to have of
-+ His wife, we will consider the
-+ Extent
-+ Continuance
-
-thereof.
+In this provident care which an husband ought to have of his wife, we will consider the extent and continuance thereof.
 
 It ought to extend both to #emph[her self,] and to #emph[others.]
 

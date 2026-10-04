@@ -301,7 +301,7 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 #strong[3. #emph[Object.] The metaphor taken from nurses is oft used, #footnote[#emph[Num.] 11. 12. 1 #emph[Thes.] 2. 7.] and applied to God, and to Gods ministers.]
 
-1. #emph[Answ.] The using of a thing by way of comparison and resemblance doth not simply justify it: instance the parable of the unjust steward, and of a thief. #footnote[#emph[Luke] 16. 1. #emph[etc. Reu]#emph[.] 16. 15.]
+1. #emph[Answ.] The using of a thing by way of comparison and resemblance doth not simply justify it: instance the parable of the unjust steward, and of a thief. #footnote[#emph[Luke] 16. 1. #emph[etc. Rev.] 16. 15.]
 
 2. #emph[Answ.] The metaphor may be taken from a dry nurse as well as a milch nurse: for the comparisons are not used of giving suck, but of bearing and carrying in arms, as dry nurses use to carry children.
 

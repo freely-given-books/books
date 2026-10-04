@@ -368,6 +368,9 @@ def div_blocks(r, div, level=2, lines=None):
             t = r.para(c)
             if t and r.layer == "reg" and c.get("rend") == "quote":
                 t = f"#quote[{t}]"
+            if t and r.layer == "reg" and c.get("rend") == "epigraph":
+                lines += epigraph_block(*epigraph_parts(t))
+                continue
             add_block(r, lines, c, t)
         elif n == "list" and r.layer == "reg" and c.get("rend") == "inline":
             add_block(r, lines, c, collapse(r.inline(c)).strip())   # in the sentence
@@ -442,6 +445,21 @@ def epigraph_lines(r, ep):
         return []
     if ep.get("rend") == "quote":      # the edition sets it as a quotation
         return [f"#quote[{' '.join(x for x in (ref, body) if x)}]", ""]
+    return epigraph_block(ref, body)
+
+
+# a printed paragraph the edition sets as an epigraph (p[@rend="epigraph"]):
+# its reference ("EPHES. 6. 7.") is split off its verse
+EPIGRAPH_REF = re.compile(r"^((?:[1-3] )?[A-Z][A-Za-z]*\.\s*\d+\.(?:\s*\d+(?:,\s*\d+)*\.)?)\s+(.*)$", re.S)
+
+
+def epigraph_parts(t):
+    """(reference, verse) of a paragraph set as an epigraph."""
+    m = EPIGRAPH_REF.match(t)
+    return (m.group(1), m.group(2)) if m else ("", t)
+
+
+def epigraph_block(ref, body):
     lines = ["#align(center)[", "  #block(width: 85%)[", "    #set par(justify: false)"]
     if ref:
         lines += [f"    #text(size: 0.9em, weight: 600)[{ref}]", ""]
@@ -485,7 +503,8 @@ def table_lines(r, table):
             if not t:
                 continue
             if marker == "+":
-                lines.append("+ " + t)
+                nested = cells[0].get("rend") == "nested"
+                lines.append(("  + " if nested else "+ ") + t)
             else:
                 if lines and lines[-1] != "":
                     lines.append("")
@@ -545,11 +564,16 @@ def div_lines(r, div, level):
         if r.layer == "reg" and h.get("prev"):
             lines += [RUN_ON + t, ""]       # the review runs it on (join_run_on)
             continue
+        if r.layer == "reg" and h.get("next"):
+            lines += [t, ""]                # its paragraph runs on (add_block)
+            continue
         if div.get("type") in r.run_in:
             enum = getattr(r, "settings", {}).get("TYPST_NUMBERED_PARAGRAPHS") == "enum"
             lines += [f"#strong[{block_start_escape(t, numerals=not enum)}]", ""]
         else:
             lines += [f"{'=' * level} {t}", ""]
+    if r.layer == "reg" and any(h.get("next") for h in div.findall(T + "head")):
+        return div_blocks(r, div, level, lines)     # its paragraph runs on (add_block)
     return lines + div_blocks(r, div, level)
 
 

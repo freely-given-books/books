@@ -161,7 +161,16 @@ To put a difference betwixt Christ and other masters, and to show that he looket
 
 === §. 126. #emph[Of the meaning of the seventh verse.]
 
-EPHES. 6. 7. With good will doing service as to the Lord and not to men.
+#align(center)[
+  #block(width: 85%)[
+    #set par(justify: false)
+    #text(size: 0.9em, weight: 600)[EPHES. 6. 7.]
+
+    #text(style: "italic")[With good will doing service as to the Lord and not to men.]
+  ]
+]
+
+#v(0.8em)
 
 In this verse the Apostle doth yet again inculcate the forenamed point concerning servants manner of obeying their masters, and their care therein to approve themselves to their highest master: whence observe that
 

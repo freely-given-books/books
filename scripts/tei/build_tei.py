@@ -1793,6 +1793,18 @@ def review_division(d, review, f, log, unresolved):
     tgt = [(t, k) for t, k, _ in review.body]
     owner = {}
     cl, st = align(body, tgt, [], f, owner)
+    for j0 in getattr(review, "epigraphs", ()):
+        # a printed paragraph the review sets as a scripture epigraph
+        jw = next((j for j in range(j0 + 1, len(tgt)) if j in owner), None)
+        if jw is None:
+            continue
+        anc = ancestors(owner[jw])
+        p = next((a for a in anc if local(a.el) in ("p", "epigraph")), None)
+        if p is not None and local(p.el) == "p" and p.el.get("rend") != "epigraph" and \
+                not any(local(a.el) == "epigraph" for a in anc):
+            p.el.set("rend", "epigraph")
+            p.el.set("change", "#review")
+            log.append((f, "epigraph", owner[jw].orig, "set as a scripture epigraph"))
     tflags = {}            # id(tok) -> [(target index, italic flag)]
     for j, tok in owner.items():
         tflags.setdefault(id(tok), []).append((j, review.body[j][2]))
@@ -2268,6 +2280,16 @@ def apply_list_shape(log):
         if info["kind"] in ("+", "-"):
             k = next((i for i in range(len(conts) - 1, 0, -1)
                       if local(conts[i].el) == "item"), None)
+            cell = next((c for c in reversed(conts) if local(c.el) == "cell"), None)
+            if k is None and cell is not None and d == 1 and info["kind"] == "+" and \
+                    not info.get("numbering") and not info.get("start"):
+                # a branch of a brace the review sets under the branch before
+                if cell.el.get("rend") != "nested":
+                    cell.el.set("rend", "nested")
+                    cell.el.set("change", "#review")
+                    log.append((f, "list", f"table cell at '{tok.orig}'",
+                                "nested under the branch before"))
+                continue
             if k is None:
                 if d or info.get("numbering") or info.get("start"):
                     log.append((f, "skipped", f"list item at '{tok.orig}'", "not an item"))
@@ -2425,6 +2447,20 @@ def restructure(splits, log):
     or '>' (split there), 'quote' (the block is a quotation), 'merge' (the
     block continues the previous one)."""
     LATER = ("quote", "merge", "renumber", "unlist", "inline", "headmerge")
+    tables = {}
+    for s in splits:
+        if s[1] == "tableinline":
+            tables.setdefault(id(s[0]), (s[0], []))[1].append(s)
+    for tb, ss in tables.values():
+        marks = [m for m, _c in layout.table_reading(tb.el)[1] if m]
+        if len(ss) == len(marks):
+            tb.el.set("rend", "inline")
+            tb.el.set("change", "#review")
+            log.append((ss[0][4], "list", "table", "run into its sentence"))
+        else:
+            log.append((ss[0][4], "unresolved", "table",
+                        f"{len(ss)} of its {len(marks)} lines run on; kept as is"))
+    splits = [s for s in splits if s[1] != "tableinline"]
     later = [s for s in splits if s[1] in LATER]
     splits = [s for s in splits if s[1] not in LATER]
     by_block = {}
@@ -2648,8 +2684,23 @@ def restructure(splits, log):
                      local(c.el) == "item"]
             if items:
                 prev, into_item = items[-1], True
+        run_in_head = prev is not None and local(prev.el) == "head" and \
+            prev.el.getparent().get("type") in HEAD_MODE["run_in"]
         if prev is None or local(prev.el) not in ("p", "q", "item", "salute", "signed",
-                                                  "dateline", "list"):
+                                                  "dateline", "list") and not run_in_head:
+            # the last block of the division before
+            before = None
+            if prev is None and b.parent.parent is not None:
+                sibs = [c for c in b.parent.parent.children if c.kind == "container"]
+                i = next((n for n, c in enumerate(sibs) if c is b.parent), 0)
+                ps = [c for c in sibs[i - 1].children if c.kind == "container"
+                      and local(c.el) == "p"] if i else []
+                before = ps[-1] if ps else None
+            if before is not None and not has_words(before):
+                # the paragraph the review took out (margin matter set as a
+                # note) was aligned this side of the break: nothing runs on
+                log.append((f, "list", "blocks", "emptied by the review"))
+                continue
             log.append((f, "skipped", f"merge at '{tok.orig}'", "no paragraph before it"))
             continue
         if into_item:
@@ -2677,6 +2728,13 @@ def collect_splits(struct, stream_index, log):
         tok = at[2]
         Sw = [x for x in s["S"] if x[1] == "w"]
         order = stream_index.get(id(tok), 0)
+        tabs = [x[2] for x in s["S"] if x[1] == "m" and x[2].kind == "container"
+                and local(x[2].el) == "table"]
+        if tabs and len(tabs) == len(s["src_marks"]) and s["tgt_marks"] in ([], ["¶"]):
+            # a table's reading the review runs into one sentence
+            # (restructure checks that every one of its marks went)
+            splits += [(tb, "tableinline", [], order, s["label"]) for tb in tabs]
+            continue
         if s["tgt_marks"] == ["+"] and not s["src_marks"]:
             labels = []
             if len(Sw) >= 2 and (ROMAN_RE.match(Sw[0][0]) and Sw[1][0] == "." or
@@ -2839,6 +2897,16 @@ def add_header(root, editor_name):
          "number it starts from."),
         (".//t:epigraph[@rend='quote']", "epigraph[@rend='quote']: a scripture "
          "epigraph this edition sets as a quotation in the text."),
+        (".//t:cell[@rend='nested']", "cell[@rend='nested']: a branch of a brace "
+         "table this edition sets as an item under the branch before it."),
+        (".//t:table[@rend='inline']", "table[@rend='inline']: a brace table this "
+         "edition reads into one sentence, column by column."),
+        (".//t:head[@next]", "head[@next]: a run-in head this edition sets as "
+         "the opening words of its paragraph (p/@prev), not as a bold line."),
+        (".//t:head[@prev]", "head[@prev]: a printed heading this edition runs on "
+         "into the paragraph before it (a margin note or catchword set as a head)."),
+        (".//t:p[@rend='epigraph']", "p[@rend='epigraph']: a paragraph holding a "
+         "scripture text (reference and verse) this edition sets as an epigraph."),
         (".//t:head[@type='short']", "head[@type='short']: the short form of this "
          "edition's title, used in running heads."),
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),

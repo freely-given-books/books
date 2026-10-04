@@ -18,10 +18,34 @@ into the TEI:
 | 3 | 998 |
 | 4 | 514 |
 
-## Needs your decision
+## Decided 2026-10-04 and applied
 
-Answer like "1 yes, 2 no, 3 as recommended". Nothing here has been
-applied.
+Every recommendation below was accepted ("go for all of it") and applied
+in `chapters/typ`, with these notes:
+
+- **30 ("then"/"than"):** the premise was wrong. The 1622 printing itself
+  has "than" in all 16 places the edition prints it, so they are kept as
+  printed. Nothing was changed.
+- **8, 12, 18, 36:** kept as printed, as recommended.
+- **25 (epigraphs):** both are set as epigraphs (new encoding
+  `p[@rend="epigraph"]`).
+- **26 (lists):** done with new encodings:
+  - §56: `cell[@rend="nested"]`, a brace branch set under the branch before it.
+  - vol 2, 17 §47: `table[@rend="inline"]`, the brace read as one sentence:
+    "we will consider the extent and continuance thereof".
+  - vol 2, 10: `head[@next]`, "Object." run into its paragraph.
+- **35 (spellings):** 503 words of the 1622 spelling map are in
+  `source/spelling_1622.py`, merged into `SPELLING`. The machine is now
+  credited with about 640 decisions (editor spelling decisions went from
+  1,264 to 622), and the text is unchanged.
+  - Left out: misprints (beter, thogh…), words read by context
+    (course/coarse, staid, steed…), and words used in another sense
+    elsewhere (aduise as both advice and advise, bee, paine).
+- **Also fixed:** a footnote in vol 3, 06 cited "Reu. 16. 15", which is now "Rev. 16. 15" (the thief verse).
+
+**Proofed to print so far: volume 1** (PDF and Lulu checks, below).
+Volumes 2–4 carry the same decisions but have not been proofread in the
+built PDF since.
 
 ### The 1622 errata (the printer's own corrections, never applied)
 
@@ -196,4 +220,9 @@ checked against the text.
 - [x] 47 warnings that a footnote is set on another page than its marker (Typst's widow control).
   - The build from `main` gives 48, so they predate this review; none are new.
 - [x] The PDF text has no wrongly curled quotes and no stray markup.
-- [ ] Questions 1–36 are open. Errata 1–7 should be settled before printing, since erratum 1 reverses the sense.
+- [x] Questions 1–36 decided and applied (2026-10-04).
+- [x] Volume 1 rebuilt after the decisions: 195 pages, Lulu margins OK.
+  - It has 9 footnote warnings, the same as `main`.
+  - The epigraph and the §56 branches checked in the PDF text; no stray markup.
+  - The EPUB (all four volumes) passes epubcheck with 0 errors and 0 warnings.
+- [ ] Volumes 2–4: rebuild and proof the PDFs (left for later).

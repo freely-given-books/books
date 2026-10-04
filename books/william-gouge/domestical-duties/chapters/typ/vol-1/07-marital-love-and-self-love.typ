@@ -144,8 +144,8 @@ This is manifested two ways.
 
 + Negatively, #emph[No man hateth his own flesh.]
 + Affirmatively, and that in two branches
-+ #emph[Nourisheth]
-+ #emph[Cherisheth]
+  + #emph[Nourisheth]
+  + #emph[Cherisheth]
 
 it.
 

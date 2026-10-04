@@ -79,6 +79,15 @@ overrides), so the ebook and the Typst chapters cannot drift apart.
     `"part"` is a part page before it in the ebook
   - a layout file's `"subtitle"`: a printed head set as a centred line under
     the title (Bunyan's preface dedication), aligned like a paragraph
+  - Gouge: `head[@prev]` a printed head the edition runs on into the
+    paragraph before (a sentence the TCP made a heading); `head[@next]` a
+    run-in head (`RUN_IN_DIVS`) set as its paragraph's opening words, not
+    bold; `p[@rend="epigraph"]` a paragraph holding a scripture text set
+    as an epigraph (the review's centred `#align(center)[ #block ...]`);
+    `cell[@rend="nested"]` a brace branch set under the branch before;
+    `table[@rend="inline"]` a brace read into one sentence; blocks the
+    review deletes whole (margin matter moved into a note) stay, emptied,
+    and the paragraph runs on past them
 - The header (`editorialDecl`, `respStmt`, `revisionDesc`) documents the
   rules and who `#auto` / `#editor` are. It validates against `tei_all`.
 - **Typst is replaceable.** Anything that reads XML can produce LaTeX, HTML
@@ -139,7 +148,8 @@ the venv, and takes a book by part of its name (or none inside the book):
 ./fgb changes gouge --open  # before-after.html: the EPUB published before the TEI
                           # next to the one built now (--old REV|FILE.epub, --new FILE.epub)
 ./fgb check gouge         # verify.py
-./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py)
+./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py;
+                          # EPUB["volumes"]: one EPUB per volume, as Gouge)
 ./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
 ./fgb build [gouge ...]   # PDFs + covers + checked EPUB into dist/ (git-ignored);
                           # no book = every TEI book; --pdf/--epub, --out DIR

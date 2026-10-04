@@ -286,7 +286,8 @@ def table_reading(table):
     if not grid:
         return "rows", []
     p = table.getparent()
-    if p is not None and local(p) == "p" and text_follows(p, table):
+    if table.get("rend") == "inline" or \
+            p is not None and local(p) == "p" and text_follows(p, table):
         cells = [c for c, *_ in sorted(grid, key=lambda g: (g[2], g[1]))]
         return "inline", [("", cells)]
     if any(g[3] > 1 for g in grid):

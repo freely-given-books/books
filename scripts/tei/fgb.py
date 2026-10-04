@@ -34,7 +34,9 @@ has to remember options:
   EPUB = {"title": ..., "author": ..., "front": "ebook-front.html",
           "cover": "cover.typ",           # or an image; a .typ cover's
           "css": [...], "before": [...],  # front panel is rendered
-          "after": [...], "toc_depth": 4} # paths from the book folder
+          "after": [...], "toc_depth": 4, # paths from the book folder
+          "volumes": [{"files": ["vol-1/"], "title": ..., "file": ...,
+                       "cover": ..., "front": ...}, ...]}  # one EPUB each
   PRINT = ["book.typ"]                             # Typst files to compile
   COVERS = ["cover.typ"]       # covers, compiled after PRINT (default cover*.typ)
   SIDE_BY_SIDE = {"before": [...], "after": [...],
@@ -336,6 +338,18 @@ def build_epub(bk, outdir):
     e = bk.cfg.get("EPUB")
     if not e:
         sys.exit(f"{bk.name}: no EPUB settings in source/editorial.py (see ./fgb --help)")
+    if e.get("volumes"):
+        # one EPUB per volume: each entry overrides the shared settings and
+        # names its layout files by path prefix ("files": ["vol-1/"])
+        outs = []
+        for v in e["volumes"]:
+            outs += build_one_epub(bk, outdir, {**{k: x for k, x in e.items()
+                                                    if k != "volumes"}, **v})
+        return outs
+    return build_one_epub(bk, outdir, e)
+
+
+def build_one_epub(bk, outdir, e):
     out = outdir / e.get("file", bk.dir.name + ".epub")
     args = [PY, HERE / "tei_epub.py", bk.tei, out, "--title", e["title"],
             "--author", e["author"]]
@@ -355,6 +369,8 @@ def build_epub(bk, outdir):
             args += [f"--{k}", f]
     if e.get("toc_depth"):
         args += ["--toc-depth", e["toc_depth"]]
+    for f in e.get("files", []):
+        args += ["--files", f]
     run(*args, cwd=bk.dir)
     if shutil.which("epubcheck"):
         r = subprocess.run(["epubcheck", str(out)], capture_output=True, text=True)

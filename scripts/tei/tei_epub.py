@@ -236,6 +236,8 @@ def main():
                     "4 (also h4, e.g. a book's numbered sections)")
     ap.add_argument("--cover")
     ap.add_argument("--css", action="append", default=[])
+    ap.add_argument("--files", action="append", default=[],
+                    help="only the layout files under this path prefix (e.g. vol-1/); repeatable")
     ap.add_argument("--lang", default="en")
     ap.add_argument("--identifier")
     ap.add_argument("--modified")
@@ -305,7 +307,7 @@ def main():
     r = renderer(a, root)
     r.note_no = notes_used[0]                    # notes are numbered through the book
     ndiv = 0
-    for n, (div_id, head, lines) in enumerate(divisions(root, r, layout.settings(a.tei))):
+    for n, (div_id, head, lines) in enumerate(divisions(root, r, layout.settings(a.tei), a.files)):
         name = f"{div_id}.xhtml"
         page(div_id, name, head, lines)
         ndiv += 1

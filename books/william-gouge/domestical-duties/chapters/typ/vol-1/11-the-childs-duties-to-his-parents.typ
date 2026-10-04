@@ -8,7 +8,16 @@ Besides children are the fruits of matrimonial conjunction, therefore fitly plac
 
 That which concerneth children is laid down in the sixth Chapter of #emph[Eph.] vers. 1, 2, 3. The meaning whereof we will distinctly open.
 
-EPHES. 6. 1. Children obey your parents in the Lord: for this is right.
+#align(center)[
+  #block(width: 85%)[
+    #set par(justify: false)
+    #text(size: 0.9em, weight: 600)[EPHES. 6. 1.]
+
+    #text(style: "italic")[Children obey your parents in the Lord: for this is right.]
+  ]
+]
+
+#v(0.8em)
 
 The first word #emph[(children)] is in the original as proper a word as could be used, for according to the notation of it, it signifieth such as are begotten and born. Answerable is the other word #emph[(parents)] which signifieth such as beget and bring forth #footnote[Who are to be accounted children, who parents.] children. Yet are they not so strictly to be taken as if none but such as begat and brought forth, or such as are begotten and brought forth of them were meant: for under the title #emph[parents,] he includeth all such as are in the place of natural parents, as #emph[Grandfathers and Grandmothers, fathers in law, and mothers in law, Foster-fathers and Foster-mothers, Guardians, Tutors,] and such like governors: and under the title #emph[children] he compriseth #emph[Grand-children, sons and daughters in law, Wards, Pupils,] and such like. For there is an honour and a subjection due by all who are in place of children, to all such as are in place of parents, though in a different kind, as we shall #footnote[#emph[Treat.] 5. §. 56, 57, #emph[etc.].] after show. This word #emph[children] which in the original is of the #emph[neuter gender,] doth further include both sexes, #emph[males] and #emph[females, sons] and #emph[daughters:] so as either of them are as carefully to apply the duties here set forth to themselves as if in particular both kinds had been expressed.
 
