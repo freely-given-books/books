@@ -29,9 +29,9 @@ As we desire assurance of our glorification in heaven, so #footnote[Use.] let us
 
 The forenamed proofs and reasons do also confirm the #footnote[We are here cleansed that we might be hereafter glorified.] second point, that #emph[The end why the Saints are cleansed and sanctified in this world is, that they may be presented glorious to Christ in the world to come.]
 
-It is therefore needful and behoveful, not only in regard of #footnote[#emph[Ex eo quod hic accipit Ecclesia ad illam gloriam quae hic non est, perfectionemque perducitur. Aug. Retract. l.] 1. #emph[c.] 7.] Christs honour, but also of our own glory and happiness, that here while we live on earth we be sanctified and cleansed. If Christ for our sakes had an eye at our future and everlasting glory, and for that end prepared means to bring us thereunto, ought not we ourselves much rather have an eye thereat, and both avoid all things which may hinder it, and use all means whereby we may be assured of it? #emph[Moses had respect unto the recompense of the reward.] Yea #emph[Christ for the joy which] #footnote[#emph[Heb.] 11. 26. & 12. 2.] #emph[was set before him endured the cross, and despised the shame.]
+It is therefore needful and behoveful, not only in regard of #footnote[#emph[Ex eo quod hic accipit Ecclesia ad illam gloriam quae hic non est, perfectionemque perducitur. Aug. Retract. l.] 1. #emph[c.] 7.] Christs honour, but also of our own glory and happiness, that here while we live on earth we be sanctified and cleansed. If Christ for our sakes had an eye at our future and everlasting glory, and for that end prepared means to bring us thereunto, ought not we our selves much rather have an eye thereat, and both avoid all things which may hinder it, and use all means whereby we may be assured of it? #emph[Moses had respect unto the recompense of the reward.] Yea #emph[Christ for the joy which] #footnote[#emph[Heb.] 11. 26. & 12. 2.] #emph[was set before him endured the cross, and despised the shame.]
 
-3. That #emph[Righteousness is the only means to make us glorious] #footnote[Righteousness the only means to make us glorious.] #emph[before Christ our spouse,] is evident by this, that Christ gave himself to work and effect this means for this end. Christ himself by his death, hath consecrated this, and no other means. If there be any other means then that which Christ by offering up himself hath procured, what need Christ to have been offered up? To show that this is the means to make the Church glorious before Christ, the holy Ghost resembleth the #emph[righteousness of the Saints] to #emph[fine linen, clean, and white,] #footnote[#emph[Rev.] 19. 7, 8.] wherewith the wife of the Lamb is made ready against the day of marriage.
+3. That #emph[Righteousness is the only means to make us glorious] #footnote[Righteousness the only means to make us glorious.] #emph[before Christ our spouse,] is evident by this, that Christ gave himself to work and effect this means for this end. Christ himself by his death, hath consecrated this, and no other means. If there be any other means then that which Christ by offering up himself hath procured, what need Christ to have been offered up? To show that this is the means to make the Church glorious before Christ, the Holy Ghost resembleth the #emph[righteousness of the Saints] to #emph[fine linen, clean, and white,] #footnote[#emph[Rev.] 19. 7, 8.] wherewith the wife of the Lamb is made ready against the day of marriage.
 
 Christ himself #emph[loveth righteousness and hateth wickedness:] #footnote[#emph[Reason. Psal.] 45. 7.] they therefore, and none but they that are arrayed with righteousness, are glorious in his eyes.
 
@@ -41,7 +41,7 @@ Is this glory fit for Christs spouse? Belike then Christ hath carnal eyes and ea
 
 For our parts as we desire to appear before Christ so as he #footnote[Use.] may think us glorious, let us be arrayed with righteousness & holiness, #emph[without which no man shall see the Lord, Heb.] 12. 14.
 
-=== §. 44. #emph[Of the fruition of Christs presence in heaven.]
+=== §. 49. #emph[Of the fruition of Christs presence in heaven.]
 
 #align(center)[
   #block(width: 85%)[

@@ -45,7 +45,7 @@ For the first, if a wife manifest her dutiful respect of her #footnote[1\. By an
 
 #emph[Answ.] The courtesy which I speak of as it cometh from a superior, being a mere voluntary matter and a token #footnote[Courtesy may stand with superiority.] of kindness and favour, is no abasement of himself, but an advancement of his inferior: a great grace to her, no disgrace to him. #emph[Abram] was counted of the Hittites #emph[a Prince of] #footnote[#emph[Gen.] 23. 6, 7.] #emph[God,] yet in communing with them #emph[he bowed] unto them. It is noted as a commendable thing in #emph[Esau,] that though at that time he was his brothers superior (at least he took himself so to be) yet observing how #emph[Jacob] reverenced him, bowing seven times to the ground, #emph[he ran to meet him, and embraced] #footnote[#emph[Gen.] 33. 3, 4.] #emph[him, and fell on his neck.] Most pertinent to the point is the example of King #emph[Ahasuerus,] who beholding #emph[Esthers] reverend #footnote[#emph[Esth.] 5. 2.] standing before him, held out his Scepter unto her, which in a King is great courtesy.
 
-But to put the matter out of all question, let the example of Christ noted in #emph[Solomon's song] be observed, and we shall find his courtesy every way answering the reverence of his Spouse.
+But to put the matter out of all question, let the example of Christ noted in #emph[Solomons song] be observed, and we shall find his courtesy every way answering the reverence of his Spouse.
 
 === §. 15. #emph[Of husbands too great loftiness.]
 

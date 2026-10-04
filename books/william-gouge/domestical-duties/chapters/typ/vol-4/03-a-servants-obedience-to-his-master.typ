@@ -22,7 +22,7 @@ The #emph[affirmative] is readily to yield to do that which their masters would 
 
 === §. 11. #emph[Of servants forbearing to do things without their masters consent.]
 
-Servants ought to forbear doing of things on their own heads without or against consent of their masters, because while the time of their service lasteth, they are not their own, neither ought the things which they do, to be for themselves: both their persons and their actions are all their masters: and the will of their master must be their rule and guide (in things which are not against Gods will.) The rite used under the Law of #emph[boring a servants ear,] implied as much. #emph[David] therefore alluding unto #footnote[#emph[Exo.] 21. 6.] that rite, saith to God (both of himself, and also of Christ, whom under a type he prefigured) #emph[mine ears hast thou bored;] and from thence inferreth that he would do the will of God. We have #footnote[#emph[Psal.] 40. 6.] a notable pattern hereof in #emph[Abraham's] servant, who in a business committed to his charge propounds such scruples as came #footnote[#emph[Gen.] 24. 5.] into his head to receive direction from his master therein, lest he should be forced to do something of his own head without particular warrant from his master.
+Servants ought to forbear doing of things on their own heads without or against consent of their masters, because while the time of their service lasteth, they are not their own, neither ought the things which they do, to be for themselves: both their persons and their actions are all their masters: and the will of their master must be their rule and guide (in things which are not against Gods will.) The rite used under the Law of #emph[boring a servants ear,] implied as much. #emph[David] therefore alluding unto #footnote[#emph[Exo.] 21. 6.] that rite, saith to God (both of himself, and also of Christ, whom under a type he prefigured) #emph[mine ears hast thou bored;] and from thence inferreth that he would do the will of God. We have #footnote[#emph[Psal.] 40. 6.] a notable pattern hereof in #emph[Abrahams] servant, who in a business committed to his charge propounds such scruples as came #footnote[#emph[Gen.] 24. 5.] into his head to receive direction from his master therein, lest he should be forced to do something of his own head without particular warrant from his master.
 
 This general will the better be cleared, if it be exemplified in some particulars. Take therefore these instances gathered out of the Scriptures of things which servants may not do without their masters consent.
 
@@ -42,7 +42,7 @@ This general will the better be cleared, if it be exemplified in some particular
 
 3. That which servants are to gather from thence is, if need so require, to make known their desire to their master, and to use all the good means they can by themselves or others to obtain their masters consent.
 
-5. They ought not to dispose their masters goods at their own pleasure, no not for charitable uses. The Steward which #footnote[#emph[Luk.] 16. 1, 2.] wasted his masters goods was justly put out of office for it. Yea he is called #emph[unjust] for disposing some of them for his own #footnote[#emph[vers.] 8.] future maintenance; therefore it was a point of justice and unlawful.
+5. They ought not to dispose their masters goods at their own pleasure, no not for charitable uses. The Steward which #footnote[#emph[Luk.] 16. 1, 2.] wasted his masters goods was justly put out of office for it. Yea he is called #emph[unjust] for disposing some of them for his own #footnote[#emph[vers.] 8.] future maintenance; therefore it was a point of injustice and unlawful.
 
 #strong[#emph[Object.] The Lord commended him therein.]
 
@@ -68,7 +68,7 @@ Contrary to the forenamed limitations of servants liberty are these, and such li
 
 5. When they are liberal of their masters goods in giving them away. Some think that because they are of the house, they may dispose the things of the house upon charitable uses. But pretence of charity is no excuse for injustice. Servants may give notice to their masters or mistresses, that there are in the house such and such things meet to be given away, or that there are such and such poor folks that stand in great need: but privily without any consent at all, they may not give away any thing of their masters.
 
-6. When upon discontent they run away from their masters. The two servants of #emph[Shimei] which run from their master #footnote[1 #emph[King.] 2. 39. #emph[Philem. ver.] 12. #emph[Gen.] 16. 9.] are taxed for it by the holy Ghost. #emph[Onesimus] that run from his master is sent back again by #emph[S. Paul:] and #emph[Hagar] is sent back by an Angel.
+6. When upon discontent they run away from their masters. The two servants of #emph[Shimei] which run from their master #footnote[1 #emph[King.] 2. 39. #emph[Philem. ver.] 12. #emph[Gen.] 16. 9.] are taxed for it by the Holy Ghost. #emph[Onesimus] that run from his master is sent back again by #emph[S. Paul:] and #emph[Hagar] is sent back by an Angel.
 
 #strong[#emph[Object.] What if master and mistress be sharp, rigorous, and cruel.]
 

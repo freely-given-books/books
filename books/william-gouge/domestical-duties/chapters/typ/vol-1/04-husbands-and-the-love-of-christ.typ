@@ -110,21 +110,21 @@ Learn hereby to consider Christs death, not as the death of #footnote[Use.] a pr
 
 === §. 31. #emph[Of the infinite value of the price of our redemption.]
 
-The Object, or thing which Christ gave for a ransom was #emph[himself,] not his body alone, nor his body and soul only, but his person consisting of his two natures, humane, and divine.
+The Object, or thing which Christ gave for a ransom was #emph[himself,] not his body alone, nor his body and soul only, but his person consisting of his two natures, human, and divine.
 
 #strong[#emph[Quest.] How could his divine nature be given up? could it #footnote[How the person of Christ being God-man, was given for us.] suffer? could it die?]
 
-#emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an humane nature into the unity of his divine nature, and uniting them together #footnote[#emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
+#emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an human nature into the unity of his divine nature, and uniting them together #footnote[#emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
 
-2. Though the divine nature of Christ suffered not, yet did it support the humane nature, and add dignity, worth and efficacy to the sufferings of that nature.
+2. Though the divine nature of Christ suffered not, yet did it support the human nature, and add dignity, worth and efficacy to the sufferings of that nature.
 
-3. Christs divine nature had proper and peculiar works in the work of redemption, as to sanctify his humane nature, to take away our sins, to reconcile us to God, and the like.
+3. Christs divine nature had proper and peculiar works in the work of redemption, as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
 
 Thus then in three respects the whole person of Christ was given unto us.
 
 1. In regard of the inseparable union of both natures.
 
-2. In regard of the assistance of the Deity in those things which the humane nature of Christ did.
+2. In regard of the assistance of the Deity in those things which the human nature of Christ did.
 
 3. In regard of some proper actions appertaining to the Deity. #footnote[Doctr.]
 
@@ -154,7 +154,7 @@ From hence by just consequence it followeth that #emph[Christ merited] #footnote
 
 #strong[1. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]]
 
-#emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his humane nature, not as a recompense which he should deserve.
+#emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his human nature, not as a recompense which he should deserve.
 
 #strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9.] WHEREFORE #emph[God also hath highly exalted him.]]
 
@@ -162,7 +162,7 @@ From hence by just consequence it followeth that #emph[Christ merited] #footnote
 
 #strong[3. #emph[Object.] Christ being man was bound to the Law: and therefore for himself he ought to fulfill it.]
 
-#emph[Answ.] If he had been mere man, that were true. But he uniting his humane nature unto his divine, and making of both one person, which person was God as well as man, he was bound to nothing further then it pleased him voluntarily to subject himself unto for our sakes.
+#emph[Answ.] If he had been mere man, that were true. But he uniting his human nature unto his divine, and making of both one person, which person was God as well as man, he was bound to nothing further then it pleased him voluntarily to subject himself unto for our sakes.
 
 2. If Christ were bound to the Law, of duty he must have fulfilled it: and if of duty he was to fulfill it, how could he thereby merit so high a degree of honour as he is advanced unto?
 
@@ -214,9 +214,9 @@ The two branches of the former #emph[end,] namely #emph[Cleansing] and #emph[San
 
 The #emph[condition] is presupposed, which is, that she was impure, polluted, in the common estate of corrupt man. Things in themselves pure, are not cleansed, but things foul and impure: persons of themselves freed, and exempted from a common misery, need not anothers help to free and exempt them. Seeing then that the Church stood in need to be cleansed, and sanctified, surely
 
-#emph[The Church in herself was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant born of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[#emph[Ezek.] 16. 3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[#emph[Eph.] 2. 3.] of the Church, that #footnote[#emph[Tit.] 3. 3.] #emph[we our selves also were such.] #footnote[1 #emph[Cor.] 6. 11.]
+#emph[The Church in her self was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant born of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[#emph[Ezek.] 16. 3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[#emph[Eph.] 2. 3.] of the Church, that #footnote[#emph[Tit.] 3. 3.] #emph[we our selves also were such.] #footnote[1 #emph[Cor.] 6. 11.]
 
-The Church consisteth of none other then of such as came out of #emph[Adam's] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is born of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[born again.] #footnote[#emph[Joh.] 3. 3, 5.]
+The Church consisteth of none other then of such as came out of #emph[Adams] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is born of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[born again.] #footnote[#emph[Joh.] 3. 3, 5.]
 
 This our former estate by nature is oft and seriously #footnote[Our natural condition oft to be thought of.] to be thought of, and that in respect of
 

@@ -137,7 +137,7 @@ A third reason is taken from the law of a wives vow: whereby #footnote[#emph[Num
 
 #emph[Answ.] Though it were a voluntary thing to make, or not to make a vow: yet a vow being made, it was not in the power of the party that made it, not to perform it: it was a #footnote[#emph[Num.] 30. 3. #emph[Deut.] 23. 21. #emph[Eccles.] 5. 4.] necessary duty to perform a vow, even expressly commanded. As for the pretended work of mercy, I will #footnote[§. 34.] hereafter show, that a wife is not necessarily tied thereunto.
 
-=== §. 26. #emph[Of humane laws which restrain wives from disposing goods, without or against their husbands consent.]
+=== §. 26. #emph[Of human laws which restrain wives from disposing goods, without or against their husbands consent.]
 
 A fourth is taken from the laws of men whereunto we are subject, and which we must obey even for conscience sake, so far as they thwart not Gods Law, which in this case they do not, as the reasons before gathered out of Gods word do show.
 
@@ -145,7 +145,7 @@ Now our Law saith, that #footnote[45\. #emph[E.] 3. #emph[Fitz. Coven.] 18.] eve
 
 === §. 27. #emph[Of the inconveniences which may follow upon a wives disposing goods without or against her husbands consent.]
 
-A fit reason may be taken from the mischiefs which would #footnote[1\. A mans estate may be wasted before he can tell how to redress it.] fall out if this liberty were given unto women: which are these that follow:
+A fifth reason may be taken from the mischiefs which would #footnote[1\. A mans estate may be wasted before he can tell how to redress it.] fall out if this liberty were given unto women: which are these that follow:
 
 1. The estate of the family might be wasted before any redress could be thought of: for if the wife may dispose the goods without her husbands consent, it must also be granted without his knowledge: for it is to be supposed that if he knew of the disposing of that which he liketh not, he would hinder it: if without his knowledge, then may that which he thinketh to be remaining as a stock for the family, be laid out by the wife, and nothing left: whereas if he knew of the spending of that stock, it might be he would be more thrifty and sparing in other expenses.
 
@@ -193,7 +193,7 @@ For (to omit the proofs before alleged) what might be the reason that the daught
 
 #emph[Object.] The wives of #emph[Jacob] do term the goods which their husbands had #emph[theirs,] saying, #emph[the riches which God hath taken from our father is] OURS, Gen. 31. 16.
 
-#emph[Answ.] They use the word #emph[Ours] in opposition to their fathers house, and in relation not to their persons, but to their #footnote[Ut vinum temperatum licet maiori ex parte aquae constat, vinum appellamus: sic census quamuis plus contribuerit vxor, nuncupandus viri est. Plut. in praec. connub.] husbands family, and therefore they add #emph[and our childrens:] So as by that place no greater right can be proved for wives, then for children. When the holy Ghost speaketh of the same goods, he saith not in relation to husband and wives both, #emph[their] flocks, #emph[their] substance, but only in relation to the husband, #emph[his] flocks, his substance. For as in mixture of wine and water, though the greater quantity be water, yet we call the whole, #emph[wine:] so in the common goods of the family, though the wife should bring the greater part, we call all #emph[the husbands.]
+#emph[Answ.] They use the word #emph[Ours] in opposition to their fathers house, and in relation not to their persons, but to their #footnote[Ut vinum temperatum licet maiori ex parte aquae constat, vinum appellamus: sic census quamuis plus contribuerit vxor, nuncupandus viri est. Plut. in praec. connub.] husbands family, and therefore they add #emph[and our childrens:] So as by that place no greater right can be proved for wives, then for children. When the Holy Ghost speaketh of the same goods, he saith not in relation to husband and wives both, #emph[their] flocks, #emph[their] substance, but only in relation to the husband, #emph[his] flocks, his substance. For as in mixture of wine and water, though the greater quantity be water, yet we call the whole, #emph[wine:] so in the common goods of the family, though the wife should bring the greater part, we call all #emph[the husbands.]
 
 === §. 30. #emph[Of answers to the reasons for a wives property.]
 

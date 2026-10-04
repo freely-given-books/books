@@ -24,7 +24,7 @@ The second rule which servants must observe is this, that
 
 #strong[#emph[Object.] This is no fit example, because #emph[Joab] sinned in obeying.]
 
-#emph[Answ. Joab] cannot justly be charged with sin, because it was not simply unlawful to number the people. #emph[David's] sin was not in the act of numbering the people, but in his mind which moved him to do it: for there was no just cause to do it: only pride and curiosity moved him, as may be gathered out of his own reason in these words, #emph[that I may know the number of the people.] To do such a thing only to know it, was #emph[curiosity.] But why would he know it? Surely on a proud conceit that he had so many worthies, so many Captains, so many men of war.
+#emph[Answ. Joab] cannot justly be charged with sin, because it was not simply unlawful to number the people. #emph[Davids] sin was not in the act of numbering the people, but in his mind which moved him to do it: for there was no just cause to do it: only pride and curiosity moved him, as may be gathered out of his own reason in these words, #emph[that I may know the number of the people.] To do such a thing only to know it, was #emph[curiosity.] But why would he know it? Surely on a proud conceit that he had so many worthies, so many Captains, so many men of war.
 
 Out of #emph[Joabs] example servants may here learn in humility and reverence to render some reasons to move their master not to press upon them that which they think to be unmeet; but yet if their master will not hearken to their reasons, but stand upon his authority, #emph[his word must prevail.]
 
@@ -112,9 +112,9 @@ The temporal blessings which heretofore God hath bestowed #footnote[What reward 
 
 2. If masters fail therein, he will move strangers to recompense them: as he moved #footnote[#emph[Gen.] 39. 21.] the Jailer to favour #emph[Joseph] when his master had cast him in prison: and #footnote[#emph[&] 41. 40.] #emph[Pharaoh] to advance him to great dignity.
 
-3. To draw the hearts of their masters and others the more unto them, he will make the things which they take in hand to prosper. Thus did he bless #footnote[#emph[Gen.] 39. 2.] #emph[Joseph,] and #footnote[#emph[&] 24. 56.] #emph[Abraham's] servant.
+3. To draw the hearts of their masters and others the more unto them, he will make the things which they take in hand to prosper. Thus did he bless #footnote[#emph[Gen.] 39. 2.] #emph[Joseph,] and #footnote[#emph[&] 24. 56.] #emph[Abrahams] servant.
 
-4. In dealing for themselves he will bless their labours, as he blessed #footnote[#emph[Gen.] 30. 43.] #emph[Jacob's.]
+4. In dealing for themselves he will bless their labours, as he blessed #footnote[#emph[Gen.] 30. 43.] #emph[Jacobs.]
 
 5. He will, when they come to keep servants, provide such servants for them, as they were to their masters. #footnote[#emph[Gen.] 43. 23.] In Egypt God blessed #emph[Joseph] with a faithful servant. #emph[David,] who #footnote[1 #emph[Sam.] 17. 34.] ventured his life to save his fathers sheep, had #footnote[2 #emph[Sam.] 21. 17. #emph[&] 23. 15.] many servants that ventured their lives for him.
 

@@ -72,7 +72,7 @@ On this ground did #footnote[#emph[Philem. vers.] 10.] Saint #emph[Paul] advise 
 
 1. Gods fear is the ground of all good obedience and #footnote[Why such servants as fear God are to be chosen.] faithfulness: note the examples of such good and faithful servants as are commended in Scripture, and you shall find them all to fear God.
 
-2. Such will not only be diligent in their work, but they will also faithfully call upon God to prosper those things which they take in hand in their masters behalf, instance the example of #footnote[#emph[Gen.] 24. 12.] #emph[Abraham's] servant.
+2. Such will not only be diligent in their work, but they will also faithfully call upon God to prosper those things which they take in hand in their masters behalf, instance the example of #footnote[#emph[Gen.] 24. 12.] #emph[Abrahams] servant.
 
 3. God will have such respect unto those servants which fear his name, as for their sakes to bless their masters house. Thus was #footnote[#emph[Gen.] 39. 5.] #emph[Potiphars] house blessed for #emph[Josephs] sake.
 
@@ -150,7 +150,7 @@ Within the lists of these two virtues #emph[Justice] and #emph[Equity] (whereunt
   - 1\. A #emph[restraint] of masters commandments.
   - 2\. An #emph[execution] thereof.
 
-The restraint is unto Gods law, that a master command nothing against it, but what is agreeable to it. #emph[Abishai] would #footnote[Nothing unlawful to be commanded by masters. 1 #emph[Sam.] 26. 9.] fain have had #emph[David's] warrant to have killed #emph[Saul:] but #emph[David] was so far from commanding him to do it, as he kept him from it.
+The restraint is unto Gods law, that a master command nothing against it, but what is agreeable to it. #emph[Abishai] would #footnote[Nothing unlawful to be commanded by masters. 1 #emph[Sam.] 26. 9.] fain have had #emph[Davids] warrant to have killed #emph[Saul:] but #emph[David] was so far from commanding him to do it, as he kept him from it.
 
 Masters are but subordinate ministers under God: they must therefore command nothing against his law. As a Judge, high-Sheriff, and all other officers under the King, must make the Kings law the ground of all those things which they require of the Kings subjects: so masters must make Gods law the ground of all those things which they require of their servants, who are also the servants of Christ. Besides, to what purpose is it to command that which a servant may and must refuse to do? But in no #footnote[Treat. 7. §. 38.] unlawful thing may he obey.
 

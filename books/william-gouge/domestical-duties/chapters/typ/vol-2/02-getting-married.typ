@@ -135,7 +135,7 @@ Great reason there is why marriage should with such honour be solemnized. For it
 
 5. The inviolable law of the near and firm union of man and wife together is enacted.
 
-Let all the forenamed branches concerning the first institution of marriage expressly recorded by the holy Ghost be well weighed, and we shall easily see that there is no ordinance now in force among the sons of men so honourable in the institution thereof, as this.
+Let all the forenamed branches concerning the first institution of marriage expressly recorded by the Holy Ghost be well weighed, and we shall easily see that there is no ordinance now in force among the sons of men so honourable in the institution thereof, as this.
 
 === §. 24. #emph[Of the Ends of Marriage.]
 
@@ -169,7 +169,7 @@ The privileges and honours which are given to married persons, were questionless
 
 === §. 26. #emph[Of the mystery of Marriage.]
 
-IIII. Great is that mystery which is set forth by marriage, namely the sacred, spiritual, real, and inviolable union betwixt Christ and his Church: which is excellently deciphered in #emph[Solomon's Song,] and in #emph[Psal.] 45. And expressly noted, #emph[Eph.] 5. 32.
+IIII. Great is that mystery which is set forth by marriage, namely the sacred, spiritual, real, and inviolable union betwixt Christ and his Church: which is excellently deciphered in #emph[Solomons Song,] and in #emph[Psal.] 45. And expressly noted, #emph[Eph.] 5. 32.
 
 Hereby man and wife who entirely, as they ought, love one another, have an evident demonstration of Christs love to them. For as parents by that affection which they bear to their children, may better discern the mind, and meaning of God towards them, then such as never had child, so may married persons better know the disposition of Jesus Christ, who is the spouse of every faithful soul, then single persons.
 

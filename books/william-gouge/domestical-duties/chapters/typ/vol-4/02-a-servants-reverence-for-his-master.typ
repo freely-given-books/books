@@ -150,7 +150,7 @@ The other part of that fountain, from whence the duties #footnote[Servants ought
 
 So proper is this #emph[fear] to a servant in relation to his master, as where it is wanting, there is a plain denial of his masters place and power; which God intimateth under this expostulation, #emph[If I be a master, where is my fear?] that is, you plainly #footnote[#emph[Mal.] 1. 6.] show that you account me not your master, because in your heart there is no #emph[fear] of me.
 
-This fear will draw servants on, cheerfully to perform all duty: the more it aboundeth, the more desire and endeavour there will be to please, and to give good contentment (and this is a point commanded to servants, #emph[to please well in all things:)] #footnote[#emph[Tit.] 2. 9.] yea it will glad the heart of a servant to see his service prosper well: hereof we have a worthy pattern in #emph[Abraham's] servant, #footnote[#emph[Gen.] 24.] whose care to do his business, as his master would have it, and prayer for Gods assistance therein, and thanks for Gods blessing thereon, showeth an awful respect which he bare to his master.
+This fear will draw servants on, cheerfully to perform all duty: the more it aboundeth, the more desire and endeavour there will be to please, and to give good contentment (and this is a point commanded to servants, #emph[to please well in all things:)] #footnote[#emph[Tit.] 2. 9.] yea it will glad the heart of a servant to see his service prosper well: hereof we have a worthy pattern in #emph[Abrahams] servant, #footnote[#emph[Gen.] 24.] whose care to do his business, as his master would have it, and prayer for Gods assistance therein, and thanks for Gods blessing thereon, showeth an awful respect which he bare to his master.
 
 Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress) and in this respect it may #footnote[#emph[Gen.] 39. 8.] prevent many mischiefs which their masters offence and wrath might bring upon them.
 
@@ -185,11 +185,11 @@ Speech.
 
 Servants reverence in refraining speech is manifested 3. Ways.
 
-1. By sparing to speak, without just cause in their masters presence or audience: This phrase (#footnote[1 #emph[King.] 10. 8.] #emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomon's] servants, showeth that they were slow to speak and swift to hear in their masters presence.
+1. By sparing to speak, without just cause in their masters presence or audience: This phrase (#footnote[1 #emph[King.] 10. 8.] #emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomons] servants, showeth that they were slow to speak and swift to hear in their masters presence.
 
 2. By forbearing to reply when they observe their masters unwilling that they should speak any more. Thus did #emph[Peter] forbear when his master gave him this short answer, #footnote[#emph[John] 21. 22.] #emph[What is that to thee?]
 
-3. By attending to that which their masters shall deliver to them: for servants ought to show such a respect to their masters speaking to them, as #emph[Samuel] did to God, when he said, #footnote[1 #emph[Sam.] 3. 10.] #emph[Speak for thy servant heareth.] The titles of #emph[Lord] and #emph[servant] do show, that this speech is taken from the duty of servants. The notation of the #footnote[See Treat. 1. §. 96, 124.] Greek word used by the Apostle, & translated #emph[Obey,] implieth as much. This reverence did #emph[Abraham's] #footnote[#emph[Gen.] 24. 9.] servant show to his master, when he gave him a charge about choosing a wife for his son.
+3. By attending to that which their masters shall deliver to them: for servants ought to show such a respect to their masters speaking to them, as #emph[Samuel] did to God, when he said, #footnote[1 #emph[Sam.] 3. 10.] #emph[Speak for thy servant heareth.] The titles of #emph[Lord] and #emph[servant] do show, that this speech is taken from the duty of servants. The notation of the #footnote[See Treat. 1. §. 96, 124.] Greek word used by the Apostle, & translated #emph[Obey,] implieth as much. This reverence did #emph[Abrahams] #footnote[#emph[Gen.] 24. 9.] servant show to his master, when he gave him a charge about choosing a wife for his son.
 
 Servants for well ordering their speech unto their masters must observe five cautions.
 
@@ -203,7 +203,7 @@ Servants for well ordering their speech unto their masters must observe five cau
 
 3. When servants are not fully instructed in those things which they ought to do for their master, they ought to ask of him what is to be done, as the disciples who said to their master, #emph[where wilt thou that we prepare for thee to eat the] #footnote[#emph[Mat.] 26. 17.] #emph[passover?]
 
-4. When some scruple ariseth in their minds about any charge that their master shall give them, they may inquire of their master, as #emph[Abraham's] servant when he said, #emph[what if the woman] #footnote[#emph[Gen.] 24. 5.] #emph[will not come with me?]
+4. When some scruple ariseth in their minds about any charge that their master shall give them, they may inquire of their master, as #emph[Abrahams] servant when he said, #emph[what if the woman] #footnote[#emph[Gen.] 24. 5.] #emph[will not come with me?]
 
 5. When their master unjustly suspecteth any evil of them, they may speak to clear their own innocency, as #emph[David] #footnote[1 #emph[Sam.] 24. 10.] did to #emph[Saul.]
 
@@ -240,7 +240,7 @@ That all their speeches and answers to their master be true, not daring to tell 
 - 1\. Their conscience towards God, who is a God of truth.
 - 2\. Their respect to their masters with whom they ought to deal faithfully.
 
-Lastly, a servants reverence ought to be manifested by his speech of his master even behind his back: speaking good of him, and no evil: this part of reverence also did #emph[Abraham's] servant show to his master. Thus shall they show themselves #footnote[#emph[Gen.] 24. 35, #emph[etc.]] good, true-hearted, faithful servants, and not parasites.
+Lastly, a servants reverence ought to be manifested by his speech of his master even behind his back: speaking good of him, and no evil: this part of reverence also did #emph[Abrahams] servant show to his master. Thus shall they show themselves #footnote[#emph[Gen.] 24. 35, #emph[etc.]] good, true-hearted, faithful servants, and not parasites.
 
 === §. 7. #emph[Of the vices contrary to a servants reverence in speech.]
 

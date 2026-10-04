@@ -52,7 +52,7 @@ These words #emph[(and he is the Saviour of the body)] as they do declare the of
 
 Upon this ground the Apostle inferreth the conclusion in the next verse.
 
-=== §. 16. #emph[Of the resemblance betwixt] The Church to Christ. A wife to her husband.
+=== §. 16. #emph[Of the resemblance betwixt] the Church to Christ, and a wife to her husband.
 
 #align(center)[
   #block(width: 85%)[
@@ -279,11 +279,11 @@ In that it is here taken for grant, that #emph[the Church is subject to Christ;]
 
 For Christ conveyeth his own spirit into his mystical body the Church, and into every member thereof: which spirit is #footnote[Reason.] much more operative, and lively then the soul of man. If therefore mans soul quickening every part of the natural body, make them subject to the head, much more will the spirit of Christ bring the members of his mystical body in subjection to himself. #emph[If the spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead,] #footnote[#emph[Rom.] 8. 11.] #emph[shall also quicken your mortal bodies, by the spirit that dwelleth in you.]
 
-Hereby let trial be made of particular visible Churches and of particular persons, whether they are in deed of this true Catholic #footnote[#emph[Use.] Trial of true Churches.] Church or no. Those visible Churches which refuse to be governed by Christs word, and are wholly governed by humane traditions, which rise against Christ and play the adulteresses by committing Idolatry, are not of this Catholic Church which is #emph[subject to Christ.] No more are Infidels that defy Christ, Heretics that deny him, ignorant persons that know not his will, profane persons that despise him, worldlings that lightly esteem him, nor any that persecute or scorn him in his members. By this we may see that many have a name that they are of the Church, who in deed are not.
+Hereby let trial be made of particular visible Churches and of particular persons, whether they are indeed of this true Catholic #footnote[#emph[Use.] Trial of true Churches.] Church or no. Those visible Churches which refuse to be governed by Christs word, and are wholly governed by human traditions, which rise against Christ and play the adulteresses by committing Idolatry, are not of this Catholic Church which is #emph[subject to Christ.] No more are Infidels that defy Christ, Heretics that deny him, ignorant persons that know not his will, profane persons that despise him, worldlings that lightly esteem him, nor any that persecute or scorn him in his members. By this we may see that many have a name that they are of the Church, who indeed are not.
 
 #emph[Object.] Many such persons may belong to Gods election, and so be of that body whereof Christ is a Saviour.
 
-#emph[Answ.] Election in deed giveth them a title to Christ, but they cannot reap any benefit by that title till they have a possession of Christ by virtue of their spiritual union with him. Neither can they have any assurance of their election, till they find by the quickening virtue of the spirit, that they are united unto Christ. Wherefore so long as men remain destitute of the Spirit of Christ, and are possessed with a contrary spirit, they may well be judged for the present to be none of this body, nor to have any part in Christ, their future estate being referred to him who only knoweth what it shall be.
+#emph[Answ.] Election indeed giveth them a title to Christ, but they cannot reap any benefit by that title till they have a possession of Christ by virtue of their spiritual union with him. Neither can they have any assurance of their election, till they find by the quickening virtue of the spirit, that they are united unto Christ. Wherefore so long as men remain destitute of the Spirit of Christ, and are possessed with a contrary spirit, they may well be judged for the present to be none of this body, nor to have any part in Christ, their future estate being referred to him who only knoweth what it shall be.
 
 === §. 25. #emph[Of the extent of the Churches subjection.]
 

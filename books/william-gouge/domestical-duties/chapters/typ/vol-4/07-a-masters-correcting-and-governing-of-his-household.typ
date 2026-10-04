@@ -85,7 +85,7 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 #emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Jobs] servants bond and free, as well as on his goods: which he could not have done, if #emph[Jobs] servants had not been as his goods.
 
-Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase with the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
+Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase which the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
 
 #strong[4. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?]
 

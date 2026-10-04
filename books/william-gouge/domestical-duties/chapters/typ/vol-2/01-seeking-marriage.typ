@@ -88,7 +88,7 @@ Contrary to the end and use of marriage do they sin, #footnote[A sin to conceal 
 
 === §. 6. #emph[Of the lawfulness of marriage to all sorts of persons.]
 
-Where there is no such just impediment as hath been before mentioned, it is lawful for all sorts of people of what calling or condition soever to marry. For #emph[marriage is honourable] #footnote[#emph[Heb.] 13. 4.] #emph[in all,] or among all, namely in, or among all sorts of people: whereupon it is accounted #emph[a Doctrine of devils to forbid] #footnote[1 #emph[Tim.] 4. 1, 3.] #emph[to marry.] For it is a Doctrine contrary to Gods word, and a Doctrine that causeth much inward burning, and outward pollution, and so maketh their bodies, which should be temples of the holy Ghost, to be sties of the devils.
+Where there is no such just impediment as hath been before mentioned, it is lawful for all sorts of people of what calling or condition soever to marry. For #emph[marriage is honourable] #footnote[#emph[Heb.] 13. 4.] #emph[in all,] or among all, namely in, or among all sorts of people: whereupon it is accounted #emph[a Doctrine of devils to forbid] #footnote[1 #emph[Tim.] 4. 1, 3.] #emph[to marry.] For it is a Doctrine contrary to Gods word, and a Doctrine that causeth much inward burning, and outward pollution, and so maketh their bodies, which should be temples of the Holy Ghost, to be sties of the devils.
 
 The disease, for the redressing whereof marriage is sanctified, is a common disease which hath infected all sorts of people: why then shall not the remedy be as common?
 

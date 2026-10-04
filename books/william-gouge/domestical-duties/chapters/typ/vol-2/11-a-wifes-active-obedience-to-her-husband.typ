@@ -20,7 +20,7 @@ The first is, that #emph[a wife ought to be willing to dwell where her husband w
 
 The wives of #emph[Abraham, Isaac,] and #emph[Jacob,] herein manifested their wive-like obedience: though their husbands brought them from their own country, and from their fathers house, yet they refused not to go with them, but dwelt in a strange country, and that in tents.
 
-Note in particular what #emph[Jacob's] wives say to their husband in this case, #emph[Is there any portion or inheritance for us in our fathers] #footnote[#emph[Gen.] 31. 14.] #emph[house?] implying thereby, that seeing it was their husbands pleasure to be gone, they would not any longer tarry in their fathers house, to look for any more portion or inheritance there.
+Note in particular what #emph[Jacobs] wives say to their husband in this case, #emph[Is there any portion or inheritance for us in our fathers] #footnote[#emph[Gen.] 31. 14.] #emph[house?] implying thereby, that seeing it was their husbands pleasure to be gone, they would not any longer tarry in their fathers house, to look for any more portion or inheritance there.
 
 These examples do further show that if an husband have just occasion to remove from one country to another, and in those countries from place to place, his wife ought to yield to go with him, if he require it at her hands. Note what the Apostle saith, #emph[have we not power to lead about a wife?] That interrogation #footnote[1 #emph[Cor.] 9. 5.] implieth a strong asseveration. The husband then having power to lead about a wife from place to place, she ought to submit her self to that power. This clause #emph[(as well as other Apostles, and as the brethren of the Lord and Cephas)] showeth, that this was not only a power which might be used, but which was used by husbands, and yielded unto by wives.
 
@@ -50,7 +50,7 @@ Contrary is #emph[Vashti-]like stoutness, when wives think and #footnote[Contrar
 
 2. Though they were heathen, yet they showed what subjection is required of wives to their husbands by the very light of nature, whereby this sin is aggravated.
 
-3. #emph[Abimelech] was but a heathen man, yet his sentence concerning a womans subjection in these words, #emph[he is to thee a] #footnote[#emph[Gen.] 20. 16.] #emph[covering of the eyes,] is taken to be judicious, and being approved by the holy Ghost, to be a good proof. As for that particular of #emph[Vashti,] why is it so largely recorded in the Scripture but for instruction, and admonition unto wives?
+3. #emph[Abimelech] was but a heathen man, yet his sentence concerning a womans subjection in these words, #emph[he is to thee a] #footnote[#emph[Gen.] 20. 16.] #emph[covering of the eyes,] is taken to be judicious, and being approved by the Holy Ghost, to be a good proof. As for that particular of #emph[Vashti,] why is it so largely recorded in the Scripture but for instruction, and admonition unto wives?
 
 === §. 46. #emph[Of a wives readiness to] #footnote[Treat. 4. §. 29.] #emph[do what her husband requireth.]
 
@@ -74,7 +74,7 @@ Much wisdom may be learned hereby: for when any #footnote[Wisdom learned.] meekl
 
 #strong[#emph[Quest.] What if the husbands reproof be bitter? #footnote[#emph[Suadeo mulieribus vt viros etiam asperiores perferant. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.]]
 
-#emph[Answ.] He therein forgets his place, yet thereupon she must not forget her duty. If #emph[Jacob's] reproof be well noted, we shall find it very tart, for it is expressly said that #emph[his anger was kindled against her,] (Gen. 30. 2.) so as he spake in anger: the manner and form of his words being with an interrogation, and the #footnote[Excandescenti marito cede, & molli oratione iuva. Greg. Naz. ad Olymp.] matter also, #emph[am I in Gods stead,] etc. declare #emph[tartness:] yet (as was declared before) she showed #emph[meekness.]
+#emph[Answ.] He therein forgets his place, yet thereupon she must not forget her duty. If #emph[Jacobs] reproof be well noted, we shall find it very tart, for it is expressly said that #emph[his anger was kindled against her,] (Gen. 30. 2.) so as he spake in anger: the manner and form of his words being with an interrogation, and the #footnote[Excandescenti marito cede, & molli oratione iuva. Greg. Naz. ad Olymp.] matter also, #emph[am I in Gods stead,] etc. declare #emph[tartness:] yet (as was declared before) she showed #emph[meekness.]
 
 #strong[#emph[Quest.] What if his reproof be unjust?]
 

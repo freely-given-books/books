@@ -26,7 +26,7 @@ Other servants also must be tied to a work which may be a means of maintenance: 
 
 It is contrary hereunto for masters to envy their prentices the mystery of their trade: to employ them from time to time about messages, and errands, and such things as tend only to the masters present need, but cannot be profitable for the servants in time to come. These are like old, grown, broad trees, which keep all the sunshine from the shrubs that grow under them, and so keep them down from growing.
 
-#emph[Object.] Prentices will be as ivy to the trees about which they cling, soon over-topping them, and foking all the life out of them: they will hinder their masters trading, and get away all his custom, if they be too expert in his trade.
+#emph[Object.] Prentices will be as ivy to the trees about which they cling, soon over-topping them, and soaking all the life out of them: they will hinder their masters trading, and get away all his custom, if they be too expert in his trade.
 
 #emph[Answ.] 1. This is but a mere surmise. It implieth that such masters as fear that which is pretended, deal not so currently, and faithfully with their customers as they should; or else how could they surmise that wise chapmen would leave one of whom they have had long and good experience, to go to a new beginner?
 
