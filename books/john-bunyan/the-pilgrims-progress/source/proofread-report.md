@@ -11,7 +11,14 @@ Part 2*), which is compared only and not committed.
 
 ## Needs your decision
 
-Answer like "1 yes, 2 no, 3 as recommended".
+**Decided 2026-10-03 and applied** (synced, check OK 23/23, rebuilt: 404 pages,
+epubcheck clean): 1 the lost words in Part II stage 4 restored ("and they sent
+for him, and he came. When he was entered the room"); 2 the three Author's Way
+lines restored; 3 Formalist in Part I stage 3; 4 Immanuel; 5 Hymenaeus; 6
+aught (×2); 7 wholesome, lilies, befall, skull, Apostasy, stayed, show; 8
+Savior (×8); 9 Mount Sion kept; 10 Standfast's speech joined: `build_tei.py`
+now runs a paragraph on into the last paragraph of the speech before it (every
+book's TEI rebuilds unchanged); 11 the user will look for a 1684 scan.
 
 1. **Words CCEL lost in Part II, stage 4** (Christiana and the sick boy).
    CCEL has "So Christiana desired it, and entered the room, and had a

@@ -52,7 +52,7 @@ Then a convenient time being appointed, they brought them forth to their trial, 
 
 Then Faithful began to answer, that he had only set himself against that which had set itself against Him that is higher than the highest. And, said he, as for disturbance, I make none, being myself a man of peace: the parties that were won to us, were won by beholding our truth and innocence, and they are only turned from the worse to the better. And as to the king you talk of, since he is Beelzebub, the enemy of our Lord, I defy him and all his angels.
 
-Then proclamation was made, that they that had ought to say for their lord the king against the prisoner at the bar, should forthwith appear, and give in their evidence. So there came in three witnesses, to wit, Envy, Superstition, and Pickthank. They were then asked if they knew the prisoner at the bar; and what they had to say for their lord the king against him.
+Then proclamation was made, that they that had aught to say for their lord the king against the prisoner at the bar, should forthwith appear, and give in their evidence. So there came in three witnesses, to wit, Envy, Superstition, and Pickthank. They were then asked if they knew the prisoner at the bar; and what they had to say for their lord the king against him.
 
 Then stood forth Envy, and said to this effect: My lord, I have known this man a long time, and will attest upon my oath before this honorable bench, that he is—
 

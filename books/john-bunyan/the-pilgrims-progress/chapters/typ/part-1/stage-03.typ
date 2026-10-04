@@ -116,7 +116,7 @@ Christian: Saw? Why, I went but a little farther, and I saw One, as I thought in
 
 Piety: But you saw more than this, did you not?
 
-Christian: The things that I have told you were the best: yet some other I saw, as, namely, I saw three men, Simple, Sloth, and Presumption, lie asleep, a little out of the way, as I came, with irons upon their heels; but do you think I could awake them? I also saw Formality and Hypocrisy come tumbling over the wall, to go, as they pretended, to Zion; but they were quickly lost, even as I myself did tell them, but they would not believe. But, above all, I found it hard work to get up this hill, and as hard to come by the lions’ mouths; and, truly, if it had not been for the good man, the porter that stands at the gate, I do not know but that, after all, I might have gone back again; but I thank God I am here, and thank you for receiving me.
+Christian: The things that I have told you were the best: yet some other I saw, as, namely, I saw three men, Simple, Sloth, and Presumption, lie asleep, a little out of the way, as I came, with irons upon their heels; but do you think I could awake them? I also saw Formalist and Hypocrisy come tumbling over the wall, to go, as they pretended, to Zion; but they were quickly lost, even as I myself did tell them, but they would not believe. But, above all, I found it hard work to get up this hill, and as hard to come by the lions’ mouths; and, truly, if it had not been for the good man, the porter that stands at the gate, I do not know but that, after all, I might have gone back again; but I thank God I am here, and thank you for receiving me.
 
 Then Prudence thought good to ask him a few questions, and desired his answer to them.
 

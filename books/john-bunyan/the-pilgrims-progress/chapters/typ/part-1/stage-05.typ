@@ -84,7 +84,7 @@ Christian: Who was that that bid him forbear?
 
 Faithful: I did not know him at first: but as he went by, I perceived the holes in his hands and in his side: Then I concluded that he was our Lord. So I went up the hill.
 
-Christian: That man that overtook you was Moses. He spareth none; neither knoweth he how to shew mercy to those that transgress the law.
+Christian: That man that overtook you was Moses. He spareth none; neither knoweth he how to show mercy to those that transgress the law.
 
 Faithful: I know it very well; it was not the first time that he has met with me. ’Twas he that came to me when I dwelt securely at home, and that told me he would burn my house over my head if I stayed there.
 
@@ -247,7 +247,7 @@ Talkative: You may use your liberty.
 
 Faithful: A work of grace in the soul discovereth itself, either to him that hath it, or to standers-by.
 
-To him that hath it, thus: It gives him conviction of sin, especially the defilement of his nature, and the sin of unbelief, for the sake of which he is sure to be damned, if he findeth not mercy at God’s hand, by faith in Jesus Christ. This sight and sense of things worketh in him sorrow and shame for sin. Psa. 38:18; Jer. 31:19; John 16:8; Rom. 7:24; Mark 16:16; Gal. 2:16; Rev. 1:6. He findeth, moreover, revealed in him the Saviour of the world, and the absolute necessity of closing with him for life; at the which he findeth hungerings and thirstings after him; to which hungerings, etc., the promise is made. Now, according to the strength or weakness of his faith in his Saviour, so is his joy and peace, so is his love to holiness, so are his desires to know him more, and also to serve him in this world. But though, I say, it discovereth itself thus unto him, yet it is but seldom that he is able to conclude that this is a work of grace; because his corruptions now, and his abused reason, make his mind to misjudge in this matter: therefore in him that hath this work there is required a very sound judgment, before he can with steadiness conclude that this is a work of grace. John 16:9; Gal. 2:15,16; Acts 4:12; Matt. 5:6; Rev. 21:6.
+To him that hath it, thus: It gives him conviction of sin, especially the defilement of his nature, and the sin of unbelief, for the sake of which he is sure to be damned, if he findeth not mercy at God’s hand, by faith in Jesus Christ. This sight and sense of things worketh in him sorrow and shame for sin. Psa. 38:18; Jer. 31:19; John 16:8; Rom. 7:24; Mark 16:16; Gal. 2:16; Rev. 1:6. He findeth, moreover, revealed in him the Savior of the world, and the absolute necessity of closing with him for life; at the which he findeth hungerings and thirstings after him; to which hungerings, etc., the promise is made. Now, according to the strength or weakness of his faith in his Savior, so is his joy and peace, so is his love to holiness, so are his desires to know him more, and also to serve him in this world. But though, I say, it discovereth itself thus unto him, yet it is but seldom that he is able to conclude that this is a work of grace; because his corruptions now, and his abused reason, make his mind to misjudge in this matter: therefore in him that hath this work there is required a very sound judgment, before he can with steadiness conclude that this is a work of grace. John 16:9; Gal. 2:15,16; Acts 4:12; Matt. 5:6; Rev. 21:6.
 
 To others it is thus discovered:
 

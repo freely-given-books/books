@@ -2,13 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 45 |
+| spelling | 49 |
+| emendation | 49 |
 | case | 39 |
-| spelling | 28 |
 | punctuation | 27 |
-| spacing | 16 |
+| spacing | 17 |
+| merge | 2 |
 | split | 1 |
-| merge | 1 |
 
 ## split
 
@@ -31,7 +31,10 @@
 - [part-1/stage-10.typ] it → 
 - [part-1/conclusion.typ] ‘ t will → ’twill
 - [part-2/authors-way.typ] ‘ cause → ’cause
+- [part-2/authors-way.typ] but → but ground for
 - [part-2/authors-way.typ] ‘ tis → ’tis
+- [part-2/authors-way.typ] of → of a
+- [part-2/authors-way.typ] at → at the
 - [part-2/authors-way.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] ‘ tis → ’tis
 - [part-2/stage-02.typ] ‘ t was → ’twas
@@ -43,6 +46,7 @@
 - [part-2/stage-03.typ] ‘ twas → ’twas
 - [part-2/stage-03.typ] when → 
 - [part-2/stage-03.typ] ‘ Tis → ’Tis
+- [part-2/stage-04.typ] and → and they sent for him, and he came. When he was
 - [part-2/stage-05.typ] come → come to
 - [part-2/stage-05.typ] 36 → 35
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
@@ -129,13 +133,21 @@
 
 ## spelling
 
+- Saviour → Savior (×8)
+- ought → aught (×2)
+- staid → stayed (×2)
+- Apostacy → Apostasy
 - Christana → Christiana
+- Emmanuel’s → Immanuel’s
+- Formality → Formalist
 - Habak → Hab.
+- Hymenius → Hymenaeus
 - Isa → Isa.
 - Mnason → Mnason.
 - Rev → Rev.
 - The → “The
 - action’s → actions’
+- befal → befall
 - come → came
 - conviction → convictions
 - down → down;
@@ -144,11 +156,14 @@
 - in → in,
 - knew → know
 - land → land,
+- lillies → lilies
 - made → make
 - of’ → of
 - pilgrims → pilgrims’
 - pilgrim’s → pilgrims
 - scouged → scourged
+- scull → skull
+- shew → show
 - similtudes → similitudes
 - straight → strait
 - sufferet → suffered
@@ -157,4 +172,5 @@
 - understand → understand:
 - weather → weather;
 - welltuned → well-tuned
+- wholsome → wholesome
 

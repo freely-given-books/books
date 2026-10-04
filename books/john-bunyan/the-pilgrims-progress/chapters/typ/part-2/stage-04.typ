@@ -211,7 +211,7 @@ Prudence: And yet he was a professor, I warrant you?
 
 Mercy: Yes, such a one as he was, and of such as he the world is now full: but I am for none of them all.
 
-Now Matthew, the eldest son of Christiana, fell sick, and his sickness was sore upon him, for he was much pained in his bowels, so that he was with it at times pulled, as it were, both ends together. There dwelt also not far from thence one Mr. Skill, an ancient and well-approved physician. So Christiana desired it, and entered the room, and had a little observed the boy, he concluded that he was sick of the gripes. Then he said to his mother, What diet has Matthew of late fed upon? Diet! said Christiana, nothing but what is wholesome. The physician answered, This boy has been tampering with something that lies in his stomach undigested, and that will not away without means. And I tell you he must be purged, or else he will die.
+Now Matthew, the eldest son of Christiana, fell sick, and his sickness was sore upon him, for he was much pained in his bowels, so that he was with it at times pulled, as it were, both ends together. There dwelt also not far from thence one Mr. Skill, an ancient and well-approved physician. So Christiana desired it, and they sent for him, and he came. When he was entered the room, and had a little observed the boy, he concluded that he was sick of the gripes. Then he said to his mother, What diet has Matthew of late fed upon? Diet! said Christiana, nothing but what is wholesome. The physician answered, This boy has been tampering with something that lies in his stomach undigested, and that will not away without means. And I tell you he must be purged, or else he will die.
 
 Samuel: Then said Samuel, Mother, what was that which my brother did gather up and eat as soon as we were come from the gate that is at the head of this way? You know that there was an orchard on the left hand, on the other side of the wall, and some of the trees hung over the wall, and my brother did pluck and eat.
 
@@ -251,7 +251,7 @@ Prudence: To show that the word, when it works effectually, cleanseth the heart 
 
 Matthew: What should we learn by seeing the flame of our fire go upwards, and by seeing the beams and sweet influences of the sun strike downwards?
 
-Prudence: By the going up of the fire, we are taught to ascend to heaven by fervent and hot desires. And by the sun sending his heat, beams, and sweet influences downwards, we are taught the Saviour of the world, though high, reaches down with his grace and love to us below.
+Prudence: By the going up of the fire, we are taught to ascend to heaven by fervent and hot desires. And by the sun sending his heat, beams, and sweet influences downwards, we are taught the Savior of the world, though high, reaches down with his grace and love to us below.
 
 Matthew: Whence have the clouds their water?
 

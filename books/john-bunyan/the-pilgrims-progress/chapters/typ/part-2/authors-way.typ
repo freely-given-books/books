@@ -79,7 +79,7 @@ For Pilgrims ask, and they shall rage the more?
 
 #strong[Answer] \
 Fright not thyself, my Book, for such bugbears \
-Are nothing else but groundless fears. \
+Are nothing else but ground for groundless fears. \
 My Pilgrim’s book has traveled sea and land, \
 Yet could I never come to understand \
 That it was slighted or turned out of door \
@@ -108,13 +108,13 @@ Or shows his head in any company.
 
 Brave gallants do my Pilgrim hug and love, \
 Esteem it much, yea, value it above \
-Things of greater bulk; yea, with delight \
+Things of a greater bulk; yea, with delight \
 Say, my lark’s leg is better than a kite. \
 Young ladies, and young gentlewomen too, \
 Do not small kindness to my Pilgrim show; \
 Their cabinets, their bosoms, and their hearts, \
 My Pilgrim has; ’cause he to them imparts \
-His pretty riddles in such wholsome strains, \
+His pretty riddles in such wholesome strains, \
 As yield them profit double to their pains \
 Of reading; yea, I think I may be bold \
 To say some prize him far above their gold. \
@@ -128,7 +128,7 @@ What they have heard of him, and much desire \
 To have his company, and hear him tell \
 Those Pilgrim stories which he knows so well.
 
-Yea, some that did not love him at first, \
+Yea, some that did not love him at the first, \
 But call’d him fool and noddy, say they must, \
 Now they have seen and heard him, him commend \
 And to those whom they love they do him send.
