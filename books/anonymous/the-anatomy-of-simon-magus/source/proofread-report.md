@@ -13,6 +13,16 @@ all of that.
 
 ## Needs your decision
 
+**Decided 2026-10-03 and applied** (synced, check OK 8/8, rebuilt: 124 pages,
+epubcheck clean): 1–9 as recommended (both "Holy Ghost" → Holy Spirit; the
+README notes the Jehu/Apollos corrections and the restored end of ch. 6);
+10: the 46 there-/where- compounds an earlier editor replaced in chapters 1–2
+(thereof, therein, whereby, wherein, hereunto, … and "Wherefore") are restored;
+the 14 "unto" → "to" changes in chapters 1–3 change no meaning and are left
+pending the user's choice; 11 "satire"; 12 foreword kept as is; 13 Athalaric /
+Pope John II entry corrected, Durandus added and the "Lib. 4. Dist. qu." form
+moved to him.
+
 1. **The end of chapter 6 is missing.** The chapter stops mid-sentence: "For
    whatsoever discouragement the sense of his own insufficiency." The 1700 printing
    goes on: "…insufficiency may breed in him, yet the Sincerity of his Intentions,

@@ -36,7 +36,9 @@ are not listed here.
 
 / Bonavent. in lib. 4. Sent. Dist. [N]. Art. [N]. qu. [N].: Bonaventure (1221–1274), _Commentary on the Sentences of Peter Lombard_, Book 4, Distinction [N], Article [N], Question [N].
 
-/ Lib. 4. Senten. Dist. [N]. / Lib. 4. Dist. [N]. qu. [N].: Peter Lombard (c. 1096–1160), _Sentences_ (_Sententiarum libri quatuor_), Book 4, Distinction [N]. The standard theological textbook of medieval universities. Aquinas, Bonaventure, and nearly every major scholastic theologian wrote commentaries on it, organized around the same Distinctions.
+/ Lib. 4. Senten. Dist. [N].: Peter Lombard (c. 1096–1160), _Sentences_ (_Sententiarum libri quatuor_), Book 4, Distinction [N]. The standard theological textbook of medieval universities. Aquinas, Bonaventure, and nearly every major scholastic theologian wrote commentaries on it, organized around the same Distinctions.
+
+/ Durand. Lib. 4. Dist. [N]. qu. [N]. / Lib. 4. Dist. [N]. qu. [N].: Durandus of Saint-Pourçain (c. 1275–1334), _Commentary on the Sentences of Peter Lombard_, Book 4, Distinction [N], Question [N].
 
 / Bernard. Compost. / Bernar. Compostel.: Bernard of Compostella (13th century), _Commentary on the Decretals of Gregory IX_. Cited with a title and chapter, e.g., _De Simonia. cap. 1_ (On Simony, chapter 1).
 
@@ -68,7 +70,7 @@ are not listed here.
 
 / Can. [N]. Lib. 1. cap. [N]. (Second Aurelian Council): Second Council of Orléans (533 AD). Orléans was known in Latin as _Aurelia_, hence "Aurelian Council."
 
-/ Epist. ad Johan. 22. in Concil. Tom. [N]. Part. [N].: Letter to Pope John XXII, cited from a published collection of council documents (_Conciliorum collectio_), Volume [N], Part [N].
+/ Epist. ad Johan. 22. in Concil. Tom. [N]. Part. [N].: Letter of Athalaric, Gothic king of Italy (d. 534), to Pope John II (533), confirming the Senate's decree against simony (preserved in Cassiodorus, _Variae_ 9.15), cited from a published collection of council documents (_Conciliorum collectio_), Volume [N], Part [N].
 
 / Epist. [N]. Ad [Name].: Cyprian of Carthage (c. 200–258), _Letters_ (_Epistolae_), Letter [N], addressed to [Name]. Cyprian was an influential early bishop and martyr whose letters deal extensively with church discipline and authority.
 
