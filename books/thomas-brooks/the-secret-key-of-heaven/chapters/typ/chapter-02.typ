@@ -2,7 +2,7 @@
 
 Christian reader, the epistle dedicatory being occasionally so large, I shall do little more than give thee the grounds and reasons of sending forth this little piece into the world, especially in such a day as this is. Now, my reasons are these:
 
-#emph[First], because God by His present dispensations calls more loudly for closet prayer now than He hath done in those last twenty years that are now passed over our heads. See more of this in the 16 argument for closet prayer.
+#emph[First], because God by His present dispensations calls more loudly for closet prayer now than He hath done in those last twenty years that are now passed over our heads. See more of this in the 16th argument for closet prayer.
 
 #emph[Secondly], because I have several reasons to fear that many Christians do not clearly nor fully understand the necessity, excellency, and usefulness of this subject, and that many—oh, that I could not say any—live in too great a neglect of this indispensable duty, and that more than a few, for want of light, err in the very practice of it.
 
