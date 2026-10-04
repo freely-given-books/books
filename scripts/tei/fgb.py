@@ -11,6 +11,9 @@ works from any folder.
   ./fgb find   [BOOK] WORD        every place WORD is, in chapters/typ and as
                                   printed, with what the machine and you chose
   ./fgb page   [BOOK] [--open]    rebuild the side-by-side page(s)
+  ./fgb changes [BOOK] [--open]   before-after.html: the EPUB as published
+                                  before the TEI next to the one built now,
+                                  every change marked (--old REV|FILE.epub)
   ./fgb check  [BOOK]             full verification (verify.py)
   ./fgb epub   [BOOK]             build the EPUB and run epubcheck   } into dist/
   ./fgb pdf    [BOOK]             compile the print edition(s)       } <author>/<book>/
@@ -259,6 +262,60 @@ def cmd_page(a, bk=None, quiet=False):
                              stderr=subprocess.DEVNULL)
 
 
+def old_epub(bk, rev, outdir):
+    """The book's EPUB as it was before the TEI: from REV (a commit), or by
+    default from the commit before the one that added the book's TEI."""
+    if rev and Path(rev).suffix == ".epub":
+        return Path(rev), Path(rev).name
+    rel = bk.dir.relative_to(REPO)
+    if not rev:
+        # the first commit with a TEI file for the book (wherever it was kept)
+        for c in run("git", "rev-list", "--reverse", "HEAD", "--", str(rel),
+                     cwd=REPO, quiet=True).split():
+            if ".tei.xml" in run("git", "ls-tree", "-r", "--name-only", c, "--",
+                                 str(rel), cwd=REPO, quiet=True):
+                rev = c + "^"
+                break
+        else:
+            sys.exit(f"{bk.name}: the TEI is not in git yet; give --old REV")
+    epubs = []
+    # the newest commit at or before REV that still has the book's EPUB
+    for c in run("git", "rev-list", rev, "--", str(rel), cwd=REPO, quiet=True).split():
+        names = run("git", "ls-tree", "-r", "--name-only", c, "--", str(rel),
+                    cwd=REPO, quiet=True).split("\n")
+        epubs = sorted((n for n in names if n.endswith(".epub")),
+                       key=lambda n: (Path(n).name != bk.dir.name + ".epub", len(n)))
+        if epubs:
+            rev = c
+            break
+    if not epubs:
+        sys.exit(f"{bk.name}: no EPUB in {rel} at or before {rev}; give --old REV or a file")
+    data = subprocess.run(["git", "show", f"{rev}:{epubs[0]}"], cwd=REPO,
+                          capture_output=True, check=True).stdout
+    out = outdir / "before.epub"
+    out.write_bytes(data)
+    short = run("git", "log", "-1", "--format=%h, %ad", "--date=short", rev,
+                cwd=REPO, quiet=True).strip()
+    return out, short
+
+
+def cmd_changes(a):
+    bk = Book(find_book(a.book))
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        old, when = old_epub(bk, a.old, tmp)
+        new = Path(a.new) if a.new else next(
+            p for p in build_epub(bk, tmp) if p.suffix == ".epub")
+        out = bk.dir / "before-after.html"
+        title = bk.cfg.get("EPUB", {}).get("title", bk.dir.name)
+        run(PY, HERE / "before_after.py", old, new, out, "--title", title,
+            "--old-label", f"Before ({when})", "--new-label", "Now")
+    print(f"before and after: {out.relative_to(REPO)}")
+    if a.open:
+        subprocess.Popen(["xdg-open", str(out)], stdout=subprocess.DEVNULL,
+                         stderr=subprocess.DEVNULL)
+
+
 def cmd_check(a):
     bk = Book(find_book(a.book))
     r = subprocess.run([PY, str(HERE / "verify.py"), str(bk.dir)])
@@ -480,6 +537,13 @@ def main():
     p.add_argument("book", nargs="?")
     p.add_argument("--open", action="store_true", help="open it in the browser")
     p.set_defaults(fn=cmd_page)
+    p = sub.add_parser("changes", help="the earlier published EPUB next to the new one")
+    p.add_argument("book", nargs="?")
+    p.add_argument("--old", help="commit (or .epub file) to compare with; default: "
+                   "the last commit before the book's TEI was added")
+    p.add_argument("--new", help=".epub to show as now (default: build it)")
+    p.add_argument("--open", action="store_true", help="open it in the browser")
+    p.set_defaults(fn=cmd_changes)
     p = sub.add_parser("find")
     p.add_argument("args", nargs="+", metavar="[BOOK] WORD")
     p.set_defaults(fn=cmd_find)
