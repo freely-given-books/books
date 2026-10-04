@@ -5,7 +5,7 @@
 | emendation | 45 |
 | case | 39 |
 | spelling | 28 |
-| punctuation | 26 |
+| punctuation | 27 |
 | spacing | 16 |
 | split | 1 |
 | merge | 1 |
@@ -89,6 +89,7 @@
 - [part-2/stage-06.typ] - → —
 - [part-2/stage-06.typ] , → 
 - [part-2/stage-06.typ] , → 
+- [part-2/stage-08.typ] . → .”
 - [part-2/stage-08.typ] . → ?
 
 ## case

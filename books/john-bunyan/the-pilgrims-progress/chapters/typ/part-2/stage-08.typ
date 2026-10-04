@@ -129,7 +129,7 @@ Shall life inherit. \
 Then fancies fly away, \
 He’ll not fear what men say; \
 He’ll labor night and day \
-To be a pilgrim.]
+To be a pilgrim.”]
 
 By this time they were got to the Enchanted Ground, where the air naturally tended to make one drowsy. And that place was all grown over with briars and thorns, excepting here and there, where was an enchanted arbor, upon which if a man sits, or in which if a man sleeps, it is a question, some say, whether ever he shall rise or wake again in this world. Over this forest, therefore, they went, both one and another, and Mr. Great-Heart went before, for that he was the guide; and Mr. Valiant-for-truth came behind, being rear-guard, for fear lest peradventure some fiend, or dragon, or giant, or thief, should fall upon their rear, and so do mischief. They went on here, each man with his sword drawn in his hand; for they knew it was a dangerous place. Also they cheered up one another as well as they could. Feeble-mind, Mr. Great-Heart commanded should come up after him; and Mr. Despondency was under the eye of Mr. Valiant.
 
