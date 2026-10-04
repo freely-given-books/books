@@ -2,7 +2,7 @@
 
 TO RETURN to the grand text:
 
-#quote[“Him hath God exalted with his right hand to be a Prince and a Savior, for to give repentance to Israel, and forgiveness of sins.”]
+#quote[Him hath God exalted with his right hand to be a Prince and a Savior, for to give repentance to Israel, and forgiveness of sins.]
 
 Our Lord Jesus Christ has gone up that grace may come down. His glory is employed to give greater currency to His grace. The Lord has not taken a step upward except with the design of bearing believing sinners upward with Him. He is exalted to give repentance; and this we shall see if we remember a few great truths.
 
@@ -20,7 +20,7 @@ The hearts of the children of Israel had grown hard as an adamant stone. Luther 
 Hath been subdued in me;
 The wildest will that ever rose
 To scorn Thy cause and aid Thy foes
-Is quell’d my Lord, by Thee.
+Is quell’d, my Lord, by Thee.
 Thy will, and not my will be done,
 My heart be ever Thine;
 Confessing Thee the mighty Word,

@@ -16,7 +16,7 @@ Jesus endured great humiliation, and therefore there was room for Him to be exal
 
 #quote[He ever lives to intercede
 Before His Father’s face;
-Give Him, my soul, Thy cause to plead,
-No doubt the Father’s grace.]
+Give Him, my soul, thy cause to plead,
+Nor doubt the Father’s grace.]
 
 Come, friend, and commit your cause and your case to those once pierced hands, which are now glorified with the signet rings of royal power and honor. No suit ever failed which was left with this great Advocate.
