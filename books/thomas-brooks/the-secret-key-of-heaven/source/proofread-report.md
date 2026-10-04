@@ -10,7 +10,39 @@ found them.
 
 ## Needs your decision
 
-Answer like "1 yes, 2 no, 3 as recommended".
+**Decided 2026-10-03 and applied** (synced, check OK, rebuilt: 293 pages, epubcheck
+clean):
+
+- 1: the Latin and Hebrew transliterations are restored beside the English (25
+  places, as printed in 1665, e.g. "Luther terms prayer *bombarda
+  Christianorum*, the gun or cannon of Christians"). The Greek and Hebrew the
+  TCP lost were read off the 1665 scan (archive.org
+  `bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665`,
+  image = printed page + 109) and restored in the text: ואבק / אבק (Gen 32:24,
+  p. 55), τί περισσὸν ποιεῖτε (Mat 5:47, p. 170, with its gloss "What
+  extraordinary thing do you?"), συναντιλαμβάνεται (Rom 8:26, p. 212), τὸ
+  πνεῦμα τὸ ἅγιον, τοῦ θεοῦ (Eph 4:30, p. 229), ἐκτενής (Act 12:5), ἐν ἐκτενείᾳ
+  (Act 26:7), ζέοντες (Rom 12:11), προσκαρτεροῦντες (Rom 12:12, with its gloss),
+  συναγωνίσασθαι (Rom 15:30, with "strive mightily"), ἀγωνιζόμενος (Col 4:12)
+  (pp. 330–332), ἡ ἔλαφος (p. 348), πανόφθαλμος (p. 424), αὐτοκατάκριτος
+  (p. 442), ὦ ἀϊδιότης, ὦ ἀϊδιότης (p. 476). Greek in the 1665 margin notes is
+  left out with the notes.
+- 2: "O sirs!" restored in the 9 places. 3: "by the laws or hands of men",
+  "But secondly, this may serve". 4: Ausanius. 5: Hyrcanus kept.
+- 6: "never see light" kept as printed. 7: the added Song 8:11-12 dropped.
+  8: Isa 54:13 back to a bare reference.
+- 9: "[Queen Elizabeth]" kept: the "Call time again … a world of wealth for an
+  inch of time" deathbed cry is the traditional attribution to Elizabeth I
+  (widely repeated, though not in the contemporary accounts of her death).
+- 10 kept; 11 "imminent"; 12 "recompense" (×3); 13 kept.
+- 14: the 1665 margin references are now given in the text, in the book's
+  style: "as you may see by comparing these scriptures together (Pro 21:27; …)"
+  (app-03), "as is evident by these scriptures (Joh 21:22; Act 1:6-7; Luk
+  13:23-24)" and "as you may see by these among others (Jude 1:9; Luk 1:19,
+  26; Zec 4:10; Rev 5:6; Heb 1:14)" (app-04). Luke 13:23-24 reads "Luke 1•. 23,
+  24" in the TCP; 13:23 ("Are there few that be saved?") is the curious
+  question.
+- 15: kept.
 
 1. **Latin, Greek and Hebrew that are still cut.** Commit 555ca78 restored
    eleven phrases beside their English. These are still cut, or are given
