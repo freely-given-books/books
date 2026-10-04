@@ -7,12 +7,12 @@
 
 | kind | count |
 | --- | --- |
-| case | 4580 |
+| case | 4568 |
 | italic | 762 |
-| spelling | 552 |
-| grammar | 401 |
-| punctuation | 373 |
-| emendation | 331 |
+| spelling | 601 |
+| grammar | 388 |
+| punctuation | 369 |
+| emendation | 299 |
 | note moved | 160 |
 | spacing | 90 |
 | split | 28 |
@@ -54,7 +54,7 @@
 
 ## gap
 
-- [chapter-02.typ] 〈 in non-Latin alphabet 〉 → יָדמָלֵא
+- [chapter-02.typ] 〈 in non-Latin alphabet 〉 → מָלֵא יָד
 - [chapter-03.typ note] • → 
 - [chapter-04.typ note] 2• → 2
 - [chapter-05.typ] 〈 in non-Latin alphabet 〉 → Ἐξαγγελεύς
@@ -65,41 +65,30 @@
 
 ## emendation
 
-- [chapter-01.typ note] Matth . → Matt
 - [chapter-01.typ note] Joh . → John
 - [chapter-01.typ note] Matth . Hom . → Mattheum Homilia
-- [chapter-01.typ note] Act . → Acts
-- [chapter-01.typ note] , 20 , 21 , 22 , → -
+- [chapter-01.typ note] Act → Acts 8:19-23
+- [chapter-01.typ note] 8 . 19 , 20 , 21 , 22 , 23 , → 
 - [chapter-01.typ note] Homil → Gregory the Great, Homily 4 on the Gospels
 - [chapter-01.typ note] 4 . in Evang . → 
 - [chapter-01.typ note] Joh . → John
 - [chapter-01.typ note] In Sent . Lib . → Bonaventure, Commentary on the Sentences, Liber 4, Distinction 25, Article 1, Question
 - [chapter-01.typ note] Dist . 25 . Art . 1 . q . 4 . → 
 - [chapter-01.typ] and → 
-- [chapter-01.typ] whereof → of which
 - [chapter-01.typ] & c . → (
 - [chapter-01.typ] thence → from there
 - [chapter-01.typ] mis - employ → misemploy
-- [chapter-01.typ] thereby : → by that.
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] than → of
 - [chapter-01.typ] luke - warm Clergy → lukewarm clergy
-- [chapter-01.typ] thereof → of that
-- [chapter-01.typ] thereof → of that
-- [chapter-01.typ] Author thereof → author of that
 - [chapter-01.typ] . Chapter → chapter
 - [chapter-01.typ] the Gift → gift
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] thereupon offer'd → upon that offered
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] With the 〈◊〉 accuse thou hast → with you, because you have
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] Matter contain'd therein → matter contained in that
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] therewith → with that
 - [chapter-01.typ] 2dly → Secondly
-- [chapter-01.typ] Merchandise thereof → merchandise of it
-- [chapter-01.typ] wherewith → with which
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] as → 
 - [chapter-01.typ] says → 
@@ -107,75 +96,51 @@
 - [chapter-01.typ] sell → sell); as says Gregory
 - [chapter-01.typ] & c → etc
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] Gain thereby : Wherefore → gain by that. Therefore
-- [chapter-01.typ] whereby → by which
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] therewith → with it
-- [chapter-01.typ] whereupon → upon which
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Chost → Spirit
 - [chapter-01.typ] Infidel → unbeliever
 - [chapter-01.typ] Raiment → clothing
 - [chapter-01.typ] & c → etc
-- [chapter-01.typ] thereof → of them
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] self same → selfsame
-- [chapter-01.typ] Instruments whereby → instruments by which
-- [chapter-01.typ] Helps thereto → helps to them
-- [chapter-01.typ] Titles thereto → titles to them
 - [chapter-01.typ] First - Fruits → firstfruits
-- [chapter-01.typ] whereof → of which
-- [chapter-01.typ] thereof → of that
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] wherein whosoever → in which whoever
 - [chapter-01.typ] Ghost → Spirit)
 - [chapter-01.typ] 2dly → Secondly
-- [chapter-01.typ] Inducements thereto → inducements to that
 - [chapter-01.typ] Whoredoms → sexual immorality
 - [chapter-01.typ] Whores → prostitutes
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] Ministeries thereto → ministries to that
-- [chapter-01.typ] Definition thereof → definition of that
 - [chapter-01.typ] School - men → schoolmen
 - [chapter-01.typ] Spiritual Things → spiritual things)
-- [chapter-01.typ] Definition thereof → definition of it
 - [chapter-01.typ] Spiritual Things → spiritual things)
 - [chapter-01.typ] Ghost → Spirit
 - [chapter-01.typ] Trespass thereabout → trespass in that
 - [chapter-01.typ] That → 
 - [chapter-01.typ] Gift → that gift
 - [chapter-01.typ] Ghost → Spirit
-- [chapter-01.typ] Spiritual Things thereby → spiritual things by that
-- [chapter-01.typ] Titles thereto → titles to them
 - [chapter-01.typ] & c → etc
 - [chapter-01.typ] Church - maintainances → church maintenance
-- [chapter-01.typ] Titles thereto → titles to them
-- [chapter-01.typ] thereof → of those
-- [chapter-01.typ] hereunto → to this
-- [chapter-01.typ] Nature thereof → nature of them
 - [chapter-01.typ] 2dly → Secondly
-- [chapter-01.typ] thereof → of them
 - [chapter-01.typ] Church - → church
 - [chapter-01.typ] Church - Revenue → church revenue
 - [chapter-01.typ] Increpation → rebuke
-- [chapter-01.typ] whereunto → to which
 - [chapter-01.typ] 3dly → Thirdly
-- [chapter-01.typ] Presentation thereto → presentation to it
 - [chapter-02.typ note] 3 . → 
 - [chapter-02.typ note] 4 → 5
 - [chapter-02.typ note] Joh . → John
 - [chapter-02.typ note] 3 → 3:1
 - [chapter-02.typ note] • . → 
+- [chapter-02.typ note] King . → Kings
+- [chapter-02.typ note] Act . → Acts
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] any thing → anything
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] shall → will
-- [chapter-02.typ] whereof → of which
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] to → that
 - [chapter-02.typ] wit → is
@@ -184,10 +149,8 @@
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] Increpation → rebuke
 - [chapter-02.typ] 2dly → Secondly
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] frustraneous → fruitless
 - [chapter-02.typ] subdolous → deceitful
-- [chapter-02.typ] whereby Men → by which men
 - [chapter-02.typ] The Promise → (the promise
 - [chapter-02.typ] doth → 
 - [chapter-02.typ] 3dly → Thirdly
@@ -207,13 +170,12 @@
 - [chapter-02.typ] any thing → anything
 - [chapter-02.typ] Simony : → simony.)
 - [chapter-02.typ] & c → etc
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] 2dly → Secondly
+- [chapter-02.typ] á → à
 - [chapter-02.typ] wellgrounded Hope → well-grounded hope
 - [chapter-02.typ] 3dly → Thirdly
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] an Hand - maid → a handmaid
 - [chapter-02.typ] Country → countrymen, smock
 - [chapter-02.typ] men → 
@@ -221,21 +183,16 @@
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] so be → 
 - [chapter-02.typ] mancipates → enslaves
-- [chapter-02.typ] whereupon → upon which
 - [chapter-02.typ] betwixt → between
-- [chapter-02.typ] whereof → of which
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] any thing → anything
 - [chapter-02.typ] Clergy - man → clergyman
 - [chapter-02.typ] Laick → lay person
 - [chapter-02.typ] & c → etc
 - [chapter-02.typ] 2dly → Secondly
-- [chapter-02.typ] wherein → in which
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] Sheep - fold → sheepfold
 - [chapter-02.typ] 3dly → Thirdly
 - [chapter-02.typ] thereat → at it
-- [chapter-02.typ] whereby → by which
 - [chapter-02.typ] Whoso → Whoever
 - [chapter-02.typ] then → 
 - [chapter-02.typ] thereat → at it
@@ -244,8 +201,9 @@
 - [chapter-02.typ] 4thly → Fourthly
 - [chapter-02.typ] to → that
 - [chapter-02.typ] wit → is
+- [chapter-02.typ] John → Jehu
 - [chapter-02.typ] evil doers → evildoers
-- [chapter-02.typ] whereby Men → by which men
+- [chapter-03.typ note] Act . → Acts
 - [chapter-03.typ note] 5 → 5:2
 - [chapter-03.typ] consine it self → confine itself
 - [chapter-03.typ] extendeth it self → extends itself
@@ -264,6 +222,7 @@
 - [chapter-03.typ] & c → etc
 - [chapter-03.typ] shall → will
 - [chapter-03.typ] 2dly → Secondly
+- [chapter-03.typ] Discipline Censures → discipline, censures
 - [chapter-03.typ] shall → will
 - [chapter-03.typ] our selves → ourselves
 - [chapter-03.typ] & c → etc
@@ -276,6 +235,7 @@
 - [chapter-03.typ] doth → does he
 - [chapter-03.typ] shall → will
 - [chapter-03.typ] shall → will
+- [chapter-04.typ note] Act . → Acts
 - [chapter-04.typ note] Joh . → John
 - [chapter-04.typ] Ghost → Spirit
 - [chapter-04.typ] 1st → First
@@ -288,7 +248,7 @@
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] 4thly → Fourthly
 - [chapter-04.typ] shall → will
-- [chapter-04.typ] Thy → . Y
+- [chapter-04.typ] Thy , Heart → Your heart
 - [chapter-04.typ] shall → will
 - [chapter-04.typ] shall → will
 - [chapter-04.typ] Ghost → Spirit
@@ -314,13 +274,16 @@
 - [chapter-05.typ note] Joh . → John
 - [chapter-05.typ note] Joh . → John
 - [chapter-05.typ note] & c → etc
+- [chapter-05.typ note] 16 . Joh . → John
 - [chapter-05.typ note] Joh . → John
-- [chapter-05.typ note] Joh . → John
+- [chapter-05.typ] Resolution , → resolution
+- [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] shall → will
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] shall → will
 - [chapter-05.typ] Ghost → Spirit
+- [chapter-05.typ] your selves → yourselves
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] by → 
@@ -338,6 +301,7 @@
 - [chapter-05.typ] & c → etc
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] Arch - Bishop → archbishop
+- [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] planteth any thing → plants anything
 - [chapter-05.typ] watereth any thing → waters anything
 - [chapter-05.typ] Ghost → Spirit
@@ -364,12 +328,16 @@
 - [chapter-06.typ note] & c → etc
 - [chapter-06.typ note] 33 → 33:7
 - [chapter-06.typ note] • . → 
+- [chapter-06.typ note] 9 → 9:15, 16
+- [chapter-06.typ note] 17 . → 
 - [chapter-06.typ] all ways → always
 - [chapter-06.typ] him - → 
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] it → 
+- [chapter-06.typ] that → that he
+- [chapter-06.typ] he → 
 - [chapter-06.typ] Silverkeys → silver keys
 - [chapter-06.typ] to → 
 - [chapter-06.typ] our selves → ourselves
@@ -379,7 +347,6 @@
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] . Means → means
-- [chapter-06.typ] Insufficiency may breed in him , yet the Sincerity of his Intentions , and the Evidences of a Call from God , may give him confidence to rely upon his Grace , as sufficient for him , whose Strength is made perfect in Weakness → insufficiency
 - [chapter-07.typ] your selves → yourselves
 - [chapter-07.typ] your selves → yourselves
 - [chapter-07.typ] 'tis → it is
@@ -396,24 +363,24 @@
 - [chapter-08.typ] your selves → yourselves
 - [chapter-08.typ] e'er → ere
 - [chapter-08.typ] lother → more loath
+- [chapter-08.typ] pertimiscamus : → pertimescamus. (
 
 ## grammar
 
 - hath → has (×95)
 - thou → you (×40)
 - doth → does (×35)
-- ye → you (×22)
+- ye → you (×23)
 - thee → you (×19)
 - thy → your (×14)
-- unto → to (×14)
 - an → a (×8)
 - be → is (×8)
 - thine → your (×8)
 - saith → says (×7)
 - art → are (×6)
 - Thou → You (×5)
+- Thy → Your (×5)
 - hast → have (×5)
-- Thy → Your (×4)
 - wilt → will (×4)
 - be → are (×3)
 - camest → came (×3)
@@ -437,7 +404,6 @@
 - Doth → does
 - Exerciseth → exercises
 - Preacheth → preaches
-- Thy → your
 - addresseth → addresses
 - advanceth → advances
 - affirmeth → affirms
@@ -502,11 +468,7 @@
 ## punctuation
 
 - [chapter-01.typ note] . → :
-- [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → :
-- [chapter-01.typ note] . → 
-- [chapter-01.typ note] . → :
-- [chapter-01.typ note] , → 
 - [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → :
@@ -516,16 +478,19 @@
 - [chapter-01.typ note] . → :
 - [chapter-01.typ note] . → :
 - [chapter-01.typ note] . → :
+- [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
 - [chapter-01.typ] . → . (
 - [chapter-01.typ] . → .)
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
+- [chapter-01.typ] ; → ,
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
 - [chapter-01.typ] ; → 
 - [chapter-01.typ] , → (
+- [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
 - [chapter-01.typ] , → (
 - [chapter-01.typ] , → (
@@ -576,7 +541,7 @@
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ] : → .
-- [chapter-02.typ] : → .
+- [chapter-02.typ] : → ,
 - [chapter-02.typ] : → .
 - [chapter-02.typ] . → . (
 - [chapter-02.typ] . → .)
@@ -587,7 +552,7 @@
 - [chapter-02.typ] : → (
 - [chapter-02.typ] . → .)
 - [chapter-02.typ] . → ,
-- [chapter-02.typ] : → .
+- [chapter-02.typ] : → ,
 - [chapter-02.typ] : → .
 - [chapter-02.typ] : → : (
 - [chapter-02.typ] . → .)
@@ -705,9 +670,9 @@
 - [chapter-04.typ note] . → :
 - [chapter-04.typ note] . → :
 - [chapter-04.typ note] . → :
+- [chapter-04.typ] . → ,
 - [chapter-04.typ] ! → !)
 - [chapter-04.typ] , → 
-- [chapter-04.typ] , → our
 - [chapter-04.typ] . → . (
 - [chapter-04.typ] . → .)
 - [chapter-04.typ] . → . (
@@ -743,7 +708,7 @@
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → . 16:
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
@@ -768,8 +733,6 @@
 - [chapter-05.typ] . → .)
 - [chapter-05.typ] : → .
 - [chapter-05.typ] : → .
-- [chapter-05.typ] ! → .
-- [chapter-05.typ] ! → .
 - [chapter-05.typ] ; → ,
 - [chapter-05.typ] . → . (
 - [chapter-05.typ] ? → ?)
@@ -781,7 +744,7 @@
 - [chapter-05.typ] . → .)
 - [chapter-05.typ] : → .
 - [chapter-05.typ] : → .
-- [chapter-05.typ] : → .
+- [chapter-05.typ] : → ;
 - [chapter-05.typ] : → .
 - [chapter-05.typ] : → : (
 - [chapter-05.typ] . → .)
@@ -807,7 +770,7 @@
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
@@ -872,25 +835,24 @@
 - [chapter-08.typ] . → .)
 - [chapter-08.typ] : → .
 - [chapter-08.typ] : → .
-- [chapter-08.typ] : → . (
 - [chapter-08.typ] . → .)
 
 ## case
 
-- Spiritual → spiritual (×113)
+- Spiritual → spiritual (×114)
 - Church → church (×95)
 - Simony → simony (×93)
 - Money → money (×68)
 - Man → man (×67)
 - Office → office (×63)
-- Things → things (×60)
+- Things → things (×61)
 - That → that (×56)
-- Men → men (×49)
+- Men → men (×51)
 - Sin → sin (×49)
 - Gifts → gifts (×45)
+- Merchandise → merchandise (×42)
 - Power → power (×42)
 - Simoniacal → simoniacal (×42)
-- Merchandise → merchandise (×41)
 - Sacred → sacred (×39)
 - Gospel → gospel (×37)
 - Guilt → guilt (×37)
@@ -904,33 +866,33 @@
 - Souls → souls (×30)
 - Hands → hands (×29)
 - Words → words (×26)
+- Gain → gain (×25)
 - Glory → glory (×25)
 - People → people (×25)
-- Gain → gain (×24)
 - Holy → holy (×24)
 - Offices → offices (×24)
 - Price → price (×21)
-- Heart → heart (×20)
+- House → house (×20)
 - Work → work (×20)
+- Heart → heart (×19)
 - Ministers → ministers (×19)
 - Benefice → benefice (×18)
 - Divine → divine (×18)
-- Grace → grace (×17)
-- House → house (×17)
+- Grace → grace (×18)
+- Matter → matter (×17)
 - Service → service (×17)
 - Calling → calling (×16)
 - Hand → hand (×16)
-- Matter → matter (×16)
 - Pastors → pastors (×16)
 - Desire → desire (×15)
+- Presentation → presentation (×15)
 - Title → title (×15)
 - Administration → administration (×14)
+- Call → call (×14)
 - Conscience → conscience (×14)
 - Flock → flock (×14)
-- Presentation → presentation (×14)
 - Temporal → temporal (×14)
 - Affection → affection (×13)
-- Call → call (×13)
 - Crime → crime (×13)
 - Law → law (×13)
 - Ordinances → ordinances (×13)
@@ -955,6 +917,7 @@
 - Ecclesiastical → ecclesiastical (×10)
 - Effect → effect (×10)
 - Heaven → heaven (×10)
+- Instruments → instruments (×10)
 - Means → means (×10)
 - Thieves → thieves (×10)
 - Word → word (×10)
@@ -962,11 +925,9 @@
 - Canon → canon (×9)
 - Canonists → canonists (×9)
 - Cause → cause (×9)
-- Censures → censures (×9)
 - Design → design (×9)
 - Door → door (×9)
 - Function → function (×9)
-- Instruments → instruments (×9)
 - Interest → interest (×9)
 - Orders → orders (×9)
 - Reward → reward (×9)
@@ -981,6 +942,7 @@
 - Benefit → benefit (×8)
 - Bishop → bishop (×8)
 - Buyers → buyers (×8)
+- Censures → censures (×8)
 - Charity → charity (×8)
 - Counsel → counsel (×8)
 - Curse → curse (×8)
@@ -1018,7 +980,6 @@
 - Selling → selling (×7)
 - Sins → sins (×7)
 - Vineyard → vineyard (×7)
-- What → what (×7)
 - Worth → worth (×7)
 - Zeal → zeal (×7)
 - Altar → altar (×6)
@@ -1032,23 +993,25 @@
 - Doctrine → doctrine (×6)
 - Duties → duties (×6)
 - Faith → faith (×6)
-- Favour → favour (×6)
 - Friend → friend (×6)
 - Imposition → imposition (×6)
 - Interests → interests (×6)
 - Life → life (×6)
 - Lucre → lucre (×6)
 - Motions → motions (×6)
+- Nature → nature (×6)
 - Order → order (×6)
 - Patrons → patrons (×6)
 - Place → place (×6)
 - Purity → purity (×6)
 - Saints → saints (×6)
 - Sentence → sentence (×6)
+- Strength → strength (×6)
 - Tongue → tongue (×6)
 - Virtue → virtue (×6)
-- Whether → whether (×6)
+- What → what (×6)
 - Young → young (×6)
+- Author → author (×5)
 - Body → body (×5)
 - Bribe → bribe (×5)
 - Bribery → bribery (×5)
@@ -1060,18 +1023,18 @@
 - Darkness → darkness (×5)
 - Degree → degree (×5)
 - Duty → duty (×5)
-- Endeavours → endeavours (×5)
 - Ends → ends (×5)
 - Error → error (×5)
 - Homage → homage (×5)
 - Infamy → infamy (×5)
+- Insufficiency → insufficiency (×5)
 - It → it (×5)
 - Knowledge → knowledge (×5)
 - Laws → laws (×5)
 - Light → light (×5)
-- Nature → nature (×5)
 - Ordained → ordained (×5)
 - Patron → patron (×5)
+- Prayer → prayer (×5)
 - Predicament → predicament (×5)
 - Principle → principle (×5)
 - Purpose → purpose (×5)
@@ -1082,12 +1045,12 @@
 - Soul → soul (×5)
 - Spirit → spirit (×5)
 - Steward → steward (×5)
-- Strength → strength (×5)
 - Theft → theft (×5)
 - Thing → thing (×5)
 - Tongues → tongues (×5)
 - Voice → voice (×5)
 - War → war (×5)
+- Whether → whether (×5)
 - Wrath → wrath (×5)
 - Abettors → abettors (×4)
 - Abilities → abilities (×4)
@@ -1095,7 +1058,6 @@
 - Administer → administer (×4)
 - Agents → agents (×4)
 - Answer → answer (×4)
-- Author → author (×4)
 - Blessings → blessings (×4)
 - Bonds → bonds (×4)
 - Brethren → brethren (×4)
@@ -1106,6 +1068,7 @@
 - Consciences → consciences (×4)
 - Consider → consider (×4)
 - Danger → danger (×4)
+- Definition → definition (×4)
 - Desires → desires (×4)
 - Devotion → devotion (×4)
 - Dignity → dignity (×4)
@@ -1113,17 +1076,16 @@
 - Earth → earth (×4)
 - Employment → employment (×4)
 - Errors → errors (×4)
+- Evidences → evidences (×4)
 - Excommunication → excommunication (×4)
 - Fellowship → fellowship (×4)
 - Force → force (×4)
 - Friends → friends (×4)
 - Heads → heads (×4)
 - Hirelings → hirelings (×4)
-- Honour → honour (×4)
 - Inclinations → inclinations (×4)
 - Instinct → instinct (×4)
 - Institution → institution (×4)
-- Insufficiency → insufficiency (×4)
 - Love → love (×4)
 - Man's → man's (×4)
 - Merchants → merchants (×4)
@@ -1136,7 +1098,6 @@
 - Pastoral → pastoral (×4)
 - Places → places (×4)
 - Portion → portion (×4)
-- Prayer → prayer (×4)
 - Preach → preach (×4)
 - Preaching → preaching (×4)
 - Presentations → presentations (×4)
@@ -1150,6 +1111,7 @@
 - Rule → rule (×4)
 - Scandal → scandal (×4)
 - Sentiments → sentiments (×4)
+- Sincerity → sincerity (×4)
 - Solicitations → solicitations (×4)
 - Son → son (×4)
 - Stipend → stipend (×4)
@@ -1187,18 +1149,17 @@
 - Day → day (×3)
 - Dealing → dealing (×3)
 - Deposed → deposed (×3)
-- Discipline → discipline (×3)
 - Doves → doves (×3)
 - Edification → edification (×3)
 - Elected → elected (×3)
 - Enemies → enemies (×3)
 - Enquiry → enquiry (×3)
 - Episcopus → episcopus (×3)
-- Evidences → evidences (×3)
 - Evil → evil (×3)
 - Execution → execution (×3)
 - Fortune → fortune (×3)
 - Giver → giver (×3)
+- Helps → helps (×3)
 - Heresy → heresy (×3)
 - Houses → houses (×3)
 - If → if (×3)
@@ -1248,14 +1209,13 @@
 - Servant → servant (×3)
 - Servants → servants (×3)
 - Simonia → simonia (×3)
-- Simoniacks → simoniacks (×3)
-- Sincerity → sincerity (×3)
 - Sinful → sinful (×3)
 - Snare → snare (×3)
 - Subject → subject (×3)
 - Testimony → testimony (×3)
 - Text → text (×3)
 - Thought → thought (×3)
+- Titles → titles (×3)
 - To → to (×3)
 - Warrant → warrant (×3)
 - Works → works (×3)
@@ -1303,11 +1263,11 @@
 - Dear → dear (×2)
 - Death → death (×2)
 - Decrees → decrees (×2)
-- Definition → definition (×2)
 - Deformities → deformities (×2)
 - Den → den (×2)
 - Deposition → deposition (×2)
 - Disciple → disciple (×2)
+- Discipline → discipline (×2)
 - Diseases → diseases (×2)
 - Dunghill → dunghill (×2)
 - Ease → ease (×2)
@@ -1325,7 +1285,6 @@
 - Fact → fact (×2)
 - Father → father (×2)
 - Father's → father's (×2)
-- Fervour → fervour (×2)
 - Finally → finally (×2)
 - Flesh → flesh (×2)
 - Folly → folly (×2)
@@ -1337,8 +1296,8 @@
 - Government → government (×2)
 - Guilty → guilty (×2)
 - Hatred → hatred (×2)
+- He → he (×2)
 - Head → head (×2)
-- Helps → helps (×2)
 - Her → her (×2)
 - Heresies → heresies (×2)
 - Hierarchy → hierarchy (×2)
@@ -1350,11 +1309,10 @@
 - Increase → increase (×2)
 - Industry → industry (×2)
 - Influence → influence (×2)
+- Intentions → intentions (×2)
 - Is → is (×2)
 - Keys → keys (×2)
 - Kingdom → kingdom (×2)
-- Labourers → labourers (×2)
-- Lay → lay (×2)
 - License → license (×2)
 - Lingua → lingua (×2)
 - Livelihood → livelihood (×2)
@@ -1370,7 +1328,6 @@
 - Ministry → ministry (×2)
 - Miracles → miracles (×2)
 - Monk → monk (×2)
-- Not → not (×2)
 - Oath → oath (×2)
 - Obedience → obedience (×2)
 - Obligation → obligation (×2)
@@ -1411,7 +1368,6 @@
 - Relation → relation (×2)
 - Relatives → relatives (×2)
 - Reprobate → reprobate (×2)
-- Resolution → resolution (×2)
 - Robber → robber (×2)
 - Sacrilegious → sacrilegious (×2)
 - Sacros → sacros (×2)
@@ -1458,8 +1414,8 @@
 - Warfare → warfare (×2)
 - Warning → warning (×2)
 - Way → way (×2)
+- Weakness → weakness (×2)
 - Wealth → wealth (×2)
-- Who → who (×2)
 - Wicked → wicked (×2)
 - Wisdom → wisdom (×2)
 - Woe → woe (×2)
@@ -1493,12 +1449,12 @@
 - Ambitious → ambitious
 - Anathematizetur → anathematizetur
 - Anatomize → anatomize
+- And → and
 - Angels → angels
 - Animalia → animalia
 - Another → another
 - Anti → anti
 - Antiquity → antiquity
-- Apostle's → apostle's
 - Apostolical → apostolical
 - Applause → applause
 - Argument → argument
@@ -1592,7 +1548,6 @@
 - Cords → cords
 - Corn → corn
 - Corruptions → corruptions
-- Counsellors → counsellors
 - Courses → courses
 - Criminis → criminis
 - Crown → crown
@@ -1649,7 +1604,6 @@
 - Elections → elections
 - Emanations → emanations
 - Enacted → enacted
-- Endeavour → endeavour
 - Endowments → endowments
 - Ensamples → ensamples
 - Envy → envy
@@ -1698,7 +1652,6 @@
 - Fruit → fruit
 - Fur → fur
 - General → general
-- Give → give
 - Giving → giving
 - Glossers → glossers
 - Gods → gods
@@ -1715,7 +1668,6 @@
 - Hardships → hardships
 - Harmony → harmony
 - Having → having
-- He → he
 - Healing → healing
 - Heaps → heaps
 - Heavens → heavens
@@ -1729,7 +1681,6 @@
 - Household → household
 - Humiliation → humiliation
 - Humility → humility
-- Humours → humours
 - Hypocrisy → hypocrisy
 - Immoveable → immoveable
 - Impiety → impiety
@@ -1741,6 +1692,7 @@
 - Increpation → increpation
 - Incumbent → incumbent
 - Indiscretion → indiscretion
+- Inducements → inducements
 - Infamous → infamous
 - Infirmities → infirmities
 - Information → information
@@ -1751,7 +1703,6 @@
 - Insinuations → insinuations
 - Inspiration → inspiration
 - Insufficient → insufficient
-- Intentions → intentions
 - Internal → internal
 - Interposers → interposers
 - Interpretation → interpretation
@@ -1763,10 +1714,8 @@
 - Kinds → kinds
 - King's → king's
 - Kinsman → kinsman
-- Labour → labour
-- Labourer → labourer
-- Labours → labours
 - Ladder → ladder
+- Lay → lay
 - Learning → learning
 - Leaven → leaven
 - Leprosy → leprosy
@@ -1828,7 +1777,7 @@
 - Nettles → nettles
 - Nicety → nicety
 - Non → non
-- None → none
+- Not → not
 - Note → note
 - Notice → notice
 - Oblations → oblations
@@ -1863,8 +1812,6 @@
 - Patronatus → patronatus
 - Patronizing → patronizing
 - Peace → peace
-- Pedler → pedler
-- Pedlers → pedlers
 - Pens → pens
 - Performance → performance
 - Performances → performances
@@ -1931,6 +1878,7 @@
 - Rescue → rescue
 - Resentments → resentments
 - Reservation → reservation
+- Resolution → resolution
 - Respect → respect
 - Respects → respects
 - Returns → returns
@@ -1956,7 +1904,6 @@
 - Sanctions → sanctions
 - Sanctity → sanctity
 - Satisfaction → satisfaction
-- Satyr → satyr
 - Scandals → scandals
 - School → school
 - Schools → schools
@@ -1979,7 +1926,6 @@
 - Simoniacally → simoniacally
 - Simoniacam → simoniacam
 - Simoniacis → simoniacis
-- Simoniack → simoniack
 - Simoniae → simoniae
 - Simple → simple
 - Sinner → sinner
@@ -2034,8 +1980,10 @@
 - Testimonies → testimonies
 - Texts → texts
 - Thanks → thanks
+- Their → their
 - Theology → theology
 - There → there
+- Therefore → therefore
 - Thirty → thirty
 - This → this
 - Thoughts → thoughts
@@ -2075,8 +2023,6 @@
 - Watchman → watchman
 - Watchmen → watchmen
 - Water → water
-- We → we
-- Weakness → weakness
 - Weapons → weapons
 - Wedge → wedge
 - Weight → weight
@@ -2105,24 +2051,26 @@
 
 - Ministery → ministry (×57)
 - whilst → while (×31)
+- Matth → Matt (×16)
 - condemn'd → condemned (×16)
-- Matth → Matt (×15)
+- Favour → favor (×15)
 - Maintainance → maintenance (×14)
+- Saviour → Savior (×13)
+- whosoever → whoever (×13)
 - incurr'd → incurred (×12)
-- whosoever → whoever (×12)
 - amongst → among (×11)
-- Saviour → Savior (×10)
-- Favour → favor (×9)
+- Endeavours → endeavors (×10)
 - Paction → pact (×9)
 - Wherefore → Therefore (×9)
-- Labours → labors (×6)
+- Honour → honor (×8)
+- Labours → labors (×7)
+- Endeavour → endeavor (×6)
 - call'd → called (×6)
-- Endeavour → endeavor (×5)
-- Endeavours → endeavors (×5)
 - lyable → liable (×5)
 - showed → shown (×5)
 - Call'd → called (×4)
-- Honour → honor (×4)
+- Labourers → laborers (×4)
+- Simoniacks → simoniacs (×4)
 - Simonical → simoniacal (×4)
 - design'd → designed (×4)
 - hainousness → heinousness (×4)
@@ -2131,8 +2079,11 @@
 - Antients → ancients (×3)
 - Catholick → catholic (×3)
 - Ecclesiastick → ecclesiastical (×3)
+- Fervour → fervor (×3)
 - Governours → governors (×3)
+- Labourer → laborer (×3)
 - Levit → Lev (×3)
+- Ministeries → ministries (×3)
 - Numb → Num (×3)
 - Ordain'd → ordained (×3)
 - Propriety → property (×3)
@@ -2142,17 +2093,18 @@
 - Whosoever → Whoever (×3)
 - abhorrency → abhorrence (×3)
 - acquir'd → acquired (×3)
+- offer'd → offered (×3)
 - Burthen → burden (×2)
 - Falshood → falsehood (×2)
+- Humours → humors (×2)
 - Intreaties → entreaties (×2)
-- Labourer → laborer (×2)
-- Labourers → laborers (×2)
-- Ministeries → ministries (×2)
 - Offence → offense (×2)
+- Pedlers → peddlers (×2)
 - Simoniac → simoniace (×2)
 - bewrays → betrays (×2)
 - burthen → burden (×2)
 - conferr'd → conferred (×2)
+- contain'd → contained (×2)
 - defin'd → defined (×2)
 - depriv'd → deprived (×2)
 - deriv'd → derived (×2)
@@ -2162,7 +2114,6 @@
 - loathsom → loathsome (×2)
 - mention'd → mentioned (×2)
 - murthering → murdering (×2)
-- offer'd → offered (×2)
 - possess'd → possessed (×2)
 - practise → practice (×2)
 - practised → practiced (×2)
@@ -2171,12 +2122,15 @@
 - stigmatiz'd → stigmatized (×2)
 - use → uses (×2)
 - wouldst → would (×2)
+- 1 → 1.
 - Accessaries → accessories
 - Advanc'd → advanced
 - All → (All
 - Ambassadours → ambassadors
 - Anathematiz'd → anathematized
 - Antient → ancient
+- Apollo → Apollos
+- Apostle's → apostles'
 - Apostles → apostles'
 - Appointment → appointment)
 - Bishoprick → bishopric
@@ -2188,8 +2142,11 @@
 - Colours → colors
 - Complement → compliment
 - Complices → accomplices
+- Compost → Compost.
 - Counsellor → counselor
+- Counsellors → counselors
 - Countrey's → country's
+- Decret → Decret.
 - Dipensing → dispensing
 - Ecclesiasticks → ecclesiastics
 - Effect → effect)
@@ -2197,20 +2154,19 @@
 - Favour → (Favor
 - Favourite → favorite
 - Favourites → favorites
-- Fervour → fervor
 - God → God)
 - Gothick → Gothic
 - Herauld → herald
 - Heretick → heretic
 - Horrour → horror
 - Humane → human
-- Humours → humors
 - Inconveniencies → inconveniences
 - Indebitae → Indebita
 - Instrustrument → instrument
 - Intercessour → intercessor
 - Jerom → Jerome
 - Jews → Jews'
+- Labour → labor
 - Maintainances → maintenance
 - Malachy → Malachi
 - Mechanick → mechanic
@@ -2223,7 +2179,7 @@
 - Oeconomy → economy
 - Offences → offenses
 - Passuge → passage
-- Pedlers → pedlars
+- Pedler → peddler
 - Peoples → people's
 - Philip → Phil
 - Philipp → Phil
@@ -2235,9 +2191,10 @@
 - Reordain → re-ordain
 - Rhemes → Rheims
 - Sacriledge → sacrilege
+- Satyr → satire
 - Servants → servants'
 - Shouldst → Should
-- Simoniacks → Simoniacs
+- Simoniack → simoniac
 - Simony → simony)
 - Steven → Stephen
 - Suare → snare
@@ -2262,16 +2219,17 @@
 - cenatu → conatu
 - charg'd → charged
 - clesiasticum → ecclesiasticum
+- condemn → condemns
 - conjoin'd → conjoined
 - consentedst → consented
 - consider'd → considered
 - conspir'd → conspired
 - consum → consume
-- contain'd → contained
 - convey'd → conveyed
 - coud → could
 - croking → croaking
 - cry'd → cried
+- days → days'
 - decree'd → decreed
 - destin'd → destined
 - divers → diverse
@@ -2294,6 +2252,7 @@
 - gain'd → gained
 - griev'd → grieved
 - hainously → heinously
+- harboured → harbored
 - hearkned → hearkened
 - imploy'd → employed
 - inable → enable
@@ -2358,4 +2317,5 @@
 - whatsoever → whatever
 - whomsoever → whomever
 - woful → woeful
+- worthy → worthy,
 

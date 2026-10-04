@@ -4,6 +4,14 @@
 Charles Brome, 1700), EEBO-TCP `A25330`, with a modern foreword and an
 abbreviations guide.
 
+## Corrections to the 1700 text
+
+Besides spelling and punctuation, the edition corrects two slips of the
+author's: chapter 2 has "John the Seer" for the seer who rebuked
+Jehoshaphat (2 Chron 19:2), now "Jehu the Seer", and "Apollo" for Apollos
+(Acts 18:24-27). The end of chapter 6, lost from the earlier edition, is
+restored from the 1700 printing.
+
 ## Layout
 
 | Path | What it is |
