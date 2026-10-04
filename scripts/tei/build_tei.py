@@ -2586,8 +2586,11 @@ def restructure(splits, log):
             outer = b.parent.parent.children
             j = next(i for i, c in enumerate(outer) if c is b.parent)
             prev = next((c for c in reversed(outer[:j]) if c.kind == "container"), None)
-        if prev is not None and local(prev.el) == "opener":
-            prev = next((c for c in reversed(prev.children) if c.kind == "container"), prev)
+        if prev is not None and local(prev.el) in ("opener", "sp"):
+            # a speech's last paragraph (CCEL can end a speech mid-sentence
+            # and carry the rest on in a plain paragraph after it)
+            prev = next((c for c in reversed(prev.children) if c.kind == "container"
+                         and (local(prev.el) != "sp" or local(c.el) == "p")), prev)
         into_item = False
         if prev is not None and local(prev.el) == "list" and prev.el.get("rend") != "inline":
             # runs on into the list's last item: it moves into that item,

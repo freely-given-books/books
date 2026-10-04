@@ -1,6 +1,6 @@
 == THE THIRD STAGE
 
-The Interpreter then called for a man-servant of his, one Great-heart, and bid him take A sword, and helmet, and shield; and, Take these my daughters, said he, conduct them to the house called Beautiful, at which place they will rest next. So he took his weapons, and went before them; and the Interpreter said, God speed. Those also that belonged to the family, sent them away with many a good wish. So they went on their way, and sang,
+The Interpreter then called for a man-servant of his, one Great-heart, and bid him take a sword, and helmet, and shield; and, Take these my daughters, said he, conduct them to the house called Beautiful, at which place they will rest next. So he took his weapons, and went before them; and the Interpreter said, God speed. Those also that belonged to the family, sent them away with many a good wish. So they went on their way, and sang,
 
 #quote[This place hath been our second stage: \
 Here we have heard, and seen \
@@ -56,7 +56,7 @@ Mr. Great-Heart: You speak now in the warmth of your affections; will it, think 
 
 Now I saw in my dream, that they went on until they were come to the place that Simple, and Sloth, and Presumption, lay and slept in when Christian went by on pilgrimage: and behold, they were hanged up in irons a little way off on the other side.
 
-Mercy: Then said Mercy to him that was their guide and conductor, what are these three men; and for what are they hanged there?
+Mercy: Then said Mercy to him that was their guide and conductor, What are these three men; and for what are they hanged there?
 
 Mr. Great-Heart: These three men were men of very bad qualities; they had no mind to be pilgrims themselves, and whomsoever they could, they hindered. They were sloth and folly themselves, and whomsoever they could persuade they made so too, and withal taught them to presume that they should do well at last. They were asleep when Christian went by; and now you go by, they are hanged.
 
@@ -95,6 +95,6 @@ When they were come to the arbor, they were very willing to sit down, for they w
 
 Then said Mr. Great-Heart to the little ones, Come, my pretty boys, how do you do? What think you now of going on pilgrimage? Sir, said the least, I was almost beat out of heart; but I thank you for lending me a hand at my need. And I remember now what my mother hath told me, namely, that the way to heaven is as a ladder, and the way to hell is as down a hill. But I had rather go up the ladder to life, than down the hill to death.
 
-Then said Mercy, But the proverb is, “To go down the hill is easy.” But James said, (for that was his name,) The day is coming when, in my opinion, when going down the hill will be the hardest of all. ’Tis a good boy, said his master; thou hast given her a right answer. Then Mercy smiled, but the little boy did blush.
+Then said Mercy, But the proverb is, “To go down the hill is easy.” But James said, (for that was his name,) The day is coming when, in my opinion, going down the hill will be the hardest of all. ’Tis a good boy, said his master; thou hast given her a right answer. Then Mercy smiled, but the little boy did blush.
 
 Christiana: Come, said Christiana, will you eat a bit to sweeten your mouths, while you sit here to rest your legs? for I have here a piece of pomegranate which Mr. Interpreter put into my hand just when I came out of his door; he gave me also a piece of an honeycomb, and a little bottle of spirits. I thought he gave you something, said Mercy, because he called you aside. Yes, so he did, said the other; but, said Christiana, it shall be still as I said it should, when at first we came from home; thou shalt be a sharer in all the good that I have, because thou so willingly didst become my companion. Then she gave to them, and they did eat, both Mercy and the boys. And said Christiana to Mr. Great-Heart, Sir, will you do as we? But he answered, You are going on pilgrimage, and presently I shall return; much good may what you have do you: at home I eat the same every day.

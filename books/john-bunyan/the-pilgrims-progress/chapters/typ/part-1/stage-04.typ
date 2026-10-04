@@ -27,7 +27,7 @@ Christian: But I have let myself to another, even to the King of princes; and ho
 
 Apollyon: Thou hast done in this according to the proverb, “changed a bad for a worse;” but it is ordinary for those that have professed themselves his servants, after a while to give him the slip, and return again to me. Do thou so too, and all shall be well.
 
-Christian: I have given him my faith, and sworn my allegiance to him; how then can I go back from this, and not be hanged as a traitor.
+Christian: I have given him my faith, and sworn my allegiance to him; how then can I go back from this, and not be hanged as a traitor?
 
 Apollyon: Thou didst the same by me, and yet I am willing to pass by all, if now thou wilt yet turn again and go back.
 
@@ -74,7 +74,7 @@ Now at the end of this valley was another, called the Valley of the Shadow of De
 
 Now here Christian was worse put to it than in his fight with Apollyon, as by the sequel you shall see.
 
-I saw then in my dream, that when Christian was got to the borders of the Shadow of Death, there met him two men, children of them that brought up an evil report of the good land Num.13:32, making haste to go back; to whom Christian spake as follows.
+I saw then in my dream, that when Christian was got to the borders of the Shadow of Death, there met him two men, children of them that brought up an evil report of the good land, Num. 13:32, making haste to go back; to whom Christian spake as follows.
 
 Christian: Whither are you going?
 
@@ -120,7 +120,7 @@ So he went on, and called to him that was before; but he knew not what to answer
 
 Now morning being come, he looked back, not out of desire to return, but to see, by the light of the day, what hazards he had gone through in the dark. So he saw more perfectly the ditch that was on the one hand, and the quag that was on the other; also how narrow the way was which led betwixt them both. Also now he saw the hobgoblins, and satyrs, and dragons of the pit, but all afar off; for after break of day they came not nigh; yet they were discovered to him, according to that which is written, “He discovereth deep things out of darkness, and bringeth out to light the shadow of death.” Job 12:22.
 
-Now was Christian much affected with this deliverance from all the dangers of his solitary way; which dangers, though he feared them much before, yet he saw them more clearly now, because the light of the day made them conspicuous to him. And about this time the sun was rising, and this was another mercy to Christian; for you must note, that though the first part of the Valley of the Shadow of Death was dangerous, yet this second part, which he was yet to go, was, if possible, far more dangerous; for, from the place where he now stood, even to the end of the valley, the way was all along set so full of snares, traps, gins, and nets here, and so full of pits, pitfalls, deep holes, and shelvings-down there, that had it now been dark, as it was when he came the first part of the way, had he had a thousand souls, they had in reason been cast away; but, as I said, just now the sun was rising. Then said he, “His Candle shineth on my head, and by his light I go through darkness.” Job 29:3.
+Now was Christian much affected with this deliverance from all the dangers of his solitary way; which dangers, though he feared them much before, yet he saw them more clearly now, because the light of the day made them conspicuous to him. And about this time the sun was rising, and this was another mercy to Christian; for you must note, that though the first part of the Valley of the Shadow of Death was dangerous, yet this second part, which he was yet to go, was, if possible, far more dangerous; for, from the place where he now stood, even to the end of the valley, the way was all along set so full of snares, traps, gins, and nets here, and so full of pits, pitfalls, deep holes, and shelvings-down there, that had it now been dark, as it was when he came the first part of the way, had he had a thousand souls, they had in reason been cast away; but, as I said, just now the sun was rising. Then said he, “His candle shineth on my head, and by his light I go through darkness.” Job 29:3.
 
 In this light, therefore, he came to the end of the valley. Now I saw in my dream, that at the end of the valley lay blood, bones, ashes, and mangled bodies of men, even of pilgrims that had gone this way formerly; and while I was musing what should be the reason, I espied a little before me a cave, where two giants, Pope and Pagan, dwelt in old times; by whose power and tyranny the men whose bones, blood, ashes, etc., lay there, were cruelly put to death. But by this place Christian went without much danger, whereat I somewhat wondered; but I have learnt since, that Pagan has been dead many a day; and as for the other, though he be yet alive, he is, by reason of age, and also of the many shrewd brushes that he met with in his younger days, grown so crazy and stiff in his joints that he can now do little more than sit in his cave’s mouth, grinning at pilgrims as they go by, and biting his nails because he cannot come at them.
 
