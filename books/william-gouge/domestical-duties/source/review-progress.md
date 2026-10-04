@@ -4,7 +4,7 @@ The four overnight volume branches are merged here; their notes are in
 review-progress-vol-1..4.md (questions drafted there go into the final report).
 
 ## Read so far
-- vol-1: dedication, 01-07 (overnight). NEXT: 08-12.
+- vol-1: ALL READ (08-12 read and fixed 2026-10-03).
 - vol-2: parallel, 01-12 (overnight). NEXT: 13-18.
 - vol-3: ALL READ (06 rest, 07-10 read and fixed 2026-10-03).
 - vol-4: all read; fix list applied (checked 2026-10-03).
@@ -38,3 +38,10 @@ review-progress-vol-1..4.md (questions drafted there go into the final report).
   "for"), leaven (print "heauen", Mat 13:33), mere titular, Latin restored where the machine
   modernized it (parentes x2, partes, Senecae), Latin misprints (filios, castigandum, si nulla,
   adunci sunt, iam, adultam, matrimonio, iuventutis, fornicandi, eorum, Leonidis, adhuc, etc.).
+- vol-1 08-12 fixes: EPHES. 5. 29 (epigraph printed 6. 29), love (Jove), hate us (print "have"),
+  Christs body (print "Christ"), scion x2, chariots, Ahasuerus x4, Michal, rather, emphatical,
+  according (print "cording"), just excuse, Patriarchs, carry, he requireth, hatred (hatted),
+  ill-favoured, forsaken, hills, solder, line of our reason (print "last"), Joh. for Iob. x4
+  (John 9:3, 9:4 x2, 7:30), 1 King. 13. 24 (13. 14 printed), Isa. 57. 1 (17. 1), Judg. 9. 56,
+  Psalm 128 (print "28"), afar off, epigraph Eph 6:3 inner emph removed ("mayest"),
+  Answ. italic x3, Naomi, carrion, toil, inheritance, altered, Vatabl., scarce entereth.

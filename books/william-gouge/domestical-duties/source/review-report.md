@@ -2,18 +2,18 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1049 |
-| emendation | 171 |
-| grammar | 135 |
-| punctuation | 102 |
-| case | 61 |
-| spacing | 24 |
-| italic | 22 |
+| spelling | 1136 |
+| emendation | 194 |
+| grammar | 145 |
+| punctuation | 118 |
+| case | 68 |
+| italic | 26 |
+| spacing | 25 |
 | expansion | 22 |
 | gap | 19 |
 | split | 6 |
 | list | 4 |
-| note moved | 2 |
+| note moved | 3 |
 | note | 1 |
 | skipped | 1 |
 
@@ -116,7 +116,30 @@
 - [vol-1/07-marital-love-and-self-love.typ] wisestmen → wisest men
 - [vol-1/07-marital-love-and-self-love.typ] I doll → Idol
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] In couragement → Encouragement
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] 210 → 2
+- [vol-1/08-christs-union-with-his-beloved-body.typ] 6 → 5
+- [vol-1/08-christs-union-with-his-beloved-body.typ] in humanely → inhumanely
+- [vol-1/08-christs-union-with-his-beloved-body.typ] Ahash - verosh → Ahasuerus
+- [vol-1/08-christs-union-with-his-beloved-body.typ] conueigh → convey
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] herequireth → he requireth
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] for saken → forsaken
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ note] last → line
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ note] ac . cusamur → accusamur
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] on to → unto
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] goodlessons → good lessons
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] Longlife → Long life
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 14 → 24
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 17 → 57
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] 5 6 → 56
+- [vol-1/11-the-childs-duties-to-his-parents.typ] at → as
+- [vol-1/11-the-childs-duties-to-his-parents.typ] 28 → 128
+- [vol-1/11-the-childs-duties-to-his-parents.typ] in heritance → inheritance
 - [vol-2/01-seeking-marriage.typ note] Sivis → Si vis
 - [vol-2/01-seeking-marriage.typ] saidto → said to
 - [vol-2/01-seeking-marriage.typ] Apostlereckoneth → Apostle reckoneth
@@ -264,13 +287,15 @@
 - deserueth → deserveth (×5)
 - inioyneth → enjoineth (×5)
 - aduiseth → adviseth (×4)
+- obserueth → observeth (×4)
+- quickneth → quickeneth (×4)
 - commiteth → committeth (×3)
-- obserueth → observeth (×3)
 - prefereth → preferreth (×3)
 - stireth → stirreth (×3)
 - admiteth → admitteth (×2)
 - aduanceth → advanceth (×2)
 - confereth → conferreth (×2)
+- entreth → entereth (×2)
 - hoordeth → hoardeth (×2)
 - refereth → referreth (×2)
 - reserueth → reserveth (×2)
@@ -292,7 +317,8 @@
 - cryeth → crieth
 - decaieth → decayeth
 - diddest → didst
-- entreth → entereth
+- exprest → expressed
+- fetteth → setteth
 - forgeteth → forgetteth
 - indevoureth → endeavoureth
 - marieth → marrieth
@@ -304,6 +330,8 @@
 - seareheth → searcheth
 - shuteth → shutteth
 - tyeth → tieth
+- wandreth → wandereth
+- watreth → watereth
 
 ## punctuation
 
@@ -325,6 +353,22 @@
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ] , → .
 - [vol-1/07-marital-love-and-self-love.typ] , → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → ,
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → . 10.
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] : → .
+- [vol-1/08-christs-union-with-his-beloved-body.typ] § → §.
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ] . → .)
+- [vol-1/11-the-childs-duties-to-his-parents.typ] * → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] . → 
+- [vol-1/12-the-parents-duty-towards-their-children.typ] § → §.
 - [vol-2/01-seeking-marriage.typ] . → 
 - [vol-2/01-seeking-marriage.typ] . → 
 - [vol-2/02-getting-married.typ note] . → 
@@ -415,6 +459,7 @@
 - children → Children (×8)
 - And → and (×3)
 - To → to (×3)
+- love → Love (×3)
 - servants → Servants (×3)
 - IN → In (×2)
 - Or → or (×2)
@@ -425,6 +470,7 @@
 - note → Note (×2)
 - son → Son (×2)
 - subjection → Subjection (×2)
+- the → The (×2)
 - Because → because
 - But → but
 - Declare → declare
@@ -435,20 +481,22 @@
 - Sin → sin
 - THE → The
 - TO → To
+- Their → their
 - Told → told
 - Vers → vers
 - child → Child
 - example → Example
 - honour → Honour
 - husbands → Husbands
-- love → Love
 - man → Man
 - masters → Masters
 - men → Men
 - mothers → Mothers
+- parents → Parents
 - persons → Persons
 - place → Place
 - rule → Rule
+- their → Their
 - things → THINGS
 - wives → Wives
 
@@ -459,19 +507,21 @@
 - sharpe → sharp (×16)
 - 3 → 3. (×12)
 - Angell → Angel (×11)
+- 4 → 4. (×9)
 - Iam → Jam (×9)
 - president → precedent (×9)
-- 4 → 4. (×8)
 - Reu → Rev (×8)
+- 2 → 2. (×7)
+- 11 → 11. (×6)
 - marvell → marvel (×6)
-- 2 → 2. (×5)
+- Job → Joh (×5)
 - Treat → Treat. (×5)
 - Uers → Vers (×5)
 - brooke → brook (×5)
 - hinderances → hindrances (×5)
 - thorow → through (×5)
 - woful → woeful (×5)
-- 11 → 11. (×4)
+- 1 → 1. (×4)
 - Friers → Friars (×4)
 - Gen → Gen. (×4)
 - hainousness → heinousness (×4)
@@ -479,9 +529,10 @@
 - pitty → pity (×4)
 - ravisht → ravished (×4)
 - thorow → thorough (×4)
-- 1 → 1. (×3)
 - 12 → 12. (×3)
+- 24 → 24. (×3)
 - Absoloms → Absaloms (×3)
+- Joh → Joh. (×3)
 - at → that (×3)
 - childes → childs (×3)
 - cleering → clearing (×3)
@@ -499,30 +550,40 @@
 - steed → stead (×3)
 - stolne → stolen (×3)
 - tenn → ten (×3)
+- toile → toil (×3)
 - unsetled → unsettled (×3)
 - wearisomness → wearisomeness (×3)
 - 10 → 10. (×2)
+- 13 → 13. (×2)
+- 14 → 14. (×2)
 - 19 → 19. (×2)
 - 21 → 21. (×2)
-- 24 → 24. (×2)
+- 6 → 6. (×2)
 - Adoniah → Adonijah (×2)
 - Apostolicall → Apostolical (×2)
+- Assise → Assize (×2)
 - Cer → Cor (×2)
 - Cosen → Cousin (×2)
 - Cucco → Cuckoo (×2)
 - Elizabet → Elizabeth (×2)
 - Ely → Eli (×2)
+- Epb → Eph (×2)
 - Galile → Galilee (×2)
 - Jorden → Jordan (×2)
+- Jove → love (×2)
 - Mat → Mat. (×2)
 - Pet → Pet. (×2)
 - Pilats → Pilates (×2)
 - Psal → Psal. (×2)
+- Rom → Rom. (×2)
 - Sam → Sam. (×2)
+- Thes → Thes. (×2)
+- Vashties → Vashtis (×2)
 - Vashty → Vashti (×2)
 - allaied → allayed (×2)
 - backt → backed (×2)
 - ballance → balance (×2)
+- barre → bar (×2)
 - battels → battles (×2)
 - bear → bare (×2)
 - beggd → begged (×2)
@@ -530,6 +591,8 @@
 - borne → -born (×2)
 - bruit → brute (×2)
 - burthensome → burdensome (×2)
+- cary → carry (×2)
+- cloathing → clothing (×2)
 - conceipt → conceit (×2)
 - corasive → corrosive (×2)
 - cosins → cousins (×2)
@@ -548,6 +611,8 @@
 - hearkned → hearkened (×2)
 - hearkning → hearkening (×2)
 - his → this (×2)
+- hony → honey (×2)
+- hooke → hook (×2)
 - horne → horn (×2)
 - houswife → housewife (×2)
 - ideots → idiots (×2)
@@ -556,20 +621,24 @@
 - inabled → enabled (×2)
 - inlightned → enlightened (×2)
 - intreaty → entreaty (×2)
+- irkesome → irksome (×2)
 - jealously → jealousy (×2)
 - joynter → jointure (×2)
 - kitchin → kitchen (×2)
 - left → lest (×2)
 - lillies → lilies (×2)
+- maist → mayest (×2)
 - meaness → meanness (×2)
 - ministery → ministry (×2)
 - miscariage → miscarriage (×2)
 - mony → money (×2)
 - morter → mortar (×2)
+- orthodoxall → orthodoxal (×2)
 - otherwaies → otherways (×2)
 - out → but (×2)
 - parents → parentes (×2)
 - patheticall → pathetical (×2)
+- peece → piece (×2)
 - peruersness → perverseness (×2)
 - pilfring → pilfering (×2)
 - pittifull → pitiful (×2)
@@ -578,10 +647,12 @@
 - reprooving → reproving (×2)
 - sant → sunt (×2)
 - sawciness → sauciness (×2)
+- science → scion (×2)
 - sory → sorry (×2)
+- stile → style (×2)
+- stomacks → stomachs (×2)
 - tenour → tenor (×2)
 - the → he (×2)
-- toile → toil (×2)
 - townes → towns (×2)
 - unfained → unfeigned (×2)
 - unfainedly → unfeignedly (×2)
@@ -590,27 +661,28 @@
 - wils → wills (×2)
 - wines → wives (×2)
 - yoak → yoke (×2)
-- 13 → 13.
 - 18 → 18.
 - 18 → 18.)
 - 20 → 20.
 - 23 → 23.
 - 24 → 24,
+- 28 → 28.
 - 32 → 32.
+- 37 → 37.
 - 38 → 38.
 - 50 → 50.
 - 53 → 53.
-- 6 → 6.
+- 67 → 67.
 - 7 → 7.
 - 74 → 74.
 - 83 → 83.
 - A → As
 - Acqualen → Aequalem
+- Aenied → Aeneid
 - Ambassadour → Ambassador
 - Ammon → Amnon
 - Annahs → Hannahs
 - Apostat → Apostate
-- Assise → Assize
 - Baltbasare → Baltasare
 - Barthshebah → Bathsheba
 - Be → Bee
@@ -626,6 +698,7 @@
 - Canaanits → Canaanites
 - Cant → Cant.
 - Centurian → Centurion
+- Christ → Christs
 - Chro → Chro.
 - Chrys → Chrys.
 - Clearks → Clerks
@@ -640,8 +713,8 @@
 - Deul → Deut
 - Devillish → Devilish
 - Eliah → Elijah
+- Emphacicall → emphatical
 - Eor → Cor
-- Epb → Eph
 - Ephef → Ephes
 - Euscb → Euseb
 - Exhòrtation → Exhortation
@@ -670,11 +743,8 @@
 - Jbin → Ibin
 - Jehosaphat → Jehoshaphat
 - Jess → Jesse
-- Job → Joh
-- Joh → Joh.
 - Jos → Jos.
 - Josuahs → Joshuas
-- Jove → love
 - Jsa → Isa
 - Justit → Instit
 - Leu → Lev
@@ -682,11 +752,15 @@
 - Lidia → Lydia
 - Manassch → Manasseh
 - Marvell → marvel
+- Micol → Michal
 - Midsommer → Midsummer
 - Nazaret → Nazareth
+- Noami → Naomi
 - Num → Num.
+- Ose → Ose.
 - Ouid → Ovid
 - Passeover → Passover
+- Patriarkes → Patriarchs
 - Pentecosle → Pentecoste
 - Pharohs → Pharaohs
 - Philosophen → Philosophers
@@ -695,8 +769,8 @@
 - Pro → Pro.
 - Professours → Professors
 - Prov → Prov.
+- Qust → Quest
 - Rebecha → Rebekah
-- Rom → Rom.
 - Ruben → Reuben
 - Rudely → Grudgingly
 - Sabboth → Sabbath
@@ -711,19 +785,18 @@
 - Sucton → Sueton
 - Taylors → Tailors
 - Then → When
-- Thes → Thes.
 - Tim → Tim.
 - Tit → Tit.
 - Trespassor → Trespasser
 - Tro → Pro
 - Uashty → Vashti
+- Uatabl → Vatabl
 - Uerendum → Verendum
 - Uirg → Virg
 - Uirginitas → Virginitas
 - Uiu → Viu
 - Uivem → Vivem
 - Unsetledly → Unsettledly
-- Vashties → Vashtis
 - Vers → Vers.
 - Virginea → Virginia
 - Wastfully → Wastefully
@@ -734,6 +807,7 @@
 - adbuc → adhuc
 - ae → a
 - aet → Laet
+- afarra → afar
 - affoorded → afforded
 - aide → aid
 - alleadge → allege
@@ -741,6 +815,7 @@
 - alleageance → allegiance
 - alleaging → alleging
 - allegeance → allegiance
+- altred → altered
 - and → an
 - annise → anise
 - another → mother
@@ -757,7 +832,6 @@
 - ballances → balances
 - baptiscth → baptizeth
 - bard → barred
-- barre → bar
 - bedred → bedrid
 - beevishness → peevishness
 - begger → beggar
@@ -783,11 +857,14 @@
 - bourd → bound
 - bredth → breadth
 - breutum → breuium
+- bruitish → brutish
 - bruits → brutes
+- burthens → burdens
 - busibodies → busybodies
 - c → c.
 - caling → calling
 - cam → eam
+- carion → carrion
 - carkase → carcass
 - case → ease
 - castigandun → castigandum
@@ -795,6 +872,7 @@
 - catholicke → catholic
 - cavear → caveat
 - ccuet → covet
+- charets → chariots
 - chastning → chastening
 - childings → chidings
 - chird → third
@@ -806,12 +884,12 @@
 - clementum → elementum
 - climing → climbing
 - cloath → clothe
-- cloathing → clothing
 - comprize → comprise
 - conscienc → conscience
 - conscience → consciences
 - continuali → continual
 - corasives → corrosives
+- cording → according
 - corps → corpse
 - corrupton → corruption
 - corum → eorum
@@ -827,6 +905,7 @@
 - daines → dames
 - daliance → dalliance
 - dampt → damped
+- danted → daunted
 - darkned → darkened
 - darkning → darkening
 - dearely → dearly
@@ -838,6 +917,7 @@
 - desperatly → desperately
 - despight → despite
 - differencies → differences
+- disanulled → disannulled
 - disdainefully → disdainfully
 - dispise → despise
 - dissention → dissension
@@ -858,14 +938,18 @@
 - errore → errare
 - even → event
 - expani → expavi
+- extermities → extremities
 - faith → saith
 - falshood → falsehood
 - faluation → salvation
 - farrc → far
 - fathfull → faithful
+- fauourèd → favoured
 - fearefulness → fearfulness
 - fearinglove → fearing-love
 - fewell → fuel
+- finisherh → finisheth
+- fist → fifth
 - fit → sit
 - foreness → soreness
 - forraine → foreign
@@ -882,25 +966,28 @@
 - geslure → gesture
 - glimps → glimpse
 - goshipping → gossiping
+- got → go
 - grienous → grievous
 - hainously → heinously
 - hastile → hasty
+- hatted → hatred
 - hauking → hawking
 - hausbands → husbands
+- have → hate
 - he → she
 - he → the
 - hearbs → herbs
 - heaven → leaven
 - heighnous → heinous
+- hereticke → heretic
 - hiderance → hindrance
+- hils → hills
 - himseife → himself
 - hind → mind
 - his → This
 - hoast → host
 - hoe → ho
-- hony → honey
 - hony → honeycomb
-- hooke → hook
 - hoord → hoard
 - hoorded → hoarded
 - housholders → householders
@@ -908,6 +995,7 @@
 - hudled → huddled
 - husband → husbands
 - huswifery → housewifery
+- hypostaticall → hypostatical
 - ideot → idiot
 - idolls → idols
 - imbalmed → embalmed
@@ -922,6 +1010,7 @@
 - indeavouring → endeavouring
 - indow → endow
 - inheretrix → inheritrix
+- inioying → enjoying
 - iniuslè → iniustè
 - iniustly → unjustly
 - insect → infect
@@ -941,7 +1030,6 @@
 - invenum → iuvenum
 - iom → iam
 - irkcsome → irksome
-- irkesome → irksome
 - irrationabilla → irrationabilia
 - its → it's
 - jaylor → jailor
@@ -976,6 +1064,7 @@
 - me → time
 - means → means:
 - meated → meted
+- meekely → meekly
 - meeknese → meekness
 - men → mens
 - mif → mis
@@ -994,7 +1083,6 @@
 - nutriend → nutriendi
 - obstinatly → obstinately
 - of → oft
-- orthodoxall → orthodoxal
 - ovaght → ought
 - overcomming → overcoming
 - overweene → overween
@@ -1007,9 +1095,11 @@
 - particualar → particular
 - parts → partes
 - passeover → passover
-- peece → piece
+- peeces → pieces
 - peele → peel
+- peny → penny
 - perfome → perform
+- perform → perform:
 - perserant → perferant
 - perswades → persuades
 - placcre → placere
@@ -1029,6 +1119,7 @@
 - poyson → poison
 - poysoned → poisoned
 - practife → practise
+- praeposition → preposition
 - praescriptun → praescriptum
 - praestitiss → praestitisse
 - prancke → prank
@@ -1041,6 +1132,7 @@
 - quast → quaest
 - qucm → quem
 - quiae → quia
+- rathet → rather
 - rebells → rebels
 - refractary → refractory
 - registred → registered
@@ -1054,11 +1146,14 @@
 - rhaine → main
 - rubrick → rubric
 - ruptias → nuptias
+- rust → just
 - sab → fab
 - sacriledge → sacrilege
 - saulation → salvation
 - savory → savoury
+- savours → favours
 - scarp → scrap
+- scars → scarce
 - schismatiques → schismatics
 - scoales → scales
 - scole → scale
@@ -1087,6 +1182,7 @@
 - siliorum → filiorum
 - silios → filios
 - skabbed → scabbed
+- soader → solder
 - soeminas → foeminas
 - sornicandi → fornicandi
 - soveraignty → sovereignty
@@ -1100,10 +1196,10 @@
 - spuing → spewing
 - sruendo → fruendo
 - stabilite → stability
+- staid → stayed
 - staied → stayed
+- stedfastness → steadfastness
 - steele → steel
-- stile → style
-- stomacks → stomachs
 - straitned → straitened
 - striken → stricken
 - strise → strife
@@ -1124,9 +1220,11 @@
 - thogh → though
 - threds → threads
 - tht → that
+- togethet → together
 - toyled → toiled
 - toyling → toiling
 - trayning → training
+- traytors → traitors
 - tribuium → tributum
 - tyrany → tyranny
 - tyring → tiring
@@ -1162,7 +1260,9 @@
 - withdrawen → withdrawn
 - wives → wives.
 - wondred → wondered
+- woodden → wooden
 - wordlings → worldlings
 - world → world.
+- yoakefellow → yokefellow
 - yron → iron
 
