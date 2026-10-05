@@ -59,6 +59,12 @@ GAP_FIXES = {}
 # Capitalized common nouns lowercased when not sentence-initial.
 LOWERCASE_COMMON_NOUNS = set()
 
+# The first word of an italic run of QUOTE_MIN_WORDS or more (a quotation:
+# "saith, Feed the Flock ...") keeps its printed capital under
+# LOWERCASE_COMMON_NOUNS; a shorter italic run (emphasis) is lowercased.
+QUOTE_START_CASE = False
+QUOTE_MIN_WORDS = 5
+
 # Notes shown under "Please check" at the top of the report.
 REPORT_NOTES = []
 
@@ -124,7 +130,7 @@ def load_tables(path):
     for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES",
                  "MODERNIZE_NOTES", "LATIN_RUNS", "DROP_FOREIGN_GAPS", "GAP_NOTES",
                  "EXPAND_ETC", "ITALIC_SENTENCE_QUIRK", "DROP_CAP_CASE",
-                 "MODERNIZE", "TYPOGRAPHY", "DASH", "AUTHOR"):
+                 "MODERNIZE", "TYPOGRAPHY", "DASH", "AUTHOR", "QUOTE_START_CASE"):
         if name in ns:
             g[name] = ns[name]
     # the book's own spellings, over the shared table (e.g. Gouge keeps
@@ -193,7 +199,7 @@ def word_strings(tok):
         tok.expanded = e.capitalize() if m.group(1) == "Y" else e
 
 
-def auto_reg(tok, sentence_start, heading=False):
+def auto_reg(tok, sentence_start, heading=False, quote_start=False):
     """Automatic modern spelling for one word of main text."""
     # long s and the hooked capital Ʋ (U/V) are letter forms, not spellings
     w = tok.expanded.replace("ſ", "s").replace("Ʋ", "U")
@@ -224,7 +230,7 @@ def auto_reg(tok, sentence_start, heading=False):
     if sentence_start:
         return mod[:1].upper() + mod[1:] if not w.isupper() or len(w) == 1 \
             else apply_case_pattern(w, mod)
-    if w[:1].isupper() and mod in LOWERCASE_COMMON_NOUNS:
+    if w[:1].isupper() and mod in LOWERCASE_COMMON_NOUNS and not quote_start:
         return mod
     if w[:1].isupper() and low in AMBIGUOUS_NAMES:
         return AMBIGUOUS_NAMES[low]  # "Mary" mid-sentence is the name, not "marry"
@@ -445,6 +451,10 @@ def compute_auto(toks):
                         state["start"] = False
                 if is_emph:
                     emph_boundary()
+                if n == "hi" and t.el.get("rend") != "sup" and QUOTE_START_CASE \
+                        and not (in_note or in_head):
+                    words = re.findall(r"[A-Za-z]+", "".join(t.el.itertext()))
+                    state["quote_first"] = len(words) >= QUOTE_MIN_WORDS
                 saved = state["start"]
                 is_div_head = n == "head" and t.el.getparent() is not None \
                     and local(t.el.getparent()) == "div"
@@ -459,6 +469,7 @@ def compute_auto(toks):
                 word_strings(t)
                 t.resp, t.rtype = "#auto", "spelling"
                 if id(t) in latin:
+                    state.pop("quote_first", None)
                     t.reg = t.expanded.replace("ſ", "s").replace("Ʋ", "U")
                     if not in_note:
                         state["start"] = False
@@ -471,7 +482,8 @@ def compute_auto(toks):
                     t.reg = auto_reg(t, False, heading=True)
                 else:
                     t.sent_start = state["start"]
-                    t.reg = auto_reg(t, state["start"])
+                    t.reg = auto_reg(t, state["start"],
+                                     quote_start=state.pop("quote_first", False))
                     if re.search(r"[A-Za-z]", t.expanded):
                         state["start"], state["by"] = False, None
                     state["num"] = bool(re.fullmatch(r"\d+", t.expanded))
