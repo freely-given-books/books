@@ -115,6 +115,19 @@
     rule:     rgb("#7A5A1E"),
     subtitle: rgb("#2A2A2A"),
   ),
+  // Benjamin Keach, The Gospel Minister's Maintenance Vindicated.  The one
+  // dark book on the shelf: every other wrap is a pale ground, so a midnight
+  // navy ground tells this one apart at any distance, face out or end-on.
+  // The type turns light to match -- cream on the panel and spine, gold rules
+  // -- and the panel is a lifted navy, enough to read as a block on the
+  // ground without going pale like Sibbes's sky.
+  midnight: (
+    ground:   rgb("#18213A"),
+    panel:    rgb("#2D3D66"),
+    ink:      rgb("#F3EBD3"),
+    rule:     rgb("#C9A24E"),
+    subtitle: rgb("#DCD4BE"),
+  ),
 )
 
 #let spine-width(pages, paper: "cream-60") = pages * CALIPER.at(paper) * 1in

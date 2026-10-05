@@ -59,6 +59,12 @@ GAP_FIXES = {}
 # Capitalized common nouns lowercased when not sentence-initial.
 LOWERCASE_COMMON_NOUNS = set()
 
+# The first word of an italic run of QUOTE_MIN_WORDS or more (a quotation:
+# "saith, Feed the Flock ...") keeps its printed capital under
+# LOWERCASE_COMMON_NOUNS; a shorter italic run (emphasis) is lowercased.
+QUOTE_START_CASE = False
+QUOTE_MIN_WORDS = 5
+
 # Notes shown under "Please check" at the top of the report.
 REPORT_NOTES = []
 
@@ -107,6 +113,11 @@ MODERNIZE = True
 TYPOGRAPHY = False
 DASH = "\u2014"          # what "--" becomes; " \u2014 " for a spaced dash
 
+# The edition's attribution, when it differs from the TCP header's (a work
+# printed under another's name): (author as in titleStmt, note giving the
+# grounds). The printed/catalogue attribution stays in sourceDesc.
+AUTHOR = None
+
 # What the source is ("tcp" or "thml"), for the header; set by main().
 SOURCE_KIND = "tcp"
 
@@ -119,7 +130,7 @@ def load_tables(path):
     for name in ("MACRON_M", "GAP_FIXES", "LOWERCASE_COMMON_NOUNS", "REPORT_NOTES",
                  "MODERNIZE_NOTES", "LATIN_RUNS", "DROP_FOREIGN_GAPS", "GAP_NOTES",
                  "EXPAND_ETC", "ITALIC_SENTENCE_QUIRK", "DROP_CAP_CASE",
-                 "MODERNIZE", "TYPOGRAPHY", "DASH"):
+                 "MODERNIZE", "TYPOGRAPHY", "DASH", "AUTHOR", "QUOTE_START_CASE"):
         if name in ns:
             g[name] = ns[name]
     # the book's own spellings, over the shared table (e.g. Gouge keeps
@@ -188,7 +199,7 @@ def word_strings(tok):
         tok.expanded = e.capitalize() if m.group(1) == "Y" else e
 
 
-def auto_reg(tok, sentence_start, heading=False):
+def auto_reg(tok, sentence_start, heading=False, quote_start=False):
     """Automatic modern spelling for one word of main text."""
     # long s and the hooked capital Ʋ (U/V) are letter forms, not spellings
     w = tok.expanded.replace("ſ", "s").replace("Ʋ", "U")
@@ -219,7 +230,7 @@ def auto_reg(tok, sentence_start, heading=False):
     if sentence_start:
         return mod[:1].upper() + mod[1:] if not w.isupper() or len(w) == 1 \
             else apply_case_pattern(w, mod)
-    if w[:1].isupper() and mod in LOWERCASE_COMMON_NOUNS:
+    if w[:1].isupper() and mod in LOWERCASE_COMMON_NOUNS and not quote_start:
         return mod
     if w[:1].isupper() and low in AMBIGUOUS_NAMES:
         return AMBIGUOUS_NAMES[low]  # "Mary" mid-sentence is the name, not "marry"
@@ -440,6 +451,10 @@ def compute_auto(toks):
                         state["start"] = False
                 if is_emph:
                     emph_boundary()
+                if n == "hi" and t.el.get("rend") != "sup" and QUOTE_START_CASE \
+                        and not (in_note or in_head):
+                    words = re.findall(r"[A-Za-z]+", "".join(t.el.itertext()))
+                    state["quote_first"] = len(words) >= QUOTE_MIN_WORDS
                 saved = state["start"]
                 is_div_head = n == "head" and t.el.getparent() is not None \
                     and local(t.el.getparent()) == "div"
@@ -454,6 +469,7 @@ def compute_auto(toks):
                 word_strings(t)
                 t.resp, t.rtype = "#auto", "spelling"
                 if id(t) in latin:
+                    state.pop("quote_first", None)
                     t.reg = t.expanded.replace("ſ", "s").replace("Ʋ", "U")
                     if not in_note:
                         state["start"] = False
@@ -466,7 +482,8 @@ def compute_auto(toks):
                     t.reg = auto_reg(t, False, heading=True)
                 else:
                     t.sent_start = state["start"]
-                    t.reg = auto_reg(t, state["start"])
+                    t.reg = auto_reg(t, state["start"],
+                                     quote_start=state.pop("quote_first", False))
                     if re.search(r"[A-Za-z]", t.expanded):
                         state["start"], state["by"] = False, None
                     state["num"] = bool(re.fullmatch(r"\d+", t.expanded))
@@ -488,8 +505,30 @@ def compute_auto(toks):
     if EXPAND_ETC:
         expand_etc(toks)
     table_readings(toks)
+    page_break_spaces(toks)
     if TYPOGRAPHY:
         typography(toks)
+
+
+def page_break_spaces(toks):
+    """A page break keyed between two words with no space (A47561:
+    "leaſt<pb n="14"/>to"): the word space the printed page break stands for,
+    as an #auto spacing reading."""
+    def walk(ts):
+        for t in ts:
+            if t.kind == "container":
+                walk(t.children)
+        for i in range(len(ts) - 2, 0, -1):
+            a, pb, b = ts[i - 1], ts[i], ts[i + 1]
+            if pb.kind == "atom" and pb.el is not None and local(pb.el) == "pb" \
+                    and a.kind in ("word", "punct") and b.kind in ("word", "container") \
+                    and not (b.kind == "container" and local(b.el) == "note"):
+                s = Tok("spacing", [""])
+                s.reg, s.resp, s.parent = " ", "#auto", pb.parent
+                ts.insert(i + 1, s)
+        for k, c in enumerate(ts):
+            c.idx = k
+    walk(toks)
 
 
 TYPO_BLOCKS = {"p", "head", "item", "l", "note", "cell", "titlePart", "byline",
@@ -1606,7 +1645,8 @@ def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
         between = leaves[ia + 1:ib]
         # indentation between two words' elements renders as a space too
         spaces = [x for x in between if x.kind == "space" or
-                  (x.kind == "noise" and "".join(p for p in x.pieces if isinstance(p, str)).strip() == "")]
+                  (x.kind == "noise" and "".join(p for p in x.pieces if isinstance(p, str)).strip() == "")
+                  or (x.kind == "spacing" and x.reg == " ")]     # the machine's (page_break_spaces)
         want = sp[j2]
         if not want:
             # whitespace between two blocks is not removed here: a block run
@@ -1637,7 +1677,7 @@ def apply_spacing(root_tok, order, sp, log, label, skip_notes=True, owner=None):
         else:
             for x in spaces:
                 x.kind = "spacing"
-                x.reg = ""
+                x.reg, x.resp = "", "#editor"
             log.append((label, "spacing", "space", "(none)"))
 
 
@@ -2814,6 +2854,15 @@ def add_header(root, editor_name):
     hdr = root.find(T + "teiHeader")
     fd = hdr.find(T + "fileDesc")
     ts = fd.find(T + "titleStmt")
+    if AUTHOR:
+        name, why = AUTHOR
+        for a in ts.findall(T + "author"):
+            a.text = name
+        ns_ = fd.find(T + "notesStmt")
+        if ns_ is None:
+            ns_ = etree.Element(T + "notesStmt")
+            fd.insert(list(fd).index(fd.find(T + "sourceDesc")), ns_)
+        etree.SubElement(ns_, T + "note", type="attribution").text = why
     for xid, resp, name in (
             ("editor", "review of modernized spelling, emendations, list structure",
              editor_name),
