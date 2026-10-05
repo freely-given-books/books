@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 49 |
 | emendation | 49 |
+| spelling | 48 |
 | case | 39 |
 | punctuation | 27 |
 | spacing | 17 |
@@ -157,7 +157,6 @@
 - knew → know
 - land → land,
 - lillies → lilies
-- made → make
 - of’ → of
 - pilgrims → pilgrims’
 - pilgrim’s → pilgrims

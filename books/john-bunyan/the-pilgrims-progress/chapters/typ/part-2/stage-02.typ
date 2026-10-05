@@ -69,7 +69,7 @@ Christiana: I am that woman that was so hard-hearted as to slight my husband’s
 
 Interpreter: Then is fulfilled that which is written of the man that said to his son, “Go work to-day in my vineyard; and he said to his father, I will not: but afterwards repented and went.” Matt. 21:29.
 
-Christiana: Then said Christiana, So be it: Amen. God make it a true saying upon me, and grant that I may be found at the last of him in peace, without spot, and blameless.
+Christiana: Then said Christiana, So be it: Amen. God made it a true saying upon me, and grant that I may be found at the last of him in peace, without spot, and blameless.
 
 Interpreter: But why standest thou thus at the door? Come in, thou daughter of Abraham; we were talking of thee but now, for tidings have come to us before how thou art become a pilgrim. Come, children, come in; come, maiden, come in. So he had them all into the house.
 

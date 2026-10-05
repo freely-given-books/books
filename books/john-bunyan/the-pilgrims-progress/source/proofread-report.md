@@ -18,7 +18,7 @@ lines restored; 3 Formalist in Part I stage 3; 4 Immanuel; 5 Hymenaeus; 6
 aught (×2); 7 wholesome, lilies, befall, skull, Apostasy, stayed, show; 8
 Savior (×8); 9 Mount Sion kept; 10 Standfast's speech joined: `build_tei.py`
 now runs a paragraph on into the last paragraph of the speech before it (every
-book's TEI rebuilds unchanged); 11 the user will look for a 1684 scan.
+book's TEI rebuilds unchanged); 11 the user found a 1732 printing of Part II (see "Part II witness" below).
 
 1. **Words CCEL lost in Part II, stage 4** (Christiana and the sick boy).
    CCEL has "So Christiana desired it, and entered the room, and had a
@@ -67,6 +67,27 @@ book's TEI rebuilds unchanged); 11 the user will look for a 1684 scan.
     liveth), so it cannot settle them. **Recommend:** a later pass against
     the 1684 printing if an EEBO-TCP copy can be found.
 
+## Part II witness (2026-10-04)
+
+The user found a scan of Part II: London, 1732, archive.org
+`bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732` (192 page
+images, OCR text; not kept in the repo). Checked against it:
+
+- Confirmed: the stage 4 restoration ("So Christiana desired it, and they
+  sent for him, and he came; When he was entered the Room"); the three
+  Author's Way lines ("but Ground for groundless Fears", "Things of a greater
+  Bulk", "love him at the first"); "neat and fine", "the Loss of other
+  Things", "Let's know", the single "when" ("coming, when, in my Opinion,
+  going down"), "these Pilgrims had been"; "Formality and Hypocrisy" in Part
+  II.
+- Reversed: "God make it a true saying" back to "made", as printed (scan
+  n41).
+- Not found in the OCR (too rough there): "loth to die", "come to be tried",
+  Prov. 8:35, Standfast's speech.
+
+EEBO-TCP A58733 is not Bunyan's Part II but the spurious *Second Part* of
+1683 by "T. S." (Thomas Sherman, Wing S179), an imitation: no witness.
+
 ## Fixed (113 edits, all synced; the evidence is 1678 unless marked)
 
 ### Wrong or lost words
@@ -76,7 +97,7 @@ book's TEI rebuilds unchanged); 11 the user will look for a 1684 scan.
 - Part I s9: "fleshy" → "fleshly"; "the God of this world" → "god" (2 Cor 4:4); "action's sake" → "actions' sake".
 - Part I s10: "such conviction as tend" → "convictions"; "the sight of at it first" → "of it at first".
 - Part I s1: "straight gate" → "strait gate" (KJV Luke 13:24).
-- Part II s2: "neat and find" → "neat and fine"; "God made it a true saying upon me, and grant" → "make" (*sense*, parallel to "grant").
+- Part II s2: "neat and find" → "neat and fine". ("God made it a true saying upon me" was changed to "make" on sense, then put back: the 1732 printing has "made".)
 - Part II s3: a doubled "when" was removed ("coming when, in my opinion, going down").
 - Part II s4: "there come to the door" → "came"; "Christana" → "Christiana"; "pilgrim's had been" → "pilgrims".
 - Part II s5: "when we come be tried" → "come to be tried".
