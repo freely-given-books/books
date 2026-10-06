@@ -15,13 +15,13 @@
 
 From wives duties the Apostle proceedeth to press husbands duties. And as he propounded to wives for a pattern, the example of the Church, so to husbands he propoundeth the example of Christ: and #footnote[#emph[Vers.] 28, 29.] addeth thereunto the pattern of a mans self, in regard of that natural affection which he beareth to his body. Thus he addeth pattern to pattern, #footnote[Husbands duties most pressed.] and doth the more largely and earnestly press them, because husbands having a more honourable place, their failing in duty is the more heinous, scandalous, and dangerous.
 
-The Apostle restraineth the duties of husbands to their #emph[own] wives, as he did the duties of wives to their #emph[own] husbands. For though the same word be not here used which was before, yet a word of like emphasis is used: and as good reason there is that our English translators should have put in this particle #emph[(own)] in this verse, as in the 22. Verse, for proof whereof read 1 Cor. 7. 2. Where #footnote[See §. 82.] these two words are used, and both of them translated #emph[own.]
+The Apostle restraineth the duties of husbands to their #footnote[ἑαυτῶν.] #emph[own] wives, as he did the duties of wives to their #footnote[ἰδίοις.] #emph[own] husbands. For though the same word be not here used which was before, yet a word of like emphasis is used: and as good reason there is that our English translators should have put in this particle #emph[(own)] in this verse, as in the 22. Verse, for proof whereof read 1 Cor. 7. 2. Where #footnote[ἑαυτοῦ. ἴδιον. See §. 82.] these two words are used, and both of them translated #emph[own.]
 
 This I have the rather noted, because many who hold that a wife must have but one husband, conceit that a husband may have more wives then one: which conceit this particle #emph[(own)] wipeth away. All the duties of an husband are comprised under this one word #footnote[See the reasons hereof #emph[Treat.] 4. §. 2.] #emph[love.] Wherein that an husband might be the better directed, and whereto that he might be the rather provoked, the forenamed example of Christ, and of his love to the Church, is very lively set forth: first generally in these words, #emph[even as Christ loved the Church:] and then more particularly in the words following.
 
 === §. 27. #emph[Of the example of Christs love.]
 
-The note of comparison (#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
+The note of comparison (#footnote[καθὼς.]#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
 
 An #emph[equity,] because there is as great reason that husbands by virtue of their place should love their wives, as that Christ by virtue of his place should love the Church.
 
@@ -84,7 +84,7 @@ More particularly, we may note these three points:
 - 2\. The #emph[object,] what he gave, #emph[(himself.)]
 - 3\. The #emph[end,] why he gave himself, #emph[(for it)] for the Churches good.
 
-The #emph[action] having relation to the #emph[object,] most especially pointeth at the death of Christ. The Greek word is a compound word, and signifieth to #emph[give up.] It implieth two things,
+The #emph[action] having relation to the #emph[object,] most especially pointeth at the death of Christ. The #footnote[παρέδωκεν.] Greek word is a compound word, and signifieth to #emph[give up.] It implieth two things,
 
 1. #emph[That Christ willingly died:] the simple word #emph[(gave)] intimateth so much.
 
@@ -94,7 +94,7 @@ The #emph[action] having relation to the #emph[object,] most especially pointeth
 
 That Christ willingly died is evident by the circumstances noted about his death: when #emph[Peter] counselled him to spare himself, and not to go to Jerusalem (where he was to be put to death) #footnote[#emph[Mat.] 16. 22, 23.] he called him Satan, and said, #emph[he was an offence to him:] when #emph[Judas] went out to betray him, #footnote[#emph[John] 13. 27.] he said unto him, #emph[That thou doest, do quickly:] #footnote[#emph[&] 18. 2. #emph[etc. Audiui, Domine, auditum tuum et expavi, dum quaeris à quaerentibus quid quaerant, cùm noueris quod te quaerant: & dixisti te esse Iesum Nazarenum. Cypr. de Pass. Christi.]] When #emph[Judas] was gone out to get company to apprehend him, he went to the place where he was wont, so as #emph[Judas] might readily find him; yea, he met them in the mid-way that came to take him; and he asked them whom they sought, though he knew whom they sought: and when they said, #emph[Jesus of Nazareth,] he answered, #emph[I am he:] When they came to him, he drove them all backward with a word of his mouth, and yet would not escape from them: #footnote[#emph[Matth.] 26. 53.] He could have prayed to the father to have had more then twelve legions of Angels for his safeguard against those that apprehended him, but would not: #footnote[#emph[&] 27. 42.] when by his adversaries he was provoked to have come down from the Cross, and could have done so, he would not. #footnote[#emph[Mark.] 15. 39.] At the instant of giving up the ghost, he cried with a loud voice: which showeth that his life was not then spent, he might have retained it longer if he would: and thereupon the Centurion gathered that he was the son of God. #footnote[#emph[John] 2. 19. #emph[Matth.] 28. 6.] When he was actually dead, and laid in a grave, he rose again. These & other like circumstances verify that which Christ said of himself, #footnote[#emph[John] 10. 18. #emph[Indicia dedit nulla se necessitate, sed obedientia vrgeri ad mortem. Cypr. de coen. Dom. Reason.]] #emph[No man taketh my life from me, but I lay it down of my self.] It was therefore no necessity that compelled him to die, but his voluntary obedience.
 
-Christ is #footnote[#emph[Acts] 3. 15.] #emph[the Lord, Prince] and #emph[Author of life,] and hath an absolute power as over the life of others, so over his own life.
+Christ is #footnote[#emph[Acts] 3. 15. ἀρχηγὸς τῆς ζωῆς.] #emph[the Lord, Prince] and #emph[Author of life,] and hath an absolute power as over the life of others, so over his own life.
 
 Thus then we see that his sacrifice was a voluntary and free gift: the cause thereof was his own will and good pleasure.
 
@@ -114,7 +114,7 @@ The Object, or thing which Christ gave for a ransom was #emph[himself,] not his 
 
 #strong[#emph[Quest.] How could his divine nature be given up? could it #footnote[How the person of Christ being God-man, was given for us.] suffer? could it die?]
 
-#emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an human nature into the unity of his divine nature, and uniting them together #footnote[#emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
+#emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an human nature into the unity of his divine nature, and uniting them together #footnote[ἀσυγχύτως. ἀτρέπτως. ἀδιαιρέτως. ἀχωρίστως. #emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
 
 2. Though the divine nature of Christ suffered not, yet did it support the human nature, and add dignity, worth and efficacy to the sufferings of that nature.
 
@@ -156,7 +156,7 @@ From hence by just consequence it followeth that #emph[Christ merited] #footnote
 
 #emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his human nature, not as a recompense which he should deserve.
 
-#strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9.] WHEREFORE #emph[God also hath highly exalted him.]]
+#strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διὸ.] WHEREFORE #emph[God also hath highly exalted him.]]
 
 #emph[Answ.] That particle #emph[(wherefore)] doth not declare the cause, but the order of his exaltation: noting a consequence that followed after his death. After he had humbled himself so low, he was most highly advanced.
 
@@ -196,7 +196,7 @@ In laying down the former he noteth
 - 1\. The #emph[end] whereat Christ aimed.
 - 2\. The #emph[means,] whereby he effected that which he aimed at.
 
-That #emph[end] is set forth in these words, #emph[that he might sanctify it,] #footnote[See §. 39.] #emph[having cleansed it] (thus may they word for word be translated) so as that which for order of words is in the latter place, for order of matter is in the first place.
+That #emph[end] is set forth in these words, #emph[that he might sanctify it,] #footnote[καθαρίσας. See §. 39.] #emph[having cleansed it] (thus may they word for word be translated) so as that which for order of words is in the latter place, for order of matter is in the first place.
 
 The word #emph[(cleansing)] pointeth out our #emph[justification.]
 

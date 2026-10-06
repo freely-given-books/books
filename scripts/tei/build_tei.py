@@ -2961,6 +2961,12 @@ def add_header(root, editor_name):
         (".//t:reg/t:hi", "hi inside reg: words of this edition's reading set in italic."),
         (".//t:list[@subtype='printed']", "list[@subtype='printed']: a list printed as "
          "one that this edition numbers; the printed numerals are kept in label."),
+        (".//t:seg[@type='supplied']", "Text the transcription lacks (pages missing "
+         "from the copy it was made from) is transcribed from another copy and put in "
+         "at the gap: seg[@type='supplied'] where it runs on in a paragraph, and every "
+         "block or division brought in carries @change pointing at the revisionDesc "
+         "entry that names the copy. The gap itself is kept, filled with an empty "
+         "supplied."),
     ) if root.find(xp, {"t": NS}) is not None]
     paras += [txt for _, txt in used]
     cats = [(c, d) for c, d in (

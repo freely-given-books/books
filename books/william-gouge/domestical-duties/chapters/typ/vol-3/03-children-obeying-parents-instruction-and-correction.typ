@@ -92,7 +92,7 @@ Contrary is #emph[disdain] on the one side, and #emph[obstinacy] on the other. #
 
 === §. 35. #emph[Of childrens conforming their judgments to their parents.]
 
-The #emph[extent] of childrens obedience is only implied in this Epistle to the Ephesians, but it is expressed #emph[(Col.] 3. 20.) in these words, #emph[Children obey your parents] IN ALL THINGS. A large extent, but not simply to be taken without any limitation: for the Apostle himself noteth a restraint in these words, #footnote[#emph[Eph.] 6. 1.] #emph[In the Lord.] So far forth as children transgress not any of Gods commandments in obeying their parents, they ought to obey. This is to obey #emph[in all things, in the Lord.]
+The #emph[extent] of childrens obedience is only implied in this Epistle to the Ephesians, but it is expressed #emph[(Col.] 3. 20.) in these words, #emph[Children obey your parents] #footnote[κατὰ πάντα.] IN ALL THINGS. A large extent, but not simply to be taken without any limitation: for the Apostle himself noteth a restraint in these words, #footnote[#emph[Eph.] 6. 1. ἐν κυρίῳ.] #emph[In the Lord.] So far forth as children transgress not any of Gods commandments in obeying their parents, they ought to obey. This is to obey #emph[in all things, in the Lord.]
 
 #footnote[Treat. 3. §. 63, 64, etc. The extent of childrens obedience.] The #emph[extent] of childrens duties being the very same that was of wives duties: and the #emph[restraint] also the same, that order which was there observed shall here also be kept. Only other proofs more pertinent to childrens place, shall be brought to confirm those general propositions which may be applied to any inferiors. Many general reasons there alleged for proof of the propositions shall here be omitted. Wherefore compare this place with that.
 
@@ -112,7 +112,7 @@ Contrary is the overweening conceit which many children #footnote[Childrens over
 
 === §. 36. #emph[Of childrens yielding to practise at their parents command, such things as in their judgments they cannot think very meet.]
 
-2. Though children cannot in their judgments think that which their parents require to be the fittest and meetest, yet being pressed thereto by the peremptory command of their parents, in practise they ought to yield unto it, saying to their parents as #emph[Peter] to the Lord, #emph[Nevertheless at thy word I will do this.] Thus did #footnote[#emph[Gen.] 27. 6. #emph[etc.]] #emph[Jacob] yield to #emph[Rebekah:] he thought by doing that which his mother bid him, he should seem a cocker to his father, yet she urging him, he did it.
+2. Though children cannot in their judgments think that which their parents require to be the fittest and meetest, yet being pressed thereto by the peremptory command of their parents, in practise they ought to yield unto it, saying to their parents as #emph[Peter] to the Lord, #emph[Nevertheless at thy word I will do this.] Thus did #footnote[#emph[Gen.] 27. 6. #emph[etc.]] #emph[Jacob] yield to #emph[Rebekah:] he thought by doing that which his mother bid him, he should seem a mocker to his father, yet she urging him, he did it.
 
 #strong[#emph[Quest.]]
 
@@ -132,7 +132,7 @@ Contrary is their preposterous peremptoriness who will do #footnote[A fault for 
 
 === §. 37. #emph[Of the restraint of childrens obedience.]
 
-The #emph[restraint] of childrens obedience is expressed in this clause, #emph[in the Lord:] which phrase affordeth a necessary limitation #footnote[#emph[Heb.] 12. 9.] in obeying their parents, who are but #emph[parents of our flesh,] men and women, subject to err in their commandments, and to require such sinful things as their children may not with a good conscience perform. The limitation then which the forenamed clause #emph[(in the Lord)] affordeth, is this,
+The #emph[restraint] of childrens obedience is expressed in this clause, #emph[in the Lord:] which phrase affordeth a necessary limitation #footnote[#emph[Heb.] 12. 9. τῆς σαρκὸς.] in obeying their parents, who are but #emph[parents of our flesh,] men and women, subject to err in their commandments, and to require such sinful things as their children may not with a good conscience perform. The limitation then which the forenamed clause #emph[(in the Lord)] affordeth, is this,
 
 #emph[Children must perform no other obedience to their parents, then may stand with their obedience to God.] The reasons rendered by the Apostle prove as much: #emph[This is right, this is well pleasing to] #footnote[#emph[Ephes.] 6. 1. #emph[Col.] 3. 20.] #emph[the Lord.] But to obey parents against the Lord is neither right nor wellpleasing to the Lord.
 

@@ -375,6 +375,24 @@ and copied back into `chapters/typ`.
    the early text (`source/witness-report.md`); those are the likely slips,
    for the user to accept or reject. Folding the copy in keeps them until
    then.
+17. **Gaps are often Greek or Hebrew the transcription dropped** (TCP
+   `<gap reason="foreign">`; check CCEL texts for missing Greek too).
+   Restore them, never leave them out: read each from the page images
+   (archive.org `bim_early-english-books-*`, scan index = 2 x TCP image - 3
+   or - 2 for two-page images; verify the printed page) and record it as an
+   `#editor` entry in `GAP_FIXES`. Give only what the gap stands for: the
+   TCP usually keeps the note's closing stop outside the gap. Put the same
+   text in `chapters/typ` before syncing, or the review records it as
+   deleted. Gouge: 240 restored, and 177 medium-certainty letter fills
+   checked on the same images (32 wrong guesses, e.g. "sacrifice" for
+   "lust").
+18. **Pages missing from the transcribed copy** come from another copy as a
+   supplement, `source/<ID>.supplied.xml` beside the TCP file, which
+   `sources.load()` splices in at the gap for every tool (Gouge pp.
+   191-196). The gap stays, filled empty in `GAP_FIXES` so no index shifts;
+   brought-in blocks carry `@change` pointing at a revisionDesc entry naming
+   the copy; new sections shift a layout's ordinal section ranges
+   (`edition.json`).
 
 ## Starting a new TCP book
 

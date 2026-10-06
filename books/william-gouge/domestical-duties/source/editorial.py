@@ -104,19 +104,15 @@ REPORT_NOTES = []
 import runpy as _runpy
 GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
 
-# Greek and Hebrew the transcribers could not key are left out of the
-# reading text (240 placeholders, nearly all one word in a margin citation);
-# there is no page image here to read them from.
+# Greek and Hebrew the transcribers could not key (240, nearly all in margin
+# citations) are read from the 1622 page images and filled in gap_fixes.py;
+# this only matters for any left open.
 DROP_FOREIGN_GAPS = True
 
-# Pages 191-196 were not captured on the microfilm TCP transcribed.
-GAP_NOTES = {
-    "missing": "[{extent} of the 1622 edition are wanting here: they were not "
-               "captured in the microfilm from which this text was transcribed.]",
-    # the one illegible word no one could restore (Vol. III, "Children
-    # Getting Parents' Permission")
-    "illegible": "…",
-}
+# Pages 191-196, missing from the copy the TCP was made from, come from
+# another 1622 copy (A68107.supplied.xml); the one illegible word is read
+# there too, so no gap needs a note.
+GAP_NOTES = {}
 
 EXPAND_ETC = True
 

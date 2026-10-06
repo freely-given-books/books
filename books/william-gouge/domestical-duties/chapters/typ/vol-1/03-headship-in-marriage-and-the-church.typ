@@ -44,7 +44,7 @@ The second is taken from the benefit which a wife reapeth by her husbands superi
 
 === §. 15. #emph[Of the resemblance of an husband to Christ.]
 
-The more to enforce the forenamed reason, the Apostle addeth the resemblance that is betwixt an husband and Christ, as this note of comparison (#emph[even as)] showeth: whence it followeth that
+The more to enforce the forenamed reason, the Apostle addeth the resemblance that is betwixt an husband and Christ, as this note of comparison (#footnote[ὡς.]#emph[even as)] showeth: whence it followeth that
 
 #emph[It is as meet for a wife to submit her self to her husband, as] #footnote[Obser.] #emph[for the Church to submit it self to Christ.] This amplification is especially added for Christians. Heathens may be moved to subject themselves to their governors, by the resemblance taken from a natural body. How much more ought Christians to be moved by the resemblance taken from the mystical body of Christ?
 
@@ -71,7 +71,7 @@ The #emph[reason] may be thus framed, #emph[That which the Church doth to Christ
 
 The proposition is grounded on that resemblance which is betwixt the Church in relation to Christ, and a wife in relation to her husband: for an husband is that to his wife, which Christ is to the Church; therefore a wife must be so to her husband, as the Church is to Christ.
 
-The #emph[rule] noteth both the #emph[Manner] (#emph[as)] and also the #emph[Extent] of a wives subjection (#emph[in every thing.)] #footnote[See more of the #emph[manner] and #emph[extent] of a wives obedience, #emph[Treat.] 3. §. 51. #emph[&] 63.]
+The #emph[rule] noteth both the #emph[Manner] (#footnote[ὥσπερ.]#emph[as)] and also the #emph[Extent] of a wives subjection (#footnote[ἐν παντί.]#emph[in every thing.)] #footnote[See more of the #emph[manner] and #emph[extent] of a wives obedience, #emph[Treat.] 3. §. 51. #emph[&] 63.]
 
 #strong[#emph[Quest.] Is mortal and sinful man to be obeyed as the Lord Christ the eternal Son of God?]
 
@@ -149,7 +149,7 @@ The #emph[Goodness] of Christ is set down in these words #emph[(and he is the Sa
 
 1. The copulative particle (AND) showeth that
 
-#emph[The goodness which Christ doth for his Church, he doth because] #footnote[1\. #emph[Obser.]] #emph[he is the head thereof.]
+#emph[The goodness which Christ doth for his Church, he doth because] #footnote[καὶ 1. #emph[Obser.]] #emph[he is the head thereof.]
 
 O how happy a thing is it for the Church that it hath such an head! An head that doth not tyrannize over it, nor trample it under foot: an head that doth not poll, or peel the Church: but procureth peace and safety to it. When #emph[Naomi] sought to make a match betwixt #emph[Boaz] and #emph[Ruth,] that he might be her #footnote[#emph[Ruth] 3. 1.] head, what saith she? #emph[Shall I not seek rest for thee that it may be well with thee?] It is therefore the office of an head to be a Saviour, to procure rest and prosperity to the body whose head it is.
 
@@ -163,9 +163,9 @@ In laying forth the goodness of Christ three things are noted.
 - 2\. The person that performeth it #emph[(he himself.)]
 - 3\. The parties for whom he performeth it #emph[(the body.)]
 
-1. The Greek word translated #footnote[#emph[Sotera inscriptum vidi Syracusis. hoc quantum est? Ita magnum, vt Latino vno verbo exprimi non possit. Is est nimirum soter, qui salutem dedit. Cicer. in Ver. act] 4.] #emph[Saviour] is so emphatical that other tongues can hardly find a fit word to express the emphasis thereof: it being attributed to Christ, implieth that
+1. The Greek word translated #footnote[σωτὴρ. #emph[Sotera inscriptum vidi Syracusis. hoc quantum est? Ita magnum, vt Latino vno verbo exprimi non possit. Is est nimirum soter, qui salutem dedit. Cicer. in Ver. act] 4.] #emph[Saviour] is so emphatical that other tongues can hardly find a fit word to express the emphasis thereof: it being attributed to Christ, implieth that
 
-#emph[Christ is a most absolute and perfect Saviour,] he is every way a sufficient Saviour: #footnote[#emph[Heb.] 7. 25. #emph[Mat.] 1. 21.] #emph[able perfectly to save even to the very uttermost.] He saveth Soul and Body: he saveth from all manner of misery: which is intimated by that particular from #footnote[Doct.] which he saveth, namely #emph[sin: he shall save his people from their sins.] Sin is the greatest, and most grievous evil; yea, the cause of all misery: they who are saved from it, are saved from all evil: for there is nothing hurtful to man, but that which is caused by sin, or poisoned by it.
+#emph[Christ is a most absolute and perfect Saviour,] he is every way a sufficient Saviour: #footnote[#emph[Heb.] 7. 25. σώζειν εἰς τὸ παντελὲς δύναται. #emph[Mat.] 1. 21.] #emph[able perfectly to save even to the very uttermost.] He saveth Soul and Body: he saveth from all manner of misery: which is intimated by that particular from #footnote[Doct.] which he saveth, namely #emph[sin: he shall save his people from their sins.] Sin is the greatest, and most grievous evil; yea, the cause of all misery: they who are saved from it, are saved from all evil: for there is nothing hurtful to man, but that which is caused by sin, or poisoned by it.
 
 Before sin seized on man he was most happy, free from all misery: and so shall he be after the contagion, guilt, punishment, dominion, and remainder of sin is removed. But he that remaineth in the bondage of sin is in a most woeful plight. In that Christ saveth from sin, he saveth from the wrath of God, the curse of the law, the venom of all outward crosses, the tyranny of Satan, the sting of Death, the power of the grave, the torments of hell, and what not?
 
@@ -179,7 +179,7 @@ This being so, to what end serveth the supposed #emph[treasure of] #footnote[Ref
 
 === §. 20. #emph[Of Christ the only Saviour.]
 
-This relative particle (HE) hath also his emphasis; for as it pointeth out #emph[Christ the head of the Church,] so it restraineth this great work to him: it may thus be translated, #emph[he himself:] that is, he in his own person, he by himself, he and none but he. So as to speak properly,
+This relative particle (#footnote[αὐτὸς.]HE) hath also his emphasis; for as it pointeth out #emph[Christ the head of the Church,] so it restraineth this great work to him: it may thus be translated, #emph[he himself:] that is, he in his own person, he by himself, he and none but he. So as to speak properly,
 
 #emph[Christ is the only Saviour of men:] in which respect he is #footnote[Doct.] called #footnote[#emph[Luk.] 1. 69.] #emph[the horn of salvation,] yea #footnote[#emph[&] 2. 30.] #emph[Salvation] it self: which titles are given to him by an #emph[excellency and propriety:] and in the same respect the name #footnote[#emph[Mat.] 1. 21.] #emph[Jesus] was given unto him.
 
@@ -199,7 +199,7 @@ Let us for our parts fly unto this Saviour only, and wholly #footnote[2\. #emph[
 
 The persons who receive any benefit by this #emph[Saviour,] are all comprised under this metaphor #emph[the body:] whereby the same thing is meant that was meant before by the #emph[Church.]
 
-#emph[Church] according to the notation of the Greek word signifieth #footnote[#emph[Ecclesia ex vocatione appellata est. Aug. in Epist. ad Rom.]] an assembly called together. It is in Scripture by a propriety attributed to them who are called to God.
+#emph[Church] according to the notation of the Greek word signifieth #footnote[ἐκκλησία. #emph[Ecclesia ex vocatione appellata est. Aug. in Epist. ad Rom.]] an assembly called together. It is in Scripture by a propriety attributed to them who are called to God.
 
 This calling is twofold:
 

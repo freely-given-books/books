@@ -82,9 +82,9 @@ Much wisdom may be learned hereby: for when any #footnote[Wisdom learned.] meekl
 
 The two reasons which there he rendereth in that other case may not unfitly be applied to this.
 
-1. In general this is #emph[thank-worthy,] it is a grace, a glory to her: a matter that deserveth praise and commendation.
+1. In general this is #emph[thank-worthy,] it is a grace, a glory to #footnote[χάρις.] her: a matter that deserveth praise and commendation.
 
-2. In particular it is #emph[acceptable to God:] howsoever their husbands may deal roughly and untowardly with them, yet God will graciously respect them, if they shall patiently in obedience to his ordinance bear their husbands unjust reproofs.
+2. In particular it is #emph[acceptable to God:] howsoever their husbands #footnote[χάρις παρὰ Θεῷ.] may deal roughly and untowardly with them, yet God will graciously respect them, if they shall patiently in obedience to his ordinance bear their husbands unjust reproofs.
 
 3. I may add this reason also, that thus they shall show themselves good Christians indeed, in that #emph[they are not overcome] #footnote[#emph[Rom.] 12. 21.] #emph[of evil.]
 

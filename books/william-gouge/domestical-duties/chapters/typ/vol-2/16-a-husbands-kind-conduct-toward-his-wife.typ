@@ -18,7 +18,7 @@ Contrary is 1. A lofty proud countenance, as of an imperious #footnote[Contrary.
 
 3. A louring frowning countenance, as of a discontented #footnote[3\. A frowning forehead.] creditor over a desperate debtor.
 
-4. A fierce fiery countenance, as of an angry King over a #footnote[4\. A fiery eye.] object that hath displeased him.
+4. A fierce fiery countenance, as of an angry King over a #footnote[4\. A fiery eye.] subject that hath displeased him.
 
 These and such like countenances as they manifest a proud, stout, furious discontented disposition of heart, so they cannot but give great discontent to a wife, yea and much affright her being but a weak vessel, and alienate her heart and affection from him.
 

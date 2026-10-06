@@ -23,7 +23,7 @@ But contrary are such titles as on the one side set the wife #footnote[Contrary,
 
 === §. 25. #emph[Of an husbands manner of instructing his wife.]
 
-2. To #emph[instruction] the Apostle expressly annexeth #emph[meekness,] #footnote[Instruction to be given with meekness.] #emph[Instruct] (saith he) #emph[with meekness, those that oppose themselves.] If ministers must use #emph[meekness] when they instruct their people, much more husbands when they instruct their wives: if #footnote[2 #emph[Tim.] 2. 25.] in case of #emph[opposition] meekness must not be laid aside, then in no case, at no time.
+2. To #emph[instruction] the Apostle expressly annexeth #emph[meekness,] #footnote[Instruction to be given with meekness.] #emph[Instruct] (saith he) #emph[with meekness, those that oppose themselves.] If ministers must use #emph[meekness] when they instruct their people, much more husbands when they instruct their wives: if #footnote[2 #emph[Tim.] 2. 25. τοὺς ἀντιδιατιθεμένους.] in case of #emph[opposition] meekness must not be laid aside, then in no case, at no time.
 
 In this case to manifest meekness, let these rules be observed. #footnote[Directions to instruct with meekness.]
 

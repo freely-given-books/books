@@ -46,7 +46,7 @@ The food which masters provide for their servants must be for #emph[quality,] go
 
 #strong[#emph[Quest.] May not servants be stinted of their food?]
 
-#emph[Answ.] In regard of #emph[superfluity] they may and ought to be stinted, but not in regard of #emph[sufficiency.] It is not meet that all servants should have as much as they can devour: for then many of them would do but little work: but most meet it is that every one should have as much as is needful for strength, that so he may be the better able to do and endure his work: the Greek word translated in the #footnote[#emph[Luk.] 12. 42.] place before quoted #emph[portion,] implieth as much.
+#emph[Answ.] In regard of #emph[superfluity] they may and ought to be stinted, but not in regard of #emph[sufficiency.] It is not meet that all servants should have as much as they can devour: for then many of them would do but little work: but most meet it is that every one should have as much as is needful for strength, that so he may be the better able to do and endure his work: the Greek word translated in the #footnote[#emph[Luk.] 12. 42. σιτομέτριον.] place before quoted #emph[portion,] implieth as much.
 
 There is a double bond to tie masters to perform this duty: one in regard of themselves: the other in regard of their servants.
 
@@ -64,7 +64,7 @@ Another extreme do such masters fall into, as #emph[bring up their] #footnote[#e
 
 === §. 25. #emph[Of masters care about their servants apparel.]
 
-A wise care for servants clothing is also commended in the example of #emph[Solomons] good housewife, #emph[She is not afraid of the snow for her household,] that is, for the coldest season in winter, #emph[for all her household are clothed with] #footnote[#emph[Pro.] 31. 21.] #emph[double garments:] that is, with such clothing as is fit for cold weather.#footnote[The Hebrew word is oft used for scarlet. But according to the proper notation of it, it signifieth things doubled: which I take to be most pertinent to this place, and therefore I have so translated it. The Kings translators have noted as much in the margin.]
+A wise care for servants clothing is also commended in the example of #emph[Solomons] good housewife, #emph[She is not afraid of the snow for her household,] that is, for the coldest season in winter, #emph[for all her household are clothed with] #footnote[#emph[Pro.] 31. 21. שנים] #emph[double garments:] that is, with such clothing as is fit for cold weather.#footnote[The Hebrew word is oft used for scarlet. But according to the proper notation of it, it signifieth things doubled: which I take to be most pertinent to this place, and therefore I have so translated it. The Kings translators have noted as much in the margin.]
 
 Fit and decent apparel is both a means of preserving health, and also a matter of good report, tending to the credit of a master. Yet contrary is the humour of many: they care not how tagged and ragged their servants apparel is: insomuch as many servants have neither comely nor warm apparel.
 

@@ -83,18 +83,25 @@ list against the earlier edition is `source/migration-differences.md`.
   an accident. Latin quotations in the margins are detected and left exactly as
   printed.
 - **Illegible letters have been reconstructed.** TCP marks 477 spans it could
-  not read; 475 are filled, mostly from the book's own vocabulary and the rest
-  by hand from context or from the work being cited. One is left as `…` — a
-  lost word in Volume III, "Children Getting Parents' Permission".
-- **Greek and Hebrew in the margins is dropped**, not marked. TCP could not key
-  it and there is no page image here to read it from; a bracketed
-  "in non-Latin alphabet" placeholder is noise in a reading edition.
-- **Six pages are missing from the source.** Pages 191–196 of the 1622 edition
-  were not captured on the microfilm TCP transcribed. They fall in Volume II,
-  chapter 1 ("Seeking Marriage"), where Gouge is setting out how a marriage
-  contract is made. An editorial note stands in their place. Filling them needs
-  a second copy — the 1626 or 1634 edition on archive.org — and has not been
-  done.
+  not read; all are filled, mostly from the book's own vocabulary and the rest
+  by hand from context or from the work being cited. The 177 filled with only
+  medium certainty were checked against the 1622 page images on archive.org
+  (2026-10-06); 32 guesses were corrected there ("lust", not "sacrifice";
+  "mocker", not "cocker").
+- **Greek and Hebrew in the margins is restored.** TCP could not key it (240
+  places); every one was read from the 1622 page images
+  (`bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622`,
+  the copy the TCP was made from) and is printed as Gouge printed it,
+  accents included.
+- **Six pages missing from the source are restored.** Pages 191–196 of the
+  1622 edition (the end of §10 to the start of §13 of the second treatise:
+  equality in piety, marriages across religions, mutual liking) were not in
+  the copy TCP transcribed. They are transcribed from another 1622 copy on
+  archive.org
+  (`bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622`,
+  pages n220–n225) in `source/A68107.supplied.xml`, which every tool splices
+  into the TCP text at the gap (`scripts/tei/sources.py`); the TCP file is
+  untouched.
 - **The original table of contents is not reproduced.** It indexes the 1622
   pagination, which this edition does not share; each volume's generated
   outline and the ebook's 645-entry table of contents replace it. The author's
