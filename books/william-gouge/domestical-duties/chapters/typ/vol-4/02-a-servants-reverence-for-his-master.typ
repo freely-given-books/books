@@ -154,7 +154,7 @@ This fear will draw servants on, cheerfully to perform all duty: the more it abo
 
 Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress) and in this respect it may #footnote[#emph[Gen.] 39. 8.] prevent many mischiefs which their masters offence and wrath might bring upon them.
 
-One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title (#footnote[#emph[Gen.] 24. 9. #emph[Eph.] 6. 5.] #emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
+One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title (#footnote[אדון #emph[Gen.] 24. 9. Κύριος. #emph[Eph.] 6. 5.] #emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
 
 === §. 5. #emph[Of the extremes contrary to servants fear of their masters.]
 
@@ -189,7 +189,7 @@ Servants reverence in refraining speech is manifested 3. Ways.
 
 2. By forbearing to reply when they observe their masters unwilling that they should speak any more. Thus did #emph[Peter] forbear when his master gave him this short answer, #footnote[#emph[John] 21. 22.] #emph[What is that to thee?]
 
-3. By attending to that which their masters shall deliver to them: for servants ought to show such a respect to their masters speaking to them, as #emph[Samuel] did to God, when he said, #footnote[1 #emph[Sam.] 3. 10.] #emph[Speak for thy servant heareth.] The titles of #emph[Lord] and #emph[servant] do show, that this speech is taken from the duty of servants. The notation of the #footnote[See Treat. 1. §. 96, 124.] Greek word used by the Apostle, & translated #emph[Obey,] implieth as much. This reverence did #emph[Abrahams] #footnote[#emph[Gen.] 24. 9.] servant show to his master, when he gave him a charge about choosing a wife for his son.
+3. By attending to that which their masters shall deliver to them: for servants ought to show such a respect to their masters speaking to them, as #emph[Samuel] did to God, when he said, #footnote[1 #emph[Sam.] 3. 10.] #emph[Speak for thy servant heareth.] The titles of #emph[Lord] and #emph[servant] do show, that this speech is taken from the duty of servants. The notation of the #footnote[ὑπακούετε. See Treat. 1. §. 96, 124.] Greek word used by the Apostle, & translated #emph[Obey,] implieth as much. This reverence did #emph[Abrahams] #footnote[#emph[Gen.] 24. 9.] servant show to his master, when he gave him a charge about choosing a wife for his son.
 
 Servants for well ordering their speech unto their masters must observe five cautions.
 

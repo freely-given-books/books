@@ -92,7 +92,7 @@ Others, other things. Thus they wanting the light of Gods word, one strayeth in 
 
 #v(0.8em)
 
-The Apostle having made a large digression about the mutual relation betwixt Christ and the Church, whom he propounded as patterns to husbands and wives, he now returneth to the main point intended, namely to the duties of husbands and wives: and so much doth the first particle imply #emph[(Nevertheless)] as if he had thus said, #emph[Though I have a little digressed] #emph[into the mystery of the union of Christ and the Church, yet nevertheless do ye, ô husbands and wives, call to mind that which I principally aimed at, even your duties.]
+The Apostle having made a large digression about the mutual relation betwixt Christ and the Church, whom he propounded as patterns to husbands and wives, he now returneth to the main point intended, namely to the duties of husbands and wives: and so much doth the first particle imply #emph[(Nevertheless)] as if he had thus said, #emph[Though I have a little digressed] #footnote[πλήν.] #emph[into the mystery of the union of Christ and the Church, yet nevertheless do ye, ô husbands and wives, call to mind that which I principally aimed at, even your duties.]
 
 This verse then containeth a conclusion of the Apostles discourse, concerning the duties of husbands and wives.
 
@@ -114,7 +114,7 @@ Of these I will more distinctly speak in the treatises of the particular duties 
 
 The direction for a particular application of their own proper duties to either of them is here especially to be noted. In this direction two things are to be observed.
 
-1. That every particular person apply to himself that which by a Minister is indefinitely delivered to all. #emph[Every one] #emph[of you in particular,] saith the Apostle: which is as much as if he had thus more largely expressed his mind, #emph[I have laid down such general duties as all husbands and wives without exception of any of what rank or degree soever they be are bound unto; which though by name I have not severally delivered to every one, one by one, but generally to you all, yet do every one of you apply those things to your selves in particular.]
+1. That every particular person apply to himself that which by a Minister is indefinitely delivered to all. #emph[Every one] #footnote[ὑμεῖς οἱ καθ’ ἕνα.] #emph[of you in particular,] saith the Apostle: which is as much as if he had thus more largely expressed his mind, #emph[I have laid down such general duties as all husbands and wives without exception of any of what rank or degree soever they be are bound unto; which though by name I have not severally delivered to every one, one by one, but generally to you all, yet do every one of you apply those things to your selves in particular.]
 
 2. That every one apply his own peculiar duty unto himself. Love being peculiar to an husband, to him he saith, #emph[Let him love his wife:] and reverence being peculiar to a wife, to her he saith, #emph[let the wife see that she reverence her husband.]
 

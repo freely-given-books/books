@@ -4,7 +4,7 @@
 
 The second point wherein a masters power consisteth is #emph[correction:] which may be given by looks, words, or deeds.
 
-By a mans look his anger and wrath against another is manifested. In Hebrew the same word signifieth a face, and wrath: because wrath soonest showeth it self in a mans face. It is noted of #emph[Cain,] that being #emph[very wrath his countenance fell] #footnote[#emph[Si quis in domo per inobedientiam domesticae paci aduersatur, corripiatur seu verbo, seu verbere, sea quo. libet alio genere poenae iusto atque licito. Aug. de Ciu. Deil.] 19. #emph[c.] 16.] #emph[down, Gen.] 4. 5. Now the manifestation of a masters wrath against his servant is a correction.
+By a mans look his anger and wrath against another is manifested. #footnote[אף ab אנף] In Hebrew the same word signifieth a face, and wrath: because wrath soonest showeth it self in a mans face. It is noted of #emph[Cain,] that being #emph[very wrath his countenance fell] #footnote[#emph[Si quis in domo per inobedientiam domesticae paci aduersatur, corripiatur seu verbo, seu verbere, sea quo. libet alio genere poenae iusto atque licito. Aug. de Ciu. Deil.] 19. #emph[c.] 16.] #emph[down, Gen.] 4. 5. Now the manifestation of a masters wrath against his servant is a correction.
 
 But words whether of #emph[rebuke,] or #emph[threatening,] do much more declare the same. This phrase which #emph[Solomon] useth #emph[Pro.] 29. 19. #emph[(a servant will not be corrected with words)] showeth that there is a correction by words: and though it be negatively propounded, yet doth it not imply that correction by words is not to be used to a servant, but rather, if thereby he be not moved, that blows must be added thereto: which is a correction by deeds, whereof Christ maketh mention in the parable of those servants that according to the greatness of their fault are #footnote[#emph[Luke] 12. 47.] to be #emph[beaten with many stripes.] It is therefore in a masters power to correct his servant with stripes, or blows. Which being so, I will show,
 
@@ -113,7 +113,7 @@ Contrary hereunto do they, who aim merely at their own advantage, not caring to 
 
 === §. 20. #emph[Of masters well managing their authority.]
 
-This Apostle in #footnote[#emph[Coloss.] 4. 1.] another place giveth this charge to masters, #emph[Give unto your servants that which is just and equal.]
+This Apostle in #footnote[#emph[Coloss.] 4. 1. τὸ δίκαιον καὶ τὴν ἰσότητα.] another place giveth this charge to masters, #emph[Give unto your servants that which is just and equal.]
 
 By doing these two things masters shall well manage their authority.
 

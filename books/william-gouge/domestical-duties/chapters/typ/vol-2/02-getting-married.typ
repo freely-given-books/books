@@ -175,7 +175,7 @@ Hereby man and wife who entirely, as they ought, love one another, have an evide
 
 === §. 27. #emph[Of Marriage and single life compared together.]
 
-Let now the admirers and praisers of a single estate bring forth all their reasons, and put them in the other scale against marriage. If these two be duly poised, and rightly weighed, we shall find single life too light to be compared with honest marriage. All that can be said for the single estate, is grounded upon accidental occasions. Saint #emph[Paul,] who of all the pen-men of holy Scripture hath spoken most for it, draweth all his commendations to the head of #emph[Expediency,] and restraineth all unto #footnote[1 #emph[Cor.] 7. 26.] #emph[present necessity.]
+Let now the admirers and praisers of a single estate bring forth all their reasons, and put them in the other scale against marriage. If these two be duly poised, and rightly weighed, we shall find single life too light to be compared with honest marriage. All that can be said for the single estate, is grounded upon accidental occasions. Saint #emph[Paul,] who of all the pen-men of holy Scripture hath spoken most for it, draweth all his commendations to the head of #emph[Expediency,] and restraineth all unto #footnote[1 #emph[Cor.] 7. 26. διὰ τὴν ἐνεστῶσαν ἀνάγκην.] #emph[present necessity.]
 
 #emph[Object.] He useth these words (#footnote[#emph[Vers.] 1.] #emph[good,] and #footnote[#emph[Vers.] 38.] #emph[better.)]
 

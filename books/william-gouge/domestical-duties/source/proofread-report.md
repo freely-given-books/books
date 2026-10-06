@@ -197,6 +197,51 @@ checked against the text.
 
 - Italics nested inside the italic epigraph blocks printed upright; they are removed in ten epigraphs across the volumes (among them Eph 6:3, with "mayest").
 
+## Restored from the 1622 page images (2026-10-06)
+
+The page images of the copy the TCP was made from are on archive.org
+(`bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622`,
+scan index = 2 x TCP image - 3 or - 2), and a second 1622 copy
+(`..._of-domesticall-duties_gouge-william_1622`). Read from them:
+
+- **Greek and Hebrew, 240 places** the TCP left as "in non-Latin alphabet":
+  all restored as printed (230 high certainty, 10 medium), as `#editor` fills
+  in `gap_fixes.py` with the scan and evidence for each. With the words back,
+  61 stops the review had deleted (left hanging when the Greek was dropped:
+  "1 Tim. 5. 14. .") are printed again.
+  - The printer's errors are corrected as `#editor` readings (the TEI keeps
+    what 1622 printed): ψίλος → σπίλος (Eph 5:27), ἴδιοι → ἰδίοις (Eph 5:22),
+    ὑγιαίνοντοι → ὑγιαίνοντες λόγοι (2 Tim 1:13), צבח → צבא (Job 7:1), εὖ →
+    καλῶς (1 Tim 3:4), οἱ γόνεις → οἱ γονεῖς, ῥύτις → ῥυτίς, ἑαυτου → ἑαυτοῦ,
+    ἔστιν → ἐστὶν (Ammonius), σώζειν → σῴζειν, ἐν παιδεία → ἐν παιδείᾳ, τοῦ
+    οὐρίου → τοῦ Οὐρίου; the two stray vowel points in otherwise unpointed
+    Hebrew (אלוֹף, מוּסר) removed; and the 1622 grave on a word standing alone
+    or before a stop (σωτὴρ, καθὼς, διὸ, κεφαλὴ …) written acute, as modern
+    Greek is, with ’ for the koronis-style apostrophe. 39 readings in all.
+  - Medium: 80, 93 (יארכון), 94, 232, 250, 708, 710 (אף ab אנף), 712, and
+    the unclear accents noted in each entry.
+- **Pages 191–196**, missing from the filmed copy, transcribed from the
+  second copy (`source/A68107.supplied.xml`): the end of §10 and §§11–13 of the
+  second treatise. "Seeking Marriage" now holds §§1–13 and "Getting Married"
+  §§14–28 (`edition.json`). The text joins exactly at both ends (catchwords
+  "maids." and "parties"). Editorial fixes in it, as in the rest of the book:
+  servingmen, capable, leaven, females, yoked, exemplary, Nazarite, Rebekah,
+  "Luk." with its stop, "Isaac." for the printed comma, and 1 Cor. 7. 16
+  (printed "1. 16").
+- **The one illegible word** (vol 3, 02): "1.", as the edition had it; the
+  second copy and the 1634 edition print it.
+- **"foking"** (vol 4, 09) is "ſoking" with a long s: "soaking" is right.
+- **Medium-certainty fills, 177:** 144 confirmed, 32 corrected, 1 still
+  unreadable (260, a figure in "Coke Rep. 4."). Corrections that change the
+  text: man's or woman's **lust** (not sacrifice), an angry King over a
+  **subject** (not object), a **mocker** to his father (not cocker),
+  **urge** matters (not use), relinquish **the** place (not their),
+  **Rhem.** loc. citat. (the Rhemists, cited earlier in the section; not
+  Bellarm.), committit, alijque, Dominus, ad Cler.; the rest confirm readings
+  the review had already made by sense (aim, pleasure, noon, sine, just,
+  teach, very, no, so, tell, she, ought, if).
+- Also fixed: "di'igat" is "diligat" (vol 4, 10).
+
 ## Checked and kept
 
 - **Period English:** -eth forms, "then" for "than", "it self / any thing / our selves" written apart, "betwixt", "too too", "Pigsny", "gripulous", "venter", "slaken", "nousled", "bezel".
@@ -214,7 +259,7 @@ checked against the text.
 - [x] `sweep.py` and `refs.py` hits fixed or explained.
 - [x] `./fgb check gouge`: OK.
   - In step [2], 10 files differ from the extraction only in where an italic run or a footnote marker falls, or by known layout lines.
-- [x] `./fgb build gouge`: the four volumes are 195, 295, 194 and 153 pages, unchanged and matching the covers.
+- [x] `./fgb build gouge` (2026-10-06, after the restorations): the four volumes are 196, 301, 194 and 153 pages; covers updated to match.
   - Inside margins are 1.0in, and nothing is within 0.5in of the trim.
   - epubcheck reports 0 errors and 0 warnings.
 - [x] 47 warnings that a footnote is set on another page than its marker (Typst's widow control).
@@ -225,4 +270,4 @@ checked against the text.
   - It has 9 footnote warnings, the same as `main`.
   - The epigraph and the §56 branches checked in the PDF text; no stray markup.
   - The EPUB (all four volumes) passes epubcheck with 0 errors and 0 warnings.
-- [ ] Volumes 2–4: rebuild and proof the PDFs (left for later).
+- [x] All four volumes rebuilt and checked (2026-10-06): Lulu margins OK, epubcheck 0 errors / 0 warnings per volume; 57 footnote-on-another-page warnings (was 47: the restored Greek lengthens some notes), the accepted Typst limitation.

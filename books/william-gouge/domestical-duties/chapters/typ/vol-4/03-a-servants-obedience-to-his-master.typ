@@ -143,7 +143,7 @@ To these motives I may add the rule of our Christian profession (which is also i
 
 Patient bearing of rebuke and blows, seemeth #emph[an hard saying] to most servants: they cannot endure to hear it: for their mind and carriage is clean contrary thereunto.
 
-1. Some being but reproved, though justly, are ready to answer again, and to chop word for word: a sin #footnote[#emph[Tit.] 2. 9.] expressly forbidden. It seemeth by the Apostles express mentioning of it, that #emph[answering again] hath been an old evil quality in servants.
+1. Some being but reproved, though justly, are ready to answer again, and to chop word for word: a sin #footnote[#emph[Tit.] 2. 9. μὴ ἀντιλέγοντας.] expressly forbidden. It seemeth by the Apostles express mentioning of it, that #emph[answering again] hath been an old evil quality in servants.
 
 #emph[Object.] If a master unjustly reprove his servant, and the servant answer not again, he wittingly suffereth his master to continue in his error, and so maketh himself accessary to his masters sin.
 

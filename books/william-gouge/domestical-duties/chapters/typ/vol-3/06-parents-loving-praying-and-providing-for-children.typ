@@ -101,7 +101,7 @@ The extreme in the excess is too much #emph[doting] upon children: #footnote[Dot
 
 === §. 4. #emph[Of Parents praying for their children.]
 
-The first and best stream which issueth out of the forenamed fountain of #emph[love] is faithful and fervent #emph[prayer.] This extendeth it self to all things, at all times, throughout the whole course of the childes life. It is the first and it is the last duty which parents ought to perform to their children: #footnote[1 #emph[Thes.] 5. 17.] even that which they must do without intermission; #emph[Pray without ceasing.]
+The first and best stream which issueth out of the forenamed fountain of #emph[love] is faithful and fervent #emph[prayer.] This extendeth it self to all things, at all times, throughout the whole course of the childes life. It is the first and it is the last duty which parents ought to perform to their children: #footnote[1 #emph[Thes.] 5. 17. ἀδιαλείπτως.] even that which they must do without intermission; #emph[Pray without ceasing.]
 
 Though prayer be a general duty which all Christians owe #footnote[Prayer a peculiar duty of parents.] one to another, yet after a peculiar manner doth it appertain to parents: and of all others they are most bound to it. For the promise which God maketh to a parent is extended to his seed and children, as these and such like Scriptures show, #footnote[#emph[Gen.] 17. 7.] #emph[I will be thy God, and the God of thy seed:] #footnote[#emph[Deut.] 5. 29.] #emph[That it may be well with them and with their children:] #footnote[#emph[Act.] 2. 39.] #emph[The promise is unto you, and unto your children.] parents therefore with most assurance of faith may call upon God for their children. For Gods promise is the ground of faith: so far as Gods promise is extended, so far our faith may and ought to extend it self. Hence hath arisen the commendable custom of childrens asking #footnote[Treat. 5. §. 9.] their parents blessing: which intimateth a desire that parents would pray for Gods blessing on them.
 
@@ -232,7 +232,7 @@ I. The consequences whereby the word implieth this duty are these:
 
 4. God by his good providence brought it to pass, that the mother of #emph[Moses] (though she were forced to cast out her #footnote[#emph[Exo.] 2. 7, #emph[etc.]] child) should nurse her own child. Yea the mother her self was desirous to do it, and therefore appointed her daughter to watch who should take it up. These two circumstances imply that it appertaineth to a mother to nurse her children.
 
-5. The Apostle layeth this down as a note of a good woman, #footnote[1 #emph[Tim.] 5. 10.] who in her place hath been careful to do her duty, and thereupon fit to do service in Gods Church #emph[(If she have] #emph[nourished her children,] or word for word, #emph[If she have fed her children.)] Now the proper food for young babes is breast-milk, which, by the Apostles rule, the mother must give.
+5. The Apostle layeth this down as a note of a good woman, #footnote[1 #emph[Tim.] 5. 10.] who in her place hath been careful to do her duty, and thereupon fit to do service in Gods Church #emph[(If she have] #footnote[εἰ ἐτεκνοτρόφησεν.] #emph[nourished her children,] or word for word, #emph[If she have fed her children.)] Now the proper food for young babes is breast-milk, which, by the Apostles rule, the mother must give.
 
 6. The same Apostle commandeth mothers to #emph[love their] #footnote[#emph[Tit.] 2. 4.] #emph[children.] How can a mother better express her love to her young babe, then by letting it suck of her own breasts? As this is a testimony of love, so it is a means of preserving and increasing love: for daily experience showeth that mothers love those children best to whom they themselves give suck.
 
@@ -524,7 +524,7 @@ Two things are required of parents, in regard of the #emph[temporal] good of the
 - 1\. To #emph[nourish] them well.#footnote[Feed them in discipline, saith the Apostle.]
 - 2\. To #emph[nurture] them well.#footnote[Children must be well fed, taught.]
 
-Under #emph[nourishment] are comprised all needful things for #footnote[#emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
+Under #emph[nourishment] are comprised all needful things for #footnote[ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. #emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
 
 1. #emph[Food,] which Christ taketh for a ruled case. Whence he draweth his argument to show that God will provide for his children. #emph[What father] (saith he) #emph[if his son ask him bread would give him a stone, etc.] Mat. 7. 9, 10, 11.
 
