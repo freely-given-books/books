@@ -252,7 +252,7 @@ scan index = 2 x TCP image - 3 or - 2), and a second 1622 copy
 - [x] `sweep.py` and `refs.py` hits fixed or explained.
 - [x] `./fgb check gouge`: OK.
   - In step [2], 10 files differ from the extraction only in where an italic run or a footnote marker falls, or by known layout lines.
-- [x] `./fgb build gouge`: the four volumes are 195, 295, 194 and 153 pages, unchanged and matching the covers.
+- [x] `./fgb build gouge` (2026-10-06, after the restorations): the four volumes are 196, 301, 194 and 153 pages; covers updated to match.
   - Inside margins are 1.0in, and nothing is within 0.5in of the trim.
   - epubcheck reports 0 errors and 0 warnings.
 - [x] 47 warnings that a footnote is set on another page than its marker (Typst's widow control).
@@ -263,4 +263,4 @@ scan index = 2 x TCP image - 3 or - 2), and a second 1622 copy
   - It has 9 footnote warnings, the same as `main`.
   - The epigraph and the §56 branches checked in the PDF text; no stray markup.
   - The EPUB (all four volumes) passes epubcheck with 0 errors and 0 warnings.
-- [ ] Volumes 2–4: rebuild and proof the PDFs (left for later).
+- [x] All four volumes rebuilt and checked (2026-10-06): Lulu margins OK, epubcheck 0 errors / 0 warnings per volume; 57 footnote-on-another-page warnings (was 47: the restored Greek lengthens some notes), the accepted Typst limitation.

@@ -16,7 +16,7 @@
   volume: [Volume I],
   subtitle: [The First Treatise: An Exposition of That Part of Scripture Out of Which Domestical Duties Are Raised],
   author: [William Gouge],
-  pages: 195,
+  pages: 196,
   spine: lulu-spine(195),
   paper: "cream-60",
   trim-width: 6in,
