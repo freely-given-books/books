@@ -132,7 +132,7 @@ Contrary is their preposterous peremptoriness who will do #footnote[A fault for 
 
 === §. 37. #emph[Of the restraint of childrens obedience.]
 
-The #emph[restraint] of childrens obedience is expressed in this clause, #emph[in the Lord:] which phrase affordeth a necessary limitation #footnote[#emph[Heb.] 12. 9. τῆς σαρκὸς.] in obeying their parents, who are but #emph[parents of our flesh,] men and women, subject to err in their commandments, and to require such sinful things as their children may not with a good conscience perform. The limitation then which the forenamed clause #emph[(in the Lord)] affordeth, is this,
+The #emph[restraint] of childrens obedience is expressed in this clause, #emph[in the Lord:] which phrase affordeth a necessary limitation #footnote[#emph[Heb.] 12. 9. τῆς σαρκός.] in obeying their parents, who are but #emph[parents of our flesh,] men and women, subject to err in their commandments, and to require such sinful things as their children may not with a good conscience perform. The limitation then which the forenamed clause #emph[(in the Lord)] affordeth, is this,
 
 #emph[Children must perform no other obedience to their parents, then may stand with their obedience to God.] The reasons rendered by the Apostle prove as much: #emph[This is right, this is well pleasing to] #footnote[#emph[Ephes.] 6. 1. #emph[Col.] 3. 20.] #emph[the Lord.] But to obey parents against the Lord is neither right nor wellpleasing to the Lord.
 

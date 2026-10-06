@@ -167,7 +167,7 @@ The forenamed reason is by this same Apostle in another place thus set down, #em
 
 #emph[What is right is well-pleasing to the Lord.] And again, #emph[What is well-pleasing to the Lord is right.]
 
-These two propositions, are (as we speak in Schools) #emph[convertible] and #emph[reciprocal;] either of them true of the other every way. Wherefore the Apostle, in another place, joineth them both together. For having exhorted children to recompense their parents, he saith, #emph[That is good and acceptable before God.] #footnote[καλὸν.] #emph[Good] or #footnote[1 #emph[Tim.] 5. 4.] #emph[honest] is in effect the same that #footnote[δίκαιον.] #emph[right.]
+These two propositions, are (as we speak in Schools) #emph[convertible] and #emph[reciprocal;] either of them true of the other every way. Wherefore the Apostle, in another place, joineth them both together. For having exhorted children to recompense their parents, he saith, #emph[That is good and acceptable before God.] #footnote[καλόν.] #emph[Good] or #footnote[1 #emph[Tim.] 5. 4.] #emph[honest] is in effect the same that #footnote[δίκαιον.] #emph[right.]
 
 This showeth, that dutiful children, as they do that which is good, or honest, and right unto their parents; so also therein they highly please God: so as they may be sure not to lose thereby. At Gods hand they shall receive a reward, though their parents should little regard their dutifulness. Thus God dealt with #emph[Jacob.] His father in law ill repaid his faithfulness: but God looked #footnote[#emph[Gen.] 31. 7, #emph[etc. vers] 42.] upon him, and abundantly recompensed all his pains.
 

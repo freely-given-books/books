@@ -47,7 +47,7 @@ If they do, they make their own sin the more heinous, and also they pull down up
 
 === §. 118. #emph[Of parents seeking the good of their children.]
 
-That parents by avoiding the rock of #emph[provoking,] fall not into the gulf of #emph[cockering,] the Apostle addeth a BUT, which is #footnote[ἀλλὰ.] as a stop unto them, and teacheth them that
+That parents by avoiding the rock of #emph[provoking,] fall not into the gulf of #emph[cockering,] the Apostle addeth a BUT, which is #footnote[ἀλλά.] as a stop unto them, and teacheth them that
 
 #emph[It is not sufficient for parents to prevent such mischiefs as] #footnote[3\. #emph[Obser.]] #emph[children may fall into, but they must also seek their good.] All the precepts in Scripture charging parents to seek their childrens good, prove the point. Herein lieth a main difference betwixt the affection which parents and strangers ought to bear toward children, and the duty which one and the other owe to them. Mere strangers ought not to provoke them: but parents ought moreover every way to seek their good.
 
@@ -57,7 +57,7 @@ The word translated #emph[(bring up)] properly signifieth to feed #footnote[ἐ�
 
 This word joined with the others that follow, may seem #footnote[Nourrissez. Fr.] at first sight to be here placed only to make up the sense, as if he had thus said, #emph[nurture your child in the ways of God.] But if the scope of the Apostle, and signification of the word be well weighed, we shall find that it further implieth a general duty, which nature it self teacheth parents, even this, that
 
-#emph[Parents ought to provide all needful things for their children:] #footnote[4\. #emph[Obseru.] Parents to provide all needful things for children. ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. ἐκτρέφετε καὶ παιδεύετε αὐτὰ.] even such things as tend to the nourishing of their bodies, and preserving of their health and life: for this phrase (to translate it word for word) #emph[nourish them in discipline,] or in instruction, is a concise speech, implying as much as if he had said, #emph[nourish and nurture them,] or #emph[feed and instruct them.] But the Apostle hath thus nearly and concisely joined them together, to show that #emph[Nurture and instruction is as needful and profitable, as food and apparel.]
+#emph[Parents ought to provide all needful things for their children:] #footnote[4\. #emph[Obseru.] Parents to provide all needful things for children. ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. ἐκτρέφετε καὶ παιδεύετε αὐτά.] even such things as tend to the nourishing of their bodies, and preserving of their health and life: for this phrase (to translate it word for word) #emph[nourish them in discipline,] or in instruction, is a concise speech, implying as much as if he had said, #emph[nourish and nurture them,] or #emph[feed and instruct them.] But the Apostle hath thus nearly and concisely joined them together, to show that #emph[Nurture and instruction is as needful and profitable, as food and apparel.]
 
 === §. 119. #emph[Of parents nurturing their children.] #footnote[5\. #emph[Obseru.] παιδεία. εἰ παιδείαν ὑπομένετε. πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ.]
 

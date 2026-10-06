@@ -7,10 +7,10 @@
 | grammar | 147 |
 | case | 104 |
 | punctuation | 82 |
+| gap | 49 |
 | italic | 36 |
 | spacing | 26 |
 | expansion | 25 |
-| gap | 10 |
 | list | 9 |
 | split | 6 |
 | note | 5 |
@@ -34,16 +34,55 @@
 
 ## gap
 
+- [vol-1/dedication.typ note] Μακρολόγος ἔστιν ὁ περὶ ὀλίγων πολλὰ λέγων. Πολυλόγος ὁ περὶ πολλῶν πολλά → Μακρολόγος ἐστὶν ὁ περὶ ὀλίγων πολλὰ λέγων. Πολυλόγος ὁ περὶ πολλῶν πολλά
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] καὶ → καί
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] σωτὴρ → σωτήρ
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] σώζειν εἰς τὸ παντελὲς δύναται → σῴζειν εἰς τὸ παντελὲς δύναται
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] αὐτὸς → αὐτός
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] καθὼς → καθώς
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] διὸ → διό
+- [vol-1/06-redeemed-for-glory.typ note] καθ’ ὑπερβολὴν εἰς ὑπερβολὴν → καθ’ ὑπερβολὴν εἰς ὑπερβολήν
+- [vol-1/06-redeemed-for-glory.typ note] ψίλος → σπίλος
+- [vol-1/06-redeemed-for-glory.typ note] ῥύτις → ῥυτίς
 - [vol-1/07-marital-love-and-self-love.typ note] 2 → 29.
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] ἐσμὲν → ἐσμέν
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] ἐκ τῆς σαρκὸς. ἐκ τῶν ὀστέων → ἐκ τῆς σαρκός. ἐκ τῶν ὀστέων
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] ἐκ σπέρματος Δαβὶδ → ἐκ σπέρματος Δαβίδ
+- [vol-1/10-the-mystery-and-practice-of-marriage.typ note] πλὴν → πλήν
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] οἱ γόνεις → οἱ γονεῖς
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] ὑπὸ → ὑπό
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] ἐντολὴ → ἐντολή
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] צבח → צבא
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] ἀλλὰ → ἀλλά
+- [vol-1/12-the-parents-duty-towards-their-children.typ note] ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. ἐκτρέφετε καὶ παιδεύετε αὐτὰ → ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. ἐκτρέφετε καὶ παιδεύετε αὐτά
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] ἑαυτου. ἴδιον → ἑαυτοῦ. ἴδιον
 - [vol-2/04-living-together-in-love.typ] manage → marriage
+- [vol-2/06-guarding-each-others-health-reputation-and-property.typ note] παραδειγματίσαι αὐτὴν → παραδειγματίσαι αὐτήν
 - [vol-2/07-serving-together-in-family-ministry.typ] do → no
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] ἐν παντὶ → ἐν παντί
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] κεφαλὴ → κεφαλή
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] ἴδιοι → ἰδίοις
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] ἐκ τῆς τοῦ οὐρίου → ἐκ τῆς τοῦ Οὐρίου
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] אלוֹף → אלוף
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gld → gold
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ovught → ought
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] τῆς σαρκὸς → τῆς σαρκός
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] καλὸν → καλόν
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] lieth → liveth
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] ἐκτρέφετε αὐτὰ ἐν παιδεία → ἐκτρέφετε αὐτὰ ἐν παιδείᾳ
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] elizabeth → Elizabeth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] begineth → beginneth
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ft → fit
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] ὑγιαίνοντοι λόγοι → ὑγιαίνοντες λόγοι
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] שחרו מוּסר שחר → שחרו מוסר שחר
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] בנך את־יחידך τὸν υἱόν σου τὸν ἀγαπητὸν → בנך את־יחידך τὸν υἱόν σου τὸν ἀγαπητόν
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] ἀγαπητὸν → ἀγαπητόν
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] ἀγαπητὸν υἱὸν → ἀγαπητὸν υἱόν
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] ἀγαπητὸν → ἀγαπητόν
 - [vol-3/09-parents-directing-children-into-adulthood.typ] inn → in
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] ἀνιέντες τὴν ἀπειλὴν → ἀνιέντες τὴν ἀπειλήν
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] κατ᾽ ἐξοχήν → κατ’ ἐξοχήν
+- [vol-4/06-a-masters-authority-rightly-maintained.typ note] τοῦ ἰδίου οἴκου προϊστάμενον εὖ → τοῦ ἰδίου οἴκου καλῶς προϊστάμενον
 
 ## expansion
 

@@ -524,7 +524,7 @@ Two things are required of parents, in regard of the #emph[temporal] good of the
 - 1\. To #emph[nourish] them well.#footnote[Feed them in discipline, saith the Apostle.]
 - 2\. To #emph[nurture] them well.#footnote[Children must be well fed, taught.]
 
-Under #emph[nourishment] are comprised all needful things for #footnote[ἐκτρέφετε αὐτὰ ἐν παιδεία. #emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
+Under #emph[nourishment] are comprised all needful things for #footnote[ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. #emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
 
 1. #emph[Food,] which Christ taketh for a ruled case. Whence he draweth his argument to show that God will provide for his children. #emph[What father] (saith he) #emph[if his son ask him bread would give him a stone, etc.] Mat. 7. 9, 10, 11.
 

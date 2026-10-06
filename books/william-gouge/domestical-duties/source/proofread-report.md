@@ -209,8 +209,15 @@ scan index = 2 x TCP image - 3 or - 2), and a second 1622 copy
   in `gap_fixes.py` with the scan and evidence for each. With the words back,
   61 stops the review had deleted (left hanging when the Greek was dropped:
   "1 Tim. 5. 14. .") are printed again.
-  - Kept as printed: ψίλος (Eph 5:27, for σπίλος), ῥύτις, σώζειν, οἱ γόνεις,
-    ἴδιοι, צבח (Job 7:1 has צבא), and Gouge's own εὖ in 1 Tim 3:4.
+  - The printer's errors are corrected as `#editor` readings (the TEI keeps
+    what 1622 printed): ψίλος → σπίλος (Eph 5:27), ἴδιοι → ἰδίοις (Eph 5:22),
+    ὑγιαίνοντοι → ὑγιαίνοντες λόγοι (2 Tim 1:13), צבח → צבא (Job 7:1), εὖ →
+    καλῶς (1 Tim 3:4), οἱ γόνεις → οἱ γονεῖς, ῥύτις → ῥυτίς, ἑαυτου → ἑαυτοῦ,
+    ἔστιν → ἐστὶν (Ammonius), σώζειν → σῴζειν, ἐν παιδεία → ἐν παιδείᾳ, τοῦ
+    οὐρίου → τοῦ Οὐρίου; the two stray vowel points in otherwise unpointed
+    Hebrew (אלוֹף, מוּסר) removed; and the 1622 grave on a word standing alone
+    or before a stop (σωτὴρ, καθὼς, διὸ, κεφαλὴ …) written acute, as modern
+    Greek is, with ’ for the koronis-style apostrophe. 39 readings in all.
   - Medium: 80, 93 (יארכון), 94, 232, 250, 708, 710 (אף ab אנף), 712, and
     the unclear accents noted in each entry.
 - **Pages 191–196**, missing from the filmed copy, transcribed from the

@@ -41,7 +41,7 @@ To declare the quality of wives subjection to their husbands, two rules are set 
 
 2. That it be such a subjection as the #footnote[As the Church is subject to Christ.] Church performeth unto Christ.
 
-The extent of wives subjection doth stretch it self very far, even to #footnote[ἐν παντὶ, In every thing.] #emph[all things.]
+The extent of wives subjection doth stretch it self very far, even to #footnote[ἐν παντί, In every thing.] #emph[all things.]
 
 The reason to enforce all these points is taken from that place of eminency and authority, wherein the husband is set above his wife: which is,
 
@@ -83,7 +83,7 @@ First therefore concerning the general, I will lay down #footnote[Proofs that th
 
 2. Nature hath placed an eminency in the male over the #footnote[#emph[Mari & foeminae a natura tributum est, vt hic praesit, illa obediat, cum mas praestantior sit. Arist. Pol. lib.] 1.] female: so as where they are linked together in one yoke, it is given by nature that he should govern, she obey. This did the heathen by light of nature observe.
 
-3. The titles and names, whereby an husband is set forth, do imply a superiority and authority in him, as #footnote[Κύριος.] #emph[Lord,] (1 Pet. 3. 6.) #footnote[בעל] #emph[master,] (Est. 1. 17.) #footnote[אלוף] #emph[Guide,] (Prov. 2. 17.) #footnote[κεφαλὴ.] #emph[Head,] (1 Cor. 11. 3.) #footnote[εἰκὼν καὶ δόξα Θεοῦ.] #emph[Image and glory of God,] (1 Cor. 11. 7.)
+3. The titles and names, whereby an husband is set forth, do imply a superiority and authority in him, as #footnote[Κύριος.] #emph[Lord,] (1 Pet. 3. 6.) #footnote[בעל] #emph[master,] (Est. 1. 17.) #footnote[אלוף] #emph[Guide,] (Prov. 2. 17.) #footnote[κεφαλή.] #emph[Head,] (1 Cor. 11. 3.) #footnote[εἰκὼν καὶ δόξα Θεοῦ.] #emph[Image and glory of God,] (1 Cor. 11. 7.)
 
 4. The persons whom the husband by virtue of his place, and whom the wife by virtue of her place, represent, most evidently prove as much: for an #emph[husband] representeth #emph[Christ,] and a #emph[wife,] the #emph[Church,] (Eph. 5. 23.)
 
@@ -113,7 +113,7 @@ Though there seem to be never so little disparity, yet God having so expressly a
 
 The truth and life of that general acknowledgment of husbands #emph[honour,] consisteth in the particular application thereof unto their #emph[own] proper husbands.
 
-The next duty therefore is, that wives acknowledge their #footnote[All wives must acknowledge their own husbands worthy of honour.] #emph[own] husbands, even those to whom by Gods providence they are joined in marriage, to be worthy of an husbands honour, and to be their superior: thus much the Apostle intendeth by that particle of restraint (#footnote[ἴδιοι. #emph[Eph.] 5. 22, 24.] #emph[own)] which he useth very often: so likewise doth #footnote[1 #emph[Pet.] 3. 1, 5.] #emph[S. Peter,] exhorting wives to be in subjection #footnote[1 #emph[Cor.] 7. 2.] to their #emph[own] husbands: and hereunto restraining the commendation of the ancient good wives, that they were in subjection to their #emph[own] husbands.
+The next duty therefore is, that wives acknowledge their #footnote[All wives must acknowledge their own husbands worthy of honour.] #emph[own] husbands, even those to whom by Gods providence they are joined in marriage, to be worthy of an husbands honour, and to be their superior: thus much the Apostle intendeth by that particle of restraint (#footnote[ἰδίοις. #emph[Eph.] 5. 22, 24.] #emph[own)] which he useth very often: so likewise doth #footnote[1 #emph[Pet.] 3. 1, 5.] #emph[S. Peter,] exhorting wives to be in subjection #footnote[1 #emph[Cor.] 7. 2.] to their #emph[own] husbands: and hereunto restraining the commendation of the ancient good wives, that they were in subjection to their #emph[own] husbands.
 
 #emph[Object.] What if a man of mean place be married to a woman of eminent place, or a servant be married to his mistress, or an aged woman to a youth, must such a wife acknowledge such an husband her superior?
 

@@ -92,7 +92,7 @@ Others, other things. Thus they wanting the light of Gods word, one strayeth in 
 
 #v(0.8em)
 
-The Apostle having made a large digression about the mutual relation betwixt Christ and the Church, whom he propounded as patterns to husbands and wives, he now returneth to the main point intended, namely to the duties of husbands and wives: and so much doth the first particle imply #emph[(Nevertheless)] as if he had thus said, #emph[Though I have a little digressed] #footnote[πλὴν.] #emph[into the mystery of the union of Christ and the Church, yet nevertheless do ye, ô husbands and wives, call to mind that which I principally aimed at, even your duties.]
+The Apostle having made a large digression about the mutual relation betwixt Christ and the Church, whom he propounded as patterns to husbands and wives, he now returneth to the main point intended, namely to the duties of husbands and wives: and so much doth the first particle imply #emph[(Nevertheless)] as if he had thus said, #emph[Though I have a little digressed] #footnote[πλήν.] #emph[into the mystery of the union of Christ and the Church, yet nevertheless do ye, ô husbands and wives, call to mind that which I principally aimed at, even your duties.]
 
 This verse then containeth a conclusion of the Apostles discourse, concerning the duties of husbands and wives.
 

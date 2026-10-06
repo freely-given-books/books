@@ -21,7 +21,7 @@ This I have the rather noted, because many who hold that a wife must have but on
 
 === §. 27. #emph[Of the example of Christs love.]
 
-The note of comparison (#footnote[καθὼς.]#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
+The note of comparison (#footnote[καθώς.]#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
 
 An #emph[equity,] because there is as great reason that husbands by virtue of their place should love their wives, as that Christ by virtue of his place should love the Church.
 
@@ -156,7 +156,7 @@ From hence by just consequence it followeth that #emph[Christ merited] #footnote
 
 #emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his human nature, not as a recompense which he should deserve.
 
-#strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διὸ.] WHEREFORE #emph[God also hath highly exalted him.]]
+#strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διό.] WHEREFORE #emph[God also hath highly exalted him.]]
 
 #emph[Answ.] That particle #emph[(wherefore)] doth not declare the cause, but the order of his exaltation: noting a consequence that followed after his death. After he had humbled himself so low, he was most highly advanced.
 

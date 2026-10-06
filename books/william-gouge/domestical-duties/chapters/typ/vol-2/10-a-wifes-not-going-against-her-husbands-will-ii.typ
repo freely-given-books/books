@@ -38,7 +38,7 @@ But what if #emph[Zipporahs] example herein be not warrantable? For it doth not 
 
 #emph[Answ.] If this could be proved it were somewhat to the purpose; but this clause #emph[without her husbands consent] (wherein the main state of the question consisteth) is not in the text, nor by any good probability can be gathered out of it. All the show of probability that can be showed for it is, that #emph[Joanna] is there said to be #emph[the wife of Chuza, Herods steward.] But to show that that is nothing, let it be noted,
 
-1. That phrase doth not imply that #emph[Chuza] was then living. It is said that #emph[David] begat #emph[Solomon of the wife of Uriah,] but #footnote[#emph[Matth.] 1. 6. ἐκ τῆς τοῦ οὐρίου.] #emph[Uriah] was not then living: therefore the translators for perspicuity sake do insert these words #emph[(her that had been)] the wife of #emph[Uriah.] So likewise #emph[Onan] is commanded to go in to his #footnote[#emph[Gen.] 38. 8.] #emph[brothers wife,] yet doth not this imply that his brother was then living.
+1. That phrase doth not imply that #emph[Chuza] was then living. It is said that #emph[David] begat #emph[Solomon of the wife of Uriah,] but #footnote[#emph[Matth.] 1. 6. ἐκ τῆς τοῦ Οὐρίου.] #emph[Uriah] was not then living: therefore the translators for perspicuity sake do insert these words #emph[(her that had been)] the wife of #emph[Uriah.] So likewise #emph[Onan] is commanded to go in to his #footnote[#emph[Gen.] 38. 8.] #emph[brothers wife,] yet doth not this imply that his brother was then living.
 
 #emph[Object.] Why should mention be made of #emph[Chuza, Herods steward,] if he were not then living?
 
