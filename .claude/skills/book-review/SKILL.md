@@ -47,7 +47,7 @@ Your sources of evidence, best first:
 ### 1. Run the tools (minutes, finds the mechanical errors)
 
 ```sh
-PY=~/.venvs/fgb-tei/bin/python
+PY=$PWD/colophon/.venv/bin/python                    # at the repo root (uv; ./fgb makes it)
 $PY colophon/sweep.py books/<author>/<book> --early   # spacing, punctuation, quotes, \; , words
 $PY colophon/slips.py <tei> WITNESS                   # if there is a witness
 $PY colophon/refs.py books/<author>/<book> --quotes [--bible bsb]

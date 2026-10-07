@@ -37,8 +37,9 @@ the old copy in as the review.
 
 ## Commands
 
-Day to day, use `./fgb` at the repo root: it works from any folder, sets up
-the venv, and takes a book by part of its name (or none inside the book):
+Day to day, use `./fgb` at the repo root: it works from any folder, keeps
+colophon's environment up to date (uv, `colophon/uv.lock`), and takes a book
+by part of its name (or none inside the book):
 
 ```sh
 ./fgb sync gouge          # after editing chapters/typ: fold into the TEI, show changes
@@ -47,6 +48,7 @@ the venv, and takes a book by part of its name (or none inside the book):
 ./fgb changes gouge --open  # before-after.html: the EPUB published before the TEI
                           # next to the one built now (--old REV|FILE.epub, --new FILE.epub)
 ./fgb check gouge         # verify.py
+./fgb check --all         # every book in parallel (after a change to colophon)
 ./fgb epub gouge          # EPUB + epubcheck (settings: EPUB in editorial.py;
                           # EPUB["volumes"]: one EPUB per volume, as Gouge)
 ./fgb pdf gouge           # print edition(s) (PRINT in editorial.py)
@@ -59,8 +61,8 @@ Built PDFs and EPUBs of TEI books are not kept in git (the root
 
 colophon is a submodule: after cloning, `git submodule update --init`. A
 change to the tools is made and committed in `colophon/` (and pushed there),
-then the new commit is recorded here (`git add colophon`), with `./fgb check`
-run on the books it affects, since a tool change can change a book's TEI.
+then the new commit is recorded here (`git add colophon`), after
+`./fgb check --all` passes, since a tool change can change a book's TEI.
 
 ## Lessons from the books
 

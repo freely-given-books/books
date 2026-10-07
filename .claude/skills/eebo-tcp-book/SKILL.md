@@ -47,13 +47,14 @@ them when it is set up, and point the user at `./fgb` rather than the long
 commands.
 
 
-The scripts need `lxml` and `pyspellchecker`. System pip on this machine
-(Artix) refuses to install packages, so use a venv and call its python for
-every script below (written `$PY`):
+The scripts run in colophon's environment, `colophon/.venv`, which uv keeps
+to the versions in `colophon/uv.lock` (any `./fgb` run brings it up to
+date). Call its python for every script below (written `$PY`), by its
+absolute path (Python 3.14 warns about a `../..` path to a venv):
 
 ```sh
-python3 -m venv ~/.venvs/fgb-tei && ~/.venvs/fgb-tei/bin/pip install -r colophon/requirements.txt
-PY=~/.venvs/fgb-tei/bin/python
+uv sync --locked --project colophon      # at the repo root; ./fgb does this itself
+PY=$PWD/colophon/.venv/bin/python
 ```
 
 Run the commands from the repo root unless a step says otherwise. `B` stands
