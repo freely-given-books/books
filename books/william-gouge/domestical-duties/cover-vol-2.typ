@@ -16,7 +16,7 @@
   volume: [Volume II],
   subtitle: [The Second, Third and Fourth Treatises: Of Husband and Wife],
   author: [William Gouge],
-  pages: 301,
+  pages: 299,
   spine: lulu-spine(295),
   paper: "cream-60",
   trim-width: 6in,

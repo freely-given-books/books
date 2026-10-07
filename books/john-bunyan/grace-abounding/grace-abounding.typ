@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.5.3": *
+#import "@local/fgbooks:0.5.4": *
 
 #show: book.with(
   title: [Grace Abounding to the Chief of Sinners],

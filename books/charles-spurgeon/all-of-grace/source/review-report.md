@@ -2,7 +2,7 @@
 
 ## Please check
 
-- chapter-20.typ: the three centred appeals (#align(center)[#text(11pt)...]) are layout, not text, so they are not stored in the TEI; keep them in chapters/typ.
+- chapter-20.typ: the three centred appeals are centred in CCEL (p[@rend='center']), so the TEI sets them centred in print and ebook.
 
 | kind | count |
 | --- | --- |

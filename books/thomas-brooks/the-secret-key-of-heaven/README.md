@@ -49,8 +49,8 @@ $ ./fgb build brooks     # print PDF, cover wrap and checked EPUB into dist/
 The PDFs and the EPUB are not kept in git: `./fgb build brooks` makes them
 in `dist/thomas-brooks/the-secret-key-of-heaven/`.
 
-Layout lines are not stored in the TEI, so `./fgb check` lists the files
-that have them as differing from the extraction: the `#align`/`#linebreak()`
-around the text in `chapter-03.typ` and its indented Doctrine
-(`#block(inset: …)`), and the `#linebreak()`/`#pagebreak()` lines elsewhere.
-Keep them in `chapters/typ`.
+`chapters/typ` is exactly what the TEI gives back (`./fgb check` requires
+it). The introduction's text in `chapter-03.typ` is an epigraph and its
+Doctrine an inset block (`#block(inset: (x: 1em))[…]`, `q[@rend="inset"]`
+in the TEI); headings are kept with their text by the template (fgbooks
+0.5.4), so there are no manual page or line breaks.

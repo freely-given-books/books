@@ -1,13 +1,13 @@
 // Cover for The Secret Key of Heaven — Thomas Brooks
 // Lulu Print Template Specifications:
-// - Total document size (with bleed): 11.98" × 8.75"
+// - Total document size (with bleed): 11.975" × 8.75"
 // - Book trim size: 5.5" × 8.5"
-// - Spine width: 0.73" (293 pages × 0.0025" cream paper)
+// - Spine width: 0.725" (290 pages × 0.0025" cream paper)
 // - Bleed: 0.125"
 // - Safety margin: 0.5" from trim
 
 #set page(
-  width: 11.98in,
+  width: 11.975in,
   height: 8.75in,
   margin: 0pt,
 )
@@ -23,7 +23,7 @@
 
 // Measurements
 #let bleed       = 0.125in
-#let spine-width = 0.73in   // 293 pages; follow a page-count change
+#let spine-width = 0.725in  // 290 pages; follow a page-count change
 #let trim-width  = 5.5in
 #let trim-height = 8.5in
 #let safety      = 0.5in

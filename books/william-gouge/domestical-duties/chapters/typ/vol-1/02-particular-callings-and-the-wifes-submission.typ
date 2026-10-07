@@ -23,7 +23,7 @@ Let therefore notice be taken of the particular callings #footnote[Use.] wherein
 
 === §. 8. #emph[Of the lawfulness of private functions in a family.]
 
-Among other particular callings the Apostle maketh choice of those which God hath settled in private families, and is accurate in reciting the several and distinct orders thereof, (for a family consisteth of these three orders, #emph[husbands,] #emph[wives,] #emph[parents,] #emph[children,] #emph[masters,] #emph[servants,] all which he reckoneth up) yea he is also copious, and earnest in urging the duties which appertain to them. Whence we may well infer, that
+Among other particular callings the Apostle maketh choice of those which God hath settled in private families, and is accurate in reciting the several and distinct orders thereof, (for a family consisteth of these three orders, #emph[husbands, wives, parents, children, masters, servants,] all which he reckoneth up) yea he is also copious, and earnest in urging the duties which appertain to them. Whence we may well infer, that
 
 #emph[The private vocations of a family, and functions appertaining] #footnote[2 #emph[Doctr.] Private duties of the family well beseem any Christian. οὐθὲν μάτην ἡ φύσις ποιεῖ. #emph[Arist. Polit. lib.] 1] #emph[thereto, are such as Christians are called unto by God, and in the exercising whereof, they may and must employ some part of their time.] For can we think that the Holy Ghost (who, as the Philosophers speak of nature, #emph[doth nothing in vain)] would so distinctly set down these private duties, & so forcibly urge them, if they did not well become, and nearly concern Christians? All the places in Scripture which require family-duties, are proofs of the truth of this doctrine.
 

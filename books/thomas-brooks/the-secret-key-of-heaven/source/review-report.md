@@ -2,7 +2,7 @@
 
 ## Please check
 
-- Layout lines are not stored in the TEI (keep them in chapters/typ): the #align/#linebreak() around the text and the #block(inset: ...) Doctrine in chapter-03.typ, and #linebreak()/#pagebreak() lines elsewhere.
+- chapter-03.typ: the introduction's text is an epigraph and its Doctrine an inset block (q[@rend='inset']), both in the TEI; headings are kept with their text by the template (fgbooks 0.5.4), not by page breaks.
 - Most of the epistle dedicatory, the publisher's list, the errata and the printed table of heads are in the TEI as printed but not in this edition.
 
 | kind | count |
@@ -11,7 +11,7 @@
 | case | 3803 |
 | emendation | 3717 |
 | spelling | 2429 |
-| italic | 1968 |
+| italic | 1967 |
 | spacing | 1840 |
 | note | 403 |
 | split | 99 |
@@ -20,6 +20,7 @@
 | gap | 28 |
 | merge | 25 |
 | list | 9 |
+| inset | 1 |
 | verse | 1 |
 
 ## split

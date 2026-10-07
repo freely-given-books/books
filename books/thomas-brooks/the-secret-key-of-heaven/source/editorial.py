@@ -121,9 +121,9 @@ SKIP_DIVISIONS = {"title_page", "publishers_advertisement", "errata", "index"}
 TYPST_ENUM = None
 
 REPORT_NOTES = [
-    "Layout lines are not stored in the TEI (keep them in chapters/typ): the "
-    "#align/#linebreak() around the text and the #block(inset: ...) Doctrine in "
-    "chapter-03.typ, and #linebreak()/#pagebreak() lines elsewhere.",
+    "chapter-03.typ: the introduction's text is an epigraph and its Doctrine an "
+    "inset block (q[@rend='inset']), both in the TEI; headings are kept with "
+    "their text by the template (fgbooks 0.5.4), not by page breaks.",
     "Most of the epistle dedicatory, the publisher's list, the errata and the "
     "printed table of heads are in the TEI as printed but not in this edition.",
 ]

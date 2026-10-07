@@ -53,7 +53,7 @@ The Holy Ghost having thus urged the point of #emph[good manners,] we may not th
 
 3. #emph[Object. Good manners] to #emph[grace] are as mint, anise and cummin, to the great and weighty things of the law.
 
-#emph[Answ.] Grant it to be so: yet seeing both may stand together, why should they be severed? Christs rule is this, #emph[These] #emph[things ought ye to have done, and not to leave the other undone.] #footnote[#emph[Matt.] 23. 23.]
+#emph[Answ.] Grant it to be so: yet seeing both may stand together, why should they be severed? Christs rule is this, #emph[These things ought ye to have done, and not to leave the other undone.] #footnote[#emph[Matt.] 23. 23.]
 
 4. #emph[Object.] Many that make great show of religion are very rude, and unmannerly.
 

@@ -1,14 +1,15 @@
-
 == Introduction
 
 #align(center)[
- #emph[
- But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
- ]
- #linebreak()
- — Matthew 6:6
+  #block(width: 85%)[
+    #set par(justify: false)
+    #text(style: "italic")[But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.]
+
+    #text(size: 0.9em, weight: 600)[— Matthew 6:6]
+  ]
 ]
-#linebreak()
+
+#v(0.8em)
 
 These words of our Savior are plain and to be taken literally, not allegorically, for He speaketh of shutting the door of the chamber. In this chapter, there is a manifest opposition between the Pharisees praying in the synagogues and corners of the streets and others praying in secret.
 
@@ -20,9 +21,7 @@ The word ταμεῖον that is in the text rendered #emph[closet], hath only 
 
 The best and most judicious interpreters that I have cast mine eye upon, both of a former and later date, do all expound my text of private prayer in retired places, and with them I close. And so the main doctrine that I shall gather from the words is this:
 
-#block(inset: (left: 1em, right: 1em))[
-Doctrine: Closet prayer or private prayer is an indispensable duty that Christ Himself hath laid upon all that are not willing to lie under the woeful brand of being hypocrites.
-]
+#block(inset: (x: 1em))[Doctrine: Closet prayer or private prayer is an indispensable duty that Christ Himself hath laid upon all that are not willing to lie under the woeful brand of being hypocrites.]
 
 I beseech you seriously to lay to heart these five things:
 

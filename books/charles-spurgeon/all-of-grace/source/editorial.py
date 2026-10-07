@@ -11,8 +11,8 @@ TYPOGRAPHY = True
 DASH = " \u2014 "           # the edition spaces its dashes
 
 REPORT_NOTES = [
-    "chapter-20.typ: the three centred appeals (#align(center)[#text(11pt)...]) are "
-    "layout, not text, so they are not stored in the TEI; keep them in chapters/typ.",
+    "chapter-20.typ: the three centred appeals are centred in CCEL "
+    "(p[@rend='center']), so the TEI sets them centred in print and ebook.",
 ]
 
 # ./fgb epub / pdf / build (paths from the book folder)
