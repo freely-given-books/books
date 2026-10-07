@@ -5,10 +5,9 @@
 // The back carries the close of the Author's Apology, Bunyan's own
 // invitation to the reader.
 //
-// Page count comes from the compiled interior; after the text changes length,
-// check `pdfinfo` on the built PDF (./fgb build prints it) and change `pages`.
-// At this thickness Lulu's own spine formula is used, not pages x caliper
-// (404 x 0.0025in = 1.01in against Lulu's 0.97in).
+// ./fgb build gives the cover its compiled interior's page count and trim,
+// and the spine is Lulu's formula (scripts/panel_cover.typ); `pages` here is
+// only for compiling the cover by itself.
 #panel-cover(
   title: [The Pilgrim's Progress],
   subtitle: [
@@ -17,8 +16,6 @@
   ],
   author: [John Bunyan],
   pages: 404,
-  spine: lulu-spine(404),
-  paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "ochre",

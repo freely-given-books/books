@@ -11,8 +11,8 @@ Taylor.
 | --- | --- |
 | `chapters/typ/tothereader.typ`, `chapter1.typ` … `chapter9.typ` | To the Reader and the nine sermons, as edited |
 | `the-glorious-feast-of-the-gospel.typ` | print edition (imports the `@local/fgbooks` template) |
-| `full_cover.typ` | the Lulu cover wrap; its spine width follows the page count |
-| `cover.jpg` | the ebook cover |
+| `cover.typ` | the Lulu cover wrap (`scripts/panel_cover.typ`, palette sky); `./fgb build` gives it the interior's page count and trim, and renders its front as the ebook cover |
+| `cover.jpg` | the earlier ebook cover image, no longer used |
 | `ebook-front.html` | ebook front matter (licence) |
 | `ebook-the-glorious-feast-of-the-gospel.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |

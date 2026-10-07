@@ -131,10 +131,9 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "The Secret Key of Heaven", "author": "Thomas Brooks",
         "file": "the-secret-key-of-heaven.epub", "front": "ebook-front.html",
-        "cover": "cover_front.jpg", "toc_depth": 4,
+        "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-secret-key-of-heaven.typ"]
-COVERS = ["cover.typ"]
 QUOTE_BLOCK = True
 
 # The headings below each file title are this edition's own (the 1665 print
