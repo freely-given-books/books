@@ -25,7 +25,7 @@ The edition is CCEL's text. It departs from it in 38 recorded decisions:
 three typos ("sufferet do", "scouged", "similtudes"), elisions CCEL keyed
 with an opening quote (‘Tis → ’Tis), Part II's subtitle capitalized, and a
 line of prose CCEL put inside a verse. Two witnesses were compared with it
-(`source/witness-report.md`, made with `scripts/tei/drift.py`):
+(`source/witness-report.md`, made with `colophon/drift.py`):
 
 - the 1678 first edition of Part I (EEBO-TCP A30170), which lacks the
   passages Bunyan added in later editions (Mr. Worldly Wiseman, Charity,

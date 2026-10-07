@@ -1,6 +1,6 @@
 """
 Editorial tables for The Anatomy of Simon Magus (EEBO-TCP A25330), loaded
-by scripts/tei/build_tei.py and scripts/tei/tei_extract.py (both look for
+by colophon/build_tei.py and colophon/tei_extract.py (both look for
 editorial.py next to the TCP/TEI file). Every name is optional.
 
 The edition (chapters/typ) was finished before the TEI existed; the TEI was

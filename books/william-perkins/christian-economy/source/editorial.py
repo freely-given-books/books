@@ -1,6 +1,6 @@
 """
 Editorial tables for Christian Oeconomie (EEBO-TCP A09377), loaded by
-scripts/tei/build_tei.py (it looks for editorial.py next to the TCP file).
+colophon/build_tei.py (it looks for editorial.py next to the TCP file).
 Every name is optional; a book without this file gets a machine-only pass.
 """
 

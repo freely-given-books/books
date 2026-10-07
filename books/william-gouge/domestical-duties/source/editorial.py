@@ -1,5 +1,5 @@
 """Editorial tables for William Gouge, Of Domesticall Duties (1622),
-EEBO-TCP A68107. Read by scripts/tei/build_tei.py, tei_extract.py and the
+EEBO-TCP A68107. Read by colophon/build_tei.py, tei_extract.py and the
 other TEI tools (see the eebo-tcp-book skill)."""
 
 import json

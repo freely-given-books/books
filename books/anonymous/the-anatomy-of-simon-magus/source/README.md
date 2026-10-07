@@ -40,8 +40,8 @@ printed but are not part of the edition.
 ## Getting text out
 
 ```sh
-python3 ../../../../scripts/tei/tei_extract.py the-anatomy-of-simon-magus.tei.xml ../chapters/typ --layer reg
-python3 ../../../../scripts/tei/tei_extract.py the-anatomy-of-simon-magus.tei.xml out-1700 --layer orig
+python3 ../../../../colophon/tei_extract.py the-anatomy-of-simon-magus.tei.xml ../chapters/typ --layer reg
+python3 ../../../../colophon/tei_extract.py the-anatomy-of-simon-magus.tei.xml out-1700 --layer orig
 ```
 
 The orig layer is the 1700 text (long s kept); add `--only-auto` to the reg

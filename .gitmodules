@@ -4,3 +4,6 @@
 [submodule "typst/fgbooks-typst"]
 	path = typst/fgbooks-typst
 	url = https://github.com/freely-given-books/fgbooks-typst.git
+[submodule "colophon"]
+	path = colophon
+	url = https://github.com/freely-given-books/colophon.git

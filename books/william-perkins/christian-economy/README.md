@@ -23,7 +23,7 @@ Latin by Thomas Pickering.
 | `source/review-report.md` | review decisions carried from `chapters/typ` into the TEI |
 
 The scripts in `sources/` are the first-pass converters, superseded by
-`scripts/tei/` at the repo root. See `source/README.md` for extracting either
+`colophon/` at the repo root. See `source/README.md` for extracting either
 spelling from the TEI and for rebuilding it after further review.
 
 ## Everyday commands
@@ -50,12 +50,12 @@ cover's front panel as an image, checked EPUB); the long forms follow.
 
 ### ebook
 
-The EPUB 3 is built straight from the TEI by `scripts/tei/tei_epub.py`: one
+The EPUB 3 is built straight from the TEI by `colophon/tei_epub.py`: one
 file per chapter, notes as pop-up footnotes (shown after the chapter on
 readers without pop-ups), Greek and Hebrew language-tagged.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
+$ python3 ../../../colophon/tei_epub.py source/christian-economy.tei.xml christian-economy.epub \
         --title "Christian Economy" --author "William Perkins" \
         --front ebook-front.html --cover cover-front.png \
         --css ../../resources/css/ebook.css --css ebook-override.css
@@ -70,7 +70,7 @@ the editor's). It is read-only: edit `chapters/typ`, rebuild the TEI, then
 regenerate it. It is git-ignored.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_review.py source/christian-economy.tei.xml side-by-side.html
+$ python3 ../../../colophon/tei_review.py source/christian-economy.tei.xml side-by-side.html
 ```
 
 ### pdf

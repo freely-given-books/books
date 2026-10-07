@@ -59,7 +59,7 @@ review. Look before deciding, and tell the user what you found:
 
 Build with the copy as `--review` into a scratch file first. `0 unresolved`
 and no `skipped` entries are the goal; each kind of leftover is a tool gap
-to fix in `scripts/tei/` (keep the other books' TEI byte-identical:
+to fix in `colophon/` (keep the other books' TEI byte-identical:
 `verify.py` [1] on every book after each change).
 
 Then compile the print book from the old copy and from the extraction (a
@@ -84,7 +84,7 @@ publisher's edition carries that edition's cuts. With a modern text of the
 same early printing as a witness:
 
 ```sh
-scripts/tei/slips.py source/<book>.tei.xml WITNESS > /tmp/slips.txt
+colophon/slips.py source/<book>.tei.xml WITNESS > /tmp/slips.txt
 ```
 
 WITNESS may be a PDF (Monergism), an EPUB (Chapel Library), a `.txt` or a
@@ -111,7 +111,7 @@ annotations are theirs (their text is public domain).
 ## 5. The text sweep
 
 ```sh
-scripts/tei/sweep.py books/<author>/<book> [--early]
+colophon/sweep.py books/<author>/<book> [--early]
 ```
 
 Lists spacing before punctuation, `,.`/`.;`/`.....`, quotations closed with
@@ -138,7 +138,7 @@ Typst made of it.
 ## 7. Encodings a finished copy may need
 
 All are written by `build_tei.py` from the review and read by the
-extractor, the ebook and the side-by-side page; see CLAUDE.md for the TEI.
+extractor, the ebook and the side-by-side page; see colophon/CLAUDE.md for the TEI.
 
 | The copy has | Setting / encoding |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 > **First-pass notes.** This file and the scripts beside it are the first
 > converter, kept as provenance. The book is now built from the TEI by
-> `scripts/tei/` (see the repository's `CLAUDE.md` and the `eebo-tcp-book`
+> `colophon/` (see the repository's `CLAUDE.md` and the `eebo-tcp-book`
 > skill); the lessons below were carried into that pipeline.
 
 This documents what was learned converting William Perkins' *Christian

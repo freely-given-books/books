@@ -48,9 +48,9 @@ Your sources of evidence, best first:
 
 ```sh
 PY=~/.venvs/fgb-tei/bin/python
-$PY scripts/tei/sweep.py books/<author>/<book> --early   # spacing, punctuation, quotes, \; , words
-$PY scripts/tei/slips.py <tei> WITNESS                   # if there is a witness
-$PY scripts/tei/refs.py books/<author>/<book> --quotes [--bible bsb]
+$PY colophon/sweep.py books/<author>/<book> --early   # spacing, punctuation, quotes, \; , words
+$PY colophon/slips.py <tei> WITNESS                   # if there is a witness
+$PY colophon/refs.py books/<author>/<book> --quotes [--bible bsb]
 ./fgb check <book> && ./fgb build <book>                 # verify, Lulu checks, epubcheck
 ```
 

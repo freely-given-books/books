@@ -50,11 +50,11 @@ this repository, so its front, `cover_front.jpg`, is kept here as a source
 
 ### ebook
 
-The EPUB 3 is built from the TEI by `scripts/tei/tei_epub.py`; the foreword
+The EPUB 3 is built from the TEI by `colophon/tei_epub.py`; the foreword
 and the abbreviations guide are rendered from their Typst files.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_epub.py source/the-anatomy-of-simon-magus.tei.xml \
+$ python3 ../../../colophon/tei_epub.py source/the-anatomy-of-simon-magus.tei.xml \
         the-anatomy-of-simon-magus.epub \
         --title "The Anatomy of Simon Magus" --author "Anonymous" \
         --front ebook-front.html --cover cover_front.jpg \
@@ -76,9 +76,9 @@ Rebuild the TEI so it keeps up with `chapters/typ`, then check:
 
 ``` sh
 $ cd source
-$ python3 ../../../../scripts/tei/build_tei.py A25330.tcp.xml the-anatomy-of-simon-magus.tei.xml \
+$ python3 ../../../../colophon/build_tei.py A25330.tcp.xml the-anatomy-of-simon-magus.tei.xml \
         --review ../chapters/typ --report review-report.md
-$ cd ../../../.. && python3 scripts/tei/verify.py books/anonymous/the-anatomy-of-simon-magus
+$ cd ../../../.. && python3 colophon/verify.py books/anonymous/the-anatomy-of-simon-magus
 ```
 
 ### side-by-side reading copy
@@ -89,7 +89,7 @@ the editor's), with the foreword and appendix in the edition column. It is read-
 above, then regenerate it. It is git-ignored.
 
 ``` sh
-$ python3 ../../../scripts/tei/tei_review.py source/the-anatomy-of-simon-magus.tei.xml side-by-side.html \
+$ python3 ../../../colophon/tei_review.py source/the-anatomy-of-simon-magus.tei.xml side-by-side.html \
         --before chapters/typ/foreword.typ \
         --after ebook-appendix.html --after chapters/typ/abbreviations.typ
 ```

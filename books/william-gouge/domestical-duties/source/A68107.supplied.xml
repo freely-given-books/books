@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Pages the TCP transcription lacks, transcribed for this edition and
-  spliced into the source as it is read (scripts/tei/sources.py); the TCP
+  spliced into the source as it is read (colophon/sources.py); the TCP
   file itself is untouched.  Encoded as the TCP encodes the rest of the book,
   except that long s is given as s and the printer's contractions are written
   out.  Every element brought in carries @change="#supplied-pages".

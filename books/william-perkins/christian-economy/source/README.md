@@ -11,13 +11,13 @@
 The modern reading text (what `chapters/typ` contains):
 
 ```sh
-python3 ../../../../scripts/tei/tei_extract.py christian-economy.tei.xml ../chapters/typ --layer reg
+python3 ../../../../colophon/tei_extract.py christian-economy.tei.xml ../chapters/typ --layer reg
 ```
 
 The 1609 text as printed (macrons shown, printed headings and numerals):
 
 ```sh
-python3 ../../../../scripts/tei/tei_extract.py christian-economy.tei.xml out-1609 --layer orig
+python3 ../../../../colophon/tei_extract.py christian-economy.tei.xml out-1609 --layer orig
 ```
 
 Add `--show-gaps` to show illegible print the way the TCP transcribers
@@ -30,7 +30,7 @@ abbreviations, or `--only-auto` to see the machine pass without the review
 Keep reviewing in `chapters/typ`, then:
 
 ```sh
-python3 ../../../../scripts/tei/build_tei.py A09377.tcp.xml christian-economy.tei.xml \
+python3 ../../../../colophon/build_tei.py A09377.tcp.xml christian-economy.tei.xml \
     --review ../chapters/typ --report review-report.md
 ```
 
