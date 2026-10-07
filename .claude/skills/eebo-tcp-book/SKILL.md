@@ -336,9 +336,12 @@ not kept in git: add the book's folder to the root `.gitignore`.
 Work on a branch, not `main`; commit and open a PR when the user asks (they
 merge). Commit the source file(s), the TEI, `editorial.py`, the reports,
 `chapters/typ` and the book files. A script change is committed inside
-`colophon/` (on a branch there, pushed, PR to the colophon repository), and
-the books repository then records the new colophon commit (`git add
-colophon`) in its own commit, apart from the book's. Built PDFs and EPUBs are not kept in git: add the book's
+`colophon/` (on a branch there, pushed, PR to the colophon repository with
+the version bumped), released as a tag after the merge, and the books
+repository then pins that tag (`git -C colophon checkout X.Y.Z`, `git add
+colophon`) in its own commit, apart from the book's; CLAUDE.md "Commands"
+has the steps. A book branch may use an unreleased colophon while it is
+worked on, but it is pinned to a release before its PR is merged. Built PDFs and EPUBs are not kept in git: add the book's
 lines to the root `.gitignore` and `git rm --cached` any it tracked.
 
 Stage paths by name, never a whole book folder: book folders hold things

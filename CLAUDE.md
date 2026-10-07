@@ -59,10 +59,28 @@ by part of its name (or none inside the book):
 Built PDFs and EPUBs of TEI books are not kept in git (the root
 `.gitignore` lists each book's folder); `./fgb build` remakes them.
 
-colophon is a submodule: after cloning, `git submodule update --init`. A
-change to the tools is made and committed in `colophon/` (and pushed there),
-then the new commit is recorded here (`git add colophon`), after
-`./fgb check --all` passes, since a tool change can change a book's TEI.
+colophon is a submodule: after cloning, `git submodule update --init`. It
+is **pinned to colophon's release tags** (`0.2.0`, like the Typst templates'
+tags), never to a branch or an untagged commit; the `colophon release`
+workflow fails a PR that pins anything else. `./fgb` reports colophon's
+version in each `build-info.txt` (`git describe`: `0.2.0`, or
+`0.2.0-3-gabc1234` while working on it).
+
+A change to the tools:
+
+1. In `colophon/`, on a branch: make the change, run `./fgb check --all`
+   here (it must pass, or the books' TEI must be updated with it), commit,
+   push, PR to freely-given-books/colophon; its CI runs the same check.
+2. Bump `version` in `colophon/pyproject.toml` (and `uv lock`) in that PR:
+   patch (0.2.1) when no book's output changes, minor (0.3.0) for new
+   features or anything that changes a book's TEI or builds.
+3. After the merge, tag the merge commit and publish the release:
+   `git -C colophon fetch && git -C colophon tag -a X.Y.Z origin/main -m
+   "colophon X.Y.Z" && git -C colophon push origin X.Y.Z`, then
+   `gh release create X.Y.Z --repo freely-given-books/colophon --verify-tag`
+   with notes.
+4. Pin it here, in a commit of its own: `git -C colophon checkout X.Y.Z`,
+   `./fgb check --all`, `git add colophon`.
 
 ## Lessons from the books
 
