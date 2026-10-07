@@ -78,8 +78,7 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "The Glorious Feast of the Gospel", "author": "Richard Sibbes",
         "file": "the-glorious-feast-of-the-gospel.epub", "front": "ebook-front.html",
-        "cover": "cover.jpg",
+        "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-glorious-feast-of-the-gospel.typ"]
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
-COVERS = ["full_cover.typ"]   # the Lulu wrap (its spine follows the page count)

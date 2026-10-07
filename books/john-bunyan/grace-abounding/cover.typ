@@ -4,8 +4,9 @@
 // scripts/panel_cover.typ), in Bunyan's ochre. The back carries Bunyan's own
 // word on how he wrote the book, from his preface.
 //
-// Page count comes from the compiled interior; after the text changes length,
-// check `pdfinfo` on the built PDF (./fgb build prints it) and change `pages`.
+// ./fgb build gives the cover its compiled interior's page count and trim,
+// and the spine is Lulu's formula (scripts/panel_cover.typ); `pages` here is
+// only for compiling the cover by itself.
 #panel-cover(
   title: [Grace Abounding to the Chief of Sinners],
   subtitle: [
@@ -14,7 +15,6 @@
   ],
   author: [John Bunyan],
   pages: 144,
-  paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "ochre",

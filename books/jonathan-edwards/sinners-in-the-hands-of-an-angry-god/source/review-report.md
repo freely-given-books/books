@@ -9,10 +9,10 @@
 | --- | --- |
 | case | 1162 |
 | emendation | 352 |
-| punctuation | 160 |
+| punctuation | 159 |
 | spelling | 110 |
 | italic | 75 |
-| spacing | 63 |
+| spacing | 61 |
 | split | 18 |
 | grammar | 11 |
 | merge | 11 |
@@ -407,7 +407,7 @@
 - [sermon.typ] behind you , escape → stop anywhere on the plain! Flee
 - [sermon.typ] lest → or
 - [sermon.typ] you → you will
-- [sermon.typ] consumed → swept
+- [sermon.typ] consumed . → swept away!"
 
 ## grammar
 
@@ -583,7 +583,6 @@
 - [sermon.typ] ; → ,
 - [sermon.typ] , → 
 - [sermon.typ] : → .
-- [sermon.typ] . → away
 
 ## case
 

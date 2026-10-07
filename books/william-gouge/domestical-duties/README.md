@@ -9,16 +9,18 @@ faults that answer to it.
 Set from the Text Creation Partnership transcription of the first edition,
 EEBO-TCP `A68107`, with the spelling modernized. 290,000 words.
 
-**In print it is four volumes; as an ebook it is one file.** 795 pages of text
+**In print it is four volumes; as an ebook it is one file.** 992 pages of text
 will not perfect-bind as a single block, and a reader searching for a duty
 should not have to search four books.
 
 | Volume | Contents | Pages |
 | --- | --- | --- |
-| I — The First Treatise | An exposition of Ephesians 5:21–6:4 | 195 |
-| II — The Second, Third and Fourth Treatises | Of husband and wife | 295 |
-| III — The Fifth and Sixth Treatises | Of children and parents | 194 |
-| IV — The Seventh and Eighth Treatises | Of servants and masters, with the exposition of Ephesians 6:5–9 | 153 |
+| I — The First Treatise | An exposition of Ephesians 5:21–6:4 | 235 |
+| II — The Second, Third and Fourth Treatises | Of husband and wife | 348 |
+| III — The Fifth and Sixth Treatises | Of children and parents | 230 |
+| IV — The Seventh and Eighth Treatises | Of servants and masters, with the exposition of Ephesians 6:5–9 | 179 |
+
+The volumes are the imprint's 5.5×8.5 trim, at 10.5pt.
 
 ## Volumes and chapters
 
@@ -147,17 +149,14 @@ the map (to cut chapters differently, change `edition.json`, then
 $ uv run --project ../../../colophon python sources/build_edition.py
 ```
 
-A cover needs the interior's page count, so it is a second pass: compile the
-volumes first (`./fgb pdf gouge`), then generate the covers from the
-compiled PDFs. `--covers` reads the count out of each PDF rather than taking
-it on trust: a stale `pages:` is a wrong spine, and a wrong spine is a
-wrecked print run.
+`./fgb build gouge` (or `./fgb pdf gouge`) gives each cover the page count
+and trim of the volume it wraps, read from the compiled PDF, so a cover
+cannot carry a stale spine. `--covers` writes the cover files themselves
+(from `edition.json`), with the current counts as the fallback for
+compiling a cover by itself:
 
 ``` sh
 $ uv run --project ../../../colophon python sources/build_edition.py --covers
-$ for n in 1 2 3 4
-      typst compile --root ../../../ cover-vol-$n.typ cover-vol-$n.pdf
-  end
 $ typst compile --root ../../../ cover-ebook.typ cover-ebook.pdf
 ```
 
@@ -171,12 +170,12 @@ navigation.
 
 ## Before printing
 
-- **Verify each wrap against a live template.** Download the 6×9 perfect-bound
-  template for the actual page count and paper and check the cover against it.
-- **The spine formulas disagree on thick books.** `pages × caliper` and Lulu's
-  own `pages / 444 + 0.06in` agree under about 240 pages and drift apart above
-  it. The generated covers use the Lulu figure explicitly, via the `spine:`
-  override added to `scripts/panel_cover.typ`.
-- **All four volumes are inside the range that binds and opens flat.** 153–295
+- **Verify each wrap against a live template.** Download the 5.5×8.5
+  perfect-bound template for the actual page count and paper and check the
+  cover against it.
+- **The spine is Lulu's own formula,** `pages / 444 + 0.06in`, for every
+  cover of the imprint (`scripts/panel_cover.typ`); `pages × caliper` drifts
+  from it on thick books.
+- **All four volumes are inside the range that binds and opens flat.** 179–348
   pages, against Lulu's 32–800 for perfect binding and the ~420 at which a
   glued block stops opening flat.

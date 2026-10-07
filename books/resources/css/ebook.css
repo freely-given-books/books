@@ -40,6 +40,19 @@ h3 + p {
   text-indent: 0;
 }
 
+/* a paragraph centered in the source (TEI p[@rend="center"]) */
+p.center {
+  text-indent: 0;
+  text-align: center;
+  hyphens: none;
+}
+
+/* a paragraph the edition sets off, indented both sides (@rend="inset") */
+p.inset {
+  text-indent: 0;
+  margin: 0.6em 1.5em;
+}
+
 img {
   display: block;
   margin: 1.5em auto;

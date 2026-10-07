@@ -11,8 +11,8 @@
 | `chapters/typ/argument-01.typ` … `argument-20.typ` | the twenty arguments |
 | `chapters/typ/application-01.typ` … `application-05.typ` | the application |
 | `the-secret-key-of-heaven.typ` | print edition (imports the `@local/fgbooks` template) |
-| `cover.typ` | the Lulu cover wrap; its spine width follows the page count |
-| `cover_front.jpg` | the ebook cover |
+| `cover.typ` | the Lulu cover wrap (`scripts/panel_cover.typ`, palette sage); `./fgb build` gives it the interior's page count and trim, and renders its front as the ebook cover |
+| `cover_front.jpg` | the earlier ebook cover image, no longer used |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-the-secret-key-of-heaven.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
@@ -49,8 +49,8 @@ $ ./fgb build brooks     # print PDF, cover wrap and checked EPUB into dist/
 The PDFs and the EPUB are not kept in git: `./fgb build brooks` makes them
 in `dist/thomas-brooks/the-secret-key-of-heaven/`.
 
-Layout lines are not stored in the TEI, so `./fgb check` lists the files
-that have them as differing from the extraction: the `#align`/`#linebreak()`
-around the text in `chapter-03.typ` and its indented Doctrine
-(`#block(inset: …)`), and the `#linebreak()`/`#pagebreak()` lines elsewhere.
-Keep them in `chapters/typ`.
+`chapters/typ` is exactly what the TEI gives back (`./fgb check` requires
+it). The introduction's text in `chapter-03.typ` is an epigraph and its
+Doctrine an inset block (`#block(inset: (x: 1em))[…]`, `q[@rend="inset"]`
+in the TEI); headings are kept with their text by the template (fgbooks
+0.5.4), so there are no manual page or line breaks.

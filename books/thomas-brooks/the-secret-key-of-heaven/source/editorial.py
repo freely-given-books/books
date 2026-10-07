@@ -121,9 +121,9 @@ SKIP_DIVISIONS = {"title_page", "publishers_advertisement", "errata", "index"}
 TYPST_ENUM = None
 
 REPORT_NOTES = [
-    "Layout lines are not stored in the TEI (keep them in chapters/typ): the "
-    "#align/#linebreak() around the text and the #block(inset: ...) Doctrine in "
-    "chapter-03.typ, and #linebreak()/#pagebreak() lines elsewhere.",
+    "chapter-03.typ: the introduction's text is an epigraph and its Doctrine an "
+    "inset block (q[@rend='inset']), both in the TEI; headings are kept with "
+    "their text by the template (fgbooks 0.5.4), not by page breaks.",
     "Most of the epistle dedicatory, the publisher's list, the errata and the "
     "printed table of heads are in the TEI as printed but not in this edition.",
 ]
@@ -131,10 +131,9 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "The Secret Key of Heaven", "author": "Thomas Brooks",
         "file": "the-secret-key-of-heaven.epub", "front": "ebook-front.html",
-        "cover": "cover_front.jpg", "toc_depth": 4,
+        "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-secret-key-of-heaven.typ"]
-COVERS = ["cover.typ"]
 QUOTE_BLOCK = True
 
 # The headings below each file title are this edition's own (the 1665 print

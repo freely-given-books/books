@@ -121,9 +121,7 @@ This union is more fully expressed afterwards, vers. 30.
 
 The dignity of Christ is here principally intended: so as #emph[Christ is the highest in authority over the Church:] the titles #footnote[Doctr.] #footnote[1 #emph[Cor.] 8. 6.] #emph[Lord,] #footnote[#emph[Mat.] 23. 7, 8, 9.] #emph[father, master, Doctor,] #footnote[#emph[Deut.] 18. 15.] #emph[Prophet,] #footnote[#emph[Col.] 1. 18.] #emph[First-born,] with the like, being by a kind of excellency and propriety attributed to him, prove as much.
 
-#linebreak()
-
-#par(first-line-indent: 0em)[The causes hereof are]
+The causes hereof are
 
 + The good pleasure of God his father.
 + The dignity of his person being God-man.
@@ -135,7 +133,7 @@ Till the Pope of Rome can show so good reason for this #footnote[1 #emph[Use.]] 
 
 #emph[Object.] He is not accounted an #emph[Imperial] head as Christ is, #footnote[The distinction betwixt imperial and ministerial head discussed.] but only a #emph[Ministerial] head.
 
-#par(first-line-indent: 0em)[#emph[Answ.]]
+#emph[Answ.]
 
 + This distinction is without all ground or warrant of Scripture.
 + It implieth plain contradiction. For to be a ministerial head, is to be an #emph[head] and a #emph[minister,] which is all one as an #emph[head] and a #emph[member] in relation to the same thing.

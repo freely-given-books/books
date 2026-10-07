@@ -8,11 +8,10 @@
 // is left the colour of the wrap on purpose: a fold that comes off the press
 // crooked would otherwise carry a stripe of spine colour onto a cover.
 //
-// Page count comes from the compiled interior; recompile christian-economy.pdf
-// and check `pdfinfo` after the text changes length, or the spine will be
-// wrong.  Everything else on the wrap follows from it.
-//
-//   spine = pages x caliper = 124 x 0.0025in = 0.310in
+// ./fgb build gives the cover its compiled interior's page count and trim,
+// and the spine is Lulu's formula (scripts/panel_cover.typ); `pages` here is
+// only for compiling the cover by itself.  Everything else on the wrap
+// follows from them.
 #panel-cover(
   title: [Christian Economy],
   subtitle: [
@@ -21,7 +20,6 @@
   ],
   author: [William Perkins],
   pages: 124,
-  paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "mulberry",

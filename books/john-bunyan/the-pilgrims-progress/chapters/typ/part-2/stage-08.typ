@@ -251,6 +251,6 @@ As for Christiana’s children, the four boys that Christiana brought, with thei
 
 Should it be my lot to go that way again, I may give those that desire it an account of what I here am silent about: meantime I bid my reader
 
-FAREWELL.
+#align(center)[FAREWELL.]
 
-THE END.
+#align(center)[THE END.]

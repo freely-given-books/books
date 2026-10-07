@@ -4,8 +4,9 @@
 // scripts/panel_cover.typ), in Keach's midnight navy. The back carries a passage
 // from the last part of the treatise.
 //
-// Page count comes from the compiled interior; after the text changes length,
-// check `pdfinfo` on the built PDF (./fgb build prints it) and change `pages`.
+// ./fgb build gives the cover its compiled interior's page count and trim,
+// and the spine is Lulu's formula (scripts/panel_cover.typ); `pages` here is
+// only for compiling the cover by itself.
 #panel-cover(
   title: [The Gospel Minister’s Maintenance Vindicated],
   subtitle: [
@@ -14,7 +15,6 @@
   ],
   author: [Benjamin Keach],
   pages: 86,
-  paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "midnight",

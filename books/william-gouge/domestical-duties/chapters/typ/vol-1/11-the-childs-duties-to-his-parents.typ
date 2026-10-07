@@ -157,7 +157,7 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 #strong[1. #emph[Quest.] What may be the extent of this phrase in this place? #footnote[Temporal prosperity promised. 1 #emph[Tim.] 4. 8.]]
 
-#emph[Answ.] It may generally be extended to all manner of good things. For #emph[Godliness hath promise of the life that now is and of] #emph[that that is to come.] But (as I take it) temporal prosperity is here principally intended: and that for these reasons.
+#emph[Answ.] It may generally be extended to all manner of good things. For #emph[Godliness hath promise of the life that now is and of that that is to come.] But (as I take it) temporal prosperity is here principally intended: and that for these reasons.
 
 1. It is joined with #emph[long life,] which is a temporal blessing.
 
@@ -256,7 +256,7 @@ Is not the truth of the promise impeached thereby?
 
 2. Because a childes performing of his duty to his parents is under God an especial means that they do well, and live long (for as rebellious children make their parents with grief to come the sooner to their graves, so dutiful children make them to continue the longer in prosperity) the Lord in recompense promiseth to such a child prosperity and long life.
 
-3. Because parents are an especial means to procure the welfare and long life of their children, partly by their #emph[provident] #emph[care,] as #emph[Naomi] said to #emph[Ruth, shall I not seek rest for thee,] #footnote[#emph[Rut.] 3. 1.] #emph[that it may be well with thee?] and partly by their #emph[instant prayer:] for the faithful prayer of parents is of great force with God for dutiful children: whence hath risen the custom of childrens asking their parents blessing, and of parents blessing their children. In this respect the law thus setteth forth the blessing of the fifth commandment, #emph[they shall prolong thy days.] #footnote[יארכון]
+3. Because parents are an especial means to procure the welfare and long life of their children, partly by their #emph[provident care,] as #emph[Naomi] said to #emph[Ruth, shall I not seek rest for thee,] #footnote[#emph[Rut.] 3. 1.] #emph[that it may be well with thee?] and partly by their #emph[instant prayer:] for the faithful prayer of parents is of great force with God for dutiful children: whence hath risen the custom of childrens asking their parents blessing, and of parents blessing their children. In this respect the law thus setteth forth the blessing of the fifth commandment, #emph[they shall prolong thy days.] #footnote[יארכון]
 
 4. Because disobedience to parents bringeth much mischief on childrens heads, and oft shorteneth their days, and that many ways.
 
@@ -290,7 +290,7 @@ More particularly by this promise we may learn what high #footnote[2\. #emph[Use
 
 === §. 110. #emph[Of childrens doing good to themselves by honouring their parents.]
 
-Children may further learn out of this promise, that in #footnote[3\. #emph[Use.]] performing their duty they do good not only to their parents, but also to themselves: they procure their own welfare and long-life. What egregious fools then are disobedient children: they regard neither God, their parents, nor themselves, but deprive themselves of their eternal happiness, hinder their welfare, and shorten their days. Fitly hereupon I may apply to undutiful children these words of the Psalmist, #emph[Mark the obedient child, for the end of him is peace:] #footnote[#emph[Psal.] 37. 37, 38.] #emph[but the rebellious shall be destroyed: he shall be cut off:] and these of the wise-man, #emph[I know that it shall be well with the dutiful] #footnote[#emph[Eccl.] 8. 12, 13.] #emph[child, but it shall not be well with the disobedient, he shall not prolong his days:] and these of the Prophet, #emph[Say ye to the obedient] #emph[child, it shall be well with him, he shall eat the fruit of his doings,] #footnote[#emph[Isa.] 3. 10, 11.] #emph[but woe to the transgressor, it shall be ill with him.]
+Children may further learn out of this promise, that in #footnote[3\. #emph[Use.]] performing their duty they do good not only to their parents, but also to themselves: they procure their own welfare and long-life. What egregious fools then are disobedient children: they regard neither God, their parents, nor themselves, but deprive themselves of their eternal happiness, hinder their welfare, and shorten their days. Fitly hereupon I may apply to undutiful children these words of the Psalmist, #emph[Mark the obedient child, for the end of him is peace:] #footnote[#emph[Psal.] 37. 37, 38.] #emph[but the rebellious shall be destroyed: he shall be cut off:] and these of the wise-man, #emph[I know that it shall be well with the dutiful] #footnote[#emph[Eccl.] 8. 12, 13.] #emph[child, but it shall not be well with the disobedient, he shall not prolong his days:] and these of the Prophet, #emph[Say ye to the obedient child, it shall be well with him, he shall eat the fruit of his doings,] #footnote[#emph[Isa.] 3. 10, 11.] #emph[but woe to the transgressor, it shall be ill with him.]
 
 === §. 111. #emph[Of parents doing good to their children by keeping them under obedience.]
 

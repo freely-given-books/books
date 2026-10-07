@@ -14,7 +14,7 @@
 | list | 9 |
 | split | 6 |
 | note | 5 |
-| note moved | 3 |
+| note moved | 4 |
 | epigraph | 2 |
 | merge | 2 |
 | skipped | 1 |

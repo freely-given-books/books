@@ -1,6 +1,6 @@
 == THE AUTHOR’S WAY
 
-OF \ SENDING FORTH HIS SECOND PART \ OF \ THE PILGRIM
+#align(center)[OF \ SENDING FORTH HIS SECOND PART \ OF \ THE PILGRIM]
 
 Go, now, my little Book, to every place \
 Where my first Pilgrim has but shown his face: \

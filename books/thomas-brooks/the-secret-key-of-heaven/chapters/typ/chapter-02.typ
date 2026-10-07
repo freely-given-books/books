@@ -20,10 +20,6 @@ Christian reader, the epistle dedicatory being occasionally so large, I shall do
 
 Good reader, when thou art in thy closet, pray hard for a poor, weak, worthless worm, that I may be found faithful and fruitful to the death, that so at last I may receive a crown of life. So wishing thee all happiness both in this lower and in that upper world, I rest.
 
-#linebreak()
-
 Thine in our dear Lord Jesus,
-
-#linebreak()
 
 #emph[Thomas Brooks].

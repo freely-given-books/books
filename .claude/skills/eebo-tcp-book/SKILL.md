@@ -166,21 +166,23 @@ $PY ../../../../colophon/tei_extract.py <book>.tei.xml ../chapters/typ --layer r
 
 Then set up the book files by copying a recent book's (Grace Abounding,
 Pilgrim's Progress) and changing the text: `<book>.typ` (print,
-`@local/fgbooks:0.5.3`), `cover.typ` (`scripts/panel_cover.typ`, one
-palette per author: Bunyan is ochre), `ebook-front.html`,
-`ebook-override.css`, `README.md`, and `EPUB`/`PRINT`/`COVERS` in
-`editorial.py`. Also copy `lcc_standard_pd.png`.
+`@local/fgbooks:0.5.4`, 5.5x8.5 by default), `cover.typ`
+(`scripts/panel_cover.typ`, one palette per author: Bunyan is ochre; it is
+also the ebook cover, `"cover": "cover.typ"`), `ebook-front.html`,
+`ebook-override.css`, `README.md`, and `EPUB`/`PRINT` in `editorial.py`
+(`COVERS` only for a cover not named `cover*.typ`). Also copy `lcc_standard_pd.png`.
 
-Print follows Lulu's rules (memory: lulu-margins): template 0.5.3 margins
+Print follows Lulu's rules (memory: lulu-margins): template 0.5.4 margins
 (top 0.9in, bottom 0.6in) and the inside margin from Lulu's table for the
 page count (under 60 pages 0.5in, 61-150 0.625in, 151-400 1in, 401-600
 1.125in). `./fgb pdf` checks it, and also warns when a footnote's text lands
 on another page than its marker (Typst's widow control or a crowded page;
-fix a single case by turning widow control off for that paragraph, accept
-it in note-dense books like Gouge). A running head that wraps breaks the top
-margin: give long titles a short one with `#metadata[Short] <short>` before
-the `#include`. After the page count changes, update the cover's `pages:`
-or spine.
+accept it: no per-paragraph layout in `chapters/typ`, which must be what the
+TEI gives back; a fix belongs in the template). A running head that wraps
+breaks the top margin: give long titles a short one with `#metadata[Short]
+<short>` before the `#include`. Covers need no page-count edits: `./fgb
+build` gives each cover its interior's page count and trim, and the spine
+is Lulu's formula.
 
 Hand `chapters/typ` to the user for review. That is their job, not yours.
 Give them the side-by-side reading copy too (printed text next to the

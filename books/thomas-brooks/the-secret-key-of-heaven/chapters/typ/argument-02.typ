@@ -6,11 +6,11 @@ Secondly, consider, when Christ was on earth He did much exercise Himself in sec
 
 Heliogabalus loved his children the better for resembling him in sin. But Christ loves His children the more for resembling Him in sanctity. I have read of some springs that change the color of the cattle that drink of them into the color of their own waters, as Du Bartas sings:
 
-Cerona, Xanth, and Cephisus do make 
+Cerona, Xanth, and Cephisus do make
 
-The thirsty flocks, that of their waters take, 
+The thirsty flocks, that of their waters take,
 
-Black, red, and white; and near the crimson deep, 
+Black, red, and white; and near the crimson deep,
 
 The Arabian fountain maketh crimson sheep.
 

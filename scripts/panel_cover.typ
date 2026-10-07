@@ -32,10 +32,13 @@
 // the wrap against it before ordering.
 //
 //   document = bleed + trim + spine + trim + bleed  by  bleed + trim + bleed
-//   spine    = pages x paper caliper
+//   spine    = pages / 444 + 0.06in   (Lulu's published paperback formula)
 //
-// Everything here is computed from `pages` and the trim, so after the interior
-// changes length the only edit is the page count.
+// Everything here is computed from `pages` and the trim, and ./fgb build
+// passes both from the compiled interior (--input pages=N, trim-width=W,
+// trim-height=H, in inches), so a cover cannot fall out of step with its
+// book. The `pages` and trim given in a cover file are only for compiling
+// it by itself.
 
 // Paper calipers, in inches per page (one leaf is two pages).
 #let CALIPER = (
@@ -136,8 +139,8 @@
 // which is not the same as page count times caliper.  The two agree to within
 // a thousandth of an inch under about 240 pages and drift apart as a book
 // grows: at 800 pages they differ by 0.14in, more than the 0.125in trim
-// tolerance, which is enough to put the fold onto a cover.  Provided for
-// comparison, and for the `spine:` override below.
+// tolerance, which is enough to put the fold onto a cover.  Lulu's is the
+// one every cover uses; spine-width() is kept for comparison.
 #let lulu-spine(pages) = (pages / 444.0 + 0.06) * 1in
 
 #let panel-cover(
@@ -149,6 +152,8 @@
   // be tellable apart end-on, so the spine carries it in either style.
   volume: none,
   pages: 200,
+  // The paper caliper of spine-width(); unused now that the spine is Lulu's
+  // formula, and kept so older cover files still compile.
   paper: "cream-60",
   trim-width: 5.5in,
   trim-height: 8.5in,
@@ -180,9 +185,8 @@
   // book has an ISBN; before that the foot of the back cover is just left
   // empty for it.
   isbn: none,
-  // An explicit spine width, overriding pages x caliper.  Set it from the
-  // printer's own template for anything thick enough that the two formulas
-  // disagree (see lulu-spine above); leave it none otherwise.
+  // An explicit spine width, overriding Lulu's formula (lulu-spine): only
+  // for a printer whose template says otherwise.
   spine: none,
   font: ("Libertinus Serif", "Liberation Serif"),
   // Only the front cover, trimmed (no bleed, spine or back): the ebook cover.
@@ -191,7 +195,13 @@
   let pal = PALETTES.at(base) + (
     if type(palette) == str { PALETTES.at(palette) } else { palette }
   )
-  let spine = if spine != none { spine } else { spine-width(pages, paper: paper) }
+  // the interior's page count and trim, when ./fgb build passes them
+  let pages = int(sys.inputs.at("pages", default: str(pages)))
+  let trim-width = if "trim-width" in sys.inputs {
+    float(sys.inputs.at("trim-width")) * 1in } else { trim-width }
+  let trim-height = if "trim-height" in sys.inputs {
+    float(sys.inputs.at("trim-height")) * 1in } else { trim-height }
+  let spine = if spine != none { spine } else { lulu-spine(pages) }
 
   let page-width = 2 * BLEED + 2 * trim-width + spine
   let page-height = 2 * BLEED + trim-height
@@ -275,6 +285,8 @@
       #rotate(90deg, box(width: trim-height - 1.5in)[
         #set align(center)
         #set text(fill: pal.ink)
+        // a title set on two lines on the front runs on along the spine
+        #show linebreak: [ ]
         #if ruled {
           text(size: spine-title-size - 1.5pt, tracking: 0.18em, upper(title))
           if volume != none {
