@@ -144,7 +144,7 @@ the map (to cut chapters differently, change `edition.json`, then
 `./fgb sync gouge` writes the chapters and this writes the volumes):
 
 ``` sh
-$ ~/.venvs/fgb-tei/bin/python sources/build_edition.py
+$ uv run --project ../../../colophon python sources/build_edition.py
 ```
 
 A cover needs the interior's page count, so it is a second pass: compile the
@@ -154,7 +154,7 @@ it on trust: a stale `pages:` is a wrong spine, and a wrong spine is a
 wrecked print run.
 
 ``` sh
-$ ~/.venvs/fgb-tei/bin/python sources/build_edition.py --covers
+$ uv run --project ../../../colophon python sources/build_edition.py --covers
 $ for n in 1 2 3 4
       typst compile --root ../../../ cover-vol-$n.typ cover-vol-$n.pdf
   end
