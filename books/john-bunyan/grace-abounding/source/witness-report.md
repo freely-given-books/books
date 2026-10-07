@@ -4,7 +4,7 @@ The edition is CCEL's text of *Grace Abounding* (`grace.thml.xml`), which
 is Bunyan's enlarged text: he added to the book in later editions, up to the
 sixth (1688). The witness is the first edition (London, George Larkin, 1666),
 EEBO-TCP A30143, kept untouched in `A30143.witness.xml`. It was compared word
-by word with the edition by `scripts/tei/drift.py`, with the 1666 file's
+by word with the edition by `colophon/drift.py`, with the 1666 file's
 three later sections (nested in its main text) taken as divisions of their
 own:
 

@@ -1,6 +1,6 @@
 ---
 name: eebo-tcp-book
-description: Add a new book to Freely Given Books, or build one — the TEI pipeline in scripts/tei/ that turns an EEBO-TCP or Evans transcription or a CCEL text (and the user's own published copy, if any) into an enriched TEI master, modern-spelling Typst chapters, a print PDF to Lulu's rules with its cover, and an EPUB 3. Use this whenever the user wants to add, start or "do" a new book (by title, author, an A#####/N##### id, a quod.lib.umich.edu or CCEL link), bring their own copy of a book into the pipeline ("merge it in", "reference it with my work"), compare a copy with a witness such as Monergism or Chapel Library, or build books: ./fgb build/pdf/epub, print PDFs, covers and spines, EPUBs, epubcheck, Lulu margin or footnote warnings, page counts. Also for rebuilding the TEI after editing chapters/typ, macron or gap decisions, review-report.md, spelling.py. Use it even when the request only names one step ("rebuild the TEI", "build the Perkins ebook", "Sinners in the Hands next"), because the steps depend on each other. For proofreading or reviewing a book's text, use book-review instead.
+description: Add a new book to Freely Given Books, or build one — the TEI pipeline in colophon/ that turns an EEBO-TCP or Evans transcription or a CCEL text (and the user's own published copy, if any) into an enriched TEI master, modern-spelling Typst chapters, a print PDF to Lulu's rules with its cover, and an EPUB 3. Use this whenever the user wants to add, start or "do" a new book (by title, author, an A#####/N##### id, a quod.lib.umich.edu or CCEL link), bring their own copy of a book into the pipeline ("merge it in", "reference it with my work"), compare a copy with a witness such as Monergism or Chapel Library, or build books: ./fgb build/pdf/epub, print PDFs, covers and spines, EPUBs, epubcheck, Lulu margin or footnote warnings, page counts. Also for rebuilding the TEI after editing chapters/typ, macron or gap decisions, review-report.md, spelling.py. Use it even when the request only names one step ("rebuild the TEI", "build the Perkins ebook", "Sinners in the Hands next"), because the steps depend on each other. For proofreading or reviewing a book's text, use book-review instead.
 ---
 
 # EEBO-TCP book pipeline
@@ -21,8 +21,9 @@ what they do. Later books show the other shapes a book can take:
 **When the user already has a copy of the book** (any of the last two
 rows), read `references/finished-copies.md` before step 1: choosing the base
 text, the fold-in, the slip check and the sweep are all there.
-The repo-root `CLAUDE.md` holds the hard-won lessons behind every script; read
-its "Hard-won lessons" before changing any script in `scripts/tei/`.
+The scripts are colophon, the `colophon/` submodule (its own repository);
+`colophon/CLAUDE.md` holds the hard-won lessons behind every script; read
+its "Hard-won lessons" before changing any script in `colophon/`.
 
 ```
 source/<ID>.tcp.xml     untouched TCP transcription (provenance; never edit)
@@ -51,7 +52,7 @@ The scripts need `lxml` and `pyspellchecker`. System pip on this machine
 every script below (written `$PY`):
 
 ```sh
-python3 -m venv ~/.venvs/fgb-tei && ~/.venvs/fgb-tei/bin/pip install -r scripts/tei/requirements.txt
+python3 -m venv ~/.venvs/fgb-tei && ~/.venvs/fgb-tei/bin/pip install -r colophon/requirements.txt
 PY=~/.venvs/fgb-tei/bin/python
 ```
 
@@ -70,7 +71,7 @@ search TCP by title, see `references/finished-copies.md`):
 ```sh
 git clone --depth 1 https://github.com/textcreationpartnership/<ID> /tmp/<ID>
 mkdir -p $B/source && cp /tmp/<ID>/<ID>.xml $B/source/<ID>.tcp.xml
-$PY scripts/tei/tcp_structure.py $B/source/<ID>.tcp.xml
+$PY colophon/tcp_structure.py $B/source/<ID>.tcp.xml
 ```
 
 **Check the structure before going further.** Without further setup the
@@ -85,7 +86,7 @@ Such a book gets a **`LAYOUT`** in `editorial.py`: a function from the TEI
 root to the list of chapter files, each with its title and its parts (whole
 divisions, or loose blocks such as a treatise's opening epigraph).
 `DIV_LEVELS` sets each division type's heading level, and `RUN_IN_DIVS` sets
-types whose head is a bold run-in paragraph. `scripts/tei/layout.py`
+types whose head is a bold run-in paragraph. `colophon/layout.py`
 explains the format, and `layout.sections(div, first, last)` cuts a run of
 sub-divisions by position. Gouge's *Of Domesticall Duties*
 (`books/william-gouge/domestical-duties/source/editorial.py`) is the model:
@@ -110,7 +111,7 @@ of the text readers know (Bunyan's *Grace Abounding*, 1666 vs 1688).
 ### 2. Editorial decisions: `source/editorial.py`
 
 ```sh
-$PY scripts/tei/build_tei.py $B/source/<ID>.tcp.xml --list > /tmp/<ID>-list.txt
+$PY colophon/build_tei.py $B/source/<ID>.tcp.xml --list > /tmp/<ID>-list.txt
 ```
 
 This prints every macron abbreviation and every illegible gap, numbered in
@@ -145,7 +146,7 @@ page-image id (`tcp:NNNN:NN`) and the words around it. Copy Perkins's
   own heading macro, e.g. Simon Magus's
   `#import "../../common.typ": chapter` + `#chapter[{title}][{short}]`.
 
-- **Machine-pass switches** (all off by default; see CLAUDE.md "Book
+- **Machine-pass switches** (all off by default; see colophon/CLAUDE.md "Book
   settings"): `SPELLING`, `MODERNIZE_NOTES`, `LATIN_RUNS`,
   `DROP_FOREIGN_GAPS`, `GAP_NOTES`, `EXPAND_ETC`, `DROP_CAP_CASE`,
   `ITALIC_SENTENCE_QUIRK`. Gouge's `editorial.py` uses them all; copy it for
@@ -158,8 +159,8 @@ shared script holds no book data, so never put book tables back into it.
 
 ```sh
 cd $B/source
-$PY ../../../../scripts/tei/build_tei.py <ID>.tcp.xml <book>.tei.xml
-$PY ../../../../scripts/tei/tei_extract.py <book>.tei.xml ../chapters/typ --layer reg
+$PY ../../../../colophon/build_tei.py <ID>.tcp.xml <book>.tei.xml
+$PY ../../../../colophon/tei_extract.py <book>.tei.xml ../chapters/typ --layer reg
 ```
 
 Then set up the book files by copying a recent book's (Grace Abounding,
@@ -185,7 +186,7 @@ Give them the side-by-side reading copy too (printed text next to the
 edition, every change marked; read-only, git-ignored):
 
 ```sh
-$PY scripts/tei/tei_review.py $B/source/<book>.tei.xml $B/side-by-side.html
+$PY colophon/tei_review.py $B/source/<book>.tei.xml $B/side-by-side.html
 ```
 
 Regenerate it after every rebuild of the TEI. Modern pages (foreword,
@@ -197,7 +198,7 @@ Don't "improve" the text on your own.
 
 ```sh
 cd $B/source
-$PY ../../../../scripts/tei/build_tei.py <ID>.tcp.xml <book>.tei.xml \
+$PY ../../../../colophon/build_tei.py <ID>.tcp.xml <book>.tei.xml \
     --review ../chapters/typ --report review-report.md
 ```
 
@@ -248,7 +249,7 @@ about 7,300 — capitalization, grammar modernized, notes rewritten and moved,
 translations inserted). That is the record doing its job, not noise.
 
 Then, for any book with a modern witness, run the slip check
-(`scripts/tei/slips.py`) and the sweep (`scripts/tei/sweep.py`); see
+(`colophon/slips.py`) and the sweep (`colophon/sweep.py`); see
 `references/finished-copies.md` for reading their output, the encodings a
 copy's own headings, lists and closers need, and what to fix versus ask.
 
@@ -257,7 +258,7 @@ copy's own headings, lists and closers need, and what to fix versus ask.
 The "spelling" section of the report lists words the user corrected after
 the machine pass. The 8 left in Perkins are deliberate and need nothing.
 When the user wants the machine to get a word right next time, add it to
-`MANUAL` in `scripts/tei/spelling.py`, keyed by the **original** spelling in
+`MANUAL` in `colophon/spelling.py`, keyed by the **original** spelling in
 lowercase (`"sundrie": "sundry"`), not by the machine's wrong output.
 Pull the original forms from the TEI's `<choice>` elements, since the report
 shows machine → editor.
@@ -283,7 +284,7 @@ commit that words moved from `#editor` to `#auto`.
 ## Verify
 
 ```sh
-$PY scripts/tei/verify.py $B
+$PY colophon/verify.py $B
 ```
 
 This rebuilds the TEI and compares it, checks that the modern-spelling
@@ -304,7 +305,7 @@ curl -sSLO https://raw.githubusercontent.com/TEIC/TEI-Simple/master/tei_all.rng
 
 ```sh
 cd $B
-$PY ../../../scripts/tei/tei_epub.py source/<book>.tei.xml <book>.epub \
+$PY ../../../colophon/tei_epub.py source/<book>.tei.xml <book>.epub \
     --title "…" --author "…" --front ebook-front.html --cover cover-front.png \
     --css ../../resources/css/ebook.css --css ebook-override.css
 epubcheck <book>.epub
@@ -318,7 +319,7 @@ divider). The contents nest by heading: h2 opens an entry, h3s go under it.
 See Simon Magus's README for the full command.
 
 epubcheck must report 0 errors and 0 warnings. Calibre's checker
-(`calibre-debug ../../../scripts/tei/check_epub.py <book>.epub`) is a second
+(`calibre-debug ../../../colophon/check_epub.py <book>.epub`) is a second
 opinion; ignore the Qt/GPU noise it prints. When replacing an older ebook, run
 `compare.py epub old.epub new.epub` too. Notes become EPUB 3 pop-up footnotes; Greek and
 Hebrew get `lang`. Day to day, `./fgb epub` / `./fgb build` do all of this
@@ -333,8 +334,10 @@ not kept in git: add the book's folder to the root `.gitignore`.
 
 Work on a branch, not `main`; commit and open a PR when the user asks (they
 merge). Commit the source file(s), the TEI, `editorial.py`, the reports,
-`chapters/typ`, the book files and any script changes; tools and book in
-separate commits. Built PDFs and EPUBs are not kept in git: add the book's
+`chapters/typ` and the book files. A script change is committed inside
+`colophon/` (on a branch there, pushed, PR to the colophon repository), and
+the books repository then records the new colophon commit (`git add
+colophon`) in its own commit, apart from the book's. Built PDFs and EPUBs are not kept in git: add the book's
 lines to the root `.gitignore` and `git rm --cached` any it tracked.
 
 Stage paths by name, never a whole book folder: book folders hold things
@@ -343,7 +346,7 @@ copyright, old backups). After `git rm --cached`, commit tools with a
 path-limited `git commit <paths>` so the staged deletions land in the book's
 commit.
 
-After any change to `scripts/tei/`, run `verify.py` on every TEI book
+After any change to `colophon/`, run `./fgb check` on every TEI book
 (`ls books/*/*/source/*.tei.xml`): each must rebuild to its committed TEI.
 
 ## Decide vs ask

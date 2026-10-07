@@ -2,7 +2,7 @@
 
 The edition is CCEL's text (`pilgrim.thml.xml`, Logos's text of the 1853
 Auburn edition), with 38 editor decisions (`review-report.md`). Two
-witnesses were compared with it, word by word, by `scripts/tei/drift.py`;
+witnesses were compared with it, word by word, by `colophon/drift.py`;
 neither is followed where it differs.
 
 ## What the editor changed in CCEL

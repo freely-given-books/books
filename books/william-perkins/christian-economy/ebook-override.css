@@ -32,7 +32,7 @@ section.notes {
   font-size: 0.9em;
 }
 
-/* TEI-built ebook (scripts/tei/tei_epub.py) */
+/* TEI-built ebook (colophon/tei_epub.py) */
 section.cover {
   margin: 0;
   padding: 0;

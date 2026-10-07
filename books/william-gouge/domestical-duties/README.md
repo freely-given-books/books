@@ -44,7 +44,7 @@ The text lives in a TEI edition (`source/`): the 1622 transcription with
 every editorial decision recorded in it, the machine's and the editor's. The
 chapters in `chapters/typ` are generated from it and are where the text is
 edited; `./fgb sync gouge` folds edits back in. See the repository's
-`CLAUDE.md` and `scripts/tei/`.
+`CLAUDE.md` and `colophon/`.
 
 | Path | What it is |
 | --- | --- |
@@ -100,7 +100,7 @@ list against the earlier edition is `source/migration-differences.md`.
   archive.org
   (`bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622`,
   pages n220–n225) in `source/A68107.supplied.xml`, which every tool splices
-  into the TCP text at the gap (`scripts/tei/sources.py`); the TCP file is
+  into the TCP text at the gap (`colophon/sources.py`); the TCP file is
   untouched.
 - **The original table of contents is not reproduced.** It indexes the 1622
   pagination, which this edition does not share; each volume's generated
