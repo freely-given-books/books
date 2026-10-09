@@ -213,3 +213,144 @@ QUOTE_BLOCK = True
 # Salutations and signatures are plain paragraphs, as in The Secret Key of
 # Heaven.
 CLOSER_PLAIN = True
+
+# The 1653 printing capitalizes many nouns mid-sentence; the edition
+# lowercases them, as the other books on the shelf do. Kept capital (not
+# listed): God, Christ, Lord, Jesus, Satan, Spirit, Holy Ghost, Scripture,
+# Saviour, names, books of the Bible, and words that are sometimes divine or
+# part of a name (Father, Son, King, Kings, Judge, Lamb, Word, Majesty, Sea,
+# Mount, Book, Supper, Hosts, Paradise, Sabbath, Fathers, Psalmist).
+LOWERCASE_COMMON_NOUNS = set("""
+    acorns adamant adoption adultery adversary agony altars ambassadors
+    amendment ancients angel angell angels anise answers apostle apostles
+    appearances appendix apple application arguments ark armies armour arms
+    army arrows ascension asp asps atheism attributes axe axiom
+    bastard beasts believer believers believing bees bird birds birth
+    blasphemy brother
+    candle canopy captain captives cardinal castle caution champion chariots
+    children church circumcision cities city cock comfort commandments
+    commands commission common communion companion companions comrade
+    confidences congregation conscience consciences consorts convert
+    cornets corruption country countries court courtiers covenant
+    covetousness creation creature creatures cross crosses crown crowns
+    cummin cup
+    deceiver deputy design device devices devil devils disciples disease
+    diseases divine doctor doctors doctrine doctrines dragon dragons
+    drunkenness duke dukes duties
+    earth elephant elephants emperor emperors empire enemies eternity
+    evangelical faith family families famine field fishes flag flood
+    flower flowers fortitude fountain fowls friend
+    gems glass glory goat goats gold gospel gourd grace graceless gun
+    hall harbour harlot harlots harp hatchet head heart hearts heathen
+    heathens heaven heavenly heavens heir hell hells heritage history
+    holiness honey honour horse hypocrite hypocrites
+    idiom idol idolatry idols ignorance image impatience ink inn iron
+    island jewel jewell jewels joy judgement judgements judgment
+    justice justification kingdom kingdoms kingly
+    labour labourers labours land lands landmarks law laws learned legacies
+    legacy lieutenant life lion lions logic logicians love
+    maid manna margent mariner mariners martyr master masters meaning medicine
+    merchant mercies mercy messengers metaphor minister monk moon
+    nation nations nature natures nightingale nightingales nobles notes
+    objections observation ocean oil olive orator orchard ordinance
+    ordinances original
+    palace pardon parasite parents pastor patient patients peace pearl
+    pearls peacock peers penitent persons pestilence philosophers physician
+    physicians pill places plots point pole prayer predecessors presence
+    presidents pride priest prince princely princes print prison
+    proclamation prodigal professors promises prophet prophets proposition
+    propositions proverb providence prudence pulpit
+    rabbis rain ransom reasons rebel rebellion rebels redemption region
+    religion religious remedies remedy repent repentance riders
+    righteousness robe robes rock room royal royalty rule ruler rulers
+    sacrifice sages saint saints salve sanctification sanctity scepter
+    school schools scorpion scorpions scribes seat self senate sermon
+    serpent serpents servant services ship sin sinner soldiers soul spider
+    spring stars state statutes stone stories strumpet subject subjects
+    sun suns surgeon sword
+    table tabernacle talents target temperance temple throne thrones thunder
+    tomb tongues torments tower towns traitor traveller treatise tree tribe
+    triumphs trophies trumpet trumpets tyrant tyrants
+    use utterance vengeance verse verses vessel victory viper vipers
+    walnut war wasps watch wife wilderness wings wise wolf woman work
+    worthies wounds
+""".split())
+
+# Old spellings the shared table does not know, and possessives printed
+# without an apostrophe (Satans, mens, anothers).
+SPELLING = {
+    "neer": "near", "injoy": "enjoy", "injoyed": "enjoyed", "injoyest":
+    "enjoyest", "injoyment": "enjoyment", "injoyments": "enjoyments",
+    "devills": "devils", "evills": "evils", "angells": "angels",
+    "beleeve": "believe", "beleeved": "believed", "beleever": "believer",
+    "beleevers": "believers", "beleeveth": "believeth", "beleeving":
+    "believing", "rejoyce": "rejoice", "rejoyces": "rejoices", "rejoyceth":
+    "rejoiceth", "rejoycing": "rejoicing", "poyson": "poison", "poysons":
+    "poisons", "poysoned": "poisoned", "poysonous": "poisonous",
+    "choisest": "choicest", "choycest": "choicest", "choysest": "choicest",
+    "publick": "public", "voyce": "voice", "fixt": "fixed", "logick":
+    "logic", "physick": "physic", "collick": "colic", "stomack": "stomach",
+    "cloath": "clothe", "cloathing": "clothing", "sackcloath": "sackcloth",
+    "terrour": "terror", "terrours": "terrors", "horrour": "horror",
+    "horrours": "horrors", "inable": "enable", "inables": "enables",
+    "inabled": "enabled", "knowledg": "knowledge", "sinns": "sins", "sinn": "sin",
+    "priviledge": "privilege", "priviledges": "privileges", "tast": "taste",
+    "tasts": "tastes", "distast": "distaste", "cryed": "cried", "denyed":
+    "denied", "mortifyed": "mortified", "hardned": "hardened", "darkned":
+    "darkened", "weakned": "weakened", "strengthned": "strengthened",
+    "hapned": "happened", "hearkned": "hearkened", "sweetning":
+    "sweetening", "lingring": "lingering", "certainely": "certainly",
+    "ake": "ache", "dwel": "dwell", "timerous": "timorous", "fals": "falls",
+    "aswell": "as well", "assoone": "as soon", "counsells": "counsels",
+    "spight": "spite", "jewells": "jewels", "farewel": "farewell",
+    "governour": "governor", "seaven": "seven", "crum": "crumb", "crummes":
+    "crumbs", "jaylor": "jailer", "plaister": "plaster", "crost": "crossed",
+    "sowrly": "sourly", "mistris": "mistress", "mistrisses": "mistresses",
+    "marriners": "mariners", "falsly": "falsely", "joyne": "join", "joynes":
+    "joins", "joyned": "joined", "joynt": "joint", "joynts": "joints",
+    "relapst": "relapsed", "spoyle": "spoil", "spoyling": "spoiling",
+    "vildness": "vileness", "leasure": "leisure", "imbrace": "embrace",
+    "incouragements": "encouragements", "croud": "crowd", "crouding":
+    "crowding", "inriched": "enriched", "intangle": "entangle", "insnared":
+    "ensnared", "ingaged": "engaged", "imployments": "employments",
+    "stroak": "stroke", "oyntments": "ointments", "controule": "control",
+    "controulment": "controlment", "murthering": "murdering", "bewitcht":
+    "bewitched", "catcht": "caught", "toucht": "touched", "exprest":
+    "expressed", "stept": "stepped", "divelish": "devilish", "vessells":
+    "vessels", "bowells": "bowels", "materialls": "materials", "milstones":
+    "millstones", "hoast": "host", "theeves": "thieves", "desireable":
+    "desirable", "eternaly": "eternally", "compleatness": "completeness",
+    "rouling": "rolling", "cruice": "cruse", "mannah": "manna", "traytors":
+    "traitors", "reliques": "relics", "wholy": "wholly", "extacy":
+    "ecstasy", "toilesome": "toilsome", "winn": "win", "betraies":
+    "betrays", "surseited": "surfeited", "feaver": "fever", "extreame":
+    "extreme", "begger": "beggar", "ecclipse": "eclipse", "enticeing":
+    "enticing", "wormewood": "wormwood", "bryers": "briers", "shipwrack":
+    "shipwreck", "unmoveable": "unmovable", "mannor": "manner", "lyer":
+    "liar", "scituation": "situation", "dunghil": "dunghill", "seperate":
+    "separate", "glimps": "glimpse", "shepheards":
+    "shepherds", "emphaticall": "emphatical", "chalenging": "challenging",
+    "ballances": "balances", "widdowes": "widows", "annoint": "anoint",
+    "loosers": "losers", "layd": "laid", "cordiall": "cordial",
+    "joyfullness": "joyfulness", "fowles": "fowls", "cumming": "cummin",
+    # names in their KJV form
+    "aegypt": "Egypt", "goliah": "Goliath", "zacheus": "Zacchaeus",
+    "pharoah": "Pharaoh", "arrians": "Arians", "ninivites": "Ninevites",
+    "esay": "Isaiah", "tymothy": "Timothy",
+    # possessives printed without an apostrophe
+    "satans": "Satan's", "mens": "men's", "anothers": "another's",
+    "christs": "Christ's", "abrahams": "Abraham's", "ahabs": "Ahab's",
+    "solomons": "Solomon's", "herods": "Herod's", "gideons": "Gideon's",
+    "hazaels": "Hazael's", "mahomets": "Mahomet's",
+    # an apostrophe opening a word is set as one (Typst would curl a
+    # straight one after a space into an opening quote: ‘tis)
+    "'tis": "’tis", "'twas": "’twas", "'twill": "’twill", "'twil": "’twill",
+    "'twere": "’twere",
+}
+# ...but the first word of an italic quotation keeps its capital.
+QUOTE_START_CASE = True
+
+# Illegible print and the Greek/Hebrew the TCP left out (see gap_fixes.py).
+import runpy as _runpy
+from pathlib import Path as _Path
+GAP_FIXES = _runpy.run_path(str(_Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
