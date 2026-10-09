@@ -354,3 +354,10 @@ QUOTE_START_CASE = True
 import runpy as _runpy
 from pathlib import Path as _Path
 GAP_FIXES = _runpy.run_path(str(_Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
+
+# Margin notes are modernized too, as in Gouge: Brooks's margins carry
+# English comments and sayings beside the citations, and 1653 spelling there
+# next to modern text reads as an accident. Latin (in notes and text) is
+# found per run and left as printed.
+MODERNIZE_NOTES = True
+LATIN_RUNS = True
