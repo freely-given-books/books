@@ -25,8 +25,8 @@ Also by machine rule (colophon): sentence-initial ’Tis/’Twas, lowercase
 ver./v./chap. after a verse number, and lowercase after an interjection's
 "!" as printed (153).
 
-Left as printed: a stray "v." in the note "Prov. 13. 20. v." (sin-12): the
-review cannot yet record deleting the last word of a note (colophon).
+The stray "v." in the note "Prov. 13. 20. v." (sin-12) is removed: colophon
+now records deleting it (it took "v." for a roman list label).
 
 ## Open questions
 

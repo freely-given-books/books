@@ -8,7 +8,7 @@
 | --- | --- |
 | spelling | 1297 |
 | note | 222 |
-| emendation | 208 |
+| emendation | 209 |
 | case | 124 |
 | punctuation | 115 |
 | spacing | 25 |
@@ -143,6 +143,7 @@
 - [sin-11.typ note] ▪ periransiet → pertransiet
 - [sin-11.typ] honey combe → honeycomb
 - [sin-12.typ note] bath → bath with
+- [sin-12.typ note] v . → 
 - [sin-12.typ note] 3 . Remedy . → 
 - [sin-12.typ note] Ezek . → 
 - [sin-12.typ note] Mat . → 
