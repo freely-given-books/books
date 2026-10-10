@@ -42,7 +42,7 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 28 | Spiritual-Mindedness | John Owen | | |
 | 29 | The Shorter Catechism Explained from Scripture | Thomas Vincent | | |
 | 30 | The Reformed Pastor | Richard Baxter | | |
-| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **in review** | |
+| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **done** | PR #30 |
 | 32 | A Lifting Up For The Downcast | William Bridge | | |
 | 33 | Dying Thoughts | Richard Baxter | | |
 | 34 | The Art of Prophesying | William Perkins | | |
@@ -59,7 +59,7 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 45 | The True Bounds of Christian Freedom | Samuel Bolton | | |
 | 46 | Sermons of the Great Ejection | Various | | anthology |
 | 47 | The Rare Jewel of Christian Contentment | Jeremiah Burroughs | | |
-| 48 | The Mortification of Sin | John Owen | **in review** | from CCEL (Goold), checked against Goold 1850 and 1668 |
+| 48 | The Mortification of Sin | John Owen | **done** | PR #32; from CCEL (Goold), checked against Goold 1850 and 1668 |
 | 49 | Learning in Christ's School | Ralph Venning | | |
 | 50 | The Golden Treasury of Puritan Quotations | I. D. E. Thomas | | modern compilation (1975), in copyright: skip |
 | 51 | All Loves Excelling | John Bunyan | | renamed (*The Saints' Knowledge of Christ's Love*) |
