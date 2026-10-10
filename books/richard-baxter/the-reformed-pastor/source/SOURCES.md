@@ -2,18 +2,20 @@
 
 Puritan Paperbacks #30. Not started.
 
-**CCEL is not the full text here.** CCEL's *Reformed Pastor* (and Monergism's "original"
-copy, the same text) is William Brown's 1829 edition, which says itself it was
-"considerably less than the original ... by the omission of extraneous and
-controversial matter". So the base is the TCP 1656 text, unlike the other CCEL books.
+**This edition follows William Brown's shortened text (1829), by the editor's
+choice.** Brown says himself it is "considerably less than the original ... by the
+omission of extraneous and controversial matter", and that he corrected Baxter's
+language without modernizing it. When published, the front matter (print and ebook)
+must say the book is shortened from Baxter's original of 1656, and by whom.
 
-- **Base:** EEBO-TCP **A26932** (Wing B1274, 1656 first edition), `A26932.tcp.xml`;
-  1 MB, 183 gaps. Long: the full text runs far beyond Brown's ~89,000 words.
-- **Witness:** CCEL Brown 1829 (https://www.ccel.org/ccel/b/baxter/pastor.xml), kept as
-  `pastor.thml.witness.xml` so `sources.find` does not take it for the source.
-- **Monergism:** `reformed-pastor.monergism.epub`, the Brown text again; git-ignored, witness only.
+- **Base:** CCEL `pastor.thml.xml` (https://www.ccel.org/ccel/b/baxter/pastor.xml),
+  Brown's 1829 edition with his introduction; ~89,000 words.
+- **Witness:** EEBO-TCP **A26932** (Wing B1274, 1656 first edition), `A26932.witness.xml`,
+  183 gaps: for Baxter's own words where Brown's text or CCEL slips. Brown's cuts and his
+  language corrections are his edition, not slips.
+- **Monergism:** `reformed-pastor.monergism.epub`, the Brown text again (2011); git-ignored,
+  witness only.
 - **Scans (archive.org):** 1656 `gildassalvianusf00baxt` and
   `bim_early-english-books-1641-1700_gildas-salvianus-_baxter-richard_1656`; 1657 second edition
-  `bim_early-english-books-1641-1700_gildas-salvianus-_baxter-richard_1657`.
-- Decide when taken up: the whole 1656 book, or which parts (the Latin and controversial
-  matter Brown dropped).
+  `bim_early-english-books-1641-1700_gildas-salvianus-_baxter-richard_1657`. A scan of Brown's
+  1829 printing, if one turns up, is the better check on CCEL.

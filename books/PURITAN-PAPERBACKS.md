@@ -44,7 +44,7 @@ open), **next**, **queued** (sources gathered in
 | 27 | The Godly Man's Picture | Thomas Watson | | |
 | 28 | Spiritual-Mindedness | John Owen | | |
 | 29 | The Shorter Catechism Explained from Scripture | Thomas Vincent | | |
-| 30 | The Reformed Pastor | Richard Baxter | **queued** | TCP A26932 (1656) is the base: CCEL is Brown's 1829 shortened text |
+| 30 | The Reformed Pastor | Richard Baxter | **queued** | Brown's shortened text (1829), from CCEL; TCP A26932 (1656) witness; publish noting it is shortened |
 | 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **merged** | PR #30 |
 | 32 | A Lifting Up For The Downcast | William Bridge | | |
 | 33 | Dying Thoughts | Richard Baxter | | |
