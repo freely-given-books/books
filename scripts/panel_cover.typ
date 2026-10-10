@@ -131,6 +131,16 @@
     rule:     rgb("#C9A24E"),
     subtitle: rgb("#DCD4BE"),
   ),
+  // John Owen, The Mortification of Sin.  Slate: the one grey on a shelf of
+  // green, blue, mauve, red, gold and navy -- a cool blue-grey panel on a
+  // warm paper ground, with ink near black-blue, plain as the book is.
+  slate: (
+    ground:   rgb("#F1EEE6"),
+    panel:    rgb("#97A1AB"),
+    ink:      rgb("#1F2A35"),
+    rule:     rgb("#4A5866"),
+    subtitle: rgb("#2A2A2A"),
+  ),
 )
 
 #let spine-width(pages, paper: "cream-60") = pages * CALIPER.at(paper) * 1in
