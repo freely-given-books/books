@@ -144,3 +144,10 @@ the world", "the greatest of thy sins", "let all the vials", Gal. 4. 6. The
 other 31 were settled as recommended above, with three kept as printed:
 "Apium Sardis" (spelling only), "Fourthly, true grace" (case only) and
 "seorsim a me separat".
+
+## Spelling consistency (2026-10-10)
+
+Each made one form through the book: burden/burdened (from burthen),
+Augustine (from Austin/Augustin), fulness (as the KJV), Jerome (from
+Hierome), I'll (from I'le), savour, and loathe/loathes for the verb ("you
+are loath to come" keeps the adjective). Samson was already uniform.

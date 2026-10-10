@@ -6,12 +6,12 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1268 |
+| spelling | 1297 |
 | note | 222 |
 | emendation | 208 |
 | case | 124 |
 | punctuation | 115 |
-| spacing | 26 |
+| spacing | 25 |
 | gap | 25 |
 | grammar | 16 |
 | italic | 6 |
@@ -256,7 +256,7 @@
 - [use.typ] away → a way
 - [use.typ] entrapus → entrap us
 - [appendix-01.typ note] 1 → 7
-- [appendix-01.typ] there - → therefore
+- [appendix-01.typ] there - I'le → therefore I'll
 - [appendix-01.typ] spiritual madnesse → spiritual madness
 - [appendix-01.typ] ran some → ransom
 - [appendix-01.typ] they → they shall
@@ -468,7 +468,9 @@
 - Fathers → Father's (×11)
 - borne → born (×10)
 - worlds → world's (×10)
+- Austin → Augustine (×9)
 - Davids → David's (×9)
+- loath → loathe (×8)
 - looses → loses (×8)
 - jewell → jewel (×7)
 - paine → pain (×7)
@@ -476,6 +478,7 @@
 - Kings → King's (×6)
 - tho → though (×6)
 - devils → devil's (×5)
+- I'le → I'll (×4)
 - Isa → Isa. (×4)
 - angell → angel (×4)
 - dyed → died (×4)
@@ -502,6 +505,7 @@
 - virtues → virtue's (×3)
 - wch → which (×3)
 - 2 → 2. (×2)
+- Augustin → Augustine (×2)
 - Callice → Calais (×2)
 - Emperors → Emperor's (×2)
 - Fathers → father's (×2)
@@ -519,6 +523,7 @@
 - believers → believer's (×2)
 - bitterns → bitterness (×2)
 - breath → breathe (×2)
+- burthen → burden (×2)
 - clothe → cloth (×2)
 - confider → consider (×2)
 - debs → debes (×2)
@@ -537,6 +542,7 @@
 - its → it's (×2)
 - kils → kills (×2)
 - left → lest (×2)
+- loaths → loathes (×2)
 - lodg → lodge (×2)
 - loosing → losing (×2)
 - maist → mayest (×2)
@@ -581,8 +587,7 @@
 - Arragon → Aragon
 - Asael → Asahel
 - Athanasius → Athanasius'
-- Augustin → Augustine
-- Austins → Austin's
+- Austins → Augustine's
 - Balaams → Balaam's
 - Be → bee
 - Beeleever → believer
@@ -631,6 +636,7 @@
 - Herauld → Herald
 - Heredotus → Herodotus
 - Hes → Hos
+- Hierome → Jerome
 - Hieroms → Hierom's
 - Homers → Homer's
 - Husbands → husband's
@@ -759,6 +765,7 @@
 - boyling → boiling
 - brothers → brother's
 - burden → burden.
+- burthened → burdened
 - busisiness → business
 - carefullness → carefulness
 - cary → carry
@@ -855,6 +862,7 @@
 - friends → friend's
 - from → from;
 - ftom → from
+- fullness → fulness
 - gauling → galling
 - gnerall → general
 - goats → goats'
@@ -914,7 +922,6 @@
 - leoper → leper
 - libbab → libbah
 - listing → lifting
-- loath → loathe
 - loft → loath
 - loose → loses
 - loosness → looseness
@@ -1009,6 +1016,7 @@
 - saints → saint's
 - saints → saints’
 - sanctifyng → sanctifying
+- savor → savour
 - savour → favour
 - sear → fear
 - seared → feared
