@@ -8,7 +8,9 @@ selection, not a source. Many Banner titles, Owen's especially, are abridged or
 renamed, so each book's original title and extent is settled when we take
 it up.
 
-Status: **done** (merged), **in review** (built, questions open), **next**, or blank.
+Status: **done** (the editor has cut a release tag for it), **merged** (finished
+and in main, waiting for the editor's tag), **in review** (built, questions
+open), **next**, or blank.
 
 | #  | Title | Author | Status | Notes |
 |----|-------|--------|--------|-------|
@@ -33,16 +35,16 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 19 | Christ Set Forth | Thomas Goodwin | | |
 | 20 | An Ark for All God's Noahs | Thomas Brooks | | |
 | 21 | Preparations for Sufferings | John Flavel | | |
-| 22 | The Glorious Feast of the Gospel | Richard Sibbes | **done** | PR #8 |
+| 22 | The Glorious Feast of the Gospel | Richard Sibbes | **merged** | PR #8 |
 | 23 | Select Practical Writings of Robert Traill | Robert Traill | | a selection |
 | 24 | The Bruised Reed | Richard Sibbes | | |
-| 25 | Temptation: Resisted and Repulsed | John Owen | **in review** | in full: *Of Temptation* (1658), from CCEL (Goold) |
+| 25 | Temptation: Resisted and Repulsed | John Owen | **merged** | PR #33; in full: *Of Temptation* (1658), from CCEL (Goold) |
 | 26 | The Spirit and the Church | John Owen | | Banner compilation |
 | 27 | The Godly Man's Picture | Thomas Watson | | |
 | 28 | Spiritual-Mindedness | John Owen | | |
 | 29 | The Shorter Catechism Explained from Scripture | Thomas Vincent | | |
 | 30 | The Reformed Pastor | Richard Baxter | | |
-| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **done** | PR #30 |
+| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **merged** | PR #30 |
 | 32 | A Lifting Up For The Downcast | William Bridge | | |
 | 33 | Dying Thoughts | Richard Baxter | | |
 | 34 | The Art of Prophesying | William Perkins | | |
@@ -59,13 +61,13 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 45 | The True Bounds of Christian Freedom | Samuel Bolton | | |
 | 46 | Sermons of the Great Ejection | Various | | anthology |
 | 47 | The Rare Jewel of Christian Contentment | Jeremiah Burroughs | | |
-| 48 | The Mortification of Sin | John Owen | **done** | PR #32; from CCEL (Goold), checked against Goold 1850 and 1668 |
+| 48 | The Mortification of Sin | John Owen | **merged** | PR #32; from CCEL (Goold), checked against Goold 1850 and 1668 |
 | 49 | Learning in Christ's School | Ralph Venning | | |
 | 50 | The Golden Treasury of Puritan Quotations | I. D. E. Thomas | | modern compilation (1975), in copyright: skip |
 | 51 | All Loves Excelling | John Bunyan | | renamed (*The Saints' Knowledge of Christ's Love*) |
 | 52 | The Acceptable Sacrifice | John Bunyan | | |
 | 53 | A Sure Guide to Heaven | Joseph Alleine | | renamed (*An Alarm to the Unconverted*) |
-| 54 | The Secret Key to Heaven | Thomas Brooks | **done** | PR #9 |
+| 54 | The Secret Key to Heaven | Thomas Brooks | **merged** | PR #9 |
 | 55 | Prayer | John Bunyan | | *I Will Pray with the Spirit* and *The Throne of Grace* |
 | 56 | The Love of Christ | Richard Sibbes | | |
 | 57 | Justification Vindicated | Robert Traill | | |
