@@ -6,9 +6,9 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1237 |
-| note | 213 |
-| emendation | 180 |
+| spelling | 1236 |
+| note | 221 |
+| emendation | 181 |
 | case | 123 |
 | punctuation | 105 |
 | gap | 23 |
@@ -54,6 +54,7 @@
 
 ## emendation
 
+- [dedication.typ note] 3 . Reason . → 
 - [dedication.typ] strait way → straightway
 - [dedication.typ] neverless → never less
 - [dedication.typ] pastor all → pastoral
@@ -514,7 +515,6 @@
 - 12 → 12.
 - 13 → 13.
 - 5 → 5.
-- 6 → 6.
 - Abby → Abbey
 - Adonijahs → Adonijah's
 - Agrippas → Agrippa's
