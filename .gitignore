@@ -44,3 +44,6 @@ books/john-owen/the-mortification-of-sin/*.pdf
 books/john-owen/the-mortification-of-sin/*.epub
 books/john-owen/of-temptation/*.pdf
 books/john-owen/of-temptation/*.epub
+
+# Monergism copies: witnesses only, (c) Monergism Books; never committed
+books/**/*.monergism.*

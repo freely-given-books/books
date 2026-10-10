@@ -10,7 +10,8 @@ it up.
 
 Status: **done** (the editor has cut a release tag for it), **merged** (finished
 and in main, waiting for the editor's tag), **in review** (built, questions
-open), **next**, or blank.
+open), **next**, **queued** (sources gathered in
+`books/<author>/<book>/source/`, see its `SOURCES.md`; not started), or blank.
 
 | #  | Title | Author | Status | Notes |
 |----|-------|--------|--------|-------|
@@ -18,7 +19,7 @@ open), **next**, or blank.
 | 2  | The Lord's Supper | Thomas Watson | | |
 | 3  | Heaven Taken By Storm: Or, The Christian Soldier | Thomas Watson | | |
 | 4  | Glorious Freedom | Richard Sibbes | | renamed (*The Excellency of the Gospel above the Law*) |
-| 5  | The Crook in the Lot | Thomas Boston | | |
+| 5  | The Crook in the Lot | Thomas Boston | **queued** | CCEL; no TCP (1737); scans 1782+ |
 | 6  | Letters of Samuel Rutherford: A Selection | Samuel Rutherford | | a selection |
 | 7  | Gospel Ministry | John Owen | | Banner compilation |
 | 8  | Gospel Life | John Owen | | Banner compilation |
@@ -27,7 +28,7 @@ open), **next**, or blank.
 | 11 | The Sinfulness of Sin | Ralph Venning | | |
 | 12 | The Mystery of Providence | John Flavel | | |
 | 13 | The Jerusalem Sinner Saved | John Bunyan | | |
-| 14 | Indwelling Sin in Believers | John Owen | | |
+| 14 | Indwelling Sin in Believers | John Owen | **queued** | CCEL (Goold) + TCP A53712 (1675) |
 | 15 | The Holy Spirit | John Owen | | Banner abridgment of the *Pneumatologia* |
 | 16 | The Heart of Christ | Thomas Goodwin | | |
 | 17 | Facing Grief | John Flavel | | renamed (*A Token for Mourners*) |
@@ -43,13 +44,13 @@ open), **next**, or blank.
 | 27 | The Godly Man's Picture | Thomas Watson | | |
 | 28 | Spiritual-Mindedness | John Owen | | |
 | 29 | The Shorter Catechism Explained from Scripture | Thomas Vincent | | |
-| 30 | The Reformed Pastor | Richard Baxter | | |
+| 30 | The Reformed Pastor | Richard Baxter | **queued** | TCP A26932 (1656) is the base: CCEL is Brown's 1829 shortened text |
 | 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **merged** | PR #30 |
 | 32 | A Lifting Up For The Downcast | William Bridge | | |
 | 33 | Dying Thoughts | Richard Baxter | | |
 | 34 | The Art of Prophesying | William Perkins | | |
 | 35 | Apostasy from the Gospel | John Owen | | |
-| 36 | All Things For Good | Thomas Watson | | |
+| 36 | All Things For Good | Thomas Watson | **queued** | *A Divine Cordial* (1663): CCEL + TCP A65292 |
 | 37 | The Incomparableness of God | George Swinnock | | |
 | 38 | Searching Our Hearts in Difficult Times | John Owen | | Banner compilation |
 | 39 | The Fear of God | John Bunyan | | |
@@ -76,5 +77,5 @@ open), **next**, or blank.
 | 60 | The Glory of Christ | John Owen | | |
 | 61 | The Doctrine of Repentance | Thomas Watson | | |
 | 62 | Communion with God | John Owen | | |
-| 63 | The Christian's Great Interest | William Guthrie | | |
+| 63 | The Christian's Great Interest | William Guthrie | **queued** | CCEL (1828) + TCP A42363 (1681), Evans N00814 (1701) |
 | 64 | Christian Love | Hugh Binning | | |
