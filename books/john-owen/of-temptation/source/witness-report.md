@@ -44,6 +44,10 @@ and Owen's words where both Goold printings lack them:
 | ch. 8 | The prince of this world came upon him, every thing in earth or hell … | came upon him, *the glory of this world was showed unto him*, every thing … |
 | ch. 8 | for his sake and his God | for his sake and his *good* |
 
+Owen's margin note in chapter 5 (1658: "Mortification of sin in
+Believers") is kept as Goold set it, without his volume and page ("vol. vi.
+… p. 78."): "Mortification of Sin in Believers, chap. xiv."
+
 Kept as Goold has it: ch. 3, “able to deliver the godly out of
 temptations” (the King James wording of 2 Pet. ii. 9, as Owen quotes it in
 chapter 2; 1658 “temptation”). “judgement” (twice) is spelled “judgment”

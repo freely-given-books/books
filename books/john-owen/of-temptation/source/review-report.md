@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 36 |
+| emendation | 38 |
 | spelling | 28 |
 | punctuation | 4 |
 | grammar | 2 |
@@ -26,6 +26,8 @@
 - [chapter-04.typ] in → in the
 - [chapter-04.typ] in → in all
 - [chapter-04.typ] might → may
+- [chapter-05.typ note] vol . vi . → 
+- [chapter-05.typ note] p . 78 . → 
 - [chapter-05.typ] usually → usually do
 - [chapter-05.typ] of → of the
 - [chapter-05.typ] on → on any
