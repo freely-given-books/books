@@ -7,7 +7,7 @@
 
 | kind | count |
 | --- | --- |
-| case | 1162 |
+| case | 1161 |
 | emendation | 352 |
 | punctuation | 159 |
 | spelling | 110 |
@@ -145,7 +145,7 @@
 - [sermon.typ] come → come this far
 - [sermon.typ] and → but
 - [sermon.typ] Man is a Thing that → man
-- [sermon.typ] 'tis → It is
+- [sermon.typ] 'Tis → It is
 - [sermon.typ] don't → does not
 - [sermon.typ] that → 
 - [sermon.typ] Step won't → step will not
@@ -205,7 +205,7 @@
 - [sermon.typ] Air don't → air does not
 - [sermon.typ] don't → do not
 - [sermon.typ] the → 
-- [sermon.typ] 'tis → It is
+- [sermon.typ] 'Tis → It is
 - [sermon.typ] Works , → works
 - [sermon.typ] hitherto → up to this time
 - [sermon.typ] with - held → withheld
@@ -254,7 +254,7 @@
 - [sermon.typ] cast → throw you
 - [sermon.typ] say unto → tell
 - [sermon.typ] him . → Him!"
-- [sermon.typ] 'tis → It is
+- [sermon.typ] 'Tis → It is
 - [sermon.typ] Isai . Lix . → Isaiah 59:
 - [sermon.typ] According → "So He will repay according
 - [sermon.typ] Deeds , accordingly he will repay Fury → deeds: fury
@@ -353,7 +353,7 @@
 - [sermon.typ] shall → will
 - [sermon.typ] abhorring → horror
 - [sermon.typ] Flesh → mankind
-- [sermon.typ] 'tis → It is
+- [sermon.typ] 'Tis → It is
 - [sermon.typ] Forever → for ever
 - [sermon.typ] saint Representation → , faint representation
 - [sermon.typ] 'tis → it is
@@ -365,7 +365,7 @@
 - [sermon.typ] and → 
 - [sermon.typ] To - morrow Morning → tomorrow morning
 - [sermon.typ] Damnation don't → damnation does not
-- [sermon.typ] 'tis → It is
+- [sermon.typ] 'Tis → It is
 - [sermon.typ] that heretofore → whom
 - [sermon.typ] heretofore , → previously
 - [sermon.typ] Living , → living
@@ -860,7 +860,6 @@
 - Influence → influence
 - Inhabitants → inhabitants
 - Instant → instant
-- Instead → instead
 - It → it
 - Joy → joy
 - Judgment → judgment
@@ -1029,7 +1028,6 @@
 - People → peoples
 - Rebukes → rebuke
 - Roaring → roar
-- Then → then,
 - Things → thing
 - Tho' → Though
 - Vessel → vessel,
@@ -1067,6 +1065,7 @@
 - their's → theirs
 - them → those
 - then → than
+- then → then,
 - uncovenanted → uncovenanted,
 - wake → awake
 - were → were,

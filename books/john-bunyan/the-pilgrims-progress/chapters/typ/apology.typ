@@ -266,4 +266,6 @@ And yet know whether thou art blest or not, \
 By reading the same lines? O then come hither, \
 And lay my book, thy head, and heart together.
 
-JOHN BUNYAN.
+#v(1em)
+
+#align(right)[JOHN BUNYAN.]

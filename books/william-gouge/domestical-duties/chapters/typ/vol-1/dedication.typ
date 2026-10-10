@@ -6,4 +6,6 @@ If noble Birth, high honour, great estate, true Piety, bountiful Charity, good E
 
 Because there is not one word to comprise under it both masters and mistresses, as fathers and mothers are comprised under #emph[parents,] and sons and daughters under #emph[children,] I have according to the Scripture phrase comprised mistresses under masters: so as the duties enjoined to #emph[them] belong to #emph[these,] so far as may stand with their sex. To conclude, in recompense of all my pains I heartily pray you all to pray heartily for him who daily prayeth for you, even #footnote[Church-court in Black-Fryers London. 2. Febr. 1621.]
 
+#v(1em)
+
 #align(right)[The Watch-man of your souls, WILLIAM GOUGE.]

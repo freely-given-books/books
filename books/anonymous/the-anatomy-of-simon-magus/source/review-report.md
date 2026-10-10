@@ -369,7 +369,7 @@
 
 - hath → has (×95)
 - thou → you (×40)
-- doth → does (×35)
+- doth → does (×36)
 - ye → you (×23)
 - thee → you (×19)
 - thy → your (×14)
@@ -401,7 +401,6 @@
 - shalt → shall (×2)
 - taketh → takes (×2)
 - Administrateth → administers
-- Doth → does
 - Exerciseth → exercises
 - Preacheth → preaches
 - addresseth → addresses

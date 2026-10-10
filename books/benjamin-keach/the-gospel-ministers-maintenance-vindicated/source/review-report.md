@@ -6,7 +6,7 @@
 
 | kind | count |
 | --- | --- |
-| case | 123 |
+| case | 121 |
 | spelling | 103 |
 | punctuation | 101 |
 | emendation | 63 |
@@ -208,9 +208,9 @@
 ## case
 
 - E → e (×16)
-- ’tis → ’Tis (×9)
 - Spirit → spirit (×7)
 - holy → Holy (×7)
+- v → V (×7)
 - That → that (×6)
 - GOD → God (×5)
 - Gods → gods (×4)
@@ -223,19 +223,17 @@
 - And → and (×2)
 - Either → either (×2)
 - Father → father (×2)
-- With → with (×2)
 - then → Then (×2)
 - thou → Thou (×2)
+- ver → Ver (×2)
 - A → a
 - AND → And
 - As → as
 - Because → because
-- Being → being
 - But → but
 - Communicate, → communicate,
 - Especially → especially
 - Have → have
-- How → how
 - Mark → mark
 - Now → now
 - Of → of
@@ -254,6 +252,7 @@
 - When → when
 - Which → which
 - Who → who
+- With → with
 - Word. → word.
 - all → All
 - how → How
@@ -263,6 +262,7 @@
 - old → Old
 - surely → Surely
 - the → The
+- viz → Viz
 - why → Why
 
 ## spelling

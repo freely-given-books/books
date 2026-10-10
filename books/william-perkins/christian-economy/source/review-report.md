@@ -8,7 +8,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 53 |
-| case | 42 |
+| case | 44 |
 | emendation | 28 |
 | expansion | 9 |
 | gap | 8 |
@@ -115,6 +115,7 @@
 - marriage → Marriage (×2)
 - married → Married (×2)
 - persons → Persons (×2)
+- v → V (×2)
 - wives → Wives (×2)
 - Affirming → affirming
 - By → by
@@ -126,7 +127,6 @@
 - Shekels → shekels
 - Should → should
 - Speaketh → speaketh
-- Vers → vers
 - With → with
 - Years → years
 - Yet → yet
@@ -142,6 +142,7 @@
 - sentences → Sentences
 - service → Service
 - the → The
+- vers → Vers
 
 ## spelling
 

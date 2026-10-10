@@ -22,10 +22,12 @@ So much of late hath been written about the times, that spiritual discourses are
 
 Thus we have given you a short prospect of the whole, a brief sum of that treasure which these sermons contain. We need say nothing of the author; his former labours 'sufficiently speak for him in the gates,' Proverbs 31:23; his memory is highly honoured amongst the godly-learned. He that enjoys the glory of heaven, needs not the praises of men upon earth. If any should doubt of these sermons, as if they should not be truly his, whose name they bear, let him but observe the style, and the excellent and spiritual matter herein contained, and he will, we hope, be fully satisfied. Besides, there are many ear-witnesses yet living, who can clear them from any shadow of imposture. They come forth without any alteration, save only some repetitions (which the pulpit did well bear), are here omitted. The Lord make these, and all other the labours of his servants, profitable to his church. And the Lord so 'destroy the veil' from off thy heart, that thou mayest believe, and by faith come to this feast, the joy and comfort whereof may swallow up all the slavish fear of death, dry up thy tears, and roll away all reproach. And the Lord give thee a waiting heart, to stay thy soul upon the name of the Lord, to believe his word, and his faithful promises, that in due time thou mayest 'rejoice in the God of thy salvation.' This is the earnest prayer of
 
-Arthur Jackson.
+#v(1em)
 
-James Nalton.
+#align(right)[Arthur Jackson.]
 
-Will Taylor.
+#align(right)[James Nalton.]
+
+#align(right)[Will Taylor.]
 
 London, April 19. 1650.

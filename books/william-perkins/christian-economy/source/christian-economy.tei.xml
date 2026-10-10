@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-03" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-09" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -2105,7 +2105,7 @@ is the text to be <choice><orig>vnderstood</orig><reg resp="#auto" type="spellin
 <choice><orig>remoued</orig><reg resp="#auto" type="spelling">removed</reg></choice> only, as some <choice><orig>thinke</orig><reg resp="#auto" type="spelling">think</reg></choice>, but al<g ref="char:EOLhyphen"/>so
 of the next of the kindred by blood;
 as appeareth plainly by the <choice><orig>historie</orig><reg resp="#auto" type="spelling">history</reg></choice> of
-<hi>Ruth,</hi> chap. <choice><orig>I</orig><reg resp="#editor" type="emendation">1</reg></choice>. <choice><orig>vers</orig><reg resp="#editor" type="case">vers</reg><reg resp="#auto" type="spelling">Vers</reg></choice>. <choice><orig>II</orig><reg resp="#editor" type="emendation">11</reg></choice>. <choice><orig>in</orig><reg resp="#editor" type="case">in</reg><reg resp="#auto" type="spelling">In</reg></choice> these words of
+<hi>Ruth,</hi> chap. <choice><orig>I</orig><reg resp="#editor" type="emendation">1</reg></choice>. vers. <choice><orig>II</orig><reg resp="#editor" type="emendation">11</reg></choice>. <choice><orig>in</orig><reg resp="#editor" type="case">in</reg><reg resp="#auto" type="spelling">In</reg></choice> these words of
 <hi>Naomi</hi> to her daughters in law, <hi><choice><orig>Turne</orig><reg resp="#auto" type="spelling">Turn</reg></choice> <choice><orig>a<g ref="char:EOLhyphen"/>gaine</orig><reg resp="#auto" type="spelling">again</reg></choice>,
 my daughters; for what cause will
 you go with me? Are there any moe <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>
@@ -2519,7 +2519,7 @@ law of God <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</re
 the Gentiles that <choice><orig>liued</orig><reg resp="#auto" type="spelling">lived</reg></choice> in that
 land. Exod. 34. 15. <hi>Beware that thou make
 not a <choice><orig>couenant</orig><reg resp="#auto" type="spelling">covenant</reg></choice> with the inhabitants of the
-land,</hi> &amp;c. <choice><orig>vers</orig><reg resp="#auto" type="spelling">Vers</reg></choice>. 16. <hi>And take of their daugh<g ref="char:EOLhyphen"/>ters
+land,</hi> &amp;c. <choice><orig>vers</orig><reg resp="#editor" type="case">Vers</reg></choice>. 16. <hi>And take of their daugh<g ref="char:EOLhyphen"/>ters
 <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> thy <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>, and their daughters go
 a whoring after their gods; and make thy
 <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice> <choice><orig>goe</orig><reg resp="#auto" type="spelling">go</reg></choice> a whoring after their gods.</hi>
@@ -2896,7 +2896,7 @@ and <choice><orig>therfore</orig><reg resp="#auto" type="spelling">therefore</re
 afterward, she also became his
 wife. So saith the holy Ghost, vers. 27.
 <hi>Fulfill <choice><orig>seuen</orig><reg resp="#auto" type="spelling">seven</reg></choice> <choice><orig>yeares</orig><reg resp="#auto" type="spelling">years</reg></choice> for her, and we will also
-<choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> thee Rachel for thy <choice><orig>seruice</orig><reg resp="#auto" type="spelling">service</reg></choice>,</hi> &amp;c. <choice><orig>v</orig><reg resp="#auto" type="spelling">V</reg></choice>. 28.
+<choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> thee Rachel for thy <choice><orig>seruice</orig><reg resp="#auto" type="spelling">service</reg></choice>,</hi> &amp;c. <choice><orig>v</orig><reg resp="#editor" type="case">V</reg></choice>. 28.
 <hi>Then <choice><orig>Iacob</orig><reg resp="#auto" type="spelling">Jacob</reg></choice> did so, and Laban <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> him
 Rachel his daughter to be his wife.</hi>
                </p>
@@ -4169,7 +4169,7 @@ is honorable among all, and the <choice><orig>bedde</orig><reg resp="#auto" type
 <choice><orig>vndefiled</orig><reg resp="#auto" type="spelling">undefiled</reg></choice>.</hi> And it is (as all other creatures
 and ordinances of God are) sanctified
 by the word &amp; <choice><orig>praier</orig><reg resp="#auto" type="spelling">prayer</reg></choice>, 1. Tim. 4. 3.—<hi>For<g ref="char:EOLhyphen"/>bidding
-to marry,</hi> &amp;c. <choice><orig>v</orig><reg resp="#auto" type="spelling">V</reg></choice>. 4.—<hi>And nothing
+to marry,</hi> &amp;c. <choice><orig>v</orig><reg resp="#editor" type="case">V</reg></choice>. 4.—<hi>And nothing
 ought to be refused:—for it is sanctified by
 the word of God, &amp; <choice><orig>praier</orig><reg resp="#auto" type="spelling">prayer</reg></choice>.</hi> In which place
 it is to be <choice><orig>obserued</orig><reg resp="#auto" type="spelling">observed</reg></choice>, how the Apostle
