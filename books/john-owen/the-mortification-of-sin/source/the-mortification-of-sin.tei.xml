@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>mort</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file mort.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-10" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (mort.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><docTitle><titlePart type="main" xml:id="ccel-i.i-p1"><seg>Of the</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>mortification of sin
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>mort</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file mort.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-10" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (mort.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><docTitle><titlePart type="main" xml:id="ccel-i.i-p1"><seg>Of the</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>mortification of sin
 in believers;</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p3"><seg>the necessity, nature,
 and means of it:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p4"><seg>with</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p5"><seg>a resolution of sundry
 cases of conscience thereunto belonging.</seg></titlePart></docTitle><byline><seg xml:id="ccel-i.i-p6"><seg>By John Owen,
@@ -246,7 +246,7 @@ to mortify the indwelling power of sin.</hi></p>
 
 <p xml:id="ccel-i.iv-p16">3. The principal <hi rend="italic">efficient cause</hi> of the performance
 of this duty is the Spirit: <seg>Εἰ δὲ
-Πνεύματι</seg>, — “ If by the Spirit.” The Spirit here is the Spirit
+Πνεύματι</seg>, — “<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>If by the Spirit.” The Spirit here is the Spirit
 mentioned <ref type="scripture">verse 11</ref>, the Spirit of Christ, the
 Spirit of God, that “dwells in us,” <ref type="scripture">verse 9</ref>, that
 “quickens us,” <ref type="scripture">verse 11</ref>; “the Holy Ghost,” <ref type="scripture">verse
@@ -786,7 +786,7 @@ Men are galled with the guilt of a sin that hath prevailed over them; they
 instantly promise to themselves and God that they will do so no more; they
 watch over themselves, and pray for a season, until this heat waxes cold,
 and the sense of sin is worn off: and so mortification goes also, and sin
-returns to its former dominion. Duties are excellent food for an unhealthy
+returns to its former dominion. Duties are excellent food for <choice><orig>an</orig><reg resp="#editor" type="grammar">a</reg></choice> <choice><orig>unhealthy</orig><reg resp="#editor" type="spelling">healthy</reg></choice>
 soul; they are no physic for a sick soul. He that turns his meat into his
 medicine must expect no great operation. Spiritually sick men cannot sweat
 out their distemper with working. But this is the way of men who deceive
@@ -871,7 +871,7 @@ he works “all our works in us,” <ref type="scripture" cRef="Isa.26.12">Isa. 
 — “the work of faith with power,” <ref type="scripture" cRef="2Thess.1.11">2 Thess. i.
 11</ref>, <ref type="scripture" cRef="Col.2.12">Col. ii. 12</ref>; he causes us to pray, and is
 a “Spirit of supplication,” <ref type="scripture" cRef="Rom.8.26">Rom. viii. 26</ref>,
-<ref type="scripture" cRef="Zech.12.10">Zech. xii 10</ref>; and yet we are exhorted,
+<ref type="scripture" cRef="Zech.12.10">Zech. <choice><orig>xii</orig><reg resp="#editor" type="spelling">xii.</reg></choice> 10</ref>; and yet we are exhorted,
 and are to be exhorted, to all these.</p>
 
 <p xml:id="ccel-i.vi-p22">[2.] He doth not so work our mortification in us as not to
@@ -991,7 +991,7 @@ and weaken it for all duties. For, —</p>
 itself, by entangling its affections. It diverts the heart from the
 spiritual frame that is required for vigorous communion with God; it lays
 hold on the affections, rendering its object beloved and desirable, so
-expelling the love of the Father, <ref type="scripture" cRef="1John.2.15 Bible:1John.3.17">1 John. ii. 15, iii 17</ref>;
+expelling the love of the Father, <ref type="scripture" cRef="1John.2.15 Bible:1John.3.17">1 John<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> ii. 15, <choice><orig>iii</orig><reg resp="#editor" type="spelling">iii.</reg></choice> 17</ref>;
 so that the soul cannot say uprightly and truly to God, “Thou art my
 portion,” having something else that it loves. Fear, desire, hope, which
 are the choice affections of the soul, that should be full of God, will be
@@ -1027,7 +1027,7 @@ removal of that which will allow us neither the one nor the other. Men that
 are sick and wounded under the power of lust make many applications for
 help; they cry to God when the perplexity of their thoughts overwhelms
 them, even to God do they cry, but are not delivered; in vain do they use
-many remedies, — “ they shall not be healed.” So, <ref type="scripture" cRef="Hos.5.13">Hos. v.
+many remedies, — “<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>they shall not be healed.” So, <ref type="scripture" cRef="Hos.5.13">Hos. v.
 13</ref>, “Ephraim saw his sickness, and Judah his wound,” and
 attempted sundry remedies: nothing will do until they come (<ref type="scripture">verse
 15</ref>) to “acknowledge their offence.” Men may see their sickness
@@ -1071,7 +1071,7 @@ sincerity is most evident.</p>
 <argument xml:id="ccel-i.viii-p0.2"><p rend="inset">The principal intendment of the whole discourse proposed — The
 first main case of conscience stated — What it is to mortify any sin,
 negatively considered — Not the utter destruction of it in this life — Not
-the dissimulation of it —Not the improvement of any natural principle — Not
+the dissimulation of it —<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice>Not the improvement of any natural principle — Not
 the diversion of it — Not an occasional conquest — Occasional conquests of
 sin, what and when; upon the eruption of sin; in time of danger or
 trouble.</p></argument>
@@ -1281,7 +1281,7 @@ habitual inclination and bent of will and affections unto some actual sin,
 as to the matter of it, though not, under that formal consideration, always
 stirring up imaginations, thoughts, and contrivances about the object of
 it. Hence, men are said to have their “hearts set upon evil,” the bent of
-their spirits lies towards it, to make “provision for the flesh.”<note place="foot" n="3" xml:id="ccel-i.ix-p4.1"><ref type="scripture" cRef="Rom.13.14">Rom. xiii
+their spirits lies towards it, to make “provision for the flesh.”<note place="foot" n="3" xml:id="ccel-i.ix-p4.1"><ref type="scripture" cRef="Rom.13.14">Rom. <choice><orig>xiii</orig><reg resp="#editor" type="spelling">xiii.</reg></choice>
 14</ref>.</note> And a sinful, depraved habit, as in many other
 things, so in this, differs from all natural or moral habits whatever: for
 whereas they incline the soul gently and suitably to itself, sinful habits
@@ -1349,7 +1349,7 @@ being not so nearly concerned in them as in some other.</p>
 <p xml:id="ccel-i.ix-p14"><pb n="30" xml:id="ccel-i.ix-Page_30"/>I say, then, that the first thing in
 mortification is the <hi rend="italic">weakening</hi> of this habit, that it shall not
 impel and tumultuate as formerly; that it shall not entice and draw aside;
-that it shall not disquiet and perplex the killing of its life, vigour,
+that it shall not disquiet and <choice><orig>perplex</orig><reg resp="#editor" type="spelling">perplex;</reg></choice> the killing of its life, vigour,
 promptness, and readiness to be stirring. This is called “crucifying the
 flesh with the lusts thereof,” <ref type="scripture" cRef="Gal.5.24">Gal. v. 24</ref>; that
 is, taking away its blood and spirits that give it strength and power, —
@@ -2155,7 +2155,7 @@ a deep-grounded abhorrency of sin <hi rend="italic">as sin</hi>, to oppose to an
 of sin, to all the workings, strivings, fightings of lust in their hearts.
 So did Joseph. “How shall I do this great evil,” saith he, “and sin against
 the <seg>Lord</seg>?” my good and
-gracious God.<note place="foot" n="13" xml:id="ccel-i.xii-p18.2"><ref type="scripture" cRef="Gen.39.9">Gen xxxix. 9</ref></note> And Paul, “The
+gracious God.<note place="foot" n="13" xml:id="ccel-i.xii-p18.2"><ref type="scripture" cRef="Gen.39.9"><choice><orig>Gen</orig><reg resp="#editor" type="spelling">Gen.</reg></choice> xxxix. <choice><orig>9</orig><reg resp="#editor" type="spelling">9.</reg></choice></ref></note> And Paul, “The
 love of Christ constraineth us;”<note place="foot" n="14" xml:id="ccel-i.xii-p19.2"><ref type="scripture" cRef="2Cor.5.14">2 Cor. v. 14</ref>.</note> and, “Having
 received these promises, let us cleanse ourselves from all pollution of the
 flesh and spirit,” <ref type="scripture" cRef="2Cor.7.1">2 Cor. vii. 1</ref>.
@@ -2521,7 +2521,7 @@ lusts and sins, gives this as the great motive of it, <ref type="scripture">vers
 30</ref>, “Grieve not the Holy Spirit, whereby ye are sealed unto the
 day of redemption.” “Grieve not that Spirit of God,” saith he, “whereby you
 receive so many and so great benefits;” of which he instances in one signal
-and comprehensive one,— “sealing to the day of redemption.” He is grieved
+and comprehensive one,<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice>— “sealing to the day of redemption.” He is grieved
 by it. As a tender and loving friend is grieved at the unkindness of his
 friend, of whom he hath well deserved, so is it with this tender and loving
 Spirit, who hath chosen our hearts for a habitation to dwell in, and there
@@ -2982,7 +2982,7 @@ perfections.</p>
 
 <p xml:id="ccel-i.xv-p13">3. The apostle, exalting to the utmost this glory of light
 above that of the law, manifesting that now the “vail” causing darkness is
-taken away, so that with “open” or uncovered “face<note place="foot" n="20" xml:id="ccel-i.xv-p13.1"><seg>Ἀνακεκαλυμμένῳ προσώπω.</seg></note> we behold the glory
+taken away, so that with “open” or uncovered “face<note place="foot" n="20" xml:id="ccel-i.xv-p13.1"><seg>Ἀνακεκαλυμμένῳ <choice><orig>προσώπω</orig><reg resp="#editor" type="spelling">προσώπῳ</reg></choice>.</seg></note> we behold the glory
 of the Lord,” tells us how: “As in a glass,” <ref type="scripture" cRef="2Cor.3.18">2 Cor. iii.
 18</ref>. “In a <pb n="65" xml:id="ccel-i.xv-Page_65"/>glass,” how is that? Clearly, perfectly?
 Alas, no! He tells you how that is, <ref type="scripture" cRef="1Cor.13.12">1 Cor. xiii.
@@ -2992,14 +2992,14 @@ apostle speaks; and yet what poor helps are they! how short do we come of
 the truth of things notwithstanding their assistance! It is a looking-glass
 whereunto he alludes (where are only obscure species and images of things,
 and not the things themselves), and a sight therein that he compares our
-knowledge to. He tells you also that all that we do see, <seg>δι’ ἐσύπτρου</seg> , “by” or “through this glass,” is in
-<seg>αἰνίγματι</seg> — in “a riddle,” in darkness
+knowledge to. He tells you also that all that we do see, <seg>δι’ <choice><orig>ἐσύπτρου</orig><reg resp="#editor" type="spelling">ἐσόπτρου</reg></choice></seg><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>, “by” or “through this glass,” is in
+<seg><choice><orig>αἰνίγματι</orig><reg resp="#editor" type="spelling">αἰνίγματι,</reg></choice></seg> — in “a riddle,” in darkness
 and obscurity. And speaking of himself, who surely was much more
 clear-sighted than any now living, he tells us that he saw but <seg>ἐκ μέρους</seg>, — “in part.” He saw but the back
 parts of heavenly things, <ref type="scripture">verse 12</ref>,
 and compares all the knowledge he had attained of God to that he had of
 things when he was a child, <ref type="scripture">verse 11</ref>. It
-is a <seg>μέρος</seg>, short of the <seg>τὸ τέλειον·</seg> yea, such as <seg>καταργηθήσεται</seg> , — “it shall be destroyed,” or done
+is a <seg>μέρος</seg>, short of the <seg>τὸ τέλειον·</seg> yea, such as <seg>καταργηθήσεται</seg><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>, — “it shall be destroyed,” or done
 away. We know what weak, feeble, uncertain notions and apprehensions
 children have of things of any abstruse consideration; how when they grow
 up with any improvements of parts and abilities, those conceptions vanish,
@@ -3477,8 +3477,8 @@ which is the grace, and that peculiar acting of faith which God calls for,
 to be exercised in such a condition. I know God doth sometimes come in upon
 the soul instantly, in a moment, as it were, wounding and healing it, — as
 I am persuaded it was in the case of David, when he cut off the lap of
-Saul’s garment; but ordinarily, in such a case, God calls for <note place="foot" n="24" xml:id="ccel-i.xvi-p16.1"><ref type="scripture" cRef="Ps.130.6 Bible:Ps.123.2">Ps. cxxx. 6, cxxiii.
-2</ref>.</note>waiting and labouring, attending as the eye of a
+Saul’s garment; but ordinarily, in such a case, God calls for<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="24" xml:id="ccel-i.xvi-p16.1"><ref type="scripture" cRef="Ps.130.6 Bible:Ps.123.2">Ps. cxxx. 6, cxxiii.
+2</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>waiting and labouring, attending as the eye of a
 servant upon his master. Says the prophet <ref type="scripture">Isaiah, chap.
 viii. 17</ref>, “I will wait upon the <seg>Lord</seg>, who hideth his face from the
 house of Jacob.” God will have his children lie a while at his door when
@@ -3534,7 +3534,7 @@ unto the soul. If thou hast had a wound upon thy conscience, which was
 attended with weakness and disquietness, which now thou art freed of, how
 camest thou so? “I looked to the promises of pardon and healing, and so
 found peace.” Yea, but perhaps thou hast made too much haste, thou hast
-done it overtly, thou hast not fed upon the promise so as to mix it with
+done it <choice><orig>overtly</orig><reg resp="#editor" type="spelling">overly</reg></choice>, thou hast not fed upon the promise so as to mix it with
 faith, to have got all the virtue of it diffused into thy soul; only thou
 hast done it slightly. Thou wilt find thy wound, ere it be long, breaking
 out again; and thou shalt know that thou art not cured.</p>
@@ -3650,12 +3650,12 @@ may be mortified. By faith ponder on this, that though thou art no way able
 in or by thyself to get the conquest over thy distemper, though thou art
 even weary of contending, and art utterly ready to faint, yet that there is
 enough in Jesus Christ to yield thee relief, <ref type="scripture" cRef="Phil.4.13">Phil. iv.
-13</ref>. It staid the prodigal, when he was <note place="foot" n="30" xml:id="ccel-i.xvii-p5.2"><ref type="scripture" cRef="Luke.15.17">Luke xv.
-17</ref>.</note>ready to faint, that yet there was bread enough in
+13</ref>. It staid the prodigal, when he was<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="30" xml:id="ccel-i.xvii-p5.2"><ref type="scripture" cRef="Luke.15.17">Luke xv.
+17</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>ready to faint, that yet there was bread enough in
 his father’s house; though he was at a distance from it, yet it relieved
 him, and staid him, that there it was. In thy greatest distress and
-anguish, consider that fulness of grace, those riches, those <note place="foot" n="31" xml:id="ccel-i.xvii-p6.2"><ref type="scripture" cRef="Isa.40.28-Isa.40.31">Isa.
-xl. 28–31</ref>.</note>treasures of strength, might, and help,
+anguish, consider that fulness of grace, those riches, those<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="31" xml:id="ccel-i.xvii-p6.2"><ref type="scripture" cRef="Isa.40.28-Isa.40.31">Isa.
+xl. 28–31</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>treasures of strength, might, and help,
 that are laid up in him for our support, <ref type="scripture" cRef="John.1.16">John i. 16</ref>,
 <ref type="scripture" cRef="Col.1.19">Col. i. 19</ref>. Let them come into and abide
 in thy mind. Consider that he is “exalted and made a Prince and a Saviour
@@ -3675,8 +3675,8 @@ victory and should be delivered, but I am deceived; so that I plainly see,
 that without some eminent succour and assistance, I am lost, and shall be
 prevailed on to an utter relinquishment of God. But yet, though this be my
 state and condition, let the hands that hang down be lifted up, and the
-feeble knees be strengthened. Behold, <note place="foot" n="32" xml:id="ccel-i.xvii-p7.7"><ref type="scripture" cRef="John.1.16">John i. 16</ref>; <ref type="scripture" cRef="Matt.28.18">Matt.
-xxviii. 18</ref>.</note>the Lord Christ, that hath all fulness of
+feeble knees be strengthened. Behold,<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="32" xml:id="ccel-i.xvii-p7.7"><ref type="scripture" cRef="John.1.16">John i. 16</ref>; <ref type="scripture" cRef="Matt.28.18">Matt.
+xxviii. 18</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>the Lord Christ, that hath all fulness of
 grace in his heart, all fulness of power in his hand, he is able to slay
 all these his enemies. There is sufficient provision in him for my relief
 and assistance. <pb n="80" xml:id="ccel-i.xvii-Page_80"/>He can take my drooping, dying soul and make me
@@ -3723,7 +3723,7 @@ expectation of relief from Jesus Christ, — if thine eyes are towards him
 2</ref>.</note> when he expects to receive somewhat from him, —
 thy soul shall be satisfied, he will assuredly deliver thee; he will slay
 the lust, and thy latter end shall be peace. Only look for it at his hand;
-expect when and how he will do it. <note place="foot" n="35" xml:id="ccel-i.xvii-p11.2"><ref type="scripture" cRef="Isa.7.9">Isa. vii. 9</ref>.</note>“If ye will not
+expect when and how he will do it.<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="35" xml:id="ccel-i.xvii-p11.2"><ref type="scripture" cRef="Isa.7.9">Isa. vii. 9</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>“If ye will not
 believe, surely ye shall not be established.”</p>
 
 <p xml:id="ccel-i.xvii-p13"><pb n="81" xml:id="ccel-i.xvii-Page_81"/>But wilt thou say, “What ground have I to build
@@ -3772,7 +3772,7 @@ suffered being tempted, he is able to succour them that are tempted.” How
 is the ability of Christ upon the account of his suffering proposed to us?
 “In that he himself hath suffered being tempted, he is able.” Did the
 sufferings and temptations of Christ add to his ability and power? Not,
-doubtless, considered absolutely and in it itself. But the ability here
+doubtless, considered absolutely and in <choice><orig>it</orig><reg resp="#editor" type="emendation"></reg></choice> itself. But the ability here
 mentioned is such as hath readiness, <pb n="82" xml:id="ccel-i.xvii-Page_82"/>proneness, willingness to
 put itself forth, accompanying of it; it is an ability of will against all
 dissuasions. He is able, having suffered and been tempted, to break through
@@ -3793,7 +3793,7 @@ to perish, to be lost for ever; iniquity will prevail against me, if help
 come not in.” Says the apostle, “Expect this help, this relief, this grace
 from Christ.” Yea, but on what account? That which he lays down, <ref type="scripture">verse
 15</ref>. And we may observe that the word, <ref type="scripture">verse 16</ref>,
-which we have translated to “obtain,” is <seg>λαβωμεν</seg>. <seg>Ἵνα λάβωμεν
+which we have translated to “obtain,” is <seg><choice><orig>λαβωμεν</orig><reg resp="#editor" type="spelling">λάβωμεν</reg></choice></seg>. <seg>Ἵνα λάβωμεν
 ἔλεον</seg>, “That we may receive it;” suitable and seasonable help will
 come in. I shall freely say, this one thing of establishing the soul by
 faith in expectation of relief from Jesus Christ,<note place="foot" n="38" xml:id="ccel-i.xvii-p19.11"><ref type="scripture" cRef="Matt.11.28">Matt. xi.
@@ -3886,7 +3886,7 @@ we are in pursuit of, — that our consciences may be purged from dead works,
 that they may be rooted out, destroyed, and have place in us no more. This
 shall certainly be brought about by the death of Christ; there will virtue
 go out from thence to this purpose. Indeed, all supplies of the Spirit, all
-communications of grace and power, are from hence; as I have elsewhere<note place="foot" n="41" xml:id="ccel-i.xvii-p28.7"><seg>Communion with Christ</seg>, vol. ii. chapters vii.
+communications of grace and power, are from hence; as I have elsewhere<note place="foot" n="41" xml:id="ccel-i.xvii-p28.7"><seg>Communion with Christ</seg>, <choice><orig>vol. ii.</orig><reg resp="#editor" type="emendation"></reg></choice> chapters vii.
 viii.</note> showed. Thus the apostle states it; <ref type="scripture" cRef="Rom.6.2">Rom. vi.
 2</ref>, is the case proposed that we have in hand: “How shall we,
 that are dead to sin, live any longer therein?” — “Dead to sin by
@@ -3932,7 +3932,7 @@ general may suffice; as to the latter, that of the apostle may give us some
 light into our direction, <ref type="scripture" cRef="Gal.3.1">Gal. iii. 1</ref>. Let
 faith look on Christ in the gospel as he is set forth dying and crucified
 for us. Look on him under the weight<note place="foot" n="43" xml:id="ccel-i.xvii-p31.5"><ref type="scripture" cRef="1Cor.15.3">1 Cor. xv. 3</ref>; <ref type="scripture" cRef="1Pet.1.18-1Pet.1.19 Bible:1Pet.5.1-1Pet.5.2">1 Pet. i.
-18, 19, v. 1, 2</ref>; <ref type="scripture" cRef="Col.1.18 Bible:Col.1.14">Col. i. 18, 14</ref>.</note>
+18, 19, v. 1, 2</ref>; <ref type="scripture" cRef="Col.1.18 Bible:Col.1.14">Col. i. <choice><orig>18</orig><reg resp="#editor" type="emendation">13</reg></choice>, 14</ref>.</note>
 of our sins, praying, bleeding, dying; bring him in that condition into thy
 heart by faith; apply his blood so shed to thy corruptions: do this daily.
 I might draw out this consideration to a great length, in sundry
@@ -3971,7 +3971,7 @@ of it. Unless this be done all that follows is in vain.</p>
 
 <p xml:id="ccel-i.xvii-p36">(2.) The Spirit alone reveals unto us <hi rend="italic">the fulness of
 Christ</hi> for our relief; which is the consideration that stays the heart
-from false ways and from despairing despondency, <ref type="scripture" cRef="1Cor.2.8">1 Cor. ii
+from false ways and from despairing despondency, <ref type="scripture" cRef="1Cor.2.8">1 Cor. <choice><orig>ii</orig><reg resp="#editor" type="spelling">ii.</reg></choice>
 8</ref>.</p>
 
 <p xml:id="ccel-i.xvii-p37">(3.) The Spirit alone <hi rend="italic">establishes</hi> the heart in

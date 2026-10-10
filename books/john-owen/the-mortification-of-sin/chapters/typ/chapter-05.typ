@@ -1,6 +1,6 @@
 == Chapter V
 
-#block(inset: (x: 1em))[The principal intendment of the whole discourse proposed — The first main case of conscience stated — What it is to mortify any sin, negatively considered — Not the utter destruction of it in this life — Not the dissimulation of it —Not the improvement of any natural principle — Not the diversion of it — Not an occasional conquest — Occasional conquests of sin, what and when; upon the eruption of sin; in time of danger or trouble.]
+#block(inset: (x: 1em))[The principal intendment of the whole discourse proposed — The first main case of conscience stated — What it is to mortify any sin, negatively considered — Not the utter destruction of it in this life — Not the dissimulation of it — Not the improvement of any natural principle — Not the diversion of it — Not an occasional conquest — Occasional conquests of sin, what and when; upon the eruption of sin; in time of danger or trouble.]
 
 These things being premised, I come to my principal intention, of handling some questions or practical cases that present themselves in this business of mortification of sin in believers.
 
