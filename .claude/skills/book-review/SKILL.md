@@ -85,6 +85,35 @@ something? A sentence that does not parse usually hides a slip. Look for:
 - **Names**: the book's own form, consistently (Zion or Sion, not both;
   KJV forms for biblical names unless the book chose otherwise).
 
+**A whole book (tens of thousands of words) is read by subagents**, the way
+Brooks's *Precious Remedies* was (2026-10). Token use matters to the user,
+so:
+
+- Split the book into parts of about 20,000–25,000 words. Give each reader
+  the same written brief: what to fix, what to ask, what never to change,
+  and the evidence files (the edition, the `--layer orig` extraction, the
+  witness). Brooks's brief is `references/reader-brief-example.md` and its
+  applier `references/apply-proposals-example.py`; adapt the paths.
+- Run the readers at **medium effort** (the Agent tool's `effort`), **one
+  at a time**. Two Opus readers at once hit the session limit. At medium, a
+  reader found as much as one at high (about 13–15 proposals per 1,000
+  words, scrambled margins and mangled Latin included) for about 25% fewer
+  tokens.
+- Tell readers to keep lean: read each edition file once, Grep the 1653
+  text and the witness only where they doubt, and write commands that need
+  no permission (one plain command per call, no `cd &&` or shell variables).
+- Readers **propose; they don't edit.** Each writes JSON lines (`file`,
+  exact unique `old`, `new`, `class` fix/ask/note, `kind`, `why`), appending
+  after every file so a usage cutoff loses little. Apply the `fix` lines
+  with a script that refuses any `old` not found exactly once, then
+  `./fgb sync` and `./fgb check`.
+- A slip that repeats across the book (sentence case, a spelling the
+  machine got wrong) is a machine rule in colophon or `editorial.py`, not
+  hundreds of hand edits. Tell later readers not to propose it.
+- Settle the `ask` items yourself at **high effort**, in one batch, and put
+  them to the user grouped with recommendations. Record them in
+  `source/proofread-report.md` so they survive the session.
+
 ### 3. Check what spans the book
 
 - **Scripture references**: one style through the book (`Romans 11:20` or

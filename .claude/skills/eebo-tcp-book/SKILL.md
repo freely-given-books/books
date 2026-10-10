@@ -355,6 +355,23 @@ commit.
 After any change to `colophon/`, run `./fgb check` on every TEI book
 (`ls books/*/*/source/*.tei.xml`): each must rebuild to its committed TEI.
 
+## Subagents and token use
+
+The user watches token use. Large jobs (hundreds of gaps, Greek from page
+images, a full proofread) go to subagents:
+
+- At most **one or two at a time**, at **medium effort**, unless the job
+  is settling hard readings. Brooks's two gap readers ran side by side; two
+  Opus proofreaders at once hit the session limit.
+- Each writes its results to a file as it goes (gap fixes as a dict, a
+  proofread as JSON lines) and never edits book files. You merge and apply.
+- Give every subagent the command rule: one plain command per call,
+  absolute paths, logic in a script file. Compound commands trigger
+  permission prompts.
+- For page images, crop small (ImageMagick) and look up the scan's OCR
+  (`<ID>_djvu.xml`, split per page) before fetching images.
+- The full proofread pattern is in the book-review skill.
+
 ## Decide vs ask
 
 Decide yourself: n/m macrons and gaps that context settles (with evidence

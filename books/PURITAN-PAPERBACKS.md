@@ -8,7 +8,7 @@ selection, not a source. Many Banner titles, Owen's especially, are abridged or
 renamed, so each book's original title and extent is settled when we take
 it up.
 
-Status: **done** (merged), **next**, or blank.
+Status: **done** (merged), **in review** (built, questions open), **next**, or blank.
 
 | #  | Title | Author | Status | Notes |
 |----|-------|--------|--------|-------|
@@ -42,7 +42,7 @@ Status: **done** (merged), **next**, or blank.
 | 28 | Spiritual-Mindedness | John Owen | | |
 | 29 | The Shorter Catechism Explained from Scripture | Thomas Vincent | | |
 | 30 | The Reformed Pastor | Richard Baxter | | |
-| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **next** | |
+| 31 | Precious Remedies Against Satan's Devices | Thomas Brooks | **in review** | |
 | 32 | A Lifting Up For The Downcast | William Bridge | | |
 | 33 | Dying Thoughts | Richard Baxter | | |
 | 34 | The Art of Prophesying | William Perkins | | |

@@ -221,7 +221,7 @@
 - [chapter-03.typ] and → 
 - [chapter-03.typ] & c . As → ” as
 - [chapter-03.typ] Shut the Door → “shut thy door
-- [chapter-03.typ] 'tis → It is
+- [chapter-03.typ] 'Tis → It is
 - [chapter-03.typ] Wax , → wax
 - [chapter-03.typ] that → 
 - [chapter-03.typ] Some → s, which
@@ -284,7 +284,7 @@
 - [argument-01.typ] eventide → eventide” (Gen 24:63)
 - [argument-01.typ] Lasuach , → lasuach
 - [argument-01.typ] Meditate , → “meditate”
-- [argument-01.typ] 'tis → It is
+- [argument-01.typ] 'Tis → It is
 - [argument-01.typ] Gen → 
 - [argument-01.typ] 32 → 
 - [argument-01.typ] 24 → 
@@ -381,14 +381,14 @@
 - [argument-01.typ] So → See
 - [argument-01.typ] Tim . → Timothy
 - [argument-01.typ] , 11 , → -
-- [argument-01.typ] 'twas → It was
+- [argument-01.typ] 'Twas → It was
 - [argument-01.typ] viz → 
 - [argument-01.typ] , That → that
 - [argument-01.typ] company - → company’s
 - [argument-01.typ] any → 
 - [argument-01.typ] our selves → ourselves
 - [argument-01.typ] Closet - → closet
-- [argument-01.typ] 'tis → ” It is
+- [argument-01.typ] 'Tis → ” It is
 - [argument-01.typ] But , → 
 - [argument-02.typ] , he → He
 - [argument-02.typ] Matth → 
@@ -440,7 +440,7 @@
 - [argument-02.typ] also → also so
 - [argument-02.typ] walked → walked” (1Jo 2:6)
 - [argument-02.typ] in stead → instead
-- [argument-02.typ] 'tis → It is
+- [argument-02.typ] 'Tis → It is
 - [argument-02.typ] his Children → His children,
 - [argument-02.typ] 2 → 
 - [argument-02.typ] Cor → (2Co
@@ -486,11 +486,11 @@
 - [argument-03.typ] , that → than
 - [argument-03.typ] Synagogues , → synagogues
 - [argument-03.typ] Mat . → Matthew
-- [argument-03.typ] 'tis → It is
+- [argument-03.typ] 'Tis → It is
 - [argument-03.typ] his Disciples , → His disciples
-- [argument-03.typ] 'tis → It is
+- [argument-03.typ] 'Tis → It is
 - [argument-03.typ] 'tis → it is
-- [argument-03.typ] 'tis → It is
+- [argument-03.typ] 'Tis → It is
 - [argument-03.typ] Fidlers , → fiddlers
 - [argument-03.typ] Instruments , → instruments
 - [argument-03.typ] But , → 
@@ -503,7 +503,7 @@
 - [argument-04.typ] how → ! How
 - [argument-04.typ] wickedness , → wickednesses
 - [argument-04.typ] fore - heads → foreheads
-- [argument-04.typ] ? 'tis → ! It is
+- [argument-04.typ] ? 'Tis → ! It is
 - [argument-04.typ] every one → everyone
 - [argument-04.typ] & c → etc
 - [argument-04.typ] every one → everyone
@@ -644,7 +644,7 @@
 - [argument-08.typ] . But → ); but
 - [argument-08.typ] remembreth ( → remembereth
 - [argument-08.typ] Gen → Gen 48:16)
-- [argument-08.typ] 48 . 16 . 'twas → It was
+- [argument-08.typ] 48 . 16 . 'Twas → It was
 - [argument-08.typ] Brother , → brother” (
 - [argument-08.typ] Ergo → )
 - [argument-08.typ] vers → v
@@ -786,7 +786,7 @@
 - [argument-10.typ] 19 → 
 - [argument-10.typ] 12 → 
 - [argument-10.typ] faults → faults” (Psa 19:12)
-- [argument-10.typ] 'tis → It is
+- [argument-10.typ] 'Tis → It is
 - [argument-10.typ] my self → myself
 - [argument-10.typ] man → man!” No
 - [argument-10.typ] no → 
@@ -886,7 +886,7 @@
 - [argument-12.typ] my → the
 - [argument-12.typ] Disciples → disciples” (Isa 8:16; 29:11-12)
 - [argument-12.typ] Dan → Dan 12:9-10)
-- [argument-12.typ] 12 . 9 , 10 . 'tis → It is
+- [argument-12.typ] 12 . 9 , 10 . 'Tis → It is
 - [argument-12.typ] , but Christs → except Christ’s
 - [argument-12.typ] 'tis → it is
 - [argument-12.typ] And → 
@@ -1044,7 +1044,7 @@
 - [argument-15.typ] Closets , → closets
 - [argument-15.typ] publick Ordinances , → public ordinances
 - [argument-15.typ] Closets , → closets
-- [argument-15.typ] 'tis → It is
+- [argument-15.typ] 'Tis → It is
 - [argument-15.typ] him → him (Mic 2:7)
 - [argument-15.typ] place → place and right
 - [argument-15.typ] & right : The → the
@@ -1169,7 +1169,7 @@
 - [argument-19.typ] : and all → . All
 - [argument-19.typ] O → Oh,
 - [argument-19.typ] Christian , → Christians
-- [argument-19.typ] 'tis → It is
+- [argument-19.typ] 'Tis → It is
 - [argument-19.typ] Heaven , → heaven
 - [argument-19.typ] First → (1) First
 - [argument-19.typ] Secondly → (2) Second
@@ -1181,7 +1181,7 @@
 - [argument-20.typ] Twentieth → In
 - [argument-20.typ] and → the
 - [argument-20.typ] your selves → yourselves
-- [argument-20.typ] 'tis → It is
+- [argument-20.typ] 'Tis → It is
 - [argument-20.typ] Exod → 
 - [argument-20.typ] 19 . 5 . → “
 - [argument-20.typ] people → people” (Exo 19:5)
@@ -1303,7 +1303,7 @@
 - [application-02.typ] Corner → corner (1Ch 11:9)
 - [application-02.typ] what - ever → whatever
 - [application-02.typ] unto → unto (1Ti 4:8)
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] 'twas → it was
 - [application-02.typ] them → them (Pro 3:33
 - [application-02.typ] they → Mal 2:2). They
@@ -1322,7 +1322,7 @@
 - [application-02.typ] & c → etc
 - [application-02.typ] them → them who
 - [application-02.typ] who → 
-- [application-02.typ] 'twas → It was
+- [application-02.typ] 'Twas → It was
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] But , → 
 - [application-02.typ] account → account (Ecc 11
@@ -1368,7 +1368,7 @@
 - [application-02.typ] artificially → skillfully
 - [application-02.typ] it self → itself
 - [application-02.typ] so → 
-- [application-02.typ] 'twas → It was
+- [application-02.typ] 'Twas → It was
 - [application-02.typ] That → “
 - [application-02.typ] or → of
 - [application-02.typ] praise - worthy Apothegm → praiseworthy apophthegm
@@ -1388,7 +1388,7 @@
 - [application-02.typ] , what ever → whatever
 - [application-02.typ] ; duty must → . Duty
 - [application-02.typ] for ever → forever
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] Gospel , → gospel
 - [application-02.typ] Apologies , & → apologies and
 - [application-02.typ] come → come” (Luk 14:18-20)
@@ -1401,14 +1401,14 @@
 - [application-02.typ] Gospel , → gospel
 - [application-02.typ] their → 
 - [application-02.typ] Cattle , → cattle
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] : 'tis → . It is
 - [application-02.typ] : 'tis → . It is
 - [application-02.typ] : 'tis → . It is
 - [application-02.typ] c → 
 - [application-02.typ] Physician → physician.” Oh
 - [application-02.typ] & c . O → no
-- [application-02.typ] No , but → But
+- [application-02.typ] no , but → But
 - [application-02.typ] 'tis → : “It is
 - [application-02.typ] But , → 
 - [application-02.typ] , That → that
@@ -1498,7 +1498,7 @@
 - [application-02.typ] . And → and
 - [application-02.typ] But , → 
 - [application-02.typ] it → it (Psa 84:10; 120:5)
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] 1 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 7 → 
@@ -1506,8 +1506,8 @@
 - [application-02.typ] rather → rather” (1Co 7:21)
 - [application-02.typ] That → “
 - [application-02.typ] Labans → ” Laban’s
-- [application-02.typ] 'tis → It is
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] But , → 
 - [application-02.typ] that → this
 - [application-02.typ] secret → secret (Rom 8:15; Gal 4:6; 1Co 6:19; 2Ti 1:14)
@@ -1546,7 +1546,7 @@
 - [application-02.typ] you → ye
 - [application-02.typ] made → 
 - [application-02.typ] nature → nature” (2Pe 1:4)
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] of → 
 - [application-02.typ] viz → 
 - [application-02.typ] made → made “
@@ -1596,7 +1596,7 @@
 - [application-02.typ] 'tis → it is
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] , Psal . → (Psa
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] c → 
 - [application-02.typ] O → “Oh,
 - [application-02.typ] gone → gone! Oh
@@ -1812,7 +1812,7 @@
 - [application-02.typ] 11 → 
 - [application-02.typ] 3 → 
 - [application-02.typ] arm → arms” (Hos 11:3)
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] Arrow , → arrow
 - [application-02.typ] hand → hand (2Ki 13:16)
 - [application-02.typ] Rom → 
@@ -1835,7 +1835,7 @@
 - [application-02.typ] plea's , → pleas
 - [application-02.typ] such → such a
 - [application-02.typ] remember → !
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] But , → 
 - [application-02.typ] Zach → 
 - [application-02.typ] 12 → 
@@ -2104,7 +2104,7 @@
 - [application-02.typ] Languages , → languages
 - [application-02.typ] beleevers , → believers
 - [application-02.typ] distress → distress (Mar 14:36)
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] viz . → 
 - [application-02.typ] that → 
 - [application-02.typ] it self → itself
@@ -2122,7 +2122,7 @@
 - [application-02.typ] 'tis → it is
 - [application-02.typ] difficulties → difficulties (Gen 29, 34)
 - [application-02.typ] was → were
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] , to cry → crying
 - [application-02.typ] housetop , & c . But , → housetops?
 - [application-02.typ] & c . → 
@@ -2422,7 +2422,7 @@
 - [application-02.typ] his → [for] His
 - [application-02.typ] night time → nighttime
 - [application-02.typ] Saints , → saints
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] and → ,
 - [application-02.typ] handsomly → , handsomely
 - [application-02.typ] worms - → ” “worms’
@@ -2444,7 +2444,7 @@
 - [application-02.typ] also → also (1Pe 2
 - [application-02.typ] nor → nor is
 - [application-02.typ] is nothing → anything
-- [application-02.typ] 'tis → It is
+- [application-02.typ] 'Tis → It is
 - [application-02.typ] Conscience , → conscience
 - [application-02.typ] Matth → 
 - [application-02.typ] 8 → 
@@ -2571,7 +2571,7 @@
 - [application-03.typ] Closets , → closets
 - [application-03.typ] Closet , → closet
 - [application-03.typ] ! O → (1Pe 1:19). Oh,
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] But , → 
 - [application-03.typ] necessary → necessary: poenae gravitas
 - [application-03.typ] Poenae gravitas → gravity of the punishment
@@ -2651,9 +2651,9 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] her self → herself
 - [application-03.typ] Trees , → trees
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] with → with “
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] 'tis → it is
 - [application-03.typ] thy self → thyself
 - [application-03.typ] & c . → 
@@ -2691,7 +2691,7 @@
 - [application-03.typ] ahah so → , “Aha! So
 - [application-03.typ] Orest → Oh, rest
 - [application-03.typ] any thing → anything
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] Closet - → closet
 - [application-03.typ] 'tis → it is
 - [application-03.typ] Closet - → closet
@@ -2784,7 +2784,7 @@
 - [application-03.typ] nor → 
 - [application-03.typ] nor → 
 - [application-03.typ] South - sayers → soothsayers
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Brethren , → brethren
 - [application-03.typ] Duty , till → duty until
@@ -2841,7 +2841,7 @@
 - [application-03.typ] begging → begging (Isa 1:15; 65:5)
 - [application-03.typ] God → God (Mal 1:13-14)
 - [application-03.typ] ; it → (Psa 141:2). It
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] made → Isa
 - [application-03.typ] of → 45
 - [application-03.typ] Brass → :
@@ -2916,7 +2916,7 @@
 - [application-03.typ] together → together (Isa 26:16; Psa 78:34; Zec 7:5)
 - [application-03.typ] it → it (Gen 32)
 - [application-03.typ] Chamber → chamber (Dan 6)
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] flesh → flesh (Gal 3:3)
 - [application-03.typ] 'tis → it is
 - [application-03.typ] plow , → plough
@@ -2928,7 +2928,7 @@
 - [application-03.typ] . That → that
 - [application-03.typ] Tau → ת
 - [application-03.typ] which is the → tau,
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] Closet - → closet
 - [application-03.typ] O → Oh,
 - [application-03.typ] another → another (Ecc 3
@@ -2985,7 +2985,7 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closets , → closets
 - [application-03.typ] Jesus → Jesus (Act 4:13)
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] c → 
 - [application-03.typ] live - less → lifeless
 - [application-03.typ] Closet - → closet
@@ -3000,7 +3000,7 @@
 - [application-03.typ] Quest . → 
 - [application-03.typ] Sol → 
 - [application-03.typ] ; a → (Psa 51:17). A
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] Closets , → closets
 - [application-03.typ] kissing → kissing (Song 2:4-6)
 - [application-03.typ] of → 
@@ -3289,7 +3289,7 @@
 - [application-03.typ] Son → Son (Joh 14:6)
 - [application-03.typ] Brethren , → brethren
 - [application-03.typ] Closet - → closet
-- [application-03.typ] 'tis → It is
+- [application-03.typ] 'Tis → It is
 - [application-03.typ] 130 . → 130th
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Col → 
@@ -3357,7 +3357,7 @@
 - [application-04.typ] O → Oh,
 - [application-04.typ] 'twill → it will
 - [application-04.typ] 'tis → it is
-- [application-04.typ] 'twas → It was
+- [application-04.typ] 'Twas → It was
 - [application-04.typ] ( sometimes → ,
 - [application-04.typ] Hermite ) → hermit, “
 - [application-04.typ] experience → experience (Eze 16:49)
@@ -3471,7 +3471,7 @@
 - [application-04.typ] Closet - → closet
 - [application-04.typ] c → (Luk 14:16-22)
 - [application-04.typ] Closet - → closet
-- [application-04.typ] 'tis → It is
+- [application-04.typ] 'Tis → It is
 - [application-04.typ] at most → 
 - [application-04.typ] but bodily presence , or → 
 - [application-04.typ] little → little (1Ti 4:8)
@@ -3516,7 +3516,7 @@
 - [application-04.typ] our hearts → the heart” (Psa 44:21)
 - [application-04.typ] Bar , → bar
 - [application-04.typ] every where , → everywhere
-- [application-04.typ] 'twas → It was
+- [application-04.typ] 'Twas → It was
 - [application-04.typ] thy self → thyself
 - [application-04.typ] thy self → thyself
 - [application-04.typ] him , whose → Him Whose
@@ -3595,7 +3595,7 @@
 - [application-04.typ] be → be “
 - [application-04.typ] . And → ); and
 - [application-04.typ] Attribute , → attribute
-- [application-04.typ] 'twas → It was
+- [application-04.typ] 'Twas → It was
 - [application-04.typ] things → things” (Act 5:11)
 - [application-04.typ] light → light (Gen 42:21-22; 50:15-22)
 - [application-04.typ] was → were
@@ -3684,7 +3684,7 @@
 - [application-05.typ] Duty , → duty
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
-- [application-05.typ] 'tis → It is
+- [application-05.typ] 'Tis → It is
 - [application-05.typ] : O → . Oh,
 - [application-05.typ] Closets , → closets
 - [application-05.typ] But , → 
@@ -3715,7 +3715,7 @@
 - [application-05.typ] Closets : O → closets! Oh,
 - [application-05.typ] Closets . O → closets! Oh,
 - [application-05.typ] Closet - → closet
-- [application-05.typ] 'twas → It was
+- [application-05.typ] 'Twas → It was
 - [application-05.typ] ; retire thy self → ? Retire thyself
 - [application-05.typ] O → ” Oh,
 - [application-05.typ] Closet - → closet
@@ -3800,7 +3800,7 @@
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
 - [application-05.typ] his → 
-- [application-05.typ] 'twas → It was
+- [application-05.typ] 'Twas → It was
 - [application-05.typ] her → her (Ru 1:10-20)
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Lake , → lake
@@ -3810,7 +3810,7 @@
 - [application-05.typ] But , → 
 - [application-05.typ] Zech → 
 - [application-05.typ] 12 . 10 . → “
-- [application-05.typ] Vers → 
+- [application-05.typ] vers → 
 - [application-05.typ] 12 → 
 - [application-05.typ] 13 → 
 - [application-05.typ] 14 → 
@@ -8930,8 +8930,8 @@
 - King → king (×26)
 - Sirs → sirs (×26)
 - And → and (×25)
-- The → the (×25)
 - they → They (×25)
+- The → the (×24)
 - Duties → duties (×22)
 - Crown → crown (×21)
 - Duty → duty (×21)
@@ -9106,6 +9106,7 @@
 - as → As (×4)
 - did → Did (×4)
 - every → Every (×4)
+- how → How (×4)
 - so → So (×4)
 - thou → Thou (×4)
 - what → What (×4)
@@ -9167,7 +9168,6 @@
 - day → Day (×3)
 - do → Do (×3)
 - great → Great (×3)
-- how → How (×3)
 - now → Now (×3)
 - or → Or (×3)
 - she → She (×3)

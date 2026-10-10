@@ -567,7 +567,6 @@
 - TO → To
 - Their → their
 - Told → told
-- Vers → vers
 - Years → years
 - child → Child
 - example → Example
@@ -583,6 +582,7 @@
 - rule → Rule
 - their → Their
 - things → THINGS
+- vers → Vers
 - wives → Wives
 
 ## spelling
