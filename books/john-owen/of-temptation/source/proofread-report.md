@@ -86,14 +86,15 @@ Editor decisions in the TEI (`review-report.md`). CCEL's text, unless said other
 | ch. 7 | “needful time of trouble.” Heb. iv. 16, the apostle | “needful time of trouble.” Heb. ii. 18, the apostle |
 | ch. 8 | Ps. lxix. 9, “Let not them | Ps. lxix. 6, “Let not them |
 
-## Questions
+## Questions, settled by the editor
 
 1. **ch. I, “when any duty is required that is extraordinary, that is a secret
    not often discovered. In the yoke of Christ it is a trial, a temptation.”**
    Goold's full stop after “discovered”. 1658: “that is a secret not often
    discovered, in the yoke of Christ; it is a triall, a temptation” (an
    extraordinary duty is a rare thing in Christ's yoke, and so a trial).
-   *Recommend Owen's punctuation.*
+   **Settled: Owen's punctuation** (“…not often discovered in the yoke of
+   Christ, it is a trial, a temptation.”).
 
 ## Left as is
 

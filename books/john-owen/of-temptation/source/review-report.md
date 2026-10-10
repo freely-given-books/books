@@ -2,16 +2,17 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 54 |
-| spelling | 53 |
+| emendation | 55 |
+| spelling | 54 |
 | punctuation | 7 |
-| spacing | 3 |
+| spacing | 4 |
 | grammar | 2 |
 
 ## emendation
 
 - [chapter-01.typ] For → 1. For
 - [chapter-01.typ] to → 
+- [chapter-01.typ] . In → in
 - [chapter-01.typ] a → the
 - [chapter-01.typ] its → that
 - [chapter-02.typ] is → is the
@@ -89,6 +90,7 @@
 - then → them (×2)
 - 7 → 7,
 - Babylonian → Babylonish
+- Christ → Christ,
 - God → God,
 - God → good
 - Oh → Oh,
