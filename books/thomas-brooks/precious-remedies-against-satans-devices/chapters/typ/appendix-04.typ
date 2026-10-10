@@ -2,7 +2,7 @@
 
 === The fourth #emph[Device] that Satan hath to keep Christ & a sinner asunder, to keep a poor sinner from believing in Christ, from embracing of Christ, #emph[etc.] is,
 
-BY suggesting to the sinner Christ's unwillingness to save; ’tis true, saith Satan; Christ is able to save thee, but is he willing surely? Though he be able, yet he is not willing to save such a wretch as thou art, that hast trampled his blood under thy feet, and that hast been in open rebellion against him all thy days, etc.
+BY suggesting to the sinner Christ's unwillingness to save; ’tis true, saith Satan; Christ is able to save thee, but is he willing? surely though he be able, yet he is not willing to save such a wretch as thou art, that hast trampled his blood under thy feet, and that hast been in open rebellion against him all thy days, etc.
 
 #strong[The Remedy against this Device of Satan's is briefly to consider these few things.]
 

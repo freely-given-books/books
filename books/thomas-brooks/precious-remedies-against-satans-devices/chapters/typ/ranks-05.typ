@@ -2,7 +2,7 @@
 
 #strong[Lastly, #emph[as Satan hath his] Devices #emph[to destroy gracious souls, so he hath his devices to destroy poor ignorant souls, and that sometimes]]
 
-BY drawing them to affect ignorance, and to neglect, slight, and#footnote[Hos. 4. 6. Prov. 22. 29.] despise the means of knowledge; ignorance is the mother of mistake, the cause of trouble, error, and of terror;#footnote[Mat. 22. 29.] ’tis the high way to hell, and it makes a man both a prisoner and a slave to the devil at once. Ignorance unmans a#footnote[Ignorants have this advantage (#emph[ut mitius ardeant]) they have a cooler hell.] man, it makes a man a beast, yea, it makes him more miserable than the beast that perisheth; there are none so easily, nor so frequently taken in Satan's snare, as ignorant souls; they are easily drawn to dance with the devil all day, and to dream of supping with Christ at night, etc.
+BY drawing them to affect ignorance, and to neglect, slight, and#footnote[Hos. 4. 6. Prov. 19. 2.] despise the means of knowledge; ignorance is the mother of mistake, the cause of trouble, error, and of terror;#footnote[Mat. 22. 29.] ’tis the high way to hell, and it makes a man both a prisoner and a slave to the devil at once. Ignorance unmans a#footnote[Ignorants have this advantage (#emph[ut mitius ardeant]) they have a cooler hell.] man, it makes a man a beast, yea, it makes him more miserable than the beast that perisheth; there are none so easily, nor so frequently taken in Satan's snare, as ignorant souls; they are easily drawn to dance with the devil all day, and to dream of supping with Christ at night, etc.
 
 #strong[Now the Remedies against this device of Satan are these that follow.]
 

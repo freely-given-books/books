@@ -2,7 +2,7 @@
 
 #strong[The eighth #emph[Device] that Satan hath to keep souls from religious services, from holy performances, is,]
 
-By working them to rest in their performances, to rest in prayer, and to rest in hearing, reading, and the communion#footnote[Isa. 58. 1, 2, 3. Zech. 7. 4, 5, 6. Mat 6. 2. Rom. 17.] of saints, etc. and when Satan hath drawn the soul to rest upon the service done; then he will help the soul to reason thus; why, thou wert as good never pray, as to pray, and rest in prayer; as good never hear, as to hear, and rest in hearing; as good never be in the communion of saints, as to rest in the communion of saints; and by this device he stops many souls in their heavenly race, and takes off poor souls from those services that should be their joy and crown.
+By working them to rest in their performances, to rest in prayer, and to rest in hearing, reading, and the communion#footnote[Isa. 58. 1, 2, 3. Zech. 7. 4, 5, 6. Mat. 6. 2. Rom. 2. 17.] of saints, etc. and when Satan hath drawn the soul to rest upon the service done; then he will help the soul to reason thus; why, thou wert as good never pray, as to pray, and rest in prayer; as good never hear, as to hear, and rest in hearing; as good never be in the communion of saints, as to rest in the communion of saints; and by this device he stops many souls in their heavenly race, and takes off poor souls from those services that should be their joy and crown.
 
 #strong[Now the Remedies against this device of Satan are these that follow.]
 

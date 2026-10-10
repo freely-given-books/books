@@ -6,16 +6,16 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1236 |
-| note | 221 |
-| emendation | 181 |
-| case | 123 |
-| punctuation | 105 |
-| gap | 23 |
-| spacing | 22 |
+| spelling | 1268 |
+| note | 222 |
+| emendation | 208 |
+| case | 124 |
+| punctuation | 115 |
+| spacing | 26 |
+| gap | 25 |
 | grammar | 16 |
+| italic | 6 |
 | expansion | 4 |
-| italic | 3 |
 | split | 2 |
 | note moved | 1 |
 | merge | 1 |
@@ -42,12 +42,14 @@
 - [sin-11.typ note] head → heard
 - [duties-01.typ note] rold → rolled
 - [duties-01.typ note] bason → basin
+- [duties-01.typ note] Vandalls → Vandals
 - [duties-01.typ note] Ἀνέλου σαυτῷ σὺ γὰρ οὐκ εἰ Θεμιστοκλης → Ἀνελοῦ σαυτῷ σὺ γὰρ οὐκ εἶ Θεμιστοκλῆς
 - [duties-07.typ note] ἐμπλεκεται → ἐμπλέκεται
 - [ranks-04.typ note] work• → work;
 - [ranks-04.typ note] meeet → meet
 - [ranks-04.typ] biter → bitter
 - [ranks-05.typ note] ברמך → נדמו
+- [propositions.typ note] Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ πνεύματα → Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ πνεύματος
 - [propositions.typ] διαβολοὶ → διάβολοι
 - [propositions.typ] πονηροὶ → πονηροί
 
@@ -60,6 +62,7 @@
 
 ## emendation
 
+- [dedication.typ note] ch . → 
 - [dedication.typ note] 3 . Reason . → 
 - [dedication.typ] strait way → straightway
 - [dedication.typ] neverless → never less
@@ -67,6 +70,7 @@
 - [to-the-reader.typ note] o derunt → oderunt
 - [to-the-reader.typ note] 15 → 13
 - [to-the-reader.typ note] 14 → 17
+- [to-the-reader.typ note] Pacunius → . Pacuvius
 - [introduction.typ note] 119 → 
 - [introduction.typ note] Nonματα → Νοήματα
 - [sin-01.typ note] consen• seris → consenseris
@@ -87,18 +91,24 @@
 - [sin-03.typ note] Idolothys is → Idolothytis
 - [sin-03.typ] ris → ’tis
 - [sin-04.typ note] allhis → all his
+- [sin-04.typ note] 4 → 5
 - [sin-04.typ note] 4 → 4. 14
 - [sin-04.typ note] 14 . → 
+- [sin-04.typ note] Isaiah → 
 - [sin-04.typ note] מוסרΠαιδεία → מוסר Παιδεία
 - [sin-04.typ note] body → hodie
+- [sin-04.typ] 16 → 14
+- [sin-04.typ] 19 → 18
 - [sin-05.typ note] Diaboli cum → Diabolicum
 - [sin-05.typ note] indignity → in dignity
+- [sin-05.typ note] 8 → 
 - [sin-05.typ] to as ard → toward
 - [sin-05.typ] faith full → faithful
 - [sin-06.typ note] 1 Remedy . → 
 - [sin-06.typ note] toolate → too late
 - [sin-06.typ note] li cet → licet
 - [sin-06.typ note] Repentanceis → Repentance is
+- [sin-06.typ] well → well able to
 - [sin-06.typ] the → the heart.
 - [sin-06.typ] be → he
 - [sin-06.typ] a fresh → afresh
@@ -109,6 +119,7 @@
 - [sin-08.typ note] head ach → headache
 - [sin-08.typ] interestin → interest in
 - [sin-08.typ] made up on → mad upon
+- [sin-09.typ note] Vedib bartignal → Vedibbartignal
 - [sin-09.typ note] atop → a top
 - [sin-09.typ note] Son ship → sonship
 - [sin-09.typ note] fathers Gold Smiths → Father's goldsmiths
@@ -124,6 +135,8 @@
 - [sin-10.typ] this → this is
 - [sin-11.typ note] 3 → 
 - [sin-11.typ note] Remedy → 
+- [sin-11.typ note] 13 → 30, 31
+- [sin-11.typ note] one → & 9. 5. One
 - [sin-11.typ note] v , → 
 - [sin-11.typ note] Titus → .
 - [sin-11.typ note] 6 . Remedy . → 
@@ -152,12 +165,15 @@
 - [duties-02.typ note] in → 
 - [duties-03.typ note] 3 . Remedy . → 
 - [duties-03.typ note] were → worn
+- [duties-03.typ] keeping under → strengthening
+- [duties-04.typ note] 2 . → 
 - [duties-04.typ note] 6 → 16
 - [duties-04.typ] him self → himself
 - [duties-04.typ] on → 
 - [duties-04.typ] who soever → whosoever
 - [duties-05.typ note] John → John 7.
 - [duties-05.typ note] 1 . Remedy . → 
+- [duties-05.typ] have → have not
 - [duties-05.typ] 19 → 17
 - [duties-06.typ] for sake → forsake
 - [duties-07.typ note] 1 Remedy . → 
@@ -178,14 +194,20 @@
 - [doubting-01.typ] forget fulness → forgetfulness
 - [doubting-03.typ note] Tribune ship → tribuneship
 - [doubting-03.typ] de fires → desires
+- [doubting-04.typ note] chap → Hebr
+- [doubting-04.typ note] Hebr → Prov
+- [doubting-04.typ note] Prov → 
+- [doubting-04.typ note] 14 → 24
 - [doubting-04.typ note] 2 → 24
 - [doubting-04.typ] for saken → forsaken
 - [doubting-04.typ] soight → spite
 - [doubting-04.typ] I → Ay,
 - [doubting-04.typ] a far → afar
+- [doubting-05.typ note] 17 → 15
 - [doubting-05.typ note] hespared → he spared
 - [doubting-05.typ note] 58 → 59
 - [doubting-05.typ] St . Together → saint together
+- [doubting-05.typ] The → 5. The
 - [doubting-06.typ note] side → fade
 - [doubting-06.typ note] bemerry → be merry
 - [doubting-07.typ note] and → 
@@ -198,14 +220,19 @@
 - [doubting-08.typ] high as → 
 - [doubting-08.typ] Sts . Of → saints of
 - [doubting-08.typ] messenger → messenger of
+- [doubting-08.typ] don't → do
+- [doubting-08.typ] not → 
 - [doubting-08.typ] wholeday → whole day
 - [ranks-01.typ note] 15 → 10
 - [ranks-01.typ] I → ay,
+- [ranks-02.typ note] quoniam eo → quanto
 - [ranks-02.typ] and → 
 - [ranks-02.typ] burden some → burdensome
 - [ranks-03.typ note] i'the → in the
 - [ranks-04.typ note] vir → 
 - [ranks-04.typ] Gods → . God's
+- [ranks-05.typ note] 22 → 19
+- [ranks-05.typ note] 29 → 2
 - [ranks-05.typ note] 4 → 
 - [ranks-05.typ note] Remedy → 
 - [ranks-05.typ] the → the cause
@@ -238,9 +265,11 @@
 - [appendix-02.typ] money less → moneyless
 - [appendix-02.typ] penni - less → penniless
 - [appendix-03.typ] cho isest → choicest
+- [appendix-03.typ] if → yet
 - [appendix-03.typ] him → sin
 - [appendix-04.typ note] 1 → John 1
 - [appendix-04.typ note] John → .
+- [appendix-04.typ] ? Though → though
 
 ## grammar
 
@@ -258,6 +287,7 @@
 
 ## punctuation
 
+- [dedication.typ note] . → . ch.
 - [introduction.typ note] . → . 119.
 - [introduction.typ note] . → ,
 - [introduction.typ] ▪ → -
@@ -268,11 +298,14 @@
 - [sin-02.typ note] . → ,
 - [sin-03.typ note] ▪ → ,
 - [sin-03.typ] , → 
+- [sin-04.typ note] . → . Isaiah
+- [sin-04.typ] . → -
 - [sin-05.typ] ▪ → 
 - [sin-05.typ] - → 
 - [sin-05.typ] , → 
 - [sin-06.typ] ▪ → ,
 - [sin-08.typ] ▪ → 
+- [sin-08.typ] , → , it
 - [sin-09.typ note] . → ,
 - [sin-09.typ note] ▪ → 
 - [sin-09.typ note] ▪ → ,
@@ -325,17 +358,23 @@
 - [duties-05.typ] & → and
 - [duties-06.typ note] ▪ → 
 - [duties-06.typ note] ▪ → 
+- [duties-06.typ note] ; → 
 - [duties-06.typ] ▪ → ?
 - [duties-07.typ note] & → and
 - [duties-07.typ note] & → and
 - [duties-07.typ note] & → and
 - [duties-07.typ] & → and
 - [duties-07.typ] & → and
+- [duties-08.typ note] . → . 2.
 - [doubting-01.typ note] ▪ → .
 - [doubting-01.typ note] , → .
 - [doubting-01.typ note] . → 
+- [doubting-02.typ note] . → ,
+- [doubting-02.typ note] . → . 26.
+- [doubting-02.typ note] . → ,
 - [doubting-02.typ] , → 
 - [doubting-04.typ note] ▪ → .
+- [doubting-04.typ note] . → 
 - [doubting-06.typ note] , → .
 - [doubting-06.typ note] ▪ → ;
 - [doubting-07.typ note] . → . John
@@ -400,6 +439,7 @@
 - Speaks → speaks
 - Such → such
 - Thoughts → thoughts
+- True → true
 - Under → under
 - Verses → verses
 - Wept → wept
@@ -450,16 +490,19 @@
 - Saints → Saints’ (×3)
 - breaths → breathes (×3)
 - gaines → gains (×3)
+- humane → human (×3)
 - off → of (×3)
 - saints → saints' (×3)
 - sent → scent (×3)
 - shoos → shoes (×3)
 - sinners → sinners' (×3)
 - sins → sin's (×3)
+- subtile → subtle (×3)
 - tis → ’tis (×3)
 - virtues → virtue's (×3)
 - wch → which (×3)
 - 2 → 2. (×2)
+- Callice → Calais (×2)
 - Emperors → Emperor's (×2)
 - Fathers → father's (×2)
 - Hel → Hell (×2)
@@ -491,7 +534,6 @@
 - horne → horn (×2)
 - host → hast (×2)
 - hours → hour's (×2)
-- humane → human (×2)
 - its → it's (×2)
 - kils → kills (×2)
 - left → lest (×2)
@@ -505,7 +547,6 @@
 - slight → sleight (×2)
 - sould → sold (×2)
 - spiritualls → spirituals (×2)
-- subtile → subtle (×2)
 - successefull → successful (×2)
 - tel → tell (×2)
 - tels → tells (×2)
@@ -520,8 +561,10 @@
 - 1 → 1.
 - 12 → 12.
 - 13 → 13.
+- 4 → 4.
 - 5 → 5.
 - Abby → Abbey
+- Achitophel → Ahithophel
 - Adonijahs → Adonijah's
 - Agrippas → Agrippa's
 - Alexanders → Alexander's
@@ -531,15 +574,19 @@
 - Antients → Ancients
 - Apolinaris → Apollinaris
 - Apostulum → Apostolum
+- Appium → Apium
 - Arians → Arians'
 - Ariristotle → Aristotle
 - Armer → armour
+- Arragon → Aragon
 - Asael → Asahel
 - Athanasius → Athanasius'
+- Augustin → Augustine
 - Austins → Austin's
 - Balaams → Balaam's
 - Be → bee
 - Beeleever → believer
+- Bellisarius → Belisarius
 - Birthcham → Birth
 - Caesars → Caesar's
 - Caldean → Chaldean
@@ -552,6 +599,8 @@
 - Constantines → Constantine's
 - Cor → Cor.
 - Councel → Council
+- Dalilah → Delilah
+- Daliloh → Delilah
 - Delill → Devil
 - Dives → Dives'
 - Eather → Father
@@ -567,6 +616,7 @@
 - Garlick → Garlic
 - Gehezi → Gehazi
 - Germane → German
+- Gilimex → Gelimer
 - God → God,
 - God → God;
 - Golgatha → Golgotha
@@ -577,6 +627,7 @@
 - Hazael's → Hazaels
 - Heb → Heb.
 - Hebraw → Hebrew
+- Heliogobalus → Heliogabalus
 - Herauld → Herald
 - Heredotus → Herodotus
 - Hes → Hos
@@ -587,11 +638,13 @@
 - Idols → Idol's
 - Isa → Isaiah
 - Iscatiot → Iscariot
+- Isidor → Isidore
 - Israelites → Israelites'
 - Its → It's
 - Jay → lay
 - Jehosaphat → Jehoshaphat
 - Jer → Jer.
+- Jesurum → Jeshurun
 - Jezabels → Jezebel's
 - Job → Job.
 - Jobs → Jobs’
@@ -601,6 +654,7 @@
 - Josephs → Joseph's
 - Josephs → Josephs’
 - Judg → Judge
+- Judge → Judg.
 - Judus → Judas
 - Julians → Julian's
 - Justiness → lustiness
@@ -612,8 +666,11 @@
 - Leaper → Leper
 - Lyon → lion
 - Manasses → Manasses'
+- Mat → Mat.
 - Mathew → Matthew
 - Maximimilians → Maximilian's
+- Medicamentum → Medicamenta
+- Melancton → Melancthon
 - Merchandize → Merchandise
 - Mistery → Mystery
 - Moble → Noble
@@ -632,6 +689,8 @@
 - Pauls → Paul's
 - Pet → Pet.
 - Pharisees → Pharisees'
+- Philistimes → Philistines
+- Pihil → Piel
 - Pirats → Pirates
 - Professours → Professors
 - Psaln•es → Psalms
@@ -642,6 +701,7 @@
 - Saints → Saints'
 - Salvians → Salvian's
 - Sampsons → Samson's
+- Santus → Sanctus
 - Sathan → Satan
 - Selab → Selah
 - Serpents → Serpent's
@@ -671,6 +731,7 @@
 - abhominable → abominable
 - aboundantly → abundantly
 - ach → ache
+- adamant → adamant;
 - adultress → adulteress
 - aganst → against
 - ahlas → alas
@@ -851,6 +912,7 @@
 - lead → led
 - leeches → leech's
 - leoper → leper
+- libbab → libbah
 - listing → lifting
 - loath → loathe
 - loft → loath
@@ -863,6 +925,7 @@
 - mariners → mariner's
 - masters → master's
 - medling → meddling
+- meet → mete
 - men's → mens
 - menstrous → menstruous
 - merchandize → merchandise
@@ -871,6 +934,7 @@
 - mettall → mettle
 - mid'd → midst
 - mightter → mightier
+- momentany → momentary
 - morter → mortar
 - murren → murrain
 - myrthe → myrrh
@@ -920,10 +984,13 @@
 - prayses → praises
 - praysing → praising
 - prccatum → peccatum
+- price → prize
 - proces → process
 - profers → proffers
+- promises → providences
 - prophaneness → profaneness
 - purlely → purely
+- quaristas → quaeristas
 - quomedo → quomodo
 - raggs → rags
 - reasons → reason's
@@ -1009,6 +1076,7 @@
 - tafts → tastes
 - temper → tempter
 - temtations → temptations
+- tentation → temptation
 - terror → terror;
 - thair → their
 - thats → that's
@@ -1048,6 +1116,7 @@
 - whither → whether
 - widows → widows'
 - willderness → wilderness
+- willing → willing?
 - winters → winter's
 - wits → wits'
 - wordly → worldly

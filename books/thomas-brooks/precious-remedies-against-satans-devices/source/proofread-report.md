@@ -134,3 +134,13 @@ Not applied. Each with the proposed reading and why; the editor decides.
      (doubting-05).
    - Keep: "Fourthly, true grace" (lowercase "true"); "crucified the world"
      (Brooks's misquotation of Gal. 5. 24).
+
+## Settled (2026-10-10)
+
+All 56 questions are decided. Where Grosart's edition made a decision, it
+was followed (20, including "Melancthon" in his spelling). Where Grosart
+keeps the 1653 reading, the text stays as printed: Nauratines, "crucified
+the world", "the greatest of thy sins", "let all the vials", Gal. 4. 6. The
+other 31 were settled as recommended above, with three kept as printed:
+"Apium Sardis" (spelling only), "Fourthly, true grace" (case only) and
+"seorsim a me separat".

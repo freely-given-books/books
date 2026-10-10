@@ -31,7 +31,7 @@ The main observation that I shall draw from these words, is this.
 
 I shall first prove the point, and secondly show you his several devices; and thirdly the remedies against his devices; and fourthly, how it comes to pass, that he hath so many several devices to deceive, entangle, and undo the souls of men. Fifthly, I shall lay down some propositions concerning Satan, and his devices. For the proof of the point, take these few Scriptures. #emph[Ephes. 6. ver. 11. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.] The Greek word#footnote[Μεθοδείας.] that is here rendered #emph[wiles,] is a notable emphatical word.
 
-1\. It signifies such snares as are laid behind one, such treacheries as come upon one's back at unawares. It notes the methods, or way-layings of that old subtile serpent, who, like #emph[Dan's] adder in the path, biteth the heels of passengers, and thereby transfuseth his venom to the head and heart; the word signifies an ambushment, or stratagem of war, whereby the enemy sets upon a man #emph[ex insidiis,] at unawares.
+1\. It signifies such snares as are laid behind one, such treacheries as come upon one's back at unawares. It notes the methods, or way-layings of that old subtle serpent, who, like #emph[Dan's] adder in the path, biteth the heels of passengers, and thereby transfuseth his venom to the head and heart; the word signifies an ambushment, or stratagem of war, whereby the enemy sets upon a man #emph[ex insidiis,] at unawares.
 
 2\. It signifies such snares as are set to#footnote[a μετά & ὁδὸς.] catch one in one's road; a man walks in his road, and thinks not of it, on the sudden he is caught by thieves, or falls into a pit, #emph[etc.]
 
