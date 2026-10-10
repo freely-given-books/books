@@ -59,7 +59,7 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 45 | The True Bounds of Christian Freedom | Samuel Bolton | | |
 | 46 | Sermons of the Great Ejection | Various | | anthology |
 | 47 | The Rare Jewel of Christian Contentment | Jeremiah Burroughs | | |
-| 48 | The Mortification of Sin | John Owen | | |
+| 48 | The Mortification of Sin | John Owen | **in review** | from CCEL (Goold), checked against Goold 1850 and 1668 |
 | 49 | Learning in Christ's School | Ralph Venning | | |
 | 50 | The Golden Treasury of Puritan Quotations | I. D. E. Thomas | | modern compilation (1975), in copyright: skip |
 | 51 | All Loves Excelling | John Bunyan | | renamed (*The Saints' Knowledge of Christ's Love*) |
