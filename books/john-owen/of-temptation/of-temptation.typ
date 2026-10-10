@@ -26,6 +26,8 @@
     #link("mailto:books@lyndnex.com")
 
     ebook and PDF also available.
+
+    The text is that of William H. Goold’s edition of Owen’s Works (1850), checked against the first edition of 1658. The summaries at the head of each chapter are Goold’s; Owen’s first edition has none.
   ],
   preface: [
     #align(center + horizon)[
