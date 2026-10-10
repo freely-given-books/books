@@ -9,7 +9,7 @@
 | spelling | 1237 |
 | note | 213 |
 | emendation | 180 |
-| case | 114 |
+| case | 123 |
 | punctuation | 105 |
 | gap | 23 |
 | spacing | 22 |
@@ -359,8 +359,8 @@
 
 ## case
 
+- ’tis → ’Tis (×17)
 - ’Tis → ’tis (×14)
-- ’tis → ’Tis (×14)
 - Of → of (×9)
 - BY → By (×8)
 - And → and (×5)
@@ -369,6 +369,7 @@
 - That → that (×5)
 - ’twas → ’Twas (×5)
 - First → first (×3)
+- how → How (×3)
 - ’Twas → ’twas (×3)
 - But → but (×2)
 - He → he (×2)
@@ -381,11 +382,13 @@
 - Ch → ch
 - Crosses → crosses
 - Gods → gods
+- How → how
 - If → if
 - It → it
 - Labour → labour
 - Often → often
 - Paradise → paradise
+- Saith → saith
 - Sinned → sinned
 - Speaks → speaks
 - Such → such
@@ -393,6 +396,7 @@
 - Under → under
 - Verses → verses
 - Wept → wept
+- What → what
 - When → when
 - Which → which
 - You → you
