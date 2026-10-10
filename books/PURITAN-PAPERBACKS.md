@@ -36,7 +36,7 @@ Status: **done** (merged), **in review** (built, questions open), **next**, or b
 | 22 | The Glorious Feast of the Gospel | Richard Sibbes | **done** | PR #8 |
 | 23 | Select Practical Writings of Robert Traill | Robert Traill | | a selection |
 | 24 | The Bruised Reed | Richard Sibbes | | |
-| 25 | Temptation: Resisted and Repulsed | John Owen | | |
+| 25 | Temptation: Resisted and Repulsed | John Owen | **in review** | in full: *Of Temptation* (1658), from CCEL (Goold) |
 | 26 | The Spirit and the Church | John Owen | | Banner compilation |
 | 27 | The Godly Man's Picture | Thomas Watson | | |
 | 28 | Spiritual-Mindedness | John Owen | | |
