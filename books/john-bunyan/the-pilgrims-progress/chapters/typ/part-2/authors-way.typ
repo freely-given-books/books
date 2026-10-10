@@ -284,4 +284,6 @@ As may with each good Pilgrim’s fancy suit; \
 And may it some persuade, that go astray, \
 To turn their feet and heart to the right way,
 
-Is the hearty prayer of \ The Author, \ JOHN BUNYAN.
+#v(1em)
+
+#align(right)[Is the hearty prayer of \ The Author, \ JOHN BUNYAN.]

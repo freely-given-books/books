@@ -40,6 +40,18 @@ h3 + p {
   text-indent: 0;
 }
 
+/* a signature (TEI signed, or a signatory): set right, the first a line
+   below the paragraph before; the house style of every book */
+p.signature {
+  text-indent: 0;
+  text-align: right;
+  hyphens: none;
+}
+
+p.signature-first {
+  margin-top: 1em;
+}
+
 /* a paragraph centered in the source (TEI p[@rend="center"]) */
 p.center {
   text-indent: 0;

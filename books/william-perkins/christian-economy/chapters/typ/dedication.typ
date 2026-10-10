@@ -25,9 +25,8 @@ Lastly, it containeth here and there, some special grounds of truth, tending to 
 
 Now these points, together with the substance of this small discourse, I willingly commend unto your Lordship, desiring that under the wings of your Honorable protection, it may safely walk abroad in the world, to the view and benefit of others. The true report of your ancient love of the truth, and favourable inclination to the Ministers and dispensers thereof, hath given me encouragement in this action; the rather, for that the argument fitteth in some sort your present estate, whose house God hath adorned with olive plants,#footnote[Psal. 128. 3.] a virtuous and hopeful issue, whose young years being seasoned therein, by the sweet savour of their fathers virtues, may yield in time a plentiful increase of honor in this common-wealth; and consequently advance your Name in themselves and their posterity. To this may be added mine own desire to give some testimony of duty to your Lordship, as holding it your due, to be had in Honorable terms with men, whose care hath been to maintain the honor of the Highest by your constant profession and practise of Religion. And thus emboldening my self upon the persuasion of your Lordships favour and acceptance, I humbly take my leave, and commend you to the grace of#footnote[Act. 20. 32] God, who is able to build you up further, and give you an inheritance among them which are sanctified. #emph[Finching-field,] Septemb. 26. 1609.
 
-#linebreak()
-#linebreak()
+#v(1em)
 
-#align(left)[Your Lordships to be commanded in all Christian duty,]
+#align(right)[Your Lordships to be commanded in all Christian duty,]
 
 #align(right)[#emph[THO. Pickering.]]

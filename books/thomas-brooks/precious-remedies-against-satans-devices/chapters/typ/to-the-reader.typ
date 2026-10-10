@@ -18,6 +18,8 @@ Fourthly, and lastly, if in thy reading thou wilt cast a serious eye upon the ma
 
 Reader,
 
-Thy soul's servant in every office of the gospel,
+#v(1em)
 
-THOMAS BROOKS.
+#align(right)[Thy soul's servant in every office of the gospel,]
+
+#align(right)[THOMAS BROOKS.]

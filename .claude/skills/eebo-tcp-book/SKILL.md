@@ -166,7 +166,7 @@ $PY ../../../../colophon/tei_extract.py <book>.tei.xml ../chapters/typ --layer r
 
 Then set up the book files by copying a recent book's (Grace Abounding,
 Pilgrim's Progress) and changing the text: `<book>.typ` (print,
-`@local/fgbooks:0.5.4`, 5.5x8.5 by default), `cover.typ`
+`@local/fgbooks:0.5.5`, 5.5x8.5 by default), `cover.typ`
 (`scripts/panel_cover.typ`, one palette per author: Bunyan is ochre; it is
 also the ebook cover, `"cover": "cover.typ"`), `ebook-front.html`,
 `ebook-override.css`, `README.md`, and `EPUB`/`PRINT` in `editorial.py`
