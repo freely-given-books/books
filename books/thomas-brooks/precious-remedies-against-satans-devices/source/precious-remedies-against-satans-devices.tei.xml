@@ -195,7 +195,8 @@
             <p>For a <choice><orig>cloſe</orig><reg resp="#auto" type="spelling">close</reg></choice>, remember this, that your life is <choice><orig>ſhort</orig><reg resp="#auto" type="spelling">short</reg></choice>, your duties many, your <choice><orig>aſſiſtance</orig><reg resp="#auto" type="spelling">assistance</reg></choice> great, and your re<g ref="char:EOLhyphen"/>ward <choice><orig>ſure</orig><reg resp="#auto" type="spelling">sure</reg></choice>; therefore faint not, hold on, and hold up in <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> of well do<g ref="char:EOLhyphen"/>ing, and <choice><orig>Heaven</orig><reg resp="#auto" type="spelling">heaven</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> make amends for all.</p>
             <p>I <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> now take leave of you, when my heart hath by my hand <choice><orig>ſubſcri<g ref="char:EOLhyphen"/>bed</orig><reg resp="#auto" type="spelling">subscribed</reg></choice> that I am,</p>
             <closer>
-               <signed>Your loving <choice><orig>Paſtor</orig><reg resp="#auto" type="spelling">pastor</reg></choice> under <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, according to all <choice><orig><choice><orig>Paſtor</orig><reg resp="#auto" type="spelling">pastor</reg></choice> all</orig><reg resp="#editor" type="emendation">pastoral</reg></choice> affe<g ref="char:EOLhyphen"/>ctions, and engagements in our <choice><orig>deareſt</orig><reg resp="#auto" type="spelling">dearest</reg></choice> Lord. THOMAS BROOKS.</signed>
+               <signed>Your loving <choice><orig>Paſtor</orig><reg resp="#auto" type="spelling">pastor</reg></choice> under <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, according to all <choice><orig><choice><orig>Paſtor</orig><reg resp="#auto" type="spelling">pastor</reg></choice> all</orig><reg resp="#editor" type="emendation">pastoral</reg></choice> affe<g ref="char:EOLhyphen"/>ctions, and engagements in our <choice><orig>deareſt</orig><reg resp="#auto" type="spelling">dearest</reg></choice> Lord. </signed>
+<signed change="#review">THOMAS BROOKS.</signed>
             </closer>
          </div>
          <div type="to_the_reader">
@@ -256,7 +257,8 @@
                <hi>build thee up, and to give thee an inheritance among them which are <choice><orig>ſanctified</orig><reg resp="#auto" type="spelling">sanctified</reg></choice>.</hi> And <choice><orig>reſt</orig><reg resp="#auto" type="spelling">rest</reg></choice></p>
             <closer>
                <salute>Reader,</salute>
-               <signed>Thy <choice><orig>ſoules</orig><reg resp="#editor" type="spelling">soul's</reg><reg resp="#auto" type="spelling">souls</reg></choice> <choice><orig>Servant</orig><reg resp="#auto" type="spelling">servant</reg></choice> in every office of the <choice><orig>Goſpel</orig><reg resp="#auto" type="spelling">gospel</reg></choice>, THOMAS BROOKS.</signed>
+               <signed>Thy <choice><orig>ſoules</orig><reg resp="#editor" type="spelling">soul's</reg><reg resp="#auto" type="spelling">souls</reg></choice> <choice><orig>Servant</orig><reg resp="#auto" type="spelling">servant</reg></choice> in every office of the <choice><orig>Goſpel</orig><reg resp="#auto" type="spelling">gospel</reg></choice>, </signed>
+<signed change="#review">THOMAS BROOKS.</signed>
             </closer>
          </div>
       </front>

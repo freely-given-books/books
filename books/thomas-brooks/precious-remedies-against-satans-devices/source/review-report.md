@@ -16,8 +16,14 @@
 | grammar | 16 |
 | expansion | 4 |
 | italic | 3 |
+| split | 2 |
 | note moved | 1 |
 | merge | 1 |
+
+## split
+
+- [dedication.typ] signature → new line at 'THOMAS'
+- [to-the-reader.typ] signature → new line at 'THOMAS'
 
 ## gap
 

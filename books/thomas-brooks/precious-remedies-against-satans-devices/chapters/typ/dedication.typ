@@ -36,4 +36,6 @@ For a close, remember this, that your life is short, your duties many, your assi
 
 I shall now take leave of you, when my heart hath by my hand subscribed that I am,
 
-Your loving pastor under Christ, according to all pastoral affections, and engagements in our dearest Lord. THOMAS BROOKS.
+Your loving pastor under Christ, according to all pastoral affections, and engagements in our dearest Lord.
+
+THOMAS BROOKS.
