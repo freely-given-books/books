@@ -1,0 +1,22 @@
+{
+  "about": "Each release (a YYYY.MM.DD tag) and the book versions in it: the Lulu revisions, and since 2026.10.10 the signed sign-off tags <author>/<book>/vN. ./fgb release make adds each release.",
+  "releases": [
+    {
+      "release": "2026.03.16",
+      "books": {
+        "anonymous/the-anatomy-of-simon-magus": 2,
+        "charles-spurgeon/all-of-grace": 12,
+        "john-bunyan/the-pilgrims-progress": 10,
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 5,
+        "richard-sibbs/the-glorious-feast-of-the-gospel": 10,
+        "the-baptist-standards/the-baptist-standards": 4
+      }
+    },
+    {
+      "release": "2026.10.10",
+      "books": {
+        "anonymous/the-anatomy-of-simon-magus": 3
+      }
+    }
+  ]
+}

@@ -54,3 +54,6 @@ books/**/*.monergism.*
 books/**/*.sermonindex.*
 # Boston: OCR, scans and intermediate files of the transcription (remade by source/transcription/*.py)
 books/thomas-boston/the-crook-in-the-lot/source/transcription/work/
+
+# Working lists kept locally, not published
+books/PURITAN-PAPERBACKS.md
