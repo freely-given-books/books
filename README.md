@@ -2,6 +2,26 @@
 
 A collection of books for the [Freely Given Books](https://books.freely.giving) project.
 
+## Finished books
+
+`main` is where books are worked on, so it also holds books that are not
+finished. For finished books only, use the **`stable`** branch:
+
+```sh
+git clone --recursive -b stable https://github.com/freely-given-books/books.git
+cd books && ./fgb build
+```
+
+Every book on `stable` has been signed off by the editor with a signed tag
+(`<author>/<book>/vN`) and is exactly as it was signed off. Its
+`CATALOG.md` lists each book with its source and the checksum of that
+source, and each release on GitHub has the built PDFs and EPUBs with a
+`SHA256SUMS` file. To check a sign-off yourself:
+
+```sh
+git -c gpg.ssh.allowedSignersFile=allowed_signers tag -v <author>/<book>/vN
+```
+
 ## Contributing
 
 Contributions are welcome! Books should be submitted in one of the following formats:

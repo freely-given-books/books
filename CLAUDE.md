@@ -94,6 +94,32 @@ A change to the tools:
 4. Pin it here, in a commit of its own: `git -C colophon checkout X.Y.Z`,
    `./fgb check --all`, `git add colophon`.
 
+## Releases: done books
+
+A book is **done** only when the editor signs a version of it off: a signed
+tag `<author>/<book>/vN` (`./fgb release sign BOOK`, which runs every gate
+first). Claude never cuts these tags. The book's `RELEASE.toml` records
+what the edition is made from (each source file with its SHA-256, the
+witnesses, a summary for the catalog); `./fgb release record BOOK` starts
+one. A sign-off holds while the book's folder is as tagged: any later
+change, a colophon release that rewrites the TEI included, holds the book
+back until it is signed off again (the `releases` workflow warns on such a
+PR). Versions continue the Lulu revisions in `books/REVISIONS.md`.
+
+```sh
+./fgb release                 # done / held back / not signed off, per book
+./fgb release sign simon      # the editor: gates, then the signed tag
+./fgb release make            # gates on every done book, dist/release/<date>/
+                              # and a commit on the local `stable` branch
+./fgb release make --trial    # the same with unverified tags or tools, to stable-trial
+```
+
+`stable` is this repository with only the done books, plus `CATALOG.md`;
+readers clone it (`git clone --recursive -b stable`). Signatures are checked
+against `allowed_signers` at the root. `make` pushes nothing: it prints the
+push, the release tag (`YYYY.MM.DD`, as in `REVISIONS.md`) and the
+`gh release create` with the built files and `SHA256SUMS`.
+
 ## Lessons from the books
 
 1. **A finished copy from a scanned Victorian edition** (Sibbes, from a

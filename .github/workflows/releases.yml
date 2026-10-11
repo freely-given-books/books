@@ -1,0 +1,22 @@
+# Which books are done (signed off with a tag, unchanged since), and whether
+# a change touches one: a book changed after its sign-off leaves the next
+# release until the editor signs it off again (./fgb release; CLAUDE.md,
+# Releases). It warns, it never fails: corrections are welcome.
+name: releases
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the sign-off tags and the history they point into
+      - run: git submodule update --init colophon
+      - uses: astral-sh/setup-uv@v6
+      - name: ./fgb release
+        run: ./fgb release
