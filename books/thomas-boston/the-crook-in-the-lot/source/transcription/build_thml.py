@@ -41,6 +41,9 @@ def place_breaks(i, text):
             pos = m.a - m.b                 # start of the new page in plain text
             while pos > 0 and plain[pos - 1] not in ' —-':
                 pos -= 1
+            if pos > 0 and plain[pos - 1] in '—-':   # inside a hyphened word: after it
+                while pos < len(plain) and plain[pos] != ' ':
+                    pos += 1
         else:                               # the new page opened with a running head: use the old page's end
             before = ' '.join(pb['before'].split())[-30:]
             sm = SequenceMatcher(None, plain, before, autojunk=False)

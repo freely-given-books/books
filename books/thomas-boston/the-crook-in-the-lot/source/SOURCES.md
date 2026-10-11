@@ -53,7 +53,10 @@ The scripts are in `transcription/` (`assemble.py`, `segments.py`,
 `transcription/work/`. Every correction is kept in
 `transcription/corrections/`: `1-rules.jsonl` (by rule, token spans of the
 first OCR), `2-reader.jsonl` (the reader's, with the reason: image, context,
-1811, CCEL) and `3-final.jsonl`.
+1811, CCEL), `3-final.jsonl`, and the proofread's
+`4-proofread-*.jsonl` (106 more OCR slips fixed in the transcription; the
+1848 printing's own misprints corrected in the edition; see
+`proofread-report.md`).
 
 ## Witnesses
 

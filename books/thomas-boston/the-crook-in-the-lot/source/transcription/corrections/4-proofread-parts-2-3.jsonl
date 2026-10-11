@@ -1,0 +1,110 @@
+{"file": "part-2.typ", "old": "God sees it good for them. Lam.", "new": "God sees it good for them, Lam.", "class": "ocr", "kind": "punctuation", "why": "img p541: 'them, Lam. iii.'"}
+{"file": "part-2.typ", "old": "what are they worth. Gen.", "new": "what are they worth, Gen.", "class": "ocr", "kind": "punctuation", "why": "img p542: 'worth, Gen.'"}
+{"file": "part-2.typ", "old": "what they deserve. Lam. iii. 22. Viewing", "new": "what they deserve, Lam. iii. 22. Viewing", "class": "ocr", "kind": "punctuation", "why": "img p542: 'deserve, Lam.'"}
+{"file": "part-2.typ", "old": "sinfulness. Job xlii. 5, 6.", "new": "sinfulness, Job xlii. 5, 6.", "class": "ocr", "kind": "punctuation", "why": "img p542: 'sinfulness, Job'"}
+{"file": "part-2.typ", "old": "mercies bestowed on them. Gen.", "new": "mercies bestowed on them, Gen.", "class": "ocr", "kind": "punctuation", "why": "img p542: 'them, Gen.'"}
+{"file": "part-2.typ", "old": "or yet do. Job ii. 10.", "new": "or yet do, Job ii. 10.", "class": "ocr", "kind": "punctuation", "why": "img p542: 'do, Job ii. 10.'"}
+{"file": "part-2.typ", "old": "2 Sam. xv. 25, 26..", "new": "2 Sam. xv. 25, 26.", "class": "fix", "kind": "misprint", "why": "img p542 prints '26..' (doubled stop)"}
+{"file": "part-2.typ", "old": "2 Cor xii. 11;", "new": "2 Cor. xii. 11;", "class": "fix", "kind": "misprint", "why": "img p542 prints '2 Cor xii.' without the stop; '2 Cor.' follows on the same line"}
+{"file": "part-2.typ", "old": "bear the “yoke in his youth", "new": "bear the yoke in his youth", "class": "fix", "kind": "quote", "why": "img p543: the printer's stray opening mark inside Lam. iii. 27; it flips the curling of the closing mark"}
+{"file": "part-2.typ", "old": "goes softly under it They see", "new": "goes softly under it. They see", "class": "fix", "kind": "misprint", "why": "img p543: printed with no stop (space left for it)"}
+{"file": "part-2.typ", "old": "as tolerable. Lam. iii. 26", "new": "as tolerable, Lam. iii. 26", "class": "ocr", "kind": "punctuation", "why": "img p543: 'tolerable, Lam.'"}
+{"file": "part-2.typ", "old": "according to his mind. Gen. vi. 3.", "new": "according to his mind, Gen. vi. 3.", "class": "ocr", "kind": "punctuation", "why": "img p546: 'mind, Gen.'"}
+{"file": "part-2.typ", "old": "broken, Rom. vi, 7.", "new": "broken, Rom. vi. 7.", "class": "ocr", "kind": "reference", "why": "img p545: 'Rom. vi. 7.'"}
+{"file": "part-2.typ", "old": "evil- speaking", "new": "evil-speaking", "class": "ocr", "kind": "spacing", "why": "img p546: 'evil-speak-/ing' at line end"}
+{"file": "part-2.typ", "old": "We are to consider them as.", "new": "We are to consider them as,", "class": "ocr", "kind": "punctuation", "why": "img p546: 'consider them as,'"}
+{"file": "part-2.typ", "old": "while he overlooks others. Is.", "new": "while he overlooks others, Is.", "class": "ocr", "kind": "punctuation", "why": "img p548: 'others, Is. lxvi. 2.'"}
+{"file": "part-2.typ", "old": "pleasing to the devil. Is.", "new": "pleasing to the devil, Is.", "class": "ocr", "kind": "punctuation", "why": "img p548: 'devil, Is. lvii. 15.'"}
+{"file": "part-2.typ", "old": "waters beating on it. Col.", "new": "waters beating on it, Col.", "class": "ocr", "kind": "punctuation", "why": "img p548: 'on it, Col. iii. 15.'"}
+{"file": "part-2.typ", "old": "God disciplines his own. Lam.", "new": "God disciplines his own, Lam.", "class": "ocr", "kind": "punctuation", "why": "img p550: 'his own, Lam. iii.'"}
+{"file": "part-2.typ", "old": "good works, Mai. iii. 16.", "new": "good works, Mal. iii. 16.", "class": "ocr", "kind": "letters", "why": "img p550: 'Mal.'"}
+{"file": "part-2.typ", "old": "1 Sam. ii. 9.— “for", "new": "1 Sam. ii. 9.—“for", "class": "ocr", "kind": "spacing", "why": "img p550: '9.—' ends the line, the quotation opens the next; no space"}
+{"file": "part-2.typ", "old": "1 Pet, V. 6.", "new": "1 Pet. v. 6.", "class": "ocr", "kind": "reference", "why": "img p551: '1 Pet. v. 6.'"}
+{"file": "part-2.typ", "old": "Rom. viii. 29.— “Whom", "new": "Rom. viii. 29.—“Whom", "class": "ocr", "kind": "spacing", "why": "img p540: '29.—' ends the line, the quotation opens the next"}
+{"file": "part-3.typ", "old": "proper season for it. Gal.", "new": "proper season for it, Gal.", "class": "ocr", "kind": "punctuation", "why": "img p554: 'for it, Gal. vi. 9.—'"}
+{"file": "part-3.typ", "old": "own turn. Acts xii. 22.", "new": "own turn, Acts xii. 22.", "class": "ocr", "kind": "punctuation", "why": "img p555: 'own turn, Acts'"}
+{"file": "part-3.typ", "old": "Prov. xxi. L He sends", "new": "Prov. xxi. 1. He sends", "class": "ocr", "kind": "reference", "why": "img p557: 'Prov. xxi. 1.'"}
+{"file": "part-3.typ", "old": "one sin with another. Is.", "new": "one sin with another, Is.", "class": "ocr", "kind": "punctuation", "why": "img p557: 'another, Is. vi. 10.'"}
+{"file": "part-3.typ", "old": "as their sins deserve. Lam.", "new": "as their sins deserve, Lam.", "class": "ocr", "kind": "punctuation", "why": "img p558: 'deserve, Lam. iii. 22.'"}
+{"file": "part-3.typ", "old": "we excel others. Rev.", "new": "we excel others, Rev.", "class": "ocr", "kind": "punctuation", "why": "img p558: 'others, Rev. iv. 10.'"}
+{"file": "part-3.typ", "old": "notice them or not. Is.", "new": "notice them or not, Is.", "class": "ocr", "kind": "punctuation", "why": "img p559: 'or not, Is. xl. 6.'"}
+{"file": "part-3.typ", "old": "rebellion against him. Is.", "new": "rebellion against him, Is.", "class": "ocr", "kind": "punctuation", "why": "img p559: 'him, Is. xiv. 9.'"}
+{"file": "part-3.typ", "old": "their spirits and lot. Rev.", "new": "their spirits and lot, Rev.", "class": "ocr", "kind": "punctuation", "why": "img p560: 'lot, Rev. xvi. 21.'"}
+{"file": "part-3.typ", "old": "while ye have them. Acts", "new": "while ye have them, Acts", "class": "ocr", "kind": "punctuation", "why": "img p560: 'them, Acts xiii. 41.'"}
+{"file": "part-3.typ", "old": "on such for good. Is.", "new": "on such for good, Is.", "class": "ocr", "kind": "punctuation", "why": "img p561: 'good, Is. lxvi. 2.'"}
+{"file": "part-3.typ", "old": "he dwells with them. Is.", "new": "he dwells with them, Is.", "class": "ocr", "kind": "punctuation", "why": "img p561: 'them, Is. lvii. 15.'"}
+{"file": "part-3.typ", "old": "a prevailing evil. Is.", "new": "a prevailing evil, Is.", "class": "ocr", "kind": "punctuation", "why": "img p567: 'evil, Is. lvii. 10.'"}
+{"file": "part-3.typ", "old": "give ease. Is. xxxiii", "new": "give ease, Is. xxxiii", "class": "ocr", "kind": "punctuation", "why": "img p567: 'ease, Is. xxxiii. 24.'"}
+{"file": "part-3.typ", "old": "must trust. Is. l. 10.", "new": "must trust, Is. l. 10.", "class": "ocr", "kind": "punctuation", "why": "img p569: 'trust, Is. l. 10.'"}
+{"file": "part-3.typ", "old": "faith sets to wait it. Is.", "new": "faith sets to wait it, Is.", "class": "ocr", "kind": "punctuation", "why": "img p569: 'it, Is. xxviii. 16.'"}
+{"file": "part-3.typ", "old": "beyond them all. Job vii.", "new": "beyond them all, Job vii.", "class": "ocr", "kind": "punctuation", "why": "img p571: 'all, Job vii. 2, 3.'"}
+{"file": "part-3.typ", "old": "he can remedy them. Gen.", "new": "he can remedy them, Gen.", "class": "ocr", "kind": "punctuation", "why": "img p571: 'them, Gen. xviii.'"}
+{"file": "part-3.typ", "old": "her sucking child. Is.", "new": "her sucking child, Is.", "class": "ocr", "kind": "punctuation", "why": "img p572: 'child, Is. xlix. 15.'"}
+{"file": "part-3.typ", "old": "a thousand worlds. Col.", "new": "a thousand worlds, Col.", "class": "ocr", "kind": "punctuation", "why": "img p573: 'worlds, Col. ii. 9.'"}
+{"file": "part-3.typ", "old": "in Abel’s room after. Gen.", "new": "in Abel’s room after, Gen.", "class": "ocr", "kind": "punctuation", "why": "img p573: 'after, Gen. iv. 25.'"}
+{"file": "part-3.typ", "old": "till they be lifted up. Lam.", "new": "till they be lifted up, Lam.", "class": "ocr", "kind": "punctuation", "why": "img p575: 'up, Lam. iii. 49, 50.'"}
+{"file": "part-3.typ", "old": "one hundred and forty. Job", "new": "one hundred and forty, Job", "class": "ocr", "kind": "punctuation", "why": "img p578: 'forty, Job xlii. 16.'"}
+{"file": "part-3.typ", "old": "the promise brought forth. Gen.", "new": "the promise brought forth, Gen.", "class": "ocr", "kind": "punctuation", "why": "img p582: 'forth, Gen. xviii. 11.'"}
+{"file": "part-3.typ", "old": "lifted up at all. Job xl. 4.", "new": "lifted up at all, Job xl. 4.", "class": "ocr", "kind": "punctuation", "why": "img p585: 'all, Job xl. 4.'"}
+{"file": "part-3.typ", "old": "his humbling circumstances. Job xxxiii", "new": "his humbling circumstances, Job xxxiii", "class": "ocr", "kind": "punctuation", "why": "img p585: 'circumstances, Job xxxiii.'"}
+{"file": "part-3.typ", "old": "years on-waiting. Gen. xvi.", "new": "years on-waiting, Gen. xvi.", "class": "ocr", "kind": "punctuation", "why": "img p586: 'on-waiting, Gen. xvi.'"}
+{"file": "part-3.typ", "old": "in time or eternity. Lam.", "new": "in time or eternity, Lam.", "class": "ocr", "kind": "punctuation", "why": "img p587: 'eternity, Lam. iii. 49, 50.'"}
+{"file": "part-2.typ", "old": "he shall not stoop,-Rom.", "new": "he shall not stoop, Rom.", "class": "fix", "kind": "punctuation", "why": "img p545 shows a stray hyphen-like mark after the comma; 1811 'stoop, Rom.'"}
+{"file": "part-2.typ", "old": "boiling heat, Psal. xxix. 3.", "new": "boiling heat, Psal. xxxix. 3.", "class": "fix", "kind": "reference", "why": "img p546 prints 'xxix. 3' (thunder psalm); 1811 'Psal. xxxix. 3', KJV xxxix. 3 'My heart was hot within me'"}
+{"file": "part-2.typ", "old": "“Thy will be done on earth, &c. They", "new": "“Thy will be done on earth, &c. They", "class": "note", "kind": "quote", "why": "img p542: quotation left open by the printer"}
+{"file": "part-2.typ", "old": "“Blessed are the poor in spirit, for theirs is the kingdom of heaven, Matth. v. 3.", "new": "“Blessed are the poor in spirit, for theirs is the kingdom of heaven, Matth. v. 3.", "class": "note", "kind": "quote", "why": "img p547: quotation left open by the printer"}
+{"file": "part-2.typ", "old": "brought down to their lot Psal. cxxxi. 2.", "new": "brought down to their lot Psal. cxxxi. 2.", "class": "note", "kind": "punctuation", "why": "img p541: printed with no comma before Psal."}
+{"file": "part-3.typ", "old": "as under God s mighty hand", "new": "as under God’s mighty hand", "class": "ocr", "kind": "letters", "why": "img p554: 'God’s'"}
+{"file": "part-3.typ", "old": "11\\. What are these humbling circumstances", "new": "II. What are these humbling circumstances", "class": "fix", "kind": "misprint", "why": "img p555 prints '11.' for the head II. (between I. and III.)"}
+{"file": "part-3.typ", "old": "1 Cor. xi. 7-And therefore", "new": "1 Cor. xi. 7. And therefore", "class": "ocr", "kind": "punctuation", "why": "img p556: '1 Cor. xi. 7.' ends the line, 'And' opens the next"}
+{"file": "part-3.typ", "old": "to their relatives, Psal. xxxii. 6.", "new": "to their relatives, Psal. lxxxii. 6.", "class": "fix", "kind": "reference", "why": "img p556 prints 'xxxii. 6'; 1811 'Psalm lxxxii. 6', KJV lxxxii. 6 'I have said, Ye are gods'"}
+{"file": "part-3.typ", "old": "part of ours too, Hob. xii. 3.", "new": "part of ours too, Heb. xii. 3.", "class": "ocr", "kind": "letters", "why": "img p556: 'Heb.'"}
+{"file": "part-3.typ", "old": "said unto him. Curse David", "new": "said unto him, Curse David", "class": "ocr", "kind": "punctuation", "why": "img p557: 'him, Curse David'"}
+{"file": "part-3.typ", "old": "lower that any.", "new": "lower than any.", "class": "fix", "kind": "misprint", "why": "img p558 prints 'that'; 1811 'lower than any'"}
+{"file": "part-3.typ", "old": "(Phil. ii. 8. “He humbled himself, and became obedient unto death),", "new": "(Phil. ii. 8. “He humbled himself, and became obedient unto death),", "class": "note", "kind": "quote", "why": "img p558: quotation left open by the printer"}
+{"file": "part-3.typ", "old": "Is. xiv. 9.", "new": "Is. xlv. 9.", "class": "fix", "kind": "reference", "why": "img p559 prints 'xiv. 9'; 1811 'Isa. xlv. 9.', KJV xlv. 9 'Woe unto him that striveth with his Maker'"}
+{"file": "part-3.typ", "old": "\n\nIt is no easy thing to humble men’s spirits", "new": "\n\n(2.) It is no easy thing to humble men’s spirits", "class": "fix", "kind": "words", "why": "img p560 prints no numeral, between (1.) and (3.); 1811 has '(2.) It is no easy thing'"}
+{"file": "part-3.typ", "old": "Prov. xi. 2. —“With", "new": "Prov. xi. 2.—“With", "class": "ocr", "kind": "spacing", "why": "img p561: '—“With' opens the next line"}
+{"file": "part-3.typ", "old": "or judgment, Psal. xlvi. 4.", "new": "or judgment, Psal. xlv. 5.", "class": "fix", "kind": "reference", "why": "img p561 prints 'xlvi. 4'; 1811 'xlv. 5', KJV xlv. 5 'Thine arrows are sharp in the heart of the king's enemies'"}
+{"file": "part-3.typ", "old": "do no more, Job xii. 8.", "new": "do no more, Job xli. 8.", "class": "ocr", "kind": "reference", "why": "img p562: 'Job xli. 8.'"}
+{"file": "part-3.typ", "old": "begun with thunder, Job xxxviii. 1, 2.", "new": "begun with thunder, Job xxxvii. 1, 2.", "class": "fix", "kind": "reference", "why": "img p562 prints 'xxxviii.'; 1811 'Job xxxvii.'; the thunder is xxxvii. 1, 2, the whirlwind (next sentence) xxxviii. 1"}
+{"file": "part-3.typ", "old": "Lam. iii. 33.” For he doth", "new": "Lam. iii. 33. “For he doth", "class": "ocr", "kind": "quote", "why": "img p563: '33.“ For' (an opening mark)"}
+{"file": "part-3.typ", "old": "1 John V. 10, 11.", "new": "1 John v. 10, 11.", "class": "ocr", "kind": "reference", "why": "img p564: '1 John v. 10, 11.'"}
+{"file": "part-3.typ", "old": "to have Buffered these things", "new": "to have suffered these things", "class": "ocr", "kind": "letters", "why": "img p566: 'suffered'"}
+{"file": "part-3.typ", "old": "yet saidst thou not. There is no hope", "new": "yet saidst thou not, There is no hope", "class": "ocr", "kind": "punctuation", "why": "img p567: 'not, There'"}
+{"file": "part-3.typ", "old": "may get a lifting np,", "new": "may get a lifting up,", "class": "ocr", "kind": "letters", "why": "img p568: 'lifting up, Prov. xvi. 19'"}
+{"file": "part-3.typ", "old": "will be a lifting np,", "new": "will be a lifting up,", "class": "ocr", "kind": "letters", "why": "ctx p568 (the same word as the line before)"}
+{"file": "part-3.typ", "old": "Prov. xv, 1. that", "new": "Prov. xv. 1. that", "class": "ocr", "kind": "reference", "why": "img p569: 'Prov. xv. 1.'"}
+{"file": "part-3.typ", "old": "This is\n\n2 0 3 a lifting up in part", "new": "This is a lifting up in part", "class": "ocr", "kind": "other", "why": "img p570: the paragraph runs on over the page; '2 0 3' is scan junk from the page head"}
+{"file": "part-3.typ", "old": "1.?, The nature of God", "new": "#emph[1st,] The nature of God", "class": "ocr", "kind": "italic", "why": "img p571: italic '1st,' (then '2dly,' and '3dly,' follow)"}
+{"file": "part-3.typ", "old": "given it over, Dent, xxxii. 36.", "new": "given it over, Deut. xxxii. 36.", "class": "ocr", "kind": "reference", "why": "img p571: 'Deut. xxxii. 36.'"}
+{"file": "part-3.typ", "old": "Jer. xxxi. 35 —37.", "new": "Jer. xxxi. 35—37.", "class": "ocr", "kind": "spacing", "why": "img p572: '35' ends the line, '—37.' opens the next"}
+{"file": "part-3.typ", "old": "all the heirs of glory, Rom. viii. 22.", "new": "all the heirs of glory, Rom. viii. 29.", "class": "fix", "kind": "reference", "why": "img p573 prints 'viii. 22'; the words quoted are Rom. viii. 29, as 1811 prints it"}
+{"file": "part-3.typ", "old": "humbling circumstances, Rot. viii. 3.", "new": "humbling circumstances, Rev. viii. 3.", "class": "ocr", "kind": "letters", "why": "img p576: 'Rev. viii. 3.'"}
+{"file": "part-3.typ", "old": "in their case, Is. xliii. 9.", "new": "in their case, Is. lxiii. 9.", "class": "fix", "kind": "reference", "why": "img p576 prints 'xliii. 9'; 1811 'Isa. lxiii. 9', KJV lxiii. 9 'In all their affliction he was afflicted'"}
+{"file": "part-3.typ", "old": "behind of the affections of Christ", "new": "behind of the afflictions of Christ", "class": "fix", "kind": "misprint", "why": "img p577 prints 'affections'; KJV Col. i. 24 and 1811 'afflictions'"}
+{"file": "part-3.typ", "old": "If that he the case", "new": "If that be the case", "class": "ocr", "kind": "letters", "why": "img p577: 'be'"}
+{"file": "part-3.typ", "old": "as in Job’s, Job vii. 11.", "new": "as in Job’s, Job vi. 11.", "class": "fix", "kind": "reference", "why": "img p577 prints 'vii. 11'; 1811 'chap. vi. 11', KJV Job vi. 11 'What is my strength, that I should hope?'"}
+{"file": "part-3.typ", "old": "But ‘ people may get", "new": "But people may get", "class": "ocr", "kind": "quote", "why": "img p579: no mark"}
+{"file": "part-3.typ", "old": "in a round sura,", "new": "in a round sum,", "class": "ocr", "kind": "letters", "why": "img p580: 'sum'"}
+{"file": "part-3.typ", "old": "in their case, John ix. 16, 17.", "new": "in their case, Job ix. 16, 17.", "class": "fix", "kind": "reference", "why": "img p581 prints 'John'; the words are Job ix. 16, 17, as 1811 prints it"}
+{"file": "part-3.typ", "old": "he had answered me, yea would I not believe", "new": "he had answered me, yet would I not believe", "class": "fix", "kind": "misprint", "why": "img p581 prints 'yea'; KJV Job ix. 16 and 1811 'yet would I not believe'"}
+{"file": "part-3.typ", "old": "1 John V. 14.", "new": "1 John v. 14.", "class": "ocr", "kind": "reference", "why": "img p581: '1 John v. 14.'"}
+{"file": "part-3.typ", "old": "in the Lord,— my mouth", "new": "in the Lord,—my mouth", "class": "ocr", "kind": "spacing", "why": "img p582: 'Lord,—' ends the line"}
+{"file": "part-3.typ", "old": "“ “Watchman", "new": "“Watchman", "class": "ocr", "kind": "quote", "why": "img p582: one opening mark"}
+{"file": "part-3.typ", "old": "4. ‘“ He is a rock", "new": "4. “He is a rock", "class": "ocr", "kind": "quote", "why": "img p583: one opening mark, no single mark"}
+{"file": "part-3.typ", "old": "Deut xxxii. 4.", "new": "Deut. xxxii. 4.", "class": "fix", "kind": "misprint", "why": "img p583 prints 'Deut' without its stop"}
+{"file": "part-3.typ", "old": "put off one. moment longer", "new": "put off one moment longer", "class": "ocr", "kind": "punctuation", "why": "img p583: a speck below the line, not a stop"}
+{"file": "part-3.typ", "old": "the liftings np that", "new": "the liftings up that", "class": "ocr", "kind": "letters", "why": "img p584: 'liftings up'"}
+{"file": "part-3.typ", "old": "strong in -faith", "new": "strong in faith", "class": "ocr", "kind": "punctuation", "why": "img p584: a speck, KJV Rom. iv. 20 'strong in faith'"}
+{"file": "part-3.typ", "old": "chap. xl. 4, 5. “And we would have thought", "new": "chap. xl. 4, 5. And we would have thought", "class": "fix", "kind": "quote", "why": "img p585 prints a stray opening mark before Boston's own words (no quotation follows); it flips the curling of the later marks in the paragraph"}
+{"file": "part-3.typ", "old": "chap. xlii. 5, 6, And", "new": "chap. xlii. 5, 6. And", "class": "ocr", "kind": "punctuation", "why": "img p585: '5, 6. And'"}
+{"file": "part-3.typ", "old": "Philip, i. 23. with Eph. vi. 10.", "new": "Philip. i. 23. with Eph. iv. 10.", "class": "fix", "kind": "reference", "why": "img p588: 'Philip.' (OCR comma) and 'Eph. vi. 10' printed; 1811 'Eph. iv. 10', KJV iv. 10 'ascended up far above all heavens'"}
+{"file": "part-3.typ", "old": "Psal. xxx. 6, 7-—“In", "new": "Psal. xxx. 6, 7.—“In", "class": "ocr", "kind": "punctuation", "why": "img p588: '7.—“In'"}
+{"file": "part-3.typ", "old": "Philip, i. 24.", "new": "Philip. i. 24.", "class": "ocr", "kind": "punctuation", "why": "img p589: 'Philip. i. 24.'"}
+{"file": "part-3.typ", "old": "among their feet, Mai. iv. 2, 3.", "new": "among their feet, Mal. iv. 2, 3.", "class": "ocr", "kind": "letters", "why": "ctx: Malachi (the same OCR slip as 'Mai. iii. 16', which the image shows as 'Mal.')"}
+{"file": "part-3.typ", "old": "right hand of the throne of God. Phil. ii. 8, 9.", "new": "right hand of the throne of God. Phil. ii. 8, 9.", "class": "note", "kind": "quote", "why": "img p573: Heb. xii. 2 quotation left open by the printer"}
+{"file": "part-3.typ", "old": "of tender mercy. There we see", "new": "of tender mercy. There we see", "class": "note", "kind": "quote", "why": "img p575: James v. 11 quotation left open by the printer"}
+{"file": "part-3.typ", "old": "and God in him. He has the bowels", "new": "and God in him. He has the bowels", "class": "note", "kind": "quote", "why": "img p572: 1 John iv. 16 quotation left open by the printer"}
+{"file": "part-2.typ", "old": "Exod. xv. 19, 20.", "new": "Exod. xv. 9, 10.", "class": "ask", "kind": "reference", "why": "img p546 prints 'xv. 19, 20'; 1811 'Exod. xv. 9, 10'. Both fit Pharaoh's ruin (v. 19 the horses go into the sea; v. 20 is Miriam's timbrel, which fits less well)"}
+{"file": "part-3.typ", "old": "bring us, down,", "new": "bring us down,", "class": "ask", "kind": "punctuation", "why": "img p561 prints the stray comma 'us, down'"}
