@@ -106,6 +106,12 @@ change, a colophon release that rewrites the TEI included, holds the book
 back until it is signed off again (the `releases` workflow warns on such a
 PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
 
+Day to day, `./release [BOOK ...]` at the root does all of it: signs off
+each BOOK not yet signed off (and pushes its tag), runs `make`, and after a
+yes pushes `stable` and the signed release tag, makes the GitHub release and
+commits `books/revisions.json` on `main`. A book's `RELEASE.toml` comes
+first (`./fgb release record BOOK`, filled in, merged). The steps by hand:
+
 ```sh
 ./fgb release                 # done / held back / not signed off, per book
 ./fgb release sign simon      # the editor: gates, then the signed tag
