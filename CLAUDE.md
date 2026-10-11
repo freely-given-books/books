@@ -35,6 +35,18 @@ and any other witness (an EEBO-TCP first edition, kept untouched as
 `colophon/drift.py` into `source/witness-report.md`, instead of folding
 the old copy in as the review.
 
+**Modern witnesses: Monergism and sermonindex.net.** Look on both for every
+new book; they are witnesses only, never the text. Kept beside the sources as
+`source/*.monergism.*` and `source/*.sermonindex.htm`, git-ignored.
+Monergism's pages are behind Cloudflare: read a page through
+`https://web.archive.org/web/2024/<page>` and fetch its files through
+`https://web.archive.org/web/2025id_/<file url>`. sermonindex.net lists books
+at `/books/letter-<x>/` by title (a book can have several copies there); a
+book's chapters are `/books/<slug>/<N>`, the text in
+`#book-reader-content`. Many of its copies mirror CCEL or Monergism
+(including W. H. Gross's modernizations), so measure each against the base
+before counting it as a separate witness; say in `SOURCES.md` which is which.
+
 ## Commands
 
 Day to day, use `./fgb` at the repo root: it works from any folder, keeps

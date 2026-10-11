@@ -7,6 +7,9 @@ Puritan Paperbacks #5. Not started.
 - **No TCP text** (1737 is after EEBO; not in ECCO-TCP either). Early witness from scans.
 - **Monergism:** `crook.monergism.epub` (original text, © 2011) and `crook-2021.monergism.epub`
   (2021 reformatted copy); git-ignored, witness only.
+- **sermonindex.net:** `crook.sermonindex.htm` (/books/the-crook-in-the-lot/; the CCEL text) and
+  `crook-monergism-text.sermonindex.htm` (/books/32-crook-in-the-lot-thomas-boston/; close to Monergism's
+  2021 copy). Neither is a separate witness. Git-ignored.
 - **Scans (archive.org):** 1782 `bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782`
   (earliest found; look for a 1737 Edinburgh first edition elsewhere), 1791 `crookinlotorsove`,
   1811 `crookinlotorsove01bost`.

@@ -75,6 +75,13 @@ mkdir -p $B/source && cp /tmp/<ID>/<ID>.xml $B/source/<ID>.tcp.xml
 $PY colophon/tcp_structure.py $B/source/<ID>.tcp.xml
 ```
 
+Gather the witnesses at the same time: the TCP first edition when CCEL is the
+base (`<ID>.witness.xml`), and modern copies from **Monergism** and
+**sermonindex.net** (`*.monergism.*`, `*.sermonindex.htm`, git-ignored). The
+books repository's `CLAUDE.md` ("Modern witnesses") says how to reach both
+and how to tell a real witness from a mirror of CCEL or Monergism. List them
+all in `source/SOURCES.md`.
+
 **Check the structure before going further.** Without further setup the
 scripts handle `div[@type="dedication"]` and `div[@type="chapter"]` with an
 `@n` (one file each: `dedication.typ`, `chapter-NN.typ`), which fits

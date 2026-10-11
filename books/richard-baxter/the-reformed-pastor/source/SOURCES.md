@@ -15,6 +15,9 @@ must say the book is shortened from Baxter's original of 1656, and by whom.
   language corrections are his edition, not slips.
 - **Monergism:** `reformed-pastor.monergism.epub`, the Brown text again (2011); git-ignored,
   witness only.
+- **sermonindex.net:** `pastor.sermonindex.htm` (/books/the-reformed-pastor/; Brown's text as on CCEL)
+  and `pastor-gross.sermonindex.htm` (/books/48-reformed-pastor-richard-baxter-modern/; W. H. Gross's
+  2007 modernization of Brown, "addended", ~110,000 words). Git-ignored.
 - **Scans (archive.org):** 1656 `gildassalvianusf00baxt` and
   `bim_early-english-books-1641-1700_gildas-salvianus-_baxter-richard_1656`; 1657 second edition
   `bim_early-english-books-1641-1700_gildas-salvianus-_baxter-richard_1657`. A scan of Brown's
