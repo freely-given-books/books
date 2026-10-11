@@ -19,7 +19,7 @@ open), **next**, **queued** (sources gathered in
 | 2  | The Lord's Supper | Thomas Watson | | |
 | 3  | Heaven Taken By Storm: Or, The Christian Soldier | Thomas Watson | | |
 | 4  | Glorious Freedom | Richard Sibbes | | renamed (*The Excellency of the Gospel above the Law*) |
-| 5  | The Crook in the Lot | Thomas Boston | **queued** | CCEL; no TCP (1737); scans 1782+ |
+| 5  | The Crook in the Lot | Thomas Boston | **in review** | transcribed from M'Millan's Whole Works (1848) scans; CCEL a modernized witness |
 | 6  | Letters of Samuel Rutherford: A Selection | Samuel Rutherford | | a selection |
 | 7  | Gospel Ministry | John Owen | | Banner compilation |
 | 8  | Gospel Life | John Owen | | Banner compilation |

@@ -141,6 +141,16 @@
     rule:     rgb("#4A5866"),
     subtitle: rgb("#2A2A2A"),
   ),
+  // Thomas Boston, The Crook in the Lot.  Heather, for the Ettrick hills:
+  // a cool violet panel, bluer than Perkins's mauve so the two do not read
+  // as one hue, on a pale grey-lilac ground apart from the creams.
+  heather: (
+    ground:   rgb("#EEECF1"),
+    panel:    rgb("#9A8FB8"),
+    ink:      rgb("#261F36"),
+    rule:     rgb("#5C4F7A"),
+    subtitle: rgb("#2A2A2A"),
+  ),
 )
 
 #let spine-width(pages, paper: "cream-60") = pages * CALIPER.at(paper) * 1in
