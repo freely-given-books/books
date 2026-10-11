@@ -1,0 +1,17 @@
+# Release record of All of Grace: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, charles-spurgeon/all-of-grace/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = ""
+
+[[source]]
+file = "source/grace.thml.xml"
+description = "Charles Spurgeon book on gospel truths"
+url = ""
+sha256 = "7980c795972bb279338a67325ccb4abfe6df7b9bf29cb77504b993cfeb52713c"
+
+# Copies the edition was checked against, kept or not (one per witness):
+# [[witness]]
+# description = ""
+# url = ""
