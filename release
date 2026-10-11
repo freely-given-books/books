@@ -42,7 +42,13 @@ dir="dist/release/$name"
 
 echo
 read -r -p "Publish release $name (push stable, sign and push tag $name, GitHub release)? [y/N] " ok
-[ "$ok" = y ] || [ "$ok" = Y ] || { echo "not published; $dir and the local stable branch are kept"; exit 0; }
+if [ "$ok" != y ] && [ "$ok" != Y ]; then
+    # undo make's local changes; the built files stay in $dir to look at
+    git checkout -q books/revisions.json
+    git branch -q -f stable origin/stable
+    echo "not published (the built files are in $dir)"
+    exit 0
+fi
 
 git push origin stable
 git tag -s "$name" stable -m "Release $name"
