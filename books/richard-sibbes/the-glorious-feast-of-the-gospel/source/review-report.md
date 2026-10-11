@@ -10,7 +10,7 @@
 | punctuation | 2279 |
 | case | 1760 |
 | spelling | 1688 |
-| emendation | 812 |
+| emendation | 813 |
 | italic | 583 |
 | note | 385 |
 | spacing | 193 |
@@ -176,6 +176,7 @@
 - [chapter1.typ] ; it → , Psalm 125:1. It
 - [chapter1.typ] Again → Obs. 2. Again
 - [chapter1.typ] 1 → Firstly
+- [chapter1.typ] the → an
 - [chapter1.typ] fear → fear;' for
 - [chapter1.typ] for → 
 - [chapter1.typ] also → also,' Romans 11:20, 21
