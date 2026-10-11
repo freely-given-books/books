@@ -3,15 +3,15 @@
 # off with a signed tag, charles-spurgeon/all-of-grace/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = ""
+summary = "Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed."
 
 [[source]]
 file = "source/grace.thml.xml"
-description = "Charles Spurgeon book on gospel truths"
-url = ""
+description = "CCEL ThML: C. H. Spurgeon, All of Grace (1886)"
+url = "https://www.ccel.org/ccel/s/spurgeon/grace.xml"
 sha256 = "7980c795972bb279338a67325ccb4abfe6df7b9bf29cb77504b993cfeb52713c"
 
 # Copies the edition was checked against, kept or not (one per witness):
-# [[witness]]
-# description = ""
-# url = ""
+[[witness]]
+description = "Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md"
+url = "https://www.monergism.com/"
