@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>mort</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file mort.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-10" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (mort.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><docTitle><titlePart type="main" xml:id="ccel-i.i-p1"><seg>Of the</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>mortification of sin
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>mort</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of the Mortification of Sin in Believers</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file mort.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (mort.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><docTitle><titlePart type="main" xml:id="ccel-i.i-p1"><seg>Of the</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>mortification of sin
 in believers;</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p3"><seg>the necessity, nature,
 and means of it:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p4"><seg>with</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p5"><seg>a resolution of sundry
 cases of conscience thereunto belonging.</seg></titlePart></docTitle><byline><seg xml:id="ccel-i.i-p6"><seg>By John Owen,
@@ -8,7 +8,7 @@ Christ in the work of the gospel.</seg></seg></byline></titlePage></front><body>
 <pb n="2" xml:id="ccel-i.ii-Page_2"/>
 <head xml:id="ccel-i.ii-p0.1">Prefatory note.</head>
 
-<p xml:id="ccel-i.ii-p1"><seg>It</seg> sheds
+<p xml:id="ccel-i.ii-p1"><seg rend="smallcaps">It</seg> sheds
 interesting light on the character and resources of <seg>Owen</seg>, if the circumstances in which the following treatise was
 composed are borne in mind. It was published in 1656, and its author was at
 the time Dean of Christ Church and Vice-Chancellor of the University of
@@ -71,15 +71,15 @@ estimate of its value indicated by the number of the early editions, is
 confirmed by the circumstance, that it has since obtained the especial
 recommendation of Mr. <seg>Wilberforce</seg>. (See
 his “<seg>Practical View</seg>,” etc.
-p. 392.) — <seg>Ed</seg>.</p>
+p. 392.) — <seg rend="smallcaps">Ed</seg>.</p>
 </div><div type="chapter" n="2" xml:id="ccel-i.iii">
 <pb n="3" xml:id="ccel-i.iii-Page_3"/>
 <head xml:id="ccel-i.iii-p0.1">Preface.</head>
 
-<p xml:id="ccel-i.iii-p1"><seg>Christian
+<p xml:id="ccel-i.iii-p1"><seg rend="smallcaps">Christian
 Reader</seg>,</p>
 
-<p xml:id="ccel-i.iii-p2"><seg>I shall</seg> in a
+<p xml:id="ccel-i.iii-p2"><seg rend="smallcaps">I shall</seg> in a
 few words acquaint thee with the reasons that obtained my consent to the
 publishing of the ensuing discourse. The consideration of the present state
 and condition of the generality of professors, the visible evidences of the
@@ -138,7 +138,7 @@ account I shall give) may in any thing be useful to the least of the
 saints, it will be looked on as a return of the weak prayers wherewith it
 is attended by its unworthy author,</p>
 
-<p xml:id="ccel-i.iii-p5"><seg>John Owen</seg>.</p>
+<p xml:id="ccel-i.iii-p5"><seg rend="smallcaps">John Owen</seg>.</p>
 </div><div type="chapter" n="3" xml:id="ccel-i.iv">
 <pb n="5" xml:id="ccel-i.iv-Page_5"/>
 <head xml:id="ccel-i.iv-p0.1">Chapter I.</head>
@@ -149,7 +149,7 @@ cause of it — What meant by “the body” in the words of the apostle — Wha
 by “the deeds of the body” — Life, in what sense promised to this
 duty.</p></argument>
 
-<p xml:id="ccel-i.iv-p1"><seg>That</seg> what I
+<p xml:id="ccel-i.iv-p1"><seg rend="smallcaps">That</seg> what I
 have of direction to contribute to the carrying on of the work of
 mortification in believers may receive order and perspicuity, I shall lay
 the foundation of it in those words of the apostle, <ref type="scripture" cRef="Rom.8.13">Rom. viii.
@@ -252,7 +252,7 @@ Spirit of God, that “dwells in us,” <ref type="scripture">verse 9</ref>, tha
 “quickens us,” <ref type="scripture">verse 11</ref>; “the Holy Ghost,” <ref type="scripture">verse
 14</ref>;<note place="foot" n="2" xml:id="ccel-i.iv-p16.6">There
 seems to be an oversight here, as the expression “Holy Ghost” does not
-occur in the verse cited. — <seg>Ed</seg>.</note> the “Spirit of
+occur in the verse cited. — <seg rend="smallcaps">Ed</seg>.</note> the “Spirit of
 adoption,” <ref type="scripture">verse 15</ref>; the Spirit “that maketh
 intercession for us,” <ref type="scripture">verse 26</ref>. All other ways of mortification
 are vain, all helps leave us helpless; it must be done by the Spirit. Men,
@@ -375,7 +375,7 @@ neglect of mortification, <ref type="scripture" cRef="Rev.3.2">Rev. iii. 2</ref>
 principle of the whole discourse hence confirmed — Want of this duty
 lamented.</p></argument>
 
-<p xml:id="ccel-i.v-p1"><seg>Having</seg> laid
+<p xml:id="ccel-i.v-p1"><seg rend="smallcaps">Having</seg> laid
 this foundation, a brief confirmation of the fore-mentioned principal
 deductions will lead me to what I chiefly intend, —</p>
 
@@ -698,7 +698,7 @@ How the Spirit mortifies sin — <ref type="scripture" cRef="Gal.5.19-Gal.5.23">
 19–23</ref> — The several ways of his operation to this end proposed —
 How his work and our duty.</p></argument>
 
-<p xml:id="ccel-i.vi-p1"><seg>The</seg> next
+<p xml:id="ccel-i.vi-p1"><seg rend="smallcaps">The</seg> next
 principle relates to the great sovereign cause of the mortification treated
 of; which, in the words laid for the foundation of this discourse, is said
 to be the Spirit, — that is, the Holy Ghost, as was evinced.</p>
@@ -919,7 +919,7 @@ any unmortified lust; it weakens the soul, <ref type="scripture" cRef="Ps.38.3 B
 ways, and darkens it — All graces improved by the mortification of sin —
 The best evidence of sincerity.</p></argument>
 
-<p xml:id="ccel-i.vii-p1"><seg>The</seg> last
+<p xml:id="ccel-i.vii-p1"><seg rend="smallcaps">The</seg> last
 principle I shall insist on (omitting, first, the necessity of
 mortification unto life, and, secondly, the certainty of life upon
 mortification) is, —</p>
@@ -1076,7 +1076,7 @@ the diversion of it — Not an occasional conquest — Occasional conquests of
 sin, what and when; upon the eruption of sin; in time of danger or
 trouble.</p></argument>
 
-<p xml:id="ccel-i.viii-p1"><seg>These</seg> things
+<p xml:id="ccel-i.viii-p1"><seg rend="smallcaps">These</seg> things
 being premised, I come to my principal intention, of handling some
 questions or practical cases that present themselves in this business of
 mortification of sin in believers.</p>
@@ -1111,7 +1111,9 @@ in the whole carrying on this consideration, that it is not of the doctrine
 of mortification in general, but only in reference to the particular case
 before proposed, that I am treating.</p>
 
-<p xml:id="ccel-i.viii-p8">I. 1. (1.) To mortify a sin is not utterly to <hi rend="italic">kill</hi>,
+<label type="head" n="3" ana="#edition-only" change="#review">I. What It Is to Mortify a Sin</label>
+<label type="head" n="4" ana="#edition-only" change="#review">1. Negatively: What It Is Not</label>
+<p xml:id="ccel-i.viii-p8"><choice><orig>I. 1.</orig><reg resp="#editor" type="emendation"></reg></choice> (1.) To mortify a sin is not utterly to <hi rend="italic">kill</hi>,
 root it out, and <pb n="25" xml:id="ccel-i.viii-Page_25"/>destroy it, that it should have no more hold
 at all nor residence in our hearts. It is true this is that which is aimed
 at; but this is not in this life to be accomplished. There is no man that
@@ -1257,11 +1259,12 @@ persons and times — Constant fighting against sin — The parts thereof
 considered — Success against it — The sum of this discourse
 considered.</p></argument>
 
-<p xml:id="ccel-i.ix-p1"><seg>What</seg> it is to
+<label type="head" n="4" ana="#edition-only" change="#review">2. Positively: What It Is</label>
+<p xml:id="ccel-i.ix-p1"><seg rend="smallcaps">What</seg> it is to
 mortify a sin in general, which will make farther way for particular
 directions, is nextly to be considered.</p>
 
-<p xml:id="ccel-i.ix-p2">2. The mortification of a lust consists in three
+<p xml:id="ccel-i.ix-p2"><choice><orig>2.</orig><reg resp="#editor" type="emendation"></reg></choice> The mortification of a lust consists in three
 things:—</p>
 
 <p xml:id="ccel-i.ix-p3">(1.) An <hi rend="italic">habitual</hi> weakening of it. Every lust is a
@@ -1482,12 +1485,14 @@ which are graces of the Spirit, or the same habitual grace variously acting
 itself by the Holy Ghost, according to the variety or diversity of the
 objects about which it is exercised; as the other are several lusts, or the
 same natural corruption variously acting itself, according to the various
-advantages and occasions that it meets withal. — The <hi rend="italic">promptness,
+advantages and occasions that it meets withal. </p>
+<p><choice><orig>—</orig><reg resp="#editor" type="punctuation"></reg></choice> The <hi rend="italic">promptness,
 alacrity, vigour</hi> of the Spirit, or new man, in contending with,
 cheerful fighting against, the lust spoken of, by all the ways and with all
 the means that are appointed thereunto, constantly using the succours
 provided against its motions and actings, is a second thing hereunto
-required. — Success unto <hi rend="italic">several degrees</hi> attends these two. Now
+required. </p>
+<p><choice><orig>—</orig><reg resp="#editor" type="punctuation"></reg></choice> Success unto <hi rend="italic">several degrees</hi> attends these two. Now
 this, if the distemper hath not an unconquerable advantage from its natural
 situation, may possibly be to <pb n="33" xml:id="ccel-i.ix-Page_33"/>such a <hi rend="italic">universal</hi> conquest
 as the soul may never more sensibly feel its opposition, and shall,
@@ -1501,7 +1506,8 @@ mortification of sin by unregenerate persons — The duty of unconverted
 persons as to this business of mortification considered — The vanity of the
 Papists’ attempts and rules for mortification thence discovered.</p></argument>
 
-<p xml:id="ccel-i.x-p1">II. <seg>The</seg>
+<label type="head" n="3" ana="#edition-only" change="#review">II. General Rules</label>
+<p xml:id="ccel-i.x-p1"><choice><orig>II.</orig><reg resp="#editor" type="emendation"></reg></choice> <seg rend="smallcaps">The</seg>
 <hi rend="italic">ways </hi>and <hi rend="italic">means</hi> whereby a soul may proceed to the
 mortification of any particular lust and sin, which Satan takes advantage
 by to disquiet and weaken him, come next under consideration.</p>
@@ -1514,7 +1520,8 @@ for the mortification of any sin, can attain thereunto.</p>
 <p xml:id="ccel-i.x-p3">General rules and principles, without which no sin will be
 ever mortified, are these:—</p>
 
-<p xml:id="ccel-i.x-p4">1. <hi rend="italic">Unless a man be a believer, — that is, one that is
+<label type="head" n="4" ana="#edition-only" change="#review">First Rule: Only a Believer Can Mortify Sin</label>
+<p xml:id="ccel-i.x-p4"><choice><orig>1.</orig><reg resp="#editor" type="emendation"></reg></choice> <hi rend="italic">Unless a man be a believer, — that is, one that is
 truly </hi>ingrafted into Christ<hi rend="italic">, — he can never mortify any one sin</hi>;
 I do not say, unless he know himself to be so, but unless indeed he be
 so.</p>
@@ -1598,7 +1605,7 @@ gives us the sad issue of wicked men’s utmost attempts for mortification,
 by what means soever that God affords them: <ref type="scripture" cRef="Jer.6.29-Jer.6.30">Jer. vi. 29,
 30</ref>, “The bellows are burned, and the lead is consumed of the
 fire; the founder melteth in vain. Reprobate silver shall men call them,
-because the <seg>Lord</seg> hath rejected
+because the <seg rend="smallcaps">Lord</seg> hath rejected
 them.” And what is the reason hereof? <ref type="scripture">Verse 28</ref>, They
 were “brass and iron” when they were put into the furnace. Men may refine
 brass and iron long enough before they will be good silver.</p>
@@ -1838,7 +1845,8 @@ for the mortifying of every lust, no lust will be mortified — Partial
 mortification always from a corrupt principle — Perplexity of temptation
 from a lust oftentimes a chastening for other negligences.</p></argument>
 
-<p xml:id="ccel-i.xi-p1">2. <seg>The</seg> second
+<label type="head" n="4" ana="#edition-only" change="#review">Second Rule: Sincerity in a Universal Obedience</label>
+<p xml:id="ccel-i.xi-p1"><choice><orig>2.</orig><reg resp="#editor" type="emendation"></reg></choice> <seg rend="smallcaps">The</seg> second
 principle which to this purpose I shall propose is this:—</p>
 
 <p xml:id="ccel-i.xi-p2"><hi rend="italic">Without sincerity and diligence in a universality of
@@ -1971,7 +1979,7 @@ frame of spirit for its accomplishment.</p>
 </div><div type="chapter" n="11" xml:id="ccel-i.xii">
 <head xml:id="ccel-i.xii-p0.1">Chapter IX.</head>
 <argument xml:id="ccel-i.xii-p0.2"><p rend="inset">Particular directions in relation to the foregoing case proposed
-— <seg>First</seg>. Consider the
+— <seg rend="smallcaps">First</seg>. Consider the
 dangerous symptoms of any lust — 1. Inveterateness — 2. Peace obtained
 under it; the several ways whereby that is done — 3. Frequency of success
 in its seductions — 4. The soul’s fighting against it with arguments only
@@ -1979,14 +1987,16 @@ taken from the event — 5. Its being attended with judiciary hardness — 6.
 Its withstanding particular dealings from God — The state of persons in
 whom these things are found.</p></argument>
 
-<p xml:id="ccel-i.xii-p1">III. <seg>The</seg>
+<label type="head" n="3" ana="#edition-only" change="#review">III. Particular Directions</label>
+<p xml:id="ccel-i.xii-p1"><choice><orig>III.</orig><reg resp="#editor" type="emendation"></reg></choice> <seg rend="smallcaps">The</seg>
 foregoing <hi rend="italic">general rules</hi> being supposed, <hi rend="italic">particular directions</hi>
 to the soul for its guidance under the sense of a disquieting lust or
 distemper, being the main thing I aim at, come next to be proposed. Now, of
 these some are previous and preparatory, and in some of them the work
 itself is contained. Of the <hi rend="italic">first sort</hi> are these ensuing:—</p>
 
-<p xml:id="ccel-i.xii-p2"><seg>First</seg>.
+<label type="head" n="4" ana="#edition-only" change="#review">First Direction: Consider the Dangerous Symptoms of the Lust</label>
+<p xml:id="ccel-i.xii-p2"><seg rend="smallcaps">First</seg>.
 Consider what dangerous <hi rend="italic">symptoms</hi> thy lust hath attending or
 accompanying it, — whether it hath any deadly mark on it or no; if it hath,
 <hi rend="italic">extraordinary</hi> remedies are to be used; an ordinary course of
@@ -2154,7 +2164,7 @@ God, the detestable nature of sin, the preciousness of communion with God,
 a deep-grounded abhorrency of sin <hi rend="italic">as sin</hi>, to oppose to any seduction
 of sin, to all the workings, strivings, fightings of lust in their hearts.
 So did Joseph. “How shall I do this great evil,” saith he, “and sin against
-the <seg>Lord</seg>?” my good and
+the <seg rend="smallcaps">Lord</seg>?” my good and
 gracious God.<note place="foot" n="13" xml:id="ccel-i.xii-p18.2"><ref type="scripture" cRef="Gen.39.9"><choice><orig>Gen</orig><reg resp="#editor" type="spelling">Gen.</reg></choice> xxxix. <choice><orig>9</orig><reg resp="#editor" type="spelling">9.</reg></choice></ref></note> And Paul, “The
 love of Christ constraineth us;”<note place="foot" n="14" xml:id="ccel-i.xii-p19.2"><ref type="scripture" cRef="2Cor.5.14">2 Cor. v. 14</ref>.</note> and, “Having
 received these promises, let us cleanse ourselves from all pollution of the
@@ -2293,7 +2303,7 @@ that any man is so, he must look for other evidences if he will have
 peace.</p>
 </div><div type="chapter" n="12" xml:id="ccel-i.xiii">
 <head xml:id="ccel-i.xiii-p0.1">Chapter X.</head>
-<argument xml:id="ccel-i.xiii-p0.2"><p rend="inset">The <seg>second</seg>
+<argument xml:id="ccel-i.xiii-p0.2"><p rend="inset">The <seg rend="smallcaps">second</seg>
 particular direction: Get a clear sense of, — 1. The guilt of the sin
 perplexing — Considerations for help therein proposed — 2. The danger
 manifold — (1.) Hardening — (2.) Temporal correction — (3.) Loss of peace
@@ -2302,7 +2312,8 @@ consideration — 3. The evil of it — (1.) In grieving the Spirit — (2.)
 Wounding the new creature — [(3.) Taking away a man’s
 usefulness.]</p></argument>
 
-<p xml:id="ccel-i.xiii-p1"><seg>The second</seg>
+<label type="head" n="4" ana="#edition-only" change="#review">Second Direction: A Clear Sense of the Guilt, Danger, and Evil of the Sin</label>
+<p xml:id="ccel-i.xiii-p1"><seg rend="smallcaps">The second</seg>
 direction is this: <hi rend="italic">Get a clear and abiding sense upon thy mind and
 conscience of the guilt, danger, and evil</hi> of that sin wherewith thou
 art perplexed:—</p>
@@ -2579,17 +2590,18 @@ begin to have a powerful influence upon thy soul, — until they make it to
 tremble.</p>
 </div><div type="chapter" n="13" xml:id="ccel-i.xiv">
 <head xml:id="ccel-i.xiv-p0.1">Chapter XI.</head>
-<argument xml:id="ccel-i.xiv-p0.2"><p rend="inset">The <seg>third</seg> direction
+<argument xml:id="ccel-i.xiv-p0.2"><p rend="inset">The <seg rend="smallcaps">third</seg> direction
 proposed: Load thy conscience with the guilt of the perplexing distemper —
-The ways and means whereby that may be done — The <seg>fourth</seg> direction: Vehement desire
-for deliverance — The <seg>fifth</seg>:
+The ways and means whereby that may be done — The <seg rend="smallcaps">fourth</seg> direction: Vehement desire
+for deliverance — The <seg rend="smallcaps">fifth</seg>:
 Some distempers rooted deeply in men’s natural tempers — Considerations of
-such distempers; ways of dealing with them — The <seg>sixth</seg> direction: Occasions and
-advantages of sin to be prevented — The <seg>seventh</seg> direction: The first actings
+such distempers; ways of dealing with them — The <seg rend="smallcaps">sixth</seg> direction: Occasions and
+advantages of sin to be prevented — The <seg rend="smallcaps">seventh</seg> direction: The first actings
 of sin vigorously to be opposed.</p></argument>
 
-<p xml:id="ccel-i.xiv-p1"><seg>This</seg> is my
-<seg>third</seg> direction, —</p>
+<label type="head" n="4" ana="#edition-only" change="#review">Third Direction: Load the Conscience with Its Guilt</label>
+<p xml:id="ccel-i.xiv-p1"><seg rend="smallcaps">This</seg> is my
+<seg rend="smallcaps">third</seg> direction, —</p>
 
 <p xml:id="ccel-i.xiv-p2"><hi rend="italic">Load thy conscience with the guilt of it.</hi> Not only
 consider that it hath a guilt, but load thy conscience with the guilt of
@@ -2726,7 +2738,8 @@ endeavours are to no purpose. Whilst the conscience hath any means to
 alleviate the guilt of sin, the soul will never vigorously attempt its
 mortification.</p>
 
-<p xml:id="ccel-i.xiv-p19"><seg>Fourthly</seg>.
+<label type="head" n="4" ana="#edition-only" change="#review">Fourth Direction: A Constant Longing for Deliverance</label>
+<p xml:id="ccel-i.xiv-p19"><seg rend="smallcaps">Fourthly</seg>.
 Being thus affected with thy sin, in the next place get <hi rend="italic">a constant
 longing, breathing after deliverance from the power of it</hi>. Suffer not
 thy heart one moment to be contented with thy present frame and condition.
@@ -2759,7 +2772,8 @@ soul’s moving after the Lord.</p>
 long, sigh, cry out. You know the example of David; I shall not need to
 insist on it.</p>
 
-<p xml:id="ccel-i.xiv-p22">The <seg>fifth</seg>
+<label type="head" n="4" ana="#edition-only" change="#review">Fifth Direction: Consider Whether It Is Rooted in the Nature</label>
+<p xml:id="ccel-i.xiv-p22">The <seg rend="smallcaps">fifth</seg>
 direction is, —</p>
 
 <p xml:id="ccel-i.xiv-p23">Consider whether the distemper with which thou art
@@ -2833,7 +2847,8 @@ constitution, in applying our souls to a participation of the blood and
 Spirit of Christ, an endeavour is to be used to give check in the way of
 God to the natural root of that distemper.</p>
 
-<p xml:id="ccel-i.xiv-p31">The <seg>sixth</seg>
+<label type="head" n="4" ana="#edition-only" change="#review">Sixth Direction: Watch Against Its Occasions and Advantages</label>
+<p xml:id="ccel-i.xiv-p31">The <seg rend="smallcaps">sixth</seg>
 direction is, —</p>
 
 <p xml:id="ccel-i.xiv-p32">Consider what <hi rend="italic">occasions</hi>, what <hi rend="italic">advantages</hi> thy
@@ -2867,7 +2882,8 @@ to this head are many, not now to be insisted on. But because this head is
 of no less importance than the whole doctrine here handled, I have at large
 in another treatise, about entering into temptations, treated of it.</p>
 
-<p xml:id="ccel-i.xiv-p34">The <seg>seventh</seg>
+<label type="head" n="4" ana="#edition-only" change="#review">Seventh Direction: Rise Mightily Against Its First Actings</label>
+<p xml:id="ccel-i.xiv-p34">The <seg rend="smallcaps">seventh</seg>
 direction is, —</p>
 
 <p xml:id="ccel-i.xiv-p35">Rise mightily against <hi rend="italic">the first actings</hi> of thy
@@ -2889,11 +2905,12 @@ upon the understanding to slight it.</p>
 </div><div type="chapter" n="14" xml:id="ccel-i.xv">
 <pb n="63" xml:id="ccel-i.xv-Page_63"/>
 <head xml:id="ccel-i.xv-p0.1">Chapter XII.</head>
-<argument xml:id="ccel-i.xv-p0.2"><p rend="inset">The <seg>eighth</seg>
+<argument xml:id="ccel-i.xv-p0.2"><p rend="inset">The <seg rend="smallcaps">eighth</seg>
 direction: Thoughtfulness of the excellency of the majesty of God — Our
 unacquaintedness with him proposed and considered.</p></argument>
 
-<p xml:id="ccel-i.xv-p1"><seg>Eighthly</seg>, Use
+<label type="head" n="4" ana="#edition-only" change="#review">Eighth Direction: Meditations That Fill the Soul with Self-Abasement</label>
+<p xml:id="ccel-i.xv-p1"><seg rend="smallcaps">Eighthly</seg>, Use
 and exercise thyself to such meditations as may serve to fill thee at all
 times with <hi rend="italic">self-abasement</hi> and thoughts of thine own vileness; as,
 —</p>
@@ -3233,14 +3250,15 @@ know that your very nature is too narrow to bear apprehensions suitable to
 his essential glory.</p>
 </div><div type="chapter" n="15" xml:id="ccel-i.xvi">
 <head xml:id="ccel-i.xvi-p0.1">Chapter XIII.</head>
-<argument xml:id="ccel-i.xvi-p0.2"><p rend="inset">The <seg>ninth</seg> direction:
+<argument xml:id="ccel-i.xvi-p0.2"><p rend="inset">The <seg rend="smallcaps">ninth</seg> direction:
 When the heart is disquieted by sin, speak no peace to it until God speak
 it — Peace, without detestation of sin, unsound; so is peace measured out
 unto ourselves — How we may know when we measure our peace unto ourselves —
 Directions as to that inquiry — The vanity of speaking peace slightly; also
 of doing it on one singular account, not universally.</p></argument>
 
-<p xml:id="ccel-i.xvi-p1"><seg>Ninethly</seg>, In
+<label type="head" n="4" ana="#edition-only" change="#review">Ninth Direction: Speak No Peace Until God Speaks It</label>
+<p xml:id="ccel-i.xvi-p1"><seg rend="smallcaps"><choice><orig>Ninethly</orig><reg resp="#editor" type="spelling">Ninthly</reg></choice></seg>, In
 case God disquiet the heart about the guilt of its distempers, either in
 respect of its root and indwelling, or in respect of any eruptions of it,
 <hi rend="italic">take heed thou speakest not peace to thyself before God speaks it; but
@@ -3435,7 +3453,7 @@ account of relapses, — which, whatever the evil or folly be, though for the
 matter of it never so small, yet there are no wounds deeper than those that
 are given the soul on that account, nor disquietments greater; — in the
 perturbation of his mind, he finds out that promise, <ref type="scripture" cRef="Isa.55.7">Isa.
-lv. 7</ref>, “The <seg>Lord</seg>
+lv. 7</ref>, “The <seg rend="smallcaps">Lord</seg>
 will have mercy, and our God will abundantly pardon,” — he will multiply or
 add to pardon, he will do it again and again; or that in <ref type="scripture" cRef="Hos.14.4">Hos.
 xiv. 4</ref>, “I will heal their backsliding, I will love them
@@ -3480,7 +3498,7 @@ I am persuaded it was in the case of David, when he cut off the lap of
 Saul’s garment; but ordinarily, in such a case, God calls for<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="24" xml:id="ccel-i.xvi-p16.1"><ref type="scripture" cRef="Ps.130.6 Bible:Ps.123.2">Ps. cxxx. 6, cxxiii.
 2</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>waiting and labouring, attending as the eye of a
 servant upon his master. Says the prophet <ref type="scripture">Isaiah, chap.
-viii. 17</ref>, “I will wait upon the <seg>Lord</seg>, who hideth his face from the
+viii. 17</ref>, “I will wait upon the <seg rend="smallcaps">Lord</seg>, who hideth his face from the
 house of Jacob.” God will have his children lie a while at his door when
 they have run from his house, and not instantly rush in upon him; unless he
 take them by the hand and pluck them in, when they are so ashamed that they
@@ -3626,7 +3644,7 @@ expectations; on the part of Christ; on the part of believers — Faith
 peculiarly to be acted on the death of Christ, <ref type="scripture" cRef="Rom.6.3-Rom.6.6">Rom. vi.
 3–6</ref> — The work of the Spirit in this whole business.</p></argument>
 
-<p xml:id="ccel-i.xvii-p1"><seg>Now</seg>, the
+<p xml:id="ccel-i.xvii-p1"><seg rend="smallcaps">Now</seg>, the
 considerations which I have hitherto insisted on are rather of things
 <hi rend="italic">preparatory</hi> to the work aimed at than such as will <hi rend="italic">effect</hi> it.
 It is the heart’s due preparation for the work itself, without which it
@@ -3635,6 +3653,7 @@ will not be accomplished, that hitherto I have aimed at.</p>
 <p xml:id="ccel-i.xvii-p2"><pb n="79" xml:id="ccel-i.xvii-Page_79"/>Directions for the work itself are very few; I
 mean that are peculiar to it. And they are these that follow:—</p>
 
+<label type="head" n="4" ana="#edition-only" change="#review">The Work Itself: Act Faith on Christ</label>
 <p xml:id="ccel-i.xvii-p3">1. Set faith at work on Christ for the <hi rend="italic">killing</hi> of
 thy sin. His blood is the great sovereign remedy for sin-sick souls. Live
 in this, and thou wilt die a conqueror; yea, thou wilt, through the good
@@ -3681,14 +3700,14 @@ grace in his heart, all fulness of power in his hand, he is able to slay
 all these his enemies. There is sufficient provision in him for my relief
 and assistance. <pb n="80" xml:id="ccel-i.xvii-Page_80"/>He can take my drooping, dying soul and make me
 more than a conqueror.<note place="foot" n="33" xml:id="ccel-i.xvii-p8.3"><ref type="scripture" cRef="Rom.8.37">Rom. viii. 37</ref>.</note> ‘Why sayest
-thou, O my soul, My way is hid from the <seg>Lord</seg>, and my judgment is passed over
+thou, O my soul, My way is hid from the <seg rend="smallcaps">Lord</seg>, and my judgment is passed over
 from my God? Hast thou not known, hast thou not heard, that the everlasting
-God, the <seg>Lord</seg>, the Creator of
+God, the <seg rend="smallcaps">Lord</seg>, the Creator of
 the ends of the earth, fainteth not, neither is weary? there is no
 searching of his understanding. He giveth power to the faint; and to them
 that have no might he increaseth strength. Even the youths shall faint and
 be weary, and the young men shall utterly fall: but they that wait upon the
-<seg>Lord</seg> shall renew their
+<seg rend="smallcaps">Lord</seg> shall renew their
 strength; they shall mount up with wings as eagles; they shall run, and not
 be weary; they shall walk, and not faint,’ <ref type="scripture" cRef="Isa.40.27-Isa.40.31">Isa.
 xl. 27–31</ref>. He can make the ‘dry, parched ground of my soul to
@@ -3830,7 +3849,7 @@ countenanced by him who is to give the relief. Our Lord Jesus hath raised
 our hearts, by his kindness, care, and promises, to this expectation;
 certainly our rising up unto it must needs be a great engagement upon him
 to assist us accordingly. This the Psalmist gives us as an approved maxim,
-“Thou, <seg>Lord</seg>, never forsakest
+“Thou, <seg rend="smallcaps">Lord</seg>, never forsakest
 them that put their trust in thee.” When the heart is once won to rest in
 God, to repose himself on him, he will assuredly satisfy it. He will never
 be as water that fails; nor hath he said at any time to the seed of Jacob,
@@ -3938,6 +3957,7 @@ heart by faith; apply his blood so shed to thy corruptions: do this daily.
 I might draw out this consideration to a great length, in sundry
 particulars, but I must come to a close.</p>
 
+<label type="head" n="4" ana="#edition-only" change="#review">The Work of the Spirit</label>
 <p xml:id="ccel-i.xvii-p33">2. I have only, then, to add the heads of the work of the
 Spirit in this business of mortification, which is so peculiarly ascribed
 to him.</p>

@@ -14,6 +14,9 @@ import layout
 MODERNIZE = False
 TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
+# CCEL keeps Goold's small capitals (the directions' ordinals, LORD, chapter
+# openings); the fgbooks 0.6.0 font, Libertinus Serif, has real ones.
+SMALLCAPS = "smallcaps"
 
 # CCEL's title page and indexes are its own apparatus.
 SKIP_DIVISIONS = {"contents", "index", "titlePage"}
@@ -46,9 +49,15 @@ def SKIP_BLOCKS(root):
     return [_by_id(root)["ccel-i.ii"]]
 
 
+# The headings below each chapter title are this edition's own (Owen and
+# Goold have none): the three parts of chapter V's answer, the two general
+# rules and the nine directions, so a reader can see where he is in Owen's
+# outline. label[@type="head"] in the TEI, not printed text.
+EDITION_HEADINGS = True
+
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "The Mortification of Sin", "author": "John Owen",
         "file": "the-mortification-of-sin.epub", "front": "ebook-front.html",
-        "cover": "cover.typ",
+        "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-mortification-of-sin.typ"]

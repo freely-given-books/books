@@ -1,8 +1,10 @@
 == Chapter XI
 
-#block(inset: (x: 1em))[The third direction proposed: Load thy conscience with the guilt of the perplexing distemper — The ways and means whereby that may be done — The fourth direction: Vehement desire for deliverance — The fifth: Some distempers rooted deeply in men’s natural tempers — Considerations of such distempers; ways of dealing with them — The sixth direction: Occasions and advantages of sin to be prevented — The seventh direction: The first actings of sin vigorously to be opposed.]
+#block(inset: (x: 1em))[The #smallcaps[third] direction proposed: Load thy conscience with the guilt of the perplexing distemper — The ways and means whereby that may be done — The #smallcaps[fourth] direction: Vehement desire for deliverance — The #smallcaps[fifth]: Some distempers rooted deeply in men’s natural tempers — Considerations of such distempers; ways of dealing with them — The #smallcaps[sixth] direction: Occasions and advantages of sin to be prevented — The #smallcaps[seventh] direction: The first actings of sin vigorously to be opposed.]
 
-This is my third direction, —
+==== Third Direction: Load the Conscience with Its Guilt
+
+#smallcaps[This] is my #smallcaps[third] direction, —
 
 #emph[Load thy conscience with the guilt of it.] Not only consider that it hath a guilt, but load thy conscience with the guilt of its actual eruptions and disturbances.
 
@@ -38,13 +40,17 @@ Hast thou not found grace decaying; delight in duties, ordinances, prayer and me
 
 (3.) All God’s gracious dealings with thee, in providential dispensations, deliverances, afflictions, mercies, enjoyments, all ought here to take place. By these, I say, and the like means, load thy conscience; and leave it not until it be thoroughly affected with the guilt of thy indwelling corruption, until it is sensible of its wound, and lie in the dust before the Lord. Unless this be done to the purpose, all other endeavours are to no purpose. Whilst the conscience hath any means to alleviate the guilt of sin, the soul will never vigorously attempt its mortification.
 
-Fourthly. Being thus affected with thy sin, in the next place get #emph[a constant longing, breathing after deliverance from the power of it]. Suffer not thy heart one moment to be contented with thy present frame and condition. Longing desires after any thing, in things natural and civil, are of no value or consideration, any farther but as they incite and stir up the person in whom they are to a diligent use of means for the bringing about the thing aimed at. In spiritual things it is otherwise. Longing, breathing, and panting after deliverance is a grace in itself, that hath a mighty power to conform the soul into the likeness of the thing longed after. Hence the apostle, describing the repentance and godly sorrow of the Corinthians, reckons this as one eminent grace that was then set on work, “Vehement desire,” 2 Cor. vii. 11. And in this case of indwelling sin and the power of it, what frame doth he express himself to be in? Rom. vii. 24. His heart breaks out with longings into a most passionate expression of desire of deliverance. Now, if this be the frame of saints upon the general consideration of indwelling sin, how is it to be heightened and increased when thereunto is added the perplexing rage and power of any particular lust and corruption! Assure thyself, unless thou #emph[longest] for deliverance thou shalt not have it.
+==== Fourth Direction: A Constant Longing for Deliverance
+
+#smallcaps[Fourthly]. Being thus affected with thy sin, in the next place get #emph[a constant longing, breathing after deliverance from the power of it]. Suffer not thy heart one moment to be contented with thy present frame and condition. Longing desires after any thing, in things natural and civil, are of no value or consideration, any farther but as they incite and stir up the person in whom they are to a diligent use of means for the bringing about the thing aimed at. In spiritual things it is otherwise. Longing, breathing, and panting after deliverance is a grace in itself, that hath a mighty power to conform the soul into the likeness of the thing longed after. Hence the apostle, describing the repentance and godly sorrow of the Corinthians, reckons this as one eminent grace that was then set on work, “Vehement desire,” 2 Cor. vii. 11. And in this case of indwelling sin and the power of it, what frame doth he express himself to be in? Rom. vii. 24. His heart breaks out with longings into a most passionate expression of desire of deliverance. Now, if this be the frame of saints upon the general consideration of indwelling sin, how is it to be heightened and increased when thereunto is added the perplexing rage and power of any particular lust and corruption! Assure thyself, unless thou #emph[longest] for deliverance thou shalt not have it.
 
 This will make the heart watchful for all opportunities of advantage against its enemy, and ready to close with any assistances that are afforded for its destruction. Strong desires are the very life of that “praying always” which is enjoined us in all conditions, and in none is more necessary than in this; they set faith and hope on work, and are the soul’s moving after the Lord.
 
 Get thy heart, then, into a panting and breathing frame; long, sigh, cry out. You know the example of David; I shall not need to insist on it.
 
-The fifth direction is, —
+==== Fifth Direction: Consider Whether It Is Rooted in the Nature
+
+The #smallcaps[fifth] direction is, —
 
 Consider whether the distemper with which thou art perplexed be not rooted in thy #emph[nature], and cherished, fomented, and heightened from thy #emph[constitution]. A proneness to some sins may doubtless lie in the natural temper and disposition of men. In this case consider, —
 
@@ -60,12 +66,16 @@ Consider whether the distemper with which thou art perplexed be not rooted in th
 
 This is the sum of what hath been spoken: When the distemper complained of seems to be rooted in the natural temper and constitution, in applying our souls to a participation of the blood and Spirit of Christ, an endeavour is to be used to give check in the way of God to the natural root of that distemper.
 
-The sixth direction is, —
+==== Sixth Direction: Watch Against Its Occasions and Advantages
+
+The #smallcaps[sixth] direction is, —
 
 Consider what #emph[occasions], what #emph[advantages] thy distemper hath taken to exert and put forth itself, and watch against them all.
 
 This is one part of that duty which our blessed Saviour recommends to his disciples under the name of #emph[watching]: Mark xiii. 37, “I say unto you all, Watch;” which, in Luke xxi. 34, is, “Take heed lest your hearts be overcharged.” Watch against all eruptions of thy corruptions. I mean that duty which David professed himself to be exercised unto. “I have,” saith he, “kept myself from mine iniquity.” He watched all the ways and workings of his iniquity, to prevent them, to rise up against them. This is that which we are called unto under the name of “considering our ways.” Consider what ways, what companies, what opportunities, what studies, what businesses, what conditions, have at any time given, or do usually give, advantages to thy distempers, and set thyself heedfully against them all. Men will do this with respect unto their bodily infirmities and distempers. The seasons, the diet, the air that have proved offensive shall be avoided. Are the things of the soul of less importance? Know that he that dares to dally with occasions of sin will dare to sin. He that will venture upon temptations unto wickedness will venture upon wickedness. Hazael thought he should not be so wicked as the prophet told him he would be. To convince him, the prophet tells him no more but, “Thou shalt be king of Syria.” If he will venture on temptations unto cruelty, he will be cruel. Tell a man he shall commit such and such sins, he will startle at it. If you can convince him that he will venture on such occasions and temptations of them, he will have little ground left for his confidence. Particular directions belonging to this head are many, not now to be insisted on. But because this head is of no less importance than the whole doctrine here handled, I have at large in another treatise, about entering into temptations, treated of it.
 
-The seventh direction is, —
+==== Seventh Direction: Rise Mightily Against Its First Actings
+
+The #smallcaps[seventh] direction is, —
 
 Rise mightily against #emph[the first actings] of thy distemper, its first conceptions; suffer it not to get the least ground. Do not say, “Thus far it shall go, and no farther.” If it have allowance for one step, it will take another. It is impossible to fix bounds to sin. It is like water in a channel, — if it once break out, it will have its course. Its not acting is easier to be compassed than its bounding. Therefore doth James give that gradation and process of lust, chap. i. 14, 15, that we may stop at the entrance. Dost thou find thy corruption to begin to entangle thy thoughts? rise up with all thy strength against it, with no less indignation than if it had fully accomplished what it aims at. Consider what an unclean thought would have; it would have thee roll thyself in folly and filth. Ask #emph[envy] what it would have; — #emph[murder] and #emph[destruction] is at the end of it. Set thyself against it with no less vigour than if it had utterly debased thee to wickedness. Without this course thou wilt not prevail. As sin gets ground in the affections to delight in, it gets also upon the understanding to slight it.

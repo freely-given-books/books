@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[The second case proposed, or inquiries resolved—What are the best directions to prevent entering into temptation—Those directions laid down—The directions given by our Saviour: “Watch and pray”—What is included therein—(1.) Sense of the danger of temptation—(2.) That it is not in our power to keep ourselves—(3.) Faith in promises of preservation—Of prayer in particular.]
 
-2\. Having seen the danger of entering into temptation, and also discovered the ways and seasons whereby and wherein men usually do so, our second inquiry is, What general directions may be given to preserve a soul from that condition that hath been spoken of? And we see our Saviour’s direction in the place spoken of before, Matt. xxvi. 41. He sums up all in these two words, “Watch and pray.” I shall a little labour to unfold them, and show what is inwrapped and contained in them; and that both jointly and severally:—
+2\. #smallcaps[Having] seen the danger of entering into temptation, and also discovered the ways and seasons whereby and wherein men usually do so, our second inquiry is, What general directions may be given to preserve a soul from that condition that hath been spoken of? And we see our Saviour’s direction in the place spoken of before, Matt. xxvi. 41. He sums up all in these two words, “Watch and pray.” I shall a little labour to unfold them, and show what is inwrapped and contained in them; and that both jointly and severally:—
 
 (1.) There is included in them a clear, #emph[abiding apprehension of the great evil] that there is in entering into temptation. That which a man watches and prays against, he looks upon as evil to him, and by all means to be avoided.
 

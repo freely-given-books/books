@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[The last principle; of the usefulness of mortification — The vigour and comfort of our spiritual lives depend on our mortification — In what sense — Not absolutely and necessarily; Ps. lxxxviii., Heman’s condition — Not as on the next and immediate cause — As a means; by removing of the contrary — The desperate effects of any unmortified lust; it weakens the soul, Ps. xxxviii. 3, 8, sundry ways, and darkens it — All graces improved by the mortification of sin — The best evidence of sincerity.]
 
-The last principle I shall insist on (omitting, first, the necessity of mortification unto life, and, secondly, the certainty of life upon mortification) is, —
+#smallcaps[The] last principle I shall insist on (omitting, first, the necessity of mortification unto life, and, secondly, the certainty of life upon mortification) is, —
 
 III. #emph[That the life, vigour, and comfort of our spiritual life depend much on our mortification of sin.]
 

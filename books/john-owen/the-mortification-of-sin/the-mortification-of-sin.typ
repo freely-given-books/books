@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.5.5": *
+#import "@local/fgbooks:0.6.0": *
 
 #show: book.with(
   title: [The Mortification of Sin],

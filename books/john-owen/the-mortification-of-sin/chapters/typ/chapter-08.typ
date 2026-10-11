@@ -2,7 +2,9 @@
 
 #block(inset: (x: 1em))[The second general rule proposed — Without universal sincerity for the mortifying of every lust, no lust will be mortified — Partial mortification always from a corrupt principle — Perplexity of temptation from a lust oftentimes a chastening for other negligences.]
 
-2\. The second principle which to this purpose I shall propose is this:—
+==== Second Rule: Sincerity in a Universal Obedience
+
+#smallcaps[The] second principle which to this purpose I shall propose is this:—
 
 #emph[Without sincerity and diligence in a universality of obedience, there is no mortification of any one perplexing lust to be obtained.]
 

@@ -1,8 +1,10 @@
 == Chapter XII
 
-#block(inset: (x: 1em))[The eighth direction: Thoughtfulness of the excellency of the majesty of God — Our unacquaintedness with him proposed and considered.]
+#block(inset: (x: 1em))[The #smallcaps[eighth] direction: Thoughtfulness of the excellency of the majesty of God — Our unacquaintedness with him proposed and considered.]
 
-Eighthly, Use and exercise thyself to such meditations as may serve to fill thee at all times with #emph[self-abasement] and thoughts of thine own vileness; as, —
+==== Eighth Direction: Meditations That Fill the Soul with Self-Abasement
+
+#smallcaps[Eighthly], Use and exercise thyself to such meditations as may serve to fill thee at all times with #emph[self-abasement] and thoughts of thine own vileness; as, —
 
 1\. Be much in thoughtfulness of the #emph[excellency] of the majesty of God and thine infinite, inconceivable distance from him. Many thoughts of it cannot but fill thee with a sense of thine own vileness, which strikes deep at the root of any indwelling sin. When Job comes to a clear discovery of the greatness and the excellency of God, he is filled with self-abhorrence and is pressed to humiliation, Job xlii. 5, 6. And in what state doth the prophet Habakkuk affirm himself to be cast, upon the apprehension of the majesty of God? chap. iii. 16. “With God,” says Job, “is terrible majesty.”#footnote[Job xxxvii. 22.] Hence were the thoughts of them of old, that when they had seen God they should die. The Scripture abounds in this self-abasing consideration, comparing the men of the earth to “grasshoppers,” to “vanity,” the “dust of the balance,” in respect of God.#footnote[Isa. xl. 12–25.] Be much in thoughts of this nature, to abase the pride of thy heart, and to keep thy soul humble within thee. There is nothing will render thee a greater indisposition to be imposed on by the deceits of sin than such a frame of heart. Think greatly of the greatness of God.
 

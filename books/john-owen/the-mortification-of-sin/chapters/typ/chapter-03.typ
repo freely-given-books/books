@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[The second general principle of the means of mortification proposed to confirmation — The Spirit the only author of this work — Vanity of popish mortification discovered — Many means of it used by them not appointed of God — Those appointed by him abused — The mistakes of others in this business — The Spirit is promised believers for this work, Ezek. xi. 19, xxxvi. 26 — All that we receive from Christ is by the Spirit — How the Spirit mortifies sin — Gal. v. 19–23 — The several ways of his operation to this end proposed — How his work and our duty.]
 
-The next principle relates to the great sovereign cause of the mortification treated of; which, in the words laid for the foundation of this discourse, is said to be the Spirit, — that is, the Holy Ghost, as was evinced.
+#smallcaps[The] next principle relates to the great sovereign cause of the mortification treated of; which, in the words laid for the foundation of this discourse, is said to be the Spirit, — that is, the Holy Ghost, as was evinced.
 
 II. #emph[He only is sufficient for this work; all ways and means without him are as a thing of nought; and he is the great efficient of it, — he works in us as he pleases.]
 

@@ -52,6 +52,12 @@ p.signature-first {
   margin-top: 1em;
 }
 
+/* small capitals in the source (TEI seg[@rend="smallcaps"], SMALLCAPS =
+   "smallcaps"): Owen's "Fourthly", LORD */
+span.smallcaps {
+  font-variant: small-caps;
+}
+
 /* a paragraph centered in the source (TEI p[@rend="center"]) */
 p.center {
   text-indent: 0;

@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[The principal assertion concerning the necessity of mortification proposed to confirmation — Mortification the duty of the best believers, Col. iii. 5; 1 Cor. ix. 27 — Indwelling sin always abides; no perfection in this life, Phil. iii. 12; 1 Cor. xiii. 12; 2 Pet. iii. 18; Gal. v. 17, etc. — The activity of abiding sin in believers, Rom. vii. 23; James iv. 5; Heb. xii. 1 — Its fruitfulness and tendency — Every lust aims at the height in its kind — The Spirit and new nature given to contend against indwelling sin, Gal. v. 17; 2 Pet. i. 4, 5; Rom. vii. 23 — The fearful issue of the neglect of mortification, Rev. iii. 2; Heb. iii. 13 — The first general principle of the whole discourse hence confirmed — Want of this duty lamented.]
 
-Having laid this foundation, a brief confirmation of the fore-mentioned principal deductions will lead me to what I chiefly intend, —
+#smallcaps[Having] laid this foundation, a brief confirmation of the fore-mentioned principal deductions will lead me to what I chiefly intend, —
 
 I. #emph[That the choicest believers, who are assuredly freed from the condemning power of sin, ought yet to make it their business all their days to mortify the indwelling power of sin.]
 
