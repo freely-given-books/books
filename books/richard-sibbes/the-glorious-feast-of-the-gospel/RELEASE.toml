@@ -1,0 +1,21 @@
+# Release record of The Glorious Feast of the Gospel: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, richard-sibbes/the-glorious-feast-of-the-gospel/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images."
+
+[[source]]
+file = "source/A93248.tcp.xml"
+description = "EEBO-TCP A93248: The Glorious Feast of the Gospel (London, John Rothwell, 1650)"
+url = "https://github.com/textcreationpartnership/A93248"
+sha256 = "d95173b14fc232a376ebfe577798b6cf4f9274aee6c62ab56cce42b488176385"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "Monergism's modernized text (from the SDG reprint; (c) Monergism Books 2017), a check only: source/witness-report.md"
+url = "https://www.monergism.com/"
+
+[[witness]]
+description = "The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650"
+url = ""
