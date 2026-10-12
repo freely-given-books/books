@@ -14,6 +14,8 @@ for f in F:
     for o,i1,i2,j1,j2 in difflib.SequenceMatcher(None,a,b,autojunk=False).get_opcodes():
         sa,sb=a[i1:i2],b[j1:j2]
         if o=='equal': out+=sa; continue
+        if any('#' in w or '[' in w or ']' in w for w in sa+sb):
+            out+=sa; manual=True; continue      # Typst markup: by hand (vol-3 "(#emph")
         if any(NUM.search(w) for w in sa+sb):
             # a lone stray note number deleted at a footnote's start
             if o=='delete' and all(re.fullmatch(r'\d+',w) for w in sa): any_=True; continue

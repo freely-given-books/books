@@ -9,7 +9,7 @@ and folded into the TEI as an editor decision (`./fgb sync calvin`).
 |---|---|---|---|
 | vol-1 | prefaces, Book I | 2026-10-11, 156 findings | `../witness-report-vol-1.md` |
 | vol-2 | Book II | 2026-10-12, 226 findings | `../witness-report-vol-2.md` |
-| vol-3 | Book III ch. 1–10 | not yet | |
+| vol-3 | Book III ch. 1–10 | 2026-10-12, 164 findings | `../witness-report-vol-3.md` |
 | vol-4 | Book III ch. 11–25 | not yet (has the lost word "For the word () is", III.11) | |
 | vol-5 | Book IV ch. 1–13 | not yet | |
 | vol-6 | Book IV ch. 14–20 | not yet | |
@@ -23,7 +23,7 @@ Page images: `https://archive.org/download/ID/page/n<N>_w1600.jpg`.
 | 1845 volume | archive.org ID | holds | scan index N |
 |---|---|---|---|
 | 1 | `instituteschrist01calvuoft` | prefaces, Book I, Book II ch. 1–11 | printed page + 121 |
-| 2 | `institutesofreli02calvuoft` | Book II ch. 12–17, Book III | printed page + 9 (Book II part; check for Book III) |
+| 2 | `institutesofreli02calvuoft` | Book II ch. 12–17, Book III | printed page + 9 (Books II and III) |
 | 3 | `institutesofthec03calvuoft` | Book IV | not yet measured |
 
 OCR never reads Greek or Hebrew; read those on the page images.
@@ -62,7 +62,8 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
 
 1. `python3 -I source/witness-check/apply.py R T --dry`, then without `--dry`.
    It applies each finding word by word (CCEL's words → 1845's), skipping any
-   change that touches a numeral (reference style), and lists what it skipped.
+   change that touches a numeral (reference style) or Typst markup (a "ccel"
+   field can stop inside `#emph[`), and lists what it skipped.
 2. The skipped ones by hand: write `[[file, old, new], ...]` as JSON (see
    `example-edits.json`) and run `python3 -I source/witness-check/edits.py T edits.json`
    (it tolerates curly or straight quotes and composed or decomposed Greek).
@@ -70,7 +71,7 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
 3. `python3 -I source/witness-check/reform.py T`: puts CCEL's decomposed
    Greek back wherever an edit wrote a whole file composed (otherwise every
    Greek word reads as an edit).
-4. Look at the diff for 1845 punctuation brought in with a word fix
+4. `./fgb check calvin` [2] shows any markup an edit broke. Look at the diff for 1845 punctuation brought in with a word fix
    ("magic, (Exod. 9:11)", "(αὐτός.)") and put it back in CCEL's style.
 5. `./fgb sync calvin`, `./fgb check calvin` (must be OK), commit, `./fgb build calvin`,
    copy the volume's PDF, EPUB, cover and side-by-side page to Nextcloud.
