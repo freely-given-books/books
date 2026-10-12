@@ -96,7 +96,9 @@ brief, report format, scripts); copy it for the next book. In short:
    then `reform.py` (puts CCEL's decomposed
    Greek back where an edit recomposed a file). Look at the diff for the
    printing's punctuation creeping in ("magic, (Exod. 9:11)"); `./fgb check`
-   [2] shows broken markup. Then `./fgb sync`, `./fgb check`, build, Nextcloud.
+   [2] shows broken markup. Tell the agent its "1845" field must quote
+   text, never describe it ("CHAPTER XVIII.¹ … — ¹ Vid. …" got pasted into a
+   title); `apply.py` now skips a field with an ellipsis. Then `./fgb sync`, `./fgb check`, build, Nextcloud.
 3. Keep the report as `source/witness-report-vol-N.md`, update the status table
    in the README, and commit per volume.
 
