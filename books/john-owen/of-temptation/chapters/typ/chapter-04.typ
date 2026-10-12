@@ -6,7 +6,9 @@
 
 First, then, it may be inquired,—1. #emph[How a man may know when he is entered into temptation.] 2. #emph[What directions are to be given for the preventing of our entering into temptation.] 3. #emph[What seasons there are wherein a man may and ought to fear that an hour of temptation is at hand.]
 
-1\. How shall a man know whether he be entered into temptation or no, is our first inquiry. I say, then,—
+=== First Inquiry: How a Man May Know He Has Entered into Temptation
+
+How shall a man know whether he be entered into temptation or no, is our first inquiry. I say, then,—
 
 (1.) When a #emph[man is drawn into any sin], he may be sure that he hath entered into temptation. All #emph[sin] is from temptation, James i. 14. Sin is a fruit that comes only from that root. Though a man be never so suddenly or violently surprised in or with any sin, yet it is from some temptation or other that he hath been so surprised: so the apostle, Gal. vi. 1. If a man be surprised, overtaken with a fault, yet he was tempted to it; for says he, “Consider thyself, lest thou also be tempted,”—that is, as he was when he was so surprised, as it were, at unawares. This men sometimes take no notice of, to their great disadvantage. When they are overtaken with a sin they set themselves to repent of that sin, but do not consider the temptation that was the cause of it, to set themselves against that also, to take care that they enter no more into it. Hence are they quickly again entangled by it, though they have the greatest detestation of the sin itself that can be expressed. He that would indeed get the conquest over any sin must consider his temptations to it, and strike at that root; without deliverance from thence, he will not be healed.
 

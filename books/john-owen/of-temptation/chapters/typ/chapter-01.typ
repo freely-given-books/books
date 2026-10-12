@@ -20,9 +20,11 @@ II. The #emph[means] of its prevalency,—by our #emph[entering into it].
 
 III. The #emph[way] of preventing it,—#emph[watch and pray].
 
+=== I. What Temptation Is
+
 It is not in my thoughts to handle the common-place of temptations, but only the danger of them in general, with the means of preventing that danger; yet, that we may know what we affirm, and whereof we speak, some concernments of the general nature of temptation may be premised.
 
-I. First, For the #emph[general] nature of tempting and temptation, it lies among things indifferent; to try, to experiment, to prove, to pierce a vessel, that the liquor that is in it may be known, is as much as is signified by it. Hence God is said sometime to tempt; and we are commanded as our duty to tempt, or try, or search ourselves, to know what is in us, and to pray that God would do so also. So temptation is like a knife, that may either cut the meat or the throat of a man; it may be his food or his poison, his exercise or his destruction.
+First, For the #emph[general] nature of tempting and temptation, it lies among things indifferent; to try, to experiment, to prove, to pierce a vessel, that the liquor that is in it may be known, is as much as is signified by it. Hence God is said sometime to tempt; and we are commanded as our duty to tempt, or try, or search ourselves, to know what is in us, and to pray that God would do so also. So temptation is like a knife, that may either cut the meat or the throat of a man; it may be his food or his poison, his exercise or his destruction.
 
 Secondly, Temptation in its #emph[special] nature, as it denotes any evil, is considered either actively, as it #emph[leads] to evil, or passively, as it #emph[hath] an evil and suffering in it: so temptation is taken for affliction, James i. 2; for in that sense, we are to “count it all joy when we fall into temptation;” in the other, that we “enter not into it.”
 

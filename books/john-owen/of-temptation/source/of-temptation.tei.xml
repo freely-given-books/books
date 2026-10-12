@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
 Temptation:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>the nature and power
 of it; the danger of entering into it; and the means of preventing that
 danger:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p3"><seg>with</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p4"><seg>a resolution of sundry
@@ -240,13 +240,14 @@ throughout all generations.</p>
 <p xml:id="ccel-i.iv-p9">III. The <hi rend="italic">way</hi> of preventing it,—<hi rend="italic">watch and
 pray</hi>.</p>
 
+<label type="head" n="3" ana="#edition-only" change="#review">I. What Temptation Is</label>
 <p xml:id="ccel-i.iv-p10">It is not in my thoughts to handle the common-place of
 temptations, but only the danger of them in general, with the means of
 preventing that danger; yet, that we may know what we affirm, and whereof
 we speak, some concernments of the general nature of temptation may be
 premised.</p>
 
-<p xml:id="ccel-i.iv-p11">I. First, For the <hi rend="italic">general</hi> nature of tempting and
+<p xml:id="ccel-i.iv-p11"><choice><orig>I.</orig><reg resp="#editor" type="emendation"></reg></choice> First, For the <hi rend="italic">general</hi> nature of tempting and
 temptation, it lies among things indifferent; to try, to experiment, to
 prove, to pierce a vessel, that the liquor that is in it may be known, is
 as much as is signified by it. Hence God is said sometime to tempt; and we
@@ -442,7 +443,8 @@ it may be known when it is so come—The means of prevention prescribed by
 our Saviour—Of watching, and what is intended thereby—Of
 prayer.</p></argument>
 
-<p xml:id="ccel-i.v-p1">II. <seg rend="smallcaps">Having</seg>
+<label type="head" n="3" ana="#edition-only" change="#review">II. What It Is to Enter into Temptation</label>
+<p xml:id="ccel-i.v-p1"><choice><orig>II.</orig><reg resp="#editor" type="emendation"></reg></choice> <seg rend="smallcaps">Having</seg>
 showed what temptation is, I come, secondly, to manifest what it is to
 <hi rend="italic">enter</hi> into temptation.</p>
 
@@ -627,6 +629,7 @@ to entangle us,—then is the hour of temptation.</p>
 <p xml:id="ccel-i.v-p20">This, then, it is to “enter into temptation,” this is the
 “hour” of it; of which more in the process of our discourse.</p>
 
+<label type="head" n="3" ana="#edition-only" change="#review">III. The Means of Prevention: Watch and Pray</label>
 <p xml:id="ccel-i.v-p21">III. There <choice><orig>is</orig><reg resp="#editor" type="emendation">is the</reg></choice> means of prevention prescribed by our
 Saviour; they are two:—1. “Watch;” 2. “Pray.”</p>
 
@@ -660,6 +663,7 @@ entangling the affections—3. Temptations give fuel to lust—The end of
 temptation considered, with the issue of former temptations—Some
 objections answered.</p></argument>
 
+<label type="head" n="3" ana="#edition-only" change="#review">The Doctrine and Its Grounds</label>
 <p xml:id="ccel-i.vi-p1"><seg rend="smallcaps">Having</seg> thus
 opened the words in the foregoing chapters so far as is necessary to
 discover the foundation of the truth to be insisted on and improved, I
@@ -996,7 +1000,7 @@ visibly pressing on him. Experience gives to see that this doth and will
 <hi rend="italic">fail</hi> also. There is no saint of God but puts a valuation on the
 peace he hath; yet how many of them fail in the day of temptation!</p>
 
-<p xml:id="ccel-i.vi-p27">(4<hi rend="italic">thly</hi>.) But yet they have another consideration
+<p xml:id="ccel-i.vi-p27"><choice><orig>(</orig><reg resp="#editor" type="punctuation"></reg></choice>4<hi rend="italic">thly</hi>.<choice><orig>)</orig><reg resp="#editor" type="punctuation"></reg></choice> But yet they have another consideration
 also, and that is, the vileness of sinning against God. How shall they do
 this thing, and sin against God, the God of their mercies, of their
 salvation? How shall they wound Jesus Christ, who died for them? This
@@ -1277,6 +1281,7 @@ might be insisted on, to manifest the importance of the truth proposed, and
 the fulness of our concernment in taking care that we “enter not into
 temptation.”</p>
 
+<label type="head" n="4" ana="#edition-only" change="#review">Objections Answered</label>
 <p xml:id="ccel-i.vi-p47">Against what hath been spoken, some objections that
 secretly insinuate themselves into the souls of men, and have an efficacy
 to make them negligent and careless in this thing, which is of such
@@ -1426,7 +1431,8 @@ given for the preventing of our entering into temptation.</hi> 3. <hi rend="ital
 seasons there are wherein a man may and ought to fear that an hour of
 temptation is at hand.</hi></p>
 
-<p xml:id="ccel-i.vii-p3">1. How shall a man know whether he be entered into
+<label type="head" n="3" ana="#edition-only" change="#review">First Inquiry: How a Man May Know He Has Entered into Temptation</label>
+<p xml:id="ccel-i.vii-p3"><choice><orig>1.</orig><reg resp="#editor" type="emendation"></reg></choice> How shall a man know whether he be entered into
 temptation or no, is our first inquiry. I say, then,—</p>
 
 <p xml:id="ccel-i.vii-p4">(1.) When a <hi rend="italic">man is drawn into any sin</hi>, he may be
@@ -1648,7 +1654,8 @@ down—The directions given by our Saviour: “Watch and pray”—What is
 included therein—(1.) Sense of the danger of temptation—(2.) That it is
 not in our power to keep ourselves—(3.) Faith in promises of preservation—Of prayer in particular.</p></argument>
 
-<p xml:id="ccel-i.viii-p1">2. <seg rend="smallcaps">Having</seg> seen
+<label type="head" n="3" ana="#edition-only" change="#review">Second Inquiry: Directions Against Entering into Temptation</label>
+<p xml:id="ccel-i.viii-p1"><choice><orig>2.</orig><reg resp="#editor" type="emendation"></reg></choice> <seg rend="smallcaps">Having</seg> seen
 the danger of entering into temptation, and also discovered the ways and
 seasons whereby and wherein men <choice><orig>usually</orig><reg resp="#editor" type="emendation">usually do</reg></choice> so, our second inquiry is, What
 general directions may be given to <pb n="123" xml:id="ccel-i.viii-Page_123"/>preserve a soul from that
@@ -1658,6 +1665,7 @@ the place spoken of before, <ref type="scripture" cRef="Matt.26.41">Matt. xxvi.
 a little labour to unfold them, and show what is inwrapped and contained in
 them; and that both jointly and severally:—</p>
 
+<label type="head" n="4" ana="#edition-only" change="#review">Watch and Pray, Taken Jointly</label>
 <p xml:id="ccel-i.viii-p2">(1.) <choice><orig>These</orig><reg resp="#editor" type="spelling">There</reg></choice> is included in them a clear, <hi rend="italic">abiding
 apprehension <choice><orig>of</orig><reg resp="#editor" type="emendation">of the</reg></choice> great evil</hi> that there is in entering into temptation.
 That which a man watches and prays against, he looks upon as evil to him,
@@ -1782,7 +1790,7 @@ conscientiously careful in the use of means to preserve himself: which two,
 of what importance they are in this case, may easily be apprehended by them
 who have their hearts exercised in these things.</p>
 
-<p xml:id="ccel-i.viii-p12">[3.] This also is in it,—act <hi rend="italic">faith</hi> on the
+<p xml:id="ccel-i.viii-p12"><choice><orig>[</orig><reg resp="#editor" type="punctuation">(</reg></choice>3.<choice><orig>]</orig><reg resp="#editor" type="punctuation">)</reg></choice> This also is in it,—act <hi rend="italic">faith</hi> on the
 <hi rend="italic">promise</hi> of God for preservation. To believe that he will preserve us
 is a means of preservation; for this God will certainly do, or make a way
 for us to escape out of temptation, if we fall into it under such a
@@ -1804,7 +1812,8 @@ Christ in the promises, nor what a power for the preservation of the soul
 lies in this thing; but I have spoken to this elsewhere.<note place="foot" n="4" xml:id="ccel-i.viii-p12.3"><seg>Mortification of Sin in Believers</seg>, <choice><orig>vol. vi.</orig><reg resp="#editor" type="emendation"></reg></choice> chap. xiv.
 <choice><orig>p. 78.</orig><reg resp="#editor" type="emendation"></reg></choice></note></p>
 
-<p xml:id="ccel-i.viii-p14">[4.] Weigh these things <hi rend="italic">severally</hi>, <choice><orig>and</orig><reg resp="#editor" type="spelling">and,</reg></choice> first, take
+<label type="head" n="4" ana="#edition-only" change="#review">Pray</label>
+<p xml:id="ccel-i.viii-p14"><choice><orig>[</orig><reg resp="#editor" type="punctuation">(</reg></choice>4.<choice><orig>]</orig><reg resp="#editor" type="punctuation">)</reg></choice> Weigh these things <hi rend="italic">severally</hi>, <choice><orig>and</orig><reg resp="#editor" type="spelling">and,</reg></choice> first, take
 prayer into consideration. To pray that we enter not into temptation is a
 means to preserve us from it. Glorious things are, by all men that know
 aught of those things, spoken of this <hi rend="italic">duty</hi>; and yet the truth is,
@@ -1848,12 +1857,13 @@ temptation—The first season, in unusual prosperity—The second, in a
 slumber of grace—Third, a season of great spiritual enjoyment—The
 fourth, a season of self-confidence.</p></argument>
 
+<label type="head" n="4" ana="#edition-only" change="#review">Watch the Seasons of Temptation</label>
 <p xml:id="ccel-i.ix-p1"><seg rend="smallcaps">The</seg> other part
 of our Saviour’s direction,—namely, to “watch,”—is more general, and
 extends itself to many particulars. I shall fix on some things that are
 contained therein:—</p>
 
-<p xml:id="ccel-i.ix-p2">3. Watch the <hi rend="italic">seasons</hi> wherein men usually do “enter
+<p xml:id="ccel-i.ix-p2"><choice><orig>3</orig><reg resp="#editor" type="emendation">1</reg></choice>. Watch the <hi rend="italic">seasons</hi> wherein men usually do “enter
 into <choice><orig>temptations</orig><reg resp="#editor" type="spelling">temptation</reg></choice>.”</p>
 
 <p xml:id="ccel-i.ix-p3">There are sundry seasons wherein an hour of temptation is
@@ -2040,6 +2050,7 @@ men’s natural tempers—Of peculiar lusts—Of occasions suited to them—Watc
 watchfulness in the first approaches of temptation—Directions after
 entering into temptation.</p></argument>
 
+<label type="head" n="4" ana="#edition-only" change="#review">Watch the Heart</label>
 <p xml:id="ccel-i.x-p1"><seg rend="smallcaps">That</seg> part of
 watchfulness against temptation which we have considered regards the
 outward means, occasions, and advantages of temptation; proceed we now to
@@ -2335,6 +2346,7 @@ Watch against temptation by constant “keeping the word of Christ’s
 patience”—What that word is—How it is kept—How the keeping of it will
 keep us from the “hour of temptation.”</p></argument>
 
+<label type="head" n="4" ana="#edition-only" change="#review">The Last General Direction: Keep the Word of Christ’s Patience</label>
 <p xml:id="ccel-i.xi-p1"><seg rend="smallcaps">The</seg> directions
 insisted on in the former chapters are such as are partly given us, in
 their several particulars, up and down the Scripture; partly arise from the
@@ -2900,6 +2912,7 @@ and merciful High Priest, to give suitable succour at time of need.</p>
 <head xml:id="ccel-i.xii-p0.1">Chapter IX.</head>
 <argument xml:id="ccel-i.xii-p0.2"><p rend="inset">General exhortation to the duty prescribed.</p></argument>
 
+<label type="head" n="3" ana="#edition-only" change="#review">A General Exhortation</label>
 <p xml:id="ccel-i.xii-p1"><seg rend="smallcaps">Having</seg> thus
 passed through the considerations of the duty of watching that we enter not
 into temptation, I suppose I need not add motives to the observance of it.

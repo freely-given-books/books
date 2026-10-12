@@ -51,9 +51,15 @@ def SKIP_BLOCKS(root):
     return [_by_id(root)["ccel-i.ii"]]
 
 
+# The headings below each chapter title are this edition's own (Owen and
+# Goold have none): the three parts of the text's opening, the doctrine, and
+# the two inquiries with their parts, so a reader can see where he is in
+# Owen's outline. label[@type="head"] in the TEI, not printed text.
+EDITION_HEADINGS = True
+
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "Of Temptation", "author": "John Owen",
         "file": "of-temptation.epub", "front": "ebook-front.html",
-        "cover": "cover.typ",
+        "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["of-temptation.typ"]
