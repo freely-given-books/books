@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 594 |
-| emendation | 247 |
+| spelling | 631 |
+| emendation | 286 |
+| punctuation | 35 |
 | note | 35 |
-| punctuation | 29 |
-| spacing | 20 |
+| spacing | 22 |
 | italic | 18 |
 | grammar | 8 |
 | inset | 6 |
@@ -267,6 +267,45 @@
 - [vol-4/book-3-chapter-25.typ note] 7 → 8
 - [vol-4/book-3-chapter-25.typ note] se → si
 - [vol-4/book-3-chapter-25.typ] 1 → 1), and then denounces
+- [vol-5/book-4-chapter-01.typ note] l → 1
+- [vol-5/book-4-chapter-01.typ note] l → 1
+- [vol-5/book-4-chapter-01.typ note] l → 1
+- [vol-5/book-4-chapter-01.typ note] alla → a la
+- [vol-5/book-4-chapter-01.typ] 32 → . 132
+- [vol-5/book-4-chapter-02.typ note] no → ne
+- [vol-5/book-4-chapter-02.typ] the → 
+- [vol-5/book-4-chapter-02.typ] 24 → 29
+- [vol-5/book-4-chapter-02.typ] he → be
+- [vol-5/book-4-chapter-03.typ note] 6 → 16
+- [vol-5/book-4-chapter-03.typ] I → 1
+- [vol-5/book-4-chapter-03.typ] 4 → 9
+- [vol-5/book-4-chapter-03.typ] l → 1
+- [vol-5/book-4-chapter-03.typ] to → to be
+- [vol-5/book-4-chapter-04.typ note] do → de
+- [vol-5/book-4-chapter-04.typ] mendatory rescripts , preventions , and the like . But they all conduct → 
+- [vol-5/book-4-chapter-05.typ] l → 1
+- [vol-5/book-4-chapter-06.typ note] The French adds , “ Vision receue du Seigneur → Eph. 1:22
+- [vol-5/book-4-chapter-06.typ note] Le Seigneur des armees l’a dit , ” — A vision received from the Lord → 4:15
+- [vol-5/book-4-chapter-06.typ note] The Lord of hosts hath spoken it → 5:23; Col
+- [vol-5/book-4-chapter-06.typ] in → and
+- [vol-5/book-4-chapter-07.typ] ofthe → of the
+- [vol-5/book-4-chapter-07.typ] 4 → 6
+- [vol-5/book-4-chapter-07.typ] 8 → 7
+- [vol-5/book-4-chapter-07.typ] so → as
+- [vol-5/book-4-chapter-08.typ] it → 
+- [vol-5/book-4-chapter-09.typ] of → or
+- [vol-5/book-4-chapter-10.typ note] distincti → distinction which
+- [vol-5/book-4-chapter-10.typ] the , → that
+- [vol-5/book-4-chapter-10.typ] and → and not
+- [vol-5/book-4-chapter-10.typ] not → 
+- [vol-5/book-4-chapter-10.typ] 22 → 21
+- [vol-5/book-4-chapter-10.typ] l → 1
+- [vol-5/book-4-chapter-12.typ] he → be
+- [vol-5/book-4-chapter-13.typ] in → to
+- [vol-5/book-4-chapter-13.typ] it → it may
+- [vol-5/book-4-chapter-13.typ] will → will be
+- [vol-5/book-4-chapter-13.typ] Christian → Christ in
+- [vol-5/book-4-chapter-13.typ] were → were then
 
 ## grammar
 
@@ -310,6 +349,12 @@
 - [vol-4/book-3-chapter-20.typ note] , → , and proceeds from the same cause: some muttering a host of Ave Marias, and going
 - [vol-4/book-3-chapter-20.typ] : → ,
 - [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-5/book-4-chapter-06.typ note] . → . 1:18; 2:10.
+- [vol-5/book-4-chapter-07.typ note] ; → ,
+- [vol-5/book-4-chapter-07.typ note] . → :
+- [vol-5/book-4-chapter-13.typ note] . → ,
+- [vol-5/book-4-chapter-13.typ note] . → 
+- [vol-5/book-4-chapter-13.typ] , → , is
 
 ## case
 
@@ -379,6 +424,7 @@
 - ommitted → omitted (×2)
 - orthodoxy → orthodox (×2)
 - passages → passage (×2)
+- reasons → reason (×2)
 - reconciliations → reconciliation, (×2)
 - retakes → betakes (×2)
 - retaking → betaking (×2)
@@ -391,10 +437,13 @@
 - uses → use, (×2)
 - verdant → versant (×2)
 - views → view, (×2)
+- with → which (×2)
 - words → works (×2)
 - worlds → world, (×2)
 - ἀπολύτροσις → ἀπολύτρωσις (×2)
+- 1 → 1:
 - 10 → 10:
+- 28 → 28.
 - Adams → Adam,
 - Ambrose → Ambros
 - Andy → And,
@@ -404,7 +453,10 @@
 - BRIEFLY → CHIEFLY
 - Beats → Beata
 - Bert → Berd
+- Catechism → Catechismo
+- Certainly → Certain
 - Chalcedony → Chalcedon
+- Cleres → Clercs
 - Come → Comme
 - Diu → Dieu
 - Divinté → Divinité
@@ -414,11 +466,13 @@
 - Epistles → Epistle,
 - Farther → Father
 - Fathered → Father’s
+- Four → pour
 - Gad → God
 - Genesis → Genesim
 - Gods → God
 - Gratis → Gratia
 - Hence → Whence
+- Ies → les
 - Impardonable → unpardonable
 - Isa → Isa.
 - Julia → Julian
@@ -438,10 +492,14 @@
 - Poiotiers → Poictiers
 - Principalament → Principalement
 - Psalmists → Psalmist,
+- Put → But
 - Pœitentia → Pœnitentia
+- Sam → Sam.
 - Satan’s → Satan,
 - Savior → Saviour
 - Section → Sections
+- Simplie → Simplic
+- Sion → Zion
 - Spirits → Spirit
 - Spriitus → Spiritus
 - Summery → Summary
@@ -453,6 +511,8 @@
 - Way → Nay
 - When → Then
 - a → an
+- abrograte → abrogate
+- abuse → abused
 - adds → add,
 - adoptions → adoption,
 - advantages → advantage
@@ -472,11 +532,13 @@
 - au’un → qu’un
 - axe → are
 - axioms → axiom,
+- bean → been
 - behaves → behoves
 - betisc → betise
 - births → birth,
 - bold → bound
 - books → book,
+- bouelier → bouclier
 - bounds → bound,
 - breasts → breast,
 - breviare → breviaire
@@ -514,6 +576,7 @@
 - directions → direction,
 - discernments → discernment,
 - dismays → dismay,
+- disscussion → discussion
 - distinctions → distinction,
 - divcs → divos
 - doctrines → doctrine,
@@ -526,6 +589,7 @@
 - d’t → dit
 - earthing → farthing
 - eclui → celui
+- effected → affected
 - effects → effect,
 - eië → euë
 - elicited → excited
@@ -613,7 +677,9 @@
 - nays → nay,
 - nights → night,
 - nuiet → nuict
+- n’all’ → n’allâ
 - obsesrvations → observations
+- off → of
 - oft → off
 - omited → omitted
 - one → ones
@@ -623,17 +689,22 @@
 - orders → order,
 - others → other,
 - ours → our
+- p → p.
 - par → pas
 - parents → parent
 - parts → pacto
 - passives → passive,
+- patent → paten
 - pealing → prating
+- pens’t → pensât
 - peoples → people,
+- perform → performed
 - performs → perform
 - perlin → pelerin
 - permissions → permission,
 - perpare → prepare
 - pester → prater
+- places → palaces
 - placte → placet
 - plasir → plaisir
 - plour → pour
@@ -641,7 +712,9 @@
 - possililitatis → possibilitatis
 - powers → power,
 - powers → power—
+- presence → pretence
 - presumptions → presumption,
+- preten → pretend
 - priests → priest,
 - psalms → psalm
 - psalms → psalm,
@@ -650,7 +723,6 @@
 - quells → quelles
 - qu’ → qui
 - qu’il → qu'il
-- reasons → reason
 - recoit → reçoit
 - redemptions → redemption,
 - reduction → reductio
@@ -668,6 +740,7 @@
 - saini → asini
 - sakes → sake,
 - samblant → semblant
+- say → says
 - says → says,
 - scented → seemed
 - seperance → esperance
@@ -676,9 +749,11 @@
 - shows → show,
 - significance → significancy
 - sina → sins
+- sits → sists
 - sould → soul
 - souls → soul
 - speaks → speak,
+- spearing → speaking
 - speculate → speculative
 - split → spirit
 - squ → sq
@@ -691,10 +766,12 @@
 - substantæ → substantiæ
 - substitutions → substitution,
 - suffcit → sufficit
+- suffered → suffer
 - superflous → superfluous
 - surer → sure,
 - tablet → tabret
 - temples → temple,
+- tent → tant
 - that → what
 - theft → that
 - thefts → theft,
@@ -711,6 +788,7 @@
 - unas → unus
 - uncerstand → understand
 - universes → universe,
+- unjustly → justly
 - unnamed → inflamed
 - use → us,
 - vices → vice,
@@ -723,12 +801,14 @@
 - worlds → words
 - worlds → works
 - zustitiae → justitiae
+- ést → est
 - œvres → oeuvres
 - Κυρίος → Κύριου
 - βαττολογίαν → Βαττολογία
 - βούλεσις → βούλησις
 - διελει̑ν → διελεῖν
 - ἔλενγχος → ἔλεγχος
+- ἐθελοθρησκειας → ἐθελοθρησκείας;
 - ἑγεμονικὸν → ἡγεμονικόν
 - ἑλεημοσύνῃ → ἐλεημοσύνῃ
 - και → καὶ

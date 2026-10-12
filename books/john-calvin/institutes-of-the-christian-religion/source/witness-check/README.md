@@ -11,7 +11,7 @@ and folded into the TEI as an editor decision (`./fgb sync calvin`).
 | vol-2 | Book II | 2026-10-12, 226 findings | `../witness-report-vol-2.md` |
 | vol-3 | Book III ch. 1–10 | 2026-10-12, 164 findings | `../witness-report-vol-3.md` |
 | vol-4 | Book III ch. 11–25 | 2026-10-12, 244 findings | `../witness-report-vol-4.md` |
-| vol-5 | Book IV ch. 1–13 | not yet | |
+| vol-5 | Book IV ch. 1–13 | 2026-10-12, 75 findings (Book IV is keyed far more cleanly: no commas as "s") | `../witness-report-vol-5.md` |
 | vol-6 | Book IV ch. 14–20 | not yet | |
 
 ## The 1845 printing (archive.org)
@@ -24,7 +24,7 @@ Page images: `https://archive.org/download/ID/page/n<N>_w1600.jpg`.
 |---|---|---|---|
 | 1 | `instituteschrist01calvuoft` | prefaces, Book I, Book II ch. 1–11 | printed page + 121 |
 | 2 | `institutesofreli02calvuoft` | Book II ch. 12–17, Book III | printed page + 9 (Books II and III) |
-| 3 | `institutesofthec03calvuoft` | Book IV | not yet measured |
+| 3 | `institutesofthec03calvuoft` | Book IV | printed page + 3 |
 
 OCR never reads Greek or Hebrew; read those on the page images.
 
