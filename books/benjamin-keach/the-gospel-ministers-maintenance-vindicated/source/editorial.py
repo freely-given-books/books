@@ -87,6 +87,10 @@ QUOTE_BLOCK = True
 
 # "WE have read" under a decorated initial is set "We have read".
 DROP_CAP_CASE = True
+# ...and in small capitals, as each division's first word is printed in
+# capitals after its drop cap (GOD, AND, COnsider, THE, WE).
+OPENING_SMALLCAPS = True
+SMALLCAPS = "smallcaps"
 
 
 # The 1689 printing capitalizes most nouns, many adjectives and some other

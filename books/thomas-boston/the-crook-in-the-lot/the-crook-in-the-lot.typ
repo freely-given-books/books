@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.6.1": *
+#import "@local/fgbooks:0.7.0": *
 
 #show: book.with(
   title: [The Crook in the Lot],
@@ -38,7 +38,7 @@
       ]
     ]
   ],
-  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),   // Lulu: 151-400 pages
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
 )
 
 #include "chapters/typ/to-the-reader.typ"
