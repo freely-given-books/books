@@ -4,6 +4,7 @@
 | --- | --- |
 | spelling | 594 |
 | emendation | 247 |
+| note | 35 |
 | punctuation | 29 |
 | spacing | 20 |
 | italic | 18 |

@@ -90,9 +90,10 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
 - Summary items doubled (II.8 item 59); a section number keyed as the letter
   "l" ("l. The doctrine", so it is not set as a number) or replaced by a
   stray sentence (III.22 §2).
-- Modern editors' notes from the reprint CCEL keyed, marked "100 D100" etc.
-  (III.24–25, and more in Book IV): not Beveridge's; their fate is the
-  editor's decision (see below).
+- Modern editors' notes from the 1953 reprint CCEL keyed, marked "100 D100"
+  … "134 D134" (III.24–25 and Book IV, 35 in all): removed by
+  `drop_modern_notes.py` (recorded as dropped notes). Watch in vols 5–6 for
+  modern text without the marker, inside or after a Beveridge note.
 - Section summaries without their markup (I.7, II.8 "29."); the converter now
   catches the second kind.
 
@@ -104,3 +105,7 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
   around references.
 - References wrong in both CCEL and 1845 are corrected to the right verse.
 - A note's page cross-reference to another printing names the passage instead.
+- Only the public-domain notes of the 1845 printing go in (2026-10-12: "make
+  sure none of the footnotes from the 1953 make it in"; "only the public
+  domain footnotes from the older prints should go in"). The comparison agent
+  lists any note, or part of one, that 1845 lacks; drop it.
