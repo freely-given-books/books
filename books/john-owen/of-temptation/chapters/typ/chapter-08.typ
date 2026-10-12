@@ -2,6 +2,8 @@
 
 #block(inset: (x: 1em))[The last general direction, Rev. iii. 10: Watch against temptation by constant “keeping the word of Christ’s patience”—What that word is—How it is kept—How the keeping of it will keep us from the “hour of temptation.”]
 
+==== The Last General Direction: Keep the Word of Christ’s Patience
+
 #smallcaps[The] directions insisted on in the former chapters are such as are partly given us, in their several particulars, up and down the Scripture; partly arise from the nature of the thing itself. There is one general direction remains, which is comprehensive of all that went before, and also adds many more particulars unto them. This contains an approved antidote against the poison of temptation,—a remedy that Christ himself hath marked with a note of efficacy and success; that is given us, Rev. iii. 10, in the words of our Saviour himself to the church of Philadelphia. “Because,” saith he, “thou hast kept the word of my patience, I will also keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell in the earth.” Christ is “the same yesterday, today, and for ever.” As he dealt with the church of Philadelphia, so will he deal with us. If we “keep the word of his patience,” he will “keep us from the hour of temptation.” This, then, being a way of rolling the whole care of this weighty affair on him who is able to bear it, it requires our peculiar consideration.
 
 And, therefore, I shall show,—(1.) What it is to “keep the word of Christ’s patience,” that we may know how to perform our duty; and, (2.) How this will be a means of our preservation, which will establish us in the faith of Christ’s promise.

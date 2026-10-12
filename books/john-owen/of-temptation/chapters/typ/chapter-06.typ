@@ -2,9 +2,11 @@
 
 #block(inset: (x: 1em))[Of watching that we enter not into temptation—The nature and efficacy of that duty—The first part of it, as to the special seasons of temptation—The first season, in unusual prosperity—The second, in a slumber of grace—Third, a season of great spiritual enjoyment—The fourth, a season of self-confidence.]
 
+==== Watch the Seasons of Temptation
+
 #smallcaps[The] other part of our Saviour’s direction,—namely, to “watch,”—is more general, and extends itself to many particulars. I shall fix on some things that are contained therein:—
 
-3\. Watch the #emph[seasons] wherein men usually do “enter into temptation.”
+1\. Watch the #emph[seasons] wherein men usually do “enter into temptation.”
 
 There are sundry seasons wherein an hour of temptation is commonly at hand, and will unavoidably seize upon the soul, unless it be delivered by mercy in the use of watchfulness. When we are under such a season, then are we peculiarly to be upon our guard that we enter not into, that we fall not under, the power of temptation. Some of those seasons may be named:—
 

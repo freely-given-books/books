@@ -2,6 +2,8 @@
 
 #block(inset: (x: 1em))[The doctrine—Grounds of it; our Saviour’s direction in this case—His promise of preservation—Issues of men entering into temptation—1. Of ungrounded professors—2. Of the choicest saints, Adam, Abraham, David—Self-consideration as to our own weakness—The power of a man’s heart to withstand temptation considered—The considerations that it useth for that purpose—The power of temptation; it darkens the mind—The several ways whereby it doth so—1. By fixing the imaginations—2. By entangling the affections—3. Temptations give fuel to lust—The end of temptation considered, with the issue of former temptations—Some objections answered.]
 
+=== The Doctrine and Its Grounds
+
 #smallcaps[Having] thus opened the words in the foregoing chapters so far as is necessary to discover the foundation of the truth to be insisted on and improved, I shall lay it down in the ensuing observation:—
 
 #emph[It is the great duty of all believers to use all diligence in the ways of Christ’s appointment, that they fall not into temptation.]
@@ -54,7 +56,7 @@ To handle this a little more distinctly, I shall consider the means of safety fr
 
 (3#emph[dly].) The fixing on this particular only is to make good one #emph[passage] or entrance, whilst the enemy assaults us round about. It is true, a little armour would serve to defend a man if he might choose where his enemy should strike him; but we are commanded to take the “whole armour of God” if we intend to resist and stand, Eph. vi. This we speak of is but one piece; and when our eye is only to that, temptation may enter and prevail twenty other ways. For instance, a man may be tempted to worldliness, unjust gain, revenge, vain-glory, or the like. If he fortify himself alone with this consideration, he will not do this thing, and wound his conscience and lose his peace; fixing his eye on this particular, and counting himself safe whilst he is not overcome on that hand, it may be neglect of private communion with God, sensuality, and the like, do creep in, and he is not one jot in a better condition than if he had fallen under the power of that part of the temptation which was most visibly pressing on him. Experience gives to see that this doth and will #emph[fail] also. There is no saint of God but puts a valuation on the peace he hath; yet how many of them fail in the day of temptation!
 
-(4#emph[thly].) But yet they have another consideration also, and that is, the vileness of sinning against God. How shall they do this thing, and sin against God, the God of their mercies, of their salvation? How shall they wound Jesus Christ, who died for them? This surely cannot but preserve them. I answer,—
+4#emph[thly]. But yet they have another consideration also, and that is, the vileness of sinning against God. How shall they do this thing, and sin against God, the God of their mercies, of their salvation? How shall they wound Jesus Christ, who died for them? This surely cannot but preserve them. I answer,—
 
 First, We see every day this consideration failing also. There is no child of God that is overcome of temptation but overcomes this consideration. It is not, then, a sure and infallible defensative.
 
@@ -93,6 +95,8 @@ And this it doth divers ways:—
 (5.) Consider what hath been the #emph[issue] of any former temptations that thou hast had. Have they not defiled thy conscience, disquieted thy peace, weakened thee in thy obedience, clouded the face of God? Though thou wast not prevailed on to the outward evil or utmost issue of thy temptation, yet hast thou not been foiled? hath not thy soul been sullied and grievously perplexed with it? yea, didst thou ever in thy life come fairly off, without sensible loss, from any temptation almost that thou hadst to deal withal; and wouldst thou willingly be entangled again? If thou art at liberty, take heed; enter no more, if it be possible, lest a worse thing happen to thee.
 
 These, I say, are some of those many considerations that might be insisted on, to manifest the importance of the truth proposed, and the fulness of our concernment in taking care that we “enter not into temptation.”
+
+==== Objections Answered
 
 Against what hath been spoken, some objections that secretly insinuate themselves into the souls of men, and have an efficacy to make them negligent and careless in this thing, which is of such importance to them,—a duty of such indispensable necessity to them who intend to walk with God in any peace, or with any faithfulness,—are to be considered and removed. And they are these that follow:—
 
