@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.5.5": *
+#import "@local/fgbooks:0.6.1": *
 
 
 
@@ -40,7 +40,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.125in),
 )
 
-#set text(font: "Liberation Serif", size: 11pt)
+#set text(font: "Libertinus Serif", size: 11pt)
 #set par(first-line-indent: 0em, spacing: 1.5em)
 #include "chapters/typ/apology.typ"
 

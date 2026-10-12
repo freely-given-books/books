@@ -16,6 +16,9 @@ import layout
 MODERNIZE = False
 TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
+# CCEL keeps Goold's small capitals (the directions' ordinals, LORD, chapter
+# openings); the fgbooks 0.6.0 font, Libertinus Serif, has real ones.
+SMALLCAPS = "smallcaps"
 
 # CCEL's title page and indexes are its own apparatus.
 SKIP_DIVISIONS = {"contents", "index", "titlePage"}

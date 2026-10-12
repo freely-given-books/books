@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[Particular cases proposed to consideration—The first, its resolution in sundry particulars—Several discoveries of the state of a soul entering into temptation.]
 
-These things being premised in general, I proceed to the consideration of #emph[three particular cases arising] from the truth proposed: the first whereof relates unto the #emph[thing] itself; the second unto the #emph[time] or season thereof; and the last unto our #emph[deportment] in reference unto the prevention of the evil treated of.
+#smallcaps[These] things being premised in general, I proceed to the consideration of #emph[three particular cases arising] from the truth proposed: the first whereof relates unto the #emph[thing] itself; the second unto the #emph[time] or season thereof; and the last unto our #emph[deportment] in reference unto the prevention of the evil treated of.
 
 First, then, it may be inquired,—1. #emph[How a man may know when he is entered into temptation.] 2. #emph[What directions are to be given for the preventing of our entering into temptation.] 3. #emph[What seasons there are wherein a man may and ought to fear that an hour of temptation is at hand.]
 

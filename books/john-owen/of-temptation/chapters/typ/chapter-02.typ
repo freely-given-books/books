@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[What it is to “enter into temptation”—Not barely being tempted—Not to be conquered by it—To fall into it—The force of that expression—Things required unto entering into temptation—Satan or lust more than ordinarily importunate—The soul’s entanglement—Seasons of such entanglements discovered—Of the “hour of temptation,” Rev. iii. 10, what it is—How any temptation comes to its hour—How it may be known when it is so come—The means of prevention prescribed by our Saviour—Of watching, and what is intended thereby—Of prayer.]
 
-II. Having showed what temptation is, I come, secondly, to manifest what it is to #emph[enter] into temptation.
+II. #smallcaps[Having] showed what temptation is, I come, secondly, to manifest what it is to #emph[enter] into temptation.
 
 1\. This is not merely to #emph[be tempted]. It is impossible that we should be so freed from temptation as not to be at all tempted. Whilst Satan continues in his power and malice, whilst the world and lust are in being, we shall be tempted. “Christ,” says one, “was made like unto us, that he might be tempted; and we are tempted that we may be made like unto Christ.” Temptation in general is comprehensive of our whole warfare; as our Saviour calls the time of his ministry the time of his “temptations,” Luke xxii. 28. We have no promise that we shall not be tempted at all; nor are to pray for an absolute freedom from temptations, because we have no such promise of being heard therein. The direction we have for our prayers is, “Lead us not into temptation,” Matt. vi. 13; it is “entering into temptation” that we are to pray against. We may be tempted, yet not enter into temptation. So that,—
 

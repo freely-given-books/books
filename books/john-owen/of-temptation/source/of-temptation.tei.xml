@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-10" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
 Temptation:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>the nature and power
 of it; the danger of entering into it; and the means of preventing that
 danger:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p3"><seg>with</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p4"><seg>a resolution of sundry
@@ -9,7 +9,7 @@ shall come upon all the world, to try them that dwell upon the earth.”—<ref 
 <pb n="88" xml:id="ccel-i.ii-Page_88"/>
 <head xml:id="ccel-i.ii-p0.1">Prefatory note.</head>
 
-<p xml:id="ccel-i.ii-p1"><seg>This</seg> small
+<p xml:id="ccel-i.ii-p1"><seg rend="smallcaps">This</seg> small
 work of Dr. Owen on “Temptation” appeared in 1658.  He had been urged to
 publish it by the solicitations of friends to whose opinion he paid
 deference.  The probability is, that they had already heard the substance
@@ -71,15 +71,15 @@ closed by a general exhortation to this duty.  Slight defects in the
 arrangement, the renewed discussion of a point after it had been quitted,
 and the disproportionate space accorded to some parts of the subject, are
 explained, perhaps by the circumstance that the treatise was originally a
-series of discourses.—<seg>Ed</seg>.</p>
+series of discourses.—<seg rend="smallcaps">Ed</seg>.</p>
 </div><div type="chapter" n="2" xml:id="ccel-i.iii">
 <pb n="89" xml:id="ccel-i.iii-Page_89"/>
 <head xml:id="ccel-i.iii-p0.1">To the reader.</head>
 
-<p xml:id="ccel-i.iii-p1"><seg>Christian
+<p xml:id="ccel-i.iii-p1"><seg rend="smallcaps">Christian
 Reader</seg>,</p>
 
-<p xml:id="ccel-i.iii-p2"><seg>If</seg> thou art in
+<p xml:id="ccel-i.iii-p2"><seg rend="smallcaps">If</seg> thou art in
 any measure awake in these days wherein we live, and hast taken notice of
 the manifold, great, and various temptations wherewith all sorts of persons
 that know the Lord and profess his name are beset, and whereunto they are
@@ -160,7 +160,7 @@ that it may be useful to his servants for the ends whereunto it is
 designed, is the prayer of him who received this handful of seed from his
 storehouse and treasure.</p>
 
-<p xml:id="ccel-i.iii-p5"><seg>John Owen</seg>.</p>
+<p xml:id="ccel-i.iii-p5"><seg rend="smallcaps">John Owen</seg>.</p>
 </div><div type="chapter" n="3" xml:id="ccel-i.iv">
 <pb n="91" xml:id="ccel-i.iv-Page_91"/>
 <head xml:id="ccel-i.iv-p0.1">Chapter I.</head>
@@ -174,7 +174,7 @@ doth it—Of temptation in its special nature; of the actions of it—The
 true nature of temptation stated.</p></argument>
 <argument xml:id="ccel-i.iv-p0.3"><p rend="inset">“Watch and pray, that ye enter not into temptation.”—<ref type="scripture" cRef="Matt.26.41">Matt. xxvi. 41</ref></p></argument>
 
-<p xml:id="ccel-i.iv-p1"><seg>These</seg> words of
+<p xml:id="ccel-i.iv-p1"><seg rend="smallcaps">These</seg> words of
 our Saviour are repeated with very little alteration in three evangelists;
 only, whereas Matthew and Mark have recorded them as above written, Luke
 reporteth them thus: “Rise and pray, lest ye enter into temptation;” so
@@ -442,7 +442,7 @@ it may be known when it is so come—The means of prevention prescribed by
 our Saviour—Of watching, and what is intended thereby—Of
 prayer.</p></argument>
 
-<p xml:id="ccel-i.v-p1">II. <seg>Having</seg>
+<p xml:id="ccel-i.v-p1">II. <seg rend="smallcaps">Having</seg>
 showed what temptation is, I come, secondly, to manifest what it is to
 <hi rend="italic">enter</hi> into temptation.</p>
 
@@ -660,7 +660,7 @@ entangling the affections—3. Temptations give fuel to lust—The end of
 temptation considered, with the issue of former temptations—Some
 objections answered.</p></argument>
 
-<p xml:id="ccel-i.vi-p1"><seg>Having</seg> thus
+<p xml:id="ccel-i.vi-p1"><seg rend="smallcaps">Having</seg> thus
 opened the words in the foregoing chapters so far as is necessary to
 discover the foundation of the truth to be insisted on and improved, I
 shall lay it down in the ensuing observation:—</p>
@@ -1413,7 +1413,7 @@ sometimes delude themselves.</p>
 resolution in sundry particulars—Several discoveries of the state of a
 soul entering into temptation.</p></argument>
 
-<p xml:id="ccel-i.vii-p1"><seg>These</seg> things
+<p xml:id="ccel-i.vii-p1"><seg rend="smallcaps">These</seg> things
 being premised in general, I proceed to the consideration of <hi rend="italic">three
 particular cases arising</hi> from the truth proposed: the first whereof
 relates unto the <hi rend="italic">thing</hi> itself; the second unto the <hi rend="italic">time</hi> or
@@ -1648,7 +1648,7 @@ down—The directions given by our Saviour: “Watch and pray”—What is
 included therein—(1.) Sense of the danger of temptation—(2.) That it is
 not in our power to keep ourselves—(3.) Faith in promises of preservation—Of prayer in particular.</p></argument>
 
-<p xml:id="ccel-i.viii-p1">2. <seg>Having</seg> seen
+<p xml:id="ccel-i.viii-p1">2. <seg rend="smallcaps">Having</seg> seen
 the danger of entering into temptation, and also discovered the ways and
 seasons whereby and wherein men <choice><orig>usually</orig><reg resp="#editor" type="emendation">usually do</reg></choice> so, our second inquiry is, What
 general directions may be given to <pb n="123" xml:id="ccel-i.viii-Page_123"/>preserve a soul from that
@@ -1848,7 +1848,7 @@ temptation—The first season, in unusual prosperity—The second, in a
 slumber of grace—Third, a season of great spiritual enjoyment—The
 fourth, a season of self-confidence.</p></argument>
 
-<p xml:id="ccel-i.ix-p1"><seg>The</seg> other part
+<p xml:id="ccel-i.ix-p1"><seg rend="smallcaps">The</seg> other part
 of our Saviour’s direction,—namely, to “watch,”—is more general, and
 extends itself to many particulars. I shall fix on some things that are
 contained therein:—</p>
@@ -1877,7 +1877,7 @@ terror should influence them into amendment) far from them. Without a
 special assistance, it hath an inconceivably malignant influence on
 believers themselves. Hence Agur prays against riches, because of the
 temptation that attends them: “Lest,” saith he, “I be full and deny thee,
-and say, Who is the <seg>Lord</seg>?”
+and say, Who is the <seg rend="smallcaps">Lord</seg>?”
 <ref type="scripture" cRef="Prov.30.8-Prov.30.9">Prov. xxx. 8, 9</ref>;—lest, being filled
 with them, he should forget the Lord; as God complains that his people did,
 <ref type="scripture" cRef="Hos.13.6">Hos. xiii. 6</ref>. We know how David was
@@ -2040,7 +2040,7 @@ men’s natural tempers—Of peculiar lusts—Of occasions suited to them—Watc
 watchfulness in the first approaches of temptation—Directions after
 entering into temptation.</p></argument>
 
-<p xml:id="ccel-i.x-p1"><seg>That</seg> part of
+<p xml:id="ccel-i.x-p1"><seg rend="smallcaps">That</seg> part of
 watchfulness against temptation which we have considered regards the
 outward means, occasions, and advantages of temptation; proceed we now to
 that which respects the <hi rend="italic">heart itself</hi>, which is wrought upon and
@@ -2335,7 +2335,7 @@ Watch against temptation by constant “keeping the word of Christ’s
 patience”—What that word is—How it is kept—How the keeping of it will
 keep us from the “hour of temptation.”</p></argument>
 
-<p xml:id="ccel-i.xi-p1"><seg>The</seg> directions
+<p xml:id="ccel-i.xi-p1"><seg rend="smallcaps">The</seg> directions
 insisted on in the former chapters are such as are partly given us, in
 their several particulars, up and down the Scripture; partly arise from the
 nature of the thing itself. There is one general direction remains, which
@@ -2737,7 +2737,7 @@ preservation from temptation annexed unto it:—</p>
 <p xml:id="ccel-i.xi-p37"><pb n="146" xml:id="ccel-i.xi-Page_146"/>(1<hi rend="italic">st</hi>.) Because it empties the soul of
 its <hi rend="italic">own wisdom</hi>, understanding, and fulness, that it may act in the
 wisdom and fulness of Christ. The only advice for <choice><orig>the</orig><reg resp="#editor" type="emendation"></reg></choice> preservation in
-trials and temptations lies in that of the wise man, <ref type="scripture" cRef="Prov.3.5">Prov. iii. 5</ref>, “Trust in the <seg>Lord</seg> with all thine heart; and lean
+trials and temptations lies in that of the wise man, <ref type="scripture" cRef="Prov.3.5">Prov. iii. 5</ref>, “Trust in the <seg rend="smallcaps">Lord</seg> with all thine heart; and lean
 not unto thine own understanding.” This is the <hi rend="italic">work</hi> of faith; it
 <hi rend="italic">is</hi> faith; it is to <hi rend="italic">live</hi> by faith. The great <choice><orig>[cause of]
 falling</orig><reg resp="#editor" type="emendation">failing</reg></choice> of men in trials is their leaning to, or leaning upon, their own
@@ -2762,7 +2762,7 @@ elsewhere.</p>
 suffer not upon our account, is a great preserving principle in a time of
 temptations and trials. How powerful this was in David, he declares in that
 earnest prayer, <ref type="scripture" cRef="Ps.69.9">Ps. lxix. <choice><orig>9</orig><reg resp="#editor" type="emendation">6</reg></choice></ref>, “Let not them that wait on
-thee, O Lord <seg>God</seg> of hosts, be
+thee, O Lord <seg rend="smallcaps">God</seg> of hosts, be
 ashamed for my sake: let not those that seek thee be confounded for my
 sake, O God of Israel;”—“O let not me so miscarry, that those for whom I
 would lay down my life should be put to shame, be evil spoken of,
@@ -2900,7 +2900,7 @@ and merciful High Priest, to give suitable succour at time of need.</p>
 <head xml:id="ccel-i.xii-p0.1">Chapter IX.</head>
 <argument xml:id="ccel-i.xii-p0.2"><p rend="inset">General exhortation to the duty prescribed.</p></argument>
 
-<p xml:id="ccel-i.xii-p1"><seg>Having</seg> thus
+<p xml:id="ccel-i.xii-p1"><seg rend="smallcaps">Having</seg> thus
 passed through the considerations of the duty of watching that we enter not
 into temptation, I suppose I need not add motives to the observance of it.
 Those who are not moved by their own sad experiences, nor the importance of

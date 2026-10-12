@@ -2,7 +2,7 @@
 
 #block(inset: (x: 1em))[Several acts of watchfulness against temptation proposed—Watch the heart—What it is to be watched in and about—Of the snares lying in men’s natural tempers—Of peculiar lusts—Of occasions suited to them—Watching to lay in provision against temptation—Directions for watchfulness in the first approaches of temptation—Directions after entering into temptation.]
 
-That part of watchfulness against temptation which we have considered regards the outward means, occasions, and advantages of temptation; proceed we now to that which respects the #emph[heart itself], which is wrought upon and entangled by temptation. Watching or keeping of the heart, which above all keepings we are obliged unto, comes within the compass of this duty also; for the right performance whereof take these ensuing directions:—
+#smallcaps[That] part of watchfulness against temptation which we have considered regards the outward means, occasions, and advantages of temptation; proceed we now to that which respects the #emph[heart itself], which is wrought upon and entangled by temptation. Watching or keeping of the heart, which above all keepings we are obliged unto, comes within the compass of this duty also; for the right performance whereof take these ensuing directions:—
 
 (1.) Let him that would not enter into temptation labour to know his own heart, to be acquainted with his own spirit, his natural frame and temper, #emph[his lusts and corruptions], his natural, sinful, or spiritual weaknesses, that, finding where his weakness lies, he may be careful to keep at a distance from all occasions of sin.
 

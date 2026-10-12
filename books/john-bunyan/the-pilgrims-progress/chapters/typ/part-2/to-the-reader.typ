@@ -1,6 +1,6 @@
 == TO THE READER
 
-#strong[courteous companions,]
+#smallcaps[courteous companions,]
 
 Some time since, to tell you my dream that I had of Christian the pilgrim, and of his dangerous journey towards the Celestial country, was pleasant to me and profitable to you. I told you then also what I saw concerning his wife and children, and how unwilling they were to go with him on pilgrimage; insomuch that he was forced to go on his progress without them; for he durst not run the danger of that destruction which he feared would come by staying with them in the City of Destruction: wherefore, as I then showed you, he left them and departed.
 
