@@ -45,7 +45,11 @@ read -r -p "Publish release $name (push stable, sign and push tag $name, GitHub 
 if [ "$ok" != y ] && [ "$ok" != Y ]; then
     # undo make's local changes; the built files stay in $dir to look at
     git checkout -q books/revisions.json
-    git branch -q -f stable origin/stable
+    if git rev-parse -q --verify origin/stable >/dev/null; then
+        git branch -q -f stable origin/stable
+    else
+        git branch -q -D stable 2>/dev/null || true     # the first release: no stable yet
+    fi
     echo "not published (the built files are in $dir)"
     exit 0
 fi
