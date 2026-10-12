@@ -10,7 +10,7 @@ and folded into the TEI as an editor decision (`./fgb sync calvin`).
 | vol-1 | prefaces, Book I | 2026-10-11, 156 findings | `../witness-report-vol-1.md` |
 | vol-2 | Book II | 2026-10-12, 226 findings | `../witness-report-vol-2.md` |
 | vol-3 | Book III ch. 1–10 | 2026-10-12, 164 findings | `../witness-report-vol-3.md` |
-| vol-4 | Book III ch. 11–25 | not yet (has the lost word "For the word () is", III.11) | |
+| vol-4 | Book III ch. 11–25 | 2026-10-12, 244 findings | `../witness-report-vol-4.md` |
 | vol-5 | Book IV ch. 1–13 | not yet | |
 | vol-6 | Book IV ch. 14–20 | not yet | |
 
@@ -68,7 +68,9 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
    `example-edits.json`) and run `python3 -I source/witness-check/edits.py T edits.json`
    (it tolerates curly or straight quotes and composed or decomposed Greek).
    For kind f, give the corrected number in CCEL's Arabic style.
-3. `python3 -I source/witness-check/reform.py T`: puts CCEL's decomposed
+3. `python3 -I source/witness-check/curl.py T`: curls straight double quotes
+   a fix brought in from the 1845 text (vol-4 had 12).
+   `python3 -I source/witness-check/reform.py T`: puts CCEL's decomposed
    Greek back wherever an edit wrote a whole file composed (otherwise every
    Greek word reads as an edit).
 4. `./fgb check calvin` [2] shows any markup an edit broke. Look at the diff for 1845 punctuation brought in with a word fix
@@ -85,7 +87,12 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
   filoneikiva"), or in private-use characters (one word, I.13). A search of
   vols 3–6 found none, but look again in each.
 - Hebrew as font codes with a false paragraph break after it (II.16).
-- Summary items doubled (II.8 item 59).
+- Summary items doubled (II.8 item 59); a section number keyed as the letter
+  "l" ("l. The doctrine", so it is not set as a number) or replaced by a
+  stray sentence (III.22 §2).
+- Modern editors' notes from the reprint CCEL keyed, marked "100 D100" etc.
+  (III.24–25, and more in Book IV): not Beveridge's; their fate is the
+  editor's decision (see below).
 - Section summaries without their markup (I.7, II.8 "29."); the converter now
   catches the second kind.
 

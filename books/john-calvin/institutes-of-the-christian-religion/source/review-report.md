@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 400 |
-| emendation | 187 |
-| punctuation | 20 |
+| spelling | 594 |
+| emendation | 247 |
+| punctuation | 29 |
+| spacing | 20 |
 | italic | 18 |
-| spacing | 16 |
+| grammar | 8 |
 | inset | 6 |
-| grammar | 5 |
 | case | 3 |
-| merge | 2 |
+| merge | 3 |
 | skipped | 1 |
 
 ## skipped
@@ -206,13 +206,76 @@
 - [vol-3/book-3-chapter-09.typ note] attracts → attract us
 - [vol-3/book-3-chapter-09.typ note] esseεφἡμερον → esse ἐφήμερον
 - [vol-3/book-3-chapter-09.typ] being → being so
+- [vol-4/book-3-chapter-11.typ note] that → that that
+- [vol-4/book-3-chapter-11.typ note] having → having added
+- [vol-4/book-3-chapter-11.typ note] added → 
+- [vol-4/book-3-chapter-11.typ] arguments → arguments. Answers
+- [vol-4/book-3-chapter-11.typ] as → so
+- [vol-4/book-3-chapter-11.typ] ( ) → דעת
+- [vol-4/book-3-chapter-11.typ] 3 → 5
+- [vol-4/book-3-chapter-11.typ] word → way
+- [vol-4/book-3-chapter-13.typ] 25 → 26
+- [vol-4/book-3-chapter-13.typ] 50 → 1
+- [vol-4/book-3-chapter-13.typ] in grafted → ingrafted
+- [vol-4/book-3-chapter-14.typ note] 7 → 8
+- [vol-4/book-3-chapter-14.typ note] the → 
+- [vol-4/book-3-chapter-14.typ] statement → statement with
+- [vol-4/book-3-chapter-15.typ note] John → 1 John
+- [vol-4/book-3-chapter-15.typ note] 7 → 8
+- [vol-4/book-3-chapter-15.typ] αὑτου̑ → αὐτοῦ
+- [vol-4/book-3-chapter-15.typ] in → on
+- [vol-4/book-3-chapter-16.typ note] 5 → 4
+- [vol-4/book-3-chapter-17.typ] er → ex
+- [vol-4/book-3-chapter-17.typ] 10 → 11
+- [vol-4/book-3-chapter-17.typ] big → his
+- [vol-4/book-3-chapter-17.typ] else here → elsewhere
+- [vol-4/book-3-chapter-17.typ] ! yqj → חקים
+- [vol-4/book-3-chapter-17.typ] lie → he
+- [vol-4/book-3-chapter-17.typ] 23 → 33
+- [vol-4/book-3-chapter-18.typ] 6 → 5
+- [vol-4/book-3-chapter-19.typ note] 16 → 15
+- [vol-4/book-3-chapter-19.typ] rise → use
+- [vol-4/book-3-chapter-19.typ] sock → work
+- [vol-4/book-3-chapter-19.typ] 10 → 12
+- [vol-4/book-3-chapter-20.typ note] conleur → d'autant
+- [vol-4/book-3-chapter-20.typ note] en → en leurs messes ni en leurs vespres; sous quelle couleur defendront ils ces blasphemes qu'il lisent a pleine gorge, ou ils prient St Eloy ou St Medard, de regarder du ciel
+- [vol-4/book-3-chapter-20.typ note] o ˜ → où
+- [vol-4/book-3-chapter-20.typ note] bourbieu → bourbieu ou
+- [vol-4/book-3-chapter-20.typ note] o ˜ → où
+- [vol-4/book-3-chapter-20.typ note] il → il se
+- [vol-4/book-3-chapter-20.typ note] tent → effrenee qu'ont eu les Papistes et ont encore, qui contre la defense de l'Apostre, chantent
+- [vol-4/book-3-chapter-20.typ] use → use. 2
+- [vol-4/book-3-chapter-20.typ] And → “
+- [vol-4/book-3-chapter-20.typ] on → 
+- [vol-4/book-3-chapter-20.typ] 13 → 10
+- [vol-4/book-3-chapter-20.typ] yet → still
+- [vol-4/book-3-chapter-20.typ] l → I
+- [vol-4/book-3-chapter-20.typ] oil → oil (Ps. 4:7)
+- [vol-4/book-3-chapter-20.typ] ITS → US
+- [vol-4/book-3-chapter-20.typ] subject → obnoxious
+- [vol-4/book-3-chapter-21.typ] l → 1
+- [vol-4/book-3-chapter-21.typ] l → 1
+- [vol-4/book-3-chapter-21.typ] in → an
+- [vol-4/book-3-chapter-21.typ] lives → was
+- [vol-4/book-3-chapter-22.typ note] d’a aucuns → d'aucuns
+- [vol-4/book-3-chapter-22.typ] one → our
+- [vol-4/book-3-chapter-22.typ] Holiness of life springs from election , and is the object of it2 → 2
+- [vol-4/book-3-chapter-23.typ note] er → et
+- [vol-4/book-3-chapter-23.typ] will , → wills
+- [vol-4/book-3-chapter-24.typ] 1 → 2
+- [vol-4/book-3-chapter-25.typ note] 7 → 8
+- [vol-4/book-3-chapter-25.typ note] se → si
+- [vol-4/book-3-chapter-25.typ] 1 → 1), and then denounces
 
 ## grammar
 
 - art → and
 - best → hast
+- n’est → n'est
+- shalt → that
 - sheweth → showeth
 - suffiereth → suffereth
+- thee → then
 - west → wast
 
 ## punctuation
@@ -237,6 +300,15 @@
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-06.typ note] , → ;
 - [vol-3/book-3-chapter-06.typ] . → :
+- [vol-4/book-3-chapter-14.typ] . → ,
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] ; → ; 1
+- [vol-4/book-3-chapter-17.typ note] , → , que quand les œuvres des saincts sont nommées justice, cela ne vient point de leurs
+- [vol-4/book-3-chapter-17.typ] “ → “All
+- [vol-4/book-3-chapter-19.typ] : → :4,
+- [vol-4/book-3-chapter-20.typ note] , → , and proceeds from the same cause: some muttering a host of Ave Marias, and going
+- [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-4/book-3-chapter-20.typ] : → ,
 
 ## case
 
@@ -246,54 +318,91 @@
 
 ## spelling
 
-- behaved → behoved (×12)
+- behaved → behoved (×13)
 - threatening → threatenings (×12)
-- Gods → God, (×7)
-- retake → betake (×6)
+- retake → betake (×11)
+- Gods → God, (×9)
+- minds → mind, (×6)
+- Origin → Origen (×5)
+- Scriptures → Scripture, (×5)
+- prophets → prophet, (×5)
 - see → sec (×5)
+- ways → way, (×5)
+- whose → whoso (×5)
 - Isiah → Isaiah (×4)
+- ceaselessly → causelessly (×4)
+- foreknow → foreknew (×4)
 - glamour → clamour (×4)
-- minds → mind, (×4)
+- is → is, (×4)
+- its → it, (×4)
+- levity → lenity (×4)
+- manners → manner, (×4)
+- prayers → prayer, (×4)
+- qu → que (×4)
 - reasons → reason, (×4)
-- ways → way, (×4)
+- where → were (×4)
 - Ahab → Ahaz (×3)
 - Conformation → Confirmation (×3)
 - Dionysus → Dionysius (×3)
-- Origin → Origen (×3)
-- Scriptures → Scripture, (×3)
+- Homily → Homil (×3)
 - condemn → contemn (×3)
 - days → day, (×3)
-- is → is, (×3)
-- its → it, (×3)
-- manners → manner, (×3)
-- whose → whoso (×3)
+- passages → passage, (×3)
+- theme → them, (×3)
 - wills → will, (×3)
+- women → woman (×3)
+- Bone → Bono (×2)
 - Fathers → Father, (×2)
 - God → Good (×2)
-- Homily → Homil (×2)
 - Persian → Persians (×2)
 - Philistine → Philistines (×2)
+- Whose → Whoso (×2)
+- admits → admit, (×2)
+- asks → ask, (×2)
+- behave → behove (×2)
+- consciences → conscience, (×2)
 - essences → essence, (×2)
+- exceptions → exception, (×2)
+- expressions → expression, (×2)
+- flagitous → flagitious (×2)
 - fleshy → flesh, (×2)
+- hesitations → hesitation, (×2)
 - judgments → judgment, (×2)
+- justifications → justification, (×2)
 - kingdoms → kingdom, (×2)
-- levity → lenity (×2)
+- maintains → maintain, (×2)
+- merits → merit, (×2)
+- minutes → minutest (×2)
+- note → not, (×2)
+- ommited → omitted (×2)
+- ommitted → omitted (×2)
 - orthodoxy → orthodox (×2)
 - passages → passage (×2)
-- passages → passage, (×2)
-- prophets → prophet, (×2)
-- qu → que (×2)
 - reconciliations → reconciliation, (×2)
 - retakes → betakes (×2)
-- theme → them, (×2)
+- retaking → betaking (×2)
+- rights → right, (×2)
+- sees → seest (×2)
+- terms → term, (×2)
+- then → them (×2)
+- therefore → therefore, (×2)
+- times → time, (×2)
 - uses → use, (×2)
-- where → were (×2)
-- women → woman (×2)
+- verdant → versant (×2)
+- views → view, (×2)
+- words → works (×2)
 - worlds → world, (×2)
 - ἀπολύτροσις → ἀπολύτρωσις (×2)
+- 10 → 10:
 - Adams → Adam,
+- Ambrose → Ambros
+- Andy → And,
+- Apostles → Apostle,
+- Asian → Asia,
 - Athanasuis → Athanasius
 - BRIEFLY → CHIEFLY
+- Beats → Beata
+- Bert → Berd
 - Chalcedony → Chalcedon
 - Come → Comme
 - Diu → Dieu
@@ -304,17 +413,22 @@
 - Epistles → Epistle,
 - Farther → Father
 - Fathered → Father’s
+- Gad → God
 - Genesis → Genesim
 - Gods → God
 - Gratis → Gratia
 - Hence → Whence
 - Impardonable → unpardonable
 - Isa → Isa.
+- Julia → Julian
 - Lateral → Lateran
 - Latin → Latin,
 - Lawgivers → Lawgiver,
 - Lig → Lib
 - Lords → Lord,
+- Lore → Lord
+- Maire → Marie
+- Mas → Mais
 - Matthiue → Matthieu
 - Mortals → Mortuis
 - Nature → Natura
@@ -324,19 +438,24 @@
 - Principalament → Principalement
 - Psalmists → Psalmist,
 - Pœitentia → Pœnitentia
+- Satan’s → Satan,
+- Savior → Saviour
 - Section → Sections
 - Spirits → Spirit
 - Spriitus → Spiritus
+- Summery → Summary
 - Testaments → Testament,
 - Therefore → Therefore,
+- Thomas → Thomam
 - Tim → Tim.
+- Trojan → Trajan
 - Way → Nay
-- Whose → Whoso
+- When → Then
 - a → an
 - adds → add,
-- admits → admit,
 - adoptions → adoption,
 - advantages → advantage
+- affect → effect
 - affections → affection,
 - aims → aim,
 - alore → alors
@@ -347,34 +466,47 @@
 - arison → raison
 - arrangements → arrangement,
 - artful → arts
-- asks → ask,
+- aujord’hui → aujourd'hui
 - aujourduhui → aujourdhui
 - au’un → qu’un
 - axe → are
-- behave → behove
+- axioms → axiom,
+- behaves → behoves
 - betisc → betise
 - births → birth,
+- bold → bound
 - books → book,
 - bounds → bound,
 - breasts → breast,
+- breviare → breviaire
 - burials → burial,
 - call → called
 - callings → calling,
 - camparison → comparison
 - cap → cap.
-- ceaselessly → causelessly
+- chairty → charity
+- chapters → chapter,
 - characters → character,
 - cisteren → cisterne
+- classes → causes
+- comes → cometh
 - comets → cometh
 - commencment → commencement
 - condemnations → condemnation,
+- condemned → contemned
 - confessions → confession
 - contaminations → contamination,
+- contemplations → contemplation,
+- corresponds → correspond
+- corruptions → corruption,
+- dangers → danger,
 - deaths → death,
 - decivers → deceivers
 - ded → sed
 - dedlans → dedans
 - defections → defection,
+- dequel → duquel
+- desires → desire
 - despairs → despair,
 - destructions → destruction
 - diligences → diligence,
@@ -382,111 +514,159 @@
 - discernments → discernment,
 - dismays → dismay,
 - distinctions → distinction,
+- divcs → divos
 - doctrines → doctrine,
+- done → donc
+- doors → doers
 - dose → does
 - doubts → doubt
 - driver → silver
+- d’etre → d'etre
 - d’t → dit
 - earthing → farthing
 - eclui → celui
+- effects → effect,
+- eië → euë
 - elicited → excited
+- eliciting → exciting
 - eminences → eminence,
 - enlisting → existing
+- ent → ont
 - eontre → contre
 - erainte → crainte
 - errors → error,
 - estra → estre
-- exceptions → exception,
+- evils → evil,
+- exhortations → exhortation,
+- experiences → experience,
 - explanations → explanation,
 - expositon → exposition
-- expressions → expression,
 - fastings → fasting,
 - filly → fully
 - fins → sins
-- flagitous → flagitious
 - formaæ → formæ
+- foul → soul
+- friend → friends
+- fulfill → fulfils
 - furry → fury
 - further → farther
 - glow → glory
 - goes → gives
+- governments → government,
 - gravity → pravity
 - grounds → ground,
 - gue → que
 - guod → quod
 - having → saving
+- he → the
 - hear → bear
 - hearers → hearer,
 - heart → heart?
+- hearth → heareth
 - heavenly → heaven’s
 - heavens → heaven,
 - height → weight
-- hesitations → hesitation,
 - holds → hold,
 - humaiu → humain
 - hæ → hæc
 - impunity → impurity
+- indeed → indeed,
 - indicted → inflicted
 - indulgences → indulgence,
 - inhale → inflame
 - inheritances → inheritance,
 - insanc → insano
 - inspired → inspires
+- intellects → intellect,
 - intends → intend,
+- intimations → intimation
 - intregrity → integrity
 - inventions → invention,
 - invited → invites
+- invoction → invocation
+- involve → invoke
 - irreconcilable → irreconcileable
+- its → it
+- judement → judgment
 - justices → justice,
+- justified → justifies
 - lar → la
 - leave → have
+- light → right
 - limitations → limitation,
 - lurkingplaces → lurking-places
-- maintains → maintain,
+- lust → lusts
+- l’eau → l'eau
 - malice → make
 - masteries → mysteries
 - mean → means
+- men → me,
 - methods → method,
 - midst → didst
 - mighty → might,
-- minutes → minutest
+- minister → sinister
 - moreover → moreover,
 - mouths → mouth,
 - nations → nation,
 - natute → nature
 - nays → nay,
 - nights → night,
-- note → not,
+- nuiet → nuict
+- obsesrvations → observations
 - oft → off
 - omited → omitted
-- ommited → omitted
-- ommitted → omitted
+- one → ones
 - ones → one,
+- oppopsites → opposites
 - orders → order
 - orders → order,
 - others → other,
 - ours → our
+- par → pas
 - parents → parent
+- parts → pacto
+- passives → passive,
 - pealing → prating
+- peoples → people,
+- performs → perform
 - perlin → pelerin
 - permissions → permission,
+- perpare → prepare
+- pester → prater
+- placte → placet
+- plasir → plaisir
 - plour → pour
 - plue → plus
+- possililitatis → possibilitatis
 - powers → power,
 - powers → power—
 - presumptions → presumption,
 - priests → priest,
+- psalms → psalm
+- psalms → psalm,
 - qu → qui
 - que → qui
+- quells → quelles
 - qu’ → qui
+- qu’il → qu'il
+- reasons → reason
 - recoit → reçoit
 - redemptions → redemption,
+- reduction → reductio
 - reformations → reformation,
-- retaking → betaking
+- regarded → rewarded
+- relish → perish
+- rench → French
+- restricted → astricted
+- results → result,
 - rethink → bethink
 - retook → betook
-- rights → right,
+- rewarding → regarding
+- rewards → reward,
+- righteousness → righteousnesses,
 - saini → asini
 - sakes → sake,
+- samblant → semblant
 - says → says,
 - scented → seemed
 - seperance → esperance
@@ -495,12 +675,14 @@
 - shows → show,
 - significance → significancy
 - sina → sins
+- sould → soul
 - souls → soul
 - speaks → speak,
 - speculate → speculative
 - split → spirit
 - squ → sq
 - stamps → stamp,
+- stnads → stands
 - strengths → strength,
 - subjects → subject
 - subjects → subject,
@@ -508,32 +690,46 @@
 - substantæ → substantiæ
 - substitutions → substitution,
 - suffcit → sufficit
+- superflous → superfluous
+- surer → sure,
+- tablet → tabret
 - temples → temple,
-- terms → term,
 - that → what
+- theft → that
 - thefts → theft,
 - then → than
-- therefore → therefore,
 - this → his
-- times → time,
+- thunderbolts → thunderbolt,
+- tombs → tomb,
 - towards → toward
 - treatises → treatise
+- trougle → trouble
 - truths → truth,
 - turns → turn,
 - uit → ult
 - unas → unus
+- uncerstand → understand
+- universes → universe,
 - unnamed → inflamed
+- use → us,
+- vices → vice,
+- was → wash
 - were → were,
+- when → when,
 - whould → would
 - wills → will
 - word → words
 - worlds → words
+- worlds → works
 - zustitiae → justitiae
+- œvres → oeuvres
 - Κυρίος → Κύριου
+- βαττολογίαν → Βαττολογία
 - βούλεσις → βούλησις
 - διελει̑ν → διελεῖν
 - ἔλενγχος → ἔλεγχος
 - ἑγεμονικὸν → ἡγεμονικόν
+- ἑλεημοσύνῃ → ἐλεημοσύνῃ
 - και → καὶ
 - κοινονία → κοινωνία
 - μοι̑ρα → μοῖρα
@@ -544,6 +740,7 @@
 - προσκὺνει̑ν → προσκυνεῖν
 - προσκὺνεσις → προσκύνησις
 - το → τὸ
+- τόπον̀ → τόπον·
 - τοι̑ς → τοῖς
 - ὑπόστατις → ὑπόστασις
 - χαρακτερ → χαρακτὴρ
