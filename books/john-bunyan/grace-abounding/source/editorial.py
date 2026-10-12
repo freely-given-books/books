@@ -13,6 +13,9 @@ import layout
 MODERNIZE = False
 TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
+# CCEL's small capitals: Bunyan's emphasis ("this word ABLE", "an IF") and
+# his name in the indictment; fgbooks 0.6.0's Libertinus Serif has them.
+SMALLCAPS = "smallcaps"
 
 # CCEL's title page, contents and scripture index are its own apparatus.
 SKIP_DIVISIONS = {"contents", "index", "titlePage"}

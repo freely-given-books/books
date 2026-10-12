@@ -41,7 +41,7 @@ Thee, as they did my firstling; and will grace \
 Thee and thy fellows with such cheer and fare, \
 As show well, they of Pilgrims lovers are.
 
-#strong[Objection i] \
+#smallcaps[Objection i] \
 But how if they will not believe of me \
 That I am truly thine? ’cause some there be \
 That counterfeit the Pilgrim and his name, \
@@ -49,7 +49,7 @@ Seek, by disguise, to seem the very same; \
 And by that means have wrought themselves into \
 The hands and houses of I know not who.
 
-#strong[Answer] \
+#smallcaps[Answer] \
 ’Tis true, some have, of late, to counterfeit \
 My Pilgrim, to their own my title set; \
 Yea, others half my name, and title too, \
@@ -71,13 +71,13 @@ And I will testify you pilgrims be; \
 Yea, I will testify that only you \
 My Pilgrims are, and that alone will do.
 
-#strong[Objection ii] \
+#smallcaps[Objection ii] \
 But yet, perhaps, I may enquire for him \
 Of those who wish him damned life and limb. \
 What shall I do, when I at such a door \
 For Pilgrims ask, and they shall rage the more?
 
-#strong[Answer] \
+#smallcaps[Answer] \
 Fright not thyself, my Book, for such bugbears \
 Are nothing else but ground for groundless fears. \
 My Pilgrim’s book has traveled sea and land, \
@@ -140,13 +140,13 @@ That wish but well to him that went before; \
 Of things as good, as rich, as profitable, \
 For young, for old, for stagg’ring, and for stable.
 
-#strong[Objection iii] \
+#smallcaps[Objection iii] \
 But some there be that say, He laughs too loud \
 And some do say, His head is in a cloud. \
 Some say, His words and stories are so dark, \
 They know not how, by them, to find his mark.
 
-#strong[Answer] \
+#smallcaps[Answer] \
 One may, I think, say, Both his laughs and cries \
 May well be guess’d at by his wat’ry eyes. \
 Some things are of that nature, as to make \
@@ -177,13 +177,13 @@ Thou, my brave second Pilgrim, hast reveal’d; \
 What Christian left lock’d up, and went his way, \
 Sweet Christiana opens with her key.
 
-#strong[Objection iv] \
+#smallcaps[Objection iv] \
 But some love not the method of your first: \
 Romance they count it; throw’t away as dust. \
 If I should meet with such, what should I say? \
 Must I slight them as they slight me, or nay?
 
-#strong[Answer] \
+#smallcaps[Answer] \
 My Christiana, if with such thou meet, \
 By all means, in all loving wise them greet; \
 Render them not reviling for revile, \

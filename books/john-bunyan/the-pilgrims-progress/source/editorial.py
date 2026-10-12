@@ -26,9 +26,9 @@ VERSE_LINEBREAKS = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 
 # CCEL's small capitals (the Author's Way's "Objection"/"answer" labels, Part
-# Two's subtitle) are set bold: Liberation Serif has no small capitals, and
-# Typst does not make them up.
-SMALLCAPS = "strong"
+# Two's subtitle) are real small capitals: fgbooks 0.6.0's Libertinus Serif
+# has them (Liberation Serif, to 0.5.5, did not; they were set bold).
+SMALLCAPS = "smallcaps"
 
 STAGES = ["FIRST", "SECOND", "THIRD", "FOURTH", "FIFTH", "SIXTH", "SEVENTH",
           "EIGHTH", "NINTH", "TENTH"]

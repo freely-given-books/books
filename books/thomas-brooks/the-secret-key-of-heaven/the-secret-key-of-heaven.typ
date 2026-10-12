@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.5.5": *
+#import "@local/fgbooks:0.6.1": *
 
 #show outline: set text(10pt)
 
@@ -44,7 +44,7 @@
   ]
 )
 
-#set text(font: "Liberation Serif", size: 11pt)
+#set text(font: "Libertinus Serif", size: 11pt)
 
 #include "chapters/typ/chapter-01.typ"
 
