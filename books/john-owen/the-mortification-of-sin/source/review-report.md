@@ -4,7 +4,7 @@
 | --- | --- |
 | spelling | 18 |
 | heading | 18 |
-| emendation | 12 |
+| emendation | 13 |
 | spacing | 6 |
 | punctuation | 3 |
 | grammar | 1 |
@@ -20,6 +20,7 @@
 - [chapter-06.typ] 2 . → 
 - [chapter-07.typ] II . → 
 - [chapter-07.typ] 1 . → 
+- [chapter-07.typ] I → 1. I
 - [chapter-08.typ] 2 . → 
 - [chapter-09.typ] III . → 
 - [chapter-10.typ] way → way wherein a man is ought by him to be concluded to be death, that he
