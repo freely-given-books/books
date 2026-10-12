@@ -6,8 +6,8 @@
 
 | kind | count |
 | --- | --- |
-| case | 121 |
-| spelling | 103 |
+| case | 143 |
+| spelling | 104 |
 | punctuation | 101 |
 | emendation | 63 |
 | spacing | 59 |
@@ -207,6 +207,7 @@
 
 ## case
 
+- church → Church (×22)
 - E → e (×16)
 - Spirit → spirit (×7)
 - holy → Holy (×7)
@@ -267,13 +268,14 @@
 
 ## spelling
 
+- ministers → minister's (×6)
 - church → churches (×5)
-- ministers → minister's (×5)
 - ministers → ministers' (×5)
 - tis → ’tis (×5)
-- churches → church's (×4)
 - masters → master's (×4)
 - least → lest (×3)
+- churches → Church's (×2)
+- churches → church's (×2)
 - humane → human (×2)
 - pastors → pastor's (×2)
 - with → with- (×2)

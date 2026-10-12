@@ -1,6 +1,6 @@
 == The Great and Weighty Work of a True Gospel Minister Opened
 
-The nature and weightiness of the work of the faithful servant of Christ, together with the necessity and difficulty of it, we shall consider in its parts in a brief and compendious manner.
+#smallcaps[The] nature and weightiness of the work of the faithful servant of Christ, together with the necessity and difficulty of it, we shall consider in its parts in a brief and compendious manner.
 
 #emph[First,] ’tis a holy and a sublime office; he is placed in a very high sphere and station, hence called the ambassador of Christ; what higher dignity can be conferred on man? The greatness of the prince whose messengers they are, sets forth their dignity; they are in Christ's stead employed in the great affairs of his spiritual kingdom; and have received authority from him, and are also prepared and qualified for this sacred work by him, and indeed therefore ought to be blameless, #emph[as the stewards of God:] and hence it is that those who are said to receive them, receive him; and those who despise them, despise him. O! with what holy fear, dread, and reverence ought they to enter upon this work and office, lest they should dishonour their great and glorious prince and heavenly sovereign, whom they represent! Is it not a weighty thing to be made the mouth of Christ?
 
@@ -38,7 +38,7 @@ But to proceed, the difficulty of the minister's work lies in these respects fol
 
 5\. Man at best is subject to great discouragements, and liable to many grievous temptations.
 
-#emph[Secondly,] the difficulty of their business, lies in the work itself, the ministers employment is hard, and no ways easy. Because,
+#emph[Secondly,] the difficulty of their business, lies in the work itself, the minister's employment is hard, and no ways easy. Because,
 
 1\. ’Tis a mysterious work, what mysteries are greater than those a minister is to study, and dive into? #emph[Without controversy, great is the mystery of godliness.] 1 Tim. 3:16. #emph[But we speak the wisdom of God in a mystery, even the hidden wisdom.] 1 Cor. 2:7.
 
