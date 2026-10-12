@@ -10,7 +10,7 @@ I. The character of him in whom salvation for lost man must be sought, Chap. 6.
 
 II. How he was manifested to the world, namely, in a twofold manner. First, under the Law. Here the Decalogue is expounded, and some other points relating to the law discussed, Chap. 7 and 8. Secondly, under the Gospel. Here the resemblance and difference of the two dispensations are considered, Chap. 9, 10, 11.
 
-III. What kind of person Christ was, and behaved to be, in order to perform the office of Mediator—viz. God and man in one person, Chap. 12, 13, 14.
+III. What kind of person Christ was, and behoved to be, in order to perform the office of Mediator—viz. God and man in one person, Chap. 12, 13, 14.
 
 IV. For what end he was sent into the world by the Father. Here Christ’s prophetical, kingly, and priestly offices are considered, Chap. 15.
 
