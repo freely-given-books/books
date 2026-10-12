@@ -12,6 +12,14 @@ and sometimes copyrighted matter.
   reprint**: the reprint's apparatus (John Murray's introduction, page indexes)
   is not public domain or not useful. Leave it out (`SKIP_BLOCKS`) and tell the
   user; never publish an introduction by someone who died after ~1955.
+- **The reprint's footnotes too.** The user's rule: only the public-domain
+  notes of the older printing go in. CCEL keeps a reprint editor's notes
+  among the author's, sometimes with their own numbering ("100 D100 These
+  two assertions…": 35 in Calvin, from the 1953 Eerdmans reprint), sometimes
+  unmarked. Remove the marked ones from `chapters/typ` (Calvin's
+  `source/witness-check/drop_modern_notes.py`; the TEI records them as
+  dropped notes), and have the comparison agent list any note, or part of a
+  note, the old printing lacks.
 - **Monergism copies can mix texts**: Monergism's Institutes is Beveridge's body
   under chapter titles that read as Battles's (1960, in copyright). A witness
   for the body only. sermonindex.net usually mirrors CCEL.
@@ -62,6 +70,8 @@ their cousins with `tcp_structure.py` and a first `./fgb check`:
   splits the sentence (Calvin II.16); CCEL may say it has no Hebrew at all.
 - **Wrong reference numbers**; some are the original printing's own misprints
   (correct them too, saying so).
+- **A section number keyed as the letter "l"** ("l. The doctrine…", so the
+  machine does not see a number), or replaced by a stray sentence.
 - **Classes missing** on one chapter (its title and summaries plain paragraphs):
   fix by hand in `chapters/typ` (`#block(inset: (x: 1em))[...]`), recorded as
   editor decisions.
@@ -81,7 +91,9 @@ brief, report format, scripts); copy it for the next book. In short:
    Tell it what NOT to list: the style the edition keeps (below).
 2. **Apply** with Calvin's scripts: `apply.py` (word-level; skips numerals and
    markup), then the rest by hand as `[file, old, new]` JSON with `edits.py`
-   (quote- and NFC/NFD-tolerant), then `reform.py` (puts CCEL's decomposed
+   (quote- and NFC/NFD-tolerant), then `curl.py` (a fix taken from the old
+   printing's text can bring its straight quotes into CCEL's curly ones),
+   then `reform.py` (puts CCEL's decomposed
    Greek back where an edit recomposed a file). Look at the diff for the
    printing's punctuation creeping in ("magic, (Exod. 9:11)"); `./fgb check`
    [2] shows broken markup. Then `./fgb sync`, `./fgb check`, build, Nextcloud.
