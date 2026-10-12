@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.6.1": *
+#import "@local/fgbooks:0.7.0": *
 
 #show: book.with(
   title: [The Gospel Minister’s Maintenance Vindicated],
