@@ -60,6 +60,9 @@
 )
 
 #set text(font: "Libertinus Serif", size: 10.5pt)
+// No widow/orphan control: with it, Typst can push a marker's line onto
+// the next page after setting its footnote, so note and marker part.
+#set text(costs: (widow: 0%, orphan: 0%))
 
 #metadata[A Parallel of the Duties of Husbands and Wives] <short>
 #include "chapters/typ/vol-2/parallel-of-duties.typ"
