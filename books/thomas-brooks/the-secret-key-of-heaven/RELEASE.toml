@@ -1,0 +1,26 @@
+# Release record of The Secret Key of Heaven: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, thomas-brooks/the-secret-key-of-heaven/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images."
+
+[[source]]
+file = "source/A29703.tcp.xml"
+description = "EEBO-TCP A29703: The Privie Key of Heaven (London, John Hancock, 1665)"
+url = "https://github.com/textcreationpartnership/A29703"
+sha256 = "b6742bf2f0d59f51fec34d28f992bf714154bd91e55e32a509d3b63f597c85b6"
+
+# Copies the edition was checked against, kept or not (one per witness):
+
+[[witness]]
+description = "Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md"
+url = "https://www.chapellibrary.org/"
+
+[[witness]]
+description = "The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665"
+
+[[witness]]
+description = "The earlier Freely Given Books copy (lightly modernized), folded in as the review"
+url = ""
