@@ -141,6 +141,17 @@
     rule:     rgb("#4A5866"),
     subtitle: rgb("#2A2A2A"),
   ),
+  // John Calvin, Institutes of the Christian Religion (six volumes).
+  // Oxblood: the second dark book on the shelf, a red where Keach's is navy,
+  // with the same cream type and gold rules, as a set of reference volumes
+  // is often bound.
+  oxblood: (
+    ground:   rgb("#3A1D22"),
+    panel:    rgb("#6A3039"),
+    ink:      rgb("#F3EBD3"),
+    rule:     rgb("#C9A24E"),
+    subtitle: rgb("#DCD4BE"),
+  ),
   // Thomas Boston, The Crook in the Lot.  Heather, for the Ettrick hills:
   // a cool violet panel, bluer than Perkins's mauve so the two do not read
   // as one hue, on a pale grey-lilac ground apart from the creams.
