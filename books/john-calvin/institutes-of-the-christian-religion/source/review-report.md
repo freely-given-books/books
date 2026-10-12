@@ -3,16 +3,17 @@
 | kind | count |
 | --- | --- |
 | spelling | 132 |
-| emendation | 55 |
+| emendation | 56 |
 | italic | 16 |
 | inset | 6 |
+| punctuation | 5 |
 | spacing | 5 |
-| punctuation | 4 |
 | grammar | 2 |
 | case | 1 |
 
 ## emendation
 
+- [vol-1/01-prefatory-address.typ note] at bottom of p . 11 , → 
 - [vol-1/01-prefatory-address.typ] be → be the
 - [vol-1/01-prefatory-address.typ] era → of a
 - [vol-1/01-prefatory-address.typ] subtleties → subtleties of
@@ -76,6 +77,7 @@
 
 ## punctuation
 
+- [vol-1/01-prefatory-address.typ note] , → 
 - [vol-1/book-1-chapter-10.typ note] . → 
 - [vol-1/book-1-chapter-10.typ note] . → . 44.
 - [vol-1/book-1-chapter-11.typ note] ; → ; also Ep. 53. et 126. lib. 2., where Gregory, while wishing to excuse the worship of
