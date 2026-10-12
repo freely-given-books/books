@@ -40,7 +40,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),
 )
 
-#set text(font: "Libertinus Serif", size: 11pt)
+#set text(font: "Libertinus Serif", size: 10.5pt)
 #include "chapters/typ/apology.typ"
 
 = PART ONE
