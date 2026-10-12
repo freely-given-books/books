@@ -72,3 +72,13 @@ EPUB = {"title": "Christian Economy", "author": "William Perkins",
         "front": "ebook-front.html", "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["christian-economy.typ"]
+
+# The genealogies of chapter 5, printed as trees (the TCP's untyped lists),
+# are diagrams: set whole, like an illustration, never across two pages.
+def DIAGRAM_LISTS(root):
+    return [l for l in root.iter(f"{{http://www.tei-c.org/ns/1.0}}list")
+            if l.get("type") is None and
+            l.getparent().tag != "{http://www.tei-c.org/ns/1.0}item"]
+
+# "&c." is written "etc.", as on the rest of the shelf.
+EXPAND_ETC = True
