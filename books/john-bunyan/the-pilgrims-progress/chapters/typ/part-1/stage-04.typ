@@ -1,3 +1,5 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE FOURTH STAGE
 
 Then he began to go forward; but Discretion, Piety, Charity, and Prudence would accompany him down to the foot of the hill. So they went on together, reiterating their former discourses, till they came to go down the hill. Then said Christian, As it was difficult coming up, so, so far as I can see, it is dangerous going down. Yes, said Prudence, so it is; for it is a hard matter for a man to go down into the valley of Humiliation, as thou art now, and to catch no slip by the way; therefore, said they, we are come out to accompany thee down the hill. So he began to go down, but very warily; yet he caught a slip or two.
@@ -13,43 +15,43 @@ But now, in this valley of Humiliation, poor Christian was hard put to it; for h
 
 So he went on, and Apollyon met him. Now the monster was hideous to behold: he was clothed with scales like a fish, and they are his pride; he had wings like a dragon, and feet like a bear, and out of his belly came fire and smoke; and his mouth was as the mouth of a lion. When he was come up to Christian, he beheld him with a disdainful countenance, and thus began to question him.
 
-Apollyon: Whence came you, and whither are you bound?
+#speech[#smallcaps[Apollyon]: Whence came you, and whither are you bound?]
 
-Christian: I am come from the city of Destruction, which is the place of all evil, and I am going to the city of Zion.
+#speech[#smallcaps[Christian]: I am come from the city of Destruction, which is the place of all evil, and I am going to the city of Zion.]
 
-Apollyon: By this I perceive thou art one of my subjects; for all that country is mine, and I am the prince and god of it. How is it, then, that thou hast run away from thy king? Were it not that I hope thou mayest do me more service, I would strike thee now at one blow to the ground.
+#speech[#smallcaps[Apollyon]: By this I perceive thou art one of my subjects; for all that country is mine, and I am the prince and god of it. How is it, then, that thou hast run away from thy king? Were it not that I hope thou mayest do me more service, I would strike thee now at one blow to the ground.]
 
-Christian: I was, indeed, born in your dominions, but your service was hard, and your wages such as a man could not live on; for the wages of sin is death, Rom. 6:23; therefore, when I was come to years, I did, as other considerate persons do, look out if perhaps I might mend myself.
+#speech[#smallcaps[Christian]: I was, indeed, born in your dominions, but your service was hard, and your wages such as a man could not live on; for the wages of sin is death, Rom. 6:23; therefore, when I was come to years, I did, as other considerate persons do, look out if perhaps I might mend myself.]
 
-Apollyon: There is no prince that will thus lightly lose his subjects, neither will I as yet lose thee; but since thou complainest of thy service and wages, be content to go back, and what our country will afford I do here promise to give thee.
+#speech[#smallcaps[Apollyon]: There is no prince that will thus lightly lose his subjects, neither will I as yet lose thee; but since thou complainest of thy service and wages, be content to go back, and what our country will afford I do here promise to give thee.]
 
-Christian: But I have let myself to another, even to the King of princes; and how can I with fairness go back with thee?
+#speech[#smallcaps[Christian]: But I have let myself to another, even to the King of princes; and how can I with fairness go back with thee?]
 
-Apollyon: Thou hast done in this according to the proverb, “changed a bad for a worse;” but it is ordinary for those that have professed themselves his servants, after a while to give him the slip, and return again to me. Do thou so too, and all shall be well.
+#speech[#smallcaps[Apollyon]: Thou hast done in this according to the proverb, “changed a bad for a worse;” but it is ordinary for those that have professed themselves his servants, after a while to give him the slip, and return again to me. Do thou so too, and all shall be well.]
 
-Christian: I have given him my faith, and sworn my allegiance to him; how then can I go back from this, and not be hanged as a traitor?
+#speech[#smallcaps[Christian]: I have given him my faith, and sworn my allegiance to him; how then can I go back from this, and not be hanged as a traitor?]
 
-Apollyon: Thou didst the same by me, and yet I am willing to pass by all, if now thou wilt yet turn again and go back.
+#speech[#smallcaps[Apollyon]: Thou didst the same by me, and yet I am willing to pass by all, if now thou wilt yet turn again and go back.]
 
-Christian: What I promised thee was in my non-age: and besides, I count that the Prince, under whose banner I now stand, is able to absolve me, yea, and to pardon also what I did as to my compliance with thee. And besides, O thou destroying Apollyon, to speak truth, I like his service, his wages, his servants, his government, his company, and country, better than thine; therefore leave off to persuade me farther: I am his servant, and I will follow him.
+#speech[#smallcaps[Christian]: What I promised thee was in my non-age: and besides, I count that the Prince, under whose banner I now stand, is able to absolve me, yea, and to pardon also what I did as to my compliance with thee. And besides, O thou destroying Apollyon, to speak truth, I like his service, his wages, his servants, his government, his company, and country, better than thine; therefore leave off to persuade me farther: I am his servant, and I will follow him.]
 
-Apollyon: Consider again, when thou art in cool blood, what thou art like to meet with in the way that thou goest. Thou knowest that for the most part his servants come to an ill end, because they are transgressors against me and my ways. How many of them have been put to shameful deaths! And besides, thou countest his service better than mine; whereas he never yet came from the place where he is, to deliver any that served him out of their enemies’ hands: but as for me, how many times, as all the world very well knows, have I delivered, either by power or fraud, those that have faithfully served me, from him and his, though taken by them! And so will I deliver thee.
+#speech[#smallcaps[Apollyon]: Consider again, when thou art in cool blood, what thou art like to meet with in the way that thou goest. Thou knowest that for the most part his servants come to an ill end, because they are transgressors against me and my ways. How many of them have been put to shameful deaths! And besides, thou countest his service better than mine; whereas he never yet came from the place where he is, to deliver any that served him out of their enemies’ hands: but as for me, how many times, as all the world very well knows, have I delivered, either by power or fraud, those that have faithfully served me, from him and his, though taken by them! And so will I deliver thee.]
 
-Christian: His forbearing at present to deliver them, is on purpose to try their love, whether they will cleave to him to the end: and as for the ill end thou sayest they come to, that is most glorious in their account. For, for present deliverance, they do not much expect it; for they stay for their glory; and then they shall have it, when their Prince comes in his and the glory of the angels.
+#speech[#smallcaps[Christian]: His forbearing at present to deliver them, is on purpose to try their love, whether they will cleave to him to the end: and as for the ill end thou sayest they come to, that is most glorious in their account. For, for present deliverance, they do not much expect it; for they stay for their glory; and then they shall have it, when their Prince comes in his and the glory of the angels.]
 
-Apollyon: Thou hast already been unfaithful in thy service to him; and how dost thou think to receive wages of him?
+#speech[#smallcaps[Apollyon]: Thou hast already been unfaithful in thy service to him; and how dost thou think to receive wages of him?]
 
-Christian: Wherein, O Apollyon, have I been unfaithful to him?
+#speech[#smallcaps[Christian]: Wherein, O Apollyon, have I been unfaithful to him?]
 
-Apollyon: Thou didst faint at first setting out, when thou wast almost choked in the gulf of Despond. Thou didst attempt wrong ways to be rid of thy burden, whereas thou shouldst have stayed till thy Prince had taken it off. Thou didst sinfully sleep, and lose thy choice things. Thou wast almost persuaded also to go back at the sight of the lions. And when thou talkest of thy journey, and of what thou hast seen and heard, thou art inwardly desirous of vainglory in all that thou sayest or doest.
+#speech[#smallcaps[Apollyon]: Thou didst faint at first setting out, when thou wast almost choked in the gulf of Despond. Thou didst attempt wrong ways to be rid of thy burden, whereas thou shouldst have stayed till thy Prince had taken it off. Thou didst sinfully sleep, and lose thy choice things. Thou wast almost persuaded also to go back at the sight of the lions. And when thou talkest of thy journey, and of what thou hast seen and heard, thou art inwardly desirous of vainglory in all that thou sayest or doest.]
 
-Christian: All this is true, and much more which thou hast left out; but the Prince whom I serve and honor is merciful, and ready to forgive. But besides, these infirmities possessed me in thy country, for there I sucked them in, and I have groaned under them, been sorry for them, and have obtained pardon of my Prince.
+#speech[#smallcaps[Christian]: All this is true, and much more which thou hast left out; but the Prince whom I serve and honor is merciful, and ready to forgive. But besides, these infirmities possessed me in thy country, for there I sucked them in, and I have groaned under them, been sorry for them, and have obtained pardon of my Prince.]
 
-Apollyon: Then Apollyon broke out into a grievous rage, saying, I am an enemy to this Prince; I hate his person, his laws, and people: I am come out on purpose to withstand thee.
+#speech[#smallcaps[Apollyon]: Then Apollyon broke out into a grievous rage, saying, I am an enemy to this Prince; I hate his person, his laws, and people: I am come out on purpose to withstand thee.]
 
-Christian: Apollyon, beware what you do, for I am in the King’s highway, the way of holiness; therefore take heed to yourself.
+#speech[#smallcaps[Christian]: Apollyon, beware what you do, for I am in the King’s highway, the way of holiness; therefore take heed to yourself.]
 
-Apollyon: Then Apollyon straddled quite over the whole breadth of the way, and said, I am void of fear in this matter. Prepare thyself to die; for I swear by my infernal den, that thou shalt go no farther: here will I spill thy soul. And with that he threw a flaming dart at his breast; but Christian had a shield in his hand, with which he caught it, and so prevented the danger of that.
+#speech[#smallcaps[Apollyon]: Then Apollyon straddled quite over the whole breadth of the way, and said, I am void of fear in this matter. Prepare thyself to die; for I swear by my infernal den, that thou shalt go no farther: here will I spill thy soul. And with that he threw a flaming dart at his breast; but Christian had a shield in his hand, with which he caught it, and so prevented the danger of that.]
 
 Then did Christian draw, for he saw it was time to bestir him; and Apollyon as fast made at him, throwing darts as thick as hail; by the which, notwithstanding all that Christian could do to avoid it, Apollyon wounded him in his head, his hand, and foot. This made Christian give a little back: Apollyon, therefore, followed his work amain, and Christian again took courage, and resisted as manfully as he could. This sore combat lasted for above half a day, even till Christian was almost quite spent: for you must know, that Christian, by reason of his wounds, must needs grow weaker and weaker.
 
@@ -76,25 +78,25 @@ Now here Christian was worse put to it than in his fight with Apollyon, as by th
 
 I saw then in my dream, that when Christian was got to the borders of the Shadow of Death, there met him two men, children of them that brought up an evil report of the good land, Num. 13:32, making haste to go back; to whom Christian spake as follows.
 
-Christian: Whither are you going?
+#speech[#smallcaps[Christian]: Whither are you going?]
 
-The Two Men: They said, Back, back; and we would have you do so too, if either life or peace is prized by you.
+#speech[#smallcaps[The Two Men]: They said, Back, back; and we would have you do so too, if either life or peace is prized by you.]
 
-Christian: Why, what’s the matter? said Christian.
+#speech[#smallcaps[Christian]: Why, what’s the matter? said Christian.]
 
-The Two Men: Matter! said they; we were going that way as you are going, and went as far as we durst: and indeed we were almost past coming back; for had we gone a little further, we had not been here to bring the news to thee.
+#speech[#smallcaps[The Two Men]: Matter! said they; we were going that way as you are going, and went as far as we durst: and indeed we were almost past coming back; for had we gone a little further, we had not been here to bring the news to thee.]
 
-Christian: But what have you met with? said Christian.
+#speech[#smallcaps[Christian]: But what have you met with? said Christian.]
 
-The Two Men: Why, we were almost in the Valley of the Shadow of Death, but that by good hap we looked before us, and saw the danger before we came to it. Psa. 44:19; 107:19.
+#speech[#smallcaps[The Two Men]: Why, we were almost in the Valley of the Shadow of Death, but that by good hap we looked before us, and saw the danger before we came to it. Psa. 44:19; 107:19.]
 
-Christian: But what have you seen? said Christian.
+#speech[#smallcaps[Christian]: But what have you seen? said Christian.]
 
-The Two Men: Seen! why the valley itself, which is as dark as pitch: we also saw there the hobgoblins, satyrs, and dragons of the pit: we heard also in that valley a continual howling and yelling, as of a people under unutterable misery, who there sat bound in affliction and irons: and over that valley hang the discouraging clouds of confusion: Death also doth always spread his wings over it. In a word, it is every whit dreadful, being utterly without order. Job 3:5; 10:22.
+#speech[#smallcaps[The Two Men]: Seen! why the valley itself, which is as dark as pitch: we also saw there the hobgoblins, satyrs, and dragons of the pit: we heard also in that valley a continual howling and yelling, as of a people under unutterable misery, who there sat bound in affliction and irons: and over that valley hang the discouraging clouds of confusion: Death also doth always spread his wings over it. In a word, it is every whit dreadful, being utterly without order. Job 3:5; 10:22.]
 
-Christian: Then, said Christian, I perceive not yet, by what you have said, but that this is my way to the desired haven. Psalm 44:18,19; Jer. 2:6.
+#speech[#smallcaps[Christian]: Then, said Christian, I perceive not yet, by what you have said, but that this is my way to the desired haven. Psalm 44:18,19; Jer. 2:6.]
 
-The Two Men: Be it thy way; we will not choose it for ours.
+#speech[#smallcaps[The Two Men]: Be it thy way; we will not choose it for ours.]
 
 So they parted, and Christian went on his way, but still with his sword drawn in his hand, for fear lest he should be assaulted.
 

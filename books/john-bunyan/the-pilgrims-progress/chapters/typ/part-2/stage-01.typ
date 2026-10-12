@@ -1,22 +1,24 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE FIRST STAGE
 
 By this time Christiana was got on her way, and Mercy went along with her: so as they went, her children being there also, Christiana began to discourse. And, Mercy, said Christiana, I take this as an unexpected favor, that thou shouldest set forth out of doors with me to accompany me a little in the way.
 
-Mercy: Then said young Mercy, (for she was but young,) If I thought it would be to purpose to go with you, I would never go near the town any more.
+#speech[#smallcaps[Mercy]: Then said young Mercy, (for she was but young,) If I thought it would be to purpose to go with you, I would never go near the town any more.]
 
-Christiana: Well, Mercy, said Christiana, cast in thy lot with me: I well know what will be the end of our pilgrimage: my husband is where he would not but be for all the gold in the Spanish mines. Nor shalt thou be rejected, though thou goest but upon my invitation. The King, who hath sent for me and my children, is one that delighteth in mercy. Besides, if thou wilt, I will hire thee, and thou shalt go along with me as my servant. Yet we will have all things in common betwixt thee and me: only go along with me.
+#speech[#smallcaps[Christiana]: Well, Mercy, said Christiana, cast in thy lot with me: I well know what will be the end of our pilgrimage: my husband is where he would not but be for all the gold in the Spanish mines. Nor shalt thou be rejected, though thou goest but upon my invitation. The King, who hath sent for me and my children, is one that delighteth in mercy. Besides, if thou wilt, I will hire thee, and thou shalt go along with me as my servant. Yet we will have all things in common betwixt thee and me: only go along with me.]
 
-Mercy: But how shall I be ascertained that I also should be entertained? Had I this hope but from one that can tell, I would make no stick at all, but would go, being helped by Him that can help, though the way was never so tedious.
+#speech[#smallcaps[Mercy]: But how shall I be ascertained that I also should be entertained? Had I this hope but from one that can tell, I would make no stick at all, but would go, being helped by Him that can help, though the way was never so tedious.]
 
-Christiana: Well, loving Mercy, I will tell thee what thou shalt do: go with me to the Wicket-gate, and there I will further inquire for thee; and if there thou shalt not meet with encouragement, I will be content that thou return to thy place: I will also pay thee for thy kindness which thou showest to me and my children, in the accompanying of us in the way that thou dost.
+#speech[#smallcaps[Christiana]: Well, loving Mercy, I will tell thee what thou shalt do: go with me to the Wicket-gate, and there I will further inquire for thee; and if there thou shalt not meet with encouragement, I will be content that thou return to thy place: I will also pay thee for thy kindness which thou showest to me and my children, in the accompanying of us in the way that thou dost.]
 
-Mercy: Then will I go thither, and will take what shall follow; and the Lord grant that my lot may there fall, even as the King of heaven shall have his heart upon me.
+#speech[#smallcaps[Mercy]: Then will I go thither, and will take what shall follow; and the Lord grant that my lot may there fall, even as the King of heaven shall have his heart upon me.]
 
 Christiana then was glad at heart, not only that she had a companion, but also for that she had prevailed with this poor maid to fall in love with her own salvation. So they went on together, and Mercy began to weep. Then said Christiana, Wherefore weepeth my sister so?
 
-Mercy: Alas! said she, who can but lament, that shall but rightly consider what a state and condition my poor relations are in, that yet remain in our sinful town? And that which makes my grief the more heavy is, because they have no instructor, nor any to tell them what is to come.
+#speech[#smallcaps[Mercy]: Alas! said she, who can but lament, that shall but rightly consider what a state and condition my poor relations are in, that yet remain in our sinful town? And that which makes my grief the more heavy is, because they have no instructor, nor any to tell them what is to come.]
 
-Christiana: Pity becomes pilgrims; and thou dost weep for thy friends, as my good Christian did for me when he left me: he mourned for that I would not heed nor regard him; but his Lord and ours did gather up his tears, and put them into his bottle; and now both I and thou, and these my sweet babes, are reaping the fruit and benefit of them. I hope, Mercy, that these tears of thine will not be lost; for the truth hath said, that “they that sow in tears shall reap in joy.” And “he that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.” Psa. 126:5,6.
+#speech[#smallcaps[Christiana]: Pity becomes pilgrims; and thou dost weep for thy friends, as my good Christian did for me when he left me: he mourned for that I would not heed nor regard him; but his Lord and ours did gather up his tears, and put them into his bottle; and now both I and thou, and these my sweet babes, are reaping the fruit and benefit of them. I hope, Mercy, that these tears of thine will not be lost; for the truth hath said, that “they that sow in tears shall reap in joy.” And “he that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.” Psa. 126:5,6.]
 
 Then said Mercy,
 
@@ -55,7 +57,7 @@ Then he took her by the hand and led her in, and said also, Suffer little childr
 
 Now all this while poor Mercy did stand without, trembling and crying, for fear that she was rejected. But when Christiana had got admittance for herself and her boys, then she began to make intercession for Mercy.
 
-Christiana: And she said, My Lord, I have a companion that stands yet without, that is come hither upon the same account as myself: one that is much dejected in her mind, for that she comes, as she thinks, without sending for; whereas I was sent for by my husband’s King to come.
+#speech[#smallcaps[Christiana]: And she said, My Lord, I have a companion that stands yet without, that is come hither upon the same account as myself: one that is much dejected in her mind, for that she comes, as she thinks, without sending for; whereas I was sent for by my husband’s King to come.]
 
 Now Mercy began to be very impatient, and each minute was as long to her as an hour; wherefore she prevented Christiana from a fuller interceding for her, by knocking at the gate herself. And she knocked then so loud that she made Christiana to start. Then said the keeper of the gate, Who is there? And Christiana said, It is my friend.
 
@@ -65,11 +67,11 @@ Then he took her by the hand, and said, Damsel, I bid thee arise.
 
 Oh, sir, said she, I am faint; there is scarce life left in me. But he answered, that one once said, “When my soul fainted within me I remembered the Lord: and my prayer came unto thee, into thy holy temple.” Jonah 2:7. Fear not, but stand upon thy feet, and tell me wherefore thou art come.
 
-Mercy: I am come for that unto which I was never invited, as my friend Christiana was. Hers was from the King, and mine was but from her. Wherefore I fear I presume.
+#speech[#smallcaps[Mercy]: I am come for that unto which I was never invited, as my friend Christiana was. Hers was from the King, and mine was but from her. Wherefore I fear I presume.]
 
-Keep: Did she desire thee to come with her to this place?
+#speech[#smallcaps[Keep]: Did she desire thee to come with her to this place?]
 
-Mercy: Yes; and, as my Lord sees, I am come. And if there is any grace and forgiveness of sins to spare, I beseech that thy poor handmaid may be a partaker thereof.
+#speech[#smallcaps[Mercy]: Yes; and, as my Lord sees, I am come. And if there is any grace and forgiveness of sins to spare, I beseech that thy poor handmaid may be a partaker thereof.]
 
 Then he took her again by the hand, and led her gently in, and said, I pray for all them that believe on me, by what means soever they come unto me. Then said he to those that stood by, Fetch something and give it to Mercy to smell on, thereby to stay her faintings; so they fetched her a bundle of myrrh, and a while after she was revived.
 
@@ -81,19 +83,19 @@ Now I saw in my dream, that he spake many good words unto them, whereby they wer
 
 So he left them awhile in a summer parlor below, where they entered into talk by themselves; and thus Christiana began. O how glad am I that we are got in hither.
 
-Mercy: So you well may; but I, of all, have cause to leap for joy.
+#speech[#smallcaps[Mercy]: So you well may; but I, of all, have cause to leap for joy.]
 
-Christiana: I thought one time, as I stood at the gate, because I had knocked and none did answer, that all our labor had been lost, especially when that ugly cur made such a heavy barking against us.
+#speech[#smallcaps[Christiana]: I thought one time, as I stood at the gate, because I had knocked and none did answer, that all our labor had been lost, especially when that ugly cur made such a heavy barking against us.]
 
-Mercy: But my worst fear was after I saw that you was taken into his favor, and that I was left behind. Now, thought I, it is fulfilled which is written, “Two women shall be grinding at the mill; the one shall be taken, and the other left.” Matt. 24:41. I had much ado to forbear crying out, Undone! And afraid I was to knock any more; but when I looked up to what was written over the gate, I took courage. I also thought that I must either knock again, or die; so I knocked, but I cannot tell how, for my spirit now struggled between life and death.
+#speech[#smallcaps[Mercy]: But my worst fear was after I saw that you was taken into his favor, and that I was left behind. Now, thought I, it is fulfilled which is written, “Two women shall be grinding at the mill; the one shall be taken, and the other left.” Matt. 24:41. I had much ado to forbear crying out, Undone! And afraid I was to knock any more; but when I looked up to what was written over the gate, I took courage. I also thought that I must either knock again, or die; so I knocked, but I cannot tell how, for my spirit now struggled between life and death.]
 
-Christiana: Can you not tell how you knocked? I am sure your knocks were so earnest that the very sound of them made me start; I thought I never heard such knocking in all my life; I thought you would come in by a violent hand, or take the kingdom by storm. Matt. 11:12.
+#speech[#smallcaps[Christiana]: Can you not tell how you knocked? I am sure your knocks were so earnest that the very sound of them made me start; I thought I never heard such knocking in all my life; I thought you would come in by a violent hand, or take the kingdom by storm. Matt. 11:12.]
 
-Mercy: Alas! to be in my case, who that so was could but have done so? You saw that the door was shut upon me, and there was a most cruel dog thereabout. Who, I say, that was so faint-hearted as I, would not have knocked with all their might? But pray, what said my Lord to my rudeness? Was he not angry with me?
+#speech[#smallcaps[Mercy]: Alas! to be in my case, who that so was could but have done so? You saw that the door was shut upon me, and there was a most cruel dog thereabout. Who, I say, that was so faint-hearted as I, would not have knocked with all their might? But pray, what said my Lord to my rudeness? Was he not angry with me?]
 
-Christiana: When he heard your lumbering noise, he gave a wonderful innocent smile; I believe what you did pleased him well, for he showed no sign to the contrary. But I marvel in my heart why he keeps such a dog: had I known that before, I should not have had heart enough to have ventured myself in this manner. But now we are in, we are in, and I am glad with all my heart.
+#speech[#smallcaps[Christiana]: When he heard your lumbering noise, he gave a wonderful innocent smile; I believe what you did pleased him well, for he showed no sign to the contrary. But I marvel in my heart why he keeps such a dog: had I known that before, I should not have had heart enough to have ventured myself in this manner. But now we are in, we are in, and I am glad with all my heart.]
 
-Mercy: I will ask, if you please, next time he comes down, why he keeps such a filthy cur in his yard; I hope he will not take it amiss.
+#speech[#smallcaps[Mercy]: I will ask, if you please, next time he comes down, why he keeps such a filthy cur in his yard; I hope he will not take it amiss.]
 
 Do so, said the children, and persuade him to hang him; for we are afraid he will bite us when we go hence.
 
@@ -103,6 +105,6 @@ So he said unto her, Peace be to thee; stand up. But she continued upon her face
 
 He answered and said, That dog has another owner; he also is kept close in another man’s ground, only my pilgrims hear his barking; he belongs to the castle which you see there at a distance, but can come up to the walls of this place. He has frighted many an honest pilgrim from worse to better, by the great voice of his roaring. Indeed, he that owneth him doth not keep him out of any good-will to me or mine, but with intent to keep the pilgrims from coming to me, and that they may be afraid to come and knock at this gate for entrance. Sometimes also he has broken out, and has worried some that I loved; but I take all at present patiently. I also give my pilgrims timely help, so that they are not delivered to his power, to do with them what his doggish nature would prompt him to. But what my purchased one, I trow, hadst thou known never so much beforehand, thou wouldest not have been afraid of a dog. The beggars that go from door to door, will, rather than lose a supposed alms, run the hazard of the bawling, barking, and biting too of a dog; and shall a dog, a dog in another man’s yard, a dog whose barking I turn to the profit of pilgrims, keep any from coming to me? I deliver them from the lions, and my darling from the power of the dog. Psa. 22:21,22.
 
-Mercy: Then said Mercy, I confess my ignorance; I spake what I understood not; I acknowledge that thou doest all things well.
+#speech[#smallcaps[Mercy]: Then said Mercy, I confess my ignorance; I spake what I understood not; I acknowledge that thou doest all things well.]
 
-Christiana: Then Christiana began to talk of their journey, and to inquire after the way. So he fed them and washed their feet, and set them in the way of his steps, according as he had dealt with her husband before.
+#speech[#smallcaps[Christiana]: Then Christiana began to talk of their journey, and to inquire after the way. So he fed them and washed their feet, and set them in the way of his steps, according as he had dealt with her husband before.]

@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.6.1": *
+#import "@local/fgbooks:0.6.2": *
 
 
 
@@ -37,11 +37,10 @@
       by John Bunyan
     ]
   ],
-  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.125in),
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),
 )
 
-#set text(font: "Libertinus Serif", size: 11pt)
-#set par(first-line-indent: 0em, spacing: 1.5em)
+#set text(font: "Libertinus Serif", size: 10.5pt)
 #include "chapters/typ/apology.typ"
 
 = PART ONE

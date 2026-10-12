@@ -30,6 +30,19 @@ QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 # has them (Liberation Serif, to 0.5.5, did not; they were set bold).
 SMALLCAPS = "smallcaps"
 
+# Dialogue set as in a play: each speech starts at the margin with the
+# speaker's name in small capitals and hangs its other lines (fgbooks
+# #speech), so the narrative between keeps an ordinary paragraph indent.
+# The verse sections' stanzas are set apart, unindented (#stanza).
+SPEECH_BLOCKS = True
+STANZA_BLOCKS = True
+# Typst evaluates each chapter file on its own: it imports #speech and
+# #stanza from the template version the book uses.
+TYPST_PREAMBLE = '#import "@local/fgbooks:{}": speech, stanza'.format(
+    __import__("re").search(r"@local/fgbooks:([0-9.]+)", open(
+        __import__("pathlib").Path(__file__).parent.parent /
+        "the-pilgrims-progress.typ").read()).group(1))
+
 STAGES = ["FIRST", "SECOND", "THIRD", "FOURTH", "FIFTH", "SIXTH", "SEVENTH",
           "EIGHTH", "NINTH", "TENTH"]
 

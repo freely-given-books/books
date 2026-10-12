@@ -1,14 +1,16 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE SIXTH STAGE
 
 Now when they were got almost quite out of this wilderness, Faithful chanced to cast his eye back, and espied one coming after them, and he knew him. Oh! said Faithful to his brother, who comes yonder? Then Christian looked, and said, It is my good friend Evangelist. Aye, and my good friend too, said Faithful, for ’twas he that set me on the way to the gate. Now was Evangelist come up unto them, and thus saluted them.
 
-Evangelist: Peace be with you, dearly beloved, and peace be to your helpers.
+#speech[#smallcaps[Evangelist]: Peace be with you, dearly beloved, and peace be to your helpers.]
 
-Christian: Welcome, welcome, my good Evangelist: the sight of thy countenance brings to my remembrance thy ancient kindness and unwearied labors for my eternal good.
+#speech[#smallcaps[Christian]: Welcome, welcome, my good Evangelist: the sight of thy countenance brings to my remembrance thy ancient kindness and unwearied labors for my eternal good.]
 
-Faithful: And a thousand times welcome, said good Faithful, thy company, O sweet Evangelist; how desirable is it to us poor pilgrims!
+#speech[#smallcaps[Faithful]: And a thousand times welcome, said good Faithful, thy company, O sweet Evangelist; how desirable is it to us poor pilgrims!]
 
-Evangelist: Then said Evangelist, How hath it fared with you, my friends, since the time of our last parting? What have you met with, and how have you behaved yourselves?
+#speech[#smallcaps[Evangelist]: Then said Evangelist, How hath it fared with you, my friends, since the time of our last parting? What have you met with, and how have you behaved yourselves?]
 
 Then Christian and Faithful told him of all things that had happened to them in the way; and how, and with what difficulty, they had arrived to that place.
 
@@ -16,9 +18,9 @@ Right glad am I, said Evangelist, not that you have met with trials, but that yo
 
 I say, right glad am I of this thing, and that for mine own sake and yours: I have sowed, and you have reaped; and the day is coming, when “both he that soweth, and they that reap, shall rejoice together,” John 4:36; that is, if you hold out: “for in due season ye shall reap, if ye faint not.” Gal. 6:9. The crown is before you, and it is an incorruptible one; “so run that ye may obtain it.” 1 Cor. 9:24-27. Some there be that set out for this crown, and after they have gone far for it, another comes in and takes it from them: “hold fast, therefore, that you have; let no man take your crown.” Rev. 3:11. You are not yet out of the gunshot of the devil; “you have not resisted unto blood, striving against sin.” Let the kingdom be always before you, and believe steadfastly concerning the things that are invisible. Let nothing that is on this side the other world get within you. And, above all, look well to your own hearts and to the lusts thereof; for they are “deceitful above all things, and desperately wicked.” Set your faces like a flint; you have all power in heaven and earth on your side.
 
-Christian: Then Christian thanked him for his exhortations; but told him withal, that they would have him speak farther to them for their help the rest of the way; and the rather, for that they well knew that he was a prophet, and could tell them of things that might happen unto them, and also how they might resist and overcome them. To which request Faithful also consented. So Evangelist began as followeth.
+#speech[#smallcaps[Christian]: Then Christian thanked him for his exhortations; but told him withal, that they would have him speak farther to them for their help the rest of the way; and the rather, for that they well knew that he was a prophet, and could tell them of things that might happen unto them, and also how they might resist and overcome them. To which request Faithful also consented. So Evangelist began as followeth.]
 
-Evangelist: My sons, you have heard in the word of the truth of the Gospel, that you must “through many tribulations enter into the kingdom of heaven;” and again, that “in every city, bonds and afflictions abide you;” and therefore you cannot expect that you should go long on your pilgrimage without them, in some sort or other. You have found something of the truth of these testimonies upon you already, and more will immediately follow: for now, as you see, you are almost out of this wilderness, and therefore you will soon come into a town that you will by and by see before you; and in that town you will be hardly beset with enemies, who will strain hard but they will kill you; and be you sure that one or both of you must seal the testimony which you hold, with blood; but “be you faithful unto death, and the King will give you a crown of life.” He that shall die there, although his death will be unnatural, and his pain, perhaps, great, he will yet have the better of his fellow; not only because he will be arrived at the Celestial City soonest, but because he will escape many miseries that the other will meet with in the rest of his journey. But when you are come to the town, and shall find fulfilled what I have here related, then remember your friend, and quit yourselves like men, and “commit the keeping of your souls to God in well doing, as unto a faithful Creator.”
+#speech[#smallcaps[Evangelist]: My sons, you have heard in the word of the truth of the Gospel, that you must “through many tribulations enter into the kingdom of heaven;” and again, that “in every city, bonds and afflictions abide you;” and therefore you cannot expect that you should go long on your pilgrimage without them, in some sort or other. You have found something of the truth of these testimonies upon you already, and more will immediately follow: for now, as you see, you are almost out of this wilderness, and therefore you will soon come into a town that you will by and by see before you; and in that town you will be hardly beset with enemies, who will strain hard but they will kill you; and be you sure that one or both of you must seal the testimony which you hold, with blood; but “be you faithful unto death, and the King will give you a crown of life.” He that shall die there, although his death will be unnatural, and his pain, perhaps, great, he will yet have the better of his fellow; not only because he will be arrived at the Celestial City soonest, but because he will escape many miseries that the other will meet with in the rest of his journey. But when you are come to the town, and shall find fulfilled what I have here related, then remember your friend, and quit yourselves like men, and “commit the keeping of your souls to God in well doing, as unto a faithful Creator.”]
 
 Then I saw in my dream, that when they were got out of the wilderness, they presently saw a town before them, and the name of that town is Vanity; and at the town there is a fair kept, called Vanity Fair. It is kept all the year long. It beareth the name of Vanity Fair, because the town where it is kept is lighter than vanity, Psa. 62:9; and also because all that is there sold, or that cometh thither, is vanity; as is the saying of the wise, “All that cometh is vanity.” Eccl. 11:8; see also 1:2-14; 2:11-17; Isa. 40:17.
 
@@ -56,29 +58,29 @@ Then proclamation was made, that they that had aught to say for their lord the k
 
 Then stood forth Envy, and said to this effect: My lord, I have known this man a long time, and will attest upon my oath before this honorable bench, that he is—
 
-Judge: Hold; give him his oath.
+#speech[#smallcaps[Judge]: Hold; give him his oath.]
 
 So they sware him. Then he said, My lord, this man, notwithstanding his plausible name, is one of the vilest men in our country; he neither regardeth prince nor people, law nor custom, but doeth all that he can to possess all men with certain of his disloyal notions, which he in the general calls principles of faith and holiness. And in particular, I heard him once myself affirm, that Christianity and the customs of our town of Vanity were diametrically opposite, and could not be reconciled. By which saying, my lord, he doth at once not only condemn all our laudable doings, but us in the doing of them.
 
 Then did the judge say to him, Hast thou any more to say?
 
-Envy: My lord, I could say much more, only I would not be tedious to the court. Yet if need be, when the other gentlemen have given in their evidence, rather than any thing shall be wanting that will dispatch him, I will enlarge my testimony against him. So he was bid to stand by.
+#speech[#smallcaps[Envy]: My lord, I could say much more, only I would not be tedious to the court. Yet if need be, when the other gentlemen have given in their evidence, rather than any thing shall be wanting that will dispatch him, I will enlarge my testimony against him. So he was bid to stand by.]
 
 Then they called Superstition, and bid him look upon the prisoner. They also asked, what he could say for their lord the king against him. Then they sware him; so he began.
 
-Superstition: My lord, I have no great acquaintance with this man, nor do I desire to have further knowledge of him. However, this I know, that he is a very pestilent fellow, from some discourse that I had with him the other day, in this town; for then, talking with him, I heard him say, that our religion was naught, and such by which a man could by no means please God. Which saying of his, my lord, your lordship very well knows what necessarily thence will follow, to wit, that we still do worship in vain, are yet in our sins, and finally shall be damned: and this is that which I have to say.
+#speech[#smallcaps[Superstition]: My lord, I have no great acquaintance with this man, nor do I desire to have further knowledge of him. However, this I know, that he is a very pestilent fellow, from some discourse that I had with him the other day, in this town; for then, talking with him, I heard him say, that our religion was naught, and such by which a man could by no means please God. Which saying of his, my lord, your lordship very well knows what necessarily thence will follow, to wit, that we still do worship in vain, are yet in our sins, and finally shall be damned: and this is that which I have to say.]
 
 Then was Pickthank sworn, and bid say what he knew in the behalf of their lord the king against the prisoner at the bar.
 
-Pickthank: My lord, and you gentlemen all, this fellow I have known of a long time, and have heard him speak things that ought not to be spoken; for he hath railed on our noble prince Beelzebub, and hath spoken contemptibly of his honorable friends, whose names are, the Lord Old Man, the Lord Carnal Delight, the Lord Luxurious, the Lord Desire of Vain Glory, my old Lord Lechery, Sir Having Greedy, with all the rest of our nobility: and he hath said, moreover, that if all men were of his mind, if possible, there is not one of these noblemen should have any longer a being in this town. Besides, he hath not been afraid to rail on you, my lord, who are now appointed to be his judge, calling you an ungodly villain, with many other such like vilifying terms, with which he hath bespattered most of the gentry of our town.
+#speech[#smallcaps[Pickthank]: My lord, and you gentlemen all, this fellow I have known of a long time, and have heard him speak things that ought not to be spoken; for he hath railed on our noble prince Beelzebub, and hath spoken contemptibly of his honorable friends, whose names are, the Lord Old Man, the Lord Carnal Delight, the Lord Luxurious, the Lord Desire of Vain Glory, my old Lord Lechery, Sir Having Greedy, with all the rest of our nobility: and he hath said, moreover, that if all men were of his mind, if possible, there is not one of these noblemen should have any longer a being in this town. Besides, he hath not been afraid to rail on you, my lord, who are now appointed to be his judge, calling you an ungodly villain, with many other such like vilifying terms, with which he hath bespattered most of the gentry of our town.]
 
 When this Pickthank had told his tale, the judge directed his speech to the prisoner at the bar, saying, Thou runagate, heretic, and traitor, hast thou heard what these honest gentlemen have witnessed against thee?
 
-Faithful: May I speak a few words in my own defence?
+#speech[#smallcaps[Faithful]: May I speak a few words in my own defence?]
 
-Judge: Sirrah, sirrah, thou deservest to live no longer, but to be slain immediately upon the place; yet, that all men may see our gentleness towards thee, let us hear what thou, vile runagate, hast to say.
+#speech[#smallcaps[Judge]: Sirrah, sirrah, thou deservest to live no longer, but to be slain immediately upon the place; yet, that all men may see our gentleness towards thee, let us hear what thou, vile runagate, hast to say.]
 
-Faithful: 1\. I say, then, in answer to what Mr. Envy hath spoken, I never said aught but this, that what rule, or laws, or custom, or people, were flat against the word of God, are diametrically opposite to Christianity. If I have said amiss in this, convince me of my error, and I am ready here before you to make my recantation.
+#speech[#smallcaps[Faithful]: 1\. I say, then, in answer to what Mr. Envy hath spoken, I never said aught but this, that what rule, or laws, or custom, or people, were flat against the word of God, are diametrically opposite to Christianity. If I have said amiss in this, convince me of my error, and I am ready here before you to make my recantation.]
 
 2\. As to the second, to wit, Mr. Superstition, and his charge against me, I said only this, that in the worship of God there is required a divine faith; but there can be no divine faith without a divine revelation of the will of God. Therefore, whatever is thrust into the worship of God that is not agreeable to divine revelation, cannot be done but by a human faith; which faith will not be profitable to eternal life.
 
