@@ -139,4 +139,4 @@ Thirty-odd places. Examples: "cried, you are" → "You"; "said Hopeful, let us" 
 - [x] `./fgb check pilgrim` OK (23/23 identical).
 - [x] `./fgb build pilgrim`: 404 pages, the same as main; inside margin 1.125in (Lulu 1.125in for 401–600 pages); nothing within 0.5in of the trim; the cover is set for 404 pages; epubcheck reports 0 errors and 0 warnings.
 - [x] The PDF text has no wrongly curled quotes and no stray markup.
-- [ ] Questions 1–8 are open. Questions 1 and 2 restore lost text and should be settled before printing. Question 10 needs a pipeline change.
+- [x] Questions 1–11 decided 2026-10-03 and applied (see "Needs your decision"). Formerly: Questions 1–8 are open. Questions 1 and 2 restore lost text and should be settled before printing. Question 10 needs a pipeline change.

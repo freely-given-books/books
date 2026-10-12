@@ -163,4 +163,4 @@ About a dozen places were brought into line with the book's style. In arg-08, "G
 - [x] `./fgb check brooks` OK. In step [2], 17 files differ from the extraction only by layout lines and a blank line after the heading; this was true before the branch.
 - [x] `./fgb build brooks`: 293 pages; inside margin 1.0in (Lulu 1.0in); nothing within 0.5in of the trim; the spine (0.73in) matches 293 pages; epubcheck reports 0 errors and 0 warnings.
 - [x] The PDF text has no wrongly curled quotes and no stray markup.
-- [ ] Questions 1–14 are open. Questions 1–4 and 6 change the text, so the book should wait for them before printing.
+- [x] Questions 1–15 decided 2026-10-03 and applied (see "Needs your decision"). Formerly: Questions 1–14 are open. Questions 1–4 and 6 change the text, so the book should wait for them before printing.

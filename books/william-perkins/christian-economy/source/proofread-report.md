@@ -178,4 +178,4 @@ There are about 60 edits in `chapters/typ`, all synced into the TEI.
 - [x] `./fgb check`: OK. The rebuild matches, the TEI is valid, the orig layer matches the TCP and the book compiles. chapter-05 differs from the extraction only by the known layout `#linebreak()`.
 - [x] `./fgb build`: 124 pages, within Lulu's margins (inside 0.625in), and no footnote warnings. epubcheck reports 0 errors and 0 warnings.
 - [x] PDF text: no quotes curled the wrong way and no stray markup.
-- [ ] **Shelf ready once the questions above are answered.** Questions 1, 5, 8 and 9 touch the sense of the text.
+- [x] **Questions 1–14 decided 2026-10-03 and applied** (see "Needs your decision"). Formerly: shelf ready once the questions above are answered. Questions 1, 5, 8 and 9 touch the sense of the text.
