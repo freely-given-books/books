@@ -1,6 +1,6 @@
 ---
 name: eebo-tcp-book
-description: Add a new book to Freely Given Books, or build one — the TEI pipeline in colophon/ that turns an EEBO-TCP or Evans transcription or a CCEL text (and the user's own published copy, if any) into an enriched TEI master, modern-spelling Typst chapters, a print PDF to Lulu's rules with its cover, and an EPUB 3. Use this whenever the user wants to add, start or "do" a new book (by title, author, an A#####/N##### id, a quod.lib.umich.edu or CCEL link), bring their own copy of a book into the pipeline ("merge it in", "reference it with my work"), compare a copy with a witness such as Monergism or Chapel Library, or build books: ./fgb build/pdf/epub, print PDFs, covers and spines, EPUBs, epubcheck, Lulu margin or footnote warnings, page counts. Also for rebuilding the TEI after editing chapters/typ, macron or gap decisions, review-report.md, spelling.py. Use it even when the request only names one step ("rebuild the TEI", "build the Perkins ebook", "Sinners in the Hands next"), because the steps depend on each other. For proofreading or reviewing a book's text, use book-review instead.
+description: Add a new book to Freely Given Books, or build one — the TEI pipeline in colophon/ that turns an EEBO-TCP or Evans transcription or a CCEL text (and the user's own published copy, if any) into an enriched TEI master, modern-spelling Typst chapters, a print PDF to Lulu's rules with its cover, and an EPUB 3. Use this whenever the user wants to add, start or "do" a new book (by title, author, an A#####/N##### id, a quod.lib.umich.edu or CCEL link), bring their own copy of a book into the pipeline ("merge it in", "reference it with my work"), compare a copy with a witness such as Monergism or Chapel Library, check a CCEL text against the original printing it was keyed from (archive.org OCR and page images, one agent per volume), split a long work into volumes, or build books: ./fgb build/pdf/epub, print PDFs, covers and spines, EPUBs, epubcheck, Lulu margin or footnote warnings, page counts. Also for rebuilding the TEI after editing chapters/typ, macron or gap decisions, review-report.md, spelling.py. Use it even when the request only names one step ("rebuild the TEI", "build the Perkins ebook", "Sinners in the Hands next"), because the steps depend on each other. For proofreading or reviewing a book's text, use book-review instead.
 ---
 
 # EEBO-TCP book pipeline
@@ -82,6 +82,12 @@ books repository's `CLAUDE.md` ("Modern witnesses") says how to reach both
 and how to tell a real witness from a mirror of CCEL or Monergism. List them
 all in `source/SOURCES.md`.
 
+**A CCEL base** (the user's preference when CCEL has the book) needs more:
+which reprint CCEL keyed (its apparatus may be in copyright), the original
+printing on archive.org to check CCEL against, the volume split for a long
+work, and CCEL's own defects (commas keyed as "s", Greek and Hebrew in font
+codes, dropped lines). Read `references/ccel-books.md` before building.
+
 **Check the structure before going further.** Without further setup the
 scripts handle `div[@type="dedication"]` and `div[@type="chapter"]` with an
 `@n` (one file each: `dedication.typ`, `chapter-NN.typ`), which fits
@@ -154,6 +160,17 @@ page-image id (`tcp:NNNN:NN`) and the words around it. Copy Perkins's
   own heading macro, e.g. Simon Magus's
   `#import "../../common.typ": chapter` + `#chapter[{title}][{short}]`.
 
+- **Edition formatting** (all opt-in; colophon/CLAUDE.md has the encodings):
+  `EDITION_HEADINGS = True` lets `===`/`====` lines below a file title be the
+  edition's own headings (Brooks's outline; Owen's parts, rules and nine
+  directions, which made his nested lists followable). `SMALLCAPS =
+  "smallcaps"` for CCEL small caps. `SPEECH_BLOCKS` / `STANZA_BLOCKS` set
+  dialogue as hung speeches with the speaker in small caps and verse
+  sections stanza by stanza (Pilgrim's Progress); chapters then need
+  `TYPST_PREAMBLE = '#import "@local/fgbooks:X.Y.Z": speech, stanza'`, because
+  Typst evaluates each included chapter on its own. `EPUB["toc_depth"]` 3 or 4
+  lists edition headings in the ebook contents.
+
 - **Machine-pass switches** (all off by default; see colophon/CLAUDE.md "Book
   settings"): `SPELLING`, `MODERNIZE_NOTES`, `LATIN_RUNS`,
   `DROP_FOREIGN_GAPS`, `GAP_NOTES`, `EXPAND_ETC`, `DROP_CAP_CASE`,
@@ -172,8 +189,10 @@ $PY ../../../../colophon/tei_extract.py <book>.tei.xml ../chapters/typ --layer r
 ```
 
 Then set up the book files by copying a recent book's (Grace Abounding,
-Pilgrim's Progress) and changing the text: `<book>.typ` (print,
-`@local/fgbooks:0.5.5`, 5.5x8.5 by default), `cover.typ`
+Pilgrim's Progress) and changing the text: `<book>.typ` (print, the
+newest template, `@local/fgbooks:0.6.2` as of 2026-10: Libertinus Serif with
+real small capitals; 5.5x8.5 by default; a book that sets its own size writes
+`#set text(font: "Libertinus Serif", size: 10.5pt)`, never Liberation), `cover.typ`
 (`scripts/panel_cover.typ`, one palette per author: Bunyan is ochre; it is
 also the ebook cover, `"cover": "cover.typ"`), `ebook-front.html`,
 `ebook-override.css`, `README.md`, and `EPUB`/`PRINT` in `editorial.py`
@@ -187,7 +206,13 @@ on another page than its marker (Typst's widow control or a crowded page;
 accept it: no per-paragraph layout in `chapters/typ`, which must be what the
 TEI gives back; a fix belongs in the template). A running head that wraps
 breaks the top margin: give long titles a short one with `#metadata[Short]
-<short>` before the `#include`. Covers need no page-count edits: `./fgb
+<short>` before the `#include` (fgbooks 0.6.1 shrinks an over-long head to
+fit, to 70%). The contents list uses the same short titles, so make them say
+what the chapter is ("Chapter 2: What It Is to Know God", Calvin), not just
+its number. Footnotes: the user accepts a paragraph's first line alone at a
+page's foot (orphan) but not its last line alone at the top (widow); a
+footnote-heavy book may set `#set text(costs: (orphan: 0%))` after its font
+line (Gouge, Precious Remedies), which keeps more notes with their markers. Covers need no page-count edits: `./fgb
 build` gives each cover its interior's page count and trim, and the spine
 is Lulu's formula.
 
@@ -342,8 +367,12 @@ not kept in git: add the book's folder to the root `.gitignore`.
 
 ## Committing
 
-Work on a branch, not `main`; commit and open a PR when the user asks (they
-merge). Commit the source file(s), the TEI, `editorial.py`, the reports,
+Work on a branch, not `main`. The user's standing instruction (2026-10-11):
+do the git work without asking: commit, push, open and merge PRs, and in the
+submodules (colophon, the Typst templates) merge, tag and publish releases
+and pin them. Never cut a book's signed sign-off tag and never touch `stable`
+unless asked. A book's PR merges when the book is finished (proofread,
+questions settled); while it is being worked on it stays open. Commit the source file(s), the TEI, `editorial.py`, the reports,
 `chapters/typ` and the book files. A script change is committed inside
 `colophon/` (on a branch there, pushed, PR to the colophon repository with
 the version bumped), released as a tag after the merge, and the books
