@@ -94,3 +94,6 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+/* a diagram printed as a list (a genealogy), kept whole */
+ul.diagram { break-inside: avoid; page-break-inside: avoid; }

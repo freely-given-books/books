@@ -7,9 +7,9 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 53 |
+| spelling | 61 |
 | case | 44 |
-| emendation | 28 |
+| emendation | 29 |
 | expansion | 9 |
 | gap | 8 |
 | punctuation | 8 |
@@ -78,6 +78,7 @@
 - [chapter-09.typ] ship wrack → shipwreck
 - [chapter-10.typ heading] married folks , and of due benevolence → Married Folks
 - [chapter-10.typ] intents → in tents
+- [chapter-10.typ] them → than
 - [chapter-10.typ] 7 → 5
 - [chapter-13.typ] beforborne → be forborne
 - [chapter-13.typ] y• → the
@@ -146,6 +147,7 @@
 
 ## spelling
 
+- then → than (×9)
 - vail → veil (×4)
 - Anna → Hannah (×2)
 - Cananites → Canaanites (×2)
@@ -186,6 +188,5 @@
 - sundrie → sundry
 - the → thee
 - them → the
-- them → then
 - way → may
 
