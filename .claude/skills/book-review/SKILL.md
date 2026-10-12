@@ -1,6 +1,6 @@
 ---
 name: book-review
-description: A thorough editorial review of a Freely Given Books edition's text, to make it shelf ready — proofreading chapters/typ against the early printed text and any modern witness, fixing OCR and scanning slips (he/be, b/h, "Gentles", "the church lied into the wilderness"), dropped or doubled words, broken quotations and punctuation, swallowed Typst semicolons, wrong scripture references, inconsistent spellings and headings, while understanding 16th–19th century English (hath, -eth, 'tis, shew, "prevent" meaning go before) and keeping it. Use this whenever the user asks to review, proofread, edit, check, clean up or "make shelf ready" a book, asks whether a book has errors or is ready to print, wants OCR errors fixed, or wants a book's text, headings, scripture references or consistency checked — even for one chapter, and even if the book is not yet on the TEI pipeline.
+description: A thorough editorial review of a Freely Given Books edition's text, to make it shelf ready — proofreading chapters/typ against the early printed text and any modern witness, fixing OCR and scanning slips (he/be, b/h, "Gentles", "the church lied into the wilderness"), dropped or doubled words, broken quotations and punctuation, swallowed Typst semicolons, wrong scripture references, inconsistent spellings and headings, while understanding 16th–19th century English (hath, -eth, 'tis, shew, "prevent" meaning go before) and keeping it. Use this whenever the user asks to review, proofread, edit, check, clean up or "make shelf ready" a book, asks whether a book has errors or is ready to print, wants OCR errors fixed, or wants a book's text, headings, nested numbered outlines (Owen's I. › 1. › (1.) › [1.]), scripture references or consistency checked — even for one chapter, and even if the book is not yet on the TEI pipeline.
 ---
 
 # Book review: making the text shelf ready
@@ -35,6 +35,12 @@ Your sources of evidence, best first:
    nothing else changed; `--layer orig` gives it as printed. `./fgb find
    <book> WORD` shows a word as printed and as decided; `./fgb page <book>`
    opens the side-by-side page.
+   For a CCEL base, the early printing is the edition CCEL keyed (Goold's
+   Owen, Beveridge's 1845 Calvin): its archive.org OCR and page images. Check
+   CCEL against it volume by volume with a comparison agent; the method,
+   CCEL's typical defects and the scripts are in the eebo-tcp-book skill's
+   `references/ccel-books.md` (worked example: Calvin's
+   `source/witness-check/`).
 2. **A modern witness** of the same text (CCEL, Monergism PDF, Chapel
    Library EPUB, an old copy): compared, never copied — some are under
    copyright and none is committed.
@@ -123,6 +129,19 @@ so:
   one/everyone, Saviour/Savior, shew/show, labour/labor, today/to-day),
   numbering styles, quotation-mark style, dashes, `etc.`. Build a table of
   variants with counts; propose the book's majority form.
+- **Nested outlines** (Owen: I. › 1. › (1.) › [1.] › 1st.): readers lose
+  their place when a series runs over several chapters, when an editor's
+  numerals stack ("I. 1. (1.)") or clash ("2." for a second reason under
+  Rule 1 and "2." for Rule 2), and when ordinals hide in mid-paragraph. Map
+  the whole tree first (one agent: every marker with file, paragraph and
+  gist, against the first edition and the later editor's scan). Then fix
+  what is wrong (a CCEL slip like "[4.]" for "4.", a level the first edition
+  contradicts, paragraphs an editor ran together), and offer the user
+  edition headings for the top levels (`EDITION_HEADINGS`, as Brooks and
+  both Owens have: "=== I. What It Is to Mortify a Sin", "==== First
+  Direction: …"). Where a heading carries a number, the paragraph drops the
+  *editor's* added numeral; the author's own numerals and ordinals stay.
+  Number an implicit "1." when a series starts at "2." (ask first).
 - **Headings and titles**: chapter titles, the headings the edition adds,
   running-head short titles — consistent title case (lowercase articles,
   short prepositions and conjunctions), parallel wording within a series
@@ -145,6 +164,15 @@ mistake today ("other men, good wit" → "other men of good wit"), changing
 a heading. Group the questions; show each with its context and the early
 printing's reading.
 
+Applying proposals from an agent's report, mind what went wrong before:
+an `old` that stops inside `#emph[` gets mangled ("(ransom)[ransom])"), so
+skip any change touching markup and do it by hand; Greek may be decomposed
+(letter + combining accent) in the file and composed in the report, and
+quotes curly in the file and straight in the report, so match tolerantly
+and write the file's own form back; a fix taken from an older printing can
+bring that printing's punctuation along ("magic, (Exod. 9:11)") where the
+book has its own style. `./fgb check` [2] catches broken markup.
+
 Edit `chapters/typ` with exact, unique replacements (match across line
 breaks; keep the file's wrapping). Mind Typst: `#`, `[`, `]`, `\` are
 markup; write `\;` after a call like `#emph[..]`; keep `#footnote[..]`
@@ -166,4 +194,7 @@ Before calling a book shelf ready, all of these hold:
 Report to the user in plain words: what you fixed, by kind, with a few
 examples each; the questions, with your recommendation; anything left as is
 on purpose and why; and the checklist above. For a long list, write it to
-`source/proofread-report.md` and summarize. Commit only when the user asks.
+`source/proofread-report.md` and summarize. When the user settles the
+questions, record the answers in the report and tick its checklist (stale
+"questions are open" boxes outlived their answers in three books). Commit
+and push without asking (the user's standing instruction).
