@@ -99,6 +99,45 @@ All six as recommended: "the sooner it may", "not only then", "sabaoth",
    ("Matt. 10:9, 10"). *Recommend:* colon, for a shelf that reads alike
    (about 70 references); or keep the 1689 style.
 
+## Second pass (2026-10-12)
+
+Three things the editor raised after the first proofread.
+
+- **Chapter openings in small capitals.** Each division opens with a drop
+  cap and the rest of its first word in capitals (GOD, AND, COnsider, THE,
+  WE; checked on the scans). The edition had set them in ordinary case; they
+  are now small capitals (`OPENING_SMALLCAPS`, colophon's
+  `seg[@rend='smallcaps'][@type='opening']`): "#smallcaps[God] in his
+  infinite goodness".
+- **"Church" by sense.** The 1689 printing capitalizes every Church and
+  Churches. The edition keeps the capital where Keach means Christ's Church
+  as such, and lowercases a particular congregation (the editor's choice).
+  Capital (24): the Church's deliverance; the Church of Jesus Christ; a
+  standing rule to the Church through all ages; the circumstances the
+  Church hath been under; a Church militant; the good of the Church (×2);
+  a sin of old in the Church / no less evil for the Church now; the good of
+  his Church; his sovereign right over the Church, for the Church's good;
+  his care of his Church; given to his Church under the gospel; the Church
+  compared to a vineyard and to a flock; his duty to Christ and his Church;
+  the gospel Church; his Church, worship and public interests; God's care
+  of his Church and ministry; Christ his Church; the house and Church of
+  God; the upholding the Church of God; nor the Church increases.
+  Lowercase: a church, our church, that church, the church choosing,
+  calling or maintaining its pastor, a pastor or elder of a church, elders
+  in every church, church communion, church state, the first church
+  (Jerusalem), their church (the Papists'), the church of Ephesus, and every
+  plural "churches".
+- **"Churches" as a possessive.** Every printed "Churches" was read: four
+  are Keach's singular possessive and read "church's" / "Church's"
+  (the Church's deliverance, the church's duty, the Church's good, a
+  church's undue proceeding); the rest are plurals. The five places where
+  the edition reads "churches" for a printed "Church" (pp. 2 ×2, 3, 8, 14)
+  are the 1689 errata, kept (the editor's choice). Saints, Gods, Christs,
+  Lords, Mens, Peoples, Masters, Fathers, Worlds, Aarons, Mans and the
+  plurals of minister, pastor, servant and the like were read the same way:
+  one more possessive found, "the minister's employment is hard"
+  (ch. 4).
+
 ## Left as printed on purpose
 
 - Period grammar: "the churches … has been", "most weightiest", "these be",
@@ -108,7 +147,7 @@ All six as recommended: "the sooner it may", "not only then", "sabaoth",
 - Quotations given as Keach gives them where they differ from the KJV in
   small ways ("a workman that needeth not be ashamed", "who are sufficient
   for these things").
-- "Christ mystical body", "Christ his church" (old genitives).
+- "Christ mystical body", "Christ his Church" (old genitives).
 - The errata the user chose to leave (p. 8 her, p. 47 let) and the two that
   could not be placed; the recommendation's date "July, 30. 1681."
 
