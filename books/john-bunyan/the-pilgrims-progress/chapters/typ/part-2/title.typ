@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.6.2": speech, stanza
+#import "@local/fgbooks:0.7.0": speech, stanza
 
 #smallcaps[Wherein is set forth the manner of the setting out of Christian’s wife and children; their dangerous journey, and safe arrival at the desired country.]
 

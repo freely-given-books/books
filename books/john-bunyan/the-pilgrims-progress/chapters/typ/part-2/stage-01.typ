@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.6.2": speech, stanza
+#import "@local/fgbooks:0.7.0": speech, stanza
 
 == THE FIRST STAGE
 
