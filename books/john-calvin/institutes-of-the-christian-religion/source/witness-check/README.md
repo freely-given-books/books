@@ -1,5 +1,7 @@
 # Checking CCEL against the 1845 printing — how it is done
 
+**Done for all six volumes (2026-10-11/12): 999 findings applied.**
+
 CCEL's text of Beveridge's translation (keyed from the 1953 Eerdmans reprint)
 has many slips. Each of our six volumes is compared word by word with the
 1845 Edinburgh printing, and every real slip is corrected in `chapters/typ`
@@ -12,7 +14,7 @@ and folded into the TEI as an editor decision (`./fgb sync calvin`).
 | vol-3 | Book III ch. 1–10 | 2026-10-12, 164 findings | `../witness-report-vol-3.md` |
 | vol-4 | Book III ch. 11–25 | 2026-10-12, 244 findings | `../witness-report-vol-4.md` |
 | vol-5 | Book IV ch. 1–13 | 2026-10-12, 75 findings (Book IV is keyed far more cleanly: no commas as "s") | `../witness-report-vol-5.md` |
-| vol-6 | Book IV ch. 14–20 | not yet | |
+| vol-6 | Book IV ch. 14–20 | 2026-10-12, 134 findings | `../witness-report-vol-6.md` |
 
 ## The 1845 printing (archive.org)
 
@@ -63,7 +65,8 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
 1. `python3 -I source/witness-check/apply.py R T --dry`, then without `--dry`.
    It applies each finding word by word (CCEL's words → 1845's), skipping any
    change that touches a numeral (reference style) or Typst markup (a "ccel"
-   field can stop inside `#emph[`), and lists what it skipped.
+   field can stop inside `#emph[`), or whose "1845" field is a description
+   ("CHAPTER XVIII.¹ … — ¹ Vid. …", it has an ellipsis), and lists what it skipped.
 2. The skipped ones by hand: write `[[file, old, new], ...]` as JSON (see
    `example-edits.json`) and run `python3 -I source/witness-check/edits.py T edits.json`
    (it tolerates curly or straight quotes and composed or decomposed Greek).

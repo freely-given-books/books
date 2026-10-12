@@ -9,6 +9,7 @@ for f in F:
     if f['kind'] in ('info',) : continue
     p=base/f['file']; t=texts.setdefault(p,p.read_text())
     if t.count(f['ccel'])!=1: skipped.append(('nomatch',f)); continue
+    if '…' in f['1845']: skipped.append(('described',f)); continue   # a description, not text (vol-6 note)
     a=f['ccel'].split(); b=re.sub(r'\s*\((verified|OCR[^)]*)\)','',f['1845']).split()
     out=[]; any_=False; manual=False
     for o,i1,i2,j1,j2 in difflib.SequenceMatcher(None,a,b,autojunk=False).get_opcodes():
