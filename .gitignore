@@ -13,6 +13,7 @@ __pycache__/
 *.html
 *.xhtml
 !ebook-front.html
+!ebook-front-vol-*.html
 !ebook-appendix.html
 
 # Built PDFs and EPUBs, for books whose builds are reproducible from the
@@ -46,6 +47,10 @@ books/john-owen/of-temptation/*.pdf
 books/john-owen/of-temptation/*.epub
 books/thomas-boston/the-crook-in-the-lot/*.pdf
 books/thomas-boston/the-crook-in-the-lot/*.epub
+books/john-calvin/institutes-of-the-christian-religion/*.pdf
+books/john-calvin/institutes-of-the-christian-religion/*.epub
+# Calvin: the 1845 printing's OCR (archive.org), a witness
+books/john-calvin/institutes-of-the-christian-religion/source/*.djvu.txt
 
 # Monergism and sermonindex.net copies: witnesses only, never committed
 # (Monergism's are (c) Monergism Books; sermonindex mirrors CCEL, Monergism
