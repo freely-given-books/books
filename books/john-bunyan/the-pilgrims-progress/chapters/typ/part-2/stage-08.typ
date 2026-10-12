@@ -1,108 +1,110 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE EIGHTH STAGE
 
 When they were gone from the shepherds, they quickly came to the place where Christian met with one Turn-away that dwelt in the town of Apostasy. Wherefore of him Mr. Great-Heart their guide now put them in mind, saying, This is the place where Christian met with one Turn-away, who carried with him the character of his rebellion at his back. And this I have to say concerning this man; he would hearken to no counsel, but once a falling, persuasion could not stop him. When he came to the place where the cross and sepulchre were, he did meet with one that did bid him look there; but he gnashed with his teeth, and stamped, and said he was resolved to go back to his own town. Before he came to the gate, he met with Evangelist, who offered to lay hands on him, to turn him into the way again; but this Turn-away resisted him, and having done much despite unto him, he got away over the wall, and so escaped his hand.
 
 Then they went on; and just at the place where Little-Faith formerly was robbed, there stood a man with his sword drawn, and his face all over with blood. Then said Mr. Great-Heart, Who art thou? The man made answer, saying, I am one whose name is Valiant-for-truth. I am a pilgrim, and am going to the Celestial City. Now, as I was in my way, there were three men that did beset me, and propounded unto me these three things: 1. Whether I would become one of them. 2. Or go back from whence I came. 3. Or die upon the place. Prov. 1:11-14. To the first I answered, I had been a true man for a long season, and therefore it could not be expected that I should now cast in my lot with thieves. Then they demanded what I would say to the second. So I told them that the place from whence I came, had I not found incommodity there, I had not forsaken it at all; but finding it altogether unsuitable to me, and very unprofitable for me, I forsook it for this way. Then they asked me what I said to the third. And I told them my life cost far more dear than that I should lightly give it away. Besides, you have nothing to do thus to put things to my choice; wherefore at your peril be it if you meddle. Then these three, to wit, Wild-head, Inconsiderate, and Pragmatic, drew upon me, and I also drew upon them. So we fell to it, one against three, for the space of above three hours. They have left upon me, as you see, some of the marks of their valor, and have also carried away with them some of mine. They are but just now gone; I suppose they might, as the saying is, hear your horse dash, and so they betook themselves to flight.
 
-Mr. Great-Heart: But here was great odds, three against one.
+#speech[#smallcaps[Mr. Great-Heart]: But here was great odds, three against one.]
 
-Valiant-for-Truth: ’Tis true; but little and more are nothing to him that has the truth on his side: “Though an host should encamp against me,” said one, Psa. 27:3, “my heart shall not fear: though war should rise against me, in this will I be confident,” etc. Besides, said he, I have read in some records, that one man has fought an army: and how many did Samson slay with the jawbone of an ass!
+#speech[#smallcaps[Valiant-for-Truth]: ’Tis true; but little and more are nothing to him that has the truth on his side: “Though an host should encamp against me,” said one, Psa. 27:3, “my heart shall not fear: though war should rise against me, in this will I be confident,” etc. Besides, said he, I have read in some records, that one man has fought an army: and how many did Samson slay with the jawbone of an ass!]
 
-Mr. Great-Heart: Then said the guide, Why did you not cry out, that some might have come in for your succor?
+#speech[#smallcaps[Mr. Great-Heart]: Then said the guide, Why did you not cry out, that some might have come in for your succor?]
 
-Valiant-for-Truth: So I did to my King, who I knew could hear me, and afford invisible help, and that was sufficient for me.
+#speech[#smallcaps[Valiant-for-Truth]: So I did to my King, who I knew could hear me, and afford invisible help, and that was sufficient for me.]
 
-Mr. Great-Heart: Then said Great-Heart to Mr. Valiant-for-truth, Thou hast worthily behaved thyself; let me see thy sword. So he showed it him.
+#speech[#smallcaps[Mr. Great-Heart]: Then said Great-Heart to Mr. Valiant-for-truth, Thou hast worthily behaved thyself; let me see thy sword. So he showed it him.]
 
 When he had taken it in his hand, and looked thereon awhile, he said, Ha, it is a right Jerusalem blade.
 
-Valiant-for-Truth: It is so. Let a man have one of these blades, with a hand to wield it, and skill to use it, and he may venture upon an angel with it. He need not fear its holding, if he can but tell how to lay on. Its edge will never blunt. It will cut flesh and bones, and soul, and spirit, and all. Heb. 4:12.
+#speech[#smallcaps[Valiant-for-Truth]: It is so. Let a man have one of these blades, with a hand to wield it, and skill to use it, and he may venture upon an angel with it. He need not fear its holding, if he can but tell how to lay on. Its edge will never blunt. It will cut flesh and bones, and soul, and spirit, and all. Heb. 4:12.]
 
-Mr. Great-Heart: But you fought a great while; I wonder you was not weary.
+#speech[#smallcaps[Mr. Great-Heart]: But you fought a great while; I wonder you was not weary.]
 
-Valiant-for-Truth: I fought till my sword did cleave to my hand; and then they were joined together as if a sword grew out of my arm; and when the blood ran through my fingers, then I fought with most courage.
+#speech[#smallcaps[Valiant-for-Truth]: I fought till my sword did cleave to my hand; and then they were joined together as if a sword grew out of my arm; and when the blood ran through my fingers, then I fought with most courage.]
 
-Mr. Great-Heart: Thou hast done well; thou hast resisted unto blood, striving against sin. Thou shalt abide by us, come in and go out with us; for we are thy companions. Then they took him and washed his wounds, and gave him of what they had, to refresh him: and so they went together.
+#speech[#smallcaps[Mr. Great-Heart]: Thou hast done well; thou hast resisted unto blood, striving against sin. Thou shalt abide by us, come in and go out with us; for we are thy companions. Then they took him and washed his wounds, and gave him of what they had, to refresh him: and so they went together.]
 
 Now, as they went on, because Mr. Great-Heart was delighted in him, (for he loved one greatly that he found to be a man of his hands,) and because there were in company those that were feeble and weak, therefore he questioned with him about many things; as first, what countryman he was.
 
-Valiant-for-Truth: I am of Dark-land; for there was I born, and there my father and mother are still.
+#speech[#smallcaps[Valiant-for-Truth]: I am of Dark-land; for there was I born, and there my father and mother are still.]
 
-Mr. Great-Heart: Dark-land! said the guide; doth not that lie on the same coast with the City of Destruction?
+#speech[#smallcaps[Mr. Great-Heart]: Dark-land! said the guide; doth not that lie on the same coast with the City of Destruction?]
 
-Valiant-for-Truth: Yes, it doth. Now that which caused me to come on pilgrimage was this. We had one Mr. Tell-true come into our parts, and he told it about what Christian had done, that went from the City of Destruction; namely, how he had forsaken his wife and children, and had betaken himself to a pilgrim’s life. It was also confidently reported, how he had killed a serpent that did come out to resist him in his journey; and how he got through to whither he intended. It was also told what welcome he had at all his Lord’s lodgings, especially when he came to the gates of the Celestial City; for there, said the man, he was received with sound of trumpet by a company of shining ones. He told also how all the bells in the city did ring for joy at his reception, and what golden garments he was clothed with; with many other things that now I shall forbear to relate. In a word, that man so told the story of Christian and his travels that my heart fell into a burning haste to be gone after him; nor could father or mother stay me. So I got from them, and am come thus far on my way.
+#speech[#smallcaps[Valiant-for-Truth]: Yes, it doth. Now that which caused me to come on pilgrimage was this. We had one Mr. Tell-true come into our parts, and he told it about what Christian had done, that went from the City of Destruction; namely, how he had forsaken his wife and children, and had betaken himself to a pilgrim’s life. It was also confidently reported, how he had killed a serpent that did come out to resist him in his journey; and how he got through to whither he intended. It was also told what welcome he had at all his Lord’s lodgings, especially when he came to the gates of the Celestial City; for there, said the man, he was received with sound of trumpet by a company of shining ones. He told also how all the bells in the city did ring for joy at his reception, and what golden garments he was clothed with; with many other things that now I shall forbear to relate. In a word, that man so told the story of Christian and his travels that my heart fell into a burning haste to be gone after him; nor could father or mother stay me. So I got from them, and am come thus far on my way.]
 
-Mr. Great-Heart: You came in at the gate, did you not?
+#speech[#smallcaps[Mr. Great-Heart]: You came in at the gate, did you not?]
 
-Valiant-for-Truth: Yes, yes; for the same man also told us, that all would be nothing if we did not begin to enter this way at the gate.
+#speech[#smallcaps[Valiant-for-Truth]: Yes, yes; for the same man also told us, that all would be nothing if we did not begin to enter this way at the gate.]
 
-Mr. Great-Heart: Look you, said the guide to Christiana, the pilgrimage of your husband, and what he has gotten thereby, is spread abroad far and near.
+#speech[#smallcaps[Mr. Great-Heart]: Look you, said the guide to Christiana, the pilgrimage of your husband, and what he has gotten thereby, is spread abroad far and near.]
 
-Valiant-for-Truth: Why, is this Christian’s wife?
+#speech[#smallcaps[Valiant-for-Truth]: Why, is this Christian’s wife?]
 
-Mr. Great-Heart: Yes, that it is; and these also are his four sons.
+#speech[#smallcaps[Mr. Great-Heart]: Yes, that it is; and these also are his four sons.]
 
-Valiant-for-Truth: What, and going on pilgrimage too?
+#speech[#smallcaps[Valiant-for-Truth]: What, and going on pilgrimage too?]
 
-Mr. Great-Heart: Yes, verily, they are following after.
+#speech[#smallcaps[Mr. Great-Heart]: Yes, verily, they are following after.]
 
-Valiant-for-Truth: It glads me at the heart. Good man, how joyful will he be when he shall see them that would not go with him, yet to enter after him in at the gates into the Celestial City.
+#speech[#smallcaps[Valiant-for-Truth]: It glads me at the heart. Good man, how joyful will he be when he shall see them that would not go with him, yet to enter after him in at the gates into the Celestial City.]
 
-Mr. Great-Heart: Without doubt it will be a comfort to him; for, next to the joy of seeing himself there, it will be a joy to meet there his wife and children.
+#speech[#smallcaps[Mr. Great-Heart]: Without doubt it will be a comfort to him; for, next to the joy of seeing himself there, it will be a joy to meet there his wife and children.]
 
-Valiant-for-Truth: But now you are upon that, pray let me hear your opinion about it. Some make a question whether we shall know one another when we are there.
+#speech[#smallcaps[Valiant-for-Truth]: But now you are upon that, pray let me hear your opinion about it. Some make a question whether we shall know one another when we are there.]
 
-Mr. Great-Heart: Do you think they shall know themselves then, or that they shall rejoice to see themselves in that bliss? And if they think they shall know and do this, why not know others, and rejoice in their welfare also? Again, since relations are our second self, though that state will be dissolved there, yet why may it not be rationally concluded that we shall be more glad to see them there than to see they are wanting?
+#speech[#smallcaps[Mr. Great-Heart]: Do you think they shall know themselves then, or that they shall rejoice to see themselves in that bliss? And if they think they shall know and do this, why not know others, and rejoice in their welfare also? Again, since relations are our second self, though that state will be dissolved there, yet why may it not be rationally concluded that we shall be more glad to see them there than to see they are wanting?]
 
-Valiant-for-Truth: Well, I perceive whereabouts you are as to this. Have you any more things to ask me about my beginning to come on pilgrimage?
+#speech[#smallcaps[Valiant-for-Truth]: Well, I perceive whereabouts you are as to this. Have you any more things to ask me about my beginning to come on pilgrimage?]
 
-Mr. Great-Heart: Yes; were your father and mother willing that you should become a pilgrim?
+#speech[#smallcaps[Mr. Great-Heart]: Yes; were your father and mother willing that you should become a pilgrim?]
 
-Valiant-for-Truth: O no; they used all means imaginable to persuade me to stay at home.
+#speech[#smallcaps[Valiant-for-Truth]: O no; they used all means imaginable to persuade me to stay at home.]
 
-Mr. Great-Heart: Why, what could they say against it?
+#speech[#smallcaps[Mr. Great-Heart]: Why, what could they say against it?]
 
-Valiant-for-Truth: They said it was an idle life; and if I myself were not inclined to sloth and laziness, I would never countenance a pilgrim’s condition.
+#speech[#smallcaps[Valiant-for-Truth]: They said it was an idle life; and if I myself were not inclined to sloth and laziness, I would never countenance a pilgrim’s condition.]
 
-Mr. Great-Heart: And what did they say else?
+#speech[#smallcaps[Mr. Great-Heart]: And what did they say else?]
 
-Valiant-for-Truth: Why, they told me that it was a dangerous way; yea, the most dangerous way in the world, said they, is that which the pilgrims go.
+#speech[#smallcaps[Valiant-for-Truth]: Why, they told me that it was a dangerous way; yea, the most dangerous way in the world, said they, is that which the pilgrims go.]
 
-Mr. Great-Heart: Did they show you wherein this way is so dangerous?
+#speech[#smallcaps[Mr. Great-Heart]: Did they show you wherein this way is so dangerous?]
 
-Valiant-for-Truth: Yes; and that in many particulars.
+#speech[#smallcaps[Valiant-for-Truth]: Yes; and that in many particulars.]
 
-Mr. Great-Heart: Name some of them.
+#speech[#smallcaps[Mr. Great-Heart]: Name some of them.]
 
-Valiant-for-Truth: They told me of the Slough of Despond, where Christian was well-nigh smothered. They told me, that there were archers standing ready in Beelzebub-castle to shoot them who should knock at the Wicket-gate for entrance. They told me also of the wood and dark mountains; of the hill Difficulty; of the lions; and also of the three giants, Bloody-man, Maul, and Slay-good. They said, moreover, that there was a foul fiend haunted the Valley of Humiliation; and that Christian was by him almost bereft of life. Besides, said they, you must go over the Valley of the Shadow of Death, where the hobgoblins are, where the light is darkness, where the way is full of snares, pits, traps, and gins. They told me also of Giant Despair, of Doubting Castle, and of the ruin that the pilgrims met with here. Further they said I must go over the Enchanted Ground, which was dangerous; and that after all this I should find a river, over which there was no bridge; and that that river did lie betwixt me and the Celestial country.
+#speech[#smallcaps[Valiant-for-Truth]: They told me of the Slough of Despond, where Christian was well-nigh smothered. They told me, that there were archers standing ready in Beelzebub-castle to shoot them who should knock at the Wicket-gate for entrance. They told me also of the wood and dark mountains; of the hill Difficulty; of the lions; and also of the three giants, Bloody-man, Maul, and Slay-good. They said, moreover, that there was a foul fiend haunted the Valley of Humiliation; and that Christian was by him almost bereft of life. Besides, said they, you must go over the Valley of the Shadow of Death, where the hobgoblins are, where the light is darkness, where the way is full of snares, pits, traps, and gins. They told me also of Giant Despair, of Doubting Castle, and of the ruin that the pilgrims met with here. Further they said I must go over the Enchanted Ground, which was dangerous; and that after all this I should find a river, over which there was no bridge; and that that river did lie betwixt me and the Celestial country.]
 
-Mr. Great-Heart: And was this all?
+#speech[#smallcaps[Mr. Great-Heart]: And was this all?]
 
-Valiant-for-Truth: No. They also told me that this way was full of deceivers, and of persons that lay in wait there to turn good men out of the path.
+#speech[#smallcaps[Valiant-for-Truth]: No. They also told me that this way was full of deceivers, and of persons that lay in wait there to turn good men out of the path.]
 
-Mr. Great-Heart: But how did they make that out?
+#speech[#smallcaps[Mr. Great-Heart]: But how did they make that out?]
 
-Valiant-for-Truth: They told me that Mr. Worldly Wiseman did lie there in wait to deceive. They said also, that there were Formality and Hypocrisy continually on the road. They said also, that By-ends, Talkative, or Demas, would go near to gather me up; that the Flatterer would catch me in his net; or that, with green-headed Ignorance, I would presume to go on to the gate, from whence he was sent back to the hole that was in the side of the hill, and made to go the by-way to hell.
+#speech[#smallcaps[Valiant-for-Truth]: They told me that Mr. Worldly Wiseman did lie there in wait to deceive. They said also, that there were Formality and Hypocrisy continually on the road. They said also, that By-ends, Talkative, or Demas, would go near to gather me up; that the Flatterer would catch me in his net; or that, with green-headed Ignorance, I would presume to go on to the gate, from whence he was sent back to the hole that was in the side of the hill, and made to go the by-way to hell.]
 
-Mr. Great-Heart: I promise you this was enough to discourage you; but did they make an end here?
+#speech[#smallcaps[Mr. Great-Heart]: I promise you this was enough to discourage you; but did they make an end here?]
 
-Valiant-for-Truth: No, stay. They told me also of many that had tried that way of old, and that had gone a great way therein, to see if they could find something of the glory there that so many had so much talked of from time to time, and how they came back again, and befooled themselves for setting a foot out of doors in that path, to the satisfaction of all the country. And they named several that did so, as Obstinate and Pliable, Mistrust and Timorous, Turn-away and old Atheist, with several more; who, they said, had some of them gone far to see what they could find, but not one of them had found so much advantage by going as amounted to the weight of a feather.
+#speech[#smallcaps[Valiant-for-Truth]: No, stay. They told me also of many that had tried that way of old, and that had gone a great way therein, to see if they could find something of the glory there that so many had so much talked of from time to time, and how they came back again, and befooled themselves for setting a foot out of doors in that path, to the satisfaction of all the country. And they named several that did so, as Obstinate and Pliable, Mistrust and Timorous, Turn-away and old Atheist, with several more; who, they said, had some of them gone far to see what they could find, but not one of them had found so much advantage by going as amounted to the weight of a feather.]
 
-Mr. Great-Heart: Said they any thing more to discourage you?
+#speech[#smallcaps[Mr. Great-Heart]: Said they any thing more to discourage you?]
 
-Valiant-for-Truth: Yes. They told me of one Mr. Fearing, who was a pilgrim, and how he found his way so solitary that he never had a comfortable hour therein; also, that Mr. Despondency had like to have been starved therein: yea, and also (which I had almost forgot) that Christian himself, about whom there has been such a noise, after all his adventures for a celestial crown, was certainly drowned in the Black River, and never went a foot further; however it was smothered up.
+#speech[#smallcaps[Valiant-for-Truth]: Yes. They told me of one Mr. Fearing, who was a pilgrim, and how he found his way so solitary that he never had a comfortable hour therein; also, that Mr. Despondency had like to have been starved therein: yea, and also (which I had almost forgot) that Christian himself, about whom there has been such a noise, after all his adventures for a celestial crown, was certainly drowned in the Black River, and never went a foot further; however it was smothered up.]
 
-Mr. Great-Heart: And did none of these things discourage you?
+#speech[#smallcaps[Mr. Great-Heart]: And did none of these things discourage you?]
 
-Valiant-for-Truth: No; they seemed but as so many nothings to me.
+#speech[#smallcaps[Valiant-for-Truth]: No; they seemed but as so many nothings to me.]
 
-Mr. Great-Heart: How came that about?
+#speech[#smallcaps[Mr. Great-Heart]: How came that about?]
 
-Valiant-for-Truth: Why, I still believed what Mr. Tell-true had said; and that carried me beyond them all.
+#speech[#smallcaps[Valiant-for-Truth]: Why, I still believed what Mr. Tell-true had said; and that carried me beyond them all.]
 
-Mr. Great-Heart: Then this was your victory, even your faith.
+#speech[#smallcaps[Mr. Great-Heart]: Then this was your victory, even your faith.]
 
-Valiant-for-Truth: It was so. I believed, and therefore came out, got into the way, fought all that set themselves against me, and, by believing, am come to this place.
+#speech[#smallcaps[Valiant-for-Truth]: It was so. I believed, and therefore came out, got into the way, fought all that set themselves against me, and, by believing, am come to this place.]
 
 #quote[“Who would true valor see, \
 Let him come hither; \
@@ -155,37 +157,37 @@ Now when they were almost at the end of this ground, they perceived that a littl
 
 So they came up to one another; and presently Standfast said to old Honest, Ho, father Honest, are you there? Aye, said he, that I am, as sure as you are there. Right glad am I, said Mr. Standfast, that I have found you on this road. And as glad am I, said the other, that I espied you on your knees. Then Mr. Standfast blushed, and said, But why, did you see me? Yes, that I did, quoth the other, and with my heart was glad at the sight. Why, what did you think? said Standfast. Think! said old Honest; what could I think? I thought we had an honest man upon the road, and therefore should have his company by and by. If you thought not amiss, said Standfast, how happy am I! But if I be not as I should, ’tis I alone must bear it. That is true, said the other; but your fear doth further confirm me that things are right betwixt the Prince of pilgrims and your soul. For he saith, “Blessed is the man that feareth always.” Prov. 28:14.
 
-Valiant-for-Truth: Well but, brother, I pray thee tell us what was it that was the cause of thy being upon thy knees even now: was it for that some special mercy laid obligations upon thee, or how?
+#speech[#smallcaps[Valiant-for-Truth]: Well but, brother, I pray thee tell us what was it that was the cause of thy being upon thy knees even now: was it for that some special mercy laid obligations upon thee, or how?]
 
-Standfast: Why, we are, as you see, upon the Enchanted Ground; and as I was coming along, I was musing with myself of what a dangerous nature the road in this place was, and how many that had come even thus far on pilgrimage, had here been stopped and been destroyed. I thought also of the manner of the death with which this place destroyeth men. Those that die here, die of no violent distemper: the death which such die is not grievous to them. For he that goeth away in a sleep, begins that journey with desire and pleasure. Yea, such acquiesce in the will of that disease.
+#speech[#smallcaps[Standfast]: Why, we are, as you see, upon the Enchanted Ground; and as I was coming along, I was musing with myself of what a dangerous nature the road in this place was, and how many that had come even thus far on pilgrimage, had here been stopped and been destroyed. I thought also of the manner of the death with which this place destroyeth men. Those that die here, die of no violent distemper: the death which such die is not grievous to them. For he that goeth away in a sleep, begins that journey with desire and pleasure. Yea, such acquiesce in the will of that disease.]
 
-Mr. Honest: Then Mr. Honest interrupting him, said, Did you see the two men asleep in the arbor?
+#speech[#smallcaps[Mr. Honest]: Then Mr. Honest interrupting him, said, Did you see the two men asleep in the arbor?]
 
-Standfast: Aye, aye, I saw Heedless and Too-bold there; and for aught I know, there they will lie till they rot. Prov. 10:7. But let me go on with my tale. As I was thus musing, as I said, there was one in very pleasant attire, but old, who presented herself to me, and offered me three things, to wit, her body, her purse, and her bed. Now the truth is, I was both weary and sleepy. I am also as poor as an owlet, and that perhaps the witch knew. Well, I repulsed her once and again, but she put by my repulses, and smiled. Then I began to be angry; but she mattered that nothing at all. Then she made offers again, and said, if I would be ruled by her, she would make me great and happy; for, said she, I am the mistress of the world, and men are made happy by me. Then I asked her name, and she told me it was Madam Bubble. This set me further from her; but she still followed me with enticements. Then I betook me, as you saw, to my knees, and with hands lifted up, and cries, I prayed to Him that had said he would help. So, just as you came up, the gentlewoman went her way. Then I continued to give thanks for this my great deliverance; for I verily believe she intended no good, but rather sought to make stop of me in my journey.
+#speech[#smallcaps[Standfast]: Aye, aye, I saw Heedless and Too-bold there; and for aught I know, there they will lie till they rot. Prov. 10:7. But let me go on with my tale. As I was thus musing, as I said, there was one in very pleasant attire, but old, who presented herself to me, and offered me three things, to wit, her body, her purse, and her bed. Now the truth is, I was both weary and sleepy. I am also as poor as an owlet, and that perhaps the witch knew. Well, I repulsed her once and again, but she put by my repulses, and smiled. Then I began to be angry; but she mattered that nothing at all. Then she made offers again, and said, if I would be ruled by her, she would make me great and happy; for, said she, I am the mistress of the world, and men are made happy by me. Then I asked her name, and she told me it was Madam Bubble. This set me further from her; but she still followed me with enticements. Then I betook me, as you saw, to my knees, and with hands lifted up, and cries, I prayed to Him that had said he would help. So, just as you came up, the gentlewoman went her way. Then I continued to give thanks for this my] great deliverance; for I verily believe she intended no good, but rather sought to make stop of me in my journey.
 
-Mr. Honest: Without doubt her designs were bad. But stay, now you talk of her, methinks I either have seen her, or have read some story of her.
+#speech[#smallcaps[Mr. Honest]: Without doubt her designs were bad. But stay, now you talk of her, methinks I either have seen her, or have read some story of her.]
 
-Standfast: Perhaps you have done both.
+#speech[#smallcaps[Standfast]: Perhaps you have done both.]
 
-Mr. Honest: Madam Bubble! Is she not a tall, comely dame, something of a swarthy complexion?
+#speech[#smallcaps[Mr. Honest]: Madam Bubble! Is she not a tall, comely dame, something of a swarthy complexion?]
 
-Standfast: Right, you hit it: she is just such a one.
+#speech[#smallcaps[Standfast]: Right, you hit it: she is just such a one.]
 
-Mr. Honest: Doth she not speak very smoothly, and give you a smile at the end of a sentence?
+#speech[#smallcaps[Mr. Honest]: Doth she not speak very smoothly, and give you a smile at the end of a sentence?]
 
-Standfast: You fall right upon it again, for these are her very actions.
+#speech[#smallcaps[Standfast]: You fall right upon it again, for these are her very actions.]
 
-Mr. Honest: Doth she not wear a great purse by her side, and is not her hand often in it, fingering her money, as if that was her heart’s delight?
+#speech[#smallcaps[Mr. Honest]: Doth she not wear a great purse by her side, and is not her hand often in it, fingering her money, as if that was her heart’s delight?]
 
-Standfast: ’Tis just so; had she stood by all this while, you could not more amply have set her forth before me, nor have better described her features.
+#speech[#smallcaps[Standfast]: ’Tis just so; had she stood by all this while, you could not more amply have set her forth before me, nor have better described her features.]
 
-Mr. Honest: Then he that drew her picture was a good limner, and he that wrote of her said true.
+#speech[#smallcaps[Mr. Honest]: Then he that drew her picture was a good limner, and he that wrote of her said true.]
 
-Mr. Great-Heart: This woman is a witch, and it is by virtue of her sorceries that this ground is enchanted. Whoever doth lay his head down in her lap, had as good lay it down on that block over which the axe doth hang; and whoever lay their eyes upon her beauty are counted the enemies of God. This is she that maintaineth in their splendor all those that are the enemies of pilgrims. James 4:4. Yea, this is she that has bought off many a man from a pilgrim’s life. She is a great gossiper; she is always, both she and her daughters, at one pilgrim’s heels or another, now commending, and then preferring the excellences of this life. She is a bold and impudent slut: she will talk with any man. She always laugheth poor pilgrims to scorn, but highly commends the rich. If there be one cunning to get money in a place, she will speak well of him from house to house. She loveth banqueting and feasting mainly well; she is always at one full table or another. She has given it out in some places that she is a goddess, and therefore some do worship her. She has her time, and open places of cheating; and she will say and avow it, that none can show a good comparable to hers. She promiseth to dwell with children’s children, if they will but love her and make much of her. She will cast out of her purse gold like dust in some places and to some persons. She loves to be sought after, spoken well of, and to lie in the bosoms of men. She is never weary of commending her commodities, and she loves them most that think best of her. She will promise to some crowns and kingdoms, if they will but take her advice; yet many has she brought to the halter, and ten thousand times more to hell.
+#speech[#smallcaps[Mr. Great-Heart]: This woman is a witch, and it is by virtue of her sorceries that this ground is enchanted. Whoever doth lay his head down in her lap, had as good lay it down on that block over which the axe doth hang; and whoever lay their eyes upon her beauty are counted the enemies of God. This is she that maintaineth in their splendor all those that are the enemies of pilgrims. James 4:4. Yea, this is she that has bought off many a man from a pilgrim’s life. She is a great gossiper; she is always, both she and her daughters, at one pilgrim’s heels or another, now commending, and then preferring the excellences of this life. She is a bold and impudent slut: she will talk with any man. She always laugheth poor pilgrims to scorn, but highly commends the rich. If there be one cunning to get money in a place, she will speak well of him from house to house. She loveth banqueting and feasting mainly well; she is always at one full table or another. She has given it out in some places that she is a goddess, and therefore some do worship her. She has her time, and open places of cheating; and she will say and avow it, that none can show a good comparable to hers. She promiseth to dwell with children’s children, if they will but love her and make much of her. She will cast out of her purse gold like dust in some places and to some persons. She loves to be sought after, spoken well of, and to lie in the bosoms of men. She is never weary of commending her commodities, and she loves them most that think best of her. She will promise to some crowns and kingdoms, if they will but take her advice; yet many has she brought to the halter, and ten thousand times more to hell.]
 
-Standfast: Oh, said Standfast, what a mercy is it that I did resist her; for whither might she have drawn me!
+#speech[#smallcaps[Standfast]: Oh, said Standfast, what a mercy is it that I did resist her; for whither might she have drawn me!]
 
-Mr. Great-Heart: Whither? nay, none but God knows whither. But in general, to be sure, she would have drawn thee into many foolish and hurtful lusts, which drown men in destruction and perdition. 1 Tim. 6:9. ’Twas she that set Absalom against his father, and Jeroboam against his master. ’Twas she that persuaded Judas to sell his Lord; and that prevailed with Demas to forsake the godly pilgrim’s life. None can tell of the mischief that she doth. She makes variance betwixt rulers and subjects, betwixt parents and children, betwixt neighbor and neighbor, betwixt a man and his wife, betwixt a man and himself, betwixt the flesh and the spirit. Wherefore, good Mr. Standfast, be as your name is, and when you have done all, stand.
+#speech[#smallcaps[Mr. Great-Heart]: Whither? nay, none but God knows whither. But in general, to be sure, she would have drawn thee into many foolish and hurtful lusts, which drown men in destruction and perdition. 1 Tim. 6:9. ’Twas she that set Absalom against his father, and Jeroboam against his master. ’Twas she that persuaded Judas to sell his Lord; and that prevailed with Demas to forsake the godly pilgrim’s life. None can tell of the mischief that she doth. She makes variance betwixt rulers and subjects, betwixt parents and children, betwixt neighbor and neighbor, betwixt a man and his wife, betwixt a man and himself, betwixt the flesh and the spirit. Wherefore, good Mr. Standfast, be as your name is, and when you have done all, stand.]
 
 At this discourse there was among the pilgrims a mixture of joy and trembling; but at length they broke out and sang,
 

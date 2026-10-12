@@ -1,24 +1,26 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE EIGHTH STAGE
 
 They went then till they came to the Delectable Mountains, which mountains belong to the Lord of that hill of which we have spoken before. So they went up to the mountains, to behold the gardens and orchards, the vineyards and fountains of water; where also they drank and washed themselves, and did freely eat of the vineyards. Now, there were on the tops of these mountains shepherds feeding their flocks, and they stood by the highway-side. The pilgrims, therefore, went to them, and leaning upon their staffs, (as is common with weary pilgrims when they stand to talk with any by the way,) they asked, Whose Delectable Mountains are these; and whose be the sheep that feed upon them?
 
-The Shepherds: These mountains are Immanuel’s land, and they are within sight of his city; and the sheep also are his, and he laid down his life for them. John 10:11,15.
+#speech[#smallcaps[The Shepherds]: These mountains are Immanuel’s land, and they are within sight of his city; and the sheep also are his, and he laid down his life for them. John 10:11,15.]
 
-Christian: Is this the way to the Celestial City?
+#speech[#smallcaps[Christian]: Is this the way to the Celestial City?]
 
-The Shepherds: You are just in your way.
+#speech[#smallcaps[The Shepherds]: You are just in your way.]
 
-Christian: How far is it thither?
+#speech[#smallcaps[Christian]: How far is it thither?]
 
-The Shepherds: Too far for any but those who shall get thither indeed.
+#speech[#smallcaps[The Shepherds]: Too far for any but those who shall get thither indeed.]
 
-Christian: Is the way safe or dangerous?
+#speech[#smallcaps[Christian]: Is the way safe or dangerous?]
 
-The Shepherds: Safe for those for whom it is to be safe; but transgressors shall fall therein. Hos. 14:9.
+#speech[#smallcaps[The Shepherds]: Safe for those for whom it is to be safe; but transgressors shall fall therein. Hos. 14:9.]
 
-Christian: Is there in this place any relief for pilgrims that are weary and faint in the way?
+#speech[#smallcaps[Christian]: Is there in this place any relief for pilgrims that are weary and faint in the way?]
 
-The Shepherds: The Lord of these mountains hath given us a charge not to be forgetful to entertain strangers, Heb. 13:2; therefore the good of the place is before you.
+#speech[#smallcaps[The Shepherds]: The Lord of these mountains hath given us a charge not to be forgetful to entertain strangers, Heb. 13:2; therefore the good of the place is before you.]
 
 I saw also in my dream, that when the shepherds perceived that they were wayfaring men, they also put questions to them, (to which they made answer as in other places,) as, Whence came you? and, How got you into the way? and, By what means have you so persevered therein? for but few of them that begin to come hither, do show their face on these mountains. But when the shepherds heard their answers, being pleased therewith, they looked very lovingly upon them, and said, Welcome to the Delectable Mountains.
 
@@ -34,15 +36,15 @@ Then I saw in my dream, that the shepherds had them to another place in a bottom
 
 Then said Hopeful to the shepherds, I perceive that these had on them, even every one, a show of pilgrimage, as we have now; had they not?
 
-The Shepherds: Yes, and held it a long time, too.
+#speech[#smallcaps[The Shepherds]: Yes, and held it a long time, too.]
 
-Hopeful: How far might they go on in pilgrimage in their day, since they, notwithstanding, were miserably cast away?
+#speech[#smallcaps[Hopeful]: How far might they go on in pilgrimage in their day, since they, notwithstanding, were miserably cast away?]
 
-The Shepherds: Some farther, and some not so far as these mountains.
+#speech[#smallcaps[The Shepherds]: Some farther, and some not so far as these mountains.]
 
 Then said the pilgrims one to the other, We had need to cry to the Strong for strength.
 
-The Shepherds: Aye, and you will have need to use it, when you have it, too.
+#speech[#smallcaps[The Shepherds]: Aye, and you will have need to use it, when you have it, too.]
 
 By this time the pilgrims had a desire to go forward, and the shepherds a desire they should; so they walked together towards the end of the mountains. Then said the shepherds one to another, Let us here show the pilgrims the gates of the Celestial City, if they have skill to look through our perspective glass. The pilgrims lovingly accepted the motion: so they had them to the top of a high hill, called Clear, and gave them the glass to look.
 

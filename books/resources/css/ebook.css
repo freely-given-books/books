@@ -58,6 +58,20 @@ span.smallcaps {
   font-variant: small-caps;
 }
 
+/* a speech in dialogue (SPEECH_BLOCKS): first line at the margin, the rest
+   hung 2em; a stanza of a section made of verse: unindented, set apart */
+p.speech {
+  text-indent: -2em;
+  padding-left: 2em;
+}
+
+p.verse {
+  text-indent: 0;
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 /* a paragraph centered in the source (TEI p[@rend="center"]) */
 p.center {
   text-indent: 0;

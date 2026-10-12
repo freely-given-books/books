@@ -1,28 +1,30 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE TENTH STAGE
 
 Then Christian addressed himself thus to his fellow:
 
-Christian: Well, come, my good Hopeful, I perceive that thou and I must walk by ourselves again.
+#speech[#smallcaps[Christian]: Well, come, my good Hopeful, I perceive that thou and I must walk by ourselves again.]
 
 So I saw in my dream, that they went on apace before, and Ignorance he came hobbling after. Then said Christian to his companion, I much pity this poor man: it will certainly go ill with him at last.
 
-Hopeful: Alas! there are abundance in our town in his condition, whole families, yea, whole streets, and that of pilgrims too; and if there be so many in our parts, how many, think you, must there be in the place where he was born?
+#speech[#smallcaps[Hopeful]: Alas! there are abundance in our town in his condition, whole families, yea, whole streets, and that of pilgrims too; and if there be so many in our parts, how many, think you, must there be in the place where he was born?]
 
-Christian: Indeed, the word saith, “He hath blinded their eyes, lest they should see,” etc.
+#speech[#smallcaps[Christian]: Indeed, the word saith, “He hath blinded their eyes, lest they should see,” etc.]
 
 But, now we are by ourselves, what do you think of such men? Have they at no time, think you, convictions of sin, and so, consequently, fears that their state is dangerous?
 
-Hopeful: Nay, do you answer that question yourself, for you are the elder man.
+#speech[#smallcaps[Hopeful]: Nay, do you answer that question yourself, for you are the elder man.]
 
-Christian: Then I say, sometimes (as I think) they may; but they being naturally ignorant, understand not that such convictions tend to their good; and therefore they do desperately seek to stifle them, and presumptuously continue to flatter themselves in the way of their own hearts.
+#speech[#smallcaps[Christian]: Then I say, sometimes (as I think) they may; but they being naturally ignorant, understand not that such convictions tend to their good; and therefore they do desperately seek to stifle them, and presumptuously continue to flatter themselves in the way of their own hearts.]
 
-Hopeful: I do believe, as you say, that fear tends much to men’s good, and to make them right at their beginning to go on pilgrimage.
+#speech[#smallcaps[Hopeful]: I do believe, as you say, that fear tends much to men’s good, and to make them right at their beginning to go on pilgrimage.]
 
-Christian: Without all doubt it doth, if it be right; for so says the word, “The fear of the Lord is the beginning of wisdom.” Job 28:28; Psalm 111:10; Prov. 1:7; 9:10.
+#speech[#smallcaps[Christian]: Without all doubt it doth, if it be right; for so says the word, “The fear of the Lord is the beginning of wisdom.” Job 28:28; Psalm 111:10; Prov. 1:7; 9:10.]
 
-Hopeful: How will you describe right fear?
+#speech[#smallcaps[Hopeful]: How will you describe right fear?]
 
-Christian: True or right fear is discovered by three things:
+#speech[#smallcaps[Christian]: True or right fear is discovered by three things:]
 
 1\. By its rise; it is caused by saving convictions for sin.
 
@@ -30,41 +32,41 @@ Christian: True or right fear is discovered by three things:
 
 3\. It begetteth and continueth in the soul a great reverence of God, his word, and ways; keeping it tender, and making it afraid to turn from them, to the right hand or to the left, to any thing that may dishonor God, break its peace, grieve the Spirit, or cause the enemy to speak reproachfully.
 
-Hopeful: Well said; I believe you have said the truth. Are we now almost got past the Enchanted Ground?
+#speech[#smallcaps[Hopeful]: Well said; I believe you have said the truth. Are we now almost got past the Enchanted Ground?]
 
-Christian: Why? are you weary of this discourse?
+#speech[#smallcaps[Christian]: Why? are you weary of this discourse?]
 
-Hopeful: No, verily, but that I would know where we are.
+#speech[#smallcaps[Hopeful]: No, verily, but that I would know where we are.]
 
-Christian: We have not now above two miles further to go thereon. But let us return to our matter.
+#speech[#smallcaps[Christian]: We have not now above two miles further to go thereon. But let us return to our matter.]
 
 Now, the ignorant know not that such convictions as tend to put them in fear, are for their good, and therefore they seek to stifle them.
 
-Hopeful: How do they seek to stifle them?
+#speech[#smallcaps[Hopeful]: How do they seek to stifle them?]
 
-Christian: 1\. They think that those fears are wrought by the devil, (though indeed they are wrought of God,) and thinking so, they resist them, as things that directly tend to their overthrow. 2. They also think that these fears tend to the spoiling of their faith; when, alas for them, poor men that they are, they have none at all; and therefore they harden their hearts against them. 3. They presume they ought not to fear, and therefore, in despite of them, wax presumptuously confident. 4. They see that those fears tend to take away from them their pitiful old self-holiness, and therefore they resist them with all their might.
+#speech[#smallcaps[Christian]: 1\. They think that those fears are wrought by the devil, (though indeed they are wrought of God,) and thinking so, they resist them, as things that directly tend to their overthrow. 2. They also think that these fears tend to the spoiling of their faith; when, alas for them, poor men that they are, they have none at all; and therefore they harden their hearts against them. 3. They presume they ought not to fear, and therefore, in despite of them, wax presumptuously confident. 4. They see that those fears tend to take away from them their pitiful old self-holiness, and therefore they resist them with all their might.]
 
-Hopeful: I know something of this myself; for before I knew myself it was so with me.
+#speech[#smallcaps[Hopeful]: I know something of this myself; for before I knew myself it was so with me.]
 
-Christian: Well, we will leave, at this time, our neighbor Ignorance by himself, and fall upon another profitable question.
+#speech[#smallcaps[Christian]: Well, we will leave, at this time, our neighbor Ignorance by himself, and fall upon another profitable question.]
 
-Hopeful: With all my heart; but you shall still begin.
+#speech[#smallcaps[Hopeful]: With all my heart; but you shall still begin.]
 
-Christian: Well then, did you not know, about ten years ago, one Temporary in your parts, who was a forward man in religion then?
+#speech[#smallcaps[Christian]: Well then, did you not know, about ten years ago, one Temporary in your parts, who was a forward man in religion then?]
 
-Hopeful: Know him! yes; he dwelt in Graceless, a town about two miles off of Honesty, and he dwelt next door to one Turnback.
+#speech[#smallcaps[Hopeful]: Know him! yes; he dwelt in Graceless, a town about two miles off of Honesty, and he dwelt next door to one Turnback.]
 
-Christian: Right; he dwelt under the same roof with him. Well, that man was much awakened once: I believe that then he had some sight of his sins, and of the wages that were due thereto.
+#speech[#smallcaps[Christian]: Right; he dwelt under the same roof with him. Well, that man was much awakened once: I believe that then he had some sight of his sins, and of the wages that were due thereto.]
 
-Hopeful: I am of your mind, for (my house not being above three miles from him) he would oft-times come to me, and that with many tears. Truly I pitied the man, and was not altogether without hope of him; but one may see, it is not every one that cries, “Lord, Lord!”
+#speech[#smallcaps[Hopeful]: I am of your mind, for (my house not being above three miles from him) he would oft-times come to me, and that with many tears. Truly I pitied the man, and was not altogether without hope of him; but one may see, it is not every one that cries, “Lord, Lord!”]
 
-Christian: He told me once that he was resolved to go on pilgrimage, as we go now; but all of a sudden he grew acquainted with one Save-self, and then he became a stranger to me.
+#speech[#smallcaps[Christian]: He told me once that he was resolved to go on pilgrimage, as we go now; but all of a sudden he grew acquainted with one Save-self, and then he became a stranger to me.]
 
-Hopeful: Now, since we are talking about him, let us a little inquire into the reason of the sudden backsliding of him and such others.
+#speech[#smallcaps[Hopeful]: Now, since we are talking about him, let us a little inquire into the reason of the sudden backsliding of him and such others.]
 
-Christian: It may be very profitable; but do you begin.
+#speech[#smallcaps[Christian]: It may be very profitable; but do you begin.]
 
-Hopeful: Well, then, there are, in my judgment, four reasons for it:
+#speech[#smallcaps[Hopeful]: Well, then, there are, in my judgment, four reasons for it:]
 
 1\. Though the consciences of such men are awakened, yet their minds are not changed: therefore, when the power of guilt weareth away, that which provoked them to be religious ceaseth; wherefore they naturally turn to their own course again; even as we see the dog that is sick of what he hath eaten, so long as his sickness prevails, he vomits and casts up all; not that he doth this of a free mind, (if we may say a dog has a mind,) but because it troubleth his stomach: but now, when his sickness is over, and so his stomach eased, his desires being not at all alienated from his vomit, he turns him about, and licks up all; and so it is true which is written, “The dog is turned to his own vomit again.” 2 Pet. 2:22. Thus, I say, being hot for heaven, by virtue only of the sense and fear of the torments of hell, as their sense and fear of damnation chills and cools, so their desires for heaven and salvation cool also. So then it comes to pass, that when their guilt and fear is gone, their desires for heaven and happiness die, and they return to their course again.
 
@@ -74,11 +76,11 @@ Hopeful: Well, then, there are, in my judgment, four reasons for it:
 
 4\. Guilt, and to meditate terror, are grievous to them; they like not to see their misery before they come into it; though perhaps the sight of it at first, if they loved that sight, might make them fly whither the righteous fly and are safe; but because they do, as I hinted before, even shun the thoughts of guilt and terror, therefore, when once they are rid of their awakenings about the terrors and wrath of God, they harden their hearts gladly, and choose such ways as will harden them more and more.
 
-Christian: You are pretty near the business, for the bottom of all is for want of a change in their mind and will. And therefore they are but like the felon that standeth before the judge: he quakes and trembles, and seems to repent most heartily, but the bottom of all is the fear of the halter: not that he hath any detestation of the offence, as it is evident; because, let but this man have his liberty, and he will be a thief, and so a rogue still; whereas, if his mind was changed, he would be otherwise.
+#speech[#smallcaps[Christian]: You are pretty near the business, for the bottom of all is for want of a change in their mind and will. And therefore they are but like the felon that standeth before the judge: he quakes and trembles, and seems to repent most heartily, but the bottom of all is the fear of the halter: not that he hath any detestation of the offence, as it is evident; because, let but this man have his liberty, and he will be a thief, and so a rogue still; whereas, if his mind was changed, he would be otherwise.]
 
-Hopeful: Now I have showed you the reason of their going back, do you show me the manner thereof.
+#speech[#smallcaps[Hopeful]: Now I have showed you the reason of their going back, do you show me the manner thereof.]
 
-Christian: So I will willingly.
+#speech[#smallcaps[Christian]: So I will willingly.]
 
 1\. They draw off their thoughts, all that they may, from the remembrance of God, death, and judgment to come.
 

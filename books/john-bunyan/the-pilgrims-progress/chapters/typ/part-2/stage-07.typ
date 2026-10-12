@@ -1,3 +1,5 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == THE SEVENTH STAGE
 
 Well, the time grew on that the pilgrims must go on their way; wherefore they prepared for their journey. They sent for their friends; they conferred with them; they had some time set apart therein to commit each other to the protection of their Prince. There were again that brought them of such things as they had, that were fit for the weak and the strong, for the women and the men, and so laded them with such things as were necessary. Acts 28:10. Then they set forward on their way; and their friends accompanying them so far as was convenient, they again committed each other to the protection of their King, and parted.
@@ -82,7 +84,7 @@ Now the glass was one of a thousand. It would present a man, one way, with his o
 
 Christiana therefore went to the shepherds apart, (now the names of the shepherds were Knowledge, Experience, Watchful, and Sincere,) and said unto them, There is one of my daughters, a breeding woman, that I think doth long for something that she hath seen in this house; and she thinks that she shall miscarry if she should by you be denied.
 
-Experience: Call her, call her, she shall assuredly have what we can help her to. So they called her, and said to her, Mercy, what is that thing thou wouldst have? Then she blushed, and said, The great glass that hangs up in the dining-room. So Sincere ran and fetched it, and with a joyful consent it was given her. Then she bowed her head, and gave thanks, and said, By this I know that I have obtained favor in your eyes.
+#speech[#smallcaps[Experience]: Call her, call her, she shall assuredly have what we can help her to. So they called her, and said to her, Mercy, what is that thing thou wouldst have? Then she blushed, and said, The great glass that hangs up in the dining-room. So Sincere ran and fetched it, and with a joyful consent it was given her. Then she bowed her head, and gave thanks, and said, By this I know that I have obtained favor in your eyes.]
 
 They also gave to the other young women such things as they desired, and to their husbands great commendations, for that they had joined with Mr. Great-Heart in the slaying of Giant Despair, and the demolishing of Doubting Castle.
 

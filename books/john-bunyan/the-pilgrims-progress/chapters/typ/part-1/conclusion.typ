@@ -1,6 +1,8 @@
+#import "@local/fgbooks:0.6.2": speech, stanza
+
 == CONCLUSION
 
-Now, reader, I have told my dream to thee, \
+#stanza[Now, reader, I have told my dream to thee, \
 See if thou canst interpret it to me, \
 Or to thyself, or neighbor: but take heed \
 Of misinterpreting; for that, instead \
@@ -21,4 +23,4 @@ To throw away, but yet preserve the gold. \
 What if my gold be wrapped up in ore? \
 None throw away the apple for the core: \
 But if thou shalt cast all away as vain, \
-I know not but ’twill make me dream again.
+I know not but ’twill make me dream again.]
