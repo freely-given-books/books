@@ -45,6 +45,9 @@
 )
 
 #set text(font: "Libertinus Serif", size: 11pt)
+// No widow/orphan control: with it, Typst can push a marker's line onto
+// the next page after setting its footnote, so note and marker part.
+#set text(costs: (widow: 0%, orphan: 0%))
 
 #include "chapters/typ/dedication.typ"
 
