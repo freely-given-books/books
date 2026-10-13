@@ -4,14 +4,14 @@
     {
       "release": "2026.03.16",
       "books": {
-        "anonymous/the-anatomy-of-simon-magus": 4,
+        "anonymous/the-anatomy-of-simon-magus": 5,
         "charles-spurgeon/all-of-grace": 14,
-        "john-bunyan/the-pilgrims-progress": 11,
-        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 6,
+        "john-bunyan/the-pilgrims-progress": 12,
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 7,
         "richard-sibbes/the-glorious-feast-of-the-gospel": 12,
-        "the-baptist-standards/the-baptist-standards": 4,
-        "thomas-brooks/the-secret-key-of-heaven": 4,
-        "william-perkins/christian-economy": 1
+        "the-baptist-standards/the-baptist-standards": 5,
+        "thomas-brooks/the-secret-key-of-heaven": 5,
+        "william-perkins/christian-economy": 2
       }
     }
   ]
