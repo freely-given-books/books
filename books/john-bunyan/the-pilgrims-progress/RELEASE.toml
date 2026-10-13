@@ -1,0 +1,28 @@
+# Release record of The Pilgrim's Progress: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-bunyan/the-pilgrims-progress/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II."
+
+[[source]]
+file = "source/pilgrim.thml.xml"
+description = "CCEL ThML: John Bunyan, The Pilgrim's Progress, Parts I and II (Logos's text of the 1853 Auburn edition)"
+url = "https://www.ccel.org/ccel/b/bunyan/pilgrim.xml"
+sha256 = "1ebdfd4db68990f3cb26cb81305f0a32f2eb9ec0faedf33e2ee54414f9414353"
+
+[[source]]
+file = "source/A30170.witness.xml"
+description = "EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md"
+url = "https://github.com/textcreationpartnership/A30170"
+sha256 = "14c3c96cab3e5a57cb088d7b58c98ff2d40b05dffe25ab3c42d964a814896e5c"
+
+# Copies the edition was checked against, kept or not (one per witness):
+
+[[witness]]
+description = "The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md"
+url = "https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732"
+
+[[witness]]
+description = "biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only"
+url = ""

@@ -1,0 +1,99 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 1em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  -webkit-column-break-before: always;
+  break-before: page;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  padding-top: 25%;
+  margin-bottom: 1.5em;
+}
+
+p {
+  text-indent: 1.5em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+h2 + p,
+h3 + p {
+  text-indent: 0;
+}
+
+/* a signature (TEI signed, or a signatory): set right, the first a line
+   below the paragraph before; the house style of every book */
+p.signature {
+  text-indent: 0;
+  text-align: right;
+  hyphens: none;
+}
+
+p.signature-first {
+  margin-top: 1em;
+}
+
+/* small capitals in the source (TEI seg[@rend="smallcaps"], SMALLCAPS =
+   "smallcaps"): Owen's "Fourthly", LORD */
+span.smallcaps {
+  font-variant: small-caps;
+}
+
+/* a speech in dialogue (SPEECH_BLOCKS): first line at the margin, the rest
+   hung 2em; a stanza of a section made of verse: unindented, set apart */
+p.speech {
+  text-indent: -2em;
+  padding-left: 2em;
+}
+
+p.verse {
+  text-indent: 0;
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* a paragraph centered in the source (TEI p[@rend="center"]) */
+p.center {
+  text-indent: 0;
+  text-align: center;
+  hyphens: none;
+}
+
+/* a paragraph the edition sets off, indented both sides (@rend="inset") */
+p.inset {
+  text-indent: 0;
+  margin: 0.6em 1.5em;
+}
+
+img {
+  display: block;
+  margin: 1.5em auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* a diagram printed as a list (a genealogy), kept whole */
+ul.diagram { break-inside: avoid; page-break-inside: avoid; }

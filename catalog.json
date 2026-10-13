@@ -1,0 +1,440 @@
+{
+  "release": "2026.10.12",
+  "colophon": "0.12.1",
+  "books": [
+    {
+      "book": "anonymous/the-anatomy-of-simon-magus",
+      "folder": "the-anatomy-of-simon-magus",
+      "title": "The Anatomy of Simon Magus",
+      "author": "Anonymous",
+      "version": "v6",
+      "summary": "The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos).",
+      "signed_off": {
+        "tag": "anonymous/the-anatomy-of-simon-magus/v6",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/A25330.tcp.xml",
+          "description": "EEBO-TCP A25330: The Anatomy of Simon Magus, or, The Sin of Simony Laid Open (London, Charles Brome, 1700)",
+          "url": "https://github.com/textcreationpartnership/A25330",
+          "sha256": "3a437401c8512841d57ac1a02b2b76d781c833e5604bcf4417c770fa1ef8d0f8"
+        }
+      ],
+      "witnesses": [],
+      "coverage": {
+        "words": 30558,
+        "form": 8731,
+        "grammar": 404,
+        "wording": 396,
+        "added": 42,
+        "removed": 92,
+        "by_editor": 6316,
+        "by_machine": 2728,
+        "gaps": 11,
+        "restored": 11,
+        "open": 0,
+        "notes_added": 4,
+        "notes_dropped": 1,
+        "unchanged": 68.8,
+        "form_pct": 28.6,
+        "grammar_pct": 1.3,
+        "wording_pct": 1.3
+      },
+      "files": [
+        {
+          "name": "the-anatomy-of-simon-magus-v6.pdf",
+          "bytes": 959551,
+          "sha256": "56edd39e2294b2e084c278f095f4698364a5e249c3e8e1aa6e6138f4bff4ee0c"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.epub",
+          "bytes": 399660,
+          "sha256": "a8d5824e0d3852e30bf6624837a934f277fdd42309cafed175b43316e3f2bcd2"
+        }
+      ]
+    },
+    {
+      "book": "charles-spurgeon/all-of-grace",
+      "folder": "all-of-grace",
+      "title": "All of Grace",
+      "author": "Charles Spurgeon",
+      "version": "v15",
+      "summary": "Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed.",
+      "signed_off": {
+        "tag": "charles-spurgeon/all-of-grace/v15",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/grace.thml.xml",
+          "description": "CCEL ThML: C. H. Spurgeon, All of Grace (1886)",
+          "url": "https://www.ccel.org/ccel/s/spurgeon/grace.xml",
+          "sha256": "7980c795972bb279338a67325ccb4abfe6df7b9bf29cb77504b993cfeb52713c"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md",
+          "url": "https://www.monergism.com/"
+        }
+      ],
+      "coverage": {
+        "words": 34491,
+        "form": 209,
+        "grammar": 1,
+        "wording": 8,
+        "added": 1,
+        "removed": 1,
+        "by_editor": 138,
+        "by_machine": 708,
+        "gaps": 0,
+        "restored": 0,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 99.4,
+        "form_pct": 0.6,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.0
+      },
+      "files": [
+        {
+          "name": "all-of-grace-v15.pdf",
+          "bytes": 601880,
+          "sha256": "2f2214006b16c7508c2e0832d7b143d33d341ad90f39a71b04b19e98280cd01c"
+        },
+        {
+          "name": "all-of-grace-v15.epub",
+          "bytes": 249367,
+          "sha256": "c32f0a8265afe1805b20f2a5f78248f85887554991e059d790d540d761fb7b93"
+        }
+      ]
+    },
+    {
+      "book": "john-bunyan/the-pilgrims-progress",
+      "folder": "the-pilgrims-progress",
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "version": "v13",
+      "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
+      "signed_off": {
+        "tag": "john-bunyan/the-pilgrims-progress/v13",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/pilgrim.thml.xml",
+          "description": "CCEL ThML: John Bunyan, The Pilgrim's Progress, Parts I and II (Logos's text of the 1853 Auburn edition)",
+          "url": "https://www.ccel.org/ccel/b/bunyan/pilgrim.xml",
+          "sha256": "1ebdfd4db68990f3cb26cb81305f0a32f2eb9ec0faedf33e2ee54414f9414353"
+        },
+        {
+          "file": "source/A30170.witness.xml",
+          "description": "EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md",
+          "url": "https://github.com/textcreationpartnership/A30170",
+          "sha256": "14c3c96cab3e5a57cb088d7b58c98ff2d40b05dffe25ab3c42d964a814896e5c"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md",
+          "url": "https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732"
+        },
+        {
+          "description": "biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 110974,
+        "form": 87,
+        "grammar": 0,
+        "wording": 58,
+        "added": 20,
+        "removed": 11,
+        "by_editor": 179,
+        "by_machine": 0,
+        "gaps": 0,
+        "restored": 0,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 99.9,
+        "form_pct": 0.1,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.1
+      },
+      "files": [
+        {
+          "name": "the-pilgrims-progress-v13.pdf",
+          "bytes": 1660356,
+          "sha256": "df7c634622887a8c8e49512e9dd5e310da8874d1957b469b7f4d1db7c2040ff9"
+        },
+        {
+          "name": "the-pilgrims-progress-v13-cover.pdf",
+          "bytes": 17905,
+          "sha256": "e1f5c881c90f5ca2b19eb2f31bfab561f9adbd4bee19b815067ff9dda2ee5b2d"
+        },
+        {
+          "name": "the-pilgrims-progress-v13-cover-front.png",
+          "bytes": 43826,
+          "sha256": "b03f07958088d1ae6d3554ba6ca7430645780adca98bb27a57dfc02f2c9fe082"
+        },
+        {
+          "name": "the-pilgrims-progress-v13-cover-front.png",
+          "bytes": 43826,
+          "sha256": "b03f07958088d1ae6d3554ba6ca7430645780adca98bb27a57dfc02f2c9fe082"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.epub",
+          "bytes": 410018,
+          "sha256": "07e65c6d080d207704c5a9c8cf2aade9077df21807559d9085b824a40db9e9b0"
+        }
+      ]
+    },
+    {
+      "book": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god",
+      "folder": "sinners-in-the-hands-of-an-angry-god",
+      "title": "Sinners in the Hands of an Angry God",
+      "author": "Jonathan Edwards",
+      "version": "v8",
+      "summary": "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).",
+      "signed_off": {
+        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/N05520.tcp.xml",
+          "description": "EEBO-TCP (Evans) N05520: Edwards, True Grace (New York, James Parker, 1753), with the second edition of Sinners in the Hands of an Angry God bound after it (pp. 43-62)",
+          "url": "https://github.com/textcreationpartnership/N05520",
+          "sha256": "9600c9fdc53098be5a21c4442d6eb522abadaad73e82c7cfde8e93ec2f7029ef"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Berean Standard Bible, for the scripture quotations: source/proofread-report.md",
+          "url": "https://berean.bible/"
+        }
+      ],
+      "coverage": {
+        "words": 23249,
+        "form": 4059,
+        "grammar": 11,
+        "wording": 586,
+        "added": 166,
+        "removed": 241,
+        "by_editor": 1853,
+        "by_machine": 2671,
+        "gaps": 11,
+        "restored": 7,
+        "open": 4,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 80.0,
+        "form_pct": 17.5,
+        "grammar_pct": 0.0,
+        "wording_pct": 2.5
+      },
+      "files": [
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.pdf",
+          "bytes": 289144,
+          "sha256": "3e0ab8a05a398e8246bff6028ef31e550a5939c383ac4fceacb588a9484956e2"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.epub",
+          "bytes": 181696,
+          "sha256": "421e14e83a3122320ef51eeb303803c45c5772fdc5dd65553400267cbb3b2d02"
+        }
+      ]
+    },
+    {
+      "book": "richard-sibbes/the-glorious-feast-of-the-gospel",
+      "folder": "the-glorious-feast-of-the-gospel",
+      "title": "The Glorious Feast of the Gospel",
+      "author": "Richard Sibbes",
+      "version": "v13",
+      "summary": "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.",
+      "signed_off": {
+        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v13",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/A93248.tcp.xml",
+          "description": "EEBO-TCP A93248: The Glorious Feast of the Gospel (London, John Rothwell, 1650)",
+          "url": "https://github.com/textcreationpartnership/A93248",
+          "sha256": "d95173b14fc232a376ebfe577798b6cf4f9274aee6c62ab56cce42b488176385"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Monergism's modernized text (from the SDG reprint; (c) Monergism Books 2017), a check only: source/witness-report.md",
+          "url": "https://www.monergism.com/"
+        },
+        {
+          "description": "The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 56190,
+        "form": 13233,
+        "grammar": 53,
+        "wording": 1127,
+        "added": 830,
+        "removed": 356,
+        "by_editor": 6746,
+        "by_machine": 9279,
+        "gaps": 12,
+        "restored": 12,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 385,
+        "unchanged": 74.3,
+        "form_pct": 23.6,
+        "grammar_pct": 0.1,
+        "wording_pct": 2.0
+      },
+      "files": [
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.pdf",
+          "bytes": 837934,
+          "sha256": "027c6ee4410c59e2ff76e57fa939772a1a6118c93888d3229fc9c5781849961f"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13-cover.pdf",
+          "bytes": 27185,
+          "sha256": "cfeb313de8435aa9d398c9e2a5cb81e8ef9dc20d087434c6d2185be3a29bfa6e"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13-cover-front.png",
+          "bytes": 45671,
+          "sha256": "66bba91c66943068d80fb64f72609c699b63232f4bb983d161f61a8f2ebaf375"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13-cover-front.png",
+          "bytes": 45671,
+          "sha256": "66bba91c66943068d80fb64f72609c699b63232f4bb983d161f61a8f2ebaf375"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.epub",
+          "bytes": 279838,
+          "sha256": "930c729a7b76e036524ec69d980b3b5abd42d13c8f4cf95e85424d375f3f8b37"
+        }
+      ]
+    },
+    {
+      "book": "thomas-brooks/the-secret-key-of-heaven",
+      "folder": "the-secret-key-of-heaven",
+      "title": "The Secret Key of Heaven",
+      "author": "Thomas Brooks",
+      "version": "v6",
+      "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
+      "signed_off": {
+        "tag": "thomas-brooks/the-secret-key-of-heaven/v6",
+        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
+        "date": "2026-10-12",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.7.0",
+      "sources": [
+        {
+          "file": "source/A29703.tcp.xml",
+          "description": "EEBO-TCP A29703: The Privie Key of Heaven (London, John Hancock, 1665)",
+          "url": "https://github.com/textcreationpartnership/A29703",
+          "sha256": "b6742bf2f0d59f51fec34d28f992bf714154bd91e55e32a509d3b63f597c85b6"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md",
+          "url": "https://www.chapellibrary.org/"
+        },
+        {
+          "description": "The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665"
+        },
+        {
+          "description": "The earlier Freely Given Books copy (lightly modernized), folded in as the review",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 102961,
+        "form": 20915,
+        "grammar": 76,
+        "wording": 4660,
+        "added": 2431,
+        "removed": 2074,
+        "by_editor": 16632,
+        "by_machine": 13240,
+        "gaps": 72,
+        "restored": 61,
+        "open": 11,
+        "notes_added": 0,
+        "notes_dropped": 403,
+        "unchanged": 75.1,
+        "form_pct": 20.3,
+        "grammar_pct": 0.1,
+        "wording_pct": 4.5
+      },
+      "files": [
+        {
+          "name": "the-secret-key-of-heaven-v6.pdf",
+          "bytes": 1393872,
+          "sha256": "bf1d9a0a510fdd594e0a4df358101844b0063511b7e431ac01fc5e6f8b86f0fe"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6-cover.pdf",
+          "bytes": 19305,
+          "sha256": "5cdce2ac3b2ce82440c6df00dcdba6c4d58f32e06fb0f769160254abea637032"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6-cover-front.png",
+          "bytes": 39628,
+          "sha256": "d3ba03c99e33477e53d3b2b64335f13a97d90b7cefe6658f5ab0be365e12dab6"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6-cover-front.png",
+          "bytes": 39628,
+          "sha256": "d3ba03c99e33477e53d3b2b64335f13a97d90b7cefe6658f5ab0be365e12dab6"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.epub",
+          "bytes": 358253,
+          "sha256": "3e407af42de4aac3d8558e3640df6faf439e25955d63f32d6f502540c2ae3e7c"
+        }
+      ]
+    }
+  ]
+}

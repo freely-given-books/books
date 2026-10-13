@@ -1,0 +1,29 @@
+{
+  "about": "Each release (a YYYY.MM.DD tag) and the book versions in it: the Lulu revisions, and since 2026.10.10 the signed sign-off tags <author>/<book>/vN. ./fgb release make adds each release.",
+  "releases": [
+    {
+      "release": "2026.03.16",
+      "books": {
+        "anonymous/the-anatomy-of-simon-magus": 5,
+        "charles-spurgeon/all-of-grace": 14,
+        "john-bunyan/the-pilgrims-progress": 12,
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 7,
+        "richard-sibbes/the-glorious-feast-of-the-gospel": 12,
+        "the-baptist-standards/the-baptist-standards": 5,
+        "thomas-brooks/the-secret-key-of-heaven": 5,
+        "william-perkins/christian-economy": 2
+      }
+    },
+    {
+      "release": "2026.10.12",
+      "books": {
+        "anonymous/the-anatomy-of-simon-magus": 6,
+        "charles-spurgeon/all-of-grace": 15,
+        "john-bunyan/the-pilgrims-progress": 13,
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 8,
+        "richard-sibbes/the-glorious-feast-of-the-gospel": 13,
+        "thomas-brooks/the-secret-key-of-heaven": 6
+      }
+    }
+  ]
+}
