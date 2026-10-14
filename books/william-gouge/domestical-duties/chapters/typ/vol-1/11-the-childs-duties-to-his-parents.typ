@@ -33,9 +33,9 @@ Under this word #emph[(Obey)] the Apostle comprehendeth all #footnote[All duties
 
 #emph[Answ.] 1. Because it is the hardest of all the rest, and that which children are loathest to perform: they who willingly yield to this, will stick at no duty.
 
-2. Because it is the surest evidence of that #emph[honour] which a child oweth to his parent: and so of performing the fifth commandment.
+2\. Because it is the surest evidence of that #emph[honour] which a child oweth to his parent: and so of performing the fifth commandment.
 
-3. Because children are bound to their parents: the duties which they perform are not of courtesy, but necessity. Their parents have power to command, and exact them.
+3\. Because children are bound to their parents: the duties which they perform are not of courtesy, but necessity. Their parents have power to command, and exact them.
 
 The clause added #emph[(in the Lord)] is in effect the same which #footnote[ἐν Κυρίῳ.] was used #footnote[#emph[Chap.] 5. #emph[vers.] 22.] before #emph[(as unto the Lord)] and it noteth forth a #emph[limitation, direction,] and #emph[instigation:] a #emph[limitation] showing that childrens obedience to their parents is to be restrained to the obedience which they owe to Christ, and may not go beyond the limits thereof: a #emph[direction] showing that in obeying their parents, they must have an eye to Christ, and so obey them as Christ may approve thereof: an #emph[instigation] showing that parents bear the image of Christ, and in that respect children must the rather obey their parents.
 
@@ -66,9 +66,9 @@ If I should handle this law according to the full extent thereof, I should wande
 
 #emph[Honour] in relation to parents, is used for two reasons especially.
 
-1. To show that parents bear Gods image: for #emph[honour] is properly due to God alone: to the creature it is due, only as it standeth in Gods room, and carrieth his image.
+1\. To show that parents bear Gods image: for #emph[honour] is properly due to God alone: to the creature it is due, only as it standeth in Gods room, and carrieth his image.
 
-2. To show, that it is an honour to parents to have dutiful children: even as it is a dishonour to them to have disobedient children.
+2\. To show, that it is an honour to parents to have dutiful children: even as it is a dishonour to them to have disobedient children.
 
 Both #emph[father] and #emph[mother] are expressly mentioned, to take away #footnote[Why both father and mother expressed.] all pretence from children of neglecting either of them: for through the corruption of nature we are prone to seek after many shifts to exempt us from our bounden duty; and if not in whole, yet in as great a part as we can. Some might think if they honour their father, who is their mothers head, they have done what the law requireth: others may think they have done as much, if they honour their mother who is the weaker vessel: but the law expressing #emph[father and mother,] condemneth him that neglecteth either of them. Yet to show that if opposition should arise betwixt them, and by reason thereof both could not be obeyed together, the father commanding what the mother forbiddeth, the father is to be preferred, (especially if it be not against the Lord) the #emph[father] is set in the first place.
 
@@ -78,19 +78,19 @@ These words following #emph[(which is the first commandment] #footnote[How the f
 
 #emph[Answ.] 1. The word here used by the Apostle properly #footnote[ἐντολή.] signifieth an affirmative precept, as our English word #emph[(commandment)] doth. Now then of the affirmative precepts it is #emph[the first with promise.]
 
-2. The Scripture oft appropriateth the law to the second table, as where he saith #emph[he that loveth another hath fulfilled the] #footnote[#emph[Rom.] 13. 8.] #emph[law,] and so in other places.
+2\. The Scripture oft appropriateth the law to the second table, as where he saith #emph[he that loveth another hath fulfilled the] #footnote[#emph[Rom.] 13. 8.] #emph[law,] and so in other places.
 
 Now this is the first commandment of the second table.
 
-3. It is generally true of all the commandments: for among the ten it is the #emph[first with promise.]
+3\. It is generally true of all the commandments: for among the ten it is the #emph[first with promise.]
 
 #strong[#emph[Object.] The second commandment hath a promise annexed #footnote[Difference betwixt the promise in the second, and fifth commandment.] to it.]
 
 #emph[Answ.] 1. That which is annexed to the second Commandment, is not expressly a promise, but rather a declaration of Gods Justice, in taking vengeance of transgressors, and of his mercy in rewarding observers of the Law: yet I deny not but that a promise by consequence is implied: but here it is expressed.
 
-2. The promise there implied is only a general promise made to observers of the whole Law, and therefore he useth the plural number, #emph[Commandments:] but here is a particular promise made to them that keep this Commandment in particular.
+2\. The promise there implied is only a general promise made to observers of the whole Law, and therefore he useth the plural number, #emph[Commandments:] but here is a particular promise made to them that keep this Commandment in particular.
 
-#strong[2. #emph[Quest.] Why is it then said the #emph[first,] when no other Commandments with promise follow? #footnote[#emph[First] simply taken.]]
+#strong[2\. #emph[Quest.] Why is it then said the #emph[first,] when no other Commandments with promise follow? #footnote[#emph[First] simply taken.]]
 
 #emph[Answ.] This particle #emph[(first)] hath not always reference to some other following, but is oft simply taken, to show that none was before it: so is the word #emph[first-born] used in the Law: #footnote[#emph[Exod.] 13. 2. #emph[Matth.] 1. 25.] and so Christ is called the #emph[first-born] son of #emph[Mary.]
 
@@ -114,13 +114,13 @@ What a good direction and resolution may this be to many, #footnote[4\. #emph[Us
 
 Yet because through the corruption of our nature, we are too #footnote[Cautions in seeking our own good.] prone to seek our selves, some cautions are in this point carefully to be observed.
 
-1. That we seek not our own good by any #emph[transgression,] for it is promised unto #emph[obedience.]
+1\. That we seek not our own good by any #emph[transgression,] for it is promised unto #emph[obedience.]
 
-2. That we do not so wholly seek our selves and our own good, as we neglect others: for God having joined both together, no man may put them asunder.
+2\. That we do not so wholly seek our selves and our own good, as we neglect others: for God having joined both together, no man may put them asunder.
 
-3. That we aim at our own good, as a reward following upon the duty which God commandeth, and so be as willing to do the duty, as desirous of the reward.
+3\. That we aim at our own good, as a reward following upon the duty which God commandeth, and so be as willing to do the duty, as desirous of the reward.
 
-4. That our own benefit be not the #emph[only,] no nor the #emph[chiefest] thing we aim at in doing our duty, but rather come as a motive to add an edge, and to sharpen other motives of greater moment. And thus much the order which the Apostle observeth in setting down his reasons, noteth unto us: for the three former have respect to God, and to that good conscience which children ought to carry towards him: the #emph[first] pointeth at #emph[Gods image] which parents carry #emph[(in the Lord:)] the #emph[second] setteth forth that #emph[right] which God hath prescribed to children: the #emph[third] declareth #emph[Gods charge:] this #emph[fourth] only, which is the last, hath respect to the #emph[profit] and benefit of children themselves.
+4\. That our own benefit be not the #emph[only,] no nor the #emph[chiefest] thing we aim at in doing our duty, but rather come as a motive to add an edge, and to sharpen other motives of greater moment. And thus much the order which the Apostle observeth in setting down his reasons, noteth unto us: for the three former have respect to God, and to that good conscience which children ought to carry towards him: the #emph[first] pointeth at #emph[Gods image] which parents carry #emph[(in the Lord:)] the #emph[second] setteth forth that #emph[right] which God hath prescribed to children: the #emph[third] declareth #emph[Gods charge:] this #emph[fourth] only, which is the last, hath respect to the #emph[profit] and benefit of children themselves.
 
 === §. 99. #emph[Of preferring honesty before commodity.]
 
@@ -155,49 +155,49 @@ The promise consisteth of two branches.
 
 The first branch #emph[(that it may be well with thee)] is very ample #footnote[ἵνα εὖ σοι γένηται.] and large: all good things, all manner of blessings whatsoever, spiritual and temporal, belonging to soul and body, concerning this life, and the life to come, make to a mans #emph[wellbeing.] Whence may first be demanded;
 
-#strong[1. #emph[Quest.] What may be the extent of this phrase in this place? #footnote[Temporal prosperity promised. 1 #emph[Tim.] 4. 8.]]
+#strong[1\. #emph[Quest.] What may be the extent of this phrase in this place? #footnote[Temporal prosperity promised. 1 #emph[Tim.] 4. 8.]]
 
 #emph[Answ.] It may generally be extended to all manner of good things. For #emph[Godliness hath promise of the life that now is and of that that is to come.] But (as I take it) temporal prosperity is here principally intended: and that for these reasons.
 
-1. It is joined with #emph[long life,] which is a temporal blessing.
+1\. It is joined with #emph[long life,] which is a temporal blessing.
 
-2. The last word #emph[(on earth)] may be referred to this branch of #emph[well-being,] as well as to the other of #emph[long life.]
+2\. The last word #emph[(on earth)] may be referred to this branch of #emph[well-being,] as well as to the other of #emph[long life.]
 
-3. In the Law (from whence this clause is taken) it is expressly set down, thus, #emph[that it may go well with thee in the] #footnote[#emph[Deut.] 5. 16.] #emph[land,] etc.
+3\. In the Law (from whence this clause is taken) it is expressly set down, thus, #emph[that it may go well with thee in the] #footnote[#emph[Deut.] 5. 16.] #emph[land,] etc.
 
-#strong[2. #emph[Quest.] Is then outward temporal prosperity (as honour, #footnote[Prosperity a good thing.] health, peace, liberty, goods, etc.) a token of Gods love and favour?]
+#strong[2\. #emph[Quest.] Is then outward temporal prosperity (as honour, #footnote[Prosperity a good thing.] health, peace, liberty, goods, etc.) a token of Gods love and favour?]
 
 #emph[Answ.] Yea: in it self it is a blessing, and fruit of Gods love: as appeareth by these reasons.
 
-1. As at first it was made and ordained of God, it is a good thing.
+1\. As at first it was made and ordained of God, it is a good thing.
 
-2. It tendeth to mans good, if it be rightly used.
+2\. It tendeth to mans good, if it be rightly used.
 
-3. It was bestowed on man before he had offended.
+3\. It was bestowed on man before he had offended.
 
-4. It is promised of God as a reward to them that fear him #footnote[#emph[Levit.] 26. 4. #emph[etc. Deut.] 28. 1. #emph[etc.]] and keep his Commandments.
+4\. It is promised of God as a reward to them that fear him #footnote[#emph[Levit.] 26. 4. #emph[etc. Deut.] 28. 1. #emph[etc.]] and keep his Commandments.
 
-5. The Saints have prayed for it, and have been thankful #footnote[#emph[Gen.] 28. 20. #emph[&] 32. 10, 11.] for it.
+5\. The Saints have prayed for it, and have been thankful #footnote[#emph[Gen.] 28. 20. #emph[&] 32. 10, 11.] for it.
 
-6. The contrary was first inflicted as a punishment of sin, #footnote[#emph[Levit.] 26. 15. #emph[etc.]] and is oft threatened as a token of Gods wrath, and so hath also been inflicted on transgressors. #footnote[#emph[Deut.] 28. 16. #emph[etc.]]
+6\. The contrary was first inflicted as a punishment of sin, #footnote[#emph[Levit.] 26. 15. #emph[etc.]] and is oft threatened as a token of Gods wrath, and so hath also been inflicted on transgressors. #footnote[#emph[Deut.] 28. 16. #emph[etc.]]
 
 === §. 102. #emph[Of prosperity bestowed on the wicked, how it proves a curse.]
 
-3. #emph[Quest.] Why then is it bestowed upon the wicked, even such as are #footnote[θεοστυγεῖς.] haters of God, and are hated of him? And why are Gods friends, such as are #footnote[φιλόθεοι.] loved of him, and love him again, deprived thereof? This sore scruple made #emph[David] stumble, #footnote[#emph[Psal.] 73. 13. #emph[Jer.] 12. 1. #emph[Hab.] 1. 3.] and moved other Prophets to complain. But the answer is ready.
+3\. #emph[Quest.] Why then is it bestowed upon the wicked, even such as are #footnote[θεοστυγεῖς.] haters of God, and are hated of him? And why are Gods friends, such as are #footnote[φιλόθεοι.] loved of him, and love him again, deprived thereof? This sore scruple made #emph[David] stumble, #footnote[#emph[Psal.] 73. 13. #emph[Jer.] 12. 1. #emph[Hab.] 1. 3.] and moved other Prophets to complain. But the answer is ready.
 
 #emph[Answ.] Outward prosperity is of that nature, as it may turn to the good or hurt of him that enjoyeth it. And herein is Gods admirable and unsearchable wisdom seen, in that he is able to turn blessings into curses, and curses into blessings. #footnote[How prosperity proves a curse to the wicked.] He can work by contraries.
 
-#strong[4. #emph[Quest.] How is prosperity a curse to the wicked?]
+#strong[4\. #emph[Quest.] How is prosperity a curse to the wicked?]
 
 #emph[Answ.] By mere consequence, through their abuse of it. God gives it to them to show the riches of his mercy: and that all may taste thereof, he doth good to the #emph[evil] and the #emph[good.] Besides, #footnote[#emph[Matth.] 5. 45. #emph[Rom.] 2. 4.] he thus trieth if by any means they may be brought to repentance: which gift because they have not, their prosperity proveth to be a means to make them the more inexcusable, and the more to increase their just condemnation. For the more Gods blessings abound towards them, the more they abuse them, adding to all their other sins, that most odious sin of ingratitude, which maketh up the heap of all. And in these respects I may say of the prosperity of the wicked, as the Prophet of their King, #emph[God gives it in his anger, and takes it away in] #footnote[#emph[Ose.] 13. 11.] #emph[his wrath.] For by their abuse thereof, it proveth Satans bait to allure them, his snare to catch them, and his hook to drown #footnote[1 #emph[Tim.] 6. 9.] them in perdition and destruction. In a word therefore, the wicked are fed in a fair pasture like oxen appointed to the slaughter: they are exalted on high, as on a ladder or scaffold, like thieves and traitors, to be brought down with shame and destruction, as #emph[Pharaohs] Baker was lift up. #footnote[#emph[Gen.] 40. 19.]
 
 === §. 103. #emph[How both having, and wanting prosperity is a blessing to the Saints.]
 
-#strong[5. #emph[Quest.] How is the enjoying, or wanting of prosperity a blessing to the righteous?]
+#strong[5\. #emph[Quest.] How is the enjoying, or wanting of prosperity a blessing to the righteous?]
 
 #emph[Answ.] God in wisdom knowing what is best for them accordingly deals with them, he bestoweth prosperity on them so far as he seeth it will turn unto their good: and denieth it to them so far as he seeth it will turn to their hurt. Whensoever therefore God bestoweth any temporal blessing on his Saints, it is a token of his favour: and whensoever he denieth any, the very denial is also a fruit of his favour. Herein is it verified that #emph[All things work together for good to them] #footnote[#emph[Rom.] 8. 28.] #emph[that love God,] so as, if they #emph[abound,] it shall go well with them: if they #emph[want,] it shall go well with them: if they be in #emph[high place,] it shall go well with them: if in #emph[mean place,] it shall go well with them: if they be at liberty, if in prison: if they be in health, if sick: in what estate soever, it shall go well with them.
 
-6. #emph[Quest.] How is it then that Saints are oft brought to such extremities that they are forced to complain that it is very #footnote[Complaints of Saints impeach not their well being.] ill with them?
+6\. #emph[Quest.] How is it then that Saints are oft brought to such extremities that they are forced to complain that it is very #footnote[Complaints of Saints impeach not their well being.] ill with them?
 
 #emph[Answ.] There is flesh and blood in them, by reason of the weakness whereof they are forced to complain: but the present apprehension of weak flesh, is not sufficient to impeach the truth of Gods promise: they consider not in their present extremity what is Gods mind, what his manner of dealing with them, how needful it is that so they should be dealt withal, what end and issue the Lord will give: in truth it is better with them then they wot of. Some weighty reasons there be which move God to bring them to that extremity wherein they are, and those respecting his #footnote[#emph[Joh.] 9. 3. 2 #emph[Cor.] 12. 9.] #emph[own glory,] or the #footnote[#emph[Eph.] 3. 1.] #emph[edification] of others, or their own good, as #footnote[#emph[Psal.] 119. 67.] curing some dangerous disease, #footnote[#emph[Job] 1. 12.] manifesting the grace of God bestowed upon them, #footnote[#emph[Ose.] 5. 15.] drawing them nearer to God, #footnote[2 #emph[Cor.] 5. 2.] making them long the more for heaven, with the like.
 
@@ -205,23 +205,23 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 Concerning the second branch of Gods promise #emph[(long-life)] other questions are to be resolved.
 
-#strong[1. #emph[Quest.] Is long-life a blessing? #footnote[Long life a blessing.]]
+#strong[1\. #emph[Quest.] Is long-life a blessing? #footnote[Long life a blessing.]]
 
 #emph[Answ.] Yea, else would not God here and in other places have promised it as a reward, nor have bestowed it on his Saints.
 
 The reasons to prove it to be a blessing may be drawn to three heads. 1. #emph[Gods glory.] 2. #emph[The good of the Church] where they live. 3. #emph[Their own good.]
 
-1. Gods glory is much advanced by the long life of the Saints: for the longer they live the more they do themselves observe Gods wonderful works, and the more they do make them known and declare them to others. But in the grave all #footnote[#emph[Psal.] 6. 5. #emph[Isa.] 38. 18.] is forgotten.
+1\. Gods glory is much advanced by the long life of the Saints: for the longer they live the more they do themselves observe Gods wonderful works, and the more they do make them known and declare them to others. But in the grave all #footnote[#emph[Psal.] 6. 5. #emph[Isa.] 38. 18.] is forgotten.
 
-2. Gods Church is greatly edified thereby: in which respect the Apostle saith, #emph[to abide in the flesh is more needful for] #footnote[#emph[Phil.] 1. 24.] #emph[you:] In the Saints that is true which #emph[Elihu] saith should be, namely that #emph[days speak, and multitude of years teach wisdom.] #footnote[#emph[Job.] 32. 7.] The longer the Saints live, the more good they do: but after death they do none: #emph[when the night cometh no man can work:] #footnote[#emph[Joh.] 9. 4.] #footnote[#emph[Gal.] 6. 10.] upon which ground the Apostle exhorteth to #emph[do good while we have time.]
+2\. Gods Church is greatly edified thereby: in which respect the Apostle saith, #emph[to abide in the flesh is more needful for] #footnote[#emph[Phil.] 1. 24.] #emph[you:] In the Saints that is true which #emph[Elihu] saith should be, namely that #emph[days speak, and multitude of years teach wisdom.] #footnote[#emph[Job.] 32. 7.] The longer the Saints live, the more good they do: but after death they do none: #emph[when the night cometh no man can work:] #footnote[#emph[Joh.] 9. 4.] #footnote[#emph[Gal.] 6. 10.] upon which ground the Apostle exhorteth to #emph[do good while we have time.]
 
-3. The Saints by long living purchase to themselves great honour, and dignity among Gods people, and a strong stedfast confidence in God. Men regard a good old servant: much more will God. Two strong props have old Saints to establish them, and make them bold: one is a remembrance of Gods former favours, whereby their hope of eternal life is made more sure unto them: another is a kind of present expectation of the accomplishment of Gods promises which they have long waited for.
+3\. The Saints by long living purchase to themselves great honour, and dignity among Gods people, and a strong stedfast confidence in God. Men regard a good old servant: much more will God. Two strong props have old Saints to establish them, and make them bold: one is a remembrance of Gods former favours, whereby their hope of eternal life is made more sure unto them: another is a kind of present expectation of the accomplishment of Gods promises which they have long waited for.
 
 By this it appears that this particular promise is no light matter, of small moment: but a strong motive to stir up children to obedience.
 
 === §. 105. #emph[Of long life proving a curse to the wicked.]
 
-#strong[2. #emph[Quest.]]
+#strong[2\. #emph[Quest.]]
 
 Why then is long life given to many wicked ones? And why are many Saints cut off?
 
@@ -240,7 +240,7 @@ The righteous have their days shortened for their good, when they are shortened,
 
 Thus we see there may be just cause to alter, as the former branch of this promise, #emph[prosperity,] so the latter branch of it, #emph[long-life,] and yet no wrong thereby redound to the righteous, nor benefit to the wicked.
 
-#strong[3. #emph[Quest.]]
+#strong[3\. #emph[Quest.]]
 
 Is not the truth of the promise impeached thereby?
 
@@ -248,25 +248,25 @@ Is not the truth of the promise impeached thereby?
 
 === §. 107. #emph[Of appropriating prosperity and long-life to the obedience which children yield to their parents.]
 
-#strong[4. #emph[Quest.] Why is #emph[long-life] and #emph[prosperity] appropriated to this kind of righteousness?]
+#strong[4\. #emph[Quest.] Why is #emph[long-life] and #emph[prosperity] appropriated to this kind of righteousness?]
 
 #emph[Answ.] It is not so appropriated to this, as if it appertained to no other: for it is elsewhere in general promised to the #footnote[#emph[Deut.] 6. 2.] observers of the whole law, and to other particular branches thereof beside this: yet in these and such like particular respects #footnote[#emph[Psal.] 34. 12, 13, 14.] is it applied to the obedience of children.
 
-1. Because obedience to parents is one of the surest evidences of our conformity to the whole law: in that thereby we show our respect of Gods image, and lay a good foundation for the performing of all duty to man.
+1\. Because obedience to parents is one of the surest evidences of our conformity to the whole law: in that thereby we show our respect of Gods image, and lay a good foundation for the performing of all duty to man.
 
-2. Because a childes performing of his duty to his parents is under God an especial means that they do well, and live long (for as rebellious children make their parents with grief to come the sooner to their graves, so dutiful children make them to continue the longer in prosperity) the Lord in recompense promiseth to such a child prosperity and long life.
+2\. Because a childes performing of his duty to his parents is under God an especial means that they do well, and live long (for as rebellious children make their parents with grief to come the sooner to their graves, so dutiful children make them to continue the longer in prosperity) the Lord in recompense promiseth to such a child prosperity and long life.
 
-3. Because parents are an especial means to procure the welfare and long life of their children, partly by their #emph[provident care,] as #emph[Naomi] said to #emph[Ruth, shall I not seek rest for thee,] #footnote[#emph[Rut.] 3. 1.] #emph[that it may be well with thee?] and partly by their #emph[instant prayer:] for the faithful prayer of parents is of great force with God for dutiful children: whence hath risen the custom of childrens asking their parents blessing, and of parents blessing their children. In this respect the law thus setteth forth the blessing of the fifth commandment, #emph[they shall prolong thy days.] #footnote[יארכון]
+3\. Because parents are an especial means to procure the welfare and long life of their children, partly by their #emph[provident care,] as #emph[Naomi] said to #emph[Ruth, shall I not seek rest for thee,] #footnote[#emph[Rut.] 3. 1.] #emph[that it may be well with thee?] and partly by their #emph[instant prayer:] for the faithful prayer of parents is of great force with God for dutiful children: whence hath risen the custom of childrens asking their parents blessing, and of parents blessing their children. In this respect the law thus setteth forth the blessing of the fifth commandment, #emph[they shall prolong thy days.] #footnote[יארכון]
 
-4. Because disobedience to parents bringeth much mischief on childrens heads, and oft shorteneth their days, and that many ways.
+4\. Because disobedience to parents bringeth much mischief on childrens heads, and oft shorteneth their days, and that many ways.
 
-1. In that parents are oft provoked by their childrens disobedience #footnote[How disobedient children hinder their welfare and shorten their days.] to disinherit them, at least to allow them the less portion, so as hereby it goeth not so well with them: yea some are provoked to bring their rebellious children to the Magistrate, who by Gods law was to cut them off, so as #footnote[#emph[Deut.] 21. 21.] thereby their life is shortened.
+1\. In that parents are oft provoked by their childrens disobedience #footnote[How disobedient children hinder their welfare and shorten their days.] to disinherit them, at least to allow them the less portion, so as hereby it goeth not so well with them: yea some are provoked to bring their rebellious children to the Magistrate, who by Gods law was to cut them off, so as #footnote[#emph[Deut.] 21. 21.] thereby their life is shortened.
 
-2. In that parents are provoked to complain unto God of their childrens disobedience, and God thereby moved both to lay heavy judgments upon such children in their life time, and also to shorten their days: for parents complaint doth make a loud cry in Gods ears. It is said that God by cutting off #emph[Abimelech] with an untimely death #emph[rendered the] #footnote[#emph[Judg.] 9. 56.] #emph[wickedness which he did to his father.]
+2\. In that parents are provoked to complain unto God of their childrens disobedience, and God thereby moved both to lay heavy judgments upon such children in their life time, and also to shorten their days: for parents complaint doth make a loud cry in Gods ears. It is said that God by cutting off #emph[Abimelech] with an untimely death #emph[rendered the] #footnote[#emph[Judg.] 9. 56.] #emph[wickedness which he did to his father.]
 
-3. In that, when parents are too indulgent over their children, God doth punish the sin both of parent and child, by shortening the childes days. Instance the examples of #footnote[1 #emph[Sam.] 2. 34.] #emph[Hophni] and #emph[Phinehas,] #footnote[2 #emph[Sam.] 18. 14.] #emph[Absalom,] and #footnote[1 #emph[King.] 2. 25.] #emph[Adonijah.]
+3\. In that, when parents are too indulgent over their children, God doth punish the sin both of parent and child, by shortening the childes days. Instance the examples of #footnote[1 #emph[Sam.] 2. 34.] #emph[Hophni] and #emph[Phinehas,] #footnote[2 #emph[Sam.] 18. 14.] #emph[Absalom,] and #footnote[1 #emph[King.] 2. 25.] #emph[Adonijah.]
 
-4. In that disobedience to parents, is a sin that seldom goeth alone: for an undutiful child is commonly a very lewd person many other ways. Considering the proveness of our nature to all sin, it cannot be avoided but that they who in the beginning shake off the yoke of government, should run headlong into all riot, looseness, and licentiousness: thus then sin being added unto sin, it must needs bring mischief upon mischief, till at length life be cut off.
+4\. In that disobedience to parents, is a sin that seldom goeth alone: for an undutiful child is commonly a very lewd person many other ways. Considering the proveness of our nature to all sin, it cannot be avoided but that they who in the beginning shake off the yoke of government, should run headlong into all riot, looseness, and licentiousness: thus then sin being added unto sin, it must needs bring mischief upon mischief, till at length life be cut off.
 
 Wherefore in that these mischiefs are avoided by performing due obedience to parents, it may well be said that #emph[it shall be well with obedient children, and they shall live long.]
 
@@ -322,11 +322,11 @@ Touching their consequence #emph[(if a mans time be determined all the promises 
 
 The knowledge of this determined period of mans life is of great use: for it teacheth us,
 
-1. Wholly to submit our selves to God: and to be prepared #footnote[Uses to be made of the determined time of mans life.] either soon to depart out of this world, or long to live in it, as God shall dispose of our time: nor desiring longer to live then God hath appointed: nor grieving to live so long as he hath appointed.
+1\. Wholly to submit our selves to God: and to be prepared #footnote[Uses to be made of the determined time of mans life.] either soon to depart out of this world, or long to live in it, as God shall dispose of our time: nor desiring longer to live then God hath appointed: nor grieving to live so long as he hath appointed.
 
-2. Not to fear the threats of any man, thereby to be drawn #footnote[#emph[Dan.] 3. 17, 18.] from God.
+2\. Not to fear the threats of any man, thereby to be drawn #footnote[#emph[Dan.] 3. 17, 18.] from God.
 
-3. To do Gods work while we have time, etc. #footnote[#emph[Joh.] 9. 4.]
+3\. To do Gods work while we have time, etc. #footnote[#emph[Joh.] 9. 4.]
 
 === §. 114. #emph[Of reward promised to obedience, that it implieth no merit.]
 

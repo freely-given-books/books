@@ -18,19 +18,19 @@ Among other means of maintaining an inward loving affection betwixt man and wife
 
 For maintaining peace,
 
-1. All offences so much as possibly may be must be avoided. #footnote[Directions for maintaining peace betwixt Man and Wife.] The husband must be watchful over himself that he give no offence to his wife: and so the wife on the other side. Offences cause contentions.
+1\. All offences so much as possibly may be must be avoided. #footnote[Directions for maintaining peace betwixt Man and Wife.] The husband must be watchful over himself that he give no offence to his wife: and so the wife on the other side. Offences cause contentions.
 
-2. When an offence is given by the one party, it must #footnote[1\. Avoid offence.] not be taken by the other; but rather passed by: and then will not peace be broken. The second blow makes #footnote[2\. Take not offence.] the fray. #footnote[3\. Offer reconciliation.]
+2\. When an offence is given by the one party, it must #footnote[1\. Avoid offence.] not be taken by the other; but rather passed by: and then will not peace be broken. The second blow makes #footnote[2\. Take not offence.] the fray. #footnote[3\. Offer reconciliation.]
 
-3. If both be incensed together, the fire is like to be the greater: with the greater speed therefore must they both labour to put it out. Wrath must not lie in bed with two such #footnote[#emph[Eph.] 4. 26.] bed-fellows: neither may they part beds for wrath sake. That this fire may be the sooner quenched, they must both strive first to offer reconciliation. Theirs is the glory who do first begin, for they are most properly the #emph[blessed peacemakers.] Not #footnote[#emph[Mat.] 5. 9.] to accept peace when it is offered is more then heathenish: but when wrath is incensed, to seek atonement is the duty of a Christian, and a grace that cometh from above.
+3\. If both be incensed together, the fire is like to be the greater: with the greater speed therefore must they both labour to put it out. Wrath must not lie in bed with two such #footnote[#emph[Eph.] 4. 26.] bed-fellows: neither may they part beds for wrath sake. That this fire may be the sooner quenched, they must both strive first to offer reconciliation. Theirs is the glory who do first begin, for they are most properly the #emph[blessed peacemakers.] Not #footnote[#emph[Mat.] 5. 9.] to accept peace when it is offered is more then heathenish: but when wrath is incensed, to seek atonement is the duty of a Christian, and a grace that cometh from above.
 
-4. Children, servants, nor any other in the family must be #footnote[4\. Take no part with others.] bolstered up by the one against the other. The mans partaking with any of the house against his wife, or the wives against her husband, is an usual cause of contention betwixt man and wife.
+4\. Children, servants, nor any other in the family must be #footnote[4\. Take no part with others.] bolstered up by the one against the other. The mans partaking with any of the house against his wife, or the wives against her husband, is an usual cause of contention betwixt man and wife.
 
-5. They must forbear to twit one another in the teeth #footnote[5\. Make not comparisons.] with the husbands or wives of other persons: or with their own former husbands or wives (in case they have had any before.) Comparisons in this kind are very odious. They stir up much passion, and cause great contentions.
+5\. They must forbear to twit one another in the teeth #footnote[5\. Make not comparisons.] with the husbands or wives of other persons: or with their own former husbands or wives (in case they have had any before.) Comparisons in this kind are very odious. They stir up much passion, and cause great contentions.
 
-6. Above all they must take heed of rash and unjust jealousy, #footnote[6\. Be not jealous.] which is the bane of marriage, and greatest cause of discontent that can be given betwixt man and wife. Jealous persons are ready to pick quarrels, and to seek occasions of discord: they will take every word, look, action, and motion, in the worse part, and so take offence where none is given. When jealousy is once kindled, it is as a flaming fire that can hardly be put out. It maketh the party whom it possesseth implacable. #footnote[#emph[Pro.] 6. 34, 35.]
+6\. Above all they must take heed of rash and unjust jealousy, #footnote[6\. Be not jealous.] which is the bane of marriage, and greatest cause of discontent that can be given betwixt man and wife. Jealous persons are ready to pick quarrels, and to seek occasions of discord: they will take every word, look, action, and motion, in the worse part, and so take offence where none is given. When jealousy is once kindled, it is as a flaming fire that can hardly be put out. It maketh the party whom it possesseth implacable. #footnote[#emph[Pro.] 6. 34, 35.]
 
-7. In all things that may stand with a good conscience they must endeavour to please one another: and either of #footnote[7\. Please one another.] them suffer their own will to be crossed, rather then discontent to be given to the other. Saint #emph[Paul] noteth this as a common #footnote[1 #emph[Cor.] 7. 33, 34.] mutual duty belonging to them both, and expresseth their care thereof under a word that signifieth more then ordinary #footnote[μεριμνᾶν, quasi μερίζειν τὸν νοῦν.] care, and implieth a #emph[dividing of the mind] into divers thoughts, casting this way, and that way, and every way how to give best content.
+7\. In all things that may stand with a good conscience they must endeavour to please one another: and either of #footnote[7\. Please one another.] them suffer their own will to be crossed, rather then discontent to be given to the other. Saint #emph[Paul] noteth this as a common #footnote[1 #emph[Cor.] 7. 33, 34.] mutual duty belonging to them both, and expresseth their care thereof under a word that signifieth more then ordinary #footnote[μεριμνᾶν, quasi μερίζειν τὸν νοῦν.] care, and implieth a #emph[dividing of the mind] into divers thoughts, casting this way, and that way, and every way how to give best content.
 
 === §. 13. #emph[Of contentions betwixt man and wife.]
 
@@ -48,9 +48,9 @@ The power which the one hath of the others body, and #footnote[Reasons for cohab
 
 #emph[Answ.] There can nor ought to be any cause of utter relinquishing one another, which is a kind of #footnote[§. 3.] #emph[desertion:] but for living asunder for a time there may be just causes, as
 
-1. #emph[Weighty and urgent affairs] which concern the good of the Church, or commonwealth: as when a man is sent forth to war, or on an ambassage (in which case though he may take his wife with him, yet is he not necessarily bound thereto, especially if the place whither he is sent be far off, the passage thereto difficult and dangerous, and his abode there not long.) When #footnote[#emph[Numb.] 32. 26, 27.] #emph[Reuben, Gad,] and half the tribe of #emph[Manasseh] passed over Jordan to help their brethren in their battles against the Canaanites, they left their wives behind them in their families: #footnote[2 #emph[Sam.] 11. 3, 6.] when #emph[Uriah] went to war, he left his wife at home: and #footnote[#emph[Exo.] 18. 2.] when #emph[Moses] was to bring Israel out of Egypt, his wife remained at her fathers house.
+1\. #emph[Weighty and urgent affairs] which concern the good of the Church, or commonwealth: as when a man is sent forth to war, or on an ambassage (in which case though he may take his wife with him, yet is he not necessarily bound thereto, especially if the place whither he is sent be far off, the passage thereto difficult and dangerous, and his abode there not long.) When #footnote[#emph[Numb.] 32. 26, 27.] #emph[Reuben, Gad,] and half the tribe of #emph[Manasseh] passed over Jordan to help their brethren in their battles against the Canaanites, they left their wives behind them in their families: #footnote[2 #emph[Sam.] 11. 3, 6.] when #emph[Uriah] went to war, he left his wife at home: and #footnote[#emph[Exo.] 18. 2.] when #emph[Moses] was to bring Israel out of Egypt, his wife remained at her fathers house.
 
-2. #emph[Main duties of their particular calling:] as of #emph[Mariners,] who are oft to be on the sea: #emph[Merchants] who trade in other countries: #emph[Lawyers] who attend public places of justice: #emph[Courtiers,] who in their months, or quarters, attend their Prince: #emph[Keepers] of women in child-bed, and sick persons: and other #emph[nurses.]
+2\. #emph[Main duties of their particular calling:] as of #emph[Mariners,] who are oft to be on the sea: #emph[Merchants] who trade in other countries: #emph[Lawyers] who attend public places of justice: #emph[Courtiers,] who in their months, or quarters, attend their Prince: #emph[Keepers] of women in child-bed, and sick persons: and other #emph[nurses.]
 
 Provided always that in these, and other like cases, there be #footnote[Absence, 1. not without consent. 1 #emph[Cor.] 7. 5.] a joint and mutual consent of both parties: for if man and wife may not defraud one another for a time to give themselves to fasting and prayer #emph[without consent:] much less may they for lighter occasions live any time asunder without #footnote[2\. Not with delight. #emph[Si vir ad peregrina contenderit, nulla longinquitas, nulla absentia complacitam minuat charitatem. Ambr. Hexaem. l.] 5. #emph[c.] 7.] consent. Provided also that they take no delight to live asunder, but rather be grieved that they are forced so to do: and in testimony thereof to take all occasions that they can to manifest their longing desire one after another by letters, messages, tokens, and other like kindnesses: and to return with all the speed they can. No distance, or absence ought any whit to diminish their mutual love.
 
@@ -64,9 +64,9 @@ Contrary to the duty of #emph[cohabitation] is the doctrine of Papists, whereby 
 
 #emph[Answ.] 1. In marriage there is #emph[a covenant of God] (Prov. 2. 17.) as well as of the two parties: the consent therefore of parties is not sufficient to break it.
 
-2. No estate in this world can be greater or perfecter then is meet for married persons. #emph[Adam] and #emph[Eve] in their best estate were married: and now is #emph[marriage honourable in all.] #footnote[#emph[Heb.] 13. 4.]
+2\. No estate in this world can be greater or perfecter then is meet for married persons. #emph[Adam] and #emph[Eve] in their best estate were married: and now is #emph[marriage honourable in all.] #footnote[#emph[Heb.] 13. 4.]
 
-3. The estates which they count more perfect, are either such as are not in mans power #emph[(as perpetual continency)] or such as may be as well performed by married persons as by single persons (as #emph[Ecclesiastical functions)] if at least they be such as are warranted by Gods word. High Priests, and other Priests, all sorts of Levites, extraordinary Prophets and Apostles were married. What greater functions then these?
+3\. The estates which they count more perfect, are either such as are not in mans power #emph[(as perpetual continency)] or such as may be as well performed by married persons as by single persons (as #emph[Ecclesiastical functions)] if at least they be such as are warranted by Gods word. High Priests, and other Priests, all sorts of Levites, extraordinary Prophets and Apostles were married. What greater functions then these?
 
 The causes which for #emph[demerit,] they say, make a separation, are 1. #emph[Adultery.] 2. #emph[Departing from the Catholic faith.] 3. #emph[Soliciting or impelling unto sin.]
 
@@ -78,11 +78,11 @@ They urge that #emph[if the right eye cause to offend, it must be plucked out.]
 
 #emph[Ans.] 1. That is but a metaphor, and may sundry other ways be applied.
 
-2. The words are not simply, but by way of comparison to be taken, #emph[rather pluck it out, then to be made to stumble thereby.]
+2\. The words are not simply, but by way of comparison to be taken, #emph[rather pluck it out, then to be made to stumble thereby.]
 
-3. #emph[Plucking out,] applied to the point in hand, may be by many other ways, then by dissolving marriage.
+3\. #emph[Plucking out,] applied to the point in hand, may be by many other ways, then by dissolving marriage.
 
-4. That general inhibition #emph[(whosoever shall put away his wife,] #footnote[#emph[Matth.] 5. 32.] #emph[causeth her to commit adultery)] restrained only with the exception of fornication, admitteth neither this, nor any other such cause of dissolving marriage.
+4\. That general inhibition #emph[(whosoever shall put away his wife,] #footnote[#emph[Matth.] 5. 32.] #emph[causeth her to commit adultery)] restrained only with the exception of fornication, admitteth neither this, nor any other such cause of dissolving marriage.
 
 === §. 17. #emph[Of husbands and wives unlawful absenting themselves one from another.]
 

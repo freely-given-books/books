@@ -37,23 +37,23 @@ of that subjection.
 
 To declare the quality of wives subjection to their husbands, two rules are set down.
 
-1. That it be such a subjection, as #footnote[As unto the Lord.] should be performed to Christ.
+1\. That it be such a subjection, as #footnote[As unto the Lord.] should be performed to Christ.
 
-2. That it be such a subjection as the #footnote[As the Church is subject to Christ.] Church performeth unto Christ.
+2\. That it be such a subjection as the #footnote[As the Church is subject to Christ.] Church performeth unto Christ.
 
 The extent of wives subjection doth stretch it self very far, even to #footnote[ἐν παντί, In every thing.] #emph[all things.]
 
 The reason to enforce all these points is taken from that place of eminency and authority, wherein the husband is set above his wife: which is,
 
-1. Propounded under the metaphor of an head #emph[(for the husband is the head of the wife.)]
+1\. Propounded under the metaphor of an head #emph[(for the husband is the head of the wife.)]
 
-2. Amplified by that resemblance which therein he hath unto Christ.
+2\. Amplified by that resemblance which therein he hath unto Christ.
 
 In which resemblance two points are noted.
 
-1. That the husband, by virtue of his place, carrieth the very #emph[image] of Christ #emph[(even as Christ is the head of the Church.)]
+1\. That the husband, by virtue of his place, carrieth the very #emph[image] of Christ #emph[(even as Christ is the head of the Church.)]
 
-2. That the husband by virtue of his office is a protector of his wife #emph[(and he is the saviour of the body.)]
+2\. That the husband by virtue of his office is a protector of his wife #emph[(and he is the saviour of the body.)]
 
 === §. 2. #emph[Of a wives] #footnote[Treat. 4. §. 2.] #emph[subjection in general.]
 
@@ -79,17 +79,17 @@ The general is the ground of the particular: for till a wife be informed that an
 
 First therefore concerning the general, I will lay down #footnote[Proofs that the husband is above the wife] some evident and undeniable proofs, to show that an husband is his wives superior, and hath authority over her. The proofs are these following.
 
-1. God of whom, #footnote[#emph[Rom.] 13. 1.] #emph[the powers that be ordained, are,] hath power to place his Image in whom he will, and to whom God giveth superiority and authority, the same ought to be acknowledged to be due unto them. But God said of the man to the woman, #emph[he shall rule over thee,] (Gen. 3. 16.)
+1\. God of whom, #footnote[#emph[Rom.] 13. 1.] #emph[the powers that be ordained, are,] hath power to place his Image in whom he will, and to whom God giveth superiority and authority, the same ought to be acknowledged to be due unto them. But God said of the man to the woman, #emph[he shall rule over thee,] (Gen. 3. 16.)
 
-2. Nature hath placed an eminency in the male over the #footnote[#emph[Mari & foeminae a natura tributum est, vt hic praesit, illa obediat, cum mas praestantior sit. Arist. Pol. lib.] 1.] female: so as where they are linked together in one yoke, it is given by nature that he should govern, she obey. This did the heathen by light of nature observe.
+2\. Nature hath placed an eminency in the male over the #footnote[#emph[Mari & foeminae a natura tributum est, vt hic praesit, illa obediat, cum mas praestantior sit. Arist. Pol. lib.] 1.] female: so as where they are linked together in one yoke, it is given by nature that he should govern, she obey. This did the heathen by light of nature observe.
 
-3. The titles and names, whereby an husband is set forth, do imply a superiority and authority in him, as #footnote[Κύριος.] #emph[Lord,] (1 Pet. 3. 6.) #footnote[בעל] #emph[master,] (Est. 1. 17.) #footnote[אלוף] #emph[Guide,] (Prov. 2. 17.) #footnote[κεφαλή.] #emph[Head,] (1 Cor. 11. 3.) #footnote[εἰκὼν καὶ δόξα Θεοῦ.] #emph[Image and glory of God,] (1 Cor. 11. 7.)
+3\. The titles and names, whereby an husband is set forth, do imply a superiority and authority in him, as #footnote[Κύριος.] #emph[Lord,] (1 Pet. 3. 6.) #footnote[בעל] #emph[master,] (Est. 1. 17.) #footnote[אלוף] #emph[Guide,] (Prov. 2. 17.) #footnote[κεφαλή.] #emph[Head,] (1 Cor. 11. 3.) #footnote[εἰκὼν καὶ δόξα Θεοῦ.] #emph[Image and glory of God,] (1 Cor. 11. 7.)
 
-4. The persons whom the husband by virtue of his place, and whom the wife by virtue of her place, represent, most evidently prove as much: for an #emph[husband] representeth #emph[Christ,] and a #emph[wife,] the #emph[Church,] (Eph. 5. 23.)
+4\. The persons whom the husband by virtue of his place, and whom the wife by virtue of her place, represent, most evidently prove as much: for an #emph[husband] representeth #emph[Christ,] and a #emph[wife,] the #emph[Church,] (Eph. 5. 23.)
 
-5. The circumstances noted by the Holy Ghost at the womans creation imply no less, as that she was created #emph[after man, for mans good, and out of mans side,] (Gen. 2. 18, etc.)
+5\. The circumstances noted by the Holy Ghost at the womans creation imply no less, as that she was created #emph[after man, for mans good, and out of mans side,] (Gen. 2. 18, etc.)
 
-6. The very #footnote[#emph[Si capilli pro velamine dati sunt, qua gratia aliud addendum est velamen? Vt non tantum natura, sed etiam voluntate subiectam se esse confiteatur. Chrys. in] 1 #emph[Cor. hom.] 26.] attire which nature and custom of all times and places have taught women to put on, confirmeth the same: as #emph[long hair, veils,] and other coverings over the head: this and the former argument doth the Apostle himself use to this very purpose, 1 #emph[Cor.] 11. 7, #emph[etc.]
+6\. The very #footnote[#emph[Si capilli pro velamine dati sunt, qua gratia aliud addendum est velamen? Vt non tantum natura, sed etiam voluntate subiectam se esse confiteatur. Chrys. in] 1 #emph[Cor. hom.] 26.] attire which nature and custom of all times and places have taught women to put on, confirmeth the same: as #emph[long hair, veils,] and other coverings over the head: this and the former argument doth the Apostle himself use to this very purpose, 1 #emph[Cor.] 11. 7, #emph[etc.]
 
 The point then being so clear, wives ought in conscience to acknowledge as much: namely that an husband hath superiority #footnote[1\. Wives must acknowledge a superiority in husbands.] and authority over a wife. The acknowledgment hereof is a main and principal duty, and a ground of all other duties. Till a wife be fully instructed therein and truly persuaded thereof, no duty can be performed by her as it ought: for subjection hath relation to superiority and authority. The very notation of the word implieth as much. How then can subjection be yielded, if husbands be not acknowledged superiors? It may be forced, as one King conquered in battle by another, may be compelled to yield homage to the conqueror, but yet because he still thinketh with himself, that he is no whit inferior, he will hardly be brought willingly to yield a subjects duty to him, but rather expect a time when he may free himself and take revenge of the conqueror.
 
@@ -101,11 +101,11 @@ The reason whereof seemeth to be that small inequality #footnote[Of all that are
 
 But from some particulars to infer a general is a very weak argument.
 
-1. Doth it follow, that because in many things there is a common equity betwixt Judges of Assize, Justices of peace, and Constables of towns, that therefore there is in all things an equality betwixt them?
+1\. Doth it follow, that because in many things there is a common equity betwixt Judges of Assize, Justices of peace, and Constables of towns, that therefore there is in all things an equality betwixt them?
 
-2. In many things there is not a common equity: for the husband may command his wife, but not she him.
+2\. In many things there is not a common equity: for the husband may command his wife, but not she him.
 
-3. Even in those things wherein there is a common equity, there is not an equality: for the husband hath ever even in all things a superiority: as if there be any difference even in the forenamed instances, the husband must have the stroke: as in giving the name of #emph[Rachels] youngest child, where the wife would have one name, the husband another, that name which the husband gave, stood, #emph[(Gen.] 35. 18.)
+3\. Even in those things wherein there is a common equity, there is not an equality: for the husband hath ever even in all things a superiority: as if there be any difference even in the forenamed instances, the husband must have the stroke: as in giving the name of #emph[Rachels] youngest child, where the wife would have one name, the husband another, that name which the husband gave, stood, #emph[(Gen.] 35. 18.)
 
 Though there seem to be never so little disparity, yet God having so expressly appointed subjection, it ought to be acknowledged: and #footnote[#emph[Possunt coniuges per charitatem seruire inuicem, sed mulierem non permittit Apostolus dominari in virum. Aug. de Gen. ad lit. l.] 11. #emph[c.] 37.] though husband and wife may mutually serve one another through love: yet the Apostle suffereth not a woman to rule over the man.
 
@@ -119,7 +119,7 @@ The next duty therefore is, that wives acknowledge their #footnote[All wives mus
 
 #emph[Answ.] Yea verily: for in giving her self to be his wife, and #footnote[Wives inferior to those over whom they were before marriage.] taking him to be her husband, she advanceth him above her self, and subjecteth her self unto him. It booteth nothing what either of them were before marriage: by virtue of the matrimonial bond the husband is made the head of his wife, though the husband were before marriage a very beggar, and of mean parentage, and the wife very wealthy and of a noble stock; or though he were her prentice, or bondslave; which also holdeth in the case betwixt an aged woman and a youth: for the Scripture hath made no exception in any of those cases.
 
-2. #emph[Object.] But what if a man of lewd and beastly conditions, as a drunkard, a glutton, a profane swaggerer, an impious swearer, and blasphemer, be married to a wife, sober, religious Matron, must she account him her superior, and worthy of an husbands honour?
+2\. #emph[Object.] But what if a man of lewd and beastly conditions, as a drunkard, a glutton, a profane swaggerer, an impious swearer, and blasphemer, be married to a wife, sober, religious Matron, must she account him her superior, and worthy of an husbands honour?
 
 #emph[Answ.] Surely she must. For the evil quality and disposition #footnote[Subjection due to husbands of evil qualities.] of his heart and life, doth not deprive a man of that civil honour which God hath given unto him. Though an husband in regard of evil qualities may carry the Image of the devil, yet in regard of his place and office he beareth the image of God: so do Magistrates in the common-wealth, Ministers in the Church, parents and masters in the family. Note for our present purpose, the exhortation of #emph[S. Peter] to Christian wives which had infidel husbands, #footnote[1 #emph[Pet.] 3. 1, 2.] #emph[Be in subjection to them: let your conversation be in fear.] If Infidels carry not the devils Image, and are not, so long as they are Infidels, vassals of Satan, who are? Yet wives must be subject to them, and fear them.
 

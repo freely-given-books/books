@@ -27,11 +27,11 @@ The former is a necessary condition required of all inferiors in their subjectio
 
 Hence for our present purpose, I gather these two other more particular conclusions, The first whereof is this,
 
-1. #emph[If God expressly command the wife any duty, and her husband will not by any means give consent that she shall do it, but forbid her, she may and ought to do it without, or against his consent.]
+1\. #emph[If God expressly command the wife any duty, and her husband will not by any means give consent that she shall do it, but forbid her, she may and ought to do it without, or against his consent.]
 
 Two cautions are warily to be observed about this conclusion: #footnote[2\. Cautions for limiting a wives persisting to do that which her husband forbids.]
 
-1. That the wife be sure that God hath commanded her that which she doth without or against her husbands consent. If she doubt, then she must stay, and forbear till she gain his consent. When two opposite cases meet together, and the one be doubtful, the other plain and express: the doubtful case must give place to the more evident. Now the law of subjection is indefinite, #emph[thy desire shall be subject to thine husband;] #footnote[#emph[Gen.] 3. 16.] the extent of it is general, #emph[in every thing;] the only reservation and exception is #emph[in the Lord;] wherefore if the wife be not sure that that which her husband forbiddeth her is #emph[against the Lord,] she must forbear to do it.
+1\. That the wife be sure that God hath commanded her that which she doth without or against her husbands consent. If she doubt, then she must stay, and forbear till she gain his consent. When two opposite cases meet together, and the one be doubtful, the other plain and express: the doubtful case must give place to the more evident. Now the law of subjection is indefinite, #emph[thy desire shall be subject to thine husband;] #footnote[#emph[Gen.] 3. 16.] the extent of it is general, #emph[in every thing;] the only reservation and exception is #emph[in the Lord;] wherefore if the wife be not sure that that which her husband forbiddeth her is #emph[against the Lord,] she must forbear to do it.
 
 The second caution is that she use all good means she can to gain her husbands consent, before she do, even that which is commanded, against his consent. Thus shall she testify her subjection both to God and her husband. To God, in that nothing can keep her from doing his express commandment: she will rather offend her husband then God, when one of them must needs be offended. To her husband, in that she putteth it to the uttermost push, and useth all the means she can to avoid his offence, in so much as he himself might see (if the god of this world blinded not his eyes) that the offence is no way given on her part, but merely taken on his.
 
@@ -49,7 +49,7 @@ For better application of this point I will lay down some particular instances a
 
 #emph[Answ.] 1. Because the husband hath a greater power over the goods, then over these things.
 
-2. Because alms-giving is not simply commanded to all, but to such as have wherewithal to give: but these things are simply commanded to all.
+2\. Because alms-giving is not simply commanded to all, but to such as have wherewithal to give: but these things are simply commanded to all.
 
 === §. 52. #emph[Of cases wherein a wife ought to forbear what her husband requireth.]
 
@@ -87,7 +87,7 @@ This general conclusion might be applied to the #emph[matter] of subjection as w
 
 These are the four,
 
-1. Humility, 2. Sincerity, 3. Cheerfulness, 4. Constancy.
+1\. Humility, 2. Sincerity, 3. Cheerfulness, 4. Constancy.
 
 === §. 55. #emph[Of wives] #footnote[Treat. 4. §. 15.] #emph[humility in every duty.]
 
@@ -107,11 +107,11 @@ Though there were no other motive in the world to move her to subjection, yet fo
 
 Great reason there is that wives should in sincerity subject #footnote[Reasons for sincerity.] themselves: for
 
-1. In their subjection even to their husbands they have to #footnote[1\. Because wives have to do with Christ.] do with Christ, in whose room their husbands stand: so as, though their husbands who are but men, see only the face and outward behaviour, yet Christ seeth their heart and inward disposition: though their husbands see only the things which they do before their faces, and can hear only of such things as are done before others: yet Christ seeth and knoweth the things that are done in the most secret places that can be, when no creature beside themselves is privy thereunto: Now let it be granted that in their outward carriage they give very good contentment unto their husbands, and please them every way, yet if sincerity have been wanting, with what face can they appear before Christ? He will take another manner account of them: before Christ all their outward complement will stand them in no stead at all.
+1\. In their subjection even to their husbands they have to #footnote[1\. Because wives have to do with Christ.] do with Christ, in whose room their husbands stand: so as, though their husbands who are but men, see only the face and outward behaviour, yet Christ seeth their heart and inward disposition: though their husbands see only the things which they do before their faces, and can hear only of such things as are done before others: yet Christ seeth and knoweth the things that are done in the most secret places that can be, when no creature beside themselves is privy thereunto: Now let it be granted that in their outward carriage they give very good contentment unto their husbands, and please them every way, yet if sincerity have been wanting, with what face can they appear before Christ? He will take another manner account of them: before Christ all their outward complement will stand them in no stead at all.
 
-2. Herein lieth a main difference betwixt true, Christian, #footnote[2\. This maketh a difference betwixt holy women and others.] religious wives, and mere natural women: #emph[these] may be subject on by-respects, as namely, that their husbands may the more love them, or live the more quietly and peaceably with them, or that they may the more readily obtain what they desire at their husbands hands, or for fear of their husbands displeasure and wrath, knowing him to be an angry, furious man, so as otherwise it might be worse with them, they might want many needful things, or carry away many sore blows if they were not subject. But #emph[the other] have respect to Christs ordinance, whereby their husbands are made their head, and to his word and will, whereby they are commanded subjection. Thus #footnote[1 #emph[Pet.] 3. 5.] holy women subjected themselves; they cannot be holy that do not thus subject themselves: for this is a sweet perfume that sendeth forth a good savour into Christs nostrils, and maketh the things we do pleasant and acceptable to him.
+2\. Herein lieth a main difference betwixt true, Christian, #footnote[2\. This maketh a difference betwixt holy women and others.] religious wives, and mere natural women: #emph[these] may be subject on by-respects, as namely, that their husbands may the more love them, or live the more quietly and peaceably with them, or that they may the more readily obtain what they desire at their husbands hands, or for fear of their husbands displeasure and wrath, knowing him to be an angry, furious man, so as otherwise it might be worse with them, they might want many needful things, or carry away many sore blows if they were not subject. But #emph[the other] have respect to Christs ordinance, whereby their husbands are made their head, and to his word and will, whereby they are commanded subjection. Thus #footnote[1 #emph[Pet.] 3. 5.] holy women subjected themselves; they cannot be holy that do not thus subject themselves: for this is a sweet perfume that sendeth forth a good savour into Christs nostrils, and maketh the things we do pleasant and acceptable to him.
 
-3. The benefit of this virtue being planted in a wives heart #footnote[3\. Great is the benefit hereof.] is very great, and that both to her husband, and also to her self.
+3\. The benefit of this virtue being planted in a wives heart #footnote[3\. Great is the benefit hereof.] is very great, and that both to her husband, and also to her self.
 
 To her husband, in that it will make her manifest her respect of him before others, behind his back, as well as before himself in his presence: and also will make her faithful to him, and careful to do his will wheresoever he be, with her, or from her.
 
@@ -155,15 +155,15 @@ The extent of a wives subjection (which remaineth now to be handled) is set down
 
 Answ. 1. To teach wives that it is not sufficient for them to obey their husbands in some things, as they themselves think meet, but in all things whatsoever they be wherein the husband by virtue of his superiority and authority hath power to command his wife. Thus this general extent excludeth not Gods will, but the wives will. She may do nothing against Gods will; but many things must she do against her own will if her husband require her.
 
-2. To show that the husbands authority and power is very large: it hath no restraint but Gods contrary command, whereof if a wife be not assured, she must yield to her husbands will.
+2\. To show that the husbands authority and power is very large: it hath no restraint but Gods contrary command, whereof if a wife be not assured, she must yield to her husbands will.
 
 === §. 64. #emph[Of a wives] #footnote[Treat. 4. §. 28, 29.] #emph[labouring to bring her judgment to the bent of her husbands.]
 
 From that extent I gather these two conclusions:
 
-1. #emph[A wife must labour to bring her judgment and will to her husbands.]
+1\. #emph[A wife must labour to bring her judgment and will to her husbands.]
 
-2. #emph[Though in her judgment she cannot think that most meet which her husband requireth, yet she must yield to it in practise.]
+2\. #emph[Though in her judgment she cannot think that most meet which her husband requireth, yet she must yield to it in practise.]
 
 In the former of these, I say not simply that a wife is bound to bring her judgment to the bent of her husbands; for he may be deceived in his judgment, and she may see his error, and then unless her understanding should be blinded, she cannot conceive that to be true which he judgeth so: but I speak of endeavour (when she hath not sure and undeniable grounds to the contrary) to suspect her judgment when it's contrary to her husbands, and to think she may be in an error, and thereupon not be too peremptory and resolute in contradicting her husbands opinion. This submission even of her judgment respecteth not only things necessary, for which her husband hath an express determinate warrant out of the Scripture, but also things doubtful & indifferent: for even so far doth this clause #emph[(in every thing)] extend: and the subjection of a wife respecteth not her practise only, but her judgment and opinion also: which if she can bring to the lawfulness and meetness of that which her husband requireth, she will much more cheerfully perform it. To this purpose (as I take it) may be applied that exhortation of the Apostle unto women, that they #emph[learn in silence with all subjection:] #footnote[1 #emph[Tim.] 2. 11.] which though it be principally meant of learning in the Church, yet it excludeth not her learning at home of her husband: for in the next words he addeth, #emph[I suffer not a woman to usurp authority over the man, but to be in silence.]
 
@@ -221,9 +221,9 @@ The fifth from the #emph[example] and pattern of the Church #emph[(as the Church
 
 The #emph[place] wherein God hath set an husband as it serveth #footnote[1\. #emph[Reason.]] to direct a wife in the #emph[manner] of her subjection, whereof I have spoken #footnote[§. 51.] before, so also it serveth to move a wife to yield such subjection as is required: which will evidently appear by these two conclusions following from thence.
 
-1. #emph[A wife by subjecting her self to her husband, therein is subject unto Christ.]
+1\. #emph[A wife by subjecting her self to her husband, therein is subject unto Christ.]
 
-2. #emph[A wife by refusing to be subject unto her husband, therein refuseth to be subject unto Christ.]
+2\. #emph[A wife by refusing to be subject unto her husband, therein refuseth to be subject unto Christ.]
 
 That these two conclusions are rightly and justly gathered from the forenamed ground I prove by like conclusions which the Holy Ghost inferreth upon the like ground. It is evident that Christ Jesus, even incarnate and made flesh, was in the room and stead of his father, whereupon Christ said to #emph[Philip] that desired to see the father, #emph[he that hath seen me hath seen the father:] Now mark what Christ thence inferreth both on #footnote[#emph[Joh.] 14. 9. #emph[Mat.] 10. 40. #emph[Joh.] 5. 23.] the one side #emph[(he that receiveth me receiveth him that sent me)] and on the other #emph[(he that honoureth not the son, honoureth not the father that sent him.)] It is also evident that Ministers of the Gospel stand in the room and stead of Christ: for thus saith the Apostle of himself and other Ministers, #emph[we are ambassadors for Christ, as though God did beseech you by us, we pray you in Christs stead, etc.] Now mark again the conclusions inferred thereupon by Christ, on the one side, #emph[he that heareth] #footnote[#emph[Luk.] 10. 16.] #emph[you, heareth me,] and on the other, #emph[he that despiseth you, despiseth me.] On this ground it was that God said to #emph[Samuel] concerning the people that rejected his government, they have not cast #emph[thee away, but they have cast me away.] #footnote[1 #emph[Sam.] 8. 7.]
 
@@ -251,11 +251,11 @@ The third reason taken from an husbands #emph[resemblance] unto #footnote[3\. #e
 
 To apply this point, mark how from it two positions (worthy to be noted) do arise.
 
-1. #emph[Subjection is due to an husband as well as to Christ.] #footnote[Subjection due to an husband as well as to Christ.]
+1\. #emph[Subjection is due to an husband as well as to Christ.] #footnote[Subjection due to an husband as well as to Christ.]
 
 I say not #emph[as great,] because of the difference in glory: but #emph[as well,] because of the likeness in office. A Constable (though a poor mean man) must be obeyed as well as an high sheriff: A beggars child must obey his father, as well as a kings child. Such wives therefore who are not subject, wrong their husbands, as well as they wrong Christ who are not subject to him.
 
-2. #emph[They who by their subjection maintain the honour of their husbands place, maintain thereby the honour of Christs place:] and again by the rule of contraries, #emph[They who by refusing to be subject impeach the honour of their husbands place, impeach thereby the honour of Christs place.]
+2\. #emph[They who by their subjection maintain the honour of their husbands place, maintain thereby the honour of Christs place:] and again by the rule of contraries, #emph[They who by refusing to be subject impeach the honour of their husbands place, impeach thereby the honour of Christs place.]
 
 The obedience of a poor mans child or servant justifieth that obedience which kings children and servants owe their father and sovereign: and so on the contrary, disobedience in mean ones, dishonoureth the place of great ones.
 
@@ -265,9 +265,9 @@ If a natural body, and the Church were flexible, and could be seduced, and drawn
 
 From the last forenamed positions (viz. That #emph[the obedience of a good wife maintaineth the honour of Christs place,] and on the contrary side that #emph[the disobedience of an ill wife impaireth the honour thereof)] I may justly infer two other conclusions.
 
-1. That #emph[Christ will assuredly reward the good subjection of] #footnote[Christ will reward the good subjection, and revenge the rebellion of wives.] #emph[good wives:] for he hath said (and what he hath said he can and will perform) #emph[them that honour me will I honour.]
+1\. That #emph[Christ will assuredly reward the good subjection of] #footnote[Christ will reward the good subjection, and revenge the rebellion of wives.] #emph[good wives:] for he hath said (and what he hath said he can and will perform) #emph[them that honour me will I honour.]
 
-2. #emph[That he will sorely revenge the rebellion of evil wives:] for again he hath said, #emph[they that despise me, shall be despised.]
+2\. #emph[That he will sorely revenge the rebellion of evil wives:] for again he hath said, #emph[they that despise me, shall be despised.]
 
 We know that fellows in office are ready to stand for the #footnote[1 #emph[Sam.] 2. 30.] credit of one anothers place, and to maintain the honour thereof: and that not without good reason: for thereby they maintain their own honour and credit.
 
@@ -294,9 +294,9 @@ The last reason taken from the #emph[example] of the Church is also #footnote[5\
 
 But to show the force of this reason a little more distinctly, note these two conclusions following from it.
 
-1. #emph[Wives are as much bound to be subject to their husbands, as the Church to Christ.] Else why should this example be thus set before them, and pressed upon them? Why are husbands set in Christs stead, and resembled to him?
+1\. #emph[Wives are as much bound to be subject to their husbands, as the Church to Christ.] Else why should this example be thus set before them, and pressed upon them? Why are husbands set in Christs stead, and resembled to him?
 
-2. #emph[A wives subjection to her husband, answerable to the Churches subjection unto Christ, is an evidence that she is of the Church,] guided by the same Spirit that the Church is. For it cannot be performed by the power of nature, it is a supernatural work, and so an evidence of the Spirit.
+2\. #emph[A wives subjection to her husband, answerable to the Churches subjection unto Christ, is an evidence that she is of the Church,] guided by the same Spirit that the Church is. For it cannot be performed by the power of nature, it is a supernatural work, and so an evidence of the Spirit.
 
 Wherefore, ô Christian wives, as your husbands by their place resemble Christ, so do you by your practise resemble the Church. Of the two this is the more commendable: for that is a dignity, this a virtue: but true virtue is much more glorious then any dignity can be.
 

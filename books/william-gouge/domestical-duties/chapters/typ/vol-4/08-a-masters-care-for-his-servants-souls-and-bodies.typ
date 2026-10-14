@@ -8,23 +8,23 @@ In respect of their souls good, masters must seek the spiritual #footnote[I. #em
 
 The respect which masters owe to God, themselves, their servants, the Church, and common-wealth where they live, requireth as much.
 
-1. God hath commanded as much #emph[(Deut.] 6. 7.) as this charge implieth, #emph[Thou shalt talk of my Laws when thou sittest in thine house:] and God hath manifested his approbation thereof, by commending #emph[Abraham] for commanding his children and #emph[household] to keep the way of the Lord, #emph[Gen.] 18. 19.
+1\. God hath commanded as much #emph[(Deut.] 6. 7.) as this charge implieth, #emph[Thou shalt talk of my Laws when thou sittest in thine house:] and God hath manifested his approbation thereof, by commending #emph[Abraham] for commanding his children and #emph[household] to keep the way of the Lord, #emph[Gen.] 18. 19.
 
-2. Masters themselves reap great benefit by a faithful discharge #footnote[#emph[De salute eorum qui in domo tua sunt sollicitus, ac peruigil existas, quia pro omnibus tibi subiectis rationen Domino reddes. Aug. de salut. docum. cap.] 29.] of this duty: and that both by discharging a good conscience to God, (who requireth this at their hands, in that he hath made them prophets and priests in their house, as well as kings; and will require an account of them for all that are under their government:) and also by bringing their servants to do more faithful service to them. For there is no such means to stir up servants to do all good duty, as the fear of God planted in their hearts. That servant that shall find true grace either first wrought, or further increased in him by his masters means, will think himself so beholding to such a master, as he shall never be able to make any sufficient recompense, & therefore will endeavour to do what good service he can in way of thankfulness: he will not only be faithful & diligent in his business, but he will call upon God to prosper his service for his masters good, and to recompense that kindness which his master hath done to him.
+2\. Masters themselves reap great benefit by a faithful discharge #footnote[#emph[De salute eorum qui in domo tua sunt sollicitus, ac peruigil existas, quia pro omnibus tibi subiectis rationen Domino reddes. Aug. de salut. docum. cap.] 29.] of this duty: and that both by discharging a good conscience to God, (who requireth this at their hands, in that he hath made them prophets and priests in their house, as well as kings; and will require an account of them for all that are under their government:) and also by bringing their servants to do more faithful service to them. For there is no such means to stir up servants to do all good duty, as the fear of God planted in their hearts. That servant that shall find true grace either first wrought, or further increased in him by his masters means, will think himself so beholding to such a master, as he shall never be able to make any sufficient recompense, & therefore will endeavour to do what good service he can in way of thankfulness: he will not only be faithful & diligent in his business, but he will call upon God to prosper his service for his masters good, and to recompense that kindness which his master hath done to him.
 
-3. No earthly thing that a master can do for his servant (be it portion of money, preferment to any place of profit or credit, or skill in a good trade and calling) can be comparable to the edifying of a servant in grace.
+3\. No earthly thing that a master can do for his servant (be it portion of money, preferment to any place of profit or credit, or skill in a good trade and calling) can be comparable to the edifying of a servant in grace.
 
-4. Servants well instructed in piety are likeliest to prove most profitable not only to the family, but also to the Church and common-wealth where they live.
+4\. Servants well instructed in piety are likeliest to prove most profitable not only to the family, but also to the Church and common-wealth where they live.
 
 That masters may the better edify their servants,
 
-1. They must daily instruct them in the principles of religion, #footnote[Directions for edifying servants.] and all duties of piety: admirable is the profit which will arise from a daily and constant use of religious exercises: though but a little time be spent at once, yet will much knowledge be gained by a frequent use of them. This duty is so much the more necessary, because public Ministers cannot take such particular notice of every servant in their Parishes, as masters may in their families.
+1\. They must daily instruct them in the principles of religion, #footnote[Directions for edifying servants.] and all duties of piety: admirable is the profit which will arise from a daily and constant use of religious exercises: though but a little time be spent at once, yet will much knowledge be gained by a frequent use of them. This duty is so much the more necessary, because public Ministers cannot take such particular notice of every servant in their Parishes, as masters may in their families.
 
-2. Masters must cause their servants to go to the public ministry of the word, and worship of God, to be further built up thereby, and confirmed in their faith. Masters under the Law were #footnote[#emph[Exo.] 12. 44.] commanded to let their servants eat of the Passover, which was a solemn sacrament. The Law which enjoineth all males to appear #footnote[#emph[Deut.] 16. 16.] on the solemn feast days before the Lord, implieth that servants also should go. This duty must especially be performed on the Lords day: for the charge given to masters in the fourth commandment for sanctifying that day, is extended to servants in these words, #emph[Thou, nor thy man-servant, nor thy maid-servant.]
+2\. Masters must cause their servants to go to the public ministry of the word, and worship of God, to be further built up thereby, and confirmed in their faith. Masters under the Law were #footnote[#emph[Exo.] 12. 44.] commanded to let their servants eat of the Passover, which was a solemn sacrament. The Law which enjoineth all males to appear #footnote[#emph[Deut.] 16. 16.] on the solemn feast days before the Lord, implieth that servants also should go. This duty must especially be performed on the Lords day: for the charge given to masters in the fourth commandment for sanctifying that day, is extended to servants in these words, #emph[Thou, nor thy man-servant, nor thy maid-servant.]
 
-3. Masters, beside instructing servants at home, and causing them to go to Church, must take an account of their profiting, both by the public, and also by the private means of edification. Otherwise they shall not know how to order their manner of instructing them: when to give them milk, & when strong meat.
+3\. Masters, beside instructing servants at home, and causing them to go to Church, must take an account of their profiting, both by the public, and also by the private means of edification. Otherwise they shall not know how to order their manner of instructing them: when to give them milk, & when strong meat.
 
-4. To make the means more effectual and profitable, they must to instruction add prayer. Means, without Gods blessing upon the means, are nothing. As they observe any grace wrought in their servants, they must be thankful unto God for the same, and pray for the increase of it.
+4\. To make the means more effectual and profitable, they must to instruction add prayer. Means, without Gods blessing upon the means, are nothing. As they observe any grace wrought in their servants, they must be thankful unto God for the same, and pray for the increase of it.
 
 === §. 22. #emph[Of masters neglecting to edify their servants.]
 
@@ -74,7 +74,7 @@ This point concerneth those masters especially that find their servants (as we s
 
 Though labour and pains be proper to a servants place, yet he may be so put unto it, as the health and strength of his body may be impaired thereby. For the well ordering of this therefore a duty lieth upon masters: and that in two things especially.
 
-1. That they well moderate the labour whereunto they put their servants, so as they may be able for the time to undergo it, and to endure so long as their time of labour is appointed. It was a good reason which #emph[Saul] rendered to keep #emph[David] from #footnote[1 #emph[Sam.] 17. 33.] entering combat with #emph[Goliah,] because (as he thought) #emph[David was not able to fight against the Philistim, David being a youth, and Goliah a man of war.]
+1\. That they well moderate the labour whereunto they put their servants, so as they may be able for the time to undergo it, and to endure so long as their time of labour is appointed. It was a good reason which #emph[Saul] rendered to keep #emph[David] from #footnote[1 #emph[Sam.] 17. 33.] entering combat with #emph[Goliah,] because (as he thought) #emph[David was not able to fight against the Philistim, David being a youth, and Goliah a man of war.]
 
 And indeed if #emph[Davids] faith had not exceeded the strength of his body, it had been unmeet to have put #emph[David] to that task.
 
@@ -86,7 +86,7 @@ It is also a fault in this kind, to put servants to such toiling #footnote[#emph
 
 === §. 27. #emph[Of affording servants fit means for their work.]
 
-2. The other thing required of masters for well ordering their servants work is, that they afford their servants things needful, and behoveful for that work whereunto they are put: which mind was commendable in #emph[Saul,] who assayed if his #footnote[1 #emph[Sam.] 17. 38.] armour might be fit for #emph[David] when he was to go against #emph[Goliah.] To reckon up all the particulars were an infinite task: every several trade and work hath proper means of help appertaining to it: this general direction may be sufficient to move masters to apply it to the particular works and services whereunto they put their servants. Fit means are such an help, as that which with them may easily be done, without them can hardly, if possibly at all be done.
+2\. The other thing required of masters for well ordering their servants work is, that they afford their servants things needful, and behoveful for that work whereunto they are put: which mind was commendable in #emph[Saul,] who assayed if his #footnote[1 #emph[Sam.] 17. 38.] armour might be fit for #emph[David] when he was to go against #emph[Goliah.] To reckon up all the particulars were an infinite task: every several trade and work hath proper means of help appertaining to it: this general direction may be sufficient to move masters to apply it to the particular works and services whereunto they put their servants. Fit means are such an help, as that which with them may easily be done, without them can hardly, if possibly at all be done.
 
 It is contrary hereunto to deal with servants as the Egyptians did with the Israelites, exacting work at their hands, and #footnote[#emph[Exo.] 5. 7.] not affording them means to do it: whereby many times they exact impossibilities. Some will have much work done in the night time, and not afford candle light: so in other particulars.
 
@@ -122,15 +122,15 @@ Contrary to both the forenamed times of rest do many masters offend: as first, t
 
 === §. 30. #emph[Of masters offence in keeping servants from the rest of the Lords day.]
 
-2. Against the rest of the Lords day, do too too many masters offend: as
+2\. Against the rest of the Lords day, do too too many masters offend: as
 
-1. By keeping servants at their ordinary work on that day.
+1\. By keeping servants at their ordinary work on that day.
 
-2. By sending them up and down on that day on many errands, as to gather up debts, or to do such other services as they are loth to afford time for on other days.
+2\. By sending them up and down on that day on many errands, as to gather up debts, or to do such other services as they are loth to afford time for on other days.
 
-3. By making that the greatest day of pains and labour, namely to such as are in the kitchen, or have any other business about feasts: for the Lords day is by many ordinarily made a day of feasting.
+3\. By making that the greatest day of pains and labour, namely to such as are in the kitchen, or have any other business about feasts: for the Lords day is by many ordinarily made a day of feasting.
 
-4. By keeping them up too late on Saturday nights: even till one of the clock. Many that make some conscience of the Lords day use to offend herein: for that their servants might not work on that day, they keep them up till the very moment that they think the Sabbath beginneth: but herein they commit a double fault: one in not allowing their servants sufficient time of rest: another in making them unfit through want of sleep to do the holy services of the Lords day.
+4\. By keeping them up too late on Saturday nights: even till one of the clock. Many that make some conscience of the Lords day use to offend herein: for that their servants might not work on that day, they keep them up till the very moment that they think the Sabbath beginneth: but herein they commit a double fault: one in not allowing their servants sufficient time of rest: another in making them unfit through want of sleep to do the holy services of the Lords day.
 
 === §. 31. #emph[Of allowing time of recreation to servants.]
 
@@ -146,11 +146,11 @@ But if a master be careful of his sick servant, affording unto #footnote[2\. Fut
 
 But though the servant that is sick have in former time #footnote[3\. Charity.] been unprofitable, and there be little hope of future benefit by him, yet for charity sake, and in subjection to Gods disposing providence, whereby that servant is fallen sick in his masters house, must he in that case be well looked unto. If the Samaritan #footnote[#emph[Luke] 10. 33, 34.] did well in taking care of a mere stranger out of his house, because he saw him succourless, surely that master which neglecteth his servant that is sick in his house, doth very ill.
 
-#strong[1. #emph[Quest.] What if he be not a covenanted servant for a set time, but a Journey-man at will, or one that worketh by the day or week?]
+#strong[1\. #emph[Quest.] What if he be not a covenanted servant for a set time, but a Journey-man at will, or one that worketh by the day or week?]
 
 #emph[Answ.] Though a master be not so much bound to such an one, yet if he fall sick in his house, he may not in that case thrust him out of doors, unless he know where he may be well provided for.
 
-#strong[2. #emph[Quest.] What if a master be poor, and not able to provide that which is requisite for a sick person?]
+#strong[2\. #emph[Quest.] What if a master be poor, and not able to provide that which is requisite for a sick person?]
 
 #emph[Answ.] If the sick person have friends and kindred that are better able, they must provide for him: if not, the Church must help: but it is the masters duty, to make the sick mans case known to his friends, or to the Church.
 
@@ -160,17 +160,17 @@ If, after all good means are used for recovery, the servant #footnote[Servants t
 
 Many masters much offend in the contrary to the forenamed duties. For
 
-1. Some, when they observe their servants begin to be sick, will put them out of their houses, and leave them to shift for themselves, as that cruel Amalekite who left his sick servant #footnote[1 #emph[Sam.] 30. 13.] abroad in the fields. But note the vengeance of God which followed thereupon: The leaving of that sick servant in that case was the occasion of the destruction of that master and all his company. By that means they were discovered to their enemies.
+1\. Some, when they observe their servants begin to be sick, will put them out of their houses, and leave them to shift for themselves, as that cruel Amalekite who left his sick servant #footnote[1 #emph[Sam.] 30. 13.] abroad in the fields. But note the vengeance of God which followed thereupon: The leaving of that sick servant in that case was the occasion of the destruction of that master and all his company. By that means they were discovered to their enemies.
 
-2. Others, when they cannot remove their sick servants out of their house, will suffer them there to lie succourless, and to perish for want of things needful. Many rich men that are able to provide well enough for them, will send them to some out, back room, and take no more care for them. In this kind many of them show more kindness to a dog, or other beast that is not well, then to a servant. An inhumane part.
+2\. Others, when they cannot remove their sick servants out of their house, will suffer them there to lie succourless, and to perish for want of things needful. Many rich men that are able to provide well enough for them, will send them to some out, back room, and take no more care for them. In this kind many of them show more kindness to a dog, or other beast that is not well, then to a servant. An inhumane part.
 
-3. Others, that seem not so inhumane, deal too hardly with their servants in such a case: they will afford them things needful, but all at the poor servants cost: and if those servants have not present money, they will cut it off their wages if they recover health to do them service. Is this to #emph[undo the heavy burdens?] Or is it not to lay burden upon #footnote[#emph[Isa.] 58. 6.] burden?
+3\. Others, that seem not so inhumane, deal too hardly with their servants in such a case: they will afford them things needful, but all at the poor servants cost: and if those servants have not present money, they will cut it off their wages if they recover health to do them service. Is this to #emph[undo the heavy burdens?] Or is it not to lay burden upon #footnote[#emph[Isa.] 58. 6.] burden?
 
-4. Others, that are at some charges for their servants sickness, do so mutter at their servants, and fling out such discontented speeches (namely, that they took them for their work, and not to keep them in their bed: to get some thing by them, not to be at such cost with them: or that they make themselves more sick then needs: they may rise, if they will, (with many other like discontented speeches) that the poor sick servants are more grieved and troubled with their masters discontent, then with their sickness: and oft moved to strive above their strength to rise, even when death is seizing upon them, and so hasten the approach of death.
+4\. Others, that are at some charges for their servants sickness, do so mutter at their servants, and fling out such discontented speeches (namely, that they took them for their work, and not to keep them in their bed: to get some thing by them, not to be at such cost with them: or that they make themselves more sick then needs: they may rise, if they will, (with many other like discontented speeches) that the poor sick servants are more grieved and troubled with their masters discontent, then with their sickness: and oft moved to strive above their strength to rise, even when death is seizing upon them, and so hasten the approach of death.
 
-5. Many that may be careful enough of the bodily estate of their servants in sickness, #footnote[See §. 21, 22.] have no respect at all to the spiritual comfort of their souls, they neither give them a word of comfort themselves, nor send for minister or any other to do it: but let them in this respect lie, and die as beasts. Of all points of unmercifulness this is the greatest: and most unbeseeming Christians.
+5\. Many that may be careful enough of the bodily estate of their servants in sickness, #footnote[See §. 21, 22.] have no respect at all to the spiritual comfort of their souls, they neither give them a word of comfort themselves, nor send for minister or any other to do it: but let them in this respect lie, and die as beasts. Of all points of unmercifulness this is the greatest: and most unbeseeming Christians.
 
-6. Others, if their servants die, will scarce afford them a winding sheet, but say, let any one that will, bury them for their clothes.
+6\. Others, if their servants die, will scarce afford them a winding sheet, but say, let any one that will, bury them for their clothes.
 
 Notice is to be taken of these inhumane carriages, that the detestation of them may make other masters more tender hearted towards their servants.
 

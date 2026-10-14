@@ -85,11 +85,11 @@ The good which correction bringeth to children, is by #emph[Solomon] noted in th
 
 In regard of parents, due correcting of their children both freeth them of many inconveniences, and also bringeth to them #footnote[2\. Benefits of correcting to him that correcteth.] much quiet.
 
-1. It spareth them much pains. For many admonitions oft repeated, and inculcated again and again, will not make many children so much to heed wholesome and good advice, as a little correction. They are much more sensible of smart, then of words.
+1\. It spareth them much pains. For many admonitions oft repeated, and inculcated again and again, will not make many children so much to heed wholesome and good advice, as a little correction. They are much more sensible of smart, then of words.
 
-2. It preventeth much grief, shame, and vexation: for #footnote[#emph[Pro.] 17. 25.] #emph[a foolish son is a grief to his father, and bitterness to her that bare him.] But #emph[it is] #footnote[#emph[&] 22. 15.] #emph[the rod of correction that driveth away foolishness,] and so preventeth that #emph[grief] and #emph[bitterness.]
+2\. It preventeth much grief, shame, and vexation: for #footnote[#emph[Pro.] 17. 25.] #emph[a foolish son is a grief to his father, and bitterness to her that bare him.] But #emph[it is] #footnote[#emph[&] 22. 15.] #emph[the rod of correction that driveth away foolishness,] and so preventeth that #emph[grief] and #emph[bitterness.]
 
-3. It freeth them from the guilt of their childrens sin, so as they are not accessary thereto, as #footnote[1 #emph[Sam.] 3. 13.] #emph[Eli] was. For correction is the last remedy that a parent can use: if by that he can do no good, it is presupposed that he hath done his uttermost endeavour: in which respect, though the child die in his sin, yet the parent hath delivered his own soul.
+3\. It freeth them from the guilt of their childrens sin, so as they are not accessary thereto, as #footnote[1 #emph[Sam.] 3. 13.] #emph[Eli] was. For correction is the last remedy that a parent can use: if by that he can do no good, it is presupposed that he hath done his uttermost endeavour: in which respect, though the child die in his sin, yet the parent hath delivered his own soul.
 
 The quiet which is brought to parents by correcting their children, is thus noted out by #emph[Solomon,] #footnote[#emph[Pro.] 29. 17.] #emph[Correct thy son, and he shall give thee rest, yea he shall give delight unto thy soul.] For children well nurtured, and by correction kept in a filial awe, will so carry themselves, as their parents may rest somewhat secure, and not disquiet themselves (as they do with children set at liberty) yea, as trees well pruned, and ground well tilled, they will bring forth pleasant and abundant fruit; and so their parents will have just cause to rejoice in them.
 
@@ -99,33 +99,33 @@ For well using this biting corrosive of correction, parents must have respect to
 
 In regard of the matter, these three things must be noted. #footnote[Three things noted in the matter, for which correction is to be given.]
 
-1. That they be sure there is a fault committed: that so there be just cause of correcting: else more hurt then good will proceed from thence. If a corrosive be laid where there is no sore, it will make one. If correction be unjustly given, it may provoke to wrath, but will do little good. This is it wherein earthly fathers are taxed, and made unlike to God, for that many times they #emph[correct after their own pleasure:] which is a point of great injustice. #footnote[#emph[Heb.] 12. 10.]
+1\. That they be sure there is a fault committed: that so there be just cause of correcting: else more hurt then good will proceed from thence. If a corrosive be laid where there is no sore, it will make one. If correction be unjustly given, it may provoke to wrath, but will do little good. This is it wherein earthly fathers are taxed, and made unlike to God, for that many times they #emph[correct after their own pleasure:] which is a point of great injustice. #footnote[#emph[Heb.] 12. 10.]
 
-2. That the fault be made known to the child corrected: and he apparently convinced thereof. Correction must be for instruction, which cannot be, except the child know why he is corrected: for it is all one to him, as if he were corrected for no fault, if he know not his fault. God thus at first proceeded with the serpent, #footnote[#emph[Gen.] 3. 11, #emph[etc.]] with #emph[Eve,] and with #emph[Adam.] Thus Judges proceed in punishing malefactors. Yea thus will men deal with a dog. Should they not much more with a child?
+2\. That the fault be made known to the child corrected: and he apparently convinced thereof. Correction must be for instruction, which cannot be, except the child know why he is corrected: for it is all one to him, as if he were corrected for no fault, if he know not his fault. God thus at first proceeded with the serpent, #footnote[#emph[Gen.] 3. 11, #emph[etc.]] with #emph[Eve,] and with #emph[Adam.] Thus Judges proceed in punishing malefactors. Yea thus will men deal with a dog. Should they not much more with a child?
 
-3. That the faults be such especially, as the parents can show to their children (if at least they be of so much discretion) to be against Gods word; as swearing, lying, pilfering, and the like: for 1. These are most dangerous faults, and therefore more carefully to be purged out. 2. The child corrected will thus be the better evicted of his fault, the more condemn himself, and more contentedly bear the correction.
+3\. That the faults be such especially, as the parents can show to their children (if at least they be of so much discretion) to be against Gods word; as swearing, lying, pilfering, and the like: for 1. These are most dangerous faults, and therefore more carefully to be purged out. 2. The child corrected will thus be the better evicted of his fault, the more condemn himself, and more contentedly bear the correction.
 
 In regard of the manner of correcting, four general, and four #footnote[Four general rules for the manner of correcting.] particular rules are to be observed.
 
 The general rules are these.
 
-1. An eye must be had to Gods manner of correcting his children, and in particular of Gods correcting the parent himself: no better general direction can be given: for Gods pattern is a perfect rule.
+1\. An eye must be had to Gods manner of correcting his children, and in particular of Gods correcting the parent himself: no better general direction can be given: for Gods pattern is a perfect rule.
 
-2. Prayer must be made by parents for themselves and for their children: for themselves, to be directed in doing it: for their children, to be bettered by it. Thus will good Physicians in ministering physic. In all duties is prayer to be used; especially in this: for a parent is ready, partly through his own intemperate passion, and partly through the childs impatiency, to fall into one extreme or other. This is not to impose upon all, whensoever they take up the rod, to go and make a solemn prayer, but to lift up the heart for direction and blessing.
+2\. Prayer must be made by parents for themselves and for their children: for themselves, to be directed in doing it: for their children, to be bettered by it. Thus will good Physicians in ministering physic. In all duties is prayer to be used; especially in this: for a parent is ready, partly through his own intemperate passion, and partly through the childs impatiency, to fall into one extreme or other. This is not to impose upon all, whensoever they take up the rod, to go and make a solemn prayer, but to lift up the heart for direction and blessing.
 
-3. Correction must be given in love. #emph[All things must be done in] #footnote[1 #emph[Cor.] 16. 14.] #emph[love:] much more this, that carrieth a show of anger and hatred. In love they will give physic to their children, and splinter a joint, if need be. God correcteth his children in love: so must #footnote[#emph[Rev.] 3. 19.] parents. Love will make them do it with tenderness and compassion.
+3\. Correction must be given in love. #emph[All things must be done in] #footnote[1 #emph[Cor.] 16. 14.] #emph[love:] much more this, that carrieth a show of anger and hatred. In love they will give physic to their children, and splinter a joint, if need be. God correcteth his children in love: so must #footnote[#emph[Rev.] 3. 19.] parents. Love will make them do it with tenderness and compassion.
 
-4. Correction must be given in a mild mood, when the affections #footnote[#emph[Nunquam, iratus qui accedit ad poenam, mediocritatem tenebit, Cic. Offic. lib.] 1. #emph[Jer.] 30. 11. Four particular rules for the manner of correcting.] are well ordered, and not distempered with choler, rage, fury, and other like passions. Disturbed passions cast a mist before the understanding, so as a man cannot discern what is enough, what too much. When passion is moved, correction must be deferred. God correcteth in #emph[measure.]
+4\. Correction must be given in a mild mood, when the affections #footnote[#emph[Nunquam, iratus qui accedit ad poenam, mediocritatem tenebit, Cic. Offic. lib.] 1. #emph[Jer.] 30. 11. Four particular rules for the manner of correcting.] are well ordered, and not distempered with choler, rage, fury, and other like passions. Disturbed passions cast a mist before the understanding, so as a man cannot discern what is enough, what too much. When passion is moved, correction must be deferred. God correcteth in #emph[measure.]
 
 The particular rules are these.
 
-1. Due order must be kept. Correction by word must go before correction by the rod. #footnote[#emph[Rev.] 3. 19. #emph[Vt ad vrendum & secandum medici, sic nos ad castigandum, rarò, inuitique veniamus, nec vnquam nisi necessario, si nulla reperietur alia medicina. Cic. Offic. lib.] 1.] #emph[I rebuke and chasten,] saith the Lord. Thus a parent will show that he taketh no delight in smiting his child: it is necessity that forceth him thereunto. Thus a parent showeth himself like to God, #emph[who doth not punish willingly, Lam.] 3. 33. Physicians, when they minister strong physic, will give a preparative: rebuke may be as a preparative. Good and pitiful Chirurgions will try all other means before they come to lance and sear.
+1\. Due order must be kept. Correction by word must go before correction by the rod. #footnote[#emph[Rev.] 3. 19. #emph[Vt ad vrendum & secandum medici, sic nos ad castigandum, rarò, inuitique veniamus, nec vnquam nisi necessario, si nulla reperietur alia medicina. Cic. Offic. lib.] 1.] #emph[I rebuke and chasten,] saith the Lord. Thus a parent will show that he taketh no delight in smiting his child: it is necessity that forceth him thereunto. Thus a parent showeth himself like to God, #emph[who doth not punish willingly, Lam.] 3. 33. Physicians, when they minister strong physic, will give a preparative: rebuke may be as a preparative. Good and pitiful Chirurgions will try all other means before they come to lance and sear.
 
-2. Due respect must be had to the party corrected: if he be young and tender, the lighter correction must be used. #emph[Solomon] oft mentioneth a rod, as meetest for a child; for that is the lightest correction. So if the child be of a flexible and ingenuous disposition, soon sneapt, the correction must accordingly be moderated. If he be well grown, and withal be stout, and stubborn, the correction may be more severe.
+2\. Due respect must be had to the party corrected: if he be young and tender, the lighter correction must be used. #emph[Solomon] oft mentioneth a rod, as meetest for a child; for that is the lightest correction. So if the child be of a flexible and ingenuous disposition, soon sneapt, the correction must accordingly be moderated. If he be well grown, and withal be stout, and stubborn, the correction may be more severe.
 
-3. Due respect must be had to the fault: Sins directly #footnote[Cavendum ne major poena, quàm culpa sit. Cic. loc. citat.] against God, open, notorious, scandalous sins, known sins, sins often committed, in which they are grown up, and whereof they have gotten an habit, are with greater severity to be corrected.
+3\. Due respect must be had to the fault: Sins directly #footnote[Cavendum ne major poena, quàm culpa sit. Cic. loc. citat.] against God, open, notorious, scandalous sins, known sins, sins often committed, in which they are grown up, and whereof they have gotten an habit, are with greater severity to be corrected.
 
-4. A parent must behold his own faults in correcting his childes: so more compassion will be wrought in him.
+4\. A parent must behold his own faults in correcting his childes: so more compassion will be wrought in him.
 
 === §. 48. #emph[Of parents too much indulgency.]
 
@@ -142,7 +142,7 @@ Mothers for the most part offend herein, who are so far from performing this dut
 
 #emph[Answ.] If Gods spirit deserve to have more credence then such foolish women, that objection is most false, for we heard #footnote[§. 46.] before how correction giveth wisdom, and driveth out foolishness.
 
-2. #emph[Object.] Mothers may be the more borne with herein, because with long trouble they did bear, and with great travel bring forth their children.
+2\. #emph[Object.] Mothers may be the more borne with herein, because with long trouble they did bear, and with great travel bring forth their children.
 
 #emph[Answ.] That may be a good motive for them to seek the true good of their children, that so their trouble and travel may not be in vain: but not to uphold them in the broad way that leadeth to destruction.
 
@@ -150,24 +150,24 @@ Mothers for the most part offend herein, who are so far from performing this dut
 
 They who offend in the other extreme of severity, of the #footnote[#emph[Patres non oportet asperos esse circa filios. Cyp. Testim. l.] 3. #emph[c.] 71.] two are the more unnatural parents; they offend directly against the first branch of this text #emph[(Provoke not to wrath.)] Nothing more provoketh then immoderate severity: for
 
-1. It argueth no love in the parent, but rather hatred, at least wrath, and other such like distempered affections.
+1\. It argueth no love in the parent, but rather hatred, at least wrath, and other such like distempered affections.
 
-2. It softeneth not the childes heart, but hardeneth it rather. #footnote[Verendum ne, si parentes ob quaevis errata filios coarguant, frontem tandem ipsi perfricent. Greg. Naz. ad Vital.]
+2\. It softeneth not the childes heart, but hardeneth it rather. #footnote[Verendum ne, si parentes ob quaevis errata filios coarguant, frontem tandem ipsi perfricent. Greg. Naz. ad Vital.]
 
-3. It maketh him dull, and stupid, and clean perverteth the right and true end of correction.
+3\. It maketh him dull, and stupid, and clean perverteth the right and true end of correction.
 
-4. It oft maketh a child think of doing some mischief to his parent or himself.
+4\. It oft maketh a child think of doing some mischief to his parent or himself.
 
 That parents may the rather take heed of this extreme, I will briefly note wherein excess in severity is showed.
 
 It is showed, when correction is given
 
-1. For no fault. In this case, though correction be never so light, it is too severe.
+1\. For no fault. In this case, though correction be never so light, it is too severe.
 
-2. For small faults, in wrath and fury, though the stripes be few and light, yet the parents behaviour is too much severity.
+2\. For small faults, in wrath and fury, though the stripes be few and light, yet the parents behaviour is too much severity.
 
-3. To children that are young and tender, or soft, mild and ingenuous, as if they were in some years, the most obstinate and perverse that could be.
+3\. To children that are young and tender, or soft, mild and ingenuous, as if they were in some years, the most obstinate and perverse that could be.
 
-4. Too often: for every thing done amiss: whereas parents #footnote[Multa quae vident parentes videre se dissimulent; multa se minime audisse fingant quae auribus infixa habent. Greg. Naz. ad Vital.] should seem not to see or hear many things which they see, and hear.
+4\. Too often: for every thing done amiss: whereas parents #footnote[Multa quae vident parentes videre se dissimulent; multa se minime audisse fingant quae auribus infixa habent. Greg. Naz. ad Vital.] should seem not to see or hear many things which they see, and hear.
 
-5. Too sorely: so as the child is lamed, or some way so hurt as he shall feel it as long as he liveth.
+5\. Too sorely: so as the child is lamed, or some way so hurt as he shall feel it as long as he liveth.

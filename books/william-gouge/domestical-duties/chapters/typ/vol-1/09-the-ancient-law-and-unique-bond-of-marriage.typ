@@ -23,11 +23,11 @@ The #emph[man] (meaning an husband) is here in particular mentioned, #footnote[M
 
 These words #emph[(shall leave father and mother)] are neither #emph[generally] to be taken of all duties, as if no duty were to be performed to parents by children after they are married: nor #emph[simply,] as if indeed parents were utterly to be forsaken: but they are meant,
 
-1. Of that #emph[daily service] which children under their parents government perform unto them, seeking to please them in all things. When children are married, then their daily attendance must be upon their wives, or husbands, taking care how #footnote[1 #emph[Cor.] 7. 33, 34.] to please them.
+1\. Of that #emph[daily service] which children under their parents government perform unto them, seeking to please them in all things. When children are married, then their daily attendance must be upon their wives, or husbands, taking care how #footnote[1 #emph[Cor.] 7. 33, 34.] to please them.
 
-2. Of #emph[erecting a new family:] for which end their parents house must be left, and the husband and wife must dwell each with other.
+2\. Of #emph[erecting a new family:] for which end their parents house must be left, and the husband and wife must dwell each with other.
 
-3. Of the #emph[difference to be put betwixt parents, and wife or husband.] So as if by any inevitable occasion it should so fall out, that a man must leave his parent, or his wife (as in case parent and wife were both giving up the Ghost, and in places so far remote, as the husband could not possibly be with both, yet both instantly desired his company) by this Law he must leave his parent, and cleave to his wife.
+3\. Of the #emph[difference to be put betwixt parents, and wife or husband.] So as if by any inevitable occasion it should so fall out, that a man must leave his parent, or his wife (as in case parent and wife were both giving up the Ghost, and in places so far remote, as the husband could not possibly be with both, yet both instantly desired his company) by this Law he must leave his parent, and cleave to his wife.
 
 Hereby then the bond of marriage is declared to be the most inviolable bond that can be. For all men know, that the bond betwixt parent and child is a firm and inviolable bond: but the bond betwixt husband and wife is more firm and inviolable.
 
@@ -41,11 +41,11 @@ This Law setteth forth the #emph[Union betwixt man and wife.] #footnote[Sum.]
 
 Therein three things are noted concerning the state of marriage.
 
-1. The praeeminency of it #emph[(a man shall leave father and mother.)]
+1\. The praeeminency of it #emph[(a man shall leave father and mother.)]
 
-2. The firmness of it #emph[(and be joined to his wife.)]
+2\. The firmness of it #emph[(and be joined to his wife.)]
 
-3. The nearness of it #emph[(they two shall be one flesh.)]
+3\. The nearness of it #emph[(they two shall be one flesh.)]
 
 === §. 80. #emph[Of preferring husband or wife before parents.]
 
@@ -53,7 +53,7 @@ The first point showeth, that
 
 #emph[A wife, or an husband must be preferred before parents.] The #footnote[Doct.] examples of #footnote[#emph[Gen.] 31. 14.] #emph[Leah] and #emph[Rachel,] yea and of #footnote[1 #emph[Sam.] 19. 11.] #emph[Michal,] are commendable in this respect.
 
-1. The bond of marriage is more ancient, more firm, more #footnote[Reason.] near. There was husband and wife before there was parent and child: and there is a time when parents & children may depart one from another, and that while both live: but no time, wherein man and wife may part asunder till death part them. And children though they come from the flesh of their parents, yet are made two (so as #emph[of one are two)] but husbands and wives though they were two before, yet are made one (so as #emph[of two is one.)]
+1\. The bond of marriage is more ancient, more firm, more #footnote[Reason.] near. There was husband and wife before there was parent and child: and there is a time when parents & children may depart one from another, and that while both live: but no time, wherein man and wife may part asunder till death part them. And children though they come from the flesh of their parents, yet are made two (so as #emph[of one are two)] but husbands and wives though they were two before, yet are made one (so as #emph[of two is one.)]
 
 What wrong then do such parents unto their children, as #footnote[Use.] keep them, even after they are married, so strait under subjection, #footnote[Parents may not keep their children being married too straight.] as they cannot freely perform such duty as they ought to their husband, or their wife? This is more then a parents authority reacheth unto. Yet many think that their children owe as much service to them after they are married as before: which is directly against this law.
 
@@ -67,9 +67,9 @@ Others can never tarry out of their parents houses, but as oft as they can, go t
 
 The second point concerning the firmness of the marriage knot in these words #emph[(shall be joined to his wife)] affordeth two doctrines.
 
-1. #emph[Man and wife must associate themselves together by continual] #footnote[See #emph[Treat.] 2. #emph[part.] 2. §. 14.] #emph[cohabitation:] for this end they leave their parents family, and erect a new family.
+1\. #emph[Man and wife must associate themselves together by continual] #footnote[See #emph[Treat.] 2. #emph[part.] 2. §. 14.] #emph[cohabitation:] for this end they leave their parents family, and erect a new family.
 
-2. #emph[Man and wife are joined together by an inviolable bond.] It #footnote[See #emph[Treat.] 2. #emph[part.] 2. §. 2.] must never be cut asunder till death cut it. Body and soul must be severed one from another before husband and wife.
+2\. #emph[Man and wife are joined together by an inviolable bond.] It #footnote[See #emph[Treat.] 2. #emph[part.] 2. §. 2.] must never be cut asunder till death cut it. Body and soul must be severed one from another before husband and wife.
 
 Be careful therefore to preserve this indissoluble knot: and so live together, as with comfort you may live together, because you may not part.
 
@@ -77,7 +77,7 @@ Be careful therefore to preserve this indissoluble knot: and so live together, a
 
 The third point concerning the nearness of man and wife, in these words #emph[(they two shall be one flesh)] affordeth two other doctrines.
 
-1. #emph[Marriage can be but betwixt two,] one man, and one woman: for it is impossible that more then two should so nearly, and firmly be joined together, as man and wife are. Every word almost in this law proveth this doctrine. For it saith #emph[a man,] not men: to #emph[a wife,] not to wives: to #emph[his] wife, not to anothers wife: #emph[two,] not more then two: #emph[they] two, not any two: #emph[one flesh,] not many fleshes.
+1\. #emph[Marriage can be but betwixt two,] one man, and one woman: for it is impossible that more then two should so nearly, and firmly be joined together, as man and wife are. Every word almost in this law proveth this doctrine. For it saith #emph[a man,] not men: to #emph[a wife,] not to wives: to #emph[his] wife, not to anothers wife: #emph[two,] not more then two: #emph[they] two, not any two: #emph[one flesh,] not many fleshes.
 
 #strong[#emph[Object.] This particle #emph[(two)] is not in the law as #emph[Moses] recordeth #footnote[#emph[Gen.] 2. 24.] it.]
 
@@ -101,21 +101,21 @@ Considering the heinousness of this sin, our laws #footnote[#emph[Stat.] 1. #emp
 
 === §. 84. #emph[Of the near conjunction of man and wife together.]
 
-2. #emph[The nearest of all other are husband and wife one to another.] #footnote[Doctr.] Every clause in the forenamed law proveth as much.
+2\. #emph[The nearest of all other are husband and wife one to another.] #footnote[Doctr.] Every clause in the forenamed law proveth as much.
 
-1. #emph[Parents] must be #emph[left] for wife: who nearer then parent and child? If man and wife be nearer then the nearest, then they are the nearest of all.
+1\. #emph[Parents] must be #emph[left] for wife: who nearer then parent and child? If man and wife be nearer then the nearest, then they are the nearest of all.
 
-2. A man is #emph[glued] to his wife. This metaphor setteth forth the #emph[nearness] of a thing as well as the #emph[firmness] of it: for things glued together are as one entire thing.
+2\. A man is #emph[glued] to his wife. This metaphor setteth forth the #emph[nearness] of a thing as well as the #emph[firmness] of it: for things glued together are as one entire thing.
 
-3. Man and wife are #emph[one flesh:] many of one are made two, but no #emph[two] so nearly and truly made #emph[one] as man and wife.
+3\. Man and wife are #emph[one flesh:] many of one are made two, but no #emph[two] so nearly and truly made #emph[one] as man and wife.
 
 As God hath limited a propinquity, and unity of things, so #footnote[Reason.] are they to be accounted: but God hath thus nearly knit man and wife together, and made them one flesh. #emph[Those whom] #footnote[#emph[Mat.] 19. 6.] GOD #emph[hath joined together,] saith Christ of man and wife: in which respect matrimonial conjunction is called #emph[the covenant] #footnote[#emph[Pro.] 2. 17.] #emph[of God:] so as this covenant cannot be released by any, no not by the mutual consent of man and wife #emph[(Those whom] GOD #emph[hath joined together, let no man put asunder)] yet may many other covenants made betwixt party and party, be released and disannulled by mutual consent of both parties.
 
-1. This showeth that the transgressions of man and wife #footnote[Uses.] one against another are of all the most heinous, more then of #footnote[1\. Mutual transgressions of man and wife most heinous.] friend, fellow, brother, child, parent or any other. Who would not cry #emph[fie upon] that child that hates his parent, or #emph[fie upon] that parent that hates his child? The heathen & savages would not think them worthy of human society. What then may be thought of the man that hateth his wife, or the wife that hateth her husband? Apply this to all other transgressions: and well note how #emph[the Lord is a witness] thereof. #footnote[#emph[Mal.] 2. 14.]
+1\. This showeth that the transgressions of man and wife #footnote[Uses.] one against another are of all the most heinous, more then of #footnote[1\. Mutual transgressions of man and wife most heinous.] friend, fellow, brother, child, parent or any other. Who would not cry #emph[fie upon] that child that hates his parent, or #emph[fie upon] that parent that hates his child? The heathen & savages would not think them worthy of human society. What then may be thought of the man that hateth his wife, or the wife that hateth her husband? Apply this to all other transgressions: and well note how #emph[the Lord is a witness] thereof. #footnote[#emph[Mal.] 2. 14.]
 
-2. This also showeth how monstrous a thing it is to sow #footnote[2\. Monstrous to make debate betwixt man and wife.] any seeds of discord, and stir debate betwixt man and wife. The devils instruments they are therein, and a diabolical spirit is in them. For Satan most laboureth to unloose those knots which the Lord knitteth most firmly. Children of several venters, and several friends of each party, are much faulty herein. #emph[Cursed be they all before the Lord.]
+2\. This also showeth how monstrous a thing it is to sow #footnote[2\. Monstrous to make debate betwixt man and wife.] any seeds of discord, and stir debate betwixt man and wife. The devils instruments they are therein, and a diabolical spirit is in them. For Satan most laboureth to unloose those knots which the Lord knitteth most firmly. Children of several venters, and several friends of each party, are much faulty herein. #emph[Cursed be they all before the Lord.]
 
-3. #footnote[1 #emph[Sam.] 26. 19.] This near conjunction betwixt man and wife is a great #footnote[3\. All duties betwixt man and wife to be cheerfully performed. #emph[Isa.] 58. 7.] motive to stir them both up, cheerfully to perform all the duties which God requireth of either of them. For thereby they do duty, and show kindness to their own flesh. No man may #emph[hide himself from his own flesh] at large: that is, no man may neglect any duty of mercy, or justice to his neighbour who is of the same stock that he is: shall then an husband or wife hide themselves from one another who in the nearest respect that possibly can be are #emph[one flesh?] not because they come #emph[from] one flesh, but because they come #footnote[εἰς σάρκα μίαν.] #emph[into] one flesh.
+3\. #footnote[1 #emph[Sam.] 26. 19.] This near conjunction betwixt man and wife is a great #footnote[3\. All duties betwixt man and wife to be cheerfully performed. #emph[Isa.] 58. 7.] motive to stir them both up, cheerfully to perform all the duties which God requireth of either of them. For thereby they do duty, and show kindness to their own flesh. No man may #emph[hide himself from his own flesh] at large: that is, no man may neglect any duty of mercy, or justice to his neighbour who is of the same stock that he is: shall then an husband or wife hide themselves from one another who in the nearest respect that possibly can be are #emph[one flesh?] not because they come #emph[from] one flesh, but because they come #footnote[εἰς σάρκα μίαν.] #emph[into] one flesh.
 
 Hitherto of the literal sense of this verse.
 
@@ -137,19 +137,19 @@ First of the general.
 
 The many espousal, and matrimonial titles, which in Scripture are given to Christ and the Church in mutual relation of one to another, evidently show that they are joined together by the honourable, inseparable and inviolable bond of marriage: He is styled a #footnote[#emph[Joh.] 3. 29.] #emph[bridegroom,] she a #emph[bride:] he #footnote[#emph[Cant.] 1. 13, 15.] #emph[Well-beloved,] she #emph[love:] he an #footnote[2 #emph[Cor.] 11. 2.] #emph[husband,] she a #emph[wife:] he an #footnote[#emph[Eph.] 5. 23.] #emph[Head,] she the #emph[Body:] both #footnote[#emph[& vers.] 31.] #emph[one flesh.]
 
-2. All things requisite to join man and wife together, do fitly concur betwixt Christ and the Church.
+2\. All things requisite to join man and wife together, do fitly concur betwixt Christ and the Church.
 
-1. They are persons fit to be joined. Though Christ be #footnote[The things which make Christ and the Church fit to be husband and wife.] God, yet for #footnote[#emph[Joh.] 17. 19.] this end he became man: and though the Church were impure, yet for this end is she cleansed and sanctified.
+1\. They are persons fit to be joined. Though Christ be #footnote[The things which make Christ and the Church fit to be husband and wife.] God, yet for #footnote[#emph[Joh.] 17. 19.] this end he became man: and though the Church were impure, yet for this end is she cleansed and sanctified.
 
-2. They have their parents consent: for God is the #footnote[#emph[Joh.] 20. 17.] common father of both. And God hath given #footnote[#emph[Rom.] 8. 32.] Christ to the Church, and the #footnote[#emph[Joh.] 6. 39.] Church to Christ.
+2\. They have their parents consent: for God is the #footnote[#emph[Joh.] 20. 17.] common father of both. And God hath given #footnote[#emph[Rom.] 8. 32.] Christ to the Church, and the #footnote[#emph[Joh.] 6. 39.] Church to Christ.
 
-3. They have given their #footnote[#emph[Cant.] 2. 16.] mutual consent each to other.
+3\. They have given their #footnote[#emph[Cant.] 2. 16.] mutual consent each to other.
 
-4. He #footnote[#emph[Eph.] 5. 23, 24.] beareth an husband like affection to her, and she is willing to yield a wife-like subjection to him.
+4\. He #footnote[#emph[Eph.] 5. 23, 24.] beareth an husband like affection to her, and she is willing to yield a wife-like subjection to him.
 
-5. He hath #footnote[#emph[Eph.] 4. 8.] given her many favours and gifts as pledges of his love: and she in testimony of her faithfulness was under the Law circumcised, and is under the Gospel baptized: and doth bind her self with all the sacred bonds and covenants which God to that purpose hath sanctified.
+5\. He hath #footnote[#emph[Eph.] 4. 8.] given her many favours and gifts as pledges of his love: and she in testimony of her faithfulness was under the Law circumcised, and is under the Gospel baptized: and doth bind her self with all the sacred bonds and covenants which God to that purpose hath sanctified.
 
-6. He hath prepared #footnote[#emph[Joh.] 14. 3.] places of habitation for them both together, and #footnote[#emph[Rev.] 22. 17, 20.] she earnestly desireth to be with him.
+6\. He hath prepared #footnote[#emph[Joh.] 14. 3.] places of habitation for them both together, and #footnote[#emph[Rev.] 22. 17, 20.] she earnestly desireth to be with him.
 
 Behold another evidence of Christs admirable love to the #footnote[1\. #emph[Use.]] Church, and of the near union betwixt Christ and her. The #footnote[An high favour to be the spouse to Christ.] former was that she was his #emph[body.] This, that she is his #emph[wife:] well might the Church say as #emph[Abigail] did, #emph[Behold, let thine handmaid be a servant to wash the feet of the servants of my] #footnote[1 #emph[Sam.] 25. 41.] #emph[Lord:] and as the prodigal child, #emph[Make me as one of thine hired] #footnote[#emph[Luk.] 15. 19.] #emph[servants:] or as the Baptist, #emph[I am not worthy to stoop down to] #footnote[#emph[Mar.] 1. 7.] #emph[unloose thy shoe-latchets.] What a favour then is it to be made his spouse, his wife, his Queen. Great was the favour which #emph[Ahasuerus] showed to #emph[Esther,] when he made her his wife: he was a great Monarch, reigning #emph[from India to Ethiopia over] 127 #emph[provinces:] but #emph[Esther] was a poor orphan and captive: yet was not this favour comparable to Christs: for there was no such disparity and inequality betwixt #emph[Ahasuerus] and #emph[Esther,] as betwixt Christ and the Church: neither is #emph[Esthers] advancement to be compared with the Churches: and yet there was some cause in #emph[Esther] to move #emph[Ahasuerus] to do what he did, for she was very beautiful, and lovely, and worthy to be loved: but #footnote[§. 33, 34.] in the Church when Christ first cast his love on her, there was no such thing. No pattern of love can be given any way comparable to this.
 
@@ -159,13 +159,13 @@ This is the rather to be regarded because it is not only a #footnote[3\. #emph[U
 
 But great is that comfort which the true Saints may receive #footnote[4\. #emph[Use.]] therein. For by virtue of this matrimonial bond, #footnote[#emph[Consolation.] The privileges of Christs spouse.]
 
-1. Christ is made a yokefellow with his Church, and her companion. Under all the burdens which are laid upon her, he putteth his shoulder to make it the more easy: yea, the great burdens of Gods wrath, the curse of the law, and sin the cause thereof, hath he so taken on him, as he hath clean freed his Church from them, because they would else have crushed her down to hell.
+1\. Christ is made a yokefellow with his Church, and her companion. Under all the burdens which are laid upon her, he putteth his shoulder to make it the more easy: yea, the great burdens of Gods wrath, the curse of the law, and sin the cause thereof, hath he so taken on him, as he hath clean freed his Church from them, because they would else have crushed her down to hell.
 
-2. Christ is as her champion to answer all challenges sent unto her, as her advocate to plead and answer all the complaints that shall be made against her, as her surety to discharge all her debts: the Church being covert-baron under Christ, he is as her self, all in all for her, and to her.
+2\. Christ is as her champion to answer all challenges sent unto her, as her advocate to plead and answer all the complaints that shall be made against her, as her surety to discharge all her debts: the Church being covert-baron under Christ, he is as her self, all in all for her, and to her.
 
-3. All his honours, goods, privileges are hers: she hath #footnote[#emph[Ecclesia omnem sponsi potestatem tenet. Aug. contr. Don. l.] 4. #emph[c.] 1.] a right to them, and her part in them, she is a coheir with him #emph[(Rom.] 8. 17.) a Queen because he a King #emph[(Psal.] 45. 9.) and all glorious, as was noted, vers. 27.
+3\. All his honours, goods, privileges are hers: she hath #footnote[#emph[Ecclesia omnem sponsi potestatem tenet. Aug. contr. Don. l.] 4. #emph[c.] 1.] a right to them, and her part in them, she is a coheir with him #emph[(Rom.] 8. 17.) a Queen because he a King #emph[(Psal.] 45. 9.) and all glorious, as was noted, vers. 27.
 
-4. He will assuredly perform all the offices of an husband, as to love her, bear with her, provide for her, with the like. Able he is to do all, for he is omnipotent: willing also he must needs be, because willingly he hath taken upon him this place: he hath made himself a pattern to other husbands: will he not then do that himself which he requireth of others?
+4\. He will assuredly perform all the offices of an husband, as to love her, bear with her, provide for her, with the like. Able he is to do all, for he is omnipotent: willing also he must needs be, because willingly he hath taken upon him this place: he hath made himself a pattern to other husbands: will he not then do that himself which he requireth of others?
 
 If ever any wife might receive comfort in a match, the Church may receive comfort in this match.
 

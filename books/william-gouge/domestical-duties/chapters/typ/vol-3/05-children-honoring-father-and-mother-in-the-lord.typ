@@ -6,17 +6,17 @@ That clause which #footnote[§ 37.] noted out the #emph[limitation] of childrens
 
 More particularly it implieth these six points: #footnote[How children obey their parents #emph[in the Lord.]]
 
-1. That their duties be performed #emph[in conscience,] or #emph[for conscience sake,] which is all one as #emph[for the Lords sake:] for the Lord only is Judge of the conscience and hath power over it. Thus #footnote[1\. By obeying #emph[for the Lords sake. Rom.] 13. 5. 1 #emph[Pet.] 2. 13. #emph[Col.] 3. 20.] must subjects perform duty to magistrates: much more children to parents. The reason which the Apostle rendereth in these words, #emph[This is well-pleasing to the Lord,] showeth that children in obeying their parents must labour to approve themselves to God.
+1\. That their duties be performed #emph[in conscience,] or #emph[for conscience sake,] which is all one as #emph[for the Lords sake:] for the Lord only is Judge of the conscience and hath power over it. Thus #footnote[1\. By obeying #emph[for the Lords sake. Rom.] 13. 5. 1 #emph[Pet.] 2. 13. #emph[Col.] 3. 20.] must subjects perform duty to magistrates: much more children to parents. The reason which the Apostle rendereth in these words, #emph[This is well-pleasing to the Lord,] showeth that children in obeying their parents must labour to approve themselves to God.
 
-2. Their duties must be in sincerity, which is when children #footnote[2\. In sincerity.] pretend in show to do no more, then in truth and heart they mean: #emph[Whatsoever ye do, do it heartily as to the Lord,] saith #footnote[#emph[Col.] 3. 23.] the Apostle. Parents use to deal with none more heartily then with their children: accordingly must children deal with parents.
+2\. Their duties must be in sincerity, which is when children #footnote[2\. In sincerity.] pretend in show to do no more, then in truth and heart they mean: #emph[Whatsoever ye do, do it heartily as to the Lord,] saith #footnote[#emph[Col.] 3. 23.] the Apostle. Parents use to deal with none more heartily then with their children: accordingly must children deal with parents.
 
-3. They must be performed cheerfully, with a willing and #footnote[3\. With cheerfulness.] ready mind: for the Lord loveth cheerfulness. Herein lieth a main difference betwixt a filial and servile, a child #footnote[2 #emph[Cor.] 9. 7.] like and slavelike obedience. #footnote[4\. With reverence.]
+3\. They must be performed cheerfully, with a willing and #footnote[3\. With cheerfulness.] ready mind: for the Lord loveth cheerfulness. Herein lieth a main difference betwixt a filial and servile, a child #footnote[2 #emph[Cor.] 9. 7.] like and slavelike obedience. #footnote[4\. With reverence.]
 
-4. They must be performed reverendly as to them which bear the Image of God. Hereof we spake #footnote[§. 3.] before.
+4\. They must be performed reverendly as to them which bear the Image of God. Hereof we spake #footnote[§. 3.] before.
 
-5. They must so be performed, as in performing them no #footnote[5\. In the fear of God.] sin be committed against God. Hereof also we spake #footnote[§. 37. & 38.] before.
+5\. They must so be performed, as in performing them no #footnote[5\. In the fear of God.] sin be committed against God. Hereof also we spake #footnote[§. 37. & 38.] before.
 
-6. Constancy must be added to all other virtues. For as the #footnote[6\. With perseverance.] Lord himself is constant in all his ways and works, so he expecteth that children should be in the duties which he requireth at their hands. He that beginneth well, and holdeth not on, loseth all the glory of his good beginning.
+6\. Constancy must be added to all other virtues. For as the #footnote[6\. With perseverance.] Lord himself is constant in all his ways and works, so he expecteth that children should be in the duties which he requireth at their hands. He that beginneth well, and holdeth not on, loseth all the glory of his good beginning.
 
 If the examples of all good children commended in Scripture be well weighed, we shall find their duties, so far forth as they were acceptable to God, performed after the foresaid #emph[manner,] in all the branches thereof.
 
@@ -24,17 +24,17 @@ If the examples of all good children commended in Scripture be well weighed, we 
 
 Contrary are these aberrations.
 
-1. When children perform their duties on by-respects: #footnote[Faults in the manner of doing duty. 1. By-respects.] for fear of parents wrath, and the punishment following thereon: for hope and expectation of greater portion and allowance: upon instant persuasion of friends, with the like: these respects simply in themselves are not #emph[for the Lord.]
+1\. When children perform their duties on by-respects: #footnote[Faults in the manner of doing duty. 1. By-respects.] for fear of parents wrath, and the punishment following thereon: for hope and expectation of greater portion and allowance: upon instant persuasion of friends, with the like: these respects simply in themselves are not #emph[for the Lord.]
 
-2. When they perform them only outwardly in show, #footnote[2\. Complemental.] complementally while parents are in presence, or may know thereof. This is not with respect to God who searcheth the heart.
+2\. When they perform them only outwardly in show, #footnote[2\. Complemental.] complementally while parents are in presence, or may know thereof. This is not with respect to God who searcheth the heart.
 
-3. When they perform them grudgingly, mutteringly, #footnote[3\. Grudgingly.] disdainfully: as if their parents authority were an usurped power and not given them of God. Is this #emph[in the Lord?]
+3\. When they perform them grudgingly, mutteringly, #footnote[3\. Grudgingly.] disdainfully: as if their parents authority were an usurped power and not given them of God. Is this #emph[in the Lord?]
 
-4. When they perform them rudely and unmannerly: #footnote[4\. Rudely.] This showeth they consider not the glory of Gods Image shining in their parents.
+4\. When they perform them rudely and unmannerly: #footnote[4\. Rudely.] This showeth they consider not the glory of Gods Image shining in their parents.
 
-5. #footnote[§. 38.] When they care not how they sin against God, so #footnote[5\. Only to please man.] they may please their parents.
+5\. #footnote[§. 38.] When they care not how they sin against God, so #footnote[5\. Only to please man.] they may please their parents.
 
-6. When, as if they repented of what they have well done, #footnote[6\. Unsettledly.] they refuse to do any more duty to their parents. They wax weary, thinking that God hath laid too heavy a burden upon them. Many show themselves more dutiful in their younger then in their riper years. That which maketh children weary in doing duty, is commonly the great and long need of their parents, as long sickness, long impotency, long poverty, with the like. It appears that such children look only on their parents as men, which, as they imagine, can never recompense their pains and cost: they look not to God who is able abundantly to recompense all. These therefore perform not their duty #emph[in the Lord.]
+6\. When, as if they repented of what they have well done, #footnote[6\. Unsettledly.] they refuse to do any more duty to their parents. They wax weary, thinking that God hath laid too heavy a burden upon them. Many show themselves more dutiful in their younger then in their riper years. That which maketh children weary in doing duty, is commonly the great and long need of their parents, as long sickness, long impotency, long poverty, with the like. It appears that such children look only on their parents as men, which, as they imagine, can never recompense their pains and cost: they look not to God who is able abundantly to recompense all. These therefore perform not their duty #emph[in the Lord.]
 
 === §. 54. #emph[Of the equal respect that children are to bear to both parents.]
 
@@ -46,15 +46,15 @@ It is worthy to be noted, how the Apostle contenteth not himself to have named #
 
 Many reasons there be to enforce this point.
 
-1. Both parents are under God a like means of their childrens #footnote[Reasons.] being. Children come out of the substance of both alike.
+1\. Both parents are under God a like means of their childrens #footnote[Reasons.] being. Children come out of the substance of both alike.
 
-2. The care and pains of both for the good of the children is very great: I know not of whether the greater. The mothers pains and care in bringing forth the child is indeed the greater, and it may be also the greater in bringing up the child, especially while it is young, at least if she give it suck her self: yet afterwards the fathers exceedeth in providing fit calling, sufficient means of maintenance, yea and portion or inheritance for it, and that after he himself is dead. Thus one way or other the child is equally bound to both: and accordingly Gods law maketh no difference betwixt them.
+2\. The care and pains of both for the good of the children is very great: I know not of whether the greater. The mothers pains and care in bringing forth the child is indeed the greater, and it may be also the greater in bringing up the child, especially while it is young, at least if she give it suck her self: yet afterwards the fathers exceedeth in providing fit calling, sufficient means of maintenance, yea and portion or inheritance for it, and that after he himself is dead. Thus one way or other the child is equally bound to both: and accordingly Gods law maketh no difference betwixt them.
 
 #strong[#emph[Object.] The wife is subject to her husband: therefore a child ought to prefer his father before his mother.]
 
 #emph[Answ.] Though there be a difference betwixt father and #footnote[Both parents to be of like account with children.] mother in relation of one to another, yet in relation to their children they are both as one, and have a like authority over them. Now children are not to look to that difference that is betwixt their parents in that mutual relation that is betwixt husband and wife, but to that authority which both parents have over their children: and so to carry an equal respect to both.
 
-#strong[2. #emph[Object.] What if the fathers and mothers disposition #footnote[Direction for a child when one parent commandeth one thing, the other another.] be contrary: and the one command what the other forbids.]
+#strong[2\. #emph[Object.] What if the fathers and mothers disposition #footnote[Direction for a child when one parent commandeth one thing, the other another.] be contrary: and the one command what the other forbids.]
 
 #emph[Answ.] The thing commanded or forbidden must be observed: if it be about a thing simply good or evil, lawful, or unlawful, then the parent which would have the thing lawful to be done, or unlawful to be forborne (though it be the mother) must be obeyed: for in this case she is backed with Gods authority. But if the matter be merely indifferent, then I doubt not but the father must be obeyed: yet so as the child no way show any contempt to his mother, but with all reverence and humility make it known to her that it is best both for her-self and himself, that his father be obeyed. But if the fathers contrary authority be not interposed, or if the father be dead, then is a mother as simply and absolutely to be obeyed in all things, as a father.
 
@@ -62,19 +62,19 @@ Many reasons there be to enforce this point.
 
 Contrary on the one side is their childish fondness who so wholly respect their mother, and seek to please her, as they little regard their father, unless through fear they be forced thereto: and on the other side, their scornful spirit who only bear respect to their father, and altogether neglect their mother, if not despise her. For the most part, of the two, the mother is less regarded. The reasons whereof I take to be these following, whereunto I will annex particular means to remove the seeming force of those reasons, as antidotes or remedies unto them.
 
-1. The mother by reason of her sex is commonly the weaker, and subject to more infirmities.
+1\. The mother by reason of her sex is commonly the weaker, and subject to more infirmities.
 
 #emph[Answ.] Children ought rather to look upon their mothers place and authority, then their person and infirmity: so #emph[these] would no whit impair their respect of the #emph[other.]
 
-2. The mother is more indulgent and tender to her children: and useth more familiarity towards them: now #emph[familiarity] #footnote[Familiaritas parit contemptum. Teren. in Andr.] #emph[breedeth contempt.]
+2\. The mother is more indulgent and tender to her children: and useth more familiarity towards them: now #emph[familiarity] #footnote[Familiaritas parit contemptum. Teren. in Andr.] #emph[breedeth contempt.]
 
 #emph[Answ.] This is the abuse of familiarity: love should breed love: and love must be ordered according to the condition of the parties loving, and loved. As children with one eye behold the affection of the mother, so with another they should behold Gods image in the mother; and then (that which is #footnote[§. 2, 3.] noted as the ground of all childrens duty) a #emph[loving-fear] would be wrought in their heart, which would cast out all contempt.
 
-3. The mother hath not that power to reward or revenge that a father hath.
+3\. The mother hath not that power to reward or revenge that a father hath.
 
 #emph[Answ.] 1. This is not to obey #emph[in the Lord.] No outward respect should move the child to obey his parents so much as conscience to God-wards. If children duly considered God, how he hath made no difference, but commanded them to obey both alike, and how he is able abundantly to reward, and severely to revenge, that reason would be no reason.
 
-4. The mother is subject to the father.
+4\. The mother is subject to the father.
 
 #emph[Answ.] This was removed #footnote[§. 54.] before.
 
@@ -86,9 +86,9 @@ Beside #emph[natural parents,] there are others by God so set over children, as 
 
 They are of two sorts.
 
-1. Such as are joined to a natural parent in marriage, commonly called #emph[Step-fathers, and step-mothers,] or #emph[fathers in law, and mothers in law.]
+1\. Such as are joined to a natural parent in marriage, commonly called #emph[Step-fathers, and step-mothers,] or #emph[fathers in law, and mothers in law.]
 
-2. Such as have the government and tuition of children committed to them, commonly called #emph[Guardians, Tutors, Governors:] yea also #emph[foster-fathers, and foster-mothers.]
+2\. Such as have the government and tuition of children committed to them, commonly called #emph[Guardians, Tutors, Governors:] yea also #emph[foster-fathers, and foster-mothers.]
 
 #strong[#emph[Quest.] Is the same duty in every respect due to those who are in place of parents, as to natural parents themselves?]
 
@@ -112,9 +112,9 @@ Contrary is the mind and carriage of most children. Very few bear a reverend, du
 
 #emph[Answ.] 1. If not so well, yet despise them not: there is a difference betwixt extremes.
 
-2. Conscience and religion ought to alter corrupt nature. Look to Gods ordinance: and let Gods fear possess thine heart, that that may bring thee to do what nature cannot.
+2\. Conscience and religion ought to alter corrupt nature. Look to Gods ordinance: and let Gods fear possess thine heart, that that may bring thee to do what nature cannot.
 
-#strong[2. #emph[Object.] Fathers and Mothers in law seldom respect their husbands or wives former children.]
+#strong[2\. #emph[Object.] Fathers and Mothers in law seldom respect their husbands or wives former children.]
 
 #emph[Answ.] This objection more beseemeth the mouth of a barbarian then a Christian. The Gospel teacheth to #emph[be subject not] #footnote[1 #emph[Pet.] 2. 18. #emph[Rom.] 12. 21.] #emph[only to the good and gentle, but also to the froward:] and #emph[not to be overcome of evil, but to overcome evil with goodness.]
 
@@ -147,19 +147,19 @@ II. The second reason in these words, #emph[for this is right,] though it be not
 
 In saying, #emph[It is right,] he implieth three things.
 
-1. That it is agreeable to all law. To the law of #emph[God,] which #footnote[#emph[Right] implieth three things. 1. It is agreeable to all law.] is the fountain of equity. To the law of #emph[nature,] which proceeds from thence. And to the law of #emph[Nations,] which is answerable in many respects. The forenamed proofs out of Gods word, show it to be agreeable to #emph[Gods law.] The precepts which heathen men have given of this point, show it to be agreeable to the #emph[law of nature.] And the many Constitutions of Law-makers, in all ages, show it to be agreeable to the #emph[law of nations.]
+1\. That it is agreeable to all law. To the law of #emph[God,] which #footnote[#emph[Right] implieth three things. 1. It is agreeable to all law.] is the fountain of equity. To the law of #emph[nature,] which proceeds from thence. And to the law of #emph[Nations,] which is answerable in many respects. The forenamed proofs out of Gods word, show it to be agreeable to #emph[Gods law.] The precepts which heathen men have given of this point, show it to be agreeable to the #emph[law of nature.] And the many Constitutions of Law-makers, in all ages, show it to be agreeable to the #emph[law of nations.]
 
-2. That the place of parents requireth as much. For RIGHT #footnote[2\. It is due by virtue of parents place.] requireth that every one have his own, that which is his due. It being therefore #emph[right,] that children obey their parents, that duty is due to them.
+2\. That the place of parents requireth as much. For RIGHT #footnote[2\. It is due by virtue of parents place.] requireth that every one have his own, that which is his due. It being therefore #emph[right,] that children obey their parents, that duty is due to them.
 
-3. That parents deserve as much: for #emph[right] presupposeth #emph[desert.] #footnote[3\. It is a debt.] That which is done #emph[of right,] is done by way of #emph[recompense.] The cause of this desert, is the love which parents bear to children, the pain, pains, care, and cost they have been at, in bringing them forth, and bringing them up.
+3\. That parents deserve as much: for #emph[right] presupposeth #emph[desert.] #footnote[3\. It is a debt.] That which is done #emph[of right,] is done by way of #emph[recompense.] The cause of this desert, is the love which parents bear to children, the pain, pains, care, and cost they have been at, in bringing them forth, and bringing them up.
 
 These things being implied under #emph[right,] note what followeth from the force of this reason,
 
-1. Disobedient and undutiful children, transgress against #emph[Gods law,] against #emph[common equity] of all nations, and against #emph[light of nature:] so as they are unworthy of the name of Christians, they are worse then Infidels, yea worse then the brute beasts.
+1\. Disobedient and undutiful children, transgress against #emph[Gods law,] against #emph[common equity] of all nations, and against #emph[light of nature:] so as they are unworthy of the name of Christians, they are worse then Infidels, yea worse then the brute beasts.
 
-2. They have no respect to the place of their parents, they disgrace the image of God, which their parents by virtue of their place carry, and they disturb that comely order and degree, which God hath set among men.
+2\. They have no respect to the place of their parents, they disgrace the image of God, which their parents by virtue of their place carry, and they disturb that comely order and degree, which God hath set among men.
 
-3. They ill repay their parents care and pains for their good, and show themselves both #emph[ungrateful] and #emph[unnatural:] which are two most monstrous and odious sins.
+3\. They ill repay their parents care and pains for their good, and show themselves both #emph[ungrateful] and #emph[unnatural:] which are two most monstrous and odious sins.
 
 === §. 61. #emph[Of Gods accepting childrens obedience.]
 
@@ -186,21 +186,21 @@ Here then consider we
 
 From the reason that #emph[it is Gods charge,] I gather these three points.
 
-1. That it is no arbitrary matter left to childrens discretion #footnote[Childrens obedience to parents is, 1. No arbitrary thing.] whether they will obey their parents or no: but a matter whereunto in conscience they are bound, even as they owe allegiance to God himself the great law-giver: so as in neglecting duty to parents, children sin even against God himself: for the same God who hath commanded us to honour himself, hath commanded us to #emph[honour father and mother.]
+1\. That it is no arbitrary matter left to childrens discretion #footnote[Childrens obedience to parents is, 1. No arbitrary thing.] whether they will obey their parents or no: but a matter whereunto in conscience they are bound, even as they owe allegiance to God himself the great law-giver: so as in neglecting duty to parents, children sin even against God himself: for the same God who hath commanded us to honour himself, hath commanded us to #emph[honour father and mother.]
 
-2. That this is a #emph[perpetual] and a #emph[general] law: a law whereunto #footnote[2\. An eternal law, and general to all children.] all children of all times, places, sexes, estates and degrees always have been, still are, and ever shall be bound. For the moral law is of that extent: it is #emph[general] for all persons: #emph[perpetual] for all times. Therefore no children may think to be exempted from it.
+2\. That this is a #emph[perpetual] and a #emph[general] law: a law whereunto #footnote[2\. An eternal law, and general to all children.] all children of all times, places, sexes, estates and degrees always have been, still are, and ever shall be bound. For the moral law is of that extent: it is #emph[general] for all persons: #emph[perpetual] for all times. Therefore no children may think to be exempted from it.
 
 #strong[#emph[Quest.] What if children be grown to years, and not under their parents government?]
 
 #emph[Answ.] There may be some difference both in some #emph[parts] of subjection, and also in the #emph[manner] of subjection betwixt such children as remain under their parents government, and such as are freed from it: but yet so long as a child hath a parent, of what age or estate so ever he be, he oweth an #emph[honour] unto his parent. #footnote[#emph[Gen.] 47. 12. #emph[&] 48. 12. #emph[&] 50. 5.] #emph[Joseph] when he was a great Governor of Egypt, a man grown, having wife and children, yet performed the honour of #emph[reverence, obedience,] and #emph[recompense] unto his father. #footnote[1 #emph[King.] 2. 19. 3. Indispensable.] #emph[Solomon] when he was in an higher place then #emph[Joseph,] even an absolute King, did the honour of #emph[reverence] to his mother.
 
-3. That no man can give children any dispensation, or exemption from their duty to parents. If any may, he must be either the law-maker himself, or one greater then he, one that hath power over him. Now God is the author and giver of that law, #emph[God spake all these words,] etc. But is any greater then #footnote[#emph[Exo.] 20. 1.] God? Hath any power over him? Who then can dispense with children in this kind?
+3\. That no man can give children any dispensation, or exemption from their duty to parents. If any may, he must be either the law-maker himself, or one greater then he, one that hath power over him. Now God is the author and giver of that law, #emph[God spake all these words,] etc. But is any greater then #footnote[#emph[Exo.] 20. 1.] God? Hath any power over him? Who then can dispense with children in this kind?
 
 Hence then I infer these two conclusions.
 
-1. That the Popes dispensation is nothing worth: they who make it to be of force, must make him greater then God, which is a horrible blasphemy.
+1\. That the Popes dispensation is nothing worth: they who make it to be of force, must make him greater then God, which is a horrible blasphemy.
 
-2. Though parents themselves should not exact duty of their children, yet children were bound to perform duty to them, because of Gods charge. To this therefore are children to look. This showeth that there is no less pain hanging over the heads of the transgressors of this charge, then the curse of the law, eternal condemnation.
+2\. Though parents themselves should not exact duty of their children, yet children were bound to perform duty to them, because of Gods charge. To this therefore are children to look. This showeth that there is no less pain hanging over the heads of the transgressors of this charge, then the curse of the law, eternal condemnation.
 
 === §. 63. #emph[Of the title] FIRST #emph[given to the fifth commandment.]
 

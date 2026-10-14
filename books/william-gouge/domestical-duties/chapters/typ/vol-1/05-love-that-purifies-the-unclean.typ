@@ -53,15 +53,15 @@ Behold here the free estate of the Church: whereas the #footnote[Use.] world lie
 
 From the Connection of these two benefits of Christs death, Justification and Sanctification together, we see that #emph[The Church is both spotless before God and blameless before men.] The blood of Christ so cleanseth her as in Gods sight she hath no spot of sin: and the spirit of Christ so sanctifieth her, as her righteousness shineth before men: for #emph[the Grace of God] #footnote[#emph[Tit.] 2. 11, 12.] #emph[teacheth her to deny ungodliness, and worldly lusts, and to live soberly, righteously, and godly in this present world.] In this respect the Church is said to be #emph[all glorious within,] and #emph[her] #footnote[#emph[Psal.] 45. 13.] #emph[clothing] also to be of #emph[wrought gold.] And #emph[Zachary] and #emph[Elizabeth,] #footnote[#emph[Luk.] 1. 6.] members of this Church, are said to be #emph[righteous before God,] and #emph[blameless,] namely before men. There is no such purity in any, as in the Church. For true and perfect beauty #footnote[#emph[Vera & perfecta pulchritudo in nullo hominum est nisi in corpore Christi quod interpretatur Ecclesia. Hier. in Ezech.] 27.] is only in the body of Christ, which is the Church, whereof it is said, #emph[Thou art all fair, and there is no spot in thee, Cant.] 4. 7.
 
-1. #emph[Quest.] Is it possible that neither God nor man should espy any fault in those that are of the true Church, while here they live in this world?
+1\. #emph[Quest.] Is it possible that neither God nor man should espy any fault in those that are of the true Church, while here they live in this world?
 
 #emph[Answ.] Seeing the flesh remaineth in the best while they remain #footnote[Sin is in the best.] in the world, it is not possible but that both God and man must needs espy many blemishes in the best. #emph[All things are] #footnote[#emph[Heb.] 4. 13.] #emph[naked and opened to the eyes of God:] if therefore any remnant of sin be in the Saints (as there are exceeding many in every one; so as #emph[if we say that we have no sin we deceive our selves,] #footnote[1 #emph[Joh.] 1. 8.] #emph[and the truth is not in us)] it is without question #emph[manifest in his sight.] Yea such is the imperfection and weakness of the best Saints, as the flesh continually lusting in them against the Spirit, oft times prevaileth, and so showeth it self in some evil fruit or other, as the eye of man espieth it: instance the examples of the best that ever lived in any age.
 
-2. #emph[Quest.] How then are they spotless before God, and #footnote[How the Saints are spotless before God.] blameless before men?
+2\. #emph[Quest.] How then are they spotless before God, and #footnote[How the Saints are spotless before God.] blameless before men?
 
 #emph[Answ.] 1. God so fully dischargeth and acquitteth the Church of all her sins, as she is in his account as if she had no speck of sin at all. #emph[David] in this respect useth the metaphor of #emph[covering sin,] and explaineth his meaning by these two #footnote[#emph[Psal.] 32. 1, 2.] phrases, #emph[forgiving, not imputing sin.]
 
-2. The course of a mans life, not this or that particular #footnote[How the Saints are blameless before men. #emph[Vna hirundo non facit ver.]] action, is it which maketh a man blame-worthy, or blameless: as the flock of swallows, and not one here, or another there, is it which showeth the Spring. Now because the constant carriage of those who are of the Church is before men blameless, they may justly be so accounted, notwithstanding some particular things blame-worthy do sometimes pass from them. Behold here how the true Saints may boldly lift up their faces before God and man. The soundness of their faith causeth confidence before God. The testimony of their conscience causeth courage before men. Let all that desire this boldness, join a sound faith and a good conscience together, and labour for assurance both of their cleansing by the blood of Christ, and sanctifying by the Spirit of Christ.
+2\. The course of a mans life, not this or that particular #footnote[How the Saints are blameless before men. #emph[Vna hirundo non facit ver.]] action, is it which maketh a man blame-worthy, or blameless: as the flock of swallows, and not one here, or another there, is it which showeth the Spring. Now because the constant carriage of those who are of the Church is before men blameless, they may justly be so accounted, notwithstanding some particular things blame-worthy do sometimes pass from them. Behold here how the true Saints may boldly lift up their faces before God and man. The soundness of their faith causeth confidence before God. The testimony of their conscience causeth courage before men. Let all that desire this boldness, join a sound faith and a good conscience together, and labour for assurance both of their cleansing by the blood of Christ, and sanctifying by the Spirit of Christ.
 
 === §. 39. #emph[Of the order and dependance of justification and sanctification one upon another.]
 
@@ -71,13 +71,13 @@ The letter setteth sanctification in the first place: but the sense presupposeth
 
 Hence arise these Doctrines. Our English with this particle #emph[(having)] doth fitly and properly expound the Greek active participles of the Praeterperfect or finite tenses, which because the Latins want, they are fain to use the passive, or a Periphrasis: as, #emph[vt illam sanctificaret mundatam, Erasm. Postquam eam purgasset, Beza.]
 
-1. #emph[Justification in order goeth before #footnote[1\. #emph[Doct. Iustificatio non accedit factoribus sed factores legis praecedit. Aug. de Spir. & lit. cap.] 26.] sanctification:] I say in order, because at that very moment that Christ by his blood cleanseth his Church, he beginneth to sanctify her: but when he beginneth to sanctify her, he hath cleansed her, she is justified.
+1\. #emph[Justification in order goeth before #footnote[1\. #emph[Doct. Iustificatio non accedit factoribus sed factores legis praecedit. Aug. de Spir. & lit. cap.] 26.] sanctification:] I say in order, because at that very moment that Christ by his blood cleanseth his Church, he beginneth to sanctify her: but when he beginneth to sanctify her, he hath cleansed her, she is justified.
 
 The grace then of justification is a most free grace: it is not wrought upon any righteousness of ours: for it is before it.
 
-2. #emph[Christ sanctifieth those whom he hath cleansed.] This the #footnote[2\. #emph[Doct.]] Apostle copiously proveth in the sixth chapter to the Romans. Let none therefore boast of their cleansing by Christs blood, till they find themselves renewed and sanctified by the Spirit of Christ. For note the Apostles description of those who are justified by Christ, which for more perspicuity may thus be set down by question and answer. To whom is there no condemnation? #footnote[#emph[Rom.] 8. 1.] To them that are in Christ Jesus. Who are they? They #emph[who walk not after the flesh, but after the Spirit.]
+2\. #emph[Christ sanctifieth those whom he hath cleansed.] This the #footnote[2\. #emph[Doct.]] Apostle copiously proveth in the sixth chapter to the Romans. Let none therefore boast of their cleansing by Christs blood, till they find themselves renewed and sanctified by the Spirit of Christ. For note the Apostles description of those who are justified by Christ, which for more perspicuity may thus be set down by question and answer. To whom is there no condemnation? #footnote[#emph[Rom.] 8. 1.] To them that are in Christ Jesus. Who are they? They #emph[who walk not after the flesh, but after the Spirit.]
 
-3. #emph[Sanctification presupposeth justification:] they who are sanctified #footnote[3\. #emph[Doct.]] may rest upon it, that they are cleansed and justified.
+3\. #emph[Sanctification presupposeth justification:] they who are sanctified #footnote[3\. #emph[Doct.]] may rest upon it, that they are cleansed and justified.
 
 For sanctification is a fruit of justification, in which respect #emph[S. James] saith, that #emph[we are justified by works,] that is, declared so #footnote[#emph[Jam.] 2. 24.] to be.
 
@@ -107,25 +107,25 @@ The manner of inferring this Sacramental washing upon the sanctifying and cleans
 
 In four especial respects it may be said to be a means as aforesaid.
 
-1. In that it doth most lively represent and set forth even to the outward senses the inward cleansing of our souls by the blood of Christ, and sanctifying of us by the Spirit of Christ. Apply the use of water (by the washing whereof foul things are made very clean) to the virtue of Christs blood and efficacy of his Spirit, and the truth hereof will evidently appear. For the better help in this application, read Rom. 6. 4. etc.
+1\. In that it doth most lively represent and set forth even to the outward senses the inward cleansing of our souls by the blood of Christ, and sanctifying of us by the Spirit of Christ. Apply the use of water (by the washing whereof foul things are made very clean) to the virtue of Christs blood and efficacy of his Spirit, and the truth hereof will evidently appear. For the better help in this application, read Rom. 6. 4. etc.
 
-2. In that it doth truly propound and make tender, or offer of the grace of justification and sanctification to the party baptized. In this respect it is thus described, #emph[Baptism of repentance] #footnote[#emph[Luke] 3. 3.] #emph[for remission of sins:] and #emph[S. Peter] to like purpose saith, #footnote[#emph[Acts] 2. 38.] #emph[Repent, and be baptized every one of you for the remission of sins.]
+2\. In that it doth truly propound and make tender, or offer of the grace of justification and sanctification to the party baptized. In this respect it is thus described, #emph[Baptism of repentance] #footnote[#emph[Luke] 3. 3.] #emph[for remission of sins:] and #emph[S. Peter] to like purpose saith, #footnote[#emph[Acts] 2. 38.] #emph[Repent, and be baptized every one of you for the remission of sins.]
 
-3. In that it doth really exhibit and seal up to the conscience of him that is baptized the forenamed graces, whereby he is assured that he is made partaker thereof. Thus #emph[Abraham received the sign of circumcision as a seal of the righteousness of] #footnote[#emph[Rom] 4. 11.] #emph[faith.] Hence is it that the Eunuch and others when they were #footnote[#emph[Acts] 8. 39. #emph[&] 16. 34.] #emph[baptized, went away rejoicing.]
+3\. In that it doth really exhibit and seal up to the conscience of him that is baptized the forenamed graces, whereby he is assured that he is made partaker thereof. Thus #emph[Abraham received the sign of circumcision as a seal of the righteousness of] #footnote[#emph[Rom] 4. 11.] #emph[faith.] Hence is it that the Eunuch and others when they were #footnote[#emph[Acts] 8. 39. #emph[&] 16. 34.] #emph[baptized, went away rejoicing.]
 
-4. In that it is a particular and peculiar pledge to the party baptized, that even he himself is made partaker of the said graces: therefore every one in particular is baptized for himself: yea, though many be at once brought to the Font, yet every one by name is baptized. To this purpose faith the Apostle, #emph[Whosoever are baptized into Christ, have put on Christ;] #footnote[#emph[Gal.] 3. 27.] #emph[whosoever,] whether #emph[Peter, John, Thomas,] or any other particular person. #emph[Ananias] said to #emph[Paul] in the singular number, #emph[Be] #footnote[#emph[Acts] 22. 16.] #emph[thou baptized, and wash away thy sins.]
+4\. In that it is a particular and peculiar pledge to the party baptized, that even he himself is made partaker of the said graces: therefore every one in particular is baptized for himself: yea, though many be at once brought to the Font, yet every one by name is baptized. To this purpose faith the Apostle, #emph[Whosoever are baptized into Christ, have put on Christ;] #footnote[#emph[Gal.] 3. 27.] #emph[whosoever,] whether #emph[Peter, John, Thomas,] or any other particular person. #emph[Ananias] said to #emph[Paul] in the singular number, #emph[Be] #footnote[#emph[Acts] 22. 16.] #emph[thou baptized, and wash away thy sins.]
 
 === §. 42. #emph[Objections against the efficacy of baptism answered.]
 
-1. #emph[Object.] Many that are baptized receive no such grace at all, they are neither cleansed nor sanctified.
+1\. #emph[Object.] Many that are baptized receive no such grace at all, they are neither cleansed nor sanctified.
 
 #emph[Answ.] They are only outwardly washed with water, they are not baptized with the Holy Ghost. The fault is not in that no grace accompanieth that Sacrament, but in that they receive not, but reject the grace which appertaineth thereto: #emph[what if some believe not? Shall their unbelief make the faith of] #footnote[#emph[Rom.] 3. 3.] #emph[God without effect? God forbid.]
 
-2. #emph[Object.] Many receive the forenamed graces before they are baptized, as #emph[Abraham] before he was circumcised, and such #footnote[#emph[Rom.] 4. 11.] as were baptized after they believed. How then is baptism a means thereof?
+2\. #emph[Object.] Many receive the forenamed graces before they are baptized, as #emph[Abraham] before he was circumcised, and such #footnote[#emph[Rom.] 4. 11.] as were baptized after they believed. How then is baptism a means thereof?
 
 #emph[Answ.] Their spiritual cleansing is more lively and fully manifested thereby, and they the more assured thereof.
 
-3. #emph[Object.] Many who long after their baptism, have lived like swine in sin, and so have not been cleansed or sanctified, yet divers years after have been effectually called: what means hath baptism been hereof?
+3\. #emph[Object.] Many who long after their baptism, have lived like swine in sin, and so have not been cleansed or sanctified, yet divers years after have been effectually called: what means hath baptism been hereof?
 
 #emph[Answ.] The use and efficacy of baptism is not as the act thereof, transient, but permanent and perpetual so long as the party baptized liveth. Whensoever a sinner unfeignedly repenteth, and faithfully layeth hold on the promises of God, baptism, which is the seal thereof is as powerful and effectual as it could have been when it was first administered. For the efficacy of baptism consisteth in the free offer of grace. So long therefore as God continueth to offer grace, so long may a mans baptism be effectual. On this ground we are but once for all baptized: and as the #footnote[#emph[Jer.] 44.] Prophets put the people in mind of their circumcision, so the Apostles of their baptism long after it was administered. Yea, they speak of it (though the act were long before past) as if it were in doing, in the time present, #emph[Baptism saveth.] #footnote[1 #emph[Pet.] 3. 21.]
 
@@ -137,9 +137,9 @@ II. Baptism is no physical or natural means of working #footnote[#emph[Aqua exhi
 
 III. A means of working a thing may be said to be necessary #footnote[Things necessary two ways.] two ways.
 
-1. #emph[Absolutely,] so as the thing cannot possibly be without it. #footnote[Ex Hypothesi.] Thus are the proper causes of a thing absolutely necessary, as in this case, Gods covenant, Christs blood, and the operation of the Spirit, are absolutely necessary for attaining any grace.
+1\. #emph[Absolutely,] so as the thing cannot possibly be without it. #footnote[Ex Hypothesi.] Thus are the proper causes of a thing absolutely necessary, as in this case, Gods covenant, Christs blood, and the operation of the Spirit, are absolutely necessary for attaining any grace.
 
-2. #emph[By consequence,] so as according to that course and order which God hath set down, things cannot be without them.
+2\. #emph[By consequence,] so as according to that course and order which God hath set down, things cannot be without them.
 
 Baptism is not absolutely necessary as a cause: for then should it be equal to Gods covenant, Christs blood, and the work of the Spirit. #emph[Yea then should all that are baptized without any exception be cleansed.]
 
@@ -148,9 +148,9 @@ But it is #emph[by consequence] necessary: and that in a double #footnote[Ex hyp
 + In regard of Gods ordinance.
 + In regard of our need thereof.
 
-1. God having ordained this a Sacrament to be used, it is necessary it should be used, if for no other end, yet for manifestation of our obedience. He that carelessly neglecteth; or wilfully contemneth any Sacrament which God shall enjoin him to use, #emph[his soul shall be cut off.] #footnote[#emph[Gen.] 17. 14.]
+1\. God having ordained this a Sacrament to be used, it is necessary it should be used, if for no other end, yet for manifestation of our obedience. He that carelessly neglecteth; or wilfully contemneth any Sacrament which God shall enjoin him to use, #emph[his soul shall be cut off.] #footnote[#emph[Gen.] 17. 14.]
 
-2. Great is the need that we have thereof, in regard of our dulness in conceiving things spiritual, and of our weakness in believing things invisible. We are carnal, and earthly: and by things sensible and earthly, do the better conceive things spiritual and heavenly: therefore hath God ordained visible elements to be Sacraments of invisible graces. Again we are slow to believe such things as are promised in the word, therefore the more to help and strengthen our faith, God hath added to his covenant in the word, his seal in and by the Sacrament: #emph[that by two immutable things,] (Gods covenant and Gods seal) #emph[in which it is impossible for God to lie, we might have strong consolation.] Besides, though in general we do believe the truth of Gods word, yet we are doubtful to apply it to our selves: wherefore for better applying Gods covenant to our own soul, God hath added his Sacrament to his word.
+2\. Great is the need that we have thereof, in regard of our dulness in conceiving things spiritual, and of our weakness in believing things invisible. We are carnal, and earthly: and by things sensible and earthly, do the better conceive things spiritual and heavenly: therefore hath God ordained visible elements to be Sacraments of invisible graces. Again we are slow to believe such things as are promised in the word, therefore the more to help and strengthen our faith, God hath added to his covenant in the word, his seal in and by the Sacrament: #emph[that by two immutable things,] (Gods covenant and Gods seal) #emph[in which it is impossible for God to lie, we might have strong consolation.] Besides, though in general we do believe the truth of Gods word, yet we are doubtful to apply it to our selves: wherefore for better applying Gods covenant to our own soul, God hath added his Sacrament to his word.
 
 === §. 45. #emph[Of the contrary extremes of Papists and Anabaptists about the necessity and efficacy of Baptism.]
 
@@ -188,11 +188,11 @@ The other means of sanctifying and cleansing the Church here expressed, is the #
 
 #emph[It is necessary that the word and Baptism go together:] that #footnote[Doct.] where this Sacrament is administered, the doctrine thereof be truly, plainly, intelligibly taught, so as the nature, efficacy, end, and use thereof may be made known; and the covenant of God sealed up thereby, believed. So saith Christ, #footnote[#emph[Mat.] 28. 19.] #emph[Go teach all nations baptising them.] So did the #footnote[#emph[Luk.] 3. 3.] Baptist, and the #footnote[#emph[Act.] 2. 38. & 8. 12, 37. & 10. 47. & 16. 15, 33.] Apostles, they preached the Gospel to them whom they baptised.
 
-1. A Sacrament without the word is but an idle ceremony: #footnote[#emph[Reasons. Detrahe verbum & quid est aqua nisi aqua? accedat verbum ad elementum & fit sacramentum. Aug. in Joh.] 15. #emph[tract.] 80.] no more then a seal without a covenant: for it is the word that maketh known the covenant of God.
+1\. A Sacrament without the word is but an idle ceremony: #footnote[#emph[Reasons. Detrahe verbum & quid est aqua nisi aqua? accedat verbum ad elementum & fit sacramentum. Aug. in Joh.] 15. #emph[tract.] 80.] no more then a seal without a covenant: for it is the word that maketh known the covenant of God.
 
-2. It is the word which maketh the greatest difference betwixt the sacramental washing of water, and ordinary common washing.
+2\. It is the word which maketh the greatest difference betwixt the sacramental washing of water, and ordinary common washing.
 
-3. By the word the ordinary creatures which we use are sanctified, much more the holy ordinances of God, whereof Baptism is one of the principal.
+3\. By the word the ordinary creatures which we use are sanctified, much more the holy ordinances of God, whereof Baptism is one of the principal.
 
 #strong[#emph[Quest.] Is it not then lawful to administer Baptism without #footnote[1 #emph[Tim.] 4. 5.] a Sermon?]
 

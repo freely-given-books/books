@@ -12,7 +12,7 @@ Hitherto of the several kinds of servants duties, and of the manner of performin
 
 The extent of servants duties is in my text only implied under this indefinite particle #emph[(Obey)] (which being not restrained to any particulars, must be extended to #emph[every thing)] but in other places it is expressly laid down in these general terms, #footnote[#emph[Col.] 3. 22.] #emph[Obey in all things,] #footnote[#emph[Tit.] 2. 9.] #emph[Please well in all things.] It is not therefore sufficient that servants perform their duties well in some things, they must do it in all things, yea in things that may be against their own mind and liking, if their master will have it so. For this end let servants note these two rules. The same extent and restraint #footnote[Extent of servants duties.] that was #footnote[Treat. 3. §. 63, #emph[etc.] & Treat. 5. §. 35.] before noted in laying forth the duties of other inferiors, is here also to be observed in the duties of servants: for therein they all agree. The same rules therefore that were before set down, may here again be applied. I refer the reader to those places for a more large amplification of the generals: and here I will content my self with adding such particular proofs as are most proper and pertinent to servants.
 
-1. That they #emph[labour to bring their judgment to the bent of their masters judgment,] and to think that meet and good which #footnote[Servants must labour to bring their judgment to agree with their masters.] he doth. Thus the #footnote[#emph[Judg.] 19. 11, 12, #emph[etc.]] servant of the Levite which thought it meetest to turn into one of the Cities of the Jebusites to lodge there, because the day was far spent, when he saw his master to be of another mind, yielded to him. So did #footnote[#emph[Luk.] 19. 25, #emph[etc.]] those servants yield to their master, who at first thought it unmeet that he that had ten talents should have one piece more: and #footnote[#emph[Mat.] 13. 28, #emph[etc.]] those servants also, that at first thought it meet that the tares should be plucked up from the wheat. This rule is to be observed in the particular points before delivered, as the work which servants do, and the manner of doing it, their apparel, their allowance, yea and in the correction which their master giveth them, and the rest.
+1\. That they #emph[labour to bring their judgment to the bent of their masters judgment,] and to think that meet and good which #footnote[Servants must labour to bring their judgment to agree with their masters.] he doth. Thus the #footnote[#emph[Judg.] 19. 11, 12, #emph[etc.]] servant of the Levite which thought it meetest to turn into one of the Cities of the Jebusites to lodge there, because the day was far spent, when he saw his master to be of another mind, yielded to him. So did #footnote[#emph[Luk.] 19. 25, #emph[etc.]] those servants yield to their master, who at first thought it unmeet that he that had ten talents should have one piece more: and #footnote[#emph[Mat.] 13. 28, #emph[etc.]] those servants also, that at first thought it meet that the tares should be plucked up from the wheat. This rule is to be observed in the particular points before delivered, as the work which servants do, and the manner of doing it, their apparel, their allowance, yea and in the correction which their master giveth them, and the rest.
 
 Contrary is that great conceit which many servants have of #footnote[Servants conceit of their own wit.] their own judgment, wit, and wisdom, thinking themselves wiser then their masters; as #emph[Gehazi,] who opposing his own wit to his masters wisdom, said, #footnote[2 #emph[King.] 5. 20.] #emph[Behold my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but as the Lord liveth, I will run after him, and take somewhat of him.] This was also a fault in #footnote[2 #emph[King.] 2. 16.] the children of the Prophets, that would not rest on #emph[Elishas] judgment, but importuned him against his mind to send some to seek the body of #emph[Elijah.] This self-conceit is the cause of many mischiefs: as of discontentedness at the work their master appointeth them, and at the allowance of meat and drink which they have; of much liberty they take to themselves, of pride in apparel, and other vices before noted: if the forenamed rule were duly observed, many of those mischiefs would be avoided, and much better obedience yielded.
 
@@ -42,9 +42,9 @@ Contrary to this restraint is both a parasitical pleasing of masters: and also a
 
 As a just consequence following from the forenamed extent and restraint of servants duties, I may further gather these two lessons for servants.
 
-1. It is very behoveful that servants make choice of good masters: at least if it be in their power to choose.
+1\. It is very behoveful that servants make choice of good masters: at least if it be in their power to choose.
 
-2. It is behoveful that they continue and abide under good masters: at least if they continue servants, and abide under any masters.
+2\. It is behoveful that they continue and abide under good masters: at least if they continue servants, and abide under any masters.
 
 That these consequences justly follow as aforesaid, is evident: for seeing servants are bound to obey in all things which are not #emph[against God,] and must obey in nothing but what is #emph[in the Lord,] it is very requisite that servants be under such masters as bear the Image of God in the inward disposition, and grace of their heart, as well as in their outward function and place: and will go along with God in using their authority, commanding nothing but what a servant may do with a good conscience, and without transgressing against God: and forbidding nothing that God hath bound a servant to do. There will be comfort in serving such masters: and our obedience to them will be obedience to God. Such masters therefore must be chosen. Yea and with such must servants abide, (if not with the very same, yet with such as they are, of the same disposition) for if they go to other, their former comfort will be taken away, and their servitude will seem so much the more miserable, by how much more knowledge and experience they have had of the benefit of their former liberty (for #footnote[Qui fidelem habet dominum, saluo eius dominio, diligat vt patrem.] we may well call service under unconscionable masters #emph[servitude,] and in opposition thereunto, service under religious masters, #emph[liberty.)] He therefore that hath a master that is faithful, due respect had to his authority, must love him as a father, and #footnote[#emph[Constit. Apost. l.] 4. #emph[c.] 12.] so abide with him.
 
@@ -74,21 +74,21 @@ The third reason is implied under this phrase, #emph[doing the] #footnote[III.] 
 
 Good reason there is to press this reason: for
 
-1. Gods will is the very ground of goodness: things are therefore good because they are agreeable to Gods will: Gods will giveth the very being to goodness.
+1\. Gods will is the very ground of goodness: things are therefore good because they are agreeable to Gods will: Gods will giveth the very being to goodness.
 
-2. Gods will is a rule to square all our actions by, even as the kings statutes and proclamations are to his subjects.
+2\. Gods will is a rule to square all our actions by, even as the kings statutes and proclamations are to his subjects.
 
-3. It is a perfect rule #emph[(the law of the Lord is perfect)] so as we #footnote[#emph[Psal.] 19. 7.] may be sure not to swerve, if we hold close thereunto.
+3\. It is a perfect rule #emph[(the law of the Lord is perfect)] so as we #footnote[#emph[Psal.] 19. 7.] may be sure not to swerve, if we hold close thereunto.
 
-4. It is a sufficient rule, it will give every one (and among other, servants) direction how to carry themselves in every thing they take in hand, yea in every thing that appertaineth to them. For, #emph[Gods word is given to make us perfect, thoroughly] #footnote[2 #emph[Tim.] 3. 17.] #emph[furnished unto all good works.]
+4\. It is a sufficient rule, it will give every one (and among other, servants) direction how to carry themselves in every thing they take in hand, yea in every thing that appertaineth to them. For, #emph[Gods word is given to make us perfect, thoroughly] #footnote[2 #emph[Tim.] 3. 17.] #emph[furnished unto all good works.]
 
-5. It is a good warrant to justify us in all our actions: so as, going along with it, we need not care what any man can say against us. If a man be sure that he have statute law, or the kings proclamation on his side, he is bold.
+5\. It is a good warrant to justify us in all our actions: so as, going along with it, we need not care what any man can say against us. If a man be sure that he have statute law, or the kings proclamation on his side, he is bold.
 
 From this reason which is of such weight, I gather two propositions to add force to this motive.
 
-1. That servants obey their masters, is no arbitrary matter, but a necessary duty: not left to his will whether he will do it or no, but a thing whereunto he is bound: and that not only by civil constitutions of men, but also by a divine institution of God: so as it is not only a matter of civil policy, but also of conscience, to be done for conscience sake.
+1\. That servants obey their masters, is no arbitrary matter, but a necessary duty: not left to his will whether he will do it or no, but a thing whereunto he is bound: and that not only by civil constitutions of men, but also by a divine institution of God: so as it is not only a matter of civil policy, but also of conscience, to be done for conscience sake.
 
-2. That no creature can dispense with servants, so as they should be exempted from doing their duty to their master. If they could, they were greater then God, and their will above Gods will. Among creatures, masters themselves are to be reckoned: now because it is Gods will that servants should be in subjection, their masters cannot exempt them from it. Masters may let them go free: but retaining them as servants, they cannot exempt them from a servants subjection. Wherefore though masters be careless in exacting duty, yet let servants be conscionable in yielding duty, because it is Gods will.
+2\. That no creature can dispense with servants, so as they should be exempted from doing their duty to their master. If they could, they were greater then God, and their will above Gods will. Among creatures, masters themselves are to be reckoned: now because it is Gods will that servants should be in subjection, their masters cannot exempt them from it. Masters may let them go free: but retaining them as servants, they cannot exempt them from a servants subjection. Wherefore though masters be careless in exacting duty, yet let servants be conscionable in yielding duty, because it is Gods will.
 
 === §. 43. #emph[Of the fourth reason, the reward of good service.]
 
@@ -108,15 +108,15 @@ Gods reward is both of temporal and eternal blessings.
 
 The temporal blessings which heretofore God hath bestowed #footnote[What reward God giveth to good servants.] on faithful servants, and which on that ground other like servants may expect, are these especially.
 
-1. He will move masters to respect such servants, as he moved #footnote[#emph[Est.] 6. 3.] #emph[Ahasuerus] to recompense the fidelity of #emph[Mordecai.]
+1\. He will move masters to respect such servants, as he moved #footnote[#emph[Est.] 6. 3.] #emph[Ahasuerus] to recompense the fidelity of #emph[Mordecai.]
 
-2. If masters fail therein, he will move strangers to recompense them: as he moved #footnote[#emph[Gen.] 39. 21.] the Jailer to favour #emph[Joseph] when his master had cast him in prison: and #footnote[#emph[&] 41. 40.] #emph[Pharaoh] to advance him to great dignity.
+2\. If masters fail therein, he will move strangers to recompense them: as he moved #footnote[#emph[Gen.] 39. 21.] the Jailer to favour #emph[Joseph] when his master had cast him in prison: and #footnote[#emph[&] 41. 40.] #emph[Pharaoh] to advance him to great dignity.
 
-3. To draw the hearts of their masters and others the more unto them, he will make the things which they take in hand to prosper. Thus did he bless #footnote[#emph[Gen.] 39. 2.] #emph[Joseph,] and #footnote[#emph[&] 24. 56.] #emph[Abrahams] servant.
+3\. To draw the hearts of their masters and others the more unto them, he will make the things which they take in hand to prosper. Thus did he bless #footnote[#emph[Gen.] 39. 2.] #emph[Joseph,] and #footnote[#emph[&] 24. 56.] #emph[Abrahams] servant.
 
-4. In dealing for themselves he will bless their labours, as he blessed #footnote[#emph[Gen.] 30. 43.] #emph[Jacobs.]
+4\. In dealing for themselves he will bless their labours, as he blessed #footnote[#emph[Gen.] 30. 43.] #emph[Jacobs.]
 
-5. He will, when they come to keep servants, provide such servants for them, as they were to their masters. #footnote[#emph[Gen.] 43. 23.] In Egypt God blessed #emph[Joseph] with a faithful servant. #emph[David,] who #footnote[1 #emph[Sam.] 17. 34.] ventured his life to save his fathers sheep, had #footnote[2 #emph[Sam.] 21. 17. #emph[&] 23. 15.] many servants that ventured their lives for him.
+5\. He will, when they come to keep servants, provide such servants for them, as they were to their masters. #footnote[#emph[Gen.] 43. 23.] In Egypt God blessed #emph[Joseph] with a faithful servant. #emph[David,] who #footnote[1 #emph[Sam.] 17. 34.] ventured his life to save his fathers sheep, had #footnote[2 #emph[Sam.] 21. 17. #emph[&] 23. 15.] many servants that ventured their lives for him.
 
 To this purpose may be applied that proverb which Christ oft useth, #footnote[#emph[Luk.] 6. 38.] #emph[with what measure ye mete shall it be measured to you again.]
 

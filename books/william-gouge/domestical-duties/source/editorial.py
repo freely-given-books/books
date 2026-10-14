@@ -125,9 +125,10 @@ DROP_CAP_CASE = True
 # Lists the review numbers ("+" items) keep Typst's 1. 2. 3., not I. II.
 TYPST_ENUM = None
 
-# A paragraph that opens with its number ("3. It is a means...") is set as a
-# numbered item, as the printed volumes have always had it.
-TYPST_NUMBERED_PARAGRAPHS = "enum"
+# A paragraph that opens with its number ("3. It is a means...") is an
+# ordinary paragraph with its number in the text, as printed in 1622: Gouge's
+# numbers run at several levels (points, their proofs, reasons), and set as
+# list items they read as one list restarting (2026-10-13).
 
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",

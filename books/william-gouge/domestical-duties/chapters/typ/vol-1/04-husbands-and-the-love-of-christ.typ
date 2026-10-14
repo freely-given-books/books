@@ -27,9 +27,9 @@ An #emph[equity,] because there is as great reason that husbands by virtue of th
 
 A #emph[like quality,] because the love which Christ beareth to the Church is every way without exception: and a love which turneth to the good and benefit of the Church. Hence note two points.
 
-1. #emph[Husbands must come as near as they can to Christ in loving their wives.] In which respect, because they can never love so much as Christ did, they must never think they have loved enough.
+1\. #emph[Husbands must come as near as they can to Christ in loving their wives.] In which respect, because they can never love so much as Christ did, they must never think they have loved enough.
 
-2. Though their love in #emph[measure] cannot equal Christs love, yet in the #emph[manner] thereof it must be like Christs, a #emph[preventing, true, free, pure, exceeding, constant love.]
+2\. Though their love in #emph[measure] cannot equal Christs love, yet in the #emph[manner] thereof it must be like Christs, a #emph[preventing, true, free, pure, exceeding, constant love.]
 
 #emph[The] measure #emph[and] manner #emph[of Christs love is distinctly noted,] Treat. 4. §. 61. #emph[etc. And the love which an husband oweth his wife paralleled & applied thereto, which application may be also made of that Christian mutual love which we owe one to another.]
 
@@ -48,9 +48,9 @@ The #emph[end] of Christs love (set forth #emph[vers.] 26, 27.) is noted to show
 
 As this example of Christs love to his Church is set before husbands: so it may and ought also to be applied to all Christians: and that in a double respect.
 
-1. As a motive to stir them up to love both Christ himself, and also their brethren.
+1\. As a motive to stir them up to love both Christ himself, and also their brethren.
 
-2. As a pattern to teach them how to love.
+2\. As a pattern to teach them how to love.
 
 A motive it is to love Christ, because love deserveth love: especially such a love, of such a person as the love of Christ is. Yea, our love of Christ is an evidence that we are loved of Christ, as smoke is a sign of fire. Wherefore both in thankfulness to Christ, for his love to us, and for assurance to our own souls of Christs love to us, we ought in all things that we can to testify our love to Christ.
 
@@ -81,9 +81,9 @@ More particularly, we may note these three points:
 
 The #emph[action] having relation to the #emph[object,] most especially pointeth at the death of Christ. The #footnote[παρέδωκεν.] Greek word is a compound word, and signifieth to #emph[give up.] It implieth two things,
 
-1. #emph[That Christ willingly died:] the simple word #emph[(gave)] intimateth so much.
+1\. #emph[That Christ willingly died:] the simple word #emph[(gave)] intimateth so much.
 
-2. #emph[That his death was an oblation:] that is, a price of redemption, or a satisfaction: the compound word #emph[(gave up)] intimateth so much.
+2\. #emph[That his death was an oblation:] that is, a price of redemption, or a satisfaction: the compound word #emph[(gave up)] intimateth so much.
 
 === §. 29. #emph[Of the willingness of Christ to die.]
 
@@ -111,29 +111,29 @@ The Object, or thing which Christ gave for a ransom was #emph[himself,] not his 
 
 #emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an human nature into the unity of his divine nature, and uniting them together #footnote[ἀσυγχύτως. ἀτρέπτως. ἀδιαιρέτως. ἀχωρίστως. #emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
 
-2. Though the divine nature of Christ suffered not, yet did it support the human nature, and add dignity, worth and efficacy to the sufferings of that nature.
+2\. Though the divine nature of Christ suffered not, yet did it support the human nature, and add dignity, worth and efficacy to the sufferings of that nature.
 
-3. Christs divine nature had proper and peculiar works in the work of redemption, as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
+3\. Christs divine nature had proper and peculiar works in the work of redemption, as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
 
 Thus then in three respects the whole person of Christ was given unto us.
 
-1. In regard of the inseparable union of both natures.
+1\. In regard of the inseparable union of both natures.
 
-2. In regard of the assistance of the Deity in those things which the human nature of Christ did.
+2\. In regard of the assistance of the Deity in those things which the human nature of Christ did.
 
-3. In regard of some proper actions appertaining to the Deity. #footnote[Doctr.]
+3\. In regard of some proper actions appertaining to the Deity. #footnote[Doctr.]
 
 In that the person of Christ God-man was given up, I gather that #footnote[1 #emph[Pet.] 1. 19. #emph[Uses.]]
 
 #emph[The price of our Redemption is of infinite value.] Nor Christ, #footnote[#emph[Quanta se fiducia spes credentium consolatur considerans quantus quanta pro nondum credentibus passus sit? Aug. de Doctr. Chr. l.] 1. #emph[c.] 15.] nor God himself could give a greater. Heaven and earth and all things in them are not of like worth. Well therefore might Saint #emph[Peter] call it #emph[precious blood:] and prefer it before silver, gold, and all other things of price.
 
-1. What place can be left for despair in those that know and believe the worth of this ransom?
+1\. What place can be left for despair in those that know and believe the worth of this ransom?
 
-2. What can be held too dear for him, that notwithstanding the infinite excellency of his person gave himself for us? Can goods, can friends, can children, can liberty, can life, can any thing else?
+2\. What can be held too dear for him, that notwithstanding the infinite excellency of his person gave himself for us? Can goods, can friends, can children, can liberty, can life, can any thing else?
 
-3. What just cause have we to #emph[give up our selves a living sacrifice,] #footnote[#emph[Rom.] 12. 1.] #emph[holy and acceptable] to him that gave himself for us?
+3\. What just cause have we to #emph[give up our selves a living sacrifice,] #footnote[#emph[Rom.] 12. 1.] #emph[holy and acceptable] to him that gave himself for us?
 
-4. How ungrateful, how unworthy of Christ are they, that for his sake will not forsake their unstable honours, fading wealth, vain pleasures, garish attire, and such like trash?
+4\. How ungrateful, how unworthy of Christ are they, that for his sake will not forsake their unstable honours, fading wealth, vain pleasures, garish attire, and such like trash?
 
 === §. 32. #emph[Of Christs seeking the good of the Church.]
 
@@ -147,19 +147,19 @@ Learn we also hereby how to manifest love: namely by seeking, and procuring the 
 
 From hence by just consequence it followeth that #emph[Christ merited] #footnote[Christ merited not for himself.] #emph[not for himself.] Was there any need that Christ should come down from heaven on earth, to purchase any thing for himself? When he was going out of the world, thus he prayed, #emph[Now, O father, glorify thou me with the glory which I had] #footnote[#emph[Joh.] 17. 5.] #emph[with thee before the world was.] Did Christ by any thing which he did on earth merit that glory which he had before the world was? All the exaltation whereunto he was advanced even in his human nature, was due to the dignity of his person.
 
-#strong[1. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]]
+#strong[1\. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]]
 
 #emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his human nature, not as a recompense which he should deserve.
 
-#strong[2. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διό.] WHEREFORE #emph[God also hath highly exalted him.]]
+#strong[2\. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διό.] WHEREFORE #emph[God also hath highly exalted him.]]
 
 #emph[Answ.] That particle #emph[(wherefore)] doth not declare the cause, but the order of his exaltation: noting a consequence that followed after his death. After he had humbled himself so low, he was most highly advanced.
 
-#strong[3. #emph[Object.] Christ being man was bound to the Law: and therefore for himself he ought to fulfill it.]
+#strong[3\. #emph[Object.] Christ being man was bound to the Law: and therefore for himself he ought to fulfill it.]
 
 #emph[Answ.] If he had been mere man, that were true. But he uniting his human nature unto his divine, and making of both one person, which person was God as well as man, he was bound to nothing further then it pleased him voluntarily to subject himself unto for our sakes.
 
-2. If Christ were bound to the Law, of duty he must have fulfilled it: and if of duty he was to fulfill it, how could he thereby merit so high a degree of honour as he is advanced unto?
+2\. If Christ were bound to the Law, of duty he must have fulfilled it: and if of duty he was to fulfill it, how could he thereby merit so high a degree of honour as he is advanced unto?
 
 This conceit of Christs meriting for himself, doth much extenuate the glory of Christs grace and goodness in giving himself.
 
@@ -219,8 +219,8 @@ This our former estate by nature is oft and seriously #footnote[Our natural cond
 + Our selves.
 + Others.
 
-1. In regard of Christ, the more to magnify his love. Our former estate, before he cast the wings of his mercy upon us, showeth our unworthiness, our vileness, and wretchedness, and in that respect it openeth our heart and mouth to think and say, #footnote[#emph[Psal.] 8. 1, 4.] #emph[O Lord our Lord, what is man that thou art mindful of him, and the son of man that thou visitest him!] #footnote[#emph[Joh.] 14. 22.] #emph[Lord, how is it that thou wilt manifest thy self unto us, and not unto the world!] The right knowledge of our former estate, and a due consideration thereof, maketh us ascribe all the glory of our present dignity, and happiness, to Christ that altered our estate, as Saint #emph[Paul,] #footnote[1 #emph[Tim.] 1. 12. #emph[etc.]] #emph[I thank Christ Jesus our Lord who hath enabled me, who was before a blasphemer, etc.] yea it maketh us the more to prize and esteem the present estate, as #footnote[2 #emph[Sam.] 7. 18, #emph[etc.]] #emph[David.]
+1\. In regard of Christ, the more to magnify his love. Our former estate, before he cast the wings of his mercy upon us, showeth our unworthiness, our vileness, and wretchedness, and in that respect it openeth our heart and mouth to think and say, #footnote[#emph[Psal.] 8. 1, 4.] #emph[O Lord our Lord, what is man that thou art mindful of him, and the son of man that thou visitest him!] #footnote[#emph[Joh.] 14. 22.] #emph[Lord, how is it that thou wilt manifest thy self unto us, and not unto the world!] The right knowledge of our former estate, and a due consideration thereof, maketh us ascribe all the glory of our present dignity, and happiness, to Christ that altered our estate, as Saint #emph[Paul,] #footnote[1 #emph[Tim.] 1. 12. #emph[etc.]] #emph[I thank Christ Jesus our Lord who hath enabled me, who was before a blasphemer, etc.] yea it maketh us the more to prize and esteem the present estate, as #footnote[2 #emph[Sam.] 7. 18, #emph[etc.]] #emph[David.]
 
-2. In regard of our selves this is to be thought of, to humble us, and to keep us from insolent boasting in those privileges whereof through Christ we are made partakers. To this purpose doth the Apostle thus press this point, #emph[Who maketh] #footnote[1 #emph[Cor.] 4. 7.] #emph[thee to differ from another? And what hast thou that thou diddest not receive? Now if thou diddest receive it, why doest thou glory as if thou hadst not received it?] When a man is exalted from a mean, to a great place, and thereupon waxeth proud and insolent, we say, #emph[he hath forgotten from whence he came.] So as remembrance of our former condition is a means to preserve humility, and to suppress insolency.
+2\. In regard of our selves this is to be thought of, to humble us, and to keep us from insolent boasting in those privileges whereof through Christ we are made partakers. To this purpose doth the Apostle thus press this point, #emph[Who maketh] #footnote[1 #emph[Cor.] 4. 7.] #emph[thee to differ from another? And what hast thou that thou diddest not receive? Now if thou diddest receive it, why doest thou glory as if thou hadst not received it?] When a man is exalted from a mean, to a great place, and thereupon waxeth proud and insolent, we say, #emph[he hath forgotten from whence he came.] So as remembrance of our former condition is a means to preserve humility, and to suppress insolency.
 
-3. In regard of others it is to be thought of, to move us the more to commiserate their woeful estate, who yet remain as we once were; to conceive hope that their estate may be altered as well as ours was; to pray and use what means we can that it may be altered. To provoke Christians to show all meekness to them which were without, the Apostle renders this reason, #emph[for we our selves also in times past were foolish,] #footnote[#emph[Tit.] 3. 3, #emph[etc.]] #emph[etc.] read how forcibly this is urged, #emph[Rom.] 11. 18, 19, etc.
+3\. In regard of others it is to be thought of, to move us the more to commiserate their woeful estate, who yet remain as we once were; to conceive hope that their estate may be altered as well as ours was; to pray and use what means we can that it may be altered. To provoke Christians to show all meekness to them which were without, the Apostle renders this reason, #emph[for we our selves also in times past were foolish,] #footnote[#emph[Tit.] 3. 3, #emph[etc.]] #emph[etc.] read how forcibly this is urged, #emph[Rom.] 11. 18, 19, etc.
