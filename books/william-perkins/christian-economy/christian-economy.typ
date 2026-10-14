@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.7.0": *
+#import "@local/fgbooks:0.9.0": *
 
 #show outline: set text(9.5pt)
 
