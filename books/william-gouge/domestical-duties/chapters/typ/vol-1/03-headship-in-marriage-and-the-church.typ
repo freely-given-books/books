@@ -3,7 +3,7 @@
 === §. 14. #emph[How an husband is his wives head.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23.]
 
@@ -23,16 +23,11 @@ The amplification thereof by the resemblance that is made to Christ, enforceth t
 
 A wife must submit her self to an husband, because he is her #emph[head:] and she must do it #emph[as to the Lord,] because her husband is to her, as Christ is to the Church.
 
-The metaphor of an head declareth two points:
+The metaphor of an head declareth two points: the dignity and the duty of an husband.
 
-+ The dignity
-+ The duty
+1\. As an head is more eminent and excellent than the body, and placed above it, so is an husband to his wife.
 
-of an husband.
-
-1. As an head is more eminent and excellent than the body, and placed above it, so is an husband to his wife.
-
-2. As an head, by the understanding which is in it, governeth, protecteth, preserveth, provideth for the body, so doth the husband his wife: at least he ought so to do: for this is his office and duty: this is here noted to show the benefit which a wife receiveth by her husband: so as two motives are included under this metaphor.
+2\. As an head, by the understanding which is in it, governeth, protecteth, preserveth, provideth for the body, so doth the husband his wife: at least he ought so to do: for this is his office and duty: this is here noted to show the benefit which a wife receiveth by her husband: so as two motives are included under this metaphor.
 
 The first is taken from the husbands prerogative, whence note that
 
@@ -55,7 +50,7 @@ Upon this ground the Apostle inferreth the conclusion in the next verse.
 === §. 16. #emph[Of the resemblance betwixt] the Church to Christ, and a wife to her husband.
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24.]
 
@@ -84,7 +79,7 @@ I will further consider these examples of Christ and the Church more distinctly 
 === §. 17. #emph[Of the relation betwixt Christ and the Church.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23, 24.]
 
@@ -145,7 +140,7 @@ Much comfort and great confidence must this needs minister #footnote[Use.] to al
 
 The #emph[Goodness] of Christ is set down in these words #emph[(and he is the Saviour of the body)] Every word almost hath his emphasis.
 
-1. The copulative particle (AND) showeth that
+1\. The copulative particle (AND) showeth that
 
 #emph[The goodness which Christ doth for his Church, he doth because] #footnote[καί 1. #emph[Obser.]] #emph[he is the head thereof.]
 
@@ -157,11 +152,11 @@ Happy were it for Kingdoms, common-wealths, Cities, Churches, families, wives, a
 
 In laying forth the goodness of Christ three things are noted.
 
-- 1\. The #emph[Kind] of goodness, which is Salvation #emph[(the Saviour)]
-- 2\. The person that performeth it #emph[(he himself.)]
-- 3\. The parties for whom he performeth it #emph[(the body.)]
++ The #emph[Kind] of goodness, which is Salvation #emph[(the Saviour)]
++ The person that performeth it #emph[(he himself.)]
++ The parties for whom he performeth it #emph[(the body.)]
 
-1. The Greek word translated #footnote[σωτήρ. #emph[Sotera inscriptum vidi Syracusis. hoc quantum est? Ita magnum, vt Latino vno verbo exprimi non possit. Is est nimirum soter, qui salutem dedit. Cicer. in Ver. act] 4.] #emph[Saviour] is so emphatical that other tongues can hardly find a fit word to express the emphasis thereof: it being attributed to Christ, implieth that
+1\. The Greek word translated #footnote[σωτήρ. #emph[Sotera inscriptum vidi Syracusis. hoc quantum est? Ita magnum, vt Latino vno verbo exprimi non possit. Is est nimirum soter, qui salutem dedit. Cicer. in Ver. act] 4.] #emph[Saviour] is so emphatical that other tongues can hardly find a fit word to express the emphasis thereof: it being attributed to Christ, implieth that
 
 #emph[Christ is a most absolute and perfect Saviour,] he is every way a sufficient Saviour: #footnote[#emph[Heb.] 7. 25. σῴζειν εἰς τὸ παντελὲς δύναται. #emph[Mat.] 1. 21.] #emph[able perfectly to save even to the very uttermost.] He saveth Soul and Body: he saveth from all manner of misery: which is intimated by that particular from #footnote[Doct.] which he saveth, namely #emph[sin: he shall save his people from their sins.] Sin is the greatest, and most grievous evil; yea, the cause of all misery: they who are saved from it, are saved from all evil: for there is nothing hurtful to man, but that which is caused by sin, or poisoned by it.
 
@@ -201,22 +196,22 @@ The persons who receive any benefit by this #emph[Saviour,] are all comprised un
 
 This calling is twofold:
 
-1. #emph[Outward,] which is common to all that make profession #footnote[#emph[Mat.] 20. 16.] of the Gospel: in this respect it is said, #emph[many are called and few chosen.]
+1\. #emph[Outward,] which is common to all that make profession #footnote[#emph[Mat.] 20. 16.] of the Gospel: in this respect it is said, #emph[many are called and few chosen.]
 
-2. #emph[Inward,] which is proper to the elect, none but they, and all they in their time shall both outwardly be called by the word to a profession of Christ, and also inwardly and effectually by the spirit to believe in Christ, and obey his Gospel. This is styled #footnote[#emph[Heb.] 3. 1.] #emph[an heavenly calling,] which is #footnote[1 #emph[Cor.] 1. 2.] proper to the Saints. These make that Church, whereof Christ is properly the head: and therefore in relation to that metaphor of an head, they are called the #emph[Body:] and that in these respects;
+2\. #emph[Inward,] which is proper to the elect, none but they, and all they in their time shall both outwardly be called by the word to a profession of Christ, and also inwardly and effectually by the spirit to believe in Christ, and obey his Gospel. This is styled #footnote[#emph[Heb.] 3. 1.] #emph[an heavenly calling,] which is #footnote[1 #emph[Cor.] 1. 2.] proper to the Saints. These make that Church, whereof Christ is properly the head: and therefore in relation to that metaphor of an head, they are called the #emph[Body:] and that in these respects;
 
-- 1\. They are under Christ, as a body under the head.
-- 2\. They receive spiritual life and grace from Christ, as a body natural receiveth sense, and vigour from the head.
-- 3\. Christ governeth them, as an head the body.
-- 4\. They are subject to Christ, as a body to the head.
++ They are under Christ, as a body under the head.
++ They receive spiritual life and grace from Christ, as a body natural receiveth sense, and vigour from the head.
++ Christ governeth them, as an head the body.
++ They are subject to Christ, as a body to the head.
 
 === §. 22. #emph[Of the extent of Christs goodness to all his body.]
 
 This metaphor, by which the persons that reap the benefit of Christs office are set forth, noteth two points.
 
-1. #emph[All that are once incorporated into Christ shall be saved.] The body compriseth all the parts and members under it: not only arms, shoulders, breast, back, and such like: but also hands, fingers, feet, toes, and all. Christ their head being their #emph[Saviour,] who can doubt of their salvation?
+1\. #emph[All that are once incorporated into Christ shall be saved.] The body compriseth all the parts and members under it: not only arms, shoulders, breast, back, and such like: but also hands, fingers, feet, toes, and all. Christ their head being their #emph[Saviour,] who can doubt of their salvation?
 
-2. #emph[None but those that are incorporated into Christ shall be saved.] For this privilege is appropriated to the #emph[body.]
+2\. #emph[None but those that are incorporated into Christ shall be saved.] For this privilege is appropriated to the #emph[body.]
 
 The former point is clearly set forth by a resemblance, which the Apostle maketh betwixt #emph[Adam] and #emph[Christ,] thus: #emph[As by the offence of one, judgment came on all men to condemnation,] #footnote[#emph[Rom.] 5. 18.] #emph[even so by the righteousness of one, the free gift came on all men unto justification of life.] Here are noted two roots, one is #emph[Adam,] the other is #emph[Christ:] both of them have their number of branches, to all which they convey that which is in them, as the root conveyeth the sap that is in it, into all the branches that sprout from it. The first root, which is #emph[Adam,] conveyeth sin and death to all that come from him: and the other root, which is #emph[Christ,] conveyeth grace and life to every one that is given to him: for saith he, #emph[All that the father] #footnote[#emph[Joh.] 6. 37.] #emph[giveth me, shall come to me: and him that cometh to me, I will in no wise cast out:] and a little after, he rendereth this reason, #emph[This is the fathers will, that of all which he hath given me] #footnote[#emph[Vers.] 39.] #emph[I should lose nothing, but should raise it up again at the last day.]
 
@@ -228,23 +223,23 @@ The former point is clearly set forth by a resemblance, which the Apostle maketh
 
 #emph[Answ.] By reason of his office and calling he seemed to be of this body, and till he was made known, none could otherwise judge of him, in which respect Saint #emph[Peter] saith, #emph[he was] #footnote[#emph[Act.] 1. 17.] #emph[numbered with us.]
 
-2. #emph[Answ.] Christ there speaketh in particular of the twelve Apostles, and to be an Apostle of Christ was in it self but an outward calling.
+2\. #emph[Answ.] Christ there speaketh in particular of the twelve Apostles, and to be an Apostle of Christ was in it self but an outward calling.
 
 This is a point of admirable comfort to such as have assurance #footnote[Use.] of their incorporation into Christ, they may rest upon the benefit of this office of Christ, that he is a #emph[Saviour.] We need not think of climbing up to heaven, and searching Gods records to see if our names be written in the book of Life. Let us only make trial whether we be of this body or no. #footnote[How we may know whether we be of Christs body or no.] For our help herein, know we that this metaphor of #emph[a body] implieth two things.
 
-- 1\. A mystical union with Christ.
-- 2\. A spiritual communion with the Saints.
++ A mystical union with Christ.
++ A spiritual communion with the Saints.
 
-- 1\. By virtue of that union they who are of Christs body,
-  - 1\. #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
-  - 2\. #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
-  - 3\. #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
-  - 4\. #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
-- 2\. By reason of their communion with the Saints being fellow members,
-  - 1\. #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
-  - 2\. #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
-  - 3\. #footnote[#emph[Eph.] 4. 16.] They will edify one another.
-  - 4\. #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
++ By virtue of that union they who are of Christs body,
+  + #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
+  + #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
+  + #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
+  + #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
++ By reason of their communion with the Saints being fellow members,
+  + #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
+  + #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
+  + #footnote[#emph[Eph.] 4. 16.] They will edify one another.
+  + #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 
@@ -255,7 +250,7 @@ The former point is not more comfortable to those that have assurance that they 
 === §. 24. #emph[Of the Churches subjection to Christ.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24.]
 

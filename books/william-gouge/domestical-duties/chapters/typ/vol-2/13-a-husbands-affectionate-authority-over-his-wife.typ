@@ -3,7 +3,7 @@
 === §. 1. #emph[Of the General Heads of this Treatise.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25, etc.]
 
@@ -39,15 +39,15 @@ Whosoever therefore taketh a wife, must, in this respect that she is his wife, l
 
 Many good reasons hereof may be rendered. #footnote[No duty well performed without love.]
 
-1. Because no duty on the husbands part can be rightly performed except it be seasoned with love. The Apostle exhorteth all Christians to #emph[do all their things in love:] much more #footnote[1 #emph[Cor.] 16. 14.] ought husbands: though in place they be above their wives, yet love may not be forgotten.
+1\. Because no duty on the husbands part can be rightly performed except it be seasoned with love. The Apostle exhorteth all Christians to #emph[do all their things in love:] much more #footnote[1 #emph[Cor.] 16. 14.] ought husbands: though in place they be above their wives, yet love may not be forgotten.
 
-2. Because of all persons on earth a wife is the most proper #footnote[2\. A wife the most proper object of love. #emph[Deut.] 13. 6.] object of love: nor friend, nor child, nor parent ought so to be loved as a wife: she is termed, #emph[the wife of his bosom,] to show that she ought to be as his heart in his bosom.
+2\. Because of all persons on earth a wife is the most proper #footnote[2\. A wife the most proper object of love. #emph[Deut.] 13. 6.] object of love: nor friend, nor child, nor parent ought so to be loved as a wife: she is termed, #emph[the wife of his bosom,] to show that she ought to be as his heart in his bosom.
 
-3. Because his place of eminency, and power of authority #footnote[3\. Love keeps a man from abusing his authority.] may soon puff him up, and make him insult over his wife, and trample her under his feet, if an entire #emph[love] of her be not planted in his heart. To keep him from abusing his authority is #emph[love] so much pressed upon him.
+3\. Because his place of eminency, and power of authority #footnote[3\. Love keeps a man from abusing his authority.] may soon puff him up, and make him insult over his wife, and trample her under his feet, if an entire #emph[love] of her be not planted in his heart. To keep him from abusing his authority is #emph[love] so much pressed upon him.
 
-4. Because wives through the weakness of their sex (for #footnote[4\. Love maketh him bear with her infirmities. 5. His love draweth love from her.] they are the weaker vessels) are much prone to provoke their husbands. So as if there be not love predominant in the husband, there is like to be but little peace betwixt man and wife. #emph[Love covereth a multitude of imperfections.]
+4\. Because wives through the weakness of their sex (for #footnote[4\. Love maketh him bear with her infirmities. 5. His love draweth love from her.] they are the weaker vessels) are much prone to provoke their husbands. So as if there be not love predominant in the husband, there is like to be but little peace betwixt man and wife. #emph[Love covereth a multitude of imperfections.]
 
-5. Because as Christ by his love first manifested provoketh the Church to love him, so an husband by loving his wife should provoke her to love him again: showing himself like the Sun which is the fountain of light, and from which the Moon receiveth what light she hath: so he should be the fountain of love to his wife.
+5\. Because as Christ by his love first manifested provoketh the Church to love him, so an husband by loving his wife should provoke her to love him again: showing himself like the Sun which is the fountain of light, and from which the Moon receiveth what light she hath: so he should be the fountain of love to his wife.
 
 #emph[Object. Love] was before laid down as a common duty appertaining both to man and wife: how is it then here required as a particular and peculiar duty of an husband?
 
@@ -80,11 +80,11 @@ The honour and authority of God, and of his son Christ #footnote[1\. Gods author
 
 The good of the wife her self is thus also much promoted, #footnote[2\. The wives good promoted thereby.] even as the good of the body is helped forward by the heads abiding in his place; should the head be put under any of the parts of the body, the body and all the parts thereof could not but receive much damage thereby: even so the wife and whole family would feel the damage of the husbands loss of his authority.
 
-#strong[1. #emph[Quest.] Is it in the power of the husband to maintain his own authority?]
+#strong[1\. #emph[Quest.] Is it in the power of the husband to maintain his own authority?]
 
 #emph[Answ.] Yea, in his more then in any others: for note the #footnote[It is in the mans power to maintain his authority. 1 #emph[Tim.] 4. 12.] counsel of the Apostle to #emph[Timothy,] (though in another case, yet very pertinent to this purpose) #emph[Let no man despise thy youth.] It was therefore in #emph[Timothies] power to maintain his honour, and not to suffer it to be despised; and so is it in an husbands power.
 
-#strong[2. #emph[Quest.] How may an husband best maintain his authority?]
+#strong[2\. #emph[Quest.] How may an husband best maintain his authority?]
 
 #emph[Answ.] That direction which the Apostle giveth to #emph[Timothy] #footnote[How a mans authority may be well maintained. #emph[Ad viros pertinet virtute vincere, & exemplo regere foeminas. Aug. de Adult. Coniug. lib.] 2. #emph[cap.] 8.] to maintain his authority, may fitly be applied for this purpose unto an husband; #emph[Be an ensample in conversation, in love, in spirit, in faith, and in pureness:] as if he had said, If thou walk before them worthy of thy place and calling, and worthy of that honour and respect which is due thereunto, showing forth the fruits of love, faith, and other like graces, assuredly they will reverence thy youth; but if otherwise thou carry thy self basely, and not beseeming a minister, thou givest them just occasion to despise thee. Even thus may husbands best maintain their authority by being an ensample in love, gravity, piety, honesty, etc. The fruits of these and other like graces showed forth by husbands before their wives and family, cannot but work a reverend and dutiful respect in their wives and whole house towards them: for by this means they shall more clearly discern the image of God shine forth in their faces.
 
@@ -92,9 +92,9 @@ The good of the wife her self is thus also much promoted, #footnote[2\. The wive
 
 #emph[Answ.] 1. Grant it to be so: yet this may be a good direction for such husbands as have not such wicked wives.
 
-2. This doth not always so fall out, no, nor yet for the most part in those that are wicked; true virtue and integrity doth oft cause admiration in such as love it not.
+2\. This doth not always so fall out, no, nor yet for the most part in those that are wicked; true virtue and integrity doth oft cause admiration in such as love it not.
 
-3. Though some be of so crooked and perverse a disposition as to take occasion of contempt, where none is given, yet shall that husband justify himself before God and man, that carrieth himself worthy of his place.
+3\. Though some be of so crooked and perverse a disposition as to take occasion of contempt, where none is given, yet shall that husband justify himself before God and man, that carrieth himself worthy of his place.
 
 === §. 5. #emph[Of husbands losing their authority.]
 
@@ -130,7 +130,7 @@ For an husbands #emph[opinion] of his wife, two things are to be weighed
 + Her #emph[place.]
 + Her #emph[person.]
 
-1. Her #emph[place] is indeed a place of inferiority, and subjection, yet the nearest to equality that may be: a place of common #footnote[Husbands must account their wives yoke-fellows. 1 #emph[Pet.] 3. 7.] equity in many respects, wherein man and wife are after a sort even fellows, and partners: Hence then it followeth that
+1\. Her #emph[place] is indeed a place of inferiority, and subjection, yet the nearest to equality that may be: a place of common #footnote[Husbands must account their wives yoke-fellows. 1 #emph[Pet.] 3. 7.] equity in many respects, wherein man and wife are after a sort even fellows, and partners: Hence then it followeth that
 
 #emph[The husband must account his wife a yoke-fellow and companion.] This is one point of #emph[giving honour] to the wife: and it is implied under that phrase whereby the #emph[end] of making a wife is noted, #footnote[#emph[Gen.] 2. 18. כנגדו] which in our English is translated, #emph[meet for him,] word for word #emph[as before him] that is, like himself, one in whom he might #footnote[#emph[Eph.] 5. 28. ἑαυτόν.] see himself, or even (to use our Apostles word) #emph[himself.] These phrases imply a kind of fellowship: as also the many prerogatives that are common to both, which have been noted #footnote[Treat. 3. §. 4.] before.
 
@@ -142,11 +142,11 @@ As a wives acknowledgment of her husbands superiority is the ground-work of all 
 
 #emph[Answ.] They are of very mean capacity that cannot see how these may stand together. Is there not a fellowship betwixt superior and inferior magistrates in relation to their subjects? Yea the Scripture mentioneth a fellowship betwixt Christ the head and other Saints in relation to the glory #footnote[#emph[Rom.] 8. 17. συγκληρονόμοι Χριστοῦ.] whereof all are made partakers (for it termeth us #emph[joint heirs with Christ:)] and in relation to Gods people a fellowship betwixt God and his ministers (for it termeth them #emph[labourers together] #footnote[1 #emph[Cor.] 3. 9. Θεοῦ συνεργοί.] #emph[with God)] yet none can deny the Saints, and ministers to be inferior and in subjection to Christ, and God. But distinctly to answer the objection.
 
-1. There may not only be a fellowship, but also an equality in some things betwixt those that in other things are one of them inferior and subject: as betwixt man and wife in the power of one anothers bodies: for #emph[the wife] (as well as the husband) #footnote[#emph[Vxor & serua & domina est viri, Chrysost. in] 1 #emph[Cor.] 7. #emph[hom.] 19.] is therein #emph[both a servant, and a mistress, a servant to yield her body, a mistress to have the power of his.]
+1\. There may not only be a fellowship, but also an equality in some things betwixt those that in other things are one of them inferior and subject: as betwixt man and wife in the power of one anothers bodies: for #emph[the wife] (as well as the husband) #footnote[#emph[Vxor & serua & domina est viri, Chrysost. in] 1 #emph[Cor.] 7. #emph[hom.] 19.] is therein #emph[both a servant, and a mistress, a servant to yield her body, a mistress to have the power of his.]
 
-2. There may be #emph[fellowship] in the very same things wherein is #emph[inferiority:] for #emph[fellowship] hath respect to the thing it self, #emph[inferiority] to the measure, and manner: as in #emph[giving light] the Sun and Moon have a fellowship, but in the measure and manner the Moon is inferior: the Moon hath not so much light as the Sun, and that which it hath it hath from the Sun: and as in #emph[governing,] the king and other magistrates have a fellowship, but in the measure, and manner of government they are inferior to him: Even so is it betwixt man and wife, in many things wherein there is a fellowship, the wife is notwithstanding inferior: so as inferiority may stand with fellowship.
+2\. There may be #emph[fellowship] in the very same things wherein is #emph[inferiority:] for #emph[fellowship] hath respect to the thing it self, #emph[inferiority] to the measure, and manner: as in #emph[giving light] the Sun and Moon have a fellowship, but in the measure and manner the Moon is inferior: the Moon hath not so much light as the Sun, and that which it hath it hath from the Sun: and as in #emph[governing,] the king and other magistrates have a fellowship, but in the measure, and manner of government they are inferior to him: Even so is it betwixt man and wife, in many things wherein there is a fellowship, the wife is notwithstanding inferior: so as inferiority may stand with fellowship.
 
-3. There are no unequals betwixt which there is so near a parity as betwixt man and wife: if therefore there may be a fellowship betwixt any that are superior, and inferior one to another, then much more betwixt man and wife.
+3\. There are no unequals betwixt which there is so near a parity as betwixt man and wife: if therefore there may be a fellowship betwixt any that are superior, and inferior one to another, then much more betwixt man and wife.
 
 #footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, & conspirans beneuolentia. Plut. praec. connub.] As the soul therefore ruleth over the body, by a mutual and loving consent and agreement, so must a man over his wife.
 
@@ -156,7 +156,7 @@ Contrary is the conceit of many who think there is no #footnote[#emph[Non es dom
 
 === §. 9. #emph[Of husbands good esteem of their] #footnote[Treat. 3. §. 5. IIII. Husbands must account their own wives best for them.] #emph[own wives.]
 
-2. For the #emph[person] of a wife, #emph[An husband ought to esteem that particular person to whom by Gods providence he is joined in marriage, to be the fittest, and best for him.] This is implied under that particle of restraint (OWN) noted by the Apostle where he saith #footnote[#emph[Eph.] 5. 25.] #emph[husbands love your] OWN #emph[wives,] and again presseth it under a comparison of the body #emph[(as] #footnote[#emph[Vers.] 28.] #emph[your] OWN #emph[bodies)] Every one thinketh his own body best and fittest for him. A man might happily wish some defects or enormities in his own body to be amended, and desire that his were like an others, more strait, strong, and comely then his own, yet would he not have his head to be upon that other mans body: the same opinion ought a man (that would love his wife) to have of her.
+2\. For the #emph[person] of a wife, #emph[An husband ought to esteem that particular person to whom by Gods providence he is joined in marriage, to be the fittest, and best for him.] This is implied under that particle of restraint (OWN) noted by the Apostle where he saith #footnote[#emph[Eph.] 5. 25.] #emph[husbands love your] OWN #emph[wives,] and again presseth it under a comparison of the body #emph[(as] #footnote[#emph[Vers.] 28.] #emph[your] OWN #emph[bodies)] Every one thinketh his own body best and fittest for him. A man might happily wish some defects or enormities in his own body to be amended, and desire that his were like an others, more strait, strong, and comely then his own, yet would he not have his head to be upon that other mans body: the same opinion ought a man (that would love his wife) to have of her.
 
 Good reason there is for him so to do: for true is the proverb, #footnote[#emph[Reason.] Every ones wife is provided by God.] if it be rightly taken, #emph[marriages are first made in heaven,] that is, God hath an over-ruling hand in ordering them: which #footnote[#emph[Pro.] 19. 14.] #emph[Solomon] implieth by that opposition which he maketh betwixt wealth and a wife: #emph[that] is from our fathers, #emph[this] from the Lord: in which respect he saith, #footnote[#emph[&] 18. 22.] #emph[he which findeth a wife receiveth favour of the Lord.] If therefore thou art loved of God, and lovest him, he will make thy wife prove a good thing to thee.
 
@@ -164,7 +164,7 @@ Good reason there is for him so to do: for true is the proverb, #footnote[#emph[
 
 #emph[Answ.] 1. It may be she was good enough when first she was brought to thee, but thou by thine evil example, or negligent government, or hard usage, hast made her so bad as she is. Which if it be so, then is she to be considered not as thou hast marr'd her, but as thou didst marry her.
 
-2. Though she be not in relation to other wives the best in condition, yet in relation to thee she may be the best in event: if not for thine ease and quiet, yet for trial of thy wisdom and patience: and so as #footnote[#emph[Socrates interrogatus qua gratia vxoris mores toleraret, respondit, vt gymnasium & palaestram philosophiae domi habeam. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] a school of virtue she may be unto thee. As #footnote[#emph[Ars tua Tiphy jacet si non sit in aequore fluctus Ovid. de Trist. l.] 4. #emph[eleg.] 3.] a skilful pilots sufficiency is tried and known by tempestuous seas, so a mans wisdom by a troublesome wife. Yea she may be given thee as a punishment of some former sins, as seeking after a beautiful, honourable, rich, proper wife, rather then a religious and honest one: or seeking her without any direction or help first sought of God, or otherwise then thou hast warrant from God, as by stealth, and without parents consent; or some other sins in another kind, to bring thee to repentance: or as a means to restrain and wean thee from some future sins whereunto thou art subject, and so prove a blessed cross to keep thee from a fearful curse.
+2\. Though she be not in relation to other wives the best in condition, yet in relation to thee she may be the best in event: if not for thine ease and quiet, yet for trial of thy wisdom and patience: and so as #footnote[#emph[Socrates interrogatus qua gratia vxoris mores toleraret, respondit, vt gymnasium & palaestram philosophiae domi habeam. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] a school of virtue she may be unto thee. As #footnote[#emph[Ars tua Tiphy jacet si non sit in aequore fluctus Ovid. de Trist. l.] 4. #emph[eleg.] 3.] a skilful pilots sufficiency is tried and known by tempestuous seas, so a mans wisdom by a troublesome wife. Yea she may be given thee as a punishment of some former sins, as seeking after a beautiful, honourable, rich, proper wife, rather then a religious and honest one: or seeking her without any direction or help first sought of God, or otherwise then thou hast warrant from God, as by stealth, and without parents consent; or some other sins in another kind, to bring thee to repentance: or as a means to restrain and wean thee from some future sins whereunto thou art subject, and so prove a blessed cross to keep thee from a fearful curse.
 
 === §. 10. #emph[Of husbands preposterous opinion of their own wives.]
 

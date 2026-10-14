@@ -16,21 +16,21 @@ All these are to account their children in law (that is, the #footnote[Parents i
 
 For a pattern hereof take the forenamed examples of #emph[Joseph] and #emph[Naomi.] What natural parents could do more for their own children then #emph[Joseph] did for #emph[Jesus,] and #emph[Naomi] for #emph[Ruth?] The history noteth how #emph[Joseph] took care to have his wives child #footnote[#emph[Luk.] 2. 21, 22.] circumcised, and presented in the temple: how he #footnote[#emph[Mat.] 2. 14.] fled from place to place to preserve the childs life: how #footnote[#emph[Luk.] 2. 48.] perplexed he was when he thought the child was lost: how he #footnote[#emph[Vers.] 51.] trained him up in his own house. The history also noteth how #footnote[#emph[Ruth] 1. 22.] #emph[Naomi] brought #emph[Ruth] her sons wife into her own country, and retained her with her self, and #footnote[#emph[&] 2. 22.] directed her whither to go, and #footnote[#emph[&] 3. 1.] what husband to have, and #footnote[#emph[&] 4. 16.] became a nurse to her child.
 
-1. Marriage maketh man and wife one flesh: in which respect #footnote[Reasons.] they ought to have one mind, and the same affections, as mutually each to other, so jointly to the children of each other. On which ground also the husband and wife of a child, being one flesh with the child, ought as the child to be respected. On this ground God counteth the Saints his #footnote[#emph[Eph.] 5. 1. τέκνα ἀγαπητά.] #emph[dear children,] because they are #footnote[2 #emph[Cor.] 11. 2.] espoused to his natural son.
+1\. Marriage maketh man and wife one flesh: in which respect #footnote[Reasons.] they ought to have one mind, and the same affections, as mutually each to other, so jointly to the children of each other. On which ground also the husband and wife of a child, being one flesh with the child, ought as the child to be respected. On this ground God counteth the Saints his #footnote[#emph[Eph.] 5. 1. τέκνα ἀγαπητά.] #emph[dear children,] because they are #footnote[2 #emph[Cor.] 11. 2.] espoused to his natural son.
 
-2. To respect the children of an husband or wife as their own, is a great evidence of entire love to the husband and wife. And to respect the husband and wife of a child is a great evidence of love to the child it self. If the worlds proverb hold true #emph[(love me and love my dog)] how much more true is this Christian rule, #emph[love me and love my child:] or #emph[love me and love mine husband:] or #emph[love me and love my wife.]
+2\. To respect the children of an husband or wife as their own, is a great evidence of entire love to the husband and wife. And to respect the husband and wife of a child is a great evidence of love to the child it self. If the worlds proverb hold true #emph[(love me and love my dog)] how much more true is this Christian rule, #emph[love me and love my child:] or #emph[love me and love mine husband:] or #emph[love me and love my wife.]
 
-3. This also is an especial means to kindle and preserve mutual love betwixt man and wife, who have children of former husbands and wives: as also betwixt parents and children.
+3\. This also is an especial means to kindle and preserve mutual love betwixt man and wife, who have children of former husbands and wives: as also betwixt parents and children.
 
 === §. 72. #emph[Of the perverse carriage of fathers and mothers in law to their children.]
 
 Contrary is the carriage of most fathers and mothers in law: especially of those who are married to husbands or to wives that had children before marriage: so far they are from performing the forenamed duty, as rather they envy at the prosperity of their husbands and wives children: and secretly endeavour to hinder it in what they can: and cunningly seek to alienate the natural parents affection from them: whence #footnote[Senecae Hippolytus.] fearful tragedies have been made, and lamentable mischiefs have followed. What other reason can be given hereof #footnote[#emph[Ovid. Metamorph. l.] 15. #emph[fab.] 45.] but a plain instigation of the devil, who thus laboureth to disunite those whom God hath joined together? For avoiding this snare note the mischiefs that follow from thence.
 
-1. Such parents sin against Gods ordinance: and as #emph[Eve,] lean more to Satans suggestion then to Gods direction.
+1\. Such parents sin against Gods ordinance: and as #emph[Eve,] lean more to Satans suggestion then to Gods direction.
 
-2. They alienate the hearts and affections of one from another: not only from their children, but from themselves.
+2\. They alienate the hearts and affections of one from another: not only from their children, but from themselves.
 
-3. They provoke their children in law to contemn and despise them, and to yield no duty unto them.
+3\. They provoke their children in law to contemn and despise them, and to yield no duty unto them.
 
 Hence note into what an hell unkind fathers and mothers in law do cast themselves. If this were duly weighed, I think they would be otherwise minded. But the god of this world doth so blind their eyes with self-love, and with envy, that they cannot see the mischiefs whereinto they implunge themselves.
 
@@ -40,13 +40,13 @@ This is a point the more to be weighed, because the fault here taxed is so commo
 
 Many parents to the husbands and wives of their children do also much transgress and swerve from their duty: for
 
-1. They will show much more respect to their own children then to the children of their husbands or wives: as by coming to their daughters when their husbands are abroad, and never but then: and sending for their sons to their house, but not for their wives.
+1\. They will show much more respect to their own children then to the children of their husbands or wives: as by coming to their daughters when their husbands are abroad, and never but then: and sending for their sons to their house, but not for their wives.
 
-2. In all differences they will take part with their own children, though it be in the worse part, and show great partiality.
+2\. In all differences they will take part with their own children, though it be in the worse part, and show great partiality.
 
-3. They will oft give very ill counsel: advising their sons to keep their wives short: advising their daughters not to be too subject to their husbands, yea privily to purloin from their husbands.
+3\. They will oft give very ill counsel: advising their sons to keep their wives short: advising their daughters not to be too subject to their husbands, yea privily to purloin from their husbands.
 
-4. If they live with their children, they will so pry into every thing that their childrens husband or wife doth, and show such suspicion and jealousy in every thing, as they cannot but cause much discord: and hence it oft cometh to pass, that either parent and child, or husband and wife must be parted: they cannot all in peace live together.
+4\. If they live with their children, they will so pry into every thing that their childrens husband or wife doth, and show such suspicion and jealousy in every thing, as they cannot but cause much discord: and hence it oft cometh to pass, that either parent and child, or husband and wife must be parted: they cannot all in peace live together.
 
 These faults I thus note, that they may the more carefully be avoided.
 
@@ -91,11 +91,11 @@ It is noted of #emph[John,] who had the mother of Jesus commended #footnote[#emp
 
 Contrary is the practise of most Guardians, who take Pupils #footnote[#emph[Tutela ad vtilitatem eorum qui commissi sunt, non ad eorum quibus commissa, gerenda est. Cic. Offic. l.] 1.] for their own advantage, and make a prey of them. The heathen could say, that Guardianship is to be performed for the benefit of the Pupil, and not of the Guardian. Yet among Christians is the forenamed fault of Guardians.
 
-1. There are few children (that have not natural parents to look to their good education) but are exceedingly neglected therein, and brought up very rudely and licentiously: yea many times too sparingly and niggardly for diet, apparel, and other needful things, though they have sufficient to discharge all that shall be laid out upon them.
+1\. There are few children (that have not natural parents to look to their good education) but are exceedingly neglected therein, and brought up very rudely and licentiously: yea many times too sparingly and niggardly for diet, apparel, and other needful things, though they have sufficient to discharge all that shall be laid out upon them.
 
-2. The main estate & patrimony of many Pupils is much impaired: and if they have lands, as much waste is made upon them as possibly can be: and when a reckoning is to be given, it shall be a large, unjust, and most unconscionable reckoning: if the Guardian can but get a general release, it is all that he careth for.
+2\. The main estate & patrimony of many Pupils is much impaired: and if they have lands, as much waste is made upon them as possibly can be: and when a reckoning is to be given, it shall be a large, unjust, and most unconscionable reckoning: if the Guardian can but get a general release, it is all that he careth for.
 
-3. Marriages are after a sort forced upon many Pupils: and such matches put upon them as they cannot like; yea such as are no way fit for them, neither for estate, nor years, nor proportion of body, nor qualities of mind.
+3\. Marriages are after a sort forced upon many Pupils: and such matches put upon them as they cannot like; yea such as are no way fit for them, neither for estate, nor years, nor proportion of body, nor qualities of mind.
 
 Little do these Guardians think of that account whereunto they shall be brought another day before the Lord, who styleth himself the #footnote[#emph[Psal.] 10. 14.] #emph[helper of the fatherless,] and who #emph[beholdeth mischief to requite it.] Fearful is that judgment which the Lord hath #footnote[#emph[Exo.] 22. 22, #emph[etc.]] threatened against those that oppress the fatherless. Let not therefore unjust Guardians think, that the gain they get wrongfully from their Pupils shall prosper: but rather let them look for Gods curse upon their own children, and goods.
 
@@ -129,13 +129,13 @@ Tutors, to whose government young scholars, that are sent to the Universities, a
 
 The vices contrary to the forenamed duty of Schoolmasters, are these.
 
-1. #emph[Unskilfulness.] Many that are more fit to be taught then to teach, take upon them this weighty calling. Some have not sufficient learning: some again are rude, and know not themselves good manners: and some know not the first principles of the oracles of God. No good can be expected from these.
+1\. #emph[Unskilfulness.] Many that are more fit to be taught then to teach, take upon them this weighty calling. Some have not sufficient learning: some again are rude, and know not themselves good manners: and some know not the first principles of the oracles of God. No good can be expected from these.
 
-2. #emph[Covetousness.] All that many seek, is to multiply the number of their scholars, and to get as much as they can for boarding, and teaching: they aim more at their own gain then at their scholars profit. Children are not like to thrive well under them.
+2\. #emph[Covetousness.] All that many seek, is to multiply the number of their scholars, and to get as much as they can for boarding, and teaching: they aim more at their own gain then at their scholars profit. Children are not like to thrive well under them.
 
-3. #emph[Negligence.] Many are loth to take the pains of a Schoolmaster, and thereupon come as little into the school as they can: take every small occasion to be gone again: care not how much their children play: if they be able to hire a poor Usher, all the burden shall be cast upon him. Little is that fruit that can be looked for from them.
+3\. #emph[Negligence.] Many are loth to take the pains of a Schoolmaster, and thereupon come as little into the school as they can: take every small occasion to be gone again: care not how much their children play: if they be able to hire a poor Usher, all the burden shall be cast upon him. Little is that fruit that can be looked for from them.
 
-4. #emph[Want of piety.] Many skilful and painful Schoolmasters, under whose teaching children come forward exceeding well in learning, think it nothing appertaineth to them to teach the grounds of religion, so as they altogether neglect piety. Assuredly they want it themselves: for were their own hearts seasoned with true piety, their consciences would move them to teach it to their children. The things of the kingdom of God are like unto #emph[leaven,] which seasoneth the whole batch of dough with that season and savour which it self hath. When children spend almost all their time with their Schoolmasters, of whom should they learn it, if not of them? What blessing can be hoped from the pains of such Schoolmasters?
+4\. #emph[Want of piety.] Many skilful and painful Schoolmasters, under whose teaching children come forward exceeding well in learning, think it nothing appertaineth to them to teach the grounds of religion, so as they altogether neglect piety. Assuredly they want it themselves: for were their own hearts seasoned with true piety, their consciences would move them to teach it to their children. The things of the kingdom of God are like unto #emph[leaven,] which seasoneth the whole batch of dough with that season and savour which it self hath. When children spend almost all their time with their Schoolmasters, of whom should they learn it, if not of them? What blessing can be hoped from the pains of such Schoolmasters?
 
 I might to these add the over-much remissness of some (whereby children get too great an head) and the too great severity of others, either in frequency of correcting, as if they delighted therein; or in the measure thereof, as if they had to do with beasts, whereby they affright children, make them dull, yea and impudent also. But these extremes were #footnote[§. 48, 49.] before handled.
 

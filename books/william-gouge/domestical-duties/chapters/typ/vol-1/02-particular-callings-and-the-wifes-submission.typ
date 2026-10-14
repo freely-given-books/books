@@ -3,7 +3,7 @@
 === §. 7. #emph[Of performing the duties of particular callings.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 22.]
 
@@ -104,7 +104,7 @@ Having hitherto handled the forenamed general instructions, I will proceed to a 
 === §. 12. #emph[Of wives subjection.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 22.]
 
@@ -116,9 +116,9 @@ Having hitherto handled the forenamed general instructions, I will proceed to a 
 
 The #footnote[ὑποτάσσεσθε.] word by which the Apostle hath noted out the duties of wives, is of the middle voice, and may be translated passively as #footnote[Subditae sint. Hieron. Vet. Trans. Erasm.] many have done, or #footnote[Subijcite vos. Beza.] actively as our English doth #emph[(submit your selves)] and that most fitly: for there is a double subjection.
 
-1. A #emph[necessary] subjection: which is the subjection of #emph[order.]
+1\. A #emph[necessary] subjection: which is the subjection of #emph[order.]
 
-2. A #emph[Voluntary] subjection: which is the subjection of #emph[duty.] The necessary subjection is that degree of inferiority, wherein God hath placed all inferiors, and whereby he hath subjected them to their superiors, that is, set them in a lower rank. By virtue thereof, though inferiors seek to exalt themselves above their superiors, yet are they subject unto them, their ambition doth not take away that order which God hath established. A wife is in an inferior degree, though she domineer never so much over her husband.
+2\. A #emph[Voluntary] subjection: which is the subjection of #emph[duty.] The necessary subjection is that degree of inferiority, wherein God hath placed all inferiors, and whereby he hath subjected them to their superiors, that is, set them in a lower rank. By virtue thereof, though inferiors seek to exalt themselves above their superiors, yet are they subject unto them, their ambition doth not take away that order which God hath established. A wife is in an inferior degree, though she domineer never so much over her husband.
 
 The #emph[Voluntary] subjection, is that dutiful respect which inferiors carry towards those whom God hath set over them: whereby they manifest a willingness to yield to that order which God hath established. Because God hath placed them under their superiors, they will in all duty manifest that subjection which their place requireth.
 

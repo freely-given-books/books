@@ -3,7 +3,7 @@
 === §. 115. #emph[Of the connection of Parents duty with Childrens.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 4.]
 

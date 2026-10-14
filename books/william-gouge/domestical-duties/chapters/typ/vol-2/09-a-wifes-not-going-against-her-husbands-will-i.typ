@@ -25,11 +25,11 @@ First, in abstaining from doing things against her husbands mind.
 
 Secondly, in doing what her husband requireth. The former of these requireth that a wife have her husbands consent for the things which she doth. For the better clearing whereof we are to consider,
 
-1. What kind of husbands they must be whose consent is required.
+1\. What kind of husbands they must be whose consent is required.
 
-2. How many ways his consent may be given.
+2\. How many ways his consent may be given.
 
-3. What are the things whereabout his consent is to be expected.
+3\. What are the things whereabout his consent is to be expected.
 
 For the first, as on the one side it oft falleth out that a wise, #footnote[In two cases a wife hath power to order things of her self, without her husbands consent.] provident, and religious man is married to a foolish woman, a very idiot, that hath no understanding, of whom there can be no question, but that such a wife is to do nothing of her self, and of her own head, but altogether to be ordered by her husband: So on the other side, it oft falleth out that a wise, virtuous, and gracious woman, is married to an husband destitute #footnote[1\. In case of her husbands impotency.] of understanding, to a very natural (as we say) or a frenzy man, or to one made very blockish, and stupid, unfit to manage his affairs through some distemper, wound, or sickness. In such a case the whole government lieth upon the wife, so as her husbands consent is not to be expected.
 
@@ -71,7 +71,7 @@ Before I determine the question, I think it needful to declare, 1. What goods, 2
 
 === §. 21. #emph[Of the things which a wife may dispose without her husbands consent.]
 
-1. For the goods, some are proper and peculiar to the wife: #footnote[#emph[Quaedam bona sunt propria uxoris, vt sunt bona paraphernalia. Greg. Sayr. Clau. reg. l.] 9. #emph[c.] 16.] others are common. Goods proper to the wife are such as before marriage she her self, or her friends except from the husband to her sole and proper use and disposing, whereunto he also yieldeth: or such as after marriage he giveth unto her to dispose as she please: suppose it be some rent, annuity, fees, veils, or the like.
+1\. For the goods, some are proper and peculiar to the wife: #footnote[#emph[Quaedam bona sunt propria uxoris, vt sunt bona paraphernalia. Greg. Sayr. Clau. reg. l.] 9. #emph[c.] 16.] others are common. Goods proper to the wife are such as before marriage she her self, or her friends except from the husband to her sole and proper use and disposing, whereunto he also yieldeth: or such as after marriage he giveth unto her to dispose as she please: suppose it be some rent, annuity, fees, veils, or the like.
 
 These kinds of goods are exempted out of the question #footnote[Παράφερνα #emph[bona apud iurisconsultos, dicuntur] τὰ ἐξώπροικα #emph[(i.) quae sponsa praeter dotem à parentibus pactam secum fert: vel (vt Sayrus loc. citat.) habet legata ei, seu donata.]] in hand; the wife hath liberty to dispose them as she please without any further consent then she had by virtue of her husbands former grant.
 
@@ -119,9 +119,9 @@ As another reason may be alleged the Shunammites pattern who asked her husbands 
 
 #emph[Answ.] This example being grounded upon a law (as we showed #footnote[§. 23.] before) it doth not only declare what may be done, but also what ought to be done. And if a wife be bound to have her husbands consent for doing of a thing, by consequence it followeth that she is bound from doing it, without her husbands consent.
 
-2. #emph[Answ.] They that except against this reason taken from example, use themselves the like reason in other points, as the examples of #emph[Abigail, Joanna,] and #emph[Susanna] for the contrary.
+2\. #emph[Answ.] They that except against this reason taken from example, use themselves the like reason in other points, as the examples of #emph[Abigail, Joanna,] and #emph[Susanna] for the contrary.
 
-2. #emph[Object.] In the Shunammites example there was more then a merciful relief of the Prophet, namely bringing him into the house to diet and to lodge, wherein the husband must have a chief stroke.
+2\. #emph[Object.] In the Shunammites example there was more then a merciful relief of the Prophet, namely bringing him into the house to diet and to lodge, wherein the husband must have a chief stroke.
 
 #emph[Answ.] The word of God maketh not that difference betwixt relieving and entertaining: it extendeth a wives subjection to #emph[every thing:] wherefore the husband hath a chief stroke as well in the one, as in the other.
 
@@ -133,7 +133,7 @@ A third reason is taken from the law of a wives vow: whereby #footnote[#emph[Num
 
 #emph[Answ.] The Scripture by particular Laws and examples teacheth directions for other cases like to them: and arguments drawn by just and necessary consequence, are counted as sound as express testimonies. Whereas it is said, that this particular in question is not expressly decided, I take the reason thereof to be this, that in former times they so well marked the extent of the general law of a wives subjection, as they made no question of doing this or other like things without their husbands consent. Neither did good wives take that liberty, neither had they any patrons of such liberty.
 
-2. #emph[Object.] The case of a wives disposing goods is unlike to that of vows, because vows are voluntary, but disposing goods, as a work of mercy, is necessary.
+2\. #emph[Object.] The case of a wives disposing goods is unlike to that of vows, because vows are voluntary, but disposing goods, as a work of mercy, is necessary.
 
 #emph[Answ.] Though it were a voluntary thing to make, or not to make a vow: yet a vow being made, it was not in the power of the party that made it, not to perform it: it was a #footnote[#emph[Num.] 30. 3. #emph[Deut.] 23. 21. #emph[Eccles.] 5. 4.] necessary duty to perform a vow, even expressly commanded. As for the pretended work of mercy, I will #footnote[§. 34.] hereafter show, that a wife is not necessarily tied thereunto.
 
@@ -147,19 +147,19 @@ Now our Law saith, that #footnote[45\. #emph[E.] 3. #emph[Fitz. Coven.] 18.] eve
 
 A fifth reason may be taken from the mischiefs which would #footnote[1\. A mans estate may be wasted before he can tell how to redress it.] fall out if this liberty were given unto women: which are these that follow:
 
-1. The estate of the family might be wasted before any redress could be thought of: for if the wife may dispose the goods without her husbands consent, it must also be granted without his knowledge: for it is to be supposed that if he knew of the disposing of that which he liketh not, he would hinder it: if without his knowledge, then may that which he thinketh to be remaining as a stock for the family, be laid out by the wife, and nothing left: whereas if he knew of the spending of that stock, it might be he would be more thrifty and sparing in other expenses.
+1\. The estate of the family might be wasted before any redress could be thought of: for if the wife may dispose the goods without her husbands consent, it must also be granted without his knowledge: for it is to be supposed that if he knew of the disposing of that which he liketh not, he would hinder it: if without his knowledge, then may that which he thinketh to be remaining as a stock for the family, be laid out by the wife, and nothing left: whereas if he knew of the spending of that stock, it might be he would be more thrifty and sparing in other expenses.
 
 #strong[#emph[Object.] This liberty is not granted to wives beyond their husbands ability.]
 
 #emph[Answ.] Wives cannot always know their husbands ability: for their husbands may be much indebted, and yet to maintain his credit, whereby he hopeth to raise his estate, may allow liberal maintenance for his house, if thereupon his wife shall gather that he is very rich, and accordingly be very bountiful in her gifts, she may soon go beyond his ability, and so increase his debt, as he shall never be able to recover himself.
 
-2. Persons of contrary religions and dispositions being #footnote[2\. Professors of contrary religions may be sustained by the goods of the same family.] out of the family, might be maintained by the goods of the same family: for if the husband were of one religion, and the wife of another, he without her knowledge might maintain those of his religion, and she without his knowledge might maintain them of her religion.
+2\. Persons of contrary religions and dispositions being #footnote[2\. Professors of contrary religions may be sustained by the goods of the same family.] out of the family, might be maintained by the goods of the same family: for if the husband were of one religion, and the wife of another, he without her knowledge might maintain those of his religion, and she without his knowledge might maintain them of her religion.
 
 #strong[#emph[Object.] This liberty of disposing goods given to the wife is limited within the bounds of the household of faith.]
 
 #emph[Answ.] If Divines grant them this liberty, they will themselves judge and determine who be of the household of faith: Popish wives will say (say we what we can to the contrary) that Jesuits, Priests, and Friars, are of the household of faith, principal members thereof.
 
-3. Many jars and contentions would thence arise betwixt #footnote[3\. Jars would arise betwixt man and wife.] husband and wife: for if a wife shall persist to do that which her husband will not consent unto, assuredly one of a thousand will not well brook it, but will rather seek all the ways he can to cross her; thinking himself despised, if she, whether he will or no, have her mind.
+3\. Many jars and contentions would thence arise betwixt #footnote[3\. Jars would arise betwixt man and wife.] husband and wife: for if a wife shall persist to do that which her husband will not consent unto, assuredly one of a thousand will not well brook it, but will rather seek all the ways he can to cross her; thinking himself despised, if she, whether he will or no, have her mind.
 
 #strong[#emph[Object.] Wives must use this liberty with all due respect unto their husbands authority.]
 
@@ -171,7 +171,7 @@ Many other inconveniences might be reckoned up, but I will not longer insist on 
 
 To justify a wives liberty in disposing the common goods #footnote[#emph[Licet vxor proprietatem habeat, administrationem tamen, & vsumfructum bonorum viuente marito non habet. Greg. Sayr. clau. reg. lib.] 9. #emph[cap.] 16.] of the family without her husbands consent, it is said, that she hath a true right and property in those goods.
 
-1. #emph[Answ.] Though it were granted that a wife hath a true property in the goods, yet this conclusion would not follow thereupon, that she hath power of her self to dispose the goods without her husbands consent: for the authority which God hath given an husband, and subjection which he hath laid on a wife, restrain her power and liberty in that which is her own: as for example, suppose #footnote[See #emph[Doctr. & stud. fol.] 13.] that a woman at the time of her marriage have a lease for years, or the wardship of the body and lands of an infant, or have it by gift or #footnote[#emph[Perk. plito.] 560. 26. #emph[H.] 8. 7. #emph[p.] 1. #emph[Plowd. comment.] 418. #emph[b.]] purchase after marriage, she cannot give it away whatsoever the extremity be: but her husband may any time during coverture, dispose of it: and such his disposition shall cut off the wives interest. Or suppose that the only child of her father be an inheritrix of land, and have in her self (her father being dead) the full possession thereof: or that a widow have the right unto, and possession of her husbands estate, and thus possessed be married to an husband, hath she being a wife liberty to dispose that estate which she brought with her #emph[without] or #emph[against her husbands consent?] I think none will say it. Sure I am that what she giveth, lendeth, selleth, or otherwise disposeth without his consent, he if he will, may for his lifetime recover again: and yet no man will deny but that she hath the truest interest and property in the forenamed lands and inheritance.
+1\. #emph[Answ.] Though it were granted that a wife hath a true property in the goods, yet this conclusion would not follow thereupon, that she hath power of her self to dispose the goods without her husbands consent: for the authority which God hath given an husband, and subjection which he hath laid on a wife, restrain her power and liberty in that which is her own: as for example, suppose #footnote[See #emph[Doctr. & stud. fol.] 13.] that a woman at the time of her marriage have a lease for years, or the wardship of the body and lands of an infant, or have it by gift or #footnote[#emph[Perk. plito.] 560. 26. #emph[H.] 8. 7. #emph[p.] 1. #emph[Plowd. comment.] 418. #emph[b.]] purchase after marriage, she cannot give it away whatsoever the extremity be: but her husband may any time during coverture, dispose of it: and such his disposition shall cut off the wives interest. Or suppose that the only child of her father be an inheritrix of land, and have in her self (her father being dead) the full possession thereof: or that a widow have the right unto, and possession of her husbands estate, and thus possessed be married to an husband, hath she being a wife liberty to dispose that estate which she brought with her #emph[without] or #emph[against her husbands consent?] I think none will say it. Sure I am that what she giveth, lendeth, selleth, or otherwise disposeth without his consent, he if he will, may for his lifetime recover again: and yet no man will deny but that she hath the truest interest and property in the forenamed lands and inheritance.
 
 #emph[Object.] May she not as well dispose of her own inheritance, as of those goods, or revenues which her husband giveth her?
 
@@ -179,7 +179,7 @@ To justify a wives liberty in disposing the common goods #footnote[#emph[Licet v
 
 === §. 29. #emph[Of the reasons against a wives property in the common goods of the family.]
 
-2. #emph[Answ.] It may safely be denied that a wife hath a property in the common goods of the family whereof she is no heir, for property in goods is a civil matter, and to be limited according to the law of man under which we live. Where the law, or custom of the place, make all the children coheirs, all have an equal right to their several parts: where the eldest only is made heir, he hath a right to all: where the youngest only is made heir, he hath a right to all: but neither the law of nations, nor of the land where we live give the wife a property. #footnote[12\. #emph[H.] 7. 22. #emph[Coke rep.] 5. #emph[fo.] 36. 28. #emph[H.] 6. #emph[Dier fol.] 6. #emph[plito.] 5 #emph[Doct. & stud. fo.] 13. #emph[Plowd. Comment. Bracebriges] Case.] By the common law marriage is a gift of all the goods and chattels personal of the wife to her husband, so that no kind of property in the same remaineth in her. #footnote[4\. #emph[H.] 6. 31.] And all personal goods and chattels during marriage given to the wife are presently #emph[ipso facto] transferred (as to the property of them) to the husband. So that by our law she is so far from gaining any property by her marriage in her husbands goods, as she loseth all the property she formerly had in her own goods. Yea #footnote[18\. #emph[E.] 4. 11. #emph[p.] 4.] her necessary apparel is not hers in property. While she remaineth a wife she is (to use the law-phrase) #emph[under covert baron.] #footnote[See §. 26.] She can neither let, sell, alien, give, nor otherwise of right make any thing away, no nor yet make a will so to dispose any goods while her husband liveth without his consent: which yet an husband may while his wife liveth, and that without or against her consent.
+2\. #emph[Answ.] It may safely be denied that a wife hath a property in the common goods of the family whereof she is no heir, for property in goods is a civil matter, and to be limited according to the law of man under which we live. Where the law, or custom of the place, make all the children coheirs, all have an equal right to their several parts: where the eldest only is made heir, he hath a right to all: where the youngest only is made heir, he hath a right to all: but neither the law of nations, nor of the land where we live give the wife a property. #footnote[12\. #emph[H.] 7. 22. #emph[Coke rep.] 5. #emph[fo.] 36. 28. #emph[H.] 6. #emph[Dier fol.] 6. #emph[plito.] 5 #emph[Doct. & stud. fo.] 13. #emph[Plowd. Comment. Bracebriges] Case.] By the common law marriage is a gift of all the goods and chattels personal of the wife to her husband, so that no kind of property in the same remaineth in her. #footnote[4\. #emph[H.] 6. 31.] And all personal goods and chattels during marriage given to the wife are presently #emph[ipso facto] transferred (as to the property of them) to the husband. So that by our law she is so far from gaining any property by her marriage in her husbands goods, as she loseth all the property she formerly had in her own goods. Yea #footnote[18\. #emph[E.] 4. 11. #emph[p.] 4.] her necessary apparel is not hers in property. While she remaineth a wife she is (to use the law-phrase) #emph[under covert baron.] #footnote[See §. 26.] She can neither let, sell, alien, give, nor otherwise of right make any thing away, no nor yet make a will so to dispose any goods while her husband liveth without his consent: which yet an husband may while his wife liveth, and that without or against her consent.
 
 #emph[Object.] The law states a wife in a great part of the husbands goods, providing for her jointure or thirds which the husband cannot make away without her consent.
 
@@ -199,19 +199,19 @@ For (to omit the proofs before alleged) what might be the reason that the daught
 
 To prove a wives property in the common goods of the family the reasons following are alleged.
 
-#strong[1. #emph[Object.] Marriage giving a wife right of her husbands body, #footnote[1 #emph[Cor.] 7. 4.] doth much more of his goods.]
+#strong[1\. #emph[Object.] Marriage giving a wife right of her husbands body, #footnote[1 #emph[Cor.] 7. 4.] doth much more of his goods.]
 
 #emph[Answ.] I deny the consequence. For the use of the body is a proper act of the matrimonial bond, wherein the difference betwixt superiority and subjection appeareth not: the wife hath as great a power over the husbands body as the husband over the wives: which is not so in the goods: no one thing can be named, wherein the power and authority of the husband more consisteth, then in the goods.
 
-#strong[2. #emph[Object.] In the form of marriage the man saith to his wife, #emph[with all my worldly goods I thee endow.]]
+#strong[2\. #emph[Object.] In the form of marriage the man saith to his wife, #emph[with all my worldly goods I thee endow.]]
 
 #emph[Answ.] 1. Those words are to be taken of the use of his goods, and not of a property in them.
 
-2. If an husband shall intend a property by them, that property which she hath thereby, she hath not by virtue of the general law of marriage, but of his particular free donation.
+2\. If an husband shall intend a property by them, that property which she hath thereby, she hath not by virtue of the general law of marriage, but of his particular free donation.
 
-3. In all countries those words are not used in the form of marriage. If those words give the wife her property, then such wives as are married without those words used, have no property: so as this cannot be a general ground of liberty for all wives.
+3\. In all countries those words are not used in the form of marriage. If those words give the wife her property, then such wives as are married without those words used, have no property: so as this cannot be a general ground of liberty for all wives.
 
-3. #emph[Object.] A wife hath as good an estate in her husbands goods as the Church in Christs blood: but there the Church hath a property.
+3\. #emph[Object.] A wife hath as good an estate in her husbands goods as the Church in Christs blood: but there the Church hath a property.
 
 #emph[Answ.] Neither of those points can be proved. But if a wives right in her husbands goods be as the Churches in Christs blood, what is gotten thereby? The Church hath not power without or against Christs consent to dispose his blood: The Church of Rome is counted a proud usurping strumpet for taking upon her so to do.
 
@@ -221,28 +221,28 @@ To prove a wives property in the common goods of the family the reasons followin
 
 I answer, #emph[Much every manner of way.]
 
-1. #footnote[Treat. 4. §. 52. 54.] There is due to her a more free and plentiful use of all the goods, then unto them.
+1\. #footnote[Treat. 4. §. 52. 54.] There is due to her a more free and plentiful use of all the goods, then unto them.
 
-2. By her place she hath the ordering and disposing of the goods allotted for the common use of the family: as was #footnote[§. 21.] before granted.
+2\. By her place she hath the ordering and disposing of the goods allotted for the common use of the family: as was #footnote[§. 21.] before granted.
 
-3. Her husband ought to give her a portion to dispose as she shall see good, #footnote[Treat. 4. §. 54.] as we shall after show, when we come to the husbands duties.
+3\. Her husband ought to give her a portion to dispose as she shall see good, #footnote[Treat. 4. §. 54.] as we shall after show, when we come to the husbands duties.
 
-4. She is a joint governor with her husband over the children and servants, as was showed #footnote[§. 4.] before.
+4\. She is a joint governor with her husband over the children and servants, as was showed #footnote[§. 4.] before.
 
 Again I answer, that this argument might as well be alleged against that fear, subjection, and obedience which the Scripture expressly requireth of wives, and it might be demanded, if wives must fear and obey their husbands and be subject unto them, where is their preferment above their children and servants. But #footnote[§. 11.] it hath been showed that though the same things for matter be required of wives which are required of children and servants, yet there is a great difference in the manner of performing them.
 
 === §. 32. #emph[Of examples and other reasons alleged for liberty of wives to dispose goods.]
 
-2. #emph[Abigails] example is alleged for a wives liberty: and #footnote[2\. #emph[Reason. Examples.] 1 #emph[Sam.] 25. 18. #emph[etc. Pro.] 31. 11, #emph[etc.]] the example of the good house wife described by #emph[Solomon.]
+2\. #emph[Abigails] example is alleged for a wives liberty: and #footnote[2\. #emph[Reason. Examples.] 1 #emph[Sam.] 25. 18. #emph[etc. Pro.] 31. 11, #emph[etc.]] the example of the good house wife described by #emph[Solomon.]
 
 #emph[Answ.] 1. #emph[Abigails] example was extraordinary; besides, who can tell whether the heart of her husband so trusted not in her as he referred the whole government of the house to her, and so she had a general consent for what she did.
 
-2. It is clear that the other good-wife had her husbands consent for what she did: for besides that it is said #emph[the heart of her husband trusted in her,] it is also said, that #emph[he praised her.] Therefore he was neither ignorant of that which she did, nor unwilling she should do it: it was neither without nor against his consent.
+2\. It is clear that the other good-wife had her husbands consent for what she did: for besides that it is said #emph[the heart of her husband trusted in her,] it is also said, that #emph[he praised her.] Therefore he was neither ignorant of that which she did, nor unwilling she should do it: it was neither without nor against his consent.
 
-3. It is alleged that wives have as great a care in getting #footnote[3\. #emph[Reason.] Wives have a like care in getting goods.] goods, or in preserving them for the good of the family: therefore it is just and equal, that they should have a like power in disposing them.
+3\. It is alleged that wives have as great a care in getting #footnote[3\. #emph[Reason.] Wives have a like care in getting goods.] goods, or in preserving them for the good of the family: therefore it is just and equal, that they should have a like power in disposing them.
 
 #emph[Answ.] Though question may be made of the former part, at least for the greater sort and number of wives, yet for answer to this reason I need not question it; for the consequence doth not follow, though that be granted. The right of disposing goods doth not simply rise from the care and pains of getting and preserving them: but from that order that the Lord hath been pleased to set down. A wise and industrious child may be a means to raise and increase his fathers estate, when his father taketh little care and pains about it: yea a faithful and wise steward or other servant (as #emph[Jacob] and #emph[Joseph] were) may do much more by his pains and care in getting and preserving the goods of the family, then his master: yet will it not thereupon follow, that such a child, or such a servant hath as great a right and power to dispose such goods as his father or his master.
 
-4. The near conjunction betwixt man and wife is alleged: #footnote[4\. #emph[Reason.] Wives are yoke-fellows with their husbands.] they are said to be yoke-fellows, and thence is inferred that they have a like power in disposing goods.
+4\. The near conjunction betwixt man and wife is alleged: #footnote[4\. #emph[Reason.] Wives are yoke-fellows with their husbands.] they are said to be yoke-fellows, and thence is inferred that they have a like power in disposing goods.
 
 #emph[Answ.] They are yoke-fellows in mutual familiarity, not in equal authority; and in relation to others as children and servants, not in opposition each to other. In this respect she is subject, not equal. If therefore he will one thing, and she another, she may not think to have an equal right and power, she must give place and yield.

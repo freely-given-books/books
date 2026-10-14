@@ -20,7 +20,7 @@ About the #emph[parties] we are to search,
 - 1\. Who may seek a mate for marriage.
 - 2\. What kind of mate is to be taken.
 
-1. All they who are able without inevitable danger to their #footnote[Who may marry.] yoke fellow to perform the essential duties of marriage, may be married.
+1\. All they who are able without inevitable danger to their #footnote[Who may marry.] yoke fellow to perform the essential duties of marriage, may be married.
 
 Out of this proposition arise three questions to be discussed.
 
@@ -30,9 +30,9 @@ Out of this proposition arise three questions to be discussed.
 
 === §. 2. #emph[Of ripeness of years in them that are to be married.]
 
-1. They are to be accounted able who have #footnote[#emph[Ephebi. Vt iustas nuptias contrahant, sint masculi puberes, foeminae viripotentes. Iustin. Instit. l.] 1. #emph[tit.] 10.] past the flour of their age, and are not by defect of nature, or any other occasion made impotent.
+1\. They are to be accounted able who have #footnote[#emph[Ephebi. Vt iustas nuptias contrahant, sint masculi puberes, foeminae viripotentes. Iustin. Instit. l.] 1. #emph[tit.] 10.] past the flour of their age, and are not by defect of nature, or any other occasion made impotent.
 
-1. Ripeness of years is absolutely necessary for consummating a just and lawful marriage: wherefore as God at first, made #emph[Adam] of full age, so when he sought out a wife for him, he made her of full age too: he made her a #emph[woman,] not a child. #footnote[#emph[Gen.] 2. 22. 1 #emph[Cor.] 7. 36.] Where the Apostle adviseth parents to take care for the marriage of their children, he putteth in this proviso, #emph[if they pass the flour of their age.] Child-hood is counted the flour of age. While the flour of the plant sprouteth, the seed is green, unfit to be sown.
+1\. Ripeness of years is absolutely necessary for consummating a just and lawful marriage: wherefore as God at first, made #emph[Adam] of full age, so when he sought out a wife for him, he made her of full age too: he made her a #emph[woman,] not a child. #footnote[#emph[Gen.] 2. 22. 1 #emph[Cor.] 7. 36.] Where the Apostle adviseth parents to take care for the marriage of their children, he putteth in this proviso, #emph[if they pass the flour of their age.] Child-hood is counted the flour of age. While the flour of the plant sprouteth, the seed is green, unfit to be sown.
 
 #emph[Quest.] How long lasteth the flour of age?
 
@@ -42,11 +42,11 @@ Out of this proposition arise three questions to be discussed.
 
 #emph[Answ.] He was said to be a child not simply, but comparatively, #footnote[1 #emph[King.] 2. 22.] in relation to his other brothers which were elder then he, & #footnote[#emph[&] 3. 7.] in regard of that great work he was to undertake. In the time of his reign he is said to be #footnote[1 #emph[King.] 11. 4.] #emph[old:] which could not be if he had been in years a child when he began to reign: for he reigned but forty years.
 
-2. #emph[Object. Ahaz] was but twenty year old when he began to reign, and reigned but sixteen years, and yet when he died #emph[Hezekiah] his son was five and twenty year old, #footnote[2 #emph[Chro.] 28. 1. #emph[&] 29. 1.] by which computation #emph[Ahaz] had a child when he was but eleven, or twelve year old at most.
+2\. #emph[Object. Ahaz] was but twenty year old when he began to reign, and reigned but sixteen years, and yet when he died #emph[Hezekiah] his son was five and twenty year old, #footnote[2 #emph[Chro.] 28. 1. #emph[&] 29. 1.] by which computation #emph[Ahaz] had a child when he was but eleven, or twelve year old at most.
 
-1. #emph[Answ.] Some say that this was extraordinary, and render this reason, #emph[Ahaz so young a father as Elizabeth an old mother,] #footnote[#emph[Broughton] in his Concent of Script.] #emph[should have hoped in Emmanuel of a virgin.]
+1\. #emph[Answ.] Some say that this was extraordinary, and render this reason, #emph[Ahaz so young a father as Elizabeth an old mother,] #footnote[#emph[Broughton] in his Concent of Script.] #emph[should have hoped in Emmanuel of a virgin.]
 
-2. #emph[Answ.] The beginning of that reign when #emph[Ahaz] was but twenty year old, is to be referred to #emph[Jotham] his father; for #emph[Ahaz] was twenty year old when #emph[he] (namely #emph[Jotham)] began to reign: as #footnote[2 #emph[Chro.] 36. 9.] #emph[Jehoiachin] was eight year old, when #emph[he] (namely his father #emph[Jehoiachim)] began to reign: for #emph[Jehoiachin] was #footnote[2 #emph[King.] 24. 8.] eighteen, when he himself began to reign.
+2\. #emph[Answ.] The beginning of that reign when #emph[Ahaz] was but twenty year old, is to be referred to #emph[Jotham] his father; for #emph[Ahaz] was twenty year old when #emph[he] (namely #emph[Jotham)] began to reign: as #footnote[2 #emph[Chro.] 36. 9.] #emph[Jehoiachin] was eight year old, when #emph[he] (namely his father #emph[Jehoiachim)] began to reign: for #emph[Jehoiachin] was #footnote[2 #emph[King.] 24. 8.] eighteen, when he himself began to reign.
 
 #emph[Object. Jotham] was but #footnote[2 #emph[Chro.] 27. 1.] twenty and five year old when he began to reign, how then could #emph[Ahaz] his son at that time be twenty?
 
@@ -56,7 +56,7 @@ Contrary to the forenamed fitness of age is the practise of #footnote[#emph[Puel
 
 === §. 3. #emph[Of impotent persons that ought not to seek after marriage.]
 
-2. They are to be accounted #emph[impotent,] and in that respect unable to perform the essential duties of marriage, who (to use the Scripture phrase) #emph[were born Eunuchs from their mothers] #footnote[#emph[Mat.] 19. 12.] #emph[womb:] or by any accidental occasion are so made: as they who are defective, or closed in their secret parts: or taken with an incurable palsy: or possessed with frigidity, or any other such like impediment.
+2\. They are to be accounted #emph[impotent,] and in that respect unable to perform the essential duties of marriage, who (to use the Scripture phrase) #emph[were born Eunuchs from their mothers] #footnote[#emph[Mat.] 19. 12.] #emph[womb:] or by any accidental occasion are so made: as they who are defective, or closed in their secret parts: or taken with an incurable palsy: or possessed with frigidity, or any other such like impediment.
 
 These ought not to seek after marriage: for by those signs of impotency God showeth that he calleth them to live single.
 
@@ -68,17 +68,17 @@ Contrary to this manifestation of Gods will do they sin, #footnote[A sin to conc
 
 #emph[Answ.] No, there is great difference betwixt impotency and barrenness.
 
-1. Impotency may by outward sensible signs be known #footnote[#emph[Sterilem coniugem fas non est relinquere. Aug. de Nup. lib.] 1. #emph[cap.] 10.] and discerned, barrenness cannot: it is not discerned but by want of child-bearing.
+1\. Impotency may by outward sensible signs be known #footnote[#emph[Sterilem coniugem fas non est relinquere. Aug. de Nup. lib.] 1. #emph[cap.] 10.] and discerned, barrenness cannot: it is not discerned but by want of child-bearing.
 
-2. Impotent persons cannot yield due benevolence: but such as are barren may.
+2\. Impotent persons cannot yield due benevolence: but such as are barren may.
 
-3. Impotency is incurable: but barrenness is not simply so. Many after they have been a long while barren have become fruitful: and that not only by an extraordinary work of God above the course of nature (as #footnote[#emph[Gen.] 18. 11.] #emph[Sarah] and #footnote[#emph[Luk.] 1. 7.] #emph[Elizabeth,] with whom by reason of age it ceased to be after the manner of women) but also by such a blessing as might stand with the course of nature, being obtained by prayer (as #footnote[#emph[Gen.] 25. 21.] #emph[Rebekah] and #footnote[1 #emph[Sam.] 1. 5, 20.] #emph[Hannah)] whereof daily experience giveth good evidence: for many after 10, 15, 20, and more years barrenness have brought forth children.
+3\. Impotency is incurable: but barrenness is not simply so. Many after they have been a long while barren have become fruitful: and that not only by an extraordinary work of God above the course of nature (as #footnote[#emph[Gen.] 18. 11.] #emph[Sarah] and #footnote[#emph[Luk.] 1. 7.] #emph[Elizabeth,] with whom by reason of age it ceased to be after the manner of women) but also by such a blessing as might stand with the course of nature, being obtained by prayer (as #footnote[#emph[Gen.] 25. 21.] #emph[Rebekah] and #footnote[1 #emph[Sam.] 1. 5, 20.] #emph[Hannah)] whereof daily experience giveth good evidence: for many after 10, 15, 20, and more years barrenness have brought forth children.
 
 On these grounds many Saints, who have been barren, have married, and their practise therein not disallowed, nor their marriage dissolved. #footnote[#emph[Tantum valet sociale vinculum coniugum, vt cùm causa procreandi colligitur, nec ipsa causa procreandi soluetur. Aug. de bon. Coniug. cap.] 7.] For though procreation of children be one end of marriage, yet is it not the only end: and so inviolable is the marriage bond, that though it be made for childrens sake, yet for want of children it may not be broken.
 
 === §. 5. #emph[Of that inevitable danger which hindereth marriage.]
 
-3. They who are infected with such contagious diseases, as diffuse themselves into those who have society with them, and infect them also, ought not to seek after marriage: for that cannot but turn to the danger of the party with whom they marry. It was for mutual good one of another #footnote[#emph[Gen.] 2. 18.] that God ordained the law of marriage; to use it to the hurt and danger of one another, is against the main end of the first institution.
+3\. They who are infected with such contagious diseases, as diffuse themselves into those who have society with them, and infect them also, ought not to seek after marriage: for that cannot but turn to the danger of the party with whom they marry. It was for mutual good one of another #footnote[#emph[Gen.] 2. 18.] that God ordained the law of marriage; to use it to the hurt and danger of one another, is against the main end of the first institution.
 
 The law of shutting up a leper from all society with men proveth as much; for if lepers might not have mutual society #footnote[2 #emph[Chro.] 26. 21.] with any man, much less might they have matrimonial society with a wife or an husband.
 
@@ -108,31 +108,31 @@ They who have power to marry must be careful in choosing #emph[an help meet for 
 
 In regard of the former sort, there must be chosen,
 
-1. #emph[One of the same kind] or nature: for among all the creatures which were made, #footnote[#emph[Gen.] 2. 20. Buggery.] #emph[there was not found an help meet for man:] therefore God out of his bone and flesh made a woman of his #footnote[1\. Persons of the same kind.] own nature and kind.
+1\. #emph[One of the same kind] or nature: for among all the creatures which were made, #footnote[#emph[Gen.] 2. 20. Buggery.] #emph[there was not found an help meet for man:] therefore God out of his bone and flesh made a woman of his #footnote[1\. Persons of the same kind.] own nature and kind.
 
 Contrary to this is the detestable sin of buggery with beasts, expressly forbidden by the #footnote[#emph[Lev.] 18. 23.] law. A sin more then beastly: for the bruit beasts content themselves with their own kind: Monstrous it is in the kind thereof: and a cause of abominable monsters. #footnote[#emph[Vide Aug. de Civit. Dei lib.] 15. #emph[cap.] 23. #emph[& Lud. Vivem in eundem de Incubis, & Succubis.]] Contrary also is that copulation which witches have with devils: then which none more unnatural, none more prodigious and odious.
 
-2. #emph[One of the contrary sex:] the male must choose a female: the female a male. Thus God having made #emph[Adam] a male, #footnote[2\. Persons of divers sexes. #emph[Maritalis copula requirit sexuum aptitudinem. Bern. in Cant. serm.] 66. Unnatural commixtions. #emph[Rom.] 1. 25, 26.] made #emph[Eve] a female, and joined them in marriage. A conjunction of these different sexes is only fit for increase of mankind, and other marriage duties.
+2\. #emph[One of the contrary sex:] the male must choose a female: the female a male. Thus God having made #emph[Adam] a male, #footnote[2\. Persons of divers sexes. #emph[Maritalis copula requirit sexuum aptitudinem. Bern. in Cant. serm.] 66. Unnatural commixtions. #emph[Rom.] 1. 25, 26.] made #emph[Eve] a female, and joined them in marriage. A conjunction of these different sexes is only fit for increase of mankind, and other marriage duties.
 
 Contrary are those unnatural commixtions of parties of the same sex: which the Apostle reckoneth up as judgments inflicted on the heathen, because #emph[they changed the truth of God into a lie, and worshipped, and served the creature more then the Creator.]
 
-3. #emph[One beyond those degrees of consanguinity and affinity which] #footnote[Persons without the degrees of consanguinity.] #emph[are forbidden by the law of God:] these degrees are expressed by #emph[Moses] Levit. 18. 6, 7, etc. And explained in a table of the degrees of consanguinity and affinity within which none may marry, appointed to be hung up in every Church.
+3\. #emph[One beyond those degrees of consanguinity and affinity which] #footnote[Persons without the degrees of consanguinity.] #emph[are forbidden by the law of God:] these degrees are expressed by #emph[Moses] Levit. 18. 6, 7, etc. And explained in a table of the degrees of consanguinity and affinity within which none may marry, appointed to be hung up in every Church.
 
 Contrary is incest, a sin not only forbidden by Gods #footnote[Incest. #emph[O mulieris scelus incredibile, & praeter hanc vnam in omni vita inauditum. O libidinem effrenatam & indomitam! O audaciam, singularem! Non timuisse vim deorum, hominumque famam? Vicit pudorem libido, timorem audacia, rationem amentia. Cic. pro. A. Cluent.]] word, but so horrible even to the heathen as (to use the Apostles words, 1 Cor. 5. 1.) #emph[it is not so much as named among the Gentiles.] Excellently is that censure verified by the heathen Orators pathetical exclamation against one #emph[Sassia] who married her son in law, in these words: #emph[O incredible wickedness of a woman, not heard of in any age but this! O unbridled and untamed lust! O singular boldness! Not to fear the power of God, and fame of men! etc. Lust, impudency, madness, overcame shame, fear, and reason.]
 
 What may we now think of the dispensations which the Pope giveth for incestuous marriages, allowed unto great Princes even by the #footnote[§. 24. #emph[cap.] 5.] Tridentine council? Doth he not herein show himself to be #emph[that man of sin, who opposeth and exalteth himself above all that is called God?]
 
-4. #emph[One that is free:] nor married, nor betrothed to another: the law of marriage noteth thus much in this clause, #footnote[#emph[Mat.] 19. 5.] #emph[They two shall be one flesh.] And in that #footnote[#emph[Deut.] 22. 22, 23, 24.] the law inflicteth the same punishment #footnote[2 #emph[Thes.] 2. 3, 4. 4. Persons that are free.] upon the person which being betrothed committeth uncleanness, that it doth upon a married person, it is evident that it is unlawful to marry one betrothed to another, as well as one married to another. So firm is a contract, as the law calleth a betrothed maid, #emph[a wife:] and a betrothed maid might not be put away without a bill of divorce.
+4\. #emph[One that is free:] nor married, nor betrothed to another: the law of marriage noteth thus much in this clause, #footnote[#emph[Mat.] 19. 5.] #emph[They two shall be one flesh.] And in that #footnote[#emph[Deut.] 22. 22, 23, 24.] the law inflicteth the same punishment #footnote[2 #emph[Thes.] 2. 3, 4. 4. Persons that are free.] upon the person which being betrothed committeth uncleanness, that it doth upon a married person, it is evident that it is unlawful to marry one betrothed to another, as well as one married to another. So firm is a contract, as the law calleth a betrothed maid, #emph[a wife:] and a betrothed maid might not be put away without a bill of divorce.
 
 Contrary is Bigamy, and Polygamy, whereof #footnote[#emph[Treat.] 1. §. 83.] before: unto which head may be referred marriages with such as have been espoused to others before. These are utterly unlawful.
 
 === §. 8. #emph[Of the lawfulness of other marriages after one of the married couple is dead.]
 
-#strong[1. #emph[Quest.] Are they who have buried their husband or wife so free, as they may marry again?]
+#strong[1\. #emph[Quest.] Are they who have buried their husband or wife so free, as they may marry again?]
 
 #emph[Answ.] Yea, as free as they who were never before married. The law doth not only permit a widow to marry again: but #footnote[#emph[Deut.] 25. 5, 9.] if her husband died before he had any children, it commanded the next kinsman that was living and free to marry her, that he might raise up seed to his brother deceased: which if he refused to do, a penalty of ignominy was inflicted on him: the widow rejected was to #emph[loose his shoe from his foot,] #footnote[#emph[Non concederet hoc Paulus nisi liceret. At parum dico concedit: vult quoque. Volo, inquit, adolescentiores nubere: nec dubium quin viduas dicat. Bern. serm.] 66. #emph[in Cant.]] #emph[and to spit in his face in the presence of the Elders.] The Apostle expressly saith that a woman, when her husband is dead, is at liberty to be married (1 #emph[Cor.] 7. 39.) yea speaking of young widows he further saith, #emph[I will that they marry] (1 #emph[Tim.] 5. 14.) This liberty which the Prophet of God, and Apostle of Christ grant to a wife, can by no show of reason be denied to an husband: for the bond of marriage giveth them a like power over one anothers body, (1 #emph[Cor.] 7. 4.) and knitteth one as inviolably as the other, #emph[(Mat.] 19. 6.) husbands therefore as well as wives have used this liberty, as #emph[Abraham (Gen.] 25. 1.) #footnote[#emph[Rom.] 7. 2.] The Apostle that giveth this liberty, rendereth a reason thereof, taken from the limitation of that time wherein married persons have power one over another, and that is the time of this life only: #emph[For the woman which hath an husband is bound by the law to her husband, so long as he liveth: but if the husband be dead she is loosed, etc.] On this ground all the #footnote[§. 24. #emph[Quid largam benedictionem nuptiarum restringis? Bern. loc. citat. Dominus tot maritorum mulierem nulla suae sententiae significatione damnauit. Aug. de bon. Vid. c.] 12.] reasons which warrant or move such as never were married, to marry, may be applied to them that by death have their yoke-fellow taken from them.
 
-#strong[2. #emph[Quest.] May this liberty be extended any further then to a second marriage?]
+#strong[2\. #emph[Quest.] May this liberty be extended any further then to a second marriage?]
 
 #emph[Answ.] We find no restraint from a third, or fourth, or more marriages, if by the divine providence so many wives, or husbands one after another be taken away while there is need for the surviving party to use the benefit of marriage. The woman of Samaria that had five husbands one after another, is not blamed for being married to so many, but for living with one (after the other were dead) that was not her husband, #emph[(Joh.] 4. 18.) Neither did the Lord condemn that woman which was said to have seven husbands one after another, #emph[(Mat.] 22. 25, etc.)
 
@@ -142,7 +142,7 @@ Contrary is the opinion of #footnote[#emph[Secundas nuptias pro fornicationibus 
 
 That matrimonial society may prove comfortable, it is requisite #footnote[#emph[Aequalem ducito Pittaci dictum. Si vis nubere, nube pari. Ouid.] 1. Equality in age.] that there should be some equality betwixt the parties that are married in #emph[Age, estate, Condition, Piety.]
 
-1. For #emph[Age,] as the party that seeketh a mate must be of ripe years, fit to give consent, and able to perform marriage duties, so the mate which is taken must be somewhat answerable #footnote[ἧλιξ ἥλικα. #emph[Arist. Eth. l.] 8. #emph[c.] 12. #emph[Luk.] 1. 7.] in age: if one young, both young: if one of middle age, both so: if one grown to years, the other also. It is noted of #emph[Zachary] and #emph[Elizabeth,] that #emph[both were well stricken in years.] If both were old together, then both also were young together. Equality in years maketh married persons more fit for procreation of children, for a mutual performance of marriage duties each to other, and for making their company and society every way more happy.
+1\. For #emph[Age,] as the party that seeketh a mate must be of ripe years, fit to give consent, and able to perform marriage duties, so the mate which is taken must be somewhat answerable #footnote[ἧλιξ ἥλικα. #emph[Arist. Eth. l.] 8. #emph[c.] 12. #emph[Luk.] 1. 7.] in age: if one young, both young: if one of middle age, both so: if one grown to years, the other also. It is noted of #emph[Zachary] and #emph[Elizabeth,] that #emph[both were well stricken in years.] If both were old together, then both also were young together. Equality in years maketh married persons more fit for procreation of children, for a mutual performance of marriage duties each to other, and for making their company and society every way more happy.
 
 This equality is not over strictly to be taken, as if the married couple were to be just of the same age, but only for some answerableness in years: which may be though there be a disparity #footnote[Most meet that husbands be elder then wives.] of five or ten, or somewhat more years: especially if the excess of years be on the husbands part: for besides that according to the ordinary course of nature a mans strength and vigour lasteth longer then a womans, it is very meet that the husband should be somewhat elder then his wife, because he is an head, a governor, a protector of his wife. The Scripture noteth many husbands to be elder then their wives (as #emph[Abraham] was ten years elder then #emph[Sarah;] and if we #footnote[#emph[Gen.] 17. 17.] narrowly mark the circumstances of the histories of #emph[Isaac] and #emph[Jacob,] and their wives, we shall find that the husbands were elder then their wives.) To my remembrance an approved example of an husband younger then his wife cannot be given out of Scripture.
 
@@ -152,9 +152,9 @@ On the other side, others there be who in the prime and #footnote[Unmeet for you
 
 === §. 10. #emph[Of equality in estate and condition betwixt those that are to be married together.]
 
-2. Some equality in outward estate and wealth is also befitting #footnote[Equality in estate. #emph[Premitur magno coniuge nupta minor. Ouid. epist.] 9.] the parties that are to be married together, lest the disparity therein (especially if it be over-great) make the one insult over the other more then is meet: for if a man of great wealth be married to a poor woman, he will think to make her as his maid-servant, and expect that she should carry her self towards him so as beseemeth not a yoke-fellow, and a bedfellow: so as such an one may rather be said to be brought unto bondage, then marriage. And if a rich woman marry a poor man, she will look to be the master, and to rule him: so as the order which God hath established will be clean perverted: and the honour of marriage laid in the dust. For where no order is, there can be no honour.
+2\. Some equality in outward estate and wealth is also befitting #footnote[Equality in estate. #emph[Premitur magno coniuge nupta minor. Ouid. epist.] 9.] the parties that are to be married together, lest the disparity therein (especially if it be over-great) make the one insult over the other more then is meet: for if a man of great wealth be married to a poor woman, he will think to make her as his maid-servant, and expect that she should carry her self towards him so as beseemeth not a yoke-fellow, and a bedfellow: so as such an one may rather be said to be brought unto bondage, then marriage. And if a rich woman marry a poor man, she will look to be the master, and to rule him: so as the order which God hath established will be clean perverted: and the honour of marriage laid in the dust. For where no order is, there can be no honour.
 
-3. The like may be said of outward condition, that therein #footnote[3\. Equality in condition. #emph[Eas vxores quas inferioris gradus homines ducant, hi qui altioris dignitatis sunt ducere legibus propter dignitatem prohibentur.]] also there be some equality: that Princes, Nobles, and Gentlemen, marry such as are of their own rank: and the meaner sort such as are of their degree. Note what sort of wives #emph[Abraham, Isaac,] and #emph[Jacob] married, and it will appear that they had respect to this parity. Disparity in condition as well as in estate, is a means to make men and women swell and insult above that which is meet: yea and to twit one another in the teeth with their former estate and condition.
+3\. The like may be said of outward condition, that therein #footnote[3\. Equality in condition. #emph[Eas vxores quas inferioris gradus homines ducant, hi qui altioris dignitatis sunt ducere legibus propter dignitatem prohibentur.]] also there be some equality: that Princes, Nobles, and Gentlemen, marry such as are of their own rank: and the meaner sort such as are of their degree. Note what sort of wives #emph[Abraham, Isaac,] and #emph[Jacob] married, and it will appear that they had respect to this parity. Disparity in condition as well as in estate, is a means to make men and women swell and insult above that which is meet: yea and to twit one another in the teeth with their former estate and condition.
 
 Contrary on the one side are the practises of such as affect #footnote[#emph[Digest. lib.] 23. #emph[cap.] 2. §. 49. A fault to affect to marry a person much above ones rank. #emph[Qui longè praestantiores se ducunt, non coniugum viri, sed serui fiunt dotium. Plut. de Instit. liber. Pro.] 14. 1. and 12. 4.] to marry above their own estate and degree: thinking by such marriages to advance themselves. This is the only thing which many seek after in seeking wives and husbands; whereby it cometh to pass that they oft meet with the worst matches, and make their marriage a kind of bondage unto them. Great portions make many women proud, dainty, lavish, idle, and careless; a man were much better, even for help of his outward estate, to marry a prudent, sober, thrifty, careful, diligent wife, though with a small portion, then such an one. A proud back, a dainty tooth, and a lavish hand will soon consume a great portion; but #emph[a wise woman buildeth her house:] and #emph[a virtuous woman is a crown to her husband.] Many wives also that are married to very rich husbands, are more stinted and pinched in their allowance, then such as are married to men of meaner estate. It is not the means which a man hath, but his mind and disposition that maketh him free and bountiful to his wife.
 
@@ -164,7 +164,7 @@ If it be said that such marriages are not simply unlawful, the rule of the civil
 
 === §. 11. #emph[Of equality in piety and religion betwixt those that are to be married together.]
 
-4. The parity which is of greatest consequence betwixt #footnote[4\. Equality in piety.] parties to be married, is in #emph[piety.] In which respect it is requisite that as a Christian be married to a Christian, and a professor of #footnote[#emph[E domibus Christianis coniugij quaeratur copula. Ambr. Epist.] 70.] the true faith to a professor of the same faith; so one that in truth feareth God, to one of the same mind and disposition, as it is noted of #emph[Zachary] and #emph[Elizabeth, they were both righteous before God, etc.] A worthy couple: one worthy of another: being both alike in such excellent qualities, they could #footnote[#emph[Luk.] 1. 6.] not but reap each from other much comfort, and profit every way.
+4\. The parity which is of greatest consequence betwixt #footnote[4\. Equality in piety.] parties to be married, is in #emph[piety.] In which respect it is requisite that as a Christian be married to a Christian, and a professor of #footnote[#emph[E domibus Christianis coniugij quaeratur copula. Ambr. Epist.] 70.] the true faith to a professor of the same faith; so one that in truth feareth God, to one of the same mind and disposition, as it is noted of #emph[Zachary] and #emph[Elizabeth, they were both righteous before God, etc.] A worthy couple: one worthy of another: being both alike in such excellent qualities, they could #footnote[#emph[Luk.] 1. 6.] not but reap each from other much comfort, and profit every way.
 
 This is one of the most principal points that are comprised under that proviso given by the holy Ghost in choosing a yoke fellow, in these words, #emph[In the Lord.] #footnote[1 #emph[Cor.] 7. 39.]
 
@@ -188,7 +188,7 @@ Great are the dangers and damages that ordinarily fall out thereupon. For first 
 
 #emph[Answ.] That is noted only as a remedy of an inconvenience, which being fallen out cannot be recalled: as when two infidels being married together, the one of them is converted to the true faith and the other remaineth an infidel, that the believer might with some comfort enjoy the company of the #footnote[#emph[Non de ijs qui adhuc coniuncti non sunt, sed de coniunctis agitur. Siquidem non dicit si quis vult accipere infidelem, sed si quis habet infidelem. Chrysost. in] 1 #emph[Cor.] 7. #emph[hom.] 19.] other, the Apostle showeth that for matrimonial communion the unbeliever is sanctified by the believer. But hereby he giveth no liberty to believers to marry with unbelievers. For though God in mercy thus sanctify the unequal yoke which cannot be broken, yet they who professing Gods name do wittingly undergo that yoke, do as much as in them lieth, profane Gods holiness.
 
-2. The professor of the true religion is thereby in danger of Apostasy. Which reason #footnote[#emph[Deut.] 7. 4.] the law it self presseth against this point: and the Scripture giveth many examples of the woeful issue thereof: as of #footnote[1 #emph[King.] 11. 4.] #emph[Solomon] the wisest among men, #footnote[#emph[Judg.] 16. 16.] of #emph[Samson] the strongest, of #footnote[2 #emph[King.] 8. 18.] #emph[Jehoram] and others.
+2\. The professor of the true religion is thereby in danger of Apostasy. Which reason #footnote[#emph[Deut.] 7. 4.] the law it self presseth against this point: and the Scripture giveth many examples of the woeful issue thereof: as of #footnote[1 #emph[King.] 11. 4.] #emph[Solomon] the wisest among men, #footnote[#emph[Judg.] 16. 16.] of #emph[Samson] the strongest, of #footnote[2 #emph[King.] 8. 18.] #emph[Jehoram] and others.
 
 #emph[Object.] If I marry one of a contrary religion, I may convert a sinner from going astray, and save a soul from death.
 
@@ -198,17 +198,17 @@ Great are the dangers and damages that ordinarily fall out thereupon. For first 
 
 #emph[Ans.] These directions are noted only as a remedy to redress such irrevocable mischiefs as are fallen out, and not to give liberty of rushing wittingly into them (as was before noted.) When an ill event is fallen out, necessity lieth on a man; so as all means is to be used to redress the same. But thereupon to infer that a man may safely enter into that course which draweth a man to those mischiefs, what is it but to thrust himself into the fire, and to cast himself into temptation, #footnote[#emph[Mat.] 6. 13.] which he is taught to pray against? Besides, the forenamed directions are not grounded on any express promises, but upon mere suppositions.
 
-3. Many other mischiefs are like to follow upon this kind of unequal marriage, besides danger of apostasy (which yet is the greatest) as
+3\. Many other mischiefs are like to follow upon this kind of unequal marriage, besides danger of apostasy (which yet is the greatest) as
 
-1. #footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] #emph[Many jars and contentions betwixt man and wife.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
+1\. #footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] #emph[Many jars and contentions betwixt man and wife.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
 
-2. #emph[Disturbance of the family:] one part holding with the man, another with the woman.
+2\. #emph[Disturbance of the family:] one part holding with the man, another with the woman.
 
-3. #emph[Wasting of goods:] the husband spending what he can on such as are of his profession: and the wife what she can, on them that are of hers.
+3\. #emph[Wasting of goods:] the husband spending what he can on such as are of his profession: and the wife what she can, on them that are of hers.
 
-4. #emph[Hindrance of all holy duties] in the house: the party that is of #footnote[#emph[Cum oratio communis esse debeat, quomodo inter dispares deuotione potest esse coniugij communis charitas? Ibid.]] the contrary profession not enduring that there should be any.
+4\. #emph[Hindrance of all holy duties] in the house: the party that is of #footnote[#emph[Cum oratio communis esse debeat, quomodo inter dispares deuotione potest esse coniugij communis charitas? Ibid.]] the contrary profession not enduring that there should be any.
 
-5. #emph[Profaneness and Atheism in children.] For commonly when parents are of divers religions, children are of none: #footnote[#emph[Lev.] 24. 10, 11.] instance that cursed blasphemer, whose mother was an Israelite, but his father an Egyptian.
+5\. #emph[Profaneness and Atheism in children.] For commonly when parents are of divers religions, children are of none: #footnote[#emph[Lev.] 24. 10, 11.] instance that cursed blasphemer, whose mother was an Israelite, but his father an Egyptian.
 
 The Scripture noteth such children to be #footnote[#emph[Gen.] 6. 4.] monsters, and #footnote[#emph[Neh.] 13. 24.] mongrels.
 
@@ -234,11 +234,11 @@ Having showed what #emph[persons] are fit to be joined in marriage, it remaineth
 
 There are in Scripture three steps or degrees commended unto us by which marriageable parties are in order to proceed unto marriage.
 
-1. A mutual liking.
+1\. A mutual liking.
 
-2. An actual contract.
+2\. An actual contract.
 
-3. A public solemnization of marriage.
+3\. A public solemnization of marriage.
 
 I. The first liking is sometimes on the parents or other friends part, and then by them made known to the party to be married, as the friends of #emph[Rebekah,] liking the offer of #emph[Isaac] #footnote[#emph[Gen.] 24. 58.] which was made by #emph[Abrahams] servant, made it known to #emph[Rebekah] her self. Sometimes again the first liking is on the parties part that is to be married: and then if that party be under the government of parents, the matter must be moved to them, before there be any further proceeding therein, as #emph[Samson] who seeing and liking a daughter of the Philistines, #footnote[#emph[Judg.] 14. 2.] told his father and his mother thereof. Yea though the party be not under the government of any, yet it is very meet that counsel be taken of wise and understanding friends: that in a matter so weighty as marriage is, there may be the advice of more heads then one, for the preventing of such mischiefs as through rashness might fall out. After a liking is thus taken by one party of a meet mate, that liking must be moved to the other party so liked, to know whether there be a reciprocal affection of one towards another. Thus #emph[Samson] went and #footnote[#emph[Judg.] 14. 7.] talked with that woman whom he liked to be his wife. If at first there be a good liking mutually and thoroughly settled in both their hearts of one another, love is like to continue in them for ever, as things which are well glued, and settled before they be shaken up and down, will never be severed asunder: but if they be joined together without glue, or shaken while the glue is moist, they cannot remain firm.
 

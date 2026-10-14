@@ -1,7 +1,7 @@
 == Serving Each Other in the Fear of the Lord
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 21.]
 
@@ -29,8 +29,8 @@ For our parts, let us not upon pretext of one duty, though it may seem to be the
 
 Again, as this verse hath reference to that which followeth, it declareth the general sum of all, which is mutually to submit our selves one to another in the fear of God. The parts hereof are two:
 
-- 1\. An Exhortation.
-- 2\. A Direction.
++ An Exhortation.
++ A Direction.
 
 In the exhortation is noted, both the #emph[duty] it self in this word #emph[submit,] and also the #emph[parties] to whom it is to be performed, #emph[one to another.]
 
@@ -60,16 +60,16 @@ Be not high minded, nor swell one against another. #footnote[2\. #emph[Use.] Deh
 
 Hitherto of the #emph[exhortation.] The #emph[direction] followeth. #emph[In the fear of the Lord.] This clause is added, to declare partly the #emph[means,] how men may be brought to submit themselves readily one to another: and partly the #emph[manner,] how they ought to submit themselves. #emph[The fear of the Lord] is both the #emph[efficient cause] that moveth a true Christian willingly to perform all duty to man, and also the #emph[end] whereunto he referreth every thing that he doth. For the better conceiving whereof, I will briefly declare
 
-- 1\. What this fear of the Lord is.
-- 2\. How the Lord is the proper object of it.
-- 3\. What is the extent thereof.
-- 4\. Why it is so much urged.
++ What this fear of the Lord is.
++ How the Lord is the proper object of it.
++ What is the extent thereof.
++ Why it is so much urged.
 
 First, fear of God is an awful respect of the divine Majesty. #footnote[1\. What the fear of God is. The causes of it.] Sometimes it ariseth from faith in the mercy and goodness of God: for when the heart of man hath once felt a sweet taste of Gods goodness, and found that in his favour only all happiness consisteth, it is strucken with such an inward awe and reverence, as it would not for any thing displease #footnote[Two effects of a filial fear of God.] his Majesty, but rather do whatsoever it may know to be pleasing and acceptable unto him. For these are two effects which arise from this kind of fear of God:
 
-1. #emph[A careful endeavour to please God,] in which respect #footnote[#emph[Deum timere est nulla mala facere, & nulla bona quae facienda sunt praeterire. Bernar. de modo benè viuen. ser.] 4.] good king #emph[Jehoshaphat] having exhorted his Judges to execute the judgment of the Lord aright, addeth this clause as a motive thereunto, #emph[Let the fear of the Lord be upon you:] implying thereby that Gods fear would make them endeavour to approve themselves to God.
+1\. #emph[A careful endeavour to please God,] in which respect #footnote[#emph[Deum timere est nulla mala facere, & nulla bona quae facienda sunt praeterire. Bernar. de modo benè viuen. ser.] 4.] good king #emph[Jehoshaphat] having exhorted his Judges to execute the judgment of the Lord aright, addeth this clause as a motive thereunto, #emph[Let the fear of the Lord be upon you:] implying thereby that Gods fear would make them endeavour to approve themselves to God.
 
-2. #emph[A careful avoiding of such things as offend the Majesty of God,] and grieve his spirit: in which respect the Wiseman #footnote[2 #emph[Chro.] 19. 6, 7.] saith, #emph[The fear of the Lord is to hate evil:] and of #emph[Job] it is #footnote[#emph[Prov.] 8. 13.] said that he #emph[fearing God departed from evil.] #footnote[#emph[Job.] 1. 1.]
+2\. #emph[A careful avoiding of such things as offend the Majesty of God,] and grieve his spirit: in which respect the Wiseman #footnote[2 #emph[Chro.] 19. 6, 7.] saith, #emph[The fear of the Lord is to hate evil:] and of #emph[Job] it is #footnote[#emph[Prov.] 8. 13.] said that he #emph[fearing God departed from evil.] #footnote[#emph[Job.] 1. 1.]
 
 Sometimes again, awe and dread of the divine Majesty ariseth from diffidence: For when a mans heart doubteth of Gods mercy, and expecteth nothing but vengeance, the very thought of God striketh an awe or rather dread into him, and so maketh him fear God.
 
@@ -93,9 +93,9 @@ Having briefly declared the #emph[nature, object, extent,] and #emph[use] of fea
 
 By fear of man, may one be brought to submit himself #footnote[Object.] to another: as a magistrate may be moved to deal justly and mildly with his people through fear of insurrections and rebellions: subjects may by severe laws and tyranny be brought to submit themselves: and so other inferiors also by threats, by hard usage, and other by-respects.
 
-1. Though fear of man be a motive, yet it followeth #footnote[Answ.] not, that therefore fear of God should be no motive: it may be another motive, and a better motive.
+1\. Though fear of man be a motive, yet it followeth #footnote[Answ.] not, that therefore fear of God should be no motive: it may be another motive, and a better motive.
 
-2. The submission which is performed through fear of #footnote[Difference betwixt doing a thing for fear of God and fear of man.] man is a forced and a slavish submission, nothing acceptable to God: but that which is performed through a true filial fear of God, is a free, willing, ready, cheerful, conscionable submission: such a submission as will stir us up to do the best good we can thereby unto them, to whom we submit our selves, and so is more acceptable to God, by reason of the cause thereof, and more profitable unto man, by reason of the effect and fruit thereof.
+2\. The submission which is performed through fear of #footnote[Difference betwixt doing a thing for fear of God and fear of man.] man is a forced and a slavish submission, nothing acceptable to God: but that which is performed through a true filial fear of God, is a free, willing, ready, cheerful, conscionable submission: such a submission as will stir us up to do the best good we can thereby unto them, to whom we submit our selves, and so is more acceptable to God, by reason of the cause thereof, and more profitable unto man, by reason of the effect and fruit thereof.
 
 For a true fear of God maketh us more respect what #footnote[#emph[Reason.] The power of a fear of God.] God requireth and commandeth, than what our corrupt heart desireth and suggesteth: It subdueth our unruly passions, and bringeth them within compass of duty: It maketh us deny our selves and our own desires: and though through the corruption of our nature and inborn pride we be loth to submit, yet will Gods fear bring down that proud mind, and make us humble and gentle. It will keep those who are in authority from tyranny, cruelty, and over-much severity: and it will keep those who are under subjection from dissimulation, deceit, and privy conspiracies.
 

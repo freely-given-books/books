@@ -17,15 +17,15 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 #emph[Answ.] His power reacheth not so far, as is evident by these reasons.
 
-1. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
+1\. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
 
-2. A master might not dismember his servant: if unawares he did smite out an eye or tooth of his servant, he must make a recompense: which was to let him go free. Much less therefore #footnote[#emph[Exod.] 21. 26.] might he take away his servants life.
+2\. A master might not dismember his servant: if unawares he did smite out an eye or tooth of his servant, he must make a recompense: which was to let him go free. Much less therefore #footnote[#emph[Exod.] 21. 26.] might he take away his servants life.
 
-3. If a servant died under his masters hand when he corrected him, though he intended not wilfully to murder him, that master was to be punished. It was not therefore lawful for #footnote[#emph[Exod.] 21. 20.] a master wittingly to kill a servant.
+3\. If a servant died under his masters hand when he corrected him, though he intended not wilfully to murder him, that master was to be punished. It was not therefore lawful for #footnote[#emph[Exod.] 21. 20.] a master wittingly to kill a servant.
 
-4. The power of life is proper to the public magistrate, who doth all things in open public places, that so there may be many witnesses of his just proceeding. If masters had this power, many might privily be put to death, and no man know for what cause, as it is in popish inquisitions.
+4\. The power of life is proper to the public magistrate, who doth all things in open public places, that so there may be many witnesses of his just proceeding. If masters had this power, many might privily be put to death, and no man know for what cause, as it is in popish inquisitions.
 
-5. #footnote[#emph[Si Dominus seruum ceciderit, vel lethal vulnus inflixerit, revs homicidij sit. Justin. Cod. l.] 9. #emph[tit.] 18.] The approved laws of men make it wilful murder for a master to slay his servant wittingly, though the servants fault be never so heinous. Neither the authority of the master, nor desert of the servant, shall exempt the master that slayeth his servant from the guilt and punishment of felony.
+5\. #footnote[#emph[Si Dominus seruum ceciderit, vel lethal vulnus inflixerit, revs homicidij sit. Justin. Cod. l.] 9. #emph[tit.] 18.] The approved laws of men make it wilful murder for a master to slay his servant wittingly, though the servants fault be never so heinous. Neither the authority of the master, nor desert of the servant, shall exempt the master that slayeth his servant from the guilt and punishment of felony.
 
 #strong[#emph[Object.] In ancient times masters had this power.]
 
@@ -49,17 +49,17 @@ But what may we say of such masters, as cause their servants for their sakes to 
 
 === §. 16. #emph[Of masters ordering that correction they give to their servants.]
 
-2. That masters may well order that correction which they give to their servants, difference must be put betwixt the age, sex, disposition, and faults of those whom they correct.
+2\. That masters may well order that correction which they give to their servants, difference must be put betwixt the age, sex, disposition, and faults of those whom they correct.
 
-1. Masters ought not to be so forward to strike such as are grown in years, as the younger sort. Years bring understanding, and a rebuke will make one of understanding more sorry for a fault, and more careful to amend it, then blows:#footnote[The direction prescribed to parents (Treat. 6. §. 47.) for well ordering that correction which they give to their children, may in many points be here fitly applied. Read it.] smart more works upon the younger sort. But if notwithstanding their years they be stout, and will not regard words, their stoutness must be beaten down with blows. #footnote[#emph[Pro.] 19. 25, 29.] #emph[Smite a scorner,] saith the wise man: and again, #emph[Judgments are prepared for scorners, and stripes for the back of fools.]
+1\. Masters ought not to be so forward to strike such as are grown in years, as the younger sort. Years bring understanding, and a rebuke will make one of understanding more sorry for a fault, and more careful to amend it, then blows:#footnote[The direction prescribed to parents (Treat. 6. §. 47.) for well ordering that correction which they give to their children, may in many points be here fitly applied. Read it.] smart more works upon the younger sort. But if notwithstanding their years they be stout, and will not regard words, their stoutness must be beaten down with blows. #footnote[#emph[Pro.] 19. 25, 29.] #emph[Smite a scorner,] saith the wise man: and again, #emph[Judgments are prepared for scorners, and stripes for the back of fools.]
 
 Seeing servants in years are in this case to be corrected, it is further requisite to put a difference betwixt the kind or measure of correction which is given to them, and to the younger sort: if they be corrected as children, they may either make a toy of it, or the more disdain at it. #footnote[#emph[Pro.] 20. 30. #emph[Heris in famulos saeuitia adhibenda est, si aliter teneri non possunt. Cic. Offic. l.] 2.] #emph[Blueness, wound, and stripes piercing into the inward parts of the belly, are a purging medicine against evil,] to stout servants of ripe years.
 
-2. If there be a master and mistress joint governors over an house, it is fittest for the master to correct men-servants, the mistress maids. #footnote[#emph[Seruam verberare viro maximae ignominiae est. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] #emph[Abraham] put his maid over to #emph[Sarah] in such a case. Yet if a maid should wax stout, and mannish, and turn against her mistress, she being weak, sickly, with child, or otherwise unable to master her maid, the master may and must beat down her stoutness and rebellion: #footnote[#emph[Exo.] 21. 20.] so much did the law of God permit.
+2\. If there be a master and mistress joint governors over an house, it is fittest for the master to correct men-servants, the mistress maids. #footnote[#emph[Seruam verberare viro maximae ignominiae est. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] #emph[Abraham] put his maid over to #emph[Sarah] in such a case. Yet if a maid should wax stout, and mannish, and turn against her mistress, she being weak, sickly, with child, or otherwise unable to master her maid, the master may and must beat down her stoutness and rebellion: #footnote[#emph[Exo.] 21. 20.] so much did the law of God permit.
 
-3. If servants be of an ingenious disposition, willing and forward to do that which belongeth unto them, sorry when they have committed a fault, and careful to amend their faults, many things may be passed over in them, which must be corrected in others. To this may be applied the counsel of the wiseman, #emph[Take no heed to all the words that are] #footnote[#emph[Eccl.] 7. 21.] #emph[spoken.]
+3\. If servants be of an ingenious disposition, willing and forward to do that which belongeth unto them, sorry when they have committed a fault, and careful to amend their faults, many things may be passed over in them, which must be corrected in others. To this may be applied the counsel of the wiseman, #emph[Take no heed to all the words that are] #footnote[#emph[Eccl.] 7. 21.] #emph[spoken.]
 
-4. Correction must be measured according to the greatness #footnote[#emph[—Adsit Regula peccat is quae poenas irroget aequas: Nec scutica dignum horribili sectere flagello. Horat. l.] 1. #emph[Sat.] 3.] of the fault punished, and the circumstances whereby the fault may justly be aggravated. #emph[The servant that knew his masters will and did it not shall be beaten with many stripes: But he that knew not and did commit things worthy of stripes, shall be beaten with few stripes,] Luk. 12. 47, 48.
+4\. Correction must be measured according to the greatness #footnote[#emph[—Adsit Regula peccat is quae poenas irroget aequas: Nec scutica dignum horribili sectere flagello. Horat. l.] 1. #emph[Sat.] 3.] of the fault punished, and the circumstances whereby the fault may justly be aggravated. #emph[The servant that knew his masters will and did it not shall be beaten with many stripes: But he that knew not and did commit things worthy of stripes, shall be beaten with few stripes,] Luk. 12. 47, 48.
 
 Many aberrations are daily committed contrary to every branch of this direction, in that masters and mistresses in exercising this part of their power are carried away with passion, and do that which they do in this kind #emph[after their own pleasure.] Thus they turn a duty into sin, and by undue correcting of their servants provoke God to correct them in his wrath, either here or in the world to come.
 
@@ -67,7 +67,7 @@ Many aberrations are daily committed contrary to every branch of this direction,
 
 The third point to be noted concerning a masters power over his servant, is about his servants marriage. Sundry questions are moved about this point, which I will briefly resolve.
 
-#strong[1. #emph[Quest.] Have masters power to order and dispose their servants marriage as they please?]
+#strong[1\. #emph[Quest.] Have masters power to order and dispose their servants marriage as they please?]
 
 #emph[Answ.] No, not without the free consent of the servants themselves: for marriages must be made with the free consent of the parties that are married.
 
@@ -75,23 +75,23 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 #emph[Answ.] 1. That law is to be understood of such servants as being strangers were bond-slaves, over whom masters had a more absolute power then over others.
 
-2. The masters power of giving did not simply force the servant to marry the party so given: but restrained the servant from marrying any other then whom the master should give.
+2\. The masters power of giving did not simply force the servant to marry the party so given: but restrained the servant from marrying any other then whom the master should give.
 
-#strong[2. #emph[Quest.] Is not a masters power in the matter of marriage as great over a servant, as a parents over a child?]
+#strong[2\. #emph[Quest.] Is not a masters power in the matter of marriage as great over a servant, as a parents over a child?]
 
 #emph[Answ.] No. See the reason Treat. 5. §. 20.
 
-#strong[3. #emph[Quest.] May a master deny his servant liberty to marry?]
+#strong[3\. #emph[Quest.] May a master deny his servant liberty to marry?]
 
 #emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Jobs] servants bond and free, as well as on his goods: which he could not have done, if #emph[Jobs] servants had not been as his goods.
 
 Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase which the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
 
-#strong[4. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?]
+#strong[4\. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?]
 
 #emph[Answ.] No. The marriage being otherwise rightly performed, #footnote[Quod fieri non debet factum valet.] remaineth a firm marriage: though the servants in so doing have sinned: for which their master may justly punish them.
 
-#strong[5. #emph[Quest.] May a master keep his servants so married without his consent from their bed-fellows?]
+#strong[5\. #emph[Quest.] May a master keep his servants so married without his consent from their bed-fellows?]
 
 #emph[Answ.] He may exact the whole time of his covenant for service: but that power which by the bond of marriage husbands and wives have over one anothers bodies, suffereth #footnote[1 #emph[Cor.] 7. 3, 4.] them not to be altogether separated one from another. Besides, our law freeth a maid-servant when she is married, from her masters covenant.
 

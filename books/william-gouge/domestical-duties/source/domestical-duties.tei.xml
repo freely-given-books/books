@@ -85,7 +85,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>note/@target points at the anchor where this edition places the note; the note itself stays where it was printed.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>cell[@rend='nested']: a branch of a brace table this edition sets as an item under the branch before it.</p><p>table[@rend='inline']: a brace table this edition reads into one sentence, column by column.</p><p>head[@next]: a run-in head this edition sets as the opening words of its paragraph (p/@prev), not as a bold line.</p><p>head[@prev]: a printed heading this edition runs on into the paragraph before it (a margin note or catchword set as a head).</p><p>p[@rend='epigraph']: a paragraph holding a scripture text (reference and verse) this edition sets as an epigraph.</p><p>hi inside reg: words of this edition's reading set in italic.</p><p>list[@subtype='printed']: a list printed as one that this edition numbers; the printed numerals are kept in label.</p><p>Text the transcription lacks (pages missing from the copy it was made from) is transcribed from another copy and put in at the gap: seg[@type='supplied'] where it runs on in a paragraph, and every block or division brought in carries @change pointing at the revisionDesc entry that names the copy. The gap itself is kept, filled with an empty supplied.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>note/@target points at the anchor where this edition places the note; the note itself stays where it was printed.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>table[@rend='inline']: a brace table this edition reads into one sentence, column by column.</p><p>head[@next]: a run-in head this edition sets as the opening words of its paragraph (p/@prev), not as a bold line.</p><p>head[@prev]: a printed heading this edition runs on into the paragraph before it (a margin note or catchword set as a head).</p><p>p[@rend='epigraph']: a paragraph holding a scripture text (reference and verse) this edition sets as an epigraph.</p><p>hi inside reg: words of this edition's reading set in italic.</p><p>list[@subtype='printed']: a list printed as one that this edition numbers; the printed numerals are kept in label.</p><p>Text the transcription lacks (pages missing from the copy it was made from) is transcribed from another copy and put in at the gap: seg[@type='supplied'] where it runs on in a paragraph, and every block or division brought in carries @change pointing at the revisionDesc entry that names the copy. The gap itself is kept, filled with an empty supplied.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -98,7 +98,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-09" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-13" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2005-05</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1194,9 +1194,9 @@ Gods people in both <choice><orig>kindes</orig><reg resp="#auto" type="spelling"
                <head>§. 3. <hi>Of <choice><orig>euery</orig><reg resp="#auto" type="spelling">every</reg></choice> ones <choice><orig>ſubmitting</orig><reg resp="#auto" type="spelling">submitting</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> to another.</hi>
                </head>
                <p><choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, as this <choice><orig>verſe</orig><reg resp="#auto" type="spelling">verse</reg></choice> hath reference to that which fol<g ref="char:EOLhyphen"/>loweth, it declareth the <choice><orig>generall</orig><reg resp="#auto" type="spelling">general</reg></choice> <choice><orig>ſumme</orig><reg resp="#auto" type="spelling">sum</reg></choice> of all, which is mutually to <choice><orig>ſubmit</orig><reg resp="#auto" type="spelling">submit</reg></choice> our <choice><orig>ſelues</orig><reg resp="#auto" type="spelling">selves</reg></choice> one to another in the <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God. The parts hereof are two:
-<list>
-                     <item>1. An Exhortation.</item>
-                     <item>2. A Direction.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> An Exhortation.</item>
+                     <item><label>2.</label> A Direction.</item>
                   </list>
                </p>
                <p>In the exhortation is noted, both the <hi><choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice></hi> it <choice><orig>ſelfe</orig><reg resp="#auto" type="spelling">self</reg></choice> in this word <hi><choice><orig>ſubmit</orig><reg resp="#auto" type="spelling">submit</reg></choice>,</hi> and <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> the <hi>parties</hi> to whom it is to be perfor<g ref="char:EOLhyphen"/>med, <hi>one to another.</hi>
@@ -1261,11 +1261,11 @@ in <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice
                <head>§. 4. <hi>Of the <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God.</hi>
                </head>
                <p>Hitherto of the <hi>exhortation.</hi> The <hi>direction</hi> followeth. <hi>In the <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of the Lord.</hi> This <choice><orig>clauſe</orig><reg resp="#auto" type="spelling">clause</reg></choice> is added, to declare partly the <hi><choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice>,</hi> how men may be brought to <choice><orig>ſubmit</orig><reg resp="#auto" type="spelling">submit</reg></choice> <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> readily one to another: and partly the <hi>manner,</hi> how they ought to <choice><orig>ſubmit</orig><reg resp="#auto" type="spelling">submit</reg></choice> <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice>. <hi>The <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of the Lord</hi> is both the <hi>efficient <choice><orig>cauſe</orig><reg resp="#auto" type="spelling">cause</reg></choice></hi> that <choice><orig>moueth</orig><reg resp="#auto" type="spelling">moveth</reg></choice> a true <choice><orig>Chriſtian</orig><reg resp="#auto" type="spelling">Christian</reg></choice> wil<g ref="char:EOLhyphen"/>lingly to <choice><orig>performe</orig><reg resp="#auto" type="spelling">perform</reg></choice> all <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> to man, and <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> the <hi>end</hi> where<g ref="char:EOLhyphen"/>unto he <choice><orig>referreth</orig><reg resp="#editor" type="grammar">referreth</reg><reg resp="#auto" type="spelling">refereth</reg></choice> <choice><orig>euery</orig><reg resp="#auto" type="spelling">every</reg></choice> thing that he doth. For the better <choice><orig>conceiuing</orig><reg resp="#auto" type="spelling">conceiving</reg></choice> whereof, I will briefly declare
-<list>
-                     <item>1. What this <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of the Lord is.</item>
-                     <item>2. How the Lord is the proper <choice><orig>obiect</orig><reg resp="#auto" type="spelling">object</reg></choice> of it.</item>
-                     <item>3. What is the extent thereof.</item>
-                     <item>4. Why it is <choice><orig>ſo</orig><reg resp="#auto" type="spelling">so</reg></choice> much <choice><orig>vrged</orig><reg resp="#auto" type="spelling">urged</reg></choice>.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> What this <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of the Lord is.</item>
+                     <item><label>2.</label> How the Lord is the proper <choice><orig>obiect</orig><reg resp="#auto" type="spelling">object</reg></choice> of it.</item>
+                     <item><label>3.</label> What is the extent thereof.</item>
+                     <item><label>4.</label> Why it is <choice><orig>ſo</orig><reg resp="#auto" type="spelling">so</reg></choice> much <choice><orig>vrged</orig><reg resp="#auto" type="spelling">urged</reg></choice>.</item>
                   </list>
                </p>
                <p>First, <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God is an <choice><orig>awfull</orig><reg resp="#auto" type="spelling">awful</reg></choice> <choice><orig>reſpect</orig><reg resp="#auto" type="spelling">respect</reg></choice> of the <choice><orig>diuine</orig><reg resp="#auto" type="spelling">divine</reg></choice> <choice><orig>Ma<g ref="char:EOLhyphen"/>ieſtie</orig><reg resp="#auto" type="spelling">Majesty</reg></choice>. <note place="margin">1. What the <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God is. The <choice><orig>cauſes</orig><reg resp="#auto" type="spelling">causes</reg></choice> of it.</note> Sometimes it <choice><orig>ariſeth</orig><reg resp="#auto" type="spelling">ariseth</reg></choice> from faith in the mercy and <choice><orig>goodneſſe</orig><reg resp="#auto" type="spelling">goodness</reg></choice> of God: for when the heart of man hath once felt a <choice><orig>ſweet</orig><reg resp="#auto" type="spelling">sweet</reg></choice> <choice><orig>taſte</orig><reg resp="#auto" type="spelling">taste</reg></choice> of Gods <choice><orig>goodneſſe</orig><reg resp="#auto" type="spelling">goodness</reg></choice>, and found that in his <choice><orig>fauour</orig><reg resp="#auto" type="spelling">favour</reg></choice> only all <choice><orig>happineſſe</orig><reg resp="#auto" type="spelling">happiness</reg></choice> <choice><orig>conſiſteth</orig><reg resp="#auto" type="spelling">consisteth</reg></choice>, it is <choice><orig>ſtrucken</orig><reg resp="#auto" type="spelling">strucken</reg></choice> with <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> an inward awe and <choice><orig>reuerence</orig><reg resp="#auto" type="spelling">reverence</reg></choice>, as it would not for any thing <choice><orig>diſ<g ref="char:EOLhyphen"/>pleaſe</orig><reg resp="#auto" type="spelling">displease</reg></choice> <note place="margin">Two effects of a <choice><orig>filiall</orig><reg resp="#auto" type="spelling">filial</reg></choice> <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God.</note> his <choice><orig>Maieſtie</orig><reg resp="#auto" type="spelling">Majesty</reg></choice>, but rather <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> <choice><orig>whatſoeuer</orig><reg resp="#auto" type="spelling">whatsoever</reg></choice> it may know to be <choice><orig>pleaſing</orig><reg resp="#auto" type="spelling">pleasing</reg></choice> and acceptable <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> him. For <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> are two effects which <choice><orig>ariſe</orig><reg resp="#auto" type="spelling">arise</reg></choice> from this <choice><orig>kinde</orig><reg resp="#auto" type="spelling">kind</reg></choice> of <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God:</p>
@@ -1710,15 +1710,15 @@ Thus the <choice><orig>Apoſtle</orig><reg resp="#auto" type="spelling">Apostle<
                <p>The amplification thereof by the <choice><orig>reſemblance</orig><reg resp="#auto" type="spelling">resemblance</reg></choice> that is made to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, enforceth the <hi>manner</hi> of performing the <hi>duty.</hi>
                </p>
                <p>A wife <choice><orig>muſt</orig><reg resp="#auto" type="spelling">must</reg></choice> <choice><orig>ſubmit</orig><reg resp="#auto" type="spelling">submit</reg></choice> her <choice><orig>ſelfe</orig><reg resp="#auto" type="spelling">self</reg></choice> to an husband, <choice><orig>becauſe</orig><reg resp="#auto" type="spelling">because</reg></choice> he is her <hi>head:</hi> and <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> <choice><orig>muſt</orig><reg resp="#auto" type="spelling">must</reg></choice> <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> it <hi>as to the Lord,</hi> <choice><orig>becauſe</orig><reg resp="#auto" type="spelling">because</reg></choice> her husband is to her, as <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> is to the Church.</p>
-               <p>The metaphor of an head declareth two points:</p>
-               <p>
-                  <table>
+               <p xml:id="rb1" next="#rb2">The metaphor of an head declareth two points:</p>
+               <p xml:id="rb2" prev="#rb1" change="#review">
+                  <table rend="inline" change="#review">
                      <row>
-                        <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> The <choice><orig>dignitie</orig><reg resp="#auto" type="spelling">dignity</reg></choice></cell>
+                        <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>The</orig><reg resp="#editor" type="case">the</reg></choice> <choice><orig>dignitie</orig><reg resp="#auto" type="spelling">dignity</reg></choice></cell>
                         <cell rows="2">of an husband.</cell>
                      </row>
                      <row>
-                        <cell><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> The duty</cell>
+                        <cell><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>The</orig><reg resp="#editor" type="emendation">and the</reg></choice> duty</cell>
                         <cell> </cell>
                      </row>
                   </table>
@@ -1909,12 +1909,12 @@ O how <choice><orig>happie</orig><reg resp="#auto" type="spelling">happy</reg></
             <div n="19" type="section">
                <head>§. 19. <hi>Of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> a <choice><orig>ſufficient</orig><reg resp="#auto" type="spelling">sufficient</reg></choice></hi> <choice><orig>Sauiour</orig><reg resp="#auto" type="spelling">Saviour</reg></choice>.</head>
                <p>In laying forth the <choice><orig>goodneſſe</orig><reg resp="#auto" type="spelling">goodness</reg></choice> of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> three things are noted.</p>
-               <list>
-                  <item>1. The <hi><choice><orig>Kinde</orig><reg resp="#auto" type="spelling">Kind</reg></choice></hi> of <choice><orig>goodneſſe</orig><reg resp="#auto" type="spelling">goodness</reg></choice>, which is <choice><orig>Saluation</orig><reg resp="#auto" type="spelling">Salvation</reg></choice> <hi>(the <choice><orig>Sauiour</orig><reg resp="#auto" type="spelling">Saviour</reg></choice>)</hi>
+               <list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> The <hi><choice><orig>Kinde</orig><reg resp="#auto" type="spelling">Kind</reg></choice></hi> of <choice><orig>goodneſſe</orig><reg resp="#auto" type="spelling">goodness</reg></choice>, which is <choice><orig>Saluation</orig><reg resp="#auto" type="spelling">Salvation</reg></choice> <hi>(the <choice><orig>Sauiour</orig><reg resp="#auto" type="spelling">Saviour</reg></choice>)</hi>
                   </item>
-                  <item>2. The <choice><orig>perſon</orig><reg resp="#auto" type="spelling">person</reg></choice> that performeth it <hi>(he <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>.)</hi>
+                  <item><label>2.</label> The <choice><orig>perſon</orig><reg resp="#auto" type="spelling">person</reg></choice> that performeth it <hi>(he <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>.)</hi>
                   </item>
-                  <item>3. The parties for whom he performeth it <hi>(the body.)</hi>
+                  <item><label>3.</label> The parties for whom he performeth it <hi>(the body.)</hi>
                   </item>
                </list>
                <p n="1">1. The <choice><orig>Greeke</orig><reg resp="#auto" type="spelling">Greek</reg></choice> word <choice><orig>tranſlated</orig><reg resp="#auto" type="spelling">translated</reg></choice> <note n="*" place="margin">
@@ -2017,11 +2017,11 @@ Let <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> f
                <p n="2">2. <hi>Inward,</hi> which is proper to the elect, none but they, and all they in their time <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> both outwardly be called by the word to a <choice><orig>profeſſion</orig><reg resp="#auto" type="spelling">profession</reg></choice> of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, and <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> inwardly and effectu<g ref="char:EOLhyphen"/>ally by the <choice><orig>ſpirit</orig><reg resp="#auto" type="spelling">spirit</reg></choice> to <choice><orig>beleeue</orig><reg resp="#auto" type="spelling">believe</reg></choice> in <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, and obey his <choice><orig>Goſpell</orig><reg resp="#auto" type="spelling">Gospel</reg></choice>. This is <choice><orig>ſtiled</orig><reg resp="#auto" type="spelling">styled</reg></choice> <note n="b" place="margin">
                      <hi>Heb.</hi> 3. 1.</note> 
                   <hi>an <choice><orig>heauenly</orig><reg resp="#auto" type="spelling">heavenly</reg></choice> calling,</hi> which is <note n="c" place="margin">1 <hi>Cor.</hi> 1. 2.</note> proper to the Saints. <choice><orig>Theſe</orig><reg resp="#auto" type="spelling">These</reg></choice> make that Church, whereof <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> is properly the head: and therefore in relation to that metaphor of an head, they are called the <hi><choice><orig>Bodie</orig><reg resp="#auto" type="spelling">Body</reg></choice>:</hi> and that in <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> <choice><orig>reſpects</orig><reg resp="#auto" type="spelling">respects</reg></choice>;</p>
-               <list>
-                  <item>1. They are <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> the head.</item>
-                  <item>2. They <choice><orig>receiue</orig><reg resp="#auto" type="spelling">receive</reg></choice> <choice><orig>ſpirituall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice> life and grace from <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body <choice><orig>naturall</orig><reg resp="#auto" type="spelling">natural</reg></choice> <choice><orig>receiueth</orig><reg resp="#auto" type="spelling">receiveth</reg></choice> <choice><orig>ſenſe</orig><reg resp="#auto" type="spelling">sense</reg></choice>, and vigour from the head.</item>
-                  <item>3. <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> <choice><orig>gouerneth</orig><reg resp="#auto" type="spelling">governeth</reg></choice> them, as an head the body.</item>
-                  <item>4. They are <choice><orig>ſubiect</orig><reg resp="#auto" type="spelling">subject</reg></choice> to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body to the head.</item>
+               <list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> They are <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> the head.</item>
+                  <item><label>2.</label> They <choice><orig>receiue</orig><reg resp="#auto" type="spelling">receive</reg></choice> <choice><orig>ſpirituall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice> life and grace from <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body <choice><orig>naturall</orig><reg resp="#auto" type="spelling">natural</reg></choice> <choice><orig>receiueth</orig><reg resp="#auto" type="spelling">receiveth</reg></choice> <choice><orig>ſenſe</orig><reg resp="#auto" type="spelling">sense</reg></choice>, and vigour from the head.</item>
+                  <item><label>3.</label> <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> <choice><orig>gouerneth</orig><reg resp="#auto" type="spelling">governeth</reg></choice> them, as an head the body.</item>
+                  <item><label>4.</label> They are <choice><orig>ſubiect</orig><reg resp="#auto" type="spelling">subject</reg></choice> to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, as a body to the head.</item>
                </list>
             </div>
             <div n="22" type="section">
@@ -2066,32 +2066,32 @@ Let <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> f
                   <p>This is a point of admirable comfort to <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> as <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> <choice><orig>aſſu<g ref="char:EOLhyphen"/>rance</orig><reg resp="#auto" type="spelling">assurance</reg></choice> <note place="margin"><choice><orig>Vſe</orig><reg resp="#auto" type="spelling">Use</reg></choice>.</note> of their incorporation into <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, they may <choice><orig>reſt</orig><reg resp="#auto" type="spelling">rest</reg></choice> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> the benefit of this office of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>, that he is a <hi><choice><orig>Sauiour</orig><reg resp="#auto" type="spelling">Saviour</reg></choice>.</hi> We need not <choice><orig>thinke</orig><reg resp="#auto" type="spelling">think</reg></choice> of <choice><orig>climing</orig><reg resp="#auto" type="spelling">climbing</reg></choice> <choice><orig>vp</orig><reg resp="#auto" type="spelling">up</reg></choice> to <choice><orig>heauen</orig><reg resp="#auto" type="spelling">heaven</reg></choice>, and <choice><orig>ſearching</orig><reg resp="#auto" type="spelling">searching</reg></choice> Gods records to <choice><orig>ſee</orig><reg resp="#auto" type="spelling">see</reg></choice> if our names be written in the <choice><orig>booke</orig><reg resp="#auto" type="spelling">book</reg></choice> of Life.
 <pb n="40" facs="tcp:3442:34"/>
 Let <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> only make <choice><orig>triall</orig><reg resp="#auto" type="spelling">trial</reg></choice> whether we be of this body or no. <note place="margin">How we may know <choice><orig>whe<g ref="char:EOLhyphen"/>the</orig><reg resp="#editor" type="spelling">whether</reg></choice> we be of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> body or no.</note> For our <choice><orig>helpe</orig><reg resp="#auto" type="spelling">help</reg></choice> herein, know we that this metaphor of <hi>a body</hi> implieth two things.
-<list>
-                        <item>1. A <choice><orig>myſticall</orig><reg resp="#auto" type="spelling">mystical</reg></choice> <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> with <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>.</item>
-                        <item>2. A <choice><orig>ſpirituall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice> communion with the Saints.</item>
+<list type="numbered" subtype="printed" change="#review">
+                        <item><label>1.</label> A <choice><orig>myſticall</orig><reg resp="#auto" type="spelling">mystical</reg></choice> <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> with <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>.</item>
+                        <item><label>2.</label> A <choice><orig>ſpirituall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice> communion with the Saints.</item>
                      </list>
                   </p>
-                  <list>
-                     <item>1. By <choice><orig>vertue</orig><reg resp="#auto" type="spelling">virtue</reg></choice> of that <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> they who are of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> body,
-<list>
-                           <item>1. <note n="m" place="margin">
+                  <list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> By <choice><orig>vertue</orig><reg resp="#auto" type="spelling">virtue</reg></choice> of that <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> they who are of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> body,
+<list type="numbered" subtype="printed" change="#review">
+                           <item><label>1.</label> <note n="m" place="margin">
                                  <hi>Eph.</hi> 4. 15, 16.</note> <choice><orig>Receiue</orig><reg resp="#auto" type="spelling">Receive</reg></choice> grace, and life from him.</item>
-                           <item>2. <note n="n" place="margin">
+                           <item><label>2.</label> <note n="n" place="margin">
                                  <hi><choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>.</hi> 17. 6.</note> Are guided and <choice><orig>gouerned</orig><reg resp="#auto" type="spelling">governed</reg></choice> according to his will.</item>
-                           <item>3. <note n="o" place="margin">
+                           <item><label>3.</label> <note n="o" place="margin">
                                  <hi>Joh.</hi> 17. <choice><orig>10</orig><reg resp="#editor" type="spelling">10.</reg></choice></note> <choice><orig>Seeke</orig><reg resp="#auto" type="spelling">Seek</reg></choice> to honour him in all things they <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice>.</item>
-                           <item>4. <note n="p" place="margin">
+                           <item><label>4.</label> <note n="p" place="margin">
                                  <hi>Gal.</hi> 3. 1. <hi><choice><orig>Pſal</orig><reg resp="#auto" type="spelling">Psal</reg></choice>.</hi> <choice><orig>116</orig><reg resp="#editor" type="emendation">119</reg></choice>. 136.</note> Are offended and <choice><orig>grieued</orig><reg resp="#auto" type="spelling">grieved</reg></choice> when he is <choice><orig>diſhonoured</orig><reg resp="#auto" type="spelling">dishonoured</reg></choice> by others.</item>
                         </list>
                      </item>
-                     <item>2. By <choice><orig>reaſon</orig><reg resp="#auto" type="spelling">reason</reg></choice> of their communion with the Saints be<g ref="char:EOLhyphen"/>ing fellow members,
-<list>
-                           <item>1. <note n="q" place="margin">1 <hi><choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>.</hi> 4. 11.</note> They <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> the brethren.</item>
-                           <item>2. <note n="r" place="margin">
+                     <item><label>2.</label> By <choice><orig>reaſon</orig><reg resp="#auto" type="spelling">reason</reg></choice> of their communion with the Saints be<g ref="char:EOLhyphen"/>ing fellow members,
+<list type="numbered" subtype="printed" change="#review">
+                           <item><label>1.</label> <note n="q" place="margin">1 <hi><choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>.</hi> 4. 11.</note> They <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> the brethren.</item>
+                           <item><label>2.</label> <note n="r" place="margin">
                                  <hi>Mat.</hi> 25. 40.</note> They are ready to <choice><orig>ſuccour</orig><reg resp="#auto" type="spelling">succour</reg></choice> <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> as are in <choice><orig>diſtreſſe</orig><reg resp="#auto" type="spelling">distress</reg></choice>.</item>
-                           <item>3. <note n="ſ" place="margin">
+                           <item><label>3.</label> <note n="ſ" place="margin">
                                  <hi>Eph.</hi> 4. 16.</note> They will <choice><orig>edifie</orig><reg resp="#auto" type="spelling">edify</reg></choice> one another.</item>
-                           <item>4. <note n="t" place="margin">1 <hi>Cor.</hi> 12. 26.</note> They <choice><orig>retaine</orig><reg resp="#auto" type="spelling">retain</reg></choice> a <choice><orig>mutuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice> <choice><orig>ſympathy</orig><reg resp="#auto" type="spelling">sympathy</reg></choice>: <choice><orig>reioycing</orig><reg resp="#auto" type="spelling">rejoicing</reg></choice>, and mourning one with another.</item>
+                           <item><label>4.</label> <note n="t" place="margin">1 <hi>Cor.</hi> 12. 26.</note> They <choice><orig>retaine</orig><reg resp="#auto" type="spelling">retain</reg></choice> a <choice><orig>mutuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice> <choice><orig>ſympathy</orig><reg resp="#auto" type="spelling">sympathy</reg></choice>: <choice><orig>reioycing</orig><reg resp="#auto" type="spelling">rejoicing</reg></choice>, and mourning one with another.</item>
                         </list>
                      </item>
                   </list>
@@ -2231,21 +2231,21 @@ the example of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Chr
                   <hi>The</hi> <choice><orig>meaſure</orig><reg resp="#auto" type="spelling">measure</reg></choice> <hi>and</hi> manner <hi>of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> is <choice><orig>diſtinctly</orig><reg resp="#auto" type="spelling">distinctly</reg></choice> noted,</hi> Treat. 4. §. 61. <hi><choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> the <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> which an husband oweth his wife <choice><orig>paralleld</orig><reg resp="#auto" type="spelling">paralleled</reg></choice> &amp; applied <choice><orig>ther<g ref="char:EOLhyphen"/>to</orig><reg resp="#auto" type="spelling">thereto</reg></choice>, which application may be <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> made of that <choice><orig>Chriſtian</orig><reg resp="#auto" type="spelling">Christian</reg></choice> <choice><orig>mutuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice> <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> which we owe one to another.</hi>
                </p>
                <p>The <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> to the Church is amplified,
-<list>
-                     <item>1. By an <hi>Effect</hi> thereof, in <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> words, <hi>He <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> for it.</hi>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> By an <hi>Effect</hi> thereof, in <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> words, <hi>He <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> for it.</hi>
                      </item>
-                     <item>2. By the <hi>End</hi> of that effect, largely <choice><orig>ſet</orig><reg resp="#auto" type="spelling">set</reg></choice> <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice>, <hi><choice><orig>verſe</orig><reg resp="#auto" type="spelling">verse</reg></choice></hi> 26, 27.</item>
+                     <item><label>2.</label> By the <hi>End</hi> of that effect, largely <choice><orig>ſet</orig><reg resp="#auto" type="spelling">set</reg></choice> <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice>, <hi><choice><orig>verſe</orig><reg resp="#auto" type="spelling">verse</reg></choice></hi> 26, 27.</item>
                   </list>
                </p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell rows="2">The <hi>effect</hi> is noted partly as a</cell>
-                        <cell>Confirmation of the truth</cell>
-                        <cell rows="2">of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>.</cell>
+                        <cell><choice><orig>Confirmation</orig><reg resp="#editor" type="case">confirmation</reg></choice> of the truth</cell>
+                        <cell rows="2">of<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice><choice><orig/><reg resp="#editor" type="spacing"> </reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>.</cell>
                      </row>
                      <row>
-                        <cell>Declaration of the <choice><orig>meaſure</orig><reg resp="#auto" type="spelling">measure</reg></choice></cell>
+                        <cell><choice><orig>Declaration</orig><reg resp="#editor" type="emendation">, partly as a declaration</reg></choice> of the <choice><orig>meaſure</orig><reg resp="#auto" type="spelling">measure</reg></choice></cell>
                         <cell> </cell>
                         <cell> </cell>
                      </row>
@@ -2287,12 +2287,12 @@ A <choice><orig>motiue</orig><reg resp="#auto" type="spelling">motive</reg></cho
                <p>
                   <pb n="47" facs="tcp:3442:37"/>
 More particularly, we may note <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> three points:
-<list>
-                     <item>1. The <hi>action,</hi> what he did, <hi>(he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice>.)</hi>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> The <hi>action,</hi> what he did, <hi>(he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice>.)</hi>
                      </item>
-                     <item>2. The <hi><choice><orig>obiect</orig><reg resp="#auto" type="spelling">object</reg></choice>,</hi> what he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice>, <hi>(<choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>.)</hi>
+                     <item><label>2.</label> The <hi><choice><orig>obiect</orig><reg resp="#auto" type="spelling">object</reg></choice>,</hi> what he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice>, <hi>(<choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>.)</hi>
                      </item>
-                     <item>3. The <hi>end,</hi> why he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <hi>(for it)</hi> for the Chur<g ref="char:EOLhyphen"/>ches good.</item>
+                     <item><label>3.</label> The <hi>end,</hi> why he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <hi>(for it)</hi> for the Chur<g ref="char:EOLhyphen"/>ches good.</item>
                   </list>
                </p>
                <p>The <hi>action</hi> <choice><orig>hauing</orig><reg resp="#auto" type="spelling">having</reg></choice> relation to the <hi><choice><orig>obiect</orig><reg resp="#auto" type="spelling">object</reg></choice>,</hi> <choice><orig>moſt</orig><reg resp="#auto" type="spelling">most</reg></choice> <choice><orig>eſpecially</orig><reg resp="#auto" type="spelling">especially</reg></choice> pointeth at the death of <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>. The <note n="*" place="margin">
@@ -2471,9 +2471,9 @@ but his <choice><orig>perſon</orig><reg resp="#auto" type="spelling">person</re
                   <pb n="52" facs="tcp:3442:40"/>
 The former is <choice><orig>ſubordinate</orig><reg resp="#auto" type="spelling">subordinate</reg></choice> to the latter, an end for the <choice><orig>ac<g ref="char:EOLhyphen"/>compliſhing</orig><reg resp="#auto" type="spelling">accomplishing</reg></choice> of the other end, for the Church is here made pure, that hereafter it may be made glorious.</p>
                <p>In laying <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice> the former he noteth
-<list>
-                     <item>1. The <hi>end</hi> whereat <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> aimed.</item>
-                     <item>2. The <hi><choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice>,</hi> <choice><orig>wherby</orig><reg resp="#auto" type="spelling">whereby</reg></choice> he effected that which he aimed at.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> The <hi>end</hi> whereat <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> aimed.</item>
+                     <item><label>2.</label> The <hi><choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice>,</hi> <choice><orig>wherby</orig><reg resp="#auto" type="spelling">whereby</reg></choice> he effected that which he aimed at.</item>
                   </list>
                </p>
                <p>That <hi>end</hi> is <choice><orig>ſet</orig><reg resp="#auto" type="spelling">set</reg></choice> forth in <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> words, <hi>that he might <choice><orig>ſanctifie</orig><reg resp="#auto" type="spelling">sanctify</reg></choice> it,</hi> 
@@ -2487,17 +2487,17 @@ The former is <choice><orig>ſubordinate</orig><reg resp="#auto" type="spelling"
                <p>The word <hi>(<choice><orig>ſanctifying</orig><reg resp="#auto" type="spelling">sanctifying</reg></choice>)</hi> <choice><orig>expreſſeth</orig><reg resp="#auto" type="spelling">expresseth</reg></choice> our <hi><choice><orig>ſanctification</orig><reg resp="#auto" type="spelling">sanctification</reg></choice>.</hi>
                </p>
                <p>The <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> of effecting <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice>, are two.
-<list>
-                     <item>1. <hi><choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice></hi> <choice><orig>compriſed</orig><reg resp="#auto" type="spelling">comprised</reg></choice> <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> this <choice><orig>phraſe</orig><reg resp="#auto" type="spelling">phrase</reg></choice>, <hi><choice><orig>waſhing</orig><reg resp="#auto" type="spelling">washing</reg></choice> of water.</hi>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> <hi><choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice></hi> <choice><orig>compriſed</orig><reg resp="#auto" type="spelling">comprised</reg></choice> <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> this <choice><orig>phraſe</orig><reg resp="#auto" type="spelling">phrase</reg></choice>, <hi><choice><orig>waſhing</orig><reg resp="#auto" type="spelling">washing</reg></choice> of water.</hi>
                      </item>
-                     <item>2. The <hi>word.</hi>
+                     <item><label>2.</label> The <hi>word.</hi>
                      </item>
                   </list>
                </p>
                <p>The two branches of the former <hi>end,</hi> namely <hi><choice><orig>Cleanſing</orig><reg resp="#auto" type="spelling">Cleansing</reg></choice></hi> and <hi>Sanctifying</hi> <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> in <choice><orig>generall</orig><reg resp="#auto" type="spelling">general</reg></choice> imply two things.
-<list>
-                     <item>1. The <hi>Condition</hi> of the Church in it <choice><orig>ſelfe</orig><reg resp="#auto" type="spelling">self</reg></choice>.</item>
-                     <item>2. The <hi>Alteration</hi> thereof by <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> The <hi>Condition</hi> of the Church in it <choice><orig>ſelfe</orig><reg resp="#auto" type="spelling">self</reg></choice>.</item>
+                     <item><label>2.</label> The <hi>Alteration</hi> thereof by <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>.</item>
                   </list>
                </p>
                <p>The <hi>condition</hi> is <choice><orig>preſuppoſed</orig><reg resp="#auto" type="spelling">presupposed</reg></choice>, which is, that <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> was im<g ref="char:EOLhyphen"/>pure, polluted, in the common <choice><orig>eſtate</orig><reg resp="#auto" type="spelling">estate</reg></choice> of corrupt man. Things in <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> pure, are not <choice><orig>cleanſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice>, but things <choice><orig>foule</orig><reg resp="#auto" type="spelling">foul</reg></choice> and im<g ref="char:EOLhyphen"/>pure: <choice><orig>perſons</orig><reg resp="#auto" type="spelling">persons</reg></choice> of <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> freed, and exempted from a com<g ref="char:EOLhyphen"/>mon <choice><orig>miſery</orig><reg resp="#auto" type="spelling">misery</reg></choice>, need not anothers <choice><orig>helpe</orig><reg resp="#auto" type="spelling">help</reg></choice> to free and exempt them. Seeing then that the Church <choice><orig>ſtood</orig><reg resp="#auto" type="spelling">stood</reg></choice> in need to be <choice><orig>clean<g ref="char:EOLhyphen"/>ſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice>, and <choice><orig>ſanctified</orig><reg resp="#auto" type="spelling">sanctified</reg></choice>, <choice><orig>ſurely</orig><reg resp="#auto" type="spelling">surely</reg></choice></p>
@@ -2561,9 +2561,9 @@ renders this <choice><orig>reaſon</orig><reg resp="#auto" type="spelling">reaso
                <head>§. 34. <hi>Of <choice><orig>Chriſts</orig><reg resp="#auto" type="spelling">Christs</reg></choice> <choice><orig>preuenting</orig><reg resp="#auto" type="spelling">preventing</reg></choice> Grace.</hi>
                </head>
                <p>In <choice><orig>ſetting</orig><reg resp="#auto" type="spelling">setting</reg></choice> <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice> the alteration of the forenamed conditi<g ref="char:EOLhyphen"/>on note
-<list>
-                     <item>1. The <hi>manner</hi> of laying it forth.</item>
-                     <item>2. The <hi>matter</hi> or <choice><orig>ſubſtance</orig><reg resp="#auto" type="spelling">substance</reg></choice> thereof.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> The <hi>manner</hi> of laying it forth.</item>
+                     <item><label>2.</label> The <hi>matter</hi> or <choice><orig>ſubſtance</orig><reg resp="#auto" type="spelling">substance</reg></choice> thereof.</item>
                   </list>
                </p>
                <p>The <hi>manner</hi> is implied in this <choice><orig>coniunction</orig><reg resp="#auto" type="spelling">conjunction</reg></choice> <note n="*" place="margin">
@@ -2734,10 +2734,10 @@ his face, or any other part of his <choice><orig>bodie</orig><reg resp="#auto" t
                      <hi>Rom.</hi> 6. 3.</note> 
                   <hi>Sanctification,</hi> or <note n="d" place="margin">1 <hi>Pet.</hi> 3. 21.</note> 
                   <hi><choice><orig>Saluation</orig><reg resp="#auto" type="spelling">Salvation</reg></choice></hi> thereunto, <choice><orig>proue</orig><reg resp="#auto" type="spelling">prove</reg></choice> as much. But that the truth thereof may more fully and <choice><orig>diſtinctly</orig><reg resp="#auto" type="spelling">distinctly</reg></choice> be <choice><orig>conceiued</orig><reg resp="#auto" type="spelling">conceived</reg></choice>, I will briefly <choice><orig>ſhew</orig><reg resp="#auto" type="spelling">show</reg></choice>,
-<list>
-                     <item>1. In what <choice><orig>reſpect</orig><reg resp="#auto" type="spelling">respect</reg></choice> <choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice> is a <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> of our <choice><orig>ſanctifying</orig><reg resp="#auto" type="spelling">sanctifying</reg></choice> and <choice><orig>cleanſing</orig><reg resp="#auto" type="spelling">cleansing</reg></choice>.</item>
-                     <item>2. What <choice><orig>kinde</orig><reg resp="#auto" type="spelling">kind</reg></choice> of <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> it is.</item>
-                     <item>3. How <choice><orig>neceſſarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice> it is.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> In what <choice><orig>reſpect</orig><reg resp="#auto" type="spelling">respect</reg></choice> <choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice> is a <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> of our <choice><orig>ſanctifying</orig><reg resp="#auto" type="spelling">sanctifying</reg></choice> and <choice><orig>cleanſing</orig><reg resp="#auto" type="spelling">cleansing</reg></choice>.</item>
+                     <item><label>2.</label> What <choice><orig>kinde</orig><reg resp="#auto" type="spelling">kind</reg></choice> of <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> it is.</item>
+                     <item><label>3.</label> How <choice><orig>neceſſarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice> it is.</item>
                   </list>
                </p>
                <p>In <choice><orig>foure</orig><reg resp="#auto" type="spelling">four</reg></choice> <choice><orig>eſpeciall</orig><reg resp="#auto" type="spelling">especial</reg></choice> <choice><orig>reſpects</orig><reg resp="#auto" type="spelling">respects</reg></choice> it may be <choice><orig>ſaid</orig><reg resp="#auto" type="spelling">said</reg></choice> to be a <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> as <choice><orig>aforeſaid</orig><reg resp="#auto" type="spelling">aforesaid</reg></choice>.</p>
@@ -2814,9 +2814,9 @@ thereof, <choice><orig>tranſient</orig><reg resp="#auto" type="spelling">transi
 <choice><orig>worke</orig><reg resp="#auto" type="spelling">work</reg></choice> of the Spirit. <hi>Yea then <choice><orig>ſhould</orig><reg resp="#auto" type="spelling">should</reg></choice> all that are baptized without any exception be <choice><orig>cleanſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice>.</hi>
                </p>
                <p>But it is <hi>by <choice><orig>conſequence</orig><reg resp="#auto" type="spelling">consequence</reg></choice></hi> <choice><orig>neceſſarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice>: and that in a double <note place="margin"><choice><orig>Exhypotheſi</orig><reg resp="#editor" type="emendation">Ex hypothesi</reg><reg resp="#auto" type="spelling">Exhypothesi</reg></choice>.</note> <choice><orig>reſpect</orig><reg resp="#auto" type="spelling">respect</reg></choice>.
-<list>
-                     <item>1. In regard of Gods ordinance.</item>
-                     <item>2. In regard of our need thereof.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> In regard of Gods ordinance.</item>
+                     <item><label>2.</label> In regard of our need thereof.</item>
                   </list>
                </p>
                <p n="1">1. God <choice><orig>hauing</orig><reg resp="#auto" type="spelling">having</reg></choice> ordained this a Sacrament to be <choice><orig>vſed</orig><reg resp="#auto" type="spelling">used</reg></choice>, it is <choice><orig>neceſſarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice> it <choice><orig>ſhould</orig><reg resp="#auto" type="spelling">should</reg></choice> be <choice><orig>vſed</orig><reg resp="#auto" type="spelling">used</reg></choice>, if for no other end, yet for <choice><orig>manife<g ref="char:EOLhyphen"/>ſtation</orig><reg resp="#auto" type="spelling">manifestation</reg></choice> of our obedience. He that <choice><orig>careleſly</orig><reg resp="#auto" type="spelling">carelessly</reg></choice> neglecteth; or wil<g ref="char:EOLhyphen"/>fully contemneth any Sacrament which God <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>enioyne</orig><reg resp="#auto" type="spelling">enjoin</reg></choice> him to <choice><orig>vſe</orig><reg resp="#auto" type="spelling">use</reg></choice>, <hi>his <choice><orig>ſoule</orig><reg resp="#auto" type="spelling">soul</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> be cut off.</hi> 
@@ -2832,14 +2832,14 @@ thereof, <choice><orig>tranſient</orig><reg resp="#auto" type="spelling">transi
                <p>One in the <choice><orig>exceſſe</orig><reg resp="#auto" type="spelling">excess</reg></choice>, which is of <choice><orig>Papiſts</orig><reg resp="#auto" type="spelling">Papists</reg></choice> that attribute too much thereunto, and make it a <choice><orig>plaine</orig><reg resp="#auto" type="spelling">plain</reg></choice> <choice><orig>Idoll</orig><reg resp="#auto" type="spelling">Idol</reg></choice>.</p>
                <p>Another in the defect, of <choice><orig>Anabaptiſts</orig><reg resp="#auto" type="spelling">Anabaptists</reg></choice> and Libertines, which <note place="margin"><choice><orig>Papiſts</orig><reg resp="#auto" type="spelling">Papists</reg></choice> attri<g ref="char:EOLhyphen"/>bute too much to <choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice>. <hi>Bellarm. de Bapt lib.</hi> 1. <hi>cap.</hi> 4.</note> derogate too much from it, and make it an idle <choice><orig>ceremonie</orig><reg resp="#auto" type="spelling">ceremony</reg></choice>.</p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell rows="2">In two things <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> <choice><orig>Papiſts</orig><reg resp="#auto" type="spelling">Papists</reg></choice> exceed<choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></cell>
-                        <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> In the <choice><orig>neceſſitie</orig><reg resp="#auto" type="spelling">necessity</reg></choice></cell>
-                        <cell rows="2">Of <choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice>.</cell>
+                        <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>In</orig><reg resp="#editor" type="emendation">: in</reg></choice> the <choice><orig>neceſſitie</orig><reg resp="#auto" type="spelling">necessity</reg></choice></cell>
+                        <cell rows="2"><choice><orig>Of</orig><reg resp="#editor" type="case">of</reg></choice> <choice><orig>Baptiſme</orig><reg resp="#auto" type="spelling">Baptism</reg></choice>.</cell>
                      </row>
                      <row>
-                        <cell><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> In the <choice><orig>efficacie</orig><reg resp="#auto" type="spelling">efficacy</reg></choice></cell>
+                        <cell><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>In</orig><reg resp="#editor" type="emendation">and in</reg></choice> the <choice><orig>efficacie</orig><reg resp="#auto" type="spelling">efficacy</reg></choice></cell>
                         <cell> </cell>
                         <cell> </cell>
                      </row>
@@ -2940,12 +2940,12 @@ as the <choice><orig>beſt</orig><reg resp="#auto" type="spelling">best</reg></c
                   <q>That he might <choice><orig>preſent</orig><reg resp="#auto" type="spelling">present</reg></choice> it to <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> a glorious Church, <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>.</q>
                </epigraph>
                <p><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice> <choice><orig>moſt</orig><reg resp="#auto" type="spelling">most</reg></choice> <choice><orig>principall</orig><reg resp="#auto" type="spelling">principal</reg></choice> end, in regard of the Churches good, which <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> aimed at when he <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> for her, is her glorious <choice><orig>eſtate</orig><reg resp="#auto" type="spelling">estate</reg></choice> in <choice><orig>heauen</orig><reg resp="#auto" type="spelling">heaven</reg></choice>: this is the end of the forena<g ref="char:EOLhyphen"/>med end. For why did <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> for the Church? <hi>That he might <choice><orig>ſanctifie</orig><reg resp="#auto" type="spelling">sanctify</reg></choice> it, <choice><orig>hauing</orig><reg resp="#auto" type="spelling">having</reg></choice> <choice><orig>cleanſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice> it:</hi> why did he <choice><orig>cleanſe</orig><reg resp="#auto" type="spelling">cleanse</reg></choice>, and <choice><orig>ſanctifie</orig><reg resp="#auto" type="spelling">sanctify</reg></choice> it? <hi>That he might <choice><orig>preſent</orig><reg resp="#auto" type="spelling">present</reg></choice> it to <choice><orig>himſeife</orig><reg resp="#editor" type="spelling">himself</reg><reg resp="#auto" type="spelling">himseife</reg></choice> a glorious Church.</hi> Hence note <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> three points.
-<list>
-                     <item>1. <hi><choice><orig>Iuſtification</orig><reg resp="#auto" type="spelling">Justification</reg></choice> and <choice><orig>ſanctification</orig><reg resp="#auto" type="spelling">sanctification</reg></choice> <choice><orig>muſt</orig><reg resp="#auto" type="spelling">must</reg></choice> <choice><orig>goe</orig><reg resp="#auto" type="spelling">go</reg></choice> before glorification.</hi>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> <hi><choice><orig>Iuſtification</orig><reg resp="#auto" type="spelling">Justification</reg></choice> and <choice><orig>ſanctification</orig><reg resp="#auto" type="spelling">sanctification</reg></choice> <choice><orig>muſt</orig><reg resp="#auto" type="spelling">must</reg></choice> <choice><orig>goe</orig><reg resp="#auto" type="spelling">go</reg></choice> before glorification.</hi>
                      </item>
-                     <item>2. <hi>The end why the Saints are <choice><orig>cleanſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice> and <choice><orig>ſanctified</orig><reg resp="#auto" type="spelling">sanctified</reg></choice> in this world, is that they may be <choice><orig>preſented</orig><reg resp="#auto" type="spelling">presented</reg></choice> glorious to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> in the world to come.</hi>
+                     <item><label>2.</label> <hi>The end why the Saints are <choice><orig>cleanſed</orig><reg resp="#auto" type="spelling">cleansed</reg></choice> and <choice><orig>ſanctified</orig><reg resp="#auto" type="spelling">sanctified</reg></choice> in this world, is that they may be <choice><orig>preſented</orig><reg resp="#auto" type="spelling">presented</reg></choice> glorious to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> in the world to come.</hi>
                      </item>
-                     <item>3. <hi>The only <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> to make <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> glorious before <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> our <choice><orig>ſpouſe</orig><reg resp="#auto" type="spelling">spouse</reg></choice> is <choice><orig>righteouſneſſe</orig><reg resp="#auto" type="spelling">righteousness</reg></choice>.</hi>
+                     <item><label>3.</label> <hi>The only <choice><orig>meanes</orig><reg resp="#auto" type="spelling">means</reg></choice> to make <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice> glorious before <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> our <choice><orig>ſpouſe</orig><reg resp="#auto" type="spelling">spouse</reg></choice> is <choice><orig>righteouſneſſe</orig><reg resp="#auto" type="spelling">righteousness</reg></choice>.</hi>
                      </item>
                   </list>
                </p>
@@ -3022,32 +3022,32 @@ manner of a triumph. Their people all <choice><orig>beſprinkled</orig><reg resp
                </p>
                <p>The particular exemplification thereof is</p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell rows="2">1. <choice><orig>Priuatiue</orig><reg resp="#auto" type="spelling">Privative</reg></choice>, by <choice><orig>remouing</orig><reg resp="#auto" type="spelling">removing</reg></choice> all deformity: noted in two words<choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></cell>
-                        <cell>
-                           <hi><choice><orig>Spot</orig><reg resp="#auto" type="punctuation">Spot.</reg></choice><choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></hi>
+                        <cell><choice><orig>
+                           </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#print-only" change="#review"><choice><orig>Spot</orig><reg resp="#editor" type="emendation">, <hi>spot</hi> and</reg><reg resp="#auto" type="spelling">Spot.</reg></choice><choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></hi>
                         </cell>
                      </row>
                      <row>
                         <cell>
-                           <hi>Wrinkle.</hi>
+                           <hi><choice><orig>Wrinkle</orig><reg resp="#editor" type="case">wrinkle</reg></choice>.</hi>
                         </cell>
                         <cell> </cell>
                      </row>
                   </table>
                </p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell rows="2">2. <choice><orig>Poſitiue</orig><reg resp="#auto" type="spelling">Positive</reg></choice>, by adorning her with beauty: noted <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> in two words<choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></cell>
-                        <cell>
-                           <hi><choice><orig>Holy</orig><reg resp="#auto" type="punctuation">Holy.</reg></choice><choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></hi>
+                        <cell><choice><orig>
+                           </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#print-only" change="#review"><choice><orig>Holy</orig><reg resp="#editor" type="emendation">, <hi>holy</hi> and</reg><reg resp="#auto" type="spelling">Holy.</reg></choice><choice><orig>,</orig><reg resp="#auto" type="punctuation"></reg></choice></hi>
                         </cell>
                      </row>
                      <row>
                         <cell>
-                           <hi><choice><orig>Blameleſſe</orig><reg resp="#auto" type="spelling">Blameless</reg></choice>.</hi>
+                           <hi><choice><orig>Blameleſſe</orig><reg resp="#editor" type="case">blameless</reg><reg resp="#auto" type="spelling">Blameless</reg></choice>.</hi>
                         </cell>
                         <cell> </cell>
                      </row>
@@ -3320,7 +3320,7 @@ That he may yet further <choice><orig>preſſe</orig><reg resp="#auto" type="spe
                <p n="2">2. The particular amplification, and <choice><orig>manifeſtation</orig><reg resp="#auto" type="spelling">manifestation</reg></choice> of that affection.</p>
                <p>This is <choice><orig>manifeſted</orig><reg resp="#auto" type="spelling">manifested</reg></choice> two <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell cols="3"><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>Negatiuely</orig><reg resp="#auto" type="spelling">Negatively</reg></choice>, <hi>No man hateth his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> <choice><orig>fleſh</orig><reg resp="#auto" type="spelling">flesh</reg></choice>.</hi>
                         </cell>
@@ -3329,12 +3329,12 @@ That he may yet further <choice><orig>preſſe</orig><reg resp="#auto" type="spe
                      </row>
                      <row>
                         <cell rows="2"><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>Affirmatiuely</orig><reg resp="#auto" type="spelling">Affirmatively</reg></choice>, and that in two branches</cell>
-                        <cell rend="nested" change="#review"><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <hi><choice><orig>Nouriſheth</orig><reg resp="#auto" type="spelling">Nourisheth</reg></choice></hi>
+                        <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#print-only" change="#review"><choice><orig>Nouriſheth</orig><reg resp="#editor" type="emendation">: <hi>nourisheth</hi></reg><reg resp="#auto" type="spelling">Nourisheth</reg></choice></hi>
                         </cell>
                         <cell rows="2">it.</cell>
                      </row>
                      <row>
-                        <cell rend="nested" change="#review"><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <hi><choice><orig>Cheriſheth</orig><reg resp="#auto" type="spelling">Cherisheth</reg></choice></hi>
+                        <cell><choice><orig>2</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <hi ana="#print-only" change="#review"><choice><orig>Cheriſheth</orig><reg resp="#editor" type="emendation">and <hi>cherisheth</hi></reg><reg resp="#auto" type="spelling">Cherisheth</reg></choice></hi>
                         </cell>
                         <cell> </cell>
                         <cell> </cell>
@@ -3905,11 +3905,11 @@ to <choice><orig>ſtrengthen</orig><reg resp="#auto" type="spelling">strengthen<
                <head>§. 73. <hi>Of the <choice><orig>priuiledge</orig><reg resp="#auto" type="spelling">privilege</reg></choice> of our <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> with <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> after death.</hi>
                </head>
                <p>The <choice><orig>priuiledge</orig><reg resp="#auto" type="spelling">privilege</reg></choice> which the Saints by <choice><orig>vertue</orig><reg resp="#auto" type="spelling">virtue</reg></choice> of their <choice><orig>vnion</orig><reg resp="#auto" type="spelling">union</reg></choice> with <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> <choice><orig>receiue</orig><reg resp="#auto" type="spelling">receive</reg></choice> after death, <choice><orig>farre</orig><reg resp="#auto" type="spelling">far</reg></choice> <choice><orig>ſurpaſſeth</orig><reg resp="#auto" type="spelling">surpasseth</reg></choice> all before. It may be <choice><orig>drawne</orig><reg resp="#auto" type="spelling">drawn</reg></choice> to two heads.
-<list>
+<list type="numbered" subtype="printed" change="#review">
                      <item>
                         <pb n="104" facs="tcp:3442:66"/>
-1. Their <choice><orig>Reſurrection</orig><reg resp="#auto" type="spelling">Resurrection</reg></choice>.</item>
-                     <item>2. Their glory in <choice><orig>heauen</orig><reg resp="#auto" type="spelling">heaven</reg></choice>.</item>
+<label>1.</label> Their <choice><orig>Reſurrection</orig><reg resp="#auto" type="spelling">Resurrection</reg></choice>.</item>
+                     <item><label>2.</label> Their glory in <choice><orig>heauen</orig><reg resp="#auto" type="spelling">heaven</reg></choice>.</item>
                   </list>
                </p>
                <p>That which was before <choice><orig>ſaid</orig><reg resp="#auto" type="spelling">said</reg></choice> of the difference betwixt the <choice><orig>preſeruation</orig><reg resp="#auto" type="spelling">preservation</reg></choice> of the bodies of the Saints and wicked in death, may be applied to the difference of their <choice><orig>Reſurrection</orig><reg resp="#auto" type="spelling">Resurrection</reg></choice>.</p>
@@ -4317,19 +4317,19 @@ Hitherto of the <choice><orig>literall</orig><reg resp="#auto" type="spelling">l
                </p>
                <p>The particulars of this <choice><orig>myſterie</orig><reg resp="#auto" type="spelling">mystery</reg></choice> are <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice>.</p>
                <p>
-                  <table>
+                  <table rend="inline" change="#review">
                      <row>
                         <cell rows="3">The <choice><orig>matrimoniall</orig><reg resp="#auto" type="spelling">matrimonial</reg></choice> <choice><orig>coniunction</orig><reg resp="#auto" type="spelling">conjunction</reg></choice> be<g ref="char:EOLhyphen"/>twixt <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> &amp; the Church is a <choice><orig>moſt</orig><reg resp="#auto" type="spelling">most</reg></choice></cell>
-                        <cell>Preheminent</cell>
+                        <cell><choice><orig>Preheminent</orig><reg resp="#editor" type="case">preheminent</reg></choice></cell>
                         <cell rows="3"><choice><orig>coniun<g ref="char:EOLhyphen"/>ction</orig><reg resp="#auto" type="spelling">conjunction</reg></choice>.</cell>
                      </row>
                      <row>
-                        <cell><choice><orig>Firme</orig><reg resp="#auto" type="spelling">Firm</reg></choice></cell>
-                        <cell> </cell>
-                        <cell> </cell>
+                        <cell><choice><orig>Firme</orig><reg resp="#editor" type="emendation">, firm</reg><reg resp="#auto" type="spelling">Firm</reg></choice></cell>
+                        <cell><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice></cell>
+                        <cell><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice></cell>
                      </row>
                      <row>
-                        <cell><choice><orig>Neere</orig><reg resp="#auto" type="spelling">Near</reg></choice></cell>
+                        <cell><choice><orig>Neere</orig><reg resp="#editor" type="emendation">, and near</reg><reg resp="#auto" type="spelling">Near</reg></choice></cell>
                         <cell> </cell>
                         <cell> </cell>
                      </row>
@@ -4621,9 +4621,9 @@ which the <choice><orig>Apoſtle</orig><reg resp="#auto" type="spelling">Apostle
                </p>
                <p>This <choice><orig>verſe</orig><reg resp="#auto" type="spelling">verse</reg></choice> then containeth a <choice><orig>concluſion</orig><reg resp="#auto" type="spelling">conclusion</reg></choice> of the <choice><orig>Apoſtles</orig><reg resp="#auto" type="spelling">Apostles</reg></choice> <choice><orig>diſ<g ref="char:EOLhyphen"/>courſe</orig><reg resp="#auto" type="spelling">discourse</reg></choice>, concerning the duties of husbands and <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice>.</p>
                <p>Two points are <choice><orig>eſpecially</orig><reg resp="#auto" type="spelling">especially</reg></choice> noted therein.
-<list>
-                     <item>1. A declaration of their <choice><orig>ſeuerall</orig><reg resp="#auto" type="spelling">several</reg></choice> and <choice><orig>diſtinct</orig><reg resp="#auto" type="spelling">distinct</reg></choice> duties.</item>
-                     <item>2. A direction to apply their <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> proper duties each of them to <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice>.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> A declaration of their <choice><orig>ſeuerall</orig><reg resp="#auto" type="spelling">several</reg></choice> and <choice><orig>diſtinct</orig><reg resp="#auto" type="spelling">distinct</reg></choice> duties.</item>
+                     <item><label>2.</label> A direction to apply their <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> proper duties each of them to <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice>.</item>
                   </list>
                </p>
                <p>
@@ -5034,12 +5034,12 @@ condemneth him that neglecteth either of them. Yet to <choice><orig>ſhew</orig>
                         <hi>Gen.</hi> 15. 16.</note> name to <choice><orig>ſtinke</orig><reg resp="#auto" type="spelling">stink</reg></choice> the more on earth, as a <choice><orig>carion</orig><reg resp="#auto" type="spelling">carrion</reg></choice> the longer it re<g ref="char:EOLhyphen"/>maineth <choice><orig>aboue</orig><reg resp="#auto" type="spelling">above</reg></choice> ground the more it <choice><orig>ſtinketh</orig><reg resp="#auto" type="spelling">stinketh</reg></choice>: and they <choice><orig>cauſe</orig><reg resp="#auto" type="spelling">cause</reg></choice> the greater torment in hell to be inflicted <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> them: for as <note place="margin">
                         <hi>Rom.</hi> 2. 5.</note> <choice><orig>ſinne</orig><reg resp="#auto" type="spelling">sin</reg></choice> is <choice><orig>increaſed</orig><reg resp="#auto" type="spelling">increased</reg></choice>, <choice><orig>ſo</orig><reg resp="#auto" type="spelling">so</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> that torment be <choice><orig>increaſed</orig><reg resp="#auto" type="spelling">increased</reg></choice>.</p>
                   <p>The righteous <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> their <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice> <choice><orig>ſhortned</orig><reg resp="#auto" type="spelling">shortened</reg></choice> for their good, when they are <choice><orig>ſhortned</orig><reg resp="#auto" type="spelling">shortened</reg></choice>, and that in <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice>, and <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> like <choice><orig>reſpects</orig><reg resp="#auto" type="spelling">respects</reg></choice>
-<list>
-                        <item>1. That they may be <note n="m" place="margin">1 <hi>King.</hi> 14. 13.</note> taken from the <choice><orig>euill</orig><reg resp="#auto" type="spelling">evil</reg></choice> to come.</item>
-                        <item>2. That they might be made an <note n="n" place="margin">1 <hi>King.</hi> 13. <choice><orig>14</orig><reg resp="#editor" type="emendation">24</reg></choice>.</note> example to others.</item>
-                        <item>3. <note place="margin">
+<list type="numbered" subtype="printed" change="#review">
+                        <item><label>1.</label> That they may be <note n="m" place="margin">1 <hi>King.</hi> 14. 13.</note> taken from the <choice><orig>euill</orig><reg resp="#auto" type="spelling">evil</reg></choice> to come.</item>
+                        <item><label>2.</label> That they might be made an <note n="n" place="margin">1 <hi>King.</hi> 13. <choice><orig>14</orig><reg resp="#editor" type="emendation">24</reg></choice>.</note> example to others.</item>
+                        <item><label>3.</label> <note place="margin">
                               <hi><choice><orig>Iſa</orig><reg resp="#auto" type="spelling">Isa</reg></choice>.</hi> <choice><orig>17</orig><reg resp="#editor" type="emendation">57</reg></choice>. 1.</note> That <note n="o" place="margin">1 <hi>Cor.</hi> 11. 32.</note> by a <choice><orig>temporall</orig><reg resp="#auto" type="spelling">temporal</reg></choice> death <choice><orig>eternall</orig><reg resp="#auto" type="spelling">eternal</reg></choice> condemnation might be <choice><orig>auoided</orig><reg resp="#auto" type="spelling">avoided</reg></choice>.</item>
-                        <item>4. That their <note n="p" place="margin">
+                        <item><label>4.</label> That their <note n="p" place="margin">
                               <hi>Gen.</hi> 5. 24. <hi>Heb.</hi> 11. 5.</note> <choice><orig>chiefeſt</orig><reg resp="#auto" type="spelling">chiefest</reg></choice> and <choice><orig>greateſt</orig><reg resp="#auto" type="spelling">greatest</reg></choice> reward might be <choice><orig>haſtened</orig><reg resp="#auto" type="spelling">hastened</reg></choice>.</item>
                      </list>
                   </p>
@@ -8920,8 +8920,8 @@ no way <choice><orig>preuaile</orig><reg resp="#auto" type="spelling">prevail</r
                   <pb n="310" facs="tcp:3442:166"/>
                   <hi>her <choice><orig>ſonne</orig><reg resp="#auto" type="spelling">son</reg></choice> <choice><orig>yeare</orig><reg resp="#auto" type="spelling">year</reg></choice> by <choice><orig>yeare</orig><reg resp="#auto" type="spelling">year</reg></choice> when <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> went <choice><orig>vp</orig><reg resp="#auto" type="spelling">up</reg></choice> with her husband,</hi> <choice><orig>ſheweth</orig><reg resp="#auto" type="spelling">showeth</reg></choice> that <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> did it not without her husbands <choice><orig>conſent</orig><reg resp="#auto" type="spelling">consent</reg></choice>. Women are for the <choice><orig>moſt</orig><reg resp="#auto" type="spelling">most</reg></choice> part prone to <choice><orig>pranke</orig><reg resp="#auto" type="spelling">prank</reg></choice> <choice><orig>vp</orig><reg resp="#auto" type="spelling">up</reg></choice> their chil<g ref="char:EOLhyphen"/>dren <choice><orig>aboue</orig><reg resp="#auto" type="spelling">above</reg></choice> their husbands place and calling, and therefore good <choice><orig>reaſon</orig><reg resp="#auto" type="spelling">reason</reg></choice> that therein they <choice><orig>ſhould</orig><reg resp="#auto" type="spelling">should</reg></choice> be <choice><orig>gouerned</orig><reg resp="#auto" type="spelling">governed</reg></choice> by their husbands.</p>
                <div type="question">
-                  <head xml:id="rb1" next="#rb2"><hi ana="#edition-only" change="#review"><choice><orig>Obiect</orig><reg resp="#auto" type="spelling">Object</reg></choice>.</hi></head>
-                  <p xml:id="rb2" prev="#rb1" change="#review">What if husbands be more forward to <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> their children attired vainly and <choice><orig>vnſeemely</orig><reg resp="#auto" type="spelling">unseemly</reg></choice>, then <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice>?</p>
+                  <head xml:id="rb3" next="#rb4"><hi ana="#edition-only" change="#review"><choice><orig>Obiect</orig><reg resp="#auto" type="spelling">Object</reg></choice>.</hi></head>
+                  <p xml:id="rb4" prev="#rb3" change="#review">What if husbands be more forward to <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> their children attired vainly and <choice><orig>vnſeemely</orig><reg resp="#auto" type="spelling">unseemly</reg></choice>, then <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice>?</p>
                   <p>
                      <hi><choice><orig>Anſw</orig><reg resp="#auto" type="spelling">Answ</reg></choice>.</hi> A wife <choice><orig>muſt</orig><reg resp="#auto" type="spelling">must</reg></choice> <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> what <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> can to hinder it: if <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> can no way <choice><orig>preuaile</orig><reg resp="#auto" type="spelling">prevail</reg></choice> with him, <choice><orig>ſhe</orig><reg resp="#auto" type="spelling">she</reg></choice> by <choice><orig>reaſon</orig><reg resp="#auto" type="spelling">reason</reg></choice> of her <choice><orig>ſubiection</orig><reg resp="#auto" type="spelling">subjection</reg></choice> is much more <choice><orig>excuſed</orig><reg resp="#auto" type="spelling">excused</reg></choice>, then he could be, if he would <choice><orig>ſuffer</orig><reg resp="#auto" type="spelling">suffer</reg></choice> his wife therein to <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> her will.</p>
                   <p n="5">5. The law that layeth the charge <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> husbands to <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> <note place="margin">5. Portions. <hi>Deut.</hi> 21. 15, <hi><choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>.</hi>
@@ -17490,10 +17490,10 @@ or a <choice><orig>clerke</orig><reg resp="#auto" type="spelling">clerk</reg></c
                   <hi>to guide the <choice><orig>houſe</orig><reg resp="#auto" type="spelling">house</reg></choice>,</hi> or to rule, and <choice><orig>performe</orig><reg resp="#auto" type="spelling">perform</reg></choice> the part of a <choice><orig>miſtreſſe</orig><reg resp="#auto" type="spelling">mistress</reg></choice> therein. It was the <note n="c" place="margin">
                      <hi>Mat.</hi> 8. 9.</note> Centurions commendation, that <choice><orig>hauing</orig><reg resp="#auto" type="spelling">having</reg></choice> <choice><orig>ſeruants</orig><reg resp="#auto" type="spelling">servants</reg></choice> <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> him, he had them at his command.</p>
                <p n="1">1. Gods image and <choice><orig>authoritie</orig><reg resp="#auto" type="spelling">authority</reg></choice>, which a <choice><orig>maſter</orig><reg resp="#auto" type="spelling">master</reg></choice> carrieth, is thus <choice><orig>pre<g ref="char:EOLhyphen"/>ſerued</orig><reg resp="#auto" type="spelling">preserved</reg></choice>.</p>
-               <p n="2" xml:id="rb3" next="#rb4">2. Thus <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> a <choice><orig>maſter</orig><reg resp="#auto" type="spelling">master</reg></choice> <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> much better <choice><orig>ſeruice</orig><reg resp="#auto" type="spelling">service</reg></choice> done. Not one <choice><orig>ſer<g ref="char:EOLhyphen"/>uant</orig><reg resp="#auto" type="spelling">servant</reg></choice> of a <choice><orig>thouſand</orig><reg resp="#auto" type="spelling">thousand</reg></choice>, that is not kept <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> <choice><orig>authoritie</orig><reg resp="#auto" type="spelling">authority</reg></choice>, will <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> good <choice><orig>ſer<g ref="char:EOLhyphen"/>uice</orig><reg resp="#auto" type="spelling">service</reg></choice>. A like <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> to this was <choice><orig>enioyned</orig><reg resp="#auto" type="spelling">enjoined</reg></choice> to an husband in relation to a wife, Treat. 4.</p>
+               <p n="2" xml:id="rb5" next="#rb6">2. Thus <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> a <choice><orig>maſter</orig><reg resp="#auto" type="spelling">master</reg></choice> <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> much better <choice><orig>ſeruice</orig><reg resp="#auto" type="spelling">service</reg></choice> done. Not one <choice><orig>ſer<g ref="char:EOLhyphen"/>uant</orig><reg resp="#auto" type="spelling">servant</reg></choice> of a <choice><orig>thouſand</orig><reg resp="#auto" type="spelling">thousand</reg></choice>, that is not kept <choice><orig>vnder</orig><reg resp="#auto" type="spelling">under</reg></choice> <choice><orig>authoritie</orig><reg resp="#auto" type="spelling">authority</reg></choice>, will <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> good <choice><orig>ſer<g ref="char:EOLhyphen"/>uice</orig><reg resp="#auto" type="spelling">service</reg></choice>. A like <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> to this was <choice><orig>enioyned</orig><reg resp="#auto" type="spelling">enjoined</reg></choice> to an husband in relation to a wife, Treat. 4.</p>
             </div>
             <div n="4" type="section">
-               <head xml:id="rb4" prev="#rb3" change="#review">§. 4. Some of the <choice><orig>reaſons</orig><reg resp="#auto" type="spelling">reasons</reg></choice>, directions, &amp; other points there handled, may be here applied. Read it therefore.</head>
+               <head xml:id="rb6" prev="#rb5" change="#review">§. 4. Some of the <choice><orig>reaſons</orig><reg resp="#auto" type="spelling">reasons</reg></choice>, directions, &amp; other points there handled, may be here applied. Read it therefore.</head>
                <p>For this end three things are to be <choice><orig>obſerued</orig><reg resp="#auto" type="spelling">observed</reg></choice>. <note place="margin">Direction.</note>
                </p>
                <p n="1">1. That <choice><orig>maſters</orig><reg resp="#auto" type="spelling">masters</reg></choice> <choice><orig>carrie</orig><reg resp="#auto" type="spelling">carry</reg></choice> <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> worthy of their place, and worthy of that honour which is due to them: which may <choice><orig>beſt</orig><reg resp="#auto" type="spelling">best</reg></choice> be done by making <choice><orig>themſelues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> a <choice><orig>patterne</orig><reg resp="#auto" type="spelling">pattern</reg></choice> of <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> good things as in their places <choice><orig>appertaine</orig><reg resp="#auto" type="spelling">appertain</reg></choice> to them. <note n="d" place="margin">

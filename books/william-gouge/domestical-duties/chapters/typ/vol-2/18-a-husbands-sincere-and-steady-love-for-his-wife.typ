@@ -64,9 +64,9 @@ IIII. Christs love for the #emph[quality] is an holy, pure, chaste, #footnote[4\
 
 Hereby husbands must learn so to be affected towards #footnote[Husbands love must be #emph[chaste. Heb.] 13. 4.] their wives as may stand with holiness, and chastity: though much love be required, yet it may not over-flow those banks. #emph[Marriage is honourable and a bed undefiled.] It must therefore be used as an undefiled thing. This indeed appertaineth to the wife as well as to the husband. But because he is the head, and guide of his wife, and ought to be as a pattern and precedent before her, as Christ is before him, therefore is it more specially applied to him. The purity of an husbands love here spoken of, hath a double use,
 
-1. It restraineth an husbands love to his own wife. There is a general Christian love whereby all occasions of doing good are taken, with which an husband may, and ought to love others: and a particular matrimonial love, whereby he is moved to prefer his wife before all, and to have his heart set and fixed on her, and so proper and peculiar to her.
+1\. It restraineth an husbands love to his own wife. There is a general Christian love whereby all occasions of doing good are taken, with which an husband may, and ought to love others: and a particular matrimonial love, whereby he is moved to prefer his wife before all, and to have his heart set and fixed on her, and so proper and peculiar to her.
 
-2. It orders and moderates his love, so as it turneth not into sinful lust, whereby that estate, (which in it self by virtue of Gods ordinance, is holy) is polluted.
+2\. It orders and moderates his love, so as it turneth not into sinful lust, whereby that estate, (which in it self by virtue of Gods ordinance, is holy) is polluted.
 
 === §. 68. #emph[Of husbands lightness.]
 
@@ -78,9 +78,9 @@ The #emph[quantity] of Christs love cannot be expressed: for the #footnote[5\. C
 
 This may seem to be too high a strain, and pitch of love for an husband to attain unto: a matter wherein he is to #footnote[How husbands must love their wives more then themselves. 1 #emph[John.] 3. 16.] leave his pattern, and not to follow Christ: but yet #emph[S. John] addeth even this extent to the love of our brethren: #emph[We ought] (saith he) #emph[to lay down our lives for the brethren:] therefore by just consequence for our wives. But that this extent be not stretched too far, and husbands cast into a pit of needless peril, two cautions must be noted,
 
-1. That there be an absolute necessity, to bring us to this #footnote[Cautions about an husbands loving his wife more then himself.] strait of parting with our life: which is, when the good we aim at in the behalf of our wives cannot any other way be effected, but by venturing our life. There was no other way to redeem the Church, but by the blood of Christ.
+1\. That there be an absolute necessity, to bring us to this #footnote[Cautions about an husbands loving his wife more then himself.] strait of parting with our life: which is, when the good we aim at in the behalf of our wives cannot any other way be effected, but by venturing our life. There was no other way to redeem the Church, but by the blood of Christ.
 
-2. That the good we intend in this case to our wives be of greater value then our temporal life: as is the good of her soul, the saving of it. Thus the Apostle saith, #emph[I will most gladly bestow, and be bestowed for your souls.] Which mind men must much more #footnote[2 #emph[Cor.] 12. 15.] carry towards their wives. It was for our salvation that Christ gave himself.
+2\. That the good we intend in this case to our wives be of greater value then our temporal life: as is the good of her soul, the saving of it. Thus the Apostle saith, #emph[I will most gladly bestow, and be bestowed for your souls.] Which mind men must much more #footnote[2 #emph[Cor.] 12. 15.] carry towards their wives. It was for our salvation that Christ gave himself.
 
 === §. 70. #emph[Of husbands unkindness.]
 
@@ -98,9 +98,9 @@ For his love resteth not on the desert of his Church, but on the unchangeablenes
 
 This last branch must be added to all the former branches #footnote[Husbands must be constant in their love.] of an husbands love, or else they will be all in vain and to no purpose. This giveth the truest trial of sound love. Such was the love betwixt #emph[David] and #emph[Jonathan:] the soundest love that ever was, betwixt party and party. This bringeth the greatest glory to the party which loveth: and the greatest benefit to the party which is loved. That a mans love may thus remain firm and inviolable,
 
-1. He must be sure to lay a good foundation; he must ground his love on Gods ordinance: and love his wife in regard of the matrimonial bond which knitteth them together, and that near union which thence ariseth; and so it will last so long as that knot lasteth.
+1\. He must be sure to lay a good foundation; he must ground his love on Gods ordinance: and love his wife in regard of the matrimonial bond which knitteth them together, and that near union which thence ariseth; and so it will last so long as that knot lasteth.
 
-2. He must further support and strengthen it with an inviolable resolution to be changed and altered with no provocation, but rather to pass by all infirmities; endeavouring in love to redress them if possibly he can: if not, to bear with them.
+2\. He must further support and strengthen it with an inviolable resolution to be changed and altered with no provocation, but rather to pass by all infirmities; endeavouring in love to redress them if possibly he can: if not, to bear with them.
 
 === §. 73. #emph[Of husbands variableness.]
 
@@ -146,9 +146,9 @@ But who greater then Christ? What more worthy pattern? If (as was #footnote[Trea
 
 Two things there be which in Christs example are especially #footnote[Two things in Christs pattern provoke husbands to love their wives.] to be noted to move husbands to love their wives.
 
-1. That great inequality which is betwixt him and his spouse.
+1\. That great inequality which is betwixt him and his spouse.
 
-2. That small benefit which he reapeth by loving her.
+2\. That small benefit which he reapeth by loving her.
 
 For the better discerning of that #emph[inequality,] the #emph[greatness] of #footnote[1\. The great inequality betwixt Christ and his spouse.] Christ on the one side, and the #emph[meanness] of the Church on the other, are duly to be weighed.
 
@@ -176,19 +176,19 @@ To apply this point also, and to bring it to the conclusion: #footnote[Christs e
 
 This example of Christ is the rather to be noted, because it clean wipeth away all those false colours, and vain pretences which many allege as reasons, to show that there is little reason they should love their wives: some of their pretences are these.
 
-1. Their wives are of a far meaner rank then #footnote[1\. #emph[Object.]] themselves; should they then perform duty to their inferiors? They commonly who marry their kitchen maids, or others far under their degree, allege this pretence.
+1\. Their wives are of a far meaner rank then #footnote[1\. #emph[Object.]] themselves; should they then perform duty to their inferiors? They commonly who marry their kitchen maids, or others far under their degree, allege this pretence.
 
 #emph[Answ.] I might reply, That marriage advanceth a wife to the degree of her husband: and that it was his own folly to marry one so mean: but for the purpose and point in hand, let any tell me, whether the supposed disparity betwixt them & their wives, be in any degree comparable to that which is betwixt Christ and the Church: yet Christ thinketh not much to do duties of love to his Church.
 
-2. There is nothing in their wives worthy to be loved. #footnote[2\. #emph[Object.]]
+2\. There is nothing in their wives worthy to be loved. #footnote[2\. #emph[Object.]]
 
 #emph[Answ.] This very thing, that #emph[such an one is thy wife,] is matter enough to make her worthy of love. But what was there in the Church to make her worthy of Christs love? If it be said that she is endued with many excellent graces, which make her amiable in Christs sight: I answer, that of her self she hath none of those graces, Christ hath bestowed them upon her, and so made her amiable: and thus oughtest thou to endeavour by using all good means thou canst to make thy wife answerable to thy love: but howsoever, to love her.
 
-3. Their wives give just occasion to be hated by reason of their #footnote[3\. #emph[Object.]] peevishness, stoutness, insolency, and other like intolerable vices.
+3\. Their wives give just occasion to be hated by reason of their #footnote[3\. #emph[Object.]] peevishness, stoutness, insolency, and other like intolerable vices.
 
 #emph[Answ.] No occasion may seem just to move an husband to hate his wife: nor any vice seem to him intolerable: with goodness he ought to overcome evil. If notorious sins seemed intolerable to Christ, or that he thought any occasion just to cause hatred, many that are of his Church would oft draw his hatred upon them: but Christ hateth never a member of his Church.
 
-4. There is no hope that ever I shall receive any help of my #footnote[4\. #emph[Object.]] wife, or benefit from her.
+4\. There is no hope that ever I shall receive any help of my #footnote[4\. #emph[Object.]] wife, or benefit from her.
 
 #emph[Answ.] There is little charity in such as can conceive no hope: for #emph[love hopeth all things:] but yet the case so standeth with Christ. The #footnote[1 #emph[Cor.] 13. 7.] Church is so utterly unable to help or benefit him, as he may justly say, he cannot hope to receive any thing from her. Christ loveth the church for her own good, not for his; so ought husbands. Thus if Christs example be well weighed, & observed of husbands, it will afford matter enough to remove every doubt or scruple raised to alienate their affections from their wives. Fitly therefore hath the Apostle set it before husbands, both to direct them how to love their wives, and also to move them so to do.
 
@@ -196,12 +196,12 @@ This example of Christ is the rather to be noted, because it clean wipeth away a
 
 To the same purpose that Christs example tendeth, tendeth also the pattern of a mans self. Great is the affection that a man beareth to himself, to his own flesh, his own body: he never hateth, but ever loveth himself: no sore, no disease, no pain, no stench that the flesh bringeth to a man, can make him hate it: but rather all manner of infirmities do make him the more to pity, tender, and cherish it. This is a work of nature: the most heathenish, and barbarous, that ever were, do it. Now a wife being to a man as his body and his flesh (for #emph[they two are one flesh)] and God having commanded men to #emph[love their wives as their own bodies,] these conclusions will necessarily follow from this motive:
 
-1. He that loveth not his wife is more carried with the instinct of nature, then with the express charge of the God of nature. Natures instinct moveth him to love his body. But Gods express charge moveth him not, to love his wife.
+1\. He that loveth not his wife is more carried with the instinct of nature, then with the express charge of the God of nature. Natures instinct moveth him to love his body. But Gods express charge moveth him not, to love his wife.
 
-2. He that loveth not his wife is worse then an infidel and a barbarian, yea then a very beast: for all these love their own bodies, and their own flesh: but a wife (by Gods ordinance) is as ones body, and his flesh.
+2\. He that loveth not his wife is worse then an infidel and a barbarian, yea then a very beast: for all these love their own bodies, and their own flesh: but a wife (by Gods ordinance) is as ones body, and his flesh.
 
-3. He #emph[that loveth his wife loveth himself:] the Apostle himself #footnote[#emph[vers.] 28.] in these very words layeth down this conclusion: from whence by the rule of contraries this also will follow, #emph[He that loveth not his wife, loveth not himself.]
+3\. He #emph[that loveth his wife loveth himself:] the Apostle himself #footnote[#emph[vers.] 28.] in these very words layeth down this conclusion: from whence by the rule of contraries this also will follow, #emph[He that loveth not his wife, loveth not himself.]
 
-4. He that loveth not his wife cannot but bring woe and mischief upon himself. For the damage and mischief which followeth on a wife, through any neglect of duty on her husbands part, followeth also on him: as the mischief which followeth on the body through any negligence of the head, lighteth also on the head.
+4\. He that loveth not his wife cannot but bring woe and mischief upon himself. For the damage and mischief which followeth on a wife, through any neglect of duty on her husbands part, followeth also on him: as the mischief which followeth on the body through any negligence of the head, lighteth also on the head.
 
 If these be not motives sufficient to provoke an husband to love his wife, I know not what can be sufficient.

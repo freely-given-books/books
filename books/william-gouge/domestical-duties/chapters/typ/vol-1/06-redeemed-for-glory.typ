@@ -3,7 +3,7 @@
 === §. 48. #emph[Of the Inference of Glorification upon Justification and Sanctification.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
@@ -15,15 +15,15 @@
 
 The most principal end, in regard of the Churches good, which Christ aimed at when he gave himself for her, is her glorious estate in heaven: this is the end of the forenamed end. For why did Christ give himself for the Church? #emph[That he might sanctify it, having cleansed it:] why did he cleanse, and sanctify it? #emph[That he might present it to himself a glorious Church.] Hence note these three points.
 
-- 1\. #emph[Justification and sanctification must go before glorification.]
-- 2\. #emph[The end why the Saints are cleansed and sanctified in this world, is that they may be presented glorious to Christ in the world to come.]
-- 3\. #emph[The only means to make us glorious before Christ our spouse is righteousness.]
++ #emph[Justification and sanctification must go before glorification.]
++ #emph[The end why the Saints are cleansed and sanctified in this world, is that they may be presented glorious to Christ in the world to come.]
++ #emph[The only means to make us glorious before Christ our spouse is righteousness.]
 
-1. All those places of Scripture which set our righteousness in this world before our glory in the world to come (as #footnote[#emph[Tit.] 2. 12, 13. 2 #emph[Tim.] 4. 7, 8.] very many places do) do prove the first point, that #emph[Justification and Sanctification must go before Glorification.] Among #footnote[Men must be justified and sanctified before they can be glorified. #emph[Rom.] 8. 30.] other proofs note especially the order of the several links of that golden chain that reacheth from Gods eternal counsel before the world, unto our everlasting glory after this world, #emph[Whom he did predestinate them he also called; and whom he called them he also justified; and whom he justified them he also glorified.]
+1\. All those places of Scripture which set our righteousness in this world before our glory in the world to come (as #footnote[#emph[Tit.] 2. 12, 13. 2 #emph[Tim.] 4. 7, 8.] very many places do) do prove the first point, that #emph[Justification and Sanctification must go before Glorification.] Among #footnote[Men must be justified and sanctified before they can be glorified. #emph[Rom.] 8. 30.] other proofs note especially the order of the several links of that golden chain that reacheth from Gods eternal counsel before the world, unto our everlasting glory after this world, #emph[Whom he did predestinate them he also called; and whom he called them he also justified; and whom he justified them he also glorified.]
 
-1. Heaven, the place of our glorification, is #emph[an holy City,] #footnote[#emph[Reasons. Rev.] 21. 10, 27.] #emph[whereinto no unclean thing shall enter.]
+1\. Heaven, the place of our glorification, is #emph[an holy City,] #footnote[#emph[Reasons. Rev.] 21. 10, 27.] #emph[whereinto no unclean thing shall enter.]
 
-2. In that place the Church is to be married unto Christ, and to be ever with him: she must therefore #emph[be pure as he is] #footnote[1 #emph[Joh.] 3. 2, 3.] #emph[pure:] for he will not endure the society of a foul filthy spouse.
+2\. In that place the Church is to be married unto Christ, and to be ever with him: she must therefore #emph[be pure as he is] #footnote[1 #emph[Joh.] 3. 2, 3.] #emph[pure:] for he will not endure the society of a foul filthy spouse.
 
 As we desire assurance of our glorification in heaven, so #footnote[Use.] let us get, and give evidence of our justification and sanctification on earth. The evidence of our justification is a sound and true faith. The evidence of our sanctification is a good and clear conscience.
 
@@ -31,7 +31,7 @@ The forenamed proofs and reasons do also confirm the #footnote[We are here clean
 
 It is therefore needful and behoveful, not only in regard of #footnote[#emph[Ex eo quod hic accipit Ecclesia ad illam gloriam quae hic non est, perfectionemque perducitur. Aug. Retract. l.] 1. #emph[c.] 7.] Christs honour, but also of our own glory and happiness, that here while we live on earth we be sanctified and cleansed. If Christ for our sakes had an eye at our future and everlasting glory, and for that end prepared means to bring us thereunto, ought not we our selves much rather have an eye thereat, and both avoid all things which may hinder it, and use all means whereby we may be assured of it? #emph[Moses had respect unto the recompense of the reward.] Yea #emph[Christ for the joy which] #footnote[#emph[Heb.] 11. 26. & 12. 2.] #emph[was set before him endured the cross, and despised the shame.]
 
-3. That #emph[Righteousness is the only means to make us glorious] #footnote[Righteousness the only means to make us glorious.] #emph[before Christ our spouse,] is evident by this, that Christ gave himself to work and effect this means for this end. Christ himself by his death, hath consecrated this, and no other means. If there be any other means then that which Christ by offering up himself hath procured, what need Christ to have been offered up? To show that this is the means to make the Church glorious before Christ, the Holy Ghost resembleth the #emph[righteousness of the Saints] to #emph[fine linen, clean, and white,] #footnote[#emph[Rev.] 19. 7, 8.] wherewith the wife of the Lamb is made ready against the day of marriage.
+3\. That #emph[Righteousness is the only means to make us glorious] #footnote[Righteousness the only means to make us glorious.] #emph[before Christ our spouse,] is evident by this, that Christ gave himself to work and effect this means for this end. Christ himself by his death, hath consecrated this, and no other means. If there be any other means then that which Christ by offering up himself hath procured, what need Christ to have been offered up? To show that this is the means to make the Church glorious before Christ, the Holy Ghost resembleth the #emph[righteousness of the Saints] to #emph[fine linen, clean, and white,] #footnote[#emph[Rev.] 19. 7, 8.] wherewith the wife of the Lamb is made ready against the day of marriage.
 
 Christ himself #emph[loveth righteousness and hateth wickedness:] #footnote[#emph[Reason. Psal.] 45. 7.] they therefore, and none but they that are arrayed with righteousness, are glorious in his eyes.
 
@@ -44,7 +44,7 @@ For our parts as we desire to appear before Christ so as he #footnote[Use.] may 
 === §. 49. #emph[Of the fruition of Christs presence in heaven.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
@@ -68,15 +68,9 @@ In the general proposition is noted
 
 The particular exemplification thereof is
 
-1\. Privative, by removing all deformity: noted in two words
+1\. Privative, by removing all deformity: noted in two words, #emph[spot] and #emph[wrinkle.]
 
-+ #emph[Spot.]
-+ #emph[Wrinkle.]
-
-2\. Positive, by adorning her with beauty: noted also in two words
-
-+ #emph[Holy.]
-+ #emph[Blameless.]
+2\. Positive, by adorning her with beauty: noted also in two words, #emph[holy] and #emph[blameless.]
 
 The word #emph[(present)] is taken from the custom of solemnizing #footnote[παραστήσῃ.] a marriage: first the spouse was wooed, and then set before her husband that he might take her to wife, to be with him. Thus #footnote[#emph[Gen.] 2. 22.] #emph[Eve] was presented by God to #emph[Adam] that he might take her for his wife: and #footnote[#emph[Est.] 2. 13.] #emph[Esther] among other virgins was presented to #emph[Ahasuerus.] This showeth that #footnote[Doct.]
 

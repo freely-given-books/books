@@ -3,20 +3,20 @@
 | kind | count |
 | --- | --- |
 | spelling | 648 |
-| emendation | 271 |
+| emendation | 281 |
 | grammar | 147 |
-| case | 104 |
+| case | 110 |
 | punctuation | 82 |
 | gap | 49 |
-| italic | 36 |
-| spacing | 26 |
+| italic | 40 |
+| spacing | 34 |
+| list | 34 |
 | expansion | 25 |
-| list | 9 |
 | split | 6 |
 | note | 5 |
 | note moved | 4 |
+| merge | 3 |
 | epigraph | 2 |
-| merge | 2 |
 | skipped | 1 |
 
 ## split
@@ -127,6 +127,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] instrip tum → inscriptum
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] 116 → 119
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Ec l → Eccl
+- [vol-1/03-headship-in-marriage-and-the-church.typ] The → and the
 - [vol-1/03-headship-in-marriage-and-the-church.typ] samething → same thing
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
@@ -135,6 +136,7 @@
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] 32 → 22
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] necessita → se
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] e → necessitate
+- [vol-1/04-husbands-and-the-love-of-christ.typ] Declaration → , partly as a declaration
 - [vol-1/04-husbands-and-the-love-of-christ.typ] Churchwith → Church with
 - [vol-1/04-husbands-and-the-love-of-christ.typ] herself → her self
 - [vol-1/05-love-that-purifies-the-unclean.typ note] pulcl . ritudo → pulchritudo
@@ -143,12 +145,16 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Pasch a → Pascha
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Bh em → Rhem
 - [vol-1/05-love-that-purifies-the-unclean.typ] Ahash - verosh → Ahasuerus
+- [vol-1/05-love-that-purifies-the-unclean.typ] In → : in
+- [vol-1/05-love-that-purifies-the-unclean.typ] In → and in
 - [vol-1/05-love-that-purifies-the-unclean.typ] on → or
 - [vol-1/06-redeemed-for-glory.typ note] co → eo
 - [vol-1/06-redeemed-for-glory.typ note] vtram que → vtramque
 - [vol-1/06-redeemed-for-glory.typ note] quo l → quod
 - [vol-1/06-redeemed-for-glory.typ] ourselves → our selves
 - [vol-1/06-redeemed-for-glory.typ] 44 → 49
+- [vol-1/06-redeemed-for-glory.typ] Spot. → , spot and
+- [vol-1/06-redeemed-for-glory.typ] Holy. → , holy and
 - [vol-1/06-redeemed-for-glory.typ] Ahash - verosh → Ahasuerus
 - [vol-1/06-redeemed-for-glory.typ] wrinkl - → wrinkle
 - [vol-1/06-redeemed-for-glory.typ] Thereshall → There shall
@@ -156,6 +162,8 @@
 - [vol-1/07-marital-love-and-self-love.typ note] so → se
 - [vol-1/07-marital-love-and-self-love.typ] andraiment → and raiment
 - [vol-1/07-marital-love-and-self-love.typ] setforth → set forth
+- [vol-1/07-marital-love-and-self-love.typ] Nourisheth → : nourisheth
+- [vol-1/07-marital-love-and-self-love.typ] Cherisheth → and cherisheth
 - [vol-1/07-marital-love-and-self-love.typ] otheralso → other also
 - [vol-1/07-marital-love-and-self-love.typ] wisestmen → wisest men
 - [vol-1/07-marital-love-and-self-love.typ] I doll → Idol
@@ -168,6 +176,8 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Firm → , firm
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Near → , and near
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] Ahash - verosh → Ahasuerus
@@ -536,7 +546,7 @@
 
 - holy → Holy (×27)
 - children → Children (×8)
-- The → the (×4)
+- The → the (×5)
 - love → Love (×4)
 - And → and (×3)
 - note → Note (×3)
@@ -552,7 +562,9 @@
 - the → The (×2)
 - A → a
 - Because → because
+- Blameless → blameless
 - But → but
+- Confirmation → confirmation
 - Declare → declare
 - Extent → extent
 - First → first
@@ -561,12 +573,15 @@
 - May → may
 - Misinterpret → misinterpret
 - OF → Of
+- Of → of
+- Preheminent → preheminent
 - See → see
 - Sin → sin
 - THE → The
 - TO → To
 - Their → their
 - Told → told
+- Wrinkle → wrinkle
 - Years → years
 - child → Child
 - example → Example

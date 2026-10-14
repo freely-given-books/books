@@ -3,7 +3,7 @@
 === §. 90. #emph[Of the mystery of the union of Christ and the Church.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 32.]
 
@@ -17,9 +17,9 @@ This verse is a conclusion of that excellent digression which the Apostle hath m
 
 In it two points are to be noted.
 
-1. A pathetical exclamation #emph[(This is a great mystery.)]
+1\. A pathetical exclamation #emph[(This is a great mystery.)]
 
-2. A particular application of the forenamed law #emph[(but I speak concerning Christ and the Church.)]
+2\. A particular application of the forenamed law #emph[(but I speak concerning Christ and the Church.)]
 
 Here first note that
 
@@ -31,21 +31,21 @@ A #emph[mystery] is a divine secret. #footnote[Of a mystery see more in the whol
 
 A #emph[Secret] it is in two respects.
 
-1. Because it is not known.
+1\. Because it is not known.
 
-2. Because it is unsearchable: the depth of it cannot be fathomed.
+2\. Because it is unsearchable: the depth of it cannot be fathomed.
 
 It is a #emph[Divine] secret, for two other respects.
 
-1. Because it could not have been opened but by divine revelation.
+1\. Because it could not have been opened but by divine revelation.
 
-2. Because when it is opened it cannot be conceived but by the illumination of the Spirit. That Spirit which openeth and revealeth the mystery, must also open the eyes of our understanding to discern aright of it.
+2\. Because when it is opened it cannot be conceived but by the illumination of the Spirit. That Spirit which openeth and revealeth the mystery, must also open the eyes of our understanding to discern aright of it.
 
 It is further said to be a #emph[great] mystery.
 
-1. #emph[Simply] in it self, because the matter thereof is deep, #footnote[1\. #emph[Use.] The mystery of our union with Christ not to be measured with the line of our reason.] difficult, weighty, and of great moment.
+1\. #emph[Simply] in it self, because the matter thereof is deep, #footnote[1\. #emph[Use.] The mystery of our union with Christ not to be measured with the line of our reason.] difficult, weighty, and of great moment.
 
-2. #emph[Comparatively] in relation to other mysteries: no mystery revealed in Gods word comparable to it.
+2\. #emph[Comparatively] in relation to other mysteries: no mystery revealed in Gods word comparable to it.
 
 Let us not presume to measure it with the line of our own reason. It being #emph[a great mystery,] it is above our capacity: yet because it is revealed we must believe it, as we do the mysteries of the Trinity, of Christs eternal generation, of the personal union of his two natures, of the proceeding of the Holy Ghost, with the like; because the word hath revealed them, though we cannot fully see the reason of them. Herein lieth a main difference betwixt our estate in this world and in the world to come: here we must believe what we know but in part: there we shall perfectly know whatsoever is to be believed. Preachers can but in part make known this mystery, and hearers can but in part conceive it, let us therefore wait for perfect understanding of it, till all things be perfected in Christ: but in the mean time believe without doubting or wavering, that which is revealed of it.
 
@@ -63,9 +63,9 @@ One, that they make the Pope a Spouse of the Church. With what face can any appl
 
 The other error is, that #emph[marriage is a Sacrament:] the main ground whereof they have taken from this text, which ground by the Apostles application of this mystery to Christ and the Church, is as plainly removed, as if the Apostle had purposely ordered his style, to prevent this erroneous collection: as if he had said, #emph[That none may mistake this mystery, and apply it to a matrimonial conjunction of man and woman together, know that I mean no such thing: the mystery which I speak of, is concerning Christ and the Church.] I marvel how they dare misapply that which is so plainly expressed. Though the Apostle had not so clearly showed his mind and meaning, yet the very thing it self would lead us so to judge of it. For, #emph[that which in Christ] #footnote[#emph[Quod est in Christo & in Ecclesia magnum, hoc in singulis quibusque viris & uxoribus minimum. Aug. de nupt. & concup. lib.] 1. #emph[cap.] 21.] #emph[and the Church is a great mystery, in man and wife is but a small matter.] The vulgar Latin translation first led them into this error, for it translateth the word #emph[mystery, a Sacrament.] But a translation is no sufficient ground to prove a doctrine. Besides the word #emph[Sacrament] used by that Translator, hath as large an extent as a #emph[mystery:] if they should make every thing which he translateth #emph[Sacrament,] a proper Sacrament of the Church, there would be many more Sacraments then the Papists themselves do make.
 
-1. As for this supposed Sacrament, no Papist could ever show when or where God ordained it to be a Sacrament. Nay, they agree not among themselves about the time, how long it hath been a Sacrament. #footnote[#emph[Alphons. à Castro contr. haer. lib.] 3.] Some of them hold, that ever since the first institution of marriage in Paradise, it hath been a Sacrament. But the greater number of Papists hold it to be a Sacrament #footnote[#emph[Petrus à Soto de Matr. lect.] 2. #emph[Concil. Trident. Sess.] 24. #emph[Can.] 1.] of the new Testament under the Gospel, because their Tridentine Council hath so decreed it. Where we may note how the greater number of them, when two absurdities are questioned, are ready to fall into the worst. Under the Law the nonage of the Church needed, and had more Sacraments then under the Gospel: yet that which was in use as much under the Law as under the Gospel, and had then as much to make it a Sacrament as now, was then none, yet now is one.
+1\. As for this supposed Sacrament, no Papist could ever show when or where God ordained it to be a Sacrament. Nay, they agree not among themselves about the time, how long it hath been a Sacrament. #footnote[#emph[Alphons. à Castro contr. haer. lib.] 3.] Some of them hold, that ever since the first institution of marriage in Paradise, it hath been a Sacrament. But the greater number of Papists hold it to be a Sacrament #footnote[#emph[Petrus à Soto de Matr. lect.] 2. #emph[Concil. Trident. Sess.] 24. #emph[Can.] 1.] of the new Testament under the Gospel, because their Tridentine Council hath so decreed it. Where we may note how the greater number of them, when two absurdities are questioned, are ready to fall into the worst. Under the Law the nonage of the Church needed, and had more Sacraments then under the Gospel: yet that which was in use as much under the Law as under the Gospel, and had then as much to make it a Sacrament as now, was then none, yet now is one.
 
-2. As they cannot show where it was ordained for a Sacrament, so neither can they show what is the Sacramental sign thereof. Some make carnal copulation to be it. But there may be a true marriage, though the parties married never know each other.
+2\. As they cannot show where it was ordained for a Sacrament, so neither can they show what is the Sacramental sign thereof. Some make carnal copulation to be it. But there may be a true marriage, though the parties married never know each other.
 
 Others make the #emph[parents giving] to be the sign. But they hold that that is a true marriage, which is done without parents consent.
 
@@ -75,14 +75,14 @@ Others, the #emph[consent of the parties themselves.] Thus shall a party adminis
 
 Others, other things. Thus they wanting the light of Gods word, one strayeth in one by-path, another in another, and none of them hit upon the right.
 
-3. A like difference there is about the form of this Sacrament.
+3\. A like difference there is about the form of this Sacrament.
 
-4. If other positions delivered by them concerning matrimony be noted, a man would think that they should be far from making it a Sacrament. They prefer virginity before it. Yea, they account it a kind of pollution. They hold it unlawful for Priests, Monks, Nuns, and such like holy orders (as they esteem them) to marry: so as there is a Sacrament, whereof their holy ones may not partake. The order of Priesthood is a Sacrament (in their account) yet that order keepeth from marriage, so as one Sacrament fighteth against another. Yea, Infidels may be partakers of a Sacrament, and so their holy and precious things shall be denied to their holy ones, and cast unto swine. Thus we see a rotten building erected upon a sandy foundation: a false Sacrament established upon a false application of this text. Can it then stand?
+4\. If other positions delivered by them concerning matrimony be noted, a man would think that they should be far from making it a Sacrament. They prefer virginity before it. Yea, they account it a kind of pollution. They hold it unlawful for Priests, Monks, Nuns, and such like holy orders (as they esteem them) to marry: so as there is a Sacrament, whereof their holy ones may not partake. The order of Priesthood is a Sacrament (in their account) yet that order keepeth from marriage, so as one Sacrament fighteth against another. Yea, Infidels may be partakers of a Sacrament, and so their holy and precious things shall be denied to their holy ones, and cast unto swine. Thus we see a rotten building erected upon a sandy foundation: a false Sacrament established upon a false application of this text. Can it then stand?
 
 === §. 93. #emph[Of the Sum of husbands and wives duties.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 33.]
 
@@ -98,8 +98,8 @@ This verse then containeth a conclusion of the Apostles discourse, concerning th
 
 Two points are especially noted therein.
 
-- 1\. A declaration of their several and distinct duties.
-- 2\. A direction to apply their own proper duties each of them to themselves.
++ A declaration of their several and distinct duties.
++ A direction to apply their own proper duties each of them to themselves.
 
 Their distinct duties are noted in two words
 
@@ -114,9 +114,9 @@ Of these I will more distinctly speak in the treatises of the particular duties 
 
 The direction for a particular application of their own proper duties to either of them is here especially to be noted. In this direction two things are to be observed.
 
-1. That every particular person apply to himself that which by a Minister is indefinitely delivered to all. #emph[Every one] #footnote[ὑμεῖς οἱ καθ’ ἕνα.] #emph[of you in particular,] saith the Apostle: which is as much as if he had thus more largely expressed his mind, #emph[I have laid down such general duties as all husbands and wives without exception of any of what rank or degree soever they be are bound unto; which though by name I have not severally delivered to every one, one by one, but generally to you all, yet do every one of you apply those things to your selves in particular.]
+1\. That every particular person apply to himself that which by a Minister is indefinitely delivered to all. #emph[Every one] #footnote[ὑμεῖς οἱ καθ’ ἕνα.] #emph[of you in particular,] saith the Apostle: which is as much as if he had thus more largely expressed his mind, #emph[I have laid down such general duties as all husbands and wives without exception of any of what rank or degree soever they be are bound unto; which though by name I have not severally delivered to every one, one by one, but generally to you all, yet do every one of you apply those things to your selves in particular.]
 
-2. That every one apply his own peculiar duty unto himself. Love being peculiar to an husband, to him he saith, #emph[Let him love his wife:] and reverence being peculiar to a wife, to her he saith, #emph[let the wife see that she reverence her husband.]
+2\. That every one apply his own peculiar duty unto himself. Love being peculiar to an husband, to him he saith, #emph[Let him love his wife:] and reverence being peculiar to a wife, to her he saith, #emph[let the wife see that she reverence her husband.]
 
 The direction in every of those several Epistles which were sent to the seven Churches of Asia, (in these words, #emph[He that] #footnote[#emph[Rev.] 2. 7.] #emph[hath an ear, let him hear what the Spirit saith to the Churches)] doth teach every member in any of those Churches to apply to himself that which was delivered to the whole Church: so doth a like #footnote[#emph[Luk.] 8. 8.] exhortation which Christ with an exclamation made to the people whom he taught in parables: and this declaration of the extent of Christs counsel, #emph[what I say to] #footnote[#emph[Mar.] 13. 37.] #emph[you, I say to all.] To this purpose many precepts given to whole Churches, and to all sorts of people are set down in the singular number as given to one, as, #emph[Awake] THOU #emph[that] #footnote[#emph[Eph.] 5. 14.] #emph[sleepest.] THOU #emph[standest by faith: be not thou high minded etc.] #footnote[#emph[Rom.] 11. 20.]
 
@@ -130,9 +130,9 @@ In the forenamed application an eye must be had rather to the duty which we owe,
 
 For this purpose the Holy Ghost presseth particular duties upon those particular persons who ought to perform them: as #emph[subjection] on #emph[wives: love] on #emph[husbands:] and so in others. This therefore is especially to be considered of thee, how thou #footnote[#emph[Vnum duntaxat tibi considerandum est, quo pacto te praestes innoxium. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] mayest show thy self blameless. I deny not but that one ought to provoke another, and one to help another in what they can to perform their duty, especially superiors who have charge over others, but the most principal care of every one ought to be for himself, and greatest conscience to be made of performing his own duty.
 
-1. It is more acceptable before God, and more commendable #footnote[Reasons.] before men to do duty, then to exact duty. As in matters of free charity, so also of bounden duty, #emph[It is more blessed to] #footnote[#emph[Act.] 20. 35.] #emph[give, then to receive.] In particular it is better for an husband to be a good husband, then to have a good wife: so for a wife. To have others fail in duty to us may be an heavy cross, for us to fail in our duty to others is a fearful curse.
+1\. It is more acceptable before God, and more commendable #footnote[Reasons.] before men to do duty, then to exact duty. As in matters of free charity, so also of bounden duty, #emph[It is more blessed to] #footnote[#emph[Act.] 20. 35.] #emph[give, then to receive.] In particular it is better for an husband to be a good husband, then to have a good wife: so for a wife. To have others fail in duty to us may be an heavy cross, for us to fail in our duty to others is a fearful curse.
 
-2. Every one is to give an account of his own particular #footnote[#emph[Rom.] 14. 12.] duty. That which the Prophet speaketh of father and son, may be applied to husband and wife, and to all other sorts of people, #emph[If a father do that which is lawful and right, he is just, he] #footnote[#emph[Ezec.] 18. 5. #emph[etc.]] #emph[shall surely live: if he beget a son that doth not so, he shall surely die, his blood shall be upon him.] Again, #emph[if a father do that which is not good, he shall die in his iniquity: but if his son do that which is lawful and right he shall surely live. The righteousness of the righteous shall be upon himself: and the wickedness of the wicked shall be upon himself.] That this shall be so betwixt husband and wife, may be gathered out of these words, #emph[Two shall] #footnote[#emph[Luk.] 17. 34.] #emph[be in one bed, the one shall be taken, the other left.]
+2\. Every one is to give an account of his own particular #footnote[#emph[Rom.] 14. 12.] duty. That which the Prophet speaketh of father and son, may be applied to husband and wife, and to all other sorts of people, #emph[If a father do that which is lawful and right, he is just, he] #footnote[#emph[Ezec.] 18. 5. #emph[etc.]] #emph[shall surely live: if he beget a son that doth not so, he shall surely die, his blood shall be upon him.] Again, #emph[if a father do that which is not good, he shall die in his iniquity: but if his son do that which is lawful and right he shall surely live. The righteousness of the righteous shall be upon himself: and the wickedness of the wicked shall be upon himself.] That this shall be so betwixt husband and wife, may be gathered out of these words, #emph[Two shall] #footnote[#emph[Luk.] 17. 34.] #emph[be in one bed, the one shall be taken, the other left.]
 
 Let this be noted against the common vain apologies which are made for neglect of duty, which is this, #emph[duty is not performed to me, why shall I do duty?] when my husband doth his duty, I will do mine, saith the wife. And I mine, saith the husband, when my wife doth hers. What if he never do his duty, and so be damned, wilt thou never do thine? This looking for of duty at others hands, makes us the more careless of our own.
 

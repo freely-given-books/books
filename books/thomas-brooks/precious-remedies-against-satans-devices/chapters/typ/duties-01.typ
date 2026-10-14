@@ -3,7 +3,7 @@
 #align(center)[The second thing to be showed is, the several Devices that Satan hath (as to draw souls to sin, so) to keep souls from holy duties, to hinder souls in holy Services, and to keep them off from Religious performances.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(style: "italic")[#emph[And he showed me] Joshua #emph[the high priest, standing before the angel of the Lord, and Satan standing at his right hand to resist him.] Zach. 3. 1.]
   ]

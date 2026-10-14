@@ -3,7 +3,7 @@
 === §. 46. #emph[Of the subjection under which masters are.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[Ephes. 6. 9.]
 
@@ -19,11 +19,11 @@ The principal reason is taken from the subjection wherein masters are.
 
 The other reasons are taken from the description of that authority under which masters are: for it is such an authority, as,
 
-1. In relation to it there is no difference betwixt master and servant.
+1\. In relation to it there is no difference betwixt master and servant.
 
-2. It is far surpassing all dignities on earth.
+2\. It is far surpassing all dignities on earth.
 
-3. It is moved with no outward respect of any thing.
+3\. It is moved with no outward respect of any thing.
 
 The first reason which declareth the subjection of masters, in that they have a master over them, putteth them in mind of that account which they are to make, and reckoning which they are to give of the well using of their authority, and of their carriage towards such as are under them. For they are but as stewards over fellow servants: every one of them therefore shall hear this charge, #emph[give an account of thy stewardship.] #footnote[#emph[Luke] 16. 2.]
 
@@ -51,11 +51,11 @@ If masters did duly weigh this point, that, howsoever in regard of outward gover
 
 The third reason (taken from the place of God, #emph[in heaven)] declareth the surpassing excellency of that great master, who is the common master of masters and of servants: and it addeth an edge to the former motives.
 
-1. It showeth that though the wrong which masters do to their servants be within the walls of their house, so as no mortal eye can see it, yet God who is in heaven seeth it: and though servants cannot be admitted into the courts of men to make their complaint, yet heaven is open to them; to that great master that is in heaven they may have access when they will. That which made the evil steward deal hardly with his fellows, was the conceit #footnote[#emph[Mat.] 24. 48.] which he had of his masters absence. But no such conceit can they have of this great master, who know that he is in heaven, and #footnote[#emph[Pro.] 15. 3.] that as heaven is over every place, so #emph[the eyes of the Lord are in every place, and behold the evil and good:] he seeth all the good, and all the evil that masters do to their servants.
+1\. It showeth that though the wrong which masters do to their servants be within the walls of their house, so as no mortal eye can see it, yet God who is in heaven seeth it: and though servants cannot be admitted into the courts of men to make their complaint, yet heaven is open to them; to that great master that is in heaven they may have access when they will. That which made the evil steward deal hardly with his fellows, was the conceit #footnote[#emph[Mat.] 24. 48.] which he had of his masters absence. But no such conceit can they have of this great master, who know that he is in heaven, and #footnote[#emph[Pro.] 15. 3.] that as heaven is over every place, so #emph[the eyes of the Lord are in every place, and behold the evil and good:] he seeth all the good, and all the evil that masters do to their servants.
 
-2. It showeth that the kindness which the Lord will repay, and the vengeance which he will inflict, is infinitely greater then the good or evil that masters can do to their servants, even as heaven is higher then earth, and as he that is in heaven is greater then they that are on earth. Doest thou therefore, who art a master on earth, rejoice, or grieve the soul of thy servant? God in heaven can much more make glad or sad thy soul. Doest thou therefore desire the favour, or fear the frowns of thy master in heaven? Show favour to thy servant on earth, and forbear threatening. Remember the infinite disparity betwixt thy mastership and Gods, and this will the more move thee to deal with thy servant, as thou wouldest have God deal with thee.
+2\. It showeth that the kindness which the Lord will repay, and the vengeance which he will inflict, is infinitely greater then the good or evil that masters can do to their servants, even as heaven is higher then earth, and as he that is in heaven is greater then they that are on earth. Doest thou therefore, who art a master on earth, rejoice, or grieve the soul of thy servant? God in heaven can much more make glad or sad thy soul. Doest thou therefore desire the favour, or fear the frowns of thy master in heaven? Show favour to thy servant on earth, and forbear threatening. Remember the infinite disparity betwixt thy mastership and Gods, and this will the more move thee to deal with thy servant, as thou wouldest have God deal with thee.
 
-3. It showeth that there is much more reason we should take notice of our servants, of their pains, of their diligence, and of their faithfulness, then that God should take notice of ours: and less reason that we should scorn, or neglect our servants, then God scorn or neglect us. For there is far greater difference betwixt God and us, then betwixt us and our servants. We and our #footnote[#emph[Vis tu cogitare istum quem seruum tuum vocas, exijsdem seminibus ortum, eodem fruicoelo, aequè spirare, aequè viuere, aequè mori. Senec. Epist.] 47.] servants are all of the earth, of the same mould, nature, and disposition, subject to the same passion, and to the same dissolution. (The heathen observed as much.) But God is in heaven, eternal, unchangeable, every way surpassing glorious. How can we then look to be respected of this master, if we respect not our servants? O masters, in all your dealings with your servants, remember #emph[your master is in heaven.]
+3\. It showeth that there is much more reason we should take notice of our servants, of their pains, of their diligence, and of their faithfulness, then that God should take notice of ours: and less reason that we should scorn, or neglect our servants, then God scorn or neglect us. For there is far greater difference betwixt God and us, then betwixt us and our servants. We and our #footnote[#emph[Vis tu cogitare istum quem seruum tuum vocas, exijsdem seminibus ortum, eodem fruicoelo, aequè spirare, aequè viuere, aequè mori. Senec. Epist.] 47.] servants are all of the earth, of the same mould, nature, and disposition, subject to the same passion, and to the same dissolution. (The heathen observed as much.) But God is in heaven, eternal, unchangeable, every way surpassing glorious. How can we then look to be respected of this master, if we respect not our servants? O masters, in all your dealings with your servants, remember #emph[your master is in heaven.]
 
 === §. 49. #emph[Of Gods impartial respect of all.]
 
