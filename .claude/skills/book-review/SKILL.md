@@ -129,6 +129,16 @@ so:
   one/everyone, Saviour/Savior, shew/show, labour/labor, today/to-day),
   numbering styles, quotation-mark style, dashes, `etc.`. Build a table of
   variants with counts; propose the book's majority form.
+- **Printed lists and braces in the PDF**: look for bullets carrying typed
+  numbers (`- 1\. …`). Write them as `+ …` without the numeral, and the sync
+  numbers the list, keeping the printed numeral as a label. Also look for a
+  brace whose closing term (`{1. In the necessity / 2. In the efficacy} Of
+  Baptism.`) is left on a line of its own after the list. Read that brace
+  into its sentence ("In two things do Papists exceed: in the necessity and
+  in the efficacy of Baptism."); the sync marks the table
+  `@rend="inline"` (colophon 0.12.2+). A brace can only be read inline
+  whole, not in part, and two braces can't be nested into one list. In
+  those cases use a paragraph or numbered paragraphs (Gouge §49, §56).
 - **Nested outlines** (Owen: I. › 1. › (1.) › [1.] › 1st.): readers lose
   their place when a series runs over several chapters, when an editor's
   numerals stack ("I. 1. (1.)") or clash ("2." for a second reason under
