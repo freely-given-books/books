@@ -23,7 +23,7 @@ Here by the way, note three points.
 === §. 124. #emph[Of the meaning of the fifth verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 5.]
 
@@ -98,7 +98,7 @@ This phrase #emph[(as unto Christ)] implieth as much as that #emph[(in the Lord)
 === §. 125. #emph[Of the meaning of the sixth verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 6.]
 
@@ -162,7 +162,7 @@ To put a difference betwixt Christ and other masters, and to show that he looket
 === §. 126. #emph[Of the meaning of the seventh verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 7.]
 
@@ -206,7 +206,7 @@ From this large declaration of the #emph[manner] of doing service #footnote[Diff
 === §. 127. #emph[Of the meaning of the eight verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 8.]
 
@@ -243,7 +243,7 @@ From this verse thus opened, I gather these particular observations, concerning 
 === §. 128. #emph[Of the connection of masters duties with servants.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 9.]
 

@@ -3,7 +3,7 @@
 === §. 68. #emph[Of Christs forbearing to hate the Church.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
 
@@ -50,7 +50,7 @@ Learn we also to depend on Christ for all things that we #footnote[2\. #emph[Use
 === §. 70. #emph[Of the union betwixt Christ and the Saints.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 30.]
 
@@ -218,7 +218,7 @@ Hitherto of the union it self. The means of effecting it, remain to be handled.
 === §. 75. #emph[Of their regeneration who are members of Christ.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 30.]
 

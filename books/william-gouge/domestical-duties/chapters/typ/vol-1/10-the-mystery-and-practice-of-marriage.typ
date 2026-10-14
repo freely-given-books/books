@@ -3,7 +3,7 @@
 === §. 90. #emph[Of the mystery of the union of Christ and the Church.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 32.]
 
@@ -82,7 +82,7 @@ Others, other things. Thus they wanting the light of Gods word, one strayeth in 
 === §. 93. #emph[Of the Sum of husbands and wives duties.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 33.]
 

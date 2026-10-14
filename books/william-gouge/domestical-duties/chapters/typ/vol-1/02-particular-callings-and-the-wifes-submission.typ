@@ -3,7 +3,7 @@
 === §. 7. #emph[Of performing the duties of particular callings.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 22.]
 
@@ -104,7 +104,7 @@ Having hitherto handled the forenamed general instructions, I will proceed to a 
 === §. 12. #emph[Of wives subjection.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 22.]
 

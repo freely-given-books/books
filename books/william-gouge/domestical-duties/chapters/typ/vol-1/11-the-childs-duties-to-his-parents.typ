@@ -9,7 +9,7 @@ Besides children are the fruits of matrimonial conjunction, therefore fitly plac
 That which concerneth children is laid down in the sixth Chapter of #emph[Eph.] vers. 1, 2, 3. The meaning whereof we will distinctly open.
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 1.]
 
@@ -46,7 +46,7 @@ The former phrase #emph[(in the Lord)] implying one reason, this plainly noteth 
 === §. 97. #emph[Of the meaning of the second verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 2.]
 
@@ -133,7 +133,7 @@ Unworthy therefore they are of the name of Christians, who #footnote[Use.] so wh
 === §. 100. #emph[Of the meaning of the third verse.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6. 3.]
 

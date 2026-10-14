@@ -3,7 +3,7 @@
 === §. 79. #emph[Of the ancient Law of marriage.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 31.]
 

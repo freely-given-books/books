@@ -3,7 +3,7 @@
 === §. 46. #emph[Of the subjection under which masters are.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[Ephes. 6. 9.]
 

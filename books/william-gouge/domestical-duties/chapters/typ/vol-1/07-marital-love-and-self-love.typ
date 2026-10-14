@@ -3,7 +3,7 @@
 === §. 53. #emph[Of the application of the things which Christ hath done for the Church, unto husbands.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
 
@@ -36,7 +36,7 @@ Of these points I shall hereafter more fully speak.
 === §. 54. #emph[Of the application of the love which a man beareth to himself, unto an husband.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
 
@@ -79,7 +79,7 @@ By this clause two things are implied.
 === §. 55. #emph[Of the amplification of a mans love of himself.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
 
@@ -120,7 +120,7 @@ That he may yet further press this point, he returneth again to the example of C
 === §. 56. #emph[Of mans natural affection to himself.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 28, 29.]
 
@@ -199,7 +199,7 @@ Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth
 === §. 62. #emph[Of Mans forbearing to wrong himself.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
 

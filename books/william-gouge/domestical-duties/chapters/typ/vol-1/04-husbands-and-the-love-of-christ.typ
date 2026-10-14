@@ -3,7 +3,7 @@
 === §. 26. #emph[Of the sum of Husbands duties.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25.]
 
@@ -61,7 +61,7 @@ How the love of Christ is a pattern, I will #footnote[Treat. 4. §. 61. #emph[et
 === §. 28. #emph[Of Christs giving himself.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25.]
 
@@ -166,7 +166,7 @@ This conceit of Christs meriting for himself, doth much extenuate the glory of C
 === §. 33. #emph[Of the particular ends, why Christ gave himself, and of the condition of the Church before Christ took her.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 26.]
 

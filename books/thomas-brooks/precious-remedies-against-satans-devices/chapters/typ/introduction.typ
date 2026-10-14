@@ -3,7 +3,7 @@
 #align(center)[PRECIOUS REMEDIES #emph[AGAINST] SATAN'S Devices.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[2 CORINTH. 2. 11.]
 

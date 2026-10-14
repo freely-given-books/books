@@ -3,7 +3,7 @@
 === §. 14. #emph[How an husband is his wives head.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23.]
 
@@ -50,7 +50,7 @@ Upon this ground the Apostle inferreth the conclusion in the next verse.
 === §. 16. #emph[Of the resemblance betwixt] the Church to Christ, and a wife to her husband.
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24.]
 
@@ -79,7 +79,7 @@ I will further consider these examples of Christ and the Church more distinctly 
 === §. 17. #emph[Of the relation betwixt Christ and the Church.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23, 24.]
 
@@ -250,7 +250,7 @@ The former point is not more comfortable to those that have assurance that they 
 === §. 24. #emph[Of the Churches subjection to Christ.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 24.]
 

@@ -3,7 +3,7 @@
 === §. 48. #emph[Of the Inference of Glorification upon Justification and Sanctification.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
@@ -44,7 +44,7 @@ For our parts as we desire to appear before Christ so as he #footnote[Use.] may 
 === §. 49. #emph[Of the fruition of Christs presence in heaven.]
 
 #align(center)[
-  #block(width: 85%)[
+  #block(width: 85%, breakable: false)[
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 27.]
 
