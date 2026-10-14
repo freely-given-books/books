@@ -190,8 +190,8 @@ In regard of these differences, the grave is as a bed to the Saints, #footnote[#
 
 The privilege which the Saints by virtue of their union with Christ receive after death, far surpasseth all before. It may be drawn to two heads.
 
-- 1\. Their Resurrection.
-- 2\. Their glory in heaven.
++ Their Resurrection.
++ Their glory in heaven.
 
 That which was before said of the difference betwixt the preservation of the bodies of the Saints and wicked in death, may be applied to the difference of their Resurrection.
 

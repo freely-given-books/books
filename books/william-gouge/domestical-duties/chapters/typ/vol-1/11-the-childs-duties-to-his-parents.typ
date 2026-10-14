@@ -231,10 +231,10 @@ The wicked by living long on earth make their sins grow to the full (as is impli
 
 The righteous have their days shortened for their good, when they are shortened, and that in these, and such like respects
 
-- 1\. That they may be #footnote[1 #emph[King.] 14. 13.] taken from the evil to come.
-- 2\. That they might be made an #footnote[1 #emph[King.] 13. 24.] example to others.
-- 3\. #footnote[#emph[Isa.] 57. 1.] That #footnote[1 #emph[Cor.] 11. 32.] by a temporal death eternal condemnation might be avoided.
-- 4\. That their #footnote[#emph[Gen.] 5. 24. #emph[Heb.] 11. 5.] chiefest and greatest reward might be hastened.
++ That they may be #footnote[1 #emph[King.] 14. 13.] taken from the evil to come.
++ That they might be made an #footnote[1 #emph[King.] 13. 24.] example to others.
++ #footnote[#emph[Isa.] 57. 1.] That #footnote[1 #emph[Cor.] 11. 32.] by a temporal death eternal condemnation might be avoided.
++ That their #footnote[#emph[Gen.] 5. 24. #emph[Heb.] 11. 5.] chiefest and greatest reward might be hastened.
 
 === §. 106. #emph[Of limiting the promises of temporal blessings.]
 

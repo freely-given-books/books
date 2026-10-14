@@ -29,8 +29,8 @@ For our parts, let us not upon pretext of one duty, though it may seem to be the
 
 Again, as this verse hath reference to that which followeth, it declareth the general sum of all, which is mutually to submit our selves one to another in the fear of God. The parts hereof are two:
 
-- 1\. An Exhortation.
-- 2\. A Direction.
++ An Exhortation.
++ A Direction.
 
 In the exhortation is noted, both the #emph[duty] it self in this word #emph[submit,] and also the #emph[parties] to whom it is to be performed, #emph[one to another.]
 
@@ -60,10 +60,10 @@ Be not high minded, nor swell one against another. #footnote[2\. #emph[Use.] Deh
 
 Hitherto of the #emph[exhortation.] The #emph[direction] followeth. #emph[In the fear of the Lord.] This clause is added, to declare partly the #emph[means,] how men may be brought to submit themselves readily one to another: and partly the #emph[manner,] how they ought to submit themselves. #emph[The fear of the Lord] is both the #emph[efficient cause] that moveth a true Christian willingly to perform all duty to man, and also the #emph[end] whereunto he referreth every thing that he doth. For the better conceiving whereof, I will briefly declare
 
-- 1\. What this fear of the Lord is.
-- 2\. How the Lord is the proper object of it.
-- 3\. What is the extent thereof.
-- 4\. Why it is so much urged.
++ What this fear of the Lord is.
++ How the Lord is the proper object of it.
++ What is the extent thereof.
++ Why it is so much urged.
 
 First, fear of God is an awful respect of the divine Majesty. #footnote[1\. What the fear of God is. The causes of it.] Sometimes it ariseth from faith in the mercy and goodness of God: for when the heart of man hath once felt a sweet taste of Gods goodness, and found that in his favour only all happiness consisteth, it is strucken with such an inward awe and reverence, as it would not for any thing displease #footnote[Two effects of a filial fear of God.] his Majesty, but rather do whatsoever it may know to be pleasing and acceptable unto him. For these are two effects which arise from this kind of fear of God:
 

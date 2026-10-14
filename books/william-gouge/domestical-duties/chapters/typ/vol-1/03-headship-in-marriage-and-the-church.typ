@@ -23,12 +23,7 @@ The amplification thereof by the resemblance that is made to Christ, enforceth t
 
 A wife must submit her self to an husband, because he is her #emph[head:] and she must do it #emph[as to the Lord,] because her husband is to her, as Christ is to the Church.
 
-The metaphor of an head declareth two points:
-
-+ The dignity
-+ The duty
-
-of an husband.
+The metaphor of an head declareth two points: the dignity and the duty of an husband.
 
 1. As an head is more eminent and excellent than the body, and placed above it, so is an husband to his wife.
 
@@ -157,9 +152,9 @@ Happy were it for Kingdoms, common-wealths, Cities, Churches, families, wives, a
 
 In laying forth the goodness of Christ three things are noted.
 
-- 1\. The #emph[Kind] of goodness, which is Salvation #emph[(the Saviour)]
-- 2\. The person that performeth it #emph[(he himself.)]
-- 3\. The parties for whom he performeth it #emph[(the body.)]
++ The #emph[Kind] of goodness, which is Salvation #emph[(the Saviour)]
++ The person that performeth it #emph[(he himself.)]
++ The parties for whom he performeth it #emph[(the body.)]
 
 1. The Greek word translated #footnote[σωτήρ. #emph[Sotera inscriptum vidi Syracusis. hoc quantum est? Ita magnum, vt Latino vno verbo exprimi non possit. Is est nimirum soter, qui salutem dedit. Cicer. in Ver. act] 4.] #emph[Saviour] is so emphatical that other tongues can hardly find a fit word to express the emphasis thereof: it being attributed to Christ, implieth that
 
@@ -205,10 +200,10 @@ This calling is twofold:
 
 2. #emph[Inward,] which is proper to the elect, none but they, and all they in their time shall both outwardly be called by the word to a profession of Christ, and also inwardly and effectually by the spirit to believe in Christ, and obey his Gospel. This is styled #footnote[#emph[Heb.] 3. 1.] #emph[an heavenly calling,] which is #footnote[1 #emph[Cor.] 1. 2.] proper to the Saints. These make that Church, whereof Christ is properly the head: and therefore in relation to that metaphor of an head, they are called the #emph[Body:] and that in these respects;
 
-- 1\. They are under Christ, as a body under the head.
-- 2\. They receive spiritual life and grace from Christ, as a body natural receiveth sense, and vigour from the head.
-- 3\. Christ governeth them, as an head the body.
-- 4\. They are subject to Christ, as a body to the head.
++ They are under Christ, as a body under the head.
++ They receive spiritual life and grace from Christ, as a body natural receiveth sense, and vigour from the head.
++ Christ governeth them, as an head the body.
++ They are subject to Christ, as a body to the head.
 
 === §. 22. #emph[Of the extent of Christs goodness to all his body.]
 
@@ -232,19 +227,19 @@ The former point is clearly set forth by a resemblance, which the Apostle maketh
 
 This is a point of admirable comfort to such as have assurance #footnote[Use.] of their incorporation into Christ, they may rest upon the benefit of this office of Christ, that he is a #emph[Saviour.] We need not think of climbing up to heaven, and searching Gods records to see if our names be written in the book of Life. Let us only make trial whether we be of this body or no. #footnote[How we may know whether we be of Christs body or no.] For our help herein, know we that this metaphor of #emph[a body] implieth two things.
 
-- 1\. A mystical union with Christ.
-- 2\. A spiritual communion with the Saints.
++ A mystical union with Christ.
++ A spiritual communion with the Saints.
 
-- 1\. By virtue of that union they who are of Christs body,
-  - 1\. #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
-  - 2\. #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
-  - 3\. #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
-  - 4\. #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
-- 2\. By reason of their communion with the Saints being fellow members,
-  - 1\. #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
-  - 2\. #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
-  - 3\. #footnote[#emph[Eph.] 4. 16.] They will edify one another.
-  - 4\. #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
++ By virtue of that union they who are of Christs body,
+  + #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
+  + #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
+  + #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
+  + #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
++ By reason of their communion with the Saints being fellow members,
+  + #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
+  + #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
+  + #footnote[#emph[Eph.] 4. 16.] They will edify one another.
+  + #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 

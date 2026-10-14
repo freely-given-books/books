@@ -98,8 +98,8 @@ This verse then containeth a conclusion of the Apostles discourse, concerning th
 
 Two points are especially noted therein.
 
-- 1\. A declaration of their several and distinct duties.
-- 2\. A direction to apply their own proper duties each of them to themselves.
++ A declaration of their several and distinct duties.
++ A direction to apply their own proper duties each of them to themselves.
 
 Their distinct duties are noted in two words
 

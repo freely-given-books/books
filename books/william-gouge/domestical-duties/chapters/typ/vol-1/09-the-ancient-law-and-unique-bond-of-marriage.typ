@@ -131,13 +131,7 @@ The mystery in general is this,
 
 The particulars of this mystery are these.
 
-The matrimonial conjunction betwixt Christ & the Church is a most
-
-+ Preheminent
-+ Firm
-+ Near
-
-conjunction.
+The matrimonial conjunction betwixt Christ & the Church is a most preheminent, firm, and near conjunction.
 
 First of the general.
 

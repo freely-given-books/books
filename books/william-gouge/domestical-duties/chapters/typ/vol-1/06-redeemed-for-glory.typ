@@ -15,9 +15,9 @@
 
 The most principal end, in regard of the Churches good, which Christ aimed at when he gave himself for her, is her glorious estate in heaven: this is the end of the forenamed end. For why did Christ give himself for the Church? #emph[That he might sanctify it, having cleansed it:] why did he cleanse, and sanctify it? #emph[That he might present it to himself a glorious Church.] Hence note these three points.
 
-- 1\. #emph[Justification and sanctification must go before glorification.]
-- 2\. #emph[The end why the Saints are cleansed and sanctified in this world, is that they may be presented glorious to Christ in the world to come.]
-- 3\. #emph[The only means to make us glorious before Christ our spouse is righteousness.]
++ #emph[Justification and sanctification must go before glorification.]
++ #emph[The end why the Saints are cleansed and sanctified in this world, is that they may be presented glorious to Christ in the world to come.]
++ #emph[The only means to make us glorious before Christ our spouse is righteousness.]
 
 1. All those places of Scripture which set our righteousness in this world before our glory in the world to come (as #footnote[#emph[Tit.] 2. 12, 13. 2 #emph[Tim.] 4. 7, 8.] very many places do) do prove the first point, that #emph[Justification and Sanctification must go before Glorification.] Among #footnote[Men must be justified and sanctified before they can be glorified. #emph[Rom.] 8. 30.] other proofs note especially the order of the several links of that golden chain that reacheth from Gods eternal counsel before the world, unto our everlasting glory after this world, #emph[Whom he did predestinate them he also called; and whom he called them he also justified; and whom he justified them he also glorified.]
 
@@ -68,15 +68,9 @@ In the general proposition is noted
 
 The particular exemplification thereof is
 
-1\. Privative, by removing all deformity: noted in two words
+1. Privative, by removing all deformity: noted in two words, #emph[spot] and #emph[wrinkle.]
 
-+ #emph[Spot.]
-+ #emph[Wrinkle.]
-
-2\. Positive, by adorning her with beauty: noted also in two words
-
-+ #emph[Holy.]
-+ #emph[Blameless.]
+2. Positive, by adorning her with beauty: noted also in two words, #emph[holy] and #emph[blameless.]
 
 The word #emph[(present)] is taken from the custom of solemnizing #footnote[παραστήσῃ.] a marriage: first the spouse was wooed, and then set before her husband that he might take her to wife, to be with him. Thus #footnote[#emph[Gen.] 2. 22.] #emph[Eve] was presented by God to #emph[Adam] that he might take her for his wife: and #footnote[#emph[Est.] 2. 13.] #emph[Esther] among other virgins was presented to #emph[Ahasuerus.] This showeth that #footnote[Doct.]
 

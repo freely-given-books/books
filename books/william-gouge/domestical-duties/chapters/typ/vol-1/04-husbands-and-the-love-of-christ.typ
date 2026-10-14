@@ -35,15 +35,10 @@ A #emph[like quality,] because the love which Christ beareth to the Church is ev
 
 The love of Christ to the Church is amplified,
 
-- 1\. By an #emph[Effect] thereof, in these words, #emph[He gave himself for it.]
-- 2\. By the #emph[End] of that effect, largely set down, #emph[verse] 26, 27.
++ By an #emph[Effect] thereof, in these words, #emph[He gave himself for it.]
++ By the #emph[End] of that effect, largely set down, #emph[verse] 26, 27.
 
-The #emph[effect] is noted partly as a
-
-+ Confirmation of the truth
-+ Declaration of the measure
-
-of Christs love.
+The #emph[effect] is noted partly as a confirmation of the truth, partly as a declaration of the measure of Christs love.
 
 The #emph[Act (he gave)] showeth that his love was in deed and truth: not only in show and pretence.
 
@@ -80,9 +75,9 @@ This fruit and effect of Christs love extendeth it self to all #footnote[Christ 
 
 More particularly, we may note these three points:
 
-- 1\. The #emph[action,] what he did, #emph[(he gave.)]
-- 2\. The #emph[object,] what he gave, #emph[(himself.)]
-- 3\. The #emph[end,] why he gave himself, #emph[(for it)] for the Churches good.
++ The #emph[action,] what he did, #emph[(he gave.)]
++ The #emph[object,] what he gave, #emph[(himself.)]
++ The #emph[end,] why he gave himself, #emph[(for it)] for the Churches good.
 
 The #emph[action] having relation to the #emph[object,] most especially pointeth at the death of Christ. The #footnote[παρέδωκεν.] Greek word is a compound word, and signifieth to #emph[give up.] It implieth two things,
 
@@ -193,8 +188,8 @@ The former is subordinate to the latter, an end for the accomplishing of the oth
 
 In laying down the former he noteth
 
-- 1\. The #emph[end] whereat Christ aimed.
-- 2\. The #emph[means,] whereby he effected that which he aimed at.
++ The #emph[end] whereat Christ aimed.
++ The #emph[means,] whereby he effected that which he aimed at.
 
 That #emph[end] is set forth in these words, #emph[that he might sanctify it,] #footnote[καθαρίσας. See §. 39.] #emph[having cleansed it] (thus may they word for word be translated) so as that which for order of words is in the latter place, for order of matter is in the first place.
 
@@ -204,13 +199,13 @@ The word #emph[(sanctifying)] expresseth our #emph[sanctification.]
 
 The means of effecting these, are two.
 
-- 1\. #emph[Baptism] comprised under this phrase, #emph[washing of water.]
-- 2\. The #emph[word.]
++ #emph[Baptism] comprised under this phrase, #emph[washing of water.]
++ The #emph[word.]
 
 The two branches of the former #emph[end,] namely #emph[Cleansing] and #emph[Sanctifying] do in general imply two things.
 
-- 1\. The #emph[Condition] of the Church in it self.
-- 2\. The #emph[Alteration] thereof by Christ.
++ The #emph[Condition] of the Church in it self.
++ The #emph[Alteration] thereof by Christ.
 
 The #emph[condition] is presupposed, which is, that she was impure, polluted, in the common estate of corrupt man. Things in themselves pure, are not cleansed, but things foul and impure: persons of themselves freed, and exempted from a common misery, need not anothers help to free and exempt them. Seeing then that the Church stood in need to be cleansed, and sanctified, surely
 

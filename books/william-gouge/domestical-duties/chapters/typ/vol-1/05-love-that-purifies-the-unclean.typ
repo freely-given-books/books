@@ -4,8 +4,8 @@
 
 In setting down the alteration of the forenamed condition note
 
-- 1\. The #emph[manner] of laying it forth.
-- 2\. The #emph[matter] or substance thereof.
++ The #emph[manner] of laying it forth.
++ The #emph[matter] or substance thereof.
 
 The #emph[manner] is implied in this conjunction #footnote[ἵνα ἁγιάσῃ.] THAT #emph[(That he might sanctify it)] Christ loved the Church, and gave himself for it, not because it was sanctified, but #emph[that he might sanctify it:] so as
 
@@ -101,9 +101,9 @@ The manner of inferring this Sacramental washing upon the sanctifying and cleans
 
 #emph[Baptism is a means of sanctifying and cleansing the Church.] All #footnote[Doctr.] those places of Scripture that attribute #footnote[#emph[Joh.] 3. 5. #emph[Tit.] 3. 5.] #emph[Regeneration,] #footnote[#emph[Gal.] 3. 27.] #emph[Justification,] #footnote[#emph[Rom.] 6. 3.] #emph[Sanctification,] or #footnote[1 #emph[Pet.] 3. 21.] #emph[Salvation] thereunto, prove as much. But that the truth thereof may more fully and distinctly be conceived, I will briefly show,
 
-- 1\. In what respect Baptism is a means of our sanctifying and cleansing.
-- 2\. What kind of means it is.
-- 3\. How necessary it is.
++ In what respect Baptism is a means of our sanctifying and cleansing.
++ What kind of means it is.
++ How necessary it is.
 
 In four especial respects it may be said to be a means as aforesaid.
 
@@ -145,8 +145,8 @@ Baptism is not absolutely necessary as a cause: for then should it be equal to G
 
 But it is #emph[by consequence] necessary: and that in a double #footnote[Ex hypothesi.] respect.
 
-- 1\. In regard of Gods ordinance.
-- 2\. In regard of our need thereof.
++ In regard of Gods ordinance.
++ In regard of our need thereof.
 
 1. God having ordained this a Sacrament to be used, it is necessary it should be used, if for no other end, yet for manifestation of our obedience. He that carelessly neglecteth; or wilfully contemneth any Sacrament which God shall enjoin him to use, #emph[his soul shall be cut off.] #footnote[#emph[Gen.] 17. 14.]
 
@@ -160,12 +160,7 @@ One in the excess, which is of Papists that attribute too much thereunto, and ma
 
 Another in the defect, of Anabaptists and Libertines, which #footnote[Papists attribute too much to Baptism. #emph[Bellarm. de Bapt lib.] 1. #emph[cap.] 4.] derogate too much from it, and make it an idle ceremony.
 
-In two things do Papists exceed
-
-+ In the necessity
-+ In the efficacy
-
-Of Baptism.
+In two things do Papists exceed: in the necessity and in the efficacy of Baptism.
 
 They make it so absolutely necessary, as if any die unbaptized he cannot be saved: which doom they pass against infants, though they be deprived thereof without any fault of their own, yea or of their parents, being still-born. A merciless sentence without any warrant of Gods word: yea against his word & against the order which he hath prescribed. He hath established #footnote[#emph[Gen.] 17. 7.] his covenant, & promised to be the God of the faithful & of their seed: on which ground #emph[S. Peter] saith, #emph[The promise is unto] #footnote[#emph[Acts] 2. 39.] #emph[you & unto your children:] & #emph[S. Paul] saith, #emph[your children are holy.] #footnote[1 #emph[Cor.] 7. 14.] Shall all these privileges be made void by an inevitable want #footnote[#emph[Gen.] 17. 12. #emph[Jos.] 5. 5.] of baptism? If so, would God have enjoined circumcision (which to the Jews was as baptism is to Christians) to be put off to the eighth day, before which day many infants died? Or would #emph[Moses] have suffered it to be forborne all the time that the Israelites were in the wilderness? If it be said that baptism is more necessary then circumcision, I answer, the Scripture layeth no more necessity upon it. If it were so necessary as they make it, then the virtue of Christs death were less effectual since he was actually exhibited then before. For before it was effectual for infants without a Sacrament, but belike not now. Had the ancient Churches conceived so of the absolute necessity of baptism, they would not have had set times for the administering thereof: nor suffered it to be put off so long as they did. #footnote[#emph[In Thessalia mos fuit vt paschalibus tantùm diebus baptismus perageretur, Niceph. hist. lib.] 12. #emph[cap.] 34. #emph[Socrat. hist. lib.] 5. #emph[cap.] 22.] Some Churches appointed it to be administered only at Easter. #footnote[Ne quenquam Sacerdotes baptizent praeterquam in Pascha & Pentecoste. L L. Pipin. Carol. M. etc.] Some at Easter and Whitsuntide. And though many who gave evidence of their true faith died before they were baptized, yet #footnote[Iustus quacunque morte praeuentus fuerit anima eius in refrigerio erit, dixit Ambr. Orat. de obit. Valent. Qui diem obijt antequam baptisaretur.] they did not thereupon judge them to be damned. This practise and judgment of the ancients hath made #footnote[#emph[Rhem. annot.] on #emph[Joh.] 3. 5.] many Papists somewhat to mitigate that absolute necessity, and to say that, #emph[In this case, God which hath not bound his grace, in respect of his own freedom, to any Sacrament, may and doth accept them as baptized, which either are martyred before they could be baptized, or else depart this life with vow and desire to have that Sacrament, but by some remediless necessity could not obtain it. If remediless necessity can help the matter, what necessity so remediless, as for a child to be still-born.]
 

@@ -142,12 +142,7 @@ Two points are here to be noted.
 
 This is manifested two ways.
 
-+ Negatively, #emph[No man hateth his own flesh.]
-+ Affirmatively, and that in two branches
-  + #emph[Nourisheth]
-  + #emph[Cherisheth]
-
-it.
+Negatively, #emph[No man hateth his own flesh.] Affirmatively, and that in two branches: #emph[nourisheth] and #emph[cherisheth] it.
 
 Both these are justified by the like affection of Christ to the Church which is his body #emph[(Even as the Lord the Church)] In that the Apostle propoundeth the natural affection of a mans self to his body as a motive and pattern to Christians, to love their wives, and also justifieth the same by a like affection of Christ to his Church, I observe that
 
