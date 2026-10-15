@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # release: sign off books and publish a release, in one command.
 #
-#   ./release [--ebook] [BOOK ...]
+#   ./release [--point] [BOOK ...]
 #
 # 1. Each BOOK (part of its folder name, as for ./fgb) is signed off if it is
 #    not already: ./fgb release sign runs every check, then cuts your signed
 #    tag <author>/<book>/vN, which is pushed. A book needs its RELEASE.toml
-#    first (./fgb release record BOOK, fill it in, commit it). With --ebook
-#    the sign-off is an ebook-only version (vN.1): the print must be the same
-#    as at the last sign-off, so it stays Lulu's revision N.
+#    first (./fgb release record BOOK, fill it in, commit it). With --point
+#    the sign-off is a point version (vN.1): an improved edition between Lulu
+#    revisions; it says whether its print is still revision N's.
 # 2. ./fgb release make builds every done book into dist/release/<name>/ and
 #    the stable branch (<name> is the date, YYYY.MM.DD, then .2, .3 for more
 #    releases that day).
@@ -28,16 +28,16 @@ git fetch -q origin
 [ -z "$(git status --porcelain --untracked-files=no)" ] || die "commit or stash your changes first"
 [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ] || die "main is not origin/main: git pull (or push) first"
 
-ebook=()
-if [ "${1:-}" = --ebook ]; then
-    ebook=(--ebook)
+point=()
+if [ "${1:-}" = --point ]; then
+    point=(--point)
     shift
-    [ $# -gt 0 ] || die "--ebook: name the book(s)"
+    [ $# -gt 0 ] || die "--point: name the book(s)"
 fi
 
 for book in "$@"; do
     # sign resolves the name (and says so if it matches several books)
-    out=$(./fgb release sign "$book" "${ebook[@]}" 2>&1 | tee /dev/stderr) || true
+    out=$(./fgb release sign "$book" "${point[@]}" 2>&1 | tee /dev/stderr) || true
     echo "$out" | grep -q "nothing new to sign off" && continue
     tag=$(echo "$out" | sed -n 's/^publish the sign-off: git push origin //p')
     [ -n "$tag" ] || die "$book: not signed off (above)"
