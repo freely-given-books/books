@@ -148,7 +148,7 @@ As a wives acknowledgment of her husbands superiority is the ground-work of all 
 
 3\. There are no unequals betwixt which there is so near a parity as betwixt man and wife: if therefore there may be a fellowship betwixt any that are superior, and inferior one to another, then much more betwixt man and wife.
 
-#footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, & conspirans beneuolentia. Plut. praec. connub.] As the soul therefore ruleth over the body, by a mutual and loving consent and agreement, so must a man over his wife.
+As#footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, & conspirans beneuolentia. Plut. praec. connub.] the soul therefore ruleth over the body, by a mutual and loving consent and agreement, so must a man over his wife.
 
 === §. 8. #emph[Of husbands too mean account of wives.]
 

@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #text(style: "italic")[1. Children obey your parents in the Lord: for this is right. 2. Honour thy father and mother (which is the first commandment with promise.) 3. That it may be well with thee: and thou mayest live long on the earth.]
+    #text(style: "italic")[1\. Children obey your parents in the Lord: for this is right. 2. Honour thy father and mother (which is the first commandment with promise.) 3. That it may be well with thee: and thou mayest live long on the earth.]
   ]
 ]
 
@@ -91,7 +91,7 @@ This #emph[awful respect] ariseth from an honourable esteem which a child in his
 
 In this respect the fear of a #emph[child] is opposed to the fear of a #emph[slave.] For a childes fear being mixed with love, hath respect to the #emph[offence] which a parent may take; but a slaves fear, which is ordinarily mixed with hatred, hath respect to nothing but the #emph[punishment] which his master may inflict upon him. The forenamed fear is so proper to children, as that awful respect which the Saints bear to God, is called a #footnote[See Treat. 1. §. 4.] #emph[filial] or #emph[child-like fear.]
 
-This #emph[fear] in a child is an especial branch of that #footnote[#emph[Exo.] 20. 12.] #emph[honour] which the law requireth of children to their parents: and it is in #footnote[#emph[Lev.] 19. 3.] express terms enjoined to children by the law. That phrase which God useth of #emph[Miriam] (#footnote[#emph[Num.] 12. 14.] #emph[If her father had but spit in her face, should she not be ashamed seven days?)] showeth that there ought to be such a fear of the parent in a childes heart, as should work shame in it when the parent is offended.
+This #emph[fear] in a child is an especial branch of that #footnote[#emph[Exo.] 20. 12.] #emph[honour] which the law requireth of children to their parents: and it is in #footnote[#emph[Lev.] 19. 3.] express terms enjoined to children by the law. That phrase which God useth of #emph[Miriam]#footnote[#emph[Num.] 12. 14.] (#emph[If her father had but spit in her face, should she not be ashamed seven days?)] showeth that there ought to be such a fear of the parent in a childes heart, as should work shame in it when the parent is offended.
 
 A worthy pattern we have hereof in #footnote[#emph[Gen.] 27. 12.] #emph[Jacob,] who was loath to gain the blessing with offence of his father.
 

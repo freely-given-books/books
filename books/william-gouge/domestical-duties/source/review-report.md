@@ -2,20 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 648 |
-| emendation | 309 |
+| spelling | 647 |
+| emendation | 313 |
 | grammar | 147 |
 | case | 146 |
-| list | 129 |
-| punctuation | 89 |
-| spacing | 53 |
-| italic | 51 |
+| list | 132 |
+| punctuation | 90 |
+| note moved | 54 |
+| italic | 53 |
 | gap | 49 |
+| spacing | 47 |
 | expansion | 25 |
-| merge | 18 |
-| split | 6 |
-| note | 5 |
-| note moved | 4 |
+| merge | 20 |
+| note | 7 |
+| split | 7 |
 | epigraph | 2 |
 | skipped | 1 |
 
@@ -26,6 +26,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 2
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
 
 ## skipped
@@ -175,7 +176,8 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ] conueigh → convey
 - [vol-1/08-christs-union-with-his-beloved-body.typ] Creature → and creature
 - [vol-1/08-christs-union-with-his-beloved-body.typ] but → : but
-- [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body.
+- [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body
+- [vol-1/08-christs-union-with-his-beloved-body.typ] We → . We
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
@@ -291,6 +293,7 @@
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Hither to → Hitherto
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Cheney → China
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] 49 → 4
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] wives → 2. In suffering wives
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
@@ -333,6 +336,7 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 . 12 → 112
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vindie abitur → vindicabitur
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 16 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] baptizandis → Consuetudo matris Ecclesiae in baptizandis
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] pote rant → poterant
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] qualit as → qualitas
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Civility → 
@@ -406,6 +410,7 @@
 - [vol-4/02-a-servants-reverence-for-his-master.typ] of fending → offending
 - [vol-4/02-a-servants-reverence-for-his-master.typ] Well → and well
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] c → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] 34 → Acts 16. 34
 - [vol-4/03-a-servants-obedience-to-his-master.typ] One simus → Onesimus
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 11 → II
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 2 → 2 King
@@ -501,6 +506,7 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → ,
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → . 10.
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] : → .
+- [vol-1/08-christs-union-with-his-beloved-body.typ] ] → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ] § → §.
 - [vol-1/10-the-mystery-and-practice-of-marriage.typ] . → .)
 - [vol-1/11-the-childs-duties-to-his-parents.typ] * → 
@@ -766,7 +772,6 @@
 - Chrys → Chrys.
 - Com → Com.
 - Coning → Coniug
-- Consuetude → Consuetudo
 - Craelius → Cornelius
 - Dan → Dan.
 - Dent → Deut

@@ -17,7 +17,7 @@ A wives #emph[obedience] requireth
 
 #emph[Submission] in yielding to her husbands mind and will.
 
-#footnote[See §. 49.] #emph[Contentment] in resting satisfied and content with his estate and ability.
+#emph[Contentment]#footnote[See §. 49.] in resting satisfied and content with his estate and ability.
 
 That #emph[Submission] consisteth in two things.
 
@@ -221,7 +221,7 @@ To prove a wives property in the common goods of the family the reasons followin
 
 I answer, #emph[Much every manner of way.]
 
-1\. #footnote[Treat. 4. §. 52. 54.] There is due to her a more free and plentiful use of all the goods, then unto them.
+1\. There#footnote[Treat. 4. §. 52. 54.] is due to her a more free and plentiful use of all the goods, then unto them.
 
 2\. By her place she hath the ordering and disposing of the goods allotted for the common use of the family: as was #footnote[§. 21.] before granted.
 

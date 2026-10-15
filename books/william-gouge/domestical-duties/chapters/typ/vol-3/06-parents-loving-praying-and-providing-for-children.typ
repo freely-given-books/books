@@ -33,6 +33,7 @@ The precept it self enjoineth to parents three duties.
 
 + To #emph[nourish] children, namely with food, apparel, and other like necessaries #emph[(Nourish them.)]
 + To #emph[nurture] them, namely with good discipline #emph[(In nurture.)]
+
 + To #emph[instruct] them, namely in the ways of God #emph[(And admonition of the Lord.)]
 
 Nature teacheth unreasonable creatures to do the first, civility teacheth reasonable men to do the second, piety teacheth Christians to do the third.
@@ -161,7 +162,7 @@ They who at any time in any thing are negligent and careless of their childrens 
 
 The first age of a child is the infancy thereof. I will therefore first show how therein parents must procure the #emph[temporal] good of their children, and then their #emph[spiritual] good.
 
-The first part of a childs #emph[infancy] is while it remaineth in the mothers womb. Here therefore the duty lieth principally upon the mother: who so soon as she perceiveth a child to be conceived in her womb, ought to have an especial care thereof, that (so much as in her lieth) the child may be safely brought forth. (#footnote[#emph[Grauidae corpora curare debent. Mens item earum quietem desiderat. Quae enim procreantur à matre in cuius aluo continentur, alimentum capiunt, vt à terra ea-quae gignantur ex ea. Arist. Pol. lib.] 7.] The heathen Philosophers, by light of nature, observed this to be a duty; and prescribed it to mothers.) A mother then must have a tender care over her self when she is with child: for the child being lodged in her, and receiving nourishment from her (as plants from the earth) her well-being tendeth much to the good and safety of the child: but the hurt that cometh to her, maketh the child the worse, if it be not a means to destroy it. Why was the charge of #footnote[#emph[Judg.] 13. 4.] #emph[abstaining from wine, strong drink, and unclean things,] given to #emph[Manoahs] wife, but because of the child which she conceived?
+The first part of a childs #emph[infancy] is while it remaineth in the mothers womb. Here therefore the duty lieth principally upon the mother: who so soon as she perceiveth a child to be conceived in her womb, ought to have an especial care thereof, that (so much as in her lieth) the child may be safely brought forth.#footnote[#emph[Grauidae corpora curare debent. Mens item earum quietem desiderat. Quae enim procreantur à matre in cuius aluo continentur, alimentum capiunt, vt à terra ea-quae gignantur ex ea. Arist. Pol. lib.] 7.] (The heathen Philosophers, by light of nature, observed this to be a duty; and prescribed it to mothers.) A mother then must have a tender care over her self when she is with child: for the child being lodged in her, and receiving nourishment from her (as plants from the earth) her well-being tendeth much to the good and safety of the child: but the hurt that cometh to her, maketh the child the worse, if it be not a means to destroy it. Why was the charge of #footnote[#emph[Judg.] 13. 4.] #emph[abstaining from wine, strong drink, and unclean things,] given to #emph[Manoahs] wife, but because of the child which she conceived?
 
 In this case there is a double bond to make mothers careful of themselves.
 
@@ -394,7 +395,7 @@ That parents are bound to procure Baptism for their children these reasons decla
 
 8\. The #emph[comfort] which from the performance of this duty will arise to Christian parents, yea and to the children also themselves when they come to the age of understanding. When parents behold the covenant of God surely sealed and confirmed to their children, they cannot (if at least they bear any love to their children) but much rejoice therein. And it must needs also much comfort the child when (being of understanding) he shall know that from his infancy he hath carried the seal and pledge of his regeneration.
 
-9\. The constant continued #emph[custom] of the true catholic #footnote[Consuetudo matris Ecclesiae in] Church, which ever since the Apostles time hath afforded the #footnote[#emph[baptizandis paruulis nequaquam spernenda est. Aug. de Gen. l.] 10. #emph[c.] 23.] sacrament of baptism to children.
+9\. The constant continued #emph[custom] of the true catholic#footnote[Consuetudo matris Ecclesiae in #emph[baptizandis paruulis nequaquam spernenda est. Aug. de Gen. l.] 10. #emph[c.] 23.] Church, which ever since the Apostles time hath afforded the sacrament of baptism to children.
 
 === §. 19. #emph[Of Parents procuring their children to be rightly baptized.]
 

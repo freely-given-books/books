@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #text(style: "italic")[5. Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ. 6. Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart. 7. With good will doing service, as to the Lord, and not to men. 8. Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]
+    #text(style: "italic")[5\. Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ. 6. Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart. 7. With good will doing service, as to the Lord, and not to men. 8. Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]
   ]
 ]
 
@@ -25,7 +25,7 @@ Therein he
 + Declareth their duties.
 + Addeth motives to perform them.
 
-I. In declaring servants duties he noteth the #emph[kinds,] the #emph[manner,] and the #emph[extent] of them.
+I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], and the #emph[extent] of them.
 
 1\. The kinds of servants duties are noted in two words,—
 
@@ -148,7 +148,7 @@ This fear will draw servants on, cheerfully to perform all duty: the more it abo
 
 Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress) and in this respect it may #footnote[#emph[Gen.] 39. 8.] prevent many mischiefs which their masters offence and wrath might bring upon them.
 
-One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title (#footnote[אדון #emph[Gen.] 24. 9. Κύριος. #emph[Eph.] 6. 5.] #emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
+One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title#footnote[אדון #emph[Gen.] 24. 9. Κύριος. #emph[Eph.] 6. 5.] (#emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
 
 === §. 5. #emph[Of the extremes contrary to servants fear of their masters.]
 
@@ -174,7 +174,7 @@ In speech by #emph[refraining] and #emph[well ordering] speech.
 
 Servants reverence in refraining speech is manifested 3. Ways.
 
-1\. By sparing to speak, without just cause in their masters presence or audience: This phrase (#footnote[1 #emph[King.] 10. 8.] #emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomons] servants, showeth that they were slow to speak and swift to hear in their masters presence.
+1\. By sparing to speak, without just cause in their masters presence or audience: This phrase#footnote[1 #emph[King.] 10. 8.] (#emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomons] servants, showeth that they were slow to speak and swift to hear in their masters presence.
 
 2\. By forbearing to reply when they observe their masters unwilling that they should speak any more. Thus did #emph[Peter] forbear when his master gave him this short answer, #footnote[#emph[John] 21. 22.] #emph[What is that to thee?]
 

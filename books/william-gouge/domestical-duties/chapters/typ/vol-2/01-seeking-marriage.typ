@@ -200,7 +200,7 @@ Great are the dangers and damages that ordinarily fall out thereupon. For first 
 
 3\. Many other mischiefs are like to follow upon this kind of unequal marriage, besides danger of apostasy (which yet is the greatest) as
 
-1\. #footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] #emph[Many jars and contentions betwixt man and wife.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
+1\. #emph[Many jars and contentions betwixt man and wife.]#footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
 
 2\. #emph[Disturbance of the family:] one part holding with the man, another with the woman.
 

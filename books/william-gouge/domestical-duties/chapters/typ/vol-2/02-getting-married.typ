@@ -54,7 +54,7 @@ Contrary is that unwarrantable course which many take, to #footnote[Unlawful for
 
 === §. 19. #emph[Of a religious consecrating of marriage.]
 
-III. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth in a religious #emph[consecration,] and in a civil #emph[celebration] thereof.
+III. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth in a religious #emph[consecration], and in a civil #emph[celebration] thereof.
 
 A religious #emph[consecration] of marriage is performed by the blessing of a public Minister of the word in the open face of the Church in the day time. This of old hath been used of Christians, and still is continued among us. Though we have neither express precept, nor particular pattern in Gods word for this manner of solemnizing a marriage (for there is no particular form thereof set down in the Scripture) yet it being agreeable to the general rules thereof, we ought in conscience to subject our selves thereto.
 
@@ -62,7 +62,7 @@ The general rules are these, #emph[Let all things be done decently,] #footnote[1
 
 1\. Marriage is a kind of public action: the well or ill ordering thereof much tendeth to the good or hurt of family, Church, and common-wealth. For by marriage families are erected, and Church and common-wealth increased and continued.
 
-2\. #footnote[#emph[Heb.] 13. 4.] #emph[Marriage is honourable.] #footnote[Treat. 1. §. 80, 81, 82, #emph[etc.]] The most sacred and inviolable bond that knitteth any two persons together.
+2\. #emph[Marriage is honourable.]#footnote[#emph[Heb.] 13. 4.] #footnote[Treat. 1. §. 80, 81, 82, #emph[etc.]] The most sacred and inviolable bond that knitteth any two persons together.
 
 3\. Marriage is #footnote[#emph[Prov.] 2. 17.] Gods covenant, wherein he himself hath a main and principal stroke. For God is the chiefest agent in joining man and woman in marriage.
 
@@ -148,7 +148,7 @@ No such help can man have from any other creature as from a wife; or a woman as 
 
 === §. 25. #emph[Of the Privileges of marriage.]
 
-III. If (#footnote[#emph[Rom.] 3. 1.] as once of circumcision) it be demanded what is the privilege, advantage, and profit of marriage, I answer, #emph[Much every way.]
+III. If#footnote[#emph[Rom.] 3. 1.] (as once of circumcision) it be demanded what is the privilege, advantage, and profit of marriage, I answer, #emph[Much every way.]
 
 1\. By it men and women are made #emph[husbands] and #emph[wives.]
 
@@ -172,7 +172,7 @@ Hereby man and wife who entirely, as they ought, love one another, have an evide
 
 Let now the admirers and praisers of a single estate bring forth all their reasons, and put them in the other scale against marriage. If these two be duly poised, and rightly weighed, we shall find single life too light to be compared with honest marriage. All that can be said for the single estate, is grounded upon accidental occasions. Saint #emph[Paul,] who of all the pen-men of holy Scripture hath spoken most for it, draweth all his commendations to the head of #emph[Expediency,] and restraineth all unto #footnote[1 #emph[Cor.] 7. 26. διὰ τὴν ἐνεστῶσαν ἀνάγκην.] #emph[present necessity.]
 
-#emph[Object.] He useth these words (#footnote[#emph[Vers.] 1.] #emph[good,] and #footnote[#emph[Vers.] 38.] #emph[better.)]
+#emph[Object.] He useth these words#footnote[#emph[Vers.] 1.] (#emph[good,] and #footnote[#emph[Vers.] 38.] #emph[better.)]
 
 #emph[Answ.] Those words have relation not to virtue, but to expediency: neither are they spoken in opposition to vice and sin, for then would it follow, that to marry (which is Gods ordinance, and honourable in all) were evil and sinful: which is to revive #footnote[#emph[Saturniliani de quibus Epiph. haer.] 23.] that ancient heresy, that #emph[marriage is of the devil.] #footnote[Si quis coinquinationem vocet legitimam commixtionem, habet inhabitatorem draconem Apostatam. Ignat. Epist. ad Philad.] Of old they who have called lawful marriage a defilement, have been said to have the Apostate dragon dwelling in them. But the Apostle styleth that #emph[good,] which is commodious, and that #emph[better] which is more expedient: and yet not simply more expedient, but to some persons at some times. For if any have not the gift of continency, it is not only commodious or more expedient that they marry, but also absolutely necessary. They are commanded so to do (1 #emph[Cor.] 7. 9.) Yet on the other side, if any have the gift of continency, they are not simply bound from marriage; there be other occasions, beside avoiding fornication, to move them to marry. It is therefore truly said that #emph[Virginity is not commanded, but advised unto.] #footnote[#emph[Virginitas non est iussa sed admonita. Bernard. de modo benè viu. serm.] 21.] #emph[We have no precept for it, but leave it to the power of them that have that power.] So far forth as men and women see just occasion of abstaining from marriage (being at least able so to do) they are by the Apostle persuaded to use their liberty and keep themselves free. But all the occasions which #footnote[#emph[De virginitate praeceptum non habemus: volentium potestati id relinquimus. Constit. Apost. li.] 4. #emph[cap.] 14.] move them to remain single arise from the weakness and wickedness of men. Their wickedness who raise troubles against others, their weakness who suffer themselves to be disquieted and too much distracted with affairs of the family, care for wife, children, and the like. Were it not for the wickedness of some, and weakness of others, #emph[to please an husband] #footnote[1 #emph[Cor.] 7. 32, 33, 34.] #emph[or a wife,] would be no hindrance #emph[to pleasing of the Lord.] If therefore man had stood in his entire and innocent estate, no such wickedness or weakness had seized upon him: and then in no respect could the single estate have been preferred #footnote[#emph[S. Ecclesia & virginitatem glorificat, & nuptias pudicas honorat. Epiph. haer.] 48.] before the married. But since the fall, Virginity (where it is given) may be of good use: and therefore the Church doth give due honour both to virginity and marriage.
 

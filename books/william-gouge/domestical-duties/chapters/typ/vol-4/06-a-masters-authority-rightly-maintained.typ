@@ -110,7 +110,7 @@ For this end three things are to be observed. #footnote[Direction.]
 
 2\. That masters keep their servants in awe and fear. #footnote[1 #emph[Tim.] 3. 4.] Children must be #emph[kept in subjection:] much more servants.
 
-3\. That masters do the things which they do in their carriage towards their servants with authority: #emph[Command, forbid, rebuke] (to use #footnote[#emph[Tit.] 2. 15.] the Apostles phrase) #emph[with all authority.] The manner of speech which the Centurion used to his servants (#footnote[#emph[Mat.] 8. 9.] #emph[go, come, do this)] savour of authority. So the Church taking upon her the person of a mistress, useth a word of authority, #footnote[#emph[Cant.] 3. 5.] #emph[I charge you] not to do this.
+3\. That masters do the things which they do in their carriage towards their servants with authority: #emph[Command, forbid, rebuke] (to use #footnote[#emph[Tit.] 2. 15.] the Apostles phrase) #emph[with all authority.] The manner of speech which the Centurion used to his servants#footnote[#emph[Mat.] 8. 9.] (#emph[go, come, do this)] savour of authority. So the Church taking upon her the person of a mistress, useth a word of authority, #footnote[#emph[Cant.] 3. 5.] #emph[I charge you] not to do this.
 
 === §. 5. #emph[Of masters making their authority to be despised.]
 

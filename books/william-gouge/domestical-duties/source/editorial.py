@@ -125,6 +125,15 @@ DROP_CAP_CASE = True
 # Lists the review numbers ("+" items) keep Typst's 1. 2. 3., not I. II.
 TYPST_ENUM = None
 
+# The parallel of husbands' and wives' duties (after the errata note), printed
+# "laid even one against another in one view": wives' duties against
+# husbands', wives' aberrations against husbands'. Set as two columns.
+def PARALLEL_TABLES(root):
+    ns = {"t": "http://www.tei-c.org/ns/1.0"}
+    tables = root.xpath("//t:div[@type='errata'][1]//t:table", namespaces=ns)
+    assert len(tables) == 4, len(tables)
+    return [tables[0:2], tables[2:4]]
+
 # A paragraph that opens with its number ("3. It is a means...") is an
 # ordinary paragraph with its number in the text, as printed in 1622: Gouge's
 # numbers run at several levels (points, their proofs, reasons), and set as

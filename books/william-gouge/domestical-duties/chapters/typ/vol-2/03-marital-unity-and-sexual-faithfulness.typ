@@ -18,7 +18,7 @@ Those mutual duties are
 
 Under that #emph[provident care] I comprise both the #emph[Means] whereby it may be the better effected (which is #emph[Cohabitation)] and the #emph[Matter] wherein it consisteth:
 
-And this respecteth the #emph[soul,] the #emph[body,] the #emph[good-name,] and the #emph[goods] of each other.
+And this respecteth the #emph[soul], the #emph[body], the #emph[good-name], and the #emph[goods] of each other.
 
 The #emph[joint] duties which are to be performed #emph[to others,] respect those who are #emph[in the house,] and those who are #emph[out of the house.]
 
