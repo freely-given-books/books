@@ -353,7 +353,9 @@ Contrary to this duty do all such mothers offend, as for any by-respects when no
 + Others upon pride, conceiting that their beauty would be impaired, and they look old too soon.
 + Others upon gain, because they can have a child cheaper nursed abroad then at home, where, at least, they must hire a maid the more.
 + Others upon pleasure, that they might more freely ride abroad, and meet their Gossips.
-+ Others upon other by-respects: all which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
++ Others upon other by-respects.
+
+All which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
 
 === §. 16. #emph[Of a fathers fault in hindering his wives nursing of her child.]
 

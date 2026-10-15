@@ -82,7 +82,9 @@ A general consent is especially requisite for ordering of household affairs: for
 + To #footnote[#emph[Pro.] 31. 21, 22.] order the decking and trimming of the house.
 + To #footnote[#emph[Vers.] 15.] dispose the ordinary provision for the family.
 + To #footnote[#emph[Gen.] 16. 6.] rule and govern maid servants.
-+ To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like. These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
++ To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like.
+
+These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
 
 1\. That she have in some measure sufficient discretion, #footnote[Cautions about referring matters of the house to the wives ordering.] wit, and wisdom, and be not too ignorant, foolish, simple, lavish, etc.
 
