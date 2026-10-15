@@ -139,6 +139,27 @@ so:
   `@rend="inline"` (colophon 0.12.2+). A brace can only be read inline
   whole, not in part, and two braces can't be nested into one list. In
   those cases use a paragraph or numbered paragraphs (Gouge §49, §56).
+  In a brace read inline, type a comma outside the italics
+  (`the #emph[soul], the #emph[body]`, not `#emph[soul,]`), or the comma
+  lands in the next cell's reading and comes back as "soul ,". After every
+  sync, diff `tei_extract --layer reg` against `chapters/typ`: a reading
+  the TEI cannot hold (a list item split into a paragraph, a sub-list
+  moved under a printed "4." paragraph) comes back in another shape, so
+  put it back and note it rather than forcing it.
+- **Typesetting sweep of the PDF** (Gouge, all four volumes 2026-10-14):
+  one agent per volume at medium effort, one at a time, each writing JSONL
+  (page, file:line, excerpt, proposal, small|template). Give it the known
+  kinds so it only counts them: an epigraph verse opening "23." set as a
+  list item; footnote markers in "(¹word", at a paragraph's start, straight
+  after an item number, or two side by side ("223224"); a margin note
+  split into two notes mid-phrase; two lists separated by a blank line that
+  keep counting (restart with `#[ #set enum(start: 1) ... ]`); a sub-list
+  not indented; a bold "Object./Quest." label alone or a roman one among
+  bold ones; stray "]"; runs of one-line paragraphs. Markers move by a
+  bracket-aware script (marker before the "(", or after the first word);
+  side-by-side markers and label styling are template/structure work.
+  Printed tables "laid one against another" are PARALLEL_TABLES (two
+  columns, fgbooks 0.10.0).
 - **Nested outlines** (Owen: I. › 1. › (1.) › [1.] › 1st.): readers lose
   their place when a series runs over several chapters, when an editor's
   numerals stack ("I. 1. (1.)") or clash ("2." for a second reason under
