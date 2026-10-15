@@ -19,9 +19,7 @@ And to the affirmative, and so it showeth, that the Lord nourisheth and cherishe
 
 That difference which is made betwixt #emph[Esau] a type of the world #emph[(Esau have I hated)] and #emph[Jacob] a type of the Church #footnote[#emph[Mal.] 1. 2, 3.] #emph[(Jacob have I loved)] showeth that the Lord is far from hating his Church. The world, not the Church, is the object of Gods hatred.
 
-#strong[Object.]
-
-The #footnote[#emph[Deut.] 1. 27.] Church her self, and the #footnote[#emph[&] 9. 28.] enemies thereof oft conceive by Christs dealing with her, that he hateth her.
+#emph[Object.] The #footnote[#emph[Deut.] 1. 27.] Church her self, and the #footnote[#emph[&] 9. 28.] enemies thereof oft conceive by Christs dealing with her, that he hateth her.
 
 #emph[Answ.] It is the flesh abiding in them that are of the Church which maketh them so to conceive, not the spirit: and in the enemies of the Church the flesh altogether reigneth. But the things of God, and his mind and affection, nor can, nor may be judged by carnal eyes, eyes of flesh. The #footnote[#emph[Heb.] 12. 6.] Spirit of God accounteth such things evidences of Gods love, which flesh judgeth to be tokens of hatred; namely, corrections.
 
@@ -76,11 +74,11 @@ The latter #emph[(of his flesh and of his bones)] declareth the #emph[means] #fo
 
 #emph[Answ.] Not so, if the words be literally taken. For so may Christ rather be said to be #emph[of our flesh,] and #emph[of our bones,] because he took our nature, and that from a daughter of #emph[Adam:] in which respect he is said to be #footnote[2 #emph[Tim.] 2. 8. ἐκ σπέρματος Δαβίδ.] #emph[of the seed of David,] and #footnote[#emph[Rom.] 9. 5. ἐξ ὧν ὁ Χριστὸς τὸ κατὰ σάρκα.] #emph[of the Jews, as concerning the flesh.] Besides, the Apostle expressly saith (vers. 32.) that #emph[This is a great mystery.] The mystery therefore must be searched out. For this end Christ must be considered as another #emph[Adam] (and so the Holy Ghost styleth him #footnote[1 #emph[Cor.] 15. 45, 47.] #emph[The last Adam, The second man)] that is, a #emph[stock,] a #emph[root] that giveth a #emph[being] to branches sprouting out of him.
 
-#strong[2\. #emph[Quest.] What #emph[being] is that which we receive from Christ? #footnote[What #emph[being] we receive from Christ.]]
+2\. #emph[Quest.] What #emph[being] is that which we receive from Christ? #footnote[What #emph[being] we receive from Christ.]
 
 #emph[Answ.] Not our #emph[natural being] (that we have of the parents of our flesh) but a #emph[supernatural,] and #emph[spiritual being,] which the Scripture termeth #footnote[#emph[Tit.] 3. 5.] #emph[a new birth,] #footnote[#emph[Ephes.] 4. 24.] #emph[a new man,] #footnote[2 #emph[Cor.] 5. 17.] #emph[a new creature.] This #emph[spiritual being] is not in regard of the substance of our soul, or body, or of any of the powers or parts, faculties or members of them (for all these we have by lineal descent from #emph[Adam,] and all these have all sorts of men, as well they who are not of the Church, as they who are of it) but in regard of the integrity, goodness, and divine qualities which are in them #footnote[2 #emph[Pet.] 1. 4. #emph[Ephes.] 4. 24.] even that holiness and righteousness wherewith the Church is endued and adorned. As we are #emph[natural] men we are #emph[of Adam,] as we are #emph[spiritual] men we are #emph[of Christ.]
 
-#strong[3\. #emph[Quest.] Why is mention made of #emph[flesh] and #emph[bones] in this #footnote[Why we are said to be of Christs flesh. #emph[Gen.] 2. 23.] spiritual being?]
+3\. #emph[Quest.] Why is mention made of #emph[flesh] and #emph[bones] in this #footnote[Why we are said to be of Christs flesh. #emph[Gen.] 2. 23.] spiritual being?
 
 #emph[Answ.] 1. In allusion to the creation of #emph[Eve,] that by comparing this with that, #emph[this] might be the better conceived.
 
@@ -88,11 +86,11 @@ The latter #emph[(of his flesh and of his bones)] declareth the #emph[means] #fo
 
 3\. In relation to Christs human nature, by virtue whereof we come to be united unto Christ. For the divine nature of Christ is infinite, incomprehensible, incommunicable, and #footnote[#emph[Diuinitas vnigeniti facta est particeps mortalitatis nostrae, vt & nos participes eius immortalitatis essemus. Aug. Epist.] 57.] there is no manner of proportion betwixt it and us, so as we could not be united to it immediately. But Christ by taking his human nature into the unity of his divine nature, made himself one with us, and us one with him: so as by his partaking of our mortality, we are made partakers of his immortality.
 
-#strong[4\. #emph[Quest.] Are we then united only to his human nature?]
+4\. #emph[Quest.] Are we then united only to his human nature?
 
 #emph[Answ.] No: we are united to his person, God-man. For as #footnote[We are united to Christs person.] the divine nature, in and by it self, is incommunicable; so the human nature singly considered, in and by it self, is unprofitable. The Deity is the fountain of all life and grace: the flesh quickeneth not: but that spiritual life which originally and primarily floweth from the Deity, as from a fountain, is by the humanity of Christ, as by a conduit-pipe, conveyed into us.
 
-#strong[5\. #emph[Quest.] How can we who are on earth, be united to his #footnote[How Saints on earth are united to Christ in heaven.] human nature, which is contained in the highest heaven?]
+5\. #emph[Quest.] How can we who are on earth, be united to his #footnote[How Saints on earth are united to Christ in heaven.] human nature, which is contained in the highest heaven?
 
 #emph[Answ.] This union being supernatural and spiritual, there needeth no local presence for the making of it. That eternal Spirit which is in Christ is conveyed into every of the Saints (as the soul of a man is into every member and part of his body) by virtue whereof they are all made one with Christ, and with one another: #emph[by one Spirit we are all baptized into one body,] #footnote[1 #emph[Cor.] 12. 12, 13.] which body is #emph[Christ.]
 
@@ -108,7 +106,7 @@ The second error is this,
 
 #emph[Answ.] This also is impossible and needless. The properties of a true body cannot possibly admit the incommunicable properties of the Deity: that implieth direct contradiction, which is, that finite should be infinite. Needless also this is, because the union we speak of, is (as we said) spiritual.
 
-#strong[6\. #emph[Quest.] What kind of union is this spiritual union? #footnote[Our union with Christ a true and real union.]]
+6\. #emph[Quest.] What kind of union is this spiritual union? #footnote[Our union with Christ a true and real union.]
 
 #emph[Answ.] A true, real union of our persons (bodies and souls) with the person of Christ (God and man.) For as the Holy Ghost did unite in the virgins womb the divine and human natures of Christ, and made them one person, by reason whereof Christ is #emph[of our flesh & of our bones:] so the spirit uniteth that person of Christ with our persons, by reason whereof we are #emph[of his flesh, and of his bones.] A great difference there is betwixt the kinds of these unions: for the union of Christs two natures is hypostatical and essential, they make one person: but the union of Christs person, and ours, is spiritual and mystical: they make one mystical body: yet is there no difference in the reality and truth of these unions: our union with Christ is never a whit the less real and true because it is mystical and spiritual: they who have the same spirit are as truly one, as those parts which have the same soul. The effects which proceed from this union do show the truth thereof: for that spirit which sanctified Christ in his mothers womb sanctifieth us also, that which quickened him quickeneth #footnote[#emph[Rom.] 8. 11. #emph[Eph.] 2. 6.] us, that which raised him from death, raiseth us, that which exalted him exalteth us. The many resemblances which the Scripture useth to set forth this union, do show the truth thereof: but most lively is it set forth by that resemblance which Christ maketh betwixt it and his union with his father. #emph[I pray] (saith he of all his Saints) #emph[That they may all] #footnote[#emph[Joh.] 17. 21, 22.] #emph[be one, as thou father art in me, and I in thee, that they also may be one in us: that they may be one, as we are one.] This note of comparison #emph[(as)] is not to be taken of the #emph[kind,] but of the #emph[truth] of these unions, our union with Christ is as true as Christs union with his father.
 
@@ -116,11 +114,11 @@ So true is this union, as not only Jesus himself, but all the #footnote[#emph[Un
 
 This is to be noted against their conceit, who imagine this union to be only in imagination and conceit: or else only in consent of spirit, heart, and will: or at the most, in participation of spiritual graces.
 
-#strong[7\. #emph[Quest.] What is the bond whereby this union is made: #footnote[With what bonds we are united to Christ. 1 #emph[Joh.] 4. 13.] namely whereby Christ and the Saints are made one?]
+7\. #emph[Quest.] What is the bond whereby this union is made: #footnote[With what bonds we are united to Christ. 1 #emph[Joh.] 4. 13.] namely whereby Christ and the Saints are made one?
 
 #emph[Answ.] There is a double bond, one on Christs part, even the spirit of Christ (for #emph[hereby know we that we dwell in him, and he in us, because he hath given us of his spirit)] another on the Saints part, even faith #emph[(for Christ dwelleth in our hearts by faith)] #footnote[#emph[Eph.] 3. 17.] The spirit is conveyed into us when we are dead in sins, wholly flesh, but being in us, it breedeth this blessed instrument of faith whereby we lay hold on Christ, and grow into him as the scion into the stock. Thus Christ laying hold on us by his spirit, and we on him by faith, we come to be incorporated into him, and made one body, as the scion and stock one tree.
 
-#strong[8\. #emph[Quest.] To what end hath Christ thus truly and nearly #footnote[Why Christ made the Saints one with himself.] united us unto himself?]
+8\. #emph[Quest.] To what end hath Christ thus truly and nearly #footnote[Why Christ made the Saints one with himself.] united us unto himself?
 
 #emph[Answ.] Not for any benefit unto himself: but merely for the honour and good of the Church. By this union the honour of Christ is communicated to the Church, as the honour of an husband to his wife, and of an head to the body. Great also is the benefit which the Church reapeth thereby: for by this means is Christ made more fit to do good to the Church, as an head to the body, and the Church is made more capable of receiving good from Christ, as a body from the head, being knit to it by the soul, and by veins, sinews, nerves, arteries, and other like ligaments.
 
@@ -158,7 +156,7 @@ Learn here how to conceive of the resurrection, ascension and safety of Christ, 
 
 8\. #emph[A right to more then Adam ever had:] namely, to Christ #footnote[8\. Saints have a right to Christ. See §. 28.] himself, and to all that appertaineth unto him: as to the purity of his nature, to the perfection of his obedience, the merit of his blood, the power of his death, the virtue of his resurrection, the efficacy of his ascension, all is ours: even as the understanding, wit, judgment, sight, hearing, and all that is in the head, is the bodies: if the Church it self were of it self as pure in nature, as perfect in righteousness, as powerful over death, and devil, and grave, and hell, as able to rise from death, and to ascend into heaven, as Christ, it could receive no greater benefit thereby, then it doth by them in the person of Christ: so truly and properly is Christ himself, and all things appertaining to him, the Churches. What can more be said? What can more be desired? O blessed union! Blessed are they that have a part therein!
 
-#strong[#emph[Quest.] How is it then that the Church is so basely and miserably #footnote[Why the Church basely accounted of. 1 #emph[Joh.] 3. 1.] respected in the world?]
+#emph[Quest.] How is it then that the Church is so basely and miserably #footnote[Why the Church basely accounted of. 1 #emph[Joh.] 3. 1.] respected in the world?
 
 #emph[Answ. The world knoweth us not, because it knoweth not Christ.] It knoweth not Christ the head of this body: it knoweth not the body which is #emph[Christ.] Let not us who know both head and body, the near union which is betwixt them, and the privileges which follow thereupon, be daunted, neither with the scoffs or scorns of the world, nor with our own outward weaknesses, wants, and calamities. What would he that hath Christ, have more?
 

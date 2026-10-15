@@ -80,11 +80,11 @@ The honour and authority of God, and of his son Christ #footnote[1\. Gods author
 
 The good of the wife her self is thus also much promoted, #footnote[2\. The wives good promoted thereby.] even as the good of the body is helped forward by the heads abiding in his place; should the head be put under any of the parts of the body, the body and all the parts thereof could not but receive much damage thereby: even so the wife and whole family would feel the damage of the husbands loss of his authority.
 
-#strong[1\. #emph[Quest.] Is it in the power of the husband to maintain his own authority?]
+1\. #emph[Quest.] Is it in the power of the husband to maintain his own authority?
 
 #emph[Answ.] Yea, in his more then in any others: for note the #footnote[It is in the mans power to maintain his authority. 1 #emph[Tim.] 4. 12.] counsel of the Apostle to #emph[Timothy,] (though in another case, yet very pertinent to this purpose) #emph[Let no man despise thy youth.] It was therefore in #emph[Timothies] power to maintain his honour, and not to suffer it to be despised; and so is it in an husbands power.
 
-#strong[2\. #emph[Quest.] How may an husband best maintain his authority?]
+2\. #emph[Quest.] How may an husband best maintain his authority?
 
 #emph[Answ.] That direction which the Apostle giveth to #emph[Timothy] #footnote[How a mans authority may be well maintained. #emph[Ad viros pertinet virtute vincere, & exemplo regere foeminas. Aug. de Adult. Coniug. lib.] 2. #emph[cap.] 8.] to maintain his authority, may fitly be applied for this purpose unto an husband; #emph[Be an ensample in conversation, in love, in spirit, in faith, and in pureness:] as if he had said, If thou walk before them worthy of thy place and calling, and worthy of that honour and respect which is due thereunto, showing forth the fruits of love, faith, and other like graces, assuredly they will reverence thy youth; but if otherwise thou carry thy self basely, and not beseeming a minister, thou givest them just occasion to despise thee. Even thus may husbands best maintain their authority by being an ensample in love, gravity, piety, honesty, etc. The fruits of these and other like graces showed forth by husbands before their wives and family, cannot but work a reverend and dutiful respect in their wives and whole house towards them: for by this means they shall more clearly discern the image of God shine forth in their faces.
 
@@ -138,7 +138,7 @@ As a wives acknowledgment of her husbands superiority is the ground-work of all 
 
 === §. 7. #emph[Of that fellowship which is betwixt man and wife, notwithstanding a wives inferiority.]
 
-#strong[#emph[Object. Fellowship] betwixt man and wife cannot stand with a wives #emph[inferiority] and #emph[subjection.]]
+#emph[Object. Fellowship] betwixt man and wife cannot stand with a wives #emph[inferiority] and #emph[subjection.]
 
 #emph[Answ.] They are of very mean capacity that cannot see how these may stand together. Is there not a fellowship betwixt superior and inferior magistrates in relation to their subjects? Yea the Scripture mentioneth a fellowship betwixt Christ the head and other Saints in relation to the glory #footnote[#emph[Rom.] 8. 17. συγκληρονόμοι Χριστοῦ.] whereof all are made partakers (for it termeth us #emph[joint heirs with Christ:)] and in relation to Gods people a fellowship betwixt God and his ministers (for it termeth them #emph[labourers together] #footnote[1 #emph[Cor.] 3. 9. Θεοῦ συνεργοί.] #emph[with God)] yet none can deny the Saints, and ministers to be inferior and in subjection to Christ, and God. But distinctly to answer the objection.
 
@@ -160,7 +160,7 @@ Contrary is the conceit of many who think there is no #footnote[#emph[Non es dom
 
 Good reason there is for him so to do: for true is the proverb, #footnote[#emph[Reason.] Every ones wife is provided by God.] if it be rightly taken, #emph[marriages are first made in heaven,] that is, God hath an over-ruling hand in ordering them: which #footnote[#emph[Pro.] 19. 14.] #emph[Solomon] implieth by that opposition which he maketh betwixt wealth and a wife: #emph[that] is from our fathers, #emph[this] from the Lord: in which respect he saith, #footnote[#emph[&] 18. 22.] #emph[he which findeth a wife receiveth favour of the Lord.] If therefore thou art loved of God, and lovest him, he will make thy wife prove a good thing to thee.
 
-#strong[#emph[Object.] A wife may be a very lewd and wicked woman: how then can she be accounted the best wife?]
+#emph[Object.] A wife may be a very lewd and wicked woman: how then can she be accounted the best wife?
 
 #emph[Answ.] 1. It may be she was good enough when first she was brought to thee, but thou by thine evil example, or negligent government, or hard usage, hast made her so bad as she is. Which if it be so, then is she to be considered not as thou hast marr'd her, but as thou didst marry her.
 

@@ -39,7 +39,7 @@ Two especial cautions are to be observed by parents in #footnote[Cautions in pro
 
 The extreme in the defect contrary to a parents provident care in providing a fit calling, is, a careless neglect of children after they are well educated, a leaving them to shift for themselves. #footnote[#emph[Imitari noli crudelitatem earum auium quibus vngues adunci sunt: hi cùm suos senserint foetus volandi iam potestatem consequutos esse, alis eos verberantes ac impingentes nidis pellunt, nullamque prorsus erga illos extrusos curam deinceps adhibent. Basil. Hexam. hom.] 8.] It is noted of the ravenous fowls that have sharp talons, that so soon as they perceive their young ones to be able to fly, they will flap and beat them with their wings, and drive them out of their nests, and after that take no further care of them. We may not be like such cruel birds: reason and religion teacheth us otherwise. Good education is a good duty, but not a parents whole duty: the stay which is here made, may make all the former care and pains to be of little use.
 
-#strong[#emph[Object.] This is to be left to Gods providence.]
+#emph[Object.] This is to be left to Gods providence.
 
 #emph[Answ.] Means rightly used are subordinate to Gods providence, and by them doth God manifest his providence and bring his counsel to pass: to neglect means is to thwart and cross the divine providence. It is therefore well done to rely on Gods providence: but ill done to neglect the means of effecting it. Gods blessing is best discerned in the use of means.
 
@@ -87,7 +87,7 @@ An especial outward means whereby parents may be the better enabled to provide f
 
 While children are under their parents they have no means to lay up for themselves: for all their service is for their parents. But in regard of the times wherein we live, it is needful for setting up in a good calling, and for obtaining a fit match, that children have some stock and portion. It lieth therefore upon the parents, and their duty it is to provide it.
 
-#strong[#emph[Object.] Christ forbiddeth to lay up treasures on earth. #footnote[#emph[Mat.] 6. 19. expounded.]]
+#emph[Object.] Christ forbiddeth to lay up treasures on earth. #footnote[#emph[Mat.] 6. 19. expounded.]
 
 #emph[Answ.] If the scope of that place be rightly marked, it will appear that Christ there forbiddeth not simply the thing it self, but
 
@@ -225,11 +225,11 @@ The parties to whom parents are to perform all the forenamed duties are expresse
 
 === §. 68. #emph[Of the prerogative of the first-born son.]
 
-#strong[#emph[Quest.] May not a parent prefer his first-born child, and heir before his other children?]
+#emph[Quest.] May not a parent prefer his first-born child, and heir before his other children?
 
 #emph[Answ.] We must put difference betwixt a fathers disposing his estate upon his children, and the ordering of his affection towards them. A parents affection, and care of good education, and desire of true good, and faithful prayers to God, may be as great towards his younger children, as towards his eldest son and heir, and yet may he bestow the greatest patrimony upon the heir: which is no partiality.
 
-#strong[2\. #emph[Quest.] Is it then just and equal that the eldest son should have a greater patrimony then any of the rest?]
+2\. #emph[Quest.] Is it then just and equal that the eldest son should have a greater patrimony then any of the rest?
 
 #emph[Answ.] It is most just and equal. For
 
@@ -251,7 +251,7 @@ The parties to whom parents are to perform all the forenamed duties are expresse
 
 4\. That #footnote[#emph[Num.] 36. 8.] if daughters were heirs they should not marry out of their fathers tribe: and this reason is given, #emph[that every man may enjoy the inheritance of his fathers.]
 
-#strong[#emph[Object.] By leaving the whole inheritance to the eldest, he may be made a Gentleman, and all the other beggars.]
+#emph[Object.] By leaving the whole inheritance to the eldest, he may be made a Gentleman, and all the other beggars.
 
 #emph[Answ.] In this respect parents ought to be so much the more provident for their other children, in training them up to callings, or laying up portions, or settling other estates upon them beside the main inheritance, or in taking order that competent portions be raised out of the inheritance of the eldest son, in case God take them away before they have otherwise provided for their children.
 
@@ -279,7 +279,7 @@ Sometimes again a gripulous seeking of advantage to themselves maketh parents to
 
 === §. 70. #emph[Of the causes for which the first-born may be disinherited.]
 
-#strong[#emph[Quest.] May not then a first-born son be disinherited?]
+#emph[Quest.] May not then a first-born son be disinherited?
 
 #emph[Answ.] Yes, the Scripture noteth two causes wherein the first-born may be put from the inheritance.
 

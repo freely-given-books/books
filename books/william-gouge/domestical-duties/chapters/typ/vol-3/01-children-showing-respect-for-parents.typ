@@ -136,7 +136,7 @@ A childes reverence in well framing his speech to his parents #footnote[A childs
 
 1\. By giving unto them reverend and honourable titles. No title can be more honourable then that which is most proper and usual, #emph[father] to the one parent, and #emph[mother] to the other. God taketh the title #footnote[#emph[Jer.] 31. 9. #emph[Gal.] 4. 6.] #emph[father] unto himself, as a title of great dignity.
 
-#strong[#emph[Object.] This title is so proper to God, as #footnote[#emph[Matt.] 23. 9.] #emph[We are to call none in earth Father.]]
+#emph[Object.] This title is so proper to God, as #footnote[#emph[Matt.] 23. 9.] #emph[We are to call none in earth Father.]
 
 #emph[Answ.] This is not simply to be taken of the title it self, but of the mind of him that giveth or affecteth that title.
 
@@ -195,7 +195,7 @@ Wherefore let all reverence be manifested in childrens behaviour to their parent
 
 4\. Let the upper place, and hand be given to parents: and #footnote[4\. By giving the upper hand.] if occasionally a child be above his parent, let him come below him. For that is a manifest token of inferiority and subjection. What maketh men to strive for the upper hand, but because they would be accounted better then those with whom they strive? But that ought not to be the mind of children to their parents.
 
-#strong[#emph[Quest.] What if children be in estate more wealthy, or honourable then their parents, are they then to give the hand to them?]
+#emph[Quest.] What if children be in estate more wealthy, or honourable then their parents, are they then to give the hand to them?
 
 #emph[Answ.] No honour is comparable to the dignity of fatherhood: it giveth a greater eminency to the parent over his child, then any other honour can to the child over his parent. I grant that a child may by some office, and outward dignity be so advanced above his father, as other men may more honour and reverence the child, and give the upper place to him: and for order sake the child may and ought to take it in company: but when they are alone, the child must rather reverence the father.
 
@@ -219,7 +219,7 @@ For the thing, it is noted of #emph[Jacob] that he carried savory meat to his fa
 
 Concerning the gesture of kneeling, it is answerable to the #footnote[It is lawful for children to kneel to their parents. #emph[Gen.] 48. 12.] gesture which of old was used by Gods people in like case: of #emph[Joseph] it is said that #emph[he bowed down himself with his face to the earth.]
 
-#strong[#emph[Object.] Kneeling is a gesture proper to Gods worship.]
+#emph[Object.] Kneeling is a gesture proper to Gods worship.
 
 #emph[Answ.] It is not so proper, but that it may be used in civil cases: else Christ would have reproved the young man for #emph[kneeling] before him as well as for calling him #emph[good:] for he conceived #footnote[#emph[Mar.] 10. 17.] Christ to be but a mere man, and the worship he did him was but civil.
 

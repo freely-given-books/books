@@ -107,7 +107,7 @@ By this pattern of Christ here propounded to husbands, we have on the one side a
 
 To the example of Christ the Apostle annexeth the pattern of ones self, in these words: #emph[So ought men to love their] #footnote[#emph[Eph.] 5. 28.] #emph[wives as their own bodies.]
 
-#strong[#emph[Quest.] Is not the former pattern sufficient? Is this latter more excellent, or more perfect?]
+#emph[Quest.] Is not the former pattern sufficient? Is this latter more excellent, or more perfect?
 
 #emph[Answ.] Christs example is a full, complete, perfect, and #footnote[To Christs example, the pattern of ones self is added.] every way sufficient pattern; far more excellent then this of a mans self: this is not annexed to add any thing to that, or in regard of the excellency hereof, but only in regard of our dulness, to make the point somewhat more plain and perspicuous. #footnote[1\. Because it is more sensible.] For this pattern is more sensible and better discerned. Every one knoweth how he loveth his own body: but few or none know how Christ loveth his Church. Besides, #footnote[2\. Because it is more imitable.] that example of Christ may seem too high and excellent for any to attain unto, even inimitable; therefore to show that he requireth no more then a man may perform, if he will set himself with care and conscience to do his duty, he addeth the pattern of #emph[ones self;] that which one doth to his body, if he will, he may do to his wife.
 
@@ -151,7 +151,7 @@ The meanness of the Church is as low on the other side: she is a creature, fashi
 
 But if man and woman be compared together, we shall find a near equality: and that both in the points of their humiliation, and also of their exaltation. In regard of the former, they are both of the same mould, of the same corrupt nature, subject to the same infirmities, at length brought to the same end. In regard of the latter the best and greatest privileges are common to both of them: they are both made after the same image, redeemed by the same price, partakers of the same grace, and heirs together of the same inheritance.
 
-#strong[#emph[Quest.] What is then the preferment of the male kind? What is the excellency of an husband?]
+#emph[Quest.] What is then the preferment of the male kind? What is the excellency of an husband?
 
 #emph[Answ.] Only outward and momentany. #emph[Outward,] in the things of this world only: for #footnote[#emph[Gal.] 3. 28.] #emph[in Christ Jesus they are both one. Momentany,] for the time of this life only: for #footnote[#emph[Mat.] 22. 30.] #emph[in the resurrection they neither marry, nor are given in marriage, but are as the Angels of God in heaven:] then all subjection of wives to husbands ceaseth.
 

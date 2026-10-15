@@ -21,7 +21,7 @@ Though parents be over their children, and by them cannot be commanded, yet they
 
 The authority which parents have, is not so much for their own advancement, as for the better governing of their children, which being so, their very government is a duty.
 
-#strong[#emph[Object.] In the moral Law the duty of children only is expressed. #footnote[How parents duties are implied in the 5. Commandment.]]
+#emph[Object.] In the moral Law the duty of children only is expressed. #footnote[How parents duties are implied in the 5. Commandment.]
 
 #emph[Answ.] Parents duty (as many others duties) is by just and necessary consequence implied, which is equivalent, and as much bindeth, as if it were expressed. It is thus implied. They who have honour, must carry themselves worthy of honour. Now the way to carry themselves worthy of honour, is to be careful in doing duty to them that honour them. This is so equal, as it needed not to be expressed.
 
@@ -37,7 +37,7 @@ Though the word #emph[(fathers)] be here used, which properly #footnote[πατέ
 
 The next phrase #emph[(provoke to wrath)] is the exposition of one #footnote[παροργίζετε.] Greek word, which being a compound word, cannot by one English word be fully expressed: the best and nearest that I can think of is (exasperate.) The word signifieth an extremity in the use of authority: even too much austerity and severity, whereby children are provoked to wrath: which because it is a fault, it is here expressly forbidden #emph[(provoke not, etc.)] In this word there is a trope: the #emph[effect] is put for the #emph[cause:] The Apostles meaning is, that parents should take such heed of their carriage toward their children, as they give them no occasion to be stirred up to wrath. Under this word then are forbidden #footnote[Occasions of provoking children to wrath.] all such things, as may kindle wrath in children, as too much austerity in carriage, sourness in countenance, threatening and reviling in words, too hard handling, too severe correction, too much restraint of liberty, too small allowance of things needful, with the like. Parents being flesh and blood are subject in this kind to abuse their authority: yea, even they who fall into the other extreme of too much indulgency and cockering of their children, are very prone to fall also into this extreme: as many who for the most part too much suffer their children without due restraint and correction to run into all riot, will sometimes on a sudden, like Lions, fly upon them, and #emph[after their own pleasure correct them,] and so exceedingly provoke #footnote[#emph[Heb.] 12. 10.] their children. Such as are most cockering, are most prone to provoke to wrath: for, 1. Such least know how to keep a mean: one will sooner leap out of one extreme into another, then go from an extreme to the mean. 2. The children of such are soonest provoked.
 
-#strong[#emph[Quest.] Is it a thing lawful and justifiable in children to be provoked to wrath by their parents?]
+#emph[Quest.] Is it a thing lawful and justifiable in children to be provoked to wrath by their parents?
 
 #emph[Answ.] #footnote[See Treat. 5. §. 31, 41.] No. This prohibition intendeth no such thing: the Apostle hath here to do with parents: and instructeth them how to prevent such mischiefs as their children through their weakness may fall into. So as here only he showeth what is unlawful for parents, not what is lawful for children. Hence then by the way I observe that
 

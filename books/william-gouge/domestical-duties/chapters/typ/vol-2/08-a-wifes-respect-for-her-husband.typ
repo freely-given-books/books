@@ -54,7 +54,7 @@ In which resemblance two points are noted.
 
 The first point to be handled in the treatise of wives particular duties is the general matter of all #emph[(subjection)] under which all other particulars are comprised, for it hath as large #footnote[#emph[Maritum habere Dominum meruit mulieris culpa, quod tamen nisi seruetur, deprauabitur ampliùs natura, & augebitur culpa. Aug. de Gen. ad lit. lib.] 11. #emph[c.] 37. #emph[Ante peccatum non aliter factam fuisse decet credere mulierem nisi vt vir ei dominaretur. Ibid.]] an extent as that #emph[honour] which is required in the fifth commandment, being applied to wives. When first the Lord declared unto woman her duty, he set it down under this phrase, #emph[Thy desire shall be subject to thine husband, Gen.] 3. 16.
 
-#strong[#emph[Object.] That was a punishment inflicted on her for her transgression?]
+#emph[Object.] That was a punishment inflicted on her for her transgression?
 
 #emph[Answ.] And a law too, for trial of her obedience, which if it be not observed, her nature will be more depraved, and her fault more increased. Besides, we cannot but think that the woman was made before the fall, that the man might rule over her. Upon this ground the Prophets and Apostles have oft urged the same. #emph[Sarah] is commended for this, that she was #emph[subject] to her husband (1 #emph[Pet.] 3. 6.) Hereby the Holy Ghost would teach wives, that #emph[subjection] ought to be as salt to season every duty which they perform to their husband. Their very opinion, affection, speech, action, and all that concerneth the husband, must savour of #emph[subjection.] Contrary is the disposition of many wives, whom ambition hath tainted and corrupted within and without: they cannot endure to hear of #emph[subjection:] they imagine that they are made slaves thereby. But I hope partly by that which hath been before delivered concerning those common duties which man and wife do mutually owe each to other, and partly by the particulars which under this general are comprised, but most especially #footnote[#emph[Quem vocavit ad culpam mulier, iustum est vt eum gubernatorem assumat, ne iterum foeminea facilitate labatur. Ambr. Hexaem. l.] 5. #emph[c.] 7.] by the duties which the husband in particular oweth to his wife, it will evidently appear, that this #emph[subjection] is no servitude. But were it more then it is, seeing God requireth subjection of a wife to her husband, the wife is bound to yield it. And good reason it is that she who first drew man into sin, should be now subject to him, lest by the like womanish weakness she fall again.
 
@@ -217,7 +217,7 @@ Contrary are those compellations which argue equality or inferiority rather then
 
 But what may we say of those titles given to an husband by his wife, not seldom in passion, but usually in ordinary speech, which are not fit to be given to the basest men that be, as #emph[Grub, Rogue,] and the like, which I am even ashamed to name, but that the sins of women are to be cast as dirt on their faces, that they may be the more ashamed?
 
-#strong[#emph[Object.] Many of the forenamed titles are titles of amity and familiarity.]
+#emph[Object.] Many of the forenamed titles are titles of amity and familiarity.
 
 #emph[Answ.] Subjection is that mark which wives are directed to aim at in their thoughts, words, deeds, and whole conversation towards their husband. Such tokens of familiarity as are not withal tokens of subjection and reverence, are unbeseeming a wife, because they swerve from that mark.
 

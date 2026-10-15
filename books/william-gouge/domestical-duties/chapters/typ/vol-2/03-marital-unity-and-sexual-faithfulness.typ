@@ -134,7 +134,7 @@ There are two extremes contrary to this duty. One in the #emph[defect:] another 
 
 2\. #emph[Against Mercy,] when one of the married couple being weak by sickness, pain, labour, travel, or any other like means, and through that weakness not well able to perform his duty, the other notwithstanding will have it performed. #emph[I will have mercy, and not sacrifice,] saith the Lord. Shall Gods sacrifice give place to mercy, and shall not mans or womans lust? For so I may well term this unseasonable desire.
 
-#strong[#emph[Quest.] What if an husband or wife continue so long sick, or otherwise weak, as the other cannot contain?]
+#emph[Quest.] What if an husband or wife continue so long sick, or otherwise weak, as the other cannot contain?
 
 #emph[Answ.] In such cases of necessity the body must be beaten down, and earnest prayer made for the gift of continency: for assuredly the Lord who hath brought thee to that necessity, will give thee grace sufficient.
 
@@ -142,16 +142,16 @@ There are two extremes contrary to this duty. One in the #emph[defect:] another 
 
 To this kind of intemperancy #footnote[#emph[Aug. de bon. coniug. ca.] 6. #emph[Amb. in] 1 #emph[Cor.] 7.] some refer a mans knowing of his wife after she hath conceived with child. But I find no such matter condemned in Gods word: neither dare I make that a sin which is not there condemned. #footnote[#emph[Nemo Essenorum cum praegnante concumbit. Joseph. de bel. Jud. li.] 2. #emph[c.] 7.] Certain Sectaries among the Jews are branded for this error.
 
-#strong[1\. #emph[Object.] No other creature will so do: so as it may seem to be against nature.]
+1\. #emph[Object.] No other creature will so do: so as it may seem to be against nature.
 
 #emph[Answ.] 1. I deny the argument: though some forbear, yet all do not.
 
 2\. I deny the consequence: for other creatures are not so tied one male to one female, as an husband to his own wife. #footnote[#emph[Quod in bestijs ipso naturae iure praescriptum est, vt praegnantes ad partum vsque non coeant, hoc in hominibus sciant arbitrio relictum. Hier. in Eph.] 5. #emph[Sanchez de Matr. lib.] 9. #emph[disp.] 21, 22. #emph[agit de petendo & reddendo debito quando menstruum est: & tempore praegnationis, & dum infans lactatur.]] Besides, that which beasts by nature are tied unto, must be left to mans discretion.
 
-#strong[2\. #emph[Object.] After a woman hath once conceived, no more conceptions can be expected, till she be delivered.]
+2\. #emph[Object.] After a woman hath once conceived, no more conceptions can be expected, till she be delivered.
 
 #emph[Answ.] Conception is not the only end of this duty: for it is to be rendered to such as are barren.
 
-#strong[#emph[Quest.] What if the wife give suck to her child, ought not her husband then to forbear?]
+#emph[Quest.] What if the wife give suck to her child, ought not her husband then to forbear?
 
 #emph[Answ.] Because giving suck is a mother duty, man ought to do what he can to contain.

@@ -56,7 +56,7 @@ Contrary are the furious, and spiteful actions of many unkind husbands #emph[(he
 
 6\. The less power and authority that an husband hath to strike his wife, then a master to strike a servant, the more heavy do his strokes seem to be, and the worse doth the case of a wife seem to be in that respect, then of a servant. Not unfitly therefore is such a man (if he may be thought a man rather then a beast) said to be like a father-queller and mother-queller.
 
-#strong[#emph[Quest.] May not then an husband beat his wife? #footnote[An husband may not beat his wife.]]
+#emph[Quest.] May not then an husband beat his wife? #footnote[An husband may not beat his wife.]
 
 #emph[Answ.] With submission to better judgments, I think he may not: my reasons are these.
 
@@ -80,11 +80,11 @@ Contrary are the furious, and spiteful actions of many unkind husbands #emph[(he
 
 4\. There is no hope of any good to proceed from an husbands #footnote[4\. No profit: much mischief.] beating of his wife: for where the party corrected is persuaded that the party which correcteth hath no authority or right so to do, it will not be brought patiently to take it: but will resist, and strive if it be possible to get the mastery. Let a stranger strike such a child of years or a servant as will patiently bear many strokes at a parents or masters hand, they will turn again at that stranger, and endeavour to give him as good as he brings: now a wife having no ground to be persuaded that her husband hath authority to #footnote[#emph[Adhibitis verberibus morbus non tollitur, sed augetur, & exasperatur. Melch. Iun. quaest. Polit. par.] 2.] beat her, what hope is there that she will patiently bear it, and be bettered by it? Or rather is it not likely that she will, if she can, rise against him, over-master him (as many do) and never do any duty aright? A fault in a wife is not taken away but increased by blows.
 
-#strong[#emph[Object.] Smart and pain may make her dread her husband, stand in awe of him, and do her duty the better.]
+#emph[Object.] Smart and pain may make her dread her husband, stand in awe of him, and do her duty the better.
 
 #emph[Answ.] Such dread and awe beseems neither the place of an husband to exact it, nor the place of a wife to yield it. Though perforce she may be brought to yield some outward subjection, yet inward hatred of her husbands person may be joined therewith, which is as bad, if not worse then outward disobedience.
 
-#strong[#emph[Object.] She may be of so outrageous a disposition, as, but by #footnote[#emph[Nullum sit tam magnum peccatum, quod ad verberandum vxorem compellat. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] force, she will not be kept in any compass.]
+#emph[Object.] She may be of so outrageous a disposition, as, but by #footnote[#emph[Nullum sit tam magnum peccatum, quod ad verberandum vxorem compellat. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] force, she will not be kept in any compass.
 
 1\. #emph[Answ.] It hath been of old time answered, that #emph[no fault should be so great, as to compel an husband to beat his wife.]
 

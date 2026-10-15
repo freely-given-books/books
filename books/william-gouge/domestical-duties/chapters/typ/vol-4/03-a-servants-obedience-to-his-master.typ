@@ -31,7 +31,7 @@ This general will the better be cleared, if it be exemplified in some particular
 
 4\. They ought not to marry while the time of their covenant for service lasteth, unless their master give consent thereto. The law of God thus setteth forth the lawful marriages of servants, #emph[If his master have given him a wife:] whereby is implied; #footnote[#emph[Exo.] 21. 4.] that if a servant marry, it must be with his masters consent.
 
-#strong[#emph[Object.] The Apostle, without exception of servants saith, #emph[to avoid fornication let every man have his wife,] etc. #footnote[1 #emph[Cor.] 7. 2.]]
+#emph[Object.] The Apostle, without exception of servants saith, #emph[to avoid fornication let every man have his wife,] etc. #footnote[1 #emph[Cor.] 7. 2.]
 
 #emph[Answ.] He there showeth what means the Lord hath sanctified to every one to avoid fornication, but he doth not thereby give liberty to every one headily to use that means against that order which God hath set down.
 
@@ -41,13 +41,13 @@ This general will the better be cleared, if it be exemplified in some particular
 
 5\. They ought not to dispose their masters goods at their own pleasure, no not for charitable uses. The Steward which #footnote[#emph[Luk.] 16. 1, 2.] wasted his masters goods was justly put out of office for it. Yea he is called #emph[unjust] for disposing some of them for his own #footnote[#emph[vers.] 8.] future maintenance; therefore it was a point of injustice and unlawful.
 
-#strong[#emph[Object.] The Lord commended him therein.]
+#emph[Object.] The Lord commended him therein.
 
 #emph[Answ.] He commended his wisdom, not his injustice: his provident care for the time to come, not the means of providing for himself. In regard of his general providence he is commended: in regard of the particular means by deceiving his master, he is called #emph[unjust.]
 
 6\. They may not before their covenanted time be expired go away from their master. When #footnote[#emph[Gen.] 30. 26.] #emph[Jacob] after long service had a mind to be gone, he asked leave, and because his uncle and master would not willingly let him go, he tarried still.
 
-#strong[#emph[Object.] Afterwards #footnote[#emph[&] 31. 20.] #emph[Jacob] privily stole away from his master.]
+#emph[Object.] Afterwards #footnote[#emph[&] 31. 20.] #emph[Jacob] privily stole away from his master.
 
 #emph[Answ.] 1. His covenanted time was out. 2. He had an express warrant from God to be gone. 3. His manner of going away is not to be justified, and in that respect it is no good pattern.
 
@@ -67,7 +67,7 @@ Contrary to the forenamed limitations of servants liberty are these, and such li
 
 6\. When upon discontent they run away from their masters. The two servants of #emph[Shimei] which run from their master #footnote[1 #emph[King.] 2. 39. #emph[Philem. ver.] 12. #emph[Gen.] 16. 9.] are taxed for it by the Holy Ghost. #emph[Onesimus] that run from his master is sent back again by #emph[S. Paul:] and #emph[Hagar] is sent back by an Angel.
 
-#strong[#emph[Object.] What if master and mistress be sharp, rigorous, and cruel.]
+#emph[Object.] What if master and mistress be sharp, rigorous, and cruel.
 
 #emph[Answ.] An Angel from heaven giveth one answer, #emph[(Submit] #footnote[#emph[Gen.] 16. 9.] #emph[thy self under her hands:)] And an Apostle giveth another, #emph[Be subject with all fear to the froward: for conscience toward] #footnote[1 #emph[Pet.] 2. 18, 19.] #emph[God endure grief, suffering wrongfully.]
 
@@ -154,7 +154,7 @@ Patient bearing of rebuke and blows, seemeth #emph[an hard saying] to most serva
 
 3\. By struggling and striving with their master or mistress: and taking the staff or wand by the end: or by holding the hands of those that correct them.
 
-#strong[#emph[Object.] Shall I suffer my self wrongfully to be beaten, when I can help my self and hinder it?]
+#emph[Object.] Shall I suffer my self wrongfully to be beaten, when I can help my self and hinder it?
 
 #emph[Answ.] 1. Servants may not be their own Judges whether their correction be just or unjust: for men are so prone to sooth themselves and to extenuate the evil actions which they do, as if they be not corrected till they think it just, they would never be corrected.
 

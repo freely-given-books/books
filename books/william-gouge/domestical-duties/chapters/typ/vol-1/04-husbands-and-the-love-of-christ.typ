@@ -107,7 +107,7 @@ Learn hereby to consider Christs death, not as the death of #footnote[Use.] a pr
 
 The Object, or thing which Christ gave for a ransom was #emph[himself,] not his body alone, nor his body and soul only, but his person consisting of his two natures, human, and divine.
 
-#strong[#emph[Quest.] How could his divine nature be given up? could it #footnote[How the person of Christ being God-man, was given for us.] suffer? could it die?]
+#emph[Quest.] How could his divine nature be given up? could it #footnote[How the person of Christ being God-man, was given for us.] suffer? could it die?
 
 #emph[Answ.] 1. The Deity simply considered in and by it self, could not die: but that person which was God, both could and did die. For the son of God assuming an human nature into the unity of his divine nature, and uniting them together #footnote[ἀσυγχύτως. ἀτρέπτως. ἀδιαιρέτως. ἀχωρίστως. #emph[Symbol. Calced.]] #emph[without confusion, alteration, distraction, separation,] in one person, that which is done by one nature is done by the person, and in that respect the Scripture oft attributeth it to the other nature: as where it is said, #footnote[1 #emph[Cor.] 2. 8.] #emph[They crucified the Lord of glory:] and #footnote[#emph[Act.] 20. 28.] #emph[God purchased the Church with his own blood.]
 
@@ -147,15 +147,15 @@ Learn we also hereby how to manifest love: namely by seeking, and procuring the 
 
 From hence by just consequence it followeth that #emph[Christ merited] #footnote[Christ merited not for himself.] #emph[not for himself.] Was there any need that Christ should come down from heaven on earth, to purchase any thing for himself? When he was going out of the world, thus he prayed, #emph[Now, O father, glorify thou me with the glory which I had] #footnote[#emph[Joh.] 17. 5.] #emph[with thee before the world was.] Did Christ by any thing which he did on earth merit that glory which he had before the world was? All the exaltation whereunto he was advanced even in his human nature, was due to the dignity of his person.
 
-#strong[1\. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]]
+1\. #emph[Object.] He endured the cross, #emph[for the joy which was set] #footnote[#emph[Heb.] 12. 2.] #emph[before him.]
 
 #emph[Answ.] He used that joy which of right was due to him as an help to support him in the weakness of his human nature, not as a recompense which he should deserve.
 
-#strong[2\. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διό.] WHEREFORE #emph[God also hath highly exalted him.]]
+2\. #emph[Object. He became obedient to the death of the Cross,] #footnote[#emph[Phil.] 2. 9. διό.] WHEREFORE #emph[God also hath highly exalted him.]
 
 #emph[Answ.] That particle #emph[(wherefore)] doth not declare the cause, but the order of his exaltation: noting a consequence that followed after his death. After he had humbled himself so low, he was most highly advanced.
 
-#strong[3\. #emph[Object.] Christ being man was bound to the Law: and therefore for himself he ought to fulfill it.]
+3\. #emph[Object.] Christ being man was bound to the Law: and therefore for himself he ought to fulfill it.
 
 #emph[Answ.] If he had been mere man, that were true. But he uniting his human nature unto his divine, and making of both one person, which person was God as well as man, he was bound to nothing further then it pleased him voluntarily to subject himself unto for our sakes.
 

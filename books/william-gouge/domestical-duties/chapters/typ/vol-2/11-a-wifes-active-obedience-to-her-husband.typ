@@ -24,7 +24,7 @@ Note in particular what #emph[Jacobs] wives say to their husband in this case, #
 
 These examples do further show that if an husband have just occasion to remove from one country to another, and in those countries from place to place, his wife ought to yield to go with him, if he require it at her hands. Note what the Apostle saith, #emph[have we not power to lead about a wife?] That interrogation #footnote[1 #emph[Cor.] 9. 5.] implieth a strong asseveration. The husband then having power to lead about a wife from place to place, she ought to submit her self to that power. This clause #emph[(as well as other Apostles, and as the brethren of the Lord and Cephas)] showeth, that this was not only a power which might be used, but which was used by husbands, and yielded unto by wives.
 
-#strong[#emph[Object.] The forenamed examples are extraordinary, and that upon extraordinary occasions.]
+#emph[Object.] The forenamed examples are extraordinary, and that upon extraordinary occasions.
 
 #emph[Answ.] Yet they may be patterns for ordinary occasions which are lawful and warrantable. Was it not an extraordinary fact of #emph[Elijah] to pray first that there might be no rain, and #footnote[#emph[Jam.] 5. 17.] then again that there might be rain? Yet is this propounded as a general pattern to move us to pray for things lawful.
 
@@ -40,11 +40,11 @@ Another particular instance of a wives readiness to yield unto her husbands comm
 
 Contrary is #emph[Vashti-]like stoutness, when wives think and #footnote[Contrary, stoutness in refusing to come.] say, it is a servants part to come when they are called or sent for, and they will never yield to be their husbands servants, to come at his command. By the same reason may all duties of subjection be rejected. But for this particular, let such stout #footnote[#emph[Esth.] 1. 16, #emph[etc.]] dames note the issue of #emph[Vashtis] stubbornness. As many excuses might be alleged for her as I think for any: for first, she was #footnote[#emph[Hebraei docent Vasthiam natam fuisse ex Baltasare rege Chaldaeorum. Feuard. in Esth.] 1. #emph[Alij, ex Cyro. Merl. in Esth.]] royally descended, being the daughter of a King. Secondly, she was then among the honourable women of the kingdom. Thirdly, the King was in drink when he sent for her. Fourthly, he sent for her to show her beauty before multitudes of men, which was not seemly. But all these were not sufficient to excuse her fault, and free her from blame. First, though she were of royal parentage, yet she was a wife, and her husband sent for her. Secondly, being among the noble women of the kingdom, she should the rather have showed her self a pattern of subjection in this kind. Thirdly, though he were in drink, yet remained he an husband: and the thing which he commanded was not such but that she might have done it without sin. Fourthly, if she thought the thing unseemly, she should first have used all the fair means she could to have been spared; but if by all she could not have prevailed, then (the thing being not simply unlawful and a sin) she should have yielded.
 
-#strong[#emph[Object.] Her fault was not in that as a #emph[wife] she came not to her #emph[husband,] but in that as a #emph[subject] she came not to her #emph[Sovereign.]]
+#emph[Object.] Her fault was not in that as a #emph[wife] she came not to her #emph[husband,] but in that as a #emph[subject] she came not to her #emph[Sovereign.]
 
 #emph[Answ.] Her fault was in both: and in the judgment passed against her, that former was most urged, namely that by her #footnote[#emph[Esth.] 1. 17.] example all women might learn to #emph[despise their husbands.]
 
-#strong[2\. #emph[Object.] Her fact is so censured but by heathen men, that had no understanding of Gods word.]
+2\. #emph[Object.] Her fact is so censured but by heathen men, that had no understanding of Gods word.
 
 #emph[Answ.] 1. The holy Scripture by the several circumstances so distinctly noted intimateth that her rebellious fact was a notorious fault: and accordingly both #footnote[Pellican. Lauater. Gualt. Strigel. Cuper. Merlin. Feuard. Bellator. Rupert. Isiodor. Hisp. Raban. alijque Comment. in Esth.] judicious commenters, and also Preachers do tax her of sinful disobedience to her husband.
 
@@ -72,11 +72,11 @@ Meekness in this case is one of the most principal fruits of #footnote[1\. She m
 
 Much wisdom may be learned hereby: for when any #footnote[Wisdom learned.] meekly take a reproof, thereby they suppress their passion, and keep it from rising as a cloud before their understanding and darkening it, and so may they better judge of the matter reproved whether it be just or no: and whether it need redress or no: whereof they who are impatient of reproof, and fret and fume against it, cannot so well judge. The virgin #emph[Mary] made good use of Christs reproving her, and thereby #footnote[#emph[Joh.] 2. 4, 5.] learned and taught a good point of wisdom, namely so to refer our affairs to Christ as we expect his pleasure; and not prescribe time, means, manner, or any other like circumstances unto him.
 
-#strong[#emph[Quest.] What if the husbands reproof be bitter? #footnote[#emph[Suadeo mulieribus vt viros etiam asperiores perferant. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.]]
+#emph[Quest.] What if the husbands reproof be bitter? #footnote[#emph[Suadeo mulieribus vt viros etiam asperiores perferant. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.]
 
 #emph[Answ.] He therein forgets his place, yet thereupon she must not forget her duty. If #emph[Jacobs] reproof be well noted, we shall find it very tart, for it is expressly said that #emph[his anger was kindled against her,] (Gen. 30. 2.) so as he spake in anger: the manner and form of his words being with an interrogation, and the #footnote[Excandescenti marito cede, & molli oratione iuva. Greg. Naz. ad Olymp.] matter also, #emph[am I in Gods stead,] etc. declare #emph[tartness:] yet (as was declared before) she showed #emph[meekness.]
 
-#strong[#emph[Quest.] What if his reproof be unjust?]
+#emph[Quest.] What if his reproof be unjust?
 
 2\. #emph[Answ.] Yet may not #emph[meekness] be forgotten. In such a case a wife may make a just apology to clear her own innocency, and manifest her husbands error: but if he refuse to hear her, or will not believe her, then (as #emph[S. Peter] speaketh in another #footnote[1 #emph[Pet.] 2. 19, 20.] case) she must #emph[endure grief for conscience toward God.]
 

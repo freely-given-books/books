@@ -45,7 +45,7 @@ The example of #emph[Rebekah,] which may seem somewhat more #footnote[#emph[Gen.
 
 For better application of this point I will lay down some particular instances agreeable to Gods word. Suppose a wife well instructed in the true religion be married to an idolatrous or profane husband, and he without any just cause forbid her to go to the Church, especially on the Lords days, to pray in English, to read the word, to teach her children the principles of religion, to restore that which she hath unjustly and fraudulently gotten, with the like, she may, and must do them notwithstanding.
 
-#strong[#emph[Object.] Why may not giving of alms be reckoned among these?]
+#emph[Object.] Why may not giving of alms be reckoned among these?
 
 #emph[Answ.] 1. Because the husband hath a greater power over the goods, then over these things.
 
@@ -151,9 +151,9 @@ Contrary also to the forenamed Constancy is #emph[Apostasy,] #footnote[2\. Apost
 
 The extent of a wives subjection (which remaineth now to be handled) is set down under these general terms (in every thing) which are not so generally to be taken as if they admitted no restraint or limitation, for then would they contradict such cautions as these, #emph[in the fear of the Lord, as to the Lord, in] #footnote[#emph[Eph.] 5. 21. #emph[&] 22. #emph[Col.] 3. 18.] #emph[the Lord.] For man is so corrupt by nature, and of so perverse a disposition, that oft he willeth and commandeth that which is contrary to Gods will and commandment: which when he doth, that Christian principle laid down as a ruled case by the Apostle must take place, #emph[we ought rather to obey God then men.] #footnote[#emph[Acts] 5. 29.]
 
-#strong[Quest. Why then is this extent laid down in such general terms?]
+#emph[Quest.] Why then is this extent laid down in such general terms?
 
-Answ. 1. To teach wives that it is not sufficient for them to obey their husbands in some things, as they themselves think meet, but in all things whatsoever they be wherein the husband by virtue of his superiority and authority hath power to command his wife. Thus this general extent excludeth not Gods will, but the wives will. She may do nothing against Gods will; but many things must she do against her own will if her husband require her.
+#emph[Answ.] 1. To teach wives that it is not sufficient for them to obey their husbands in some things, as they themselves think meet, but in all things whatsoever they be wherein the husband by virtue of his superiority and authority hath power to command his wife. Thus this general extent excludeth not Gods will, but the wives will. She may do nothing against Gods will; but many things must she do against her own will if her husband require her.
 
 2\. To show that the husbands authority and power is very large: it hath no restraint but Gods contrary command, whereof if a wife be not assured, she must yield to her husbands will.
 
@@ -189,7 +189,7 @@ Contrary is the custom of many wives, who never will do any more then they thems
 
 === §. 68. #emph[Of care in choosing such husbands as wives may without] #footnote[See Treat. 2. Part. 1. §. 11.] #emph[grief be subject unto.]
 
-#strong[#emph[Object.] If the case be such betwixt man and wife, it is not good to marry.]
+#emph[Object.] If the case be such betwixt man and wife, it is not good to marry.
 
 #emph[Answ.] This is no good inference; for all the seeming hardness of a wives case is in the lewdness of an husband, who abuseth his place and power: and not in that subjection which is required by God. For if an husband carry himself to his wife as #footnote[Tutum obsequium est, quoties qui dux est, ipse Dei Spiritu ducitur.] God requireth, she will find her yoke to be easy, and her subjection a great benefit even unto her self. Wherefore I would exhort parties that are unmarried, whether maidens or widows, to be very careful in their choice of husbands: and in their choice to respect above all, their good qualities and conditions, therein bearing the image of Christ, as well as in their office, and authority: so as their wives may with joy and comfort, not with grief and anguish, be subject unto them: then will subjection prove a vexation, when the husband is an ignorant, profane, idolatrous, worldly, wicked man: wives of such husbands are oft brought into many straits. Ye widows and maidens who are free, be not too free and forward in giving your consent to whom you know not: among other motives, oft think of this point of subjection, to which all wives are bound: this I say, both of the several branches, and also of the extent thereof. After you are married it is in vain to think of freedom from subjection. By taking husbands, and giving your selves to be wives, you bind your selves to the law of the man, as long as he liveth. Then as you desire to be accepted of God, and to find mercy and comfort from him, you must bear this yoke, how heavy and grievous soever it seem to be.
 

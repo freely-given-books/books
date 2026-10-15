@@ -41,7 +41,7 @@ For the better conceiving of this so needful a point I will #footnote[How a mans
 
 For the first, if a wife manifest her dutiful respect of her #footnote[1\. By answering reverence with courtesy. #emph[Depone asperitatem morum cum tibi sedula vxor occurrit, etc. Ambr. Hexaem. lib.] 5. #emph[cap.] 7.] husband by any reverend behaviour, gesture, or speech, he ought to meet her (as we say) in the midst of the way, and manifest his gracious acceptance thereof by some like courteous behaviour, gesture, and speech, being seemly, not foolish.
 
-#strong[#emph[Object.] Thus shall an husband abase himself, and disgrace his place.]
+#emph[Object.] Thus shall an husband abase himself, and disgrace his place.
 
 #emph[Answ.] The courtesy which I speak of as it cometh from a superior, being a mere voluntary matter and a token #footnote[Courtesy may stand with superiority.] of kindness and favour, is no abasement of himself, but an advancement of his inferior: a great grace to her, no disgrace to him. #emph[Abram] was counted of the Hittites #emph[a Prince of] #footnote[#emph[Gen.] 23. 6, 7.] #emph[God,] yet in communing with them #emph[he bowed] unto them. It is noted as a commendable thing in #emph[Esau,] that though at that time he was his brothers superior (at least he took himself so to be) yet observing how #emph[Jacob] reverenced him, bowing seven times to the ground, #emph[he ran to meet him, and embraced] #footnote[#emph[Gen.] 33. 3, 4.] #emph[him, and fell on his neck.] Most pertinent to the point is the example of King #emph[Ahasuerus,] who beholding #emph[Esthers] reverend #footnote[#emph[Esth.] 5. 2.] standing before him, held out his Scepter unto her, which in a King is great courtesy.
 
@@ -57,7 +57,7 @@ Oft have I noted that there is a great difference betwixt a wife and all other i
 
 Again, it being a token of reverence in a wife humbly to #footnote[2\. By granting her humble request.] make known her desire to her husband, he ought to show so much courtesy as readily to grant her desire: this courtesy the forenamed #footnote[#emph[Est.] 5. 3.] #emph[Ahasuerus] afforded to #emph[Esther:] #footnote[1 #emph[King.] 1. 28. #emph[etc.]] #emph[David] to #emph[Bathsheba:] #footnote[#emph[Gen.] 28. 1.] #emph[Isaac] to #emph[Rebekah:] #footnote[#emph[&] 16. 6.] #emph[Abraham] to #emph[Sarah,] and many other husbands to their wives. #footnote[#emph[&] 21. 10, 11.] #emph[Abraham] showed herein such respect to his wife, that though the thing which she desired were grievous to him, yet he yielded to his wife.
 
-#strong[#emph[Object.] God first commanded him so to do.]
+#emph[Object.] God first commanded him so to do.
 
 #emph[Answ.] This addeth the more force unto the argument, showing that it is Gods express will, that an husband should show this kind of courtesy to his wife. Much more ought a man to do at his wives request then at any others, whether friend, child, or parent: yea much more free, forward and cheerful ought he to show himself in granting his wives request then any others: provided notwithstanding that her desire be of that which may lawfully be granted: to yield in things unlawful is to lose his authority, as was showed #footnote[§. 5.] before.
 

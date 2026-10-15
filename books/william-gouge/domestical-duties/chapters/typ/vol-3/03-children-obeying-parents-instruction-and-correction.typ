@@ -54,11 +54,11 @@ Great wisdom may be learned by this patience: for so may a #footnote[#emph[Reaso
 
 Contrary is the practise of such children, as upon every reproof of their parents are ready to #emph[answer again.] Our parents #footnote[See §. 6.] are wayward, say they, who can bear them? If none else could bear them, yet should children: for parents ordinarily bear such waywardness, and untowardness at their childrens hands, especially while they are young, as none else would or could.
 
-#strong[#emph[Quest.] If a parent be mistaken in a matter, and unjustly reprove his child, may the child make no answer?]
+#emph[Quest.] If a parent be mistaken in a matter, and unjustly reprove his child, may the child make no answer?
 
 #emph[Answ.] Yes, he may, so he do it mildly, reverendly, and seasonably: not too peremptorily crossing or thwarting his parent.
 
-#strong[#emph[Object.] Christ took up his mother very roundly for reproving #footnote[#emph[Luk.] 2. 49.] him unjustly.]
+#emph[Object.] Christ took up his mother very roundly for reproving #footnote[#emph[Luk.] 2. 49.] him unjustly.
 
 #emph[Answ.] Christ as God-man was greater then his mother, and in that respect with authority blamed her for her unjust reproof. The Virgin #emph[Mary] was not ignorant thereof, and therefore was silent.
 
@@ -114,9 +114,7 @@ Contrary is the overweening conceit which many children #footnote[Childrens over
 
 2\. Though children cannot in their judgments think that which their parents require to be the fittest and meetest, yet being pressed thereto by the peremptory command of their parents, in practise they ought to yield unto it, saying to their parents as #emph[Peter] to the Lord, #emph[Nevertheless at thy word I will do this.] Thus did #footnote[#emph[Gen.] 27. 6. #emph[etc.]] #emph[Jacob] yield to #emph[Rebekah:] he thought by doing that which his mother bid him, he should seem a mocker to his father, yet she urging him, he did it.
 
-#strong[#emph[Quest.]]
-
-May not a child, yielding better reason then his parent, refuse to do what he thinketh unmeet, or at least forbear to do what he is commanded, till he be better informed of the meetness thereof?
+#emph[Quest.] May not a child, yielding better reason then his parent, refuse to do what he thinketh unmeet, or at least forbear to do what he is commanded, till he be better informed of the meetness thereof?
 
 #emph[Answ.] With reverence and humility he may render his reason why he thinketh it not meet, and desire his parent not to urge it upon him.
 

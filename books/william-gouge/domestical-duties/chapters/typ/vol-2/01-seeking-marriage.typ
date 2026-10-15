@@ -64,7 +64,7 @@ Contrary to this manifestation of Gods will do they sin, #footnote[A sin to conc
 
 === §. 4. #emph[Of barrenness, that it hindereth not marriage.]
 
-#strong[#emph[Quest.] Are such as are barren to be ranked among those impotent persons?]
+#emph[Quest.] Are such as are barren to be ranked among those impotent persons?
 
 #emph[Answ.] No, there is great difference betwixt impotency and barrenness.
 
@@ -128,11 +128,11 @@ Contrary is Bigamy, and Polygamy, whereof #footnote[#emph[Treat.] 1. §. 83.] be
 
 === §. 8. #emph[Of the lawfulness of other marriages after one of the married couple is dead.]
 
-#strong[1\. #emph[Quest.] Are they who have buried their husband or wife so free, as they may marry again?]
+1\. #emph[Quest.] Are they who have buried their husband or wife so free, as they may marry again?
 
 #emph[Answ.] Yea, as free as they who were never before married. The law doth not only permit a widow to marry again: but #footnote[#emph[Deut.] 25. 5, 9.] if her husband died before he had any children, it commanded the next kinsman that was living and free to marry her, that he might raise up seed to his brother deceased: which if he refused to do, a penalty of ignominy was inflicted on him: the widow rejected was to #emph[loose his shoe from his foot,] #footnote[#emph[Non concederet hoc Paulus nisi liceret. At parum dico concedit: vult quoque. Volo, inquit, adolescentiores nubere: nec dubium quin viduas dicat. Bern. serm.] 66. #emph[in Cant.]] #emph[and to spit in his face in the presence of the Elders.] The Apostle expressly saith that a woman, when her husband is dead, is at liberty to be married (1 #emph[Cor.] 7. 39.) yea speaking of young widows he further saith, #emph[I will that they marry] (1 #emph[Tim.] 5. 14.) This liberty which the Prophet of God, and Apostle of Christ grant to a wife, can by no show of reason be denied to an husband: for the bond of marriage giveth them a like power over one anothers body, (1 #emph[Cor.] 7. 4.) and knitteth one as inviolably as the other, #emph[(Mat.] 19. 6.) husbands therefore as well as wives have used this liberty, as #emph[Abraham (Gen.] 25. 1.) #footnote[#emph[Rom.] 7. 2.] The Apostle that giveth this liberty, rendereth a reason thereof, taken from the limitation of that time wherein married persons have power one over another, and that is the time of this life only: #emph[For the woman which hath an husband is bound by the law to her husband, so long as he liveth: but if the husband be dead she is loosed, etc.] On this ground all the #footnote[§. 24. #emph[Quid largam benedictionem nuptiarum restringis? Bern. loc. citat. Dominus tot maritorum mulierem nulla suae sententiae significatione damnauit. Aug. de bon. Vid. c.] 12.] reasons which warrant or move such as never were married, to marry, may be applied to them that by death have their yoke-fellow taken from them.
 
-#strong[2\. #emph[Quest.] May this liberty be extended any further then to a second marriage?]
+2\. #emph[Quest.] May this liberty be extended any further then to a second marriage?
 
 #emph[Answ.] We find no restraint from a third, or fourth, or more marriages, if by the divine providence so many wives, or husbands one after another be taken away while there is need for the surviving party to use the benefit of marriage. The woman of Samaria that had five husbands one after another, is not blamed for being married to so many, but for living with one (after the other were dead) that was not her husband, #emph[(Joh.] 4. 18.) Neither did the Lord condemn that woman which was said to have seven husbands one after another, #emph[(Mat.] 22. 25, etc.)
 

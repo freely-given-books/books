@@ -81,7 +81,7 @@ Much good may from hence arise to parents themselves, to their children, and to 
 
 5\. It is the best ordinary means that can be prescribed to keep a child from the vanities of youth, from immoderate pursuit of pleasures, from unlawful games, from idleness, from ill company, and such like evils; which, as they are sins in themselves, so occasions and provocations to other most grievous and enormous sins, and prove to be the very bane of youth.
 
-#strong[#emph[Object.] Many parents have good lands to leave to their children: what need is there of a #emph[calling] to such?]
+#emph[Object.] Many parents have good lands to leave to their children: what need is there of a #emph[calling] to such?
 
 #emph[Answ.] 1. Much land may soon be consumed by such as have not skill well to use it.
 
@@ -133,7 +133,7 @@ This express charge of the Lord is further commended by that practise which holy
 
 3\. The charge and office of parents bindeth them to teach their #footnote[3\. Charge of parents.] children piety: for they are by God made watchmen over their children: if therefore their children live and die in impiety through their parents negligence, their blood shall be required at their parents hands: instance the example of #footnote[1 #emph[Sam.] 3. 13.] #emph[Eli.]
 
-#strong[#emph[Object.] This duty appertaineth to Ministers. #footnote[Why Parents as well as Ministers are bound to teach piety.]]
+#emph[Object.] This duty appertaineth to Ministers. #footnote[Why Parents as well as Ministers are bound to teach piety.]
 
 #emph[Answ.] 1. God hath given an express charge hereof to parents, as we heard before.
 

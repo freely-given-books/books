@@ -65,13 +65,13 @@ The grounds of the equity of this duty, respect partly the #footnote[Reasons to 
 
 Correction is as physic to purge out much corruption #footnote[1\. Benefits of correction to the parties corrected.] which lurketh in children, and as a salve to heal many wounds and sores made by their folly. In which respect #emph[Solomon] saith, that #footnote[#emph[Pro.] 22. 15.] #emph[Foolishness is bound in the heart of a child, but the rod of correction shall drive it far from him:] and again, #footnote[#emph[&] 20. 30.] #emph[The blueness of a wound is a purging medicine against evil: so do stripes the inward parts of the belly.] In regard of the inward operation of this physic, correction is further said to preserve a child from death,#footnote[#emph[Pro.] 23. 13.] (#emph[if thou beatest him he shall not die)] and that not only from temporal death (as many children are thus preserved from the Magistrates sword) but also from eternal death#footnote[#emph[Vers.] 14.] (#emph[thou shalt deliver his soul from hell.)] note this ye cockering parents, whose over-much lenity is very great cruelty. For may we not justly count him a cruel parent, that should suffer diseases, boils, sores, and wounds to remain, increase, and fester in his child, and give him no physic, nor apply any plaisters, or medicines to him? Nay rather who seeth his son running into a flaming fire, or deep water, and would not hold him back? Even so cruel, and more cruel are they, who suffer their children to run on in evil, rather then correct them.
 
-#strong[#emph[Object.] Who can endure to make his own child smart, and to put him to pain?]
+#emph[Object.] Who can endure to make his own child smart, and to put him to pain?
 
 #emph[Answ.] The future fruit is more to be considered, then the present pain. Potions, pills, and corrosives, are fulsome, bitter, and painful; but because there is a necessity of using them, and great mischief is prevented by the use of them, wise parents will not forbear them for the sensible bitterness, and pain. Fitly doth the Apostle thus answer that objection, #emph[No chastening for the] #footnote[#emph[Heb.] 12. 11.] #emph[present seemeth to be joyous, but grievous; nevertheless, afterward it yieldeth the peaceable fruit of righteousness.] This may be applied to parents corrections as well as to Gods.
 
 The good which correction bringeth to children, is by #emph[Solomon] noted in this and such like phrases, #emph[The rod giveth wisdom:] #footnote[#emph[Pro.] 29. 15.] for it maketh children observe, what is good, and what evil; what commendable, and what blame-worthy: and accordingly to do the good, and leave the evil, which is a great point of wisdom.
 
-#strong[#emph[Object.] Instruction will better do this.]
+#emph[Object.] Instruction will better do this.
 
 #emph[Answ.] Instruction may give them more knowledge, but it is correction which bringeth them to practise what they know, which is the #footnote[#emph[Matt.] 7. 24.] chiefest point of wisdom.
 
@@ -130,7 +130,7 @@ Many so cocker their children, as they will suffer them to #footnote[#emph[Qui n
 
 Mothers for the most part offend herein, who are so far from performing this duty themselves, as they are much offended with their husbands if they do it. And to proclaim their folly to all the world, they cannot commit their children to a Tutor or School-master, but with a strait charge, that they correct them not.
 
-#strong[#emph[Object.] Correction maketh children sots and blocks.]
+#emph[Object.] Correction maketh children sots and blocks.
 
 #emph[Answ.] If Gods spirit deserve to have more credence then such foolish women, that objection is most false, for we heard #footnote[§. 46.] before how correction giveth wisdom, and driveth out foolishness.
 

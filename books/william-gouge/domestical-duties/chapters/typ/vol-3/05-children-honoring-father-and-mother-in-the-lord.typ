@@ -50,11 +50,11 @@ Many reasons there be to enforce this point.
 
 2\. The care and pains of both for the good of the children is very great: I know not of whether the greater. The mothers pains and care in bringing forth the child is indeed the greater, and it may be also the greater in bringing up the child, especially while it is young, at least if she give it suck her self: yet afterwards the fathers exceedeth in providing fit calling, sufficient means of maintenance, yea and portion or inheritance for it, and that after he himself is dead. Thus one way or other the child is equally bound to both: and accordingly Gods law maketh no difference betwixt them.
 
-#strong[#emph[Object.] The wife is subject to her husband: therefore a child ought to prefer his father before his mother.]
+#emph[Object.] The wife is subject to her husband: therefore a child ought to prefer his father before his mother.
 
 #emph[Answ.] Though there be a difference betwixt father and #footnote[Both parents to be of like account with children.] mother in relation of one to another, yet in relation to their children they are both as one, and have a like authority over them. Now children are not to look to that difference that is betwixt their parents in that mutual relation that is betwixt husband and wife, but to that authority which both parents have over their children: and so to carry an equal respect to both.
 
-#strong[2\. #emph[Object.] What if the fathers and mothers disposition #footnote[Direction for a child when one parent commandeth one thing, the other another.] be contrary: and the one command what the other forbids.]
+2\. #emph[Object.] What if the fathers and mothers disposition #footnote[Direction for a child when one parent commandeth one thing, the other another.] be contrary: and the one command what the other forbids.
 
 #emph[Answ.] The thing commanded or forbidden must be observed: if it be about a thing simply good or evil, lawful, or unlawful, then the parent which would have the thing lawful to be done, or unlawful to be forborne (though it be the mother) must be obeyed: for in this case she is backed with Gods authority. But if the matter be merely indifferent, then I doubt not but the father must be obeyed: yet so as the child no way show any contempt to his mother, but with all reverence and humility make it known to her that it is best both for her-self and himself, that his father be obeyed. But if the fathers contrary authority be not interposed, or if the father be dead, then is a mother as simply and absolutely to be obeyed in all things, as a father.
 
@@ -90,7 +90,7 @@ They are of two sorts.
 
 2\. Such as have the government and tuition of children committed to them, commonly called #emph[Guardians, Tutors, Governors:] yea also #emph[foster-fathers, and foster-mothers.]
 
-#strong[#emph[Quest.] Is the same duty in every respect due to those who are in place of parents, as to natural parents themselves?]
+#emph[Quest.] Is the same duty in every respect due to those who are in place of parents, as to natural parents themselves?
 
 #emph[Answ.] Not so. There is such a prerogative appertaining to natural parents from whom children have received their being, that many things wherein children by an absolute necessity #footnote[De necessitate.] are bound to them, are bound unto the other who are but in place of parents, only by the law of honesty, of meetness & #footnote[De honestate.] conveniency. Whence it cometh to pass that such things as being done by children rebelliously without, or against the consent of natural parents prove mere nullities, will stand in force though they be done without or against the consent of such as are only in the place of parents: instance contracts made about goods, lands and such other things as parents retain a right in: whereunto many good Divines add #footnote[See §. 16.] contracts of marriage, of calling and the like.
 
@@ -108,13 +108,13 @@ Besides it is a great honour which a child doth to his natural #footnote[2\. #em
 
 Contrary is the mind and carriage of most children. Very few bear a reverend, dutiful, and child-like respect to stepfathers, and step-mothers: but for the most part despise them in heart, grumble at them in speech, and are very undutiful in their behaviour: whence it cometh to pass that they bring much grief to their natural parent, and oft cause much discord and dissension betwixt their natural, and step-parents being herein set on work by Satan, who laboureth what he can to disunite those whom God hath nearly united together and made one flesh. Lamentable experience showeth that the #emph[second, third,] or any #emph[after-marriages] are seldom so comfortable and peaceable as the #emph[first:] especially if either the #emph[one,] or #emph[other,] or #emph[both] have children. The cause thereof, for the most part, is in children, who brook not fathers or mothers in law.
 
-#strong[#emph[Object.] Nature cannot so well brook a step-parent, as a natural parent.]
+#emph[Object.] Nature cannot so well brook a step-parent, as a natural parent.
 
 #emph[Answ.] 1. If not so well, yet despise them not: there is a difference betwixt extremes.
 
 2\. Conscience and religion ought to alter corrupt nature. Look to Gods ordinance: and let Gods fear possess thine heart, that that may bring thee to do what nature cannot.
 
-#strong[2\. #emph[Object.] Fathers and Mothers in law seldom respect their husbands or wives former children.]
+2\. #emph[Object.] Fathers and Mothers in law seldom respect their husbands or wives former children.
 
 #emph[Answ.] This objection more beseemeth the mouth of a barbarian then a Christian. The Gospel teacheth to #emph[be subject not] #footnote[1 #emph[Pet.] 2. 18. #emph[Rom.] 12. 21.] #emph[only to the good and gentle, but also to the froward:] and #emph[not to be overcome of evil, but to overcome evil with goodness.]
 
@@ -190,7 +190,7 @@ From the reason that #emph[it is Gods charge,] I gather these three points.
 
 2\. That this is a #emph[perpetual] and a #emph[general] law: a law whereunto #footnote[2\. An eternal law, and general to all children.] all children of all times, places, sexes, estates and degrees always have been, still are, and ever shall be bound. For the moral law is of that extent: it is #emph[general] for all persons: #emph[perpetual] for all times. Therefore no children may think to be exempted from it.
 
-#strong[#emph[Quest.] What if children be grown to years, and not under their parents government?]
+#emph[Quest.] What if children be grown to years, and not under their parents government?
 
 #emph[Answ.] There may be some difference both in some #emph[parts] of subjection, and also in the #emph[manner] of subjection betwixt such children as remain under their parents government, and such as are freed from it: but yet so long as a child hath a parent, of what age or estate so ever he be, he oweth an #emph[honour] unto his parent. #footnote[#emph[Gen.] 47. 12. #emph[&] 48. 12. #emph[&] 50. 5.] #emph[Joseph] when he was a great Governor of Egypt, a man grown, having wife and children, yet performed the honour of #emph[reverence, obedience,] and #emph[recompense] unto his father. #footnote[1 #emph[King.] 2. 19. 3. Indispensable.] #emph[Solomon] when he was in an higher place then #emph[Joseph,] even an absolute King, did the honour of #emph[reverence] to his mother.
 

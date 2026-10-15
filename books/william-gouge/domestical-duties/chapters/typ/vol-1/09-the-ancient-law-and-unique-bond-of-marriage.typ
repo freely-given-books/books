@@ -79,11 +79,11 @@ The third point concerning the nearness of man and wife, in these words #emph[(t
 
 1\. #emph[Marriage can be but betwixt two,] one man, and one woman: for it is impossible that more then two should so nearly, and firmly be joined together, as man and wife are. Every word almost in this law proveth this doctrine. For it saith #emph[a man,] not men: to #emph[a wife,] not to wives: to #emph[his] wife, not to anothers wife: #emph[two,] not more then two: #emph[they] two, not any two: #emph[one flesh,] not many fleshes.
 
-#strong[#emph[Object.] This particle #emph[(two)] is not in the law as #emph[Moses] recordeth #footnote[#emph[Gen.] 2. 24.] it.]
+#emph[Object.] This particle #emph[(two)] is not in the law as #emph[Moses] recordeth #footnote[#emph[Gen.] 2. 24.] it.
 
 #emph[Answ.] It is there necessarily implied, for at that time there were but two in the world: God then speaking of them, meaneth but two. The same spirit that guided #emph[Moses,] guided also the #footnote[#emph[Mat.] 19. 5.] Evangelists, and the #footnote[1 #emph[Cor.] 6. 16.] Apostles: so as by their inserting of this particle #emph[(two)] it is certain that it was intended by #emph[Moses:] as the particle #emph[(only)] which Christ putteth into this text, #footnote[#emph[Deut.] 6. 13. #emph[Mat.] 4. 10.] #emph[him only shalt thou serve.]
 
-#strong[#emph[Quest.] Why did God at first make but one man, and one woman?]
+#emph[Quest.] Why did God at first make but one man, and one woman?
 
 #emph[Answ.] The #footnote[#emph[Mal.] 2. 15.] Prophet answereth, #emph[that he might seek a godly seed.]
 
@@ -93,7 +93,7 @@ If therefore there be more then two, it is an adulterous seed which proceedeth f
 
 Can Polygamy (the having of many wives) or Bigamy (the having of two wives at once) have any good warrant against such an express law? Are not both of them against the first institution of marriage, so as we may say, #footnote[#emph[Mat.] 19. 8.] #emph[from the beginning it was not so?] Yea also and against #footnote[#emph[Deut.] 17. 17. #emph[Lev.] 18. 18.] other particular laws? #footnote[#emph[Gen.] 4. 19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc. Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. #emph[Gen.] 2. 18. #emph[Gen.] 16. 5. & 21. 11.] #emph[Lamech] one of #emph[Cains] cursed stock was the first that we read of to have presumed against that ancient law.
 
-#strong[#emph[Object.] Afterwards many Patriarchs, and other Saints took that liberty unto themselves.]
+#emph[Object.] Afterwards many Patriarchs, and other Saints took that liberty unto themselves.
 
 #emph[Answ.] It was their sin, and a great blemish in them. The common error of the time, & their unsatiable desire of increase made them fall into it. Many inconveniences followed thereupon: neither can it be thought but that much mischief must needs follow upon having more wives then one: for whereas God at first made a wife to be as an help unto man, two, or more wives cannot but be a great grief and vexation unto him by reason of that emulation that is betwixt them. Through #emph[Hagars] means was #emph[Sarah] stirred against #emph[Abraham,] and #emph[Abraham] grieved at #emph[Sarahs] words. Though #emph[Leah] and #emph[Rachel] were sisters, yet great were their emulations: the like whereof is noted of #emph[Peninnah] and many others.
 

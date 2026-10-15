@@ -8,12 +8,12 @@
 | case | 147 |
 | list | 132 |
 | punctuation | 92 |
-| italic | 55 |
+| italic | 63 |
 | note moved | 54 |
 | gap | 49 |
 | spacing | 47 |
+| merge | 28 |
 | expansion | 25 |
-| merge | 20 |
 | split | 9 |
 | note | 7 |
 | epigraph | 2 |
