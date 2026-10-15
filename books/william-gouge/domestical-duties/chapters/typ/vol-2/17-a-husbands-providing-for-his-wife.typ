@@ -6,8 +6,8 @@ An husband that tenderly respecteth his wife, but providently careth not for her
 
 An husbands provident care is noted in that office of Christ, wherein an husband resembleth him, namely, to be #emph[a Saviour of] #footnote[#emph[Eph.] 5. 23.] #emph[the body,] as hath been #footnote[Treat. 1. §. 15. & Treat. 3. §. 73.] before declared. It consisteth
 
-- 1\. In providing things needful for his wife.
-- 2\. In protecting her from things hurtful.
++ In providing things needful for his wife.
++ In protecting her from things hurtful.
 
 1\. A careful #emph[providing of things needful,] is a principal part of #footnote[1\. Providing things needful.] that #emph[honour,] which husbands are to give unto their wives. For where the Apostle saith, that #emph[Elders are worthy of double honour,] #footnote[1 #emph[Pet.] 3. 7. 1 #emph[Tim.] 5. 17.] he meaneth #emph[maintenance] as well as #emph[reverence.] The Apostle counteth him #emph[worse then an Infidel, that provideth not for his own, and specially for those of his own house.] Who are of an husbands house, #footnote[1 #emph[Tim.] 5. 8.] if not his wife? In his house, who more properly #emph[his own,] then his wife? If then an husband provide not for his wife, what is he #footnote[#emph[Recordare quòd pater vxoris tanquam depositum quoddam filiam tibi tradidit, & omnibus relictis, matre, domo, & seipso, omnem eius curam tuae dexterae commisit. Chrys. hom.] 26. #emph[in] 1. #emph[Cor.] 11.] to be accounted?
 
@@ -174,12 +174,12 @@ Contrary is a dissolute carelessness of husbands, who care no more to help and s
 
 1\. Some more fear to offend their wives then they care to do #footnote[Contrary, Dissolute carelessness. 1. In suffering seducers to come to the house.] them good, and in that respect they let any sort of people come to their wives that are welcome to them. If Magistrates in a common-wealth shall answer for suffering seducers to come into their dominions to deceive their people, much more shall husbands answer for suffering them to come and deceive their wives.
 
-- 1\. Because they have a greater charge over their wives then Magistrates over their people.
-- 2\. Because wives ought to be dearer to husbands then people to Magistrates.
-- 3\. Because they may sooner espy them in their house, then Magistrates in the common-wealth.
-- 4\. Because they may be much more easily kept out of an house, then out of a common-wealth, or a City.
++ Because they have a greater charge over their wives then Magistrates over their people.
++ Because wives ought to be dearer to husbands then people to Magistrates.
++ Because they may sooner espy them in their house, then Magistrates in the common-wealth.
++ Because they may be much more easily kept out of an house, then out of a common-wealth, or a City.
 
-2\. Others care not whither their wives wander: and if they #footnote[2\. In suffering] do go out of their house, they shall never be sought after by their #footnote[wives to go whither they list.] husbands: though this may be a just punishment on wandering wives, yet is it not just for husbands so to deal with them. If Christ our husband should so deal with us, we should soon be lost: for we oft go astray like wandering sheep, but he is that good shepherd, who seeketh after the lost sheep until he #footnote[#emph[Luke] 15. 4.] find it.
+2\. Others care not whither their wives wander: and if they#footnote[2\. In suffering wives to go whither they list.] do go out of their house, they shall never be sought after by their husbands: though this may be a just punishment on wandering wives, yet is it not just for husbands so to deal with them. If Christ our husband should so deal with us, we should soon be lost: for we oft go astray like wandering sheep, but he is that good shepherd, who seeketh after the lost sheep until he #footnote[#emph[Luke] 15. 4.] find it.
 
 3\. No marvel then that many husbands are no more affected #footnote[3\. In not regarding ill reports of wives.] with the ill reports and rumors raised against their wives, when they so little regard who come to them, or whither they go. Assuredly the discredit of a wife will turn to the mans dishonour: for as #emph[a virtuous wife is a crown to her husband,] so by the #footnote[#emph[Pro.] 12. 4.] rule of contraries, an infamous wife is a shame to her husband. If therefore not for his wives sake, yet for his own sake a man ought not too carelessly pass over the ill reports which are raised against his wife.
 

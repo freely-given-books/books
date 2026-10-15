@@ -6,8 +6,8 @@ So much of the distinct branches of a wives subjection. The #emph[limitation] an
 
 To know the #emph[limitation] of a wives obedience, and the #emph[manner] how she ought to yield subjection unto her husband, two things must be considered:
 
-- 1\. The place of an husband.
-- 2\. The place of a wife.
++ The place of an husband.
++ The place of a wife.
 
 The husbands place is noted in this phrase, #emph[as to the Lord:] #footnote[#emph[Eph.] 5. 22.] whereby is showed that the husband even by virtue of his place is to his wife in Christs stead: which is further more plainly laid down in these words following, #emph[the husband is] #footnote[#emph[Vers.] 23.] #emph[the head of the wife, as Christ is the head of the Church.]
 
@@ -281,8 +281,8 @@ The fourth reason taken from the #emph[benefit] which a wife receiveth #footnote
 
 For from this reason flow these two conclusions.
 
-- 1\. #emph[The subjection required of a wife is for her own good.]
-- 2\. #emph[In refusing to obey she showeth her self both ungrateful to her husband, and also injurious to her self.]
++ #emph[The subjection required of a wife is for her own good.]
++ #emph[In refusing to obey she showeth her self both ungrateful to her husband, and also injurious to her self.]
 
 That her subjection is for her own good, is evident by this #footnote[A wives subjection tendeth to her own good.] end for which an husband is made an head, to be a #emph[Saviour:] not to puff him up, to make him insult and tyrannize over his wife. So as if she be subject unto him, she may reap much good from him. As the Church is wisely governed, and safely protected by subjecting her self to her head Christ Jesus; and as the body partaketh of much good, and is preserved from much evil by subjecting it self to the head, so if a wife be subject to her husband, she will fare much the better thereby, all the ease, profit, and benefit thereof will be hers. If therefore she tender her own good, this is a way and means ordained of God for this end; let her herein seek it.
 

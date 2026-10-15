@@ -16,9 +16,9 @@ These two preposterous and presumptuous conceits doth the Apostle intimate, and 
 
 Here by the way, note three points.
 
-- 1\. The Gospel doth not free inferiors from that subjection #footnote[1\. #emph[Obser.]] to men whereunto by the moral law they are bound.
-- 2\. Men are ready to turn the grace of God into liberty. #footnote[2\. #emph[Obser.]]
-- 3\. As errors begin to sprout up in the Church, Ministers #footnote[3\. #emph[Obser.]] must be careful to root them out.
++ The Gospel doth not free inferiors from that subjection #footnote[1\. #emph[Obser.]] to men whereunto by the moral law they are bound.
++ Men are ready to turn the grace of God into liberty. #footnote[2\. #emph[Obser.]]
++ As errors begin to sprout up in the Church, Ministers #footnote[3\. #emph[Obser.]] must be careful to root them out.
 
 === §. 124. #emph[Of the meaning of the fifth verse.]
 
@@ -79,7 +79,7 @@ A main point here intended is this, that
 
 Lest upon the forenamed description of masters, servants #footnote[Servants fear of their masters. μετὰ φόβου, καὶ τρόμου.] should take to themselves too much heart, the Apostle annexeth this clause #emph[(with fear and trembling, etc.)] which hath relation to the manner of their obedience. No slavish fear is here meant, as if servants should live in continual dread, or tremble at the sight of their masters: a servant by the tyranny of some master may be brought so to do: but to do so is no Christian duty: that which the Apostle here requireth is a duty belonging to all Christian servants towards all sorts of masters, even the mildest that be. It is therefore an awful respect of the authority of a master, and a dutiful reverence to his person which is here required: and it is opposed to sauciness, malapertness, boldness, stoutness, answering again, murmuring and muttering against their masters, and other like vices. To show how foul those faults be, and what great respect servants ought to bear to their masters, these two words #emph[(fear,] and #emph[trembling)] are joined together: which in #footnote[Difference betwixt #emph[fear] and #emph[trembling.]] effect declare one and the same thing: but yet for explication sake they may be distinguished. For #footnote[φόβος. #emph[Vers.] 33.] #emph[Fear] signifieth a reverend respect of one: it is that which in the former Chapter was required of wives: though the thing in general which is required of wives and servants is the same, yet the particular manner and measure of a servants fear is far different.
 
-#footnote[τρόμος.] #emph[Trembling] is more proper to servants: it is a dread of punishment: and it is required of servants, not as if they should do all things simply for fear of punishment, but because God hath put a staff into a masters hands, servants must tremble at that power their masters have, and fear to provoke them to strike. To this purpose saith the Apostle to subjects in regard of the power which a Magistrate hath, #emph[be afraid, for] #footnote[#emph[Rom.] 13. 3, 4.] #emph[he beareth not the sword in vain.]
+#emph[Trembling]#footnote[τρόμος.] is more proper to servants: it is a dread of punishment: and it is required of servants, not as if they should do all things simply for fear of punishment, but because God hath put a staff into a masters hands, servants must tremble at that power their masters have, and fear to provoke them to strike. To this purpose saith the Apostle to subjects in regard of the power which a Magistrate hath, #emph[be afraid, for] #footnote[#emph[Rom.] 13. 3, 4.] #emph[he beareth not the sword in vain.]
 
 Hence learn that
 
@@ -182,7 +182,7 @@ In this verse the Apostle doth yet again inculcate the forenamed point concernin
 
 2\. A desire and endeavour that their masters may reap profit and benefit by their service: whereby they show that they bear a #emph[good will,] and #emph[good mind] to their masters.
 
-In setting down servants duties, the Apostle useth another word then before in the fifth verse, namely this #emph[(doing service)] #footnote[δουλεύοντες.] whereby he showeth that a servants place and duty is of a more abject and inferior kind then the place and duty of a child or a wife: the former word (#footnote[ὑπακούετε.]#emph[obey)] was common to all: this word (#footnote[δουλεύοντες.]#emph[doing service)] is proper to servants: and the very title of a #footnote[δοῦλος.] #emph[servant,] is derived from thence. Hence note that
+In setting down servants duties, the Apostle useth another word then before in the fifth verse, namely this #emph[(doing service)] #footnote[δουλεύοντες.] whereby he showeth that a servants place and duty is of a more abject and inferior kind then the place and duty of a child or a wife: the former word#footnote[ὑπακούετε.] (#emph[obey)] was common to all: this word#footnote[δουλεύοντες.] (#emph[doing service)] is proper to servants: and the very title of a #footnote[δοῦλος.] #emph[servant,] is derived from thence. Hence note that
 
 #emph[Though wives and children be inferiors as well as servants, yet] #footnote[17\. #emph[Obseru.]] #emph[may not servants look for such privileges as they have.] Another manner of subjection must be performed by servants.
 
@@ -198,10 +198,10 @@ The negative clause which followeth in these words #emph[(and not to men)] is no
 
 From this large declaration of the #emph[manner] of doing service #footnote[Difference betwixt servants of men, and of Christ.] to masters note the difference betwixt such servants as are #emph[servants of men,] and such as are #emph[servants of Christ.]
 
-- 1\. #emph[They] do all to the eye. #emph[These] all from the heart.
-- 2\. #emph[They] seek to please men. #emph[These] do the will of God.
-- 3\. #emph[They] do their service discontentedly. #emph[These] cheerfully.
-- 4\. #emph[They] do all upon self-love. #emph[These] with good will.
++ #emph[They] do all to the eye. #emph[These] all from the heart.
++ #emph[They] seek to please men. #emph[These] do the will of God.
++ #emph[They] do their service discontentedly. #emph[These] cheerfully.
++ #emph[They] do all upon self-love. #emph[These] with good will.
 
 === §. 127. #emph[Of the meaning of the eight verse.]
 

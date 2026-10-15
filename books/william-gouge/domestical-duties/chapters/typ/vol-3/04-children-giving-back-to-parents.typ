@@ -76,12 +76,7 @@ Thus much of the duties of children, which they are to perform while their paren
 
 === §. 45. #emph[Of childrens care to bury their parents being dead.]
 
-The duties which children owe to their parents after they are dead, concern the
-
-+ #emph[Body]
-+ #emph[Credit]
-
-of their deceased parent.
+The duties which children owe to their parents after they are dead, concern the #emph[body] and #emph[credit] of their deceased parent.
 
 It is the duty of children to bring the bodies of their parents deceased, with such decency and honour, as may be answerable to the place and reputation wherein they lived.
 

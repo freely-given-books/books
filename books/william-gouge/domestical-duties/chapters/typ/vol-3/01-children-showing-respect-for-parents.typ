@@ -7,41 +7,38 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #text(style: "italic")[1. Children obey your parents in the Lord: for this is right. 2. Honour thy father and mother (which is the first commandment with promise.) 3. That it may be well with thee: and thou mayest live long on the earth.]
+    #text(style: "italic")[1\. Children obey your parents in the Lord: for this is right. 2. Honour thy father and mother (which is the first commandment with promise.) 3. That it may be well with thee: and thou mayest live long on the earth.]
   ]
 ]
 
 #v(0.8em)
 
-The second couple in a family are
-
-- Parents.
-- Children.
+The second couple in a family are parents and children.
 
 In laying down their duties, the Apostle beginneth with children: his direction, and instigation unto them is laid down in the three first verses of the sixth chapter: wherein
 
-- 1\. He declareth their #emph[duty.]
-- 2\. He addeth #emph[reasons] to enforce the same.
++ He declareth their #emph[duty.]
++ He addeth #emph[reasons] to enforce the same.
 
 In laying down their duty he noteth three points.
 
-- 1\. #emph[Wherein] it consisteth, #emph[(obey, honour.)]
-- 2\. #emph[To whom] it is to be performed #emph[(your parents.)]
-- 3\. #emph[After what manner] it is to be done #emph[(in the Lord.)]
++ #emph[Wherein] it consisteth, #emph[(obey, honour.)]
++ #emph[To whom] it is to be performed #emph[(your parents.)]
++ #emph[After what manner] it is to be done #emph[(in the Lord.)]
 
 The reasons used by the Apostle are four.
 
-- 1\. The #emph[place] of parents #emph[(in the Lord.)]
-- 2\. The #emph[aequity] of the thing #emph[(this is right.)]
-- 3\. The #emph[charge] of God #emph[(honour thy father,] etc.)
-- 4\. The #emph[reward] promised #emph[(That it may go well,] etc.)
++ The #emph[place] of parents #emph[(in the Lord.)]
++ The #emph[aequity] of the thing #emph[(this is right.)]
++ The #emph[charge] of God #emph[(honour thy father,] etc.)
++ The #emph[reward] promised #emph[(That it may go well,] etc.)
 
 Under this word #emph[(obey)] which the Apostle useth, and that word #emph[(honour)] which the law useth, are all those duties comprised, which any where throughout the whole Scripture are enjoined to children.
 
 We will therefore set them down in some order, and handle them distinctly one after another.
 
-- 1\. The #emph[Fountain] of childrens duties is to be searched out.
-- 2\. The #emph[Streams] that flow from thence are to be observed.
++ The #emph[Fountain] of childrens duties is to be searched out.
++ The #emph[Streams] that flow from thence are to be observed.
 
 The #emph[Fountain] is an inward disposition of the heart compounded of #emph[love] and #emph[fear.]
 
@@ -94,7 +91,7 @@ This #emph[awful respect] ariseth from an honourable esteem which a child in his
 
 In this respect the fear of a #emph[child] is opposed to the fear of a #emph[slave.] For a childes fear being mixed with love, hath respect to the #emph[offence] which a parent may take; but a slaves fear, which is ordinarily mixed with hatred, hath respect to nothing but the #emph[punishment] which his master may inflict upon him. The forenamed fear is so proper to children, as that awful respect which the Saints bear to God, is called a #footnote[See Treat. 1. §. 4.] #emph[filial] or #emph[child-like fear.]
 
-This #emph[fear] in a child is an especial branch of that #footnote[#emph[Exo.] 20. 12.] #emph[honour] which the law requireth of children to their parents: and it is in #footnote[#emph[Lev.] 19. 3.] express terms enjoined to children by the law. That phrase which God useth of #emph[Miriam] (#footnote[#emph[Num.] 12. 14.] #emph[If her father had but spit in her face, should she not be ashamed seven days?)] showeth that there ought to be such a fear of the parent in a childes heart, as should work shame in it when the parent is offended.
+This #emph[fear] in a child is an especial branch of that #footnote[#emph[Exo.] 20. 12.] #emph[honour] which the law requireth of children to their parents: and it is in #footnote[#emph[Lev.] 19. 3.] express terms enjoined to children by the law. That phrase which God useth of #emph[Miriam]#footnote[#emph[Num.] 12. 14.] (#emph[If her father had but spit in her face, should she not be ashamed seven days?)] showeth that there ought to be such a fear of the parent in a childes heart, as should work shame in it when the parent is offended.
 
 A worthy pattern we have hereof in #footnote[#emph[Gen.] 27. 12.] #emph[Jacob,] who was loath to gain the blessing with offence of his father.
 
@@ -112,28 +109,16 @@ Thus much of a childes inward disposition towards his parent. The manifestation 
 
 The outward #emph[reverence] which children owe to their parents consisteth partly in their #emph[speech,] partly in their carriage.
 
-Their speech both #emph[to] and #emph[of] their parents must savour reverence.
+Their speech both #emph[to] and #emph[of] their parents must savour reverence: to their parents in presence, of their parents in absence.
 
-To their parents in presence.
-
-Of their parents in absence.
-
-In presence, by
-
-+ #emph[Refraining]
-+ #emph[Well framing]
-
-their speech.
+In presence, by #emph[refraining] and #emph[well framing] their speech.
 
 For refraining speech two virtues are requisite
 
 + #emph[Silence.]
 + #emph[Patience.]
 
-Silence in
-
-+ #emph[Forbearing] to speak.
-+ #emph[Breaking] of speech. #footnote[Children ought to forbear speaking in their parents presence]
+Silence in #emph[forbearing] to speak, and #emph[breaking] of speech. #footnote[Children ought to forbear speaking in their parents presence]
 
 Patience in hearkening to their parents.
 
@@ -195,10 +180,10 @@ Contrary to that kind of blessing is discovering of parents #footnote[Childrens 
 
 As the speech, so the carriage of children towards their parents must be seasoned with reverence: for
 
-- 1\. #emph[This] is a fruit, and proof of filial fear as well as #emph[that.]
-- 2\. Of the two, this is the surer evidence: for actions are better signs of the disposition of the heart then words.
-- 3\. Fair words joined with contrary deeds, cannot but be accounted merely complemental and hypocritical.
-- 4\. Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that mans condemnation the greater. #footnote[Childrens reverence to their parents manifested, 1. by meeting them.]
++ #emph[This] is a fruit, and proof of filial fear as well as #emph[that.]
++ Of the two, this is the surer evidence: for actions are better signs of the disposition of the heart then words.
++ Fair words joined with contrary deeds, cannot but be accounted merely complemental and hypocritical.
++ Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that mans condemnation the greater. #footnote[Childrens reverence to their parents manifested, 1. by meeting them.]
 
 Wherefore let all reverence be manifested in childrens behaviour to their parents, and that in these and such like instances.
 

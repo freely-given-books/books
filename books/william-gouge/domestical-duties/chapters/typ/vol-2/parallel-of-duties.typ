@@ -2,6 +2,8 @@
 
 A few faults escaped in the printing are noted in the end of the book, which I desire you to amend with a pen.
 
+#[
+
 TREAT. III.
 
 #emph[Particular duties of Wives.]
@@ -39,6 +41,9 @@ TREAT. IV.
 + A provident care for his wife, according to his ability, §. 46, 49, 50, 52.
 + A forbearing to exact any thing which stands not with a good conscience, §. 26.
 + Such a love, as Christ beareth to the Church, and man to himself, which is first free, in deed, and truth, pure, chaste, constant, §. 61, etc. and 74.
+] <parallel>
+
+#[
 
 TREAT. III.
 
@@ -77,3 +82,4 @@ TREAT. IV.
 + A careless neglect of his wife, and niggardly dealing with her, and that in her weakness, §. 46, 51, 53.
 + A commanding of unlawful things, §. 26, 30, 32.
 + Such a disposition as is most unlike to Christs, and to that which a man beareth to himself, viz. complemental, impure, for by-respects, unconstant, etc. §. 62, etc. and 74.
+] <parallel>

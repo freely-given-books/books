@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 6.]
 
-    #text(style: "italic")[5. Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ. 6. Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart. 7. With good will doing service, as to the Lord, and not to men. 8. Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]
+    #text(style: "italic")[5\. Servants be obedient to them that are your masters according to the flesh, with fear and trembling in singleness of your heart, as unto Christ. 6. Not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart. 7. With good will doing service, as to the Lord, and not to men. 8. Knowing that whatsoever good thing any man doth, the same shall he receive of the Lord, whether he be bond or free.]
   ]
 ]
 
@@ -25,13 +25,7 @@ Therein he
 + Declareth their duties.
 + Addeth motives to perform them.
 
-I. In declaring servants duties he noteth—
-
-+ The #emph[kinds]
-+ The #emph[manner]
-+ The #emph[extent]
-
-of them.
+I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], and the #emph[extent] of them.
 
 1\. The kinds of servants duties are noted in two words,—
 
@@ -45,9 +39,9 @@ of them.
 
 1\. #emph[Affirmatively] by showing what graces are requisite: to which purpose he reckoneth up four particulars.
 
-- 1\. #emph[Fear and trembling.]
-- 2\. #emph[Singleness of heart.]
-- 3\. #emph[Conscience to Christ.]
++ #emph[Fear and trembling.]
++ #emph[Singleness of heart.]
++ #emph[Conscience to Christ.]
 
 4\. #emph[Good will.] Under which are comprised—
 
@@ -79,19 +73,19 @@ II. The motives which the Apostle useth are partly—
 
 They are #emph[implied] three ways.
 
-- 1\. By declaring the place of a master #emph[(as to Christ.)]
-- 2\. By noting out the honour of their service #emph[(as servants of Christ.)]
-- 3\. By showing the ground of servants subjection #emph[(Gods will.)]
++ By declaring the place of a master #emph[(as to Christ.)]
++ By noting out the honour of their service #emph[(as servants of Christ.)]
++ By showing the ground of servants subjection #emph[(Gods will.)]
 
 The motive expressed is the #emph[Recompense] which servants shall have for their pains largely laid forth, vers. 8.
 
 Therein these distinct points are noted in order.
 
-- 1\. The assurance thereof #emph[(knowing.)]
-- 2\. The ground thereof, taken from a general rule #emph[(whatsoever good thing any man doth.)]
-- 3\. The particular application thereof #emph[(whether bond or free.)]
-- 4\. The kind thereof #emph[(the same shall he receive.)]
-- 5\. The author and giver thereof #emph[(of the Lord.)]
++ The assurance thereof #emph[(knowing.)]
++ The ground thereof, taken from a general rule #emph[(whatsoever good thing any man doth.)]
++ The particular application thereof #emph[(whether bond or free.)]
++ The kind thereof #emph[(the same shall he receive.)]
++ The author and giver thereof #emph[(of the Lord.)]
 
 === §. 2. #emph[Of the lawfulness of a masters place and power.]
 
@@ -99,8 +93,8 @@ In handling servants duties I will proceed according to the order propounded. In
 
 For finding out the kinds, I will observe the method followed in handling childrens duties. Note then
 
-- 1\. The #emph[Fountain] of servants duties.
-- 2\. The #emph[Streams] that issue from thence.
++ The #emph[Fountain] of servants duties.
++ The #emph[Streams] that issue from thence.
 
 The #emph[Fountain] resteth partly in the #emph[opinion,] and partly in the #emph[affection] of servants.
 
@@ -154,7 +148,7 @@ This fear will draw servants on, cheerfully to perform all duty: the more it abo
 
 Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress) and in this respect it may #footnote[#emph[Gen.] 39. 8.] prevent many mischiefs which their masters offence and wrath might bring upon them.
 
-One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title (#footnote[אדון #emph[Gen.] 24. 9. Κύριος. #emph[Eph.] 6. 5.] #emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
+One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is Gods appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title#footnote[אדון #emph[Gen.] 24. 9. Κύριος. #emph[Eph.] 6. 5.] (#emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
 
 === §. 5. #emph[Of the extremes contrary to servants fear of their masters.]
 
@@ -176,16 +170,11 @@ The two main #emph[streams] which issue out of the forenamed #emph[fountain,] ar
 + #emph[Speech.]
 + #emph[Carriage.]
 
-In Speech by
-
-+ #emph[Refraining]
-+ #emph[Well ordering]
-
-Speech.
+In speech by #emph[refraining] and #emph[well ordering] speech.
 
 Servants reverence in refraining speech is manifested 3. Ways.
 
-1\. By sparing to speak, without just cause in their masters presence or audience: This phrase (#footnote[1 #emph[King.] 10. 8.] #emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomons] servants, showeth that they were slow to speak and swift to hear in their masters presence.
+1\. By sparing to speak, without just cause in their masters presence or audience: This phrase#footnote[1 #emph[King.] 10. 8.] (#emph[they stand continually before thee and hear thy wisdom)] spoken of #emph[Solomons] servants, showeth that they were slow to speak and swift to hear in their masters presence.
 
 2\. By forbearing to reply when they observe their masters unwilling that they should speak any more. Thus did #emph[Peter] forbear when his master gave him this short answer, #footnote[#emph[John] 21. 22.] #emph[What is that to thee?]
 
@@ -207,9 +196,7 @@ Servants for well ordering their speech unto their masters must observe five cau
 
 5\. When their master unjustly suspecteth any evil of them, they may speak to clear their own innocency, as #emph[David] #footnote[1 #emph[Sam.] 24. 10.] did to #emph[Saul.]
 
-A second caution for servants well ordering their speech is, #footnote[Directions for servants well framing their speech to masters.]
-
-That the very form and manner of their speech when they have just occasion to speak to their masters, do savour of reverence: for which purpose let these particulars be noted.
+A second caution for servants well ordering their speech is, #footnote[Directions for servants well framing their speech to masters.] that the very form and manner of their speech when they have just occasion to speak to their masters, do savour of reverence: for which purpose let these particulars be noted.
 
 1\. That servants give reverend titles to their masters.
 
@@ -225,20 +212,14 @@ It was in an honourable respect of their master that the servants of #emph[Naama
 
 3\. When one of them had lost the head of his hatchet, as if he durst not be so bold as to speak to his master to get it him again, he referreth the thing to his good pleasure, saying, #emph[Alas master it was but borrowed.]
 
-A third caution is,
+A third caution is, that they observe a fit season to speak to their master: as when he is at leisure to hear them: (thus it is noted of the disciples that when their master was #emph[alone] they propounded their questions unto him) or when his mind is quiet, not #footnote[#emph[Mar.] 4. 10.] troubled with passion (thus when #emph[David] observed that #emph[Sauls] mind was somewhat pacified towards him, by that speech he used, #emph[Is this thy voice my son David,] then he took occasion more freely to speak to him.) #footnote[1 #emph[Sam.] 26. 17.]
 
-That they observe a fit season to speak to their master: as when he is at leisure to hear them: (thus it is noted of the disciples that when their master was #emph[alone] they propounded their questions unto him) or when his mind is quiet, not #footnote[#emph[Mar.] 4. 10.] troubled with passion (thus when #emph[David] observed that #emph[Sauls] mind was somewhat pacified towards him, by that speech he used, #emph[Is this thy voice my son David,] then he took occasion more freely to speak to him.) #footnote[1 #emph[Sam.] 26. 17.]
+A fourth caution is, that they give a ready and present answer to their master. This is oft commended in #emph[Peter,] that when Christ propounded any question to his disciples, he would presently and #footnote[#emph[Mat.] 16. 16. #emph[Joh.] 6. 68.] readily answer.
 
-A fourth caution is,
+A fifth caution is, that all their speeches and answers to their master be true, not daring to tell a lie unto them: this argueth a very reverend respect of a master. When #emph[Eli] demanded of #emph[Samuel] what the Lord had said to him, #emph[Samuel told him every whit and hid nothing from him.] And when #emph[David] bid the woman of Tekoah #footnote[1 #emph[Sam.] 3. 18. 2 #emph[Sam.] 14. 18, 19.] not to hide the thing that he should ask her from him, she told him the whole truth. There is a double bond to tie servants hereunto.
 
-That they give a ready and present answer to their master. This is oft commended in #emph[Peter,] that when Christ propounded any question to his disciples, he would presently and #footnote[#emph[Mat.] 16. 16. #emph[Joh.] 6. 68.] readily answer.
-
-A fifth caution is,
-
-That all their speeches and answers to their master be true, not daring to tell a lie unto them: this argueth a very reverend respect of a master. When #emph[Eli] demanded of #emph[Samuel] what the Lord had said to him, #emph[Samuel told him every whit and hid nothing from him.] And when #emph[David] bid the woman of Tekoah #footnote[1 #emph[Sam.] 3. 18. 2 #emph[Sam.] 14. 18, 19.] not to hide the thing that he should ask her from him, she told him the whole truth. There is a double bond to tie servants hereunto.
-
-- 1\. Their conscience towards God, who is a God of truth.
-- 2\. Their respect to their masters with whom they ought to deal faithfully.
++ Their conscience towards God, who is a God of truth.
++ Their respect to their masters with whom they ought to deal faithfully.
 
 Lastly, a servants reverence ought to be manifested by his speech of his master even behind his back: speaking good of him, and no evil: this part of reverence also did #emph[Abrahams] servant show to his master. Thus shall they show themselves #footnote[#emph[Gen.] 24. 35, #emph[etc.]] good, true-hearted, faithful servants, and not parasites.
 
@@ -276,9 +257,9 @@ Their reverence in carriage followeth.
 
 For manifestation of a servants #emph[reverence in carriage] towards his master, three things are especially required.
 
-- 1\. Dutiful obeisance.
-- 2\. Respectful behaviour.
-- 3\. Modest apparel.
++ Dutiful obeisance.
++ Respectful behaviour.
++ Modest apparel.
 
 I. Such dutiful and submissive obeisance and courtesy, as beseemeth their sex and place, and that according to the most usual #footnote[1\. Servants obeisance to their masters.] custom of the country and place where they are, must servants perform to their masters, as they have occasion to go to them, to come from them, to receive any charge of them, or to bring any message unto them. Where #emph[Isaac] saith in his blessing given to #emph[Jacob, Be lord over thy brethren, and let thy mothers sons bow] #footnote[#emph[Gen.] 27. 29.] #emph[down to thee,] by that phrase of #emph[bowing down,] he noteth the condition of a servant, and withal implieth a servants duty: on this ground, when the children of the Prophets saw that the spirit of #emph[Elijah] rested on #emph[Elisha,] they taking it for an evident sign that God had made him a governor and master over them, #emph[they came to] #footnote[2 #emph[King.] 2. 15.] #emph[meet him, and bowed themselves to the ground before him.]
 

@@ -32,7 +32,7 @@ Contrary are these aberrations.
 
 4\. When they perform them rudely and unmannerly: #footnote[4\. Rudely.] This showeth they consider not the glory of Gods Image shining in their parents.
 
-5\. #footnote[§. 38.] When they care not how they sin against God, so #footnote[5\. Only to please man.] they may please their parents.
+5\. When#footnote[§. 38.] they care not how they sin against God, so #footnote[5\. Only to please man.] they may please their parents.
 
 6\. When, as if they repented of what they have well done, #footnote[6\. Unsettledly.] they refuse to do any more duty to their parents. They wax weary, thinking that God hath laid too heavy a burden upon them. Many show themselves more dutiful in their younger then in their riper years. That which maketh children weary in doing duty, is commonly the great and long need of their parents, as long sickness, long impotency, long poverty, with the like. It appears that such children look only on their parents as men, which, as they imagine, can never recompense their pains and cost: they look not to God who is able abundantly to recompense all. These therefore perform not their duty #emph[in the Lord.]
 

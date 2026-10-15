@@ -39,7 +39,7 @@ The second is taken from the benefit which a wife reapeth by her husbands superi
 
 === §. 15. #emph[Of the resemblance of an husband to Christ.]
 
-The more to enforce the forenamed reason, the Apostle addeth the resemblance that is betwixt an husband and Christ, as this note of comparison (#footnote[ὡς.]#emph[even as)] showeth: whence it followeth that
+The more to enforce the forenamed reason, the Apostle addeth the resemblance that is betwixt an husband and Christ, as this note of comparison#footnote[ὡς.] (#emph[even as)] showeth: whence it followeth that
 
 #emph[It is as meet for a wife to submit her self to her husband, as] #footnote[Obser.] #emph[for the Church to submit it self to Christ.] This amplification is especially added for Christians. Heathens may be moved to subject themselves to their governors, by the resemblance taken from a natural body. How much more ought Christians to be moved by the resemblance taken from the mystical body of Christ?
 
@@ -66,7 +66,7 @@ The #emph[reason] may be thus framed, #emph[That which the Church doth to Christ
 
 The proposition is grounded on that resemblance which is betwixt the Church in relation to Christ, and a wife in relation to her husband: for an husband is that to his wife, which Christ is to the Church; therefore a wife must be so to her husband, as the Church is to Christ.
 
-The #emph[rule] noteth both the #emph[Manner] (#footnote[ὥσπερ.]#emph[as)] and also the #emph[Extent] of a wives subjection (#footnote[ἐν παντί.]#emph[in every thing.)] #footnote[See more of the #emph[manner] and #emph[extent] of a wives obedience, #emph[Treat.] 3. §. 51. #emph[&] 63.]
+The #emph[rule] noteth both the #emph[Manner]#footnote[ὥσπερ.] (#emph[as)] and also the #emph[Extent] of a wives subjection#footnote[ἐν παντί.] (#emph[in every thing.)] #footnote[See more of the #emph[manner] and #emph[extent] of a wives obedience, #emph[Treat.] 3. §. 51. #emph[&] 63.]
 
 #strong[#emph[Quest.] Is mortal and sinful man to be obeyed as the Lord Christ the eternal Son of God?]
 
@@ -83,7 +83,7 @@ I will further consider these examples of Christ and the Church more distinctly 
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 23, 24.]
 
-    #text(style: "italic")[23. Christ is the head of the Church: and he is the Saviour of the body. 24. The Church is subject unto Christ in every thing.]
+    #text(style: "italic")[23\. Christ is the head of the Church: and he is the Saviour of the body. 24. The Church is subject unto Christ in every thing.]
   ]
 ]
 
@@ -103,9 +103,8 @@ Note also concerning the Church,
 
 + Her prerogative, #emph[(she is the body of Christ.)]
 + Her duty. In laying down whereof there is noted,
-
-+ Wherein it consisteth #emph[(The Church is subject to Christ)]
-+ How far it extendeth, #emph[(in every thing.)]
+  + Wherein it consisteth #emph[(The Church is subject to Christ)]
+  + How far it extendeth, #emph[(in every thing.)]
 
 The title #emph[Head,] is given to Christ in two respects.
 
@@ -172,7 +171,7 @@ This being so, to what end serveth the supposed #emph[treasure of] #footnote[Ref
 
 === §. 20. #emph[Of Christ the only Saviour.]
 
-This relative particle (#footnote[αὐτός.]HE) hath also his emphasis; for as it pointeth out #emph[Christ the head of the Church,] so it restraineth this great work to him: it may thus be translated, #emph[he himself:] that is, he in his own person, he by himself, he and none but he. So as to speak properly,
+This relative particle#footnote[αὐτός.] (HE) hath also his emphasis; for as it pointeth out #emph[Christ the head of the Church,] so it restraineth this great work to him: it may thus be translated, #emph[he himself:] that is, he in his own person, he by himself, he and none but he. So as to speak properly,
 
 #emph[Christ is the only Saviour of men:] in which respect he is #footnote[Doct.] called #footnote[#emph[Luk.] 1. 69.] #emph[the horn of salvation,] yea #footnote[#emph[&] 2. 30.] #emph[Salvation] it self: which titles are given to him by an #emph[excellency and propriety:] and in the same respect the name #footnote[#emph[Mat.] 1. 21.] #emph[Jesus] was given unto him.
 
@@ -230,6 +229,8 @@ This is a point of admirable comfort to such as have assurance #footnote[Use.] o
 + A mystical union with Christ.
 + A spiritual communion with the Saints.
 
+#[
+#set enum(start: 1)
 + By virtue of that union they who are of Christs body,
   + #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
   + #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
@@ -240,6 +241,7 @@ This is a point of admirable comfort to such as have assurance #footnote[Use.] o
   + #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
   + #footnote[#emph[Eph.] 4. 16.] They will edify one another.
   + #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
+]
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 

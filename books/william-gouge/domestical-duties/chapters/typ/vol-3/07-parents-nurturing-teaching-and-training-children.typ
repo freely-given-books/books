@@ -4,9 +4,9 @@
 
 I refer good nurture in part to the temporal good of children, because (as afterwards we shall hear in the particulars) it is an especial means of the outward temporal welfare of the child even in this world. Unless this be added to #emph[nourishing,] wherein do reasonable men and women exceed unreasonable beasts? The most cruel beasts that be are very tender (as we heard before) towards their young ones, nourishing them, and providing all things needful for them till they can shift for themselves. But as God hath given to man a reasonable soul, an understanding head, capacity, docility and aptness to learn, so ought parents to make use of those parts and gifts, lest for want of using them, in time they be lost: and so children prove little better then brutes. In this respect the proverb is true, #emph[better be unfed then untaught.] Experience showeth that good education is better then a great portion. The Holy Ghost doth very much press this point on parents, as we shall after hear in the particulars. For I will handle these three points.
 
-- 1\. The #emph[kinds] of nurture.
-- 2\. The #emph[time] when it is to be done.
-- 3\. The means of well doing it.
++ The #emph[kinds] of nurture.
++ The #emph[time] when it is to be done.
++ The means of well doing it.
 
 === §. 27. #emph[Of parents neglect in nurturing children.]
 
@@ -16,8 +16,8 @@ Contrary to good nurture is too much liberty: which oft bringeth much woe, and u
 
 The nurturing of children before mentioned consisteth
 
-- 1\. In teaching them good manners.
-- 2\. In training them up to a good calling.
++ In teaching them good manners.
++ In training them up to a good calling.
 
 Not only heathen men, and other moralists which were but mere natural civil men, but also the Holy Ghost himself hath prescribed many rules of good manners, and much urged and pressed the same.
 

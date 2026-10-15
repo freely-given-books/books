@@ -15,25 +15,20 @@
 
 In the particular declaration of wives duties, the Apostle noteth two points,
 
-- 1\. The #emph[duty] required.
-- 2\. The #emph[reason] to enforce it.
++ The #emph[duty] required.
++ The #emph[reason] to enforce it.
 
 In setting forth the duty, he declareth
 
-- 1\. The #emph[matter] wherein it consisteth.
-- 2\. The #emph[manner] how it is to be performed.
++ The #emph[matter] wherein it consisteth.
++ The #emph[manner] how it is to be performed.
 
 In the matter we may note,
 
-- 1\. The thing required, #footnote[ὑποτάσσεσθε.] #emph[subjection.]
-- 2\. The person whom it respecteth, their #footnote[ἰδίοις.] #emph[own] husbands.
++ The thing required, #footnote[ὑποτάσσεσθε.] #emph[subjection.]
++ The person whom it respecteth, their #footnote[ἰδίοις.] #emph[own] husbands.
 
-The manner respecteth
-
-+ The #emph[quality]
-+ The #emph[extent]
-
-of that subjection.
+The manner respecteth the #emph[quality] and the #emph[extent] of that subjection.
 
 To declare the quality of wives subjection to their husbands, two rules are set down.
 
@@ -67,8 +62,8 @@ The first point to be handled in the treatise of wives particular duties is the 
 
 The subjection which is required of a wife to her husband implieth two things.
 
-- 1\. That she acknowledge her husband to be her superior.
-- 2\. That she respect him as her superior.
++ That she acknowledge her husband to be her superior.
++ That she respect him as her superior.
 
 That acknowledgment of the husbands superiority is twofold
 
@@ -113,7 +108,7 @@ Though there seem to be never so little disparity, yet God having so expressly a
 
 The truth and life of that general acknowledgment of husbands #emph[honour,] consisteth in the particular application thereof unto their #emph[own] proper husbands.
 
-The next duty therefore is, that wives acknowledge their #footnote[All wives must acknowledge their own husbands worthy of honour.] #emph[own] husbands, even those to whom by Gods providence they are joined in marriage, to be worthy of an husbands honour, and to be their superior: thus much the Apostle intendeth by that particle of restraint (#footnote[ἰδίοις. #emph[Eph.] 5. 22, 24.] #emph[own)] which he useth very often: so likewise doth #footnote[1 #emph[Pet.] 3. 1, 5.] #emph[S. Peter,] exhorting wives to be in subjection #footnote[1 #emph[Cor.] 7. 2.] to their #emph[own] husbands: and hereunto restraining the commendation of the ancient good wives, that they were in subjection to their #emph[own] husbands.
+The next duty therefore is, that wives acknowledge their #footnote[All wives must acknowledge their own husbands worthy of honour.] #emph[own] husbands, even those to whom by Gods providence they are joined in marriage, to be worthy of an husbands honour, and to be their superior: thus much the Apostle intendeth by that particle of restraint#footnote[ἰδίοις. #emph[Eph.] 5. 22, 24.] (#emph[own)] which he useth very often: so likewise doth #footnote[1 #emph[Pet.] 3. 1, 5.] #emph[S. Peter,] exhorting wives to be in subjection #footnote[1 #emph[Cor.] 7. 2.] to their #emph[own] husbands: and hereunto restraining the commendation of the ancient good wives, that they were in subjection to their #emph[own] husbands.
 
 #emph[Object.] What if a man of mean place be married to a woman of eminent place, or a servant be married to his mistress, or an aged woman to a youth, must such a wife acknowledge such an husband her superior?
 
@@ -178,7 +173,7 @@ Contrary to this sobriety is lightness and wantonness: which vices in a wife, es
 
 #emph[Answ.] Though the forenamed sobriety be opposed to lightness #footnote[Difference betwixt wantonness and familiarity.] and wantonness, yet not to matrimonial familiarity: which is so far permitted to man and wife, as if any other man and woman should so behave themselves one towards another as an husband and wife lawfully may, it might justly be counted lightness and sin: instance the example of #emph[Isaac] and #emph[Rebekah,] who so sported together, as #emph[Abimelech,] #footnote[#emph[Gen.] 26. 8, 9.] knowing them to be such as feared God, gathered by that #emph[sporting] that they were man and wife: for he thought that otherwise they would not have been so familiar together.
 
-#footnote[See Treat. 4. §. 42.] This familiarity argueth both #emph[liking] and #emph[love:] and showeth that the man and wife delight in one anothers person. But the lightness here condemned in a wife, is not so much a mutual familiarity with her husband by his good liking, as a wanton dallying with others to his grief and disgrace.
+This#footnote[See Treat. 4. §. 42.] familiarity argueth both #emph[liking] and #emph[love:] and showeth that the man and wife delight in one anothers person. But the lightness here condemned in a wife, is not so much a mutual familiarity with her husband by his good liking, as a wanton dallying with others to his grief and disgrace.
 
 === §. 10. #emph[Of] #footnote[Treat. 4. §. 13, 22.] #emph[wive-like mildness.]
 
@@ -216,7 +211,7 @@ As their words must be few, so those few words must be reverend and meek: both w
 
 For the titles which a wife in speaking to her husband, or naming him, giveth unto him, they must be such as signify superiority, and so savour of reverence. Such are the titles wherewith husbands are named in the Scripture; #footnote[See §. 3.] they are titles of honour. Such also are the titles which the Church (who by our Apostle is made a pattern for wives in all subjection) giveth to her Spouse Christ Jesus, as may be gathered out of the #emph[Song of songs.] It is likely that #emph[Sarah] did usually give this title #emph[Lord] to her husband. For having occasion to think of him, presently this title #footnote[#emph[Gen.] 18. 12.] #emph[Lord] was in her heart: which would not so suddenly have risen up, if she had not ordinarily used it. According to the usual titles which we give to any, do we in our hearts name them, when we have occasion to think of them. Among all other titles the name husband, as it is the most usual, so it is the fittest and meetest title. It intimateth reverence, and savoureth not of niceness & singularity, as these titles, #emph[Head, Guide, master, man,] and the like do: which though they be lawful titles, because the Scripture attributeth them to husbands, and they signify superiority, yet because they are unusual and savour of singularity, they are not so meet. Common use and practise hath made the addition of the husbands surname to this title #emph[master,] more meet.
 
-#footnote[1 #emph[Pet.] 3. 6.] Saint #emph[Peter] by this argument proveth that #emph[Sarah] obeyed #emph[Abraham,] because she called him #emph[Lord.]
+Saint#footnote[1 #emph[Pet.] 3. 6.] #emph[Peter] by this argument proveth that #emph[Sarah] obeyed #emph[Abraham,] because she called him #emph[Lord.]
 
 Contrary are those compellations which argue equality or inferiority rather then superiority, as #emph[brother, Cousin, Friend, man,] etc. If a stranger be in presence, how can he tell by this manner of compellation, that he whom thou speakest unto is thy husband? If he espy any matrimonial familiarity betwixt you, what can he judge of it otherwise to be, lightness and wantonness? Remember the fearful issue that had like to have fallen out by reason of such compellations given by #footnote[#emph[Gen.] 12. 19. #emph[&] 20. 2.] #emph[Sarah] and #footnote[#emph[&] 26. 9.] #emph[Rebekah] to their husbands. Not unlike to those are such as these, #emph[Sweet, Sweeting, Heart, Sweet-heart, love, Joy, Dear,] etc. And such as these, #emph[Duck, Chick, Pigsny,] etc. And husbands Christian names, as #emph[John, Thomas, William, Henry,] etc. Which if they be contracted (as many use to contract them thus, #emph[Jack, Tom, Will, Hall)] they are much more unseemly: servants are usually so called.
 

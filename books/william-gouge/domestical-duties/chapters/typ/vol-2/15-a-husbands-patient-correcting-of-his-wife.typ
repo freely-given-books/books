@@ -43,17 +43,17 @@ Contrary is an harsh and rough manner of instructing, when husbands go about to 
 
 In regard of the #emph[matter] the things which he commandeth #footnote[What things he may command his wife.] his wife to do, must be
 
-- 1\. Such as are indeed lawful and honest.
-- 2\. Such as she is persuaded to be so.
-- 3\. Such as beseem her place.
-- 4\. Such as are of weight and moment.
++ Such as are indeed lawful and honest.
++ Such as she is persuaded to be so.
++ Such as beseem her place.
++ Such as are of weight and moment.
 
 And on the contrary, the things which he forbiddeth must be
 
-- 1\. Such as are indeed unlawful to be done. #footnote[What things he may forbid his wife.]
-- 2\. Such as he can evidently prove unto her to be unlawful.
-- 3\. Such as are unbeseeming her place.
-- 4\. Such as will have some evil and mischievous effect if they be done.
++ Such as are indeed unlawful to be done. #footnote[What things he may forbid his wife.]
++ Such as he can evidently prove unto her to be unlawful.
++ Such as are unbeseeming her place.
++ Such as will have some evil and mischievous effect if they be done.
 
 1\. To command a thing unlawful, or forbid a thing which ought to be done, is to bring his own authority into opposition with Gods: in which case he bringeth his wife into this strait, either to reject Gods commandment or his. How then can she think that her husband loveth her, when he bringeth her into such snares and straits, that she must needs fall into the gulf of Gods displeasure, or knock against the rock of her husbands offence? Mildness is far from such commandments.
 
@@ -71,8 +71,8 @@ And on the contrary, the things which he forbiddeth must be
 
 #emph[Answ.] He must first labour to resolve her conscience by a plain discovery of her error; which is a true and a great token of love: if notwithstanding all that he can do in that kind she cannot be brought to yield to that which he would have, then he must carefully observe these two things.
 
-- 1\. Whether her refusing to yield, be an obstinacy, or weakness.
-- 2\. Whether it be about a slight or weighty matter.
++ Whether her refusing to yield, be an obstinacy, or weakness.
++ Whether it be about a slight or weighty matter.
 
 By the reasons which she rendereth, and her manner of pressing #footnote[How a wives refusing to yield may be discerned to be an obstinacy or weakness.] them, he may discern whether weakness or obstinacy make her stand out against him: if the reason which she resteth on taken from Gods word be doubtful, and to one that hath not a good sound judgment, and a sharp discerning wit, it may appear to make something for her, it is to be presupposed that there is more weakness then stoutness in her. But if she can render no good reason, but only take every show that any way seemeth to incline to her words, and peremptorily holdeth the conclusion, and stiffly standeth on her own resolution, though the vanity of her pretences be evidently discovered to her, so as she hath not any thing further to object; or if she render no reason at all but her own thought, conceit and will, and yet refuseth to yield, surely obstinacy possesseth her heart. In case of obstinacy it is very expedient that an husband stand upon his power to maintain his authority, and by the best wisdom he can (using only such means as are lawful) bring her to yield from her stoutness to that which he requireth: especially if the matter be weighty: as in case a religious man have been married to a Popish wife, and she by no reason will be moved to forbear going to Mass, or yield to go to the preaching of the Gospel. But if through #emph[weakness] she cannot be persuaded of the lawfulness of that her husband requireth, and the matter required be of no great consequence, nor the weakness of her conscience cause any great error, an husband ought so far to manifest his mildness as to forbear to press her conscience.
 
@@ -96,8 +96,8 @@ Respect must be had by husbands to the #emph[manner] of using their authority in
 
 In regard of the #emph[manner] his commandments must be
 
-- 1\. #emph[Rare,] not too frequent.
-- 2\. By way of #emph[entreating,] not too peremptory.
++ #emph[Rare,] not too frequent.
++ By way of #emph[entreating,] not too peremptory.
 
 Authority is like a sword, which with over much using will #footnote[1\. Commanding must be rare.] be blunted, and so fail to do that service which otherwise it might when there is most need. A wise, grave, peaceable man, may always have his sword in readiness, and that also very bright, keen, and sharp: but he will not be very ready to pluck it out of his scabbard; he rather keepeth it for a time of need, when it should stand him in most stead. Such husbands therefore as are too frequent in their commands, show themselves nor grave, nor wise, nor lovers of peace.
 

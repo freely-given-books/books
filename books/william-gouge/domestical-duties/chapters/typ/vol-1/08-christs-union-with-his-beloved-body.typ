@@ -13,13 +13,9 @@
 
 #v(0.8em)
 
-This confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that
+This confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that the Lord hateth not his Church.
 
-The Lord hateth not his Church.
-
-And to the affirmative, and so it showeth, that
-
-The Lord nourisheth and cherisheth his Church.
+And to the affirmative, and so it showeth, that the Lord nourisheth and cherisheth his Church.
 
 That difference which is made betwixt #emph[Esau] a type of the world #emph[(Esau have I hated)] and #emph[Jacob] a type of the Church #footnote[#emph[Mal.] 1. 2, 3.] #emph[(Jacob have I loved)] showeth that the Lord is far from hating his Church. The world, not the Church, is the object of Gods hatred.
 
@@ -64,13 +60,13 @@ The reason of the forenamed love of Christ, and fruits #footnote[Inference.] the
 
 The mystery of our spiritual union with Christ is here laid down, and that as fully, and distinctly (though very succinctly) #footnote[Sum,] as in any place of Scripture. I will endeavour to open it as plainly as I can.
 
-#emph[We are\]] The Apostle here changeth both person and number: #footnote[ἐσμέν. #emph[Paul] ranketh himself among the members of Christ.] for before he spake of the Church as of another in the third person, and of one in the singular number: but here he speaketh of the same in the first person including himself, and in the plural number, including all others like himself #emph[(elect of God, and Saints by calling)] whereby he giveth us to understand what he meaneth by the #emph[Church,] namely #emph[the company of Saints,] to which, though he were a Preacher of the Gospel, an extraordinary Preacher, an Apostle, he associateth and joineth himself: noting thereby that he was made partaker of the same grace, and saved by the same means that others were. Well might he in this privilege not think much to rank himself, because #emph[it is the highest degree of honour that can be] #footnote[Obser.] #emph[to be a member of the body of Christ:] much more then to be a Preacher, a Prophet, an Apostle, or of any other eminent calling.
+#emph[We are] The Apostle here changeth both person and number: #footnote[ἐσμέν. #emph[Paul] ranketh himself among the members of Christ.] for before he spake of the Church as of another in the third person, and of one in the singular number: but here he speaketh of the same in the first person including himself, and in the plural number, including all others like himself #emph[(elect of God, and Saints by calling)] whereby he giveth us to understand what he meaneth by the #emph[Church,] namely #emph[the company of Saints,] to which, though he were a Preacher of the Gospel, an extraordinary Preacher, an Apostle, he associateth and joineth himself: noting thereby that he was made partaker of the same grace, and saved by the same means that others were. Well might he in this privilege not think much to rank himself, because #emph[it is the highest degree of honour that can be] #footnote[Obser.] #emph[to be a member of the body of Christ:] much more then to be a Preacher, a Prophet, an Apostle, or of any other eminent calling.
 
 The metaphor here used #emph[(members of his body)] setteth #footnote[Metaphors which set forth our union with Christ.] forth the near union which is betwixt Christ and the Saints. Many other metaphors are used in Scripture for the same purpose, as #footnote[1 #emph[Pet.] 2. 4, 5, 6.] #emph[foundation] and #emph[edifice,] #footnote[#emph[Joh.] 15. 5.] #emph[vine] and #emph[branches,] #footnote[2 #emph[Cor.] 11. 2.] #emph[husband] and #emph[wife,] with the like, which are all of them very fit, but none more proper and pertinent to the point then this of a #emph[body,] the #emph[Head] and #emph[members] thereof. What nearer union can there be then betwixt the head and members of the same body?
 
 If the Apostle had here stayed, we might have thought that he had here meant no other thing then he meant #footnote[#emph[Eph.] 1. 23. and 4. 16. and 5. 23.] before, where he styled #emph[Christ an head,] and the #emph[Church a body:] but in that he addeth #emph[(Of his flesh and of his bones)] he declareth yet a further mystery.
 
-In the general there is a difference betwixt this phrase (#footnote[τοῦ σώματος.]OF #emph[his body)] and these (OF #footnote[ἐκ τῆς σαρκός. ἐκ τῶν ὀστέων.] #emph[his flesh;] and OF #emph[his bones)] the former is a note of the #footnote[Corporis.] genitive case, the two latter are a #footnote[Ex.] preposition: for distinction sake the two latter might have been translated, #emph[out of his flesh, out of his bones,] or #emph[from his flesh, from his bones] (for so a like phrase is translated #footnote[#emph[Eph.] 4. 16. ἐξ οὗ.] before, #emph[From whom)] but seeing these particles #emph[out of,] or #emph[from] are ambiguous, the former translation may stand as the best, so as a difference be made in the sense though there be none in the words.
+In the general there is a difference betwixt this phrase#footnote[τοῦ σώματος.] (OF #emph[his body)] and these (OF #footnote[ἐκ τῆς σαρκός. ἐκ τῶν ὀστέων.] #emph[his flesh;] and OF #emph[his bones)] the former is a note of the #footnote[Corporis.] genitive case, the two latter are a #footnote[Ex.] preposition: for distinction sake the two latter might have been translated, #emph[out of his flesh, out of his bones,] or #emph[from his flesh, from his bones] (for so a like phrase is translated #footnote[#emph[Eph.] 4. 16. ἐξ οὗ.] before, #emph[From whom)] but seeing these particles #emph[out of,] or #emph[from] are ambiguous, the former translation may stand as the best, so as a difference be made in the sense though there be none in the words.
 
 The former #emph[(members of his body)] declareth the union it self.
 
@@ -282,19 +278,7 @@ The particular matter of our regeneration (the #emph[flesh] and #emph[bones] of 
 
 1\. In our creation Christ was only a #emph[worker:] but he is the very #emph[matter] of our Regeneration, we are #emph[of his flesh.]
 
-2\. The relation that then was betwixt Christ and man,
-
-was
-
-+ #emph[Creator]
-+ #emph[Creature]
-
-but here
-
-+ #emph[Head]
-+ #emph[Body]
-
-#emph[We are members of his body.]
+2\. The relation that then was betwixt Christ and man, was #emph[Creator] and #emph[creature]: but here #emph[head] and #emph[body. We are members of his body.]
 
 The bond is now much nearer.
 

@@ -8,8 +8,8 @@ Here we are first to speak of the #emph[persons] who are to be accounted true an
 
 So as this Treatise consisteth of two parts.
 
-- 1\. The first declareth, who are man and wife.
-- 2\. The second noteth out those common mutual duties which they owe one to another. First of the first.
++ The first declareth, who are man and wife.
++ The second noteth out those common mutual duties which they owe one to another. First of the first.
 
 Husband and wife are they who are rightly joined together #footnote[Who are husband and wife.] by the bond of marriage. #footnote[See #emph[Treat.] 1. §. 82. #emph[&] 84.] Whereby #emph[two are made one flesh.]
 
@@ -17,16 +17,16 @@ For the better clearing of this point, we will consider both the #emph[parties] 
 
 About the #emph[parties] we are to search,
 
-- 1\. Who may seek a mate for marriage.
-- 2\. What kind of mate is to be taken.
++ Who may seek a mate for marriage.
++ What kind of mate is to be taken.
 
 1\. All they who are able without inevitable danger to their #footnote[Who may marry.] yoke fellow to perform the essential duties of marriage, may be married.
 
 Out of this proposition arise three questions to be discussed.
 
-- 1\. Who are to be accounted #emph[able?]
-- 2\. What danger is inevitable?
-- 3\. Whether marriage be free for all but such?
++ Who are to be accounted #emph[able?]
++ What danger is inevitable?
++ Whether marriage be free for all but such?
 
 === §. 2. #emph[Of ripeness of years in them that are to be married.]
 
@@ -200,7 +200,7 @@ Great are the dangers and damages that ordinarily fall out thereupon. For first 
 
 3\. Many other mischiefs are like to follow upon this kind of unequal marriage, besides danger of apostasy (which yet is the greatest) as
 
-1\. #footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] #emph[Many jars and contentions betwixt man and wife.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
+1\. #emph[Many jars and contentions betwixt man and wife.]#footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
 
 2\. #emph[Disturbance of the family:] one part holding with the man, another with the woman.
 

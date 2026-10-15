@@ -2,20 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 648 |
-| emendation | 281 |
+| spelling | 647 |
+| emendation | 313 |
 | grammar | 147 |
-| case | 110 |
-| punctuation | 82 |
+| case | 146 |
+| list | 132 |
+| punctuation | 90 |
+| note moved | 54 |
+| italic | 53 |
 | gap | 49 |
-| italic | 40 |
-| spacing | 34 |
-| list | 34 |
+| spacing | 47 |
 | expansion | 25 |
-| split | 6 |
-| note | 5 |
-| note moved | 4 |
-| merge | 3 |
+| merge | 20 |
+| note | 7 |
+| split | 7 |
 | epigraph | 2 |
 | skipped | 1 |
 
@@ -26,6 +26,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 2
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
 
 ## skipped
@@ -173,6 +174,10 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ] in humanely → inhumanely
 - [vol-1/08-christs-union-with-his-beloved-body.typ] Ahash - verosh → Ahasuerus
 - [vol-1/08-christs-union-with-his-beloved-body.typ] conueigh → convey
+- [vol-1/08-christs-union-with-his-beloved-body.typ] Creature → and creature
+- [vol-1/08-christs-union-with-his-beloved-body.typ] but → : but
+- [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body
+- [vol-1/08-christs-union-with-his-beloved-body.typ] We → . We
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
@@ -208,10 +213,14 @@
 - [vol-2/02-getting-married.typ note] sacer dotali → sacerdotali
 - [vol-2/02-getting-married.typ note] exse → ex se
 - [vol-2/02-getting-married.typ note] procell as → procellas
+- [vol-2/02-getting-married.typ] In → , and in
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] sirem → si rem
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] ambor um → amborum
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 6 → 16
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] tral ere → trahere
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] The → , the
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] The → , the
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] The → , and the
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] such → such a
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] have → have no
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] adult eress → adulteress
@@ -229,6 +238,7 @@
 - [vol-2/05-caring-for-each-others-souls.typ] for bear → forbear
 - [vol-2/05-caring-for-each-others-souls.typ] for → forsaken
 - [vol-2/05-caring-for-each-others-souls.typ] saken → (
+- [vol-2/05-caring-for-each-others-souls.typ] Gen → with Gen
 - [vol-2/05-caring-for-each-others-souls.typ] Acomplement → A
 - [vol-2/05-caring-for-each-others-souls.typ] all → complemental
 - [vol-2/06-guarding-each-others-health-reputation-and-property.typ note] l → 
@@ -244,6 +254,7 @@
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] hi , → hic
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] Sicapilli → Si capilli
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] 2 → 1
+- [vol-2/08-a-wifes-respect-for-her-husband.typ] The → and the
 - [vol-2/08-a-wifes-respect-for-her-husband.typ] herself → her self
 - [vol-2/08-a-wifes-respect-for-her-husband.typ] utteredmost → uttered most
 - [vol-2/08-a-wifes-respect-for-her-husband.typ] is → as
@@ -282,10 +293,16 @@
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Hither to → Hitherto
 - [vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ] Cheney → China
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] 49 → 4
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] wives → 2. In suffering wives
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Sicaput → Si caput
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , and the
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] cuill → evil
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] ought → ought (
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] rule → soul
@@ -293,6 +310,7 @@
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] est → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
 - [vol-3/01-children-showing-respect-for-parents.typ note] Iam → Jam.
+- [vol-3/01-children-showing-respect-for-parents.typ] Well → and well
 - [vol-3/02-children-getting-parents-permission.typ note] 5 1 → 51
 - [vol-3/02-children-getting-parents-permission.typ note] 17 → 16
 - [vol-3/02-children-getting-parents-permission.typ note] vx eres → vxores
@@ -307,6 +325,7 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] Parent is imprecation → Parentis imprecatione
 - [vol-3/04-children-giving-back-to-parents.typ note] propera uerit → properauerit
 - [vol-3/04-children-giving-back-to-parents.typ note] subiect siue → subiectisque
+- [vol-3/04-children-giving-back-to-parents.typ] Credit → and credit
 - [vol-3/04-children-giving-back-to-parents.typ] conueigh → convey
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] for borne → forborne
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] here by → hereby
@@ -317,8 +336,16 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 . 12 → 112
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vindie abitur → vindicabitur
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 16 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] baptizandis → Consuetudo matris Ecclesiae in baptizandis
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] pote rant → poterant
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] qualit as → qualitas
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Civility → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Piety → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Reasonable Men → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Christians → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] First. → first, civility teacheth reasonable men to do the
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] Second. → second, piety teacheth Christians to do the
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] The → , and the
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] bestfood → best food
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] 1 → I
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] man → Mary
@@ -359,6 +386,8 @@
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] Sam → 1 Sam
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] 10 → 30
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] sinulla → si nulla
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] Real → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ] Words . → words, and real by
 - [vol-3/08-parents-admonishing-and-correcting-children.typ] where in → wherein
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] aduncisunt → adunci sunt
 - [vol-3/09-parents-directing-children-into-adulthood.typ] intents → in tents
@@ -375,9 +404,13 @@
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] ôye → ô ye
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] he aven → heaven
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ] sure → suit
+- [vol-4/02-a-servants-reverence-for-his-master.typ] The → , the
+- [vol-4/02-a-servants-reverence-for-his-master.typ] The → , and the
 - [vol-4/02-a-servants-reverence-for-his-master.typ] ingenerall → in general
 - [vol-4/02-a-servants-reverence-for-his-master.typ] of fending → offending
+- [vol-4/02-a-servants-reverence-for-his-master.typ] Well → and well
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] c → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] 34 → Acts 16. 34
 - [vol-4/03-a-servants-obedience-to-his-master.typ] One simus → Onesimus
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 11 → II
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 2 → 2 King
@@ -473,6 +506,7 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → ,
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → . 10.
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] : → .
+- [vol-1/08-christs-union-with-his-beloved-body.typ] ] → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ] § → §.
 - [vol-1/10-the-mystery-and-practice-of-marriage.typ] . → .)
 - [vol-1/11-the-childs-duties-to-his-parents.typ] * → 
@@ -482,6 +516,7 @@
 - [vol-2/01-seeking-marriage.typ] , → .
 - [vol-2/02-getting-married.typ] , → .
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] § → §.
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → , and
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] ) → ).
 - [vol-2/04-living-together-in-love.typ note] § → §.
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → ,
@@ -510,6 +545,10 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] - → 
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] , → .
+- [vol-3/01-children-showing-respect-for-parents.typ] . → and
+- [vol-3/01-children-showing-respect-for-parents.typ] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ] . → ,
+- [vol-3/01-children-showing-respect-for-parents.typ] . → , and
 - [vol-3/02-children-getting-parents-permission.typ] , → .
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] - → 
@@ -536,6 +575,8 @@
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] , → .
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] ▪ → .
 - [vol-4/02-a-servants-reverence-for-his-master.typ note] . → 
+- [vol-4/02-a-servants-reverence-for-his-master.typ] — → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ] . → ,
 - [vol-4/04-a-servants-faithful-and-willing-service.typ] - → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ] ) → ).
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
@@ -545,42 +586,63 @@
 ## case
 
 - holy → Holy (×27)
+- The → the (×12)
 - children → Children (×8)
-- The → the (×5)
+- That → that (×4)
 - love → Love (×4)
 - And → and (×3)
+- To → to (×3)
 - note → Note (×3)
 - servants → Servants (×3)
+- Body → body (×2)
 - IN → In (×2)
 - Or → or (×2)
+- Refraining → refraining (×2)
+- Speech → speech (×2)
 - Take → take (×2)
-- To → to (×2)
+- Those → those (×2)
 - father → Father (×2)
 - mothers → Mothers (×2)
 - son → Son (×2)
 - subjection → Subjection (×2)
 - the → The (×2)
 - A → a
+- Another → another
 - Because → because
 - Blameless → blameless
+- Blows → blows
+- Breaking → breaking
 - But → but
+- Children → children
 - Confirmation → confirmation
+- Creatures → creatures
 - Declare → declare
 - Extent → extent
 - First → first
+- Forbearing → forbearing
+- Good → good
+- Goods → goods
+- Head → head
 - His → his
+- In → in
 - Long → long
 - May → may
 - Misinterpret → misinterpret
-- OF → Of
+- OF → of
 - Of → of
+- One → one
+- Parents → parents
 - Preheminent → preheminent
 - See → see
 - Sin → sin
+- Soul → soul
 - THE → The
 - TO → To
 - Their → their
+- Third → third
 - Told → told
+- Unreasonable → unreasonable
+- Verbal → verbal
 - Wrinkle → wrinkle
 - Years → years
 - child → Child
@@ -710,7 +772,6 @@
 - Chrys → Chrys.
 - Com → Com.
 - Coning → Coniug
-- Consuetude → Consuetudo
 - Craelius → Cornelius
 - Dan → Dan.
 - Dent → Deut

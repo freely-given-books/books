@@ -8,8 +8,8 @@ By a mans look his anger and wrath against another is manifested. #footnote[אף
 
 But words whether of #emph[rebuke,] or #emph[threatening,] do much more declare the same. This phrase which #emph[Solomon] useth #emph[Pro.] 29. 19. #emph[(a servant will not be corrected with words)] showeth that there is a correction by words: and though it be negatively propounded, yet doth it not imply that correction by words is not to be used to a servant, but rather, if thereby he be not moved, that blows must be added thereto: which is a correction by deeds, whereof Christ maketh mention in the parable of those servants that according to the greatness of their fault are #footnote[#emph[Luke] 12. 47.] to be #emph[beaten with many stripes.] It is therefore in a masters power to correct his servant with stripes, or blows. Which being so, I will show,
 
-- 1\. How far his power herein extendeth.
-- 2\. How it is to be ordered.
++ How far his power herein extendeth.
++ How it is to be ordered.
 
 === §. 14. #emph[Of the restraint of masters power: that it reacheth not to their servants life.]
 
@@ -25,7 +25,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 4\. The power of life is proper to the public magistrate, who doth all things in open public places, that so there may be many witnesses of his just proceeding. If masters had this power, many might privily be put to death, and no man know for what cause, as it is in popish inquisitions.
 
-5\. #footnote[#emph[Si Dominus seruum ceciderit, vel lethal vulnus inflixerit, revs homicidij sit. Justin. Cod. l.] 9. #emph[tit.] 18.] The approved laws of men make it wilful murder for a master to slay his servant wittingly, though the servants fault be never so heinous. Neither the authority of the master, nor desert of the servant, shall exempt the master that slayeth his servant from the guilt and punishment of felony.
+5\. The#footnote[#emph[Si Dominus seruum ceciderit, vel lethal vulnus inflixerit, revs homicidij sit. Justin. Cod. l.] 9. #emph[tit.] 18.] approved laws of men make it wilful murder for a master to slay his servant wittingly, though the servants fault be never so heinous. Neither the authority of the master, nor desert of the servant, shall exempt the master that slayeth his servant from the guilt and punishment of felony.
 
 #strong[#emph[Object.] In ancient times masters had this power.]
 
@@ -39,7 +39,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 Contrary to their just and due power do they, who in their rage stab their servants, or otherwise make them away: yea they also who so unmercifully and unmeasurably beat them with rod, cudgel, or any other thing, as death follow thereupon: for many there be who having once begun to strike, know not when to cease, but lay on as if they were striking stocks and blocks, and not their own flesh. God foresaw that masters were prone to such cruelty, and therefore #footnote[#emph[Deut.] 25. 3.] set a stint number of stripes, which none that beat another might exceed.
 
-Among these may be reckoned such desperate masters as in their mood will strike their servant with any thing that cometh next to hand, be it heavy, cragged, hard, or sharp, they care not (#footnote[#emph[Pro.] 26. 18.] #emph[As a mad man who casteth fire-brands, arrows, and death.)] These things may endanger a servants life, if not, they may break his head, or otherwise wound, bruise, and lame him.
+Among these may be reckoned such desperate masters as in their mood will strike their servant with any thing that cometh next to hand, be it heavy, cragged, hard, or sharp, they care not#footnote[#emph[Pro.] 26. 18.] (#emph[As a mad man who casteth fire-brands, arrows, and death.)] These things may endanger a servants life, if not, they may break his head, or otherwise wound, bruise, and lame him.
 
 It is beyond a masters power by any correction to impair life, health, or strength of his servant, or any way in his body to disable him from doing that which otherwise he might have been able to do.
 

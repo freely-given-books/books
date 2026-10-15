@@ -96,9 +96,7 @@ A further degree of obedience in bearing reproof is, that #footnote[2\. She must
 
 A reproof may be justly given either for a good duty omitted; or for an evil thing committed: and accordingly must the redress or amendment be. A duty formerly omitted must after the reproof be more carefully observed and performed, if it be a continual duty, and may be again performed: otherwise the redress is a testification of true sorrow for that fault. When an evil is committed, if any means can be used to make up the hurt, and redress the mischief that followed thereupon, it must be done: if not, sorrow as before, must be testified, and care taken that the same, or the like be not committed again.
 
-As a good conscience requireth as much of all Christians by whomsoever they be reproved, so the respect which a wife oweth to an husband doth after an especial manner require it. Otherwise her fault is doubled, 1. By continuance in her sin;
-
-2\. By disobedience to her husband.
+As a good conscience requireth as much of all Christians by whomsoever they be reproved, so the respect which a wife oweth to an husband doth after an especial manner require it. Otherwise her fault is doubled, 1. By continuance in her sin; 2\. By disobedience to her husband.
 
 Contrary is their spirit who for reproof wax the worse: #footnote[Contrary, to be worse for reproving. #emph[Prov.] 9. 8.] being like those #emph[scorners] (of whom #emph[Solomon] speaketh) that #emph[hate those that reprove them.] It is the speech of some wives, that if their husbands would let them alone they would do the better: but upon rebuke they will never amend: the more their husbands find fault, the more will they go on, in doing what they do. What other judgment can be given of such, then that which the wise man giveth, #emph[there is more hope] #footnote[#emph[Prov.] 26. 12.] #emph[of a fool then of them.]
 

@@ -123,17 +123,17 @@ For the better performing of this duty, three general points, tending both to th
 
 The three generals are these.
 
-- 1\. Good direction.
-- 2\. Faithful prayer.
-- 3\. A wise choice of some friends to be as parents to them.
++ Good direction.
++ Faithful prayer.
++ A wise choice of some friends to be as parents to them.
 
-1\. #footnote[Parents on their deathbed to leave good lessons to their children.] For #emph[direction.] When parents observe their time to draw near, they ought to commend some wise and wholesome precepts unto their children, the better to direct them in their Christian course. So did #footnote[#emph[Gen.] 28. 2, 4.] #emph[Isaac,] and #footnote[#emph[&] 49. 1. #emph[etc.]] #emph[Jacob.]
+1\. For#footnote[Parents on their deathbed to leave good lessons to their children.] #emph[direction.] When parents observe their time to draw near, they ought to commend some wise and wholesome precepts unto their children, the better to direct them in their Christian course. So did #footnote[#emph[Gen.] 28. 2, 4.] #emph[Isaac,] and #footnote[#emph[&] 49. 1. #emph[etc.]] #emph[Jacob.]
 
 #emph[Ob.] These Patriarchs had an extraordinary spirit of prophesying, & by virtue thereof foretold their children things to come.
 
 #emph[Answ.] #footnote[See Treat. 5. §. 9.] They sustained a double person: one of a #emph[prophet,] another of a #emph[father:] as prophets, they had an extraordinary spirit; as parents, they performed ordinary duty: by their extraordinary spirit, they foretold things to come: the ordinary duty which they performed, was to direct their children how to carry themselves in those times to come. For their prophesies were not only predictions, but also instructions, to direct and teach them what to do. What they did by an extraordinary spirit in extraordinary things, we must do in ordinary duties by the ordinary spirit of understanding and wisdom which the Lord giveth us. But the direction which #footnote[#emph[Gen.] 28. 2. #emph[etc.]] #emph[Isaac] gave to #emph[Jacob,] when he sent him to #emph[Laban,] was no extraordinary prophesy: nor that which #footnote[1 #emph[Chro.] 28. 9.] #emph[David,] when he was old, gave to #emph[Solomon:] and again, #footnote[1 #emph[King.] 2. 2, 3, #emph[etc.]] when he lay on his death-bed. Now these things are thus written for our imitation. And great reason there is to imitate those holy men in these things. For
 
-1\. The words of a dying parent are commonly most regarded: his last words do make a deep impression (#footnote[#emph[Gen.] 50. 16.] this do the brethren of #emph[Joseph] press upon him.) If ever therefore there be a time seasonable for a parent to give good instructions to his children, then is the time when parents are clean departing from their children.
+1\. The words of a dying parent are commonly most regarded: his last words do make a deep impression#footnote[#emph[Gen.] 50. 16.] (this do the brethren of #emph[Joseph] press upon him.) If ever therefore there be a time seasonable for a parent to give good instructions to his children, then is the time when parents are clean departing from their children.
 
 2\. Thus shall a parent manifest his true affection, and earnest desire of his childrens good: for now they cannot think that he seeketh his own ease, and profit, more then their good: as at other times some will be ready to say of their parents instructions and admonitions, #emph[Our parents know what is good for themselves.]
 
@@ -155,8 +155,8 @@ Contrary to a parents providence for the good of his children after his departur
 
 The two particular things to be observed by parents for manifestation of their provident care over their children for the time to come, even after their departure, especially in regard of their temporal estate, are these,
 
-- 1\. That they make a will.
-- 2\. That they leave their estates to their children.
++ That they make a will.
++ That they leave their estates to their children.
 
 1\. It hath been an ancient commendable practise both among #footnote[A Will to be made.] Gods people, and others also, that have been guided with common civility, when they who have any estate, wax old, or sick, and have any occasion of expecting death offered unto them, to make their last Will and testament. This is set forth in the old Testament under this phrase #emph[(Put thy house in order.)] A duty it is expressly #footnote[2 #emph[King.] 20. 1.] commanded by God: and that not without good reason. For
 
@@ -170,10 +170,10 @@ In performing this duty, a man must both observe a fit time, #footnote[Direction
 
 Contrary is the daily practise of too many parents who are not willing to make any will at all: or else on vain hope that they may live longer, and when they are sick, upon conceit that they may recover, or at least longer continue to enjoy the use of their understanding and memory, put off the making of their Will till it be too late: and so die without Will, or make such a Will as ministreth more matter of suit, then if they had no Will at all; either because doubt is made whether he that made it had his understanding and memory or no: or because his Will is so abrupt and ambiguous, as his meaning cannot be known. The mischiefs that follow these neglects, #footnote[Inconvenience of dying without a Will.] are many. As
 
-- 1\. Discredit to the party deceased.
-- 2\. Contentions among his surviving children.
-- 3\. Wasting a great part, if not his whole estate, in suits of law.
-- 4\. Defeating many creditors of their due debt.
++ Discredit to the party deceased.
++ Contentions among his surviving children.
++ Wasting a great part, if not his whole estate, in suits of law.
++ Defeating many creditors of their due debt.
 
 The reason which maketh many to put off the making of their Will is a foolish conceit, that if a mans Will be once made, then he must needs die out of hand. But what ground have men for any such conceit? If sickness grow upon a man, so long as his Will is unmade his mind is unsettled, his mind being unsettled, the physic that is ministered to him cannot so kindly work; so as his death may be the more hastened for not making a Will. Besides, if his speech fail before his understanding, the thought that then he shall die without a Will may so perplex him, as his departure will be very unquiet and troublesome.
 

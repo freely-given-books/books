@@ -10,8 +10,8 @@ Contrary is disobedience and rebellion: the greatest impeachment #footnote[Disob
 
 That children may the better know their duty in this respect, #footnote[The parts of a childs obedience.] I will distinctly set forth, both the #emph[parts,] and also the #emph[extent] of a childs obedience:
 
-- 1\. Wherein it consisteth.
-- 2\. How far it extendeth.
++ Wherein it consisteth.
++ How far it extendeth.
 
 The general #emph[parts] wherein it consisteth are two:
 
@@ -61,11 +61,11 @@ Contrary is the opinion of Papists, who say, that children may #footnote[36\. #e
 
 The arguments which they allege for confirmation of their erroneous opinion, are taken from extraordinary examples, or from mystical resemblances, as
 
-- 1\. #emph[Abrahams] leaving his fathers house. #footnote[#emph[Gen.] 12. 1. #emph[Deut.] 33. 9.]
-- 2\. #emph[Levis] speech of his father and mother, who said, #emph[I have not seen him.]
-- 3\. The advice given to the royal Queen, #emph[Forget thy fathers] #footnote[#emph[Psal.] 45. 10.] #emph[house.]
-- 4\. The trial of our love of Christ by loving him more #footnote[#emph[Mat.] 10. 37.] then father or mother.
-- 5\. Christs forbidding one that followed him to go and #footnote[#emph[Luk.] 9. 60.] bury his father.
++ #emph[Abrahams] leaving his fathers house. #footnote[#emph[Gen.] 12. 1. #emph[Deut.] 33. 9.]
++ #emph[Levis] speech of his father and mother, who said, #emph[I have not seen him.]
++ The advice given to the royal Queen, #emph[Forget thy fathers] #footnote[#emph[Psal.] 45. 10.] #emph[house.]
++ The trial of our love of Christ by loving him more #footnote[#emph[Mat.] 10. 37.] then father or mother.
++ Christs forbidding one that followed him to go and #footnote[#emph[Luk.] 9. 60.] bury his father.
 
 #emph[Answ.] 1. For #emph[Abrahams] example, 1. It cannot be proved that he left his fathers house without the consent of his father. 2. He was then married, and so of another house. 3. He had #footnote[#emph[Gen.] 12. 1.] an express particular charge of God to leave his fathers house, even as he had to sacrifice his son. Except the like charge can be showed, his example maketh nothing to the purpose.
 
@@ -101,7 +101,7 @@ Though #emph[Samson] saw a daughter of the Philistines which #footnote[#emph[Non
 
 4\. These words of #emph[Thamar] (2 #emph[Sam.] 13. 13.) #emph[Speak unto the King] (who was her father,) #emph[for he will not with-hold thee from me,] show that children were not wont to be married without consent of parents: Which is further confirmed by this oath of the Israelites, #emph[There shall not any of us give his daughter] #footnote[Legitimum non est coniugium nisi vxor petatur a parentibus. Euarist. in epist. ad eccles. Affric.] #emph[unto Benjamin to wife, Judg.] 21. 1.
 
-5\. #footnote[#emph[Filij sine consensu parentum ritè & iure nubere non possunt. Tertul. ad vxor. l.] 2.] The ancient fathers of the Church have in their ages taught children this duty, and pronounced marriages of children without consent of parents, to be unlawful.
+5\. The#footnote[#emph[Filij sine consensu parentum ritè & iure nubere non possunt. Tertul. ad vxor. l.] 2.] ancient fathers of the Church have in their ages taught children this duty, and pronounced marriages of children without consent of parents, to be unlawful.
 
 6\. The very #footnote[#emph[Tempore creuit amor: tedae quoque iure coissent: Sed vetuere patres. Ouid. Metam.] 4. #emph[Me parenti potius quàm amori obsequi oportet. Teren. in Hecyra.] Νυμφευμάτων μὲν τῶν ἐμῶν πατὴρ ἐμοῦ μέριμναν ἕξει, κοὐκ ἐμὸν τάδε κρίνειν. #emph[Eurip. in Androm.]] heathen have observed the equity hereof. Though #emph[Shechem] loved #emph[Dinah,] and had deflowered her, yet would he not marry her without the consent of his and her father, #emph[Gen.] 34. 3. etc. #emph[Ismael] had learned as much either by the instruction he had received out of #emph[Abrahams] house, or else by the light of nature; for he stood to the choice which his mother made for him, #emph[Gen.] 21. 21.
 
@@ -109,9 +109,9 @@ Though #emph[Samson] saw a daughter of the Philistines which #footnote[#emph[Non
 
 8\. The #footnote[#emph[Matris voluntatem in tradenda filia omnibus natura praeponit. August. epist.] 233.] law of nature and nations, the civil and canon law, the common and statute law of our Land, all manner of law is agreeable to Gods law in this point.
 
-9\. #footnote[#emph[Cum sponsus & sponsa benedicendi sunt a sacerdote, offerantur ecclesiae a parentibus. Grat.] 30. #emph[quaest.] 5. #emph[Cav.]] It hath been a custom in all Christian Churches throughout all ages, for the parent, or some in the parents #footnote[#emph[Quod ipsi Philosophi mirati sunt, seruate virgines. Ambr. de patr. l.] 1. #emph[c.] 9.] room, to give the bride to the bridegroom at the time of the marriage: whereby the parents consent is openly manifested.
+9\. It#footnote[#emph[Cum sponsus & sponsa benedicendi sunt a sacerdote, offerantur ecclesiae a parentibus. Grat.] 30. #emph[quaest.] 5. #emph[Cav.]] hath been a custom in all Christian Churches throughout all ages, for the parent, or some in the parents #footnote[#emph[Quod ipsi Philosophi mirati sunt, seruate virgines. Ambr. de patr. l.] 1. #emph[c.] 9.] room, to give the bride to the bridegroom at the time of the marriage: whereby the parents consent is openly manifested.
 
-10\. #footnote[#emph[Erasm. in colloq. de Matrim. Luth. in serm. de Matrim. Bucer. in Mat.] 19. #emph[Calu. Instit. l.] 4. #emph[c.] 19. §. 37. #emph[Bez. de Diuort. Zanch. de Oper. Dei par.] 3. #emph[l.] 4. #emph[c.] 1. #emph[Chemn. in Exam. part.] 2. #emph[Brent. in Catec. Melanc. loc. de coniug. Perkins in Oecon. c.] 6. alijque.] Many Divines of good note and name have judged such marriages as have been made simply without, or directly against parents consent (especially if parents have just cause of exception against those marriages) to be of no force till the parent be brought to ratify them: and in many Churches upon due examination of the matter, they use to account them as no marriages. Experience hath manifested the boldness of many children in setting light by their parents consent in those places where marriages once consummated are ratified, #footnote[#emph[Hoc fieri debere & ciuilis & naturalis ratio suadet. Iustin. Instit. l.] 1. #emph[tit.] 10. #emph[Digest. l.] 23. #emph[tit.] 2] and made indissoluble, though they have been made simply without or directly against parents consent. Many children think, though it be unlawfully done, yet being done it shall stand. Whereupon if they doubt of their parents consent, they will cast how to get their marriage consummate, so as their parents may not know of it to hinder it before it is done: and after it is done, impudently resolve to bear out as well as they can, the storm of their parents displeasure. To prevent such contempt of the power of parents, and to establish that authority which God hath given them over their children, marriages without or against parents consent as aforesaid, are in many Churches made void.
+10\. Many#footnote[#emph[Erasm. in colloq. de Matrim. Luth. in serm. de Matrim. Bucer. in Mat.] 19. #emph[Calu. Instit. l.] 4. #emph[c.] 19. §. 37. #emph[Bez. de Diuort. Zanch. de Oper. Dei par.] 3. #emph[l.] 4. #emph[c.] 1. #emph[Chemn. in Exam. part.] 2. #emph[Brent. in Catec. Melanc. loc. de coniug. Perkins in Oecon. c.] 6. alijque.] Divines of good note and name have judged such marriages as have been made simply without, or directly against parents consent (especially if parents have just cause of exception against those marriages) to be of no force till the parent be brought to ratify them: and in many Churches upon due examination of the matter, they use to account them as no marriages. Experience hath manifested the boldness of many children in setting light by their parents consent in those places where marriages once consummated are ratified, #footnote[#emph[Hoc fieri debere & ciuilis & naturalis ratio suadet. Iustin. Instit. l.] 1. #emph[tit.] 10. #emph[Digest. l.] 23. #emph[tit.] 2] and made indissoluble, though they have been made simply without or directly against parents consent. Many children think, though it be unlawfully done, yet being done it shall stand. Whereupon if they doubt of their parents consent, they will cast how to get their marriage consummate, so as their parents may not know of it to hinder it before it is done: and after it is done, impudently resolve to bear out as well as they can, the storm of their parents displeasure. To prevent such contempt of the power of parents, and to establish that authority which God hath given them over their children, marriages without or against parents consent as aforesaid, are in many Churches made void.
 
 === §. 17. #emph[Of the equity of the point, and reasons why children should have their parents consent unto their marriage.]
 

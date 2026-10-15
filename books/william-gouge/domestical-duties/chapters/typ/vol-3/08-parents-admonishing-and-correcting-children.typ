@@ -4,8 +4,8 @@
 
 The means of helping forward the good work of nurture #footnote[III. The means of nurture.] are especially two.
 
-- 1\. Frequent admonition.
-- 2\. Due correction.
++ Frequent admonition.
++ Due correction.
 
 Both of them are implied in this text: one in the word translated #emph[admonition,] which (according to the notation of the #footnote[νουθεσία. See Treat. 1. §. 120.] Greek word) is a putting of a thing into the mind, an urging and pressing of it: the other in the word translated #emph[nurture.] #footnote[παιδεία. See Treat. 1. §. 119.]
 
@@ -35,15 +35,7 @@ Thus that teaching vanisheth away: and so it falleth out, as we say in the prove
 
 The other means of helping nurture is correction.
 
-Which is of two sorts;
-
-+ Verbal
-+ Real
-
-by
-
-+ Words.
-+ Blows.
+Which is of two sorts; verbal by words, and real by blows.
 
 The former is #emph[reprehension:] and it must always go before the latter, which is most usually and properly called #emph[Correction.]
 
@@ -71,7 +63,7 @@ It is further commended by Gods own example, which is not only set forth in some
 
 The grounds of the equity of this duty, respect partly the #footnote[Reasons to move parents to correct.] children corrected, and partly the parents that correct. In regard of children, it freeth them from much evil, and worketh in them much good.
 
-Correction is as physic to purge out much corruption #footnote[1\. Benefits of correction to the parties corrected.] which lurketh in children, and as a salve to heal many wounds and sores made by their folly. In which respect #emph[Solomon] saith, that #footnote[#emph[Pro.] 22. 15.] #emph[Foolishness is bound in the heart of a child, but the rod of correction shall drive it far from him:] and again, #footnote[#emph[&] 20. 30.] #emph[The blueness of a wound is a purging medicine against evil: so do stripes the inward parts of the belly.] In regard of the inward operation of this physic, correction is further said to preserve a child from death, (#footnote[#emph[Pro.] 23. 13.] #emph[if thou beatest him he shall not die)] and that not only from temporal death (as many children are thus preserved from the Magistrates sword) but also from eternal death (#footnote[#emph[Vers.] 14.] #emph[thou shalt deliver his soul from hell.)] note this ye cockering parents, whose over-much lenity is very great cruelty. For may we not justly count him a cruel parent, that should suffer diseases, boils, sores, and wounds to remain, increase, and fester in his child, and give him no physic, nor apply any plaisters, or medicines to him? Nay rather who seeth his son running into a flaming fire, or deep water, and would not hold him back? Even so cruel, and more cruel are they, who suffer their children to run on in evil, rather then correct them.
+Correction is as physic to purge out much corruption #footnote[1\. Benefits of correction to the parties corrected.] which lurketh in children, and as a salve to heal many wounds and sores made by their folly. In which respect #emph[Solomon] saith, that #footnote[#emph[Pro.] 22. 15.] #emph[Foolishness is bound in the heart of a child, but the rod of correction shall drive it far from him:] and again, #footnote[#emph[&] 20. 30.] #emph[The blueness of a wound is a purging medicine against evil: so do stripes the inward parts of the belly.] In regard of the inward operation of this physic, correction is further said to preserve a child from death,#footnote[#emph[Pro.] 23. 13.] (#emph[if thou beatest him he shall not die)] and that not only from temporal death (as many children are thus preserved from the Magistrates sword) but also from eternal death#footnote[#emph[Vers.] 14.] (#emph[thou shalt deliver his soul from hell.)] note this ye cockering parents, whose over-much lenity is very great cruelty. For may we not justly count him a cruel parent, that should suffer diseases, boils, sores, and wounds to remain, increase, and fester in his child, and give him no physic, nor apply any plaisters, or medicines to him? Nay rather who seeth his son running into a flaming fire, or deep water, and would not hold him back? Even so cruel, and more cruel are they, who suffer their children to run on in evil, rather then correct them.
 
 #strong[#emph[Object.] Who can endure to make his own child smart, and to put him to pain?]
 
@@ -131,8 +123,8 @@ The particular rules are these.
 
 Contrary to this duty of correcting are two extremes.
 
-- 1\. Too much lenity.
-- 2\. Too much severity.
++ Too much lenity.
++ Too much severity.
 
 Many so cocker their children, as they will suffer them to #footnote[#emph[Qui non corripiunt filios suos, & eorum animas igni inextinguibili in interitum tradunt, & semetipsos in furorem iudicij demergunt. Orig. in Iob. lib.] 1. 1 #emph[Sam.] 2. 29.] run into any misdemeanour, rather then correct them. They cannot endure to hear their children cry: and therefore their children must be pleased in all their humours and evil desires. These parents bring shame to themselves, and mischief upon their children: for God is oft forced to correct such. Heavy are Gods corrections: and oft light on parent and child both: as appeareth by the judgment on #emph[Eli] and his sons: for such parents make themselves accessary to their childrens sins: yea also to the judgments laid upon their children. God saith of such parents, that #emph[they honour their children above God.] It is therefore a fond indulgency which maketh parents regard neither Gods honour, nor their own or childrens safety.
 

@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[EPHES. 5. 25.]
 
-    #text(style: "italic")[25. Husbands love your wives, even as Christ also loved the Church, and gave himself for it.]
+    #text(style: "italic")[25\. Husbands love your wives, even as Christ also loved the Church, and gave himself for it.]
   ]
 ]
 
@@ -21,7 +21,7 @@ This I have the rather noted, because many who hold that a wife must have but on
 
 === §. 27. #emph[Of the example of Christs love.]
 
-The note of comparison (#footnote[καθώς.]#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
+The note of comparison#footnote[καθώς.] (#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
 
 An #emph[equity,] because there is as great reason that husbands by virtue of their place should love their wives, as that Christ by virtue of his place should love the Church.
 

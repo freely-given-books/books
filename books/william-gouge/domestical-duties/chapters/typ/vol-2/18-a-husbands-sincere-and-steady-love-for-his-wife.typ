@@ -13,16 +13,7 @@ As Christ loveth his Church, and as we love our selves, so must men love their w
 
 That we may the better follow these patterns, we must distinctly note how Christ loveth his Church, and how we #footnote[The manner of an husbands love set forth by Christs manner of loving his Church in six branches. 1. Christ #emph[first] loveth the Church.] love our selves.
 
-The love of Christ to his Church is commended unto us in six several points: which are
-
-+ The #emph[order]
-+ The #emph[truth]
-+ The #emph[cause]
-+ The #emph[quality]
-+ The #emph[quantity]
-+ The #emph[continuance]
-
-thereof.
+The love of Christ to his Church is commended unto us in six several points: which are the #emph[order], the #emph[truth], the #emph[cause], the #emph[quality], the #emph[quantity], and the #emph[continuance] thereof.
 
 I. For the #emph[Order,] Christ began to love his Church: he manifested his love to her before she loved him: as the air heated by the Sun is hot, and a wall on which the Sun-beams smite, giveth a reflexion of heat back again: so the Church, as it were heated and warmed at heart by the sense of Christs love, loved him, as the Apostle expressly noteth, #emph[(We love him] #footnote[1 #emph[Joh.] 4. 19.] #emph[because he loved us first:)] and the Church her self acknowledgeth saying, #emph[Because of the savour of thy good ointments] #footnote[#emph[Cant.] 1. 2.] (wherewith we are revived, and cheered) #emph[the virgins love thee.]
 

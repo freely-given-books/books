@@ -98,15 +98,15 @@ Without intermission and rest the body cannot endure labour: it will wax weak, f
 
 There are two especial times of rest, which servants may not be denied.
 
-- 1\. The rest of the night.
-- 2\. The rest of the Lords day.
++ The rest of the night.
++ The rest of the Lords day.
 
 The first is ordinary for all living creatures: for it was one #footnote[Servants must rest in the night time.] principal reason why God caused the light of the Sun to be withdrawn from the face of the earth, that the inhabitants thereof might rest from their labour. #emph[Until the evening] man #footnote[#emph[Psal.] 104. 23.] goeth forth unto his labour and work. Time of darkness is more fit for rest then work. Let not this be so taken as if no work were to be done, after the light of the day is taken away: (then would but little work be done in the depth of winter, when the days are short: and then would not God have afforded artificial lights) but to show that difference must be made betwixt the day and night: and that the night is afforded for that time wherein men are most to rest.
 
 The other time of rest (being the Sabbath day) is by divine #footnote[Servants must rest on the Lords day. #emph[Gen.] 2. 3.] institution. It was sanctified unto man in the time of #emph[Adams] innocency, when he stood as a public head and stock of all mankind. The very name #emph[Sabbath,] (which in Hebrew signifieth #emph[rest)] and the express prohibition of doing any work on that day, do show that it is a day of rest: and that one end thereof was for servants to rest therein, is evident by the reason thereof, #emph[that thy servant may rest.] So as there is a double bond to tie masters to afford rest to their servants on the Lords day:
 
-- 1\. The bond of piety to God.
-- 2\. The bond of charity to servants: for in that God did think it meet for servants to rest one day in seven, we ought to #footnote[Masters who afford not time enough of sleep to servants offend.] think that it is needful and behoveful for them.
++ The bond of piety to God.
++ The bond of charity to servants: for in that God did think it meet for servants to rest one day in seven, we ought to #footnote[Masters who afford not time enough of sleep to servants offend.] think that it is needful and behoveful for them.
 
 === §. 29. #emph[Of denying seasonable rest to servants.]
 

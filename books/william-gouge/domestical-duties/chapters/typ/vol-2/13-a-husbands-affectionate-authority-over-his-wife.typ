@@ -17,13 +17,13 @@ As the wife is to know #emph[her] duty, so the husband #footnote[Husbands bound 
 
 Wherefore to go on in order, in laying down the husbands #footnote[Husbands particular duties.] duties (as we have the wives) we are to consider,
 
-- 1\. The #emph[duties] themselves.
-- 2\. The #emph[reasons] to enforce them.
++ The #emph[duties] themselves.
++ The #emph[reasons] to enforce them.
 
 In setting down the duties we must note
 
-- 1\. The #emph[matter] wherein they consist.
-- 2\. The #emph[manner] how they are to be performed.
++ The #emph[matter] wherein they consist.
++ The #emph[manner] how they are to be performed.
 
 The Apostle compriseth the whole #emph[matter] of them all under #emph[love,] which is the #emph[sum] and #emph[head] of all.
 
@@ -67,8 +67,8 @@ Neither is it sufficient for an husband not to hate his wife, #footnote[2\. Want
 
 All the branches which grow out of this root of #emph[love,] as they have respect to husbands duties, may be drawn to two heads:
 
-- 1\. #emph[A wise maintaining of his authority.]
-- 2\. #emph[A right managing of the same.]
++ #emph[A wise maintaining of his authority.]
++ #emph[A right managing of the same.]
 
 That these two are branches of an husbands #emph[love,] is evident by the place wherein God hath set him, which is a #emph[place] of #emph[authority;] for the best good that any can do, and so the best fruits of love which he can show forth to any, are such as are done in his own proper place, and by virtue thereof. If then an husband relinquish his authority, he disableth himself from doing that good, and showing those fruits of love which otherwise he might. If he abuse his authority, he turneth the edge and point of his sword amiss: in stead of holding it over his wife for her protection, he turneth it into her bowels to her destruction, and so manifesteth thereby more hatred then love.
 
@@ -110,8 +110,8 @@ Let husbands therefore be very watchful against their wives evil instigations. S
 
 As authority must be well #emph[maintained,] so must it be well #emph[managed:] for which purpose two things are needful:
 
-- 1\. That an husband tenderly respect his wife.
-- 2\. That providently he care for her.
++ That an husband tenderly respect his wife.
++ That providently he care for her.
 
 An husbands tender respect of his wife is
 
@@ -148,7 +148,7 @@ As a wives acknowledgment of her husbands superiority is the ground-work of all 
 
 3\. There are no unequals betwixt which there is so near a parity as betwixt man and wife: if therefore there may be a fellowship betwixt any that are superior, and inferior one to another, then much more betwixt man and wife.
 
-#footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, & conspirans beneuolentia. Plut. praec. connub.] As the soul therefore ruleth over the body, by a mutual and loving consent and agreement, so must a man over his wife.
+As#footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, & conspirans beneuolentia. Plut. praec. connub.] the soul therefore ruleth over the body, by a mutual and loving consent and agreement, so must a man over his wife.
 
 === §. 8. #emph[Of husbands too mean account of wives.]
 
