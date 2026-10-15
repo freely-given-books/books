@@ -98,7 +98,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-14" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-15" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2005-05</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -10221,9 +10221,8 @@ If he <choice><orig>obſerue</orig><reg resp="#auto" type="spelling">observe</re
 <list type="numbered" subtype="printed" change="#review">
                      <item><label>1.</label> The <choice><orig>generall</orig><reg resp="#auto" type="spelling">general</reg></choice> charge of all lieth principally <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> him.</item>
                      <item><label>2.</label> He <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> an account <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> God for all things that are <choice><orig>amiſſe</orig><reg resp="#auto" type="spelling">amiss</reg></choice> in his <choice><orig>houſe</orig><reg resp="#auto" type="spelling">house</reg></choice>.</item>
-                  </list>
+<item change="#review"><label>3.</label> The blame of all will <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> before men lie <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> him.</item></list>
                </p>
-               <list type="numbered" change="#review"><item><label>3.</label> The blame of all will <choice><orig>alſo</orig><reg resp="#auto" type="spelling">also</reg></choice> before men lie <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> him.</item></list>
                <p>But <choice><orig>thoſe</orig><reg resp="#auto" type="spelling">those</reg></choice> two cautions <choice><orig>prouided</orig><reg resp="#auto" type="spelling">provided</reg></choice>, he ought together with
 <pb n="368" facs="tcp:3442:195"/>
 his <choice><orig>generall</orig><reg resp="#auto" type="spelling">general</reg></choice> <choice><orig>conſent</orig><reg resp="#auto" type="spelling">consent</reg></choice> <note n="i" place="margin">
@@ -16029,12 +16028,7 @@ For <hi>their education,</hi> the directions <choice><orig>giuen</orig><reg resp
                         <label>3.</label> 
                         <hi><choice><orig>Conſcience</orig><reg resp="#auto" type="spelling">Conscience</reg></choice> to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice>.</hi>
                      </item>
-                  </list>
-               </p>
-               <p>
-                  <table>
-                     <row>
-                        <cell rows="4">4. <hi>Good will.</hi> <choice><orig>Vnder</orig><reg resp="#auto" type="spelling">Under</reg></choice> which are <choice><orig>compriſed</orig><reg resp="#auto" type="spelling">comprised</reg></choice>—</cell>
+<item change="#review"><table><row><cell rows="4"><label>4.</label> <hi>Good will.</hi> <choice><orig>Vnder</orig><reg resp="#auto" type="spelling">Under</reg></choice> which are <choice><orig>compriſed</orig><reg resp="#auto" type="spelling">comprised</reg></choice>—</cell>
                         <cell><choice><orig>1</orig><reg resp="#auto" type="omission"></reg></choice><choice><orig>.</orig><reg resp="#auto" type="omission"></reg></choice> <choice><orig>Cheerfulneſſe</orig><reg resp="#auto" type="spelling">Cheerfulness</reg></choice>.</cell>
                      </row>
                      <row>
@@ -16050,6 +16044,7 @@ For <hi>their education,</hi> the directions <choice><orig>giuen</orig><reg resp
                         <cell> </cell>
                      </row>
                   </table>
+               </item></list>
                </p>
                <p n="2">2. <hi><choice><orig>Negatiuely</orig><reg resp="#auto" type="spelling">Negatively</reg></choice>,</hi> by <choice><orig>ſhewing</orig><reg resp="#auto" type="spelling">showing</reg></choice> what vices are to be <choice><orig>auoided</orig><reg resp="#auto" type="spelling">avoided</reg></choice>, and <choice><orig>theſe</orig><reg resp="#auto" type="spelling">these</reg></choice> are two <choice><orig>eſpecially</orig><reg resp="#auto" type="spelling">especially</reg></choice>,</p>
                <p>

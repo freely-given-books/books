@@ -14,7 +14,7 @@
 | spacing | 47 |
 | merge | 28 |
 | expansion | 25 |
-| split | 9 |
+| split | 10 |
 | note | 7 |
 | epigraph | 2 |
 | skipped | 1 |
@@ -30,6 +30,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
+- [vol-4/02-a-servants-reverence-for-his-master.typ] paragraph → 1 split(s) at 4
 
 ## skipped
 

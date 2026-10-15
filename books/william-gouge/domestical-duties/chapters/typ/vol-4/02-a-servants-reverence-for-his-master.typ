@@ -42,13 +42,11 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 + #emph[Fear and trembling.]
 + #emph[Singleness of heart.]
 + #emph[Conscience to Christ.]
-
-4\. #emph[Good will.] Under which are comprised—
-
-+ Cheerfulness.
-+ Readiness.
-+ Diligence.
-+ Faithfulness.
++ #emph[Good will.] Under which are comprised—
+  + Cheerfulness.
+  + Readiness.
+  + Diligence.
+  + Faithfulness.
 
 2\. #emph[Negatively,] by showing what vices are to be avoided, and these are two especially,
 
