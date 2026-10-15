@@ -88,8 +88,8 @@ But that the point of faithfulness may be the better discerned, and observed, I 
 
 Two things are required of servants to testify their faithfulness about their masters goods. #footnote[1.]
 
-- 1\. A safe keeping of them.
-- 2\. An increasing of them.
++ A safe keeping of them.
++ An increasing of them.
 
 1\. Whatsoever is committed by masters unto their servants, they must so carefully preserve, as it be not lost, spoiled, or impaired #footnote[Servants must well preserve their masters goods.] under their hands, whether they be things within doors, or without. I may to this purpose not unfitly apply that charge unto servants which in another case the Apostle gave to #emph[Timothy,] #footnote[1 #emph[Tim.] 6. 20. τὴν παρακαταθήκην φύλαξον.] #emph[Keep that which is committed to thy trust:] the Metaphor is taken from servants, and so showeth what is their duty. Great was #emph[Josephs] faithfulness in this kind, which made his master #footnote[#emph[Gen.] 39. 4.] #emph[put all that he had into his hand.] So great was #emph[Jacobs] faithfulness, that #footnote[#emph[&] 31. 38, 39.] in twenty years his masters ewes and she Goats, being under his hand, cast not their young, nor the Rams were devoured: if any thing were torn of beasts, he brought it not to his master, but bare the loss of it himself. If servants espy any damage or hurt done by others to their masters goods, they must redress it, if they can, or at least make it known to their masters, that he may give order for the redressing of it: as the servants of him that sowed good seed among which tares were sowed, mentioned #footnote[#emph[Mat.] 13. 27.] in the parable.
 

@@ -10,8 +10,8 @@ Contrary is disobedience and rebellion: the greatest impeachment #footnote[Disob
 
 That children may the better know their duty in this respect, #footnote[The parts of a childs obedience.] I will distinctly set forth, both the #emph[parts,] and also the #emph[extent] of a childs obedience:
 
-- 1\. Wherein it consisteth.
-- 2\. How far it extendeth.
++ Wherein it consisteth.
++ How far it extendeth.
 
 The general #emph[parts] wherein it consisteth are two:
 
@@ -61,11 +61,11 @@ Contrary is the opinion of Papists, who say, that children may #footnote[36\. #e
 
 The arguments which they allege for confirmation of their erroneous opinion, are taken from extraordinary examples, or from mystical resemblances, as
 
-- 1\. #emph[Abrahams] leaving his fathers house. #footnote[#emph[Gen.] 12. 1. #emph[Deut.] 33. 9.]
-- 2\. #emph[Levis] speech of his father and mother, who said, #emph[I have not seen him.]
-- 3\. The advice given to the royal Queen, #emph[Forget thy fathers] #footnote[#emph[Psal.] 45. 10.] #emph[house.]
-- 4\. The trial of our love of Christ by loving him more #footnote[#emph[Mat.] 10. 37.] then father or mother.
-- 5\. Christs forbidding one that followed him to go and #footnote[#emph[Luk.] 9. 60.] bury his father.
++ #emph[Abrahams] leaving his fathers house. #footnote[#emph[Gen.] 12. 1. #emph[Deut.] 33. 9.]
++ #emph[Levis] speech of his father and mother, who said, #emph[I have not seen him.]
++ The advice given to the royal Queen, #emph[Forget thy fathers] #footnote[#emph[Psal.] 45. 10.] #emph[house.]
++ The trial of our love of Christ by loving him more #footnote[#emph[Mat.] 10. 37.] then father or mother.
++ Christs forbidding one that followed him to go and #footnote[#emph[Luk.] 9. 60.] bury his father.
 
 #emph[Answ.] 1. For #emph[Abrahams] example, 1. It cannot be proved that he left his fathers house without the consent of his father. 2. He was then married, and so of another house. 3. He had #footnote[#emph[Gen.] 12. 1.] an express particular charge of God to leave his fathers house, even as he had to sacrifice his son. Except the like charge can be showed, his example maketh nothing to the purpose.
 

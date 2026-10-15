@@ -78,12 +78,7 @@ For the better effecting of this duty, husbands and wives #footnote[Direction fo
 
 When either husband or wife is fallen into any sin, a mutual duty it is for the other, to use what redress may be of that sin: as if one of them were wounded, the other must take care for the healing of that wound. #emph[Abigail] performed #footnote[1 #emph[Sam.] 25.] her duty in this kind, when, after she had heard what churlish entertainment her husband gave to #emph[Davids] servants, she hastened to carry store of provision to #emph[David,] and humbled her self before him, and so moved #emph[David] to assuage his wrath: yea she took a seasonable time also to tell her husband his fault, and the danger whereinto he brought himself thereby.
 
-More directly, and with better success did #emph[Jacob] redress the superstition, or rather Idolatry of his wife #emph[Rachel,] as may
-
-be gathered by comparing
-
-+ #emph[Gen.] 31. 19, 34.
-+ #emph[Gen.] 35. 2, 4.
+More directly, and with better success did #emph[Jacob] redress the superstition, or rather Idolatry of his wife #emph[Rachel,] as may be gathered by comparing #emph[Gen.] 31. 19, 34. with #emph[Gen.] 35. 2, 4.
 
 A brother at large must not suffer sin to lie on his brother: #footnote[#emph[Lev.] 19. 17.] much less may husband or wife the one upon the other.
 

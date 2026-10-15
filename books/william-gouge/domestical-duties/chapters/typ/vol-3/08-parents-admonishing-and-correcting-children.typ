@@ -4,8 +4,8 @@
 
 The means of helping forward the good work of nurture #footnote[III. The means of nurture.] are especially two.
 
-- 1\. Frequent admonition.
-- 2\. Due correction.
++ Frequent admonition.
++ Due correction.
 
 Both of them are implied in this text: one in the word translated #emph[admonition,] which (according to the notation of the #footnote[νουθεσία. See Treat. 1. §. 120.] Greek word) is a putting of a thing into the mind, an urging and pressing of it: the other in the word translated #emph[nurture.] #footnote[παιδεία. See Treat. 1. §. 119.]
 
@@ -35,15 +35,7 @@ Thus that teaching vanisheth away: and so it falleth out, as we say in the prove
 
 The other means of helping nurture is correction.
 
-Which is of two sorts;
-
-+ Verbal
-+ Real
-
-by
-
-+ Words.
-+ Blows.
+Which is of two sorts; verbal by words, and real by blows.
 
 The former is #emph[reprehension:] and it must always go before the latter, which is most usually and properly called #emph[Correction.]
 
@@ -131,8 +123,8 @@ The particular rules are these.
 
 Contrary to this duty of correcting are two extremes.
 
-- 1\. Too much lenity.
-- 2\. Too much severity.
++ Too much lenity.
++ Too much severity.
 
 Many so cocker their children, as they will suffer them to #footnote[#emph[Qui non corripiunt filios suos, & eorum animas igni inextinguibili in interitum tradunt, & semetipsos in furorem iudicij demergunt. Orig. in Iob. lib.] 1. 1 #emph[Sam.] 2. 29.] run into any misdemeanour, rather then correct them. They cannot endure to hear their children cry: and therefore their children must be pleased in all their humours and evil desires. These parents bring shame to themselves, and mischief upon their children: for God is oft forced to correct such. Heavy are Gods corrections: and oft light on parent and child both: as appeareth by the judgment on #emph[Eli] and his sons: for such parents make themselves accessary to their childrens sins: yea also to the judgments laid upon their children. God saith of such parents, that #emph[they honour their children above God.] It is therefore a fond indulgency which maketh parents regard neither Gods honour, nor their own or childrens safety.
 

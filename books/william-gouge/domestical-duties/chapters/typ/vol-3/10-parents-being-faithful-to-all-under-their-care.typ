@@ -4,9 +4,9 @@
 
 The extent of this title #emph[(fathers)] is in the last place to be #footnote[Who are in place of parents.] considered. Not only natural parents themselves, but also all that are in their place are comprised under it. As they who are in the place of parents,
 
-- 1\. By the bond of marriage.
-- 2\. By propinquity of blood.
-- 3\. By voluntary appointment.
++ By the bond of marriage.
++ By propinquity of blood.
++ By voluntary appointment.
 
 The first sort are fathers and mothers in law: who are so reckoned either by the marriage of parents themselves, or by the marriage of their children.
 
@@ -76,8 +76,8 @@ Of these care and conscience is rather required, then cost and charges: for comm
 
 They who by reason of the death or impotency of natural parents have the charge of children committed to them, are commonly called #emph[Guardians:] of whom two general duties are required.
 
-- 1\. That they look to their Pupils good education.
-- 2\. That they preserve their patrimony and inheritance.
++ That they look to their Pupils good education.
++ That they preserve their patrimony and inheritance.
 
 For #emph[their education,] the directions given before to natural parents are to be observed by them.
 
@@ -101,9 +101,9 @@ Little do these Guardians think of that account whereunto they shall be brought 
 
 If such as parents themselves have upon their death-beds committed their children unto, in confidence of their faithfulness, shall deal deceitfully with their Pupils, their sin is doubled, and trebled. For
 
-- 1\. They violate the bond of friendship, faithfulness, and trust reposed upon them.
-- 2\. They sin directly against justice.
-- 3\. Most monstrously they transgress the rules of charity.
++ They violate the bond of friendship, faithfulness, and trust reposed upon them.
++ They sin directly against justice.
++ Most monstrously they transgress the rules of charity.
 
 === §. 78. #emph[Of the duty of Schoolmasters and Tutors.]
 
@@ -113,9 +113,9 @@ Their duty is appropriated to education: it appertaineth not to them to maintain
 
 All the duties which were before comprised under #emph[nurture,] belong to #emph[Schoolmasters] and #emph[Tutors.] More particularly they are to instruct children in three things.
 
-- 1\. In learning.
-- 2\. In civility, and good manners.
-- 3\. In true piety, and religion.
++ In learning.
++ In civility, and good manners.
++ In true piety, and religion.
 
 I shall not need to speak more of these points then hath #footnote[§. 28, 34.] before been delivered: only to provoke them to be diligent in well nurturing children in those three points, let the benefit of good Schoolmasters and Tutors be well noted.
 

@@ -18,9 +18,9 @@ These are not only a prey to the devil, but also instruments of the devil, by wh
 
 Though it be a good thing to keep a servant always occupied and employed, yet for the benefit of the servant it is further requisite, that his employment be about some settled matter, whereabout he may also exercise himself when he is out of service. This especially concerneth such as have taken #footnote[Masters must teach their prentices their trade.] prentices. They must teach them their trade.
 
-- 1\. For that end are prentices bound to masters.
-- 2\. The covenants on the masters part require as much.
-- 3\. The good which thence is like to come to the master himself, his prentice, and others, will recompense the pains.
++ For that end are prentices bound to masters.
++ The covenants on the masters part require as much.
++ The good which thence is like to come to the master himself, his prentice, and others, will recompense the pains.
 
 Other servants also must be tied to a work which may be a means of maintenance: as in a great house, to offices about that house: in the country, to husbandry: in offices about the law, to some employment therein; and so in other callings.
 

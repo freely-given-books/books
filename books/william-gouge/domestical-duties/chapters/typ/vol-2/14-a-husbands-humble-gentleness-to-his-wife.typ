@@ -6,18 +6,18 @@
 
 Out of this general these two branches sprout forth.
 
-- 1\. That an husband give no just offence to his wife.
-- 2\. That wisely he order that offence which is given by her.
++ That an husband give no just offence to his wife.
++ That wisely he order that offence which is given by her.
 
 To avoid giving of offence he must have respect,
 
-- 1\. To that which she doth as duty to him.
-- 2\. To that which he doth as duty to her.
++ To that which she doth as duty to him.
++ To that which he doth as duty to her.
 
 In regard of the former two things are requisite:
 
-- 1\. That he kindly accept what she is willing and able to do.
-- 2\. That he wisely commend and reward what she doth well.
++ That he kindly accept what she is willing and able to do.
++ That he wisely commend and reward what she doth well.
 
 Thus having for orders sake laid down these heads, I will distinctly handle the several points.
 
@@ -79,17 +79,17 @@ If he observe her conscionable and wise, well able to manage #footnote[7\. By su
 
 A general consent is especially requisite for ordering of household affairs: for it is a charge laid upon wives to #footnote[1 #emph[Tim.] 5. 14. οἰκοδεσποτεῖν.] #emph[guide the house:] whereby it appeareth that the businesses of the house appertain, and are most proper to the wife: in which respect she is called the #footnote[Materfamilias.] #emph[housewife:] so as therein husbands ought to refer matters to their ordering, and not restrain them in every particular matter from doing any thing without a special licence and direction. To exemplify this in #footnote[What things are to be put to the wives disposing.] some particulars, it appertaineth in peculiar to a wife,
 
-- 1\. To #footnote[#emph[Pro.] 31. 21, 22.] order the decking and trimming of the house.
-- 2\. To #footnote[#emph[Vers.] 15.] dispose the ordinary provision for the family.
-- 3\. To #footnote[#emph[Gen.] 16. 6.] rule and govern maid servants.
-- 4\. To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like. These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
++ To #footnote[#emph[Pro.] 31. 21, 22.] order the decking and trimming of the house.
++ To #footnote[#emph[Vers.] 15.] dispose the ordinary provision for the family.
++ To #footnote[#emph[Gen.] 16. 6.] rule and govern maid servants.
++ To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like. These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
 
 1\. That she have in some measure sufficient discretion, #footnote[Cautions about referring matters of the house to the wives ordering.] wit, and wisdom, and be not too ignorant, foolish, simple, lavish, etc.
 
 2\. That he have a general oversight in all, and so interpose his authority as he suffer nothing that is unlawful or unseemly to be done by his wife about house, children, servants, or other things: for
 
-- 1\. The general charge of all lieth principally upon him.
-- 2\. He shall give an account unto God for all things that are amiss in his house.
++ The general charge of all lieth principally upon him.
++ He shall give an account unto God for all things that are amiss in his house.
 
 3\. The blame of all will also before men lie upon him.
 
@@ -137,9 +137,9 @@ For avoiding just offence, an husband must further have #emph[good respect to th
 
 This mildness is an especial fruit, and evidence of love, and a notable means to take away all offence that otherwise might be taken from many things which he doth. Sugar and Honey are not more pleasant to the tongue, then mildness to the heart; it causeth such things as otherwise are irksome and grievous to the soul, to be well taken and applied, even as bitter pills dipped in sweet syrup, or rolled up in the soft pap of an apple, are soon swallowed down and well digested. If an husband desire to be accounted a servant of the Lord he must learn this lesson: For #emph[the servant of the Lord must be gentle to all men.] If any other servant of the Lord, much more husbands: #footnote[2 #emph[Tim.] 2. 24.] if to #emph[all men,] most of all to their wives: and that in many respects.
 
-- 1\. Because of the near union betwixt man and wife.
-- 2\. Because of the joint authority she hath with him over others: that herein he may be a precedent and example to her.
-- 3\. Because of her weakness: glasses are tenderly handled: a small knock soon breaks them.
++ Because of the near union betwixt man and wife.
++ Because of the joint authority she hath with him over others: that herein he may be a precedent and example to her.
++ Because of her weakness: glasses are tenderly handled: a small knock soon breaks them.
 
 === §. 23. #emph[Of husbands bitterness.]
 

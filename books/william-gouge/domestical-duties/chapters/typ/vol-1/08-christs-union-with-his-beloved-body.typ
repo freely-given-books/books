@@ -13,13 +13,9 @@
 
 #v(0.8em)
 
-This confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that
+This confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that the Lord hateth not his Church.
 
-The Lord hateth not his Church.
-
-And to the affirmative, and so it showeth, that
-
-The Lord nourisheth and cherisheth his Church.
+And to the affirmative, and so it showeth, that the Lord nourisheth and cherisheth his Church.
 
 That difference which is made betwixt #emph[Esau] a type of the world #emph[(Esau have I hated)] and #emph[Jacob] a type of the Church #footnote[#emph[Mal.] 1. 2, 3.] #emph[(Jacob have I loved)] showeth that the Lord is far from hating his Church. The world, not the Church, is the object of Gods hatred.
 
@@ -282,17 +278,7 @@ The particular matter of our regeneration (the #emph[flesh] and #emph[bones] of 
 
 1\. In our creation Christ was only a #emph[worker:] but he is the very #emph[matter] of our Regeneration, we are #emph[of his flesh.]
 
-2\. The relation that then was betwixt Christ and man,
-
-was
-
-+ #emph[Creator]
-+ #emph[Creature]
-
-but here
-
-+ #emph[Head]
-+ #emph[Body]
+2\. The relation that then was betwixt Christ and man, was #emph[Creator] and #emph[creature:] but here #emph[head] and #emph[body.]
 
 #emph[We are members of his body.]
 

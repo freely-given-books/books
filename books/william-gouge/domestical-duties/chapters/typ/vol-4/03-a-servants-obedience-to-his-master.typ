@@ -8,13 +8,10 @@ They who are contrary minded, who are rebellious, and disdain to be under the au
 
 In handling this point of obedience, I will follow the same order, which I did in laying forth the obedience of wives and children, and consider
 
-- 1\. The parts of servants obedience wherein it consisteth.
-- 2\. The extent thereof, how far it reacheth.
++ The parts of servants obedience wherein it consisteth.
++ The extent thereof, how far it reacheth.
 
-The parts are two,
-
-- One negative.
-- Another affirmative.
+The parts are two, one negative, another affirmative.
 
 The #emph[negative] is to abstain from doing things of their own head, without or against their masters consent.
 
@@ -106,8 +103,8 @@ Now then if the servants of these had not hearkened and yielded to the instructi
 
 The benefit which redoundeth to servants by obeying such instructions, is unspeakable: much more good may be got by following the spiritual directions of religious masters, then the witty and commodious directions of the wisest statesmen, and the skilfulest artists, or tradesmen that be: so as there is a double bond to bind servants to obey this kind of instructions:
 
-- 1\. The bond of duty.
-- 2\. The bond of profit and benefit to themselves.
++ The bond of duty.
++ The bond of profit and benefit to themselves.
 
 === §. 16. #emph[Of Servants faults contrary to obedience in matters of religion.]
 

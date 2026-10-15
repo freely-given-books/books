@@ -54,12 +54,7 @@ Contrary is that unwarrantable course which many take, to #footnote[Unlawful for
 
 === §. 19. #emph[Of a religious consecrating of marriage.]
 
-III. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth
-
-+ In a religious #emph[consecration]
-+ In a civil #emph[celebration]
-
-thereof.
+III. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth in a religious #emph[consecration,] and in a civil #emph[celebration] thereof.
 
 A religious #emph[consecration] of marriage is performed by the blessing of a public Minister of the word in the open face of the Church in the day time. This of old hath been used of Christians, and still is continued among us. Though we have neither express precept, nor particular pattern in Gods word for this manner of solemnizing a marriage (for there is no particular form thereof set down in the Scripture) yet it being agreeable to the general rules thereof, we ought in conscience to subject our selves thereto.
 

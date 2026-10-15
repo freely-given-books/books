@@ -123,9 +123,9 @@ For the better performing of this duty, three general points, tending both to th
 
 The three generals are these.
 
-- 1\. Good direction.
-- 2\. Faithful prayer.
-- 3\. A wise choice of some friends to be as parents to them.
++ Good direction.
++ Faithful prayer.
++ A wise choice of some friends to be as parents to them.
 
 1\. #footnote[Parents on their deathbed to leave good lessons to their children.] For #emph[direction.] When parents observe their time to draw near, they ought to commend some wise and wholesome precepts unto their children, the better to direct them in their Christian course. So did #footnote[#emph[Gen.] 28. 2, 4.] #emph[Isaac,] and #footnote[#emph[&] 49. 1. #emph[etc.]] #emph[Jacob.]
 
@@ -155,8 +155,8 @@ Contrary to a parents providence for the good of his children after his departur
 
 The two particular things to be observed by parents for manifestation of their provident care over their children for the time to come, even after their departure, especially in regard of their temporal estate, are these,
 
-- 1\. That they make a will.
-- 2\. That they leave their estates to their children.
++ That they make a will.
++ That they leave their estates to their children.
 
 1\. It hath been an ancient commendable practise both among #footnote[A Will to be made.] Gods people, and others also, that have been guided with common civility, when they who have any estate, wax old, or sick, and have any occasion of expecting death offered unto them, to make their last Will and testament. This is set forth in the old Testament under this phrase #emph[(Put thy house in order.)] A duty it is expressly #footnote[2 #emph[King.] 20. 1.] commanded by God: and that not without good reason. For
 
@@ -170,10 +170,10 @@ In performing this duty, a man must both observe a fit time, #footnote[Direction
 
 Contrary is the daily practise of too many parents who are not willing to make any will at all: or else on vain hope that they may live longer, and when they are sick, upon conceit that they may recover, or at least longer continue to enjoy the use of their understanding and memory, put off the making of their Will till it be too late: and so die without Will, or make such a Will as ministreth more matter of suit, then if they had no Will at all; either because doubt is made whether he that made it had his understanding and memory or no: or because his Will is so abrupt and ambiguous, as his meaning cannot be known. The mischiefs that follow these neglects, #footnote[Inconvenience of dying without a Will.] are many. As
 
-- 1\. Discredit to the party deceased.
-- 2\. Contentions among his surviving children.
-- 3\. Wasting a great part, if not his whole estate, in suits of law.
-- 4\. Defeating many creditors of their due debt.
++ Discredit to the party deceased.
++ Contentions among his surviving children.
++ Wasting a great part, if not his whole estate, in suits of law.
++ Defeating many creditors of their due debt.
 
 The reason which maketh many to put off the making of their Will is a foolish conceit, that if a mans Will be once made, then he must needs die out of hand. But what ground have men for any such conceit? If sickness grow upon a man, so long as his Will is unmade his mind is unsettled, his mind being unsettled, the physic that is ministered to him cannot so kindly work; so as his death may be the more hastened for not making a Will. Besides, if his speech fail before his understanding, the thought that then he shall die without a Will may so perplex him, as his departure will be very unquiet and troublesome.
 

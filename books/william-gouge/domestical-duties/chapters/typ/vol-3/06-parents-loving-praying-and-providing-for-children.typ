@@ -15,10 +15,10 @@
 
 Next to childrens, follow parents duties, which the Apostle layeth down in this fourth verse: where he noteth,
 
-- 1\. The duties
-- 2\. The parties
-  - 1\. That are to perform the duties, #emph[fathers.]
-  - 2\. To whom they are to be performed, #emph[children.]
++ The duties
++ The parties
+  + That are to perform the duties, #emph[fathers.]
+  + To whom they are to be performed, #emph[children.]
 
 The duties are set down
 
@@ -31,35 +31,15 @@ The inference of the precept upon the prohibition noteth out another extreme, wh
 
 The precept it self enjoineth to parents three duties.
 
-- 1\. To #emph[nourish] children, namely with food, apparel, and other like necessaries #emph[(Nourish them.)]
-- 2\. To #emph[nurture] them, namely with good discipline #emph[(In nurture.)]
++ To #emph[nourish] children, namely with food, apparel, and other like necessaries #emph[(Nourish them.)]
++ To #emph[nurture] them, namely with good discipline #emph[(In nurture.)]
++ To #emph[instruct] them, namely in the ways of God #emph[(And admonition of the Lord.)]
 
-- 3\. To #emph[instruct] them, namely in the ways of God #emph[(And admonition of the Lord.)]
-
-+ Nature
-+ Civility
-+ Piety
-
-teacheth
-
-+ Unreasonable Creatures
-+ Reasonable Men
-+ Christians
-
-to do the
-
-+ First.
-+ Second.
-+ Third.
+Nature teacheth unreasonable creatures to do the first, civility teacheth reasonable men to do the second, piety teacheth Christians to do the third.
 
 To these heads may all the several points which I shall deliver concerning parents duties, be referred.
 
-That parents may the better discern how one duty followeth another, I will proceed in this order.
-
-+ The fountain of all duties
-+ The streams that issue thence
-
-shall be declared.
+That parents may the better discern how one duty followeth another, I will proceed in this order. The fountain of all duties, and the streams that issue thence shall be declared.
 
 The streams shall be divided into two rivers.
 
@@ -69,15 +49,15 @@ In the second, such particular duties as are to be applied to the several ages o
 
 There are two principal general duties.
 
-- 1\. Faithful #emph[prayer] to God.
-- 2\. Upright #emph[walking] with God.
++ Faithful #emph[prayer] to God.
++ Upright #emph[walking] with God.
 
 All the particulars may be comprised under this one head, #emph[A provident care.] And this hath respect,
 
-- 1\. To the #emph[Infancy] of children,
-- 2\. To their #emph[Youth,]
-- 3\. To the time of their #emph[placing] forth,
-- 4\. To the time of parents #emph[departing] out of this world.
++ To the #emph[Infancy] of children,
++ To their #emph[Youth,]
++ To the time of their #emph[placing] forth,
++ To the time of parents #emph[departing] out of this world.
 
 === §. 2. #emph[Of that Love which parents owe to their children.]
 
@@ -185,8 +165,8 @@ The first part of a childs #emph[infancy] is while it remaineth in the mothers w
 
 In this case there is a double bond to make mothers careful of themselves.
 
-- 1\. Their #emph[own,]
-- 2\. Their #emph[childs] good.
++ Their #emph[own,]
++ Their #emph[childs] good.
 
 Husbands also in this case must be very tender over their wives, and helpful to them in all things needful, both in regard of that duty which they owe to their wives, and also of that they #footnote[#emph[Judg.] 13. 11, #emph[etc.]] owe to their children. Why was #emph[Manoah] so desirous to hear himself the forenamed direction which the Angel gave to his wife? And why did the Angel again repeat it to him, but to show it belonged to him to see her observe it?
 
@@ -238,12 +218,12 @@ I. The consequences whereby the word implieth this duty are these:
 
 Sum these several consequences together, and we shall find the duty in question to be very strongly enforced hereby.
 
-- 1\. As a blessing it is promised, that mothers shall give suck to the children that they bear.
-- 2\. As a curse it is threatened, that women shall not be able to give suck.
-- 3\. An Angel gave direction to a mother so to carry her self as she might have store of good milk for the child which she should bear.
-- 4\. God by his special providence manifested that the proper mother was the best nurse for a child.
-- 5\. It is the note of a good woman to perform this part of her particular calling, namely to nurse her own child.
-- 6\. Women ought to do all the best duties of love that they can to their children.
++ As a blessing it is promised, that mothers shall give suck to the children that they bear.
++ As a curse it is threatened, that women shall not be able to give suck.
++ An Angel gave direction to a mother so to carry her self as she might have store of good milk for the child which she should bear.
++ God by his special providence manifested that the proper mother was the best nurse for a child.
++ It is the note of a good woman to perform this part of her particular calling, namely to nurse her own child.
++ Women ought to do all the best duties of love that they can to their children.
 
 Therefore mothers ought to nurse their own children.
 
@@ -367,12 +347,12 @@ The duty which on a fathers part in this respect is required, is that he encoura
 
 Contrary to this duty do all such mothers offend, as for any by-respects when no necessity requireth put forth their children to be nursed by others.
 
-- 1\. Some do it for ease and quiet, because they cannot endure to have their sleep broken, or to hear their child wrangle and cry.
-- 2\. Others do it for niceness, because they are loth to open their breasts, or to soil their clothes.
-- 3\. Others upon pride, conceiting that their beauty would be impaired, and they look old too soon.
-- 4\. Others upon gain, because they can have a child cheaper nursed abroad then at home, where, at least, they must hire a maid the more.
-- 5\. Others upon pleasure, that they might more freely ride abroad, and meet their Gossips.
-- 6\. Others upon other by-respects: all which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
++ Some do it for ease and quiet, because they cannot endure to have their sleep broken, or to hear their child wrangle and cry.
++ Others do it for niceness, because they are loth to open their breasts, or to soil their clothes.
++ Others upon pride, conceiting that their beauty would be impaired, and they look old too soon.
++ Others upon gain, because they can have a child cheaper nursed abroad then at home, where, at least, they must hire a maid the more.
++ Others upon pleasure, that they might more freely ride abroad, and meet their Gossips.
++ Others upon other by-respects: all which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
 
 === §. 16. #emph[Of a fathers fault in hindering his wives nursing of her child.]
 
@@ -422,8 +402,8 @@ There being such forcible motives to stir up parents to perform the duty, (which
 
 Two things in childrens baptism ought to be observed.
 
-- 1\. That it be #emph[rightly] done.
-- 2\. That it be #emph[seasonably] done.
++ That it be #emph[rightly] done.
++ That it be #emph[seasonably] done.
 
 In the #emph[right] performance thereof, some things are #emph[necessary,] and some #emph[expedient.]
 
@@ -453,10 +433,10 @@ It belongeth to parents to give the name to their child: for so #footnote[Parent
 
 It is also evident, that the time of Baptism is the fittest time for giving the name. #footnote[#emph[Luk.] 1. 59. #emph[&] 2. 21.] Under the Law, childrens names were given at their Circumcision: and so under the Gospel it hath in all ages been used: and that for these reasons.
 
-- 1\. That their names may be a testimony of their baptism. #footnote[Why the name is given at baptism.]
-- 2\. That so oft as they hear their names, they may be put in mind of their baptism.
-- 3\. That they might know how by name they are given to Christ to be his soldiers, and therefore there must be no starting from him.
-- 4\. That they may also be assured, that being baptized with water and the spirit, by name they are registered in heaven.
++ That their names may be a testimony of their baptism. #footnote[Why the name is given at baptism.]
++ That so oft as they hear their names, they may be put in mind of their baptism.
++ That they might know how by name they are given to Christ to be his soldiers, and therefore there must be no starting from him.
++ That they may also be assured, that being baptized with water and the spirit, by name they are registered in heaven.
 
 Now because names are so solemnly given, and of so good use, #footnote[Fit names to be given.] most meet it is that fit names should be given to children. And for proof hereof, let the names which in Scripture are recorded to be given by God himself, and by such holy men and women as were guided by his spirit, be observed; and we shall find them to be holy, sober, and fit names.
 
@@ -514,15 +494,15 @@ The childhood of a child is reckoned from the time that it beginneth to be of an
 
 The duties which parents for this time must perform to their children may be drawn to these two heads.
 
-- 1\. Care to bring them up.
-- 2\. Care to place them forth.
++ Care to bring them up.
++ Care to place them forth.
 
 For their well training up, respect must be had both to their #emph[temporal] and also to their #emph[spiritual] good.
 
 Two things are required of parents, in regard of the #emph[temporal] good of their children.
 
-- 1\. To #emph[nourish] them well.#footnote[Feed them in discipline, saith the Apostle.]
-- 2\. To #emph[nurture] them well.#footnote[Children must be well fed, taught.]
++ To #emph[nourish] them well.#footnote[Feed them in discipline, saith the Apostle.]
++ To #emph[nurture] them well.#footnote[Children must be well fed, taught.]
 
 Under #emph[nourishment] are comprised all needful things for #footnote[ἐκτρέφετε αὐτὰ ἐν παιδείᾳ. #emph[In prole attenditur vt amanter suscipiatur, benignè nutriatur, religiosè educetur. Aug. de Gen. ad lit. l.] 9. #emph[c.] 7. #emph[Refectionis tempus, & mensura, & qualitas pueris competenter discernantur. Basil. Ascet. c.] 15.] #emph[health] and #emph[life:] which parents ought to provide for their children, as
 

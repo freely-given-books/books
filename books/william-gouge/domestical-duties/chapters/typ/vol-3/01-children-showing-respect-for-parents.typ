@@ -13,35 +13,32 @@
 
 #v(0.8em)
 
-The second couple in a family are
-
-- Parents.
-- Children.
+The second couple in a family are parents and children.
 
 In laying down their duties, the Apostle beginneth with children: his direction, and instigation unto them is laid down in the three first verses of the sixth chapter: wherein
 
-- 1\. He declareth their #emph[duty.]
-- 2\. He addeth #emph[reasons] to enforce the same.
++ He declareth their #emph[duty.]
++ He addeth #emph[reasons] to enforce the same.
 
 In laying down their duty he noteth three points.
 
-- 1\. #emph[Wherein] it consisteth, #emph[(obey, honour.)]
-- 2\. #emph[To whom] it is to be performed #emph[(your parents.)]
-- 3\. #emph[After what manner] it is to be done #emph[(in the Lord.)]
++ #emph[Wherein] it consisteth, #emph[(obey, honour.)]
++ #emph[To whom] it is to be performed #emph[(your parents.)]
++ #emph[After what manner] it is to be done #emph[(in the Lord.)]
 
 The reasons used by the Apostle are four.
 
-- 1\. The #emph[place] of parents #emph[(in the Lord.)]
-- 2\. The #emph[aequity] of the thing #emph[(this is right.)]
-- 3\. The #emph[charge] of God #emph[(honour thy father,] etc.)
-- 4\. The #emph[reward] promised #emph[(That it may go well,] etc.)
++ The #emph[place] of parents #emph[(in the Lord.)]
++ The #emph[aequity] of the thing #emph[(this is right.)]
++ The #emph[charge] of God #emph[(honour thy father,] etc.)
++ The #emph[reward] promised #emph[(That it may go well,] etc.)
 
 Under this word #emph[(obey)] which the Apostle useth, and that word #emph[(honour)] which the law useth, are all those duties comprised, which any where throughout the whole Scripture are enjoined to children.
 
 We will therefore set them down in some order, and handle them distinctly one after another.
 
-- 1\. The #emph[Fountain] of childrens duties is to be searched out.
-- 2\. The #emph[Streams] that flow from thence are to be observed.
++ The #emph[Fountain] of childrens duties is to be searched out.
++ The #emph[Streams] that flow from thence are to be observed.
 
 The #emph[Fountain] is an inward disposition of the heart compounded of #emph[love] and #emph[fear.]
 
@@ -112,28 +109,16 @@ Thus much of a childes inward disposition towards his parent. The manifestation 
 
 The outward #emph[reverence] which children owe to their parents consisteth partly in their #emph[speech,] partly in their carriage.
 
-Their speech both #emph[to] and #emph[of] their parents must savour reverence.
+Their speech both #emph[to] and #emph[of] their parents must savour reverence: to their parents in presence, of their parents in absence.
 
-To their parents in presence.
-
-Of their parents in absence.
-
-In presence, by
-
-+ #emph[Refraining]
-+ #emph[Well framing]
-
-their speech.
+In presence, by #emph[refraining] and #emph[well framing] their speech.
 
 For refraining speech two virtues are requisite
 
 + #emph[Silence.]
 + #emph[Patience.]
 
-Silence in
-
-+ #emph[Forbearing] to speak.
-+ #emph[Breaking] of speech. #footnote[Children ought to forbear speaking in their parents presence]
+Silence in #emph[forbearing] to speak, and #emph[breaking] of speech. #footnote[Children ought to forbear speaking in their parents presence]
 
 Patience in hearkening to their parents.
 
@@ -195,10 +180,10 @@ Contrary to that kind of blessing is discovering of parents #footnote[Childrens 
 
 As the speech, so the carriage of children towards their parents must be seasoned with reverence: for
 
-- 1\. #emph[This] is a fruit, and proof of filial fear as well as #emph[that.]
-- 2\. Of the two, this is the surer evidence: for actions are better signs of the disposition of the heart then words.
-- 3\. Fair words joined with contrary deeds, cannot but be accounted merely complemental and hypocritical.
-- 4\. Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that mans condemnation the greater. #footnote[Childrens reverence to their parents manifested, 1. by meeting them.]
++ #emph[This] is a fruit, and proof of filial fear as well as #emph[that.]
++ Of the two, this is the surer evidence: for actions are better signs of the disposition of the heart then words.
++ Fair words joined with contrary deeds, cannot but be accounted merely complemental and hypocritical.
++ Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that mans condemnation the greater. #footnote[Childrens reverence to their parents manifested, 1. by meeting them.]
 
 Wherefore let all reverence be manifested in childrens behaviour to their parents, and that in these and such like instances.
 

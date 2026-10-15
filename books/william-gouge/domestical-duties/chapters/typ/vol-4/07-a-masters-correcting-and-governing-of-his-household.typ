@@ -8,8 +8,8 @@ By a mans look his anger and wrath against another is manifested. #footnote[אף
 
 But words whether of #emph[rebuke,] or #emph[threatening,] do much more declare the same. This phrase which #emph[Solomon] useth #emph[Pro.] 29. 19. #emph[(a servant will not be corrected with words)] showeth that there is a correction by words: and though it be negatively propounded, yet doth it not imply that correction by words is not to be used to a servant, but rather, if thereby he be not moved, that blows must be added thereto: which is a correction by deeds, whereof Christ maketh mention in the parable of those servants that according to the greatness of their fault are #footnote[#emph[Luke] 12. 47.] to be #emph[beaten with many stripes.] It is therefore in a masters power to correct his servant with stripes, or blows. Which being so, I will show,
 
-- 1\. How far his power herein extendeth.
-- 2\. How it is to be ordered.
++ How far his power herein extendeth.
++ How it is to be ordered.
 
 === §. 14. #emph[Of the restraint of masters power: that it reacheth not to their servants life.]
 

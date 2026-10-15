@@ -28,9 +28,9 @@ For the better performing of it, care must be had both to #emph[prevent] and #em
 
 To #emph[prevent an ill name] respect must be had of these three things following, #footnote[1\. Prevent an ill name, and that]
 
-- 1\. What one relateth of another, and how.
-- 2\. What ear they give to things related by others.
-- 3\. What censure they give of one another.
++ What one relateth of another, and how.
++ What ear they give to things related by others.
++ What censure they give of one another.
 
 For the #emph[first,] husbands and wives may in no case delight to #footnote[1\. By concealing things of ill report.] discover unto others, and spread abroad the infirmities, and imperfections of one another, or any thing that may tend to the discredit of either of them: but rather cover and conceal them as much as they may with a good conscience. It is expressed that #footnote[#emph[Mat.] 1. 19.] #emph[Joseph being a just man] laboured to conceal that blemish which he imagined to be in his wife, so as this may stand with #emph[justice:] yea also it is a part of #emph[love,] for #footnote[1 #emph[Pet.] 4. 8.] #emph[love covereth a multitude of sins.]
 

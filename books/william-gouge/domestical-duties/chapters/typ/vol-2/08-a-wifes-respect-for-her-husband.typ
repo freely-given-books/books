@@ -15,25 +15,20 @@
 
 In the particular declaration of wives duties, the Apostle noteth two points,
 
-- 1\. The #emph[duty] required.
-- 2\. The #emph[reason] to enforce it.
++ The #emph[duty] required.
++ The #emph[reason] to enforce it.
 
 In setting forth the duty, he declareth
 
-- 1\. The #emph[matter] wherein it consisteth.
-- 2\. The #emph[manner] how it is to be performed.
++ The #emph[matter] wherein it consisteth.
++ The #emph[manner] how it is to be performed.
 
 In the matter we may note,
 
-- 1\. The thing required, #footnote[ὑποτάσσεσθε.] #emph[subjection.]
-- 2\. The person whom it respecteth, their #footnote[ἰδίοις.] #emph[own] husbands.
++ The thing required, #footnote[ὑποτάσσεσθε.] #emph[subjection.]
++ The person whom it respecteth, their #footnote[ἰδίοις.] #emph[own] husbands.
 
-The manner respecteth
-
-+ The #emph[quality]
-+ The #emph[extent]
-
-of that subjection.
+The manner respecteth the #emph[quality] and the #emph[extent] of that subjection.
 
 To declare the quality of wives subjection to their husbands, two rules are set down.
 
@@ -67,8 +62,8 @@ The first point to be handled in the treatise of wives particular duties is the 
 
 The subjection which is required of a wife to her husband implieth two things.
 
-- 1\. That she acknowledge her husband to be her superior.
-- 2\. That she respect him as her superior.
++ That she acknowledge her husband to be her superior.
++ That she respect him as her superior.
 
 That acknowledgment of the husbands superiority is twofold
 

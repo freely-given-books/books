@@ -156,11 +156,7 @@ Both these are justified by the like affection of Christ to the Church which is 
 
 #strong[#emph[Object.] Lovers of themselves are condemned in Gods word, as 2 #emph[Tim.] 3. 2. #emph[Phil.] 2. 21. 1 #emph[Cor.] 10. 24. #emph[Rom.] 15. 1.]
 
-#emph[Answ.] There is a double loving of a mans self. #footnote[The several kinds of self-love.]
-
-One good and commendable:
-
-The other evil, and damnable.
+#emph[Answ.] There is a double loving of a mans self. #footnote[The several kinds of self-love.] One good and commendable: the other evil, and damnable.
 
 Good and commendable loving of a mans self is
 

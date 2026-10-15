@@ -16,9 +16,9 @@ These two preposterous and presumptuous conceits doth the Apostle intimate, and 
 
 Here by the way, note three points.
 
-- 1\. The Gospel doth not free inferiors from that subjection #footnote[1\. #emph[Obser.]] to men whereunto by the moral law they are bound.
-- 2\. Men are ready to turn the grace of God into liberty. #footnote[2\. #emph[Obser.]]
-- 3\. As errors begin to sprout up in the Church, Ministers #footnote[3\. #emph[Obser.]] must be careful to root them out.
++ The Gospel doth not free inferiors from that subjection #footnote[1\. #emph[Obser.]] to men whereunto by the moral law they are bound.
++ Men are ready to turn the grace of God into liberty. #footnote[2\. #emph[Obser.]]
++ As errors begin to sprout up in the Church, Ministers #footnote[3\. #emph[Obser.]] must be careful to root them out.
 
 === §. 124. #emph[Of the meaning of the fifth verse.]
 
@@ -198,10 +198,10 @@ The negative clause which followeth in these words #emph[(and not to men)] is no
 
 From this large declaration of the #emph[manner] of doing service #footnote[Difference betwixt servants of men, and of Christ.] to masters note the difference betwixt such servants as are #emph[servants of men,] and such as are #emph[servants of Christ.]
 
-- 1\. #emph[They] do all to the eye. #emph[These] all from the heart.
-- 2\. #emph[They] seek to please men. #emph[These] do the will of God.
-- 3\. #emph[They] do their service discontentedly. #emph[These] cheerfully.
-- 4\. #emph[They] do all upon self-love. #emph[These] with good will.
++ #emph[They] do all to the eye. #emph[These] all from the heart.
++ #emph[They] seek to please men. #emph[These] do the will of God.
++ #emph[They] do their service discontentedly. #emph[These] cheerfully.
++ #emph[They] do all upon self-love. #emph[These] with good will.
 
 === §. 127. #emph[Of the meaning of the eight verse.]
 

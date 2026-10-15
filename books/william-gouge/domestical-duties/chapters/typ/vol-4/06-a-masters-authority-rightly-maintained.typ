@@ -15,8 +15,8 @@
 
 In the last place the duties of masters are declared by the Apostle, and that in this verse, where he noteth,
 
-- 1\. The #emph[kinds] of their duties.
-- 2\. A #emph[reason] to enforce the same.
++ The #emph[kinds] of their duties.
++ A #emph[reason] to enforce the same.
 
 The #emph[kinds] are set forth
 
@@ -25,26 +25,26 @@ The #emph[kinds] are set forth
 
 The #emph[reason] is taken from that subjection wherein masters are to an higher master #emph[(knowing that your master also.)] And it is amplified,
 
-- 1\. By the equal subjection of masters and servants to that master #emph[(your also.)]
-- 2\. By the place where that master is #emph[(in heaven.)]
-- 3\. By his property, in this phrase #emph[(neither is there respect of persons with him.)]
++ By the equal subjection of masters and servants to that master #emph[(your also.)]
++ By the place where that master is #emph[(in heaven.)]
++ By his property, in this phrase #emph[(neither is there respect of persons with him.)]
 
 Because the several duties of masters are here but pointed at, and infolded under general terms, I will (as in former treatises hath been done) propound a distinct order, whereby we may the better find out their duties, and handle them one after another.
 
 All may be drawn unto these two heads.
 
-- 1\. Care in choosing good servants.
-- 2\. Conscience in well using them.
++ Care in choosing good servants.
++ Conscience in well using them.
 
 For well using their servants, masters must have an eye to their place, and authority: and in respect thereof,
 
-- 1\. Wisely maintain their authority.
-- 2\. Rightly manage the same.
++ Wisely maintain their authority.
++ Rightly manage the same.
 
 The well managing of their authority is #emph[generally] noted in this phrase, #emph[do the same things:] but more #emph[particularly] in #footnote[#emph[Col.] 4. 1.] another place referred to these two branches
 
-- 1\. Justice.
-- 2\. Equity.
++ Justice.
++ Equity.
 
 Of these in order.
 
@@ -144,9 +144,9 @@ That a master may the better know how to maintain his authority, I will distinct
 
 Within the lists of these two virtues #emph[Justice] and #emph[Equity] (whereunto all the duties which masters owe their servants shall #footnote[§. 20, 21, #emph[etc.]] afterward be referred) must the commanding power of masters be bounded.
 
-- 1\. #emph[Justice] requireth two things,
-  - 1\. A #emph[restraint] of masters commandments.
-  - 2\. An #emph[execution] thereof.
++ #emph[Justice] requireth two things,
+  + A #emph[restraint] of masters commandments.
+  + An #emph[execution] thereof.
 
 The restraint is unto Gods law, that a master command nothing against it, but what is agreeable to it. #emph[Abishai] would #footnote[Nothing unlawful to be commanded by masters. 1 #emph[Sam.] 26. 9.] fain have had #emph[Davids] warrant to have killed #emph[Saul:] but #emph[David] was so far from commanding him to do it, as he kept him from it.
 
