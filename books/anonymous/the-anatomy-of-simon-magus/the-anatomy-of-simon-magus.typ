@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.9.0": *
+#import "@local/fgbooks:0.11.0": *
 #import "common.typ": chapter
 
 #set outline(depth: 2)
