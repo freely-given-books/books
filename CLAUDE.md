@@ -105,6 +105,11 @@ one. A sign-off holds while the book's folder is as tagged: any later
 change, a colophon release that rewrites the TEI included, holds the book
 back until it is signed off again (the `releases` workflow warns on such a
 PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
+A whole version vN is a print revision and matches Lulu's revision N. A fix
+to the ebook alone is a point version, `./fgb release sign BOOK --ebook` (or
+`./release --ebook BOOK`): vN.1, vN.2, signed only when the print PDFs and
+covers render the same as at the last sign-off, page for page; its print
+files are still released as vN.
 
 Day to day, `./release [BOOK ...]` at the root does all of it: signs off
 each BOOK not yet signed off (and pushes its tag), runs `make`, and after a
