@@ -154,7 +154,7 @@ Both these are justified by the like affection of Christ to the Church which is 
 
 === §. 57. #emph[Of natural self-love.]
 
-#strong[#emph[Object.] Lovers of themselves are condemned in Gods word, as 2 #emph[Tim.] 3. 2. #emph[Phil.] 2. 21. 1 #emph[Cor.] 10. 24. #emph[Rom.] 15. 1.]
+#emph[Object.] Lovers of themselves are condemned in Gods word, as 2 #emph[Tim.] 3. 2. #emph[Phil.] 2. 21. 1 #emph[Cor.] 10. 24. #emph[Rom.] 15. 1.
 
 #emph[Answ.] There is a double loving of a mans self. #footnote[The several kinds of self-love.] One good and commendable: the other evil, and damnable.
 
@@ -173,8 +173,8 @@ Spiritual self-love is that which is supernaturally wrought in man by Gods Spiri
 
 The self-love which is evil swerveth in the
 
-+ #emph[Object.]
-+ #emph[Measure.]
+- #emph[Object.]
+- #emph[Measure.]
 
 1\. In the #emph[Object,] when it is cast upon our corruptions, our lusts, our evil humors: when we affect and love them, and for them pursue whatsoever may satisfy them: as the ambitious, lustful, riotous, gluttonous, and other like persons. This is expressly forbidden, #emph[Make not provision for the flesh to fulfill] #footnote[#emph[Rom.] 13. 14.] #emph[the lusts thereof.]
 
@@ -247,7 +247,7 @@ The second evidence of that love which a man beareth to himself, is noted in two
 
 If he be worse then an Infidel that provideth not for his #footnote[1 #emph[Tim.] 5. 8. #emph[Inconcussa naturae lege diligimus nos ipsos, quae in bestias etiam promulgata est. Aug. de Doct. Chr. li.] 1. #emph[ca.] 26.] own, what is he that provideth not for himself? Even worse then a beast: for nature hath taught the brute beasts to nourish and cherish themselves. If any think that it more befiteth beasts, or natural men then Saints, let them tell me which of the Saints at any time guided by Gods Spirit, hath wholly neglected himself. To omit all others, it is expressly noted of Christ, that as there was occasion, he #footnote[#emph[Mat.] 8. 24.] slept, he #footnote[#emph[Luke] 14. 1.] eat, he #footnote[#emph[John] 4. 6.] rested, and otherwise refreshed himself.
 
-#strong[#emph[Object.] Though he were #footnote[#emph[Joh.] 4. 31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.]
+#emph[Object.] Though he were #footnote[#emph[Joh.] 4. 31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.
 
 #emph[Answ.] 1. Forbearing one meal, is no great hindrance of #footnote[Lawful fasts no hindrance to the cherishing of the body.] cherishing the body.
 

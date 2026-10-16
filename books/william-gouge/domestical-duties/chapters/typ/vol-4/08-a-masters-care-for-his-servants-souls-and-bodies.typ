@@ -30,7 +30,7 @@ That masters may the better edify their servants,
 
 Contrary is the mind and practise of most masters: they think if they allow their servants sufficient diet, lodging, and clothing, or wages according to their covenant, they have done all that they need to do: and answerably they do no more: wherein they show themselves no better then the heathen. For do not the heathen so?
 
-#strong[#emph[Object.] At first taking of a servant no more was covenanted.]
+#emph[Object.] At first taking of a servant no more was covenanted.
 
 #emph[Answ.] There are two covenants whereunto a master standeth bound: one with God; the other with his servant. Though his covenant with his servant requireth no more then some temporal commodities, yet Gods covenant requireth spiritual edification. Many masters are so greedy of their servants work, as they are loth to afford any time, at morning or evening, for religious exercises: they think by their servants labour to thrive, and think not of Gods blessing which maketh rich. Some go so far therein, as they keep their servants from the public worship of God, even on the Lords day. Thus it cometh to pass, that servants, who came ignorant and profane to a master, after long abode with him, so go away as they came. Many that themselves make some conscience of fearing God, much fail herein: they regard not to teach their servants the fear of God, whereby they deprive themselves of much blessing, and pull Gods curse upon their persons and houses.
 
@@ -44,7 +44,7 @@ A due provision of food for servants is commended in #emph[Solomons] #footnote[S
 
 The food which masters provide for their servants must be for #emph[quality,] good and wholesome; for #emph[quantity,] sufficient to preserve health and increase strength; for #emph[time,] given in due season. It is noted that #emph[the hired servants] of the father of the #footnote[#emph[Luk.] 15. 17.] prodigal child had #emph[bread] (by #emph[bread] according to the Scripture phrase is meant all kind of needful wholesome food: in which sense it must needs be there taken, because it is opposed to #emph[husks,] which are not very wholesome, fitter for swine then men) yea they had #emph[bread enough.] It is further noted of that good steward who was, as a master, #emph[ruler over the household,] that #footnote[#emph[Luk.] 12. 42.] he gave the household #emph[their portion of meat in due season.]
 
-#strong[#emph[Quest.] May not servants be stinted of their food?]
+#emph[Quest.] May not servants be stinted of their food?
 
 #emph[Answ.] In regard of #emph[superfluity] they may and ought to be stinted, but not in regard of #emph[sufficiency.] It is not meet that all servants should have as much as they can devour: for then many of them would do but little work: but most meet it is that every one should have as much as is needful for strength, that so he may be the better able to do and endure his work: the Greek word translated in the #footnote[#emph[Luk.] 12. 42. σιτομέτριον.] place before quoted #emph[portion,] implieth as much.
 
@@ -112,11 +112,11 @@ The other time of rest (being the Sabbath day) is by divine #footnote[Servants m
 
 Contrary to both the forenamed times of rest do many masters offend: as first, they who make their servants watch too long at night, and again, rise too soon in the morning, not affording so much time of rest and sleep as is needful for refreshing their bodies, and repairing their strength: whereby it cometh to pass that (beside the wrong done to their poor servants) their work cannot be done so well.
 
-#strong[#emph[Object.] It is said of the forenamed good housewife, that #emph[her] #footnote[#emph[Pro.] 31. 18.] #emph[candle is not put out by night.]]
+#emph[Object.] It is said of the forenamed good housewife, that #emph[her] #footnote[#emph[Pro.] 31. 18.] #emph[candle is not put out by night.]
 
 #emph[Answ.] That is a #emph[tropical] speech: and some-what #emph[hyperbolical.] The word #emph[night] is put for a part thereof. The phrase only implieth vigilancy, showing that she is not, as many, in the evening betimes in bed, and in the morning late up; but late down and early up. This phrase #emph[(she riseth while it is yet night)] #footnote[#emph[Vers.] 15.] used before, showeth that that which I have noted, is the true sense. If #emph[not putting out her candle by night,] should imply a sitting up all night long, how could it be said that #emph[she riseth up?]
 
-#strong[#emph[Quest.] What time may be thought sufficient to afford sleep #footnote[How long time for sleep to be allowed.] unto servants?]
+#emph[Quest.] What time may be thought sufficient to afford sleep #footnote[How long time for sleep to be allowed.] unto servants?
 
 #emph[Answ.] As the same quantity of food is not over-strictly to be proportioned to all alike, so nor the same continuance of sleep. Yet by experience it hath been observed that for sound and healthy bodies, five hours is the least time that may be allowed, and seven hours is time sufficient for any.
 
@@ -146,11 +146,11 @@ But if a master be careful of his sick servant, affording unto #footnote[2\. Fut
 
 But though the servant that is sick have in former time #footnote[3\. Charity.] been unprofitable, and there be little hope of future benefit by him, yet for charity sake, and in subjection to Gods disposing providence, whereby that servant is fallen sick in his masters house, must he in that case be well looked unto. If the Samaritan #footnote[#emph[Luke] 10. 33, 34.] did well in taking care of a mere stranger out of his house, because he saw him succourless, surely that master which neglecteth his servant that is sick in his house, doth very ill.
 
-#strong[1\. #emph[Quest.] What if he be not a covenanted servant for a set time, but a Journey-man at will, or one that worketh by the day or week?]
+1\. #emph[Quest.] What if he be not a covenanted servant for a set time, but a Journey-man at will, or one that worketh by the day or week?
 
 #emph[Answ.] Though a master be not so much bound to such an one, yet if he fall sick in his house, he may not in that case thrust him out of doors, unless he know where he may be well provided for.
 
-#strong[2\. #emph[Quest.] What if a master be poor, and not able to provide that which is requisite for a sick person?]
+2\. #emph[Quest.] What if a master be poor, and not able to provide that which is requisite for a sick person?
 
 #emph[Answ.] If the sick person have friends and kindred that are better able, they must provide for him: if not, the Church must help: but it is the masters duty, to make the sick mans case known to his friends, or to the Church.
 

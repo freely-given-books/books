@@ -1,11 +1,11 @@
 == A Husband’s Patient Correcting of His Wife
 
-=== §. 24. #emph[Of the] #footnote[Treat. 3. §. 13. 14. Wherein a husbands mildness is manifested.] #emph[Titles which an husband giveth to his wife.]
+=== §. 24. #emph[Of the Titles which an husband giveth to his wife.]#footnote[Treat. 3. §. 13. 14. Wherein a husbands mildness is manifested.]
 
 The forenamed #emph[mildness] of an husband must be manifested in his
 
-+ #emph[Speech.]
-+ #emph[Carriage.]
+- #emph[Speech.]
+- #emph[Carriage.]
 
 For so far as #emph[reverence] extends it self in the duties of wives, must #emph[mildness] be extended in the duties of husbands.
 
@@ -37,7 +37,7 @@ In this case to manifest meekness, let these rules be observed. #footnote[Direct
 
 Contrary is an harsh and rough manner of instructing, when husbands go about to thrust into their wives heads, as it were by violence, deep mysteries which they are not able to conceive, and yet if they conceive not, they will be angry with them, and in anger give them evil language, and proclaim their ignorance before children, servants, and strangers. This harshness is ordinarily so fruitless, and withal so exasperateth a womans spirit, as I think he were better clean omit the duty then do it after such a manner.
 
-=== §. 26. #emph[Of an husbands manner of] #footnote[Treat. 3. §. 43, 51, 52. 63, 64. #emph[etc.] Commandments to be ordered with mildness.] #emph[commanding his wife any thing.]
+=== §. 26. #emph[Of an husbands manner of commanding his wife any thing.]#footnote[Treat. 3. §. 43, 51, 52. 63, 64. #emph[etc.] Commandments to be ordered with mildness.]
 
 3\. The commandments which an husband giveth to his wife, whether they be #emph[affirmative] (bidding her to do something) or #emph[negative] (forbidding her to do this or that) must all be seasoned with #emph[mildness.] For which end respect must be had to the #emph[matter] and #emph[manner] of his commandments.
 
@@ -65,7 +65,7 @@ And on the contrary, the things which he forbiddeth must be
 
 2\. Though the husbands command be sufficient warrant to the wife, and if he peremptorily press her to this or that, she ought to yield, yet the love and mildness required of an husband should make him so to tender her as to remit something of his power, and when he seeth her conscience troubled about his command, to relieve her conscience by forbearing to press that which seemeth so burdensome to her. A husband may sin in pressing that too much upon his wife, which she upon his pressing may without sin yield unto.
 
-=== §. 27. #emph[Of an husbands] #footnote[Treat. 4. §. 66.] #emph[wise carriage when his wife is erroneously scrupulous.]
+=== §. 27. #emph[Of an husbands wise carriage when his wife is erroneously scrupulous.]#footnote[Treat. 4. §. 66.]
 
 2\. #emph[Object.] What if an husband upon his knowledge observe his wife to be erroneously scrupulous, and to misinterpret and misapply the word of God which she maketh the ground of her scruple?
 
@@ -76,7 +76,7 @@ And on the contrary, the things which he forbiddeth must be
 
 By the reasons which she rendereth, and her manner of pressing #footnote[How a wives refusing to yield may be discerned to be an obstinacy or weakness.] them, he may discern whether weakness or obstinacy make her stand out against him: if the reason which she resteth on taken from Gods word be doubtful, and to one that hath not a good sound judgment, and a sharp discerning wit, it may appear to make something for her, it is to be presupposed that there is more weakness then stoutness in her. But if she can render no good reason, but only take every show that any way seemeth to incline to her words, and peremptorily holdeth the conclusion, and stiffly standeth on her own resolution, though the vanity of her pretences be evidently discovered to her, so as she hath not any thing further to object; or if she render no reason at all but her own thought, conceit and will, and yet refuseth to yield, surely obstinacy possesseth her heart. In case of obstinacy it is very expedient that an husband stand upon his power to maintain his authority, and by the best wisdom he can (using only such means as are lawful) bring her to yield from her stoutness to that which he requireth: especially if the matter be weighty: as in case a religious man have been married to a Popish wife, and she by no reason will be moved to forbear going to Mass, or yield to go to the preaching of the Gospel. But if through #emph[weakness] she cannot be persuaded of the lawfulness of that her husband requireth, and the matter required be of no great consequence, nor the weakness of her conscience cause any great error, an husband ought so far to manifest his mildness as to forbear to press her conscience.
 
-=== §. 28. #emph[Of an husbands] #footnote[Treat. 3. §. 43, 44. #emph[etc.]] #emph[forbearing to press things unbeseeming a wives place.]
+=== §. 28. #emph[Of an husbands forbearing to press things unbeseeming a wives place.]#footnote[Treat. 3. §. 43, 44. #emph[etc.]]
 
 3\. Things unbeseeming the place of a wife are dishonourable unto her: for an husband to urge his wife by strict charge to do them, implieth more rigorousness then mildness. Had the spirit of that stout Monarch #emph[Ahasuerus] been more mild towards his wife, he would not have so far pressed his wife unto so unseemly a thing as he did, namely, to come before all his Princes and people to make show of her beauty. It is true indeed (as we showed #footnote[Treat. 3. §. 28.] before) that she offended in refusing to yield thereunto, he peremptorily requiring it; but that offence on her part doth not justify his fact, and free him from all blame: it is noted, that #emph[he was merry with wine,] when he gave that commandment, #footnote[#emph[Est.] 1. 10.] whereby is intimated, that his practise was more beseeming a drunken, then a sober man: such is their practise who exact of their wives to do such businesses as beseem maid-servants rather then wives, or strumpets rather then honest women; as to go to taverns, ale-houses, play-houses, and such places where light companions be.
 
@@ -107,7 +107,7 @@ As the use of an husbands authority in commanding must be #footnote[2\. Commandi
 
 Contrary is the insolency of many, who cannot speak to their wives, but in commanding-wise. Their authority is like a swaggerers sword, which cannot long rest in the sheath, but upon every small occasion is drawn forth. This frequent use of commanding, maketh their commandments nought regarded. The like may be said of them who are too peremptory in commanding: there must be no saying of nay, to that which they say: upon command they will have their mind done, and no other way: no persuasion, no entreaty shall be used: they will rather not at all have their will done, then not upon absolute command: nay they will not suffer others, in case of any refusal, to entreat, or persuade, but will try what absolutely they can do by authority. Thus as by trying to bend steel how far it will go, it oft breaketh; so by putting their authority to the uttermost trial, they oft lose all their authority: in which case #emph[the mends] (as we speak) #emph[is in their own hands.]
 
-=== §. 33. #emph[Of an husbands] #footnote[Treat. 3. §. 47. Husbands ought to reprove.] #emph[reproving his wife.]
+=== §. 33. #emph[Of an husbands reproving his wife.]#footnote[Treat. 3. §. 47. Husbands ought to reprove.]
 
 4\. The authority and charge which God hath given to an husband over his wife, do require that as good and just occasion is offered, he should reprove her: for this is an especial means to draw her from those sins, wherein otherwise she might live and lie, yea and die also; and so live, lie, and die under Gods wrath: out of which misery and wretchedness to free a wife, is as great a token of love, as to pull her out of the water when she is in danger of drowning, or out of the fire when she is in danger of burning. #emph[Solomon] thus styleth reproofs, #footnote[#emph[Pro.] 15. 31.] #emph[reproofs of life,] and expressly noteth #footnote[#emph[&] 6. 23.] #emph[reproofs] to be #emph[the way of life,] a means to breed and preserve spiritual life, and to bring one unto eternal life, and so to escape death and damnation. In these respects rebukes are called #emph[a precious balm,] or #emph[excellent oil,] which may heal a wound, but make none: it #footnote[#emph[Psal.] 141. 5. See the fruits of reproof, Treat. 3. §. 47.] #emph[breaketh not the head,] as the Psalmist speaketh. Upon this ground, no doubt, it is noted of many good husbands, who were without all question, loving, kind, meek, and mild husbands, that they reproved their wives: as #footnote[#emph[Gen.] 30. 2.] #emph[Jacob,] #footnote[#emph[Job] 2. 10.] #emph[Job,] #footnote[2 #emph[Sam.] 6. 21, 22.] #emph[David,] and others.
 
@@ -115,7 +115,7 @@ Contrary is the insolency of many, who cannot speak to their wives, but in comma
 
 Contrary is a servile and timorous mind of many husbands, who are loth to offend, and (as they think) to provoke their wives; and thereupon choose rather to let them continue in sin, then tell them of it. Wherein they both dishonour their place, and the image of God, which by virtue of their place they carry, and also in effect and in truth hate their wives; which the Law implieth, where it saith, #emph[Thou shalt not hate thy brother in thine heart,] #footnote[#emph[Levit.] 19. 17.] #emph[but shalt plainly rebuke thy neighbour, and not suffer sin upon him.]
 
-=== §. 35. #emph[Of] #footnote[Treat. 3. §. 47. An husbands reproof must be sweetened with mildness.] #emph[well ordering reproof in the matter thereof.]
+=== §. 35. #emph[Of well ordering reproof in the matter thereof.]#footnote[Treat. 3. §. 47. An husbands reproof must be sweetened with mildness.]
 
 That an husband may evidently demonstrate that his reproving of his wife is indeed a fruit of his love, he must have an especial care to sweeten it, especially with mildness: for it is the bitterest pill that by an husband can be given to a wife. It is a verbal correction, & in that respect a middle means (as I may so speak) betwixt admonition and correction; partaking somewhat of both: it goeth no further then words, and so is an admonition: the words of a reproof are sharp, and so it is a correction: though it be but a mild correction, yet it is a sharp admonition; and all the correction which by himself an husband can give his wife: for we shall #footnote[§. 44.] after show that he may not proceed to blows, and strokes.
 
@@ -152,8 +152,8 @@ Like directions to those which were given for the manner #footnote[Manner of rep
 
 Reproofs therefore must be
 
-+ #emph[Rare.]
-+ #emph[Meek.]
+- #emph[Rare.]
+- #emph[Meek.]
 
 When reproofs are #emph[seldom] used, not but upon urgent and #footnote[1\. Seldom.] necessary occasion, 1. It showeth that an husband taketh no delight in rebuking his wife, but is even forced thereto. 2. It maketh his wife much more regard it. 3. It is like to work a more perfect cure, for seldom and rare reproofs do commonly pierce most deeply.
 
@@ -165,7 +165,7 @@ Contrary is continual chiding, and finding fault with a #footnote[Contrary, cont
 
 When an husband is alone with his wife, then is the fittest #footnote[3\. Reprove in secret. #emph[Mat.] 18. 15.] season for reproof: thus will reproof be answerable to Christs direction: #emph[tell him his fault between thee and him alone] (saith Christ of a brother:) but no brother must be tendered more then a wife. Thus will it also soak better into her soul, when no conceit of dishonour and discredit shall arise up to hinder the work of it: which conceits will be ready to arise when a reproof is given in public before others. Thus likewise will occasion be taken away from children and servants of despising her: which otherwise they would quickly take, if before them she should be rebuked; gathering from thence, that she is kept under as much as they: now because she is with him a joint governor of them, he ought by all means to maintain her reputation before them.
 
-#strong[1\. #emph[Quest.] What if she regard not a rebuke in secret? #footnote[Direction for reproving such a wife as regardeth not a secret reproof. #emph[Mat.] 18. 15.]]
+1\. #emph[Quest.] What if she regard not a rebuke in secret? #footnote[Direction for reproving such a wife as regardeth not a secret reproof. #emph[Mat.] 18. 15.]
 
 #emph[Answ.] He may follow Christs direction, #emph[Take one or two more,] namely wise, grave, faithful friends, if it may be, of her kindred, as her parents (if she have any living) or such as are in course of nature next to parents (if they be not partial on her side) and before them rebuke her: but by no means before any of the house under her government.
 
@@ -175,7 +175,7 @@ When an husband is alone with his wife, then is the fittest #footnote[3\. Reprov
 
 2\. #emph[A soft tongue] (as #emph[Solomon] noteth) #emph[breaketh the bones,] #footnote[4\. Reprove gently. #emph[Pro.] 25. 15.] that is, softeneth an hard heart, and beateth down a stout stomach. How will it then work upon a soft heart, and gentle disposition? If therefore an husband look to do good by reproving his wife, his reproof must be so ordered, as it may seem to be rather a gentle admonition, then a sharp rebuke. He may and ought plainly to declare her fault unto her, but in mild and meek terms, without reviling, opprobrious and ignominious words.
 
-#strong[#emph[Quest.] What if her fault be an heinous notorious sin?]
+#emph[Quest.] What if her fault be an heinous notorious sin?
 
 #emph[Answ.] In an extraordinary case some sharpness may be #footnote[A reproof may be sharp not bitter. #emph[Gen.] 30. 2. #emph[Job] 2. 10.] used: as the reproofs of #emph[Jacob, Job,] and #emph[David] do show, for they were every one of them sharp: but yet this sharpness must not be made bitter by any evil language. A womans wickedness may not move an husband to be froward, and #footnote[2 #emph[Sam.] 6. 21, 22. Rebuke never to be given by a man in passion.] outrageous; but rather to be the more watchful over himself, that he contain himself within the bounds of discretion and moderation. For which end it is meet that husbands lay it down for a rule, never to rebuke their wives when they are in passion. Passion raiseth a dark mist before the eyes of reason; which, while it remaineth, keepeth reason from giving any good direction. Yea passion is as a fire, and it so incenseth a man, and distempereth him, that in his disorder he can keep no mean or measure. Howsoever a man be not able to rule himself when passion is stirred up, yet, if before hand while #emph[his eye is single, and his whole body light,] while he is #emph[in tune] (as we #footnote[#emph[Mat.] 6. 22.] speak) and well tempered, he resolvedly determine with himself not to do such or such a thing in his passion; that fore-going resolution will be an especial means to make him forbear doing that in passion, which if he should do, he could not in passion well order and moderate. For if once he begin to do a thing in passion, the least provocation that can be, will be as bellows to blow up that fire into a flame.
 

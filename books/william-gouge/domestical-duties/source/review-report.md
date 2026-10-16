@@ -2,25 +2,27 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 647 |
-| emendation | 313 |
+| spelling | 648 |
+| emendation | 316 |
+| case | 148 |
 | grammar | 147 |
-| case | 146 |
-| list | 132 |
-| punctuation | 90 |
-| note moved | 54 |
-| italic | 53 |
+| list | 134 |
+| note moved | 118 |
+| punctuation | 92 |
+| italic | 65 |
 | gap | 49 |
 | spacing | 47 |
+| merge | 28 |
 | expansion | 25 |
-| merge | 20 |
+| split | 10 |
 | note | 7 |
-| split | 7 |
 | epigraph | 2 |
 | skipped | 1 |
 
 ## split
 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] list → its last item runs on; set after it at 'Theſe'
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] list → its last item runs on; set after it at 'all'
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 2
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
@@ -28,6 +30,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
+- [vol-4/02-a-servants-reverence-for-his-master.typ] paragraph → 1 split(s) at 4
 
 ## skipped
 
@@ -129,6 +132,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] 116 → 119
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Ec l → Eccl
 - [vol-1/03-headship-in-marriage-and-the-church.typ] The → and the
+- [vol-1/03-headship-in-marriage-and-the-church.typ] Christ. → Christ and
 - [vol-1/03-headship-in-marriage-and-the-church.typ] samething → same thing
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
@@ -267,6 +271,7 @@
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Cor → 1 Cor
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] herequireth → he requireth
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Treat → Treat. 4
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ] Of submission hitherto . → 
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] dic as → dicas
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] for bear → forbear
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] for sake → forsake
@@ -376,6 +381,7 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] abipsis → ab ipsis
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] consecre tur → consecretur
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] l . eonidis → Leonidis
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] maneinde → mane. inde
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] semelest → semel est
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] in genuity → ingenuity
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] bean → be an
@@ -527,6 +533,7 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] § → §.
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] . → 
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → 
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ] . → . Of submission hitherto.
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] , → .
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] . → 
 - [vol-2/12-a-wifes-submission-to-christ-first.typ] § → §.
@@ -567,6 +574,7 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → , (
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → ,
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] ; → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ] : → .
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] , → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
@@ -586,7 +594,7 @@
 ## case
 
 - holy → Holy (×27)
-- The → the (×12)
+- The → the (×13)
 - children → Children (×8)
 - That → that (×4)
 - love → Love (×4)
@@ -645,6 +653,7 @@
 - Verbal → verbal
 - Wrinkle → wrinkle
 - Years → years
+- all → All
 - child → Child
 - example → Example
 - honour → Honour
@@ -816,6 +825,7 @@
 - Philosophen → Philosophers
 - Phinchas → Phinehas
 - Phineas → Phinehas
+- Picl → Piel
 - Pro → Pro.
 - Prov → Prov.
 - Qust → Quest

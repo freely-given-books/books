@@ -70,9 +70,7 @@ And if servants be impudent in sinning, and neither fair nor foul means will rec
 
 When #emph[Ismael] grew a scoffer at Gods word, #emph[Abraham] thrust #footnote[#emph[Gen.] 21. 9. #emph[etc.]] him and his mother out of doors, and that by Gods appointment. The parable of cutting down the fruitless figtree may fitly be applied to this point: and the reason also there rendered #emph[(why cumbereth it the ground?)] Why should incorrigible servants #footnote[#emph[Luke] 13. 7. #emph[etc.]] take up the room of good servants? Yea why should they remain to infect and pervert other servants?
 
-#strong[Object.]
-
-This is so far from helping servants in their estate, as it may prove their utter undoing.
+#emph[Object.] This is so far from helping servants in their estate, as it may prove their utter undoing.
 
 #emph[Answ.] 1. They have then none justly to blame but themselves. Justice (in case of necessity) must have her course, though through the iniquity of man some mischief follow thereupon.
 
@@ -86,9 +84,7 @@ Contrary is their course who observe no course, or order #footnote[A servant is 
 
 A third thing required of masters in respect of the estate of their servants, is to give them their just wages: even this is included under that general precept, #footnote[#emph[Rom.] 13. 7.] #emph[render to all their dues:] and more particularly expressed in the example of #footnote[#emph[Matt.] 20. 8.] that master who hired labourers into his vineyard and at the end of their work gave them every one their wages: yea there is an express #footnote[#emph[Deut.] 24. 15.] law to this purpose.
 
-#strong[Object.]
-
-These places concern labourers hired by the day.
+#emph[Object.] These places concern labourers hired by the day.
 
 #emph[Answ.] Servants are in the same rank: and the ground for both is the same: for both work for wages. Yea the argument will more strongly follow from the less to the greater thus, If a labourer and servant for a day must have his wages justly paid, much rather a servant, and labourer for a year and years.
 

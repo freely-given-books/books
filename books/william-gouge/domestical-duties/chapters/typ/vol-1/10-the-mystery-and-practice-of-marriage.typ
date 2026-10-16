@@ -103,8 +103,8 @@ Two points are especially noted therein.
 
 Their distinct duties are noted in two words
 
-+ Love.
-+ Fear.
+- Love.
+- Fear.
 
 These two, as they are distinct duties in themselves, so are they also common conditions which must be annexed to all other duties. #emph[Love] as sugar to sweeten the duties of authority, which appertain to an husband. #emph[Fear] as salt to season all the duties of subjection which appertain to a wife. The Apostle therefore hath set them down as two marks for husbands and wives to aim at in every thing wherein they have to deal one with the other.
 

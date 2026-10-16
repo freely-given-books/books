@@ -44,7 +44,7 @@ The power which the one hath of the others body, and #footnote[Reasons for cohab
 
 === §. 15. #emph[Of the respects for which man and wife may for a time live asunder.]
 
-#strong[#emph[Quest.] May there be any just causes for man and wife willingly to live asunder?]
+#emph[Quest.] May there be any just causes for man and wife willingly to live asunder?
 
 #emph[Answ.] There can nor ought to be any cause of utter relinquishing one another, which is a kind of #footnote[§. 3.] #emph[desertion:] but for living asunder for a time there may be just causes, as
 

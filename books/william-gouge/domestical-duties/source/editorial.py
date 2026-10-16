@@ -16,6 +16,10 @@ SKIP_DIVISIONS = {"title_page", "table_of_contents"}
 # chapters); a question or objection inside a section has a run-in head.
 DIV_LEVELS = {"section": 3, "dedication": 2, "errata": 2}
 RUN_IN_DIVS = {"question", "dedication"}   # the dedication's address, in bold
+# Questions and objections as 1622 sets them: an ordinary paragraph opening
+# with an italic "Object." / "Quest." like the answers (the TCP keyed some as
+# heads, some as paragraphs; none is set apart in print, p. 516).
+RUN_IN_PLAIN = {"question"}
 
 EDITION = json.loads((Path(__file__).parent / "edition.json").read_text(encoding="utf-8"))
 

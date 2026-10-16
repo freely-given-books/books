@@ -69,7 +69,7 @@ The Apostle thus describeth masters for these reasons.
 
 5\. For #emph[direction:] to show in what things especially that obedience which properly belongeth to a master consisteth: namely in civil, outward things: for every one must be served according to his nature. As God being spirit, must in spirit be served: so man being flesh must in flesh be served. Now this service in the flesh is not opposed to sincere and upright service, but to spiritual. Thus by consequence that may be intended, which some would have principally to be meant.
 
-#strong[#emph[Object.] Masters may command spiritual things, namely to worship God, and after such and such a manner.]
+#emph[Object.] Masters may command spiritual things, namely to worship God, and after such and such a manner.
 
 #emph[Answ.] Of his own head he cannot command such things: there must be an higher warrant for the doing of them then the commandment of a man.
 
@@ -116,8 +116,8 @@ The vice here noted to be contrary to sincere service is termed #footnote[ὀφ�
 
 And that is twofold
 
-+ #emph[Hypocritical.]
-+ #emph[Parasitical.]
+- #emph[Hypocritical.]
+- #emph[Parasitical.]
 
 #emph[Hypocritical] service is that which is merely in show: when that is pretended to be done which indeed is not done; as if a servant should come from his masters work all in a sweat, as if he had taken extraordinary pains therein, whereas he hath done nothing at all, but otherwise made himself to sweat, or only made a show of sweat.
 

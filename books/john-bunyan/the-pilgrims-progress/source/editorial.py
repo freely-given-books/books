@@ -50,7 +50,8 @@ STAGES = ["FIRST", "SECOND", "THIRD", "FOURTH", "FIFTH", "SIXTH", "SEVENTH",
 def LAYOUT(root):
     """The Apology; Part One in ten stages and the Conclusion; Part Two's
     title, the Author's Way, To the Reader and eight stages. The PART ONE /
-    PART TWO headings belong to the-pilgrims-progress.typ."""
+    PART TWO headings belong to the-pilgrims-progress.typ; "part" gives the
+    ebook the same two, so its contents nest the stages under them."""
     divs = layout.top_divs(root)
     by_id = {d.get("{http://www.w3.org/XML/1998/namespace}id"): d for d in divs}
     apology, part1, part2 = by_id["ccel-iii"], by_id["ccel-iv"], by_id["ccel-v"]
@@ -59,12 +60,13 @@ def LAYOUT(root):
     subs = [c for c in part1 if layout.local(c) == "div"]
     for i, d in enumerate(subs[:10]):
         files.append({"file": f"part-1/stage-{i + 1:02d}.typ",
-                      "title": f"THE {STAGES[i]} STAGE", "parts": layout.sections(d)})
+                      "title": f"THE {STAGES[i]} STAGE", "parts": layout.sections(d),
+                      "part": "PART ONE" if i == 0 else None})
     files.append({"file": "part-1/conclusion.typ", "title": "CONCLUSION",
                   "parts": layout.sections(subs[10])})
     subs = [c for c in part2 if layout.local(c) == "div"]
     files.append({"file": "part-2/title.typ", "title": None,
-                  "parts": layout.sections(part2, 1, 0)})
+                  "parts": layout.sections(part2, 1, 0), "part": "PART TWO"})
     files.append({"file": "part-2/authors-way.typ", "title": "THE AUTHOR’S WAY",
                   "parts": layout.sections(subs[0])})
     files.append({"file": "part-2/to-the-reader.typ", "title": "TO THE READER",

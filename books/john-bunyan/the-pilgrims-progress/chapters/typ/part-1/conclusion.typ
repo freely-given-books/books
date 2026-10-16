@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.9.0": speech, stanza
+#import "@local/fgbooks:0.12.0": speech, stanza
 
 == CONCLUSION
 

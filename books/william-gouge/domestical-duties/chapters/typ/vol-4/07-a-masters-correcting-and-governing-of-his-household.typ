@@ -27,11 +27,11 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 5\. The#footnote[#emph[Si Dominus seruum ceciderit, vel lethal vulnus inflixerit, revs homicidij sit. Justin. Cod. l.] 9. #emph[tit.] 18.] approved laws of men make it wilful murder for a master to slay his servant wittingly, though the servants fault be never so heinous. Neither the authority of the master, nor desert of the servant, shall exempt the master that slayeth his servant from the guilt and punishment of felony.
 
-#strong[#emph[Object.] In ancient times masters had this power.]
+#emph[Object.] In ancient times masters had this power.
 
 #emph[Answ.] They never of right had it, though some might exercise it. Among Gods people it was never exercised in any age of the world. That liberty which was taken, was among the heathen: and yet among them as polities came to be more #footnote[#emph[Apud Gentes animaduertere possumus Dominis in seruos vitae, necisque potestatem fuisse. Sed hoc tempore nullis hominibus qui sub imperio nostro sunt, licet fine causa legibus cognita in seruos suos supra modum saeuire Nam ex constit. Antonini qui sine cause seruum suum occiderit, non minus puniri iubetur, quam si alienum seruum occiderit. Iustin. Jnstit. l.] 1. #emph[Tit.] 8. #emph[Domini mitiores esse debent. Cypr. Testim. l.] 3. #emph[c.] 73.] and more civilly governed, that usurped liberty by the laws of Magistrates was much restrained: and when Emperors and Kings became Christians, it was utterly taken away.
 
-#strong[#emph[Object.] If a man take an enemy by war, he hath power to kill him.]
+#emph[Object.] If a man take an enemy by war, he hath power to kill him.
 
 #emph[Answ.] If in the time of the war he slay him not, but then spare him, and take him as a captive, and make him his servant, though but a bondslave, he hath not power of his life.
 
@@ -67,7 +67,7 @@ Many aberrations are daily committed contrary to every branch of this direction,
 
 The third point to be noted concerning a masters power over his servant, is about his servants marriage. Sundry questions are moved about this point, which I will briefly resolve.
 
-#strong[1\. #emph[Quest.] Have masters power to order and dispose their servants marriage as they please?]
+1\. #emph[Quest.] Have masters power to order and dispose their servants marriage as they please?
 
 #emph[Answ.] No, not without the free consent of the servants themselves: for marriages must be made with the free consent of the parties that are married.
 
@@ -77,21 +77,21 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 2\. The masters power of giving did not simply force the servant to marry the party so given: but restrained the servant from marrying any other then whom the master should give.
 
-#strong[2\. #emph[Quest.] Is not a masters power in the matter of marriage as great over a servant, as a parents over a child?]
+2\. #emph[Quest.] Is not a masters power in the matter of marriage as great over a servant, as a parents over a child?
 
 #emph[Answ.] No. See the reason Treat. 5. §. 20.
 
-#strong[3\. #emph[Quest.] May a master deny his servant liberty to marry?]
+3\. #emph[Quest.] May a master deny his servant liberty to marry?
 
 #emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Jobs] servants bond and free, as well as on his goods: which he could not have done, if #emph[Jobs] servants had not been as his goods.
 
 Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase which the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
 
-#strong[4\. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?]
+4\. #emph[Quest.] What if servants marry without consent of masters, is that marriage nullified thereby?
 
 #emph[Answ.] No. The marriage being otherwise rightly performed, #footnote[Quod fieri non debet factum valet.] remaineth a firm marriage: though the servants in so doing have sinned: for which their master may justly punish them.
 
-#strong[5\. #emph[Quest.] May a master keep his servants so married without his consent from their bed-fellows?]
+5\. #emph[Quest.] May a master keep his servants so married without his consent from their bed-fellows?
 
 #emph[Answ.] He may exact the whole time of his covenant for service: but that power which by the bond of marriage husbands and wives have over one anothers bodies, suffereth #footnote[1 #emph[Cor.] 7. 3, 4.] them not to be altogether separated one from another. Besides, our law freeth a maid-servant when she is married, from her masters covenant.
 

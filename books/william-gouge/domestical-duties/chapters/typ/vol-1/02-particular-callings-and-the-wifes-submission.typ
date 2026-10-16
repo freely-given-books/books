@@ -51,7 +51,7 @@ Know therefore, O husbands and wives, that ye, above #footnote[Use.] all other i
 
 In handling the duties of the first forenamed couple, the Apostle beginneth with wives, and layeth down their particular duties in the first place. The reason of this order I take to be the #emph[inferiority] of the wife to her husband. I do the rather take it so to be, because I observe this to be his usual method and order, first to declare the duties of inferiors, and then of superiors: For in handling the duties of #footnote[#emph[Eph.] 6. 1.] children and parents, and of #footnote[#emph[Ephes.] 6. 5.] servants and masters, he beginneth with the inferiors, both in this, and #footnote[#emph[Col.] 3. 18, 20, 22.] in other Epistles; which order also #footnote[1 #emph[Pet.] 3. 1.] #emph[S. Peter] observeth: yea, #footnote[#emph[Exod.] 20. 12.] the law it self doth in the first place, and that expressly, mention the inferiors duty, only implying the superiors to follow as a just consequence, which is this, #emph[If the inferior must give honour, and by virtue thereof perform such duties as appertain thereto, then must the superior carry himself worthy of honour, and by virtue thereof perform answerable duties.]
 
-#strong[#emph[Quest.] Why should inferiors duties be more fully #footnote[Inferiors duties first taught, because they are most backward and loth to perform them.] expressed, and placed in the first rank?]
+#emph[Quest.] Why should inferiors duties be more fully #footnote[Inferiors duties first taught, because they are most backward and loth to perform them.] expressed, and placed in the first rank?
 
 #emph[Answ.] Surely because for the most part inferiors are most unwilling to undergo the duties of their place. Who is not more ready to rule, than to be subject?
 
@@ -83,7 +83,7 @@ But if question be made who shall begin, I advise inferiors not to stand out in 
 
 === §. 11. #emph[Of the reasons why wives duties are first taught.]
 
-#strong[#emph[Quest.] Why among other inferiors are wives first brought into the school of Christ to learn their duty?]
+#emph[Quest.] Why among other inferiors are wives first brought into the school of Christ to learn their duty?
 
 #emph[Answ.] Many good reasons may be given of the Apostles order even in this point.
 

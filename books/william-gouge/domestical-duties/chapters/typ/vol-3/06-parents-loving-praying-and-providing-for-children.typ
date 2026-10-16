@@ -66,7 +66,7 @@ The #emph[Fountain] of parents duties is #emph[love.] #footnote[#emph[Tit.] 2. 4
 
 Great reason there is why this affection should be fast fixed in the heart of parents towards their children. For great is that pain, pains, cost, and care, which parents must undergo for their children. But if love be in them, no pain, pains, cost, or care, will seem too much. Herein appeareth the wise providence of God, who by nature hath so fast fixed love in the hearts of parents, as if there be any in whom it aboundeth not, he is counted unnatural. If love did not abound in parents, many children would be neglected and lost. For if parents look not to their children, who will? If none look to them, they must needs perish: for they are not able to help themselves. As God by nature hath planted #emph[love] in all parents, so Christians ought even for conscience sake, to nourish, increase, and blow up this fire of love, that they may thereby be made more forward to do every duty with cheerfulness. The more fervent love is, the more readily will every duty be performed. #footnote[As I have heretofore laid down #emph[Love] a fountain of wives, husbands, and childrens duties; so must I continue my course, and set it forth as the fountain of parents duties. For the Scripture hath noted it as a duty belonging to all and every of them: and therefore I might not omit it in any of them. Yet let not any thereupon think, that the same point is oft handled, and repeated again and again. For according to the several parties, and the several relation they have to others, there are several fruits of love: even as the same moisture of the earth causeth several and divers fruits, according to the several kinds of plants that receive that moisture. Compare the several places, where this general duty of #emph[love] hath been handled, and you will find the manner of handling to be different, and to afford new matter.]
 
-#strong[#emph[Object.] As too much fire is dangerous, so too much #emph[love.]]
+#emph[Object.] As too much fire is dangerous, so too much #emph[love.]
 
 #emph[Answ.] True. Wherefore as in other things, so in this, the golden mean must be kept. No duty so holy and necessary, but may be perverted. Let the extremes be avoided, and the mean will better be kept.
 
@@ -120,9 +120,7 @@ Thus doth the Lord extend the reward of righteous parents unto their children to
 
 4\. Lest Gods free election should seem hereby to be restrained.
 
-#strong[3\. #emph[Object.]]
-
-If this be so, what motive can it be unto parents to labour after righteousness for their childrens sake?
+3\. #emph[Object.] If this be so, what motive can it be unto parents to labour after righteousness for their childrens sake?
 
 #emph[Answ.] Though God do reserve in himself a freedom to order his blessings as it pleaseth him, and to bestow them upon whom he will: and thereupon sometimes blesseth the child of a wicked parent (instance #footnote[2 #emph[Chr.] 28. 27.] #emph[Hezekiah)] & denieth his blessing to the child of a righteous parent (instance #footnote[2 #emph[Sam.] 13. 14, 29. #emph[Relinque bonam filijs memoriam magis quàm diuitias multas. Bas serm. in Scrip. loc.]] #emph[Amnon)] yet in that it is a very usual course with him to extend his blessing (according to his promise) to the children of the righteous, it is a strong motive to such as desire the good of their children, the rather for their childrens sake to endeavour after righteousness: for thus do they use the means which by Gods word is warranted and sanctified for procuring Gods blessing to their children. Leave therefore a good memory to thy children rather then much wealth.
 
@@ -203,7 +201,7 @@ I. The consequences whereby the word implieth this duty are these:
 
 1\. In the blessing given to #emph[Joseph] thus speaketh old #emph[Jacob, God shall bless thee with the blessing of the breasts, and of the] #footnote[#emph[Gen.] 49. 25.] #emph[womb.] By the blessing of the womb, what can be meant, but children? By the blessing of the breasts, what, but milk, whereby those children are nourished? As if he had said; I will bless thee with such women, as shall both bear thee children, and also give suck to them which they bear. The consequence then is this: As it is a blessing to have children of a true lawful wife; so to have those children nursed of the same wife their mother.
 
-#strong[#emph[Object.] They have the blessing of breasts that have other women to nurse their children.]
+#emph[Object.] They have the blessing of breasts that have other women to nurse their children.
 
 #emph[Answ.] By the same reason it may be said, they have the blessing of the womb who have strange women to bear them children. But the joining of these two branches of blessing together, showeth that both must be taken in the same kind: so that as the blessing of the womb is to have children of a mans wife, so the blessing of the breasts is to have them nursed of his wife. If it be a blessing for the woman which beareth the child to give it suck, then mothers are bound to perform this duty.
 
@@ -268,7 +266,7 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 === §. 13. #emph[Of the objections for putting children forth to nurse.]
 
-#strong[#emph[Object.] Many nurses are mentioned in Scripture, as #emph[Rebekahs] #footnote[#emph[Gen.] 24. 59. 2 #emph[Sam.] 4. 4. 2 #emph[King.] 11. 2.] nurse, #emph[Mephibosheths] nurse, #emph[Joash] his nurse, and others.]
+#emph[Object.] Many nurses are mentioned in Scripture, as #emph[Rebekahs] #footnote[#emph[Gen.] 24. 59. 2 #emph[Sam.] 4. 4. 2 #emph[King.] 11. 2.] nurse, #emph[Mephibosheths] nurse, #emph[Joash] his nurse, and others.
 
 1\. #emph[Answ.] Such nurses mentioned in Scripture were commonly dry nurses. #emph[Rebekahs] nurse went with her before she was married: how can it be thought that she was a milch nurse? Could they tell when #emph[Rebekah] should have a child? Or when #footnote[#emph[Gen.] 35. 8.] she had one, that #emph[Deborah] (the nurse there mentioned) should have milk for her? It is said that #emph[Naomi became nurse to Ruths] #footnote[#emph[Ruth] 4. 16. & 1. 12.] #emph[child:] now #emph[Naomi] was old, long before this she was past child-bearing, without an husband for many years: how then was it possible that she should give suck? She was therefore a dry nurse, as other nurses mentioned in Scripture.
 
@@ -276,11 +274,11 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 3\. #emph[Answ.] Though it be said that there were nurses, yet is no where said, that a mother put forth her child to suck.
 
-#strong[2\. #emph[Object. Pharaohs] daughter put forth the child which she #footnote[#emph[Exod.] 2. 7.] took for her own to nurse.]
+2\. #emph[Object. Pharaohs] daughter put forth the child which she #footnote[#emph[Exod.] 2. 7.] took for her own to nurse.
 
 #emph[Answ.] She bare not this child, nor was the natural mother of it, so as this is nothing to the purpose. Yea it maketh against the objectors, in that the true mother of this child nursed it.
 
-#strong[3\. #emph[Object.] The metaphor taken from nurses is oft used, #footnote[#emph[Num.] 11. 12. 1 #emph[Thes.] 2. 7.] and applied to God, and to Gods ministers.]
+3\. #emph[Object.] The metaphor taken from nurses is oft used, #footnote[#emph[Num.] 11. 12. 1 #emph[Thes.] 2. 7.] and applied to God, and to Gods ministers.
 
 1\. #emph[Answ.] The using of a thing by way of comparison and resemblance doth not simply justify it: instance the parable of the unjust steward, and of a thief. #footnote[#emph[Luke] 16. 1. #emph[etc. Rev.] 16. 15.]
 
@@ -288,11 +286,11 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 3\. #emph[Answ.] The metaphors are most fitly taken from mothers that are nurses to their own children.
 
-#strong[4\. #emph[Object.] Many mothers have not such skill in giving suck as nurses have.]
+4\. #emph[Object.] Many mothers have not such skill in giving suck as nurses have.
 
 #emph[Answ.] Let them learn seeing it is their duty.
 
-#strong[5\. #emph[Object.] Mothers that are of great wealth and high place cannot endure the pain of nursing, nor take the pains in handling young children as they must be handled.]
+5\. #emph[Object.] Mothers that are of great wealth and high place cannot endure the pain of nursing, nor take the pains in handling young children as they must be handled.
 
 1\. #emph[Answ.] The greatest that be must set themselves to do that duty which God requireth at their hands, though it be with pain and pains. Note #emph[Sarahs] example before recorded.
 
@@ -302,29 +300,29 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 4\. #emph[Answ.] Though they put not forth their children to nurse, they may for their ease entertain a nurse, so they give suck themselves.
 
-#strong[6\. #emph[Object.] A mother that hath a trade, or that hath the care of an house, will neglect much business by nursing her child: and her husband will save more by giving half a crown a week to a nurse, then if his wife gave the child suck.]
+6\. #emph[Object.] A mother that hath a trade, or that hath the care of an house, will neglect much business by nursing her child: and her husband will save more by giving half a crown a week to a nurse, then if his wife gave the child suck.
 
 #emph[Answ.] No outward business appertaining to a mother can be more acceptable to God then the nursing of her child: this is the most proper work of her special calling, therefore all other businesses must give place to this, and this must not be left for any other business.
 
 As for the husbands saving by putting the child forth to nurse, no gain may give a dispensation against a bounden duty.
 
-#strong[7\. #emph[Object.] It will break tender fair women, and make them look old too soon.]
+7\. #emph[Object.] It will break tender fair women, and make them look old too soon.
 
 1\. #emph[Answ.] Gods ordinance must not give place to womens niceness. #emph[Sarah] was fair and old: The Virgin #emph[Mary] was fair and young.
 
 2\. #emph[Answ.] Drying up a womans milk will more break her, then her childes sucking of it: for it is a means both of better health, and also of greater strength, as to bear children, so to give them suck. Barren women and bearing women which put forth their children to suck, are most subject to sickness and weakness. The drawing forth of a womans milk by her child is a means to get and preserve a good stomach, which is a great preservative of good health.
 
-#strong[8\. #emph[Object.] Husbands are disturbed in the night time, and hindered of their sleep by their wives giving suck to their children.]
+8\. #emph[Object.] Husbands are disturbed in the night time, and hindered of their sleep by their wives giving suck to their children.
 
 1\. #emph[Answ.] By this reason neither mothers nor other nurses which have husbands, should give suck to children.
 
 2\. #emph[Answ.] Seeing children come from the loins of the father, as well as out of the womb of the mother, they must be content to endure some disturbance as well as their wives, and so much the rather that they may the more pity their wives, and afford unto them what help they can.
 
-#strong[9\. #emph[Object.] Many husbands will not suffer their wives to nurse their children themselves.]
+9\. #emph[Object.] Many husbands will not suffer their wives to nurse their children themselves.
 
 #emph[Answ.] Because it is a bounden duty, wives must use all the means they can by themselves or others to persuade their husbands to let them perform it: they must take heed that they make not this a pretext to cover their own sloth, and loathness to this duty: they may not make themselves accessary to their husbands fault by providing a nurse, and sending the child away themselves: if their husbands will stand upon their authority, and be persuaded by no means to the contrary, they must be mere patients in suffering the child to be taken away.
 
-#strong[10\. #emph[Object.] Many poor women maintain their house by nursing other folks children.]
+10\. #emph[Object.] Many poor women maintain their house by nursing other folks children.
 
 #emph[Answ.] If they were not that way employed, they might take pains in some other thing. But the gain of one may not make another neglect her duty.
 
@@ -334,7 +332,7 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 2\. God requireth #emph[mercy, and not sacrifice:] if therefore in #footnote[#emph[Hos.] 6. 6. #emph[Matt.] 9. 13.] truth it be so that the mothers giving suck to the child will be dangerous to her self or to the child, she may and ought to forbear: for giving suck is but as #emph[sacrifice] to preventing of danger, which is #emph[mercy.] But women must take heed that they pretend not inability, and danger without just cause. Some are themselves the cause of wanting milk because they will not let it be drawn down; or because they will not use means (for means there are) to get and increase milk. There are means also to raise nipples where the breasts are very flat. Refusing to give suck many times causeth some sickishness in a woman, and sore breasts, which might be prevented with the childes sucking. If the soreness be only in the nipples, a mother with enduring a little more pain may safely give the child suck. Many mothers have given their children suck when blood hath run by the mouth of the child by reason of sore nipples, and yet both mother and child done very well.
 
-#strong[12\. #emph[Object.] Divers children being nursed by the mother have died one after another.]
+12\. #emph[Object.] Divers children being nursed by the mother have died one after another.
 
 #emph[Answ.] Due and thorough search must be made by those that are skilful: and if any cause be found in the mother, then the rule holdeth, #emph[Mercy and not sacrifice:] but if none can be found, the issue must be referred to Gods providence: and the uncertain event must not be an hindrance to a known duty.
 
@@ -353,7 +351,9 @@ Contrary to this duty do all such mothers offend, as for any by-respects when no
 + Others upon pride, conceiting that their beauty would be impaired, and they look old too soon.
 + Others upon gain, because they can have a child cheaper nursed abroad then at home, where, at least, they must hire a maid the more.
 + Others upon pleasure, that they might more freely ride abroad, and meet their Gossips.
-+ Others upon other by-respects: all which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
++ Others upon other by-respects.
+
+All which do argue much self-love: little love to their child, and little respect to God. They can be counted but half-mothers: for nursing a child is as much as bearing and bringing it forth.
 
 === §. 16. #emph[Of a fathers fault in hindering his wives nursing of her child.]
 
@@ -379,7 +379,7 @@ That parents are bound to procure Baptism for their children these reasons decla
 
 2\. The #emph[practise of the Jews] in a faithful and constant observance of this ordinance: as of #emph[Abraham;] of #emph[Zachary] and #emph[Elizabeth:] of #emph[Joseph] and #emph[Mary,] and many others.
 
-#strong[#emph[Object.] The children which were born in the wilderness were not circumcised.]
+#emph[Object.] The children which were born in the wilderness were not circumcised.
 
 #emph[Answ.] They had no abiding place in the wilderness, but were ever and anon removing: so as it would have been dangerous for the children to have been circumcised: in that extraordinary case this rule took place, #emph[I will have mercy and] #footnote[#emph[Mat.] 12. 7.] #emph[not sacrifice.]
 

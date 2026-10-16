@@ -20,8 +20,8 @@ In the last place the duties of masters are declared by the Apostle, and that in
 
 The #emph[kinds] are set forth
 
-+ Generally #emph[(do the same things.)]
-+ Particularly #emph[(forbearing threatening.)]
+- Generally #emph[(do the same things.)]
+- Particularly #emph[(forbearing threatening.)]
 
 The #emph[reason] is taken from that subjection wherein masters are to an higher master #emph[(knowing that your master also.)] And it is amplified,
 
@@ -58,11 +58,11 @@ The first thing that a man, who taketh upon him to be a master, must take care o
 
 3\. When good servants are chosen, there is hope of receiving the more good from them, and doing more good unto them. They will be pliable to all good admonition, docible by all good instruction, serviceable in all things they take in hand.
 
-#strong[#emph[Object.] A master may make a bad servant to become a good one.]
+#emph[Object.] A master may make a bad servant to become a good one.
 
 #emph[Answ.] There is a great hazard and venture therein, especially if they be grown to ripe years: no creature is easily tamed, or brought from the natural course it hath taken, after it is grown up: a bough that hath grown crooked many years together will hardly be made straight. It is not in mans power to make a bad servant good: neither can man expect Gods blessing therein, when he observeth not a right course warranted by God.
 
-#strong[#emph[Quest.] What course is fittest for choice of servants? #footnote[Direction for choosing of servants.]]
+#emph[Quest.] What course is fittest for choice of servants? #footnote[Direction for choosing of servants.]
 
 1\. If they be young, see how they have been from their infancy educated. Great is the benefit of good education: and much good may be expected from thence: for it is the means which God hath sanctified for good.
 
@@ -80,7 +80,7 @@ On this ground did #footnote[#emph[Philem. vers.] 10.] Saint #emph[Paul] advise 
 
 3\. Take such especially as are of mean and poor estate, and know not how to maintain themselves but by service. Thus will a double work of charity be done therein: and thus maist thou look for better service: for commonly such are most industrious, and most obedient to their masters.
 
-#strong[#emph[Object.] When men have taken all the care they can in their choice, they may be deceived.]
+#emph[Object.] When men have taken all the care they can in their choice, they may be deceived.
 
 #emph[Answ.] 1. Then much more likely is it, that if they be careless therein, they shall be deceived.
 

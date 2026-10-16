@@ -12,7 +12,7 @@ The right making of a firm contract consisteth in two things:
 
 === §. 15. #emph[Of the grounds of a contract.]
 
-#strong[#emph[Quest.] Is a contract absolutely necessary?]
+#emph[Quest.] Is a contract absolutely necessary?
 
 #emph[Answ.] Though it have been an ancient custom continued #footnote[#emph[Mos ille veteribus erat ante multum tempus sponsalia facere. Chrys. in Gen. Hom.] 43.] in all ages, yet I dare not pronounce it to be so absolutely necessary, as the want thereof should nullify a marriage, and make it to be no lawful marriage. But surely it is so meet and requisite, as I would advise all Christians that desire a blessing and good success on their marriage to be contracted before they are married.
 
@@ -46,7 +46,7 @@ There are two extremes contrary to the forenamed doctrine of a contract. One of 
 
 === §. 18. #emph[Of the distance of time betwixt the contract and marriage.]
 
-#strong[#emph[Quest.] What distance of time must pass betwixt the making of a contract, and consummating of marriage?]
+#emph[Quest.] What distance of time must pass betwixt the making of a contract, and consummating of marriage?
 
 #emph[Answ.] This must be left to the wise consideration of the parties contracted, and of their friends, for the same time cannot precisely be prescribed to all. Occasions may fall out either of hastening, or putting off the marriage. Only extremes on both sides must be avoided. Neither ought the marriage be too suddenly solemnized upon the contract: (then the ends and reasons of a contract, before mentioned, are made void) nor yet too long put off (then may Satan take occasion to tempt them for their incontinency.) The laudable custom of our and other Churches showeth, that at least three weeks must pass betwixt contract and marriage. For the contract is #footnote[#emph[Rubr.] before the form of solemnizing of matrimony.] to be three times published, and that but once a week before the wedding be celebrated. And we read that the virgin #emph[Mary] was at least three months contracted before #emph[Joseph] took her to wife. For when the Angel first came to her she was #footnote[#emph[Luk.] 1. 27. 56.] espoused: after that she went to her cousin #emph[Elizabeth,] with whom she abode three months: and then being returned home #emph[Joseph] was warned by an Angel to take her to wife. I #footnote[#emph[Mat.] 1. 20.] note not this as a rule for every one precisely to follow. For the virgin #emph[Mary] had a just occasion to tarry three months with her old cousin #emph[Elizabeth:] and so may others have occasions to put off their marriages: which may be lawful, so the marriage be not put off too long, and that there be a mutual and joint consent of both parties. For after the contract is made, neither the man nor the woman have the power of their own body.
 

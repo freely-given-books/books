@@ -15,8 +15,8 @@
 
 The third and last couple of a family are—
 
-+ Masters.
-+ Servants.
+- Masters.
+- Servants.
 
 The direction which the Apostle giveth to servants, is in this text set down.
 
@@ -29,33 +29,31 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 1\. The kinds of servants duties are noted in two words,—
 
-+ #emph[Obey,] vers. 5.
-+ #emph[Serve,] vers. 7.
+- #emph[Obey,] vers. 5.
+- #emph[Serve,] vers. 7.
 
 2\. The manner is set down
 
-+ #emph[Affirmatively,] vers. 5, 7.
-+ #emph[Negatively,] vers. 6, 7.
+- #emph[Affirmatively,] vers. 5, 7.
+- #emph[Negatively,] vers. 6, 7.
 
 1\. #emph[Affirmatively] by showing what graces are requisite: to which purpose he reckoneth up four particulars.
 
 + #emph[Fear and trembling.]
 + #emph[Singleness of heart.]
 + #emph[Conscience to Christ.]
-
-4\. #emph[Good will.] Under which are comprised—
-
-+ Cheerfulness.
-+ Readiness.
-+ Diligence.
-+ Faithfulness.
++ #emph[Good will.] Under which are comprised—
+  + Cheerfulness.
+  + Readiness.
+  + Diligence.
+  + Faithfulness.
 
 2\. #emph[Negatively,] by showing what vices are to be avoided, and these are two especially,
 
 1\. #emph[Eye-service,] which is opposed to #emph[doing of things—]
 
-+ #emph[As Christs servants.]
-+ #emph[From the heart.]
+- #emph[As Christs servants.]
+- #emph[From the heart.]
 
 2\. #emph[Men-pleasing,] which is opposed to #emph[doing the will of God.]
 
@@ -68,8 +66,8 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 II. The motives which the Apostle useth are partly—
 
-+ #emph[Implied.]
-+ #emph[Expressed.]
+- #emph[Implied.]
+- #emph[Expressed.]
 
 They are #emph[implied] three ways.
 
@@ -122,19 +120,19 @@ Contrary to this first ground of servants subjection is the opinion of Anabaptis
 
 These being thus different, one that is more excellent in the one, may be inferior in the other. Yea though there be an equality in the one, namely, in spiritual things, yet there may be a disparity in the other, namely, in civil and temporal matters. And though Saints may be far inferior to infidels in outward estate, yet they are not a whit the less glorious before God. The honour proper and peculiar to Saints is inward, not visible to the carnal eye of a natural man.
 
-#strong[2\. #emph[Object.] It is against nature for one to be servant, especially a bond-servant to another. #footnote[#emph[Prima seruitutis causa peccatum est, etc. Verum & poenalis seruitus ea lege ordinatur, qua naturalem ordinem conseruari iubet, etc. Aug. de Ciu. Dei l.] 19. #emph[c.] 15.]]
+2\. #emph[Object.] It is against nature for one to be servant, especially a bond-servant to another. #footnote[#emph[Prima seruitutis causa peccatum est, etc. Verum & poenalis seruitus ea lege ordinatur, qua naturalem ordinem conseruari iubet, etc. Aug. de Ciu. Dei l.] 19. #emph[c.] 15.]
 
 #emph[Answ.] To grant that it is against that absolute and perfect nature wherein at first God created man, and that it came in by sin, yet is it not against that order and course of nature wherein God hath now settled man. God hath turned many punishments of sin to be bounden duties; as #emph[subjection of wife to husband, and mans eating bread in the sweat of his brow.]
 
-#strong[3\. #emph[Object.] It is the prerogative of Christians to be #footnote[#emph[Gal.] 3. 28.] #emph[all one:] but subjection of servants to masters is against that prerogative.]
+3\. #emph[Object.] It is the prerogative of Christians to be #footnote[#emph[Gal.] 3. 28.] #emph[all one:] but subjection of servants to masters is against that prerogative.
 
 #emph[Answ.] That prerogative is merely spiritual: for #emph[in Christ all are one,] as they are members of Christ, which is a spiritual body: not as they are members of a politic body. A politic inequality is not against a spiritual equality.
 
-#strong[4\. #emph[Object.] This subjection is against the #footnote[#emph[Gal.] 5. 1.] liberty that Christ hath purchased for us, and wherewith he hath made us free.]
+4\. #emph[Object.] This subjection is against the #footnote[#emph[Gal.] 5. 1.] liberty that Christ hath purchased for us, and wherewith he hath made us free.
 
 #emph[Answ.] It is not. For that liberty is from the curse and rigor of the moral law: from the ceremonial law and the rites thereof: from Satan, sin, death, and damnation: but not from those degrees which God hath established betwixt man and man, for the good of mankind.
 
-#strong[5\. #emph[Object.] We are expressly forbidden to be #footnote[1 #emph[Cor.] 7. 23.] #emph[servants of men.]]
+5\. #emph[Object.] We are expressly forbidden to be #footnote[1 #emph[Cor.] 7. 23.] #emph[servants of men.]
 
 #emph[Answ. To be a servant] in that place is not simply to be in subjection #footnote[See Treat. 1. §. 124, 125, 126.] under another, and to do service unto him, but to be so obsequious to a man, so addicted to please him, and so subject to his will, as to do whatsoever he will have done: to regard nothing but his pleasure: to prefer it before Gods word and will. It is not therefore the thing it self, but an excess therein which is there forbidden.
 
@@ -162,13 +160,13 @@ Two extremes are contrary to this servant-like fear.
 
 The two main #emph[streams] which issue out of the forenamed #emph[fountain,] are—
 
-+ #emph[Reverence.]
-+ #emph[Obedience.]
+- #emph[Reverence.]
+- #emph[Obedience.]
 
 #emph[Reverence] is manifested in
 
-+ #emph[Speech.]
-+ #emph[Carriage.]
+- #emph[Speech.]
+- #emph[Carriage.]
 
 In speech by #emph[refraining] and #emph[well ordering] speech.
 
@@ -184,7 +182,7 @@ Servants for well ordering their speech unto their masters must observe five cau
 
 1\. That they have just occasion to speak: and that is either when their masters require them to speak (as #footnote[#emph[Mat.] 16. 14.] the disciples) or when they see it behoveful for their masters that they should speak. In such cases #emph[speech] argueth reverence, as well as #emph[silence] in other cases. The general points which were before delivered of the reverence of #footnote[Treat. 3. §. 13.] wives to their husbands, and of #footnote[Treat. 5. §. 4. 5. #emph[etc.]] children to their parents, may be applied to servants: and pressed upon them as an argument from the less to the greater thus, If wives (who in many things have a joint authority with their husbands) & children (who are not in so servile a degree subject to their parents, as servants to their masters) must manifest their inward fear of their husbands and parents by outward reverence, much more must servants to their masters. To declare the force of this consequence so much the more, let it be noted that the Apostle addeth another kind #footnote[When behoveful for servants to speak to masters.] of word here, then he did before, either in wives or childrens duties, namely #footnote[See Treat. 1. §. 124.] #emph[trembling.]
 
-#strong[#emph[Quest.] In what cases may it be behoveful for masters that their servants speak to them?]
+#emph[Quest.] In what cases may it be behoveful for masters that their servants speak to them?
 
 #emph[Answ.] 1. When they know any thing that may be profitable for their masters, they ought to declare it, though they be not asked: as #footnote[2 #emph[King.] 5. 3.] that maid which told her mistress #emph[Naamans] wife, that there was a Prophet in Samaria that could deliver him of his leprosy.
 

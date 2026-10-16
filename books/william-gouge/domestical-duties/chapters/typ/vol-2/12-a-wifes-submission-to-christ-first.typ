@@ -1,6 +1,6 @@
 == A Wife’s Submission to Christ First
 
-=== §. 51. #emph[Of] #footnote[Treat. 4. §. 26.] #emph[cases wherein a wife ought not to forbear what her husband forbiddeth.]
+=== §. 51. #emph[Of cases wherein a wife ought not to forbear what her husband forbiddeth.]#footnote[Treat. 4. §. 26.]
 
 So much of the distinct branches of a wives subjection. The #emph[limitation] and #emph[manner] of performing it next followeth.
 
@@ -45,7 +45,7 @@ The example of #emph[Rebekah,] which may seem somewhat more #footnote[#emph[Gen.
 
 For better application of this point I will lay down some particular instances agreeable to Gods word. Suppose a wife well instructed in the true religion be married to an idolatrous or profane husband, and he without any just cause forbid her to go to the Church, especially on the Lords days, to pray in English, to read the word, to teach her children the principles of religion, to restore that which she hath unjustly and fraudulently gotten, with the like, she may, and must do them notwithstanding.
 
-#strong[#emph[Object.] Why may not giving of alms be reckoned among these?]
+#emph[Object.] Why may not giving of alms be reckoned among these?
 
 #emph[Answ.] 1. Because the husband hath a greater power over the goods, then over these things.
 
@@ -89,7 +89,7 @@ These are the four,
 
 1\. Humility, 2. Sincerity, 3. Cheerfulness, 4. Constancy.
 
-=== §. 55. #emph[Of wives] #footnote[Treat. 4. §. 15.] #emph[humility in every duty.]
+=== §. 55. #emph[Of wives humility in every duty.]#footnote[Treat. 4. §. 15.]
 
 Humility is that grace that keeps one from thinking highly of himself above that which is meet: and in regard of that mean conceit which he hath of himself maketh him think reverendly, and highly of others: so as if humility be placed in a wives heart, it will make her think better of her husband then of her self, and so make her the more willing to yield all subjection unto him. The Apostle requireth it of all #footnote[#emph[Phil.] 2. 3. #emph[Ephes.] 4. 2.] Christians as a general sauce to season all other duties: but after a peculiar manner is it needful for inferiors: most of all for wives, because there are #footnote[See before §. 4.] many prerogatives appertaining to their place, which may soon make them think they ought not to be subject, unless they be humbly minded. That the Church doth herewith season her subjection, is clear by the book of Canticles, where oft she acknowledgeth her own meanness, and the excellency of her spouse.
 
@@ -99,7 +99,7 @@ Humility is that grace that keeps one from thinking highly of himself above that
 
 Contrary is pride, which puffeth up wives, & maketh them think there is no reason they should be subject to husbands, they can rule themselves well enough, yea and rule their husbands too, as well as their husbands rule them. No more pestilent vice for an inferior, then this: it is the cause of all rebellion, disobedience, & disloyalty: #emph[only by pride, cometh contention.] #footnote[#emph[Pro.] 13. 10.]
 
-=== §. 57. #emph[Of Wives] #footnote[Treat. 4. §. 63.] #emph[sincerity in every duty.]
+=== §. 57. #emph[Of Wives sincerity in every duty.]#footnote[Treat. 4. §. 63.]
 
 II. Sincerity is that grace that maketh one to be #emph[within] even in #emph[truth,] what #emph[without] he appeareth to be #emph[in show.] This is that #footnote[#emph[Ephes.] 6. 5.] #emph[Singleness of heart] which is expressly required of servants, and may be applied to wives, for indeed it appertaineth to all sorts. Because it is only discerned by the Lord, who is the #footnote[#emph[Acts] 1. 24.] #emph[searcher of all hearts,] it will move a wife to have an eye to him in all she doth, and to endeavour to approve her self to him above all: therefore uprightness and walking before God are oft joined together: he that is upright will assuredly walk before God, that is, endeavour to approve himself to God, as #footnote[#emph[Gen.] 6. 9.] #emph[Noah] did, and as #footnote[& 17. 1.] God commanded #emph[Abraham] to do.
 
@@ -123,7 +123,7 @@ That the Church doth season all her subjection with sincerity is clear, in that 
 
 Contrary to sincerity is dissimulation, and mere outward, complemental subjection: when a wife doth even despise her husband in her heart, as #emph[Michal] did #emph[David] and yet carry a fair #footnote[2 #emph[Sam.] 6. 16. #emph[Pro.] 30. 20.] face before him, as that #emph[adulterous woman, who eateth, and wipeth her mouth, and saith I have not committed iniquity. Solomon] maketh it a note of a lewd wife to #emph[flatter with her words.] #footnote[#emph[Pro.] 2. 16.] Though such a wife should perform all the duties named before, yet would those all be nothing to God, if they were done with a double heart, and not in singleness of heart. For as many outward imperfections are pardoned by God, where sincerity is, so no outward actions are accepted of him though they seem never so fair, where there is no sincerity.
 
-=== §. 59. #emph[Of wives] #footnote[Treat. 4. §. 65, 74.] #emph[cheerfulness in every duty.]
+=== §. 59. #emph[Of wives cheerfulness in every duty.]#footnote[Treat. 4. §. 65, 74.]
 
 III. Cheerfulness is more apparent then sincerity, and maketh subjection the more pleasing not only to God, but also to man, who by the effects thereof may easily discern it.
 
@@ -137,7 +137,7 @@ That thus the Church subjecteth her self to Christ is evident by that which #emp
 
 Contrary to this cheerfulness is the sullen disposition of some wives, who will indeed be subject to their husbands, and obey, but with such a louring and sour countenance, with such pouting and muttering, as they grieve their husbands more in the manner, then they can be pleased with the thing it self that they do: herein they show themselves like to a curst cow, which having given a fair soap of milk, casteth all down with her heel, and so verify the proverb, #emph[As good never a whit as never the better.] Such subjection is in truth no subjection, it can neither be acceptable to God, nor profitable to their husbands, nor comfortable to their own souls.
 
-=== §. 61. #emph[Of wives] #footnote[Treat. 4. §. 72.] #emph[constancy in doing their duty.]
+=== §. 61. #emph[Of wives constancy in doing their duty.]#footnote[Treat. 4. §. 72.]
 
 IIII. Constancy is a virtue which maketh all the rest perfect, and setteth the crown upon them; without which they are all nothing. This is in those who after they have begun well, continue to do well unto the end, and thereby reap the fruit of all. It hath respect both to #emph[continuance] without intermission, and also to #emph[perseverance] without revolting, and giving clean over. So as it is not enough to be subject by starts and fits: one while yielding all good obedience, another while stout and rebellious: neither is it sufficient in former times to have been a good wife, and after prove bad: but there must be daily proceeding and holding on from time to time, so long as husband and wife live together. This grace was in her of whom it is said, #emph[She will do him good, and not evil all the days of her life.] Such were all the holy wives commended in Scripture: among other particulars, mention is made of the wife of #emph[Phinehas,] who on her death-bed showed the reverend #footnote[1 #emph[Sam.] 4. 21.] good respect she bare to her husband, though he were a wicked and lewd man. This grace doth the Church add to all her other virtues, she in all parts of her subjection remaineth constant, & faithful unto the death, whereby it cometh to pass, that at length she receiveth the reward of her holy obedience, which is full and perfect communion and fellowship with her spouse Christ Jesus in heaven. In regard of her unmoveable constancy it is said, that #emph[the gates of hell shall never prevail against] #footnote[#emph[Matth.] 16. 18.] #emph[her. Therefore as the Church is constantly subject unto Christ, so let wives be to their husbands.]
 
@@ -147,17 +147,17 @@ Contrary to this Constancy is first #emph[intermission of duty,] a returning to 
 
 Contrary also to the forenamed Constancy is #emph[Apostasy,] #footnote[2\. Apostasy.] that is, a clean relinquishing of the former good course, as if a wife repented her of her former good beginning. Such an one is she that is said to #emph[forsake the guide of her youth, and forget the] #footnote[#emph[Pro.] 2. 17.] #emph[covenant of her God.] For ought we read to the contrary, #emph[Jobs] wife was such an one. And such are many who in their younger years, while their religious parents lived (as #emph[Joash] while #footnote[2 #emph[Chron.] 24. 2.] old good #emph[Jehoiada] lived) have behaved themselves very well like good dutiful wives, but being grown to elder years, have grown also so stout and rebellious, as if they clean repented themselves of their former good beginning. This revolt ariseth sometimes from the evil counsel of wicked Gossips, and sometimes from their own proud humour. I may say of these wives #emph[subjection,] as the Prophet saith of the righteousness of revolters, #footnote[#emph[Ezek.] 18. 24.] #emph[their subjection shall not be remembered, but in their rebellion they shall die.] Therefore as the Church is subject to Christ, let wives be to their husbands.
 
-=== §. 63. #emph[Of the] #footnote[Treat. 4. §. 26.] #emph[extent of a wives obedience.]
+=== §. 63. #emph[Of the extent of a wives obedience.]#footnote[Treat. 4. §. 26.]
 
 The extent of a wives subjection (which remaineth now to be handled) is set down under these general terms (in every thing) which are not so generally to be taken as if they admitted no restraint or limitation, for then would they contradict such cautions as these, #emph[in the fear of the Lord, as to the Lord, in] #footnote[#emph[Eph.] 5. 21. #emph[&] 22. #emph[Col.] 3. 18.] #emph[the Lord.] For man is so corrupt by nature, and of so perverse a disposition, that oft he willeth and commandeth that which is contrary to Gods will and commandment: which when he doth, that Christian principle laid down as a ruled case by the Apostle must take place, #emph[we ought rather to obey God then men.] #footnote[#emph[Acts] 5. 29.]
 
-#strong[Quest. Why then is this extent laid down in such general terms?]
+#emph[Quest.] Why then is this extent laid down in such general terms?
 
-Answ. 1. To teach wives that it is not sufficient for them to obey their husbands in some things, as they themselves think meet, but in all things whatsoever they be wherein the husband by virtue of his superiority and authority hath power to command his wife. Thus this general extent excludeth not Gods will, but the wives will. She may do nothing against Gods will; but many things must she do against her own will if her husband require her.
+#emph[Answ.] 1. To teach wives that it is not sufficient for them to obey their husbands in some things, as they themselves think meet, but in all things whatsoever they be wherein the husband by virtue of his superiority and authority hath power to command his wife. Thus this general extent excludeth not Gods will, but the wives will. She may do nothing against Gods will; but many things must she do against her own will if her husband require her.
 
 2\. To show that the husbands authority and power is very large: it hath no restraint but Gods contrary command, whereof if a wife be not assured, she must yield to her husbands will.
 
-=== §. 64. #emph[Of a wives] #footnote[Treat. 4. §. 28, 29.] #emph[labouring to bring her judgment to the bent of her husbands.]
+=== §. 64. #emph[Of a wives labouring to bring her judgment to the bent of her husbands.]#footnote[Treat. 4. §. 28, 29.]
 
 From that extent I gather these two conclusions:
 
@@ -171,7 +171,7 @@ In the former of these, I say not simply that a wife is bound to bring her judgm
 
 Contrary is the presumption of such wives as think themselves wiser then their husbands, and able better to judge matters then they can. I deny not but that a wife may have more understanding then her husband: for some men are very ignorant and blockish; and on the other side, some women well instructed, who thereby have attained to a great measure of knowledge, and discretion; but many though they have husbands of sufficient and good understanding, wise and discreet men, yet think that that which they have once conceived to be a truth, must needs be so: and such is their peremptoriness, that they will not be brought to think that they may err: but say they will never be brought to think otherwise then they do, though all the husbands in the world should be of another opinion: not much unlike to the Wisemans fool, who thinketh himself wiser then seven men #footnote[#emph[Pro.] 26. 16.] that can render a reason.
 
-=== §. 66. #emph[Of a wives] #footnote[Treat. 4. §. 27.] #emph[yielding to her husband in such things as she thinketh not to be the meetest.]
+=== §. 66. #emph[Of a wives yielding to her husband in such things as she thinketh not to be the meetest.]#footnote[Treat. 4. §. 27.]
 
 The latter conclusion concerning a wives yielding in practise to that which her husband requireth, though she cannot bring her judgment to think as he doth about the meetness of it, #footnote[Si res aliqua occurrat, quae consilio opus habeat, quin ipsa quoque quid censeas dicas minimè prohibeo: sed viri tui sententiam vim maiorem semper obtinere volo. Greg. Naz. ad Olymp.] hath respect to indifferent things, namely, to such as are neither in their particulars commanded, nor forbidden by God: as the outward affairs of the house, ordering it, disposing goods, entertaining guests, etc.
 
@@ -187,9 +187,9 @@ Secondly, her yielding in indifferent things tendeth much to the peace of the fa
 
 Contrary is the custom of many wives, who never will do any more then they themselves think meet, though their husbands require it never so much: surely they come far short of this Apostolical extent #emph[(in every thing)] though in their own eyes they may seem to be very much subject. But when wives will no further be subject, then their own judgments, wills and affections concur with their husbands, what can be thought but that they are subject rather to their own wills, then to the will of their husbands? Many such wives, from the least difference in judgment & opinion, even in the smallest matters, take occasion to refuse subjection, and think they have warrant enough so to do: whence oftentimes there ariseth much contention, the fault whereof lieth especially on the wives neck, though the occasion may arise from the husband: and I think that wives themselves would so judge of the like cases betwixt them and their children.
 
-=== §. 68. #emph[Of care in choosing such husbands as wives may without] #footnote[See Treat. 2. Part. 1. §. 11.] #emph[grief be subject unto.]
+=== §. 68. #emph[Of care in choosing such husbands as wives may without grief be subject unto.]#footnote[See Treat. 2. Part. 1. §. 11.]
 
-#strong[#emph[Object.] If the case be such betwixt man and wife, it is not good to marry.]
+#emph[Object.] If the case be such betwixt man and wife, it is not good to marry.
 
 #emph[Answ.] This is no good inference; for all the seeming hardness of a wives case is in the lewdness of an husband, who abuseth his place and power: and not in that subjection which is required by God. For if an husband carry himself to his wife as #footnote[Tutum obsequium est, quoties qui dux est, ipse Dei Spiritu ducitur.] God requireth, she will find her yoke to be easy, and her subjection a great benefit even unto her self. Wherefore I would exhort parties that are unmarried, whether maidens or widows, to be very careful in their choice of husbands: and in their choice to respect above all, their good qualities and conditions, therein bearing the image of Christ, as well as in their office, and authority: so as their wives may with joy and comfort, not with grief and anguish, be subject unto them: then will subjection prove a vexation, when the husband is an ignorant, profane, idolatrous, worldly, wicked man: wives of such husbands are oft brought into many straits. Ye widows and maidens who are free, be not too free and forward in giving your consent to whom you know not: among other motives, oft think of this point of subjection, to which all wives are bound: this I say, both of the several branches, and also of the extent thereof. After you are married it is in vain to think of freedom from subjection. By taking husbands, and giving your selves to be wives, you bind your selves to the law of the man, as long as he liveth. Then as you desire to be accepted of God, and to find mercy and comfort from him, you must bear this yoke, how heavy and grievous soever it seem to be.
 

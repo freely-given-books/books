@@ -68,7 +68,7 @@ The proposition is grounded on that resemblance which is betwixt the Church in r
 
 The #emph[rule] noteth both the #emph[Manner]#footnote[ὥσπερ.] (#emph[as)] and also the #emph[Extent] of a wives subjection#footnote[ἐν παντί.] (#emph[in every thing.)] #footnote[See more of the #emph[manner] and #emph[extent] of a wives obedience, #emph[Treat.] 3. §. 51. #emph[&] 63.]
 
-#strong[#emph[Quest.] Is mortal and sinful man to be obeyed as the Lord Christ the eternal Son of God?]
+#emph[Quest.] Is mortal and sinful man to be obeyed as the Lord Christ the eternal Son of God?
 
 #emph[Answ.] This extent is to be restrained to the generality of the things in question. As in other places, where the Apostle saith, #emph[all things are lawful for me,] he meaneth all #footnote[1 #emph[Cor.] 10. 23.] indifferent things, for of them his speech was in that place. And where again he saith, #emph[Whatsoever is set before you, eat,] #footnote[#emph[Vers.] 27.] he meaneth, whatsoever good and wholesome meat: for of that he spake.
 
@@ -89,17 +89,14 @@ I will further consider these examples of Christ and the Church more distinctly 
 
 #v(0.8em)
 
-Behold here the mutual relation betwixt
+Behold here the mutual relation betwixt Christ and the Church.
 
-+ Christ.
-+ The Church.
-
-Wherein note concerning Christ,
+#emph[Wherein note concerning Christ,]
 
 + His preeminence over the Church, #emph[(he is her head.)]
 + His goodness to her, #emph[(he is her Saviour.)]
 
-Note also concerning the Church,
+#emph[Note also concerning the Church,]
 
 + Her prerogative, #emph[(she is the body of Christ.)]
 + Her duty. In laying down whereof there is noted,
@@ -177,7 +174,7 @@ This relative particle#footnote[αὐτός.] (HE) hath also his emphasis; for a
 
 Here by the way note the blasphemous arrogancy of those great sectaries among the Papists, who stile themselves #emph[Jesuits:] assuming that name which is proper to this great office of Jesus Christ.
 
-#strong[#emph[Object.] Why is this name more blasphemous, then the title #emph[Christians?]]
+#emph[Object.] Why is this name more blasphemous, then the title #emph[Christians?]
 
 #emph[Answ.] One of their own religion doth thus resolve that Objection: #emph[We are called Christians of Christ, not Jesuits of Jesus, because we partake of the thing signified by the name Christ, that is anointing: for (as the Apostle saith) we all receive of his fulness. But he hath not communicated to us the thing signified by the name Jesus; for it belongeth to him alone to save, as saith the scripture, he shall save his people: as if he should say, he alone, and no other. A Christo dicimur] #footnote[Jesuit a blasphemous title.] #emph[Christiani, non autem à Iesu Iesuani, seu Iesuitae: quia rem signatam nomine] Christus, #emph[scil. vnctionem nobis communicauit. Nam, ut ait Apostolus, omnes nos de plenitudine eius accepimus: sed rem significatam nomine] Jesus #footnote[Why we may be called Christians and not Jesuits.] #emph[non communicauit: nam saluare ipsi soli conuenit: ipse enim (vt dicitur in scriptura) saluum faciet] #footnote[#emph[Christus commune dignitatis est nomen. Iesus proprium vocabulum saluatoris. Hier. in Mat.] 16.] #emph[populum suum: ac si diceret, ipse solus, & non alius. Guil. Lindwood in Prouinc. siue Constitut. Angl. lib. de Consuetud.]
 
@@ -214,11 +211,11 @@ This metaphor, by which the persons that reap the benefit of Christs office are 
 
 The former point is clearly set forth by a resemblance, which the Apostle maketh betwixt #emph[Adam] and #emph[Christ,] thus: #emph[As by the offence of one, judgment came on all men to condemnation,] #footnote[#emph[Rom.] 5. 18.] #emph[even so by the righteousness of one, the free gift came on all men unto justification of life.] Here are noted two roots, one is #emph[Adam,] the other is #emph[Christ:] both of them have their number of branches, to all which they convey that which is in them, as the root conveyeth the sap that is in it, into all the branches that sprout from it. The first root, which is #emph[Adam,] conveyeth sin and death to all that come from him: and the other root, which is #emph[Christ,] conveyeth grace and life to every one that is given to him: for saith he, #emph[All that the father] #footnote[#emph[Joh.] 6. 37.] #emph[giveth me, shall come to me: and him that cometh to me, I will in no wise cast out:] and a little after, he rendereth this reason, #emph[This is the fathers will, that of all which he hath given me] #footnote[#emph[Vers.] 39.] #emph[I should lose nothing, but should raise it up again at the last day.]
 
-#strong[#emph[Object.] Christ himself maketh exception of one, where he saith, #emph[none is lost but the son of perdition.] #footnote[#emph[Joh.] 17. 12.]]
+#emph[Object.] Christ himself maketh exception of one, where he saith, #emph[none is lost but the son of perdition.] #footnote[#emph[Joh.] 17. 12.]
 
 #emph[Answ.] That phrase #emph[son of perdition,] showeth that #emph[Judas] was never of this body: for can we imagine that Christ is a Saviour of a son of perdition?
 
-#strong[#emph[Object.] Why is he then excepted?]
+#emph[Object.] Why is he then excepted?
 
 #emph[Answ.] By reason of his office and calling he seemed to be of this body, and till he was made known, none could otherwise judge of him, in which respect Saint #emph[Peter] saith, #emph[he was] #footnote[#emph[Act.] 1. 17.] #emph[numbered with us.]
 
@@ -228,20 +225,16 @@ This is a point of admirable comfort to such as have assurance #footnote[Use.] o
 
 + A mystical union with Christ.
 + A spiritual communion with the Saints.
-
-#[
-#set enum(start: 1)
-+ By virtue of that union they who are of Christs body,
-  + #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
-  + #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
-  + #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
-  + #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
-+ By reason of their communion with the Saints being fellow members,
-  + #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
-  + #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
-  + #footnote[#emph[Eph.] 4. 16.] They will edify one another.
-  + #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
-]
+  + By virtue of that union they who are of Christs body,
+    + Receive grace, and life from him.#footnote[#emph[Eph.] 4. 15, 16.]
+    + Are guided and governed according to his will.#footnote[#emph[Joh.] 17. 6.]
+    + Seek to honour him in all things they do.#footnote[#emph[Joh.] 17. 10.]
+    + Are offended and grieved when he is dishonoured by others.#footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.]
+  + By reason of their communion with the Saints being fellow members,
+    + They love the brethren.#footnote[1 #emph[Joh.] 4. 11.]
+    + They are ready to succour such as are in distress.#footnote[#emph[Mat.] 25. 40.]
+    + They will edify one another.#footnote[#emph[Eph.] 4. 16.]
+    + They retain a mutual sympathy: rejoicing, and mourning one with another.#footnote[1 #emph[Cor.] 12. 26.]
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 
@@ -264,7 +257,7 @@ The former point is not more comfortable to those that have assurance that they 
 
 The duty which the Church in way of thankfulness performeth to Christ her head for this great benefit, that #emph[he is her Saviour,] is #emph[subjection:] Under which word is comprised all that obedience and duty, which in any kind Christ requireth of the Church, in and by the word.
 
-#strong[#emph[Quest.] Is it possible for that part of the Church which is here on earth, to yield such obedience?]
+#emph[Quest.] Is it possible for that part of the Church which is here on earth, to yield such obedience?
 
 #emph[Answ.] It will faithfully endeavour to do what it can: and that honest and utmost endeavour Christ graciously accepteth for a perfect performance of all.
 
@@ -288,7 +281,7 @@ The extent of the Churches subjection to Christ is without any restraint at all,
 
 For the spirit of Christ which is in them worketh a thorough #footnote[Reason.] reformation: even as the flesh leadeth a natural man on to every sin, so the spirit of Christ stirreth him up to every good duty. In which respect it is said, that #emph[whosoever is born of God] #footnote[1 #emph[John] 3. 9.] #emph[doth not commit sin.]
 
-#strong[#emph[Object.] The best Saints in all ages have transgressed in many #footnote[#emph[Jam.] 3. 2.] things.]
+#emph[Object.] The best Saints in all ages have transgressed in many #footnote[#emph[Jam.] 3. 2.] things.
 
 #emph[Answ.] Their sins though grievous, have not wilfully in open rebellion against Christ been committed, but they have slipped from them partly through their own weakness, and partly through the violence of some temptation. So as that which the Apostle saith of himself, may be applied to all that are of the body of Christ, #emph[That which I do I allow not: Now then] #footnote[#emph[Rom.] 7. 15. 17.] #emph[is it no more I that do it, but the sin that dwelleth in me.]
 

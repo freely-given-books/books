@@ -29,7 +29,7 @@ A duty proper to inferiors, and implieth both #emph[reverence] and #emph[obedien
 
 Under this word #emph[(Obey)] the Apostle comprehendeth all #footnote[All duties of children comprised under #emph[obedience.]] those duties which throughout the Scripture are required of children: as is manifest by his own exemplification thereof in the second verse by the word #emph[honour] which the law useth: so as this word #emph[(obey)] is to be taken in as large an extent as that word #emph[(honour.)]
 
-#strong[#emph[Quest.] Why is #emph[obedience] put for all the rest?]
+#emph[Quest.] Why is #emph[obedience] put for all the rest?
 
 #emph[Answ.] 1. Because it is the hardest of all the rest, and that which children are loathest to perform: they who willingly yield to this, will stick at no duty.
 
@@ -74,7 +74,7 @@ Both #emph[father] and #emph[mother] are expressly mentioned, to take away #foot
 
 These words following #emph[(which is the first commandment] #footnote[How the fifth commandment is the first with promise.] #emph[with promise)] are fitly included in a #emph[parenthesis,] because they are not the words of the law, but inserted by the Apostle as a reason to enforce the law, and so make a #emph[fourth reason.]
 
-#strong[#emph[Quest.] In what respect is this commandment called #emph[the first with promise?]]
+#emph[Quest.] In what respect is this commandment called #emph[the first with promise?]
 
 #emph[Answ.] 1. The word here used by the Apostle properly #footnote[ἐντολή.] signifieth an affirmative precept, as our English word #emph[(commandment)] doth. Now then of the affirmative precepts it is #emph[the first with promise.]
 
@@ -84,13 +84,13 @@ Now this is the first commandment of the second table.
 
 3\. It is generally true of all the commandments: for among the ten it is the #emph[first with promise.]
 
-#strong[#emph[Object.] The second commandment hath a promise annexed #footnote[Difference betwixt the promise in the second, and fifth commandment.] to it.]
+#emph[Object.] The second commandment hath a promise annexed #footnote[Difference betwixt the promise in the second, and fifth commandment.] to it.
 
 #emph[Answ.] 1. That which is annexed to the second Commandment, is not expressly a promise, but rather a declaration of Gods Justice, in taking vengeance of transgressors, and of his mercy in rewarding observers of the Law: yet I deny not but that a promise by consequence is implied: but here it is expressed.
 
 2\. The promise there implied is only a general promise made to observers of the whole Law, and therefore he useth the plural number, #emph[Commandments:] but here is a particular promise made to them that keep this Commandment in particular.
 
-#strong[2\. #emph[Quest.] Why is it then said the #emph[first,] when no other Commandments with promise follow? #footnote[#emph[First] simply taken.]]
+2\. #emph[Quest.] Why is it then said the #emph[first,] when no other Commandments with promise follow? #footnote[#emph[First] simply taken.]
 
 #emph[Answ.] This particle #emph[(first)] hath not always reference to some other following, but is oft simply taken, to show that none was before it: so is the word #emph[first-born] used in the Law: #footnote[#emph[Exod.] 13. 2. #emph[Matth.] 1. 25.] and so Christ is called the #emph[first-born] son of #emph[Mary.]
 
@@ -155,7 +155,7 @@ The promise consisteth of two branches.
 
 The first branch #emph[(that it may be well with thee)] is very ample #footnote[ἵνα εὖ σοι γένηται.] and large: all good things, all manner of blessings whatsoever, spiritual and temporal, belonging to soul and body, concerning this life, and the life to come, make to a mans #emph[wellbeing.] Whence may first be demanded;
 
-#strong[1\. #emph[Quest.] What may be the extent of this phrase in this place? #footnote[Temporal prosperity promised. 1 #emph[Tim.] 4. 8.]]
+1\. #emph[Quest.] What may be the extent of this phrase in this place? #footnote[Temporal prosperity promised. 1 #emph[Tim.] 4. 8.]
 
 #emph[Answ.] It may generally be extended to all manner of good things. For #emph[Godliness hath promise of the life that now is and of that that is to come.] But (as I take it) temporal prosperity is here principally intended: and that for these reasons.
 
@@ -165,7 +165,7 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 3\. In the Law (from whence this clause is taken) it is expressly set down, thus, #emph[that it may go well with thee in the] #footnote[#emph[Deut.] 5. 16.] #emph[land,] etc.
 
-#strong[2\. #emph[Quest.] Is then outward temporal prosperity (as honour, #footnote[Prosperity a good thing.] health, peace, liberty, goods, etc.) a token of Gods love and favour?]
+2\. #emph[Quest.] Is then outward temporal prosperity (as honour, #footnote[Prosperity a good thing.] health, peace, liberty, goods, etc.) a token of Gods love and favour?
 
 #emph[Answ.] Yea: in it self it is a blessing, and fruit of Gods love: as appeareth by these reasons.
 
@@ -187,13 +187,13 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 #emph[Answ.] Outward prosperity is of that nature, as it may turn to the good or hurt of him that enjoyeth it. And herein is Gods admirable and unsearchable wisdom seen, in that he is able to turn blessings into curses, and curses into blessings. #footnote[How prosperity proves a curse to the wicked.] He can work by contraries.
 
-#strong[4\. #emph[Quest.] How is prosperity a curse to the wicked?]
+4\. #emph[Quest.] How is prosperity a curse to the wicked?
 
 #emph[Answ.] By mere consequence, through their abuse of it. God gives it to them to show the riches of his mercy: and that all may taste thereof, he doth good to the #emph[evil] and the #emph[good.] Besides, #footnote[#emph[Matth.] 5. 45. #emph[Rom.] 2. 4.] he thus trieth if by any means they may be brought to repentance: which gift because they have not, their prosperity proveth to be a means to make them the more inexcusable, and the more to increase their just condemnation. For the more Gods blessings abound towards them, the more they abuse them, adding to all their other sins, that most odious sin of ingratitude, which maketh up the heap of all. And in these respects I may say of the prosperity of the wicked, as the Prophet of their King, #emph[God gives it in his anger, and takes it away in] #footnote[#emph[Ose.] 13. 11.] #emph[his wrath.] For by their abuse thereof, it proveth Satans bait to allure them, his snare to catch them, and his hook to drown #footnote[1 #emph[Tim.] 6. 9.] them in perdition and destruction. In a word therefore, the wicked are fed in a fair pasture like oxen appointed to the slaughter: they are exalted on high, as on a ladder or scaffold, like thieves and traitors, to be brought down with shame and destruction, as #emph[Pharaohs] Baker was lift up. #footnote[#emph[Gen.] 40. 19.]
 
 === §. 103. #emph[How both having, and wanting prosperity is a blessing to the Saints.]
 
-#strong[5\. #emph[Quest.] How is the enjoying, or wanting of prosperity a blessing to the righteous?]
+5\. #emph[Quest.] How is the enjoying, or wanting of prosperity a blessing to the righteous?
 
 #emph[Answ.] God in wisdom knowing what is best for them accordingly deals with them, he bestoweth prosperity on them so far as he seeth it will turn unto their good: and denieth it to them so far as he seeth it will turn to their hurt. Whensoever therefore God bestoweth any temporal blessing on his Saints, it is a token of his favour: and whensoever he denieth any, the very denial is also a fruit of his favour. Herein is it verified that #emph[All things work together for good to them] #footnote[#emph[Rom.] 8. 28.] #emph[that love God,] so as, if they #emph[abound,] it shall go well with them: if they #emph[want,] it shall go well with them: if they be in #emph[high place,] it shall go well with them: if in #emph[mean place,] it shall go well with them: if they be at liberty, if in prison: if they be in health, if sick: in what estate soever, it shall go well with them.
 
@@ -205,7 +205,7 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 Concerning the second branch of Gods promise #emph[(long-life)] other questions are to be resolved.
 
-#strong[1\. #emph[Quest.] Is long-life a blessing? #footnote[Long life a blessing.]]
+1\. #emph[Quest.] Is long-life a blessing? #footnote[Long life a blessing.]
 
 #emph[Answ.] Yea, else would not God here and in other places have promised it as a reward, nor have bestowed it on his Saints.
 
@@ -221,9 +221,7 @@ By this it appears that this particular promise is no light matter, of small mom
 
 === §. 105. #emph[Of long life proving a curse to the wicked.]
 
-#strong[2\. #emph[Quest.]]
-
-Why then is long life given to many wicked ones? And why are many Saints cut off?
+2\. #emph[Quest.] Why then is long life given to many wicked ones? And why are many Saints cut off?
 
 #emph[Answ.] Long life is of the same kind that prosperity is: it may be turned to a curse, as well as prove a blessing.
 
@@ -240,15 +238,13 @@ The righteous have their days shortened for their good, when they are shortened,
 
 Thus we see there may be just cause to alter, as the former branch of this promise, #emph[prosperity,] so the latter branch of it, #emph[long-life,] and yet no wrong thereby redound to the righteous, nor benefit to the wicked.
 
-#strong[3\. #emph[Quest.]]
-
-Is not the truth of the promise impeached thereby?
+3\. #emph[Quest.] Is not the truth of the promise impeached thereby?
 
 #emph[Answ.] No whit at all. For first all promises of temporal blessings are limited with such a condition as this, #emph[if the performance of it may stand with Gods honour, and the good of the party to whom it is made.] 2. God doth never simply deprive his Saints of that which is promised, but only in stead of it giveth a better: as in taking away #emph[wealth,] he giveth the more store of #emph[grace:] in restraining #emph[liberty of body,] he giveth #emph[freedom of conscience:] with #emph[affliction] he giveth #emph[patience:] by taking away this #emph[temporal life,] he giveth #emph[eternal life.] God herein dealeth, as if one who having promised so much iron, should in stead thereof give as much silver: or for silver give gold: and so for one pound give the worth of hundreds or thousands.
 
 === §. 107. #emph[Of appropriating prosperity and long-life to the obedience which children yield to their parents.]
 
-#strong[4\. #emph[Quest.] Why is #emph[long-life] and #emph[prosperity] appropriated to this kind of righteousness?]
+4\. #emph[Quest.] Why is #emph[long-life] and #emph[prosperity] appropriated to this kind of righteousness?
 
 #emph[Answ.] It is not so appropriated to this, as if it appertained to no other: for it is elsewhere in general promised to the #footnote[#emph[Deut.] 6. 2.] observers of the whole law, and to other particular branches thereof beside this: yet in these and such like particular respects #footnote[#emph[Psal.] 34. 12, 13, 14.] is it applied to the obedience of children.
 

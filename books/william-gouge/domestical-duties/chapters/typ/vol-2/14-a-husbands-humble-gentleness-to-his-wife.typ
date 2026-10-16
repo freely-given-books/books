@@ -1,6 +1,6 @@
 == A Husband’s Humble Gentleness to His Wife
 
-=== §. 13. #emph[Of an husbands] #footnote[Treat. 3. §. 10.] #emph[kind acceptance of such things as his wife doth.]
+=== §. 13. #emph[Of an husbands kind acceptance of such things as his wife doth.]#footnote[Treat. 3. §. 10.]
 
 #emph[S. Peter] giveth a general rule for an husbands outward carriage to his wife, which is, that he dwell with her #emph[according to knowledge,] that is, as a man able to order his carriage wisely to his own honour and his wives good, that so she may have just cause to bless God that ever she was joined to such an husband.
 
@@ -31,7 +31,7 @@ Contrary is their practise who thinking all which a wife #footnote[Contrary, 1. 
 
 But what may we say of such as scornfully reject their wives #footnote[3\. Scornfully to reject it.] duty, yea like them the worse for making conscience thereof, and so (clean contrary to the rule of christianity) #emph[overcome goodness with evil?] Surely they show a very diabolical spirit #footnote[#emph[Rom.] 12. 21.] to be in them: and cannot but minister much grief, and offence to their wives, and make that which they do to be very irksome and tedious. Fathers ought not to provoke their #footnote[#emph[Ephes.] 6. 4.] children, much less husbands their wives.
 
-=== §. 15. #emph[Of husbands] #footnote[Treat. 3. §. 11. 55.] #emph[courteous accepting their wives reverend carriage.]
+=== §. 15. #emph[Of husbands courteous accepting their wives reverend carriage.]#footnote[Treat. 3. §. 11. 55.]
 
 For the better conceiving of this so needful a point I will #footnote[How a mans good acceptance of his wives duty is manifested.] somewhat more particularly and distinctly apply the same to the several duties of a wife: which were drawn to two heads
 
@@ -41,7 +41,7 @@ For the better conceiving of this so needful a point I will #footnote[How a mans
 
 For the first, if a wife manifest her dutiful respect of her #footnote[1\. By answering reverence with courtesy. #emph[Depone asperitatem morum cum tibi sedula vxor occurrit, etc. Ambr. Hexaem. lib.] 5. #emph[cap.] 7.] husband by any reverend behaviour, gesture, or speech, he ought to meet her (as we say) in the midst of the way, and manifest his gracious acceptance thereof by some like courteous behaviour, gesture, and speech, being seemly, not foolish.
 
-#strong[#emph[Object.] Thus shall an husband abase himself, and disgrace his place.]
+#emph[Object.] Thus shall an husband abase himself, and disgrace his place.
 
 #emph[Answ.] The courtesy which I speak of as it cometh from a superior, being a mere voluntary matter and a token #footnote[Courtesy may stand with superiority.] of kindness and favour, is no abasement of himself, but an advancement of his inferior: a great grace to her, no disgrace to him. #emph[Abram] was counted of the Hittites #emph[a Prince of] #footnote[#emph[Gen.] 23. 6, 7.] #emph[God,] yet in communing with them #emph[he bowed] unto them. It is noted as a commendable thing in #emph[Esau,] that though at that time he was his brothers superior (at least he took himself so to be) yet observing how #emph[Jacob] reverenced him, bowing seven times to the ground, #emph[he ran to meet him, and embraced] #footnote[#emph[Gen.] 33. 3, 4.] #emph[him, and fell on his neck.] Most pertinent to the point is the example of King #emph[Ahasuerus,] who beholding #emph[Esthers] reverend #footnote[#emph[Esth.] 5. 2.] standing before him, held out his Scepter unto her, which in a King is great courtesy.
 
@@ -53,11 +53,11 @@ Contrary is a lofty carriage of husbands to their wives, who overlook all revere
 
 Oft have I noted that there is a great difference betwixt a wife and all other inferiors, in which respect all evidences of reverence should much better be respected; yet we know that Kings and Queens will put out their hands to be kissed by their subjects when they kneel before them, which is a token of courtesy: how much more ought husbands to show courtesy? Unworthy they are to be reverenced of their wives, who too Lord-like overlook them.
 
-=== §. 16. #emph[Of husbands] #footnote[Treat. 3. §. 15.] #emph[ready yielding to their wives humble suits.]
+=== §. 16. #emph[Of husbands ready yielding to their wives humble suits.]#footnote[Treat. 3. §. 15.]
 
 Again, it being a token of reverence in a wife humbly to #footnote[2\. By granting her humble request.] make known her desire to her husband, he ought to show so much courtesy as readily to grant her desire: this courtesy the forenamed #footnote[#emph[Est.] 5. 3.] #emph[Ahasuerus] afforded to #emph[Esther:] #footnote[1 #emph[King.] 1. 28. #emph[etc.]] #emph[David] to #emph[Bathsheba:] #footnote[#emph[Gen.] 28. 1.] #emph[Isaac] to #emph[Rebekah:] #footnote[#emph[&] 16. 6.] #emph[Abraham] to #emph[Sarah,] and many other husbands to their wives. #footnote[#emph[&] 21. 10, 11.] #emph[Abraham] showed herein such respect to his wife, that though the thing which she desired were grievous to him, yet he yielded to his wife.
 
-#strong[#emph[Object.] God first commanded him so to do.]
+#emph[Object.] God first commanded him so to do.
 
 #emph[Answ.] This addeth the more force unto the argument, showing that it is Gods express will, that an husband should show this kind of courtesy to his wife. Much more ought a man to do at his wives request then at any others, whether friend, child, or parent: yea much more free, forward and cheerful ought he to show himself in granting his wives request then any others: provided notwithstanding that her desire be of that which may lawfully be granted: to yield in things unlawful is to lose his authority, as was showed #footnote[§. 5.] before.
 
@@ -65,7 +65,7 @@ Again, it being a token of reverence in a wife humbly to #footnote[2\. By granti
 
 Contrary is the harshness of their disposition who yield to their wives request as an hard-milch-cow letteth down her milk, not without much ado: whereby the grace of all their yielding is taken away. There can be no courtesy in yielding, when it is against their mind and will forced from them: their wives must ask, and entreat again and again, yea be forced to use the mediation of others to persuade their husbands to yield to their request before they will yield, if at all they yield. What is this but to proclaim to all the world that there is no affection in them to their wives? If a wives breath be strange to her husband, assuredly his heart is first strange to her: which is the ready way to make him set his heart on strange women.
 
-=== §. 18. #emph[Of husbands] #footnote[Treat. 3. §. 38, 39, #emph[etc.] & §. 43, 44, #emph[etc.]] #emph[forbearing to exact all that they may.]
+=== §. 18. #emph[Of husbands forbearing to exact all that they may.]#footnote[Treat. 3. §. 38, 39, #emph[etc.] & §. 43, 44, #emph[etc.]]
 
 As a wives #emph[reverence] so also her #emph[obedience] must be answered with her husbands courtesy. In testimony whereof, #emph[An husband] #footnote[3\. By accepting what she is willing to do.] #emph[must be ready to accept that wherein his wife showeth her self willing to obey him.] He ought to be sparing in exacting too much of her: in this case he ought so to frame his carriage towards her, as that obedience which she performeth, may rather come from her own voluntary disposition, from a free conscience to God-wards, even because God hath placed her in a place of subjection, and from a wive-like love, then from any exaction on her husbands part, and as it were by force.
 
@@ -82,7 +82,9 @@ A general consent is especially requisite for ordering of household affairs: for
 + To #footnote[#emph[Pro.] 31. 21, 22.] order the decking and trimming of the house.
 + To #footnote[#emph[Vers.] 15.] dispose the ordinary provision for the family.
 + To #footnote[#emph[Gen.] 16. 6.] rule and govern maid servants.
-+ To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like. These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
++ To #footnote[1 #emph[Tim.] 5. 10. #emph[Tit.] 2. 4.] bring up children while they are young, with the like.
+
+These therefore ought he with a general consent to refer to her discretion: with limitation only of these two #footnote[2 #emph[King.] 4. 19.] cautions.
 
 1\. That she have in some measure sufficient discretion, #footnote[Cautions about referring matters of the house to the wives ordering.] wit, and wisdom, and be not too ignorant, foolish, simple, lavish, etc.
 
@@ -90,7 +92,6 @@ A general consent is especially requisite for ordering of household affairs: for
 
 + The general charge of all lieth principally upon him.
 + He shall give an account unto God for all things that are amiss in his house.
-
 + The blame of all will also before men lie upon him.
 
 But those two cautions provided, he ought together with his general consent #footnote[#emph[Pro.] 31. 11.] #emph[put trust] in his wife, (as #footnote[#emph[Gen.] 39. 6. Difference betwixt the trust put in a wife, and in others.] #emph[Potiphar] did in #emph[Joseph)] making herein a difference betwixt a wife, and all others whether children of years, friends, or servants whom he employeth in his affairs. Them in every particular he may direct for matter and manner, and take a strait account of them for expenses laid out, or other things done: because what they do is wholly and only for another. To his wife (who is a joint parent of his children, and governor of his house, to whose good the husbands wealth redoundeth, and in that respect doth for her self that which she doth for her husband) greater liberty, and licence must be given.
@@ -129,7 +130,7 @@ Contrary is an ungrateful, if not envious disposition of such #footnote[#emph[Qu
 
 Yet such will be ready to praise other mens wives, and upbraid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
 
-=== §. 22. #emph[Of an husbands] #footnote[Treat. 3. §. 10.] #emph[mildness.]
+=== §. 22. #emph[Of an husbands mildness.]#footnote[Treat. 3. §. 10.]
 
 Hitherto of that respect which an husband is to have of that duty which his wife performeth to him.
 

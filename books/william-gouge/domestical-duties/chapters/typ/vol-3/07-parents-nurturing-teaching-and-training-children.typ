@@ -81,7 +81,7 @@ Much good may from hence arise to parents themselves, to their children, and to 
 
 5\. It is the best ordinary means that can be prescribed to keep a child from the vanities of youth, from immoderate pursuit of pleasures, from unlawful games, from idleness, from ill company, and such like evils; which, as they are sins in themselves, so occasions and provocations to other most grievous and enormous sins, and prove to be the very bane of youth.
 
-#strong[#emph[Object.] Many parents have good lands to leave to their children: what need is there of a #emph[calling] to such?]
+#emph[Object.] Many parents have good lands to leave to their children: what need is there of a #emph[calling] to such?
 
 #emph[Answ.] 1. Much land may soon be consumed by such as have not skill well to use it.
 
@@ -133,7 +133,7 @@ This express charge of the Lord is further commended by that practise which holy
 
 3\. The charge and office of parents bindeth them to teach their #footnote[3\. Charge of parents.] children piety: for they are by God made watchmen over their children: if therefore their children live and die in impiety through their parents negligence, their blood shall be required at their parents hands: instance the example of #footnote[1 #emph[Sam.] 3. 13.] #emph[Eli.]
 
-#strong[#emph[Object.] This duty appertaineth to Ministers. #footnote[Why Parents as well as Ministers are bound to teach piety.]]
+#emph[Object.] This duty appertaineth to Ministers. #footnote[Why Parents as well as Ministers are bound to teach piety.]
 
 #emph[Answ.] 1. God hath given an express charge hereof to parents, as we heard before.
 
@@ -212,7 +212,7 @@ In handling the #emph[time] of #footnote[II. The #emph[Time] of nurture. Nurture
 + When it ought to be #emph[begun.]
 + How long it ought to be #emph[continued.]
 
-1\. Parents ought to begin to nurture their children so soon as they are capable of any instruction. Even as young birds are taught by their dams to fly so soon as their wings can carry them. #footnote[#emph[Pro.] 22. 6.] Train up #emph[a child] (saith #emph[Solomon)] that is, while he is young and tender: and again, #footnote[#emph[&] 13. 24. שחרו מוסר שחר #emph[maneinde in Picl] שחר #emph[mane facere, id est, mature.]] #emph[He that loveth his child nurtureth him betimes.] Thus was #emph[Samuel] sent when he was very young to be trained up under #emph[Eli,] (1 #emph[Sam.] 1. 24.) and #emph[Solomon] was instructed by his father when he was #emph[tender, (Pro.] 4. 3.) and #emph[Timothy] was taught the Scriptures #footnote[2 #emph[Tim.] 3. 15. ἀπὸ βρέφους· Βρέφος τὸ ἄρτι γεγονὸς παιδίον. #emph[Puer recens natus. Reasons.] 1. Evils prevented.] from a young child, or infant.
+1\. Parents ought to begin to nurture their children so soon as they are capable of any instruction. Even as young birds are taught by their dams to fly so soon as their wings can carry them. #footnote[#emph[Pro.] 22. 6.] Train up #emph[a child] (saith #emph[Solomon)] that is, while he is young and tender: and again, #footnote[#emph[&] 13. 24. שחרו מוסר שחר #emph[mane. inde in Piel] שחר #emph[mane facere, id est, mature.]] #emph[He that loveth his child nurtureth him betimes.] Thus was #emph[Samuel] sent when he was very young to be trained up under #emph[Eli,] (1 #emph[Sam.] 1. 24.) and #emph[Solomon] was instructed by his father when he was #emph[tender, (Pro.] 4. 3.) and #emph[Timothy] was taught the Scriptures #footnote[2 #emph[Tim.] 3. 15. ἀπὸ βρέφους· Βρέφος τὸ ἄρτι γεγονὸς παιδίον. #emph[Puer recens natus. Reasons.] 1. Evils prevented.] from a young child, or infant.
 
 There are both #emph[privative,] and #emph[positive] reasons to press this point. #emph[Privative,] in regard of the mischiefs that may be prevented thereby. #emph[Positive,] in regard of the good that may be gained thereby.
 
