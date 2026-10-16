@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 729 |
-| emendation | 359 |
+| spelling | 2324 |
+| emendation | 361 |
 | spacing | 59 |
 | punctuation | 48 |
 | note | 36 |
@@ -11,12 +11,7 @@
 | case | 10 |
 | grammar | 8 |
 | inset | 6 |
-| merge | 3 |
-| skipped | 1 |
-
-## skipped
-
-- [vol-2/book-2-chapter-08.typ] merge at '1' → no paragraph before it
+| merge | 4 |
 
 ## emendation
 
@@ -131,7 +126,8 @@
 - [vol-2/book-2-chapter-08.typ note] 88 → 83
 - [vol-2/book-2-chapter-08.typ note] 142 → 143
 - [vol-2/book-2-chapter-08.typ note] 57 → 58
-- [vol-2/book-2-chapter-08.typ] 59 . Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
+- [vol-2/book-2-chapter-08.typ] Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
+- [vol-2/book-2-chapter-08.typ] 59 . → 
 - [vol-2/book-2-chapter-08.typ] mighty → , might,
 - [vol-2/book-2-chapter-09.typ] 28 → 11
 - [vol-2/book-2-chapter-10.typ note] enterre → en terre
@@ -140,6 +136,7 @@
 - [vol-2/book-2-chapter-11.typ note] cá → çà
 - [vol-2/book-2-chapter-11.typ note] lá → là
 - [vol-2/book-2-chapter-11.typ] at → of
+- [vol-2/book-2-chapter-11.typ] characters honoured → character, honored
 - [vol-2/book-2-chapter-11.typ] clay → day
 - [vol-2/book-2-chapter-12.typ note] 5 → 5:25; 11
 - [vol-2/book-2-chapter-12.typ] the → i.e.
@@ -455,21 +452,81 @@
 
 ## spelling
 
+- honour → honor (×221)
+- favour → favor (×151)
+- Saviour → Savior (×104)
+- labour → labor (×91)
+- baptised → baptized (×78)
+- defence → defense (×50)
+- endeavour → endeavor (×44)
+- offence → offense (×42)
+- neighbour → neighbor (×36)
+- Saviour’s → Savior’s (×31)
+- honourable → honorable (×29)
+- pretence → pretense (×29)
+- fulfil → fulfill (×27)
+- recognise → recognize (×27)
+- splendour → splendor (×26)
+- baptise → baptize (×23)
+- honoured → honored (×22)
+- fulfilment → fulfillment (×20)
+- honours → honors (×20)
+- recognised → recognized (×19)
+- vigour → vigor (×19)
+- laboured → labored (×16)
+- labours → labors (×16)
+- offences → offenses (×16)
+- colour → color (×15)
+- neighbour’s → neighbor’s (×15)
+- savour → savor (×15)
+- worshippers → worshipers (×15)
 - behaved → behoved (×13)
+- sepulchre → sepulcher (×13)
+- licence → license (×12)
+- odour → odor (×12)
+- rigour → rigor (×12)
 - threatening → threatenings (×12)
+- favourable → favorable (×11)
+- recognising → recognizing (×11)
 - retake → betake (×11)
+- neighbours → neighbors (×10)
+- succour → succor (×10)
 - Gods → God, (×9)
+- armour → armor (×8)
+- counsellor → counselor (×8)
+- endeavouring → endeavoring (×8)
+- endeavours → endeavors (×8)
+- sceptre → scepter (×8)
+- clamour → clamor (×7)
+- favours → favors (×7)
+- realised → realized (×7)
+- theatre → theater (×7)
+- baptising → baptizing (×6)
+- dishonour → dishonor (×6)
+- endeavoured → endeavored (×6)
+- labourers → laborers (×6)
 - minds → mind, (×6)
+- rebaptised → rebaptized (×6)
+- skilful → skillful (×6)
 - Origin → Origen (×5)
 - Scriptures → Scripture, (×5)
+- favoured → favored (×5)
+- labouring → laboring (×5)
+- marvellous → marvelous (×5)
+- neighbouring → neighboring (×5)
 - prophets → prophet, (×5)
 - see → sec (×5)
+- traveller → traveler (×5)
 - ways → way, (×5)
 - whose → whoso (×5)
+- Honour → Honor (×4)
 - Isiah → Isaiah (×4)
+- acknowledgement → acknowledgment (×4)
 - ceaselessly → causelessly (×4)
 - foreknow → foreknew (×4)
-- glamour → clamour (×4)
+- glamour → clamor (×4)
+- honourably → honorably (×4)
+- honouring → honoring (×4)
 - is → is, (×4)
 - its → it, (×4)
 - levity → lenity (×4)
@@ -477,58 +534,95 @@
 - prayers → prayer, (×4)
 - qu → que (×4)
 - reasons → reason, (×4)
+- savours → savors (×4)
+- sceptres → scepters (×4)
+- stigmatise → stigmatize (×4)
 - where → were (×4)
+- worshipper → worshiper (×4)
 - Ahab → Ahaz (×3)
 - Conformation → Confirmation (×3)
 - Dionysus → Dionysius (×3)
 - Homily → Homil (×3)
+- NEIGHBOUR’S → NEIGHBOR’S (×3)
+- baptises → baptizes (×3)
+- candour → candor (×3)
+- catechising → catechizing (×3)
+- colours → colors (×3)
 - condemn → contemn (×3)
 - days → day, (×3)
+- despatch → dispatch (×3)
+- dishonoured → dishonored (×3)
+- meagre → meager (×3)
 - passages → passage, (×3)
+- philosophise → philosophize (×3)
+- recognises → recognizes (×3)
+- rumour → rumor (×3)
 - theme → them, (×3)
 - wills → will, (×3)
 - women → woman (×3)
+- Baptise → Baptize (×2)
 - Bone → Bono (×2)
+- Counsellor → Counselor (×2)
 - Fathers → Father, (×2)
 - God → Good (×2)
 - Persian → Persians (×2)
 - Philistine → Philistines (×2)
 - Whose → Whoso (×2)
 - admits → admit, (×2)
+- anathematised → anathematized (×2)
+- apologises → apologizes (×2)
+- ardour → ardor (×2)
 - asks → ask, (×2)
+- authorised → authorized (×2)
 - behave → behove (×2)
+- behaviour → behavior (×2)
+- characterised → characterized (×2)
+- civilisation → civilization (×2)
 - consciences → conscience, (×2)
 - essences → essence, (×2)
+- eulogise → eulogize (×2)
 - exceptions → exception, (×2)
 - expressions → expression, (×2)
+- fervour → fervor (×2)
 - flagitous → flagitious (×2)
 - fleshy → flesh, (×2)
+- fulfils → fulfills (×2)
+- harbour → harbor (×2)
 - hesitations → hesitation, (×2)
+- humours → humors (×2)
 - judgments → judgment, (×2)
 - justifications → justification, (×2)
 - kingdoms → kingdom, (×2)
+- lustre → luster (×2)
 - maintains → maintain, (×2)
 - merits → merit, (×2)
 - minutes → minutest (×2)
+- mitres → miters (×2)
 - note → not, (×2)
 - ommited → omitted (×2)
 - ommitted → omitted (×2)
+- organised → organized (×2)
 - orthodoxy → orthodox (×2)
 - par → pas (×2)
+- particularise → particularize (×2)
 - passages → passage (×2)
-- presence → pretence (×2)
+- practised → practiced (×2)
+- presence → pretense (×2)
 - reasons → reason (×2)
 - reconciliations → reconciliation, (×2)
 - retakes → betakes (×2)
 - retaking → betaking (×2)
 - rights → right, (×2)
 - saving → saying (×2)
+- scrutinise → scrutinize (×2)
 - sees → seest (×2)
+- stigmatised → stigmatized (×2)
 - terms → term, (×2)
 - then → than (×2)
 - then → them (×2)
 - therefore → therefore, (×2)
 - times → time, (×2)
+- unbaptised → unbaptized (×2)
 - uses → use, (×2)
 - verdant → versant (×2)
 - views → view, (×2)
@@ -553,8 +647,10 @@
 - Asian → Asia,
 - Athanasuis → Athanasius
 - BRIEFLY → CHIEFLY
+- Baptiser → Baptizer
 - Beats → Beata
 - Bert → Berd
+- Candour → Candor
 - Catechism → Catechismo
 - Certainly → Certain
 - Chalcedony → Chalcedon
@@ -578,6 +674,7 @@
 - Genesis → Genesim
 - Gods → God
 - Gratis → Gratia
+- HONOUR → HONOR
 - Hence → Whence
 - Ies → les
 - Ills → Ils
@@ -586,6 +683,8 @@
 - Janur → Januar
 - Jerusalem → Jerusalem,
 - Julia → Julian
+- LABOUR → LABOR
+- LICENCE → LICENSE
 - Lateral → Lateran
 - Latin → Latin,
 - Lawgivers → Lawgiver,
@@ -597,6 +696,7 @@
 - Matthiue → Matthieu
 - Morever → Moreover
 - Mortals → Mortuis
+- NEIGHBOUR → NEIGHBOR
 - Nature → Natura
 - Not → No
 - Nothings → Nothing,
@@ -609,7 +709,6 @@
 - Pœitentia → Pœnitentia
 - Sam → Sam.
 - Satan’s → Satan,
-- Savior → Saviour
 - Section → Sections
 - Simplie → Simplic
 - Sion → Zion
@@ -635,8 +734,11 @@
 - affections → affection,
 - afflicted → inflicted
 - aims → aim,
+- allegorise → allegorize
 - alore → alors
 - ambitions → ambition,
+- anathematise → anathematize
+- anathematises → anathematizes
 - apostles → apostle,
 - appending → appendix
 - apprehensions → apprehension
@@ -652,6 +754,7 @@
 - avous → avons
 - axe → are
 - axioms → axiom,
+- baptiser → baptizer
 - bean → been
 - behaves → behoves
 - benedicion → benediction
@@ -664,15 +767,19 @@
 - breasts → breast,
 - breviare → breviaire
 - burials → burial,
+- bye → by
 - call → called
 - callings → calling,
 - camparison → comparison
 - cap → cap.
+- centre → center
 - chairty → charity
 - chapters → chapter,
-- characters → character,
+- characterise → characterize
 - cisteren → cisterne
+- civilised → civilized
 - classes → causes
+- colouring → coloring
 - comes → cometh
 - comets → cometh
 - commencment → commencement
@@ -686,6 +793,7 @@
 - coporeally → corporeally
 - corresponds → correspond
 - corruptions → corruption,
+- counsellors → counselors
 - dangers → danger,
 - deaths → death,
 - decivers → deceivers
@@ -700,12 +808,15 @@
 - diligences → diligence,
 - directions → direction,
 - discernments → discernment,
+- dishonourable → dishonorable
+- dishonouring → dishonoring
 - dismays → dismay,
 - disscussion → discussion
 - distinction → discussion
 - distinctions → distinction,
 - divcs → divos
 - doctrines → doctrine,
+- dogmatising → dogmatizing
 - done → donc
 - doors → doers
 - dose → does
@@ -728,6 +839,8 @@
 - errors → error,
 - estra → estre
 - eto → ete
+- eulogised → eulogized
+- eulogises → eulogizes
 - evils → evil,
 - exhortations → exhortation,
 - experiences → experience,
@@ -736,23 +849,31 @@
 - expression → expressions
 - eyes → eye
 - faith → faith,
+- familiarising → familiarizing
 - fastings → fasting,
+- favourite → favorite
+- fertilise → fertilize
+- fertilising → fertilizing
 - filly → fully
 - fins → sins
 - formaæ → formæ
 - foul → soul
 - fradulently → fraudulently
 - friend → friends
-- fulfill → fulfils
+- fulfill → fulfills
 - furry → fury
 - further → farther
 - glow → glory
 - goes → gives
+- gormandising → gormandizing
 - governments → government,
 - gravity → pravity
+- grey → gray
 - grounds → ground,
 - gue → que
 - guod → quod
+- harmonise → harmonize
+- harmonises → harmonizes
 - has → had
 - having → have
 - having → saving
@@ -769,6 +890,7 @@
 - his → this
 - holds → hold,
 - humaiu → humain
+- humoured → humored
 - hæ → hæc
 - illusion → allusion
 - improve → approve
@@ -780,6 +902,7 @@
 - inheritances → inheritance,
 - insanc → insano
 - inspired → inspires
+- instil → instill
 - intellects → intellect,
 - intends → intend,
 - interogated → interrogated
@@ -798,6 +921,7 @@
 - justified → justifies
 - knew → know
 - know → known
+- labourer → laborer
 - laquelie → laquelle
 - lar → la
 - leave → have
@@ -816,6 +940,8 @@
 - midst → didst
 - mighty → might,
 - minister → sinister
+- mitre → miter
+- modelled → modeled
 - moreover → moreover,
 - mouths → mouth,
 - nations → nation,
@@ -833,6 +959,7 @@
 - n’ancun → n’aucun
 - n’empeehe → n’empeche
 - obsesrvations → observations
+- odours → odors
 - off → of
 - oft → off
 - omited → omitted
@@ -848,6 +975,7 @@
 - parts → pacto
 - passives → passive,
 - patent → paten
+- patronise → patronize
 - pealing → prating
 - pens’t → pensât
 - peoples → people,
@@ -868,12 +996,14 @@
 - powers → power—
 - presumptions → presumption,
 - preten → pretend
+- pretences → pretenses
 - priests → priest,
 - principle → principal
 - prosperity → posterity
 - psalms → psalm
 - psalms → psalm,
 - qu → qui
+- quarrelling → quarreling
 - que → qui
 - quells → quelles
 - quote → quoted,
@@ -881,6 +1011,7 @@
 - qu’amoindrir → qu’amoindrir,
 - qu’il → qu'il
 - rathers → rather
+- rebaptise → rebaptize
 - recoit → reçoit
 - redemptions → redemption,
 - reduction → reductio
@@ -902,14 +1033,18 @@
 - saini → asini
 - sakes → sake,
 - samblant → semblant
+- saviour → savior
+- savouring → savoring
 - say → says
 - says → says,
 - scented → seemed
 - separated → separate
 - seperance → esperance
+- sepulchres → sepulchers
 - servants → servant
 - shorts → short,
 - shows → show,
+- signalised → signalized
 - significance → significancy
 - sina → sins
 - sits → sists
@@ -924,6 +1059,7 @@
 - squ → sq
 - sses → ses
 - stamps → stamp,
+- stigmatises → stigmatizes
 - stnads → stands
 - strengths → strength,
 - subjects → subject
@@ -935,6 +1071,7 @@
 - suffered → suffer
 - superflous → superfluous
 - surer → sure,
+- sympathise → sympathize
 - tablet → tabret
 - tact → fact
 - teis → tels
@@ -955,17 +1092,23 @@
 - trougle → trouble
 - truths → truth,
 - turns → turn,
+- tyrannise → tyrannize
+- tyrannises → tyrannizes
 - uit → ult
 - unas → unus
 - uncerstand → understand
+- unfavourable → unfavorable
+- unhonoured → unhonored
 - unity → unity.
 - universes → universe,
 - unjustly → justly
 - unnamed → inflamed
 - use → us,
+- valour → valor
 - veuillins → veuillions
 - vices → vice,
 - viloer → violer
+- vulgarised → vulgarized
 - was → wash
 - were → were,
 - when → when,
