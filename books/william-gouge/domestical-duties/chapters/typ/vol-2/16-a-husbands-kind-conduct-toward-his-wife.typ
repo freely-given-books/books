@@ -1,6 +1,6 @@
 == A Husband’s Kind Conduct toward His Wife
 
-=== §. 40. #emph[Of an husbands] #footnote[Treat. 3. §. 10.] #emph[amiable countenance towards his wife.]
+=== §. 40. #emph[Of an husbands amiable countenance towards his wife.]#footnote[Treat. 3. §. 10.]
 
 An husbands carriage towards his wife must be answerable #footnote[An husbands carriage must be mild.] to his speech, or else all the mildness thereof will seem but complemental.
 

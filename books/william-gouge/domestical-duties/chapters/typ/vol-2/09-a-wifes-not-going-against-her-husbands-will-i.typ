@@ -12,8 +12,8 @@ Contrary is the stoutness of such wives as must have their #footnote[Contrary to
 
 A wives #emph[obedience] requireth
 
-+ #emph[Submission.]
-+ #emph[Contentment.]
+- #emph[Submission.]
+- #emph[Contentment.]
 
 #emph[Submission] in yielding to her husbands mind and will.
 
@@ -93,7 +93,7 @@ II. For the #emph[occasion] of disposing goods it may be ordinary or extraordina
 
 Concerning such as are out of the family, if they be in great need, and require present relief, though the wife know her husband to be so hard-hearted, as he will not suffer her to relieve such an one, yet without his consent she may relieve him. The ground of this and other like cases is that rule laid down by the Prophets, and by Christ himself, viz. #footnote[#emph[Ose.] 6. 6. #emph[Mat.] 9. 13. #emph[&] 12. 7.] #emph[I will have mercy and not sacrifice.] If God in case of mercy dispenseth with a duty due to himself, will he not much more dispense with a duty due to an husband?
 
-=== §. 23. #emph[Of a wives] #footnote[Treat. 4. §. 54.] #emph[restraint in disposing goods without consent of her husband: and of the ground of that restraint.]
+=== §. 23. #emph[Of a wives restraint in disposing goods without consent of her husband: and of the ground of that restraint.]#footnote[Treat. 4. §. 54.]
 
 Out of all these things thus premised I gather the true state #footnote[Non potest vxor ex bonis communibus occulte accipere ad donandum vel ad erogandum in alios vsus sine expressa, aut praesumpta saltem viri licentia. Greg. Sayr. loc. citat.] of the question in controversy concerning the power of wives in disposing the goods of the family to be this,
 

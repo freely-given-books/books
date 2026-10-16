@@ -46,20 +46,20 @@ The #emph[Streams] issuing from thence extend unto parents, both while they are 
 
 Childrens duties which are to be performed to their parents while they live, have respect to their
 
-+ #emph[Authority.]
-+ #emph[Necessity.]
+- #emph[Authority.]
+- #emph[Necessity.]
 
 The #emph[Authority] of parents requireth of children
 
-+ #emph[Reverence.]
-+ #emph[Obedience.]
+- #emph[Reverence.]
+- #emph[Obedience.]
 
 Their #emph[Necessity] requireth #emph[Recompense.]
 
 The duties which children owe to their parents deceased, respect their
 
-+ #emph[Body.]
-+ #emph[Credit.]
+- #emph[Body.]
+- #emph[Credit.]
 
 Their #emph[Body] with decency must be #emph[buried.]
 
@@ -115,8 +115,8 @@ In presence, by #emph[refraining] and #emph[well framing] their speech.
 
 For refraining speech two virtues are requisite
 
-+ #emph[Silence.]
-+ #emph[Patience.]
+- #emph[Silence.]
+- #emph[Patience.]
 
 Silence in #emph[forbearing] to speak, and #emph[breaking] of speech. #footnote[Children ought to forbear speaking in their parents presence]
 

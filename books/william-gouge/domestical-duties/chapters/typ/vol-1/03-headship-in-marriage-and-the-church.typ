@@ -89,17 +89,14 @@ I will further consider these examples of Christ and the Church more distinctly 
 
 #v(0.8em)
 
-Behold here the mutual relation betwixt
+Behold here the mutual relation betwixt Christ and the Church.
 
-+ Christ.
-+ The Church.
-
-Wherein note concerning Christ,
+#emph[Wherein note concerning Christ,]
 
 + His preeminence over the Church, #emph[(he is her head.)]
 + His goodness to her, #emph[(he is her Saviour.)]
 
-Note also concerning the Church,
+#emph[Note also concerning the Church,]
 
 + Her prerogative, #emph[(she is the body of Christ.)]
 + Her duty. In laying down whereof there is noted,
@@ -228,20 +225,16 @@ This is a point of admirable comfort to such as have assurance #footnote[Use.] o
 
 + A mystical union with Christ.
 + A spiritual communion with the Saints.
-
-#[
-#set enum(start: 1)
-+ By virtue of that union they who are of Christs body,
-  + #footnote[#emph[Eph.] 4. 15, 16.] Receive grace, and life from him.
-  + #footnote[#emph[Joh.] 17. 6.] Are guided and governed according to his will.
-  + #footnote[#emph[Joh.] 17. 10.] Seek to honour him in all things they do.
-  + #footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.] Are offended and grieved when he is dishonoured by others.
-+ By reason of their communion with the Saints being fellow members,
-  + #footnote[1 #emph[Joh.] 4. 11.] They love the brethren.
-  + #footnote[#emph[Mat.] 25. 40.] They are ready to succour such as are in distress.
-  + #footnote[#emph[Eph.] 4. 16.] They will edify one another.
-  + #footnote[1 #emph[Cor.] 12. 26.] They retain a mutual sympathy: rejoicing, and mourning one with another.
-]
+  + By virtue of that union they who are of Christs body,
+    + Receive grace, and life from him.#footnote[#emph[Eph.] 4. 15, 16.]
+    + Are guided and governed according to his will.#footnote[#emph[Joh.] 17. 6.]
+    + Seek to honour him in all things they do.#footnote[#emph[Joh.] 17. 10.]
+    + Are offended and grieved when he is dishonoured by others.#footnote[#emph[Gal.] 3. 1. #emph[Psal.] 119. 136.]
+  + By reason of their communion with the Saints being fellow members,
+    + They love the brethren.#footnote[1 #emph[Joh.] 4. 11.]
+    + They are ready to succour such as are in distress.#footnote[#emph[Mat.] 25. 40.]
+    + They will edify one another.#footnote[#emph[Eph.] 4. 16.]
+    + They retain a mutual sympathy: rejoicing, and mourning one with another.#footnote[1 #emph[Cor.] 12. 26.]
 
 === §. 23. #emph[Of the restraint of the benefit of Christs headship to them only that are of his body.]
 

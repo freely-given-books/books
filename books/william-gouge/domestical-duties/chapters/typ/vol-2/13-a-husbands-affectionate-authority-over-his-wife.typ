@@ -29,7 +29,7 @@ The Apostle compriseth the whole #emph[matter] of them all under #emph[love,] wh
 
 This we will first handle: and then proceed to other particulars.
 
-=== §. 2. #emph[Of that] #footnote[Treat. 3. §. 2. 1. Husbands must love their wives.] #emph[love which husbands owe their wives.]
+=== §. 2. #emph[Of that love which husbands owe their wives.]#footnote[Treat. 3. §. 2. 1. Husbands must love their wives.]
 
 This head of all the rest, #emph[love,] is expressly set down, and alone mentioned in this, and in many other places of Scripture, whereby it is evident, that all other duties are comprised under it.
 
@@ -63,7 +63,7 @@ Hence was it that a divorce was suffered to be made betwixt #footnote[#emph[Deut
 
 Neither is it sufficient for an husband not to hate his wife, #footnote[2\. Want of love.] for even the #emph[want of love,] though it be only a privation, yet is it a great vice, and contrary also to the forenamed duty of love. Where this #emph[want of love] is, there can be no duty well performed, even as when the great wheel of a clock, the first mover of all the rest, is out of frame, never a wheel can be in good order. They that think lightly hereof, plainly discover that there is little or no love of God in them at all: for if the Apostles inference be good, taken from a mans neighbour or brother whom #footnote[1 #emph[Joh.] 4. 20.] he hath seen, it will much more be good having relation to a wife: for #emph[how can he who loveth not his wife,] (whom God hath given to him as a token of his favour, and as an help meet for him, to be in his bosom, and ever in his sight, yea to be no more two, but one flesh) #emph[love God whom he hath not seen? If any man saith, he loveth God, and hate his wife, he is a liar.] Let husbands therefore by loving their wives give evidence that they love God.
 
-=== §. 4. #emph[Of an husbands] #footnote[Treat. 3. §. 9. Branches of love.] #emph[wise maintaining his authority.]
+=== §. 4. #emph[Of an husbands wise maintaining his authority.]#footnote[Treat. 3. §. 9. Branches of love.]
 
 All the branches which grow out of this root of #emph[love,] as they have respect to husbands duties, may be drawn to two heads:
 
@@ -106,7 +106,7 @@ And contrary is their servile disposition, who against their #footnote[3\. Yield
 
 Let husbands therefore be very watchful against their wives evil instigations. Satan laboured to supplant #emph[Job] by his wife: and by this doth he subvert many in these days.
 
-=== §. 6. #emph[Of husbands] #footnote[Treat. 3. §. 3. How a mans authority may be well managed.] #emph[high account of wives.]
+=== §. 6. #emph[Of husbands high account of wives.]#footnote[Treat. 3. §. 3. How a mans authority may be well managed.]
 
 As authority must be well #emph[maintained,] so must it be well #emph[managed:] for which purpose two things are needful:
 
@@ -115,20 +115,20 @@ As authority must be well #emph[maintained,] so must it be well #emph[managed:] 
 
 An husbands tender respect of his wife is
 
-+ #emph[Inward.]
-+ #emph[Outward.]
+- #emph[Inward.]
+- #emph[Outward.]
 
 #emph[Inward] in regard of his
 
-+ #emph[Opinion] of her.
-+ #emph[Affection] to her.
+- #emph[Opinion] of her.
+- #emph[Affection] to her.
 
 Outward in regard of his #emph[carriage] towards her.
 
 For an husbands #emph[opinion] of his wife, two things are to be weighed
 
-+ Her #emph[place.]
-+ Her #emph[person.]
+- Her #emph[place.]
+- Her #emph[person.]
 
 1\. Her #emph[place] is indeed a place of inferiority, and subjection, yet the nearest to equality that may be: a place of common #footnote[Husbands must account their wives yoke-fellows. 1 #emph[Pet.] 3. 7.] equity in many respects, wherein man and wife are after a sort even fellows, and partners: Hence then it followeth that
 
@@ -154,7 +154,7 @@ As#footnote[Debet in vxorem vir dominari, vt animus in corpus, consentiens ei, &
 
 Contrary is the conceit of many who think there is no #footnote[#emph[Non es dominus sed maritus: non ancillam sortitus es, sed vxorem: gubernatorem te Deus voluit esse sexus inferioris, non praepotentem. Ambr. Hexaem. lib.] 5. #emph[cap.] 7.] difference betwixt a wife and servant but in familiarity: and that wives were made to be servants to their husbands, because subjection, fear and obedience are required of them: whence it cometh to pass that wives are oft used little better then servants. A conceit and practise savouring too much of heathenish, and sottish arrogancy. Did God at first take the wife out of mans side, that man should tread her under his feet? Or rather that he should set her at his side next to him above all children, servants, or any other in the family, how near, or dear unto him soever? For none can be nearer then a wife, and none ought to be dearer.
 
-=== §. 9. #emph[Of husbands good esteem of their] #footnote[Treat. 3. §. 5. IIII. Husbands must account their own wives best for them.] #emph[own wives.]
+=== §. 9. #emph[Of husbands good esteem of their own wives.]#footnote[Treat. 3. §. 5. IIII. Husbands must account their own wives best for them.]
 
 2\. For the #emph[person] of a wife, #emph[An husband ought to esteem that particular person to whom by Gods providence he is joined in marriage, to be the fittest, and best for him.] This is implied under that particle of restraint (OWN) noted by the Apostle where he saith #footnote[#emph[Eph.] 5. 25.] #emph[husbands love your] OWN #emph[wives,] and again presseth it under a comparison of the body #emph[(as] #footnote[#emph[Vers.] 28.] #emph[your] OWN #emph[bodies)] Every one thinketh his own body best and fittest for him. A man might happily wish some defects or enormities in his own body to be amended, and desire that his were like an others, more strait, strong, and comely then his own, yet would he not have his head to be upon that other mans body: the same opinion ought a man (that would love his wife) to have of her.
 
@@ -170,7 +170,7 @@ Good reason there is for him so to do: for true is the proverb, #footnote[#emph[
 
 Contrary is a corrupt and perverse opinion which many have of their #emph[own] wives, thinking them of all other the worst and unfittest; yea though they be such as every way both in gifts and qualities of mind, and also in grace and comeliness of body deserve all good respect and esteem. Whereas #emph[others] (which look with a single eye) commend their good parts, #emph[they] misinterpret and misjudge all: if their wives be religious, they think them #emph[hypocrites:] if grave, sober and modest, #emph[melancholic:] if cheerful, #emph[wanton:] if they keep at home, #emph[idle drones:] if they take occasion (though never so just) of going abroad, #emph[gadders, and lightfooted.] This bad opinion of their wives is a cause that their hearts are clean removed from their own, and set upon strange flesh: whereby the devil gaineth what he desireth, that is, to put asunder such as God hath joined together, and to join those whom God hath put asunder.
 
-=== §. 11. #emph[Of husbands] #footnote[Treat. 3. §. 7. V. Husbands must entirely delight in their wives.] #emph[entire affection to their wives.]
+=== §. 11. #emph[Of husbands entire affection to their wives.]#footnote[Treat. 3. §. 7. V. Husbands must entirely delight in their wives.]
 
 An husbands #emph[affection] to his wife must be answerable to his #emph[opinion] of her: he ought therefore #emph[to delight in his wife entirely,] that is, so to #emph[delight in her as wholly and only delighting in her:] In this respect the Prophets wife is called the #footnote[#emph[Ezec.] 24. 16. מחמד עיניך] #emph[desire,] or delight, or pleasure #emph[of his eyes:] that wherein he most of all delighted, and therefore by a propriety so called.
 

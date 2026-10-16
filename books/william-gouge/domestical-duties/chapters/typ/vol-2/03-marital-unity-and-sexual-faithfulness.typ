@@ -51,8 +51,8 @@ The second necessary common-mutual marriage-duty is #emph[Matrimonial chastity. 
 
 Chastity thus restrained to the body is of
 
-+ #emph[Single life.]
-+ #emph[Wedlock.]
+- #emph[Single life.]
+- #emph[Wedlock.]
 
 That of single life is opposed to fornication: and it is either of such as never were married. Such an one was #emph[S. Paul,] in which respect he wisheth that all were as he, 1 #emph[Cor.] 7. 7. Or of such as are lawfully freed from the bond of marriage. Such an one the Apostle calleth #footnote[ὄντως χήρα. 1 #emph[Tim.] 5. 5. #emph[Paphnutius congressum cum legitima vxore castitatem esse dicebat. Socr. hist. Eccl. l.] 1. #emph[cap.] 11.] #emph[a widow indeed.] Chastity of wedlock is that virtue whereby parties married, observing the lawful and honest use of marriage, keep their bodies from being defiled with strange flesh: thus the Apostle commandeth #emph[wives] to be #emph[chaste, Tit.] 2. 5. So as #footnote[Qui leges coniugij seruat homini continenti par sit. Greg. Naz. Cygn. Carm.] they that keep the laws of wedlock are as chaste as they that contain.
 

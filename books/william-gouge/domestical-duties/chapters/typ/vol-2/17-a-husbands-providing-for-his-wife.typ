@@ -23,8 +23,8 @@ It ought to extend both to #emph[her self,] and to #emph[others.]
 
 In regard of her self, to her
 
-+ Soul.
-+ Body.
+- Soul.
+- Body.
 
 For her #emph[Soul,] means of spiritual edification must be provided, and those both private and public. Private means, are #footnote[Private means of edification.] holy and religious exercises in the house, as reading the word, prayer, catechising, and such like; which being the spiritual food of the soul are to be every day, as our bodily food, provided and used. An husband as a master of a family must provide these for the good of his whole house; but as an husband, in special for the good of his wife: for to his wife, as well as to the whole house he is a King, a Priest, and a Prophet.
 
@@ -46,7 +46,7 @@ To the body also must an husbands provident care of his wife extend: and that bo
 
 This was #footnote[Treat. 2. Part. 2. §. 29.] before noted among common mutual duties; for by virtue of the matrimonial bond it belongeth both to man and wife: but to the man it appertaineth by virtue of that power and charge which he hath over his wife: and therefore it was needful here to be touched.
 
-=== §. 50. #emph[Of an husbands] #footnote[Treat. 3. §. 49.] #emph[provident care for his wife about her child-bearing.]
+=== §. 50. #emph[Of an husbands provident care for his wife about her child-bearing.]#footnote[Treat. 3. §. 49.]
 
 Most proper to this place is that provident care which husbands ought to have of their wives both before and in the time of their travel and child-bed: and that in two things especially.
 
@@ -72,7 +72,7 @@ Many other such bitter fruits of unkind husbands arising from covetousness might
 
 2\. Others through jealous suspicion forbear not even in #footnote[#emph[Si quid vxor peccauerit consolare & noli moerorem augere. Chrys. hom.] 26. #emph[in] 1 #emph[Cor.] 11.] the time of their wives pain and weakness, to upbraid them with lightness, and to say that the child is none of theirs. To lay this to a wives charge unjustly, is at any time a most shameful and odious reproach: but in the time of childbirth whether just or unjust, a thing too too spiteful and revengeful. Some wives are so far overcome thereby, (especially in the time of their weakness) as they are not able to bear it, but even faint and die under the reproach: others more stout vow never to know their husbands again. Many like mischiefs follow on such unkindness.
 
-=== §. 52. #emph[Of an husbands] #footnote[Treat. 3. §. 38.] #emph[providing for his wife according to his estate and ability.]
+=== §. 52. #emph[Of an husbands providing for his wife according to his estate and ability.]#footnote[Treat. 3. §. 38.]
 
 In an husbands providing for the body of his wife respect must be had to the #emph[measure,] and to the #emph[manner.]
 
@@ -86,7 +86,7 @@ Both in the #emph[measure] and in the #emph[manner] of providing, there must be 
 
 Contrary is an husbands niggardly dealing with his wife: when the allowance she hath is both far under his estate, and also so given her by little and little, as if she were a child. Many husbands make their wives drudge at home, fare hardly, and go meanly; who are themselves brave in apparel, frolic in their feasting abroad, and so exceed their wives as they are ashamed to be seen in company with them. They who marry their maids, or others of meaner rank then themselves, oft so deal with them: esteeming them but as servants and mean persons though they be their wives. But it hath been #footnote[§. 6.] before showed, that wives by marriage are advanced to their husbands dignity, how mean soever they were before.
 
-=== §. 54. #emph[Of husbands] #footnote[Treat. 3. §. 23. 29. 33.] #emph[allowing their wives to bestow on others, as they see good occasion.]
+=== §. 54. #emph[Of husbands allowing their wives to bestow on others, as they see good occasion.]#footnote[Treat. 3. §. 23. 29. 33.]
 
 So far ought the provident care of an husband for his wife to extend, as she may have (beside things needful to her self) to bestow on such as it is requisite for her to give unto: as namely, on children and servants in the house, and others also out of the house. For so much is noted in #emph[Solomons] description #footnote[#emph[Pro.] 31. 15. #emph[etc. Vers.] 21. #emph[Vers.] 28.] of a good wife; #emph[She giveth meat to her household, and a portion to her maidens: all her household is clothed with scarlet] (namely, by her ordering and disposing the matter.) #emph[Her children rise up and call her blessed,] as for her general carriage in the family, so for her particular favours bestowed on themselves. As for #footnote[#emph[Vers.] 20.] others out of the house, it is also noted, that #emph[she stretcheth out her hand to the poor, and reacheth forth her hands to the needy.] These things she did by virtue of that power and liberty which her husband gave her: as appeareth by two points there noted:
 

@@ -116,8 +116,8 @@ The vice here noted to be contrary to sincere service is termed #footnote[ὀφ�
 
 And that is twofold
 
-+ #emph[Hypocritical.]
-+ #emph[Parasitical.]
+- #emph[Hypocritical.]
+- #emph[Parasitical.]
 
 #emph[Hypocritical] service is that which is merely in show: when that is pretended to be done which indeed is not done; as if a servant should come from his masters work all in a sweat, as if he had taken extraordinary pains therein, whereas he hath done nothing at all, but otherwise made himself to sweat, or only made a show of sweat.
 

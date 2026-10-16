@@ -173,8 +173,8 @@ Spiritual self-love is that which is supernaturally wrought in man by Gods Spiri
 
 The self-love which is evil swerveth in the
 
-+ #emph[Object.]
-+ #emph[Measure.]
+- #emph[Object.]
+- #emph[Measure.]
 
 1\. In the #emph[Object,] when it is cast upon our corruptions, our lusts, our evil humors: when we affect and love them, and for them pursue whatsoever may satisfy them: as the ambitious, lustful, riotous, gluttonous, and other like persons. This is expressly forbidden, #emph[Make not provision for the flesh to fulfill] #footnote[#emph[Rom.] 13. 14.] #emph[the lusts thereof.]
 

@@ -1,6 +1,6 @@
 == A Wife’s Not Going Against Her Husband’s Will (II)
 
-=== §. 33. #emph[Of the] #footnote[Treat. 4. §. 54.] #emph[subjection of wives in distributing goods to charitable uses.]
+=== §. 33. #emph[Of the subjection of wives in distributing goods to charitable uses.]#footnote[Treat. 4. §. 54.]
 
 Some that grant that a wife is so subjected to her husband in a civil manner, as she may not dispose any part of his goods at her pleasure to any civil use, deny this subjection to extend to giving of alms, and such like charitable uses.
 
@@ -52,7 +52,7 @@ I do not here directly affirm that #emph[Chuza] was then dead, but for ought tha
 
 I do not certainly determine any of these expressly to be so, I do but note them as probabilities, yet such as do sufficiently overthrow the surmised liberty of a wife in giving alms without any consent of her husband: for this of all other probabilities seemeth to be most improbable. Into my heart it can never enter to imagine that Christ would give such an occasion of slander unto his enemies, as to say he carried about with him other mens wives, without or against the consent of their husbands, and suffered them to spend the goods of their husbands upon him. I had much rather think that either such women as followed him had no husbands living, or if they had, that they did that which they did with the consent of their husbands.
 
-=== §. 38. #emph[Of the] #footnote[Treat. 4. §. 18. 52.] #emph[restraint of wives about allowance for themselves or families without their husbands consent.]
+=== §. 38. #emph[Of the restraint of wives about allowance for themselves or families without their husbands consent.]#footnote[Treat. 4. §. 18. 52.]
 
 That which hath hitherto been delivered concerning a wives subjection in disposing goods, may also be applied to other things concerning her self, children, servants, etc. Whereof I will give some examples.
 
@@ -62,7 +62,7 @@ A wife hath not power to appoint what she list her self without or against her h
 
 #emph[Answ.] She ought, if possibly she can by her own instant persuasion, or any other fair means, move him to that which tendeth to his honour and reputation: but if she can no way prevail, her subjection requireth contentment and patience.
 
-=== §. 39. #emph[Of a wives] #footnote[Treat. 4. §. 18.] #emph[subjection to her husband about children.]
+=== §. 39. #emph[Of a wives subjection to her husband about children.]#footnote[Treat. 4. §. 18.]
 
 A wife may not simply without, or directly against her husbands consent, order and dispose of the children in giving them names, apparelling their bodies, appointing their callings, places of bringing up, marriages, or portions.
 
@@ -82,7 +82,7 @@ Whereas in Scripture it is sometimes said that the mothers named their children,
 
 5\. The law that layeth the charge upon husbands to give #footnote[5\. Portions. #emph[Deut.] 21. 15, #emph[etc.]] such and such portions to his children, and the answerable practise of husbands from time to time, show that the wife of her self hath not power to order them.
 
-=== §. 40. #emph[Of a wives] #footnote[Treat. 4. §. 18.] #emph[subjection to her husband about ordering servants and beasts.]
+=== §. 40. #emph[Of a wives subjection to her husband about ordering servants and beasts.]#footnote[Treat. 4. §. 18.]
 
 If wives must have their husbands consent in ordering and disposing of their children which come out of her womb, much more of their servants.
 
@@ -96,7 +96,7 @@ Against those particulars of children and servants it may be objected, that wive
 
 The like may be said of their beasts and cattle, a particular point noted also in the example of the Shunammite, who having occasion to use a beast went to her husband, and said, #emph[send I pray thee with me one of the asses.] #footnote[2 #emph[King.] 4. 22.]
 
-=== §. 41. #emph[Of a wives] #footnote[Treat. 4. §. 18.] #emph[subjection in entertaining strangers journeying abroad, and making vows.]
+=== §. 41. #emph[Of a wives subjection in entertaining strangers journeying abroad, and making vows.]#footnote[Treat. 4. §. 18.]
 
 If wives may not at their pleasure use the things appertaining to the house, much less may they bring strangers into the house and entertain them without or against their husbands consent. The good Shunammite so often named as a precedent #footnote[2 #emph[King.] 4. 10.] for good wives, first asked her husbands consent, before she lodged a Prophet of the Lord.
 

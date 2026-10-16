@@ -20,8 +20,8 @@ In the last place the duties of masters are declared by the Apostle, and that in
 
 The #emph[kinds] are set forth
 
-+ Generally #emph[(do the same things.)]
-+ Particularly #emph[(forbearing threatening.)]
+- Generally #emph[(do the same things.)]
+- Particularly #emph[(forbearing threatening.)]
 
 The #emph[reason] is taken from that subjection wherein masters are to an higher master #emph[(knowing that your master also.)] And it is amplified,
 

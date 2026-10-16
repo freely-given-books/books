@@ -15,8 +15,8 @@
 
 The third and last couple of a family are—
 
-+ Masters.
-+ Servants.
+- Masters.
+- Servants.
 
 The direction which the Apostle giveth to servants, is in this text set down.
 
@@ -29,13 +29,13 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 1\. The kinds of servants duties are noted in two words,—
 
-+ #emph[Obey,] vers. 5.
-+ #emph[Serve,] vers. 7.
+- #emph[Obey,] vers. 5.
+- #emph[Serve,] vers. 7.
 
 2\. The manner is set down
 
-+ #emph[Affirmatively,] vers. 5, 7.
-+ #emph[Negatively,] vers. 6, 7.
+- #emph[Affirmatively,] vers. 5, 7.
+- #emph[Negatively,] vers. 6, 7.
 
 1\. #emph[Affirmatively] by showing what graces are requisite: to which purpose he reckoneth up four particulars.
 
@@ -52,8 +52,8 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 1\. #emph[Eye-service,] which is opposed to #emph[doing of things—]
 
-+ #emph[As Christs servants.]
-+ #emph[From the heart.]
+- #emph[As Christs servants.]
+- #emph[From the heart.]
 
 2\. #emph[Men-pleasing,] which is opposed to #emph[doing the will of God.]
 
@@ -66,8 +66,8 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 II. The motives which the Apostle useth are partly—
 
-+ #emph[Implied.]
-+ #emph[Expressed.]
+- #emph[Implied.]
+- #emph[Expressed.]
 
 They are #emph[implied] three ways.
 
@@ -160,13 +160,13 @@ Two extremes are contrary to this servant-like fear.
 
 The two main #emph[streams] which issue out of the forenamed #emph[fountain,] are—
 
-+ #emph[Reverence.]
-+ #emph[Obedience.]
+- #emph[Reverence.]
+- #emph[Obedience.]
 
 #emph[Reverence] is manifested in
 
-+ #emph[Speech.]
-+ #emph[Carriage.]
+- #emph[Speech.]
+- #emph[Carriage.]
 
 In speech by #emph[refraining] and #emph[well ordering] speech.
 

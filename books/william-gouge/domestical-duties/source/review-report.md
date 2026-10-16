@@ -2,14 +2,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 647 |
-| emendation | 314 |
+| spelling | 648 |
+| emendation | 316 |
+| case | 148 |
 | grammar | 147 |
-| case | 147 |
-| list | 132 |
+| list | 134 |
+| note moved | 118 |
 | punctuation | 92 |
-| italic | 63 |
-| note moved | 54 |
+| italic | 65 |
 | gap | 49 |
 | spacing | 47 |
 | merge | 28 |
@@ -132,6 +132,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] 116 → 119
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Ec l → Eccl
 - [vol-1/03-headship-in-marriage-and-the-church.typ] The → and the
+- [vol-1/03-headship-in-marriage-and-the-church.typ] Christ. → Christ and
 - [vol-1/03-headship-in-marriage-and-the-church.typ] samething → same thing
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
 - [vol-1/03-headship-in-marriage-and-the-church.typ] in deed → indeed
@@ -380,6 +381,7 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] abipsis → ab ipsis
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] consecre tur → consecretur
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] l . eonidis → Leonidis
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] maneinde → mane. inde
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] semelest → semel est
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] in genuity → ingenuity
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] bean → be an
@@ -592,7 +594,7 @@
 ## case
 
 - holy → Holy (×27)
-- The → the (×12)
+- The → the (×13)
 - children → Children (×8)
 - That → that (×4)
 - love → Love (×4)
@@ -823,6 +825,7 @@
 - Philosophen → Philosophers
 - Phinchas → Phinehas
 - Phineas → Phinehas
+- Picl → Piel
 - Pro → Pro.
 - Prov → Prov.
 - Qust → Quest

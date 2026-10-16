@@ -215,9 +215,9 @@ The Church consisteth of none other then of such as came out of #emph[Adams] loi
 
 This our former estate by nature is oft and seriously #footnote[Our natural condition oft to be thought of.] to be thought of, and that in respect of
 
-+ Christ.
-+ Our selves.
-+ Others.
+- Christ.
+- Our selves.
+- Others.
 
 1\. In regard of Christ, the more to magnify his love. Our former estate, before he cast the wings of his mercy upon us, showeth our unworthiness, our vileness, and wretchedness, and in that respect it openeth our heart and mouth to think and say, #footnote[#emph[Psal.] 8. 1, 4.] #emph[O Lord our Lord, what is man that thou art mindful of him, and the son of man that thou visitest him!] #footnote[#emph[Joh.] 14. 22.] #emph[Lord, how is it that thou wilt manifest thy self unto us, and not unto the world!] The right knowledge of our former estate, and a due consideration thereof, maketh us ascribe all the glory of our present dignity, and happiness, to Christ that altered our estate, as Saint #emph[Paul,] #footnote[1 #emph[Tim.] 1. 12. #emph[etc.]] #emph[I thank Christ Jesus our Lord who hath enabled me, who was before a blasphemer, etc.] yea it maketh us the more to prize and esteem the present estate, as #footnote[2 #emph[Sam.] 7. 18, #emph[etc.]] #emph[David.]
 

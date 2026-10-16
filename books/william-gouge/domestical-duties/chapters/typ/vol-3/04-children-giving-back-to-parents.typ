@@ -12,13 +12,13 @@ The rule of the forenamed recompense is on the one side #footnote[A rule of reco
 
 A parents #emph[Necessity] may be through
 
-+ #emph[Natural infirmities.]
-+ #emph[Casual extremities.]
+- #emph[Natural infirmities.]
+- #emph[Casual extremities.]
 
 Natural infirmities are
 
-+ #emph[Inward.]
-+ #emph[Outward.]
+- #emph[Inward.]
+- #emph[Outward.]
 
 #emph[Inward] Infirmities are weakness of judgment, slipperiness of memory, violence of passion with the like; whence proceed frowardness, testiness, suspiciousness, jealousy, fear, grief, etc.
 

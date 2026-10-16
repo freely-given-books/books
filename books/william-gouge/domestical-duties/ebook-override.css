@@ -38,3 +38,7 @@ div.epigraph p { text-indent: 0; text-align: center; }
 p.epigraph-ref { font-size: 0.9em; font-weight: 600; margin-bottom: 0.5em; }
 p.epigraph-text { font-style: italic; }
 p.epigraph-text em { font-style: normal; }
+
+/* lists 1622 prints without numbers: indented lines, no bullet (the print's
+   #set list(marker: [])) */
+ul { list-style: none; padding-left: 2em; }

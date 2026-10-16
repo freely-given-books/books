@@ -25,7 +25,7 @@ Thus must an husband first begin to love his wife. His place of eminency, and au
 
 Contrary, is their disposition, who having loving and dutiful wives, are notwithstanding nothing moved to love them again: but are as unkind and churlish as if they had the most peevish, and perverse wives that could be. But what shall we say of such as love their wives the less, yea and hate them for their forwardness to love, and (in testimony of true love) to perform all good duty? What, but that they are very devils incarnate? For it is the devils property to overcome good with evil. These make the doctrine of a wives subjection to seem harsh, and a careful performance thereof, an heavy burden. Never shall they partake of Christs love, that in their place show themselves so unlike to Christ.
 
-=== §. 63. #emph[Of the] #footnote[Treat. 3. §. 57. 2. Christ loveth in #emph[truth.]] truth #emph[of husbands love.]
+=== §. 63. #emph[Of the] truth #emph[of husbands love.]#footnote[Treat. 3. §. 57. 2. Christ loveth in #emph[truth.]]
 
 II. The #emph[truth] of Christs love was manifested by the fruits thereof to his Church: #emph[He gave himself for it.] It was therefore not in #emph[word] only, no nor only in #emph[heart,] but in #emph[deed] also. Thus his love proved profitable, and beneficial to his Church, which thereby was #emph[cleansed, and made a glorious] #footnote[#emph[Vers.] 26, 27.] #emph[Church.] Had he only borne a tender compassion and pitiful affection towards it, or laboured only with comfortable and sweet words to uphold and succour it, it had still lain polluted with sin, in the power of the devil, and under Gods wrath, and so received no profit and benefit at all.
 
@@ -81,7 +81,7 @@ Contrary is their unkindness that prefer every trifle of their own before the go
 
 Contrary in another extreme is the over-bold and over-heady pretended manhood of such husbands as upon every jealous surmise and slight report, are ready to make challenges of fight, and to enter into single combats and duels, on pretence of maintaining their wives honour. This being no warrantable course of righting a wrong, no honour can redound to the wife thereby, but much dishonour and danger to the husband. If he prevail over his adversary and kill, he is made guilty of murder thereby, and so reproach and shame must needs come to himself, wife, and whole family: if he be overcome and slain, she may be reputed more guilty then she was before. And oft it falleth out that God in just judgment giveth over the challenger into his adversaries hand, because he hath undertaken so indirect a course.
 
-=== §. 72. #emph[Of husbands] #footnote[Treat. 3. §. 6. 6. Christs love #emph[perpetual.]] Constancy #emph[in love.]
+=== §. 72. #emph[Of husbands] Constancy #emph[in love.]#footnote[Treat. 3. §. 6. 6. Christs love #emph[perpetual.]]
 
 VI. The continuance of Christs love was without date: #footnote[#emph[Joh.] 13. 1.] #emph[Having loved his own, he loved them unto the end.] His love was constant (not by fits, now loving, then hating) and #footnote[#emph[Hos.] 2. 19.] #emph[everlasting] (never repenting thereof, never changing or altering his mind) no provocations, no transgressions could ever make him forget to love, and cease to do that good which he intended for his Church: note what he said to her even when she revolted from him, #emph[Thou hast played the harlot with many] #footnote[#emph[Jer.] 3. 1. 2 #emph[Sam.] 7. 15.] #emph[lovers, yet return again to me:] and again, #emph[My mercy shall not depart away.]
 
@@ -103,7 +103,7 @@ Again others by some continuance in doing good to their wives, think it a burden
 
 By this pattern of Christ here propounded to husbands, we have on the one side a good direction to teach us how to love our wives, as hath been particularly declared; and on the other side, matter of humiliation, in that it showeth us how far short we come of our bounden duty. Howsoever, wives may most complain of their burden, because it is a #emph[subjection] whereunto by nature we are all loath to yield: yet I am sure #footnote[See Treat. 1. §. 10.] the heaviest burden is laid upon the husbands shoulders: and much more easy it is to perform the part of a good wife, then a good husband.
 
-=== §. 74. #emph[Of husbands loving their wives] #footnote[Treat. 3. §. 59.] #emph[as themselves.]
+=== §. 74. #emph[Of husbands loving their wives as themselves.]#footnote[Treat. 3. §. 59.]
 
 To the example of Christ the Apostle annexeth the pattern of ones self, in these words: #emph[So ought men to love their] #footnote[#emph[Eph.] 5. 28.] #emph[wives as their own bodies.]
 
