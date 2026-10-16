@@ -210,7 +210,24 @@ skip any change touching markup and do it by hand; Greek may be decomposed
 quotes curly in the file and straight in the report, so match tolerantly
 and write the file's own form back; a fix taken from an older printing can
 bring that printing's punctuation along ("magic, (Exod. 9:11)") where the
-book has its own style. `./fgb check` [2] catches broken markup.
+book has its own style. `./fgb check` [2] catches broken markup. A proposal
+that moves a footnote marker can double the word it moves past ("34. But¹
+But as Paul") and drop an escape ("34\." written "34."): read every such
+proposal before applying it (Calvin, 2026-10-16).
+
+**A big CCEL book already compared word by word with its printed edition**
+(Calvin: 1845, 999 corrections) does not need a sentence-by-sentence read
+(670,000 words, ~30 readers). The user chose a targeted review instead: the
+tools; `refs.py --quotes` weak matches compared with the printed edition's
+reference after each quotation (roman *l* read as 1, *lv* as 4: Jer. 50:25,
+Isa. 55:3); consistency tables (spelling, reference abbreviations, ranges);
+headings and running heads (generated files can bypass the corrected text);
+and a typesetting sweep per volume from `pdftotext -layout`, rendering a page
+only when the text cannot tell, every wording proposal checked against the
+printed edition's OCR. It found about 130 real problems in six volumes:
+unclosed quotations, stray parentheses and note numbers, wrong words,
+Greek/Latin/French misprints (some the printed edition's own: fix plain
+misprints, keep period spellings such as 16th-century French).
 
 Edit `chapters/typ` with exact, unique replacements (match across line
 breaks; keep the file's wrapping). Mind Typst: `#`, `[`, `]`, `\` are
