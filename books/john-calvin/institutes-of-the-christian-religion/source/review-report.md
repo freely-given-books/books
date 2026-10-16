@@ -2,17 +2,17 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2351 |
-| emendation | 365 |
-| spacing | 83 |
-| punctuation | 62 |
+| spelling | 2357 |
+| emendation | 366 |
+| spacing | 93 |
+| punctuation | 75 |
 | note | 36 |
 | italic | 18 |
 | case | 10 |
 | grammar | 8 |
 | inset | 6 |
 | merge | 4 |
-| note moved | 1 |
+| note moved | 2 |
 
 ## emendation
 
@@ -381,6 +381,7 @@
 - [vol-6/book-4-chapter-20.typ] l7 → 17
 - [vol-6/book-4-chapter-20.typ] with → with the
 - [vol-6/book-4-chapter-20.typ] l → 1
+- [vol-6/book-4-chapter-20.typ] 65 → 
 
 ## grammar
 
@@ -453,10 +454,23 @@
 - [vol-5/book-4-chapter-13.typ note] . → 
 - [vol-5/book-4-chapter-13.typ] , → , is
 - [vol-6/book-4-chapter-14.typ] . → ,
+- [vol-6/book-4-chapter-14.typ] . → ,
+- [vol-6/book-4-chapter-14.typ] . → ,
+- [vol-6/book-4-chapter-16.typ] . → ,
+- [vol-6/book-4-chapter-16.typ] . → ,
+- [vol-6/book-4-chapter-17.typ] ” → 
+- [vol-6/book-4-chapter-17.typ] . → 
 - [vol-6/book-4-chapter-17.typ] , → , and
+- [vol-6/book-4-chapter-17.typ] ) → 
+- [vol-6/book-4-chapter-17.typ] . → ,
+- [vol-6/book-4-chapter-17.typ] ) → ).
 - [vol-6/book-4-chapter-18.typ note] ; → ,
 - [vol-6/book-4-chapter-18.typ] . → ,
+- [vol-6/book-4-chapter-19.typ note] , → .
+- [vol-6/book-4-chapter-19.typ] . → ,
+- [vol-6/book-4-chapter-19.typ] . → 
 - [vol-6/book-4-chapter-20.typ note] : → ;
+- [vol-6/book-4-chapter-20.typ] ) → ).
 
 ## case
 
@@ -580,8 +594,10 @@
 - wills → will, (×3)
 - women → woman (×3)
 - 2 → 2. (×2)
+- 5 → 5. (×2)
 - Baptise → Baptize (×2)
 - Bone → Bono (×2)
+- Cor → Cor. (×2)
 - Counsellor → Counselor (×2)
 - Fathers → Father, (×2)
 - French → French, (×2)
@@ -661,11 +677,11 @@
 - 28 → 28.
 - 30 → 30.
 - 4 → 4.
-- 5 → 5.
 - Adams → Adam,
 - Ambrose → Ambros
 - Andy → And,
 - Apostles → Apostle,
+- Aristoeratie → Aristocratie,
 - Asian → Asia,
 - Athanasuis → Athanasius
 - BRIEFLY → CHIEFLY
@@ -681,11 +697,11 @@
 - Cleres → Clercs
 - Come → Comme
 - Commandment → Commandment.
-- Cor → Cor.
 - Curios → Curius
 - Diu → Dieu
 - Divinté → Divinité
 - Doctrine → Doctrina
+- Due → Duc
 - E → Ed
 - Eccles → Eccles.
 - Ecclesiœ → Ecclesiæ
@@ -884,6 +900,7 @@
 - familiarising → familiarizing
 - fastings → fasting,
 - favourite → favorite
+- feeds → feeds”
 - fertilise → fertilize
 - fertilising → fertilizing
 - filly → fully
@@ -1020,6 +1037,7 @@
 - perlin → pelerin
 - permissions → permission,
 - perpare → prepare
+- perrogative → prerogative
 - pester → prater
 - places → palaces
 - placte → placet
