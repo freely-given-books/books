@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2333 |
+| spelling | 2343 |
 | emendation | 363 |
-| spacing | 65 |
-| punctuation | 50 |
+| spacing | 74 |
+| punctuation | 57 |
 | note | 36 |
 | italic | 18 |
 | case | 10 |
@@ -423,7 +423,9 @@
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-06.typ note] , → ;
 - [vol-3/book-3-chapter-06.typ] . → :
+- [vol-4/book-3-chapter-13.typ] , → (
 - [vol-4/book-3-chapter-14.typ] . → ,
+- [vol-4/book-3-chapter-14.typ] ) → ).
 - [vol-4/book-3-chapter-15.typ note] . → 
 - [vol-4/book-3-chapter-15.typ note] ; → ; 1
 - [vol-4/book-3-chapter-17.typ note] , → , que quand les œuvres des saincts sont nommées justice, cela ne vient point de leurs
@@ -431,7 +433,12 @@
 - [vol-4/book-3-chapter-19.typ] : → :4,
 - [vol-4/book-3-chapter-20.typ note] , → , and proceeds from the same cause: some muttering a host of Ave Marias, and going
 - [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-4/book-3-chapter-20.typ] ( → (1
 - [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-4/book-3-chapter-20.typ] ) → ,
+- [vol-4/book-3-chapter-20.typ] ) → ).
+- [vol-4/book-3-chapter-20.typ] ) → ).
+- [vol-4/book-3-chapter-20.typ] ) → ,
 - [vol-5/book-4-chapter-06.typ note] . → . 1:18; 2:10.
 - [vol-5/book-4-chapter-07.typ note] ; → ,
 - [vol-5/book-4-chapter-07.typ note] . → :
@@ -665,6 +672,7 @@
 - Come → Comme
 - Commandment → Commandment.
 - Cor → Cor.
+- Curios → Curius
 - Diu → Dieu
 - Divinté → Divinité
 - Doctrine → Doctrina
@@ -809,6 +817,7 @@
 - ded → sed
 - dedlans → dedans
 - defections → defection,
+- deforming → deforcing
 - dequel → duquel
 - desires → desire
 - despairs → despair,
@@ -857,6 +866,7 @@
 - explanations → explanation,
 - expositon → exposition
 - expression → expressions
+- extravangantes → extravagantes
 - eyes → eye
 - faith → faith,
 - familiarising → familiarizing
@@ -903,6 +913,7 @@
 - humoured → humored
 - hæ → hæc
 - illusion → allusion
+- importers → imposters
 - improve → approve
 - impunity → impurity
 - indeed → indeed,
@@ -937,6 +948,7 @@
 - leave → have
 - light → right
 - limitations → limitation,
+- loafbread → loaf-bread
 - lurkingplaces → lurking-places
 - lust → lusts
 - l’eau → l'eau
@@ -947,6 +959,7 @@
 - men → man
 - men → me,
 - methods → method,
+- meutrissent → meurtrissent
 - midst → didst
 - mighty → might,
 - minister → sinister
@@ -1016,6 +1029,7 @@
 - quarrelling → quarreling
 - que → qui
 - quells → quelles
+- queuse → queues
 - quils → qu’ils
 - quote → quoted,
 - qu’ → qui
@@ -1052,6 +1066,7 @@
 - scented → seemed
 - separated → separate
 - seperance → esperance
+- sepingle → espingle
 - sepulchres → sepulchers
 - servants → servant
 - shorts → short,
@@ -1059,6 +1074,7 @@
 - signalised → signalized
 - significance → significancy
 - sina → sins
+- sinners → sinners,”
 - sits → sists
 - sould → soul
 - souls → soul
@@ -1139,6 +1155,7 @@
 - βαττολογίαν → Βαττολογία
 - βλασφημία → βλασφημία.
 - βούλεσις → βούλησις
+- γάρ → γὰρ
 - διελει̑ν → διελεῖν
 - δουλεὶα → δουλεία
 - ἔλενγχος → ἔλεγχος
