@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2357 |
-| emendation | 366 |
-| spacing | 93 |
-| punctuation | 75 |
+| spelling | 2531 |
+| emendation | 431 |
+| punctuation | 134 |
+| spacing | 91 |
 | note | 36 |
 | italic | 18 |
 | case | 10 |
@@ -17,23 +17,34 @@
 ## emendation
 
 - [vol-1/01-prefatory-address.typ note] at bottom of p . 11 , → 
+- [vol-1/01-prefatory-address.typ] Psalm → Ps.
 - [vol-1/01-prefatory-address.typ] be → be the
 - [vol-1/01-prefatory-address.typ] era → of a
 - [vol-1/01-prefatory-address.typ] subtleties → subtleties of
 - [vol-1/01-prefatory-address.typ] knit → fruit
 - [vol-1/04-epistle-1559.typ note] o ˜ → où
 - [vol-1/book-1-chapter-01.typ] has → have
+- [vol-1/book-1-chapter-04.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-04.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
 - [vol-1/book-1-chapter-06.typ note] 70 → 
+- [vol-1/book-1-chapter-06.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-06.typ] Psalm → Ps.
 - [vol-1/book-1-chapter-07.typ note] is → it
 - [vol-1/book-1-chapter-08.typ] too → too clear to leave it free for heathen writers to deny that Moses did perform miracles, the father of lies suggested a calumny, and
 - [vol-1/book-1-chapter-08.typ] clear to leave it free for heathen writers to deny that Moses did perform miracles , the father of lies suggested a calumny , and → 
-- [vol-1/book-1-chapter-08.typ] 55 → 45
+- [vol-1/book-1-chapter-08.typ] Isaiah 55 → Isa. 45
 - [vol-1/book-1-chapter-09.typ note] étépetis → été petis
 - [vol-1/book-1-chapter-10.typ note] 42 → 
 - [vol-1/book-1-chapter-11.typ note] 80 → 
 - [vol-1/book-1-chapter-11.typ note] 90 → 
 - [vol-1/book-1-chapter-11.typ] δυλια → dulia
 - [vol-1/book-1-chapter-11.typ] λατρια → latria
+- [vol-1/book-1-chapter-11.typ] Psalms → Ps.
+- [vol-1/book-1-chapter-11.typ] Psalm → Ps.
 - [vol-1/book-1-chapter-11.typ] 22 → 32
 - [vol-1/book-1-chapter-11.typ] ιδολοδυλια → idolodulia
 - [vol-1/book-1-chapter-11.typ] ιδολατρια → idolatria
@@ -72,9 +83,11 @@
 - [vol-1/book-1-chapter-16.typ note] sumum → , summum
 - [vol-1/book-1-chapter-16.typ] Scriptures moreover → Scripture, more over
 - [vol-1/book-1-chapter-17.typ note] L → 
+- [vol-1/book-1-chapter-17.typ note] Genesis → Gen.
 - [vol-1/book-1-chapter-17.typ] ̔Εγω δ ᾽ ούκ ἁίτιός ειμι → Ἐγὼ δ’ οὐκ αἴτιός εἰμι
 - [vol-1/book-1-chapter-18.typ note] 1 → 50
 - [vol-1/book-1-chapter-18.typ] 4 → 3
+- [vol-1/book-1-chapter-18.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-01.typ note] folleenchere → folle enchere
 - [vol-2/book-2-chapter-01.typ note] are → are all
 - [vol-2/book-2-chapter-01.typ note] ˆ → à
@@ -101,22 +114,32 @@
 - [vol-2/book-2-chapter-02.typ] ajkolasiva → ἀκολασία
 - [vol-2/book-2-chapter-02.typ] 6 → 5
 - [vol-2/book-2-chapter-03.typ note] ˆ → a
-- [vol-2/book-2-chapter-03.typ] 40 → 60
+- [vol-2/book-2-chapter-03.typ] Isaiah 40 → Isa. 60
+- [vol-2/book-2-chapter-03.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-03.typ] heaven by → heavenly
+- [vol-2/book-2-chapter-04.typ note] Psalm → Ps.
 - [vol-2/book-2-chapter-04.typ note] 2 → 50
 - [vol-2/book-2-chapter-04.typ] when → Even
+- [vol-2/book-2-chapter-04.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-04.typ] nn → 
 - [vol-2/book-2-chapter-05.typ note] ˆ → a
 - [vol-2/book-2-chapter-05.typ] i5 → 15
 - [vol-2/book-2-chapter-05.typ] hove → how
 - [vol-2/book-2-chapter-05.typ] we → ye
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-06.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-07.typ note] 117 → 118
+- [vol-2/book-2-chapter-07.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-07.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-08.typ note] 12 → 13
+- [vol-2/book-2-chapter-08.typ note] Psalm → Ps.
 - [vol-2/book-2-chapter-08.typ note] Ecclesiæ → Ecclesiæ; Vera Reformandæ Ecclesiæ
 - [vol-2/book-2-chapter-08.typ note] Jer → Isa
 - [vol-2/book-2-chapter-08.typ note] 5 → 6
 - [vol-2/book-2-chapter-08.typ note] 27 → 17
-- [vol-2/book-2-chapter-08.typ note] 55 → 56
+- [vol-2/book-2-chapter-08.typ note] Isiah 55 → Isa. 56
 - [vol-2/book-2-chapter-08.typ note] N → 
 - [vol-2/book-2-chapter-08.typ note] P — → 
 - [vol-2/book-2-chapter-08.typ note] on → en
@@ -130,9 +153,19 @@
 - [vol-2/book-2-chapter-08.typ] Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
 - [vol-2/book-2-chapter-08.typ] 59 . → 
 - [vol-2/book-2-chapter-08.typ] mighty → , might,
+- [vol-2/book-2-chapter-08.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-09.typ] 28 → 11
 - [vol-2/book-2-chapter-10.typ note] enterre → en terre
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-10.typ] reproach → 
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
 - [vol-2/book-2-chapter-11.typ note] ˆ → à
 - [vol-2/book-2-chapter-11.typ note] cá → çà
 - [vol-2/book-2-chapter-11.typ note] lá → là
@@ -172,6 +205,14 @@
 - [vol-3/book-3-chapter-02.typ] 16 → 15
 - [vol-3/book-3-chapter-02.typ] 1 → 2
 - [vol-3/book-3-chapter-02.typ] 2 , → 
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
 - [vol-3/book-3-chapter-02.typ] here → has
 - [vol-3/book-3-chapter-02.typ] 17 → 7
 - [vol-3/book-3-chapter-02.typ] in grafts → ingrafts
@@ -180,10 +221,12 @@
 - [vol-3/book-3-chapter-02.typ] A → 
 - [vol-3/book-3-chapter-03.typ note] 37 → 38
 - [vol-3/book-3-chapter-03.typ note] του̑ → τοῦ
+- [vol-3/book-3-chapter-03.typ] Psalm → Ps.
 - [vol-3/book-3-chapter-03.typ] 2 → 11
 - [vol-3/book-3-chapter-03.typ] 10 → 15
 - [vol-3/book-3-chapter-03.typ] per adventure → peradventure
 - [vol-3/book-3-chapter-03.typ] 3 , 4 → 34
+- [vol-3/book-3-chapter-03.typ] Psalm → Ps.
 - [vol-3/book-3-chapter-04.typ note] given → given in the
 - [vol-3/book-3-chapter-04.typ note] 59 → 61
 - [vol-3/book-3-chapter-04.typ note] 3 → 52
@@ -211,12 +254,13 @@
 - [vol-3/book-3-chapter-05.typ] 1 → 2
 - [vol-3/book-3-chapter-06.typ note] 1Cor → 1 Cor
 - [vol-3/book-3-chapter-06.typ note] 5 → 6
-- [vol-3/book-3-chapter-06.typ] rev → 35
+- [vol-3/book-3-chapter-06.typ] Isaiah rev → Isa
 - [vol-3/book-3-chapter-07.typ] in → in rendering to
 - [vol-3/book-3-chapter-08.typ] usto → us to
 - [vol-3/book-3-chapter-09.typ note] attracts → attract us
 - [vol-3/book-3-chapter-09.typ note] esseεφἡμερον → esse ἐφήμερον
 - [vol-3/book-3-chapter-09.typ] being → being so
+- [vol-3/book-3-chapter-09.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-11.typ note] that → that that
 - [vol-4/book-3-chapter-11.typ note] having → having added
 - [vol-4/book-3-chapter-11.typ note] added → 
@@ -228,10 +272,12 @@
 - [vol-4/book-3-chapter-12.typ] 5 → 4
 - [vol-4/book-3-chapter-13.typ] 25 → 26
 - [vol-4/book-3-chapter-13.typ] 50 → 1
+- [vol-4/book-3-chapter-13.typ] Isaiah → (Isa.
 - [vol-4/book-3-chapter-13.typ] in grafted → ingrafted
 - [vol-4/book-3-chapter-14.typ note] 7 → 8
 - [vol-4/book-3-chapter-14.typ note] the → 
 - [vol-4/book-3-chapter-14.typ] statement → statement with
+- [vol-4/book-3-chapter-14.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-15.typ note] John → 1 John
 - [vol-4/book-3-chapter-15.typ note] 7 → 8
 - [vol-4/book-3-chapter-15.typ] αὑτου̑ → αὐτοῦ
@@ -258,8 +304,14 @@
 - [vol-4/book-3-chapter-20.typ note] tent → effrenee qu'ont eu les Papistes et ont encore, qui contre la defense de l'Apostre, chantent
 - [vol-4/book-3-chapter-20.typ note] 11 → 2
 - [vol-4/book-3-chapter-20.typ] use → use. 2
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-20.typ] And → “
 - [vol-4/book-3-chapter-20.typ] on → 
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-20.typ] 13 → 10
 - [vol-4/book-3-chapter-20.typ] yet → still
 - [vol-4/book-3-chapter-20.typ] 32 → 34
@@ -278,9 +330,13 @@
 - [vol-4/book-3-chapter-23.typ note] er → et
 - [vol-4/book-3-chapter-23.typ] 33 → 35
 - [vol-4/book-3-chapter-23.typ] will , → wills
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-24.typ] 1 → 2
 - [vol-4/book-3-chapter-25.typ note] 7 → 8
 - [vol-4/book-3-chapter-25.typ note] se → si
+- [vol-4/book-3-chapter-25.typ] Psalm → Ps.
 - [vol-4/book-3-chapter-25.typ] 1 → 1), and then denounces
 - [vol-5/book-4-chapter-01.typ note] l → 1
 - [vol-5/book-4-chapter-01.typ note] l → 1
@@ -335,9 +391,11 @@
 - [vol-6/book-4-chapter-16.typ] a → the
 - [vol-6/book-4-chapter-16.typ] 7 → 12
 - [vol-6/book-4-chapter-16.typ] on ] y → only
+- [vol-6/book-4-chapter-17.typ note] Psalm → Ps.
 - [vol-6/book-4-chapter-17.typ] of → 
 - [vol-6/book-4-chapter-17.typ] not → 
 - [vol-6/book-4-chapter-17.typ] all → all the
+- [vol-6/book-4-chapter-17.typ] Psalm → Ps.
 - [vol-6/book-4-chapter-17.typ] wil1 → will
 - [vol-6/book-4-chapter-17.typ] 7 → 12
 - [vol-6/book-4-chapter-17.typ] says → said
@@ -355,6 +413,7 @@
 - [vol-6/book-4-chapter-18.typ note] . , → ;
 - [vol-6/book-4-chapter-18.typ] respecting → respecting the
 - [vol-6/book-4-chapter-18.typ] or → on
+- [vol-6/book-4-chapter-18.typ] Malachi → Mal.
 - [vol-6/book-4-chapter-18.typ] l → 1
 - [vol-6/book-4-chapter-18.typ] is → 
 - [vol-6/book-4-chapter-19.typ note] Mt . → Mark
@@ -365,12 +424,18 @@
 - [vol-6/book-4-chapter-19.typ] l → 1
 - [vol-6/book-4-chapter-19.typ] and → and the
 - [vol-6/book-4-chapter-19.typ] mortified → mortified the
+- [vol-6/book-4-chapter-19.typ] Psalm → Ps.
 - [vol-6/book-4-chapter-19.typ] as → as if
 - [vol-6/book-4-chapter-19.typ] spiritua1 → spiritual
 - [vol-6/book-4-chapter-19.typ] can → could
 - [vol-6/book-4-chapter-20.typ note] toutes fois → toutesfois
 - [vol-6/book-4-chapter-20.typ note] 21 → 24
 - [vol-6/book-4-chapter-20.typ note] 14 → 11
+- [vol-6/book-4-chapter-20.typ note] Psalm → Ps.
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
 - [vol-6/book-4-chapter-20.typ] men → 
 - [vol-6/book-4-chapter-20.typ] an → 
 - [vol-6/book-4-chapter-20.typ] cannot → cannot but
@@ -404,18 +469,76 @@
 - [vol-1/book-1-chapter-13.typ note] . → 
 - [vol-1/book-1-chapter-13.typ note] : → 
 - [vol-1/book-1-chapter-15.typ note] . → ,
+- [vol-2/book-2-chapter-01.typ] – → -
+- [vol-2/book-2-chapter-01.typ] – → -
 - [vol-2/book-2-chapter-02.typ note] . → 
+- [vol-2/book-2-chapter-02.typ] – → -
+- [vol-2/book-2-chapter-02.typ] – → -
+- [vol-2/book-2-chapter-02.typ] – → -
 - [vol-2/book-2-chapter-02.typ] ) → ).
+- [vol-2/book-2-chapter-03.typ] – → -
+- [vol-2/book-2-chapter-03.typ] – → -
 - [vol-2/book-2-chapter-04.typ note] . → 
+- [vol-2/book-2-chapter-04.typ] – → -
+- [vol-2/book-2-chapter-04.typ] – → -
+- [vol-2/book-2-chapter-04.typ] – → -
 - [vol-2/book-2-chapter-04.typ] ? → 
+- [vol-2/book-2-chapter-05.typ] – → -
+- [vol-2/book-2-chapter-05.typ] – → -
+- [vol-2/book-2-chapter-05.typ] – → -
 - [vol-2/book-2-chapter-05.typ] ) → ).
 - [vol-2/book-2-chapter-05.typ] ) → );
 - [vol-2/book-2-chapter-05.typ] — → ,
+- [vol-2/book-2-chapter-05.typ] – → -
+- [vol-2/book-2-chapter-06.typ] – → -
+- [vol-2/book-2-chapter-07.typ] – → -
+- [vol-2/book-2-chapter-07.typ] – → -
+- [vol-2/book-2-chapter-07.typ] – → -
+- [vol-2/book-2-chapter-08.typ note] — → -
+- [vol-2/book-2-chapter-08.typ note] — → -
+- [vol-2/book-2-chapter-08.typ note] — → -
+- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] – → -
 - [vol-2/book-2-chapter-08.typ] , → , in
+- [vol-2/book-2-chapter-10.typ note] — → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
 - [vol-2/book-2-chapter-10.typ] ) → 
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-11.typ] – → -
+- [vol-2/book-2-chapter-11.typ] – → -
+- [vol-2/book-2-chapter-11.typ] – → -
+- [vol-2/book-2-chapter-11.typ] – → -
 - [vol-2/book-2-chapter-11.typ] — → ,
 - [vol-2/book-2-chapter-11.typ] . → .,
+- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-13.typ] – → -
+- [vol-2/book-2-chapter-14.typ note] — → -
+- [vol-2/book-2-chapter-14.typ note] — → -
+- [vol-2/book-2-chapter-14.typ] – → -
+- [vol-2/book-2-chapter-14.typ] – → -
+- [vol-2/book-2-chapter-15.typ] – → -
+- [vol-2/book-2-chapter-15.typ] – → -
+- [vol-2/book-2-chapter-15.typ] – → -
+- [vol-2/book-2-chapter-16.typ] – → -
+- [vol-2/book-2-chapter-16.typ] – → -
 - [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-17.typ] – → -
 - [vol-2/book-2-chapter-17.typ] , → 
 - [vol-3/book-3-chapter-03.typ note] — → —French, “l’imputation du peché;”—
 - [vol-3/book-3-chapter-03.typ note] . → ,
@@ -425,8 +548,8 @@
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-06.typ note] , → ;
-- [vol-3/book-3-chapter-06.typ] . → :
-- [vol-4/book-3-chapter-13.typ] , → (
+- [vol-3/book-3-chapter-06.typ] . → . 35:
+- [vol-4/book-3-chapter-13.typ] , → 
 - [vol-4/book-3-chapter-14.typ] . → ,
 - [vol-4/book-3-chapter-14.typ] ) → ).
 - [vol-4/book-3-chapter-15.typ note] . → 
@@ -471,6 +594,7 @@
 - [vol-6/book-4-chapter-19.typ] . → 
 - [vol-6/book-4-chapter-20.typ note] : → ;
 - [vol-6/book-4-chapter-20.typ] ) → ).
+- [vol-6/book-4-chapter-20.typ] . → 
 
 ## case
 
@@ -490,9 +614,11 @@
 - Saviour → Savior (×104)
 - labour → labor (×91)
 - baptised → baptized (×78)
+- Isaiah → Isa. (×61)
 - defence → defense (×50)
 - endeavour → endeavor (×44)
 - offence → offense (×42)
+- Is → Isa (×40)
 - neighbour → neighbor (×36)
 - Saviour’s → Savior’s (×31)
 - honourable → honorable (×29)
@@ -519,12 +645,14 @@
 - odour → odor (×12)
 - rigour → rigor (×12)
 - threatening → threatenings (×12)
+- Hosea → Hos. (×11)
 - favourable → favorable (×11)
 - recognising → recognizing (×11)
 - retake → betake (×11)
 - neighbours → neighbors (×10)
 - succour → succor (×10)
 - Gods → God, (×9)
+- Peter → Pet. (×8)
 - armour → armor (×8)
 - counsellor → counselor (×8)
 - endeavouring → endeavoring (×8)
@@ -541,6 +669,7 @@
 - minds → mind, (×6)
 - rebaptised → rebaptized (×6)
 - skilful → skillful (×6)
+- Matt → Mt (×5)
 - Origin → Origen (×5)
 - Scriptures → Scripture, (×5)
 - favoured → favored (×5)
@@ -553,7 +682,10 @@
 - ways → way, (×5)
 - whose → whoso (×5)
 - Honour → Honor (×4)
-- Isiah → Isaiah (×4)
+- Numb → Num (×4)
+- Ps → Ps. (×4)
+- Psal → Ps (×4)
+- Titus → Tit. (×4)
 - acknowledgement → acknowledgment (×4)
 - ceaselessly → causelessly (×4)
 - foreknow → foreknew (×4)
@@ -575,8 +707,15 @@
 - Ahab → Ahaz (×3)
 - Conformation → Confirmation (×3)
 - Dionysus → Dionysius (×3)
+- Eccles → Eccl (×3)
+- Ephes → Eph (×3)
+- Ex → Exod (×3)
 - Homily → Homil (×3)
+- Isiah → Isa. (×3)
+- Micah → Mic. (×3)
+- Mt → Mt. (×3)
 - NEIGHBOUR’S → NEIGHBOR’S (×3)
+- Rom → Rom. (×3)
 - baptises → baptizes (×3)
 - candour → candor (×3)
 - catechising → catechizing (×3)
@@ -599,11 +738,14 @@
 - Bone → Bono (×2)
 - Cor → Cor. (×2)
 - Counsellor → Counselor (×2)
+- Eph → Eph. (×2)
 - Fathers → Father, (×2)
 - French → French, (×2)
 - God → Good (×2)
+- Isa → Isa. (×2)
 - Persian → Persians (×2)
 - Philistine → Philistines (×2)
+- Sam → Sam. (×2)
 - Whose → Whoso (×2)
 - admits → admit, (×2)
 - anathematised → anathematized (×2)
@@ -695,9 +837,14 @@
 - Certainly → Certain
 - Chalcedony → Chalcedon
 - Cleres → Clercs
+- Col → Col.
+- Colloss → Col
 - Come → Comme
 - Commandment → Commandment.
 - Curios → Curius
+- Dan → Dan.
+- Daniel → Dan.
+- Deut → Deut.
 - Diu → Dieu
 - Divinté → Divinité
 - Doctrine → Doctrina
@@ -709,24 +856,29 @@
 - Epistles → Epistle
 - Epistles → Epistle,
 - Ever → Every
+- Exod → Exod.
+- Exodus → Exod.
 - Farther → Father
 - Fathered → Father’s
 - Four → pour
 - Gad → God
+- Gen → Gen.
 - Genesis → Genesim
 - Gods → God
 - Gratis → Gratia
 - HONOUR → HONOR
+- Heb → Heb.
 - Hence → Whence
 - Ies → les
 - Ills → Ils
 - Impardonable → unpardonable
-- Isa → Isa.
 - Janur → Januar
 - Jerusalem → Jerusalem,
+- Joshua → Josh.
 - Julia → Julian
 - LABOUR → LABOR
 - LICENCE → LICENSE
+- Lament → Lam
 - Lateral → Lateran
 - Latin → Latin,
 - Lawgivers → Lawgiver,
@@ -745,12 +897,12 @@
 - Pighiium → Pighium
 - Poiotiers → Poictiers
 - Principalament → Principalement
+- Prov → Prov.
 - Psalmists → Psalmist,
 - Purify → Purifying
 - Put → But
 - Pœitentia → Pœnitentia
 - Pœnit → Pœnit.
-- Sam → Sam.
 - Satan’s → Satan,
 - Section → Sections
 - Simplie → Simplic
