@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 706 |
-| emendation | 344 |
-| punctuation | 40 |
+| spelling | 708 |
+| emendation | 354 |
+| spacing | 50 |
+| punctuation | 43 |
 | note | 36 |
-| spacing | 22 |
 | italic | 18 |
 | grammar | 8 |
 | inset | 6 |
@@ -75,6 +75,7 @@
 - [vol-1/book-1-chapter-16.typ] Scriptures moreover → Scripture, more over
 - [vol-1/book-1-chapter-17.typ note] L → 
 - [vol-1/book-1-chapter-17.typ] ̔Εγω δ ᾽ ούκ ἁίτιός ειμι → Ἐγὼ δ’ οὐκ αἴτιός εἰμι
+- [vol-1/book-1-chapter-18.typ note] 1 → 50
 - [vol-1/book-1-chapter-18.typ] 4 → 3
 - [vol-2/book-2-chapter-01.typ note] are → are all
 - [vol-2/book-2-chapter-01.typ note] ˆ → à
@@ -162,11 +163,15 @@
 - [vol-3/book-3-chapter-01.typ note] 2 → 4
 - [vol-3/book-3-chapter-02.typ note] 4 → 14
 - [vol-3/book-3-chapter-02.typ note] engulfthem → engulf them
+- [vol-3/book-3-chapter-02.typ] 4 → 55
 - [vol-3/book-3-chapter-02.typ] which → which proceeds from
 - [vol-3/book-3-chapter-02.typ] 16 → 15
+- [vol-3/book-3-chapter-02.typ] 1 → 2
+- [vol-3/book-3-chapter-02.typ] 2 , → 
 - [vol-3/book-3-chapter-02.typ] here → has
 - [vol-3/book-3-chapter-02.typ] 17 → 7
 - [vol-3/book-3-chapter-02.typ] in grafts → ingrafts
+- [vol-3/book-3-chapter-02.typ] 2 → 11
 - [vol-3/book-3-chapter-02.typ] each → such
 - [vol-3/book-3-chapter-02.typ] A → 
 - [vol-3/book-3-chapter-03.typ note] 37 → 38
@@ -182,7 +187,7 @@
 - [vol-3/book-3-chapter-04.typ note] PS 32 : 1 & gt ; → 
 - [vol-3/book-3-chapter-04.typ] to sin → again
 - [vol-3/book-3-chapter-04.typ] hint → him
-- [vol-3/book-3-chapter-04.typ] “ allelous ” → ἀλλήλους,
+- [vol-3/book-3-chapter-04.typ] “ allelous ” → ἀλλήλους
 - [vol-3/book-3-chapter-04.typ] contain → contain a
 - [vol-3/book-3-chapter-04.typ] one → our
 - [vol-3/book-3-chapter-04.typ] us → we
@@ -215,6 +220,7 @@
 - [vol-4/book-3-chapter-11.typ] ( ) → דעת
 - [vol-4/book-3-chapter-11.typ] 3 → 5
 - [vol-4/book-3-chapter-11.typ] word → way
+- [vol-4/book-3-chapter-12.typ] 5 → 4
 - [vol-4/book-3-chapter-13.typ] 25 → 26
 - [vol-4/book-3-chapter-13.typ] 50 → 1
 - [vol-4/book-3-chapter-13.typ] in grafted → ingrafted
@@ -245,11 +251,13 @@
 - [vol-4/book-3-chapter-20.typ note] o ˜ → où
 - [vol-4/book-3-chapter-20.typ note] il → il se
 - [vol-4/book-3-chapter-20.typ note] tent → effrenee qu'ont eu les Papistes et ont encore, qui contre la defense de l'Apostre, chantent
+- [vol-4/book-3-chapter-20.typ note] 11 → 2
 - [vol-4/book-3-chapter-20.typ] use → use. 2
 - [vol-4/book-3-chapter-20.typ] And → “
 - [vol-4/book-3-chapter-20.typ] on → 
 - [vol-4/book-3-chapter-20.typ] 13 → 10
 - [vol-4/book-3-chapter-20.typ] yet → still
+- [vol-4/book-3-chapter-20.typ] 32 → 34
 - [vol-4/book-3-chapter-20.typ] l → I
 - [vol-4/book-3-chapter-20.typ] oil → oil (Ps. 4:7)
 - [vol-4/book-3-chapter-20.typ] ITS → US
@@ -261,7 +269,9 @@
 - [vol-4/book-3-chapter-22.typ note] d’a aucuns → d'aucuns
 - [vol-4/book-3-chapter-22.typ] one → our
 - [vol-4/book-3-chapter-22.typ] Holiness of life springs from election , and is the object of it2 → 2
+- [vol-4/book-3-chapter-23.typ note] Auguste Dein → August. de
 - [vol-4/book-3-chapter-23.typ note] er → et
+- [vol-4/book-3-chapter-23.typ] 33 → 35
 - [vol-4/book-3-chapter-23.typ] will , → wills
 - [vol-4/book-3-chapter-24.typ] 1 → 2
 - [vol-4/book-3-chapter-25.typ note] 7 → 8
@@ -382,6 +392,8 @@
 - [vol-1/book-1-chapter-10.typ note] . → 
 - [vol-1/book-1-chapter-10.typ note] . → . 44.
 - [vol-1/book-1-chapter-11.typ note] ; → ; also Ep. 53. et 126. lib. 2., where Gregory, while wishing to excuse the worship of
+- [vol-1/book-1-chapter-13.typ note] . → 
+- [vol-1/book-1-chapter-13.typ note] : → 
 - [vol-1/book-1-chapter-15.typ note] . → ,
 - [vol-2/book-2-chapter-02.typ note] . → 
 - [vol-2/book-2-chapter-04.typ note] . → 
@@ -390,6 +402,7 @@
 - [vol-2/book-2-chapter-08.typ] , → , in
 - [vol-2/book-2-chapter-11.typ] — → ,
 - [vol-2/book-2-chapter-11.typ] . → .,
+- [vol-2/book-2-chapter-16.typ] . → 
 - [vol-2/book-2-chapter-17.typ] , → 
 - [vol-3/book-3-chapter-03.typ note] — → —French, “l’imputation du peché;”—
 - [vol-3/book-3-chapter-03.typ note] . → ,
@@ -549,6 +562,7 @@
 - Impardonable → unpardonable
 - Isa → Isa.
 - Janur → Januar
+- Jerusalem → Jerusalem,
 - Julia → Julian
 - Lateral → Lateran
 - Latin → Latin,
@@ -726,6 +740,7 @@
 - heavenly → heaven’s
 - heavens → heaven,
 - height → weight
+- him → him,
 - his → this
 - holds → hold,
 - humaiu → humain
