@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 708 |
-| emendation | 354 |
-| spacing | 50 |
-| punctuation | 43 |
+| spelling | 715 |
+| emendation | 356 |
+| spacing | 56 |
+| punctuation | 44 |
 | note | 36 |
 | italic | 18 |
+| case | 9 |
 | grammar | 8 |
 | inset | 6 |
-| case | 3 |
 | merge | 3 |
 | skipped | 1 |
 
@@ -25,12 +25,14 @@
 - [vol-1/01-prefatory-address.typ] era → of a
 - [vol-1/01-prefatory-address.typ] subtleties → subtleties of
 - [vol-1/01-prefatory-address.typ] knit → fruit
+- [vol-1/04-epistle-1559.typ note] o ˜ → où
 - [vol-1/book-1-chapter-01.typ] has → have
 - [vol-1/book-1-chapter-06.typ note] 70 → 
 - [vol-1/book-1-chapter-07.typ note] is → it
 - [vol-1/book-1-chapter-08.typ] too → too clear to leave it free for heathen writers to deny that Moses did perform miracles, the father of lies suggested a calumny, and
 - [vol-1/book-1-chapter-08.typ] clear to leave it free for heathen writers to deny that Moses did perform miracles , the father of lies suggested a calumny , and → 
 - [vol-1/book-1-chapter-08.typ] 55 → 45
+- [vol-1/book-1-chapter-09.typ note] étépetis → été petis
 - [vol-1/book-1-chapter-10.typ note] 42 → 
 - [vol-1/book-1-chapter-11.typ note] 80 → 
 - [vol-1/book-1-chapter-11.typ note] 90 → 
@@ -389,6 +391,7 @@
 ## punctuation
 
 - [vol-1/01-prefatory-address.typ note] , → 
+- [vol-1/book-1-chapter-07.typ] ? → ?”
 - [vol-1/book-1-chapter-10.typ note] . → 
 - [vol-1/book-1-chapter-10.typ note] . → . 44.
 - [vol-1/book-1-chapter-11.typ note] ; → ; also Ep. 53. et 126. lib. 2., where Gregory, while wishing to excuse the worship of
@@ -434,9 +437,13 @@
 
 ## case
 
+- prefixed → Prefixed (×3)
+- french → French
+- geneva → Geneva
 - in → In
 - scripture → Scripture
 - seeing → Seeing
+- strasburg → Strasburg
 
 ## spelling
 
@@ -520,6 +527,7 @@
 - words → works (×2)
 - worlds → world, (×2)
 - ἀπολύτροσις → ἀπολύτρωσις (×2)
+- λατρεὶα → λατρεία (×2)
 - 1 → 1:
 - 10 → 10.
 - 10 → 10:
@@ -931,6 +939,7 @@
 - uit → ult
 - unas → unus
 - uncerstand → understand
+- unity → unity.
 - universes → universe,
 - unjustly → justly
 - unnamed → inflamed
@@ -948,14 +957,18 @@
 - zustitiae → justitiae
 - ést → est
 - œvres → oeuvres
-- Κυρίος → Κύριου
+- Δουλεὶα → Δουλεία
+- Κυρίος → Κύριος
+- Κυρίος → Κυρίου
 - βαττολογίαν → Βαττολογία
 - βούλεσις → βούλησις
 - διελει̑ν → διελεῖν
+- δουλεὶα → δουλεία
 - ἔλενγχος → ἔλεγχος
 - ἐθελοθρησκειας → ἐθελοθρησκείας;
 - ἑγεμονικὸν → ἡγεμονικόν
 - ἑλεημοσύνῃ → ἐλεημοσύνῃ
+- εἰδωλοδυλεία → εἰδωλοδουλεία
 - και → καὶ
 - κοινονία → κοινωνία
 - λατπευτικὸν → λατρευτικὸν

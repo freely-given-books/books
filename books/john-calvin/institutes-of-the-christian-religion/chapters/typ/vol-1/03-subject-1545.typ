@@ -1,6 +1,6 @@
 == Subject of the Present Work (1545)
 
-\[prefixed to the french edition, published at geneva in 1545.\]
+\[Prefixed to the French edition, published at Geneva in 1545.\]
 
 #smallcaps[In] order that my Readers may be the better able to profit by the present work, I am desirous briefly to point out the advantage which they may derive from it. For by so doing I will show them the end at which they ought to aim, and to which they ought to give their attention in reading it.
 
