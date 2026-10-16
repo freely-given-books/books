@@ -65,6 +65,14 @@ the witness agrees with it — the likeliest slips. `refs.py` lists references
 to verses that do not exist and quotations that do not match the verse they
 cite. Every hit is a candidate to read in context, not a fix to apply.
 
+**Thin spaces (any text keyed from an 1800s edition).** Victorian printers
+set a thin space before : ; ? ! and inside quotation marks, and OCR or
+keying turns it into a full space ("Cicero : Qui deos", "“ Prince of
+Peace.”", "others ; see"). `sweep.py`'s spacing hits catch them; in a CCEL,
+Goold, Beveridge, Grosart or M'Millan text clear every one (a French or
+Latin quotation's spacing included: the edition is English). The 1600s TCP
+texts do not have this.
+
 ### 2. Read the book (the part the tools cannot do)
 
 Read every file, start to finish, in passes of a few thousand words. Read

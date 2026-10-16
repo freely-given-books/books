@@ -86,7 +86,8 @@ all in `source/SOURCES.md`.
 which reprint CCEL keyed (its apparatus may be in copyright), the original
 printing on archive.org to check CCEL against, the volume split for a long
 work, and CCEL's own defects (commas keyed as "s", Greek and Hebrew in font
-codes, dropped lines). Read `references/ccel-books.md` before building.
+codes, dropped lines, a 19th-century print's thin spaces keyed as full
+spaces before : ; ? ! and inside quotes: clear `sweep.py`'s spacing hits). Read `references/ccel-books.md` before building.
 
 **Check the structure before going further.** Without further setup the
 scripts handle `div[@type="dedication"]` and `div[@type="chapter"]` with an
