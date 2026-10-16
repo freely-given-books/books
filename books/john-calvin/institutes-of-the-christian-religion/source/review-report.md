@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2343 |
-| emendation | 363 |
-| spacing | 74 |
-| punctuation | 57 |
+| spelling | 2351 |
+| emendation | 365 |
+| spacing | 83 |
+| punctuation | 62 |
 | note | 36 |
 | italic | 18 |
 | case | 10 |
@@ -316,9 +316,11 @@
 - [vol-5/book-4-chapter-10.typ] 22 → 21
 - [vol-5/book-4-chapter-10.typ] l → 1
 - [vol-5/book-4-chapter-12.typ] he → be
+- [vol-5/book-4-chapter-13.typ] anyburdens → any burdens
 - [vol-5/book-4-chapter-13.typ] in → to
 - [vol-5/book-4-chapter-13.typ] it → it may
 - [vol-5/book-4-chapter-13.typ] will → will be
+- [vol-5/book-4-chapter-13.typ] wil1 → will
 - [vol-5/book-4-chapter-13.typ] Christian → Christ in
 - [vol-5/book-4-chapter-13.typ] were → were then
 - [vol-6/book-4-chapter-14.typ note] J’appel le → J’appelle
@@ -439,10 +441,15 @@
 - [vol-4/book-3-chapter-20.typ] ) → ).
 - [vol-4/book-3-chapter-20.typ] ) → ).
 - [vol-4/book-3-chapter-20.typ] ) → ,
+- [vol-5/book-4-chapter-01.typ] . → ,
+- [vol-5/book-4-chapter-02.typ] . → ,
+- [vol-5/book-4-chapter-04.typ] . → .”
 - [vol-5/book-4-chapter-06.typ note] . → . 1:18; 2:10.
+- [vol-5/book-4-chapter-06.typ] " → 
 - [vol-5/book-4-chapter-07.typ note] ; → ,
 - [vol-5/book-4-chapter-07.typ note] . → :
 - [vol-5/book-4-chapter-13.typ note] . → ,
+- [vol-5/book-4-chapter-13.typ note] , → 
 - [vol-5/book-4-chapter-13.typ note] . → 
 - [vol-5/book-4-chapter-13.typ] , → , is
 - [vol-6/book-4-chapter-14.typ] . → ,
@@ -572,6 +579,7 @@
 - theme → them, (×3)
 - wills → will, (×3)
 - women → woman (×3)
+- 2 → 2. (×2)
 - Baptise → Baptize (×2)
 - Bone → Bono (×2)
 - Counsellor → Counselor (×2)
@@ -644,13 +652,14 @@
 - worlds → world, (×2)
 - ἀπολύτροσις → ἀπολύτρωσις (×2)
 - λατρεὶα → λατρεία (×2)
+- 1 → 1.
 - 1 → 1:
 - 10 → 10.
 - 10 → 10:
 - 12 → 12.
-- 2 → 2.
 - 20 → 20)
 - 28 → 28.
+- 30 → 30.
 - 4 → 4.
 - 5 → 5.
 - Adams → Adam,
@@ -666,6 +675,7 @@
 - C → C.
 - Candour → Candor
 - Catechism → Catechismo
+- Catholicœ → Catholicæ
 - Certainly → Certain
 - Chalcedony → Chalcedon
 - Cleres → Clercs
@@ -678,6 +688,7 @@
 - Doctrine → Doctrina
 - E → Ed
 - Eccles → Eccles.
+- Ecclesiœ → Ecclesiæ
 - Eceles → Eccles
 - Epistles → Epistle
 - Epistles → Epistle,
@@ -750,6 +761,7 @@
 - affections → affection,
 - afflicted → inflicted
 - aims → aim,
+- all → all.
 - allegorise → allegorize
 - alore → alors
 - ambitions → ambition,
@@ -875,6 +887,7 @@
 - fertilise → fertilize
 - fertilising → fertilizing
 - filly → fully
+- fin → fin.
 - fins → sins
 - formaæ → formæ
 - foul → soul
@@ -978,7 +991,7 @@
 - not → now
 - noteable → notable
 - nuiet → nuict
-- n’all’ → n’allâ
+- n’all’ → n’allât
 - n’ancun → n’aucun
 - n’empeehe → n’empeche
 - obsesrvations → observations
@@ -1075,6 +1088,7 @@
 - significance → significancy
 - sina → sins
 - sinners → sinners,”
+- sins → sins.
 - sits → sists
 - sould → soul
 - souls → soul
