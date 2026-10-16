@@ -2,13 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 715 |
-| emendation | 356 |
-| spacing | 56 |
-| punctuation | 44 |
+| spelling | 729 |
+| emendation | 359 |
+| spacing | 59 |
+| punctuation | 48 |
 | note | 36 |
 | italic | 18 |
-| case | 9 |
+| case | 10 |
 | grammar | 8 |
 | inset | 6 |
 | merge | 3 |
@@ -79,6 +79,7 @@
 - [vol-1/book-1-chapter-17.typ] ̔Εγω δ ᾽ ούκ ἁίτιός ειμι → Ἐγὼ δ’ οὐκ αἴτιός εἰμι
 - [vol-1/book-1-chapter-18.typ note] 1 → 50
 - [vol-1/book-1-chapter-18.typ] 4 → 3
+- [vol-2/book-2-chapter-01.typ note] folleenchere → folle enchere
 - [vol-2/book-2-chapter-01.typ note] are → are all
 - [vol-2/book-2-chapter-01.typ note] ˆ → à
 - [vol-2/book-2-chapter-01.typ note] is → it
@@ -133,6 +134,8 @@
 - [vol-2/book-2-chapter-08.typ] 59 . Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
 - [vol-2/book-2-chapter-08.typ] mighty → , might,
 - [vol-2/book-2-chapter-09.typ] 28 → 11
+- [vol-2/book-2-chapter-10.typ note] enterre → en terre
+- [vol-2/book-2-chapter-10.typ] reproach → 
 - [vol-2/book-2-chapter-11.typ note] ˆ → à
 - [vol-2/book-2-chapter-11.typ note] cá → çà
 - [vol-2/book-2-chapter-11.typ note] lá → là
@@ -146,7 +149,7 @@
 - [vol-2/book-2-chapter-14.typ note] VideCalv → Vide Calv
 - [vol-2/book-2-chapter-14.typ] ijdiwmavtwn → ἰδιωμάτων
 - [vol-2/book-2-chapter-14.typ] koinoniva → κοινωνία
-- [vol-2/book-2-chapter-14.typ] ijdiwvmata → ἰδιωμάτα
+- [vol-2/book-2-chapter-14.typ] ijdiwvmata → ἰδιώματα
 - [vol-2/book-2-chapter-14.typ] oJmoouvsion → ὁμοούσιον
 - [vol-2/book-2-chapter-15.typ] 60 → 61
 - [vol-2/book-2-chapter-15.typ] n → a
@@ -399,10 +402,14 @@
 - [vol-1/book-1-chapter-13.typ note] : → 
 - [vol-1/book-1-chapter-15.typ note] . → ,
 - [vol-2/book-2-chapter-02.typ note] . → 
+- [vol-2/book-2-chapter-02.typ] ) → ).
 - [vol-2/book-2-chapter-04.typ note] . → 
 - [vol-2/book-2-chapter-04.typ] ? → 
+- [vol-2/book-2-chapter-05.typ] ) → ).
+- [vol-2/book-2-chapter-05.typ] ) → );
 - [vol-2/book-2-chapter-05.typ] — → ,
 - [vol-2/book-2-chapter-08.typ] , → , in
+- [vol-2/book-2-chapter-10.typ] ) → 
 - [vol-2/book-2-chapter-11.typ] — → ,
 - [vol-2/book-2-chapter-11.typ] . → .,
 - [vol-2/book-2-chapter-16.typ] . → 
@@ -444,6 +451,7 @@
 - scripture → Scripture
 - seeing → Seeing
 - strasburg → Strasburg
+- who → Who
 
 ## spelling
 
@@ -506,6 +514,7 @@
 - ommited → omitted (×2)
 - ommitted → omitted (×2)
 - orthodoxy → orthodox (×2)
+- par → pas (×2)
 - passages → passage (×2)
 - presence → pretence (×2)
 - reasons → reason (×2)
@@ -532,6 +541,8 @@
 - 10 → 10.
 - 10 → 10:
 - 12 → 12.
+- 2 → 2.
+- 20 → 20)
 - 28 → 28.
 - 4 → 4.
 - 5 → 5.
@@ -549,6 +560,8 @@
 - Chalcedony → Chalcedon
 - Cleres → Clercs
 - Come → Comme
+- Commandment → Commandment.
+- Cor → Cor.
 - Diu → Dieu
 - Divinté → Divinité
 - Doctrine → Doctrina
@@ -560,6 +573,7 @@
 - Farther → Father
 - Fathered → Father’s
 - Four → pour
+- French → French,
 - Gad → God
 - Genesis → Genesim
 - Gods → God
@@ -616,6 +630,7 @@
 - adoptions → adoption,
 - advantages → advantage
 - advise → advice
+- affciant → afficiant
 - affect → effect
 - affections → affection,
 - afflicted → inflicted
@@ -634,6 +649,7 @@
 - aujourduhui → aujourdhui
 - au’un → qu’un
 - avoos → avons
+- avous → avons
 - axe → are
 - axioms → axiom,
 - bean → been
@@ -663,6 +679,7 @@
 - condemnations → condemnation,
 - condemned → contemned
 - confessions → confession
+- conseli → conseil
 - contaminations → contamination,
 - contemplations → contemplation,
 - coporeal → corporeal
@@ -805,6 +822,7 @@
 - natute → nature
 - nays → nay,
 - nexts → next
+- ne’st → n’est
 - nights → night,
 - no → nor
 - not → no
@@ -826,7 +844,6 @@
 - others → other,
 - ours → our
 - p → p.
-- par → pas
 - parents → parent
 - parts → pacto
 - passives → passive,
@@ -861,6 +878,7 @@
 - quells → quelles
 - quote → quoted,
 - qu’ → qui
+- qu’amoindrir → qu’amoindrir,
 - qu’il → qu'il
 - rathers → rather
 - recoit → reçoit
@@ -897,6 +915,7 @@
 - sits → sists
 - sould → soul
 - souls → soul
+- soy’mesme → soy-mesme
 - spare → spared
 - speaks → speak,
 - spearing → speaking
@@ -944,7 +963,9 @@
 - unjustly → justly
 - unnamed → inflamed
 - use → us,
+- veuillins → veuillions
 - vices → vice,
+- viloer → violer
 - was → wash
 - were → were,
 - when → when,
