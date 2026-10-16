@@ -103,8 +103,14 @@ def _short(book, n, head):
     import re
     import copy
     head = copy.deepcopy(head)
-    for note in head.iter(T + "note"):          # a footnote is not the title
-        note.getparent().remove(note) if note.getparent() is not None else None
+    for note in list(head.iter(T + "note")):    # a footnote is not the title
+        note.getparent().remove(note)
+    for ch in list(head.iter(T + "choice")):    # the edition's reading, not both
+        reg = ch.find(T + "reg")                # (the editor's comes first)
+        keep = "".join(reg.itertext()) if reg is not None else "".join(ch.itertext())
+        for k in list(ch):
+            ch.remove(k)
+        ch.text = keep
     text = re.split(r"\s*(?:—|\.\s|\.$|;)", " ".join("".join(head.itertext()).split()))[0]
     text = text.rstrip(".")
     words = text.lower().split()

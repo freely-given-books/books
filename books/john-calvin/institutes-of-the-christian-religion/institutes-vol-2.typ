@@ -101,7 +101,7 @@
 #metadata[Chapter 14: How Two Natures Constitute the Person of the Mediator] <short>
 #include "chapters/typ/vol-2/book-2-chapter-14.typ"
 
-#metadata[Chapter 15: Three Things Briefly to Be Regarded in Christ] <short>
+#metadata[Chapter 15: Three Things Chiefly to Be Regarded in Christ] <short>
 #include "chapters/typ/vol-2/book-2-chapter-15.typ"
 
 #metadata[Chapter 16: How Christ Performed the Office of Redeemer] <short>

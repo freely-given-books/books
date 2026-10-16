@@ -5,6 +5,7 @@ page (ebook-front-vol-N.html). Run it after changing the layout:
     colophon/.venv/bin/python books/john-calvin/institutes-of-the-christian-religion/source/make_volumes.py
 """
 
+import re
 import runpy
 import sys
 from pathlib import Path
@@ -16,7 +17,11 @@ import sources  # noqa: E402
 
 ED = runpy.run_path(str(HERE / "editorial.py"))
 ROMAN = ["I", "II", "III", "IV", "V", "VI"]
-TEMPLATE = "@local/fgbooks:0.6.1"
+# the template version the volume files import now (./fgb pins every book to
+# the same one; a bump edits them all), so regenerating does not undo it
+_m = re.search(r'#import "(@local/fgbooks:[\d.]+)"',
+               (BOOK / "institutes-vol-1.typ").read_text(encoding="utf-8"))
+TEMPLATE = _m.group(1) if _m else "@local/fgbooks:0.12.0"
 
 SUBTITLES = [
     "Book First: Of the Knowledge of God the Creator",
@@ -45,7 +50,9 @@ SOURCE_NOTE = ("Set from Henry Beveridge's translation of John Calvin's "
 
 
 def volumes():
-    root = sources.load(str(HERE / "institutes.thml.xml")).getroot()
+    # the TEI, so headings carry the edition's corrections (CHIEFLY, not
+    # CCEL's BRIEFLY), as the chapters do
+    root = sources.load(str(HERE / "institutes-of-the-christian-religion.tei.xml")).getroot()
     files = ED["LAYOUT"](root)
     out = [[] for _ in ED["VOLUMES"]]
     for f in files:
