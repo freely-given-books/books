@@ -2,16 +2,17 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2324 |
-| emendation | 361 |
-| spacing | 59 |
-| punctuation | 48 |
+| spelling | 2333 |
+| emendation | 363 |
+| spacing | 65 |
+| punctuation | 50 |
 | note | 36 |
 | italic | 18 |
 | case | 10 |
 | grammar | 8 |
 | inset | 6 |
 | merge | 4 |
+| note moved | 1 |
 
 ## emendation
 
@@ -163,6 +164,7 @@
 - [vol-2/book-2-chapter-17.typ] at → of
 - [vol-2/book-2-chapter-17.typ] aujtov ” → αὐτός
 - [vol-3/book-3-chapter-01.typ note] 2 → 4
+- [vol-3/book-3-chapter-02.typ note] Thess → 1 Thess
 - [vol-3/book-3-chapter-02.typ note] 4 → 14
 - [vol-3/book-3-chapter-02.typ note] engulfthem → engulf them
 - [vol-3/book-3-chapter-02.typ] 4 → 55
@@ -182,6 +184,7 @@
 - [vol-3/book-3-chapter-03.typ] 10 → 15
 - [vol-3/book-3-chapter-03.typ] per adventure → peradventure
 - [vol-3/book-3-chapter-03.typ] 3 , 4 → 34
+- [vol-3/book-3-chapter-04.typ note] given → given in the
 - [vol-3/book-3-chapter-04.typ note] 59 → 61
 - [vol-3/book-3-chapter-04.typ note] 3 → 52
 - [vol-3/book-3-chapter-04.typ note] I’m → I am
@@ -414,7 +417,9 @@
 - [vol-3/book-3-chapter-03.typ note] — → —French, “l’imputation du peché;”—
 - [vol-3/book-3-chapter-03.typ note] . → ,
 - [vol-3/book-3-chapter-03.typ note] , → 
+- [vol-3/book-3-chapter-03.typ] ) → ).
 - [vol-3/book-3-chapter-04.typ note] ; → ; 1
+- [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-06.typ note] , → ;
 - [vol-3/book-3-chapter-06.typ] . → :
@@ -564,6 +569,7 @@
 - Bone → Bono (×2)
 - Counsellor → Counselor (×2)
 - Fathers → Father, (×2)
+- French → French, (×2)
 - God → Good (×2)
 - Persian → Persians (×2)
 - Philistine → Philistines (×2)
@@ -650,6 +656,7 @@
 - Baptiser → Baptizer
 - Beats → Beata
 - Bert → Berd
+- C → C.
 - Candour → Candor
 - Catechism → Catechismo
 - Certainly → Certain
@@ -662,6 +669,7 @@
 - Divinté → Divinité
 - Doctrine → Doctrina
 - E → Ed
+- Eccles → Eccles.
 - Eceles → Eccles
 - Epistles → Epistle
 - Epistles → Epistle,
@@ -669,7 +677,6 @@
 - Farther → Father
 - Fathered → Father’s
 - Four → pour
-- French → French,
 - Gad → God
 - Genesis → Genesim
 - Gods → God
@@ -707,6 +714,7 @@
 - Purify → Purifying
 - Put → But
 - Pœitentia → Pœnitentia
+- Pœnit → Pœnit.
 - Sam → Sam.
 - Satan’s → Satan,
 - Section → Sections
@@ -768,6 +776,7 @@
 - breviare → breviaire
 - burials → burial,
 - bye → by
+- c → c.
 - call → called
 - callings → calling,
 - camparison → comparison
@@ -807,6 +816,7 @@
 - difference → deference
 - diligences → diligence,
 - directions → direction,
+- discernera → discernere
 - discernments → discernment,
 - dishonourable → dishonorable
 - dishonouring → dishonoring
@@ -1006,12 +1016,14 @@
 - quarrelling → quarreling
 - que → qui
 - quells → quelles
+- quils → qu’ils
 - quote → quoted,
 - qu’ → qui
 - qu’amoindrir → qu’amoindrir,
 - qu’il → qu'il
 - rathers → rather
 - rebaptise → rebaptize
+- recognoissant → recognoissent
 - recoit → reçoit
 - redemptions → redemption,
 - reduction → reductio
@@ -1125,6 +1137,7 @@
 - Κυρίος → Κύριος
 - Κυρίος → Κυρίου
 - βαττολογίαν → Βαττολογία
+- βλασφημία → βλασφημία.
 - βούλεσις → βούλησις
 - διελει̑ν → διελεῖν
 - δουλεὶα → δουλεία
