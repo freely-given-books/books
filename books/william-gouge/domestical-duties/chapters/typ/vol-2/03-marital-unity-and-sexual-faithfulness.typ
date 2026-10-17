@@ -76,7 +76,7 @@ But to return to our matter, clear it is, that married persons may be chaste, an
 
 === §. 5. #emph[Of Adultery.]
 
-The vice contrary to matrimonial chastity is #emph[Adultery,] one of the most capital vices in that estate: a vice whereby way is made for #emph[Divorce:] as is clear and evident by the determination of Christ himself, concerning that point, first #footnote[#emph[Matth.] 5. 32.] propounded in his sermon on the mount, and again #footnote[#emph[Matth.] 19. 9. #emph[Christus ab adultera vero separari permittit. Greg. Naz. Orat.] 36. #emph[Vir post fornicationem non est vir, Chrys. hom.] 19. #emph[in] 1 #emph[Cor.] 7.] repeated in his conference with the Pharisees, where condemning unjust divorces, he excepteth the divorce made for adultery.
+The vice contrary to matrimonial chastity is #emph[Adultery,] one of the most capital vices in that estate: a vice whereby way is made for #emph[Divorce:] as is clear and evident by the determination of Christ himself, concerning that point, first #footnote[#emph[Matth.] 5. 32.] propounded in his sermon on the mount, and again #footnote[#emph[Matth.] 19. 9. #emph[Christus ab adultera viro separari permittit. Greg. Naz. Orat.] 36. #emph[Vir post fornicationem non est vir, Chrys. hom.] 19. #emph[in] 1 #emph[Cor.] 7.] repeated in his conference with the Pharisees, where condemning unjust divorces, he excepteth the divorce made for adultery.
 
 And great reason there is thereof. For #footnote[1 #emph[Cor.] 6. 16.] the adulterer maketh himself one flesh with his harlot. Why then should he remain to be one flesh with his wife? #emph[Two] (saith the Law) #emph[shall be one flesh:] not three. The like may be said of a wife committing adultery.
 

@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1881 |
+| spelling | 1882 |
 | emendation | 318 |
 | case | 148 |
 | grammar | 147 |
@@ -1131,6 +1131,7 @@
 - togethet → together
 - tribuium → tributum
 - undesiled → undefiled
+- vero → viro
 - vers → vers.
 - vettues → virtues
 - vice → vice.

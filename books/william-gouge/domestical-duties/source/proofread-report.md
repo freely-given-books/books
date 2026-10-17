@@ -60,6 +60,7 @@ checked against the text.
 6. **p. 606, vol 4, ch 3 §11:** "a point of justice and unlawful" should be "a point of **injustice**". **Recommend: apply.**
 7. **p. 629, vol 4, ch 4 §31:** "Example and advice of ones equal" should be "of **one** equal". **Recommend: apply.**
 8. **p. 218, margin:** the erratum for "viro" (Chrysostom's "Vir post fornicationem non est vir") could not be placed. **Recommend:** leave it.
+    - **Placed and applied 2026-10-17:** it belongs to the quotation before, Greg. Naz.: "Christus ab adultera **vero** separari permittit" → "**viro**" (Christ permits the husband to be separated from an adulteress), margin line 8 of p. 218. All eight errata are now in the text, and the errata leaf is left out of the edition (`SKIP_BLOCKS` in editorial.py; vol 4 is 179 pages).
 
 ### Readings where the print is wrong but the fix is a real change of words
 

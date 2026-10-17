@@ -117,9 +117,10 @@ list against the earlier edition is `source/migration-differences.md`.
   that interrupts a sentence — "a family consisteth of these three orders,
   husbands, wives, parents, children, masters, servants, all which he
   reckoneth up" — is flattened into the sentence instead.
-- **The 1622 errata are printed at the back of Volume IV but not applied.**
-  They key to original page and line numbers, which cannot be resolved against
-  this setting.
+- **The 1622 errata are applied, and their leaf is left out.** All eight
+  corrections the printer listed ("Some faults escaped") are made in the text
+  (`source/proofread-report.md`); the leaf itself, keyed to 1622 pages, is not
+  printed (`SKIP_BLOCKS` in `source/editorial.py`).
 
 ## Steps for Generation
 

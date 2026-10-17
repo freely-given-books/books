@@ -152,4 +152,3 @@ ebook and PDF also available.
 
 #include "chapters/typ/vol-4/10-a-masters-own-master-in-heaven.typ"
 
-#include "chapters/typ/vol-4/errata.typ"
