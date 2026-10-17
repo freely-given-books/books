@@ -13,13 +13,13 @@
 
 #v(0.8em)
 
-#smallcaps[From] wives duties the Apostle proceedeth to press husbands duties. And as he propounded to wives for a pattern, the example of the Church, so to husbands he propoundeth the example of Christ: and #footnote[#emph[Vers.] 28, 29.] addeth thereunto the pattern of a mans self, in regard of that natural affection which he beareth to his body. Thus he addeth pattern to pattern, #footnote[Husbands duties most pressed.] and doth the more largely and earnestly press them, because husbands having a more honourable place, their failing in duty is the more heinous, scandalous, and dangerous.
+#smallcaps[From] wives duties the Apostle proceedeth to press husbands duties. And as he propounded to wives for a pattern, the example of the Church, so to husbands he propoundeth the example of Christ: and #footnote[#emph[Vers.] 28, 29.] addeth thereunto the pattern of a man’s self, in regard of that natural affection which he beareth to his body. Thus he addeth pattern to pattern, #footnote[Husbands duties most pressed.] and doth the more largely and earnestly press them, because husbands having a more honourable place, their failing in duty is the more heinous, scandalous, and dangerous.
 
 The Apostle restraineth the duties of husbands to their #footnote[ἑαυτῶν.] #emph[own] wives, as he did the duties of wives to their #footnote[ἰδίοις.] #emph[own] husbands. For though the same word be not here used which was before, yet a word of like emphasis is used: and as good reason there is that our English translators should have put in this particle #emph[(own)] in this verse, as in the 22. Verse, for proof whereof read 1 Cor. 7. 2. Where #footnote[ἑαυτοῦ. ἴδιον. See §. 82.] these two words are used, and both of them translated #emph[own.]
 
 This I have the rather noted, because many who hold that a wife must have but one husband, conceit that a husband may have more wives then one: which conceit this particle #emph[(own)] wipeth away. All the duties of an husband are comprised under this one word #footnote[See the reasons hereof #emph[Treat.] 4. §. 2.] #emph[love.] Wherein that an husband might be the better directed, and whereto that he might be the rather provoked, the forenamed example of Christ, and of his love to the Church, is very lively set forth: first generally in these words, #emph[even as Christ loved the Church:] and then more particularly in the words following.
 
-=== §. 27. #emph[Of the example of Christs love.]
+=== §. 27. #emph[Of the example of Christ’s love.]
 
 The note of comparison#footnote[καθώς.] (#emph[Even as)] requireth no #emph[equality,] as if it were possible for an husband in that #emph[measure] to love his wife, as Christ loved his Church; (for as Christ in excellency and greatness exceedeth man, so in love and tenderness) But it noteth an #emph[equity,] and #emph[like quality.]
 
@@ -29,36 +29,36 @@ A #emph[like quality,] because the love which Christ beareth to the Church is ev
 
 1\. #emph[Husbands must come as near as they can to Christ in loving their wives.] In which respect, because they can never love so much as Christ did, they must never think they have loved enough.
 
-2\. Though their love in #emph[measure] cannot equal Christs love, yet in the #emph[manner] thereof it must be like Christs, a #emph[preventing, true, free, pure, exceeding, constant love.]
+2\. Though their love in #emph[measure] cannot equal Christ’s love, yet in the #emph[manner] thereof it must be like Christ’s, a #emph[preventing, true, free, pure, exceeding, constant love.]
 
-#emph[The] measure #emph[and] manner #emph[of Christs love is distinctly noted,] Treat. 4. §. 61. #emph[etc. And the love which an husband oweth his wife paralleled & applied thereto, which application may be also made of that Christian mutual love which we owe one to another.]
+#emph[The] measure #emph[and] manner #emph[of Christ’s love is distinctly noted,] Treat. 4. §. 61. #emph[etc. And the love which an husband oweth his wife paralleled & applied thereto, which application may be also made of that Christian mutual love which we owe one to another.]
 
 The love of Christ to the Church is amplified,
 
 + By an #emph[Effect] thereof, in these words, #emph[He gave himself for it.]
 + By the #emph[End] of that effect, largely set down, #emph[verse] 26, 27.
 
-The #emph[effect] is noted partly as a confirmation of the truth, partly as a declaration of the measure of Christs love.
+The #emph[effect] is noted partly as a confirmation of the truth, partly as a declaration of the measure of Christ’s love.
 
 The #emph[Act (he gave)] showeth that his love was in deed and truth: not only in show and pretence.
 
 The #emph[Object (himself)] showeth that he loved his Church more then his own life. A greater evidence of love could not be given: for #emph[greater love hath no man then this, that a man] #footnote[#emph[John] 15. 13.] #emph[lay down his life for his friend.]
 
-The #emph[end] of Christs love (set forth #emph[vers.] 26, 27.) is noted to show that he so loved his Church for her good and happiness, rather then for any advantage to himself.
+The #emph[end] of Christ’s love (set forth #emph[vers.] 26, 27.) is noted to show that he so loved his Church for her good and happiness, rather then for any advantage to himself.
 
-As this example of Christs love to his Church is set before husbands: so it may and ought also to be applied to all Christians: and that in a double respect.
+As this example of Christ’s love to his Church is set before husbands: so it may and ought also to be applied to all Christians: and that in a double respect.
 
 1\. As a motive to stir them up to love both Christ himself, and also their brethren.
 
 2\. As a pattern to teach them how to love.
 
-A motive it is to love Christ, because love deserveth love: especially such a love, of such a person as the love of Christ is. Yea, our love of Christ is an evidence that we are loved of Christ, as smoke is a sign of fire. Wherefore both in thankfulness to Christ, for his love to us, and for assurance to our own souls of Christs love to us, we ought in all things that we can to testify our love to Christ.
+A motive it is to love Christ, because love deserveth love: especially such a love, of such a person as the love of Christ is. Yea, our love of Christ is an evidence that we are loved of Christ, as smoke is a sign of fire. Wherefore both in thankfulness to Christ, for his love to us, and for assurance to our own souls of Christ’s love to us, we ought in all things that we can to testify our love to Christ.
 
 A motive it is also to love our brethren, because Christ being in heaven, our #footnote[#emph[Psal.] 16. 2.] #emph[goodness extendeth not to him:] but our brethren on earth stand in his stead, and the love we show to them, we show to him; and he accepteth it as done to him: #footnote[#emph[Matth.] 25. 35, 40.] #emph[Ye fed me, ye visited me,] saith Christ to them that fed and visited his brethren. This love also, even the #footnote[1 #emph[Joh.] 4. 20.] love of our brethren, is an evidence that we are loved of God. Wherefore #footnote[#emph[& vers.] 11.] #emph[if Christ so loved us, we ought also to love one another.]
 
 How the love of Christ is a pattern, I will #footnote[Treat. 4. §. 61. #emph[etc.]] afterwards show.
 
-=== §. 28. #emph[Of Christs giving himself.]
+=== §. 28. #emph[Of Christ’s giving himself.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -71,7 +71,7 @@ How the love of Christ is a pattern, I will #footnote[Treat. 4. §. 61. #emph[et
 
 #v(0.8em)
 
-#smallcaps[This] fruit and effect of Christs love extendeth it self to all #footnote[Christ himself, and all that he did and suffered, are ours.] the things that Christ did or suffered for our redemption: as, that he descended from heaven, took upon him our nature, and became a man; that he subjected himself to the law, and perfectly fulfilled it; that he made himself subject to many temptations of the devil and his instruments; that he took upon him our infirmities; that he became a King to govern us, a Prophet to instruct us, a Priest to make an atonement for us: that he subjected himself to death, the cursed death of the cross, and so made himself an oblation & sacrifice for our sins; that he was buried; that he rose again; that he ascended into heaven, and there sitteth at Gods right hand to make intercession for us. For after that Christ had taken upon him to be our #emph[head] and #emph[Saviour,] he wholly set himself apart for our use, and our benefit: so as his person, his offices, his actions, his sufferings, his humiliation, his exaltation, the dignity, the purity, the efficacy of all is the Churches, and to her good do they all tend. This in general is the extent of this fruit of Christs love, #emph[he gave himself for it.]
+#smallcaps[This] fruit and effect of Christ’s love extendeth it self to all #footnote[Christ himself, and all that he did and suffered, are ours.] the things that Christ did or suffered for our redemption: as, that he descended from heaven, took upon him our nature, and became a man; that he subjected himself to the law, and perfectly fulfilled it; that he made himself subject to many temptations of the devil and his instruments; that he took upon him our infirmities; that he became a King to govern us, a Prophet to instruct us, a Priest to make an atonement for us: that he subjected himself to death, the cursed death of the cross, and so made himself an oblation & sacrifice for our sins; that he was buried; that he rose again; that he ascended into heaven, and there sitteth at God’s right hand to make intercession for us. For after that Christ had taken upon him to be our #emph[head] and #emph[Saviour,] he wholly set himself apart for our use, and our benefit: so as his person, his offices, his actions, his sufferings, his humiliation, his exaltation, the dignity, the purity, the efficacy of all is the Churches, and to her good do they all tend. This in general is the extent of this fruit of Christ’s love, #emph[he gave himself for it.]
 
 More particularly, we may note these three points:
 
@@ -97,11 +97,11 @@ Exceedingly doth this commend the love of Christ: and assureth us that it is the
 
 Let us in imitation of our head, do the things whereunto #footnote[2 #emph[Cor.] 9. 7.] we are called willingly and cheerfully, though they seem never #footnote[2\. #emph[Use.]] so disgraceful to the world, or grievous to our weak flesh.
 
-=== §. 30. #emph[Of the kind of Christs death, an oblation.]
+=== §. 30. #emph[Of the kind of Christ’s death, an oblation.]
 
-That #emph[Christs death was an oblation,] and a price of redemption, is evident by the death of those beasts which were offered up for a sacrifice, and therein were a type of Christs death. But expressly is this noted by this Apostle, where he saith, #footnote[#emph[Ephes.] 5. 2.] #emph[Christ hath given himself for us, an offering and sacrifice to God for a sweet smelling savour:] and again, #footnote[1 #emph[Tim.] 2. 6.] #emph[Christ gave himself a ransom.] The phrases of #footnote[1 #emph[Pet.] 1. 18, 19] #emph[redeeming,] #footnote[#emph[Acts] 20. 28.] #emph[purchasing,] #footnote[2 #emph[Pet.] 2. 1.] #emph[buying,] with the like, attributed to Christ and his blood, do further confirm the same.
+That #emph[Christ’s death was an oblation,] and a price of redemption, is evident by the death of those beasts which were offered up for a sacrifice, and therein were a type of Christ’s death. But expressly is this noted by this Apostle, where he saith, #footnote[#emph[Ephes.] 5. 2.] #emph[Christ hath given himself for us, an offering and sacrifice to God for a sweet smelling savour:] and again, #footnote[1 #emph[Tim.] 2. 6.] #emph[Christ gave himself a ransom.] The phrases of #footnote[1 #emph[Pet.] 1. 18, 19] #emph[redeeming,] #footnote[#emph[Acts] 20. 28.] #emph[purchasing,] #footnote[2 #emph[Pet.] 2. 1.] #emph[buying,] with the like, attributed to Christ and his blood, do further confirm the same.
 
-Learn hereby to consider Christs death, not as the death of #footnote[Use.] a private man, but of a public person, of a surety, of a pledge, that in our room and stead #footnote[2 #emph[Cor.] 5. 21.] #emph[was made sin, and] #footnote[#emph[Gal.] 3. 13.] #emph[was made a curse] to redeem us from our sins, and from the curse which by sin was fallen upon us. The comfort and benefit of Christs death is lost, if this be not known and believed. In this consisteth a main difference betwixt the death of Christ, and all other men, not the most righteous Martyrs excepted. Their death was but a duty, and debt: no satisfactory oblation, no price, no ransom, as Christs was.
+Learn hereby to consider Christ’s death, not as the death of #footnote[Use.] a private man, but of a public person, of a surety, of a pledge, that in our room and stead #footnote[2 #emph[Cor.] 5. 21.] #emph[was made sin, and] #footnote[#emph[Gal.] 3. 13.] #emph[was made a curse] to redeem us from our sins, and from the curse which by sin was fallen upon us. The comfort and benefit of Christ’s death is lost, if this be not known and believed. In this consisteth a main difference betwixt the death of Christ, and all other men, not the most righteous Martyrs excepted. Their death was but a duty, and debt: no satisfactory oblation, no price, no ransom, as Christ’s was.
 
 === §. 31. #emph[Of the infinite value of the price of our redemption.]
 
@@ -113,7 +113,7 @@ The Object, or thing which Christ gave for a ransom was #emph[himself,] not his 
 
 2\. Though the divine nature of Christ suffered not, yet did it support the human nature, and add dignity, worth and efficacy to the sufferings of that nature.
 
-3\. Christs divine nature had proper and peculiar works in the work of redemption, as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
+3\. Christ’s divine nature had proper and peculiar works in the work of redemption, as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
 
 Thus then in three respects the whole person of Christ was given unto us.
 
@@ -135,15 +135,15 @@ In that the person of Christ God-man was given up, I gather that #footnote[1 #em
 
 4\. How ungrateful, how unworthy of Christ are they, that for his sake will not forsake their unstable honours, fading wealth, vain pleasures, garish attire, and such like trash?
 
-=== §. 32. #emph[Of Christs seeking the good of the Church.]
+=== §. 32. #emph[Of Christ’s seeking the good of the Church.]
 
 The #emph[End] why Christ gave himself was, #emph[for the Church: so] #footnote[Doctr.] #emph[as Christ in his death aimed at our good.] #footnote[2 #emph[Cor.] 5. 21.] He was made sin #emph[for us, that we might be made the righteousness of God in him:] #footnote[#emph[Gal.] 3. 13.] he was made a curse #emph[for us, and hath redeemed us from the curse of the Law:] #footnote[#emph[Gal.] 1. 4.] he gave himself #emph[for our sins, that he might deliver us:] #footnote[#emph[Joh.] 10. 15.] he laid down his life #emph[for the sheep.]
 
-This proves Christs giving of himself to be a fruit of his love: for #footnote[1 #emph[Cor.] 13. 5. 1. #emph[Use.]] #emph[love seeketh not her own.]
+This proves Christ’s giving of himself to be a fruit of his love: for #footnote[1 #emph[Cor.] 13. 5. 1. #emph[Use.]] #emph[love seeketh not her own.]
 
 Learn we hereby to apply all that Christ did to our selves. If #emph[for us] he gave himself, he, and #footnote[See §. 28. 2. #emph[Use.]] all appertaining to him is ours.
 
-Learn we also hereby how to manifest love: namely by seeking, and procuring the good of others. #emph[Let no man seek his] #footnote[1 #emph[Cor.] 10. 24.] #emph[own, but every man anothers wealth.] If this were practised, would there be such oppressing, such undermining, such deceiving, such wronging of one another as there is? Too truly is the Apostles complaint verified in our days, #emph[All seek their] #footnote[#emph[Phil.] 2. 21.] #emph[own.] But let that mind be in us which was in Christ Jesus, and thus manifest our love, as we desire to partake of this fruit of Christs love.
+Learn we also hereby how to manifest love: namely by seeking, and procuring the good of others. #emph[Let no man seek his] #footnote[1 #emph[Cor.] 10. 24.] #emph[own, but every man anothers wealth.] If this were practised, would there be such oppressing, such undermining, such deceiving, such wronging of one another as there is? Too truly is the Apostles complaint verified in our days, #emph[All seek their] #footnote[#emph[Phil.] 2. 21.] #emph[own.] But let that mind be in us which was in Christ Jesus, and thus manifest our love, as we desire to partake of this fruit of Christ’s love.
 
 From hence by just consequence it followeth that #emph[Christ merited] #footnote[Christ merited not for himself.] #emph[not for himself.] Was there any need that Christ should come down from heaven on earth, to purchase any thing for himself? When he was going out of the world, thus he prayed, #emph[Now, O father, glorify thou me with the glory which I had] #footnote[#emph[Joh.] 17. 5.] #emph[with thee before the world was.] Did Christ by any thing which he did on earth merit that glory which he had before the world was? All the exaltation whereunto he was advanced even in his human nature, was due to the dignity of his person.
 
@@ -161,7 +161,7 @@ From hence by just consequence it followeth that #emph[Christ merited] #footnote
 
 2\. If Christ were bound to the Law, of duty he must have fulfilled it: and if of duty he was to fulfill it, how could he thereby merit so high a degree of honour as he is advanced unto?
 
-This conceit of Christs meriting for himself, doth much extenuate the glory of Christs grace and goodness in giving himself.
+This conceit of Christ’s meriting for himself, doth much extenuate the glory of Christ’s grace and goodness in giving himself.
 
 === §. 33. #emph[Of the particular ends, why Christ gave himself, and of the condition of the Church before Christ took her.]
 
@@ -176,7 +176,7 @@ This conceit of Christs meriting for himself, doth much extenuate the glory of C
 
 #v(0.8em)
 
-#smallcaps[The] general #emph[End] of Christs giving himself being before intimated in this phrase #emph[(for us)] is in this and the next verse particularly exemplified: and that in two branches.
+#smallcaps[The] general #emph[End] of Christ’s giving himself being before intimated in this phrase #emph[(for us)] is in this and the next verse particularly exemplified: and that in two branches.
 
 One respecteth the estate of the Church in this world, #emph[v.] 26.
 
@@ -211,7 +211,7 @@ The #emph[condition] is presupposed, which is, that she was impure, polluted, in
 
 #emph[The Church in her self was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant born of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[#emph[Ezek.] 16. 3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[#emph[Eph.] 2. 3.] of the Church, that #footnote[#emph[Tit.] 3. 3.] #emph[we our selves also were such.] #footnote[1 #emph[Cor.] 6. 11.]
 
-The Church consisteth of none other then of such as came out of #emph[Adams] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is born of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[born again.] #footnote[#emph[Joh.] 3. 3, 5.]
+The Church consisteth of none other then of such as came out of #emph[Adam’s] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is born of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[born again.] #footnote[#emph[Joh.] 3. 3, 5.]
 
 This our former estate by nature is oft and seriously #footnote[Our natural condition oft to be thought of.] to be thought of, and that in respect of
 

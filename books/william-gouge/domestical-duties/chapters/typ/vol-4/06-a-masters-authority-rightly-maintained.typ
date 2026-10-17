@@ -50,7 +50,7 @@ Of these in order.
 
 === §. 2. #emph[Of masters choosing good servants.]
 
-The first thing that a man, who taketh upon him to be a master, must take care of, is to entertain good servants into his service. #footnote[#emph[Psal.] 101. 6.] #emph[Mine eyes] (saith #emph[David) shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way he shall serve me.] What doth this phrase #emph[(mine eyes shall be upon the faithful)] imply, but that he will diligently and carefully inquire after such: yea #emph[mine eyes] (saith he) not another mans eyes: he would not put all the trust upon others: he would himself make what proof and trial he could. Such an emphasis hath this phrase #emph[(mine eyes)] where #footnote[#emph[Job] 19. 27.] #emph[Job] saith; #emph[whom I shall see for my self, and mine eyes shall behold, and not another for me.]
+The first thing that a man, who taketh upon him to be a master, must take care of, is to entertain good servants into his service. #footnote[#emph[Psal.] 101. 6.] #emph[Mine eyes] (saith #emph[David) shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way he shall serve me.] What doth this phrase #emph[(mine eyes shall be upon the faithful)] imply, but that he will diligently and carefully inquire after such: yea #emph[mine eyes] (saith he) not another man’s eyes: he would not put all the trust upon others: he would himself make what proof and trial he could. Such an emphasis hath this phrase #emph[(mine eyes)] where #footnote[#emph[Job] 19. 27.] #emph[Job] saith; #emph[whom I shall see for my self, and mine eyes shall behold, and not another for me.]
 
 1\. Servants are of all other things (except wife and children) #footnote[Reasons.] of best and greatest use. If then men be careful in well choosing other things, as houses, land, household-stuff, horses, and all manner of cattle (as men are very circumspect therein) should they not be much more careful in well choosing servants?
 
@@ -60,7 +60,7 @@ The first thing that a man, who taketh upon him to be a master, must take care o
 
 #emph[Object.] A master may make a bad servant to become a good one.
 
-#emph[Answ.] There is a great hazard and venture therein, especially if they be grown to ripe years: no creature is easily tamed, or brought from the natural course it hath taken, after it is grown up: a bough that hath grown crooked many years together will hardly be made straight. It is not in mans power to make a bad servant good: neither can man expect Gods blessing therein, when he observeth not a right course warranted by God.
+#emph[Answ.] There is a great hazard and venture therein, especially if they be grown to ripe years: no creature is easily tamed, or brought from the natural course it hath taken, after it is grown up: a bough that hath grown crooked many years together will hardly be made straight. It is not in man’s power to make a bad servant good: neither can man expect God’s blessing therein, when he observeth not a right course warranted by God.
 
 #emph[Quest.] What course is fittest for choice of servants? #footnote[Direction for choosing of servants.]
 
@@ -70,11 +70,11 @@ But if they be grown to ripe years, choose such as fear God, such were they upon
 
 On this ground did #footnote[#emph[Philem. vers.] 10.] Saint #emph[Paul] advise #emph[Philemon] to take #emph[Onesimus] again, because grace was then wrought in his heart.
 
-1\. Gods fear is the ground of all good obedience and #footnote[Why such servants as fear God are to be chosen.] faithfulness: note the examples of such good and faithful servants as are commended in Scripture, and you shall find them all to fear God.
+1\. God’s fear is the ground of all good obedience and #footnote[Why such servants as fear God are to be chosen.] faithfulness: note the examples of such good and faithful servants as are commended in Scripture, and you shall find them all to fear God.
 
-2\. Such will not only be diligent in their work, but they will also faithfully call upon God to prosper those things which they take in hand in their masters behalf, instance the example of #footnote[#emph[Gen.] 24. 12.] #emph[Abrahams] servant.
+2\. Such will not only be diligent in their work, but they will also faithfully call upon God to prosper those things which they take in hand in their masters behalf, instance the example of #footnote[#emph[Gen.] 24. 12.] #emph[Abraham’s] servant.
 
-3\. God will have such respect unto those servants which fear his name, as for their sakes to bless their masters house. Thus was #footnote[#emph[Gen.] 39. 5.] #emph[Potiphars] house blessed for #emph[Josephs] sake.
+3\. God will have such respect unto those servants which fear his name, as for their sakes to bless their masters house. Thus was #footnote[#emph[Gen.] 39. 5.] #emph[Potiphar’s] house blessed for #emph[Joseph’s] sake.
 
 2\. Make some trial of their fitness to that calling, work and service whereunto thou shalt put them. From such there may be hope of profit & benefit by their service. #footnote[#emph[Gen.] 29. 14.] #emph[Laban] made trial of #emph[Jacob] a month before he covenanted for any long continuance.
 
@@ -90,17 +90,17 @@ On this ground did #footnote[#emph[Philem. vers.] 10.] Saint #emph[Paul] advise 
 
 === §. 3. #emph[Of masters carelessness in choosing servants.]
 
-Contrary is their carelessness, who are ready to receive any into their house, even Atheists, Papists, swearers, swaggerers, profane wretches, unclean persons, and such like, against whom #emph[David] protesteth, he would not have #emph[him that worketh deceit to dwell in] #footnote[#emph[Psal.] 101. 7.] #emph[his house; nor him that telleth lies to tarry in his sight.] They who entertain such, make their houses to be cages of unclean birds, seminaries of wicked persons, and unprofitable members: for one scabbed sheep is enough to infect a whole flock. No marvell though many mischiefs fall upon such a family: for a man were as good bring so many Snakes and Adders into his house, as such persons: yea with them is brought Gods curse. Can any good then be looked for? Such foolish masters regard neither themselves, nor their household: no nor yet Church or common-wealth. If none would entertain such, it might be a means to make them alter their condition.
+Contrary is their carelessness, who are ready to receive any into their house, even Atheists, Papists, swearers, swaggerers, profane wretches, unclean persons, and such like, against whom #emph[David] protesteth, he would not have #emph[him that worketh deceit to dwell in] #footnote[#emph[Psal.] 101. 7.] #emph[his house; nor him that telleth lies to tarry in his sight.] They who entertain such, make their houses to be cages of unclean birds, seminaries of wicked persons, and unprofitable members: for one scabbed sheep is enough to infect a whole flock. No marvell though many mischiefs fall upon such a family: for a man were as good bring so many Snakes and Adders into his house, as such persons: yea with them is brought God’s curse. Can any good then be looked for? Such foolish masters regard neither themselves, nor their household: no nor yet Church or common-wealth. If none would entertain such, it might be a means to make them alter their condition.
 
-Many are not only careless in choosing good servants, but also except against such as are religious; thinking it a matter of reproach to entertain them. By which conceit they oft put away Gods blessing from their house.
+Many are not only careless in choosing good servants, but also except against such as are religious; thinking it a matter of reproach to entertain them. By which conceit they oft put away God’s blessing from their house.
 
-Others so stand upon a great portion of money with a prentice, or a clerk, or other servant, as they will take none but rich mens children. Whence it cometh to pass, that this point (which is a great point) of charity is neglected: persons most unfit for service are entertained, and such many times as scorn to do service. Thus their masters grow weary of them: the servants lose their time: never prove to be their crafts-masters: and their parents repent the giving of such a portion with them.
+Others so stand upon a great portion of money with a prentice, or a clerk, or other servant, as they will take none but rich men’s children. Whence it cometh to pass, that this point (which is a great point) of charity is neglected: persons most unfit for service are entertained, and such many times as scorn to do service. Thus their masters grow weary of them: the servants lose their time: never prove to be their crafts-masters: and their parents repent the giving of such a portion with them.
 
 === §. 4. #emph[Of masters maintaining their authority.]
 
 After that masters have chosen good servants, their duty is well to use them: which by reason of the difference betwixt masters and servants cannot be well done, except masters wisely maintain their authority. A master therefore must be able #footnote[1 #emph[Tim.] 3. 4. τοῦ ἰδίου οἴκου καλῶς προϊστάμενον.] #emph[well to rule his own house:] this is a duty which the Apostle in particular requireth of a Bishop, who is master of an house, but it appertaineth in general to all masters of families. Women also who by virtue of their places are mistresses, are commanded #footnote[1 #emph[Tim.] 5. 14. οἰκοδεσποτεῖν.] #emph[to guide the house,] or to rule, and perform the part of a mistress therein. It was the #footnote[#emph[Mat.] 8. 9.] Centurions commendation, that having servants under him, he had them at his command.
 
-1\. Gods image and authority, which a master carrieth, is thus preserved.
+1\. God’s image and authority, which a master carrieth, is thus preserved.
 
 2\. Thus shall a master have much better service done. Not one servant of a thousand, that is not kept under authority, will do good service. A like duty to this was enjoined to an husband in relation to a wife, Treat. 4. §. 4. Some of the reasons, directions, & other points there handled, may be here applied. Read it therefore.
 
@@ -148,9 +148,9 @@ Within the lists of these two virtues #emph[Justice] and #emph[Equity] (whereunt
   + A #emph[restraint] of masters commandments.
   + An #emph[execution] thereof.
 
-The restraint is unto Gods law, that a master command nothing against it, but what is agreeable to it. #emph[Abishai] would #footnote[Nothing unlawful to be commanded by masters. 1 #emph[Sam.] 26. 9.] fain have had #emph[Davids] warrant to have killed #emph[Saul:] but #emph[David] was so far from commanding him to do it, as he kept him from it.
+The restraint is unto God’s law, that a master command nothing against it, but what is agreeable to it. #emph[Abishai] would #footnote[Nothing unlawful to be commanded by masters. 1 #emph[Sam.] 26. 9.] fain have had #emph[David’s] warrant to have killed #emph[Saul:] but #emph[David] was so far from commanding him to do it, as he kept him from it.
 
-Masters are but subordinate ministers under God: they must therefore command nothing against his law. As a Judge, high-Sheriff, and all other officers under the King, must make the Kings law the ground of all those things which they require of the Kings subjects: so masters must make Gods law the ground of all those things which they require of their servants, who are also the servants of Christ. Besides, to what purpose is it to command that which a servant may and must refuse to do? But in no #footnote[Treat. 7. §. 38.] unlawful thing may he obey.
+Masters are but subordinate ministers under God: they must therefore command nothing against his law. As a Judge, high-Sheriff, and all other officers under the King, must make the Kings law the ground of all those things which they require of the Kings subjects: so masters must make God’s law the ground of all those things which they require of their servants, who are also the servants of Christ. Besides, to what purpose is it to command that which a servant may and must refuse to do? But in no #footnote[Treat. 7. §. 38.] unlawful thing may he obey.
 
 === §. 8. #emph[Of masters presuming above their authority.]
 
@@ -160,7 +160,7 @@ More presumptuous is he that taketh upon him to be the #footnote[The Popes presu
 
 And to justify the Pope from whom all inferior governors receive their power, and by whose will they must be ruled, these blasphemous positions do Papists hold of his power, #emph[He can do all things of right as God. He is as God having] #footnote[#emph[Extravag. de major. & obed. Alban. in lib. de potestat. Pap. & Eccles. Gratian. in Decret. dist.] 40.] #emph[on earth fulness of power. If he shall draw with him innumerable souls of men into hell, yet none may say to him, what doest thou?] Doth not the Apostles #footnote[2 #emph[Thess.] 2. 4. #emph[In Ecclesia cath. semper creditum est Rom. Pontificem posse sua authoritate leges ferre, quae in conscientia obligent. Bellar. de Rom. Pontif. l.] 4. #emph[c.] 15.] description of #emph[that man of sin, the son of perdition,] agree to him of whom those things are spoken? Is he not in Papists account, #emph[as God, showing himself that he is God?] Which is further confirmed by that power which they give him of making laws to bind the conscience, and coining new articles of faith.
 
-Not only popish, but profane masters also too much exceed in this presumptuous use of their power above their power: as they who enjoin their servants to kill, to steal, to swear, to forswear, to lie, to give false measures, and weights, to go to mass, to profane the Sabbath, with other like sins. In all these, and all other things like to these, being against Gods law, masters have no power to command: they go above their commission: and shall accordingly answer for it.
+Not only popish, but profane masters also too much exceed in this presumptuous use of their power above their power: as they who enjoin their servants to kill, to steal, to swear, to forswear, to lie, to give false measures, and weights, to go to mass, to profane the Sabbath, with other like sins. In all these, and all other things like to these, being against God’s law, masters have no power to command: they go above their commission: and shall accordingly answer for it.
 
 === §. 9. #emph[Of masters commanding servants to do their duty.]
 
@@ -174,7 +174,7 @@ It is one of the principal ends why God hath given power and authority to some o
 
 It is contrary to that commanding power which God hath given to masters, to suffer their servants to omit, and neglect those bounden duties which God hath commanded them: as if a servant be so popish or profane as to refuse to go to the word, or Sacrament, or to perform any duty whereunto he is bound, to let him alone. Though they themselves do those duties, and though they do not hinder and keep their servants from doing them, yet if they cause not their servants also to do them, they make themselves accessary to their servants sin.
 
-#emph[Object.] Every mans conscience is free, and cannot be forced; therefore masters may not compel servants to such things as are against their conscience.
+#emph[Object.] Every man’s conscience is free, and cannot be forced; therefore masters may not compel servants to such things as are against their conscience.
 
 #emph[Answ.] Though the conscience be free to a man, and out of anothers power, yet their outward actions are not free: and though faith, piety, righteousness, nor any grace can be forced into men, yet they may be forced to use the means which God hath sanctified for the breeding and increasing of them. Though they cannot be forced to have a religious and righteous heart, yet they may be forced to do religious and righteous duties: or if a master cannot force these, yet he may and ought to do his uttermost endeavour: by which means though he cannot free his servant from death, yet he shall free his own soul from the guilt of his death.
 
@@ -192,7 +192,7 @@ It is contrary to equity for a master to regard only himself, and his own mind, 
 
 1\. Many command things to the very uttermost of their servants strength, if not above it, (as #emph[Pharaoh)] or else things dangerous, #footnote[#emph[Exod.] 5. 7.] which may bring much mischief upon them. #emph[David] #footnote[2 #emph[Sam.] 23. 17.] was touched in heart for moving only by a wish his servants to fetch him water with the danger of their lives.
 
-2\. Others against comeliness put men to do maids works, and maids to do mens work.
+2\. Others against comeliness put men to do maids works, and maids to do men’s work.
 
 3\. Others upon mere partiality keep under old and good servants, and prefer much younger before them.
 

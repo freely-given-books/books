@@ -4,7 +4,7 @@
 
 The second point wherein a masters power consisteth is #emph[correction:] which may be given by looks, words, or deeds.
 
-By a mans look his anger and wrath against another is manifested. #footnote[אף ab אנף] In Hebrew the same word signifieth a face, and wrath: because wrath soonest showeth it self in a mans face. It is noted of #emph[Cain,] that being #emph[very wrath his countenance fell] #footnote[#emph[Si quis in domo per inobedientiam domesticae paci aduersatur, corripiatur seu verbo, seu verbere, sea quo. libet alio genere poenae iusto atque licito. Aug. de Ciu. Deil.] 19. #emph[c.] 16.] #emph[down, Gen.] 4. 5. Now the manifestation of a masters wrath against his servant is a correction.
+By a man’s look his anger and wrath against another is manifested. #footnote[אף ab אנף] In Hebrew the same word signifieth a face, and wrath: because wrath soonest showeth it self in a man’s face. It is noted of #emph[Cain,] that being #emph[very wrath his countenance fell] #footnote[#emph[Si quis in domo per inobedientiam domesticae paci aduersatur, corripiatur seu verbo, seu verbere, sea quo. libet alio genere poenae iusto atque licito. Aug. de Ciu. Deil.] 19. #emph[c.] 16.] #emph[down, Gen.] 4. 5. Now the manifestation of a masters wrath against his servant is a correction.
 
 But words whether of #emph[rebuke,] or #emph[threatening,] do much more declare the same. This phrase which #emph[Solomon] useth #emph[Pro.] 29. 19. #emph[(a servant will not be corrected with words)] showeth that there is a correction by words: and though it be negatively propounded, yet doth it not imply that correction by words is not to be used to a servant, but rather, if thereby he be not moved, that blows must be added thereto: which is a correction by deeds, whereof Christ maketh mention in the parable of those servants that according to the greatness of their fault are #footnote[#emph[Luke] 12. 47.] to be #emph[beaten with many stripes.] It is therefore in a masters power to correct his servant with stripes, or blows. Which being so, I will show,
 
@@ -17,7 +17,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 #emph[Answ.] His power reacheth not so far, as is evident by these reasons.
 
-1\. There is no precept, nor approved example, nor any other warrant out of Gods word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
+1\. There is no precept, nor approved example, nor any other warrant out of God’s word for it. The Jews had great power over such servants as were strangers: #emph[Of them they might] #footnote[#emph[Lev.] 25. 44, 45, 46.] #emph[buy bond-men and bond-maids: they might have them for a possession: and take them for an inheritance for their children after them, to be bond-men for ever:] they might be put to the most toiling, droiling, base, and abject works that they had, as #emph[drawing water, hewing wood,] and the like; but yet their masters #footnote[#emph[Jos.] 9. 27.] had not power over their lives.
 
 2\. A master might not dismember his servant: if unawares he did smite out an eye or tooth of his servant, he must make a recompense: which was to let him go free. Much less therefore #footnote[#emph[Exod.] 21. 26.] might he take away his servants life.
 
@@ -29,7 +29,7 @@ Concerning the extent of a masters power in correcting his servant, this questio
 
 #emph[Object.] In ancient times masters had this power.
 
-#emph[Answ.] They never of right had it, though some might exercise it. Among Gods people it was never exercised in any age of the world. That liberty which was taken, was among the heathen: and yet among them as polities came to be more #footnote[#emph[Apud Gentes animaduertere possumus Dominis in seruos vitae, necisque potestatem fuisse. Sed hoc tempore nullis hominibus qui sub imperio nostro sunt, licet fine causa legibus cognita in seruos suos supra modum saeuire Nam ex constit. Antonini qui sine cause seruum suum occiderit, non minus puniri iubetur, quam si alienum seruum occiderit. Iustin. Jnstit. l.] 1. #emph[Tit.] 8. #emph[Domini mitiores esse debent. Cypr. Testim. l.] 3. #emph[c.] 73.] and more civilly governed, that usurped liberty by the laws of Magistrates was much restrained: and when Emperors and Kings became Christians, it was utterly taken away.
+#emph[Answ.] They never of right had it, though some might exercise it. Among God’s people it was never exercised in any age of the world. That liberty which was taken, was among the heathen: and yet among them as polities came to be more #footnote[#emph[Apud Gentes animaduertere possumus Dominis in seruos vitae, necisque potestatem fuisse. Sed hoc tempore nullis hominibus qui sub imperio nostro sunt, licet fine causa legibus cognita in seruos suos supra modum saeuire Nam ex constit. Antonini qui sine cause seruum suum occiderit, non minus puniri iubetur, quam si alienum seruum occiderit. Iustin. Jnstit. l.] 1. #emph[Tit.] 8. #emph[Domini mitiores esse debent. Cypr. Testim. l.] 3. #emph[c.] 73.] and more civilly governed, that usurped liberty by the laws of Magistrates was much restrained: and when Emperors and Kings became Christians, it was utterly taken away.
 
 #emph[Object.] If a man take an enemy by war, he hath power to kill him.
 
@@ -83,7 +83,7 @@ The third point to be noted concerning a masters power over his servant, is abou
 
 3\. #emph[Quest.] May a master deny his servant liberty to marry?
 
-#emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Jobs] servants bond and free, as well as on his goods: which he could not have done, if #emph[Jobs] servants had not been as his goods.
+#emph[Answ.] Yea, for the time that the servant hath covenanted to be a servant with his master. For that time a servant is part of his masters goods, and possessions. As bond servants were a masters possession for ever: so covenanted servants are his possession for the time of their covenant. When God gave the devil leave to seize on all that #emph[Job] had, by virtue of that #footnote[#emph[Job] 1. 15, 16.] permission he seized on all kinds of #emph[Job’s] servants bond and free, as well as on his goods: which he could not have done, if #emph[Job’s] servants had not been as his goods.
 
 Yet notwithstanding if servants shall make it known to their master, that necessity requireth they should marry, such respect ought to be had to the chastity even of servants, as in this case I may use the phrase which the Apostle useth in reference to children, #emph[Let them be married.] #footnote[1 #emph[Cor.] 7. 36.]
 
@@ -103,7 +103,7 @@ They also do contrary to their power who seek to separate their servants that ar
 
 === §. 19. #emph[Of masters power to dispose their servants persons.]
 
-The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By Gods law not only #footnote[#emph[Lev.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
+The fourth point to be noted of a masters power over his servants respecteth their persons, which so properly belong to a master for the time of their service, as he may not only keep them himself for his own service, but also pass them over, and give, or sell them to another. By God’s law not only #footnote[#emph[Lev.] 25. 39, 44.] strangers, but Jews also might be sold for servants.
 
 The customs and statutes of our land do also permit masters #footnote[Masters care in putting off servants.] to make over their servants from one to one: and on their death-beds to bequeath them to whom they will, even as their goods and possessions.
 

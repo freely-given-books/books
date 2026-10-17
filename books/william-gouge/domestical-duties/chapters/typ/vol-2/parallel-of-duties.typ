@@ -81,5 +81,5 @@ TREAT. IV.
 + Rashness and bitterness in reproving: and that too frequently, on slight occasions, and disgracefully before children, servants, and strangers, §. 36, 38, 39.
 + A careless neglect of his wife, and niggardly dealing with her, and that in her weakness, §. 46, 51, 53.
 + A commanding of unlawful things, §. 26, 30, 32.
-+ Such a disposition as is most unlike to Christs, and to that which a man beareth to himself, viz. complemental, impure, for by-respects, unconstant, etc. §. 62, etc. and 74.
++ Such a disposition as is most unlike to Christ’s, and to that which a man beareth to himself, viz. complemental, impure, for by-respects, unconstant, etc. §. 62, etc. and 74.
 ] <parallel>

@@ -21,19 +21,19 @@ In regard of the former two things are requisite:
 
 Thus having for orders sake laid down these heads, I will distinctly handle the several points.
 
-The first particular wherein an husband showeth himself #footnote[VI. Husbands must kindly accept every good duty of his wife. #emph[Gen.] 21. 8.] to be a man of knowledge in walking before his wife, is by #emph[a kind and respective acceptation of every good duty which his wife performeth. Abraham] in testimony of his good acceptance of #emph[Sarahs] pains in nursing her child, made a great feast when the child was weaned: and #emph[Elkanah] on a like respect gave liberty #footnote[1 #emph[Sam.] 1. 23.] to his wife #emph[to do what seemed her best.]
+The first particular wherein an husband showeth himself #footnote[VI. Husbands must kindly accept every good duty of his wife. #emph[Gen.] 21. 8.] to be a man of knowledge in walking before his wife, is by #emph[a kind and respective acceptation of every good duty which his wife performeth. Abraham] in testimony of his good acceptance of #emph[Sarah’s] pains in nursing her child, made a great feast when the child was weaned: and #emph[Elkanah] on a like respect gave liberty #footnote[1 #emph[Sam.] 1. 23.] to his wife #emph[to do what seemed her best.]
 
 A great encouragement must this needs be unto wives to be subject unto their husbands in all things, when they observe no part of their subjection to be carelessly neglected, but rather graciously accepted: it quickens the spirit of a wife to think that her care and pains in pleasing her husband shall not be in vain.
 
 === §. 14. #emph[Of husbands slighting and rejecting their wives goodness.]
 
-Contrary is their practise who thinking all which a wife #footnote[Contrary, 1. To take no notice of their wives goodness.] doth to be but her duty, take little or no notice thereof; or if they cannot but take notice of it, yet lightly regard it, and slightly pass it over. This oftentimes maketh a wife even repent the good she hath done, as #emph[David] repented the service #footnote[2\. Slightly to pass it over. 1 #emph[Sam.] 25. 21.] which he had done for #emph[Nabal.] The truth is that wives ought rather to look unto God for his acceptation then unto their husbands: and though their husbands will take no notice, or not regard what good thing they do, yet for conscience sake, and for the Lords sake to do their duty: But yet notwithstanding considering our weakness and backwardness unto every duty, it can not be denied but that an husbands slight regarding of his wives goodness is an occasion to make her weary thereof: and that he doth as much as in him lieth to make her repent thereof.
+Contrary is their practise who thinking all which a wife #footnote[Contrary, 1. To take no notice of their wives goodness.] doth to be but her duty, take little or no notice thereof; or if they cannot but take notice of it, yet lightly regard it, and slightly pass it over. This oftentimes maketh a wife even repent the good she hath done, as #emph[David] repented the service #footnote[2\. Slightly to pass it over. 1 #emph[Sam.] 25. 21.] which he had done for #emph[Nabal.] The truth is that wives ought rather to look unto God for his acceptation then unto their husbands: and though their husbands will take no notice, or not regard what good thing they do, yet for conscience sake, and for the Lord’s sake to do their duty: But yet notwithstanding considering our weakness and backwardness unto every duty, it can not be denied but that an husbands slight regarding of his wives goodness is an occasion to make her weary thereof: and that he doth as much as in him lieth to make her repent thereof.
 
 But what may we say of such as scornfully reject their wives #footnote[3\. Scornfully to reject it.] duty, yea like them the worse for making conscience thereof, and so (clean contrary to the rule of christianity) #emph[overcome goodness with evil?] Surely they show a very diabolical spirit #footnote[#emph[Rom.] 12. 21.] to be in them: and cannot but minister much grief, and offence to their wives, and make that which they do to be very irksome and tedious. Fathers ought not to provoke their #footnote[#emph[Ephes.] 6. 4.] children, much less husbands their wives.
 
 === §. 15. #emph[Of husbands courteous accepting their wives reverend carriage.]#footnote[Treat. 3. §. 11. 55.]
 
-For the better conceiving of this so needful a point I will #footnote[How a mans good acceptance of his wives duty is manifested.] somewhat more particularly and distinctly apply the same to the several duties of a wife: which were drawn to two heads
+For the better conceiving of this so needful a point I will #footnote[How a man’s good acceptance of his wives duty is manifested.] somewhat more particularly and distinctly apply the same to the several duties of a wife: which were drawn to two heads
 
 #emph[Reverence.]
 
@@ -43,9 +43,9 @@ For the first, if a wife manifest her dutiful respect of her #footnote[1\. By an
 
 #emph[Object.] Thus shall an husband abase himself, and disgrace his place.
 
-#emph[Answ.] The courtesy which I speak of as it cometh from a superior, being a mere voluntary matter and a token #footnote[Courtesy may stand with superiority.] of kindness and favour, is no abasement of himself, but an advancement of his inferior: a great grace to her, no disgrace to him. #emph[Abram] was counted of the Hittites #emph[a Prince of] #footnote[#emph[Gen.] 23. 6, 7.] #emph[God,] yet in communing with them #emph[he bowed] unto them. It is noted as a commendable thing in #emph[Esau,] that though at that time he was his brothers superior (at least he took himself so to be) yet observing how #emph[Jacob] reverenced him, bowing seven times to the ground, #emph[he ran to meet him, and embraced] #footnote[#emph[Gen.] 33. 3, 4.] #emph[him, and fell on his neck.] Most pertinent to the point is the example of King #emph[Ahasuerus,] who beholding #emph[Esthers] reverend #footnote[#emph[Esth.] 5. 2.] standing before him, held out his Scepter unto her, which in a King is great courtesy.
+#emph[Answ.] The courtesy which I speak of as it cometh from a superior, being a mere voluntary matter and a token #footnote[Courtesy may stand with superiority.] of kindness and favour, is no abasement of himself, but an advancement of his inferior: a great grace to her, no disgrace to him. #emph[Abram] was counted of the Hittites #emph[a Prince of] #footnote[#emph[Gen.] 23. 6, 7.] #emph[God,] yet in communing with them #emph[he bowed] unto them. It is noted as a commendable thing in #emph[Esau,] that though at that time he was his brothers superior (at least he took himself so to be) yet observing how #emph[Jacob] reverenced him, bowing seven times to the ground, #emph[he ran to meet him, and embraced] #footnote[#emph[Gen.] 33. 3, 4.] #emph[him, and fell on his neck.] Most pertinent to the point is the example of King #emph[Ahasuerus,] who beholding #emph[Esther’s] reverend #footnote[#emph[Esth.] 5. 2.] standing before him, held out his Scepter unto her, which in a King is great courtesy.
 
-But to put the matter out of all question, let the example of Christ noted in #emph[Solomons song] be observed, and we shall find his courtesy every way answering the reverence of his Spouse.
+But to put the matter out of all question, let the example of Christ noted in #emph[Solomon’s song] be observed, and we shall find his courtesy every way answering the reverence of his Spouse.
 
 === §. 15. #emph[Of husbands too great loftiness.]
 
@@ -59,7 +59,7 @@ Again, it being a token of reverence in a wife humbly to #footnote[2\. By granti
 
 #emph[Object.] God first commanded him so to do.
 
-#emph[Answ.] This addeth the more force unto the argument, showing that it is Gods express will, that an husband should show this kind of courtesy to his wife. Much more ought a man to do at his wives request then at any others, whether friend, child, or parent: yea much more free, forward and cheerful ought he to show himself in granting his wives request then any others: provided notwithstanding that her desire be of that which may lawfully be granted: to yield in things unlawful is to lose his authority, as was showed #footnote[§. 5.] before.
+#emph[Answ.] This addeth the more force unto the argument, showing that it is God’s express will, that an husband should show this kind of courtesy to his wife. Much more ought a man to do at his wives request then at any others, whether friend, child, or parent: yea much more free, forward and cheerful ought he to show himself in granting his wives request then any others: provided notwithstanding that her desire be of that which may lawfully be granted: to yield in things unlawful is to lose his authority, as was showed #footnote[§. 5.] before.
 
 === §. 17. #emph[Of husbands harshness to their wives.]
 
@@ -116,7 +116,7 @@ Thus far of an husbands kind acceptance of that which his wife is willing and ab
 
 The #emph[love] which an husband oweth to his wife, further requireth #footnote[Husbands must commend and reward good things in their wives.] that he wisely #emph[commend] and #emph[reward] what she hath #emph[well done.] That which the Apostle saith of the Magistrates authority, may fitly be applied to an husbands in relation to his wife, #emph[Do that which is good, and thou shalt have praise of the same.] It is expressly noted in the description of a good husband, #footnote[#emph[Rom.] 13. 3.] that #emph[he praiseth his wife:] and in that he saith, #footnote[#emph[Vers.] 31.] #emph[Give her of the] #footnote[#emph[Prov.] 31. 28, 29.] #emph[fruit of her hands,] it is implied also that he rewardeth her.
 
-This is an undoubted evidence of his good acceptance of her duty, and a further encouragement to stir her up to go on and continue in well doing. Yea this is also an evidence of his joy and delight both in her person, and also in her well doing. If there be no delight in ones person, well doing will rather stir up envy then joy: and they that envy a mans well doing, will never commend, or reward him for it.
+This is an undoubted evidence of his good acceptance of her duty, and a further encouragement to stir her up to go on and continue in well doing. Yea this is also an evidence of his joy and delight both in her person, and also in her well doing. If there be no delight in ones person, well doing will rather stir up envy then joy: and they that envy a man’s well doing, will never commend, or reward him for it.
 
 In an husbands commending of his wife this caveat must be put: that he so order his commendation as it savour not of flattery, or dotage: nor yet #footnote[#emph[Lege apud T. Liv. Dec.] 1. #emph[l.] 1. #emph[quid inde evenit, quòd regij iuuenes suam quisque vxorem miris modis laudare.]] stir up lust or envy in others.
 
@@ -128,7 +128,7 @@ Contrary is an ungrateful, if not envious disposition of such #footnote[#emph[Qu
 
 #emph[Once did I ill, and that hear I ever.]
 
-Yet such will be ready to praise other mens wives, and upbraid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
+Yet such will be ready to praise other men’s wives, and upbraid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
 
 === §. 22. #emph[Of an husbands mildness.]#footnote[Treat. 3. §. 10.]
 

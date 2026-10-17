@@ -26,7 +26,7 @@ For a pattern hereof take the forenamed examples of #emph[Joseph] and #emph[Naom
 
 Contrary is the carriage of most fathers and mothers in law: especially of those who are married to husbands or to wives that had children before marriage: so far they are from performing the forenamed duty, as rather they envy at the prosperity of their husbands and wives children: and secretly endeavour to hinder it in what they can: and cunningly seek to alienate the natural parents affection from them: whence #footnote[Senecae Hippolytus.] fearful tragedies have been made, and lamentable mischiefs have followed. What other reason can be given hereof #footnote[#emph[Ovid. Metamorph. l.] 15. #emph[fab.] 45.] but a plain instigation of the devil, who thus laboureth to disunite those whom God hath joined together? For avoiding this snare note the mischiefs that follow from thence.
 
-1\. Such parents sin against Gods ordinance: and as #emph[Eve,] lean more to Satans suggestion then to Gods direction.
+1\. Such parents sin against God’s ordinance: and as #emph[Eve,] lean more to Satan’s suggestion then to God’s direction.
 
 2\. They alienate the hearts and affections of one from another: not only from their children, but from themselves.
 
@@ -34,9 +34,9 @@ Contrary is the carriage of most fathers and mothers in law: especially of those
 
 Hence note into what an hell unkind fathers and mothers in law do cast themselves. If this were duly weighed, I think they would be otherwise minded. But the god of this world doth so blind their eyes with self-love, and with envy, that they cannot see the mischiefs whereinto they implunge themselves.
 
-This is a point the more to be weighed, because the fault here taxed is so common, and hath in all ages been too common. #footnote[#emph[Lurida terribiles miscent aconita nouercae. Ouid. Metam. l.] 1. #emph[fab.] 4.] What grievous complaints have in former times been made, and still are made by children against fathers and mothers in law? Whence also direful imprecations have followed. Let widowers and widows that have children seriously think of it before hand: and be the more circumspect in taking a second or third husband or wife: and after they are married let them take heed of Satans snares: and let conscience of duty more prevail with them, then corruption of nature.
+This is a point the more to be weighed, because the fault here taxed is so common, and hath in all ages been too common. #footnote[#emph[Lurida terribiles miscent aconita nouercae. Ouid. Metam. l.] 1. #emph[fab.] 4.] What grievous complaints have in former times been made, and still are made by children against fathers and mothers in law? Whence also direful imprecations have followed. Let widowers and widows that have children seriously think of it before hand: and be the more circumspect in taking a second or third husband or wife: and after they are married let them take heed of Satan’s snares: and let conscience of duty more prevail with them, then corruption of nature.
 
-=== §. 73. #emph[Of the faults of parents to their childrens husbands and wives.]
+=== §. 73. #emph[Of the faults of parents to their children’s husbands and wives.]
 
 Many parents to the husbands and wives of their children do also much transgress and swerve from their duty: for
 
@@ -46,7 +46,7 @@ Many parents to the husbands and wives of their children do also much transgress
 
 3\. They will oft give very ill counsel: advising their sons to keep their wives short: advising their daughters not to be too subject to their husbands, yea privily to purloin from their husbands.
 
-4\. If they live with their children, they will so pry into every thing that their childrens husband or wife doth, and show such suspicion and jealousy in every thing, as they cannot but cause much discord: and hence it oft cometh to pass, that either parent and child, or husband and wife must be parted: they cannot all in peace live together.
+4\. If they live with their children, they will so pry into every thing that their children’s husband or wife doth, and show such suspicion and jealousy in every thing, as they cannot but cause much discord: and hence it oft cometh to pass, that either parent and child, or husband and wife must be parted: they cannot all in peace live together.
 
 These faults I thus note, that they may the more carefully be avoided.
 
@@ -64,9 +64,9 @@ God by his providence taking away natural parents committeth their Orphans as a 
 
 === §. 75. #emph[Of the common neglect of Orphans.]
 
-Too too common is the contrary disposition of most kinsmen, and kinswomen; they think they are bound to none but their own children, and if they have no children, to none at all. Many are of #emph[Ruths] kinsmans mind, they fear #emph[to mar] #footnote[#emph[Ruth] 4. 6.] #emph[their own inheritance.] Though they be themselves exceeding rich, and spend much in apparel, pastimes and house-keeping, yet they can suffer the Orphans of their poor kindred to want, and to beg for need.
+Too too common is the contrary disposition of most kinsmen, and kinswomen; they think they are bound to none but their own children, and if they have no children, to none at all. Many are of #emph[Ruth’s] kinsmans mind, they fear #emph[to mar] #footnote[#emph[Ruth] 4. 6.] #emph[their own inheritance.] Though they be themselves exceeding rich, and spend much in apparel, pastimes and house-keeping, yet they can suffer the Orphans of their poor kindred to want, and to beg for need.
 
-This is it that maketh the loss of natural parents to be so much the greater. And herein many Christians are more inhumane then the heathen: which the Apostle implieth, where he saith, #emph[they are worse then infidels:] for Orphans next of kin #footnote[1 #emph[Tim.] 5. 8.] are to be reckoned among those whom the Apostle termeth a mans #footnote[τοὺς ἰδίους.] OWN.
+This is it that maketh the loss of natural parents to be so much the greater. And herein many Christians are more inhumane then the heathen: which the Apostle implieth, where he saith, #emph[they are worse then infidels:] for Orphans next of kin #footnote[1 #emph[Tim.] 5. 8.] are to be reckoned among those whom the Apostle termeth a man’s #footnote[τοὺς ἰδίους.] OWN.
 
 === §. 76. #emph[Of the duty of Guardians.]
 
@@ -97,7 +97,7 @@ Contrary is the practise of most Guardians, who take Pupils #footnote[#emph[Tute
 
 3\. Marriages are after a sort forced upon many Pupils: and such matches put upon them as they cannot like; yea such as are no way fit for them, neither for estate, nor years, nor proportion of body, nor qualities of mind.
 
-Little do these Guardians think of that account whereunto they shall be brought another day before the Lord, who styleth himself the #footnote[#emph[Psal.] 10. 14.] #emph[helper of the fatherless,] and who #emph[beholdeth mischief to requite it.] Fearful is that judgment which the Lord hath #footnote[#emph[Exo.] 22. 22, #emph[etc.]] threatened against those that oppress the fatherless. Let not therefore unjust Guardians think, that the gain they get wrongfully from their Pupils shall prosper: but rather let them look for Gods curse upon their own children, and goods.
+Little do these Guardians think of that account whereunto they shall be brought another day before the Lord, who styleth himself the #footnote[#emph[Psal.] 10. 14.] #emph[helper of the fatherless,] and who #emph[beholdeth mischief to requite it.] Fearful is that judgment which the Lord hath #footnote[#emph[Exo.] 22. 22, #emph[etc.]] threatened against those that oppress the fatherless. Let not therefore unjust Guardians think, that the gain they get wrongfully from their Pupils shall prosper: but rather let them look for God’s curse upon their own children, and goods.
 
 If such as parents themselves have upon their death-beds committed their children unto, in confidence of their faithfulness, shall deal deceitfully with their Pupils, their sin is doubled, and trebled. For
 
