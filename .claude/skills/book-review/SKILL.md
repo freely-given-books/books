@@ -65,6 +65,14 @@ the witness agrees with it — the likeliest slips. `refs.py` lists references
 to verses that do not exist and quotations that do not match the verse they
 cite. Every hit is a candidate to read in context, not a fix to apply.
 
+**Thin spaces (any text keyed from an 1800s edition).** Victorian printers
+set a thin space before : ; ? ! and inside quotation marks, and OCR or
+keying turns it into a full space ("Cicero : Qui deos", "“ Prince of
+Peace.”", "others ; see"). `sweep.py`'s spacing hits catch them; in a CCEL,
+Goold, Beveridge, Grosart or M'Millan text clear every one (a French or
+Latin quotation's spacing included: the edition is English). The 1600s TCP
+texts do not have this.
+
 ### 2. Read the book (the part the tools cannot do)
 
 Read every file, start to finish, in passes of a few thousand words. Read
@@ -129,6 +137,37 @@ so:
   one/everyone, Saviour/Savior, shew/show, labour/labor, today/to-day),
   numbering styles, quotation-mark style, dashes, `etc.`. Build a table of
   variants with counts; propose the book's majority form.
+- **Printed lists and braces in the PDF**: look for bullets carrying typed
+  numbers (`- 1\. …`). Write them as `+ …` without the numeral, and the sync
+  numbers the list, keeping the printed numeral as a label. Also look for a
+  brace whose closing term (`{1. In the necessity / 2. In the efficacy} Of
+  Baptism.`) is left on a line of its own after the list. Read that brace
+  into its sentence ("In two things do Papists exceed: in the necessity and
+  in the efficacy of Baptism."); the sync marks the table
+  `@rend="inline"` (colophon 0.12.2+). A brace can only be read inline
+  whole, not in part, and two braces can't be nested into one list. In
+  those cases use a paragraph or numbered paragraphs (Gouge §49, §56).
+  In a brace read inline, type a comma outside the italics
+  (`the #emph[soul], the #emph[body]`, not `#emph[soul,]`), or the comma
+  lands in the next cell's reading and comes back as "soul ,". After every
+  sync, diff `tei_extract --layer reg` against `chapters/typ`: a reading
+  the TEI cannot hold (a list item split into a paragraph, a sub-list
+  moved under a printed "4." paragraph) comes back in another shape, so
+  put it back and note it rather than forcing it.
+- **Typesetting sweep of the PDF** (Gouge, all four volumes 2026-10-14):
+  one agent per volume at medium effort, one at a time, each writing JSONL
+  (page, file:line, excerpt, proposal, small|template). Give it the known
+  kinds so it only counts them: an epigraph verse opening "23." set as a
+  list item; footnote markers in "(¹word", at a paragraph's start, straight
+  after an item number, or two side by side ("223224"); a margin note
+  split into two notes mid-phrase; two lists separated by a blank line that
+  keep counting (restart with `#[ #set enum(start: 1) ... ]`); a sub-list
+  not indented; a bold "Object./Quest." label alone or a roman one among
+  bold ones; stray "]"; runs of one-line paragraphs. Markers move by a
+  bracket-aware script (marker before the "(", or after the first word);
+  side-by-side markers and label styling are template/structure work.
+  Printed tables "laid one against another" are PARALLEL_TABLES (two
+  columns, fgbooks 0.10.0).
 - **Nested outlines** (Owen: I. › 1. › (1.) › [1.] › 1st.): readers lose
   their place when a series runs over several chapters, when an editor's
   numerals stack ("I. 1. (1.)") or clash ("2." for a second reason under
@@ -171,7 +210,24 @@ skip any change touching markup and do it by hand; Greek may be decomposed
 quotes curly in the file and straight in the report, so match tolerantly
 and write the file's own form back; a fix taken from an older printing can
 bring that printing's punctuation along ("magic, (Exod. 9:11)") where the
-book has its own style. `./fgb check` [2] catches broken markup.
+book has its own style. `./fgb check` [2] catches broken markup. A proposal
+that moves a footnote marker can double the word it moves past ("34. But¹
+But as Paul") and drop an escape ("34\." written "34."): read every such
+proposal before applying it (Calvin, 2026-10-16).
+
+**A big CCEL book already compared word by word with its printed edition**
+(Calvin: 1845, 999 corrections) does not need a sentence-by-sentence read
+(670,000 words, ~30 readers). The user chose a targeted review instead: the
+tools; `refs.py --quotes` weak matches compared with the printed edition's
+reference after each quotation (roman *l* read as 1, *lv* as 4: Jer. 50:25,
+Isa. 55:3); consistency tables (spelling, reference abbreviations, ranges);
+headings and running heads (generated files can bypass the corrected text);
+and a typesetting sweep per volume from `pdftotext -layout`, rendering a page
+only when the text cannot tell, every wording proposal checked against the
+printed edition's OCR. It found about 130 real problems in six volumes:
+unclosed quotations, stray parentheses and note numbers, wrong words,
+Greek/Latin/French misprints (some the printed edition's own: fix plain
+misprints, keep period spellings such as 16th-century French).
 
 Edit `chapters/typ` with exact, unique replacements (match across line
 breaks; keep the file's wrapping). Mind Typst: `#`, `[`, `]`, `\` are

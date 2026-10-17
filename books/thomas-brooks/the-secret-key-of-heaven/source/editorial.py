@@ -128,10 +128,12 @@ REPORT_NOTES = [
     "printed table of heads are in the TEI as printed but not in this edition.",
 ]
 
-# ./fgb epub / pdf / page (paths from the book folder)
+# ./fgb epub / pdf / page (paths from the book folder). The contents stop at
+# the arguments and application sections (h3): Apple Books sets the entries
+# after a third level one level too high, so the sub-points stay out of it.
 EPUB = {"title": "The Secret Key of Heaven", "author": "Thomas Brooks",
         "file": "the-secret-key-of-heaven.epub", "front": "ebook-front.html",
-        "cover": "cover.typ", "toc_depth": 4,
+        "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-secret-key-of-heaven.typ"]
 QUOTE_BLOCK = True

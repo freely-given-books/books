@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.7.0": speech, stanza
+#import "@local/fgbooks:0.12.0": speech, stanza
 
 == THE FIFTH STAGE
 

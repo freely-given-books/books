@@ -105,6 +105,11 @@ one. A sign-off holds while the book's folder is as tagged: any later
 change, a colophon release that rewrites the TEI included, holds the book
 back until it is signed off again (the `releases` workflow warns on such a
 PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
+A whole version vN is a print revision and matches Lulu's revision N. A point
+version, `./fgb release sign BOOK --point` (or `./release --point BOOK`), is
+an improved edition between Lulu revisions (an ebook fix, say): vN.1, vN.2,
+every file named so, the next whole version still N+1. Its sign-off says
+whether its print is still revision N's, page for page as rendered.
 
 Day to day, `./release [BOOK ...]` at the root does all of it: signs off
 each BOOK not yet signed off (and pushes its tag), runs `make`, and after a
@@ -146,6 +151,14 @@ push, the release tag (`YYYY.MM.DD`, as in `revisions.json`) and the
    deleted. Gouge: 240 restored, and 177 medium-certainty letter fills
    checked on the same images (32 wrong guesses, e.g. "sacrifice" for
    "lust").
+3. **Thin spaces in 19th-century prints.** Victorian printers set a thin
+   space before : ; ? ! and inside quotation marks; OCR and many keyed
+   texts (CCEL included) turn it into a full space: "Cicero : Qui deos",
+   "“ Prince of Peace.”", "others ; see". Any text keyed from an
+   1800s edition (CCEL, Goold, Beveridge, Grosart, M'Millan) needs its
+   `sweep.py` spacing hits cleared before review is done; the 1600s TCP
+   texts do not have it. Checked 2026-10-16: Spurgeon, Bunyan, Owen and
+   Boston clean in the edition; Calvin (Beveridge 1845) about 25 left.
 
 ## Starting a new TCP book
 

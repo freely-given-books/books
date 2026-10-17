@@ -1,23 +1,23 @@
 {
-  "release": "2026.10.12",
-  "colophon": "0.12.1",
+  "release": "2026.10.17",
+  "colophon": "0.19.2",
   "books": [
     {
       "book": "anonymous/the-anatomy-of-simon-magus",
       "folder": "the-anatomy-of-simon-magus",
       "title": "The Anatomy of Simon Magus",
       "author": "Anonymous",
-      "version": "v6",
+      "version": "v6.1",
       "summary": "The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos).",
       "signed_off": {
-        "tag": "anonymous/the-anatomy-of-simon-magus/v6",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "anonymous/the-anatomy-of-simon-magus/v6.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: changed since v6 (the-anatomy-of-simon-magus.pdf: 2 page(s) differ: 17, 62); not a Lulu revision.",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/A25330.tcp.xml",
@@ -48,14 +48,14 @@
       },
       "files": [
         {
-          "name": "the-anatomy-of-simon-magus-v6.pdf",
-          "bytes": 959551,
-          "sha256": "56edd39e2294b2e084c278f095f4698364a5e249c3e8e1aa6e6138f4bff4ee0c"
+          "name": "the-anatomy-of-simon-magus-v6.1.pdf",
+          "bytes": 959967,
+          "sha256": "0fd0c2841937bcae072f77fb921908d3a8f704cc1e5071e75ae94a0e4926f47b"
         },
         {
-          "name": "the-anatomy-of-simon-magus-v6.epub",
-          "bytes": 399660,
-          "sha256": "a8d5824e0d3852e30bf6624837a934f277fdd42309cafed175b43316e3f2bcd2"
+          "name": "the-anatomy-of-simon-magus-v6.1.epub",
+          "bytes": 399860,
+          "sha256": "8bd284743fc4db8b8d8b71655d5a48f9575852ff228ff6aefdc06bab838adc3a"
         }
       ]
     },
@@ -64,17 +64,17 @@
       "folder": "all-of-grace",
       "title": "All of Grace",
       "author": "Charles Spurgeon",
-      "version": "v15",
+      "version": "v15.1",
       "summary": "Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed.",
       "signed_off": {
-        "tag": "charles-spurgeon/all-of-grace/v15",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "charles-spurgeon/all-of-grace/v15.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: the same as v15, page for page (Lulu revision 15).",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/grace.thml.xml",
@@ -110,14 +110,14 @@
       },
       "files": [
         {
-          "name": "all-of-grace-v15.pdf",
+          "name": "all-of-grace-v15.1.pdf",
           "bytes": 601880,
-          "sha256": "2f2214006b16c7508c2e0832d7b143d33d341ad90f39a71b04b19e98280cd01c"
+          "sha256": "c2d3619976495f5472d60a77b602b2112abeb17724e04142b40aa52697d38232"
         },
         {
-          "name": "all-of-grace-v15.epub",
-          "bytes": 249367,
-          "sha256": "c32f0a8265afe1805b20f2a5f78248f85887554991e059d790d540d761fb7b93"
+          "name": "all-of-grace-v15.1.epub",
+          "bytes": 249559,
+          "sha256": "9e2a9dfc4a2edf4cb99ab06436a1978a23b4f579e604b11d9841f9ed42369f66"
         }
       ]
     },
@@ -126,17 +126,17 @@
       "folder": "the-pilgrims-progress",
       "title": "The Pilgrim's Progress",
       "author": "John Bunyan",
-      "version": "v13",
+      "version": "v13.1",
       "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
       "signed_off": {
-        "tag": "john-bunyan/the-pilgrims-progress/v13",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "john-bunyan/the-pilgrims-progress/v13.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: changed since v13 (the-pilgrims-progress.pdf: 1 page(s) differ: 99); not a Lulu revision.",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/pilgrim.thml.xml",
@@ -182,29 +182,29 @@
       },
       "files": [
         {
-          "name": "the-pilgrims-progress-v13.pdf",
-          "bytes": 1660356,
-          "sha256": "df7c634622887a8c8e49512e9dd5e310da8874d1957b469b7f4d1db7c2040ff9"
+          "name": "the-pilgrims-progress-v13.1.pdf",
+          "bytes": 1661425,
+          "sha256": "fc79c814e6e92edbeca79602d51cd0eb9b401a6e9db725bdf5f7c5f354d029d7"
         },
         {
-          "name": "the-pilgrims-progress-v13-cover.pdf",
+          "name": "the-pilgrims-progress-v13.1-cover.pdf",
           "bytes": 17905,
-          "sha256": "e1f5c881c90f5ca2b19eb2f31bfab561f9adbd4bee19b815067ff9dda2ee5b2d"
+          "sha256": "fb66d1e19be1e159558f3313d89a814d1b79b8ed02e6e01bfbef6e47598d8e9b"
         },
         {
-          "name": "the-pilgrims-progress-v13-cover-front.png",
+          "name": "the-pilgrims-progress-v13.1-cover-front.png",
           "bytes": 43826,
           "sha256": "b03f07958088d1ae6d3554ba6ca7430645780adca98bb27a57dfc02f2c9fe082"
         },
         {
-          "name": "the-pilgrims-progress-v13-cover-front.png",
+          "name": "the-pilgrims-progress-v13.1-cover-front.png",
           "bytes": 43826,
           "sha256": "b03f07958088d1ae6d3554ba6ca7430645780adca98bb27a57dfc02f2c9fe082"
         },
         {
-          "name": "the-pilgrims-progress-v13.epub",
-          "bytes": 410018,
-          "sha256": "07e65c6d080d207704c5a9c8cf2aade9077df21807559d9085b824a40db9e9b0"
+          "name": "the-pilgrims-progress-v13.1.epub",
+          "bytes": 411114,
+          "sha256": "0c495e79bdecb9a9e049b2e68c8f896237dcbfd703ced7b57339c592d8f3ea4b"
         }
       ]
     },
@@ -213,17 +213,17 @@
       "folder": "sinners-in-the-hands-of-an-angry-god",
       "title": "Sinners in the Hands of an Angry God",
       "author": "Jonathan Edwards",
-      "version": "v8",
+      "version": "v8.1",
       "summary": "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).",
       "signed_off": {
-        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: changed since v8 (sinners-in-the-hands-of-an-angry-god.pdf: 10 page(s) differ: 7, 17, 19, 26, 33, 34, 35, 36, 37, 38); not a Lulu revision.",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/N05520.tcp.xml",
@@ -259,14 +259,14 @@
       },
       "files": [
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v8.pdf",
-          "bytes": 289144,
-          "sha256": "3e0ab8a05a398e8246bff6028ef31e550a5939c383ac4fceacb588a9484956e2"
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1.pdf",
+          "bytes": 289709,
+          "sha256": "fc3144c18471a2d66f6101218edb75898a1495df1356db4fb6f07f36c331040c"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v8.epub",
-          "bytes": 181696,
-          "sha256": "421e14e83a3122320ef51eeb303803c45c5772fdc5dd65553400267cbb3b2d02"
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1.epub",
+          "bytes": 181889,
+          "sha256": "aa1ca017c53739a4fbb04567978c0b8047f350989762497c21f987708563b2ca"
         }
       ]
     },
@@ -275,17 +275,17 @@
       "folder": "the-glorious-feast-of-the-gospel",
       "title": "The Glorious Feast of the Gospel",
       "author": "Richard Sibbes",
-      "version": "v13",
+      "version": "v13.1",
       "summary": "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.",
       "signed_off": {
-        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v13",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v13.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: changed since v13 (the-glorious-feast-of-the-gospel.pdf: 26 page(s) differ: 11, 13, 28, 31, 51, 58, 65, 66, 67, 68, 69, 70 ...); not a Lulu revision.",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/A93248.tcp.xml",
@@ -325,29 +325,29 @@
       },
       "files": [
         {
-          "name": "the-glorious-feast-of-the-gospel-v13.pdf",
-          "bytes": 837934,
-          "sha256": "027c6ee4410c59e2ff76e57fa939772a1a6118c93888d3229fc9c5781849961f"
+          "name": "the-glorious-feast-of-the-gospel-v13.1.pdf",
+          "bytes": 839773,
+          "sha256": "3be0c092ee46fb199ceb69524bce60f6a456a25e9f5f6038118425301723ed90"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v13-cover.pdf",
+          "name": "the-glorious-feast-of-the-gospel-v13.1-cover.pdf",
           "bytes": 27185,
-          "sha256": "cfeb313de8435aa9d398c9e2a5cb81e8ef9dc20d087434c6d2185be3a29bfa6e"
+          "sha256": "d95f5e3ae8489253c7dfc042b3240bd41b5af638163a2de6b9cc4c2457ed8071"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v13-cover-front.png",
+          "name": "the-glorious-feast-of-the-gospel-v13.1-cover-front.png",
           "bytes": 45671,
           "sha256": "66bba91c66943068d80fb64f72609c699b63232f4bb983d161f61a8f2ebaf375"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v13-cover-front.png",
+          "name": "the-glorious-feast-of-the-gospel-v13.1-cover-front.png",
           "bytes": 45671,
           "sha256": "66bba91c66943068d80fb64f72609c699b63232f4bb983d161f61a8f2ebaf375"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v13.epub",
-          "bytes": 279838,
-          "sha256": "930c729a7b76e036524ec69d980b3b5abd42d13c8f4cf95e85424d375f3f8b37"
+          "name": "the-glorious-feast-of-the-gospel-v13.1.epub",
+          "bytes": 280030,
+          "sha256": "9bc849bb7570c322e8bec84f859c985c67228a9de164828d006d0edc84240fb2"
         }
       ]
     },
@@ -356,17 +356,17 @@
       "folder": "the-secret-key-of-heaven",
       "title": "The Secret Key of Heaven",
       "author": "Thomas Brooks",
-      "version": "v6",
+      "version": "v6.1",
       "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
       "signed_off": {
-        "tag": "thomas-brooks/the-secret-key-of-heaven/v6",
-        "commit": "32dae41d9f233bbb3f7864c1fc9a35ae2bcb35e3",
-        "date": "2026-10-12",
+        "tag": "thomas-brooks/the-secret-key-of-heaven/v6.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
         "signer": "Courtney Hicks",
-        "note": "",
+        "note": "Print: changed since v6 (the-secret-key-of-heaven.pdf: 9 page(s) differ: 51, 68, 86, 149, 156, 167, 171, 223, 281); not a Lulu revision.",
         "signature_verified": true
       },
-      "template": "fgbooks 0.7.0",
+      "template": "fgbooks 0.12.0",
       "sources": [
         {
           "file": "source/A29703.tcp.xml",
@@ -410,29 +410,29 @@
       },
       "files": [
         {
-          "name": "the-secret-key-of-heaven-v6.pdf",
-          "bytes": 1393872,
-          "sha256": "bf1d9a0a510fdd594e0a4df358101844b0063511b7e431ac01fc5e6f8b86f0fe"
+          "name": "the-secret-key-of-heaven-v6.1.pdf",
+          "bytes": 1398620,
+          "sha256": "d8f7bbfe4b958d170aee0c164eb769c421c226008c1609be551eac516e3ec4d0"
         },
         {
-          "name": "the-secret-key-of-heaven-v6-cover.pdf",
+          "name": "the-secret-key-of-heaven-v6.1-cover.pdf",
           "bytes": 19305,
-          "sha256": "5cdce2ac3b2ce82440c6df00dcdba6c4d58f32e06fb0f769160254abea637032"
+          "sha256": "4bc57a4522a5ee94d79443ed57c9f6f6a9e9c0058498078b7d998d4d93b3cc63"
         },
         {
-          "name": "the-secret-key-of-heaven-v6-cover-front.png",
+          "name": "the-secret-key-of-heaven-v6.1-cover-front.png",
           "bytes": 39628,
           "sha256": "d3ba03c99e33477e53d3b2b64335f13a97d90b7cefe6658f5ab0be365e12dab6"
         },
         {
-          "name": "the-secret-key-of-heaven-v6-cover-front.png",
+          "name": "the-secret-key-of-heaven-v6.1-cover-front.png",
           "bytes": 39628,
           "sha256": "d3ba03c99e33477e53d3b2b64335f13a97d90b7cefe6658f5ab0be365e12dab6"
         },
         {
-          "name": "the-secret-key-of-heaven-v6.epub",
-          "bytes": 358253,
-          "sha256": "3e407af42de4aac3d8558e3640df6faf439e25955d63f32d6f502540c2ae3e7c"
+          "name": "the-secret-key-of-heaven-v6.1.epub",
+          "bytes": 355227,
+          "sha256": "f262c78458fbb2d9c4de4a95ec45c13efc82ee1b11ef94ee0bb731937148604b"
         }
       ]
     }

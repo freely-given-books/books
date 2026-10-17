@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.10.12
+# Freely Given Books: release 2026.10.17
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -17,26 +17,28 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.12.1.
+Built with colophon 0.19.2.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
-| [The Anatomy of Simon Magus](#the-anatomy-of-simon-magus) | Anonymous | v6 | 2026-10-12 |
-| [All of Grace](#all-of-grace) | Charles Spurgeon | v15 | 2026-10-12 |
-| [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v13 | 2026-10-12 |
-| [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v8 | 2026-10-12 |
-| [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v13 | 2026-10-12 |
-| [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v6 | 2026-10-12 |
+| [The Anatomy of Simon Magus](#the-anatomy-of-simon-magus) | Anonymous | v6.1 (between Lulu revisions) | 2026-10-17 |
+| [All of Grace](#all-of-grace) | Charles Spurgeon | v15.1 (between Lulu revisions) | 2026-10-17 |
+| [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v13.1 (between Lulu revisions) | 2026-10-17 |
+| [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v8.1 (between Lulu revisions) | 2026-10-17 |
+| [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v13.1 (between Lulu revisions) | 2026-10-17 |
+| [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v6.1 (between Lulu revisions) | 2026-10-17 |
 
 ## The Anatomy of Simon Magus
 
 The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos).
 
 - folder: `books/anonymous/the-anatomy-of-simon-magus`
-- version v6: tag `anonymous/the-anatomy-of-simon-magus/v6`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v6.1: tag `anonymous/the-anatomy-of-simon-magus/v6.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 6 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: changed since v6 (the-anatomy-of-simon-magus.pdf: 2 page(s) differ: 17, 62); not a Lulu revision.
 - source: EEBO-TCP A25330: The Anatomy of Simon Magus, or, The Sin of Simony Laid Open (London, Charles Brome, 1700) <https://github.com/textcreationpartnership/A25330>, `source/A25330.tcp.xml` (sha256 `3a437401c8512841…`)
-- files: `the-anatomy-of-simon-magus-v6.pdf`, `the-anatomy-of-simon-magus-v6.epub`
+- files: `the-anatomy-of-simon-magus-v6.1.pdf`, `the-anatomy-of-simon-magus-v6.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -52,11 +54,13 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed.
 
 - folder: `books/charles-spurgeon/all-of-grace`
-- version v15: tag `charles-spurgeon/all-of-grace/v15`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v15.1: tag `charles-spurgeon/all-of-grace/v15.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 15 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: the same as v15, page for page (Lulu revision 15).
 - source: CCEL ThML: C. H. Spurgeon, All of Grace (1886) <https://www.ccel.org/ccel/s/spurgeon/grace.xml>, `source/grace.thml.xml` (sha256 `7980c795972bb279…`)
 - witness: Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md <https://www.monergism.com/>
-- files: `all-of-grace-v15.pdf`, `all-of-grace-v15.epub`
+- files: `all-of-grace-v15.1.pdf`, `all-of-grace-v15.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -71,13 +75,15 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.
 
 - folder: `books/john-bunyan/the-pilgrims-progress`
-- version v13: tag `john-bunyan/the-pilgrims-progress/v13`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v13.1: tag `john-bunyan/the-pilgrims-progress/v13.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 13 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: changed since v13 (the-pilgrims-progress.pdf: 1 page(s) differ: 99); not a Lulu revision.
 - source: CCEL ThML: John Bunyan, The Pilgrim's Progress, Parts I and II (Logos's text of the 1853 Auburn edition) <https://www.ccel.org/ccel/b/bunyan/pilgrim.xml>, `source/pilgrim.thml.xml` (sha256 `1ebdfd4db68990f3…`)
 - source: EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md <https://github.com/textcreationpartnership/A30170>, `source/A30170.witness.xml` (sha256 `14c3c96cab3e5a57…`)
 - witness: The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md <https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732>
 - witness: biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only
-- files: `the-pilgrims-progress-v13.pdf`, `the-pilgrims-progress-v13-cover.pdf`, `the-pilgrims-progress-v13-cover-front.png`, `the-pilgrims-progress-v13-cover-front.png`, `the-pilgrims-progress-v13.epub`
+- files: `the-pilgrims-progress-v13.1.pdf`, `the-pilgrims-progress-v13.1-cover.pdf`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -92,11 +98,13 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).
 
 - folder: `books/jonathan-edwards/sinners-in-the-hands-of-an-angry-god`
-- version v8: tag `jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v8.1: tag `jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 8 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: changed since v8 (sinners-in-the-hands-of-an-angry-god.pdf: 10 page(s) differ: 7, 17, 19, 26, 33, 34, 35, 36, 37, 38); not a Lulu revision.
 - source: EEBO-TCP (Evans) N05520: Edwards, True Grace (New York, James Parker, 1753), with the second edition of Sinners in the Hands of an Angry God bound after it (pp. 43-62) <https://github.com/textcreationpartnership/N05520>, `source/N05520.tcp.xml` (sha256 `9600c9fdc53098be…`)
 - witness: The Berean Standard Bible, for the scripture quotations: source/proofread-report.md <https://berean.bible/>
-- files: `sinners-in-the-hands-of-an-angry-god-v8.pdf`, `sinners-in-the-hands-of-an-angry-god-v8.epub`
+- files: `sinners-in-the-hands-of-an-angry-god-v8.1.pdf`, `sinners-in-the-hands-of-an-angry-god-v8.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -111,12 +119,14 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.
 
 - folder: `books/richard-sibbes/the-glorious-feast-of-the-gospel`
-- version v13: tag `richard-sibbes/the-glorious-feast-of-the-gospel/v13`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v13.1: tag `richard-sibbes/the-glorious-feast-of-the-gospel/v13.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 13 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: changed since v13 (the-glorious-feast-of-the-gospel.pdf: 26 page(s) differ: 11, 13, 28, 31, 51, 58, 65, 66, 67, 68, 69, 70 ...); not a Lulu revision.
 - source: EEBO-TCP A93248: The Glorious Feast of the Gospel (London, John Rothwell, 1650) <https://github.com/textcreationpartnership/A93248>, `source/A93248.tcp.xml` (sha256 `d95173b14fc232a3…`)
 - witness: Monergism's modernized text (from the SDG reprint; (c) Monergism Books 2017), a check only: source/witness-report.md <https://www.monergism.com/>
 - witness: The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650
-- files: `the-glorious-feast-of-the-gospel-v13.pdf`, `the-glorious-feast-of-the-gospel-v13-cover.pdf`, `the-glorious-feast-of-the-gospel-v13-cover-front.png`, `the-glorious-feast-of-the-gospel-v13-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.epub`
+- files: `the-glorious-feast-of-the-gospel-v13.1.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -132,13 +142,15 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.
 
 - folder: `books/thomas-brooks/the-secret-key-of-heaven`
-- version v6: tag `thomas-brooks/the-secret-key-of-heaven/v6`, signed off 2026-10-12 by Courtney Hicks
-- template: fgbooks 0.7.0
+- version v6.1: tag `thomas-brooks/the-secret-key-of-heaven/v6.1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- a point version: an improved edition after Lulu revision 6 (the sign-off note says whether its print is still that revision's)
+- sign-off note: Print: changed since v6 (the-secret-key-of-heaven.pdf: 9 page(s) differ: 51, 68, 86, 149, 156, 167, 171, 223, 281); not a Lulu revision.
 - source: EEBO-TCP A29703: The Privie Key of Heaven (London, John Hancock, 1665) <https://github.com/textcreationpartnership/A29703>, `source/A29703.tcp.xml` (sha256 `b6742bf2f0d59f51…`)
 - witness: Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md <https://www.chapellibrary.org/>
 - witness: The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places <https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665>
 - witness: The earlier Freely Given Books copy (lightly modernized), folded in as the review
-- files: `the-secret-key-of-heaven-v6.pdf`, `the-secret-key-of-heaven-v6-cover.pdf`, `the-secret-key-of-heaven-v6-cover-front.png`, `the-secret-key-of-heaven-v6-cover-front.png`, `the-secret-key-of-heaven-v6.epub`
+- files: `the-secret-key-of-heaven-v6.1.pdf`, `the-secret-key-of-heaven-v6.1-cover.pdf`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1.epub`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 

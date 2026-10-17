@@ -97,3 +97,12 @@ a {
 
 /* a diagram printed as a list (a genealogy), kept whole */
 ul.diagram { break-inside: avoid; page-break-inside: avoid; }
+div.epigraph { break-inside: avoid; page-break-inside: avoid; }
+
+/* two printed tables set against each other (colophon's table/@rend="parallel") */
+table.parallel { width: 100%; border-collapse: collapse; font-size: 0.9em; margin: 1em 0; }
+table.parallel td { width: 50%; vertical-align: top; padding: 0.25em 0.5em 0.35em 0; }
+table.parallel tr { break-inside: avoid; page-break-inside: avoid; }
+table.parallel tr.head td { text-align: center; padding-bottom: 0.6em; }
+table.parallel td p { text-indent: 0; margin: 0 0 0.3em; }
+table.parallel span.num { display: inline-block; min-width: 1.4em; }
