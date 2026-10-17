@@ -157,8 +157,6 @@ def PARALLEL_TABLES(root):
 
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
-        "file": "domestical-duties.epub", "cover": "cover-ebook.typ",
-        "front": "ebook-front.html",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"],
         "toc_depth": 4,
         # one ebook per volume, as printed
