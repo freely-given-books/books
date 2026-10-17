@@ -12,6 +12,14 @@ import layout
 # of contents, which indexes the 1622 pagination this edition does not share.
 SKIP_DIVISIONS = {"title_page", "table_of_contents"}
 
+
+def SKIP_BLOCKS(root):
+    """The printer's errata leaf ("Some faults escaped", keyed to the 1622
+    pages): every correction it lists is made in the text, so the edition
+    leaves the leaf out (division 14; division 3, also typed errata, is the
+    parallel of duties, which the edition keeps)."""
+    return [layout.top_divs(root)[13]]
+
 # Gouge writes in numbered sections (heading level 3 under the edition's
 # chapters); a question or objection inside a section has a run-in head.
 DIV_LEVELS = {"section": 3, "dedication": 2, "errata": 2}

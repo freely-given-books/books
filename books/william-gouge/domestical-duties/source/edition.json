@@ -22,8 +22,7 @@
     "parallel-of-duties": {
       "div": 3,
       "title": "A Parallel of the Duties of Husbands and Wives"
-    },
-    "errata": {"div": 14}
+    }
   },
 
   "volumes": [
@@ -100,7 +99,6 @@
       "subtitle": "The Seventh and Eighth Treatises: Of Servants and Masters",
       "back-lead": "The last of the eight treatises, with the exposition of Ephesians 6:5-9 they are raised out of: what a servant owes his master in reverence, obedience and faithfulness, and what a master owes his servants in authority, provision, employment and wages — under the Master they both have in heaven.",
       "front": [],
-      "back": ["errata"],
       "chapters": [
         {"title": "Servants and Masters in the Apostle’s Words", "div": 5, "sections": [123, 133]},
         {"title": "A Servant’s Reverence for His Master", "div": 12, "sections": [1, 9]},
