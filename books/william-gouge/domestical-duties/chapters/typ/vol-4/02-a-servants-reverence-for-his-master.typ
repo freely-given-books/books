@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The third and last couple of a family are—
+#smallcaps[The] third and last couple of a family are—
 
 - Masters.
 - Servants.

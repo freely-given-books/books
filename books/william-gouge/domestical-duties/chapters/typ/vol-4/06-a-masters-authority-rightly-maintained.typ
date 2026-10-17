@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-In the last place the duties of masters are declared by the Apostle, and that in this verse, where he noteth,
+#smallcaps[In] the last place the duties of masters are declared by the Apostle, and that in this verse, where he noteth,
 
 + The #emph[kinds] of their duties.
 + A #emph[reason] to enforce the same.

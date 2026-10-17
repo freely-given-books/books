@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The place of an husband intimated in the last clause of the former verse, is more plainly expressed, and fully explained in this verse. His place is expressed under the metaphor of an #emph[head:] and amplified by his resemblance therein unto #emph[Christ.]
+#smallcaps[The] place of an husband intimated in the last clause of the former verse, is more plainly expressed, and fully explained in this verse. His place is expressed under the metaphor of an #emph[head:] and amplified by his resemblance therein unto #emph[Christ.]
 
 The particle of connection (FOR) showeth that this verse is added as a reason: which may fitly be referred both to the duty it self: and to the manner of performing it.
 
@@ -60,7 +60,7 @@ Upon this ground the Apostle inferreth the conclusion in the next verse.
 
 #v(0.8em)
 
-This conclusion setteth forth not only the duty it self, but also another #emph[reason,] and another #emph[rule] to provoke and direct wives to perform their duty: and that under the pattern of the Church.
+#smallcaps[This] conclusion setteth forth not only the duty it self, but also another #emph[reason,] and another #emph[rule] to provoke and direct wives to perform their duty: and that under the pattern of the Church.
 
 The #emph[reason] may be thus framed, #emph[That which the Church doth to Christ, a wife must do to her husband. But the Church is subject to Christ. Therefore a wife must be subject to her husband.]
 
@@ -89,7 +89,7 @@ I will further consider these examples of Christ and the Church more distinctly 
 
 #v(0.8em)
 
-Behold here the mutual relation betwixt Christ and the Church.
+#smallcaps[Behold] here the mutual relation betwixt Christ and the Church.
 
 #emph[Wherein note concerning Christ,]
 
@@ -255,7 +255,7 @@ The former point is not more comfortable to those that have assurance that they 
 
 #v(0.8em)
 
-The duty which the Church in way of thankfulness performeth to Christ her head for this great benefit, that #emph[he is her Saviour,] is #emph[subjection:] Under which word is comprised all that obedience and duty, which in any kind Christ requireth of the Church, in and by the word.
+#smallcaps[The] duty which the Church in way of thankfulness performeth to Christ her head for this great benefit, that #emph[he is her Saviour,] is #emph[subjection:] Under which word is comprised all that obedience and duty, which in any kind Christ requireth of the Church, in and by the word.
 
 #emph[Quest.] Is it possible for that part of the Church which is here on earth, to yield such obedience?
 

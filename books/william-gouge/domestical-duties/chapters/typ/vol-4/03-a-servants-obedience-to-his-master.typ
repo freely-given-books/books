@@ -83,7 +83,7 @@ The contrary hereunto is the highest degree of disobedience, #footnote[Contrary.
 
 === §. 14. #emph[Of servants hearkening to their masters instructions in matters of their calling.]
 
-II. As a master hath power to command, so his duty it is to #footnote[See Treat. 8. §. 21, 38.] instruct his servants in the way of righteousness, and in that civil course of life wherein he is to walk. The duty then of servants it is, in both to hearken and be obedient unto them.
+#smallcaps[II]. As a master hath power to command, so his duty it is to #footnote[See Treat. 8. §. 21, 38.] instruct his servants in the way of righteousness, and in that civil course of life wherein he is to walk. The duty then of servants it is, in both to hearken and be obedient unto them.
 
 1\. Such servants as are under masters to learn their trade, are bound many ways to hearken to them.
 

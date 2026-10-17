@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-In the particular declaration of wives duties, the Apostle noteth two points,
+#smallcaps[In] the particular declaration of wives duties, the Apostle noteth two points,
 
 + The #emph[duty] required.
 + The #emph[reason] to enforce it.

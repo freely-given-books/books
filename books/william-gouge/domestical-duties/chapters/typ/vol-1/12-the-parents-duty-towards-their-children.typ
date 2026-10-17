@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The Apostle having urged children to perform their duties to their parents, he turneth his speech to parents, saying, AND #emph[ye fathers,] etc. That copulative particle AND, joining an exhortation to parents, for performing their duties to the forenamed exhortation made to children, giveth us to understand, that
+#smallcaps[The] Apostle having urged children to perform their duties to their parents, he turneth his speech to parents, saying, AND #emph[ye fathers,] etc. That copulative particle AND, joining an exhortation to parents, for performing their duties to the forenamed exhortation made to children, giveth us to understand, that
 
 #emph[Parents are as well bound to duty as children.] Their duties #footnote[1\. #emph[Obseru.] Parents bound to duties.] indeed be different, yet (notwithstanding their superiority and authority over their children) they are bound to duty. All the directions and exhortations throughout the Scripture given unto parents, concerning their duty, and all the threatenings denounced, and judgments executed on parents for neglect of their duty, are pregnant proofs of this point.
 

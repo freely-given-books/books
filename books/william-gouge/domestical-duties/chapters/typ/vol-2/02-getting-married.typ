@@ -2,7 +2,7 @@
 
 === §. 14. #emph[Of a contract what it is?]
 
-II. When both parties have manifested a mutual liking #footnote[#emph[Ubi non est consensus vtriusque, non potest esse matrimonium. Instit. iur. can. lib.] 2. #emph[de nupt. tit.] 11.] each to other, and upon mature deliberation and good advice do conceive one to be a fit match for another, it is requisite that a joint consent and absolute promise of marrying one another before sufficient witnesses be made. This rightly made is a #emph[contract,] which is the beginning of a marriage.
+#smallcaps[II]. When both parties have manifested a mutual liking #footnote[#emph[Ubi non est consensus vtriusque, non potest esse matrimonium. Instit. iur. can. lib.] 2. #emph[de nupt. tit.] 11.] each to other, and upon mature deliberation and good advice do conceive one to be a fit match for another, it is requisite that a joint consent and absolute promise of marrying one another before sufficient witnesses be made. This rightly made is a #emph[contract,] which is the beginning of a marriage.
 
 The right making of a firm contract consisteth in two things:
 
@@ -54,7 +54,7 @@ Contrary is that unwarrantable course which many take, to #footnote[Unlawful for
 
 === §. 19. #emph[Of a religious consecrating of marriage.]
 
-III. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth in a religious #emph[consecration], and in a civil #emph[celebration] thereof.
+#smallcaps[III]. The last degree of consummating a marriage, is the open and public #emph[solemnization] thereof: which consisteth in a religious #emph[consecration], and in a civil #emph[celebration] thereof.
 
 A religious #emph[consecration] of marriage is performed by the blessing of a public Minister of the word in the open face of the Church in the day time. This of old hath been used of Christians, and still is continued among us. Though we have neither express precept, nor particular pattern in Gods word for this manner of solemnizing a marriage (for there is no particular form thereof set down in the Scripture) yet it being agreeable to the general rules thereof, we ought in conscience to subject our selves thereto.
 
@@ -148,7 +148,7 @@ No such help can man have from any other creature as from a wife; or a woman as 
 
 === §. 25. #emph[Of the Privileges of marriage.]
 
-III. If#footnote[#emph[Rom.] 3. 1.] (as once of circumcision) it be demanded what is the privilege, advantage, and profit of marriage, I answer, #emph[Much every way.]
+#smallcaps[III]. If#footnote[#emph[Rom.] 3. 1.] (as once of circumcision) it be demanded what is the privilege, advantage, and profit of marriage, I answer, #emph[Much every way.]
 
 1\. By it men and women are made #emph[husbands] and #emph[wives.]
 
@@ -164,7 +164,7 @@ The privileges and honours which are given to married persons, were questionless
 
 === §. 26. #emph[Of the mystery of Marriage.]
 
-IIII. Great is that mystery which is set forth by marriage, namely the sacred, spiritual, real, and inviolable union betwixt Christ and his Church: which is excellently deciphered in #emph[Solomons Song,] and in #emph[Psal.] 45. And expressly noted, #emph[Eph.] 5. 32.
+#smallcaps[IIII]. Great is that mystery which is set forth by marriage, namely the sacred, spiritual, real, and inviolable union betwixt Christ and his Church: which is excellently deciphered in #emph[Solomons Song,] and in #emph[Psal.] 45. And expressly noted, #emph[Eph.] 5. 32.
 
 Hereby man and wife who entirely, as they ought, love one another, have an evident demonstration of Christs love to them. For as parents by that affection which they bear to their children, may better discern the mind, and meaning of God towards them, then such as never had child, so may married persons better know the disposition of Jesus Christ, who is the spouse of every faithful soul, then single persons.
 

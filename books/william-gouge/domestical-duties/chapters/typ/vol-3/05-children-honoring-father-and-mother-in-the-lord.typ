@@ -143,7 +143,7 @@ I. The #emph[place] of a parent is noted forth by this phrase, IN THE LORD: whic
 
 === §. 60. #emph[Of the equity whereby children should be moved to obey their parents.]
 
-II. The second reason in these words, #emph[for this is right,] though it be not of greater force, yet is it more plainly and expressly noted to be a reason, as the causal particle #emph[(for)] prefixed before it, showeth. It is a general reason drawn from common equity; a reason which may move all sorts, even Infidels and Pagans: therefore much more Christians.
+#smallcaps[II]. The second reason in these words, #emph[for this is right,] though it be not of greater force, yet is it more plainly and expressly noted to be a reason, as the causal particle #emph[(for)] prefixed before it, showeth. It is a general reason drawn from common equity; a reason which may move all sorts, even Infidels and Pagans: therefore much more Christians.
 
 In saying, #emph[It is right,] he implieth three things.
 
@@ -177,7 +177,7 @@ This therefore addeth force to the second reason, and moveth children to do #emp
 
 === §. 62. #emph[Of Gods charge, how inviolable a bond it is to tie children to obey their parents.]
 
-III. The #emph[third] drawn from #emph[Gods charge] is not only in express terms noted, but for more weight the very words of the moral law are quoted #emph[(honour thy father and thy mother:)] and it is added, that this is a #emph[commandment,] yea the #emph[first] commandment, and that #emph[with promise,] all which is for amplification of the point.
+#smallcaps[III]. The #emph[third] drawn from #emph[Gods charge] is not only in express terms noted, but for more weight the very words of the moral law are quoted #emph[(honour thy father and thy mother:)] and it is added, that this is a #emph[commandment,] yea the #emph[first] commandment, and that #emph[with promise,] all which is for amplification of the point.
 
 Here then consider we
 

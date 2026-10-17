@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-Next to childrens, follow parents duties, which the Apostle layeth down in this fourth verse: where he noteth,
+#smallcaps[Next] to childrens, follow parents duties, which the Apostle layeth down in this fourth verse: where he noteth,
 
 + The duties
 + The parties

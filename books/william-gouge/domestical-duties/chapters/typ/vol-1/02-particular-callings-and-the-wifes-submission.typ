@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-From that general direction concerning mutual submission, the Apostle cometh to certain particulars, by which he exemplifieth the same: and teacheth us, that
+#smallcaps[From] that general direction concerning mutual submission, the Apostle cometh to certain particulars, by which he exemplifieth the same: and teacheth us, that
 
 #emph[It is not sufficient to perform general duties of Christianity,] #footnote[Doct.] #emph[unless also we be conscionable in performing the particular duties of our several callings.] A conscionable performance of those particular duties is one part of our #footnote[#emph[Eph.] 4. 1.] #emph[walking worthy of the vocation wherewith we are called:] and therefore the Apostle, for illustration and exemplification thereof, doth reckon up sundry particulars, both in this and #footnote[#emph[Col.] 3. 18, #emph[etc.] 1 #emph[Cor.] 7. 1 #emph[Tim.] 3.] other Epistles: and so do #footnote[1 #emph[Pet.] 2. #emph[&] 3.] other Apostles. And #footnote[#emph[Tit.] 2.] #emph[Titus] is charged to teach them. God himself hath given a pattern hereof in his Law: for the main scope of the fifth Commandment #footnote[See more of this point in #emph[The whole armour of God,] Treat. 2. part 1. §. 4.] tendeth to instruct us in the particular duties of our several callings.
 
@@ -114,7 +114,7 @@ Having hitherto handled the forenamed general instructions, I will proceed to a 
 
 #v(0.8em)
 
-The #footnote[ὑποτάσσεσθε.] word by which the Apostle hath noted out the duties of wives, is of the middle voice, and may be translated passively as #footnote[Subditae sint. Hieron. Vet. Trans. Erasm.] many have done, or #footnote[Subijcite vos. Beza.] actively as our English doth #emph[(submit your selves)] and that most fitly: for there is a double subjection.
+#smallcaps[The] #footnote[ὑποτάσσεσθε.] word by which the Apostle hath noted out the duties of wives, is of the middle voice, and may be translated passively as #footnote[Subditae sint. Hieron. Vet. Trans. Erasm.] many have done, or #footnote[Subijcite vos. Beza.] actively as our English doth #emph[(submit your selves)] and that most fitly: for there is a double subjection.
 
 1\. A #emph[necessary] subjection: which is the subjection of #emph[order.]
 

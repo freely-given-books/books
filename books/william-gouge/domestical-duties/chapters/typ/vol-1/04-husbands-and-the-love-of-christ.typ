@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-From wives duties the Apostle proceedeth to press husbands duties. And as he propounded to wives for a pattern, the example of the Church, so to husbands he propoundeth the example of Christ: and #footnote[#emph[Vers.] 28, 29.] addeth thereunto the pattern of a mans self, in regard of that natural affection which he beareth to his body. Thus he addeth pattern to pattern, #footnote[Husbands duties most pressed.] and doth the more largely and earnestly press them, because husbands having a more honourable place, their failing in duty is the more heinous, scandalous, and dangerous.
+#smallcaps[From] wives duties the Apostle proceedeth to press husbands duties. And as he propounded to wives for a pattern, the example of the Church, so to husbands he propoundeth the example of Christ: and #footnote[#emph[Vers.] 28, 29.] addeth thereunto the pattern of a mans self, in regard of that natural affection which he beareth to his body. Thus he addeth pattern to pattern, #footnote[Husbands duties most pressed.] and doth the more largely and earnestly press them, because husbands having a more honourable place, their failing in duty is the more heinous, scandalous, and dangerous.
 
 The Apostle restraineth the duties of husbands to their #footnote[ἑαυτῶν.] #emph[own] wives, as he did the duties of wives to their #footnote[ἰδίοις.] #emph[own] husbands. For though the same word be not here used which was before, yet a word of like emphasis is used: and as good reason there is that our English translators should have put in this particle #emph[(own)] in this verse, as in the 22. Verse, for proof whereof read 1 Cor. 7. 2. Where #footnote[ἑαυτοῦ. ἴδιον. See §. 82.] these two words are used, and both of them translated #emph[own.]
 
@@ -71,7 +71,7 @@ How the love of Christ is a pattern, I will #footnote[Treat. 4. §. 61. #emph[et
 
 #v(0.8em)
 
-This fruit and effect of Christs love extendeth it self to all #footnote[Christ himself, and all that he did and suffered, are ours.] the things that Christ did or suffered for our redemption: as, that he descended from heaven, took upon him our nature, and became a man; that he subjected himself to the law, and perfectly fulfilled it; that he made himself subject to many temptations of the devil and his instruments; that he took upon him our infirmities; that he became a King to govern us, a Prophet to instruct us, a Priest to make an atonement for us: that he subjected himself to death, the cursed death of the cross, and so made himself an oblation & sacrifice for our sins; that he was buried; that he rose again; that he ascended into heaven, and there sitteth at Gods right hand to make intercession for us. For after that Christ had taken upon him to be our #emph[head] and #emph[Saviour,] he wholly set himself apart for our use, and our benefit: so as his person, his offices, his actions, his sufferings, his humiliation, his exaltation, the dignity, the purity, the efficacy of all is the Churches, and to her good do they all tend. This in general is the extent of this fruit of Christs love, #emph[he gave himself for it.]
+#smallcaps[This] fruit and effect of Christs love extendeth it self to all #footnote[Christ himself, and all that he did and suffered, are ours.] the things that Christ did or suffered for our redemption: as, that he descended from heaven, took upon him our nature, and became a man; that he subjected himself to the law, and perfectly fulfilled it; that he made himself subject to many temptations of the devil and his instruments; that he took upon him our infirmities; that he became a King to govern us, a Prophet to instruct us, a Priest to make an atonement for us: that he subjected himself to death, the cursed death of the cross, and so made himself an oblation & sacrifice for our sins; that he was buried; that he rose again; that he ascended into heaven, and there sitteth at Gods right hand to make intercession for us. For after that Christ had taken upon him to be our #emph[head] and #emph[Saviour,] he wholly set himself apart for our use, and our benefit: so as his person, his offices, his actions, his sufferings, his humiliation, his exaltation, the dignity, the purity, the efficacy of all is the Churches, and to her good do they all tend. This in general is the extent of this fruit of Christs love, #emph[he gave himself for it.]
 
 More particularly, we may note these three points:
 
@@ -176,7 +176,7 @@ This conceit of Christs meriting for himself, doth much extenuate the glory of C
 
 #v(0.8em)
 
-The general #emph[End] of Christs giving himself being before intimated in this phrase #emph[(for us)] is in this and the next verse particularly exemplified: and that in two branches.
+#smallcaps[The] general #emph[End] of Christs giving himself being before intimated in this phrase #emph[(for us)] is in this and the next verse particularly exemplified: and that in two branches.
 
 One respecteth the estate of the Church in this world, #emph[v.] 26.
 
