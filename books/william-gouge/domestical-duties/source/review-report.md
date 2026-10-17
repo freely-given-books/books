@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 648 |
-| emendation | 316 |
+| spelling | 1881 |
+| emendation | 318 |
 | case | 148 |
 | grammar | 147 |
 | list | 134 |
@@ -11,13 +11,12 @@
 | punctuation | 92 |
 | italic | 65 |
 | gap | 49 |
-| spacing | 47 |
-| merge | 28 |
+| spacing | 49 |
+| merge | 29 |
 | expansion | 25 |
 | split | 10 |
 | note | 7 |
 | epigraph | 2 |
-| skipped | 1 |
 
 ## split
 
@@ -31,10 +30,6 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
 - [vol-4/02-a-servants-reverence-for-his-master.typ] paragraph → 1 split(s) at 4
-
-## skipped
-
-- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] merge at 'This' → no paragraph before it
 
 ## gap
 
@@ -163,7 +158,7 @@
 - [vol-1/06-redeemed-for-glory.typ] Ahash - verosh → Ahasuerus
 - [vol-1/06-redeemed-for-glory.typ] wrinkl - → wrinkle
 - [vol-1/06-redeemed-for-glory.typ] Thereshall → There shall
-- [vol-1/06-redeemed-for-glory.typ] good - ness → goodness
+- [vol-1/06-redeemed-for-glory.typ] Christs good - ness → Christ’s goodness
 - [vol-1/07-marital-love-and-self-love.typ note] so → se
 - [vol-1/07-marital-love-and-self-love.typ] andraiment → and raiment
 - [vol-1/07-marital-love-and-self-love.typ] setforth → set forth
@@ -303,6 +298,8 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Sicaput → Si caput
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Christs → . Christ’s
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Christs → . Christ’s
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] The → , the
@@ -385,7 +382,7 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] semelest → semel est
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] in genuity → ingenuity
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] bean → be an
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] Ishas → Jesses
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] Ishas → Jesse’s
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] all eage → allege
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] solikewise → so likewise
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] be times → betimes
@@ -673,59 +670,105 @@
 
 ## spelling
 
+- Gods → God’s (×477)
+- Christs → Christ’s (×167)
+- mans → man’s (×145)
+- childrens → children’s (×124)
 - borne → born (×60)
+- Lords → Lord’s (×42)
 - paine → pain (×24)
+- mens → men’s (×23)
+- Abrahams → Abraham’s (×21)
+- womans → woman’s (×20)
+- Davids → David’s (×19)
+- Jacobs → Jacob’s (×18)
+- Solomons → Solomon’s (×17)
 - 3 → 3. (×14)
 - Iam → Jam (×12)
+- Childrens → Children’s (×11)
 - 2 → 2. (×9)
 - 4 → 4. (×9)
 - president → precedent (×9)
+- Jobs → Job’s (×8)
+- Sauls → Saul’s (×8)
 - Treat → Treat. (×8)
 - Job → Joh (×7)
 - 11 → 11. (×6)
+- Adams → Adam’s (×6)
+- Josephs → Joseph’s (×6)
+- Lots → Lot’s (×6)
 - marvell → marvel (×6)
+- Jonathans → Jonathan’s (×5)
+- Labans → Laban’s (×5)
+- Mans → Man’s (×5)
+- Sarahs → Sarah’s (×5)
+- Satans → Satan’s (×5)
 - steed → stead (×5)
 - thorow → through (×5)
 - 1 → 1. (×4)
+- Elis → Eli’s (×4)
 - Friers → Friars (×4)
 - Gen → Gen. (×4)
+- Herods → Herod’s (×4)
+- Isaacs → Isaac’s (×4)
+- Peters → Peter’s (×4)
+- Rebekahs → Rebekah’s (×4)
+- Shunammites → Shunammite’s (×4)
 - thorow → thorough (×4)
 - wines → wives (×4)
 - 12 → 12. (×3)
 - 13 → 13. (×3)
 - 19 → 19. (×3)
 - 24 → 24. (×3)
-- 6 → 6. (×3)
-- Absoloms → Absaloms (×3)
+- Abigails → Abigail’s (×3)
+- Absoloms → Absalom’s (×3)
 - Jehosaphat → Jehoshaphat (×3)
 - Joh → Joh. (×3)
+- Naamans → Naaman’s (×3)
+- Nabals → Nabal’s (×3)
+- Pauls → Paul’s (×3)
+- Pharaohs → Pharaoh’s (×3)
+- Ruths → Ruth’s (×3)
 - at → that (×3)
 - childes → childs (×3)
 - maist → mayest (×3)
 - wise → wife (×3)
+- womens → women’s (×3)
 - 10 → 10. (×2)
 - 14 → 14. (×2)
 - 20 → 20. (×2)
 - 21 → 21. (×2)
-- 5 → 5. (×2)
+- 6 → 6. (×2)
+- Aarons → Aaron’s (×2)
+- Abrams → Abram’s (×2)
 - Ahashuerosh → Ahasuerus (×2)
+- Cains → Cain’s (×2)
 - Cer → Cor (×2)
-- Christ → Christs (×2)
+- Chams → Cham’s (×2)
+- Christ → Christ’s (×2)
 - Cucco → Cuckoo (×2)
 - Elizabet → Elizabeth (×2)
 - Epb → Eph (×2)
+- Esaus → Esau’s (×2)
+- Esthers → Esther’s (×2)
 - Jove → love (×2)
 - Jsa → Isa (×2)
+- Levis → Levi’s (×2)
 - Luk → Luk. (×2)
+- Manoahs → Manoah’s (×2)
 - Mat → Mat. (×2)
 - Pet → Pet. (×2)
+- Pilates → Pilate’s (×2)
 - Psal → Psal. (×2)
+- Rachels → Rachel’s (×2)
 - Rebeca → Rebekah (×2)
 - Rom → Rom. (×2)
 - Sam → Sam. (×2)
 - Thes → Thes. (×2)
 - Tim → Tim. (×2)
 - Tit → Tit. (×2)
+- Vashtis → Vashti’s (×2)
+- Zipporahs → Zipporah’s (×2)
 - advise → advice (×2)
 - bear → bare (×2)
 - borne → -born (×2)
@@ -754,6 +797,7 @@
 - 43 → 43,
 - 47 → 47.
 - 48 → 48.
+- 5 → 5.
 - 50 → 50.
 - 53 → 53.
 - 67 → 67.
@@ -768,24 +812,31 @@
 - Ahoshuerosh → Ahasuerus
 - Ambassadour → Ambassador
 - Ammon → Amnon
-- Annahs → Hannahs
+- Annahs → Hannah’s
 - Ans → Answ
+- Arams → Aram’s
 - Baltbasare → Baltasare
 - Barthshebah → Bathsheba
 - Bathshebah → Bathsheba
 - Be → Bee
+- Belshazzars → Belshazzar’s
 - Cam → Ham
 - Can → Can.
+- Canaans → Canaan’s
 - Cant → Cant.
 - Chro → Chro.
 - Chrys → Chrys.
+- Chuzas → Chuza’s
 - Com → Com.
 - Coning → Coniug
 - Craelius → Cornelius
 - Dan → Dan.
+- Daniels → Daniel’s
 - Dent → Deut
 - Deul → Deut
 - Eccl → Eccl.
+- Edwards → Edward’s
+- Elishas → Elisha’s
 - Emphacicall → emphatical
 - Eor → Cor
 - Eph → Eph.
@@ -794,8 +845,11 @@
 - Exhòrtation → Exhortation
 - Ezechiel → Ezekiel
 - Gal → Gal.
+- Gileads → Gilead’s
 - Grudgingly → Rudely
+- Hagars → Hagar’s
 - Hanna → Hannah
+- Hezekiahs → Hezekiah’s
 - Hirom → Hiram
 - Hony → Honey
 - How → Now
@@ -803,20 +857,25 @@
 - Imag → Image
 - Indas → Judas
 - Iniquiffima → Iniquissima
-- Isaakes → Isaacs
+- Isaakes → Isaac’s
 - Isay → Isaiah
 - Jayler → Jailer
 - Jaylor → Jailer
 - Jbin → Ibin
+- Jerubbaals → Jerubbaal’s
+- Joabs → Joab’s
 - Jos → Jos.
-- Josuahs → Joshuas
+- Josuahs → Joshua’s
 - Justit → Instit
 - Levire → Levite
 - Manassch → Manasseh
 - Marvell → marvel
+- Mephibosheths → Mephibosheth’s
 - Micol → Michal
+- Naboths → Naboth’s
 - Nazaret → Nazareth
 - Nazarit → Nazarite
+- Noahs → Noah’s
 - Num → Num.
 - Orthers → Others
 - Ose → Ose.
@@ -826,9 +885,12 @@
 - Phinchas → Phinehas
 - Phineas → Phinehas
 - Picl → Piel
+- Potiphars → Potiphar’s
 - Pro → Pro.
 - Prov → Prov.
 - Qust → Quest
+- Rahabs → Rahab’s
+- Reguels → Reguel’s
 - Rudely → Grudgingly
 - San → Sam
 - Solemat → Solemn
@@ -847,8 +909,12 @@
 - Ves → Vers
 - Virginea → Virginia
 - Weigh → Weighty
+- Wisemans → Wiseman’s
+- Zachariahs → Zachariah’s
 - Zacharias → Zachary
 - Zachary → Zechariah
+- Zedekiahs → Zedekiah’s
+- Zibas → Ziba’s
 - a → an
 - a → at
 - about → above
@@ -968,14 +1034,14 @@
 - like → like.
 - likwise → likewise
 - mafested → manifested
-- mans' → mans
+- mans' → man’s
 - masters → master
 - matrimenio → matrimonio
 - me → some
 - me → time
 - means → means:
 - meeknese → meekness
-- men → mens
+- men → men’s
 - mif → mis
 - must → just
 - must → most
@@ -992,6 +1058,7 @@
 - paritic → parity
 - part → part.
 - particualar → particular
+- peoples → people’s
 - perfome → perform
 - perform → perform:
 - perserant → perferant

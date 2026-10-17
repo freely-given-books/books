@@ -63,7 +63,7 @@ The Apostle thus describeth masters for these reasons.
 
 2\. For #emph[prevention:] lest servants might say, our masters are flesh and blood as we are, why then should we be subject to them? To meet with that conceit, the Apostle expressly saith that obedience is due to #emph[masters after the flesh.]
 
-3\. For #emph[mitigation] of their servitude: for their masters being flesh, they have no power but over the bodies of their servants: their spirits are free from them: in which respect the Apostle calleth Christian servants #emph[the Lords freemen.] #footnote[1 #emph[Cor.] 7. 22.]
+3\. For #emph[mitigation] of their servitude: for their masters being flesh, they have no power but over the bodies of their servants: their spirits are free from them: in which respect the Apostle calleth Christian servants #emph[the Lord’s freemen.] #footnote[1 #emph[Cor.] 7. 22.]
 
 4\. For #emph[consolation] against their present condition, which is but for a time, because their masters are flesh: whatsoever is according to the flesh is of no long continuance, but hath his date.
 
@@ -125,7 +125,7 @@ And that is twofold
 
 From this vice thus discovered note, that
 
-#emph[God requireth more then that which may satisfy mans eye.] #footnote[11\. #emph[Obser.]] Gods eye is a piercing eye, and can see much foulness, where to mans eye all things seem very fair: so as they much deceive themselves who think all is well because no man can say to them, #emph[black is thine eye.]
+#emph[God requireth more then that which may satisfy man’s eye.] #footnote[11\. #emph[Obser.]] God’s eye is a piercing eye, and can see much foulness, where to man’s eye all things seem very fair: so as they much deceive themselves who think all is well because no man can say to them, #emph[black is thine eye.]
 
 Those that content themselves with doing #emph[eye-service] the #footnote[Men pleasers. ἀνθρωπάρεσκοι] Apostle here termeth #emph[men-pleasers:] which title he giveth unto them for two especial reasons.
 
@@ -137,27 +137,27 @@ Those that content themselves with doing #emph[eye-service] the #footnote[Men pl
 
 1\. #emph[Answ.] The advice there given is not simply to please, but to #footnote[εὐαρέστους εἶναι.] #emph[please well,] as the original word properly signifieth, and the Kings translators have fitly turned it.
 
-2\. #emph[Answ.] That general particle #emph[(all things)] must be restrained #footnote[How masters are to be pleased in all things.] to the duties of a servant, and to all the parts of obedience, which he there mentioneth in the words immediately going before. Servants therefore must please their masters in all things that their masters have power to require at their hands, and they are bound to do. Men-pleasing, here spoken of, is opposed to pleasing of God. Pleasing of men there mentioned is subordinate to our pleasing of God: here to please men is to sooth them up in every thing good or evil: there to please them is conscionably to obey them in every lawful thing. Here is condemned a seeking to please men in the first place, and that only, and wholly in every thing, whereas we ought first to seek Gods approbation, then the testimony of a good conscience, and after these a pleasing of men, but in, for, and under God. Hence then observe that
+2\. #emph[Answ.] That general particle #emph[(all things)] must be restrained #footnote[How masters are to be pleased in all things.] to the duties of a servant, and to all the parts of obedience, which he there mentioneth in the words immediately going before. Servants therefore must please their masters in all things that their masters have power to require at their hands, and they are bound to do. Men-pleasing, here spoken of, is opposed to pleasing of God. Pleasing of men there mentioned is subordinate to our pleasing of God: here to please men is to sooth them up in every thing good or evil: there to please them is conscionably to obey them in every lawful thing. Here is condemned a seeking to please men in the first place, and that only, and wholly in every thing, whereas we ought first to seek God’s approbation, then the testimony of a good conscience, and after these a pleasing of men, but in, for, and under God. Hence then observe that
 
 #emph[A servant must not wholly give himself to sooth and please] #footnote[12\. #emph[Obseru.]] #emph[his master:] for so may he in many things highly displease Almighty God.
 
-To avoid the two forenamed sins, #emph[eye-service,] and #emph[men-pleasing,] the Apostle giveth an excellent direction in these words, #emph[as the servants of Christ doing the will of God from the heart,] where we may observe #emph[servants of Christ] to be opposed to #emph[men-pleasers,] and #emph[doing Gods will from the heart] to #emph[eye-service.]
+To avoid the two forenamed sins, #emph[eye-service,] and #emph[men-pleasing,] the Apostle giveth an excellent direction in these words, #emph[as the servants of Christ doing the will of God from the heart,] where we may observe #emph[servants of Christ] to be opposed to #emph[men-pleasers,] and #emph[doing God’s will from the heart] to #emph[eye-service.]
 
-#emph[Servants of Christ,] are they who know that their masters are in #footnote[δοῦλοι τοῦ Χριστοῦ.] Christs place, bear his image, have their authority from him, and are under him: so as in serving their masters they serve #footnote[Who are servants of Christ.] Christ: and so far as they may serve both together, they will: but if they prove contrary masters, and thereupon one of necessity must be left, then they will cleave unto the highest master, which is Christ: and in this respect they are called #emph[the Lords freemen,] 1. #emph[Cor.] 7. 22. Thus we see how a servant may #footnote[#emph[Quo pacto servus non est servus? Cum prop ter Deum omnia facit. Chrys. in] 1 #emph[Cor.] 7. #emph[hom.] 19.] be no servant, if he do all things for the Lord.
+#emph[Servants of Christ,] are they who know that their masters are in #footnote[δοῦλοι τοῦ Χριστοῦ.] Christ’s place, bear his image, have their authority from him, and are under him: so as in serving their masters they serve #footnote[Who are servants of Christ.] Christ: and so far as they may serve both together, they will: but if they prove contrary masters, and thereupon one of necessity must be left, then they will cleave unto the highest master, which is Christ: and in this respect they are called #emph[the Lord’s freemen,] 1. #emph[Cor.] 7. 22. Thus we see how a servant may #footnote[#emph[Quo pacto servus non est servus? Cum prop ter Deum omnia facit. Chrys. in] 1 #emph[Cor.] 7. #emph[hom.] 19.] be no servant, if he do all things for the Lord.
 
 From this opposition betwixt #emph[men-pleasers] and #emph[servants of Christ,] note that
 
 #emph[They who in all things give themselves to please men are no servants of Christ.]
 
-That we may the better know who are servants of Christ, #footnote[13\. #emph[Obseru.]] the Apostle addeth a description of them in these words #emph[(doing the will of God from the heart.)] Christs will is Gods will: for as Christ is God, the fathers will and his is all one: as he is man he wholly ordereth his will by his fathers, #emph[he seeketh not] #footnote[#emph[Joh.] 5. 30.] #emph[his own will, but the will of the father that sent him.]
+That we may the better know who are servants of Christ, #footnote[13\. #emph[Obseru.]] the Apostle addeth a description of them in these words #emph[(doing the will of God from the heart.)] Christ’s will is God’s will: for as Christ is God, the fathers will and his is all one: as he is man he wholly ordereth his will by his fathers, #emph[he seeketh not] #footnote[#emph[Joh.] 5. 30.] #emph[his own will, but the will of the father that sent him.]
 
-This description of a servant of Christ the Apostle addeth partly as a direction to servants to teach them how in serving their masters, they may be servants of Christ, (namely, in having an eye to Gods word, whereby his will is revealed both for the matter and manner of all things which they do) and partly as a motive to persuade them to be content with their place, and cheerfully to do their duty, because so is the will of God.
+This description of a servant of Christ the Apostle addeth partly as a direction to servants to teach them how in serving their masters, they may be servants of Christ, (namely, in having an eye to God’s word, whereby his will is revealed both for the matter and manner of all things which they do) and partly as a motive to persuade them to be content with their place, and cheerfully to do their duty, because so is the will of God.
 
-#emph[Gods will is that which must direct and settle every one in the] #footnote[14\. #emph[Obseru.]] #emph[things which they do:] for Gods will is the rule of that which is right. Every thing is very right which he willeth: and nothing is right that swerveth from his will.
+#emph[God’s will is that which must direct and settle every one in the] #footnote[14\. #emph[Obseru.]] #emph[things which they do:] for God’s will is the rule of that which is right. Every thing is very right which he willeth: and nothing is right that swerveth from his will.
 
 To put a difference betwixt Christ and other masters, and to show that he looketh not (as man doth) upon the outward appearance, but beholdeth the heart, the Apostle annexeth this clause #emph[(from the heart.)] And it declareth that
 
-#emph[A good thing must be well done.] To do that which is Gods #footnote[15\. #emph[Obseru.]] will, commended by his word, is for substance a good thing: to do it from the heart, is the right manner of doing it: That which being good is done after a right manner, is #emph[well done.]
+#emph[A good thing must be well done.] To do that which is God’s #footnote[15\. #emph[Obseru.]] will, commended by his word, is for substance a good thing: to do it from the heart, is the right manner of doing it: That which being good is done after a right manner, is #emph[well done.]
 
 === §. 126. #emph[Of the meaning of the seventh verse.]
 
@@ -174,7 +174,7 @@ To put a difference betwixt Christ and other masters, and to show that he looket
 
 In this verse the Apostle doth yet again inculcate the forenamed point concerning servants manner of obeying their masters, and their care therein to approve themselves to their highest master: whence observe that
 
-#emph[Matters needful and weighty are again and again to be pressed.] #footnote[16\. #emph[Obseru.]] This is a needful point, because servants exceedingly fail therein: and a weighty point it is, because all the comfort and benefit of service consisteth in Gods approbation. But the former point is not here merely and barely repeated, but so set down as other good directions are afforded to servants #footnote[What it is to serve with good will.] for their manner of obedience.
+#emph[Matters needful and weighty are again and again to be pressed.] #footnote[16\. #emph[Obseru.]] This is a needful point, because servants exceedingly fail therein: and a weighty point it is, because all the comfort and benefit of service consisteth in God’s approbation. But the former point is not here merely and barely repeated, but so set down as other good directions are afforded to servants #footnote[What it is to serve with good will.] for their manner of obedience.
 
 1\. To serve #emph[with good will,] is somewhat more then #emph[with singleness of heart.] For it further implieth
 
@@ -194,7 +194,7 @@ The negative clause which followeth in these words #emph[(and not to men)] is no
 
 1\. That service be not done #emph[only] to men.
 
-2\. That service be not done to men #emph[in and for themselves.] Service must be done to God as well as men: yea #emph[In that service] #footnote[19\. #emph[Obseru.]] #emph[which we do to men, we must serve God.] Men must be served for the Lords sake, because the Lord hath commanded it, because they bear the Lords image, and stand in his stead: in the Lord, and under the Lord.
+2\. That service be not done to men #emph[in and for themselves.] Service must be done to God as well as men: yea #emph[In that service] #footnote[19\. #emph[Obseru.]] #emph[which we do to men, we must serve God.] Men must be served for the Lord’s sake, because the Lord hath commanded it, because they bear the Lord’s image, and stand in his stead: in the Lord, and under the Lord.
 
 From this large declaration of the #emph[manner] of doing service #footnote[Difference betwixt servants of men, and of Christ.] to masters note the difference betwixt such servants as are #emph[servants of men,] and such as are #emph[servants of Christ.]
 
@@ -216,11 +216,11 @@ From this large declaration of the #emph[manner] of doing service #footnote[Diff
 
 #v(0.8em)
 
-#smallcaps[Great] is the ingratitude of many masters: they will exact #footnote[Why servants are put in mind of Gods reward.] all the service that a poor servant possibly can do, but slenderly recompense his pains: yea, it may be, very evilly reward the same, not affording competent food, clothing, lodging, but frowns, checks, and blows. Now to uphold servants in such straits, and to encourage them to do their duty whether their masters regard it or no, the Apostle in this verse laboureth to raise up their minds to God: and to show unto them that he regardeth them, and will sufficiently reward them, so as
+#smallcaps[Great] is the ingratitude of many masters: they will exact #footnote[Why servants are put in mind of God’s reward.] all the service that a poor servant possibly can do, but slenderly recompense his pains: yea, it may be, very evilly reward the same, not affording competent food, clothing, lodging, but frowns, checks, and blows. Now to uphold servants in such straits, and to encourage them to do their duty whether their masters regard it or no, the Apostle in this verse laboureth to raise up their minds to God: and to show unto them that he regardeth them, and will sufficiently reward them, so as
 
 #emph[Servants labour shall not be in vain in the Lord.] To press #footnote[20\. #emph[Obser.]] this encouragement the more upon them, he setteth it down as a thing granted by all, so clear as none of them can be ignorant thereof #emph[(Knowing)] as if he had said, ye all well enough #footnote[εἰδότες.] know that what I now say is most true: hence note that
 
-#emph[Gods respect of faithful servants is so well known, as none that] #footnote[21\. #emph[Obser.]] #emph[have any understanding can be ignorant thereof.]
+#emph[God’s respect of faithful servants is so well known, as none that] #footnote[21\. #emph[Obser.]] #emph[have any understanding can be ignorant thereof.]
 
 The Apostles argument is drawn from the #emph[general to a particular,] #footnote[A genere ad speciem.] and the generality is noted in the #emph[thing done (whatsoever)] and in the #emph[person] that doth it #emph[(any man.)] But because the generality of the thing might be too far stretched, he addeth this limitation #emph[(good)] and because the generality of the person might be too much restrained, he addeth this explication #emph[(whether bond or free.)] This distinction is used because in those days many servants were bond-men and bondwomen. Now the Apostles argument may thus be framed: #emph[Every one of what estate and degree soever he be, shall be rewarded of God for every good thing he doth, be it great or small. Therefore every servant shall be rewarded of God for every good service.]
 
@@ -238,7 +238,7 @@ From this verse thus opened, I gather these particular observations, concerning 
 
 5\. #emph[The faithful service of servants is as good seed sown:] it #footnote[26\. #emph[Obser.]] will bring forth a good crop. The metaphor here intimated implieth as much.
 
-6\. #emph[God is honoured by the faithful service of servants:] this is #footnote[27\. #emph[Obser.]] intimated by the application of Gods reward to them, for God honoureth none but them which honour him.
+6\. #emph[God is honoured by the faithful service of servants:] this is #footnote[27\. #emph[Obser.]] intimated by the application of God’s reward to them, for God honoureth none but them which honour him.
 
 === §. 128. #emph[Of the connection of masters duties with servants.]
 
@@ -255,9 +255,9 @@ From this verse thus opened, I gather these particular observations, concerning 
 
 #smallcaps[To] the duties of servants the Apostle adjoineth the duties of masters, saying, AND #emph[ye masters:] whence learn that
 
-#emph[Masters are as well bound to duty as servants. A like doctrine was noted from the connection of parents duties with childrens: there you may see this general further amplified,] #footnote[1\. #emph[Obser.]] §. 115.
+#emph[Masters are as well bound to duty as servants. A like doctrine was noted from the connection of parents duties with children’s: there you may see this general further amplified,] #footnote[1\. #emph[Obser.]] §. 115.
 
-1\. Gods law requireth as much: for it expressly enjoineth many duties to masters (as in the eighth treatise following we shall see.)
+1\. God’s law requireth as much: for it expressly enjoineth many duties to masters (as in the eighth treatise following we shall see.)
 
 2\. So doth also the law of nature which hath tied master and servant together by a mutual and reciprocal bond, of doing good, as well as of receiving good.
 
@@ -277,7 +277,7 @@ All the duties of masters are comprised under this phrase, #emph[do the same thi
 
 2\. Those words may be referred to the eight verse, the verse going immediately before, which laieth down a general rule for all men in their several places to do the good things of their places. Now then as servants must have an eye to their places to do the good things thereof, so masters must do #emph[the same things:] that is, #emph[they] must have an eye to #emph[their] places, to do the good things thereof.
 
-3\. Those words may be taken without reference to any former words, and expounded of a mutual, reciprocal, and proportionable duty that ought to pass betwixt master and servant: not in the particulars, as if the same duties were to be performed by each of them, for that were to overthrow the order and degrees which God hath set betwixt master and servant, to cross Gods ordinance, and infer contradiction: but in general, that duties are to be performed of each to other: in which respect the Apostle said #footnote[§. 3.] before of all sorts, superiors, and inferiors, #emph[Submit your selves one to another.] And thus by this phrase the doctrine before mentioned is confirmed, that #emph[masters are as well bound to duty as servants.]
+3\. Those words may be taken without reference to any former words, and expounded of a mutual, reciprocal, and proportionable duty that ought to pass betwixt master and servant: not in the particulars, as if the same duties were to be performed by each of them, for that were to overthrow the order and degrees which God hath set betwixt master and servant, to cross God’s ordinance, and infer contradiction: but in general, that duties are to be performed of each to other: in which respect the Apostle said #footnote[§. 3.] before of all sorts, superiors, and inferiors, #emph[Submit your selves one to another.] And thus by this phrase the doctrine before mentioned is confirmed, that #emph[masters are as well bound to duty as servants.]
 
 None of these answers thwart another, but all of them may well be admitted, and all of them well stand together. They all imply a common equity betwixt masters and servants, but no equality: mutual duties, but divers and distinct duties, appertaining to their several places. Compare with this text, that which the Apostle himself hath more plainly and fully noted #emph[(Col.] 4. 1.) and we shall observe him to expound his own meaning, for that which here he implieth under this phrase #emph[(the same things)] that he expresseth there under these two words, #emph[just, equal:] whereof we shall #footnote[Treat. 8. §. 20, 44.] hereafter more distinctly speak.
 
@@ -315,7 +315,7 @@ These two little particles #emph[(even your,] or #emph[your also)] add some #foo
 
 #emph[Masters and servants are in the same subjection,] and under a #footnote[6\. #emph[Obseru. Matth.] 23. 8. #emph[&] 18. 28.] like command. There is one master, even Christ: and all men whosoever are #emph[brethren, fellow-servants.]
 
-=== §. 132. #emph[Of Gods being in heaven.]
+=== §. 132. #emph[Of God’s being in heaven.]
 
 That great master, under whom all masters on earth are, is here said to be #emph[in heaven,] the more to commend and set forth his dignity and authority: and to make masters to stand in the more awe of him: To like purpose #emph[David] having set forth God #footnote[#emph[Psal.] 2. 4, 10, 11.] sitting in #emph[the heavens,] inferreth this exhortation unto the great Commanders on earth, #emph[Be wise now therefore, ô ye Kings, be instructed, ye Judges of the earth: Serve the Lord with fear, and rejoice with trembling.]
 
@@ -341,9 +341,9 @@ From this place of God #emph[(in heaven)] we learn these lessons.
 
 4\. #emph[The command under which earthly masters are, is far] #footnote[10\. #emph[Obseru.]] #emph[greater then that which they have:] for their commander is in heaven.
 
-=== §. 133. #emph[Of Gods having no respect of persons.]
+=== §. 133. #emph[Of God’s having no respect of persons.]
 
-The Apostle further addeth of God the great master of all, that #emph[with him there is no respect of persons.] The Hebrew word used to set forth this point signifieth #footnote[פנים] #emph[a face:] so doth also the Greek word here translated #footnote[πρόσωπον.] #emph[person:] it signifieth both #emph[face] and #emph[person.] Now we know that the face of a man is outward, and that which of all other parts maketh him most amiable in anothers eye. It is opposed to that which is inward, even the heart: in which respect it is said that #emph[the Lord seeth not as] #footnote[1 #emph[Sam.] 16. 7.] #emph[man seeth, for man looketh on the outward appearance, but the Lord looketh on the heart.] Here by a #emph[Synecdoche, face] or #emph[person] is put for every outward quality, state, or condition which maketh one to be preferred before another in mans approbation, as beauty, comeliness, stature, wealth, honour, authority, and the like. Now in that God #emph[receiveth] not, or #emph[respecteth] not persons, it showeth that God preferreth not any one before another for any the forenamed outward respects, or any other like to them. #emph[Elihu] plainly expoundeth this phrase in these words, #emph[he accepteth not the person of princes, nor regardeth the] #footnote[#emph[Job.] 34. 19.] #emph[rich more then the poor.] The phrase is taken from them that sit in thrones of judgment, where their eyes should be blinded, that they may not see the face or person of those that are brought before them: but only hear the cause.
+The Apostle further addeth of God the great master of all, that #emph[with him there is no respect of persons.] The Hebrew word used to set forth this point signifieth #footnote[פנים] #emph[a face:] so doth also the Greek word here translated #footnote[πρόσωπον.] #emph[person:] it signifieth both #emph[face] and #emph[person.] Now we know that the face of a man is outward, and that which of all other parts maketh him most amiable in anothers eye. It is opposed to that which is inward, even the heart: in which respect it is said that #emph[the Lord seeth not as] #footnote[1 #emph[Sam.] 16. 7.] #emph[man seeth, for man looketh on the outward appearance, but the Lord looketh on the heart.] Here by a #emph[Synecdoche, face] or #emph[person] is put for every outward quality, state, or condition which maketh one to be preferred before another in man’s approbation, as beauty, comeliness, stature, wealth, honour, authority, and the like. Now in that God #emph[receiveth] not, or #emph[respecteth] not persons, it showeth that God preferreth not any one before another for any the forenamed outward respects, or any other like to them. #emph[Elihu] plainly expoundeth this phrase in these words, #emph[he accepteth not the person of princes, nor regardeth the] #footnote[#emph[Job.] 34. 19.] #emph[rich more then the poor.] The phrase is taken from them that sit in thrones of judgment, where their eyes should be blinded, that they may not see the face or person of those that are brought before them: but only hear the cause.
 
 This properly is here noted of God, to meet with a vain conceit of many masters, who though they know that God is their master as well as their servants master, yet think that God will not call them so straitly to account, but will suffer and tolerate them, because they are of a higher rank, and in a better condition then servants: But by this phrase the Apostle showeth that
 
@@ -355,6 +355,6 @@ Many good lessons may be learned from hence: as among other, these,
 
 2\. The great ones on earth, have as great cause to fear the revenging hand of God for any sin, as mean ones.
 
-3\. It becometh magistrates and all in authority to carry themselves impartially towards all that are under them: for they are in #emph[Gods room.] Respect of persons is the cause of all that injustice and wrong which magistrates do.
+3\. It becometh magistrates and all in authority to carry themselves impartially towards all that are under them: for they are in #emph[God’s room.] Respect of persons is the cause of all that injustice and wrong which magistrates do.
 
-4\. It becometh ministers to be faithful #emph[in all Gods house,] and with an #emph[even hand] to sow the seed of Gods word, and to keep themselves pure from the blood of #emph[all men:] for they are Gods stewards and ambassadors; and therefore they must have no respect of persons.
+4\. It becometh ministers to be faithful #emph[in all God’s house,] and with an #emph[even hand] to sow the seed of God’s word, and to keep themselves pure from the blood of #emph[all men:] for they are God’s stewards and ambassadors; and therefore they must have no respect of persons.

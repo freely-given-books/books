@@ -1,6 +1,6 @@
 == Children Showing Respect for Parents
 
-=== §. 1. #emph[Of the general Heads of Childrens duties.]
+=== §. 1. #emph[Of the general Heads of Children’s duties.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -37,14 +37,14 @@ Under this word #emph[(obey)] which the Apostle useth, and that word #emph[(hono
 
 We will therefore set them down in some order, and handle them distinctly one after another.
 
-+ The #emph[Fountain] of childrens duties is to be searched out.
++ The #emph[Fountain] of children’s duties is to be searched out.
 + The #emph[Streams] that flow from thence are to be observed.
 
 The #emph[Fountain] is an inward disposition of the heart compounded of #emph[love] and #emph[fear.]
 
 The #emph[Streams] issuing from thence extend unto parents, both while they are #emph[living,] and also when they are #emph[dead.]
 
-Childrens duties which are to be performed to their parents while they live, have respect to their
+Children’s duties which are to be performed to their parents while they live, have respect to their
 
 - #emph[Authority.]
 - #emph[Necessity.]
@@ -65,13 +65,13 @@ Their #emph[Body] with decency must be #emph[buried.]
 
 Their #emph[Credit] with honour must be #emph[maintained.]
 
-=== §. 2. #emph[Of Childrens love to their Parents.]
+=== §. 2. #emph[Of Children’s love to their Parents.]
 
-I make the fountain of childrens duties to be a mixed and compound disposition, in respect of that #emph[authority and affection] which is mixed together in parents. The #emph[authority] of parents requireth #emph[fear] in children: and their #emph[affection, love.] So entire and so ardent is parents #emph[affection] towards their children, as it would make children too bold and insolent if there were not #emph[authority] mixed therewith to work #emph[fear:] and so supreme and absolute is their #emph[authority] over them, as it would make children like slaves to dread their parents, if a fatherly #emph[affection] were not tempered therewith to breed #emph[love.] But both these joined together make a very good composition: #emph[love] like sugar sweetneth #emph[fear,] and #emph[fear] like salt seasoneth #emph[love:] and thus, to join them both together, it is a #emph[loving-fear,] or a #emph[fearing-love,] which is the ground of childrens duties.
+I make the fountain of children’s duties to be a mixed and compound disposition, in respect of that #emph[authority and affection] which is mixed together in parents. The #emph[authority] of parents requireth #emph[fear] in children: and their #emph[affection, love.] So entire and so ardent is parents #emph[affection] towards their children, as it would make children too bold and insolent if there were not #emph[authority] mixed therewith to work #emph[fear:] and so supreme and absolute is their #emph[authority] over them, as it would make children like slaves to dread their parents, if a fatherly #emph[affection] were not tempered therewith to breed #emph[love.] But both these joined together make a very good composition: #emph[love] like sugar sweetneth #emph[fear,] and #emph[fear] like salt seasoneth #emph[love:] and thus, to join them both together, it is a #emph[loving-fear,] or a #emph[fearing-love,] which is the ground of children’s duties.
 
-Where Christ forbiddeth an excessive love in children to #footnote[#emph[Mat.] 10. 37.] their parents, he implieth that parents are a fit object for children to love (so as their love be well moderated:) yea he implieth that it is an affection even by nature ingraffed in children to love their parents. #emph[Joseph] is commended unto children as a worthy pattern in loving his father, and that from his youth till the decease of his father: in testimony whereof in his younger years he brought to his father the #emph[evil report of his] #footnote[#emph[Gen.] 37. 2.] #emph[brethren,] whereby he incurred their envy and hatred, which he would never have done, if he had not loved his father: and having been long absent from his father, when by Gods providence there was offered an occasion for him to meet with his brethren, one of his first questions to them was about their father: #footnote[#emph[Gen.] 43. 7.] and hearing that he was living, he thought it not enough to send him food for his need, but must also needs see his face, #footnote[#emph[Gen.] 45. 9.] and have him dwell with him: and while his father was in the way he went out to meet him, and at first sight fell on his neck, #footnote[#emph[Gen.] 46. 29.] and wept a good while (a token of great affection.)
+Where Christ forbiddeth an excessive love in children to #footnote[#emph[Mat.] 10. 37.] their parents, he implieth that parents are a fit object for children to love (so as their love be well moderated:) yea he implieth that it is an affection even by nature ingraffed in children to love their parents. #emph[Joseph] is commended unto children as a worthy pattern in loving his father, and that from his youth till the decease of his father: in testimony whereof in his younger years he brought to his father the #emph[evil report of his] #footnote[#emph[Gen.] 37. 2.] #emph[brethren,] whereby he incurred their envy and hatred, which he would never have done, if he had not loved his father: and having been long absent from his father, when by God’s providence there was offered an occasion for him to meet with his brethren, one of his first questions to them was about their father: #footnote[#emph[Gen.] 43. 7.] and hearing that he was living, he thought it not enough to send him food for his need, but must also needs see his face, #footnote[#emph[Gen.] 45. 9.] and have him dwell with him: and while his father was in the way he went out to meet him, and at first sight fell on his neck, #footnote[#emph[Gen.] 46. 29.] and wept a good while (a token of great affection.)
 
-That love which naturally parents bear to their children, #footnote[Reasons. 1. Equity.] ought in equity to breed in children a love to their parents. For love deserveth love: and most unworthy are they to be loved, who cannot love again. The love of parents above all others is to be answered with love on childrens part to the uttermost of their power, because it is free, great, and constant.
+That love which naturally parents bear to their children, #footnote[Reasons. 1. Equity.] ought in equity to breed in children a love to their parents. For love deserveth love: and most unworthy are they to be loved, who cannot love again. The love of parents above all others is to be answered with love on children’s part to the uttermost of their power, because it is free, great, and constant.
 
 Besides, there is a necessity of love in children to their parents, #footnote[2\. Necessity.] lest for want thereof, their subjection (which of all others ought to be most free) should turn into slavish servitude.
 
@@ -101,7 +101,7 @@ And it is a cause of a childes reverend and dutiful carriage #footnote[2\. It we
 
 Contrary hereunto is that #emph[light,] or (which is more abominable) #footnote[Contrary, light and base esteem of parents.] that #emph[base] and #emph[vile] esteem of parents, which is in the heart of many children: especially if parents be poor, of low degree, unlearned, ignorant, or subject to any infirmities. It cannot be but that #footnote[#emph[Gen.] 9. 22.] #emph[Cham] had too light, if not a base esteem of his father, when he derided him. A true filial fear would have restrained him from that extreme.
 
-Wherefore to breed and cherish this fear, and to prevent, #footnote[How to breed and cherish a filial fear.] or redress the contrary extreme, let children well inform themselves of their parents place and authority, how they are in Gods stead, and a means under God of their childrens being: children have received their very substance from the substance of their parents. In which respect though they should seem contemptible to others, yet not to their children.
+Wherefore to breed and cherish this fear, and to prevent, #footnote[How to breed and cherish a filial fear.] or redress the contrary extreme, let children well inform themselves of their parents place and authority, how they are in God’s stead, and a means under God of their children’s being: children have received their very substance from the substance of their parents. In which respect though they should seem contemptible to others, yet not to their children.
 
 Thus much of a childes inward disposition towards his parent. The manifestation thereof must be by his outward carriage: and that in two things; #emph[reverence,] and #emph[obedience:] both which respect a parents authority.
 
@@ -122,7 +122,7 @@ Silence in #emph[forbearing] to speak, and #emph[breaking] of speech. #footnote[
 
 Patience in hearkening to their parents.
 
-The two branches of silence, in #emph[forbearing] to speak (especially when parents are speaking, or till parents give leave to their children to speak,) and in breaking off speech, when parents come into the place where children are speaking, are tokens of great reverence. Thus children testify that there are some in place whom they much respect and honour. #emph[Job] doth thus set forth the respect which Princes and others did bear to him in his prosperity, #emph[The Princes] (saith he) #emph[refrained] #footnote[#emph[Job.] 29. 9, 10.] #emph[talking, and laid their hand upon their mouth, the Nobles held their peace, etc.] Namely, while he was in presence, or while he spake. The like may be said of childrens patience in induring #footnote[Children must patiently hearken to their parents speech. #emph[Vers.] 21.] their parents speech; which #emph[Job] also noteth in these words, #emph[Unto me men gave ear, and waited, and kept silence.] Though parents in their speech seem to be long and tedious, yet must children indure it.
+The two branches of silence, in #emph[forbearing] to speak (especially when parents are speaking, or till parents give leave to their children to speak,) and in breaking off speech, when parents come into the place where children are speaking, are tokens of great reverence. Thus children testify that there are some in place whom they much respect and honour. #emph[Job] doth thus set forth the respect which Princes and others did bear to him in his prosperity, #emph[The Princes] (saith he) #emph[refrained] #footnote[#emph[Job.] 29. 9, 10.] #emph[talking, and laid their hand upon their mouth, the Nobles held their peace, etc.] Namely, while he was in presence, or while he spake. The like may be said of children’s patience in induring #footnote[Children must patiently hearken to their parents speech. #emph[Vers.] 21.] their parents speech; which #emph[Job] also noteth in these words, #emph[Unto me men gave ear, and waited, and kept silence.] Though parents in their speech seem to be long and tedious, yet must children indure it.
 
 And it is very needful that patience be added to silence, because many parents in tender love of their children, and earnest desire of their good, think they can never speak enough in instructing and admonishing them. The many exhortations #footnote[#emph[Gen.] 49. 2. #emph[Pro.] 1. 8, #emph[&] 4. 1. #emph[&] 7. 1.] given in Scripture unto children to #emph[hear, hearken, give ear, give heed, mark, and observe] the words of their parents, do imply the forenamed #emph[silence] and #emph[patience:] for they who #footnote[#emph[Jam.] 1. 19.] ought to be #emph[swift to hear] must be #emph[slow to speak.] I deny not but much more is intended under those phrases, namely, #emph[obedience:] yet must #emph[these] also be presupposed: for he that will not in silence patiently hearken to his parents while they speak, will much less obey what they say.
 
@@ -140,7 +140,7 @@ A childes reverence in well framing his speech to his parents #footnote[A childs
 
 #emph[Answ.] This is not simply to be taken of the title it self, but of the mind of him that giveth or affecteth that title.
 
-If it be affected or given to obscure Gods #emph[Fatherhood,] or to make a man #emph[a father] of himself without dependance on God, or reference to him, who is properly the father of all, it is an impious and sacrilegious title. But otherwise lawful and warrantable.
+If it be affected or given to obscure God’s #emph[Fatherhood,] or to make a man #emph[a father] of himself without dependance on God, or reference to him, who is properly the father of all, it is an impious and sacrilegious title. But otherwise lawful and warrantable.
 
 In Scripture the title #emph[father] is given to all degrees of dignities among men, as to #footnote[1 #emph[Sam.] 24. 12.] #emph[Kings,] #footnote[2 #emph[Kin.] 5. 13.] #emph[Captains,] and other #emph[chief Governors,] to #footnote[#emph[Judg.] 18. 19.] #emph[Priests,] #footnote[2 #emph[King.] 6. 21.] #emph[Prophets,] #footnote[1 #emph[Cor.] 4. 15.] #emph[Apostles,] and other #footnote[1 #emph[Tim.] 5. 1.] #emph[Ministers.] In the fifth commandment all superiors are comprised under it, therefore #emph[father] is a title of great honour: and by the rule of relation #emph[mother] is a title of as great honour to the female sex. Religious and dutiful children have ever used to give those titles to their parents. #emph[My father,] saith #footnote[#emph[Gen.] 22. 7.] #emph[Isaac] to #emph[Abraham,] and #footnote[#emph[&] 27. 18.] #emph[Jacob] to #emph[Isaac.] #footnote[1 #emph[King.] 2. 20.] #emph[My mother,] saith #emph[Solomon] to #emph[Bathsheba.] I find also the title of #footnote[#emph[Matt.] 21. 30.] #emph[Sir] or #emph[Lord,] used: a title #footnote[κύριε. #emph[Gen.] 31. 35. אדני] of honour.
 
@@ -148,7 +148,7 @@ In Scripture the title #emph[father] is given to all degrees of dignities among 
 
 3\. By meek and humble speeches. Such was the speech of #footnote[3\. By humble speech.] #footnote[1 #emph[Sam.] 19. 4.] #emph[Jonathan] the natural son of #emph[Saul,] and of #footnote[#emph[&] 24. 10.] #emph[David] his son in law, wherewith he was much contented, and his wrath pacified.
 
-4\. By observing a fit opportunity: as when parents are not #footnote[4\. By seasonable speech.] seriously busied, or in company, or in passion. When #footnote[1 #emph[Sam.] 19. 6.] #emph[Saul] was out of passion, how well did he accept #emph[Jonathans] Apology for #emph[David?] but #footnote[#emph[&] 20. 30.] in his passion, how ill did he take it? This wise observing of fit opportunity showeth great reverence.
+4\. By observing a fit opportunity: as when parents are not #footnote[4\. By seasonable speech.] seriously busied, or in company, or in passion. When #footnote[1 #emph[Sam.] 19. 6.] #emph[Saul] was out of passion, how well did he accept #emph[Jonathan’s] Apology for #emph[David?] but #footnote[#emph[&] 20. 30.] in his passion, how ill did he take it? This wise observing of fit opportunity showeth great reverence.
 
 5\. By a present, ready, willing, pleasing answer, when by #footnote[5\. By ready answers.] their parents they shall be spoken unto. #emph[Eli] was as a father to #emph[Samuel:] therefore when #footnote[1 #emph[Sam.] 3. 4, 6.] #emph[Samuel] thought that #emph[Eli] called him, he presently and readily answered, #emph[Here am I:] and when #emph[Eli] was instant to know what the Lord had said to him, #footnote[18.] #emph[Samuel told him every whit, and held nothing from him.] #footnote[#emph[Mat.] 21. 30.] The younger son (noted in the parable) showed a son-like reverence in giving a willing and ready answer to his father, though he failed in his obedience, by not performing what he promised.
 
@@ -168,13 +168,13 @@ If children had that regard to the honour of their parents which they should, th
 
 5\. #emph[Stubbornness,] when children pout, lour, swell, and give #footnote[5\. Stomachful silence.] no answer at all to their parents. This is too common a fault in children, and many parents are much offended and grieved thereat. We heard #footnote[§. 4.] before of a childelike silence which was very commendable, and a token of great reverence; but this is worthy of much blame, a token of great undutifulness; and carefully to be avoided, as that to be practised.
 
-=== §. 7. #emph[Of childrens reverend speeches of their parents.]
+=== §. 7. #emph[Of children’s reverend speeches of their parents.]
 
 So true and entire ought that reverend respect to be which children bear to their parents, as their speech not only #emph[to them] before their faces, but also #emph[of them] behind their backs, must be so framed both for matter and manner, when they have any occasion to fall into speech of their parents, as all that hear them may note them to bear a reverend respect to their parents. #footnote[Direction for children how to speak of their parents.]
 
 As a general direction for the better performing of this duty, let children speak nothing of their parents that they would be loath should come to their parents ear. More particularly, let them speak of those things which most tend to their commendation, that so (as Christ said of his father #footnote[#emph[John] 8. 49.]) they may honour their parents. Let other things be buried in silence so much as in them lieth. And if others speak of matters disgraceful to their parents, let them interpret in the better sense things doubtful, and, so far as they may, extenuate things evident, and sharply reprove them that slander their parents. This is that #emph[blessing] which children owe to their parents, for neglecting whereof the wiseman taxeth children saying, #emph[There is a generation that doth not bless their] #footnote[#emph[Prov.] 30. 11.] #emph[mother.]
 
-Contrary to that kind of blessing is discovering of parents #footnote[Childrens unreverend speeches of their parents.] infirmities, noted in cursed #footnote[#emph[Gen.] 9. 22.] #emph[Cham,] and broaching untruths of them, noted in impious #footnote[2 #emph[Sam.] 15. 3.] #emph[Absalom,] and mocking and cursing them #footnote[#emph[Prov.] 30. 11.] expressly condemned. The reward whereof is by #footnote[#emph[Lev.] 20. 9.] Gods law death: yea a shameful and ignominious death, for the #footnote[#emph[Pro.] 30. 17.] #emph[Ravens of the valley shall pluck out his eyes, and the young Eagles shall eat it:] #footnote[#emph[Gen.] 40. 19.] which phrase setteth forth the end of a notorious malefactor that is hanged.
+Contrary to that kind of blessing is discovering of parents #footnote[Children’s unreverend speeches of their parents.] infirmities, noted in cursed #footnote[#emph[Gen.] 9. 22.] #emph[Cham,] and broaching untruths of them, noted in impious #footnote[2 #emph[Sam.] 15. 3.] #emph[Absalom,] and mocking and cursing them #footnote[#emph[Prov.] 30. 11.] expressly condemned. The reward whereof is by #footnote[#emph[Lev.] 20. 9.] God’s law death: yea a shameful and ignominious death, for the #footnote[#emph[Pro.] 30. 17.] #emph[Ravens of the valley shall pluck out his eyes, and the young Eagles shall eat it:] #footnote[#emph[Gen.] 40. 19.] which phrase setteth forth the end of a notorious malefactor that is hanged.
 
 === §. 8. #emph[Of a childs reverend carriage to his parent.]
 
@@ -183,9 +183,9 @@ As the speech, so the carriage of children towards their parents must be seasone
 + #emph[This] is a fruit, and proof of filial fear as well as #emph[that.]
 + Of the two, this is the surer evidence: for actions are better signs of the disposition of the heart then words.
 + Fair words joined with contrary deeds, cannot but be accounted merely complemental and hypocritical.
-+ Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that mans condemnation the greater. #footnote[Childrens reverence to their parents manifested, 1. by meeting them.]
++ Where there is a contrariety betwixt words and deeds, the one will be a witness against the other, and that man’s condemnation the greater. #footnote[Children’s reverence to their parents manifested, 1. by meeting them.]
 
-Wherefore let all reverence be manifested in childrens behaviour to their parents, and that in these and such like instances.
+Wherefore let all reverence be manifested in children’s behaviour to their parents, and that in these and such like instances.
 
 1\. If a parent be coming to a child, and the child observe it, let him haste to meet his parent: so did #footnote[#emph[Gen.] 46. 29.] #emph[Joseph] to his father, and #footnote[1 #emph[King.] 2. 19.] #emph[Solomon] to his mother. Which two examples are the rather to be noted, because both were in eminent place: one a great governor, the other a king.
 
@@ -201,7 +201,7 @@ Wherefore let all reverence be manifested in childrens behaviour to their parent
 
 5\. According to the custom of the time and place wherein #footnote[5\. By asking blessing.] they live, let children ask their parents blessing.
 
-=== §. 9. #emph[Of childrens asking their parents blessing, whether it be lawful or no.]
+=== §. 9. #emph[Of children’s asking their parents blessing, whether it be lawful or no.]
 
 Some doubt is made of this duty both in regard of the thing it self, and also of the gesture of kneeling used in the performance thereof: I will therefore distinctly prove both.
 
@@ -211,21 +211,21 @@ For the thing, it is noted of #emph[Jacob] that he carried savory meat to his fa
 
 1\. #emph[Answ.] Their blessings were more then predictions of things to come: they were confirmations and assurances to the #footnote[See Treat. 6. §. 58.] children that God would indeed perform that blessing which their parents had pronounced. For they sustained a double person: the person of a Prophet, and of a father; as prophets they foretold things to come: as fathers they obtained the blessings pronounced, and an assurance thereof to their children, #footnote[#emph[Heb.] 11. 20.] and that by faith and prayer.
 
-2\. #emph[Answ.] Though all parents cannot with such an extraordinary spirit assure unto their children any distinct particular blessing, yet the faithful prayer of parents is an especial, and ordinary means to obtain a blessing from God upon their children: and that because of Gods promise which extends #footnote[#emph[Gen.] 17. 7. #emph[Act.] 2. 39.] it self not only to faithful parents, but also to their seed. Wherefore as the children of the patriarchs came to their fathers to be assured of some extraordinary blessing, so may other children go to their parents as a means to obtain an ordinary blessing. It is noted of #emph[Elijah] that by an extraordinary spirit in prayer he obtained extraordinary matters: Yet #footnote[#emph[Jam.] 5. 17.] the Apostle setteth forth that example to all Christians as a motive to stir them up in faith to pray for ordinary blessings. But for further clearing of this point, note the phrase #footnote[למען יארכון ימיך] used in the fifth commandment as a reason to move children to honour their parents: this it is word for word, #emph[That they may prolong thy days, etc.] how can parents prolong their childrens days, but by begging that blessing of God? #footnote[See Treat. 6. §. 4. #emph[Prov.] 15. 8. How wicked parents may bless their children.] The prayers then of parents are a great blessing to children, and children ought to seek this blessing of their parents.
+2\. #emph[Answ.] Though all parents cannot with such an extraordinary spirit assure unto their children any distinct particular blessing, yet the faithful prayer of parents is an especial, and ordinary means to obtain a blessing from God upon their children: and that because of God’s promise which extends #footnote[#emph[Gen.] 17. 7. #emph[Act.] 2. 39.] it self not only to faithful parents, but also to their seed. Wherefore as the children of the patriarchs came to their fathers to be assured of some extraordinary blessing, so may other children go to their parents as a means to obtain an ordinary blessing. It is noted of #emph[Elijah] that by an extraordinary spirit in prayer he obtained extraordinary matters: Yet #footnote[#emph[Jam.] 5. 17.] the Apostle setteth forth that example to all Christians as a motive to stir them up in faith to pray for ordinary blessings. But for further clearing of this point, note the phrase #footnote[למען יארכון ימיך] used in the fifth commandment as a reason to move children to honour their parents: this it is word for word, #emph[That they may prolong thy days, etc.] how can parents prolong their children’s days, but by begging that blessing of God? #footnote[See Treat. 6. §. 4. #emph[Prov.] 15. 8. How wicked parents may bless their children.] The prayers then of parents are a great blessing to children, and children ought to seek this blessing of their parents.
 
 #emph[Object.] If parents be wicked, their prayer is abomination: what blessing then can children look for from wicked parents?
 
 #emph[Answ.] Though God hear not wicked parents in love and goodness to themselves, yet for the good of their children he may and will hear them: and that the rather to maintain a reverend respect of parents in the heart of their children. For asking a blessing is an acknowledgment of superiority and authority, according to that of the Apostle, #emph[The less is blessed] #footnote[#emph[Heb.] 7. 7.] #emph[of the greater.]
 
-Concerning the gesture of kneeling, it is answerable to the #footnote[It is lawful for children to kneel to their parents. #emph[Gen.] 48. 12.] gesture which of old was used by Gods people in like case: of #emph[Joseph] it is said that #emph[he bowed down himself with his face to the earth.]
+Concerning the gesture of kneeling, it is answerable to the #footnote[It is lawful for children to kneel to their parents. #emph[Gen.] 48. 12.] gesture which of old was used by God’s people in like case: of #emph[Joseph] it is said that #emph[he bowed down himself with his face to the earth.]
 
-#emph[Object.] Kneeling is a gesture proper to Gods worship.
+#emph[Object.] Kneeling is a gesture proper to God’s worship.
 
 #emph[Answ.] It is not so proper, but that it may be used in civil cases: else Christ would have reproved the young man for #emph[kneeling] before him as well as for calling him #emph[good:] for he conceived #footnote[#emph[Mar.] 10. 17.] Christ to be but a mere man, and the worship he did him was but civil.
 
 It is not simply the gesture, but the occasion of the gesture, the mind of him that performeth it, and the end why he performeth it that maketh it divine, or civil. #emph[Cornelius] fell down before #emph[Peter] with conceit of some divine excellency in him, and was not allowed: his manner of worshiping was divine. The jailor fell down before #emph[Paul] and #emph[Silas] in acknowledgment of some outward eminency in them, and was not reproved: his manner of worshipping was merely civil. The same gesture may be performed to different persons with a different respect. A child may kneel to his parent, and to the king. Yet it followeth not that he maketh his parent a king. Neither will it follow that by kneeling to his parent he maketh him a God, because men kneel to God.
 
-=== §. 10. #emph[Of the vices contrary to childrens reverend gesture towards their parents.]
+=== §. 10. #emph[Of the vices contrary to children’s reverend gesture towards their parents.]
 
 Contrary to the forenamed branches of reverend gesture, are, #footnote[Unreverend gestures of children.]
 
@@ -237,8 +237,8 @@ Contrary to the forenamed branches of reverend gesture, are, #footnote[Unreveren
 
 4\. #emph[Ambition,] when children are so ambitiously desirous of place, #footnote[4\. Ambition.] especially in company, as rather then be under some whom they suppose to be at least their equals, they will be above their parents. This oft falleth out, when parents being of a lowly mind, give place to such as their children, being of a lofty mind, think meaner then themselves. Now rather then they will be under their inferiors (as they suppose) they will be above their parents. A point of great insolency. Such ought to be the respect of a child to his parent, as he should debase himself below those that are his inferiors, rather then exalt himself above his parent. As with other men, for peace sake, in many cases, a man must depart from his right; so especially with his parent, in case of superiority. Would not every one that knows what honour a child owes to a father, condemn that childs ambition, that should so stand upon the place and hand, as to take them of his parent?
 
-5\. An #emph[over-nice] and erroneous #emph[opinion] of those, who think it #footnote[5\. Refusing to ask blessing.] unmeet for any child to ask their parents blessing. Their own conceit more swayeth them, then the continual approved practise of Gods people in all ages: not unlike him whom #emph[Solomon] saith to be #emph[wiser in his own conceit, then seven men that can render] #footnote[#emph[Pro.] 26. 16.] #emph[a reason.] Others, though they do not so generally disallow this duty, yet they think it meet only for young children: not considering of what years, stature, and state, #emph[Joseph] was, when he performed it.
+5\. An #emph[over-nice] and erroneous #emph[opinion] of those, who think it #footnote[5\. Refusing to ask blessing.] unmeet for any child to ask their parents blessing. Their own conceit more swayeth them, then the continual approved practise of God’s people in all ages: not unlike him whom #emph[Solomon] saith to be #emph[wiser in his own conceit, then seven men that can render] #footnote[#emph[Pro.] 26. 16.] #emph[a reason.] Others, though they do not so generally disallow this duty, yet they think it meet only for young children: not considering of what years, stature, and state, #emph[Joseph] was, when he performed it.
 
 As for those, who think it not unlawful, yet carelessly neglect it, they little consider the benefit of a parents blessing. Profane #emph[Esau] shall another day rise up in judgment against them. He #footnote[#emph[Gen.] 27. 34. #emph[Heb.] 12. 17.] begged and begged again and again, and that with a loud cry and salt tears, a blessing of his father.
 
-Thus much of childrens reverence. Their obedience followeth.
+Thus much of children’s reverence. Their obedience followeth.
