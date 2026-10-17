@@ -93,6 +93,7 @@ checked against the text.
 ### Spellings and forms across the book
 
 27. **Possessives:** names from the shared spelling table get an apostrophe (Adam's, David's, Abraham's, Jacob's, Solomon's: 74 places), while the book writes "Aarons, Sauls, Josephs", sometimes side by side ("The issue of Adam's, Aarons, Sauls"). **Recommend:** drop the apostrophe from the table names in this book, to match the book.
+    - **Reversed 2026-10-17** (user: "Christ should be possessive", vol 1 §75; "clear ones only"): apostrophes added to names and the clear common words (Christ's, God's, man's, men's, woman's, women's, children's, people's, Lord's, Satan's; Levi's for 17): 1,250 in all. Left as printed: husbands/wives/parents/servants/masters possessives, the plural "Gods" (Psal. 82. 6.), "Lords" as a plural, "Saviours", "Popes", Latin "mens".
 28. **humane (20) / human (1):** "humane nature", "humane laws". **Recommend: "human"** where it means human.
 29. **in deed (6) / indeed (43):** three in vol 1, 03 mean "indeed". **Recommend:** join those three.
 30. **"then" for "than":** "more then" appears 97 times against "more than" 6. **Recommend:** keep "then" (the book's form) and change the 6 to match.
@@ -271,3 +272,4 @@ scan index = 2 x TCP image - 3 or - 2), and a second 1622 copy
   - The epigraph and the §56 branches checked in the PDF text; no stray markup.
   - The EPUB (all four volumes) passes epubcheck with 0 errors and 0 warnings.
 - [x] All four volumes rebuilt and checked (2026-10-06): Lulu margins OK, epubcheck 0 errors / 0 warnings per volume; 57 footnote-on-another-page warnings (was 47: the restored Greek lengthens some notes), the accepted Typst limitation.
+- [x] 2026-10-17, before sign-off (vol 1 checked again): section openings in small capitals as 1622 prints them (colophon 0.19.0); possessive apostrophes (27, reversed); `sweep.py` vol 1 hits all period forms or Latin ("L. L." = Leges, "parallel'd" as printed); `refs.py` vol 1 "missing" hits are not Bible references (Aug. *eccl. l. 1*; "that is, I [John 4. 34]"); PDF text has no stray markup or wrongly curled quotes; `./fgb check --all` OK; build 235/352/232/181 pp., Lulu margins OK, covers remade, epubcheck clean; vol 1 has 6 footnote-on-another-page warnings (accepted 2026-10-11).
