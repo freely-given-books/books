@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.10.17
+# Freely Given Books: release 2026.10.17.2
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -17,7 +17,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.19.2.
+Built with colophon 0.20.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
@@ -27,6 +27,7 @@ Built with colophon 0.19.2.
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v8.1 (between Lulu revisions) | 2026-10-17 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v13.1 (between Lulu revisions) | 2026-10-17 |
 | [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v6.1 (between Lulu revisions) | 2026-10-17 |
+| [Of Domestical Duties](#of-domestical-duties) | William Gouge | v1 | 2026-10-17 |
 
 ## The Anatomy of Simon Magus
 
@@ -160,3 +161,27 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - changed in wording (emendations): 4,660 words (4.5%); 2,431 words added, 2,074 removed
 - gaps in the transcription: 72, 61 restored, 11 left open
 - notes: 0 added by the editor, 403 printed notes left out
+
+## Of Domestical Duties
+
+Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied.
+
+- folder: `books/william-gouge/domestical-duties`
+- version v1: tag `william-gouge/domestical-duties/v1`, signed off 2026-10-17 by Courtney Hicks
+- template: fgbooks 0.12.0
+- source: EEBO-TCP A68107: Of Domesticall Duties, Eight Treatises (London, John Haviland for William Bladen, 1622) <https://github.com/textcreationpartnership/A68107>, `source/A68107.tcp.xml` (sha256 `d7404af2ca63812e…`)
+- source: Pages 191-196 of the 1622 edition, missing from the copy the TCP transcribed, transcribed from a second 1622 copy (archive.org, n220-n225) <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622>, `source/A68107.supplied.xml` (sha256 `a5620c2d6f858778…`)
+- witness: The 1622 page images of the copy the TCP was made from (archive.org), for the Greek and Hebrew, illegible letters and the proofread: source/proofread-report.md <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622>
+- witness: The second edition (1626, in The Workes of William Gouge), consulted for single readings <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1626>
+- witness: The third edition (1634), consulted for single readings and the errata <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1634>
+- witness: The earlier Freely Given Books edition (made with the converter before the TEI): source/migration-differences.md
+- files: `domestical-duties-v1-vol-1.pdf`, `domestical-duties-v1-vol-2.pdf`, `domestical-duties-v1-vol-3.pdf`, `domestical-duties-v1-vol-4.pdf`, `domestical-duties-v1-cover-vol-1.pdf`, `domestical-duties-v1-cover-vol-2.pdf`, `domestical-duties-v1-cover-vol-3.pdf`, `domestical-duties-v1-cover-vol-4.pdf`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-vol-1.epub`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-vol-2.epub`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-vol-3.epub`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-vol-4.epub`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 290,439 printed words; 74.5% as printed
+- changed in form only (spelling, case, punctuation): 72,878 words (25.1%)
+- grammar modernized (hath -> has, thou -> you): 155 words (0.1%)
+- changed in wording (emendations): 1,019 words (0.4%); 383 words added, 728 removed
+- gaps in the transcription: 717, 717 restored, 0 left open
+- notes: 5 added by the editor, 2 printed notes left out
