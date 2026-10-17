@@ -87,7 +87,7 @@ Among those aberrations may be reckoned a custom in this land more usual then la
 
 === §. 16. #emph[Of parents consent to the marriage of their children.]
 
-II. That children ought to have their parents consent unto their marriage is without all question evident. For
+#smallcaps[II]. That children ought to have their parents consent unto their marriage is without all question evident. For
 
 1\. God himself hath given us herein a pattern: He first brought the woman to the man #emph[(Gen.] 2. 22.) whereby he would show that he who gave a being to the woman, had a right to dispose her in marriage: which right parents now have: for from them under God, children receive their being. In this case parents stand in Gods room, and are as it were Gods hand to join their children in marriage.
 
@@ -205,7 +205,7 @@ All such children as seek after the forenamed, or any other like means to defrau
 
 === §. 25. #emph[Of childrens contentedness to be apparelled after their parents mind and liking.]
 
-IIII. A fourth branch of the foresaid subjection of children is about their apparel, that it be no other, then may stand with their parents good liking. It is noted that #emph[Israel] #footnote[#emph[Gen.] 37. 3.] #emph[made Joseph a coat,] doth not the particular mentioning of that circumstance show, that parents must have the ordering of their childrens apparel? Which is also intimated in the reason given of #emph[Tamars garment of divers colours,] namely because #footnote[2 #emph[Sam.] 13. 18.] #emph[with such garments were the kings daughters, that were virgins, apparelled.] And whereas #emph[Rebekah] had the keeping of her #footnote[#emph[Gen.] 27. 15.] son #emph[Esaus] clothes, it appeareth that his clothes were to the mind of his parents: else he would have hid them from them: for further confirmation whereof it is noted that his apparel was pleasing to his father.
+#smallcaps[IIII]. A fourth branch of the foresaid subjection of children is about their apparel, that it be no other, then may stand with their parents good liking. It is noted that #emph[Israel] #footnote[#emph[Gen.] 37. 3.] #emph[made Joseph a coat,] doth not the particular mentioning of that circumstance show, that parents must have the ordering of their childrens apparel? Which is also intimated in the reason given of #emph[Tamars garment of divers colours,] namely because #footnote[2 #emph[Sam.] 13. 18.] #emph[with such garments were the kings daughters, that were virgins, apparelled.] And whereas #emph[Rebekah] had the keeping of her #footnote[#emph[Gen.] 27. 15.] son #emph[Esaus] clothes, it appeareth that his clothes were to the mind of his parents: else he would have hid them from them: for further confirmation whereof it is noted that his apparel was pleasing to his father.
 
 Contrary is the vain-glorious humour of many children, #footnote[Childrens sin in apparelling themselves to the grief, and disgrace of their parents.] who to the grief and discredit of their parents, apparel themselves both against the mind, and also above the ability, and unbeseeming the place and calling of their parents. Among others, many ministers children bring much discredit on their parents hereby. Let all such proud Youths note how the Lord hath threatened to #emph[visit] even #emph[Kings children that are clothed] #footnote[#emph[Zeph.] 1. 8.] #emph[with strange apparel.]
 

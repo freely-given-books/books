@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The second couple in a family are parents and children.
+#smallcaps[The] second couple in a family are parents and children.
 
 In laying down their duties, the Apostle beginneth with children: his direction, and instigation unto them is laid down in the three first verses of the sixth chapter: wherein
 

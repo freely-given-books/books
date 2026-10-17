@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-This confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that the Lord hateth not his Church.
+#smallcaps[This] confirmation of the pattern of a mans self by a like pattern of the Lord, hath relation to both the parts of the manifestation of a mans love to himself: both to the negative, and so it showeth, that the Lord hateth not his Church.
 
 And to the affirmative, and so it showeth, that the Lord nourisheth and cherisheth his Church.
 
@@ -54,7 +54,7 @@ Learn we also to depend on Christ for all things that we #footnote[2\. #emph[Use
 
 #v(0.8em)
 
-The reason of the forenamed love of Christ, and fruits #footnote[Inference.] thereof to his Church, is here laid down, as both the causal particle (FOR) and the #emph[inference] of this verse upon the former do show. This reason is that near union which is betwixt Christ and his Church, set forth by a metaphor of the members of our body. Whereby he implieth, that though there were no other reason to move an husband to love his wife then the near union which is betwixt them (they being #footnote[#emph[Vers.] 23.] one body, #footnote[#emph[Vers.] 31.] one flesh, #footnote[#emph[Vers.] 28.] one self) that were enough, for thereby only is Christ moved to love his Church.
+#smallcaps[The] reason of the forenamed love of Christ, and fruits #footnote[Inference.] thereof to his Church, is here laid down, as both the causal particle (FOR) and the #emph[inference] of this verse upon the former do show. This reason is that near union which is betwixt Christ and his Church, set forth by a metaphor of the members of our body. Whereby he implieth, that though there were no other reason to move an husband to love his wife then the near union which is betwixt them (they being #footnote[#emph[Vers.] 23.] one body, #footnote[#emph[Vers.] 31.] one flesh, #footnote[#emph[Vers.] 28.] one self) that were enough, for thereby only is Christ moved to love his Church.
 
 The mystery of our spiritual union with Christ is here laid down, and that as fully, and distinctly (though very succinctly) #footnote[Sum,] as in any place of Scripture. I will endeavour to open it as plainly as I can.
 

@@ -125,6 +125,10 @@ EXPAND_ETC = True
 # "AS there are" under a decorated initial is set "As there are".
 ITALIC_SENTENCE_QUIRK = "after-stop"
 DROP_CAP_CASE = True
+# ...and in small capitals, as each division's first word is printed in
+# capitals (after a drop cap at a chapter, plain at a section: "THE first").
+OPENING_SMALLCAPS = True
+SMALLCAPS = "smallcaps"
 
 # Lists the review numbers ("+" items) keep Typst's 1. 2. 3., not I. II.
 TYPST_ENUM = None

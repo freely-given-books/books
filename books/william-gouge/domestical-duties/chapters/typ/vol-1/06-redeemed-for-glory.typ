@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The most principal end, in regard of the Churches good, which Christ aimed at when he gave himself for her, is her glorious estate in heaven: this is the end of the forenamed end. For why did Christ give himself for the Church? #emph[That he might sanctify it, having cleansed it:] why did he cleanse, and sanctify it? #emph[That he might present it to himself a glorious Church.] Hence note these three points.
+#smallcaps[The] most principal end, in regard of the Churches good, which Christ aimed at when he gave himself for her, is her glorious estate in heaven: this is the end of the forenamed end. For why did Christ give himself for the Church? #emph[That he might sanctify it, having cleansed it:] why did he cleanse, and sanctify it? #emph[That he might present it to himself a glorious Church.] Hence note these three points.
 
 + #emph[Justification and sanctification must go before glorification.]
 + #emph[The end why the Saints are cleansed and sanctified in this world, is that they may be presented glorious to Christ in the world to come.]
@@ -54,7 +54,7 @@ For our parts as we desire to appear before Christ so as he #footnote[Use.] may 
 
 #v(0.8em)
 
-Having noted the inference of this verse upon the former: I will now handle it distinctly by it self. In it is contained a description of the glorious estate of the Church in heaven. Of that estate must this description be here meant, #footnote[#emph[Ubicunque commemoraui ecclesiam non habentem maculam aut rugam, non sic accipiendum, quasi iam sit, sed quae praeparatur vt sit, quando apparebit gloriosa. Aug. Retract. l.] 3. #emph[c.] 18.] for on earth it is not simply without spot or wrinkle: though it be prepared so to be.
+#smallcaps[Having] noted the inference of this verse upon the former: I will now handle it distinctly by it self. In it is contained a description of the glorious estate of the Church in heaven. Of that estate must this description be here meant, #footnote[#emph[Ubicunque commemoraui ecclesiam non habentem maculam aut rugam, non sic accipiendum, quasi iam sit, sed quae praeparatur vt sit, quando apparebit gloriosa. Aug. Retract. l.] 3. #emph[c.] 18.] for on earth it is not simply without spot or wrinkle: though it be prepared so to be.
 
 This estate is
 

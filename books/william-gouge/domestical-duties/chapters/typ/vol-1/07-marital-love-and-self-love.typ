@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-The first clause of this verse serveth both for an #emph[application] of the former argument, and also for a #emph[transition] to another argument.
+#smallcaps[The] first clause of this verse serveth both for an #emph[application] of the former argument, and also for a #emph[transition] to another argument.
 
 The particle of relation (So) showeth that that which hath before been delivered of Christs love to his Church, ought to be referred and applied to husbands. For as Christ loved his Church, #emph[So] ought husbands to love their wives.
 
@@ -46,7 +46,7 @@ Of these points I shall hereafter more fully speak.
 
 #v(0.8em)
 
-The forenamed particle (So) hath also relation to another pattern, namely, of a mans self to his body: and so it is a transition from one argument to another.
+#smallcaps[The] forenamed particle (So) hath also relation to another pattern, namely, of a mans self to his body: and so it is a transition from one argument to another.
 
 There is some more Emphasis here used in setting down an husbands duty, then was before, vers. 25.
 
@@ -89,7 +89,7 @@ By this clause two things are implied.
 
 #v(0.8em)
 
-The former pattern of a mans self is here further amplified. For first the Apostle proveth, that a man loveth himself: and then he showeth how he loveth himself.
+#smallcaps[The] former pattern of a mans self is here further amplified. For first the Apostle proveth, that a man loveth himself: and then he showeth how he loveth himself.
 
 Two arguments are used to prove the point.
 
@@ -130,7 +130,7 @@ That he may yet further press this point, he returneth again to the example of C
 
 #v(0.8em)
 
-Having briefly showed the general scope of the 28 and 29 verses, I will proceed to a more distinct handling of them.
+#smallcaps[Having] briefly showed the general scope of the 28 and 29 verses, I will proceed to a more distinct handling of them.
 
 They set forth #emph[The natural affection of a man to himself.] #footnote[Sum 28. & 29.]
 
@@ -205,7 +205,7 @@ Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth
 
 #v(0.8em)
 
-The first particle #emph[(for)] showeth that in this verse an evidence and manifestation of a mans love of himself is given. The first part thereof, which is set down negatively, showeth that
+#smallcaps[The] first particle #emph[(for)] showeth that in this verse an evidence and manifestation of a mans love of himself is given. The first part thereof, which is set down negatively, showeth that
 
 #emph[It is against the common instinct of nature for a man to hate] #footnote[Doctr.] #emph[himself.] It is noted as an evidence that devils were in the Gadarene, in that #emph[he cut himself with stones:] had not the devils #footnote[#emph[Mar.] 5. 5.] forced him, he would never have done it.
 

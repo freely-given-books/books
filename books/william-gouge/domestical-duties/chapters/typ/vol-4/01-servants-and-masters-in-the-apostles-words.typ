@@ -33,7 +33,7 @@ Here by the way, note three points.
 
 #v(0.8em)
 
-This title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all such as by any outward civil bond, or right, #footnote[#emph[Origo vocabuli seruorun in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabaxtur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Uide apud Viu. ibid.]] owe their service to another: of what sex soever the persons themselves be: or of what kind soever their servitude is: whether more servile or liberal.
+#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all such as by any outward civil bond, or right, #footnote[#emph[Origo vocabuli seruorun in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabaxtur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Uide apud Viu. ibid.]] owe their service to another: of what sex soever the persons themselves be: or of what kind soever their servitude is: whether more servile or liberal.
 
 #emph[Servile,] as being born servants, or sold for servants, or taken in war, or ransomed; For of old they were called servants, who being taken in war, were saved from death.
 
@@ -108,7 +108,7 @@ This phrase #emph[(as unto Christ)] implieth as much as that #emph[(in the Lord)
 
 #v(0.8em)
 
-This and the verse following are added as a further explication of the last clause of the former verse. It should seem that servants, howsoever they might in some measure perform the main duty of obedience, yet failed exceedingly in the manner of performing it. Because masters were but men, #emph[masters according to the flesh,] who neither had power over the heart, nor could discern the disposition thereof, servants thought they had well done their duty, if they had outwardly performed what their master required: now to root out this bitter weed, and to reform this corrupt conceit, the Apostle is more large in clearing the point of sincere and upright service: therefore, the more fully to express his mind and meaning, first he layeth down the vice contrary to the foresaid sincerity (for contraries laid together do much set forth one #footnote[Opposita iuxta se posita magis elucescunt.] another) and then returneth more distinctly to declare the virtue. Whence note
+#smallcaps[This] and the verse following are added as a further explication of the last clause of the former verse. It should seem that servants, howsoever they might in some measure perform the main duty of obedience, yet failed exceedingly in the manner of performing it. Because masters were but men, #emph[masters according to the flesh,] who neither had power over the heart, nor could discern the disposition thereof, servants thought they had well done their duty, if they had outwardly performed what their master required: now to root out this bitter weed, and to reform this corrupt conceit, the Apostle is more large in clearing the point of sincere and upright service: therefore, the more fully to express his mind and meaning, first he layeth down the vice contrary to the foresaid sincerity (for contraries laid together do much set forth one #footnote[Opposita iuxta se posita magis elucescunt.] another) and then returneth more distinctly to declare the virtue. Whence note
 
 #emph[Those points are most to be urged upon people, wherein they] #footnote[11\. #emph[Obser.]] #emph[most fail.]
 
@@ -216,7 +216,7 @@ From this large declaration of the #emph[manner] of doing service #footnote[Diff
 
 #v(0.8em)
 
-Great is the ingratitude of many masters: they will exact #footnote[Why servants are put in mind of Gods reward.] all the service that a poor servant possibly can do, but slenderly recompense his pains: yea, it may be, very evilly reward the same, not affording competent food, clothing, lodging, but frowns, checks, and blows. Now to uphold servants in such straits, and to encourage them to do their duty whether their masters regard it or no, the Apostle in this verse laboureth to raise up their minds to God: and to show unto them that he regardeth them, and will sufficiently reward them, so as
+#smallcaps[Great] is the ingratitude of many masters: they will exact #footnote[Why servants are put in mind of Gods reward.] all the service that a poor servant possibly can do, but slenderly recompense his pains: yea, it may be, very evilly reward the same, not affording competent food, clothing, lodging, but frowns, checks, and blows. Now to uphold servants in such straits, and to encourage them to do their duty whether their masters regard it or no, the Apostle in this verse laboureth to raise up their minds to God: and to show unto them that he regardeth them, and will sufficiently reward them, so as
 
 #emph[Servants labour shall not be in vain in the Lord.] To press #footnote[20\. #emph[Obser.]] this encouragement the more upon them, he setteth it down as a thing granted by all, so clear as none of them can be ignorant thereof #emph[(Knowing)] as if he had said, ye all well enough #footnote[εἰδότες.] know that what I now say is most true: hence note that
 
@@ -253,7 +253,7 @@ From this verse thus opened, I gather these particular observations, concerning 
 
 #v(0.8em)
 
-To the duties of servants the Apostle adjoineth the duties of masters, saying, AND #emph[ye masters:] whence learn that
+#smallcaps[To] the duties of servants the Apostle adjoineth the duties of masters, saying, AND #emph[ye masters:] whence learn that
 
 #emph[Masters are as well bound to duty as servants. A like doctrine was noted from the connection of parents duties with childrens: there you may see this general further amplified,] #footnote[1\. #emph[Obser.]] §. 115.
 

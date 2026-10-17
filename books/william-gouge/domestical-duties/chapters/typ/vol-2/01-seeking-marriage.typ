@@ -2,7 +2,7 @@
 
 === §. 1. #emph[Of those who may seek to be married.]
 
-Having in the former treatise laid down the foundation of all domestical duties, by expounding the words of the Apostle, I purpose now distinctly to lay them forth in order: beginning with the first and chiefest couple in the family, #emph[man] and #emph[wife.]
+#smallcaps[Having] in the former treatise laid down the foundation of all domestical duties, by expounding the words of the Apostle, I purpose now distinctly to lay them forth in order: beginning with the first and chiefest couple in the family, #emph[man] and #emph[wife.]
 
 Here we are first to speak of the #emph[persons] who are to be accounted true and lawful #emph[husband] and #emph[wife:] and then of the #emph[duties] which they owe each to other.
 

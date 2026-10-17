@@ -2,7 +2,7 @@
 
 === §. 1. #emph[Of the heads of those common-mutual duties.]
 
-In the first part of this Treatise concerning #emph[man] and #emph[wife,] hath been declared, who are so to be accounted: in this second part their #emph[common-mutual duties] are to be laid forth. These are either #footnote[De necessitate ad esse.] #emph[absolutely necessary] for the #emph[being] and #emph[abiding] of marriage: or #footnote[De honestate ad benè esse.] needful and requisite for the #emph[well being] and #emph[well abiding] of it, that is, for the good estate of marriage, and for a commendable, and comfortable living together.
+#smallcaps[In] the first part of this Treatise concerning #emph[man] and #emph[wife,] hath been declared, who are so to be accounted: in this second part their #emph[common-mutual duties] are to be laid forth. These are either #footnote[De necessitate ad esse.] #emph[absolutely necessary] for the #emph[being] and #emph[abiding] of marriage: or #footnote[De honestate ad benè esse.] needful and requisite for the #emph[well being] and #emph[well abiding] of it, that is, for the good estate of marriage, and for a commendable, and comfortable living together.
 
 There are two kinds of the former
 
