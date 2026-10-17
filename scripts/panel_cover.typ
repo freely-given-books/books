@@ -19,6 +19,11 @@
 //     epigraph-source: [Joshua 24:15],
 //   )
 //
+// A set can letter its fronts after its printed title page instead
+// (front-style: "set", spine-style: "set"; Gouge's four volumes): a framed
+// panel, the whole work's contents with this volume's entries picked out, and
+// the volume number in a roundel on the front and, at one height, the spine.
+//
 // A cover has no running text, so panel-cover() is called rather than shown.
 //
 // The ebook cover is the front panel alone, at the trim size: compile with
@@ -95,7 +100,8 @@
     rule:     rgb("#6E4250"),
     subtitle: rgb("#2A2A2A"),
   ),
-  // William Gouge, Of Domestical Duties.  The hearth brick that was cut as
+  // William Gouge, Of Domestical Duties, until its set covers took olive
+  // (2026-10-17); kept for any book that wants it.  The hearth brick cut as
   // the alternative panel for Perkins and not used: a household book earns
   // it, and it is the one warm red on a shelf whose other panels are a green,
   // a blue and a mauve.  The ground is a paler, greyer cream than Perkins's
@@ -162,7 +168,28 @@
     rule:     rgb("#5C4F7A"),
     subtitle: rgb("#2A2A2A"),
   ),
+  // William Gouge, Of Domestical Duties (four volumes, front-style "set").
+  // Olive, for the household psalm: "thy children like olive plants round
+  // about thy table" (Psalm 128:3).  The third dark book, a green where Keach's
+  // is navy and Calvin's oxblood, with the same cream type and gold rules.
+  olive: (
+    ground:   rgb("#1F2416"),
+    panel:    rgb("#4A5230"),
+    ink:      rgb("#F1EAD2"),
+    rule:     rgb("#C9A24E"),
+    subtitle: rgb("#DCD4BE"),
+  ),
 )
+
+// Spaced capitals, for lettering a set's front after its printed title page.
+#let lettered(body, size, tracking: 0.18em) = text(size: size, tracking: tracking, upper(body))
+
+// A volume number in a ruled roundel (the set front and spine).
+#let roundel(n, pal, size: 0.82in, type-size: 18.5pt) = box(
+  width: size, height: size, radius: 50%, stroke: 1.1pt + pal.rule,
+  align(center + horizon, box(width: size - 0.12in, height: size - 0.12in,
+    radius: 50%, stroke: 0.4pt + pal.rule,
+    align(center + horizon, text(size: type-size, fill: pal.ink, tracking: 0.04em, n)))))
 
 #let spine-width(pages, paper: "cream-60") = pages * CALIPER.at(paper) * 1in
 
@@ -220,6 +247,26 @@
   // for a printer whose template says otherwise.
   spine: none,
   font: ("Libertinus Serif", "Liberation Serif"),
+  // How the front is set.  "panel" is the title, subtitle and author on the
+  // panel, as every single book is.  "set" letters the panel after a set's
+  // printed title page (Gouge, after 1622): a double-ruled frame, the title as
+  // `title-display` (lettered() lines), a line under it (`kicker`), the whole
+  // work's contents with this volume's entries picked out, the volume number
+  // in a roundel, the author and an imprint line.  The spine follows it
+  // (spine-style "set": spaced caps, the number in a roundel low on every
+  // volume, so a shelved set lines up).
+  front-style: "panel",
+  title-display: none,
+  kicker: none,
+  // (label, entry) pairs, and the indexes of this volume's entries
+  contents: (),
+  current: (),
+  contents-height: 1.95in,
+  // the bare number for the roundel ("II"); `volume` is the label
+  volume-number: none,
+  imprint: none,
+  // the author as the spine gives it ("Gouge"); default the full name
+  spine-author: none,
   // Only the front cover, trimmed (no bleed, spine or back): the ebook cover.
   front-only: sys.inputs.at("front-only", default: "false") == "true",
 ) = {
@@ -266,6 +313,59 @@
          height: trim-height - 2 * PANEL_INSET,
          fill: pal.panel))
 
+  if front-style == "set" {
+    let dim = pal.ink.transparentize(48%)
+    // the frame sits inside the panel; type keeps SAFETY from the trim
+    place(top + left, dx: front-x + PANEL_INSET + 0.16in, dy: BLEED + PANEL_INSET + 0.16in,
+      box(width: trim-width - 2 * PANEL_INSET - 0.32in,
+          height: trim-height - 2 * PANEL_INSET - 0.32in,
+          stroke: 1.6pt + pal.rule, inset: 3.5pt,
+        box(width: 100%, height: 100%, stroke: 0.5pt + pal.rule)))
+    place(top + left, dx: front-x + SAFETY + 0.08in, dy: BLEED + SAFETY + 0.26in,
+      box(width: trim-width - 2 * SAFETY - 0.16in,
+          height: trim-height - 2 * SAFETY - 0.5in)[
+        #set align(center)
+        #set text(fill: pal.ink)
+        #if title-display != none { title-display } else { text(size: title-size, title) }
+        #if kicker != none {
+          v(0.02in)
+          text(size: 15pt, style: "italic", kicker)
+        }
+        #v(0.1in)
+        #line(length: 100%, stroke: 0.5pt + pal.rule)
+        #if contents.len() > 0 {
+          v(0.06in)
+          set text(size: 9pt)
+          set par(leading: 0.42em, justify: false)
+          // a fixed height, so the roundel stands at the same place on every
+          // volume whichever entries (set bolder, so wider) wrap
+          box(height: contents-height, align(horizon, grid(columns: (2.4em, 1fr), column-gutter: 0.6em, row-gutter: 0.6em,
+            align: (right + top, left + top),
+            ..contents.enumerate().map(((i, entry)) => {
+              let on = i in current
+              let style = (fill: if on { pal.ink } else { dim },
+                           weight: if on { "semibold" } else { "regular" })
+              (text(..style, entry.at(0)), text(..style, style: "italic", entry.at(1)))
+            }).flatten())))
+          v(0.04in)
+          line(length: 100%, stroke: 0.5pt + pal.rule)
+        }
+        #v(1fr)
+        #if volume-number != none { roundel(volume-number, pal) }
+        #if volume != none {
+          v(0.05in)
+          lettered(volume, 9pt, tracking: 0.3em)
+        }
+        #v(1fr)
+        #line(length: 100%, stroke: 0.5pt + pal.rule)
+        #v(0.08in)
+        #lettered(author, 12pt, tracking: 0.22em)
+        #if imprint != none {
+          v(0.02in)
+          text(size: 8.5pt, style: "italic", imprint)
+        }
+      ])
+  } else {
   place(top + left, dx: front-x + SAFETY, dy: BLEED + SAFETY,
     box(width: trim-width - 2 * SAFETY, height: trim-height - 2 * SAFETY)[
       #set align(center)
@@ -290,11 +390,40 @@
       #text(size: 12pt, tracking: 0.15em, upper(author))
       #v(0.3in)
     ])
+  }
 
   // --- Spine ---------------------------------------------------------------
   // Rotated to read top to bottom, as a book laid face up on a table reads.
   let ruled = spine-style == "ruled"
 
+  if spine-style == "set" {
+    // bands at head and foot and the volume's roundel above the foot band, at
+    // the same heights on every volume of the set; the lettering below the head
+    place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
+      set align(center)
+      set text(fill: pal.ink)
+      let band = spine - 0.12in
+      for (edge, sign) in ((top, 1.0), (bottom, -1.0)) {
+        place(edge + center, dy: sign * 0.45in, rect(width: band, height: 1.4pt, fill: pal.rule))
+        place(edge + center, dy: sign * 0.52in, rect(width: band, height: 0.5pt, fill: pal.rule))
+      }
+      if volume-number != none {
+        let d = calc.min(0.36in, spine - 0.1in)
+        place(bottom + center, dy: -0.75in,
+          box(width: d, height: d, radius: 50%, stroke: 0.8pt + pal.rule,
+            align(center + horizon, text(size: 10pt * (d / 0.36in), volume-number))))
+      }
+      place(top + center, dy: 0.75in,
+        rotate(90deg, reflow: true, box(height: spine, width: trim-height - 2.6in,
+          align(left + horizon)[
+            #show linebreak: [ ]
+            #lettered(title, spine-title-size - 0.5pt, tracking: 0.2em)
+            #h(0.9em) #text(size: 7pt, fill: pal.rule)[#sym.diamond.filled] #h(0.9em)
+            #lettered(if spine-author != none { spine-author } else { author },
+                      spine-title-size - 2pt, tracking: 0.14em)
+          ])))
+    }))
+  } else {
   place(top + left, dx: spine-x, dy: BLEED,
     box(width: spine, height: trim-height)[
       #set align(center + horizon)
@@ -342,6 +471,7 @@
         }
       ])
     ])
+  }
 
   // --- Back cover ----------------------------------------------------------
   place(top + left, dx: back-x + SAFETY, dy: BLEED + SAFETY,

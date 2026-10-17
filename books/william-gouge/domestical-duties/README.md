@@ -21,6 +21,13 @@ perfect-bind as a single block; each volume has its own EPUB.
 
 The volumes are the imprint's 5.5×8.5 trim, at 10.5pt.
 
+**The covers are lettered as a set**, after the 1622 title page: a framed
+olive panel (Psalm 128:3, "thy children like olive plants round about thy
+table") with gold rules, "Of Domestical Duties" in spaced capitals, and all
+eight treatises listed on every volume, that volume's picked out; the volume
+number stands in a roundel on the front and at one height on each spine
+(`front-style: "set"` in `scripts/panel_cover.typ`).
+
 ## Volumes and chapters
 
 The volumes follow Gouge's own eight treatises. Volume IV takes Treatises VII

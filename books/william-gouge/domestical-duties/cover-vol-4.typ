@@ -16,9 +16,33 @@
   pages: 179,
   trim-width: 5.5in,
   trim-height: 8.5in,
-  palette: "hearth",
-  spine-style: "plain",
-  title-size: 26pt,
+  palette: "olive",
+  // the set's front and spine, lettered after the 1622 title page: the whole
+  // work's eight treatises, this volume's picked out
+  front-style: "set",
+  spine-style: "set",
+  title-display: [
+    #lettered([Of], 13pt, tracking: 0.5em)
+    #v(-0.06in)
+    #lettered([Domestical], 31pt, tracking: 0.03em)
+    #v(-0.12in)
+    #lettered([Duties], 19pt, tracking: 0.42em)
+  ],
+  kicker: [Eight Treatises],
+  contents: (
+    ([I.], [An Exposition of That Part of Scripture out of Which Domestical Duties Are Raised]),
+    ([II.], [Of a Right Conjunction of Man and Wife, and Their Common-Mutual Duties]),
+    ([III.], [Particular Duties of Wives]),
+    ([IV.], [Particular Duties of Husbands]),
+    ([V.], [Duties of Children]),
+    ([VI.], [Duties of Parents]),
+    ([VII.], [Duties of Servants]),
+    ([VIII.], [Duties of Masters]),
+  ),
+  current: (6, 7),
+  volume-number: [IV],
+  imprint: [London, 1622],
+  spine-author: [Gouge],
   back-lead: [The last of the eight treatises, with the exposition of Ephesians 6:5-9 they are raised out of: what a servant owes his master in reverence, obedience and faithfulness, and what a master owes his servants in authority, provision, employment and wages — under the Master they both have in heaven.],
   epigraph: ["Submitting your selves one to another in the fear of God."],
   epigraph-source: [— Ephesians 5:21],
