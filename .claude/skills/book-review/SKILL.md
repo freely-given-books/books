@@ -126,7 +126,26 @@ so:
   hundreds of hand edits. Tell later readers not to propose it.
 - Settle the `ask` items yourself at **high effort**, in one batch, and put
   them to the user grouped with recommendations. Record them in
-  `source/proofread-report.md` so they survive the session.
+  `source/proofread-report.md` so they survive the session. Group by the
+  evidence, one AskUserQuestion question per group with the recommended
+  option first (Grace Abounding: CCEL against both witnesses / later
+  witness only / missing references / small style points): four questions
+  settled 66 items. Apply the answers with the same applier, taking the
+  chosen proposal ids, plus hand edits for the ones the answer reshapes.
+- **A second pass pays when there is a new witness.** Grace Abounding,
+  proofread once already, gave 67 fixes and 66 questions in 43,000 words
+  once Offor's 1855 text was added (2026-10-18). The brief for a CCEL book
+  with two witnesses is `references/reader-brief-ccel-example.md`.
+- Don't apply one reader's fixes while another is reading the same file:
+  merged paragraphs shift its line ranges. Apply after the last reader.
+
+**Keep the main session lean** (the readers' tokens stay in their own
+context; yours don't). Print proposals one line each (`old => new | why`,
+cut to ~150 characters), never the JSONL whole; spot-check a few fixes per
+reader with one Grep in the witness rather than all of them; read a book
+file by offset or with a Python slice around the passage, not whole; look
+at PDF pages as low-resolution montages (`pdftoppm -r 40`, `montage -tile
+8x2`), and only the pages in doubt at 70 dpi.
 
 ### 3. Check what spans the book
 
@@ -192,6 +211,21 @@ so:
   `.typ` with fewer short titles than chapters lists every later chapter
   under the wrong name and runs pages under the previous chapter's head
   (Grace Abounding and Keach, 2026-10-18). Every `#include` gets one.
+- **Look at the print, not just its text.** A montage of the first 16
+  pages and each chapter's opening page shows what `pdftotext` cannot: a
+  subtitle run into the first paragraph, a heading's lone last word, the
+  wrong running head. A print-only spacing fix may go in the book's `.typ`
+  as a show rule (Grace's dedication: `#show align: it => if it.alignment
+  == center { it + v(0.8em) } else { it }`; a `.where(alignment: ...)`
+  selector does not match under the template). Text, never there.
+- **An opening word in capitals** ("CHILDREN, grace be with you") set as
+  small caps: `OPENING_SMALLCAPS = True` in `editorial.py`, then type
+  `#smallcaps[Children]` in `chapters/typ` and sync. The review alone cannot
+  add small caps (check [2] fails); CCEL books take the setting too.
+- **An author's books are a set.** Same cover palette and spine style, and
+  the same ebook CSS bar the book's own needs: diff `cover.typ` and
+  `ebook-override.css` against the author's other books (Grace Abounding's
+  ebook set paragraphs flush while Pilgrim's indents; fixed).
 - **A CCEL text against two witnesses** (Grace Abounding, 1666 and Offor
   1855): CCEL's keyed text often smooths the author (word order, "them
   words" → "those words", "a-coming" → "coming") and drops short words. The
