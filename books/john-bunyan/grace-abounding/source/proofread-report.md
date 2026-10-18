@@ -211,4 +211,42 @@ rather than a keying slip.
 
 - `relation.typ`: “He hath received gifts for the rebellious (Ps. 68.18)” → “‘He hath received gifts for the rebellious’ (Ps. 68.18)”. §166; scripture with reference but not in quotation marks, while the next words quote it ('The rebellious,'); though a paraphrase of KJV 'Thou hast received gifts for men; yea, for the rebellious also'
 
-Open: see the answers below once settled.
+## Answers (the user, 2026-10-18)
+
+1. **CCEL against both 1666 and Offor (34): restore only words CCEL lost.**
+   Restored: §199 "not, not for ever"; §319 "home to prison again"; §320
+   "to give you, in a hint or two, a word"; §321 "seen Him and felt Him";
+   §327 "too too fond", "all I had besides"; §330 "now venture", "and was
+   as spurs". Kept as CCEL: its word order and forms (those/them words,
+   state/estate, others/other, Sion/Zion, a-coming, scrambling, this/that,
+   tender to/of, refreshments, corruption, and the rest).
+2. **Passages added after 1666 (21): follow Offor.** All 20 applied (§12,
+   §43, §44, §45 ×3, §70, §85, §88 ×2, §171, §174 ×4, §183 ×2, §188, §289,
+   §304). §162 "thoughts have led through my heart" stays: Offor reads
+   "led" too.
+3. **References: add all, Matt. 10.37 too.** 2 Sam. 3.28 (§249), Matt.
+   5.11, 12 (§309), 1 Pet. 1.21 (§321), Job 39.18 (§322), 1 Sam. 6.10-12
+   (§328), and Offor's closing quotation of Matt. 10.37 in §325.
+4. **Style: all four.** Thou/Thee/Thy capitalized in Bunyan's own prayers
+   (§10, §190, §240 ×2, §337); the Imprisonment's capitals after ; and :
+   lowered (§321, §323, §326 ×2, §327); the ebook indents paragraphs, as
+   Pilgrim's Progress and the print book do; the preface's "CHILDREN" in
+   small caps (`OPENING_SMALLCAPS`).
+
+Kept without asking: §166 "He hath received gifts for the rebellious" is a
+paraphrase of Ps. 68.18, not set as a quotation.
+
+Colors: the cover uses the `ochre` palette and ruled spine, as *The
+Pilgrim's Progress* does; the ebook CSS now differs from Pilgrim's only in
+the dedication's `.subtitle` rule.
+
+## Checklist (2026-10-18)
+
+- [x] `sweep.py`: 2 hits, both Bunyan's "too too" (kept).
+- [x] `refs.py --quotes`: 172 references, 0 missing; the 2 weak matches are
+  the two kept in the first proofread.
+- [x] `./fgb check`: OK.
+- [x] `./fgb build`: 122 pages, Lulu margins OK, no footnotes; epubcheck 0
+  errors, 0 warnings.
+- [x] PDF text: no wrongly curled quotes, no stray markup; contents and
+  running heads right.

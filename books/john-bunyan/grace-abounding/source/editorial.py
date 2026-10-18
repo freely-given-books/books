@@ -16,6 +16,9 @@ QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 # CCEL's small capitals: Bunyan's emphasis ("this word ABLE", "an IF") and
 # his name in the indictment; fgbooks 0.6.0's Libertinus Serif has them.
 SMALLCAPS = "smallcaps"
+# The preface's first word, printed in capitals ("CHILDREN, grace be with
+# you"), set in small capitals, as the openings of Keach and Gouge.
+OPENING_SMALLCAPS = True
 
 # CCEL's title page, contents and scripture index are its own apparatus.
 SKIP_DIVISIONS = {"contents", "index", "titlePage"}

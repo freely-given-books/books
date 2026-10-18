@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Grace Abounding</title><author>John Bunyan</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Grace Abounding</title><author>John Bunyan</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-18" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">Grace Abounding</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p0.2">To The Chief of Sinners</titlePart><titlePart type="sub" xml:id="ccel-i-p0.3">Or,</titlePart><titlePart type="sub" xml:id="ccel-i-p0.4">A Brief Relation of the Exceeding Mercy of God in Christ to His Poor Servant</titlePart><titlePart type="sub" xml:id="ccel-i-p0.5">By</titlePart><titlePart type="sub" xml:id="ccel-i-p0.6">John Bunyan</titlePart></titlePage></front><body><div type="chapter" n="1" xml:id="ccel-ii">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Grace Abounding</title><author>John Bunyan</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Grace Abounding</title><author>John Bunyan</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-18" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">Grace Abounding</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p0.2">To The Chief of Sinners</titlePart><titlePart type="sub" xml:id="ccel-i-p0.3">Or,</titlePart><titlePart type="sub" xml:id="ccel-i-p0.4">A Brief Relation of the Exceeding Mercy of God in Christ to His Poor Servant</titlePart><titlePart type="sub" xml:id="ccel-i-p0.5">By</titlePart><titlePart type="sub" xml:id="ccel-i-p0.6">John Bunyan</titlePart></titlePage></front><body><div type="chapter" n="1" xml:id="ccel-ii">
 <head xml:id="ccel-ii-p0.1">PUBLISHER’S FOREWORD </head>
 <p xml:id="ccel-ii-p1">John Bunyan was born at Elstow, near Bedford, England, sometime in the fall of 
 1628, the first of three children born to Thomas and Margaret Bunyan. The parish 
@@ -82,7 +82,7 @@ travail.</p>
 <head xml:id="ccel-iii-p0.3"><hi ana="#edition-only" change="#review"><choice><orig>WRITTEN</orig><reg resp="#editor" type="case">Written</reg></choice> <choice><orig>BY</orig><reg resp="#editor" type="case">by</reg></choice> <choice><orig>THE</orig><reg resp="#editor" type="case">the</reg></choice> <choice><orig>AUTHOR</orig><reg resp="#editor" type="case">author</reg></choice> <choice><orig>THEREOF</orig><reg resp="#editor" type="case">thereof</reg></choice>, <choice><orig>AND</orig><reg resp="#editor" type="case">and</reg></choice> <choice><orig>DEDICATED</orig><reg resp="#editor" type="case">dedicated</reg></choice> <choice><orig>TO</orig><reg resp="#editor" type="case">to</reg></choice> <choice><orig>THOSE</orig><reg resp="#editor" type="case">those</reg></choice> <choice><orig>WHOM</orig><reg resp="#editor" type="case">whom</reg></choice> <choice><orig>GOD</orig><reg resp="#editor" type="case">God</reg></choice> <choice><orig>HATH</orig><reg resp="#editor" type="case">hath</reg></choice> <choice><orig>COUNTED</orig><reg resp="#editor" type="case">counted</reg></choice> <choice><orig>HIM</orig><reg resp="#editor" type="case">him</reg></choice> 
 <choice><orig>WORTHY</orig><reg resp="#editor" type="case">worthy</reg></choice> <choice><orig>TO</orig><reg resp="#editor" type="case">to</reg></choice> <choice><orig>BEGET</orig><reg resp="#editor" type="case">beget</reg></choice> <choice><orig>TO</orig><reg resp="#editor" type="case">to</reg></choice> <choice><orig>FAITH</orig><reg resp="#editor" type="case">faith</reg></choice>, <choice><orig>BY</orig><reg resp="#editor" type="case">by</reg></choice> <choice><orig>HIS</orig><reg resp="#editor" type="case">his</reg></choice> <choice><orig>MINISTRY</orig><reg resp="#editor" type="case">ministry</reg></choice> <choice><orig>IN</orig><reg resp="#editor" type="case">in</reg></choice> <choice><orig>THE</orig><reg resp="#editor" type="case">the</reg></choice> <choice><orig>WORD</orig><reg resp="#editor" type="case">word</reg></choice></hi> </head>
 
-<p xml:id="ccel-iii-p1">CHILDREN, grace be with you, Amen. I being taken from you in presence, and so 
+<p xml:id="ccel-iii-p1"><seg rend="smallcaps" type="opening"><choice><orig>CHILDREN</orig><reg resp="#editor" type="case">Children</reg></choice></seg>, grace be with you, Amen. I being taken from you in presence, and so 
 tied up, that I cannot perform that duty that from God doth lie upon me to youward, 
 for your further edifying and building up in faith and holiness, etc., yet that 
 you may see my soul hath fatherly care and desire after your spiritual and everlasting 
@@ -250,7 +250,7 @@ read in those books that concerned Christian piety, it would be as it were a pri
 to me. Then I said unto God, ‘Depart from me, for I desire not the knowledge of 
 thy ways’ (<ref type="scripture" cRef="Job.21.14">Job 21.14</ref>). I was now void of all good consideration, heaven and hell 
 were both out of sight and mind; and as for saving and damning, they were least 
-in my thoughts. O Lord, thou knowest my life, and my ways were not hid from Thee.</p>
+in my thoughts. O Lord, <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> knowest my life, and my ways were not hid from Thee.</p>
 
 <p xml:id="ccel-iv-p11">11. Yet this I well remember, that though I could myself sin with the greatest 
 delight and ease, and also take pleasure in the vileness of my companions; yet, 
@@ -266,7 +266,7 @@ Bedford river, but mercy yet preserved me alive. Besides, another time, being in
 the field with one of my companions, it chanced that an adder passed over the highway; 
 so I, having a stick in my hand, struck her over the back; and having stunned her, 
 I forced open her mouth with my stick, and plucked her sting out with my fingers, 
-by which act, had not God been merciful, I might, by my desperateness, have brought 
+by which act, had not God been <choice><orig>merciful</orig><reg resp="#editor" type="emendation">merciful unto me</reg></choice>, I might, by my desperateness, have brought 
 myself to mine end.</p>
 
 <p xml:id="ccel-iv-p13">13. This also have I taken notice of with thanksgiving; when I was a soldier, 
@@ -524,7 +524,7 @@ I may speak it with shame, yet it is in very deed a certain truth, it would then
 have been as difficult for me to have taken my mind from heaven to earth, as I have 
 found it often since to get it again from earth to heaven.</p>
 
-<p xml:id="ccel-iv-p43">43. One thing I may not omit: There was a young man in our town, to whom my heart 
+<p xml:id="ccel-iv-p43">43. One thing I may not omit: There was a young man in our town, to whom my <choice><orig>heart</orig><reg resp="#editor" type="emendation">heart before</reg></choice> 
 was knit more than to any other, but he being a most wicked creature for cursing, 
 and swearing, and whoring, I now shook him off, and forsook his company: but about 
 a quarter of a year after I had left him, I met him in a certain lane, and asked 
@@ -548,18 +548,18 @@ all manner of filthiness, especially uncleanness; he would also deny that there
 was a God, angel, or spirit; and would laugh at all exhortations to sobriety. When 
 I laboured to rebuke his wickedness, he would laugh the more, and pretend that he 
 had gone through all religions, and could never light on the right till now. He 
-told me also, that in a little time we should see all professors turn to the ways 
+told me also, that in a little time <choice><orig>we</orig><reg resp="#editor" type="emendation">I</reg></choice> should see all professors turn to the ways 
 of the ranters. Wherefore, abominating those cursed principles, I left his company 
 forthwith, and became to him as great a stranger, as I had been before a familiar.</p>
 
 <p xml:id="ccel-iv-p45">45. Neither was this man only a temptation to me; but my calling lying in the 
 country, I happened to light into several people’s company, who, though strict in 
 religion formerly, yet were also swept away by these ranters. These would also talk 
-with me of their ways, and condemn me as legal and dark; pretending that they had 
-only attained to perfection that could do what they would, and not sin. Oh! these 
+with me of their ways, and condemn me as legal and dark; pretending that <choice><orig>they</orig><reg resp="#editor" type="emendation">they only</reg></choice> had 
+<choice><orig>only</orig><reg resp="#editor" type="emendation"></reg></choice> attained to perfection that could do what they would, and not sin. Oh! these 
 temptations were suitable to my flesh, I being but a young man, and my nature in 
-its prime; but God, who had, I hope, designed me for better things, kept me in the 
-fear of His name, and did not suffer me to accept of such principles. And blessed 
+its prime; but God, who had<choice><orig>,</orig><reg resp="#editor" type="punctuation">, as</reg></choice> I hope, designed me for better things, kept me in the 
+fear of His name, and did not suffer me to accept of <choice><orig>such</orig><reg resp="#editor" type="emendation">such cursed</reg></choice> principles. And blessed 
 be God, who put it into my heart to cry to Him to be kept and directed, still distrusting 
 mine own wisdom; for I have since seen even the effect of that prayer, in His preserving 
 me not only from ranting errors, but from those also that have sprung up since. 
@@ -766,7 +766,7 @@ both from Satan, mine own heart, and carnal acquaintance; but I thank God these
 were outweighed by that sound sense of death and of the day of judgment, which abode, 
 as it were, continually in my view; I should often also think on Nebuchadnezzar, 
 of whom it is said, He had given him all the kingdoms of the earth (<ref type="scripture" cRef="Dan.5.19">Dan. 5.19</ref>). 
-Yet, I thought, if this great man had all his portion in this world, one hour in 
+Yet<choice><orig>,</orig><reg resp="#editor" type="punctuation">, thought</reg></choice> I<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>thought</orig><reg resp="#editor" type="emendation"></reg></choice>, if this great man had all his portion in this world, one hour in 
 hell fire would make him forget all. Which consideration was a great help to me.</p>
 
 <p xml:id="ccel-iv-p71">71. I was almost made, about this time, to see something concerning the beasts 
@@ -907,7 +907,7 @@ things as these! What seeking after carnal things by some, and what grief in oth
 for the loss of them! If they so much labour after, and spend so many tears for 
 the things of this present life, how am I to be bemoaned, pitied, and prayed for! 
 My soul is dying, my soul is damning. Were my soul but in a good condition, and 
-were I but sure of it, oh! how rich I should esteem myself, though blessed but with 
+were I but sure of it, <choice><orig>oh</orig><reg resp="#editor" type="emendation">ah</reg></choice>! how <choice><orig>rich</orig><reg resp="#editor" type="emendation">rich should</reg></choice> I <choice><orig>should</orig><reg resp="#editor" type="emendation"></reg></choice> esteem myself, though blessed but with 
 bread and water; I should count those but small afflictions, and should bear them 
 as little burdens. ‘A wounded spirit who can bear?’</p>
 
@@ -938,9 +938,9 @@ most of men unblessed.</p>
 
 <p xml:id="ccel-iv-p88">88. Yea, I thought it impossible that ever I should attain to so much goodness 
 of heart, as to thank God that He had made me a man. Man indeed is the most noble 
-by creation, of all creatures in the visible world; but by sin he has made himself 
+by creation, of all creatures in the visible world; but by sin he <choice><orig>has</orig><reg resp="#editor" type="spelling">had</reg></choice> made himself 
 the most ignoble. The beasts, birds, fishes, etc., I blessed their condition, for 
-they had not a sinful nature, they were not obnoxious in the sight of God; they 
+they had not a sinful nature, they were not obnoxious <choice><orig>in</orig><reg resp="#editor" type="emendation">to</reg></choice> the <choice><orig>sight</orig><reg resp="#editor" type="emendation">wrath</reg></choice> of God; they 
 were not to go to hell fire after death; I could therefore have rejoiced had my 
 condition been as any of theirs.</p>
 
@@ -1669,7 +1669,7 @@ Saviour, and there now remained no more sacrifice for sin.</p>
 built altars for idols in the house of the Lord; he also observed times, used enchantments, 
 had to do with wizards, was a wizard, had his familiar spirits, burned his children 
 in the fire in sacrifice to devils, and made the streets of Jerusalem run down with 
-the blood of innocents. These, I thought, are great sins, sins of a bloody colour; 
+the blood of innocents. These<choice><orig>,</orig><reg resp="#editor" type="punctuation">, thought</reg></choice> I<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>thought</orig><reg resp="#editor" type="emendation"></reg></choice>, are great sins, sins of a bloody colour; 
 yea, it would turn again upon me: They are none of them of the nature of yours; 
 you have parted with Jesus, you have sold your Saviour.</p>
 
@@ -1702,7 +1702,7 @@ he was rejected’, etc.</p>
 <p xml:id="ccel-iv-p175">174. Once as I was walking to and fro in a good man’s shop, bemoaning of myself 
 in my sad and doleful state, afflicting myself with self-abhorrence for this wicked 
 and ungodly thought; lamenting, also, this hard hap of mine, for that I should commit 
-so great a sin; greatly fearing I would not be pardoned; praying, also, in my heart, 
+so great a sin; greatly fearing I <choice><orig>would</orig><reg resp="#editor" type="spelling">should</reg></choice> not be pardoned; praying, also, in my heart, 
 that if this sin of mine did differ from that against the Holy Ghost, the Lord would 
 show it me. And being now ready to sink with fear, suddenly there was, as if there 
 had rushed in at the window, the noise of wind upon me, but very pleasant, and as 
@@ -1714,16 +1714,16 @@ with it, and commanded a silence in my heart of all those tumultuous thoughts th
 before did use, like masterless hell-hounds, to roar and bellow, and make a hideous 
 noise within me. It showed me, also, that Jesus Christ had yet a word of grace and 
 mercy for me, that He had not, as I had feared, quite forsaken and cast off my soul; 
-yea, this was a kind of chide for my proneness to desperation; a kind of a threatening 
+yea, this was a kind <choice><orig>of</orig><reg resp="#editor" type="emendation">of a</reg></choice> chide for my proneness to desperation; a kind of a threatening 
 me if I did not, notwithstanding my sins and the heinousness of them, venture my 
 salvation upon the Son of God. But as to my determining about this strange dispensation, 
-what it was I knew not; from whence it came I knew not. I have not yet, in twenty 
+what it was I knew not<choice><orig>;</orig><reg resp="#editor" type="punctuation">; or</reg></choice> from whence it came I <choice><orig>knew</orig><reg resp="#editor" type="spelling">know</reg></choice> not. I have not yet, in twenty 
 years’ time, been able to make a judgment of it; I thought then what here I shall 
 be loath to speak. But verily, that sudden rushing wind was as if an angel had come 
 upon me; but both it and the salvation I will leave until the day of judgment; only 
 this I say, it commanded a great calm in my soul, it persuaded me there might be 
 hope; it showed me, as I thought, what the sin unpardonable was, and that my soul 
-had yet the blessed privilege to flee to Jesus for mercy. But, I say, concerning 
+had yet the blessed privilege to flee to <choice><orig>Jesus</orig><reg resp="#editor" type="emendation">Jesus Christ</reg></choice> for mercy. But, I say, concerning 
 this dispensation, I know not what yet to say unto it; which was, also, in truth, 
 the cause that, at first, I did not speak of it in the book; I do now, also, leave 
 it to be thought on by men of sound judgment. I lay not the stress of my salvation 
@@ -1816,9 +1816,9 @@ this is the Jesus, the loving Saviour, the Son of God, whom thou hast parted wit
 whom you slighted, despised, and abused. This is the only Saviour, the only Redeemer, 
 the only one that could so love sinners as to wash them from their sins in His own 
 most precious blood; but you have no part nor lot in this Jesus, you have put Him 
-away from you, you have said in your heart, Let Him go if He will. Now, therefore, 
+<choice><orig>away</orig><reg resp="#editor" type="emendation"></reg></choice> from you, you have said in your heart, Let Him go if He will. Now, therefore, 
 you are severed from Him; you have severed yourself from Him. Behold, then, His 
-goodness, but you yourself be no partaker of it. Oh, thought I, what have I lost! 
+goodness, but <choice><orig>you</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>yourself</orig><reg resp="#editor" type="emendation">yourself to</reg></choice> be no partaker of it. Oh, thought I, what have I lost! 
 What have I parted with! What have I disinherited my poor soul of! Oh! it is sad 
 to be destroyed by the grace and mercy of God; to have the Lamb, the Saviour, turn 
 lion and destroyer (<ref type="scripture" cRef="Rev.6.1-Rev.6.17">Rev. 6</ref>). I also trembled, as I have said, at the sight of the 
@@ -1896,7 +1896,7 @@ At which I was as if I had been raised out of a grave, and cried out again, Lord
 how couldest Thou find out such a word as this? for I was filled with admiration 
 at the fitness, and, also, at the unexpectedness of the sentence, the fitness of 
 the word, the rightness of the timing of it, the power, and sweetness, and light, 
-and glory that came with it, was marvellous to me to find. I was now, for the time, 
+and glory that came with it<choice><orig>,</orig><reg resp="#editor" type="punctuation">, also,</reg></choice> was marvellous to me to find. I was now, for the time, 
 out of doubt as to that about which I so much was in doubt before; my fears before 
 were, that my sin was not pardonable, and so that I had no right to pray, to repent, 
 etc., or that if I did, it would be of no advantage or profit to me. But now, thought 
@@ -1921,7 +1921,7 @@ nor could my faith now longer retain this word.</p>
 
 <p xml:id="ccel-iv-p191">190. But the next day, at evening, being under many fears, I went to seek the 
 Lord; and as I prayed, I cried, and my soul cried to Him in these words, with strong 
-cries:—O Lord, I beseech thee, show me that thou hast loved me with everlasting 
+cries:—O Lord, I beseech <choice><orig>thee</orig><reg resp="#editor" type="case">Thee</reg></choice>, show me that <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> hast loved me with everlasting 
 love (<ref type="scripture" cRef="Jer.31.3">Jer. 31.3</ref>). I had no sooner said it but, with sweetness, this returned upon 
 me, as an echo or sounding again, ‘I have loved thee with an everlasting love.’ 
 Now I went to bed at quiet; also, when I awaked the next morning, it was fresh upon 
@@ -2006,7 +2006,7 @@ these words, though in themselves they tended to discouragement, yet to me, who
 feared this condition would be eternal, they were at sometimes as an help and refreshment 
 to me.</p>
 
-<p xml:id="ccel-iv-p200">199. For, thought I, many days are not for ever, many days will have an end, 
+<p xml:id="ccel-iv-p200">199. For, thought I, many days are <choice><orig>not</orig><reg resp="#editor" type="emendation">not, not</reg></choice> for ever, many days will have an end, 
 therefore seeing I was to be afflicted, not a few, but many days, yet I was glad 
 it was but for many days. Thus, I say, I could recall myself sometimes, and give 
 myself a help, for as soon as ever the words came into my mind at first, I knew 
@@ -2412,10 +2412,10 @@ time was come, her pangs, as of a woman in travail, were fierce and strong upon
 her, even as if she would have immediately fallen in labour, and been delivered 
 of an untimely birth. Now, at this very time it was that I had been so strongly 
 tempted to question the being of God, wherefore, as my wife lay crying by me, I 
-said, but with all secrecy imaginable, even thinking in my heart, Lord, if thou 
+said, but with all secrecy imaginable, even thinking in my heart, Lord, if <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> 
 wilt now remove this sad affliction from my wife, and cause that she be troubled 
 no more therewith this night, and now were her pangs just upon her, then I shall 
-know that thou canst discern the most secret thoughts of the heart.</p>
+know that <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> canst discern the most secret thoughts of the heart.</p>
 
 <p xml:id="ccel-iv-p243">241. I had no sooner said it in my heart, but her pangs were taken from her, 
 and she was cast into a deep sleep, and so she continued till morning; at this I 
@@ -2490,7 +2490,7 @@ thereof. O what did I now see in that blessed sixth of John, ‘And him that com
 to me I will in no wise cast out’ (<ref type="scripture" cRef="John.6.37">ver. 37</ref>). Now I began to consider with myself, 
 that God had a bigger mouth to speak with than I had heart to conceive with. I thought 
 also with myself that He spake not His words in haste, or in unadvised heat, but 
-with infinite wisdom and judgment, and in very truth and faithfulness.</p>
+with infinite wisdom and judgment, and in very truth and <choice><orig>faithfulness</orig><reg resp="#editor" type="emendation">faithfulness (2 Sam. 3.28)</reg></choice>.</p>
 
 <p xml:id="ccel-iv-p252">250. I should in these days, often in my greatest agonies, even flounce towards 
 the promise, as the horses do towards sound ground that yet stick in the mire, concluding, 
@@ -2860,7 +2860,7 @@ there the devil hath begun to roar in the hearts, and by the mouths of his serva
 Yea, oftentimes when the wicked world hath raged most, there hath been souls awaked 
 by the word. I could instance particulars, but I forbear.</p>
 
-<p xml:id="ccel-v-p25">289. My great desire in fulfilling my ministry was to get into the darkest places 
+<p xml:id="ccel-v-p25">289. My great desire <choice><orig>in</orig><reg resp="#editor" type="emendation">in my</reg></choice> fulfilling my ministry was to get into the darkest places 
 of the country, even amongst those people that were farthest off of profession; 
 yet not because I could not endure the light, for I feared not to show my gospel 
 to any, but because I found my spirit leaned most after awakening and converting 
@@ -2978,7 +2978,7 @@ saved condition, lest he rest in them, and so fall short of the grace of God.</p
 
 <p xml:id="ccel-v-p40">304. He hath also cause to walk humbly with God, and be little in his own eyes, 
 and to remember withal, that his gifts are not his own, but the church’s; and that 
-by them he is made a servant to the church; and that he must give at last an account 
+by them he is made a servant to the church; and <choice><orig>that</orig><reg resp="#editor" type="emendation"></reg></choice> he must give at last an account 
 of his stewardship unto the Lord Jesus; and to give a good account, will be a blessed 
 thing.</p>
 
@@ -3013,7 +3013,7 @@ dealt with thus wickedly by the world, I should want one sign of a saint, and a
 child of God. ‘Blessed are ye (said the Lord Jesus) when men shall revile you, and 
 persecute you, and shall say all manner of evil against you falsely for my sake; 
 rejoice, and be exceeding glad, for great is your reward in heaven; for so persecuted 
-they the prophets which were before you’ (<ref type="scripture" cRef="Matt.5.11">Matt. 5.11</ref>).</p>
+they the prophets which were before you’ (<ref type="scripture" cRef="Matt.5.11">Matt. 5.<choice><orig>11</orig><reg resp="#editor" type="emendation">11, 12</reg></choice></ref>).</p>
 
 <p xml:id="ccel-v-p46">310. These things, therefore, upon mine own account, trouble me not; no, though 
 they were twenty times more than they are. I have a good conscience, and whereas 
@@ -3093,7 +3093,7 @@ for not conforming to the national worship of the Church of England, and
 after some conference there with the justices, they, taking my plain dealing 
 with them for a confession, as they termed it, of the indictment, did 
 sentence me to a perpetual banishment, because I refused to conform. 
-So, being again delivered up to a <choice><orig>gaoler's</orig><reg resp="#auto" type="punctuation">gaoler’s</reg></choice> hands, I was had home to prison, 
+So, being again delivered up to a <choice><orig>gaoler's</orig><reg resp="#auto" type="punctuation">gaoler’s</reg></choice> hands, I was had home to <choice><orig>prison</orig><reg resp="#editor" type="emendation">prison again</reg></choice>, 
 and there have lain now complete twelve years, waiting to see what God 
 would suffer those men to do with me.
 </p>
@@ -3103,18 +3103,18 @@ much content, through grace, but have met with many turnings and goings
 upon my heart, both from the Lord, Satan, and my own corruption; by all 
 which, glory be to Jesus Christ! I have also received, among many things, 
 much conviction, instruction, and understanding, of which at large I shall 
-not here discourse; only to give you a hint or two, a word that may stir 
+not here discourse; only to give <choice><orig>you</orig><reg resp="#editor" type="emendation">you, in</reg></choice> a hint or two, a word that may stir 
 up the godly to bless God, and to pray for me; and also to take encouragement, 
 should the case be their own, not to fear what man can do unto them.
 </p>
 
 <p xml:id="ccel-vi-p4">321. I never had in all my life so great an 
-inlet into the Word of God as now; Those scriptures that I saw nothing in 
+inlet into the Word of God as now; <choice><orig>Those</orig><reg resp="#editor" type="case">those</reg></choice> scriptures that I saw nothing in 
 before, were made in this place and state to shine upon me; Jesus Christ 
-also was never more real and apparent than now; here I have seen and felt 
+also was never more real and apparent than now; here I have <choice><orig>seen</orig><reg resp="#editor" type="emendation">seen Him</reg></choice> and felt 
 <choice><orig>him</orig><reg resp="#editor" type="case">Him</reg></choice> indeed. Oh! that word, We have not preached unto you cunningly devised 
 fables<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>2 Pet. <choice><orig>i</orig><reg resp="#editor" type="emendation">1.</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>16</orig><reg resp="#editor" type="spelling">16)</reg></choice>, and that, God raised Christ from the dead, and gave him 
-glory, that your faith and hope might be in God, were the blessed words 
+glory, that your faith and hope might be in <choice><orig>God</orig><reg resp="#editor" type="emendation">God (1 Pet. 1.21)</reg></choice>, were the blessed words 
 unto me in this my imprisoned condition.
 </p>
 
@@ -3122,7 +3122,7 @@ unto me in this my imprisoned condition.
 been great refreshments in this condition to me<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><ref type="scripture" cRef="John.14.1-John.14.4">John <choice><orig>xiv</orig><reg resp="#editor" type="emendation">14</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>1-4</ref>; <ref type="scripture" cRef="John.16.33"><choice><orig>John xvi</orig><reg resp="#editor" type="emendation">16</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>33</ref>; 
 <ref type="scripture" cRef="Col.3.3">Col<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>iii</orig><reg resp="#editor" type="emendation">. 3</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>3</ref>,<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice><ref type="scripture" cRef="Col.3.4">4</ref>; <ref type="scripture" cRef="Heb.12.22-Heb.12.24">Heb. <choice><orig>xii</orig><reg resp="#editor" type="emendation">12</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>22-<choice><orig>24</orig><reg resp="#editor" type="spelling">24)</reg></choice></ref>. So that sometimes when I have been in the 
 savour of them I have been able to laugh at destruction, and to fear neither
-the horse nor his rider. I have had sweet sights of the forgiveness of my 
+the horse nor his <choice><orig>rider</orig><reg resp="#editor" type="emendation">rider (Job 39.18)</reg></choice>. I have had sweet sights of the forgiveness of my 
 sins in this place, and of my being with Jesus in another world. Oh! the 
 Mount Sion, the heavenly Jerusalem, the innumerable company of angels, and 
 God the judge of all, and the spirits of just men made perfect, and to Jesus<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> 
@@ -3135,7 +3135,7 @@ unspeakable and full of <choice><orig>glory,<choice><orig>"</orig><reg resp="#au
 
 <p xml:id="ccel-vi-p6">323. I never knew what it was for God to stand 
 by me at all turns, <choice><orig>abd</orig><reg resp="#editor" type="spelling">and</reg></choice> at every offer of Satan to afflict me, etc., as I 
-have found <choice><orig>him</orig><reg resp="#editor" type="case">Him</reg></choice> since I came in hither: For look how fears have presented 
+have found <choice><orig>him</orig><reg resp="#editor" type="case">Him</reg></choice> since I came in hither: <choice><orig>For</orig><reg resp="#editor" type="case">for</reg></choice> look how fears have presented 
 themselves, so have supports and encouragements; yea, when I have started, 
 even as it were at nothing else but my shadow, yet God, as being very tender 
 to me, hath not suffered me to be molested, but would, with one scripture or 
@@ -3162,7 +3162,7 @@ should not trust in ourselves, but in God which raiseth the <choice><orig>dead,<
 By this scripture I was made to see, That if ever I would suffer rightly I must 
 first pass a sentence of death upon <choice><orig>every thing</orig><reg resp="#editor" type="emendation">everything</reg></choice> that can properly be called a thing 
 of this life, even to reckon myself, my wife, my children, my health, my 
-enjoyments, and all, as dead to <choice><orig>me</orig><reg resp="#editor" type="spelling">me,</reg></choice> and myself<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> as dead to them.
+enjoyments, and all, as dead to <choice><orig>me</orig><reg resp="#editor" type="spelling">me,</reg></choice> and myself<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> as dead to <choice><orig>them</orig><reg resp="#editor" type="emendation">them. ‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt. 10.37)</reg></choice>.
 </p>
 
 <p xml:id="ccel-vi-p9">326. The second was to live upon God that is
@@ -3172,8 +3172,8 @@ enjoyments, and all, as dead to <choice><orig>me</orig><reg resp="#editor" type=
  are not seen are <choice><orig>eternal,<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></orig><reg resp="#editor" type="emendation">eternal’ (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><ref type="scripture" cRef="2Cor.4.18">2 Cor. <choice><orig>iv</orig><reg resp="#editor" type="emendation">4</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>18</orig><reg resp="#editor" type="spelling">18)</reg></choice></ref>. And thus I reasoned with myself, 
  If I provide only for a prison, then the whip comes at unawares, and so doth 
  also the pillory. Again, if I only provide for these, then I am not fit for 
- banishment: Farther, if I conclude that banishment is the worst, then if 
- death comes I am surprised: So that I see, the best way to go through 
+ banishment: <choice><orig>Farther</orig><reg resp="#editor" type="case">farther</reg></choice>, if I conclude that banishment is the worst, then if 
+ death comes I am surprised: <choice><orig>So</orig><reg resp="#editor" type="case">so</reg></choice> that I see, the best way to go through 
  sufferings is to trust in God through Christ, as touching the world to 
  come; and as touching this world, to count the grave my house, to make my
  bed in darkness; to say to corruption, Thou art my father, and to the worm, 
@@ -3183,11 +3183,11 @@ enjoyments, and all, as dead to <choice><orig>me</orig><reg resp="#editor" type=
 <p xml:id="ccel-vi-p10">327. But notwithstanding these helps, I 
 found myself a man encompassed with infirmities; the parting with my wife 
 and poor children hath often been to me in this place as the pulling the 
-flesh from the bones, and that not only because I am somewhat too fond of these 
+flesh from the bones, and that not only because I am somewhat <choice><orig>too</orig><reg resp="#editor" type="emendation">too too</reg></choice> fond of these 
 great mercies, but also because I should have often brought to my mind the many 
 hardships, miseries, and wants that my poor family was like to meet with should 
 I be taken from them, especially my poor blind child, who lay nearer my heart 
-than all beside. Oh! the thoughts of the hardship I thought my poor blind one 
+than all <choice><orig>beside</orig><reg resp="#editor" type="emendation">I had besides</reg></choice>. Oh! the thoughts of the hardship I thought my poor blind one 
 might go under, would break my heart to pieces.
 </p>
 
@@ -3199,11 +3199,11 @@ I, I must venture you all with God, though it goeth to the quick to leave you.
 Oh! I saw in this condition I was as a man who was pulling down his house upon 
 the head of his wife and children<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>; yet thought I, I must do it, I must do it.
  And now I thought on those two milch kine that were to carry the ark of God 
- into another country, and to leave their calves behind them<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><ref type="scripture" cRef="1Sam.6.10">1 Sam. <choice><orig>vi</orig><reg resp="#editor" type="emendation">6</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>10</orig><reg resp="#editor" type="spelling">10)</reg></choice></ref>.
+ into another country, and to leave their calves behind them<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><ref type="scripture" cRef="1Sam.6.10">1 Sam. <choice><orig>vi</orig><reg resp="#editor" type="emendation">6</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>10</orig><reg resp="#editor" type="emendation">10-12)</reg></choice></ref>.
 </p>
 
 <p xml:id="ccel-vi-p12">329. But that which helped me in this temptation 
-was divers considerations, of which three in special here <choice><orig>-</orig><reg resp="#editor" type="punctuation"></reg></choice>I will name: The 
+was divers considerations, of which three in special here <choice><orig>-</orig><reg resp="#editor" type="punctuation"></reg></choice>I will name: <choice><orig>The</orig><reg resp="#editor" type="case">the</reg></choice> 
 first was the consideration of these two scriptures, <choice><orig>"</orig><reg resp="#editor" type="punctuation">‘</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>Leave thy fatherless 
 children, I will preserve them alive, and let thy widows trust in me.<choice><orig>"</orig><reg resp="#editor" type="punctuation">’</reg></choice> And 
 again, <choice><orig>"</orig><reg resp="#editor" type="punctuation">‘</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>The Lord said, Verily it shall be well with thy remnant, verily I 
@@ -3211,13 +3211,13 @@ will cause the enemy to entreat thee well in the time of <choice><orig>evil,<cho
 </p>
 
 <p xml:id="ccel-vi-p13">330. I had also this consideration, that if I 
-should venture all for God, I engaged God to take care of my concernments: 
+<choice><orig>should</orig><reg resp="#editor" type="emendation">should now</reg></choice> venture all for God, I engaged God to take care of my concernments: 
 but if I forsook <choice><orig>him</orig><reg resp="#editor" type="case">Him</reg></choice> <choice><orig>in</orig><reg resp="#editor" type="emendation">and</reg></choice> <choice><orig>his</orig><reg resp="#editor" type="case">His</reg></choice> ways, for fear of any trouble that should come 
 to me or mine, then I should not only falsify my profession, but should count 
 also that my concernments were not so sure if left at <choice><orig>God's</orig><reg resp="#auto" type="punctuation">God’s</reg></choice> feet, while I 
 stood to and for <choice><orig>his</orig><reg resp="#editor" type="case">His</reg></choice> name, as they would be if they were under my own care, 
 though with the denial of the way of God. This was a smarting consideration, 
-and as spurs <choice><orig>into</orig><reg resp="#editor" type="spelling">unto</reg></choice> my <choice><orig>flaw</orig><reg resp="#editor" type="emendation">flesh</reg></choice>. That scripture also greatly helped it to fasten 
+<choice><orig>and</orig><reg resp="#editor" type="emendation">and was</reg></choice> as spurs <choice><orig>into</orig><reg resp="#editor" type="spelling">unto</reg></choice> my <choice><orig>flaw</orig><reg resp="#editor" type="emendation">flesh</reg></choice>. That scripture also greatly helped it to fasten 
 the more on me where Christ prays against Judas, that God would disappoint 
 him <choice><orig>in</orig><reg resp="#editor" type="emendation">in all</reg></choice> his selfish thoughts, which moved him to sell his master. Pray read it soberly<choice><orig>, Psalm eix</orig><reg resp="#editor" type="emendation"> (Ps. 109</reg></choice>.<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>6-<choice><orig>20</orig><reg resp="#editor" type="spelling">20)</reg></choice>.
 </p>
@@ -3294,7 +3294,7 @@ stand to <choice><orig>his</orig><reg resp="#editor" type="case">His</reg></choi
 thought I, <choice><orig>save</orig><reg resp="#editor" type="emendation"></reg></choice> the point being thus, I am for going on, and venturing my eternal state 
 with Christ, whether I have comfort here or no. If God doth not come in, thought I, 
 I will leap off the ladder even blindfold into eternity, sink or swim, come heaven, 
-come hell, Lord Jesus, if thou wilt catch me, do; if not, I will venture for thy name.
+come hell, Lord Jesus, if <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> wilt catch me, do; if not, I will venture for <choice><orig>thy</orig><reg resp="#editor" type="case">Thy</reg></choice> name.
 </p>
 
 <p xml:id="ccel-vi-p21">338. I was no sooner fixed with this resolution but this 

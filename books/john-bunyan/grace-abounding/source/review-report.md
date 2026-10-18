@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 97 |
-| spacing | 69 |
-| spelling | 50 |
-| case | 46 |
-| punctuation | 36 |
+| emendation | 131 |
+| spacing | 71 |
+| case | 59 |
+| spelling | 52 |
+| punctuation | 41 |
 | italic | 1 |
 | grammar | 1 |
 | merge | 1 |
@@ -16,17 +16,29 @@
 - [preface.typ] I → 1
 - [preface.typ] 4 → 
 - [relation.typ] II → 2
+- [relation.typ] merciful → merciful unto me
 - [relation.typ] other → other my
 - [relation.typ] now → now too
 - [relation.typ] than → 
 - [relation.typ] and → and, indeed
 - [relation.typ] a → a very
+- [relation.typ] heart → heart before
+- [relation.typ] we → I
+- [relation.typ] they → they only
+- [relation.typ] only → 
+- [relation.typ] such → such cursed
 - [relation.typ] if → 
 - [relation.typ] then → then was
 - [relation.typ] was → 
+- [relation.typ] thought → 
 - [relation.typ] I → I had
 - [relation.typ] desires → desires also
 - [relation.typ] whereas → whereas before
+- [relation.typ] oh → ah
+- [relation.typ] rich → rich should
+- [relation.typ] should → 
+- [relation.typ] in → to
+- [relation.typ] sight → wrath
 - [relation.typ] I → they
 - [relation.typ] , saith my God → 
 - [relation.typ] II → 2
@@ -36,10 +48,17 @@
 - [relation.typ] before → before me, and cause them to dwell with me, talk with
 - [relation.typ] down → down fell
 - [relation.typ] fell → 
+- [relation.typ] thought → 
 - [relation.typ] sins → fits
 - [relation.typ] cry → cry, ‘Return unto me’; it would cry aloud with a very great voice
+- [relation.typ] of → of a
+- [relation.typ] Jesus → Jesus Christ
 - [relation.typ] Pray → Pray not
 - [relation.typ] not → 
+- [relation.typ] away → 
+- [relation.typ] you → 
+- [relation.typ] yourself → yourself to
+- [relation.typ] not → not, not
 - [relation.typ] II → 2
 - [relation.typ] would → wonder
 - [relation.typ] II → 2
@@ -51,6 +70,7 @@
 - [relation.typ] l → I
 - [relation.typ] not → not now
 - [relation.typ] law → law by Him, died
+- [relation.typ] faithfulness → faithfulness (2 Sam. 3.28)
 - [relation.typ] that → that blessed
 - [relation.typ] 8 → 28
 - [relation.typ] to → do
@@ -66,15 +86,23 @@
 - [call-to-the-ministry.typ] Act . → Acts
 - [call-to-the-ministry.typ] which → which also
 - [call-to-the-ministry.typ] II → 2
+- [call-to-the-ministry.typ] in → in my
 - [call-to-the-ministry.typ] II → 2
+- [call-to-the-ministry.typ] that → 
 - [call-to-the-ministry.typ] for → for all
+- [call-to-the-ministry.typ] 11 → 11, 12
 - [imprisonment.typ] sessions → sessions after
 - [imprisonment.typ] after → 
+- [imprisonment.typ] prison → prison again
+- [imprisonment.typ] you → you, in
+- [imprisonment.typ] seen → seen Him
 - [imprisonment.typ] i → 1.
+- [imprisonment.typ] God → God (1 Pet. 1.21)
 - [imprisonment.typ] xiv → 14
 - [imprisonment.typ] John xvi → 16
 - [imprisonment.typ] iii → . 3
 - [imprisonment.typ] xii → 12
+- [imprisonment.typ] rider → rider (Job 39.18)
 - [imprisonment.typ] xii → 12.
 - [imprisonment.typ] glory , ” → glory’ (
 - [imprisonment.typ] i → 1
@@ -86,14 +114,20 @@
 - [imprisonment.typ] dead , ” → dead’ (
 - [imprisonment.typ] i → 1
 - [imprisonment.typ] every thing → everything
+- [imprisonment.typ] them → them. ‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt. 10.37)
 - [imprisonment.typ] on → at
 - [imprisonment.typ] eternal , ” → eternal’ (
 - [imprisonment.typ] iv → 4
+- [imprisonment.typ] too → too too
+- [imprisonment.typ] beside → I had besides
 - [imprisonment.typ] vi → 6
+- [imprisonment.typ] 10 → 10-12)
 - [imprisonment.typ] evil , ” → evil’ (
 - [imprisonment.typ] xlix → 49
 - [imprisonment.typ] xv → 15
+- [imprisonment.typ] should → should now
 - [imprisonment.typ] in → and
+- [imprisonment.typ] and → and was
 - [imprisonment.typ] flaw → flesh
 - [imprisonment.typ] in → in all
 - [imprisonment.typ] , Psalm eix → (Ps. 109
@@ -118,10 +152,15 @@
 ## punctuation
 
 - [relation.typ] . → ,
+- [relation.typ] , → , as
+- [relation.typ] , → , thought
 - [relation.typ] , → ;
 - [relation.typ] ; → !
 - [relation.typ] , → , as
 - [relation.typ] : → .
+- [relation.typ] , → , thought
+- [relation.typ] ; → ; or
+- [relation.typ] , → , also,
 - [relation.typ] ; → ,
 - [relation.typ] . → ,
 - [relation.typ] , → , and
@@ -159,35 +198,43 @@
 - he → He (×8)
 - his → His (×7)
 - him → Him (×5)
+- thou → Thou (×5)
 - TO → to (×3)
 - BY → by (×2)
 - THE → the (×2)
 - AND → and
 - AUTHOR → author
 - BEGET → beget
+- CHILDREN → Children
 - COUNTED → counted
 - DEDICATED → dedicated
 - FAITH → faith
+- Farther → farther
+- For → for
 - GOD → God
 - HATH → hath
 - HIM → him
 - HIS → his
 - IN → in
 - MINISTRY → ministry
+- So → so
 - THEREOF → thereof
 - THOSE → those
+- The → the
+- Those → those
 - Thou → thou
 - WHOM → whom
 - WORD → word
 - WORTHY → worthy
 - WRITTEN → Written
+- thee → Thee
+- thy → Thy
 
 ## spelling
 
 - 24 → 24) (×2)
 - Heb → Heb. (×2)
 - into → unto (×2)
-- 10 → 10)
 - 11 → 11)
 - 16 → 16)
 - 18 → 18)
@@ -213,10 +260,12 @@
 - faults → false
 - fore → fore-
 - forth → both
+- has → had
 - have → save
 - intreat → entreat
 - intreated → entreated
 - kiss → kiss;
+- knew → know
 - leadings → dealings
 - me → me,
 - not → no
@@ -230,5 +279,6 @@
 - whosoever → whomsoever
 - words → word
 - world → word
+- would → should
 - ‘twas → ’twas
 
