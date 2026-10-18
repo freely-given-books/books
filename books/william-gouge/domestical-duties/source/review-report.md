@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1882 |
+| spelling | 1877 |
 | emendation | 318 |
 | case | 148 |
 | grammar | 147 |
@@ -671,7 +671,7 @@
 ## spelling
 
 - Gods → God’s (×477)
-- Christs → Christ’s (×167)
+- Christs → Christ’s (×166)
 - mans → man’s (×145)
 - childrens → children’s (×124)
 - borne → born (×60)
@@ -732,7 +732,6 @@
 - at → that (×3)
 - childes → childs (×3)
 - maist → mayest (×3)
-- wise → wife (×3)
 - womens → women’s (×3)
 - 10 → 10. (×2)
 - 14 → 14. (×2)
@@ -775,7 +774,6 @@
 - bruit → brute (×2)
 - examplary → exemplary (×2)
 - faith → saith (×2)
-- fullenness → sullenness (×2)
 - his → this (×2)
 - husband → husbands (×2)
 - jealously → jealousy (×2)
@@ -786,10 +784,10 @@
 - stile → style (×2)
 - the → he (×2)
 - wife → wise (×2)
+- wise → wife (×2)
 - 18 → 18.
 - 18 → 18.)
 - 23 → 23.
-- 24 → 24,
 - 28 → 28.
 - 32 → 32.
 - 37 → 37.
@@ -799,7 +797,6 @@
 - 48 → 48.
 - 5 → 5.
 - 50 → 50.
-- 53 → 53.
 - 67 → 67.
 - 7 → 7.
 - 74 → 74.
@@ -992,6 +989,7 @@
 - foking → soaking
 - foreness → soreness
 - fouth → fourth
+- fullenness → sullenness
 - furly → surly
 - further → murder
 - geslure → gesture
