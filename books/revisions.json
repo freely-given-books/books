@@ -35,6 +35,18 @@
         "richard-sibbes/the-glorious-feast-of-the-gospel": "13.1",
         "thomas-brooks/the-secret-key-of-heaven": "6.1"
       }
+    },
+    {
+      "release": "2026.10.17.2",
+      "books": {
+        "anonymous/the-anatomy-of-simon-magus": "6.1",
+        "charles-spurgeon/all-of-grace": "15.1",
+        "john-bunyan/the-pilgrims-progress": "13.1",
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": "8.1",
+        "richard-sibbes/the-glorious-feast-of-the-gospel": "13.1",
+        "thomas-brooks/the-secret-key-of-heaven": "6.1",
+        "william-gouge/domestical-duties": 1
+      }
     }
   ]
 }
