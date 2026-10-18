@@ -42,6 +42,7 @@
 #metadata[A Preface] <short>
 #include "chapters/typ/preface.typ"
 
+#metadata[Grace Abounding] <short>
 #include "chapters/typ/relation.typ"
 
 #metadata[The Author’s Call to the Ministry] <short>
@@ -50,4 +51,5 @@
 #metadata[The Author’s Imprisonment] <short>
 #include "chapters/typ/imprisonment.typ"
 
+#metadata[The Conclusion] <short>
 #include "chapters/typ/conclusion.typ"
