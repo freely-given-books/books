@@ -39,9 +39,14 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
 )
 
+// The preface's dedication, set centred under its title (the layout's
+// subtitle), stands a little apart from the text, as the ebook sets it.
+#show align: it => if it.alignment == center { it + v(0.8em) } else { it }
+
 #metadata[A Preface] <short>
 #include "chapters/typ/preface.typ"
 
+#metadata[Grace Abounding] <short>
 #include "chapters/typ/relation.typ"
 
 #metadata[The Author’s Call to the Ministry] <short>
@@ -50,4 +55,5 @@
 #metadata[The Author’s Imprisonment] <short>
 #include "chapters/typ/imprisonment.typ"
 
+#metadata[The Conclusion] <short>
 #include "chapters/typ/conclusion.typ"

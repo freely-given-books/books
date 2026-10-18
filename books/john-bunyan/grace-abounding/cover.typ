@@ -14,7 +14,7 @@
     to His Poor Servant John Bunyan
   ],
   author: [John Bunyan],
-  pages: 144,
+  pages: 122,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "ochre",
