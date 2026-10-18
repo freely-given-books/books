@@ -213,9 +213,21 @@ what the chapter is ("Chapter 2: What It Is to Know God", Calvin), not just
 its number. Footnotes: the user accepts a paragraph's first line alone at a
 page's foot (orphan) but not its last line alone at the top (widow); a
 footnote-heavy book may set `#set text(costs: (orphan: 0%))` after its font
-line (Gouge, Precious Remedies), which keeps more notes with their markers. Covers need no page-count edits: `./fgb
+line (Gouge, Precious Remedies), which keeps more notes with their markers.
+A note broken over a page (its last words alone atop the next page's notes,
+Gouge "in age.") is reported too (colophon 0.23.0, a release-gate failure):
+keep notes whole with `#show footnote.entry: it => block(breakable: false, it)`
+after the costs line (Gouge: 10 fixed, page counts unchanged). Strays the user
+accepts go in `RELEASE.toml` as `accepted_print`, each by its exact message
+(colophon 0.20.0); page numbers shift when the book changes, so update them.
+Covers need no page-count edits: `./fgb
 build` gives each cover its interior's page count and trim, and the spine
-is Lulu's formula.
+is Lulu's formula. A multi-volume set can use the "set" cover style
+(`front-style`/`spine-style: "set"` in scripts/panel_cover.typ, Gouge's olive
+covers: the whole work's contents on every volume, this volume's picked out).
+`./fgb build` and every release also make a reader page and a public
+comparison page per EPUB (`<book>-vN-reader.html`, `-compare.html`; memory:
+web-pages).
 
 Hand `chapters/typ` to the user for review. That is their job, not yours.
 Give them the side-by-side reading copy too (printed text next to the
