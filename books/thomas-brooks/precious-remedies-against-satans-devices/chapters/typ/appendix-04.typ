@@ -1,6 +1,6 @@
 == 4. Christ’s Unwillingness
 
-=== The fourth #emph[Device] that Satan hath to keep Christ & a sinner asunder, to keep a poor sinner from believing in Christ, from embracing of Christ, #emph[etc.] is,
+=== The fourth #emph[Device] that Satan hath to keep Christ and a sinner asunder, to keep a poor sinner from believing in Christ, from embracing of Christ, #emph[etc.] is,
 
 BY suggesting to the sinner Christ's unwillingness to save; ’tis true, saith Satan; Christ is able to save thee, but is he willing? surely though he be able, yet he is not willing to save such a wretch as thou art, that hast trampled his blood under thy feet, and that hast been in open rebellion against him all thy days, etc.
 
@@ -16,4 +16,4 @@ BY suggesting to the sinner Christ's unwillingness to save; ’tis true, saith S
 
 5\. His complaints against such as refuse him, and that turn their backs upon him, and that will not be saved by him, doth strongly declare his willingness to save them. #emph[He came to his own,] #footnote[John 1. 11.] #emph[and his own received him not.] So in that 5. of #emph[John, v. 40. But ye will not come] #footnote[John 5. 40.] #emph[to me, that ye may have life.]
 
-6\. The joy and delight that he takes at the conversion of sinners, doth demonstrate his willingness, that they should be saved. #emph[Luk. 15. 7. I say unto] #footnote[Luke 15. 7.] #emph[you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons which need no repentance.] God the Father rejoiceth at the return of his prodigal Son. Christ rejoices to see the travel of#footnote[Isa. 53. 11.] his soul: the Spirit rejoices that he hath another temple to dwell in, and the angels rejoice that they have another brother to delight in, etc.
+6\. The joy and delight that he takes at the conversion of sinners, doth demonstrate his willingness, that they should be saved. #emph[Luk. 15. 7. I say unto] #footnote[Luke 15. 7.] #emph[you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons which need no repentance.] God the Father rejoiceth at the return of his prodigal Son. Christ rejoices to see the travail of#footnote[Isa. 53. 11.] his soul: the Spirit rejoices that he hath another temple to dwell in, and the angels rejoice that they have another brother to delight in, etc.

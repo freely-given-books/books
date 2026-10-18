@@ -151,3 +151,68 @@ Each made one form through the book: burden/burdened (from burthen),
 Augustine (from Austin/Augustin), fulness (as the KJV), Jerome (from
 Hierome), I'll (from I'le), savour, and loathe/loathes for the verb ("you
 are loath to come" keeps the adjective). Samson was already uniform.
+
+## Second proofread (2026-10-18)
+
+The whole book read again, in four parts, against the 1653 text and a new
+witness: **Grosart's printed edition** (*Works* vol. 1, 1866; archive.org
+`completeworksoft01broouoft`, OCR in `~/.cache/fgb-scans/brooks/`). Grosart's
+text is the 8th edition (1676) collated with the 1st (1652) and 2nd (1653);
+his footnotes correct references and identify sources. Monergism's keyed
+text of Grosart was the second witness; sermonindex.net's copy is a
+modernization of Monergism's (you, armor), not a witness. The 1652 and 1658
+printings are cached as PDFs (`brooks-1652.pdf`, `brooks-1658.pdf`) for page
+images.
+
+**Fixed (141):** punctuation 43, modernize 25 (unmaskt, escapt, tryed,
+whil'st), wrong capitals after "!", "?" or italics 17, names 15 (settled
+forms not applied everywhere: Achitophel, Melancton, Hierom's, Jerom,
+quaristas, tentation; Steven → Stephen), Latin 12 (the machine had
+anglicized "Afflictiones benedictiones"; Seneca's "nil nunquam" reversed
+the sense → "nil unquam"; "Messias at ego" → "et ego"; "crucianus" →
+"cruciatus"; "Satura te auro"), possessives 10, references 9 (Hos. 4. 14 →
+4. 17; Hos. 6. 1, 2), Greek accents 4, lost or wrong words ("thene died" →
+"there died"; "unkindnesses"; "the Scripture sets them out by").
+
+**Questions settled by Grosart's readings (42),** under the standing rule:
+the lost clause in sin-06 ("and for ever to break the neck of thy soul,
+present repentance as the difficultest and hardest work in the world; and
+to this purpose he will set thy sins in order before thee, and make them to
+say"), "as much of the power of God", "I dearly prize", "puff them up",
+"with that eye [with] which", "suffers" (patitur), "naught" (wicked),
+incorrigible, "dost" as the auxiliary, "sit and sup", the owl "she",
+"inlets to the soul's more sweet", Pliny's "bears", the Hebrew note on
+Psal. 25. 9, "flatterers set", "the good gracious souls", "foils",
+"second son Abel", "overcame", "temporary grace", "go to his visitation",
+"sit down", "gins" (twice); names Typhoeus, Parsees, Hugo's, Polycrates,
+Anacreon, Bouillon (twice), Brettergh, Esther, Hephaestion, Hannibal;
+"The fourth remedy" (the only head printed "The 4."); references John 7.
+48, 49, Job 23. 6, 8, 9. ch. 30. 31, Amos 6. 1, 3-6. **Kept as printed:**
+"Pluto" in the statue of Peace (Plutus is meant; Grosart keeps Pluto).
+
+**One form through the book** (Grosart, the KJV and *The Secret Key* agree):
+judgment, honour, for ever, Woe, woeful, sceptre, sepulchre, Micah,
+Manasseh, Magdalene, Jeremiah; travail for childbirth (Isa. 53. 11; 66. 8);
+"ay" for "I" meaning yes.
+
+**The editor's choices (2026-10-18):** "and" for "&" in English (92; the 20
+in Latin kept); elided past tenses written out (65: turned, looked,
+bewitched; won't and might'st kept); today, tomorrow; the a- prefix
+hyphenated where it marks a progressive (a-crying, a-doing, a-mourning).
+
+**Left as is:** the Nazianzen note "Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ
+πνεύματος" translated "the Devil's flame" (settled in the first proofread;
+the saying is usually quoted with τοῦ πονηροῦ, "the evil one's", which
+would fit the translation; the 1652 prints πνεύματα).
+
+### Checks
+
+- [x] `sweep.py`: apostrophe hits are the book's straight apostrophes (Typst
+  curls them); the three "doubled" are Brooks's ("mercy mercy", "a very
+  little little cross", "a thousand thousand"); "words" are Latin and names.
+- [x] `slips.py` (Monergism): 8 places, all deliberate (Augustine, woeful,
+  fellow members).
+- [x] `refs.py --quotes`: 554 references, 0 missing, 0 weak matches.
+- [x] `./fgb check` OK; `./fgb build`: 352 pages, Lulu checks pass (footnotes
+  continued over a page are allowed, see footnote placement), epubcheck 0/0.
+- [x] PDF text: no wrong-way quotes, no stray markup.
