@@ -40,8 +40,10 @@ Puritan Paperbacks list, no. 31.
 - **Margin notes:** the margin's labels ("1 Remedy.", "2 Device.", "Use.")
   are left out because the text says the same. The notes are footnotes in
   modern spelling, with their Latin as printed.
-- **Proofread:** the whole book was read against the 1653 printing and
-  Grosart's edition (Monergism; a check only, its text is not used). See
+- **Proofread:** the whole book was read twice: against the 1653 printing
+  and Grosart's edition as Monergism keyed it (2026-10-10), and again
+  against Grosart's printed 1866 edition with his footnotes (2026-10-18).
+  Witnesses are checks only; their text is not used. See
   `source/proofread-report.md`.
 
 Left out but kept in the TEI as printed: the title page, the printed table,
