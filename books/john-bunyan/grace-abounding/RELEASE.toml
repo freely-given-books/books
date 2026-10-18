@@ -1,0 +1,23 @@
+# Release record of Grace Abounding to the Chief of Sinners: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-bunyan/grace-abounding/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition and George Offor's 1855 edition."
+
+[[source]]
+file = "source/grace.thml.xml"
+description = "CCEL ThML: John Bunyan, Grace Abounding to the Chief of Sinners (Bunyan's enlarged text)"
+url = "https://www.ccel.org/ccel/b/bunyan/grace.xml"
+sha256 = "21dba22cf36ddec4399091313ce74e826152ea62232f10e6182365496102e2c0"
+
+[[source]]
+file = "source/A30143.witness.xml"
+description = "EEBO-TCP A30143: Grace Abounding to the Chief of Sinners (London, George Larkin, 1666), the first edition, a witness: source/witness-report.md"
+url = "https://github.com/textcreationpartnership/A30143"
+sha256 = "6d927ab6622091da3b311a9615a019788695f870b8f6ba44012e2a9dfe744c7c"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The Works of John Bunyan, ed. George Offor (1855), vol. 1, archive.org scan and OCR, the witness for the passages added after 1666: source/proofread-report.md"
+url = "https://archive.org/details/worksofjohnbunya01buny"
