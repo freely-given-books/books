@@ -114,9 +114,9 @@ list against the earlier edition is `source/migration-differences.md`.
   untouched.
 - **The original table of contents is not reproduced.** It indexes the 1622
   pagination, which this edition does not share; each volume's outline
-  and its ebook's table of contents replace it. The author's
-  *parallel* of husbands' and wives' duties, which he designed as a reading aid
-  and which keys to § numbers rather than pages, opens Volume II.
+  and its ebook's table of contents replace it. Gouge's
+  *parallel* of husbands' and wives' duties, a two-column reading aid keyed to
+  § numbers, opened Volume II in v1 and is left out since (it stays in the TEI).
 - **The author's brace diagrams are set as lists, not as tables.** Gouge's
   compositor drew braces to show one thing dividing into several — "Behold
   here the mutual relation betwixt {Christ, / The Church.}" — and 76 of them

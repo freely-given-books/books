@@ -70,9 +70,6 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 
-#metadata[A Parallel of the Duties of Husbands and Wives] <short>
-#include "chapters/typ/vol-2/parallel-of-duties.typ"
-
 #metadata[Seeking Marriage] <short>
 #include "chapters/typ/vol-2/01-seeking-marriage.typ"
 
