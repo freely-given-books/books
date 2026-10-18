@@ -2,7 +2,7 @@
 
 #strong[The sixth #emph[Device] that Satan hath to keep souls off from religious services, is,]
 
-By presenting before them the examples#footnote[John 4. 12. 7. chap. 48, 49. 1 Cor. 1. 26, 27. Mica 7. 2, 3, 4.] of the greatest part of the world that walk in the ways of their own hearts, and that make light and slight of the ways of the Lord; why saith Satan, do not you see, that the great, and the rich, the noble and the honourable, the learned and the wise, even the greatest number of men never trouble themselves about such and such ways, and why then should you be singular and nice? You were far better do as the most do, etc.
+By presenting before them the examples#footnote[John 7. 48, 49. 1 Cor. 1. 26, 27. Mica 7. 2, 3, 4.] of the greatest part of the world that walk in the ways of their own hearts, and that make light and slight of the ways of the Lord; why saith Satan, do not you see, that the great, and the rich, the noble and the honourable, the learned and the wise, even the greatest number of men never trouble themselves about such and such ways, and why then should you be singular and nice? You were far better do as the most do, etc.
 
 #strong[Now the remedies against this Device of Satan are these that follow.]
 
