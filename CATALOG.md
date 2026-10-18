@@ -17,7 +17,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.22.0.
+Built with colophon 0.23.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
