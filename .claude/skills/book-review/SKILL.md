@@ -187,6 +187,18 @@ so:
   ("1. The Most Eminent Saints…", "2. Christ Much Exercised…"), no typos,
   short titles that fit one line (`./fgb pdf` warns when a running head
   breaks the top margin).
+  Read the PDF's contents page against the chapters: the template pairs
+  `#metadata[...] <short>` lines with chapters *by position*, so a book
+  `.typ` with fewer short titles than chapters lists every later chapter
+  under the wrong name and runs pages under the previous chapter's head
+  (Grace Abounding and Keach, 2026-10-18). Every `#include` gets one.
+- **A CCEL text against two witnesses** (Grace Abounding, 1666 and Offor
+  1855): CCEL's keyed text often smooths the author (word order, "them
+  words" → "those words", "a-coming" → "coming") and drops short words. The
+  user's rule there: restore only words CCEL *lost* where both witnesses
+  agree; keep CCEL's order and forms; in passages only the later witness
+  has, follow it. Offor's *Works* (OCR in `~/.cache/fgb-scans/bunyan/`) is
+  the witness for Bunyan's enlarged texts.
 
 ### 4. Fix and ask
 
