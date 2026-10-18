@@ -17,11 +17,7 @@
   ],
 
   "front": {
-    "dedication": {"div": 2, "title": "The Epistle Dedicatory"},
-    "parallel-of-duties": {
-      "div": 3,
-      "title": "A Parallel of the Duties of Husbands and Wives"
-    }
+    "dedication": {"div": 2, "title": "The Epistle Dedicatory"}
   },
 
   "volumes": [
@@ -51,7 +47,7 @@
       "roman": "II",
       "subtitle": "The Second, Third and Fourth Treatises: Of Husband and Wife",
       "back-lead": "Who may marry and how a marriage is made; the duties husband and wife owe each other in common; and then, at length, the particular duties of wives and of husbands — each duty set against the fault that answers to it.",
-      "front": ["parallel-of-duties"],
+      "front": [],
       "chapters": [
         {"title": "Seeking Marriage", "div": 6, "sections": [1, 13]},
         {"title": "Getting Married", "div": 6, "sections": [14, 28]},

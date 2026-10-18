@@ -1,6 +1,6 @@
 {
   "release": "2026.10.17.2",
-  "colophon": "0.20.0",
+  "colophon": "0.22.0",
   "books": [
     {
       "book": "anonymous/the-anatomy-of-simon-magus",
@@ -50,12 +50,22 @@
         {
           "name": "the-anatomy-of-simon-magus-v6.1.pdf",
           "bytes": 959967,
-          "sha256": "9ba30c0a72d9d8b4b8f1d85d87cef75b0bc87628ddfd6580e84b5b9c6df56e75"
+          "sha256": "cbff3ea97248b45e1f46d04143449403811a186a03b4ed4a7876b92c3e834e00"
         },
         {
           "name": "the-anatomy-of-simon-magus-v6.1.epub",
           "bytes": 399860,
-          "sha256": "f821a2422bdf7b40fe187fb77fd9644be81f1af1e2dec4279d68c716dff378f4"
+          "sha256": "edd1859fffcf1d2b990e3dd12a96363a1f8a7e8202b5e4fe2dfcb9efa1be50d2"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.1-reader.html",
+          "bytes": 655511,
+          "sha256": "06b54181663104afd78e577e2e515040c9a95c35b72fbba82810dd7c0f2f8fa1"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.1-compare.html",
+          "bytes": 2527293,
+          "sha256": "df437c09b91fa672f64b379dbfc9f397a1601cc3b82eac1c24af8a318b87ee43"
         }
       ]
     },
@@ -112,12 +122,22 @@
         {
           "name": "all-of-grace-v15.1.pdf",
           "bytes": 601880,
-          "sha256": "7b2ed64c4d2825aa59b4435eab603644efaaa08ee0be84ff37b312899a996c20"
+          "sha256": "903bb30ac0ceb2ffb9cf13b0f3924c6b1cfa2d2343e9c3f5c9eabf9db9182c68"
         },
         {
           "name": "all-of-grace-v15.1.epub",
           "bytes": 249559,
-          "sha256": "4b600a2d6dc0b4c8d2bf0e8f2518b611449b0b56610256262f25f8f8023cc8a4"
+          "sha256": "24591e2f47d95999ccb86a88dc541730daa1777437aa2ba4b483678af6833e4e"
+        },
+        {
+          "name": "all-of-grace-v15.1-reader.html",
+          "bytes": 425037,
+          "sha256": "a4e0297035353298516cc44d7b3926ce34e279931d32129b83b891da8c0e92a4"
+        },
+        {
+          "name": "all-of-grace-v15.1-compare.html",
+          "bytes": 596382,
+          "sha256": "3ad71d51b59a4cdccdd92b7077b1ca065f4fb065b4fe479a5d7282b969993b17"
         }
       ]
     },
@@ -184,12 +204,12 @@
         {
           "name": "the-pilgrims-progress-v13.1.pdf",
           "bytes": 1661425,
-          "sha256": "f333bb20517c475088e9e867b052c303da55474debbb45cc0c2060ed6bed37a3"
+          "sha256": "3bd8d5ecc15d3cbb97c9a9183c7d9f22cb715c9fbafad5b14b55fa3437d39179"
         },
         {
           "name": "the-pilgrims-progress-v13.1-cover.pdf",
           "bytes": 17905,
-          "sha256": "8ca455f98e085853b6e6571382c62fd7ea0f77b9287b2d0c0ce0ad556aae15f5"
+          "sha256": "6c5974626b75345a9e0845284d9a0771e929167d7b1e5b257f737a7c87274eda"
         },
         {
           "name": "the-pilgrims-progress-v13.1-cover-front.png",
@@ -204,7 +224,17 @@
         {
           "name": "the-pilgrims-progress-v13.1.epub",
           "bytes": 411114,
-          "sha256": "730182b0ce82f610a95edac330761849dd55a4a7bef384925410b1746b6525b9"
+          "sha256": "30eca1ea1e86d82b714201f55526757307c2cc28bfc4d60c43928af3d3342ffe"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.1-reader.html",
+          "bytes": 901513,
+          "sha256": "35f1de2f58d6e0ac9c968f5d020dc0f2926b2ffda626e22fff66f6c01c043063"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.1-compare.html",
+          "bytes": 1377274,
+          "sha256": "0b5bb0ee415c738244363337ca56d5884a920e934ddfa696762a3aa4559549e3"
         }
       ]
     },
@@ -261,12 +291,22 @@
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v8.1.pdf",
           "bytes": 289709,
-          "sha256": "bab90c78157e79de7e7681cc5376d98f9ce625804147e5e1f41e5255c9f43f55"
+          "sha256": "3c2c37f240fa1a53bd960b1ab80e3d570220b7b67b647bc2e9a2a60d7c2c213b"
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v8.1.epub",
           "bytes": 181889,
-          "sha256": "b444d761112089dff7fa5eaa96f1c3f3a5b847e9deb0ef43ca6388befac74ab7"
+          "sha256": "24e26c71a65037a4f4907a3419dd75df942b052015deba528ddbd35349b3dc11"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1-reader.html",
+          "bytes": 282946,
+          "sha256": "5815c8e9cf7725c53fe0f62d61ce9fac22d294780733076cc3b9cf9de48a91f7"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1-compare.html",
+          "bytes": 650912,
+          "sha256": "89cf56b962f3d2f06a6e6dd8e07991293a8adfc295bc5ed90f6665851c5006eb"
         }
       ]
     },
@@ -327,12 +367,12 @@
         {
           "name": "the-glorious-feast-of-the-gospel-v13.1.pdf",
           "bytes": 839773,
-          "sha256": "b0dcb06ecb317bc70ab8c58a55958ea72db08382815e2668319b813657916056"
+          "sha256": "57775457490470b40b931371493f41d166a4d6b098b880d6e162582e2f0a4c02"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v13.1-cover.pdf",
           "bytes": 27185,
-          "sha256": "e2f9f5cfaaf6c3040431d1640266e2b80b7bd4230a72b91f85f0ba87b72de187"
+          "sha256": "e4cce89dfb66757a772f719b5adffbf285f997e06fac5fdc1f8b9f0148af11c1"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v13.1-cover-front.png",
@@ -347,7 +387,17 @@
         {
           "name": "the-glorious-feast-of-the-gospel-v13.1.epub",
           "bytes": 280030,
-          "sha256": "71c4ff0003e0f8e1dac2946ed88a45b4eedc390addcb1bc84d9cbf8fedb828ac"
+          "sha256": "1f978793466d0ab1afc3d7514e7629d3963c1dc381f9c94cfc39347c8e0145ab"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.1-reader.html",
+          "bytes": 541343,
+          "sha256": "803134fd92e12e8f65a539296e7888b59e9a6033440792844f9bfa8b26787fb5"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.1-compare.html",
+          "bytes": 4194686,
+          "sha256": "5d182728e31e4b62edc3a2d9998fa37d39007697868b841552f873c90829f681"
         }
       ]
     },
@@ -412,12 +462,12 @@
         {
           "name": "the-secret-key-of-heaven-v6.1.pdf",
           "bytes": 1398620,
-          "sha256": "ffec5360df9dfc46c61d62be5c3f11124a3d88996a7d1cc40281407ac5e828b3"
+          "sha256": "03c5c942691e5effa5140b217bbf956ba54cfa820f3d385daae7382e1add497f"
         },
         {
           "name": "the-secret-key-of-heaven-v6.1-cover.pdf",
           "bytes": 19305,
-          "sha256": "5d6f585992426d17e92ba45479ab1de6d821027fb440d7ffb6456da3796aba5c"
+          "sha256": "347fddce7d7d0411200533fda7f10e29e7640ee1a4e24cf686f90f522c1c5cb4"
         },
         {
           "name": "the-secret-key-of-heaven-v6.1-cover-front.png",
@@ -432,7 +482,17 @@
         {
           "name": "the-secret-key-of-heaven-v6.1.epub",
           "bytes": 355227,
-          "sha256": "ae3efc6c48e3a781a5564d626fdd247782f5accd787094a84d1e99d47568a221"
+          "sha256": "64e2aedc1209ff508cc7b0d8f45b486dd308c412fddf2d28876d3cd35059091c"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.1-reader.html",
+          "bytes": 718445,
+          "sha256": "dfeec306ab26cad66a3b8eaccd925d20850398d7473af57e38fa26f9fc6ff8c9"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.1-compare.html",
+          "bytes": 7566434,
+          "sha256": "12c4d80325840eba415bae718578e1ea72c861066ed552bcd8db5cfbb331eb91"
         }
       ]
     },
@@ -445,7 +505,7 @@
       "summary": "Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied.",
       "signed_off": {
         "tag": "william-gouge/domestical-duties/v1",
-        "commit": "e02ff3dd1d450c404650a83310631558faf336e1",
+        "commit": "16dc4ff1936560134b14725a53dc0462c6824ee2",
         "date": "2026-10-17",
         "signer": "Courtney Hicks",
         "note": "",
@@ -486,13 +546,13 @@
       ],
       "coverage": {
         "words": 290439,
-        "form": 72878,
+        "form": 72876,
         "grammar": 155,
         "wording": 1019,
         "added": 383,
         "removed": 728,
-        "by_editor": 2735,
-        "by_machine": 68361,
+        "by_editor": 2730,
+        "by_machine": 68364,
         "gaps": 717,
         "restored": 717,
         "open": 0,
@@ -507,42 +567,42 @@
         {
           "name": "domestical-duties-v1-vol-1.pdf",
           "bytes": 3347752,
-          "sha256": "812ce1baa968fc384784ce5ff20c5b80429ed628f4e04e501320c4b36ce5e44e"
+          "sha256": "c53698f7795fd2a0634111d02e9b53dd59f62d210e1815557b525568d280b608"
         },
         {
           "name": "domestical-duties-v1-vol-2.pdf",
-          "bytes": 4371494,
-          "sha256": "83ecfde527f27f7aebb94a352ba0538990e7c5627d31e799cbe26f42d04e9f94"
+          "bytes": 4343274,
+          "sha256": "6370b7740f30da36468a4c89427725c3831078fad7531ee613a52261f0eb1e03"
         },
         {
           "name": "domestical-duties-v1-vol-3.pdf",
           "bytes": 2929859,
-          "sha256": "be0d0fae6fb1d5561cde5bc47ec81c740fc50da9b03e18ad9c402ca135745985"
+          "sha256": "6cdbeaa9ce8f0778e3ec3b4d7fef4a023b0ede9e6a21ce31927299fcb41cbc6c"
         },
         {
           "name": "domestical-duties-v1-vol-4.pdf",
           "bytes": 2305837,
-          "sha256": "fc04e56778c044bee55a8e422503c40a092d58028c17314bd626689af5fbc004"
+          "sha256": "a35c7fac4fcdb53ee71ad8e1be38555385b1e913bb12b0ceda3217f9ba37cdb8"
         },
         {
           "name": "domestical-duties-v1-cover-vol-1.pdf",
           "bytes": 32477,
-          "sha256": "4a0cc377d1fe00fbf56084e5b275c29712708393cfd21810ab2ffae96521fc3d"
+          "sha256": "69abd82962d59b3b260e09206908996d8ecdcd655f50cd22a810bcf9f5698c22"
         },
         {
           "name": "domestical-duties-v1-cover-vol-2.pdf",
-          "bytes": 32441,
-          "sha256": "805a812b62ad45dec2d4e86dc575871b9f66cf1c4ab691ac3f23a6b94299de1d"
+          "bytes": 32440,
+          "sha256": "78b557e1f7f0ca378ad3b03ecbb430712c44814f39f0cc6c328398b16a464b67"
         },
         {
           "name": "domestical-duties-v1-cover-vol-3.pdf",
           "bytes": 30795,
-          "sha256": "c575adc164d0cb6870cee6c8c2cf8414e66195edc480fbccfc8c5fc108fa3dc7"
+          "sha256": "ff1e181f80536bcfa1d7f07dbfc3b967634d14bb95d581fc3d4b7311fc601bc6"
         },
         {
           "name": "domestical-duties-v1-cover-vol-4.pdf",
           "bytes": 31245,
-          "sha256": "c21f8eaf9ee1002abe9b0f8faffec9f070aaa7827bc08db0df45ecb7af40b4e7"
+          "sha256": "1b12840891d4f3f1cfd016077c01172c1fdf429c1a02f43a3ca2c1147c3bd162"
         },
         {
           "name": "domestical-duties-v1-cover-vol-1-front.png",
@@ -571,8 +631,8 @@
         },
         {
           "name": "domestical-duties-v1-vol-1.epub",
-          "bytes": 411232,
-          "sha256": "47ff29772b8a6aa6d6bc48376a321c17477a17dd0ed7631ce1ecc0c56f5a5957"
+          "bytes": 411231,
+          "sha256": "a01e844331a6ee1879c6d7eaba206a621ce2490828a33edaa5c59472791548d0"
         },
         {
           "name": "domestical-duties-v1-cover-vol-2-front.png",
@@ -581,8 +641,8 @@
         },
         {
           "name": "domestical-duties-v1-vol-2.epub",
-          "bytes": 508999,
-          "sha256": "0c098096a00e56075398f0ad3941d961814615f1c35fb87b6eaa53244408cdd4"
+          "bytes": 505949,
+          "sha256": "03089dce9a83ef3603b269d1428ef27be08280ead73f9c8366ff4e01e534b7eb"
         },
         {
           "name": "domestical-duties-v1-cover-vol-3-front.png",
@@ -592,7 +652,7 @@
         {
           "name": "domestical-duties-v1-vol-3.epub",
           "bytes": 402717,
-          "sha256": "932b90bc7556a0bfc67b77b0ec5855b2805b8c37d221b90fe67be514f87cf18a"
+          "sha256": "ebc49ef416883ca266d60c36f0cdc6ec1fc19a02f13e1dae281f177052ef99c0"
         },
         {
           "name": "domestical-duties-v1-cover-vol-4-front.png",
@@ -602,7 +662,47 @@
         {
           "name": "domestical-duties-v1-vol-4.epub",
           "bytes": 360463,
-          "sha256": "35069414f429c634521290b13d06179cb4bb0fbb0cee4b4fea5fca3ff7bdf8f8"
+          "sha256": "0321cfa4b88b716552a4a3d473dfd9e2248ada33683262045d7daa80786158e0"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-reader.html",
+          "bytes": 956413,
+          "sha256": "cb5ea06f35f098faf29c85ff733ea665c3da4b1c13b4f7d3215ecc1e88caaaad"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-compare.html",
+          "bytes": 4747849,
+          "sha256": "7f05caf14d58fe9270a24f9ecfdb0f284a2bfe52c9119343d1953a6c271e7e45"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-reader.html",
+          "bytes": 1230863,
+          "sha256": "44ae9a96e0b6aad1b3d14aa5534b399ea194c079fba5bdcbac9d7d089e006e83"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-compare.html",
+          "bytes": 7101130,
+          "sha256": "ad6c92a463da1440bae460701cddb5bc3cf544a833e4f5e90091b0f635603b77"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-reader.html",
+          "bytes": 914965,
+          "sha256": "c24c2ec44b0e013f39deeb0c857feb38bc4acf373ac74446e6a64a04430bcef1"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-compare.html",
+          "bytes": 4472329,
+          "sha256": "5d1aade24bc581a8d36b0c756f7ac51fbc174590e75ae7bd647d3e43dd20b311"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-reader.html",
+          "bytes": 769024,
+          "sha256": "e721d9e0dc4ec579f1a827c031e52da3c4663be9555fb9b1ae258c1b04e84904"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-compare.html",
+          "bytes": 3705798,
+          "sha256": "d5ba9cddf6e3604726a74c4433c335cbf50b5e2b9e4c2d880d6d65c5dfce55b9"
         }
       ]
     }

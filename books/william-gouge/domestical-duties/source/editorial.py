@@ -14,11 +14,13 @@ SKIP_DIVISIONS = {"title_page", "table_of_contents"}
 
 
 def SKIP_BLOCKS(root):
-    """The printer's errata leaf ("Some faults escaped", keyed to the 1622
-    pages): every correction it lists is made in the text, so the edition
-    leaves the leaf out (division 14; division 3, also typed errata, is the
-    parallel of duties, which the edition keeps)."""
-    return [layout.top_divs(root)[13]]
+    """Left out of the edition, kept in the TEI: the printer's errata leaf
+    ("Some faults escaped", keyed to the 1622 pages; every correction it lists
+    is made in the text), division 14; and the parallel of husbands' and
+    wives' duties, division 3 (in v1; the editor took it out of the print,
+    2026-10-17)."""
+    divs = layout.top_divs(root)
+    return [divs[2], divs[13]]
 
 # Gouge writes in numbered sections (heading level 3 under the edition's
 # chapters); a question or objection inside a section has a run-in head.
@@ -143,7 +145,8 @@ TYPST_ENUM = None
 
 # The parallel of husbands' and wives' duties (after the errata note), printed
 # "laid even one against another in one view": wives' duties against
-# husbands', wives' aberrations against husbands'. Set as two columns.
+# husbands', wives' aberrations against husbands'. Encoded as two columns (as
+# v1 printed it); left out of the edition since (SKIP_BLOCKS).
 def PARALLEL_TABLES(root):
     ns = {"t": "http://www.tei-c.org/ns/1.0"}
     tables = root.xpath("//t:div[@type='errata'][1]//t:table", namespaces=ns)

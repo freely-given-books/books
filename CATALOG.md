@@ -17,7 +17,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.20.0.
+Built with colophon 0.22.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ The 1700 printing in modern spelling and grammar, with translations of the Latin
 - a point version: an improved edition after Lulu revision 6 (the sign-off note says whether its print is still that revision's)
 - sign-off note: Print: changed since v6 (the-anatomy-of-simon-magus.pdf: 2 page(s) differ: 17, 62); not a Lulu revision.
 - source: EEBO-TCP A25330: The Anatomy of Simon Magus, or, The Sin of Simony Laid Open (London, Charles Brome, 1700) <https://github.com/textcreationpartnership/A25330>, `source/A25330.tcp.xml` (sha256 `3a437401c8512841…`)
-- files: `the-anatomy-of-simon-magus-v6.1.pdf`, `the-anatomy-of-simon-magus-v6.1.epub`
+- files: `the-anatomy-of-simon-magus-v6.1.pdf`, `the-anatomy-of-simon-magus-v6.1.epub`, `the-anatomy-of-simon-magus-v6.1-reader.html`, `the-anatomy-of-simon-magus-v6.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -61,7 +61,7 @@ Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed.
 - sign-off note: Print: the same as v15, page for page (Lulu revision 15).
 - source: CCEL ThML: C. H. Spurgeon, All of Grace (1886) <https://www.ccel.org/ccel/s/spurgeon/grace.xml>, `source/grace.thml.xml` (sha256 `7980c795972bb279…`)
 - witness: Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md <https://www.monergism.com/>
-- files: `all-of-grace-v15.1.pdf`, `all-of-grace-v15.1.epub`
+- files: `all-of-grace-v15.1.pdf`, `all-of-grace-v15.1.epub`, `all-of-grace-v15.1-reader.html`, `all-of-grace-v15.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -84,7 +84,7 @@ Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1
 - source: EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md <https://github.com/textcreationpartnership/A30170>, `source/A30170.witness.xml` (sha256 `14c3c96cab3e5a57…`)
 - witness: The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md <https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732>
 - witness: biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only
-- files: `the-pilgrims-progress-v13.1.pdf`, `the-pilgrims-progress-v13.1-cover.pdf`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1.epub`
+- files: `the-pilgrims-progress-v13.1.pdf`, `the-pilgrims-progress-v13.1-cover.pdf`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1-cover-front.png`, `the-pilgrims-progress-v13.1.epub`, `the-pilgrims-progress-v13.1-reader.html`, `the-pilgrims-progress-v13.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -105,7 +105,7 @@ Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a s
 - sign-off note: Print: changed since v8 (sinners-in-the-hands-of-an-angry-god.pdf: 10 page(s) differ: 7, 17, 19, 26, 33, 34, 35, 36, 37, 38); not a Lulu revision.
 - source: EEBO-TCP (Evans) N05520: Edwards, True Grace (New York, James Parker, 1753), with the second edition of Sinners in the Hands of an Angry God bound after it (pp. 43-62) <https://github.com/textcreationpartnership/N05520>, `source/N05520.tcp.xml` (sha256 `9600c9fdc53098be…`)
 - witness: The Berean Standard Bible, for the scripture quotations: source/proofread-report.md <https://berean.bible/>
-- files: `sinners-in-the-hands-of-an-angry-god-v8.1.pdf`, `sinners-in-the-hands-of-an-angry-god-v8.1.epub`
+- files: `sinners-in-the-hands-of-an-angry-god-v8.1.pdf`, `sinners-in-the-hands-of-an-angry-god-v8.1.epub`, `sinners-in-the-hands-of-an-angry-god-v8.1-reader.html`, `sinners-in-the-hands-of-an-angry-god-v8.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -127,7 +127,7 @@ Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spell
 - source: EEBO-TCP A93248: The Glorious Feast of the Gospel (London, John Rothwell, 1650) <https://github.com/textcreationpartnership/A93248>, `source/A93248.tcp.xml` (sha256 `d95173b14fc232a3…`)
 - witness: Monergism's modernized text (from the SDG reprint; (c) Monergism Books 2017), a check only: source/witness-report.md <https://www.monergism.com/>
 - witness: The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650
-- files: `the-glorious-feast-of-the-gospel-v13.1.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1.epub`
+- files: `the-glorious-feast-of-the-gospel-v13.1.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover.pdf`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1-cover-front.png`, `the-glorious-feast-of-the-gospel-v13.1.epub`, `the-glorious-feast-of-the-gospel-v13.1-reader.html`, `the-glorious-feast-of-the-gospel-v13.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -151,7 +151,7 @@ Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier cop
 - witness: Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md <https://www.chapellibrary.org/>
 - witness: The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places <https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665>
 - witness: The earlier Freely Given Books copy (lightly modernized), folded in as the review
-- files: `the-secret-key-of-heaven-v6.1.pdf`, `the-secret-key-of-heaven-v6.1-cover.pdf`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1.epub`
+- files: `the-secret-key-of-heaven-v6.1.pdf`, `the-secret-key-of-heaven-v6.1-cover.pdf`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1-cover-front.png`, `the-secret-key-of-heaven-v6.1.epub`, `the-secret-key-of-heaven-v6.1-reader.html`, `the-secret-key-of-heaven-v6.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -175,12 +175,12 @@ Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in mo
 - witness: The second edition (1626, in The Workes of William Gouge), consulted for single readings <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1626>
 - witness: The third edition (1634), consulted for single readings and the errata <https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1634>
 - witness: The earlier Freely Given Books edition (made with the converter before the TEI): source/migration-differences.md
-- files: `domestical-duties-v1-vol-1.pdf`, `domestical-duties-v1-vol-2.pdf`, `domestical-duties-v1-vol-3.pdf`, `domestical-duties-v1-vol-4.pdf`, `domestical-duties-v1-cover-vol-1.pdf`, `domestical-duties-v1-cover-vol-2.pdf`, `domestical-duties-v1-cover-vol-3.pdf`, `domestical-duties-v1-cover-vol-4.pdf`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-vol-1.epub`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-vol-2.epub`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-vol-3.epub`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-vol-4.epub`
+- files: `domestical-duties-v1-vol-1.pdf`, `domestical-duties-v1-vol-2.pdf`, `domestical-duties-v1-vol-3.pdf`, `domestical-duties-v1-vol-4.pdf`, `domestical-duties-v1-cover-vol-1.pdf`, `domestical-duties-v1-cover-vol-2.pdf`, `domestical-duties-v1-cover-vol-3.pdf`, `domestical-duties-v1-cover-vol-4.pdf`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-cover-vol-1-front.png`, `domestical-duties-v1-vol-1.epub`, `domestical-duties-v1-cover-vol-2-front.png`, `domestical-duties-v1-vol-2.epub`, `domestical-duties-v1-cover-vol-3-front.png`, `domestical-duties-v1-vol-3.epub`, `domestical-duties-v1-cover-vol-4-front.png`, `domestical-duties-v1-vol-4.epub`, `domestical-duties-v1-vol-1-reader.html`, `domestical-duties-v1-vol-1-compare.html`, `domestical-duties-v1-vol-2-reader.html`, `domestical-duties-v1-vol-2-compare.html`, `domestical-duties-v1-vol-3-reader.html`, `domestical-duties-v1-vol-3-compare.html`, `domestical-duties-v1-vol-4-reader.html`, `domestical-duties-v1-vol-4-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
 - 290,439 printed words; 74.5% as printed
-- changed in form only (spelling, case, punctuation): 72,878 words (25.1%)
+- changed in form only (spelling, case, punctuation): 72,876 words (25.1%)
 - grammar modernized (hath -> has, thou -> you): 155 words (0.1%)
 - changed in wording (emendations): 1,019 words (0.4%); 383 words added, 728 removed
 - gaps in the transcription: 717, 717 restored, 0 left open
