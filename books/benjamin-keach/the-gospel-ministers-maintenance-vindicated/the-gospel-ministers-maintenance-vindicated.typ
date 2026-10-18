@@ -39,10 +39,13 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
 )
 
+#metadata[Foreword] <short>
 #include "chapters/typ/foreword.typ"
 
+#metadata[Recommendation] <short>
 #include "chapters/typ/recommendation.typ"
 
+#metadata[A Regular Ministry in the Church Asserted] <short>
 #include "chapters/typ/chapter-01.typ"
 
 #metadata[The Minister’s Maintenance Vindicated] <short>
