@@ -136,6 +136,21 @@ so:
   proofread once already, gave 67 fixes and 66 questions in 43,000 words
   once Offor's 1855 text was added (2026-10-18). The brief for a CCEL book
   with two witnesses is `references/reader-brief-ccel-example.md`.
+  Precious Remedies, proofread once against Monergism's keyed Grosart,
+  gave 141 fixes and 43 questions in 98,000 words against Grosart's
+  *printed* edition (archive.org OCR): the footnotes the keyed copy drops
+  are where he corrects references, names and Latin, and he records the
+  first edition's readings. Prefer a printed scholarly edition's scan over
+  a keyed copy of it, and tell readers to check every footnote there.
+- **Apply a settled spelling everywhere, by grep, the day it is settled.**
+  The first pass settled Ahithophel, Jerome, temptation and others, but
+  applied them only where a reader had proposed them; the second pass
+  found them still printed the old way in other files.
+- A rule like "hyphenate the a- prefix" (a-crying) needs reading each hit:
+  most "a turning" are the article ("repentance is a turning from sin");
+  only progressives after be/day ("they are every day a-crying out") take
+  the hyphen. Expanding "&" likewise keeps it in Latin ("ille hodie & ego
+  cras"): list every hit with its words around, then keep a short list.
 - Don't apply one reader's fixes while another is reading the same file:
   merged paragraphs shift its line ranges. Apply after the last reader.
 
