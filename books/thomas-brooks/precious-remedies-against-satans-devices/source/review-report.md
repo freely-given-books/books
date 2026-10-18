@@ -6,14 +6,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1402 |
-| emendation | 230 |
+| spelling | 1476 |
+| emendation | 237 |
 | note | 222 |
 | punctuation | 154 |
 | case | 145 |
 | gap | 31 |
 | spacing | 30 |
-| grammar | 24 |
+| grammar | 26 |
 | italic | 10 |
 | expansion | 3 |
 | note moved | 2 |
@@ -143,6 +143,7 @@
 - [sin-10.typ] . Of → of
 - [sin-10.typ] beatificallvision . → beatifical vision!
 - [sin-10.typ] this → this is
+- [sin-11.typ note] I → ay
 - [sin-11.typ note] 3 → 
 - [sin-11.typ note] Remedy → 
 - [sin-11.typ note] 13 → 30, 31
@@ -154,6 +155,7 @@
 - [sin-11.typ note] a → 
 - [sin-11.typ note] from → from ענה
 - [sin-11.typ] honey combe → honeycomb
+- [sin-11.typ] I → ay
 - [sin-12.typ note] bath → bath with
 - [sin-12.typ note] v . → 
 - [sin-12.typ note] 3 . Remedy . → 
@@ -184,6 +186,7 @@
 - [duties-03.typ note] were → worn
 - [duties-03.typ] keeping under → strengthening
 - [duties-03.typ] 4 → 
+- [duties-03.typ] I → ay
 - [duties-04.typ note] 2 . → 
 - [duties-04.typ note] 6 → 16
 - [duties-04.typ] him self → himself
@@ -192,12 +195,14 @@
 - [duties-05.typ note] John → John 7.
 - [duties-05.typ note] 1 . Remedy . → 
 - [duties-05.typ] have → have not
+- [duties-05.typ] I → ay,
 - [duties-05.typ] 19 → 17
 - [duties-06.typ note] 4 . 12 . → 
 - [duties-06.typ note] Chap . → 
 - [duties-06.typ] for sake → forsake
 - [duties-07.typ note] 1 Remedy . → 
 - [duties-07.typ note] in stead → instead
+- [duties-07.typ note] forever → for ever
 - [duties-07.typ note] 5 . Remedy . → 
 - [duties-07.typ note] 3 → 35
 - [duties-07.typ note] 8 → 18
@@ -269,6 +274,7 @@
 - [propositions.typ note] 13 → 31
 - [propositions.typ note] 5 . → 
 - [propositions.typ note] Chap . → 
+- [propositions.typ note] Mica . → Micah
 - [propositions.typ note] 1 → 16
 - [propositions.typ note] 6 Proposition . → 
 - [propositions.typ] I → ay,
@@ -282,6 +288,7 @@
 - [use.typ note] 4 : → 
 - [use.typ] away → a way
 - [use.typ] entrapus → entrap us
+- [appendix-01.typ note] Mica . → Micah
 - [appendix-01.typ note] 1 → 7
 - [appendix-01.typ] there - I'le → therefore I'll
 - [appendix-01.typ] spiritual madnesse → spiritual madness
@@ -301,7 +308,7 @@
 ## grammar
 
 - loueth → loveth (×6)
-- doest → dost (×3)
+- doest → dost (×5)
 - abhorest → abhorrest
 - applyeth → applieth
 - bloteth → blotteth
@@ -547,10 +554,12 @@
 - then → than (×258)
 - Gods → God's (×56)
 - mans → man's (×33)
+- judgement → judgment (×24)
 - loose → lose (×18)
 - dye → die (×17)
 - lye → lie (×17)
 - souls → soul's (×17)
+- judgements → judgments (×13)
 - Fathers → Father's (×11)
 - borne → born (×10)
 - worlds → world's (×10)
@@ -562,8 +571,13 @@
 - jewell → jewel (×7)
 - paine → pain (×7)
 - Christians → Christian's (×6)
+- Magdalen → Magdalene (×6)
+- Mica → Micah (×6)
 - tho → though (×6)
+- travel → travail (×6)
+- woful → woeful (×6)
 - devils → devil's (×5)
+- scepter → sceptre (×5)
 - Achitophel → Ahithophel (×4)
 - I'le → I'll (×4)
 - Isa → Isa. (×4)
@@ -610,12 +624,15 @@
 - Jacobs → Jacob's (×2)
 - Jews → Jews' (×2)
 - Lots → Lot's (×2)
+- Manasses → Manasseh (×2)
 - Marry → Mary (×2)
+- Micha → Micah (×2)
 - Mistresses → Mistress's (×2)
 - Plutark → Plutarch (×2)
 - Psal → Psal. (×2)
 - Saints → Saints' (×2)
 - Stevens → Stephen's (×2)
+- Wo → Woe (×2)
 - applyed → applied (×2)
 - believers → believer's (×2)
 - bitterns → bitterness (×2)
@@ -634,6 +651,7 @@
 - grins → gins (×2)
 - harlots → harlot's (×2)
 - heavens → heaven's (×2)
+- honor → honour (×2)
 - horne → horn (×2)
 - host → hast (×2)
 - hours → hour's (×2)
@@ -658,12 +676,10 @@
 - tentation → temptation (×2)
 - them → them. (×2)
 - too → to (×2)
-- travel → travail (×2)
 - trunck → trunk (×2)
 - vilde → vile (×2)
 - vildness → vileness (×2)
 - whether → whither (×2)
-- woful → woeful (×2)
 - 'temptations → temptations
 - 1 → 1.
 - 10 → 10.
@@ -766,6 +782,7 @@
 - Jay → lay
 - Jehosaphat → Jehoshaphat
 - Jer → Jer.
+- Jeremy → Jeremiah
 - Jerom → Jerome
 - Jesurum → Jeshurun
 - Jezabels → Jezebel's
@@ -791,7 +808,7 @@
 - Luk → Luk.
 - Luther → Luther,
 - Lyon → lion
-- Manasses → Manasses'
+- Manasses → Manasseh'
 - Mat → Mat.
 - Mathew → Matthew
 - Maximimilians → Maximilian's
@@ -1178,6 +1195,7 @@
 - selicity → felicity
 - sell → fell
 - seperated → separated
+- sepulcher → sepulchre
 - servilly → servilely
 - set → sit
 - sets → set
@@ -1254,6 +1272,7 @@
 - thundering → thundering.
 - tnd → and
 - toile → toil
+- travelled → travailed
 - traytor → traitor
 - triflles → trifles
 - triumph't → triumphed
@@ -1292,6 +1311,7 @@
 - wisht → wished
 - within → within.
 - wits → wits'
+- wo → woe
 - wordly → worldly
 - worlds → words
 - worldy → worldly

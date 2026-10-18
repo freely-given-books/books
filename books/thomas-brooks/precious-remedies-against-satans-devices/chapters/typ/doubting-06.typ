@@ -2,7 +2,7 @@
 
 #strong[The sixth Device that Satan hath to keep a poor soul in a sad, doubting, and questioning condition, is,]
 
-BY suggesting to the soul, that surely his estate is not good, because he cannot joy and rejoice in Christ, as once he could, because he hath lost that comfort and joy that once was in his spirit. Saith Satan, thou knowest the time was, when thy heart was much carried out to joying and rejoicing in Christ; thou doest not forget the time when thy heart used to be full of joy and comfort; but now, how art thou fallen in thy joys and comforts? Therefore thy estate is not good, thou doest but deceive thy self, to think that ever it was good, for surely if it had, thy joy and comfort would have continued. And hereupon the soul is apt to take part with Satan, and say, ’tis even so, I see all is naught, and I have but deceived my own soul, #emph[etc.]
+BY suggesting to the soul, that surely his estate is not good, because he cannot joy and rejoice in Christ, as once he could, because he hath lost that comfort and joy that once was in his spirit. Saith Satan, thou knowest the time was, when thy heart was much carried out to joying and rejoicing in Christ; thou dost not forget the time when thy heart used to be full of joy and comfort; but now, how art thou fallen in thy joys and comforts? Therefore thy estate is not good, thou dost but deceive thy self, to think that ever it was good, for surely if it had, thy joy and comfort would have continued. And hereupon the soul is apt to take part with Satan, and say, ’tis even so, I see all is naught, and I have but deceived my own soul, #emph[etc.]
 
 #strong[Now the Remedies against this device of Satan are these that follow.]
 
