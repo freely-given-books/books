@@ -8,13 +8,15 @@ summary = "Gouge's Of Domesticall Duties (1622), all eight treatises in four vol
 
 # Footnotes Typst sets a page from their marker, accepted by the editor
 # (2026-10-11; a Typst limitation, not a Lulu rule). A new one fails the gate.
+# Notes are kept whole since 2026-10-17 (none broken over a page), which moved
+# a few: the list is the set as now built.
 accepted_print = [
   "domestical-duties-vol-1.pdf: footnote 277 is set on page 67, its marker on page 66",
-  "domestical-duties-vol-1.pdf: footnote 288 is set on page 67, its marker on page 68",
   "domestical-duties-vol-1.pdf: footnote 308 is set on page 73, its marker on page 74",
   "domestical-duties-vol-1.pdf: footnote 454 is set on page 102, its marker on page 103",
   "domestical-duties-vol-1.pdf: footnote 866 is set on page 181, its marker on page 182",
   "domestical-duties-vol-1.pdf: footnote 981 is set on page 213, its marker on page 214",
+  "domestical-duties-vol-2.pdf: footnote 674 is set on page 165, its marker on page 166",
   "domestical-duties-vol-2.pdf: footnote 719 is set on page 180, its marker on page 181",
   "domestical-duties-vol-2.pdf: footnote 733 is set on page 185, its marker on page 186",
   "domestical-duties-vol-2.pdf: footnote 879 is set on page 222, its marker on page 223",
