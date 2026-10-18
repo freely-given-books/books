@@ -201,9 +201,16 @@ bewitched; won't and might'st kept); today, tomorrow; the a- prefix
 hyphenated where it marks a progressive (a-crying, a-doing, a-mourning).
 
 **Left as is:** the Nazianzen note "Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ
-πνεύματος" translated "the Devil's flame" (settled in the first proofread;
-the saying is usually quoted with τοῦ πονηροῦ, "the evil one's", which
-would fit the translation; the 1652 prints πνεύματα).
+πνεύματος", translated "the Devil's flame" (the editor's decision,
+2026-10-18). The 1653 copy's Greek is lost (a TCP gap). The 1652 margin
+prints "τοῦ πνεύμα-τα" (split over two lines), and the 1658 copies it, so
+the later printings never corrected it. "πνεύματα" is plural and cannot
+follow "τοῦ", so it is most likely a slip in the 1652's cramped margin.
+Grosart (1866, p. 153 note) prints "δε φλοξ διαβολου π·ματα": his own
+change to fit the English ("of the devil"), not an older reading. The
+edition keeps the first proofread's "πνεύματος", the smallest change that
+makes the Greek grammatical ("the flame of the spirit", the evil one). The
+saying has not been traced in Gregory's works.
 
 ### Checks
 
