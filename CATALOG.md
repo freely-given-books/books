@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.10.17.2
+# Freely Given Books: release 2026.10.18
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -23,6 +23,7 @@ Built with colophon 0.23.0.
 | --- | --- | --- | --- |
 | [The Anatomy of Simon Magus](#the-anatomy-of-simon-magus) | Anonymous | v6.1 (between Lulu revisions) | 2026-10-17 |
 | [All of Grace](#all-of-grace) | Charles Spurgeon | v15.1 (between Lulu revisions) | 2026-10-17 |
+| [Grace Abounding to the Chief of Sinners](#grace-abounding-to-the-chief-of-sinners) | John Bunyan | v1 | 2026-10-18 |
 | [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v13.1 (between Lulu revisions) | 2026-10-17 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v8.1 (between Lulu revisions) | 2026-10-17 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v13.1 (between Lulu revisions) | 2026-10-17 |
@@ -69,6 +70,26 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - changed in form only (spelling, case, punctuation): 209 words (0.6%)
 - grammar modernized (hath -> has, thou -> you): 1 words (0.0%)
 - changed in wording (emendations): 8 words (0.0%); 1 words added, 1 removed
+- gaps in the transcription: none
+
+## Grace Abounding to the Chief of Sinners
+
+Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition and George Offor's 1855 edition.
+
+- folder: `books/john-bunyan/grace-abounding`
+- version v1: tag `john-bunyan/grace-abounding/v1`, signed off 2026-10-18 by Courtney Hicks
+- template: fgbooks 0.12.0
+- source: CCEL ThML: John Bunyan, Grace Abounding to the Chief of Sinners (Bunyan's enlarged text) <https://www.ccel.org/ccel/b/bunyan/grace.xml>, `source/grace.thml.xml` (sha256 `21dba22cf36ddec4…`)
+- source: EEBO-TCP A30143: Grace Abounding to the Chief of Sinners (London, George Larkin, 1666), the first edition, a witness: source/witness-report.md <https://github.com/textcreationpartnership/A30143>, `source/A30143.witness.xml` (sha256 `6d927ab6622091da…`)
+- witness: The Works of John Bunyan, ed. George Offor (1855), vol. 1, archive.org scan and OCR, the witness for the passages added after 1666: source/proofread-report.md <https://archive.org/details/worksofjohnbunya01buny>
+- files: `grace-abounding-v1.pdf`, `grace-abounding-v1-cover.pdf`, `grace-abounding-v1-cover-front.png`, `grace-abounding-v1-cover-front.png`, `grace-abounding-v1.epub`, `grace-abounding-v1-reader.html`, `grace-abounding-v1-compare.html`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 44,222 printed words; 99.4% as printed
+- changed in form only (spelling, case, punctuation): 116 words (0.3%)
+- grammar modernized (hath -> has, thou -> you): 1 words (0.0%)
+- changed in wording (emendations): 136 words (0.3%); 122 words added, 22 removed
 - gaps in the transcription: none
 
 ## The Pilgrim's Progress
