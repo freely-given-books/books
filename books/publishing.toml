@@ -13,7 +13,7 @@ lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/
 lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
 
 ["john-bunyan/grace-abounding"]
-lulu = ""
+lulu = "https://www.lulu.com/shop/john-bunyan/grace-abounding-to-the-chief-of-sinners/paperback/product-p6mpygr.html"
 note = """The site's grace-abounding is another edition, not Courtney's: this one \
 replaces it entirely, under the same slug and URLs. Licence CC0; credits add \
 courtney-hicks, prepared: true. The old copy's other formats go: remove the \
@@ -26,19 +26,24 @@ the owner wants it changed."""
 lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
 
 ["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
-lulu = ""
+lulu = "https://www.lulu.com/shop/jonathan-edwards-and-courtney-hicks/sinners-in-the-hands-of-an-angry-god/paperback/product-65w6dz7.html"
 
 ["richard-sibbes/the-glorious-feast-of-the-gospel"]
 lulu = "https://www.lulu.com/shop/richard-sibbes/the-glorious-feast-of-the-gospel/paperback/product-w4ywv7q.html"
 
 ["thomas-brooks/precious-remedies-against-satans-devices"]
-lulu = ""
+lulu = "https://www.lulu.com/shop/thomas-brooks/precious-remedies-against-satans-devices/paperback/product-dy7vjp4.html"
 
 ["thomas-brooks/the-secret-key-of-heaven"]
 lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
 
 ["william-gouge/domestical-duties"]
-lulu = ["", "", "", ""]   # volumes 1-4
+lulu = [
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-1/paperback/product-dy759jz.html",
+  "https://www.lulu.com/shop/william-gouge-and-courtney-hicks/domestical-duties-volume-2/paperback/product-q679ezr.html",
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-3/paperback/product-p6mvre9.html",
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-4/paperback/product-v8nzvjr.html"
+]   # volumes 1-4
 
 ["1689-baptist-confession/1689-baptist-confession"]
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
