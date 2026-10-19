@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.10.18
+# Freely Given Books: release 2026.10.18.2
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -27,6 +27,7 @@ Built with colophon 0.23.0.
 | [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v13.1 (between Lulu revisions) | 2026-10-17 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v8.1 (between Lulu revisions) | 2026-10-17 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v13.1 (between Lulu revisions) | 2026-10-17 |
+| [Precious Remedies Against Satan’s Devices](#precious-remedies-against-satans-devices) | Thomas Brooks | v1 | 2026-10-18 |
 | [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v6.1 (between Lulu revisions) | 2026-10-17 |
 | [Of Domestical Duties](#of-domestical-duties) | William Gouge | v1 | 2026-10-17 |
 
@@ -158,6 +159,29 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - changed in wording (emendations): 1,127 words (2.0%); 830 words added, 356 removed
 - gaps in the transcription: 12, 12 restored, 0 left open
 - notes: 0 added by the editor, 385 printed notes left out
+
+## Precious Remedies Against Satan’s Devices
+
+Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866).
+
+- folder: `books/thomas-brooks/precious-remedies-against-satans-devices`
+- version v1: tag `thomas-brooks/precious-remedies-against-satans-devices/v1`, signed off 2026-10-18 by Courtney Hicks
+- template: fgbooks 0.12.0
+- source: EEBO-TCP A77614: Precious Remedies against Satans Devices (London, M. Simmons for John Hancock, 1653), the second edition <https://github.com/textcreationpartnership/A77614>, `source/A77614.tcp.xml` (sha256 `0d7babe825595733…`)
+- witness: The Complete Works of Thomas Brooks, ed. A. B. Grosart (1866), vol. 1, archive.org scan and OCR: source/proofread-report.md <https://archive.org/details/completeworksoft01broouoft>
+- witness: Precious Remedies (1652), the first edition, archive.org scan of the EEBO microfilm: the Greek and Hebrew the TCP left out, source/gap_fixes.py <https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies_brookes-thomas_1652>
+- witness: Precious Remedies (1658), archive.org scan of the EEBO microfilm: gaps, source/gap_fixes.py <https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies-_brookes-thomas_1658>
+- witness: Monergism's keyed text of Grosart's edition, compared only
+- files: `precious-remedies-against-satans-devices-v1.pdf`, `precious-remedies-against-satans-devices-v1-cover.pdf`, `precious-remedies-against-satans-devices-v1-cover-front.png`, `precious-remedies-against-satans-devices-v1-cover-front.png`, `precious-remedies-against-satans-devices-v1.epub`, `precious-remedies-against-satans-devices-v1-reader.html`, `precious-remedies-against-satans-devices-v1-compare.html`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 102,836 printed words; 76.8% as printed
+- changed in form only (spelling, case, punctuation): 23,240 words (22.6%)
+- grammar modernized (hath -> has, thou -> you): 29 words (0.0%)
+- changed in wording (emendations): 612 words (0.6%); 303 words added, 411 removed
+- gaps in the transcription: 438, 438 restored, 0 left open
+- notes: 0 added by the editor, 222 printed notes left out
 
 ## The Secret Key of Heaven
 

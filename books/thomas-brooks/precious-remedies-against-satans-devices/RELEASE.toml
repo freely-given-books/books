@@ -1,0 +1,35 @@
+# Release record of Precious Remedies Against Satan’s Devices: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, thomas-brooks/precious-remedies-against-satans-devices/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866)."
+
+[[source]]
+file = "source/A77614.tcp.xml"
+description = "EEBO-TCP A77614: Precious Remedies against Satans Devices (London, M. Simmons for John Hancock, 1653), the second edition"
+url = "https://github.com/textcreationpartnership/A77614"
+sha256 = "0d7babe825595733c9272cb350c7bdbab5e352dd40d0548a78a40fa14daf0ed7"
+
+# Copies the edition was checked against, kept or not (one per witness):
+# [[witness]]
+# description = ""
+# url = ""
+
+# Copies the edition was checked against, kept or not (one per witness):
+
+[[witness]]
+description = "The Complete Works of Thomas Brooks, ed. A. B. Grosart (1866), vol. 1, archive.org scan and OCR: source/proofread-report.md"
+url = "https://archive.org/details/completeworksoft01broouoft"
+
+[[witness]]
+description = "Precious Remedies (1652), the first edition, archive.org scan of the EEBO microfilm: the Greek and Hebrew the TCP left out, source/gap_fixes.py"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies_brookes-thomas_1652"
+
+[[witness]]
+description = "Precious Remedies (1658), archive.org scan of the EEBO microfilm: gaps, source/gap_fixes.py"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies-_brookes-thomas_1658"
+
+[[witness]]
+description = "Monergism's keyed text of Grosart's edition, compared only"
+url = ""
