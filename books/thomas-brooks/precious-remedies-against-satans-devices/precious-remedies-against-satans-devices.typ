@@ -49,6 +49,9 @@
 // orphan control Typst can push a marker's line onto the next page after
 // setting its footnote, so note and marker part. Widows are still avoided.
 #set text(costs: (orphan: 0%))
+// A note is kept whole on its page, never broken over to the next (a note's
+// last words alone at the top of the next page's notes read as a stray).
+#show footnote.entry: it => block(breakable: false, it)
 
 #include "chapters/typ/dedication.typ"
 
