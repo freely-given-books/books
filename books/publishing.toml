@@ -1,0 +1,44 @@
+# Where each book is published, by book folder (<author>/<book>); ./fgb export
+# puts it in site.json for the books.freely.giving import. Kept here, outside
+# the book folders, so editing it never holds a signed-off book back.
+#   lulu  Lulu's shop page for the paperback; a book in volumes lists one per
+#         volume, in order. "" = not on Lulu yet, or not recorded yet.
+#   slug  the site's book slug, when it is not the book's folder name
+#   note  anything particular to this book's import, for the site's Claude
+
+["anonymous/the-anatomy-of-simon-magus"]
+lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
+
+["charles-spurgeon/all-of-grace"]
+lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
+
+["john-bunyan/grace-abounding"]
+lulu = ""
+note = """The site's grace-abounding is another edition, not Courtney's: this one \
+replaces it entirely, under the same slug and URLs. Licence CC0; credits add \
+courtney-hicks, prepared: true. The old copy's other formats go: remove the \
+mobi and htmlBook (Read Online) entries from book.yaml and \
+content/grace-abounding.html and .mobi, and tell the owner to delete \
+grace-abounding/grace-abounding.mobi from R2. The description can stay unless \
+the owner wants it changed."""
+
+["john-bunyan/the-pilgrims-progress"]
+lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
+
+["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
+lulu = ""
+
+["richard-sibbes/the-glorious-feast-of-the-gospel"]
+lulu = "https://www.lulu.com/shop/richard-sibbes/the-glorious-feast-of-the-gospel/paperback/product-w4ywv7q.html"
+
+["thomas-brooks/precious-remedies-against-satans-devices"]
+lulu = ""
+
+["thomas-brooks/the-secret-key-of-heaven"]
+lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
+
+["william-gouge/domestical-duties"]
+lulu = ["", "", "", ""]   # volumes 1-4
+
+["1689-baptist-confession/1689-baptist-confession"]
+lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
