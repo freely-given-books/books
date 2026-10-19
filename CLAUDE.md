@@ -108,8 +108,19 @@ PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make
 A whole version vN is a print revision and matches Lulu's revision N. A point
 version, `./fgb release sign BOOK --point` (or `./release --point BOOK`), is
 an improved edition between Lulu revisions (an ebook fix, say): vN.1, vN.2,
-every file named so, the next whole version still N+1. Its sign-off says
-whether its print is still revision N's, page for page as rendered.
+the next whole version still N+1. Its EPUBs and web pages are named vN.M; its
+print stays revision N's, so `make` builds the print PDFs and covers from the
+vN tag and names them vN (what Lulu sells), and print corrections wait for
+N+1. Its sign-off says whether its print is still revision N's, page for page
+as rendered.
+
+`books/publishing.toml` keeps where each book is published: its Lulu links
+(one per volume) and notes for the site import. It lives outside the book
+folders, so editing it never holds a signed-off book back. `./fgb export DIR`
+lays the newest release out for books.freely.giving (the
+`abereanone/books-freelygiv-ing` repository) in DIR: per book the PDFs,
+covers, EPUBs, front covers and print-ready ZIPs, with `site.json` and an
+`IMPORT.md` for the site owner's Claude. The editor zips DIR and sends it.
 
 Day to day, `./release [BOOK ...]` at the root does all of it: signs off
 each BOOK not yet signed off (and pushes its tag), runs `make`, and after a
@@ -123,6 +134,7 @@ first (`./fgb release record BOOK`, filled in, merged). The steps by hand:
 ./fgb release make            # gates on every done book, dist/release/<date>/
                               # and a commit on the local `stable` branch
 ./fgb release make --trial    # the same with unverified tags or tools, to stable-trial
+./fgb export DIR               # the newest release laid out for the site, with IMPORT.md
 ```
 
 `stable` is this repository with only the done books, plus `CATALOG.md`;
