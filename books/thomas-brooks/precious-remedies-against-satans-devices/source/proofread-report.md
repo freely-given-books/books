@@ -178,7 +178,7 @@ the sense → "nil unquam"; "Messias at ego" → "et ego"; "crucianus" →
 the lost clause in sin-06 ("and for ever to break the neck of thy soul,
 present repentance as the difficultest and hardest work in the world; and
 to this purpose he will set thy sins in order before thee, and make them to
-say"), "as much of the power of God", "I dearly prize", "puff them up",
+say"; the 1652 prints it too, so the 1653 dropped a line), "as much of the power of God", "I dearly prize", "puff them up",
 "with that eye [with] which", "suffers" (patitur), "naught" (wicked),
 incorrigible, "dost" as the auxiliary, "sit and sup", the owl "she",
 "inlets to the soul's more sweet", Pliny's "bears", the Hebrew note on
