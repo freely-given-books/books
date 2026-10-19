@@ -1,0 +1,887 @@
+{
+  "release": "2026.10.18.3",
+  "colophon": "0.23.0-dirty",
+  "books": [
+    {
+      "book": "anonymous/the-anatomy-of-simon-magus",
+      "folder": "the-anatomy-of-simon-magus",
+      "title": "The Anatomy of Simon Magus",
+      "author": "Anonymous",
+      "version": "v6.1",
+      "summary": "The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos).",
+      "signed_off": {
+        "tag": "anonymous/the-anatomy-of-simon-magus/v6.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: changed since v6 (the-anatomy-of-simon-magus.pdf: 2 page(s) differ: 17, 62); not a Lulu revision.",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/A25330.tcp.xml",
+          "description": "EEBO-TCP A25330: The Anatomy of Simon Magus, or, The Sin of Simony Laid Open (London, Charles Brome, 1700)",
+          "url": "https://github.com/textcreationpartnership/A25330",
+          "sha256": "3a437401c8512841d57ac1a02b2b76d781c833e5604bcf4417c770fa1ef8d0f8"
+        }
+      ],
+      "witnesses": [],
+      "coverage": {
+        "words": 30558,
+        "form": 8731,
+        "grammar": 404,
+        "wording": 396,
+        "added": 42,
+        "removed": 92,
+        "by_editor": 6316,
+        "by_machine": 2728,
+        "gaps": 11,
+        "restored": 11,
+        "open": 0,
+        "notes_added": 4,
+        "notes_dropped": 1,
+        "unchanged": 68.8,
+        "form_pct": 28.6,
+        "grammar_pct": 1.3,
+        "wording_pct": 1.3
+      },
+      "files": [
+        {
+          "name": "the-anatomy-of-simon-magus-v6.1.epub",
+          "bytes": 399861,
+          "sha256": "7a5da16d7b99db56854fce6b08ca1acd94fa4862f6b5bd6656f3d9b06db5c2ec"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.pdf",
+          "bytes": 959551,
+          "sha256": "aed599ed4777185926fbe814c7cdc55e8a4fd80f809dc69283ba31d81da891eb"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.1-reader.html",
+          "bytes": 655509,
+          "sha256": "9e862c5c50ed4522220d91be32bfc1d15784d1cd286e2f6e1c1fc11b88d0db2f"
+        },
+        {
+          "name": "the-anatomy-of-simon-magus-v6.1-compare.html",
+          "bytes": 2527293,
+          "sha256": "df437c09b91fa672f64b379dbfc9f397a1601cc3b82eac1c24af8a318b87ee43"
+        }
+      ]
+    },
+    {
+      "book": "charles-spurgeon/all-of-grace",
+      "folder": "all-of-grace",
+      "title": "All of Grace",
+      "author": "Charles Spurgeon",
+      "version": "v15.1",
+      "summary": "Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed.",
+      "signed_off": {
+        "tag": "charles-spurgeon/all-of-grace/v15.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: the same as v15, page for page (Lulu revision 15).",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/grace.thml.xml",
+          "description": "CCEL ThML: C. H. Spurgeon, All of Grace (1886)",
+          "url": "https://www.ccel.org/ccel/s/spurgeon/grace.xml",
+          "sha256": "7980c795972bb279338a67325ccb4abfe6df7b9bf29cb77504b993cfeb52713c"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md",
+          "url": "https://www.monergism.com/"
+        }
+      ],
+      "coverage": {
+        "words": 34491,
+        "form": 209,
+        "grammar": 1,
+        "wording": 8,
+        "added": 1,
+        "removed": 1,
+        "by_editor": 138,
+        "by_machine": 708,
+        "gaps": 0,
+        "restored": 0,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 99.4,
+        "form_pct": 0.6,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.0
+      },
+      "files": [
+        {
+          "name": "all-of-grace-v15.1.epub",
+          "bytes": 249558,
+          "sha256": "016e54f6a48e3fdfa549b14a5f30399a4fa5f408f04e5a510527df2345404110"
+        },
+        {
+          "name": "all-of-grace-v15.pdf",
+          "bytes": 601880,
+          "sha256": "c1f55629b3314e7b0ef0e43e52676334c3fa855b90932db599b796738768734c"
+        },
+        {
+          "name": "all-of-grace-v15.1-reader.html",
+          "bytes": 425035,
+          "sha256": "fd67258faacbf1e063a7bb502bce72d2e8611d751d9fb56e2ebea8e28eca3b87"
+        },
+        {
+          "name": "all-of-grace-v15.1-compare.html",
+          "bytes": 596382,
+          "sha256": "3ad71d51b59a4cdccdd92b7077b1ca065f4fb065b4fe479a5d7282b969993b17"
+        }
+      ]
+    },
+    {
+      "book": "john-bunyan/grace-abounding",
+      "folder": "grace-abounding",
+      "title": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "version": "v1",
+      "summary": "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition and George Offor's 1855 edition.",
+      "signed_off": {
+        "tag": "john-bunyan/grace-abounding/v1",
+        "commit": "1826d0e0e6ace2fbb459c01d9d741eec56df9c31",
+        "date": "2026-10-18",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/grace.thml.xml",
+          "description": "CCEL ThML: John Bunyan, Grace Abounding to the Chief of Sinners (Bunyan's enlarged text)",
+          "url": "https://www.ccel.org/ccel/b/bunyan/grace.xml",
+          "sha256": "21dba22cf36ddec4399091313ce74e826152ea62232f10e6182365496102e2c0"
+        },
+        {
+          "file": "source/A30143.witness.xml",
+          "description": "EEBO-TCP A30143: Grace Abounding to the Chief of Sinners (London, George Larkin, 1666), the first edition, a witness: source/witness-report.md",
+          "url": "https://github.com/textcreationpartnership/A30143",
+          "sha256": "6d927ab6622091da3b311a9615a019788695f870b8f6ba44012e2a9dfe744c7c"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Works of John Bunyan, ed. George Offor (1855), vol. 1, archive.org scan and OCR, the witness for the passages added after 1666: source/proofread-report.md",
+          "url": "https://archive.org/details/worksofjohnbunya01buny"
+        }
+      ],
+      "coverage": {
+        "words": 44222,
+        "form": 116,
+        "grammar": 1,
+        "wording": 136,
+        "added": 122,
+        "removed": 22,
+        "by_editor": 347,
+        "by_machine": 10,
+        "gaps": 0,
+        "restored": 0,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 99.4,
+        "form_pct": 0.3,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.3
+      },
+      "files": [
+        {
+          "name": "grace-abounding-v1.pdf",
+          "bytes": 671414,
+          "sha256": "0ce5227f7bcac35828a914eadfda90ff0df5700ca70425dc7e085e45099d0e49"
+        },
+        {
+          "name": "grace-abounding-v1-cover.pdf",
+          "bytes": 18519,
+          "sha256": "e6fa27f2b5a34c1a4306fa8b08448bf20a1541aeeeb9fbd98a6e7d0e9e2b9f90"
+        },
+        {
+          "name": "grace-abounding-v1-cover-front.png",
+          "bytes": 58366,
+          "sha256": "611a20b4fd9c3678e506bf00a5f1699c3b1531a21ac971f64742f3d1c59ed134"
+        },
+        {
+          "name": "grace-abounding-v1-cover-front.png",
+          "bytes": 58366,
+          "sha256": "611a20b4fd9c3678e506bf00a5f1699c3b1531a21ac971f64742f3d1c59ed134"
+        },
+        {
+          "name": "grace-abounding-v1.epub",
+          "bytes": 271292,
+          "sha256": "09e0d1e2f348e5777e789d9defe0c9cbd4ad83409841e54c1d3c93bead6e7e0e"
+        },
+        {
+          "name": "grace-abounding-v1-reader.html",
+          "bytes": 498783,
+          "sha256": "59d5bd59e9efc954f34a895f7eab63c898b45bb14c90182fd465eaef0644e09f"
+        },
+        {
+          "name": "grace-abounding-v1-compare.html",
+          "bytes": 576678,
+          "sha256": "451ae0712432b944a267a2c590268f377ef8e9aab5501a38f76f5fb47f487ed8"
+        }
+      ]
+    },
+    {
+      "book": "john-bunyan/the-pilgrims-progress",
+      "folder": "the-pilgrims-progress",
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "version": "v13.1",
+      "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
+      "signed_off": {
+        "tag": "john-bunyan/the-pilgrims-progress/v13.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: changed since v13 (the-pilgrims-progress.pdf: 1 page(s) differ: 99); not a Lulu revision.",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/pilgrim.thml.xml",
+          "description": "CCEL ThML: John Bunyan, The Pilgrim's Progress, Parts I and II (Logos's text of the 1853 Auburn edition)",
+          "url": "https://www.ccel.org/ccel/b/bunyan/pilgrim.xml",
+          "sha256": "1ebdfd4db68990f3cb26cb81305f0a32f2eb9ec0faedf33e2ee54414f9414353"
+        },
+        {
+          "file": "source/A30170.witness.xml",
+          "description": "EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md",
+          "url": "https://github.com/textcreationpartnership/A30170",
+          "sha256": "14c3c96cab3e5a57cb088d7b58c98ff2d40b05dffe25ab3c42d964a814896e5c"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md",
+          "url": "https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732"
+        },
+        {
+          "description": "biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 110974,
+        "form": 87,
+        "grammar": 0,
+        "wording": 58,
+        "added": 20,
+        "removed": 11,
+        "by_editor": 179,
+        "by_machine": 0,
+        "gaps": 0,
+        "restored": 0,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 99.9,
+        "form_pct": 0.1,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.1
+      },
+      "files": [
+        {
+          "name": "the-pilgrims-progress-v13.1.epub",
+          "bytes": 411114,
+          "sha256": "7ba6cac1744872c9e1d56040b52fa7fe5f25195bfc6e3037c6cfd012da6cefd6"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.pdf",
+          "bytes": 1660356,
+          "sha256": "afb2ea232b28ea51f7311e03c0fb956fa9b89f1292cea356ff84ca8186cc248d"
+        },
+        {
+          "name": "the-pilgrims-progress-v13-cover.pdf",
+          "bytes": 17905,
+          "sha256": "d110bab1c97238de2100ce5dd179a3b081cd9cf186e214f7a697d9308bde44fc"
+        },
+        {
+          "name": "the-pilgrims-progress-v13-cover-front.png",
+          "bytes": 43826,
+          "sha256": "b03f07958088d1ae6d3554ba6ca7430645780adca98bb27a57dfc02f2c9fe082"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.1-reader.html",
+          "bytes": 901511,
+          "sha256": "033f2518c5bc8362d889e6f6db23423425413054a0415e72fd12e75b7b1c09a1"
+        },
+        {
+          "name": "the-pilgrims-progress-v13.1-compare.html",
+          "bytes": 1377274,
+          "sha256": "0b5bb0ee415c738244363337ca56d5884a920e934ddfa696762a3aa4559549e3"
+        }
+      ]
+    },
+    {
+      "book": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god",
+      "folder": "sinners-in-the-hands-of-an-angry-god",
+      "title": "Sinners in the Hands of an Angry God",
+      "author": "Jonathan Edwards",
+      "version": "v8.1",
+      "summary": "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).",
+      "signed_off": {
+        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v8.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: changed since v8 (sinners-in-the-hands-of-an-angry-god.pdf: 10 page(s) differ: 7, 17, 19, 26, 33, 34, 35, 36, 37, 38); not a Lulu revision.",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/N05520.tcp.xml",
+          "description": "EEBO-TCP (Evans) N05520: Edwards, True Grace (New York, James Parker, 1753), with the second edition of Sinners in the Hands of an Angry God bound after it (pp. 43-62)",
+          "url": "https://github.com/textcreationpartnership/N05520",
+          "sha256": "9600c9fdc53098be5a21c4442d6eb522abadaad73e82c7cfde8e93ec2f7029ef"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Berean Standard Bible, for the scripture quotations: source/proofread-report.md",
+          "url": "https://berean.bible/"
+        }
+      ],
+      "coverage": {
+        "words": 23249,
+        "form": 4059,
+        "grammar": 11,
+        "wording": 586,
+        "added": 166,
+        "removed": 241,
+        "by_editor": 1853,
+        "by_machine": 2671,
+        "gaps": 11,
+        "restored": 7,
+        "open": 4,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 80.0,
+        "form_pct": 17.5,
+        "grammar_pct": 0.0,
+        "wording_pct": 2.5
+      },
+      "files": [
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1.epub",
+          "bytes": 181889,
+          "sha256": "524e1e9bef4cc4e67195d26d1d8e4386a10ad904646ff08251d7bc07c6d3699c"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.pdf",
+          "bytes": 289144,
+          "sha256": "7212c1a5e6f413b6719f151b532df93ba4c44184a1ecfeff4496e5bdb5665399"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1-reader.html",
+          "bytes": 282944,
+          "sha256": "c1216c2dd6c7fd98654029813282880bb586b8a0c675361b3b65f352f675463d"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v8.1-compare.html",
+          "bytes": 650912,
+          "sha256": "89cf56b962f3d2f06a6e6dd8e07991293a8adfc295bc5ed90f6665851c5006eb"
+        }
+      ]
+    },
+    {
+      "book": "richard-sibbes/the-glorious-feast-of-the-gospel",
+      "folder": "the-glorious-feast-of-the-gospel",
+      "title": "The Glorious Feast of the Gospel",
+      "author": "Richard Sibbes",
+      "version": "v13.1",
+      "summary": "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.",
+      "signed_off": {
+        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v13.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: changed since v13 (the-glorious-feast-of-the-gospel.pdf: 26 page(s) differ: 11, 13, 28, 31, 51, 58, 65, 66, 67, 68, 69, 70 ...); not a Lulu revision.",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/A93248.tcp.xml",
+          "description": "EEBO-TCP A93248: The Glorious Feast of the Gospel (London, John Rothwell, 1650)",
+          "url": "https://github.com/textcreationpartnership/A93248",
+          "sha256": "d95173b14fc232a376ebfe577798b6cf4f9274aee6c62ab56cce42b488176385"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Monergism's modernized text (from the SDG reprint; (c) Monergism Books 2017), a check only: source/witness-report.md",
+          "url": "https://www.monergism.com/"
+        },
+        {
+          "description": "The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 56190,
+        "form": 13233,
+        "grammar": 53,
+        "wording": 1127,
+        "added": 830,
+        "removed": 356,
+        "by_editor": 6746,
+        "by_machine": 9279,
+        "gaps": 12,
+        "restored": 12,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 385,
+        "unchanged": 74.3,
+        "form_pct": 23.6,
+        "grammar_pct": 0.1,
+        "wording_pct": 2.0
+      },
+      "files": [
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.1.epub",
+          "bytes": 280030,
+          "sha256": "a01fc7d07e53ec208e0233939bf828ff537e98e4a625ed563dfdd72bde2ccba1"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.pdf",
+          "bytes": 837934,
+          "sha256": "4b0ce0d0e543549c665da8706abbb39849b5123ab5bb40e108b341f9650e70b9"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13-cover.pdf",
+          "bytes": 27185,
+          "sha256": "899ae09e4cf23e41d2762401050336208f25b05d7daac92a0529ededa3135137"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13-cover-front.png",
+          "bytes": 45671,
+          "sha256": "66bba91c66943068d80fb64f72609c699b63232f4bb983d161f61a8f2ebaf375"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.1-reader.html",
+          "bytes": 541341,
+          "sha256": "8ad91e34618db4009a6cc4dc68bd26612d01c028a6cd9ba3c6baf5f87a99bf76"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v13.1-compare.html",
+          "bytes": 4194686,
+          "sha256": "5d182728e31e4b62edc3a2d9998fa37d39007697868b841552f873c90829f681"
+        }
+      ]
+    },
+    {
+      "book": "thomas-brooks/precious-remedies-against-satans-devices",
+      "folder": "precious-remedies-against-satans-devices",
+      "title": "Precious Remedies Against Satan’s Devices",
+      "author": "Thomas Brooks",
+      "version": "v1",
+      "summary": "Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866).",
+      "signed_off": {
+        "tag": "thomas-brooks/precious-remedies-against-satans-devices/v1",
+        "commit": "c6b90458a032934454e0fe14379202ae8057f3d3",
+        "date": "2026-10-18",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/A77614.tcp.xml",
+          "description": "EEBO-TCP A77614: Precious Remedies against Satans Devices (London, M. Simmons for John Hancock, 1653), the second edition",
+          "url": "https://github.com/textcreationpartnership/A77614",
+          "sha256": "0d7babe825595733c9272cb350c7bdbab5e352dd40d0548a78a40fa14daf0ed7"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The Complete Works of Thomas Brooks, ed. A. B. Grosart (1866), vol. 1, archive.org scan and OCR: source/proofread-report.md",
+          "url": "https://archive.org/details/completeworksoft01broouoft"
+        },
+        {
+          "description": "Precious Remedies (1652), the first edition, archive.org scan of the EEBO microfilm: the Greek and Hebrew the TCP left out, source/gap_fixes.py",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies_brookes-thomas_1652"
+        },
+        {
+          "description": "Precious Remedies (1658), archive.org scan of the EEBO microfilm: gaps, source/gap_fixes.py",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_precious-remedies-_brookes-thomas_1658"
+        },
+        {
+          "description": "Monergism's keyed text of Grosart's edition, compared only",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 102836,
+        "form": 23240,
+        "grammar": 29,
+        "wording": 612,
+        "added": 303,
+        "removed": 411,
+        "by_editor": 2269,
+        "by_machine": 20354,
+        "gaps": 438,
+        "restored": 438,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 222,
+        "unchanged": 76.8,
+        "form_pct": 22.6,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.6
+      },
+      "files": [
+        {
+          "name": "precious-remedies-against-satans-devices-v1.pdf",
+          "bytes": 3183784,
+          "sha256": "1f2a4d6bfb1e98935f04008559266d20934d6d4a1aea5132b7689ca57649c2c7"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-cover.pdf",
+          "bytes": 20625,
+          "sha256": "1cf7998784ba0e099a91c77f39665292c2209233b30708b5903f62d40c2f0ddb"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-cover-front.png",
+          "bytes": 52936,
+          "sha256": "696ae867ac8f3ee22c0e446a9743858a86f728abaaf8fb3818b42ff898304ae5"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-cover-front.png",
+          "bytes": 52936,
+          "sha256": "696ae867ac8f3ee22c0e446a9743858a86f728abaaf8fb3818b42ff898304ae5"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1.epub",
+          "bytes": 451991,
+          "sha256": "966af6f8ee62f4e07877a0a3827419227e92971e7280829a31ecb42abdcaa601"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-reader.html",
+          "bytes": 990970,
+          "sha256": "ddc90e2efb1a016b75030a1c023fd98cca257ab18f127b6d606606adbcd908fa"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-compare.html",
+          "bytes": 6237652,
+          "sha256": "b320df629764a568280a71142d451a39b294ea4ebfa78686adeddae758411172"
+        }
+      ]
+    },
+    {
+      "book": "thomas-brooks/the-secret-key-of-heaven",
+      "folder": "the-secret-key-of-heaven",
+      "title": "The Secret Key of Heaven",
+      "author": "Thomas Brooks",
+      "version": "v6.1",
+      "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
+      "signed_off": {
+        "tag": "thomas-brooks/the-secret-key-of-heaven/v6.1",
+        "commit": "7a53e18af833b2598dce04be620b1ba944288c97",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "Print: changed since v6 (the-secret-key-of-heaven.pdf: 9 page(s) differ: 51, 68, 86, 149, 156, 167, 171, 223, 281); not a Lulu revision.",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/A29703.tcp.xml",
+          "description": "EEBO-TCP A29703: The Privie Key of Heaven (London, John Hancock, 1665)",
+          "url": "https://github.com/textcreationpartnership/A29703",
+          "sha256": "b6742bf2f0d59f51fec34d28f992bf714154bd91e55e32a509d3b63f597c85b6"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md",
+          "url": "https://www.chapellibrary.org/"
+        },
+        {
+          "description": "The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665"
+        },
+        {
+          "description": "The earlier Freely Given Books copy (lightly modernized), folded in as the review",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 102961,
+        "form": 20915,
+        "grammar": 76,
+        "wording": 4660,
+        "added": 2431,
+        "removed": 2074,
+        "by_editor": 16632,
+        "by_machine": 13240,
+        "gaps": 72,
+        "restored": 61,
+        "open": 11,
+        "notes_added": 0,
+        "notes_dropped": 403,
+        "unchanged": 75.1,
+        "form_pct": 20.3,
+        "grammar_pct": 0.1,
+        "wording_pct": 4.5
+      },
+      "files": [
+        {
+          "name": "the-secret-key-of-heaven-v6.1.epub",
+          "bytes": 355228,
+          "sha256": "fe4e43364a69039e01be3a73ba24936eb81858d16f7f0e5929ab9d2815800527"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.pdf",
+          "bytes": 1393872,
+          "sha256": "3bc371209d73eafa9ce868a130b3b99ed62bc3498f742a2fcf87e753d94cb5d2"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6-cover.pdf",
+          "bytes": 19305,
+          "sha256": "b2a4765fd40ba87d8d037b9d65c9d8ef60969ac43560afd26177b1b7dcc39da1"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6-cover-front.png",
+          "bytes": 39565,
+          "sha256": "b7e0133124f852d89b9701d4c4b5e421fc9ed30a9c3b0a885ac1fda40539665b"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.1-reader.html",
+          "bytes": 718443,
+          "sha256": "ba5e479633e02f04099e62bd59a2d7a38cedd13061499c8395157e967b6701a1"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v6.1-compare.html",
+          "bytes": 7566434,
+          "sha256": "12c4d80325840eba415bae718578e1ea72c861066ed552bcd8db5cfbb331eb91"
+        }
+      ]
+    },
+    {
+      "book": "william-gouge/domestical-duties",
+      "folder": "domestical-duties",
+      "title": "Of Domestical Duties",
+      "author": "William Gouge",
+      "version": "v1",
+      "summary": "Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied.",
+      "signed_off": {
+        "tag": "william-gouge/domestical-duties/v1",
+        "commit": "a71c1428c81de20be340249a6220dfb1628bc260",
+        "date": "2026-10-17",
+        "signer": "Courtney Hicks",
+        "note": "",
+        "signature_verified": true
+      },
+      "template": "fgbooks 0.12.0",
+      "sources": [
+        {
+          "file": "source/A68107.tcp.xml",
+          "description": "EEBO-TCP A68107: Of Domesticall Duties, Eight Treatises (London, John Haviland for William Bladen, 1622)",
+          "url": "https://github.com/textcreationpartnership/A68107",
+          "sha256": "d7404af2ca63812e0e37f7e38a4e9e091390951d686f3c1f807ad7192acc58d4"
+        },
+        {
+          "file": "source/A68107.supplied.xml",
+          "description": "Pages 191-196 of the 1622 edition, missing from the copy the TCP transcribed, transcribed from a second 1622 copy (archive.org, n220-n225)",
+          "url": "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622",
+          "sha256": "a5620c2d6f858778a60f4d695cb7cb17db6ac082a7eafb99a15f0a8ef3548ee4"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The 1622 page images of the copy the TCP was made from (archive.org), for the Greek and Hebrew, illegible letters and the proofread: source/proofread-report.md",
+          "url": "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622"
+        },
+        {
+          "description": "The second edition (1626, in The Workes of William Gouge), consulted for single readings",
+          "url": "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1626"
+        },
+        {
+          "description": "The third edition (1634), consulted for single readings and the errata",
+          "url": "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1634"
+        },
+        {
+          "description": "The earlier Freely Given Books edition (made with the converter before the TEI): source/migration-differences.md",
+          "url": ""
+        }
+      ],
+      "coverage": {
+        "words": 290439,
+        "form": 72876,
+        "grammar": 155,
+        "wording": 1019,
+        "added": 383,
+        "removed": 728,
+        "by_editor": 2730,
+        "by_machine": 68364,
+        "gaps": 717,
+        "restored": 717,
+        "open": 0,
+        "notes_added": 5,
+        "notes_dropped": 2,
+        "unchanged": 74.5,
+        "form_pct": 25.1,
+        "grammar_pct": 0.1,
+        "wording_pct": 0.4
+      },
+      "files": [
+        {
+          "name": "domestical-duties-v1-vol-1.pdf",
+          "bytes": 3347109,
+          "sha256": "e159d6b60275d07d094afcfbe94273d2bcd4f3bc42ce0668bf4b203ae85b3898"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2.pdf",
+          "bytes": 4340390,
+          "sha256": "ba43e1b72d8f04f027f8cfbecf9c436a40a5fd19ab71e3c9d76446493a57acf1"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3.pdf",
+          "bytes": 2928631,
+          "sha256": "fe444ced34b019cc2186a9657e9270a4ab9a3bb2fc711b8fad3c7212de695e97"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4.pdf",
+          "bytes": 2305648,
+          "sha256": "7cdcad454a7d6d162d127e0a121b388cce6f441d5aa62e2a91a42a1c25b6df89"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-1.pdf",
+          "bytes": 32477,
+          "sha256": "08915088b38b4464514d622d8662dcc8e79718781ee15f114b095bffa3648247"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-2.pdf",
+          "bytes": 32440,
+          "sha256": "a05a7d7f573d88d127022260afd07255d0562eb89654d9eaf44177c0712cc7b3"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-3.pdf",
+          "bytes": 30795,
+          "sha256": "5018a26a4c1c073a6f24e51fcef0f133a74e5ed8cd0e47d2d9072a11cef87c06"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-4.pdf",
+          "bytes": 31245,
+          "sha256": "9fa88efc24499eca6b8aa8a91ff1ad6e62a6bc925597ed38f1b73b5147c70860"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-1-front.png",
+          "bytes": 92678,
+          "sha256": "561e5b6b4c164f13a9b106868e4f8990187af5b30b8db360c26eee2ee3f9ed94"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-2-front.png",
+          "bytes": 95195,
+          "sha256": "27ebd5e3eb8cfbbffe2aedef94b211982a6240f71ad70ae3274bcde22cd3c6d3"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-3-front.png",
+          "bytes": 92719,
+          "sha256": "1dc214cc98b89cf17267ed5a44b3cc39805ef0f207431ae19df024ff0f438fa7"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-4-front.png",
+          "bytes": 93268,
+          "sha256": "49eb18abb76f75c1f0b54cf57623d4c7d37e6e01ffefdfe47dae01b3e7a45b1d"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-1-front.png",
+          "bytes": 92678,
+          "sha256": "561e5b6b4c164f13a9b106868e4f8990187af5b30b8db360c26eee2ee3f9ed94"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1.epub",
+          "bytes": 411231,
+          "sha256": "820937b502170ca6e17fbc66dc697eed4273a4190d0907e7a0475cf74788e883"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-2-front.png",
+          "bytes": 95195,
+          "sha256": "27ebd5e3eb8cfbbffe2aedef94b211982a6240f71ad70ae3274bcde22cd3c6d3"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2.epub",
+          "bytes": 505950,
+          "sha256": "615d9327824674d1aa9ee96dc5ae98f6747410dd6fa7608058fb7659988d3883"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-3-front.png",
+          "bytes": 92719,
+          "sha256": "1dc214cc98b89cf17267ed5a44b3cc39805ef0f207431ae19df024ff0f438fa7"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3.epub",
+          "bytes": 402719,
+          "sha256": "55181810f3d028d1a34ebfa0bf5b6ae157e82f22b7a407998e2c7b7f0c66796e"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-4-front.png",
+          "bytes": 93268,
+          "sha256": "49eb18abb76f75c1f0b54cf57623d4c7d37e6e01ffefdfe47dae01b3e7a45b1d"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4.epub",
+          "bytes": 360463,
+          "sha256": "296c9d62465167bab22d442d93c9f73fe78f10777e8bd8630d04bbeb37cea477"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-reader.html",
+          "bytes": 956413,
+          "sha256": "cb5ea06f35f098faf29c85ff733ea665c3da4b1c13b4f7d3215ecc1e88caaaad"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-compare.html",
+          "bytes": 4747849,
+          "sha256": "7f05caf14d58fe9270a24f9ecfdb0f284a2bfe52c9119343d1953a6c271e7e45"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-reader.html",
+          "bytes": 1230863,
+          "sha256": "44ae9a96e0b6aad1b3d14aa5534b399ea194c079fba5bdcbac9d7d089e006e83"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-compare.html",
+          "bytes": 7101130,
+          "sha256": "ad6c92a463da1440bae460701cddb5bc3cf544a833e4f5e90091b0f635603b77"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-reader.html",
+          "bytes": 914965,
+          "sha256": "c24c2ec44b0e013f39deeb0c857feb38bc4acf373ac74446e6a64a04430bcef1"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-compare.html",
+          "bytes": 4472329,
+          "sha256": "5d1aade24bc581a8d36b0c756f7ac51fbc174590e75ae7bd647d3e43dd20b311"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-reader.html",
+          "bytes": 769024,
+          "sha256": "e721d9e0dc4ec579f1a827c031e52da3c4663be9555fb9b1ae258c1b04e84904"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-compare.html",
+          "bytes": 3705798,
+          "sha256": "d5ba9cddf6e3604726a74c4433c335cbf50b5e2b9e4c2d880d6d65c5dfce55b9"
+        }
+      ]
+    }
+  ]
+}

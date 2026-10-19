@@ -1,0 +1,18 @@
+# Release record of Sinners in the Hands of an Angry God: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, jonathan-edwards/sinners-in-the-hands-of-an-angry-god/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words)."
+
+[[source]]
+file = "source/N05520.tcp.xml"
+description = "EEBO-TCP (Evans) N05520: Edwards, True Grace (New York, James Parker, 1753), with the second edition of Sinners in the Hands of an Angry God bound after it (pp. 43-62)"
+url = "https://github.com/textcreationpartnership/N05520"
+sha256 = "9600c9fdc53098be5a21c4442d6eb522abadaad73e82c7cfde8e93ec2f7029ef"
+
+# Copies the edition was checked against, kept or not (one per witness):
+
+[[witness]]
+description = "The Berean Standard Bible, for the scripture quotations: source/proofread-report.md"
+url = "https://berean.bible/"

@@ -1,0 +1,105 @@
+#import "@local/fgbooks:0.12.0": *
+
+// Edited by hand (first written by the earlier converter): a chapter added
+// or renamed in source/edition.json needs its #include and <short> lines here.
+//
+// The imprint's 5.5x8.5 trim (the template's), at 10.5pt: at 290,000 words
+// the whole work is four times the length of anything else in the imprint,
+// and the smaller type keeps each volume a comfortable thickness.  The
+// inside margin follows Lulu's recommendation for a block this thick.
+
+#show outline: set text(9.5pt)
+
+#show: book.with(
+  title: [Of Domestical Duties],
+  subtitle: [Volume IV — The Seventh and Eighth Treatises: Of Servants and Masters],
+  author: "William Gouge",
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
+  publishing-info: [
+    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+    #image("lcc_standard_pd.png", width: 50%)
+
+    Freely you have received; freely give. - Matthew 10:8b
+
+    To get more free ebooks or at-cost printed copies, visit:
+
+    https://books.freely.giving
+
+    Printed books are at the cost of the printing, no revenue or
+    royalty is made from printings so you can get ahold of
+    physical prints at the lowest cost possible.
+
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John
+    Haviland for William Bladen, 1622), with the spelling modernized. The text
+    is the Text Creation Partnership transcription of the first edition
+    (EEBO-TCP A68107).
+
+    Book formatted by Courtney Allen Hicks
+
+    #link("mailto:books@lyndnex.com")
+
+    ebook and PDF also available.
+
+    This is volume 4 of four. The complete work is in eight treatises:
+    I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of
+    wives; IV, of husbands; V, of children; VI, of parents; VII, of servants;
+    VIII, of masters.
+
+  ],
+  preface: [
+    #align(center + horizon)[
+      #text(size: 12pt)[
+        _Submitting your selves one to another in the fear of God._
+
+        — Ephesians 5:21
+      ]
+    ]
+  ]
+)
+
+#set text(font: "Libertinus Serif", size: 10.5pt)
+// Orphans allowed (a paragraph's first line alone at a page's foot): with
+// orphan control Typst can push a marker's line onto the next page after
+// setting its footnote, so note and marker part. Widows are still avoided.
+#set text(costs: (orphan: 0%))
+// A note is kept whole on its page, never broken over to the next (a note's
+// last words alone at the top of the next page's notes read as a stray).
+#show footnote.entry: it => block(breakable: false, it)
+// Lists 1622 prints without numbers (a brace's unnumbered branches, "- "
+// lines) are set as it prints them: no bullet, set in past a paragraph's
+// first-line indent, where the brace puts them.
+#set list(marker: [], indent: 2em)
+
+#metadata[Servants and Masters in the Apostle’s Words] <short>
+#include "chapters/typ/vol-4/01-servants-and-masters-in-the-apostles-words.typ"
+
+#metadata[A Servant’s Reverence for His Master] <short>
+#include "chapters/typ/vol-4/02-a-servants-reverence-for-his-master.typ"
+
+#metadata[A Servant’s Obedience to His Master] <short>
+#include "chapters/typ/vol-4/03-a-servants-obedience-to-his-master.typ"
+
+#metadata[A Servant’s Faithful and Willing Service] <short>
+#include "chapters/typ/vol-4/04-a-servants-faithful-and-willing-service.typ"
+
+#metadata[A Servant’s Duty and Its Limits under God] <short>
+#include "chapters/typ/vol-4/05-a-servants-duty-and-its-limits-under-god.typ"
+
+#metadata[A Master’s Authority Rightly Maintained] <short>
+#include "chapters/typ/vol-4/06-a-masters-authority-rightly-maintained.typ"
+
+#metadata[A Master’s Correcting and Governing of His Household] <short>
+#include "chapters/typ/vol-4/07-a-masters-correcting-and-governing-of-his-household.typ"
+
+#metadata[A Master’s Care for His Servants’ Souls and Bodies] <short>
+#include "chapters/typ/vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ"
+
+#metadata[A Master’s Employing and Rewarding of His Servants] <short>
+#include "chapters/typ/vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ"
+
+#metadata[A Master’s Own Master in Heaven] <short>
+#include "chapters/typ/vol-4/10-a-masters-own-master-in-heaven.typ"
+

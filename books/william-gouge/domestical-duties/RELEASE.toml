@@ -1,0 +1,62 @@
+# Release record of Of Domestical Duties: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, william-gouge/domestical-duties/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied."
+
+
+# Footnotes Typst sets a page from their marker, accepted by the editor
+# (2026-10-11; a Typst limitation, not a Lulu rule). A new one fails the gate.
+# Notes are kept whole since 2026-10-17 (none broken over a page), which moved
+# a few: the list is the set as now built.
+accepted_print = [
+  "domestical-duties-vol-1.pdf: footnote 277 is set on page 67, its marker on page 66",
+  "domestical-duties-vol-1.pdf: footnote 308 is set on page 73, its marker on page 74",
+  "domestical-duties-vol-1.pdf: footnote 454 is set on page 102, its marker on page 103",
+  "domestical-duties-vol-1.pdf: footnote 866 is set on page 181, its marker on page 182",
+  "domestical-duties-vol-1.pdf: footnote 981 is set on page 213, its marker on page 214",
+  "domestical-duties-vol-2.pdf: footnote 674 is set on page 165, its marker on page 166",
+  "domestical-duties-vol-2.pdf: footnote 719 is set on page 180, its marker on page 181",
+  "domestical-duties-vol-2.pdf: footnote 733 is set on page 185, its marker on page 186",
+  "domestical-duties-vol-2.pdf: footnote 879 is set on page 222, its marker on page 223",
+  "domestical-duties-vol-2.pdf: footnote 1080 is set on page 286, its marker on page 285",
+  "domestical-duties-vol-2.pdf: footnote 1156 is set on page 310, its marker on page 311",
+  "domestical-duties-vol-2.pdf: footnote 1166 is set on page 314, its marker on page 315",
+  "domestical-duties-vol-2.pdf: footnote 1236 is set on page 338, its marker on page 339",
+  "domestical-duties-vol-3.pdf: footnote 294 is set on page 68, its marker on page 69",
+  "domestical-duties-vol-3.pdf: footnote 295 is set on page 68, its marker on page 69",
+  "domestical-duties-vol-3.pdf: footnote 445 is set on page 109, its marker on page 108",
+  "domestical-duties-vol-3.pdf: footnote 688 is set on page 184, its marker on page 185",
+  "domestical-duties-vol-3.pdf: footnote 755 is set on page 202, its marker on page 203",
+]
+
+[[source]]
+file = "source/A68107.tcp.xml"
+description = "EEBO-TCP A68107: Of Domesticall Duties, Eight Treatises (London, John Haviland for William Bladen, 1622)"
+url = "https://github.com/textcreationpartnership/A68107"
+sha256 = "d7404af2ca63812e0e37f7e38a4e9e091390951d686f3c1f807ad7192acc58d4"
+
+[[source]]
+file = "source/A68107.supplied.xml"
+description = "Pages 191-196 of the 1622 edition, missing from the copy the TCP transcribed, transcribed from a second 1622 copy (archive.org, n220-n225)"
+url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622"
+sha256 = "a5620c2d6f858778a60f4d695cb7cb17db6ac082a7eafb99a15f0a8ef3548ee4"
+
+# Copies the edition was checked against, kept or not (one per witness):
+
+[[witness]]
+description = "The 1622 page images of the copy the TCP was made from (archive.org), for the Greek and Hebrew, illegible letters and the proofread: source/proofread-report.md"
+url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622"
+
+[[witness]]
+description = "The second edition (1626, in The Workes of William Gouge), consulted for single readings"
+url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1626"
+
+[[witness]]
+description = "The third edition (1634), consulted for single readings and the errata"
+url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties-_gouge-william_1634"
+
+[[witness]]
+description = "The earlier Freely Given Books edition (made with the converter before the TEI): source/migration-differences.md"
+url = ""

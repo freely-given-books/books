@@ -1,0 +1,73 @@
+#!/usr/bin/env bash
+# release: sign off books and publish a release, in one command.
+#
+#   ./release [--point] [BOOK ...]
+#
+# 1. Each BOOK (part of its folder name, as for ./fgb) is signed off if it is
+#    not already: ./fgb release sign runs every check, then cuts your signed
+#    tag <author>/<book>/vN, which is pushed. A book needs its RELEASE.toml
+#    first (./fgb release record BOOK, fill it in, commit it). With --point
+#    the sign-off is a point version (vN.1): an improved edition between Lulu
+#    revisions; it says whether its print is still revision N's.
+# 2. ./fgb release make builds every done book into dist/release/<name>/ and
+#    the stable branch (<name> is the date, YYYY.MM.DD, then .2, .3 for more
+#    releases that day).
+# 3. After you say yes: stable and your signed release tag are pushed, the
+#    GitHub release is made with the built files, and books/revisions.json is
+#    committed and pushed on main.
+#
+# Run it on main with nothing uncommitted. With no BOOK it releases the books
+# already signed off.
+set -euo pipefail
+cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
+
+die() { echo "release: $*" >&2; exit 1; }
+
+[ "$(git rev-parse --abbrev-ref HEAD)" = main ] || die "run it on main"
+git fetch -q origin
+[ -z "$(git status --porcelain --untracked-files=no)" ] || die "commit or stash your changes first"
+[ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ] || die "main is not origin/main: git pull (or push) first"
+
+point=()
+if [ "${1:-}" = --point ]; then
+    point=(--point)
+    shift
+    [ $# -gt 0 ] || die "--point: name the book(s)"
+fi
+
+for book in "$@"; do
+    # sign resolves the name (and says so if it matches several books)
+    out=$(./fgb release sign "$book" "${point[@]}" 2>&1 | tee /dev/stderr) || true
+    echo "$out" | grep -q "nothing new to sign off" && continue
+    tag=$(echo "$out" | sed -n 's/^publish the sign-off: git push origin //p')
+    [ -n "$tag" ] || die "$book: not signed off (above)"
+    git push origin "$tag"
+done
+
+out=$(./fgb release make | tee /dev/stderr)
+name=$(echo "$out" | sed -n 's/^release \([0-9.]*\): .*/\1/p')
+[ -n "$name" ] || die "no release was made"
+dir="dist/release/$name"
+
+echo
+read -r -p "Publish release $name (push stable, sign and push tag $name, GitHub release)? [y/N] " ok || ok=
+if [ "$ok" != y ] && [ "$ok" != Y ]; then
+    # undo make's local changes; the built files stay in $dir to look at
+    git checkout -q books/revisions.json
+    if git rev-parse -q --verify origin/stable >/dev/null; then
+        git branch -q -f stable origin/stable
+    else
+        git branch -q -D stable 2>/dev/null || true     # the first release: no stable yet
+    fi
+    echo "not published (the built files are in $dir)"
+    exit 0
+fi
+
+git push origin stable
+git tag -s "$name" stable -m "Release $name"
+git push origin "$name"
+gh release create "$name" --verify-tag --title "Release $name" \
+    --notes-file "$dir/CATALOG.md" "$dir"/*
+git commit -q -m "Release $name" books/revisions.json
+git push -q origin main
+echo "released $name: $(gh release view "$name" --json url --jq .url)"

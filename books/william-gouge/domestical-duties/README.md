@@ -1,0 +1,178 @@
+# Of Domestical Duties — William Gouge
+
+*Of Domesticall Dvties: Eight Treatises* (London, printed by John Haviland for
+William Bladen, 1622). Preached to the parish of Blackfriars: an exposition of
+Ephesians 5:21–6:9, then the duties of husband and wife, of wives, of husbands,
+of children, of parents, of servants, and of masters — each set against the
+faults that answer to it.
+
+Set from the Text Creation Partnership transcription of the first edition,
+EEBO-TCP `A68107`, with the spelling modernized. 290,000 words.
+
+**It is four volumes, in print and as ebooks.** 998 pages of text will not
+perfect-bind as a single block; each volume has its own EPUB.
+
+| Volume | Contents | Pages |
+| --- | --- | --- |
+| I — The First Treatise | An exposition of Ephesians 5:21–6:4 | 235 |
+| II — The Second, Third and Fourth Treatises | Of husband and wife | 352 |
+| III — The Fifth and Sixth Treatises | Of children and parents | 232 |
+| IV — The Seventh and Eighth Treatises | Of servants and masters, with the exposition of Ephesians 6:5–9 | 179 |
+
+The volumes are the imprint's 5.5×8.5 trim, at 10.5pt.
+
+**The covers are lettered as a set**, after the 1622 title page: a framed
+olive panel (Psalm 128:3, "thy children like olive plants round about thy
+table") with gold rules, "Of Domestical Duties" in spaced capitals, and all
+eight treatises listed on every volume, that volume's picked out; the volume
+number stands in a roundel on the front and at one height on each spine
+(`front-style: "set"` in `scripts/panel_cover.typ`).
+
+## Volumes and chapters
+
+The volumes follow Gouge's own eight treatises. Volume IV takes Treatises VII
+and VIII together with the part of Treatise I that expounds Ephesians 6:5–9,
+which belongs with them.
+
+Gouge wrote in numbered sections, not chapters, so the 50 chapters are an
+editorial division for reading: a treatise of 133 sections needs somewhere to
+stop. **Every one of his section headings is kept underneath**, at its own
+heading level and in his own words, so nothing of his arrangement is lost — a
+chapter title is a signpost over his sections, not a replacement for them.
+
+`source/edition.json` is the map: which sections of which division make up
+each chapter. Chapters are cut by **ordinal position** among a treatise's
+sections, never by the printed section number — Gouge prints "§. 15", "§. 43",
+"§. 46" and "§. 58" twice each in Treatise IV alone, and two sections have no
+number at all.
+
+## Layout
+
+The text lives in a TEI edition (`source/`): the 1622 transcription with
+every editorial decision recorded in it, the machine's and the editor's. The
+chapters in `chapters/typ` are generated from it and are where the text is
+edited; `./fgb sync gouge` folds edits back in. See the repository's
+`CLAUDE.md` and `colophon/`.
+
+| Path | What it is |
+| --- | --- |
+| `source/A68107.tcp.xml` | the TCP transcription, untouched |
+| `source/domestical-duties.tei.xml` | the TEI edition: the master text |
+| `source/editorial.py` | this book's settings: layout, spelling, notes, gaps, ebook |
+| `source/edition.json` | the volume and chapter map (read by `editorial.py`) |
+| `source/gap_fixes.py` | the 477 illegible gaps filled (189 by hand) |
+| `source/spelling_1622.py` | this book's own spellings, over the shared table |
+| `source/A68107.supplied.xml` | pp. 191–196, missing from the TCP copy (below) |
+| `source/proofread-report.md` | the proofread: questions, answers, checks |
+| `source/review-report.md` | every editor decision, from the last sync |
+| `source/migration-differences.md` | how the TEI edition differs from the earlier one (2026-09-30) |
+| `chapters/typ/vol-N/` | one `.typ` per chapter, plus the front and back matter each volume claims: **edit here** |
+| `domestical-duties-vol-N.typ` | print edition of one volume |
+| `cover-vol-N.typ` | its wrap cover; its front panel, rendered by `./fgb`, is the volume's ebook cover |
+| `ebook-front-vol-N.html` | the front matter of each volume's ebook |
+| `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
+| `side-by-side-vol-N.html` | 1622 text beside the edition, every change marked (`./fgb page gouge`, git-ignored) |
+
+## Editorial decisions
+
+Since the move to the TEI (2026-09-30), also: citation abbreviations are
+modernized as in the other TEI books (Ioh. → Joh., Iob → Job, Prou. →
+Prov.); Latin is left exactly as printed; an epigraph keeps all its verses;
+`thorow` (through or thorough, by context) is left for the editor. The full
+list against the earlier edition is `source/migration-differences.md`.
+
+- **Spelling is modernized; wording is not.** `hath`, `doth`, `thou`, `ye`,
+  `shalt` and the rest are different grammatical forms, not alternate
+  spellings, and are left alone. So is `then` for `than`. Possessives take an
+  apostrophe where they are plain (`God’s word`, `Christ’s body`, `a man’s`,
+  `children’s`, names); the plural ones that need reading are left as
+  printed (`husbands duties`).
+- **Marginal notes are modernized too**, unlike the Perkins volume. Gouge's
+  margins carry a running analytical summary in English alongside the
+  citations, and leaving those in 1622 spelling beside modernized text reads as
+  an accident. Latin quotations in the margins are detected and left exactly as
+  printed.
+- **Illegible letters have been reconstructed.** TCP marks 477 spans it could
+  not read; all are filled, mostly from the book's own vocabulary and the rest
+  by hand from context or from the work being cited. The 177 filled with only
+  medium certainty were checked against the 1622 page images on archive.org
+  (2026-10-06); 32 guesses were corrected there ("lust", not "sacrifice";
+  "mocker", not "cocker").
+- **Greek and Hebrew in the margins is restored.** TCP could not key it (240
+  places); every one was read from the 1622 page images
+  (`bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622`,
+  the copy the TCP was made from) and is printed as Gouge printed it,
+  accents included.
+- **Six pages missing from the source are restored.** Pages 191–196 of the
+  1622 edition (the end of §10 to the start of §13 of the second treatise:
+  equality in piety, marriages across religions, mutual liking) were not in
+  the copy TCP transcribed. They are transcribed from another 1622 copy on
+  archive.org
+  (`bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622`,
+  pages n220–n225) in `source/A68107.supplied.xml`, which every tool splices
+  into the TCP text at the gap (`colophon/sources.py`); the TCP file is
+  untouched.
+- **The original table of contents is not reproduced.** It indexes the 1622
+  pagination, which this edition does not share; each volume's outline
+  and its ebook's table of contents replace it. Gouge's
+  *parallel* of husbands' and wives' duties, a two-column reading aid keyed to
+  § numbers, opened Volume II in v1 and is left out since (it stays in the TEI).
+- **The author's brace diagrams are set as lists, not as tables.** Gouge's
+  compositor drew braces to show one thing dividing into several — "Behold
+  here the mutual relation betwixt {Christ, / The Church.}" — and 76 of them
+  survive in the source as TEI tables. Each becomes a lead-in and an
+  enumerated list, read down the columns as the brace groups them. The one
+  that interrupts a sentence — "a family consisteth of these three orders,
+  husbands, wives, parents, children, masters, servants, all which he
+  reckoneth up" — is flattened into the sentence instead.
+- **The 1622 errata are applied, and their leaf is left out.** All eight
+  corrections the printer listed ("Some faults escaped") are made in the text
+  (`source/proofread-report.md`); the leaf itself, keyed to 1622 pages, is not
+  printed (`SKIP_BLOCKS` in `source/editorial.py`).
+
+## Steps for Generation
+
+The PDFs and the EPUB are not kept in git: they are built from the
+repository, reproducibly. `./fgb build gouge` makes all of them in
+`dist/william-gouge/domestical-duties/` (volumes, cover wraps and their front
+panels, checked EPUB).
+
+From anywhere in the repository (`./fgb --help`):
+
+``` sh
+$ ./fgb sync gouge          # after editing chapters/typ: into the TEI, lists the changes
+$ ./fgb find gouge WORD     # every place a word is, as printed and as decided
+$ ./fgb page gouge --open   # side-by-side pages, one per volume
+$ ./fgb check gouge         # verify (about a minute)
+$ ./fgb pdf gouge           # the four volumes
+$ ./fgb epub gouge          # one EPUB 3 per volume, sections in its contents, epubcheck
+```
+
+### volumes and covers
+
+`source/edition.json` cuts the treatises into volumes and chapters, and
+`./fgb sync gouge` writes the chapters from it. The volume files
+(`domestical-duties-vol-N.typ`) and covers (`cover-vol-N.typ`) are edited by
+hand: a chapter added or renamed in `edition.json` needs its `#include` and
+`<short>` lines there. (They were first written by the earlier converter,
+whose generator is gone; git history has it.)
+
+`./fgb build gouge` compiles the covers after the volumes, gives each the page
+count and trim of the volume it wraps (so a spine cannot go stale), and renders
+each one's front panel alone (a PNG at the trim size): that is the volume's
+ebook cover.
+
+Each ebook lists every one of Gouge's numbered sections under its chapter
+(`toc_depth` 4).
+
+## Before printing
+
+- **Verify each wrap against a live template.** Download the 5.5×8.5
+  perfect-bound template for the actual page count and paper and check the
+  cover against it.
+- **The spine is Lulu's own formula,** `pages / 444 + 0.06in`, for every
+  cover of the imprint (`scripts/panel_cover.typ`); `pages × caliper` drifts
+  from it on thick books.
+- **All four volumes are inside the range that binds and opens flat.** 179–352
+  pages, against Lulu's 32–800 for perfect binding and the ~420 at which a
+  glued block stops opening flat.

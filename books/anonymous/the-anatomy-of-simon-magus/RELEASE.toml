@@ -1,0 +1,18 @@
+# Release record of The Anatomy of Simon Magus: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, anonymous/the-anatomy-of-simon-magus/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos)."
+
+[[source]]
+file = "source/A25330.tcp.xml"
+description = "EEBO-TCP A25330: The Anatomy of Simon Magus, or, The Sin of Simony Laid Open (London, Charles Brome, 1700)"
+url = "https://github.com/textcreationpartnership/A25330"
+sha256 = "3a437401c8512841d57ac1a02b2b76d781c833e5604bcf4417c770fa1ef8d0f8"
+
+# Copies the edition was checked against, kept or not (one per witness).
+# None: there is no modern edition of this book to check it against.
+# [[witness]]
+# description = ""
+# url = ""

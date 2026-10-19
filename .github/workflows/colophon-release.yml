@@ -1,0 +1,25 @@
+# The books are built with released tools: colophon/ must sit exactly at a
+# colophon release tag (X.Y.Z), not at a branch or an untagged commit.
+name: colophon release
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  pinned:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: colophon/ is at a release tag
+        run: |
+          git submodule update --init colophon
+          git -C colophon fetch --tags --quiet
+          commit=$(git -C colophon rev-parse HEAD)
+          tag=$(git -C colophon tag --points-at HEAD | grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -1)
+          if [ -z "$tag" ]; then
+            echo "::error::colophon/ is at $commit, which is not a release: tag a colophon release and pin to it (see CLAUDE.md, Commands)"
+            exit 1
+          fi
+          echo "colophon/ is release $tag ($commit)"
