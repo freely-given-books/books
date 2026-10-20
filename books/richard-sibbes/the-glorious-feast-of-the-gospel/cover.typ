@@ -8,7 +8,7 @@
   title: [The Glorious Feast \ of the Gospel],
   subtitle: [The Marriage Feast Between \ Christ and His Church],
   author: [Richard Sibbes],
-  pages: 196,
+  pages: 166,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "sky",

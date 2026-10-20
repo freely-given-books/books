@@ -305,6 +305,12 @@ Before calling a book shelf ready, all of these hold:
   weak quote match read.
 - `./fgb check` is OK; `./fgb build` passes the Lulu checks (footnote
   warnings explained) and epubcheck.
+- Each `cover*.typ`'s `pages:` is the built interior's page count (`./fgb
+  build` prints `cover: N pages, from <book>.pdf`; a README that gives the
+  count or the spine, `pages / 444 + 0.06in`, matches too). The build gives
+  the cover the real count, but `pages:` is what a cover compiled alone
+  uses, and a review that moves text changes it (14 covers had gone stale
+  by 2026-10-19).
 - The compiled PDF's text has no quotes curled the wrong way (`,‘ word`,
   `‘ `, `’’`) and no stray markup (`#emph`, `\[`).
 

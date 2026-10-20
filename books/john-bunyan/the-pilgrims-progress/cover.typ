@@ -15,7 +15,7 @@
     Delivered under the Similitude of a Dream
   ],
   author: [John Bunyan],
-  pages: 404,
+  pages: 357,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "ochre",

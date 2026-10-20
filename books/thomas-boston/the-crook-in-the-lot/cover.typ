@@ -14,7 +14,7 @@
     Displayed in the Afflictions of Men
   ],
   author: [Thomas Boston],
-  pages: 160,
+  pages: 135,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "heather",

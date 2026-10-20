@@ -14,7 +14,7 @@
     the Necessity, Nature, and Means of It
   ],
   author: [John Owen],
-  pages: 140,
+  pages: 151,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "slate",

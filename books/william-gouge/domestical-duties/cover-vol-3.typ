@@ -13,7 +13,7 @@
   volume: [Volume III],
   subtitle: [The Fifth and Sixth Treatises: Of Children and Parents],
   author: [William Gouge],
-  pages: 230,
+  pages: 232,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "olive",

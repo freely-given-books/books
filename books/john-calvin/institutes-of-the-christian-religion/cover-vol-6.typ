@@ -9,7 +9,7 @@
   volume: [Volume VI],
   subtitle: [Book Fourth, Chapters 14–20: The Sacraments and Civil Government],
   author: [John Calvin],
-  pages: 400,
+  pages: 295,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "oxblood",

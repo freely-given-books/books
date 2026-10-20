@@ -9,7 +9,7 @@
   volume: [Volume IV],
   subtitle: [Book Third, Chapters 11–25: Justification, Liberty, Prayer, Election],
   author: [John Calvin],
-  pages: 400,
+  pages: 388,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "oxblood",

@@ -8,7 +8,7 @@
   title: [Precious Remedies \ Against Satan’s Devices],
   subtitle: [Or, Salve for Believers’ and Unbelievers’ Sores],
   author: [Thomas Brooks],
-  pages: 380,
+  pages: 354,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "sage",

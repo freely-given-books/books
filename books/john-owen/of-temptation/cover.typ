@@ -14,7 +14,7 @@
     Entering into It; and the Means of Preventing That Danger
   ],
   author: [John Owen],
-  pages: 140,
+  pages: 104,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "slate",

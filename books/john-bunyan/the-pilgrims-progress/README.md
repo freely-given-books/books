@@ -54,5 +54,5 @@ $ ./fgb build pilgrim      # print PDF, cover and checked EPUB into dist/
 ```
 
 The PDF and the EPUB are not kept in git: `./fgb build pilgrim` makes them
-in `dist/john-bunyan/the-pilgrims-progress/`. `cover.typ` is set for 404
-pages (spine by Lulu's formula, 0.97"); change `pages` if the count changes.
+in `dist/john-bunyan/the-pilgrims-progress/`. `cover.typ` is set for 357
+pages (spine by Lulu's formula, 0.86"); change `pages` if the count changes.

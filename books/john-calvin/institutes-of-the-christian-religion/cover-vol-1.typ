@@ -9,7 +9,7 @@
   volume: [Volume I],
   subtitle: [Book First: Of the Knowledge of God the Creator],
   author: [John Calvin],
-  pages: 400,
+  pages: 313,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "oxblood",
