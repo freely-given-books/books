@@ -9,7 +9,7 @@
   volume: [Volume V],
   subtitle: [Book Fourth, Chapters 1–13: Of the Holy Catholic Church],
   author: [John Calvin],
-  pages: 400,
+  pages: 347,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "oxblood",

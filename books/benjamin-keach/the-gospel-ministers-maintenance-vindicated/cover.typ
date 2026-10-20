@@ -14,7 +14,7 @@
     and the Objections Against a Gospel Maintenance for Ministers Answered
   ],
   author: [Benjamin Keach],
-  pages: 86,
+  pages: 74,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "midnight",

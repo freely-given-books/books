@@ -8,7 +8,7 @@
   title: [The Secret Key \ of Heaven],
   subtitle: [Or, Twenty Arguments for Closet Prayer],
   author: [Thomas Brooks],
-  pages: 290,
+  pages: 301,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "sage",

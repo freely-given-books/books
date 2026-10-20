@@ -9,7 +9,7 @@
   volume: [Volume III],
   subtitle: [Book Third, Chapters 1–10: The Mode of Obtaining the Grace of Christ],
   author: [John Calvin],
-  pages: 400,
+  pages: 255,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "oxblood",

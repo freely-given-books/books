@@ -19,7 +19,7 @@
     and Ordering a Family, According to the Scriptures
   ],
   author: [William Perkins],
-  pages: 124,
+  pages: 126,
   trim-width: 5.5in,
   trim-height: 8.5in,
   palette: "mulberry",
