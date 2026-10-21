@@ -9,8 +9,7 @@
 //
 // ./fgb build passes the interior's page count and trim (--input pages=N
 // trim-width=W trim-height=H), so the spine is always Lulu's
-// `pages / 444 + 0.06in`. Compiled on its own (from the repository root, for
-// the mark): typst compile --root ../../.. cover.typ cover.pdf
+// `pages / 444 + 0.06in`. Compiled on its own: typst compile cover.typ cover.pdf
 
 #let pages = int(sys.inputs.at("pages", default: "210"))
 #let trim-width = float(sys.inputs.at("trim-width", default: "5.5")) * 1in
@@ -31,8 +30,9 @@
 #let DISPLAY = ("Libertinus Serif Display", "Libertinus Serif")
 #set text(font: SERIF, fill: cream, kerning: true, hyphenate: false)
 
-// The press's mark, white line work, for a dark ground.
-#let MARK = "/common-weal-press/mark-white.svg"
+// The press's mark, white line work, for a dark ground (from
+// common-weal-press/mark-white.svg).
+#let MARK = "art/mark-white.svg"
 #let mark(size) = image(MARK, width: size)
 
 // art/corner.svg is drawn in the engraved design's gold; this book's is warmer.

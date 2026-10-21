@@ -28,3 +28,16 @@ h3 {
 ol {
   font-size: 0.85em;
 }
+
+/* Each confession paragraph and catechism question and answer is a speech
+   (SPEECH_BLOCKS): its label ("Paragraph 1", "Question 1", "Answer") bold,
+   as in print, and the text at the margin, not hung. */
+p.speech {
+  text-indent: 0;
+  padding-left: 0;
+  margin-top: 0.8em;
+}
+
+p.speech > .smallcaps:first-child {
+  font-weight: bold;
+}
