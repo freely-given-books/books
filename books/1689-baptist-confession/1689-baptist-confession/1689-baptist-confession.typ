@@ -2,32 +2,54 @@
 #import "proofs.typ": catechism
 
 #show outline: set text(size: 8pt)
+
+// A heading straight after a part page (the prefaces): the chapter heading's
+// look, without the template's turn to a recto, which the part page has
+// already made (two turns left a blank spread and a page with only a head).
+#let after-part(body) = {
+  show heading.where(level: 2): it => {
+    v(5%)
+    align(center, text(22pt, weight: 700, hyphenate: false, it.body))
+    v(2.5em)
+  }
+  body
+}
 #show: book.with(
   title: [The 1689 Baptist Confession of Faith],
   subtitle: [With Catechisms],
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
-
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-  ],
+  // the Common Weal Press publisher's page (common-weal-press/test-page)
+  publishing-info: block(height: 6.9in, width: 100%, {
+    set align(center)
+    set text(font: "Libertinus Serif", size: 9pt)
+    set par(justify: false, leading: 0.6em, spacing: 0.9em, first-line-indent: 0pt)
+    let rule = line(length: 0.6in, stroke: 0.5pt)
+    image("art/device-black.svg", width: 2.4in)
+    v(0.8em)
+    text(19pt)[Common Weal Press]
+    v(-0.35em)
+    text(10.5pt, style: "italic")[The Christian Inheritance. Freely Given.]
+    v(0.1em)
+    rule
+    v(1fr)
+    [This edition is published by Common Weal Press and dedicated to the
+    public domain under the Creative Commons CC0 1.0 Universal Public Domain
+    Dedication. You are free to copy, distribute, modify and use it for any
+    purpose, without asking.
+    #link("https://creativecommons.org/publicdomain/zero/1.0/")[creativecommons.org/publicdomain/zero/1.0]]
+    parbreak()
+    image("lcc_standard_pd.png", width: 42%)
+    parbreak()
+    [_Freely you have received; freely give._ — Matthew 10:8]
+    parbreak()
+    [Printed copies are sold at the cost of printing: no revenue or royalty
+    is made from them. Free ebooks, PDFs and at-cost printed copies:]
+    v(1fr)
+    rule
+    v(-0.2em)
+    text(10pt, tracking: 0.05em)[commonwealpress.org]
+    v(-0.3em)
+    text(7.5pt)[Corrections and questions: #link("mailto:books@commonwealpress.org")[books\@commonwealpress.org]]
+  }),
 )
 // the Scripture proofs under each paragraph and answer (proofs.typ)
 #set enum(numbering: n => text(weight: "bold", size: 9pt)[#n.])
@@ -39,7 +61,7 @@
 
 #[
   #set text(size: 11pt)
-  #include "chapters/typ/confession/00-preface.typ"
+  #after-part(include "chapters/typ/confession/00-preface.typ")
 ]
 
 #[
@@ -63,7 +85,7 @@
 = An Orthodox Catechism
 
 #catechism(false)
-#include "chapters/typ/orthodox-catechism/00-preface.typ"
+#after-part(include "chapters/typ/orthodox-catechism/00-preface.typ")
 
 #catechism(true)
 #for n in range(1, 7) {
