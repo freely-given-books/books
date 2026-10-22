@@ -1,0 +1,9 @@
+#import "../../../proofs.typ": speech, footnote
+
+== 7. Of God’s Covenant
+
+#speech[#smallcaps[Paragraph 1]: The distance between God and the creature is so great, that although reasonable creatures do owe obedience to Him as their creator, yet they could never have attained the reward of life but by some voluntary condescension on God’s part, which He hath been pleased to express by way of covenant.#footnote[Luke 17:10; Job 35:7–8]]
+
+#speech[#smallcaps[Paragraph 2]: Moreover, man having brought himself under the curse of the law by his fall, it pleased the Lord to make a covenant of grace,#footnote[Genesis 2:17; Galatians 3:10; Romans 3:20–21] wherein He freely offers unto sinners life and salvation by Jesus Christ, requiring of them faith in Him, that they may be saved;#footnote[Romans 8:3; Mark 16:15–16; John 3:16] and promising to give unto all those that are ordained unto eternal life, His Holy Spirit, to make them willing and able to believe.#footnote[Ezekiel 36:26–27; John 6:44–45; Psalm 110:3]]
+
+#speech[#smallcaps[Paragraph 3]: This covenant is revealed in the gospel; first of all to Adam in the promise of salvation by the seed of the woman,#footnote[Genesis 3:15] and afterwards by farther steps, until the full discovery thereof was completed in the New Testament;#footnote[Hebrews 1:1] and it is founded in that eternal covenant transaction that was between the Father and the Son about the redemption of the elect;#footnote[2 Timothy 1:9; Titus 1:2] and it is alone by the grace of this covenant that all the posterity of fallen Adam that ever were saved did obtain life and blessed immortality, man being now utterly incapable of acceptance with God upon those terms on which Adam stood in his state of innocency.#footnote[Hebrews 11; 6; 13; Romans 4:1–2; Acts 4:12; John 8:56]]
