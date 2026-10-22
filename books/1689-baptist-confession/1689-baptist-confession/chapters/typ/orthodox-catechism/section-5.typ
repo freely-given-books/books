@@ -80,7 +80,7 @@
 
 #speech[#smallcaps[Question 114]: What doth God decree in the third Commandment?]
 
-#speech[#smallcaps[Answer]: That not only by cursing#footnote[Leviticus 24:11,&c; Leviticus 19:12] or forswearing, but also by#footnote[Matthew 5:37; James 5:12] rash swearing we should not use his Name despitefully, or unreverently, neither should by silence nor connivance be Partakers of these horrible Sins in others, but that#footnote[missing] we use the sacred and holy Name of God ever with great Devotion#footnote[1 Timothy 2:8] and Reverence, that he may be worshipped and honoured by us with a true and#footnote[Romans 2:24; 1 Timothy 6:1; Colossians 3:16–17] stedfast Confession#footnote[Matthew 10:32] and Invocation of his Name; and lastly, in all our Words and Actions whatsoever.]
+#speech[#smallcaps[Answer]: That not only by cursing#footnote[Leviticus 24:11,&c; Leviticus 19:12] or forswearing, but also by#footnote[Matthew 5:37; James 5:12] rash swearing we should not use his Name despitefully, or unreverently, neither should by silence nor connivance be Partakers of these horrible Sins in others, but that#footnote[\[No reference printed in 1680\]] we use the sacred and holy Name of God ever with great Devotion#footnote[1 Timothy 2:8] and Reverence, that he may be worshipped and honoured by us with a true and#footnote[Romans 2:24; 1 Timothy 6:1; Colossians 3:16–17] stedfast Confession#footnote[Matthew 10:32] and Invocation of his Name; and lastly, in all our Words and Actions whatsoever.]
 
 #speech[#smallcaps[Question 115]: Is it then so grievous a Sin by swearing, or banning, to take the Name of God in vain, as that God is also angry with them who in as much as in them lieth do not forbid or hinder it?]
 
@@ -156,7 +156,7 @@
 
 #speech[#smallcaps[Question 133]: What doth the ninth Commandment exact?]
 
-#speech[#smallcaps[Answer]: That I bear no#footnote[Proverbs 19:5,9; Proverbs 21:28; Psalm 15:3] false Witness against any Man,#footnote[missing] neither falsifie any Man’s words, neither backbite#footnote[Romans 1:29–30] nor reproach any Man, nor#footnote[Matthew 7:1,&c; Luke 6:37] condemn any rashly, or unheard, but avoid, and#footnote[John 8:44] shun with all carefulness all kind of Lies, and Deceipts, as the proper Works of the Devil, except I mean to stir#footnote[Proverbs 12:22; Proverbs 13:5] up against me the most grievous Wrath of God; and that in Judgments and other Affairs, I follow the Truth, and freely and constantly#footnote[Ephesians 4:24–25] profess the matter as it indeed is, and moreover defend and increase as much as in me lieth, the good Name and Estimation of others.#footnote[1 Peter 4:8]]
+#speech[#smallcaps[Answer]: That I bear no#footnote[Proverbs 19:5,9; Proverbs 21:28; Psalm 15:3] false Witness against any Man,#footnote[\[No reference printed in 1680\]] neither falsifie any Man’s words, neither backbite#footnote[Romans 1:29–30] nor reproach any Man, nor#footnote[Matthew 7:1,&c; Luke 6:37] condemn any rashly, or unheard, but avoid, and#footnote[John 8:44] shun with all carefulness all kind of Lies, and Deceipts, as the proper Works of the Devil, except I mean to stir#footnote[Proverbs 12:22; Proverbs 13:5] up against me the most grievous Wrath of God; and that in Judgments and other Affairs, I follow the Truth, and freely and constantly#footnote[Ephesians 4:24–25] profess the matter as it indeed is, and moreover defend and increase as much as in me lieth, the good Name and Estimation of others.#footnote[1 Peter 4:8]]
 
 #speech[#smallcaps[Question 134]: What is the tenth Commandment?]
 

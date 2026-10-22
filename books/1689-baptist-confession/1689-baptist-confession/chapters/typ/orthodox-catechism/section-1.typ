@@ -56,7 +56,7 @@
 
 #speech[#smallcaps[Question 14]: Is there any creature in Heaven or in Earth, which is only a creature, able to satisfy for us?]
 
-#speech[#smallcaps[Answer]: None. For first God will#footnote[missing] not punish that Sin in any other creature which man hath committed: and further, neither can that which is nothing but a creature sustain the wrath of God against sin,#footnote[Psalm 130:3; Job 4:18; Job 25:5] and deliver others from it.]
+#speech[#smallcaps[Answer]: None. For first God will#footnote[\[No reference printed in 1680\]] not punish that Sin in any other creature which man hath committed: and further, neither can that which is nothing but a creature sustain the wrath of God against sin,#footnote[Psalm 130:3; Job 4:18; Job 25:5] and deliver others from it.]
 
 #speech[#smallcaps[Question 15]: What manner of Mediatour then, and Deliverer must we seek for?]
 
@@ -100,7 +100,7 @@
 
 #speech[#smallcaps[Question 25]: What believest thou when thou sayest, I believe in God the Father Almighty, maker of Heaven and Earth?]
 
-#speech[#smallcaps[Answer]: I believe the everlasting Father of our Lord Iesus Christ,#footnote[Genesis 1:1–2; Psalm 33:6; Job 33:4; Acts 4:24; Acts 14:15,&c; Isaiah 45:7] who made of nothing Heaven and Earth, with all that are in them; who likewise upholdeth#footnote[Psalm 104:3; Psalm 115:3; Matthew 10:29; Hebrews 1:3; Romans 11:36] and governeth the same by his eternal Counsel and#footnote[John 1:12; Romans 8:15; Galatians 4:5–6; Ephesians 1:5] Providence. This God I believe to be my God and Father for Christ sake; and therefore so trust in him, and rely on him, that I make no doubt but he will provide all#footnote[Psalm 55:23; Matthew 6:26; Luke 12:22] things necessary both for my soul and body; and further, whatsoever evils he sendeth on me in this troublesome life, he#footnote[Romans 8:28] will turn them to my safety; seing both he is able to do it, as being#footnote[Isaiah 46:4; Romans 10:12; Romans 8:38] God Almighty, and willing to do it, as#footnote[missing] being a bountiful Father.]
+#speech[#smallcaps[Answer]: I believe the everlasting Father of our Lord Iesus Christ,#footnote[Genesis 1:1–2; Psalm 33:6; Job 33:4; Acts 4:24; Acts 14:15,&c; Isaiah 45:7] who made of nothing Heaven and Earth, with all that are in them; who likewise upholdeth#footnote[Psalm 104:3; Psalm 115:3; Matthew 10:29; Hebrews 1:3; Romans 11:36] and governeth the same by his eternal Counsel and#footnote[John 1:12; Romans 8:15; Galatians 4:5–6; Ephesians 1:5] Providence. This God I believe to be my God and Father for Christ sake; and therefore so trust in him, and rely on him, that I make no doubt but he will provide all#footnote[Psalm 55:23; Matthew 6:26; Luke 12:22] things necessary both for my soul and body; and further, whatsoever evils he sendeth on me in this troublesome life, he#footnote[Romans 8:28] will turn them to my safety; seing both he is able to do it, as being#footnote[Isaiah 46:4; Romans 10:12; Romans 8:38] God Almighty, and willing to do it, as#footnote[\[No reference printed in 1680\]] being a bountiful Father.]
 
 #speech[#smallcaps[Question 26]: What is the Providence of God?]
 
@@ -136,7 +136,7 @@
 
 #speech[#smallcaps[Question 34]: What believest thou when thou sayest, He was conceived by the Holy Ghost, and born of the Virgin Mary?]
 
-#speech[#smallcaps[Answer]: That the Son of God, who#footnote[missing] is and continueth true and#footnote[Romans 9:5; Isaiah 7:14; Isaiah 9:6; 1 John 5:20; John 20:28] everlasting#footnote[John 1:14; Galatians 4:4] God, took the#footnote[Romans 1:3] very Nature of man, of the flesh and blood of the Virgin Mary, through the working of the#footnote[missing] Holy-Ghost, that withal he might be the true Seed of#footnote[Philippians 2:7; Hebrews 4:15; Hebrews 7:26] David, like unto his Brethren in all things#footnote[missing] Sin excepted.#footnote[missing]]
+#speech[#smallcaps[Answer]: That the Son of God, who#footnote[\[No reference printed in 1680\]] is and continueth true and#footnote[Romans 9:5; Isaiah 7:14; Isaiah 9:6; 1 John 5:20; John 20:28] everlasting#footnote[John 1:14; Galatians 4:4] God, took the#footnote[Romans 1:3] very Nature of man, of the flesh and blood of the Virgin Mary, through the working of the#footnote[\[No reference printed in 1680\]] Holy-Ghost, that withal he might be the true Seed of#footnote[Philippians 2:7; Hebrews 4:15; Hebrews 7:26] David, like unto his Brethren in all things#footnote[\[No reference printed in 1680\]] Sin excepted.]
 
 #speech[#smallcaps[Question 35]: What profit takest thou by Christ’s holy Conception and Nativity?]
 

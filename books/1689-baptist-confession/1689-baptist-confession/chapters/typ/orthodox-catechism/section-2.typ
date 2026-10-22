@@ -8,7 +8,7 @@
 
 #speech[#smallcaps[Question 53]: What believest thou concerning the Holy and Catholick Church of Christ?]
 
-#speech[#smallcaps[Answer]: I believe that the Son#footnote[missing] of God doth from#footnote[missing] the beginning of the#footnote[missing] World to the End thereof, gather,#footnote[Isaiah 59:21; Ephesians 5:26] defend, and preserve unto himself by his Spirit#footnote[Acts 2:4,42; Ephesians 4:3–6] and Word, out of#footnote[Matthew 16:18] whole Mankind, a#footnote[1 John 3:21; 2 Corinthians 13:5] Company chosen to everlasting Life, and agreeing in true Faith; and that I am a lively Member of that Company, and so shal#footnote[missing] remain for ever.]
+#speech[#smallcaps[Answer]: I believe that the Son#footnote[\[No reference printed in 1680\]] of God doth from#footnote[\[No reference printed in 1680\]] the beginning of the#footnote[\[No reference printed in 1680\]] World to the End thereof, gather,#footnote[Isaiah 59:21; Ephesians 5:26] defend, and preserve unto himself by his Spirit#footnote[Acts 2:4,42; Ephesians 4:3–6] and Word, out of#footnote[Matthew 16:18] whole Mankind, a#footnote[1 John 3:21; 2 Corinthians 13:5] Company chosen to everlasting Life, and agreeing in true Faith; and that I am a lively Member of that Company, and so shal#footnote[\[No reference printed in 1680\]] remain for ever.]
 
 #speech[#smallcaps[Question 54]: What mean those words, The Communion of Saints?]
 
