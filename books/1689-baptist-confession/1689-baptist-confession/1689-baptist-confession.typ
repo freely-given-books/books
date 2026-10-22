@@ -1,5 +1,5 @@
 #import "@local/fgbooksLBCF:0.1.0": *
-#import "proofs.typ": catechism
+#import "proofs.typ": catechism, chapter-start
 
 #show outline: set text(size: 8pt)
 
@@ -51,7 +51,9 @@
     text(7.5pt)[Corrections and questions: #link("mailto:books@commonwealpress.org")[books\@commonwealpress.org]]
   }),
 )
-// the Scripture proofs under each paragraph and answer (proofs.typ)
+// the Scripture proofs under each paragraph and answer (proofs.typ); a
+// chapter's first paragraph may run on past the page its heading is on
+#show heading.where(level: 2): it => { it; chapter-start }
 #set enum(numbering: n => text(weight: "bold", size: 9pt)[#n.])
 #show enum: set text(size: 9pt)
 #set text(hyphenate: false, size: 10pt)
