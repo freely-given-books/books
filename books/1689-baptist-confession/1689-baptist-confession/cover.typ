@@ -117,47 +117,21 @@
 
 #let back = panel({
   set align(center)
-  set par(justify: true, leading: 0.68em)
-  v(0.5fr)
-  caps([Of the Holy Scriptures], 10pt, tracking: 0.26em, fill: gold)
-  v(0.14in)
+  // the back cover's words as the book has always had them: the closing
+  // prayer of the confession's preface, alone
+  v(1fr)
   diamond-rule(width: 1.3in)
-  v(0.3in)
-  // the confession's first words, opening in gold small capitals
-  block(width: 100%, {
-    set par(justify: false, leading: 0.7em)
-    set text(size: 12.5pt)
-    caps([The Holy Scripture], 12.5pt, tracking: 0.06em, fill: gold)
-    [ is the only sufficient, certain, and infallible rule of all saving
-    knowledge, faith, and obedience.]
-  })
-  v(0.1in)
-  align(right, caps([Chapter 1, paragraph 1], 7.5pt, tracking: 0.16em, fill: soft))
   v(0.32in)
-  diamond-rule(width: 1.3in)
-  v(0.28in)
   pad(x: 0.15in, {
-    set par(justify: false, leading: 0.62em)
+    set par(justify: true, leading: 0.8em)
     text(size: 11pt, style: "italic")[We shall conclude with our earnest
       prayer, that the God of all grace, will pour out those measures of his
       holy Spirit upon us, that the profession of truth may be accompanied
       with the sound belief, and diligent practice of it by us; that his name
       may in all things be glorified, through Jesus Christ our Lord. Amen.]
-    v(0.12in)
-    caps([To the Courteous Reader, 1677], 7.5pt, tracking: 0.16em, fill: soft)
   })
   v(0.32in)
   diamond-rule(width: 1.3in)
-  v(0.24in)
-  pad(x: 0.1in, {
-    set par(justify: false, leading: 0.6em)
-    set text(size: 9.5pt, fill: soft)
-    [First published in 1677 and owned by an assembly of more than a hundred
-    Baptist churches meeting in London in 1689, this confession sets out the
-    whole Christian faith in thirty-two chapters, with the Scriptures that
-    prove each part. It is bound here with two catechisms for learning it by
-    heart.]
-  })
   v(1fr)
   // the imprint at the foot, left of centre; the lower right is kept clear
   // for a barcode (2in x 1.2in) once the book has an ISBN
