@@ -8,7 +8,8 @@
 // proved clause, and the proofs as a numbered list under the paragraph or
 // answer, which is kept on one page when it fits (but for a chapter's first
 // paragraph, which may run on rather than leave the heading alone on its
-// page). In the catechisms a thin rule closes each answer.
+// page). In the catechisms a question is kept with its answer, and a thin
+// rule closes each answer.
 //
 // The ebook and the web pages read the TEI, not this file: there the proofs
 // are the usual pop-up notes.
@@ -46,9 +47,11 @@
   }
   // kept on one page when it fits; a speech longer than a page breaks, and
   // so may the first after a chapter heading
-  layout(size => {
-    let h = measure(block(width: size.width, whole)).height
-    block(breakable: h > size.height or _first.get(), whole)
-  })
+  // (a question is sticky outside the layout, which would hide it)
+  context block(sticky: _catechism.get() and calc.odd(_turn.get()),
+    layout(size => {
+      let h = measure(block(width: size.width, whole)).height
+      block(breakable: h > size.height or _first.get(), whole)
+    }))
   _first.update(false)
 }
