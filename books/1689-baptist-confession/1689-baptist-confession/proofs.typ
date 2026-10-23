@@ -69,7 +69,11 @@
     context {
       let ps = _proofs.get()
       if ps.len() > 0 { _proof-block(ps) }
-      if _catechism.get() and calc.even(_turn.get()) { v(0.3em); align(center, text(7pt, fill: luma(45%), sym.diamond.filled)) }
+      if _catechism.get() and calc.even(_turn.get()) {
+        // placed, not set as a paragraph, so it sits on the column's centre
+        v(0.3em)
+        block(width: 100%, height: 7pt, place(top + center, text(7pt, fill: luma(45%), sym.diamond.filled)))
+      }
     }
   }
   // kept on one page when it fits; a speech longer than a page breaks, and
