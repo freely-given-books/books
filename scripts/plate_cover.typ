@@ -10,7 +10,7 @@
 // where the plate sits, its three colours, its back-cover words.
 //
 //   #import "../../../scripts/plate_cover.typ": *
-//   #import "@local/fgbooks:0.13.0": press-seal
+//   #import "@local/fgbooks:0.13.1": press-seal
 //   #plate-cover(
 //     plate: read("art/plate.jpg", encoding: none),
 //     plate-at: (dx: -0.85in, dy: -0.9in, width: 6.35in, height: 9.525in),
@@ -197,6 +197,33 @@
           }
         }
       }))
+    } else if spine >= 0.25in {
+      // A thin spine (about 80 to 170 pages): too narrow for the full
+      // allowance, so the name and title run down it on one line from the
+      // same head position, held 1/16in off each fold, with a single rule
+      // across head and foot and the seal, as wide as the spine allows, at
+      // the foot (it still reads as a fountain at a fifth of an inch).
+      let w = spine - 0.125in
+      let s = calc.min(w, 0.5in)
+      place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
+        set align(center)
+        for (edge, sign) in ((top, 1.0), (bottom, -1.0)) {
+          place(edge + center, dy: sign * 0.42in, rect(width: w, height: 0.8pt, fill: accent))
+        }
+        if seal != none {
+          place(bottom + center, dy: -0.58in, seal(width: s, roundel: label, fountain: paper))
+        }
+        let size = calc.min(10pt, w / 1in * 72pt * 0.62)
+        place(top + center, dy: 0.66in, rotate(90deg, reflow: true,
+          box(width: trim-height - 1.32in - s - 0.3in, height: w, align(left + horizon, {
+            text(font: SERIF, weight: "medium", size: size * 0.9, tracking: 0.1em, fill: accent,
+              upper(spine-name))
+            h(0.1in)
+            text(size: 5pt, fill: accent, sym.diamond.filled)
+            h(0.1in)
+            text(font: DISPLAY, weight: "bold", size: size, fill: ink, spine-title)
+          }))))
+      }))
     }
 
     // --- back ---------------------------------------------------------------------
@@ -224,7 +251,7 @@
         grid(columns: (1fr, auto), align: (left + bottom, right + bottom),
           grid(columns: 2, column-gutter: 0.12in, align: left + horizon,
             if seal != none { seal(width: 0.46in, roundel: label, fountain: paper) },
-            caps([Common Weal Press], 7pt, label, tracking: 0.2em)),
+            caps([Common Weal Press], 7pt, accent, tracking: 0.2em)),
           if isbn != none {
             stack(box(fill: white, width: 2in, height: 1.2in), v(0.06in),
               text(size: 7.5pt)[ISBN #isbn])
