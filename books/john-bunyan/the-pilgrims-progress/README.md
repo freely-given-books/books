@@ -13,7 +13,9 @@ under the Similitude of a Dream*, Parts I (1678) and II (1684).
 | `the-pilgrims-progress.typ` | print edition (imports the `@local/fgbooks` template) |
 | `ebook-front.html` | ebook front matter (licence) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
-| `cover.typ` | the cover, in the imprint's panel design (`scripts/panel_cover.typ`, palette `ochre`); its front panel is the ebook cover, rendered at build time |
+| `cover.typ` | the cover, in the Common Weal Press plate design (`scripts/plate_cover.typ`): Christian setting out toward the wicket-gate and its light, hand-tinted; its front panel is the ebook cover, rendered at build time |
+| `art/plate.jpg` | the cover's plate: an engraving made for this edition (ChatGPT, 2026-10-22), hand-tinted (washes under the line) |
+| `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `source/pilgrim.thml.xml` | CCEL's ThML, untouched ([ccel.org/ccel/b/bunyan/pilgrim.xml](https://www.ccel.org/ccel/b/bunyan/pilgrim.xml); Logos's text of the 1853 Auburn edition): the provenance |
 | `source/the-pilgrims-progress.tei.xml` | enriched TEI edition: the CCEL text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings (modern text; the layout into stages; verse line by line) |
