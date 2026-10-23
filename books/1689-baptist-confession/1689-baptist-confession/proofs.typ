@@ -10,7 +10,7 @@
 // the paragraph or answer, short enough that a speech is kept whole on one
 // page when it fits (but for a chapter's first paragraph, which may run on
 // rather than leave the heading alone on its page). In the catechisms a
-// question is kept with its answer, and a small diamond closes each answer.
+// question is kept with its answer, and white space closes each answer.
 //
 // The ebook and the web pages read the TEI, not this file: there the proofs
 // are the usual pop-up notes.
@@ -69,11 +69,8 @@
     context {
       let ps = _proofs.get()
       if ps.len() > 0 { _proof-block(ps) }
-      if _catechism.get() and calc.even(_turn.get()) {
-        // placed, not set as a paragraph, so it sits on the column's centre
-        v(0.3em)
-        block(width: 100%, height: 7pt, place(top + center, text(7pt, fill: luma(45%), sym.diamond.filled)))
-      }
+      // a little more white after an answer than between question and answer
+      if _catechism.get() and calc.even(_turn.get()) { v(0.6em) }
     }
   }
   // kept on one page when it fits; a speech longer than a page breaks, and
