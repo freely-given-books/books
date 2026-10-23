@@ -12,7 +12,9 @@ wrath of Almighty God").
 | --- | --- |
 | `chapters/typ/sermon.typ` | the sermon, as edited |
 | `sinners-in-the-hands-of-an-angry-god.typ` | print edition, 4.25 × 6.875in (imports the `@local/fgbooks` template) |
-| `cover.jpg` | the ebook cover |
+| `cover.typ` | the Lulu cover wrap in the Common Weal Press plate design (`scripts/plate_cover.typ`): the pit's glow and the spider on its thread (`art/spider.svg`); `./fgb build` renders its front as the ebook cover |
+| `cover.jpg` | the earlier ebook cover image, no longer used |
+| `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `ebook-front.html` | ebook front matter (licence, place and date, text) |
 | `sinners-in-the-hands-of-an-angry-god.adoc` | earlier ebook source (asciidoctor-epub3), superseded by `ebook-front.html` + the TEI |
 | `source/N05520.tcp.xml` | EEBO-TCP's Evans text [N05520](https://github.com/textcreationpartnership/N05520), untouched: Edwards's *True Grace* (New York, 1753) with the "second edition" of *Sinners* (pages 43–62) bound after it. The 1741 first edition has no TCP transcription. |

@@ -12,7 +12,9 @@ Lord Jesus Christ* (1886).
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-all-of-grace.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
-| `cover_front.jpg` | the ebook cover (designed outside this repository, so kept as a source) |
+| `cover.typ` | the cover, in the Common Weal Press plate design (`scripts/plate_cover.typ`): the wayside fountain of chapter 1, its cup on a chain; its front panel is the ebook cover, rendered at build time |
+| `art/plate.png` | the cover's plate: an engraving made for this edition (ChatGPT, 2026-10-22), printed in the book's blue |
+| `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `source/grace.thml.xml` | CCEL's ThML, untouched ([ccel.org/ccel/s/spurgeon/grace.xml](https://www.ccel.org/ccel/s/spurgeon/grace.xml)): the provenance |
 | `source/all-of-grace.tei.xml` | enriched TEI edition: the CCEL text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings (modern text: no spelling pass; quotes curled, dashes spaced) |

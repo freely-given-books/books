@@ -11,7 +11,8 @@
 | `chapters/typ/argument-01.typ` … `argument-20.typ` | the twenty arguments |
 | `chapters/typ/application-01.typ` … `application-05.typ` | the application |
 | `the-secret-key-of-heaven.typ` | print edition (imports the `@local/fgbooks` template) |
-| `cover.typ` | the Lulu cover wrap (`scripts/panel_cover.typ`, palette sage); `./fgb build` gives it the interior's page count and trim, and renders its front as the ebook cover |
+| `cover.typ` | the Lulu cover wrap in the Common Weal Press plate design (`scripts/plate_cover.typ`): the key in the arched closet door (`art/key.svg`); `./fgb build` gives it the interior's page count and trim, and renders its front as the ebook cover |
+| `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `cover_front.jpg` | the earlier ebook cover image, no longer used |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-the-secret-key-of-heaven.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |

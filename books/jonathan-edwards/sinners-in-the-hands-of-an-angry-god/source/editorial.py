@@ -53,7 +53,7 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Sinners in the Hands of an Angry God", "author": "Jonathan Edwards",
         "file": "sinners-in-the-hands-of-an-angry-god.epub", "front": "ebook-front.html",
-        "cover": "cover.jpg",
+        "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css"]}
 PRINT = ["sinners-in-the-hands-of-an-angry-god.typ"]
 QUOTE_BLOCK = True
