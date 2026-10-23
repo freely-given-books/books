@@ -15,9 +15,15 @@
   }
   body
 }
+// Lulu's margins, as fgbooks sets them since 0.5.3 (fgbooksLBCF predates
+// that): the running head 0.5in from the trim, set closer to the text
+// (header-ascent, which the template leaves alone) under a deeper top margin,
+// and the inside margin Lulu's for 151-400 pages.
+#set page(header-ascent: 0.15in)
 #show: book.with(
   title: [The 1689 Baptist Confession of Faith],
   subtitle: [With Catechisms],
+  page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.625in, inside: 1in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(),
 )
