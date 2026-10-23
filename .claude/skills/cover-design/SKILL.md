@@ -78,23 +78,36 @@ seal and name plate, and the plate treatment; everything else is the book's.
      white, top third empty for the title, bottom sixth quiet for the seal,
      no text). The editor generates it (ChatGPT, 2:3 portrait, largest size)
      and drops it in Nextcloud `claude/fgbooks-generated-art/`, where every
-     generated image is kept, used or rejected.
+     generated image is kept, used or rejected. Uploads from a phone arrive
+     with a UUID name (`16A141D9-....PNG`): the newest file is the one meant;
+     rename it for the book and what changed ("Crook In The Lot (crook
+     revised).PNG") and note it in that folder's README.
+   - A design the editor liked before is a good start: an earlier vector
+     mock-up (the Crook's hills and crook, `art.py`) can be redrawn as an
+     engraving prompt, enriched with more of the book's own images.
    - *Vector emblem*: draw it as SVG (common-weal-press/sources/vector-art/
      `art.py` has the key, chalice, spider, hills as examples).
 3. **Check generated art for AI faults** before using it: crop and zoom on
    hands, faces, chains, mechanisms, text, symmetry. Seen so far: mismatched
    paired pillars, arrows stuck in backwards, smoke rising from the wrong end,
    fletching at both ends, a burden drawn as a modern backpack, a second
-   figure nobody asked for. Fixes go back to ChatGPT's edit tool ("change
-   nothing else"); repainting raster detail by hand is not something to try.
+   figure nobody asked for, a shepherd's crook drawn as a jointed walking
+   cane. Fixes go back to ChatGPT's edit tool: the editor selects only the
+   faulty object, the prompt redraws it and ends "Change nothing else."
+   Write that edit prompt when you report the fault. An edit can still
+   redraw other small things: compare the two images (`magick compare
+   -metric AE -fuzz 10%` over regions) and zoom on the rest (the sheep).
 4. **Make the plate** (scripts below): upscale 2x, turn the white into
-   transparency in the book's ink, or tint it.
+   transparency in the book's ink, or tint it (rule 5); keep a book's tint
+   script beside its plate (`art/tint.py`).
 5. **Write `cover.typ`** on `plate_cover.typ` (copy the nearest example) and
    check it alone, then with `./fgb build BOOK`; look at the wrap and the
    front at full size, the spine crop, and a 300 ppi crop of the art.
 6. If the book had no `cover.typ` (its ebook cover was an image), point
    `EPUB["cover"]` in `source/editorial.py` at `cover.typ`.
-7. Commit on a branch; the editor signs books off, never Claude. Any change
+7. Record the prompt (and any edit) in references/prompts.md and the book in
+   the table above.
+8. Commit on a branch; the editor signs books off, never Claude. Any change
    to a book's folder holds its signed release back.
 
 ## Making plates (scripts)
@@ -172,6 +185,24 @@ Marks must be woodcut weight, black and white, no lettering in the image
 
 ## Previewing
 
-`dist/<author>/<book>/` after `./fgb build`. On the website, unsigned covers
-show only with `npm run preview:unsigned` in `commonwealpress/` (serves on
-:4321); `npm run build` is production and takes signed releases only.
+`dist/<author>/<book>/` after `./fgb build`. For the editor to inspect, build
+into Nextcloud: `./fgb build [BOOK] --out ~/Nextcloud/claude/fgbooks/build-<date>`.
+
+On the website, unsigned covers show only in the preview build: the site
+reads `books/dist/`, so first `./fgb build` the books on main (all of them,
+or the ones changed), then in `commonwealpress/` run `npm run build:unsigned`
+and restart the preview server (`npx astro preview stop`, then
+`npx astro preview --host 0.0.0.0 --port 4321`, LAN demo). A released book
+changed since sign-off shows its main build marked Preview; a book never
+released shows as available from main. `npm run build` is production and
+takes signed releases only. Covers keep their file names, so tell the editor
+to force-refresh if the old cover still shows.
+
+## Covers with their own design
+
+A book may keep a design of its own (the 1689's engraved frame), but the
+press's marks sit where `plate_cover.typ` puts them, so a shelf lines up: on
+the front the seal 0.74in wide with its top at trim height - 0.5in - 1.18in
+and the name under it; on the back the seal 0.46in on the safety line, at
+the foot; on the spine the seal 0.62in up from the foot, inside 1/8in of
+each fold. Check by overlaying the wrap on a plate cover's (50% blend).
