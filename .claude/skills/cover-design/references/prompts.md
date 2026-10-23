@@ -80,6 +80,30 @@ journey ahead of him.
 ```
 (Check: the burden must be a roped bundle, not a backpack; no second figure.)
 
+**The Crook in the Lot** (Boston: "the mountains and the valleys ... the
+heights and depths ... in the lot"; "as the morning follows the night"; "the
+footsteps of the flock"; the Ettrick hills of an earlier vector design the
+editor liked):
+
+```
+The rounded, treeless sheep hills of the Scottish Borders at first light,
+range behind range receding into the distance. In the foreground a deep,
+narrow valley still lies in shadow, its floor dark and quiet. Beyond it, the
+sun is just rising behind the farthest hills: drawn only with fine engraved
+lines, its light spreads softly up into the sky and down the far slopes,
+which are already lit. On the near hillside, at the right, a single shepherd's
+crook stands planted upright in the turf, leaning very slightly, its curved
+hook clear against the sky. Far off on a middle slope, a small flock of sheep
+walks in a thin line along a winding sheep-track, very small. Still, hushed,
+the moment the night gives way to morning.
+```
+(The crook came back as a jointed walking cane; one edit, the staff selected:
+"Redraw only the staff standing in the hillside as a traditional shepherd's
+crook: one long, plain, slightly irregular wooden staff, the same thickness
+all the way up with no joints, rings or bands, rising to a wide, open hook at
+the top ... not a tight, closed cane handle. Keep its height, position and
+slight lean exactly as they are ... Change nothing else.")
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut
