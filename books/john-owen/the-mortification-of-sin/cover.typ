@@ -46,8 +46,10 @@
   pages: 151,
   ink: ink,
   accent: gold,
-  label: rgb("#241212"),
-  paper: ink,
+  // the seal and name plate in gold, the fountain and lettering cut in the
+  // ground's dark: dark-on-oxblood was lost against the ground
+  label: gold,
+  paper: rgb("#241212"),
   epigraph: [
     Do you mortify; do you make it your daily work; be always at it whilst
     you live; cease not a day from this work; be killing sin or it will be
