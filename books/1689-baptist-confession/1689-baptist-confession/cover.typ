@@ -30,10 +30,10 @@
 #let DISPLAY = ("Libertinus Serif Display", "Libertinus Serif")
 #set text(font: SERIF, fill: cream, kerning: true, hyphenate: false)
 
-// The press's mark, white line work, for a dark ground (from
-// common-weal-press/mark-white.svg).
-#let MARK = "art/mark-white.svg"
-#let mark(size) = image(MARK, width: size)
+// The press's seal, from the template: cream, the fountain cut through to the
+// navy ground.
+#import "@local/fgbooks:0.13.0": press-seal-knockout
+#let mark(size) = press-seal-knockout(width: size, fill: cream)
 
 // art/corner.svg is drawn in the engraved design's gold; this book's is warmer.
 #let CORNER = bytes(read("art/corner.svg").replace("#A9843F", gold.to-hex()))
