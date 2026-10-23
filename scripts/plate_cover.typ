@@ -146,9 +146,15 @@
       press-tab(trim-height - SAFETY - 1.18in)))
 
     // --- spine ------------------------------------------------------------------
-    // rules across head and foot, the title and author running down it, the
-    // seal at the foot; all inside what survives the trim
+    // Rules across head and foot, the seal at the foot. The author's surname
+    // has a fixed place under the head rules, at the same height on every
+    // book, so a shelf of these reads as a row of names: across the spine
+    // when it is wide enough for the name at a readable size, otherwise
+    // running down it from that same point. The title runs down the rest.
+    // Everything inside what survives the trim.
     let safe = spine - 2 * SPINE_TRIM
+    let spine-name = if spine-author != none { spine-author } else { author }
+    let spine-title = if spine-title != none { spine-title } else { title }
     if safe > 0.2in {
       place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
         set align(center)
@@ -160,15 +166,36 @@
         if seal != none {
           place(bottom + center, dy: -0.62in, seal(width: s, roundel: label, fountain: paper))
         }
-        place(center + horizon, dy: -0.25in, rotate(90deg, reflow: true,
-          box(width: trim-height - 2.6in, height: safe, align(center + horizon, {
-            text(font: DISPLAY, weight: "bold", size: calc.min(14pt, safe / 1in * 72pt * 0.42), fill: ink,
-              if spine-title != none { spine-title } else { title })
-            h(0.14in)
-            text(size: 7pt, fill: accent, sym.diamond.filled)
-            h(0.14in)
-            caps(if spine-author != none { spine-author } else { author }, 8.5pt, accent, tracking: 0.2em)
-          }))))
+        // where the name begins, and where the title must end (above the seal)
+        let name-y = 0.66in
+        let foot = trim-height - 0.62in - s - 0.16in
+        let title-size = calc.min(14pt, safe / 1in * 72pt * 0.42)
+        let name-text(size) = text(font: SERIF, weight: "medium", size: size, tracking: 0.1em,
+          fill: accent, upper(spine-name))
+        context {
+          // the name across the spine, as large as fits, up to 10.5pt
+          let w = measure(name-text(10pt)).width
+          let across = calc.min(10.5pt, 10pt * ((safe * 0.94) / w))
+          if across >= 7pt {
+            place(top + center, dy: name-y, name-text(across))
+            place(top + center, dy: name-y + across * 1.25 + 0.06in,
+              text(size: 6pt, fill: accent, sym.diamond.filled))
+            let top-y = name-y + across * 1.25 + 0.28in
+            place(top + center, dy: top-y, rotate(90deg, reflow: true,
+              box(width: foot - top-y, height: safe, align(center + horizon,
+                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)))))
+          } else {
+            // a thin spine: the name runs down it from the same place, then the title
+            place(top + center, dy: name-y, rotate(90deg, reflow: true,
+              box(width: foot - name-y, height: safe, align(left + horizon, {
+                name-text(calc.min(10.5pt, safe / 1in * 72pt * 0.55))
+                h(0.12in)
+                text(size: 6pt, fill: accent, sym.diamond.filled)
+                h(0.12in)
+                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)
+              }))))
+          }
+        }
       }))
     }
 
