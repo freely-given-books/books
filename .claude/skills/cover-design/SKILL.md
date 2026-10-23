@@ -24,6 +24,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Secret Key of Heaven | a key standing in an arched closet door | vector, `art/key.svg` + Typst arch |
 | Glorious Feast | the cup in a wreath of vine | vector, `art/chalice.svg` |
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
+| Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, one ink, `art/plate.png` |
 
 ## What the editor wants (learned the hard way)
 

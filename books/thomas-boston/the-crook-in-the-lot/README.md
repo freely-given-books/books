@@ -15,7 +15,8 @@ Puritan Paperbacks #5, here in full.
 | `chapters/typ/part-2.typ` | Part II, on Prov. 16:19 |
 | `chapters/typ/part-3.typ` | Part III, on 1 Pet. 5:6, with its two doctrines |
 | `the-crook-in-the-lot.typ` | print edition (imports the `@local/fgbooks` template) |
-| `cover.typ` | the cover wrap (`scripts/panel_cover.typ`, Boston's heather); its front panel is the ebook cover |
+| `cover.typ` | the cover wrap (`scripts/plate_cover.typ`, in Boston's heather); its front panel is the ebook cover |
+| `art/plate.png` | the cover's engraving (the Ettrick hills at dawn, a shepherd's crook), printed in heather |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `source/crook.thml.xml` | our transcription of M'Millan's edition (1848), as ThML: the provenance |
