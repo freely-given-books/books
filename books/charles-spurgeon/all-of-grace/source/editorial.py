@@ -17,7 +17,7 @@ REPORT_NOTES = [
 
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "All of Grace", "author": "Charles Spurgeon",
-        "file": "all-of-grace.epub", "front": "ebook-front.html", "cover": "cover_front.jpg",
+        "file": "all-of-grace.epub", "front": "ebook-front.html", "cover": "cover.typ",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["all-of-grace.typ"]
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks

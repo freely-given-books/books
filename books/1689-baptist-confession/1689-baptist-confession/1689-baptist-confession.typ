@@ -1,5 +1,5 @@
 #import "@local/fgbooksLBCF:0.1.0": *
-#import "@local/fgbooks:0.13.0": publisher-page
+#import "@local/fgbooks:0.13.1": publisher-page
 #import "proofs.typ": catechism, chapter-start
 
 #show outline: set text(size: 8pt)

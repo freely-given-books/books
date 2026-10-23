@@ -10,7 +10,7 @@
 // where the plate sits, its three colours, its back-cover words.
 //
 //   #import "../../../scripts/plate_cover.typ": *
-//   #import "@local/fgbooks:0.13.0": press-seal
+//   #import "@local/fgbooks:0.13.1": press-seal
 //   #plate-cover(
 //     plate: read("art/plate.jpg", encoding: none),
 //     plate-at: (dx: -0.85in, dy: -0.9in, width: 6.35in, height: 9.525in),
@@ -49,6 +49,18 @@
   // sits relative to the front's trim box (it may run past it: it is cut at
   // the bleed and at the spine fold)
   plate: none,
+  // or, in place of a plate image, art drawn in Typst: content laid on the
+  // front, its origin the front's top-left trim corner (it may run into the
+  // bleed). Drawn after the plate, before the title.
+  art: none,
+  // the front's own ground when it differs from the spine and back's (a
+  // radial glow behind a vignette): a fill; none uses `ground`
+  front-ground: none,
+  // where the title block sits: its top, measured from the trim, and its
+  // alignment (center, or left for a title set at the left margin)
+  title-y: 0.6in,
+  title-align: center,
+  title-width: none,
   plate-at: (dx: 0in, dy: 0in, width: 5.5in, height: 8.5in),
   // the ground of the spine and back: gradient stops from head to foot,
   // matched to the plate's colours down its edge
@@ -106,27 +118,30 @@
 
   wrap({
     // --- spine and back: the plate's ground ----------------------------------
-    place(top + left, rect(width: front-x, height: page-height,
-      fill: gradient.linear(dir: ttb, ..ground)))
+    // `ground` is gradient stops (head to foot) or any fill
+    let ground-fill = if type(ground) == array { gradient.linear(dir: ttb, ..ground) } else { ground }
+    place(top + left, rect(width: front-x, height: page-height, fill: ground-fill))
 
     // --- front: the plate, cut at the fold and the bleed ----------------------
     place(top + left, dx: front-x, box(width: trim-width + BLEED, height: page-height, clip: true, {
-      place(rect(width: 100%, height: 100%, fill: gradient.linear(dir: ttb, ..ground)))
+      place(rect(width: 100%, height: 100%,
+        fill: if front-ground != none { front-ground } else { ground-fill }))
       if plate != none {
         place(dx: plate-at.dx, dy: BLEED + plate-at.dy,
           box(width: plate-at.width, height: plate-at.height,
             image(plate, width: 100%, height: 100%)))
       }
+      if art != none { place(dy: BLEED, art) }
     }))
 
     // the title block, the house's order: author, rule, title, subtitle
-    place(top + left, dx: front-x + SAFETY, dy: BLEED + 0.6in,
-      box(width: trim-width - 2 * SAFETY, {
-        set align(center)
+    place(top + left, dx: front-x + SAFETY, dy: BLEED + title-y,
+      box(width: if title-width != none { title-width } else { trim-width - 2 * SAFETY }, {
+        set align(title-align)
         set par(spacing: 0pt, leading: 0.3em, justify: false)
         caps(author, 10pt, accent)
         v(0.16in)
-        diamond-rule(accent)
+        if title-align == left { line(length: 0.9in, stroke: 1.3pt + accent) } else { diamond-rule(accent) }
         v(0.2in)
         text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, title)
         if tail != none {
@@ -197,6 +212,33 @@
           }
         }
       }))
+    } else if spine >= 0.25in {
+      // A thin spine (about 80 to 170 pages): too narrow for the full
+      // allowance, so the name and title run down it on one line from the
+      // same head position, held 1/16in off each fold, with a single rule
+      // across head and foot and the seal, as wide as the spine allows, at
+      // the foot (it still reads as a fountain at a fifth of an inch).
+      let w = spine - 0.125in
+      let s = calc.min(w, 0.5in)
+      place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
+        set align(center)
+        for (edge, sign) in ((top, 1.0), (bottom, -1.0)) {
+          place(edge + center, dy: sign * 0.42in, rect(width: w, height: 0.8pt, fill: accent))
+        }
+        if seal != none {
+          place(bottom + center, dy: -0.58in, seal(width: s, roundel: label, fountain: paper))
+        }
+        let size = calc.min(10pt, w / 1in * 72pt * 0.62)
+        place(top + center, dy: 0.66in, rotate(90deg, reflow: true,
+          box(width: trim-height - 1.32in - s - 0.3in, height: w, align(left + horizon, {
+            text(font: SERIF, weight: "medium", size: size * 0.9, tracking: 0.1em, fill: accent,
+              upper(spine-name))
+            h(0.1in)
+            text(size: 5pt, fill: accent, sym.diamond.filled)
+            h(0.1in)
+            text(font: DISPLAY, weight: "bold", size: size, fill: ink, spine-title)
+          }))))
+      }))
     }
 
     // --- back ---------------------------------------------------------------------
@@ -224,7 +266,7 @@
         grid(columns: (1fr, auto), align: (left + bottom, right + bottom),
           grid(columns: 2, column-gutter: 0.12in, align: left + horizon,
             if seal != none { seal(width: 0.46in, roundel: label, fountain: paper) },
-            caps([Common Weal Press], 7pt, label, tracking: 0.2em)),
+            caps([Common Weal Press], 7pt, accent, tracking: 0.2em)),
           if isbn != none {
             stack(box(fill: white, width: 2in, height: 1.2in), v(0.06in),
               text(size: 7.5pt)[ISBN #isbn])

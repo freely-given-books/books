@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.12.0": *
+#import "@local/fgbooks:0.13.1": *
 
 #show outline: set text(10pt)
 
@@ -7,32 +7,10 @@
   title: [The Secret Key of Heaven],
   subtitle: [Or twenty arguments for closet prayer],
   author: "Thomas Brooks",
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
-
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
+  // the Common Weal Press publisher's page, from the template
+  publishing-info: publisher-page(note: [
     Set from Thomas Brooks’s _The Privy Key of Heaven_ (1665), and lightly modernized.
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-
-  ],
+  ]),
   preface: [
     #align(center + horizon)[
       #text(size: 12pt)[

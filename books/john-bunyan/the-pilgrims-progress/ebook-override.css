@@ -24,17 +24,3 @@ h3 {
   padding-top: 25%;
   margin-bottom: 1.5em;
 }
-
-
-/* The publisher's page (ebook-front.html), as the print one: the Common
-   Weal Press device, name and motto, then the licence. The device is black
-   on a white plate, so it shows on a dark reading theme too. */
-#front .imprint { text-align: center; margin-top: 2em; }
-#front .imprint p { text-indent: 0; text-align: center; font-size: 0.85em; margin: 0.7em 0; }
-#front img.device { width: 55%; max-width: 16em; background: #fff; padding: 0.4em; }
-#front .imprint p.press { font-size: 1.5em; margin: 0.6em 0 0; }
-#front .imprint p.motto { margin: 0.2em 0 0; }
-#front hr { width: 3em; margin: 1em auto; border: 0; border-top: 1px solid; }
-#front img.licence { width: 40%; max-width: 12em; }
-#front .imprint p.site { letter-spacing: 0.05em; font-size: 1em; }
-#front .imprint p.contact { font-size: 0.75em; }

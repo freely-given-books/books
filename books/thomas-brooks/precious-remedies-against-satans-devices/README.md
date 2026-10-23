@@ -18,7 +18,9 @@ Puritan Paperbacks list, no. 31.
 | `chapters/typ/propositions.typ`, `reasons.typ`, `use.typ` | the propositions, the reasons and the use |
 | `chapters/typ/appendix-01.typ` … `appendix-05.typ` | the appendix: five more devices |
 | `precious-remedies-against-satans-devices.typ` | print edition (`@local/fgbooks` template) |
-| `cover.typ` | Lulu cover wrap (`scripts/panel_cover.typ`, palette sage, as Brooks's *Secret Key*); `./fgb build` gives it the page count and renders the ebook cover |
+| `cover.typ` | Lulu cover wrap in the Common Weal Press plate design (`scripts/plate_cover.typ`): the shield of faith, a fiery dart quenched in it; `./fgb build` gives it the page count and renders the ebook cover |
+| `art/plate.png` | the cover's plate: an engraving made for this edition (ChatGPT, 2026-10-22), printed in the book's teal |
+| `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `ebook-front.html`, `ebook-override.css` | ebook front matter and styling |
 | `source/A77614.tcp.xml` | the 1653 edition as transcribed by EEBO-TCP ([A77614](https://github.com/textcreationpartnership/A77614)), untouched; the TCP header's date, 1658, is not the imprint's |
 | `source/precious-remedies-against-satans-devices.tei.xml` | enriched TEI: the 1653 text and every editorial decision |
