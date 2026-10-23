@@ -25,6 +25,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Glorious Feast | the cup in a wreath of vine | vector, `art/chalice.svg` |
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
+| Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 
 ## What the editor wants (learned the hard way)
 
@@ -41,6 +42,10 @@ seal and name plate, and the plate treatment; everything else is the book's.
    cross, light through clouds) fits any book and so says nothing; the
    author's figure that points to the gospel is better than trying to picture
    "the gospel".
+   Not every cover needs a picture (the editor, 2026-10-23): where a
+   book's own words carry it, type alone can be the image. For Owen, four
+   were offered (fading strokes, a year of tally marks, the 1668 title
+   page, Romans 8:13 set large); the verse was chosen.
 2. **Calm, single-subject images.** "Too much happening" was the commonest
    complaint: one dart beat a volley, the shield alone beat the armour
    trophy, the fountain alone beat the symbol-laden frame.

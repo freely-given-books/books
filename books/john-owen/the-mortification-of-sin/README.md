@@ -12,7 +12,7 @@ here in full.
 | `chapters/typ/preface.typ` | Owen's preface to the Christian reader |
 | `chapters/typ/chapter-01.typ` … `chapter-14.typ` | the fourteen chapters, each opening with Owen's summary of it |
 | `the-mortification-of-sin.typ` | print edition (imports the `@local/fgbooks` template) |
-| `cover.typ` | the cover wrap (`scripts/panel_cover.typ`, slate); its front panel is the ebook cover |
+| `cover.typ` | the cover wrap (`scripts/plate_cover.typ`, no picture: Romans 8:13 in oxblood and gold); its front is the ebook cover |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `source/mort.thml.xml` | CCEL's ThML, untouched ([ccel.org/ccel/o/owen/mort.xml](https://www.ccel.org/ccel/o/owen/mort.xml)): the provenance |
