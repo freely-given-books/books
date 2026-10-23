@@ -15,7 +15,6 @@
 | `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `cover_front.jpg` | the earlier ebook cover image, no longer used |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
-| `ebook-the-secret-key-of-heaven.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `source/A29703.tcp.xml` | the 1665 edition as transcribed by EEBO-TCP ([A29703](https://github.com/textcreationpartnership/A29703)), untouched: the provenance |
 | `source/the-secret-key-of-heaven.tei.xml` | enriched TEI edition: the 1665 text plus every editorial decision inline |

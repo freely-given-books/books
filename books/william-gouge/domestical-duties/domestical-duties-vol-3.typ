@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.12.0": *
+#import "@local/fgbooks:0.13.1": *
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -15,40 +15,12 @@
   subtitle: [Volume III — The Fifth and Sixth Treatises: Of Children and Parents],
   author: "William Gouge",
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
+  // the Common Weal Press publisher's page, from the template
+  publishing-info: publisher-page(note: [
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107).
 
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
-    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John
-    Haviland for William Bladen, 1622), with the spelling modernized. The text
-    is the Text Creation Partnership transcription of the first edition
-    (EEBO-TCP A68107).
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-
-    This is volume 3 of four. The complete work is in eight treatises:
-    I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of
-    wives; IV, of husbands; V, of children; VI, of parents; VII, of servants;
-    VIII, of masters.
-
-  ],
+    This is volume 3 of four. The complete work is in eight treatises: I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of wives; IV, of husbands; V, of children; VI, of parents; VII, of servants; VIII, of masters.
+  ]),
   preface: [
     #align(center + horizon)[
       #text(size: 12pt)[

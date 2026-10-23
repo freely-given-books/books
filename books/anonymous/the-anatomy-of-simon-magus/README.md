@@ -22,7 +22,6 @@ restored from the 1700 printing.
 | `the-anatomy-of-simon-magus.typ` | print edition (imports the `fgbooks` template) |
 | `ebook-front.html`, `ebook-appendix.html` | ebook title page and appendix divider |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
-| `ebook-the-anatomy-of-simon-magus.typ` | earlier ebook source (Typst HTML + pandoc + Calibre), superseded by the TEI build |
 | `source/` | the TCP transcription, the enriched TEI and its tables; see `source/README.md` |
 
 ## Everyday commands

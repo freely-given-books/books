@@ -16,7 +16,6 @@ wrath of Almighty God").
 | `cover.jpg` | the earlier ebook cover image, no longer used |
 | `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `ebook-front.html` | ebook front matter (licence, place and date, text) |
-| `sinners-in-the-hands-of-an-angry-god.adoc` | earlier ebook source (asciidoctor-epub3), superseded by `ebook-front.html` + the TEI |
 | `source/N05520.tcp.xml` | EEBO-TCP's Evans text [N05520](https://github.com/textcreationpartnership/N05520), untouched: Edwards's *True Grace* (New York, 1753) with the "second edition" of *Sinners* (pages 43–62) bound after it. The 1741 first edition has no TCP transcription. |
 | `source/sinners-in-the-hands-of-an-angry-god.tei.xml` | enriched TEI edition: the printed text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings |
