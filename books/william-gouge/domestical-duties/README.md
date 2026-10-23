@@ -22,8 +22,9 @@ perfect-bind as a single block; each volume has its own EPUB.
 The volumes are the imprint's 5.5×8.5 trim, at 10.5pt.
 
 **The covers are lettered as a set**, after the 1622 title page: olive
-(Psalm 128:3, "thy children like olive plants round about thy table") with
-a double gold frame, "Of Domestical Duties" in spaced capitals, and all
+(Psalm 128:3, "thy children like olive plants round about thy table"), a
+softly lit panel inside a double gold frame with a dark olive round it and
+on the spine and back, "Of Domestical Duties" in spaced capitals, and all
 eight treatises listed on every volume, that volume's picked out; the volume
 number stands in a roundel on the front and at one height on each spine,
 whose type and marks are sized to volume IV's, the thinnest, so the set

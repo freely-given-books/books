@@ -18,7 +18,9 @@ A set of volumes lettered after its printed title page uses
 work's contents with this volume's entries picked out, the volume in a
 roundel, with the house's type, seal, name plate, spine and back; its
 `spine-fit` sizes every spine to the thinnest volume's, so a set shelves
-alike.
+alike. `panel` fills inside the frame (Gouge: olive softly lit, a radial
+gradient) with `ground` round it and on spine and back; the editor liked
+the dark of the old covers kept this way.
 
 Covers already done (read them as worked examples, `books/<author>/<book>/cover.typ`):
 

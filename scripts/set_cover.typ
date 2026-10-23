@@ -28,15 +28,19 @@
   size: size, tracking: tracking, weight: weight, upper(body))
 
 // A volume number in a double-ruled roundel.
-#let roundel(n, colour, ink, size: 0.62in, type-size: 15pt) = box(
+#let roundel(n, colour, ink, size: 0.72in, type-size: 17pt) = box(
   width: size, height: size, radius: 50%, stroke: 1pt + colour,
   align(center + horizon, box(width: size - 0.1in, height: size - 0.1in,
     radius: 50%, stroke: 0.4pt + colour,
     align(center + horizon, text(font: DISPLAY, size: type-size, fill: ink, n)))))
 
 #let set-cover(
-  // one fill for the whole wrap
+  // the spine and back's fill, and the front's unless it has its own:
+  // `front-ground` (any fill, a gradient laid over the front's trim and
+  // bleed), or `panel`, a fill inside the frame with `ground` outside it
   ground: rgb("#4A5230"),
+  front-ground: none,
+  panel: none,
   seal: none,
   title: [Title],
   // the title as lettered() lines; none sets `title` plainly
@@ -50,7 +54,7 @@
   // (label, entry) pairs, and the indexes of this volume's entries
   contents: (),
   current: (),
-  contents-height: 1.5in,
+  contents-height: 2.45in,
   volume: none,          // "Volume I", under the roundel
   volume-number: none,   // "I", in it
   // the spine's type, roundel and seal are sized to this width, the
@@ -99,6 +103,13 @@
     // the frame, 0.3in inside the trim; the seal and name plate sit inside
     // its foot at the house's height
     let frame = 0.3in
+    if front-ground != none {
+      place(top + left, dx: front-x, rect(width: trim-width + BLEED, height: page-height, fill: front-ground))
+    }
+    if panel != none {
+      place(top + left, dx: front-x + frame, dy: BLEED + frame,
+        rect(width: trim-width - 2 * frame, height: trim-height - 2 * frame, fill: panel))
+    }
     place(top + left, dx: front-x + frame, dy: BLEED + frame,
       box(width: trim-width - 2 * frame, height: trim-height - 2 * frame,
         stroke: 1.4pt + accent, inset: 3.5pt,
@@ -131,9 +142,9 @@
           // a fixed height, so the roundel stands at one place on every
           // volume whichever entries wrap
           block(height: contents-height, width: 100%, align(horizon, {
-            set text(size: 9.5pt)
+            set text(size: 11pt)
             set par(leading: 0.42em)
-            grid(columns: (2.4em, 1fr), column-gutter: 0.6em, row-gutter: 0.58em,
+            grid(columns: (2.4em, 1fr), column-gutter: 0.6em, row-gutter: 0.62em,
               align: (right + top, left + top),
               ..contents.enumerate().map(((i, entry)) => {
                 let on = i in current
