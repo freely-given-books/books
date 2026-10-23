@@ -72,7 +72,8 @@ seal and name plate, and the plate treatment; everything else is the book's.
    - *Engraving*: write a prompt from references/prompts.md (black ink on
      white, top third empty for the title, bottom sixth quiet for the seal,
      no text). The editor generates it (ChatGPT, 2:3 portrait, largest size)
-     and drops it in Nextcloud `claude/fgbooks/cover-family-2026-10-22/round-4/art-in/`.
+     and drops it in Nextcloud `claude/fgbooks-generated-art/`, where every
+     generated image is kept, used or rejected.
    - *Vector emblem*: draw it as SVG (common-weal-press/sources/vector-art/
      `art.py` has the key, chalice, spider, hills as examples).
 3. **Check generated art for AI faults** before using it: crop and zoom on
