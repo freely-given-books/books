@@ -21,12 +21,14 @@ perfect-bind as a single block; each volume has its own EPUB.
 
 The volumes are the imprint's 5.5×8.5 trim, at 10.5pt.
 
-**The covers are lettered as a set**, after the 1622 title page: a framed
-olive panel (Psalm 128:3, "thy children like olive plants round about thy
-table") with gold rules, "Of Domestical Duties" in spaced capitals, and all
+**The covers are lettered as a set**, after the 1622 title page: olive
+(Psalm 128:3, "thy children like olive plants round about thy table") with
+a double gold frame, "Of Domestical Duties" in spaced capitals, and all
 eight treatises listed on every volume, that volume's picked out; the volume
-number stands in a roundel on the front and at one height on each spine
-(`front-style: "set"` in `scripts/panel_cover.typ`).
+number stands in a roundel on the front and at one height on each spine,
+whose type and marks are sized to volume IV's, the thinnest, so the set
+shelves alike. The press's seal and name plate are where every cover has
+them (`scripts/set_cover.typ`).
 
 ## Volumes and chapters
 
@@ -171,7 +173,7 @@ Each ebook lists every one of Gouge's numbered sections under its chapter
   perfect-bound template for the actual page count and paper and check the
   cover against it.
 - **The spine is Lulu's own formula,** `pages / 444 + 0.06in`, for every
-  cover of the imprint (`scripts/panel_cover.typ`); `pages × caliper` drifts
+  cover of the imprint; `pages × caliper` drifts
   from it on thick books.
 - **All four volumes are inside the range that binds and opens flat.** 179–352
   pages, against Lulu's 32–800 for perfect binding and the ~420 at which a
