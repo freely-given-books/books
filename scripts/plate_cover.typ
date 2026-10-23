@@ -49,6 +49,18 @@
   // sits relative to the front's trim box (it may run past it: it is cut at
   // the bleed and at the spine fold)
   plate: none,
+  // or, in place of a plate image, art drawn in Typst: content laid on the
+  // front, its origin the front's top-left trim corner (it may run into the
+  // bleed). Drawn after the plate, before the title.
+  art: none,
+  // the front's own ground when it differs from the spine and back's (a
+  // radial glow behind a vignette): a fill; none uses `ground`
+  front-ground: none,
+  // where the title block sits: its top, measured from the trim, and its
+  // alignment (center, or left for a title set at the left margin)
+  title-y: 0.6in,
+  title-align: center,
+  title-width: none,
   plate-at: (dx: 0in, dy: 0in, width: 5.5in, height: 8.5in),
   // the ground of the spine and back: gradient stops from head to foot,
   // matched to the plate's colours down its edge
@@ -106,27 +118,30 @@
 
   wrap({
     // --- spine and back: the plate's ground ----------------------------------
-    place(top + left, rect(width: front-x, height: page-height,
-      fill: gradient.linear(dir: ttb, ..ground)))
+    // `ground` is gradient stops (head to foot) or any fill
+    let ground-fill = if type(ground) == array { gradient.linear(dir: ttb, ..ground) } else { ground }
+    place(top + left, rect(width: front-x, height: page-height, fill: ground-fill))
 
     // --- front: the plate, cut at the fold and the bleed ----------------------
     place(top + left, dx: front-x, box(width: trim-width + BLEED, height: page-height, clip: true, {
-      place(rect(width: 100%, height: 100%, fill: gradient.linear(dir: ttb, ..ground)))
+      place(rect(width: 100%, height: 100%,
+        fill: if front-ground != none { front-ground } else { ground-fill }))
       if plate != none {
         place(dx: plate-at.dx, dy: BLEED + plate-at.dy,
           box(width: plate-at.width, height: plate-at.height,
             image(plate, width: 100%, height: 100%)))
       }
+      if art != none { place(dy: BLEED, art) }
     }))
 
     // the title block, the house's order: author, rule, title, subtitle
-    place(top + left, dx: front-x + SAFETY, dy: BLEED + 0.6in,
-      box(width: trim-width - 2 * SAFETY, {
-        set align(center)
+    place(top + left, dx: front-x + SAFETY, dy: BLEED + title-y,
+      box(width: if title-width != none { title-width } else { trim-width - 2 * SAFETY }, {
+        set align(title-align)
         set par(spacing: 0pt, leading: 0.3em, justify: false)
         caps(author, 10pt, accent)
         v(0.16in)
-        diamond-rule(accent)
+        if title-align == left { line(length: 0.9in, stroke: 1.3pt + accent) } else { diamond-rule(accent) }
         v(0.2in)
         text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, title)
         if tail != none {
