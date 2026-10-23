@@ -19,6 +19,12 @@
 #let BLEED = 0.125in
 #let SAFETY = 0.5in
 #let FRAME_INSET = 0.3in
+#let SPINE_TRIM = 0.125in
+// The press's seal and name on the front, at plate_cover.typ's height and
+// size, so the 1689 stands in a row with the other books: the seal's top,
+// from the trim, and its width.
+#let TAB_Y = trim-height - SAFETY - 1.18in
+#let TAB_SEAL = 0.74in
 #let spine = (pages / 444.0 + 0.06) * 1in
 
 #let navy = rgb("#1a2744")
@@ -109,10 +115,11 @@
   caps([An Orthodox Catechism · 1680], 9.5pt, tracking: 0.14em, fill: soft)
   v(1.3fr)
   caps([Sola Scriptura], 9pt, tracking: 0.3em, fill: gold)
-  v(0.24in)
-  mark(0.6in)
-  v(0.1in)
-  caps([Common Weal Press], 8pt, tracking: 0.24em, fill: soft)
+  // the press tab below is placed, not flowed: keep its room
+  v(trim-height - SAFETY - TAB_Y + 0.24in)
+  place(top + center, dy: TAB_Y - SAFETY, mark(TAB_SEAL))
+  place(top + center, dy: TAB_Y - SAFETY + TAB_SEAL + 0.165in,
+    caps([Common Weal Press], 8pt, tracking: 0.24em, fill: soft))
 })
 
 #let back = panel({
@@ -133,9 +140,10 @@
   v(0.32in)
   diamond-rule(width: 1.3in)
   v(1fr)
-  // the imprint at the foot, left of centre; the lower right is kept clear
-  // for a barcode (2in x 1.2in) once the book has an ISBN
-  pad(left: 0.42in, bottom: 0.2in, align(left, stack(dir: ltr, spacing: 0.12in,
+  // the imprint at the foot, on the safety line as on the other books but
+  // clear of the frame's corner; the lower right is kept clear for a barcode
+  // (2in x 1.2in) once the book has an ISBN
+  pad(left: 0.42in, align(left, stack(dir: ltr, spacing: 0.12in,
     mark(0.46in),
     align(horizon, caps([Common Weal Press], 7.5pt, tracking: 0.2em, fill: soft)))))
 })
@@ -157,7 +165,8 @@
       h(0.12in)
       text(size: 9pt, style: "italic", fill: soft)[With Catechisms]
     }))))
-  place(center + bottom, dy: -0.66in, mark(spine - 0.14in))
+  // the seal where the other books have it, inside 1/8in of each fold
+  place(center + bottom, dy: -0.62in, mark(calc.min(spine - 2 * SPINE_TRIM, 0.5in)))
 })
 
 #if front-only {
