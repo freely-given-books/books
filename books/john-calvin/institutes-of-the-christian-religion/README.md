@@ -8,6 +8,10 @@ Book IV (vols 5-6, chapters 1-13 and 14-20). Sources: `source/SOURCES.md`.
 - `source/editorial.py`: the layout (files, volumes, short titles), what is left out.
 - `source/make_volumes.py`: writes `institutes-vol-N.typ`, `cover-vol-N.typ` and
   `ebook-front-vol-N.html` from the layout; run it after changing either.
+- The covers (`scripts/set_cover.typ` with a front of their own): the
+  spectacles on an open book, Book I. vi. 1, as a small vignette
+  (`art/vignette.png`, made by `art/vignette.py` from the generated
+  engraving), on grounds that step from sea-green to indigo across the six.
 - `chapters/typ/vol-N/`: the text to review, one file per chapter.
 - `source/witness-check/`: how CCEL is checked against the 1845 printing, volume by
   volume (status, the agent's brief, the scripts that apply its report).

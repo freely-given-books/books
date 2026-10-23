@@ -41,6 +41,10 @@
   ground: rgb("#4A5230"),
   front-ground: none,
   panel: none,
+  // a front of the set's own design, in place of the frame, the lettering
+  // and the contents: content laid on the front's trim box (the seal and
+  // name plate are still set at the house's place, over it)
+  front: none,
   seal: none,
   title: [Title],
   // the title as lettered() lines; none sets `title` plainly
@@ -106,16 +110,19 @@
     if front-ground != none {
       place(top + left, dx: front-x, rect(width: trim-width + BLEED, height: page-height, fill: front-ground))
     }
-    if panel != none {
+    if panel != none and front == none {
       place(top + left, dx: front-x + frame, dy: BLEED + frame,
         rect(width: trim-width - 2 * frame, height: trim-height - 2 * frame, fill: panel))
     }
+    let seal-y = trim-height - SAFETY - 1.18in
+    if front != none {
+      place(top + left, dx: front-x, dy: BLEED, box(width: trim-width, height: trim-height, front))
+    } else {
     place(top + left, dx: front-x + frame, dy: BLEED + frame,
       box(width: trim-width - 2 * frame, height: trim-height - 2 * frame,
         stroke: 1.4pt + accent, inset: 3.5pt,
         box(width: 100%, height: 100%, stroke: 0.5pt + accent)))
 
-    let seal-y = trim-height - SAFETY - 1.18in
     place(top + left, dx: front-x + SAFETY, dy: BLEED + SAFETY + 0.12in,
       box(width: trim-width - 2 * SAFETY, height: seal-y - SAFETY - 0.2in, {
         set align(center)
@@ -163,6 +170,7 @@
         }
         v(1fr)
       }))
+    }
     if seal != none {
       place(top + left, dx: front-x, dy: BLEED, box(width: trim-width, height: trim-height, {
         place(center + top, dy: seal-y, seal(width: 0.74in, roundel: label, fountain: paper))
