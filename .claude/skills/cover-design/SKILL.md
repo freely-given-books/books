@@ -13,6 +13,14 @@ The design every new cover uses is **`scripts/plate_cover.typ`**: an image (a
 foot, the spine and back in the plate's own colours. The older
 `scripts/panel_cover.typ` (coloured panel on a pale ground) is what books not
 yet redone still use; the 1689 Confession has its own engraved-frame cover.
+A set of volumes lettered after its printed title page uses
+**`scripts/set_cover.typ`** (Gouge's four): a double-ruled frame, the whole
+work's contents with this volume's entries picked out, the volume in a
+roundel, with the house's type, seal, name plate, spine and back; its
+`spine-fit` sizes every spine to the thinnest volume's, so a set shelves
+alike. `panel` fills inside the frame (Gouge: olive softly lit, a radial
+gradient) with `ground` round it and on spine and back; the editor liked
+the dark of the old covers kept this way.
 
 Covers already done (read them as worked examples, `books/<author>/<book>/cover.typ`):
 
@@ -26,6 +34,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
+| Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
 
 ## What the editor wants (learned the hard way)
 
