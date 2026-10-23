@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.12.0": *
+#import "@local/fgbooks:0.13.1": *
 #import "common.typ": chapter
 
 #set outline(depth: 2)
@@ -11,29 +11,8 @@
   font-size: 12pt,
   title: [The Anatomy of Simon Magus],
   author: "Anonymous, 1700",
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
-
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-  ],
+  // the Common Weal Press publisher's page, from the template
+  publishing-info: publisher-page(),
   foreword: [
     The term “simony” is derived from Simon Magus, the Samaritan sorcerer of Acts 8 who offered Peter silver in exchange for the power of the Holy Spirit. While it most frequently refers to the purchase of church office, the term refers more broadly to the buying and selling of any spiritual thing.
     

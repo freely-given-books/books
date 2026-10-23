@@ -12,7 +12,6 @@ Latin by Thomas Pickering.
 | `chapters/typ/chapter-01.typ` … `chapter-18.typ` | one file per chapter of the treatise |
 | `christian-economy.typ` | print edition (imports the `fgbooks` template) |
 | `ebook-front.html` | ebook front matter (title page, licence, epigraph) |
-| `ebook-christian-economy.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | print wrap cover, from the shared `scripts/panel_cover.typ` design |
 | `sources/dedication.typ`, `sources/treatise.typ` | original-spelling render, kept for reference |

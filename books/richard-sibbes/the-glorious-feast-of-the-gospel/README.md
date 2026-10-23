@@ -15,7 +15,6 @@ Taylor.
 | `art/device-ebook.png` | the press's device, for the ebook's publisher's page |
 | `cover.jpg` | the earlier ebook cover image, no longer used |
 | `ebook-front.html` | ebook front matter (licence) |
-| `ebook-the-glorious-feast-of-the-gospel.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `source/A93248.tcp.xml` | the 1650 edition as transcribed by EEBO-TCP ([A93248](https://github.com/textcreationpartnership/A93248)), untouched: the provenance |
 | `source/the-glorious-feast-of-the-gospel.tei.xml` | enriched TEI edition: the 1650 text plus every editorial decision inline |

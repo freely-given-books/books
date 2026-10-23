@@ -10,7 +10,6 @@ Lord Jesus Christ* (1886).
 | `chapters/typ/chapter-01.typ` … `chapter-20.typ` | one file per chapter (extracted from the TEI) |
 | `all-of-grace.typ` | print edition (imports the `@local/fgbooks` template) |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
-| `ebook-all-of-grace.typ` | earlier ebook source (Typst HTML export + Calibre), superseded by `ebook-front.html` + the TEI |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `cover.typ` | the cover, in the Common Weal Press plate design (`scripts/plate_cover.typ`): the wayside fountain of chapter 1, its cup on a chain; its front panel is the ebook cover, rendered at build time |
 | `art/plate.png` | the cover's plate: an engraving made for this edition (ChatGPT, 2026-10-22), printed in the book's blue |
