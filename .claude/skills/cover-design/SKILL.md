@@ -52,8 +52,12 @@ seal and name plate, and the plate treatment; everything else is the book's.
    vector only simple emblems (a key, a cup in a wreath, a spider). For
    anything with a landscape, figures or depth, write an image-generator
    prompt (references/prompts.md) and let the editor generate it.
-5. **Hand-tinting is for flagships** (Pilgrim); one-ink plates in the book's
-   colour are the default.
+5. **Colour suits the book** (the editor, 2026-10-23: "some deserve this
+   soft color, some vibrant colors"). Choose per book among: one ink in the
+   book's colour (Precious Remedies, All of Grace); a soft hand-tint, pale
+   washes under the line (Pilgrim, Crook in the Lot); or vibrant colour,
+   fuller and more saturated, for a book whose image is bold (a fire, a
+   feast). Say which you chose and why; a wish for "more color" means tint.
 6. **Spine:** the surname has a fixed place under the head rules on every
    book, so a shelf reads as a row of names (no per-author emblem). Thin
    spines still carry name, title and seal.
@@ -111,9 +115,14 @@ magick -size 2048x3072 xc:'#173A57' mask.png -alpha off -compose CopyOpacity -co
 
 Smoke or anything that must fade under the title: multiply the mask by a
 vertical gradient before compositing (Precious Remedies). Hand-tinting:
-`scripts/tint_example.py` (Pilgrim's): washes under the line, each clipped to
-where the engraver drew densely so colour stays inside the figure, the line
-multiplied over. Its masks are Pilgrim's coordinates; copy and redraw them.
+`scripts/tint_example.py` (Pilgrim's; Crook's is the book's `art/tint.py`):
+washes under the line, each clipped to where the engraver drew densely so
+colour stays inside the figure, the line multiplied over. Its masks are
+Pilgrim's coordinates; copy and redraw them. For vibrant colour raise the
+wash strengths and saturation, keep the line ink dark. Match `ground` to the
+plate's colours down its edge (sample them), and where the plate stops short
+of the foot, fade its last rows into one flat colour and give that as
+`front-ground`, or a seam shows.
 Save a tinted plate as JPEG quality 93, 4:4:4; a one-ink plate as PNG.
 
 At 2048x3072 a full-bleed plate prints at about 350 dpi; aim for 300+.
