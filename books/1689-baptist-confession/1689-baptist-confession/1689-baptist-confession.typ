@@ -1,5 +1,4 @@
-#import "@local/fgbooksLBCF:0.1.0": *
-#import "@local/fgbooks:0.13.1": publisher-page
+#import "@local/fgbooks:0.13.1": book, publisher-page
 #import "proofs.typ": catechism, chapter-start
 
 #show outline: set text(size: 8pt)
@@ -15,24 +14,20 @@
   }
   body
 }
-// Lulu's margins, as fgbooks sets them since 0.5.3 (fgbooksLBCF predates
-// that): the running head 0.5in from the trim, set closer to the text
-// (header-ascent, which the template leaves alone) under a deeper top margin,
-// and the inside margin Lulu's for 151-400 pages.
-#set page(header-ascent: 0.15in)
 #show: book.with(
   title: [The 1689 Baptist Confession of Faith],
   subtitle: [With Catechisms],
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.625in, inside: 1in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(),
+  font-size: 10pt,
 )
 // the Scripture proofs under each paragraph and answer (proofs.typ); a
 // chapter's first paragraph may run on past the page its heading is on
-#show heading.where(level: 2): it => { it; chapter-start }
-#set enum(numbering: n => text(weight: "bold", size: 9pt)[#n.])
-#show enum: set text(size: 9pt)
-#set text(hyphenate: false, size: 10pt)
+// the running head on a recto is the last <short> before it (the template):
+// each chapter's title, and a catechism's own name where it has none
+#show heading.where(level: 2): it => { it; [#metadata(it.body) <short>]; chapter-start }
+#set text(hyphenate: false)
 #set par(first-line-indent: 0pt)
 
 = The Baptist Confession
@@ -43,8 +38,23 @@
 ]
 
 #[
-  // the confession's chapter titles in capitals, as it has always been set
-  #show heading.where(level: 2): upper
+  // the confession's chapter heads: "Chapter 14" in spaced capitals over
+  // the title, regular weight, a diamond rule under
+  #show heading.where(level: 2): it => {
+    show regex("^(\d+)\. (.+)$"): m => {
+      let (n, title) = m.text.match(regex("^(\d+)\. (.+)$")).captures
+      text(9pt, weight: 400, tracking: 0.3em, upper[Chapter #n])
+      linebreak()
+      v(0.35em)
+      text(14pt, weight: 400, tracking: 0.12em, upper(title))
+      linebreak()
+      v(0.2em)
+      box(width: 1.1in, grid(columns: (1fr, auto, 1fr), column-gutter: 0.08in, align: horizon,
+        line(length: 100%, stroke: 0.5pt), text(7pt, weight: 400, sym.diamond.filled),
+        line(length: 100%, stroke: 0.5pt)))
+    }
+    it
+  }
   #for n in range(1, 33) {
     include "chapters/typ/confession/chapter-" + (if n < 10 { "0" } else { "" }) + str(n) + ".typ"
   }
@@ -56,11 +66,13 @@
 ]
 
 = The Baptist Catechism
+#metadata[The Baptist Catechism] <short>
 
 #catechism(true)
 #include "chapters/typ/baptist-catechism/questions.typ"
 
 = An Orthodox Catechism
+#metadata[An Orthodox Catechism] <short>
 
 #catechism(false)
 #after-part(include "chapters/typ/orthodox-catechism/00-preface.typ")
