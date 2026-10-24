@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 183 |
-| spelling | 70 |
-| grammar | 18 |
-| spacing | 15 |
-| punctuation | 8 |
+| emendation | 334 |
+| spelling | 101 |
+| spacing | 28 |
+| grammar | 25 |
+| punctuation | 20 |
 
 ## emendation
 
@@ -193,16 +193,171 @@
 - [book-2/chapter-04.typ] cleanse from → purge
 - [book-2/chapter-04.typ] sin → our sins
 - [book-2/chapter-05.typ] in → on
+- [book-3/chapter-01.typ] when → that
+- [book-3/chapter-01.typ] I → 
+- [book-3/chapter-01.typ] be → he
+- [book-3/chapter-01.typ] the → 
+- [book-3/chapter-01.typ] should → shall
+- [book-3/chapter-01.typ] a → 
+- [book-3/chapter-01.typ] in → at
+- [book-3/chapter-01.typ] in → at
+- [book-3/chapter-01.typ] and his statutes → 
+- [book-3/chapter-01.typ] lengthened → confirmed
+- [book-3/chapter-01.typ] up → in
+- [book-3/chapter-01.typ] Even so → Yea
+- [book-3/chapter-01.typ] for so → because
+- [book-3/chapter-01.typ] in thy sight → to thee
+- [book-3/chapter-01.typ] nations → men
+- [book-3/chapter-01.typ] but → at
+- [book-3/chapter-01.typ] for → for a
+- [book-3/chapter-01.typ] their → your
+- [book-3/chapter-02.typ] him → them
+- [book-3/chapter-02.typ] or → to
+- [book-3/chapter-02.typ] that → that hath
+- [book-3/chapter-02.typ] from our sins in → with
+- [book-3/chapter-02.typ] The Lord → God
+- [book-3/chapter-02.typ] them that → who
+- [book-3/chapter-02.typ] His → The
+- [book-3/chapter-02.typ] which → whom
+- [book-3/chapter-02.typ] did predestinate → predestinated
+- [book-3/chapter-02.typ] and → 
+- [book-3/chapter-02.typ] yet → then
+- [book-3/chapter-02.typ] of → according to
+- [book-3/chapter-02.typ] evil → wrath
+- [book-3/chapter-02.typ] , O Father , because → that
+- [book-3/chapter-02.typ] the → 
+- [book-3/chapter-02.typ] he → he did
+- [book-3/chapter-02.typ] did → 
+- [book-3/chapter-02.typ] truth → life
+- [book-3/chapter-02.typ] life → resurrection
+- [book-3/chapter-03.typ] nor → and
+- [book-3/chapter-03.typ] are → are not
+- [book-3/chapter-03.typ] not → 
+- [book-3/chapter-04.typ] is → are
+- [book-3/chapter-04.typ] of → 
+- [book-3/chapter-04.typ] your → the
+- [book-3/chapter-04.typ] a → 
+- [book-3/chapter-04.typ] as → 
+- [book-3/chapter-04.typ] a → the
+- [book-3/chapter-04.typ] through → by
+- [book-3/chapter-04.typ] deliver → free
+- [book-3/chapter-04.typ] through → by
+- [book-3/chapter-04.typ] fear → reason
+- [book-3/chapter-04.typ] were → were obnoxious to bondage
+- [book-3/chapter-04.typ] lifetime subject to bondage → lives
+- [book-3/chapter-04.typ] and → ,
+- [book-3/chapter-04.typ] which → 
+- [book-3/chapter-04.typ] Such → This
+- [book-3/chapter-04.typ] they → 
+- [book-3/chapter-04.typ] our → their
+- [book-3/chapter-04.typ] the → 
+- [book-3/chapter-04.typ] hath → 
+- [book-3/chapter-04.typ] and → when
+- [book-3/chapter-04.typ] were → are
+- [book-3/chapter-04.typ] blinded → hardened
+- [book-3/chapter-05.typ] the → 
+- [book-3/chapter-05.typ] in → in Jesus
+- [book-3/chapter-05.typ] Jesus → 
+- [book-3/chapter-05.typ] whom → him
+- [book-3/chapter-05.typ] As → That as
+- [book-3/chapter-05.typ] some → some other
+- [book-3/chapter-05.typ] other → 
+- [book-3/chapter-05.typ] by → for
+- [book-3/chapter-06.typ] the → 
+- [book-3/chapter-06.typ] being → 
+- [book-3/chapter-06.typ] you → ye
+- [book-3/chapter-07.typ] thou shalt surely die , → 
+- [book-3/chapter-07.typ] but → 
+- [book-3/chapter-07.typ] has → hath
+- [book-3/chapter-07.typ] Hebrew → 
+- [book-3/chapter-07.typ] by → by his
+- [book-3/chapter-07.typ] which → that
+- [book-3/chapter-07.typ] same → 
+- [book-3/chapter-07.typ] mine → my
+- [book-3/chapter-07.typ] in this → 
+- [book-3/chapter-07.typ] to → 
+- [book-3/chapter-08.typ] but → and
+- [book-3/chapter-08.typ] which → that
+- [book-3/chapter-08.typ] ungodly → ungodly” man
+- [book-3/chapter-08.typ] Jesus → 
+- [book-3/chapter-08.typ] both → that
+- [book-3/chapter-08.typ] that they → 
+- [book-3/chapter-08.typ] to → 
+- [book-3/chapter-08.typ] and → or
+- [book-3/chapter-08.typ] didst → hast
+- [book-3/chapter-08.typ] even → as well
+- [book-3/chapter-08.typ] not → 
+- [book-3/chapter-08.typ] that → 
+- [book-3/chapter-08.typ] ye → 
+- [book-3/chapter-08.typ] its → us
+- [book-3/chapter-08.typ] it → 
+- [book-3/chapter-09.typ] He → Their iniquities he
+- [book-3/chapter-09.typ] their iniquities → 
+- [book-3/chapter-09.typ] hath → 
+- [book-3/chapter-09.typ] tasted → tasted of
+- [book-3/chapter-09.typ] suffered → died
+- [book-3/chapter-09.typ] took → did
+- [book-3/chapter-09.typ] away → take
+- [book-3/chapter-09.typ] Jesus → 
+- [book-3/chapter-09.typ] us → us up
+- [book-3/chapter-09.typ] up → 
+- [book-3/chapter-09.typ] , who is able to save → that can kill
+- [book-3/chapter-09.typ] to → make
+- [book-3/chapter-09.typ] destroy → alive
+- [book-3/chapter-09.typ] he → he never
+- [book-3/chapter-09.typ] not away → 
+- [book-3/chapter-09.typ] the → his
+- [book-3/chapter-09.typ] of → 
+- [book-3/chapter-09.typ] the → 
+- [book-3/chapter-09.typ] the → 
+- [book-3/chapter-09.typ] has → is
+- [book-3/chapter-09.typ] in → on
+- [book-3/chapter-09.typ] blemish → spot
+- [book-3/chapter-09.typ] spot → blemish
+- [book-3/chapter-09.typ] stricken → smitten
+- [book-3/chapter-09.typ] If a soul hear the voice of → He that heareth
+- [book-3/chapter-09.typ] , if he do → and doth
+- [book-3/chapter-09.typ] utter → reveal
+- [book-3/chapter-09.typ] then he → 
+- [book-3/chapter-10.typ] is → 
+- [book-3/chapter-10.typ] reward → reward is reckoned
+- [book-3/chapter-10.typ] reckoned → 
+- [book-3/chapter-10.typ] no → no great
+- [book-3/chapter-11.typ] the → 
+- [book-3/chapter-11.typ] and → 
+- [book-3/chapter-11.typ] the lusts of your father → his works
+- [book-3/chapter-11.typ] promised → promised him
+- [book-3/chapter-11.typ] him → ,
+- [book-3/chapter-11.typ] be → he
+- [book-3/chapter-11.typ] will → 
+- [book-3/chapter-11.typ] them → you
+- [book-3/chapter-11.typ] be → he
+- [book-3/chapter-11.typ] My → 
+- [book-3/chapter-11.typ] me → to him
+- [book-3/chapter-11.typ] all that → whatsoever
+- [book-3/chapter-11.typ] shall come to → cometh unto
+- [book-3/chapter-11.typ] for → with
+- [book-3/chapter-11.typ] can → shall
+- [book-3/chapter-11.typ] his → the
+- [book-3/chapter-11.typ] hath → 
+- [book-3/chapter-11.typ] be made → become
+- [book-3/chapter-11.typ] no man → none
+- [book-3/chapter-11.typ] a man → he
+- [book-3/chapter-11.typ] the → his
 
 ## grammar
 
-- unto → to (×7)
+- unto → to (×8)
+- cometh → comes (×2)
+- commendeth → commended (×2)
 - ye → you (×2)
+- Unto → To
 - believeth → believe
-- cometh → comes
-- commendeth → commended
+- giveth → gives
 - hath → both
 - hearest → heareth
+- justifieth → justifies
+- maketh → makes
 - moveth → moved
 - taketh → takes
 - thou → he
@@ -218,60 +373,97 @@
 - [book-2/chapter-03.typ] . → . Sixthly,
 - [book-2/chapter-03.typ] ” → ” that he
 - [book-2/chapter-03.typ] “ → did
+- [book-3/chapter-01.typ] , → , O
+- [book-3/chapter-02.typ] , → , then
+- [book-3/chapter-02.typ] ” → ” appointed to wrath,
+- [book-3/chapter-02.typ] “ → “Father,
+- [book-3/chapter-02.typ] , → , O
+- [book-3/chapter-02.typ] , → , and
+- [book-3/chapter-05.typ] , → , even
+- [book-3/chapter-08.typ] ” → 
+- [book-3/chapter-09.typ note] , → , ipse bajulabit,
+- [book-3/chapter-10.typ] , → , that
+- [book-3/chapter-11.typ] , → , O
+- [book-3/chapter-11.typ] , → , his
 
 ## spelling
 
 - specially → especially (×5)
+- to → unto (×5)
 - men → man (×4)
 - sins → sin (×4)
-- to → unto (×4)
+- seeing → being (×3)
+- uttermost → utmost (×3)
 - places → place (×2)
+- sin → sins (×2)
+- them → those (×2)
 - those → them (×2)
-- uttermost → utmost (×2)
 - voice → noise (×2)
+- Bible → Bibles
 - Eighthly → Ninthly
+- Scriptures → Scripture
 - Sixthly → Seventhly
+- affirm → affirming
 - affliction → afflictions
+- apprehension → apprehensions
 - blessing → blessings
+- blood → bloods
 - came → comes
+- cases → causes
 - certainty → certainly
 - come → came
 - conditions → condition
 - could → would
+- debtors → debtor
 - declared → decreed
+- decrees → degrees
 - door → doors
 - end → ends
 - failed → faileth
 - figures → figure
 - foreknew → foreknow
+- friends → friend
+- he → they
 - heritages → heritage
 - his → its
+- his → this
+- holding → beholding
 - iniquity → iniquities
 - into → in
 - into → to
+- judgment → judgments
 - knew → know
 - not → no
 - nothing → not
 - offering → offerings
 - on → upon
 - pastures → pasture
+- rebellion → rebellions
+- receive → received
 - righteously → rightly
 - sacrifices → sacrifice
 - shoulder → shoulders
-- sin → sins
 - sinners → sins
+- soles → sole
+- sometime → sometimes
+- stead → steads
 - success → access
 - sufferings → suffering
 - the → their
 - their → this
-- them → those
 - these → the
 - these → them
 - thorough → though
 - those → these
+- toward → towards
+- transgressions → transgression
+- treat → entreat
 - truth → truths
+- undeniable → undeniably
 - water → waters
 - where → wherein
 - wherein → where
 - word → words
+- works → work
+- yes → yea
 
