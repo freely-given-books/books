@@ -49,6 +49,11 @@ books/thomas-boston/the-crook-in-the-lot/*.pdf
 books/thomas-boston/the-crook-in-the-lot/*.epub
 books/john-calvin/institutes-of-the-christian-religion/*.pdf
 books/john-calvin/institutes-of-the-christian-religion/*.epub
+books/john-owen/the-death-of-death/*.pdf
+books/john-owen/the-death-of-death/*.epub
+# Owen, Death of Death: OCR of Goold 1850 and the 1648 edition, CCEL's PDF
+books/john-owen/the-death-of-death/source/*_djvu.txt
+books/john-owen/the-death-of-death/source/*.ccel.pdf
 # Calvin: the 1845 printing's OCR (archive.org), a witness
 books/john-calvin/institutes-of-the-christian-religion/source/*.djvu.txt
 
