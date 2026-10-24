@@ -48,3 +48,9 @@ and light modernizing stand.
 - Order: the 1648 collation (Book by Book), the scheme of "the world" as an
   outline, covers and ebook, then the book review (proofread) last, on the
   text with Owen's words restored.
+- The collation's rules, settled on Book I: a 1648 word that is a printer's
+  misprint Goold corrected for sense ("prisoners" for princes, "portion" for
+  potion) keeps Goold's; Owen's habitual wording stands even where small
+  ("the right hand of Majesty on high", without "the"). The 1648 margin
+  captions (Owen's running outline beside his section numbers) stay out of
+  the text, as Goold has it; they are kept in `source/collation/*.jsonl`.

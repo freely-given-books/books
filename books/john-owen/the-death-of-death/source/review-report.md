@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 119 |
-| spelling | 48 |
+| emendation | 122 |
+| spelling | 49 |
 | grammar | 8 |
 | spacing | 6 |
 | punctuation | 3 |
@@ -37,6 +37,7 @@
 - [book-1/chapter-03.typ] shall → will
 - [book-1/chapter-03.typ] among → of
 - [book-1/chapter-03.typ] great → 
+- [book-1/chapter-03.typ] the → 
 - [book-1/chapter-03.typ] all → 
 - [book-1/chapter-03.typ] families → nations
 - [book-1/chapter-03.typ] thought → counted
@@ -82,6 +83,7 @@
 - [book-1/chapter-05.typ] strong ” → stronger
 - [book-1/chapter-05.typ] which → who
 - [book-1/chapter-06.typ] be → 
+- [book-1/chapter-06.typ] the → 
 - [book-1/chapter-06.typ] is → had
 - [book-1/chapter-06.typ] men → men the
 - [book-1/chapter-06.typ] was delivered → died
@@ -99,6 +101,7 @@
 - [book-1/chapter-07.typ] the → a
 - [book-1/chapter-07.typ] obtained → obtained for us
 - [book-1/chapter-07.typ] for us → 
+- [book-1/chapter-07.typ] the → 
 - [book-1/chapter-07.typ] give → grant
 - [book-1/chapter-07.typ] for → to be
 - [book-1/chapter-07.typ] to → should
@@ -165,6 +168,7 @@
 - heritages → heritage
 - his → its
 - iniquity → iniquities
+- into → in
 - knew → know
 - not → no
 - nothing → not
