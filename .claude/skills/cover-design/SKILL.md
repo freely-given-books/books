@@ -20,7 +20,11 @@ roundel, with the house's type, seal, name plate, spine and back; its
 `spine-fit` sizes every spine to the thinnest volume's, so a set shelves
 alike. `panel` fills inside the frame (Gouge: olive softly lit, a radial
 gradient) with `ground` round it and on spine and back; the editor liked
-the dark of the old covers kept this way.
+the dark of the old covers kept this way. `front` gives a set a front of
+its own over the house spine and back (Calvin). A set can step its ground
+colour along a ramp, volume to volume, so it shelves as one band (Calvin).
+Full-page plates are not the only answer: the editor found them "too
+aggressive" for Calvin and preferred a small image on a plain ground.
 
 Covers already done (read them as worked examples, `books/<author>/<book>/cover.typ`):
 
@@ -35,6 +39,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 | Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
+| Institutes (6 vols) | a small vignette, not a plate: spectacles on an open book (I.vi.1), pages filled in paper colour | ChatGPT engraving, `art/vignette.png` (`art/vignette.py`); grounds step sea-green to indigo across the set |
 
 ## What the editor wants (learned the hard way)
 
