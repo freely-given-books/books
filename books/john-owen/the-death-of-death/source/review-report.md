@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 122 |
-| spelling | 49 |
-| grammar | 8 |
-| spacing | 6 |
-| punctuation | 3 |
+| emendation | 183 |
+| spelling | 70 |
+| grammar | 18 |
+| spacing | 15 |
+| punctuation | 8 |
 
 ## emendation
 
@@ -132,56 +132,146 @@
 - [book-1/chapter-08.typ] it → at
 - [book-1/chapter-08.typ] 8 → 28
 - [book-1/chapter-08.typ] 9 → 29
+- [book-2/chapter-01.typ] were → was
+- [book-2/chapter-01.typ] were → was
+- [book-2/chapter-01.typ] at → 
+- [book-2/chapter-01.typ] and → 
+- [book-2/chapter-01.typ] and → 
+- [book-2/chapter-02.typ] on → to
+- [book-2/chapter-02.typ] obtained → 
+- [book-2/chapter-02.typ] liberty → liberty obtained
+- [book-2/chapter-02.typ] no variableness , → 
+- [book-2/chapter-02.typ] neither → neither change nor
+- [book-2/chapter-02.typ] are → 
+- [book-2/chapter-02.typ] is → 
+- [book-2/chapter-02.typ] reward → reward is
+- [book-2/chapter-02.typ] reckoned → due
+- [book-2/chapter-02.typ] me → me may
+- [book-2/chapter-02.typ] with me → 
+- [book-2/chapter-02.typ] ; that they may → , to
+- [book-2/chapter-02.typ] him → them
+- [book-2/chapter-03.typ] is come → came
+- [book-2/chapter-03.typ] so → so that
+- [book-2/chapter-03.typ] the → his
+- [book-2/chapter-03.typ] a → an holy and
+- [book-2/chapter-03.typ] , not having → without
+- [book-2/chapter-03.typ] hear → have
+- [book-2/chapter-03.typ] might → may
+- [book-2/chapter-03.typ] Seventhly → Eighthly
+- [book-2/chapter-03.typ] who → that
+- [book-2/chapter-03.typ] ascribed → observed
+- [book-2/chapter-03.typ] When → For when
+- [book-2/chapter-03.typ] and → or a
+- [book-2/chapter-03.typ] of the law → 
+- [book-2/chapter-03.typ] who → who were
+- [book-2/chapter-03.typ] were far → afar
+- [book-2/chapter-03.typ] kindred → tribe
+- [book-2/chapter-03.typ] them → them kings and priests
+- [book-2/chapter-03.typ] kings and priests → 
+- [book-2/chapter-03.typ] and → 
+- [book-2/chapter-03.typ] I → 
+- [book-2/chapter-03.typ] The → For the
+- [book-2/chapter-03.typ] everlasting → 
+- [book-2/chapter-03.typ] people → people “
+- [book-2/chapter-03.typ] for → 
+- [book-2/chapter-03.typ] them → 
+- [book-2/chapter-03.typ] what → which
+- [book-2/chapter-03.typ] do → to
+- [book-2/chapter-03.typ] that → of
+- [book-2/chapter-03.typ] the → that
+- [book-2/chapter-03.typ] we → ye
+- [book-2/chapter-03.typ] and → 
+- [book-2/chapter-03.typ] is → 
+- [book-2/chapter-03.typ] this → the
+- [book-2/chapter-03.typ] for → 
+- [book-2/chapter-04.typ] to → of
+- [book-2/chapter-04.typ] wise → ways
+- [book-2/chapter-04.typ] Christ → 
+- [book-2/chapter-04.typ] for ever → 
+- [book-2/chapter-04.typ] to → for
+- [book-2/chapter-04.typ] wrath → condemnation
+- [book-2/chapter-04.typ] cleanse from → purge
+- [book-2/chapter-04.typ] sin → our sins
+- [book-2/chapter-05.typ] in → on
 
 ## grammar
 
-- unto → to (×2)
+- unto → to (×7)
 - ye → you (×2)
+- believeth → believe
+- cometh → comes
+- commendeth → commended
+- hath → both
 - hearest → heareth
 - moveth → moved
 - taketh → takes
 - thou → he
+- turneth → turns
 
 ## punctuation
 
 - [book-1/chapter-04.typ] , → , even
 - [book-1/chapter-04.typ] “ → “For
 - [book-1/chapter-05.typ] “ → 
+- [book-2/chapter-01.typ] , → 
+- [book-2/chapter-01.typ] , → , it
+- [book-2/chapter-03.typ] . → . Sixthly,
+- [book-2/chapter-03.typ] ” → ” that he
+- [book-2/chapter-03.typ] “ → did
 
 ## spelling
 
 - specially → especially (×5)
 - men → man (×4)
+- sins → sin (×4)
 - to → unto (×4)
 - places → place (×2)
-- sins → sin (×2)
 - those → them (×2)
 - uttermost → utmost (×2)
 - voice → noise (×2)
+- Eighthly → Ninthly
+- Sixthly → Seventhly
 - affliction → afflictions
+- blessing → blessings
+- came → comes
+- certainty → certainly
 - come → came
+- conditions → condition
+- could → would
 - declared → decreed
 - door → doors
 - end → ends
 - failed → faileth
 - figures → figure
+- foreknew → foreknow
 - heritages → heritage
 - his → its
 - iniquity → iniquities
 - into → in
+- into → to
 - knew → know
 - not → no
 - nothing → not
 - offering → offerings
+- on → upon
 - pastures → pasture
 - righteously → rightly
 - sacrifices → sacrifice
 - shoulder → shoulders
 - sin → sins
+- sinners → sins
 - success → access
+- sufferings → suffering
+- the → their
 - their → this
 - them → those
+- these → the
 - these → them
+- thorough → though
 - those → these
+- truth → truths
 - water → waters
+- where → wherein
+- wherein → where
+- word → words
 
