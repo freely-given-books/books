@@ -41,3 +41,10 @@ Ovid "gradiendum" → "gradieris"), writes "namely" for "viz." and sometimes
 The editor's rule (2026-10-23): Goold is the base; Owen's 1648 words are
 restored in his Scripture and his prose; Goold's corrected classical quotations
 and light modernizing stand.
+
+## Decisions (2026-10-23)
+
+- One volume, 10.5pt (484 pages), not split after Book III.
+- Order: the 1648 collation (Book by Book), the scheme of "the world" as an
+  outline, covers and ebook, then the book review (proofread) last, on the
+  text with Owen's words restored.

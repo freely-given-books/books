@@ -1,7 +1,7 @@
 #import "@local/fgbooks:0.13.1": *
 
-// One volume for now, to see where the page count lands (2026-10-23); the
-// split into two after Book III is still open. 10.5pt, as Calvin and Gouge.
+// One volume, 484 pages at 10.5pt (the editor's decision, 2026-10-23: Book IV
+// answers Books I-III point by point, so the book is not split).
 
 #show: book.with(
   title: [The Death of Death in the Death of Christ],
