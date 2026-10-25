@@ -34,7 +34,32 @@ Two words there are that are mightily stuck upon or stumbled at; — first, The 
 
 First, then, for the word #emph[world], which in the New Testament is called κόσμος (for there is another word sometimes translated world, namely, αἰών, that belongs not to this matter, noting rather the duration of time than the thing in that space continuing): he that doth not acknowledge it to be πολύσημον, need say no more to manifest his unacquaintedness in the book of God. I shall briefly give you so many various significations of it as shall make it apparent that from the bare usage of a word so exceedingly equivocal, no argument can be taken, until it be distinguished, and the meaning thereof in that particular place evinced from whence the argument is taken.
 
-Mundus sumitur, 1. Subjectivè, 1. Ὀλικῶς. 2. Μερικῶς, idque vel pro 1. Cœlo aspectabili. 2. Terra habitabili. 2. Adjunctivè, ratione 1. Incolarum, idque 1. Collectivè, seu κατὰ πάντας. 2. Distributivè, pro 1. Quibusvis. 2. Multis. 3. Signanter, pro 1. Bonis, seu electis. 2. Malis, seu reprobis. 4. Ἀορίστως, seu communiter. 5. Restrictivè, seu συνεκδοχικῶς, pro 1. Præcipuis. 2. Romanis. 2. Accidentum 1. Corruptionis, unde sumitur pro 1. Ipsa corruptione. 2. Sede corruptionis. 3. Terrena conditione. 2. Maledictionis.#footnote[The following is a translation of the above scheme:—The #emph[World] is taken, I. Subjectively, 1. Universally. 2. Partially; for (1.) The visible heaven. (2.) The habitable earth. II. Adjunctively, in respect of, 1. The inhabitants, and that, — (1.) Collectively for the whole. (2.) Distributively; for, — \[1.\] Any. \[2.\] Many. (3.) Signally, — \[1.\] The good, or elect. \[2.\] The wicked, or reprobate. (4.) Indifferently, or in common. (5.) Restrictively or synecdochially; for, — \[1.\] The chief. \[2.\] The Romans. 2. The accidents; (1.) Of corruption. \[1.\] Corruption itself. \[2.\] The seat of corruption. \[3.\] The earthly condition. (2.) Of the curse. — #smallcaps[Ed].]
+Mundus sumitur,
+
++ Subjectivè,
+  + Ὀλικῶς.
+  + Μερικῶς, idque vel pro
+    + Cœlo aspectabili.
+    + Terra habitabili.
++ Adjunctivè, ratione
+  + Incolarum, idque
+    + Collectivè, seu κατὰ πάντας.
+    + Distributivè, pro
+      + Quibusvis.
+      + Multis.
+    + Signanter, pro
+      + Bonis, seu electis.
+      + Malis, seu reprobis.
+    + Ἀορίστως, seu communiter.
+    + Restrictivè, seu συνεκδοχικῶς, pro
+      + Præcipuis.
+      + Romanis.
+  + Accidentum
+    + Corruptionis, unde sumitur pro
+      + Ipsa corruptione.
+      + Sede corruptionis.
+      + Terrena conditione.
+    + Maledictionis.#footnote[The following is a translation of the above scheme:—The #emph[World] is taken, I. Subjectively, 1. Universally. 2. Partially; for (1.) The visible heaven. (2.) The habitable earth. II. Adjunctively, in respect of, 1. The inhabitants, and that, — (1.) Collectively for the whole. (2.) Distributively; for, — \[1.\] Any. \[2.\] Many. (3.) Signally, — \[1.\] The good, or elect. \[2.\] The wicked, or reprobate. (4.) Indifferently, or in common. (5.) Restrictively or synecdochially; for, — \[1.\] The chief. \[2.\] The Romans. 2. The accidents; (1.) Of corruption. \[1.\] Corruption itself. \[2.\] The seat of corruption. \[3.\] The earthly condition. (2.) Of the curse. — #smallcaps[Ed].]
 
 All these distinctions of the use of the word are made out in the following observations:—
 

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-24" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
 Jesu</seg>;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p2">or,</titlePart><titlePart type="sub" xml:id="ccel-i.i-p3">the death of death in the death of Christ:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p4">a treatise of the redemption and reconciliation that is in
 the blood of Christ;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p5">with</titlePart><titlePart type="sub" xml:id="ccel-i.i-p6">the merit thereof, and the satisfaction wrought thereby:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p7">wherein</titlePart><titlePart type="sub" xml:id="ccel-i.i-p8">the proper end of the death of Christ is asserted; the
 immediate effects and fruits thereof assigned, with their extent in respect
@@ -8503,31 +8503,55 @@ argument can be taken, until it be distinguished, and the meaning thereof
 in that particular place evinced from whence the argument is taken.</p>
 
 <p xml:id="ccel-i.x.i-p17"><pb n="304" xml:id="ccel-i.x.i-Page_304"/><seg>Mundus
-sumitur</seg>,<lb/>                 1. <seg>Subjectivè</seg>,<lb/>                                 1.
+sumitur</seg>,<lb/>                 </p>
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Subjectivè</seg>,<lb/>                                 
+<list type="numbered" change="#review"><item><label>1.</label>
 <seg>Ὀλικῶς</seg>.<lb/>
-                                2. <seg>Μερικῶς</seg>, <seg>idque vel
-pro</seg><lb/>                                                 1. <seg>Cœlo aspectabili</seg>.<lb/>
-                                                2. <seg>Terra habitabili</seg>.<lb/>                 2. <seg>Adjunctivè, ratione</seg><lb/>
-                                1. <seg>Incolarum, idque</seg><lb/>
-                                                1. <seg>Collectivè, seu</seg> <seg>κατὰ
-πάντας</seg>.<lb/>                                                 2.
+                                </item>
+<item><label>2.</label> <seg>Μερικῶς</seg>, <seg>idque vel
+pro</seg><lb/>                                                 
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Cœlo aspectabili</seg>.<lb/>
+                                                </item>
+<item><label>2.</label> <seg>Terra habitabili</seg>.<lb/>                 </item></list></item></list></item>
+<item><label>2.</label> <seg>Adjunctivè, ratione</seg><lb/>
+                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Incolarum, idque</seg><lb/>
+                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Collectivè, seu</seg> <seg>κατὰ
+πάντας</seg>.<lb/>                                                 </item>
+<item><label>2.</label>
 <seg>Distributivè, pro</seg><lb/>
-                                                                1. <seg>Quibusvis</seg>.<lb/>
-                                                                2. <seg>Multis</seg>.<lb/>
-                                                3. <seg>Signanter, pro</seg><lb/>
-                                                                1. <seg>Bonis, seu electis</seg>.<lb/>
-                                                                2. <seg>Malis, seu reprobis</seg>.<lb/>
-                                                4. <seg>Ἀορίστως</seg>, <seg>seu
-communiter</seg>.<lb/>                                                 5.
+                                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Quibusvis</seg>.<lb/>
+                                                                </item>
+<item><label>2.</label> <seg>Multis</seg>.<lb/>
+                                                </item></list></item>
+<item><label>3.</label> <seg>Signanter, pro</seg><lb/>
+                                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Bonis, seu electis</seg>.<lb/>
+                                                                </item>
+<item><label>2.</label> <seg>Malis, seu reprobis</seg>.<lb/>
+                                                </item></list></item>
+<item><label>4.</label> <seg>Ἀορίστως</seg>, <seg>seu
+communiter</seg>.<lb/>                                                 </item>
+<item><label>5.</label>
 <seg>Restrictivè, seu</seg> <seg>συνεκδοχικῶς</seg>, <seg>pro</seg><lb/>
-                                                                1. <seg>Præcipuis</seg>.<lb/>
-                                                                2. <seg>Romanis</seg>.<lb/>
-                                2. <seg>Accidentum</seg><lb/>
-                                                1. <seg>Corruptionis, unde sumitur pro</seg><lb/>
-                                                                1. <seg>Ipsa corruptione</seg>.<lb/>
-                                                                2. <seg>Sede corruptionis</seg>.<lb/>
-                                                                3. <seg>Terrena conditione</seg>.<lb/>
-                                                2. <seg>Maledictionis</seg>.<note place="foot" n="34" xml:id="ccel-i.x.i-p17.55"><p xml:id="ccel-i.x.i-p18">The following is a translation of the
+                                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Præcipuis</seg>.<lb/>
+                                                                </item>
+<item><label>2.</label> <seg>Romanis</seg>.<lb/>
+                                </item></list></item></list></item>
+<item><label>2.</label> <seg>Accidentum</seg><lb/>
+                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Corruptionis, unde sumitur pro</seg><lb/>
+                                                                
+<list type="numbered" change="#review"><item><label>1.</label> <seg>Ipsa corruptione</seg>.<lb/>
+                                                                </item>
+<item><label>2.</label> <seg>Sede corruptionis</seg>.<lb/>
+                                                                </item>
+<item><label>3.</label> <seg>Terrena conditione</seg>.<lb/>
+                                                </item></list></item>
+<item><label>2.</label> <seg>Maledictionis</seg>.<note place="foot" n="34" xml:id="ccel-i.x.i-p17.55"><p xml:id="ccel-i.x.i-p18">The following is a translation of the
 above scheme:—</p><p xml:id="ccel-i.x.i-p19">The <hi rend="italic">World</hi> is taken,<lb/>
                 I. Subjectively,<lb/>                                 1.
 Universally.<lb/>                                 2. Partially; for<lb/>
@@ -8560,7 +8584,7 @@ Corruption itself.<lb/>
 seat of corruption.<lb/>
                                                                 [3.] The
 earthly condition.<lb/>                                                
-(2.) Of the curse.                               — <seg rend="smallcaps">Ed</seg>.</p></note></p>
+(2.) Of the curse.                               — <seg rend="smallcaps">Ed</seg>.</p></note></item></list></item></list></item></list>
 
 <p xml:id="ccel-i.x.i-p20">All these distinctions of the use of the word are made out
 in the following observations:—</p>

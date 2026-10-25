@@ -18,6 +18,9 @@ MODERNIZE = False
 TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 SMALLCAPS = "smallcaps"  # Goold's small capitals; Libertinus has real ones
+# Lists the review makes keep Typst's numbering (1. at every level): Owen's
+# scheme of "the world" (Book IV, chapter I), a brace in 1648, set as an outline.
+TYPST_ENUM = None
 
 # CCEL's title page and indexes are its own apparatus.
 SKIP_DIVISIONS = {"contents", "index", "titlePage"}

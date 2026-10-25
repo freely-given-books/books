@@ -6,7 +6,13 @@
 | spelling | 101 |
 | spacing | 28 |
 | grammar | 25 |
+| list | 22 |
 | punctuation | 20 |
+| split | 1 |
+
+## split
+
+- [book-4/chapter-01.typ] paragraph → 24 split(s) at 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 3, 1, 2, 4, 5, 1, 2, 2, 1, 1, 2, 3, 2
 
 ## emendation
 
