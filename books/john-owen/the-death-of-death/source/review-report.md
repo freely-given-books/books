@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | emendation | 516 |
-| spelling | 162 |
+| spelling | 163 |
 | grammar | 40 |
 | spacing | 39 |
 | punctuation | 28 |
@@ -717,5 +717,6 @@
 - wherein → where
 - word → words
 - works → work
+- xliv → xlv
 - yes → yea
 
