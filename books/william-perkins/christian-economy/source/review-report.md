@@ -7,11 +7,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 61 |
+| spelling | 62 |
 | case | 44 |
 | emendation | 29 |
+| gap | 9 |
 | expansion | 9 |
-| gap | 8 |
 | punctuation | 8 |
 | split | 8 |
 | grammar | 7 |
@@ -43,6 +43,7 @@
 - [chapter-03.typ note] 〈 in non-Latin alphabet 〉 → προσκολληθήσεται
 - [chapter-05.typ note] 〈 in non-Latin alphabet 〉 → שְׁאֵר בְּשָׂרוֹ
 - [chapter-05.typ note] 〈◊〉 → 8. epist.
+- [chapter-05.typ] it → he
 - [chapter-09.typ note] 1• → 16
 - [chapter-11.typ note] 〈…〉 → L. Consensu. C. de diuortijs.
 
@@ -188,5 +189,6 @@
 - sundrie → sundry
 - the → thee
 - them → the
+- this → his
 - way → may
 
