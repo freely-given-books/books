@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>hi inside reg: words of this edition's reading set in italic.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
 Jesu</seg>;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p2">or,</titlePart><titlePart type="sub" xml:id="ccel-i.i-p3">the death of death in the death of Christ:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p4">a treatise of the redemption and reconciliation that is in
 the blood of Christ;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p5">with</titlePart><titlePart type="sub" xml:id="ccel-i.i-p6">the merit thereof, and the satisfaction wrought thereby:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p7">wherein</titlePart><titlePart type="sub" xml:id="ccel-i.i-p8">the proper end of the death of Christ is asserted; the
 immediate effects and fruits thereof assigned, with their extent in respect
@@ -3469,7 +3469,7 @@ degree by him intended.  He “maketh all things for himself,” <ref type="scri
 committed to him.  So, <ref type="scripture" cRef="Eph.1.6">Eph. i. 6</ref>, the
 whole end of all this dispensation, both of choosing us from eternity,
 redeeming us by Christ, blessing us with all spiritual blessings in him, is
-affirmed to be “the praise of the glory of his
+affirmed to be “the praise<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>of</orig><reg resp="#editor" type="emendation">,</reg></choice> the glory of his
 grace;” and, <ref type="scripture" cRef="Eph.1.12">verse 12</ref>, <pb n="202" xml:id="ccel-i.viii.i-Page_202"/>“That we should be to the
 praise of his glory.”  This is the end of all the benefits we
 receive by the death of Christ; for “we
@@ -3634,7 +3634,7 @@ the other Universalists of our days, affirm this to be the end proposed,
 that God might, his justice being satisfied, save sinners, the hinderance
 being removed by the satisfaction of Christ.  He had by his death <choice><orig>obtained</orig><reg resp="#editor" type="emendation"></reg></choice>
 a right and <choice><orig>liberty</orig><reg resp="#editor" type="emendation">liberty obtained</reg></choice> of pardoning sin upon what condition he pleased: so
-that, after the satisfaction of Christ yielded and considered, “<seg>integrum Deo fuit</seg>” (as his words are), it
+that, after the satisfaction of Christ yielded and considered, “<seg>integrum Deo fuit</seg>” (as his words are)<choice><orig>,</orig><reg resp="#editor" type="punctuation">, as</reg></choice> it
 was wholly in God’s free disposal whether he would save any or no; and upon
 what condition he would, whether of faith or of works “God,” say they, “had
 a good mind and will to do good to human kind, but could not by reason of
@@ -5515,7 +5515,7 @@ do, yea, faith to believe in Christ: for, — First, Commands do not signify
 what is God’s intention should be done, but what is our duty to do; which
 may be made known to us whether we be able to perform it or not: it
 signifieth no intention or purpose of God.  Secondly, For the promises
-which are proposed together with the command to believe:— <hi rend="italic">First</hi>,
+which are proposed together with the command to believe:— <hi rend="italic"><choice><orig>First</orig><reg resp="#editor" type="emendation"></reg></choice></hi><choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice>
 they do not hold out the intent and purpose of God, that Christ should die
 for us if we do believe; which is absurd, — that the act should be the
 constituter of its own object, which must be before it, and is presupposed
@@ -5566,9 +5566,9 @@ x.</ref> passim.  Those on whom he hath “mercy,” and those whom he “harden
 Those that are his “peculiar people” and “the
 children <choice><orig>of</orig><reg resp="#editor" type="emendation">according to</reg></choice> promise,” that are “not of the world,” his “church;” and those that, in opposition to them, are “the
 world,” “not prayed for,” “not his people:” as <ref type="scripture" cRef="Titus.2.14">Tit. ii.
-14</ref>; <ref type="scripture" cRef="Gal.4.28">Gal. iv. 28</ref>; <ref type="scripture" cRef="John.15.19 Bible.kjv:John.17.9">John xv. 19, xvii.
-9</ref>; <ref type="scripture" cRef="Col.1.24">Col. i. 24</ref>; <ref type="scripture" cRef="John.11.52">John xi.
-52</ref>; <ref type="scripture" cRef="Heb.2.10 Bible.kjv:Heb.2.12 Bible.kjv:Heb.2.13">Heb. ii. 10, 12, 13</ref>.
+14</ref>; <ref type="scripture" cRef="Gal.4.28"><choice><orig>Gal</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> <choice><orig>iv</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> <choice><orig>28</orig><reg resp="#editor" type="emendation"></reg></choice></ref><choice><orig>;</orig><reg resp="#editor" type="punctuation"></reg></choice> <ref type="scripture" cRef="John.15.19 Bible.kjv:John.17.9">John <choice><orig>xv. 19,</orig><reg resp="#editor" type="emendation"></reg></choice> xvii.
+9</ref><choice><orig>;</orig><reg resp="#editor" type="punctuation"></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><ref type="scripture" cRef="Col.1.24"><choice><orig>Col</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">, 10, passim</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>i</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>24</orig><reg resp="#editor" type="emendation"></reg></choice></ref>; <ref type="scripture" cRef="John.11.52">John xi.
+<choice><orig>52</orig><reg resp="#editor" type="emendation">51</reg></choice></ref>; <ref type="scripture" cRef="Heb.2.10 Bible.kjv:Heb.2.12 Bible.kjv:Heb.2.13">Heb. ii. 10, 12, 13</ref>.
  Which distinction of men is everywhere ascribed to the purpose, will, and
 good pleasure of God: <ref type="scripture" cRef="Prov.16.4">Prov. xvi.
 4</ref>, “The <seg rend="smallcaps">Lord</seg> hath made all things for
@@ -6039,7 +6039,7 @@ conjoined), did merit or procure faith for us, or no? or, which is all one,
 whether faith be a fruit and effect of the death of Christ, or no?  And
 according to their answer I will proceed.</p>
 
-<p xml:id="ccel-i.ix.iv-p13">First, If they answer affirmatively, that it is, or that
+<p xml:id="ccel-i.ix.iv-p13"><choice><orig>First,</orig><reg resp="#editor" type="emendation"></reg></choice> If they answer affirmatively, that it is, or that
 Christ did procure it by his death (provided always that they do not
 wilfully equivocate, and when I speak of faith as it is a grace in a
 particular person, taking it subjectively, <choice><orig>they</orig><reg resp="#editor" type="emendation"></reg></choice> understand faith as it is
@@ -6093,7 +6093,7 @@ what by him, in his death and oblation, was procured: which is contrary, —
 (1.) To express Scripture in exceeding many places, which I shall not
 recount: (2.) To the very nature of the being of the new covenant, which
 doth not prescribe and require the condition of it, but effectually work it
-in all the covenantees, <ref type="scripture" cRef="Jer.31.33-Jer.31.34">Jer. xxxi.
+in all the <choice><orig>covenantees</orig><reg resp="#editor" type="spelling">covenanters</reg></choice>, <ref type="scripture" cRef="Jer.31.33-Jer.31.34">Jer. xxxi.
 33, 34</ref>; <ref type="scripture" cRef="Ezek.36.26">Ezek. xxxvi.
 26</ref>; <ref type="scripture" cRef="Heb.8.10-Heb.8.11">Heb. viii. 10,
 11</ref>: (3.) To the advancement of the free grace of God, in setting
@@ -6211,7 +6211,7 @@ unto Jesus as the “author and finisher of our faith,” <ref type="scripture" 
 2</ref>.  Divers other reasons, arguments, and places of Scripture
 might be added for the confirmation of this truth; but I hope I have said
 enough, and do not desire to say all.  The sum of the whole reason may be
-reduced to this head, — namely, if the fruit and effect procured and
+reduced to this head, — <choice><orig>namely,</orig><reg resp="#editor" type="emendation"></reg></choice> if the fruit and effect procured and
 wrought by the death of Christ absolutely, not depending on any condition
 in man to be fulfilled, be not common to all, then did not Christ die for
 all; but the supposal is true, as is evident in the grace of faith, which
@@ -6920,7 +6920,7 @@ purposed that he will do it.</p>
 own right or lordship; but God is called just for punishing or not
 remitting sin,” <ref type="scripture" cRef="Rev.16.5">Rev. xvi. 5</ref>.</p>
 
-<p xml:id="ccel-i.ix.vii-p24"><hi rend="italic">Ans.</hi> <hi rend="italic">First</hi>, However it be in other causes,
+<p xml:id="ccel-i.ix.vii-p24"><hi rend="italic">Ans.</hi> <hi rend="italic"><choice><orig>First</orig><reg resp="#editor" type="emendation"></reg></choice></hi><choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> However it be in other causes,
 yet in this God may certainly be said to be just in exacting his debt or
 using his dominion, because his own will is the only rule of justice.</p>
 
@@ -7175,7 +7175,7 @@ grace effect: “There is none that doeth
 good, no, not one,” <ref type="scripture" cRef="Rom.3.12">Rom. iii. 12</ref>;
 for “we have proved <choice><orig>both</orig><reg resp="#editor" type="emendation">that</reg></choice> Jews and
 Gentiles <choice><orig>that they</orig><reg resp="#editor" type="emendation"></reg></choice> are all under sin,” <ref type="scripture" cRef="Rom.3.9">verse
-9</ref>.  All mankind are in the same condition, in respect of
+9</ref>.  All mankind <choice><orig>are</orig><reg resp="#editor" type="emendation">is</reg></choice> in the same condition, in respect of
 themselves and their own real state: which truth is not at all prejudiced
 by the relation they are in to the eternal decrees; for “every mouth is stopped, and all the world is become
 guilty before God,” <ref type="scripture" cRef="Rom.3.19">Rom. iii. 19</ref>,
@@ -7516,7 +7516,7 @@ he underwent the wrath of God.</p>
 passively, <ref type="scripture" cRef="Deut.29.20-Deut.29.21">Deut.
 xxix. 20, 21</ref>.  But Jesus Christ underwent the curse of the law:
 <ref type="scripture" cRef="Gal.3.13">Gal. iii. 13</ref>, “Made a curse for us,” the curse that they
-lie under who are out of Christ, who are “of
+lie under <choice><orig>who</orig><reg resp="#editor" type="emendation">which</reg></choice> are out of Christ, who are “of
 the works of the law,” <ref type="scripture" cRef="Gal.3.10">verse 10</ref>. 
 Therefore he underwent the wrath of God.</p>
 
@@ -7724,7 +7724,7 @@ those for whom he died, all those things which in the Scripture are
 assigned to be the fruits and effects of his death.  These are the things
 purchased and merited by his blood-shedding, and death; which may be
 referred unto two heads:— First, Such as are <hi rend="italic">privative</hi>; as, — 1.
-Deliverance from the hand of our enemies, <ref type="scripture" cRef="Luke.1.74">Luke i. 74</ref>;
+Deliverance from the <choice><orig>hand</orig><reg resp="#editor" type="spelling">bands</reg></choice> of our enemies, <ref type="scripture" cRef="Luke.1.74">Luke i. 74</ref>;
 from the wrath to come, <ref type="scripture" cRef="1Thess.1.10">1 Thess. i.
 10</ref>.  2. The destruction and abolition of death in his power,
 <ref type="scripture" cRef="Heb.2.14">Heb. ii. 14</ref>; 3. Of the works of the
@@ -7763,7 +7763,7 @@ all those for whom he died, if he died for all, how comes it to pass that
 these things are not communicated to and bestowed upon all?  Is the defect
 in the merit of Christ, or in the justice of God?  How vain it is to
 except, that these things are not bestowed absolutely upon us, but upon
-condition, and therefore were so procured; seeing, that the very condition
+condition, and therefore <choice><orig>were</orig><reg resp="#editor" type="emendation">was</reg></choice> so procured; seeing, that the very condition
 itself is also merited and procured, as <ref type="scripture" cRef="Eph.1.3-Eph.1.4">Eph. i. 3,
 4</ref>, <ref type="scripture" cRef="Phil.1.29">Phil. i. 29</ref>, — hath been already
 declared.</p>
@@ -7916,7 +7916,7 @@ serpent.</p>
 <p xml:id="ccel-i.ix.xi-p8">2. <ref type="scripture" cRef="Matt.7.23">Matt. vii.
 23</ref>, “I <choice><orig>will</orig><reg resp="#editor" type="emendation"></reg></choice> profess unto <choice><orig>them</orig><reg resp="#editor" type="emendation">you</reg></choice>, I never knew you.”  Christ at the
 last day professeth to some he never knew them.  Christ saith directly that
-he knoweth his own, whom he layeth down his life for, <ref type="scripture" cRef="John.10.14-John.10.17">John x. 14–17</ref>.  And surely he
+he <choice><orig>knoweth</orig><reg resp="#editor" type="grammar">knows</reg></choice> his own, whom he layeth down his life for, <ref type="scripture" cRef="John.10.14-John.10.17">John x. 14–17</ref>.  And surely he
 knows whom and what he hath bought.  Were it not strange that Christ should
 die for them, and buy them that he will not own, but profess he never knew
 them?  If they are “bought with a price,” surely they are his own? <ref type="scripture" cRef="1Cor.6.20">1 Cor. vi. 20</ref>.  If Christ did so buy
@@ -7963,7 +7963,7 @@ He himself saith so, <ref type="scripture" cRef="John.10.26">verse 26</ref>,
 “Ye are not of my
 sheep.”  <hi rend="italic">Secondly</hi>, The distinction at the last day will
 make it evident, when the sheep and the goats shall be separated. 
-<hi rend="italic">Thirdly</hi>, The properties of the sheep are, that they hear the voice
+<hi rend="italic">Thirdly</hi>, The properties of the sheep <choice><orig>are</orig><reg resp="#editor" type="emendation">here</reg></choice>, that they hear the voice
 of Christ, that they know him; and the like are not in all.  Secondly, That
 the sheep here mentioned are all his elect, as well those that were to be
 called as those that were then already called.  <ref type="scripture" cRef="John.10.16">Verse
@@ -8078,7 +8078,7 @@ their wives.</p>
 
 <p xml:id="ccel-i.ix.xi-p16">I thought to have added other arguments, as intending a
 clear discussing of the whole controversy; but, upon a review of what hath
-been said, I do with confidence take up and conclude that those which have
+been said, I do with confidence take up and conclude that <choice><orig>those</orig><reg resp="#editor" type="spelling">these</reg></choice> which have
 been already urged will be enough to satisfy them who will be satisfied
 with any thing, and those that are obstinate will not be satisfied with
 more.  So of our arguments here shall be an end.</p>
@@ -8240,7 +8240,7 @@ that Christ died for them: for, first, besides that amongst those <pb n="298" xm
 (“I have much
 people,”) which they cannot be, in the way that God hath
 appointed to do it, unless the gospel be preached to others as well as
-themselves; and besides, secondly, that in the economy and dispensation of
+themselves; and besides, secondly, that <choice><orig>in</orig><reg resp="#editor" type="emendation"></reg></choice> the economy and dispensation of
 the new covenant, by which all external differences and privileges of
 people, tongues, and nations being abolished and taken away, the word of
 grace was to be preached without distinction, and all men called everywhere
@@ -8282,7 +8282,7 @@ are far enough from comprehending a universality of all individuals, but
 denote only a removal of all such restraining exceptions as were before in
 force.  So that a consideration of the end whereunto these general
 expressions are used, and <choice><orig>of</orig><reg resp="#editor" type="emendation">at</reg></choice> what is aimed <choice><orig>at</orig><reg resp="#editor" type="emendation"></reg></choice> by them, will clearly <pb n="299" xml:id="ccel-i.x.i-Page_299"/>manifest their nature, and how they are to be understood, with
-whom they are that are intended by them and comprehended in them.  For it
+<choice><orig>whom</orig><reg resp="#editor" type="spelling">who</reg></choice> they are that are intended by them and comprehended in them.  For it
 being only this enlargement of the visible kingdom of Christ to all nations
 in respect of right, and to many in respect of fact (God having elect in
 all those nations to be brought forth, in the several generations wherein
@@ -8346,7 +8346,7 @@ repentance unto salvation, nor in whom he will effect the work of faith
 with power.  And when they make proffers and tenders in the name of God to
 all, they do not say to all, “It is the purpose and intention of God that
 ye should believe,” (who gave them any such power?) but, that it is his
-command, which makes it their duty to do what is required of them; and they
+command, which makes it their duty to do what is required of them; and <choice><orig>they</orig><reg resp="#editor" type="emendation"></reg></choice>
 do not declare his mind, what himself in particular will do.  The external
 offer is such as from which every man may conclude his own duty; none,
 God’s purpose, which yet may be known upon performance of his duty.  Their
@@ -8375,7 +8375,7 @@ acceptable to God; <hi rend="italic">secondly</hi>, The sufficiency of salvation
 Jesus Christ to all that believe on him; <hi rend="italic">thirdly</hi>, The certain,
 infallible, inviolable connection that is between faith and salvation, so
 that whosoever performs the one shall surely enjoy the other, for whoever
-comes to Christ he will in no wise cast out.  Of which more afterward.</p>
+<choice><orig>comes</orig><reg resp="#editor" type="spelling">come</reg></choice> to Christ he will in no wise cast out.  Of which more afterward.</p>
 
 <p xml:id="ccel-i.x.i-p11">4. The ingrafted erroneous persuasion of the Jews, which
 for a while had a strong influence upon the apostles themselves,
@@ -8687,7 +8687,7 @@ the mind of the Holy Ghost.  Thus also is the word <hi rend="italic">world</hi> 
 changed in the meaning thereof.  So <ref type="scripture" cRef="John.1.10">John i. 10</ref>,
 “He was in the world, and the
 world was made by him, and the world knew him not.”  He that
-should force the same signification upon the <hi rend="italic">world</hi> in that triple
+should force the same signification upon the <hi rend="italic" ana="#print-only" change="#review"><choice><orig>world</orig><reg resp="#editor" type="spelling">word</reg></choice></hi> in that triple
 mention of it would be an egregious glosser: for in the first, it plainly
 signifieth some part of the habitable earth, and is taken <seg><hi rend="italic">subjectivè</hi></seg> <seg>μερικῶς·</seg> in the second, the whole frame of heaven and
 earth, and is taken <seg><hi rend="italic">subjectivè</hi></seg> <seg>ὁλικῶς·</seg> and, in the third, for some men living in the
@@ -8820,7 +8820,7 @@ namely, <ref type="scripture" cRef="1Tim.2.8">verse 8</ref>, “I will, therefor
 τόπῳ·</seg>” which, that it cannot signify every individual
 place in heaven, earth, and hell, is of all confessed, and needeth no
 proof; no more than when our Saviour is said to cure <seg>πᾶσαν νόσον</seg>, as <ref type="scripture" cRef="Matt.9.35">Matt. ix.
-35</ref>, there is need to prove that he did not cure every disease of
+35</ref>, there is <choice><orig>need</orig><reg resp="#editor" type="emendation"></reg></choice> to prove that he did not cure every disease of
 every man, but only all sorts of diseases.</p>
 
 <p xml:id="ccel-i.x.i-p32"><pb n="309" xml:id="ccel-i.x.i-Page_309"/>Sundry other instances might be given to
@@ -8880,7 +8880,7 @@ whom it speaketh, — frequently speaking of men and unto men as in the
 condition wherein they are according to outward appearance, upon which
 human judgment must proceed, and not what they are indeed.  Thus, many are
 called and said to be <hi rend="italic">wise</hi>, <hi rend="italic">just</hi>, and <hi rend="italic">righteous</hi>,
-according as they are so esteemed, though the Lord knows them to be foolish
+according as they are so esteemed, though the Lord <choice><orig>knows</orig><reg resp="#editor" type="spelling">know</reg></choice> them to be foolish
 sinners.  So Jerusalem is called “The holy city,” <ref type="scripture" cRef="Matt.27.53">Matt. xxvii.
 53</ref>, because it was so in esteem and appearance, when indeed it
 was a very “den of
@@ -8959,7 +8959,7 @@ intimating no more than this will of God, that believers shall certainly be
 saved; which is an unquestionable divine verity and a sufficient object for
 supernatural faith to rest upon, and which being not closed with is a
 sufficient cause of damnation: <ref type="scripture" cRef="John.8.24">John viii.
-24</ref>, “If ye believe not that I am he” (that is, “the way, the truth, and the life”),
+24</ref>, “If <choice><orig>ye</orig><reg resp="#editor" type="grammar">you</reg></choice> believe not that I am he” (that is, “the way, the truth, and the life”),
 “ye shall die in your
 sins.”</p>
 
@@ -8980,7 +8980,7 @@ believe and be saved: therefore he intends it to all.”  For, —</p>
 
 <p xml:id="ccel-i.x.i-p41">First, God doth not proffer life to <hi rend="italic">all</hi> upon the
 condition of faith, passing by a great part of mankind without any such
-proffer made to them at all.</p>
+proffer made <choice><orig>to</orig><reg resp="#editor" type="emendation">at</reg></choice> them at all.</p>
 
 <p xml:id="ccel-i.x.i-p42">Secondly, If by God’s <hi rend="italic">proffer</hi> they understand his
 command and promise, who told them that these things were declarative of
@@ -9143,7 +9143,7 @@ sense of sin, God’s justice, and free grace, is required to the exercise of
 this act of faith.  Good Lord! how many thousand poor souls within the pale
 of the church can never be brought unto it!  The truth is, without the help
 of God’s Spirit none of those three before, much less this last, can be
-performed; which worketh freely, when, how, and in whom he pleaseth.</p>
+performed; which worketh freely, when, how, and in whom <choice><orig>he</orig><reg resp="#editor" type="emendation">it</reg></choice> pleaseth.</p>
 
 <p xml:id="ccel-i.x.i-p51">Fifthly, These things being firmly seated in the soul (and
 not before), we are every one called in particular to believe the efficacy
@@ -9192,11 +9192,11 @@ burdensome, but only that I am not willing to be any way instrumental to
 give breath or light to that which opposeth the truth of God.  But because,
 in these times of liberty and error, I suppose the most of them have been
 objected to the reader already by men lying in wait to deceive, or are
-likely to be, I shall therefore show you the poison, and withal furnish you
+likely to be, I shall therefore show you the poison, and withal furnish <choice><orig>you</orig><reg resp="#editor" type="emendation">ye</reg></choice>
 with an antidote against the venom of such self-seekers as our days abound
 withal.</p>
 
-<p xml:id="ccel-i.x.ii-p3">Secondly, I must desire you, that when ye hear an
+<p xml:id="ccel-i.x.ii-p3">Secondly, I must desire <choice><orig>you</orig><reg resp="#editor" type="emendation">ye</reg></choice>, that when ye hear an
 objection, ye would not be carried away with the sound of words, nor suffer
 it to take impression <choice><orig>on</orig><reg resp="#editor" type="spelling">upon</reg></choice> your spirits, remembering with how many
 demonstrations and innumerable places of Scripture the truth opposed by
@@ -9372,7 +9372,7 @@ were in heaven, some in hell long before), ‘<hi rend="italic">that he <choice>
 only-begotten Son</hi>,’ causing him to be incarnate in the fulness of
 time, to die, not with a purpose and resolution to save any, but ‘<hi rend="italic">that
 whosoever</hi>,’ what persons soever of those which he had propensity unto,
-‘<hi rend="italic">believeth in him should not perish, but have everlasting life</hi>,’
+‘<hi rend="italic" ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">believeth <choice><orig>in</orig><reg resp="#editor" type="emendation">on</reg></choice></hi> <choice><orig>him</orig><reg resp="#editor" type="spelling"><hi>him</hi>,’</reg></choice> should not perish, but <choice><orig>have</orig><reg resp="#editor" type="emendation">have life</reg></choice> everlasting<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>life</orig><reg resp="#editor" type="emendation"></reg></choice></hi>,<choice><orig>’</orig><reg resp="#editor" type="emendation"></reg></choice>
 should have this fruit and issue, that he should escape death and hell, and
 live eternally.”  In which explication of the sense of the place these
 things are to be observed:—</p>
@@ -9463,7 +9463,7 @@ believers might be <hi rend="italic">saved</hi>.</p>
 By “love” in this place, all our adversaries agree that <hi rend="italic">a natural
 affection and propensity in God to the good of the creature, lost under
 sin, in general, which moved him to take some way whereby it might possibly
-be remedied</hi>, is intended.  We, on the contrary, say that by
+be remedied</hi>, is intended.  We, on the contrary, <choice><orig>say</orig><reg resp="#editor" type="emendation"></reg></choice> that by
 <hi rend="italic">love</hi> here is not meant an inclination or propensity of his nature,
 but an <hi rend="italic">act of his will</hi> (where we conceive his love to be seated),
 <hi rend="italic">and eternal purpose to do good to man, being the most transcendent and
@@ -9591,7 +9591,7 @@ us take notice of in the first place: <ref type="scripture" cRef="Rom.5.8">Rom. 
 “God <choice><orig>commendeth</orig><reg resp="#editor" type="grammar">commended</reg></choice> his love <choice><orig>toward</orig><reg resp="#editor" type="spelling">towards</reg></choice>
 us, in that, while we were yet sinners, Christ died for us;”
 and fully, <ref type="scripture" cRef="1John.4.9-1John.4.10">1 John iv.
-9, 10</ref>, “In this was manifested the love of God toward us, because
+9, 10</ref>, “In this was manifested the love of God <choice><orig>toward</orig><reg resp="#editor" type="spelling">towards</reg></choice> us, because
 that God sent his only-begotten Son into the world, that we might live
 through him.  Herein is love, not that we loved God, but that he loved us,
 and sent his Son to be the propitiation for our sins.”  In both
@@ -9678,7 +9678,7 @@ because he sent his Son that they might not perish? or what other cause?
 not perish; which intimates that some of them might not believe.”  Very
 good!  But where is any such intimation?  God designs the salvation of all
 them in express words for whom he sends his Son; and certainly all that
-shall be saved shall believe.  But it is in the word <hi rend="italic">whosoever</hi>,
+shall be saved shall believe.  But it is in the <choice><orig>word</orig><reg resp="#editor" type="spelling">words</reg></choice> <hi rend="italic">whosoever</hi>,
 which is distributive of the world into those that believe and those that
 believe not.  <hi rend="italic">Ans.</hi> First, If this word <hi rend="italic">whosoever</hi> be
 distributive, then it is restrictive of the love of God to some, and not to
@@ -9755,7 +9755,7 @@ Scripture also carefully doth in express terms, <ref type="scripture" cRef="Heb.
 4</ref>.  Secondly, To evert and reject the boasting of the Jews, as
 though all the means of grace and all the benefits intended were to them
 appropriated.  Thirdly, To denote that great difference and <pb n="328" xml:id="ccel-i.x.ii-Page_328"/>distinction between the old administration of the covenant, when
-it was tied up to one people, family, and nation, and the new, when all
+it was tied up to <choice><orig>one</orig><reg resp="#editor" type="emendation">the</reg></choice> people, family, and nation, and the new, when all
 boundaries being broken up, the fulness of the Gentiles and the corners of
 the world were to be made obedient to the sceptre of Christ.  Fourthly, To
 manifest the condition of the elect themselves, who are thus beloved, for
@@ -9945,8 +9945,8 @@ the first place, were the objects of his care and apostleship.</p>
 <p xml:id="ccel-i.x.iii-p9">Secondly, He frequently intimates that those to whom he
 wrote were of them who heard of and received the word from the beginning;
 so twice together in this chapter, <ref type="scripture" cRef="1John.2.7">verse 7</ref>,
-“I write an old commandment,
-which ye had from the beginning, … which ye heard from the
+“<choice><orig>I write an old</orig><reg resp="#editor" type="emendation">That</reg></choice> commandment<choice><orig>,
+which ye had from the beginning, …</orig><reg resp="#editor" type="emendation"></reg></choice> which ye heard from the
 beginning.”  Now, that the promulgation of the gospel had its
 beginning among the Jews, and its first entrance with them, before the
 conversion of any of the Gentiles, — which was a mystery for a season, — is
@@ -9983,7 +9983,7 @@ be no difficult thing for any to discern the aim of the apostle in this
 place, in the expression so much stuck at.  “He,” saith he, “is <choice><orig>the</orig><reg resp="#editor" type="emendation">a</reg></choice> propitiation for our sins,” — that is, our sins who
 are believers of the Jews; and lest by this assertion they should take
 occasion to confirm themselves in their former error, he adds, “And not for ours only, but for the sins of the whole
-world,” or, “The children of God scattered abroad,” as <ref type="scripture" cRef="John.11.51-John.11.52">John xi. 51, 52</ref>, of what nation,
+world,” or, “The children of God <choice><orig>scattered abroad</orig><reg resp="#editor" type="emendation">throughout the world</reg></choice>,” as <ref type="scripture" cRef="John.11.51-John.11.52">John xi. 51, 52</ref>, of what nation,
 kindred, tongue, or language soever they were.  So that we have not here an
 opposition between the effectual salvation of all believers and the
 ineffectual redemption of all others, but an extending of the same
@@ -10212,7 +10212,7 @@ earth</hi>, <hi rend="italic">all men</hi>, why not also <hi rend="italic">the w
 <p xml:id="ccel-i.x.iii-p21"><hi rend="italic">Thirdly</hi>, The <hi rend="italic">whole world</hi> doth sometimes
 signify the worser part of the world; and why may it not, by a like
 synecdoche, signify the better part thereof? <ref type="scripture" cRef="Rev.12.9">Rev. xii.
-9</ref>, “The Devil, and Satan, which
+9</ref>, “The Devil, and Satan, <choice><orig>which</orig><reg resp="#editor" type="emendation">who</reg></choice>
 deceiveth the whole world, is cast out;” that is, the wicked
 and reprobate in the whole world, others rejoicing in his overthrow,
 <ref type="scripture" cRef="Rev.12.10">verse 10</ref>. <pb n="337" xml:id="ccel-i.x.iii-Page_337"/><ref type="scripture" cRef="1John.5.19">1 John v. 19</ref>, <seg>Ὁ κόσμος ὅλος</seg>, “The whole world lieth in <choice><orig>wickedness</orig><reg resp="#editor" type="emendation">evil</reg></choice>;” where “the whole
@@ -10246,7 +10246,7 @@ whom Christ is said to be a propitiation.</p>
 <p xml:id="ccel-i.x.iii-p25">Thirdly, This kind of phrase and expression in other places
 cannot possibly be tortured to such an extension as to comprehend all and
 every one, as was apparent from the places before alleged; to which add,
-<ref type="scripture" cRef="Matt.3.5">Matt. iii. 5</ref>, “Then went out to him <seg>πᾶσα ἡ Ἰουδαία, καὶ πᾶσα ἡ περίχωρος τοῦ
+<ref type="scripture" cRef="Matt.3.5">Matt. iii. 5</ref>, “Then went out <choice><orig>to</orig><reg resp="#editor" type="spelling">unto</reg></choice> him <seg>πᾶσα ἡ Ἰουδαία, καὶ πᾶσα ἡ περίχωρος τοῦ
 Ἰορδάνου</seg>,” — “all
 Judea, and all the region <choice><orig>round</orig><reg resp="#editor" type="emendation"></reg></choice> about Jordan;” among whom,
 notwithstanding, the Pharisees rejected his baptism.  Why, then, should it
@@ -10324,7 +10324,7 @@ and natural sense, can imagine that Christ, in <pb n="339" xml:id="ccel-i.x.iii-
 intended to purchase life and salvation for all them whom he knew to be
 damned many ages before, the irreversible decree of wrath being gone forth
 against them?  Or who dares once affirm that Christ gave himself for the
-life of them who, notwithstanding that, by his appointment, do come short
+life of them who, notwithstanding that, by his <choice><orig>appointment</orig><reg resp="#editor" type="spelling">disappointment</reg></choice>, do come short
 of it to eternity?  So that if we had no other place to manifest that the
 word <hi rend="italic">world</hi> doth not always signify <hi rend="italic">all</hi>, but only some of
 all sorts, as the elect of God are, but this one produced by our
@@ -10376,7 +10376,7 @@ a believing world unto himself,” of which there is no need, for believers
 are reconciled; or, secondly, “God was in Christ reconciling <pb n="340" xml:id="ccel-i.x.iii-Page_340"/>an unbelieving world unto himself, upon condition that it do
 believe;” that is, upon condition that it be not unbelieving; that is, that
 it be reconciled.  Is this the mind of the Holy Spirit?  Fourthly, If this
-reconciliation of the world consist (as it doth) in a non-imputation of
+reconciliation of the world consist (as it doth) in a <choice><orig>non</orig><reg resp="#editor" type="spelling">not</reg></choice>-imputation of
 sin, then this is either of all their sins, or only of some sins.  If of
 some only, then Christ saves only from some sins.  If of all, then of
 unbelief also, or it is no sin; then all the men in the world must needs be
@@ -10393,7 +10393,7 @@ though we do not divide them, but make them several parts of the same
 reconciliation, the former being the rule of the latter: for look, to
 whomsoever God is reconciled in and by Christ, they shall certainly every
 one of them be reconciled to God by the Spirit; — God’s reconciliation to
-them consisting in a non-imputation of their sins; their reconciliation
+them consisting in a <choice><orig>non</orig><reg resp="#editor" type="spelling">not</reg></choice>-imputation of their sins; their reconciliation
 unto him, in an acceptance of that non-imputation in Jesus Christ.  And as
 it is the rule of, so is it the chief motive unto, the latter, being the
 subject or matter of the message in the gospel whereby it is effected.  So
@@ -10410,7 +10410,7 @@ that were ‘dead,’
 Christ, <ref type="scripture" cRef="2Cor.5.15">verse 15</ref>: therefore, <hi rend="italic">all</hi>
 men.”  Now, “<seg>homini homo quid
 interest?</seg>”  How easy is it for some men to prove what they please! 
-Only let me tell you, one thing more is to be done that the cause may be
+Only let me tell <choice><orig>you</orig><reg resp="#editor" type="emendation">ye</reg></choice>, one thing more is to be done that the cause may be
 yours, — namely, a proving that the elect of God are not men; that they
 must not appear before the judgment-seat of Christ; that they were not
 dead; that they ought not to live to Christ.  This do, or ye lose the
@@ -10825,7 +10825,7 @@ in the disposal of these days; who are said to be “elect,”
 argue that because God would have none of those to perish, but all of them
 to come to repentance, therefore he hath the same will and mind towards all
 and every one in the world (even those to whom he never makes known his
-will, nor ever calls to repentance, if they never once hear of his way of
+will, nor ever calls to repentance, if <choice><orig>they</orig><reg resp="#editor" type="emendation"></reg></choice> never once hear of his way of
 salvation), comes not much short of extreme madness and folly.  Neither is
 it of any weight to the contrary, that they were not all elect to whom
 Peter wrote: for in the judgment of charity he esteemed them so, desiring
@@ -10999,7 +10999,7 @@ ransom?</p>
 respect of application.  The effectualness thereof towards those for whom
 he died, to cause them to live unto him, is insisted on.  That Christ died
 for all in respect of application hath not yet by any been affirmed.  Then
-must all live unto him, yea, live with him for evermore, if there be any
+must <choice><orig>all</orig><reg resp="#editor" type="emendation">we</reg></choice> live unto him, yea, live with him for evermore, if there be any
 virtue or efficacy in his applied oblation for that end.  In sum, here is
 no mention of Christ’s dying for any, but those that are dead to sin and
 live to him.</p>
@@ -11074,7 +11074,7 @@ the error we oppose with more than ordinary endeavours and confidence of
 success, it may not be unnecessary to consider what is brought by them to
 this end and purpose:—</p>
 
-<p xml:id="ccel-i.x.iv-p38"><ref type="scripture" cRef="Rom.5.14">Verse 14</ref>.  Adam is called <seg>τύπος</seg>, the type and “figure of him that was to come;” not that he
+<p xml:id="ccel-i.x.iv-p38"><ref type="scripture" cRef="Rom.5.14">Verse 14</ref>.  Adam is called <seg>τύπος</seg>, the type and “figure of him that <choice><orig>was</orig><reg resp="#editor" type="emendation">was for</reg></choice> to come;” not that he
 was an <hi rend="italic">instituted type</hi>, ordained for that only end and purpose,
 but only that in what he was, and what he did, with what followed
 thereupon, there was a <hi rend="italic">resemblance</hi> between him and Jesus Christ. 
@@ -11153,7 +11153,7 @@ person, in the room of all, ever since the “first Adam,” <ref type="scriptur
 upon more loose and tottering principles, nor the word of God more boldly
 corrupted for the maintenance of any error, since the name of Christian was
 known.  A man would think it quite lost, but that it is so very
-<hi rend="italic">easy</hi> a labour to remove such hay and stubble.  I answer, then, to
+<hi rend="italic">easy</hi> a labour to remove such hay and stubble.  I answer<choice><orig>, then,</orig><reg resp="#editor" type="emendation"> them</reg></choice> to
 the first, that though Adam lost not election, and the eternal decrees of
 the Almighty are not committed to the keeping of the sons of men, yet in
 him all the elect were lost, whom Christ came to seek, whom he found, — in
@@ -11306,7 +11306,7 @@ one: therefore, he was not a public person in the room of all.</p>
 <p xml:id="ccel-i.x.iv-p49">Thirdly, Christ was a “surety,” as he was a public person, <ref type="scripture" cRef="Heb.7.22">Heb. vii.
 22</ref>; but he was not a surety for all, — for, first, All are not
 taken into that covenant whereof he was a surety, whose conditions are
-effected in all the covenantees, as before; secondly, None can perish for
+effected in all the <choice><orig>covenantees</orig><reg resp="#editor" type="spelling">covenanters</reg></choice>, as before; secondly, None can perish for
 whom Christ is a surety, unless he be not able to pay the debt:— therefore,
 he was not a public person in the room of all.</p>
 
@@ -11320,7 +11320,7 @@ satisfaction from themselves, to the payment of the utmost farthing.</p>
 
 <p xml:id="ccel-i.x.iv-p51">Fifthly, Jesus Christ, as a public person, did nothing in
 vain in respect of any for whom he was a public person; but many things
-which Christ, as a public person, did perform were altogether in vain and
+which Christ, as a public person, did perform <choice><orig>were</orig><reg resp="#editor" type="emendation">was</reg></choice> altogether in vain and
 fruitless, in respect of the greatest part of the sons of men being under
 an incapability of receiving any good by any thing he did, — to wit, all
 that then were actually damned, in respect of whom, redemption,
@@ -11358,7 +11358,7 @@ xi. 51, 52</ref>; <ref type="scripture" cRef="Acts.20.28">Acts xx.
 
 <p xml:id="ccel-i.x.v-p1">III. <seg rend="smallcaps">I come</seg>,
 in the next place, to the third and last argument, drawn from the
-Scripture, wherewith the Arminians and their successors (as to this point)
+Scripture, wherewith the Arminians and their <choice><orig>successors</orig><reg resp="#editor" type="emendation"></reg></choice> (as to this point<choice><orig>)</orig><reg resp="#editor" type="punctuation">) successors</reg></choice>
 do strive to maintain their figment of universal redemption; and it is
 taken from such texts of Scripture as seem to hold out the perishing of
 some of them for whom Christ died, and the fruitlessness of his blood in
@@ -11495,7 +11495,7 @@ refer to the eternal redemption by the blood of Christ, or a deliverance by
 God’s goodness from the defilement of the world in idolatry, or the like,
 by the knowledge of the truth, — which last the text expressly affirms;
 <hi rend="italic">uncertain</hi>, whether the apostle speaketh of this purchase according
-to the reality of the thing, or according to their apprehension and their
+to the reality of the thing, <choice><orig>or</orig><reg resp="#editor" type="emendation"></reg></choice> according to their apprehension and their
 profession.</p>
 
 <p xml:id="ccel-i.x.v-p9">On the other side, it is most <hi rend="italic">certain</hi>, — First,
@@ -11724,7 +11724,7 @@ otherwise described.</p>
 according to the truth of the thing itself, in both parts thereof (namely,
 1. That <choice><orig>those</orig><reg resp="#editor" type="spelling">these</reg></choice> of whom the apostle speaketh were truly sanctified; 2. That
 such may totally perish), then these two things will inevitably follow, —
-<hi rend="italic">first</hi>, That faith and sanctification are not the fruit of election;
+<hi rend="italic">first</hi>, That faith and sanctification <choice><orig>are</orig><reg resp="#editor" type="emendation">is</reg></choice> not the fruit of election;
 <hi rend="italic">secondly</hi>, That believers may fall finally from Christ; — neither of
 which I as yet find to be owned by our new Universalists, though both
 contended for by our old Arminians.</p>
@@ -11769,7 +11769,7 @@ pretended to draw from the Scripture in the defence of their cause; some
 other sophisms shall hereafter be removed.  But because of late we have had
 a multiplication of arguments on this subject, some whereof, at least in
 form, appear to be new, and may cause some trouble to the unskilful, I
-shall, in the next place, remove all those objections which <seg>Thomas More</seg>, in his book of the “<seg>Universality of
+shall, in the next place, remove all those objections which <seg><choice><orig>Thomas More</orig><reg resp="#editor" type="emendation">T. M.</reg></choice></seg>, in his book of the “<seg>Universality of
 Free Grace</seg>,” hath gathered together against our main thesis, of
 Christ’s dying only for the elect, which himself puts together in one
 bundle, chap. xx[vi]., and calleth them <hi rend="italic">reasons</hi>.</p>
@@ -11976,7 +11976,7 @@ the very same argument, for substance, with that which went before, as also
 are some of those that follow; only some words are varied, to change the
 outward appearance, and so to make show of a number.  Secondly, That the
 whole strength of this argument lies in turning indefinite propositions
-into universals, concluding that because Christ died for sinners, therefore
+into universals, concluding that because Christ died for sinners<choice><orig>,</orig><reg resp="#editor" type="punctuation">, that</reg></choice> therefore
 he died for all sinners; because he died for the unjust, ungodly, and the
 world, that therefore he died for every one that is unjust, or ungodly, and
 for every one in the world; because he died for all, therefore for all and
@@ -12005,7 +12005,7 @@ restrained sense in those places where they are expounded to <pb n="373" xml:id=
 throughout the world.  Fourthly, For particular places of Scripture urged,
 <ref type="scripture" cRef="1Tim.1.15">1 Tim. i. 15</ref>; <ref type="scripture" cRef="1Pet.3.18">1 Pet.
 iii. 18</ref>; <ref type="scripture" cRef="Rom.5.6">Rom. v. 6</ref>, in the beginning of the
-assumption, are not at all to the purpose in hand. <ref type="scripture" cRef="John.3.17">John iii.
+assumption, <choice><orig>are</orig><reg resp="#editor" type="emendation">and</reg></choice> not at all to the purpose in hand<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> <ref type="scripture" cRef="John.3.17">John iii.
 17</ref>; <ref type="scripture" cRef="Heb.2.9">Heb. ii. 9</ref>; <ref type="scripture" cRef="1John.2.2">1 John ii.
 2</ref>, have been already considered. <ref type="scripture" cRef="Rom.3.10 Bible.kjv:Rom.3.19 Bible.kjv:Rom.3.20 Bible.kjv:Rom.3.23">Rom. iii. 10,
 19, 20, 23</ref>; <ref type="scripture" cRef="Eph.2.1-Eph.2.3">Eph. ii.
@@ -12221,10 +12221,10 @@ the promises: “Therefore, that Jesus Christ is the Lord, and to be
 confessed to the glory of God, is certainly a truth.”  This, I say, is all
 the conclusion that this argument ought to have had, unless, instead of a
 syllogism, you intend three independent propositions, every one standing
-upon its own strength.  That which is inserted concerning his giving
+upon <choice><orig>its</orig><reg resp="#editor" type="spelling">his</reg></choice> own strength.  That which is inserted concerning his giving
 himself a ransom for all, and that which follows of the conviction and
 condemnation of them who believe not nor obey the gospel, confirmed from
-<ref type="scripture" cRef="2Cor.5.10">2 Cor. v. 10</ref>, <ref type="scripture" cRef="2Tim.2.12-2Tim.2.14">2 Tim. ii. 12–14</ref>, is altogether
+<ref type="scripture" cRef="2Cor.5.10"><choice><orig>2</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Cor</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> <choice><orig>v</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> <choice><orig>10</orig><reg resp="#editor" type="emendation"></reg></choice></ref><choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> <ref type="scripture" cRef="2Tim.2.12-2Tim.2.14">2 Tim. ii. 12–14</ref>, is altogether
 heterogeneous to the business in hand.  Now, this being the conclusion
 intended, if our author suppose that the deniers of universal redemption do
 question the truth of it, I wonder not at all why he left all other
@@ -12456,7 +12456,7 @@ the world to save the world, <ref type="scripture" cRef="John.12.47">John xii.
 all, <ref type="scripture" cRef="2Cor.5.14-2Cor.5.15">2 Cor. v.
 14, 15</ref>; and gave himself a ransom for all, <ref type="scripture" cRef="1Tim.2.6">1 Tim. ii.
 6</ref>; to save that which was lost, <ref type="scripture" cRef="Matt.18.11">Matt. xviii.
-11</ref>.  And so his propitiation was made for the world, <ref type="scripture" cRef="2Cor.5.19">2 Cor. v. 19</ref>; the whole world,
+11</ref>.  And so his <choice><orig>propitiation</orig><reg resp="#editor" type="emendation">propitiation made</reg></choice> was <choice><orig>made</orig><reg resp="#editor" type="emendation"></reg></choice> for the world, <ref type="scripture" cRef="2Cor.5.19">2 Cor. v. 19</ref>; the whole world,
 <ref type="scripture" cRef="1John.2.2">1 John ii. 2</ref>.  And all this is full
 and plain in Scripture.”</p>
 
@@ -12641,22 +12641,22 @@ the Spirit upon the apostles at Pentecost, after the ascension of our
 Saviour; which also is made more apparent by the consideration of what he
 affirmeth that the advocate so sent shall do, namely, — 1. “He shall reprove,” or rather, evidently,
 “convince, the world of
-sin, because they believed not on him;” which, surely, he
+sin, because they believed not on him;” which, surely, <choice><orig>he</orig><reg resp="#editor" type="emendation">it</reg></choice>
 abundantly did in that sermon of Peter, <ref type="scripture" cRef="Acts.2">Acts ii.</ref>, when
 the enemies themselves and haters of Christ were so reproved and convinced
 of their sin, that, upon the <pb n="386" xml:id="ccel-i.x.vi-Page_386"/>pressing urgency of that
 conviction, they cried out, “Men and brethren, what shall we do to be saved?”  Then was
 the world brought to a voluntary confession of the sin of murdering Jesus
-Christ.  2. He shall do the same of “righteousness, because he went to his Father;” — not of its
-own righteousness, to reprove it for that, because it is not; but he shall
+Christ.  2. <choice><orig>He</orig><reg resp="#editor" type="emendation">It</reg></choice> shall do the same of “righteousness, because he went to his Father;” — not of its
+own righteousness, to reprove it for that, because it is not; but <choice><orig>he</orig><reg resp="#editor" type="emendation">it</reg></choice> shall
 convince the men of the world, who condemned Christ as a seducer, of his
 righteousness, — that he was not a blasphemer, as they pretended, but the
 Son of God, as himself witnessed: which they shall be forced to acknowledge
 when, by the effusion and pouring out of the Spirit upon his apostles, it
 shall be made evident that he is gone to and received of his Father, and
-owned by him, as the centurion did presently upon his death.  3. He shall
+owned by him, as the centurion did presently upon his death.  3. <choice><orig>He</orig><reg resp="#editor" type="emendation">It</reg></choice> shall
 “convince the world of
-judgment, because the prince of this world is judged;”
+judgment, because the prince of <choice><orig>this</orig><reg resp="#editor" type="emendation">the</reg></choice> world is judged;”
 manifesting to all those of whom he speaketh, that he whom they despised as
 the carpenter’s son, and bade come down from the cross if he could, is
 exalted to the right hand of God, having all judgment committed to him,
@@ -12840,7 +12840,7 @@ earth,” mentioned in <ref type="scripture" cRef="Isa.45.22 Bible.kjv:Isa.49.6"
 6</ref>; it being evident beyond denial that by these expressions, in
 both these places, only the elect of God and believers are clearly
 intimated: so that, interpreting the one by the other, in those places
-where <hi rend="italic">all</hi> and <hi rend="italic">the world</hi> are spoken of, those only are
+where <hi rend="italic">all</hi> and <hi rend="italic">the world</hi> are spoken<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>of</orig><reg resp="#editor" type="emendation"></reg></choice>, those only are
 intended.  “If pride and error” had not taken full possession of the minds
 of men, they could not so far deny their own sense and reason as to
 contradict themselves and the plain texts of Scripture for the maintenance
@@ -12864,7 +12864,7 @@ them that believe that are proper to them, that they may both have their
 comfort and especial hope, and also hold forth the ransom and keep open the
 door for others, in belief and receipt of the propitiation, to come in and
 partake with them.  And so it is said for his “sheep,” and for “many;” but
-nowhere but only for his sheep, or but only for many: which is a strong
+<choice><orig>nowhere</orig><reg resp="#editor" type="emendation">nowhere only</reg></choice> but <choice><orig>only</orig><reg resp="#editor" type="emendation"></reg></choice> for his sheep, or but only for many: which is a strong
 proof of the ransom for all men, as is shown, chap. iii., x.”</p>
 
 <p xml:id="ccel-i.x.vi-p57"><hi rend="italic">Ans.</hi> The strength of this proof, as to the business
@@ -12874,7 +12874,7 @@ main thesis intended to be maintained.  The force which it hath is in an
 observation which, if it hath any sense, is neither true nor once attempted
 to be made good; for, — First, That there are peculiar high privileges
 belonging to the saints and called of God is a thing which needs no proof. 
-Amongst these is the death of Christ for them, not as saints, but as elect,
+Amongst these <choice><orig>is</orig><reg resp="#editor" type="emendation">are</reg></choice> the death of Christ for them, not as saints, but as elect,
 which, by the benefit of that death and blood-shedding, are to be made
 saints, and accounted to be the holy ones of God: for “he redeemed his church with
 his own blood,” <ref type="scripture" cRef="Acts.20.28">Acts xx.
@@ -12969,7 +12969,7 @@ short of the glory of God,” which the apostle had at large
 proved before, thereby to manifest that there was no salvation to be
 attained but only by Jesus Christ; but if ye will ask to whom this
 righteousness of Christ is extended, and that redemption which is in his
-blood, he telleth you plainly, it is “unto all and upon all them that believe,” <ref type="scripture" cRef="Rom.3.22">verse 22</ref>, whether they be <choice><orig>Jews</orig><reg resp="#editor" type="spelling">Jew</reg></choice> or
+blood, he telleth <choice><orig>you</orig><reg resp="#editor" type="emendation">ye</reg></choice> plainly, it is “unto all and upon all them that believe,” <ref type="scripture" cRef="Rom.3.22">verse 22</ref>, whether they be <choice><orig>Jews</orig><reg resp="#editor" type="spelling">Jew</reg></choice> or
 <choice><orig>Gentiles</orig><reg resp="#editor" type="spelling">Gentile</reg></choice>, “<choice><orig>for</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>there is no
 difference.”</p>
 
@@ -13007,8 +13007,8 @@ needs no proof.  But now, what can be concluded from hence for universal
 redemption is not easily discernible.</p>
 
 <p xml:id="ccel-i.x.vi-p65">Perhaps some will say it is in this, that if Christ did not
-die for all to whom the word is preached, then how can they that preach it
-offer Christ to all?  A poor proof, God wot!  For, — First, The gospel was
+die for all to whom the word is preached, then how can they <choice><orig>that preach it</orig><reg resp="#editor" type="emendation"></reg></choice>
+offer Christ to <choice><orig>all</orig><reg resp="#editor" type="emendation">all that preach it</reg></choice>?  A poor proof, God wot!  For, — First, The gospel was
 never preached to all and every one, nor is there any such thing affirmed
 in the places cited; and ye are to prove that Christ died for all, as well
 those that never hear of the gospel as those that do.  Secondly, What do
@@ -13042,7 +13042,7 @@ to the seed of Israel, ‘Seek ye me in vain,’ <ref type="scripture" cRef="Isa
 equivalent to <hi rend="italic">universal</hi>; which is false, <ref type="scripture">Rom. iv., v.</ref>  Secondly,
 That by “all,” <ref type="scripture" cRef="1Tim.2.1">1
 Tim. ii. 1</ref>, is not meant all sorts of men, and the word
-<hi rend="italic">all</hi> is not to be taken distributively, when the apostle, by an
+<hi rend="italic">all</hi> <choice><orig>is</orig><reg resp="#editor" type="emendation"></reg></choice> not to be taken distributively, when the apostle, by an
 enumeration of divers sorts, gives an evident demonstration of the
 distribution intended.  Thirdly, That we are bound to pray for every
 singular man that he may be saved; which, — 1. We have no warrant, rule,
@@ -13128,7 +13128,7 @@ mentioned, <ref type="scripture" cRef="Titus.2.11 Bible.kjv:Titus.2.13">Tit. ii.
 11, 13</ref>, is the grace that certainly brings salvation, which that
 common love doth not, and was the cause of sending Christ, “that he might redeem us
 from all iniquity, and purify to himself a peculiar people, zealous of good
-works;” where our redemption and sanctification are asserted to
+works;” where our redemption and sanctification <choice><orig>are</orig><reg resp="#editor" type="emendation">is</reg></choice> asserted to
 be the immediate end of the oblation of Jesus Christ; which how destructive
 it is to universal redemption hath been formerly declared.  2. So also is
 that “love and
@@ -13185,7 +13185,7 @@ the passion and oblation of Jesus Christ for sinners, so as to accept of
 the mercy procured thereby, upon those terms and conditions that it is held
 forth in the gospel; which doth not attend the purpose and intention of God
 for whom Christ should die, but the sufficiency and efficacy of his death
-for all that receive him in a due manner, he being the only true way, life,
+for all that receive him in a due manner, he <choice><orig>being</orig><reg resp="#editor" type="emendation">being only</reg></choice> the <choice><orig>only</orig><reg resp="#editor" type="emendation"></reg></choice> true way, life,
 and light, no other name being given under heaven whereby men may be saved.
  It is a “loving darkness rather than
 light,” as in <ref type="scripture" cRef="John.3.19">John iii.
@@ -13362,7 +13362,7 @@ my people, We are lords; we will come no more unto thee?’
 <ref type="scripture" cRef="Jer.2.31">verse 31</ref>. ‘O my people, what have I done unto thee? wherein have I wearied thee?
 testify against me,’ <ref type="scripture" cRef="Mic.6.3">Mic. vi. 3</ref>.
 ‘How often would I have
-gathered,’ etc., ‘and ye would not!’ <ref type="scripture" cRef="Matt.23.37">Matt. xxiii.
+gathered,’ etc., ‘and <choice><orig>ye</orig><reg resp="#editor" type="grammar">you</reg></choice> would not!’ <ref type="scripture" cRef="Matt.23.37">Matt. xxiii.
 37</ref>. ‘O that my people had
 hearkened unto me!’ etc., ‘I
 should soon have subdued their enemies,’ etc., <ref type="scripture" cRef="Ps.81.13-Ps.81.14">Ps. lxxxi. 13, 14</ref>. ‘Because I have called, and ye refused<choice><orig>; I have stretched
@@ -13399,7 +13399,7 @@ which apparently and evidently lay the inexcusableness of sin upon <pb n="401" x
 and providence, of God, as eternal, almighty, and powerful, without the
 least intimation of any ransom, atonement, and redemption), — that all the
 rest, I say, are spoken to and of those that enjoyed the means of grace,
-who, in the days wherein those expostulations were used towards them, were
+who, in the days wherein those expostulations were used towards them, <choice><orig>were</orig><reg resp="#editor" type="emendation">was</reg></choice>
 a very small portion of all men; so that from what is said to them nothing
 can be concluded of the mind and purpose of God towards all others,
 <ref type="scripture" cRef="Ps.147.19-Ps.147.20">Ps. cxlvii. 19, 20</ref>, — which is
@@ -13814,7 +13814,7 @@ not whether Christ died for him or no.”</p>
 <p xml:id="ccel-i.x.vii-p16"><hi rend="italic">Ans.</hi> 1. That scruples, doubts, and fears, the proper
 issue of unconquered remaining unbelief, will often arise in the hearts of
 sinners, sometimes against, sometimes taking occasion from, the truth of
-the gospel, is too evident upon experience.  All the question is, whether
+the gospel, <choice><orig>is</orig><reg resp="#editor" type="emendation">is too</reg></choice> too evident upon experience.  All the question is, whether
 the doctrine itself scrupled or stumbled at do of itself, in its own
 nature, give cause thereto unto those who rightly perform their duty? or
 whether all those fears and scruples be the natural product and issue of
@@ -13888,7 +13888,7 @@ following sentence, and the three objections that are considered, “two”
 seems to have been written, by an oversight, for “three.” — <seg rend="smallcaps">Ed</seg>.</note> things that remain,
 about which there is no small contention, both things in themselves
 <choice><orig>excelling</orig><reg resp="#editor" type="spelling">excellent</reg></choice> and valuable, both laid claim to by the several persuasions
-concerning which we treat; <pb n="411" xml:id="ccel-i.x.vii-Page_411"/>but with such an unequal plea, that
+concerning which we treat; <pb n="411" xml:id="ccel-i.x.vii-Page_411"/>but with <choice><orig>such</orig><reg resp="#editor" type="emendation">some</reg></choice> an unequal plea, that
 an easy judgment might serve to decide the controversy.  Now, these are,
 first, the exaltation of God’s free grace, the merit of Christ, and the
 consolation of our souls.  Let us consider them in order, and let each
@@ -14090,7 +14090,7 @@ setting forth of the worth and dignity of his death and passion.</p>
 <p xml:id="ccel-i.x.vii-p50"><seg rend="smallcaps">Obj.</seg> V. The
 next and last thing which comes under debate in this contest is <hi rend="italic">gospel
 consolation</hi>, which God in Christ is abundantly willing we should
-receive.  A short disquisition whether of the two opinions treated on doth
+receive.  A short disquisition whether of the two opinions treated on <choice><orig>doth</orig><reg resp="#editor" type="grammar">do</reg></choice>
 give the firmest basis and soundest foundation hereunto, will, by the
 Lord’s assistance, lead us to an end of this long debate.  <seg rend="smallcaps">The God of truth and comfort grant that all
 our undertakings, or rather his workings in us, for truth, may end in peace
@@ -14110,7 +14110,7 @@ is no less <choice><orig>a</orig><reg resp="#editor" type="emendation"></reg></c
 14</ref>; <ref type="scripture" cRef="Ezek.13.10">Ezek. xiii.
 10</ref>.</p>
 
-<p xml:id="ccel-i.x.vii-p54">3. <seg>T. M[ore]</seg>’s attempt to
+<p xml:id="ccel-i.x.vii-p54">3. <seg>T. M<choice><orig>[</orig><reg resp="#editor" type="punctuation"></reg></choice><choice><orig>ore</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>]</orig><reg resp="#editor" type="punctuation"></reg></choice></seg><choice><orig>’s</orig><reg resp="#editor" type="emendation">. his</reg></choice> attempt to
 set forth the death of Christ so that all might be comforted, meaning all
 and every one in the world, as appeareth, is a proud attempt to make that
 straight which God hath made crooked, and most opposite to the gospel.</p>
@@ -14158,7 +14158,7 @@ foundation of <hi rend="italic">consolation</hi>, as proposed with and arising f
 <hi rend="italic">general ransom</hi>, equally appertain with the choicest of
 believers.</p>
 
-<p xml:id="ccel-i.x.vii-p60">(3.) Let a man try in the time, not of disputation, but of
+<p xml:id="ccel-i.x.vii-p60">(3.) Let a man try in the time<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>not of disputation, but<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>of</orig><reg resp="#editor" type="emendation">)</reg></choice>
 desertion and temptation, what consolation or peace to his soul he can
 obtain from such a collection as this, “Christ died for all men; I am a
 man: therefore, Christ died for me.”  Will not his own heart tell him, that
@@ -14174,7 +14174,7 @@ consolation from that which is common unto all, you must tell me what it
 carried out after assurance of the love of God in Christ.  If you give me
 no more to comfort me than what you give, or might have given, to Judas,
 can you expect I should receive settlement and consolation?  Truly,
-miserable comforters are ye all, physicians of no value, Job’s visitors, —
+miserable comforters are <choice><orig>ye</orig><reg resp="#editor" type="grammar">you</reg></choice> all, physicians of no value, Job’s visitors, —
 skilful only to add affliction unto the afflicted.</p>
 
 <p xml:id="ccel-i.x.vii-p61">“But be of good comfort,” will Arminians say; “Christ is a
@@ -14294,13 +14294,13 @@ conveyed unto our souls.</p>
 
 <p xml:id="ccel-i.x.vii-p68">3. The next thing we have to do is, to manifest that the
 doctrine of the effectual redemption of the elect only by the blood of
-Jesus is not liable to any just exception as to this particular, nor doth
+Jesus is not liable to any just exception as to this particular, <choice><orig>nor</orig><reg resp="#editor" type="spelling">or</reg></choice> doth
 any way abridge believers of any part or portion of that consolation which
 God is willing they should receive.  That alone which, by the opposers of
 it, with any colour of reason, is objected (for as for the exclamation of
 shutting out innumerable souls from any share in the blood of Christ,
 seeing confessedly they are reprobate unbelievers and persons finally
-impenitent, we are not at all moved at it), comes to this head:— “That
+impenitent, we are not at all moved at<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>it</orig><reg resp="#editor" type="emendation"></reg></choice>), comes to this head:— “That
 there is nothing in the Scripture whereby any man can assure himself that
 Christ died for him in particular, unless we grant that he died for
 all.”</p>
@@ -14354,7 +14354,7 @@ indeed the first proposition is absolutely false, and the conclusion, if it
 could be true, yet, according to their persuasion, can be no more ground of
 consolation than Adam’s fall.  All this is spoken not as though either one
 opinion or other were able of itself to give consolation, which God alone,
-in the sovereignty of his free grace, can and doth create; but only to <pb n="421" xml:id="ccel-i.x.vii-Page_421"/>show what principles are suitable to the means whereby he worketh
+<choice><orig>in</orig><reg resp="#editor" type="emendation">for</reg></choice> the sovereignty of his free grace, can and doth create; but only to <pb n="421" xml:id="ccel-i.x.vii-Page_421"/>show what principles are suitable to the means whereby he worketh
 on and towards his elect.</p>
 
 <p xml:id="ccel-i.x.vii-p71">4. The drawing of gospel consolation from the death of
@@ -14376,7 +14376,7 @@ with the leaven of the error opposed, conclude with me, that if there be
 any comfort, any consolation, any assurance, any rest, any peace, any joy,
 any refreshment, any exultation of spirit, to be obtained here below, it is
 all to be had in the blood of Jesus long since shed, and his intercession
-still continued; as both are united and appropriated to the elect of God,
+still continued; as both <choice><orig>are</orig><reg resp="#editor" type="emendation"></reg></choice> united and appropriated to the elect of God,
 by the precious effects and fruits of them both drawn to believe and
 preserved in believing, to the obtaining of an immortal crown of glory,
 that shall not fade away.</p>
@@ -14417,7 +14417,7 @@ Philad.</seg> [cap. ix., <seg><seg rend="smallcaps">a.d.</seg> 107</seg>]: <seg>
 leading to the Father, this the rock, the fold, the key; he is the
 shepherd, the sacrifice; the door of knowledge, by which entered Abraham,
 Isaac, Jacob, Moses, and the whole company of prophets, and the pillars of
-the world, the apostles, and the spouse of Christ; for whom, instead of a
+the world, the apostles, and the spouse of Christ; for <choice><orig>whom</orig><reg resp="#editor" type="emendation">which</reg></choice>, instead of a
 dowry, he poured out his own blood, that he might redeem her.”</p>
 
 <p xml:id="ccel-i.xi.i-p4">Surely Jesus Christ gives not a dowry for any but his own
@@ -14474,8 +14474,8 @@ world.”</p>
 εἰσελεύσονται;</seg> — “Wonder not if the whole world be redeemed; for he
 was not a mere man, but the only-begotten Son of God that died.  If, then,
 through the eating of the tree” (forbidden) “they were cast out of
-paradise, certainly now by the tree” (or cross) “of Jesus shall not
-believers more easily enter into paradise?”</p>
+paradise, certainly now by the tree” (or cross) “of Jesus shall <choice><orig>not</orig><reg resp="#editor" type="emendation"></reg></choice>
+believers more easily enter into paradise<choice><orig>?</orig><reg resp="#editor" type="punctuation">.</reg></choice>”</p>
 
 <p xml:id="ccel-i.xi.i-p14">So also doth another of them make it manifest in what sense
 they use the word <hi rend="italic">all</hi>.</p>
@@ -14537,7 +14537,7 @@ ecclesiam.  Mundus igitur odit mundum; inimicus reconciliatum, damnatus
 salvatum, inquinatus mundatum.  Sed iste mundus quem Deus in Christo
 reconciliat sibi, et qui per Christum salvatur, de mundo electus est
 inimico, damnato, contaminato.</seg>” — “He often calleth the
-<hi rend="italic">church</hi> itself by the name of <hi rend="italic">the world</hi>; as in that,
+<hi rend="italic">church</hi> itself <choice><orig>by</orig><reg resp="#editor" type="emendation"></reg></choice> the name of <hi rend="italic">the world</hi>; as in that,
 ‘God was in Christ
 reconciling the world <choice><orig>unto</orig><reg resp="#editor" type="grammar">to</reg></choice> himself;’ and that, ‘The Son of man came not to condemn the world, but that
 the world through him might be saved.’ And John in his epistle
@@ -14562,9 +14562,9 @@ Salvator pro totius mundi redemptione crucifixus, propter veram humanæ
 naturæ susceptionem, potest tamen dici pro his tantum crucifixus quibus
 mors ipsius profuit.  Diversa ab istis sors eorum est qui inter illos
 censentur de quibus dicitur, ‘Mundus enim non cognovit.’</seg> ”— “He is
-not crucified with Christ who is not a member of the body of Christ.  When,
+not crucified with Christ who is not a member of the body of Christ.  <choice><orig>When,
 therefore, our Saviour is said to be crucified for the redemption of the
-whole world, because of his true assumption of the human nature, yet may he
+whole world, because of his true assumption of the human nature, yet</orig><reg resp="#editor" type="emendation">As — so</reg></choice> may he
 be said to be crucified only for them unto whom his death was profitable. 
 Diverse from these is their lot who are reckoned amongst them of whom it is
 said, ‘The world knew him
@@ -14711,7 +14711,7 @@ Helena for which the Socinians have, with so much fraud and subtlety, with
 so many Sinonian arts, so long contended?</p>
 
 <p xml:id="ccel-i.xi.ii-p7">3. That it is extremely to the dishonour of Jesus Christ,
-destructive to the gospel faith and all solid consolation, and forces men
+destructive to the gospel faith and all solid consolation, and <choice><orig>forces</orig><reg resp="#editor" type="spelling">forced</reg></choice> men
 either to a familistical contempt or sophistical corrupting of the word of
 God in its defence.</p>
 
@@ -14829,7 +14829,7 @@ to God?</p>
 
 <p xml:id="ccel-i.xi.ii-p19"><hi rend="italic">Fourthly</hi>, Was not Jesus Christ a priest for his
 people, in their behalf to deal with God, <ref type="scripture" cRef="Heb.2.17 Bible.kjv:Heb.5.1-Heb.5.2 Bible.kjv:Heb.7.26-Heb.7.27">Heb. ii. 17, v.
-1, 2, vii. 26, 27</ref>; as well as a prophet, to deal with them in
+1, 2, vii. 26<choice><orig>,</orig><reg resp="#editor" type="punctuation">–</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>27</orig><reg resp="#editor" type="emendation">28</reg></choice></ref>; as well as a prophet, to deal with them in
 the behalf of God? and whether the acts of his priestly office do not all
 of them immediately tend towards God for the procuring good things for
 those in whose behalf he is a priest?</p>

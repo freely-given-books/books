@@ -75,3 +75,10 @@ on a crop of the page image.
   `source/collation/goold-ccel.jsonl` (11 slips, among them two English
   glosses CCEL added after Owen's Greek).
 - Book IV and the appendices against 1648: `source/collation/book-4.jsonl`.
+- The held readings of Books II-IV and the appendices (140, settled
+  2026-10-25 on a review page showing each 1648 page): 85 of Owen's words
+  restored, 55 Goold's kept, each recorded as `decision` in
+  `source/collation/*.held.jsonl`. Numbering was left to Claude: Goold's
+  continuous argument numbers (Book III, Arg. I-XVI; 1648 skips 9 and leaves
+  the later ones unnumbered) and his ordering of lists stand where they keep
+  a sequence whole or match the list they answer.

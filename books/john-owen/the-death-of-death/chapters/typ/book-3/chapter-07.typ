@@ -46,7 +46,7 @@ Thirdly, He proceedeth, “Any one may, without any wrong, go off from the right
 
 Fourthly, He adds, “None can be called just for using his own right or lordship; but God is called just for punishing or not remitting sin,” Rev. xvi. 5.
 
-#emph[Ans. First], However it be in other causes, yet in this God may certainly be said to be just in exacting his debt or using his dominion, because his own will is the only rule of justice.
+#emph[Ans.] However it be in other causes, yet in this God may certainly be said to be just in exacting his debt or using his dominion, because his own will is the only rule of justice.
 
 #emph[Secondly], We do not say punishing, is an act of dominion, but an act of exacting a due debt; the requiring this of Christ in our stead supposing the intervention of an act of supreme dominion.
 

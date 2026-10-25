@@ -8,7 +8,7 @@
 
 2\. That of its own accord it tends to the very bottom of Socinian folly, yea, indeed, is the very same opinion, for substance, with that whereby they have so long vexed the churches of God, and are themselves deservedly by them all esteemed accursed, for preaching another gospel. Doth not the sum of this discovery come hither, that there is no vindicative justice in God, no wrath or anger against sin, nothing requiring satisfaction for it; that Christ came to declare this, and to make known the way of going to the Father? And is not this that very Helena for which the Socinians have, with so much fraud and subtlety, with so many Sinonian arts, so long contended?
 
-3\. That it is extremely to the dishonour of Jesus Christ, destructive to the gospel faith and all solid consolation, and forces men either to a familistical contempt or sophistical corrupting of the word of God in its defence.
+3\. That it is extremely to the dishonour of Jesus Christ, destructive to the gospel faith and all solid consolation, and forced men either to a familistical contempt or sophistical corrupting of the word of God in its defence.
 
 Upon these and the like considerations and apprehensions, I deemed it might not be in vain to disprove the main assertion, as also to manifest the miserable inconsequence, from the asserting of God’s eternal love to the denial of satisfaction; which in what manner the Lord enabled me to perform, you must know, reader, in the place above mentioned. At that time I had only had one conference with one about it; and for books I had only seen some few, and those so exceedingly inconsiderable, and so fully familistical, forced with so much contempt of the word, that I was not willing to cast away the least moment on them.
 
@@ -30,7 +30,7 @@ Thirdly, These things being premised, to clear the truth in this point, I desire
 
 #emph[Thirdly], Is not the death of Christ a proper sacrifice? Eph. v. 2; Heb. ix. 26, 28; John i. 29; the antitype of all sacrifices, in which they have their accomplishment? And did it not really effect what they carnally and typically figured? Heb. ix. 11–14, etc., x. 1–7, etc. And was it not offered to God?
 
-#emph[Fourthly], Was not Jesus Christ a priest for his people, in their behalf to deal with God, Heb. ii. 17, v. 1, 2, vii. 26, 27; as well as a prophet, to deal with them in the behalf of God? and whether the acts of his priestly office do not all of them immediately tend towards God for the procuring good things for those in whose behalf he is a priest?
+#emph[Fourthly], Was not Jesus Christ a priest for his people, in their behalf to deal with God, Heb. ii. 17, v. 1, 2, vii. 26–28; as well as a prophet, to deal with them in the behalf of God? and whether the acts of his priestly office do not all of them immediately tend towards God for the procuring good things for those in whose behalf he is a priest?
 
 #emph[Fifthly], Whether Christ by his intercession doth appear before God to declare the love of God to his? or whether it be to procure farther fruits of love for his? Rom. viii. 34; Heb. vii. 25, ix. 24.
 

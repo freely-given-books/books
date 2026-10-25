@@ -30,7 +30,7 @@ That in the things before recounted the exercise of Christ’s priestly office d
 
 First, The punishment due to sin is the wrath of God: Rom. i. 18, “The wrath of God is revealed against all ungodliness;” chap. ii. 5, “The day of wrath and revelation of the righteous judgments of God;” Eph. ii. 3, “Children of wrath;” John iii. 36. But Jesus Christ underwent the punishment due to sin: 2 Cor. v. 21, “Made sin for us;” Isa. liii. 6, “Iniquity was laid upon him;” 1 Pet. ii. 24, “He bare our sins in his own body on the tree.” Therefore he underwent the wrath of God.
 
-Secondly, The curse of the law is the wrath of God taken passively, Deut. xxix. 20, 21. But Jesus Christ underwent the curse of the law: Gal. iii. 13, “Made a curse for us,” the curse that they lie under who are out of Christ, who are “of the works of the law,” verse 10. Therefore he underwent the wrath of God.
+Secondly, The curse of the law is the wrath of God taken passively, Deut. xxix. 20, 21. But Jesus Christ underwent the curse of the law: Gal. iii. 13, “Made a curse for us,” the curse that they lie under which are out of Christ, who are “of the works of the law,” verse 10. Therefore he underwent the wrath of God.
 
 Thirdly, The death that sinners are to undergo is the wrath of God. Jesus Christ did taste of that death which sinners for themselves were to undergo; for he died as “our surety,” Heb. vii. 22, and in our stead, Matt. xx. 28. Hence his fear, Heb. v. 7; agony, Luke xxii. 44; astonishment and amazement, Mark xiv. 33; dereliction, Matt. xxvii. 46; sorrow, heaviness, and inexpressible pressures, chap. xxvi. 37–39.
 
