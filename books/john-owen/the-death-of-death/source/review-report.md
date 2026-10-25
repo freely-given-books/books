@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 334 |
-| spelling | 101 |
+| emendation | 342 |
+| spelling | 103 |
 | spacing | 28 |
 | grammar | 25 |
 | list | 22 |
-| punctuation | 20 |
+| punctuation | 21 |
 | split | 1 |
 
 ## split
@@ -44,6 +44,7 @@
 - [book-1/chapter-03.typ] among → of
 - [book-1/chapter-03.typ] great → 
 - [book-1/chapter-03.typ] the → 
+- [book-1/chapter-03.typ] sets → acts
 - [book-1/chapter-03.typ] all → 
 - [book-1/chapter-03.typ] families → nations
 - [book-1/chapter-03.typ] thought → counted
@@ -56,6 +57,7 @@
 - [book-1/chapter-03.typ] mouth → mouth sharp
 - [book-1/chapter-03.typ] sharp → 
 - [book-1/chapter-03.typ] him → them
+- [book-1/chapter-03.typ] that → that shall
 - [book-1/chapter-03.typ] eat → consume
 - [book-1/chapter-03.typ] up → 
 - [book-1/chapter-03.typ] hunger nor thirst → be hungry, neither shall they be thirsty
@@ -82,10 +84,12 @@
 - [book-1/chapter-04.typ] are → is
 - [book-1/chapter-04.typ] the → a
 - [book-1/chapter-04.typ] me → me out of the world
+- [book-1/chapter-04.typ] a propitiation → 
 - [book-1/chapter-04.typ] them → 
 - [book-1/chapter-04.typ] uttermost → utmost them
 - [book-1/chapter-04.typ] with me → 
 - [book-1/chapter-04.typ] for ever → 
+- [book-1/chapter-05.typ] with child , → 
 - [book-1/chapter-05.typ] strong ” → stronger
 - [book-1/chapter-05.typ] which → who
 - [book-1/chapter-06.typ] be → 
@@ -135,6 +139,7 @@
 - [book-1/chapter-08.typ] thou → 
 - [book-1/chapter-08.typ] only → 
 - [book-1/chapter-08.typ] for → 
+- [book-1/chapter-08.typ] interceded → interceded for
 - [book-1/chapter-08.typ] it → at
 - [book-1/chapter-08.typ] 8 → 28
 - [book-1/chapter-08.typ] 9 → 29
@@ -192,6 +197,7 @@
 - [book-2/chapter-03.typ] for → 
 - [book-2/chapter-04.typ] to → of
 - [book-2/chapter-04.typ] wise → ways
+- [book-2/chapter-04.typ] He → He that
 - [book-2/chapter-04.typ] Christ → 
 - [book-2/chapter-04.typ] for ever → 
 - [book-2/chapter-04.typ] to → for
@@ -350,6 +356,8 @@
 - [book-3/chapter-11.typ] no man → none
 - [book-3/chapter-11.typ] a man → he
 - [book-3/chapter-11.typ] the → his
+- [book-4/chapter-01.typ] Pet → Epist
+- [appendix-1-testimonies.typ] works → works of
 
 ## grammar
 
@@ -371,6 +379,7 @@
 
 ## punctuation
 
+- [book-1/chapter-04.typ] , → , or
 - [book-1/chapter-04.typ] , → , even
 - [book-1/chapter-04.typ] “ → “For
 - [book-1/chapter-05.typ] “ → 
@@ -455,10 +464,12 @@
 - stead → steads
 - success → access
 - sufferings → suffering
+- swore → sware
 - the → their
 - their → this
 - these → the
 - these → them
+- these → those
 - thorough → though
 - those → these
 - toward → towards

@@ -18,7 +18,7 @@ IV. #smallcaps[Cyprian], Epist. lxii. to Cæcilius, a holy, learned, and famous 
 
 The same to Demetrian:— “Hanc gratiam Christus impertit, subigendo mortem trophæo crucis, redimendo #emph[credentem] pretio sanguinis sui.” — “This grace hath Christ communicated, subduing death in the trophy of his cross, redeeming believers with the price of his blood.”
 
-The same, or some other ancient and pious writer of the cardinal works Christ, Serm. 7, secund. Rivet. Crit. Sac. in Cyp. \[lib. ii. cap. 15\] Scultet. Medul. Pat. Erasm. præfat, ad lib.#footnote[These seven sermons on the cardinal works of Christ are the production of Arnoldus Carnotensis, abbot of the Benedictine monastery of Bonneval, in the diocese of Chartres. He flourished about the middle of the twelfth century. Several of his practical treatises were for a time ascribed to Cyprian. — #smallcaps[Ed].]
+The same, or some other ancient and pious writer of the cardinal works of Christ, Serm. 7, secund. Rivet. Crit. Sac. in Cyp. \[lib. ii. cap. 15\] Scultet. Medul. Pat. Erasm. præfat, ad lib.#footnote[These seven sermons on the cardinal works of Christ are the production of Arnoldus Carnotensis, abbot of the Benedictine monastery of Bonneval, in the diocese of Chartres. He flourished about the middle of the twelfth century. Several of his practical treatises were for a time ascribed to Cyprian. — #smallcaps[Ed].]
 
 The same author also, in express terms, mentions the sufficiency of the ransom paid by Christ, arising from the dignity of his person:— “Tantæ dignitatis illa una Redemptoris nostri fuit oblatio, ut una ad tollenda mundi peccatum sufficeret.” — “Of so great dignity was the oblation of our Redeemer, that it alone was sufficient to take away the sins of the world.”
 
