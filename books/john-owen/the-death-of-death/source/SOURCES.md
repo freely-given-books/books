@@ -54,3 +54,24 @@ and light modernizing stand.
   ("the right hand of Majesty on high", without "the"). The 1648 margin
   captions (Owen's running outline beside his section numbers) stay out of
   the text, as Goold has it; they are kept in `source/collation/*.jsonl`.
+
+## Local OCR (2026-10-25)
+
+Both scans were read again locally, GLM-OCR (bf16, through Ollama) and
+Tesseract 5 on 300 dpi page images: the 1648 edition's Book IV and
+appendices (leaves 195-370) and Goold's pp. 139-428. The records, with the
+settings and a checksum for every output file, are
+`source/ocr/<scan>.ocr-witness.json`; the scans and raw output are in the
+git-ignored `source/ocr/ocr-witnesses/`.
+
+The OCR finds differences; it never decides them. GLM modernizes spelling,
+skips margin notes and Greek, and sometimes writes a plausible wrong word
+(acceptation → "acceptance"); all three readings (GLM, Tesseract,
+archive.org's ABBYY) misread b/h and ſ/f. Every difference was aligned
+against the edition, filtered for spelling and reference style, and settled
+on a crop of the page image.
+
+- CCEL against Goold's printing, the whole book:
+  `source/collation/goold-ccel.jsonl` (11 slips, among them two English
+  glosses CCEL added after Owen's Greek).
+- Book IV and the appendices against 1648: `source/collation/book-4.jsonl`.

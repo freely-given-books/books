@@ -69,3 +69,8 @@ books/thomas-boston/the-crook-in-the-lot/source/transcription/work/
 books/PURITAN-PAPERBACKS.md
 books/1689-baptist-confession/1689-baptist-confession/*.pdf
 books/1689-baptist-confession/1689-baptist-confession/*.epub
+
+# Local OCR witnesses (source/ocr/): the per-page raw bundles (scan PDF,
+# engine output, word boxes) are kept locally; their SHA-256s are in the
+# tracked <scan-id>.ocr-witness.json beside them
+books/**/source/ocr/ocr-witnesses/
