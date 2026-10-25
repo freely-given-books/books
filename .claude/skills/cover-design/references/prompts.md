@@ -138,3 +138,20 @@ the first with the prompt: "Using the fountain in the attached image as the
 model ...". Pure black-and-white marks trace cleanly:
 `magick IN -colorspace gray -filter Lanczos -resize 300% -blur 0x1.2 -threshold 50% bw.pbm`
 then `potrace -s --turdsize 20 --alphamax 1.1 --opttolerance 0.3`.
+
+**Christian Economy** (Perkins, 1609; the title page's verse, Prov. 24:3,
+"Through wisdom is an house built"), first try, used as it came (2026-10-25):
+
+```
+A modest English family house of about 1609, standing on its own: two storeys
+of timber-framed walls on a low stone base, a steep tiled roof with one gable
+facing us, a single brick chimney with one thin thread of smoke, a plain
+oak door in the middle with a small porch, and leaded casement windows on
+both floors. The house is sound and well kept, newly finished, its walls
+straight and its roof true. A short path leads to the door between low
+hedges; a single small tree stands beside the house. A quiet, still morning.
+No people.
+```
+(The house filled more of the height than a four-line title block allows;
+the plate is set 0.42in low, which puts the seal on the garden path. Ask for
+"the house small in the lower half" when the title is long.)
