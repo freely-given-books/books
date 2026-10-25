@@ -2,12 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 342 |
-| spelling | 103 |
-| spacing | 28 |
-| grammar | 25 |
+| emendation | 516 |
+| spelling | 162 |
+| grammar | 40 |
+| spacing | 39 |
+| punctuation | 28 |
 | list | 22 |
-| punctuation | 21 |
+| case | 1 |
 | split | 1 |
 
 ## split
@@ -356,21 +357,201 @@
 - [book-3/chapter-11.typ] no man → none
 - [book-3/chapter-11.typ] a man → he
 - [book-3/chapter-11.typ] the → his
+- [book-4/chapter-01.typ] of → at
+- [book-4/chapter-01.typ] at → 
+- [book-4/chapter-01.typ] nor → ,
+- [book-4/chapter-01.typ] to → 
+- [book-4/chapter-01.typ] first , → 
+- [book-4/chapter-01.typ] to → 
+- [book-4/chapter-01.typ] and → 
+- [book-4/chapter-01.typ] raising → stirring
+- [book-4/chapter-01.typ] , and → 
+- [book-4/chapter-01.typ] the → 
+- [book-4/chapter-01.typ] as → 
+- [book-4/chapter-01.typ] there → there more
+- [book-4/chapter-01.typ] , more → 
+- [book-4/chapter-01.typ] Behold , → Perceive ye not that
+- [book-4/chapter-01.typ] and → 
+- [book-4/chapter-01.typ] possess → have
+- [book-4/chapter-01.typ] will → would
+- [book-4/chapter-01.typ] to → to the
 - [book-4/chapter-01.typ] Pet → Epist
+- [book-4/chapter-01.typ] us → of
+- [book-4/chapter-01.typ] though → though that
+- [book-4/chapter-01.typ] the → 
+- [book-4/chapter-02.typ] prove → try
+- [book-4/chapter-02.typ] do → do or no
+- [book-4/chapter-02.typ] gave → sent
+- [book-4/chapter-02.typ] in → on
+- [book-4/chapter-02.typ] gave → sent
+- [book-4/chapter-02.typ] delivered → gave
+- [book-4/chapter-02.typ] own → 
+- [book-4/chapter-02.typ] delivered → gave
+- [book-4/chapter-02.typ] up → up for death
+- [book-4/chapter-02.typ] with → in
+- [book-4/chapter-02.typ] also freely → 
+- [book-4/chapter-02.typ] as → 
+- [book-4/chapter-02.typ] in → on
+- [book-4/chapter-02.typ] be → be the
+- [book-4/chapter-02.typ] imputing → imputing to them
+- [book-4/chapter-02.typ] unto them → 
+- [book-4/chapter-02.typ] evidently → invincibly
+- [book-4/chapter-03.typ] the → a
+- [book-4/chapter-03.typ] heathen → Gentiles
+- [book-4/chapter-03.typ] the → this
+- [book-4/chapter-03.typ] also → then
+- [book-4/chapter-03.typ] the → a
+- [book-4/chapter-03.typ] the → a
+- [book-4/chapter-03.typ] all → 
+- [book-4/chapter-03.typ] the → the whole
+- [book-4/chapter-03.typ] Your → Their
+- [book-4/chapter-03.typ] spoken of → declared
+- [book-4/chapter-03.typ] throughout → in
+- [book-4/chapter-03.typ] out → 
+- [book-4/chapter-03.typ] from → from Augustus
+- [book-4/chapter-03.typ] Augustus → 
+- [book-4/chapter-03.typ] all → 
+- [book-4/chapter-03.typ] the → the whole
+- [book-4/chapter-03.typ] wickedness → evil
+- [book-4/chapter-03.typ] round → 
+- [book-4/chapter-03.typ] Jesus → 
+- [book-4/chapter-03.typ] That → He
+- [book-4/chapter-03.typ] was → is
+- [book-4/chapter-03.typ] which → that
+- [book-4/chapter-03.typ] Light → The
+- [book-4/chapter-03.typ] is → light
+- [book-4/chapter-03.typ] come a → the
+- [book-4/chapter-03.typ] light → light which came
+- [book-4/chapter-03.typ] Prove → Try
+- [book-4/chapter-04.typ] hath done → doth
+- [book-4/chapter-04.typ] hath pleased → pleaseth in heaven and earth
+- [book-4/chapter-04.typ] army → host
+- [book-4/chapter-04.typ] judgments → laws
+- [book-4/chapter-04.typ] dealt → 
+- [book-4/chapter-04.typ] as → 
+- [book-4/chapter-04.typ] have → knew them
+- [book-4/chapter-04.typ] known them → 
+- [book-4/chapter-04.typ] all → the
+- [book-4/chapter-04.typ] nations → Gentiles
+- [book-4/chapter-04.typ] beloved → brethren
+- [book-4/chapter-04.typ] them → 
+- [book-4/chapter-04.typ] for → 
+- [book-4/chapter-04.typ] all → all men
+- [book-4/chapter-04.typ] quickeneth → maketh alive
+- [book-4/chapter-04.typ] upon → 
+- [book-4/chapter-04.typ] of → 
+- [book-4/chapter-04.typ] the → the free
+- [book-4/chapter-04.typ] life → one
+- [book-4/chapter-04.typ] one , Jesus → 
+- [book-4/chapter-04.typ] to himself → 
+- [book-4/chapter-04.typ] church → church unto himself
+- [book-4/chapter-05.typ] now → then
+- [book-4/chapter-05.typ] Christ → 
+- [book-4/chapter-05.typ] to be → 
+- [book-4/chapter-05.typ] to → to the
+- [book-4/chapter-05.typ] had → 
+- [book-4/chapter-05.typ] through → by
+- [book-4/chapter-05.typ] the → our
+- [book-4/chapter-05.typ] hath → 
+- [book-4/chapter-05.typ] have trodden → trod
+- [book-4/chapter-05.typ] or → and
+- [book-4/chapter-05.typ] a much sorer punishment → 
+- [book-4/chapter-05.typ] do → 
+- [book-4/chapter-05.typ] to → 
+- [book-4/chapter-05.typ] in → to
+- [book-4/chapter-06.typ] preached → granted
+- [book-4/chapter-06.typ] in → 
+- [book-4/chapter-06.typ] Those → Those for
+- [book-4/chapter-06.typ] one → 
+- [book-4/chapter-06.typ] he → it
+- [book-4/chapter-06.typ] , them → 
+- [book-4/chapter-06.typ] also → 
+- [book-4/chapter-06.typ] rather → more
+- [book-4/chapter-06.typ] wickedness → evil
+- [book-4/chapter-06.typ] in → to
+- [book-4/chapter-06.typ] the → the two
+- [book-4/chapter-06.typ] two → 
+- [book-4/chapter-06.typ] and → and to
+- [book-4/chapter-06.typ] 2 → 1
+- [book-4/chapter-06.typ] as → ,
+- [book-4/chapter-06.typ] the → the two
+- [book-4/chapter-06.typ] two → 
+- [book-4/chapter-06.typ] it → it not
+- [book-4/chapter-06.typ] in → on
+- [book-4/chapter-06.typ] by → by the
+- [book-4/chapter-06.typ] the Lord → God
+- [book-4/chapter-06.typ] mean → mind
+- [book-4/chapter-06.typ] at all → in the death of him
+- [book-4/chapter-06.typ] the wicked should die → dieth
+- [book-4/chapter-06.typ] no pleasure in → That he willeth not
+- [book-4/chapter-06.typ] him that dieth → the sinner
+- [book-4/chapter-06.typ] do → do the
+- [book-4/chapter-06.typ] was → is
+- [book-4/chapter-06.typ] any → a
+- [book-4/chapter-06.typ] them → them as
+- [book-4/chapter-06.typ] Christ → Christ all
+- [book-4/chapter-06.typ] all → 
+- [book-4/chapter-06.typ] for → 
+- [book-4/chapter-06.typ] and → 
+- [book-4/chapter-06.typ] a → 
+- [book-4/chapter-06.typ] My → 
+- [book-4/chapter-06.typ] I → he
+- [book-4/chapter-06.typ] my → his
+- [book-4/chapter-06.typ] except → unless
+- [book-4/chapter-06.typ] to the last of them → 
+- [book-4/chapter-06.typ] and → and between
+- [book-4/chapter-06.typ] Head → Head, to the last of them
+- [book-4/chapter-06.typ] and → 
+- [book-4/chapter-06.typ] except → unless
+- [book-4/chapter-06.typ] that → 
+- [book-4/chapter-06.typ] to → for
+- [book-4/chapter-06.typ] ; I have stretched out my hand → 
+- [book-4/chapter-06.typ] the → his
+- [book-4/chapter-06.typ] without → without the
+- [book-4/chapter-06.typ] without → without the
+- [book-4/chapter-07.typ] one → man
+- [book-4/chapter-07.typ] called → called to
+- [book-4/chapter-07.typ] the → 
+- [book-4/chapter-07.typ] none other → no
+- [book-4/chapter-07.typ] given among → whereby
+- [book-4/chapter-07.typ] , whereby we → 
+- [book-4/chapter-07.typ] us → them
+- [book-4/chapter-07.typ] and → 
+- [book-4/chapter-07.typ] your → their
+- [book-4/chapter-07.typ] their → that
+- [book-4/chapter-07.typ] them → them by name
+- [book-4/chapter-07.typ] it → 
+- [book-4/chapter-07.typ] be → 
+- [book-4/chapter-07.typ] a → 
+- [book-4/chapter-07.typ] one → one to
+- [book-4/chapter-07.typ] this → the
+- [book-4/chapter-07.typ] have → 
+- [book-4/chapter-07.typ] the → and
+- [appendix-1-testimonies.typ] is → was
 - [appendix-1-testimonies.typ] works → works of
+- [appendix-1-testimonies.typ] and → 
+- [appendix-1-testimonies.typ] the → the whole
+- [appendix-1-testimonies.typ] to be → 
+- [appendix-2-sprigge.typ] Though → If
 
 ## grammar
 
-- unto → to (×8)
+- unto → to (×15)
+- commendeth → commended (×3)
 - cometh → comes (×2)
-- commendeth → commended (×2)
+- ye → they (×2)
 - ye → you (×2)
 - Unto → To
 - believeth → believe
+- doeth → doth
 - giveth → gives
 - hath → both
+- hath → dealt
 - hearest → heareth
+- intendeth → intended
 - justifieth → justifies
+- lieth → lies
+- lighteth → lighteneth
 - maketh → makes
 - moveth → moved
 - taketh → takes
@@ -400,63 +581,111 @@
 - [book-3/chapter-10.typ] , → , that
 - [book-3/chapter-11.typ] , → , O
 - [book-3/chapter-11.typ] , → , his
+- [book-4/chapter-01.typ] , → , that
+- [book-4/chapter-01.typ] ! → ?
+- [book-4/chapter-05.typ] ) → ) that much sorer punishment
+- [book-4/chapter-06.typ] , → , that
+- [book-4/chapter-06.typ] , → , of
+- [book-4/chapter-06.typ] , → , his
+- [book-4/chapter-06.typ] . → ; that
+
+## case
+
+- The → the
 
 ## spelling
 
+- men → man (×5)
 - specially → especially (×5)
+- these → those (×5)
+- those → these (×5)
 - to → unto (×5)
-- men → man (×4)
 - sins → sin (×4)
+- come → came (×3)
 - seeing → being (×3)
 - uttermost → utmost (×3)
+- into → in (×2)
+- knew → knows (×2)
+- on → upon (×2)
 - places → place (×2)
 - sin → sins (×2)
 - them → those (×2)
 - those → them (×2)
+- to → into (×2)
+- toward → towards (×2)
 - voice → noise (×2)
 - Bible → Bibles
+- Distinctively → Distinctly
 - Eighthly → Ninthly
+- Gentiles → Gentile
+- Jews → Jew
 - Scriptures → Scripture
 - Sixthly → Seventhly
+- Those → These
+- accomplishment → accomplishments
 - affirm → affirming
 - affliction → afflictions
 - apprehension → apprehensions
+- as → a
 - blessing → blessings
 - blood → bloods
+- bring → bringing
 - came → comes
 - cases → causes
 - certainty → certainly
-- come → came
+- come → comes
+- conceive → perceive
 - conditions → condition
 - could → would
+- course → cause
+- deaths → death
 - debtors → debtor
 - declared → decreed
 - decrees → degrees
+- denominating → nominating
+- departing → depart
+- distinctions → distinction
 - door → doors
 - end → ends
+- enlargement → enlargements
+- excelling → excellent
+- expression → expressions
+- extension → extent
 - failed → faileth
 - figures → figure
+- fixed → firmed
 - foreknew → foreknow
 - friends → friend
 - he → they
+- heart → hearts
 - heritages → heritage
 - his → its
 - his → this
 - holding → beholding
+- inhabitants → inhabiters
 - iniquity → iniquities
-- into → in
+- intendment → intendments
+- intention → intentions
 - into → to
 - judgment → judgments
 - knew → know
+- large → larger
+- manifestly → manifoldly
+- multitudes → multitude
+- nor → or
 - not → no
 - nothing → not
 - offering → offerings
-- on → upon
 - pastures → pasture
+- presumptuously → contemptuously
+- promise → promises
 - rebellion → rebellions
 - receive → received
 - righteously → rightly
+- sacrifice → sacrifices
 - sacrifices → sacrifice
+- sakes → sake
+- servant → servants
 - shoulder → shoulders
 - sinners → sins
 - soles → sole
@@ -466,19 +695,25 @@
 - sufferings → suffering
 - swore → sware
 - the → their
+- their → the
 - their → this
 - these → the
 - these → them
-- these → those
+- this → his
+- this → their
+- this → thus
 - thorough → though
-- those → these
-- toward → towards
+- tithes → tithe
 - transgressions → transgression
 - treat → entreat
 - truth → truths
 - undeniable → undeniably
+- upon → on
 - water → waters
+- way → ways
+- where → when
 - where → wherein
+- whereby → where
 - wherein → where
 - word → words
 - works → work
