@@ -30,7 +30,7 @@
 
 279\. After this, God led me into something of the mystery of union with Christ; wherefore that I discovered and showed to them also. And when I had travelled through these three chief points of the Word of God, about the space of five years or more, I was caught in my present practice and cast into prison, where I have lain above as long again, to confirm the truth by way of suffering, as I was before in testifying of it according to the Scriptures in a way of preaching.
 
-280\. When I have been preaching, I thank God, my heart hath often all the time of this and the other exercise, with great earnestness, cried to God that He would make the Word effectual to the salvation of the soul; still being grieved lest the enemy should take the Word away from the conscience, and so it should become unfruitful. Wherefore I did labour so to speak the Word, as that thereby, if it were possible, the sin and the person guilty might be particularized by it.
+280\. When I have been in preaching, I thank God, my heart hath often all the time of this and the other exercise, with great earnestness, cried to God that He would make the Word effectual to the salvation of the soul; still being grieved lest the enemy should take the Word away from the conscience, and so it should become unfruitful. Wherefore I did labour so to speak the Word, as that thereby, if it were possible, the sin and the person guilty might be particularized by it.
 
 281\. Also, when I have done the exercise, it hath gone to my heart to think the Word should now fall as rain on stony places, still wishing from my heart, O that they who have heard me speak this day did but see as I do what sin, death, hell, and the curse of God is; and also what the grace, and love, and mercy of God is, through Christ, to men in such a case as they are, who are yet estranged from Him. And, indeed, I did often say in my heart before the Lord, That if to be hanged up presently before their eyes would be a means to awaken them, and confirm them in the truth, I gladly should be contented.
 
@@ -78,7 +78,7 @@
 
 303\. I saw therefore that he that hath gifts had need be let into a sight of the nature of them, to wit, that they come short of making of him to be in a truly saved condition, lest he rest in them, and so fall short of the grace of God.
 
-304\. He hath also cause to walk humbly with God, and be little in his own eyes, and to remember withal, that his gifts are not his own, but the church’s; and that by them he is made a servant to the church; and he must give at last an account of his stewardship unto the Lord Jesus; and to give a good account, will be a blessed thing.
+304\. He hath also cause to walk humbly with God, and be little in his own eyes, and to remember withal, that his gifts are not his own, but the church’s; and that by them he is made a servant to the church; and he must also give at last an account of his stewardship unto the Lord Jesus; and to give a good account, will be a blessed thing.
 
 305\. Let all men therefore prize a little with the fear of the Lord; gifts indeed are desirable, but yet great grace and small gifts are better than great gifts and no grace. It doth not say, the Lord gives gifts and glory, but the Lord gives grace and glory; and blessed is such an one to whom the Lord gives grace, true grace, for that is a certain forerunner of glory.
 

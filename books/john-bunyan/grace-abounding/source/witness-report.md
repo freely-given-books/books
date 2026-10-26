@@ -481,3 +481,256 @@ counted but not listed.
   - edition: Christ Oh it is
   - 1666 first edition: Chri O tis
 
+
+
+# Witness: the 1688 sixth edition
+
+The sixth edition (London, Nathaniel Ponder, 1688; "corrected, and much
+enlarged by the Author") is the last printed in Bunyan's lifetime. The
+scan is archive.org
+[bim_early-english-books-1641-1700_grace-abounding-to-the-c_bunyan-john_1688](https://archive.org/details/bim_early-english-books-1641-1700_grace-abounding-to-the-c_bunyan-john_1688)
+(201 PDF pages). It was read locally with GLM-OCR and Tesseract
+(`ocr/bunyan-grace-abounding-1688.*`; the raw per-page bundle, with the
+scan, stays out of git in `ocr/ocr-witnesses/`). The scan photographs
+four spreads twice (PDF pages 62-63, 88-89, 108-109 and 122-123 repeat
+the pages before them); those copies were left out.
+
+The edition was collated word by word against the 1688 GLM text, with
+Tesseract, the 1666 first edition (TCP) and Offor's 1855 text (archive.org
+OCR) read at each place (2026-10-25, `local-tools/collate.py`; every
+candidate, with each witness's words, is in `ocr/collation-1688.jsonl`).
+95.6% of the edition's words match. Of 743 candidates, most are OCR
+misreads, running heads, catchwords, and the edition's modern forms
+(burden/burthen, it was/'twas, Oh/O, you/ye).
+
+## What it shows
+
+CCEL's text and Offor's come from a later printing than 1688. In the
+Relation and the Call to the Ministry, CCEL and Offor agree against both
+the 1666 and 1688 printings in about 150 places: lost words, different
+words ("many efforts" for "many offers", "this sort of speech" for "this
+form of speech", "I should find my mind" for "feel", "lest I should taste
+thereof" for "take", "but nine or ten years old" for 1688's "about nine or
+ten"), and word order. In the passages added after 1666, 1688 differs from
+CCEL and Offor in the same way.
+
+## Restored (17, the editor's rule of 2026-10-18)
+
+Words CCEL lost are restored where the two lifetime printings agree, or
+where 1688 alone has them in a passage added after 1666 (each of those six
+was read on the 1688 page image). CCEL's word choices, word order and
+forms are kept. Words in KJV quotations follow the KJV (Heb. 9.22 "is no
+remission", 2 Cor. 4.18 "are eternal" stay). They are review decisions in
+the TEI (`review-report.md`).
+
+| § | now reads | witnesses |
+| --- | --- | --- |
+| 7 | that I indeed went thither | 1666, 1688 |
+| 26 | though she also was a very loose | 1666, 1688 |
+| 27 | it is but in vain | 1666, 1688 |
+| 55 | and unless also they left this wicked world | 1666, 1688 |
+| 92 | spoken of His love, and have told of His mercy | 1688 (added) |
+| 174 | as if I had heard a voice speaking | 1688 (added) |
+| 175 | but I saw that there was but one way | 1688 (added) |
+| 183 | whom you have slighted, despised, and abused | 1688 (added) |
+| 184 | to pity me when yet He could not help me | 1688 (added) |
+| 189 | for this good sentence stood like a mill-post | 1666, 1688 |
+| 190 | loved me with an everlasting love (Jer. 31.3, as the KJV) | 1666, 1688 |
+| 238 | temptation to come; for ‘then,’ saith he | 1666, 1688 |
+| 249 | in an unadvised heat | 1666, 1688 |
+| 257 | now also was all my former experience | 1666, 1688 |
+| 280 | When I have been in preaching | 1666, 1688 |
+| 304 | he must also give at last an account | 1688 (added) |
+| 324 | should that be here my portion | 1666, 1688 |
+
+## Kept: the edition differs from 1688
+
+**A 1666 passage not in 1688.** §201 ends in 1688 at "went mourning up and
+down in a sad condition"; the edition, 1666 and Offor go on: "crying, Is
+His mercy clean gone? ... yet I greatly feared it was." In 1688 the next
+paragraph (§202 here) takes up Psalm 77, "Is his mercy clean gone for
+ever?", so the sentence looks like Bunyan's own cut. Kept, as in the
+enlarged text the edition follows.
+
+**Where both lifetime printings differ from the edition** (Tesseract
+agreeing with GLM; kept under the rule above; OCR words, unchecked):
+
+- `preface.typ` (scan p. 8), after “…12 42 O my God”: edition *’ saith*; 1688 *Faith*
+- `preface.typ` (scan p. 12), after “…children the milk and honey”: edition *are*; 1688 *is*
+- `relation.typ` (scan p. 21), after “…and my heart returned to”: edition *his*; 1688 *its*
+- `relation.typ` (scan p. 23), after “…but be damned and if”: edition *I*; 1688 *it*
+- `relation.typ` (scan p. 23), after “…neither do I feign this”: edition *sort*; 1688 *form*
+- `relation.typ` (scan p. 31), after “…to a continual meditating on”: edition *it*; 1688 *them*
+- `relation.typ` (scan p. 34), after “…a very castaway indeed 48”: edition *Now*; 1688 *No*
+- `relation.typ` (scan p. 37), after “…have it Thus I was”: edition *tossed between*; 1688 *toled betwixt*
+- `relation.typ` (scan p. 37), after “…and narrow I made many”: edition *efforts*; 1688 *offers*
+- `relation.typ` (scan p. 39), after “…and power thereof This scripture”: edition *—*; 1688 *also*
+- `relation.typ` (scan p. 39), after “…all my desires It is”: edition *not of*; 1688 *neither in*
+- `relation.typ` (scan p. 39), after “…of him that willeth nor”: edition *of*; 1688 *in*
+- `relation.typ` (scan p. 39), after “…of him that runneth but”: edition *of*; 1688 *in*
+- `relation.typ` (scan p. 40), after “…saved For it is neither”: edition *of*; 1688 *in*
+- `relation.typ` (scan p. 40), after “…of him that willeth nor”: edition *of*; 1688 *in*
+- `relation.typ` (scan p. 40), after “…of him that runneth but”: edition *of*; 1688 *in*
+- `relation.typ` (scan p. 41), after “…did ever any trust in”: edition *the Lord*; 1688 *God*
+- `relation.typ` (scan p. 41), after “…trust in the Lord and”: edition *was*; 1688 *were*
+- `relation.typ` (scan p. 41), after “…there was ever any that”: edition *—*; 1688 *ever*
+- `relation.typ` (scan p. 44), after “…and that He should speak”: edition *those*; 1688 *them*
+- `relation.typ` (scan p. 57), after “…God Christ and the Scriptures”: edition *were*; 1688 *was*
+- `relation.typ` (scan p. 57), after “…of God 97 The tempter”: edition *—*; 1688 *also*
+- `relation.typ` (scan p. 59), after “…in this temptation I should”: edition *—*; 1688 *find*
+- `relation.typ` (scan p. 59), after “…to speak some grievous thing”: edition *against*; 1688 *of*
+- `relation.typ` (scan p. 61), after “…did desire deliverance That scripture”: edition *—*; 1688 *also*
+- `relation.typ` (scan p. 61), after “…are like the troubled sea”: edition *when it*; 1688 *which*
+- `relation.typ` (scan p. 68), after “…mind He hath made peace”: edition *through*; 1688 *by*
+- `relation.typ` (scan p. 68), after “…is the devil and deliver”: edition *them*; 1688 *those*
+- `relation.typ` (scan p. 68), after “…of death were all their”: edition *lifetime*; 1688 *life*
+- `relation.typ` (scan p. 69), after “…can say especially when tempted”: edition *by*; 1688 *of*
+- `relation.typ` (scan p. 70), after “…there was not anything that”: edition *—*; 1688 *then*
+- `relation.typ` (scan p. 74), after “…sight and joy and communion”: edition *with*; 1688 *of*
+- `relation.typ` (scan p. 77), after “…for the land is mine”: edition *’ saith*; 1688 *faith*
+- `relation.typ` (scan p. 81), after “…as if the tempter did”: edition *leer*; 1688 *lear*
+- `relation.typ` (scan p. 82), after “…had done Now was I”: edition *torn*; 1688 *tore*
+- `relation.typ` (scan p. 84), after “…that any of those that”: edition *were*; 1688 *are*
+- `relation.typ` (scan p. 96), after “…one 173 Now I should”: edition *find*; 1688 *feel*
+- `relation.typ` (scan p. 100), after “…now to pray seeing God”: edition *has*; 1688 *bath*
+- `relation.typ` (scan p. 101), after “…of life lest I should”: edition *taste*; 1688 *take*
+- `relation.typ` (scan p. 106), after “…what to do but oh”: edition *—*; 1688 *thought*
+- `relation.typ` (scan p. 113), after “…mark iniquities O Lord who”: edition *shall*; 1688 *should*
+- `relation.typ` (scan p. 126), after “…alone 215 This scripture did”: edition *also*; 1688 *now*
+- `relation.typ` (scan p. 133), after “…distinguished by Esau himself He”: edition *took*; 1688 *hath taken*
+- `relation.typ` (scan p. 134), after “…but as for you depart”: edition *from me all ye*; 1688 *you are*
+- `relation.typ` (scan p. 135), after “…Christ Himself the same yesterday”: edition *and to-day*; 1688 *to day*
+- `relation.typ` (scan p. 137), after “…and should also be looked”: edition *on*; 1688 *upon*
+- `relation.typ` (scan p. 137), after “…days will he revive us”: edition *in*; 1688 *and*
+- `relation.typ` (scan p. 140), after “…even as if she would”: edition *—*; 1688 *immediately*
+- `relation.typ` (scan p. 143), after “…ye remit they are remitted”: edition *unto them and*; 1688 *but*
+- `relation.typ` (scan p. 144), after “…had done at other times”: edition *yea*; 1688 *yet*
+- `relation.typ` (scan p. 144), after “…feared I had no ground”: edition *or*; 1688 *nor*
+- `relation.typ` (scan p. 144), after “…of John And him that”: edition *cometh*; 1688 *comes*
+- `relation.typ` (scan p. 147), after “…before His death that scripture”: edition *—*; 1688 *Do*
+- `relation.typ` (scan p. 149), after “…life to come clear before”: edition *my*; 1688 *mine*
+- `relation.typ` (scan p. 150), after “…Not by works of righteousness”: edition *which*; 1688 *that*
+- `relation.typ` (scan p. 154), after “…are come unto mount Sion”: edition *and unto*; 1688 *to*
+- `relation.typ` (scan p. 154), after “…the mediator of the new”: edition *covenant*; 1688 *Testament*
+- `relation.typ` (scan p. 154), after “…my spirit Blessed be God”: edition *in*; 1688 *for*
+- `call-to-the-ministry.typ` (scan p. 156), after “…offer the gospel to those”: edition *who*; 1688 *that*
+- `call-to-the-ministry.typ` (scan p. 157), after “…4 10 Rom 12 6”: edition *Foxe’s*; 1688 *Fox*
+- `call-to-the-ministry.typ` (scan p. 158), after “…myself unworthy yet those who”: edition *—*; 1688 *thus*
+- `call-to-the-ministry.typ` (scan p. 159), after “…sweet refreshment The blessing of”: edition *him*; 1688 *them*
+- `call-to-the-ministry.typ` (scan p. 159), after “…The blessing of him that”: edition *was*; 1688 *were*
+- `call-to-the-ministry.typ` (scan p. 159), after “…that was ready to perish”: edition *came*; 1688 *is come*
+- `call-to-the-ministry.typ` (scan p. 159), after “…to perish came upon me”: edition *and*; 1688 *yea*
+- `call-to-the-ministry.typ` (scan p. 159), after “…me glad but the same”: edition *which*; 1688 *that*
+- `call-to-the-ministry.typ` (scan p. 159), after “…you for the seal of”: edition *mine*; 1688 *my*
+- `call-to-the-ministry.typ` (scan p. 162), after “…should become unfruitful Wherefore I”: edition *did*; 1688 *should*
+- `call-to-the-ministry.typ` (scan p. 163), after “…for my hire before their”: edition *faces*; 1688 *face*
+- `call-to-the-ministry.typ` (scan p. 165), after “…it O these words He”: edition *which*; 1688 *that*
+- `call-to-the-ministry.typ` (scan p. 165), after “…these words He which converteth”: edition *the*; 1688 *a*
+- `call-to-the-ministry.typ` (scan p. 165), after “…the error of his way”: edition *shall*; 1688 *doth*
+- `call-to-the-ministry.typ` (scan p. 168), after “…the exercise 294 Again when”: edition *as*; 1688 *at*
+- `call-to-the-ministry.typ` (scan p. 171), after “…than these Besides I knew”: edition *it was*; 1688 *'rwas*
+- `imprisonment.typ` (scan p. 179), after “…being again delivered up to”: edition *a gaoler’s*; 1688 *the Goalers*
+- `imprisonment.typ` (scan p. 179), after “…waiting to see what God”: edition *would*; 1688 *will*
+- `imprisonment.typ` (scan p. 180), after “…I shall not here discourse”: edition *only to*; 1688 *onely*
+- `imprisonment.typ` (scan p. 180), after “…Word of God as now”: edition *those*; 1688 *them*
+- `imprisonment.typ` (scan p. 181), after “…have seen a truth in”: edition *this*; 1688 *that*
+- `imprisonment.typ` (scan p. 181), after “…God as being very tender”: edition *to*; 1688 *of*
+- `imprisonment.typ` (scan p. 183), after “…Look not at the things”: edition *which*; 1688 *that*
+- `imprisonment.typ` (scan p. 183), after “…seen but at the things”: edition *which*; 1688 *that*
+- `imprisonment.typ` (scan p. 183), after “…not seen for the things”: edition *which*; 1688 *that*
+- `imprisonment.typ` (scan p. 183), after “…are temporal but the things”: edition *which*; 1688 *that*
+- `imprisonment.typ` (scan p. 183), after “…the worst then if death”: edition *comes*; 1688 *come*
+- `imprisonment.typ` (scan p. 184), after “…the pulling the flesh from”: edition *the*; 1688 *my*
+- `imprisonment.typ` (scan p. 184), after “…it And now I thought”: edition *on*; 1688 *of*
+- `imprisonment.typ` (scan p. 185), after “…Lord said Verily it shall”: edition *be*; 1688 *go*
+- `imprisonment.typ` (scan p. 185), after “…it to fasten the more”: edition *on*; 1688 *upon*
+- `imprisonment.typ` (scan p. 186), after “…my profession be exposed to”: edition *have*; 1688 *hath*
+- `imprisonment.typ` (scan p. 187), after “…the laws I had this”: edition *lying*; 1688 *lay*
+- `imprisonment.typ` (scan p. 187), after “…state hereafter for indeed at”: edition *this*; 1688 *that*
+- `imprisonment.typ` (scan p. 189), after “…I was no sooner fixed”: edition *with*; 1688 *upon*
+- `imprisonment.typ` (scan p. 189), after “…fixed with this resolution but”: edition *this*; 1688 *that*
+- `imprisonment.typ` (scan p. 190), after “…deny my profession though I”: edition *had*; 1688 *have*
+
+**Passages added after 1666, where 1688 differs from the edition**
+(Tesseract agreeing with GLM; OCR words, unchecked):
+
+- `preface.typ` (scan p. 7), after “…known the truth of God”: edition *’ Yea*; 1688 *Tea*
+- `preface.typ` (scan p. 9), after “…for his life Acts 24”: edition *ever*; 1688 *even*
+- `preface.typ` (scan p. 9), after “…grace for he found it”: edition *support unto*; 1688 *supported*
+- `preface.typ` (scan p. 9), after “…brought the children of Israel”: edition *through*; 1688 *out of*
+- `preface.typ` (scan p. 10), after “…mind the former days and”: edition *the years*; 1688 *Tears*
+- `relation.typ` (scan p. 14), after “…soon lose that little I”: edition *learned and that*; 1688 *learnt*
+- `relation.typ` (scan p. 15), after “…I was but a child”: edition *but*; 1688 *about*
+- `relation.typ` (scan p. 17), after “…have seen some read in”: edition *those*; 1688 *these*
+- `relation.typ` (scan p. 17), after “…that it made my heart”: edition *to ache*; 1688 *ake*
+- `relation.typ` (scan p. 18), after “…I having a stick in”: edition *my*; 1688 *mine*
+- `relation.typ` (scan p. 20), after “…my spirit as to the”: edition *hopes*; 1688 *hope*
+- `relation.typ` (scan p. 24), after “…aware of even to overrun”: edition *their*; 1688 *the*
+- `relation.typ` (scan p. 24), after “…though not much guilt attendeth”: edition *the soul*; 1688 *Souls*
+- `relation.typ` (scan p. 27), after “…to become a sober man”: edition *Now*; 1688 *to the chief of Sinners*
+- `relation.typ` (scan p. 27), after “…be well spoken of by”: edition *man*; 1688 *men*
+- `relation.typ` (scan p. 28), after “…deed anything that I thought”: edition *was*; 1688 *were*
+- `relation.typ` (scan p. 28), after “…yea to relate it in”: edition *mine*; 1688 *my*
+- `relation.typ` (scan p. 28), after “…me more of my state”: edition *of*; 1688 *by*
+- `relation.typ` (scan p. 45), after “…swine was like him that”: edition *parted*; 1688 *parteth*
+- `relation.typ` (scan p. 46), after “…I had been in their”: edition *clothes*; 1688 *Cloaks*
+- `relation.typ` (scan p. 49), after “…gates of brass and cut”: edition *these*; 1688 *the*
+- `relation.typ` (scan p. 50), after “…I was more loathsome in”: edition *my*; 1688 *mine*
+- `relation.typ` (scan p. 51), after “…should I esteem myself though”: edition *blessed*; 1688 *blest*
+- `relation.typ` (scan p. 53), after “…one preach a sermon upon”: edition *those*; 1688 *these*
+- `relation.typ` (scan p. 55), after “…crows that sat upon the”: edition *ploughed*; 1688 *plowed*
+- `relation.typ` (scan p. 56), after “…that it sounded in mine”: edition *ear*; 1688 *ears*
+- `relation.typ` (scan p. 56), after “…words Simon Simon sounded in”: edition *mine*; 1688 *my*
+- `relation.typ` (scan p. 61), after “…dejected to think that this”: edition *should*; 1688 *would*
+- `relation.typ` (scan p. 65), after “…hot as you for a”: edition *spirit*; 1688 *spurt*
+- `relation.typ` (scan p. 68), after “…thought that the glory of”: edition *these*; 1688 *those*
+- `relation.typ` (scan p. 72), after “…Jesus as crucified and dying”: edition *1600*; 1688 *sixteen hundred*
+- `relation.typ` (scan p. 72), after “…justice for the sins of”: edition *the*; 1688 *his*
+- `relation.typ` (scan p. 77), after “…in my judgment I was”: edition *persuaded*; 1688 *periwaded*
+- `relation.typ` (scan p. 85), after “…none knows the terrors of”: edition *those*; 1688 *these*
+- `relation.typ` (scan p. 92), after “…sentence in that book every”: edition *groan*; 1688 *great*
+- `relation.typ` (scan p. 95), after “…I would then add to”: edition *those*; 1688 *these*
+- `relation.typ` (scan p. 96), after “…sins of a bloody colour”: edition *yea*; 1688 *but yet*
+- `relation.typ` (scan p. 98), after “…And withal my whole life”: edition *and*; 1688 *of*
+- `relation.typ` (scan p. 98), after “…dispensation what it was I”: edition *knew*; 1688 *know*
+- `relation.typ` (scan p. 98), after “…thought then what here I”: edition *shall*; 1688 *should*
+- `relation.typ` (scan p. 98), after “…what here I shall be”: edition *loath*; 1688 *loib*
+- `relation.typ` (scan p. 98), after “…to speak But verily that”: edition *sudden*; 1688 *suddain*
+- `relation.typ` (scan p. 100), after “…I had so vilely sinned”: edition *—*; 1688 *finned*
+- `relation.typ` (scan p. 103), after “…already was mere folly and”: edition *persuade*; 1688 *to perswade*
+- `relation.typ` (scan p. 103), after “…and then would that saying”: edition *rend*; 1688 *rent*
+- `relation.typ` (scan p. 105), after “…grace and salvation spent on”: edition *them*; 1688 *others*
+- `relation.typ` (scan p. 106), after “…a thorough application of guilt”: edition *yielded*; 1688 *yielding*
+- `relation.typ` (scan p. 107), after “…and law of grace shall”: edition *fall*; 1688 *fail*
+- `relation.typ` (scan p. 107), after “…were the Word of God”: edition *Oh*; 1688 *On*
+- `relation.typ` (scan p. 110), after “…had sinned against the Saviour”: edition *O*; 1688 *Oh*
+- `relation.typ` (scan p. 111), after “…bonds and a shelter from”: edition *my*; 1688 *the*
+- `relation.typ` (scan p. 111), after “…and prayer as any of”: edition *them 189*; 1688 *they 190*
+- `relation.typ` (scan p. 115), after “…knowledge of the truth there”: edition *remaineth*; 1688 *remains*
+- `relation.typ` (scan p. 115), after “…birthright for ye know how”: edition *that afterward*; 1688 *afterwards*
+- `relation.typ` (scan p. 118), after “…is a question whether He”: edition *had*; 1688 *hath*
+- `relation.typ` (scan p. 118), after “…did sweeten my heart and”: edition *made*; 1688 *make*
+- `relation.typ` (scan p. 124), after “…at some times but to”: edition *wish*; 1688 *with*
+- `relation.typ` (scan p. 129), after “…comfort for to such there”: edition *remaineth*; 1688 *remains*
+- `relation.typ` (scan p. 144), after “…temptation also I was greatly”: edition *beaten*; 1688 *holden*
+- `relation.typ` (scan p. 146), after “…bread at midnight Luke 11”: edition *5-8*; 1688 *5 6 7 8 & c*
+- `relation.typ` (scan p. 151), after “…pit methought I said there”: edition *was*; 1688 *were*
+- `relation.typ` (scan p. 152), after “…shall be with thee when”: edition *thou*; 1688 *thon*
+- `relation.typ` (scan p. 153), after “…was set before mine eyes”: edition *ver 22-24 263*; 1688 *Heb 12 22 23 24 264*
+- `call-to-the-ministry.typ` (scan p. 166), after “…because I found my spirit”: edition *leaned*; 1688 *did lean*
+- `call-to-the-ministry.typ` (scan p. 168), after “…preach upon some smart and”: edition *scorching*; 1688 *searching*
+- `call-to-the-ministry.typ` (scan p. 169), after “…that teachest another teachest not”: edition *thou thyself ’*; 1688 *thy self*
+- `call-to-the-ministry.typ` (scan p. 171), after “…that it is possible for”: edition *a soul*; 1688 *Souls*
+- `call-to-the-ministry.typ` (scan p. 174), after “…say all manner of evil”: edition *against*; 1688 *of*
+- `call-to-the-ministry.typ` (scan p. 175), after “…313 I also calling all”: edition *those*; 1688 *these*
+- `call-to-the-ministry.typ` (scan p. 175), after “…to the utmost of their”: edition *—*; 1688 *endea*
+- `call-to-the-ministry.typ` (scan p. 176), after “…woman the common salutation of”: edition *a woman*; 1688 *Women*
+- `call-to-the-ministry.typ` (scan p. 177), after “…a second time knowing that”: edition *I*; 1688 *it*
+- `imprisonment.typ` (scan p. 179), after “…see what God would suffer”: edition *those*; 1688 *these*
+- `imprisonment.typ` (scan p. 185), after “…first was the consideration of”: edition *these*; 1688 *those*
+- `imprisonment.typ` (scan p. 187), after “…laid hard at me to”: edition *beat*; 1688 *bear*
+
+About 210 more candidates are places where 1688 alone differs from the
+edition, 1666 and Offor. They are mostly OCR errors, with some 1688
+revisions or misprints. They are not listed; they are in
+`ocr/collation-1688.jsonl`.

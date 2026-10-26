@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 131 |
+| emendation | 147 |
 | spacing | 71 |
-| case | 59 |
+| case | 60 |
 | spelling | 52 |
-| punctuation | 41 |
+| punctuation | 42 |
 | italic | 1 |
 | grammar | 1 |
 | merge | 1 |
@@ -16,10 +16,13 @@
 - [preface.typ] I → 1
 - [preface.typ] 4 → 
 - [relation.typ] II → 2
+- [relation.typ] I → I indeed
 - [relation.typ] merciful → merciful unto me
 - [relation.typ] other → other my
 - [relation.typ] now → now too
 - [relation.typ] than → 
+- [relation.typ] she → she also
+- [relation.typ] is → is but
 - [relation.typ] and → and, indeed
 - [relation.typ] a → a very
 - [relation.typ] heart → heart before
@@ -30,6 +33,7 @@
 - [relation.typ] if → 
 - [relation.typ] then → then was
 - [relation.typ] was → 
+- [relation.typ] unless → unless also
 - [relation.typ] thought → 
 - [relation.typ] I → I had
 - [relation.typ] desires → desires also
@@ -40,6 +44,7 @@
 - [relation.typ] in → to
 - [relation.typ] sight → wrath
 - [relation.typ] I → they
+- [relation.typ] and → and have told
 - [relation.typ] , saith my God → 
 - [relation.typ] II → 2
 - [relation.typ] up → us
@@ -51,13 +56,19 @@
 - [relation.typ] thought → 
 - [relation.typ] sins → fits
 - [relation.typ] cry → cry, ‘Return unto me’; it would cry aloud with a very great voice
+- [relation.typ] I → I had
 - [relation.typ] of → of a
 - [relation.typ] Jesus → Jesus Christ
+- [relation.typ] saw → saw that
 - [relation.typ] Pray → Pray not
 - [relation.typ] not → 
+- [relation.typ] you → you have
 - [relation.typ] away → 
 - [relation.typ] you → 
 - [relation.typ] yourself → yourself to
+- [relation.typ] when → when yet
+- [relation.typ] this → this good
+- [relation.typ] with → with an
 - [relation.typ] not → not, not
 - [relation.typ] II → 2
 - [relation.typ] would → wonder
@@ -70,11 +81,13 @@
 - [relation.typ] l → I
 - [relation.typ] not → not now
 - [relation.typ] law → law by Him, died
+- [relation.typ] in → in an
 - [relation.typ] faithfulness → faithfulness (2 Sam. 3.28)
 - [relation.typ] that → that blessed
 - [relation.typ] 8 → 28
 - [relation.typ] to → do
 - [relation.typ] met → met with
+- [relation.typ] was → was all
 - [relation.typ] II → 2
 - [relation.typ] 4 → 24
 - [relation.typ] of → to the Hebrews
@@ -86,9 +99,11 @@
 - [call-to-the-ministry.typ] Act . → Acts
 - [call-to-the-ministry.typ] which → which also
 - [call-to-the-ministry.typ] II → 2
+- [call-to-the-ministry.typ] been → been in
 - [call-to-the-ministry.typ] in → in my
 - [call-to-the-ministry.typ] II → 2
 - [call-to-the-ministry.typ] that → 
+- [call-to-the-ministry.typ] must → must also
 - [call-to-the-ministry.typ] for → for all
 - [call-to-the-ministry.typ] 11 → 11, 12
 - [imprisonment.typ] sessions → sessions after
@@ -109,6 +124,7 @@
 - [imprisonment.typ] vii → 7.
 - [imprisonment.typ] i → 1
 - [imprisonment.typ] to → to endure, should my imprisonment be long and tedious; the second was, how to be able to
+- [imprisonment.typ] be → be here
 - [imprisonment.typ] i → 1.
 - [imprisonment.typ] have → have all
 - [imprisonment.typ] dead , ” → dead’ (
@@ -163,6 +179,7 @@
 - [relation.typ] , → , also,
 - [relation.typ] ; → ,
 - [relation.typ] . → ,
+- [relation.typ] ; → ; for
 - [relation.typ] , → , and
 - [relation.typ] ; → ; I
 - [relation.typ] : → .
@@ -221,6 +238,7 @@
 - THEREOF → thereof
 - THOSE → those
 - The → the
+- Then → then
 - Those → those
 - Thou → thou
 - WHOM → whom

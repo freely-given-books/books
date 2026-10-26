@@ -22,11 +22,13 @@ published 1666; enlarged by Bunyan up to the sixth edition, 1688).
 | `source/grace-abounding.tei.xml` | enriched TEI edition: the CCEL text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings |
 | `source/review-report.md` | the editor decisions (corrections to CCEL) |
-| `source/witness-report.md` | where the 1666 first edition differs: Bunyan's later additions and revisions |
+| `source/witness-report.md` | where the 1666 first edition and the 1688 sixth edition differ, and the words restored from them |
+| `source/ocr/` | witness: the 1688 sixth edition, Bunyan's last, local OCR (GLM-OCR, Tesseract) of the archive.org scan; `collation-1688.jsonl` is the collation; the raw per-page bundle (`ocr-witnesses/`) is not in git |
 
 The text is CCEL's, which is Bunyan's enlarged text. CCEL's clear errors are
 corrected as editor decisions (Foxe's *Acts and Monuments*, "and", Psalm
-cix., and stray spaces). CCEL's "Publisher's Foreword", a modern biography
+cix., and stray spaces). Words it lost are restored from the 1666 and 1688
+printings (`source/witness-report.md`). CCEL's "Publisher's Foreword", a modern biography
 of Bunyan, is not part of this edition (it stays in `grace.thml.xml`); nor
 are CCEL's contents and scripture index.
 

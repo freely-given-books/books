@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Grace Abounding</title><author>John Bunyan</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Grace Abounding</title><author>John Bunyan</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-18" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">Grace Abounding</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p0.2">To The Chief of Sinners</titlePart><titlePart type="sub" xml:id="ccel-i-p0.3">Or,</titlePart><titlePart type="sub" xml:id="ccel-i-p0.4">A Brief Relation of the Exceeding Mercy of God in Christ to His Poor Servant</titlePart><titlePart type="sub" xml:id="ccel-i-p0.5">By</titlePart><titlePart type="sub" xml:id="ccel-i-p0.6">John Bunyan</titlePart></titlePage></front><body><div type="chapter" n="1" xml:id="ccel-ii">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Grace Abounding</title><author>John Bunyan</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Grace Abounding</title><author>John Bunyan</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">Grace Abounding</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p0.2">To The Chief of Sinners</titlePart><titlePart type="sub" xml:id="ccel-i-p0.3">Or,</titlePart><titlePart type="sub" xml:id="ccel-i-p0.4">A Brief Relation of the Exceeding Mercy of God in Christ to His Poor Servant</titlePart><titlePart type="sub" xml:id="ccel-i-p0.5">By</titlePart><titlePart type="sub" xml:id="ccel-i-p0.6">John Bunyan</titlePart></titlePage></front><body><div type="chapter" n="1" xml:id="ccel-ii">
 <head xml:id="ccel-ii-p0.1">PUBLISHER’S FOREWORD </head>
 <p xml:id="ccel-ii-p1">John Bunyan was born at Elstow, near Bedford, England, sometime in the fall of 
 1628, the first of three children born to Thomas and Margaret Bunyan. The parish 
@@ -229,7 +229,7 @@ amidst my vain companions, I was often much cast down and afflicted in my mind t
 yet could I not let go my sins. Yea, I was also then so overcome with despair of 
 life and heaven, that I should often wish either that there had been no hell, or 
 that I had been a devil—supposing they were only tormentors; that if it must needs 
-be that I went thither, I might be rather a tormentor, than be tormented myself.</p>
+be that <choice><orig>I</orig><reg resp="#editor" type="emendation">I indeed</reg></choice> went thither, I might be rather a tormentor, than be tormented myself.</p>
 
 <p xml:id="ccel-iv-p8">8. A while after, these terrible dreams did leave me, which also I soon forgot; 
 for my pleasures did quickly cut off the remembrance of them, as if they had never 
@@ -386,7 +386,7 @@ go’ (<ref type="scripture" cRef="Jer.2.25">Jer. 2.25</ref>; <ref type="scriptu
 that I could not be so satisfied with it as I would. This did continue with me about 
 a month, or more; but one day, as I was standing at a neighbour’s shop-window, and 
 there cursing and swearing, and playing the madman, after my wonted manner, there 
-sat within the woman of the house, and heard me, who, though she was a very loose 
+sat within the woman of the house, and heard me, who, though <choice><orig>she</orig><reg resp="#editor" type="emendation">she also</reg></choice> was a very loose 
 and ungodly wretch, yet protested that I swore and cursed at that most fearful rate, 
 that she was made to tremble to hear me; and told me further, that I was the ungodliest 
 fellow for swearing that ever she heard in all her life; and that I, by thus doing, 
@@ -396,7 +396,7 @@ was able to spoil all the youth in a whole town, if they came but in my company.
 I thought, before the God of heaven; wherefore, while I stood there, and hanging 
 down my head<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> I wished with all my heart that I might be a little child again, that 
 my father might learn me to speak without this wicked way of swearing; for, thought 
-I, I am so accustomed to it, that it is in vain for me to think of a reformation, 
+I, I am so accustomed to it, that it <choice><orig>is</orig><reg resp="#editor" type="emendation">is but</reg></choice> in vain for me to think of a reformation, 
 for I thought it could never be.</p>
 
 <p xml:id="ccel-iv-p28">28. But how it came to pass, I know not; I did from this time forward so leave 
@@ -656,7 +656,7 @@ was in this wall, I thought, was Jesus Christ, who is the way to God the Father
 (<ref type="scripture" cRef="John.14.6">John 14.6</ref>; <ref type="scripture" cRef="Matt.7.14">Matt. 7.14</ref>). But forasmuch as the passage was wonderful narrow, even 
 so narrow, that I could not, but with great difficulty, enter in thereat, it showed 
 me that none could enter into life, but those that were in downright earnest, and 
-unless they left this wicked world behind them; for here was only room for body 
+<choice><orig>unless</orig><reg resp="#editor" type="emendation">unless also</reg></choice> they left this wicked world behind them; for here was only room for body 
 and soul, but not for body and soul, and sin.</p>
 
 <p xml:id="ccel-iv-p56">56. This resemblance abode upon my spirit many days; all which time I saw myself 
@@ -974,7 +974,7 @@ shall separate thee from my love; and with that, <ref type="scripture" cRef="Rom
 was my heart filled full of comfort and hope, and now I could believe that my sins 
 should be forgiven me; yea, I was now so taken with the love and mercy of God, that 
 I remember I could not tell how to contain till I got home; I thought I could have 
-spoken of His love, and of His mercy to me, even to the very crows that sat upon 
+spoken of His love, <choice><orig>and</orig><reg resp="#editor" type="emendation">and have told</reg></choice> of His mercy to me, even to the very crows that sat upon 
 the ploughed lands before me, had they been capable to have understood me; wherefore 
 I said in my soul with much gladness, Well, I would I had a pen and ink here, I 
 would write this down before I go any farther, for surely I will not forget this 
@@ -1706,7 +1706,7 @@ so great a sin; greatly fearing I <choice><orig>would</orig><reg resp="#editor" 
 that if this sin of mine did differ from that against the Holy Ghost, the Lord would 
 show it me. And being now ready to sink with fear, suddenly there was, as if there 
 had rushed in at the window, the noise of wind upon me, but very pleasant, and as 
-if I heard a voice speaking, Didst ever refuse to be justified by the blood of Christ? 
+if <choice><orig>I</orig><reg resp="#editor" type="emendation">I had</reg></choice> heard a voice speaking, Didst ever refuse to be justified by the blood of Christ? 
 And withal my whole life and profession past was, in a moment, opened to me, wherein 
 I was made to see that designedly I had not; so my heart answered groaningly, No. 
 Then fell, with power, that word of God upon me, ‘See that ye refuse not him that speaketh’ (<ref type="scripture" cRef="Heb.12.25">Heb. 12.25</ref>). This made a strange seizure upon my spirit; it brought light 
@@ -1742,7 +1742,7 @@ vilely sinned; and, indeed, I have found it as difficult to come to God by praye
 after backsliding from Him, as to do any other thing. Oh, the shame that did now 
 attend me! especially when I thought I am now a-going to pray to Him for mercy that 
 I had so lightly esteemed but a while before! I was ashamed, yea, even confounded, 
-because this villainy had been committed by me; but I saw there was but one way 
+because this villainy had been committed by me; but I <choice><orig>saw</orig><reg resp="#editor" type="emendation">saw that</reg></choice> there was but one way 
 with me, I must go to Him and humble myself unto Him, and beg that He, of His wonderful 
 mercy, would show pity to me, and have mercy upon my wretched sinful soul.</p>
 
@@ -1813,7 +1813,7 @@ gentleness, meekness, death, blood, promises and blessed exhortations, comforts
 and consolations, it went to my soul like a sword; for still, unto these my considerations 
 of the Lord Jesus, these thoughts would make place for themselves in my heart; aye, 
 this is the Jesus, the loving Saviour, the Son of God, whom thou hast parted with, 
-whom you slighted, despised, and abused. This is the only Saviour, the only Redeemer, 
+whom <choice><orig>you</orig><reg resp="#editor" type="emendation">you have</reg></choice> slighted, despised, and abused. This is the only Saviour, the only Redeemer, 
 the only one that could so love sinners as to wash them from their sins in His own 
 most precious blood; but you have no part nor lot in this Jesus, you have put Him 
 <choice><orig>away</orig><reg resp="#editor" type="emendation"></reg></choice> from you, you have said in your heart, Let Him go if He will. Now, therefore, 
@@ -1839,7 +1839,7 @@ die anew for this sin, though, indeed, He did greatly pity me, yet I could have
 no benefit of Him. These things may seem ridiculous to others, even as ridiculous 
 as they were in themselves, but to me they were most tormenting cogitations; every 
 of them augmented my misery, that Jesus Christ should have so much love as to pity 
-me when He could not help me; nor did I think that the reason why He could not help 
+me <choice><orig>when</orig><reg resp="#editor" type="emendation">when yet</reg></choice> He could not help me; nor did I think that the reason why He could not help 
 me was because His merits were weak, or His grace and salvation spent on them already, 
 but because His faithfulness to His threatening would not let Him extend His mercy 
 to me. Besides, I thought, as I have already hinted, that my sin was not within 
@@ -1913,7 +1913,7 @@ and to have as good right to the word and prayer as any of them.</p>
 <p xml:id="ccel-iv-p190">189. Now, I say, I was in hopes that my sin was not unpardonable, but that there 
 might be hopes for me to obtain forgiveness. But oh, how Satan did now lay about 
 him for to bring me down again! But he could by no means do it, neither this day 
-nor the most part of the next, for this sentence stood like a mill-post at my back; 
+nor the most part of the next, for <choice><orig>this</orig><reg resp="#editor" type="emendation">this good</reg></choice> sentence stood like a mill-post at my back; 
 yet, towards the evening of the next day, I felt this word begin to leave me and 
 to withdraw its supportation from me, and so I returned to my old fears again, but 
 with a great deal of grudging and peevishness, for I feared the sorrow of despair; 
@@ -1921,7 +1921,7 @@ nor could my faith now longer retain this word.</p>
 
 <p xml:id="ccel-iv-p191">190. But the next day, at evening, being under many fears, I went to seek the 
 Lord; and as I prayed, I cried, and my soul cried to Him in these words, with strong 
-cries:—O Lord, I beseech <choice><orig>thee</orig><reg resp="#editor" type="case">Thee</reg></choice>, show me that <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> hast loved me with everlasting 
+cries:—O Lord, I beseech <choice><orig>thee</orig><reg resp="#editor" type="case">Thee</reg></choice>, show me that <choice><orig>thou</orig><reg resp="#editor" type="case">Thou</reg></choice> hast loved me <choice><orig>with</orig><reg resp="#editor" type="emendation">with an</reg></choice> everlasting 
 love (<ref type="scripture" cRef="Jer.31.3">Jer. 31.3</ref>). I had no sooner said it but, with sweetness, this returned upon 
 me, as an echo or sounding again, ‘I have loved thee with an everlasting love.’ 
 Now I went to bed at quiet; also, when I awaked the next morning, it was fresh upon 
@@ -2391,7 +2391,7 @@ to come.</p>
 
 <p xml:id="ccel-iv-p240">238. Of this I was made deeply sensible by the prayer of holy David, who, when 
 he was under present mercy, yet prayed that God would hold him back from sin and 
-temptation to come; ‘Then,’ saith he, ‘shall I be upright<choice><orig>,</orig><reg resp="#editor" type="punctuation">, and</reg></choice> I shall be innocent from 
+temptation to come<choice><orig>;</orig><reg resp="#editor" type="punctuation">; for</reg></choice> ‘<choice><orig>Then</orig><reg resp="#editor" type="case">then</reg></choice>,’ saith he, ‘shall I be upright<choice><orig>,</orig><reg resp="#editor" type="punctuation">, and</reg></choice> I shall be innocent from 
 the great transgression’ (<ref type="scripture" cRef="Ps.19.13">Ps. 19.13</ref>). By this very word was I galled and condemned, 
 quite through this long temptation.</p>
 
@@ -2489,7 +2489,7 @@ Word as God had laid it down, without restraining the natural force of one sylla
 thereof. O what did I now see in that blessed sixth of John, ‘And him that cometh 
 to me I will in no wise cast out’ (<ref type="scripture" cRef="John.6.37">ver. 37</ref>). Now I began to consider with myself, 
 that God had a bigger mouth to speak with than I had heart to conceive with. I thought 
-also with myself that He spake not His words in haste, or in unadvised heat, but 
+also with myself that He spake not His words in haste, or <choice><orig>in</orig><reg resp="#editor" type="emendation">in an</reg></choice> unadvised heat, but 
 with infinite wisdom and judgment, and in very truth and <choice><orig>faithfulness</orig><reg resp="#editor" type="emendation">faithfulness (2 Sam. 3.28)</reg></choice>.</p>
 
 <p xml:id="ccel-iv-p252">250. I should in these days, often in my greatest agonies, even flounce towards 
@@ -2568,7 +2568,7 @@ God, His ways, and people, with this at the end of all, Are these the fruits of
 Christianity? are these the tokens of a blessed man?</p>
 
 <p xml:id="ccel-iv-p260">257. At the apprehension of these things my sickness was doubled upon me, for 
-now was I sick in my inward man, my soul was clogged with guilt; now also was my 
+now was I sick in my inward man, my soul was clogged with guilt; now also <choice><orig>was</orig><reg resp="#editor" type="emendation">was all</reg></choice> my 
 former experience of God’s goodness to me quite taken out of my mind, and hid as 
 if it had never been, nor seen. Now was my soul greatly pinched between these two 
 considerations. Live I must not, Die I dare not; now I sunk and fell in my spirit; 
@@ -2780,7 +2780,7 @@ I was caught in my present practice and cast into prison, where I have lain abov
 as long again, to confirm the truth by way of suffering, as I was before in testifying 
 of it according to the Scriptures in a way of preaching.</p>
 
-<p xml:id="ccel-v-p16">280. When I have been preaching, I thank God, my heart hath often all the time 
+<p xml:id="ccel-v-p16">280. When I have <choice><orig>been</orig><reg resp="#editor" type="emendation">been in</reg></choice> preaching, I thank God, my heart hath often all the time 
 of this and the other exercise, with great earnestness, cried to God that He would 
 make the Word effectual to the salvation of the soul; still being grieved lest the 
 enemy should take the Word away from the conscience, and so it should become unfruitful. 
@@ -2978,7 +2978,7 @@ saved condition, lest he rest in them, and so fall short of the grace of God.</p
 
 <p xml:id="ccel-v-p40">304. He hath also cause to walk humbly with God, and be little in his own eyes, 
 and to remember withal, that his gifts are not his own, but the church’s; and that 
-by them he is made a servant to the church; and <choice><orig>that</orig><reg resp="#editor" type="emendation"></reg></choice> he must give at last an account 
+by them he is made a servant to the church; and <choice><orig>that</orig><reg resp="#editor" type="emendation"></reg></choice> he <choice><orig>must</orig><reg resp="#editor" type="emendation">must also</reg></choice> give at last an account 
 of his stewardship unto the Lord Jesus; and to give a good account, will be a blessed 
 thing.</p>
 
@@ -3146,7 +3146,7 @@ lawful, I could pray for greater trouble, for the greater <choice><orig>comfort'
 
 <p xml:id="ccel-vi-p7">324. Before I came to prison I saw what was coming, 
 and had especially two considerations warm upon my heart; the first was, 
-how to be able <choice><orig>to</orig><reg resp="#editor" type="emendation">to endure, should my imprisonment be long and tedious; the second was, how to be able to</reg></choice> encounter death, should that be my portion. For the first 
+how to be able <choice><orig>to</orig><reg resp="#editor" type="emendation">to endure, should my imprisonment be long and tedious; the second was, how to be able to</reg></choice> encounter death, should that <choice><orig>be</orig><reg resp="#editor" type="emendation">be here</reg></choice> my portion. For the first 
 of these, that scripture<choice><orig>,</orig><reg resp="#editor" type="punctuation"> (</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>Col. <choice><orig>i</orig><reg resp="#editor" type="emendation">1.</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>11<choice><orig>,</orig><reg resp="#editor" type="punctuation">)</reg></choice> was great information to me, namely, 
 to pray to God, <choice><orig>"</orig><reg resp="#editor" type="punctuation">‘</reg></choice>to be strengthened with all might, according to his glorious 
 power, unto all patience and long-suffering with joyfulness.<choice><orig>"</orig><reg resp="#editor" type="punctuation">’</reg></choice> I could seldom 
