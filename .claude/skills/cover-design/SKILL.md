@@ -37,6 +37,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Glorious Feast | the cup in a wreath of vine | vector, `art/chalice.svg` |
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
+| Death of Death | no picture: the 1648 title page's verse, Matt. 20:28, "to give his life a ransom for many" in gold | type only, slate and gold (Typst `art`) |
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 | Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
 | Institutes (6 vols) | a small vignette, not a plate: spectacles on an open book (I.vi.1), pages filled in paper colour | ChatGPT engraving, `art/vignette.png` (`art/vignette.py`); grounds step sea-green to indigo across the set |
