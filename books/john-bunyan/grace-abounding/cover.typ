@@ -9,7 +9,7 @@
 // in the frost and snow. An engraving made for this edition; its colour
 // painted by ChatGPT on a copy and laid under the approved engraving's own
 // lines (art/transfer.py), so no line, face or hand changed: art/plate.jpg.
-// The back carries Bunyan's word, from his preface, on how he wrote the book.
+// The back carries Bunyan's own reading of the vision (§55).
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
@@ -39,14 +39,15 @@
   accent: rgb("#8A6A1E"),
   label: rgb("#262838"),
   paper: rgb("#F2EBD8"),
+  // §55: Bunyan's own reading of the front's picture (quoted exactly from
+  // chapters/typ; "etc.," and the references after "Father" left out)
   epigraph: [
-    I could also have stepped into a style much higher than this in which I
-    have here discoursed, and could have adorned all things more than here I
-    have seemed to do, but I dare not. God did not play in convincing of me,
-    the devil did not play in tempting of me, neither did I play when I sunk
-    as into a bottomless pit, when the pangs of hell caught hold upon me;
-    wherefore I may not play in relating of them, but be plain and simple,
-    and lay down the thing as it was.
+    Now, this mountain and wall … was thus made out to me — the mountain
+    signified the church of the living God; the sun that shone thereon, the
+    comfortable shining of His merciful face on them that were therein; the
+    wall, I thought, was the Word, that did make separation between the
+    Christians and the world; and the gap which was in this wall, I thought,
+    was Jesus Christ, who is the way to God the Father.
   ],
-  epigraph-source: [The Preface],
+  epigraph-source: [Grace Abounding, §55],
 )
