@@ -104,6 +104,36 @@ all the way up with no joints, rings or bands, rising to a wide, open hook at
 the top ... not a tight, closed cane handle. Keep its height, position and
 slight lean exactly as they are ... Change nothing else.")
 
+**Grace Abounding** (Bunyan §53-55: "on the sunny side of some high
+mountain ... a wall that did compass about this mountain ... a narrow gap,
+like a little doorway in the wall"; §37's "three or four poor women sitting
+at a door in the sun"). A first, distant version lost the women ("too small,
+so it gets lost"); the version used comes from close by:
+
+```
+Seen from close by, a few paces from a plain dry-stone wall, chest high, that
+runs across the whole picture. Straight ahead, slightly left of centre, the
+wall has one narrow gap, no wider than a little doorway, with a worn path of
+snow running up to it from our feet. Just beyond the wall, on the lower slope
+of a high, rounded mountain, three or four poor seventeenth-century country
+women sit together on the grass in full warm sunlight, close enough to see
+clearly: plain long dresses, simple white caps and shawls, one with her hands
+folded, one leaning toward the others as she speaks, all at rest and talking
+together. Behind them the sunlit mountainside rises steeply, its top cropped
+by the picture. On our side of the wall it is cold and wintry: snow on the
+ground, a few frost-bitten tufts of grass, one bare thorn bush at the right
+edge, and low dark cloud only at the far left edge. The light falls on the
+women and the mountain, drawn only with fine engraved lines; our side lies in
+shadow. No figure on our side of the wall. Still and quiet: the cold outside,
+the sun within, and the one narrow way in.
+```
+(Two edits for the hands, the hands only selected. The first asked for "her
+other hand in her lap" for the woman resting her chin on one hand and got a
+third hand under her elbow; never ask for both hands of a figure whose one
+arm is already in use. The second: "...she rests her chin on one hand; her
+other arm and hand are hidden under her shawl, so no second hand shows
+anywhere below her elbow or in her lap ... Change nothing else.")
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut
