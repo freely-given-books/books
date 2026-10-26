@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 356 |
-| spelling | 94 |
-| spacing | 78 |
+| emendation | 357 |
+| spelling | 93 |
+| spacing | 79 |
 | case | 60 |
 | punctuation | 51 |
-| grammar | 7 |
+| grammar | 8 |
 | italic | 1 |
 | merge | 1 |
 
@@ -48,7 +48,7 @@
 - [relation.typ] of → by
 - [relation.typ] and → 
 - [relation.typ] now → 
-- [relation.typ] for → 
+- [relation.typ] , for → ;
 - [relation.typ] as → and
 - [relation.typ] a → a very
 - [relation.typ] it → 
@@ -112,6 +112,7 @@
 - [relation.typ] that → it
 - [relation.typ] Now → Now again
 - [relation.typ] blessed → beheld
+- [relation.typ] for → , or
 - [relation.typ] , saith my God → 
 - [relation.typ] the → 
 - [relation.typ] fool → soul
@@ -163,7 +164,6 @@
 - [relation.typ] that is → 
 - [relation.typ] should → should be
 - [relation.typ] be → 
-- [relation.typ] and → 
 - [relation.typ] thought → 
 - [relation.typ] yea → but yet
 - [relation.typ] sins → fits
@@ -232,7 +232,7 @@
 - [relation.typ] not → not now
 - [relation.typ] all → all His
 - [relation.typ] His → 
-- [relation.typ] of this → 
+- [relation.typ] of this : → 
 - [relation.typ] in → on
 - [relation.typ] to → in
 - [relation.typ] law → law by Him, died
@@ -250,7 +250,8 @@
 - [relation.typ] now → 
 - [relation.typ] perish → perish for
 - [relation.typ] soever → 
-- [relation.typ] unto them ; and → but
+- [relation.typ] unto them → 
+- [relation.typ] and → but
 - [relation.typ] soever → 
 - [relation.typ] beaten → held
 - [relation.typ] had → had a
@@ -375,6 +376,7 @@
 - unto → to (×4)
 - eighteeneth → eighteenth
 - hast → have
+- hath → has
 - thou → you
 
 ## punctuation
@@ -511,7 +513,6 @@
 - faces → face
 - falling → fallen
 - faults → false
-- for → or
 - fore → fore-
 - has → had
 - have → save
