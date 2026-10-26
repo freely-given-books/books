@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 597 |
-| spelling | 181 |
+| emendation | 607 |
+| spelling | 186 |
 | spacing | 50 |
 | punctuation | 48 |
 | grammar | 45 |
@@ -20,6 +20,7 @@
 
 - [epistle-dedicatory.typ] tendered → tendered for and
 - [epistle-dedicatory.typ] and for → 
+- [to-the-reader.typ note] so → to
 - [to-the-reader.typ] holy → holiest
 - [to-the-reader.typ] what → which
 - [to-the-reader.typ] of → 
@@ -113,7 +114,9 @@
 - [book-1/chapter-07.typ] the → a
 - [book-1/chapter-07.typ] obtained → obtained for us
 - [book-1/chapter-07.typ] for us → 
+- [book-1/chapter-07.typ] be → he
 - [book-1/chapter-07.typ] the → 
+- [book-1/chapter-07.typ] be → he
 - [book-1/chapter-07.typ] give → grant
 - [book-1/chapter-07.typ] for → to be
 - [book-1/chapter-07.typ] to → should
@@ -129,15 +132,19 @@
 - [book-1/chapter-08.typ] was raised again → rose
 - [book-1/chapter-08.typ] which → whom
 - [book-1/chapter-08.typ] then → thou
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] which → that
 - [book-1/chapter-08.typ] in → and
 - [book-1/chapter-08.typ] that → that do
 - [book-1/chapter-08.typ] xxi → xvii
 - [book-1/chapter-08.typ] do → be
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] for → 
 - [book-1/chapter-08.typ] inference → inference, in
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] Seventhly , → 
 - [book-1/chapter-08.typ] law → law and a private person
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] thou → 
 - [book-1/chapter-08.typ] only → 
 - [book-1/chapter-08.typ] for → 
@@ -189,12 +196,14 @@
 - [book-2/chapter-03.typ] people → people “
 - [book-2/chapter-03.typ] for → 
 - [book-2/chapter-03.typ] them → 
+- [book-2/chapter-03.typ] he → be
 - [book-2/chapter-03.typ] what → which
 - [book-2/chapter-03.typ] do → to
 - [book-2/chapter-03.typ] that → of
 - [book-2/chapter-03.typ] the → that
 - [book-2/chapter-03.typ] we → ye
 - [book-2/chapter-03.typ] and → 
+- [book-2/chapter-03.typ] there from → therefrom
 - [book-2/chapter-03.typ] is → 
 - [book-2/chapter-03.typ] this → the
 - [book-2/chapter-03.typ] for → 
@@ -205,6 +214,7 @@
 - [book-2/chapter-04.typ] for ever → 
 - [book-2/chapter-04.typ] to → for
 - [book-2/chapter-04.typ] wrath → condemnation
+- [book-2/chapter-04.typ] where into → whereinto
 - [book-2/chapter-04.typ] cleanse from → purge
 - [book-2/chapter-04.typ] sin → our sins
 - [book-2/chapter-05.typ] in → on
@@ -706,6 +716,7 @@
 - these → those (×5)
 - sins → sin (×4)
 - come → came (×3)
+- crucifers → crucifiers (×3)
 - seeing → being (×3)
 - toward → towards (×3)
 - uttermost → utmost (×3)
@@ -769,6 +780,7 @@
 - friends → friend
 - hand → bands
 - he → they
+- hearing → healing
 - heart → hearts
 - heritages → heritage
 - him → him,’
@@ -791,6 +803,7 @@
 - nothing → not
 - offering → offerings
 - pastures → pasture
+- peecatorum → peccatorum
 - presumptuously → contemptuously
 - promise → promises
 - rebellion → rebellions
