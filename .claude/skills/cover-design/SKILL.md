@@ -37,6 +37,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Glorious Feast | the cup in a wreath of vine | vector, `art/chalice.svg` |
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
+| Grace Abounding | Bunyan's vision (§53-55): poor women of Bedford in the sun on a mountainside, a snowy wall with one narrow gap ("Jesus Christ, who is the way") | ChatGPT engraving; colour painted by ChatGPT on a copy and transferred under the approved lines (`art/transfer.py`), `art/plate.jpg` |
 | Christian Economy | a timber-framed house of 1609, the title page's "an house built" (Prov. 24:3) | ChatGPT engraving, one ink (deep mulberry) on pale rose, `art/plate.png` |
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 | Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
@@ -157,6 +158,15 @@ plate's colours down its edge (sample them), and where the plate stops short
 of the foot, fade its last rows into one flat colour and give that as
 `front-ground`, or a seam shows.
 Save a tinted plate as JPEG quality 93, 4:4:4; a one-ink plate as PNG.
+
+**Colour by transfer** (Grace Abounding): where Claude's washes stay flat (a
+mountain the engraver left nearly blank), ask ChatGPT to hand-colour the
+approved engraving, then keep only its colour: `art/transfer.py` aligns the
+coloured copy (phase correlation), closes its lines over (max filter),
+softens it into a wash and multiplies the approved engraving's own lines
+over it. ChatGPT's colouring redraws details (it broke the fingers again);
+the transfer keeps every approved line, face and hand. Prompt in
+references/prompts.md.
 
 At 2048x3072 a full-bleed plate prints at about 350 dpi; aim for 300+.
 
