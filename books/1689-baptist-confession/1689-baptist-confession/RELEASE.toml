@@ -1,0 +1,18 @@
+# Release record of The 1689 Baptist Confession of Faith: With Catechisms: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, 1689-baptist-confession/1689-baptist-confession/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "The Second London Baptist Confession of Faith (1677, owned in 1689), with the Baptist Catechism (1695) and An Orthodox Catechism (1680), from SVRBC's symbolics-data, with the confession's preface and closing statement transcribed for this edition."
+
+[[source]]
+file = "source/lbcf1689.thml.xml"
+description = "SVRBC symbolics-data (the symbolics-data submodule, commit c6853c8): confessions/lbcf1689, catechisms/bc1695 and catechisms/aoc1680, laid out as ThML by source/make_thml.py with no change of words, with our transcription of the preface and closing (source/transcription/)"
+url = "https://gitlab.com/svrbc/symbolics-data"
+sha256 = "3037183196dd304fb627f1f90d714c813d0fc79c2d35755e0d50a13012b936ef"
+
+# Copies the edition was checked against, kept or not (one per witness).
+# None: the text is symbolics-data on its own; no other copy was compared.
+# [[witness]]
+# description = ""
+# url = ""
