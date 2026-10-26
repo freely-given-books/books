@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 147 |
+| emendation | 165 |
 | spacing | 71 |
 | case | 60 |
 | spelling | 52 |
-| punctuation | 42 |
+| punctuation | 47 |
 | italic | 1 |
 | grammar | 1 |
 | merge | 1 |
@@ -23,6 +23,7 @@
 - [relation.typ] than → 
 - [relation.typ] she → she also
 - [relation.typ] is → is but
+- [relation.typ] and → and such like
 - [relation.typ] and → and, indeed
 - [relation.typ] a → a very
 - [relation.typ] heart → heart before
@@ -38,6 +39,8 @@
 - [relation.typ] I → I had
 - [relation.typ] desires → desires also
 - [relation.typ] whereas → whereas before
+- [relation.typ] me → me as
+- [relation.typ] was → was as
 - [relation.typ] oh → ah
 - [relation.typ] rich → rich should
 - [relation.typ] should → 
@@ -45,19 +48,26 @@
 - [relation.typ] sight → wrath
 - [relation.typ] I → they
 - [relation.typ] and → and have told
+- [relation.typ] magnifying → magnifying of
+- [relation.typ] Now → Now again
 - [relation.typ] , saith my God → 
 - [relation.typ] II → 2
+- [relation.typ] these → these words
 - [relation.typ] up → us
+- [relation.typ] He → He had
 - [relation.typ] might → might so
 - [relation.typ] so → 
 - [relation.typ] before → before me, and cause them to dwell with me, talk with
+- [relation.typ] might → might be
 - [relation.typ] down → down fell
 - [relation.typ] fell → 
+- [relation.typ] in → in an
 - [relation.typ] thought → 
 - [relation.typ] sins → fits
 - [relation.typ] cry → cry, ‘Return unto me’; it would cry aloud with a very great voice
 - [relation.typ] I → I had
 - [relation.typ] of → of a
+- [relation.typ] threatening → threatening of
 - [relation.typ] Jesus → Jesus Christ
 - [relation.typ] saw → saw that
 - [relation.typ] Pray → Pray not
@@ -69,10 +79,15 @@
 - [relation.typ] when → when yet
 - [relation.typ] this → this good
 - [relation.typ] with → with an
+- [relation.typ] I → I had
 - [relation.typ] not → not, not
+- [relation.typ] was → was but
+- [relation.typ] more → more such as I
+- [relation.typ] in → in it
 - [relation.typ] II → 2
 - [relation.typ] would → wonder
 - [relation.typ] II → 2
+- [relation.typ] not → not out
 - [relation.typ] did → did it
 - [relation.typ] wishing → wishing of
 - [relation.typ] is → as
@@ -81,12 +96,15 @@
 - [relation.typ] l → I
 - [relation.typ] not → not now
 - [relation.typ] law → law by Him, died
+- [relation.typ] also → also have
+- [relation.typ] perish → perish for
 - [relation.typ] in → in an
 - [relation.typ] faithfulness → faithfulness (2 Sam. 3.28)
 - [relation.typ] that → that blessed
 - [relation.typ] 8 → 28
 - [relation.typ] to → do
 - [relation.typ] met → met with
+- [relation.typ] at → at the
 - [relation.typ] was → was all
 - [relation.typ] II → 2
 - [relation.typ] 4 → 24
@@ -99,6 +117,7 @@
 - [call-to-the-ministry.typ] Act . → Acts
 - [call-to-the-ministry.typ] which → which also
 - [call-to-the-ministry.typ] II → 2
+- [call-to-the-ministry.typ] of → of the
 - [call-to-the-ministry.typ] been → been in
 - [call-to-the-ministry.typ] in → in my
 - [call-to-the-ministry.typ] II → 2
@@ -155,7 +174,6 @@
 - [imprisonment.typ] 1 → I
 - [imprisonment.typ] my → my very
 - [imprisonment.typ] me → me or no,
-- [imprisonment.typ] save → 
 - [imprisonment.typ] lie → he
 - [imprisonment.typ] Psalm → (Ps.
 - [imprisonment.typ] xliv → 44
@@ -171,12 +189,17 @@
 - [relation.typ] , → , as
 - [relation.typ] , → , thought
 - [relation.typ] , → ;
+- [relation.typ] ; → ; my hinder parts were inward;
 - [relation.typ] ; → !
+- [relation.typ] , → , and
+- [relation.typ] , → , but
 - [relation.typ] , → , as
+- [relation.typ] , → , and
 - [relation.typ] : → .
 - [relation.typ] , → , thought
 - [relation.typ] ; → ; or
 - [relation.typ] , → , also,
+- [relation.typ] , → , that
 - [relation.typ] ; → ,
 - [relation.typ] . → ,
 - [relation.typ] ; → ; for
@@ -267,6 +290,7 @@
 - 97 → 97.
 - Esth → Esth.
 - Mounments → Monuments
+- Now → No
 - Rom → Rom.
 - abd → and
 - befal → befall
@@ -277,7 +301,6 @@
 - dispensation → dispensations
 - faults → false
 - fore → fore-
-- forth → both
 - has → had
 - have → save
 - intreat → entreat

@@ -3,7 +3,7 @@
 # off with a signed tag, john-bunyan/grace-abounding/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition, the 1688 sixth edition (the last in Bunyan's lifetime) and George Offor's 1855 edition."
+summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition, the 1688 sixth edition (the last in Bunyan's lifetime), George Offor's 1855 edition and the Religious Tract Society's 1905 text."
 
 [[source]]
 file = "source/grace.thml.xml"
@@ -25,3 +25,7 @@ url = "https://archive.org/details/worksofjohnbunya01buny"
 [[witness]]
 description = "Grace Abounding, the sixth edition (London, Nathaniel Ponder, 1688), the last in Bunyan's lifetime: archive.org scan, local OCR (GLM-OCR and Tesseract) in source/ocr/, collated 2026-10-25: source/witness-report.md"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_grace-abounding-to-the-c_bunyan-john_1688"
+
+[[witness]]
+description = "Grace Abounding, Religious Tract Society edition (1905), 'as nearly as possible' the eighth edition: Project Gutenberg #654, transcribed by David Price; collated 2026-10-25: source/witness-report.md"
+url = "https://www.gutenberg.org/ebooks/654"

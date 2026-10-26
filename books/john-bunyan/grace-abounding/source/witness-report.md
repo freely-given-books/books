@@ -731,6 +731,63 @@ agreeing with GLM; kept under the rule above; OCR words, unchecked):
 - `imprisonment.typ` (scan p. 187), after “…laid hard at me to”: edition *beat*; 1688 *bear*
 
 About 210 more candidates are places where 1688 alone differs from the
-edition, 1666 and Offor. They are mostly OCR errors, with some 1688
-revisions or misprints. They are not listed; they are in
-`ocr/collation-1688.jsonl`.
+edition, 1666 and Offor. Many are OCR errors; the real ones are Bunyan's
+1688 revisions of the 1666 text, and the Gutenberg text (below) picks
+them out. They are in `ocr/collation-1688.jsonl`.
+
+
+# Witness: the Religious Tract Society text (1905), Gutenberg #654
+
+[Project Gutenberg #654](https://www.gutenberg.org/files/654/654-h/654-h.htm),
+transcribed by David Price from the Religious Tract Society edition of 1905.
+Its prefatory note says its text is "as nearly as possible that of the
+eighth" edition, with capitals and spelling partly modernized. It is a
+typed text, not OCR. It was collated with the edition (2026-10-25), with
+the 1666, 1688 and Offor readings taken at each place. The 760 candidates,
+with each witness's words, are in `ocr/collation-gutenberg654.json`.
+
+Its value is that it agrees with the 1688 printing where Offor and CCEL do
+not: it carries Bunyan's 1688 revisions of the 1666 text, which the 1688 OCR
+alone could not prove. It also confirmed four of the 1666-and-1688 words
+above that the first list missed.
+
+## Restored (27, the editor's rule of 2026-10-25)
+
+Words that Bunyan added in 1688 to the 1666 text are restored where 1688
+and the Gutenberg text agree. Each was read on the 1688 page image. CCEL's
+different words and word order are kept as before ("Now again I blessed",
+where 1688 has "beheld"; "the union with Christ", where 1688 has "of").
+
+| § | now reads | witnesses |
+| --- | --- | --- |
+| 29 | Paul's epistles, and such like Scriptures | 1688, RTS |
+| 82 | more tender than now; my hinder parts were inward; I durst | 1688, RTS |
+| 104 | Now again I blessed | 1688, RTS |
+| 113 | But these words were but hints | 1688, RTS |
+| 121 | as if He had leaped | 1688, RTS |
+| 126 | open them unto me, and make them shine | 1688, RTS |
+| 128 | that I might be for ever inflamed | 1688, RTS |
+| 136 | had consented to it, but then should I | 1688, RTS |
+| 146 | torn and rent in an heavy case | 1688, RTS |
+| 163 | his twining and twisting, and languishing | 1688, RTS |
+| 174 | a kind of a threatening of me | 1688, RTS |
+| 200 | it was but in vain to pray | 1688, RTS |
+| 204 | many more such as I besides | 1688, RTS |
+| 205 | my peace would be in it and out | 1688, RTS |
+| 206 | that He gave, that I gathered | 1688, RTS |
+| 218 | not out of spite | 1688, RTS |
+| 244 | the advantages that I also have gained | 1688, RTS |
+| 254 | but at the last the Lord came in | 1688, RTS |
+| 279 | the mystery of the union with Christ | 1688, RTS |
+| 337 | wherefore thought I, save the point being thus | 1688, RTS (reverses the first proofread's cut, made from 1666 alone) |
+| 183 | brought forth the villainy of my sin | 1688, Offor, RTS (reverses the first proofread's "both", made from 1666 alone) |
+| 78 | laid me as low as hell | 1666, 1688, RTS (missed in the first 1688 list) |
+| 82 | and was as there left | 1666, 1688, RTS (missed) |
+| 101 | lauding and magnifying of God | 1666, 1688 (missed) |
+| 192 | had I had a thousand gallons | 1666, 1688, Offor, RTS (missed) |
+| 245 | must perish for evermore | 1666, 1688, RTS (missed) |
+| 48 | No, said I with myself | 1666, 1688, Offor, RTS: CCEL's "Now" is a keying slip |
+
+Not restored: words in KJV quotations (Titus 3.5 "he saved us"), and three
+places where 1688's extra word comes with other changes ("since seen",
+"did it unawares", "should be but").

@@ -16,7 +16,7 @@ were fixed on sense alone (marked *sense*).
 | 24 | what sin was *set* to be committed | *yet* | 1666 |
 | 117 | He pressed *up* to take special heed that we | *us* | sense |
 | 173 | that scripture, in these flying *sins*, would call | *fits* | 1666 |
-| 183 | *brought forth* the villainy of my sin, and my loss by it to mind | *brought both* | 1666 |
+| 183 | *brought forth* the villainy of my sin, and my loss by it to mind | *brought both* | 1666  (reversed 2026-10-25: 1688, Offor and RTS read *forth*; witness-report.md) |
 | 191 | keep my heart upon this *world* | *word* | 1666 |
 | 212 | I *would* which of them would get the better of me | *wonder* | 1666 |
 | 231 | For by this scripture, *l* saw | *I* | |
@@ -28,7 +28,7 @@ were fixed on sense alone (marked *sense*).
 
 - §104: "There is no peace, saith my God, to the wicked, *saith my God*". The 1666 printing and Isa. 57:21 have the phrase once.
 - §25: "this temptation … is *more than usual* amongst poor creatures *than* many are aware of" is now "more usual … than", as in 1666.
-- §337: "wherefore thought I, *save* the point being thus" is now "the point being thus", as in 1666.
+- §337: "wherefore thought I, *save* the point being thus" is now "the point being thus", as in 1666. (Reversed 2026-10-25: 1688 and RTS have "save"; witness-report.md.)
 - §263: "that twelfth of the author *of (Hebrews 12:22-4)*" is now "the author to the Hebrews (Heb. 12.22-24)", as in 1666.
 - Preface: "grace;*4* for he found" was a stray footnote digit; it is now "grace; for he found".
 
