@@ -5,6 +5,19 @@
 # One or two sentences for the release catalog: the edition, its source.
 summary = "The Second London Baptist Confession of Faith (1677, owned in 1689), with the Baptist Catechism (1695) and An Orthodox Catechism (1680), from SVRBC's symbolics-data, with the confession's preface and closing statement transcribed for this edition."
 
+
+# Print warnings the editor accepted (2026-10-26): both are false alarms. The
+# proofs here are set under each paragraph, numbered from 1 again each time,
+# where the check expects page footnotes numbered through the book. On p. 47
+# the "128" of "Psalm 119:6, 128" wraps to a line of its own and reads as a
+# note 12; on p. 183 the four-line proof block under Question 145 crosses the
+# line where the check takes the page's footnotes to begin. Both pages were
+# looked at as rendered: every proof sits whole under its own paragraph.
+accepted_print = [
+  "1689-baptist-confession.pdf: footnote 12 is set on page 47, its marker on page 46",
+  "1689-baptist-confession.pdf: a footnote is broken over to page 183: “Exodus 34:5–7; Psalm 143:1–2,5,10–12; Jeremiah 31:”",
+]
+
 [[source]]
 file = "source/lbcf1689.thml.xml"
 description = "SVRBC symbolics-data (the symbolics-data submodule, commit c6853c8): confessions/lbcf1689, catechisms/bc1695 and catechisms/aoc1680, laid out as ThML by source/make_thml.py with no change of words, with our transcription of the preface and closing (source/transcription/)"
