@@ -3,7 +3,7 @@
 # off with a signed tag, john-bunyan/grace-abounding/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition, the 1688 sixth edition (the last in Bunyan's lifetime), George Offor's 1855 edition and the Religious Tract Society's 1905 text."
+summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, in modern spelling, its wording restored to his own last edition (1688) and the first (1666) from CCEL's later text, checked against George Offor's 1855 edition and the Religious Tract Society's 1905 text."
 
 [[source]]
 file = "source/grace.thml.xml"

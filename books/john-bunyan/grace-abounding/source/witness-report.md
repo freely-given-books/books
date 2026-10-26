@@ -791,3 +791,43 @@ where 1688 has "beheld"; "the union with Christ", where 1688 has "of").
 Not restored: words in KJV quotations (Titus 3.5 "he saved us"), and three
 places where 1688's extra word comes with other changes ("since seen",
 "did it unawares", "should be but").
+
+
+# The editor's rule of 2026-10-26: Bunyan's wording
+
+This supersedes the "lost words only" rule above, and the 2026-10-18
+answers that kept CCEL's word choices. The editor: stay close to the
+original texts where it fits with more modern English.
+
+- **Wording** follows the 1688 sixth edition, Bunyan's last, where its
+  reading is confirmed: by the 1666 text, by the 1905 RTS text (Gutenberg
+  #654), which follows the 1688 line, or by the 1688 page image. 1666 is
+  used where 1688 is unclear. This covers different words, word order, and
+  words added or dropped. In Scripture, Bunyan's own wording is used, not
+  the KJV's.
+- **Passages 1688 cut** (three words or more) are kept from 1666: the §201
+  "Is His mercy clean gone" sentence, Prov. 11.30 in the Call, "a
+  twelvemonth or more", "the day of judgment ... tremble at the thoughts of
+  the", the §324 clause on enduring imprisonment.
+- **Kept modern**: spelling (thorow, 'twas, chuse, burthen, O); period
+  grammar (them words, many other, hath, a-coming, all them); and old words
+  with a clean modern equivalent (betwixt, estate, too too, an heavy,
+  scrabbling, tender of, holden). References and their style stay as
+  they were.
+- **Not changed**: places where 1688's word would not read as modern
+  English ("I was tore", "for that treasure hid", "This for many days",
+  "unless that", "there were no way"); and two readings that the page crops
+  did not show clearly (§82 "saw", "a word").
+
+The collation (`collate_witnesses.py`; candidates in
+`ocr/collation-gutenberg654.json`) gave 1,082 places where the edition and
+RTS differ. 1688 sided with RTS in 391 of them. After the filters above,
+about 250 changes were made. Each is a review decision in the TEI
+(`review-report.md`), for example: "many offers to get in" (§54), "this
+form of speech", "lest I should take thereof", "I should feel my mind",
+"some gipsy hath by force took up in her arms", "Alas, poor soul!", "the
+everlasting weight of hell, or sin", "on a ladder with the rope about my
+neck". Earlier restorations from Offor that 1688 lacks were undone where
+the rule says so ("not, not for ever", "home to prison again", "or no, or
+save me").
+
