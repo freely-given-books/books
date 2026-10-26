@@ -13,9 +13,9 @@
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-// The spine and back: the plate's own colours down its edge, warm sky
-// above to cold snow below.
-#let ground = ((rgb("#ECE8DC"), 0%), (rgb("#EFE6CF"), 35%), (rgb("#DCE0E6"), 65%), (rgb("#E4E9EF"), 100%))
+// The spine and back: the plate's own colours, blue sky warming
+// toward the mountain, then cold snow below.
+#let ground = ((rgb("#CCDCEC"), 0%), (rgb("#D4DFE6"), 20%), (rgb("#E9DDC2"), 34%), (rgb("#D2DBE8"), 66%), (rgb("#DCE5F1"), 100%))
 
 #plate-cover(
   plate: read("art/plate.jpg", encoding: none),
@@ -24,7 +24,7 @@
   plate-at: (dx: -0.125in, dy: -0.72in, width: 5.75in, height: 10.02in),
   ground: ground,
   // under the plate's foot, its own snow colour, so no seam shows
-  front-ground: rgb("#E4E9EF"),
+  front-ground: rgb("#DEE6F2"),
   seal: press-seal,
   title: [Grace Abounding],
   tail: [to the Chief of Sinners],
