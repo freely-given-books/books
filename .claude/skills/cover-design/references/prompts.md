@@ -134,6 +134,25 @@ arm is already in use. The second: "...she rests her chin on one hand; her
 other arm and hand are hidden under her shawl, so no second hand shows
 anywhere below her elbow or in her lap ... Change nothing else.")
 
+Colouring (Grace Abounding), on the approved engraving, whole image; the
+colour only is used, by `art/transfer.py`:
+
+```
+Hand-colour this engraving as a Victorian colourist would, with soft
+transparent watercolour washes laid under the black lines; keep every line
+exactly as it is and change nothing in the drawing. A clear winter morning:
+pale blue sky overhead, warming to soft gold low behind the mountain. The
+mountain in full sun: its upper slopes warm gold and russet heath with
+patches of purple heather, the rocks warm grey, the left flank in cool
+violet shadow, the lower slopes and the trees fresh green. The four women
+in the sun: one shawl madder red, one indigo, one moss green, one russet,
+skirts warm grey-brown, caps white, faces and hands a natural light skin
+tone. The stone wall cold grey, its snow white. Our side of the wall in
+shadow: the snow pale blue, the grass tufts and the thorn bush cold brown.
+Colours clear but gentle, the white of the paper still showing through;
+no new lines, no texture, no border, no text.
+```
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut

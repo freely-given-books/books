@@ -6,16 +6,17 @@
 // poor people of Bedford on the sunny side of a high mountain, a wall about
 // it, and one narrow gap, "like a little doorway in the wall", which "was
 // Jesus Christ, who is the way to God the Father"; we stand where he stood,
-// in the frost and snow. An engraving made for this edition, hand-tinted
-// (art/tint.py): art/plate.jpg. The back carries Bunyan's word, from his
-// preface, on how he wrote the book.
+// in the frost and snow. An engraving made for this edition; its colour
+// painted by ChatGPT on a copy and laid under the approved engraving's own
+// lines (art/transfer.py), so no line, face or hand changed: art/plate.jpg.
+// The back carries Bunyan's word, from his preface, on how he wrote the book.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
 // The spine and back: the plate's own colours, blue sky warming
 // toward the mountain, then cold snow below.
-#let ground = ((rgb("#CCDCEC"), 0%), (rgb("#D4DFE6"), 20%), (rgb("#E9DDC2"), 34%), (rgb("#D2DBE8"), 66%), (rgb("#DCE5F1"), 100%))
+#let ground = ((rgb("#C3E3FC"), 0%), (rgb("#C8E5FA"), 20%), (rgb("#F2EED8"), 34%), (rgb("#E6ECF2"), 66%), (rgb("#ECF4FC"), 100%))
 
 #plate-cover(
   plate: read("art/plate.jpg", encoding: none),
@@ -24,7 +25,7 @@
   plate-at: (dx: -0.125in, dy: -0.72in, width: 5.75in, height: 10.02in),
   ground: ground,
   // under the plate's foot, its own snow colour, so no seam shows
-  front-ground: rgb("#DEE6F2"),
+  front-ground: rgb("#EFF6FC"),
   seal: press-seal,
   title: [Grace Abounding],
   tail: [to the Chief of Sinners],
