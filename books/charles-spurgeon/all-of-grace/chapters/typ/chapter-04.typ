@@ -2,7 +2,7 @@
 
 Romans 8:33
 
-A WONDERFUL THING it is, this being justified, or made just. If we had never broken the laws of God we should not have needed it, for we should have been just in ourselves. He who has all his life done the things which he ought to have done, and has never done anything which he ought not to have done, is justified by the law. But you, dear reader, are not of that sort, I am quite sure. You have too much honesty to pretend to be without sin, and therefore you need to be justified.
+#smallcaps[A wonderful thing] it is, this being justified, or made just. If we had never broken the laws of God we should not have needed it, for we should have been just in ourselves. He who has all his life done the things which he ought to have done, and has never done anything which he ought not to have done, is justified by the law. But you, dear reader, are not of that sort, I am quite sure. You have too much honesty to pretend to be without sin, and therefore you need to be justified.
 
 Now, if you justify yourself, you will simply be a self-deceiver. Therefore do not attempt it. It is never worth while.
 
@@ -28,7 +28,7 @@ The justification which comes from God himself must be beyond question. If the J
 
 Friend, the Lord can blot out all your sins. I make no shot in the dark when I say this. “All manner of sin and of blasphemy shall be forgiven unto men.” Though you are steeped up to your throat in crime, He can with a word remove the defilement, and say, “I will, be thou clean.” The Lord is a great forgiver.
 
-“I BELIEVE IN THE FORGIVENESS OF SINS.” DO YOU?
+“#smallcaps[I believe in the forgiveness of sins].” #smallcaps[Do you]?
 
 He can even at this hour pronounce the sentence, “Thy sins be forgiven thee; go in peace;” and if He do this, no power in Heaven, or earth, or under the earth, can put you under suspicion, much less under wrath. Do not doubt the power of Almighty love. You could not forgive your fellow man had he offended you as you have offended God; but you must not measure God’s corn with your bushel; His thoughts and ways are as much above yours as the heavens are high above the earth.
 

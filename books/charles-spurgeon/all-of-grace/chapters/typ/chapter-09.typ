@@ -1,6 +1,6 @@
 == How May Faith Be Illustrated?
 
-TO MAKE THE MATTER of faith clearer still, I will give you a few illustrations. Though the Holy Spirit alone can make my reader see, it is my duty and my joy to furnish all the light I can, and to pray the divine Lord to open blind eyes. Oh that my reader would pray the same prayer for himself!
+#smallcaps[To make the matter] of faith clearer still, I will give you a few illustrations. Though the Holy Spirit alone can make my reader see, it is my duty and my joy to furnish all the light I can, and to pray the divine Lord to open blind eyes. Oh that my reader would pray the same prayer for himself!
 
 The faith which saves has its analogies in the human frame.
 
