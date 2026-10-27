@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 613 |
-| spelling | 188 |
+| emendation | 607 |
+| spelling | 190 |
+| punctuation | 51 |
 | spacing | 50 |
-| punctuation | 48 |
 | grammar | 45 |
 | list | 22 |
 | italic | 3 |
@@ -106,7 +106,6 @@
 - [book-1/chapter-06.typ] offences → sins
 - [book-1/chapter-06.typ] was raised → rose
 - [book-1/chapter-06.typ] sake → cause
-- [book-1/chapter-07.typ] perpetual → powerful
 - [book-1/chapter-07.typ] With → For by
 - [book-1/chapter-07.typ] was raised → rose
 - [book-1/chapter-07.typ] from → from the
@@ -122,9 +121,7 @@
 - [book-1/chapter-07.typ] for → to be
 - [book-1/chapter-07.typ] to → should
 - [book-1/chapter-07.typ] died → dying
-- [book-1/chapter-08.typ] Wherefore , → Where
 - [book-1/chapter-08.typ] for → 
-- [book-1/chapter-08.typ] to vent → 
 - [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] might → may
@@ -316,7 +313,6 @@
 - [book-3/chapter-07.typ] which → that
 - [book-3/chapter-07.typ] same → 
 - [book-3/chapter-07.typ] mine → my
-- [book-3/chapter-07.typ] in this → 
 - [book-3/chapter-07.typ] First → 
 - [book-3/chapter-08.typ] but → and
 - [book-3/chapter-08.typ] which → that
@@ -491,7 +487,6 @@
 - [book-4/chapter-04.typ] all → we
 - [book-4/chapter-04.typ] all → all men
 - [book-4/chapter-04.typ] quickeneth → maketh alive
-- [book-4/chapter-04.typ] upon → 
 - [book-4/chapter-04.typ] of → 
 - [book-4/chapter-04.typ] the → the free
 - [book-4/chapter-04.typ] life → one
@@ -505,7 +500,6 @@
 - [book-4/chapter-05.typ] now → then
 - [book-4/chapter-05.typ] Christ → 
 - [book-4/chapter-05.typ] to be → 
-- [book-4/chapter-05.typ] or → 
 - [book-4/chapter-05.typ] to → to the
 - [book-4/chapter-05.typ] had → 
 - [book-4/chapter-05.typ] through → by
@@ -664,9 +658,12 @@
 - [book-1/chapter-04.typ] , → , even
 - [book-1/chapter-04.typ] “ → “For
 - [book-1/chapter-05.typ] “ → 
+- [book-1/chapter-07.typ] , → 
+- [book-1/chapter-08.typ] , → 
 - [book-2/chapter-01.typ] , → 
 - [book-2/chapter-01.typ] , → , it
 - [book-2/chapter-02.typ] , → , as
+- [book-2/chapter-02.typ] , → .
 - [book-2/chapter-03.typ] . → . Sixthly,
 - [book-2/chapter-03.typ] ” → ” that he
 - [book-2/chapter-03.typ] “ → did
@@ -776,6 +773,7 @@
 - distinctions → distinction
 - door → doors
 - end → ends
+- ends → end’s
 - enlargement → enlargements
 - excelling → excellent
 - expression → expressions
@@ -852,6 +850,7 @@
 - wherein → where
 - whom → who
 - works → work
+- works → works.
 - world → word
 - xliv → xlv
 - yes → yea

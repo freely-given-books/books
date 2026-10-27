@@ -54,6 +54,15 @@ and light modernizing stand.
   ("the right hand of Majesty on high", without "the"). The 1648 margin
   captions (Owen's running outline beside his section numbers) stay out of
   the text, as Goold has it; they are kept in `source/collation/*.jsonl`.
+- **Owen's errata leaf** (1648, the last leaf; scan page 370, its OCR in
+  `ocr-witnesses/owen-death-1648/glm/pages/000370.txt`): about 30
+  corrections by page and line, which Goold carries out. A 1648 reading on
+  one of those lines is Owen's misprint, not his wording: the edition keeps
+  the correction (Goold's). Found 2026-10-27, after six restorations had
+  undone corrections (pp. 29, 35, 36, 143, 239, 250; set right, logged in
+  `goold-ccel.jsonl` as `errata`). One exception: p. 230, Owen's
+  "Zedekiah" for "Jeremiah", in a quotation of Jer. xxix. 2, where the
+  verse reads "Jeconiah"; the edition keeps Goold's (the Bible's) word.
 
 ## Local OCR (2026-10-25)
 
