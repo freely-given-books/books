@@ -1,5 +1,5 @@
 #import "../../../scripts/plate_cover.typ": *
-#import "@local/fgbooks:0.13.3": press-seal
+#import "@local/fgbooks:0.14.0": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press plate design (see
 // scripts/plate_cover.typ), with no picture: the verse on Owen's 1648 title
