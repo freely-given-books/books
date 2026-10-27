@@ -1,6 +1,6 @@
 == Just And The Justifier
 
-WE HAVE SEEN the ungodly justified, and have considered the great truth, that only God can justify any man; we now come a step further and make the inquiry — How can a just God justify guilty men? Here we are met with a full answer in the words of Paul, in Romans 3:21-26. We will read six verses from the chapter so as to get the run of the passage:
+#smallcaps[We have seen] the ungodly justified, and have considered the great truth, that only God can justify any man; we now come a step further and make the inquiry — How can a just God justify guilty men? Here we are met with a full answer in the words of Paul, in Romans 3:21-26. We will read six verses from the chapter so as to get the run of the passage:
 
 #quote[But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets; even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference; for all have sinned, and come short of the glory of God; being justified freely by his grace through the redemption that is in Christ Jesus: whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; to declare, I say, at this time his righteousness; that he might be just, and the justifier of him which believeth in Jesus.]
 

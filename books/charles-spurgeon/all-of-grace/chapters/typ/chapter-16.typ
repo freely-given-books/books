@@ -1,6 +1,6 @@
 == How Repentance Is Given
 
-TO RETURN to the grand text:
+#smallcaps[To return] to the grand text:
 
 #quote[Him hath God exalted with his right hand to be a Prince and a Savior, for to give repentance to Israel, and forgiveness of sins.]
 
@@ -31,4 +31,4 @@ The Lord can give repentance to the most unlikely, turning lions into lambs, and
 
 I shall be content if I leave this one thought with you; look not beneath the ice to find fire, neither hope in your own natural heart to find repentance. Look to the Living One for life. Look to Jesus for all you need between Hell Gate and Heaven Gate. Never seek elsewhere for any part of that which Jesus loves to bestow; but remember,
 
-CHRIST IS ALL.
+#smallcaps[Christ is all].

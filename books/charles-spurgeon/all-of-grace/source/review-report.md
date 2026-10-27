@@ -6,16 +6,15 @@
 
 | kind | count |
 | --- | --- |
+| case | 75 |
 | spelling | 53 |
-| case | 51 |
 | merge | 19 |
 | punctuation | 14 |
 | quotation | 14 |
 | spacing | 11 |
-| emendation | 8 |
+| emendation | 9 |
 | italic | 5 |
 | split | 4 |
-| grammar | 1 |
 
 ## split
 
@@ -32,12 +31,9 @@
 - [chapter-08.typ] is → in
 - [chapter-08.typ] of → 
 - [chapter-11.typ] l → I
+- [chapter-13.typ] YE MUST BE BORN AGAIN → “Ye must be born again
 - [chapter-17.typ] Cor . → Corinthians
 - [chapter-19.typ] Cor . → Corinthians
-
-## grammar
-
-- YE → “YE
 
 ## punctuation
 
@@ -58,44 +54,75 @@
 
 ## case
 
-- in → IN (×4)
-- all → ALL (×3)
-- of → OF (×3)
-- Do → DO (×2)
-- Him → HIM (×2)
-- grace → GRACE (×2)
-- heaven → HEAVEN (×2)
-- me → ME (×2)
-- meet → MEET (×2)
-- Christ → CHRIST
-- Forgiveness → FORGIVENESS
-- He → HE
+- IS → is (×3)
+- FAITH → faith (×2)
+- THE → the (×2)
+- THIS → this (×2)
+- TO → To (×2)
+- A → a
+- AFTER → After
+- ANXIOUS → anxious
+- ARE → are
+- BY → By
+- CAN → can
+- CLEAR → clear
+- CONTINUALLY → Continually
+- DARK → dark
+- Do → do
+- FEAR → fear
+- Forgiveness → forgiveness
+- GRACE → grace
+- HAVE → have
+- HE → He
+- HEARD → heard
+- HEART → heart
+- HOPE → hope
+- HOW → How
+- IF → If
+- IN → In
+- IT → It
+- IT → it
+- MAKE → make
+- MATTER → matter
+- MESSAGE → message
+- MY → my
+- NOTICE → notice
+- NOW → now
+- OBTAIN → obtain
 - Of → of
-- Reader → READER
-- Redeemer → REDEEMER
-- Sins → SINS
+- PLACE → place
+- READER → reader
+- RETURN → return
+- SAVED → saved
+- SEEN → seen
+- SELECTED → selected
+- SPOKE → spoke
+- STORY → story
+- Sins → sins
 - Sir → sir
+- THE → The
+- THING → thing
+- THINK → think
+- THIS → This
+- TO → to
 - Thy → thy
-- You → YOU
-- away → AWAY
-- believe → BELIEVE
-- believeth → BELIEVETH
-- beseech → BESEECH
-- everlasting → EVERLASTING
-- from → FROM
-- hath → HATH
+- UNGODLY → ungodly
+- WANT → want
+- WE → We
+- WE → we
+- WELL → well
+- WHAT → What
+- WHO → who
+- WHY → Why
+- WONDERFUL → wonderful
+- YE → ye
+- YOU → you
+- You → you
+- all → All
+- grace → Grace
 - his → His
-- is → IS
-- life → LIFE
-- never → NEVER
-- not → NOT
-- now → NOW
-- or → OR
-- that → THAT
-- the → THE
-- turn → TURN
-- you → YOU
-- your → YOUR
+- meet → Meet
+- now → Now
 
 ## spelling
 

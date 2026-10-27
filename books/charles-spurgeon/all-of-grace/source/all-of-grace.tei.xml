@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>All of Grace</title><author>C. H. Spurgeon</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>All of Grace</title><author>C. H. Spurgeon</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>p[@rend='quote']: a paragraph this edition sets as a quotation.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-06" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">ALL of GRACE</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p1"><hi rend="italic">An Earnest Word with Those</hi></titlePart><titlePart type="sub" xml:id="ccel-i-p2"><hi rend="italic">Who Are Seeking Salvation</hi></titlePart><titlePart type="sub" xml:id="ccel-i-p3"><hi rend="italic">by the Lord Jesus Christ</hi></titlePart><byline xml:id="ccel-i-p4">By <docAuthor xml:id="ccel-i-p4.1">C.H. SPURGEON</docAuthor></byline><epigraph><p xml:id="ccel-i-p5"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>Where sin abounded,<lb/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>All of Grace</title><author>C. H. Spurgeon</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><date>2000-07-09</date><idno>grace</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>All of Grace</title><author>C. H. Spurgeon</author><note>Converted from the CCEL ThML file grace.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>p[@rend='quote']: a paragraph this edition sets as a quotation.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>seg[@rend='smallcaps'][@ana='#edition-only']: words this edition sets in small capitals (printed in capitals, or emphasized).</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-26" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (grace.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i"><docTitle><titlePart type="main" xml:id="ccel-i-p0.1">ALL of GRACE</titlePart></docTitle><titlePart type="sub" xml:id="ccel-i-p1"><hi rend="italic">An Earnest Word with Those</hi></titlePart><titlePart type="sub" xml:id="ccel-i-p2"><hi rend="italic">Who Are Seeking Salvation</hi></titlePart><titlePart type="sub" xml:id="ccel-i-p3"><hi rend="italic">by the Lord Jesus Christ</hi></titlePart><byline xml:id="ccel-i-p4">By <docAuthor xml:id="ccel-i-p4.1">C.H. SPURGEON</docAuthor></byline><epigraph><p xml:id="ccel-i-p5"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>Where sin abounded,<lb/>
 grace did much more abound.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice><lb/>
 <ref type="scripture" cRef="Rom.5.20">Romans 5:20</ref></p></epigraph></titlePage></front><body><div type="chapter" n="1" xml:id="ccel-ii">
 <head xml:id="ccel-ii-p0.1">TO YOU</head>
 
 <head type="edition" change="#review">To You</head>
 
-<p xml:id="ccel-ii-p1">HE WHO SPOKE and wrote this message will be greatly
+<p xml:id="ccel-ii-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>HE</orig><reg resp="#editor" type="case">He</reg></choice> <choice><orig>WHO</orig><reg resp="#editor" type="case">who</reg></choice> <choice><orig>SPOKE</orig><reg resp="#editor" type="case">spoke</reg></choice></seg> and wrote this message will be greatly
 disappointed if it does not lead many to the Lord Jesus. It is
 sent forth in childlike dependence upon the power of God the Holy
 Ghost, to use it in the conversion of millions, if so He pleases.
@@ -50,7 +50,7 @@ voice, harden not your hearts.<choice><orig>"</orig><reg resp="#auto" type="punc
 </div><div type="chapter" n="2" xml:id="ccel-iii">
 <head xml:id="ccel-iii-p0.1">WHAT ARE WE AT?</head>
 <head type="edition" change="#review">What Are We At?</head>
-<p xml:id="ccel-iii-p1">I HEARD A STORY; I think it came from the North Country: A
+<p xml:id="ccel-iii-p1"><seg rend="smallcaps" ana="#edition-only">I <choice><orig>HEARD</orig><reg resp="#editor" type="case">heard</reg></choice> <choice><orig>A</orig><reg resp="#editor" type="case">a</reg></choice> <choice><orig>STORY</orig><reg resp="#editor" type="case">story</reg></choice></seg>; I think it came from the North Country: A
 minister called upon a poor woman, intending to give her help;
 for he knew that she was very poor. With his money in his hand,
 he knocked at the door; but she did not answer. He concluded she
@@ -64,7 +64,7 @@ was the man calling for the rent.<choice><orig>"</orig><reg resp="#auto" type="p
 this meant. Now, it is my desire to be heard, and therefore I
 want to say that I am not calling for the rent; indeed, it is not
 the object of this book to ask anything of you, but to tell you
-that salvation is <choice><orig>all</orig><reg resp="#editor" type="case">ALL</reg></choice> <choice><orig>of</orig><reg resp="#editor" type="case">OF</reg></choice> <choice><orig>grace</orig><reg resp="#editor" type="case">GRACE</reg></choice>, which means, free, gratis, for
+that salvation is <seg rend="smallcaps" ana="#edition-only">all of grace</seg>, which means, free, gratis, for
 nothing.</p>
 <p xml:id="ccel-iii-p2">Oftentimes, when we are anxious to win attention, our hearer
 thinks, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>Ah! now I am going to be told my duty. It is the man
@@ -94,7 +94,7 @@ Why not? O blessed Spirit of all grace, make it so!</p>
 </div><div type="chapter" n="3" xml:id="ccel-iv">
 <head xml:id="ccel-iv-p0.1">GOD JUSTIFIETH THE UNGODLY</head>
 <head type="edition" change="#review">God Justifieth The Ungodly</head>
-<p xml:id="ccel-iv-p1">THIS MESSAGE is for you. You will find the text in the
+<p xml:id="ccel-iv-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>THIS</orig><reg resp="#editor" type="case">This</reg></choice> <choice><orig>MESSAGE</orig><reg resp="#editor" type="case">message</reg></choice></seg> is for you. You will find the text in the
 Epistle to the Romans, in the fourth chapter and the fifth verse:</p>
 <p xml:id="ccel-iv-p2" rend="quote" change="#review">To him that worketh not, but believeth on him that
 justifieth the ungodly, his faith is counted for righteousness.</p>
@@ -183,7 +183,7 @@ certainty that there was no God whatever. Possibly you have lived
 a great many years in this way, so that you are now pretty well
 settled in your ways, and yet God is not in any of them. If you
 were labeled</p>
-<p xml:id="ccel-iv-p8" rend="center" prev="#ccel-iv-p7" change="#review" next="#ccel-iv-p9">UNGODLY</p>
+<p xml:id="ccel-iv-p8" rend="center" prev="#ccel-iv-p7" change="#review" next="#ccel-iv-p9"><seg rend="smallcaps" ana="#edition-only"><choice><orig>UNGODLY</orig><reg resp="#editor" type="case">ungodly</reg></choice></seg></p>
 <p xml:id="ccel-iv-p9" prev="#ccel-iv-p8" change="#review">it would as well describe you as if the sea were to be
 labeled salt water. Would it not?</p>
 <p xml:id="ccel-iv-p10">Possibly you are a person of another sort; you have
@@ -366,7 +366,7 @@ Reader, do not delay till you have well considered this matter.</p>
 <head type="edition" change="#review">“It Is God That Justifieth”</head>
 <p xml:id="ccel-v-p1"><ref type="scripture" cRef="Rom.8.33">Romans 8:33</ref></p>
 
-<p xml:id="ccel-v-p2">A WONDERFUL THING it is, this being justified, or made just.
+<p xml:id="ccel-v-p2"><seg rend="smallcaps" ana="#edition-only">A <choice><orig>WONDERFUL</orig><reg resp="#editor" type="case">wonderful</reg></choice> <choice><orig>THING</orig><reg resp="#editor" type="case">thing</reg></choice></seg> it is, this being justified, or made just.
 If we had never broken the laws of God we should not have needed
 it, for we should have been just in ourselves. He who has all his
 life done the things which he ought to have done, and has never
@@ -507,7 +507,7 @@ in the dark when I say this. <choice><orig>"</orig><reg resp="#auto" type="punct
 shall be forgiven unto men.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> Though you are steeped up to your
 throat in crime, He can with a word remove the defilement, and
 say, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>I will, be thou clean.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> The Lord is a great forgiver.</p>
-<p xml:id="ccel-v-p15"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>I <choice><orig>believe</orig><reg resp="#editor" type="case">BELIEVE</reg></choice> <choice><orig>in</orig><reg resp="#editor" type="case">IN</reg></choice> <choice><orig>the</orig><reg resp="#editor" type="case">THE</reg></choice> <choice><orig>Forgiveness</orig><reg resp="#editor" type="case">FORGIVENESS</reg></choice> <choice><orig>of</orig><reg resp="#editor" type="case">OF</reg></choice> <choice><orig>Sins</orig><reg resp="#editor" type="case">SINS</reg></choice>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> <choice><orig>Do</orig><reg resp="#editor" type="case">DO</reg></choice> <choice><orig>You</orig><reg resp="#editor" type="case">YOU</reg></choice>?</p>
+<p xml:id="ccel-v-p15"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><seg rend="smallcaps" ana="#edition-only">I believe in the <choice><orig>Forgiveness</orig><reg resp="#editor" type="case">forgiveness</reg></choice> of <choice><orig>Sins</orig><reg resp="#editor" type="case">sins</reg></choice></seg>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> <seg rend="smallcaps" ana="#edition-only">Do <choice><orig>You</orig><reg resp="#editor" type="case">you</reg></choice></seg>?</p>
 <p xml:id="ccel-v-p16">He can even at this hour pronounce the sentence, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>Thy sins
 be forgiven thee; go in peace;<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> and if He do this, no power in
 Heaven, or earth, or under the earth, can put you under
@@ -555,7 +555,7 @@ of God which passeth all understanding.</p>
 </div><div type="chapter" n="5" xml:id="ccel-vi">
 <head xml:id="ccel-vi-p0.1">JUST AND THE JUSTIFIER</head>
 <head type="edition" change="#review">Just And The Justifier</head>
-<p xml:id="ccel-vi-p1">WE HAVE SEEN the ungodly justified, and have considered the
+<p xml:id="ccel-vi-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>WE</orig><reg resp="#editor" type="case">We</reg></choice> <choice><orig>HAVE</orig><reg resp="#editor" type="case">have</reg></choice> <choice><orig>SEEN</orig><reg resp="#editor" type="case">seen</reg></choice></seg> the ungodly justified, and have considered the
 great truth, that only God can justify any man; we now come a
 step further and make the inquiry<choice><orig>-</orig><reg resp="#auto" type="punctuation"> — </reg></choice><choice><orig>-</orig><reg resp="#auto" type="punctuation"></reg></choice>How can a just God justify
 guilty men? Here we are met with a full answer in the words of
@@ -728,7 +728,7 @@ I set before you?</p>
 </div><div type="chapter" n="6" xml:id="ccel-vii">
 <head xml:id="ccel-vii-p0.1">CONCERNING DELIVERANCE FROM SINNING</head>
 <head type="edition" change="#review">Concerning Deliverance From Sinning</head>
-<p xml:id="ccel-vii-p1">IN THIS PLACE I would say a plain word or two to those who
+<p xml:id="ccel-vii-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>IN</orig><reg resp="#editor" type="case">In</reg></choice> <choice><orig>THIS</orig><reg resp="#editor" type="case">this</reg></choice> <choice><orig>PLACE</orig><reg resp="#editor" type="case">place</reg></choice></seg> I would say a plain word or two to those who
 understand the method of justification by faith which is in
 Christ Jesus, but whose trouble is that they cannot cease from
 sin. We can never be happy, restful, or spiritually healthy till
@@ -922,7 +922,7 @@ praise and honor and glory forever and ever! Amen.</p></div><div type="chapter" 
 <head type="edition" change="#review">By Grace Through Faith</head>
 <p xml:id="ccel-viii-p1" rend="quote" change="#review"><choice><orig>"</orig><reg resp="#editor" type="punctuation"></reg></choice>By grace are ye saved, through faith<choice><orig>"</orig><reg resp="#editor" type="punctuation"></reg></choice> (<ref type="scripture" cRef="Eph.2.8">Ephesians 2:8</ref><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>).</p>
 
-<p xml:id="ccel-viii-p2">I THINK IT WELL to turn a little to one side that I may ask
+<p xml:id="ccel-viii-p2"><seg rend="smallcaps" ana="#edition-only">I <choice><orig>THINK</orig><reg resp="#editor" type="case">think</reg></choice> <choice><orig>IT</orig><reg resp="#editor" type="case">it</reg></choice> <choice><orig>WELL</orig><reg resp="#editor" type="case">well</reg></choice></seg> to turn a little to one side that I may ask
 my reader to observe adoringly the fountain-head of our
 salvation, which is the grace of God. <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>By grace are ye saved.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice>
 Because God is gracious, therefore sinful men are forgiven,
@@ -987,14 +987,14 @@ grain of mustard seed. The power lies in the grace of God, and
 not in our faith. Great messages can be sent along slender wires,
 and the peace-giving witness of the Holy Spirit can reach the
 heart by means of a thread-like faith which seems almost unable
-to sustain its own weight. Think more of <choice><orig>Him</orig><reg resp="#editor" type="case">HIM</reg></choice> to whom you look
+to sustain its own weight. Think more of <seg rend="smallcaps" ana="#edition-only">Him</seg> to whom you look
 than of the look itself. You must look away even from your own
 looking, and see nothing but Jesus, and the grace of God revealed
 in Him.</p>
 </div><div type="chapter" n="8" xml:id="ccel-ix">
 <head xml:id="ccel-ix-p0.1">FAITH, WHAT IS IT?</head>
 <head type="edition" change="#review">Faith, What Is It?</head>
-<p xml:id="ccel-ix-p1">WHAT IS THIS FAITH concerning which it is said, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>By grace
+<p xml:id="ccel-ix-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>WHAT</orig><reg resp="#editor" type="case">What</reg></choice> <choice><orig>IS</orig><reg resp="#editor" type="case">is</reg></choice> <choice><orig>THIS</orig><reg resp="#editor" type="case">this</reg></choice> <choice><orig>FAITH</orig><reg resp="#editor" type="case">faith</reg></choice></seg> concerning which it is said, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>By grace
 are ye saved, through faith?<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> There are many descriptions of
 faith; but almost all the definitions I have met with have made
 me understand it less than I did before I saw them. The Negro
@@ -1132,11 +1132,11 @@ trusted in the Lord Jesus has ever been cast out, though he may
 never have been able intelligently to define his faith. Oh dear
 reader, receive the Lord Jesus into your soul, and you shall live
 forever! </p>
-<p><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><choice><orig>He</orig><reg resp="#editor" type="case">HE</reg></choice> <choice><orig>that</orig><reg resp="#editor" type="case">THAT</reg></choice> <choice><orig>believeth</orig><reg resp="#editor" type="case">BELIEVETH</reg></choice> <choice><orig>in</orig><reg resp="#editor" type="case">IN</reg></choice> <choice><orig>Him</orig><reg resp="#editor" type="case">HIM</reg></choice> <choice><orig>hath</orig><reg resp="#editor" type="case">HATH</reg></choice> <choice><orig>everlasting</orig><reg resp="#editor" type="case">EVERLASTING</reg></choice> <choice><orig>life</orig><reg resp="#editor" type="case">LIFE</reg></choice>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></p>
+<p><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><seg rend="smallcaps" ana="#edition-only">He that believeth in Him hath everlasting life</seg>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></p>
 </div><div type="chapter" n="9" xml:id="ccel-x">
 <head xml:id="ccel-x-p0.1">HOW MAY FAITH BE ILLUSTRATED?</head>
 <head type="edition" change="#review">How May Faith Be Illustrated?</head>
-<p xml:id="ccel-x-p1">TO MAKE THE MATTER <choice><orig>Of</orig><reg resp="#editor" type="case">of</reg></choice> faith clearer still, I will give you a
+<p xml:id="ccel-x-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>TO</orig><reg resp="#editor" type="case">To</reg></choice> <choice><orig>MAKE</orig><reg resp="#editor" type="case">make</reg></choice> <choice><orig>THE</orig><reg resp="#editor" type="case">the</reg></choice> <choice><orig>MATTER</orig><reg resp="#editor" type="case">matter</reg></choice></seg> <choice><orig>Of</orig><reg resp="#editor" type="case">of</reg></choice> faith clearer still, I will give you a
 few illustrations. Though the Holy Spirit alone can make my
 reader see, it is my duty and my joy to furnish all the light I
 can, and to pray the divine Lord to open blind eyes. Oh that my
@@ -1339,7 +1339,7 @@ confidence. Brother, come with me, and believe our Father and our
 </div><div type="chapter" n="10" xml:id="ccel-xi">
 <head xml:id="ccel-xi-p0.1">WHY ARE WE SAVED BY FAITH?</head>
 <head type="edition" change="#review">Why Are We Saved By Faith?</head>
-<p xml:id="ccel-xi-p1">WHY IS FAITH SELECTED as the channel of salvation? No doubt
+<p xml:id="ccel-xi-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>WHY</orig><reg resp="#editor" type="case">Why</reg></choice> <choice><orig>IS</orig><reg resp="#editor" type="case">is</reg></choice> <choice><orig>FAITH</orig><reg resp="#editor" type="case">faith</reg></choice> <choice><orig>SELECTED</orig><reg resp="#editor" type="case">selected</reg></choice></seg> as the channel of salvation? No doubt
 this inquiry is often made. <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>By grace are ye saved through
 faith,<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> is assuredly the doctrine of Holy Scripture, and the
 ordinance of God; but why is it so? Why is faith selected rather
@@ -1484,7 +1484,7 @@ commends itself to the mercy and the wisdom of our gracious God?</p>
 </div><div type="chapter" n="11" xml:id="ccel-xii">
 <head xml:id="ccel-xii-p0.1">ALAS!  I CAN DO NOTHING!</head>
 <head type="edition" change="#review">Alas! I Can Do Nothing!</head>
-<p xml:id="ccel-xii-p1">AFTER THE ANXIOUS HEART has accepted the doctrine of
+<p xml:id="ccel-xii-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>AFTER</orig><reg resp="#editor" type="case">After</reg></choice> <choice><orig>THE</orig><reg resp="#editor" type="case">the</reg></choice> <choice><orig>ANXIOUS</orig><reg resp="#editor" type="case">anxious</reg></choice> <choice><orig>HEART</orig><reg resp="#editor" type="case">heart</reg></choice></seg> has accepted the doctrine of
 atonement, and learned the great truth that salvation is by faith
 in the Lord Jesus, it is often sore troubled with a sense of
 inability toward that which is good. Many are groaning, <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>I can do
@@ -1896,7 +1896,7 @@ Lord Jesus, and it will be well!</p>
 </div><div type="chapter" n="12" xml:id="ccel-xiii">
 <head xml:id="ccel-xiii-p0.1">THE INCREASE OF FAITH</head>
 <head type="edition" change="#review">The Increase Of Faith</head>
-<p xml:id="ccel-xiii-p1">HOW CAN WE OBTAIN an increase of faith? This is a very
+<p xml:id="ccel-xiii-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>HOW</orig><reg resp="#editor" type="case">How</reg></choice> <choice><orig>CAN</orig><reg resp="#editor" type="case">can</reg></choice> <choice><orig>WE</orig><reg resp="#editor" type="case">we</reg></choice> <choice><orig>OBTAIN</orig><reg resp="#editor" type="case">obtain</reg></choice></seg> an increase of faith? This is a very
 earnest question to many. They say they want to believe, but
 cannot. A great deal of nonsense is talked upon this subject. Let
 us be strictly practical in our dealing with it. Common sense is
@@ -2040,7 +2040,7 @@ bring you at this very moment to believe in the Lord Jesus! Amen.</p>
 </div><div type="chapter" n="13" xml:id="ccel-xiv">
 <head xml:id="ccel-xiv-p0.1">REGENERATION AND THE HOLY SPIRIT</head>
 <head type="edition" change="#review">Regeneration And The Holy Spirit</head>
-<p xml:id="ccel-xiv-p1"><choice><orig>YE</orig><reg resp="#editor" type="grammar">“YE</reg></choice> MUST BE BORN AGAIN.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> This word of our Lord Jesus has
+<p xml:id="ccel-xiv-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>YE MUST BE BORN AGAIN</orig><reg resp="#editor" type="emendation">“Ye must be born again</reg></choice></seg>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> This word of our Lord Jesus has
 appeared to flame in the way of many, like the drawn sword of the
 cherub at the gate of Paradise. They have despaired, because this
 change is beyond their utmost effort. The new birth is from
@@ -2139,7 +2139,7 @@ a passion for discussing metaphysical subtleties.</p>
 </div><div type="chapter" n="14" xml:id="ccel-xv">
 <head xml:id="ccel-xv-p0.1"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>MY REDEEMER LIVETH<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></head>
 <head type="edition" change="#review">“My Redeemer Liveth”</head>
-<p xml:id="ccel-xv-p1">CONTINUALLY have I spoken to the reader concerning Christ
+<p xml:id="ccel-xv-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>CONTINUALLY</orig><reg resp="#editor" type="case">Continually</reg></choice></seg> have I spoken to the reader concerning Christ
 crucified, who is the great hope of the guilty; but it is our
 wisdom to remember that our Lord has risen from the dead and
 lives eternally.</p>
@@ -2217,7 +2217,7 @@ this great Advocate.</p>
 </div><div type="chapter" n="15" xml:id="ccel-xvi">
 <head xml:id="ccel-xvi-p0.1">REPENTANCE MUST GO WITH FORGIVENESS</head>
 <head type="edition" change="#review">Repentance Must Go With Forgiveness</head>
-<p xml:id="ccel-xvi-p1">IT IS CLEAR from the text which we have lately quoted that
+<p xml:id="ccel-xvi-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>IT</orig><reg resp="#editor" type="case">It</reg></choice> <choice><orig>IS</orig><reg resp="#editor" type="case">is</reg></choice> <choice><orig>CLEAR</orig><reg resp="#editor" type="case">clear</reg></choice></seg> from the text which we have lately quoted that
 repentance is bound up with the forgiveness of sins. In <ref type="scripture" cRef="Acts.5.31">Acts 5:31</ref>
 we read that Jesus is <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>exalted to give repentance and forgiveness
 of sins.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> These two blessings come from that sacred hand which
@@ -2409,10 +2409,10 @@ The Spirit of God works in us to will and to do according to
 at once, that He may lead us to Jesus, who will freely give us
 the double benediction of repentance and remission, according to
 the riches of His grace.</p>
-<p xml:id="ccel-xvi-p13"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>BY GRACE ARE YE SAVED.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></p></div><div type="chapter" n="16" xml:id="ccel-xvii">
+<p xml:id="ccel-xvi-p13"><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><seg rend="smallcaps" ana="#edition-only"><choice><orig>BY</orig><reg resp="#editor" type="case">By</reg></choice> <choice><orig>GRACE</orig><reg resp="#editor" type="case">grace</reg></choice> <choice><orig>ARE</orig><reg resp="#editor" type="case">are</reg></choice> <choice><orig>YE</orig><reg resp="#editor" type="case">ye</reg></choice> <choice><orig>SAVED</orig><reg resp="#editor" type="case">saved</reg></choice></seg>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice></p></div><div type="chapter" n="16" xml:id="ccel-xvii">
 <head xml:id="ccel-xvii-p0.1">HOW REPENTANCE IS GIVEN</head>
 <head type="edition" change="#review">How Repentance Is Given</head>
-<p xml:id="ccel-xvii-p1">TO RETURN to the grand text: </p>
+<p xml:id="ccel-xvii-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>TO</orig><reg resp="#editor" type="case">To</reg></choice> <choice><orig>RETURN</orig><reg resp="#editor" type="case">return</reg></choice></seg> to the grand text: </p>
 <p rend="quote" change="#review"><choice><orig>"</orig><reg resp="#editor" type="punctuation"></reg></choice>Him hath God exalted with his
 right hand to be a Prince and a <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice>, for to give repentance
 to Israel, and forgiveness of sins.</p>
@@ -2558,10 +2558,10 @@ natural heart to find repentance. Look to the Living One for
 life. Look to Jesus for all you need between Hell Gate and Heaven
 Gate. Never seek elsewhere for any part of that which Jesus loves
 to bestow; but remember,</p>
-<p xml:id="ccel-xvii-p10"><choice><orig>Christ</orig><reg resp="#editor" type="case">CHRIST</reg></choice> <choice><orig>is</orig><reg resp="#editor" type="case">IS</reg></choice> <choice><orig>all</orig><reg resp="#editor" type="case">ALL</reg></choice>.</p></div><div type="chapter" n="17" xml:id="ccel-xviii">
+<p xml:id="ccel-xvii-p10"><seg rend="smallcaps" ana="#edition-only">Christ is all</seg>.</p></div><div type="chapter" n="17" xml:id="ccel-xviii">
 <head xml:id="ccel-xviii-p0.1">THE FEAR OF FINAL FALLING</head>
 <head type="edition" change="#review">The Fear Of Final Falling</head>
-<p xml:id="ccel-xviii-p1">A DARK FEAR haunts the minds of many who are coming to
+<p xml:id="ccel-xviii-p1"><seg rend="smallcaps" ana="#edition-only">A <choice><orig>DARK</orig><reg resp="#editor" type="case">dark</reg></choice> <choice><orig>FEAR</orig><reg resp="#editor" type="case">fear</reg></choice></seg> haunts the minds of many who are coming to
 Christ; they are afraid that they shall not persevere to the end.
 I have heard the seeker say: <choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>If I were to cast my soul upon
 Jesus, yet peradventure I should after all draw back into
@@ -2731,7 +2731,7 @@ to keep us from failing, and glorify us with His Son.</p>
 </div><div type="chapter" n="18" xml:id="ccel-xix">
 <head xml:id="ccel-xix-p0.1">CONFIRMATION</head>
 <head type="edition" change="#review">Confirmation</head>
-<p xml:id="ccel-xix-p1">I WANT YOU TO NOTICE the security which Paul confidently
+<p xml:id="ccel-xix-p1"><seg rend="smallcaps" ana="#edition-only">I <choice><orig>WANT</orig><reg resp="#editor" type="case">want</reg></choice> <choice><orig>YOU</orig><reg resp="#editor" type="case">you</reg></choice> <choice><orig>TO</orig><reg resp="#editor" type="case">to</reg></choice> <choice><orig>NOTICE</orig><reg resp="#editor" type="case">notice</reg></choice></seg> the security which Paul confidently
 expected for all the saints. He says<choice><orig>-</orig><reg resp="#auto" type="punctuation"> — </reg></choice><choice><orig>-</orig><reg resp="#auto" type="punctuation"></reg></choice><choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice>Who shall confirm you unto
 the end, that ye may be blameless in the day of our Lord Jesus
 Christ.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> This is the kind of confirmation which is above all
@@ -2877,7 +2877,7 @@ wages continual war with all sin.</p>
 </div><div type="chapter" n="19" xml:id="ccel-xx">
 <head xml:id="ccel-xx-p0.1">WHY SAINTS PERSEVERE</head>
 <head type="edition" change="#review">Why Saints Persevere</head>
-<p xml:id="ccel-xx-p1">THE HOPE which filled the heart of Paul concerning the
+<p xml:id="ccel-xx-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>THE</orig><reg resp="#editor" type="case">The</reg></choice> <choice><orig>HOPE</orig><reg resp="#editor" type="case">hope</reg></choice></seg> which filled the heart of Paul concerning the
 Corinthian brethren we have already seen to be full of comfort to
 those who trembled as to their future. But why was it that he
 believed that the brethren would be confirmed unto the end?</p>
@@ -2916,7 +2916,7 @@ bless, and therefore believers persevere in being blessed. He
 continues to keep His people, and therefore they continue to keep
 His commandments. This is good solid ground to rest upon, and it
 is delightfully consistent with the title of this little book,
-<choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><choice><orig>all</orig><reg resp="#editor" type="case">ALL</reg></choice> <choice><orig>of</orig><reg resp="#editor" type="case">OF</reg></choice> <choice><orig>grace</orig><reg resp="#editor" type="case">GRACE</reg></choice>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> Thus it is free favor and infinite mercy which
+<choice><orig>"</orig><reg resp="#auto" type="punctuation">“</reg></choice><seg rend="smallcaps" ana="#edition-only"><choice><orig>all</orig><reg resp="#editor" type="case">All</reg></choice> of <choice><orig>grace</orig><reg resp="#editor" type="case">Grace</reg></choice></seg>.<choice><orig>"</orig><reg resp="#auto" type="punctuation">”</reg></choice> Thus it is free favor and infinite mercy which
 ring in the dawn of salvation, and the same sweet bells sound
 melodiously through the whole day of grace.</p>
 <p xml:id="ccel-xx-p6">You see that the only reasons for hoping that we shall be
@@ -3003,7 +3003,7 @@ love of God which is in Christ Jesus our Lord?<choice><orig>"</orig><reg resp="#
 </div><div type="chapter" n="20" xml:id="ccel-xxi">
 <head xml:id="ccel-xxi-p0.1">CLOSE</head>
 <head type="edition" change="#review">Close</head>
-<p xml:id="ccel-xxi-p1">IF MY READER has not followed me step by step as he has read
+<p xml:id="ccel-xxi-p1"><seg rend="smallcaps" ana="#edition-only"><choice><orig>IF</orig><reg resp="#editor" type="case">If</reg></choice> <choice><orig>MY</orig><reg resp="#editor" type="case">my</reg></choice> <choice><orig>READER</orig><reg resp="#editor" type="case">reader</reg></choice></seg> has not followed me step by step as he has read
 my pages, I am truly sorry. Book-reading is of small value unless
 the truths which pass before the mind are grasped, appropriated,
 and carried out to their practical issues. It is as if one saw
@@ -3031,8 +3031,8 @@ give your soul a thought? Will you perish through sheer
 carelessness? Oh, do not so; but weigh these solemn matters, and
 make sure work for eternity! Do not refuse Jesus, His love, His
 blood, His salvation. Why should you do so? Can you do it?</p>
-<p xml:id="ccel-xxi-p2" rend="center" next="#ccel-xxi-p3">I <choice><orig>beseech</orig><reg resp="#editor" type="case">BESEECH</reg></choice> <choice><orig>you</orig><reg resp="#editor" type="case">YOU</reg></choice>,</p>
-<p xml:id="ccel-xxi-p3" rend="center" prev="#ccel-xxi-p2" change="#review"><choice><orig>Do</orig><reg resp="#editor" type="case">DO</reg></choice> <choice><orig>not</orig><reg resp="#editor" type="case">NOT</reg></choice> <choice><orig>turn</orig><reg resp="#editor" type="case">TURN</reg></choice> <choice><orig>away</orig><reg resp="#editor" type="case">AWAY</reg></choice> <choice><orig>from</orig><reg resp="#editor" type="case">FROM</reg></choice> <choice><orig>your</orig><reg resp="#editor" type="case">YOUR</reg></choice> <choice><orig>Redeemer</orig><reg resp="#editor" type="case">REDEEMER</reg></choice>!</p>
+<p xml:id="ccel-xxi-p2" rend="center" next="#ccel-xxi-p3"><seg rend="smallcaps" ana="#edition-only">I beseech you</seg>,</p>
+<p xml:id="ccel-xxi-p3" rend="center" prev="#ccel-xxi-p2" change="#review"><seg rend="smallcaps" ana="#edition-only"><choice><orig>Do</orig><reg resp="#editor" type="case">do</reg></choice> not turn away from your Redeemer</seg>!</p>
 
 <p xml:id="ccel-xxi-p4">If, on the other hand, my prayers are heard, and you, my
 reader, have been led to trust the Lord Jesus and receive from
@@ -3069,7 +3069,7 @@ himself. Get to the work of the Lord<choice><orig>-</orig><reg resp="#auto" type
 home. Visit next your neighbors. Enlighten the village or the
 street in which you live. Scatter the word of the Lord wherever
 your hand can reach.</p>
-<p xml:id="ccel-xxi-p6"><choice><orig>Reader</orig><reg resp="#editor" type="case">READER</reg></choice>, <choice><orig>meet</orig><reg resp="#editor" type="case">MEET</reg></choice> <choice><orig>me</orig><reg resp="#editor" type="case">ME</reg></choice> <choice><orig>in</orig><reg resp="#editor" type="case">IN</reg></choice> <choice><orig>heaven</orig><reg resp="#editor" type="case">HEAVEN</reg></choice>! Do not go down to hell. There is
+<p xml:id="ccel-xxi-p6"><seg rend="smallcaps" ana="#edition-only">Reader, meet me in heaven</seg>! Do not go down to hell. There is
 no coming back again from that abode of misery. Why do you wish
 to enter the way of death when <choice><orig>Heaven's</orig><reg resp="#auto" type="punctuation">Heaven’s</reg></choice> gate is open before you?
 Do not refuse the free pardon, the full salvation which Jesus
@@ -3078,10 +3078,10 @@ had enough of resolving, come to action. Believe in Jesus now,
 with full and immediate decision. Take with you words and come
 unto your Lord this day, even this day. Remember, O soul, it may
 be</p>
-<p xml:id="ccel-xxi-p7" rend="center"><choice><orig>now</orig><reg resp="#editor" type="case">NOW</reg></choice> <choice><orig>or</orig><reg resp="#editor" type="case">OR</reg></choice> <choice><orig>never</orig><reg resp="#editor" type="case">NEVER</reg></choice></p>
-<p xml:id="ccel-xxi-p8" next="#ccel-xxi-p9">with you. Let it be NOW; it would be horrible that it should
+<p xml:id="ccel-xxi-p7" rend="center"><seg rend="smallcaps" ana="#edition-only"><choice><orig>now</orig><reg resp="#editor" type="case">Now</reg></choice> or never</seg></p>
+<p xml:id="ccel-xxi-p8" next="#ccel-xxi-p9">with you. Let it be <seg rend="smallcaps" ana="#edition-only"><choice><orig>NOW</orig><reg resp="#editor" type="case">now</reg></choice></seg>; it would be horrible that it should
 be never.</p>
 <p xml:id="ccel-xxi-p9" prev="#ccel-xxi-p8" change="#review">Again I charge you,</p>
-<p xml:id="ccel-xxi-p10" rend="center"><choice><orig>meet</orig><reg resp="#editor" type="case">MEET</reg></choice> <choice><orig>me</orig><reg resp="#editor" type="case">ME</reg></choice> <choice><orig>in</orig><reg resp="#editor" type="case">IN</reg></choice> <choice><orig>heaven</orig><reg resp="#editor" type="case">HEAVEN</reg></choice>.</p>
+<p xml:id="ccel-xxi-p10" rend="center"><seg rend="smallcaps" ana="#edition-only"><choice><orig>meet</orig><reg resp="#editor" type="case">Meet</reg></choice> me in heaven</seg>.</p>
 
 </div></body></text></TEI>
