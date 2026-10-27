@@ -8,7 +8,7 @@
 // the foot of the spine and the back, one ground round the whole wrap.
 //
 //   #import "../../../scripts/set_cover.typ": *
-//   #import "@local/fgbooks:0.13.3": press-seal
+//   #import "@local/fgbooks:0.14.0": press-seal
 //   #set-cover(
 //     seal: press-seal,
 //     title-display: [...],      // lettered() lines

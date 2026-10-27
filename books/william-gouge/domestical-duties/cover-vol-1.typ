@@ -1,5 +1,5 @@
 #import "../../../scripts/set_cover.typ": *
-#import "@local/fgbooks:0.13.3": press-seal
+#import "@local/fgbooks:0.14.0": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press set design (see
 // scripts/set_cover.typ), lettered after the 1622 title page: the whole

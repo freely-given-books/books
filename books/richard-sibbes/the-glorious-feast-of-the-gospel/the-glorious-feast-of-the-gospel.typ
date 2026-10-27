@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.3": *
+#import "@local/fgbooks:0.14.0": *
 
 #show: book.with(
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.7in, inside: 1in),   // Lulu: 151-400 pages; outside 0.7in keeps the
