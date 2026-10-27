@@ -24,7 +24,7 @@ Now, look. If there be anywhere in the world a physician who has discovered sure
 
 Do you think that you must be lost because you are a sinner? This is the reason why you can be saved. Because you own yourself to be a sinner I would encourage you to believe that grace is ordained for such as you are. One of our hymn-writers even dared to say:
 
-#quote[A sinner is a sacred thing; The Holy Ghost hath made him so.]
+#quote[A sinner is a sacred thing; \ The Holy Ghost hath made him so.]
 
 It is truly so, that Jesus seeks and saves that which is lost. He died and made a real atonement for real sinners. When men are not playing with words, or calling themselves “miserable sinners,” out of mere compliment, I feel overjoyed to meet with them. I would be glad to talk all night to bona fide sinners. The inn of mercy never closes its doors upon such, neither weekdays nor Sunday. Our Lord Jesus did not die for imaginary sins, but His heart’s blood was spilt to wash out deep crimson stains, which nothing else can remove.
 

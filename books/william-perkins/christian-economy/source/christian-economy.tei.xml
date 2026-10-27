@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-12" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1828,9 +1828,9 @@ that God by <choice><orig>expresse</orig><reg resp="#auto" type="spelling">expre
 <choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>. 18. 12. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> with the mothers sister<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
 vers. 13. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> with the fathers <choice><orig>brother</orig><reg resp="#editor" type="spelling">brothers</reg></choice>
 wife, which is also the aunt, vers. 14.
-<choice><orig>therefore</orig><reg resp="#auto" type="spelling">Therefore</reg></choice> by the law of proportion, <supplied reason="illegible" cert="medium" resp="#auto">it<!-- it forbiddeth --><gap reason="illegible" extent="1 letter">
+<choice><orig>therefore</orig><reg resp="#auto" type="spelling">Therefore</reg></choice> by the law of proportion, <choice><orig><supplied reason="illegible" cert="high" resp="#editor">he<!-- filled in by the editor from the page image --><gap reason="illegible" extent="1 letter">
                      <desc>•</desc>
-                  </gap></supplied>
+                  </gap></supplied></orig><reg resp="#editor" type="spelling">he</reg><reg resp="#auto" type="spelling">it</reg></choice>
 forbiddeth matching with the childr<supplied reason="illegible" cert="high" resp="#auto">en<!-- children --><gap reason="illegible" extent="2 letters">
                      <desc>••</desc>
                   </gap></supplied>
@@ -2068,7 +2068,7 @@ is, the one to the other. Ezech. 1. 9. <hi>The
 one to the other. <choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, <hi>Moses</hi> <choice><orig>him<g ref="char:EOLhyphen"/>selfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>
 there <choice><orig>alledgeth</orig><reg resp="#auto" type="spelling">allegeth</reg></choice> two reasons against
 <hi><choice><orig>Polygamie</orig><reg resp="#auto" type="spelling">Polygamy</reg></choice>:</hi> the one is, because the man
-is to <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>, cherish and comfort this wife;
+is to <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>, cherish and comfort <choice><orig>this</orig><reg resp="#editor" type="spelling">his</reg></choice> wife;
 whereas, if he should take <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> him an<g ref="char:EOLhyphen"/>other
 besides her, he should greatly vex
 his first <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> wife. The other, because

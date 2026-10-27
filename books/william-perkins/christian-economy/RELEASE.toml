@@ -1,0 +1,17 @@
+# Release record of Christian Economy: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, william-perkins/christian-economy/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; two readings corrected from the 1609 page images."
+
+[[source]]
+file = "source/A09377.tcp.xml"
+description = "EEBO-TCP A09377: Christian Oeconomie, or, A Short Survey of the Right Manner of Erecting and Ordering a Family (London, Felix Kyngston for Edmund Weaver, 1609), translated by Thomas Pickering"
+url = "https://github.com/textcreationpartnership/A09377"
+sha256 = "83d0f693c303aed44c3d5c81580ef7eeb28c37efdca2d104f298ae6bdb082b05"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1609 printing, archive.org scan (the copy TCP was keyed from), local OCR (GLM-OCR and Tesseract) in source/ocr/: two readings corrected (\"his wife\", \"he forbiddeth\"); the page images also settled the proofread's questions (source/proofread-report.md)"
+url = "https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0"

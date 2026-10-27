@@ -21,6 +21,7 @@ restored from the 1700 printing.
 | `common.typ` | the `#chapter[long][short]` heading macro (short title for running heads) |
 | `the-anatomy-of-simon-magus.typ` | print edition (imports the `fgbooks` template) |
 | `ebook-front.html`, `ebook-appendix.html` | ebook title page and appendix divider |
+| `cover.typ`, `art/cover-wrap.pdf` | the cover: the wrap made outside the repository, placed whole |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
 | `source/` | the TCP transcription, the enriched TEI and its tables; see `source/README.md` |
 
@@ -43,9 +44,13 @@ The long forms below do the same.
 
 The PDF and the EPUB are not kept in git: `./fgb build simon` makes them in
 `dist/anonymous/the-anatomy-of-simon-magus/`. The cover was designed outside
-this repository, so its front, `cover_front.jpg`, is kept here as a source
-(the EPUB needs it at build time); the full print wrap for Lulu,
-`full_cover_lulu.pdf`, is a print file kept with the published PDFs, not in git.
+this repository and is kept as it is, not in the house design: its full wrap,
+`art/cover-wrap.pdf` (the Inkscape original with its picture recompressed),
+is placed by `cover.typ`, which gives Lulu's wrap (`cover.pdf`) and the ebook
+front (`cover-front.png`, `--input front-only=true`). The wrap was drawn for
+124 pages, so `cover.typ` stops the build at any other page count.
+`cover_front.jpg`, the earlier low-resolution front, is no longer built from;
+it stays only for the website until a release carries the built cover.
 
 ### ebook
 
@@ -56,7 +61,7 @@ and the abbreviations guide are rendered from their Typst files.
 $ python3 ../../../colophon/tei_epub.py source/the-anatomy-of-simon-magus.tei.xml \
         the-anatomy-of-simon-magus.epub \
         --title "The Anatomy of Simon Magus" --author "Anonymous" \
-        --front ebook-front.html --cover cover_front.jpg \
+        --front ebook-front.html --cover cover-front.png \
         --before chapters/typ/foreword.typ \
         --after ebook-appendix.html --after chapters/typ/abbreviations.typ \
         --css ../../resources/css/ebook.css --css ebook-override.css

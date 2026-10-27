@@ -38,6 +38,8 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Sinners | the pit's glow, sparks, a spider small on its thread | vector + Typst (`art/spider.svg`) |
 | Crook in the Lot | the Ettrick hills at dawn, a shepherd's crook in the near hill | ChatGPT engraving, hand-tinted, `art/plate.jpg` (`art/tint.py`) |
 | Death of Death | no picture: the 1648 title page's verse, Matt. 20:28, "to give his life a ransom for many" in gold | type only, slate and gold (Typst `art`) |
+| Grace Abounding | Bunyan's vision (§53-55): poor women of Bedford in the sun on a mountainside, a snowy wall with one narrow gap ("Jesus Christ, who is the way") | ChatGPT engraving; colour painted by ChatGPT on a copy and transferred under the approved lines (`art/transfer.py`), `art/plate.jpg` |
+| Christian Economy | a timber-framed house of 1609, the title page's "an house built" (Prov. 24:3) | ChatGPT engraving, one ink (deep mulberry) on pale rose, `art/plate.png` |
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 | Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
 | Institutes (6 vols) | a small vignette, not a plate: spectacles on an open book (I.vi.1), pages filled in paper colour | ChatGPT engraving, `art/vignette.png` (`art/vignette.py`); grounds step sea-green to indigo across the set |
@@ -158,6 +160,15 @@ of the foot, fade its last rows into one flat colour and give that as
 `front-ground`, or a seam shows.
 Save a tinted plate as JPEG quality 93, 4:4:4; a one-ink plate as PNG.
 
+**Colour by transfer** (Grace Abounding): where Claude's washes stay flat (a
+mountain the engraver left nearly blank), ask ChatGPT to hand-colour the
+approved engraving, then keep only its colour: `art/transfer.py` aligns the
+coloured copy (phase correlation), closes its lines over (max filter),
+softens it into a wash and multiplies the approved engraving's own lines
+over it. ChatGPT's colouring redraws details (it broke the fingers again);
+the transfer keeps every approved line, face and hand. Prompt in
+references/prompts.md.
+
 At 2048x3072 a full-bleed plate prints at about 350 dpi; aim for 300+.
 
 ## plate_cover.typ, the parts
@@ -192,7 +203,7 @@ each fold; under 0.25in (Sinners, 40 pages) nothing.
 
 ## The press: seal, device, publisher's page
 
-In the template (`typst/fgbooks-typst/press/`, fgbooks 0.13.1, masters and
+In the template (`typst/fgbooks-typst/press/`, fgbooks 0.13.3, masters and
 sources in `common-weal-press/`): `press-seal(width:, roundel:, fountain:)`,
 `press-seal-knockout`, `press-seal-positive`, `press-device`, and
 `publisher-page(note:, isbn:)` for `book(publishing-info: ...)`, with the

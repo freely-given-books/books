@@ -1,0 +1,27 @@
+# Release record of The Mortification of Sin: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-owen/the-mortification-of-sin/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Owen's Of the Mortification of Sin in Believers in Goold's text (1850-53), as CCEL gives it, with two lines CCEL dropped and three slips corrected from Goold's printing, the 1668 second edition agreeing."
+
+[[source]]
+file = "source/mort.thml.xml"
+description = "CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53)"
+url = "https://www.ccel.org/ccel/o/owen/mort.xml"
+sha256 = "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211"
+
+[[source]]
+file = "source/A53715.witness.xml"
+description = "EEBO-TCP A53715: Of the Mortification of Sin in Believers, the second edition (London, Nathanael Ponder, 1668), a witness: source/witness-report.md"
+url = "https://github.com/textcreationpartnership/A53715"
+sha256 = "4603d4fd73838e698e523487eebb04841f242be20f61b01c3a510bfa35cd661d"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), archive.org scan and OCR, the printing CCEL follows: source/witness-report.md"
+url = "https://archive.org/details/worksofjohnowe185006owen"
+
+[[witness]]
+description = "William H. Gross's modernized and annotated text (On the Wing, 2002, published by Monergism), read only to confirm passages; under copyright, not kept"
+url = "https://www.monergism.com/"

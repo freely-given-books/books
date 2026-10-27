@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.1": *
+#import "@local/fgbooks:0.13.3": *
 
 // One volume, 484 pages at 10.5pt (the editor's decision, 2026-10-23: Book IV
 // answers Books I-III point by point, so the book is not split).

@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.1": *
+#import "@local/fgbooks:0.13.3": *
 #import "common.typ": chapter
 
 #set outline(depth: 2)
@@ -7,7 +7,7 @@
   // inside: Lulu, 61-150 pages; outside 0.8in (not 0.75) keeps the book at
   // the 124 pages its print cover was made for
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.8in, inside: 0.625in),
-  // its cover is fixed: the page count must not change (fgbooks 0.7.0 is 11pt)
+  // its cover (cover.typ) is fixed: the page count must not change (fgbooks 0.7.0 is 11pt)
   font-size: 12pt,
   title: [The Anatomy of Simon Magus],
   author: "Anonymous, 1700",

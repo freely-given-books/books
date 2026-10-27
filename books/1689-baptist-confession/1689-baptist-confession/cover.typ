@@ -38,7 +38,7 @@
 
 // The press's seal, from the template: cream, the fountain cut through to the
 // navy ground.
-#import "@local/fgbooks:0.13.1": press-seal-knockout
+#import "@local/fgbooks:0.13.3": press-seal-knockout
 #let mark(size) = press-seal-knockout(width: size, fill: cream)
 
 // art/corner.svg is drawn in the engraved design's gold; this book's is warmer.
