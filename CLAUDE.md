@@ -101,10 +101,13 @@ tag `<author>/<book>/vN` (`./fgb release sign BOOK`, which runs every gate
 first). Claude never cuts these tags. The book's `RELEASE.toml` records
 what the edition is made from (each source file with its SHA-256, the
 witnesses, a summary for the catalog); `./fgb release record BOOK` starts
-one. A sign-off holds while the book's folder is as tagged: any later
-change, a colophon release that rewrites the TEI included, holds the book
-back until it is signed off again (the `releases` workflow warns on such a
-PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
+one. A sign-off holds while the book's folder is as tagged: after any later
+change, a colophon release that rewrites the TEI included, the book is held
+back (the `releases` workflow warns on such a PR), and a release **carries**
+its last signed version, built from its tag, its folder in `stable` as
+tagged, until it is signed off again (colophon 0.29.0). Books move to a new
+template version one at a time, when they are worked on, not all together:
+some drift between books is fine (the editor, 2026-10-26). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
 A whole version vN is a print revision and matches Lulu's revision N. A point
 version, `./fgb release sign BOOK --point` (or `./release --point BOOK`), is
 an improved edition between Lulu revisions (an ebook fix, say): vN.1, vN.2,
