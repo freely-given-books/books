@@ -10,7 +10,7 @@
 // where the plate sits, its three colours, its back-cover words.
 //
 //   #import "../../../scripts/plate_cover.typ": *
-//   #import "@local/fgbooks:0.13.1": press-seal
+//   #import "@local/fgbooks:0.13.2": press-seal
 //   #plate-cover(
 //     plate: read("art/plate.jpg", encoding: none),
 //     plate-at: (dx: -0.85in, dy: -0.9in, width: 6.35in, height: 9.525in),

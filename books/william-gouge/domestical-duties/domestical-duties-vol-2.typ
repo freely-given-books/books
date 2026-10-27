@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.1": *
+#import "@local/fgbooks:0.13.2": *
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
