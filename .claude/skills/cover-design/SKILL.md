@@ -202,7 +202,7 @@ each fold; under 0.25in (Sinners, 40 pages) nothing.
 
 ## The press: seal, device, publisher's page
 
-In the template (`typst/fgbooks-typst/press/`, fgbooks 0.13.3, masters and
+In the template (`typst/fgbooks-typst/press/`, fgbooks 0.14.0, masters and
 sources in `common-weal-press/`): `press-seal(width:, roundel:, fountain:)`,
 `press-seal-knockout`, `press-seal-positive`, `press-device`, and
 `publisher-page(note:, isbn:)` for `book(publishing-info: ...)`, with the

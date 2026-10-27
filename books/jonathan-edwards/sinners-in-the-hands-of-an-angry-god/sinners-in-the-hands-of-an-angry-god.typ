@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.3": *
+#import "@local/fgbooks:0.14.0": *
 
 #show: book.with(
   title: [Sinners in the Hands of an Angry God],

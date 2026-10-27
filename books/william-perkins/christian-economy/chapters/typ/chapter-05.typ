@@ -27,12 +27,11 @@ Now many degrees continued or derived from one and the same head, do make a line
 In the Right line, look how many persons there are, so many degrees there be, that only excepted, which upon occasion offered, is in question, and from which we begin the account.
 
 #[
-#show: block.with(breakable: false)
 - Abraham.
 - Isaac.
 - Jacob.
 - Joseph.
-]
+] <diagram>
 
 Here #emph[Joseph] is distant three degrees from #emph[Abraham, Jacob] two, #emph[Isaac] one, or the first.
 
@@ -53,13 +52,12 @@ And in this line, look how many degrees the kinsman that is furthest off from th
 #strong[For example,]
 
 #[
-#show: block.with(breakable: false)
 - Terah.
   - Abraham—
   - Nahor
     - Bethuel
       - Laban.
-]
+] <diagram>
 
 Here #emph[Laban] being removed furthest off, to wit, three degrees from the common stock #emph[Terah;] is likewise three degrees distant from #emph[Abraham,] his great uncle, and #emph[Abraham] so many from him.
 
@@ -96,13 +94,12 @@ Kinsmen of this line, are,
 In this line, look how many degrees the party in question is removed from the common stock, by so many twice-told, is he removed from his kinsman in question. Put the case between #emph[Bethuel] and #emph[Isaac,] as in this example.
 
 #[
-#show: block.with(breakable: false)
 - Terah
   - Abraham—
     - Isaac.
   - Nahor
     - Bethuel.
-]
+] <diagram>
 
 Here #emph[Bethuel] being two degrees removed from #emph[Terah,] is four degrees distant from #emph[Isaac.]
 
@@ -151,7 +148,6 @@ Concerning affinity, I propound these rules.
 I. Look in what degree a man is of consanguinity to ones wife, in the same degree of affinity he is to the wives husband. And contrariwise. For example.
 
 #[
-#show: block.with(breakable: false)
 - Isaac
   - Esau.
   - Jacob.
@@ -163,16 +159,15 @@ I. Look in what degree a man is of consanguinity to ones wife, in the same degre
   - Eli.
     - Maria.
   - Levi.
-]
+] <diagram>
 
 Here, if #emph[Mary Josephs] wife, be distant from #emph[Esau Josephs] uncle by the fathers side, two degrees, then also is #emph[Joseph] himself distant from #emph[Aaron] the brother of #emph[Eli] his father in law, two degrees. If #emph[Mary] the wife, be distant from her own father #emph[Eli] one degree, and from her grand-father #emph[Samuel] two; then also is her husband distant from #emph[Eli] his father in law, one degree, and from #emph[Samuel] his wives grand-father, two. Another example.
 
 #[
-#show: block.with(breakable: false)
 - Herod.
   - Herod.
   - Philip, whose wife is Herodias.
-]
+] <diagram>
 
 Here #emph[Herod] being in the first degree of consanguinity with his brother #emph[Philip; Herodias] his brothers wife is in the first degree of affinity to him.
 
