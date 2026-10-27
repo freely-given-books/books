@@ -14,9 +14,9 @@ It is well for us that as sin lives, and the flesh lives, and the devil lives, s
 
 Jesus endured great humiliation, and therefore there was room for Him to be exalted. By that humiliation He accomplished and endured all the Father’s will, and therefore He was rewarded by being raised to glory. He uses that exaltation on behalf of His people. Let my reader raise his eyes to these hills of glory, whence his help must come. Let him contemplate the high glories of the Prince and Savior. Is it not most hopeful for men that a Man is now on the throne of the universe? Is it not glorious that the Lord of all is the Savior of sinners? We have a Friend at court; yea, a Friend on the throne. He will use all His influence for those who entrust their affairs in His hands. Well does one of our poets sing:
 
-#quote[He ever lives to intercede
-Before His Father’s face;
-Give Him, my soul, thy cause to plead,
+#quote[He ever lives to intercede \
+Before His Father’s face; \
+Give Him, my soul, thy cause to plead, \
 Nor doubt the Father’s grace.]
 
 Come, friend, and commit your cause and your case to those once pierced hands, which are now glorified with the signet rings of royal power and honor. No suit ever failed which was left with this great Advocate.

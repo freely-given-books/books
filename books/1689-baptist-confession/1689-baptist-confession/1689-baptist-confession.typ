@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.13.2": book, publisher-page
+#import "@local/fgbooks:0.13.3": book, publisher-page
 #import "proofs.typ": catechism, chapter-start
 
 #show outline: set text(size: 8pt)

@@ -14,7 +14,7 @@ Jesus has borne the death penalty on our behalf. Behold the wonder! There He han
 
 The great gulf of Jesus’ loving self-sacrifice can swallow up the mountains of our sins, all of them. For the sake of the infinite good of this one representative man, the Lord may well look with favor upon other men, however unworthy they may be in and of themselves. It was a miracle of miracles that the Lord Jesus Christ should stand in our stead and
 
-#quote[Bear that we might never bear His Father’s righteous ire.]
+#quote[Bear that we might never bear \ His Father’s righteous ire.]
 
 But he has done so. “It is finished.” God will spare the sinner because He did not spare His Son. God can pass by your transgressions because He laid those transgressions upon His only begotten Son nearly two thousand years ago. If you believe in Jesus (that is the point), then your sins were carried away by Him who was the scapegoat for His people.
 

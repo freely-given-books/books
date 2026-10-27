@@ -24,7 +24,7 @@ Do you not see — for I want to bring this out clearly, what a splendid thing i
 
 The justification which comes from God himself must be beyond question. If the Judge acquits me, who can condemn me? If the highest court in the universe has pronounced me just, who shall lay anything to my charge? Justification from God is a sufficient answer to an awakened conscience. The Holy Spirit by its means breathes peace over our entire nature, and we are no longer afraid. With this justification we can answer all the roarings and railings of Satan and ungodly men. With this we shall be able to die: with this we shall boldly rise again, and face the last great assize.
 
-#quote[Bold shall I stand in that great day, For who aught to my charge shall lay? While by my Lord absolved I am From sin’s tremendous curse and blame.]
+#quote[Bold shall I stand in that great day, \ For who aught to my charge shall lay? \ While by my Lord absolved I am \ From sin’s tremendous curse and blame.]
 
 Friend, the Lord can blot out all your sins. I make no shot in the dark when I say this. “All manner of sin and of blasphemy shall be forgiven unto men.” Though you are steeped up to your throat in crime, He can with a word remove the defilement, and say, “I will, be thou clean.” The Lord is a great forgiver.
 

@@ -16,15 +16,15 @@ Observe with much comfort that the Lord Jesus Christ gives this repentance to th
 
 The hearts of the children of Israel had grown hard as an adamant stone. Luther used to think it impossible to convert a Jew. We are far from agreeing with him, and yet we must admit that the seed of Israel have been exceedingly obstinate in their rejection of the Savior during these many centuries. Truly did the Lord say, “Israel would none of me.” “He came to his own and his own received him not.” Yet on behalf of Israel our Lord Jesus is exalted for the giving of repentance and remission. Probably my reader is a Gentile; but yet he may have a very stubborn heart, which has stood out against the Lord Jesus for many years; and yet in him our Lord can work repentance. It may be that you will yet feel compelled to write as William Hone did when he yielded to divine love. He was the author of those most entertaining volumes called the “Everyday Book,” but he was once a stout-hearted infidel. When subdued by sovereign grace, he wrote:
 
-#quote[The proudest heart that ever beat
-Hath been subdued in me;
-The wildest will that ever rose
-To scorn Thy cause and aid Thy foes
-Is quell’d, my Lord, by Thee.
-Thy will, and not my will be done,
-My heart be ever Thine;
-Confessing Thee the mighty Word,
-My Savior Christ, my God, my Lord,
+#quote[The proudest heart that ever beat \
+Hath been subdued in me; \
+The wildest will that ever rose \
+To scorn Thy cause and aid Thy foes \
+Is quell’d, my Lord, by Thee. \
+Thy will, and not my will be done, \
+My heart be ever Thine; \
+Confessing Thee the mighty Word, \
+My Savior Christ, my God, my Lord, \
 Thy cross shall be my sign.]
 
 The Lord can give repentance to the most unlikely, turning lions into lambs, and ravens into doves. Let us look to Him that this great change may be wrought in us. Assuredly the contemplation of the death of Christ is one of the surest and speediest methods of gaining repentance. Do not sit down and try to pump up repentance from the dry well of corrupt nature. It is contrary to the laws of mind to suppose that you can force your soul into that gracious state. Take your heart in prayer to Him who understands it, and say, “Lord, cleanse it. Lord, renew it. Lord, work repentance in it.” The more you try to produce penitent emotions in yourself, the more you will be disappointed; but if you believingly think of Jesus dying for you, repentance will burst forth. Meditate on the Lord’s shedding His heart’s blood out of love to you. Set before your mind’s eye the agony and bloody sweat, the cross and passion; and, as you do this, He who was the bearer of all this grief will look at you, and with that look He will do for you what He did for Peter, so that you also will go out and weep bitterly. He who died for you can, by His gracious Spirit, make you die to sin; and He who has gone into glory on your behalf can draw your soul after Him, away from evil, and toward holiness.

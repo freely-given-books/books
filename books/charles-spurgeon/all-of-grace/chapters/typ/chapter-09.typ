@@ -6,7 +6,7 @@ The faith which saves has its analogies in the human frame.
 
 It is the eye which looks. By the eye we bring into the mind that which is far away; we can bring the sun and the far-off stars into the mind by a glance of the eye. So by trust we bring the Lord Jesus near to us; and though He be far away in Heaven, He enters into our heart. Only look to Jesus; for the hymn is strictly true —
 
-#quote[There is life in a look at the Crucified One, There is life at this moment for thee.]
+#quote[There is life in a look at the Crucified One, \ There is life at this moment for thee.]
 
 Faith is the hand which grasps. When our hand takes hold of anything for itself, it does precisely what faith does when it appropriates Christ and the blessings of His redemption. Faith says, “Jesus is mine.” Faith hears of the pardoning blood, and cries, “I accept it to pardon me.” Faith calls the legacies of the dying Jesus her own; and they are her own, for faith is Christ’s heir; He has given Himself and all that He has to faith. Take, O friend, that which grace has provided for thee. You will not be a thief, for you have a divine permit: “Whosoever will, let him take the water of life freely.” He who may have a treasure simply by his grasping it will be foolish indeed if he remains poor.
 
