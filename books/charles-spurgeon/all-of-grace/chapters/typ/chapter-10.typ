@@ -1,6 +1,6 @@
 == Why Are We Saved By Faith?
 
-WHY IS FAITH SELECTED as the channel of salvation? No doubt this inquiry is often made. “By grace are ye saved through faith,” is assuredly the doctrine of Holy Scripture, and the ordinance of God; but why is it so? Why is faith selected rather than hope, or love, or patience?
+#smallcaps[Why is faith selected] as the channel of salvation? No doubt this inquiry is often made. “By grace are ye saved through faith,” is assuredly the doctrine of Holy Scripture, and the ordinance of God; but why is it so? Why is faith selected rather than hope, or love, or patience?
 
 It becomes us to be modest in answering such a question, for God’s ways are not always to be understood; nor are we allowed presumptuously to question them. Humbly we would reply that, as far as we can tell, faith has been selected as the channel of grace, because there is a natural adaptation in faith to be used as the receiver. Suppose that I am about to give a poor man an alms: I put it into his hand — why? Well, it would hardly be fitting to put it into his ear, or to lay it upon his foot; the hand seems made on purpose to receive. So, in our mental frame, faith is created on purpose to be a receiver: it is the hand of the man, and there is a fitness in receiving grace by its means.
 

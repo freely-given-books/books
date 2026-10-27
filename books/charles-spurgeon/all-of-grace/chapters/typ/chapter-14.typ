@@ -1,6 +1,6 @@
 == “My Redeemer Liveth”
 
-CONTINUALLY have I spoken to the reader concerning Christ crucified, who is the great hope of the guilty; but it is our wisdom to remember that our Lord has risen from the dead and lives eternally.
+#smallcaps[Continually] have I spoken to the reader concerning Christ crucified, who is the great hope of the guilty; but it is our wisdom to remember that our Lord has risen from the dead and lives eternally.
 
 You are not asked to trust in a dead Jesus, but in One who, though He died for our sins, has risen again for our justification. You may go to Jesus at once as to a living and present friend. He is not a mere memory, but a continually existent Person who will hear your prayers and answer them. He lives on purpose to carry on the work for which He once laid down His life. He is interceding for sinners at the right hand of the Father, and for this reason He is able to save them to the uttermost who come unto God by Him. Come and try this living Savior, if you have never done so before.
 
