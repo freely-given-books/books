@@ -1,10 +1,11 @@
-#import "@local/fgbooks:0.13.1": *
+#import "@local/fgbooks:0.13.2": *
 
 #show: book.with(
   title: [Sinners in the Hands of an Angry God],
   author: "Jonathan Edwards",
-  // the Common Weal Press publisher's page, from the template
-  publishing-info: publisher-page(note: [
+  // the Common Weal Press publisher's page, from the template, sized to this
+  // small trim's text area (6.875in less 1.5in of margins)
+  publishing-info: publisher-page(height: 5.35in, note: [
     Quoted bible verses from the Berean Standard Bible unless otherwise stated.
   ]),
   preface: [

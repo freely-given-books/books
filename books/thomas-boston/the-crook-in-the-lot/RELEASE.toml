@@ -1,0 +1,31 @@
+# Release record of The Crook in the Lot: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, thomas-boston/the-crook-in-the-lot/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing."
+
+[[source]]
+file = "source/crook.thml.xml"
+description = "Our transcription of The Whole Works of Thomas Boston, ed. Samuel M'Millan, vol. 3 (Aberdeen, 1848), pp. 495-590, as ThML: how it was made in source/SOURCES.md"
+url = "https://archive.org/details/wholeworksoflate03bost"
+sha256 = "570af79869826424d0f812fbea1acb4c9df4eed5a3453a9dfa81ccba13ca832b"
+
+[[source]]
+file = "source/crook.ccel.witness.xml"
+description = "CCEL ThML: Thomas Boston, The Crook in the Lot, a modernized revision (Institute of Practical Bible Education etext, 2000), untouched; a witness only, used as a hint in the OCR correction"
+url = "https://www.ccel.org/ccel/b/boston/crook.xml"
+sha256 = "64cc81b01e511b788450d2a6389ede6629e35bdbb5c8429452bfc68a78ad1732"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "M'Millan's 1848 volume, the University of Michigan scan: its OCR the second reading in the transcription (source/SOURCES.md)"
+url = "https://archive.org/details/wholeworkslater06bostgoog"
+
+[[witness]]
+description = "The Crook in the Lot, Philadelphia 1811, archive.org scan: M'Millan's misprints corrected where it agrees (source/proofread-report.md)"
+url = "https://archive.org/details/crookinlotorsove01bost"
+
+[[witness]]
+description = "The Crook in the Lot, 1782 and London 1791 printings, archive.org scans, consulted in the transcription; no scan of the 1737 first edition was found"
+url = "https://archive.org/details/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782"
