@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>hi inside reg: words of this edition's reading set in italic.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-25" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>The Death of Death in the Death of Christ</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>deathofdeath</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>The Death of Death in the Death of Christ</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file deathofdeath.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='center']: a paragraph centered in the source, and in this edition.</p><p>hi inside reg: words of this edition's reading set in italic.</p><p>table[@rend='parallel']: two tables printed one against the other (@n 1 and 2, in document order), which this edition sets as two columns, item against item.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-27" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (deathofdeath.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Salus electorum, sanguis
 Jesu</seg>;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p2">or,</titlePart><titlePart type="sub" xml:id="ccel-i.i-p3">the death of death in the death of Christ:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p4">a treatise of the redemption and reconciliation that is in
 the blood of Christ;</titlePart><titlePart type="sub" xml:id="ccel-i.i-p5">with</titlePart><titlePart type="sub" xml:id="ccel-i.i-p6">the merit thereof, and the satisfaction wrought thereby:</titlePart><titlePart type="sub" xml:id="ccel-i.i-p7">wherein</titlePart><titlePart type="sub" xml:id="ccel-i.i-p8">the proper end of the death of Christ is asserted; the
 immediate effects and fruits thereof assigned, with their extent in respect
@@ -2607,7 +2607,7 @@ to do when they make their supplications according to the will of God,
 v. 14</ref>.  Besides that, of our Saviour it is expressly said that
 the Father always heareth him, <ref type="scripture" cRef="John.11.42">John xi.
 42</ref>; and if that were true when he was yet in the <hi rend="italic">way</hi>,
-in the days of his flesh, and had not finished the great work be was sent
+in the days of his flesh, and had not finished the great work <choice><orig>be</orig><reg resp="#editor" type="emendation">he</reg></choice> was sent
 about, how much more then <hi rend="italic">now</hi>, when, having done the will and
 finished the work of God, he is set down on the right hand of <choice><orig>the</orig><reg resp="#editor" type="emendation"></reg></choice> Majesty
 on high, desiring and requesting the accomplishing of the promises that
@@ -2813,7 +2813,7 @@ make the ransom of as large extent as any thing in, or about, or following
 the death of Christ?  Or have they yet some farther distinction to make, or
 rather division about the ends of the death of Christ? as we have had
 already: “For some he not only paid a ransom, but also intercedeth for
-them; which be doth not for all for whom he paid a ransom.”  Will they now
+them; which <choice><orig>be</orig><reg resp="#editor" type="emendation">he</reg></choice> doth not for all for whom he paid a ransom.”  Will they now
 go a step backward, and say that for some he not only died, but also paid a
 ransom for them; which he did not for all for whom he died?  Who, then,
 were those that he thus died for?  They must be some beyond all and every
@@ -2821,7 +2821,7 @@ man; for, as they contend, for them he paid a ransom.  But let us see what
 he says farther; in so easy a cause as this it is a shame to take
 advantages.</p>
 
-<p xml:id="ccel-i.vii.viii-p6">“The answer to this objection,” saith be, “is easy and
+<p xml:id="ccel-i.vii.viii-p6">“The answer to this objection,” saith <choice><orig>be</orig><reg resp="#editor" type="emendation">he</reg></choice>, “is easy and
 plain in the Scripture, for the mediation of Christ is both more general
 and more special; — more general, as he is the ‘one mediator between God and <choice><orig>men</orig><reg resp="#editor" type="spelling">man</reg></choice>,’ <ref type="scripture" cRef="1Tim.2.5">1 Tim. ii.
 5</ref>; and more special, as he is ‘the
@@ -3361,7 +3361,7 @@ view.</p>
 
 <p xml:id="ccel-i.vii.viii-p40">But, [secondly,] to leave your words and take your meaning,
 it seems to be this, in respect of one end that Christ proposed to himself
-in his sacrifice, he is a priest for all, be aimed to attain and accomplish
+in his sacrifice, he is a priest for all, <choice><orig>be</orig><reg resp="#editor" type="emendation">he</reg></choice> aimed to attain and accomplish
 it for them; but in respect of other ends, he is so only for his chosen and
 called.  Now, truly, this is an easy kind of answering, which, if it will
 pass for good and warrantable, you may easily disappoint all your
@@ -4260,8 +4260,8 @@ are his sheep (much less his elect, as the reason intends it).  As for the
 place, <ref type="scripture" cRef="John.10.15">John x. 15</ref>, usually instanced to
 this end, it is therein much abused: for our Saviour, <ref type="scripture" cRef="John.10">John
 x.</ref>, did not set forth the difference between such as he died for
-and such as he died not for, <choice><abbr><hi rend="sup">b</hi>or</abbr><expan>bor</expan></choice> such as he died for so and so,
-and not so and so; <choice><abbr><hi rend="sup">c</hi>but</abbr><expan>cbut</expan></choice> the difference between those that
+and such as he died not for, <choice><orig><choice><abbr><hi rend="sup">b</hi>or</abbr><expan>bor</expan></choice></orig><reg resp="#editor" type="spelling">or</reg></choice> such as he died for so and so,
+and not so and so; <choice><orig><choice><abbr><hi rend="sup">c</hi>but</abbr><expan>cbut</expan></choice></orig><reg resp="#editor" type="spelling">but</reg></choice> the difference between those that
 believe on him and those who believe not on him, <ref type="scripture" cRef="John.10.4-John.10.5 Bible.kjv:John.10.14 Bible.kjv:John.10.26 Bible.kjv:John.10.27">verses
 4, 5, 14, 26, 27</ref>.  One hear his voice and follow him, the other
 not.  <choice><abbr><hi rend="sup">d</hi>Nor</abbr><expan>dNor</expan></choice> did our Saviour here set forth the privileges of all
@@ -4349,7 +4349,7 @@ brought in unto him;” for he died for his sheep, and his sheep hear his
 voice.  They for whom he died, and those that come in to him, may receive
 different qualifications, but they are not several persons.</p>
 
-<p xml:id="ccel-i.viii.iii-p31">Fifthly, <choice><abbr><hi rend="sup">e</hi></abbr><expan>e</expan></choice><hi rend="italic">First</hi>, The question is not at
+<p xml:id="ccel-i.viii.iii-p31">Fifthly, <choice><orig><choice><abbr><hi rend="sup">e</hi></abbr><expan>e</expan></choice></orig><reg resp="#editor" type="emendation"></reg></choice><hi rend="italic">First</hi>, The question is not at
 all, to what end our Saviour here makes mention of his death? but for whom
 he died? who are expressly said to be his “sheep;” which all are not. 
 <hi rend="italic">Secondly</hi>, His intention is, to declare the giving of his life for a
@@ -4806,7 +4806,7 @@ of the purpose of God in sending his Son to die for all men was, that he
 might, what way it pleased him, save sinners, his justice which hindered
 being satisfied,” — as <seg>Arminius</seg>; or,
 “That he might will to save sinners,” — as <seg>Corvinus</seg>.  “And the intention of Christ was, to make such
-satisfaction to the justice of God as that be might obtain to himself a
+satisfaction to the justice of God as that <choice><orig>be</orig><reg resp="#editor" type="emendation">he</reg></choice> might obtain to himself a
 power of saving, upon what conditions it seemed good to his Father to
 prescribe.”</p>
 
@@ -6969,7 +6969,7 @@ to receive a discharge from farther trouble is equitably due to a debtor
 who hath been in obligation, his debt being paid, the Lord, having accepted
 of the payment from Christ in the stead of all them for whom he died, ought
 in justice, according to that obligation which, in free grace, he hath put
-upon himself, <choice><orig>to</orig><reg resp="#editor" type="emendation"></reg></choice> grant them a discharge.  Sixthly, That considering that
+upon himself, to grant them a discharge.  Sixthly, That considering that
 relaxation of the law which, by the supreme power of the lawgiver, was
 effected, as to the persons suffering the punishment required, such actual
 satisfaction is made thereto, that it can lay no more to their charge for
@@ -14197,7 +14197,7 @@ the enjoyment whereof the greatest portion of men perish everlastingly.</p>
 <p xml:id="ccel-i.x.vii-p62">2. The opinion concerning a general ransom is so far from
 yielding firm consolation unto believers from the death of Christ, that it
 quite overthrows all the choice ingredients of strong consolation which
-flow there hence; and that, — first, By strange divisions and divulsions of
+flow <choice><orig>there hence</orig><reg resp="#editor" type="emendation">therehence</reg></choice>; and that, — first, By strange divisions and divulsions of
 one thing from another, which ought to be conjoined to make up one certain
 foundation of confidence; secondly, By denying the efficacy of his death
 towards them for whom he died: both which are necessary attendants of that

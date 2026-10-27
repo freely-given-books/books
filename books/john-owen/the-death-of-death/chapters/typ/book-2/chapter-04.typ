@@ -54,7 +54,7 @@ Thirdly, “God, therefore, to fulfil that general love and good-will of his tow
 
 The failing of this assertion we shall lay forth, when we come to declare that love whereof the sending of Christ was the proper issue and effect.
 
-Fourthly, “Wherefore, the proper and immediate end and aim of the purpose of God in sending his Son to die for all men was, that he might, what way it pleased him, save sinners, his justice which hindered being satisfied,” — as Arminius; or, “That he might will to save sinners,” — as Corvinus. “And the intention of Christ was, to make such satisfaction to the justice of God as that be might obtain to himself a power of saving, upon what conditions it seemed good to his Father to prescribe.”
+Fourthly, “Wherefore, the proper and immediate end and aim of the purpose of God in sending his Son to die for all men was, that he might, what way it pleased him, save sinners, his justice which hindered being satisfied,” — as Arminius; or, “That he might will to save sinners,” — as Corvinus. “And the intention of Christ was, to make such satisfaction to the justice of God as that he might obtain to himself a power of saving, upon what conditions it seemed good to his Father to prescribe.”
 
 #emph[Obs.] 1. Whether this was the intention of the Father in sending his Son or no, let it be judged. Something was said before, upon the examination of those places of Scripture which describe his purpose; let it be known from them whether God, in sending of his Son, intended to procure to himself a liberty to save us if he would, or to obtain certain salvation for his elect.
 

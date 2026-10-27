@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 607 |
-| spelling | 186 |
+| emendation | 613 |
+| spelling | 188 |
 | spacing | 50 |
 | punctuation | 48 |
 | grammar | 45 |
@@ -115,6 +115,7 @@
 - [book-1/chapter-07.typ] obtained → obtained for us
 - [book-1/chapter-07.typ] for us → 
 - [book-1/chapter-07.typ] be → he
+- [book-1/chapter-07.typ] be → he
 - [book-1/chapter-07.typ] the → 
 - [book-1/chapter-07.typ] be → he
 - [book-1/chapter-07.typ] give → grant
@@ -124,6 +125,8 @@
 - [book-1/chapter-08.typ] Wherefore , → Where
 - [book-1/chapter-08.typ] for → 
 - [book-1/chapter-08.typ] to vent → 
+- [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] might → may
 - [book-1/chapter-08.typ] with → by
 - [book-1/chapter-08.typ] by → and
@@ -151,6 +154,7 @@
 - [book-1/chapter-08.typ] interceded → interceded for
 - [book-1/chapter-08.typ] it → at
 - [book-1/chapter-08.typ] 8 → 28
+- [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] 9 → 29
 - [book-2/chapter-01.typ] were → was
 - [book-2/chapter-01.typ] were → was
@@ -202,6 +206,7 @@
 - [book-2/chapter-03.typ] that → of
 - [book-2/chapter-03.typ] the → that
 - [book-2/chapter-03.typ] we → ye
+- [book-2/chapter-03.typ] e → 
 - [book-2/chapter-03.typ] and → 
 - [book-2/chapter-03.typ] there from → therefrom
 - [book-2/chapter-03.typ] is → 
@@ -214,6 +219,7 @@
 - [book-2/chapter-04.typ] for ever → 
 - [book-2/chapter-04.typ] to → for
 - [book-2/chapter-04.typ] wrath → condemnation
+- [book-2/chapter-04.typ] be → he
 - [book-2/chapter-04.typ] where into → whereinto
 - [book-2/chapter-04.typ] cleanse from → purge
 - [book-2/chapter-04.typ] sin → our sins
@@ -312,7 +318,6 @@
 - [book-3/chapter-07.typ] mine → my
 - [book-3/chapter-07.typ] in this → 
 - [book-3/chapter-07.typ] First → 
-- [book-3/chapter-07.typ] to → 
 - [book-3/chapter-08.typ] but → and
 - [book-3/chapter-08.typ] which → that
 - [book-3/chapter-08.typ] ungodly → ungodly” man
@@ -607,6 +612,7 @@
 - [book-4/chapter-07.typ] ore → 
 - [book-4/chapter-07.typ] ’s → . his
 - [book-4/chapter-07.typ] of → )
+- [book-4/chapter-07.typ] there hence → therehence
 - [book-4/chapter-07.typ] one → one to
 - [book-4/chapter-07.typ] this → the
 - [book-4/chapter-07.typ] it → 
@@ -749,9 +755,11 @@
 - as → a
 - blessing → blessings
 - blood → bloods
+- bor → or
 - bring → bringing
 - came → comes
 - cases → causes
+- cbut → but
 - certainty → certainly
 - come → comes
 - comes → come
