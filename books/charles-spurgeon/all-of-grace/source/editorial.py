@@ -21,3 +21,7 @@ EPUB = {"title": "All of Grace", "author": "Charles Spurgeon",
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["all-of-grace.typ"]
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
+# Verse is set line by line, as CCEL breaks it ("line \\" in Typst, <br/> in
+# the ebook): the hymns quoted in #quote blocks (2026-10-26; before, their
+# lines ran together, "sacred thing; The Holy Ghost hath made him so").
+VERSE_LINEBREAKS = True

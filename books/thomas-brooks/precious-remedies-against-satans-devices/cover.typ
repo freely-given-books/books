@@ -1,5 +1,5 @@
 #import "../../../scripts/plate_cover.typ": *
-#import "@local/fgbooks:0.13.2": press-seal
+#import "@local/fgbooks:0.13.3": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press plate design (see
 // scripts/plate_cover.typ). The plate is Brooks's remedy: "the shield of
