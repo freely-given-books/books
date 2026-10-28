@@ -30,7 +30,7 @@ Afflicted and lowly ones may sometimes get their condition changed, may be raise
 
 I. We shall consider the generation of the lowly afflicted ones, having their spirit brought down to their lot. And we shall, #emph[1st.] Lay down some general considerations about them.
 
-1\. There is such a generation in the world, for as bad as the world is. The text expressly mentions them, and the scripture elsewhere makes mention of them, as Ps 9:12 and x. 12. Matt 5:3 with Luke 6:20. Where shall we seek them? Not in heaven, there are no afflicted ones there: not in hell, there are no lowly or humble ones there, whose spirit is brought to their lot. In this world they must then be, where the state of trial is.
+1\. There is such a generation in the world, for as bad as the world is. The text expressly mentions them, and the scripture elsewhere makes mention of them, as Ps 9:12 and 10:12. Matt 5:3 with Luke 6:20. Where shall we seek them? Not in heaven, there are no afflicted ones there: not in hell, there are no lowly or humble ones there, whose spirit is brought to their lot. In this world they must then be, where the state of trial is.
 
 2\. If it were not so, Christ, as he was in the world, would have no followers in it. He was the Head of that generation whom they all copy after.—“Learn of me, for I am meek and lowly of heart,” Matt 11:29. And for his honour, and the honour of his cross, they will never be wanting while the world stands, Rom 8:29.—“Whom he did foreknow, he also did predestinate to be conformed to the image of his Son.” His image lies in these two, #emph[suffering] and #emph[holiness,] whereof #emph[lowliness] is a chief part.
 

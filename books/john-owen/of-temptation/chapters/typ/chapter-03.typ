@@ -22,7 +22,7 @@ I know God is “able to deliver the godly out of temptations;” I know he is �
 
 Adam was the “son of God,” Luke 3:38, created in the image of God, full of that integrity, righteousness, and holiness, which might be and was an eminent resemblance of the holiness of God. He had a far greater inherent stock of ability than we, and had nothing in him to entice or seduce him; yet this Adam no sooner enters into temptation but he is gone, lost, and ruined, he and all his posterity with him. What can we expect in the like condition, that have not only in our temptations, as he had, a #emph[cunning devil] to deal withal, but a #emph[cursed world] and a #emph[corrupt heart] also?
 
-Abraham was the father of the faithful, whose faith is proposed as a pattern to all them that shall believe; yet he, entering twice into the same temptation, namely, that of fear about his wife, was twice overpowered by it, to the dishonour of God, and no doubt the disquietment of his own soul, Gen 12:12, 13, xx. 2.
+Abraham was the father of the faithful, whose faith is proposed as a pattern to all them that shall believe; yet he, entering twice into the same temptation, namely, that of fear about his wife, was twice overpowered by it, to the dishonour of God, and no doubt the disquietment of his own soul, Gen 12:12, 13; 20:2.
 
 David is called a “man after God’s own heart” by God himself; yet what a dreadful thing is the story of his entering into temptation! He is no sooner entangled, but he is plunged into adultery; thence seeking deliverance by his own invention, like a poor creature in a toil, he is entangled more and more, until he lies as one dead, under the power of sin and folly.
 

@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 2489 |
-| emendation | 2092 |
-| punctuation | 479 |
+| spacing | 2555 |
+| emendation | 2162 |
+| punctuation | 611 |
 | spelling | 287 |
 | grammar | 45 |
 | list | 22 |
@@ -97,10 +97,14 @@
 - [book-1/chapter-03.typ] . iv . → 4:
 - [book-1/chapter-03.typ] trust → have hoped
 - [book-1/chapter-03.typ] Tit . ii . → Titus 2:
+- [book-1/chapter-03.typ] iii → 3
 - [book-1/chapter-03.typ] . xxxii . → 32:
 - [book-1/chapter-03.typ] . x . → 10:
 - [book-1/chapter-03.typ] . xxiv . → 24:
+- [book-1/chapter-03.typ] xxv → 25
 - [book-1/chapter-03.typ] . xii . → 12:
+- [book-1/chapter-03.typ] xl → 40
+- [book-1/chapter-03.typ] xlv → 45
 - [book-1/chapter-03.typ] . xiv . → 14:
 - [book-1/chapter-03.typ] vii → 7
 - [book-1/chapter-03.typ] . iii . → 3:
@@ -125,6 +129,7 @@
 - [book-1/chapter-03.typ] great → 
 - [book-1/chapter-03.typ] ii → 2
 - [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] xvii → 17
 - [book-1/chapter-03.typ] . i . → 1:
 - [book-1/chapter-03.typ] . x . → 10:
 - [book-1/chapter-03.typ] i → 1
@@ -148,6 +153,7 @@
 - [book-1/chapter-03.typ] all → 
 - [book-1/chapter-03.typ] families → nations
 - [book-1/chapter-03.typ] . xii . → 12:
+- [book-1/chapter-03.typ] xv → 15
 - [book-1/chapter-03.typ] i → 1
 - [book-1/chapter-03.typ] thought → counted
 - [book-1/chapter-03.typ] . ii . → 2:
@@ -429,6 +435,7 @@
 - [book-1/chapter-08.typ] it → at
 - [book-1/chapter-08.typ] i → 1
 - [book-1/chapter-08.typ] . ii . → 2:
+- [book-1/chapter-08.typ] ix → 9
 - [book-1/chapter-08.typ] i → 1
 - [book-1/chapter-08.typ] ii → 2
 - [book-1/chapter-08.typ] . ix . → 9:
@@ -579,6 +586,7 @@
 - [book-2/chapter-03.typ] . ii . → 2:
 - [book-2/chapter-03.typ] i . → 1
 - [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] iii → 3
 - [book-2/chapter-03.typ] . liii . → 53:
 - [book-2/chapter-03.typ] . xv . → 15:
 - [book-2/chapter-03.typ] . iii . → 3:
@@ -940,6 +948,7 @@
 - [book-3/chapter-07.typ] . xvi . → 16:
 - [book-3/chapter-07.typ] First → 
 - [book-3/chapter-07.typ] . viii . → 8:
+- [book-3/chapter-07.typ] x → 10
 - [book-3/chapter-07.typ] i → 1
 - [book-3/chapter-07.typ] . iii . → 3:
 - [book-3/chapter-07.typ] . viii . → 8:
@@ -1219,47 +1228,67 @@
 - [book-4/chapter-01.typ] . i . → 1:
 - [book-4/chapter-01.typ] . xc . → 90:
 - [book-4/chapter-01.typ] . xxiv . → 24:
+- [book-4/chapter-01.typ] xcviii → 98
 - [book-4/chapter-01.typ] . xiii . → 13:
 - [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] iii → 3
+- [book-4/chapter-01.typ] vi → 6
+- [book-4/chapter-01.typ] xvii → 17
 - [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] vi → 6
 - [book-4/chapter-01.typ] . iii . → 3:
 - [book-4/chapter-01.typ] vii → 7
 - [book-4/chapter-01.typ] . xiii . → 13:
 - [book-4/chapter-01.typ] . xviii . → 18:
 - [book-4/chapter-01.typ] iv → 4
+- [book-4/chapter-01.typ] xii → 12
+- [book-4/chapter-01.typ] xvi → 16
+- [book-4/chapter-01.typ] xvii → 17
 - [book-4/chapter-01.typ] . iv . → 4:
 - [book-4/chapter-01.typ] . xiii . → 13:
 - [book-4/chapter-01.typ] . i . → 1:
 - [book-4/chapter-01.typ] . xxiv . → 24:
+- [book-4/chapter-01.typ] xxvi → 26
 - [book-4/chapter-01.typ] . x . → 10:
 - [book-4/chapter-01.typ] ii → 2
 - [book-4/chapter-01.typ] . xxii . → 22:
 - [book-4/chapter-01.typ] iii → 3
+- [book-4/chapter-01.typ] vi → 6
 - [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] xi → 11
 - [book-4/chapter-01.typ] . v . → 5:
 - [book-4/chapter-01.typ] . i . → 1:
 - [book-4/chapter-01.typ] ii → 2
 - [book-4/chapter-01.typ] . xiii . → 13:
-- [book-4/chapter-01.typ] vii → 7
+- [book-4/chapter-01.typ] vii . → 
+- [book-4/chapter-01.typ] , xiv . → :7; 14:
+- [book-4/chapter-01.typ] xv → 15
+- [book-4/chapter-01.typ] xvii → 17
 - [book-4/chapter-01.typ] . vi . → 6:
+- [book-4/chapter-01.typ] xi → 11
 - [book-4/chapter-01.typ] . xi . → 11:
 - [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] v → 5
 - [book-4/chapter-01.typ] . xiii . → 13:
 - [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] vi → 6
 - [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] iv → 4
 - [book-4/chapter-01.typ] ii → 2
 - [book-4/chapter-01.typ] . vii . → 7:
 - [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] . iv . → 4:
 - [book-4/chapter-01.typ] . xii . → 12:
 - [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] iii → 3
 - [book-4/chapter-01.typ] . lxxiii . → 73:
 - [book-4/chapter-01.typ] xvi → 16
 - [book-4/chapter-01.typ] xviii → 18
 - [book-4/chapter-01.typ] iv → 4
-- [book-4/chapter-01.typ] vii → 7
+- [book-4/chapter-01.typ] vii . → 
+- [book-4/chapter-01.typ] , xiv . → :7; 14:
+- [book-4/chapter-01.typ] xvi → 16
 - [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] . iv . → 4:
 - [book-4/chapter-01.typ] . vi . → 6:
@@ -1331,6 +1360,7 @@
 - [book-4/chapter-02.typ] vi → 6
 - [book-4/chapter-02.typ] ii → 2
 - [book-4/chapter-02.typ] i → 1
+- [book-4/chapter-02.typ] iv → 4
 - [book-4/chapter-02.typ] . v . → 5:
 - [book-4/chapter-02.typ] do → do or no
 - [book-4/chapter-02.typ] iii → 3
@@ -1401,6 +1431,10 @@
 - [book-4/chapter-03.typ] . xxv . → 25:
 - [book-4/chapter-03.typ] . iii . → 3:
 - [book-4/chapter-03.typ] . xxxvi . → 36:
+- [book-4/chapter-03.typ] lvii → 57
+- [book-4/chapter-03.typ] lxi → 61
+- [book-4/chapter-03.typ] lxiii → 63
+- [book-4/chapter-03.typ] xci → 91
 - [book-4/chapter-03.typ] . xxiii . → 23:
 - [book-4/chapter-03.typ] . iii . → 3:
 - [book-4/chapter-03.typ] . ii . → 2:
@@ -1434,7 +1468,8 @@
 - [book-4/chapter-03.typ] . lxxii . → 72:
 - [book-4/chapter-03.typ] ii → 2
 - [book-4/chapter-03.typ] ii → 2
-- [book-4/chapter-03.typ] . ii . → 2:
+- [book-4/chapter-03.typ] . ii . → 
+- [book-4/chapter-03.typ] , lxvi . → :2; 66:
 - [book-4/chapter-03.typ] Tit . ii . → Titus 2:
 - [book-4/chapter-03.typ] . xii . → 12:
 - [book-4/chapter-03.typ] which → who
@@ -1566,6 +1601,7 @@
 - [book-4/chapter-04.typ] . v . → 5:
 - [book-4/chapter-04.typ] xvii → 17
 - [book-4/chapter-04.typ] . xx . → 20:
+- [book-4/chapter-04.typ] xxvi → 26
 - [book-4/chapter-04.typ] x → 10
 - [book-4/chapter-04.typ] . vi . → 6:
 - [book-4/chapter-04.typ] . liii . → 53:
@@ -1592,6 +1628,7 @@
 - [book-4/chapter-05.typ] iv → 4
 - [book-4/chapter-05.typ] to → to the
 - [book-4/chapter-05.typ] . vii . → 7:
+- [book-4/chapter-05.typ] xv → 15
 - [book-4/chapter-05.typ] . xv . → 15:
 - [book-4/chapter-05.typ] . vi . → 6:
 - [book-4/chapter-05.typ] . v . → 5:
@@ -1686,6 +1723,7 @@
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] and → and to
 - [book-4/chapter-06.typ] Ps . xii . → Psalm 12:
+- [book-4/chapter-06.typ] xviii → 18
 - [book-4/chapter-06.typ] of → of 1 Timothy
 - [book-4/chapter-06.typ] Tim . ii . → :
 - [book-4/chapter-06.typ] . v . → 5:
@@ -1698,6 +1736,7 @@
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] v → 5
 - [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] iv → 4
 - [book-4/chapter-06.typ] the → the two
 - [book-4/chapter-06.typ] two → 
@@ -1719,6 +1758,7 @@
 - [book-4/chapter-06.typ] . xi . → 11:
 - [book-4/chapter-06.typ] vii . → 7
 - [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] iv → 4
 - [book-4/chapter-06.typ] . xxii . → 22:
 - [book-4/chapter-06.typ] . xi . → 11:
@@ -1728,6 +1768,7 @@
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] viii → 8
 - [book-4/chapter-06.typ] iv → 4
 - [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] it → it not
@@ -1751,6 +1792,7 @@
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] ii → 2
 - [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] . v . → 5:
@@ -1775,11 +1817,20 @@
 - [book-4/chapter-06.typ] xvii → 17
 - [book-4/chapter-06.typ] . cxlvii . → 147:
 - [book-4/chapter-06.typ] . xi . → 11:
+- [book-4/chapter-06.typ] xxii → 22
 - [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] . x . → 10:
 - [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] viii → 8
+- [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] xv → 15
+- [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] the Lord → God
 - [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] viii → 8
+- [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] xv → 15
 - [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] mean → mind
 - [book-4/chapter-06.typ] xiv → 14
@@ -1794,6 +1845,7 @@
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] . xviii . → 18:
+- [book-4/chapter-06.typ] xxxiii → 33
 - [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] . vii . → 7:
@@ -1809,6 +1861,7 @@
 - [book-4/chapter-06.typ] . xlvi . → 46:
 - [book-4/chapter-06.typ] . xxviii . → 28:
 - [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] xlix → 49
 - [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] . ii . → 2:
@@ -1832,9 +1885,12 @@
 - [book-4/chapter-06.typ] . xlv . → 45:
 - [book-4/chapter-06.typ] xlix → 49
 - [book-4/chapter-06.typ] Isa . xlv . → Isaiah 45:
+- [book-4/chapter-06.typ] xlix → 49
 - [book-4/chapter-06.typ] of → 
 - [book-4/chapter-06.typ] . xiii . → 13:
 - [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] xvii → 17
 - [book-4/chapter-06.typ] ii → 2
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] . ix . → 9:
@@ -1866,6 +1922,7 @@
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] . x . → 10:
 - [book-4/chapter-06.typ] . xliv . → 44:
+- [book-4/chapter-06.typ] lxi → 61
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] . xxviii . → 28:
 - [book-4/chapter-06.typ] xvi → 16
@@ -1886,6 +1943,7 @@
 - [book-4/chapter-06.typ] v → 5
 - [book-4/chapter-06.typ] xvii → 17
 - [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] xi → 11
 - [book-4/chapter-06.typ] . xxix . → 29:
 - [book-4/chapter-06.typ] viii → 8
 - [book-4/chapter-06.typ] . xxviii . → 28:
@@ -1896,6 +1954,7 @@
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] xiii → 13
 - [book-4/chapter-06.typ] Tit . ii . → Titus 2:
+- [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] Tit . ii . → Titus 2:
 - [book-4/chapter-06.typ] are → is
 - [book-4/chapter-06.typ] iii → 3
@@ -1911,6 +1970,7 @@
 - [book-4/chapter-06.typ] . xiii . → 13:
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] xvii → 17
 - [book-4/chapter-06.typ] being → being only
 - [book-4/chapter-06.typ] only → 
 - [book-4/chapter-06.typ] iii → 3
@@ -1957,6 +2017,7 @@
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] the → his
 - [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] ii → 2
 - [book-4/chapter-06.typ] were → was
 - [book-4/chapter-06.typ] . cxlvii . → 147:
 - [book-4/chapter-06.typ] . ix . → 9:
@@ -2012,10 +2073,12 @@
 - [book-4/chapter-07.typ] . i . → 1:
 - [book-4/chapter-07.typ] . viii . → 8:
 - [book-4/chapter-07.typ] . viii . → 8:
+- [book-4/chapter-07.typ] xi → 11
 - [book-4/chapter-07.typ] x → 10
 - [book-4/chapter-07.typ] . v . → 5:
 - [book-4/chapter-07.typ] Tit . i . → Titus 1:
 - [book-4/chapter-07.typ] . i . → 1:
+- [book-4/chapter-07.typ] iii → 3
 - [book-4/chapter-07.typ] . v . → 5:
 - [book-4/chapter-07.typ] it → 
 - [book-4/chapter-07.typ] be → 
@@ -2063,6 +2126,7 @@
 - [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] . v . → 5:
 - [appendix-2-sprigge.typ] . xxix . → 29:
+- [appendix-2-sprigge.typ] xxx → 30
 - [appendix-2-sprigge.typ] . vi . → 6:
 - [appendix-2-sprigge.typ] Numb . xvi . → Num 16:
 - [appendix-2-sprigge.typ] . v . → 5:
@@ -2073,18 +2137,21 @@
 - [appendix-2-sprigge.typ] 27 → 28
 - [appendix-2-sprigge.typ] . viii . → 8:
 - [appendix-2-sprigge.typ] . vii . → 7:
+- [appendix-2-sprigge.typ] ix → 9
 - [appendix-2-sprigge.typ] . xxvi . → 26:
 - [appendix-2-sprigge.typ] x → 10
 - [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] . v . → 5:
 - [appendix-2-sprigge.typ] xxxiii → 33
 - [appendix-2-sprigge.typ] . xxi . → 21:
+- [appendix-2-sprigge.typ] xxx → 30
 - [appendix-2-sprigge.typ] i → 1
 - [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] . liii . → 53:
 - [appendix-2-sprigge.typ] . v . → 5:
 - [appendix-2-sprigge.typ] . v . → 5:
 - [appendix-2-sprigge.typ] . vii . → 7:
+- [appendix-2-sprigge.typ] iv → 4
 - [appendix-2-sprigge.typ] . iii . → 3:
 - [appendix-2-sprigge.typ] . v . → 5:
 - [appendix-2-sprigge.typ] . v . → 5:
@@ -2099,12 +2166,15 @@
 - [appendix-2-sprigge.typ] Rom . v . → Romans 5:
 - [appendix-2-sprigge.typ] . iii . → 3:
 - [appendix-2-sprigge.typ] . iv . → 4:
+- [appendix-2-sprigge.typ] xii → 12
 - [appendix-2-sprigge.typ] . i . → 1:
 - [appendix-2-sprigge.typ] . xix . → 19:
 - [appendix-2-sprigge.typ] . xxx . → 30:
 - [appendix-2-sprigge.typ] . viii . → 8:
 - [appendix-2-sprigge.typ] i → 1
+- [appendix-2-sprigge.typ] xvi → 16
 - [appendix-2-sprigge.typ] v → 5
+- [appendix-2-sprigge.typ] xx → 20
 - [appendix-2-sprigge.typ] . i . → 1:
 - [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] . vi . → 6:
@@ -2153,6 +2223,14 @@
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
+- [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → 
@@ -2161,10 +2239,14 @@
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] , → ;
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → :
@@ -2238,6 +2320,8 @@
 - [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] , → ;
+- [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] . → :
@@ -2270,6 +2354,8 @@
 - [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] “ → did
 - [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] , → ;
 - [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] . → . (
@@ -2335,6 +2421,8 @@
 - [book-3/chapter-07.typ] . → :
 - [book-3/chapter-07.typ] . → :
 - [book-3/chapter-07.typ] , → 
+- [book-3/chapter-07.typ] , → ;
+- [book-3/chapter-07.typ] . → :
 - [book-3/chapter-07.typ] . → :
 - [book-3/chapter-08.typ] , → 
 - [book-3/chapter-08.typ] . → :
@@ -2388,19 +2476,53 @@
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
-- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] , → , that
 - [book-4/chapter-01.typ] . → :
@@ -2428,11 +2550,13 @@
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] , → ;
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
 - [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
@@ -2441,6 +2565,14 @@
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] , → ;
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] , → ;
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] , → ;
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] , → ;
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
@@ -2479,6 +2611,8 @@
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] , → ;
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
@@ -2486,6 +2620,8 @@
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-05.typ] ) → ) successors
 - [book-4/chapter-05.typ] . → :
+- [book-4/chapter-05.typ] . → :
+- [book-4/chapter-05.typ] , → ;
 - [book-4/chapter-05.typ] . → :
 - [book-4/chapter-05.typ] ) → ) that much sorer punishment
 - [book-4/chapter-05.typ] . → :
@@ -2508,8 +2644,12 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , that
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
@@ -2517,9 +2657,13 @@
 - [book-4/chapter-06.typ] . → 
 - [book-4/chapter-06.typ] , → 
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , of
@@ -2533,6 +2677,46 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
@@ -2543,6 +2727,31 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
@@ -2551,34 +2760,7 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
-- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
@@ -2589,6 +2771,8 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] . → :
@@ -2599,6 +2783,10 @@
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] , → ;
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] , → ;
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] [ → 
@@ -2608,15 +2796,29 @@
 - [appendix-1-testimonies.typ] ? → .
 - [appendix-1-testimonies.typ] , → 
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
+- [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] , → –
+- [appendix-2-sprigge.typ] , → ;
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
 
 ## case

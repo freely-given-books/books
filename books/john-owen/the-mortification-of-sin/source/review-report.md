@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 508 |
-| emendation | 301 |
-| punctuation | 56 |
-| spelling | 32 |
+| spacing | 513 |
+| emendation | 306 |
+| punctuation | 64 |
+| spelling | 31 |
 | heading | 18 |
 | grammar | 1 |
 | split | 1 |
@@ -78,6 +78,7 @@
 - [chapter-02.typ] . iii . → 3:
 - [chapter-02.typ] . iii . → 3:
 - [chapter-02.typ] . xxxi . → 31:
+- [chapter-02.typ] li → 51
 - [chapter-02.typ] . xxxviii . → 38:
 - [chapter-02.typ] . xl . → 40:
 - [chapter-02.typ] . xxxiii . → 33:
@@ -92,10 +93,12 @@
 - [chapter-02.typ] Tit . ii . → Titus 2:
 - [chapter-02.typ] . ii . → 2:
 - [chapter-03.typ] . xi . → 11:
+- [chapter-03.typ] xxxvi → 36
 - [chapter-03.typ] . v . → 5:
 - [chapter-03.typ] . ix . → 9:
 - [chapter-03.typ] vii → 7
 - [chapter-03.typ] . xi . → 11:
+- [chapter-03.typ] xxxvi → 36
 - [chapter-03.typ] . lvii . → 57:
 - [chapter-03.typ] xv → 15
 - [chapter-03.typ] v → 5
@@ -114,6 +117,7 @@
 - [chapter-04.typ] . xxxviii . → 38:
 - [chapter-04.typ] . xl . → 40:
 - [chapter-04.typ] . ii . → 2:
+- [chapter-04.typ] , iii → ; 3:
 - [chapter-04.typ] . v . → 5:
 - [chapter-04.typ] . iii . → 3:
 - [chapter-05.typ] I . 1 . → 
@@ -234,6 +238,7 @@
 - [chapter-13.typ note] xvi → 16
 - [chapter-13.typ note] . ix . → 9:
 - [chapter-13.typ note] . cxxx . → 130:
+- [chapter-13.typ note] cxxiii → 123
 - [chapter-13.typ note] . xxviii . → 28:
 - [chapter-13.typ note] v → 5
 - [chapter-13.typ note] . lxxxv . → 85:
@@ -330,8 +335,14 @@
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
+- [chapter-02.typ] , → ;
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-03.typ] , → ;
+- [chapter-03.typ] . → :
+- [chapter-03.typ] , → ;
+- [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
@@ -362,6 +373,8 @@
 - [chapter-12.typ] . → :
 - [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → :
+- [chapter-13.typ note] , → ;
+- [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → :
 - [chapter-13.typ] . → :
@@ -390,7 +403,6 @@
 - Micah → Mic
 - Ninethly → Ninthly
 - evidence → evidences
-- iii → iii.
 - overtly → overly
 - perplex → perplex;
 - this → his

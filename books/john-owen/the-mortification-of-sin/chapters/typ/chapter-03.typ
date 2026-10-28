@@ -1,6 +1,6 @@
 == Chapter III
 
-#block(inset: (x: 1em))[The second general principle of the means of mortification proposed to confirmation — The Spirit the only author of this work — Vanity of popish mortification discovered — Many means of it used by them not appointed of God — Those appointed by him abused — The mistakes of others in this business — The Spirit is promised believers for this work, Ezek 11:19, xxxvi. 26 — All that we receive from Christ is by the Spirit — How the Spirit mortifies sin — Gal 5:19–23 — The several ways of his operation to this end proposed — How his work and our duty.]
+#block(inset: (x: 1em))[The second general principle of the means of mortification proposed to confirmation — The Spirit the only author of this work — Vanity of popish mortification discovered — Many means of it used by them not appointed of God — Those appointed by him abused — The mistakes of others in this business — The Spirit is promised believers for this work, Ezek 11:19; 36:26 — All that we receive from Christ is by the Spirit — How the Spirit mortifies sin — Gal 5:19–23 — The several ways of his operation to this end proposed — How his work and our duty.]
 
 #smallcaps[The] next principle relates to the great sovereign cause of the mortification treated of; which, in the words laid for the foundation of this discourse, is said to be the Spirit, — that is, the Holy Ghost, as was evinced.
 
@@ -24,7 +24,7 @@ That none of these ways are sufficient is evident from the nature of the work it
 
 2\. It is, then, the work of the Spirit. For, —
 
-(1.) He is #emph[promised] of God to be given unto us to do this work. The taking away of the stony heart, — that is, the stubborn, proud, rebellious, unbelieving heart, — is in general the work of mortification that we treat of. Now this is still promised to be done by the Spirit, Ezek 11:19, xxxvi. 26, “I will give my Spirit, and take away the stony heart;” and by the Spirit of God is this work wrought when all means fail, Isa 57:17, 18.
+(1.) He is #emph[promised] of God to be given unto us to do this work. The taking away of the stony heart, — that is, the stubborn, proud, rebellious, unbelieving heart, — is in general the work of mortification that we treat of. Now this is still promised to be done by the Spirit, Ezek 11:19; 36:26, “I will give my Spirit, and take away the stony heart;” and by the Spirit of God is this work wrought when all means fail, Isa 57:17, 18.
 
 (2.) We have all our mortification from the #emph[gift] of Christ, and all the gifts of Christ are communicated to us and given us by the Spirit of Christ: “Without Christ we can do nothing,” John 15:5. All communications of supplies and relief, in the beginnings, increasings, actings of any grace whatever, from him, are by the Spirit, by whom he alone works in and upon believers. From him we have our mortification: “He is exalted and made a Prince and a Saviour, to give repentance unto us,” Acts 5:31; and of our repentance our mortification is no small portion. How doth he do it? Having “received the promise of the Holy Ghost,” he sends him abroad for that end, Acts 2:33. You know the manifold promises he made of sending the Spirit, as Tertullian speaks, “Vicariam navare operam,” to do the works that he had to accomplish in us.
 

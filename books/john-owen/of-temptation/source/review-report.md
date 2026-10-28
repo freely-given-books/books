@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 287 |
-| emendation | 220 |
+| spacing | 288 |
+| emendation | 221 |
 | spelling | 69 |
-| punctuation | 43 |
+| punctuation | 45 |
 | heading | 13 |
 | grammar | 2 |
 
@@ -60,6 +60,7 @@
 - [chapter-03.typ] that → them
 - [chapter-03.typ] iii → 3
 - [chapter-03.typ] . xii . → 12:
+- [chapter-03.typ] xx → 20
 - [chapter-03.typ] . vi . → 6:
 - [chapter-03.typ] or → or be overtaken with a fault;” but, “Lest thou also be tempted.” “Thou
 - [chapter-03.typ] should → shall
@@ -248,6 +249,8 @@
 - [chapter-02.typ] . → :
 - [chapter-02.typ] – → ,
 - [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] , → ;
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] ( → 
