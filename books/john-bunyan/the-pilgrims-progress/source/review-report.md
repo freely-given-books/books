@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 49 |
-| spelling | 48 |
+| punctuation | 393 |
+| emendation | 101 |
+| spacing | 94 |
+| spelling | 64 |
 | case | 39 |
-| punctuation | 27 |
-| spacing | 17 |
 | merge | 2 |
 | split | 1 |
 
@@ -17,18 +17,52 @@
 ## emendation
 
 - [apology.typ] in → in a
+- [part-1/stage-01.typ] Psalm → Ps
+- [part-1/stage-01.typ] Psalm → Ps
+- [part-1/stage-01.typ] Tit . → Titus
+- [part-1/stage-01.typ] Psalm → Ps
+- [part-1/stage-01.typ] Ex . → Exod
+- [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-02.typ] picture → picture of
 - [part-1/stage-02.typ] may → , May
+- [part-1/stage-02.typ] Psa . → Ps
 - [part-1/stage-02.typ] 18 → 13
+- [part-1/stage-03.typ] Psa . → Ps
+- [part-1/stage-04.typ] Psa . → Ps
+- [part-1/stage-04.typ] Psalm → Ps
+- [part-1/stage-04.typ] Psa . → Ps
+- [part-1/stage-04.typ] Psa . → Ps
+- [part-1/stage-04.typ] Psa . → Ps
 - [part-1/stage-05.typ] ‘ Twas → ’Twas
 - [part-1/stage-05.typ] ‘ Twas → ’Twas
+- [part-1/stage-05.typ] Psa . → Ps
+- [part-1/stage-05.typ] Psa . → Ps
+- [part-1/stage-05.typ] Psa . → Ps
 - [part-1/stage-06.typ] ‘ twas → ’twas
-- [part-1/stage-06.typ] 4 → 5
+- [part-1/stage-06.typ] Psa . → Ps
+- [part-1/stage-06.typ] . 4 → 5
+- [part-1/stage-06.typ] Psa . → Ps
 - [part-1/stage-07.typ] ‘ Tis → ’Tis
+- [part-1/stage-07.typ] Numb . → Num
+- [part-1/stage-07.typ] Psa . → Ps
+- [part-1/stage-07.typ] Psa . → Ps
+- [part-1/stage-07.typ] Numb . → Num
+- [part-1/stage-07.typ] Psa . → Ps
 - [part-1/stage-07.typ] ‘ twas → ’twas
+- [part-1/stage-09.typ] Eccles → ”
+- [part-1/stage-09.typ] Psa . → Ps
+- [part-1/stage-09.typ] Psa . → Ps
+- [part-1/stage-09.typ] Psa . → Ps
+- [part-1/stage-09.typ] Chron . → Chr
+- [part-1/stage-09.typ] Eccles . → Eccl
 - [part-1/stage-09.typ] , 5 → 2
+- [part-1/stage-09.typ] Psa . → Ps
+- [part-1/stage-09.typ] Psa . → Ps
+- [part-1/stage-10.typ] Psalm → Ps
 - [part-1/stage-10.typ] of → of it
 - [part-1/stage-10.typ] it → 
+- [part-1/stage-10.typ] Psa . → Ps
+- [part-1/stage-10.typ] Isa . → Isaiah
 - [part-1/conclusion.typ] ‘ t will → ’twill
 - [part-2/authors-way.typ] ‘ cause → ’cause
 - [part-2/authors-way.typ] but → but ground for
@@ -37,6 +71,10 @@
 - [part-2/authors-way.typ] at → at the
 - [part-2/authors-way.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] ‘ tis → ’tis
+- [part-2/to-the-reader.typ] Psa . → Ps
+- [part-2/to-the-reader.typ] Psalm → Ps
+- [part-2/stage-01.typ] Psa . → Ps
+- [part-2/stage-01.typ] Psa . → Ps
 - [part-2/stage-02.typ] ‘ t was → ’twas
 - [part-2/stage-02.typ] ‘ Tis → ’Tis
 - [part-2/stage-02.typ] ‘ tis → ’tis
@@ -46,55 +84,435 @@
 - [part-2/stage-03.typ] ‘ twas → ’twas
 - [part-2/stage-03.typ] when → 
 - [part-2/stage-03.typ] ‘ Tis → ’Tis
+- [part-2/stage-04.typ] Psa → ”
 - [part-2/stage-04.typ] and → and they sent for him, and he came. When he was
+- [part-2/stage-04.typ] Eccles . → Eccl
 - [part-2/stage-05.typ] come → come to
 - [part-2/stage-05.typ] 36 → 35
+- [part-2/stage-05.typ] Psa . → Ps
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
+- [part-2/stage-06.typ] Psa . → Ps
+- [part-2/stage-06.typ] Psa . → Ps
 - [part-2/stage-06.typ] loss → loss of
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
+- [part-2/stage-06.typ] Peter , → Pet
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] ‘ Twas → ’Twas
+- [part-2/stage-06.typ] Psalm → Ps
 - [part-2/stage-06.typ] ‘ t would → ’twould
 - [part-2/stage-06.typ] ‘ T is → ’Tis
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
+- [part-2/stage-07.typ] Psa . → Ps
 - [part-2/stage-07.typ] loth → loth to
 - [part-2/stage-08.typ] ‘ Tis → ’Tis
+- [part-2/stage-08.typ] Psa . → Ps
 - [part-2/stage-08.typ] ‘ tis → ’tis
 - [part-2/stage-08.typ] ‘ t is → ’tis
 - [part-2/stage-08.typ] ‘ Tis → ’Tis
 - [part-2/stage-08.typ] ‘ T was → ’Twas
 - [part-2/stage-08.typ] ‘ T was → ’Twas
+- [part-2/stage-08.typ] Eccles . → Eccl
+- [part-2/stage-08.typ] Eccles . → Eccl
+- [part-2/stage-08.typ] Ecclesiastes → Eccl
+- [part-2/stage-08.typ] Eccles . → Eccl
+- [part-2/stage-08.typ] Eccles . → Eccl
 
 ## punctuation
 
 - [apology.typ] - → —
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] - → –
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] - → –
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] - → –
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] . → 
+- [part-1/stage-01.typ] - → –
+- [part-1/stage-01.typ] . → 
 - [part-1/stage-02.typ] ; → .
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] - → –
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] - → –
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] - → –
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-02.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] - → –
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
 - [part-1/stage-03.typ] , → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-03.typ] . → 
+- [part-1/stage-04.typ] . → 
 - [part-1/stage-04.typ] . → ?
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-04.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] - → –
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
 - [part-1/stage-05.typ] , → 
 - [part-1/stage-05.typ] ; → ?
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] - → –
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
 - [part-1/stage-05.typ] - → —
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
 - [part-1/stage-05.typ] - → —
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
 - [part-1/stage-05.typ] - → —
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] . → 
+- [part-1/stage-05.typ] - → –
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] - → –
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] - → –
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] - → –
 - [part-1/stage-06.typ] - → —
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
+- [part-1/stage-06.typ] . → 
 - [part-1/stage-07.typ] . → 
-- [part-1/stage-09.typ] . → .”
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] - → –
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-07.typ] . → 
+- [part-1/stage-08.typ] . → 
+- [part-1/stage-08.typ] . → 
+- [part-1/stage-08.typ] . → 
+- [part-1/stage-08.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → Eccl
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] . → 
 - [part-1/stage-09.typ] - → —
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
 - [part-1/stage-09.typ] - → —
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] . → 
+- [part-1/stage-09.typ] - → –
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] - → –
+- [part-1/stage-10.typ] - → –
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] - → –
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
 - [part-1/stage-10.typ] , → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] - → –
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-1/stage-10.typ] . → 
+- [part-2/title.typ] . → 
+- [part-2/to-the-reader.typ] . → 
+- [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] , → 
+- [part-2/to-the-reader.typ] . → 
+- [part-2/to-the-reader.typ] - → –
+- [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] . → .”
+- [part-2/to-the-reader.typ] . → 
+- [part-2/to-the-reader.typ] - → –
+- [part-2/stage-01.typ] . → 
+- [part-2/stage-01.typ] . → 
+- [part-2/stage-01.typ] . → 
 - [part-2/stage-02.typ] , → ;
+- [part-2/stage-02.typ] . → 
+- [part-2/stage-02.typ] - → –
+- [part-2/stage-02.typ] . → 
 - [part-2/stage-02.typ] . → ?
+- [part-2/stage-02.typ] . → 
+- [part-2/stage-02.typ] . → 
+- [part-2/stage-02.typ] . → 
+- [part-2/stage-02.typ] . → 
 - [part-2/stage-02.typ] , → 
-- [part-2/stage-04.typ] . → .”
+- [part-2/stage-02.typ] . → 
+- [part-2/stage-02.typ] - → –
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-03.typ] . → 
+- [part-2/stage-04.typ] . → Ps
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] - → –
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] - → –
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] - → –
+- [part-2/stage-04.typ] - → –
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] - → –
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-04.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
 - [part-2/stage-05.typ] - → —
+- [part-2/stage-05.typ] - → –
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-05.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
 - [part-2/stage-06.typ] - → —
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] - → –
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
 - [part-2/stage-06.typ] , → 
-- [part-2/stage-06.typ] , → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] - → –
+- [part-2/stage-06.typ] - → –
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] - → –
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-06.typ] - → –
+- [part-2/stage-06.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] - → –
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-07.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] - → –
+- [part-2/stage-08.typ] . → 
 - [part-2/stage-08.typ] . → .”
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
 - [part-2/stage-08.typ] . → ?
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
+- [part-2/stage-08.typ] . → 
 
 ## case
 
@@ -134,20 +552,26 @@
 ## spelling
 
 - Saviour → Savior (×8)
+- James → Jas (×7)
+- Isaiah → Isa (×4)
+- Judges → Judg (×2)
 - ought → aught (×2)
 - staid → stayed (×2)
 - Apostacy → Apostasy
 - Christana → Christiana
 - Emmanuel’s → Immanuel’s
 - Formality → Formalist
-- Habak → Hab.
+- Habak → Hab
+- Hosea → Hos
 - Hymenius → Hymenaeus
-- Isa → Isa.
+- Kings → Kgs
+- Micah → Mic
 - Mnason → Mnason.
-- Rev → Rev.
+- Peter → Pet
 - The → “The
 - action’s → actions’
 - befal → befall
+- chap → ch
 - come → came
 - conviction → convictions
 - down → down;

@@ -2,13 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2535 |
-| emendation | 431 |
-| punctuation | 134 |
-| spacing | 91 |
+| spelling | 2648 |
+| punctuation | 2426 |
+| emendation | 824 |
+| spacing | 116 |
 | note | 36 |
 | italic | 18 |
-| case | 10 |
+| case | 11 |
 | grammar | 8 |
 | inset | 6 |
 | merge | 4 |
@@ -17,35 +17,60 @@
 ## emendation
 
 - [vol-1/01-prefatory-address.typ note] at bottom of p . 11 , → 
-- [vol-1/01-prefatory-address.typ] Psalm → Ps.
+- [vol-1/01-prefatory-address.typ] Psalm → Ps
 - [vol-1/01-prefatory-address.typ] be → be the
+- [vol-1/01-prefatory-address.typ] Mt . → Matt
 - [vol-1/01-prefatory-address.typ] era → of a
 - [vol-1/01-prefatory-address.typ] subtleties → subtleties of
+- [vol-1/01-prefatory-address.typ] Is . → Isa
+- [vol-1/01-prefatory-address.typ] Mt . → Matt
 - [vol-1/01-prefatory-address.typ] knit → fruit
 - [vol-1/04-epistle-1559.typ note] o ˜ → où
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
+- [vol-1/book-1-argument.typ] Chap . → Chapter
 - [vol-1/book-1-chapter-01.typ] has → have
-- [vol-1/book-1-chapter-04.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-04.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-05.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-04.typ] Psalm → Ps
+- [vol-1/book-1-chapter-04.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-06.typ note] 70 → 
-- [vol-1/book-1-chapter-06.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-06.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-06.typ] Psalm → Ps
+- [vol-1/book-1-chapter-06.typ] Psalm → Ps
+- [vol-1/book-1-chapter-06.typ] Psalm → Ps
 - [vol-1/book-1-chapter-07.typ note] is → it
+- [vol-1/book-1-chapter-08.typ note] Numb . → Num
+- [vol-1/book-1-chapter-08.typ note] Numb . → Num
+- [vol-1/book-1-chapter-08.typ note] Numb . → Num
+- [vol-1/book-1-chapter-08.typ] Numb . → Num
 - [vol-1/book-1-chapter-08.typ] too → too clear to leave it free for heathen writers to deny that Moses did perform miracles, the father of lies suggested a calumny, and
 - [vol-1/book-1-chapter-08.typ] clear to leave it free for heathen writers to deny that Moses did perform miracles , the father of lies suggested a calumny , and → 
-- [vol-1/book-1-chapter-08.typ] Isaiah 55 → Isa. 45
+- [vol-1/book-1-chapter-08.typ] 55 → 45
+- [vol-1/book-1-chapter-08.typ] Chron . → Chr
 - [vol-1/book-1-chapter-09.typ note] étépetis → été petis
 - [vol-1/book-1-chapter-10.typ note] 42 → 
+- [vol-1/book-1-chapter-10.typ] Ex . → Exod
 - [vol-1/book-1-chapter-11.typ note] 80 → 
 - [vol-1/book-1-chapter-11.typ note] 90 → 
 - [vol-1/book-1-chapter-11.typ] δυλια → dulia
 - [vol-1/book-1-chapter-11.typ] λατρια → latria
-- [vol-1/book-1-chapter-11.typ] Psalms → Ps.
-- [vol-1/book-1-chapter-11.typ] Psalm → Ps.
-- [vol-1/book-1-chapter-11.typ] 22 → 32
+- [vol-1/book-1-chapter-11.typ] Psalms → Ps
+- [vol-1/book-1-chapter-11.typ] Psalm → Ps
+- [vol-1/book-1-chapter-11.typ] . 22 → 32
 - [vol-1/book-1-chapter-11.typ] ιδολοδυλια → idolodulia
 - [vol-1/book-1-chapter-11.typ] ιδολατρια → idolatria
 - [vol-1/book-1-chapter-11.typ] δυλια → dulia
@@ -60,241 +85,453 @@
 - [vol-1/book-1-chapter-12.typ] λατρια → latria
 - [vol-1/book-1-chapter-12.typ] δυλια → dulia
 - [vol-1/book-1-chapter-12.typ] λατρια → latria
+- [vol-1/book-1-chapter-12.typ] Mt . → Matt
 - [vol-1/book-1-chapter-12.typ] λατρια → latria
-- [vol-1/book-1-chapter-13.typ note] 59 → . 109
+- [vol-1/book-1-chapter-13.typ note] 59 → 109
 - [vol-1/book-1-chapter-13.typ note] 89 → . 39
+- [vol-1/book-1-chapter-13.typ note] Psal . → Ps
 - [vol-1/book-1-chapter-13.typ note]             → οἰκονομίας
 - [vol-1/book-1-chapter-13.typ] are → are three persons
 - [vol-1/book-1-chapter-13.typ] he → be
 - [vol-1/book-1-chapter-13.typ] it is → this
 - [vol-1/book-1-chapter-13.typ] us → as
+- [vol-1/book-1-chapter-13.typ] ver → v
+- [vol-1/book-1-chapter-13.typ] ver → v
+- [vol-1/book-1-chapter-13.typ] Is . → Isa
+- [vol-1/book-1-chapter-13.typ] Mt . → Matt
+- [vol-1/book-1-chapter-13.typ] Mt . → Matt
 - [vol-1/book-1-chapter-13.typ] he → be
 - [vol-1/book-1-chapter-13.typ] ̔Ου → Οὐ
 - [vol-1/book-1-chapter-13.typ] ἕι → ἓν
 - [vol-1/book-1-chapter-13.typ] εὶς → εἰς
 - [vol-1/book-1-chapter-13.typ] ἑν → ἓν
+- [vol-1/book-1-chapter-13.typ] Is . → Isa
+- [vol-1/book-1-chapter-13.typ] Ex . → Exod
+- [vol-1/book-1-chapter-13.typ] Mt . → Matt
+- [vol-1/book-1-chapter-13.typ] Is . → Isa
+- [vol-1/book-1-chapter-13.typ] Is . → Isa
+- [vol-1/book-1-chapter-14.typ note] Ex . → Exod
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ note] 80 → 30
-- [vol-1/book-1-chapter-14.typ note] 30 → 3
+- [vol-1/book-1-chapter-14.typ note] . 30 → 3
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ] holy → how
+- [vol-1/book-1-chapter-14.typ] Ephes . → Eph
+- [vol-1/book-1-chapter-14.typ] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ] v . e → we
+- [vol-1/book-1-chapter-14.typ] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ] ver . → 
+- [vol-1/book-1-chapter-14.typ] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ] Mt . → Matt
+- [vol-1/book-1-chapter-14.typ] Mt . → Matt
+- [vol-1/book-1-chapter-15.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-15.typ] ant → out
+- [vol-1/book-1-chapter-15.typ] Eccles . → Eccl
+- [vol-1/book-1-chapter-15.typ] Mt . → Matt
 - [vol-1/book-1-chapter-15.typ] so → 
 - [vol-1/book-1-chapter-15.typ] sec → c
 - [vol-1/book-1-chapter-16.typ note] sumum → , summum
+- [vol-1/book-1-chapter-16.typ] Mt . → Matt
+- [vol-1/book-1-chapter-16.typ] Mt . → Matt
 - [vol-1/book-1-chapter-16.typ] Scriptures moreover → Scripture, more over
+- [vol-1/book-1-chapter-16.typ] Is . → Isa
 - [vol-1/book-1-chapter-17.typ note] L → 
-- [vol-1/book-1-chapter-17.typ note] Genesis → Gen.
 - [vol-1/book-1-chapter-17.typ] δ ᾽ → δ’
-- [vol-1/book-1-chapter-18.typ note] 1 → 50
+- [vol-1/book-1-chapter-17.typ] Lament . → Lam
+- [vol-1/book-1-chapter-17.typ] Is . → Isa
+- [vol-1/book-1-chapter-17.typ] Is . → Isa
+- [vol-1/book-1-chapter-17.typ] Is . → Isa
+- [vol-1/book-1-chapter-18.typ note] . 1 → 50
+- [vol-1/book-1-chapter-18.typ note] Is . → Isa
 - [vol-1/book-1-chapter-18.typ] 4 → 3
-- [vol-1/book-1-chapter-18.typ] Psalm → Ps.
+- [vol-1/book-1-chapter-18.typ] Psalm → Ps
+- [vol-1/book-1-chapter-18.typ] Chap . → Chapter
+- [vol-1/book-1-chapter-18.typ] Is . → Isa
+- [vol-1/book-1-chapter-18.typ] I → 1
+- [vol-2/book-2-argument.typ] Chap . → Chapter
+- [vol-2/book-2-argument.typ] Chap . → Chapter
+- [vol-2/book-2-argument.typ] Chap . → Chapter
+- [vol-2/book-2-argument.typ] Chap . → Chapter
+- [vol-2/book-2-argument.typ] Chap . → Chapter
+- [vol-2/book-2-argument.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-01.typ note] folleenchere → folle enchere
 - [vol-2/book-2-chapter-01.typ note] are → are all
 - [vol-2/book-2-chapter-01.typ note] ˆ → à
 - [vol-2/book-2-chapter-01.typ note] is → it
-- [vol-2/book-2-chapter-01.typ] 1 Cor → Rom
-- [vol-2/book-2-chapter-01.typ] 15 → 8
+- [vol-2/book-2-chapter-01.typ] Psal . → Ps
+- [vol-2/book-2-chapter-01.typ] 1 Cor . 15 → Rom 8
 - [vol-2/book-2-chapter-01.typ] 22 → 10
 - [vol-2/book-2-chapter-01.typ] oven → own
 - [vol-2/book-2-chapter-02.typ note] ˆ → a
 - [vol-2/book-2-chapter-02.typ note] attributed → attributed to
+- [vol-2/book-2-chapter-02.typ note] Psalms → Ps
 - [vol-2/book-2-chapter-02.typ note] . set → et
 - [vol-2/book-2-chapter-02.typ] rise → use
 - [vol-2/book-2-chapter-02.typ] thus tested → illustrated
 - [vol-2/book-2-chapter-02.typ] aujtexouvsion → , αὐτεξούσιον
 - [vol-2/book-2-chapter-02.typ] Quast → , Quæst
 - [vol-2/book-2-chapter-02.typ] ejthelodou’lo ” → ἐθελόδουλος
+- [vol-2/book-2-chapter-02.typ] Is . → Isa
+- [vol-2/book-2-chapter-02.typ] Is . → Isa
+- [vol-2/book-2-chapter-02.typ] Is . → Isa
+- [vol-2/book-2-chapter-02.typ] Is . → Isa
 - [vol-2/book-2-chapter-02.typ] eve → we
 - [vol-2/book-2-chapter-02.typ] filautiva kai ; filoneikiva → φιλαυτία καὶ φιλονεικία
 - [vol-2/book-2-chapter-02.typ] blinding → blinding influences
 - [vol-2/book-2-chapter-02.typ] he → be
 - [vol-2/book-2-chapter-02.typ] oJion ejp e \ ma ” a [ geisi → οἷον ἐπ’ ἦμαρ ἄγῃσι
+- [vol-2/book-2-chapter-02.typ] Mt . → Matt
+- [vol-2/book-2-chapter-02.typ] Is . → Isa
 - [vol-2/book-2-chapter-02.typ] ajkrasiva → ἀκρασία
 - [vol-2/book-2-chapter-02.typ] pavtho ” → πάθος
 - [vol-2/book-2-chapter-02.typ] ajkolasiva → ἀκολασία
 - [vol-2/book-2-chapter-02.typ] 6 → 5
 - [vol-2/book-2-chapter-03.typ note] ˆ → a
-- [vol-2/book-2-chapter-03.typ] Isaiah 40 → Isa. 60
-- [vol-2/book-2-chapter-03.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-03.typ] 40 → 60
+- [vol-2/book-2-chapter-03.typ] I → 1
+- [vol-2/book-2-chapter-03.typ] Psalm → Ps
+- [vol-2/book-2-chapter-03.typ] Mt . → Matt
 - [vol-2/book-2-chapter-03.typ] heaven by → heavenly
-- [vol-2/book-2-chapter-04.typ note] Psalm → Ps.
-- [vol-2/book-2-chapter-04.typ note] 2 → 50
+- [vol-2/book-2-chapter-03.typ] I → 1
+- [vol-2/book-2-chapter-03.typ] Mt . → Matt
+- [vol-2/book-2-chapter-04.typ note] Psalm → Ps
+- [vol-2/book-2-chapter-04.typ note] . 2 → 50
+- [vol-2/book-2-chapter-04.typ] Psalm → Ps
 - [vol-2/book-2-chapter-04.typ] when → Even
-- [vol-2/book-2-chapter-04.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-04.typ] Psalm → Ps
+- [vol-2/book-2-chapter-04.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-04.typ] nn → 
 - [vol-2/book-2-chapter-05.typ note] ˆ → a
+- [vol-2/book-2-chapter-05.typ] Psal . → Ps
+- [vol-2/book-2-chapter-05.typ] Psal . → Ps
 - [vol-2/book-2-chapter-05.typ] i5 → 15
+- [vol-2/book-2-chapter-05.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-05.typ] hove → how
+- [vol-2/book-2-chapter-05.typ] Chap . → Chapter
+- [vol-2/book-2-chapter-05.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-05.typ] we → ye
-- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-05.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-06.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps
+- [vol-2/book-2-chapter-05.typ] Psalm → Ps
+- [vol-2/book-2-chapter-06.typ] Psalm → Ps
+- [vol-2/book-2-chapter-06.typ] Mt . → Matt
+- [vol-2/book-2-chapter-06.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-07.typ note] 117 → 118
-- [vol-2/book-2-chapter-07.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-07.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-07.typ] Psalm → Ps
+- [vol-2/book-2-chapter-07.typ] Mt . → Matt
+- [vol-2/book-2-chapter-07.typ] Psalm → Ps
+- [vol-2/book-2-chapter-07.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ note] 12 → 13
-- [vol-2/book-2-chapter-08.typ note] Psalm → Ps.
+- [vol-2/book-2-chapter-08.typ note] Psalm → Ps
 - [vol-2/book-2-chapter-08.typ note] Ecclesiæ → Ecclesiæ; Vera Reformandæ Ecclesiæ
-- [vol-2/book-2-chapter-08.typ note] Jer → Isa
+- [vol-2/book-2-chapter-08.typ note] Jer . → Isa
 - [vol-2/book-2-chapter-08.typ note] 5 → 6
-- [vol-2/book-2-chapter-08.typ note] 27 → 17
-- [vol-2/book-2-chapter-08.typ note] Isiah 55 → Isa. 56
+- [vol-2/book-2-chapter-08.typ note] . 27 → 17
+- [vol-2/book-2-chapter-08.typ note] 55 → 56
 - [vol-2/book-2-chapter-08.typ note] N → 
 - [vol-2/book-2-chapter-08.typ note] P — → 
 - [vol-2/book-2-chapter-08.typ note] on → en
-- [vol-2/book-2-chapter-08.typ note] 25 → 15
-- [vol-2/book-2-chapter-08.typ note] 17 → 18
+- [vol-2/book-2-chapter-08.typ note] Mt . 25 → Matt 15
+- [vol-2/book-2-chapter-08.typ note] Colloss . → Col
+- [vol-2/book-2-chapter-08.typ note] Chap . → Chapter
+- [vol-2/book-2-chapter-08.typ note] Chap . → Chapter
+- [vol-2/book-2-chapter-08.typ note] Chap . → Chapter
+- [vol-2/book-2-chapter-08.typ note] Chap . 17 → Chapter 18
 - [vol-2/book-2-chapter-08.typ note] lˆ → la
 - [vol-2/book-2-chapter-08.typ note] ˆ → à
 - [vol-2/book-2-chapter-08.typ note] 88 → 83
-- [vol-2/book-2-chapter-08.typ note] 142 → 143
+- [vol-2/book-2-chapter-08.typ note] . 142 → 143
+- [vol-2/book-2-chapter-08.typ note] Is . → Isa
 - [vol-2/book-2-chapter-08.typ note] 57 → 58
 - [vol-2/book-2-chapter-08.typ] Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
 - [vol-2/book-2-chapter-08.typ] 59 . → 
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] mighty → , might,
-- [vol-2/book-2-chapter-08.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] I → 1
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Psalm → Ps
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] Mt . → Matt
 - [vol-2/book-2-chapter-09.typ] 28 → 11
 - [vol-2/book-2-chapter-10.typ note] enterre → en terre
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ note] Mt . → Matt
+- [vol-2/book-2-chapter-10.typ] Is . → Isa
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Mt . → Matt
 - [vol-2/book-2-chapter-10.typ] reproach → 
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
-- [vol-2/book-2-chapter-10.typ] Psalm → Ps.
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Psalm → Ps
+- [vol-2/book-2-chapter-10.typ] Chap . → Chapter
+- [vol-2/book-2-chapter-10.typ] Mt . → Matt
+- [vol-2/book-2-chapter-10.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ note] ˆ → à
 - [vol-2/book-2-chapter-11.typ note] cá → çà
 - [vol-2/book-2-chapter-11.typ note] lá → là
 - [vol-2/book-2-chapter-11.typ] at → of
+- [vol-2/book-2-chapter-11.typ] Mt . → Matt
+- [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] characters honoured → character, honored
+- [vol-2/book-2-chapter-11.typ] Mt . → Matt
+- [vol-2/book-2-chapter-11.typ] Mt . → Matt
+- [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] clay → day
-- [vol-2/book-2-chapter-12.typ note] 5 → 5:25; 11
+- [vol-2/book-2-chapter-12.typ note] Mt . → 11:25; Matt
 - [vol-2/book-2-chapter-12.typ] the → i.e.
+- [vol-2/book-2-chapter-12.typ] Is . → Isa
+- [vol-2/book-2-chapter-12.typ] Tit . → Titus
+- [vol-2/book-2-chapter-12.typ] Tit . → Titus
+- [vol-2/book-2-chapter-12.typ] I → 1
 - [vol-2/book-2-chapter-12.typ] And → All,
 - [vol-2/book-2-chapter-13.typ note] the → this
+- [vol-2/book-2-chapter-13.typ] I → 1
+- [vol-2/book-2-chapter-13.typ] Mt . → Matt
 - [vol-2/book-2-chapter-14.typ note] 52 → 102
 - [vol-2/book-2-chapter-14.typ note] VideCalv → Vide Calv
 - [vol-2/book-2-chapter-14.typ] ijdiwmavtwn → ἰδιωμάτων
 - [vol-2/book-2-chapter-14.typ] koinoniva → κοινωνία
 - [vol-2/book-2-chapter-14.typ] ijdiwvmata → ἰδιώματα
 - [vol-2/book-2-chapter-14.typ] oJmoouvsion → ὁμοούσιον
-- [vol-2/book-2-chapter-15.typ] 60 → 61
+- [vol-2/book-2-chapter-15.typ] Is . → Isa
+- [vol-2/book-2-chapter-15.typ] Is . → Isa
+- [vol-2/book-2-chapter-15.typ] Is . 60 → Isa 61
 - [vol-2/book-2-chapter-15.typ] n → a
 - [vol-2/book-2-chapter-15.typ] and → all,
 - [vol-2/book-2-chapter-16.typ note] ˆ → a
+- [vol-2/book-2-chapter-16.typ note] Ephes . → Eph
+- [vol-2/book-2-chapter-16.typ note] Ephes . → Eph
+- [vol-2/book-2-chapter-16.typ note] Mt . → Matt
 - [vol-2/book-2-chapter-16.typ note] 3 → 13
 - [vol-2/book-2-chapter-16.typ] id → is
+- [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
 - [vol-2/book-2-chapter-16.typ] twm ` a → אשמות
 - [vol-2/book-2-chapter-16.typ] kaqarmavton → καθαρμάτων
 - [vol-2/book-2-chapter-16.typ] to ! ` a → אשם
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] Is . → Isa
 - [vol-2/book-2-chapter-16.typ] ajpoluvtrwsi ” → ἀπολύτρωσις
 - [vol-2/book-2-chapter-16.typ] ajntivlutron → ἀντίλυτρον
 - [vol-2/book-2-chapter-16.typ] kai ; iJlasthvrion → καὶ ἱλαστήριον
+- [vol-2/book-2-chapter-16.typ] I → 1
+- [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] Mt . → Matt
 - [vol-2/book-2-chapter-17.typ] at → of
+- [vol-2/book-2-chapter-17.typ] Is . → Isa
+- [vol-2/book-2-chapter-17.typ] Is . → Isa
 - [vol-2/book-2-chapter-17.typ] aujtov ” → αὐτός
 - [vol-3/book-3-chapter-01.typ note] 2 → 4
 - [vol-3/book-3-chapter-02.typ note] Thess → 1 Thess
+- [vol-3/book-3-chapter-02.typ note] Tit . → Titus
+- [vol-3/book-3-chapter-02.typ note] 18 → 8
+- [vol-3/book-3-chapter-02.typ note] Tit . → Titus
 - [vol-3/book-3-chapter-02.typ note] 4 → 14
 - [vol-3/book-3-chapter-02.typ note] engulfthem → engulf them
-- [vol-3/book-3-chapter-02.typ] 4 → 55
+- [vol-3/book-3-chapter-02.typ] Is . 4 → Isa 55
+- [vol-3/book-3-chapter-02.typ] Is . → Isa
 - [vol-3/book-3-chapter-02.typ] which → which proceeds from
-- [vol-3/book-3-chapter-02.typ] 16 → 15
-- [vol-3/book-3-chapter-02.typ] 1 → 2
+- [vol-3/book-3-chapter-02.typ] Tit . → Titus
+- [vol-3/book-3-chapter-02.typ] Mt . 16 → Matt 15
+- [vol-3/book-3-chapter-02.typ] . 1 → 2
 - [vol-3/book-3-chapter-02.typ] 2 , → 
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
-- [vol-3/book-3-chapter-02.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Is . → Isa
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
 - [vol-3/book-3-chapter-02.typ] here → has
 - [vol-3/book-3-chapter-02.typ] 17 → 7
 - [vol-3/book-3-chapter-02.typ] in grafts → ingrafts
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] I → 1
 - [vol-3/book-3-chapter-02.typ] 2 → 11
+- [vol-3/book-3-chapter-02.typ] Is . → Isa
 - [vol-3/book-3-chapter-02.typ] each → such
 - [vol-3/book-3-chapter-02.typ] A → 
-- [vol-3/book-3-chapter-03.typ note] 37 → 38
+- [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ note] . 37 → 38
+- [vol-3/book-3-chapter-03.typ note] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ note] του̑ → τοῦ
-- [vol-3/book-3-chapter-03.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Psalm → Ps
+- [vol-3/book-3-chapter-03.typ] Rom . → Romans
 - [vol-3/book-3-chapter-03.typ] 2 → 11
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] 10 → 15
 - [vol-3/book-3-chapter-03.typ] per adventure → peradventure
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
+- [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] 3 , 4 → 34
-- [vol-3/book-3-chapter-03.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-03.typ] Psalm → Ps
 - [vol-3/book-3-chapter-04.typ note] given → given in the
-- [vol-3/book-3-chapter-04.typ note] 59 → 61
-- [vol-3/book-3-chapter-04.typ note] 3 → 52
+- [vol-3/book-3-chapter-04.typ note] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ note] Is . 59 → Isa 61
+- [vol-3/book-3-chapter-04.typ note] Psal . → Ps
+- [vol-3/book-3-chapter-04.typ note] . 3 → 52
+- [vol-3/book-3-chapter-04.typ note] Tit . → Titus
 - [vol-3/book-3-chapter-04.typ note] I’m → I am
 - [vol-3/book-3-chapter-04.typ note] Isa44 → 44
-- [vol-3/book-3-chapter-04.typ note] PS 32 : 1 & gt ; → 
+- [vol-3/book-3-chapter-04.typ note] gt → 
+- [vol-3/book-3-chapter-04.typ note] Ps → 
+- [vol-3/book-3-chapter-04.typ note] 32 → 
+- [vol-3/book-3-chapter-04.typ note] 1 → 
+- [vol-3/book-3-chapter-04.typ note] 1Cor → 1
 - [vol-3/book-3-chapter-04.typ] to sin → again
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] hint → him
 - [vol-3/book-3-chapter-04.typ] “ allelous ” → ἀλλήλους
 - [vol-3/book-3-chapter-04.typ] contain → contain a
 - [vol-3/book-3-chapter-04.typ] one → our
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] us → we
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] results → result is
 - [vol-3/book-3-chapter-04.typ] lip , → lips
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] took → takes
 - [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] as → us
 - [vol-3/book-3-chapter-04.typ] anti type → antitype
+- [vol-3/book-3-chapter-04.typ] Psal . → Ps
 - [vol-3/book-3-chapter-04.typ] us , → use
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] Psal . → Ps
+- [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-05.typ note] indul grences → indulgences
+- [vol-3/book-3-chapter-05.typ note] Mt . → Matt
+- [vol-3/book-3-chapter-05.typ note] Mt . → Matt
 - [vol-3/book-3-chapter-05.typ note] à → a
 - [vol-3/book-3-chapter-05.typ note] o ˜ → où
 - [vol-3/book-3-chapter-05.typ note] pour → pour s’excuser, qu’ils ne soyent conveincus d’etre les plus vilains trompeurs qui furent
 - [vol-3/book-3-chapter-05.typ note] that → 
+- [vol-3/book-3-chapter-05.typ] Mt . → Matt
 - [vol-3/book-3-chapter-05.typ] 1 → 2
-- [vol-3/book-3-chapter-06.typ note] 1Cor → 1 Cor
+- [vol-3/book-3-chapter-06.typ note] 1Cor → 1
 - [vol-3/book-3-chapter-06.typ note] 5 → 6
-- [vol-3/book-3-chapter-06.typ] Isaiah rev → Isa
+- [vol-3/book-3-chapter-06.typ] rev → 35
+- [vol-3/book-3-chapter-07.typ note] Mt . → Matt
+- [vol-3/book-3-chapter-07.typ] Mt . → Matt
+- [vol-3/book-3-chapter-07.typ] Mt . → Matt
+- [vol-3/book-3-chapter-07.typ] Mt . → Matt
+- [vol-3/book-3-chapter-07.typ] Tit . → Titus
 - [vol-3/book-3-chapter-07.typ] in → in rendering to
+- [vol-3/book-3-chapter-08.typ] Mt . → Matt
 - [vol-3/book-3-chapter-08.typ] usto → us to
+- [vol-3/book-3-chapter-08.typ] Mt . → Matt
+- [vol-3/book-3-chapter-08.typ] Mt . → Matt
+- [vol-3/book-3-chapter-08.typ] Mt . → Matt
 - [vol-3/book-3-chapter-09.typ note] attracts → attract us
 - [vol-3/book-3-chapter-09.typ note] esseεφἡμερον → esse ἐφήμερον
 - [vol-3/book-3-chapter-09.typ] being → being so
-- [vol-3/book-3-chapter-09.typ] Psalm → Ps.
+- [vol-3/book-3-chapter-09.typ] Tit . → Titus
+- [vol-3/book-3-chapter-09.typ] Psalm → Ps
 - [vol-4/book-3-chapter-11.typ note] that → that that
 - [vol-4/book-3-chapter-11.typ note] having → having added
 - [vol-4/book-3-chapter-11.typ note] added → 
 - [vol-4/book-3-chapter-11.typ] arguments → arguments. Answers
 - [vol-4/book-3-chapter-11.typ] as → so
+- [vol-4/book-3-chapter-11.typ] Psalm → Ps
 - [vol-4/book-3-chapter-11.typ] ( ) → דעת
-- [vol-4/book-3-chapter-11.typ] 3 → 5
+- [vol-4/book-3-chapter-11.typ] . 3 → 5
 - [vol-4/book-3-chapter-11.typ] word → way
 - [vol-4/book-3-chapter-12.typ] 5 → 4
+- [vol-4/book-3-chapter-12.typ] Mt . → Matt
 - [vol-4/book-3-chapter-13.typ] 25 → 26
 - [vol-4/book-3-chapter-13.typ] 50 → 1
-- [vol-4/book-3-chapter-13.typ] Isaiah → (Isa.
+- [vol-4/book-3-chapter-13.typ] Eccles . → Eccl
 - [vol-4/book-3-chapter-13.typ] in grafted → ingrafted
-- [vol-4/book-3-chapter-14.typ note] 7 → 8
+- [vol-4/book-3-chapter-14.typ note] . 7 → 8
 - [vol-4/book-3-chapter-14.typ note] the → 
+- [vol-4/book-3-chapter-14.typ] Tit . → Titus
+- [vol-4/book-3-chapter-14.typ] Mt . → Matt
 - [vol-4/book-3-chapter-14.typ] statement → statement with
-- [vol-4/book-3-chapter-14.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-14.typ] Psalm → Ps
 - [vol-4/book-3-chapter-15.typ note] John → 1 John
-- [vol-4/book-3-chapter-15.typ note] 7 → 8
+- [vol-4/book-3-chapter-15.typ note] . 7 → 8
+- [vol-4/book-3-chapter-15.typ] Psal . → Ps
+- [vol-4/book-3-chapter-15.typ] Psal . → Ps
 - [vol-4/book-3-chapter-15.typ] αὑτου̑ → αὐτοῦ
+- [vol-4/book-3-chapter-15.typ] Mt . → Matt
+- [vol-4/book-3-chapter-15.typ] Mt . → Matt
 - [vol-4/book-3-chapter-15.typ] in → on
+- [vol-4/book-3-chapter-15.typ] Psal . → Ps
 - [vol-4/book-3-chapter-16.typ note] 5 → 4
+- [vol-4/book-3-chapter-16.typ note] Tit . → Titus
+- [vol-4/book-3-chapter-17.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-17.typ note] Chap . → Chapter
 - [vol-4/book-3-chapter-17.typ] er → ex
 - [vol-4/book-3-chapter-17.typ] 10 → 11
 - [vol-4/book-3-chapter-17.typ] big → his
 - [vol-4/book-3-chapter-17.typ] else here → elsewhere
+- [vol-4/book-3-chapter-17.typ] Psal . → Ps
 - [vol-4/book-3-chapter-17.typ] ! yqj → חקים
+- [vol-4/book-3-chapter-17.typ] Psal . → Ps
 - [vol-4/book-3-chapter-17.typ] lie → he
 - [vol-4/book-3-chapter-17.typ] 23 → 33
+- [vol-4/book-3-chapter-18.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ] 6 → 5
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-19.typ note] 16 → 15
 - [vol-4/book-3-chapter-19.typ] rise → use
 - [vol-4/book-3-chapter-19.typ] sock → work
+- [vol-4/book-3-chapter-19.typ] Tit . → Titus
 - [vol-4/book-3-chapter-19.typ] 10 → 12
+- [vol-4/book-3-chapter-19.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ note] Is . → Isa
 - [vol-4/book-3-chapter-20.typ note] conleur → d'autant
 - [vol-4/book-3-chapter-20.typ note] en → en leurs messes ni en leurs vespres; sous quelle couleur defendront ils ces blasphemes qu'il lisent a pleine gorge, ou ils prient St Eloy ou St Medard, de regarder du ciel
 - [vol-4/book-3-chapter-20.typ note] o ˜ → où
@@ -302,23 +539,41 @@
 - [vol-4/book-3-chapter-20.typ note] o ˜ → où
 - [vol-4/book-3-chapter-20.typ note] il → il se
 - [vol-4/book-3-chapter-20.typ note] tent → effrenee qu'ont eu les Papistes et ont encore, qui contre la defense de l'Apostre, chantent
-- [vol-4/book-3-chapter-20.typ note] 11 → 2
+- [vol-4/book-3-chapter-20.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ note] . 11 → 2
 - [vol-4/book-3-chapter-20.typ] use → use. 2
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
+- [vol-4/book-3-chapter-20.typ] Is . → Isa
 - [vol-4/book-3-chapter-20.typ] And → “
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
 - [vol-4/book-3-chapter-20.typ] on → 
-- [vol-4/book-3-chapter-20.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-20.typ] Psalm → Ps
 - [vol-4/book-3-chapter-20.typ] 13 → 10
 - [vol-4/book-3-chapter-20.typ] yet → still
 - [vol-4/book-3-chapter-20.typ] 32 → 34
+- [vol-4/book-3-chapter-20.typ] Eccles . → Eccl
 - [vol-4/book-3-chapter-20.typ] l → I
-- [vol-4/book-3-chapter-20.typ] oil → oil (Ps. 4:7)
+- [vol-4/book-3-chapter-20.typ] Is . → Isa
+- [vol-4/book-3-chapter-20.typ] Is . → Isa
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-20.typ] oil → oil (Ps 4:7)
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
 - [vol-4/book-3-chapter-20.typ] ITS → US
 - [vol-4/book-3-chapter-20.typ] subject → obnoxious
+- [vol-4/book-3-chapter-20.typ] Mt . → Matt
+- [vol-4/book-3-chapter-21.typ note] Psal . → Ps
+- [vol-4/book-3-chapter-21.typ note] Psal . → Ps
 - [vol-4/book-3-chapter-21.typ] l → 1
 - [vol-4/book-3-chapter-21.typ] l → 1
 - [vol-4/book-3-chapter-21.typ] in → an
@@ -326,123 +581,261 @@
 - [vol-4/book-3-chapter-22.typ note] d’a aucuns → d'aucuns
 - [vol-4/book-3-chapter-22.typ] one → our
 - [vol-4/book-3-chapter-22.typ] Holiness of life springs from election , and is the object of it2 → 2
+- [vol-4/book-3-chapter-22.typ] Tit . → Titus
 - [vol-4/book-3-chapter-23.typ note] Auguste Dein → August. de
 - [vol-4/book-3-chapter-23.typ note] er → et
+- [vol-4/book-3-chapter-23.typ] Mt . → Matt
 - [vol-4/book-3-chapter-23.typ] 33 → 35
+- [vol-4/book-3-chapter-23.typ] Mt . → Matt
 - [vol-4/book-3-chapter-23.typ] will , → wills
-- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
-- [vol-4/book-3-chapter-24.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps
+- [vol-4/book-3-chapter-24.typ] Psalm → Ps
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
 - [vol-4/book-3-chapter-24.typ] 1 → 2
-- [vol-4/book-3-chapter-25.typ note] 7 → 8
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ note] . 7 → 8
 - [vol-4/book-3-chapter-25.typ note] se → si
-- [vol-4/book-3-chapter-25.typ] Psalm → Ps.
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Psalm → Ps
+- [vol-4/book-3-chapter-25.typ] ver . → 
 - [vol-4/book-3-chapter-25.typ] 1 → 1), and then denounces
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
+- [vol-5/book-4-argument.typ] Chap . → Chapter
 - [vol-5/book-4-chapter-01.typ note] l → 1
 - [vol-5/book-4-chapter-01.typ note] l → 1
 - [vol-5/book-4-chapter-01.typ note] l → 1
 - [vol-5/book-4-chapter-01.typ note] alla → a la
-- [vol-5/book-4-chapter-01.typ] 32 → . 132
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] 32 → 132
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] Chap . → Chapter
+- [vol-5/book-4-chapter-01.typ] Chap . → Chapter
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] Is . → Isa
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] Mt . → Matt
+- [vol-5/book-4-chapter-01.typ] Tit . → Titus
 - [vol-5/book-4-chapter-02.typ note] no → ne
 - [vol-5/book-4-chapter-02.typ] the → 
-- [vol-5/book-4-chapter-02.typ] 24 → 29
+- [vol-5/book-4-chapter-02.typ] . 24 → 29
 - [vol-5/book-4-chapter-02.typ] he → be
 - [vol-5/book-4-chapter-03.typ note] 6 → 16
+- [vol-5/book-4-chapter-03.typ] Mt . → Matt
+- [vol-5/book-4-chapter-03.typ] Mt . → Matt
 - [vol-5/book-4-chapter-03.typ] I → 1
-- [vol-5/book-4-chapter-03.typ] 4 → 9
+- [vol-5/book-4-chapter-03.typ] Tit . → Titus
+- [vol-5/book-4-chapter-03.typ] . 4 → 9
+- [vol-5/book-4-chapter-03.typ] Tit . → Titus
+- [vol-5/book-4-chapter-03.typ] Tit . → Titus
+- [vol-5/book-4-chapter-03.typ] Tit . → Titus
+- [vol-5/book-4-chapter-03.typ] Tit . → Titus
 - [vol-5/book-4-chapter-03.typ] l → 1
+- [vol-5/book-4-chapter-03.typ] Mt . → Matt
 - [vol-5/book-4-chapter-03.typ] to → to be
 - [vol-5/book-4-chapter-04.typ note] do → de
 - [vol-5/book-4-chapter-04.typ] mendatory rescripts , preventions , and the like . But they all conduct → 
+- [vol-5/book-4-chapter-04.typ] Tit . → Titus
 - [vol-5/book-4-chapter-05.typ] l → 1
-- [vol-5/book-4-chapter-06.typ note] The French adds , “ Vision receue du Seigneur → Eph. 1:22
+- [vol-5/book-4-chapter-06.typ note] The French adds , “ Vision receue du Seigneur → Eph 1:22
 - [vol-5/book-4-chapter-06.typ note] Le Seigneur des armees l’a dit , ” — A vision received from the Lord → 4:15
-- [vol-5/book-4-chapter-06.typ note] The Lord of hosts hath spoken it → 5:23; Col
+- [vol-5/book-4-chapter-06.typ note] The Lord of hosts hath spoken it → 5:23; Col 1:18; 2:10
+- [vol-5/book-4-chapter-06.typ] Mt . → Matt
+- [vol-5/book-4-chapter-06.typ] Mt . → Matt
+- [vol-5/book-4-chapter-06.typ] Mt . → Matt
 - [vol-5/book-4-chapter-06.typ] in → and
+- [vol-5/book-4-chapter-06.typ] Mt . → Matt
 - [vol-5/book-4-chapter-07.typ] ofthe → of the
 - [vol-5/book-4-chapter-07.typ] 4 → 6
 - [vol-5/book-4-chapter-07.typ] 8 → 7
 - [vol-5/book-4-chapter-07.typ] so → as
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
 - [vol-5/book-4-chapter-08.typ] it → 
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-08.typ] Mt . → Matt
+- [vol-5/book-4-chapter-09.typ] Mt . → Matt
 - [vol-5/book-4-chapter-09.typ] of → or
+- [vol-5/book-4-chapter-09.typ] Mt . → Matt
+- [vol-5/book-4-chapter-09.typ] Mt . → Matt
+- [vol-5/book-4-chapter-09.typ] Mt . → Matt
 - [vol-5/book-4-chapter-10.typ note] distincti → distinction which
 - [vol-5/book-4-chapter-10.typ] the , → that
+- [vol-5/book-4-chapter-10.typ] Mt . → Matt
+- [vol-5/book-4-chapter-10.typ] Mt . → Matt
+- [vol-5/book-4-chapter-10.typ] Chap . → Chapter
+- [vol-5/book-4-chapter-10.typ] Chap . → Chapter
 - [vol-5/book-4-chapter-10.typ] and → and not
 - [vol-5/book-4-chapter-10.typ] not → 
+- [vol-5/book-4-chapter-10.typ] Mt . → Matt
 - [vol-5/book-4-chapter-10.typ] 22 → 21
 - [vol-5/book-4-chapter-10.typ] l → 1
+- [vol-5/book-4-chapter-10.typ] Mt . → Matt
+- [vol-5/book-4-chapter-10.typ] Mt . → Matt
+- [vol-5/book-4-chapter-11.typ] Mt . → Matthew
+- [vol-5/book-4-chapter-11.typ] Mt . → Matt
+- [vol-5/book-4-chapter-11.typ] Mt . → Matt
+- [vol-5/book-4-chapter-11.typ] Mt . → Matt
+- [vol-5/book-4-chapter-11.typ] Mt . → Matt
+- [vol-5/book-4-chapter-12.typ] Mt . → Matt
+- [vol-5/book-4-chapter-12.typ] Mt . → Matt
 - [vol-5/book-4-chapter-12.typ] he → be
+- [vol-5/book-4-chapter-12.typ] Chap . → Chapter
+- [vol-5/book-4-chapter-12.typ] Mt . → Matt
+- [vol-5/book-4-chapter-12.typ] Mt . → Matt
+- [vol-5/book-4-chapter-12.typ] Mt . → Matt
 - [vol-5/book-4-chapter-13.typ] anyburdens → any burdens
 - [vol-5/book-4-chapter-13.typ] in → to
 - [vol-5/book-4-chapter-13.typ] it → it may
+- [vol-5/book-4-chapter-13.typ] Tit . → Titus
 - [vol-5/book-4-chapter-13.typ] will → will be
+- [vol-5/book-4-chapter-13.typ] Mt . → Matt
 - [vol-5/book-4-chapter-13.typ] wil1 → will
+- [vol-5/book-4-chapter-13.typ] Mt . → Matt
 - [vol-5/book-4-chapter-13.typ] Christian → Christ in
 - [vol-5/book-4-chapter-13.typ] were → were then
 - [vol-6/book-4-chapter-14.typ note] J’appel le → J’appelle
+- [vol-6/book-4-chapter-14.typ] Mt . → Matt
 - [vol-6/book-4-chapter-14.typ] the → a
 - [vol-6/book-4-chapter-14.typ] be aware → beware
-- [vol-6/book-4-chapter-14.typ] 9 → 4
+- [vol-6/book-4-chapter-14.typ] . 9 → 4
 - [vol-6/book-4-chapter-14.typ] it → if
 - [vol-6/book-4-chapter-14.typ] that → 
 - [vol-6/book-4-chapter-15.typ note] 1’Eglise → l’Eglise
+- [vol-6/book-4-chapter-15.typ] Tit . → Titus
+- [vol-6/book-4-chapter-15.typ] Mt . → Matt
+- [vol-6/book-4-chapter-15.typ] Mt . → Matt
+- [vol-6/book-4-chapter-15.typ] Mt . → Matt
+- [vol-6/book-4-chapter-15.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] βπέφη → βρέφη
 - [vol-6/book-4-chapter-16.typ] kingdom → kingdom of God
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] a → the
-- [vol-6/book-4-chapter-16.typ] 7 → 12
+- [vol-6/book-4-chapter-16.typ] Tit . → Titus
+- [vol-6/book-4-chapter-16.typ] . 7 → 12
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] on ] y → only
-- [vol-6/book-4-chapter-17.typ note] Psalm → Ps.
+- [vol-6/book-4-chapter-17.typ note] Psalm → Ps
+- [vol-6/book-4-chapter-17.typ note] Psal . → Ps
 - [vol-6/book-4-chapter-17.typ] of → 
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] not → 
+- [vol-6/book-4-chapter-17.typ] Chap . → Chapter
 - [vol-6/book-4-chapter-17.typ] all → all the
-- [vol-6/book-4-chapter-17.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-17.typ] Psalm → Ps
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] wil1 → will
-- [vol-6/book-4-chapter-17.typ] 7 → 12
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
+- [vol-6/book-4-chapter-17.typ] Tit . → Titus
+- [vol-6/book-4-chapter-17.typ] . 7 → 12
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] says → said
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] us → us to
 - [vol-6/book-4-chapter-17.typ] the → a
 - [vol-6/book-4-chapter-17.typ] he → be
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
+- [vol-6/book-4-chapter-17.typ] ver . → 
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] 7 → 27
 - [vol-6/book-4-chapter-17.typ] 8 → 13
 - [vol-6/book-4-chapter-17.typ] be → 
+- [vol-6/book-4-chapter-17.typ] Psal . → Ps
 - [vol-6/book-4-chapter-17.typ] being → be
 - [vol-6/book-4-chapter-17.typ] l → 1
 - [vol-6/book-4-chapter-17.typ] not → 
+- [vol-6/book-4-chapter-17.typ] Mt . → Matt
 - [vol-6/book-4-chapter-17.typ] says → said
 - [vol-6/book-4-chapter-17.typ] the → a
 - [vol-6/book-4-chapter-18.typ note] . , → ;
 - [vol-6/book-4-chapter-18.typ] respecting → respecting the
 - [vol-6/book-4-chapter-18.typ] or → on
-- [vol-6/book-4-chapter-18.typ] Malachi → Mal.
 - [vol-6/book-4-chapter-18.typ] l → 1
 - [vol-6/book-4-chapter-18.typ] is → 
+- [vol-6/book-4-chapter-19.typ note] Mt . → Matt
 - [vol-6/book-4-chapter-19.typ note] Mt . → Mark
+- [vol-6/book-4-chapter-19.typ note] Mt . → Matt
 - [vol-6/book-4-chapter-19.typ note] 33 → 32
 - [vol-6/book-4-chapter-19.typ] for → from a
 - [vol-6/book-4-chapter-19.typ] of → of the
 - [vol-6/book-4-chapter-19.typ] the → 
+- [vol-6/book-4-chapter-19.typ] Mt . → Matt
 - [vol-6/book-4-chapter-19.typ] l → 1
+- [vol-6/book-4-chapter-19.typ] Mt . → Matt
 - [vol-6/book-4-chapter-19.typ] and → and the
 - [vol-6/book-4-chapter-19.typ] mortified → mortified the
-- [vol-6/book-4-chapter-19.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-19.typ] Psalm → Ps
 - [vol-6/book-4-chapter-19.typ] as → as if
 - [vol-6/book-4-chapter-19.typ] spiritua1 → spiritual
 - [vol-6/book-4-chapter-19.typ] can → could
+- [vol-6/book-4-chapter-19.typ] Mt . → Matt
+- [vol-6/book-4-chapter-19.typ] Mt . → Matt
+- [vol-6/book-4-chapter-20.typ note] Chron . → Chr
+- [vol-6/book-4-chapter-20.typ note] Mt . → Matt
 - [vol-6/book-4-chapter-20.typ note] toutes fois → toutesfois
 - [vol-6/book-4-chapter-20.typ note] 21 → 24
 - [vol-6/book-4-chapter-20.typ note] 14 → 11
-- [vol-6/book-4-chapter-20.typ note] Psalm → Ps.
-- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
-- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
-- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
-- [vol-6/book-4-chapter-20.typ] Psalm → Ps.
+- [vol-6/book-4-chapter-20.typ note] Mt . → Matt
+- [vol-6/book-4-chapter-20.typ note] Psalm → Ps
+- [vol-6/book-4-chapter-20.typ] Chap . → Chapter
+- [vol-6/book-4-chapter-20.typ] Chap . → Chapter
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps
+- [vol-6/book-4-chapter-20.typ] Chron . → Chr
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps
+- [vol-6/book-4-chapter-20.typ] Psalm → Ps
 - [vol-6/book-4-chapter-20.typ] men → 
 - [vol-6/book-4-chapter-20.typ] an → 
 - [vol-6/book-4-chapter-20.typ] cannot → cannot but
 - [vol-6/book-4-chapter-20.typ] in → in a
 - [vol-6/book-4-chapter-20.typ] or → and
 - [vol-6/book-4-chapter-20.typ] 8 → 4
+- [vol-6/book-4-chapter-20.typ] Mt . → Matt
 - [vol-6/book-4-chapter-20.typ] or → and
+- [vol-6/book-4-chapter-20.typ] Tit . → Titus
 - [vol-6/book-4-chapter-20.typ] l7 → 17
 - [vol-6/book-4-chapter-20.typ] with → with the
 - [vol-6/book-4-chapter-20.typ] l → 1
@@ -462,143 +855,2436 @@
 ## punctuation
 
 - [vol-1/01-prefatory-address.typ note] , → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] - → –
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/book-1-argument.typ] - → –
+- [vol-1/book-1-argument.typ] - → –
+- [vol-1/book-1-chapter-01.typ note] . → 
+- [vol-1/book-1-chapter-01.typ note] . → 
+- [vol-1/book-1-chapter-04.typ] . → 
+- [vol-1/book-1-chapter-04.typ] . → 
+- [vol-1/book-1-chapter-04.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-06.typ] . → 
+- [vol-1/book-1-chapter-06.typ] . → 
+- [vol-1/book-1-chapter-06.typ] - → –
+- [vol-1/book-1-chapter-07.typ] . → 
 - [vol-1/book-1-chapter-07.typ] ? → ?”
+- [vol-1/book-1-chapter-07.typ] . → 
+- [vol-1/book-1-chapter-07.typ] . → 
+- [vol-1/book-1-chapter-07.typ] . → 
+- [vol-1/book-1-chapter-08.typ note] . → 
+- [vol-1/book-1-chapter-08.typ note] . → 
+- [vol-1/book-1-chapter-08.typ note] . → 
+- [vol-1/book-1-chapter-08.typ note] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-08.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
+- [vol-1/book-1-chapter-09.typ] . → 
 - [vol-1/book-1-chapter-10.typ note] . → 
 - [vol-1/book-1-chapter-10.typ note] . → . 44.
+- [vol-1/book-1-chapter-10.typ] . → 
 - [vol-1/book-1-chapter-11.typ note] ; → ; also Ep. 53. et 126. lib. 2., where Gregory, while wishing to excuse the worship of
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-12.typ] . → 
+- [vol-1/book-1-chapter-12.typ] . → 
 - [vol-1/book-1-chapter-13.typ note] . → 
 - [vol-1/book-1-chapter-13.typ note] : → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] - → –
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ note] . → 
 - [vol-1/book-1-chapter-15.typ note] . → ,
+- [vol-1/book-1-chapter-15.typ note] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-15.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] - → –
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-17.typ note] . → 
+- [vol-1/book-1-chapter-17.typ note] . → 
+- [vol-1/book-1-chapter-17.typ note] . → 
+- [vol-1/book-1-chapter-17.typ note] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] - → –
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] - → –
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-17.typ] . → 
+- [vol-1/book-1-chapter-18.typ note] . → 
+- [vol-1/book-1-chapter-18.typ note] . → 
+- [vol-1/book-1-chapter-18.typ note] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
 - [vol-2/book-2-chapter-01.typ] – → -
-- [vol-2/book-2-chapter-01.typ] – → -
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
+- [vol-2/book-2-chapter-01.typ] . → 
 - [vol-2/book-2-chapter-02.typ note] . → 
 - [vol-2/book-2-chapter-02.typ] – → -
 - [vol-2/book-2-chapter-02.typ] – → -
-- [vol-2/book-2-chapter-02.typ] – → -
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
 - [vol-2/book-2-chapter-02.typ] ) → ).
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
+- [vol-2/book-2-chapter-02.typ] . → 
 - [vol-2/book-2-chapter-03.typ] – → -
-- [vol-2/book-2-chapter-03.typ] – → -
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-03.typ] . → 
+- [vol-2/book-2-chapter-04.typ note] . → 
+- [vol-2/book-2-chapter-04.typ note] . → 
+- [vol-2/book-2-chapter-04.typ note] . → 
+- [vol-2/book-2-chapter-04.typ note] . → 
+- [vol-2/book-2-chapter-04.typ note] . → 
 - [vol-2/book-2-chapter-04.typ note] . → 
 - [vol-2/book-2-chapter-04.typ] – → -
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
 - [vol-2/book-2-chapter-04.typ] – → -
 - [vol-2/book-2-chapter-04.typ] – → -
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
 - [vol-2/book-2-chapter-04.typ] ? → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-05.typ note] . → 
+- [vol-2/book-2-chapter-05.typ note] . → 
+- [vol-2/book-2-chapter-05.typ note] . → 
+- [vol-2/book-2-chapter-05.typ note] . → 
 - [vol-2/book-2-chapter-05.typ] – → -
 - [vol-2/book-2-chapter-05.typ] – → -
 - [vol-2/book-2-chapter-05.typ] – → -
 - [vol-2/book-2-chapter-05.typ] ) → ).
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
 - [vol-2/book-2-chapter-05.typ] ) → );
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
 - [vol-2/book-2-chapter-05.typ] — → ,
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
 - [vol-2/book-2-chapter-05.typ] – → -
-- [vol-2/book-2-chapter-06.typ] – → -
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-05.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-06.typ] . → 
+- [vol-2/book-2-chapter-07.typ note] . → 
 - [vol-2/book-2-chapter-07.typ] – → -
 - [vol-2/book-2-chapter-07.typ] – → -
 - [vol-2/book-2-chapter-07.typ] – → -
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-07.typ] . → 
+- [vol-2/book-2-chapter-08.typ note] — → –
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
 - [vol-2/book-2-chapter-08.typ note] — → -
 - [vol-2/book-2-chapter-08.typ note] — → -
-- [vol-2/book-2-chapter-08.typ note] — → -
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
+- [vol-2/book-2-chapter-08.typ note] . → 
 - [vol-2/book-2-chapter-08.typ] – → -
 - [vol-2/book-2-chapter-08.typ] – → -
 - [vol-2/book-2-chapter-08.typ] – → -
-- [vol-2/book-2-chapter-08.typ] – → -
-- [vol-2/book-2-chapter-08.typ] – → -
-- [vol-2/book-2-chapter-08.typ] – → -
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] , → , in
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-09.typ] . → 
+- [vol-2/book-2-chapter-10.typ note] . → 
+- [vol-2/book-2-chapter-10.typ note] . → 
 - [vol-2/book-2-chapter-10.typ note] — → -
+- [vol-2/book-2-chapter-10.typ note] . → 
 - [vol-2/book-2-chapter-10.typ] – → -
 - [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
 - [vol-2/book-2-chapter-10.typ] ) → 
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
-- [vol-2/book-2-chapter-10.typ] – → -
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
+- [vol-2/book-2-chapter-10.typ] . → 
 - [vol-2/book-2-chapter-11.typ] – → -
-- [vol-2/book-2-chapter-11.typ] – → -
-- [vol-2/book-2-chapter-11.typ] – → -
-- [vol-2/book-2-chapter-11.typ] – → -
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-11.typ] — → ,
 - [vol-2/book-2-chapter-11.typ] . → .,
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-12.typ] – → -
 - [vol-2/book-2-chapter-12.typ] – → -
-- [vol-2/book-2-chapter-12.typ] – → -
-- [vol-2/book-2-chapter-12.typ] – → -
-- [vol-2/book-2-chapter-12.typ] – → -
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
+- [vol-2/book-2-chapter-12.typ] . → 
 - [vol-2/book-2-chapter-13.typ] – → -
-- [vol-2/book-2-chapter-14.typ note] — → -
-- [vol-2/book-2-chapter-14.typ note] — → -
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-13.typ] . → 
+- [vol-2/book-2-chapter-14.typ note] — → –
+- [vol-2/book-2-chapter-14.typ note] — → –
 - [vol-2/book-2-chapter-14.typ] – → -
-- [vol-2/book-2-chapter-14.typ] – → -
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
+- [vol-2/book-2-chapter-14.typ] . → 
 - [vol-2/book-2-chapter-15.typ] – → -
-- [vol-2/book-2-chapter-15.typ] – → -
-- [vol-2/book-2-chapter-15.typ] – → -
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-15.typ] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
+- [vol-2/book-2-chapter-16.typ note] . → 
 - [vol-2/book-2-chapter-16.typ] – → -
 - [vol-2/book-2-chapter-16.typ] – → -
 - [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-16.typ] . → 
+- [vol-2/book-2-chapter-17.typ note] . → 
+- [vol-2/book-2-chapter-17.typ note] . → 
+- [vol-2/book-2-chapter-17.typ note] . → 
 - [vol-2/book-2-chapter-17.typ] – → -
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
 - [vol-2/book-2-chapter-17.typ] , → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-2/book-2-chapter-17.typ] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ note] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-01.typ] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ note] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] - → –
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] - → –
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
+- [vol-3/book-3-chapter-03.typ note] . → 
 - [vol-3/book-3-chapter-03.typ note] — → —French, “l’imputation du peché;”—
 - [vol-3/book-3-chapter-03.typ note] . → ,
 - [vol-3/book-3-chapter-03.typ note] , → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] - → –
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
 - [vol-3/book-3-chapter-03.typ] ) → ).
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] - → –
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-03.typ] . → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] & → 
+- [vol-3/book-3-chapter-04.typ note] ; → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] : → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] . → Cor
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] . → 
 - [vol-3/book-3-chapter-04.typ note] ; → ; 1
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ note] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] - → –
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] - → –
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] - → –
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] . → 
+- [vol-3/book-3-chapter-04.typ] - → –
 - [vol-3/book-3-chapter-05.typ note] . → ,
 - [vol-3/book-3-chapter-05.typ note] . → ,
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] - → –
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-05.typ] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] - → –
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → Cor
 - [vol-3/book-3-chapter-06.typ note] , → ;
-- [vol-3/book-3-chapter-06.typ] . → . 35:
-- [vol-4/book-3-chapter-13.typ] , → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ note] . → 
+- [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-06.typ] . → :
+- [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] - → –
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-07.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-08.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] - → –
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-09.typ] . → 
+- [vol-3/book-3-chapter-10.typ note] . → 
+- [vol-3/book-3-chapter-10.typ] . → 
+- [vol-3/book-3-chapter-10.typ] . → 
+- [vol-3/book-3-chapter-10.typ] . → 
+- [vol-3/book-3-chapter-10.typ] . → 
+- [vol-3/book-3-chapter-10.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] - → –
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] - → –
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] - → –
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] - → –
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] - → –
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-11.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] - → –
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] . → 
+- [vol-4/book-3-chapter-12.typ] - → –
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] , → (
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-13.typ] . → 
+- [vol-4/book-3-chapter-14.typ note] . → 
+- [vol-4/book-3-chapter-14.typ note] . → 
+- [vol-4/book-3-chapter-14.typ note] . → 
+- [vol-4/book-3-chapter-14.typ note] . → 
 - [vol-4/book-3-chapter-14.typ] . → ,
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] - → –
+- [vol-4/book-3-chapter-14.typ] - → –
 - [vol-4/book-3-chapter-14.typ] ) → ).
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-14.typ] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] - → –
+- [vol-4/book-3-chapter-15.typ note] . → 
 - [vol-4/book-3-chapter-15.typ note] . → 
 - [vol-4/book-3-chapter-15.typ note] ; → ; 1
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ note] . → 
+- [vol-4/book-3-chapter-15.typ] . → 
+- [vol-4/book-3-chapter-15.typ] . → 
+- [vol-4/book-3-chapter-15.typ] . → 
+- [vol-4/book-3-chapter-15.typ] . → 
+- [vol-4/book-3-chapter-15.typ] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ note] . → 
+- [vol-4/book-3-chapter-16.typ] . → 
+- [vol-4/book-3-chapter-16.typ] . → 
+- [vol-4/book-3-chapter-16.typ] . → 
+- [vol-4/book-3-chapter-16.typ] . → 
 - [vol-4/book-3-chapter-17.typ note] , → , que quand les œuvres des saincts sont nommées justice, cela ne vient point de leurs
+- [vol-4/book-3-chapter-17.typ note] . → 
+- [vol-4/book-3-chapter-17.typ note] . → 
+- [vol-4/book-3-chapter-17.typ note] . → 
+- [vol-4/book-3-chapter-17.typ note] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] - → –
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
 - [vol-4/book-3-chapter-17.typ] “ → “All
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-17.typ] . → 
+- [vol-4/book-3-chapter-18.typ note] . → 
+- [vol-4/book-3-chapter-18.typ note] . → 
+- [vol-4/book-3-chapter-18.typ note] . → 
+- [vol-4/book-3-chapter-18.typ note] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] - → –
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] - → –
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] - → –
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-18.typ] . → 
+- [vol-4/book-3-chapter-19.typ note] . → 
+- [vol-4/book-3-chapter-19.typ note] . → 
+- [vol-4/book-3-chapter-19.typ note] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] - → –
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
 - [vol-4/book-3-chapter-19.typ] : → :4,
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] - → –
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] - → –
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-19.typ] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
 - [vol-4/book-3-chapter-20.typ note] , → , and proceeds from the same cause: some muttering a host of Ave Marias, and going
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] - → –
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] - → –
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] ( → (1
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] - → –
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] : → ,
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] ) → ,
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] ) → ).
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] ) → ).
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] ) → ,
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-21.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] - → –
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-22.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-23.typ] . → 
+- [vol-4/book-3-chapter-24.typ note] . → 
+- [vol-4/book-3-chapter-24.typ note] . → 
+- [vol-4/book-3-chapter-24.typ note] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] - → –
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] - → –
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] - → –
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] - → –
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-24.typ] . → 
+- [vol-4/book-3-chapter-25.typ note] . → 
+- [vol-4/book-3-chapter-25.typ note] . → 
+- [vol-4/book-3-chapter-25.typ note] - → –
+- [vol-4/book-3-chapter-25.typ note] . → 
+- [vol-4/book-3-chapter-25.typ note] . → 
+- [vol-4/book-3-chapter-25.typ note] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] - → –
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] - → –
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] - → –
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-4/book-3-chapter-25.typ] . → 
+- [vol-5/book-4-chapter-01.typ note] . → 
+- [vol-5/book-4-chapter-01.typ note] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] - → –
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
 - [vol-5/book-4-chapter-01.typ] . → ,
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] - → –
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] - → –
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] - → –
+- [vol-5/book-4-chapter-01.typ] . → 
+- [vol-5/book-4-chapter-01.typ] . → 
 - [vol-5/book-4-chapter-02.typ] . → ,
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-02.typ] . → 
+- [vol-5/book-4-chapter-03.typ note] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] - → –
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] - → –
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-03.typ] . → 
+- [vol-5/book-4-chapter-04.typ] . → 
+- [vol-5/book-4-chapter-04.typ] . → 
+- [vol-5/book-4-chapter-04.typ] . → 
 - [vol-5/book-4-chapter-04.typ] . → .”
-- [vol-5/book-4-chapter-06.typ note] . → . 1:18; 2:10.
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-06.typ note] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
 - [vol-5/book-4-chapter-06.typ] " → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
+- [vol-5/book-4-chapter-06.typ] . → 
 - [vol-5/book-4-chapter-07.typ note] ; → ,
 - [vol-5/book-4-chapter-07.typ note] . → :
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-07.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] - → –
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] - → –
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-08.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-09.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] - → –
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] - → –
+- [vol-5/book-4-chapter-10.typ] - → –
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-10.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] - → –
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-11.typ] . → 
+- [vol-5/book-4-chapter-12.typ note] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-12.typ] . → 
+- [vol-5/book-4-chapter-13.typ note] . → 
 - [vol-5/book-4-chapter-13.typ note] . → ,
 - [vol-5/book-4-chapter-13.typ note] , → 
 - [vol-5/book-4-chapter-13.typ note] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
 - [vol-5/book-4-chapter-13.typ] , → , is
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-5/book-4-chapter-13.typ] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] - → –
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] - → –
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ note] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → ,
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
+- [vol-6/book-4-chapter-14.typ] . → 
 - [vol-6/book-4-chapter-14.typ] . → ,
 - [vol-6/book-4-chapter-14.typ] . → ,
-- [vol-6/book-4-chapter-14.typ] . → ,
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] - → –
+- [vol-6/book-4-chapter-15.typ] - → –
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
+- [vol-6/book-4-chapter-15.typ] . → 
 - [vol-6/book-4-chapter-16.typ] . → ,
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] - → –
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
 - [vol-6/book-4-chapter-16.typ] . → ,
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-16.typ] . → 
+- [vol-6/book-4-chapter-17.typ note] . → 
+- [vol-6/book-4-chapter-17.typ note] . → 
+- [vol-6/book-4-chapter-17.typ note] . → 
+- [vol-6/book-4-chapter-17.typ note] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] - → –
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
 - [vol-6/book-4-chapter-17.typ] ” → 
 - [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
 - [vol-6/book-4-chapter-17.typ] , → , and
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
 - [vol-6/book-4-chapter-17.typ] ) → 
+- [vol-6/book-4-chapter-17.typ] . → 
 - [vol-6/book-4-chapter-17.typ] . → ,
 - [vol-6/book-4-chapter-17.typ] ) → ).
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-17.typ] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] - → –
 - [vol-6/book-4-chapter-18.typ note] ; → ,
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] - → –
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
+- [vol-6/book-4-chapter-18.typ note] . → 
 - [vol-6/book-4-chapter-18.typ] . → ,
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-18.typ] . → 
+- [vol-6/book-4-chapter-19.typ note] . → 
+- [vol-6/book-4-chapter-19.typ note] . → 
+- [vol-6/book-4-chapter-19.typ note] . → 
 - [vol-6/book-4-chapter-19.typ note] , → .
 - [vol-6/book-4-chapter-19.typ] . → ,
 - [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-19.typ] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
 - [vol-6/book-4-chapter-20.typ note] : → ;
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ note] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] - → –
+- [vol-6/book-4-chapter-20.typ] - → –
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] ) → ).
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] - → –
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] - → –
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] - → –
+- [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
 
 ## case
 
 - prefixed → Prefixed (×3)
+- PS → Ps
 - french → French
 - geneva → Geneva
 - in → In
@@ -612,17 +3298,19 @@
 - honour → honor (×221)
 - favour → favor (×151)
 - Saviour → Savior (×104)
+- chap → ch (×101)
 - labour → labor (×91)
 - baptised → baptized (×78)
-- Isaiah → Isa. (×61)
+- Isaiah → Isa (×65)
+- Kings → Kgs (×52)
 - defence → defense (×50)
 - endeavour → endeavor (×44)
 - offence → offense (×42)
-- Is → Isa (×40)
 - neighbour → neighbor (×36)
 - Saviour’s → Savior’s (×31)
 - honourable → honorable (×29)
 - pretence → pretense (×29)
+- James → Jas (×28)
 - fulfil → fulfill (×27)
 - recognise → recognize (×27)
 - splendour → splendor (×26)
@@ -641,18 +3329,19 @@
 - worshippers → worshipers (×15)
 - behaved → behoved (×13)
 - sepulchre → sepulcher (×13)
+- Judges → Judg (×12)
 - licence → license (×12)
 - odour → odor (×12)
 - rigour → rigor (×12)
 - threatening → threatenings (×12)
-- Hosea → Hos. (×11)
+- Hosea → Hos (×11)
 - favourable → favorable (×11)
 - recognising → recognizing (×11)
 - retake → betake (×11)
 - neighbours → neighbors (×10)
 - succour → succor (×10)
 - Gods → God, (×9)
-- Peter → Pet. (×8)
+- Peter → Pet (×8)
 - armour → armor (×8)
 - counsellor → counselor (×8)
 - endeavouring → endeavoring (×8)
@@ -669,7 +3358,6 @@
 - minds → mind, (×6)
 - rebaptised → rebaptized (×6)
 - skilful → skillful (×6)
-- Matt → Mt (×5)
 - Origin → Origen (×5)
 - Scriptures → Scripture, (×5)
 - favoured → favored (×5)
@@ -682,10 +3370,7 @@
 - ways → way, (×5)
 - whose → whoso (×5)
 - Honour → Honor (×4)
-- Numb → Num (×4)
-- Ps → Ps. (×4)
-- Psal → Ps (×4)
-- Titus → Tit. (×4)
+- Isiah → Isa (×4)
 - acknowledgement → acknowledgment (×4)
 - ceaselessly → causelessly (×4)
 - foreknow → foreknew (×4)
@@ -707,15 +3392,10 @@
 - Ahab → Ahaz (×3)
 - Conformation → Confirmation (×3)
 - Dionysus → Dionysius (×3)
-- Eccles → Eccl (×3)
-- Ephes → Eph (×3)
-- Ex → Exod (×3)
 - Homily → Homil (×3)
-- Isiah → Isa. (×3)
-- Micah → Mic. (×3)
-- Mt → Mt. (×3)
+- Micah → Mic (×3)
+- Mt → Matt (×3)
 - NEIGHBOUR’S → NEIGHBOR’S (×3)
-- Rom → Rom. (×3)
 - baptises → baptizes (×3)
 - candour → candor (×3)
 - catechising → catechizing (×3)
@@ -736,16 +3416,12 @@
 - 5 → 5. (×2)
 - Baptise → Baptize (×2)
 - Bone → Bono (×2)
-- Cor → Cor. (×2)
 - Counsellor → Counselor (×2)
-- Eph → Eph. (×2)
 - Fathers → Father, (×2)
 - French → French, (×2)
 - God → Good (×2)
-- Isa → Isa. (×2)
 - Persian → Persians (×2)
 - Philistine → Philistines (×2)
-- Sam → Sam. (×2)
 - Whose → Whoso (×2)
 - admits → admit, (×2)
 - anathematised → anathematized (×2)
@@ -837,14 +3513,10 @@
 - Certainly → Certain
 - Chalcedony → Chalcedon
 - Cleres → Clercs
-- Col → Col.
-- Colloss → Col
 - Come → Comme
 - Commandment → Commandment.
 - Curios → Curius
-- Dan → Dan.
-- Daniel → Dan.
-- Deut → Deut.
+- Daniel → Dan
 - Diu → Dieu
 - Divinté → Divinité
 - Doctrine → Doctrina
@@ -855,30 +3527,29 @@
 - Eceles → Eccles
 - Epistles → Epistle
 - Epistles → Epistle,
+- Esther → Esth
 - Ever → Every
-- Exod → Exod.
-- Exodus → Exod.
+- Exodus → Exod
 - Farther → Father
 - Fathered → Father’s
 - Four → pour
 - Gad → God
-- Gen → Gen.
+- Genesis → Gen
 - Genesis → Genesim
 - Gods → God
 - Gratis → Gratia
 - HONOUR → HONOR
-- Heb → Heb.
+- Haggai → Hag
 - Hence → Whence
 - Ies → les
 - Ills → Ils
 - Impardonable → unpardonable
 - Janur → Januar
 - Jerusalem → Jerusalem,
-- Joshua → Josh.
+- Joshua → Josh
 - Julia → Julian
 - LABOUR → LABOR
 - LICENCE → LICENSE
-- Lament → Lam
 - Lateral → Lateran
 - Latin → Latin,
 - Lawgivers → Lawgiver,
@@ -886,18 +3557,20 @@
 - Lords → Lord,
 - Lore → Lord
 - Maire → Marie
+- Malachi → Mal
 - Mas → Mais
 - Matthiue → Matthieu
 - Morever → Moreover
 - Mortals → Mortuis
 - NEIGHBOUR → NEIGHBOR
+- Nahum → Nah
 - Nature → Natura
 - Not → No
 - Nothings → Nothing,
 - Pighiium → Pighium
 - Poiotiers → Poictiers
 - Principalament → Principalement
-- Prov → Prov.
+- Psal → Ps
 - Psalmists → Psalmist,
 - Purify → Purifying
 - Put → But
@@ -913,7 +3586,6 @@
 - Testaments → Testament,
 - Therefore → Therefore,
 - Thomas → Thomam
-- Tim → Tim.
 - Trojan → Trajan
 - Way → Nay
 - When → Then

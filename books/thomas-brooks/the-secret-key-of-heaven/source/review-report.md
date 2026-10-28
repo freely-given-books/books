@@ -7,12 +7,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4983 |
-| case | 3803 |
-| emendation | 3717 |
-| spelling | 2429 |
-| italic | 1967 |
-| spacing | 1840 |
+| punctuation | 4981 |
+| case | 3805 |
+| emendation | 3678 |
+| spelling | 2413 |
+| italic | 1971 |
+| spacing | 1881 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
@@ -86,7 +86,7 @@
 - [application-02.typ] paragraph → 2 split(s) at 'Tis, When
 - [application-02.typ] paragraph → 1 split(s) at Every
 - [application-02.typ] paragraph → 3 split(s) at Such, An, This
-- [application-02.typ] paragraph → 7 split(s) at compared, Now, The, In, In, Chap, 2
+- [application-02.typ] paragraph → 7 split(s) at compared, Now, The, In, In, Pſal, 2
 - [application-02.typ] paragraph → 1 split(s) at In
 - [application-02.typ] paragraph → 1 split(s) at Our
 - [application-02.typ] paragraph → 1 split(s) at There
@@ -164,7 +164,7 @@
 - [chapter-01.typ] Closet - → closet
 - [chapter-01.typ] Treatise , → treatise
 - [chapter-01.typ] comfored & → comforted, and
-- [chapter-01.typ] Jesus → Jesus (1Th 2:19-20)
+- [chapter-01.typ] Jesus → Jesus (1 Thess 2:19–20)
 - [chapter-01.typ] that → that “
 - [chapter-01.typ] for ever → forever
 - [chapter-02.typ] Closet - → closet
@@ -179,9 +179,7 @@
 - [chapter-02.typ] Godliness both → godliness
 - [chapter-02.typ] Closet - → closet
 - [chapter-02.typ] c → 
-- [chapter-02.typ] 1 → 
-- [chapter-02.typ] Kings → (1Ki
-- [chapter-02.typ] , 38 , → -
+- [chapter-02.typ] , 38 , → –
 - [chapter-02.typ] , & c → )
 - [chapter-02.typ] that → 
 - [chapter-02.typ] , that → what
@@ -229,10 +227,9 @@
 - [chapter-03.typ] Heaven ) → heaven’s sake,”
 - [chapter-03.typ] go → enter
 - [chapter-03.typ] Heaven → life
-- [chapter-03.typ] Matth . → ” (Mat
+- [chapter-03.typ] Matth . → ” (Matt
 - [chapter-03.typ] Ages Hereticks → ages, heretics
 - [chapter-03.typ] saying → saying “
-- [chapter-03.typ] Tim . 2 . → :
 - [chapter-03.typ] and Sin → sin
 - [chapter-03.typ] and Death → death
 - [chapter-03.typ] and → 
@@ -258,7 +255,7 @@
 - [chapter-03.typ] But → 
 - [chapter-03.typ] But , → 
 - [chapter-03.typ] himself → He Himself
-- [chapter-03.typ] reward → reward (Mat 6:6
+- [chapter-03.typ] reward → reward (Matt 6:6
 - [chapter-03.typ] Matth → 
 - [chapter-03.typ] 6 → 
 - [chapter-03.typ] 6 → 
@@ -292,7 +289,7 @@
 - [argument-01.typ] 26 → 
 - [argument-01.typ] 27 → 
 - [argument-01.typ] 28 → 
-- [argument-01.typ] day → day” (Gen 32:24-28)
+- [argument-01.typ] day → day” (Gen 32:24–28)
 - [argument-01.typ] , and → 
 - [argument-01.typ] a → the
 - [argument-01.typ] Prayer , → prayer
@@ -300,7 +297,7 @@
 - [argument-01.typ] 55 → 
 - [argument-01.typ] 16 → 
 - [argument-01.typ] 17 → 
-- [argument-01.typ] voyce → voice” (Psa 55:16-17)
+- [argument-01.typ] voyce → voice” (Ps 55:16–17)
 - [argument-01.typ] Dan → 
 - [argument-01.typ] 6 → 
 - [argument-01.typ] 10 → 
@@ -309,12 +306,10 @@
 - [argument-01.typ] in → in “
 - [argument-01.typ] c → )
 - [argument-01.typ] 1 → 
-- [argument-01.typ] Kings → (1Ki
-- [argument-01.typ] 1 → 
 - [argument-01.typ] Sam → 
 - [argument-01.typ] 1 → 
 - [argument-01.typ] 13 → 
-- [argument-01.typ] heard → heard” (1Sa 1:13)
+- [argument-01.typ] heard → heard” (1 Sam 1:13)
 - [argument-01.typ] vers → v
 - [argument-01.typ] Lord , → LORD” (
 - [argument-01.typ] . That → ); that
@@ -324,7 +319,6 @@
 - [argument-01.typ] prayeth → prayeth” (Act 9:11)
 - [argument-01.typ] of → 
 - [argument-01.typ] Phil . → :
-- [argument-01.typ] Tim . → Timothy
 - [argument-01.typ] Phil → (Col
 - [argument-01.typ] . So → ); so
 - [argument-01.typ] . And → ); and
@@ -348,7 +342,7 @@
 - [argument-01.typ] cared → cared more
 - [argument-01.typ] more → 
 - [argument-01.typ] And thus → Thus
-- [argument-01.typ] praise → praise” (Mat 21:16)
+- [argument-01.typ] praise → praise” (Matt 21:16)
 - [argument-01.typ] And → 
 - [argument-01.typ] Emperor , → emperor
 - [argument-01.typ] shut → shut himself
@@ -377,10 +371,9 @@
 - [argument-01.typ] 6 → 
 - [argument-01.typ] 12 → 
 - [argument-01.typ] inher it → inherit
-- [argument-01.typ] Promises → promises” (Pro 2:20; 1Co 11:1; Phi 3:17; 4:9; 1Th 1:6; Heb 6:12)
+- [argument-01.typ] Promises → promises” (Pro 2:20; 1 Cor 11:1; Phi 3:17; 4:9; 1 Thess 1:6; Heb 6:12)
 - [argument-01.typ] So → See
-- [argument-01.typ] Tim . → Timothy
-- [argument-01.typ] , 11 , → -
+- [argument-01.typ] , 11 , → –
 - [argument-01.typ] 'Twas → It was
 - [argument-01.typ] viz → 
 - [argument-01.typ] , That → that
@@ -394,7 +387,7 @@
 - [argument-02.typ] Matth → 
 - [argument-02.typ] 14 → 
 - [argument-02.typ] 23 → 
-- [argument-02.typ] alone → alone” (Mat 14:23)
+- [argument-02.typ] alone → alone” (Matt 14:23)
 - [argument-02.typ] , calls → call
 - [argument-02.typ] Mark → 
 - [argument-02.typ] 1 → 
@@ -407,17 +400,17 @@
 - [argument-02.typ] Luke → 
 - [argument-02.typ] 5 → 
 - [argument-02.typ] 16 → 
-- [argument-02.typ] prayed → prayed” (Luk 5:16)
+- [argument-02.typ] prayed → prayed” (Luke 5:16)
 - [argument-02.typ] Gr → Greek
 - [argument-02.typ] He → He “
 - [argument-02.typ] Luke → 
 - [argument-02.typ] 6 → 
 - [argument-02.typ] 12 → 
-- [argument-02.typ] God → God” (Luk 6:12)
+- [argument-02.typ] God → God” (Luke 6:12)
 - [argument-02.typ] Luke → 
 - [argument-02.typ] 21 → 
 - [argument-02.typ] 37 → 
-- [argument-02.typ] Olives → Olives” (Luk 21:37)
+- [argument-02.typ] Olives → Olives” (Luke 21:37)
 - [argument-02.typ] Luke → 
 - [argument-02.typ] 22 → 
 - [argument-02.typ] 39 → 
@@ -425,10 +418,10 @@
 - [argument-02.typ] 44 → 
 - [argument-02.typ] 45 → 
 - [argument-02.typ] with - drawn → withdrawn
-- [argument-02.typ] sorrow → sorrow” (Luk 22:39, 41, 44-45)
+- [argument-02.typ] sorrow → sorrow” (Luke 22:39, 41, 44–45)
 - [argument-02.typ] what → ! What
 - [argument-02.typ] would → would go
-- [argument-02.typ] , 16 , → -
+- [argument-02.typ] , 16 , → –
 - [argument-02.typ] our selves → ourselves
 - [argument-02.typ] viz → 
 - [argument-02.typ] was → was “
@@ -438,12 +431,10 @@
 - [argument-02.typ] 2 → 
 - [argument-02.typ] 6 → 
 - [argument-02.typ] also → also so
-- [argument-02.typ] walked → walked” (1Jo 2:6)
+- [argument-02.typ] walked → walked” (1 John 2:6)
 - [argument-02.typ] in stead → instead
 - [argument-02.typ] 'Tis → It is
 - [argument-02.typ] his Children → His children,
-- [argument-02.typ] 2 → 
-- [argument-02.typ] Cor → (2Co
 - [argument-02.typ] But → Question. But
 - [argument-02.typ] Quest → 
 - [argument-02.typ] First → Answer 1. First
@@ -456,8 +447,7 @@
 - [argument-02.typ] But , → 
 - [argument-02.typ] Secondly → Answer 2. Secondly
 - [argument-02.typ] to → to “
-- [argument-02.typ] 1 → 
-- [argument-02.typ] Thes → (1Th
+- [argument-02.typ] Thes . → Thess
 - [argument-02.typ] every thing → everything
 - [argument-02.typ] Thirdly → Answer 3. Thirdly
 - [argument-02.typ] often - times → oftentimes
@@ -467,7 +457,7 @@
 - [argument-02.typ] our selves → ourselves
 - [argument-02.typ] ; and happy → . Happy
 - [argument-02.typ] Fifthly → Answer 5. Fifthly
-- [argument-02.typ] Priest → Priest (Heb 2:17; Joh 17)
+- [argument-02.typ] Priest → Priest (Heb 2:17; John 17)
 - [argument-02.typ] viz → 
 - [argument-02.typ] Sixthly → Answer 6. Sixthly
 - [argument-03.typ] Consider , → consider
@@ -476,13 +466,13 @@
 - [argument-03.typ] Matth → 
 - [argument-03.typ] 6 . 1 , 2 . → “
 - [argument-03.typ] Synagogues , → synagogues
-- [argument-03.typ] reward → reward” (Mat 6:1-2)
+- [argument-03.typ] reward → reward” (Matt 6:1–2)
 - [argument-03.typ] Vers → 
 - [argument-03.typ] 5 → 
 - [argument-03.typ] Synagogues , → synagogues
 - [argument-03.typ] Vers → 
 - [argument-03.typ] 16 → 
-- [argument-03.typ] reward → reward” (Mat 6:5, 16)
+- [argument-03.typ] reward → reward” (Matt 6:5, 16)
 - [argument-03.typ] , that → than
 - [argument-03.typ] Synagogues , → synagogues
 - [argument-03.typ] Mat . → Matthew
@@ -494,7 +484,7 @@
 - [argument-03.typ] Fidlers , → fiddlers
 - [argument-03.typ] Instruments , → instruments
 - [argument-03.typ] But , → 
-- [argument-04.typ] apart → apart (Zec 12:12-14)
+- [argument-04.typ] apart → apart (Zech 12:12–14)
 - [argument-04.typ] Zech → 
 - [argument-04.typ] 12 → 
 - [argument-04.typ] 12 → 
@@ -509,13 +499,14 @@
 - [argument-04.typ] every one → everyone
 - [argument-04.typ] & c → etc
 - [argument-04.typ] c → 
+- [argument-04.typ] Psal → (Ps
 - [argument-04.typ] God → God (
 - [argument-04.typ] . 16 → )
 - [argument-05.typ] Matth → 
 - [argument-05.typ] 6 . 6 . → “
 - [argument-05.typ] So → 
 - [argument-05.typ] Vers → 
-- [argument-05.typ] 18 → ” (Mat 6:6)
+- [argument-05.typ] 18 → ” (Matt 6:6)
 - [argument-05.typ] , 24 , 25 , 26 , 27 , → -
 - [argument-05.typ] , 22 , → -
 - [argument-05.typ] King → a king
@@ -585,7 +576,7 @@
 - [argument-06.typ] saw → saw “
 - [argument-06.typ] sight → sight” (Act 9:12)
 - [argument-06.typ] Graces → , graces
-- [argument-06.typ] Domitian → Domitian (Rev 1:9; 5:1-9)
+- [argument-06.typ] Domitian → Domitian (Rev 1:9; 5:1–9)
 - [argument-06.typ] Golden - → golden
 - [argument-06.typ] Word → Word most
 - [argument-06.typ] most → 
@@ -599,7 +590,7 @@
 - [argument-06.typ] 14 → 
 - [argument-06.typ] O → Oh,
 - [argument-06.typ] c → .
-- [argument-06.typ] of → of (Jer 33:1-3)
+- [argument-06.typ] of → of (Jer 33:1–3)
 - [argument-06.typ] all → 
 - [argument-06.typ] 'twas → it was
 - [argument-06.typ] ( saith he ) → 
@@ -612,8 +603,8 @@
 - [argument-07.typ] for ever → forever
 - [argument-08.typ] Consider , → consider
 - [argument-08.typ] ( Porta Coeli → porta coeli
-- [argument-08.typ] God → God (Psa 31:22)
-- [argument-08.typ] prayer → prayer (Psa 38:8-9)
+- [argument-08.typ] God → God (Ps 31:22)
+- [argument-08.typ] prayer → prayer (Ps 38:8–9)
 - [argument-08.typ] And → And oh
 - [argument-08.typ] oh → 
 - [argument-08.typ] And → And oh
@@ -624,7 +615,7 @@
 - [argument-08.typ] when ever → whenever
 - [argument-08.typ] Heavens , → heavens
 - [argument-08.typ] years → years (Isa 38:5)
-- [argument-08.typ] Robckah → Rebekah (Gen 24:63-64)
+- [argument-08.typ] Robckah → Rebekah (Gen 24:63–64)
 - [argument-08.typ] Gen → 
 - [argument-08.typ] 32 → 
 - [argument-08.typ] 24 → 
@@ -632,9 +623,9 @@
 - [argument-08.typ] 26 → 
 - [argument-08.typ] 27 → 
 - [argument-08.typ] 28 → 
-- [argument-08.typ] prevailed → prevailed” (Gen 32:24-28)
+- [argument-08.typ] prevailed → prevailed” (Gen 32:24–28)
 - [argument-08.typ] First → (1) First
-- [argument-08.typ] , 4 , → -
+- [argument-08.typ] , 4 , → –
 - [argument-08.typ] Vers → v
 - [argument-08.typ] Gods Prerogative → God’s prerogative-
 - [argument-08.typ] Ergo → 
@@ -657,7 +648,7 @@
 - [argument-08.typ] 22 . ( → 
 - [argument-08.typ] River , → river
 - [argument-08.typ] Galilce , Numb . → Galilee (Num
-- [argument-08.typ] 15 → 15; Deu 3:16)
+- [argument-08.typ] 15 → 15; Deut 3:16)
 - [argument-08.typ] Deut → 
 - [argument-08.typ] 3 → 
 - [argument-08.typ] 16 → 
@@ -684,7 +675,7 @@
 - [argument-08.typ] and → 
 - [argument-08.typ] Jacobs → , Jacob’s
 - [argument-08.typ] so → so “
-- [argument-08.typ] God → God” (2Co 10:4)
+- [argument-08.typ] God → God” (2 Cor 10:4)
 - [argument-08.typ] and → 
 - [argument-08.typ] vers → v
 - [argument-08.typ] over - powers → overpowers
@@ -698,25 +689,22 @@
 - [argument-08.typ] 8 → 
 - [argument-08.typ] 9 → 
 - [argument-08.typ] groanings : → with my groaning;
-- [argument-08.typ] tears → tears” (Psa 6:6)
+- [argument-08.typ] tears → tears” (Ps 6:6)
 - [argument-08.typ] ( viz . → ,
 - [argument-08.typ] Vers → 
 - [argument-08.typ] 8 . → “
-- [argument-08.typ] weeping → weeping” (Psa 6:8)
+- [argument-08.typ] weeping → weeping” (Ps 6:8)
 - [argument-08.typ] Father , → father
 - [argument-08.typ] Mutes → mutes (Lam 2:18)
 - [argument-08.typ] Ambassadors , → ambassadors
 - [argument-08.typ] Grace , → grace
-- [argument-08.typ] mercy → mercy (Mat 26:75)
+- [argument-08.typ] mercy → mercy (Matt 26:75)
 - [argument-08.typ] Vers . 9 . → ” “
-- [argument-08.typ] prayer → prayer” (Psa 6:9)
+- [argument-08.typ] prayer → prayer” (Ps 6:9)
 - [argument-08.typ] Isa → 
 - [argument-08.typ] 65 . 24 . → “
 - [argument-08.typ] answer → answer” (Isa 65:24)
-- [argument-08.typ] Isa . → Isaiah
-- [argument-08.typ] 2 → 
-- [argument-08.typ] Cor → (2Co
-- [argument-08.typ] , 8 , → -
+- [argument-08.typ] , 8 , → –
 - [argument-08.typ] Jonah → 
 - [argument-08.typ] 2 → 
 - [argument-08.typ] 1 → 
@@ -740,12 +728,12 @@
 - [argument-08.typ] 11 → 
 - [argument-08.typ] 1 → 
 - [argument-08.typ] 2 → 
-- [argument-08.typ] quenched → quenched” (Num 11:1-2)
+- [argument-08.typ] quenched → quenched” (Num 11:1–2)
 - [argument-08.typ] over - rules → overrules
 - [argument-08.typ] . So → (see also
-- [argument-08.typ] , 8 , → -
-- [argument-08.typ] , 10 , 11 , 12 , 13 , → -
-- [argument-08.typ] , 16 , → -
+- [argument-08.typ] , 8 , → –
+- [argument-08.typ] , 10 , 11 , 12 , 13 , → –
+- [argument-08.typ] , 16 , → –
 - [argument-08.typ] , Neh . → 
 - [argument-08.typ] . Compared → compared
 - [argument-08.typ] Neh . → 
@@ -771,10 +759,10 @@
 - [argument-09.typ] strengthned , → strengthened
 - [argument-09.typ] Ps → 
 - [argument-09.typ] 34 . 6 . → “
-- [argument-09.typ] troubles → troubles” (Psa 34:6)
+- [argument-09.typ] troubles → troubles” (Ps 34:6)
 - [argument-09.typ] he → he “
 - [argument-09.typ] : and → . “And
-- [argument-09.typ] troubles → troubles” (v. 6; Exo 14:15; Neh 1:11; 2:4)
+- [argument-09.typ] troubles → troubles” (v. 6; Exod 14:15; Neh 1:11; 2:4)
 - [argument-09.typ] O → oh,
 - [argument-09.typ] Trades - man , → tradesman
 - [argument-09.typ] , & c → 
@@ -785,7 +773,7 @@
 - [argument-10.typ] Psal → 
 - [argument-10.typ] 19 → 
 - [argument-10.typ] 12 → 
-- [argument-10.typ] faults → faults” (Psa 19:12)
+- [argument-10.typ] faults → faults” (Ps 19:12)
 - [argument-10.typ] 'Tis → It is
 - [argument-10.typ] my self → myself
 - [argument-10.typ] man → man!” No
@@ -798,15 +786,14 @@
 - [argument-10.typ] Kings → 
 - [argument-10.typ] 8 → 
 - [argument-10.typ] 38 → 
-- [argument-10.typ] c → ” (1Ki 8:38)
+- [argument-10.typ] c → ” (1 Kgs 8:38)
 - [argument-10.typ] ly → lie
 - [argument-10.typ] Sin , → sin
 - [argument-10.typ] every one → everyone
 - [argument-10.typ] belaid → be laid
 - [argument-10.typ] every one → everyone
 - [argument-10.typ] that → Who
-- [argument-10.typ] 2 → 
-- [argument-10.typ] Corin → (2Co
+- [argument-10.typ] Corin . → Cor
 - [argument-10.typ] c → 
 - [argument-10.typ] upon → to
 - [argument-11.typ] Cant → 
@@ -818,12 +805,12 @@
 - [argument-12.typ] John → 
 - [argument-12.typ] 15 → 
 - [argument-12.typ] 15 → 
-- [argument-12.typ] you → you” (Joh 15:15)
+- [argument-12.typ] you → you” (John 15:15)
 - [argument-12.typ] Every thing → Everything
 - [argument-12.typ] his Covenant , → His covenant
 - [argument-12.typ] not → 
 - [argument-12.typ] are → are not
-- [argument-12.typ] life → life (Jdg 16
+- [argument-12.typ] life → life (Judg 16
 - [argument-12.typ] 1 . A → a
 - [argument-12.typ] 2 . An → an
 - [argument-12.typ] 3 . → 
@@ -849,13 +836,13 @@
 - [argument-12.typ] Psal → 
 - [argument-12.typ] 25 → 
 - [argument-12.typ] 14 → 
-- [argument-12.typ] Covenant → covenant” (Psa 25:14)
+- [argument-12.typ] Covenant → covenant” (Ps 25:14)
 - [argument-12.typ] First → (1) First
-- [argument-12.typ] him → Him (Psa 107:43; Hos 14:9)
+- [argument-12.typ] him → Him (Ps 107:43; Hos 14:9)
 - [argument-12.typ] Amos → 
 - [argument-12.typ] 3 → 
 - [argument-12.typ] 7 → 
-- [argument-12.typ] Prophets → prophets” (Amo 3:7)
+- [argument-12.typ] Prophets → prophets” (Amos 3:7)
 - [argument-12.typ] So → 
 - [argument-12.typ] Gen → 
 - [argument-12.typ] 18 → 
@@ -875,16 +862,16 @@
 - [argument-12.typ] Matth → 
 - [argument-12.typ] 11 → 
 - [argument-12.typ] 25 → 
-- [argument-12.typ] babes → babes” (Mat 13:11; 11:25)
+- [argument-12.typ] babes → babes” (Matt 13:11; 11:25)
 - [argument-12.typ] Augustin → ” Augustine
 - [argument-12.typ] , That → that
 - [argument-12.typ] that → that “
-- [argument-12.typ] God → God” (1Co 2:10)
+- [argument-12.typ] God → God” (1 Cor 2:10)
 - [argument-12.typ] Gospel , → gospel
 - [argument-12.typ] Isa → 
 - [argument-12.typ] 29 . 11 , 12 . → “
 - [argument-12.typ] my → the
-- [argument-12.typ] Disciples → disciples” (Isa 8:16; 29:11-12)
+- [argument-12.typ] Disciples → disciples” (Isa 8:16; 29:11–12)
 - [argument-12.typ] Dan → Dan 12:9-10)
 - [argument-12.typ] 12 . 9 , 10 . 'Tis → It is
 - [argument-12.typ] , but Christs → except Christ’s
@@ -902,12 +889,12 @@
 - [argument-12.typ] Luke → 
 - [argument-12.typ] 8 → 
 - [argument-12.typ] 10 → 
-- [argument-12.typ] understand → understand” (Mar 4:11; Luk 8:10)
+- [argument-12.typ] understand → understand” (Mar 4:11; Luke 8:10)
 - [argument-12.typ] Divines , → divines
 - [argument-12.typ] it self → itself
 - [argument-12.typ] Yet → , yet
 - [argument-12.typ] Gospel , → gospel
-- [argument-12.typ] them → them (Rom 16:25; 1Co 2:7)
+- [argument-12.typ] them → them (Rom 16:25; 1 Cor 2:7)
 - [argument-12.typ] unskilful → uneducated
 - [argument-12.typ] Ideot → person
 - [argument-12.typ] spirit , → Spirit
@@ -920,7 +907,7 @@
 - [argument-12.typ] Cor → 
 - [argument-12.typ] 4 → 
 - [argument-12.typ] 6 → 
-- [argument-12.typ] Christ → Christ” (2Co 4:6)
+- [argument-12.typ] Christ → Christ” (2 Cor 4:6)
 - [argument-12.typ] And → Second
 - [argument-12.typ] Secondly , The → the
 - [argument-12.typ] And → Third
@@ -934,11 +921,11 @@
 - [argument-12.typ] Thirdly → (3) Thirdly
 - [argument-12.typ] those → those “
 - [argument-12.typ] reveal → reveal “
-- [argument-12.typ] God → God” (1Co 2:10-11)
+- [argument-12.typ] God → God” (1 Cor 2:10–11)
 - [argument-12.typ] 1 → 
 - [argument-12.typ] Cor → 
 - [argument-12.typ] 2 . 10 , 11 , 12 . → “
-- [argument-12.typ] God → God” (1Co 2:10-12)
+- [argument-12.typ] God → God” (1 Cor 2:10–12)
 - [argument-12.typ] know → know “
 - [argument-12.typ] God → God” (v
 - [argument-12.typ] by → by “
@@ -947,7 +934,7 @@
 - [argument-12.typ] Gods favour , → God’s favors
 - [argument-12.typ] by → by “
 - [argument-12.typ] seems → ” seem
-- [argument-12.typ] import → import (Psa 25:14)
+- [argument-12.typ] import → import (Ps 25:14)
 - [argument-12.typ] John → 
 - [argument-12.typ] 14 → 
 - [argument-12.typ] 21 , 22 , 23 → “
@@ -955,7 +942,7 @@
 - [argument-12.typ] my self unto → myself to
 - [argument-12.typ] thy self → thyself
 - [argument-12.typ] any → a
-- [argument-12.typ] him → him” (Joh 14:21-23)
+- [argument-12.typ] him → him” (John 14:21–23)
 - [argument-12.typ] noble Men → noblemen
 - [argument-12.typ] Dukes , → dukes
 - [argument-12.typ] his Saints , → His saints
@@ -965,9 +952,9 @@
 - [argument-12.typ] his → “The
 - [argument-12.typ] secrets → secret of the LORD is
 - [argument-12.typ] are → 
-- [argument-12.typ] Covenant → covenant” (Psa 25:14)
+- [argument-12.typ] Covenant → covenant” (Ps 25:14)
 - [argument-12.typ] 'twas → It was
-- [argument-12.typ] bedchamber → bedchamber (2Ki 6:12)
+- [argument-12.typ] bedchamber → bedchamber (2 Kgs 6:12)
 - [argument-12.typ] O → Oh,
 - [argument-12.typ] him , who → Him Who
 - [argument-12.typ] & c → etc
@@ -977,7 +964,7 @@
 - [argument-13.typ] 'tis → it is
 - [argument-13.typ] Gen → 
 - [argument-13.typ] 32 . 6 , 7 , 8 , 9 , 11 . → “
-- [argument-13.typ] escape → escape” (Gen 32:6-8)
+- [argument-13.typ] escape → escape” (Gen 32:6–8)
 - [argument-13.typ] 'tis christian → , it is Christian
 - [argument-13.typ] thee → thee” (v. 9)
 - [argument-13.typ] to → to be
@@ -991,7 +978,7 @@
 - [argument-13.typ] 33 . 1 , 2 , 3 . → “
 - [argument-13.typ] Lord → the LORD
 - [argument-13.typ] & I will show → and shew
-- [argument-13.typ] not → not” (Jer 33:1-3)
+- [argument-13.typ] not → not” (Jer 33:1–3)
 - [argument-13.typ] . Prison → prison
 - [argument-13.typ] favours , → favors
 - [argument-13.typ] So → 
@@ -1001,7 +988,7 @@
 - [argument-13.typ] 11 → 
 - [argument-13.typ] 12 → 
 - [argument-13.typ] 13 → 
-- [argument-13.typ] God → God” (2Ch 33:11-13)
+- [argument-13.typ] God → God” (2 Chr 33:11–13)
 - [argument-13.typ] O → oh,
 - [argument-13.typ] But . → 
 - [argument-14.typ] Consider , → consider
@@ -1014,15 +1001,15 @@
 - [argument-14.typ] Psal → 
 - [argument-14.typ] 38 → 
 - [argument-14.typ] 9 → 
-- [argument-14.typ] thee → thee” (Psa 38:9)
+- [argument-14.typ] thee → thee” (Ps 38:9)
 - [argument-14.typ] , but he sees → without Him seeing
 - [argument-14.typ] , but he observes → without Him observing
 - [argument-14.typ] 1 → 
 - [argument-14.typ] Pet → 
 - [argument-14.typ] 3 . 12 . → “
-- [argument-14.typ] prayers → prayers” (1Pe 3:12)
+- [argument-14.typ] prayers → prayers” (1 Pet 3:12)
 - [argument-14.typ] him , whose → Him Whose
-- [argument-14.typ] man → man (1Ti 2:8)
+- [argument-14.typ] man → man (1 Tim 2:8)
 - [argument-14.typ] , as well → 
 - [argument-14.typ] every → everywhere. “There is nowhere
 - [argument-14.typ] : as he → God is not.” As He
@@ -1049,7 +1036,7 @@
 - [argument-15.typ] place → place and right
 - [argument-15.typ] & right : The → the
 - [argument-15.typ] Ordinance & → ordinance, and
-- [argument-15.typ] duties → duties (Psa 63:1-3)
+- [argument-15.typ] duties → duties (Ps 63:1–3)
 - [argument-15.typ] O → Oh,
 - [argument-15.typ] O → Oh,
 - [argument-15.typ] O → Oh,
@@ -1092,17 +1079,17 @@
 - [argument-16.typ] O → Oh,
 - [argument-16.typ] fore - heads , → foreheads
 - [argument-16.typ] Ezek . → Ezekiel
-- [argument-16.typ] , 5 , → -
+- [argument-16.typ] , 5 , → –
 - [argument-17.typ] Seventeenthly , → 
 - [argument-17.typ] , That → that
 - [argument-17.typ] relations , → relation
-- [argument-17.typ] prayer → prayer (Joh 15:14-15)
+- [argument-17.typ] prayer → prayer (John 15:14–15)
 - [argument-17.typ] no body → nobody
 - [argument-17.typ] O → Oh,
 - [argument-17.typ] all → 
 - [argument-17.typ] Cant → 
 - [argument-17.typ] 7 . 10 , 11 , 12 . → “
-- [argument-17.typ] loves → loves” (Song 7:10-12)
+- [argument-17.typ] loves → loves” (Song 7:10–12)
 - [argument-17.typ] 'twas → it was
 - [argument-17.typ] Judg → 
 - [argument-17.typ] 16 → 
@@ -1115,7 +1102,7 @@
 - [argument-17.typ] c → 
 - [argument-17.typ] But , → 
 - [argument-18.typ] Eighteenthly , → 
-- [argument-18.typ] Moses → Moses (Exo 34:28)
+- [argument-18.typ] Moses → Moses (Exod 34:28)
 - [argument-18.typ] Exod → 
 - [argument-18.typ] 34 → 
 - [argument-18.typ] 28 → 
@@ -1127,8 +1114,12 @@
 - [argument-18.typ] Gen → 
 - [argument-18.typ] 24 → 
 - [argument-18.typ] 63 → 
-- [argument-18.typ] . And → ), and
-- [argument-18.typ] David → David (Psa 55:16-17)
+- [argument-18.typ] Jacob → Jacob (Gen 32:24–29)
+- [argument-18.typ] Gen → 
+- [argument-18.typ] 32 → 
+- [argument-18.typ] 24 → 
+- [argument-18.typ] 29 → 
+- [argument-18.typ] David → David (Ps 55:16–17)
 - [argument-18.typ] Psal → 
 - [argument-18.typ] 55 → 
 - [argument-18.typ] 16 → 
@@ -1151,10 +1142,9 @@
 - [argument-18.typ] 10 → 
 - [argument-18.typ] 11 → 
 - [argument-18.typ] 12 → 
-- [argument-18.typ] 2 → 
-- [argument-18.typ] Chron → (2Ch
+- [argument-18.typ] Chron . → Chr
 - [argument-18.typ] Gold , → gold
-- [argument-18.typ] , 5 , → -
+- [argument-18.typ] , 5 , → –
 - [argument-18.typ] But , → 
 - [argument-19.typ] 19thly , → 
 - [argument-19.typ] O → oh,
@@ -1184,17 +1174,17 @@
 - [argument-20.typ] 'Tis → It is
 - [argument-20.typ] Exod → 
 - [argument-20.typ] 19 . 5 . → “
-- [argument-20.typ] people → people” (Exo 19:5)
+- [argument-20.typ] people → people” (Exod 19:5)
 - [argument-20.typ] himself , → Himself
 - [argument-20.typ] Psal → 
 - [argument-20.typ] 135 . 4 . → “
-- [argument-20.typ] treasure → treasure” (Psa 135:4)
+- [argument-20.typ] treasure → treasure” (Ps 135:4)
 - [argument-20.typ] Psal → 
 - [argument-20.typ] 83 → 
 - [argument-20.typ] 3 → 
-- [argument-20.typ] ones → ones” (Psa 83:3)
+- [argument-20.typ] ones → ones” (Ps 83:3)
 - [argument-20.typ] , thy → Thy
-- [argument-20.typ] his Tabernacle , & → His tabernacle (Psa 31:20) and
+- [argument-20.typ] his Tabernacle , & → His tabernacle (Ps 31:20) and
 - [argument-20.typ] , and gain , → 
 - [argument-20.typ] , his → and again His “
 - [argument-20.typ] desireable , → desirable
@@ -1204,18 +1194,18 @@
 - [argument-20.typ] Sam → 
 - [argument-20.typ] 25 → 
 - [argument-20.typ] 25 → 
-- [argument-20.typ] him → him” (1Sa 25:25)
+- [argument-20.typ] him → him” (1 Sam 25:25)
 - [argument-20.typ] Judgment & Understanding → judgment
 - [argument-20.typ] is → and understanding are
 - [argument-20.typ] signifies → signifies “
 - [argument-20.typ] answerto → answer to
 - [argument-20.typ] Idolatrous Priests , → idolatrous priests
-- [argument-20.typ] & c → etc. (1Ki 13:2; 2Ki 23:4-21)
+- [argument-20.typ] & c → etc. (1 Kgs 13:2; 2 Kgs 23:4–21)
 - [argument-20.typ] signifies → signifies “
 - [argument-20.typ] signifies → signifies “
 - [argument-20.typ] And → ; and,
 - [argument-20.typ] his → His “
-- [argument-20.typ] ones → ones” (Psa 83:3)
+- [argument-20.typ] ones → ones” (Ps 83:3)
 - [argument-20.typ] And → Thus
 - [argument-20.typ] thus → ,
 - [application-01.typ] so → true
@@ -1223,13 +1213,13 @@
 - [application-01.typ] Private Prayer , → private prayer
 - [application-01.typ] the woful → woeful
 - [application-01.typ] O → 
-- [application-01.typ] pray → pray (Isa 62:1; Psa 123:1-2; Gal 4:6)
+- [application-01.typ] pray → pray (Isa 62:1; Ps 123:1–2; Gal 4:6)
 - [application-01.typ] Luke → 
 - [application-01.typ] 18 → 
 - [application-01.typ] 1 → 
-- [application-01.typ] faint → faint” (Luk 18:1)
+- [application-01.typ] faint → faint” (Luke 18:1)
 - [application-01.typ] 1 Thes . 5 . 17 . → “
-- [application-01.typ] ceasing → ceasing” (1Th 5:17)
+- [application-01.typ] ceasing → ceasing” (1 Thess 5:17)
 - [application-01.typ] Ephes . 6 . 18 . → “
 - [application-01.typ] Saints → saints” (Eph 6:18)
 - [application-01.typ] Rom . 12 . 12 . → “
@@ -1238,10 +1228,11 @@
 - [application-01.typ] , till → until
 - [application-01.typ] we had need be praying always ; and we are dying always → 
 - [application-01.typ] and therefore → 
-- [application-01.typ] Mans → And we are dying always (1Co 15:31); and therefore, we had need be praying always. Man’s
+- [application-01.typ] Mans → And we are dying always (1 Cor 15:31); and therefore, we had need be praying always. Man’s
 - [application-01.typ] ask't , → asked
 - [application-01.typ] persons → persons (Jer 10:25)
 - [application-01.typ] But , → 
+- [application-01.typ] Psal → (Ps
 - [application-01.typ] day - break → daybreak
 - [application-01.typ] Sun - set → sunset
 - [application-01.typ] And → (6) And
@@ -1256,7 +1247,7 @@
 - [application-01.typ] Church ; → church,”
 - [application-01.typ] But , → ”
 - [application-01.typ] Closet , → closet
-- [application-01.typ] pray → pray” (Mat 6:6)
+- [application-01.typ] pray → pray” (Matt 6:6)
 - [application-01.typ] Eggs , → eggs
 - [application-01.typ] Hen , → hen
 - [application-01.typ] vext , → vexed
@@ -1266,18 +1257,16 @@
 - [application-01.typ] 'tis → it is
 - [application-01.typ] 'tis → it is
 - [application-01.typ] 'tis → it is
-- [application-01.typ] 1 → 
-- [application-01.typ] Cor → (2Co 8:10)
+- [application-01.typ] 1 → 2
+- [application-01.typ] Cor → Cor 8:10)
 - [application-01.typ] 6 . 12 . → “
-- [application-01.typ] expedient → expedient” (1Co 6:12)
+- [application-01.typ] expedient → expedient” (1 Cor 6:12)
 - [application-01.typ] So Chap . 10 . 23 . → “
-- [application-01.typ] not → not” (1Co 10:23)
+- [application-01.typ] not → not” (1 Cor 10:23)
 - [application-01.typ] 'tis → it is
 - [application-01.typ] 'tis → it is
 - [application-01.typ] that → who
 - [application-01.typ] Religious , → religious
-- [application-01.typ] Sam → 
-- [application-01.typ] 1 → 
 - [application-01.typ] Exod → 
 - [application-01.typ] 14 . 15 . → “
 - [application-01.typ] O → Oh,
@@ -1295,25 +1284,25 @@
 - [application-02.typ] Objection . → 
 - [application-02.typ] ware - houses → warehouses
 - [application-02.typ] great → 
-- [application-02.typ] , 19 , → -
+- [application-02.typ] , 19 , → –
 - [application-02.typ] But , → 
 - [application-02.typ] them → them (Gen 22
 - [application-02.typ] how → 17). How
 - [application-02.typ] over flow → overflow
-- [application-02.typ] Corner → corner (1Ch 11:9)
+- [application-02.typ] Corner → corner (1 Chr 11:9)
 - [application-02.typ] what - ever → whatever
-- [application-02.typ] unto → unto (1Ti 4:8)
+- [application-02.typ] unto → unto (1 Tim 4:8)
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] 'twas → it was
 - [application-02.typ] them → them (Pro 3:33
 - [application-02.typ] they → Mal 2:2). They
 - [application-02.typ] not → not “
-- [application-02.typ] had → had (Deu 33
+- [application-02.typ] had → had (Deut 33
 - [application-02.typ] Corn , → corn
 - [application-02.typ] & c → etc
 - [application-02.typ] 'tis → it is
 - [application-02.typ] Grace - Cup → grace cup
-- [application-02.typ] portion → portion (1Co 10:16)
+- [application-02.typ] portion → portion (1 Cor 10:16)
 - [application-02.typ] But , → .
 - [application-02.typ] 'tis → It is
 - [application-02.typ] objecter , → objector
@@ -1325,7 +1314,7 @@
 - [application-02.typ] 'Twas → It was
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] But , → 
-- [application-02.typ] account → account (Ecc 11
+- [application-02.typ] account → account (Eccl 11
 - [application-02.typ] others , → others’
 - [application-02.typ] & c → etc
 - [application-02.typ] reckoning → reckoning before angels
@@ -1346,12 +1335,12 @@
 - [application-02.typ] Merchants , → merchants
 - [application-02.typ] Fair , → fair
 - [application-02.typ] Time , → time
-- [application-02.typ] Psal → (Psa 63:6)
+- [application-02.typ] Psal → (Ps 63:6)
 - [application-02.typ] 119 . 62 . → “
 - [application-02.typ] Vers → 
 - [application-02.typ] 147 → 
 - [application-02.typ] have → 
-- [application-02.typ] cried → cried” (Psa 119:62, 147)
+- [application-02.typ] cried → cried” (Ps 119:62, 147)
 - [application-02.typ] day - break → daybreak
 - [application-02.typ] So → 
 - [application-02.typ] Vers → 
@@ -1360,7 +1349,7 @@
 - [application-02.typ] Psal → 
 - [application-02.typ] 130 → 
 - [application-02.typ] 6 → 
-- [application-02.typ] morning → morning” (Psa 119:148; 130:6)
+- [application-02.typ] morning → morning” (Ps 119:148; 130:6)
 - [application-02.typ] day time → daytime
 - [application-02.typ] how → 
 - [application-02.typ] consecratethe → consecrate the
@@ -1391,7 +1380,7 @@
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] Gospel , → gospel
 - [application-02.typ] Apologies , & → apologies and
-- [application-02.typ] come → come” (Luk 14:18-20)
+- [application-02.typ] come → come” (Luke 14:18–20)
 - [application-02.typ] Oxen , → oxen
 - [application-02.typ] hateth → hateth “
 - [application-02.typ] his Oxen → oxen
@@ -1440,10 +1429,10 @@
 - [application-02.typ] Tim → 
 - [application-02.typ] 5 → 
 - [application-02.typ] 8 → 
-- [application-02.typ] infidel → infidel” (Exo 20:9; 1Co 7:20; 2Th 3:10-12; 1Th 4:11-12; Eph 4:28; 1Ti 5:8)
+- [application-02.typ] infidel → infidel” (Exod 20:9; 1 Cor 7:20; 2 Thess 3:10–12; 1 Thess 4:11–12; Eph 4:28; 1 Tim 5:8)
 - [application-02.typ] Carpenter , → carpenter
 - [application-02.typ] , till he → until He
-- [application-02.typ] agree → agree (Mar 6:3; Mat 13:55-56)
+- [application-02.typ] agree → agree (Mar 6:3; Matt 13:55–56)
 - [application-02.typ] 10 → :
 - [application-02.typ] 20 → )
 - [application-02.typ] , & c . And → ); and
@@ -1455,24 +1444,24 @@
 - [application-02.typ] 'tis → it is
 - [application-02.typ] that → , which
 - [application-02.typ] viz . That → that
-- [application-02.typ] Lord → Lord (Luk 2:8-21)
+- [application-02.typ] Lord → Lord (Luke 2:8–21)
 - [application-02.typ] his seet , → His feet
 - [application-02.typ] word → word (Luk 10:38ff)
 - [application-02.typ] 'tis → , it is
 - [application-02.typ] to lerable → tolerable
 - [application-02.typ] 'tis → it is
-- [application-02.typ] daily → daily (Deu 6:6-8; Exo 29:38-39; Num 28:3)
+- [application-02.typ] daily → daily (Deut 6:6–8; Exod 29:38–39; Num 28:3)
 - [application-02.typ] first , to Prayer . → 
 - [application-02.typ] The → 
 - [application-02.typ] any thing , → anything
 - [application-02.typ] But , → 
 - [application-02.typ] 'tis → it is
-- [application-02.typ] business → business (Psa 1:2-3
+- [application-02.typ] business → business (Ps 1:2–3
 - [application-02.typ] had → had (Gen 30:27, 30)
 - [application-02.typ] ; and this → . This
 - [application-02.typ] 'twas → , it was
 - [application-02.typ] imployments , → employments
-- [application-02.typ] business → business (Deu 28:1-8)
+- [application-02.typ] business → business (Deut 28:1–8)
 - [application-02.typ] Prov → 
 - [application-02.typ] 27 . 1 . → “
 - [application-02.typ] thy self → thyself
@@ -1481,7 +1470,7 @@
 - [application-02.typ] Objection . But , → objection
 - [application-02.typ] Object . 2 → 
 - [application-02.typ] Sol . 1 . → 
-- [application-02.typ] secret → secret” (Mat 6:6)
+- [application-02.typ] secret → secret” (Matt 6:6)
 - [application-02.typ] bond - man → bondman
 - [application-02.typ] free - man → freeman
 - [application-02.typ] Tu → 
@@ -1497,27 +1486,25 @@
 - [application-02.typ] O → oh,
 - [application-02.typ] . And → and
 - [application-02.typ] But , → 
-- [application-02.typ] it → it (Psa 84:10; 120:5)
+- [application-02.typ] it → it (Ps 84:10; 120:5)
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] 1 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 7 → 
 - [application-02.typ] 21 → 
-- [application-02.typ] rather → rather” (1Co 7:21)
+- [application-02.typ] rather → rather” (1 Cor 7:21)
 - [application-02.typ] That → “
 - [application-02.typ] Labans → ” Laban’s
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] But , → 
 - [application-02.typ] that → this
-- [application-02.typ] secret → secret (Rom 8:15; Gal 4:6; 1Co 6:19; 2Ti 1:14)
-- [application-02.typ] 1 → 
-- [application-02.typ] Cor → (1Co
+- [application-02.typ] secret → secret (Rom 8:15; Gal 4:6; 1 Cor 6:19; 2 Tim 1:14)
 - [application-02.typ] , he → 
 - [application-02.typ] Gal → 
 - [application-02.typ] 5 . 22 , 23 . → “
 - [application-02.typ] long - suffering → longsuffering
-- [application-02.typ] & c → ” etc. (Gal 5:22-23)
+- [application-02.typ] & c → ” etc. (Gal 5:22–23)
 - [application-02.typ] fruits → fruits (Song 4:16; 6:2)
 - [application-02.typ] degree , → decree
 - [application-02.typ] , God → god
@@ -1532,12 +1519,12 @@
 - [application-02.typ] Math → 
 - [application-02.typ] 5 . 47 . → “
 - [application-02.typ] you → ye
-- [application-02.typ] 〈 in non-Latin alphabet 〉 ? → ” (Mat 5:47)—τί περισσὸν ποιεῖτε;
+- [application-02.typ] 〈 in non-Latin alphabet 〉 ? → ” (Matt 5:47)—τί περισσὸν ποιεῖτε;
 - [application-02.typ] Publick Prayers , → public prayers
 - [application-02.typ] O but → Oh! But
 - [application-02.typ] O that → Oh! That
 - [application-02.typ] First , → (1)
-- [application-02.typ] c → Co 3:22-23)
+- [application-02.typ] c → Cor 3:22–23)
 - [application-02.typ] Secondly → (2) Secondly
 - [application-02.typ] 2 → 
 - [application-02.typ] Peter → 
@@ -1545,22 +1532,20 @@
 - [application-02.typ] 4 → 
 - [application-02.typ] you → ye
 - [application-02.typ] made → 
-- [application-02.typ] nature → nature” (2Pe 1:4)
+- [application-02.typ] nature → nature” (2 Pet 1:4)
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] of → 
 - [application-02.typ] viz → 
 - [application-02.typ] made → made “
 - [application-02.typ] & c → etc
 - [application-02.typ] Thirdly → (3) Thirdly
-- [application-02.typ] 1 → 
-- [application-02.typ] John → (1Jo
 - [application-02.typ] Fourthly → (4) Fourthly
+- [application-02.typ] Psal → (Ps
 - [application-02.typ] Heb → 
 - [application-02.typ] 1 → 
 - [application-02.typ] ult → 
-- [application-02.typ] Zach → Zec
 - [application-02.typ] Fifthly → (5) Fifthly
-- [application-02.typ] Peter → 1Pe
+- [application-02.typ] Peter → (
 - [application-02.typ] Rev → 
 - [application-02.typ] Sixthly → (6) Sixthly
 - [application-02.typ] his Glory , who → His glory Who
@@ -1571,7 +1556,7 @@
 - [application-02.typ] 2000 → two thousand
 - [application-02.typ] That → “
 - [application-02.typ] neighbour → neighbour” (Pro 12:26)
-- [application-02.typ] righteous → righteous (Psa 14:1-3; Rom 3:9-12; Lam 5:16)
+- [application-02.typ] righteous → righteous (Ps 14:1–3; Rom 3:9–12; Lam 5:16)
 - [application-02.typ] Master , → master
 - [application-02.typ] O → oh,
 - [application-02.typ] Table , → table
@@ -1584,7 +1569,7 @@
 - [application-02.typ] King , → king
 - [application-02.typ] his → 
 - [application-02.typ] rich → rich (Pro 22:2; 17:5)
-- [application-02.typ] degree → degree (Luk 1:52)
+- [application-02.typ] degree → degree (Luke 1:52)
 - [application-02.typ] neighbour → neighbour” (Pro 12:26)
 - [application-02.typ] O → oh,
 - [application-02.typ] neighbours , → neighbors
@@ -1595,7 +1580,7 @@
 - [application-02.typ] Lords , → Lord’s
 - [application-02.typ] 'tis → it is
 - [application-02.typ] 'tis → , it is
-- [application-02.typ] , Psal . → (Psa
+- [application-02.typ] , Psal . → (Ps
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] c → 
 - [application-02.typ] O → “Oh,
@@ -1617,7 +1602,7 @@
 - [application-02.typ] Luke → 
 - [application-02.typ] 6 → 
 - [application-02.typ] 12 → 
-- [application-02.typ] God → God” (Luk 6:12)
+- [application-02.typ] God → God” (Luke 6:12)
 - [application-02.typ] : But , → ; but
 - [application-02.typ] Lady → lady [Queen Elizabeth]
 - [application-02.typ] Second , Of → second of
@@ -1628,7 +1613,7 @@
 - [application-02.typ] First → (1) First
 - [application-02.typ] & c → etc
 - [application-02.typ] When → , when
-- [application-02.typ] souls → souls (Jude 1:22-23)
+- [application-02.typ] souls → souls (Jude 22–23)
 - [application-02.typ] Hospitals , → hospitals
 - [application-02.typ] Birds Beasts → birds
 - [application-02.typ] & Dogs → beasts
@@ -1640,7 +1625,7 @@
 - [application-02.typ] & c . And → and
 - [application-02.typ] ; he → . He,
 - [application-02.typ] Arms , → arms
-- [application-02.typ] word → Word (1Pe 3:1-2),
+- [application-02.typ] word → Word (1 Pet 3:1–2),
 - [application-02.typ] tearms , → terms
 - [application-02.typ] Master , → master
 - [application-02.typ] Master , → master
@@ -1661,12 +1646,12 @@
 - [application-02.typ] Jer → 
 - [application-02.typ] 2 . 2 , 3 . → “
 - [application-02.typ] first fruits → firstfruits
-- [application-02.typ] Lord → LORD” (Jer 2:2-3)
+- [application-02.typ] Lord → LORD” (Jer 2:2–3)
 - [application-02.typ] him , → Him
 - [application-02.typ] him , → Him
 - [application-02.typ] But , → 
 - [application-02.typ] , calls → call
-- [application-02.typ] prayer → prayer (Joh 8:32-33, 36)
+- [application-02.typ] prayer → prayer (John 8:32–33, 36)
 - [application-02.typ] 1 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 7 . 22 , 23 . → “
@@ -1675,12 +1660,9 @@
 - [application-02.typ] lord - ship → lordship
 - [application-02.typ] your selves → yourselves
 - [application-02.typ] blood → blood (Gal 5:1; Col 2:20; Gal 2:4)
-- [application-02.typ] , 6 , → -
+- [application-02.typ] , 6 , → –
 - [application-02.typ] Lords free - man → Lord’s freeman
-- [application-02.typ] , 14 , → -
-- [application-02.typ] Cor → 
-- [application-02.typ] 11 → 
-- [application-02.typ] 2 → )
+- [application-02.typ] , 14 , → –
 - [application-02.typ] c → 
 - [application-02.typ] are → are (Rom 6:14)
 - [application-02.typ] are → are (Rom 8:1)
@@ -1708,19 +1690,19 @@
 - [application-02.typ] Servants → 
 - [application-02.typ] eye service → eyeservice
 - [application-02.typ] men - pleaesers , → menpleasers;
-- [application-02.typ] Christ → Christ” (Eph 6:5-8; Col 3:22-24)
+- [application-02.typ] Christ → Christ” (Eph 6:5–8; Col 3:22-24)
 - [application-02.typ] Grace , & → grace and
-- [application-02.typ] inheritance → inheritance (Rom 8:15-17)
+- [application-02.typ] inheritance → inheritance (Rom 8:15–17)
 - [application-02.typ] Master , → master
 - [application-02.typ] O → Oh,
 - [application-02.typ] pay master , → paymaster
-- [application-02.typ] rewarded → rewarded (Mal 1:10; Mat 10:42)
+- [application-02.typ] rewarded → rewarded (Mal 1:10; Matt 10:42)
 - [application-02.typ] obedience → obedience (Jer 35:19): “God
 - [application-02.typ] Jer → 
 - [application-02.typ] 35 → 
 - [application-02.typ] 19 → 
 - [application-02.typ] God → 
-- [application-02.typ] Tyre → Tyre (Eze 29:18-20)
+- [application-02.typ] Tyre → Tyre (Ezek 29:18–20)
 - [application-02.typ] & c → etc
 - [application-02.typ] only → only “
 - [application-02.typ] him → Him (Heb 11:6)
@@ -1731,7 +1713,7 @@
 - [application-02.typ] Emperor , → emperor
 - [application-02.typ] his , → His
 - [application-02.typ] , he → He
-- [application-02.typ] glory → glory (1Co 9:25; 2Ti 4:8; Rev 2:10; Jam 1:12; 1Pe 5:4)
+- [application-02.typ] glory → glory (1 Cor 9:25; 2 Tim 4:8; Rev 2:10; Jam 1:12; 1 Pet 5:4)
 - [application-02.typ] But , → 
 - [application-02.typ] Object → 
 - [application-02.typ] 3 → 
@@ -1740,23 +1722,21 @@
 - [application-02.typ] c → 
 - [application-02.typ] Sol . 1 . → First,
 - [application-02.typ] , be struck dumb → 
-- [application-02.typ] Psal → (Luk 1:20)
+- [application-02.typ] Psal → (Luke 1:20)
 - [application-02.typ] 77 . 4 . → “
 - [application-02.typ] Psal → 
 - [application-02.typ] 38 → 
 - [application-02.typ] 9 → 
-- [application-02.typ] thee → thee” (Psa 77:4; 38:9)
+- [application-02.typ] thee → thee” (Ps 77:4; 38:9)
 - [application-02.typ] But , → 
 - [application-02.typ] , lyes → lies
-- [application-02.typ] Sam → 
-- [application-02.typ] 1 → 
-- [application-02.typ] , — → -
+- [application-02.typ] , — → –
 - [application-02.typ] But , → 
 - [application-02.typ] O → Oh,
 - [application-02.typ] that → Who
 - [application-02.typ] Luk → 
 - [application-02.typ] 11 . 13 . → “
-- [application-02.typ] Ezek → ” (Luk 11:13)
+- [application-02.typ] Ezek → ” (Luke 11:13)
 - [application-02.typ] 36 . 26 , 27 . → “
 - [application-02.typ] takeaway → take away
 - [application-02.typ] Ezek → 
@@ -1765,14 +1745,14 @@
 - [application-02.typ] Zech → 
 - [application-02.typ] 12 → 
 - [application-02.typ] 10 → 
-- [application-02.typ] supplication → of supplications” (Eze 36:26-27; 11:19; Zec 12:10)
-- [application-02.typ] promises → promises (Isa 62:6-7; Isa 43:25-26)
+- [application-02.typ] supplication → of supplications” (Ezek 36:26–27; 11:19; Zech 12:10)
+- [application-02.typ] promises → promises (Isa 62:6–7; Isa 43:25–26)
 - [application-02.typ] Sanctification & Preservation → sanctification
 - [application-02.typ] he → and
 - [application-02.typ] subjoynes → preservation
 - [application-02.typ] Yet → He subjoins
 - [application-02.typ] will → will yet
-- [application-02.typ] it → it” (Eze 36:37)
+- [application-02.typ] it → it” (Ezek 36:37)
 - [application-02.typ] him , → Him
 - [application-02.typ] letter → letter (Isa 37:14)
 - [application-02.typ] ; why can'st → . Why, canst
@@ -1782,12 +1762,12 @@
 - [application-02.typ] Cor → 
 - [application-02.typ] 1 → 
 - [application-02.typ] 20 → 
-- [application-02.typ] ; they → (2Co 1:20). They
+- [application-02.typ] ; they → (2 Cor 1:20). They
 - [application-02.typ] so → God
 - [application-02.typ] God → do so
 - [application-02.typ] Isa → 
 - [application-02.typ] 46 . 10 , 11 . → “
-- [application-02.typ] it → it” (Isa 46:10-11)
+- [application-02.typ] it → it” (Isa 46:10–11)
 - [application-02.typ] them → them (Jer 31:3)
 - [application-02.typ] God → God (Mal 3:6)
 - [application-02.typ] time → time (Heb 13:5)
@@ -1798,13 +1778,13 @@
 - [application-02.typ] O → Oh,
 - [application-02.typ] Elizeus → Elisha,
 - [application-02.typ] farewel , → farewell
-- [application-02.typ] Prophet → prophet (1Ki 19:20)
+- [application-02.typ] Prophet → prophet (1 Kgs 19:20)
 - [application-02.typ] 2 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 8 . 12 . → “
-- [application-02.typ] not → not” (2Co 8:12)
-- [application-02.typ] do → do (Lev 2:1-2; 6:15; Luk 21:3)
-- [application-02.typ] trade → trade (Isa 49:20-22; Psa 84:7)
+- [application-02.typ] not → not” (2 Cor 8:12)
+- [application-02.typ] do → do (Lev 2:1–2; 6:15; Luke 21:3)
+- [application-02.typ] trade → trade (Isa 49:20–22; Ps 84:7)
 - [application-02.typ] home ward , → homeward
 - [application-02.typ] . So doth → , so
 - [application-02.typ] God → God does
@@ -1814,7 +1794,7 @@
 - [application-02.typ] arm → arms” (Hos 11:3)
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] Arrow , → arrow
-- [application-02.typ] hand → hand (2Ki 13:16)
+- [application-02.typ] hand → hand (2 Kgs 13:16)
 - [application-02.typ] Rom → 
 - [application-02.typ] 8 . 26 . → “
 - [application-02.typ] infirmities → infirmities” (Rom 8:26)
@@ -1823,15 +1803,15 @@
 - [application-02.typ] & c → etc
 - [application-02.typ] O → Oh,
 - [application-02.typ] thy self → thyself
-- [application-02.typ] , — → -
+- [application-02.typ] , — → –
 - [application-02.typ] walk → walk.” Oh
 - [application-02.typ] & c . Oh → 
 - [application-02.typ] Matth → 
 - [application-02.typ] 12 → 
 - [application-02.typ] 10 → 
 - [application-02.typ] 14 → 
-- [application-02.typ] hand → hand (Mat 12
-- [application-02.typ] he → 10-14). He
+- [application-02.typ] hand → hand (Matt 12
+- [application-02.typ] he → 10–14). He
 - [application-02.typ] plea's , → pleas
 - [application-02.typ] such → such a
 - [application-02.typ] remember → !
@@ -1840,38 +1820,38 @@
 - [application-02.typ] Zach → 
 - [application-02.typ] 12 → 
 - [application-02.typ] 10 → 
-- [application-02.typ] supplication → of supplications” (Zec 12:10)
+- [application-02.typ] supplication → of supplications” (Zech 12:10)
 - [application-02.typ] Psal . 51 . 11 . → “
-- [application-02.typ] me → me” (Psa 51:11)
+- [application-02.typ] me → me” (Ps 51:11)
 - [application-02.typ] Rom . 8 . 15 . → “
 - [application-02.typ] Father → Father” (Rom 8:15)
 - [application-02.typ] 1 Cor . 2 . 12 . → “
-- [application-02.typ] God → God” (1Co 2:12)
+- [application-02.typ] God → God” (1 Cor 2:12)
 - [application-02.typ] 1 Thes . 4 . 8 . → “
 - [application-02.typ] hath → hath also
-- [application-02.typ] spirit → Spirit” (1Th 4:8)
+- [application-02.typ] spirit → Spirit” (1 Thess 4:8)
 - [application-02.typ] 1 John 3 . 2• . → “
 - [application-02.typ] Chap → 
 - [application-02.typ] 4 → 
 - [application-02.typ] 13 → 
-- [application-02.typ] Spirit → Spirit” (1Jo 3:24; 4:13)
+- [application-02.typ] Spirit → Spirit” (1 John 3:24; 4:13)
 - [application-02.typ] First → [1] First
 - [application-02.typ] 1 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 6 . 11 . → “
-- [application-02.typ] God → God” (1Co 6:11)
+- [application-02.typ] God → God” (1 Cor 6:11)
 - [application-02.typ] yet → yet not
 - [application-02.typ] not → 
 - [application-02.typ] not → 
 - [application-02.typ] not → 
-- [application-02.typ] Talent → talent (Mat 25:15)
-- [application-02.typ] M•ss ; so → mess (Gen 43:32-34). So
+- [application-02.typ] Talent → talent (Matt 25:15)
+- [application-02.typ] M•ss ; so → mess (Gen 43:32–34). So
 - [application-02.typ] & c . → 
 - [application-02.typ] c → 
 - [application-02.typ] Babes → babes in Christ and others are children
 - [application-02.typ] and others are Children in Christ ; → 
 - [application-02.typ] are → 
-- [application-02.typ] Christ → Christ (1Pe 2:2; 1Jo 2:12-14; Joh 3:8)
+- [application-02.typ] Christ → Christ (1 Pet 2:2; 1 John 2:12–14; John 3:8)
 - [application-02.typ] Secondly → [2] Secondly
 - [application-02.typ] Rom → 
 - [application-02.typ] 8 . 14 . → “
@@ -1880,7 +1860,7 @@
 - [application-02.typ] Thirdly → [3] Thirdly
 - [application-02.typ] Ps → 
 - [application-02.typ] 51 . 12 . → “
-- [application-02.typ] Spirit ; → spirit” (Psa 51:12),
+- [application-02.typ] Spirit ; → spirit” (Ps 51:12),
 - [application-02.typ] So → 
 - [application-02.typ] Eph → 
 - [application-02.typ] 3 → 
@@ -1896,34 +1876,32 @@
 - [application-02.typ] 23 → 
 - [application-02.typ] Our → 
 - [application-02.typ] S•a → sea,
-- [application-02.typ] come → come (2Co 1:22)
+- [application-02.typ] come → come (2 Cor 1:22)
 - [application-02.typ] Fifthly → [5] Fifthly
 - [application-02.typ] John → 
 - [application-02.typ] 14 → 
 - [application-02.typ] 26 → 
 - [application-02.typ] holy - → Holy
-- [application-02.typ] things → things” (Joh 14:26; Isa 59:21)
+- [application-02.typ] things → things” (John 14:26; Isa 59:21)
 - [application-02.typ] o• Doctrine → of doctrine
 - [application-02.typ] , That → that
 - [application-02.typ] Families , → families
 - [application-02.typ] O → . Oh,
-- [application-02.typ] charge → charge (1Th 4:9; 2Co 3:8)
+- [application-02.typ] charge → charge (1 Thess 4:9; 2 Cor 3:8)
 - [application-02.typ] So → 
 - [application-02.typ] John → 
 - [application-02.typ] 1 → 
 - [application-02.typ] 2 → 
 - [application-02.typ] 27 → 
-- [application-02.typ] truth → truth” (1Jo 2:27)
+- [application-02.typ] truth → truth” (1 John 2:27)
 - [application-02.typ] load - stone → loadstone
 - [application-02.typ] Pole - → pole
 - [application-02.typ] holy - → Holy
-- [application-02.typ] part → part (1Co 13:9-11)
+- [application-02.typ] part → part (1 Cor 13:9–11)
 - [application-02.typ] O → oh,
-- [application-02.typ] heaven → heaven (Joh 17:3)
-- [application-02.typ] 2 → 
-- [application-02.typ] Pet → (2Pe
+- [application-02.typ] heaven → heaven (John 17:3)
 - [application-02.typ] vers → 
-- [application-02.typ] 18 → (1Jo 2:10
+- [application-02.typ] 18 → (1 John 2:10
 - [application-02.typ] The → The “
 - [application-02.typ] Vers . → verse
 - [application-02.typ] But , → 
@@ -1943,23 +1921,23 @@
 - [application-02.typ] 1 → 
 - [application-02.typ] 6 → 
 - [application-02.typ] holy - → Holy
-- [application-02.typ] Ghost → Ghost” (Act 9:31; Rom 14:17; 1Th 1:6)
+- [application-02.typ] Ghost → Ghost” (Act 9:31; Rom 14:17; 1 Thess 1:6)
 - [application-02.typ] or → ,
 - [application-02.typ] , & → and
 - [application-02.typ] , & → and
 - [application-02.typ] 'tis → it is
-- [application-02.typ] comforted → comforted” (Psa 77:2)
+- [application-02.typ] comforted → comforted” (Ps 77:2)
 - [application-02.typ] 'tis → It is
 - [application-02.typ] light → light (Isa 50:10)
 - [application-02.typ] and → 
 - [application-02.typ] and → 
 - [application-02.typ] c → 
 - [application-02.typ] sweet - meets → sweetmeats
-- [application-02.typ] ; every → (Psa 30:6-7). Every
+- [application-02.typ] ; every → (Ps 30:6–7). Every
 - [application-02.typ] nor → 
 - [application-02.typ] nor → and
 - [application-02.typ] Ring is not → ring
-- [application-02.typ] day → day (Luk 15:22-23; Ecc 3:4; Rom 12:15)
+- [application-02.typ] day → day (Luke 15:22–23; Eccl 3:4; Rom 12:15)
 - [application-02.typ] thereis → there is
 - [application-02.typ] , till → until
 - [application-02.typ] sinbe → sin be
@@ -1990,7 +1968,7 @@
 - [application-02.typ] 2 → 
 - [application-02.typ] Cor → 
 - [application-02.typ] 1 . 22 . → ” “
-- [application-02.typ] hearts → hearts” (2Co 1:22)
+- [application-02.typ] hearts → hearts” (2 Cor 1:22)
 - [application-02.typ] The Time → the time,
 - [application-02.typ] thus → 
 - [application-02.typ] till → , until
@@ -2002,19 +1980,19 @@
 - [application-02.typ] 15 → 
 - [application-02.typ] 22 → 
 - [application-02.typ] 23 → 
-- [application-02.typ] feet → feet (Luk 15:22-23)
+- [application-02.typ] feet → feet (Luke 15:22–23)
 - [application-02.typ] to → the
 - [application-02.typ] Ring , → ring
 - [application-02.typ] Life → Life (Act 9
 - [application-02.typ] Secondly → [2] Secondly
-- [application-02.typ] redemption → redemption (Rom 15:13; 1Pe 1:8)
+- [application-02.typ] redemption → redemption (Rom 15:13; 1 Pet 1:8)
 - [application-02.typ] honour , → honor
 - [application-02.typ] Thirdly → [3] Thirdly
 - [application-02.typ] askt , → asked
 - [application-02.typ] comfortablest → most comfortable
 - [application-02.typ] O → “Oh,
 - [application-02.typ] the Ring → ring
-- [application-02.typ] , — → -
+- [application-02.typ] , — → –
 - [application-02.typ] none → do any
 - [application-02.typ] none → do any
 - [application-02.typ] Fourthly → [4] Fourthly
@@ -2029,17 +2007,15 @@
 - [application-02.typ] Justification , → justification
 - [application-02.typ] a → 
 - [application-02.typ] sweet meats → sweetmeats
-- [application-02.typ] mean → mean (1Jo 1:7)
+- [application-02.typ] mean → mean (1 John 1:7)
 - [application-02.typ] shels , → shells
 - [application-02.typ] practise , → practice
 - [application-02.typ] Rev . → Revelation
 - [application-02.typ] Fifthly → [5] Fifthly
-- [application-02.typ] 2 → 
-- [application-02.typ] Cor → 2Co
-- [application-02.typ] , 16 , → -
+- [application-02.typ] , 16 , → –
 - [application-02.typ] Martyr , → martyr
 - [application-02.typ] Sixthly → [6] Sixthly
-- [application-02.typ] , 28 , → -
+- [application-02.typ] , 28 , → –
 - [application-02.typ] & c → etc
 - [application-02.typ] Seventhly → [7] Seventhly
 - [application-02.typ] that → that “
@@ -2056,11 +2032,11 @@
 - [application-02.typ] Nations → nations” (Jer 1:5)
 - [application-02.typ] vers → vv
 - [application-02.typ] , 18 , → -
-- [application-02.typ] , Matth . → (Mat
-- [application-02.typ] , to the 6th → -6)
+- [application-02.typ] , Matth . → (Matt
+- [application-02.typ] , to the 6th → –6)
 - [application-02.typ] , to → :1-
 - [application-02.typ] Ninthly → [9] Ninthly
-- [application-02.typ] Cant → (Compare Song 2:16, 3-6, etc
+- [application-02.typ] Cant → (Compare Song 2:16, 3–6, etc
 - [application-02.typ] 2 → 
 - [application-02.typ] 16 → 
 - [application-02.typ] 3 → 
@@ -2076,14 +2052,14 @@
 - [application-02.typ] who → 
 - [application-02.typ] Sermons , → sermons
 - [application-02.typ] viz → 
-- [application-02.typ] God → God” (Eze 11:19-20)
+- [application-02.typ] God → God” (Ezek 11:19–20)
 - [application-02.typ] This seal → 
 - [application-02.typ] sets → sets this seal
-- [application-02.typ] World → world (Joh 3:3; 2Th 2:13; Heb 12:14)
+- [application-02.typ] World → world (John 3:3; 2 Thess 2:13; Heb 12:14)
 - [application-02.typ] 2 → 
 - [application-02.typ] Tim → 
 - [application-02.typ] 2 . 19 . → “
-- [application-02.typ] iniquity → iniquity” (2Ti 2:19)
+- [application-02.typ] iniquity → iniquity” (2 Tim 2:19)
 - [application-02.typ] 'tis → it is
 - [application-02.typ] it self → itself
 - [application-02.typ] Rom → 
@@ -2120,7 +2096,7 @@
 - [application-02.typ] would → would as
 - [application-02.typ] ; 'tis → . It is
 - [application-02.typ] 'tis → it is
-- [application-02.typ] difficulties → difficulties (Gen 29, 34)
+- [application-02.typ] difficulties → difficulties (Gen 29:34)
 - [application-02.typ] was → were
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] , to cry → crying
@@ -2145,20 +2121,20 @@
 - [application-02.typ] 'tis → it is
 - [application-02.typ] 'tis → it is
 - [application-02.typ] . From the → :
-- [application-02.typ] . Verse , to the → -
+- [application-02.typ] . Verse , to the → –
 - [application-02.typ] . Verse of that Chapter → )
 - [application-02.typ] Matth . → Matthew
 - [application-02.typ] . Should → should
 - [application-02.typ] a → 
 - [application-02.typ] But , → 
 - [application-02.typ] have → have “
-- [application-02.typ] hath → hath (Deu 33:16; Gen 22:17)
+- [application-02.typ] hath → hath (Deut 33:16; Gen 22:17)
 - [application-02.typ] O → Oh,
 - [application-02.typ] . He → ); he
 - [application-02.typ] Sharon → Sharon (Song 2
 - [application-02.typ] us → us (Pro 23:5)
 - [application-02.typ] ; now → . Now,
-- [application-02.typ] prayer → prayer (1Ti 4
+- [application-02.typ] prayer → prayer (1 Tim 4
 - [application-02.typ] : 'tis Prayer → . It is prayer
 - [application-02.typ] wrath → wrath; yea
 - [application-02.typ] Psal → 
@@ -2173,7 +2149,7 @@
 - [application-02.typ] ; 'tis → . It is
 - [application-02.typ] , 'tis → ; it is
 - [application-02.typ] 1 Sam . 1 . 27 . → “
-- [application-02.typ] him → him” (1Sa 1:27)
+- [application-02.typ] him → him” (1 Sam 1:27)
 - [application-02.typ] But , → 
 - [application-02.typ] my self → myself
 - [application-02.typ] c → 
@@ -2189,7 +2165,7 @@
 - [application-02.typ] c → 
 - [application-02.typ] But , → 
 - [application-02.typ] 'twas → it was
-- [application-02.typ] world → world (Eph 2:1-3)
+- [application-02.typ] world → world (Eph 2:1–3)
 - [application-02.typ] O → Oh,
 - [application-02.typ] endeavours , → endeavors
 - [application-02.typ] O → Oh,
@@ -2203,10 +2179,10 @@
 - [application-02.typ] Kings → 
 - [application-02.typ] 8 → 
 - [application-02.typ] 46 → 
-- [application-02.typ] c → )” (1Ki 8:46)
+- [application-02.typ] c → )” (1 Kgs 8:46)
 - [application-02.typ] Eccl . 7 . 20 . → “
 - [application-02.typ] the → 
-- [application-02.typ] not → not” (Ecc 7:20)
+- [application-02.typ] not → not” (Eccl 7:20)
 - [application-02.typ] Prov . 20 . 9 . → “
 - [application-02.typ] Job → ” (Pro 20:9)
 - [application-02.typ] 14 . 4 . → “
@@ -2214,19 +2190,19 @@
 - [application-02.typ] Job 9 . 30 , 31 . → “
 - [application-02.typ] my self → myself
 - [application-02.typ] Snow - → snow
-- [application-02.typ] 9 → 9:30-31)
+- [application-02.typ] 9 → 9:30–31)
 - [application-02.typ] 20 . → “
 - [application-02.typ] my self → myself
 - [application-02.typ] my → mine
 - [application-02.typ] perverse → perverse” (Job 9:20)
 - [application-02.typ] Psal . 143 . 2 . → “
-- [application-02.typ] justified → justified” (Psa 143:2)
+- [application-02.typ] justified → justified” (Ps 143:2)
 - [application-02.typ] James 3 . 2 . → “
 - [application-02.typ] all → all” (Jam 3:2)
 - [application-02.typ] 1 John 1 . 8 . → “
 - [application-02.typ] say → say that
 - [application-02.typ] our selves → ourselves
-- [application-02.typ] us → us” (1Jo 1:8)
+- [application-02.typ] us → us” (1 John 1:8)
 - [application-02.typ] Saint → saint “
 - [application-02.typ] lusteth → 
 - [application-02.typ] contrary → contrary the
@@ -2237,11 +2213,11 @@
 - [application-02.typ] do → do (Rom 7
 - [application-02.typ] in → in (Rev 21:27)
 - [application-02.typ] that's → that is
-- [application-02.typ] concomitants → concomitants (Heb 12:22-23)
+- [application-02.typ] concomitants → concomitants (Heb 12:22–23)
 - [application-02.typ] Religion , → religion
-- [application-02.typ] sin → sin (1Jo 1
+- [application-02.typ] sin → sin (1 John 1
 - [application-02.typ] as Priest , → a priest
-- [application-02.typ] come → come (Mat 1:21; 1Th 1:10)
+- [application-02.typ] come → come (Matt 1:21; 1 Thess 1:10)
 - [application-02.typ] be holden → beholden
 - [application-02.typ] Heb → (Hab
 - [application-02.typ] Acts → 
@@ -2252,15 +2228,13 @@
 - [application-02.typ] O → Oh,
 - [application-02.typ] must → 
 - [application-02.typ] men → men must
-- [application-02.typ] lyar ? → liar (1Jo
-- [application-02.typ] John → 
-- [application-02.typ] 1 → :10)
+- [application-02.typ] 1 → 1:10)
 - [application-02.typ] 10 → 
 - [application-02.typ] , 'tis → ; it is
 - [application-02.typ] But , → 
 - [application-02.typ] bug - bear → bugbear
 - [application-02.typ] bug - bear → bugbear
-- [application-02.typ] Sathan → , Satan” (Mat 16:23)
+- [application-02.typ] Sathan → , Satan” (Matt 16:23)
 - [application-02.typ] But , → 
 - [application-02.typ] 'tis → It is
 - [application-02.typ] which → that
@@ -2271,7 +2245,7 @@
 - [application-02.typ] are → are” (Jam 5
 - [application-02.typ] , whilest → whilst
 - [application-02.typ] yet → yet “
-- [application-02.typ] are → are” (1Ki 19
+- [application-02.typ] are → are” (1 Kgs 19
 - [application-02.typ] yet → yet “
 - [application-02.typ] signifies → signifies “
 - [application-02.typ] that → 
@@ -2286,10 +2260,10 @@
 - [application-02.typ] Psal → 
 - [application-02.typ] 34 . 4 . → “
 - [application-02.typ] out of → from
-- [application-02.typ] fears → fears” (Psa 34:4)
+- [application-02.typ] fears → fears” (Ps 34:4)
 - [application-02.typ] who → when he
 - [application-02.typ] that → 
-- [application-02.typ] 10 → 10-12
+- [application-02.typ] 10 → 10–12
 - [application-02.typ] 11 → 
 - [application-02.typ] 12 → 
 - [application-02.typ] his → 
@@ -2304,7 +2278,14 @@
 - [application-02.typ] O → Oh,
 - [application-02.typ] world → world (Num 12:3)
 - [application-02.typ] his → 
-- [application-02.typ] 15 → 15; 33:11-17; 14:13-16)
+- [application-02.typ] were → were (Ps 106:23; Exod 32:9–15; 33:11–17; 14:13–16)
+- [application-02.typ] Psal → 
+- [application-02.typ] 106 → 
+- [application-02.typ] 23 → 
+- [application-02.typ] Exod → 
+- [application-02.typ] 32 → 
+- [application-02.typ] 9 → 
+- [application-02.typ] 15 → 
 - [application-02.typ] Chap → 
 - [application-02.typ] 33 → 
 - [application-02.typ] 11 → 
@@ -2322,9 +2303,9 @@
 - [application-02.typ] 16 → 
 - [application-02.typ] c → 
 - [application-02.typ] and → and not
-- [application-02.typ] ; he → (2Ch 16:7-13). He
+- [application-02.typ] ; he → (2 Chr 16:7–13). He
 - [application-02.typ] Physicians , → physicians
-- [application-02.typ] God → God (2Ch 14:11-15)
+- [application-02.typ] God → God (2 Chr 14:11–15)
 - [application-02.typ] 2 → 
 - [application-02.typ] Chron → 
 - [application-02.typ] 14 → 
@@ -2333,18 +2314,16 @@
 - [application-02.typ] 13 → 
 - [application-02.typ] 14 → 
 - [application-02.typ] 15 → 
-- [application-02.typ] people → people (Psa 50:15; Isa 30:19; 65:24)
+- [application-02.typ] people → people (Ps 50:15; Isa 30:19; 65:24)
 - [application-02.typ] our selves → ourselves
-- [application-02.typ] 1 → 
-- [application-02.typ] Pet → 1Pe
 - [application-02.typ] 'tis → it is
 - [application-02.typ] 'tis → it is
 - [application-02.typ] c → 
 - [application-02.typ] 'tis → it is
 - [application-02.typ] infirmities → infirmities (Pro 19
 - [application-02.typ] O → 11). Oh,
-- [application-02.typ] weaknesses → weaknesses (Psa 103:13-14)
-- [application-02.typ] body → body (1Co 12
+- [application-02.typ] weaknesses → weaknesses (Ps 103:13–14)
+- [application-02.typ] body → body (1 Cor 12
 - [application-02.typ] God → God (Hos 2
 - [application-02.typ] 'tis → it is
 - [application-02.typ] viz . → 
@@ -2354,7 +2333,6 @@
 - [application-02.typ] ; eh… → , when
 - [application-02.typ] deach → death (Isa 28:15, 18)
 - [application-02.typ] the → 
-- [application-02.typ] Eccl → (
 - [application-02.typ] Closet - → closet
 - [application-02.typ] But , → 
 - [application-02.typ] Officers , → officers
@@ -2363,7 +2341,7 @@
 - [application-02.typ] went → had gone
 - [application-02.typ] for ever , → forever
 - [application-02.typ] not → not “
-- [application-02.typ] father → Father” (1Jo 2:1-2)
+- [application-02.typ] father → Father” (1 John 2:1–2)
 - [application-02.typ] . Will → will
 - [application-02.typ] by , → aside
 - [application-02.typ] c → 
@@ -2409,7 +2387,7 @@
 - [application-02.typ] O → Oh,
 - [application-02.typ] : O → . Oh,
 - [application-02.typ] , he → He
-- [application-02.typ] in → in (Phi 1:6, 13; 1Co 15:10)
+- [application-02.typ] in → in (Phi 1:6, 13; 1 Cor 15:10)
 - [application-02.typ] t'other → the other
 - [application-02.typ] co - operate → cooperate
 - [application-02.typ] O → Oh,
@@ -2431,17 +2409,17 @@
 - [application-02.typ] & c → etc
 - [application-02.typ] Closet - → closet
 - [application-02.typ] Parents , → parents
-- [application-02.typ] that → 
+- [application-02.typ] that , → 
 - [application-02.typ] vers → 
 - [application-02.typ] But → 
 - [application-02.typ] & c → etc
-- [application-02.typ] Father → father (Gen 3:7-8)
+- [application-02.typ] Father → father (Gen 3:7–8)
 - [application-02.typ] Prayer : 'tis → prayer. It is
-- [application-02.typ] face → face (Job 11:14-15)
+- [application-02.typ] face → face (Job 11:14–15)
 - [application-02.typ] himself → himself (Jer 20
-- [application-02.typ] now → 3-4). Now
+- [application-02.typ] now → 3–4). Now
 - [application-02.typ] ; 'tis → . It is
-- [application-02.typ] also → also (1Pe 2
+- [application-02.typ] also → also (1 Pet 2
 - [application-02.typ] nor → nor is
 - [application-02.typ] is nothing → anything
 - [application-02.typ] 'Tis → It is
@@ -2462,11 +2440,11 @@
 - [application-02.typ] , & → and
 - [application-02.typ] Guilt , → guilt
 - [application-02.typ] prayer → prayer (Jer 4:22
-- [application-02.typ] now → 44:17-19). Now
+- [application-02.typ] now → 44:17–19). Now
 - [application-02.typ] it → it and
 - [application-02.typ] and → 
 - [application-02.typ] But , → 
-- [application-02.typ] Moses → Moses (Exo 4:10-14)
+- [application-02.typ] Moses → Moses (Exod 4:10–14)
 - [application-02.typ] Exod → 
 - [application-02.typ] 4 → 
 - [application-02.typ] 10 → 
@@ -2474,8 +2452,8 @@
 - [application-02.typ] 12 → 
 - [application-02.typ] 13 → 
 - [application-02.typ] 14 → 
-- [application-02.typ] , 6 , 7 , → -
-- [application-02.typ] 17 → 17-19; 20:9)
+- [application-02.typ] , 6 , 7 , → –
+- [application-02.typ] 17 → 17–19; 20:9)
 - [application-02.typ] 18 → 
 - [application-02.typ] 19 → 
 - [application-02.typ] Chap → 
@@ -2485,7 +2463,7 @@
 - [application-02.typ] Jonah → Jonah (Jon 1)
 - [application-02.typ] chap → 
 - [application-02.typ] 1 → 
-- [application-02.typ] , Psal . → (Psa
+- [application-02.typ] , Psal . → (Ps
 - [application-02.typ] Religion → religion (Isa 65
 - [application-02.typ] very → very “
 - [application-02.typ] , and → ” (Act 8:21-23). And
@@ -2507,33 +2485,32 @@
 - [application-03.typ] before time → aforetime” (Dan 6:10)
 - [application-03.typ] and → O LORD;
 - [application-03.typ] evening → morning
-- [application-03.typ] up → up” (Psa 5:3)
+- [application-03.typ] up → up” (Ps 5:3)
 - [application-03.typ] So → 
 - [application-03.typ] Psal → 
 - [application-03.typ] 88 → 
 - [application-03.typ] 13 → 
-- [application-03.typ] thee → thee” (Psa 88:13)
+- [application-03.typ] thee → thee” (Ps 88:13)
 - [application-03.typ] So → 
 - [application-03.typ] Psal → 
 - [application-03.typ] 119 → 
 - [application-03.typ] 147 → 
-- [application-03.typ] cryed unto the Lord → cried” (Psa 119:147)
+- [application-03.typ] cryed unto the Lord → cried” (Ps 119:147)
 - [application-03.typ] So → 
 - [application-03.typ] Psal → 
 - [application-03.typ] 55 → 
 - [application-03.typ] 17 → 
-- [application-03.typ] aloud → aloud” (Psa 55:17)
+- [application-03.typ] aloud → aloud” (Ps 55:17)
 - [application-03.typ] orationis → orationis, “a man of prayer,”
 - [application-03.typ] Psal → 
 - [application-03.typ] 109 → 
 - [application-03.typ] 4 → 
 - [application-03.typ] my self → myself
-- [application-03.typ] prayer → prayer” (Psa 109
+- [application-03.typ] prayer → prayer” (Ps 109
 - [application-03.typ] Or → 4), or
 - [application-03.typ] Secondly → [2] Secondly
 - [application-03.typ] Duty , → duty
-- [application-03.typ] 1 → 
-- [application-03.typ] Thes → 1Th
+- [application-03.typ] Thes . → Thess
 - [application-03.typ] Thirdly → [3] Thirdly
 - [application-03.typ] together → together (Mar 1:35
 - [application-03.typ] Mark → 
@@ -2551,7 +2528,7 @@
 - [application-03.typ] But , → 
 - [application-03.typ] Sixthly → [6] Sixthly
 - [application-03.typ] Consider , → consider
-- [application-03.typ] favours → favors (1Pe 5:8
+- [application-03.typ] favours → favors (1 Pet 5:8
 - [application-03.typ] and → Job 1:7). And
 - [application-03.typ] But , → 
 - [application-03.typ] Seventhly → [7] Seventhly
@@ -2570,7 +2547,7 @@
 - [application-03.typ] Consider , → consider
 - [application-03.typ] Closets , → closets
 - [application-03.typ] Closet , → closet
-- [application-03.typ] ! O → (1Pe 1:19). Oh,
+- [application-03.typ] ! O → (1 Pet 1:19). Oh,
 - [application-03.typ] 'Tis → It is
 - [application-03.typ] But , → 
 - [application-03.typ] necessary → necessary: poenae gravitas
@@ -2585,9 +2562,9 @@
 - [application-03.typ] 26 → 26; 17:25)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] prayer → prayer (Song 3:1)
-- [application-03.typ] prayer → prayer (1Co 7:35; Eze 33:31)
+- [application-03.typ] prayer → prayer (1 Cor 7:35; Ezek 33:31)
 - [application-03.typ] in → from
-- [application-03.typ] name . → name’ (Mat 6:9)…
+- [application-03.typ] name . → name’ (Matt 6:9)…
 - [application-03.typ] ) no → . “No
 - [application-03.typ] Horse neither ( → horse either,”
 - [application-03.typ] Closet - → closet
@@ -2603,7 +2580,7 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] those → those who
 - [application-03.typ] who → 
-- [application-03.typ] God → God” (Ecc 5
+- [application-03.typ] God → God” (Eccl 5
 - [application-03.typ] Or → 2)—or
 - [application-03.typ] & c → etc
 - [application-03.typ] He → , he
@@ -2624,7 +2601,7 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] , ( → —
 - [application-03.typ] Closet - → closet
-- [application-03.typ] Conscience → conscience (1Ti 4
+- [application-03.typ] Conscience → conscience (1 Tim 4
 - [application-03.typ] 'tis → it is
 - [application-03.typ] Conscience → conscience that
 - [application-03.typ] that → 
@@ -2677,13 +2654,13 @@
 - [application-03.typ] they → ye
 - [application-03.typ] had → have
 - [application-03.typ] , and → ;
-- [application-03.typ] tribulation → tribulation” (Jdg 10:14)
+- [application-03.typ] tribulation → tribulation” (Judg 10:14)
 - [application-03.typ] Sirs → sirs! If
 - [application-03.typ] if → 
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
 - [application-03.typ] ; Oh → , oh,
-- [application-03.typ] Phylistins → Philistines (1Sa 5)
+- [application-03.typ] Phylistins → Philistines (1 Sam 5)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet , → closet
 - [application-03.typ] Closet - → closet
@@ -2733,13 +2710,13 @@
 - [application-03.typ] 1 → 
 - [application-03.typ] like → 
 - [application-03.typ] Closet - → closet
-- [application-03.typ] God → God (1Sa 1:15)
+- [application-03.typ] God → God (1 Sam 1:15)
 - [application-03.typ] Psal → 
 - [application-03.typ] 42 → 
 - [application-03.typ] 4 → 
-- [application-03.typ] me → me” (Psa 42:4)
+- [application-03.typ] me → me” (Ps 42:4)
 - [application-03.typ] Church , → church: “
-- [application-03.typ] Isa → Isa 26:8-9)
+- [application-03.typ] Isa → Isa 26:8–9)
 - [application-03.typ] 26 → 
 - [application-03.typ] 8 → 
 - [application-03.typ] 9 → 
@@ -2762,7 +2739,7 @@
 - [application-03.typ] Cor → 
 - [application-03.typ] 14 → 
 - [application-03.typ] 15 → 
-- [application-03.typ] spirit → spirit” (1Co 14:15)
+- [application-03.typ] spirit → spirit” (1 Cor 14:15)
 - [application-03.typ] Phil → 
 - [application-03.typ] 3 → 
 - [application-03.typ] 3 → 
@@ -2776,9 +2753,9 @@
 - [application-03.typ] My Son → 
 - [application-03.typ] heart → heart” (Pro 23:26)
 - [application-03.typ] loves → loves “
-- [application-03.typ] heart → heart (Psa 51:17; Jam 1:8)
+- [application-03.typ] heart → heart (Ps 51:17; Jam 1:8)
 - [application-03.typ] the Scriptures in the margent → these scriptures
-- [application-03.typ] together → together (Pro 21:27; Isa 1:11-12; 29:13; Mat 15:7-9; Eze 33:30-32; Zec 7:4-6; 2Ch 25:1-2; Psa 78:36-37)
+- [application-03.typ] together → together (Pro 21:27; Isa 1:11–12; 29:13; Matt 15:7–9; Ezek 33:30–32; Zech 7:4–6; 2 Chr 25:1–2; Ps 78:36–37)
 - [application-03.typ] nor → 
 - [application-03.typ] nor → 
 - [application-03.typ] nor → 
@@ -2839,8 +2816,8 @@
 - [application-03.typ] without → without a
 - [application-03.typ] Christians Gun - shot → Christian’s gunshot
 - [application-03.typ] begging → begging (Isa 1:15; 65:5)
-- [application-03.typ] God → God (Mal 1:13-14)
-- [application-03.typ] ; it → (Psa 141:2). It
+- [application-03.typ] God → God (Mal 1:13–14)
+- [application-03.typ] ; it → (Ps 141:2). It
 - [application-03.typ] 'Tis → It is
 - [application-03.typ] made → Isa
 - [application-03.typ] of → 45
@@ -2852,7 +2829,7 @@
 - [application-03.typ] Psal → 
 - [application-03.typ] 34 → 
 - [application-03.typ] 6 → 
-- [application-03.typ] there → Psa 34:6). There
+- [application-03.typ] there → Ps 34:6). There
 - [application-03.typ] delivered → saved
 - [application-03.typ] , till → until
 - [application-03.typ] his Altar , till → His altar until
@@ -2868,18 +2845,18 @@
 - [application-03.typ] Thes → 
 - [application-03.typ] 5 → 
 - [application-03.typ] 17 → 
-- [application-03.typ] ceasing → ceasing” (1Th 5:17)
+- [application-03.typ] ceasing → ceasing” (1 Thess 5:17)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Luke → 
 - [application-03.typ] 18 → 
 - [application-03.typ] 1 → 
-- [application-03.typ] faint → faint” (Luk 18:1)
+- [application-03.typ] faint → faint” (Luke 18:1)
 - [application-03.typ] Altar , → altar
 - [application-03.typ] 1 → 
 - [application-03.typ] Thes → 
 - [application-03.typ] 3 → 
 - [application-03.typ] 10 → 
-- [application-03.typ] exceedingly → exceedingly” (1Th 3
+- [application-03.typ] exceedingly → exceedingly” (1 Thess 3
 - [application-03.typ] So → 
 - [application-03.typ] Ephes → 
 - [application-03.typ] 6 → 
@@ -2913,15 +2890,15 @@
 - [application-03.typ] & c → etc
 - [application-03.typ] Altar , → altar
 - [application-03.typ] Closet - → closet
-- [application-03.typ] together → together (Isa 26:16; Psa 78:34; Zec 7:5)
+- [application-03.typ] together → together (Isa 26:16; Ps 78:34; Zech 7:5)
 - [application-03.typ] it → it (Gen 32)
 - [application-03.typ] Chamber → chamber (Dan 6)
 - [application-03.typ] 'Tis → It is
 - [application-03.typ] flesh → flesh (Gal 3:3)
 - [application-03.typ] 'tis → it is
 - [application-03.typ] plow , → plough
-- [application-03.typ] back → back (Luk 9:62)
-- [application-03.typ] crowned → crowned (Mat 24
+- [application-03.typ] back → back (Luke 9:62)
+- [application-03.typ] crowned → crowned (Matt 24
 - [application-03.typ] 'tis → 13). It is
 - [application-03.typ] it → it” (Rev 2:17)
 - [application-03.typ] that → 
@@ -2931,27 +2908,27 @@
 - [application-03.typ] 'Tis → It is
 - [application-03.typ] Closet - → closet
 - [application-03.typ] O → Oh,
-- [application-03.typ] another → another (Ecc 3
+- [application-03.typ] another → another (Eccl 3
 - [application-03.typ] Duties of my general calling , as I am a Christian ; nor the Duties → duties
 - [application-03.typ] First → [1] First
 - [application-03.typ] And → 
-- [application-03.typ] frame → frame (2Pe 2
+- [application-03.typ] frame → frame (2 Pet 2
 - [application-03.typ] So → 14; Jer 9:3), so
 - [application-03.typ] Secondly → [2] Secondly
 - [application-03.typ] , & → and
 - [application-03.typ] Closet - → closet
-- [application-03.typ] hour → hour” (Mat 15:28)
+- [application-03.typ] hour → hour” (Matt 15:28)
 - [application-03.typ] practise , & → practice and
 - [application-03.typ] Closet - → closet
 - [application-03.typ] The → The finish crowns the work. The
 - [application-03.typ] vitae → vitae, our life’s end
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
-- [application-03.typ] God → God (Song 3:1-3; Psa 73:28)
+- [application-03.typ] God → God (Song 3:1–3; Ps 73:28)
 - [application-03.typ] Psal → 
 - [application-03.typ] 27 → 
 - [application-03.typ] 4 → 
-- [application-03.typ] Temple → temple” (Psa 27:4)
+- [application-03.typ] Temple → temple” (Ps 27:4)
 - [application-03.typ] Temple , → temple
 - [application-03.typ] Psal → 
 - [application-03.typ] 42 → 
@@ -2963,24 +2940,24 @@
 - [application-03.typ] Psal → 
 - [application-03.typ] 43 → 
 - [application-03.typ] 4 → 
-- [application-03.typ] joy → joy” (Psa 43:4)
+- [application-03.typ] joy → joy” (Ps 43:4)
 - [application-03.typ] ; now → . Now,
 - [application-03.typ] was → is
 - [application-03.typ] Psal → 
 - [application-03.typ] 63 → 
 - [application-03.typ] 1 → 
 - [application-03.typ] 2 → 
-- [application-03.typ] Sanctuary → sanctuary” (Psa 63:1-2)
+- [application-03.typ] Sanctuary → sanctuary” (Ps 63:1–2)
 - [application-03.typ] estate → condition
 - [application-03.typ] Psal → 
 - [application-03.typ] 84 → 
 - [application-03.typ] 2 → 
-- [application-03.typ] God → God” (Psa 84:2)
+- [application-03.typ] God → God” (Ps 84:2)
 - [application-03.typ] By → By “
 - [application-03.typ] ; now → . Now,
 - [application-03.typ] satisfy → have satisfied
 - [application-03.typ] When ever → Whenever
-- [application-03.typ] shining → shining (Exo 34:29-35)
+- [application-03.typ] shining → shining (Exod 34:29–35)
 - [application-03.typ] O → Oh,
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closets , → closets
@@ -2999,45 +2976,45 @@
 - [application-03.typ] But → Question: But
 - [application-03.typ] Quest . → 
 - [application-03.typ] Sol → 
-- [application-03.typ] ; a → (Psa 51:17). A
+- [application-03.typ] ; a → (Ps 51:17). A
 - [application-03.typ] 'Tis → It is
 - [application-03.typ] Closets , → closets
-- [application-03.typ] kissing → kissing (Song 2:4-6)
+- [application-03.typ] kissing → kissing (Song 2:4–6)
 - [application-03.typ] of → 
 - [application-03.typ] O → oh,
 - [application-03.typ] are → 
 - [application-03.typ] Friends → , friends
 - [application-03.typ] viz → 
-- [application-03.typ] joy → joy (Joh 20:11-19)
+- [application-03.typ] joy → joy (John 20:11–19)
 - [application-03.typ] Closet , → closet
 - [application-03.typ] Closet , → closet
-- [application-03.typ] door → door (Joh 3:8)
+- [application-03.typ] door → door (John 3:8)
 - [application-03.typ] 'tis → it is
 - [application-03.typ] Closets , → closets
 - [application-03.typ] But . → 
-- [application-03.typ] lived → lived (Exo 33
+- [application-03.typ] lived → lived (Exod 33
 - [application-03.typ] none → none “
 - [application-03.typ] Abraham → Abraham (Gen 18),
 - [application-03.typ] him , → Him
-- [application-03.typ] had → had (Mat 17
+- [application-03.typ] had → had (Matt 17
 - [application-03.typ] any thing → anything
 - [application-03.typ] any thing → anything
 - [application-03.typ] any thing → anything
-- [application-03.typ] Christ → Christ (Joh 13:23
+- [application-03.typ] Christ → Christ (John 13:23
 - [application-03.typ] now → 20:2; 21:20). Now
 - [application-03.typ] Closet - Communion → closet communion
-- [application-03.typ] Closets → closets (Ecc 5
+- [application-03.typ] Closets → closets (Eccl 5
 - [application-03.typ] Closet - Communion → closet communion
 - [application-03.typ] Closet - Communion → closet communion
-- [application-03.typ] God → God (2Ch 30:17-20)
+- [application-03.typ] God → God (2 Chr 30:17–20)
 - [application-03.typ] Communion with God in their Closets ; some prize Communion → communion
 - [application-03.typ] , & → and
 - [application-03.typ] Man 〈◊〉 → marquis
-- [application-03.typ] it → it (Job 23:12; Psa 119:127; Mat 13:45-46)
+- [application-03.typ] it → it (Job 23:12; Ps 119:127; Matt 13:45–46)
 - [application-03.typ] a - like → alike
 - [application-03.typ] Closets , → closets
-- [application-03.typ] alms → alms (Psa 63:8
-- [application-03.typ] now → Isa 26:8-9). Now
+- [application-03.typ] alms → alms (Ps 63:8
+- [application-03.typ] now → Isa 26:8–9). Now
 - [application-03.typ] 〈◊〉•ow → ?” (Song 5:3). Now,
 - [application-03.typ] Closet - Communion → closet communion
 - [application-03.typ] don't a - like → do not alike
@@ -3067,33 +3044,33 @@
 - [application-03.typ] a - like Communion → alike communion
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
-- [application-03.typ] Ahimaaz → Ahimaaz (2Sa 18:23)
+- [application-03.typ] Ahimaaz → Ahimaaz (2 Sam 18:23)
 - [application-03.typ] viz → 
 - [application-03.typ] Closets , → closets
 - [application-03.typ] Closets , → closets
 - [application-03.typ] But , → 
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
-- [application-03.typ] duties → duties (2Ti 1:17
-- [application-03.typ] when → 1Ti 2:8). When
+- [application-03.typ] duties → duties (2 Tim 1:17
+- [application-03.typ] when → 1 Tim 2:8). When
 - [application-03.typ] Closet - → closet
 - [application-03.typ] & c . → 
-- [application-03.typ] Son → Son (1Jo 1:3)
-- [application-03.typ] & c → etc. (Isa 1:11-13)
+- [application-03.typ] Son → Son (1 John 1:3)
+- [application-03.typ] & c → etc. (Isa 1:11–13)
 - [application-03.typ] Closet - → closet
-- [application-03.typ] you → you (2Ti 1:6)
+- [application-03.typ] you → you (2 Tim 1:6)
 - [application-03.typ] But , → 
-- [application-03.typ] activities → activities (Psa 115:1)
+- [application-03.typ] activities → activities (Ps 115:1)
 - [application-03.typ] that → 
 - [application-03.typ] Chr . → Chronicles
 - [application-03.typ] Religious Duties , → religious duties
 - [application-03.typ] Drag ; they → drag (Hab 1:16). They
-- [application-03.typ] ; but → (Luk 18:11-12). But
+- [application-03.typ] ; but → (Luke 18:11–12). But
 - [application-03.typ] inlargments , → enlargements
-- [application-03.typ] alone → alone (Act 3:11-13, 16; Rev 4:10-11; 5:11-12)
+- [application-03.typ] alone → alone (Act 3:11-13, 16; Rev 4:10–11; 5:11–12)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
-- [application-03.typ] praise → praise (Psa 148:13)
+- [application-03.typ] praise → praise (Ps 148:13)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] But , → 
 - [application-03.typ] Closet - → closet
@@ -3101,7 +3078,7 @@
 - [application-03.typ] & c . → 
 - [application-03.typ] Closet , → closet
 - [application-03.typ] when Closet - → When closet
-- [application-03.typ] them → them (Ecc 9
+- [application-03.typ] them → them (Eccl 9
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Closet - → closet
@@ -3117,10 +3094,10 @@
 - [application-03.typ] Behold → Behold now
 - [application-03.typ] now → 
 - [application-03.typ] ashes → ashes” (Gen 18
-- [application-03.typ] God → God (Gen 28:10-18)
+- [application-03.typ] God → God (Gen 28:10–18)
 - [application-03.typ] Gen → 
 - [application-03.typ] 32 . 10 . → “
-- [application-03.typ] mercies → mercies (Gen 31:38-41)
+- [application-03.typ] mercies → mercies (Gen 31:38–41)
 - [application-03.typ] Numb → 
 - [application-03.typ] 12 . 3 . → “
 - [application-03.typ] that → which
@@ -3129,7 +3106,7 @@
 - [application-03.typ] Sam → 
 - [application-03.typ] 26 → 
 - [application-03.typ] 20 → 
-- [application-03.typ] flea → flea” (1Sa 26:20)
+- [application-03.typ] flea → flea” (1 Sam 26:20)
 - [application-03.typ] So → 
 - [application-03.typ] Chap → 
 - [application-03.typ] 24 → 
@@ -3139,7 +3116,7 @@
 - [application-03.typ] So → 
 - [application-03.typ] Psal → 
 - [application-03.typ] 226 → 
-- [application-03.typ] man → man” (Psa 22:6)
+- [application-03.typ] man → man” (Ps 22:6)
 - [application-03.typ] more weak ? What → weaker, what
 - [application-03.typ] under - foot , → underfoot
 - [application-03.typ] rendered → rendered “
@@ -3154,7 +3131,7 @@
 - [application-03.typ] 42 → 
 - [application-03.typ] 5 , 6 . → “
 - [application-03.typ] my self → myself
-- [application-03.typ] ashes → ashes” (Job 42:5-6)
+- [application-03.typ] ashes → ashes” (Job 42:5–6)
 - [application-03.typ] Isa → 
 - [application-03.typ] 6 → 
 - [application-03.typ] 1 → 
@@ -3176,7 +3153,7 @@
 - [application-03.typ] Closet , → closet
 - [application-03.typ] and → and the
 - [application-03.typ] Closet - → closet
-- [application-03.typ] were → were (Luk 18:11-12)
+- [application-03.typ] were → were (Luke 18:11–12)
 - [application-03.typ] 'tis → it is
 - [application-03.typ] thy self → thyself
 - [application-03.typ] Isa → Isa 65:5)
@@ -3198,7 +3175,7 @@
 - [application-03.typ] : O → . Oh,
 - [application-03.typ] that → 
 - [application-03.typ] vers → 
-- [application-03.typ] , 20 , → -
+- [application-03.typ] , 20 , → –
 - [application-03.typ] Idols , → idols
 - [application-03.typ] Idols , → idols
 - [application-03.typ] Hos → 
@@ -3207,7 +3184,7 @@
 - [application-03.typ] O but → Oh! But
 - [application-03.typ] a → 
 - [application-03.typ] that → 
-- [application-03.typ] 4 → 4-7
+- [application-03.typ] 4 → 4–7
 - [application-03.typ] 5 , 6 , 7 . Then → then
 - [application-03.typ] v → 
 - [application-03.typ] 8 . → “
@@ -3219,12 +3196,12 @@
 - [application-03.typ] Closet - → closet
 - [application-03.typ] strong holds → strongholds
 - [application-03.typ] it self → itself
-- [application-03.typ] God → God” (2Co 10:4-5)
+- [application-03.typ] God → God” (2 Cor 10:4–5)
 - [application-03.typ] Exod → 
 - [application-03.typ] 32 → 
 - [application-03.typ] 19 → 
 - [application-03.typ] 20 → 
-- [application-03.typ] it → it” (Exo 32:19-20)
+- [application-03.typ] it → it” (Exod 32:19–20)
 - [application-03.typ] Closet - → closet
 - [application-03.typ] Question , → question
 - [application-03.typ] Duties → ,
@@ -3240,22 +3217,12 @@
 - [application-03.typ] 9 → 
 - [application-03.typ] 13 → 
 - [application-03.typ] God → God” (Dan 9:13)
-- [application-03.typ] Services → services, witness Isaiah 1:11-15
-- [application-03.typ] witness → Isaiah
-- [application-03.typ] Isa → 58
-- [application-03.typ] 11 → 
-- [application-03.typ] 12 → 
-- [application-03.typ] 13 → 
-- [application-03.typ] 14 → 
-- [application-03.typ] 15 → 
-- [application-03.typ] Isa → 
-- [application-03.typ] 58 → 
-- [application-03.typ] 1 → 
-- [application-03.typ] 2 → 
+- [application-03.typ] , 12 , 13 , 14 , → –
+- [application-03.typ] , 2 , → –
 - [application-03.typ] himself → himself (Hos 10:1)
 - [application-03.typ] you → “they
 - [application-03.typ] your → their
-- [application-03.typ] a → (Mat 6:1-5). A
+- [application-03.typ] a → (Matt 6:1–5). A
 - [application-03.typ] man → man that
 - [application-03.typ] that → 
 - [application-03.typ] Stage ( → stage
@@ -3265,28 +3232,28 @@
 - [application-03.typ] John → 
 - [application-03.typ] 14 → 
 - [application-03.typ] 13 , 14 . → “
-- [application-03.typ] it → it” (Joh 14:13-14)
+- [application-03.typ] it → it” (John 14:13–14)
 - [application-03.typ] John 15 . 16 . → “
-- [application-03.typ] you → you” (Joh 15:16)
+- [application-03.typ] you → you” (John 15:16)
 - [application-03.typ] John 16 . 23 , 24 , 26 . → “
 - [application-03.typ] say → say not
-- [application-03.typ] you → you” (Joh 16:23-24, 26)
+- [application-03.typ] you → you” (John 16:23–24, 26)
 - [application-03.typ] 1 → 
 - [application-03.typ] Tim → 
 - [application-03.typ] 2 . 5 . → “
-- [application-03.typ] Jesus → Jesus” (1Ti 2:5)
+- [application-03.typ] Jesus → Jesus” (1 Tim 2:5)
 - [application-03.typ] his Mediation → His mediation (Heb 7
 - [application-03.typ] And 'tis → 25); and it is
 - [application-03.typ] Heaven , → heaven
 - [application-03.typ] any thing → anything
 - [application-03.typ] Sanctuary , → sanctuary
-- [application-03.typ] Christs Mediation → Christ’s mediation (Exo 28:29)
+- [application-03.typ] Christs Mediation → Christ’s mediation (Exod 28:29)
 - [application-03.typ] that → 
-- [application-03.typ] 13 → 13-14
+- [application-03.typ] 13 → 13–14
 - [application-03.typ] 14 . You → you
 - [application-03.typ] Incense , → incense
 - [application-03.typ] 'tis → it is
-- [application-03.typ] Son → Son (Joh 14:6)
+- [application-03.typ] Son → Son (John 14:6)
 - [application-03.typ] Brethren , → brethren
 - [application-03.typ] Closet - → closet
 - [application-03.typ] 'Tis → It is
@@ -3303,7 +3270,7 @@
 - [application-03.typ] But , → 
 - [application-03.typ] Psal → 
 - [application-03.typ] 5 . 3 . → “
-- [application-03.typ] up → up” (Psa 5:3)
+- [application-03.typ] up → up” (Ps 5:3)
 - [application-03.typ] will → will “
 - [application-03.typ] I → I “
 - [application-03.typ] it → in
@@ -3316,7 +3283,7 @@
 - [application-03.typ] Psal → 
 - [application-03.typ] 85 → 
 - [application-03.typ] 8 → 
-- [application-03.typ] Saints → saints” (Psa 85:8)
+- [application-03.typ] Saints → saints” (Ps 85:8)
 - [application-03.typ] 8th → eighth
 - [application-03.typ] what → what God
 - [application-03.typ] God Lord → LORD
@@ -3324,7 +3291,7 @@
 - [application-03.typ] 130 → 
 - [application-03.typ] 1 → 
 - [application-03.typ] 2 , 5 , 6 . → “
-- [application-03.typ] morning → morning” (Psa 130:1-2, 5-6)
+- [application-03.typ] morning → morning” (Ps 130:1–2, 5–6)
 - [application-03.typ] Sentinel , → sentinel
 - [application-03.typ] Merchant - man → merchantman
 - [application-03.typ] Ark , → ark
@@ -3333,7 +3300,7 @@
 - [application-03.typ] 1 → 
 - [application-03.typ] me → me” (Hab 2:1)
 - [application-03.typ] Watch - Tower , → watchtower
-- [application-03.typ] returns → returns (Psa 40:1-4)
+- [application-03.typ] returns → returns (Ps 40:1–4)
 - [application-03.typ] tarry → tarry” (Heb 10:37)
 - [application-03.typ] styled → styled “
 - [application-03.typ] but → but “
@@ -3353,14 +3320,14 @@
 - [application-04.typ] , & → and
 - [application-04.typ] it self → itself
 - [application-04.typ] , 'tis → . It is
-- [application-04.typ] sins → sins (Eph 4:28; 2Th 3:10, 12)
+- [application-04.typ] sins → sins (Eph 4:28; 2 Thess 3:10, 12)
 - [application-04.typ] O → Oh,
 - [application-04.typ] 'twill → it will
 - [application-04.typ] 'tis → it is
 - [application-04.typ] 'Twas → It was
 - [application-04.typ] ( sometimes → ,
 - [application-04.typ] Hermite ) → hermit, “
-- [application-04.typ] experience → experience (Eze 16:49)
+- [application-04.typ] experience → experience (Ezek 16:49)
 - [application-04.typ] Sun rejoyceth → sun “rejoiceth
 - [application-04.typ] Fields , → fields
 - [application-04.typ] Mountains , → mountains
@@ -3368,14 +3335,14 @@
 - [application-04.typ] Turtle → turtle dove
 - [application-04.typ] swallow → swallow (Jer 8:7)
 - [application-04.typ] Lillies , → lilies
-- [application-04.typ] providence → providence (Mat 6:26, 28)
+- [application-04.typ] providence → providence (Matt 6:26, 28)
 - [application-04.typ] Be , → bee
 - [application-04.typ] 'tis → it is
 - [application-04.typ] her self → herself
 - [application-04.typ] that → the
 - [application-04.typ] and → 
 - [application-04.typ] O → oh,
-- [application-04.typ] souls → souls (1Pe 5:8)
+- [application-04.typ] souls → souls (1 Pet 5:8)
 - [application-04.typ] Carnifex → carnifex, the executioner
 - [application-04.typ] houses → houses as were known to receive in idle people
 - [application-04.typ] as were known to receive an idle people , → 
@@ -3388,16 +3355,15 @@
 - [application-04.typ] Heaven , → heaven
 - [application-04.typ] or → 
 - [application-04.typ] as → as “
-- [application-04.typ] cummin → cummin” (Mat 23:23)
+- [application-04.typ] cummin → cummin” (Matt 23:23)
 - [application-04.typ] 'tis → It is
 - [application-04.typ] Religion , → religion
 - [application-04.typ] importance → importance (Col 2:21)
 - [application-04.typ] & c → etc
 - [application-04.typ] loset - → closet
-- [application-04.typ] power → power (2Ti 3:5)
-- [application-04.typ] Pharisees → Pharisees (Mat 6
-- [application-04.typ] heaven → heavenwards (Luk 11:34
-- [application-04.typ] wards → 40)
+- [application-04.typ] power → power (2 Tim 3:5)
+- [application-04.typ] Pharisees → Pharisees (Matt 6
+- [application-04.typ] heaven - wards → heavenwards (Luke 11:34–40)
 - [application-04.typ] Religion , → religion
 - [application-04.typ] strangness , → strangeness
 - [application-04.typ] Closet - → closet
@@ -3409,7 +3375,7 @@
 - [application-04.typ] . O → ! Oh,
 - [application-04.typ] Folio , → folio
 - [application-04.typ] school - master → schoolmaster
-- [application-04.typ] God → God (Deu 29:29)
+- [application-04.typ] God → God (Deut 29:29)
 - [application-04.typ] many → many who
 - [application-04.typ] who → 
 - [application-04.typ] arch - enemies → archenemies
@@ -3417,8 +3383,8 @@
 - [application-04.typ] O → Oh,
 - [application-04.typ] reach → reach (Rom 11:33)
 - [application-04.typ] O → Oh,
-- [application-04.typ] the Scriptures in the margent → these scriptures (Joh 21:22
-- [application-04.typ] and → Act 1:6-7; Luk 13:23-24). And
+- [application-04.typ] the Scriptures in the margent → these scriptures (John 21:22
+- [application-04.typ] and → Act 1:6-7; Luke 13:23–24). And
 - [application-04.typ] Closet - → closet
 - [application-04.typ] enquiries , → inquiries
 - [application-04.typ] Closet - → closet
@@ -3450,32 +3416,27 @@
 - [application-04.typ] of → 
 - [application-04.typ] Saints , → saints
 - [application-04.typ] them in the Margent → these
-- [application-04.typ] others → others (Jude 1:9; Luk 1:19, 26; Zec 4:10; Rev 5:6; Heb 1:14)
+- [application-04.typ] others → others (Jude 9; Luke 1:19, 26; Zech 4:10; Rev 5:6; Heb 1:14)
 - [application-04.typ] Heaven , → heaven
 - [application-04.typ] Scriptures , → scriptures
 - [application-04.typ] Closet - → closet
 - [application-04.typ] O → Oh,
 - [application-04.typ] Closet - → closet
 - [application-04.typ] are → are “
-- [application-04.typ] understood → understood” (2Pe 3:16)
-- [application-04.typ] 2 → 
-- [application-04.typ] Pet → 
-- [application-04.typ] 3 → 
-- [application-04.typ] 16 → 
-- [application-04.typ] But → 
+- [application-04.typ] . But , → )!
 - [application-04.typ] engageing your selves → engaging yourselves
 - [application-04.typ] Abiram → Abiram (Num 16:32)
 - [application-04.typ] Closets ; this → closets. “This
 - [application-04.typ] t'other → the other
 - [application-04.typ] Closet - → closet
 - [application-04.typ] Closet - → closet
-- [application-04.typ] c → (Luk 14:16-22)
+- [application-04.typ] c → (Luke 14:16–22)
 - [application-04.typ] Closet - → closet
 - [application-04.typ] 'Tis → It is
 - [application-04.typ] at most → 
 - [application-04.typ] but bodily presence , or → 
-- [application-04.typ] little → little (1Ti 4:8)
-- [application-04.typ] employments → employments (Luk 10:40-42)
+- [application-04.typ] little → little (1 Tim 4:8)
+- [application-04.typ] employments → employments (Luke 10:40–42)
 - [application-04.typ] ; Oh → , oh,
 - [application-04.typ] those → those who
 - [application-04.typ] who → 
@@ -3487,7 +3448,7 @@
 - [application-04.typ] what → ,
 - [application-04.typ] Psal → 
 - [application-04.typ] 90 . 8 . → “
-- [application-04.typ] countenance → countenance” (Psa 90:8)
+- [application-04.typ] countenance → countenance” (Ps 90:8)
 - [application-04.typ] Jer → 
 - [application-04.typ] 23 . 24 . → “
 - [application-04.typ] Lord ? Prov → LORD” (Jer 23:24)
@@ -3508,12 +3469,12 @@
 - [application-04.typ] any thing → anything
 - [application-04.typ] Psalm → 
 - [application-04.typ] 139 . 11 , 12 , → “
-- [application-04.typ] thee → thee” (Psa 139:11-12)
+- [application-04.typ] thee → thee” (Ps 139:11–12)
 - [application-04.typ] 'tis → It is
 - [application-04.typ] Psal → 
 - [application-04.typ] 44 → 
 - [application-04.typ] 21 → 
-- [application-04.typ] our hearts → the heart” (Psa 44:21)
+- [application-04.typ] our hearts → the heart” (Ps 44:21)
 - [application-04.typ] Bar , → bar
 - [application-04.typ] every where , → everywhere
 - [application-04.typ] 'Twas → It was
@@ -3528,7 +3489,7 @@
 - [application-04.typ] 34 → 
 - [application-04.typ] 21 → 
 - [application-04.typ] 22 → 
-- [application-04.typ] themselves → themselves” (Job 34:21-22)
+- [application-04.typ] themselves → themselves” (Job 34:21–22)
 - [application-04.typ] Jer → 
 - [application-04.typ] 32 → 
 - [application-04.typ] 19 → 
@@ -3568,11 +3529,11 @@
 - [application-04.typ] Luke → 
 - [application-04.typ] 8 → 
 - [application-04.typ] 17 . → “
-- [application-04.typ] abroad → abroad” (Luk 8:17)
+- [application-04.typ] abroad → abroad” (Luke 8:17)
 - [application-04.typ] mans - → man’s
 - [application-04.typ] Eccl → 
 - [application-04.typ] 12 . 14 . → “
-- [application-04.typ] evil → evil” (Ecc 12
+- [application-04.typ] evil → evil” (Eccl 12
 - [application-04.typ] say → say “
 - [application-04.typ] but → but “
 - [application-04.typ] Gods Omniscience , → God’s omniscience
@@ -3582,7 +3543,7 @@
 - [application-04.typ] Cor → 
 - [application-04.typ] 4 → 
 - [application-04.typ] 5 → 
-- [application-04.typ] heart → hearts” (1Co 4:5)
+- [application-04.typ] heart → hearts” (1 Cor 4:5)
 - [application-04.typ] Air , → air
 - [application-04.typ] & c . → 
 - [application-04.typ] Heaven , → heaven
@@ -3591,13 +3552,13 @@
 - [application-04.typ] Christ → Christ” (Rom 2
 - [application-04.typ] great day → Great Day,
 - [application-04.typ] Consider , → consider
-- [application-04.typ] sins → sins (Isa 41:21-23)
+- [application-04.typ] sins → sins (Isa 41:21–23)
 - [application-04.typ] be → be “
 - [application-04.typ] . And → ); and
 - [application-04.typ] Attribute , → attribute
 - [application-04.typ] 'Twas → It was
 - [application-04.typ] things → things” (Act 5:11)
-- [application-04.typ] light → light (Gen 42:21-22; 50:15-22)
+- [application-04.typ] light → light (Gen 42:21–22; 50:15–22)
 - [application-04.typ] was → were
 - [application-04.typ] Leprosy for ever ; and → leprosy forever. And
 - [application-04.typ] him → them
@@ -3610,7 +3571,7 @@
 - [application-04.typ] Sam → 
 - [application-04.typ] 12 . 9 , 10 , 11 , 12 . → “
 - [application-04.typ] the → this
-- [application-04.typ] Sun → sun” (2Sa 12:9-12; 16:22)
+- [application-04.typ] Sun → sun” (2 Sam 12:9–12; 16:22)
 - [application-04.typ] man → man through court
 - [application-04.typ] through Court → city
 - [application-04.typ] City → 
@@ -3630,7 +3591,7 @@
 - [application-04.typ] Leper → leper, “Unclean
 - [application-04.typ] unclean → unclean” (Lev 13:45)
 - [application-04.typ] unclean ; → 
-- [application-04.typ] sinned → sinned” (Mat 27:4)
+- [application-04.typ] sinned → sinned” (Matt 27:4)
 - [application-04.typ] Consider , That → consider that
 - [application-04.typ] Consider , That → consider that
 - [application-04.typ] that → who
@@ -3642,7 +3603,7 @@
 - [application-04.typ] But , → 
 - [application-04.typ] Chamber → chamber will ere long
 - [application-04.typ] will e're long → 
-- [application-04.typ] Israel → Israel (2Sa 12:11)
+- [application-04.typ] Israel → Israel (2 Sam 12:11)
 - [application-04.typ] upon → open
 - [application-04.typ] his → 
 - [application-04.typ] it self → itself
@@ -3658,12 +3619,12 @@
 - [application-04.typ] ? But → but
 - [application-04.typ] poor → ! Poor
 - [application-04.typ] Grass → grass” (Isa 51:12)
-- [application-04.typ] parts → parts (Rev 1:14; Heb 4:12-13)
+- [application-04.typ] parts → parts (Rev 1:14; Heb 4:12–13)
 - [application-04.typ] how → ! How
 - [application-04.typ] to his → His
 - [application-04.typ] who → “
 - [application-04.typ] whom → him
-- [application-04.typ] all → all” (1Jo 1:5)
+- [application-04.typ] all → all” (1 John 1:5)
 - [application-04.typ] sinner → ! Sinner
 - [application-04.typ] dis - inherit → disinherit
 - [application-04.typ] O → Oh,
@@ -3695,19 +3656,19 @@
 - [application-05.typ] Closet - → closet
 - [application-05.typ] , he → 
 - [application-05.typ] But , → 
-- [application-05.typ] Closet → closet experiences (Deu 7:18
-- [application-05.typ] experiences → 19
-- [application-05.typ] O → Psa 66:12). Oh,
+- [application-05.typ] Closet - → closet
+- [application-05.typ] experiences → experiences (Deut 7:18–19
+- [application-05.typ] O → Ps 66:12). Oh,
 - [application-05.typ] Closet - → closet
 - [application-05.typ] : O → ! Oh,
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
 - [application-05.typ] O → Oh,
-- [application-05.typ] ! O → (Psa 6:6; 39:12; 56:8). Oh,
-- [application-05.typ] God → God (Exo 34:28-29)
+- [application-05.typ] ! O → (Ps 6:6; 39:12; 56:8). Oh,
+- [application-05.typ] God → God (Exod 34:28–29)
 - [application-05.typ] O → Oh,
-- [application-05.typ] hearts → hearts (Luk 24:31-32; Isa 4:4)
+- [application-05.typ] hearts → hearts (Luke 24:31–32; Isa 4:4)
 - [application-05.typ] O → Oh,
 - [application-05.typ] Aminnadab → Amminadib (Song 6:12)
 - [application-05.typ] O → Oh,
@@ -3752,7 +3713,7 @@
 - [application-05.typ] , nor → ;
 - [application-05.typ] not → 
 - [application-05.typ] Closet - → closet
-- [application-05.typ] pray → pray (Ecc 8:5)
+- [application-05.typ] pray → pray (Eccl 8:5)
 - [application-05.typ] how → ! How
 - [application-05.typ] & c → etc
 - [application-05.typ] O → Oh,
@@ -3764,7 +3725,7 @@
 - [application-05.typ] love → love. Oh
 - [application-05.typ] O → 
 - [application-05.typ] Closet - → closet
-- [application-05.typ] together → together (Song 7:10-12)
+- [application-05.typ] together → together (Song 7:10–12)
 - [application-05.typ] so → so would
 - [application-05.typ] would → 
 - [application-05.typ] more strong → stronger
@@ -3780,7 +3741,7 @@
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Closet - → closet
 - [application-05.typ] But , → 
-- [application-05.typ] withal → withal (Psa 44:17-20)
+- [application-05.typ] withal → withal (Ps 44:17–20)
 - [application-05.typ] Nut , → nut
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Devil , → devil
@@ -3794,7 +3755,7 @@
 - [application-05.typ] or battel , → of battle
 - [application-05.typ] Closet , → closet
 - [application-05.typ] Brass , → brass
-- [application-05.typ] Sepulchre ; they → sepulcher (Mat 28:2). They
+- [application-05.typ] Sepulchre ; they → sepulcher (Matt 28:2). They
 - [application-05.typ] Closet - → closet
 - [application-05.typ] Temple , → temple
 - [application-05.typ] Closet - → closet
@@ -3815,7 +3776,7 @@
 - [application-05.typ] 13 → 
 - [application-05.typ] 14 → 
 - [application-05.typ] of the House → 
-- [application-05.typ] apart → apart” (Zec 12:10, 12-14)
+- [application-05.typ] apart → apart” (Zech 12:10, 12–14)
 - [application-05.typ] ever → ever (Joe 2:28-29; Isa 44:3)
 - [application-05.typ] every → ,
 - [application-05.typ] one → everyone
@@ -3932,7 +3893,7 @@
 - [chapter-01.typ] , → 
 - [chapter-01.typ] & → and
 - [chapter-01.typ] , → 
-- [chapter-01.typ] , → ” (Deu 33:16)
+- [chapter-01.typ] , → ” (Deut 33:16)
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → 
 - [chapter-02.typ] ( → 
@@ -3949,7 +3910,7 @@
 - [chapter-02.typ] , → 
 - [chapter-02.typ] & → 
 - [chapter-02.typ] - → 
-- [chapter-02.typ] , → 
+- [chapter-02.typ] , → (
 - [chapter-02.typ] . → :
 - [chapter-02.typ] , → 
 - [chapter-02.typ] , → 
@@ -3969,13 +3930,13 @@
 - [chapter-02.typ] : → ,
 - [chapter-02.typ] , → 
 - [chapter-02.typ] : → .
-- [chapter-02.typ] , → ” (Deu 33:16)
+- [chapter-02.typ] , → ” (Deut 33:16)
 - [chapter-02.typ] ( → 
 - [chapter-02.typ] ) → 
 - [chapter-02.typ] ; → ,
 - [chapter-03.typ] ; → ,
 - [chapter-03.typ] , → ;
-- [chapter-03.typ] . → . — Matthew 6:6
+- [chapter-03.typ] . → . — Matt 6:6
 - [chapter-03.typ] , → 
 - [chapter-03.typ] , → 
 - [chapter-03.typ] ; → : “
@@ -4002,7 +3963,7 @@
 - [chapter-03.typ] ) → ,
 - [chapter-03.typ] , → 
 - [chapter-03.typ] ; → .
-- [chapter-03.typ] . → ew
+- [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] ( → “There be eunuch
@@ -4012,8 +3973,10 @@
 - [chapter-03.typ] , → 
 - [chapter-03.typ] ; → ,
 - [chapter-03.typ] ; → ,
-- [chapter-03.typ] , → ” (2Ti
-- [chapter-03.typ] , → -
+- [chapter-03.typ] , → ” (
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] , → –
 - [chapter-03.typ] ; → ,
 - [chapter-03.typ] , → 
 - [chapter-03.typ] ; → ,
@@ -4039,12 +4002,13 @@
 - [chapter-03.typ] & → 
 - [chapter-03.typ] , → 
 - [chapter-03.typ] & → 
-- [argument-01.typ] , → 
+- [argument-01.typ] , → (
 - [argument-01.typ] . → 
 - [argument-01.typ] . → :
 - [argument-01.typ] , → (
 - [argument-01.typ] . → 
 - [argument-01.typ] . → :
+- [argument-01.typ] - → –
 - [argument-01.typ] . → :
 - [argument-01.typ] . → ,
 - [argument-01.typ] , → : “
@@ -4067,7 +4031,7 @@
 - [argument-01.typ] . → (
 - [argument-01.typ] . → 
 - [argument-01.typ] . → :
-- [argument-01.typ] , → -
+- [argument-01.typ] , → –
 - [argument-01.typ] , → 
 - [argument-01.typ] . → 
 - [argument-01.typ] . → 
@@ -4092,7 +4056,7 @@
 - [argument-01.typ] , → -
 - [argument-01.typ] , → 
 - [argument-01.typ] & → 
-- [argument-01.typ] , → 
+- [argument-01.typ] , → (
 - [argument-01.typ] . → :
 - [argument-01.typ] , → 
 - [argument-01.typ] . → 
@@ -4108,15 +4072,16 @@
 - [argument-01.typ] . → 
 - [argument-01.typ] . → : “
 - [argument-01.typ] , → :
-- [argument-01.typ] . → ans
+- [argument-01.typ] . → 
 - [argument-01.typ] . → :
 - [argument-01.typ] . → ;
-- [argument-01.typ] . → ians
+- [argument-01.typ] . → 
 - [argument-01.typ] . → :
-- [argument-01.typ] , → -
-- [argument-01.typ] . → ; Philippians
-- [argument-01.typ] , → -
+- [argument-01.typ] , → –
+- [argument-01.typ] . → ; Phil
+- [argument-01.typ] , → –
 - [argument-01.typ] . → ;
+- [argument-01.typ] . → 
 - [argument-01.typ] . → :
 - [argument-01.typ] , → 
 - [argument-01.typ] . → 
@@ -4190,6 +4155,7 @@
 - [argument-01.typ] . → …
 - [argument-01.typ] , → 
 - [argument-01.typ] , → also
+- [argument-01.typ] . → 
 - [argument-01.typ] . → :
 - [argument-01.typ] . → ;
 - [argument-01.typ] . → :
@@ -4198,7 +4164,7 @@
 - [argument-01.typ] . → (
 - [argument-01.typ] . → 
 - [argument-01.typ] . → :
-- [argument-01.typ] , → -
+- [argument-01.typ] , → –
 - [argument-01.typ] , → 
 - [argument-01.typ] . → !
 - [argument-01.typ] ( → 
@@ -4267,15 +4233,14 @@
 - [argument-02.typ] , → 
 - [argument-02.typ] . → :
 - [argument-02.typ] , → ;
-- [argument-02.typ] , → 
+- [argument-02.typ] , → (
 - [argument-02.typ] . → 
 - [argument-02.typ] . → :
 - [argument-02.typ] . → 
 - [argument-02.typ] , → ?
 - [argument-02.typ] . → 
 - [argument-02.typ] , → 
-- [argument-02.typ] , → ”
-- [argument-02.typ] . → 
+- [argument-02.typ] , → ” (
 - [argument-02.typ] . → :
 - [argument-02.typ] . → )
 - [argument-02.typ] - → 
@@ -4524,7 +4489,7 @@
 - [argument-08.typ] , → , “
 - [argument-08.typ] , → ”
 - [argument-08.typ] , → :
-- [argument-08.typ] , → 
+- [argument-08.typ] , → (
 - [argument-08.typ] . → 
 - [argument-08.typ] . → :
 - [argument-08.typ] ; → ,
@@ -4599,7 +4564,7 @@
 - [argument-08.typ] ; → .
 - [argument-08.typ] , → (
 - [argument-08.typ] . → :
-- [argument-08.typ] , → -
+- [argument-08.typ] , → –
 - [argument-08.typ] , → 
 - [argument-08.typ] , → (
 - [argument-08.typ] ; → .
@@ -4607,7 +4572,7 @@
 - [argument-08.typ] ; → .
 - [argument-08.typ] , → 
 - [argument-08.typ] . → :
-- [argument-08.typ] , → -
+- [argument-08.typ] , → –
 - [argument-08.typ] . → : “
 - [argument-08.typ] . → .”
 - [argument-08.typ] , → 
@@ -4642,6 +4607,7 @@
 - [argument-08.typ] , → 
 - [argument-08.typ] , → , “
 - [argument-08.typ] . → .”
+- [argument-08.typ] . → 
 - [argument-08.typ] . → :
 - [argument-08.typ] . → states: “
 - [argument-08.typ] , → 
@@ -4655,7 +4621,7 @@
 - [argument-08.typ] . → ;
 - [argument-08.typ] . → 
 - [argument-08.typ] . → :
-- [argument-08.typ] , → 
+- [argument-08.typ] , → (
 - [argument-08.typ] . → 
 - [argument-08.typ] . → :
 - [argument-08.typ] , → 
@@ -4683,7 +4649,7 @@
 - [argument-08.typ] , → (
 - [argument-08.typ] . → :
 - [argument-08.typ] . → :
-- [argument-08.typ] , → -
+- [argument-08.typ] , → –
 - [argument-08.typ] . → .”
 - [argument-08.typ] . → . “
 - [argument-08.typ] , → :
@@ -4709,10 +4675,10 @@
 - [argument-08.typ] . → 
 - [argument-08.typ] . → :
 - [argument-08.typ] . → ;
-- [argument-08.typ] . → 
+- [argument-08.typ] . → d
 - [argument-08.typ] . → :
 - [argument-08.typ] . → ;
-- [argument-08.typ] . → 
+- [argument-08.typ] . → d
 - [argument-08.typ] . → :
 - [argument-08.typ] . → :
 - [argument-08.typ] . → :
@@ -4808,10 +4774,9 @@
 - [argument-10.typ] ; → ,
 - [argument-10.typ] , → 
 - [argument-10.typ] : → ,
-- [argument-10.typ] , → 
-- [argument-10.typ] . → 
+- [argument-10.typ] , → (
 - [argument-10.typ] . → :
-- [argument-10.typ] , → -
+- [argument-10.typ] , → –
 - [argument-10.typ] : → ;
 - [argument-10.typ] , → 
 - [argument-10.typ] , → 
@@ -4831,7 +4796,7 @@
 - [argument-12.typ] , → 
 - [argument-12.typ] : → .
 - [argument-12.typ] - → 
-- [argument-12.typ] : → :15-17);
+- [argument-12.typ] : → :15–17);
 - [argument-12.typ] , → !
 - [argument-12.typ] , → 
 - [argument-12.typ] . → ,
@@ -4921,7 +4886,7 @@
 - [argument-12.typ] , → 
 - [argument-12.typ] & → 
 - [argument-12.typ] , → 
-- [argument-12.typ] ; → ” (2Sa 7:27).
+- [argument-12.typ] ; → ” (2 Sam 7:27).
 - [argument-12.typ] : → ;
 - [argument-12.typ] , → : “
 - [argument-12.typ] . → .”
@@ -4994,7 +4959,7 @@
 - [argument-13.typ] , → “
 - [argument-13.typ] , → ,”
 - [argument-13.typ] ; → 
-- [argument-13.typ] , → 
+- [argument-13.typ] , → (
 - [argument-13.typ] . → 
 - [argument-13.typ] . → :
 - [argument-13.typ] ; → ,
@@ -5026,7 +4991,7 @@
 - [argument-14.typ] , → ;
 - [argument-14.typ] , → 
 - [argument-14.typ] . → 
-- [argument-14.typ] . → ” (Mat 6:6,
+- [argument-14.typ] . → ” (Matt 6:6,
 - [argument-14.typ] ; → ,
 - [argument-14.typ] ; → ,
 - [argument-14.typ] . → 
@@ -5166,7 +5131,7 @@
 - [argument-17.typ] . → 
 - [argument-17.typ] . → : “
 - [argument-17.typ] , → 
-- [argument-17.typ] ( → (Jdg 16:15),
+- [argument-17.typ] ( → (Judg 16:15),
 - [argument-17.typ] , → 
 - [argument-17.typ] & → and
 - [argument-17.typ] , → , “
@@ -5188,29 +5153,29 @@
 - [argument-18.typ] . → 
 - [argument-18.typ] . → 
 - [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] - → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] , → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] , → 
+- [argument-18.typ] . → 
+- [argument-18.typ] . → 
+- [argument-18.typ] , → 
+- [argument-18.typ] . → 
+- [argument-18.typ] , → 
+- [argument-18.typ] , → 
+- [argument-18.typ] , → 
+- [argument-18.typ] . → 
 - [argument-18.typ] , → (
-- [argument-18.typ] . → 
 - [argument-18.typ] . → :
-- [argument-18.typ] . → 
-- [argument-18.typ] . → 
-- [argument-18.typ] , → 
-- [argument-18.typ] . → 
-- [argument-18.typ] . → 
-- [argument-18.typ] . → 
-- [argument-18.typ] . → 
-- [argument-18.typ] , → 
-- [argument-18.typ] . → 
-- [argument-18.typ] . → 
-- [argument-18.typ] , → 
-- [argument-18.typ] . → 
-- [argument-18.typ] , → 
-- [argument-18.typ] , → 
-- [argument-18.typ] , → 
-- [argument-18.typ] . → 
-- [argument-18.typ] , → 
-- [argument-18.typ] . → 
-- [argument-18.typ] . → :
-- [argument-18.typ] , → -
+- [argument-18.typ] , → –
 - [argument-18.typ] , → 
 - [argument-18.typ] , → 
 - [argument-18.typ] ( → ,
@@ -5218,7 +5183,7 @@
 - [argument-18.typ] , → 
 - [argument-18.typ] ; → .
 - [argument-18.typ] ; → .
-- [argument-18.typ] , → 
+- [argument-18.typ] , → (
 - [argument-18.typ] . → 
 - [argument-18.typ] . → :
 - [argument-18.typ] . → !
@@ -5389,19 +5354,19 @@
 - [application-01.typ] , → 
 - [application-01.typ] , → 
 - [application-01.typ] , → 
-- [application-01.typ] , → 
+- [application-01.typ] , → (
 - [application-01.typ] ; → :
 - [application-01.typ] , → 
 - [application-01.typ] , → 
 - [application-01.typ] , → 
 - [application-01.typ] , → 
 - [application-01.typ] ; → .
-- [application-01.typ] , → (1Sa
+- [application-01.typ] , → (
 - [application-01.typ] . → 
 - [application-01.typ] . → :
 - [application-01.typ] , → 
 - [application-01.typ] , → 
-- [application-01.typ] ? → ?” (Exo 14:15).
+- [application-01.typ] ? → ?” (Exod 14:15).
 - [application-01.typ] , → 
 - [application-01.typ] ; → .
 - [application-01.typ] , → 
@@ -5435,7 +5400,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] & → and
 - [application-02.typ] ! → ?
-- [application-02.typ] , → 
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
@@ -5469,7 +5434,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] - → 
-- [application-02.typ] : → :9; Rom 14:10; 2Co 5:10).
+- [application-02.typ] : → :9; Rom 14:10; 2 Cor 5:10).
 - [application-02.typ] & → and
 - [application-02.typ] & → and
 - [application-02.typ] , → 
@@ -5671,7 +5636,7 @@
 - [application-02.typ] , → ;
 - [application-02.typ] , → 
 - [application-02.typ] , → 
-- [application-02.typ] ? → ?” (Joh 4:28-29).
+- [application-02.typ] ? → ?” (John 4:28–29).
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -5689,11 +5654,11 @@
 - [application-02.typ] & → , and
 - [application-02.typ] , → 
 - [application-02.typ] , → 
-- [application-02.typ] ; → ; 127:1-2; 128:1-2),
-- [application-02.typ] , → 
+- [application-02.typ] ; → ; 127:1–2; 128:1–2),
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] ; → .
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -5730,7 +5695,7 @@
 - [application-02.typ] . → …
 - [application-02.typ] , → ”
 - [application-02.typ] & → 
-- [application-02.typ] . → (Exo 20:3-17
+- [application-02.typ] . → (Exod 20:3–17
 - [application-02.typ] ) → )—
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -5758,7 +5723,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] , → 
-- [application-02.typ] , → 
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
@@ -5825,7 +5790,7 @@
 - [application-02.typ] ? → !
 - [application-02.typ] , → ;
 - [application-02.typ] , → 
-- [application-02.typ] , → 
+- [application-02.typ] , → (
 - [application-02.typ] . → :
 - [application-02.typ] . → ;
 - [application-02.typ] . → :
@@ -5839,18 +5804,18 @@
 - [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] . → ;
-- [application-02.typ] . → 
+- [application-02.typ] . → t
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → (
-- [application-02.typ] . → :
+- [application-02.typ] , → 
+- [application-02.typ] . → Pet 1:
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → 
 - [application-02.typ] . → ;
 - [application-02.typ] , → :
@@ -6029,7 +5994,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] : → ;
-- [application-02.typ] , → ” (1Co 7:22-23)—either
+- [application-02.typ] , → ” (1 Cor 7:22–23)—either
 - [application-02.typ] ; → ,
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -6046,17 +6011,17 @@
 - [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
-- [application-02.typ] . → ; 2Co 11:
+- [application-02.typ] , → –
+- [application-02.typ] . → ;
 - [application-02.typ] . → 
-- [application-02.typ] . → 
+- [application-02.typ] . → :
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] & → and
@@ -6150,7 +6115,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] , → —
 - [application-02.typ] , → 
-- [application-02.typ] , → (1Sa
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
@@ -6202,7 +6167,7 @@
 - [application-02.typ] , → , and
 - [application-02.typ] , → 
 - [application-02.typ] , → —“
-- [application-02.typ] , → ” (Luk 18:13)—
+- [application-02.typ] , → ” (Luke 18:13)—
 - [application-02.typ] : → .
 - [application-02.typ] . → . “
 - [application-02.typ] , → ,”
@@ -6291,7 +6256,7 @@
 - [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] & → and
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -6331,13 +6296,13 @@
 - [application-02.typ] , → 
 - [application-02.typ] ! → ?
 - [application-02.typ] : → ;
-- [application-02.typ] , → 
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] . → 
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → ,
 - [application-02.typ] , → 
 - [application-02.typ] . → 
@@ -6383,8 +6348,8 @@
 - [application-02.typ] , → .
 - [application-02.typ] , → .
 - [application-02.typ] , → .
-- [application-02.typ] ; → ; Psa 42:5).
-- [application-02.typ] . → 
+- [application-02.typ] ; → ; Ps 42:5).
+- [application-02.typ] . → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
@@ -6418,7 +6383,7 @@
 - [application-02.typ] . → 
 - [application-02.typ] : → ;
 - [application-02.typ] , → 
-- [application-02.typ] , → (1Pe 2:2-3; 1Jo 2:12-14)
+- [application-02.typ] , → (1 Pet 2:2–3; 1 John 2:12–14)
 - [application-02.typ] : → :3-6).
 - [application-02.typ] , → 
 - [application-02.typ] , → 
@@ -6458,7 +6423,7 @@
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
@@ -6476,7 +6441,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] . → . (Psa 45:7-11).
+- [application-02.typ] . → . (Ps 45:7–11).
 - [application-02.typ] , → , and
 - [application-02.typ] ; → .
 - [application-02.typ] ; → ,
@@ -6622,7 +6587,7 @@
 - [application-02.typ] ; → ,
 - [application-02.typ] , → 
 - [application-02.typ] : → !
-- [application-02.typ] , → 
+- [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
@@ -6632,7 +6597,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] ; → .
 - [application-02.typ] & → and
-- [application-02.typ] : → :4-5).
+- [application-02.typ] : → :4–5).
 - [application-02.typ] : → .
 - [application-02.typ] : → .
 - [application-02.typ] . → 
@@ -6695,7 +6660,7 @@
 - [application-02.typ] ; → :
 - [application-02.typ] : → :17).
 - [application-02.typ] ; → .
-- [application-02.typ] : → :22-24).
+- [application-02.typ] : → :22–24).
 - [application-02.typ] ; → ,
 - [application-02.typ] : → :23, 25).
 - [application-02.typ] ; → .
@@ -6728,6 +6693,7 @@
 - [application-02.typ] , → 
 - [application-02.typ] . → 
 - [application-02.typ] , → 
+- [application-02.typ] ? → (
 - [application-02.typ] ▪ → ,
 - [application-02.typ] , → 
 - [application-02.typ] . → ,
@@ -6745,7 +6711,7 @@
 - [application-02.typ] ; → ,
 - [application-02.typ] : → :17).
 - [application-02.typ] , → .
-- [application-02.typ] : → :8; Rom 11:2-3).
+- [application-02.typ] : → :8; Rom 11:2–3).
 - [application-02.typ] ; → .
 - [application-02.typ] ; → ,
 - [application-02.typ] : → .”
@@ -6810,11 +6776,12 @@
 - [application-02.typ] , → 
 - [application-02.typ] . → 
 - [application-02.typ] . → 
-- [application-02.typ] . → :
-- [application-02.typ] . → ;
+- [application-02.typ] . → 
 - [application-02.typ] - → 
-- [application-02.typ] . → :
+- [application-02.typ] . → 
 - [application-02.typ] , → 
+- [application-02.typ] - → 
+- [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] , → 
@@ -6871,7 +6838,7 @@
 - [application-02.typ] ? → ?”
 - [application-02.typ] , → ;
 - [application-02.typ] : → .
-- [application-02.typ] : → :19-20).
+- [application-02.typ] : → :19–20).
 - [application-02.typ] , → 
 - [application-02.typ] : → .
 - [application-02.typ] , → it
@@ -6881,8 +6848,8 @@
 - [application-02.typ] , → , or, (
 - [application-02.typ] . → )
 - [application-02.typ] : → . “
-- [application-02.typ] , → ”
-- [application-02.typ] . → Ecc
+- [application-02.typ] , → ” (
+- [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
 - [application-02.typ] : → ,
@@ -6916,7 +6883,7 @@
 - [application-02.typ] : → .
 - [application-02.typ] : → ,
 - [application-02.typ] , → 
-- [application-02.typ] : → :17-18)?
+- [application-02.typ] : → :17–18)?
 - [application-02.typ] , → 
 - [application-02.typ] ; → .
 - [application-02.typ] , → Him
@@ -7010,10 +6977,9 @@
 - [application-02.typ] , → 
 - [application-02.typ] : → .
 - [application-02.typ] , → 
-- [application-02.typ] , → 
-- [application-02.typ] . → iel
+- [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] . → 
 - [application-02.typ] , → 
 - [application-02.typ] , → :
@@ -7035,7 +7001,7 @@
 - [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] . → 
-- [application-02.typ] ; → ” (Mat 8:19)—
+- [application-02.typ] ; → ” (Matt 8:19)—
 - [application-02.typ] : → .
 - [application-02.typ] ▪ → .
 - [application-02.typ] : → :5).
@@ -7096,7 +7062,7 @@
 - [application-02.typ] . → 
 - [application-02.typ] . → 
 - [application-02.typ] . → :
-- [application-02.typ] , → -
+- [application-02.typ] , → –
 - [application-02.typ] , → 
 - [application-02.typ] , → 
 - [application-02.typ] : → :2).
@@ -7141,18 +7107,17 @@
 - [application-03.typ] . → .”
 - [application-03.typ] ( → 
 - [application-03.typ] ) → ,
+- [application-03.typ] . → (
 - [application-03.typ] . → 
-- [application-03.typ] . → 
+- [application-03.typ] . → :
+- [application-03.typ] . → ;
 - [application-03.typ] . → :
 - [application-03.typ] . → ;
 - [application-03.typ] . → 
 - [application-03.typ] . → :
-- [application-03.typ] . → ;
-- [application-03.typ] . → 
-- [application-03.typ] . → :
 - [application-03.typ] . → 
 - [application-03.typ] . → 
-- [application-03.typ] . → 
+- [application-03.typ] . → t
 - [application-03.typ] . → :
 - [application-03.typ] . → ;
 - [application-03.typ] . → 
@@ -7206,7 +7171,7 @@
 - [application-03.typ] , → 
 - [application-03.typ] . → 
 - [application-03.typ] . → 
-- [application-03.typ] . → 
+- [application-03.typ] . → (
 - [application-03.typ] . → :
 - [application-03.typ] , → !
 - [application-03.typ] , → :
@@ -7234,7 +7199,7 @@
 - [application-03.typ] , → , “
 - [application-03.typ] , → 
 - [application-03.typ] ? → ?”
-- [application-03.typ] ; → (1Ti 2:8),
+- [application-03.typ] ; → (1 Tim 2:8),
 - [application-03.typ] ; → ,
 - [application-03.typ] ; → .
 - [application-03.typ] , → 
@@ -7358,7 +7323,7 @@
 - [application-03.typ] . → 
 - [application-03.typ] . → 
 - [application-03.typ] . → “
-- [application-03.typ] ; → ” (Psa 17:1),
+- [application-03.typ] ; → ” (Ps 17:1),
 - [application-03.typ] , → , “
 - [application-03.typ] . → .”
 - [application-03.typ] ; → .
@@ -7502,7 +7467,7 @@
 - [application-03.typ] & → , and
 - [application-03.typ] ( → —
 - [application-03.typ] ) → —
-- [application-03.typ] ! → (Gen 32:24-27; Hos 12:4-5).
+- [application-03.typ] ! → (Gen 32:24–27; Hos 12:4–5).
 - [application-03.typ] ; → .
 - [application-03.typ] ; → .
 - [application-03.typ] , → 
@@ -7565,7 +7530,7 @@
 - [application-03.typ] ; → ,
 - [application-03.typ] , → .
 - [application-03.typ] ) → “
-- [application-03.typ] ; → ” (Psa 34:6).
+- [application-03.typ] ; → ” (Ps 34:6).
 - [application-03.typ] ; → ,
 - [application-03.typ] , → , “
 - [application-03.typ] , → ,”
@@ -7677,7 +7642,7 @@
 - [application-03.typ] ; → ,
 - [application-03.typ] , → 
 - [application-03.typ] . → —“
-- [application-03.typ] . → ” (Psa 44:22)—and
+- [application-03.typ] . → ” (Ps 44:22)—and
 - [application-03.typ] , → 
 - [application-03.typ] , → 
 - [application-03.typ] , → 
@@ -7710,7 +7675,7 @@
 - [application-03.typ] , → 
 - [application-03.typ] . → “
 - [application-03.typ] ; → :
-- [application-03.typ] ! → ?” (Psa 42:1-2).
+- [application-03.typ] ! → ?” (Ps 42:1–2).
 - [application-03.typ] : → .
 - [application-03.typ] : → ;
 - [application-03.typ] ▪ → 
@@ -7778,17 +7743,17 @@
 - [application-03.typ] - → 
 - [application-03.typ] ; → .
 - [application-03.typ] , → 
-- [application-03.typ] : → :11; Deu 5:4; Num 12:7-8).
+- [application-03.typ] : → :11; Deut 5:4; Num 12:7–8).
 - [application-03.typ] , → ”
 - [application-03.typ] , → 
 - [application-03.typ] ( → ,
 - [application-03.typ] ) → ,
-- [application-03.typ] : → :1-4).
+- [application-03.typ] : → :1–4).
 - [application-03.typ] , → .
 - [application-03.typ] , → .
 - [application-03.typ] . → :
 - [application-03.typ] , → ;
-- [application-03.typ] : → :1; Psa 10:17).
+- [application-03.typ] : → :1; Ps 10:17).
 - [application-03.typ] , → . Some prize communion with God in their closets
 - [application-03.typ] : → ,
 - [application-03.typ] , → , “
@@ -7913,7 +7878,7 @@
 - [application-03.typ] . → 
 - [application-03.typ] . → 
 - [application-03.typ] . → “
-- [application-03.typ] ? → ” (1Sa 24:14).
+- [application-03.typ] ? → ” (1 Sam 24:14).
 - [application-03.typ] , → 
 - [application-03.typ] , → 
 - [application-03.typ] . → 
@@ -7927,7 +7892,7 @@
 - [application-03.typ] , → (
 - [application-03.typ] . → 
 - [application-03.typ] . → :
-- [application-03.typ] , → -
+- [application-03.typ] , → –
 - [application-03.typ] ; → .
 - [application-03.typ] ; → ,
 - [application-03.typ] , → 
@@ -8059,21 +8024,16 @@
 - [application-03.typ] . → 
 - [application-03.typ] . → “
 - [application-03.typ] , → :
+- [application-03.typ] ; → ,
+- [application-03.typ] . → 
 - [application-03.typ] . → :
-- [application-03.typ] . → 
-- [application-03.typ] , → 
-- [application-03.typ] , → 
-- [application-03.typ] , → 
-- [application-03.typ] , → 
-- [application-03.typ] . → 
-- [application-03.typ] . → 
-- [application-03.typ] . → 
-- [application-03.typ] , → 
-- [application-03.typ] , → -
 - [application-03.typ] . → ;
-- [application-03.typ] . → ariah
+- [application-03.typ] . → 
 - [application-03.typ] . → :
-- [application-03.typ] , → -
+- [application-03.typ] . → ;
+- [application-03.typ] . → 
+- [application-03.typ] . → :
+- [application-03.typ] , → –
 - [application-03.typ] , → 
 - [application-03.typ] , → 
 - [application-03.typ] : → . “
@@ -8271,7 +8231,7 @@
 - [application-04.typ] , → 
 - [application-04.typ] ; → .
 - [application-04.typ] : → .
-- [application-04.typ] , → ” (Psa 19:5; 104:23).
+- [application-04.typ] , → ” (Ps 19:5; 104:23).
 - [application-04.typ] , → .
 - [application-04.typ] , → 
 - [application-04.typ] ; → .
@@ -8308,7 +8268,7 @@
 - [application-04.typ] , → 
 - [application-04.typ] . → .,
 - [application-04.typ] : → .
-- [application-04.typ] : → :1-6).
+- [application-04.typ] : → :1–6).
 - [application-04.typ] , → —
 - [application-04.typ] , → 
 - [application-04.typ] , → 
@@ -8389,10 +8349,9 @@
 - [application-04.typ] , → 
 - [application-04.typ] , → 
 - [application-04.typ] , → 
+- [application-04.typ] ! → ” (
 - [application-04.typ] . → 
-- [application-04.typ] . → 
-- [application-04.typ] . → 
-- [application-04.typ] , → 
+- [application-04.typ] . → :
 - [application-04.typ] , → 
 - [application-04.typ] , → ,”
 - [application-04.typ] ; → (Phi 3:19).
@@ -8550,7 +8509,7 @@
 - [application-04.typ] : → :16).
 - [application-04.typ] , → 
 - [application-04.typ] , → 
-- [application-04.typ] ; → (2Ch 36:8),
+- [application-04.typ] ; → (2 Chr 36:8),
 - [application-04.typ] : → 
 - [application-04.typ] , → .
 - [application-04.typ] , → 
@@ -8574,7 +8533,7 @@
 - [application-04.typ] , → ;
 - [application-04.typ] ; → .
 - [application-04.typ] ; → .
-- [application-04.typ] : → (Jos 7).
+- [application-04.typ] : → (Josh 7).
 - [application-04.typ] , → 
 - [application-04.typ] , → 
 - [application-04.typ] , → 
@@ -8754,7 +8713,7 @@
 - [application-05.typ] ; → .
 - [application-05.typ] ; → .
 - [application-05.typ] , → 
-- [application-05.typ] , → (1Sa 18-20);
+- [application-05.typ] , → (1 Sam 18-20);
 - [application-05.typ] ; → .
 - [application-05.typ] , → 
 - [application-05.typ] , → .
@@ -8927,9 +8886,9 @@
 - Religion → religion (×29)
 - Eternity → eternity (×27)
 - himself → Himself (×27)
+- And → and (×26)
 - King → king (×26)
 - Sirs → sirs (×26)
-- And → and (×25)
 - they → They (×25)
 - The → the (×24)
 - Duties → duties (×22)
@@ -9288,6 +9247,7 @@
 - Second → second (×2)
 - Servants → servants (×2)
 - Service → service (×2)
+- Services → services (×2)
 - Sister → sister (×2)
 - Sisters → sisters (×2)
 - Some → some (×2)
@@ -9724,7 +9684,6 @@
 - Sentinel → sentinel
 - Sermons → sermons
 - Serpents → serpents
-- Services → services
 - Seventh → seventh
 - Shekels → shekels
 - Shining → shining
@@ -9937,6 +9896,7 @@
 - rises → rise (×6)
 - show → shew (×6)
 - so → so, (×6)
+- 2 → 2) (×5)
 - Dalilah → Delilah (×5)
 - Honour → honor (×5)
 - Josephs → Joseph’s (×5)
@@ -9966,7 +9926,6 @@
 - 17 → 17) (×4)
 - 18 → 18) (×4)
 - 19 → 19) (×4)
-- 2 → 2) (×4)
 - 4 → 4) (×4)
 - 5 → 5) (×4)
 - Christians → Christians, (×4)
@@ -9975,7 +9934,6 @@
 - Kings → king’s (×4)
 - Lyons → lions (×4)
 - Moses → Moses’ (×4)
-- Psal → (Psa (×4)
 - Saints → saints’ (×4)
 - carryes → carries (×4)
 - curst → cursed (×4)
@@ -10002,13 +9960,11 @@
 - Acts → Act (×3)
 - Armour → armor (×3)
 - Christ → Christ, (×3)
-- Deut → (Deu (×3)
 - Devils → devil’s (×3)
 - Elias → Elijah (×3)
 - Fathers → Father’s (×3)
-- John → Joh (×3)
 - Lacedemonians → Lacedaemonians (×3)
-- Matth → (Mat (×3)
+- Matth → (Matt (×3)
 - O → Oh (×3)
 - Prov → (Pro (×3)
 - Rhetorick → rhetoric (×3)
@@ -10064,7 +10020,6 @@
 - Daniels → Daniel’s (×2)
 - David → David, (×2)
 - Ephraims → Ephraim’s (×2)
-- Exod → (Exo (×2)
 - Fathers → father’s (×2)
 - Favourites → favorites (×2)
 - Ghost → Ghost, (×2)
@@ -10076,9 +10031,8 @@
 - James → James, (×2)
 - Jesus → Jesus, (×2)
 - Judgement → judgment (×2)
+- Kings → Kgs (×2)
 - Lord → LORD… (×2)
-- Luke → (Luk (×2)
-- Luke → Luk (×2)
 - Martyr → martyr, (×2)
 - Moses → Moses, (×2)
 - Nabals → Nabal’s (×2)
@@ -10287,7 +10241,6 @@
 - David's → David’s
 - Day → day,”
 - Desart → desert
-- Deut → Deu
 - Devils → devils,
 - Diana's → Diana’s
 - Dina → Dinah
@@ -10306,13 +10259,11 @@
 - Elias → Elias’
 - Enech → Enoch
 - Epaphras → Epaphras’
+- Ephes → Eph
 - Ephram → Ephraim
 - Ero••s → Eropus,
 - Esther → Est
 - Examples → examples,
-- Exod → Exo
-- Ezek → (Eze
-- Ezek → Eze
 - Farewel → farewell
 - Father → Father”
 - Father → father,
@@ -10353,7 +10304,6 @@
 - Jerom → Jerome
 - Jerusalem → Jerusalem,
 - Jesus → Jesus’
-- John → (Joh
 - Johu → Jehu
 - Jonah → (Jon
 - Jonah → Jon
@@ -10362,8 +10312,6 @@
 - Joseph → Joseph,
 - Josephus → Josephus,
 - Judas → Judas’
-- Judg → (Jdg
-- Judg → Jdg
 - Judg → “Judge
 - Judgement → Judgment
 - Judgements → judgments
@@ -10385,6 +10333,7 @@
 - Martha → Martha,
 - Masters → Master’s
 - Masters → master’s
+- Matth → Matt
 - Matth → Matthew
 - Memorandum → memorandum,
 - Mercer → Mercerus
@@ -10429,7 +10378,7 @@
 - Prometheus → Prometheus’
 - Promise → promise.
 - Prophets → prophet’s
-- Psal → Psa
+- Psal → Ps
 - Publicans → publican’s
 - Publick → public,
 - Rabins → Rabbins
@@ -10502,6 +10451,7 @@
 - Widdow → widow
 - Wood → Wood,
 - Xanth → Xanth,
+- Zach → Zech
 - Zeno → Zeno,
 - Zeuxis → Zeuxis,
 - a → an
@@ -10846,6 +10796,7 @@
 - lovetokens → love-tokens
 - loving → loving,
 - loytered → loitered
+- lyar → liar
 - makes → make
 - malector → malefactor
 - malitious → malicious

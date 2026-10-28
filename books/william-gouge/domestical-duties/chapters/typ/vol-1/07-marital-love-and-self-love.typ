@@ -5,7 +5,7 @@
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
+    #text(size: 0.9em, weight: 600)[Eph 5:28.]
 
     #text(style: "italic")[So ought men to love their wives, etc.]
   ]
@@ -38,7 +38,7 @@ Of these points I shall hereafter more fully speak.
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[EPHES. 5. 28.]
+    #text(size: 0.9em, weight: 600)[Eph 5:28.]
 
     #text(style: "italic")[So ought men to love their wives as their own bodies.]
   ]
@@ -48,13 +48,13 @@ Of these points I shall hereafter more fully speak.
 
 #smallcaps[The] forenamed particle (So) hath also relation to another pattern, namely, of a man’s self to his body: and so it is a transition from one argument to another.
 
-There is some more Emphasis here used in setting down an husbands duty, then was before, vers. 25.
+There is some more Emphasis here used in setting down an husbands duty, then was before, v. 25.
 
 There it was laid down by way of exhortation, #emph[husbands love your wives.]
 
 Here it is laid down with a straiter charge: #emph[husbands ought to love their wives.] So as this duty is not a matter arbitrary, left to the husbands will to do it, or leave it undone: there is a necessity laid upon him: he must love his wife. Woe therefore unto him if he do it not.
 
-In setting down this argument taken from a man’s self, the Apostle resembleth a man’s wife unto his #emph[body:] wherein he hath relation to vers. 23. Where he said, #emph[the husband is the head of the wife.] Whereby he showeth, that as an husbands place is a motive to his wife, for her to perform her duty: so to himself, #footnote[See Treat. 4. §. 74. 76. Why the pattern of a man’s self is added to the pattern of Christ.] for him to perform his duty.
+In setting down this argument taken from a man’s self, the Apostle resembleth a man’s wife unto his #emph[body:] wherein he hath relation to v. 23. Where he said, #emph[the husband is the head of the wife.] Whereby he showeth, that as an husbands place is a motive to his wife, for her to perform her duty: so to himself, #footnote[See Treat. 4. §. 74. 76. Why the pattern of a man’s self is added to the pattern of Christ.] for him to perform his duty.
 
 He is her head, therefore she must be subject to him.
 
@@ -68,11 +68,11 @@ The #emph[rule] is noted under the manner of a man’s loving his own body: as e
 
 Of the manner of a man’s loving himself, see Treat. 4. §. 74. 76.
 
-The more to enforce this comparison, the Apostle addeth, #emph[He that loveth his wife, loveth himself.] #footnote[#emph[Ephes.] 5. 28.]
+The more to enforce this comparison, the Apostle addeth, #emph[He that loveth his wife, loveth himself.] #footnote[Eph 5:28.]
 
 By this clause two things are implied.
 
-1\. That a wife is not only as a man’s body, namely, his outward flesh, but as his person, his body and soul. She is as #emph[his body,] because she was taken out of his body: and because #footnote[#emph[Gen.] 2. 23.] she is set under him, as his body under his head. She is as #emph[himself,] by reason of the bond of marriage, which maketh #emph[one] of #emph[two.] In which respect a wife is commonly called a man’s #footnote[#emph[Matth.] 19. 5, 6.] #emph[second self.]
+1\. That a wife is not only as a man’s body, namely, his outward flesh, but as his person, his body and soul. She is as #emph[his body,] because she was taken out of his body: and because #footnote[Gen 2:23.] she is set under him, as his body under his head. She is as #emph[himself,] by reason of the bond of marriage, which maketh #emph[one] of #emph[two.] In which respect a wife is commonly called a man’s #footnote[Matt 19:5, 6.] #emph[second self.]
 
 2\. That an husband in loving his wife loveth himself: so as the benefit of loving his wife will redound to himself, as well as to his wife.
 
@@ -81,7 +81,7 @@ By this clause two things are implied.
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
+    #text(size: 0.9em, weight: 600)[Eph 5:29.]
 
     #text(style: "italic")[For no man ever yet hated his own flesh: but nourisheth and cherisheth it, even as the Lord the Church.]
   ]
@@ -107,7 +107,7 @@ To #emph[nourish,] is properly to feed. #footnote[ἐκτρέφει.]
 
 To #emph[cherish,] is to keep warm. #footnote[θάλπει.]
 
-The former is done by #emph[food:] the latter by #emph[apparel.] Under #footnote[Proprie dicitur de galina fouente oua, quum illis incubat.] food, and apparel the Apostle compriseth all things needful for this life, where he saith, #emph[Having food and raiment, let us therewith be content.] #footnote[1 #emph[Tim.] 6. 8.]
+The former is done by #emph[food:] the latter by #emph[apparel.] Under #footnote[Proprie dicitur de galina fouente oua, quum illis incubat.] food, and apparel the Apostle compriseth all things needful for this life, where he saith, #emph[Having food and raiment, let us therewith be content.] #footnote[1 Tim 6:8.]
 
 This applied to an husband, showeth that he ought to have a provident care for the good of his wife in all things needful for her.
 
@@ -122,7 +122,7 @@ That he may yet further press this point, he returneth again to the example of C
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[EPHES. 5. 28, 29.]
+    #text(size: 0.9em, weight: 600)[Eph 5:28, 29.]
 
     #text(style: "italic")[So ought men to love their wives as their own bodies: he that loveth his wife loveth himself. For no man ever yet hated his own flesh: but nourisheth, and cherisheth it, even as the Lord the Church.]
   ]
@@ -146,7 +146,7 @@ Negatively, #emph[No man hateth his own flesh.] Affirmatively, and that in two b
 
 Both these are justified by the like affection of Christ to the Church which is his body #emph[(Even as the Lord the Church)] In that the Apostle propoundeth the natural affection of a man’s self to his body as a motive and pattern to Christians, to love their wives, and also justifieth the same by a like affection of Christ to his Church, I observe that
 
-#emph[Natural affection is a thing lawful and commendable:] it is #footnote[Doctr.] an affection which may stand with a good conscience: which God’s word is so far from taking away, as it doth establish it. For such as are #footnote[ἄστοργοι.] #emph[without natural affection] are directly condemned: and we are #footnote[#emph[Rom.] 12. 10.] commanded to be so kindly affectioned #footnote[#emph[Rom.] 1. 30.] one to another as #footnote[φιλόστοργοι] we are to our selves. Yea the law in #footnote[2 #emph[Tim.] 3. 3.] the strict rigour thereof layeth down that natural affection which is in a man to himself as a rule for the love of his neighbour#footnote[#emph[Mat.] 22. 39.] (#emph[thou shalt love thy neighbour as thy self.)] Hence is it that the #footnote[#emph[Lev.] 19. 18. #emph[Isa.] 58. 7.] Prophets, #footnote[1 #emph[Cor.] 12. 26. #emph[Jam.] 2. 8.] Apostles, and Christ himself do oft call upon us to have an eye to that affection which we bear to our selves. Of this pattern Christ saith, #footnote[#emph[Mat.] 7. 12.] #emph[This is the Law, and the Prophets,] this is the brief sum of them, this is it which they do much urge and press.
+#emph[Natural affection is a thing lawful and commendable:] it is #footnote[Doctr.] an affection which may stand with a good conscience: which God’s word is so far from taking away, as it doth establish it. For such as are #footnote[ἄστοργοι.] #emph[without natural affection] are directly condemned: and we are #footnote[Rom 12:10.] commanded to be so kindly affectioned #footnote[Rom 1:30.] one to another as #footnote[φιλόστοργοι] we are to our selves. Yea the law in #footnote[2 Tim 3:3.] the strict rigour thereof layeth down that natural affection which is in a man to himself as a rule for the love of his neighbour#footnote[Matt 22:39.] (#emph[thou shalt love thy neighbour as thy self.)] Hence is it that the #footnote[Lev 19:18. Isa 58:7.] Prophets, #footnote[1 Cor 12:26. Jas 2:8.] Apostles, and Christ himself do oft call upon us to have an eye to that affection which we bear to our selves. Of this pattern Christ saith, #footnote[Matt 7:12.] #emph[This is the Law, and the Prophets,] this is the brief sum of them, this is it which they do much urge and press.
 
 1\. Natural affection was at first created of God, by him #footnote[Reasons.] planted in man, so that as soul, body, the powers, and parts of them, are in their substance good things, this affection also in it self is good.
 
@@ -154,7 +154,7 @@ Both these are justified by the like affection of Christ to the Church which is 
 
 === §. 57. #emph[Of natural self-love.]
 
-#emph[Object.] Lovers of themselves are condemned in God’s word, as 2 #emph[Tim.] 3. 2. #emph[Phil.] 2. 21. 1 #emph[Cor.] 10. 24. #emph[Rom.] 15. 1.
+#emph[Object.] Lovers of themselves are condemned in God’s word, as 2 Tim 3:2. Phil 2:21. 1 Cor 10:24. Rom 15:1.
 
 #emph[Answ.] There is a double loving of a man’s self. #footnote[The several kinds of self-love.] One good and commendable: the other evil, and damnable.
 
@@ -167,7 +167,7 @@ That which is natural is in all by the very instinct of nature: and it was at fi
 
 === §. 58. #emph[Of spiritual self-love.]
 
-Spiritual self-love is that which is supernaturally wrought in man by God’s Spirit: whereby he is both enlightened to discern what is most excellent, and best for him, and also moved to choose the same: so as this serveth to rectify the former. Hence it cometh to pass that their chiefest care is for their souls, and for the eternal salvation thereof: for the furthering whereof they can be content as need requireth, to #footnote[1 #emph[Cor.] 9. 27.] beat down their body, to #footnote[2 #emph[Cor.] 11. 27.] deny them sometimes their ordinary refreshing by food, rest, and other like means, yea and to #footnote[#emph[Heb.] 11. 36, 37.] suffer them to be imprisoned, racked, and otherways tortured, and life it self to be taken from them. This men do, #footnote[#emph[Non propterea quisquam dicendus est non diligere salutem, atque incolumitatem corporis sui, quia amplius aliquid diligit: nam auarus etc. Aug. de doct. Chr. lib.] 1. #emph[cap.] 25.] and suffer, not for want of natural affection, but by reason of spiritual affection which persuades them that it is good for them it should be so. A man is not therefore to be said not to love the health and safety of his body because he loveth something more. For a covetous man though he love his money, yet he can be content to part with it for bread to nourish his body: so a spiritual man though he love his life, yet he can be content to lose it for his souls salvation. For he loveth himself sufficiently, who doth his best to enjoy the chiefest and truest good. This spiritual affection extendeth it self as #footnote[#emph[Ille se satis diligit qui sedulo agit vt summo & vero perfruatur bono. Aug. de mor. eccl. l.] 1. #emph[c.] 26.] far as natural affection, namely to wives, husbands, children, parents, brethren, cousins, friends, etc. Much is this urged and pressed in the Scriptures, as #emph[Isa.] 55. 1, 2, 3. #emph[Mat.] 6. 19, 20, 33. #emph[Joh.] 6. 27. 1 #emph[Tim.] 6. 11, 19.
+Spiritual self-love is that which is supernaturally wrought in man by God’s Spirit: whereby he is both enlightened to discern what is most excellent, and best for him, and also moved to choose the same: so as this serveth to rectify the former. Hence it cometh to pass that their chiefest care is for their souls, and for the eternal salvation thereof: for the furthering whereof they can be content as need requireth, to #footnote[1 Cor 9:27.] beat down their body, to #footnote[2 Cor 11:27.] deny them sometimes their ordinary refreshing by food, rest, and other like means, yea and to #footnote[Heb 11:36, 37.] suffer them to be imprisoned, racked, and otherways tortured, and life it self to be taken from them. This men do, #footnote[#emph[Non propterea quisquam dicendus est non diligere salutem, atque incolumitatem corporis sui, quia amplius aliquid diligit: nam auarus etc. Aug. de doct. Chr. lib.] 1. #emph[cap.] 25.] and suffer, not for want of natural affection, but by reason of spiritual affection which persuades them that it is good for them it should be so. A man is not therefore to be said not to love the health and safety of his body because he loveth something more. For a covetous man though he love his money, yet he can be content to part with it for bread to nourish his body: so a spiritual man though he love his life, yet he can be content to lose it for his souls salvation. For he loveth himself sufficiently, who doth his best to enjoy the chiefest and truest good. This spiritual affection extendeth it self as #footnote[#emph[Ille se satis diligit qui sedulo agit vt summo & vero perfruatur bono. Aug. de mor. eccl. l.] 1. #emph[c.] 26.] far as natural affection, namely to wives, husbands, children, parents, brethren, cousins, friends, etc. Much is this urged and pressed in the Scriptures, as Isa 55:1, 2, 3. Matt 6:19, 20, 33. John 6:27. 1 Tim 6:11, 19.
 
 === §. 59. #emph[Of evil self-love.]
 
@@ -176,9 +176,9 @@ The self-love which is evil swerveth in the
 - #emph[Object.]
 - #emph[Measure.]
 
-1\. In the #emph[Object,] when it is cast upon our corruptions, our lusts, our evil humors: when we affect and love them, and for them pursue whatsoever may satisfy them: as the ambitious, lustful, riotous, gluttonous, and other like persons. This is expressly forbidden, #emph[Make not provision for the flesh to fulfill] #footnote[#emph[Rom.] 13. 14.] #emph[the lusts thereof.]
+1\. In the #emph[Object,] when it is cast upon our corruptions, our lusts, our evil humors: when we affect and love them, and for them pursue whatsoever may satisfy them: as the ambitious, lustful, riotous, gluttonous, and other like persons. This is expressly forbidden, #emph[Make not provision for the flesh to fulfill] #footnote[Rom 13:14.] #emph[the lusts thereof.]
 
-2\. In the #emph[Measure,] when our love is wholly and only cast upon our selves, so seeking our own good, as we regard no man’s good but our own: nor care what damage another receiveth, so we may get advantage thereby. This is also forbidden: #footnote[#emph[Phil.] 2. 21. 1 #emph[Cor.] 13. 5. #emph[&] 10. 24.] for it is contrary to the property of true love, #emph[which seeketh not her own,] namely to the prejudice of another. This hath the title of #footnote[φιλαυτία.] #emph[Self-love] appropriated to it. It sprang from the corruption of nature, and is daily increased by the instigation of Satan for the destruction of mankind. It manifesteth it self by the many tricks of deceit which most men use in their dealings with others: by making advantage of others necessities as in the case of usury, of raising corn, and other commodities in time of scarcity, with the like: by men’s backwardness to help such as stand in need of their succour: by want of compassion in other men’s miseries: and by many other like unkindness: all which verify the proverb, #emph[Every man for himself.]
+2\. In the #emph[Measure,] when our love is wholly and only cast upon our selves, so seeking our own good, as we regard no man’s good but our own: nor care what damage another receiveth, so we may get advantage thereby. This is also forbidden: #footnote[Phil 2:21. 1 Cor 13:5. #emph[&] 10. 24.] for it is contrary to the property of true love, #emph[which seeketh not her own,] namely to the prejudice of another. This hath the title of #footnote[φιλαυτία.] #emph[Self-love] appropriated to it. It sprang from the corruption of nature, and is daily increased by the instigation of Satan for the destruction of mankind. It manifesteth it self by the many tricks of deceit which most men use in their dealings with others: by making advantage of others necessities as in the case of usury, of raising corn, and other commodities in time of scarcity, with the like: by men’s backwardness to help such as stand in need of their succour: by want of compassion in other men’s miseries: and by many other like unkindness: all which verify the proverb, #emph[Every man for himself.]
 
 But by distinguishing the forenamed points we may see that notwithstanding #emph[evil self-love] be a most detestable vice, yet it is both lawful and commendable to love ones self aright.
 
@@ -188,16 +188,16 @@ The dotage of Stoics who would have all natural affection #footnote[1\. #emph[Us
 
 === §. 61. #emph[Of well using natural affection.]
 
-Let us labour to cherish this natural affection in us, and to #footnote[2\. #emph[Use.]] turn it to the best things, even to such as are not only apparently, but indeed good: and among good things to such as are most excellent, and the most necessary: such as concern our souls, and eternal life. For this end we must pray to have our understandings enlightened (that we may #emph[discern] #footnote[#emph[Phil.] 1. 10.] #emph[things that differ,] and #emph[approve that which is excellent)] and to have our wills and affections sanctified, that we embrace, pursue, and delight in that which we know to be the best. Thus shall our #emph[natural] affection be turned into a #emph[spiritual] affection.
+Let us labour to cherish this natural affection in us, and to #footnote[2\. #emph[Use.]] turn it to the best things, even to such as are not only apparently, but indeed good: and among good things to such as are most excellent, and the most necessary: such as concern our souls, and eternal life. For this end we must pray to have our understandings enlightened (that we may #emph[discern] #footnote[Phil 1:10.] #emph[things that differ,] and #emph[approve that which is excellent)] and to have our wills and affections sanctified, that we embrace, pursue, and delight in that which we know to be the best. Thus shall our #emph[natural] affection be turned into a #emph[spiritual] affection.
 
-Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth us to the fowls of the air, and lilies #footnote[#emph[Mat.] 6. 26, 28.] of the field to learn of them, so the Apostle here sendeth us to our own natural instinct. We cannot complain that we have no schoolmaster near us (as many in the country whose children for want of one are rudely brought up) our selves are schoolmasters to our selves. Wherefore as the Apostle hereby teacheth husbands to love their wives, so let us all more generally learn to love one another: for #footnote[1 #emph[Cor.] 12. 12.] we are all mutual members of one and the same body: and our brother or neighbour is #footnote[#emph[Isa.] 58. 7.] #emph[Our flesh.]
+Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth us to the fowls of the air, and lilies #footnote[Matt 6:26, 28.] of the field to learn of them, so the Apostle here sendeth us to our own natural instinct. We cannot complain that we have no schoolmaster near us (as many in the country whose children for want of one are rudely brought up) our selves are schoolmasters to our selves. Wherefore as the Apostle hereby teacheth husbands to love their wives, so let us all more generally learn to love one another: for #footnote[1 Cor 12:12.] we are all mutual members of one and the same body: and our brother or neighbour is #footnote[Isa 58:7.] #emph[Our flesh.]
 
 === §. 62. #emph[Of Man’s forbearing to wrong himself.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[EPHES. 5. 29.]
+    #text(size: 0.9em, weight: 600)[Eph 5:29.]
 
     #text(style: "italic")[For no man ever yet hated his own flesh: but nourisheth and cherisheth it.]
   ]
@@ -207,9 +207,9 @@ Here we see how we may make nature a schoolmaster unto us: for as Christ sendeth
 
 #smallcaps[The] first particle #emph[(for)] showeth that in this verse an evidence and manifestation of a man’s love of himself is given. The first part thereof, which is set down negatively, showeth that
 
-#emph[It is against the common instinct of nature for a man to hate] #footnote[Doctr.] #emph[himself.] It is noted as an evidence that devils were in the Gadarene, in that #emph[he cut himself with stones:] had not the devils #footnote[#emph[Mar.] 5. 5.] forced him, he would never have done it.
+#emph[It is against the common instinct of nature for a man to hate] #footnote[Doctr.] #emph[himself.] It is noted as an evidence that devils were in the Gadarene, in that #emph[he cut himself with stones:] had not the devils #footnote[Mark 5:5.] forced him, he would never have done it.
 
-Hatred is contrary to love: it being therefore before proved #footnote[Reason.] that every man by nature loveth himself, by necessary consequence it followeth, that no man hateth his flesh: for two contrary effects proceed not from the same cause: #emph[no fountain can yield both salt water and fresh.] #footnote[#emph[Jam.] 3. 12.]
+Hatred is contrary to love: it being therefore before proved #footnote[Reason.] that every man by nature loveth himself, by necessary consequence it followeth, that no man hateth his flesh: for two contrary effects proceed not from the same cause: #emph[no fountain can yield both salt water and fresh.] #footnote[Jas 3:12.]
 
 #emph[Object.] Many do macerate their bodies with fastings, watchings, labours, travels, and the like: others tear and gash their flesh with whips, knives, swords, yea and with their teeth also: others lay such violent hands upon themselves, as they take away their own lives.
 
@@ -217,7 +217,7 @@ Hatred is contrary to love: it being therefore before proved #footnote[Reason.] 
 
 2\. They think they do these things in love to themselves; as superstitious persons to merit salvation, by macerating their body: others to free themselves from ignominy, penury, slavery, torment, or such like evils: so as there is an apparent good that maketh them so to do, and not simply hatred of themselves. They that so do, are either possessed with a Devil, or blinded in their mind, or bereaved of their wits, or overwhelmed with some passion, so as they know not what they do: they do it not therefore in hatred.
 
-2\. #emph[Object.] Holy and wise men deliberately, and on good advice, have #emph[beaten down their bodies,] and yielded their lives #footnote[1 #emph[Cor.] 9. 27. #emph[Heb.] 11. 35. #emph[etc.]] to be taken away, #emph[not accepting deliverance.]
+2\. #emph[Object.] Holy and wise men deliberately, and on good advice, have #emph[beaten down their bodies,] and yielded their lives #footnote[1 Cor 9:27. Heb 11:35. #emph[etc.]] to be taken away, #emph[not accepting deliverance.]
 
 #emph[Answ.] That was far from hatred, and in great love to themselves, as was showed #footnote[§. 56.] before.
 
@@ -225,7 +225,7 @@ Hatred is contrary to love: it being therefore before proved #footnote[Reason.] 
 
 The forenamed doctrine discovereth many practises used #footnote[1 #emph[Use.]] by sundry men to be against nature, and in that respect most horrible and detestable.
 
-1\. #emph[The practise of the idolatrous Baalites,] who to move their Idol to hear them, #emph[cut themselves with knives and lancers, till] #footnote[1 #emph[King.] 18. 28. #emph[Cassian. Collat.] 19.] #emph[the blood gushed out upon them.] Not much unlike to whom are Popish Eremites, Anchorites, Monks flagellants, Grandimontenses, sundry sorts of Franciscans, and other Friars, whereof #footnote[#emph[D. Willet Synops. Papism. Contr.] 6. #emph[quaest.] 6.] some wear shirts of hair-cloth, some shirts of mail next their body, some go bare-foot, some daily whip themselves till blood follow, and some waste their bodies with lying hard, watching, fasting, going on pilgrimage, etc.
+1\. #emph[The practise of the idolatrous Baalites,] who to move their Idol to hear them, #emph[cut themselves with knives and lancers, till] #footnote[1 Kgs 18:28. #emph[Cassian. Collat.] 19.] #emph[the blood gushed out upon them.] Not much unlike to whom are Popish Eremites, Anchorites, Monks flagellants, Grandimontenses, sundry sorts of Franciscans, and other Friars, whereof #footnote[#emph[D. Willet Synops. Papism. Contr.] 6. #emph[quaest.] 6.] some wear shirts of hair-cloth, some shirts of mail next their body, some go bare-foot, some daily whip themselves till blood follow, and some waste their bodies with lying hard, watching, fasting, going on pilgrimage, etc.
 
 2\. #emph[The practise of Gluttons, Drunkards, unchaste and voluptuous persons,] who to satisfy their corrupt humours, impair their health, pull diseases upon them, and shorten their days.
 
@@ -233,25 +233,25 @@ The forenamed doctrine discovereth many practises used #footnote[1 #emph[Use.]] 
 
 4\. #emph[The practise of them that give the reins to grief, fear, wrath,] and other like violent passions, so as thereby they weaken their bodies, and shorten their days.
 
-5\. #emph[The practise of self-murderers:] who herein break the rule of love #emph[(as thy self)] and end their days in a most horrible #footnote[#emph[Matth.] 22. 39.] sin, depriving themselves of the time, place, and means of repentance: so as, whatsoever fond pretence they make for their sin, little better can be thought of them, then that they thrust their souls headlong into hell, unless the Lord betwixt the act done, and the expiration of their breath, extraordinarily touch their hearts. Religion, nature, sense, and all abhor this fearful fact: so as not only those who have been enlightened #footnote[#emph[—Quam vellent aethere in alto, Nunc & pauperiem, & duros perferre labores. Virg. Aen.] 6.] by God’s word, but also the Heathen, who had no other then the light of nature, have adjudged it to be a most desperate sin.
+5\. #emph[The practise of self-murderers:] who herein break the rule of love #emph[(as thy self)] and end their days in a most horrible #footnote[Matt 22:39.] sin, depriving themselves of the time, place, and means of repentance: so as, whatsoever fond pretence they make for their sin, little better can be thought of them, then that they thrust their souls headlong into hell, unless the Lord betwixt the act done, and the expiration of their breath, extraordinarily touch their hearts. Religion, nature, sense, and all abhor this fearful fact: so as not only those who have been enlightened #footnote[#emph[—Quam vellent aethere in alto, Nunc & pauperiem, & duros perferre labores. Virg. Aen.] 6.] by God’s word, but also the Heathen, who had no other then the light of nature, have adjudged it to be a most desperate sin.
 
 === §. 64. #emph[Of haters of others.]
 
-2\. By that affection which nature moveth men to bear to their flesh, we may see how nature more prevails with men, then conscience and obedience to God’s word, yea then the #footnote[2\. #emph[Use.]] Spirit: for where nature keepeth all men from hating their own flesh, nothing can keep many husbands from hating their wives, and wives their husbands; nor brothers, cousins, & neighbours (yet these are #emph[our own flesh)] no nor many of those #footnote[#emph[Isa.] 58. 7.] who profess themselves to be of the mystical body of Christ, from hating one another. What shall we say of these? Is nature of greater power, and more mighty in operation then the Spirit? Surely, such either deceive themselves and others, in pretending to be members of the body of Christ: or else the Spirit is very weak in them, and the flesh beareth a great sway. Let haters of their brethren think of this and be ashamed.
+2\. By that affection which nature moveth men to bear to their flesh, we may see how nature more prevails with men, then conscience and obedience to God’s word, yea then the #footnote[2\. #emph[Use.]] Spirit: for where nature keepeth all men from hating their own flesh, nothing can keep many husbands from hating their wives, and wives their husbands; nor brothers, cousins, & neighbours (yet these are #emph[our own flesh)] no nor many of those #footnote[Isa 58:7.] who profess themselves to be of the mystical body of Christ, from hating one another. What shall we say of these? Is nature of greater power, and more mighty in operation then the Spirit? Surely, such either deceive themselves and others, in pretending to be members of the body of Christ: or else the Spirit is very weak in them, and the flesh beareth a great sway. Let haters of their brethren think of this and be ashamed.
 
 === §. 65. #emph[Of man’s care in providing and using things needful for his body.]
 
 The second evidence of that love which a man beareth to himself, is noted in two such branches #emph[(nourisheth] and #emph[cherisheth)] as comprize #footnote[See §. 55.] all needful things under them, so as the Apostle implieth thereby, that
 
-#emph[Nature teacheth all men to provide such things as are needful for] #footnote[Doctr.] #emph[them:] needful for life, as food: and needful for health, as apparel. Nature is here propounded as a Schoolmaster to Christians: this therefore which nature teacheth is a bounden duty. It is much insisted upon by #emph[Solomon,] who in this respect #footnote[#emph[Eccl.] 2. 24. #emph[&] 3. 13. #emph[&] 5. 18. #emph[&] 8. 15.] saith, #emph[It is good and comely for one to eat and drink, and enjoy the good of all his labour.]
+#emph[Nature teacheth all men to provide such things as are needful for] #footnote[Doctr.] #emph[them:] needful for life, as food: and needful for health, as apparel. Nature is here propounded as a Schoolmaster to Christians: this therefore which nature teacheth is a bounden duty. It is much insisted upon by #emph[Solomon,] who in this respect #footnote[Eccl 2:24. #emph[&] 3. 13. #emph[&] 5. 18. #emph[&] 8. 15.] saith, #emph[It is good and comely for one to eat and drink, and enjoy the good of all his labour.]
 
-If he be worse then an Infidel that provideth not for his #footnote[1 #emph[Tim.] 5. 8. #emph[Inconcussa naturae lege diligimus nos ipsos, quae in bestias etiam promulgata est. Aug. de Doct. Chr. li.] 1. #emph[ca.] 26.] own, what is he that provideth not for himself? Even worse then a beast: for nature hath taught the brute beasts to nourish and cherish themselves. If any think that it more befiteth beasts, or natural men then Saints, let them tell me which of the Saints at any time guided by God’s Spirit, hath wholly neglected himself. To omit all others, it is expressly noted of Christ, that as there was occasion, he #footnote[#emph[Mat.] 8. 24.] slept, he #footnote[#emph[Luke] 14. 1.] eat, he #footnote[#emph[John] 4. 6.] rested, and otherwise refreshed himself.
+If he be worse then an Infidel that provideth not for his #footnote[1 Tim 5:8. #emph[Inconcussa naturae lege diligimus nos ipsos, quae in bestias etiam promulgata est. Aug. de Doct. Chr. li.] 1. #emph[ca.] 26.] own, what is he that provideth not for himself? Even worse then a beast: for nature hath taught the brute beasts to nourish and cherish themselves. If any think that it more befiteth beasts, or natural men then Saints, let them tell me which of the Saints at any time guided by God’s Spirit, hath wholly neglected himself. To omit all others, it is expressly noted of Christ, that as there was occasion, he #footnote[Matt 8:24.] slept, he #footnote[Luke 14:1.] eat, he #footnote[John 4:6.] rested, and otherwise refreshed himself.
 
-#emph[Object.] Though he were #footnote[#emph[Joh.] 4. 31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.
+#emph[Object.] Though he were #footnote[John 4:31. #emph[etc.]] hungry, and meat prepared for him, yet he refused to eat.
 
 #emph[Answ.] 1. Forbearing one meal, is no great hindrance of #footnote[Lawful fasts no hindrance to the cherishing of the body.] cherishing the body.
 
-2\. Extraordinary and weighty occasions may lawfully make a man a little neglect himself: that so he may show he preferreth God’s glory, and his brothers salvation, before the outward nourishing of his body: to which purpose Christ saith, #emph[My meat is to do the will of him that sent me:] that is, I #footnote[#emph[John] 4. 34.] prefer it before my meat. And Saint #emph[Paul] saith, #emph[I will very] #footnote[2 #emph[Cor.] 12. 15.] #emph[gladly be spent for your souls.] We must here therefore take heed of the extremes on both hands.
+2\. Extraordinary and weighty occasions may lawfully make a man a little neglect himself: that so he may show he preferreth God’s glory, and his brothers salvation, before the outward nourishing of his body: to which purpose Christ saith, #emph[My meat is to do the will of him that sent me:] that is, I #footnote[John 4:34.] prefer it before my meat. And Saint #emph[Paul] saith, #emph[I will very] #footnote[2 Cor 12:15.] #emph[gladly be spent for your souls.] We must here therefore take heed of the extremes on both hands.
 
 1\. Of undue, and overmuch neglecting our bodies, so as the strength of them be wasted, and the health impaired.
 
@@ -267,7 +267,7 @@ But to return to the point of nourishing and cherishing our flesh.
 
 Against this good instinct of nature do many offend. #footnote[Use.]
 
-1\. #emph[Covetous misers,] who so dote upon their wealth, and so #footnote[1\. Covetous misers.] delight in abundance of goods treasured up, as they afford not themselves things needful to nourish and cherish their bodies. #emph[Solomon] doth much tax such: of them he saith, that #emph[riches are] #footnote[#emph[Eccl.] 2. 23. #emph[&] 5. 11, 12, 13, 14.] #emph[kept for the owners thereof to their hurt.] Daily experience giveth evidence to the truth thereof: for, beside that such men make their riches #footnote[1 #emph[Tim.] 6. 9.] to be snares, and #footnote[#emph[Mark.] 10. 23, #emph[etc.]] hindrances, to keep them from eternal life; they make this present life to be very irksome, #footnote[#emph[Eccl.] 2. 23.] filling their heads full of much carking care, and keeping them from quiet rest. Many in this case are so besotted, #footnote[Semper eget liquidis, semper abundat aquis. Ovid. in Ibin.] as, though they have abundance, yet they will not in health afford themselves a good meals meat, nor seemly apparel: nor in sickness, needful physic, no nor fire, and such like common things. Their case is worse then theirs who want: for others will pity and succour such as want, but who will pity and succour such?
+1\. #emph[Covetous misers,] who so dote upon their wealth, and so #footnote[1\. Covetous misers.] delight in abundance of goods treasured up, as they afford not themselves things needful to nourish and cherish their bodies. #emph[Solomon] doth much tax such: of them he saith, that #emph[riches are] #footnote[Eccl 2:23. #emph[&] 5. 11, 12, 13, 14.] #emph[kept for the owners thereof to their hurt.] Daily experience giveth evidence to the truth thereof: for, beside that such men make their riches #footnote[1 Tim 6:9.] to be snares, and #footnote[Mark 10:23, #emph[etc.]] hindrances, to keep them from eternal life; they make this present life to be very irksome, #footnote[Eccl 2:23.] filling their heads full of much carking care, and keeping them from quiet rest. Many in this case are so besotted, #footnote[Semper eget liquidis, semper abundat aquis. Ovid. in Ibin.] as, though they have abundance, yet they will not in health afford themselves a good meals meat, nor seemly apparel: nor in sickness, needful physic, no nor fire, and such like common things. Their case is worse then theirs who want: for others will pity and succour such as want, but who will pity and succour such?
 
 2\. Such as are #emph[too intentive] upon their businesses, even the affairs #footnote[2\. They who are too intentive on their calling.] of their lawful callings (for in good things there may be excess) herein many Students, Preachers, Lawyers, Tradesmen, Farmers, Labourers, and others offend, when they afford not seasonable times of refreshing and resting to their bodies, but fast, watch, and toil too much in their calling. They who by such means disable themselves, do make themselves guilty of the neglect of so much good as they might have done, if they had nourished and cherished their bodies. Some are so eager on their business, that they think all the time misspent, which is spent in nourishing and cherishing their bodies; and thereupon wish, that their bodies needed no food, sleep, or other like means of refreshing. These thoughts and #footnote[Unlawful to desire that our bodies needed no refreshing.] desires are foolish and sinful in many respects, as
 
@@ -285,7 +285,7 @@ As the Apostle by naming these two #emph[(nourish, cherish)] showeth that both o
 
 #emph[Having food and raiment, we must be therewith content.] #footnote[Doct.]
 
-The Apostle in these very words layeth down this doctrine in #footnote[1 #emph[Tim.] 6. 8.] another place. The #footnote[#emph[Prov.] 30. 8.] prayer of #emph[Agur,] and the tenor of the #footnote[#emph[Matth.] 6. 11.] fourth Petition prove as much.
+The Apostle in these very words layeth down this doctrine in #footnote[1 Tim 6:8.] another place. The #footnote[Prov 30:8.] prayer of #emph[Agur,] and the tenor of the #footnote[Matt 6:11.] fourth Petition prove as much.
 
 #emph[Quest.] Is a man then strictly bound to care for no more then food to nourish, and apparel to cherish him?
 

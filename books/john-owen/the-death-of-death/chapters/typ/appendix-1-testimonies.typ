@@ -1,6 +1,6 @@
 == Some Few Testimonies of the Ancients
 
-I. #smallcaps[The] confession of the holy #smallcaps[Church] of #smallcaps[Smyrna], a little after the commendation given it by the Holy Ghost, Rev. ii. 9, upon the martyrdom of Polycarpus:— Ὅτι οὔτε τὸν Χριστόν ποτε καταλείπειν δυνησόμεθα τὸν ὑπὲρ τῆς τοῦ κόσμου τῶν σωζωμένων σωτηρίας παθόντα, οὔτε ἕτερον τιμῇ σέβειν. — Euseb. Hist. Eccles., lib. iv. cap. 15. — “Neither can we ever forsake Christ, him who suffered for the salvation of #emph[the world of them that are saved], nor worship any other.”
+I. #smallcaps[The] confession of the holy #smallcaps[Church] of #smallcaps[Smyrna], a little after the commendation given it by the Holy Ghost, Rev 2:9, upon the martyrdom of Polycarpus:— Ὅτι οὔτε τὸν Χριστόν ποτε καταλείπειν δυνησόμεθα τὸν ὑπὲρ τῆς τοῦ κόσμου τῶν σωζωμένων σωτηρίας παθόντα, οὔτε ἕτερον τιμῇ σέβειν. — Euseb. Hist. Eccles., lib. iv. cap. 15. — “Neither can we ever forsake Christ, him who suffered for the salvation of #emph[the world of them that are saved], nor worship any other.”
 
 \[It is an extract from a letter of the church of Smyrna to the churches of Pontus, giving an account of the martyrdom of Polycarp.\]
 
@@ -8,7 +8,7 @@ II. The witness of holy #smallcaps[Ignatius], as he was carrying to Rome from An
 
 Surely Jesus Christ gives not a dowry for any but his own spouse.
 
-III. #smallcaps[Clemens], “whose name was in the book of life,” Phil. iv. 3, with the whole church at Rome in his days, in the epistle to the church of Corinth:— Διὰ τὴν ἀγάπην ἣν ἔσχεν πρὸς ἡμᾶς τὸ αἷμα αὐτοῦ ἔδωκεν ὑπὲρ ἡμῶν ἐν θελήματι αὐτοῦ καὶ τὴν σάρκα ὑπὲρ τῆς σαρκὸς ἡμῶν καὶ τὴν ψυχὴν ὑπὲρ ψυχῶν ἡμῶν. — “For the love which he had unto us, he gave his blood for us, according to his purpose, and his flesh for our flesh, and his life for our lives.”
+III. #smallcaps[Clemens], “whose name was in the book of life,” Phil 4:3, with the whole church at Rome in his days, in the epistle to the church of Corinth:— Διὰ τὴν ἀγάπην ἣν ἔσχεν πρὸς ἡμᾶς τὸ αἷμα αὐτοῦ ἔδωκεν ὑπὲρ ἡμῶν ἐν θελήματι αὐτοῦ καὶ τὴν σάρκα ὑπὲρ τῆς σαρκὸς ἡμῶν καὶ τὴν ψυχὴν ὑπὲρ ψυχῶν ἡμῶν. — “For the love which he had unto us, he gave his blood for us, according to his purpose, and his flesh for our flesh, and his life for our lives.”
 
 Where you have assigned, 1. The cause of Christ’s death, — his love to us; 2. The object of it, — us, or believers; 3. The manner how he redeemed us, even by commutation.
 

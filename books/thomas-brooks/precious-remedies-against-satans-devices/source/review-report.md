@@ -6,15 +6,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1545 |
-| emendation | 244 |
-| punctuation | 242 |
+| spelling | 1541 |
+| punctuation | 1061 |
+| spacing | 628 |
+| emendation | 505 |
 | note | 222 |
-| case | 145 |
-| spacing | 37 |
-| gap | 31 |
+| case | 140 |
+| italic | 113 |
+| gap | 33 |
 | grammar | 26 |
-| italic | 10 |
 | expansion | 3 |
 | note moved | 2 |
 | split | 2 |
@@ -58,6 +58,8 @@
 - [propositions.typ note] Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ πνεύματα → Τὸ πῦρ παρ’ ἡμῶν ἡ δὲ φλὸξ τοῦ πνεύματος
 - [propositions.typ] διαβολοὶ → διάβολοι
 - [propositions.typ] πονηροὶ → πονηροί
+- [use.typ note] Isa. → Isa
+- [appendix-02.typ note] Joh. → John
 
 ## expansion
 
@@ -67,55 +69,106 @@
 
 ## emendation
 
-- [dedication.typ note] ch . → 
+- [dedication.typ note] Matth . → Matt
+- [dedication.typ note] . ver . → :
+- [dedication.typ note] 22 → 22 ch
+- [dedication.typ note] . ch . → :
+- [dedication.typ note] . v . → :
 - [dedication.typ note] 3 . Reason . → 
+- [dedication.typ note] Ephes . → Eph
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Colos . → Col
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Vers . → Verse
+- [dedication.typ note] Psal . → Ps
 - [dedication.typ] strait way → straightway
 - [dedication.typ] them → them up
 - [dedication.typ] neverless → never less
 - [dedication.typ] pastor all → pastoral
+- [to-the-reader.typ note] Pro . → Prov 23:
+- [to-the-reader.typ note] 23 → 
 - [to-the-reader.typ note] o derunt → oderunt
-- [to-the-reader.typ note] 15 → 13
-- [to-the-reader.typ note] 14 → 17
+- [to-the-reader.typ note] Psal . → Ps
+- [to-the-reader.typ note] Mat . → Matt
+- [to-the-reader.typ note] 15 → 13:17
+- [to-the-reader.typ note] 14 . Mat . → Matt
 - [to-the-reader.typ note] Pacunius → . Pacuvius
-- [introduction.typ note] 119 → 
+- [introduction.typ note] 119 → Ps 119
+- [introduction.typ note] Psal . → :
 - [introduction.typ note] Nonματα → Νοήματα
+- [introduction.typ] Ephes . → Eph
+- [introduction.typ] . ver . → :
 - [sin-01.typ note] consen• seris → consenseris
+- [sin-01.typ note] Psal . → Ps
+- [sin-01.typ note] Psa . → Ps
 - [sin-01.typ note] tempora lia → temporalia
 - [sin-01.typ note] ser → for
 - [sin-01.typ note] 2 Remedy . → 
 - [sin-01.typ note] seleternals → sell eternals
+- [sin-01.typ note] Psal . → Ps
+- [sin-01.typ note] Chron . → Chr
 - [sin-01.typ note] 4 Remedy . → 
+- [sin-01.typ note] Pro . → Prov
 - [sin-01.typ note] Vale lunen → Vale lumen
 - [sin-01.typ note] Ambrose → 
 - [sin-01.typ] now adayes → nowadays
+- [sin-01.typ] Mat . → Matthew
 - [sin-01.typ] to day → today
 - [sin-02.typ note] at → et
 - [sin-02.typ] sheeps - → sheep's
 - [sin-02.typ] be → 
 - [sin-03.typ note] he → be
+- [sin-03.typ note] Psal . → Ps
+- [sin-03.typ note] . ver . → :
 - [sin-03.typ note] yetable → yet able
 - [sin-03.typ note] Mouseis → Mouse is
 - [sin-03.typ note] 5 Remedy . → 
 - [sin-03.typ note] Idolothys is → Idolothytis
+- [sin-03.typ] Psal . → Ps
 - [sin-03.typ] ris → ’tis
+- [sin-03.typ] Ecclesiastes → Eccl
+- [sin-03.typ] . v . → :
+- [sin-04.typ note] Chron . → Chr
 - [sin-04.typ note] allhis → all his
 - [sin-04.typ note] 4 → 5
-- [sin-04.typ note] 4 → 4. 14
+- [sin-04.typ note] Pro . → Prov
+- [sin-04.typ note] 4 → 4:14
 - [sin-04.typ note] 14 . → 
-- [sin-04.typ note] Isaiah → 
+- [sin-04.typ note] Psalm → Ps
+- [sin-04.typ note] Psal . → Ps
+- [sin-04.typ note] Pro . → Prov
+- [sin-04.typ note] . Isaiah → :
 - [sin-04.typ note] מוסרΠαιδεία → מוסר Παιδεία
 - [sin-04.typ note] body → hodie
 - [sin-04.typ note] to day → today
 - [sin-04.typ note] to morrow → tomorrow
+- [sin-04.typ] Psal . → Ps
+- [sin-04.typ] Chap . → Chapter
 - [sin-04.typ] 16 → 14
 - [sin-04.typ] 19 → 18
 - [sin-05.typ note] Diaboli cum → Diabolicum
-- [sin-05.typ note] 14 → 17
+- [sin-05.typ note] Psal . → Ps
+- [sin-05.typ note] 4 → 4:17
+- [sin-05.typ note] 14 . → 
+- [sin-05.typ note] Mat . → Matt
+- [sin-05.typ note] Psal . → Ps
 - [sin-05.typ note] indignity → in dignity
 - [sin-05.typ note] 8 → 
+- [sin-05.typ] Exod . → Exodus
+- [sin-05.typ] Psal . → Ps
+- [sin-05.typ] Psal . → Ps
+- [sin-05.typ] Psal . → Ps
+- [sin-05.typ] Psal . → Ps
 - [sin-05.typ] to as ard → toward
+- [sin-05.typ] Ver . → Verse
+- [sin-05.typ] Psal . → Ps
 - [sin-05.typ] faith full → faithful
 - [sin-06.typ note] 1 Remedy . → 
+- [sin-06.typ note] Mat . → Matt
+- [sin-06.typ note] Psal . → Ps
 - [sin-06.typ note] toolate → too late
 - [sin-06.typ note] li cet → licet
 - [sin-06.typ note] Repentanceis → Repentance is
@@ -124,14 +177,23 @@
 - [sin-06.typ] be → he
 - [sin-06.typ] a fresh → afresh
 - [sin-06.typ] is → is as
+- [sin-07.typ] . ver . → :
 - [sin-07.typ] a loft → aloft
 - [sin-07.typ] a gogg → agog
+- [sin-07.typ] Psal . → Ps
 - [sin-08.typ note] Lactan tius → Lactantius
 - [sin-08.typ note] pati ▪ tur → patitur
 - [sin-08.typ note] head ach → headache
+- [sin-08.typ note] Psal . → Ps
+- [sin-08.typ note] Psal . → Ps
+- [sin-08.typ note] Psal . → Ps
 - [sin-08.typ] interestin → interest in
+- [sin-08.typ] Psal . → Ps
+- [sin-08.typ] Psal . → Ps
 - [sin-08.typ] made up on → mad upon
 - [sin-09.typ note] Vedib bartignal → Vedibbartignal
+- [sin-09.typ note] . Ch → ch
+- [sin-09.typ note] Hes . → Hos
 - [sin-09.typ note] atop → a top
 - [sin-09.typ note] Son ship → sonship
 - [sin-09.typ note] fathers Gold Smiths → Father's goldsmiths
@@ -140,114 +202,214 @@
 - [sin-09.typ] then hel → than hell.
 - [sin-09.typ] soul , → soul's
 - [sin-09.typ] ruf → rough-
-- [sin-09.typ] Dan → Deut
+- [sin-09.typ] Dan . → Deut
 - [sin-09.typ] is → in
 - [sin-10.typ note] look ; → looks
+- [sin-10.typ note] Mat . → Matt
 - [sin-10.typ] . Of → of
 - [sin-10.typ] beatificallvision . → beatifical vision!
 - [sin-10.typ] this → this is
+- [sin-11.typ note] Ephes . → Eph
 - [sin-11.typ note] I → ay
 - [sin-11.typ note] 3 → 
 - [sin-11.typ note] Remedy → 
-- [sin-11.typ note] 13 → 30, 31
-- [sin-11.typ note] one → and 9. 5. One
+- [sin-11.typ note] 8 → 8:30, 31, 9
+- [sin-11.typ note] 13 → 5
 - [sin-11.typ note] v , → 
-- [sin-11.typ note] Titus → .
+- [sin-11.typ note] Tim → Tim 1:13
+- [sin-11.typ note] 13 . 1 Titus → 
+- [sin-11.typ note] Tit . → Titus
 - [sin-11.typ note] 6 . Remedy . → 
 - [sin-11.typ note] ▪ periransiet → pertransiet
+- [sin-11.typ note] Psa . → Ps
+- [sin-11.typ note] . v . → :
 - [sin-11.typ note] a → 
 - [sin-11.typ note] from → from ענה
 - [sin-11.typ] honey combe → honeycomb
 - [sin-11.typ] I → ay
+- [sin-11.typ] Psal . → Ps
 - [sin-12.typ note] bath → bath with
 - [sin-12.typ note] v . → 
 - [sin-12.typ note] 3 . Remedy . → 
-- [sin-12.typ note] Ezek . → 
-- [sin-12.typ note] Mat . → 
-- [sin-12.typ note] Revel . → 
+- [sin-12.typ note] . Ezek . → :
+- [sin-12.typ note] Mat . 16 . 9 . Revel . → Matt
+- [sin-12.typ note] . 5 . 10 . Mat . 3 . → :
 - [sin-12.typ note] ch → 
-- [sin-12.typ note] 26 → . 2. 6
-- [sin-12.typ note] 14 → 1. 4. Psa
-- [sin-12.typ note] Psa . → 
-- [sin-12.typ note] Esa . → 
+- [sin-12.typ note] Psal . → Ps
+- [sin-12.typ note] Psa → Ps 1:4
+- [sin-12.typ note] 14 . → Ps
+- [sin-12.typ note] . Psa . → :
+- [sin-12.typ note] . Esa . → :
 - [sin-12.typ note] 4 . Remedy . → 
+- [sin-12.typ note] ver → vv
+- [sin-12.typ] Ephes . → Eph
 - [sin-12.typ] unfruit fud → unfruitful
 - [sin-12.typ] sets → sets them
+- [sin-12.typ] Psal . → Ps
+- [sin-12.typ] . ver . → :
+- [sin-12.typ] . ver . → :
 - [duties-01.typ note] Sun shone → sunshine
 - [duties-01.typ note] ha nd → hand
 - [duties-01.typ note] 1 Remedy . → 
+- [duties-01.typ note] Apoc . → Rev
+- [duties-01.typ note] . v . → :
 - [duties-01.typ note] Policrates → . Polycrates
 - [duties-01.typ] righthand → right hand
+- [duties-01.typ] Zach . → Zech
 - [duties-01.typ] second → second son
 - [duties-01.typ] a → 
 - [duties-01.typ] np → up
 - [duties-01.typ] castdown → cast down
 - [duties-01.typ] in → -
+- [duties-01.typ] . It → it
+- [duties-01.typ] Eccles . → Eccl
+- [duties-01.typ] . v . → :
 - [duties-02.typ note] assoon → as soon
 - [duties-02.typ note] in → 
-- [duties-03.typ note] 3 . Remedy . → 
+- [duties-03.typ note] . v . → :
+- [duties-03.typ note] . ult . 3 . Remedy → :31
 - [duties-03.typ note] were → worn
+- [duties-03.typ note] Psal . → Ps
+- [duties-03.typ note] . v . → :
 - [duties-03.typ] keeping under → strengthening
+- [duties-03.typ] vers → vv
 - [duties-03.typ] 4 → 
 - [duties-03.typ] I → ay
 - [duties-04.typ note] 2 . → 
 - [duties-04.typ note] 6 → 16
+- [duties-04.typ note] Yit . → Titus
 - [duties-04.typ] him self → himself
 - [duties-04.typ] on → 
 - [duties-04.typ] who soever → whosoever
-- [duties-05.typ note] John → John 7.
+- [duties-05.typ note] John → John 7:
 - [duties-05.typ note] 1 . Remedy . → 
+- [duties-05.typ note] Cant . → Song
+- [duties-05.typ note] Mat . → Matt
+- [duties-05.typ note] Hebr . → Heb
+- [duties-05.typ note] Vers . → Verses
+- [duties-05.typ note] Revel . → Rev
+- [duties-05.typ note] Psal . → Ps
+- [duties-05.typ note] . & → and
 - [duties-05.typ] have → have not
 - [duties-05.typ] I → ay,
+- [duties-05.typ] vers → v
+- [duties-05.typ] vers → v
 - [duties-05.typ] 19 → 17
+- [duties-05.typ] Chap . → Chapter
 - [duties-06.typ note] 4 . 12 . → 
-- [duties-06.typ note] Chap . → 
+- [duties-06.typ note] . Chap . → :
+- [duties-06.typ note] Prov → Prov 4:14 ch
+- [duties-06.typ note] 4 . 14 . ch → 
+- [duties-06.typ] Numb . → Num
 - [duties-06.typ] for sake → forsake
 - [duties-07.typ note] 1 Remedy . → 
+- [duties-07.typ note] Psal . → Ps
+- [duties-07.typ note] Psal . → Ps
+- [duties-07.typ note] Mat . → Matt
+- [duties-07.typ note] Mat . → Matt
 - [duties-07.typ note] in stead → instead
 - [duties-07.typ note] forever → for ever
-- [duties-07.typ note] 5 . Remedy . → 
-- [duties-07.typ note] 3 → 35
-- [duties-07.typ note] 8 → 18
+- [duties-07.typ note] 5 . Remedy . Ephes . → Eph
+- [duties-07.typ note] Mat → Matt 12:35
+- [duties-07.typ note] 12 . 3 . → 
+- [duties-07.typ note] Psal . → Ps
+- [duties-07.typ note] Psal → Ps 139:18
+- [duties-07.typ note] 139 . 8 . → 
 - [duties-07.typ note] 7 . Remedy . → 
 - [duties-07.typ] the → 
-- [duties-08.typ note] 10 → Judg. 10
+- [duties-08.typ note] 10 → Judg 10
+- [duties-08.typ note] Isa → Isa 50:11
+- [duties-08.typ note] 50 . ult . → 
 - [doubting-01.typ note] de light → delight
 - [doubting-01.typ note] leonem → ad lenonem
+- [doubting-01.typ note] Coloss . → Col
 - [doubting-01.typ note] to day → today
 - [doubting-01.typ note] to morrow → tomorrow
 - [doubting-01.typ note] 4 → 
 - [doubting-01.typ note] Remedy → 
+- [doubting-01.typ note] Levit . → Lev
 - [doubting-01.typ] K . Are → king are
 - [doubting-01.typ] be → he
 - [doubting-01.typ] St . Rises → saint rises
 - [doubting-01.typ] forget fulness → forgetfulness
+- [doubting-02.typ note] Ephes . → Eph
+- [doubting-02.typ note] Act . → Acts
+- [doubting-02.typ note] Mat . → Matt
+- [doubting-02.typ note] Mat . → Matt
+- [doubting-02.typ note] . chap → ch
+- [doubting-02.typ note] . & chap → and ch
+- [doubting-02.typ note] Ephes . → Eph
+- [doubting-02.typ note] Psal . → Ps
+- [doubting-02.typ note] Psal . → Ps
+- [doubting-02.typ note] Cant . → Song
+- [doubting-03.typ note] Psal . → Ps
+- [doubting-03.typ note] Psal . → Ps
+- [doubting-03.typ note] Psal . → Ps
 - [doubting-03.typ note] go → go to
+- [doubting-03.typ note] Eccles . → Eccl
 - [doubting-03.typ note] Tribune ship → tribuneship
 - [doubting-03.typ] de fires → desires
-- [doubting-04.typ note] chap → Hebr
-- [doubting-04.typ note] Hebr → Prov
+- [doubting-04.typ note] vers → v
+- [doubting-04.typ note] chap . → Heb
+- [doubting-04.typ note] Hebr . → Prov
 - [doubting-04.typ note] Prov → 
-- [doubting-04.typ note] 14 → 24
+- [doubting-04.typ note] 14 → :24
+- [doubting-04.typ note] Matth . → Matt
+- [doubting-04.typ note] Mat . → Matt
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Psa . → Ps
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Matth . → Matt
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Mat . → Matt
+- [doubting-04.typ note] Mat . → Matt
+- [doubting-04.typ note] Numb . → Num
 - [doubting-04.typ note] 2 → 24
+- [doubting-04.typ note] Mat . → Matt 23:
+- [doubting-04.typ note] 23 . → 
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Cant . → Song
+- [doubting-04.typ note] Cant . → Song
+- [doubting-04.typ note] Mat . → Matt
+- [doubting-04.typ note] Zach . → Zech
+- [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] Coloss . → Col
 - [doubting-04.typ] for saken → forsaken
 - [doubting-04.typ] soight → spite
 - [doubting-04.typ] I → Ay,
 - [doubting-04.typ] a far → afar
 - [doubting-05.typ note] 17 → 15
+- [doubting-05.typ note] Psal . → Ps
 - [doubting-05.typ note] hespared → he spared
-- [doubting-05.typ note] 58 → 59
+- [doubting-05.typ note] 58 → 5
 - [doubting-05.typ] St . Together → saint together
 - [doubting-05.typ] The → 5. The
-- [doubting-06.typ note] 7 . → 
+- [doubting-06.typ note] . Mic . 7 . → :
+- [doubting-06.typ note] Psal → Ps 42:5
+- [doubting-06.typ note] 42 . 5 , → 
 - [doubting-06.typ note] side → fade
 - [doubting-06.typ note] bemerry → be merry
-- [doubting-06.typ note] 9 → 9. ch
-- [doubting-07.typ note] ch . → 
+- [doubting-06.typ note] Psal . → Ps
+- [doubting-06.typ note] Psal . → Ps
+- [doubting-06.typ note] 9 → 9 ch
+- [doubting-06.typ note] Mat . → Matt
+- [doubting-06.typ note] Psal . → Ps
+- [doubting-06.typ note] Psal . → Ps
+- [doubting-06.typ note] Psal . → Ps
+- [doubting-07.typ note] Chron . → Chr
+- [doubting-07.typ note] . ch . → :
+- [doubting-07.typ note] Jud . → Judg
 - [doubting-07.typ note] and → 
-- [doubting-07.typ note] John → .
-- [doubting-07.typ note] 7 → 17
+- [doubting-07.typ note] John → :
+- [doubting-07.typ note] Mat . → Matt
+- [doubting-07.typ note] Mat . 7 . → Matt 17:
+- [doubting-07.typ note] Mat . → Matt
 - [doubting-07.typ] St . Falling → saints falling
+- [doubting-08.typ note] Ephes . → Eph
 - [doubting-08.typ note] Lather → . Luther
 - [doubting-08.typ note] this → that
 - [doubting-08.typ note] 14 → 13
@@ -258,59 +420,160 @@
 - [doubting-08.typ] not → 
 - [doubting-08.typ] wholeday → whole day
 - [ranks-01.typ note] de → te
-- [ranks-01.typ note] 15 → 10
-- [ranks-01.typ note] 1 → 1, 3-6
-- [ranks-01.typ note] 7 . → 
+- [ranks-01.typ note] . 15 . → 10:
+- [ranks-01.typ note] 6 → 6:1, 3–6
+- [ranks-01.typ note] 1 . 7 . → 
+- [ranks-01.typ note] Cant . → Song
 - [ranks-01.typ] I → ay,
+- [ranks-01.typ] Cant . → Song
+- [ranks-02.typ note] Revel . → Rev
 - [ranks-02.typ note] quoniam eo → quanto
+- [ranks-02.typ note] Zach . → Zech
+- [ranks-02.typ note] Psal . → Ps
+- [ranks-02.typ note] Psal . → Ps
+- [ranks-02.typ] Revel . → Revelation
 - [ranks-02.typ] and → 
 - [ranks-02.typ] burden some → burdensome
+- [ranks-02.typ] Psal . → Ps
 - [ranks-03.typ note] i'the → in the
+- [ranks-03.typ note] Chro . → Chr
+- [ranks-03.typ note] Cant . → Song
+- [ranks-04.typ note] Jam . → Jas
 - [ranks-04.typ note] work• & → work; and
+- [ranks-04.typ note] Chap . → Chapter
+- [ranks-04.typ note] Chap . → Chapter
+- [ranks-04.typ note] Ephes . → Eph
+- [ranks-04.typ note] Revel . → Rev
+- [ranks-04.typ note] Revel . → Rev
+- [ranks-04.typ note] Psal . → Ps
+- [ranks-04.typ note] Psal . → Ps
+- [ranks-04.typ note] Math . → Matt
+- [ranks-04.typ note] Iam . → Jas
+- [ranks-04.typ note] 5 . → 
 - [ranks-04.typ note] vir → 
+- [ranks-04.typ note] Thes . → Thess
+- [ranks-04.typ note] Ephes . → Eph
 - [ranks-04.typ] Gods → . God's
-- [ranks-05.typ note] 22 → 19
-- [ranks-05.typ note] 29 → 2
+- [ranks-05.typ note] Prov → Prov 19:2
+- [ranks-05.typ note] 22 . 29 . → 
+- [ranks-05.typ note] Mat . → Matt
+- [ranks-05.typ note] Mat . → Matt
+- [ranks-05.typ note] Thes . → Thess
 - [ranks-05.typ note] 4 → 
 - [ranks-05.typ note] Remedy → 
+- [ranks-05.typ note] Mat . → Matt
+- [ranks-05.typ note] Psal . → Ps
+- [ranks-05.typ note] Psal . → Ps
 - [ranks-05.typ] the → the cause
-- [propositions.typ note] 5 → 15
-- [propositions.typ note] 4 → 14
+- [propositions.typ note] Rom → Rom 6:23
+- [propositions.typ note] 6 . ult . Mat . 5 . → Matt 15:
+- [propositions.typ note] 1 → 1:14
+- [propositions.typ note] 4 . → 
+- [propositions.typ note] Chron . → Chr
+- [propositions.typ note] Mat . → Matt
 - [propositions.typ note] Diaholus tendat deus orobat → Diabolus tentat, Deus probat
-- [propositions.typ note] 13 → 31
-- [propositions.typ note] 5 . → 
-- [propositions.typ note] Chap . → 
-- [propositions.typ note] Mica . → Micah
-- [propositions.typ note] 1 → 16
+- [propositions.typ note] . Chap → ch
+- [propositions.typ note] v → vv.
+- [propositions.typ note] 22 → 22:31
+- [propositions.typ note] 13 . → 
+- [propositions.typ note] Ephes . → Eph
+- [propositions.typ note] Mat . → Matt
+- [propositions.typ note] . 5 . → 
+- [propositions.typ note] . Chap . → :
+- [propositions.typ note] Psal . → Ps
+- [propositions.typ note] Psal . → Ps
+- [propositions.typ note] Mica . → Mic
+- [propositions.typ note] Ephes → Eph 6:16
+- [propositions.typ note] 6 . 1 . → 
 - [propositions.typ note] 6 Proposition . → 
 - [propositions.typ] I → ay,
 - [propositions.typ] ke → he
-- [use.typ note] Revel → Revel. 3
+- [reasons.typ note] Revel . → Rev
+- [reasons.typ note] King . → Kgs 22:
+- [reasons.typ note] 22 . → 
+- [use.typ note] Revel . → Rev 3:
 - [use.typ note] 3 . → 
+- [use.typ note] Psal . → Ps
+- [use.typ note] Thes . → Thess
+- [use.typ note] Iam . → Jas
+- [use.typ note] Ephes . → Eph
+- [use.typ note] Ephes . → Eph
+- [use.typ note] Psal . → Ps
+- [use.typ note] Thes . → Thess
+- [use.typ note] Mat . → Matt
+- [use.typ note] . Chap → ch
+- [use.typ note] Mar . → Mark
 - [use.typ note] 35 → 35, 37
 - [use.typ note] 37 ▪ → 
+- [use.typ note] Coloss . → Col
+- [use.typ note] Revel . → Rev 3:
+- [use.typ note] 3 . → 
+- [use.typ note] Mat . → Matt
+- [use.typ note] Psal . → Ps
+- [use.typ note] Psal . → Ps
+- [use.typ note] Psal . → Ps
+- [use.typ note] Psalm → Ps
 - [use.typ note] 144 → 124
-- [use.typ note] 2 → 2, 4
-- [use.typ note] 4 : → 
+- [use.typ note] Psal . → Ps
+- [use.typ note] Cant . → Song
+- [use.typ note] ult → 14
+- [use.typ note] Cor → Cor 5:2, 4
+- [use.typ note] 5 . 2 . 4 : → 
 - [use.typ] away → a way
 - [use.typ] entrapus → entrap us
-- [appendix-01.typ note] Mica . → Micah
+- [appendix-01.typ note] Jerem . → Jer
+- [appendix-01.typ note] Mica . → Mic
+- [appendix-01.typ note] Chron . → Chr
+- [appendix-01.typ note] Chap . → Chapter
+- [appendix-01.typ note] Mar . → Mark
+- [appendix-01.typ note] Psal . → Ps
+- [appendix-01.typ note] Coloss . → Col
+- [appendix-01.typ note] . Chap → ch
+- [appendix-01.typ note] Nehem . → Neh
+- [appendix-01.typ note] Mar . → Mark
+- [appendix-01.typ note] Cant . → Song
+- [appendix-01.typ note] Coloss . → Col
+- [appendix-01.typ note] . Chap → ch
+- [appendix-01.typ note] Cant . → Song
+- [appendix-01.typ note] Mat . → Matt
+- [appendix-01.typ note] Mat . → Matt
 - [appendix-01.typ note] 1 → 7
+- [appendix-01.typ note] Revel . → Rev
+- [appendix-01.typ note] Vers . → Verse
 - [appendix-01.typ] there - I'le → therefore I'll
 - [appendix-01.typ] spiritual madnesse → spiritual madness
+- [appendix-01.typ] Chron . → Chr
+- [appendix-01.typ] Mar . → Mark
+- [appendix-01.typ] . v . → :
+- [appendix-01.typ] Psal . → Ps
 - [appendix-01.typ] to day → today
 - [appendix-01.typ] ran some → ransom
 - [appendix-01.typ] they → they shall
+- [appendix-01.typ] Revel . → Rev
 - [appendix-01.typ] fear full → fearful
-- [appendix-02.typ note] 29 → 39
+- [appendix-02.typ note] 5 → 5:39
+- [appendix-02.typ note] 29 . → 
+- [appendix-02.typ note] Mat . → Matt
+- [appendix-02.typ note] Isa → Isa 50:11
+- [appendix-02.typ note] 50 . ult . → 
+- [appendix-02.typ note] Revel . → Rev
 - [appendix-02.typ] money less → moneyless
 - [appendix-02.typ] penni - less → penniless
+- [appendix-03.typ note] Mat . → Matt 9:
+- [appendix-03.typ note] 9 . → 
+- [appendix-03.typ note] Mat . → Matt
+- [appendix-03.typ note] Math . → Matt
+- [appendix-03.typ note] Zach . → Zech
 - [appendix-03.typ] cho isest → choicest
 - [appendix-03.typ] if → yet
 - [appendix-03.typ] him → sin
+- [appendix-04.typ note] Mat . → Matt
 - [appendix-04.typ note] 1 → John 1
-- [appendix-04.typ note] John → .
+- [appendix-04.typ note] John → :
 - [appendix-04.typ] ? Though → though
+- [appendix-04.typ] Math . → Matt
+- [appendix-04.typ] Luk . → Luke
+- [appendix-05.typ note] 29 . → 
 
 ## grammar
 
@@ -334,83 +597,283 @@
 
 ## punctuation
 
-- [dedication.typ note] . → . ch.
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
 - [dedication.typ] & → and
-- [introduction.typ note] . → . 119.
+- [to-the-reader.typ note] . → :
+- [to-the-reader.typ note] . → :
+- [to-the-reader.typ note] . → :
+- [to-the-reader.typ note] . → :
+- [to-the-reader.typ note] . → :
 - [introduction.typ note] . → ,
+- [introduction.typ note] . → 
+- [introduction.typ note] . → :
 - [introduction.typ] ▪ → -
+- [introduction.typ] . → 
+- [introduction.typ] . → :
+- [introduction.typ] . → 
+- [introduction.typ] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
+- [sin-01.typ note] . → 
+- [sin-01.typ note] . → :
 - [sin-01.typ note] - → ;
+- [sin-01.typ note] . → :
+- [sin-01.typ] . → :
 - [sin-01.typ] ▪ → 
+- [sin-01.typ] . → :
 - [sin-01.typ] & → and
+- [sin-01.typ] . → 
+- [sin-01.typ] . → 
 - [sin-01.typ] ( → 
+- [sin-01.typ] . → 
+- [sin-01.typ] . → :
+- [sin-01.typ] . → 
+- [sin-01.typ] . → 
 - [sin-01.typ] ▪ → 
+- [sin-01.typ] , → :
+- [sin-01.typ] . → 
+- [sin-01.typ] . → :
 - [sin-02.typ note] . → ,
 - [sin-02.typ] , → with
+- [sin-03.typ note] . → 
+- [sin-03.typ note] . → :
+- [sin-03.typ note] . → :
+- [sin-03.typ note] . → 
+- [sin-03.typ note] . → :
 - [sin-03.typ note] ▪ → ,
+- [sin-03.typ note] . → 
+- [sin-03.typ note] . → :
+- [sin-03.typ note] . → 
+- [sin-03.typ note] . → :
+- [sin-03.typ] . → 
 - [sin-03.typ] , → 
-- [sin-04.typ note] . → . Isaiah
-- [sin-04.typ] . → -
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → 
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → 
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → 
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → 
+- [sin-04.typ note] . → :
+- [sin-04.typ note] . → . Isa
+- [sin-04.typ note] . → :
+- [sin-04.typ] . → :
+- [sin-04.typ] . → :
+- [sin-04.typ] . → –
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → 
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → 
+- [sin-05.typ note] . → :
+- [sin-05.typ note] . → :
 - [sin-05.typ] ▪ → 
 - [sin-05.typ] - → 
 - [sin-05.typ] , → 
+- [sin-05.typ] . → :
+- [sin-05.typ] . → 
+- [sin-05.typ] . → :
+- [sin-05.typ] . → :
+- [sin-05.typ] . → :
+- [sin-05.typ] . → :
+- [sin-05.typ] . → :
+- [sin-05.typ] . → :
+- [sin-06.typ note] . → 
 - [sin-06.typ note] & → and
+- [sin-06.typ note] . → 
+- [sin-06.typ note] . → :
+- [sin-06.typ note] . → :
+- [sin-06.typ note] . → :
+- [sin-06.typ note] . → :
+- [sin-06.typ note] . → 
+- [sin-06.typ note] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
+- [sin-06.typ] . → 
+- [sin-06.typ] . → :
 - [sin-06.typ] ▪ → ,
 - [sin-06.typ] , → , and for ever to break the neck of thy soul, present repentance as the difficultest and hardest work in the world; and to this purpose he will set thy sins in order before thee, and make them
+- [sin-07.typ] . → 
+- [sin-07.typ] . → :
+- [sin-07.typ] . → 
+- [sin-07.typ] . → :
+- [sin-07.typ] . → 
+- [sin-07.typ] . → :
 - [sin-07.typ] , → 
+- [sin-07.typ] . → :
+- [sin-07.typ] . → :
 - [sin-08.typ note] & → and
 - [sin-08.typ note] & → and
+- [sin-08.typ note] . → :
+- [sin-08.typ note] . → :
+- [sin-08.typ note] . → :
 - [sin-08.typ] ▪ → 
+- [sin-08.typ] . → 
+- [sin-08.typ] . → :
 - [sin-08.typ] & → and
 - [sin-08.typ] & → and
+- [sin-08.typ] . → 
+- [sin-08.typ] . → :
 - [sin-08.typ] , → , it
+- [sin-09.typ note] . → 
+- [sin-09.typ note] . → :
+- [sin-09.typ note] . → 
+- [sin-09.typ note] . → :
+- [sin-09.typ note] . → :
 - [sin-09.typ note] . → ,
+- [sin-09.typ note] . → 
+- [sin-09.typ note] . → :
+- [sin-09.typ note] . → :
 - [sin-09.typ note] . → ,
+- [sin-09.typ note] . → :
 - [sin-09.typ note] ▪ → 
 - [sin-09.typ note] ▪ → ,
+- [sin-09.typ note] . → :
+- [sin-09.typ note] . → 
+- [sin-09.typ note] . → :
+- [sin-09.typ note] . → 
 - [sin-09.typ note] , → 
 - [sin-09.typ note] . → 
 - [sin-09.typ note] . → 
+- [sin-09.typ] . → 
+- [sin-09.typ] . → :
+- [sin-09.typ] . → :
+- [sin-09.typ] . → 
+- [sin-09.typ] . → :
+- [sin-09.typ] . → :
+- [sin-09.typ] . → :
 - [sin-09.typ] ▪ → .
 - [sin-09.typ] ▪ → ,
+- [sin-10.typ note] . → :
 - [sin-10.typ] . → ?
 - [sin-10.typ] , → .
 - [sin-10.typ] ? → ,
 - [sin-10.typ] . → ?
 - [sin-11.typ note] . → 
-- [sin-11.typ note] . → . Tit.
+- [sin-11.typ note] . → :
+- [sin-11.typ note] . → :
+- [sin-11.typ note] . → 
+- [sin-11.typ note] . → 
+- [sin-11.typ note] . → :
+- [sin-11.typ note] . → 
+- [sin-11.typ note] . → 
+- [sin-11.typ note] . → 
+- [sin-11.typ note] . → :
+- [sin-11.typ note] . → . Titus
+- [sin-11.typ note] . → 
 - [sin-11.typ] ▪ → :
+- [sin-11.typ] . → 
+- [sin-11.typ] . → :
+- [sin-11.typ] . → 
+- [sin-11.typ] . → :
 - [sin-11.typ] & → and
 - [sin-11.typ] ; → ,
 - [sin-11.typ] , → ;
+- [sin-11.typ] . → 
 - [sin-11.typ] ? → ,
 - [sin-11.typ] , → ?
-- [sin-12.typ note] . → . Ezek.
-- [sin-12.typ note] . → . Mat.
-- [sin-12.typ note] . → . Revel.
-- [sin-12.typ note] . → ,
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → . Ezek
+- [sin-12.typ note] . → . Matt 10:16. Rev 9:3, 5,
+- [sin-12.typ note] . → :
 - [sin-12.typ note] . → ,
 - [sin-12.typ note] . → . and
-- [sin-12.typ note] . → . and
-- [sin-12.typ note] . → . Esa.
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → . Isa
+- [sin-12.typ note] . → :
+- [sin-12.typ note] . → 
+- [sin-12.typ note] . → 
+- [sin-12.typ] . → :
+- [sin-12.typ] . → 
+- [sin-12.typ] . → :
+- [sin-12.typ] . → 
+- [sin-12.typ] . → :
+- [sin-12.typ] . → 
+- [sin-12.typ] . → :
+- [sin-12.typ] . → 
+- [sin-12.typ] . → :
 - [sin-12.typ] ; → ,
 - [sin-12.typ] . → ?
+- [sin-12.typ] . → 
 - [sin-12.typ] , → gracious
 - [duties-01.typ note] ▪ → 
 - [duties-01.typ note] ▪ → 
+- [duties-01.typ note] . → 
+- [duties-01.typ note] . → :
+- [duties-01.typ note] . → 
+- [duties-01.typ note] . → 
+- [duties-01.typ note] . → :
 - [duties-01.typ note] & → and
 - [duties-01.typ note] . → ,
+- [duties-01.typ] . → :
+- [duties-01.typ] . → 
 - [duties-01.typ] . → ?
 - [duties-01.typ] . → ,
+- [duties-01.typ] . → 
 - [duties-01.typ] , → 
 - [duties-01.typ] & → and
 - [duties-01.typ] ? → .
+- [duties-02.typ note] . → 
+- [duties-02.typ note] . → :
 - [duties-02.typ note] & → and
 - [duties-02.typ note] . → ?
 - [duties-02.typ note] & → and
 - [duties-02.typ] . → ?
+- [duties-03.typ note] . → 
 - [duties-03.typ note] & → and
 - [duties-03.typ note] ; → ?
 - [duties-03.typ note] ? → ,
+- [duties-03.typ note] . → 
 - [duties-03.typ note] & → and
 - [duties-03.typ] ? → ,
 - [duties-03.typ] & → and
@@ -422,151 +885,754 @@
 - [duties-03.typ] ; → ?
 - [duties-04.typ note] : → )
 - [duties-04.typ note] & → and
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → :
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
 - [duties-04.typ note] . → ,
+- [duties-04.typ note] . → 
+- [duties-04.typ note] . → :
 - [duties-04.typ note] ▪ → .
 - [duties-04.typ] . → ?
 - [duties-04.typ] . → ,
+- [duties-05.typ note] . → 
 - [duties-05.typ note] . → ?
 - [duties-05.typ note] . → ?
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
 - [duties-05.typ note] & → and
 - [duties-05.typ note] . → ;
 - [duties-05.typ note] ▪ → 
-- [duties-05.typ note] & → and
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
+- [duties-05.typ note] . → 
+- [duties-05.typ note] . → :
 - [duties-05.typ] . → ?
 - [duties-05.typ] & → and
+- [duties-05.typ] . → 
 - [duties-05.typ] & → and
 - [duties-06.typ note] ▪ → 
+- [duties-06.typ note] . → 
+- [duties-06.typ note] . → :
+- [duties-06.typ note] . → :
 - [duties-06.typ note] ▪ → 
+- [duties-06.typ note] . → 
 - [duties-06.typ note] ; → 
 - [duties-06.typ note] . → ?
 - [duties-06.typ] ▪ → ?
 - [duties-07.typ note] & → and
 - [duties-07.typ note] & → and
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → :
 - [duties-07.typ note] & → and
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
+- [duties-07.typ note] . → :
+- [duties-07.typ note] . → 
 - [duties-07.typ] & → and
 - [duties-07.typ] & → and
-- [duties-08.typ note] . → . 2.
-- [doubting-01.typ note] & → and
-- [doubting-01.typ note] ▪ → .
-- [doubting-01.typ note] , → .
-- [doubting-01.typ note] & → and
+- [duties-08.typ note] . → 
+- [duties-08.typ note] . → :
+- [duties-08.typ note] . → 
+- [duties-08.typ note] . → :
+- [duties-08.typ note] . → :
+- [duties-08.typ note] . → 2:
+- [duties-08.typ note] . → 
+- [duties-08.typ note] . → :
+- [duties-08.typ note] . → :
+- [duties-08.typ note] . → 
+- [duties-08.typ note] . → :
 - [doubting-01.typ note] & → and
 - [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] ▪ → .
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] , → :
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → :
 - [doubting-01.typ note] & → and
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] & → and
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] . → 
+- [doubting-01.typ note] . → :
+- [doubting-01.typ note] & → and
+- [doubting-01.typ note] . → :
 - [doubting-01.typ note] & → and
 - [doubting-01.typ] & → and
 - [doubting-01.typ] & → and
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → 
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → 
+- [doubting-02.typ note] . → :
 - [doubting-02.typ note] . → ,
-- [doubting-02.typ note] . → . 26.
+- [doubting-02.typ note] . → 26:
 - [doubting-02.typ note] . → ,
-- [doubting-02.typ note] & → and
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → 
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → 
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → :
+- [doubting-02.typ note] . → 
+- [doubting-02.typ note] . → :
 - [doubting-02.typ note] & → and
 - [doubting-02.typ] , → 
 - [doubting-02.typ] ; → 
+- [doubting-03.typ note] . → :
+- [doubting-03.typ note] . → :
+- [doubting-03.typ note] . → 
+- [doubting-03.typ note] . → :
 - [doubting-03.typ note] & → and
+- [doubting-03.typ note] . → 
+- [doubting-03.typ note] . → :
 - [doubting-03.typ note] & → and
+- [doubting-03.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
 - [doubting-04.typ note] & → and
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
 - [doubting-04.typ note] & → and
 - [doubting-04.typ note] ▪ → .
 - [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] & → and
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] & → and
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → 
 - [doubting-04.typ note] & → and
 - [doubting-04.typ note] & → and
-- [doubting-04.typ note] & → and
-- [doubting-04.typ note] & → and
+- [doubting-04.typ note] . → 
+- [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → :
 - [doubting-04.typ] & → and
 - [doubting-04.typ] & → and
 - [doubting-04.typ] ; → ; I
 - [doubting-04.typ] & → and
+- [doubting-05.typ note] . → :
 - [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → :
+- [doubting-05.typ note] . → 
+- [doubting-05.typ note] . → 9:
 - [doubting-05.typ] & → and
-- [doubting-06.typ note] , → .
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → . Mic
 - [doubting-06.typ note] ▪ → ;
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
 - [doubting-06.typ note] & → and
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] . → :
+- [doubting-06.typ note] . → 
+- [doubting-06.typ note] , → :
 - [doubting-06.typ] & → and
+- [doubting-07.typ note] . → 
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → 
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → 
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → 
 - [doubting-07.typ note] & → and
 - [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → ,
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → 
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → :
 - [doubting-07.typ note] & → and
 - [doubting-07.typ note] & → and
 - [doubting-07.typ note] . → . John
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → 
+- [doubting-07.typ note] . → :
 - [doubting-07.typ] ▪ → ,
 - [doubting-07.typ] ▪ → ,
 - [doubting-07.typ] ▪ → ,
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → 
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → 
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → 
+- [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → :
 - [doubting-08.typ] , → 
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → :
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → :
 - [ranks-01.typ note] & → and
+- [ranks-01.typ note] . → :
 - [ranks-01.typ note] & → and
-- [ranks-01.typ note] . → . 2.
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → :
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → :
+- [ranks-01.typ note] . → 2:
 - [ranks-01.typ note] . → ,
 - [ranks-01.typ note] & → and
 - [ranks-01.typ note] . → 
 - [ranks-01.typ note] & → and
+- [ranks-01.typ note] . → :
+- [ranks-01.typ note] . → 
+- [ranks-01.typ note] . → :
+- [ranks-01.typ note] . → 
 - [ranks-01.typ note] & → and
+- [ranks-01.typ note] . → :
 - [ranks-01.typ note] ▪ → ,
 - [ranks-01.typ note] & → and
+- [ranks-01.typ note] . → :
 - [ranks-01.typ] & → and
 - [ranks-01.typ] & → and
 - [ranks-01.typ] & → and
 - [ranks-01.typ] & → and
+- [ranks-01.typ] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → :
+- [ranks-02.typ note] . → 
+- [ranks-02.typ note] . → :
 - [ranks-02.typ] ▪ → ,
 - [ranks-02.typ] & → and
 - [ranks-02.typ] & → and
 - [ranks-02.typ] & → and
+- [ranks-02.typ] . → 
+- [ranks-02.typ] . → :
+- [ranks-02.typ] . → :
 - [ranks-02.typ] & → and
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
 - [ranks-03.typ note] & → and
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
 - [ranks-03.typ note] & → and
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
 - [ranks-03.typ note] & → and
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
+- [ranks-03.typ note] . → 
+- [ranks-03.typ note] . → :
 - [ranks-03.typ] & → and
 - [ranks-03.typ] & → and
+- [ranks-04.typ note] . → :
 - [ranks-04.typ note] ▪ → ;
 - [ranks-04.typ note] & → and
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
 - [ranks-04.typ note] . → ,
 - [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
 - [ranks-04.typ note] ▪ → ,
 - [ranks-04.typ note] & → and
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
 - [ranks-04.typ note] ▪ → ,
 - [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → 5:
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
 - [ranks-04.typ] & → and
 - [ranks-04.typ] & → and
+- [ranks-04.typ] . → 
+- [ranks-04.typ] . → :
 - [ranks-04.typ] ▪ → -
 - [ranks-04.typ] & → and
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
 - [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → 
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
+- [ranks-05.typ note] . → :
 - [ranks-05.typ] & → and
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
 - [propositions.typ note] . → ,
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
 - [propositions.typ note] ) → 
-- [propositions.typ note] . → . 1.
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 1:
 - [propositions.typ note] . → ,
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ note] . → :
+- [propositions.typ note] . → 
+- [propositions.typ] . → :
 - [propositions.typ] & → and
 - [propositions.typ] & → and
+- [reasons.typ note] . → 
+- [reasons.typ note] . → :
+- [reasons.typ note] . → 
+- [reasons.typ note] . → :
 - [reasons.typ] & → and
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → 
 - [use.typ note] & → and
 - [use.typ note] & → and
 - [use.typ note] & → and
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
 - [use.typ note] ▪ → ,
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
+- [use.typ note] . → :
 - [use.typ note] & → and
 - [use.typ note] ▪ → ,
 - [use.typ note] . → 
 - [use.typ note] & → and
 - [use.typ note] & → and
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
+- [use.typ note] . → 
+- [use.typ note] . → :
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
+- [use.typ] . → 
+- [use.typ] . → :
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
 - [use.typ] & → and
-- [appendix-01.typ note] , → .
-- [appendix-01.typ note] ! → .
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] , → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] ! → 
+- [appendix-01.typ note] . → :
 - [appendix-01.typ note] . → ,
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] - → –
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
 - [appendix-01.typ note] ▪ → ,
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
+- [appendix-01.typ note] . → :
 - [appendix-01.typ] & → and
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → 
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → 
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → 
 - [appendix-01.typ] . → ?
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → 
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → 
+- [appendix-01.typ] . → 
+- [appendix-01.typ] . → :
+- [appendix-01.typ] . → :
 - [appendix-01.typ] & → and
+- [appendix-02.typ note] . → :
+- [appendix-02.typ note] . → :
 - [appendix-02.typ note] . → ,
+- [appendix-02.typ note] . → :
+- [appendix-02.typ note] . → :
+- [appendix-02.typ note] . → :
+- [appendix-02.typ note] . → :
 - [appendix-02.typ] . → ?
 - [appendix-02.typ] & → and
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → 
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → 
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → 
+- [appendix-03.typ note] . → :
+- [appendix-03.typ note] . → 
+- [appendix-03.typ note] . → :
 - [appendix-03.typ] ▪ → ;
 - [appendix-03.typ] & → and
 - [appendix-03.typ] & → and
@@ -575,7 +1641,23 @@
 - [appendix-03.typ] & → and
 - [appendix-03.typ] & → and
 - [appendix-03.typ] & → and
+- [appendix-03.typ] . → 
+- [appendix-03.typ] . → :
+- [appendix-04.typ note] . → :
+- [appendix-04.typ note] . → 
+- [appendix-04.typ note] . → :
+- [appendix-04.typ note] . → 
+- [appendix-04.typ note] . → :
+- [appendix-04.typ note] . → :
+- [appendix-04.typ note] . → :
+- [appendix-04.typ note] . → 
+- [appendix-04.typ note] . → :
 - [appendix-04.typ] & → and
+- [appendix-04.typ] . → :
+- [appendix-04.typ] . → 
+- [appendix-04.typ] . → :
+- [appendix-04.typ] . → :
+- [appendix-05.typ note] . → 29:
 
 ## case
 
@@ -587,7 +1669,6 @@
 - E → e (×7)
 - That → that (×5)
 - ’twas → ’Twas (×5)
-- Chap → chap (×4)
 - The → the (×4)
 - First → first (×3)
 - How → how (×3)
@@ -596,7 +1677,6 @@
 - But → but (×2)
 - He → he (×2)
 - In → in (×2)
-- It → it (×2)
 - To → to (×2)
 - What → what (×2)
 - When → when (×2)
@@ -607,12 +1687,12 @@
 - Because → because
 - Belly → belly
 - Caught → caught
-- Ch → ch
 - Crosses → crosses
 - Godly → godly
 - Gods → gods
 - I → i
 - If → if
+- It → it
 - Labour → labour
 - Little → little
 - Met → met
@@ -640,6 +1720,7 @@
 - he → He
 - holy → Holy
 - if → If
+- one → One
 - satan → Satan
 - viz → Viz
 - you → You
@@ -669,16 +1750,18 @@
 - paine → pain (×7)
 - Christians → Christian's (×6)
 - Magdalen → Magdalene (×6)
-- Mica → Micah (×6)
+- Mica → Mic (×6)
 - ruin'd → ruined (×6)
 - tho → though (×6)
 - travel → travail (×6)
 - woful → woeful (×6)
+- Hosea → Hos (×5)
+- James → Jas (×5)
 - devils → devil's (×5)
 - scepter → sceptre (×5)
 - Achitophel → Ahithophel (×4)
 - I'le → I'll (×4)
-- Isa → Isa. (×4)
+- Kings → Kgs (×4)
 - angell → angel (×4)
 - dyed → died (×4)
 - judg → judge (×4)
@@ -692,6 +1775,7 @@
 - Jobs → Job's (×3)
 - Lords → Lord's (×3)
 - Melancton → Melancthon (×3)
+- Psal → Ps (×3)
 - Saints → Saints’ (×3)
 - appear'd → appeared (×3)
 - breaths → breathes (×3)
@@ -710,27 +1794,20 @@
 - tis → ’tis (×3)
 - virtues → virtue's (×3)
 - wch → which (×3)
-- 2 → 2. (×2)
 - Augustin → Augustine (×2)
 - Bullen → Bouillon (×2)
 - Callice → Calais (×2)
 - Emperors → Emperor's (×2)
 - Fathers → father's (×2)
-- Gal → Gal. (×2)
 - Hel → Hell (×2)
-- Hester → Esther (×2)
-- Hos → Hos. (×2)
-- Iam → Jam (×2)
 - Isidor → Isidore (×2)
 - Jacobs → Jacob's (×2)
 - Jews → Jews' (×2)
 - Lots → Lot's (×2)
 - Manasses → Manasseh (×2)
 - Marry → Mary (×2)
-- Micha → Micah (×2)
 - Mistresses → Mistress's (×2)
 - Plutark → Plutarch (×2)
-- Psal → Psal. (×2)
 - Saints → Saints' (×2)
 - Stevens → Stephen's (×2)
 - Wo → Woe (×2)
@@ -786,14 +1863,14 @@
 - vildness → vileness (×2)
 - whether → whither (×2)
 - 'temptations → temptations
-- 1 → 1.
-- 10 → 10.
-- 12 → 12.
+- 1 → 1:
+- 12 → 12:
 - 13 → 13.
-- 23 → 23.
+- 2 → 2:
+- 26 → 2:6
 - 32 → 32.
-- 4 → 4.
-- 5 → 5.
+- 4 → 4:
+- 5 → 5:
 - 6 → 6,
 - 8 → 8,
 - 8 → 8.
@@ -836,7 +1913,6 @@
 - Christians → Christian
 - Christians → Christians'
 - Constantines → Constantine's
-- Cor → Cor.
 - Councel → Council
 - Dalilah → Delilah
 - Daliloh → Delilah
@@ -846,16 +1922,16 @@
 - Eather → Father
 - Eightly → Eighthly
 - Elis → Eli's
-- Ephes → Ephes.
+- Ephes → Eph
 - Ephestion → Hephaestion
 - Epithites → Epithets
 - Eschines → Aeschines
 - Escu's → Esau's
-- Ezek → Ezek.
 - Fowlers → fowler's
 - Gangreen → gangrene
 - Garlick → Garlic
 - Gehezi → Gehazi
+- Genesis → Gen
 - Germane → German
 - Gilimex → Gelimer
 - God → God,
@@ -867,12 +1943,12 @@
 - Gyants → Giants
 - Hamon → Haman
 - Hazael's → Hazaels
-- Heb → Heb.
 - Hebraw → Hebrew
 - Heliogobalus → Heliogabalus
 - Herauld → Herald
 - Heredotus → Herodotus
-- Hes → Hos
+- Hester → Esth
+- Hester → Esther
 - Hierome → Jerome
 - Hieroms → Jerome's
 - Homers → Homer's
@@ -886,7 +1962,6 @@
 - Its → It's
 - Jay → lay
 - Jehosaphat → Jehoshaphat
-- Jer → Jer.
 - Jeremy → Jeremiah
 - Jerom → Jerome
 - Jesurum → Jeshurun
@@ -899,7 +1974,7 @@
 - Josephs → Joseph's
 - Josephs → Josephs’
 - Judg → Judge
-- Judge → Judg.
+- Judge → Judg
 - Judus → Judas
 - Julians → Julian's
 - Justiness → lustiness
@@ -910,15 +1985,17 @@
 - Lavs → laus
 - Lawrels → Laurels
 - Leaper → Leper
-- Luk → Luk.
+- Luk → Luke
 - Luther → Luther,
 - Lyon → lion
 - Manasses → Manasseh'
-- Mat → Mat.
+- Mat → Matt
 - Mathew → Matthew
 - Maximimilians → Maximilian's
 - Medicamentum → Medicamenta
 - Merchandize → Merchandise
+- Micha → Mic
+- Micha → Micah
 - Mistery → Mystery
 - Moble → Noble
 - Moses → Moses’
@@ -937,7 +2014,6 @@
 - Pans → Dan's
 - Pauls → Paul's
 - Persees → Parsees
-- Pet → Pet.
 - Pharisees → Pharisees'
 - Philistimes → Philistines
 - Pihil → Piel
@@ -946,7 +2022,7 @@
 - Psaln•es → Psalms
 - Rabby → Rabbi
 - Redemer → Redeemer
-- Revel → Revel.
+- Revel → Rev
 - Sabbaoth → Sabbath
 - Salvians → Salvian's
 - Sampsons → Samson's
@@ -974,7 +2050,6 @@
 - Wherunto → Whereunto
 - Whether → Whither
 - Wolfe → wolf
-- Yit → Tit
 - Zerviah → Zeruiah
 - Zions → Zion's
 - abhominable → abominable
@@ -1024,8 +2099,8 @@
 - carefullness → carefulness
 - cary → carry
 - celoratun → coloratum
-- ch → ch.
 - chang'd → changed
+- chap → ch
 - cheared → cheered
 - chearfullness → cheerfulness
 - cherrish → cherish
@@ -1423,7 +2498,6 @@
 - unmaskt → unmasked
 - unturn'd → unturned
 - upbraded → upbraided
-- v → v.
 - vailes → vails
 - venone → venom
 - vers → verse

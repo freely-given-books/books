@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 616 |
-| spelling | 205 |
-| spacing | 58 |
-| punctuation | 58 |
+| spacing | 2489 |
+| emendation | 2092 |
+| punctuation | 479 |
+| spelling | 287 |
 | grammar | 45 |
 | list | 22 |
 | italic | 7 |
@@ -21,48 +21,188 @@
 - [epistle-dedicatory.typ] tendered → tendered for and
 - [epistle-dedicatory.typ] and for → 
 - [to-the-reader.typ note] so → to
+- [to-the-reader.typ note] ver → v
+- [to-the-reader.typ] . ix . → 9:
+- [to-the-reader.typ] . ix . → 9:
 - [to-the-reader.typ] holy → holiest
 - [to-the-reader.typ] what → which
+- [to-the-reader.typ] . ii . → 2:
+- [to-the-reader.typ] iii → 3
+- [to-the-reader.typ] . ii . → 2:
+- [to-the-reader.typ] ii → 2
+- [to-the-reader.typ] iii → 3
 - [to-the-reader.typ] of → 
 - [to-the-reader.typ] great → great pretended
 - [to-the-reader.typ] shall → 
+- [book-1/chapter-01.typ] . xviii . → 18:
+- [book-1/chapter-01.typ] xix → 19
+- [book-1/chapter-01.typ] . i . → 1:
 - [book-1/chapter-01.typ] that → that Jesus
 - [book-1/chapter-01.typ] Jesus → 
+- [book-1/chapter-01.typ] . xx . → 20:
+- [book-1/chapter-01.typ] . i . → 1:
+- [book-1/chapter-01.typ] . v . → 5:
 - [book-1/chapter-01.typ] the → his
+- [book-1/chapter-01.typ] Tit . ii . → Titus 2:
+- [book-1/chapter-01.typ] . v . → 5:
+- [book-1/chapter-01.typ] . v . → 5:
 - [book-1/chapter-01.typ] trespasses → sins
+- [book-1/chapter-01.typ] . v . → 5:
 - [book-1/chapter-01.typ] his flesh → himself
+- [book-1/chapter-01.typ] . ii . → 2:
 - [book-1/chapter-01.typ] he → he is
+- [book-1/chapter-01.typ] . ix . → 9:
+- [book-1/chapter-01.typ] . iii . → 3:
+- [book-1/chapter-01.typ] . ii . → 2:
 - [book-1/chapter-01.typ] in → in Jesus
 - [book-1/chapter-01.typ] Jesus → 
+- [book-1/chapter-01.typ] . iii . → 3:
+- [book-1/chapter-01.typ] . i . → 1:
+- [book-1/chapter-01.typ] . ix . → 9:
 - [book-1/chapter-01.typ] sin → our sins
+- [book-1/chapter-01.typ] i → 1
+- [book-1/chapter-01.typ] . i . → 1:
+- [book-1/chapter-01.typ] xiii → 13
 - [book-1/chapter-01.typ] the → his
+- [book-1/chapter-01.typ] . v . → 5:
+- [book-1/chapter-01.typ] . i . → 1:
+- [book-1/chapter-01.typ] . i . → 1:
 - [book-1/chapter-01.typ] forth → 
+- [book-1/chapter-01.typ] . iv . → 4:
+- [book-1/chapter-01.typ] . i . → 1:
 - [book-1/chapter-01.typ] might → may
+- [book-1/chapter-01.typ] . ix . → 9:
+- [book-1/chapter-02.typ] . vi . → 6:
+- [book-1/chapter-02.typ] . xv . → 15:
+- [book-1/chapter-02.typ] . xi . → 11:
+- [book-1/chapter-02.typ] . iii . → 3:
+- [book-1/chapter-02.typ] ii → 2
+- [book-1/chapter-02.typ] . xii . → 12:
 - [book-1/chapter-03.typ] were → were other
 - [book-1/chapter-03.typ] other → 
+- [book-1/chapter-03.typ] iv → 4
+- [book-1/chapter-03.typ] x → 10
 - [book-1/chapter-03.typ] the → 
+- [book-1/chapter-03.typ] iii → 3
+- [book-1/chapter-03.typ] . viii . → 8:
+- [book-1/chapter-03.typ] iii → 3
+- [book-1/chapter-03.typ] . iv . → 4:
+- [book-1/chapter-03.typ] x → 10
+- [book-1/chapter-03.typ] v → 5
+- [book-1/chapter-03.typ] . xix . → 19:
+- [book-1/chapter-03.typ] . xlviii . → 48:
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] Tit . i . → Titus 1:
+- [book-1/chapter-03.typ] i → 1
+- [book-1/chapter-03.typ] . iv . → 4:
 - [book-1/chapter-03.typ] trust → have hoped
+- [book-1/chapter-03.typ] Tit . ii . → Titus 2:
+- [book-1/chapter-03.typ] . xxxii . → 32:
+- [book-1/chapter-03.typ] . x . → 10:
+- [book-1/chapter-03.typ] . xxiv . → 24:
+- [book-1/chapter-03.typ] . xii . → 12:
+- [book-1/chapter-03.typ] . xiv . → 14:
+- [book-1/chapter-03.typ] vii → 7
+- [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] Phil . ii . → Philippians 2:
 - [book-1/chapter-03.typ] may → may be
 - [book-1/chapter-03.typ] shall → will
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . cx . → 110:
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] x → 10
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] . i . → 1:
 - [book-1/chapter-03.typ] among → of
+- [book-1/chapter-03.typ] viii → 8
+- [book-1/chapter-03.typ] xv → 15
+- [book-1/chapter-03.typ] v → 5
+- [book-1/chapter-03.typ] ii → 2
+- [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] . ix . → 9:
+- [book-1/chapter-03.typ] . xlv . → 45:
+- [book-1/chapter-03.typ] . xxx . → 30:
 - [book-1/chapter-03.typ] great → 
+- [book-1/chapter-03.typ] ii → 2
+- [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] . x . → 10:
+- [book-1/chapter-03.typ] i → 1
+- [book-1/chapter-03.typ] . iii . → 3:
 - [book-1/chapter-03.typ] the → 
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . xxviii . → 28:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] xxiv → 24
+- [book-1/chapter-03.typ] i → 1
+- [book-1/chapter-03.typ] . xxvii . → 27:
+- [book-1/chapter-03.typ] ii → 2
+- [book-1/chapter-03.typ] . xv . → 15:
 - [book-1/chapter-03.typ] sets → acts
+- [book-1/chapter-03.typ] . xlix . → 49:
+- [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] xlix → 49
+- [book-1/chapter-03.typ] . i . → 1:
 - [book-1/chapter-03.typ] all → 
 - [book-1/chapter-03.typ] families → nations
+- [book-1/chapter-03.typ] . xii . → 12:
+- [book-1/chapter-03.typ] i → 1
 - [book-1/chapter-03.typ] thought → counted
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . xiii . → 13:
+- [book-1/chapter-03.typ] . vi . → 6:
 - [book-1/chapter-03.typ] seraphims → cherubims
+- [book-1/chapter-03.typ] xii → 12
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . liii . → 53:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] . ix . → 9:
 - [book-1/chapter-03.typ] out of → through
+- [book-1/chapter-03.typ] . iv . → 4:
+- [book-1/chapter-03.typ] . i . → 1:
+- [book-1/chapter-03.typ] ii → 2
+- [book-1/chapter-03.typ] i → 1
 - [book-1/chapter-03.typ] Lord → Lord God
 - [book-1/chapter-03.typ] good → the glad
+- [book-1/chapter-03.typ] . lxi . → 61:
+- [book-1/chapter-03.typ] . xlv . → 45:
 - [book-1/chapter-03.typ] garments → clothing
+- [book-1/chapter-03.typ] . cxxxiii . → 133:
+- [book-1/chapter-03.typ] . xi . → 11:
+- [book-1/chapter-03.typ] iii → 3
+- [book-1/chapter-03.typ] . iv . → 4:
+- [book-1/chapter-03.typ] ii → 2
+- [book-1/chapter-03.typ] . xxviii . → 28:
+- [book-1/chapter-03.typ] xvii → 17
 - [book-1/chapter-03.typ] all → 
+- [book-1/chapter-03.typ] . lxiii . → 63:
+- [book-1/chapter-03.typ] . xiii . → 13:
+- [book-1/chapter-03.typ] . lxiii . → 63:
+- [book-1/chapter-03.typ] . liii . → 53
+- [book-1/chapter-03.typ] . xxii . → 22:
 - [book-1/chapter-03.typ] mouth → mouth sharp
 - [book-1/chapter-03.typ] sharp → 
+- [book-1/chapter-03.typ] . xlix . → 49:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . cxviii . → 118:
+- [book-1/chapter-03.typ] . xxi . → 21:
+- [book-1/chapter-03.typ] xii → 12
+- [book-1/chapter-03.typ] xx → 20
+- [book-1/chapter-03.typ] iv → 4
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . xxviii . → 28:
 - [book-1/chapter-03.typ] him → them
+- [book-1/chapter-03.typ] . xxi . → 21:
+- [book-1/chapter-03.typ] . l . → 50:
 - [book-1/chapter-03.typ] that → that shall
 - [book-1/chapter-03.typ] eat → consume
 - [book-1/chapter-03.typ] up → 
+- [book-1/chapter-03.typ] . liii . → 53:
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-03.typ] . xlix . → 49
 - [book-1/chapter-03.typ] hunger nor thirst → be hungry, neither shall they be thirsty
 - [book-1/chapter-03.typ] nor sun → 
 - [book-1/chapter-03.typ] them → them, nor the sun
@@ -71,135 +211,381 @@
 - [book-1/chapter-03.typ] guide → drive
 - [book-1/chapter-03.typ] mountains → mountains as
 - [book-1/chapter-03.typ] highways → paths
+- [book-1/chapter-03.typ] . ii . → 2:
 - [book-1/chapter-03.typ] we → we might
+- [book-1/chapter-03.typ] iv → 4
+- [book-1/chapter-03.typ] xvii → 17
+- [book-1/chapter-03.typ] . xiii . → 13:
+- [book-1/chapter-03.typ] . xxvi . → 26:
+- [book-1/chapter-03.typ] . liii . → 53:
+- [book-1/chapter-03.typ] . v . → 5:
+- [book-1/chapter-03.typ] iv → 4
+- [book-1/chapter-03.typ] . xxvi . → 26:
+- [book-1/chapter-03.typ] xiv → 14
 - [book-1/chapter-03.typ] crying → cries
+- [book-1/chapter-03.typ] . v . → 5:
 - [book-1/chapter-03.typ] evangelist → apostle
+- [book-1/chapter-03.typ] xxii → 22
+- [book-1/chapter-03.typ] . iii . → 3:
+- [book-1/chapter-03.typ] . liii . → 53:
+- [book-1/chapter-03.typ] . cxxx . → 130:
 - [book-1/chapter-03.typ] into → 
+- [book-1/chapter-03.typ] . ii . → 2:
+- [book-1/chapter-04.typ] . x . → 10:
 - [book-1/chapter-04.typ] as → or
+- [book-1/chapter-04.typ] . iii . → 3:
+- [book-1/chapter-04.typ] vi → 6
+- [book-1/chapter-04.typ] iv → 4
 - [book-1/chapter-04.typ] Wist → Wot
+- [book-1/chapter-04.typ] ii → 2
 - [book-1/chapter-04.typ] the → 
+- [book-1/chapter-04.typ] xvii → 17
+- [book-1/chapter-04.typ] i → 1
+- [book-1/chapter-04.typ] . iv . → 4:
+- [book-1/chapter-04.typ] . iii . → 3:
+- [book-1/chapter-04.typ] . ii . → 2:
+- [book-1/chapter-04.typ] . ix . → 9:
+- [book-1/chapter-04.typ] . i . → 1:
 - [book-1/chapter-04.typ] the → his
+- [book-1/chapter-04.typ] . v . → 5:
+- [book-1/chapter-04.typ] . ix . → 9:
+- [book-1/chapter-04.typ] xvii → 17
+- [book-1/chapter-04.typ] . v . → 5:
 - [book-1/chapter-04.typ] which → that
+- [book-1/chapter-04.typ] i → 1
+- [book-1/chapter-04.typ] . liii . → 53:
+- [book-1/chapter-04.typ] x → 10
+- [book-1/chapter-04.typ] . ii . → 2:
+- [book-1/chapter-04.typ] . v . → 5:
 - [book-1/chapter-04.typ] O → O my
+- [book-1/chapter-04.typ] . x . → 10:
+- [book-1/chapter-04.typ] . ii . → 2:
+- [book-1/chapter-04.typ] . i . → 1:
+- [book-1/chapter-04.typ] x → 10
+- [book-1/chapter-04.typ] . xxvi . → 26:
 - [book-1/chapter-04.typ] holy → holiest
+- [book-1/chapter-04.typ] . ii . → 2:
+- [book-1/chapter-04.typ] xiv → 14
+- [book-1/chapter-04.typ] . ix . → 9:
 - [book-1/chapter-04.typ] obtained → obtained for us
 - [book-1/chapter-04.typ] for us → 
 - [book-1/chapter-04.typ] are → is
+- [book-1/chapter-04.typ] ii → 2
 - [book-1/chapter-04.typ] the → a
 - [book-1/chapter-04.typ] me → me out of the world
+- [book-1/chapter-04.typ] xvii → 17
 - [book-1/chapter-04.typ] a propitiation → 
+- [book-1/chapter-04.typ] xi → 11
+- [book-1/chapter-04.typ] . ii . → 2:
 - [book-1/chapter-04.typ] them → 
 - [book-1/chapter-04.typ] uttermost → utmost them
+- [book-1/chapter-04.typ] . vii . → 7:
+- [book-1/chapter-04.typ] . viii . → 8:
 - [book-1/chapter-04.typ] with me → 
+- [book-1/chapter-04.typ] xvii → 17
 - [book-1/chapter-04.typ] for ever → 
+- [book-1/chapter-04.typ] . x . → 10:
 - [book-1/chapter-05.typ] with child , → 
+- [book-1/chapter-05.typ] . i . → 1:
+- [book-1/chapter-05.typ] i → 1
 - [book-1/chapter-05.typ] strong ” → stronger
+- [book-1/chapter-05.typ] i → 1
+- [book-1/chapter-05.typ] . ix . → 9:
+- [book-1/chapter-05.typ] . i . → 1:
+- [book-1/chapter-05.typ] . iii . → 3:
+- [book-1/chapter-05.typ] . viii . → 8:
 - [book-1/chapter-05.typ] which → who
+- [book-1/chapter-05.typ] . i . → 1:
 - [book-1/chapter-06.typ] be → 
+- [book-1/chapter-06.typ] . x . → 10:
 - [book-1/chapter-06.typ] the → 
 - [book-1/chapter-06.typ] is → had
+- [book-1/chapter-06.typ] . xv . → 15:
 - [book-1/chapter-06.typ] men → men the
 - [book-1/chapter-06.typ] was delivered → died
 - [book-1/chapter-06.typ] offences → sins
 - [book-1/chapter-06.typ] was raised again → rose
+- [book-1/chapter-06.typ] . iv . → 4:
+- [book-1/chapter-06.typ] iii → 3
+- [book-1/chapter-06.typ] iv → 4
+- [book-1/chapter-06.typ] ii → 2
+- [book-1/chapter-06.typ] iv → 4
 - [book-1/chapter-06.typ] was delivered → died
 - [book-1/chapter-06.typ] offences → sins
 - [book-1/chapter-06.typ] was raised → rose
+- [book-1/chapter-06.typ] . iv . → 4:
 - [book-1/chapter-06.typ] sake → cause
+- [book-1/chapter-06.typ] xvii → 17
+- [book-1/chapter-07.typ] . liii . → 53:
 - [book-1/chapter-07.typ] With → For by
+- [book-1/chapter-07.typ] . iv . → 4:
 - [book-1/chapter-07.typ] was raised → rose
+- [book-1/chapter-07.typ] . viii . → 8:
 - [book-1/chapter-07.typ] from → from the
 - [book-1/chapter-07.typ] through → by
+- [book-1/chapter-07.typ] . v . → 5:
+- [book-1/chapter-07.typ] ii → 2
 - [book-1/chapter-07.typ] the → a
 - [book-1/chapter-07.typ] obtained → obtained for us
 - [book-1/chapter-07.typ] for us → 
+- [book-1/chapter-07.typ] ix → 9
+- [book-1/chapter-07.typ] vii → 7
+- [book-1/chapter-07.typ] x → 10
 - [book-1/chapter-07.typ] be → he
+- [book-1/chapter-07.typ] . viii . → 8:
+- [book-1/chapter-07.typ] v → 5
+- [book-1/chapter-07.typ] xi → 11
 - [book-1/chapter-07.typ] be → he
 - [book-1/chapter-07.typ] the → 
+- [book-1/chapter-07.typ] . ix . → 9:
+- [book-1/chapter-07.typ] . xiii . → 13:
 - [book-1/chapter-07.typ] be → he
+- [book-1/chapter-07.typ] . ii . → 2:
 - [book-1/chapter-07.typ] give → grant
 - [book-1/chapter-07.typ] for → to be
 - [book-1/chapter-07.typ] to → should
+- [book-1/chapter-07.typ] iv → 4
+- [book-1/chapter-07.typ] . xv . → 15:
+- [book-1/chapter-07.typ] . ix . → 9:
+- [book-1/chapter-07.typ] . ix . → 9:
+- [book-1/chapter-07.typ] . xv . → 15:
+- [book-1/chapter-07.typ] . vii . → 7:
+- [book-1/chapter-07.typ] . viii . → 8:
 - [book-1/chapter-07.typ] died → dying
 - [book-1/chapter-08.typ] for → 
+- [book-1/chapter-08.typ] . xx . → 20:
 - [book-1/chapter-08.typ] be → he
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] . ii . → 2:
 - [book-1/chapter-08.typ] might → may
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] . iv . → 4:
+- [book-1/chapter-08.typ] . vii . → 7:
+- [book-1/chapter-08.typ] xx → 20
 - [book-1/chapter-08.typ] with → by
 - [book-1/chapter-08.typ] by → and
+- [book-1/chapter-08.typ] . v . → 5:
+- [book-1/chapter-08.typ] x → 10
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] ii → 2
+- [book-1/chapter-08.typ] xvii → 17
 - [book-1/chapter-08.typ] was delivered → died
 - [book-1/chapter-08.typ] offences → sins
 - [book-1/chapter-08.typ] was raised again → rose
+- [book-1/chapter-08.typ] . iv . → 4:
+- [book-1/chapter-08.typ] xiv → 14
+- [book-1/chapter-08.typ] . vii . → 7:
 - [book-1/chapter-08.typ] which → whom
 - [book-1/chapter-08.typ] then → thou
+- [book-1/chapter-08.typ] xvii → 17
+- [book-1/chapter-08.typ] . ii . → 2:
+- [book-1/chapter-08.typ] . iv . → 4:
+- [book-1/chapter-08.typ] . xxxvi . → 36:
+- [book-1/chapter-08.typ] xvii → 17
+- [book-1/chapter-08.typ] . cxlv . → 145:
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] . ii . → 2:
+- [book-1/chapter-08.typ] . xxxii . → 32:
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] xvii → 17
+- [book-1/chapter-08.typ] . i . → 1:
 - [book-1/chapter-08.typ] which → that
 - [book-1/chapter-08.typ] in → and
 - [book-1/chapter-08.typ] that → that do
-- [book-1/chapter-08.typ] xxi → xvii
+- [book-1/chapter-08.typ] . i . → 1:
+- [book-1/chapter-08.typ] . liii . → 53:
+- [book-1/chapter-08.typ] xxiii → 23
+- [book-1/chapter-08.typ] xxi → 17
+- [book-1/chapter-08.typ] . v . → 5:
+- [book-1/chapter-08.typ] i → 1
 - [book-1/chapter-08.typ] do → be
+- [book-1/chapter-08.typ] xi → 11
+- [book-1/chapter-08.typ] xi → 11
+- [book-1/chapter-08.typ] . ii . → 2:
+- [book-1/chapter-08.typ] liii → 53
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] xxiii → 23
 - [book-1/chapter-08.typ] for → 
 - [book-1/chapter-08.typ] inference → inference, in
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] iii → 3
+- [book-1/chapter-08.typ] ii → 2
+- [book-1/chapter-08.typ] vi → 6
+- [book-1/chapter-08.typ] v → 5
+- [book-1/chapter-08.typ] iv → 4
+- [book-1/chapter-08.typ] vi → 6
 - [book-1/chapter-08.typ] Seventhly , → 
 - [book-1/chapter-08.typ] law → law and a private person
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] . v . → 5:
+- [book-1/chapter-08.typ] . xix . → 19:
 - [book-1/chapter-08.typ] thou → 
+- [book-1/chapter-08.typ] xvii → 17
 - [book-1/chapter-08.typ] only → 
 - [book-1/chapter-08.typ] for → 
+- [book-1/chapter-08.typ] . xi . → 11:
 - [book-1/chapter-08.typ] interceded → interceded for
+- [book-1/chapter-08.typ] v → 5
 - [book-1/chapter-08.typ] it → at
-- [book-1/chapter-08.typ] 8 → 28
+- [book-1/chapter-08.typ] i → 1
+- [book-1/chapter-08.typ] . ii . → 2:
+- [book-1/chapter-08.typ] i → 1
+- [book-1/chapter-08.typ] ii → 2
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] . xxvi . → 26:
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] . xxvi . → 26:
+- [book-1/chapter-08.typ] . i . → 1:
+- [book-1/chapter-08.typ] . i . → 1:
+- [book-1/chapter-08.typ] Heb . ix . → Hebrews 9:
+- [book-1/chapter-08.typ] Matt . xxvi . 8 → Matthew 26:28
 - [book-1/chapter-08.typ] be → he
+- [book-1/chapter-08.typ] . ix . → 9:
+- [book-1/chapter-08.typ] i → 1
+- [book-1/chapter-08.typ] i → 1
 - [book-1/chapter-08.typ] 9 → 29
+- [book-1/chapter-08.typ] Heb . ii . → Hebrews 2:
+- [book-1/chapter-08.typ] ii → 2
 - [book-2/chapter-01.typ] were → was
 - [book-2/chapter-01.typ] were → was
 - [book-2/chapter-01.typ] at → 
+- [book-2/chapter-01.typ] . xvi . → 16:
+- [book-2/chapter-01.typ] . iv . → 4:
+- [book-2/chapter-01.typ] . iii . → 3:
+- [book-2/chapter-01.typ] . i . → 1:
 - [book-2/chapter-01.typ] of → ,
+- [book-2/chapter-01.typ] . i . → 1:
+- [book-2/chapter-01.typ] ii → 2
 - [book-2/chapter-01.typ] and → 
 - [book-2/chapter-01.typ] and → 
+- [book-2/chapter-01.typ] . v . → 5:
+- [book-2/chapter-01.typ] . viii . → 8:
+- [book-2/chapter-02.typ] xvii → 17
+- [book-2/chapter-02.typ] . i . → 1:
+- [book-2/chapter-02.typ] ii → 2
+- [book-2/chapter-02.typ] . viii . → 8:
+- [book-2/chapter-02.typ] . vi . → 6:
+- [book-2/chapter-02.typ] . ii . → 2:
 - [book-2/chapter-02.typ] on → to
+- [book-2/chapter-02.typ] . ii . → 2:
+- [book-2/chapter-02.typ] iii → 3
+- [book-2/chapter-02.typ] . xi . → 11:
+- [book-2/chapter-02.typ] v → 5
+- [book-2/chapter-02.typ] . v . → 5:
 - [book-2/chapter-02.typ] obtained → 
 - [book-2/chapter-02.typ] liberty → liberty obtained
 - [book-2/chapter-02.typ] no variableness , → 
 - [book-2/chapter-02.typ] neither → neither change nor
+- [book-2/chapter-02.typ] i → 1
+- [book-2/chapter-02.typ] . xv . → 15:
 - [book-2/chapter-02.typ] are → 
 - [book-2/chapter-02.typ] is → 
 - [book-2/chapter-02.typ] reward → reward is
 - [book-2/chapter-02.typ] reckoned → due
+- [book-2/chapter-02.typ] . iv . → 4:
 - [book-2/chapter-02.typ] me → me may
 - [book-2/chapter-02.typ] with me → 
 - [book-2/chapter-02.typ] ; that they may → , to
+- [book-2/chapter-02.typ] xvii → 17
+- [book-2/chapter-02.typ] . iii . → 3:
+- [book-2/chapter-02.typ] . xxxi . → 31:
+- [book-2/chapter-02.typ] . xlix . → 49:
 - [book-2/chapter-02.typ] him → them
+- [book-2/chapter-02.typ] . iii . → 3:
+- [book-2/chapter-03.typ] . xviii . → 18:
 - [book-2/chapter-03.typ] is come → came
+- [book-2/chapter-03.typ] xix → 19
 - [book-2/chapter-03.typ] so → so that
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] . liii . → 53:
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] . v . → 5:
 - [book-2/chapter-03.typ] the → his
+- [book-2/chapter-03.typ] Tit . ii . → Titus 2:
 - [book-2/chapter-03.typ] a → an holy and
 - [book-2/chapter-03.typ] , not having → without
 - [book-2/chapter-03.typ] hear → have
+- [book-2/chapter-03.typ] xvii → 17
 - [book-2/chapter-03.typ] might → may
+- [book-2/chapter-03.typ] . xi . → 11:
 - [book-2/chapter-03.typ] Seventhly → Eighthly
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] iv → 4
+- [book-2/chapter-03.typ] . v . → 5:
 - [book-2/chapter-03.typ] who → that
+- [book-2/chapter-03.typ] . ix . → 9:
 - [book-2/chapter-03.typ] ascribed → observed
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] . i . → 1:
 - [book-2/chapter-03.typ] When → For when
+- [book-2/chapter-03.typ] ix → 9
 - [book-2/chapter-03.typ] and → or a
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] . liii . → 53:
+- [book-2/chapter-03.typ] . iii . → 3:
 - [book-2/chapter-03.typ] of the law → 
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] . ii . → 2:
 - [book-2/chapter-03.typ] who → who were
 - [book-2/chapter-03.typ] were far → afar
+- [book-2/chapter-03.typ] . v . → 5:
+- [book-2/chapter-03.typ] xx → 20
+- [book-2/chapter-03.typ] . viii . → 8:
 - [book-2/chapter-03.typ] kindred → tribe
 - [book-2/chapter-03.typ] them → them kings and priests
 - [book-2/chapter-03.typ] kings and priests → 
+- [book-2/chapter-03.typ] . v . → 5:
+- [book-2/chapter-03.typ] . ix . → 9:
+- [book-2/chapter-03.typ] vi → 6
+- [book-2/chapter-03.typ] x → 10
 - [book-2/chapter-03.typ] and → 
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] . v . → 5:
 - [book-2/chapter-03.typ] I → 
+- [book-2/chapter-03.typ] . xxvi . → 26:
+- [book-2/chapter-03.typ] . liii . → 53:
 - [book-2/chapter-03.typ] The → For the
+- [book-2/chapter-03.typ] x → 10
+- [book-2/chapter-03.typ] . xx . → 20:
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] . v . → 5:
+- [book-2/chapter-03.typ] x → 10
+- [book-2/chapter-03.typ] xi → 11
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] xvii → 17
 - [book-2/chapter-03.typ] everlasting → 
+- [book-2/chapter-03.typ] . xiii . → 13:
+- [book-2/chapter-03.typ] . viii . → 8:
+- [book-2/chapter-03.typ] . i . → 1:
+- [book-2/chapter-03.typ] i → 1
 - [book-2/chapter-03.typ] people → people “
+- [book-2/chapter-03.typ] . xi . → 11:
+- [book-2/chapter-03.typ] xviii → 18
 - [book-2/chapter-03.typ] for → 
 - [book-2/chapter-03.typ] them → 
+- [book-2/chapter-03.typ] . xiii . → 13:
+- [book-2/chapter-03.typ] xx → 20
+- [book-2/chapter-03.typ] . v . → 5:
+- [book-2/chapter-03.typ] . ix . → 9:
+- [book-2/chapter-03.typ] . ix . → 9:
+- [book-2/chapter-03.typ] Dan . xii . → Daniel 12:
+- [book-2/chapter-03.typ] Rom . v . → Romans 5:
+- [book-2/chapter-03.typ] Dan . xii . → Daniel 12:
+- [book-2/chapter-03.typ] Rom . v . → Romans 5:
 - [book-2/chapter-03.typ] he → be
+- [book-2/chapter-03.typ] . xx . → 20:
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] i . → 1
+- [book-2/chapter-03.typ] . ii . → 2:
+- [book-2/chapter-03.typ] . liii . → 53:
+- [book-2/chapter-03.typ] . xv . → 15:
+- [book-2/chapter-03.typ] . iii . → 3:
+- [book-2/chapter-03.typ] x → 10
 - [book-2/chapter-03.typ] what → which
 - [book-2/chapter-03.typ] a  → a)
+- [book-2/chapter-03.typ] x → 10
 - [book-2/chapter-03.typ] bor → (b) or
 - [book-2/chapter-03.typ] cbut → (c) but
 - [book-2/chapter-03.typ] dNor → (d) Nor
@@ -208,224 +594,746 @@
 - [book-2/chapter-03.typ] fNor → (f) Nor
 - [book-2/chapter-03.typ] that → of
 - [book-2/chapter-03.typ] aThat → (a) That
+- [book-2/chapter-03.typ] xvii → 17
 - [book-2/chapter-03.typ] the → that
 - [book-2/chapter-03.typ] bFor → (b) For
 - [book-2/chapter-03.typ] cWe → (c) We
 - [book-2/chapter-03.typ] we → ye
+- [book-2/chapter-03.typ] xv → 15
 - [book-2/chapter-03.typ] and → 
 - [book-2/chapter-03.typ] there from → therefrom
 - [book-2/chapter-03.typ] is → 
+- [book-2/chapter-03.typ] . xx . → 20:
+- [book-2/chapter-03.typ] x → 10
 - [book-2/chapter-03.typ] this → the
 - [book-2/chapter-03.typ] for → 
+- [book-2/chapter-04.typ note] ii → 2 and ch
+- [book-2/chapter-04.typ note] and chap . iv . → 4
+- [book-2/chapter-04.typ note] iii → 3
+- [book-2/chapter-04.typ note] . v . → 5:
 - [book-2/chapter-04.typ] to → of
 - [book-2/chapter-04.typ] wise → ways
+- [book-2/chapter-04.typ] . liii . → 53:
+- [book-2/chapter-04.typ] . iv . → 4:
+- [book-2/chapter-04.typ] v → 5
+- [book-2/chapter-04.typ] Chap . viii . → Chapter 8:
 - [book-2/chapter-04.typ] He → He that
+- [book-2/chapter-04.typ] x → 10
+- [book-2/chapter-04.typ] iv → 4
+- [book-2/chapter-04.typ] . x . → 10:
 - [book-2/chapter-04.typ] Christ → 
 - [book-2/chapter-04.typ] for ever → 
+- [book-2/chapter-04.typ] Rom . ix . → Romans 9:
+- [book-2/chapter-04.typ] iii → 3
+- [book-2/chapter-04.typ] . i . → 1:
+- [book-2/chapter-04.typ] . i . → 1:
+- [book-2/chapter-04.typ] . v . → 5:
+- [book-2/chapter-04.typ] . xvi . → 16:
+- [book-2/chapter-04.typ] . ix . → 9:
 - [book-2/chapter-04.typ] to → for
+- [book-2/chapter-04.typ] . ix . → 9:
+- [book-2/chapter-04.typ] . ii . → 2:
 - [book-2/chapter-04.typ] wrath → condemnation
+- [book-2/chapter-04.typ] . v . → 5:
+- [book-2/chapter-04.typ] i → 1
 - [book-2/chapter-04.typ] be → he
 - [book-2/chapter-04.typ] where into → whereinto
 - [book-2/chapter-04.typ] cleanse from → purge
 - [book-2/chapter-04.typ] sin → our sins
+- [book-2/chapter-04.typ] i → 1
+- [book-2/chapter-04.typ] . i . → 1:
+- [book-2/chapter-04.typ] . liii . → 53:
+- [book-2/chapter-04.typ] . viii . → 8:
+- [book-2/chapter-04.typ] xx → 20
+- [book-2/chapter-04.typ] . i . → 1:
+- [book-2/chapter-04.typ] xiv → 14
+- [book-2/chapter-04.typ] xiii → 13
+- [book-2/chapter-04.typ] . v . → 5:
+- [book-2/chapter-05.typ] . xx . → 20:
+- [book-2/chapter-05.typ] x → 10
+- [book-2/chapter-05.typ] Tit . iii . → Titus 3:
+- [book-2/chapter-05.typ] . v . → 5:
 - [book-2/chapter-05.typ] in → on
+- [book-2/chapter-05.typ] . i . → 1:
+- [book-2/chapter-05.typ] . i . → 1:
+- [book-3/chapter-01.typ] . xxvi . → 26:
+- [book-3/chapter-01.typ] . xxxi . → 31:
+- [book-3/chapter-01.typ] . viii . → 8:
 - [book-3/chapter-01.typ] when → that
 - [book-3/chapter-01.typ] I → 
 - [book-3/chapter-01.typ] be → he
 - [book-3/chapter-01.typ] the → 
 - [book-3/chapter-01.typ] should → shall
 - [book-3/chapter-01.typ] a → 
+- [book-3/chapter-01.typ] . iii . → 3:
+- [book-3/chapter-01.typ] . xii . → 12
+- [book-3/chapter-01.typ] . vii . → 7:
+- [book-3/chapter-01.typ] . x . → 10:
 - [book-3/chapter-01.typ] in → at
 - [book-3/chapter-01.typ] in → at
+- [book-3/chapter-01.typ] . lxxvi . → 76:
 - [book-3/chapter-01.typ] and his statutes → 
+- [book-3/chapter-01.typ] . cxlvii . → 147:
+- [book-3/chapter-01.typ] . x . → 10:
+- [book-3/chapter-01.typ] . ii . → 2:
 - [book-3/chapter-01.typ] lengthened → confirmed
 - [book-3/chapter-01.typ] up → in
 - [book-3/chapter-01.typ] Even so → Yea
 - [book-3/chapter-01.typ] for so → because
 - [book-3/chapter-01.typ] in thy sight → to thee
+- [book-3/chapter-01.typ] . xi . → 11:
+- [book-3/chapter-01.typ] xvi → 16
 - [book-3/chapter-01.typ] nations → men
+- [book-3/chapter-01.typ] xiv → 14
 - [book-3/chapter-01.typ] but → at
 - [book-3/chapter-01.typ] for → for a
 - [book-3/chapter-01.typ] their → your
 - [book-3/chapter-02.typ] him → them
 - [book-3/chapter-02.typ] or → to
+- [book-3/chapter-02.typ] Rev . i . → Revelation 1:
 - [book-3/chapter-02.typ] that → that hath
 - [book-3/chapter-02.typ] from our sins in → with
 - [book-3/chapter-02.typ] First → 
+- [book-3/chapter-02.typ] . ix . → 9:
+- [book-3/chapter-02.typ] x → 10
+- [book-3/chapter-02.typ] . ii . → 2:
 - [book-3/chapter-02.typ] The Lord → God
 - [book-3/chapter-02.typ] them that → who
+- [book-3/chapter-02.typ] . viii . → 8:
+- [book-3/chapter-02.typ] xi → 11
 - [book-3/chapter-02.typ] His → The
 - [book-3/chapter-02.typ] which → whom
+- [book-3/chapter-02.typ] . xxv . → 25:
+- [book-3/chapter-02.typ] xiii → 13
+- [book-3/chapter-02.typ] . i . → 1:
+- [book-3/chapter-02.typ] xiii → 13
+- [book-3/chapter-02.typ] . viii . → 8:
 - [book-3/chapter-02.typ] did predestinate → predestinated
 - [book-3/chapter-02.typ] and → 
+- [book-3/chapter-02.typ] . v . → 5:
+- [book-3/chapter-02.typ] . ix . → 9:
 - [book-3/chapter-02.typ] yet → then
+- [book-3/chapter-02.typ] . ii . → 2:
+- [book-3/chapter-02.typ] . xxv . → 25:
+- [book-3/chapter-02.typ] . ix . → 9:
 - [book-3/chapter-02.typ] of → according to
-- [book-3/chapter-02.typ] Gal → 
-- [book-3/chapter-02.typ] iv → 
-- [book-3/chapter-02.typ] 28 → 
-- [book-3/chapter-02.typ] xv . 19 , → 
+- [book-3/chapter-02.typ] Tit . ii . → Titus 2:
+- [book-3/chapter-02.typ] Gal . iv . 28 → John 17:9, 10, passim
+- [book-3/chapter-02.typ] xv → 
+- [book-3/chapter-02.typ] 19 → 1
+- [book-3/chapter-02.typ] xvii → 
+- [book-3/chapter-02.typ] 9 → 
 - [book-3/chapter-02.typ] Col → 
 - [book-3/chapter-02.typ] i → 
 - [book-3/chapter-02.typ] 24 → 
-- [book-3/chapter-02.typ] 52 → 51
+- [book-3/chapter-02.typ] John → 
+- [book-3/chapter-02.typ] xi → 
+- [book-3/chapter-02.typ] 52 → 
+- [book-3/chapter-02.typ] . ii . → 2:
+- [book-3/chapter-02.typ] . xvi . → 16:
 - [book-3/chapter-02.typ] evil → wrath
+- [book-3/chapter-02.typ] . xi . → 11:
 - [book-3/chapter-02.typ] , O Father , because → that
+- [book-3/chapter-02.typ] . ix . → 9:
+- [book-3/chapter-02.typ] Chap . viii . → Chapter 8:
 - [book-3/chapter-02.typ] the → 
 - [book-3/chapter-02.typ] he → he did
 - [book-3/chapter-02.typ] did → 
-- [book-3/chapter-02.typ] truth → life
-- [book-3/chapter-02.typ] life → resurrection
+- [book-3/chapter-02.typ] . i . → 1:
+- [book-3/chapter-02.typ] x → 10
+- [book-3/chapter-02.typ] xx → 20
+- [book-3/chapter-02.typ] . v . → 5:
+- [book-3/chapter-02.typ] . v . → 5:
+- [book-3/chapter-02.typ] xi → 11
+- [book-3/chapter-02.typ] . viii . → 8:
+- [book-3/chapter-02.typ] . ii . → 2:
+- [book-3/chapter-02.typ] the truth , → 
+- [book-3/chapter-02.typ] xiv → 14
+- [book-3/chapter-02.typ] . i . → 1:
+- [book-3/chapter-02.typ] . v . → 5:
+- [book-3/chapter-03.typ] . v . → 5:
+- [book-3/chapter-03.typ] . iii . → 3:
+- [book-3/chapter-03.typ] . v . → 5:
+- [book-3/chapter-03.typ] . vii . → 7:
+- [book-3/chapter-03.typ] . liii . → 53:
+- [book-3/chapter-03.typ] . v . → 5:
+- [book-3/chapter-03.typ] iii → 3
+- [book-3/chapter-03.typ] . ii . → 2:
+- [book-3/chapter-03.typ] . v . → 5:
 - [book-3/chapter-03.typ] nor → and
 - [book-3/chapter-03.typ] are → are not
 - [book-3/chapter-03.typ] not → 
+- [book-3/chapter-03.typ] . ix . → 9
 - [book-3/chapter-04.typ] is → are
+- [book-3/chapter-04.typ] xv → 15
+- [book-3/chapter-04.typ] . iii . → 3:
+- [book-3/chapter-04.typ] Tit . i . → Titus 1:
+- [book-3/chapter-04.typ] . ix . → 9:
 - [book-3/chapter-04.typ] of → 
 - [book-3/chapter-04.typ] your → the
 - [book-3/chapter-04.typ] a → 
+- [book-3/chapter-04.typ] . vi . → 6:
 - [book-3/chapter-04.typ] as → 
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . ix . → 9:
+- [book-3/chapter-04.typ] vii → 7
+- [book-3/chapter-04.typ] . ix . → 9:
+- [book-3/chapter-04.typ] . xxxi . → 31:
+- [book-3/chapter-04.typ] . viii . → 8:
 - [book-3/chapter-04.typ] a → the
+- [book-3/chapter-04.typ] . xxx . → 30:
+- [book-3/chapter-04.typ] . xxxvi . → 36:
+- [book-3/chapter-04.typ] . ix . → 9:
 - [book-3/chapter-04.typ] through → by
+- [book-3/chapter-04.typ] . i . → 1:
 - [book-3/chapter-04.typ] deliver → free
 - [book-3/chapter-04.typ] through → by
 - [book-3/chapter-04.typ] fear → reason
 - [book-3/chapter-04.typ] were → were obnoxious to bondage
 - [book-3/chapter-04.typ] lifetime subject to bondage → lives
+- [book-3/chapter-04.typ] . ii . → 2:
+- [book-3/chapter-04.typ] Tit . ii . → Titus 2:
+- [book-3/chapter-04.typ] . v . → 5:
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . iii . → 3:
 - [book-3/chapter-04.typ] and → ,
 - [book-3/chapter-04.typ] which → 
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . liii . → 53:
+- [book-3/chapter-04.typ] xvi → 16
 - [book-3/chapter-04.typ] Such → This
 - [book-3/chapter-04.typ] First , → 
 - [book-3/chapter-04.typ] they → 
+- [book-3/chapter-04.typ] . iii . → 3:
+- [book-3/chapter-04.typ] . iii . → 3:
+- [book-3/chapter-04.typ] Tit . i . → Titus 1:
 - [book-3/chapter-04.typ] our → their
+- [book-3/chapter-04.typ] . xxxi . → 31:
+- [book-3/chapter-04.typ] . xxxvi . → 36:
+- [book-3/chapter-04.typ] . viii . → 8:
 - [book-3/chapter-04.typ] the → 
+- [book-3/chapter-04.typ] . ii . → 2:
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . viii . → 8:
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . iv . → 4:
+- [book-3/chapter-04.typ] xiii → 13
 - [book-3/chapter-04.typ] hath → 
 - [book-3/chapter-04.typ] and → when
 - [book-3/chapter-04.typ] were → are
 - [book-3/chapter-04.typ] blinded → hardened
+- [book-3/chapter-04.typ] . xi . → 11:
+- [book-3/chapter-04.typ] . iii . → 3:
+- [book-3/chapter-04.typ] . xxxi . → 31:
+- [book-3/chapter-04.typ] . viii . → 8:
+- [book-3/chapter-04.typ] . xxxvi . → 36:
+- [book-3/chapter-04.typ] . xi . → 11:
+- [book-3/chapter-04.typ] xvi → 16
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . ix . → 9:
+- [book-3/chapter-04.typ] vii → 7
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . i . → 1:
+- [book-3/chapter-04.typ] . xii . → 12:
 - [book-3/chapter-04.typ] namely , → 
+- [book-3/chapter-04.typ] . x . → 10:
+- [book-3/chapter-04.typ] . iv . → 4:
+- [book-3/chapter-04.typ] . iv . → 4:
+- [book-3/chapter-04.typ] . xii . → 12:
+- [book-3/chapter-04.typ] . ii . → 2:
+- [book-3/chapter-04.typ] . viii . → 8:
+- [book-3/chapter-04.typ] i → 1
+- [book-3/chapter-04.typ] . ix . → 9
 - [book-3/chapter-05.typ] the → 
+- [book-3/chapter-05.typ] . xx . → 20:
+- [book-3/chapter-05.typ] . ii . → 2:
+- [book-3/chapter-05.typ] . i . → 1:
+- [book-3/chapter-05.typ] . iii . → 3:
 - [book-3/chapter-05.typ] in → in Jesus
 - [book-3/chapter-05.typ] Jesus → 
+- [book-3/chapter-05.typ] . iii . → 3:
 - [book-3/chapter-05.typ] whom → him
+- [book-3/chapter-05.typ] . i . → 1:
+- [book-3/chapter-05.typ] . i . → 1:
+- [book-3/chapter-05.typ] . iii . → 3:
+- [book-3/chapter-05.typ] vi → 6
+- [book-3/chapter-05.typ] . x . → 10:
+- [book-3/chapter-05.typ] . ii . → 2:
 - [book-3/chapter-05.typ] As → That as
+- [book-3/chapter-05.typ] . ii . → 2:
+- [book-3/chapter-05.typ] . ii . → 2:
 - [book-3/chapter-05.typ] some → some other
 - [book-3/chapter-05.typ] other → 
+- [book-3/chapter-05.typ] . ix . → 9:
+- [book-3/chapter-05.typ] . i . → 1:
+- [book-3/chapter-05.typ] . xx . → 20:
+- [book-3/chapter-05.typ] x → 10
+- [book-3/chapter-05.typ] . ii . → 2:
 - [book-3/chapter-05.typ] by → for
+- [book-3/chapter-06.typ] . i . → 1:
 - [book-3/chapter-06.typ] the → 
+- [book-3/chapter-06.typ] . i . → 1:
+- [book-3/chapter-06.typ] . v . → 5:
+- [book-3/chapter-06.typ] . ii . → 2:
+- [book-3/chapter-06.typ] iii → 3
+- [book-3/chapter-06.typ] . v . → 5:
 - [book-3/chapter-06.typ] being → 
+- [book-3/chapter-06.typ] . i . → 1:
+- [book-3/chapter-06.typ] . v . → 5:
+- [book-3/chapter-06.typ] . ii . → 2:
+- [book-3/chapter-06.typ] . v . → 5:
 - [book-3/chapter-06.typ] you → ye
+- [book-3/chapter-06.typ] . i . → 1:
+- [book-3/chapter-06.typ] iii → 3
+- [book-3/chapter-06.typ] . ii . → 2:
+- [book-3/chapter-06.typ] . ii . → 2:
+- [book-3/chapter-06.typ] . v . → 5:
+- [book-3/chapter-06.typ] . iv . → 4:
+- [book-3/chapter-07.typ] Numb . xxxv . → Num 35:
+- [book-3/chapter-07.typ] . xviii . → 18:
+- [book-3/chapter-07.typ] . vi . → 6:
 - [book-3/chapter-07.typ] thou shalt surely die , → 
+- [book-3/chapter-07.typ] . ii . → 2:
+- [book-3/chapter-07.typ] . vi . → 6:
+- [book-3/chapter-07.typ] . iii . → 3:
+- [book-3/chapter-07.typ] . xxvii . → 27:
+- [book-3/chapter-07.typ] . i . → 1:
+- [book-3/chapter-07.typ] . iii . → 3:
+- [book-3/chapter-07.typ] . iii . → 3:
 - [book-3/chapter-07.typ] but → 
 - [book-3/chapter-07.typ] has → hath
+- [book-3/chapter-07.typ] . ii . → 2:
+- [book-3/chapter-07.typ] . liii . → 53:
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] . liii . → 53:
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] . ix . → 9:
 - [book-3/chapter-07.typ] Hebrew → 
+- [book-3/chapter-07.typ] . liii . → 53:
+- [book-3/chapter-07.typ] . vii . → 7:
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] ii → 2
+- [book-3/chapter-07.typ] . xxxi . → 31:
+- [book-3/chapter-07.typ] xix → 19
 - [book-3/chapter-07.typ] by → by his
+- [book-3/chapter-07.typ] iii → 3
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] iv → 4
+- [book-3/chapter-07.typ] . iii . → 3:
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] . viii . → 8:
 - [book-3/chapter-07.typ] which → that
+- [book-3/chapter-07.typ] . iii . → 3:
+- [book-3/chapter-07.typ] . x . → 10:
+- [book-3/chapter-07.typ] . v . → 5:
+- [book-3/chapter-07.typ] . iii . → 3:
 - [book-3/chapter-07.typ] same → 
 - [book-3/chapter-07.typ] mine → my
+- [book-3/chapter-07.typ] . i . → 1:
+- [book-3/chapter-07.typ] . xviii . → 18:
+- [book-3/chapter-07.typ] . vi . → 6:
+- [book-3/chapter-07.typ] iv → 4
+- [book-3/chapter-07.typ] . vi . → 6:
+- [book-3/chapter-07.typ] . x . → 10:
+- [book-3/chapter-07.typ] vi → 6
+- [book-3/chapter-07.typ] . xvi . → 16:
 - [book-3/chapter-07.typ] First → 
+- [book-3/chapter-07.typ] . viii . → 8:
+- [book-3/chapter-07.typ] i → 1
+- [book-3/chapter-07.typ] . iii . → 3:
+- [book-3/chapter-07.typ] . viii . → 8:
+- [book-3/chapter-07.typ] . viii . → 8:
 - [book-3/chapter-08.typ] but → and
+- [book-3/chapter-08.typ] . ix . → 9:
+- [book-3/chapter-08.typ] xiii → 13
+- [book-3/chapter-08.typ] . xi . → 11:
+- [book-3/chapter-08.typ] . ix . → 9:
+- [book-3/chapter-08.typ] . ii . → 2:
 - [book-3/chapter-08.typ] which → that
+- [book-3/chapter-08.typ] . v . → 5:
 - [book-3/chapter-08.typ] ungodly → ungodly” man
+- [book-3/chapter-08.typ] . iv . → 4:
 - [book-3/chapter-08.typ] Jesus → 
+- [book-3/chapter-08.typ] iii → 3
+- [book-3/chapter-08.typ] . iii . → 3:
 - [book-3/chapter-08.typ] both → that
 - [book-3/chapter-08.typ] that they → 
 - [book-3/chapter-08.typ] are → is
+- [book-3/chapter-08.typ] . iii . → 3:
 - [book-3/chapter-08.typ] to → 
 - [book-3/chapter-08.typ] and → or
 - [book-3/chapter-08.typ] didst → hast
+- [book-3/chapter-08.typ] . iv . → 4:
 - [book-3/chapter-08.typ] even → as well
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . xxviii . → 28:
+- [book-3/chapter-08.typ] Tit . i . → Titus 1:
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . iii . → 3:
+- [book-3/chapter-08.typ] . iii . → 3:
+- [book-3/chapter-08.typ] . vi . → 6:
+- [book-3/chapter-08.typ] . xi . → 11:
+- [book-3/chapter-08.typ] . vii . → 7:
 - [book-3/chapter-08.typ] not → 
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . ii . → 2:
+- [book-3/chapter-08.typ] . iii . → 3:
+- [book-3/chapter-08.typ] . iii . → 3:
+- [book-3/chapter-08.typ] . v . → 5:
+- [book-3/chapter-08.typ] . i . → 1:
 - [book-3/chapter-08.typ] that → 
 - [book-3/chapter-08.typ] ye → 
+- [book-3/chapter-08.typ] . vi . → 6:
 - [book-3/chapter-08.typ] its → us
+- [book-3/chapter-08.typ] iii → 3
 - [book-3/chapter-08.typ] it → 
+- [book-3/chapter-09.typ] i → 1
+- [book-3/chapter-09.typ] . ii . → 2:
 - [book-3/chapter-09.typ] Ὁς → Ὃς
+- [book-3/chapter-09.typ] . liii . → 53:
 - [book-3/chapter-09.typ] He → Their iniquities he
 - [book-3/chapter-09.typ] their iniquities → 
+- [book-3/chapter-09.typ] . liii . → 53:
+- [book-3/chapter-09.typ] . v . → 5:
 - [book-3/chapter-09.typ] hath → 
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] . v . → 5:
+- [book-3/chapter-09.typ] . xxvii . → 27:
 - [book-3/chapter-09.typ] tasted → tasted of
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] . viii . → 8:
+- [book-3/chapter-09.typ] . iii . → 3:
+- [book-3/chapter-09.typ] . liii . → 53:
+- [book-3/chapter-09.typ] . viii . → 8:
+- [book-3/chapter-09.typ] . xx . → 20:
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] . iii . → 3:
 - [book-3/chapter-09.typ] suffered → died
+- [book-3/chapter-09.typ] . lxix . → 69:
 - [book-3/chapter-09.typ] took → did
 - [book-3/chapter-09.typ] away → take
+- [book-3/chapter-09.typ] . viii . → 8:
+- [book-3/chapter-09.typ] . xx . → 20:
+- [book-3/chapter-09.typ] x → 10
+- [book-3/chapter-09.typ] . ii . → 2:
 - [book-3/chapter-09.typ] Jesus → 
+- [book-3/chapter-09.typ] . iii . → 3:
+- [book-3/chapter-09.typ] . vi . → 6:
+- [book-3/chapter-09.typ] xx → 20
+- [book-3/chapter-09.typ] . i . → 1:
+- [book-3/chapter-09.typ] iii → 3
 - [book-3/chapter-09.typ] us → us up
 - [book-3/chapter-09.typ] up → 
+- [book-3/chapter-09.typ] . iii . → 3:
+- [book-3/chapter-09.typ] . xviii . → 18:
 - [book-3/chapter-09.typ] , who is able to save → that can kill
 - [book-3/chapter-09.typ] to → make
 - [book-3/chapter-09.typ] destroy → alive
+- [book-3/chapter-09.typ] iv → 4
+- [book-3/chapter-09.typ] . v . → 5:
+- [book-3/chapter-09.typ] . liii . → 53:
+- [book-3/chapter-09.typ] . vii . → 7:
 - [book-3/chapter-09.typ] he → he never
 - [book-3/chapter-09.typ] not away → 
+- [book-3/chapter-09.typ] . lxix . → 69:
+- [book-3/chapter-09.typ] . iii . → 3:
+- [book-3/chapter-09.typ] . ii . → 2:
 - [book-3/chapter-09.typ] the → his
+- [book-3/chapter-09.typ] . v . → 5:
+- [book-3/chapter-09.typ] . viii . → 8:
+- [book-3/chapter-09.typ] . ix . → 9:
 - [book-3/chapter-09.typ] of → 
+- [book-3/chapter-09.typ] . x . → 10:
 - [book-3/chapter-09.typ] the → 
+- [book-3/chapter-09.typ] . i . → 1:
+- [book-3/chapter-09.typ] ii → 2
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] iii → 3
+- [book-3/chapter-09.typ] . v . → 5:
+- [book-3/chapter-09.typ] . liii . → 53:
+- [book-3/chapter-09.typ] . ii . → 2:
+- [book-3/chapter-09.typ] . xxix . → 29:
+- [book-3/chapter-09.typ] . iii . → 3:
 - [book-3/chapter-09.typ] who → which
+- [book-3/chapter-09.typ] . vii . → 7:
+- [book-3/chapter-09.typ] . xx . → 20:
+- [book-3/chapter-09.typ] . v . → 5:
+- [book-3/chapter-09.typ] xxii → 22
+- [book-3/chapter-09.typ] xiv → 14
+- [book-3/chapter-09.typ] . xxvii . → 27:
+- [book-3/chapter-09.typ] xxvi → 26
 - [book-3/chapter-09.typ] the → 
 - [book-3/chapter-09.typ] has → is
 - [book-3/chapter-09.typ] in → on
+- [book-3/chapter-09.typ] . v . → 5:
 - [book-3/chapter-09.typ] blemish → spot
 - [book-3/chapter-09.typ] spot → blemish
+- [book-3/chapter-09.typ] . liii . → 53:
 - [book-3/chapter-09.typ] stricken → smitten
+- [book-3/chapter-09.typ] . liii . → 53:
+- [book-3/chapter-09.typ] . ix . → 9:
+- [book-3/chapter-09.typ] . v . → 5:
 - [book-3/chapter-09.typ] If a soul hear the voice of → He that heareth
 - [book-3/chapter-09.typ] , if he do → and doth
 - [book-3/chapter-09.typ] utter → reveal
 - [book-3/chapter-09.typ] then he → 
+- [book-3/chapter-10.typ] . xiii . → 13:
+- [book-3/chapter-10.typ] . liii . → 53:
+- [book-3/chapter-10.typ] . ix . → 9:
+- [book-3/chapter-10.typ] xx → 20
+- [book-3/chapter-10.typ] . v . → 5:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . ii . → 2:
 - [book-3/chapter-10.typ] is → 
 - [book-3/chapter-10.typ] reward → reward is reckoned
 - [book-3/chapter-10.typ] reckoned → 
+- [book-3/chapter-10.typ] . iv . → 4:
+- [book-3/chapter-10.typ] i → 1
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . ii . → 2:
+- [book-3/chapter-10.typ] iii → 3
+- [book-3/chapter-10.typ] . iii . → 3:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . xiv . → 14:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . v . → 5:
+- [book-3/chapter-10.typ] . ii . → 2:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . iii . → 3:
+- [book-3/chapter-10.typ] ii → 2
+- [book-3/chapter-10.typ] . ii . → 2:
+- [book-3/chapter-10.typ] . i . → 1:
 - [book-3/chapter-10.typ] were → was
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] . xliv . → 44:
+- [book-3/chapter-10.typ] . vii . → 7:
+- [book-3/chapter-10.typ] . xviii . → 18:
+- [book-3/chapter-10.typ] . v . → 5:
+- [book-3/chapter-10.typ] . ii . → 2:
 - [book-3/chapter-10.typ] no → no great
+- [book-3/chapter-10.typ] . ix . → 9:
+- [book-3/chapter-10.typ] . v . → 5:
+- [book-3/chapter-10.typ] . i . → 1:
+- [book-3/chapter-10.typ] xi → 11
+- [book-3/chapter-10.typ] . v . → 5:
+- [book-3/chapter-10.typ] . xii . → 12:
+- [book-3/chapter-10.typ] . ii . → 2:
+- [book-3/chapter-10.typ] . xx . → 20:
+- [book-3/chapter-10.typ] x → 10
+- [book-3/chapter-10.typ] . vii . → 7:
+- [book-3/chapter-10.typ] . ii . → 2:
+- [book-3/chapter-11.typ] . iii . → 3:
 - [book-3/chapter-11.typ] the → 
 - [book-3/chapter-11.typ] and → 
+- [book-3/chapter-11.typ] . iii . → 3:
+- [book-3/chapter-11.typ] xxiii → 23
 - [book-3/chapter-11.typ] the lusts of your father → his works
+- [book-3/chapter-11.typ] viii → 8
+- [book-3/chapter-11.typ] xiii → 13
+- [book-3/chapter-11.typ] iii → 3
 - [book-3/chapter-11.typ] promised → promised him
 - [book-3/chapter-11.typ] him → ,
 - [book-3/chapter-11.typ] be → he
+- [book-3/chapter-11.typ] . vii . → 7:
 - [book-3/chapter-11.typ] will → 
 - [book-3/chapter-11.typ] them → you
+- [book-3/chapter-11.typ] x → 10
+- [book-3/chapter-11.typ] . vi . → 6:
+- [book-3/chapter-11.typ] . xi . → 11:
+- [book-3/chapter-11.typ] x → 10
 - [book-3/chapter-11.typ] are → here
 - [book-3/chapter-11.typ] be → he
 - [book-3/chapter-11.typ] My → 
 - [book-3/chapter-11.typ] me → to him
+- [book-3/chapter-11.typ] xvii → 17
 - [book-3/chapter-11.typ] all that → whatsoever
 - [book-3/chapter-11.typ] shall come to → cometh unto
+- [book-3/chapter-11.typ] vi → 6
+- [book-3/chapter-11.typ] x → 10
+- [book-3/chapter-11.typ] . xx . → 20:
+- [book-3/chapter-11.typ] xi → 11
+- [book-3/chapter-11.typ] . viii . → 8:
 - [book-3/chapter-11.typ] for → with
 - [book-3/chapter-11.typ] can → shall
 - [book-3/chapter-11.typ] his → the
+- [book-3/chapter-11.typ] . vii . → 7:
+- [book-3/chapter-11.typ] . i . → 1:
+- [book-3/chapter-11.typ] . iv . → 4:
+- [book-3/chapter-11.typ] . v . → 5:
 - [book-3/chapter-11.typ] hath → 
 - [book-3/chapter-11.typ] be made → become
+- [book-3/chapter-11.typ] . liii . → 53:
+- [book-3/chapter-11.typ] xv → 15
 - [book-3/chapter-11.typ] no man → none
 - [book-3/chapter-11.typ] a man → he
+- [book-3/chapter-11.typ] xvii → 17
+- [book-3/chapter-11.typ] . v . → 5:
 - [book-3/chapter-11.typ] the → his
+- [book-3/chapter-11.typ] xx → 20
+- [book-4/chapter-01.typ note] Romans . → Rom
+- [book-4/chapter-01.typ] xx → 20
+- [book-4/chapter-01.typ] . ix . → 9:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] xiii → 13
+- [book-4/chapter-01.typ] . xxviii . → 28:
+- [book-4/chapter-01.typ] xvi → 16
 - [book-4/chapter-01.typ] in → 
+- [book-4/chapter-01.typ] . xxix . → 29:
 - [book-4/chapter-01.typ] of → at
 - [book-4/chapter-01.typ] at → 
 - [book-4/chapter-01.typ] nor → ,
+- [book-4/chapter-01.typ] . iii . → 3:
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] . i . → 1:
 - [book-4/chapter-01.typ] to → 
 - [book-4/chapter-01.typ] first , → 
 - [book-4/chapter-01.typ] to → 
 - [book-4/chapter-01.typ] and → 
+- [book-4/chapter-01.typ] . v . → 5:
+- [book-4/chapter-01.typ] . xxviii . → 28:
+- [book-4/chapter-01.typ] xi → 11
+- [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] they → 
 - [book-4/chapter-01.typ] raising → stirring
+- [book-4/chapter-01.typ] xiii → 13
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] . xxviii . → 28:
+- [book-4/chapter-01.typ] xvi → 16
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] xi → 11
 - [book-4/chapter-01.typ] , and → 
+- [book-4/chapter-01.typ] . iii . → 3:
+- [book-4/chapter-01.typ] xi → 11
+- [book-4/chapter-01.typ] ii → 2
 - [book-4/chapter-01.typ] the → 
+- [book-4/chapter-01.typ] xxxiv → 34
+- [book-4/chapter-01.typ] xvii → 17
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . xc . → 90:
+- [book-4/chapter-01.typ] . xxiv . → 24:
+- [book-4/chapter-01.typ] . xiii . → 13:
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . iii . → 3:
+- [book-4/chapter-01.typ] vii → 7
+- [book-4/chapter-01.typ] . xiii . → 13:
+- [book-4/chapter-01.typ] . xviii . → 18:
+- [book-4/chapter-01.typ] iv → 4
+- [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] . xiii . → 13:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . xxiv . → 24:
+- [book-4/chapter-01.typ] . x . → 10:
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] . xxii . → 22:
+- [book-4/chapter-01.typ] iii → 3
+- [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] . v . → 5:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] . xiii . → 13:
+- [book-4/chapter-01.typ] vii → 7
+- [book-4/chapter-01.typ] . vi . → 6:
+- [book-4/chapter-01.typ] . xi . → 11:
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] v → 5
+- [book-4/chapter-01.typ] . xiii . → 13:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] . vii . → 7:
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] . xii . → 12:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . lxxiii . → 73:
+- [book-4/chapter-01.typ] xvi → 16
+- [book-4/chapter-01.typ] xviii → 18
+- [book-4/chapter-01.typ] iv → 4
+- [book-4/chapter-01.typ] vii → 7
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] . vi . → 6:
+- [book-4/chapter-01.typ] . viii . → 8:
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] iii → 3
 - [book-4/chapter-01.typ] as → 
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] iii → 3
 - [book-4/chapter-01.typ] there → there more
 - [book-4/chapter-01.typ] , more → 
+- [book-4/chapter-01.typ] i → 1
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] viii → 8
+- [book-4/chapter-01.typ] xii → 12
 - [book-4/chapter-01.typ] Behold , → Perceive ye not that
+- [book-4/chapter-01.typ] v → 5
+- [book-4/chapter-01.typ] Rev . xiii . → Revelation 13:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . xviii . → 18:
+- [book-4/chapter-01.typ] . cxviii . → 118:
+- [book-4/chapter-01.typ] Chron . xiv . → Chr 14:
+- [book-4/chapter-01.typ] . xxvii . → 27:
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] xii → 12
+- [book-4/chapter-01.typ] vi → 6
+- [book-4/chapter-01.typ] Rev . v . → Revelation 5:
 - [book-4/chapter-01.typ] and → 
+- [book-4/chapter-01.typ] xi → 11
+- [book-4/chapter-01.typ] xviii → 18
 - [book-4/chapter-01.typ] possess → have
+- [book-4/chapter-01.typ] ii → 2
+- [book-4/chapter-01.typ] x → 10
+- [book-4/chapter-01.typ] . xiv . → 14:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . ii . → 2:
 - [book-4/chapter-01.typ] will → would
+- [book-4/chapter-01.typ] . ix . → 9:
 - [book-4/chapter-01.typ] need → 
+- [book-4/chapter-01.typ] . xv . → 15:
+- [book-4/chapter-01.typ] . iv . → 4:
+- [book-4/chapter-01.typ] . v . → 5:
 - [book-4/chapter-01.typ] to → to the
+- [book-4/chapter-01.typ] . xxxi . → 31:
+- [book-4/chapter-01.typ] . viii . → 8:
+- [book-4/chapter-01.typ] xii → 12
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] . xxvii . → 27:
+- [book-4/chapter-01.typ] Chron . xxviii . → Chr 28:
+- [book-4/chapter-01.typ] v → 5
 - [book-4/chapter-01.typ] Pet → Epist
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] . ii . → 2:
+- [book-4/chapter-01.typ] . i . → 1:
+- [book-4/chapter-01.typ] xvi → 16
+- [book-4/chapter-01.typ] v → 5
+- [book-4/chapter-01.typ] viii → 8
 - [book-4/chapter-01.typ] to → at
 - [book-4/chapter-01.typ] us → of
 - [book-4/chapter-01.typ] though → though that
+- [book-4/chapter-01.typ] . i . → 1
+- [book-4/chapter-01.typ] . ix . → 9
 - [book-4/chapter-01.typ] the → 
 - [book-4/chapter-01.typ] he → it
 - [book-4/chapter-02.typ] you → ye
 - [book-4/chapter-02.typ] you → ye
 - [book-4/chapter-02.typ] prove → try
+- [book-4/chapter-02.typ] iii → 3
+- [book-4/chapter-02.typ] vi → 6
+- [book-4/chapter-02.typ] ii → 2
+- [book-4/chapter-02.typ] i → 1
+- [book-4/chapter-02.typ] . v . → 5:
 - [book-4/chapter-02.typ] do → do or no
+- [book-4/chapter-02.typ] iii → 3
 - [book-4/chapter-02.typ] gave → sent
 - [book-4/chapter-02.typ] in → on
 - [book-4/chapter-02.typ] gave → sent
@@ -435,196 +1343,709 @@
 - [book-4/chapter-02.typ] ’ → 
 - [book-4/chapter-02.typ] say → 
 - [book-4/chapter-02.typ] delivered → gave
+- [book-4/chapter-02.typ] . viii . → 8:
+- [book-4/chapter-02.typ] . v . → 5:
+- [book-4/chapter-02.typ] iv → 4
+- [book-4/chapter-02.typ] . viii . → 8:
 - [book-4/chapter-02.typ] own → 
 - [book-4/chapter-02.typ] delivered → gave
 - [book-4/chapter-02.typ] up → up for death
 - [book-4/chapter-02.typ] with → in
 - [book-4/chapter-02.typ] also freely → 
+- [book-4/chapter-02.typ] . ix . → 9:
 - [book-4/chapter-02.typ] as → 
 - [book-4/chapter-02.typ] in → on
+- [book-4/chapter-02.typ] iv → 4
+- [book-4/chapter-02.typ] vi → 6
+- [book-4/chapter-02.typ] x → 10
+- [book-4/chapter-02.typ] . iv . → 4:
 - [book-4/chapter-02.typ] be → be the
+- [book-4/chapter-02.typ] . xi . → 11:
+- [book-4/chapter-02.typ] . i . → 1:
 - [book-4/chapter-02.typ] imputing → imputing to them
 - [book-4/chapter-02.typ] unto them → 
+- [book-4/chapter-02.typ] . v . → 5:
+- [book-4/chapter-02.typ] . iv . → 4:
+- [book-4/chapter-02.typ] . ii . → 2:
+- [book-4/chapter-02.typ] Tit . iii . → Titus 3:
 - [book-4/chapter-02.typ] one → the
+- [book-4/chapter-02.typ] Rom . viii . → Romans 8:
+- [book-4/chapter-02.typ] Cor . iv . → Corinthians 4:
 - [book-4/chapter-02.typ] evidently → invincibly
+- [book-4/chapter-03.typ] ii → 2
 - [book-4/chapter-03.typ] the → a
+- [book-4/chapter-03.typ] . v . → 5:
 - [book-4/chapter-03.typ] heathen → Gentiles
+- [book-4/chapter-03.typ] . ii . → 2:
+- [book-4/chapter-03.typ] i → 1
+- [book-4/chapter-03.typ] . i . → 1:
 - [book-4/chapter-03.typ] the → this
 - [book-4/chapter-03.typ] I write an old → That
 - [book-4/chapter-03.typ] , which ye had from the beginning , … → 
+- [book-4/chapter-03.typ] i → 1
 - [book-4/chapter-03.typ] also → then
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] xi → 11
+- [book-4/chapter-03.typ] ii → 2
 - [book-4/chapter-03.typ] the → a
 - [book-4/chapter-03.typ] scattered abroad → throughout the world
+- [book-4/chapter-03.typ] xi → 11
 - [book-4/chapter-03.typ] the → a
+- [book-4/chapter-03.typ] iii → 3
+- [book-4/chapter-03.typ] ii → 2
+- [book-4/chapter-03.typ] iv → 4
+- [book-4/chapter-03.typ] . ii . → 2:
+- [book-4/chapter-03.typ] xviii → 18
+- [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] . ix . → 9:
+- [book-4/chapter-03.typ] . xxv . → 25:
+- [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] . xxxvi . → 36:
+- [book-4/chapter-03.typ] . xxiii . → 23:
+- [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] . ii . → 2:
+- [book-4/chapter-03.typ] xviii → 18
+- [book-4/chapter-03.typ] . xxvi . → 26:
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] . ix . → 9:
+- [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] i → 1
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] . viii . → 8:
+- [book-4/chapter-03.typ] . iii . → 3:
 - [book-4/chapter-03.typ] all → 
 - [book-4/chapter-03.typ] the → the whole
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] . i . → 1:
 - [book-4/chapter-03.typ] Your → Their
 - [book-4/chapter-03.typ] spoken of → declared
 - [book-4/chapter-03.typ] throughout → in
+- [book-4/chapter-03.typ] ii → 2
 - [book-4/chapter-03.typ] out → 
 - [book-4/chapter-03.typ] from → from Augustus
 - [book-4/chapter-03.typ] Augustus → 
 - [book-4/chapter-03.typ] all → 
 - [book-4/chapter-03.typ] the → the whole
+- [book-4/chapter-03.typ] . xcviii . → 98:
+- [book-4/chapter-03.typ] . xxii . → 22:
+- [book-4/chapter-03.typ] . lxxii . → 72:
+- [book-4/chapter-03.typ] ii → 2
+- [book-4/chapter-03.typ] ii → 2
+- [book-4/chapter-03.typ] . ii . → 2:
+- [book-4/chapter-03.typ] Tit . ii . → Titus 2:
+- [book-4/chapter-03.typ] . xii . → 12:
 - [book-4/chapter-03.typ] which → who
+- [book-4/chapter-03.typ] v → 5
 - [book-4/chapter-03.typ] wickedness → evil
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] Rom . iii . → Romans 3:
+- [book-4/chapter-03.typ] . iii . → 3:
 - [book-4/chapter-03.typ] round → 
+- [book-4/chapter-03.typ] . i . → 1:
+- [book-4/chapter-03.typ] xi → 11
+- [book-4/chapter-03.typ] xvii → 17
+- [book-4/chapter-03.typ] vi → 6
+- [book-4/chapter-03.typ] xiv . → 14
+- [book-4/chapter-03.typ] . v . → 5:
 - [book-4/chapter-03.typ] Jesus → 
+- [book-4/chapter-03.typ] . iv . → 4:
 - [book-4/chapter-03.typ] you → ye
+- [book-4/chapter-03.typ] i → 1
 - [book-4/chapter-03.typ] That → He
 - [book-4/chapter-03.typ] was → is
 - [book-4/chapter-03.typ] which → that
+- [book-4/chapter-03.typ] iii → 3
 - [book-4/chapter-03.typ] Light → The
 - [book-4/chapter-03.typ] is → light
+- [book-4/chapter-03.typ] xii → 12
 - [book-4/chapter-03.typ] come a → the
 - [book-4/chapter-03.typ] light → light which came
+- [book-4/chapter-03.typ] i → 1
+- [book-4/chapter-03.typ] . xxiv . → 24:
+- [book-4/chapter-03.typ] iii → 3
+- [book-4/chapter-03.typ] i → 1
+- [book-4/chapter-03.typ] ii → 2
+- [book-4/chapter-03.typ] iv → 4
+- [book-4/chapter-03.typ] iv → 4
+- [book-4/chapter-03.typ] vi → 6
+- [book-4/chapter-03.typ] xii → 12
+- [book-4/chapter-03.typ] iii → 3
+- [book-4/chapter-03.typ] ii → 2
 - [book-4/chapter-03.typ] Prove → Try
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . iii . → 3:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . xv . → 15:
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] iii → 3
+- [book-4/chapter-04.typ] . ix . → 9:
 - [book-4/chapter-04.typ] hath done → doth
 - [book-4/chapter-04.typ] hath pleased → pleaseth in heaven and earth
+- [book-4/chapter-04.typ] . cxv . → 115:
 - [book-4/chapter-04.typ] army → host
+- [book-4/chapter-04.typ] . iv . → 4:
+- [book-4/chapter-04.typ] xi → 11
+- [book-4/chapter-04.typ] . xxix . → 29:
 - [book-4/chapter-04.typ] judgments → laws
 - [book-4/chapter-04.typ] dealt → 
 - [book-4/chapter-04.typ] as → 
 - [book-4/chapter-04.typ] have → knew them
 - [book-4/chapter-04.typ] known them → 
+- [book-4/chapter-04.typ] . cxlvii . → 147:
 - [book-4/chapter-04.typ] all → the
 - [book-4/chapter-04.typ] nations → Gentiles
+- [book-4/chapter-04.typ] xiv → 14
+- [book-4/chapter-04.typ] xvii → 17
+- [book-4/chapter-04.typ] . i . → 1:
+- [book-4/chapter-04.typ] . xi . → 11:
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . iii . → 3:
+- [book-4/chapter-04.typ] i → 1
 - [book-4/chapter-04.typ] beloved → brethren
+- [book-4/chapter-04.typ] iii → 3
+- [book-4/chapter-04.typ] . xxiv . → 24:
 - [book-4/chapter-04.typ] they → 
+- [book-4/chapter-04.typ] i → 1
+- [book-4/chapter-04.typ] i → 1
+- [book-4/chapter-04.typ] ii → 2
+- [book-4/chapter-04.typ] Ezek . xviii . → Ezekiel 18:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . i . → 1:
+- [book-4/chapter-04.typ] . xii . → 12:
+- [book-4/chapter-04.typ] . v . → 5:
 - [book-4/chapter-04.typ] them → 
+- [book-4/chapter-04.typ] . iii . → 3:
+- [book-4/chapter-04.typ] . v . → 5:
 - [book-4/chapter-04.typ] for → 
+- [book-4/chapter-04.typ] . iv . → 4:
+- [book-4/chapter-04.typ] viii → 8
+- [book-4/chapter-04.typ] . vi . → 6:
 - [book-4/chapter-04.typ] all → we
+- [book-4/chapter-04.typ] . xv . → 15:
 - [book-4/chapter-04.typ] all → all men
+- [book-4/chapter-04.typ] v → 5
+- [book-4/chapter-04.typ] vi → 6
 - [book-4/chapter-04.typ] quickeneth → maketh alive
+- [book-4/chapter-04.typ] . iv . → 4:
+- [book-4/chapter-04.typ] . v . → 5:
 - [book-4/chapter-04.typ] of → 
 - [book-4/chapter-04.typ] the → the free
 - [book-4/chapter-04.typ] life → one
 - [book-4/chapter-04.typ] one , Jesus → 
+- [book-4/chapter-04.typ] iii → 3
 - [book-4/chapter-04.typ] was → was for
+- [book-4/chapter-04.typ] viii . → 8
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . xiv . → 14:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . xv . → 15:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . v → 5
 - [book-4/chapter-04.typ] , then , → them
+- [book-4/chapter-04.typ] Heb . ii . → Hebrews 2:
+- [book-4/chapter-04.typ] xvii → 17
+- [book-4/chapter-04.typ] . ii . → 2:
 - [book-4/chapter-04.typ] to himself → 
 - [book-4/chapter-04.typ] church → church unto himself
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . iii . → 3:
+- [book-4/chapter-04.typ] . iv . → 4
+- [book-4/chapter-04.typ] . viii . → 8:
+- [book-4/chapter-04.typ] xvii → 17
+- [book-4/chapter-04.typ] . vii . → 7:
+- [book-4/chapter-04.typ] . liii . → 53:
+- [book-4/chapter-04.typ] . viii . → 8:
 - [book-4/chapter-04.typ] were → was
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] xvii → 17
+- [book-4/chapter-04.typ] . xx . → 20:
+- [book-4/chapter-04.typ] x → 10
+- [book-4/chapter-04.typ] . vi . → 6:
+- [book-4/chapter-04.typ] . liii . → 53:
+- [book-4/chapter-04.typ] x → 10
+- [book-4/chapter-04.typ] . xiii . → 13:
+- [book-4/chapter-04.typ] . i . → 1:
+- [book-4/chapter-04.typ] . ii . → 2:
+- [book-4/chapter-04.typ] xi → 11
+- [book-4/chapter-04.typ] xx → 20
+- [book-4/chapter-04.typ] . v . → 5:
+- [book-4/chapter-04.typ] . viii . → 8:
 - [book-4/chapter-05.typ] successors → 
+- [book-4/chapter-05.typ] Rom . xiv . → Romans 14:
+- [book-4/chapter-05.typ] Cor . viii . → Corinthians 8:
+- [book-4/chapter-05.typ] Pet . ii . → Peter 2:
+- [book-4/chapter-05.typ] Heb . x . → Hebrews 10:
+- [book-4/chapter-05.typ] . xiv . → 14:
 - [book-4/chapter-05.typ] now → then
+- [book-4/chapter-05.typ] . viii . → 8:
 - [book-4/chapter-05.typ] Christ → 
 - [book-4/chapter-05.typ] to be → 
+- [book-4/chapter-05.typ] . ii . → 2:
+- [book-4/chapter-05.typ] ii → 2
+- [book-4/chapter-05.typ] iv → 4
 - [book-4/chapter-05.typ] to → to the
+- [book-4/chapter-05.typ] . vii . → 7:
+- [book-4/chapter-05.typ] . xv . → 15:
+- [book-4/chapter-05.typ] . vi . → 6:
+- [book-4/chapter-05.typ] . v . → 5:
 - [book-4/chapter-05.typ] had → 
 - [book-4/chapter-05.typ] through → by
 - [book-4/chapter-05.typ] the → our
+- [book-4/chapter-05.typ] Chron . xxviii . → Chr 28:
+- [book-4/chapter-05.typ] . xiv . → 14:
+- [book-4/chapter-05.typ] . x . → 10:
 - [book-4/chapter-05.typ] hath → 
 - [book-4/chapter-05.typ] have trodden → trod
 - [book-4/chapter-05.typ] or → and
+- [book-4/chapter-05.typ] Numb . xv . → Num 15:
 - [book-4/chapter-05.typ] a much sorer punishment → 
 - [book-4/chapter-05.typ] do → 
 - [book-4/chapter-05.typ] to → 
+- [book-4/chapter-05.typ] vi → 6
+- [book-4/chapter-05.typ] xxvii → 27
 - [book-4/chapter-05.typ] in → to
+- [book-4/chapter-05.typ] . vi . → 6:
 - [book-4/chapter-05.typ] are → is
+- [book-4/chapter-05.typ] Chron . xxix . → Chr 29:
+- [book-4/chapter-05.typ] . xvi . → 16:
 - [book-4/chapter-05.typ] Thomas More → T. M.
+- [book-4/chapter-05.typ] xx → 20
+- [book-4/chapter-06.typ] . xxii . → 22:
+- [book-4/chapter-06.typ] . viii . → 8:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] vii . → 7
+- [book-4/chapter-06.typ] xx → 20
+- [book-4/chapter-06.typ] xxvi → 26
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] preached → granted
 - [book-4/chapter-06.typ] in → 
 - [book-4/chapter-06.typ] Those → Those for
+- [book-4/chapter-06.typ] . xxvi . → 26:
+- [book-4/chapter-06.typ] vi → 6
+- [book-4/chapter-06.typ] . xv . → 15:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] viii → 8
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] ii → 2
 - [book-4/chapter-06.typ] one → 
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] Tit . iii . → Titus 3:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] he → it
+- [book-4/chapter-06.typ] . xxvi . → 26:
+- [book-4/chapter-06.typ] Cor . xv . → Corinthians 15:
+- [book-4/chapter-06.typ] Heb . x . → Hebrews 10:
+- [book-4/chapter-06.typ] . iv . → 4:
 - [book-4/chapter-06.typ] , them → 
 - [book-4/chapter-06.typ] also → 
 - [book-4/chapter-06.typ] rather → more
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] wickedness → evil
+- [book-4/chapter-06.typ] v → 5
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] are → and
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] Tit . iii . → Titus 3:
+- [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] in → to
 - [book-4/chapter-06.typ] the → the two
 - [book-4/chapter-06.typ] two → 
+- [book-4/chapter-06.typ] . xii . → 12:
+- [book-4/chapter-06.typ] . xiv . → 14:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . xiv . → 14:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] and → and to
-- [book-4/chapter-06.typ] 2 → 1
+- [book-4/chapter-06.typ] Ps . xii . → Psalm 12:
+- [book-4/chapter-06.typ] of → of 1 Timothy
+- [book-4/chapter-06.typ] Tim . ii . → :
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xiv . → 14:
+- [book-4/chapter-06.typ] . xii . → 12:
 - [book-4/chapter-06.typ] as → ,
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] v → 5
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] iv → 4
 - [book-4/chapter-06.typ] the → the two
 - [book-4/chapter-06.typ] two → 
-- [book-4/chapter-06.typ] 2 → 
-- [book-4/chapter-06.typ] Cor → 
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] . xiv . → 14:
+- [book-4/chapter-06.typ] . lxxxvi . → 86:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] Cor → Timo
 - [book-4/chapter-06.typ] v → 
 - [book-4/chapter-06.typ] 10 → 
+- [book-4/chapter-06.typ] Tim . ii . → :
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xxii . → 22:
+- [book-4/chapter-06.typ] . xi . → 11:
+- [book-4/chapter-06.typ] vii . → 7
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] iv → 4
+- [book-4/chapter-06.typ] . xxii . → 22:
+- [book-4/chapter-06.typ] . xi . → 11:
+- [book-4/chapter-06.typ] iv → 4
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] iv → 4
+- [book-4/chapter-06.typ] i → 1
 - [book-4/chapter-06.typ] it → it not
+- [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] ix → 9
 - [book-4/chapter-06.typ] in → on
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] Tim . ii . → Timothy 2:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] vi → 6
+- [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xviii . → 18:
 - [book-4/chapter-06.typ] propitiation → propitiation made
 - [book-4/chapter-06.typ] made → 
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] xii → 12
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . xviii . → 18:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . xix . → 19:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] . vi . → 6:
+- [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . xix . → 19:
+- [book-4/chapter-06.typ] xiv → 14
 - [book-4/chapter-06.typ] by → by the
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] . cxlvii . → 147:
+- [book-4/chapter-06.typ] . xi . → 11:
+- [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] the Lord → God
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] xvi → 16
 - [book-4/chapter-06.typ] mean → mind
+- [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . xii . → 12:
+- [book-4/chapter-06.typ] ii → 2
 - [book-4/chapter-06.typ] he → it
 - [book-4/chapter-06.typ] He → It
 - [book-4/chapter-06.typ] he → it
 - [book-4/chapter-06.typ] He → It
 - [book-4/chapter-06.typ] this → the
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . xviii . → 18:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . vii . → 7:
+- [book-4/chapter-06.typ] Tim . ii . → Timothy 2:
+- [book-4/chapter-06.typ] Ezek . xviii . → Ezekiel 18:
 - [book-4/chapter-06.typ] at all → in the death of him
 - [book-4/chapter-06.typ] the wicked should die → dieth
 - [book-4/chapter-06.typ] no pleasure in → That he willeth not
 - [book-4/chapter-06.typ] him that dieth → the sinner
+- [book-4/chapter-06.typ] . cxlvii . → 147:
 - [book-4/chapter-06.typ] do → do the
+- [book-4/chapter-06.typ] . vi . → 6:
+- [book-4/chapter-06.typ] . xlvi . → 46:
+- [book-4/chapter-06.typ] . xxviii . → 28:
+- [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] xix → 19
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] x → 10
 - [book-4/chapter-06.typ] was → is
+- [book-4/chapter-06.typ] xix → 19
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . xxviii . → 28:
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . xlv . → 45:
+- [book-4/chapter-06.typ] xlix → 49
+- [book-4/chapter-06.typ] Isa . xlv . → Isaiah 45:
 - [book-4/chapter-06.typ] of → 
+- [book-4/chapter-06.typ] . xiii . → 13:
+- [book-4/chapter-06.typ] xiv → 14
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] nowhere → nowhere only
 - [book-4/chapter-06.typ] only → 
+- [book-4/chapter-06.typ] iii . → 3
 - [book-4/chapter-06.typ] is → are
+- [book-4/chapter-06.typ] xx → 20
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] Tit . ii . → Titus 2:
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] any → a
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] . xv . → 15:
+- [book-4/chapter-06.typ] viii → 8
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . xv . → 15:
 - [book-4/chapter-06.typ] them → them as
 - [book-4/chapter-06.typ] Christ → Christ all
 - [book-4/chapter-06.typ] all → 
+- [book-4/chapter-06.typ] . iii . → 3:
 - [book-4/chapter-06.typ] you → ye
 - [book-4/chapter-06.typ] for → 
+- [book-4/chapter-06.typ] . xxviii . → 28:
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . xliv . → 44:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . xxviii . → 28:
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] xvi → 16
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . x . → 10:
 - [book-4/chapter-06.typ] that preach it → 
 - [book-4/chapter-06.typ] all → all that preach it
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] vi → 6
+- [book-4/chapter-06.typ] x → 10
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . xliv . → 45:
+- [book-4/chapter-06.typ] . iv . → 4
+- [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] is → 
+- [book-4/chapter-06.typ] v → 5
+- [book-4/chapter-06.typ] xvii → 17
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . xxix . → 29:
+- [book-4/chapter-06.typ] viii → 8
+- [book-4/chapter-06.typ] . xxviii . → 28:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] x → 10
+- [book-4/chapter-06.typ] . liv . → 54:
+- [book-4/chapter-06.typ] . vi . → 6:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] xiii → 13
+- [book-4/chapter-06.typ] Tit . ii . → Titus 2:
+- [book-4/chapter-06.typ] Tit . ii . → Titus 2:
 - [book-4/chapter-06.typ] are → is
+- [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] and → 
+- [book-4/chapter-06.typ] xiii → 13
 - [book-4/chapter-06.typ] a → 
+- [book-4/chapter-06.typ] xlix → 49
+- [book-4/chapter-06.typ] xi → 11
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xvi . → 16:
+- [book-4/chapter-06.typ] . xiii . → 13:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] xiv → 14
 - [book-4/chapter-06.typ] being → being only
 - [book-4/chapter-06.typ] only → 
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] My → 
 - [book-4/chapter-06.typ] I → he
 - [book-4/chapter-06.typ] my → his
+- [book-4/chapter-06.typ] . xlvi . → 46:
+- [book-4/chapter-06.typ] . xxxiii . → 33:
+- [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] i → 1
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] ii → 2
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . xvi . → 16:
+- [book-4/chapter-06.typ] . xiii . → 13:
+- [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] except → unless
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] iii → 3
 - [book-4/chapter-06.typ] to the last of them → 
 - [book-4/chapter-06.typ] and → and between
 - [book-4/chapter-06.typ] Head → Head, to the last of them
 - [book-4/chapter-06.typ] and → 
 - [book-4/chapter-06.typ] except → unless
+- [book-4/chapter-06.typ] iii → 3
+- [book-4/chapter-06.typ] . vii . → 7:
+- [book-4/chapter-06.typ] . xxi . → 21:
 - [book-4/chapter-06.typ] that → 
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] to → for
+- [book-4/chapter-06.typ] . v . → 5:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . vi . → 6:
+- [book-4/chapter-06.typ] . xxiii . → 23:
+- [book-4/chapter-06.typ] . lxxxi . → 81:
 - [book-4/chapter-06.typ] ; I have stretched out my hand → 
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . i . → 1:
+- [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] the → his
+- [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] were → was
+- [book-4/chapter-06.typ] . cxlvii . → 147:
+- [book-4/chapter-06.typ] . ix . → 9:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . viii . → 8:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . x . → 10:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . viii . → 8:
+- [book-4/chapter-06.typ] . xiv . → 14:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] xii → 12
 - [book-4/chapter-06.typ] without → without the
 - [book-4/chapter-06.typ] without → without the
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] . ii . → 2:
+- [book-4/chapter-06.typ] Tit . i . → Titus 1:
+- [book-4/chapter-07.typ] . ii . → 2:
 - [book-4/chapter-07.typ] one → man
+- [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] . ii . → 2:
 - [book-4/chapter-07.typ] called → called to
 - [book-4/chapter-07.typ] the → 
 - [book-4/chapter-07.typ] none other → no
 - [book-4/chapter-07.typ] given among → whereby
 - [book-4/chapter-07.typ] , whereby we → 
 - [book-4/chapter-07.typ] us → them
+- [book-4/chapter-07.typ] iv → 4
 - [book-4/chapter-07.typ] and → 
 - [book-4/chapter-07.typ] your → their
 - [book-4/chapter-07.typ] their → that
 - [book-4/chapter-07.typ] them → them by name
-- [book-4/chapter-07.typ] is → is too
+- [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] . l . → 50:
+- [book-4/chapter-07.typ] v → 5
+- [book-4/chapter-07.typ] too → too too
+- [book-4/chapter-07.typ] . viii . → 8:
+- [book-4/chapter-07.typ] . ii . → 2:
+- [book-4/chapter-07.typ] . xi . → 11:
+- [book-4/chapter-07.typ] . lv . → 55:
+- [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] xx → 20
+- [book-4/chapter-07.typ] . v . → 5:
+- [book-4/chapter-07.typ] xvi → 16
+- [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] . v . → 5:
 - [book-4/chapter-07.typ] such → some
+- [book-4/chapter-07.typ] . ix . → 9:
+- [book-4/chapter-07.typ] . i . → 1:
+- [book-4/chapter-07.typ] . viii . → 8:
+- [book-4/chapter-07.typ] . viii . → 8:
+- [book-4/chapter-07.typ] x → 10
+- [book-4/chapter-07.typ] . v . → 5:
+- [book-4/chapter-07.typ] Tit . i . → Titus 1:
+- [book-4/chapter-07.typ] . i . → 1:
+- [book-4/chapter-07.typ] . v . → 5:
 - [book-4/chapter-07.typ] it → 
 - [book-4/chapter-07.typ] be → 
+- [book-4/chapter-07.typ] . vi . → 6:
+- [book-4/chapter-07.typ] . xl . → 40:
+- [book-4/chapter-07.typ] iii → 3
 - [book-4/chapter-07.typ] a → 
+- [book-4/chapter-07.typ] . v . → 5:
+- [book-4/chapter-07.typ] . xxiii . → 23:
+- [book-4/chapter-07.typ] . xiii . → 13:
 - [book-4/chapter-07.typ] ore → 
 - [book-4/chapter-07.typ] ’s → . his
 - [book-4/chapter-07.typ] of → )
 - [book-4/chapter-07.typ] there hence → therehence
 - [book-4/chapter-07.typ] one → one to
+- [book-4/chapter-07.typ] . viii . → 8:
+- [book-4/chapter-07.typ] ii → 2
+- [book-4/chapter-07.typ] . xv . → 15:
 - [book-4/chapter-07.typ] this → the
 - [book-4/chapter-07.typ] it → 
 - [book-4/chapter-07.typ] have → 
 - [book-4/chapter-07.typ] the → and
+- [book-4/chapter-07.typ] . i . → 1:
 - [book-4/chapter-07.typ] in → for
+- [book-4/chapter-07.typ] . viii . → 8:
 - [book-4/chapter-07.typ] are → 
+- [appendix-1-testimonies.typ] . ii . → 2:
 - [appendix-1-testimonies.typ] whom → which
 - [appendix-1-testimonies.typ] is → was
+- [appendix-1-testimonies.typ] . iv . → 4:
 - [appendix-1-testimonies.typ] works → works of
 - [appendix-1-testimonies.typ] not → 
 - [appendix-1-testimonies.typ] by → 
@@ -632,8 +2053,63 @@
 - [appendix-1-testimonies.typ] the → the whole
 - [appendix-1-testimonies.typ] When , therefore , our Saviour is said to be crucified for the redemption of the whole world , because of his true assumption of the human nature , yet → As — so
 - [appendix-1-testimonies.typ] to be → 
+- [appendix-2-sprigge.typ note] Cant . i . → Song 1:
+- [appendix-2-sprigge.typ] Rom . v . → Romans 5:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] iii → 3
 - [appendix-2-sprigge.typ] Though → If
+- [appendix-2-sprigge.typ] . i . → 1:
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . xxix . → 29:
+- [appendix-2-sprigge.typ] . vi . → 6:
+- [appendix-2-sprigge.typ] Numb . xvi . → Num 16:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . ix . → 9:
+- [appendix-2-sprigge.typ] i → 1
+- [appendix-2-sprigge.typ] . ix . → 9:
+- [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] 27 → 28
+- [appendix-2-sprigge.typ] . viii . → 8:
+- [appendix-2-sprigge.typ] . vii . → 7:
+- [appendix-2-sprigge.typ] . xxvi . → 26:
+- [appendix-2-sprigge.typ] x → 10
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] xxxiii → 33
+- [appendix-2-sprigge.typ] . xxi . → 21:
+- [appendix-2-sprigge.typ] i → 1
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] . liii . → 53:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . vii . → 7:
+- [appendix-2-sprigge.typ] . iii . → 3:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] xxii → 22
+- [appendix-2-sprigge.typ] . liii . → 53:
+- [appendix-2-sprigge.typ] . ix . → 9:
+- [appendix-2-sprigge.typ] xx → 20
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] i → 1
+- [appendix-2-sprigge.typ] . v . → 5:
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] Rom . v . → Romans 5:
+- [appendix-2-sprigge.typ] . iii . → 3:
+- [appendix-2-sprigge.typ] . iv . → 4:
+- [appendix-2-sprigge.typ] . i . → 1:
+- [appendix-2-sprigge.typ] . xix . → 19:
+- [appendix-2-sprigge.typ] . xxx . → 30:
+- [appendix-2-sprigge.typ] . viii . → 8:
+- [appendix-2-sprigge.typ] i → 1
+- [appendix-2-sprigge.typ] v → 5
+- [appendix-2-sprigge.typ] . i . → 1:
+- [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] . vi . → 6:
+- [appendix-2-sprigge.typ] . iii . → 3:
+- [appendix-2-sprigge.typ] . i . → 1:
 
 ## grammar
 
@@ -663,64 +2139,485 @@
 
 ## punctuation
 
+- [to-the-reader.typ] . → :
+- [to-the-reader.typ] . → :
+- [to-the-reader.typ] . → :
+- [book-1/chapter-01.typ] . → :
+- [book-1/chapter-01.typ] . → :
+- [book-1/chapter-01.typ] . → :
+- [book-1/chapter-02.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
 - [book-1/chapter-03.typ] . → 
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-03.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
 - [book-1/chapter-04.typ] , → , or
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
 - [book-1/chapter-04.typ] , → , even
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
 - [book-1/chapter-04.typ] “ → “For
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-04.typ] . → :
+- [book-1/chapter-05.typ] . → :
 - [book-1/chapter-05.typ] “ → 
+- [book-1/chapter-05.typ] . → :
+- [book-1/chapter-06.typ] . → :
+- [book-1/chapter-06.typ] . → :
+- [book-1/chapter-06.typ] . → :
+- [book-1/chapter-06.typ] . → :
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-07.typ] . → :
 - [book-1/chapter-07.typ] , → 
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-07.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
 - [book-1/chapter-08.typ] , → 
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-1/chapter-08.typ] . → :
+- [book-2/chapter-01.typ] . → :
 - [book-2/chapter-01.typ] , → 
 - [book-2/chapter-01.typ] , → , it
+- [book-2/chapter-02.typ] . → :
+- [book-2/chapter-02.typ] . → :
+- [book-2/chapter-02.typ] . → :
+- [book-2/chapter-02.typ] . → :
 - [book-2/chapter-02.typ] , → , as
 - [book-2/chapter-02.typ] , → .
+- [book-2/chapter-02.typ] . → :
+- [book-2/chapter-02.typ] . → :
+- [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] . → . Sixthly,
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] ” → ” that he
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] “ → did
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] . → . (
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
 - [book-2/chapter-03.typ] , → , (
 - [book-2/chapter-03.typ] , → , (
 - [book-2/chapter-03.typ] , → , (
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-03.typ] . → :
+- [book-2/chapter-04.typ note] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
+- [book-2/chapter-04.typ] . → :
 - [book-3/chapter-01.typ] , → , O
+- [book-3/chapter-01.typ] . → :
+- [book-3/chapter-01.typ] . → :
 - [book-3/chapter-02.typ] , → , then
 - [book-3/chapter-02.typ] , → 
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] . → :
 - [book-3/chapter-02.typ] ” → ” appointed to wrath,
 - [book-3/chapter-02.typ] . → 
+- [book-3/chapter-02.typ] , → 
 - [book-3/chapter-02.typ] . → 
 - [book-3/chapter-02.typ] ; → 
-- [book-3/chapter-02.typ] ; → 
-- [book-3/chapter-02.typ] . → , 10, passim
 - [book-3/chapter-02.typ] . → 
+- [book-3/chapter-02.typ] . → 
+- [book-3/chapter-02.typ] ; → 
+- [book-3/chapter-02.typ] . → 1:51
 - [book-3/chapter-02.typ] “ → “Father,
 - [book-3/chapter-02.typ] , → , O
-- [book-3/chapter-02.typ] , → , and
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-02.typ] , → , and the resurrection,
+- [book-3/chapter-02.typ] . → :
+- [book-3/chapter-03.typ] . → :
+- [book-3/chapter-04.typ] . → :
+- [book-3/chapter-04.typ] . → :
+- [book-3/chapter-04.typ] . → :
+- [book-3/chapter-04.typ] . → 
+- [book-3/chapter-04.typ] . → :
+- [book-3/chapter-04.typ] . → :
+- [book-3/chapter-04.typ] . → :
 - [book-3/chapter-05.typ] , → , even
+- [book-3/chapter-05.typ] . → :
+- [book-3/chapter-05.typ] . → :
+- [book-3/chapter-06.typ] . → :
+- [book-3/chapter-06.typ] . → :
+- [book-3/chapter-07.typ] . → :
+- [book-3/chapter-07.typ] . → :
+- [book-3/chapter-07.typ] . → :
+- [book-3/chapter-07.typ] . → :
+- [book-3/chapter-07.typ] . → :
+- [book-3/chapter-07.typ] . → :
 - [book-3/chapter-07.typ] , → 
+- [book-3/chapter-07.typ] . → :
 - [book-3/chapter-08.typ] , → 
+- [book-3/chapter-08.typ] . → :
 - [book-3/chapter-08.typ] ” → 
+- [book-3/chapter-08.typ] . → :
+- [book-3/chapter-08.typ] . → :
 - [book-3/chapter-09.typ note] , → , ipse bajulabit,
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-09.typ] . → :
+- [book-3/chapter-10.typ] . → :
+- [book-3/chapter-10.typ] . → :
+- [book-3/chapter-10.typ] . → :
+- [book-3/chapter-10.typ] . → :
+- [book-3/chapter-10.typ] . → :
+- [book-3/chapter-10.typ] . → :
 - [book-3/chapter-10.typ] , → , that
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
 - [book-3/chapter-11.typ] , → , O
+- [book-3/chapter-11.typ] . → :
 - [book-3/chapter-11.typ] , → , his
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-3/chapter-11.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] , → , that
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] ! → ?
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-02.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] . → :
 - [book-4/chapter-05.typ] ) → ) successors
+- [book-4/chapter-05.typ] . → :
+- [book-4/chapter-05.typ] . → :
 - [book-4/chapter-05.typ] ) → ) that much sorer punishment
+- [book-4/chapter-05.typ] . → :
+- [book-4/chapter-05.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , that
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → ,
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , that
-- [book-4/chapter-06.typ] . → 
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → thy
 - [book-4/chapter-06.typ] . → 
 - [book-4/chapter-06.typ] , → 
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , of
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , his
 - [book-4/chapter-06.typ] . → ; that
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] [ → 
 - [book-4/chapter-07.typ] ] → 
 - [book-4/chapter-07.typ] , → (
+- [book-4/chapter-07.typ] . → :
 - [appendix-1-testimonies.typ] ? → .
 - [appendix-1-testimonies.typ] , → 
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] , → –
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
 
 ## case
 
@@ -728,6 +2625,8 @@
 
 ## spelling
 
+- chap → ch (×73)
+- James → Jas (×6)
 - those → these (×6)
 - to → unto (×6)
 - men → man (×5)
@@ -750,6 +2649,7 @@
 - them → those (×2)
 - those → them (×2)
 - to → into (×2)
+- v → vv (×2)
 - voice → noise (×2)
 - word → words (×2)
 - Bible → Bibles
@@ -757,6 +2657,8 @@
 - Eighthly → Ninthly
 - Gentiles → Gentile
 - Jews → Jew
+- Kings → Kgs
+- Micah → Mic
 - Scriptures → Scripture
 - Sixthly → Seventhly
 - Those → These
@@ -869,7 +2771,6 @@
 - works → work
 - works → works.
 - world → word
-- xliv → xlv
 - yes → yea
 - Αβραὰμ → Ἀβραὰμ
 - Χρίστου → Χριστοῦ

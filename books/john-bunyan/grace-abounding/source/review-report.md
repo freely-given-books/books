@@ -2,18 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 357 |
-| spelling | 93 |
-| spacing | 79 |
+| emendation | 368 |
+| punctuation | 349 |
+| spacing | 97 |
+| spelling | 92 |
 | case | 60 |
-| punctuation | 51 |
 | grammar | 8 |
 | italic | 1 |
 | merge | 1 |
 
 ## emendation
 
+- [preface.typ] Sol . → Song
 - [preface.typ] own → 
+- [preface.typ] Ex . → Exod
 - [preface.typ] I → 1
 - [preface.typ] the → 
 - [preface.typ] 4 → 
@@ -116,7 +118,7 @@
 - [relation.typ] , saith my God → 
 - [relation.typ] the → 
 - [relation.typ] fool → soul
-- [relation.typ] II → 2
+- [relation.typ] II Cor . → 2 Corinthians
 - [relation.typ] also , → 
 - [relation.typ] then → 
 - [relation.typ] these → these words
@@ -223,6 +225,9 @@
 - [relation.typ] did → did it
 - [relation.typ] wishing → wishing of
 - [relation.typ] on me → 
+- [relation.typ] ver → vv
+- [relation.typ] ver → v
+- [relation.typ] ver → v
 - [relation.typ] for → 
 - [relation.typ] is → was
 - [relation.typ] and → 
@@ -234,6 +239,7 @@
 - [relation.typ] His → 
 - [relation.typ] of this : → 
 - [relation.typ] in → on
+- [relation.typ] Eph . → Ephesians
 - [relation.typ] to → in
 - [relation.typ] law → law by Him, died
 - [relation.typ] days → days he
@@ -254,9 +260,10 @@
 - [relation.typ] and → but
 - [relation.typ] soever → 
 - [relation.typ] beaten → held
+- [relation.typ] ver → v
 - [relation.typ] had → had a
 - [relation.typ] in → in an
-- [relation.typ] faithfulness → faithfulness (2 Sam. 3.28)
+- [relation.typ] faithfulness → faithfulness (2 Sam 3:28)
 - [relation.typ] that → that blessed
 - [relation.typ] 8 → 28
 - [relation.typ] to → do
@@ -268,11 +275,12 @@
 - [relation.typ] it → they
 - [relation.typ] which → that
 - [relation.typ] he → he has
+- [relation.typ] Tit . → Titus
 - [relation.typ] II → 2
+- [relation.typ] ver → vv
 - [relation.typ] 4 → 24
 - [relation.typ] that → the
 - [relation.typ] of → to the Hebrews
-- [relation.typ] Hebrews → Heb.
 - [relation.typ] 4 → 24
 - [relation.typ] in → for
 - [call-to-the-ministry.typ] which → which also
@@ -309,49 +317,50 @@
 - [imprisonment.typ] you → you, in
 - [imprisonment.typ] were → are
 - [imprisonment.typ] seen → seen Him
-- [imprisonment.typ] i → 1.
-- [imprisonment.typ] God → God (1 Pet. 1.21)
+- [imprisonment.typ] i → :
+- [imprisonment.typ] God → God (1 Pet 1:21)
 - [imprisonment.typ] the → 
 - [imprisonment.typ] xiv → 14
-- [imprisonment.typ] John xvi → 16
-- [imprisonment.typ] iii → . 3
-- [imprisonment.typ] xii → 12
-- [imprisonment.typ] rider → rider (Job 39.18)
+- [imprisonment.typ] John xvi . → 16:
+- [imprisonment.typ] iii → 3
+- [imprisonment.typ] . xii . → 12:
+- [imprisonment.typ] rider → rider (Job 39:18)
 - [imprisonment.typ] to → 
-- [imprisonment.typ] xii → 12.
+- [imprisonment.typ] xii → :
 - [imprisonment.typ] glory , ” → glory’ (
-- [imprisonment.typ] i → 1
-- [imprisonment.typ] vii → 7.
-- [imprisonment.typ] i → 1
+- [imprisonment.typ] . i . → 1:
+- [imprisonment.typ] vii → :
+- [imprisonment.typ] . i . → 1:
 - [imprisonment.typ] to → to endure, should my imprisonment be long and tedious; the second was, how to be able to
 - [imprisonment.typ] be → be here
-- [imprisonment.typ] i → 1.
+- [imprisonment.typ] i → :
 - [imprisonment.typ] have → have all
 - [imprisonment.typ] dead , ” → dead’ (
-- [imprisonment.typ] i → 1
+- [imprisonment.typ] . i . → 1:
 - [imprisonment.typ] every thing → everything
-- [imprisonment.typ] them → them. ‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt. 10.37)
+- [imprisonment.typ] them → them. ‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt 10:37)
 - [imprisonment.typ] on → at
 - [imprisonment.typ] which → that
 - [imprisonment.typ] which → that
 - [imprisonment.typ] which → that
 - [imprisonment.typ] which → that
 - [imprisonment.typ] eternal , ” → eternal’ (
-- [imprisonment.typ] iv → 4
+- [imprisonment.typ] . iv . → 4:
 - [imprisonment.typ] beside → I had besides
-- [imprisonment.typ] vi → 6
-- [imprisonment.typ] 10 → 10-12)
+- [imprisonment.typ] . vi . → 6:
+- [imprisonment.typ] 10 → 10–12)
 - [imprisonment.typ] evil , ” → evil’ (
-- [imprisonment.typ] xlix → 49
+- [imprisonment.typ] . xlix . → 49:
 - [imprisonment.typ] xv → 15
 - [imprisonment.typ] should → should now
 - [imprisonment.typ] in → and
 - [imprisonment.typ] and → and was
 - [imprisonment.typ] flaw → flesh
 - [imprisonment.typ] in → in all
-- [imprisonment.typ] , Psalm eix → (Ps. 109
+- [imprisonment.typ] Psalm → Ps
+- [imprisonment.typ] eix → 109
 - [imprisonment.typ] have → has
-- [imprisonment.typ] xi → 11
+- [imprisonment.typ] . xi . → 11:
 - [imprisonment.typ] me , ” → me’ (
 - [imprisonment.typ] xx → 20
 - [imprisonment.typ] poor → poor forlorn
@@ -364,9 +373,11 @@
 - [imprisonment.typ] my → my very
 - [imprisonment.typ] lie → he
 - [imprisonment.typ] had → have
-- [imprisonment.typ] Psalm → (Ps.
+- [imprisonment.typ] Psalm → Ps
 - [imprisonment.typ] xliv → 44
-- [imprisonment.typ] xxvi → 26
+- [imprisonment.typ] Chron → Chr 26:27)
+- [imprisonment.typ] xxvi → 
+- [imprisonment.typ] 27 → 
 - [conclusion.typ] the → 
 - [conclusion.typ] the → 
 - [conclusion.typ] look → pray
@@ -381,37 +392,326 @@
 
 ## punctuation
 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] - → –
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] - → –
+- [preface.typ] . → 
+- [preface.typ] . → :
 - [preface.typ] , → , and
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] - → –
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] - → –
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
 - [relation.typ] . → ,
 - [relation.typ] , → , indeed,
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → , as
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → , thought
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
 - [relation.typ] , → ;
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → ; my hinder parts were inward;
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → !
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → , and
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → , but
 - [relation.typ] , → , as
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
 - [relation.typ] , → , and
-- [relation.typ] : → .
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → ; I
 - [relation.typ] , → , thought
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → ; or
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ! → ! thought
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] - → –
 - [relation.typ] , → , also,
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → , that
 - [relation.typ] ; → ,
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
 - [relation.typ] . → ,
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → ; for
 - [relation.typ] , → , and
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] , → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → :
+- [relation.typ] - → –
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] ; → ; I
-- [relation.typ] : → .
+- [relation.typ] - → –
+- [relation.typ] - → –
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] - → –
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] - → –
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → :
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → 1
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → :
+- [imprisonment.typ] - → –
+- [imprisonment.typ] . → :
+- [imprisonment.typ] - → –
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → 12
+- [imprisonment.typ] - → –
 - [imprisonment.typ] " → ‘
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → 7
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → 1
 - [imprisonment.typ] , → )
 - [imprisonment.typ] " → ‘
 - [imprisonment.typ] " → ’
@@ -423,15 +723,24 @@
 - [imprisonment.typ] " → ‘
 - [imprisonment.typ] " → ’
 - [imprisonment.typ] " → ‘
+- [imprisonment.typ] . → :
+- [imprisonment.typ] , → (
+- [imprisonment.typ] . → :
+- [imprisonment.typ] - → –
 - [imprisonment.typ] " → ‘
 - [imprisonment.typ] " → ’ (
 - [imprisonment.typ] " → ‘
 - [imprisonment.typ] " → ’
 - [imprisonment.typ] " → ‘
+- [imprisonment.typ] . → :
 - [imprisonment.typ] . → ,
 - [imprisonment.typ] . → ?
-- [imprisonment.typ] , → 
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → :
+- [imprisonment.typ] - → –
+- [imprisonment.typ] , → (
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → 
 
 ## case
 
@@ -476,7 +785,7 @@
 - to → unto (×5)
 - on → upon (×3)
 - 24 → 24) (×2)
-- Heb → Heb. (×2)
+- Kings → Kgs (×2)
 - had → has (×2)
 - into → in (×2)
 - into → unto (×2)
@@ -487,17 +796,16 @@
 - 20 → 20)
 - 23 → 23)
 - 26 → 26)
-- 27 → 27)
 - 38 → 38)
 - 5 → 5)
 - 8 → 8)
 - 9 → 9)
 - 97 → 97.
-- Esth → Esth.
+- Eccles → Eccl
+- Hebrews → Heb
 - I → it
 - Mounments → Monuments
 - Now → No
-- Rom → Rom.
 - abd → and
 - almost → also
 - an → any

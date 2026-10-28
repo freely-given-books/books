@@ -2,75 +2,235 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 60 |
-| spelling | 54 |
-| punctuation | 13 |
+| spacing | 287 |
+| emendation | 220 |
+| spelling | 69 |
+| punctuation | 43 |
 | heading | 13 |
-| spacing | 4 |
 | grammar | 2 |
 
 ## emendation
 
+- [chapter-01.typ note] . ii . → 2:
+- [chapter-01.typ note] . iii . → 3:
+- [chapter-01.typ note] . v . → 5:
+- [chapter-01.typ note] . xxii . → 22:
+- [chapter-01.typ note] . iv . → 4:
+- [chapter-01.typ] . xxvi . → 26:
+- [chapter-01.typ] . xxiii . → 23:
+- [chapter-01.typ] . v . → 5:
+- [chapter-01.typ] . xxvi . → 26:
+- [chapter-01.typ] . vii . → 7:
 - [chapter-01.typ] I . → 
+- [chapter-01.typ] i → 1
+- [chapter-01.typ] i → 1
+- [chapter-01.typ] . xxii . → 22:
+- [chapter-01.typ] . xiii . → 13:
 - [chapter-01.typ] For → 1. For
 - [chapter-01.typ] to → 
+- [chapter-01.typ] Chron . xxxii . → Chr 32:
+- [chapter-01.typ] . xx . → 20:
+- [chapter-01.typ] . xii . → 12:
 - [chapter-01.typ] . In → in
+- [chapter-01.typ] . i . → 1:
 - [chapter-01.typ] a → the
+- [chapter-01.typ] . xiii . → 13:
+- [chapter-01.typ] xiv → 14
+- [chapter-01.typ] i → 1
+- [chapter-01.typ] xxii → 22
 - [chapter-01.typ] its → that
+- [chapter-02.typ] . iii . → 3:
 - [chapter-02.typ] II . → 
+- [chapter-02.typ] xxii → 22
+- [chapter-02.typ] . vi . → 6:
+- [chapter-02.typ] . vi . → 6:
+- [chapter-02.typ] . x . → 10:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] i → 1
+- [chapter-02.typ] . ii . → 2:
 - [chapter-02.typ] is → is the
 - [chapter-02.typ] as to be on our guard , to take heed , to consider all ways and means → 
+- [chapter-02.typ] . xvi . → 16:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-03.typ] . vi . → 6:
+- [chapter-03.typ] . ii . → 2:
+- [chapter-03.typ] . iii . → 3:
+- [chapter-03.typ] viii → 8
+- [chapter-03.typ] . vii . → 7:
 - [chapter-03.typ] that → them
+- [chapter-03.typ] iii → 3
+- [chapter-03.typ] . xii . → 12:
+- [chapter-03.typ] . vi . → 6:
 - [chapter-03.typ] or → or be overtaken with a fault;” but, “Lest thou also be tempted.” “Thou
 - [chapter-03.typ] should → shall
+- [chapter-03.typ] . x . → 10:
+- [chapter-03.typ] . xxviii . → 28:
+- [chapter-03.typ] . xvii . → 17:
 - [chapter-03.typ] is → it
+- [chapter-03.typ] . iv . → 4:
+- [chapter-03.typ] . xii . → 12:
+- [chapter-03.typ] xv → 15
 - [chapter-03.typ] if → is
 - [chapter-03.typ] be → 
+- [chapter-03.typ] . vi → 6
+- [chapter-03.typ] . iv . → 4:
+- [chapter-03.typ] . iv . → 4:
 - [chapter-03.typ] and darkness → 
 - [chapter-03.typ] put → put spurs
+- [chapter-03.typ] . iii . → 3:
+- [chapter-03.typ] xxii → 22
+- [chapter-03.typ] . ii . → 2:
+- [chapter-03.typ] . i . → 1:
+- [chapter-03.typ] . xxiv . → 24:
 - [chapter-03.typ] first → first others blame, judge them, perhaps reprove them. In a short space
+- [chapter-03.typ] . v . → 5:
+- [chapter-03.typ] . v . → 5:
 - [chapter-03.typ] give → give a
+- [chapter-03.typ] . xii . → 12:
 - [chapter-03.typ] thing → of the country whereunto they are brought; as if there were something
+- [chapter-03.typ] . iv . → 4:
+- [chapter-03.typ] i → 1
+- [chapter-03.typ] i → 1
+- [chapter-03.typ] . ii . → 2:
+- [chapter-03.typ] xxii → 22
+- [chapter-03.typ] . iv . → 4:
+- [chapter-03.typ] . x . → 10:
+- [chapter-03.typ] . ii . → 2:
 - [chapter-03.typ] with → in
+- [chapter-03.typ] . vi . → 6:
 - [chapter-04.typ] unto → unto our
 - [chapter-04.typ] 1 . → 
+- [chapter-04.typ] i → 1
+- [chapter-04.typ] . vi . → 6:
 - [chapter-04.typ] it → it, that it must needs be past all doubt, to him who is so assaulted
 - [chapter-04.typ] in → in the
 - [chapter-04.typ] in → in all
 - [chapter-04.typ] might → may
-- [chapter-05.typ note] vol . vi . → 
-- [chapter-05.typ note] p . 78 . → 
+- [chapter-04.typ] . iii . → 3:
+- [chapter-04.typ] Cant . v . → Song 5:
+- [chapter-05.typ note] vol → ch
+- [chapter-05.typ note] vi → 14
+- [chapter-05.typ note] chap . xiv . p . 78 . → 
 - [chapter-05.typ] 2 . → 
 - [chapter-05.typ] usually → usually do
+- [chapter-05.typ] . xxvi . → 26:
 - [chapter-05.typ] of → of the
 - [chapter-05.typ] on → on any
+- [chapter-05.typ] . i . → 1:
+- [chapter-05.typ] xvii → 17
 - [chapter-05.typ] of → of the
 - [chapter-05.typ] know → know that
+- [chapter-05.typ] i → 1
+- [chapter-05.typ] . xxxv . → 35:
+- [chapter-05.typ] . iv . → 4:
+- [chapter-05.typ] . vi . → 6:
+- [chapter-05.typ] xviii → 18
+- [chapter-05.typ] . vi . → 6:
 - [chapter-05.typ] we → we be
 - [chapter-06.typ] 3 → 1
+- [chapter-06.typ] . i . → 1:
+- [chapter-06.typ] . xxx . → 30:
+- [chapter-06.typ] . xiii . → 13:
+- [chapter-06.typ] . xxx . → 30:
+- [chapter-06.typ] Eccles . vii . → Eccl 7:
+- [chapter-06.typ] xxiii → 23
 - [chapter-06.typ] which → which hath
+- [chapter-06.typ] Cant . v . → Song 5:
+- [chapter-06.typ] . iv . → 4:
+- [chapter-06.typ] . iii . → 3:
+- [chapter-06.typ] . xii . → 12:
+- [chapter-06.typ] . i . → 1:
+- [chapter-06.typ] xxi → 21
+- [chapter-07.typ] . xviii . → 18:
+- [chapter-07.typ] . iv . → 4:
 - [chapter-07.typ] whatever we have , good or bad ; and thence do we draw it for our use , → 
+- [chapter-07.typ] . xii . → 12:
+- [chapter-07.typ] iv → 4
+- [chapter-07.typ] . xxxix . → 39:
+- [chapter-07.typ] . v . → 5:
 - [chapter-07.typ] beauty → beauty of holiness, as it is designed by Christ for the end, issue, and effect
+- [chapter-07.typ] . iv . → 4:
 - [chapter-07.typ] denotes → is
-- [chapter-07.typ] iv → ii
-- [chapter-07.typ] 16 → 18
+- [chapter-07.typ] . vii . → 7:
+- [chapter-07.typ] . vi . → 6:
+- [chapter-07.typ] . v . → 5:
+- [chapter-07.typ] . xii . → 12:
+- [chapter-07.typ] . iv . 16 → 2:18
+- [chapter-07.typ] . iv . → 4:
+- [chapter-08.typ] . iii . → 3:
+- [chapter-08.typ] . iii . → 3:
 - [chapter-08.typ] attention → consideration
 - [chapter-08.typ] of → by
+- [chapter-08.typ] . iii . → 3:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . ix . → 9:
+- [chapter-08.typ] . vi . → 6:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . iii . → 3:
 - [chapter-08.typ] the → his
+- [chapter-08.typ] . iii . → 3:
+- [chapter-08.typ] Cant . v . → Song 5:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . ix . → 9:
+- [chapter-08.typ] . xiii . → 13:
+- [chapter-08.typ] . vi . → 6:
+- [chapter-08.typ] . iii . → 3:
+- [chapter-08.typ] . i . → 1:
 - [chapter-08.typ] forth → 
+- [chapter-08.typ] Tit . ii . → Titus 2:
+- [chapter-08.typ] xx → 20
+- [chapter-08.typ] i → 1
+- [chapter-08.typ] xv → 15
+- [chapter-08.typ] xvii → 17
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] viii → 8
+- [chapter-08.typ] . vii . → 7:
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] . v . → 5:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] Tit . i . → Titus 1:
+- [chapter-08.typ] xiv → 14
+- [chapter-08.typ] . vii . → 7:
+- [chapter-08.typ] . x . → 10:
+- [chapter-08.typ] . x . → 10:
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] . xii . → 12:
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] . lix . → 59:
+- [chapter-08.typ] . xxv . → 25:
+- [chapter-08.typ] . lvii . → 57:
 - [chapter-08.typ] this → it
+- [chapter-08.typ] i → 1
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] vi → 6
 - [chapter-08.typ] The → The lusts, sensual pleasures, love, respects, honours of men, name and
+- [chapter-08.typ] . vii . → 7:
 - [chapter-08.typ] of → or
+- [chapter-08.typ] . iii . → 3:
+- [chapter-08.typ] . ii . → 2:
+- [chapter-08.typ] . i . → 1:
+- [chapter-08.typ] . v . → 5:
 - [chapter-08.typ] upon → upon him, the glory of this world was showed unto
+- [chapter-08.typ] Cant . iii . → Song 3:
+- [chapter-08.typ] . ii . → 2:
 - [chapter-08.typ] the → 
+- [chapter-08.typ] . iii . → 3:
 - [chapter-08.typ] [ cause of ] falling → failing
+- [chapter-08.typ] xviii → 18
+- [chapter-08.typ] . x . → 10:
 - [chapter-08.typ] own → our
-- [chapter-08.typ] 9 → 6
+- [chapter-08.typ] . lxix . 9 → 69:6
 - [chapter-08.typ] to be → 
 - [chapter-08.typ] will → shall
 - [chapter-09.typ] shall → should
+- [chapter-09.typ] . vi . → 6:
 - [chapter-09.typ] Flatter → Flatter not
 - [chapter-09.typ] not → but
+- [chapter-09.typ] . iii . → 3:
 
 ## grammar
 
@@ -79,22 +239,54 @@
 
 ## punctuation
 
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
 - [chapter-02.typ] – → ,
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
 - [chapter-03.typ] ( → 
 - [chapter-03.typ] ) → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-04.typ] . → :
 - [chapter-04.typ] , → 
+- [chapter-05.typ] . → :
 - [chapter-05.typ] — → —the entrances of it so deceitful, subtle, insensible, and plausible,—
 - [chapter-05.typ] [ → (
 - [chapter-05.typ] ] → )
+- [chapter-05.typ] . → :
 - [chapter-05.typ] [ → (
 - [chapter-05.typ] ] → )
+- [chapter-05.typ] . → :
 - [chapter-05.typ] , → , and which we are assisted in by the Spirit; “and watching thereunto,”
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-07.typ] . → :
 - [chapter-07.typ] , → , with the eternal design of his grace, with a taste of the blood of Christ,
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
 - [chapter-08.typ] , → ,”
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
 - [chapter-08.typ] ” → ” This soul is safeguarded from assaults of manifold temptations.
+- [chapter-08.typ] . → :
 
 ## spelling
 
+- James → Jas (×8)
+- chap → ch (×6)
 - his → this (×2)
 - it → its (×2)
 - judgement → judgment (×2)
@@ -105,6 +297,7 @@
 - Christ → Christ,
 - God → God,
 - God → good
+- Kings → Kgs
 - Oh → Oh,
 - These → There
 - also → also,

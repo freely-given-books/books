@@ -7,12 +7,12 @@
 | kind | count |
 | --- | --- |
 | case | 75 |
-| spelling | 53 |
+| spelling | 57 |
 | merge | 19 |
-| punctuation | 14 |
+| punctuation | 17 |
 | quotation | 14 |
 | spacing | 11 |
-| emendation | 9 |
+| emendation | 8 |
 | italic | 5 |
 | split | 4 |
 
@@ -27,17 +27,17 @@
 
 - [chapter-01.typ] he → be
 - [chapter-06.typ] if → it
+- [chapter-07.typ] Ephesians → Eph
 - [chapter-07.typ] of → of it
 - [chapter-08.typ] is → in
 - [chapter-08.typ] of → 
 - [chapter-11.typ] l → I
 - [chapter-13.typ] YE MUST BE BORN AGAIN → “Ye must be born again
-- [chapter-17.typ] Cor . → Corinthians
-- [chapter-19.typ] Cor . → Corinthians
 
 ## punctuation
 
 - [chapter-03.typ] " → ”
+- [chapter-05.typ] - → –
 - [chapter-05.typ] " → 
 - [chapter-05.typ] " → 
 - [chapter-06.typ] . → 
@@ -48,7 +48,9 @@
 - [chapter-11.typ] , → .
 - [chapter-16.typ] " → 
 - [chapter-16.typ] " → 
+- [chapter-17.typ] . → 
 - [chapter-18.typ] , → , “
+- [chapter-19.typ] . → 
 - [chapter-19.typ] " → 
 - [chapter-19.typ] " → 
 
@@ -129,9 +131,12 @@
 - Saviour → Savior (×29)
 - offence → offense (×3)
 - Endeavour → Endeavor (×2)
+- Romans → Rom (×2)
 - marvellous → marvelous (×2)
 - Ay → Aye
 - Come → Come,
+- Ezekiel → Ezek
+- Micah → Mic
 - No → Nor
 - Saviour’s → Savior’s
 - axe → ax
