@@ -2,13 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 607 |
-| spelling | 190 |
-| punctuation | 51 |
-| spacing | 50 |
+| emendation | 615 |
+| spelling | 196 |
+| spacing | 58 |
+| punctuation | 58 |
 | grammar | 45 |
 | list | 22 |
-| italic | 3 |
+| italic | 7 |
 | case | 1 |
 | split | 1 |
 
@@ -199,11 +199,19 @@
 - [book-2/chapter-03.typ] them → 
 - [book-2/chapter-03.typ] he → be
 - [book-2/chapter-03.typ] what → which
+- [book-2/chapter-03.typ] a  → a)
+- [book-2/chapter-03.typ] bor → (b) or
+- [book-2/chapter-03.typ] cbut → (c) but
+- [book-2/chapter-03.typ] dNor → (d) Nor
 - [book-2/chapter-03.typ] do → to
+- [book-2/chapter-03.typ] eNor → (e) Nor
+- [book-2/chapter-03.typ] fNor → (f) Nor
 - [book-2/chapter-03.typ] that → of
+- [book-2/chapter-03.typ] aThat → (a) That
 - [book-2/chapter-03.typ] the → that
+- [book-2/chapter-03.typ] bFor → (b) For
+- [book-2/chapter-03.typ] cWe → (c) We
 - [book-2/chapter-03.typ] we → ye
-- [book-2/chapter-03.typ] e → 
 - [book-2/chapter-03.typ] and → 
 - [book-2/chapter-03.typ] there from → therefrom
 - [book-2/chapter-03.typ] is → 
@@ -654,6 +662,7 @@
 
 ## punctuation
 
+- [book-1/chapter-03.typ] . → 
 - [book-1/chapter-04.typ] , → , or
 - [book-1/chapter-04.typ] , → , even
 - [book-1/chapter-04.typ] “ → “For
@@ -667,6 +676,10 @@
 - [book-2/chapter-03.typ] . → . Sixthly,
 - [book-2/chapter-03.typ] ” → ” that he
 - [book-2/chapter-03.typ] “ → did
+- [book-2/chapter-03.typ] . → . (
+- [book-2/chapter-03.typ] , → , (
+- [book-2/chapter-03.typ] , → , (
+- [book-2/chapter-03.typ] , → , (
 - [book-3/chapter-01.typ] , → , O
 - [book-3/chapter-02.typ] , → , then
 - [book-3/chapter-02.typ] , → 
@@ -682,6 +695,7 @@
 - [book-3/chapter-02.typ] , → , and
 - [book-3/chapter-05.typ] , → , even
 - [book-3/chapter-07.typ] , → 
+- [book-3/chapter-08.typ] , → 
 - [book-3/chapter-08.typ] ” → 
 - [book-3/chapter-09.typ note] , → , ipse bajulabit,
 - [book-3/chapter-10.typ] , → , that
@@ -704,6 +718,7 @@
 - [book-4/chapter-07.typ] ] → 
 - [book-4/chapter-07.typ] , → (
 - [appendix-1-testimonies.typ] ? → .
+- [appendix-1-testimonies.typ] , → 
 - [appendix-2-sprigge.typ] , → –
 
 ## case
@@ -752,11 +767,9 @@
 - as → a
 - blessing → blessings
 - blood → bloods
-- bor → or
 - bring → bringing
 - came → comes
 - cases → causes
-- cbut → but
 - certainty → certainly
 - come → comes
 - comes → come
@@ -764,6 +777,7 @@
 - conditions → condition
 - could → would
 - course → cause
+- d → d)
 - deaths → death
 - debtors → debtor
 - declared → decreed
@@ -772,12 +786,14 @@
 - departing → depart
 - distinctions → distinction
 - door → doors
+- e → e)
 - end → ends
 - ends → end’s
 - enlargement → enlargements
 - excelling → excellent
 - expression → expressions
 - extension → extent
+- f → f)
 - failed → faileth
 - figures → figure
 - fixed → firmed
@@ -854,4 +870,9 @@
 - world → word
 - xliv → xlv
 - yes → yea
+- εἷναι → εἶναι
+- ἀριθμῷ → ἀριθμῷ.
+- ἠμάπησαν → ἠγάπησαν
+- ἰλάσκεσθαι → ἱλάσκεσθαι
+- ὀφθαλμοῦ → ὀφθαλμοῦ,
 

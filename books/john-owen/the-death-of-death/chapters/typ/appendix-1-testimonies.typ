@@ -26,7 +26,7 @@ V. #smallcaps[Cyril] of Jerusalem, Cataches. xiii. \[#smallcaps[a.d.] 350\]:— 
 
 So also doth another of them make it manifest in what sense they use the word #emph[all].
 
-VI. #smallcaps[Athanasius], of the incarnation of the Word of God \[#smallcaps[a.d.] 350\]:— Οὗτός ἐστιν ἡ πάντων ζωή, καὶ ὡς πρόβατον ὑπὲρ, τῆς πάντων σωτηρίας ἀντίψυχον τὸ ἑαυτοῦ σῶμα εἰς θάνατον παραδούς. — “He is the life of #emph[all], and as a sheep he delivered his body a price for the souls of #emph[all], that they might be saved.”
+VI. #smallcaps[Athanasius], of the incarnation of the Word of God \[#smallcaps[a.d.] 350\]:— Οὗτός ἐστιν ἡ πάντων ζωή, καὶ ὡς πρόβατον ὑπὲρ τῆς πάντων σωτηρίας ἀντίψυχον τὸ ἑαυτοῦ σῶμα εἰς θάνατον παραδούς. — “He is the life of #emph[all], and as a sheep he delivered his body a price for the souls of #emph[all], that they might be saved.”
 
 #emph[All] in both places can be none but the #emph[elect]\; as, —
 

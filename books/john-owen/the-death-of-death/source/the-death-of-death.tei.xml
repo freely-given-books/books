@@ -1147,7 +1147,7 @@ saints,” so in these I am</p>
 <quote xml:id="ccel-i.v-p36.1"><lg>
 <l xml:id="ccel-i.v-p36.2">― <seg>οὔτε τρίτος οὔτε τέταρτος</seg></l>
 <l xml:id="ccel-i.v-p36.4"><seg>Οὔτε δυωδέκατος οὐδ’ ἐν λόγῳ οὐδ’ ἐν
-ἀριθμῷ</seg></l>
+<choice><orig>ἀριθμῷ</orig><reg resp="#editor" type="spelling">ἀριθμῷ.</reg></choice></seg></l>
 </lg></quote>
 
 
@@ -1639,7 +1639,7 @@ appointed him to be “heir of all things,”
 <ref type="scripture" cRef="Acts.10.42">Acts x. 42</ref>; for unto this he was
 “ordained before the
 foundation of the world,” <ref type="scripture" cRef="1Pet.1.20">1 Pet. i.
-20</ref>., and “determined, <seg>ὁρισθείς</seg>, to be the Son of God with
+20</ref><choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice>, and “determined, <seg>ὁρισθείς</seg>, to be the Son of God with
 power,” <ref type="scripture" cRef="Rom.1.4">Rom. i. 4</ref>, “that he might be the first-born <choice><orig>among</orig><reg resp="#editor" type="emendation">of</reg></choice> many brethren,”
 <ref type="scripture" cRef="Rom.8.29">chap. viii. 29</ref>.  I know that this is
 an act eternally established in the mind and will of God, and so not to be
@@ -4253,27 +4253,27 @@ are not of his sheep, <ref type="scripture" cRef="John.10.26">John x.
 <choice><orig>what</orig><reg resp="#editor" type="emendation">which</reg></choice> is.  <hi rend="italic">Thirdly</hi>, It were easy to recriminate; but, —</p>
 
 <p xml:id="ccel-i.viii.iii-p24">Fourthly, “But,” says he, “the reason is deceitful and
-erroneous, for the Scripture doth nowhere say, — 2. <choice><abbr><hi rend="sup">a </hi></abbr><expan>a </expan></choice><note place="foot" n="25" xml:id="ccel-i.viii.iii-p24.1">These figures
+erroneous, for the Scripture doth nowhere say, — 2<choice><orig>.</orig><reg resp="#editor" type="punctuation">. <hi>(</hi></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#edition-only" change="#review"><choice><orig><choice><abbr><hi rend="sup">a </hi></abbr><expan>a </expan></choice></orig><reg resp="#editor" type="emendation">a) </reg></choice></hi><note place="foot" n="25" xml:id="ccel-i.viii.iii-p24.1">These figures
 are designed by the author to connect each argument which he is refuting
 with the answer he supplies to it in the succeeding paragraphs. — <seg rend="smallcaps">Ed</seg>.</note>Those many he died for
 are his sheep (much less his elect, as the reason intends it).  As for the
 place, <ref type="scripture" cRef="John.10.15">John x. 15</ref>, usually instanced to
 this end, it is therein much abused: for our Saviour, <ref type="scripture" cRef="John.10">John
 x.</ref>, did not set forth the difference between such as he died for
-and such as he died not for, <choice><orig><choice><abbr><hi rend="sup">b</hi>or</abbr><expan>bor</expan></choice></orig><reg resp="#editor" type="spelling">or</reg></choice> such as he died for so and so,
-and not so and so; <choice><orig><choice><abbr><hi rend="sup">c</hi>but</abbr><expan>cbut</expan></choice></orig><reg resp="#editor" type="spelling">but</reg></choice> the difference between those that
+and such as he died not for, <choice><orig><choice><abbr><hi rend="sup">b</hi>or</abbr><expan>bor</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(b)</hi> or</reg></choice> such as he died for so and so,
+and not so and so; <choice><orig><choice><abbr><hi rend="sup">c</hi>but</abbr><expan>cbut</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(c)</hi> but</reg></choice> the difference between those that
 believe on him and those who believe not on him, <ref type="scripture" cRef="John.10.4-John.10.5 Bible.kjv:John.10.14 Bible.kjv:John.10.26 Bible.kjv:John.10.27">verses
 4, 5, 14, 26, 27</ref>.  One hear his voice and follow him, the other
-not.  <choice><abbr><hi rend="sup">d</hi>Nor</abbr><expan>dNor</expan></choice> did our Saviour here set forth the privileges of all
+not.  <choice><orig><choice><abbr><hi rend="sup">d</hi>Nor</abbr><expan>dNor</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(d)</hi> Nor</reg></choice> did our Saviour here set forth the privileges of all
 he died for, or for whom he died so and so, but of those that believe on
 him <pb n="218" xml:id="ccel-i.viii.iii-Page_218"/>through the ministration of the gospel, and so <choice><orig>do</orig><reg resp="#editor" type="emendation">to</reg></choice> know
 him, and approach to God, and enter the kingdom by him, <ref type="scripture" cRef="John.10.3-John.10.4 Bible.kjv:John.10.9 Bible.kjv:John.10.27">verses 3,
-4, 9, 27</ref>.  <choice><abbr><hi rend="sup">e</hi>Nor</abbr><expan>eNor</expan></choice> was our Saviour here setting forth
+4, 9, 27</ref>.  <choice><orig><choice><abbr><hi rend="sup">e</hi>Nor</abbr><expan>eNor</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(e)</hi> Nor</reg></choice> was our Saviour here setting forth
 the excellency of those for whom he died, or died for so only, wherein they
 are preferred before others; but the excellency of his own love, with the
 fruits thereof to those not only that he died for, but also that are
 brought in by his ministration to believe on him, <ref type="scripture" cRef="John.10.11 Bible.kjv:John.10.27">verses 11, 27</ref>. 
-<choice><abbr><hi rend="sup">f</hi>Nor</abbr><expan>fNor</expan></choice> was our Saviour here treating so much of his ransom-giving
+<choice><orig><choice><abbr><hi rend="sup">f</hi>Nor</abbr><expan>fNor</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(f)</hi> Nor</reg></choice> was our Saviour here treating so much of his ransom-giving
 and propitiation-making as of his ministration of the gospel, and so of his
 love and faithfulness therein; wherein he laid down his life for those
 ministered to, and therein gave us example, not to make propitiation for
@@ -4300,7 +4300,7 @@ adhere, I will give a few annotations to the place, answering the marks
 wherewith we have noted it, leaving the full vindication of the place until
 I come to the pressing of our arguments.</p>
 
-<p xml:id="ccel-i.viii.iii-p27">I say then, First, <choice><abbr><hi rend="sup">a</hi>That</abbr><expan>aThat</expan></choice> the many Christ died
+<p xml:id="ccel-i.viii.iii-p27">I say then, First, <choice><orig><choice><abbr><hi rend="sup">a</hi>That</abbr><expan>aThat</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(a)</hi> That</reg></choice> the many Christ died
 for were his sheep, was before declared.  Neither is the place of <ref type="scripture" cRef="John.10">John
 x.</ref> at all abused, our Saviour evidently setting forth a
 difference between them for whom he died and those for whom he would not
@@ -4314,14 +4314,14 @@ this place, from which we do not argue, but from the intention and aim of
 the words he uses, and the <choice><orig>truth</orig><reg resp="#editor" type="spelling">truths</reg></choice> he reveals for <choice><orig>the</orig><reg resp="#editor" type="emendation">that</reg></choice> end aimed at; which was
 the consolation of believers.</p>
 
-<p xml:id="ccel-i.viii.iii-p28">Secondly, <choice><abbr><hi rend="sup">b</hi>For</abbr><expan>bFor</expan></choice> the difference between them he
+<p xml:id="ccel-i.viii.iii-p28">Secondly, <choice><orig><choice><abbr><hi rend="sup">b</hi>For</abbr><expan>bFor</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(b)</hi> For</reg></choice> the difference between them he
 “died for so and so,” <pb n="219" xml:id="ccel-i.viii.iii-Page_219"/>and those he “died for so and so,” we
 confess he puts none; for we suppose that this “<hi rend="italic">so and so</hi>” doth
 neither express nor intimate any thing that may be suitable to any purpose
 of God, or intent of our Saviour in this business.  To us for whom he died,
 he died in the same manner, and for the same end.</p>
 
-<p xml:id="ccel-i.viii.iii-p29">Thirdly, <choice><abbr><hi rend="sup">c</hi>We</abbr><expan>cWe</expan></choice> deny that the primary difference
+<p xml:id="ccel-i.viii.iii-p29">Thirdly, <choice><orig><choice><abbr><hi rend="sup">c</hi>We</abbr><expan>cWe</expan></choice></orig><reg resp="#editor" type="emendation"><hi>(c)</hi> We</reg></choice> deny that the primary difference
 that here is made by our Saviour is between believers and not believers,
 but between elect and not elect, sheep and not sheep; the thing wherein
 they are thus differenced being the believing of the one, called “hearing
@@ -4337,7 +4337,7 @@ foundation of this distinction asserted, from their distinguished state and
 condition, — the one being not his sheep, the other being so, even them
 whom he loved and gave his life for.</p>
 
-<p xml:id="ccel-i.viii.iii-p30">Fourthly, <choice><abbr><hi rend="sup">d</hi></abbr><expan>d</expan></choice><hi rend="italic">First</hi>, It is nothing to the
+<p xml:id="ccel-i.viii.iii-p30">Fourthly<choice><orig>,</orig><reg resp="#editor" type="punctuation">, <hi>(</hi></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#edition-only" change="#review"><choice><orig><choice><abbr><hi rend="sup">d</hi></abbr><expan>d</expan></choice></orig><reg resp="#editor" type="spelling">d) </reg></choice></hi><hi rend="italic">First</hi>, It is nothing to the
 business before us what privileges our Saviour here expresseth; our
 question is, for whom he says he would give his life? and that only. 
 <hi rend="italic">Secondly</hi>, This frequent repetition of that useless <hi rend="italic">so and
@@ -4349,13 +4349,13 @@ brought in unto him;” for he died for his sheep, and his sheep hear his
 voice.  They for whom he died, and those that come in to him, may receive
 different qualifications, but they are not several persons.</p>
 
-<p xml:id="ccel-i.viii.iii-p31">Fifthly, <choice><orig><choice><abbr><hi rend="sup">e</hi></abbr><expan>e</expan></choice></orig><reg resp="#editor" type="emendation"></reg></choice><hi rend="italic">First</hi>, The question is not at
+<p xml:id="ccel-i.viii.iii-p31">Fifthly<choice><orig>,</orig><reg resp="#editor" type="punctuation">, <hi>(</hi></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#edition-only" change="#review"><choice><orig><choice><abbr><hi rend="sup">e</hi></abbr><expan>e</expan></choice></orig><reg resp="#editor" type="spelling">e) </reg></choice></hi><hi rend="italic">First</hi>, The question is not at
 all, to what end our Saviour here makes mention of his death? but for whom
 he died? who are expressly said to be his “sheep;” which all are not. 
 <hi rend="italic">Secondly</hi>, His intention is, to declare the giving of his life for a
 ransom, and that according to the “commandment received of his Father,” <ref type="scripture" cRef="John.10.18">verse 18</ref>.</p>
 
-<p xml:id="ccel-i.viii.iii-p32">Sixthly, <choice><abbr><hi rend="sup">f</hi></abbr><expan>f</expan></choice><hi rend="italic">First</hi>, “The love and
+<p xml:id="ccel-i.viii.iii-p32">Sixthly<choice><orig>,</orig><reg resp="#editor" type="punctuation">, <hi>(</hi></reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#edition-only" change="#review"><choice><orig><choice><abbr><hi rend="sup">f</hi></abbr><expan>f</expan></choice></orig><reg resp="#editor" type="spelling">f) </reg></choice></hi><hi rend="italic">First</hi>, “The love and
 faithfulness of Jesus Christ in the ministration of the gospel,” — that is,
 his performing the office of the mediator of the new covenant, — are seen
 in nothing more than in giving his life for a ransom, <ref type="scripture" cRef="John.15.13">John xv. 13</ref>.  <hi rend="italic">Secondly</hi>, Here
@@ -7061,7 +7061,7 @@ condition they are placed in thereby: concerning which you may observe,
 of free grace is indeed an old objection against it.  That a non-necessity
 of satisfaction by Christ, as a consequent of eternal election, was more
 than once, for the substance of it, objected to <seg>Austin</seg> by the old Pelagian heretics, upon his
-clearing and vindicating, that doctrine, is most apparent.  The same
+clearing and vindicating<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> that doctrine, is most apparent.  The same
 objection, renewed by others, is also answered by <seg>Calvin</seg>, <seg>Institut. lib. ii, cap. 16</seg>; as also divers schoolmen had
 before, in their way, proposed it to themselves, as <seg>Thom. iii. g. 49, a. 4</seg>. Yet, notwithstanding the
 apparent senselessness of the thing itself, together with the many solid
@@ -7449,7 +7449,7 @@ likewise <ref type="scripture" cRef="Heb.2.17">Heb. ii. 17</ref>, he is said to 
 priest, <seg>εἰς τὸ ἱλάσκεσθαι τὰς
 ἁμαρτίας τοῦ λαοῦ</seg>,” — “to
 make reconciliation for the sins of the people,” to reconcile
-God unto the people: the meaning of the words being, <seg>ἰλάσκεσθαι τὸν Θεὸν περὶ τῶν ἁμαρτιῶν τοῦ λαοῦ</seg>, — to
+God unto the people: the meaning of the words being, <seg><choice><orig>ἰλάσκεσθαι</orig><reg resp="#editor" type="spelling">ἱλάσκεσθαι</reg></choice> τὸν Θεὸν περὶ τῶν ἁμαρτιῶν τοῦ λαοῦ</seg>, — to
 reconcile God, who was offended with the sins of <choice><orig>the</orig><reg resp="#editor" type="emendation">his</reg></choice> people; which
 reconciliation we are said to “receive,” <ref type="scripture" cRef="Rom.5.11">Rom. v. 11</ref>
 (the word <seg>καταλλαγή</seg> there, in our
@@ -7814,7 +7814,7 @@ have been crucified for the good of the church; but in the stead thereof,
 he abhorreth the least thought of it.  But concerning the word <seg>ἀντί</seg>, which also is used, there is no doubt,
 nor can any exception be made; it always signifieth a commutation and
 change, whether it be applied to things or persons: so <ref type="scripture" cRef="Luke.11.11">Luke xi. 11</ref>, <seg>Ὄφις ἀντὶ ἰχθύος</seg>, “A serpent instead of a fish;” so <ref type="scripture" cRef="Matt.5.38">Matt. v.
-38</ref>, <seg>Ὀφθαλμὸς ἀντὶ ὀφθαλμοῦ</seg>
+38</ref>, <seg>Ὀφθαλμὸς ἀντὶ <choice><orig>ὀφθαλμοῦ</orig><reg resp="#editor" type="spelling">ὀφθαλμοῦ,</reg></choice></seg>
 “An eye for an
 eye;” so <ref type="scripture" cRef="Heb.12.16">Heb. xii.
 16</ref>; — and for persons, Archelaus is said to reign <seg>ἀντὶ Ἡρώδου τοῦ πατρός</seg>, “instead of his father,” <ref type="scripture" cRef="Matt.2.22">Matt. ii. 22</ref>.  Now, this word is used
@@ -8908,7 +8908,7 @@ are said to be redeemed by the blood of Christ, are no ways advantageous to
 the adversaries of the effectual redemption of God’s elect by the blood of
 Christ; because such may be said to be redeemed <seg>κατὰ τὴν δόξαν</seg>, not <seg>κατὰ
 τὴν ἀλήθειαν</seg>, — <seg>κατὰ τὸ
-φαίνεσθαι</seg>, not <seg>κατὰ τὸ εἷναι</seg>, —
+φαίνεσθαι</seg>, not <seg>κατὰ τὸ <choice><orig>εἷναι</orig><reg resp="#editor" type="spelling">εἶναι</reg></choice></seg>, —
 in respect of appearance, not reality, as is the use of the Scripture in
 divers other things.</p>
 
@@ -13204,7 +13204,7 @@ they should become the sons of God,” <ref type="scripture" cRef="John.1.12">Jo
 <p xml:id="ccel-i.x.vi-p76">Why ye should interpret “love” here by “choose,” as though
 either the words were equivalent, or the word in the original would signify
 <pb n="397" xml:id="ccel-i.x.vi-Page_397"/>either, I can see no reason, for both <choice><orig>these</orig><reg resp="#editor" type="spelling">those</reg></choice> are exceeding
-false.  There is a difference between loving and choosing; and as for <seg>ἠμάπησαν</seg>, he would be as bad a translator as
+false.  There is a difference between loving and choosing; and as for <seg><choice><orig>ἠμάπησαν</orig><reg resp="#editor" type="spelling">ἠγάπησαν</reg></choice></seg>, he would be as bad a translator as
 ye are an interpreter that should render it “they choose.”  Now, what is
 this loving of darkness more than light, but a following and cleaving in
 affection and practice to the ways wherein they were, being alienated from
@@ -14481,7 +14481,7 @@ believers more easily enter into paradise<choice><orig>?</orig><reg resp="#edito
 they use the word <hi rend="italic">all</hi>.</p>
 
 <p xml:id="ccel-i.xi.i-p15">VI. <seg><seg rend="smallcaps">Athanasius</seg></seg>, <seg>of the incarnation of the Word of
-God</seg> [<seg><seg rend="smallcaps">a.d.</seg> 350</seg>]:— <seg>Οὗτός ἐστιν ἡ πάντων ζωή, καὶ ὡς πρόβατον ὑπὲρ, τῆς πάντων
+God</seg> [<seg><seg rend="smallcaps">a.d.</seg> 350</seg>]:— <seg>Οὗτός ἐστιν ἡ πάντων ζωή, καὶ ὡς πρόβατον ὑπὲρ<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> τῆς πάντων
 σωτηρίας ἀντίψυχον τὸ ἑαυτοῦ σῶμα εἰς θάνατον παραδούς.</seg> — “He is the
 life of <hi rend="italic">all</hi>, and as a sheep he delivered his body a price for the
 souls of <hi rend="italic">all</hi>, that they might be saved.”</p>
