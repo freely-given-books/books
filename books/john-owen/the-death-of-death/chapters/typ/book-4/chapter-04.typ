@@ -104,4 +104,4 @@ Fifthly, Jesus Christ, as a public person, did nothing in vain in respect of any
 
 Sixthly, If God were well pleased with his Son in what he did, as a public person, in his representation of others (as he was, Eph 5:2), then must he also be well pleased with them whom he did represent, either absolutely or conditionally; but with many of the sons of men God, in the representation of his Son, was not well pleased, neither absolutely nor conditionally, — to wit, with Cain, Pharaoh, Saul, Ahab, and others, dead and damned before: therefore, Christ did not, as a public person, represent all.
 
-Seventhly, For testimonies, see John 17:9; Matt 20:28, xxvi. 26–28; Mark 10:45; Heb 6:20; Isa 53:12; John 10:15; Heb 13:20; Matt 1:21; Heb 2:17; John 11:51, 52; Acts 20:28; Eph 5:2, 23–25; Rom 8:33, 34.
+Seventhly, For testimonies, see John 17:9; Matt 20:28; 26:26–28; Mark 10:45; Heb 6:20; Isa 53:12; John 10:15; Heb 13:20; Matt 1:21; Heb 2:17; John 11:51, 52; Acts 20:28; Eph 5:2, 23–25; Rom 8:33, 34.

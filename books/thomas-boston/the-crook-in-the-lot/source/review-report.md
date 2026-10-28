@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1022 |
-| emendation | 715 |
-| punctuation | 218 |
+| spacing | 1025 |
+| emendation | 718 |
+| punctuation | 220 |
 | spelling | 55 |
 | case | 1 |
 | grammar | 1 |
@@ -307,8 +307,8 @@
 - [part-1.typ] . xxx . → 30:
 - [part-1.typ] . iii . → 3:
 - [part-2.typ] xvi → 16
-- [part-2.typ] Psal . ix . → Ps 9:
-- [part-2.typ] Matth . v . → Matt 5:
+- [part-2.typ] Psal . ix . → Ps 9:12 and 10:
+- [part-2.typ] and x . 12 . Matth . v . → Matt 5:
 - [part-2.typ] vi → 6
 - [part-2.typ] Matth . xi . → Matt 11:
 - [part-2.typ] . viii . → 8:
@@ -537,6 +537,7 @@
 - [part-3.typ] Is . lv . → Isa 55:
 - [part-3.typ] v → 5
 - [part-3.typ] Tit . ii . → Titus 2:
+- [part-3.typ] iii → 3
 - [part-3.typ] iv → 4
 - [part-3.typ] iii → 3
 - [part-3.typ] i → 1
@@ -677,6 +678,7 @@
 - [part-3.typ] . xvi . → 16
 - [part-3.typ] . xviii . → 18:
 - [part-3.typ] . xxi . → 21:
+- [part-3.typ] xxv → 25
 - [part-3.typ] . ii . → 2:
 - [part-3.typ] . xiv . → 14:
 - [part-3.typ] . xxi . → 21:
@@ -722,6 +724,7 @@
 - [part-3.typ] . vi . → 6:
 - [part-3.typ] . xv . → 15:
 - [part-3.typ] ix → 9
+- [part-3.typ] xi → 11
 - [part-3.typ] Eccles . ix . → Eccl 9:
 - [part-3.typ] . i . → 1:
 - [part-3.typ] Philip . i . → Phil 1:
@@ -818,7 +821,6 @@
 - [part-1.typ] . → :
 - [part-2.typ] . → :
 - [part-2.typ] . → 
-- [part-2.typ] . → 
 - [part-2.typ] . → :
 - [part-2.typ] . → :
 - [part-2.typ] . → :
@@ -893,14 +895,6 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
-- [part-3.typ] . → 
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → 
-- [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
@@ -908,6 +902,15 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
@@ -930,6 +933,7 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → 
+- [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
@@ -951,6 +955,7 @@
 - [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → 
+- [part-3.typ] . → :
 
 ## case
 
