@@ -5,14 +5,19 @@
 #         volume, in order. "" = not on Lulu yet, or not recorded yet.
 #   slug  the site's book slug, when it is not the book's folder name
 #   note  anything particular to this book's import, for the site's Claude
+#   ready the editor called the book ready to sign as it stands at this
+#         commit (./fgb release ready BOOK; signed with its Lulu revision)
 
 ["anonymous/the-anatomy-of-simon-magus"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
 
 ["charles-spurgeon/all-of-grace"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
 
 ["john-bunyan/grace-abounding"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/john-bunyan/grace-abounding-to-the-chief-of-sinners/paperback/product-p6mpygr.html"
 note = """The site's grace-abounding is another edition, not Courtney's: this one \
 replaces it entirely, under the same slug and URLs. Licence CC0; credits add \
@@ -23,6 +28,7 @@ grace-abounding/grace-abounding.mobi from R2. The description can stay unless \
 the owner wants it changed."""
 
 ["john-bunyan/the-pilgrims-progress"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
 
 ["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
@@ -46,4 +52,14 @@ lulu = [
 ]   # volumes 1-4
 
 ["1689-baptist-confession/1689-baptist-confession"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
+
+["william-perkins/christian-economy"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
+
+["thomas-boston/the-crook-in-the-lot"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
+
+["john-owen/the-mortification-of-sin"]
+ready = { date = "2026-10-27", commit = "e7f04cb" }
