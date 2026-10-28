@@ -1,0 +1,32 @@
+# Release record of The Death of Death in the Death of Christ: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-owen/the-death-of-death/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Owen's Death of Death in the Death of Christ in William Goold's text, as CCEL gives it, with CCEL's slips corrected against Goold's printing and Owen's own wording, chiefly his quotations of Scripture, restored from the 1648 first edition."
+
+
+# A print warning the editor accepted (2026-10-27): a false alarm. On p. 454
+# the two-column table setting the Universalists against Scriptural
+# Redemption (Book IV, chapter VII) runs to the foot of the page, where the
+# check takes the page's footnotes to begin; its column head "Universalists."
+# reads as a note broken over. The page was looked at as rendered: it is the
+# table, whole, and no footnote.
+accepted_print = [
+  "the-death-of-death.pdf: a footnote is broken over to page 454: “Universalists.”",
+]
+
+[[source]]
+file = "source/deathofdeath.thml.xml"
+description = "CCEL ThML: John Owen, The Death of Death in the Death of Christ (Goold's text, The Works of John Owen, vol. 10, 1850-53)"
+url = "https://www.ccel.org/ccel/o/owen/deathofdeath.xml"
+sha256 = "c76ae424be0caab02f3e829be21d580cb4c0a93fae0c8a7fe7dc4d5cdddaab22"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "Salus Electorum, Sanguis Jesu: or, The Death of Death in the Death of Christ (London, 1648), the first edition, archive.org scan, read on the page images and by local OCR: source/collation/*.jsonl"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_salus-electorum-sanguis_owen-john_1648"
+
+[[witness]]
+description = "The Works of John Owen, ed. William H. Goold, vol. 10 (1850), archive.org scan and local OCR, the printing CCEL was keyed from: source/collation/goold-ccel.jsonl"
+url = "https://archive.org/details/worksofjohnowend0000owen"
