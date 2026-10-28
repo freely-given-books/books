@@ -95,8 +95,29 @@ a {
   text-decoration: none;
 }
 
-/* a diagram printed as a list (a genealogy), kept whole */
-ul.diagram { break-inside: avoid; page-break-inside: avoid; }
+/* a diagram printed as a list (a genealogy) drawn as a tree, as print draws
+   it: a list of names one under another, a bar between; a name over its
+   children, a bracket over two or more, a short bar over one. A reader
+   without flexbox shows the nested list, centred. */
+ul.diagram, ul.diagram ul { list-style: none; margin: 0; padding: 0; text-indent: 0; }
+ul.diagram { display: flex; flex-direction: column; align-items: center; margin: 1em 0;
+  break-inside: avoid; page-break-inside: avoid; }
+ul.diagram li { position: relative; padding: 0 0.6em; text-align: center; text-indent: 0; }
+ul.diagram > li + li { padding-top: 0.5em; }
+ul.diagram > li + li::before { content: ""; position: absolute; top: 0.05em; left: 50%;
+  height: 0.4em; border-left: 1px solid; }
+ul.diagram ul { display: flex; justify-content: center; align-items: flex-start;
+  position: relative; padding-top: 0.45em; }
+ul.diagram ul::before { content: ""; position: absolute; top: 0.1em; left: 50%;
+  height: 0.35em; border-left: 1px solid; }
+ul.diagram ul > li { padding-top: 0.45em; }
+ul.diagram ul > li::before { content: ""; position: absolute; top: 0; left: 50%;
+  height: 0.4em; border-left: 1px solid; }
+ul.diagram ul > li::after { content: ""; position: absolute; top: 0; left: 0; right: 0;
+  border-top: 1px solid; }
+ul.diagram ul > li:first-child::after { left: 50%; }
+ul.diagram ul > li:last-child::after { right: 50%; }
+ul.diagram ul > li:only-child::after { display: none; }
 div.epigraph { break-inside: avoid; page-break-inside: avoid; }
 
 /* two printed tables set against each other (colophon's table/@rend="parallel") */
