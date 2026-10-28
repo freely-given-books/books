@@ -5,6 +5,17 @@
 # One or two sentences for the release catalog: the edition, its source.
 summary = "Owen's Death of Death in the Death of Christ in William Goold's text, as CCEL gives it, with CCEL's slips corrected against Goold's printing and Owen's own wording, chiefly his quotations of Scripture, restored from the 1648 first edition."
 
+
+# A print warning the editor accepted (2026-10-27): a false alarm. On p. 454
+# the two-column table setting the Universalists against Scriptural
+# Redemption (Book IV, chapter VII) runs to the foot of the page, where the
+# check takes the page's footnotes to begin; its column head "Universalists."
+# reads as a note broken over. The page was looked at as rendered: it is the
+# table, whole, and no footnote.
+accepted_print = [
+  "the-death-of-death.pdf: a footnote is broken over to page 454: “Universalists.”",
+]
+
 [[source]]
 file = "source/deathofdeath.thml.xml"
 description = "CCEL ThML: John Owen, The Death of Death in the Death of Christ (Goold's text, The Works of John Owen, vol. 10, 1850-53)"
