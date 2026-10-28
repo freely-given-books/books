@@ -96,7 +96,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-27" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2007-02</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -4561,10 +4561,11 @@ into the heart of <choice><orig>man</orig><reg resp="#editor" type="emendation">
 could not have <choice><orig>entred</orig><reg resp="#auto" type="spelling">entered</reg></choice> into the heart of <choice><orig>Angels</orig><reg resp="#editor" type="case">angels</reg></choice><choice><orig>:</orig><reg resp="#editor" type="punctuation">,</reg></choice> <choice><orig>It</orig><reg resp="#editor" type="case">it</reg></choice> con<g ref="char:EOLhyphen"/>taineth
 <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> <choice><orig>glorious</orig><reg resp="#editor" type="spelling">glorious,</reg></choice> <choice><orig>tranſcending</orig><reg resp="#auto" type="spelling">transcending</reg></choice> <choice><orig>myſteries</orig><reg resp="#auto" type="spelling">mysteries</reg></choice>.<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice>
 <p xml:id="rb46" prev="#rb45" change="#review">And then <choice><orig>againe</orig><reg resp="#editor" type="spelling">again,</reg><reg resp="#auto" type="spelling">again</reg></choice> </p></item>
-<item xml:id="rb47" next="#rb48"><choice><orig>the</orig><reg resp="#editor" type="case">The</reg></choice> <choice><orig>Word</orig><reg resp="#editor" type="case">word</reg></choice> to all them that belong to
+<item><choice><orig>the</orig><reg resp="#editor" type="case">The</reg></choice> <choice><orig>Word</orig><reg resp="#editor" type="case">word</reg></choice> to all them that belong to
 God<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice><note place="margin" ana="#print-only" change="#review">3. <choice><orig>Witneſſe</orig><reg resp="#auto" type="spelling">Witnesse</reg></choice> of the Spirit.</note> hath the Spirit of God<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> by which it <choice><orig>paſſeth</orig><reg resp="#auto" type="spelling">passeth</reg></choice>, rightly
 accompanying it, <choice><orig>witneſſing</orig><reg resp="#auto" type="spelling">witnessing</reg></choice> to the <choice><orig>ſoule</orig><reg resp="#auto" type="spelling">soul</reg></choice> of man that it
-is <choice><orig>ſo</orig><reg resp="#editor" type="emendation">so; and</reg><reg resp="#auto" type="spelling">so</reg></choice>,<note place="margin" ana="#print-only" change="#review">4. Divine ef<g ref="char:EOLhyphen"/>ficacy.</note> <choice><orig>and</orig><reg resp="#editor" type="emendation">4,</reg></choice> by a divine efficacy it is mighty in operation.
+is <choice><orig>ſo</orig><reg resp="#auto" type="spelling">so</reg></choice><choice><orig>,<note place="margin" ana="#print-only" change="#review">4. Divine ef<g ref="char:EOLhyphen"/>ficacy.</note> and</orig><reg resp="#editor" type="emendation">.</reg></choice> </item>
+<item xml:id="rb47" next="#rb48"><choice><orig>by</orig><reg resp="#editor" type="case">By</reg></choice> a divine efficacy it is mighty in operation.
 What doth it in the heart?<note place="margin" ana="#print-only" change="#review">1. In warming</note> It warmeth the heart upon the
 hearing, and <choice><orig>ſpeaking</orig><reg resp="#auto" type="spelling">speaking</reg></choice>, and <choice><orig>diſcourſing</orig><reg resp="#auto" type="spelling">discoursing</reg></choice> of it<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> <choice><orig>As</orig><reg resp="#editor" type="case">as</reg></choice> when
 the <choice><orig>Diſciples</orig><reg resp="#editor" type="case">disciples</reg><reg resp="#auto" type="spelling">Disciples</reg></choice> went to <hi ana="#print-only" change="#review"><choice><orig>Emaus</orig><reg resp="#editor" type="emendation">Emmaus, Luke 24:32</reg></choice>.</hi> It hath a heat of Spirit
