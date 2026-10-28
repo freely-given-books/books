@@ -37,7 +37,7 @@ First, then, for the word #emph[world], which in the New Testament is called κ�
 Mundus sumitur,
 
 + Subjectivè,
-  + Ὀλικῶς.
+  + Ὁλικῶς.
   + Μερικῶς, idque vel pro
     + Cœlo aspectabili.
     + Terra habitabili.
