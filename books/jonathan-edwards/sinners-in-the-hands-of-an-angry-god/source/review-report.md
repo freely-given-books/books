@@ -8,11 +8,11 @@
 | kind | count |
 | --- | --- |
 | case | 1161 |
-| emendation | 352 |
-| punctuation | 159 |
-| spelling | 110 |
+| emendation | 351 |
+| punctuation | 158 |
+| spelling | 111 |
 | italic | 75 |
-| spacing | 61 |
+| spacing | 63 |
 | split | 18 |
 | grammar | 11 |
 | merge | 11 |
@@ -82,13 +82,13 @@
 - [sermon.typ] Distruction that → destruction to which
 - [sermon.typ] to → 
 - [sermon.typ] Places , → places
-- [sermon.typ] Psal . Lxxiii . → Psalm 73:
+- [sermon.typ] Psal . Lxxiii . → Ps 73:
 - [sermon.typ] thou didst → You
 - [sermon.typ] in → on
 - [sermon.typ] slippery → slick
 - [sermon.typ] Places → ground
 - [sermon.typ] Destruction → ruin
-- [sermon.typ] that Psal → Psalm 73:18-19 (KJV)
+- [sermon.typ] that Psal → Psalm 73:18–19 (KJV)
 - [sermon.typ] Lxxiii . 18 , 19 . → "
 - [sermon.typ] Moment ? → moment!"
 - [sermon.typ] Ground , → ground
@@ -158,7 +158,7 @@
 - [sermon.typ] 'em → them
 - [sermon.typ] This → To this,
 - [sermon.typ] Testimony to → testimony
-- [sermon.typ] Ecles . → Ecclesiastes
+- [sermon.typ] Ecles . → Eccl
 - [sermon.typ] How dieth → "Alas,
 - [sermon.typ] Man ? As → man will die just like
 - [sermon.typ] Fool . → fool!"
@@ -227,7 +227,7 @@
 - [sermon.typ] don't → do not
 - [sermon.typ] 'tis → it is
 - [sermon.typ] that → who
-- [sermon.typ] Prov . Xx . → Proverbs 20:
+- [sermon.typ] . Xx . → 20:
 - [sermon.typ] Fear → terror
 - [sermon.typ] as → like
 - [sermon.typ] Whoso → whoever
@@ -259,12 +259,12 @@
 - [sermon.typ] According → "So He will repay according
 - [sermon.typ] Deeds , accordingly he will repay Fury → deeds: fury
 - [sermon.typ] Adversaries → enemies
-- [sermon.typ] Isai . Lxvi , → Isaiah 66:
+- [sermon.typ] Isai . Lxvi , → Isa 66:
 - [sermon.typ] Fire , and with Chariots , → fire—His chariots are
 - [sermon.typ] render → execute
 - [sermon.typ] Fury , → fury
 - [sermon.typ] so → 
-- [sermon.typ] So → So, Revelation 19:15 (KJV),
+- [sermon.typ] So → So, Rev 19:15 (KJV),
 - [sermon.typ] God's → 
 - [sermon.typ] Fierceness → "the wine press
 - [sermon.typ] Rev → 
@@ -284,7 +284,7 @@
 - [sermon.typ] Heart → heart can
 - [sermon.typ] with - held → withheld
 - [sermon.typ] it's → it is
-- [sermon.typ] Ezek . Viii . → Ezekiel 8:
+- [sermon.typ] . Viii . → 8:
 - [sermon.typ] Therefore → Therefore I
 - [sermon.typ] I also deal in Fury ; mine Eye shall not spare , neither will I have Pity ; and tho' they cry in mine Ears → respond
 - [sermon.typ] a loud Voice , yet → wrath.
@@ -293,11 +293,10 @@
 - [sermon.typ] only → 
 - [sermon.typ] only → 
 - [sermon.typ] 'tis → it is
-- [sermon.typ] Prov → "
-- [sermon.typ] I → 1
-- [sermon.typ] 25 → 25-26
+- [sermon.typ] . I . → 1:
+- [sermon.typ] 25 → 25–26
 - [sermon.typ] 26 . & c → etc
-- [sermon.typ] Isai → Isaiah 63:3
+- [sermon.typ] Isai → Isa 63:3
 - [sermon.typ] lxiii . 3 . Which → which
 - [sermon.typ] GOD → God. "I have trodden the winepress alone
 - [sermon.typ] will tread → trampled
@@ -316,7 +315,7 @@
 - [sermon.typ] Wrath , → wrath
 - [sermon.typ] Order , → orders
 - [sermon.typ] Fierceness , → fierceness
-- [sermon.typ] Rom . Xix . → Romans 9:
+- [sermon.typ] . Xix . → 9:
 - [sermon.typ] willing → , intending
 - [sermon.typ] HIS Wrath , → His wrath
 - [sermon.typ] to → 
@@ -326,8 +325,8 @@
 - [sermon.typ] unmixed , → 
 - [sermon.typ] GOD , → God
 - [sermon.typ] Power , → power
-- [sermon.typ] Isai . Xxxiii . → Isaiah 33:
-- [sermon.typ] , 13 , → -
+- [sermon.typ] Isai . Xxxiii . → Isa 33:
+- [sermon.typ] , 13 , → –
 - [sermon.typ] And → "
 - [sermon.typ] shall → will
 - [sermon.typ] as the burning of Lime → burned to ashes
@@ -337,7 +336,7 @@
 - [sermon.typ] and ye that → you who
 - [sermon.typ] , Fearfulness hath surprized → ; trembling grips
 - [sermon.typ] Hypocrites , & c → ungodly" etc
-- [sermon.typ] Isai . Lxvi . → Isaiah 66:
+- [sermon.typ] Isai . Lxvi . → Isa 66:
 - [sermon.typ] And it shall come to pass , that from → "From
 - [sermon.typ] shall → 
 - [sermon.typ] Flesh → mankind will
@@ -400,7 +399,7 @@
 - [sermon.typ] that → which
 - [sermon.typ] CHRIST , → Christ
 - [sermon.typ] GOD , → God
-- [sermon.typ] Sodom → Sodom. Genesis 19
+- [sermon.typ] Sodom → Sodom. Gen 19
 - [sermon.typ] Haste and escape → 17. "Run
 - [sermon.typ] Lives → lives! Do not look back
 - [sermon.typ] look → and do
@@ -468,7 +467,7 @@
 - [sermon.typ] , → 
 - [sermon.typ] ; → .
 - [sermon.typ] : → .
-- [sermon.typ] . → ah
+- [sermon.typ] . → 
 - [sermon.typ] . → 57:
 - [sermon.typ] , → 
 - [sermon.typ] ▪ → .
@@ -508,7 +507,7 @@
 - [sermon.typ] : → .
 - [sermon.typ] , → ;
 - [sermon.typ] . → :
-- [sermon.typ] , → -
+- [sermon.typ] , → –
 - [sermon.typ] , → , My friends, do not
 - [sermon.typ] ; → .
 - [sermon.typ] . → ."
@@ -531,8 +530,7 @@
 - [sermon.typ] : → .
 - [sermon.typ] ; → .
 - [sermon.typ] : → .
-- [sermon.typ] . → Proverbs
-- [sermon.typ] . → :
+- [sermon.typ] , → ,"
 - [sermon.typ] , → , and no one from the nations was with Me.
 - [sermon.typ] , → 
 - [sermon.typ] ▪ → ,
@@ -550,7 +548,7 @@
 - [sermon.typ] , → , hear
 - [sermon.typ] : → .
 - [sermon.typ] , → ;
-- [sermon.typ] , → -
+- [sermon.typ] , → –
 - [sermon.typ] , → 
 - [sermon.typ] ; → .
 - [sermon.typ] . → ."
@@ -1019,6 +1017,7 @@
 - He → —He
 - House → house,
 - Houses → house
+- Isai → Isa
 - Laugh → "laugh
 - Load → lead
 - Majesty → majesty,

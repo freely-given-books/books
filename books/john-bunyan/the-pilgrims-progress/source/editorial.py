@@ -40,7 +40,7 @@ STANZA_BLOCKS = True
 # #stanza from the template version the book uses.
 TYPST_PREAMBLE = '#import "@local/fgbooks:{}": speech, stanza'.format(
     __import__("re").search(r"@local/fgbooks:([0-9.]+)", open(
-        __import__("pathlib").Path(__file__).parent.parent /
+        __import__("pathlib").Path(__file__).resolve().parent.parent /
         "the-pilgrims-progress.typ").read()).group(1))
 
 STAGES = ["FIRST", "SECOND", "THIRD", "FOURTH", "FIFTH", "SIXTH", "SEVENTH",

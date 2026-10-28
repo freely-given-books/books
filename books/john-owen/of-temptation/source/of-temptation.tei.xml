@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-11" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Of Temptation</title><author>John Owen</author><respStmt><resp>review of modernized spelling, emendations, list structure</resp><name xml:id="editor">Courtney Allen Hicks</name></respStmt><respStmt><resp>automatic spelling modernization, abbreviation expansion and reconstruction of illegible letters (build_tei.py)</resp><name xml:id="auto">Machine pass</name></respStmt></titleStmt><publicationStmt><publisher>Grand Rapids, MI: Christian Classics Ethereal Library</publisher><idno>temptation</idno><availability><p>Public domain.</p></availability></publicationStmt><sourceDesc><bibl><title>Of Temptation</title><author>John Owen</author><note>The Banner of Truth Trust, Edinburgh, 1967.</note><note>Converted from the CCEL ThML file temptation.thml.xml by colophon's thml_to_tei.py. The text is kept exactly; CCEL gives no page or line information, so this transcription is paragraph-faithful, not line-faithful.</note></bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>ThML from the Christian Classics Ethereal Library (ccel.org), converted to TEI P5 for the Freely Given Books pipeline.</p></projectDesc><editorialDecl><p>This file is the CCEL text (converted from ThML) with editorial layers added inline; nothing of it has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>The text is CCEL's, paragraph by paragraph; CCEL gives no page or line information. quote: a block quotation or verse set off in the source.</p><p>reg[@type='punctuation'][@resp='#auto']: CCEL's straight quotes curled and its -- set as an em dash.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc><profileDesc><langUsage><language ident="eng">English</language></langUsage></profileDesc><revisionDesc><change xml:id="review" when="2026-10-27" who="#editor">Enriched edition built from the CCEL text and the reviewed Typst chapters.</change><change>Converted from CCEL ThML (temptation.thml.xml).</change></revisionDesc></teiHeader><text><front><titlePage xml:id="ccel-i.i"><titlePart type="sub" xml:id="ccel-i.i-p1"><seg>Of
 Temptation:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p2"><seg>the nature and power
 of it; the danger of entering into it; and the means of preventing that
 danger:</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p3"><seg>with</seg></titlePart><titlePart type="sub" xml:id="ccel-i.i-p4"><seg>a resolution of sundry
@@ -172,7 +172,7 @@ consists—The special nature of temptation—Temptation taken actively and
 passively—How God tempts any—His <choice><orig>end</orig><reg resp="#editor" type="spelling">ends</reg></choice> in so doing—The way whereby he
 doth it—Of temptation in its special nature; of the actions of it—The
 true nature of temptation stated.</p></argument>
-<argument xml:id="ccel-i.iv-p0.3"><p rend="inset">“Watch and pray, that ye enter not into temptation.”—<ref type="scripture" cRef="Matt.26.41">Matt. xxvi. 41</ref></p></argument>
+<argument xml:id="ccel-i.iv-p0.3"><p rend="inset">“Watch and pray, that ye enter not into temptation.”—<ref type="scripture" cRef="Matt.26.41">Matt<choice><orig>. xxvi.</orig><reg resp="#editor" type="reference"> 26:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>41</ref></p></argument>
 
 <p xml:id="ccel-i.iv-p1"><seg rend="smallcaps">These</seg> words of
 our Saviour are repeated with very little alteration in three evangelists;
@@ -182,21 +182,21 @@ that the whole of his caution seems to have been, “Arise, watch and pray,
 that ye enter not into temptation.”</p>
 
 <p xml:id="ccel-i.iv-p2">Solomon tells us of some that “lie down on the top of a
-mast in the midst of the sea,” <ref type="scripture" cRef="Prov.23.34">Prov. xxiii.
-34</ref>,—men overborne by security in the mouth of destruction. If
+mast in the midst of the sea,” <ref type="scripture" cRef="Prov.23.34">Prov<choice><orig>. xxiii.</orig><reg resp="#editor" type="reference"> 23:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>34</ref>,—men overborne by security in the mouth of destruction. If
 ever poor souls lay down on the top of a mast in the midst of the sea,
 these disciples with our Saviour in the garden did so. Their Master, at a
 little distance from them, was “offering up prayers and supplications, with
-strong crying and tears,” <ref type="scripture" cRef="Heb.5.7">Heb. v. 7</ref>, being
-then taking into his hand and beginning to<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="1" xml:id="ccel-i.iv-p2.3"><ref type="scripture" cRef="Heb.2.9">Heb. ii. 9</ref>;
-<ref type="scripture" cRef="Gal.3.13">Gal. iii. 13</ref>; <ref type="scripture" cRef="2Cor.5.21">2 Cor. v.
-21</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>taste that cup that was filled with the curse and
+strong crying and tears,” <ref type="scripture" cRef="Heb.5.7">Heb<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7</ref>, being
+then taking into his hand and beginning to<choice><orig> </orig><reg resp="#auto" type="spacing"/></choice><note place="foot" n="1" xml:id="ccel-i.iv-p2.3"><ref type="scripture" cRef="Heb.2.9">Heb<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>;
+<ref type="scripture" cRef="Gal.3.13">Gal<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13</ref>; <ref type="scripture" cRef="2Cor.5.21">2 Cor<choice><orig>. v.</orig><reg resp="#editor" type="emendation"> 5:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="spacing"/></choice>21</ref>.</note><choice><orig/><reg resp="#auto" type="spacing"> </reg></choice>taste that cup that was filled with the curse and
 wrath due to their sins;—the Jews, armed for <hi rend="italic">his</hi> and <hi rend="italic">their</hi>
 destruction, being but a little more distant from them, on the other hand.
 Our Saviour had a little before informed them that that night he should be
 betrayed, and be delivered up to be slain; they saw that he was “sorrowful,
-and very heavy,” <ref type="scripture" cRef="Matt.26.37">Matt. xxvi.
-37</ref>; nay, he told them plainly that his “soul was exceeding
+and very heavy,” <ref type="scripture" cRef="Matt.26.37">Matt<choice><orig>. xxvi.</orig><reg resp="#editor" type="reference"> 26:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>37</ref>; nay, he told them plainly that his “soul was exceeding
 sorrowful, even unto death,” <ref type="scripture">verse 38</ref>,
 and therefore <pb n="92" xml:id="ccel-i.iv-Page_92"/>entreated them to tarry and watch with him, now
 he was dying, and that for them. In this condition, leaving them but a
@@ -217,7 +217,7 @@ promise, and be immediately so careless and remiss in the pursuit of it,
 but that we find the root of the same treachery abiding and working in our
 own hearts, and do see the fruit of it brought forth every day, the most
 noble engagements unto obedience quickly ending in deplorable negligence,
-<ref type="scripture" cRef="Rom.7.18">Rom. vii. 18</ref>.</p>
+<ref type="scripture" cRef="Rom.7.18">Rom<choice><orig>. vii.</orig><reg resp="#editor" type="reference"> 7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18</ref>.</p>
 
 <p xml:id="ccel-i.iv-p4">In this estate our Saviour admonishes them of their
 condition, their weakness, their danger, and stirs them up to a prevention
@@ -258,18 +258,18 @@ man; it may be his food or his poison, his exercise or his destruction.</p>
 <p xml:id="ccel-i.iv-p12">Secondly, Temptation in its <hi rend="italic">special</hi> nature, as it
 denotes any evil, is considered either actively, as it <hi rend="italic">leads</hi> to
 evil, or passively, as it <hi rend="italic">hath</hi> an evil and suffering in it: so
-temptation is taken for affliction, <ref type="scripture" cRef="Jas.1.2">James i. 2</ref>; for in
+temptation is taken for affliction, <ref type="scripture" cRef="Jas.1.2"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>; for in
 that sense, we are to “count it all joy when we fall into temptation;” in
 the other, that we “enter not into it.”</p>
 
 <p xml:id="ccel-i.iv-p13">Again, actively considered, it either denotes in the
 tempter a design for the bringing about of the special end of temptation,
 namely, <hi rend="italic">a leading into evil</hi>; so it is said, that “God tempts no
-man,” <ref type="scripture" cRef="Jas.1.13">James i. 13</ref>, with a design for sin as
+man,” <ref type="scripture" cRef="Jas.1.13"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13</ref>, with a design for sin as
 such;—or the general nature and end of temptation, which is trial; so
-“God tempted Abraham,” <ref type="scripture" cRef="Gen.22.1">Gen. xxii. 1</ref>.
-And he proveth or tempteth by false prophets, <ref type="scripture" cRef="Deut.13.3">Deut. xiii.
-3</ref>.</p>
+“God tempted Abraham,” <ref type="scripture" cRef="Gen.22.1">Gen<choice><orig>. xxii.</orig><reg resp="#editor" type="reference"> 22:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>.
+And he proveth or tempteth by false prophets, <ref type="scripture" cRef="Deut.13.3">Deut<choice><orig>. xiii.</orig><reg resp="#editor" type="reference"> 13:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>3</ref>.</p>
 
 <p xml:id="ccel-i.iv-p14">Now, as to God’s tempting of any, two things are to be
 considered:—1. The end why he doth it; 2. The way whereby he doth it.</p>
@@ -288,10 +288,10 @@ the inmost parts of the soul, and lets man see what is in him, of what
 metal he is constituted. Thus he tempted Abraham to show him his
 <hi rend="italic">faith</hi>. Abraham knew not what faith he had (I mean, what power and
 vigour was in his faith) until God drew it out by that great trial and
-temptation.<note place="foot" n="2" xml:id="ccel-i.iv-p16.1"><ref type="scripture" cRef="Gen.22.1-Gen.22.2">Gen. xxii. 1, 2</ref>.</note> When God
+temptation.<note place="foot" n="2" xml:id="ccel-i.iv-p16.1"><ref type="scripture" cRef="Gen.22.1-Gen.22.2">Gen<choice><orig>. xxii.</orig><reg resp="#editor" type="reference"> 22:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1, 2</ref>.</note> When God
 says he knew it, he made Abraham <choice><orig>to</orig><reg resp="#editor" type="emendation"></reg></choice> know it. So he tried Hezekiah to
 discover his <hi rend="italic">pride</hi>; God left him that he might see what was in his
-heart, <ref type="scripture" cRef="2Chr.32.31">2 Chron. xxxii. 31</ref>. He knew not that he
+heart, <ref type="scripture" cRef="2Chr.32.31">2 <choice><orig>Chron. xxxii.</orig><reg resp="#editor" type="reference">Chr 32:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>31</ref>. He knew not that he
 had such a proud heart, so apt to be lifted up, as he appeared to have,
 until God tried him, and so let out his filth, and poured it out before his
 face. The issues of such discoveries to the saints, in thankfulness,
@@ -303,11 +303,11 @@ humiliation, and treasuring up of experiences, I shall not treat of.</p>
 that it is God alone who keeps from all sin. Until we are tempted, we think
 we live on our own strength. Though all men do this or that, we will not.
 When the trial comes, we quickly see whence is our preservation, <pb n="94" xml:id="ccel-i.iv-Page_94"/>by standing or falling. So was it in the case of Abimelech,
-<ref type="scripture" cRef="Gen.20.6">Gen. xx. 6</ref>, “I withheld thee.”</p>
+<ref type="scripture" cRef="Gen.20.6">Gen<choice><orig>. xx.</orig><reg resp="#editor" type="reference"> 20:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>, “I withheld thee.”</p>
 
 <p xml:id="ccel-i.iv-p20">[2.] In a way of <hi rend="italic">renewing grace</hi>. He would have the
 temptation continue with St Paul, that he might reveal himself to him in
-the sufficiency of his renewing grace, <ref type="scripture" cRef="2Cor.12.9">2 Cor. xii. 9</ref>.
+the sufficiency of his renewing grace, <ref type="scripture" cRef="2Cor.12.9">2 Cor<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>.
 We know not the power and strength that God puts forth in our behalf, nor
 what is the sufficiency of his grace, until, comparing the temptation with
 our own weakness, it appears unto us. The efficacy of an antidote is found
@@ -338,13 +338,13 @@ a temptation.</p>
 <p xml:id="ccel-i.iv-p23">(2.) By putting them upon <hi rend="italic">great sufferings</hi>. How many
 have unexpectedly found strength to die at a stake, to endure tortures for
 Christ! yet their call to it was a trial. This, Peter tells us, is one way
-whereby we are brought into trying temptations, <ref type="scripture" cRef="1Pet.1.6-1Pet.1.7">1 Pet. i.
-6, 7</ref>. Our temptations arise from the “fiery trial;” and yet the
+whereby we are brought into trying temptations, <ref type="scripture" cRef="1Pet.1.6-1Pet.1.7">1 Pet<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>6, 7</ref>. Our temptations arise from the “fiery trial;” and yet the
 end is but <choice><orig>a</orig><reg resp="#editor" type="emendation">the</reg></choice> trial of our faith.</p>
 
 <p xml:id="ccel-i.iv-p24">(3.) By his providential disposing of things so as that
 <hi rend="italic">occasions</hi> unto sin will be administered unto men, which is the case
-mentioned, <ref type="scripture" cRef="Deut.13.3">Deut. xiii. 3</ref>; and innumerable other
+mentioned, <ref type="scripture" cRef="Deut.13.3">Deut<choice><orig>. xiii.</orig><reg resp="#editor" type="reference"> 13:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3</ref>; and innumerable other
 instances may be adjoined.</p>
 
 <p xml:id="ccel-i.iv-p25">Now, they are not properly the temptations of God, as
@@ -372,19 +372,19 @@ all their venom and poison, be turned into his own heart for ever.</p>
 <p xml:id="ccel-i.iv-p28">(2.) Sometimes he makes <hi rend="italic">use of the world</hi>, and joins
 forces against us, without any helps from within. So he tempted our
 Saviour, by “showing him all the kingdoms of the world, and the glory of
-them.”<note place="foot" n="3" xml:id="ccel-i.iv-p28.1"><ref type="scripture" cRef="Matt.4.8">Matt.
-iv. 8</ref>.</note> And the variety of the assistances he finds
+them.”<note place="foot" n="3" xml:id="ccel-i.iv-p28.1"><ref type="scripture" cRef="Matt.4.8">Matt<choice><orig>.
+iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</ref>.</note> And the variety of the assistances he finds
 from the world, in persons and things which I must not insist on,—the
 innumerable instruments and weapons he takes from thence of all sorts and
 at all seasons,—are inexpressible.</p>
 
 <p xml:id="ccel-i.iv-p30">(3.) Sometimes he takes in <hi rend="italic">assistance from ourselves
 also</hi>. It is not with us as it was with Christ when Satan came to tempt
-him. He declares that he “had nothing in him,” <ref type="scripture" cRef="John.14.30">John xiv.
-30</ref>. It is otherwise with us: he hath, for the compassing of most
-of his ends, a sure party within our own breasts, <ref type="scripture" cRef="Jas.1.14-Jas.1.15">James
-i. 14, 15</ref>. Thus he tempted Judas: he was at work <hi rend="italic">himself</hi>;
-he put it into his heart to betray Christ; <ref type="scripture" cRef="Luke.22.3">Luke xxii. 3</ref>,
+him. He declares that he “had nothing in him,” <ref type="scripture" cRef="John.14.30">John <choice><orig>xiv</orig><reg resp="#editor" type="reference">14</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>30</ref>. It is otherwise with us: he hath, for the compassing of most
+of his ends, a sure party within our own breasts, <ref type="scripture" cRef="Jas.1.14-Jas.1.15"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice>
+<choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14, 15</ref>. Thus he tempted Judas: he was at work <hi rend="italic">himself</hi>;
+he put it into his heart to betray Christ; <ref type="scripture" cRef="Luke.22.3">Luke <choice><orig>xxii</orig><reg resp="#editor" type="reference">22</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3</ref>,
 “he entered into him” for that purpose. And he sets the <hi rend="italic">world</hi> at
 work, the things of it, providing for him “thirty pieces of silver”
 (<ref type="scripture">verse 5</ref>, “They covenanted to give him
@@ -437,8 +437,8 @@ be farther discovered in our process.</p>
 <argument xml:id="ccel-i.v-p0.2"><p rend="inset">What it is to “enter into temptation”—Not barely being tempted—Not to be conquered by it—To fall into it—The force of that
 expression—Things required unto entering into temptation—Satan or lust
 more than ordinarily importunate—The soul’s entanglement—Seasons of
-such entanglements discovered—Of the “hour of temptation,” <ref type="scripture" cRef="Rev.3.10">Rev.
-iii. 10</ref>, what it is—How any temptation <choice><orig>come</orig><reg resp="#editor" type="spelling">comes</reg></choice> to its hour—How
+such entanglements discovered—Of the “hour of temptation,” <ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>.
+iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10</ref>, what it is—How any temptation <choice><orig>come</orig><reg resp="#editor" type="spelling">comes</reg></choice> to its hour—How
 it may be known when it is so come—The means of prevention prescribed by
 our Saviour—Of watching, and what is intended thereby—Of
 prayer.</p></argument>
@@ -455,11 +455,11 @@ world and lust are in being, we shall be tempted. “Christ,” says one, “was
 made like unto us, that he might be tempted; and we are tempted that we may
 be made like unto Christ.” Temptation in general is comprehensive of our
 whole warfare; as our Saviour calls the time of his ministry the time of
-his “temptations,” <ref type="scripture" cRef="Luke.22.28">Luke xxii.
-28</ref>. We have no promise that we shall not be tempted at all; nor
+his “temptations,” <ref type="scripture" cRef="Luke.22.28">Luke <choice><orig>xxii</orig><reg resp="#editor" type="reference">22</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>28</ref>. We have no promise that we shall not be tempted at all; nor
 are to pray for an absolute freedom from temptations, because we have no
 such promise of being heard therein. The direction we have for our prayers
-is, “Lead us not into temptation,” <ref type="scripture" cRef="Matt.6.13">Matt. vi. 13</ref>;
+is, “Lead us not into temptation,” <ref type="scripture" cRef="Matt.6.13">Matt<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13</ref>;
 it is “entering into temptation” that we are to pray against. We may be
 tempted, yet not enter into temptation. So that,—</p>
 
@@ -479,12 +479,12 @@ than a conqueror, though it have entered into temptation. Christ
 <hi rend="italic">entered</hi> into it, but was not in the least <hi rend="italic">foiled</hi> by it. But,—</p>
 
 <p xml:id="ccel-i.v-p5">4. It is, as the apostle expresseth it, <ref type="scripture" cRef="1Tim.6.9">1
-Tim. vi. 9</ref>, <seg>ἐμπίπτειν</seg>,<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice>“to
+Tim<choice><orig>. vi.</orig><reg resp="#editor" type="emendation"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>9</ref>, <seg>ἐμπίπτειν</seg>,<choice><orig/><reg resp="#editor" type="spacing"> </reg></choice>“to
 fall into temptation,” as a man falls into a pit or deep place where are
 gins or snares, wherewith he is entangled; the man is not presently killed
 and destroyed, but he is entangled and detained,—he knows not how to get
 free or be at liberty. So it is expressed again to the same purpose,
-<ref type="scripture" cRef="1Cor.10.13">1 Cor. x. 13</ref>, “No temptation hath taken
+<ref type="scripture" cRef="1Cor.10.13">1 Cor<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13</ref>, “No temptation hath taken
 you;” that is, to be taken by a temptation and to be tangled with it, held
 in its cords, not finding at present a way to escape. Thence saith Peter,
 <ref type="scripture">2 Epist. ii. 9</ref>, “The Lord knoweth how to
@@ -526,8 +526,8 @@ life that a man is in, with the circumstances of it; as it was with David:
 of both which afterward.</p>
 
 <p xml:id="ccel-i.v-p11">In this state of things, a man is entered into temptation;
-and this is called the “hour of temptation,” <ref type="scripture" cRef="Rev.3.10">Rev. iii.
-10</ref>,—the season wherein it grows to a head: the discovery
+and this is called the “hour of temptation,” <ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>10</ref>,—the season wherein it grows to a head: the discovery
 whereof will give farther light into the present inquiry, about what it is
 to “enter into temptation;” for when the hour of temptation is come upon
 us, we are entered into it. Every great and pressing temptation hath its
@@ -570,8 +570,8 @@ dog?” If this indignation be not daily heightened, but the soul, by
 conversing with the evil, begins to grow, as it were, familiar with it, not
 to be startled as formerly, but rather inclines to cry, “Is it not a little
 one?” then the temptation is coming towards <choice><orig>it</orig><reg resp="#editor" type="spelling">its</reg></choice> high noon; lust hath then
-enticed and entangled, and is ready to “conceive,” <ref type="scripture" cRef="Jas.1.15">James i.
-15</ref>: of which more at large afterward, in our inquiry how we may
+enticed and entangled, and is ready to “conceive,” <ref type="scripture" cRef="Jas.1.15"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>15</ref>: of which more at large afterward, in our inquiry how we may
 know whether we are entered into temptation or no. Our present inquest is
 after the hour and power of temptation itself.</p>
 
@@ -583,8 +583,8 @@ sets upon any one which, at the same time, hath possessed and prevailed
 with many, it hath so great and so many advantages thereby, that it is
 surely growing towards its hour. Its prevailing with others is a means to
 give it its hour against us. The falling off of Hymeneus and Philetus is
-said to “overthrow the faith of some,” <ref type="scripture" cRef="2Tim.2.17-2Tim.2.18">2 Tim. ii.
-17<choice><orig>–</orig><reg resp="#editor" type="punctuation">, </reg></choice>18</ref>.</p>
+said to “overthrow the faith of some,” <ref type="scripture" cRef="2Tim.2.17-2Tim.2.18">2 Tim<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>17<choice><orig>–</orig><reg resp="#editor" type="reference">, </reg></choice>18</ref>.</p>
 
 <p xml:id="ccel-i.v-p16">(3<hi rend="italic">dly</hi>.) By <hi rend="italic">complicating</hi> itself with many
 considerations that, perhaps, are not absolutely evil. So did the
@@ -635,14 +635,14 @@ Saviour; they are two:—1. “Watch;” 2. “Pray.”</p>
 
 <p xml:id="ccel-i.v-p22">1. The first is a general expression by no means to be
 limited to its native signification of waking from sleep; to watch is as
-much <choice><orig>as to be on our guard, to take heed, to consider all ways and means</orig><reg resp="#editor" type="emendation"></reg></choice> as
-to be on our guard, to take heed, to consider all ways and means whereby an
-enemy may approach to us: so the apostle, <ref type="scripture" cRef="1Cor.16.13">1 Cor. xvi.
-13</ref>. This it is to “watch” in this business, to “stand fast in
+much as to be on our guard, to take heed, to consider all ways and means <choice><orig>as
+to be on our guard, to take heed, to consider all ways and means</orig><reg resp="#editor" type="emendation"></reg></choice> whereby an
+enemy may approach to us: so the apostle, <ref type="scripture" cRef="1Cor.16.13">1 Cor<choice><orig>. xvi.</orig><reg resp="#editor" type="reference"> 16:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>13</ref>. This it is to “watch” in this business, to “stand fast in
 the faith,” as good soldiers, to “quit ourselves like men.” It is as much
 as <seg>προσέχειν</seg>, to “take heed,” or look
 to ourselves, as the same thing is by our Saviour often expressed; so
-<ref type="scripture" cRef="Rev.3.2">Rev. iii. 2</ref>. A universal carefulness <pb n="101" xml:id="ccel-i.v-Page_101"/>and diligence, exercising itself in and by all ways and means
+<ref type="scripture" cRef="Rev.3.2">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>. A universal carefulness <pb n="101" xml:id="ccel-i.v-Page_101"/>and diligence, exercising itself in and by all ways and means
 prescribed by God, over our hearts and ways, the baits and methods of
 Satan, the occasions and advantages of sin in the world, that we be not
 entangled, is that which in this word is <choice><orig>presseth</orig><reg resp="#editor" type="grammar">pressed</reg></choice> on us.</p>
@@ -685,8 +685,8 @@ evince it by the ensuing considerations:—</p>
 Saviour concerning what we ought to pray for, this of not entering into
 temptation is expressly one head. Our Saviour knew of what concernment it
 was to us not to “enter into temptation,” when he gave us this as one
-special subject of our daily dealing with God, <ref type="scripture" cRef="Matt.6.13">Matt. vi.
-13</ref>. And the order of the words shows us of what importance it
+special subject of our daily dealing with God, <ref type="scripture" cRef="Matt.6.13">Matt<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>13</ref>. And the order of the words shows us of what importance it
 is: “Lead us not into temptation, but deliver us from evil.” If we are led
 into temptation, evil will befall us, more or less. How God may be said <pb n="102" xml:id="ccel-i.vi-Page_102"/>to tempt us, or to “lead us into temptation,” I showed before. In
 this direction, it is not so much the not <hi rend="italic">giving us up to it</hi>, as the
@@ -695,8 +695,8 @@ it were, exegetical, or expository of the former: “Lead us not into
 temptation, but deliver us from evil;”—“So deal with us that we may be
 powerfully delivered from that evil which attends our entering into
 temptation.” Our blessed Saviour knows full well our state and condition;
-he knows the power of temptations, having had experience of it, <ref type="scripture" cRef="Heb.2.18">Heb.
-ii. 18</ref>; he knows our vain confidence, and the reserves we have
+he knows the power of temptations, having had experience of it, <ref type="scripture" cRef="Heb.2.18">Heb<choice><orig>.
+ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18</ref>; he knows our vain confidence, and the reserves we have
 concerning our ability to deal with temptations, as he found it in Peter;
 but he knows our weakness and folly, and how soon we are cast to the
 ground, and therefore doth he lay in this provision for instruction at the
@@ -706,8 +706,8 @@ the wisdom, love, and care of Jesus Christ towards us, we must grant the
 truth pleaded for.</p>
 
 <p xml:id="ccel-i.vi-p5">2. Christ promiseth this freedom and deliverance as a great
-<hi rend="italic">reward</hi> of most acceptable obedience, <ref type="scripture" cRef="Rev.3.10">Rev. iii.
-10</ref>. This is the great promise made to the church of
+<hi rend="italic">reward</hi> of most acceptable obedience, <ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>10</ref>. This is the great promise made to the church of
 Philadelphia, wherein Christ found nothing that he would blame, “Thou shalt
 be kept from the hour of temptation.” Not, “Thou shalt be preserved
 <hi rend="italic">in</hi> it;” but he goes higher, “Thou shalt be kept <hi rend="italic">from</hi> it.”
@@ -730,7 +730,7 @@ men’s entering into temptation, and that of bad and good men, of ungrounded
 professors, and of the choicest saints.</p>
 
 <p xml:id="ccel-i.vi-p7">(1.) For the first I shall offer but one or two texts of
-Scripture. <ref type="scripture" cRef="Luke.8.13">Luke viii. 13</ref>, “They on the rock are
+Scripture. <ref type="scripture" cRef="Luke.8.13">Luke <choice><orig>viii</orig><reg resp="#editor" type="reference">8</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13</ref>, “They on the rock are
 they, which, when they hear, receive the word with joy, and have no root,
 but for a while believe.” Well! how long do they believe? They are affected
 with the preaching of the word, and believe thereon, make profession, bring
@@ -743,7 +743,7 @@ believers, and thus have continued for some years; no sooner doth
 temptation befall them that hath vigour and permanency in it, but they are
 turned out of the way, and are gone for ever. They fall to hate the word
 they have delighted in, despise the professors of it, and are hardened by
-sin. So <ref type="scripture" cRef="Matt.7.26">Matt. vii. 26</ref>, “He that heareth these
+sin. So <ref type="scripture" cRef="Matt.7.26">Matt<choice><orig>. vii.</orig><reg resp="#editor" type="reference"> 7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>26</ref>, “He that heareth these
 sayings of mine, and doeth <choice><orig>that</orig><reg resp="#editor" type="emendation">them</reg></choice> not, is like unto a foolish man, which
 built his house upon the sand.” But what doth this house of profession do?
 It shelters him, keeps him warm, and stands for a while. But saith he,
@@ -760,7 +760,7 @@ or less, in part or in whole; it faileth not.</p>
 by some instances, what issue they have had of their entering into
 temptation. I shall name a few:—</p>
 
-<p xml:id="ccel-i.vi-p9">Adam was the “son of God,” <ref type="scripture" cRef="Luke.3.38">Luke iii. 38</ref>,
+<p xml:id="ccel-i.vi-p9">Adam was the “son of God,” <ref type="scripture" cRef="Luke.3.38">Luke <choice><orig>iii</orig><reg resp="#editor" type="reference">3</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>38</ref>,
 created in the image of God, full of that integrity, righteousness, and
 holiness, which might be and was an eminent resemblance of the holiness of
 God. He had a far greater inherent stock of ability than we, and had
@@ -774,7 +774,7 @@ temptations, as he had, a <hi rend="italic">cunning devil</hi> to deal withal, b
 proposed as a pattern to all them that shall believe; yet he, entering
 twice into the same temptation, namely, that of fear about his wife, was
 twice overpowered by it, to the dishonour of God, and no doubt the
-disquietment of his own soul, <ref type="scripture" cRef="Gen.12.12-Gen.12.13 Bible:Gen.20.2">Gen. xii. 12, 13, xx.
+disquietment of his own soul, <ref type="scripture" cRef="Gen.12.12-Gen.12.13 Bible:Gen.20.2">Gen<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12, 13, xx.
 2</ref>.</p>
 
 <p xml:id="ccel-i.vi-p11">David is called a “man after God’s own heart” by God
@@ -793,7 +793,7 @@ pillars have been cast to the ground, such cedars blown down, how shall I
 stand before temptations? Oh, keep me that I enter not in!” “<seg>Vestigia terrent.</seg>” Behold the footsteps of
 them that have gone in. Whom do you see retiring without a wound? a blemish
 at least? On this account would the apostle have us to exercise tenderness
-towards them that are fallen into sin: <ref type="scripture" cRef="Gal.6.1">Gal. vi. 1</ref>,
+towards them that are fallen into sin: <ref type="scripture" cRef="Gal.6.1">Gal<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>,
 “Considering thyself, lest thou also be tempted.” He doth not say, “Lest
 thou also sin, or fall, <choice><orig>or</orig><reg resp="#editor" type="emendation">or be overtaken with a fault;” but, “Lest thou also be tempted.” “Thou</reg></choice> seest the power of temptation in others, and
 knowest not how soon thou mayst be tempted, nor what will be the state and
@@ -863,7 +863,7 @@ of a man in such a season?</p>
 
 <p xml:id="ccel-i.vi-p18">1<hi rend="italic">st</hi>. Suppose a man is not a <hi rend="italic">believer</hi>, but
 only a <hi rend="italic">professor</hi> of the gospel, what can the heart of such a one do?
-<ref type="scripture" cRef="Prov.10.20">Prov. x. 20</ref>, “The heart of the wicked
+<ref type="scripture" cRef="Prov.10.20">Prov<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>20</ref>, “The heart of the wicked
 is little worth;” and surely that which is little worth in any thing is not
 much worth in this. A wicked man may in outward things be of great use; but
 come to his heart, that is false and a thing of nought. Now, withstanding
@@ -871,7 +871,7 @@ of temptation is heartwork; and when it comes like a flood, can such a
 rotten trifle as a wicked man’s heart stand before it? But of these before.
 Entering into temptation and apostasy is the same with them.</p>
 
-<p xml:id="ccel-i.vi-p19">2<hi rend="italic">dly</hi>. Let it be whose heart it will, <ref type="scripture" cRef="Prov.28.26">Prov. xxviii. 26</ref>, “He that trusteth in
+<p xml:id="ccel-i.vi-p19">2<hi rend="italic">dly</hi>. Let it be whose heart it will, <ref type="scripture" cRef="Prov.28.26">Prov<choice><orig>. xxviii.</orig><reg resp="#editor" type="reference"> 28:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>26</ref>, “He that trusteth in
 his own heart is a fool;” he that doth so, be he what he will, in that he
 is foolish. Peter did so in his temptation; he trusted in his own heart:
 “Though all men forsake thee, I will not.” It was <pb n="106" xml:id="ccel-i.vi-Page_106"/>his folly;
@@ -885,12 +885,12 @@ are mustered up. Did not Peter, think you, do so? “What! deny my Master,
 the Son of God, my Redeemer, who loves me? Can such ingratitude, unbelief,
 rebellion, befall me? I will not do it.” Shall, then, a man rest in it that
 his heart will be steadfast? Let the wise man answer: “He that trusteth in
-his own heart is a fool.” “The heart is deceitful,” <ref type="scripture" cRef="Jer.17.9">Jer. xvii.
-9</ref>. We would not willingly trust any thing wherein there is any
+his own heart is a fool.” “The heart is deceitful,” <ref type="scripture" cRef="Jer.17.9">Jer<choice><orig>. xvii.</orig><reg resp="#editor" type="reference"> 17:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>9</ref>. We would not willingly trust any thing wherein there is any
 deceit or guile; here is that which is “deceitful above all things.” It
 hath a thousand shifts and treacheries that <choice><orig>is</orig><reg resp="#editor" type="emendation">it</reg></choice> will deal withal; when it
-comes to the trial, every temptation will steal it away, <ref type="scripture" cRef="Hos.4.11">Hos.
-iv. 11</ref>. Generally men’s hearts deceive them no oftener than they
+comes to the trial, every temptation will steal it away, <ref type="scripture" cRef="Hos.4.11">Hos<choice><orig>.
+iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11</ref>. Generally men’s hearts deceive them no oftener than they
 do trust in them, and then they never fail so to do.</p>
 
 <p xml:id="ccel-i.vi-p20">[2.] Consider the particular ways and means that such a
@@ -909,7 +909,7 @@ buckler against any assaults that may befall them. They will die a thousand
 times before they will forfeit that repute they have in the church of God!
 But, alas! this is but a withe, or a new cord, to bind a giant temptation
 withal. What think you of the “third part of the stars of heaven?”
-<ref type="scripture" cRef="Rev.12.4">Rev. xii. 4</ref>. Had they not shone in the
+<ref type="scripture" cRef="Rev.12.4">Rev<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>4</ref>. Had they not shone in the
 firmament of the church? Were they not sensible, more than enough, of their
 own honour, height, usefulness, and reputation? But when the dragon comes
 with his temptations, he casts them down to the earth. Yea, great
@@ -920,7 +920,7 @@ mihi plaudo.</seg>” Do we not know instances yet living of some who have
 ventured on <choice><orig>compliance</orig><reg resp="#editor" type="spelling">compliances</reg></choice> with wicked men after the glory of a long and useful
 profession, and within a while, finding themselves cast down thereby from
 their reputation with the saints, have hardened <pb n="107" xml:id="ccel-i.vi-Page_107"/>themselves
-against it and ended in apostasy? as <ref type="scripture" cRef="John.15.6">John xv. 6</ref>.
+against it and ended in apostasy? as <ref type="scripture" cRef="John.15.6">John <choice><orig>xv</orig><reg resp="#editor" type="reference">15</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>.
 This kept not Judas; it kept not Hymeneus nor Philetus; it kept not the
 stars of heaven; nor will it keep thee.</p>
 
@@ -986,8 +986,8 @@ cannot long hold out.</p>
 make good one <hi rend="italic">passage</hi> or entrance, whilst the enemy assaults us
 round about. It is true, a little armour would serve to defend a man if he
 might choose <choice><orig>there</orig><reg resp="#editor" type="spelling">where</reg></choice> his enemy should strike him; but we are commanded to
-take the “whole armour of God” if we intend to resist and stand, <ref type="scripture" cRef="Eph.6">Eph.
-vi.</ref> This we speak of is but one piece; and when our eye is only
+take the “whole armour of God” if we intend to resist and stand, <ref type="scripture" cRef="Eph.6">Eph<choice><orig>.
+vi</orig><reg resp="#editor" type="reference"> 6</reg></choice>.</ref> This we speak of is but one piece; and when our eye is only
 to that, temptation may enter and prevail twenty other ways. For instance,
 a man may be tempted to worldliness, unjust gain, revenge, vain-glory, or
 the like. If he fortify himself alone with this consideration, he will not
@@ -1027,8 +1027,8 @@ ascribed to it; as,—</p>
 be able to make a right <choice><orig>judgement</orig><reg resp="#editor" type="spelling">judgment</reg></choice> of things, so as he did before he entered
 into it. As in the men of the world, the god of this world blinds their
 minds that they should not see the glory of Christ in the gospel, <ref type="scripture" cRef="2Cor.4.4">2
-Cor. iv. 4</ref>, and “whoredom, and wine, and new wine, take away
-their hearts,” <ref type="scripture" cRef="Hos.4.11">Hos. iv. 11</ref>; so it is in the nature of
+Cor<choice><orig>. iv.</orig><reg resp="#editor" type="emendation"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>4</ref>, and “whoredom, and wine, and new wine, take away
+their hearts,” <ref type="scripture" cRef="Hos.4.11">Hos<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11</ref>; so it is in the nature of
 every temptation, more or less, to take away the heart, or to darken the
 understanding of the person tempted.</p>
 
@@ -1089,7 +1089,7 @@ private</hi>; and let us a little view the efficacy and power of them
 apart:—</p>
 
 <p xml:id="ccel-i.vi-p37">[1.] There are public temptations; such as that mentioned,
-<ref type="scripture" cRef="Rev.3.10">Rev. iii. 10</ref>, that was to come upon the
+<ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10</ref>, that was to come upon the
 world, “to try them that dwell upon the earth;” or a combination of
 persecution and seduction for the trial of a careless generation of
 professors. Now, concerning such a temptation, consider that,—</p>
@@ -1100,13 +1100,13 @@ hand, and treachery of false professors on the other. Hence it will
 certainly accomplish what it receives commission from him to do. When Satan
 offered his service to go forth and seduce Ahab that he might fall, God
 says to him, “Thou shalt persuade him, and prevail also: go forth, and do
-so,” <ref type="scripture" cRef="1Kgs.22.22">1 Kings xxii. 22</ref>. He is permitted as to
+so,” <ref type="scripture" cRef="1Kgs.22.22">1 <choice><orig>Kings</orig><reg resp="#editor" type="reference">Kgs</reg></choice> <choice><orig>xxii</orig><reg resp="#editor" type="reference">22</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22</ref>. He is permitted as to
 his wickedness, and commissionated as to the event and punishment intended.
 When the Christian world was to be given up to folly and false worship for
 their neglect of the truth, and their naked, barren, fruitless,
 Christ-dishonouring profession, it is said of the temptation that fell upon
 <choice><orig>then</orig><reg resp="#editor" type="spelling">them</reg></choice>, that “God sent them strong delusion, that they should believe a lie,”
-<ref type="scripture" cRef="2Thess.2.11">2 Thess. ii. 11</ref>. That that comes so
+<ref type="scripture" cRef="2Thess.2.11">2 Thess<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11</ref>. That that comes so
 from <choice><orig>God</orig><reg resp="#editor" type="spelling">God,</reg></choice> in a <hi rend="italic">judiciary</hi> manner, hath a power with it and shall
 prevail. That <choice><orig>selfish</orig><reg resp="#editor" type="spelling">selfish,</reg></choice> spiritually-slothful, careless<choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>, and worldly frame of
 spirit, which in these days hath infected almost the body of professors, if
@@ -1115,7 +1115,7 @@ saints, to break their bones, and make them scandalous, that they may be
 <pb n="111" xml:id="ccel-i.vi-Page_111"/>ashamed, shall it not have a power and efficacy so to do? What
 work hath the spirit of error made amongst us! Is it not from hence, that
 as some men delighted not to retain God in their hearts, so he hath “given
-them up to a reprobate mind,” <ref type="scripture" cRef="Rom.1.28">Rom. i. 28</ref>. A
+them up to a reprobate mind,” <ref type="scripture" cRef="Rom.1.28">Rom<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>28</ref>. A
 man would think it strange, yea, it is matter of amazement, to see persons
 of a sober spirit, pretending to great things in the ways of God, overcome,
 captivated, ensnared, destroyed by weak means, sottish opinions, foolish
@@ -1128,20 +1128,20 @@ whatever.</p>
 
 <p xml:id="ccel-i.vi-p39">2<hi rend="italic">dly</hi>. There is in such temptations the secret
 insinuation of <hi rend="italic">examples</hi> in those that are accounted <hi rend="italic">godly</hi> and
-are professors: <ref type="scripture" cRef="Matt.24.12">Matt. xxiv.
-12</ref>, “Because iniquity shall abound, the love of many shall wax
+are professors: <ref type="scripture" cRef="Matt.24.12">Matt<choice><orig>. xxiv.</orig><reg resp="#editor" type="reference"> 24:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>12</ref>, “Because iniquity shall abound, the love of many shall wax
 cold,” etc. The abounding of iniquity in some will insensibly cast water on
 the zeal and love of others, that by little and little it shall wax cold.
 Some begin to grow negligent, careless, worldly, wanton. They break the ice
 towards the pleasing of the flesh. At <choice><orig>first</orig><reg resp="#editor" type="emendation">first others blame, judge them, perhaps reprove them. In a short space</reg></choice> their love also waxes cold; and
 the brunt being over, they also conform to them, and are cast into the same
 mould with them. “A little leaven leaveneth the whole lump.” Paul repeats
-this saying twice, <ref type="scripture" cRef="1Cor.5.6">1 Cor. v. 6</ref>, and <ref type="scripture" cRef="Gal.5.9">Gal. v. 9</ref>.
+this saying twice, <ref type="scripture" cRef="1Cor.5.6">1 Cor<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>, and <ref type="scripture" cRef="Gal.5.9">Gal<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>.
 He would have us take notice of it; and it is of the danger of the
 infection of the whole body, from the ill examples of some, whereof he
 speaks. We know how insensibly leaven proceedeth to <choice><orig>give</orig><reg resp="#editor" type="emendation">give a</reg></choice> savour to the
 whole; so it is termed a “root of bitterness” that “springeth up and
-defileth many,” <ref type="scripture" cRef="Heb.12.15">Heb. xii. 15</ref>. If one little piece of
+defileth many,” <ref type="scripture" cRef="Heb.12.15">Heb<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15</ref>. If one little piece of
 leaven, if one bitter root, may endanger the whole, how much more when
 there are many roots of that nature, and much leaven is scattered abroad!
 It is easy following a multitude to do evil, and saying “A conspiracy” to
@@ -1208,7 +1208,7 @@ that all these things are principally in the <hi rend="italic">subject</hi>, not
 <hi rend="italic">object</hi>,—in the <hi rend="italic">heart</hi>, not in the <hi rend="italic">world</hi>. But they are
 said to be “in the world,” because the world gets into them, mixes itself
 with them, unites, incorporates. As faith and the promises are said to be
-“mixed,” <ref type="scripture" cRef="Heb.4.2">Heb. iv. 2</ref>, so are lust and temptation
+“mixed,” <ref type="scripture" cRef="Heb.4.2">Heb<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>, so are lust and temptation
 mixed: they twine together; receive mutual improvement from one another;
 grow each of them higher and higher by the mutual strength they administer
 to one another. Now, by this means temptation gets so deep in the heart
@@ -1290,7 +1290,7 @@ intend to walk with God in any peace, or with any faithfulness,—are to be
 considered and removed. And they are these that follow:—</p>
 
 <p xml:id="ccel-i.vi-p48"><hi rend="italic">Obj.</hi> 1. “Why should we so fear and labour to avoid
-temptation? <ref type="scripture" cRef="Jas.1.2">James i. 2</ref>, we are commanded to ‘count it
+temptation? <ref type="scripture" cRef="Jas.1.2"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>, we are commanded to ‘count it
 all joy when we fall into divers temptations.’ Now, certainly I need not
 solicitously avoid the falling into that which, when I am fallen into, I am
 to count it all joy.” To which I answer,—</p>
@@ -1298,7 +1298,7 @@ to count it all joy.” To which I answer,—</p>
 <p xml:id="ccel-i.vi-p49"><pb n="115" xml:id="ccel-i.vi-Page_115"/>1. You will not hold by this rule in all
 things,—namely, that a man need not seek to avoid that which, when he
 cannot but fall into, it is his duty to rejoice therein. The same apostle
-bids the rich “rejoice that they are made low,” <ref type="scripture" cRef="Jas.1.10">chap. i. 10</ref>.
+bids the rich “rejoice that they are made low,” <ref type="scripture" cRef="Jas.1.10"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>. <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10</ref>.
 And, without doubt, to him who is acquainted with the goodness, and wisdom,
 and love of God in his dispensations, in every condition that is needful
 for him, it will be a matter of rejoicing to him: but yet, how few rich,
@@ -1335,18 +1335,18 @@ advantages given unto it to tempt me to sin.”</p>
 tempted; and is it evil to be brought into the same state and condition
 with him? Yea, it is not only said that he was tempted, but his being so is
 expressed as a thing advantageous, and conducing to his mercifulness as our
-priest: <ref type="scripture" cRef="Heb.2.17-Heb.2.18">Heb. ii. 17,
+priest: <ref type="scripture" cRef="Heb.2.17-Heb.2.18">Heb<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>17,
 18</ref>, ‘In that he himself hath suffered, being tempted, he is able
 to succour them that are tempted.’ And he makes it a ground of a great
 promise to his disciples, that they had ‘abode with him in his
-temptations,’ <ref type="scripture" cRef="Luke.22.28">Luke xxii. 28</ref>.”</p>
+temptations,’ <ref type="scripture" cRef="Luke.22.28">Luke <choice><orig>xxii</orig><reg resp="#editor" type="reference">22</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>28</ref>.”</p>
 
 <p xml:id="ccel-i.vi-p54"><hi rend="italic">Ans.</hi> It is true, our Saviour was tempted; but yet
 his temptations are reckoned among the <hi rend="italic">evils</hi> that befell him in the
 days of his flesh,—things that came on him through the malice of the
 world and the <pb n="116" xml:id="ccel-i.vi-Page_116"/>prince thereof. He did not wilfully cast himself
-into temptation, which he said was “to tempt the Lord our God,” <ref type="scripture" cRef="Matt.4.7">Matt.
-iv. 7</ref>; as, indeed, willingly to enter into any temptation is
+into temptation, which he said was “to tempt the Lord our God,” <ref type="scripture" cRef="Matt.4.7">Matt<choice><orig>.
+iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7</ref>; as, indeed, willingly to enter into any temptation is
 highly to tempt God. Now, our condition is so, that, use the greatest
 diligence and watchfulness that we can, yet we shall be sure to be tempted,
 and be made like to Christ therein. This hinders not but that it is our
@@ -1364,9 +1364,9 @@ Christ. Who of us “enter into temptation” and are not defiled?</p>
 <p xml:id="ccel-i.vi-p55"><hi rend="italic">Obj.</hi> 3. “But what need this great endeavour and
 carefulness? Is it not said that ‘God is faithful, who will not suffer us
 to be tempted above what we are able, but will with the temptation also
-make a way to escape?’ <ref type="scripture" cRef="1Cor.10.13">1 Cor. x.
-13</ref>; and ‘He knoweth how to deliver the godly out of
-temptations,’ <ref type="scripture" cRef="2Pet.2.9">2 Pet. ii. 9</ref>. What need we, then, be
+make a way to escape?’ <ref type="scripture" cRef="1Cor.10.13">1 Cor<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>13</ref>; and ‘He knoweth how to deliver the godly out of
+temptations,’ <ref type="scripture" cRef="2Pet.2.9">2 Pet<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>. What need we, then, be
 solicitous that we enter not into them?”</p>
 
 <p xml:id="ccel-i.vi-p56"><hi rend="italic">Ans.</hi> I much question what assistance he will have
@@ -1402,7 +1402,7 @@ more reason to fear it than perhaps they are aware of.</p>
 
 <p xml:id="ccel-i.vi-p59">(3.) To enter on temptation on this account is to venture
 on sin (which is the same with “continuing <choice><orig>with</orig><reg resp="#editor" type="emendation">in</reg></choice> sin”) “that grace may
-abound,” <ref type="scripture" cRef="Rom.6.1-Rom.6.2">Rom. vi. 1, 2</ref>; which the apostle rejects
+abound,” <ref type="scripture" cRef="Rom.6.1-Rom.6.2">Rom<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1, 2</ref>; which the apostle rejects
 the thoughts of with greatest detestation. Is it not a madness, for a man
 willingly to suffer the ship wherein he is to split itself on a rock, to
 the irrecoverable loss of his merchandise, because he supposes he shall in
@@ -1437,11 +1437,11 @@ temptation or no, is our first inquiry. I say, then,—</p>
 
 <p xml:id="ccel-i.vii-p4">(1.) When a <hi rend="italic">man is drawn into any sin</hi>, he may be
 sure that he hath entered into temptation. All <hi rend="italic">sin</hi> is from
-temptation, <ref type="scripture" cRef="Jas.1.14">James i. 14</ref>. Sin is a fruit that comes
+temptation, <ref type="scripture" cRef="Jas.1.14"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14</ref>. Sin is a fruit that comes
 only from that root. Though a man be never so suddenly or violently
 surprised in or with any sin, yet it <pb n="118" xml:id="ccel-i.vii-Page_118"/>is from some temptation
-or other that he hath been so surprised: so the apostle, <ref type="scripture" cRef="Gal.6.1">Gal. vi.
-1</ref>. If a man be surprised, overtaken with a fault, yet he was
+or other that he hath been so surprised: so the apostle, <ref type="scripture" cRef="Gal.6.1">Gal<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>1</ref>. If a man be surprised, overtaken with a fault, yet he was
 tempted to it; for says he, “Consider thyself, lest thou also be tempted,”—that is, as he was when he was so surprised, as it were, at unawares.
 This men sometimes take no notice of, to their great disadvantage. When
 they are overtaken with a sin they set themselves to repent of that sin,
@@ -1611,7 +1611,7 @@ duties of religion, as to the substance and matter of them, when they have
 no heart to them, no life in them, as to the spirituality required in their
 performance. Sardis kept up the performance of duties, and had therefore a
 name to live; but wanted spiritual life in their <choice><orig>performances</orig><reg resp="#editor" type="spelling">performance</reg></choice>, and<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> was
-therefore “dead,” <ref type="scripture" cRef="Rev.3.1">Rev. iii. 1</ref>. As it is in distempers of the
+therefore “dead,” <ref type="scripture" cRef="Rev.3.1">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>. As it is in distempers of the
 body, if a man find his spirits faint, his heart oppressed, his head heavy,
 the whole person indisposed, though he do not yet actually burn nor rave,
 yet he will cry, “I fear I am entering into a fever, I am so out of order
@@ -1623,7 +1623,7 @@ to consider the particular causes of his distemper. If the head be heavy
 and slumber in the things of grace, if the heart be cold in duties, evil
 lies at the door. And if such a soul do escape a great temptation unto sin,
 yet it shall not escape a great temptation by desertion. The spouse cries,
-“I sleep,” <ref type="scripture" cRef="Song.5.2">Cant. v. 2</ref>; and that she had “put off her
+“I sleep,” <ref type="scripture" cRef="Song.5.2"><choice><orig>Cant. v.</orig><reg resp="#editor" type="reference">Song 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>; and that she had “put off her
 coat, and could not put it on;”—had an indisposition to duties and
 communion with Christ. What is the next news you have of her? <ref type="scripture">Verse
 6</ref>, Her “Beloved had withdrawn himself,”—Christ was gone; and
@@ -1660,8 +1660,8 @@ the danger of entering into temptation, and also discovered the ways and
 seasons whereby and wherein men <choice><orig>usually</orig><reg resp="#editor" type="emendation">usually do</reg></choice> so, our second inquiry is, What
 general directions may be given to <pb n="123" xml:id="ccel-i.viii-Page_123"/>preserve a soul from that
 condition that hath been spoken of? And we see our Saviour’s direction in
-the place spoken of before, <ref type="scripture" cRef="Matt.26.41">Matt. xxvi.
-41</ref>. He sums up all in these two words, “Watch and pray.” I shall
+the place spoken of before, <ref type="scripture" cRef="Matt.26.41">Matt<choice><orig>. xxvi.</orig><reg resp="#editor" type="reference"> 26:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>41</ref>. He sums up all in these two words, “Watch and pray.” I shall
 a little labour to unfold them, and show what is inwrapped and contained in
 them; and that both jointly and severally:—</p>
 
@@ -1743,10 +1743,10 @@ strength to resist a temptation when it doth come, when we are entered into
 it, but shall fall under it, without a supply of sufficiency of grace from
 God; so to reckon that we have no power or wisdom to keep ourselves from
 entering into temptation, but must be kept by the power and wisdom of God,
-is a preserving principle, <ref type="scripture" cRef="1Pet.1.5">1 Pet. i. 5</ref>. We
+is a preserving principle, <ref type="scripture" cRef="1Pet.1.5">1 Pet<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5</ref>. We
 are in all things “kept by the power of God.” This our Saviour instructs us
 in, not only by directing us to pray that we be not led into temptation,
-but also by his own praying for us, that we may be kept from it: <ref type="scripture" cRef="John.17.15">John xvii. 15</ref>, “I pray not that thou
+but also by his own praying for us, that we may be kept from it: <ref type="scripture" cRef="John.17.15">John <choice><orig>xvii</orig><reg resp="#editor" type="reference">17</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15</ref>, “I pray not that thou
 shouldest take them out of the world, but that thou shouldest keep them
 from the evil,”—that is, the temptations of the world unto evil, unto
 sin,—<seg>ἐκ τοῦ πονηροῦ</seg>, “out <choice><orig>of</orig><reg resp="#editor" type="emendation">of the</reg></choice> evil”
@@ -1797,20 +1797,20 @@ for us to escape out of temptation, if we fall into it under such a
 believing frame. We are to pray for what God hath promised. Our requests
 are to be regulated by his promises and commands, which are of the same
 extent. Faith closes with the promises, and so finds relief in this case.
-This James instructs us in, <ref type="scripture" cRef="Jas.1.5-Jas.1.7">chap. i.
-5–7</ref>. What we want we must “ask of God;” but we must “ask in
+This James instructs us in, <ref type="scripture" cRef="Jas.1.5-Jas.1.7"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>. <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>5–7</ref>. What we want we must “ask of God;” but we must “ask in
 faith,” for otherwise we must not “think <pb n="126" xml:id="ccel-i.viii-Page_126"/>that we shall receive
 any thing of the Lord.” This then, also, is in this direction of our
 Saviour, that we act faith on the promises of God for our preservation out
 of temptation. He hath promised that he will keep us in all our ways; that
 we shall be directed in a way that, though we are fools, “we shall not err
-therein,” <ref type="scripture" cRef="Isa.35.8">Isa. xxxv. 8</ref>; that he will lead us, guide
+therein,” <ref type="scripture" cRef="Isa.35.8">Isa<choice><orig>. xxxv.</orig><reg resp="#editor" type="reference"> 35:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</ref>; that he will lead us, guide
 us, and deliver us from the evil one. Set faith on work on these promises
 of God, and expect a good and comfortable issue. It is not easily conceived
 what a train of graces faith is attended withal, when it goes forth to meet
 Christ in the promises, nor what a power for the preservation of the soul
-lies in this thing; but I have spoken to this elsewhere.<note place="foot" n="4" xml:id="ccel-i.viii-p12.3"><seg>Mortification of Sin in Believers</seg>, <choice><orig>vol. vi.</orig><reg resp="#editor" type="emendation"></reg></choice> chap. xiv.
-<choice><orig>p. 78.</orig><reg resp="#editor" type="emendation"></reg></choice></note></p>
+lies in this thing; but I have spoken to this elsewhere.<note place="foot" n="4" xml:id="ccel-i.viii-p12.3"><seg>Mortification of Sin in Believers</seg>, <choice><orig>vol</orig><reg resp="#editor" type="emendation">ch</reg></choice>. <choice><orig>vi</orig><reg resp="#editor" type="emendation">14</reg></choice>. <choice><orig>chap. xiv.
+p. 78.</orig><reg resp="#editor" type="emendation"></reg></choice></note></p>
 
 <label type="head" n="4" ana="#edition-only" change="#review">Pray</label>
 <p xml:id="ccel-i.viii-p14"><choice><orig>[</orig><reg resp="#editor" type="punctuation">(</reg></choice>4.<choice><orig>]</orig><reg resp="#editor" type="punctuation">)</reg></choice> Weigh these things <hi rend="italic">severally</hi>, <choice><orig>and</orig><reg resp="#editor" type="spelling">and,</reg></choice> first, take
@@ -1821,19 +1821,19 @@ not one half of its excellency, power, and efficacy is known. It is not my
 business to speak of it in general; but this I say as to my present
 purpose,—he that would be little in temptation, let him be much in
 prayer. This calls in the suitable help and succour that is laid up in
-Christ for us, <ref type="scripture" cRef="Heb.4.16">Heb. iv. 16</ref>. This casteth our souls into
+Christ for us, <ref type="scripture" cRef="Heb.4.16">Heb<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>. This casteth our souls into
 a frame of opposition to every temptation. When Paul had given instruction
 for the taking to ourselves “the whole armour of God,” that we may resist
 and stand in the time of temptation, he adds this general close of the
-whole, <ref type="scripture" cRef="Eph.6.18">Eph. vi. 18</ref>, “Praying always with all
+whole, <ref type="scripture" cRef="Eph.6.18">Eph<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18</ref>, “Praying always with all
 prayer and supplication in the Spirit, and watching thereunto with all
 perseverance and supplication.”</p>
 
 <p xml:id="ccel-i.viii-p15">Without this all the rest will be of no efficacy for the
 end proposed. And therefore consider what weight he lays on it: “Praying
 always,”—that is, at all times and seasons, or be always ready and
-prepared for the discharge of that duty, <ref type="scripture" cRef="Luke.18.1">Luke xviii. 1</ref>,
-<ref type="scripture" cRef="Eph.6.18">Eph. vi. 18</ref>; “with all prayer and
+prepared for the discharge of that duty, <ref type="scripture" cRef="Luke.18.1">Luke <choice><orig>xviii</orig><reg resp="#editor" type="reference">18</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>,
+<ref type="scripture" cRef="Eph.6.18">Eph<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18</ref>; “with all prayer and
 supplication in the Spirit,”—putting forth all kinds of desires unto God,
 that are suited to our condition, according to his will<choice><orig>,</orig><reg resp="#editor" type="punctuation">, and which we are assisted in by the Spirit; “and watching thereunto,”</reg></choice> lest <choice><orig>we</orig><reg resp="#editor" type="emendation">we be</reg></choice> diverted
 by any thing whatever; and that not for a little while, but “with all
@@ -1881,17 +1881,17 @@ frame and temper exposed to any temptation, and provides it with fuel and
 food for all. It hath provision for lust and darts for Satan.</p>
 
 <p xml:id="ccel-i.ix-p5">The wise man tells us that the “prosperity of fools
-destroys them,” <ref type="scripture" cRef="Prov.1.32">Prov. i. 32</ref>. It <hi rend="italic">hardens</hi> them in
+destroys them,” <ref type="scripture" cRef="Prov.1.32">Prov<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>32</ref>. It <hi rend="italic">hardens</hi> them in
 their way, makes them despise instruction, and put the evil day (whose
 terror should influence them into amendment) far from them. Without a
 special assistance, it hath an inconceivably malignant influence on
 believers themselves. Hence Agur prays against riches, because of the
 temptation that attends them: “Lest,” saith he, “I be full and deny thee,
 and say, Who is the <seg rend="smallcaps">Lord</seg>?”
-<ref type="scripture" cRef="Prov.30.8-Prov.30.9">Prov. xxx. 8, 9</ref>;—lest, being filled
+<ref type="scripture" cRef="Prov.30.8-Prov.30.9">Prov<choice><orig>. xxx.</orig><reg resp="#editor" type="reference"> 30:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8, 9</ref>;—lest, being filled
 with them, he should forget the Lord; as God complains that his people did,
-<ref type="scripture" cRef="Hos.13.6">Hos. xiii. 6</ref>. We know how David was
-mistaken in this case: <ref type="scripture" cRef="Ps.30.6">Ps. xxx. 6</ref>, “I
+<ref type="scripture" cRef="Hos.13.6">Hos<choice><orig>. xiii.</orig><reg resp="#editor" type="reference"> 13:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>. We know how David was
+mistaken in this case: <ref type="scripture" cRef="Ps.30.6">Ps<choice><orig>. xxx.</orig><reg resp="#editor" type="reference"> 30:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>, “I
 said in my prosperity, I shall never be moved.” All is well, and will be
 well. But what was at hand, what lay at the door, that David thought not
 of? <ref type="scripture">Verse 7</ref>, “Thou didst hide thy face, and I
@@ -1900,7 +1900,7 @@ enter into a temptation of desertion, and he knew it not.</p>
 
 <p xml:id="ccel-i.ix-p6">As, then, unto a <hi rend="italic">prosperous</hi> condition. I shall not
 run cross to Solomon’s counsel, “In the day of prosperity rejoice,”
-<ref type="scripture" cRef="Eccl.7.14">Eccles. vii. 14</ref>. Rejoice in the God of
+<ref type="scripture" cRef="Eccl.7.14"><choice><orig>Eccles. vii.</orig><reg resp="#editor" type="reference">Eccl 7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14</ref>. Rejoice in the God of
 thy mercies, who doth thee good in his patience and forbearance,
 notwithstanding all thy unworthiness. Yet I may add to it, from the same
 fountain of wisdom, “Consider,” also, lest evil lie at the door. A man in
@@ -1914,7 +1914,7 @@ soul open to all temptations in their full power and strength. Satisfaction
 and delight in creature-comforts, the poison of the soul, will be apt to
 grow upon thee. In such a time be vigilant, be circumspect, or thou wilt be
 surprised. Job says, that in his affliction “God made his heart soft,”
-<ref type="scripture" cRef="Eccl.23.16">chap. xxiii. 16</ref>. There is a hardness, an
+<ref type="scripture" cRef="Eccl.23.16"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>. <choice><orig>xxiii</orig><reg resp="#editor" type="reference">23</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>. There is a hardness, an
 insensible want of spiritual sense, gathered in prosperity, that, if not
 watched against, will expose the heart to the deceits of sin and baits of
 Satan. “Watch and pray” in this season. Many men’s negligence in it hath
@@ -1936,7 +1936,7 @@ them? “Arise; watch and pray, that ye enter not into temptation.” We know
 how near one of them was to a bitter hour of temptation, and not watching
 as he ought, he immediately entered into it.</p>
 
-<p xml:id="ccel-i.ix-p10">I mentioned before the case of the spouse, <ref type="scripture" cRef="Song.5.2-Song.5.8">Cant. v. 2–8</ref>. She slept, and was drowsy,
+<p xml:id="ccel-i.ix-p10">I mentioned before the case of the spouse, <ref type="scripture" cRef="Song.5.2-Song.5.8"><choice><orig>Cant. v.</orig><reg resp="#editor" type="reference">Song 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2–8</ref>. She slept, and was drowsy,
 and unwilling to gird up herself to a vigorous performance of duties, in a
 way of quick, active communion with Christ. Before she is aware, she hath
 lost her Beloved; then she moans, inquires, cries, endures woundings,
@@ -1944,7 +1944,7 @@ reproaches, and all, before she obtains him again. Consider, then, O poor
 soul, thy state and condition! <pb n="129" xml:id="ccel-i.ix-Page_129"/>Doth thy light burn dim? or
 though it give to others as great a blaze as formerly, yet thou seest not
 so clearly the face of God in Christ by it as thou hast done? <ref type="scripture" cRef="2Cor.4.6">2
-Cor. iv. 6</ref>. Is thy zeal cold? or if it do the same works as
+Cor<choice><orig>. iv.</orig><reg resp="#editor" type="emendation"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>6</ref>. Is thy zeal cold? or if it do the same works as
 formerly, yet thy heart is not warmed with the love of God and to God in
 them as formerly, but only thou proceedest in the course thou hast been in?
 Art thou negligent in the duties of praying or hearing? or if thou dost
@@ -1961,8 +1961,8 @@ Yea, when thou awakest, thou wilt find that it hath indeed laid hold of
 thee already, though thou perceivedst it not; it hath smitten and wounded
 thee, though thou hast not complained nor sought for relief or healing.</p>
 
-<p xml:id="ccel-i.ix-p11">Such was the state of the church of Sardis, <ref type="scripture" cRef="Rev.3.2">Rev.
-iii. 2</ref>. “The things that remained were ready to die.” “Be
+<p xml:id="ccel-i.ix-p11">Such was the state of the church of Sardis, <ref type="scripture" cRef="Rev.3.2">Rev<choice><orig>.
+iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>. “The things that remained were ready to die.” “Be
 watchful,” says our Saviour, “and strengthen them, or a worse thing will
 befall thee.” If any that reads the word of this direction be in this
 condition, if he hath any regard of his poor soul, let him now awake,
@@ -1973,8 +1973,8 @@ it not.</p>
 often, by the malice of Satan and the weakness of our hearts, turned into a
 season of danger as to this business of temptation.</p>
 
-<p xml:id="ccel-i.ix-p13">We know how the case stood with Paul, <ref type="scripture" cRef="2Cor.12.7">2 Cor. xii.
-7</ref>. He had glorious spiritual revelations of God and Jesus
+<p xml:id="ccel-i.ix-p13">We know how the case stood with Paul, <ref type="scripture" cRef="2Cor.12.7">2 Cor<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>7</ref>. He had glorious spiritual revelations of God and Jesus
 Christ. Instantly Satan falls upon him, a messenger from him buffets him;
 so that he earnestly begs its departure, but yet is left to struggle with
 it. God is pleased sometimes to give us especial discoveries of himself and
@@ -2016,14 +2016,14 @@ this taught him so far to know himself all his days, and gave him such
 acquaintance with the state of all believers, that when he had received
 more of the Spirit and of power, yet he had less of confidence, and saw it
 was fit that others should have so also, and therefore persuades all men to
-“pass the time of their sojourning here in fear,” <ref type="scripture" cRef="1Pet.1.17">1 Pet. i.
-17</ref>; not to be confident and high as he was, lest, as he did,
+“pass the time of their sojourning here in fear,” <ref type="scripture" cRef="1Pet.1.17">1 Pet<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>17</ref>; not to be confident and high as he was, lest, as he did,
 they fall. At the first trial he compares himself with others, and vaunts
 himself above them: “Though all men should forsake thee, yet I will not.”
 He fears every man more than himself. But when our Saviour afterward comes
 to him, and puts him directly upon the comparison, “Simon, son of Jonas,
-lovest thou me more than these?” <ref type="scripture" cRef="John.21.15">John xxi.
-15</ref>, he hath done comparing himself with others, and only crieth,
+lovest thou me more than these?” <ref type="scripture" cRef="John.21.15">John <choice><orig>xxi</orig><reg resp="#editor" type="reference">21</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>15</ref>, he hath done comparing himself with others, and only crieth,
 “Lord, thou knowest that I love thee.” He will lift up himself above others
 no more. Such a season oftentimes falls out. Temptations are abroad in the
 world, false doctrines, with innumerable other allurements and
@@ -2068,7 +2068,7 @@ careful to keep at a distance from all occasions of sin.</p>
 <p xml:id="ccel-i.x-p3">Our Saviour tells the disciples that “they knew not what
 spirit they were of;” which, under a pretence of zeal, betrayed them into
 ambition and desire of revenge. Had they known it they would have watched
-over themselves. David tells us, <ref type="scripture" cRef="Ps.18.23">Ps. xviii. 23</ref>,
+over themselves. David tells us, <ref type="scripture" cRef="Ps.18.23">Ps<choice><orig>. xviii.</orig><reg resp="#editor" type="reference"> 18:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>23</ref>,
 that he considered his ways, and “kept himself from his iniquity,” which he
 was particularly prone unto.</p>
 
@@ -2136,7 +2136,7 @@ again in haste to the high priest’s hall; nor would David walk again on the
 top of his house, when he should have been on the high places of the field.
 But the particulars of this instance are so various, and of such several
 natures in respect of several persons, that it is impossible to enumerate
-them, <ref type="scripture" cRef="Prov.4.14-Prov.4.15">Prov. iv. 14,
+them, <ref type="scripture" cRef="Prov.4.14-Prov.4.15">Prov<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14,
 15</ref>. Herein lies no small part of that wisdom which consists in
 our ordering our conversation aright. Seeing we have so little power over
 our hearts when once they meet with suitable provocations, we are to keep
@@ -2150,14 +2150,14 @@ the approaching of any temptation.</p>
 will say, “What provision is intended, and where is it to be laid up?” Our
 hearts, as our Saviour speaks, are our treasury. There we lay up whatever
 we have, good or bad; and thence do we draw it for our use, <choice><orig>whatever we
-have, good or bad; and thence do we draw it for our use,</orig><reg resp="#editor" type="emendation"></reg></choice> <ref type="scripture" cRef="Matt.12.35">Matt. xii. 35</ref>. It is the heart, then,
+have, good or bad; and thence do we draw it for our use,</orig><reg resp="#editor" type="emendation"></reg></choice> <ref type="scripture" cRef="Matt.12.35">Matt<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>35</ref>. It is the heart, then,
 wherein provision is to be laid up against temptation. When an enemy draws
 nigh to a fort or castle to besiege and take it, oftentimes, if he find it
 well manned and furnished with provision for a siege, and so able to hold
 out, he withdraws and assaults it not. If Satan, the prince of this world,
 come and find our hearts fortified against his batteries, and provided to
 hold out, he not only departs, but, as James says, he flees: “He will flee
-from us,” <ref type="scripture" cRef="Jas.4.7">James iv. 7</ref>. For the provision to be laid
+from us,” <ref type="scripture" cRef="Jas.4.7"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>iv</orig><reg resp="#editor" type="reference">4</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7</ref>. For the provision to be laid
 up, it is that which is provided in the gospel for us. Gospel provisions
 will do this work; that is, keep the heart full of a sense of the love of
 God in Christ. This is the greatest preservative against the power of
@@ -2166,9 +2166,9 @@ appearance of temptation, he cries out, “How can I do this great evil, and
 sin against God?” and there is an end of the temptation as to him; it lays
 no hold on him, but departs. He was furnished with such a ready sense of
 the love <pb n="134" xml:id="ccel-i.x-Page_134"/>of God as temptation could not stand before,
-<ref type="scripture" cRef="Gen.39.9">Gen. xxxix. 9</ref>. “The love of Christ
-constraineth us,” saith the apostle, “to live to him,” <ref type="scripture" cRef="2Cor.5.14">2 Cor. v.
-14</ref>; and so, consequently, to withstand temptation. A man may,
+<ref type="scripture" cRef="Gen.39.9">Gen<choice><orig>. xxxix.</orig><reg resp="#editor" type="reference"> 39:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>. “The love of Christ
+constraineth us,” saith the apostle, “to live to him,” <ref type="scripture" cRef="2Cor.5.14">2 Cor<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>14</ref>; and so, consequently, to withstand temptation. A man may,
 nay, he ought to lay in provisions of the law also,—fear of death, hell,
 punishment, with the terror of the Lord in them. But these are far more
 easily conquered than the other; nay, they will never stand alone against a
@@ -2184,7 +2184,7 @@ able to say when they had any living sense of the love of God or of the
 privileges which we have in the blood of Christ, I know not what they can
 have to keep them from falling into snares. The apostle tells us that the
 “peace of God,” <seg>φρουρήσει τὰς καρδίας</seg>,
-<ref type="scripture" cRef="Phil.4.7">Phil. iv. <choice><orig>7</orig><reg resp="#editor" type="spelling">7,</reg></choice></ref> “shall keep our hearts.”
+<ref type="scripture" cRef="Phil.4.7">Phil<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice><choice><orig>7</orig><reg resp="#editor" type="spelling">7,</reg></choice></ref> “shall keep our hearts.”
 <seg>Φρουρά</seg> <choice><orig>denotes</orig><reg resp="#editor" type="emendation">is</reg></choice> a military word,—a
 garrison; and so <seg>φρουρήσει</seg> is, “shall
 keep as in a garrison.” Now, a garrison hath two things attending it,—first, That it is exposed to the assaults of its enemies; secondly, That
@@ -2229,8 +2229,8 @@ For thine own lust, I have manifested elsewhere what it aims at in all its
 actings and enticings. It never rises up but its intendment is the worst of
 evils. Every acting of it would be a formed enmity against God. Hence look
 upon it in its first attempts, what pretences soever may be made, as thy
-mortal enemy. “I hate it,” saith the apostle, <ref type="scripture" cRef="Rom.7.15">Rom. vii.
-15</ref>,—that is, the working of lust in me. “I hate it; it is the
+mortal enemy. “I hate it,” saith the apostle, <ref type="scripture" cRef="Rom.7.15">Rom<choice><orig>. vii.</orig><reg resp="#editor" type="reference"> 7:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>15</ref>,—that is, the working of lust in me. “I hate it; it is the
 greatest enemy I have. Oh, that it were killed and destroyed! Oh, that I
 were delivered out of the power of it!” Know, then, that in the first
 attempt or assault in any temptation, the most cursed, sworn enemy is at
@@ -2253,7 +2253,7 @@ the purpose that thou hast none, because thou hast done so.</p>
 sink before thee. Entertain no parley, no dispute with it, if thou wouldst
 not enter into it. Say, “ ‘It is Christ that died,’—that died for such
 sins as these.” This is called “taking the shield of faith to quench the
-fiery <pb n="136" xml:id="ccel-i.x-Page_136"/>darts of Satan,” <ref type="scripture" cRef="Eph.6.16">Eph. vi. 16</ref>.
+fiery <pb n="136" xml:id="ccel-i.x-Page_136"/>darts of Satan,” <ref type="scripture" cRef="Eph.6.16">Eph<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>.
 Faith doth it by laying hold on Christ crucified, his love therein, and
 what from thence he suffered for sin. Let thy temptation be what it will,—be it unto sin, to fear or doubting for sin, or about thy state and
 condition,—it is not able to stand before faith lifting up the standard
@@ -2262,7 +2262,7 @@ faith, use to keep up the form. They will sign themselves with the sign of
 the cross, or make aerial crosses; and by virtue of that work done, think
 to scare away the devil. To act faith on Christ crucified is really to sign
 ourselves with the sign of the cross, and thereby shall we overcome that
-wicked one, <ref type="scripture" cRef="1Pet.5.9">1 Pet. v. 9</ref>.</p>
+wicked one, <ref type="scripture" cRef="1Pet.5.9">1 Pet<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>.</p>
 
 <p xml:id="ccel-i.x-p15">[4.] Suppose the soul hath been <hi rend="italic">surprised</hi> by
 temptation, and entangled at unawares, so that now it is too late to resist
@@ -2270,7 +2270,7 @@ the first entrances of it, what shall such a soul do that it be not plunged
 into it, and carried away with the power thereof?</p>
 
 <p xml:id="ccel-i.x-p16">1<hi rend="italic">st</hi>. Do as Paul did: beseech God again and again
-that it may “depart from thee,” <ref type="scripture" cRef="2Cor.12.8">2 Cor. xii. 8</ref>.
+that it may “depart from thee,” <ref type="scripture" cRef="2Cor.12.8">2 Cor<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</ref>.
 And if thou abidest therein, thou shalt certainly either be speedily
 delivered out of it, or receive a sufficiency of grace not to be foiled
 utterly by it. Only, as I said in part before, do not so much employ thy
@@ -2281,7 +2281,7 @@ taken away, the things themselves may be more calmly considered.</p>
 
 <p xml:id="ccel-i.x-p17">2<hi rend="italic">dly</hi>. Fly to Christ, in a peculiar manner, as he was
 tempted, and beg of him to give thee succour in this “needful time of
-trouble.” <ref type="scripture" cRef="Heb.4.16">Heb. <choice><orig>iv</orig><reg resp="#editor" type="emendation">ii</reg></choice>. <choice><orig>16</orig><reg resp="#editor" type="emendation">18</reg></choice></ref>, the apostle instructs us
+trouble.” <ref type="scripture" cRef="Heb.4.16">Heb<choice><orig>. iv. 16</orig><reg resp="#editor" type="emendation"> 2:18</reg></choice></ref>, the apostle instructs us
 herein: “In that he hath been tempted, he is able to succour them that are
 tempted.” This is the meaning of it: “When you are tempted and are ready to
 faint, when you want succour,—you must have it or you die,—act faith
@@ -2289,7 +2289,7 @@ peculiarly on Christ as he was tempted; that is, consider that he was
 tempted himself,—that he suffered thereby,—that he conquered all
 temptations, and that not merely on his own account, seeing for our sakes
 he submitted to be tempted, but for us,” (he conquered in and by himself,
-but for us.) And draw, yea, expect succour from him, <ref type="scripture" cRef="Heb.4.15-Heb.4.16">Heb. iv. 15, 16</ref>. Lie down at his feet,
+but for us.) And draw, yea, expect succour from him, <ref type="scripture" cRef="Heb.4.15-Heb.4.16">Heb<choice><orig>. iv.</orig><reg resp="#editor" type="reference"> 4:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15, 16</ref>. Lie down at his feet,
 make thy complaint known to him, beg his assistance, and it will not be in
 vain.</p>
 
@@ -2341,7 +2341,7 @@ bottom of it, fix thy soul there,—bewail that before the Lord,—make up
 that breach,—and then proceed to the work that lies before thee.</p>
 </div><div type="chapter" n="10" xml:id="ccel-i.xi">
 <head xml:id="ccel-i.xi-p0.1">Chapter VIII.</head>
-<argument xml:id="ccel-i.xi-p0.2"><p rend="inset">The last general direction, <ref type="scripture" cRef="Rev.3.10">Rev. iii. 10</ref>:
+<argument xml:id="ccel-i.xi-p0.2"><p rend="inset">The last general direction, <ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10</ref>:
 Watch against temptation by constant “keeping the word of Christ’s
 patience”—What that word is—How it is kept—How the keeping of it will
 keep us from the “hour of temptation.”</p></argument>
@@ -2354,8 +2354,8 @@ nature of the thing itself. There is one general direction remains, which
 is comprehensive of all that went before, and also adds many more
 particulars unto them. This contains <pb n="138" xml:id="ccel-i.xi-Page_138"/>an approved antidote
 against the poison of temptation,—a remedy that Christ himself hath
-marked with a note of efficacy and success; that is given us, <ref type="scripture" cRef="Rev.3.10">Rev.
-iii. 10</ref>, in the words of our Saviour himself to the church of
+marked with a note of efficacy and success; that is given us, <ref type="scripture" cRef="Rev.3.10">Rev<choice><orig>.
+iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10</ref>, in the words of our Saviour himself to the church of
 Philadelphia. “Because,” saith he, “thou hast kept the word of my patience,
 I will also keep thee from the hour of temptation, which shall come upon
 all the world, to try them that dwell in the earth.” Christ is “the same
@@ -2373,12 +2373,12 @@ establish us in the faith of Christ’s promise.</p>
 <p xml:id="ccel-i.xi-p3">(1.) The word of Christ is the word of the gospel; the word
 by him revealed from the bosom of the Father; the word of the Word; the
 word spoken in time <choice><orig>of</orig><reg resp="#editor" type="emendation">by</reg></choice> the eternal Word. So it is called “The word of
-Christ,” <ref type="scripture" cRef="Col.3.16">Col. iii. 16</ref>; or “The gospel of Christ,”
-<ref type="scripture" cRef="Rom.1.16">Rom. i. 16</ref>, <ref type="scripture" cRef="1Cor.9.12">1 Cor. ix.
-12</ref>; and “The doctrine of Christ,” <ref type="scripture" cRef="Heb.6.1">Heb. vi. 1</ref>. “Of
-Christ,” that is, as its author, <ref type="scripture" cRef="Heb.1.1-Heb.1.2">Heb. i. 1,
+Christ,” <ref type="scripture" cRef="Col.3.16">Col<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>; or “The gospel of Christ,”
+<ref type="scripture" cRef="Rom.1.16">Rom<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>, <ref type="scripture" cRef="1Cor.9.12">1 Cor<choice><orig>. ix.</orig><reg resp="#editor" type="emendation"> 9:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="spacing"/></choice>12</ref>; and “The doctrine of Christ,” <ref type="scripture" cRef="Heb.6.1">Heb<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>. “Of
+Christ,” that is, as its author, <ref type="scripture" cRef="Heb.1.1-Heb.1.2">Heb<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1,
 2</ref>; and of him, as the chief subject or matter of it, <ref type="scripture" cRef="2Cor.1.20">2
-Cor. i. 20</ref>. Now, this word is called “The word of Christ’s
+Cor<choice><orig>. i.</orig><reg resp="#editor" type="emendation"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>20</ref>. Now, this word is called “The word of Christ’s
 patience,” or tolerance and forbearance, upon the account of that patience
 and long-suffering which, in the dispensation of it, the Lord Christ
 exerciseth towards the <choice><orig>whole</orig><reg resp="#editor" type="spelling">world</reg></choice>, and to all persons in it; and that both
@@ -2386,8 +2386,8 @@ actively and passively, in his bearing with men and enduring from
 them:—</p>
 
 <p xml:id="ccel-i.xi-p4">[1.] He is patient towards his <hi rend="italic">saints</hi>; he bears with
-them, suffers from them. He is “patient to us-ward,” <ref type="scripture" cRef="2Pet.3.9">2 Pet. iii.
-9</ref>,—that is, that believe. The gospel is the word of Christ’s
+them, suffers from them. He is “patient to us-ward,” <ref type="scripture" cRef="2Pet.3.9">2 Pet<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>9</ref>,—that is, that believe. The gospel is the word of Christ’s
 patience even to believers. A soul acquainted with the gospel knows that
 there is no property of Christ rendered more glorious therein than that of
 his patience. That he should bear with so many unkindnesses, so many
@@ -2399,11 +2399,11 @@ name and ways; and he suffers <hi rend="italic">in</hi> them, for “in all thei
 he is afflicted.”</p>
 
 <p xml:id="ccel-i.xi-p5">[2.] Towards <choice><orig>the</orig><reg resp="#editor" type="emendation">his</reg></choice> <hi rend="italic">elect</hi> not yet effectually called.
-<ref type="scripture" cRef="Rev.3.20">Rev. iii. 20</ref>, he stands waiting at the
+<ref type="scripture" cRef="Rev.3.20">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>20</ref>, he stands waiting at the
 door of their hearts and knocks for an entrance. He deals with them by all
 means, and yet stands and waits until “his head is filled with the dew, and
-his locks with the drops of the <pb n="139" xml:id="ccel-i.xi-Page_139"/>night,” <ref type="scripture" cRef="Song.5.2">Cant.
-v. 2</ref>; as enduring the cold and inconveniences of the night, that
+his locks with the drops of the <pb n="139" xml:id="ccel-i.xi-Page_139"/>night,” <ref type="scripture" cRef="Song.5.2"><choice><orig>Cant.
+v.</orig><reg resp="#editor" type="reference">Song 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>; as enduring the cold and inconveniences of the night, that
 when his morning is come he may have entrance. Oftentimes for a long season
 he is by them scorned in his person, persecuted in his saints and ways,
 reviled in his word, whilst he stands at the door in the word of his
@@ -2411,14 +2411,14 @@ patience, with his heart full of love towards their poor rebellious
 souls.</p>
 
 <p xml:id="ccel-i.xi-p6">[3.] To the <hi rend="italic">perishing world</hi>. Hence the time of his
-kingdom in this world is called the time of his “patience,” <ref type="scripture" cRef="Rev.1.9">Rev. i.
-9</ref>. He “endures the vessels of wrath with much long-suffering,”
-<ref type="scripture" cRef="Rom.9.22">Rom. ix. 22</ref>. Whilst the gospel is
+kingdom in this world is called the time of his “patience,” <ref type="scripture" cRef="Rev.1.9">Rev<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>9</ref>. He “endures the vessels of wrath with much long-suffering,”
+<ref type="scripture" cRef="Rom.9.22">Rom<choice><orig>. ix.</orig><reg resp="#editor" type="reference"> 9:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22</ref>. Whilst the gospel is
 administered in the world he is patient towards the men thereof, until the
 saints in heaven and earth are astonished and cry out, “How long?”
-<ref type="scripture" cRef="Ps.13.1-Ps.13.2">Ps. xiii. 1, 2</ref>; <ref type="scripture" cRef="Rev.6.10">Rev. vi.
-10</ref>. And themselves do mock at him as if he were an idol,
-<ref type="scripture" cRef="2Pet.3.4">2 Pet. iii. 4</ref>. He endures from them
+<ref type="scripture" cRef="Ps.13.1-Ps.13.2">Ps<choice><orig>. xiii.</orig><reg resp="#editor" type="reference"> 13:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1, 2</ref>; <ref type="scripture" cRef="Rev.6.10">Rev<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>10</ref>. And themselves do mock at him as if he were an idol,
+<ref type="scripture" cRef="2Pet.3.4">2 Pet<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>4</ref>. He endures from them
 bitter things, in his name, ways, worship, saints, promises, threats, all
 his interest of honour and love; and yet passeth by them, lets them alone,
 does them good. Nor will he cut this way of proceeding short until the
@@ -2439,27 +2439,27 @@ word of <hi rend="italic">liberty</hi> and <hi rend="italic">power</hi>, to enno
 condition:—</p>
 
 <p xml:id="ccel-i.xi-p10">1<hi rend="italic">st</hi>. As a word of <hi rend="italic">grace</hi> and <hi rend="italic">mercy</hi>,
-able to save us: “It is the power of God unto salvation,” <ref type="scripture" cRef="Rom.1.16">Rom.
-i. 16</ref>; “The grace of God that bringeth <choice><orig>forth</orig><reg resp="#editor" type="emendation"></reg></choice> salvation,”
-<ref type="scripture" cRef="Titus.2.11">Tit. ii. 11</ref>; “The word of grace that is
+able to save us: “It is the power of God unto salvation,” <ref type="scripture" cRef="Rom.1.16">Rom<choice><orig>.
+i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>; “The grace of God that bringeth <choice><orig>forth</orig><reg resp="#editor" type="emendation"></reg></choice> salvation,”
+<ref type="scripture" cRef="Titus.2.11"><choice><orig>Tit. ii.</orig><reg resp="#editor" type="reference">Titus 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11</ref>; “The word of grace that is
 able to build us up, and to give us an inheritance among all them that are
-sanctified,” <ref type="scripture" cRef="Acts.20.32">Acts xx. 32</ref>; “The word that is able to
-save our souls,” <ref type="scripture" cRef="Jas.1.21">James i. 21</ref>. When the word of the gospel
+sanctified,” <ref type="scripture" cRef="Acts.20.32">Acts <choice><orig>xx</orig><reg resp="#editor" type="reference">20</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>32</ref>; “The word that is able to
+save our souls,” <ref type="scripture" cRef="Jas.1.21"><choice><orig>James</orig><reg resp="#editor" type="reference">Jas</reg></choice> <choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21</ref>. When the word of the gospel
 is known as a word of mercy, grace, and pardon, as the sole evidence for
 life, as the conveyance of an eternal inheritance; when the soul finds it
 such to itself, it will strive to keep it.</p>
 
 <p xml:id="ccel-i.xi-p11">2<hi rend="italic">dly</hi>. As a word of <hi rend="italic">holiness</hi> and
 <hi rend="italic">purity</hi>, able to sanctify him: “Ye are clean through the word I have
-spoken unto you,” saith our Saviour, <ref type="scripture" cRef="John.15.3">John xv. 3</ref>. To
-that purpose is his prayer, <ref type="scripture" cRef="John.17.17">chap. xvii.
-17</ref>. He that knows not the word of Christ’s patience as a
+spoken unto you,” saith our Saviour, <ref type="scripture" cRef="John.15.3">John <choice><orig>xv</orig><reg resp="#editor" type="reference">15</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3</ref>. To
+that purpose is his prayer, <ref type="scripture" cRef="John.17.17"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>. <choice><orig>xvii</orig><reg resp="#editor" type="reference">17</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>17</ref>. He that knows not the word of Christ’s patience as a
 sanctifying, cleansing word, in the power of it upon his own soul, neither
 knows it nor keeps it. The empty profession of our days knows not one step
 towards this duty; and thence it is that the most are so overborne under
 the power of temptations. Men full of self, of the world, of <pb n="140" xml:id="ccel-i.xi-Page_140"/>fury, ambition, and almost all unclean lusts, do yet talk of
-keeping the word of Christ! See <ref type="scripture" cRef="1Pet.1.2">1 Pet. i. 2</ref>;
-<ref type="scripture" cRef="2Tim.2.19">2 Tim. ii. 19</ref>.</p>
+keeping the word of Christ! See <ref type="scripture" cRef="1Pet.1.2">1 Pet<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>;
+<ref type="scripture" cRef="2Tim.2.19">2 Tim<choice><orig>. ii.</orig><reg resp="#editor" type="emendation"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>19</ref>.</p>
 
 <p xml:id="ccel-i.xi-p12">3<hi rend="italic">dly</hi>. As a word of <hi rend="italic">liberty</hi> and <hi rend="italic">power</hi>,
 to ennoble him and set him free;—and this not only from the guilt of sin
@@ -2467,22 +2467,22 @@ and from wrath, for that it doth as it is a word of grace and mercy; not
 only from the power of sin, for that it doth as it is a word of holiness;
 but also from all outward respects of men or the world that might entangle
 him or enslave him. It declares us to be “Christ’s freemen,” and in bondage
-unto none, <ref type="scripture" cRef="John.8.32">John viii. 32</ref>; <ref type="scripture" cRef="1Cor.7.23">1 Cor. vii.
-23</ref>. We are not by it freed from due subjection unto superiors,
-nor from any duty, nor unto any sin, <ref type="scripture" cRef="1Pet.2.16">1 Pet. ii. 16</ref>;
+unto none, <ref type="scripture" cRef="John.8.32">John <choice><orig>viii</orig><reg resp="#editor" type="reference">8</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>32</ref>; <ref type="scripture" cRef="1Cor.7.23">1 Cor<choice><orig>. vii.</orig><reg resp="#editor" type="emendation"> 7:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="spacing"/></choice>23</ref>. We are not by it freed from due subjection unto superiors,
+nor from any duty, nor unto any sin, <ref type="scripture" cRef="1Pet.2.16">1 Pet<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16</ref>;
 but in two respects it is a word of freedom, liberty, largeness of mind,
 <choice><orig>power</orig><reg resp="#editor" type="spelling">power,</reg></choice> and deliverance from bondage:—</p>
 
 <p xml:id="ccel-i.xi-p13">(1<hi rend="italic">st</hi>.) In respect of <hi rend="italic">conscience</hi> as to the
-worship of God, <ref type="scripture" cRef="Gal.5.1">Gal. v. 1</ref>.</p>
+worship of God, <ref type="scripture" cRef="Gal.5.1">Gal<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</ref>.</p>
 
 <p xml:id="ccel-i.xi-p14">(2<hi rend="italic">dly</hi>.) In respect of <hi rend="italic">ignoble</hi>, slavish
 respects unto the men or things of the world, in the course of our
 pilgrimage. The gospel gives a free, large, and noble spirit, in subjection
 to God, and none else. There is administered in it a spirit “not of fear,
-but of power, and of love, and of a sound mind,” <ref type="scripture" cRef="2Tim.1.7">2 Tim. i.
-7</ref>; a mind “in nothing terrified,” <ref type="scripture" cRef="Phil.1.28">Phil. i.
-28</ref>,—not swayed with any by-respect whatever. There is nothing
+but of power, and of love, and of a sound mind,” <ref type="scripture" cRef="2Tim.1.7">2 Tim<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>7</ref>; a mind “in nothing terrified,” <ref type="scripture" cRef="Phil.1.28">Phil<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>28</ref>,—not swayed with any by-respect whatever. There is nothing
 more unworthy of the gospel than a mind in bondage to persons or things,
 prostituting itself to the lusts of men or affrightments of the world. And
 he that thus knows the word of Christ’s patience, really and in power, is
@@ -2498,10 +2498,10 @@ great part, of this condition of our preservation from the hour and power
 of temptation.</p>
 
 <p xml:id="ccel-i.xi-p16">[2.] <hi rend="italic">Valuation</hi> of what is thus known belongs to the
-keeping of this word. It is to be kept as a treasure. <ref type="scripture" cRef="2Tim.1.14">2 Tim. i.
-14</ref>, <seg>Τὴν καλὴν
+keeping of this word. It is to be kept as a treasure. <ref type="scripture" cRef="2Tim.1.14">2 Tim<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>14</ref>, <seg>Τὴν καλὴν
 παρακαταθήκην</seg>,—that excellent “<seg>depositum</seg>” (that is, the word of the gospel),—“keep it,” saith the apostle, “by the Holy Ghost;” and, “Hold fast the
-faithful word,” <ref type="scripture" cRef="Titus.1.9">Tit. i. 9</ref>. It is a good treasure, a
+faithful word,” <ref type="scripture" cRef="Titus.1.9"><choice><orig>Tit. i.</orig><reg resp="#editor" type="reference">Titus 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9</ref>. It is a good treasure, a
 faithful word; hold it fast. It is a word that comprises the whole interest
 of Christ in the world. To value that as our chiefest treasure is to keep
 the word of Christ’s patience. They that will have a regard from Christ in
@@ -2509,7 +2509,7 @@ the time of temptation are not to be regardless of his concernments.</p>
 
 <p xml:id="ccel-i.xi-p17">[3.] <hi rend="italic">Obedience</hi>. Personal obedience, in the universal
 observation of all the commands of Christ, is the keeping of his word,
-<ref type="scripture" cRef="John.14.15">John xiv. 15</ref>. <pb n="141" xml:id="ccel-i.xi-Page_141"/>Close
+<ref type="scripture" cRef="John.14.15">John <choice><orig>xiv</orig><reg resp="#editor" type="reference">14</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15</ref>. <pb n="141" xml:id="ccel-i.xi-Page_141"/>Close
 adherence unto Christ in holiness and universal obedience, then when the
 opposition that the gospel of Christ doth meet withal in the world doth
 render it signally the word of his patience, is the life and soul of the
@@ -2539,8 +2539,8 @@ considerations:—</p>
 <p xml:id="ccel-i.xi-p21">(1.) It hath the <hi rend="italic">promise</hi> of preservation, and this
 alone hath so. It is solemnly promised, in the place mentioned, to the
 church of Philadelphia on this account. When a great trial and temptation
-was to come on the world, at the opening of the seventh seal, <ref type="scripture" cRef="Rev.7.3">Rev.
-vii. 3</ref>, a caution is given for the preservation of God’s sealed
+was to come on the world, at the opening of the seventh seal, <ref type="scripture" cRef="Rev.7.3">Rev<choice><orig>.
+vii.</orig><reg resp="#editor" type="reference"> 7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3</ref>, a caution is given for the preservation of God’s sealed
 ones, which are described to be those who keep the word of Christ; for the
 promise is that it should be so.</p>
 
@@ -2552,16 +2552,16 @@ in execution. And all these are engaged for the preservation of such
 persons from the hour of temptation.</p>
 
 <p xml:id="ccel-i.xi-p23">[1.] The <hi rend="italic">faithfulness</hi> of God accompanieth the
-promise. On this account is our deliverance laid, <ref type="scripture" cRef="1Cor.10.13">1 Cor. x.
-13</ref>. Though we be tempted, yet we shall be kept from the hour of
+promise. On this account is our deliverance laid, <ref type="scripture" cRef="1Cor.10.13">1 Cor<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>13</ref>. Though we be tempted, yet we shall be kept from the hour of
 temptation; it shall not grow too strong for us. What comes on us we shall
 be able to bear; and what would be too hard for us we shall escape. But
 what security have we hereof? Even the faithfulness of God: “God is
 faithful, who will not suffer you,” etc. And wherein is God’s faithfulness
-seen and exercised? “He is faithful that promised,” <ref type="scripture" cRef="Heb.10.23">Heb. x.
-23</ref>; his <pb n="142" xml:id="ccel-i.xi-Page_142"/>faithfulness consists in his discharge of
+seen and exercised? “He is faithful that promised,” <ref type="scripture" cRef="Heb.10.23">Heb<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>23</ref>; his <pb n="142" xml:id="ccel-i.xi-Page_142"/>faithfulness consists in his discharge of
 his promises. “He abideth faithful: he cannot deny himself,” <ref type="scripture" cRef="2Tim.2.13">2
-Tim. ii. 13</ref>. So that by being under the promise, we have the
+Tim<choice><orig>. ii.</orig><reg resp="#editor" type="emendation"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>13</ref>. So that by being under the promise, we have the
 faithfulness of God engaged for our preservation.</p>
 
 <p xml:id="ccel-i.xi-p24">[2.] There is in every promise of the covenant <hi rend="italic">the grace
@@ -2570,19 +2570,19 @@ thee.” How? “By my grace with thee.” So that what assistance the grace of
 Christ can give a soul that hath a right in this promise, in the hour of
 temptation it shall enjoy it. Paul’s temptation grew very high; it was
 likely to have come to its prevalent hour. He “besought the Lord<choice><orig>,</orig><reg resp="#editor" type="punctuation">,”</reg></choice> that is,
-the Lord Jesus Christ, for help, <ref type="scripture" cRef="2Cor.12.8">2 Cor. xii. 8</ref>;
+the Lord Jesus Christ, for help, <ref type="scripture" cRef="2Cor.12.8">2 Cor<choice><orig>. xii.</orig><reg resp="#editor" type="reference"> 12:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</ref>;
 and received that answer from him, “My grace is sufficient for thee,”
 <ref type="scripture">verse 9</ref>. That it was the Lord Christ and
 his grace with whom he had peculiarly to do is evident from the close of
 that verse: “I will glory in my infirmity, that the power of Christ may
 rest upon me;” or “the efficacy of the grace of Christ in my preservation
-be made evident.” So <ref type="scripture" cRef="Heb.2.18">Heb. ii. 18</ref>.</p>
+be made evident.” So <ref type="scripture" cRef="Heb.2.18">Heb<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18</ref>.</p>
 
 <p xml:id="ccel-i.xi-p25">[3.] The <hi rend="italic">efficacy</hi> of the Spirit accompanieth the
 promises. He is called “The Holy Spirit of promise;” not only because he is
 promised by Christ, but also because he effectually makes good the promise,
 and gives it accomplishment in our souls. He also, then, is engaged to
-preserve the soul walking according to the rule laid down. See <ref type="scripture" cRef="Isa.59.21">Isa. lix. 21</ref>. Thus, where the promise
+preserve the soul walking according to the rule laid down. See <ref type="scripture" cRef="Isa.59.21">Isa<choice><orig>. lix.</orig><reg resp="#editor" type="reference"> 59:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21</ref>. Thus, where the promise
 is, there is all this assistance. The faithfulness of the Father, the grace
 of the Son, the power of the Spirit, all are engaged in our
 preservation.</p>
@@ -2590,12 +2590,12 @@ preservation.</p>
 <p xml:id="ccel-i.xi-p26">(2.) This <hi rend="italic">constant, universal</hi> keeping of Christ’s
 word of patience will keep the heart and soul in such a frame, as wherein
 no prevalent temptation, by virtue of any advantages whatever, can seize
-upon it, so as totally to prevail against it. So David prays, <ref type="scripture" cRef="Ps.25.21">Ps.
-xxv. 21</ref>, “Let integrity and uprightness preserve me.” This
+upon it, so as totally to prevail against it. So David prays, <ref type="scripture" cRef="Ps.25.21">Ps<choice><orig>.
+xxv.</orig><reg resp="#editor" type="reference"> 25:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21</ref>, “Let integrity and uprightness preserve me.” This
 integrity and uprightness is the Old Testament keeping the word of Christ,—universal close walking with God. Now, how can they preserve a man? Why,
 by keeping his heart in such a frame, so defended on every side, that no
 evil can approach or take hold on him. Fail a man in his integrity, he hath
-an open place for temptation to enter, <ref type="scripture" cRef="Isa.57.21">Isa. lvii. 21</ref>.
+an open place for temptation to enter, <ref type="scripture" cRef="Isa.57.21">Isa<choice><orig>. lvii.</orig><reg resp="#editor" type="reference"> 57:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21</ref>.
 To keep the word of Christ, is to do <choice><orig>this</orig><reg resp="#editor" type="emendation">it</reg></choice> universally, as hath been showed.
 This exercises grace in all the faculties of the soul, and compasses it
 with the whole armour of God. The understanding is full of light; the
@@ -2610,8 +2610,8 @@ Especially, upon a twofold account doth deliverance and security arise from
 unto the matter of temptations. The prevalency of any temptation arises
 from hence, that the heart is ready to close with the matter of it. There
 are lusts within, suited to the proposals of the world or Satan without.
-Hence James resolves all temptations into our “own lusts,” <ref type="scripture" cRef="Isa.1.14">chap.
-i. 14</ref>; because either they proceed from or are made effectual by
+Hence James resolves all temptations into our “own lusts,” <ref type="scripture" cRef="Isa.1.14"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>.
+<choice><orig>i</orig><reg resp="#editor" type="reference">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14</ref>; because either they proceed from or are made effectual by
 them, as hath been declared. Why doth terror or threats turn us aside from
 a due constancy in the performance of our duty? Is it not because there is
 unmortified, carnal fear abiding in us, that tumultuates in such a season?
@@ -2620,9 +2620,9 @@ entangle us? Is it not because our affections are entangled with the things
 and considerations proposed unto us? Now, keeping the word of Christ’s
 patience, in the manner declared, keeps the heart mortified to these
 things, and so it is not easily entangled by them. Saith the apostle,
-<ref type="scripture" cRef="Gal.2.20">Gal. ii. 20</ref>, “I am crucified with
+<ref type="scripture" cRef="Gal.2.20">Gal<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>20</ref>, “I am crucified with
 Christ.” He that keeps close to Christ is crucified with him, and is dead
-to all the desires of the flesh and the world; as more fully, <ref type="scripture" cRef="Gal.6.14">chap. vi. 14</ref>. Here the match is broken,
+to all the desires of the flesh and the world; as more fully, <ref type="scripture" cRef="Gal.6.14"><choice><orig>chap</orig><reg resp="#editor" type="reference">ch</reg></choice>. <choice><orig>vi</orig><reg resp="#editor" type="reference">6</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14</ref>. Here the match is broken,
 and all love, entangling love, dissolved. The heart is crucified to the
 world and all things in it. Now the matter of all temptations almost is
 taken out of the world; the men of it, or the things of it, make them up.
@@ -2634,7 +2634,7 @@ pleasures, profits of the world, I see nothing desirable in them. <choice><orig>
 reputation among them, they are all as a thing of nought. I have no value
 nor estimation of them.<choice><orig>”</orig><reg resp="#editor" type="punctuation">” This soul is safeguarded from assaults of manifold temptations.</reg></choice> When Achan saw the “goodly <choice><orig>Babylonian</orig><reg resp="#editor" type="spelling">Babylonish</reg></choice> garment, and
 two hundred shekels of silver, and a wedge of gold,” first he “coveted
-them,” then he “took them,” <ref type="scripture" cRef="Josh.7.21">Josh. vii. 21</ref>.
+them,” then he “took them,” <ref type="scripture" cRef="Josh.7.21">Josh<choice><orig>. vii.</orig><reg resp="#editor" type="reference"> 7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21</ref>.
 Temptation subtly spreads the Babylonish garment of favour, praise, peace,
 the silver of pleasure or profit, with the golden contentments of the
 flesh, before the eyes of men. If now there be that in them alive,
@@ -2653,7 +2653,7 @@ shall not be able to resist and stand.</p>
 <p xml:id="ccel-i.xi-p29"><pb n="144" xml:id="ccel-i.xi-Page_144"/>[2.] In this frame the heart is <hi rend="italic">filled with
 better things</hi> and their excellency, so far as to be fortified against
 the matter of any temptation. See what resolution this puts Paul upon,
-<ref type="scripture" cRef="Phil.3.8">Phil. iii. 8</ref>; all is “loss and dung” to
+<ref type="scripture" cRef="Phil.3.8">Phil<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</ref>; all is “loss and dung” to
 him. Who would go out of his way to have his arms full of loss and dung?
 And whence is it that he hath this estimation of the most desirable things
 in the world? It is from that dear estimation he had of the excellency of
@@ -2690,12 +2690,12 @@ Besides the sense of duty which is always upon him, he considers,—</p>
 loves, in him and his careful walking. He considers that the presence of
 Christ is with him, his eye upon him; that he ponders his heart and ways,
 as one greatly concerned in his deportment of himself, in a time of trial.
-So Christ manifests himself to do, <ref type="scripture" cRef="Rev.2.19-Rev.2.23">Rev. ii.
-19–23</ref>. He considers all,—what is acceptable, what is to be
+So Christ manifests himself to do, <ref type="scripture" cRef="Rev.2.19-Rev.2.23">Rev<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>19–23</ref>. He considers all,—what is acceptable, what is to be
 rejected. He knows that Christ is concerned in his honour, that his name be
 not evil spoken of by reason of him; that he is concerned in love to his
 soul, having that design upon him to “present him holy, and unblamable, and
-unreprovable in his sight,” <ref type="scripture" cRef="Col.1.22">Col. i. 22</ref>,—and his Spirit is grieved where he is interrupted in this work; concerned
+unreprovable in his sight,” <ref type="scripture" cRef="Col.1.22">Col<choice><orig>. i.</orig><reg resp="#editor" type="reference"> 1:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22</ref>,—and his Spirit is grieved where he is interrupted in this work; concerned
 on the account of his gospel, <pb n="145" xml:id="ccel-i.xi-Page_145"/>the progress and acceptation of
 it in the world,—its beauty would be slurred, its good things reviled,
 its progress stopped, if such a one be prevailed against; concerned in his
@@ -2711,8 +2711,8 @@ the feet of men, turn aside others from his ways? Shall such a man as I
 fly, give over <choice><orig>resistings</orig><reg resp="#editor" type="spelling">resisting</reg></choice>? It cannot be.” There is no man who keeps the
 word of the patience of Christ but is full of this soul-pressing
 consideration. It dwells on his heart and spirit; and the love of Christ
-constrains him so to keep his heart and ways, <ref type="scripture" cRef="2Cor.5.14">2 Cor. v.
-14</ref>.</p>
+constrains him so to keep his heart and ways, <ref type="scripture" cRef="2Cor.5.14">2 Cor<choice><orig>. v.</orig><reg resp="#editor" type="reference"> 5:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>14</ref>.</p>
 
 <p xml:id="ccel-i.xi-p33">2<hi rend="italic">dly</hi>. The great consideration of <hi rend="italic">the temptations
 of Christ</hi> in his behalf, and the conquest he made in all assaults for
@@ -2733,8 +2733,8 @@ exercise such a soul. He knows what it is to enjoy the favour of Christ, to
 have a sense of his love, to be accepted in his approaches to him, to
 converse with him, and perhaps hath been sometimes at some loss in this
 thing; and so knows also what it is to be in the dark, distanced from him.
-See the deportment of the spouse in such a case, <ref type="scripture" cRef="Song.3.4">Cant. iii.
-4</ref>. When she had once found him again, she holds him; she will
+See the deportment of the spouse in such a case, <ref type="scripture" cRef="Song.3.4"><choice><orig>Cant. iii.</orig><reg resp="#editor" type="reference">Song 3:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>4</ref>. When she had once found him again, she holds him; she will
 not let him go; she will lose him no more.</p>
 
 <p xml:id="ccel-i.xi-p35">[2.] He that keeps the word of Christ’s patience hath
@@ -2742,22 +2742,22 @@ preserving <hi rend="italic">principles</hi> whereby he is acted. Some of them m
 mentioned:—</p>
 
 <p xml:id="ccel-i.xi-p36">1<hi rend="italic">st</hi>. In all things he lives by <hi rend="italic">faith</hi>, and is
-acted by it in all his ways, <ref type="scripture" cRef="Gal.2.20">Gal. ii. 20</ref>.
+acted by it in all his ways, <ref type="scripture" cRef="Gal.2.20">Gal<choice><orig>. ii.</orig><reg resp="#editor" type="reference"> 2:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>20</ref>.
 Now, upon a twofold account hath faith, when improved, the power of
 preservation from temptation annexed unto it:—</p>
 
 <p xml:id="ccel-i.xi-p37"><pb n="146" xml:id="ccel-i.xi-Page_146"/>(1<hi rend="italic">st</hi>.) Because it empties the soul of
 its <hi rend="italic">own wisdom</hi>, understanding, and fulness, that it may act in the
 wisdom and fulness of Christ. The only advice for <choice><orig>the</orig><reg resp="#editor" type="emendation"></reg></choice> preservation in
-trials and temptations lies in that of the wise man, <ref type="scripture" cRef="Prov.3.5">Prov. iii. 5</ref>, “Trust in the <seg rend="smallcaps">Lord</seg> with all thine heart; and lean
+trials and temptations lies in that of the wise man, <ref type="scripture" cRef="Prov.3.5">Prov<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5</ref>, “Trust in the <seg rend="smallcaps">Lord</seg> with all thine heart; and lean
 not unto thine own understanding.” This is the <hi rend="italic">work</hi> of faith; it
 <hi rend="italic">is</hi> faith; it is to <hi rend="italic">live</hi> by faith. The great <choice><orig>[cause of]
 falling</orig><reg resp="#editor" type="emendation">failing</reg></choice> of men in trials is their leaning to, or leaning upon, their own
-understanding and counsel. What is the issue of it? <ref type="scripture" cRef="Job.18.7">Job xviii.
-7</ref>, “The steps of his strength shall be straitened, and his own
+understanding and counsel. What is the issue of it? <ref type="scripture" cRef="Job.18.7">Job <choice><orig>xviii</orig><reg resp="#editor" type="reference">18</reg></choice><choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>7</ref>, “The steps of his strength shall be straitened, and his own
 counsel shall cast him down.” First, he shall be entangled, and then cast
 down; and all by his own counsel, until he come to be ashamed of it, as
-Ephraim was, <ref type="scripture" cRef="Hos.10.6">Hos. x. 6</ref>. Whenever in our trials we
+Ephraim was, <ref type="scripture" cRef="Hos.10.6">Hos<choice><orig>. x.</orig><reg resp="#editor" type="reference"> 10:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6</ref>. Whenever in our trials we
 consult our own understandings, hearken to self-reasonings, though they
 seem to be good, and tending to our preservation, yet the principle of
 living by faith is stifled, and we shall in the issue be cast down by <choice><orig>own</orig><reg resp="#editor" type="emendation">our</reg></choice>
@@ -2773,7 +2773,7 @@ elsewhere.</p>
 <p xml:id="ccel-i.xi-p39">2<hi rend="italic">dly</hi>. <hi rend="italic">Love</hi> to the saints, with care that they
 suffer not upon our account, is a great preserving principle in a time of
 temptations and trials. How powerful this was in David, he declares in that
-earnest prayer, <ref type="scripture" cRef="Ps.69.9">Ps. lxix. <choice><orig>9</orig><reg resp="#editor" type="emendation">6</reg></choice></ref>, “Let not them that wait on
+earnest prayer, <ref type="scripture" cRef="Ps.69.9">Ps<choice><orig>. lxix. 9</orig><reg resp="#editor" type="emendation"> 69:6</reg></choice></ref>, “Let not them that wait on
 thee, O Lord <seg rend="smallcaps">God</seg> of hosts, be
 ashamed for my sake: let not those that seek thee be confounded for my
 sake, O God of Israel;”—“O let not me so miscarry, that those for whom I
@@ -2949,7 +2949,7 @@ what hath been done by entering into temptation, perhaps you would be more
 watchful and careful. Men may think that they shall do well enough
 notwithstanding; but, “Can a man take fire in his bosom, and his clothes
 not be burnt? Can one go upon hot coals, and his feet not be burnt?”
-<ref type="scripture" cRef="Prov.6.27-Prov.6.28">Prov. vi. 27, 28</ref>. No such thing; men
+<ref type="scripture" cRef="Prov.6.27-Prov.6.28">Prov<choice><orig>. vi.</orig><reg resp="#editor" type="reference"> 6:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>27, 28</ref>. No such thing; men
 come not out of their temptation without wounds, burnings, and scars. I
 know not any place in the world where there is more need of pressing this
 exhortation than in this place. Go to our several colleges, inquire for
@@ -3000,7 +3000,7 @@ we be negligent under his eye? Do <choice><orig>not</orig><reg resp="#editor" ty
 thee as he did to Peter, when he was asleep in the garden, with the same
 reproof: “What! canst thou not watch one hour?” Would it not be a grief to
 thee to be so reproved, or to hear him thundering against thy neglect from
-heaven, as against the church of Sardis? <ref type="scripture" cRef="Rev.3.2">Rev. iii. 2</ref>.</p>
+heaven, as against the church of Sardis? <ref type="scripture" cRef="Rev.3.2">Rev<choice><orig>. iii.</orig><reg resp="#editor" type="reference"> 3:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2</ref>.</p>
 
 <p xml:id="ccel-i.xii-p5">3. Consider that if thou neglect this duty, and so fall
 into temptation,—which assuredly thou wilt do,—that when thou art

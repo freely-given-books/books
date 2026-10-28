@@ -140,6 +140,13 @@ first (`./fgb release record BOOK`, filled in, merged). The steps by hand:
 ./fgb export DIR               # the newest release laid out for the site, with IMPORT.md
 ```
 
+**Ready to sign.** The editor may call a book ready before signing it (the
+signing waits until its Lulu revision is made): `./fgb release ready BOOK`
+records the date and commit in `books/publishing.toml` (`--clear` takes it
+back), `./fgb release` shows "ready to sign since …", or "changed since" if
+the book's folder has moved on, and the site's unsigned preview
+(`npm run build:unsigned`) marks the book "Ready to sign".
+
 `stable` is this repository with only the done books, plus `CATALOG.md`;
 readers clone it (`git clone --recursive -b stable`). Signatures are checked
 against `allowed_signers` at the root. `make` pushes nothing: it prints the

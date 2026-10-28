@@ -2,31 +2,730 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 22 |
-| emendation | 16 |
-| punctuation | 9 |
-| spacing | 3 |
+| spacing | 1022 |
+| emendation | 715 |
+| punctuation | 218 |
+| spelling | 55 |
 | case | 1 |
 | grammar | 1 |
 
 ## emendation
 
+- [part-1.typ] ECCLESIASTES → Eccl
+- [part-1.typ] vii → 7
+- [part-1.typ] ver → v
+- [part-1.typ] ver → v
+- [part-1.typ] ver → vv
+- [part-1.typ] ver → v
+- [part-1.typ] ver → v
+- [part-1.typ] ver → v
+- [part-1.typ] ver → vv
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] xvi → 16
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . xxv . → 25:
+- [part-1.typ] iv → 4
+- [part-1.typ] Matth . ii . → Matt 2:
+- [part-1.typ] Eccles . ix . → Eccl 9:
+- [part-1.typ] i → 1
+- [part-1.typ] Psal . lxxiii . → Ps 73:
+- [part-1.typ] Eccles . viii . → Eccl 8:
+- [part-1.typ] xxi → 21
+- [part-1.typ] . xxx . → 30:
+- [part-1.typ] xxxv → 35
+- [part-1.typ] . i . → 1:
+- [part-1.typ] xxi → 21
+- [part-1.typ] xxxiv → 34
 - [part-1.typ] 23 → 33
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] Psal . xxxix . → Ps 39:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] . xxvi . → 26:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] xii → 12
+- [part-1.typ] iv → 4
+- [part-1.typ] Psal . lxxiii . → Ps 73:
+- [part-1.typ] Is . lxiv . → Isa 64:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] Psal . lv . → Ps 55:
+- [part-1.typ] . xxiv . → 24:
+- [part-1.typ] . xxix . → 29:
+- [part-1.typ] xxx → 30
+- [part-1.typ] . x . → 10:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] xxx → 30
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . xxxiv → 34
+- [part-1.typ] Psal . xxxi . → Ps 31:
+- [part-1.typ] Is . liii . → Isa 53:
+- [part-1.typ] . xx . → 20:
+- [part-1.typ] Psal . cvii . → Ps 107:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . ix . → 9:
+- [part-1.typ] xvi → 16
+- [part-1.typ] Matth . xv . → Matt 15:
+- [part-1.typ] Chron . vii . → Chr 7:
+- [part-1.typ] xix → 19
+- [part-1.typ] . xxv . → 
+- [part-1.typ] ii → 2
+- [part-1.typ] xx → 20
+- [part-1.typ] iii → 3
+- [part-1.typ] Psal . cxxxv . → Ps 135:
+- [part-1.typ] xvii → 17
+- [part-1.typ] Matth . x . → Matt 10:
+- [part-1.typ] . xvi . → 16:
+- [part-1.typ] . xxi . → 21:
+- [part-1.typ] . x . → 10:
+- [part-1.typ] . xix . → 19:
+- [part-1.typ] . xlv . → 45:
+- [part-1.typ] . xxi . → 21:
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] xxiii → 23
+- [part-1.typ] ix → 9
+- [part-1.typ] . xvii . → 17:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . xxxix . → 29:
+- [part-1.typ] Psal . xciv . → Ps 94:
+- [part-1.typ] ix → 9
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] . Jam . i . → , Jas 1:
+- [part-1.typ] xiv → 14
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] Psal . lxxxi . → Ps 81:
+- [part-1.typ] ver → v
+- [part-1.typ] . xvi . → 16:
+- [part-1.typ] Psal . lxxvi . → Ps 76:
+- [part-1.typ] i → 1
+- [part-1.typ] ver → vv
+- [part-1.typ] ii → 2
+- [part-1.typ] ver → v
+- [part-1.typ] ver → v
+- [part-1.typ] . xlvi . → 46:
+- [part-1.typ] . xvi . → 16:
+- [part-1.typ] . viii . → 8:
+- [part-1.typ] . ix . → 9:
+- [part-1.typ] . l . → 50:
+- [part-1.typ] i → 1
+- [part-1.typ] x → 10
+- [part-1.typ] Matth . xvi . → Matt 16:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] xv → 15
+- [part-1.typ] Numb . xxxii . → Num 32:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . xlii . → 42:
+- [part-1.typ] xliv → 44
+- [part-1.typ] . xxvii . → 27:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . xxx . → 30:
+- [part-1.typ] . xiii . → 13:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] v → 5
+- [part-1.typ] Psal . xcix . → Ps 99:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] xxxiii → 33
+- [part-1.typ] Psal . cvi . → Ps 106:
+- [part-1.typ] Numb . xx . → Num 20:
+- [part-1.typ] xxx → 30
+- [part-1.typ] . xx . → 20:
+- [part-1.typ] Psal . lxxiii . → Ps 73:
+- [part-1.typ] . viii . → 8:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] Cant . ii . → Song 2:
+- [part-1.typ] iv → 4
+- [part-1.typ] Psal . cxvii . → Ps 147:
+- [part-1.typ] . xxi . → 21:
+- [part-1.typ] Numb . xii . → Num 12:
+- [part-1.typ] Psal . xxviii . → Ps 28:
+- [part-1.typ] Is . x . → Isa 10:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . xvi . → 16:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] Is . xxii . → Isa 22:
+- [part-1.typ] Numb . xiv . → Num 14:
 - [part-1.typ] 7 → 27
+- [part-1.typ] ix → 9
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] xxxv → 35
+- [part-1.typ] Psal . lxxxix . → Ps 89:
+- [part-1.typ] Psal . cxiii . → Ps 113:
+- [part-1.typ] Psal . lxxxiv . → Ps 84:
 - [part-1.typ] my → the
+- [part-1.typ] Is . xlix . → Isa 49:
+- [part-1.typ] . l . → 50:
+- [part-1.typ] . x . → 10:
+- [part-1.typ] ii → 2
+- [part-1.typ] v → 5
+- [part-1.typ] xvi → 16
+- [part-1.typ] Psal . cxix . → Ps 119:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . xx . → 20:
+- [part-1.typ] Psal . cxxxv . → Ps 135:
+- [part-1.typ] x → 10
+- [part-1.typ] . xxiv . → 24:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . xxxi . → 31:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . xxvi . → 26:
+- [part-1.typ] . xviii . → 18:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] Psal . cxxvii . → Ps 127:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . ix . → 9:
+- [part-1.typ] vii → 7
+- [part-1.typ] xvii → 17
+- [part-1.typ] Is . xlvi . → Isa 46:
+- [part-1.typ] ix → 9
+- [part-1.typ] Psal . cxxvii . → Ps 127:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . ix . → 9:
+- [part-1.typ] . x . → 10:
+- [part-1.typ] Ver . → Verse
+- [part-1.typ] Psal . cxlvi . → Ps 146:
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] . xviii . → 18:
+- [part-1.typ] Psal . l . → Ps 50:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . xv . → 15:
 - [part-1.typ] A → 5. A
-- [part-1.typ] v → x
-- [part-1.typ] to → to the crook, than
-- [part-2.typ] 19 → 9
+- [part-1.typ] Psal . lxxviii . → Ps 78:
+- [part-1.typ] . xiii . → 13:
+- [part-1.typ] . xxxiii . → 33:
+- [part-1.typ] xxi → 21
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] v → 5
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] Psal . cxvi . → Ps 116:
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] . xviii . → 18:
+- [part-1.typ] xviii → 18
+- [part-1.typ] Ver . → Verse
+- [part-1.typ] . xxxvi . → 36:
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] . xxxvi . → 36:
+- [part-1.typ] Matth . xxi . → Matt 21:
+- [part-1.typ] . xv . → 15:
+- [part-1.typ] Matth . xvii . → Matt 17:
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] iv → 4
+- [part-1.typ] Psal . x . → Ps 10:
+- [part-1.typ] Psal . xxvii . → Ps 27:
+- [part-1.typ] i → 1
+- [part-1.typ] . lx . → 60:
+- [part-1.typ] . xlix . → 49:
+- [part-1.typ] Psal . cxlii . → Ps 142:
+- [part-1.typ] x → 10
+- [part-1.typ] Matth . xiii . → Matt 13:
+- [part-1.typ] ver → v
+- [part-1.typ] Psal . xxvii . → Ps 27:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] Ver . → Verse
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] v → 5
+- [part-1.typ] Psal . xxxvii . → Ps 37:
+- [part-1.typ] xxi → 21
+- [part-1.typ] . xxv . → 25:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] xvii → 17
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] . xxiii . → 23:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] Psal . cxix . → Ps 119:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . xii . → 12:
+- [part-1.typ] Is . xxvii . → Isaiah 27:
+- [part-1.typ] xxiii → 23
+- [part-1.typ] . xxxi . → 31:
+- [part-1.typ] Pet . i . → Peter 1:
+- [part-1.typ] x → 10
+- [part-1.typ] ix → 9
+- [part-1.typ] Psal . xlvii . → Ps 47:
+- [part-1.typ] xiv → 14
+- [part-1.typ] v → 10
+- [part-1.typ] Matth . xiii . → Matt 13:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] . viii . → 8:
+- [part-1.typ] crook → crook, than the crook
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] Matth . xvi . → Matt 16:
+- [part-1.typ] ii → 2
+- [part-1.typ] Philip . ii . → Phil 2:
+- [part-1.typ] . xv . → 15:
+- [part-1.typ] Matth . xi . → Matt 11:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] Matth . vi → Matt 6
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] Matth . xi . → Matt 11:
+- [part-1.typ] Matth . xi . → Matt 11:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] Philip . iv . → Phil 4:
+- [part-1.typ] Psal . xxviii . → Ps 28:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . xv . → 15:
+- [part-1.typ] i → 1
+- [part-1.typ] . vii . → 7:
+- [part-1.typ] ix → 9
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] . xxv . → 25:
+- [part-1.typ] v → 5
+- [part-1.typ] i → 1
+- [part-1.typ] . xi . → 11:
+- [part-1.typ] Psal . xxviii . → Ps 28:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . i . → 1:
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] iii → 3
+- [part-1.typ] xxiii → 23
+- [part-1.typ] vi → 6
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] . ii . → 2:
+- [part-1.typ] . xi . → 11
+- [part-1.typ] xv → 15
+- [part-1.typ] . vi . → 6:
+- [part-1.typ] . v . → 5:
+- [part-1.typ] . iii . → 3:
+- [part-1.typ] xvii → 17
+- [part-1.typ] . iv . → 4:
+- [part-1.typ] Psal . xxii . → Ps 22:
+- [part-1.typ] Psal . cxlii . → Ps 142:
+- [part-1.typ] . xxx . → 30:
+- [part-1.typ] . iii . → 3:
+- [part-2.typ] xvi → 16
+- [part-2.typ] Psal . ix . → Ps 9:
+- [part-2.typ] Matth . v . → Matt 5:
+- [part-2.typ] vi → 6
+- [part-2.typ] Matth . xi . → Matt 11:
+- [part-2.typ] . viii . → 8:
+- [part-2.typ] . xxx . → 30:
+- [part-2.typ] . x . → 10:
+- [part-2.typ] xiv → 14
+- [part-2.typ] xiv → 14
+- [part-2.typ] Psal . cxxxi . → Ps 131:
+- [part-2.typ] . iv . → 4:
+- [part-2.typ] . viii . → 8:
+- [part-2.typ] v → 5
+- [part-2.typ] Psal . lxxiii . → Ps 73:
+- [part-2.typ] . viii . → 8:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] Psal . cxxix . → Ps 129:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] ix → 9
+- [part-2.typ] xii → 12
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . xxxii . → 32:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] xlii → 42
+- [part-2.typ] Psal . cxliv . → Ps 144:
+- [part-2.typ] . xi . → 11:
+- [part-2.typ] . ii . → 2:
+- [part-2.typ] Psal . cxxxi . → Ps 131:
+- [part-2.typ] Psal . xlvii . → Ps 47:
+- [part-2.typ] Psal . cxxxi . → Ps 131:
+- [part-2.typ] . xv . → 15:
+- [part-2.typ] . xxxii . → 32:
+- [part-2.typ] ii → 2
+- [part-2.typ] . vii . → 7:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . xxx . → 30:
+- [part-2.typ] . xxxix . → 39:
+- [part-2.typ] . xii . → 12:
+- [part-2.typ] Is . xxviii . → Isa 28:
+- [part-2.typ] . xv . → 15:
+- [part-2.typ] Eccles . i . → Eccl 1:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] . vi . → 6:
+- [part-2.typ] . xlviii . → 48:
+- [part-2.typ] . vii . → 7:
+- [part-2.typ] iv → 4
+- [part-2.typ] . iv . → 4:
+- [part-2.typ] xxi → 21
+- [part-2.typ] . xix . → 19:
+- [part-2.typ] . iv . → 4:
+- [part-2.typ] vi → 6
+- [part-2.typ] . xxvii . → 27:
+- [part-2.typ] xxi → 21
+- [part-2.typ] Psal . xxix . → Ps 39:
+- [part-2.typ] . iv . → 4:
+- [part-2.typ] ix → 9
+- [part-2.typ] Matth . v . → Matt 10:
+- [part-2.typ] . xv . 19 → 15:9
 - [part-2.typ] 20 → 10
-- [part-2.typ] 10 → 16
+- [part-2.typ] . vi . → 6:
+- [part-2.typ] Is . i . → Isa 1:
+- [part-2.typ] . iv . → 4:
+- [part-2.typ] Psal . lxxviii . → Ps 78:
+- [part-2.typ] Psal . x . → Ps 10:
+- [part-2.typ] Psal . lxxviii . → Ps 78:
+- [part-2.typ] xxi → 21
+- [part-2.typ] Matth . xi . → Matt 11:
+- [part-2.typ] Is . liii . → Isa 53:
+- [part-2.typ] Is . lvii . → Isa 57:
+- [part-2.typ] . ii . → 2:
+- [part-2.typ] . xii . → 12:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] Psal . xxx . → Ps 30:
+- [part-2.typ] . viii . → 8:
+- [part-2.typ] Matth . v . → Matt 5:
+- [part-2.typ] Is . lxvi . → Isa 66:
+- [part-2.typ] Is . lvii . → Isa 57:
+- [part-2.typ] Is . xl . → Isa 40:
+- [part-2.typ] . xvii . → 17:
+- [part-2.typ] Is . xl . → Isa 40:
+- [part-2.typ] Psal . xviii . → Ps 18:
+- [part-2.typ] Is . lvii . → Isa 57:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] . ii . 10 → 2:16
+- [part-2.typ] . v . → 5:
+- [part-2.typ] xvi → 16
+- [part-2.typ] Psal . xlvi . → Ps 46:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . ix . → 9:
+- [part-2.typ] iv → 4
+- [part-2.typ] Psal . lxxviii . → Ps 78:
+- [part-2.typ] . xvi . → 16:
+- [part-2.typ] . xiii . → 13:
+- [part-2.typ] . xvi . → 16:
+- [part-2.typ] xxi → 21
+- [part-2.typ] . vi . → 6:
+- [part-2.typ] . xxv . → 25:
+- [part-2.typ] . ii . → 2:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] Psal . lxxxi . → Ps 81:
+- [part-2.typ] Psal . lxxviii . → Ps 78:
+- [part-2.typ] . iii . → 3:
+- [part-2.typ] . ii . → 2:
+- [part-2.typ] Matth . xi . → Matt 11:
+- [part-2.typ] . v . → 5:
+- [part-2.typ] Is . i . → Isa 1:
+- [part-2.typ] . iv . → 4:
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] ix → 9
+- [part-3.typ] ii → 2
+- [part-3.typ] iv → 4
+- [part-3.typ] Is . lxvi . → Isa 66:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] vii → 7
+- [part-3.typ] Eccles . iii → Eccl 3
+- [part-3.typ] . xvii . → 17:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] Psal . cvii . → Ps 107:
+- [part-3.typ] xxxv → 35
+- [part-3.typ] iv → 4
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] xii → 12
+- [part-3.typ] . vi . → 
+- [part-3.typ] Gal . i . → Galatians 1:
 - [part-3.typ] 11 → II
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . vii . → 7:
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] . v . → 5:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] Psal . cxi . → Ps 111:
+- [part-3.typ] Psal . xxxii . → Ps 82:
+- [part-3.typ] xxiii → 23
+- [part-3.typ] . xiii . → 13:
+- [part-3.typ] . xiii . → 13:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . xvi . → 16:
+- [part-3.typ] . xxiv . → 24:
+- [part-3.typ] xxx → 30
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . xvi . → 16:
+- [part-3.typ] . xxi . → 21:
+- [part-3.typ] Is . vi . → Isa 6:
+- [part-3.typ] Psal . cxliv . → Ps 144:
+- [part-3.typ] . xviii . → 18:
+- [part-3.typ] Is . xl . → Isa 40:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] Is . lxiv . → Isa 64:
+- [part-3.typ] . ix . → 9:
+- [part-3.typ] Psal . xxxix . → Ps 39:
+- [part-3.typ] i → 1
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] Psal . cxliv . → Ps 144:
+- [part-3.typ] ix → 9
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] xviii → 18
+- [part-3.typ] . xxx . → 30:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] xiii → 13
+- [part-3.typ] Is . xl . → Isa 40:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] vii → 7
+- [part-3.typ] . v . → 5:
+- [part-3.typ] Is . xiv . → Isa 45:
+- [part-3.typ] ix → 9
+- [part-3.typ] xli → 41
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] v → 5
 - [part-3.typ] It → (2.) It
-- [part-3.typ] 4 → 5
-- [part-3.typ] 22 → 29
+- [part-3.typ] vi → 6
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] . xxii . → 22:
+- [part-3.typ] . xvi . → 16:
+- [part-3.typ] xiii → 13
+- [part-3.typ] Psal . cxix . → Ps 119:
+- [part-3.typ] . xvi . → 16:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] Matth . xi . → Matt 11:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] Psal . li . → Ps 51:
+- [part-3.typ] Is . lxvi . → Isa 66:
+- [part-3.typ] Is . lvii . → Isa 57:
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] Is . xlvi . → Isa 46:
+- [part-3.typ] Psal . xlvi . 4 → Ps 45:5
+- [part-3.typ] iv → 4
+- [part-3.typ] vi → 6
+- [part-3.typ] . xiv . → 14:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] iv → 4
+- [part-3.typ] Psal . xxviii . → Ps 28:
+- [part-3.typ] ii → 2
+- [part-3.typ] . x . → 10:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . ix . → 9:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] vi → 6
+- [part-3.typ] xli → 41
+- [part-3.typ] Is . vi . → Isa 6:
+- [part-3.typ] xxxviii → 37
+- [part-3.typ] xxxviii → 38
+- [part-3.typ] xl → 40
+- [part-3.typ] xlii → 42
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] xxxviii → 38
+- [part-3.typ] xlii → 42
+- [part-3.typ] xl → 40
+- [part-3.typ] . i . → 1:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] vi → 6
+- [part-3.typ] . x . → 10:
+- [part-3.typ] Is . lv . → Isa 55:
+- [part-3.typ] v → 5
+- [part-3.typ] Tit . ii . → Titus 2:
+- [part-3.typ] iv → 4
+- [part-3.typ] iii → 3
+- [part-3.typ] i → 1
+- [part-3.typ] ver → v
+- [part-3.typ] v → 5
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] Is . i . → Isa 1:
+- [part-3.typ] . xxiv . → 24:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Cor . v . → Corinthians 5:
+- [part-3.typ] . v . → 5:
+- [part-3.typ] . vii . → 7:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] xxiv → 24
+- [part-3.typ] ix → 9
+- [part-3.typ] Is . lvii . → Isa 57:
+- [part-3.typ] Is . ix . → Isa 9:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] Is . xxxiii . → Isa 33:
+- [part-3.typ] . ix . → 9:
+- [part-3.typ] Psal . xxv . → Ps 25:
+- [part-3.typ] . xxxiv . → 34:
+- [part-3.typ] Psal . xxiv . → Ps 24:
+- [part-3.typ] . vii . → 7:
+- [part-3.typ] xvi → 16
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . xvi . → 16:
+- [part-3.typ] Psal . lxxiii . → Ps 73:
+- [part-3.typ] xviii → 18
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] Eccles . iii . → Eccl 3:
+- [part-3.typ] Is . l . → Isa 50:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] Is . xxviii . → Isa 28:
+- [part-3.typ] Eccles . iii . → Eccl 3:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] Psal . xxx . → Ps 30:
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] Numb . xxi . → Num 21:
+- [part-3.typ] xvi → 16
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Psal . cvii . → Ps 107:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] vii → 7
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Psal . ciii . → Ps 103:
+- [part-3.typ] . xviii . → 18:
+- [part-3.typ] . xxxii . → 32:
+- [part-3.typ] . xxxiv . → 34:
+- [part-3.typ] . xiv . → 14:
+- [part-3.typ] iv → 4
+- [part-3.typ] Psal . ciii . → Ps 103:
+- [part-3.typ] Is . xlix . → Isa 49:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . xxxi . → 31:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] xxiv → 24
+- [part-3.typ] xii → 12
+- [part-3.typ] . viii . 22 → 8:29
+- [part-3.typ] Is . xxvi . → Isa 26:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] Is . xxvi . → Isa 26:
+- [part-3.typ] Psal . cxxix . → Ps 129:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . v . → 5:
+- [part-3.typ] vi → 6
+- [part-3.typ] Is . lxvi . → Isa 66:
+- [part-3.typ] Psal . xxxvii . → Ps 37:
+- [part-3.typ] Psal . cxix . → Ps 119:
+- [part-3.typ] Psal . xii . → Psalm 12:
+- [part-3.typ] Psal . xxvii . → Ps 27:
+- [part-3.typ] . ix . → 9:
+- [part-3.typ] Is . xlix . → Isa 49:
+- [part-3.typ] iv → 4
+- [part-3.typ] Matth . xxiii . → Matt 23:
+- [part-3.typ] Psal . x . → Ps 10:
+- [part-3.typ] Psal . l . → Ps 50:
+- [part-3.typ] Psal . ix . → Ps 9:
+- [part-3.typ] Psal . cii . → Ps 102:
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] v → 5
+- [part-3.typ] Psal . xlii . → Ps 42:
+- [part-3.typ] . xx . → 20:
+- [part-3.typ] xviii → 18
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] . viii . → 8:
 - [part-3.typ] of → 
+- [part-3.typ] v → 5
+- [part-3.typ] iv → 4
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Is . xliii . → Isa 63:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . xxviii . → 28:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Psal . lxxxix . → Ps 89:
+- [part-3.typ] . x . → 10:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] xi → 11
+- [part-3.typ] ii → 2
+- [part-3.typ] v → 5
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] xvi → 16
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] vii → 6
+- [part-3.typ] Psal . l . → Ps 50:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] Psal . xl . → Ps 40:
+- [part-3.typ] xlii → 42
+- [part-3.typ] . xiv . → 14:
+- [part-3.typ] . v . → 5:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] Cant . iv . → Song 4:
+- [part-3.typ] iii → 3
+- [part-3.typ] . v . → 5:
+- [part-3.typ] v → 5
+- [part-3.typ] Psal . xvii . → Ps 17:
+- [part-3.typ] Psal . iv . → Ps 4:
+- [part-3.typ] . xi . → 11:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] Psal . xxvii . → Ps 27:
 - [part-3.typ] John → Job
-- [part-3.typ] vi → iv
+- [part-3.typ] ix → 9
+- [part-3.typ] v → 5
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] Psal . ix . → Ps 9:
+- [part-3.typ] Psal . cxvi . → Ps 116:
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] . xvi . → 16
+- [part-3.typ] . xviii . → 18:
+- [part-3.typ] . xxi . → 21:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . xiv . → 14:
+- [part-3.typ] . xxi . → 21:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] xviii → 18
+- [part-3.typ] xxxii → 32
+- [part-3.typ] Eccles . iii . → Eccl 3:
+- [part-3.typ] vii → 7
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . ii . → 2:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] . viii . → 8:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . xiii . → 13:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] Psal . x . → Ps 10:
+- [part-3.typ] xxxviii → 38
+- [part-3.typ] xl → 40
+- [part-3.typ] xlii → 42
+- [part-3.typ] xl → 40
+- [part-3.typ] xxxiii → 33
+- [part-3.typ] xiii → 13
+- [part-3.typ] Psal . cxvi . → Ps 116:
+- [part-3.typ] . iv . → 4:
+- [part-3.typ] . xvi → 16
+- [part-3.typ] Psal . cxvi . → Ps 116:
+- [part-3.typ] v → 5
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] vi → 6
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] xlii → 42
+- [part-3.typ] . v . → 5:
+- [part-3.typ] . xii . → 12:
+- [part-3.typ] xvi → 16
+- [part-3.typ] xvi → 16
+- [part-3.typ] Philip , i . → Phil 1:
+- [part-3.typ] Eph . vi . → Ephesians 4:
+- [part-3.typ] . iii . → 3:
+- [part-3.typ] . vii . → 7:
+- [part-3.typ] Psal . xxx . → Ps 30:
+- [part-3.typ] . vi . → 6:
+- [part-3.typ] . xv . → 15:
+- [part-3.typ] ix → 9
+- [part-3.typ] Eccles . ix . → Eccl 9:
+- [part-3.typ] . i . → 1:
+- [part-3.typ] Philip . i . → Phil 1:
+- [part-3.typ] Psal . ix . → Ps 9:
 
 ## grammar
 
@@ -34,15 +733,224 @@
 
 ## punctuation
 
-- [part-1.typ] . → ,
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :25
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
 - [part-1.typ] " → ”
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
 - [part-1.typ] " → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → :
+- [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-2.typ] . → :
 - [part-2.typ] . → 
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → :
 - [part-2.typ] " → 
 - [part-2.typ] - → 
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → 
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-2.typ] . → :
+- [part-2.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :6
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
 - [part-3.typ] , → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
 - [part-3.typ] " → 
-- [part-3.typ] , → .
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → 
 
 ## case
 
@@ -50,10 +958,12 @@
 
 ## spelling
 
-- Cor → Cor.
-- Deut → Deut.
+- chap → ch (×17)
+- James → Jas (×16)
+- Kings → Kgs (×8)
+- Micah → Mic (×2)
+- PROVERBS → Prov
 - affections → afflictions
-- cxvii → cxlvii
 - disolated → desolated
 - happinness → happiness
 - it → it.
@@ -63,13 +973,5 @@
 - reigns → reins
 - slightness → sightliness
 - that → than
-- vii → vi
-- xiv → xlv
-- xliii → lxiii
-- xlvi → xlv
-- xxix → xxxix
-- xxxii → lxxxii
-- xxxix → xxix
-- xxxviii → xxxvii
 - yea → yet
 
