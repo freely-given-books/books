@@ -14,111 +14,124 @@
 
 #set text(font: "Libertinus Serif", size: 10.5pt)
 
+// Owen's title for each chapter, the line under "Chapter I" (the TEI's
+// <argument>, the book's only inset paragraph): set as the chapter's title,
+// centred and larger, not as a paragraph. The running head and the contents
+// take the short name in the <short> metadata before each chapter.
+#show block: it => if it.inset == (left: 1em, right: 1em) {
+  set par(justify: false, first-line-indent: 0pt)
+  align(center, block(width: 88%, above: 0pt, below: 2.2em,
+    text(13pt, style: "italic", hyphenate: false, it.body)))
+} else { it }
+
+#metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/epistle-dedicatory.typ"
 
+#metadata[Two Attestations] <short>
 #include "chapters/typ/attestations.typ"
 
+#metadata[To the Reader] <short>
 #include "chapters/typ/to-the-reader.typ"
 
 = Book I
 
-#metadata[Book I, Chapter I] <short>
+#metadata[The End of the Death of Christ] <short>
 #include "chapters/typ/book-1/chapter-01.typ"
 
-#metadata[Book I, Chapter II] <short>
+#metadata[The Nature of an End] <short>
 #include "chapters/typ/book-1/chapter-02.typ"
 
-#metadata[Book I, Chapter III] <short>
+#metadata[The Work of the Father] <short>
 #include "chapters/typ/book-1/chapter-03.typ"
 
-#metadata[Book I, Chapter IV] <short>
+#metadata[The Work of the Son] <short>
 #include "chapters/typ/book-1/chapter-04.typ"
 
-#metadata[Book I, Chapter V] <short>
+#metadata[The Work of the Holy Spirit] <short>
 #include "chapters/typ/book-1/chapter-05.typ"
 
-#metadata[Book I, Chapter VI] <short>
+#metadata[The Means of This Work] <short>
 #include "chapters/typ/book-1/chapter-06.typ"
 
-#metadata[Book I, Chapter VII] <short>
+#metadata[Oblation and Intercession One] <short>
 #include "chapters/typ/book-1/chapter-07.typ"
 
-#metadata[Book I, Chapter VIII] <short>
+#metadata[Objections Answered] <short>
 #include "chapters/typ/book-1/chapter-08.typ"
 
 = Book II
 
-#metadata[Book II, Chapter I] <short>
+#metadata[Previous Considerations] <short>
 #include "chapters/typ/book-2/chapter-01.typ"
 
-#metadata[Book II, Chapter II] <short>
+#metadata[False Ends Removed] <short>
 #include "chapters/typ/book-2/chapter-02.typ"
 
-#metadata[Book II, Chapter III] <short>
+#metadata[The Immediate End of Christ’s Death] <short>
 #include "chapters/typ/book-2/chapter-03.typ"
 
-#metadata[Book II, Chapter IV] <short>
+#metadata[Impetration and Application Distinguished] <short>
 #include "chapters/typ/book-2/chapter-04.typ"
 
-#metadata[Book II, Chapter V] <short>
+#metadata[Application and Impetration] <short>
 #include "chapters/typ/book-2/chapter-05.typ"
 
 = Book III
 
-#metadata[Book III, Chapter I] <short>
+#metadata[Arguments from the New Covenant] <short>
 #include "chapters/typ/book-3/chapter-01.typ"
 
-#metadata[Book III, Chapter II] <short>
+#metadata[Three Other Arguments] <short>
 #include "chapters/typ/book-3/chapter-02.typ"
 
-#metadata[Book III, Chapter III] <short>
+#metadata[From the Person Christ Sustained] <short>
 #include "chapters/typ/book-3/chapter-03.typ"
 
-#metadata[Book III, Chapter IV] <short>
+#metadata[Sanctification and Faith] <short>
 #include "chapters/typ/book-3/chapter-04.typ"
 
-#metadata[Book III, Chapter V] <short>
+#metadata[Redemption] <short>
 #include "chapters/typ/book-3/chapter-05.typ"
 
-#metadata[Book III, Chapter VI] <short>
+#metadata[Reconciliation] <short>
 #include "chapters/typ/book-3/chapter-06.typ"
 
-#metadata[Book III, Chapter VII] <short>
+#metadata[The Satisfaction of Christ] <short>
 #include "chapters/typ/book-3/chapter-07.typ"
 
-#metadata[Book III, Chapter VIII] <short>
+#metadata[A Digression on Satisfaction] <short>
 #include "chapters/typ/book-3/chapter-08.typ"
 
-#metadata[Book III, Chapter IX] <short>
+#metadata[Arguments for Christ’s Satisfaction] <short>
 #include "chapters/typ/book-3/chapter-09.typ"
 
-#metadata[Book III, Chapter X] <short>
+#metadata[The Merit of Christ] <short>
 #include "chapters/typ/book-3/chapter-10.typ"
 
-#metadata[Book III, Chapter XI] <short>
+#metadata[The Last General Argument] <short>
 #include "chapters/typ/book-3/chapter-11.typ"
 
 = Book IV
 
-#metadata[Book IV, Chapter I] <short>
+#metadata[Things to Be Considered First] <short>
 #include "chapters/typ/book-4/chapter-01.typ"
 
-#metadata[Book IV, Chapter II] <short>
+#metadata[Particular Arguments Entered Upon] <short>
 #include "chapters/typ/book-4/chapter-02.typ"
 
-#metadata[Book IV, Chapter III] <short>
+#metadata[The Remaining Texts Unfolded] <short>
 #include "chapters/typ/book-4/chapter-03.typ"
 
-#metadata[Book IV, Chapter IV] <short>
+#metadata[The Second General Argument Answered] <short>
 #include "chapters/typ/book-4/chapter-04.typ"
 
-#metadata[Book IV, Chapter V] <short>
+#metadata[The Last Argument from Scripture] <short>
 #include "chapters/typ/book-4/chapter-05.typ"
 
-#metadata[Book IV, Chapter VI] <short>
+#metadata[“The Universality of God’s Free Grace”] <short>
 #include "chapters/typ/book-4/chapter-06.typ"
 
-#metadata[Book IV, Chapter VII] <short>
+#metadata[Remaining Objections Removed] <short>
 #include "chapters/typ/book-4/chapter-07.typ"
 
 = Appendices
