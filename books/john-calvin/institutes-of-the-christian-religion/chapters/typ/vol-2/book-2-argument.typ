@@ -6,12 +6,12 @@ Under the Occasion of Redemption, the Fall is considered not only in a general w
 
 The subject of redemption may be reduced to five particular heads:
 
-I. The character of him in whom salvation for lost man must be sought, Chap. 6.
+I. The character of him in whom salvation for lost man must be sought, Chapter 6.
 
-II. How he was manifested to the world, namely, in a twofold manner. First, under the Law. Here the Decalogue is expounded, and some other points relating to the law discussed, Chap. 7 and 8. Secondly, under the Gospel. Here the resemblance and difference of the two dispensations are considered, Chap. 9, 10, 11.
+II. How he was manifested to the world, namely, in a twofold manner. First, under the Law. Here the Decalogue is expounded, and some other points relating to the law discussed, Chapter 7 and 8. Secondly, under the Gospel. Here the resemblance and difference of the two dispensations are considered, Chapter 9, 10, 11.
 
-III. What kind of person Christ was, and behoved to be, in order to perform the office of Mediator—viz. God and man in one person, Chap. 12, 13, 14.
+III. What kind of person Christ was, and behoved to be, in order to perform the office of Mediator—viz. God and man in one person, Chapter 12, 13, 14.
 
-IV. For what end he was sent into the world by the Father. Here Christ’s prophetical, kingly, and priestly offices are considered, Chap. 15.
+IV. For what end he was sent into the world by the Father. Here Christ’s prophetical, kingly, and priestly offices are considered, Chapter 15.
 
-V. In what way, or by what successive steps, Christ fulfilled the office of our Redeemer, Chap. 16. Here are considered his crucifixion, death, burial, descent to hell, resurrection, ascension to heaven, and seat at the right hand of the Father, together with the practical use of the whole doctrine. Chapter 17 contains an answer to the question, Whether Christ is properly said to have merited the grace of God for us.
+V. In what way, or by what successive steps, Christ fulfilled the office of our Redeemer, Chapter 16. Here are considered his crucifixion, death, burial, descent to hell, resurrection, ascension to heaven, and seat at the right hand of the Father, together with the practical use of the whole doctrine. Chapter 17 contains an answer to the question, Whether Christ is properly said to have merited the grace of God for us.

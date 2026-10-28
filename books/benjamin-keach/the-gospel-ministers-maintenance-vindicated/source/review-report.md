@@ -6,11 +6,12 @@
 
 | kind | count |
 | --- | --- |
-| case | 143 |
-| spelling | 104 |
-| punctuation | 101 |
-| emendation | 63 |
-| spacing | 59 |
+| punctuation | 144 |
+| case | 132 |
+| spelling | 103 |
+| emendation | 87 |
+| spacing | 68 |
+| italic | 41 |
 | gap | 7 |
 | grammar | 4 |
 | skipped | 1 |
@@ -37,24 +38,39 @@
 - [chapter-01.typ] our selves → ourselves
 - [chapter-01.typ] . Age → age
 - [chapter-01.typ] . To → to
+- [chapter-01.typ] Mat . → Matt
+- [chapter-01.typ] V . → Verse
 - [chapter-01.typ] & &c. → etc.
 - [chapter-01.typ] . & → :
+- [chapter-01.typ] Tit . → Titus
 - [chapter-01.typ] or daine → ordain
 - [chapter-01.typ] her self → herself
 - [chapter-01.typ] its → it's the duty of
 - [chapter-01.typ] duty → 
 - [chapter-01.typ] she → they
 - [chapter-01.typ] . To → to
+- [chapter-01.typ] Tit . → Titus
+- [chapter-01.typ] . And → and
 - [chapter-01.typ] a part → apart
 - [chapter-01.typ] it self → itself
 - [chapter-02.typ] be clouded → beclouded
 - [chapter-02.typ] be → be a
 - [chapter-02.typ] sooner → sooner it
+- [chapter-02.typ] v . → Verse
+- [chapter-02.typ] v . → Verse
+- [chapter-02.typ] v . → Verse
+- [chapter-02.typ] V . → Verse
+- [chapter-02.typ] v . → Verse
+- [chapter-02.typ] v . → Verse
 - [chapter-02.typ] of → only
 - [chapter-02.typ] 1 → 
 - [chapter-02.typ] he → be
+- [chapter-02.typ] Numb . → Num
 - [chapter-02.typ] 9. And → 9 and
+- [chapter-02.typ] Ephes . → Eph
 - [chapter-02.typ] 23 → 28
+- [chapter-02.typ] Ephes . → Eph
+- [chapter-02.typ] . The → the
 - [chapter-02.typ] thy self → thyself
 - [chapter-02.typ] thy self → thyself
 - [chapter-02.typ] your selves → yourselves
@@ -65,31 +81,40 @@
 - [chapter-02.typ] Cor → 
 - [chapter-02.typ] your selves → yourselves
 - [chapter-02.typ] wor thy → worthy
+- [chapter-02.typ] Nehemiah → Neh
+- [chapter-02.typ] . Especially → especially
 - [chapter-02.typ] but → but (
+- [chapter-02.typ] vers → v
 - [chapter-02.typ] 6 → 9
 - [chapter-02.typ] your selves → yourselves
 - [chapter-02.typ] your selves → yourselves
 - [chapter-02.typ] 10 → 19
 - [chapter-02.typ] your selves → yourselves
 - [chapter-02.typ] your selves → yourselves
+- [chapter-03.typ] Mat . → Matt
 - [chapter-03.typ] to → do
 - [chapter-03.typ] he → be
 - [chapter-03.typ] your selves → yourselves
 - [chapter-03.typ] has → base
 - [chapter-03.typ] our selves → ourselves
+- [chapter-03.typ] Zeck . → Ezek
 - [chapter-03.typ] our selves → ourselves
-- [chapter-03.typ] 1 Tim → Gal
-- [chapter-03.typ] 5 → 6
-- [chapter-03.typ] 18 → 6
+- [chapter-03.typ] 1 Tim . 5 . 18 → Gal 6:6
 - [chapter-03.typ] ( say they ) → 
-- [chapter-03.typ] 3 → 2
-- [chapter-03.typ] 13 → 33
+- [chapter-03.typ] Numb . → Num
+- [chapter-03.typ] v . → Verse
+- [chapter-03.typ] . 3 . → 2:
+- [chapter-03.typ] . 13 . → 33:
+- [chapter-03.typ] Numb . → Num
 - [chapter-03.typ] lively - hood → livelihood
 - [chapter-03.typ] a part → apart
+- [chapter-04.typ] Ezek . → Ezekiel
+- [chapter-04.typ] . Unto → unto
 - [chapter-04.typ] , and → .
 - [chapter-04.typ] Hence → And hence
-- [chapter-04.typ] 4 → 4:13
-- [chapter-04.typ] 13 , → 
+- [chapter-04.typ] . But → but
+- [chapter-04.typ] Exod → Exod 4:13
+- [chapter-04.typ] 4 . 13 , → 
 - [chapter-04.typ] it self → itself
 - [chapter-04.typ] thy self → thyself
 - [chapter-04.typ] in dwelling → indwelling
@@ -110,99 +135,142 @@
 - [chapter-01.typ] . → ,
 - [chapter-01.typ] . → ,
 - [chapter-01.typ] ▪ → :
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → :
-- [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → ,
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → ,
 - [chapter-01.typ] ▪ → ;
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → 
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → ,
 - [chapter-01.typ] & → and
+- [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → :
 - [chapter-02.typ] ▪ → ;
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] ▪ → ,
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → ?
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] ▪ → .
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] ▪ → ;
 - [chapter-02.typ] ; → ; (
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] ▪ → ,
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → ,
 - [chapter-02.typ] ▪ → ;
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] ▪ → ;
 - [chapter-02.typ] . → :
 - [chapter-02.typ] , → 
 - [chapter-02.typ] ▪ → ,
 - [chapter-02.typ] ▪ → ;
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
-- [chapter-02.typ] . → . 5:
+- [chapter-02.typ] . → 5:
 - [chapter-02.typ] . → ,
 - [chapter-02.typ] ▪ → ;
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
 - [chapter-02.typ] ▪ → ;
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
-- [chapter-03.typ] . → . 9:
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → 9:
 - [chapter-03.typ] . → ,
 - [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] , → 
 - [chapter-04.typ] . → ?
+- [chapter-04.typ] . → se
 - [chapter-04.typ] ; → 
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → ,
 - [chapter-04.typ] , → 
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] , → 
 - [chapter-04.typ] , → 
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 
 ## case
@@ -211,7 +279,6 @@
 - E → e (×16)
 - Spirit → spirit (×7)
 - holy → Holy (×7)
-- v → V (×7)
 - That → that (×6)
 - GOD → God (×5)
 - Gods → gods (×4)
@@ -219,21 +286,19 @@
 - For → for (×3)
 - In → in (×3)
 - Son → son (×3)
-- The → the (×3)
 - To → to (×3)
-- And → and (×2)
 - Either → either (×2)
 - Father → father (×2)
+- The → the (×2)
 - then → Then (×2)
 - thou → Thou (×2)
 - ver → Ver (×2)
 - A → a
 - AND → And
+- And → and
 - As → as
 - Because → because
-- But → but
 - Communicate, → communicate,
-- Especially → especially
 - Have → have
 - Mark → mark
 - Now → now
@@ -247,7 +312,6 @@
 - Those → those
 - Treatise, → treatise,
 - Unless → unless
-- Unto → unto
 - Ver → ver
 - WE → We
 - When → when
@@ -263,6 +327,7 @@
 - old → Old
 - surely → Surely
 - the → The
+- v → V
 - viz → Viz
 - why → Why
 
@@ -290,7 +355,6 @@
 - Physician → Physician,
 - Professor → professor,
 - Saviours → Saviour's
-- Zeck → Ezek
 - acccount → account
 - allowanee → allowance
 - alter → altar

@@ -1,6 +1,6 @@
 == By Grace Through Faith
 
-#quote[By grace are ye saved, through faith (Ephesians 2:8).]
+#quote[By grace are ye saved, through faith (Eph 2:8).]
 
 #smallcaps[I think it well] to turn a little to one side that I may ask my reader to observe adoringly the fountain-head of our salvation, which is the grace of God. “By grace are ye saved.” Because God is gracious, therefore sinful men are forgiven, converted, purified, and saved. It is not because of anything in them, or that ever can be in them, that they are saved; but because of the boundless love, goodness, pity, compassion, mercy, and grace of God. Tarry a moment, then, at the well-head. Behold the pure river of water of life, as it proceeds out of the throne of God and of the Lamb!
 

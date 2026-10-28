@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 18 |
+| spacing | 508 |
+| emendation | 301 |
+| punctuation | 56 |
+| spelling | 32 |
 | heading | 18 |
-| emendation | 13 |
-| spacing | 6 |
-| punctuation | 3 |
 | grammar | 1 |
 | split | 1 |
 
@@ -16,19 +16,307 @@
 
 ## emendation
 
+- [chapter-01.typ] . viii . → 8:
+- [chapter-01.typ] . viii . → 8:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . x . → 10:
+- [chapter-01.typ] xv → 15
+- [chapter-01.typ] . ix . → 9:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . v . → 5:
+- [chapter-01.typ] . viii . → 8:
+- [chapter-01.typ] . v . → 5:
+- [chapter-01.typ] . viii . → 8:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . v . → 5:
+- [chapter-01.typ] . vi . → 6:
+- [chapter-01.typ] . iii . → 3:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . ix . → 9:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . xiii . → 13:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] iv → 4
+- [chapter-02.typ] . xii . → 12:
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] . i . → 1:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] xv → 15
+- [chapter-02.typ] . ix . → 9:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . iv . → 4:
+- [chapter-02.typ] . xiii . → 13:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] i → 1
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . vi . → 6:
+- [chapter-02.typ] . xii . → 12:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] iv → 4
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] i → 1
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] . xii . → 12:
+- [chapter-02.typ] . vii → 7
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . v . → 5:
+- [chapter-02.typ] . i . → 1:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . iv . → 4:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . xxxi . → 31:
+- [chapter-02.typ] . xxxviii . → 38:
+- [chapter-02.typ] . xl . → 40:
+- [chapter-02.typ] . xxxiii . → 33:
+- [chapter-02.typ] . vii . → 7:
+- [chapter-02.typ] . ii . → 2:
+- [chapter-02.typ] . iii . → 3:
+- [chapter-02.typ] . iv . → 4:
+- [chapter-02.typ] . i . → 1
+- [chapter-02.typ] i → 1
+- [chapter-02.typ] Tit . ii . → Titus 2:
+- [chapter-02.typ] v → 5
+- [chapter-02.typ] Tit . ii . → Titus 2:
+- [chapter-02.typ] . ii . → 2:
+- [chapter-03.typ] . xi . → 11:
+- [chapter-03.typ] . v . → 5:
+- [chapter-03.typ] . ix . → 9:
+- [chapter-03.typ] vii → 7
+- [chapter-03.typ] . xi . → 11:
+- [chapter-03.typ] . lvii . → 57:
+- [chapter-03.typ] xv → 15
+- [chapter-03.typ] v → 5
+- [chapter-03.typ] ii → 2
+- [chapter-03.typ] . v . → 5:
+- [chapter-03.typ] Tit . iii . → Titus 3:
+- [chapter-03.typ] . iv . → 4:
+- [chapter-03.typ] . ii . → 2:
+- [chapter-03.typ] . xxvi . → 26:
+- [chapter-03.typ] . i . → 1:
+- [chapter-03.typ] . ii . → 2:
+- [chapter-03.typ] . viii . → 8:
+- [chapter-03.typ] xii → :
+- [chapter-04.typ] . xxxviii . → 38:
+- [chapter-04.typ] . lvii . → 57:
+- [chapter-04.typ] . xxxviii . → 38:
+- [chapter-04.typ] . xl . → 40:
+- [chapter-04.typ] . ii . → 2:
+- [chapter-04.typ] . v . → 5:
+- [chapter-04.typ] . iii . → 3:
 - [chapter-05.typ] I . 1 . → 
+- [chapter-05.typ] Phil . iii . → Philippians 3:
+- [chapter-05.typ] . ii . → 2:
+- [chapter-05.typ] vii → 7
+- [chapter-05.typ] . lxxviii . → 78:
+- [chapter-06.typ note] xiii → :
 - [chapter-06.typ] 2 . → 
+- [chapter-06.typ] . vi . → 6:
+- [chapter-06.typ] . ii . → 2:
+- [chapter-06.typ] . vii . → 7:
+- [chapter-06.typ] . vii . → 7
+- [chapter-06.typ] i → 1
+- [chapter-06.typ] . vi . → 6:
+- [chapter-06.typ] . v . → 5:
+- [chapter-06.typ] . iv . → 4:
+- [chapter-06.typ] . vi . → 6:
+- [chapter-06.typ] . xl . → 40:
+- [chapter-06.typ] viii → 8
+- [chapter-06.typ] Chron . xvi . → Chr 16:
+- [chapter-06.typ] . li . → 51:
+- [chapter-06.typ] . iii . → 3:
 - [chapter-07.typ] II . → 
 - [chapter-07.typ] 1 . → 
+- [chapter-07.typ] . viii . → 8:
+- [chapter-07.typ] . iii . → 3:
+- [chapter-07.typ] . ix . → 9:
 - [chapter-07.typ] I → 1. I
+- [chapter-07.typ] . viii . → 8:
+- [chapter-07.typ] . viii . → 8:
+- [chapter-07.typ] . iii . → 3:
+- [chapter-07.typ] . iv . → 4:
+- [chapter-07.typ] . vi . → 6:
+- [chapter-07.typ] ii → 2
+- [chapter-07.typ] . iii . → 3:
+- [chapter-07.typ] . vii . → 7:
+- [chapter-07.typ] . xii . → 12:
+- [chapter-07.typ] . vii . → 7:
+- [chapter-07.typ] . v . → 5:
+- [chapter-07.typ] . x . → 10:
+- [chapter-07.typ] xv → 15
+- [chapter-07.typ] . i . → 1:
+- [chapter-08.typ note] . i . → 1:
+- [chapter-08.typ note] . xii . → 12:
+- [chapter-08.typ note] . xliii . → 43:
 - [chapter-08.typ] 2 . → 
+- [chapter-08.typ] . lviii . → 58
+- [chapter-08.typ] . vii . → 7:
+- [chapter-09.typ note] . lxxvii . → 77:
+- [chapter-09.typ note] v → 5
+- [chapter-09.typ note] i → 1
+- [chapter-09.typ note] xxxix → 39:9
+- [chapter-09.typ note] 9 → 
+- [chapter-09.typ note] . v . → 5:
 - [chapter-09.typ] III . → 
+- [chapter-09.typ] . xxxviii . → 38:
+- [chapter-09.typ] . xiii . → 13:
+- [chapter-09.typ] . vi . → 6:
+- [chapter-09.typ] . vii . → 7:
+- [chapter-09.typ] . vi . → 6:
+- [chapter-09.typ] . lxiii . → 63:
+- [chapter-09.typ] . lvii . → 57:
+- [chapter-10.typ] . iv . → 4:
+- [chapter-10.typ] . vii . → 7:
+- [chapter-10.typ] . vii . → 7:
+- [chapter-10.typ] . vi . → 6:
+- [chapter-10.typ] . iii . → 3:
+- [chapter-10.typ] iii → 3
+- [chapter-10.typ] . lxxxix . → 89:
+- [chapter-10.typ] . lvii . → 57:
+- [chapter-10.typ] . v . → 5:
+- [chapter-10.typ] . iii . → 3:
+- [chapter-10.typ] x → 10
+- [chapter-10.typ] . vi . → 6:
+- [chapter-10.typ] . viii . → 8:
 - [chapter-10.typ] way → way wherein a man is ought by him to be concluded to be death, that he
+- [chapter-10.typ] . iv . → 4:
+- [chapter-10.typ] . iii . → 3:
 - [chapter-10.typ] them → them as temples of God, and to preserve them meet for him who so dwells in them
+- [chapter-10.typ] Numb . xxv . → Num 25:
 - [chapter-10.typ] of → 
+- [chapter-11.typ note] . li . → 51:
+- [chapter-11.typ] . vii . → 7:
+- [chapter-11.typ] Rom . vii . → Romans 7:
+- [chapter-11.typ] . ix . → 9:
+- [chapter-11.typ] xiii → 13
+- [chapter-11.typ] xxi → 21
+- [chapter-11.typ] i → 1
+- [chapter-12.typ note] xxxvii → 37
+- [chapter-12.typ note] . xl . → 40:
+- [chapter-12.typ note] . i . → 1:
+- [chapter-12.typ note] Cant . iv . → Song 4:
+- [chapter-12.typ] xlii → 42
+- [chapter-12.typ] iii → 3
+- [chapter-12.typ] . xxx . → 30:
+- [chapter-12.typ] . xxxiv . → 34:
+- [chapter-12.typ] i → 1
+- [chapter-12.typ] . xxxiv . → 34
+- [chapter-12.typ] . iii . → 3:
+- [chapter-12.typ] . xiii . → 13:
+- [chapter-12.typ] . xiii . → 13:
+- [chapter-12.typ] iii → 3
+- [chapter-12.typ] iii → 3
+- [chapter-12.typ] . vi . → 6:
+- [chapter-12.typ] . xxx . → 30:
+- [chapter-12.typ] . xi . → 11:
+- [chapter-12.typ] . v . → 5:
+- [chapter-12.typ] . xi . → 11:
+- [chapter-12.typ] i → 1
+- [chapter-12.typ] v → 5
+- [chapter-12.typ] . iv . → 4:
+- [chapter-12.typ] . v . → 5:
+- [chapter-12.typ] . iii . → 3:
+- [chapter-12.typ] i → 1
+- [chapter-12.typ] . iii → 3
+- [chapter-13.typ note] ii → 2
+- [chapter-13.typ note] xvi → 16
+- [chapter-13.typ note] . ix . → 9:
+- [chapter-13.typ note] . cxxx . → 130:
+- [chapter-13.typ note] . xxviii . → 28:
+- [chapter-13.typ note] v → 5
+- [chapter-13.typ note] . lxxxv . → 85:
+- [chapter-13.typ note] xxii → 22
+- [chapter-13.typ note] . li . → 51:
+- [chapter-13.typ] . ix . → 9:
+- [chapter-13.typ] . lvii . → 57:
+- [chapter-13.typ] . iii . → 3:
+- [chapter-13.typ] . xi . → 11:
+- [chapter-13.typ] . xii . → 12:
+- [chapter-13.typ] . liii . → 53:
+- [chapter-13.typ] . xvi . → 16:
+- [chapter-13.typ] . vii . → 7:
+- [chapter-13.typ] xlii → 42
+- [chapter-13.typ] xxxiii . → 33
+- [chapter-13.typ] Ps . lxxviii . → Psalm 78:
+- [chapter-13.typ] . lvii . → 57:
+- [chapter-13.typ] . lv . → 55:
+- [chapter-13.typ] Hos . xiv . → Hosea 14:
+- [chapter-13.typ] . xxv . → 25:
+- [chapter-13.typ] viii → 8
+- [chapter-13.typ] ii → 2
+- [chapter-13.typ] . cxvi . → 116:
+- [chapter-13.typ] . vi . → 6:
+- [chapter-13.typ] . iv . → 4:
+- [chapter-13.typ] x → 10
+- [chapter-13.typ] Cant . v . → Song 5:
+- [chapter-13.typ] Cant . v . → Song 5:
+- [chapter-14.typ note] xv → 15
+- [chapter-14.typ note] . xl . → 40:
+- [chapter-14.typ note] i → 1
+- [chapter-14.typ note] . xxviii . → 28:
+- [chapter-14.typ note] . viii . → 8:
+- [chapter-14.typ note] . cxxiii . → 123:
+- [chapter-14.typ note] . vii . → 7:
+- [chapter-14.typ note] vi → 6
+- [chapter-14.typ note] . i . → 1:
+- [chapter-14.typ note] . xi . → 11:
+- [chapter-14.typ note] . lv . → 55:
+- [chapter-14.typ note] . iii . → 3:
+- [chapter-14.typ note] . cxxx . → 130:
 - [chapter-14.typ note] vol . ii . → 
-- [chapter-14.typ note] 18 → 13
+- [chapter-14.typ note] . iii . → 3:
+- [chapter-14.typ note] . iii . → 3:
+- [chapter-14.typ note] . i . → 1:
+- [chapter-14.typ note] . xv . → 15:
+- [chapter-14.typ note] . i . → 1:
+- [chapter-14.typ note] . i . 18 → 1:13
+- [chapter-14.typ note] . xii . → 12:
+- [chapter-14.typ] . vi . → 6:
+- [chapter-14.typ] . iv . → 4:
+- [chapter-14.typ] i → 1
+- [chapter-14.typ] . i . → 1:
+- [chapter-14.typ] v → 5
+- [chapter-14.typ] xv → 15
+- [chapter-14.typ] . xi . → 11:
+- [chapter-14.typ] . xl . → 40:
+- [chapter-14.typ] . xxxv . → 35:
+- [chapter-14.typ] . xii . → 12:
+- [chapter-14.typ] . ii . → 2:
+- [chapter-14.typ] xv → 15
+- [chapter-14.typ] . i . → 1:
+- [chapter-14.typ] i → 1
+- [chapter-14.typ] . iii . → 3:
+- [chapter-14.typ] . lxvi . → 66:
+- [chapter-14.typ] . ii . → 2:
 - [chapter-14.typ] it → 
+- [chapter-14.typ] iv → 4
+- [chapter-14.typ] . xxxi . → 31:
+- [chapter-14.typ] Tit . ii . → Titus 2:
+- [chapter-14.typ] . v . → 5:
+- [chapter-14.typ] i → 1
+- [chapter-14.typ] . i . → 1:
+- [chapter-14.typ] . i . → 1:
+- [chapter-14.typ] . ix . → 9:
+- [chapter-14.typ] . vi . → 6:
+- [chapter-14.typ] . iii . → 3:
+- [chapter-14.typ] xvi → 16
+- [chapter-14.typ] ii → :
+- [chapter-14.typ] . i . → 1:
+- [chapter-14.typ] . iii . → 3:
+- [chapter-14.typ] . xii . → 12:
+- [chapter-14.typ] . viii . → 8:
 
 ## grammar
 
@@ -36,25 +324,78 @@
 
 ## punctuation
 
-- [chapter-04.typ] . → 
+- [chapter-01.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 12
+- [chapter-05.typ] . → :
+- [chapter-06.typ note] . → 13
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
 - [chapter-06.typ] — → 
 - [chapter-06.typ] — → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-09.typ note] . → :
+- [chapter-09.typ note] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → :
+- [chapter-12.typ note] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-13.typ note] . → :
+- [chapter-13.typ note] . → :
+- [chapter-13.typ note] . → :
+- [chapter-13.typ note] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-14.typ note] . → :
+- [chapter-14.typ note] . → :
+- [chapter-14.typ note] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 2
 
 ## spelling
 
+- chap → ch (×9)
+- James → Jas (×5)
+- Kings → Kgs (×3)
 - judgement → judgment (×2)
-- 9 → 9.
-- Gen → Gen.
+- Micah → Mic
 - Ninethly → Ninthly
 - evidence → evidences
-- ii → ii.
 - iii → iii.
 - overtly → overly
 - perplex → perplex;
 - this → his
 - unhealthy → healthy
-- xii → xii.
-- xiii → xiii.
+- v → vv
 - αἰνίγματι → αἰνίγματι,
 - λαβωμεν → λάβωμεν
 - προσώπω → προσώπῳ
