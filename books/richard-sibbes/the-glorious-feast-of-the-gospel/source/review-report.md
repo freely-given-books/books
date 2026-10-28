@@ -8,9 +8,9 @@
 | kind | count |
 | --- | --- |
 | punctuation | 2288 |
-| case | 1761 |
+| case | 1762 |
 | spelling | 1688 |
-| emendation | 804 |
+| emendation | 803 |
 | italic | 583 |
 | note | 385 |
 | spacing | 183 |
@@ -69,7 +69,7 @@
 - [chapter7.typ] paragraph → 1 split(s) at I
 - [chapter7.typ] paragraph → 1 split(s) at VVhy
 - [chapter7.typ] paragraph → 2 split(s) at the, the
-- [chapter7.typ] paragraph → 1 split(s) at the
+- [chapter7.typ] paragraph → 2 split(s) at the, by
 - [chapter7.typ] paragraph → 1 split(s) at And
 - [chapter7.typ] paragraph → 1 split(s) at If
 - [chapter7.typ] paragraph → 1 split(s) at The
@@ -697,8 +697,7 @@
 - [chapter7.typ] it self → itself
 - [chapter7.typ] Word , → word
 - [chapter7.typ] man → man,' 1 Cor 2:9
-- [chapter7.typ] so → so; and
-- [chapter7.typ] and → 4,
+- [chapter7.typ] , and → .
 - [chapter7.typ] Emaus → Emmaus, Luke 24:32
 - [chapter7.typ] Isaiah → , Isa
 - [chapter7.typ] , 7 , 8 , → –
@@ -3364,6 +3363,7 @@
 - We → we (×3)
 - Wine → wine (×3)
 - World → world (×3)
+- by → By (×3)
 - christian → Christian (×3)
 - head → Head (×3)
 - here → Here (×3)
@@ -3419,7 +3419,6 @@
 - Wines → wines (×2)
 - are → Are (×2)
 - because → Because (×2)
-- by → By (×2)
 - certainly → Certainly (×2)
 - do → Do (×2)
 - have → Have (×2)
