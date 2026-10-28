@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 615 |
-| spelling | 196 |
+| emendation | 616 |
+| spelling | 205 |
 | spacing | 58 |
 | punctuation | 58 |
 | grammar | 45 |
@@ -338,6 +338,7 @@
 - [book-3/chapter-08.typ] ye → 
 - [book-3/chapter-08.typ] its → us
 - [book-3/chapter-08.typ] it → 
+- [book-3/chapter-09.typ] Ὁς → Ὃς
 - [book-3/chapter-09.typ] He → Their iniquities he
 - [book-3/chapter-09.typ] their iniquities → 
 - [book-3/chapter-09.typ] hath → 
@@ -870,9 +871,18 @@
 - world → word
 - xliv → xlv
 - yes → yea
+- Αβραὰμ → Ἀβραὰμ
+- Χρίστου → Χριστοῦ
+- αδελφῶν → ἀδελφῶν
+- αντίλυτρον → ἀντίλυτρον
+- απόστολοι → ἀπόστολοι
+- δείξαι → δεῖξαι
 - εἷναι → εἶναι
+- παρορᾶματα → παροράματα
 - ἀριθμῷ → ἀριθμῷ.
+- ἐπι → ἐπὶ
 - ἠμάπησαν → ἠγάπησαν
 - ἰλάσκεσθαι → ἱλάσκεσθαι
 - ὀφθαλμοῦ → ὀφθαλμοῦ,
+- Ὀλικῶς → Ὁλικῶς
 
