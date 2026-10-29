@@ -7,11 +7,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 556 |
-| spacing | 323 |
-| emendation | 183 |
-| italic | 114 |
-| spelling | 70 |
+| punctuation | 628 |
+| spacing | 338 |
+| emendation | 186 |
+| italic | 128 |
+| spelling | 71 |
 | case | 35 |
 | gap | 9 |
 | expansion | 9 |
@@ -62,7 +62,9 @@
 
 ## emendation
 
-- [dedication.typ note] King → King. 1
+- [dedication.typ note] King → 1
+- [dedication.typ note] 1 → 1 Kgs 1
+- [dedication.typ note] King . 1 . → 
 - [dedication.typ note] Psal . → Ps
 - [dedication.typ note] Matth . → Matt
 - [dedication.typ note] Psal . → Ps
@@ -145,7 +147,7 @@
 - [chapter-08.typ] Numb . → Num
 - [chapter-08.typ] . Requires → requires
 - [chapter-08.typ] in → 
-- [chapter-08.typ] . And → ,
+- [chapter-08.typ] . And → ;
 - [chapter-08.typ] Gen → Gen 2:24
 - [chapter-08.typ] 2 . 24 , → 
 - [chapter-08.typ] Joh . → John
@@ -184,6 +186,7 @@
 - [chapter-12.typ] Numb . → Num
 - [chapter-12.typ] Ephes . → Eph
 - [chapter-12.typ] . King . → Kgs
+- [chapter-12.typ] . & → ;
 - [chapter-13.typ] Ephes . → Eph
 - [chapter-13.typ] Psal . → Ps
 - [chapter-13.typ] Luk . → Luke
@@ -255,8 +258,31 @@
 ## punctuation
 
 - [dedication.typ note] . → 
+- [dedication.typ note] . → 
 - [dedication.typ note] . → :
+- [dedication.typ note] . → 
 - [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → ,
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → Kgs
+- [dedication.typ note] . → :
+- [dedication.typ note] . → ,
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → 
+- [dedication.typ note] . → 
+- [dedication.typ note] . → :
+- [dedication.typ note] . → ,
+- [dedication.typ note] . → ,
+- [dedication.typ note] . → ,
 - [dedication.typ note] . → :
 - [dedication.typ note] . → :
 - [dedication.typ note] . → :
@@ -272,6 +298,9 @@
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → 
@@ -342,6 +371,7 @@
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
+- [chapter-03.typ] . → ,
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
@@ -352,6 +382,8 @@
 - [chapter-04.typ] . → :
 - [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → 
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
@@ -361,6 +393,7 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
@@ -396,6 +429,7 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → 
@@ -416,6 +450,7 @@
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
 - [chapter-05.typ] , → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
@@ -442,24 +477,32 @@
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → :
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → 
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → ,
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → :
@@ -470,16 +513,21 @@
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
+- [chapter-09.typ] . → ,
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
+- [chapter-09.typ] . → ,
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
@@ -506,6 +554,9 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
@@ -514,10 +565,15 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → ,
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ,
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
@@ -582,6 +638,7 @@
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → :
+- [chapter-12.typ] . → ,
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
@@ -604,6 +661,8 @@
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
+- [chapter-12.typ] . → ,
+- [chapter-12.typ] . → ,
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
@@ -615,6 +674,7 @@
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → 
@@ -632,15 +692,10 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
 - [chapter-13.typ] . → 
-- [chapter-13.typ] . → 
-- [chapter-13.typ] . → :
-- [chapter-13.typ] . → 
-- [chapter-13.typ] . → 
-- [chapter-13.typ] . → :
-- [chapter-13.typ] . → 
-- [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
@@ -648,6 +703,16 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
@@ -655,6 +720,9 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → 
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
@@ -684,12 +752,14 @@
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
+- [chapter-14.typ] . → ,
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → :
+- [chapter-14.typ] . → ,
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
@@ -701,10 +771,13 @@
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
+- [chapter-15.typ] . → ,
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → :
@@ -775,6 +848,8 @@
 - [chapter-17.typ] . → :
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
+- [chapter-17.typ] . → ,
+- [chapter-17.typ] . → ,
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
 - [chapter-17.typ] . → :
@@ -854,6 +929,7 @@
 - Honourable → Honorable (×2)
 - bruit → brute (×2)
 - honour → honor (×2)
+- 14 → 14:
 - Adoniah → Adonijah
 - Ahashuerosh → Ahasuerus
 - Anna's → Hannah's
