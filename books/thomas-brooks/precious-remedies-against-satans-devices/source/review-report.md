@@ -7,16 +7,16 @@
 | kind | count |
 | --- | --- |
 | spelling | 1541 |
-| punctuation | 1061 |
-| spacing | 628 |
-| emendation | 505 |
+| punctuation | 1083 |
+| spacing | 635 |
+| emendation | 509 |
 | note | 222 |
-| case | 140 |
+| case | 139 |
 | italic | 113 |
 | gap | 33 |
 | grammar | 26 |
 | expansion | 3 |
-| note moved | 2 |
+| note moved | 3 |
 | split | 2 |
 | merge | 1 |
 
@@ -213,8 +213,8 @@
 - [sin-11.typ note] I → ay
 - [sin-11.typ note] 3 → 
 - [sin-11.typ note] Remedy → 
-- [sin-11.typ note] 8 → 8:30, 31, 9
-- [sin-11.typ note] 13 → 5
+- [sin-11.typ note] 8 → 8:30, 31; 9:5
+- [sin-11.typ note] 13 . one → One
 - [sin-11.typ note] v , → 
 - [sin-11.typ note] Tim → Tim 1:13
 - [sin-11.typ note] 13 . 1 Titus → 
@@ -234,7 +234,7 @@
 - [sin-12.typ note] . Ezek . → :
 - [sin-12.typ note] Mat . 16 . 9 . Revel . → Matt
 - [sin-12.typ note] . 5 . 10 . Mat . 3 . → :
-- [sin-12.typ note] ch → 
+- [sin-12.typ note] . ch → :
 - [sin-12.typ note] Psal . → Ps
 - [sin-12.typ note] Psa → Ps 1:4
 - [sin-12.typ note] 14 . → Ps
@@ -343,8 +343,8 @@
 - [doubting-02.typ note] Psal . → Ps
 - [doubting-02.typ note] Cant . → Song
 - [doubting-03.typ note] Psal . → Ps
-- [doubting-03.typ note] Psal . → Ps
-- [doubting-03.typ note] Psal . → Ps
+- [doubting-03.typ note] Psal → Ps 88:1–18
+- [doubting-03.typ note] 88 . 1 . ult . Psal . → Ps
 - [doubting-03.typ note] go → go to
 - [doubting-03.typ note] Eccles . → Eccl
 - [doubting-03.typ note] Tribune ship → tribuneship
@@ -372,6 +372,7 @@
 - [doubting-04.typ note] 23 . → 
 - [doubting-04.typ note] Psal . → Ps
 - [doubting-04.typ note] Psal . → Ps
+- [doubting-04.typ note] verses . → 
 - [doubting-04.typ note] Cant . → Song
 - [doubting-04.typ note] Cant . → Song
 - [doubting-04.typ note] Mat . → Matt
@@ -382,7 +383,8 @@
 - [doubting-04.typ] soight → spite
 - [doubting-04.typ] I → Ay,
 - [doubting-04.typ] a far → afar
-- [doubting-05.typ note] 17 → 15
+- [doubting-05.typ note] Rom → Rom 7:19, 15
+- [doubting-05.typ note] 7 . 19 . 17 . → 
 - [doubting-05.typ note] Psal . → Ps
 - [doubting-05.typ note] hespared → he spared
 - [doubting-05.typ note] 58 → 5
@@ -403,6 +405,8 @@
 - [doubting-07.typ note] Chron . → Chr
 - [doubting-07.typ note] . ch . → :
 - [doubting-07.typ note] Jud . → Judg
+- [doubting-07.typ note] 15 → 15; ch
+- [doubting-07.typ note] ch . → 
 - [doubting-07.typ note] and → 
 - [doubting-07.typ note] John → :
 - [doubting-07.typ note] Mat . → Matt
@@ -686,6 +690,7 @@
 - [sin-04.typ note] . → . Isa
 - [sin-04.typ note] . → :
 - [sin-04.typ] . → :
+- [sin-04.typ] . → ,
 - [sin-04.typ] . → :
 - [sin-04.typ] . → –
 - [sin-05.typ note] . → :
@@ -821,8 +826,9 @@
 - [sin-12.typ note] . → . Ezek
 - [sin-12.typ note] . → . Matt 10:16. Rev 9:3, 5,
 - [sin-12.typ note] . → :
-- [sin-12.typ note] . → ,
-- [sin-12.typ note] . → . and
+- [sin-12.typ note] . → ;
+- [sin-12.typ note] . → ;
+- [sin-12.typ note] . → :
 - [sin-12.typ note] . → 
 - [sin-12.typ note] . → :
 - [sin-12.typ note] . → :
@@ -1065,9 +1071,9 @@
 - [doubting-02.typ] , → 
 - [doubting-02.typ] ; → 
 - [doubting-03.typ note] . → :
+- [doubting-03.typ note] . → ,
 - [doubting-03.typ note] . → :
-- [doubting-03.typ note] . → 
-- [doubting-03.typ note] . → :
+- [doubting-03.typ note] . → ,
 - [doubting-03.typ note] & → and
 - [doubting-03.typ note] . → 
 - [doubting-03.typ note] . → :
@@ -1101,6 +1107,7 @@
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → ,
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
@@ -1116,7 +1123,10 @@
 - [doubting-04.typ note] . → 
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → ,
 - [doubting-04.typ note] . → :
+- [doubting-04.typ note] . → ,
+- [doubting-04.typ note] . → ,
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
 - [doubting-04.typ note] . → :
@@ -1139,8 +1149,6 @@
 - [doubting-04.typ] & → and
 - [doubting-04.typ] ; → ; I
 - [doubting-04.typ] & → and
-- [doubting-05.typ note] . → :
-- [doubting-05.typ note] . → 
 - [doubting-05.typ note] . → :
 - [doubting-05.typ note] . → 
 - [doubting-05.typ note] . → :
@@ -1186,10 +1194,12 @@
 - [doubting-07.typ note] . → :
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] & → and
+- [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → :
@@ -1200,6 +1210,7 @@
 - [doubting-07.typ note] & → and
 - [doubting-07.typ note] . → . John
 - [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → :
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
@@ -1210,6 +1221,7 @@
 - [doubting-08.typ note] . → :
 - [doubting-08.typ note] . → 
 - [doubting-08.typ note] . → :
+- [doubting-08.typ note] . → ,
 - [doubting-08.typ note] . → :
 - [doubting-08.typ note] . → 
 - [doubting-08.typ note] . → :
@@ -1268,6 +1280,7 @@
 - [ranks-02.typ note] . → :
 - [ranks-02.typ note] . → 
 - [ranks-02.typ note] . → :
+- [ranks-02.typ] . → :
 - [ranks-02.typ] ▪ → ,
 - [ranks-02.typ] & → and
 - [ranks-02.typ] & → and
@@ -1308,6 +1321,8 @@
 - [ranks-04.typ note] & → and
 - [ranks-04.typ note] . → 
 - [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → :
+- [ranks-04.typ note] . → ;
 - [ranks-04.typ note] . → :
 - [ranks-04.typ note] . → 
 - [ranks-04.typ note] . → :
@@ -1545,6 +1560,17 @@
 - [appendix-01.typ note] . → :
 - [appendix-01.typ note] . → 
 - [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → ;
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → ;
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → ;
+- [appendix-01.typ note] , → :
+- [appendix-01.typ note] . → ;
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → ;
+- [appendix-01.typ note] . → :
+- [appendix-01.typ note] . → 
 - [appendix-01.typ note] . → 
 - [appendix-01.typ note] . → :
 - [appendix-01.typ note] . → :
@@ -1720,7 +1746,6 @@
 - he → He
 - holy → Holy
 - if → If
-- one → One
 - satan → Satan
 - viz → Viz
 - you → You

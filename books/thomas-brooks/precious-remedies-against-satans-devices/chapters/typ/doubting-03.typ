@@ -2,7 +2,7 @@
 
 #strong[The third Device that Satan hath to keep the soul in a sad, doubting, and questioning condition, is,]
 
-BY working the soul to make false#footnote[Ps 77:7. 11. Ps 88:1 ult. Ps 73:2. 23.] inferences from the cross actings of providence; saith Satan, dost thou not see how providence crosses thy prayers, and crosses thy desires, thy tears, thy hopes, thy endeavours; surely, if his love were toward thee, if his soul did delight and take pleasure in thee, he would not deal thus with thee, etc.
+BY working the soul to make false#footnote[Ps 77:7, 11. Ps 88:1–18. Ps 73:2, 23.] inferences from the cross actings of providence; saith Satan, dost thou not see how providence crosses thy prayers, and crosses thy desires, thy tears, thy hopes, thy endeavours; surely, if his love were toward thee, if his soul did delight and take pleasure in thee, he would not deal thus with thee, etc.
 
 #strong[Now the remedies against this Device of Satan are these that follow.]
 

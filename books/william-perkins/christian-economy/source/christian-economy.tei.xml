@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-27" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-28" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -252,7 +252,7 @@ For this first <choice><orig>Societie</orig><reg resp="#auto" type="spelling">so
 the principles of <choice><orig>authoritie</orig><reg resp="#auto" type="spelling">authority</reg></choice> and
 <choice><orig>subiection</orig><reg resp="#auto" type="spelling">subjection</reg></choice>. And look as the <choice><orig>Superiour</orig><reg resp="#auto" type="spelling">Superior</reg></choice>
 that faileth in his <choice><orig>priuate</orig><reg resp="#auto" type="spelling">private</reg></choice> charge, will
-<choice><orig>proue</orig><reg resp="#auto" type="spelling">prove</reg></choice> <choice><orig>vncapable</orig><reg resp="#auto" type="spelling">uncapable</reg></choice> of <choice><orig>publike</orig><reg resp="#auto" type="spelling">public</reg></choice> employ<g ref="char:EOLhyphen"/>ment;<note place="margin">1. Tim. 3. 5</note>
+<choice><orig>proue</orig><reg resp="#auto" type="spelling">prove</reg></choice> <choice><orig>vncapable</orig><reg resp="#auto" type="spelling">uncapable</reg></choice> of <choice><orig>publike</orig><reg resp="#auto" type="spelling">public</reg></choice> employ<g ref="char:EOLhyphen"/>ment;<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Tim<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 3<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5</note>
 so the <choice><orig>Inferiour</orig><reg resp="#auto" type="spelling">Inferior</reg></choice>, who is not fra<g ref="char:EOLhyphen"/>med
 to a course of <choice><orig>Oeconomicall</orig><reg resp="#auto" type="spelling">Economical</reg></choice> <choice><orig>sub<g ref="char:EOLhyphen"/>iection</orig><reg resp="#auto" type="spelling">subjection</reg></choice>,
 will hardly <choice><orig>vndergoe</orig><reg resp="#auto" type="spelling">undergo</reg></choice> the yoke
@@ -271,17 +271,17 @@ and thence was <choice><orig>deriued</orig><reg resp="#auto" type="spelling">der
 the whole earth. It was the fault of the
 <choice><orig>priuate</orig><reg resp="#auto" type="spelling">private</reg></choice> <choice><orig>gouernment</orig><reg resp="#auto" type="spelling">government</reg></choice> of <hi>Eli</hi> the Priest,
 that made his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice> <hi>Hophni</hi> and <hi>Phi<g ref="char:EOLhyphen"/>nehas,</hi>
-               <note place="margin">1. Sam. 2. 12. 23, 24, 25.</note> of <choice><orig>vngratious</orig><reg resp="#auto" type="spelling">ungracious</reg></choice> children, <choice><orig>vngodlie</orig><reg resp="#auto" type="spelling">ungodly</reg></choice>
+               <note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 23, 24, 25.</note> of <choice><orig>vngratious</orig><reg resp="#auto" type="spelling">ungracious</reg></choice> children, <choice><orig>vngodlie</orig><reg resp="#auto" type="spelling">ungodly</reg></choice>
 Church-men. It was the error of <hi><choice><orig>Da<g ref="char:EOLhyphen"/>uid</orig><reg resp="#auto" type="spelling">David</reg></choice></hi>
 
 
                <pb facs="tcp:2719:6"/>
 in the administration and guidance
-of his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> house,<note place="margin">2. Sam. 14 33.</note> which <choice><orig>incouraged</orig><reg resp="#auto" type="spelling">encouraged</reg></choice>
-<hi>Absalom</hi> and <hi><choice><orig>Adoniah</orig><reg resp="#editor" type="spelling">Adonijah</reg></choice></hi> his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,<note place="margin">1. <choice><orig>King</orig><reg resp="#editor" type="emendation">King. 1</reg></choice>. 5. 6.</note> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice>
-presumption of their Fathers <choice><abbr>indul<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>indulgence</expan></choice>,<note place="margin">2. Sam. 15</note>
+of his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> house,<note place="margin">2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> <choice><orig>14</orig><reg resp="#editor" type="reference">14:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>33.</note> which <choice><orig>incouraged</orig><reg resp="#auto" type="spelling">encouraged</reg></choice>
+<hi>Absalom</hi> and <hi><choice><orig>Adoniah</orig><reg resp="#editor" type="spelling">Adonijah</reg></choice></hi> his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="punctuation"> Kgs</reg></choice> <choice><orig>King</orig><reg resp="#editor" type="emendation">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>5<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> 6.</note> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice>
+presumption of their Fathers <choice><abbr>indul<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>indulgence</expan></choice>,<note place="margin">2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 15</note>
 to become ill <choice><orig>Common</orig><reg resp="#auto" type="spelling">common</reg></choice>-wealths
-men,<note place="margin">1. King. 1.</note> to aspire, and <choice><orig>vsurpe</orig><reg resp="#auto" type="spelling">usurp</reg></choice> the kingdom
+men,<note place="margin"><choice><orig>1</orig><reg resp="#editor" type="emendation">1 Kgs 1</reg></choice>. <choice><orig>King. 1.</orig><reg resp="#editor" type="emendation"></reg></choice></note> to aspire, and <choice><orig>vsurpe</orig><reg resp="#auto" type="spelling">usurp</reg></choice> the kingdom
 by plots and practises of Rebellion.</p>
             <p>To <choice><orig>forbeare</orig><reg resp="#auto" type="spelling">forbear</reg></choice> further matter of in<g ref="char:EOLhyphen"/>stance
 in this <choice><orig>kinde</orig><reg resp="#auto" type="spelling">kind</reg></choice>; by the due consi<g ref="char:EOLhyphen"/>deration
@@ -345,7 +345,7 @@ and that is directed <choice><orig>onely</orig><reg resp="#auto" type="spelling"
                <note place="margin"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice> 128<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1</note> it being
 <hi><choice><orig>godlinesse</orig><reg resp="#auto" type="spelling">godliness</reg></choice> alone which hath the promises of
 this life and the life to come.</hi>
-               <note place="margin">1. Tim. 4. 8</note> Therefore to
+               <note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Tim<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8</note> Therefore to
 <choice><orig>dreame</orig><reg resp="#auto" type="spelling">dream</reg></choice> of a blessing in any other state,
 which is not seasoned with <choice><orig>godlinesse</orig><reg resp="#auto" type="spelling">godliness</reg></choice>,
 and ordered by direction of <choice><orig>diuine</orig><reg resp="#auto" type="spelling">divine</reg></choice>
@@ -364,7 +364,7 @@ to <choice><orig>Mariage</orig><reg resp="#auto" type="spelling">marriage</reg><
 <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> to such as <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> the gift of <choice><orig>conti<g ref="char:EOLhyphen"/>nencie</orig><reg resp="#auto" type="spelling">continency</reg></choice><choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">;</reg></choice>
 and for those who <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> not the
 power to <choice><orig>abstaine</orig><reg resp="#auto" type="spelling">abstain</reg></choice>, it is <choice><orig>expressely</orig><reg resp="#auto" type="spelling">expressly</reg></choice> <choice><orig>en<g ref="char:EOLhyphen"/>ioyned</orig><reg resp="#auto" type="spelling">enjoined</reg></choice>
-by God as <choice><orig>necessarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice>.<note place="margin">1. Cor. 7. 1. 2. 8. 9.</note> Which
+by God as <choice><orig>necessarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice>.<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 8<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 9.</note> Which
 
 
 <pb facs="tcp:2719:8"/>
@@ -634,21 +634,21 @@ will <choice><orig>serue</orig><reg resp="#auto" type="spelling">serve</reg></ch
 man, and one that feared God with all his
 household, <hi ana="#print-only" change="#review"><choice><orig>Act.</orig><reg resp="#editor" type="reference">Acts</reg></choice></hi> 10<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2.</p>
                <p>
-                  <hi>Thirdly, common reason and <choice><orig>equi<g ref="char:EOLhyphen"/>tie</orig><reg resp="#auto" type="spelling">equity</reg></choice>
+                  <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Thirdly, common reason and <choice><orig>equi<g ref="char:EOLhyphen"/>tie</orig><reg resp="#auto" type="spelling">equity</reg></choice>
 <choice><orig>sheweth</orig><reg resp="#auto" type="spelling">showeth</reg></choice> it to be a <choice><orig>necessarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice> <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice>;
 for the <choice><orig>happie</orig><reg resp="#auto" type="spelling">happy</reg></choice> and prosperous estate of
 the <choice><orig>familie</orig><reg resp="#auto" type="spelling">family</reg></choice>, which consisteth in the <choice><orig>mu<g ref="char:EOLhyphen"/>tuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice>
 <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> and agreement of the Man
-and <choice><orig>Wife</orig><reg resp="#auto" type="spelling">wife</reg></choice>, in the <choice><orig>dutifull</orig><reg resp="#auto" type="spelling">dutiful</reg></choice> obedience of
+and <choice><orig>Wife</orig><reg resp="#auto" type="spelling">wife</reg></choice>, in the <choice><orig>dutifull</orig><reg resp="#auto" type="spelling">dutiful</reg></choice> obedience of</hi>
 
 
 <pb n="4" facs="tcp:2719:13"/>
-children to their parents, and in the
+<hi ana="#edition-only" change="#review">children to their parents, and in the
 <choice><orig>faithfull</orig><reg resp="#auto" type="spelling">faithful</reg></choice> <choice><orig>seruice</orig><reg resp="#auto" type="spelling">service</reg></choice> of <choice><orig>seruants</orig><reg resp="#auto" type="spelling">servants</reg></choice> to their
 <choice><orig>Masters</orig><reg resp="#auto" type="spelling">masters</reg></choice>, wholly dependeth <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> the
 grace and blessing of God, and this
-blessing is annexed to his worship: for
-1. Tim.</hi> 4. 8. <choice><orig>Godlinesse</orig><reg resp="#auto" type="spelling">Godliness</reg></choice> hath the promises of
+blessing is annexed to his worship: for</hi>
+1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Tim<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8. <choice><orig>Godlinesse</orig><reg resp="#auto" type="spelling">Godliness</reg></choice> hath the promises of
 this life, and the life to come. <hi ana="#print-only" change="#review"><choice><orig>Psalm.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 127<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1.
 Except the Lord <choice><orig>builde</orig><reg resp="#auto" type="spelling">build</reg></choice> the house, they la<g ref="char:EOLhyphen"/>bour
 in <choice><orig>vaine</orig><reg resp="#auto" type="spelling">vain</reg></choice> that <choice><orig>builde</orig><reg resp="#auto" type="spelling">build</reg></choice>; except the Lord
@@ -1079,7 +1079,7 @@ who being <hi><choice><orig>buffetted</orig><reg resp="#auto" type="spelling">bu
 <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <hi>For this thing I besought the
 Lord thrice, that it might depart from me;
 but he said <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> me, My grace is sufficient
-for thee,</hi> 2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 12<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8. 9.</p>
+for thee,</hi> 2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 12<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 9.</p>
             </div>
             <div n="4" type="chapter">
                <pb n="18" facs="tcp:2719:20"/>
@@ -1648,7 +1648,7 @@ dispensation from God, such mat<g ref="char:EOLhyphen"/>ching
 is <choice><orig>vtterly</orig><reg resp="#auto" type="spelling">utterly</reg></choice> <choice><orig>vnlawfull</orig><reg resp="#auto" type="spelling">unlawful</reg></choice>, being an ap<g ref="char:EOLhyphen"/>parent
 breach of another <choice><orig>expresse</orig><reg resp="#auto" type="spelling">express</reg></choice> <choice><orig>com<g ref="char:EOLunhyphen"/>mandement</orig><reg resp="#auto" type="spelling">commandment</reg></choice>
 <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</reg></choice> afterward by God
-<choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <choice><orig><choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>.</orig><reg resp="#editor" type="reference">Lev</reg></choice> 18<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9. 11. To this purpose
+<choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <choice><orig><choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>.</orig><reg resp="#editor" type="reference">Lev</reg></choice> 18<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 11. To this purpose
 saith <hi>Augustine</hi> in way of <choice><orig>answere</orig><reg resp="#auto" type="spelling">answer</reg></choice> to the
 example propounded.<note place="margin">De ciuit.</note> 
                   <hi>The practise of
@@ -1820,7 +1820,7 @@ in it <choice><orig>selfe</orig><reg resp="#auto" type="spelling">self</reg></ch
 by God, yet in <choice><orig>sundrie</orig><reg resp="#auto" type="spelling">sundry</reg></choice> respects
 being inexpedient, it ought not to <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice>
 done, according to the saying of the A<g ref="char:EOLhyphen"/>postle,</hi>
-All things are <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> for me,<note place="margin">1. Cor. 6.</note> but all
+All things are <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> for me,<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 6.</note> but all
 things are not expedient.</p>
                <p>But it is <choice><orig>auouched</orig><reg resp="#auto" type="spelling">avouched</reg></choice> to the <choice><orig>contrarie</orig><reg resp="#auto" type="spelling">contrary</reg></choice>,
 that God by <choice><orig>expresse</orig><reg resp="#auto" type="spelling">express</reg></choice> law forbiddeth
@@ -2452,7 +2452,7 @@ the spouse by the bond of her promise
 to the man, becomes a wife; and the
 man by the bond of his promise to the
 woman, becomes an husband, Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice>
-22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>23. 24.</p>
+22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>23<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 24.</p>
                <p><choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, there can <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> no sure-ma<g ref="char:EOLhyphen"/>king,
 and consequently no <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>
 with such a one, as either hath been <choice><orig>di<g ref="char:EOLhyphen"/>uorced</orig><reg resp="#auto" type="spelling">divorced</reg></choice>
@@ -2589,7 +2589,7 @@ brother <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></c
 forsake her.</hi> <choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, <hi>The woman which
 hath an husband that <choice><orig>belieueth</orig><reg resp="#auto" type="spelling">believeth</reg></choice> not, if he
 be content to dwell with her, let her not for<g ref="char:EOLhyphen"/>sake
-him,</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12. 13.</p>
+him,</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 13.</p>
                <p>If it be <choice><orig>heere</orig><reg resp="#auto" type="spelling">here</reg></choice> <choice><orig>alledged</orig><reg resp="#auto" type="spelling">alleged</reg></choice>, that the sin of
 <choice><orig>adulterie</orig><reg resp="#auto" type="spelling">adultery</reg></choice> <choice><orig>dissolues</orig><reg resp="#auto" type="spelling">dissolves</reg></choice> the bond both of
 contract and <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>, and therefore
@@ -3425,7 +3425,7 @@ his <choice><orig>seruant</orig><reg resp="#auto" type="spelling">servant</reg><
 daughters of the Canaanites; But thou shalt
 go <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> my <choice><orig>countrie</orig><reg resp="#auto" type="spelling">country</reg></choice>, and to my kindred, and
 take a wife <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> my <choice><orig>sonne</orig><reg resp="#auto" type="spelling">son</reg></choice> Isaac,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
-</orig><reg resp="#editor" type="reference"/></choice>3. 4. <hi><choice><orig>Sampson</orig><reg resp="#auto" type="spelling">Samson</reg></choice>,</hi> though he was inflamed
+</orig><reg resp="#editor" type="reference"/></choice>3<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 4. <hi><choice><orig>Sampson</orig><reg resp="#auto" type="spelling">Samson</reg></choice>,</hi> though he was inflamed
 with the <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> of the <choice><abbr>woma<g ref="char:cmbAbbrStroke">̄</g></abbr><expan>woman</expan></choice> in <hi>Timnath,</hi>
 whom he saw to be <choice><orig>beautifull</orig><reg resp="#auto" type="spelling">beautiful</reg></choice> in his
 eyes, yet <choice><orig>hee</orig><reg resp="#auto" type="spelling">he</reg></choice> durst not take her to his
@@ -3441,14 +3441,14 @@ holy Ghost proceedeth, <hi>If her father re<g ref="char:EOLhyphen"/>fuse
 <pb n="90" facs="tcp:2719:61"/>
 to <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> her to him, he shall pay money ac<g ref="char:EOLhyphen"/>cording
 to the <choice><orig>dowrie</orig><reg resp="#auto" type="spelling">dowry</reg></choice> of virgins,</hi> Exod<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
-</orig><reg resp="#editor" type="reference"/></choice>16. 17. Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>28. 29. In which text,
+</orig><reg resp="#editor" type="reference"/></choice>16<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 17. Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>28<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 29. In which text,
 <hi>Moses</hi> plainly teacheth, that the con<g ref="char:EOLhyphen"/>sent
 of the two parties is not sufficient,
 no not though they <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> had <choice><orig>societie</orig><reg resp="#auto" type="spelling">society</reg></choice>
 together, <choice><orig>vnlesse</orig><reg resp="#auto" type="spelling">unless</reg></choice> they <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> the free <choice><abbr>co<g ref="char:cmbAbbrStroke">̄</g><g ref="char:EOLhyphen"/>sent</abbr><expan>consent</expan></choice>
 of their parents also. In like <choice><orig>maner</orig><reg resp="#auto" type="spelling">manner</reg></choice>
 it was ordained by God, <choice><orig>Numb.</orig><reg resp="#editor" type="reference">Num</reg></choice> 30<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
-</orig><reg resp="#editor" type="reference"/></choice>4. 5. 6. <hi>That if a woman vowed a vow <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice>
+</orig><reg resp="#editor" type="reference"/></choice>4<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 5<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 6. <hi>That if a woman vowed a vow <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice>
 the Lord, being in her fathers house, &amp; her
 father hearing it, holdeth his peace concer<g ref="char:EOLhyphen"/>ning
 her,</hi> that is, <choice><orig>approueth</orig><reg resp="#auto" type="spelling">approves</reg></choice> her vow by
@@ -3578,7 +3578,7 @@ estate <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></ch
 <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> the practise of God <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>,
 who <choice><orig>hauing</orig><reg resp="#auto" type="spelling">having</reg></choice> <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</reg></choice> <hi><choice><orig>Euah</orig><reg resp="#auto" type="spelling">Eve</reg></choice></hi> to <hi>Adam,</hi> bles<g ref="char:EOLhyphen"/>sed
 them, saying, <hi>Increase and <choice><orig>multiplie</orig><reg resp="#auto" type="spelling">multiply</reg></choice>,</hi>
-Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22<choice><orig>. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice></orig><reg resp="#editor" type="reference">,</reg></choice> 1. 27. For that which God
+Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22<choice><orig>. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice></orig><reg resp="#editor" type="reference">;</reg></choice> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>27. For that which God
 then <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice>, the Minister standing in his
 <choice><orig>roome</orig><reg resp="#auto" type="spelling">room</reg></choice>, now prayeth may be <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</reg></choice> to
 the man and wife. Yea it is agreeable to
@@ -3648,7 +3648,7 @@ Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 29
 the resort of people to the <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> at
 Cana in Galilee, both by his presence,
 and by that honorable gift of <choice><orig>sixe</orig><reg resp="#auto" type="spelling">six</reg></choice> wa<g ref="char:EOLhyphen"/>ter-pots
-of the best wine, <choice><orig><choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>.</orig><reg resp="#editor" type="reference">John</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2. 7. 8.
+of the best wine, <choice><orig><choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>.</orig><reg resp="#editor" type="reference">John</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 8.
 II. It is not only <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice>, but <choice><orig>conueni<g ref="char:EOLhyphen"/>ent</orig><reg resp="#auto" type="spelling">convenient</reg></choice>
 and fit to be done, if there be <choice><orig>abili<g ref="char:EOLhyphen"/>tie</orig><reg resp="#auto" type="spelling">ability</reg></choice>;
 according to the commendable
@@ -3702,10 +3702,10 @@ each to other.</p>
                <p>These are principally two: Cohabi<g ref="char:EOLhyphen"/>tation,
 and Communion.</p>
                <p>
-                  <hi>Cohabitation is their quiet and com<g ref="char:EOLhyphen"/>fortable
+                  <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Cohabitation is their quiet and com<g ref="char:EOLhyphen"/>fortable
 dwelling together in one place,
 for the better performance of <choice><orig>mutuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice>
-duties. 1. Cor.</hi> 7. 10. And to the married
+duties.</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10. And to the married
 command I, not I but the Lord, let not the
 wife separate her <choice><orig>selfe</orig><reg resp="#auto" type="spelling">self</reg></choice> from her husband:
 <hi>vers.</hi> 12. But to the remnant I say, not the
@@ -3761,7 +3761,7 @@ either in the Church or <choice><orig>Common</orig><reg resp="#auto" type="spell
 
 
                   <pb n="100" facs="tcp:2719:67"/>
-are in hand, 2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 11<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9. 10. <hi>But
+are in hand, 2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 11<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 10. <hi>But
 <choice><orig>Vriah</orig><reg resp="#auto" type="spelling">Uriah</reg></choice> slept at the <choice><orig>doore</orig><reg resp="#auto" type="spelling">door</reg></choice> of the Kings Palace,
 with all the <choice><orig>seruants</orig><reg resp="#auto" type="spelling">servants</reg></choice> of his Lord, and went
 not <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice> to his house?</hi> v. <choice><orig>II</orig><reg resp="#editor" type="emendation">11</reg></choice>. <hi>Then <choice><orig>Vriah</orig><reg resp="#auto" type="spelling">Uriah</reg></choice>
@@ -3878,7 +3878,7 @@ man hath made with God. The people
 of Israel being in affliction, were con<g ref="char:EOLhyphen"/>strained
 to break the former made with
 strange women, that they might <choice><orig>keepe</orig><reg resp="#auto" type="spelling">keep</reg></choice>
-the latter, Ezra 10<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11. 19.</p>
+the latter, Ezra 10<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 19.</p>
                <p>It is <choice><orig>alledged</orig><reg resp="#auto" type="spelling">alleged</reg></choice>, that the <choice><orig>vnbeleeuing</orig><reg resp="#auto" type="spelling">unbelieving</reg></choice>
 <choice><orig>partie</orig><reg resp="#auto" type="spelling">party</reg></choice> may haply repent, and then to
 make a dissolution is in <choice><orig>vaine</orig><reg resp="#auto" type="spelling">vain</reg></choice>. But I say,
@@ -4206,11 +4206,11 @@ made one of the properties of a good
 man, not to lie with a menstruous wo<g ref="char:EOLhyphen"/>man,
 Ezek<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 18<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6.</p>
                <p>
-                  <hi>Secondly, in the time of a <choice><orig>solemne</orig><reg resp="#auto" type="spelling">solemn</reg></choice>
+                  <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Secondly, in the time of a <choice><orig>solemne</orig><reg resp="#auto" type="spelling">solemn</reg></choice>
 fast, when some <choice><orig>grieuous</orig><reg resp="#auto" type="spelling">grievous</reg></choice> <choice><orig>calamitie</orig><reg resp="#auto" type="spelling">calamity</reg></choice> is
 imminent. Then they are to <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> <choice><orig>them<g ref="char:EOLhyphen"/>selues</orig><reg resp="#auto" type="spelling">themselves</reg></choice>
 (by <choice><orig>mutuall</orig><reg resp="#auto" type="spelling">mutual</reg></choice> consent) to fasting
-and prayer, 1. Cor.</hi> 7. 5. Defraud not one
+and prayer,</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5. Defraud not one
 another, except it be with consent for a time,
 that you may <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> your <choice><orig>selues</orig><reg resp="#auto" type="spelling">selves</reg></choice> to fasting and
 prayer: and <choice><orig>againe</orig><reg resp="#auto" type="spelling">again</reg></choice> come together, that Sa<g ref="char:EOLhyphen"/>tan
@@ -4245,8 +4245,8 @@ inheritance of the Lord, and the fruit of the
 are these, Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 25<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21. Isaac</hi> prayed
 <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> the Lord for his wife, because <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> was
 barren, and the Lord was <choice><orig>intreated</orig><reg resp="#auto" type="spelling">entreated</reg></choice> of him;
-and <hi>Rebekah</hi> his wife <choice><orig>conceiued</orig><reg resp="#auto" type="spelling">conceived</reg></choice>. <hi ana="#edition-only" change="#review">1</hi><choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> <hi>Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
-</orig><reg resp="#editor" type="reference"/></choice>26.</hi> 27. And she said, Oh my Lord, as thy
+and <hi>Rebekah</hi> his wife <choice><orig>conceiued</orig><reg resp="#auto" type="spelling">conceived</reg></choice>. 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> <hi ana="#print-only" change="#review">Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
+</orig><reg resp="#editor" type="reference"/></choice>26<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice></hi> 27. And she said, Oh my Lord, as thy
 <choice><orig>soule</orig><reg resp="#auto" type="spelling">soul</reg></choice> <choice><orig>liueth</orig><reg resp="#auto" type="spelling">liveth</reg></choice>, my Lord, I am the woman that
 stood with thee here, praying <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> the Lord.
 <hi>vers.</hi> 27. I prayed for this child, and the
@@ -4269,10 +4269,10 @@ And wherefore one? <choice><orig>because</orig><reg resp="#auto" type="spelling"
 a seed of God: therefore <choice><orig>keepe</orig><reg resp="#auto" type="spelling">keep</reg></choice> your <choice><orig>selues</orig><reg resp="#auto" type="spelling">selves</reg></choice> in
 your spirit, and let none <choice><orig>trespasse</orig><reg resp="#auto" type="spelling">trespass</reg></choice> against the
 wife of his youth. </item>
-<item><hi><label>II.</label> The <choice><orig>preseruation</orig><reg resp="#auto" type="spelling">preservation</reg></choice>
+<item><hi ana="#print-only" change="#review"><label>II.</label> <hi ana="#edition-only" change="#review">The <choice><orig>preseruation</orig><reg resp="#auto" type="spelling">preservation</reg></choice>
 of the <choice><orig>bodie</orig><reg resp="#auto" type="spelling">body</reg></choice> in <choice><orig>cleannesse</orig><reg resp="#auto" type="spelling">cleanness</reg></choice>, that it may
 be a fit Temple for the holy Ghost to
-dwell in, 1. Thess.</hi> 4. 3. 4. This is the will of
+dwell in,</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Thess<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 4. This is the will of
 God, <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> your sanctification, that <choice><orig>euery</orig><reg resp="#auto" type="spelling">every</reg></choice>
 one of you should know how to <choice><orig>possesse</orig><reg resp="#auto" type="spelling">possess</reg></choice> his
 <choice><orig>vessell</orig><reg resp="#auto" type="spelling">vessel</reg></choice> in <choice><orig>holines</orig><reg resp="#auto" type="spelling">holiness</reg></choice> and honor, and not in the
@@ -4709,7 +4709,7 @@ is married is<note n="*" place="margin">In pote<g ref="char:EOLhyphen"/>state pa
                   <hi>in the power of her father,</hi>
 and not of her husband. But this is di<g ref="char:EOLhyphen"/>rectly
 against the law of <hi>Moses,</hi> and cros<g ref="char:EOLhyphen"/>seth
-the law of <choice><orig>Nature</orig><reg resp="#auto" type="spelling">nature</reg></choice>, <choice><orig><choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>.</orig><reg resp="#editor" type="reference">Lev</reg></choice> 22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12. 13.
+the law of <choice><orig>Nature</orig><reg resp="#auto" type="spelling">nature</reg></choice>, <choice><orig><choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>.</orig><reg resp="#editor" type="reference">Lev</reg></choice> 22<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 13.
 <choice><orig>Numb.</orig><reg resp="#editor" type="reference">Num</reg></choice> 30<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>13.</p>
                <p>Now the duties of the wife, are prin<g ref="char:EOLhyphen"/>cipally
 two.</p>
@@ -4777,7 +4777,7 @@ wife, being a sister, as well as the rest of the
 Apostles,</hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 9<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5. Thus <hi>Sarah</hi> went
 with <hi>Abraham</hi> into Egypt, Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 12<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>11.
 <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> out of Egypt, Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 13<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> to <hi>Ge<g ref="char:EOLhyphen"/>rar
-to <choice><orig>soiourne</orig><reg resp="#auto" type="spelling">sojourn</reg></choice> there,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 20<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1. 2. 3. Thus
+to <choice><orig>soiourne</orig><reg resp="#auto" type="spelling">sojourn</reg></choice> there,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 20<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 3. Thus
 
 
 <pb n="133" facs="tcp:2719:83"/>
@@ -4808,7 +4808,7 @@ kindled in him, <hi><choice><orig>Ester</orig><reg resp="#editor" type="referenc
 a cause of <choice><orig>griefe</orig><reg resp="#auto" type="spelling">grief</reg></choice> to their kindred. Thus
 the proud <choice><orig>wiues</orig><reg resp="#auto" type="spelling">wives</reg></choice> of</hi> Esau, <hi>the daughters
 of the Hittites, were a <choice><orig>griefe</orig><reg resp="#auto" type="spelling">grief</reg></choice> of mind to</hi>
-<choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice> <hi>and</hi> Rebekah, <hi>Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 26<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>35. &amp;</hi> 27. 46.</p>
+<choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice> <hi>and</hi> Rebekah, <hi ana="#print-only" change="#review">Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 26<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>35<choice><orig>. &amp;</orig><reg resp="#editor" type="reference">;</reg></choice></hi> 27<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>46.</p>
             </div>
             <div n="13" type="chapter">
                <pb n="134" facs="tcp:2719:84"/>
@@ -4882,14 +4882,14 @@ daughter in a case of <choice><orig>necessitie</orig><reg resp="#auto" type="spe
 committed <hi>Moses</hi> to be nursed of an He<g ref="char:EOLhyphen"/>brew
 woman, whom she <choice><orig>tooke</orig><reg resp="#auto" type="spelling">took</reg></choice> not to
 be his mother, but a stranger; and her
-fact was allowed by God, Exod<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7. 9.</p>
+fact was allowed by God, Exod<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 9.</p>
                <p>The second <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> of the <choice><orig>Parent</orig><reg resp="#auto" type="spelling">parent</reg></choice> is, to
 <choice><orig>prouide</orig><reg resp="#auto" type="spelling">provide</reg></choice> for his child <choice><orig>meate</orig><reg resp="#auto" type="spelling">meat</reg></choice>, <choice><orig>drinke</orig><reg resp="#auto" type="spelling">drink</reg></choice>, and
 clothing. Our <choice><orig>Sauiour</orig><reg resp="#auto" type="spelling">Saviour</reg></choice> Christ saith, that
 <choice><orig>Parents</orig><reg resp="#auto" type="spelling">parents</reg></choice> <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> by the light of nature,
 though they be <choice><orig>euill</orig><reg resp="#auto" type="spelling">evil</reg></choice>, will not <choice><orig>denie</orig><reg resp="#auto" type="spelling">deny</reg></choice> or
 withhold <choice><orig>necessarie</orig><reg resp="#auto" type="spelling">necessary</reg></choice> food from their
-children: <choice><orig>Mat.</orig><reg resp="#editor" type="reference">Matt</reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9. 10. <hi>What man is there
+children: <choice><orig>Mat.</orig><reg resp="#editor" type="reference">Matt</reg></choice> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 10. <hi>What man is there
 among you, that if his son <choice><orig>aske</orig><reg resp="#auto" type="spelling">ask</reg></choice> him bread,
 will <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> him a stone, or if he <choice><orig>aske</orig><reg resp="#auto" type="spelling">ask</reg></choice> a fish, will
 <choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> him a scorpion?</hi> And <hi>Paul</hi> saith, <hi>If
@@ -5023,7 +5023,7 @@ to <choice><orig>yeares</orig><reg resp="#auto" type="spelling">years</reg></cho
 
 
 <pb n="141" facs="tcp:2719:87"/>
-                  <hi>parents, 2. Tim.</hi> 3. 14. But conti<g ref="char:EOLhyphen"/>nue
+                  <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">parents,</hi> 2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Tim<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 3<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14. But conti<g ref="char:EOLhyphen"/>nue
 thou in the things which thou hast lear<g ref="char:EOLhyphen"/>ned,
 knowing of whom thou hast learned
 them, <hi>vers.</hi> 15. And that thou hast <choice><orig>knowne</orig><reg resp="#auto" type="spelling">known</reg></choice>
@@ -5090,15 +5090,15 @@ do <choice><orig>yee</orig><reg resp="#auto" type="spelling">ye</reg></choice> s
 <pb n="143" facs="tcp:2719:88"/>
 <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,</hi> <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. So much for <choice><orig>Education</orig><reg resp="#auto" type="spelling">education</reg></choice>.</p>
                <p>
-                  <hi>The second general <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> of parents,
+                  <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">The second general <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> of parents,
 is the bestowing of their children; This
 bestowing is, when they knowing their
 children fit for <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>, not to <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> the
 gift of <choice><orig>continencie</orig><reg resp="#auto" type="spelling">continency</reg></choice>, do <choice><orig>vse</orig><reg resp="#auto" type="spelling">use</reg></choice> their best <choice><orig>in<g ref="char:EOLhyphen"/>deuour</orig><reg resp="#auto" type="spelling">endeavour</reg></choice>
 to <choice><orig>prouide</orig><reg resp="#auto" type="spelling">provide</reg></choice> matches for them
 in time, or at least, do <choice><orig>aduise</orig><reg resp="#auto" type="spelling">advise</reg></choice> them <choice><orig>ther<g ref="char:EOLhyphen"/>unto</orig><reg resp="#auto" type="spelling">thereunto</reg></choice>
-by <choice><orig>themselues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> or by their friends:
-1. Cor.</hi> 7. 36. If any man <choice><orig>thinke</orig><reg resp="#auto" type="spelling">think</reg></choice> it <choice><orig>vncome<g ref="char:EOLhyphen"/>lie</orig><reg resp="#auto" type="spelling">uncomely</reg></choice>
+by <choice><orig>themselues</orig><reg resp="#auto" type="spelling">themselves</reg></choice> or by their friends:</hi>
+1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>36. If any man <choice><orig>thinke</orig><reg resp="#auto" type="spelling">think</reg></choice> it <choice><orig>vncome<g ref="char:EOLhyphen"/>lie</orig><reg resp="#auto" type="spelling">uncomely</reg></choice>
 for his virgin to <choice><orig>passe</orig><reg resp="#auto" type="spelling">pass</reg></choice> the flower of her
 age, and need so require—let them <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice>
 married. <hi>vers.</hi> 38. <choice><orig>he</orig><reg resp="#auto" type="spelling">He</reg></choice> that <choice><orig>giueth</orig><reg resp="#auto" type="spelling">giveth</reg></choice> her to <choice><orig>ma<g ref="char:EOLhyphen"/>riage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>,
@@ -5240,7 +5240,7 @@ was <choice><orig>seene</orig><reg resp="#auto" type="spelling">seen</reg></choi
 house, with her pitcher <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice> her
 shoulder, and to go <choice><orig>downe</orig><reg resp="#auto" type="spelling">down</reg></choice> with it to
 the well to fill it, and <hi><choice><orig>giue</orig><reg resp="#auto" type="spelling">give</reg></choice> <choice><orig>drinke</orig><reg resp="#auto" type="spelling">drink</reg></choice> to her
-fathers Camels,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16. 17.</p>
+fathers Camels,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 17.</p>
                <p>The second <choice><orig>dutie</orig><reg resp="#auto" type="spelling">duty</reg></choice> of the <choice><orig>sonne</orig><reg resp="#auto" type="spelling">son</reg></choice>, is to
 <choice><orig>recompence</orig><reg resp="#auto" type="spelling">recompense</reg></choice> his fathers <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>, and care
 <choice><orig>ouer</orig><reg resp="#auto" type="spelling">over</reg></choice> him, by <choice><orig>relieuing</orig><reg resp="#auto" type="spelling">relieving</reg></choice> him in case of
@@ -5275,7 +5275,7 @@ for <choice><orig>reliefe</orig><reg resp="#auto" type="spelling">relief</reg></
 <hi>Boaz</hi> <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> her to <choice><orig>eate</orig><reg resp="#auto" type="spelling">eat</reg></choice> and to <choice><orig>drinke</orig><reg resp="#auto" type="spelling">drink</reg></choice>, she
 <choice><orig>reserued</orig><reg resp="#auto" type="spelling">reserved</reg></choice> part of her victuals, &amp; brought
 it home with her <choice><orig>gleanes</orig><reg resp="#auto" type="spelling">gleans</reg></choice> to refresh her
-mother, Ruth 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14. 18.</p>
+mother, Ruth 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 18.</p>
                <p>The <choice><orig>necessitie</orig><reg resp="#auto" type="spelling">necessity</reg></choice> of the performance of
 these duties is so great, that if the <choice><orig>sonne</orig><reg resp="#auto" type="spelling">son</reg></choice>
 neglecteth them, and doth the <choice><orig>contra<g ref="char:EOLhyphen"/>rie</orig><reg resp="#auto" type="spelling">contrary</reg></choice>,
@@ -5400,13 +5400,13 @@ inquireth first after such as <choice><orig>feare</orig><reg resp="#auto" type="
 and be willing to <choice><orig>serue</orig><reg resp="#auto" type="spelling">serve</reg></choice> him. <hi>Paul</hi> makes
 the <choice><orig>seruice</orig><reg resp="#auto" type="spelling">service</reg></choice> and <choice><orig>feare</orig><reg resp="#auto" type="spelling">fear</reg></choice> of God the <choice><orig>maine</orig><reg resp="#auto" type="spelling">main</reg></choice>
 ground of true obedience in <choice><orig>seruants</orig><reg resp="#auto" type="spelling">servants</reg></choice>,
-<choice><orig>Ephes.</orig><reg resp="#editor" type="reference">Eph</reg></choice> 6<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5. 6. 7. <choice><orig>Colos.</orig><reg resp="#editor" type="reference">Col</reg></choice> 3<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22. It was the
+<choice><orig>Ephes.</orig><reg resp="#editor" type="reference">Eph</reg></choice> 6<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>5<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 6<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 7. <choice><orig>Colos.</orig><reg resp="#editor" type="reference">Col</reg></choice> 3<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22. It was the
 rule of <hi><choice><orig>Dauids</orig><reg resp="#auto" type="spelling">Davids</reg></choice></hi> choice, <choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice> 101<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6. <hi><choice><orig>Hee</orig><reg resp="#auto" type="spelling">He</reg></choice>
 that walketh in the perfect way, he shall <choice><orig>serue</orig><reg resp="#auto" type="spelling">serve</reg></choice>
 me. Abrahams</hi> <choice><orig>chiefe</orig><reg resp="#auto" type="spelling">chief</reg></choice> <choice><orig><choice><abbr>serua<g ref="char:cmbAbbrStroke">̄</g>t</abbr><expan>seruant</expan></choice></orig><reg resp="#auto" type="spelling">servant</reg></choice> of his house,
 was a man that feared God, as appea<g ref="char:EOLhyphen"/>reth,
 in that he made conscience of his
-oath, Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2. 3. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> prayed also for
+oath, Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 3. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> prayed also for
 <choice><orig>successe</orig><reg resp="#auto" type="spelling">success</reg></choice> in the <choice><orig>busines</orig><reg resp="#auto" type="spelling">business</reg></choice> whereabout he
 was sent. Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12. <hi>O Lord God of my
 <choice><orig>Master</orig><reg resp="#auto" type="spelling">master</reg></choice> Abraham, I beseech thee send <choice><orig>mee</orig><reg resp="#auto" type="spelling">me</reg></choice>
@@ -5885,7 +5885,7 @@ fault, that he may <choice><orig>haue</orig><reg resp="#auto" type="spelling">ha
 a course established by the <choice><orig>Iudicial</orig><reg resp="#auto" type="spelling">Judicial</reg></choice> law,
 which God <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice></hi> Moses <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">for his di<g ref="char:EOLhyphen"/>rection
 in causes <choice><orig>criminall</orig><reg resp="#auto" type="spelling">criminal</reg></choice> among the
-Israelites:</hi> Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 21<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18. 19. 20. If any man
+Israelites:</hi> Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 21<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>18<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 19<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 20. If any man
 
 
 <pb n="169" facs="tcp:2719:101"/>

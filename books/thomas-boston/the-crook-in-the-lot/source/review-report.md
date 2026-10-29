@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1025 |
-| emendation | 718 |
-| punctuation | 220 |
+| spacing | 1026 |
+| emendation | 719 |
+| punctuation | 221 |
 | spelling | 55 |
 | case | 1 |
 | grammar | 1 |
@@ -464,6 +464,7 @@
 - [part-3.typ] . ix . → 9:
 - [part-3.typ] Psal . xxxix . → Ps 39:
 - [part-3.typ] i → 1
+- [part-3.typ] xl → 40
 - [part-3.typ] . iii . → 3:
 - [part-3.typ] Psal . cxliv . → Ps 144:
 - [part-3.typ] ix → 9
@@ -863,6 +864,7 @@
 - [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → 
+- [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
