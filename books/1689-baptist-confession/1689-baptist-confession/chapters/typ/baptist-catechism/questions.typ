@@ -210,7 +210,7 @@
 
 #speech[#smallcaps[Question 53]: What are we especially taught by these words before me, in the first commandment?]
 
-#speech[#smallcaps[Answer]: These words before me, in the first commandment teach us, that God, who seeth all things, taketh notice of and is much displeased with the sin of having any other God.#footnote[Exod 8:5ff]]
+#speech[#smallcaps[Answer]: These words before me, in the first commandment teach us, that God, who seeth all things, taketh notice of and is much displeased with the sin of having any other God.#footnote[Ezek 8:5ff]]
 
 #speech[#smallcaps[Question 54]: Which is the second commandment?]
 

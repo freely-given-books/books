@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 937 |
-| emendation | 753 |
+| spelling | 936 |
+| emendation | 754 |
 | spacing | 78 |
 | punctuation | 4 |
 | note | 1 |
@@ -362,6 +362,7 @@
 - [baptist-catechism/questions.typ note] Psalm → Ps
 - [baptist-catechism/questions.typ note] Psalm → Ps
 - [baptist-catechism/questions.typ note] Psalm → Ps
+- [baptist-catechism/questions.typ note] Exodus → Ezek
 - [baptist-catechism/questions.typ note] Deuteronomy → Deut
 - [baptist-catechism/questions.typ note] Deuteronomy → Deut
 - [baptist-catechism/questions.typ note] Deuteronomy → Deut
@@ -780,7 +781,7 @@
 - Peter → Pet (×62)
 - Genesis → Gen (×61)
 - Timothy → Tim (×54)
-- Exodus → Exod (×52)
+- Exodus → Exod (×51)
 - Proverbs → Prov (×27)
 - James → Jas (×24)
 - Ezekiel → Ezek (×18)
