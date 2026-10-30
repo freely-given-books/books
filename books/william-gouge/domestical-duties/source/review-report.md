@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4075 |
-| italic | 2550 |
-| spacing | 2531 |
-| spelling | 1832 |
-| emendation | 1265 |
+| punctuation | 4118 |
+| spacing | 2556 |
+| italic | 2548 |
+| spelling | 1831 |
+| emendation | 1286 |
 | grammar | 147 |
 | case | 146 |
 | list | 134 |
@@ -117,6 +117,7 @@
 - [vol-1/dedication.typ note] Methodusintelligentiae → Methodus intelligentiae
 - [vol-1/dedication.typ] be → he
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Psal . → Ps
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . & → ;
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Psal . → Ps
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Iam . → Jas
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Joh . → John
@@ -124,6 +125,7 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Matth . → Matt
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Matth . → Matt
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Est . → Esth
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . & → ;
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Ephes . → Eph
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] faci enda → facienda
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] praete rire → praeterire
@@ -157,6 +159,7 @@
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] Luk . → Luke
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] Psal . → Ps
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] Jos . → Josh
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . & → ;
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] King . → Kgs
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] Ephes . → Eph
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] Psal . → Ps
@@ -171,6 +174,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Ephes . → Eph
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] & 28 . 20 . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] instrip tum → inscriptum
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Luk . → Luke
@@ -264,6 +268,9 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Luk . → Luke 3:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 3 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Act . → Acts
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . & → ;
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . & → ;
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . & → ;
 - [vol-1/05-love-that-purifies-the-unclean.typ] Ahash - verosh → Ahasuerus
 - [vol-1/05-love-that-purifies-the-unclean.typ] Cant . → Song
 - [vol-1/05-love-that-purifies-the-unclean.typ] Rom . → Romans
@@ -274,6 +281,7 @@
 - [vol-1/06-redeemed-for-glory.typ note] Tit . → Titus
 - [vol-1/06-redeemed-for-glory.typ note] Joh . → John
 - [vol-1/06-redeemed-for-glory.typ note] co → eo
+- [vol-1/06-redeemed-for-glory.typ note] . & → ;
 - [vol-1/06-redeemed-for-glory.typ note] Psal . → Ps
 - [vol-1/06-redeemed-for-glory.typ note] vtram que → vtramque
 - [vol-1/06-redeemed-for-glory.typ note] Est . → Esth
@@ -346,13 +354,13 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] In couragement → Encouragement
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Exo . → Exod
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . and → ,
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . and → ;
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ose . → Hos
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ose . → Hos
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Luk . → Luke
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . and → ,
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] and 4 . 16 . and 5 . 23 . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Tit . → Titus
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
@@ -417,6 +425,7 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Mat . → Matt
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Mat . → Matt
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 18 . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . & → ;
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Mat . → Matt
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Pro . → Prov
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Joh . → John
@@ -489,6 +498,7 @@
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] Eccles . → Eccl
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] Job . → John
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] Mat . → Matt
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] . & → ;
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] Job . → John
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] Ephes . → Eph
 - [vol-1/11-the-childs-duties-to-his-parents.typ] Eph → Ephesians
@@ -524,7 +534,7 @@
 - [vol-2/01-seeking-marriage.typ note] Luk . → Luke
 - [vol-2/01-seeking-marriage.typ note] 17 . → 
 - [vol-2/01-seeking-marriage.typ note] Pro . → Prov
-- [vol-2/01-seeking-marriage.typ note] . and → ,
+- [vol-2/01-seeking-marriage.typ note] . and → ;
 - [vol-2/01-seeking-marriage.typ note] Luk . → Luke
 - [vol-2/01-seeking-marriage.typ note] 1 → 
 - [vol-2/01-seeking-marriage.typ note] Mat . → Matt
@@ -671,6 +681,7 @@
 - [vol-2/07-serving-together-in-family-ministry.typ note] Pro . → Prov
 - [vol-2/07-serving-together-in-family-ministry.typ note] King . → Kgs
 - [vol-2/07-serving-together-in-family-ministry.typ note] Pro . → Prov
+- [vol-2/07-serving-together-in-family-ministry.typ note] . & → ;
 - [vol-2/07-serving-together-in-family-ministry.typ note] Matth . → Matt
 - [vol-2/07-serving-together-in-family-ministry.typ note] Mat . → Matt
 - [vol-2/07-serving-together-in-family-ministry.typ note] Iam . → Jas
@@ -825,10 +836,14 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Pro . → Prov
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Act . → Acts
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] King . → Kgs
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . & → ;
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Luk . → Luke
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Jsa . → Isa
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Exo . → Exod
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Psal . → Ps
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] Isa → Isa 13:8; 21:3
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] 13 . 8 . & 21 . 3 → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . & → ;
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Mic → Mic 4:9
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] 49 . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Pro . → Prov
@@ -921,11 +936,13 @@
 - [vol-3/02-children-getting-parents-permission.typ] Mar . → Mark
 - [vol-3/02-children-getting-parents-permission.typ] Exo . → Exod
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Psal . → Ps
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Ephes . → Eph
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Exo . → Exod
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Exo . → Exod
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & 4 . 9 . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Luk . → Luke
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Exo . → Exod
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
@@ -933,6 +950,7 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Ephes . → Eph
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] ½ → 1
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Kin → K
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Luk . → Luke
@@ -1002,6 +1020,7 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Cant . → Song
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Luk . → Luke
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] King . → Kgs
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . & → ;
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Thes . → Thess
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 16 . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Luk . → Luke
@@ -1107,6 +1126,7 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] all eage → allege
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] solikewise → so likewise
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] be times → betimes
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] Pro . → Prov
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] Pro . → Prov
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] Pro . → Prov
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] Pro . → Prov
@@ -1355,6 +1375,7 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Pro . → Prov
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] King . → Kgs
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] 30 . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] Luk . → Luke
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] mastersmeanes → masters means
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] him self → himself
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] The Hebrew word is oft used for scarlet . But according to the proper notation of it , it signifieth things doubled : which I take to be most pertinent to this place , and therefore I have so translated it . The Kings translators have noted as much in the margin . → 
@@ -1454,6 +1475,7 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
@@ -1482,6 +1504,7 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
@@ -1613,6 +1636,7 @@
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
+- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
@@ -1674,7 +1698,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
-- [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :20; 28:
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
@@ -1733,6 +1757,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] . → ,
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ] . → :
@@ -1884,6 +1909,9 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
@@ -1902,6 +1930,7 @@
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → :
@@ -2080,18 +2109,9 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
@@ -2105,6 +2125,16 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :23; 4:16; 5:
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
@@ -2267,6 +2297,7 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
@@ -2559,6 +2590,7 @@
 - [vol-2/01-seeking-marriage.typ note] . → 17:
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → :
+- [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → 
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → 
@@ -2643,6 +2675,9 @@
 - [vol-2/01-seeking-marriage.typ] . → 
 - [vol-2/01-seeking-marriage.typ] . → :
 - [vol-2/01-seeking-marriage.typ] . → 
+- [vol-2/01-seeking-marriage.typ] . → 
+- [vol-2/01-seeking-marriage.typ] . → :
+- [vol-2/01-seeking-marriage.typ] . → 
 - [vol-2/01-seeking-marriage.typ] . → :
 - [vol-2/01-seeking-marriage.typ] . → :
 - [vol-2/01-seeking-marriage.typ] . → 
@@ -2671,6 +2706,7 @@
 - [vol-2/02-getting-married.typ note] . → :
 - [vol-2/02-getting-married.typ note] . → :
 - [vol-2/02-getting-married.typ note] . → :
+- [vol-2/02-getting-married.typ note] . → ,
 - [vol-2/02-getting-married.typ note] . → :
 - [vol-2/02-getting-married.typ note] . → 
 - [vol-2/02-getting-married.typ note] . → :
@@ -2884,6 +2920,12 @@
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → :
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] ) → ).
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → :
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → :
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → :
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ] . → :
@@ -3132,6 +3174,7 @@
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
@@ -3780,13 +3823,13 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
@@ -4007,6 +4050,12 @@
 - [vol-3/01-children-showing-respect-for-parents.typ] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ] . → ,
 - [vol-3/01-children-showing-respect-for-parents.typ] . → , and
+- [vol-3/01-children-showing-respect-for-parents.typ] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
@@ -4108,6 +4157,7 @@
 - [vol-3/02-children-getting-parents-permission.typ] . → :
 - [vol-3/02-children-getting-parents-permission.typ] . → 
 - [vol-3/02-children-getting-parents-permission.typ] . → :
+- [vol-3/02-children-getting-parents-permission.typ] . → ,
 - [vol-3/02-children-getting-parents-permission.typ] . → :
 - [vol-3/02-children-getting-parents-permission.typ] . → 
 - [vol-3/02-children-getting-parents-permission.typ] . → :
@@ -4136,7 +4186,6 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
@@ -4160,14 +4209,17 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → ,
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :9; 4:
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
@@ -4220,6 +4272,7 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
@@ -4315,6 +4368,7 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → ,
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ] , → 
@@ -4462,6 +4516,7 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
@@ -4626,6 +4681,13 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ] . → 
@@ -5404,6 +5466,8 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 30:
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → :
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → 
@@ -5622,7 +5686,6 @@
 - Josephs → Joseph’s (×6)
 - Lots → Lot’s (×6)
 - marvell → marvel (×6)
-- 3 → 3. (×5)
 - Jonathans → Jonathan’s (×5)
 - Labans → Laban’s (×5)
 - Mans → Man’s (×5)
@@ -5632,6 +5695,7 @@
 - steed → stead (×5)
 - thorow → through (×5)
 - 1 → 1. (×4)
+- 3 → 3. (×4)
 - Elis → Eli’s (×4)
 - Friers → Friars (×4)
 - Herods → Herod’s (×4)
@@ -5663,6 +5727,7 @@
 - 13 → 13: (×2)
 - 14 → 14: (×2)
 - 24 → 24: (×2)
+- 6 → 6: (×2)
 - Aarons → Aaron’s (×2)
 - Abrams → Abram’s (×2)
 - Ahashuerosh → Ahasuerus (×2)
@@ -5721,8 +5786,6 @@
 - 48 → 48:
 - 5 → 5:
 - 50 → 50.
-- 6 → 6.
-- 6 → 6:
 - 7 → 7.
 - 74 → 74.
 - 8 → 8:

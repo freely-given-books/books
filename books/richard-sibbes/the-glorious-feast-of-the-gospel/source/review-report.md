@@ -867,7 +867,7 @@
 - [chapter9.typ] who → ' Who
 - [chapter9.typ] beloved → beloved,' Song 3:6
 - [chapter9.typ] he → ' Matt 15:28. He
-- [chapter9.typ] of → of,' 1 Corinthians 2:9
+- [chapter9.typ] of → of,' 1 Cor 2:9
 - [chapter9.typ] our selves → ourselves
 - [chapter9.typ] stiring , → stirring
 - [chapter9.typ] glory → glory. But

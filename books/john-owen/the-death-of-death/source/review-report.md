@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 2555 |
+| spacing | 2556 |
 | emendation | 2162 |
 | punctuation | 611 |
 | spelling | 287 |
@@ -108,7 +108,7 @@
 - [book-1/chapter-03.typ] . xiv . → 14:
 - [book-1/chapter-03.typ] vii → 7
 - [book-1/chapter-03.typ] . iii . → 3:
-- [book-1/chapter-03.typ] Phil . ii . → Philippians 2:
+- [book-1/chapter-03.typ] . ii . → 2:
 - [book-1/chapter-03.typ] may → may be
 - [book-1/chapter-03.typ] shall → will
 - [book-1/chapter-03.typ] . ii . → 2:
@@ -1722,7 +1722,7 @@
 - [book-4/chapter-06.typ] . ii . → 2:
 - [book-4/chapter-06.typ] . i . → 1:
 - [book-4/chapter-06.typ] and → and to
-- [book-4/chapter-06.typ] Ps . xii . → Psalm 12:
+- [book-4/chapter-06.typ] Ps . xii . → Psalms 12:
 - [book-4/chapter-06.typ] xviii → 18
 - [book-4/chapter-06.typ] of → of 1 Timothy
 - [book-4/chapter-06.typ] Tim . ii . → :

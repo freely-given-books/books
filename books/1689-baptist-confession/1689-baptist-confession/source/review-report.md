@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 936 |
+| spelling | 937 |
 | emendation | 753 |
 | spacing | 78 |
 | punctuation | 4 |
@@ -780,7 +780,7 @@
 - Peter → Pet (×62)
 - Genesis → Gen (×61)
 - Timothy → Tim (×54)
-- Exodus → Exod (×51)
+- Exodus → Exod (×52)
 - Proverbs → Prov (×27)
 - James → Jas (×24)
 - Ezekiel → Ezek (×18)
