@@ -4,9 +4,9 @@
 | --- | --- |
 | spacing | 1032 |
 | emendation | 724 |
-| punctuation | 222 |
+| punctuation | 221 |
 | spelling | 55 |
-| case | 1 |
+| case | 2 |
 | grammar | 1 |
 
 ## emendation
@@ -931,7 +931,6 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → 
-- [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
@@ -968,6 +967,7 @@
 ## case
 
 - JUST → just
+- others → Others
 
 ## spelling
 
