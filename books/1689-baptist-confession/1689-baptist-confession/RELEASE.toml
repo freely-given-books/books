@@ -13,7 +13,12 @@ summary = "The Second London Baptist Confession of Faith (1677, owned in 1689), 
 # note 12; on p. 183 the four-line proof block under Question 145 crosses the
 # line where the check takes the page's footnotes to begin. Both pages were
 # looked at as rendered: every proof sits whole under its own paragraph.
+# Since the references were restyled (2026-10-29) the same false alarm is on
+# p. 159: Question 88's proof block, at the foot of the page under its own
+# answer, read as a note 20 whose marker is on p. 160. The book has no
+# footnotes; the page was looked at as rendered.
 accepted_print = [
+  "1689-baptist-confession.pdf: footnote 20 is set on page 159, its marker on page 160",
   "1689-baptist-confession.pdf: footnote 12 is set on page 47, its marker on page 46",
   "1689-baptist-confession.pdf: a footnote is broken over to page 183: “Exodus 34:5–7; Psalm 143:1–2,5,10–12; Jeremiah 31:”",
 ]
