@@ -9,7 +9,7 @@
 #         commit (./fgb release ready BOOK; signed with its Lulu revision)
 
 ["anonymous/the-anatomy-of-simon-magus"]
-ready = { date = "2026-10-27", commit = "e7f04cb" }
+ready = { date = "2026-10-30", commit = "f17b8f8" }
 lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
 
 ["charles-spurgeon/all-of-grace"]
@@ -56,7 +56,7 @@ ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
 
 ["william-perkins/christian-economy"]
-ready = { date = "2026-10-27", commit = "e7f04cb" }
+ready = { date = "2026-10-30", commit = "f17b8f8" }
 
 ["thomas-boston/the-crook-in-the-lot"]
 ready = { date = "2026-10-28", commit = "3319eb9" }
