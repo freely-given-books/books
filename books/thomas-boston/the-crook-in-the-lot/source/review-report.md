@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1026 |
-| emendation | 719 |
-| punctuation | 221 |
+| spacing | 1032 |
+| emendation | 724 |
+| punctuation | 222 |
 | spelling | 55 |
 | case | 1 |
 | grammar | 1 |
@@ -247,10 +247,10 @@
 - [part-1.typ] Psal . cxix . → Ps 119:
 - [part-1.typ] . v . → 5:
 - [part-1.typ] . xii . → 12:
-- [part-1.typ] Is . xxvii . → Isaiah 27:
+- [part-1.typ] Is . xxvii . → Isa 27:
 - [part-1.typ] xxiii → 23
 - [part-1.typ] . xxxi . → 31:
-- [part-1.typ] Pet . i . → Peter 1:
+- [part-1.typ] . i . → 1:
 - [part-1.typ] x → 10
 - [part-1.typ] ix → 9
 - [part-1.typ] Psal . xlvii . → Ps 47:
@@ -387,6 +387,7 @@
 - [part-2.typ] . viii . → 8:
 - [part-2.typ] Matth . v . → Matt 5:
 - [part-2.typ] Is . lxvi . → Isa 66:
+- [part-2.typ] Psal . cxxxviii . → Ps 138:
 - [part-2.typ] Is . lvii . → Isa 57:
 - [part-2.typ] Is . xl . → Isa 40:
 - [part-2.typ] . xvii . → 17:
@@ -616,7 +617,8 @@
 - [part-3.typ] Is . lxvi . → Isa 66:
 - [part-3.typ] Psal . xxxvii . → Ps 37:
 - [part-3.typ] Psal . cxix . → Ps 119:
-- [part-3.typ] Psal . xii . → Psalm 12:
+- [part-3.typ] Psal . cxxxviii . → Ps 138:
+- [part-3.typ] Psal . xii . → Ps 12:
 - [part-3.typ] Psal . xxvii . → Ps 27:
 - [part-3.typ] . ix . → 9:
 - [part-3.typ] Is . xlix . → Isa 49:
@@ -637,6 +639,7 @@
 - [part-3.typ] of → 
 - [part-3.typ] v → 5
 - [part-3.typ] iv → 4
+- [part-3.typ] Psal . cxxxviii . → Ps 138:
 - [part-3.typ] . i . → 1:
 - [part-3.typ] Is . xliii . → Isa 63:
 - [part-3.typ] . ii . → 2:
@@ -648,6 +651,7 @@
 - [part-3.typ] xi → 11
 - [part-3.typ] ii → 2
 - [part-3.typ] v → 5
+- [part-3.typ] Psal . lxxxviii . → Ps 88:
 - [part-3.typ] . ii . → 2:
 - [part-3.typ] xvi → 16
 - [part-3.typ] . xi . → 11:
@@ -660,6 +664,7 @@
 - [part-3.typ] . v . → 5:
 - [part-3.typ] . ii . → 2:
 - [part-3.typ] Cant . iv . → Song 4:
+- [part-3.typ] Psal . cxxxviii . → Ps 138:
 - [part-3.typ] iii → 3
 - [part-3.typ] . v . → 5:
 - [part-3.typ] v → 5
@@ -925,6 +930,7 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] . → 
 - [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → :

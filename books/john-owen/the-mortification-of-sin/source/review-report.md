@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 513 |
-| emendation | 306 |
+| spacing | 517 |
+| emendation | 308 |
 | punctuation | 64 |
 | spelling | 31 |
 | heading | 18 |
@@ -112,7 +112,9 @@
 - [chapter-03.typ] . ii . → 2:
 - [chapter-03.typ] . viii . → 8:
 - [chapter-03.typ] xii → :
+- [chapter-04.typ] . lxxxviii . → 88
 - [chapter-04.typ] . xxxviii . → 38:
+- [chapter-04.typ] . lxxxviii . → 88
 - [chapter-04.typ] . lvii . → 57:
 - [chapter-04.typ] . xxxviii . → 38:
 - [chapter-04.typ] . xl . → 40:
@@ -121,7 +123,7 @@
 - [chapter-04.typ] . v . → 5:
 - [chapter-04.typ] . iii . → 3:
 - [chapter-05.typ] I . 1 . → 
-- [chapter-05.typ] Phil . iii . → Philippians 3:
+- [chapter-05.typ] . iii . → 3:
 - [chapter-05.typ] . ii . → 2:
 - [chapter-05.typ] vii → 7
 - [chapter-05.typ] . lxxviii . → 78:
@@ -202,7 +204,7 @@
 - [chapter-10.typ] of → 
 - [chapter-11.typ note] . li . → 51:
 - [chapter-11.typ] . vii . → 7:
-- [chapter-11.typ] Rom . vii . → Romans 7:
+- [chapter-11.typ] . vii . → 7:
 - [chapter-11.typ] . ix . → 9:
 - [chapter-11.typ] xiii → 13
 - [chapter-11.typ] xxi → 21

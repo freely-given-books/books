@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 393 |
-| emendation | 101 |
+| punctuation | 394 |
+| emendation | 100 |
 | spacing | 94 |
 | spelling | 64 |
 | case | 39 |
@@ -62,7 +62,6 @@
 - [part-1/stage-10.typ] of → of it
 - [part-1/stage-10.typ] it → 
 - [part-1/stage-10.typ] Psa . → Ps
-- [part-1/stage-10.typ] Isa . → Isaiah
 - [part-1/conclusion.typ] ‘ t will → ’twill
 - [part-2/authors-way.typ] ‘ cause → ’cause
 - [part-2/authors-way.typ] but → but ground for
@@ -388,6 +387,7 @@
 - [part-1/stage-10.typ] , → 
 - [part-1/stage-10.typ] . → 
 - [part-1/stage-10.typ] - → –
+- [part-1/stage-10.typ] . → 
 - [part-1/stage-10.typ] . → 
 - [part-1/stage-10.typ] . → 
 - [part-1/stage-10.typ] . → 

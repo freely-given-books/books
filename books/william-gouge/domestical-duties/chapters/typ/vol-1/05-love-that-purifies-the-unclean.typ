@@ -19,11 +19,11 @@ Seeing #emph[of him, and through him, and to him] is all the beauty #footnote[Us
 
 The #emph[Matter] or substance of that subordinate #emph[end] which Christ aimed at in giving himself for the Church, is in these words #emph[(that he might sanctify it having cleansed it)] which in general show that
 
-#emph[Christ seeketh the purity of his Church.] For this end hath he #footnote[Doctr.] shed his own most pure and precious blood #emph[(for] #footnote[#emph[1] John 1:7.] #emph[his blood cleanseth us from all sin)] and conveyed his holy Spirit into his body the Church, which is called the #footnote[Rom 1:4.] #emph[Spirit of Sanctification,] because it reneweth and sanctifieth those in whom it is.
+#emph[Christ seeketh the purity of his Church.] For this end hath he #footnote[Doctr.] shed his own most pure and precious blood #emph[(for] #footnote[1 John 1:7.] #emph[his blood cleanseth us from all sin)] and conveyed his holy Spirit into his body the Church, which is called the #footnote[Rom 1:4.] #emph[Spirit of Sanctification,] because it reneweth and sanctifieth those in whom it is.
 
 This Christ aimeth at, that he might make his spouse like to #footnote[Reason.] himself, pure, as he is pure.
 
-That end which Christ aimed at, we that profess our selves #footnote[1 #emph[Use.] Exhortation. #emph[1] John 3:3.] to be of this Church, must endeavour after: for #emph[every man that hath this hope in him purgeth himself as he is pure.] Let us therefore use all good means to cleanse our selves from all filthiness of flesh, and spirit.
+That end which Christ aimed at, we that profess our selves #footnote[1 #emph[Use.] Exhortation. 1 John 3:3.] to be of this Church, must endeavour after: for #emph[every man that hath this hope in him purgeth himself as he is pure.] Let us therefore use all good means to cleanse our selves from all filthiness of flesh, and spirit.
 
 This being the end which Christ aimeth at for the good #footnote[2 #emph[Use.] Trial.] of his Church to #emph[cleanse it,] they who find themselves cleansed have a good evidence that they are of this Church: they who are not cleansed can have no assurance thereof.
 
@@ -37,7 +37,7 @@ The two particular parts of the forenamed end, which are #emph[Cleansing,] and #
 
 #emph[Sanctifying] hath relation to the Spirit of Christ, which worketh our Sanctification.
 
-From this cleansing of the Church here meant, I gather, that #emph[No sin lieth upon the Church:] for #emph[the blood of Christ purgeth] #footnote[Doctr.] #emph[from all sin.] This is to be taken of the guilt of sin, which #footnote[#emph[1] John 1:7.] by Christ’s death is clean taken away: so as that sin which is in us, is as not in us, because it is not imputed unto us.
+From this cleansing of the Church here meant, I gather, that #emph[No sin lieth upon the Church:] for #emph[the blood of Christ purgeth] #footnote[Doctr.] #emph[from all sin.] This is to be taken of the guilt of sin, which #footnote[1 John 1:7.] by Christ’s death is clean taken away: so as that sin which is in us, is as not in us, because it is not imputed unto us.
 
 Behold here the blessed estate of the Church, for, #emph[Blessed is] #footnote[Use.] #emph[he whose transgression is forgiven, whose sin is covered. Blessed] #footnote[Ps 32:1, 2.] #emph[is the man unto whom the Lord imputeth not sin.]
 
@@ -55,7 +55,7 @@ From the Connection of these two benefits of Christ’s death, Justification and
 
 1\. #emph[Quest.] Is it possible that neither God nor man should espy any fault in those that are of the true Church, while here they live in this world?
 
-#emph[Answ.] Seeing the flesh remaineth in the best while they remain #footnote[Sin is in the best.] in the world, it is not possible but that both God and man must needs espy many blemishes in the best. #emph[All things are] #footnote[Heb 4:13.] #emph[naked and opened to the eyes of God:] if therefore any remnant of sin be in the Saints (as there are exceeding many in every one; so as #emph[if we say that we have no sin we deceive our selves,] #footnote[#emph[1] John 1:8.] #emph[and the truth is not in us)] it is without question #emph[manifest in his sight.] Yea such is the imperfection and weakness of the best Saints, as the flesh continually lusting in them against the Spirit, oft times prevaileth, and so showeth it self in some evil fruit or other, as the eye of man espieth it: instance the examples of the best that ever lived in any age.
+#emph[Answ.] Seeing the flesh remaineth in the best while they remain #footnote[Sin is in the best.] in the world, it is not possible but that both God and man must needs espy many blemishes in the best. #emph[All things are] #footnote[Heb 4:13.] #emph[naked and opened to the eyes of God:] if therefore any remnant of sin be in the Saints (as there are exceeding many in every one; so as #emph[if we say that we have no sin we deceive our selves,] #footnote[1 John 1:8.] #emph[and the truth is not in us)] it is without question #emph[manifest in his sight.] Yea such is the imperfection and weakness of the best Saints, as the flesh continually lusting in them against the Spirit, oft times prevaileth, and so showeth it self in some evil fruit or other, as the eye of man espieth it: instance the examples of the best that ever lived in any age.
 
 2\. #emph[Quest.] How then are they spotless before God, and #footnote[How the Saints are spotless before God.] blameless before men?
 
@@ -184,7 +184,7 @@ Vain is the rejoicing of many, who boast of their baptism, #footnote[Use.] and t
 
 The other means of sanctifying and cleansing the Church here expressed, is the #emph[word.] This being applied unto Baptism, and joined with it, must needs be meant of the promise of Grace sealed up in Baptism, which is God’s promise of justifying us freely and sanctifying us effectually, plainly made known and truly believed: This means being thus added to this Sacrament, we may well infer that
 
-#emph[It is necessary that the word and Baptism go together:] that #footnote[Doct.] where this Sacrament is administered, the doctrine thereof be truly, plainly, intelligibly taught, so as the nature, efficacy, end, and use thereof may be made known; and the covenant of God sealed up thereby, believed. So saith Christ, #footnote[Matt 28:19.] #emph[Go teach all nations baptising them.] So did the #footnote[Luke 3:3.] Baptist, and the #footnote[Acts 2:38. & 8. 12, 37. & 10. 47. & 16. 15, 33.] Apostles, they preached the Gospel to them whom they baptised.
+#emph[It is necessary that the word and Baptism go together:] that #footnote[Doct.] where this Sacrament is administered, the doctrine thereof be truly, plainly, intelligibly taught, so as the nature, efficacy, end, and use thereof may be made known; and the covenant of God sealed up thereby, believed. So saith Christ, #footnote[Matt 28:19.] #emph[Go teach all nations baptising them.] So did the #footnote[Luke 3:3.] Baptist, and the #footnote[Acts 2:38; 8:12, 37; 10:47; 16:15, 33.] Apostles, they preached the Gospel to them whom they baptised.
 
 1\. A Sacrament without the word is but an idle ceremony: #footnote[#emph[Reasons. Detrahe verbum & quid est aqua nisi aqua? accedat verbum ad elementum & fit sacramentum. Aug. in Joh.] 15. #emph[tract.] 80.] no more then a seal without a covenant: for it is the word that maketh known the covenant of God.
 

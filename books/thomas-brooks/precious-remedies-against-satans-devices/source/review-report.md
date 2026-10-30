@@ -7,9 +7,9 @@
 | kind | count |
 | --- | --- |
 | spelling | 1541 |
-| punctuation | 1083 |
-| spacing | 635 |
-| emendation | 509 |
+| punctuation | 1081 |
+| spacing | 634 |
+| emendation | 510 |
 | note | 222 |
 | case | 139 |
 | italic | 113 |
@@ -411,7 +411,8 @@
 - [doubting-07.typ note] John → :
 - [doubting-07.typ note] Mat . → Matt
 - [doubting-07.typ note] Mat . 7 . → Matt 17:
-- [doubting-07.typ note] Mat . → Matt
+- [doubting-07.typ note] Mat → Matt 26:69–75
+- [doubting-07.typ note] 26 . 69 . ult . → 
 - [doubting-07.typ] St . Falling → saints falling
 - [doubting-08.typ note] Ephes . → Eph
 - [doubting-08.typ note] Lather → . Luther
@@ -1211,8 +1212,6 @@
 - [doubting-07.typ note] . → . John
 - [doubting-07.typ note] . → :
 - [doubting-07.typ note] . → ,
-- [doubting-07.typ note] . → :
-- [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
 - [doubting-07.typ] ▪ → ,
 - [doubting-07.typ] ▪ → ,

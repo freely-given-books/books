@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-28" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-10-29" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -279,7 +279,7 @@ Church-men. It was the error of <hi><choice><orig>Da<g ref="char:EOLhyphen"/>uid
 in the administration and guidance
 of his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> house,<note place="margin">2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> <choice><orig>14</orig><reg resp="#editor" type="reference">14:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>33.</note> which <choice><orig>incouraged</orig><reg resp="#auto" type="spelling">encouraged</reg></choice>
 <hi>Absalom</hi> and <hi><choice><orig>Adoniah</orig><reg resp="#editor" type="spelling">Adonijah</reg></choice></hi> his <choice><orig>sonnes</orig><reg resp="#auto" type="spelling">sons</reg></choice>,<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="punctuation"> Kgs</reg></choice> <choice><orig>King</orig><reg resp="#editor" type="emendation">1</reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>5<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> 6.</note> <choice><orig>vpon</orig><reg resp="#auto" type="spelling">upon</reg></choice>
-presumption of their Fathers <choice><abbr>indul<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>indulgence</expan></choice>,<note place="margin">2<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 15</note>
+presumption of their Fathers <choice><abbr>indul<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>ce</abbr><expan>indulgence</expan></choice>,<note place="margin">2<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> Sam<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> 15</note>
 to become ill <choice><orig>Common</orig><reg resp="#auto" type="spelling">common</reg></choice>-wealths
 men,<note place="margin"><choice><orig>1</orig><reg resp="#editor" type="emendation">1 Kgs 1</reg></choice>. <choice><orig>King. 1.</orig><reg resp="#editor" type="emendation"></reg></choice></note> to aspire, and <choice><orig>vsurpe</orig><reg resp="#auto" type="spelling">usurp</reg></choice> the kingdom
 by plots and practises of Rebellion.</p>
@@ -1820,7 +1820,7 @@ in it <choice><orig>selfe</orig><reg resp="#auto" type="spelling">self</reg></ch
 by God, yet in <choice><orig>sundrie</orig><reg resp="#auto" type="spelling">sundry</reg></choice> respects
 being inexpedient, it ought not to <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice>
 done, according to the saying of the A<g ref="char:EOLhyphen"/>postle,</hi>
-All things are <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> for me,<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 6.</note> but all
+All things are <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> for me,<note place="margin">1<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> 6.</note> but all
 things are not expedient.</p>
                <p>But it is <choice><orig>auouched</orig><reg resp="#auto" type="spelling">avouched</reg></choice> to the <choice><orig>contrarie</orig><reg resp="#auto" type="spelling">contrary</reg></choice>,
 that God by <choice><orig>expresse</orig><reg resp="#auto" type="spelling">express</reg></choice> law forbiddeth
@@ -3634,7 +3634,7 @@ of the <choice><orig>Bride</orig><reg resp="#auto" type="spelling">bride</reg></
 estate published by God <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice> in Pa<g ref="char:EOLhyphen"/>radise,
 that the man, <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> in respect of
 habitation, <hi>should <choice><orig>leaue</orig><reg resp="#auto" type="spelling">leave</reg></choice> father and mother
-and <choice><orig>cleaue</orig><reg resp="#auto" type="spelling">cleave</reg></choice> to his wife,</hi> <choice><orig>Gen</orig><reg resp="#editor" type="emendation">Gen 2:24</reg></choice>. <choice><orig>2. 24,</orig><reg resp="#editor" type="emendation"></reg></choice></p>
+and <choice><orig>cleaue</orig><reg resp="#auto" type="spelling">cleave</reg></choice> to his wife,</hi> <choice><orig>Gen</orig><reg resp="#editor" type="reference">Gen 2:24</reg></choice>. <choice><orig>2. 24,</orig><reg resp="#editor" type="reference"></reg></choice></p>
                <p><choice><orig>Heere</orig><reg resp="#auto" type="spelling">Here</reg></choice> question is <choice><orig>moued</orig><reg resp="#auto" type="spelling">moved</reg></choice>, whether
 <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> is to be solemnized with mirth
 and feasting. <hi>Answ.</hi> I. It is <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> and
@@ -4620,7 +4620,7 @@ beat his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></c
 cherisheth it, <choice><orig>Ephes.</orig><reg resp="#editor" type="reference">Eph</reg></choice> 5<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>29. <choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, it is
 the <choice><orig>commandement</orig><reg resp="#auto" type="spelling">commandment</reg></choice> of God, that man
 should not <hi><choice><orig>trespasse</orig><reg resp="#auto" type="spelling">trespass</reg></choice> against the wife of
-his youth,</hi> <choice><orig>Malac.</orig><reg resp="#editor" type="reference">Mal</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15. <hi><choice><orig>Chrysostome</orig><reg resp="#auto" type="spelling">Chrysostom</reg></choice></hi> saith,<note place="margin">In 1<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 11. Ho<g ref="char:EOLhyphen"/>mil. 26.</note>
+his youth,</hi> <choice><orig>Malac.</orig><reg resp="#editor" type="reference">Mal</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15. <hi><choice><orig>Chrysostome</orig><reg resp="#auto" type="spelling">Chrysostom</reg></choice></hi> saith,<note place="margin">In 1<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> Cor<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> 11. Ho<g ref="char:EOLhyphen"/>mil. 26.</note>
                   <hi>It is the greatest <choice><orig>reproch</orig><reg resp="#auto" type="spelling">reproach</reg></choice> for any man, that
 can <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice>, to <choice><orig>beate</orig><reg resp="#auto" type="spelling">beat</reg></choice> his wife. Plutarch</hi> in the
 
@@ -5830,7 +5830,7 @@ God. <hi ana="#print-only" change="#review"><choice><orig>Iob</orig><reg resp="#
 <pb n="167" facs="tcp:2719:100"/>
 banqueting were gone about, <choice><orig>Iob</orig><reg resp="#auto" type="spelling">Job</reg></choice> sent and
 sanctified them, &amp; rose <choice><orig>vp</orig><reg resp="#auto" type="spelling">up</reg></choice> early in the mor<g ref="char:EOLhyphen"/>ning,
-&amp; <choice><orig>offred</orig><reg resp="#auto" type="spelling">offered</reg></choice> burnt offerings, <hi><choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. 2<choice><orig>. King.</orig><reg resp="#editor" type="reference"> Kgs</reg></choice>
+&amp; <choice><orig>offred</orig><reg resp="#auto" type="spelling">offered</reg></choice> burnt offerings, <hi><choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. 2<choice><orig>. King.</orig><reg resp="#editor" type="emendation"> Kgs</reg></choice>
 4.</hi> 23. And he said, wherefore wilt thou go to
 him to day? It is neither new <choice><orig>moone</orig><reg resp="#auto" type="spelling">moon</reg></choice> nor Sab<g ref="char:EOLhyphen"/>bath.
 <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">For this very cause the fourth <choice><orig><choice><abbr>Co<g ref="char:cmbAbbrStroke">̄</g><g ref="char:EOLhyphen"/>mandement</abbr><expan>Commandement</expan></choice></orig><reg resp="#auto" type="spelling">Commandment</reg></choice>
