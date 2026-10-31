@@ -2,7 +2,7 @@
 
 #smallcaps[“Ye must be born again].” This word of our Lord Jesus has appeared to flame in the way of many, like the drawn sword of the cherub at the gate of Paradise. They have despaired, because this change is beyond their utmost effort. The new birth is from above, and therefore it is not in the creature’s power. Now, it is far from my mind to deny, or ever to conceal, a truth in order to create a false comfort. I freely admit that the new birth is supernatural, and that it cannot be wrought by the sinner’s own self. It would be a poor help to my reader if I were wicked enough to try to cheer him by persuading him to reject or forget what is unquestionably true.
 
-But is it not remarkable that the very chapter in which our Lord makes this sweeping declaration also contains the most explicit statement as to salvation by faith? Read the third chapter of John’s Gospel and do not dwell alone upon its earlier sentences. It is true that the third verse says:
+But is it not remarkable that the very chapter in which our Lord makes this sweeping declaration also contains the most explicit statement as to salvation by faith? Read the third chapter of John’s Gospel quite through, and do not dwell alone upon its earlier sentences. It is true that the third verse says:
 
 #quote[Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.]
 
