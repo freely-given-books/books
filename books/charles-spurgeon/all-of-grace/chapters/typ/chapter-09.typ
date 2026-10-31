@@ -16,7 +16,7 @@ The pursuits of life illustrate faith in many ways. The farmer buries good seed 
 
 The merchant places his money in the care of a banker, and trusts altogether to the honesty and soundness of the bank. He entrusts his capital to another’s hands, and feels far more at ease than if he had the solid gold locked up in an iron safe.
 
-The sailor trusts himself to the sea. When he swims he takes his foot from the bottom and rests upon the buoyant ocean. He could not swim if he did not wholly cast himself upon the water.
+The sailor trusts himself to the sea. When he swims he takes his foot off from the bottom and rests upon the buoyant ocean. He could not swim if he did not wholly cast himself upon the water.
 
 The goldsmith puts precious metal into the fire which seems eager to consume it, but he receives it back again from the furnace purified by the heat.
 
