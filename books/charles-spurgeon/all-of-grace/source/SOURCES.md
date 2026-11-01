@@ -34,7 +34,14 @@ folder outside the repository):
    and CCEL's vocabulary (`wordsweep.py`) then found what every OCR got
    wrong the same way, fixed after the vote (`POST` in `decide.py`): words
    run together ("doneit", "itis", "isyet spacefor"), "jusf" (a blot after
-   "just"), "th t" (the a lost in printing).
+   "just"), "th t" (the a lost in printing), "Gop" (GOD in small capitals),
+   "to he a" (to | be a). Quotation marks Kraken missed where only GLM had
+   them were found where a paragraph's quotes did not balance and added
+   (`QUOTES_ADD`), and a few marks set the wrong way round were read on the
+   page (`QUOTES_SET`). The local proofread (Qwen 3.8 27B and the
+   gap-marker, the press's policy) was read through; its flags and the
+   one-word differences from the earlier edition were settled on the page
+   images.
 3. **Layout from the print** (`assemble.py`): Tesseract's line boxes give
    the paragraph indents and the small type of quoted verse (set line by
    line, 18 quotations); the chapters are the 20 pages that open with a
@@ -66,7 +73,8 @@ reg decision, then `refstyle.py`):
 - American spelling (the editor, 2026-11-01): Saviour → Savior, offence →
   offense, marvellous → marvelous, towards → toward, fulfil → fulfill and
   the like, the pairs the edition used before;
-- the printer's misprints corrected (sarpe → spare, godness → goodness …);
+- the printer's misprints corrected (sarpe → spare, godness → goodness,
+  "their evils ways", "when be yielded", "better that merely" …);
 - headings in title case; dashes spaced (the edition's style);
 - Scripture references in the edition's style ("Romans viii. 33" →
   "Rom 8:33").

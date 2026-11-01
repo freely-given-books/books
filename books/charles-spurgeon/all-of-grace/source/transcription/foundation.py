@@ -214,7 +214,8 @@ def main():
                 cur = at.get(n, cur)
                 back = lead
                 if lead and key(c) == '"' and c not in "‘’'":
-                    closing = quote_open(out_tokens)
+                    # a curly mark in a decision says its direction; a straight one asks the context
+                    closing = c == "”" if c in "“”" and verdict == "check" else quote_open(out_tokens)
                     c = "”" if closing else "“"
                     back = closing
                 pos = (pp, pl) if back else cur
@@ -237,6 +238,27 @@ def main():
         pos = [(x["p"], x["l"]) for x in out_tokens[i:i + len(old)]]
         out_tokens[i:i + len(old)] = [dict(t=w, p=pos[min(n, len(pos) - 1)][0], l=pos[min(n, len(pos) - 1)][1],
                                            voted="post") for n, w in enumerate(new)]
+    for before, after in decisions.get("__quotes__", []):
+        bw, aw = [w.lower() for w in before.split()], [w.lower() for w in after.split()]
+        widx = [i for i, x in enumerate(out_tokens) if x["t"][0].isalnum()]
+        wk = [key(out_tokens[i]["t"]) for i in widx]
+        hits = [n for n in range(len(bw), len(wk) - len(aw) + 1)
+                if wk[n - len(bw):n] == bw and wk[n:n + len(aw)] == aw]
+        if len(hits) != 1: sys.exit(f"quote mark before {after!r}: found {len(hits)} times")
+        i = widx[hits[0]]
+        out_tokens.insert(i, dict(t='"', p=out_tokens[i]["p"], l=out_tokens[i]["l"], voted="quote"))
+    for before, after, mark in decisions.get("__quotes_set__", []):
+        bw, aw = [w.lower() for w in before.split()], [w.lower() for w in after.split()]
+        widx = [i for i, x in enumerate(out_tokens) if x["t"][0].isalnum()]
+        wk = [key(out_tokens[i]["t"]) for i in widx]
+        hits = [n for n in range(len(bw), len(wk) - len(aw) + 1)
+                if wk[n - len(bw):n] == bw and wk[n:n + len(aw)] == aw]
+        if len(hits) != 1: sys.exit(f"quote mark before {after!r}: found {len(hits)} times")
+        a0, a1 = widx[hits[0] - 1], widx[hits[0]]
+        q = [i for i in range(a0 + 1, a1) if key(out_tokens[i]["t"]) == '"']
+        if len(q) != 1: sys.exit(f"quote mark before {after!r}: {len(q)} marks there")
+        src = out_tokens[a0] if mark == "”" else out_tokens[a1]
+        out_tokens[q[0]] = dict(out_tokens[q[0]], t=mark, p=src["p"], l=src["l"])
     (W / "foundation.json").write_text(json.dumps(out_tokens))
     (W / "votes.json").write_text(json.dumps(rows, indent=1))
     c = Counter(r["verdict"] for r in rows)

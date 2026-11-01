@@ -238,10 +238,12 @@ def curl(tokens):
             single = t in ("'", "‘", "’")
             prev = out[-1] if out else ""
             nxt = tokens[i + 1] if i + 1 < len(tokens) else ""
-            if not nxt or nxt[0] in ".,;:!?)": opening = False          # at the end: closing
+            if not nxt or nxt[0] in ".,;:!?)—": opening = False          # at the end: closing
             elif not prev or prev in "—(": opening = True              # at the start: opening
-            elif t in ("“", "‘"): opening = True
-            elif t in ("”", "’"): opening = False
+            elif not single:
+                opening = not open_d                                   # double quotes alternate
+            elif t in ("‘",): opening = True
+            elif t in ("’",): opening = False
             else:
                 opening = not (open_s if single else open_d)
                 prev = out[-1] if out else ""
@@ -399,7 +401,9 @@ def main(out_path):
                         else: cur_s.append(x)
                     segs.append(cur_s)
                     piece = "<br />\n".join(escape(join(sg), quote=False) for sg in segs)
-                    text += (" " if text and not text.endswith("/>") else "") + piece
+                    first = re.sub(r"^[\x01-\x04<]+|^<[^>]*>", "", piece)[:1]
+                    text += (" " if text and not (first and first in NOSPACE_BEFORE)
+                             and not re.search(r"[“‘(\x01\x03]$", re.sub(r"<pb[^>]*/>$", "", text)) else "") + piece
                     run = []
             for x in seq:
                 if isinstance(x, tuple):

@@ -7,8 +7,8 @@
 | kind | count |
 | --- | --- |
 | spacing | 137 |
-| spelling | 73 |
-| emendation | 11 |
+| spelling | 75 |
+| emendation | 12 |
 | punctuation | 7 |
 
 ## emendation
@@ -22,6 +22,7 @@
 - [chapter-11.typ] . v . → 5:
 - [chapter-14.typ] v → 5
 - [chapter-15.typ] v → 5
+- [chapter-16.typ] be → he
 - [chapter-17.typ] . i . → 1:
 - [chapter-19.typ] . i . → 1:
 
@@ -53,6 +54,7 @@
 - axe → ax
 - checque → check
 - counsellor → counselor
+- evils → evil
 - fulfilment → fulfillment
 - fulness → fullness
 - godness → goodness
@@ -63,6 +65,7 @@
 - scarely → scarcely
 - sceptre → scepter
 - sepulchre → sepulcher
+- that → than
 - trangression → transgression
 - upwards → upward
 

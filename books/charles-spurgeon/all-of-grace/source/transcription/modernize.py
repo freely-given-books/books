@@ -41,7 +41,14 @@ MISPRINTS = {"sarpe": "spare", "godness": "goodness", "scarely": "scarcely",
              "trangression": "transgression", "Spirt": "Spirit", "checque": "check"}
 
 
+# the printer's slips that are real words, so only in their context (orig keeps them)
+PHRASES = {"their evils ways": "their evil ways", "when be yielded": "when he yielded",
+           "better that merely": "better than merely"}
+
+
 def respell(text):
+    for a, b in PHRASES.items():
+        text = text.replace(a, b)
     def one(m):
         w = m.group(0)
         if w in MISPRINTS: return MISPRINTS[w]
