@@ -329,6 +329,49 @@ applies everywhere, in every book:
 book whose machine pass changed. Read each new report, and say in the
 commit that words moved from `#editor` to `#auto`.
 
+## The TCP against the print
+
+The TCP is not letter-perfect: in Perkins it left out "Lombard," and
+"though" and misread six words ("of" for "or", "contimencie", "this wife",
+"better them wine", "them master", "bough"), all found after review and an
+outside proofread. Before a TCP book is called ready, collate its orig layer
+with OCR of the scan it was keyed from (the witness export's
+`source/ocr/<scan>.{glm,tesseract}.witness.txt`, or Kraken/Chandra output in
+the same layout):
+
+```sh
+python3 ~/Projects/fgbooks/local-tools/tcp_collate.py $B ~/Projects/fgbooks/work/<book>/tcp-collate \
+    $B/source/ocr/<scan>.glm.witness.txt $B/source/ocr/<scan>.tesseract.witness.txt
+```
+
+It lists only places where every witness differs from the TCP:
+`extra.md` (words the TCP lacks or a different word) and `nearmiss.md`
+(one-letter swaps, which the first pass would take for spelling). Expect
+mostly OCR noise: macron words (whē, gaue as "gae"), running heads,
+catchwords, GLM's modern guesses (five for foure). **Read every real
+candidate on the page image** (`pdftoppm -f N -l N -r 120 -gray -png
+source/ocr/ocr-witnesses/<scan>/source/scan.pdf`; the scan page is the
+printed page plus an offset that drifts, so find it from the GLM text's
+"--- Source PDF page" line). A turned letter is what was printed (Perkins
+"aud"): keep it in orig, correct it in reg.
+
+Each confirmed slip goes in `source/<ID>.supplied.xml` as a fix (colophon
+0.33.0; see Perkins'):
+
+```xml
+<corrections xml:id="tcp-corrections">
+  <desc>Words the TCP transcription misread or left out, corrected to the print (scan …).</desc>
+  <fix pb="103" before="with him." tcp="" print=" Lombard," evidence="p. 103 (scan 127): …"/>
+  <fix pb="144" before="the Priest" tcp="of" print="or" after="Prince" evidence="…"/>
+</corrections>
+```
+
+`before`+`tcp`+`after` is the TCP's raw text on printed page `pb`, in one
+text node, found exactly once (white space matches any white space). Put
+the same words in `chapters/typ` if the reg did not have them already,
+`./fgb sync`, `./fgb check`, and list the supplement as a `[[source]]` in
+`RELEASE.toml` with its sha256 (update it whenever the file changes).
+
 ## Verify
 
 ```sh
