@@ -6,7 +6,7 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 137 |
+| spacing | 127 |
 | spelling | 75 |
 | emendation | 12 |
 | punctuation | 7 |

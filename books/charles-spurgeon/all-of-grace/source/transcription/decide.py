@@ -67,7 +67,7 @@ QUOTES_ADD = [
  ("what right have you here", "Sir said he"), ("was to come after work", "Do you mean"),
  ("out after business hours", "Well sir replied"), ("had a right to come", "Come in John"),
  ("I will give you rest", "Do you think"), ("Israel would none of me", "He came to"),
- ("wondered at", "O world of wonders"), ("BY GRACE ARE YE SAVED", "To return to the grand"),
+ ("wondered at", "O world of wonders"), ("all thy sorrows feel", "My heart dissolves"), ("BY GRACE ARE YE SAVED", "To return to the grand"),
 ]
 # quote marks in the text whose direction the context got wrong, read on the page images:
 # (words before, words after, the mark); a closing mark stays with the word before it

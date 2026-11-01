@@ -42,12 +42,20 @@ folder outside the repository):
    gap-marker, the press's policy) was read through; its flags and the
    one-word differences from the earlier edition were settled on the page
    images.
-3. **Layout from the print** (`assemble.py`): Tesseract's line boxes give
-   the paragraph indents and the small type of quoted verse (set line by
-   line, 18 quotations); the chapters are the 20 pages that open with a
-   title in capitals, no page number and the first words in capitals;
-   running heads and page numbers are left out; the printed pages are kept
-   as `pb`.
+3. **Layout from the print** (`assemble.py`): Tesseract's line boxes,
+   matched to Kraken's lines, give each line's indent (against the margin of
+   the lines around it: the scans lean; specks in the margin are no word),
+   its type size and the space above it (on baselines). A new paragraph is
+   an indented line; space above starts a block; verse is small type set far
+   in, line by line, a stanza where the space opens; a display (Scripture
+   set apart, chapter epigraphs) is italic or small type opened by space, a
+   colon or the chapter heading. Checked against CCEL's paragraphing
+   (`paracheck.py`): every remaining difference was read on the page. The
+   chapters are the 20 pages that open with a title in capitals, no page
+   number and the first words in capitals; running heads and page numbers
+   are left out; the printed pages are kept as `pb`. Kraken's D-FINE layout
+   model (LADaS, `dfine-kraken`) was tried on every page (2026-11-01) and
+   found 4 of the 20 headings and missed three hymns, so it is not used here.
 4. **Italics** (`italics.py`): the print's italic (Scripture quoted in the
    text, Spurgeon's emphasis) measured as the slant of each word on the
    page image, against the word's own upright slant elsewhere in the book

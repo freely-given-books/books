@@ -4,7 +4,7 @@
 
 I want you to notice that he gives his reasons. Here they are:
 
-“#emph[God is faithful, by whom ye were called unto the] fellowship #emph[of his Son Jesus Christ].” — 1 Cor 1:9.
+#quote[“#emph[God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ].” — 1 Cor 1:9.]
 
 The apostle does not say, “You are faithful.” Alas! the faithfulness of man is a very unreliable affair; it is mere vanity. He does not say, “You have faithful ministers to lead and guide you, and therefore I trust you will be safe.” Oh, no! if we are kept by men we shall be but ill kept. He puts it, “God is faithful.” If we are found faithful, it will be because God is faithful. On the faithfulness of our covenant God the whole burden of our salvation must rest. On this glorious attribute of God the matter hinges. We are variable as the wind, frail as a spider’s web, weak as water. No dependence can be placed upon our natural qualities, or our spiritual attainments; but God abideth faithful. He is faithful in his love; he knows no variableness, neither shadow of turning. He is faithful to his purpose; he doth not begin a work and then leave it undone. He is faithful to his relationships; as a Father he will not renounce his children, as a friend he will not deny his people, as a Creator he will not forsake the work of his own hands. He is faithful to his promises, and will never allow one of them to fail to a single believer. He is faithful to his covenant, which he has made with us in Christ Jesus, and ratified with the blood of his sacrifice. He is faithful to his Son, and will not allow his precious blood to be spilt in vain. He is faithful to his people to whom he has promised eternal life, and from whom he will not turn away.
 

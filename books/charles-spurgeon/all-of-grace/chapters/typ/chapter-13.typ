@@ -4,19 +4,23 @@
 
 But is it not remarkable that the very chapter in which our Lord makes this sweeping declaration also contains the most explicit statement as to salvation by faith? Read the third chapter of John’s gospel quite through, and do not dwell alone upon its earlier sentences. It is true that the third verse runs thus:
 
-“Jesus #emph[answered and said unto him], Verily, verily, I #emph[say unto thee, Except a man be born again, he cannot see the kingdom of] God.”
+#quote[“#emph[Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God].”]
 
-But, then, the fourteenth and fifteenth verses speak to us upon this wise: “And #emph[as Moses] lifted #emph[up the serpent in the] wilderness, even #emph[so must the Son of man be] lifted #emph[up: that whosoever believeth in him should not perish, but have eternal life].”
+But, then, the fourteenth and fifteenth verses speak to us upon this wise:
+
+#quote[“#emph[And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: that whosoever believeth in him should not perish, but have eternal life].”]
 
 The eighteenth verse repeats the same delightful doctrine in the broadest terms:
 
-“#emph[He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of] God.”
+#quote[“#emph[He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of]]
+
+God.”
 
 It is clear to every reader that these two statements must agree, since they came from the same lips, and are recorded on the same inspired page. Why should we make a difficulty where there can be none? If one statement assures us of the necessity to salvation of a something, which only God can give, and if another assures us that the Lord will save us upon our believing in Jesus, then we may safely conclude that the Lord will give to those who believe all that is declared to be necessary to salvation. The Lord does, in fact, produce the new birth in all who believe in Jesus; and their believing is the surest evidence that they are born again.
 
 We trust in Jesus for what we cannot do ourselves: if it were in our own power, what need of looking to him? It is ours to believe, it is the Lord’s to create us anew. He will not believe for us, neither are we to do regenerating work for him. It is enough for us to obey the gracious command; it is for the Lord to work the new birth in us. He who could go so far as to die on the cross for us, can and will give us all things that are needful for our eternal safety.
 
-“#emph[But a saving change of heart is the work of] the #emph[Holy Spirit].” This also is most true, and let it be far from us to question it, or to forget it. But the work of the Holy Ghost is secret and mysterious, and it can only be perceived by its results. There are mysteries about our natural birth into which it would be an unhallowed curiosity to pry: still more is this the case with the sacred operations of the Spirit of God. “The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, or whither it goeth; so is every one that is born of the Spirit.” This much, however, we do know, — the mysterious work of the Holy Ghost cannot be a reason for refusing to believe in Jesus to whom that same Spirit beareth witness.
+“#emph[But a saving change of heart is the work of] the #emph[Holy Spirit].” This also is most true, and let it be far from us to question it, or to forget it. But the work of the Holy Ghost is secret and mysterious, and it can only be perceived by its results. There are mysteries about our natural birth into which it would be an unhallowed curiosity to pry: still more is this the case with the sacred operations of the Spirit of God. “The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, or whither it goeth; so is every one that is born of the Spirit.” This much, however, we do know,—the mysterious work of the Holy Ghost cannot be a reason for refusing to believe in Jesus to whom that same Spirit beareth witness.
 
 If a man were bidden to sow a field, he could not excuse his neglect by saying that it would be useless to sow unless God caused the seed to grow. He would not be justified in neglecting tillage because the secret energy of God alone can create a harvest. No one is hindered in the ordinary pursuits of life by the fact that unless the Lord build the house they labor in vain that build it. It is certain that no man who believes in Jesus will ever find that the Holy Spirit refuses to work in him: in fact, his believing is the proof that the Spirit is already at work in his heart.
 

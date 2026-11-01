@@ -62,7 +62,7 @@ def respell(text):
 
 def space_dashes(text):
     """word—word -> word — word; not at a line's start or end, nor before closing punctuation"""
-    return re.sub(r"(?<=[^\s\n—])—(?=[^\s\n—.,;:!?”’)\]])", " — ", text)
+    return re.sub(r"(?<=[^\s\n—:;,.!?])—(?=[^\s\n—.,;:!?”’)\]])", " — ", text)   # not after punctuation (thus:—)
 
 
 def main(book):

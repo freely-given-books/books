@@ -2,7 +2,7 @@
 
 #quote[Rom 8:33.]
 
-A wONDERFUL thing it is, this being justified, or made just. If we had never broken the laws of God we should not have needed it, for we should have been just in ourselves. He who has all his life done the things which he ought to have done, and has never done anything which he ought not to have done, is justified by the law. But you, dear reader, are not of that sort, I am quite sure. You have too much honesty to pretend to be without sin, and therefore you need to be justified.
+A #smallcaps[wonderful] thing it is, this being justified, or made just. If we had never broken the laws of God we should not have needed it, for we should have been just in ourselves. He who has all his life done the things which he ought to have done, and has never done anything which he ought not to have done, is justified by the law. But you, dear reader, are not of that sort, I am quite sure. You have too much honesty to pretend to be without sin, and therefore you need to be justified.
 
 Now, if you justify yourself, you will simply be a self-deceiver. Therefore do not attempt it. It is never worth while.
 

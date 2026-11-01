@@ -16,7 +16,7 @@ If those who are converted become winners of others, who knows what may spring o
 
 #align(center)[#smallcaps[now or never]]
 
-with you. Let it be now; it would be horrible that it should be #emph[never].
+with you. Let it be #smallcaps[now]\; it would be horrible that it should be #emph[never].
 
 Farewell. Again I charge you,
 

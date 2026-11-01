@@ -30,15 +30,29 @@ def tess_lines(page):
         by.setdefault((int(r["block_num"]), int(r["par_num"]), int(r["line_num"])), []).append(r)
     out = []
     for ws in by.values():
-        l = min(int(w["left"]) for w in ws); r = max(int(w["left"]) + int(w["width"]) for w in ws)
+        real = [w for w in ws if re.search(r"[A-Za-z0-9]", w["text"])] or ws   # specks in the margin are no word
+        l = min(int(w["left"]) for w in real); r = max(int(w["left"]) + int(w["width"]) for w in real)
         t = min(int(w["top"]) for w in ws)
         h = median(int(w["height"]) for w in ws if re.search(r"[a-z]", w["text"]) or True)
-        out.append(dict(top=t, left=l, right=r, h=h, text=" ".join(w["text"] for w in ws)))
+        q = [w for w in ws if re.fullmatch(r"[“\"‘'«,.]+", w["text"]) and int(w["left"]) < l]
+        base = median(int(w["top"]) + int(w["height"]) for w in real)    # the baseline (descenders aside)
+        out.append(dict(top=t, base=base, left=l, right=r, h=h, text=" ".join(w["text"] for w in ws),
+                        qleft=min(int(w["left"]) for w in q) if q else None))
     return sorted(out, key=lambda x: x["top"])
+
+
+PITCH = {}
 
 
 def geometry():
     geo = {}
+    global QLINES                                       # lines whose first token is a quote mark
+    QLINES, seen = set(), set()
+    for t in T:
+        ln = (t["p"], t["l"])
+        if ln not in seen:
+            seen.add(ln)
+            if key(t["t"]) == '"': QLINES.add(ln)
     for page in sorted({t["p"] for t in T}):
         raw = (W / f"kraken/p-{page:03d}.txt").read_text().splitlines()
         tl = tess_lines(page)
@@ -47,8 +61,10 @@ def geometry():
         H = median(x["h"] for x in body) if body else 32
         left = Counter(round(x["left"] / 4) for x in body).most_common(1)[0][0] * 4 if body else 0
         right = median(x["right"] for x in body) if body else 0
+        tops = [x["base"] for x in body]
+        PITCH[page] = median([b - a for a, b in zip(tops, tops[1:]) if 0 < b - a < 2.2 * H] or [1.5 * H])
         # monotone match: each Kraken line to the most similar Tesseract line at or after the last
-        j = 0
+        j, matched = 0, {}
         for i, line in enumerate(raw, 1):
             best, bj = 0, None
             for k in range(j, min(j + 4, len(tl))):
@@ -56,7 +72,20 @@ def geometry():
                 if r > best: best, bj = r, k
             if bj is not None and best > 0.5:
                 x = tl[bj]; j = bj + 1
-                geo[(page, i)] = dict(indent=(x["left"] - left) / H, short=(right - x["right"]) / H,
+                if (page, i) in QLINES and x.get("qleft") is not None:
+                    x = dict(x, left=x["qleft"])               # the line opens with a quotation mark
+                # the margin here: the median left edge of the full lines around (the scans lean)
+                near = [y["left"] for y in tl[max(0, bj - 4):bj + 5] if y is not x and len(y["text"]) > 30
+                        and abs(y["h"] - H) < 0.2 * H]
+                margin = median(near) if near else left
+                # space above: from Tesseract's line before (none under the running head)
+                gap = None
+                matched[i] = bj
+                above = tl[bj - 1]["text"] if bj > 0 else ""
+                if bj > 0 and matched.get(i - 1) == bj - 1 and not is_head(above) \
+                        and not re.fullmatch(r"\W*\d+\W*", above) and not (bj <= 2 and len(above) < 45):
+                    gap = (x["base"] - tl[bj - 1]["base"]) / PITCH[page]
+                geo[(page, i)] = dict(top=x["top"], gap=gap, indent=(x["left"] - margin) / H, short=(right - x["right"]) / H,
                                       small=x["h"] / H, text=line, tl=bj)
     return geo
 
@@ -156,6 +185,9 @@ SC = {
     (132, "BESEECH YOU"): "beseech you", (132, "DO NOT TURN AWAY FROM YOUR REDEEMER"): "Do not turn away from your Redeemer",
     (134, "READER"): "Reader", (134, "MEET ME IN HEAVEN"): "meet me in heaven", (134, "NOW OR NEVER"): "now or never",
 }
+# words in small capitals that Kraken read in mixed or lower case (the page images)
+SC_WORDS = {(24, "A", "wONDERFUL"): "wonderful", (24, "A", "wonderful"): "wonderful",
+            (39, None, "In"): "In", (134, "be", "now"): "now"}
 SC_ON, SC_OFF = "\x01", "\x02"
 IT_ON, IT_OFF = "\x03", "\x04"
 
@@ -199,6 +231,9 @@ def mark_italics(toks, geo):
         for n in range(1, len(flag) - 1):              # "a Prince and a Saviour": a short word inside
             if not flag[n] and flag[n - 1] and flag[n + 1] and len(re.sub(r"\W", "", tw[n][0])) <= 2:
                 flag[n] = True
+        for n in range(1, len(flag) - 1):              # one word dropped out of an italic run
+            if not flag[n] and flag[n - 1] and flag[n + 1] and (sl[n] == 0 or sl[n] > 0.08):
+                flag[n] = True
         words = [i for i in idx if toks[i]["t"][0].isalnum()]
         sm = SequenceMatcher(None, [key(toks[i]["t"]) for i in words], tk, autojunk=False)
         for a, b, size in sm.get_matching_blocks():
@@ -210,6 +245,12 @@ def small_caps(toks):
     """runs of capitals -> one token wrapped in SC_ON/SC_OFF, as SC gives them"""
     out, i = [], 0
     caps = lambda w: re.fullmatch(r"[A-Z][A-Z’'-]*", w) is not None
+    seen = set()
+    for n, t in enumerate(toks):                        # (page, word before or None, word)
+        prev = toks[n - 1]["t"] if n else ""
+        for k in ((t["p"], prev, t["t"]), (t["p"], None, t["t"])):
+            if k in SC_WORDS and k not in seen:
+                seen.add(k); t["t"] = SC_ON + SC_WORDS[k] + SC_OFF; break
     while i < len(toks):
         j = i
         while j < len(toks) and caps(toks[j]["t"]) and toks[j]["p"] == toks[i]["p"]: j += 1
@@ -328,38 +369,62 @@ def main(out_path):
         if not (seen_head or top) or len(cand) > 3:
             new_st = st                                # no heading found: the text starts where CCEL's does
         starts[ci] = new_st if ci else 0
-    # blocks: [kind, [token idx], [verse break positions]], kind p / quote / verse
+    # blocks: [kind, [token idx], [verse break positions]], kind p / quote / verse / center.
+    # A line with extra space above it starts a block (a display, a stanza, the text after
+    # them); a display is italic or smaller type after such a space; verse is small type.
     body = []
     for ci, st in enumerate(starts):
         end = starts[ci + 1] if ci + 1 < len(starts) else len(toks)
-        blocks, cur, last_line = [], None, None
+        lines_of = {}
         for i in range(st, end):
-            if i in drop: continue
-            ln = (toks[i]["p"], toks[i]["l"])
-            if ln != last_line:
-                g = geo.get(ln, G0)
-                frag = len(RAW.get(ln, "").split()) < 3 and g["indent"] > 4      # a piece Kraken split off a line
-                if frag and cur is not None:
-                    last_line = ln; cur[1].append(i); continue
-                raw = RAW.get(ln, "")
-                if is_head(raw) and g["indent"] > 1.5 and len(raw.split()) <= 8:
-                    cur = ["center", [], []]; blocks.append(cur); last_line = ln
-                    cur[1].append(i); continue
-                if cur and cur[0] == "center":
-                    cur = None
-                sm = g["small"] < 0.8
-                nxt = (ln[0], ln[1] + 1); prv = (ln[0], ln[1] - 1)
-                run = sm and (small(nxt) or small(prv) or g["indent"] > 1.5)
-                kind = ("verse" if g["indent"] > 1.5 or (cur and cur[0] == "verse") else "quote") if run else "p"
-                new = cur is None or kind != cur[0] or kind == "p" and g["indent"] > 0.8 \
-                    or kind == "quote" and g["indent"] > 0.8
-                if new:
-                    cur = [kind, [], []]; blocks.append(cur)
-                elif kind == "verse":
-                    cur[2].append(len(cur[1]))         # a verse line break
-                last_line = ln
-            cur[1].append(i)
+            if i not in drop: lines_of.setdefault((toks[i]["p"], toks[i]["l"]), []).append(i)
+        blocks, cur = [], None
+        for ln in sorted(lines_of):
+            idxs = lines_of[ln]
+            g = geo.get(ln, G0); raw = RAW.get(ln, "")
+            words = [i for i in idxs if toks[i]["t"][0].isalnum() or toks[i]["t"][0] in SC_ON]
+            ital = sum(bool(toks[i].get("it")) for i in words) / max(1, len(words))
+            spaced = (g.get("gap") or 0) > 1.35
+            nxt = (ln[0], ln[1] + 1); prv = (ln[0], ln[1] - 1)
+            if len(raw.split()) < 3 and g["indent"] > 4 and cur is not None and not spaced:
+                cur[1] += idxs; continue                 # a piece Kraken split off a line
+            if is_head(raw) and g["indent"] > 1.5 and len(raw.split()) <= 8:
+                cur = ["center", list(idxs), []]; blocks.append(cur); continue
+            verse = (g["small"] < 0.8 and (g["indent"] > 1.5 or (cur and cur[0] == "verse")
+                                          or small(nxt) or small(prv))) \
+                or (cur and cur[0] == "verse" and g["indent"] > 3)   # verse is set far in
+            sc_line = any(SC_ON in toks[i]["t"] for i in idxs)     # small capitals measure small
+            # a display opens with a quotation mark (italic or small type) or is set off small and
+            # indented (an epigraph); an italic phrase opening a paragraph is no display
+            first_q = key(toks[idxs[0]]["t"]) == '"'
+            display_like = (first_q and (ital >= 0.4 or g["small"] < 0.93)) or \
+                           (not blocks and g["small"] < 0.85 and not sc_line and g["indent"] > 0.8)
+            # what sets a display off: space above, or the colon (or dash) that introduces it,
+            # or the chapter's heading just above (an epigraph)
+            prev_t = toks[cur[1][-1]]["t"] if cur and cur[1] else ""
+            opened = spaced or prev_t in (":", "—", ":—") or (not blocks and first_q and g["small"] < 0.85)
+            if verse:
+                if cur and cur[0] == "verse" and not (g.get("gap") or 0) > 1.15:   # verse is set closer: a stanza
+                    cur[2].append(len(cur[1])); cur[1] += idxs
+                else:
+                    cur = ["verse", list(idxs), []]; blocks.append(cur)
+            elif cur and cur[0] == "quote" and not spaced and g["indent"] < 0.8 and (ital >= 0.5 or g["small"] < 0.9):
+                cur[1] += idxs
+            elif opened and display_like:
+                cur = ["quote", list(idxs), []]; blocks.append(cur)
+            elif cur is None or cur[0] != "p" or g["indent"] > 0.8 or spaced:
+                cur = ["p", list(idxs), []]; blocks.append(cur)
+            else:
+                cur[1] += idxs
         body.append((chapters[ci][0], blocks))
+    for title, blocks in body:
+        for kind, idx, _ in blocks:
+            if kind != "quote": continue
+            words = [i for i in idx if toks[i]["t"][0].isalnum()]
+            if words and sum(bool(toks[i].get("it")) for i in words) >= 0.6 * len(words):
+                ref = next((n for n, i in enumerate(idx) if toks[i]["t"] in "—–" and n > len(idx) // 2), len(idx))
+                for i in idx[:ref]:
+                    if toks[i]["t"][0].isalnum(): toks[i]["it"] = True
     # emit
     lines = [HEAD]
     lastp = None
