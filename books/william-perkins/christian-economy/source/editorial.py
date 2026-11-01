@@ -65,15 +65,6 @@ REPORT_NOTES = [
     "In the orig layer, the run-in lists you set out (I. ... II. ...) come out "
     "as separate paragraphs with their printed numerals. Extract the "
     "untouched TCP file itself for the exact 1609 paragraphing.",
-    "p. 103 (chapter 9): the TCP leaves out 'Lombard,' before 'the master of "
-    "the sentences'; it is printed there (page image). Restored in reg only "
-    "until colophon can supply words a transcription dropped in orig.",
-    "p. 21 (chapter 4): the TCP leaves out 'though' in 'is begun, though not "
-    "in regard of fact'; printed there (page image). Restored in reg only, "
-    "as 'Lombard,'.",
-    "TCP keying slips the reg already corrects (orig still has the TCP word): "
-    "'of' for 'or' in 'the Priest or Prince of Midian' (p. 144); 'aud' for "
-    "'and' twice.",
 ]
 
 # ./fgb epub / pdf / page (paths from the book folder)
