@@ -4,19 +4,22 @@
 
 - chapter-10 heading: your title drops ', and of due benevolence'. The printed heading is kept in orig; the shortened title is your reg.
 - In the orig layer, the run-in lists you set out (I. ... II. ...) come out as separate paragraphs with their printed numerals. Extract the untouched TCP file itself for the exact 1609 paragraphing.
+- p. 103 (chapter 9): the TCP leaves out 'Lombard,' before 'the master of the sentences'; it is printed there (page image). Restored in reg only until colophon can supply words a transcription dropped in orig.
 
 | kind | count |
 | --- | --- |
-| punctuation | 628 |
+| punctuation | 629 |
 | spacing | 338 |
-| emendation | 186 |
+| emendation | 187 |
 | italic | 128 |
 | spelling | 71 |
-| case | 35 |
+| case | 34 |
 | gap | 9 |
 | expansion | 9 |
 | split | 8 |
 | grammar | 7 |
+| note moved | 4 |
+| note | 1 |
 | skipped | 1 |
 | merge | 1 |
 | list | 1 |
@@ -103,6 +106,7 @@
 - [chapter-04.typ] Matth . → Matt
 - [chapter-04.typ] Genes . → Gen
 - [chapter-04.typ] Matth . → Matt
+- [chapter-05.typ note] Dei → De ciuit. Dei
 - [chapter-05.typ note] Chap . → Chapter
 - [chapter-05.typ] Levit . → Lev
 - [chapter-05.typ] Genes . → Gen
@@ -526,6 +530,7 @@
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
+- [chapter-09.typ] . → . Lombard,
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → ,
 - [chapter-09.typ] . → 
@@ -915,7 +920,6 @@
 - proper → Proper
 - sentences → Sentences
 - service → Service
-- the → The
 
 ## spelling
 

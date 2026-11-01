@@ -26,7 +26,7 @@ GAP_FIXES = {
     15: ("praesenti", "medium", "canon-law formula: in verbis de praesenti"),
     16: ("i", "high", "de iure, glossed 'in regard of right'"),
     17: ("u", "high", "lawfull"),
-    19: ("5", "low", "Augustine, De Civ. Dei lib. 15 cap. 16 (digit uncertain)"),
+    19: ("5", "high", "Augustine, De Civ. Dei lib. 15 cap. 16; margin read on the page image (p. 34)"),
     20: ("a", "high", "in stead"),
     21: ("o", "high", "blood"),
     22: ("o", "high", "Epistol."),
@@ -65,6 +65,9 @@ REPORT_NOTES = [
     "In the orig layer, the run-in lists you set out (I. ... II. ...) come out "
     "as separate paragraphs with their printed numerals. Extract the "
     "untouched TCP file itself for the exact 1609 paragraphing.",
+    "p. 103 (chapter 9): the TCP leaves out 'Lombard,' before 'the master of "
+    "the sentences'; it is printed there (page image). Restored in reg only "
+    "until colophon can supply words a transcription dropped in orig.",
 ]
 
 # ./fgb epub / pdf / page (paths from the book folder)
