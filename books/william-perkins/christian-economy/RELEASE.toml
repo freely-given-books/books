@@ -13,9 +13,9 @@ sha256 = "83d0f693c303aed44c3d5c81580ef7eeb28c37efdca2d104f298ae6bdb082b05"
 
 [[source]]
 file = "source/A09377.supplied.xml"
-description = "Corrections to the TCP transcription from the 1609 page images: \"Lombard,\" and \"though\" restored where it left them out, \"or\" where it has \"of\""
+description = "Corrections to the TCP transcription from the 1609 page images: \"Lombard,\" and \"though\" restored where it left them out; \"or\", \"continencie\", \"his\", \"then\", \"the\" and \"bought\" where it misread them"
 url = "https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0"
-sha256 = "85bebc17cf9d4d1d87b989eac4fdc04ff4dfd6bc45e343a8879dc45b3892cfb5"
+sha256 = "a43617693cab8cfea51c97a487623fd5c9184247335b458cd94df3ea8dc99b00"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
