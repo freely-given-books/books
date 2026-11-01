@@ -3,13 +3,19 @@
 # off with a signed tag, william-perkins/christian-economy/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; two readings corrected from the 1609 page images."
+summary = "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images."
 
 [[source]]
 file = "source/A09377.tcp.xml"
 description = "EEBO-TCP A09377: Christian Oeconomie, or, A Short Survey of the Right Manner of Erecting and Ordering a Family (London, Felix Kyngston for Edmund Weaver, 1609), translated by Thomas Pickering"
 url = "https://github.com/textcreationpartnership/A09377"
 sha256 = "83d0f693c303aed44c3d5c81580ef7eeb28c37efdca2d104f298ae6bdb082b05"
+
+[[source]]
+file = "source/A09377.supplied.xml"
+description = "Corrections to the TCP transcription from the 1609 page images: \"Lombard,\" and \"though\" restored where it left them out, \"or\" where it has \"of\""
+url = "https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0"
+sha256 = "85bebc17cf9d4d1d87b989eac4fdc04ff4dfd6bc45e343a8879dc45b3892cfb5"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]

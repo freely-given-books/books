@@ -83,7 +83,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>list/@rend: the numbering this edition gives a list (a Typst numbering pattern, e.g. 'a)'); item/@n on its first item: the number it starts from.</p><p>list[@rend='diagram']: a diagram printed as a list (a genealogy set as a tree), which this edition sets whole, like an illustration, never across two pages.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>note/@target points at the anchor where this edition places the note; the note itself stays where it was printed.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>@prev/@next link blocks this edition runs together into one paragraph; they stay separate elements as printed.</p><p>list/@rend: the numbering this edition gives a list (a Typst numbering pattern, e.g. 'a)'); item/@n on its first item: the number it starts from.</p><p>list[@rend='diagram']: a diagram printed as a list (a genealogy set as a tree), which this edition sets whole, like an illustration, never across two pages.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-30" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-01" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -111,7 +111,8 @@
          <change>
             <date>2004-10</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
-      </revisionDesc>
+      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected to the 1609 print (archive.org bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0, scan page = printed page + 16), each read on the page image.</change>
+</revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
       <front>
@@ -1187,7 +1188,7 @@ promised</hi> to <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</r
 on the other side it be said, <hi>N. I do take
 thee,</hi> and not, <hi>I will take thee;</hi> by these
 <choice><orig>termes</orig><reg resp="#auto" type="spelling">terms</reg></choice>, the <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> at that very instant
-is begun,<note n="*" place="margin">Non de facto, de <supplied reason="illegible" cert="high" resp="#auto">i<!-- de iure, glossed 'in regard of right' --><gap reason="illegible" extent="1 letter">
+is begun, <seg type="transcription" change="#tcp-corrections">though<!-- not in the transcription; p. 21 (scan 37): 'is begun, though* not in regard of fact' --></seg><note n="*" place="margin">Non de facto, de <supplied reason="illegible" cert="high" resp="#auto">i<!-- de iure, glossed 'in regard of right' --><gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
                      </gap></supplied>ure.</note> not in regard of fact,
 yet in regard of right and <choice><orig>intrest</orig><reg resp="#auto" type="spelling">interest</reg></choice>, which
@@ -1650,10 +1651,10 @@ breach of another <choice><orig>expresse</orig><reg resp="#auto" type="spelling"
 <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</reg></choice> afterward by God
 <choice><orig>himselfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>, <choice><orig><choice><orig>Leuit</orig><reg resp="#auto" type="spelling">Levit</reg></choice>.</orig><reg resp="#editor" type="reference">Lev</reg></choice> 18<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 11. To this purpose
 saith <hi>Augustine</hi> in way of <choice><orig>answere</orig><reg resp="#auto" type="spelling">answer</reg></choice> to the
-example propounded.<note place="margin">De ciuit.</note> 
+example propounded.<anchor xml:id="rn1" change="#review"/><note place="margin" ana="#print-only" change="#review">De ciuit.</note> 
                   <hi>The practise of
 those first times,</hi>
-                  <note place="margin">Dei. lib. 1<supplied reason="illegible" cert="low" resp="#auto">5<!-- Augustine, De Civ. Dei lib. 15 cap. 16 (digit uncertain) --><gap reason="illegible" extent="1 letter">
+                  <note place="margin" target="#rn1" change="#review"><choice><orig>Dei</orig><reg resp="#editor" type="emendation">De ciuit. Dei</reg></choice>. lib. 1<supplied reason="illegible" cert="high" resp="#auto">5<!-- Augustine, De Civ. Dei lib. 15 cap. 16; margin read on the page image (p. 34) --><gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
                      </gap></supplied>. ca. 16.</note> 
                   <hi>then backed by <choice><orig>vrgent</orig><reg resp="#auto" type="spelling">urgent</reg></choice> <choice><orig>ne<g ref="char:EOLhyphen"/>nessitie</orig><reg resp="#auto" type="spelling">necessity</reg></choice>;
@@ -3857,15 +3858,15 @@ wedlock, because he denies to remain in that
 estate, in regard of religion. Therefore <choice><orig>hee</orig><reg resp="#auto" type="spelling">he</reg></choice>
 <choice><orig>breakes</orig><reg resp="#auto" type="spelling">breaks</reg></choice> the <choice><orig>couenant</orig><reg resp="#auto" type="spelling">covenant</reg></choice> of <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice>, and the o<g ref="char:EOLhyphen"/>ther
 is not bound in this case to <choice><orig>keepe</orig><reg resp="#auto" type="spelling">keep</reg></choice> touch
-with him.</hi>
-                  <note place="margin">Libr. 4. dist. 39.</note> <choice><orig>the</orig><reg resp="#editor" type="case">The</reg></choice> master of the
-<choice><orig>sentences</orig><reg resp="#editor" type="case">Sentences</reg></choice>, saith, <hi>That the <choice><orig>beleeuing</orig><reg resp="#auto" type="spelling">believing</reg></choice> <choice><orig>partie</orig><reg resp="#auto" type="spelling">party</reg></choice>
+with him. <seg type="transcription" change="#tcp-corrections">Lombard,<!-- not in the transcription; p. 103 (scan 127): 'with him. Lombard, the master of the sentences', in italic --></seg></hi>
+                  <note place="margin" target="#rn2" change="#review">Libr. 4. dist. 39.</note> the master of the
+<choice><orig>sentences</orig><reg resp="#editor" type="case">Sentences</reg></choice>,<anchor xml:id="rn2" change="#review"/> saith, <hi>That the <choice><orig>beleeuing</orig><reg resp="#auto" type="spelling">believing</reg></choice> <choice><orig>partie</orig><reg resp="#auto" type="spelling">party</reg></choice>
 in this case, is not bound to follow the <choice><orig>vn<g ref="char:EOLhyphen"/>beleeuer</orig><reg resp="#auto" type="spelling">unbeliever</reg></choice>
 when <choice><orig>hee</orig><reg resp="#auto" type="spelling">he</reg></choice> departeth, but while <choice><orig>hee</orig><reg resp="#auto" type="spelling">he</reg></choice>
 <choice><orig>liues</orig><reg resp="#auto" type="spelling">lives</reg></choice> may <choice><orig>marrie</orig><reg resp="#auto" type="spelling">marry</reg></choice> another.</hi>
-                  <note place="margin">Lib. de Fi<g ref="char:EOLhyphen"/>de &amp; ope<g ref="char:EOLhyphen"/>rib. cap. <choice><orig>1<supplied reason="illegible" cert="high" resp="#editor">6<!-- filled in by the editor from the page image --><gap reason="illegible" extent="1 letter">
+                  <note place="margin" target="#rn3" change="#review">Lib. de Fi<g ref="char:EOLhyphen"/>de &amp; ope<g ref="char:EOLhyphen"/>rib. cap. <choice><orig>1<supplied reason="illegible" cert="high" resp="#editor">6<!-- filled in by the editor from the page image --><gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
-                     </gap></supplied></orig><reg resp="#editor" type="spelling">16</reg><reg resp="#auto" type="spelling">1•</reg></choice>.</note> Augustine <hi>af<g ref="char:EOLhyphen"/>firmeth,
+                     </gap></supplied></orig><reg resp="#editor" type="spelling">16</reg><reg resp="#auto" type="spelling">1•</reg></choice>.</note> Augustine<anchor xml:id="rn3" change="#review"/> <hi>af<g ref="char:EOLhyphen"/>firmeth,
 that <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> the wife which is <choice><orig>ioyned</orig><reg resp="#auto" type="spelling">joined</reg></choice>
 to her husband in <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> <choice><orig>societie</orig><reg resp="#auto" type="spelling">society</reg></choice>, if <choice><orig>shee</orig><reg resp="#auto" type="spelling">she</reg></choice> will
 not abide with her Christian husband, be<g ref="char:EOLhyphen"/>cause
@@ -4151,10 +4152,10 @@ are in the flesh, that is, in the estate of
 <choice><orig>Matrimonie</orig><reg resp="#auto" type="spelling">Matrimony</reg></choice>, <hi>cannot please God.</hi> Yea and
 after that <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> was condemned by
 them, some began to detest and hate
-women,<note place="margin">Sozomen. lib. 3. cap. 16.</note> as <hi>Ephraim</hi> the Syrian,<note place="margin">Sess. 8. Ca<g ref="char:EOLhyphen"/>non. 9. 10.</note> of <choice><abbr>who<g ref="char:cmbAbbrStroke">̄</g></abbr><expan>whom</expan></choice>
+women,<note place="margin">Sozomen. lib. 3. cap. 16.</note> as <hi>Ephraim</hi> the Syrian,<note place="margin" target="#rn4" change="#review">Sess. 8. Ca<g ref="char:EOLhyphen"/>non. 9. 10.</note> of <choice><abbr>who<g ref="char:cmbAbbrStroke">̄</g></abbr><expan>whom</expan></choice>
 <choice><orig>Ecclesiasticall</orig><reg resp="#auto" type="spelling">Ecclesiastical</reg></choice> stories make mention.
 And the <choice><orig>Councell</orig><reg resp="#auto" type="spelling">Council</reg></choice> of Trent is of the
-same <choice><orig>iudgement</orig><reg resp="#auto" type="spelling">judgement</reg></choice>. For whereas it oppo<g ref="char:EOLhyphen"/>seth
+same <choice><orig>iudgement</orig><reg resp="#auto" type="spelling">judgement</reg></choice>.<anchor xml:id="rn4" change="#review"/> For whereas it oppo<g ref="char:EOLhyphen"/>seth
 <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> and <choice><orig>chastitie</orig><reg resp="#auto" type="spelling">chastity</reg></choice>; it plainly de<g ref="char:EOLhyphen"/>termineth
 that in <choice><orig>mariage</orig><reg resp="#auto" type="spelling">marriage</reg></choice> there is no
 <choice><orig>chastitie</orig><reg resp="#auto" type="spelling">chastity</reg></choice>.</p>
@@ -5131,7 +5132,7 @@ the <choice><orig>Parents</orig><reg resp="#auto" type="spelling">parents</reg><
 outward blessings. Yet where they all
 <choice><orig>concurre</orig><reg resp="#auto" type="spelling">concur</reg></choice>, the <choice><orig>partie</orig><reg resp="#auto" type="spelling">party</reg></choice> so qualified is the
 more thankfully to be entertained. <choice><orig>Vp<g ref="char:EOLhyphen"/>on</orig><reg resp="#auto" type="spelling">Upon</reg></choice>
-these grounds the Priest <choice><orig>of</orig><reg resp="#editor" type="emendation">or</reg></choice> Prince
+these grounds the Priest <seg type="transcription" change="#tcp-corrections">or<!-- the transcription has 'of'; p. 144 (scan 168): 'the Priest or Prince of Midian' --></seg> Prince
 of Midian, <choice><orig>gaue</orig><reg resp="#auto" type="spelling">gave</reg></choice> his daughter <hi>Zipporah</hi>
 to <hi>Moses,</hi> and <hi>Moses</hi> agreed to take her,
 Exod<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>19. <hi>A man of Egypt <choice><orig>deliuered</orig><reg resp="#auto" type="spelling">delivered</reg></choice> <choice><orig>vs</orig><reg resp="#auto" type="spelling">us</reg></choice>

@@ -12,11 +12,13 @@
 | emendation | 186 |
 | italic | 128 |
 | spelling | 71 |
-| case | 35 |
+| case | 34 |
 | gap | 9 |
 | expansion | 9 |
 | split | 8 |
 | grammar | 7 |
+| note moved | 4 |
+| note | 1 |
 | skipped | 1 |
 | merge | 1 |
 | list | 1 |
@@ -103,6 +105,7 @@
 - [chapter-04.typ] Matth . → Matt
 - [chapter-04.typ] Genes . → Gen
 - [chapter-04.typ] Matth . → Matt
+- [chapter-05.typ note] Dei → De ciuit. Dei
 - [chapter-05.typ note] Chap . → Chapter
 - [chapter-05.typ] Levit . → Lev
 - [chapter-05.typ] Genes . → Gen
@@ -203,7 +206,6 @@
 - [chapter-13.typ] 6 → 
 - [chapter-13.typ] 3 → 
 - [chapter-13.typ] 26 → 2
-- [chapter-13.typ] of → or
 - [chapter-13.typ] Josu . → Josh
 - [chapter-14.typ note] parfactis → parentum factis
 - [chapter-14.typ] Colos . → Col
@@ -915,7 +917,6 @@
 - proper → Proper
 - sentences → Sentences
 - service → Service
-- the → The
 
 ## spelling
 

@@ -26,7 +26,7 @@ GAP_FIXES = {
     15: ("praesenti", "medium", "canon-law formula: in verbis de praesenti"),
     16: ("i", "high", "de iure, glossed 'in regard of right'"),
     17: ("u", "high", "lawfull"),
-    19: ("5", "low", "Augustine, De Civ. Dei lib. 15 cap. 16 (digit uncertain)"),
+    19: ("5", "high", "Augustine, De Civ. Dei lib. 15 cap. 16; margin read on the page image (p. 34)"),
     20: ("a", "high", "in stead"),
     21: ("o", "high", "blood"),
     22: ("o", "high", "Epistol."),
