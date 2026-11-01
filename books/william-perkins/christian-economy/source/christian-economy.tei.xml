@@ -111,7 +111,7 @@
          <change>
             <date>2004-10</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
-      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected to the 1609 print (archive.org bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0, scan page = printed page + 16), each read on the page image.</change>
+      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected to the 1609 print (archive.org bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0, scan page = printed page + 16 to + 24), each read on the page image.</change>
 </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
@@ -989,7 +989,7 @@ with her hands.</p>
 
 <pb n="15" facs="tcp:2719:18"/>
 of men without exception, <choice><orig>euen</orig><reg resp="#auto" type="spelling">even</reg></choice> to
-those that <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> the gift of <choice><orig>contimencie</orig><reg resp="#auto" type="spelling">continency</reg></choice>;
+those that <choice><orig>haue</orig><reg resp="#auto" type="spelling">have</reg></choice> the gift of <seg type="transcription" change="#tcp-corrections"><choice><orig>continencie</orig><reg resp="#auto" type="spelling">continency</reg></choice><!-- the transcription has 'contimencie'; p. 15 (scan 31): 'the gift of continencie' --></seg>;
 but for them which cannot <choice><orig>abstaine</orig><reg resp="#auto" type="spelling">abstain</reg></choice>, it
 <supplied reason="illegible" cert="high" resp="#auto">i<!-- it is --><gap reason="illegible" extent="1 letter">
                      <desc>•</desc>
@@ -2069,7 +2069,7 @@ is, the one to the other. <choice><orig>Ezech.</orig><reg resp="#editor" type="r
 one to the other. <choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, <hi>Moses</hi> <choice><orig>him<g ref="char:EOLhyphen"/>selfe</orig><reg resp="#auto" type="spelling">himself</reg></choice>
 there <choice><orig>alledgeth</orig><reg resp="#auto" type="spelling">allegeth</reg></choice> two reasons against
 <hi><choice><orig>Polygamie</orig><reg resp="#auto" type="spelling">Polygamy</reg></choice>:</hi> the one is, because the man
-is to <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>, cherish and comfort <choice><orig>this</orig><reg resp="#editor" type="spelling">his</reg></choice> wife;
+is to <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>, cherish and comfort <seg type="transcription" change="#tcp-corrections">his<!-- the transcription has 'this'; p. 46 (scan 64): 'cherish and comfort his wife' --></seg> wife;
 whereas, if he should take <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> him an<g ref="char:EOLhyphen"/>other
 besides her, he should greatly vex
 his first <choice><orig>lawfull</orig><reg resp="#auto" type="spelling">lawful</reg></choice> wife. The other, because
@@ -4458,7 +4458,7 @@ Hind, and pleasant wild goat: let her breasts
 <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice> thee at all times, and delight in her
 <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice> continually. <hi ana="#print-only" change="#review"><choice><orig>Cantic.</orig><reg resp="#editor" type="reference">Song</reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1. Let him <choice><orig>kisse</orig><reg resp="#auto" type="spelling">kiss</reg></choice>
 me with the kisses of his mouth, for thy <choice><orig>loue</orig><reg resp="#auto" type="spelling">love</reg></choice>
-is better <choice><orig>them</orig><reg resp="#editor" type="emendation">than</reg></choice> wine. <hi ana="#print-only" change="#review">Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 26<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8. So after he
+is better <seg type="transcription" change="#tcp-corrections"><choice><orig>then</orig><reg resp="#editor" type="spelling">than</reg></choice><!-- the transcription has 'them'; p. 122 (scan 146): 'is better then wine' --></seg> wine. <hi ana="#print-only" change="#review">Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 26<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8. So after he
 had <choice><orig>bin</orig><reg resp="#auto" type="spelling">been</reg></choice> there a long time, <hi><choice><orig>Abimelek</orig><reg resp="#auto" type="spelling">Abimelech</reg></choice></hi> King
 of the <choice><orig>Philistims</orig><reg resp="#auto" type="spelling">Philistines</reg></choice>, looked out at a window,
 and <choice><orig>loe</orig><reg resp="#auto" type="spelling">lo</reg></choice>, <choice><orig>hee</orig><reg resp="#auto" type="spelling">he</reg></choice> saw <hi><choice><orig>Isaak</orig><reg resp="#auto" type="spelling">Isaac</reg></choice></hi> sporting with <hi>Re<g ref="char:EOLhyphen"/>bekah</hi>
@@ -5543,7 +5543,7 @@ or bond-<choice><orig>seruants</orig><reg resp="#auto" type="spelling">servants<
                <p>A free-<choice><orig>seruant</orig><reg resp="#auto" type="spelling">servant</reg></choice> is he, whom his ma<g ref="char:EOLhyphen"/>ster
 hireth for wages to do him <choice><orig>seruice</orig><reg resp="#auto" type="spelling">service</reg></choice>.
 To him belongs the <choice><orig>iust</orig><reg resp="#auto" type="spelling">just</reg></choice> <choice><orig>paiment</orig><reg resp="#auto" type="spelling">payment</reg></choice> of his
-hire, and in case of offence, <choice><orig>them</orig><reg resp="#editor" type="spelling">the</reg></choice> master
+hire, and in case of offence, <seg type="transcription" change="#tcp-corrections">the<!-- the transcription has 'them'; p. 157 (scan 181): 'in case of offence, the master' --></seg> master
 hath <choice><orig>authoritie</orig><reg resp="#auto" type="spelling">authority</reg></choice> to censure and correct
 him, <choice><orig>prouided</orig><reg resp="#auto" type="spelling">provided</reg></choice> that in the execution
 thereof, respect <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> had <choice><orig>vnto</orig><reg resp="#auto" type="spelling">unto</reg></choice> his age,
@@ -5666,7 +5666,7 @@ whom he bought for <choice><orig>siluer</orig><reg resp="#auto" type="spelling">
 <choice><orig>Euerie</orig><reg resp="#auto" type="spelling">Every</reg></choice> manchild of eight <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice> old among
 you, <choice><orig>shal</orig><reg resp="#auto" type="spelling">shall</reg></choice> be circumcised in your generations,
 as well he that is borne in thine house, as he
-that is <choice><orig>bough</orig><reg resp="#editor" type="spelling">bought</reg></choice> with money of any stranger,
+that is <seg type="transcription" change="#tcp-corrections">bought<!-- the transcription has 'bough'; p. 161 (scan 185): 'he that is bought with money' --></seg> with money of any stranger,
 which is not of thy seed. <hi ana="#print-only" change="#review">Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 24<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>35. The
 Lord hath blessed my master Abraham <choice><abbr>wo<g ref="char:cmbAbbrStroke">̄</g><g ref="char:EOLhyphen"/>derfully</abbr><expan>wonderfully</expan></choice>—<choice><orig>
 </orig><reg resp="#editor" type="spacing"/></choice>for he hath <choice><orig>giuen</orig><reg resp="#auto" type="spelling">given</reg></choice> him sheep and

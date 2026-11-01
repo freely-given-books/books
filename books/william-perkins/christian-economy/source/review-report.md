@@ -9,9 +9,9 @@
 | --- | --- |
 | punctuation | 628 |
 | spacing | 338 |
-| emendation | 186 |
+| emendation | 185 |
 | italic | 128 |
-| spelling | 71 |
+| spelling | 69 |
 | case | 34 |
 | gap | 9 |
 | expansion | 9 |
@@ -177,7 +177,6 @@
 - [chapter-10.typ] Matth . → Matt
 - [chapter-10.typ] Ephes . → Eph
 - [chapter-10.typ] Cantic . → Song
-- [chapter-10.typ] them → than
 - [chapter-10.typ] Esay → Isa
 - [chapter-10.typ] 7 → 5
 - [chapter-11.typ] Ephes . → Eph
@@ -920,7 +919,7 @@
 
 ## spelling
 
-- then → than (×9)
+- then → than (×10)
 - vail → veil (×4)
 - chap → ch (×3)
 - Anna → Hannah (×2)
@@ -954,7 +953,6 @@
 - Vashi → Vashti
 - advise → advice
 - bitterns → bitterness
-- bough → bought
 - brother → brothers
 - cal → call
 - daughter → daughter.
@@ -968,7 +966,5 @@
 - sauorem → fauorem
 - sundrie → sundry
 - the → thee
-- them → the
-- this → his
 - way → may
 
