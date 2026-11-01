@@ -4,7 +4,7 @@
 # 1. headings in title case (the edition's style)
 # 2. American spelling (the editor, 2026-11-01), the pairs the edition used before (CCEL's
 #    American text, ready 2026-10-30) where the 1886 print spells the British way
-# 3. the 1886 printer's misprints, read on the page images
+# 3. the 1886 printer's misprints, read on the page images; English money and old words (AMERICAN)
 # 4. dashes spaced, the edition's style (editorial.py DASH = " — "), where the print closes them up
 # Scripture references are restyled after this by colophon's refstyle.py.
 import re, sys
@@ -33,6 +33,7 @@ SPELLING = {
     "fulfil": "fulfill", "fulfils": "fulfills", "fulfilment": "fulfillment", "fulness": "fullness",
     "sceptre": "scepter", "sepulchre": "sepulcher", "centre": "center", "theatre": "theater",
     "almanack": "almanac", "axe": "ax", "towards": "toward", "upwards": "upward",
+    "plough": "plow", "spilt": "spilled", "draught": "draft",
     "afterwards": "afterward", "downwards": "downward", "cheque": "check", "grey": "gray",
 }
 
@@ -46,8 +47,25 @@ PHRASES = {"their evils ways": "their evil ways", "when be yielded": "when he yi
            "better that merely": "better than merely"}
 
 
+# English money and terms, and words now out of use, in American words (the editor, 2026-11-01:
+# "half crown to money again, barristers back to lawyers, trow"); hymns and Scripture untouched
+AMERICAN = {"With his half-crown in his hand": "With his money in his hand",
+            "the barrister’s object": "the lawyer’s object",
+            "I trow not": "I think not",
+            "speak well of you for sixpence": "speak well of you for a penny",
+            "half a farthing in the pound": "half a cent on the dollar",
+            "owes him a thousand pounds; another owes him fifty pounds":
+                "owes him a thousand dollars; another owes him fifty dollars",
+            "So, mayhap, while": "So, perhaps, while",
+            "Ay, even Sodom": "Yes, even Sodom",
+            "O sirs, the only": "O friends, the only",
+            "to be got over": "to be gotten over",
+            "that ere I actually": "that before I actually", "dishonored, ere the": "dishonored, before the",
+            "that ere long": "that before long", "necessary ere a soul": "necessary before a soul"}
+
+
 def respell(text):
-    for a, b in PHRASES.items():
+    for a, b in list(PHRASES.items()) + list(AMERICAN.items()):
         text = text.replace(a, b)
     def one(m):
         w = m.group(0)

@@ -83,11 +83,19 @@ reg decision, then `refstyle.py`):
   the like, the pairs the edition used before;
 - the printer's misprints corrected (sarpe → spare, godness → goodness,
   "their evils ways", "when be yielded", "better that merely" …);
+- English money and words now out of use in American words (the editor,
+  2026-11-01): half-crown → money, barrister → lawyer, sixpence → a penny,
+  "half a farthing in the pound" → "half a cent on the dollar", pounds →
+  dollars, "I trow not" → "I think not", mayhap → perhaps, "Ay" → "Yes",
+  "O sirs" → "O friends", ere → before, "got over" → "gotten over",
+  plough → plow, spilt → spilled, draught → draft (`AMERICAN` in
+  `modernize.py`; hymns and Scripture are left as they are);
 - headings in title case; dashes spaced (the edition's style);
 - Scripture references in the edition's style ("Romans viii. 33" →
   "Rom 8:33").
 
-Not modernized: the 1886 wording ("I trow not", "O sirs", "sixpence"),
+Not modernized: the rest of the 1886 wording ("yea", "nay", "the
+Sabbath", "Holy Ghost", "limpet", "port wine"; Scripture and hymns as quoted),
 lower-case pronouns for God as printed, hyphenated compounds ("to-day",
 "week-days").
 
