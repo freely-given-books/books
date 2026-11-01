@@ -410,6 +410,8 @@ def main(out_path):
                     cur = ["verse", list(idxs), []]; blocks.append(cur)
             elif cur and cur[0] == "quote" and not spaced and g["indent"] < 0.8 and (ital >= 0.5 or g["small"] < 0.9):
                 cur[1] += idxs
+            elif cur and cur[0] == "quote" and not spaced and toks[cur[1][-1]]["t"][-1:].isalnum():
+                cur[1] += idxs                           # the display's sentence runs on to a short last line
             elif opened and display_like:
                 cur = ["quote", list(idxs), []]; blocks.append(cur)
             elif cur is None or cur[0] != "p" or g["indent"] > 0.8 or spaced:

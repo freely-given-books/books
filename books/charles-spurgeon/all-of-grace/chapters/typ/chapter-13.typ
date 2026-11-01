@@ -12,9 +12,7 @@ But, then, the fourteenth and fifteenth verses speak to us upon this wise:
 
 The eighteenth verse repeats the same delightful doctrine in the broadest terms:
 
-#quote[“#emph[He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of]]
-
-God.”
+#quote[“#emph[He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God].”]
 
 It is clear to every reader that these two statements must agree, since they came from the same lips, and are recorded on the same inspired page. Why should we make a difficulty where there can be none? If one statement assures us of the necessity to salvation of a something, which only God can give, and if another assures us that the Lord will save us upon our believing in Jesus, then we may safely conclude that the Lord will give to those who believe all that is declared to be necessary to salvation. The Lord does, in fact, produce the new birth in all who believe in Jesus; and their believing is the surest evidence that they are born again.
 
