@@ -56,7 +56,7 @@ ready = { date = "2026-10-30", commit = "53fe358" }
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
 
 ["william-perkins/christian-economy"]
-ready = { date = "2026-10-30", commit = "53fe358" }
+ready = { date = "2026-11-01", commit = "b1d1c26" }
 
 ["thomas-boston/the-crook-in-the-lot"]
 ready = { date = "2026-10-28", commit = "3319eb9" }
