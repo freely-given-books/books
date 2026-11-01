@@ -2,154 +2,87 @@
 
 ## Please check
 
-- chapter-20.typ: the three centred appeals are centred in CCEL (p[@rend='center']), so the TEI sets them centred in print and ebook.
+- chapter-20.typ: the three centred appeals are centred in the print (p[@rend='center']), so the TEI sets them centred in print and ebook.
 
 | kind | count |
 | --- | --- |
-| case | 75 |
-| spelling | 57 |
-| merge | 19 |
-| punctuation | 17 |
-| quotation | 14 |
-| spacing | 11 |
-| emendation | 8 |
-| italic | 5 |
-| split | 4 |
-
-## split
-
-- [chapter-08.typ] paragraph → 1 split(s) at "
-- [chapter-09.typ] quotation → 2 split(s) at The, It, There
-- [chapter-16.typ] paragraph → 2 split(s) at ", "
-- [chapter-19.typ] paragraph → 1 split(s) at "
+| spacing | 127 |
+| spelling | 85 |
+| emendation | 24 |
+| punctuation | 7 |
 
 ## emendation
 
-- [chapter-01.typ] he → be
-- [chapter-06.typ] if → it
+- [chapter-02.typ] half - crown → money
+- [chapter-03.typ] barrister’s → lawyer’s
+- [chapter-03.typ] sirs → friends
+- [chapter-03.typ] trow → think
+- [chapter-03.typ] pounds → dollars
+- [chapter-03.typ] pounds → dollars
+- [chapter-03.typ] Ay → Yes
+- [chapter-04.typ] viii → 8
+- [chapter-04.typ] sixpence → a penny
+- [chapter-05.typ] iii → 3
+- [chapter-06.typ] xxxvi → 36
 - [chapter-07.typ] Ephesians → Eph
-- [chapter-07.typ] of → of it
-- [chapter-08.typ] is → in
-- [chapter-08.typ] of → 
-- [chapter-11.typ] l → I
-- [chapter-13.typ] YE MUST BE BORN AGAIN → “Ye must be born again
+- [chapter-07.typ] ii → 2
+- [chapter-10.typ] xvi → 16
+- [chapter-11.typ] . v . → 5:
+- [chapter-12.typ] mayhap → perhaps
+- [chapter-14.typ] v → 5
+- [chapter-15.typ] v → 5
+- [chapter-16.typ] be → he
+- [chapter-17.typ] . i . → 1:
+- [chapter-19.typ] . i . → 1:
+- [chapter-19.typ] farthing → cent
+- [chapter-19.typ] in → on
+- [chapter-19.typ] pound → dollar
 
 ## punctuation
 
-- [chapter-03.typ] " → ”
-- [chapter-05.typ] - → –
-- [chapter-05.typ] " → 
-- [chapter-05.typ] " → 
-- [chapter-06.typ] . → 
-- [chapter-07.typ] " → 
-- [chapter-07.typ] " → 
-- [chapter-08.typ] , → ,”
-- [chapter-09.typ] . → ?
-- [chapter-11.typ] , → .
-- [chapter-16.typ] " → 
-- [chapter-16.typ] " → 
-- [chapter-17.typ] . → 
-- [chapter-18.typ] , → , “
-- [chapter-19.typ] . → 
-- [chapter-19.typ] " → 
-- [chapter-19.typ] " → 
-
-## case
-
-- IS → is (×3)
-- FAITH → faith (×2)
-- THE → the (×2)
-- THIS → this (×2)
-- TO → To (×2)
-- A → a
-- AFTER → After
-- ANXIOUS → anxious
-- ARE → are
-- BY → By
-- CAN → can
-- CLEAR → clear
-- CONTINUALLY → Continually
-- DARK → dark
-- Do → do
-- FEAR → fear
-- Forgiveness → forgiveness
-- GRACE → grace
-- HAVE → have
-- HE → He
-- HEARD → heard
-- HEART → heart
-- HOPE → hope
-- HOW → How
-- IF → If
-- IN → In
-- IT → It
-- IT → it
-- MAKE → make
-- MATTER → matter
-- MESSAGE → message
-- MY → my
-- NOTICE → notice
-- NOW → now
-- OBTAIN → obtain
-- Of → of
-- PLACE → place
-- READER → reader
-- RETURN → return
-- SAVED → saved
-- SEEN → seen
-- SELECTED → selected
-- SPOKE → spoke
-- STORY → story
-- Sins → sins
-- Sir → sir
-- THE → The
-- THING → thing
-- THINK → think
-- THIS → This
-- TO → to
-- Thy → thy
-- UNGODLY → ungodly
-- WANT → want
-- WE → We
-- WE → we
-- WELL → well
-- WHAT → What
-- WHO → who
-- WHY → Why
-- WONDERFUL → wonderful
-- YE → ye
-- YOU → you
-- You → you
-- all → All
-- grace → Grace
-- his → His
-- meet → Meet
-- now → Now
+- [chapter-04.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-15.typ] . → :
 
 ## spelling
 
-- Saviour → Savior (×29)
+- Saviour → Savior (×28)
+- towards → toward (×10)
+- ere → before (×4)
+- marvellous → marvelous (×3)
 - offence → offense (×3)
-- Endeavour → Endeavor (×2)
-- Romans → Rom (×2)
-- marvellous → marvelous (×2)
-- Ay → Aye
-- Come → Come,
-- Ezekiel → Ezek
-- Micah → Mic
-- No → Nor
+- spilt → spilled (×3)
+- traveller → traveler (×3)
+- fulfil → fulfill (×2)
+- labelled → labeled (×2)
+- marvelled → marveled (×2)
+- Romans → Rom
+- Saviourship → Saviorship
 - Saviour’s → Savior’s
+- Spirt → Spirit
+- almanack → almanac
 - axe → ax
+- checque → check
 - counsellor → counselor
-- everasting → everlasting
+- draught → draft
+- evils → evil
 - fulfilment → fulfillment
-- mutrition → nutrition
+- fulness → fullness
+- godness → goodness
+- got → gotten
 - offences → offenses
+- parcelled → parceled
 - plough → plow
 - pretence → pretense
-- quell’d → quell’d,
-- sir → sir,
-- wordly → worldly
-- you → you,
-- ‘Twas → ’Twas
+- sarpe → spare
+- scarely → scarcely
+- sceptre → scepter
+- sepulchre → sepulcher
+- that → than
+- trangression → transgression
+- upwards → upward
 
