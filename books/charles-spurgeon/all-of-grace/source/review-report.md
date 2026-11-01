@@ -6,15 +6,16 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 12 |
-| emendation | 10 |
-| punctuation | 6 |
-| spelling | 1 |
+| spacing | 137 |
+| spelling | 73 |
+| emendation | 11 |
+| punctuation | 7 |
 
 ## emendation
 
 - [chapter-04.typ] viii → 8
 - [chapter-05.typ] iii → 3
+- [chapter-06.typ] xxxvi → 36
 - [chapter-07.typ] Ephesians → Eph
 - [chapter-07.typ] ii → 2
 - [chapter-10.typ] xvi → 16
@@ -28,6 +29,7 @@
 
 - [chapter-04.typ] . → :
 - [chapter-05.typ] . → :
+- [chapter-06.typ] . → :
 - [chapter-07.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-14.typ] . → :
@@ -35,5 +37,32 @@
 
 ## spelling
 
+- Saviour → Savior (×28)
+- towards → toward (×10)
+- marvellous → marvelous (×3)
+- offence → offense (×3)
+- traveller → traveler (×3)
+- fulfil → fulfill (×2)
+- labelled → labeled (×2)
+- marvelled → marveled (×2)
 - Romans → Rom
+- Saviourship → Saviorship
+- Saviour’s → Savior’s
+- Spirt → Spirit
+- almanack → almanac
+- axe → ax
+- checque → check
+- counsellor → counselor
+- fulfilment → fulfillment
+- fulness → fullness
+- godness → goodness
+- offences → offenses
+- parcelled → parceled
+- pretence → pretense
+- sarpe → spare
+- scarely → scarcely
+- sceptre → scepter
+- sepulchre → sepulcher
+- trangression → transgression
+- upwards → upward
 

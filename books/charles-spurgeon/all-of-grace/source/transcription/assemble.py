@@ -12,7 +12,7 @@ from statistics import median
 
 W = Path(__file__).parent
 X = Path.home() / "temp_codex/books/charles-spurgeon/all-of-grace/source/ocr-witnesses/spurgeon-all-of-grace-1886"
-CCEL = Path.home() / "Projects/fgbooks/books/books/charles-spurgeon/all-of-grace/source/grace.thml.xml"
+CCEL = Path.home() / "Projects/fgbooks/books/books/charles-spurgeon/all-of-grace/source/grace.ccel.witness.xml"
 OFFSET = 6                                     # printed page = scan page - 6
 sys.path.insert(0, str(W))
 from foundation import key, is_head, TOK, pages_from_export, ccel_text
@@ -285,15 +285,21 @@ def raw_lines():
 def main(out_path):
     geo = geometry()
     RAW = raw_lines()
-    glm = (X / "glm/full-text.txt").read_text()
-    HY = hyphens([glm, ccel_text()])
+    # a word broken at a line end: a hyphen where CCEL hyphenates it, or where the joined form
+    # is no word but both halves are ("Book-reading"); else joined ("commendation"). GLM is
+    # no guide: it keeps the print's line-end hyphens.
+    HY = hyphens([ccel_text()])
+    vocab = set(w.strip().lower() for w in open("/usr/share/dict/cracklib-small"))
+    vocab |= set(w.lower() for w in re.findall(r"[^\W\d_]+", ccel_text()))
+    known = lambda w: w in vocab or re.sub(r"(s|es|ed|d|ing|ly|'s)$", "", w) in vocab
     toks = []
     for t in T:
-        if t["t"] in ("T", "P") and t["p"] == 62: pass
         s = t["t"]
-        if "­" in s:
-            a, b = s.split("­", 1)
-            s = f"{a}-{b}" if f"{a}-{b}".lower() in HY else a + b
+        if "\u00ad" in s:
+            a, b = s.split("\u00ad", 1)
+            whole = (a + b).lower()
+            hy = f"{a}-{b}".lower() in HY or (not known(whole) and known(a.lower()) and known(b.lower()))
+            s = f"{a}-{b}" if hy else a + b
         toks.append(dict(t, t=s))
     mark_italics(toks, geo)
     toks = small_caps(toks)

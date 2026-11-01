@@ -13,7 +13,7 @@ from pathlib import Path
 
 W = Path(__file__).parent
 X = Path.home() / "temp_codex/books/charles-spurgeon/all-of-grace/source/ocr-witnesses/spurgeon-all-of-grace-1886"
-CCEL = Path.home() / "Projects/fgbooks/books/books/charles-spurgeon/all-of-grace/source/grace.thml.xml"
+CCEL = Path.home() / "Projects/fgbooks/books/books/charles-spurgeon/all-of-grace/source/grace.ccel.witness.xml"
 FIRST, LAST = 9, 134
 
 DASHES = "—–―"
@@ -158,6 +158,7 @@ def main():
         if cur and i1 < cur[1]: cur[1] = max(cur[1], hi)
         else: cur = [i1, hi]; groups.append(cur)
     decisions = json.loads((W / "decisions.json").read_text()) if (W / "decisions.json").exists() else {}
+    decisions.setdefault("__post__", [])
     out_tokens, rows, i = [], [], 0
     for g1, g2 in groups:
         out_tokens += [dict(t=K[j][0], p=K[j][1], l=K[j][2]) for j in range(i, g1)]
@@ -226,6 +227,16 @@ def main():
                              decided=ident in decisions))
         i = g2
     out_tokens += [dict(t=K[j][0], p=K[j][1], l=K[j][2]) for j in range(i, len(K))]
+    for page, old, new in decisions.get("__post__", []):
+        old, new = old.split(), new.split()
+        hits = [i for i in range(len(out_tokens) - len(old) + 1)
+                if out_tokens[i]["p"] == page
+                and [x["t"].replace("\u00ad", "") for x in out_tokens[i:i + len(old)]] == old]
+        if len(hits) != 1: sys.exit(f"post fix p{page} {old}: found {len(hits)} times")
+        i = hits[0]
+        pos = [(x["p"], x["l"]) for x in out_tokens[i:i + len(old)]]
+        out_tokens[i:i + len(old)] = [dict(t=w, p=pos[min(n, len(pos) - 1)][0], l=pos[min(n, len(pos) - 1)][1],
+                                           voted="post") for n, w in enumerate(new)]
     (W / "foundation.json").write_text(json.dumps(out_tokens))
     (W / "votes.json").write_text(json.dumps(rows, indent=1))
     c = Counter(r["verdict"] for r in rows)

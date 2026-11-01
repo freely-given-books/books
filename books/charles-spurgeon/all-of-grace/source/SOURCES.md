@@ -30,7 +30,11 @@ folder outside the repository):
    "vour", "carth", "seck"; quotation marks Kraken missed; running heads
    inside a line; 21 words it split or ran together). The 16 places with
    no majority were read on the page image (`decide.py`, `decisions.json`).
-   Every replacement was reviewed by eye.
+   Every replacement was reviewed by eye. A word sweep against a word list
+   and CCEL's vocabulary (`wordsweep.py`) then found what every OCR got
+   wrong the same way, fixed after the vote (`POST` in `decide.py`): words
+   run together ("doneit", "itis", "isyet spacefor"), "jusf" (a blot after
+   "just"), "th t" (the a lost in printing).
 3. **Layout from the print** (`assemble.py`): Tesseract's line boxes give
    the paragraph indents and the small type of quoted verse (set line by
    line, 18 quotations); the chapters are the 20 pages that open with a
@@ -49,12 +53,27 @@ folder outside the repository):
 
 The title page is transcribed by hand (its epigraph is in black letter).
 
-## Modernizing
+The 1886 printer's own misprints stay in the transcription as printed
+("sarpe", "godness", "scarely", "trangression", "Spirt", "checque"; each
+read on the page image) and are corrected in the reg layer.
 
-The reg layer keeps the 1886 wording and spelling (British forms such as
-"Saviour", "honour", "labelled", as the press's other modern texts do);
-Scripture references are set in the edition's style (`refstyle.py`:
-"Romans viii. 33" → "Rom 8:33", the orig layer keeps them as printed).
+## Modernizing (the reg layer)
+
+The orig layer is the 1886 print. The reg layer (`transcription/modernize.py`,
+applied to a fresh extraction, then `./fgb sync` records each change as a
+reg decision, then `refstyle.py`):
+
+- American spelling (the editor, 2026-11-01): Saviour → Savior, offence →
+  offense, marvellous → marvelous, towards → toward, fulfil → fulfill and
+  the like, the pairs the edition used before;
+- the printer's misprints corrected (sarpe → spare, godness → goodness …);
+- headings in title case; dashes spaced (the edition's style);
+- Scripture references in the edition's style ("Romans viii. 33" →
+  "Rom 8:33").
+
+Not modernized: the 1886 wording ("I trow not", "O sirs", "sixpence"),
+lower-case pronouns for God as printed, hyphenated compounds ("to-day",
+"week-days").
 
 ## Witnesses
 
