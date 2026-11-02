@@ -28,9 +28,9 @@ Thirdly, These things being premised, to clear the truth in this point, I desire
 
 #emph[Secondly], Is not the end of sundry typical sacrifices to make an atonement with God on their behalf for whom they were sacrifices? Exod 29:33, 36; 30:10, 15, 16; Lev 6:7; Num 16:46, and very many other places; — and whether this were to turn away the wrath of God, or to reconcile men to him?
 
-#emph[Thirdly], Is not the death of Christ a proper sacrifice? Eph 5:2; Heb 9:26, 28; John 1:29; the antitype of all sacrifices, in which they have their accomplishment? And did it not really effect what they carnally and typically figured? Heb 9:11–14, etc., x. 1–7, etc. And was it not offered to God?
+#emph[Thirdly], Is not the death of Christ a proper sacrifice? Eph 5:2; Heb 9:26, 28; John 1:29; the antitype of all sacrifices, in which they have their accomplishment? And did it not really effect what they carnally and typically figured? Heb 9:11–14, etc.; 10:1–7, etc. And was it not offered to God?
 
-#emph[Fourthly], Was not Jesus Christ a priest for his people, in their behalf to deal with God, Heb 2:17, vv. 1, 2, vii. 26–28; as well as a prophet, to deal with them in the behalf of God? and whether the acts of his priestly office do not all of them immediately tend towards God for the procuring good things for those in whose behalf he is a priest?
+#emph[Fourthly], Was not Jesus Christ a priest for his people, in their behalf to deal with God, Heb 2:17; 5:1, 2; 7:26–28; as well as a prophet, to deal with them in the behalf of God? and whether the acts of his priestly office do not all of them immediately tend towards God for the procuring good things for those in whose behalf he is a priest?
 
 #emph[Fifthly], Whether Christ by his intercession doth appear before God to declare the love of God to his? or whether it be to procure farther fruits of love for his? Rom 8:34; Heb 7:25; 9:24.
 
