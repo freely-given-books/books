@@ -78,4 +78,11 @@ His <hi>Wisdome,</hi> in that he turned that which had an apparent shew of great
       <p n="1">I. The first liking is sometimes on the parents or other friends part, and then by them made knowne to the partie to be maried, as the friends of <hi>Rebeca,</hi> liking the offer of <hi>Isaak</hi> <note place="margin"><hi>Gen.</hi> 24. 58.</note> which was made by <hi>Abrahams</hi> seruant, made it knowne to <hi>Rebeca</hi> her selfe. Sometimes againe the first liking is on the <rest/></p>
     </div>
   </fill>
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread, corrected to the 1622 print
+    (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622,
+    the copy the TCP was made from), each read on the page image.</desc>
+    <fix pb="61" before="To this purpoſe" tcp="faith" print="ſaith" after="the Apoſtle"
+         evidence="p. 61 (scan n86): 'To this purpoſe ſaith the Apoſtle', long s as in purpoſe (GPT review Q004)"/>
+  </corrections>
 </supplement>

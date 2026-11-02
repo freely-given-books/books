@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | punctuation | 4447 |
-| spacing | 2724 |
+| spacing | 2723 |
 | italic | 2673 |
 | spelling | 1830 |
-| emendation | 1334 |
+| emendation | 1335 |
 | note moved | 811 |
 | grammar | 147 |
 | case | 146 |
@@ -14,7 +14,7 @@
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
-| note | 12 |
+| note | 13 |
 | split | 10 |
 | epigraph | 2 |
 
@@ -872,7 +872,8 @@
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Joh . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Christs → . Christ’s
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Ephes . → Eph
-- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Christs → . Christ’s
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Treat . 3 . § . → 
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] 6 Christs → Christ’s
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Joh . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Job . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Ezec . → Ezek
