@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1032 |
-| emendation | 724 |
+| spacing | 1033 |
+| emendation | 725 |
 | punctuation | 221 |
 | spelling | 55 |
 | case | 2 |
@@ -275,6 +275,7 @@
 - [part-1.typ] Matth . xi . → Matt 11:
 - [part-1.typ] . iii . → 3:
 - [part-1.typ] Philip . iv . → Phil 4:
+- [part-1.typ] it → 
 - [part-1.typ] Psal . xxviii . → Ps 28:
 - [part-1.typ] . ii . → 2:
 - [part-1.typ] . xv . → 15:
