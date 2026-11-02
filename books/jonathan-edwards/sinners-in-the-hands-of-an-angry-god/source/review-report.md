@@ -7,15 +7,15 @@
 
 | kind | count |
 | --- | --- |
-| case | 1161 |
+| case | 1160 |
 | emendation | 351 |
 | punctuation | 158 |
-| spelling | 111 |
+| spelling | 110 |
 | italic | 75 |
 | spacing | 63 |
 | split | 18 |
 | grammar | 11 |
-| merge | 11 |
+| merge | 10 |
 | gap | 5 |
 | list | 4 |
 | note moved | 1 |
@@ -28,7 +28,7 @@
 - [sermon.typ] paragraph → 1 split(s) at 3
 - [sermon.typ] paragraph → 1 split(s) at 4
 - [sermon.typ] paragraph → 1 split(s) at 1
-- [sermon.typ] paragraph → 1 split(s) at What
+- [sermon.typ] paragraph → 1 split(s) at 2
 - [sermon.typ] paragraph → 1 split(s) at 3
 - [sermon.typ] paragraph → 1 split(s) at 4
 - [sermon.typ] paragraph → 1 split(s) at 5
@@ -102,7 +102,6 @@
 - [sermon.typ] that → who
 - [sermon.typ] Worm , → worm
 - [sermon.typ] 'tis → it is
-- [sermon.typ] 2 . → 
 - [sermon.typ] Justice , → justice
 - [sermon.typ] Cut → "Therefore cut
 - [sermon.typ] cumbreth → should
@@ -232,6 +231,7 @@
 - [sermon.typ] as → like
 - [sermon.typ] Whoso → whoever
 - [sermon.typ] to Anger , sinneth against → forfeits
+- [sermon.typ] Soul → life
 - [sermon.typ] extream Torments , → extreme torments
 - [sermon.typ] Potentates , → potentates
 - [sermon.typ] wh•m → when
@@ -609,10 +609,10 @@
 - Mercy → mercy (×8)
 - Persons → persons (×8)
 - Pleasure → pleasure (×8)
-- Soul → soul (×8)
 - State → state (×8)
 - Fury → fury (×7)
 - Reason → reason (×7)
+- Soul → soul (×7)
 - Strength → strength (×7)
 - Things → things (×7)
 - Anger → anger (×6)
@@ -1059,7 +1059,6 @@
 - sits → sit
 - spue → spew
 - stop'd → stopped
-- sudden → suddenly
 - suffer'd → suffered
 - their's → theirs
 - them → those
