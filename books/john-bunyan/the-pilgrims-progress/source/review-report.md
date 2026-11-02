@@ -3,9 +3,9 @@
 | kind | count |
 | --- | --- |
 | punctuation | 394 |
-| emendation | 100 |
+| emendation | 102 |
 | spacing | 94 |
-| spelling | 64 |
+| spelling | 66 |
 | case | 39 |
 | merge | 2 |
 | split | 1 |
@@ -17,6 +17,7 @@
 ## emendation
 
 - [apology.typ] in → in a
+- [apology.typ] But → Be
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-01.typ] Tit . → Titus
@@ -43,6 +44,7 @@
 - [part-1/stage-06.typ] . 4 → 5
 - [part-1/stage-06.typ] Psa . → Ps
 - [part-1/stage-07.typ] ‘ Tis → ’Tis
+- [part-1/stage-07.typ] from → for
 - [part-1/stage-07.typ] Numb . → Num
 - [part-1/stage-07.typ] Psa . → Ps
 - [part-1/stage-07.typ] Psa . → Ps
@@ -584,6 +586,7 @@
 - of’ → of
 - pilgrims → pilgrims’
 - pilgrim’s → pilgrims
+- save → saved
 - scouged → scourged
 - scull → skull
 - shew → show
@@ -591,6 +594,7 @@
 - straight → strait
 - sufferet → suffered
 - sure → sure,
+- them → then
 - thought → thought,
 - understand → understand:
 - weather → weather;
