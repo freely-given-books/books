@@ -1,0 +1,256 @@
+# The 1688 wording put back into the edition's text
+
+- `call-to-the-ministry.typ` …Christs sake I also calling all [these | those] fools or knaves that have thus… : “those” → “these”
+- `call-to-the-ministry.typ` …Congregation I have also at some [time | times] even when I have begun to… : “times” → “time”
+- `call-to-the-ministry.typ` …Earth or Hell that can say [that | ] I have at any time in… : “” → “that”
+- `call-to-the-ministry.typ` …O these words He that converteth [a | the] Sinner from the error of his… : “the” → “a”
+- `call-to-the-ministry.typ` …a more ordinary and publick Preaching [ | of] the Word not only to and… : “of” → “”
+- `call-to-the-ministry.typ` …and Child of God Blessed are [you | ye] said the Lord Jesus when men… : “ye” → “you”
+- `call-to-the-ministry.typ` …and to fasten it upon the [Conscience | consciences] of others that I could not… : “consciences” → “conscience”
+- `call-to-the-ministry.typ` …any goodness in me more than [in | ] any other but God has been… : “” → “in”
+- `call-to-the-ministry.typ` …be saved by Christ with strong [breathings | breathing] after a truly sanctified Soul that… : “breathing” → “breathings”
+- `call-to-the-ministry.typ` …but because I found my Spirit [did lean | leaned] most after awakening and converting Work… : “leaned” → “did lean”
+- `call-to-the-ministry.typ` …did no good then I did [ | the] most of all and at other… : “the” → “”
+- `call-to-the-ministry.typ` …even amongst those People that were [furthest | farthest] off of profession yet not becaus… : “farthest” → “furthest”
+- `call-to-the-ministry.typ` …from the error of his way [doth | shall] save a Soul from death Jam… : “shall” → “doth”
+- `call-to-the-ministry.typ` …maketh me glad but the same [that | which] is made sorry by me Cor… : “which” → “that”
+- `call-to-the-ministry.typ` …me Though I speak with the [Tongue | tongues] of Men and Angels and have… : “tongues” → “tongue”
+- `call-to-the-ministry.typ` …much sweet refreshment The blessing of [them | him] that were ready to perish is… : “him” → “them”
+- `call-to-the-ministry.typ` …my work for God I have [ | also] been also incouraged from several other… : “also” → “”
+- `call-to-the-ministry.typ` …not say I have not been [affected | infected] with this yet truly the Lord… : “infected” → “affected”
+- `call-to-the-ministry.typ` …one sign of a Saint and [ | a] Child of God Blessed are you… : “a” → “”
+- `call-to-the-ministry.typ` …raged most there hath been Souls [awakened | awaked] by the Word I could instance… : “awaked” → “awakened”
+- `call-to-the-ministry.typ` …refreshment The blessing of them that [were | was] ready to perish is come upon… : “was” → “were”
+- `call-to-the-ministry.typ` …shall say all manner of evil [of | against] you fasly for my sake rejoice… : “against” → “of”
+- `call-to-the-ministry.typ` …should not be able to speak [a | the] word at all to edification nay… : “the” → “a”
+- `call-to-the-ministry.typ` …the Ministry of the Saints that [you | ye] submit your selves unto such and… : “ye” → “you”
+- `call-to-the-ministry.typ` …time of the Exercise Again When [at | as] sometimes I have been about to… : “as” → “at”
+- `call-to-the-ministry.typ` …to Preach upon some smart and [searching | scorching] portion of the Word I have… : “scorching” → “searching”
+- `call-to-the-ministry.typ` …to offer the Gospel to those [that | who] had not yet received the Faith… : “who” → “that”
+- `call-to-the-ministry.typ` …to perish is come upon me [yea | and] I caused the Widows heart to… : “and” → “yea”
+- `call-to-the-ministry.typ` …unto you for the Seal of [my | mine] Apostleship are ye in the Lord… : “mine” → “my”
+- `call-to-the-ministry.typ` …without it O these words He [that | which] converteth a Sinner from the error… : “which” → “that”
+- `call-to-the-ministry.typ` …work for God I have been [also | ] incouraged from several other Scriptures and… : “” → “also”
+- `conclusion.typ` …Girdle from me and removeth the [Foundation | foundations] from under me O I have… : “foundations” → “foundation”
+- `conclusion.typ` …I could not conceive the least [dram | drachm] of Refreshment tho’ I have look't… : “drachm” → “dram”
+- `conclusion.typ` …his Gospel is the worst and [ | the] worst to be borne when this… : “the” → “”
+- `conclusion.typ` …look't it all over Of all [fears | tears] they are best that are made… : “tears” → “fears”
+- `imprisonment.typ` …I am not fit for banishment [further | farther] if I conclude that banishment is… : “farther” → “further”
+- `imprisonment.typ` …I found my self a man [and compassed | encompassed] with Infirmities the parting with my… : “encompassed” → “and compassed”
+- `imprisonment.typ` …I have seen a truth in [that | this] Scripture Whom having not seen yet… : “this” → “that”
+- `imprisonment.typ` …Name I was no sooner fixed [upon | with] this Resolution but that word dropt… : “with” → “upon”
+- `imprisonment.typ` …Satan laid hard at me to [bear | beat] me out of heart by suggesting… : “beat” → “bear”
+- `imprisonment.typ` …Saying Cor was of great use [unto | to] me But we had the sentence… : “to” → “unto”
+- `imprisonment.typ` …So being again delivered up to [the Goalers | a gaoler’s] hands I was had home to… : “a gaoler’s” → “the gaolers’”
+- `imprisonment.typ` …The Lord said Verily it shall [go | be] well with thy Remnant verily I… : “be” → “go”
+- `imprisonment.typ` …also the Pillory Again if I [ | only] provide only for these then I… : “only” → “”
+- `imprisonment.typ` …as the pulling the Flesh from [my | the] Bones and that not only because… : “the” → “my”
+- `imprisonment.typ` …banished and exiled condition how they [are | were] exposed to Hunger to Cold to… : “were” → “are”
+- `imprisonment.typ` …death in our selves that we [might | should] not trust in our selves but… : “should” → “might”
+- `imprisonment.typ` …do it And now I thought [of | on] those two Milch Kine that were… : “on” → “of”
+- `imprisonment.typ` …four Scriptures also have been great [refreshment | refreshments] in this condition to me … : “refreshments” → “refreshment”
+- `imprisonment.typ` …had this lay much upon my [Spirit | spirits] That my Imprisonment might end at… : “spirits” → “spirit”
+- `imprisonment.typ` …in our selves but in God [that | which] raiseth the dead By this Scripture… : “which” → “that”
+- `imprisonment.typ` …my self as dead to them [ | He that loveth father or mother son or daughter more than me i… : “‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt 10:37).” → “”
+- `imprisonment.typ` …of my Profession be exposed to [hath | has] lain pinching on my Mind When… : “has” → “hath”
+- `imprisonment.typ` …of the hardship I thought my [ | poor] blind one might go under would… : “poor” → “”
+- `imprisonment.typ` …out of the spoils won in [Battel | battles] have I dedicated to maintain the… : “battles” → “battle”
+- `imprisonment.typ` …sooner fixed upon this Resolution but [that | this] word dropt upon me Doth Job… : “this” → “that”
+- `imprisonment.typ` …sure if left at Gods feet [whilst | while] I stood to and for his… : “while” → “whilst”
+- `imprisonment.typ` …the Indictment did Sentence me to [ | a] perpetual banishment because I refused to… : “a” → “”
+- `imprisonment.typ` …the Lord Satan and my own [Corruptions | corruption] by all which glory be to… : “corruption” → “corruptions”
+- `imprisonment.typ` …the Pillory Again if I provide [only | ] for these then I am not… : “” → “only”
+- `imprisonment.typ` …the first was the consideration of [those | these] two Scriptures Leave thy Fatherless Chi… : “these” → “those”
+- `imprisonment.typ` …the things that are not seen [they | ] are eternal And thus I reasoned… : “” → “they”
+- `imprisonment.typ` …to God I will tell you [of | ] a pretty business I was once… : “” → “of”
+- `imprisonment.typ` …to see what God will suffer [these | those] men to do with me In… : “those” → “these”
+- `imprisonment.typ` …years waiting to see what God [will | would] suffer these men to do with… : “would” → “will”
+- `imprisonment.typ` …yet God as being very tender [of | to] me hath not suffered me to… : “to” → “of”
+- `imprisonment.typ` …yet love in whom though now [you | ye] see him not yet believing yet… : “ye” → “you”
+- `imprisonment.typ` …you see him not yet believing [yet rejoyce | ye rejoice] with ioy unspeakable and full of… : “ye rejoice” → “yet rejoice”
+- `preface.typ` …Night and commune with your own [Hearts Psal | heart Ps] Yea look diligently and leave no… : “own heart (” → “own hearts (”
+- `preface.typ` …Soul is cast down within me [but | therefore will] I will remember thee from the… : “therefore will” → “but”
+- `preface.typ` …a night to be much observed [to | unto] the Lord for bringing them out… : “unto” → “to”
+- `preface.typ` …be merciful to you and grant [ | that] you be not slothful to go… : “that” → “”
+- `preface.typ` …cast down within me but I [will | ] remember thee from the Land of… : “” → “will”
+- `preface.typ` …dear Children The Milk and Honey [is | are] beyond this Wilderness God be merciful… : “are” → “is”
+- `preface.typ` …how you sighed under every Hedge [of | for] Mercy Have you never an Hill… : “for” → “of”
+- `preface.typ` …is great Refreshment to me for [you | ye] are my Glory and Joy Thes… : “ye” → “you”
+- `preface.typ` …like where God did visit your [Souls | soul] Remember also the Word the Word… : “soul” → “souls”
+- `preface.typ` …may perceive my Castings down and [Risings | raisings] up for he woundeth and his… : “raisings” → “risings”
+- `preface.typ` …of Israel in their Generations Exod [ | O] My God saith David Psal My… : “O” → “”
+- `preface.typ` …of perishing for ever They bring [fresh | afresh] into my Mind the Remembrance of… : “afresh” → “fresh”
+- `preface.typ` …so now from the Lions Dens [and | ] from the Mountains of the Leopards… : “” → “and”
+- `preface.typ` …that when tried for his Life [Act even | Acts ever] to open before his Judges the… : “), ever to open” → “), even to open”
+- `relation.typ` …' tis a question whether he [hath | has] or no it may be he… : “has” → “hath”
+- `relation.typ` …And truly one time I was [ | a] going to say so indeed but… : “was a-going to say” → “was going to say”
+- `relation.typ` …Christ Jesus as crucified and dying [sixteen hundred | ] years ago did not satisfie Divine… : “1600 years” → “sixteen hundred years”
+- `relation.typ` …Conscience For you know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …Conscience for you know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …Devil and deliver those who through [the | ] fear of death were all their… : “” → “the”
+- `relation.typ` …Divine Justice for the sins of [his | the] people That Christ’s Flesh and Blood… : “the” → “his”
+- `relation.typ` …God thought I If I were [once | one] of this race my Soul must… : “one” → “once”
+- `relation.typ` …God willing before I proceed any [further | farther] give you in a word or… : “farther” → “further”
+- `relation.typ` …He told me also that in [ | a] little time I should see all… : “a” → “”
+- `relation.typ` …Heb Let us therefore come boldly [to | unto] the throne of Grace that we… : “unto” → “to”
+- `relation.typ` …Hebrews For you know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …I did desire deliverance That Scripture [ | did] also did tear and rend my… : “did” → “”
+- `relation.typ` …I feared I had no ground [nor | or] right to own and even to… : “or” → “nor”
+- `relation.typ` …I have seen some read in [these | those] books that concerned Christian Piety it… : “those” → “these”
+- `relation.typ` …I thought that the glory of [those | these] words was then so weighty on… : “these” → “those”
+- `relation.typ` …I was afraid to let this [ | sight and] sense and sight go quite off… : “sight and” → “”
+- `relation.typ` …I was but as those that [jostle | justle] against the Rocks more broken scattered… : “justle” → “jostle”
+- `relation.typ` …I was made to see both [ | again and] again and again that day that… : “again, and” → “”
+- `relation.typ` …I would have given a thousand [pound | pounds] for a tear I could not… : “pounds” → “pound”
+- `relation.typ` …It was true which was done [unto him of | by] the Angel Act Then I began… : “by” → “unto him of”
+- `relation.typ` …Jesus the Mediator of the New [Testament | covenant] and to the blood of sprinkling… : “covenant” → “Testament”
+- `relation.typ` …LOVE still So as I was [ | a] going home these words came again… : “was a-going home” → “was going home”
+- `relation.typ` …Now did those blessed places that [speak | spake] of God’s keeping his people shine… : “spake” → “speak”
+- `relation.typ` …Oh none knows the terrors of [these | those] days but my self After this… : “those” → “these”
+- `relation.typ` …Sentence I was as if I [ | had] heard it thus expounded to me… : “had” → “”
+- `relation.typ` …Sermon was ended with a great [burthen on | burden upon] my spirit This for that instant… : “burden upon” → “burden on”
+- `relation.typ` …Soul to perish under the everlasting [weight | weights] of Hell or sin as mine… : “weights” → “weight”
+- `relation.typ` …To us a Child is born [to | unto] us a Son is given and… : “unto” → “to”
+- `relation.typ` …Word and Law of Grace shall [fail | fall] or be removed This I saw… : “fall” → “fail”
+- `relation.typ` …Word of God The Tempter also [would | ] much assault me with this How… : “” → “would”
+- `relation.typ` …You are come to Mount Sion [to | and unto] the City of the living God… : “and unto” → “to”
+- `relation.typ` …a more narrow search of the [Scripture | Scriptures] and was through their light and… : “Scriptures” → “Scripture”
+- `relation.typ` …about the dealings of God with [their Souls | the soul] from all which I still received… : “the soul” → “their souls”
+- `relation.typ` …acquaint me that a cloud and [ | a] storm was coming down upon me… : “a” → “”
+- `relation.typ` …act had not God been merciful [to | unto] me I might by my desperateness… : “unto” → “to”
+- `relation.typ` …after this The Words are these [You | Ye] are come to Mount Sion to… : “Ye” → “You”
+- `relation.typ` …and dirt There is no peace [ | saith my God] to the wicked saith my God… : “peace, saith my God, to the wicked” → “peace to the wicked, saith my God”
+- `relation.typ` …and power thereof This Scripture also [did | ] seem to me to trample upon… : “” → “did”
+- `relation.typ` …any thing that then I cried [to | unto] God to make known and reveal… : “unto” → “to”
+- `relation.typ` …at Bedford was thus in a [kind of | dream or] Vision presented to me I saw… : “dream or” → “kind of”
+- `relation.typ` …be forgiven neither in this World [nor | neither] in that which is to come… : “neither” → “nor”
+- `relation.typ` …before my Soul was full of [longings | longing] after God now it began to… : “longing” → “longings”
+- `relation.typ` …began to praise to commend and [ | to] speak well of me both to… : “to” → “”
+- `relation.typ` …being saved For it is neither [in | of] him that willeth nor in him… : “of” → “in”
+- `relation.typ` …beware of my negligence by the [afflictions | affliction] that for this thing I did… : “affliction” → “afflictions”
+- `relation.typ` …blessed but as for you Depart [you are | from me all ye] workers of Iniquity Gen Luke When… : “from me, all ye” → “you are”
+- `relation.typ` …blessed considerations and Scriptures with many [other | others] of like nature were in th… : “others” → “other”
+- `relation.typ` …born which are written in Heaven [ | and] to God the Judge of all… : “and” → “”
+- `relation.typ` …both the High place Priest Clerk [vestments | vestment] Service and what else belonging to… : “vestment” → “vestments”
+- `relation.typ` …brought to my remembrance Cor He [ | of God] is made unto us of God… : “He ‘of God is made unto us wisdom, and righteousness, and sanctification, and redemption’” → “He ‘is made unto us of God, wisdom, righteousness, sanctification, and redemption’”
+- `relation.typ` …but according to his Mercy he [hath | has] saved us amp c Tim Tit… : “has” → “hath”
+- `relation.typ` …can but be damned and if [it | I] must be so I had as… : “I” → “it”
+- `relation.typ` …continually torn and rent by the [thundering | thunderings] of his Justice this made me… : “thunderings” → “thundering”
+- `relation.typ` …days I began to question all [again and by times fell to my old courses | ] again which ma… : “question all again; which” → “question all again; and by times, fell to my old courses again; which”
+- `relation.typ` …did I leave my sports and [play | plays] But quickly after this I fell… : “plays” → “play”
+- `relation.typ` …did desire deliverance That Scripture also [did | ] tear and rend my Soul in… : “” → “did”
+- `relation.typ` …done already was meer folly and [to | ] perswade with him to alter yea… : “” → “to”
+- `relation.typ` …dreams did leave me which I [also | ] soon forgot for my pleasures did… : “” → “also”
+- `relation.typ` …endeavour to keep my interest in [ | the] Life to come clear before mine… : “the” → “”
+- `relation.typ` …even as if she would immediately [have | ] fallen in labour and been delivered… : “” → “have”
+- `relation.typ` …extraordinary yet on me it then [did | ] fasten with conviction that I did… : “” → “did”
+- `relation.typ` …fear of death were all their [life | lifetime] subject to bondage Heb I thought… : “lifetime” → “life”
+- `relation.typ` …find that any of those that [are | were] saved had done as I had… : “were” → “are”
+- `relation.typ` …find that there was any that [ever | ] trusted in the Lord and was… : “” → “ever”
+- `relation.typ` …for as the Quakers did oppose [this | His] Truth so God did the more… : “His” → “This”
+- `relation.typ` …for ever At another time I [remembred | remember] I was again much under this… : “remember” → “remembered”
+- `relation.typ` …force and power thereof This Scripture [ | did] also did seem to me to… : “did” → “”
+- `relation.typ` …forgiveness But Oh how Satan now [did | ] lay about him for to bring… : “” → “did”
+- `relation.typ` …he gaue that I gathered but [further | farther] I could not go for as… : “farther” → “further”
+- `relation.typ` …he hath taken away my blessing [also | ] Gen Secondly Now this being thus… : “blessing’” → “blessing also’”
+- `relation.typ` …heard one preach a Sermon upon [these | those] words in the Song Song Behold… : “those” → “these”
+- `relation.typ` …heighten their sins by several circumstances [ | but alas it was all in vain] I should thi… : “but, alas! it was all in vain” → “”
+- `relation.typ` …help unto me Because I live [you | ye] shall live also Joh But these… : “ye” → “you”
+- `relation.typ` …her cry no more I fell [to sleep | asleep] also So when I waked in… : “asleep” → “to sleep”
+- `relation.typ` …her even as if she would [ | have] immediately have fallen in labour and… : “have” → “”
+- `relation.typ` …him again Satan here is in [these words | this word] no such exception but him that… : “this word” → “these words”
+- `relation.typ` …if this of Grace then I [was | ] quiet but if that of Esau… : “” → “was”
+- `relation.typ` …in this temptation I should find [often | ] my mind suddainly put upon it… : “” → “often”
+- `relation.typ` …indeed I was loosed from my [Afflictions | affliction] and Irons my Temptations also fled… : “affliction” → “afflictions”
+- `relation.typ` …is distinguished by Esau himself he [hath taken | took] away my Birth right that is… : “took” → “hath taken”
+- `relation.typ` …let loose the reins to my [lust | lusts] and delighted in all transgression against… : “lusts” → “lust”
+- `relation.typ` …lot to be found at last [among | amongst] those Devils and hellish Fiends who… : “amongst” → “among”
+- `relation.typ` …make some shift to scrabble and [sprawl | spraul] in the water yet because it… : “spraul” → “sprawl”
+- `relation.typ` …man can say especially when tempted [of | by] the Devil that Jesus Christ is… : “by” → “of”
+- `relation.typ` …many years in sin as I [have | had] done still crying out Oh that… : “had” → “have”
+- `relation.typ` …me For ye know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …me If thou Lord shouldest mark [iniquity | iniquities] O Lord who should stand but… : “iniquities” → “iniquity”
+- `relation.typ` …me Now was I as one [awaked | awakened] out of some troublesome sleep and… : “awakened” → “awaked”
+- `relation.typ` …me suddainly this sentence bolted in [on | upon] me The blood of Christ remits… : “upon” → “on”
+- `relation.typ` …me yea to relate it in [my | mine] own way I thought no man… : “mine” → “my”
+- `relation.typ` …meat sold his Birth right For [you | ye] know how that afterwards when he… : “ye” → “you”
+- `relation.typ` …mind if this of Grace then [ | was] I was quiet but if that… : “was” → “”
+- `relation.typ` …mind to a continual meditating on [them | it] and on all other good things… : “it” → “them”
+- `relation.typ` …my Brother keep that thou hast [to thy self | unto thyself’] Gen Now as touching this That… : “unto thyself’” → “to thyself’”
+- `relation.typ` …my mind He hath made peace [by | through] the blood of his cross Col… : “through” → “by”
+- `relation.typ` …my mind You know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …my mind the God in whose [hand | hands] are all our days and ways… : “hands” → “hand”
+- `relation.typ` …neither in him that willeth nor [in | of] him that runneth but in God… : “of” → “in”
+- `relation.typ` …neither in him that willeth nor [in | of] him that runneth but in God… : “of” → “in”
+- `relation.typ` …none other name under heaven given [amongst | among] men whereby we must be saved… : “among” → “amongst”
+- `relation.typ` …nor in him that runneth but [in | of] God that sheweth mercy By these… : “of” → “in”
+- `relation.typ` …nor in him that runneth but [in | of] God that sheweth mercy Rom With… : “of” → “in”
+- `relation.typ` …not be done but by continuance [ | and] deliberate contrivance which was a great… : “and” → “”
+- `relation.typ` …not every wilful sin but that [sin | ] which doth throw off Christ and… : “” → “sin”
+- `relation.typ` …notwithstanding all that I had enjoyed [ | that] yet I might be deceived and… : “that” → “”
+- `relation.typ` …now express with what longings and [breathings | breakings] in my Soul I cried to… : “breakings” → “breathings”
+- `relation.typ` …obtain forgiveness But Oh how Satan [ | did] now did lay about him for… : “did” → “”
+- `relation.typ` …of a blessed man At the [apprehensions | apprehension] of these things my sickness was… : “apprehension” → “apprehensions”
+- `relation.typ` …of him nor whether there was [such an | ] one or no Thus Man while… : “there was one, or no” → “there was such a one, or no”
+- `relation.typ` …of the Word yet walk in [ | the] ways of sin and that the… : “the” → “”
+- `relation.typ` …old Book had faln into my [hand | hands] the which when I had but… : “hands” → “hand”
+- `relation.typ` …or Resurrection but considered him as [ | a] whole Christ as he in whom… : “a” → “”
+- `relation.typ` …or no it may be he [hath | has] not Yea the interrogatory seemed to… : “has” → “hath”
+- `relation.typ` …or to speak some grievous thing [of | against] God or Christ his Son and… : “against” → “of”
+- `relation.typ` …pass through my heart it did [ | it] in spight of my Teeth wherefore… : “it” → “”
+- `relation.typ` …pure Word of God The Tempter [ | would] also would much assault me with… : “would” → “”
+- `relation.typ` …rejected the Mediator by whom all [prayers | prayer] came with acceptance to God the… : “prayer” → “prayers”
+- `relation.typ` …revive us and the third day [ | he will raise us up and] we shall live in his sight… : “he will raise us up, and” → “”
+- `relation.typ` …right For you know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …right for ye know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …same Jesus that died by the [hand | hands] of the Jews come again at… : “hands” → “hand”
+- `relation.typ` …saw for certain if I had [it | ] not I was sure to perish… : “” → “it”
+- `relation.typ` …sentence For you know how that [afterwards | afterward] when he would have inherited the… : “afterward” → “afterwards”
+- `relation.typ` …shame and astonishment that I had [horridly | horribly] abused the holy Son of God… : “horribly” → “horridly”
+- `relation.typ` …should pray to those To these [also | ] he would also at some times… : “” → “also”
+- `relation.typ` …sin I would then add to [these | those] men’s sins the sins of Manasseh… : “those” → “these”
+- `relation.typ` …sin in Hell fire upon my [spirit | spirits] and should cry Lord let it… : “spirits” → “spirit”
+- `relation.typ` …sixth of John And him that [comes | cometh] to me I will in no… : “cometh” → “comes”
+- `relation.typ` …sooner passed through my heart but [these | the] words began thus to kindle in… : “the” → “these”
+- `relation.typ` …spiritual comfort for to such there [remains | remaineth] no more sacrifice for sin Heb… : “remaineth” → “remains”
+- `relation.typ` …strange dispensation what it was I [know | knew] not or from whence it came… : “knew” → “know”
+- `relation.typ` …sufficient And though it came no [further | farther] it answered my former question to… : “farther” → “further”
+- `relation.typ` …terrible dreams did leave me which [ | also] I also soon forgot for my… : “also” → “”
+- `relation.typ` …that Objection to wit That the [Scriptures | scripture] could not agree in the Salvation… : “scripture” → “scriptures”
+- `relation.typ` …that is there but one sin [amongst | among] so many millions of sins for… : “among” → “amongst”
+- `relation.typ` …that neither heighth nor depth nor [death nor | ] life amp c shall separate us… : “nor depth, nor life” → “nor depth, nor death, nor life”
+- `relation.typ` …that saying would sometimes come to [ | my] mind He hath received gifts for… : “my” → “”
+- `relation.typ` …that sentence in the Hebrews For [you | ye] know how that afterwards when he… : “ye” → “you”
+- `relation.typ` …that would run in my mind [You | Ye] know how that afterwards when he… : “Ye” → “You”
+- `relation.typ` …the City of the living God [to | ] the Heavenly Jerusalem and to an… : “” → “to”
+- `relation.typ` …the Swine was like him that [parteth | parted] with his outward pollutions but still… : “parted” → “parteth”
+- `relation.typ` …the knowledge of the truth there [remains | remaineth] no more sacrifice for sin but… : “remaineth” → “remains”
+- `relation.typ` …them every one Now I should [feel | find] my mind to flee from God… : “find” → “feel”
+- `relation.typ` …them ring but would not go [further | farther] than the Steeple door but then… : “farther” → “further”
+- `relation.typ` …there was not any thing that [ | I] then I cried to God to… : “I” → “”
+- `relation.typ` …these Gates of Brass and cut [the | these] Bars of iron asunder Psal Yet… : “these” → “the”
+- `relation.typ` …these words Simon Simon sounded in [my | mine] ears I thought verily as I… : “mine” → “my”
+- `relation.typ` …thing at the end for the [Scriptures | Scripture] cannot be broken Joh Now began… : “Scripture” → “Scriptures”
+- `relation.typ` …things extraordinary yet on me it [ | did] then did fasten with conviction that… : “did” → “”
+- `relation.typ` …this down before I go any [further | farther] for surely I will not forget… : “farther” → “further”
+- `relation.typ` …thou art assaulted and afflicted with [temptations | temptation] and the hidings of God’s … : “temptation” → “temptations”
+- `relation.typ` …thought that by them I saw [that | ] there was place enough in Heaven… : “” → “that”
+- `relation.typ` …thus in a kind of Vision [presented | represented] to me I saw as if… : “represented” → “presented”
+- `relation.typ` …time that it sounded in mine [ears | ear] but me thinks I hear still… : “ear” → “ears”
+- `relation.typ` …to do for I evidently saw [ | that] unless that the great God of… : “that” → “”
+- `relation.typ` …to say Praise ye the Lord [ | Praise] God in his Sanctuary Praise him… : “‘Praise ye the Lord. Praise God in his sanctuary” → “‘Praise ye the Lord God in his sanctuary”
+- `relation.typ` …to take the Word as God [hath | has] laid it down without restraining the… : “has” → “hath”
+- `relation.typ` …to wash away all theirs hath [ | also] virtue enough in it to do… : “also” → “”
+- `relation.typ` …to what is written Pray that [you | ye] enter not into temptation and truly… : “ye” → “you”
+- `relation.typ` …upon all my desires It is [neither in | not of] him that willeth nor in him… : “not of” → “neither in”
+- `relation.typ` …upon me Without shedding of blood [there | ] is no remission Heb And that… : “” → “there”
+- `relation.typ` …was afraid to let this sense [and sight | ] go quite off my mind for… : “” → “and sight”
+- `relation.typ` …was an exceeding difference betwixt the [notion | notions] of flesh and blood and the… : “notions” → “notion”
+- `relation.typ` …was in this temptation I should [ | often] find often my mind suddainly put… : “often” → “”
+- `relation.typ` …was not any thing that then [I | ] cried to God to make known… : “” → “I”
+- `relation.typ` …when I was but a child [about | but] nine or ten years old did… : “but” → “about”
+- `relation.typ` …wicked are like the troubled sea [which | when it] cannot rest whose waters cast up… : “when it” → “which”
+- `relation.typ` …with me How can you tell [ | that] you are elected And what if… : “that” → “”
+- `relation.typ` …yea now to pray seeing God [hath | has] cast you off is the next… : “has” → “hath”
+- `relation.typ` …years before I was born for [for | ] those who had writ in our… : “born; for those” → “born; for, for those”
+- `relation.typ` …you can find that there was [ | ever] any that ever trusted in the… : “ever” → “”
