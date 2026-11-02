@@ -7,7 +7,7 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2288 |
+| punctuation | 2289 |
 | case | 1762 |
 | spelling | 1688 |
 | emendation | 803 |
@@ -3060,6 +3060,7 @@
 - [chapter9.typ] : → ;
 - [chapter9.typ] , → ;'—
 - [chapter9.typ] , → ,'
+- [chapter9.typ] , → ,’
 - [chapter9.typ] , → 
 - [chapter9.typ] . → .'
 - [chapter9.typ] , → 
@@ -4117,7 +4118,7 @@
 - bretheren → brethren,
 - bundle → 'bundle
 - but → 'but
-- but → but—
+- but → but—‘
 - buy → 'buy
 - capable → capable,
 - cavills → cavils
