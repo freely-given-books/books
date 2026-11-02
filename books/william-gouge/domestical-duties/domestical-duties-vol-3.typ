@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("284": "s-", "289": "ws-", "440": "b", "685": "w", "690": "w", "751": "w",))
+#show: keep-notes.with(("284": "s-", "289": "ws-", "354": "b", "440": "h-", "445": "b", "685": "w", "690": "w", "751": "w",))
 
 #metadata[Children Showing Respect for Parents] <short>
 #include "chapters/typ/vol-3/01-children-showing-respect-for-parents.typ"
