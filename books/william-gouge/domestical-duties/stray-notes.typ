@@ -9,6 +9,7 @@
 //   "ws-" / "ws+"   both
 //   "t-" / "t+"   its letter spacing -/+0.01em
 //   "b"   the heading starts a new page (keyed by the first note after it)
+//   "h-" / "h--" / "h---"   4 / 8 / 12pt less space above the heading
 // Used as  #show: keep-notes.with((("277"): "w", ...))  after book.with.
 
 // the numbers of the footnote marks in a paragraph as laid out: each mark is
@@ -49,7 +50,12 @@
   }
   show heading: it => context {
     let n = str(counter(footnote).get().first() + 1)
-    if fixes.at(n, default: none) == "b" { pagebreak(weak: true) + it } else { it }
+    let k = fixes.at(n, default: none)
+    if k == "b" { pagebreak(weak: true) + it }
+    else if k == "h-" { v(-4pt) + it }
+    else if k == "h--" { v(-8pt) + it }
+    else if k == "h---" { v(-12pt) + it }
+    else { it }
   }
   body
 }

@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("104": "s+", "529": "w", "717": "s++", "719": "w", "733": "b", "734": "s-", "878": "w", "1073": "s--", "1156": "w", "1166": "b", "1237": "b",))
+#show: keep-notes.with(("104": "s+", "224": "b", "529": "w", "717": "s++", "719": "w", "733": "b", "734": "s-", "878": "w", "1073": "s--", "1156": "w", "1166": "b", "1237": "b",))
 
 #metadata[Seeking Marriage] <short>
 #include "chapters/typ/vol-2/01-seeking-marriage.typ"
