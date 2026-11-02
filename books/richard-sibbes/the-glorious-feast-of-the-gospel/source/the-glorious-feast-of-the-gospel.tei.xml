@@ -96,7 +96,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-10-30" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-01" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2007-02</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -5791,7 +5791,7 @@ hath appointed, then it were too <choice><orig>ſhort</orig><reg resp="#auto" ty
 the <choice><orig>enemies</orig><reg resp="#editor" type="spelling">enemy’s</reg></choice> hands, we <choice><orig>ſhould</orig><reg resp="#auto" type="spelling">should</reg></choice> never be out<choice><orig>:</orig><reg resp="#editor" type="punctuation">;</reg></choice> <choice><orig>If</orig><reg resp="#editor" type="case">if</reg></choice> in our
 <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice>, we would never enter<choice><orig>:</orig><reg resp="#editor" type="punctuation">;</reg></choice> <choice><orig>If</orig><reg resp="#editor" type="case">if</reg></choice> in our <choice><orig>friends</orig><reg resp="#editor" type="spelling">friends'</reg></choice>, their
 <choice><orig>good will</orig><reg resp="#editor" type="emendation">goodwill</reg></choice> would be more <choice><orig>then</orig><reg resp="#editor" type="spelling">than</reg></choice> their ability. <hi ana="#print-only" change="#review"><choice><orig>But</orig><reg resp="#editor" type="spelling">'But</reg></choice> my times<choice><orig>,</orig><reg resp="#editor" type="punctuation">;'—</reg></choice></hi><choice><orig>
-</orig><reg resp="#editor" type="spacing"/></choice>he <choice><orig>ſaith</orig><reg resp="#auto" type="spelling">saith</reg></choice> not, <hi ana="#print-only" change="#review"><choice><orig>my</orig><reg resp="#editor" type="spelling">'my</reg></choice> time<choice><orig>,</orig><reg resp="#editor" type="punctuation">,'</reg></choice> <choice><orig>but</orig><reg resp="#editor" type="spelling">but—</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>my times are in thy hands,</hi> that
+</orig><reg resp="#editor" type="spacing"/></choice>he <choice><orig>ſaith</orig><reg resp="#auto" type="spelling">saith</reg></choice> not, <hi ana="#print-only" change="#review"><choice><orig>my</orig><reg resp="#editor" type="spelling">'my</reg></choice> time<choice><orig>,</orig><reg resp="#editor" type="punctuation">,'</reg></choice> <choice><orig>but</orig><reg resp="#editor" type="spelling">but—‘</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>my times are in thy hands<choice><orig>,</orig><reg resp="#editor" type="punctuation">,’</reg></choice></hi> that
 is, my times of trouble<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> and times of waiting. And it is
 well they be in <choice><orig>Gods</orig><reg resp="#editor" type="spelling">God’s</reg></choice> hands, for he hath a <choice><orig>day</orig><reg resp="#editor" type="spelling">day,</reg></choice> and a <choice><orig>cer<g ref="char:EOLhyphen"/>taine</orig><reg resp="#auto" type="spelling">certain</reg></choice>
 day, and a fit day to <choice><orig>anſwer</orig><reg resp="#auto" type="spelling">answer</reg></choice> the waiting of all his
