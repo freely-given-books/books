@@ -37,7 +37,7 @@ The two particular parts of the forenamed end, which are #emph[Cleansing,] and #
 
 #emph[Sanctifying] hath relation to the Spirit of Christ, which worketh our Sanctification.
 
-From this cleansing of the Church here meant, I gather, that #emph[No sin lieth upon the Church:] for #emph[the blood of Christ purgeth] #footnote[Doctr.] #emph[from all sin.] This is to be taken of the guilt of sin, which #footnote[1 John 1:7.] by Christ’s death is clean taken away: so as that sin which is in us, is as not in us, because it is not imputed unto us.
+From this cleansing of the Church here meant, I gather, that #emph[No sin lieth upon the Church:] for #emph[the blood of Christ purgeth]#footnote[1 John 1:7.] #footnote[Doctr.] #emph[from all sin.] This is to be taken of the guilt of sin, which by Christ’s death is clean taken away: so as that sin which is in us, is as not in us, because it is not imputed unto us.
 
 Behold here the blessed estate of the Church, for, #emph[Blessed is] #footnote[Use.] #emph[he whose transgression is forgiven, whose sin is covered. Blessed] #footnote[Ps 32:1, 2.] #emph[is the man unto whom the Lord imputeth not sin.]
 
@@ -45,7 +45,7 @@ Behold here the blessed estate of the Church, for, #emph[Blessed is] #footnote[U
 
 From the sanctifying of the Church here mentioned, I further gather, that
 
-#emph[The Church is made holy and righteous:] This is here meant of #footnote[Doctr.] that inherent righteousness which the Spirit of Christ worketh in all the members of his body. In which respect they are called #emph[Saints:] so as not only the guilt of sin is taken away, #footnote[1 Cor 1:2.] but also the very #emph[body of sin is so destroyed] in them, as it can #footnote[Rom 6:6.] no more reign in them, nor they obey it in the lusts thereof: but in stead of the dominion of sin the spirit of Christ reigneth in them, and leadeth them unto all righteousness.
+#emph[The Church is made holy and righteous:] This is here meant of #footnote[Doctr.] that inherent righteousness which the Spirit of Christ worketh in all the members of his body. In which respect they are called #emph[Saints:]#footnote[1 Cor 1:2.] so as not only the guilt of sin is taken away, but also the very #emph[body of sin is so destroyed] in them,#footnote[Rom 6:6.] as it can no more reign in them, nor they obey it in the lusts thereof: but in stead of the dominion of sin the spirit of Christ reigneth in them, and leadeth them unto all righteousness.
 
 Behold here the free estate of the Church: whereas the #footnote[Use.] world lieth under the slavery of sin, and tyranny of Satan, the Church is #emph[made free from sin, and a servant of righteousness:] #footnote[Rom 6:18, 11.] #emph[dead to sin, and alive to God in Jesus Christ.]
 
@@ -59,7 +59,7 @@ From the Connection of these two benefits of Christ’s death, Justification and
 
 2\. #emph[Quest.] How then are they spotless before God, and #footnote[How the Saints are spotless before God.] blameless before men?
 
-#emph[Answ.] 1. God so fully dischargeth and acquitteth the Church of all her sins, as she is in his account as if she had no speck of sin at all. #emph[David] in this respect useth the metaphor of #emph[covering sin,] and explaineth his meaning by these two #footnote[Ps 32:1, 2.] phrases, #emph[forgiving, not imputing sin.]
+#emph[Answ.] 1. God so fully dischargeth and acquitteth the Church of all her sins, as she is in his account as if she had no speck of sin at all. #emph[David] in this respect useth the metaphor of #emph[covering sin,]#footnote[Ps 32:1, 2.] and explaineth his meaning by these two phrases, #emph[forgiving, not imputing sin.]
 
 2\. The course of a man’s life, not this or that particular #footnote[How the Saints are blameless before men. #emph[Vna hirundo non facit ver.]] action, is it which maketh a man blame-worthy, or blameless: as the flock of swallows, and not one here, or another there, is it which showeth the Spring. Now because the constant carriage of those who are of the Church is before men blameless, they may justly be so accounted, notwithstanding some particular things blame-worthy do sometimes pass from them. Behold here how the true Saints may boldly lift up their faces before God and man. The soundness of their faith causeth confidence before God. The testimony of their conscience causeth courage before men. Let all that desire this boldness, join a sound faith and a good conscience together, and labour for assurance both of their cleansing by the blood of Christ, and sanctifying by the Spirit of Christ.
 
@@ -79,7 +79,7 @@ The grace then of justification is a most free grace: it is not wrought upon any
 
 3\. #emph[Sanctification presupposeth justification:] they who are sanctified #footnote[3\. #emph[Doct.]] may rest upon it, that they are cleansed and justified.
 
-For sanctification is a fruit of justification, in which respect #emph[S. James] saith, that #emph[we are justified by works,] that is, declared so #footnote[Jas 2:24.] to be.
+For sanctification is a fruit of justification, in which respect #emph[S. James] saith, that #emph[we are justified by works,]#footnote[Jas 2:24.] that is, declared so to be.
 
 Admirable is the comfort which the Saints in this world #footnote[Use.] reap hereby. For their sanctification being imperfect, and the flesh abiding in them, and lusting against the Spirit: yea sin being present with them when they would do good, they are oft forced to complain and cry, #emph[O wretched men that we are:] #footnote[Rom 7:24.] #emph[who shall deliver us from this body of death!] If they had no other ground to fasten the anchor of their hope upon but their sanctification, it could not hold them fast enough against the tempests of Satan’s temptations. But in that their sanctification is a fruit and evidence of their justification, they take heart to themselves, and #emph[thank God that with the mind they themselves serve the Law of God, though with the flesh the law of sin.] And thus upheld and comforted, they continue to strive against sin, till it be clean rooted out of them, as well as remitted.
 
@@ -107,7 +107,7 @@ In four especial respects it may be said to be a means as aforesaid.
 
 1\. In that it doth most lively represent and set forth even to the outward senses the inward cleansing of our souls by the blood of Christ, and sanctifying of us by the Spirit of Christ. Apply the use of water (by the washing whereof foul things are made very clean) to the virtue of Christ’s blood and efficacy of his Spirit, and the truth hereof will evidently appear. For the better help in this application, read Romans 6:4 etc.
 
-2\. In that it doth truly propound and make tender, or offer of the grace of justification and sanctification to the party baptized. In this respect it is thus described, #emph[Baptism of repentance] #footnote[Luke 3:3.] #emph[for remission of sins:] and #emph[S. Peter] to like purpose saith, #footnote[Acts 2:38.] #emph[Repent, and be baptized every one of you for the remission of sins.]
+2\. In that it doth truly propound and make tender, or offer of the grace of justification and sanctification to the party baptized. In this respect it is thus described, #emph[Baptism of repentance] #footnote[Luke 3:3.] #emph[for remission of sins:]#footnote[Acts 2:38.] and #emph[S. Peter] to like purpose saith, #emph[Repent, and be baptized every one of you for the remission of sins.]
 
 3\. In that it doth really exhibit and seal up to the conscience of him that is baptized the forenamed graces, whereby he is assured that he is made partaker thereof. Thus #emph[Abraham received the sign of circumcision as a seal of the righteousness of] #footnote[Rom 4:11.] #emph[faith.] Hence is it that the Eunuch and others when they were #footnote[Acts 8:39; 16:34.] #emph[baptized, went away rejoicing.]
 
@@ -119,7 +119,7 @@ In four especial respects it may be said to be a means as aforesaid.
 
 #emph[Answ.] They are only outwardly washed with water, they are not baptized with the Holy Ghost. The fault is not in that no grace accompanieth that Sacrament, but in that they receive not, but reject the grace which appertaineth thereto: #emph[what if some believe not? Shall their unbelief make the faith of] #footnote[Rom 3:3.] #emph[God without effect? God forbid.]
 
-2\. #emph[Object.] Many receive the forenamed graces before they are baptized, as #emph[Abraham] before he was circumcised, and such #footnote[Rom 4:11.] as were baptized after they believed. How then is baptism a means thereof?
+2\. #emph[Object.] Many receive the forenamed graces before they are baptized, as #emph[Abraham] before he was circumcised,#footnote[Rom 4:11.] and such as were baptized after they believed. How then is baptism a means thereof?
 
 #emph[Answ.] Their spiritual cleansing is more lively and fully manifested thereby, and they the more assured thereof.
 

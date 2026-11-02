@@ -77,7 +77,7 @@ Fourthly, their failing in duty is exemplary: it causeth others under them to fa
 
 Fifthly, their reckoning shall be the greater: for of them who have received more, more shall be required.
 
-It were therefore to be wished that superiors and inferiors would strive who should begin first, and who should #footnote[#emph[Vterque suum praeoccupet officium. Chrys. hom.] 26. #emph[in] 1 Cor 11.] perform their own part best, and in this kind strive to excel, as runners in a race strive in running to out-strip one another.
+It were therefore to be wished that superiors and inferiors would strive who should begin first,#footnote[#emph[Vterque suum praeoccupet officium. Chrys. hom.] 26. #emph[in] 1 Cor 11.] and who should perform their own part best, and in this kind strive to excel, as runners in a race strive in running to out-strip one another.
 
 But if question be made who shall begin, I advise inferiors not to stand out in this strife, but to think the Apostle #footnote[Reasons why inferiors ought first to perform their duties.] first inciteth them: and that it is the safest for them to begin: for in this contention inferiors are like to fare the worst, by reason of the power which superiors have over them. And though it be more against our corrupt, proud, and stout nature, to be subject and obey, yet let us so much the more endeavour to yield duty in this kind. For it is an especial part of spiritual prudence, to observe what our corrupt nature is most prone unto, and wherein it most swelleth up, that therein we may most strive to beat it down: nature is contrary to grace, and #emph[the wisdom of the flesh is enmity against God.]#footnote[Rom 8:7.]
 

@@ -140,11 +140,11 @@ These being thus different, one that is more excellent in the one, may be inferi
 
 The other part of that fountain, from whence the duties #footnote[Servants ought to fear their masters.] of servants flow, resteth in the affection: and it is in one word #emph[Fear:] which is an awful dread of a master. An #emph[awe] in regard of his masters place: a #emph[dread] in regard of his masters power. An #emph[awe] is such a reverend esteem of his master, as maketh him #emph[account his master worthy of all honour:] which #emph[S. Paul]#footnote[1 Tim 6:1.] expressly enjoineth servants to do. A #emph[dread] is such a fear of provoking his masters wrath, as maketh him think and cast every way how to please him. This is it which the Apostle here intimateth under these two words, #emph[fear] and #emph[trembling.] In both these respects #emph[S. Peter] commandeth servants to be #emph[subject in all fear.] #footnote[1 Pet 2:18.]
 
-So proper is this #emph[fear] to a servant in relation to his master, as where it is wanting, there is a plain denial of his masters place and power; which God intimateth under this expostulation, #emph[If I be a master, where is my fear?] that is, you plainly #footnote[Mal 1:6.] show that you account me not your master, because in your heart there is no #emph[fear] of me.
+So proper is this #emph[fear] to a servant in relation to his master, as where it is wanting, there is a plain denial of his masters place and power; which God intimateth under this expostulation, #emph[If I be a master, where is my fear?]#footnote[Mal 1:6.] that is, you plainly show that you account me not your master, because in your heart there is no #emph[fear] of me.
 
 This fear will draw servants on, cheerfully to perform all duty: the more it aboundeth, the more desire and endeavour there will be to please, and to give good contentment (and this is a point commanded to servants, #emph[to please well in all things:)] #footnote[Titus 2:9.] yea it will glad the heart of a servant to see his service prosper well: hereof we have a worthy pattern in #emph[Abraham’s] servant, #footnote[Gen 24.] whose care to do his business, as his master would have it, and prayer for God’s assistance therein, and thanks for God’s blessing thereon, showeth an awful respect which he bare to his master.
 
-Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress) and in this respect it may #footnote[Gen 39:8.] prevent many mischiefs which their masters offence and wrath might bring upon them.
+Again, on the other side, this fear will keep men from offending their masters (which was one reason that moved #emph[Joseph] not to yield to his mistress)#footnote[Gen 39:8.] and in this respect it may prevent many mischiefs which their masters offence and wrath might bring upon them.
 
 One especial means to breed and preserve this fear in servants, is, a due consideration of the ground of their masters #footnote[Direction.] place and power: which is God’s appointment: God hath placed them in his stead, and in part given them his power: they are the Deputies and Ministers of God, and therefore in Scripture the title#footnote[אדון Gen 24:9. Κύριος. Eph 6:5.] (#emph[Lord)] is after a peculiar manner given to them. What maketh subjects stand in awe of inferior Magistrates? Is it not because they bear the Kings person, and have authority and power given unto them of the King?
 
@@ -198,7 +198,7 @@ A second caution for servants well ordering their speech is, #footnote[Direction
 
 1\. That servants give reverend titles to their masters.
 
-It was in an honourable respect of their master that the servants of #emph[Naaman,] called him #emph[father.] In Scripture #footnote[§. 4.] one of #footnote[2 Kgs 5:13.] God’s titles is attributed to masters, as #emph[Lord.]
+It was in an honourable respect of their master that the servants of #emph[Naaman,] called him #emph[father.]#footnote[2 Kgs 5:13.] In Scripture #footnote[§. 4.] one of God’s titles is attributed to masters, as #emph[Lord.]
 
 2\. That their words be few, no more then must needs, even when they have occasion to speak: as may be gathered out of the forenamed examples alleged to show when servants might and ought to speak.
 
@@ -210,16 +210,16 @@ It was in an honourable respect of their master that the servants of #emph[Naama
 
 3\. When one of them had lost the head of his hatchet, as if he durst not be so bold as to speak to his master to get it him again, he referreth the thing to his good pleasure, saying, #emph[Alas master it was but borrowed.]
 
-A third caution is, that they observe a fit season to speak to their master: as when he is at leisure to hear them: (thus it is noted of the disciples that when their master was #emph[alone] they propounded their questions unto him) or when his mind is quiet, not #footnote[Mark 4:10.] troubled with passion (thus when #emph[David] observed that #emph[Saul’s] mind was somewhat pacified towards him, by that speech he used, #emph[Is this thy voice my son David,] then he took occasion more freely to speak to him.) #footnote[1 Sam 26:17.]
+A third caution is, that they observe a fit season to speak to their master: as when he is at leisure to hear them: (thus it is noted of the disciples that when their master was #emph[alone] they propounded their questions unto him)#footnote[Mark 4:10.] or when his mind is quiet, not troubled with passion (thus when #emph[David] observed that #emph[Saul’s] mind was somewhat pacified towards him, by that speech he used, #emph[Is this thy voice my son David,] then he took occasion more freely to speak to him.) #footnote[1 Sam 26:17.]
 
 A fourth caution is, that they give a ready and present answer to their master. This is oft commended in #emph[Peter,] that when Christ propounded any question to his disciples, he would presently and #footnote[Matt 16:16. John 6:68.] readily answer.
 
-A fifth caution is, that all their speeches and answers to their master be true, not daring to tell a lie unto them: this argueth a very reverend respect of a master. When #emph[Eli] demanded of #emph[Samuel] what the Lord had said to him, #emph[Samuel told him every whit and hid nothing from him.] And when #emph[David] bid the woman of Tekoah #footnote[1 Sam 3:18. 2 Sam 14:18, 19.] not to hide the thing that he should ask her from him, she told him the whole truth. There is a double bond to tie servants hereunto.
+A fifth caution is, that all their speeches and answers to their master be true, not daring to tell a lie unto them: this argueth a very reverend respect of a master. When #emph[Eli] demanded of #emph[Samuel] what the Lord had said to him, #emph[Samuel told him every whit and hid nothing from him.]#footnote[1 Sam 3:18. 2 Sam 14:18, 19.] And when #emph[David] bid the woman of Tekoah not to hide the thing that he should ask her from him, she told him the whole truth. There is a double bond to tie servants hereunto.
 
 + Their conscience towards God, who is a God of truth.
 + Their respect to their masters with whom they ought to deal faithfully.
 
-Lastly, a servants reverence ought to be manifested by his speech of his master even behind his back: speaking good of him, and no evil: this part of reverence also did #emph[Abraham’s] servant show to his master. Thus shall they show themselves #footnote[Gen 24:35, #emph[etc.]] good, true-hearted, faithful servants, and not parasites.
+Lastly, a servants reverence ought to be manifested by his speech of his master even behind his back: speaking good of him, and no evil: this part of reverence also did #emph[Abraham’s] servant show to his master.#footnote[Gen 24:35, #emph[etc.]] Thus shall they show themselves good, true-hearted, faithful servants, and not parasites.
 
 === §. 7. #emph[Of the vices contrary to a servants reverence in speech.]
 
@@ -239,11 +239,11 @@ Offences contrary to the forenamed #emph[reverence] of servants to their masters
 
 7\. #emph[Muttering] and murmuring upon every occasion of discontent: whereby it cometh to pass that they oft provoke much wrath (for #emph[grievous words stir up anger.)] #footnote[Prov 15:1.]
 
-8\. #emph[Unseasonable interruption] of their master: speaking to him when he is seriously occupied in some weighty business (as they who told Christ of his mother and brethren when he was preaching) or unseasonably speaking unto him while he #footnote[Mark 3:32.] is in passion, whereby they oft bring much mischief upon themselves.
+8\. #emph[Unseasonable interruption] of their master: speaking to him when he is seriously occupied in some weighty business (as they who told Christ of his mother and brethren#footnote[Mark 3:32.] when he was preaching) or unseasonably speaking unto him while he is in passion, whereby they oft bring much mischief upon themselves.
 
 9\. #emph[Answering their master at their own leisure,] suffering him to call, and call again and again. This doth #emph[Job] complain of, saying, #emph[I called my servant and he gave me no answer.] #footnote[Job 19:16.]
 
-10\. #emph[Flapping their master in the mouth with a lie:] like #emph[Gehazi,] who, when he had lewdly fetched money and apparel of #emph[Naaman,] and his master asked him where he had been, said with a fair face, #emph[Thy servant went no whither.] Let the judgment #footnote[2 Kgs 5:25.] executed on him make all servants take heed of the like sin. For #emph[Lying] is in it self an heinous sin: yet so much the more heinous when it is told to one that hath authority over us, and by reason thereof standeth in God’s place.
+10\. #emph[Flapping their master in the mouth with a lie:] like #emph[Gehazi,] who, when he had lewdly fetched money and apparel of #emph[Naaman,] and his master asked him where he had been, said with a fair face, #emph[Thy servant went no whither.]#footnote[2 Kgs 5:25.] Let the judgment executed on him make all servants take heed of the like sin. For #emph[Lying] is in it self an heinous sin: yet so much the more heinous when it is told to one that hath authority over us, and by reason thereof standeth in God’s place.
 
 Lastly, #emph[Evil language of their master behind his back.] This is a sin, though that which is spoken to a masters disgrace be true: for the infirmities of a master ought rather to be covered, then revealed and laid open by a servant. How monstrous a sin is it then, to raise slanderous reports against a master which are untrue? This was #emph[Ziba’s] sin against #emph[Mephibosheth] his master. #footnote[2 Sam 16:3.]
 

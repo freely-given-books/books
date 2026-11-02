@@ -123,7 +123,7 @@ Thus then in three respects the whole person of Christ was given unto us.
 
 3\. In regard of some proper actions appertaining to the Deity. #footnote[Doctr.]
 
-In that the person of Christ God-man was given up, I gather that #footnote[1 Pet 1:19. #emph[Uses.]]
+In that the person of Christ God-man was given up,#footnote[1 Pet 1:19. #emph[Uses.]] I gather that
 
 #emph[The price of our Redemption is of infinite value.] Nor Christ, #footnote[#emph[Quanta se fiducia spes credentium consolatur considerans quantus quanta pro nondum credentibus passus sit? Aug. de Doctr. Chr. l.] 1. #emph[c.] 15.] nor God himself could give a greater. Heaven and earth and all things in them are not of like worth. Well therefore might Saint #emph[Peter] call it #emph[precious blood:] and prefer it before silver, gold, and all other things of price.
 
@@ -209,7 +209,7 @@ The two branches of the former #emph[end,] namely #emph[Cleansing] and #emph[San
 
 The #emph[condition] is presupposed, which is, that she was impure, polluted, in the common estate of corrupt man. Things in themselves pure, are not cleansed, but things foul and impure: persons of themselves freed, and exempted from a common misery, need not anothers help to free and exempt them. Seeing then that the Church stood in need to be cleansed, and sanctified, surely
 
-#emph[The Church in her self was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant born of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.] Oft doth the Apostle, setting forth #footnote[Ezek 16:3. #emph[etc.]] the wretched estate of the world, note of the true members #footnote[Eph 2:3.] of the Church, that #emph[we our selves also were such.]#footnote[Titus 3:3.] #footnote[1 Cor 6:11.]
+#emph[The Church in her self was, as the world, polluted.] Very lively is #footnote[Doctr.] this set forth by the Prophet #emph[Ezekiel] under the similitude of #emph[a] #footnote[The Church in her self polluted.] #emph[wretched infant born of a cursed parentage, whose navel was not cut, who was not washed, salted, nor swaddled, but cast out in the open field, polluted with blood.]#footnote[Ezek 16:3. #emph[etc.]] Oft doth the Apostle, setting forth the wretched estate of the world, note of the true members #footnote[Eph 2:3.] of the Church, that #emph[we our selves also were such.]#footnote[Titus 3:3.] #footnote[1 Cor 6:11.]
 
 The Church consisteth of none other then of such as came out of #emph[Adam’s] loins. Now as all the brood which cometh from vipers, adders, toads, spiders, and other like venomous dams, are infected with poison, so all the sons of #emph[Adam] are polluted with sin. #emph[That which is born of the flesh] (as is every mothers child, not the members of the Church excepted: for they have fathers and mothers of their flesh) #emph[is flesh;] that is, polluted and corrupt. Therefore when we are taken into the Church, we are #emph[born again.] #footnote[John 3:3, 5.]
 

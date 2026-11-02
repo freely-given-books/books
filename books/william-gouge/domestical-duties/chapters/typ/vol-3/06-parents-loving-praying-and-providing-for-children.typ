@@ -104,7 +104,7 @@ Thus doth the Lord extend the reward of righteous parents unto their children to
 
 1\. #emph[Object. The righteousness of the righteous shall be upon himself.]#footnote[Ezek 18:20.]
 
-#emph[Answ.] That is meant rather of a man’s personal righteousness, and grace it self which is not communicated to children, then of the fruit thereof: That faith in Christ, fear of God, obedience to God’s word, or any other personal grace which is in righteous parents, shall not justify or save their children. For #emph[the just shall live by his own faith.] Yet this hindereth #footnote[Hab 2:4.] not but that the benefit and blessing of righteous parents may fall upon their children according to the extent of God’s promise.
+#emph[Answ.] That is meant rather of a man’s personal righteousness, and grace it self which is not communicated to children, then of the fruit thereof: That faith in Christ, fear of God, obedience to God’s word, or any other personal grace which is in righteous parents, shall not justify or save their children. For #emph[the just shall live by his own faith.]#footnote[Hab 2:4.] Yet this hindereth not but that the benefit and blessing of righteous parents may fall upon their children according to the extent of God’s promise.
 
 2\. #emph[Object.] By experience we find it verified, that the children of some righteous parents are cursed: and the Scripture giveth us many examples thereof: as #emph[Cain,]#footnote[Gen 4:11.] #emph[Cham,]#footnote[Gen 9:25.] #emph[Absalom,]#footnote[2 Sam 18:15.] and others like them.
 
@@ -228,7 +228,7 @@ Therefore mothers ought to nurse their own children.
 
 II. Some of the most worthy patterns, in whose example this duty is commended to mothers, are these.
 
-1\. #emph[Sarah] gave suck to #emph[Isaac.] This example is to be noted #footnote[Gen 21:7.] especially of the greater sort: as rich men’s wives, honourable men’s wives, and the like. For #emph[Sarah] was an honourable woman, a princess, a rich man’s wife, a beautiful woman, aged and well grown in years, and a mistress of a family.
+1\. #emph[Sarah] gave suck to #emph[Isaac.]#footnote[Gen 21:7.] This example is to be noted especially of the greater sort: as rich men’s wives, honourable men’s wives, and the like. For #emph[Sarah] was an honourable woman, a princess, a rich man’s wife, a beautiful woman, aged and well grown in years, and a mistress of a family.
 
 Are not these excuses pretended by many mothers for not nursing children themselves?
 
@@ -278,7 +278,7 @@ Let mothers know of what rank or degree so ever they be, that (out of the case o
 
 #emph[Answ.] She bare not this child, nor was the natural mother of it, so as this is nothing to the purpose. Yea it maketh against the objectors, in that the true mother of this child nursed it.
 
-3\. #emph[Object.] The metaphor taken from nurses is oft used, #footnote[Num 11:12. 1 Thess 2:7.] and applied to God, and to God’s ministers.
+3\. #emph[Object.] The metaphor taken from nurses#footnote[Num 11:12. 1 Thess 2:7.] is oft used, and applied to God, and to God’s ministers.
 
 1\. #emph[Answ.] The using of a thing by way of comparison and resemblance doth not simply justify it: instance the parable of the unjust steward, and of a thief. #footnote[Luke 16:1. #emph[etc.] Rev 16:15.]
 
@@ -330,7 +330,7 @@ As for the husbands saving by putting the child forth to nurse, no gain may give
 
 1\. #emph[Answ.] God requireth no impossibilities: wherefore in propounding the duty I put in this caution #emph[(so far as they are able.)]
 
-2\. God requireth #emph[mercy, and not sacrifice:] if therefore in #footnote[Hos 6:6. Matt 9:13.] truth it be so that the mothers giving suck to the child will be dangerous to her self or to the child, she may and ought to forbear: for giving suck is but as #emph[sacrifice] to preventing of danger, which is #emph[mercy.] But women must take heed that they pretend not inability, and danger without just cause. Some are themselves the cause of wanting milk because they will not let it be drawn down; or because they will not use means (for means there are) to get and increase milk. There are means also to raise nipples where the breasts are very flat. Refusing to give suck many times causeth some sickishness in a woman, and sore breasts, which might be prevented with the childes sucking. If the soreness be only in the nipples, a mother with enduring a little more pain may safely give the child suck. Many mothers have given their children suck when blood hath run by the mouth of the child by reason of sore nipples, and yet both mother and child done very well.
+2\. God requireth #emph[mercy, and not sacrifice:]#footnote[Hos 6:6. Matt 9:13.] if therefore in truth it be so that the mothers giving suck to the child will be dangerous to her self or to the child, she may and ought to forbear: for giving suck is but as #emph[sacrifice] to preventing of danger, which is #emph[mercy.] But women must take heed that they pretend not inability, and danger without just cause. Some are themselves the cause of wanting milk because they will not let it be drawn down; or because they will not use means (for means there are) to get and increase milk. There are means also to raise nipples where the breasts are very flat. Refusing to give suck many times causeth some sickishness in a woman, and sore breasts, which might be prevented with the childes sucking. If the soreness be only in the nipples, a mother with enduring a little more pain may safely give the child suck. Many mothers have given their children suck when blood hath run by the mouth of the child by reason of sore nipples, and yet both mother and child done very well.
 
 12\. #emph[Object.] Divers children being nursed by the mother have died one after another.
 
@@ -389,9 +389,9 @@ That parents are bound to procure Baptism for their children these reasons decla
 
 5\. The #emph[promise of God] made to them: for seeing God is so #footnote[Gen 17:7. Acts 2:39.] gracious as to extend his promise to our children: our care must be to procure the seal which God offereth for the confirmation of that promise.
 
-6\. The #emph[right they have to God’s Kingdom.] Baptism is an #footnote[Matt 19:14.] evidence of that their right. It is parents duty to get them that evidence. If children have just title to any lands and revenues, or to any earthly honours and dignities, parents will do what they can to make that title sure unto them even in their infancy: much more careful should they be to make that rich and glorious inheritance, which is in heaven reserved for them, as sure unto them as they can: now no better means for the effecting of this then Baptism.
+6\. The #emph[right they have to God’s Kingdom.] Baptism#footnote[Matt 19:14.] is an evidence of that their right. It is parents duty to get them that evidence. If children have just title to any lands and revenues, or to any earthly honours and dignities, parents will do what they can to make that title sure unto them even in their infancy: much more careful should they be to make that rich and glorious inheritance, which is in heaven reserved for them, as sure unto them as they can: now no better means for the effecting of this then Baptism.
 
-7\. Their #emph[conception and birth in sin.] Children drew contagion #footnote[Ps 51:5.] from their parents: therefore great reason it is that their parents should see them washed with the water of regeneration.
+7\. Their #emph[conception and birth in sin.]#footnote[Ps 51:5.] Children drew contagion from their parents: therefore great reason it is that their parents should see them washed with the water of regeneration.
 
 8\. The #emph[comfort] which from the performance of this duty will arise to Christian parents, yea and to the children also themselves when they come to the age of understanding. When parents behold the covenant of God surely sealed and confirmed to their children, they cannot (if at least they bear any love to their children) but much rejoice therein. And it must needs also much comfort the child when (being of understanding) he shall know that from his infancy he hath carried the seal and pledge of his regeneration.
 
@@ -447,7 +447,7 @@ For direction to parents in this duty, I will set down some sorts and kinds of n
 
 2\. Names which have in times before us been given to persons of good note, whose life is worthy our imitation, as #emph[Isaac, David, Peter, Mary, Elizabeth,] and such like: that the names may move them to imitate those worthies.
 
-3\. Names of our own ancestors and predecessors, to preserve a memory of the family: which appeareth to have been an ancient practise even among God’s people, in that the friends would have had #emph[Zachariah’s] son named #emph[Zachariah;] and when the #footnote[Luke 1:59, #emph[etc.]] mother had just cause to name him #emph[John,] they answer, #emph[none of thy kindred is called by this name.]
+3\. Names of our own ancestors and predecessors, to preserve a memory of the family: which appeareth to have been an ancient practise even among God’s people, in that the friends would have had #emph[Zachariah’s] son named #emph[Zachariah;]#footnote[Luke 1:59, #emph[etc.]] and when the mother had just cause to name him #emph[John,] they answer, #emph[none of thy kindred is called by this name.]
 
 4\. Usual names of the country, which custom hath made familiar, as #emph[Henry, Edward, Robert, William,] and such like among us.
 

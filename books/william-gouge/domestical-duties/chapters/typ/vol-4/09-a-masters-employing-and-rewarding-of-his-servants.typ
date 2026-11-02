@@ -2,7 +2,7 @@
 
 === §. 35. #emph[Of well employing servants.]
 
-That charge which the master gave to his servants when he was going abroad #emph[(occupy till I come)] showeth that masters #footnote[Luke 19:13.] must keep their servants exercised and employed about some business or other: which is also implied under this part of a good mistresses commendation, #emph[she giveth a portion to her maidens,] #footnote[Prov 31:15.] meaning a portion of work. As there is never an idle member in a natural body, but every one is employed, so should it be in a family.
+That charge which the master gave to his servants when he was going abroad #emph[(occupy till I come)]#footnote[Luke 19:13.] showeth that masters must keep their servants exercised and employed about some business or other: which is also implied under this part of a good mistresses commendation, #emph[she giveth a portion to her maidens,] #footnote[Prov 31:15.] meaning a portion of work. As there is never an idle member in a natural body, but every one is employed, so should it be in a family.
 
 1\. Thus servants being, while they are in subjection, inured to pains, they will be more industrious when they are of themselves: yea they will both more willingly undergo, and more easily go through matters which require pains and diligence. #emph[Use maketh perfect.]
 
@@ -54,7 +54,7 @@ The great disorder which is in many families is contrary hereunto: for there are
 
 === §. 39. #emph[Of masters overseeing the ways of their servants.]
 
-The second direction is, that masters use #emph[inspection] over their servants, and have an eye upon their servants, to see how they spend their time, and dispatch the business committed to them. The good mistress #emph[looketh well to the ways of her household.] This #footnote[Prov 31:27. Ruth 2:4.] is noted of #emph[Boaz,] that he went to his field to see what his reapers did.
+The second direction is, that masters use #emph[inspection] over their servants, and have an eye upon their servants, to see how they spend their time, and dispatch the business committed to them. The good mistress #emph[looketh well to the ways of her household.]#footnote[Prov 31:27. Ruth 2:4.] This is noted of #emph[Boaz,] that he went to his field to see what his reapers did.
 
 The eye of a master is a great motive to make a servant diligent and faithful: for thus he knoweth that both his diligence, and also his negligence shall be seen, and accordingly dealt withal. Hence arose that proverb, #emph[The eye of the master maketh the horse] #footnote[#emph[Oculus Domini pascit equum.] Matt 24:48.] #emph[fat.] The conceit which the evil servant had that his master delayed his coming, and so could not see what he did, made him so unfaithful as he was.
 
@@ -66,9 +66,9 @@ It is contrary hereunto to let all go (as we speak) #emph[at six and] #footnote[
 
 The third direction is, that masters use what means they can to provoke and stir up their servants to be diligent and faithful: as in the first place, exhortation, admonition, persuasion, promises of reward, with other like fair means. Such were the means which #emph[Saul] used to make his servants faithful unto him, when he said, #emph[Will the son of Jesse give every one of you fields, and vineyards,] #footnote[1 Sam 22:7.] etc. Had the thing which he expected from them been good, this manner of dealing with them had been commendable. But if fair means prevail not, then they may and ought to #footnote[See §. 13.] rebuke, threaten, and correct their servants.
 
-And if servants be impudent in sinning, and neither fair nor foul means will reclaim them, they must then be thrust out of doors. Note what the master in the parable said to his servant, #emph[Thou maist be no longer steward:] to which purpose #emph[David] also #footnote[Luke 16:2. Ps 101:7.] said, #emph[He that worketh deceit shall not dwell within mine house: he that telleth lies shall not tarry in my sight.]
+And if servants be impudent in sinning, and neither fair nor foul means will reclaim them, they must then be thrust out of doors. Note what the master in the parable said to his servant, #emph[Thou maist be no longer steward:]#footnote[Luke 16:2. Ps 101:7.] to which purpose #emph[David] also said, #emph[He that worketh deceit shall not dwell within mine house: he that telleth lies shall not tarry in my sight.]
 
-When #emph[Ismael] grew a scoffer at God’s word, #emph[Abraham] thrust #footnote[Gen 21:9. #emph[etc.]] him and his mother out of doors, and that by God’s appointment. The parable of cutting down the fruitless figtree may fitly be applied to this point: and the reason also there rendered #emph[(why cumbereth it the ground?)] Why should incorrigible servants #footnote[Luke 13:7. #emph[etc.]] take up the room of good servants? Yea why should they remain to infect and pervert other servants?
+When #emph[Ismael] grew a scoffer at God’s word, #emph[Abraham] thrust #footnote[Gen 21:9. #emph[etc.]] him and his mother out of doors, and that by God’s appointment. The parable of cutting down the fruitless figtree#footnote[Luke 13:7. #emph[etc.]] may fitly be applied to this point: and the reason also there rendered #emph[(why cumbereth it the ground?)] Why should incorrigible servants take up the room of good servants? Yea why should they remain to infect and pervert other servants?
 
 #emph[Object.] This is so far from helping servants in their estate, as it may prove their utter undoing.
 
@@ -128,9 +128,9 @@ As masters must give that which is #emph[just] to all servants, so that which is
 
 2\. Masters must take notice of the goodness, and kindness of such servants: and manifest as much, both by giving them due praise, and a good reward: both which are noted in the pattern of that great master who said, #emph[well done thou good] #footnote[Matt 25:21.] #emph[and faithful servant, thou hast been faithful over a few things, I will make thee ruler over many things.] Thus will those good servants be the more encouraged to hold on, and others will be moved to imitate them. This encouragement doth the Apostle give to all under authority, #emph[do that which is good, and] #footnote[Rom 13:3.] #emph[thou shalt have praise of the same.] Which phrase implieth that governors ought to praise those that do well.
 
-3\. If such servants be accused of any heinous crime, masters must not rashly give credit thereto, but rather thoroughly sift, and examine the matter. Herein #emph[Potiphar] exceedingly #footnote[Gen 39:19.] failed, and by that means lost such a servant as he could never get again. If a good servant do by occasion slip, and commit a fault, his master ought in wisdom either to take no notice of it: or with some mild admonition pass it over: and not deal with him as with a lewd, graceless servant.
+3\. If such servants be accused of any heinous crime, masters must not rashly give credit thereto, but rather thoroughly sift, and examine the matter. Herein #emph[Potiphar]#footnote[Gen 39:19.] exceedingly failed, and by that means lost such a servant as he could never get again. If a good servant do by occasion slip, and commit a fault, his master ought in wisdom either to take no notice of it: or with some mild admonition pass it over: and not deal with him as with a lewd, graceless servant.
 
-4\. When such servants (their covenanted time being expired) depart, their masters must not let them #emph[go away empty:] #footnote[Deut 15:13.] but help them in their #emph[marriage] (as #emph[Moses] his master did) or #footnote[Exod 2:21.] in their setting up, as the great master, who made his wise and faithful servant #emph[ruler over all his goods.] #footnote[Matt 24:47.]
+4\. When such servants (their covenanted time being expired) depart, their masters must not let them #emph[go away empty:] #footnote[Deut 15:13.] but help them in their #emph[marriage] (as #emph[Moses] his master did)#footnote[Exod 2:21.] or in their setting up, as the great master, who made his wise and faithful servant #emph[ruler over all his goods.] #footnote[Matt 24:47.]
 
 === §. 45. #emph[Of unkind dealing with good servants.]
 

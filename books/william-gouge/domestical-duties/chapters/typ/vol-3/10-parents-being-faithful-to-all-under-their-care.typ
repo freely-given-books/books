@@ -66,7 +66,7 @@ God by his providence taking away natural parents committeth their Orphans as a 
 
 Too too common is the contrary disposition of most kinsmen, and kinswomen; they think they are bound to none but their own children, and if they have no children, to none at all. Many are of #emph[Ruth’s] kinsmans mind, they fear #emph[to mar] #footnote[Ruth 4:6.] #emph[their own inheritance.] Though they be themselves exceeding rich, and spend much in apparel, pastimes and house-keeping, yet they can suffer the Orphans of their poor kindred to want, and to beg for need.
 
-This is it that maketh the loss of natural parents to be so much the greater. And herein many Christians are more inhumane then the heathen: which the Apostle implieth, where he saith, #emph[they are worse then infidels:] for Orphans next of kin #footnote[1 Tim 5:8.] are to be reckoned among those whom the Apostle termeth a man’s #footnote[τοὺς ἰδίους.] OWN.
+This is it that maketh the loss of natural parents to be so much the greater. And herein many Christians are more inhumane then the heathen: which the Apostle implieth, where he saith, #emph[they are worse then infidels:]#footnote[1 Tim 5:8.] for Orphans next of kin are to be reckoned among those whom the Apostle termeth a man’s #footnote[τοὺς ἰδίους.] OWN.
 
 === §. 76. #emph[Of the duty of Guardians.]
 

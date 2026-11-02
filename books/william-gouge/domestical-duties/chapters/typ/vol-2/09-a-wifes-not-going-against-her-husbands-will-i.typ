@@ -61,7 +61,7 @@ The things whereabout an husbands consent is to be expected, are such as he by v
 
 #emph[A wife must do nothing which appertaineth to her husbands authority simply without, or directly against his consent.] Do not these words of that old law #emph[(thy desire shall be to thy husband)] #footnote[Gen 3:16.] imply as much? I deny not but that there may be sundry things proper and peculiar to a wife, wherein I will not restrain her liberty: and therefore I use this phrase #emph[(which appertaineth to her husbands authority.)] And I grant the forenamed general and implicit consent, to be a true consent, so as there needeth not an express particular consent for every thing, and therefore I have added these clauses #emph[(simply without, or directly against consent.)]
 
-That is done #emph[simply without consent] which is done without all warrant from the husband, and that so covertly as she is afraid it should come to his notice, imagining he would by no means like it: As #emph[Rahels] taking her fathers idols without all #footnote[Gen 31:32.] consent of #emph[Jacob.]
+That is done #emph[simply without consent] which is done without all warrant from the husband, and that so covertly as she is afraid it should come to his notice, imagining he would by no means like it: As #emph[Rahels] taking her fathers idols#footnote[Gen 31:32.] without all consent of #emph[Jacob.]
 
 That is done #emph[directly against consent] which is expressly forbidden and disclaimed by the husband.
 
@@ -109,7 +109,7 @@ Against this ground-work some object that #footnote[Gen 4:7.] the same law of su
 
 Again it is objected that that old law is to be expounded of weighty matters.
 
-#emph[Answ.] The Apostle who was guided by the spirit of the #footnote[Eph 5:24.] law-maker, extendeth that law to #emph[every thing:] But is not this matter of disposing goods a weighty matter? The consequences which I shall by and by note to follow hereupon will show it to be a matter of moment.
+#emph[Answ.] The Apostle#footnote[Eph 5:24.] who was guided by the spirit of the law-maker, extendeth that law to #emph[every thing:] But is not this matter of disposing goods a weighty matter? The consequences which I shall by and by note to follow hereupon will show it to be a matter of moment.
 
 === §. 24. #emph[Of the example of the Shunammite in asking her husbands consent.] #footnote[2 Kgs 4:9, 22.]
 
@@ -127,7 +127,7 @@ As another reason may be alleged the Shunammite’s pattern who asked her husban
 
 === §. 25. #emph[Of the law of a wives vow.]
 
-A third reason is taken from the law of a wives vow: whereby #footnote[Num 30:7. #emph[etc.]] in general is implied, that a wife might not make a vow without her husbands consent: whence it followeth as an argument taken from the greater to the less, that she may not dispose the goods without his consent. Yea, #footnote[#emph[Vers.] 13.] the Law further expressly saith, that though she hath vowed, yet her husband hath power to disannul her vow. Note here, how the Lord will rather depart from his own right (as I may so speak) then have that order which he hath appointed betwixt man and woman broken. The Lord’s right, was to have what was vowed to him performed: the order which he appointed, was to have the wife subject to her husband: rather then the wife should do that which the husband would not have done, the Lord remitted a wives vow in case her husband would not consent to have it performed. Now then I demand, is the disposing of goods a greater matter then the performing of a vow? Or hath a wife in these days more liberty then in former? If she have, by what law? Was there ever under the Law a straiter charge laid upon wives then this, #emph[Let wives be subject to their husbands in every thing.]
+A third reason is taken from the law of a wives vow:#footnote[Num 30:7. #emph[etc.]] whereby in general is implied, that a wife might not make a vow without her husbands consent: whence it followeth as an argument taken from the greater to the less, that she may not dispose the goods without his consent. Yea, #footnote[#emph[Vers.] 13.] the Law further expressly saith, that though she hath vowed, yet her husband hath power to disannul her vow. Note here, how the Lord will rather depart from his own right (as I may so speak) then have that order which he hath appointed betwixt man and woman broken. The Lord’s right, was to have what was vowed to him performed: the order which he appointed, was to have the wife subject to her husband: rather then the wife should do that which the husband would not have done, the Lord remitted a wives vow in case her husband would not consent to have it performed. Now then I demand, is the disposing of goods a greater matter then the performing of a vow? Or hath a wife in these days more liberty then in former? If she have, by what law? Was there ever under the Law a straiter charge laid upon wives then this, #emph[Let wives be subject to their husbands in every thing.]
 
 #emph[Object.] That point of a woman’s subjection in performing her vow, is a particular ruled case: but not this of disposing goods.
 
