@@ -313,7 +313,7 @@ The latter part of this verse containeth a reason to enforce the directions in t
 
 These two little particles #emph[(even your,] or #emph[your also)] add some #footnote[καὶ ὑμῶν.] emphasis: having reference to servants, as if he had said, as well your master, as your servants master. Some Greek copies, for more perspicuity, thus read it #emph[(both your and their master)] #footnote[καὶ ὑμῶν, καὶ αὐτῶν.] the sense is all one which way soever we read it: It showeth that in relation to God,
 
-#emph[Masters and servants are in the same subjection,] and under a #footnote[6\. #emph[Obseru.] Matt 23:8. #emph[&] 18. 28.] like command. There is one master, even Christ: and all men whosoever are #emph[brethren, fellow-servants.]
+#emph[Masters and servants are in the same subjection,] and under a #footnote[6\. #emph[Obseru.] Matt 23:8; 18:28.] like command. There is one master, even Christ: and all men whosoever are #emph[brethren, fellow-servants.]
 
 === §. 132. #emph[Of God’s being in heaven.]
 
@@ -327,7 +327,7 @@ That great master, under whom all masters on earth are, is here said to be #emph
 
 1\. To show that there is no proportion betwixt him and earthly masters, be they never so great. For as the heaven is higher then the earth, so is God more excellent, yea infinitely more excellent then any man. #emph[Who is like unto the Lord our God] #footnote[Ps 113:5.] #emph[who dwelleth on high?] There is no such difference betwixt masters and servants on earth.
 
-2\. To show that he hath his eyes continually on all his servants: he seeth every thing that they do, as one placed above others seeth all that are under him. #footnote[Ps 102:19.] #emph[From heaven doth the Lord behold the earth.] #footnote[#emph[&] 33. 13.] #emph[The Lord looketh from heaven, he beholdeth all the sons of men.] #footnote[Prov 15:3.] #emph[The eyes of the Lord are in every place, beholding the evil and the good.] So as this phrase noteth the clean contrary to that which was before objected by wicked #emph[Atheists.]
+2\. To show that he hath his eyes continually on all his servants: he seeth every thing that they do, as one placed above others seeth all that are under him. #footnote[Ps 102:19.] #emph[From heaven doth the Lord behold the earth.] #footnote[Ps 33:13.] #emph[The Lord looketh from heaven, he beholdeth all the sons of men.] #footnote[Prov 15:3.] #emph[The eyes of the Lord are in every place, beholding the evil and the good.] So as this phrase noteth the clean contrary to that which was before objected by wicked #emph[Atheists.]
 
 3\. To show that he is Almighty: able both to recompense his faithful servants (whereupon #emph[David] saith, #emph[Unto thee lift I] #footnote[Ps 123:1.] #emph[up mine eyes, ô thou that dwellest in the heavens)] and also to execute vengeance on those that are unfaithful to God, and cruel to their servants (whereupon saith #emph[Solomon, if thou seest oppression] #footnote[Eccl 5:8.] #emph[etc. marvel not: for he that is higher then the highest regardeth.)]
 

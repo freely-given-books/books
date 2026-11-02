@@ -43,7 +43,7 @@ The next phrase #emph[(provoke to wrath)] is the exposition of one #footnote[π�
 
 #emph[Parents must be so watchful over their carriage, as thereby they] #footnote[2\. #emph[Obser.]] #emph[make not their children to sin.]
 
-If they do, they make their own sin the more heinous, and also they pull down upon their own pates a far more heavy vengeance, even the vengeance of their own sin, and the vengeance of their childes sin. For every parent is made a watchman over his child. If a watchman do not #footnote[Ezek 3:18.] what he can to hinder the sin of such as are under his charge, he pulls their blood on his own neck. What do they then that being watchmen, minister occasion of sin to them that are under their charge?
+If they do, they make their own sin the more heinous, and also they pull down upon their own pates a far more heavy vengeance, even the vengeance of their own sin, and the vengeance of their childes sin. For every parent is made a watchman over his child. If a watchman#footnote[Ezek 3:18.] do not what he can to hinder the sin of such as are under his charge, he pulls their blood on his own neck. What do they then that being watchmen, minister occasion of sin to them that are under their charge?
 
 === §. 118. #emph[Of parents seeking the good of their children.]
 
@@ -77,7 +77,7 @@ The more pains is taken in this kind, the less labour will be lost. That which a
 
 The addition of this word #emph[admonition] unto #emph[nurture,] is not (as some take it) a mere explication of the same point, but also a declaration of a further duty, which is this:
 
-#emph[As parents by discipline keep their children under, so by information] #footnote[8\. #emph[Obser.]] #emph[they must direct them in the right way. Solomon] doth both deliver the point, and also add a good reason to enforce it: for saith he, #emph[Train up a child in the way that he should go;] there is the duty: #emph[and when he is old, he will not depart from it;] there #footnote[Prov 22:6.] is the reason. Keeping a child under by good discipline, may make him dutiful while the father is over him: but well informing his understanding and judgment, is a means to uphold him in the right way so long as he liveth.
+#emph[As parents by discipline keep their children under, so by information] #footnote[8\. #emph[Obser.]] #emph[they must direct them in the right way. Solomon] doth both deliver the point, and also add a good reason to enforce it: for saith he, #emph[Train up a child in the way that he should go;] there is the duty: #emph[and when he is old, he will not depart from it;]#footnote[Prov 22:6.] there is the reason. Keeping a child under by good discipline, may make him dutiful while the father is over him: but well informing his understanding and judgment, is a means to uphold him in the right way so long as he liveth.
 
 === §. 122. #emph[Of parents teaching their children the fear of God.]
 
