@@ -15,11 +15,11 @@ That children may the better know their duty in this respect, #footnote[The part
 
 The general #emph[parts] wherein it consisteth are two:
 
-1\. A #emph[forbearance] from doing things without consent of parents. #footnote[Of the several ways whereby consent may be given, see Treat. 3.]
+1\. A #emph[forbearance] from doing things without consent of parents. #footnote[Of the several ways whereby consent may be given, see Treat. 3. §. 19.]
 
 2\. A #emph[performance] of such things as parents will have done.
 
-The former of these is a duty whereunto children are most bound while they are under their parents government. For that #footnote[§. 19. Num 30:16.] time the consent of parents is not only meet, but necessary: and that for these reasons.
+The former of these is a duty whereunto children are most bound while they are under their parents government. For that time the consent of parents is not only meet, but necessary:#footnote[Num 30:16.] and that for these reasons.
 
 1\. Children are as the goods of their parents, wholly in their power, to be ordered and disposed by them. On this ground Satan having all that #emph[Job] had put into his hand, took liberty over #footnote[Job 1:12, 19.] his children as well as over his goods and chattel.
 
@@ -39,11 +39,11 @@ I. That children ought to have the consent of their parents in making choice of 
 
 Equity requireth that parents should have an hand in placing both their children, because they brought them forth into the world, and brought them up with much care, pains, and charge, while they were young, and till they were fit for a calling.
 
-Besides, God hath laid it as a charge upon parents, that they should see their children well trained up: great reason therefore #footnote[1\. Equity.] that parents consent be had in setting forth children to a calling. #footnote[2\. God’s charge. #emph[Bellarm. de Mon. lib.] 2. #emph[cap.]]
+Besides, God hath laid it as a charge upon parents, that they should see their children well trained up: great reason therefore #footnote[1\. Equity.] that parents consent be had in setting forth children to a calling. #footnote[2\. God’s charge.]
 
 === §. 14. #emph[Of the unlawfulness of children’s entering into religious orders without consent of parents.]
 
-Contrary is the opinion of Papists, who say, that children may #footnote[36\. #emph[Licet filijs ingredi religionem inuitis parentibus.]] enter into religious orders, not only without consent, but also against the mind and good like of their parents. Whereby they do not only patronize apparent disobedience in children, against the express word of God; but also disable children from helping their parents in case of necessity: for both which Christ rebuked the Scribes and Pharisees in a like case.
+Contrary is the opinion of Papists, who say, that children may #footnote[#emph[Licet filijs ingredi religionem inuitis parentibus. Bellarm. de Mon. lib.] 2. #emph[cap.] 36.] enter into religious orders, not only without consent, but also against the mind and good like of their parents. Whereby they do not only patronize apparent disobedience in children, against the express word of God; but also disable children from helping their parents in case of necessity: for both which Christ rebuked the Scribes and Pharisees in a like case.
 
 #emph[Object.] Papists do grant that if parents be in such necessity, #footnote[Conditio est, vt parentes non sint in tali necessitate, vt sine filiorum auxilio viuere non possint. Tunc enim tenentur ex praecepto Dei parentibus adesse. Bellarm. loc. cit.] as they cannot live without their children’s help, their children may not by entering into any religious order forsake their parents. For they are bound by the law of God to succour their parents.
 
@@ -115,7 +115,7 @@ Though #emph[Samson] saw a daughter of the Philistines which #footnote[#emph[Non
 
 === §. 17. #emph[Of the equity of the point, and reasons why children should have their parents consent unto their marriage.]
 
-1\. By marriage children are put from their parents: for #footnote[The reasons alleged §.] #footnote[Gen 2:24.] #emph[man must leave his father and mother, and cleave unto his wife.] Is it not then great reason that they from whom children #footnote[12\. may be applied to this particular.] had their being, and by whom they have been maintained and trained up till the time of their marriage, should have notice of that kind of leaving them, and consent thereto?
+1\. By marriage children are put from their parents: for #footnote[The reasons alleged §. 12. may be applied to this particular.] #emph[man must leave his father and mother, and cleave unto his wife.]#footnote[Gen 2:24.] Is it not then great reason that they from whom children had their being, and by whom they have been maintained and trained up till the time of their marriage, should have notice of that kind of leaving them, and consent thereto?
 
 2\. A parents power by the marriage of his child is passed over to the husband or wife of the child. And shall such a power be taken away without consent of parent?
 

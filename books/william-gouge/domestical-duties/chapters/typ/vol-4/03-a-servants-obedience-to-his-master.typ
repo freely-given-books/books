@@ -47,7 +47,7 @@ This general will the better be cleared, if it be exemplified in some particular
 
 6\. They may not before their covenanted time be expired go away from their master. When #footnote[Gen 30:26.] #emph[Jacob] after long service had a mind to be gone, he asked leave, and because his uncle and master would not willingly let him go, he tarried still.
 
-#emph[Object.] Afterwards #footnote[#emph[&] 31. 20.] #emph[Jacob] privily stole away from his master.
+#emph[Object.] Afterwards #footnote[Gen 31:20.] #emph[Jacob] privily stole away from his master.
 
 #emph[Answ.] 1. His covenanted time was out. 2. He had an express warrant from God to be gone. 3. His manner of going away is not to be justified, and in that respect it is no good pattern.
 
@@ -97,7 +97,7 @@ Contrary is the idle, sluggish, dull disposition of many servants, who by reason
 
 === §. 15. #emph[Of servants hearkening to their masters instructions in piety.]
 
-Such servants as have religious masters who are careful to #footnote[Obedience of servants to pious instructions.] instruct their household in the way of righteousness, ought to be obedient to their instructions: so were #emph[Joshua’s] servants, (or else could not #emph[Joshua] have undertaken for them #footnote[Josh 24:15.] as he did) and the servants of that Ruler of whom it was said that #emph[himself believed] #footnote[John 4:53.] #emph[and all his house:] and the servants of #emph[Lydia,] and of the Jailer, concerning whom it is said, #footnote[Acts 16:15,] #emph[She was baptised and her household:] #footnote[Acts 16:34.] #emph[he believed in God and all his house.] Under these words #emph[house] and #emph[household,] none doubteth but that #emph[servants] are comprised.
+Such servants as have religious masters who are careful to #footnote[Obedience of servants to pious instructions.] instruct their household in the way of righteousness, ought to be obedient to their instructions: so were #emph[Joshua’s] servants, (or else could not #emph[Joshua] have undertaken for them #footnote[Josh 24:15.] as he did) and the servants of that Ruler of whom it was said that #emph[himself believed] #footnote[John 4:53.] #emph[and all his house:] and the servants of #emph[Lydia,] and of the Jailer, concerning whom it is said, #footnote[Acts 16:15.] #emph[She was baptised and her household:] #footnote[Acts 16:34.] #emph[he believed in God and all his house.] Under these words #emph[house] and #emph[household,] none doubteth but that #emph[servants] are comprised.
 
 Now then if the servants of these had not hearkened and yielded to the instructions of their master and mistress, would they have believed in him in whom their masters believed, or been baptised when their mistress was? The like may be gathered out of this phrase, #footnote[Rom 16:5. Phlm 2.] #emph[The Church in their house:] for thereby is implied that all in the house were of the same faith that their master and mistress were. It is expressly noted of the #footnote[Acts 10:7.] Soldier that waited continually on #emph[Cornelius,] that he was #emph[a devout man,] whereby it is presupposed that he hearkened to his masters instructions: for it is noted of the master also, that #footnote[#emph[Vers.] 2.] #emph[he was a devout man and feared God.]
 

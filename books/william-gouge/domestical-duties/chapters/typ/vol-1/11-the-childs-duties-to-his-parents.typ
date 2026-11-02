@@ -177,7 +177,7 @@ The first branch #emph[(that it may be well with thee)] is very ample #footnote[
 
 4\. It is promised of God as a reward to them that fear him #footnote[Lev 26:4. #emph[etc.] Deut 28:1. #emph[etc.]] and keep his Commandments.
 
-5\. The Saints have prayed for it, and have been thankful #footnote[Gen 28:20. #emph[&] 32. 10, 11.] for it.
+5\. The Saints have prayed for it, and have been thankful #footnote[Gen 28:20; 32:10, 11.] for it.
 
 6\. The contrary was first inflicted as a punishment of sin, #footnote[Lev 26:15. #emph[etc.]] and is oft threatened as a token of God’s wrath, and so hath also been inflicted on transgressors. #footnote[Deut 28:16. #emph[etc.]]
 
@@ -274,7 +274,7 @@ From the connection of them both together, I observe that
 
 #emph[God so ordereth his favours as they appear to be true blessings,] #footnote[God makes his favours true blessings. Gen 17:19.] tending indeed to the good of those upon whom he bestoweth them. Thus when God gave #emph[Abraham] a son, he established his covenant with him, that this gift might be a true blessing.
 
-The like I might instance in all the children of promise, as #emph[Samson, Solomon, John Baptist, etc.] So in other favours. When God added fifteen years to #emph[Hezekiah’s] life, he also promised #footnote[Isa 38:5, 6. #emph[&] 39. 8.] him deliverance from his enemies, and peace, and truth all his days: And when God gave #emph[David] a kingdom, he gave him #footnote[2 Sam 7:9. #emph[etc.]] great victories and long life, and established his kingdom to his posterity: so also dealt he with #emph[Solomon.] But not to insist on any more particulars, excellently is this doctrine confirmed in the 128 #emph[Psalm.]
+The like I might instance in all the children of promise, as #emph[Samson, Solomon, John Baptist, etc.] So in other favours. When God added fifteen years to #emph[Hezekiah’s] life, he also promised #footnote[Isa 38:5, 6; 39:8.] him deliverance from his enemies, and peace, and truth all his days: And when God gave #emph[David] a kingdom, he gave him #footnote[2 Sam 7:9. #emph[etc.]] great victories and long life, and established his kingdom to his posterity: so also dealt he with #emph[Solomon.] But not to insist on any more particulars, excellently is this doctrine confirmed in the 128 #emph[Psalm.]
 
 Thus God will show that in love he bestoweth even the temporal blessings which he giveth to his Saints, that accordingly they may esteem them, and that their hearts may be the more enlarged both to admire his goodness, and to be thankful for the same.
 

@@ -2,20 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4118 |
-| spacing | 2556 |
-| italic | 2548 |
-| spelling | 1831 |
-| emendation | 1286 |
+| punctuation | 4447 |
+| spacing | 2724 |
+| italic | 2673 |
+| spelling | 1830 |
+| emendation | 1334 |
 | grammar | 147 |
 | case | 146 |
+| note moved | 141 |
 | list | 134 |
-| note moved | 118 |
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
+| note | 12 |
 | split | 10 |
-| note | 7 |
 | epigraph | 2 |
 
 ## split
@@ -135,6 +135,9 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Jam . → Jas
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Matth . → Matt
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Psal . → Ps
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] a → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] b & → Gen
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] c → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Matth . → Matt
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Matth . → Matt
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] Psal . → Ps
@@ -371,6 +374,7 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Psal . → Ps
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] Christ → 5. Difference betwixt Christ
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Est . → Esth
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Psal . → Ps
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
@@ -445,6 +449,7 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Matth . → Matt
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Matth . → Matt
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Joh . → John
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 12 . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] EPHES . → Eph
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] beinto → be into
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ] affor deth → affordeth
@@ -518,6 +523,8 @@
 - [vol-2/01-seeking-marriage.typ note] King . → Kgs
 - [vol-2/01-seeking-marriage.typ note] King . → Kgs
 - [vol-2/01-seeking-marriage.typ note] Chro . → Chr
+- [vol-2/01-seeking-marriage.typ note] 29 → 
+- [vol-2/01-seeking-marriage.typ note] 1 → 
 - [vol-2/01-seeking-marriage.typ note] Chro . → Chr
 - [vol-2/01-seeking-marriage.typ note] King . → Kgs
 - [vol-2/01-seeking-marriage.typ note] Chro . → Chr
@@ -729,6 +736,7 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Matth . → Matt
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Joh . → John
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Luk . → Luke
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] 29 → Gen 5:29
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Luk . → Luke
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Mat . → Matt
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
@@ -887,11 +895,17 @@
 - [vol-3/01-children-showing-respect-for-parents.typ note] 3 . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Exo . → Exod
 - [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
-- [vol-3/01-children-showing-respect-for-parents.typ note] Pro . → Prov
+- [vol-3/01-children-showing-respect-for-parents.typ note] Pro . → Prov 1:8; 4:1; 7:
+- [vol-3/01-children-showing-respect-for-parents.typ note] 8 → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] 4 → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] 1 → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] 7 → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] 1 → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Iam → Jas
 - [vol-3/01-children-showing-respect-for-parents.typ note] Kin . → Kgs
 - [vol-3/01-children-showing-respect-for-parents.typ note] King . → Kgs
 - [vol-3/01-children-showing-respect-for-parents.typ note] King . → Kgs
+- [vol-3/01-children-showing-respect-for-parents.typ note] 18 → 1 Sam 3:18
 - [vol-3/01-children-showing-respect-for-parents.typ note] Mat . → Matt
 - [vol-3/01-children-showing-respect-for-parents.typ note] King . → Kgs
 - [vol-3/01-children-showing-respect-for-parents.typ note] Ephes . → Eph
@@ -909,10 +923,19 @@
 - [vol-3/02-children-getting-parents-permission.typ note] Luk → Luke 2:51
 - [vol-3/02-children-getting-parents-permission.typ note] 2 . 5 1 . → 
 - [vol-3/02-children-getting-parents-permission.typ note] Pro . → Prov
-- [vol-3/02-children-getting-parents-permission.typ note] Num → Num 30:16
-- [vol-3/02-children-getting-parents-permission.typ note] 30 . 17 . → 
+- [vol-3/02-children-getting-parents-permission.typ note] 19 → 
+- [vol-3/02-children-getting-parents-permission.typ note] Num → 
+- [vol-3/02-children-getting-parents-permission.typ note] 30 → 
+- [vol-3/02-children-getting-parents-permission.typ note] 17 → 
 - [vol-3/02-children-getting-parents-permission.typ note] Galat . → Gal
 - [vol-3/02-children-getting-parents-permission.typ note] 17 . → 
+- [vol-3/02-children-getting-parents-permission.typ note] Bellarm → 
+- [vol-3/02-children-getting-parents-permission.typ note] de → 
+- [vol-3/02-children-getting-parents-permission.typ note] Mon → 
+- [vol-3/02-children-getting-parents-permission.typ note] lib → 
+- [vol-3/02-children-getting-parents-permission.typ note] 2 → 
+- [vol-3/02-children-getting-parents-permission.typ note] cap → 
+- [vol-3/02-children-getting-parents-permission.typ note] 36 . → 
 - [vol-3/02-children-getting-parents-permission.typ note] Psal . → Ps
 - [vol-3/02-children-getting-parents-permission.typ note] Mat . → Matt
 - [vol-3/02-children-getting-parents-permission.typ note] Luk . → Luke
@@ -938,8 +961,14 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Psal . → Ps
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Ephes . → Eph
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 17 , → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 20 → 1 Sam 17:20
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Exo . → Exod
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov 1:8, 9; 4:
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 8 → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 9 → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 4 → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] 1 → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Pro . → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Exo . → Exod
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & 4 . 9 . → 
@@ -979,6 +1008,9 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] King . → Kgs
 - [vol-3/04-children-giving-back-to-parents.typ note] King . → Kgs
 - [vol-3/04-children-giving-back-to-parents.typ note] Ephes . → Eph
+- [vol-3/04-children-giving-back-to-parents.typ note] Rom → Rom 12:17
+- [vol-3/04-children-giving-back-to-parents.typ note] 12 . 17 , → 
+- [vol-3/04-children-giving-back-to-parents.typ note] 19 → Rom 12:19
 - [vol-3/04-children-giving-back-to-parents.typ note] Mat . → Matt
 - [vol-3/04-children-giving-back-to-parents.typ note] King . → Kgs
 - [vol-3/04-children-giving-back-to-parents.typ] Credit → and credit
@@ -1023,8 +1055,13 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . & → ;
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Thes . → Thess
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 16 . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Luk . → Luke
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Jos . → Josh 5:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Gen → Gen 21:4
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 4 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Luk → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 59 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 21 → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 5 . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Mat . → Matt
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Act . → Acts
@@ -1252,6 +1289,8 @@
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] Luk . → Luke
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] Jos . → Josh
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] c → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] 16 → 16:15
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] 15 , → 
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] 34 → Acts 16:34
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] Philem . v . → Phlm
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] Act . → Acts
@@ -1315,9 +1354,15 @@
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] King . → Kgs
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Pro . → Prov
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Exo . → Exod
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Act . → Acts
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Ethic → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] defin → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] 75 → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Act → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] 4 → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] 19 → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Act . → Acts
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Joh . → John
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Constit → Qui fidelem habet dominum, saluo eius dominio, diligat vt patrem. Constit
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Exo . → Exod
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Joh . → John
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] Psal . → Ps
@@ -1362,6 +1407,7 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Exo . → Exod
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] 16 . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Pro . → Prov
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] 27 . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Luk . → Luke
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Luk . → Luke
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Luk . → Luke
@@ -1369,6 +1415,8 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Luk . → Luke
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Pro . → Prov
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Pro . → Prov
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Sam → Sam 11:15
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] 11 . 15 , → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Exo . → Exod
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Exo . → Exod
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] Psal . → Ps
@@ -1542,25 +1590,16 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
@@ -1571,9 +1610,6 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
-- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
@@ -1591,6 +1627,22 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] & → ;
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
@@ -1599,6 +1651,9 @@
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
+- [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] & → ;
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → 
 - [vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ note] . → :
@@ -1616,7 +1671,6 @@
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
-- [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → 
 - [vol-1/02-particular-callings-and-the-wifes-submission.typ note] . → :
@@ -1712,6 +1766,8 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] & → Luke
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → :
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] . → 
@@ -1770,6 +1826,10 @@
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] & → John
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
+- [vol-1/04-husbands-and-the-love-of-christ.typ note] & → Matt
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → 
 - [vol-1/04-husbands-and-the-love-of-christ.typ note] . → :
@@ -1880,6 +1940,9 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
+- [vol-1/05-love-that-purifies-the-unclean.typ note] & → ;
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
+- [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 3:
@@ -1944,12 +2007,16 @@
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
+- [vol-1/06-redeemed-for-glory.typ note] & → John
+- [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/06-redeemed-for-glory.typ note] . → :
+- [vol-1/06-redeemed-for-glory.typ note] & → 2 Cor
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → :
@@ -1987,6 +2054,9 @@
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/06-redeemed-for-glory.typ note] . → :
+- [vol-1/06-redeemed-for-glory.typ note] . → 
+- [vol-1/06-redeemed-for-glory.typ note] & → ;
 - [vol-1/06-redeemed-for-glory.typ note] . → :
 - [vol-1/06-redeemed-for-glory.typ note] . → 
 - [vol-1/06-redeemed-for-glory.typ note] . → :
@@ -2033,6 +2103,9 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] & → ;
+- [vol-1/07-marital-love-and-self-love.typ note] . → :
+- [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 12:
@@ -2050,6 +2123,15 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] & → ;
+- [vol-1/07-marital-love-and-self-love.typ note] . → :
+- [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] & → ;
+- [vol-1/07-marital-love-and-self-love.typ note] . → :
+- [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] & → ;
+- [vol-1/07-marital-love-and-self-love.typ note] . → :
+- [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
@@ -2059,6 +2141,9 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] . → :
+- [vol-1/07-marital-love-and-self-love.typ note] . → 
+- [vol-1/07-marital-love-and-self-love.typ note] & → ;
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
@@ -2095,6 +2180,8 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
+- [vol-1/08-christs-union-with-his-beloved-body.typ note] & → Deut
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → 
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] . → :
@@ -2349,14 +2436,8 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] & → ;
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
@@ -2368,7 +2449,21 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] & → ;
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] & → ; 12:
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
@@ -2423,6 +2518,9 @@
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] & → ;
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
@@ -2488,6 +2586,9 @@
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] & → ;
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
+- [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → 
 - [vol-1/11-the-childs-duties-to-his-parents.typ note] . → :
@@ -2541,10 +2642,18 @@
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → 
 - [vol-2/01-seeking-marriage.typ note] . → :
+- [vol-2/01-seeking-marriage.typ note] . → 
+- [vol-2/01-seeking-marriage.typ note] & → ;
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → :
+- [vol-2/01-seeking-marriage.typ note] & → 1 Kgs
 - [vol-2/01-seeking-marriage.typ note] . → :
+- [vol-2/01-seeking-marriage.typ note] . → :
+- [vol-2/01-seeking-marriage.typ note] . → :1; 29:
+- [vol-2/01-seeking-marriage.typ note] & → 
+- [vol-2/01-seeking-marriage.typ note] . → 
+- [vol-2/01-seeking-marriage.typ note] . → 
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → :
 - [vol-2/01-seeking-marriage.typ note] . → :
@@ -2956,6 +3065,7 @@
 - [vol-2/04-living-together-in-love.typ note] . → :
 - [vol-2/04-living-together-in-love.typ note] . → 
 - [vol-2/04-living-together-in-love.typ note] . → :
+- [vol-2/04-living-together-in-love.typ note] * → 
 - [vol-2/04-living-together-in-love.typ note] § → §.
 - [vol-2/04-living-together-in-love.typ note] . → :
 - [vol-2/04-living-together-in-love.typ note] . → 
@@ -3140,13 +3250,7 @@
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
-- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] & → Gen
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
@@ -3156,9 +3260,19 @@
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → 
+- [vol-2/07-serving-together-in-family-ministry.typ note] . → :
+- [vol-2/07-serving-together-in-family-ministry.typ note] & → 1 Tim
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → 
 - [vol-2/07-serving-together-in-family-ministry.typ note] . → :
@@ -3199,6 +3313,8 @@
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] & → Gen
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
@@ -3262,6 +3378,11 @@
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] & → ;
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
+- [vol-2/08-a-wifes-respect-for-her-husband.typ note] & → Gen
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → 
 - [vol-2/08-a-wifes-respect-for-her-husband.typ note] . → :
@@ -3360,6 +3481,9 @@
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → :
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] & → ;
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → :
+- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → :
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] . → :
@@ -3411,23 +3535,29 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] & → Gen
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] & → Gen
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] & → Gen
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
@@ -3496,6 +3626,8 @@
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → :
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → 
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → :
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] & → Gen
+- [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → :
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → 
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → :
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] . → 
@@ -3536,6 +3668,8 @@
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → :
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → :
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → 
+- [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → :
+- [vol-2/12-a-wifes-submission-to-christ-first.typ note] & → Gen
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → :
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → 
 - [vol-2/12-a-wifes-submission-to-christ-first.typ note] . → :
@@ -3646,6 +3780,8 @@
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → :
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → :
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] & → Prov
+- [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → :
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → :
 - [vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ note] . → 
@@ -3679,6 +3815,10 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] & → Gen
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] & → Gen
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → ,
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] § → §.
@@ -3703,6 +3843,11 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] & → ;
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] & → Prov
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
+- [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → 
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ note] . → :
@@ -3720,6 +3865,8 @@
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → :
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → 
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → :
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → :
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] & → Prov
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → :
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → :
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] . → 
@@ -3854,15 +4001,20 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] & → 1 Sam
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
-- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → 
+- [vol-2/17-a-husbands-providing-for-his-wife.typ note] & → ;
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] . → :
@@ -3892,6 +4044,8 @@
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → 
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → :
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → 
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → :
+- [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] & → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → :
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → 
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] . → :
@@ -3968,7 +4122,13 @@
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
-- [vol-3/01-children-showing-respect-for-parents.typ note] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ note] , → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] & → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] & → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
@@ -3988,13 +4148,19 @@
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ note] & → Gen
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] & → 1 Sam
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
+- [vol-3/01-children-showing-respect-for-parents.typ note] . → :
+- [vol-3/01-children-showing-respect-for-parents.typ note] & → 1 Sam
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] . → :
@@ -4075,6 +4241,12 @@
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
+- [vol-3/02-children-getting-parents-permission.typ note] . → . §. 19.
+- [vol-3/02-children-getting-parents-permission.typ note] § → Num 30:16
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
@@ -4089,6 +4261,12 @@
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
+- [vol-3/02-children-getting-parents-permission.typ note] . → . Bellarm. de Mon. lib. 2. cap. 36.
+- [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
@@ -4106,6 +4284,7 @@
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
+- [vol-3/02-children-getting-parents-permission.typ note] . → . 12. may be applied to this particular.
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
 - [vol-3/02-children-getting-parents-permission.typ note] . → :
 - [vol-3/02-children-getting-parents-permission.typ note] . → 
@@ -4189,6 +4368,17 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → 1 Sam
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → Gen
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → Gen
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 17:
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
@@ -4201,21 +4391,24 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → 
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → ,
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
-- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → . §. 26, etc.
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
@@ -4248,6 +4441,8 @@
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
+- [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] & → Prov
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → 
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . → :
@@ -4299,13 +4494,25 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
@@ -4327,26 +4534,11 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
-- [vol-3/04-children-giving-back-to-parents.typ note] . → 
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
@@ -4358,18 +4550,43 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → ,
 - [vol-3/04-children-giving-back-to-parents.typ note] . → 
+- [vol-3/04-children-giving-back-to-parents.typ note] . → :
+- [vol-3/04-children-giving-back-to-parents.typ note] & → 2 Sam
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ] , → 
 - [vol-3/04-children-giving-back-to-parents.typ] . → 
@@ -4423,6 +4640,12 @@
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → 
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → 
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] & → ;
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → 
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] & → ;
+- [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ note] . → :
@@ -4432,6 +4655,24 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Gen
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Lev
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
@@ -4439,17 +4680,6 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
@@ -4463,12 +4693,16 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Prov
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Gen
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
@@ -4534,25 +4768,40 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → . Luke 1:59; 2:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → h 5:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
@@ -4591,6 +4840,9 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
@@ -4624,21 +4876,20 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → Prov
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
@@ -4646,14 +4897,6 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
-- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
@@ -4663,8 +4906,37 @@
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → Prov
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → Prov
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
+- [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] & → ;
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → 
 - [vol-3/07-parents-nurturing-teaching-and-training-children.typ note] . → :
@@ -4700,16 +4972,34 @@
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
-- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
-- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
-- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
-- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
-- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → ;
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → ;
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
@@ -4718,12 +5008,16 @@
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
+- [vol-3/08-parents-admonishing-and-correcting-children.typ note] & → Prov
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → 
 - [vol-3/08-parents-admonishing-and-correcting-children.typ note] . → :
@@ -4746,11 +5040,15 @@
 - [vol-3/08-parents-admonishing-and-correcting-children.typ] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
-- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → Gen
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → 1
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → Sam
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 35:
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
@@ -4763,8 +5061,16 @@
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → Gen
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 21:
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → Gen
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
@@ -4782,14 +5088,12 @@
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
-- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
-- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
-- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
-- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → Gen
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
@@ -4802,7 +5106,12 @@
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → Gen
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
+- [vol-3/09-parents-directing-children-into-adulthood.typ note] & → ;
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → :
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] . → 
@@ -4858,9 +5167,15 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
-- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] & → Ruth
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] & → Ruth
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] & → Ruth
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → 
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
@@ -4906,6 +5221,9 @@
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] & → ;
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
@@ -4913,6 +5231,8 @@
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 23:
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] & → Ps
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
@@ -5033,22 +5353,23 @@
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
-- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] & → Gen
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
+- [vol-4/03-a-servants-obedience-to-his-master.typ note] . → 
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
@@ -5129,6 +5450,36 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Prov
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
@@ -5137,20 +5488,14 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Gen
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 30:
@@ -5171,12 +5516,7 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → Gen
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5185,6 +5525,16 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] & → ;
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5247,7 +5597,13 @@
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → . Ethic. defin. 75.
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
@@ -5261,37 +5617,24 @@
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → ;
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → ;
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → ;
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → ;
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
-- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
@@ -5301,6 +5644,38 @@
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → Gen
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → Gen
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
+- [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] & → ;
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → :
 - [vol-4/05-a-servants-duty-and-its-limits-under-god.typ note] . → 
@@ -5429,6 +5804,8 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 16:
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] & → ; 27:
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
@@ -5441,8 +5818,8 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
-- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] & → Exod
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] . → :
@@ -5786,7 +6163,6 @@
 - 48 → 48:
 - 5 → 5:
 - 50 → 50.
-- 7 → 7.
 - 74 → 74.
 - 8 → 8:
 - 83 → 83.

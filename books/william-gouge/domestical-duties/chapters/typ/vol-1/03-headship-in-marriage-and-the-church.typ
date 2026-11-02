@@ -170,7 +170,7 @@ This being so, to what end serveth the supposed #emph[treasure of] #footnote[Ref
 
 This relative particle#footnote[αὐτός.] (HE) hath also his emphasis; for as it pointeth out #emph[Christ the head of the Church,] so it restraineth this great work to him: it may thus be translated, #emph[he himself:] that is, he in his own person, he by himself, he and none but he. So as to speak properly,
 
-#emph[Christ is the only Saviour of men:] in which respect he is #footnote[Doct.] called #footnote[Luke 1:69.] #emph[the horn of salvation,] yea #footnote[#emph[&] 2. 30.] #emph[Salvation] it self: which titles are given to him by an #emph[excellency and propriety:] and in the same respect the name #footnote[Matt 1:21.] #emph[Jesus] was given unto him.
+#emph[Christ is the only Saviour of men:] in which respect he is #footnote[Doct.] called #footnote[Luke 1:69.] #emph[the horn of salvation,] yea #footnote[Luke 2:30.] #emph[Salvation] it self: which titles are given to him by an #emph[excellency and propriety:] and in the same respect the name #footnote[Matt 1:21.] #emph[Jesus] was given unto him.
 
 Here by the way note the blasphemous arrogancy of those great sectaries among the Papists, who stile themselves #emph[Jesuits:] assuming that name which is proper to this great office of Jesus Christ.
 

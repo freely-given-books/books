@@ -65,7 +65,7 @@ Contrary, is not only #emph[adultery,] whereof we have spoken #footnote[Treat. 2
 
 === §. 69. #emph[Of husbands loving their wives more then themselves.]
 
-The #emph[quantity] of Christ’s love cannot be expressed: for the #footnote[5\. Christ’s love extended to the giving of himself.] measure of it was above measure. #footnote[Eph 5:25.] #emph[He gave himself] for his Church, and in that respect he calleth himself that #footnote[John 10:11.] #emph[Good shepherd that gave his life for his sheep.] #footnote[#emph[&] 15. 13.] #emph[Greater love then this hath no man.] What will not he do for his spouse, that gave his life for her?
+The #emph[quantity] of Christ’s love cannot be expressed: for the #footnote[5\. Christ’s love extended to the giving of himself.] measure of it was above measure. #footnote[Eph 5:25.] #emph[He gave himself] for his Church, and in that respect he calleth himself that #footnote[John 10:11.] #emph[Good shepherd that gave his life for his sheep.] #footnote[John 15:13.] #emph[Greater love then this hath no man.] What will not he do for his spouse, that gave his life for her?
 
 This may seem to be too high a strain, and pitch of love for an husband to attain unto: a matter wherein he is to #footnote[How husbands must love their wives more then themselves. 1 John 3:16.] leave his pattern, and not to follow Christ: but yet #emph[S. John] addeth even this extent to the love of our brethren: #emph[We ought] (saith he) #emph[to lay down our lives for the brethren:] therefore by just consequence for our wives. But that this extent be not stretched too far, and husbands cast into a pit of needless peril, two cautions must be noted,
 
