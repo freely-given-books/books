@@ -8,11 +8,11 @@
 | kind | count |
 | --- | --- |
 | punctuation | 4982 |
-| case | 3804 |
-| emendation | 3669 |
-| spelling | 2406 |
+| case | 3803 |
+| emendation | 3668 |
+| spelling | 2405 |
 | italic | 1973 |
-| spacing | 1898 |
+| spacing | 1896 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
@@ -1433,8 +1433,8 @@
 - [application-02.typ] Carpenter , → carpenter
 - [application-02.typ] , till he → until He
 - [application-02.typ] agree → agree (Mark 6:3; Matt 13:55–56)
-- [application-02.typ] 10 → :
-- [application-02.typ] 20 → )
+- [application-02.typ] 10 → 
+- [application-02.typ] . The → ); the
 - [application-02.typ] , & c . And → ); and
 - [application-02.typ] Law , That → law that
 - [application-02.typ] Magistrate , → magistrate
@@ -1940,7 +1940,6 @@
 - [application-02.typ] first → “
 - [application-02.typ] , they → ” (Rom 8:23). They
 - [application-02.typ] consolation → consolation (Job 13:15
-- [application-02.typ] 14 → 1
 - [application-02.typ] he → , He
 - [application-02.typ] But , → 
 - [application-02.typ] Seventhly → [7] Seventhly
@@ -2091,7 +2090,7 @@
 - [application-02.typ] would → would as
 - [application-02.typ] ; 'tis → . It is
 - [application-02.typ] 'tis → it is
-- [application-02.typ] difficulties → difficulties (Gen 29:34)
+- [application-02.typ] difficulties → difficulties (Gen 29; 34)
 - [application-02.typ] was → were
 - [application-02.typ] 'Tis → It is
 - [application-02.typ] , to cry → crying
@@ -5611,9 +5610,8 @@
 - [application-02.typ] . → :
 - [application-02.typ] . → );
 - [application-02.typ] , → (
-- [application-02.typ] . → 5
-- [application-02.typ] . → 29
-- [application-02.typ] . → ;
+- [application-02.typ] . → 
+- [application-02.typ] . → 9:
 - [application-02.typ] , → (
 - [application-02.typ] . → 
 - [application-02.typ] . → :
@@ -5801,7 +5799,8 @@
 - [application-02.typ] . → 
 - [application-02.typ] . → :
 - [application-02.typ] , → 
-- [application-02.typ] . → Pet 1:
+- [application-02.typ] . → Pet
+- [application-02.typ] , → :
 - [application-02.typ] . → ;
 - [application-02.typ] . → 
 - [application-02.typ] . → :
@@ -8668,7 +8667,7 @@
 - [application-05.typ] . → !
 - [application-05.typ] , → , “
 - [application-05.typ] , → 
-- [application-05.typ] . → ”
+- [application-05.typ] . → .”
 - [application-05.typ] , → , “
 - [application-05.typ] ; → .
 - [application-05.typ] ; → .
@@ -8882,7 +8881,7 @@
 - King → king (×26)
 - Sirs → sirs (×26)
 - they → They (×25)
-- The → the (×24)
+- The → the (×23)
 - Duties → duties (×22)
 - Crown → crown (×21)
 - Duty → duty (×21)
@@ -10823,7 +10822,6 @@
 - noble → noble,
 - nor → not
 - nothing → anything
-- notions → motions
 - obedientially → obediently
 - oblieged → obliged
 - odour → odor
