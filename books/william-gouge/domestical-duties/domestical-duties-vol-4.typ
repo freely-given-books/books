@@ -1,4 +1,5 @@
 #import "@local/fgbooks:0.14.0": *
+#import "stray-notes.typ": keep-notes
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -17,7 +18,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107).
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107). Greek and Hebrew the transcription could not key are read from the page images of the copy it was made from, words it misread are corrected to the print, and each margin note is set as a footnote after the words it belongs to. This volume opens with the end of the First Treatise (§§ 123–133), its exposition of Ephesians 6:5–9, which belongs with the treatises of servants and masters.
 
     This is volume 4 of four. The complete work is in eight treatises: I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of wives; IV, of husbands; V, of children; VI, of parents; VII, of servants; VIII, of masters.
   ]),
@@ -44,6 +45,8 @@
 // lines) are set as it prints them: no bullet, set in past a paragraph's
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
+// Notes kept on their marker's page (stray-notes.typ; print_check.py)
+#show: keep-notes.with(("341": "s++", "622": "s+", "625": "s++",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
 #include "chapters/typ/vol-4/01-servants-and-masters-in-the-apostles-words.typ"
