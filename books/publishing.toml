@@ -32,6 +32,7 @@ ready = { date = "2026-10-27", commit = "e7f04cb" }
 lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
 
 ["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
+ready = { date = "2026-11-01", commit = "e68ca40" }
 lulu = "https://www.lulu.com/shop/jonathan-edwards-and-courtney-hicks/sinners-in-the-hands-of-an-angry-god/paperback/product-65w6dz7.html"
 
 ["richard-sibbes/the-glorious-feast-of-the-gospel"]
