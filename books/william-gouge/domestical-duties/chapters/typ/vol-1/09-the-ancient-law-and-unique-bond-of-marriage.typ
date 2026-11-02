@@ -17,7 +17,7 @@
 
 Because the opening of the literal sense will give great light to the mystery, I will first handle this text according to the meaning of the letter.
 
-The first clause #emph[(for this cause)] implieth a necessary connection #footnote[ἀντὶ τούτου.] with that which went before. The near union of man and wife, as well as of Christ and his Church, was before noted. A wife was said to be as the #footnote[#emph[Vers.] 28. Gen 2:23.] #emph[body] of a man, yea as #footnote[#emph[Vers.] 28. Gen 2:23.] #emph[himself. Adam] called her his #emph[flesh and bones.] Hereupon both #emph[Moses] and #emph[Paul] infer, #emph[Therefore,] or, #emph[For this cause shall a man leave father.] Because man and wife are so near by God’s institution, they must also be most dear each to other in their mutual affection.
+The first clause #emph[(for this cause)] implieth a necessary connection #footnote[ἀντὶ τούτου.] with that which went before. The near union of man and wife, as well as of Christ and his Church, was before noted. A wife was said to be as the #emph[body]#footnote[#emph[Vers.] 28. Gen 2:23.] of a man, yea as #emph[himself. Adam]#footnote[#emph[Vers.] 28. Gen 2:23.] called her his #emph[flesh and bones.] Hereupon both #emph[Moses] and #emph[Paul] infer, #emph[Therefore,] or, #emph[For this cause shall a man leave father.] Because man and wife are so near by God’s institution, they must also be most dear each to other in their mutual affection.
 
 The #emph[man] (meaning an husband) is here in particular mentioned, #footnote[Meaning of the words.] because at the first making of this Law the woman was brought to him to see how he would like her: and having cast his affection on her, he was to be bound hereby to continue that good liking towards her: as also because of the preheminency which man hath above his wife. Yet is not the man only tied hereby, but the wife also: the nature and rule of relation requireth as much: if a man must inseparably cleave to his wife, the wife must answerably cleave to her husband.
 
@@ -51,7 +51,7 @@ Therein three things are noted concerning the state of marriage.
 
 The first point showeth, that
 
-#emph[A wife, or an husband must be preferred before parents.] The #footnote[Doct.] examples of #footnote[Gen 31:14.] #emph[Leah] and #emph[Rachel,] yea and of #footnote[1 Sam 19:11.] #emph[Michal,] are commendable in this respect.
+#emph[A wife, or an husband must be preferred before parents.] The #footnote[Doct.] examples of #emph[Leah]#footnote[Gen 31:14.] and #emph[Rachel,] yea and of #emph[Michal,]#footnote[1 Sam 19:11.] are commendable in this respect.
 
 1\. The bond of marriage is more ancient, more firm, more #footnote[Reason.] near. There was husband and wife before there was parent and child: and there is a time when parents & children may depart one from another, and that while both live: but no time, wherein man and wife may part asunder till death part them. And children though they come from the flesh of their parents, yet are made two (so as #emph[of one are two)] but husbands and wives though they were two before, yet are made one (so as #emph[of two is one.)]
 
@@ -81,7 +81,7 @@ The third point concerning the nearness of man and wife, in these words #emph[(t
 
 #emph[Object.] This particle #emph[(two)] is not in the law as #emph[Moses] recordeth #footnote[Gen 2:24.] it.
 
-#emph[Answ.] It is there necessarily implied, for at that time there were but two in the world: God then speaking of them, meaneth but two. The same spirit that guided #emph[Moses,] guided also the #footnote[Matt 19:5.] Evangelists, and the #footnote[1 Cor 6:16.] Apostles: so as by their inserting of this particle #emph[(two)] it is certain that it was intended by #emph[Moses:] as the particle #emph[(only)] which Christ putteth into this text, #footnote[Deut 6:13. Matt 4:10.] #emph[him only shalt thou serve.]
+#emph[Answ.] It is there necessarily implied, for at that time there were but two in the world: God then speaking of them, meaneth but two. The same spirit that guided #emph[Moses,] guided also the #footnote[Matt 19:5.] Evangelists, and the #footnote[1 Cor 6:16.] Apostles: so as by their inserting of this particle #emph[(two)] it is certain that it was intended by #emph[Moses:] as the particle #emph[(only)] which Christ putteth into this text, #emph[him only shalt thou serve.]#footnote[Deut 6:13. Matt 4:10.]
 
 #emph[Quest.] Why did God at first make but one man, and one woman?
 
@@ -91,7 +91,7 @@ If therefore there be more then two, it is an adulterous seed which proceedeth f
 
 === §. 83. #emph[Of Polygamy and Bigamy.]
 
-Can Polygamy (the having of many wives) or Bigamy (the having of two wives at once) have any good warrant against such an express law? Are not both of them against the first institution of marriage, so as we may say, #footnote[Matt 19:8.] #emph[from the beginning it was not so?] Yea also and against #footnote[Deut 17:17. Lev 18:18.] other particular laws? #footnote[Gen 4:19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc. Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. Gen 2:18. Gen 16:5; 21:11.] #emph[Lamech] one of #emph[Cain’s] cursed stock was the first that we read of to have presumed against that ancient law.
+Can Polygamy (the having of many wives) or Bigamy (the having of two wives at once) have any good warrant against such an express law? Are not both of them against the first institution of marriage, so as we may say, #emph[from the beginning it was not so?]#footnote[Matt 19:8.] Yea also and against #footnote[Deut 17:17. Lev 18:18.] other particular laws? #emph[Lamech]#footnote[Gen 4:19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc. Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. Gen 2:18. Gen 16:5; 21:11.] one of #emph[Cain’s] cursed stock was the first that we read of to have presumed against that ancient law.
 
 #emph[Object.] Afterwards many Patriarchs, and other Saints took that liberty unto themselves.
 
@@ -135,7 +135,7 @@ The matrimonial conjunction betwixt Christ & the Church is a most preheminent, f
 
 First of the general.
 
-The many espousal, and matrimonial titles, which in Scripture are given to Christ and the Church in mutual relation of one to another, evidently show that they are joined together by the honourable, inseparable and inviolable bond of marriage: He is styled a #footnote[John 3:29.] #emph[bridegroom,] she a #emph[bride:] he #footnote[Song 1:13, 15.] #emph[Well-beloved,] she #emph[love:] he an #footnote[2 Cor 11:2.] #emph[husband,] she a #emph[wife:] he an #footnote[Eph 5:23.] #emph[Head,] she the #emph[Body:] both #footnote[#emph[& vers.] 31.] #emph[one flesh.]
+The many espousal, and matrimonial titles, which in Scripture are given to Christ and the Church in mutual relation of one to another, evidently show that they are joined together by the honourable, inseparable and inviolable bond of marriage: He is styled a #emph[bridegroom,]#footnote[John 3:29.] she a #emph[bride:] he #emph[Well-beloved,]#footnote[Song 1:13, 15.] she #emph[love:] he an #emph[husband,]#footnote[2 Cor 11:2.] she a #emph[wife:] he an #emph[Head,]#footnote[Eph 5:23.] she the #emph[Body:] both #emph[one flesh.]#footnote[#emph[& vers.] 31.]
 
 2\. All things requisite to join man and wife together, do fitly concur betwixt Christ and the Church.
 
