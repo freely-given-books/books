@@ -13,11 +13,11 @@ ready = { date = "2026-11-01", commit = "0dd6a9c" }
 lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
 
 ["charles-spurgeon/all-of-grace"]
-ready = { date = "2026-11-01", commit = "c795ee0" }
+ready = { date = "2026-11-01", commit = "260d2b4" }
 lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
 
 ["john-bunyan/grace-abounding"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-01", commit = "260d2b4" }
 lulu = "https://www.lulu.com/shop/john-bunyan/grace-abounding-to-the-chief-of-sinners/paperback/product-p6mpygr.html"
 note = """The site's grace-abounding is another edition, not Courtney's: this one \
 replaces it entirely, under the same slug and URLs. Licence CC0; credits add \
