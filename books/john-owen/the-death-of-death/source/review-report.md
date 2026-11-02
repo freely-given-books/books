@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 2558 |
-| emendation | 2164 |
-| punctuation | 615 |
-| spelling | 286 |
+| spacing | 2565 |
+| emendation | 2178 |
+| punctuation | 630 |
+| spelling | 289 |
 | grammar | 45 |
 | list | 22 |
 | italic | 7 |
@@ -20,6 +20,7 @@
 
 - [epistle-dedicatory.typ] tendered → tendered for and
 - [epistle-dedicatory.typ] and for → 
+- [to-the-reader.typ note] page 153 of → below in
 - [to-the-reader.typ note] so → to
 - [to-the-reader.typ note] ver → v
 - [to-the-reader.typ] . ix . → 9:
@@ -467,6 +468,9 @@
 - [book-2/chapter-01.typ] and → 
 - [book-2/chapter-01.typ] . v . → 5:
 - [book-2/chapter-01.typ] . viii . → 8:
+- [book-2/chapter-02.typ note] the → the author’s
+- [book-2/chapter-02.typ note] by the author at the end of this volume , → 
+- [book-2/chapter-02.typ note] Justitiâ → Justitiâ” (in volume 10 of his Works)
 - [book-2/chapter-02.typ] xvii → 17
 - [book-2/chapter-02.typ] . i . → 1:
 - [book-2/chapter-02.typ] ii → 2
@@ -1185,7 +1189,6 @@
 - [book-3/chapter-11.typ] . v . → 5:
 - [book-3/chapter-11.typ] the → his
 - [book-3/chapter-11.typ] xx → 20
-- [book-4/chapter-01.typ note] Romans . → Rom
 - [book-4/chapter-01.typ] xx → 20
 - [book-4/chapter-01.typ] . ix . → 9:
 - [book-4/chapter-01.typ] . i . → 1:
@@ -1237,6 +1240,7 @@
 - [book-4/chapter-01.typ] . i . → 1:
 - [book-4/chapter-01.typ] vi → 6
 - [book-4/chapter-01.typ] . iii . → 3:
+- [book-4/chapter-01.typ] v → 5
 - [book-4/chapter-01.typ] vii → 7
 - [book-4/chapter-01.typ] . xiii . → 13:
 - [book-4/chapter-01.typ] . xviii . → 18:
@@ -1412,7 +1416,10 @@
 - [book-4/chapter-03.typ] the → this
 - [book-4/chapter-03.typ] I write an old → That
 - [book-4/chapter-03.typ] , which ye had from the beginning , … → 
-- [book-4/chapter-03.typ] i → 1
+- [book-4/chapter-03.typ] i . → 1
+- [book-4/chapter-03.typ] v . → 5
+- [book-4/chapter-03.typ] x . → 10
+- [book-4/chapter-03.typ] xi → 11
 - [book-4/chapter-03.typ] also → then
 - [book-4/chapter-03.typ] . i . → 1:
 - [book-4/chapter-03.typ] xi → 11
@@ -1444,6 +1451,7 @@
 - [book-4/chapter-03.typ] . i . → 1:
 - [book-4/chapter-03.typ] . ix . → 9:
 - [book-4/chapter-03.typ] . iii . → 3:
+- [book-4/chapter-03.typ] v → 5
 - [book-4/chapter-03.typ] i → 1
 - [book-4/chapter-03.typ] . i . → 1:
 - [book-4/chapter-03.typ] . i . → 1:
@@ -1518,6 +1526,7 @@
 - [book-4/chapter-04.typ] . v . → 5:
 - [book-4/chapter-04.typ] . ii . → 2:
 - [book-4/chapter-04.typ] iii → 3
+- [book-4/chapter-04.typ] v → 5
 - [book-4/chapter-04.typ] . ix . → 9:
 - [book-4/chapter-04.typ] hath done → doth
 - [book-4/chapter-04.typ] hath pleased → pleaseth in heaven and earth
@@ -1653,7 +1662,7 @@
 - [book-4/chapter-05.typ] Chron . xxix . → Chr 29:
 - [book-4/chapter-05.typ] . xvi . → 16:
 - [book-4/chapter-05.typ] Thomas More → T. M.
-- [book-4/chapter-05.typ] xx → 20
+- [book-4/chapter-05.typ] xx [ vi ] . → 20
 - [book-4/chapter-06.typ] . xxii . → 22:
 - [book-4/chapter-06.typ] . viii . → 8:
 - [book-4/chapter-06.typ] . i . → 1:
@@ -1711,7 +1720,9 @@
 - [book-4/chapter-06.typ] in → to
 - [book-4/chapter-06.typ] the → the two
 - [book-4/chapter-06.typ] two → 
-- [book-4/chapter-06.typ] . xii . → 12:
+- [book-4/chapter-06.typ] . xii . 6 , xviii . → 12:1; 18:
+- [book-4/chapter-06.typ] cxix → 119
+- [book-4/chapter-06.typ] 4 → 40
 - [book-4/chapter-06.typ] . xiv . → 14:
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] . xiv . → 14:
@@ -1907,6 +1918,7 @@
 - [book-4/chapter-06.typ] any → a
 - [book-4/chapter-06.typ] . v . → 5:
 - [book-4/chapter-06.typ] . iii . → 3:
+- [book-4/chapter-06.typ] v → 5
 - [book-4/chapter-06.typ] . xv . → 15:
 - [book-4/chapter-06.typ] viii → 8
 - [book-4/chapter-06.typ] . v . → 5:
@@ -2079,6 +2091,7 @@
 - [book-4/chapter-07.typ] Tit . i . → Titus 1:
 - [book-4/chapter-07.typ] . i . → 1:
 - [book-4/chapter-07.typ] iii → 3
+- [book-4/chapter-07.typ] v → 5
 - [book-4/chapter-07.typ] . v . → 5:
 - [book-4/chapter-07.typ] it → 
 - [book-4/chapter-07.typ] be → 
@@ -2133,6 +2146,7 @@
 - [appendix-2-sprigge.typ] . ix . → 9:
 - [appendix-2-sprigge.typ] i → 1
 - [appendix-2-sprigge.typ] . ix . → 9:
+- [appendix-2-sprigge.typ] x → 10
 - [appendix-2-sprigge.typ] . ii . → 2:
 - [appendix-2-sprigge.typ] v → 5
 - [appendix-2-sprigge.typ] vii → 7
@@ -2332,6 +2346,7 @@
 - [book-2/chapter-01.typ] . → :
 - [book-2/chapter-01.typ] , → 
 - [book-2/chapter-01.typ] , → , it
+- [book-2/chapter-02.typ note] ” → 
 - [book-2/chapter-02.typ] . → :
 - [book-2/chapter-02.typ] . → :
 - [book-2/chapter-02.typ] . → :
@@ -2489,6 +2504,8 @@
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] , → ;
 - [book-4/chapter-01.typ] . → :
+- [book-4/chapter-01.typ] , → ;
+- [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] . → :
 - [book-4/chapter-01.typ] , → ;
@@ -2577,6 +2594,7 @@
 - [book-4/chapter-03.typ] , → ;
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] , → ;
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
@@ -2598,6 +2616,9 @@
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
 - [book-4/chapter-03.typ] . → :
+- [book-4/chapter-03.typ] . → :
+- [book-4/chapter-04.typ] . → :
+- [book-4/chapter-04.typ] , → ;
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
 - [book-4/chapter-04.typ] . → :
@@ -2643,6 +2664,8 @@
 - [book-4/chapter-06.typ] . → ,
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → , that
@@ -2739,6 +2762,8 @@
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
+- [book-4/chapter-06.typ] , → ;
+- [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] . → :
 - [book-4/chapter-06.typ] , → ;
 - [book-4/chapter-06.typ] . → :
@@ -2790,6 +2815,8 @@
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] , → ;
 - [book-4/chapter-07.typ] . → :
+- [book-4/chapter-07.typ] , → ;
+- [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] . → :
 - [book-4/chapter-07.typ] [ → 
 - [book-4/chapter-07.typ] ] → 
@@ -2800,6 +2827,8 @@
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
@@ -2859,6 +2888,7 @@
 - to → into (×2)
 - voice → noise (×2)
 - word → words (×2)
+- Arminanism → Arminianism
 - Bible → Bibles
 - Distinctively → Distinctly
 - Eighthly → Ninthly
@@ -2872,6 +2902,7 @@
 - accomplishment → accomplishments
 - affirm → affirming
 - affliction → afflictions
+- aggravatior → aggravation
 - appointment → disappointment
 - apprehension → apprehensions
 - as → a
@@ -2881,6 +2912,7 @@
 - came → comes
 - cases → causes
 - certainty → certainly
+- colouribus → coloribus
 - come → comes
 - comes → come
 - conceive → perceive
@@ -2938,6 +2970,7 @@
 - peecatorum → peccatorum
 - presumptuously → contemptuously
 - promise → promises
+- promises → premises
 - rebellion → rebellions
 - receive → received
 - righteously → rightly
@@ -2968,7 +3001,6 @@
 - truth → truths
 - undeniable → undeniably
 - upon → on
-- v → vv
 - water → waters
 - way → ways
 - where → when
