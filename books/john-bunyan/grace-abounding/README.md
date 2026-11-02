@@ -17,23 +17,25 @@ published 1666; enlarged by Bunyan up to the sixth edition, 1688).
 | `cover.typ` | the cover wrap (`scripts/panel_cover.typ`, ochre); its front panel is the ebook cover |
 | `ebook-front.html` | ebook front matter (licence, epigraph) |
 | `ebook-override.css` | ebook styling on top of `../../resources/css/ebook.css` |
-| `source/grace.thml.xml` | CCEL's ThML, untouched ([ccel.org/ccel/b/bunyan/grace.xml](https://www.ccel.org/ccel/b/bunyan/grace.xml)): the provenance |
-| `source/A30143.witness.xml` | witness: the 1666 first edition, EEBO-TCP [A30143](https://github.com/textcreationpartnership/A30143), untouched |
-| `source/grace-abounding.tei.xml` | enriched TEI edition: the CCEL text plus every editorial decision inline |
+| `source/grace-abounding-1688.tcp.xml` | **the source**: our transcription (CC0) of the sixth edition (London: Nath. Ponder, 1688), the last in Bunyan's lifetime, as printed (spelling, section numbers, italics, page breaks); `source/transcription-report.md` says how it was made |
+| `source/transcription/` | the scripts that made it from the Kraken OCR and the witnesses, and the reading text's decisions (`apply_1688.py`) |
+| `source/grace-abounding.tei.xml` | enriched TEI edition: the 1688 text plus every editorial decision inline |
 | `source/editorial.py` | the book's settings |
-| `source/review-report.md` | the editor decisions (corrections to CCEL) |
-| `source/witness-report.md` | where the 1666 first edition, the 1688 sixth edition and the 1905 RTS text (Gutenberg #654) differ, and the words restored from them |
-| `source/ocr/` | witness: the 1688 sixth edition, Bunyan's last, local OCR (GLM-OCR, Tesseract) of the archive.org scan; `collation-1688.jsonl` and `collation-gutenberg654.json` are the collations; the raw per-page bundle (`ocr-witnesses/`) is not in git |
+| `source/review-report.md` | the editor decisions (the reading text against the 1688 print) |
+| `source/grace.ccel.witness.xml` | witness: CCEL's ThML ([ccel.org/ccel/b/bunyan/grace.xml](https://www.ccel.org/ccel/b/bunyan/grace.xml)), a later printing's text, the previous edition's source |
+| `source/A30143.witness.xml` | witness: the 1666 first edition, EEBO-TCP [A30143](https://github.com/textcreationpartnership/A30143), untouched; the text of the passages 1688 cut |
+| `source/witness-report.md` | the previous edition's collations (1666, 1688 OCR, RTS 1905) and the editor's rule of 2026-10-26 |
+| `source/ocr/` | the 1688 GLM-OCR and Tesseract witnesses; the raw bundle (`ocr-witnesses/`) is not in git |
 
-The text begins from CCEL's, which is Bunyan's enlarged text but in a later
-printing's wording. Its words follow Bunyan's own printings: the 1688 sixth
-edition, the last in his lifetime, where it is confirmed (by the 1666 first
-edition, the 1905 RTS text or the page image), and 1666 where 1688 is
-unclear. Spelling, period grammar and old words with a clean modern
-equivalent stay modern; passages 1688 cut are kept from 1666
-(`source/witness-report.md`). CCEL's "Publisher's Foreword", a modern biography
-of Bunyan, is not part of this edition (it stays in `grace.thml.xml`); nor
-are CCEL's contents and scripture index.
+The text is the 1688 sixth edition, newly transcribed from the page images
+(2026-11-01): Kraken OCR of every page, corrected where six witnesses outvote
+it, every disagreement read on the page image. The reading text keeps the
+editor's rule of 2026-10-26: Bunyan's 1688 wording in modern spelling; the
+passages 1688 cut kept from 1666 (the five the rule names, and two more);
+period grammar and old words with a clean modern equivalent modern; and the
+1688 italics (the editor, 2026-11-01: they meant something then). The
+section numbers are the standard ones; the 1688 layer keeps the print's
+(which skip 73 and give 285 twice).
 
 ## Everyday commands
 

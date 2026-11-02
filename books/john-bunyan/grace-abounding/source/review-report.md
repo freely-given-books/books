@@ -2,869 +2,4248 @@
 
 | kind | count |
 | --- | --- |
-| emendation | 368 |
-| punctuation | 350 |
-| spacing | 97 |
-| spelling | 96 |
-| case | 60 |
-| grammar | 8 |
-| italic | 1 |
-| merge | 1 |
+| case | 2433 |
+| punctuation | 1862 |
+| emendation | 1046 |
+| spelling | 943 |
+| spacing | 690 |
+| italic | 376 |
+| grammar | 21 |
+| merge | 2 |
+| split | 1 |
+| skipped | 1 |
+
+## split
+
+- [relation.typ] paragraph → 1 split(s) at I
+
+## skipped
+
+- [preface.typ] merge at 'John' → not a paragraph
 
 ## emendation
 
-- [preface.typ] Sol . → Song
-- [preface.typ] own → 
-- [preface.typ] Ex . → Exod
-- [preface.typ] I → 1
-- [preface.typ] the → 
-- [preface.typ] 4 → 
-- [preface.typ] support unto → supported
-- [preface.typ] through → out of
-- [preface.typ] the → 
-- [preface.typ] my → 
-- [relation.typ] and that → 
-- [relation.typ] II → 2
-- [relation.typ] eternal → 
-- [relation.typ] I → I indeed
-- [relation.typ] Yet → But
-- [relation.typ] to → 
-- [relation.typ] merciful → merciful unto me
-- [relation.typ] also → also I
-- [relation.typ] I → 
-- [relation.typ] a → the
-- [relation.typ] other → other my
-- [relation.typ] on → of
-- [relation.typ] to → 
-- [relation.typ] sort → form
-- [relation.typ] than → 
-- [relation.typ] the soul → souls
-- [relation.typ] she → she also
-- [relation.typ] a → the
-- [relation.typ] is → is but
-- [relation.typ] and → and suchlike
-- [relation.typ] of that nature → 
-- [relation.typ] but → 
-- [relation.typ] and truly → for
-- [relation.typ] it → 
-- [relation.typ] of → by
-- [relation.typ] and → 
-- [relation.typ] now → 
-- [relation.typ] , for → ;
-- [relation.typ] as → and
-- [relation.typ] a → a very
-- [relation.typ] it → 
-- [relation.typ] heart → heart before
-- [relation.typ] we → I
-- [relation.typ] they → they only
-- [relation.typ] only → 
-- [relation.typ] such → such cursed
-- [relation.typ] apostle → apostle St.
-- [relation.typ] have → have seen
-- [relation.typ] seen → 
-- [relation.typ] if → 
-- [relation.typ] of → 
-- [relation.typ] never → not
-- [relation.typ] but → now
-- [relation.typ] then → then was
-- [relation.typ] was → 
-- [relation.typ] unless → unless also
-- [relation.typ] all → 
-- [relation.typ] the Lord → God
+- [preface.typ] Word . → word
+- [preface.typ] you - ward → youward
+- [preface.typ] Thes . → Thess
+- [preface.typ] , 6 , 7 , 8 → –9)
+- [preface.typ] my self → myself
+- [preface.typ] something → something of
+- [preface.typ] Relation . Of → relation of
+- [preface.typ] , Risings → risings
+- [preface.typ] Scripture → Scripture (Isa 38:19)
+- [preface.typ] Isa . 38 . 19 . → ‘
+- [preface.typ] , Lev . → (Deut
+- [preface.typ] Psal → (Ps
+- [preface.typ] , 4 , → –
+- [preface.typ] , Numb . → (Num
+- [preface.typ] Wilderness : → wilderness. ‘
+- [preface.typ] , 3 → )
+- [preface.typ] Exod → Exod 12:42)
+- [preface.typ] 12 . 42 . → ‘
+- [preface.typ] David → David (Ps 42:6)
+- [preface.typ] Psal → 
+- [preface.typ] 42 → 
+- [preface.typ] 6 → 
+- [preface.typ] manner → manner (Acts 22)
+- [preface.typ] Act . 22 . And → and
+- [preface.typ] Life → life (Acts 24)
+- [preface.typ] Act . 24 . Even → even
+- [preface.typ] , Numb . → (Num
+- [preface.typ] yet → yet ‘
+- [preface.typ] Works , Psal . → works’ (Ps
+- [preface.typ] , 12 → –13)
+- [preface.typ] Sins , → sins
+- [preface.typ] Hearts , Psal . 73 . → hearts (Ps 77:
+- [preface.typ] , 6 , 7 , 8 , 9 , 10 , 11 , → –
+- [preface.typ] that → there
+- [preface.typ] Milk - → milk
+- [preface.typ] Kindness , → kindness
+- [preface.typ] God → God did not play in convincing of me, the devil
+- [preface.typ] John Bunyan . → 
+- [relation.typ] IN → 1. In
+- [relation.typ] and → and ‘
+- [relation.typ] be → be ‘
+- [relation.typ] Devil , → devil
+- [relation.typ] The → , the
+- [relation.typ] it self → itself
+- [relation.typ] Devils , → devils
+- [relation.typ] the → the day of judgment, and that both night and day, and should tremble at the thoughts of the
+- [relation.typ] Hell - → hell
+- [relation.typ] Devils , → devils
+- [relation.typ] Sports , → sports
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] , 15 → )
+- [relation.typ] my self → myself
+- [relation.typ] ake → ache
+- [relation.typ] Boat , → boat
+- [relation.typ] - River → river
+- [relation.typ] high - way → highway
+- [relation.typ] mine → my
+- [relation.typ] my self → myself
+- [relation.typ] Musket - → musket
+- [relation.typ] house - hold - → household
+- [relation.typ] Path - way → Pathway
+- [relation.typ] over - run → overrun
+- [relation.typ] High - → high
+- [relation.typ] Where fore → Wherefore
+- [relation.typ] , Eccles . → (Eccl
+- [relation.typ] my self → myself
+- [relation.typ] . ) Wherefore → , wherefore
+- [relation.typ] Heaven , → heaven
+- [relation.typ] all so → also
+- [relation.typ] But , → but
+- [relation.typ] over - run → overrun
+- [relation.typ] Jer → Jer 2:25; 18:12)
+- [relation.typ] 2 25 . And 18 . 12 . ) → 
+- [relation.typ] mad - man → madman
+- [relation.typ] Heaven : Wherefore → heaven; wherefore,
+- [relation.typ] my self → myself
+- [relation.typ] Religion : Wherefore → religion; wherefore,
+- [relation.typ] such like → suchlike
+- [relation.typ] fearful → fearful; well, this, I say, continued about a twelvemonth or more
+- [relation.typ] Bethlehem → Bedlam
+- [relation.typ] right’honest → right honest
+- [relation.typ] , Oh → oh
+- [relation.typ] twelve - month , → twelvemonth
+- [relation.typ] my self → myself
+- [relation.typ] Steeple - → steeple
+- [relation.typ] my self → myself
+- [relation.typ] Steeple - → steeple
+- [relation.typ] Steeple - → steeple
+- [relation.typ] Steeple it self → steeple itself
+- [relation.typ] Steeple - → steeple
+- [relation.typ] any thing → anything
+- [relation.typ] were → was
+- [relation.typ] my self → myself
+- [relation.typ] my self , → myself
+- [relation.typ] Religion But → religion, but
+- [relation.typ] me - thought → methought
+- [relation.typ] Numb → (
+- [relation.typ] ; ( → ,
+- [relation.typ] : ) The → ; the
+- [relation.typ] an Horse - leach → a horse leech
+- [relation.typ] . Yea → ); yea
+- [relation.typ] Ran ters Books → ranters’ books
+- [relation.typ] Country - men → countrymen,
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] me - thought → methought
+- [relation.typ] passage → passage, ‘
+- [relation.typ] 1Cor . → (1 Cor
+- [relation.typ] 12 → 12:8, 9)
+- [relation.typ] Faith , → faith
+- [relation.typ] no → no; for I feared that it shut me out of all the blessings that other good people had given them of God
+- [relation.typ] Faith → faith in my soul
+- [relation.typ] my self → myself
+- [relation.typ] Cast - away → castaway
+- [relation.typ] my self → myself
+- [relation.typ] I → I might in this deceive myself, that I
+- [relation.typ] Faith , → faith
+- [relation.typ] my self → myself
+- [relation.typ] Art , → art
+- [relation.typ] Miracle , → miracle
+- [relation.typ] Horse - → horse
+- [relation.typ] Hedge , → hedge
+- [relation.typ] Cast - away , → castaway
+- [relation.typ] concluded → concluded that
+- [relation.typ] that → 
+- [relation.typ] betwixt → between
+- [relation.typ] Sunny - → sunny
+- [relation.typ] Clouds : Me - thought → clouds. Methought,
+- [relation.typ] my self → myself
+- [relation.typ] my → myself
+- [relation.typ] self → ,
+- [relation.typ] door - way , → doorway
+- [relation.typ] me - thought → , methought
+- [relation.typ] Was → , was
+- [relation.typ] Job → (John 14:6; Matt 7:14)
+- [relation.typ] 14 → 
+- [relation.typ] 6 → 
+- [relation.typ] Mat → 
+- [relation.typ] 7 → 
+- [relation.typ] 14 → 
+- [relation.typ] down - right → downright
+- [relation.typ] my self → myself
+- [relation.typ] Sun - shine : → sunshine.
+- [relation.typ] , whereever → wherever
+- [relation.typ] fifty first → 51st
+- [relation.typ] 9 → 9:16)
+- [relation.typ] that → 
+- [relation.typ] ; ( indeed → . Indeed
+- [relation.typ] my self → myself
+- [relation.typ] lightned , → lightened
+- [relation.typ] wonder’d , → wondered
+- [relation.typ] , Ecclus . → 
+- [relation.typ] over - stood → overstood
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] them → them, ‘
+- [relation.typ] out - weighed → outweighed
+- [relation.typ] Death , → death
+- [relation.typ] . 18 , → :
+- [relation.typ] Hell - → hell
+- [relation.typ] Cud , → cud
+- [relation.typ] Hoof , → hoof
+- [relation.typ] Cud , → cud
+- [relation.typ] World , → world
+- [relation.typ] Rest , → rest
+- [relation.typ] Glory , → glory
+- [relation.typ] 74 → 73
+- [relation.typ] Soul , → soul
+- [relation.typ] 75 → 74
+- [relation.typ] every one → everyone
+- [relation.typ] Psal → (Ps
+- [relation.typ] 16 → 16:6)
+- [relation.typ] Mountain , → mountain
+- [relation.typ] him , Mar . → Him (Mark
+- [relation.typ] 76 → 75
+- [relation.typ] called → called ‘
+- [relation.typ] , Oh → oh
+- [relation.typ] , Oh → oh
+- [relation.typ] 77 → 76.
+- [relation.typ] 78 → 77
+- [relation.typ] Soul , → soul
+- [relation.typ] Bird , → bird
+- [relation.typ] 79 → 78
+- [relation.typ] 80 → 79
+- [relation.typ] 81 → 80
+- [relation.typ] . Mar . → ; Mark
+- [relation.typ] 82 → 81
+- [relation.typ] it self → itself
+- [relation.typ] , Psal . → (Ps
+- [relation.typ] . That → that
+- [relation.typ] 83 → 82
+- [relation.typ] my self → myself
+- [relation.typ] Bog , → bog
+- [relation.typ] 84 → 83
+- [relation.typ] Righteousness , → righteousness
+- [relation.typ] no where → nowhere
+- [relation.typ] 85 → 84
+- [relation.typ] mine → my
+- [relation.typ] every one → everyone
+- [relation.typ] any body → anybody
+- [relation.typ] 86 → 85
+- [relation.typ] a - do → ado
+- [relation.typ] my self → myself
+- [relation.typ] Spirit , → spirit
+- [relation.typ] 87 → ’
+- [relation.typ] 87 → 86
+- [relation.typ] found → found that
+- [relation.typ] that → 
+- [relation.typ] Hell - → hell
+- [relation.typ] : Now → ; now,
+- [relation.typ] 88 → 87
+- [relation.typ] Man , → man
+- [relation.typ] my self → myself
+- [relation.typ] 89 → 88
+- [relation.typ] Hell - → hell
+- [relation.typ] 20 → 89
+- [relation.typ] Song → Song 4:1
+- [relation.typ] ( Song 4 . 1 . ) → ‘
+- [relation.typ] Christ's Love , → Christ’s love
+- [relation.typ] Christ's Love , → Christ’s love
+- [relation.typ] Love , → love
+- [relation.typ] 91 → 90
+- [relation.typ] MY LOVE → ‘My love’
+- [relation.typ] 92 → 91
+- [relation.typ] But → , but
+- [relation.typ] He → he ‘
+- [relation.typ] 93 → 92
+- [relation.typ] : But , → ; but
+- [relation.typ] 94 → 93
+- [relation.typ] Scripture ; → scripture, ‘
+- [relation.typ] you , Luk . → you’ (Luke
+- [relation.typ] 22 → 22:31)
+- [relation.typ] me - thought , → methought
+- [relation.typ] It → ; it
+- [relation.typ] 95 → 94
+- [relation.typ] me - thinks → methinks
+- [relation.typ] some body → somebody
+- [relation.typ] 96 → 95
+- [relation.typ] Heaven , → heaven
+- [relation.typ] 97 → 96
 - [relation.typ] was → were
-- [relation.typ] then → 
-- [relation.typ] thought → 
-- [relation.typ] I → I had
-- [relation.typ] for wickedness → 
-- [relation.typ] would strongly → 
-- [relation.typ] desires → desires also
-- [relation.typ] whereas → whereas before
-- [relation.typ] my heart → it
-- [relation.typ] her → me
-- [relation.typ] now → now I
-- [relation.typ] I → 
-- [relation.typ] me → me as
-- [relation.typ] a → the
-- [relation.typ] that → the
-- [relation.typ] a → 
-- [relation.typ] was → was as
-- [relation.typ] oh → ah
-- [relation.typ] rich → rich should
-- [relation.typ] should → 
-- [relation.typ] then they → 
-- [relation.typ] but they → yet
-- [relation.typ] and , therefore → now
-- [relation.typ] now → now I
-- [relation.typ] I → 
-- [relation.typ] in → to
-- [relation.typ] sight → wrath
-- [relation.typ] I → they
-- [relation.typ] in → 
-- [relation.typ] and → and have told
-- [relation.typ] to → 
-- [relation.typ] it would make me → I should
-- [relation.typ] also → 
-- [relation.typ] , or no → 
-- [relation.typ] both that → the
-- [relation.typ] magnifying → magnifying of
-- [relation.typ] in → to
-- [relation.typ] under → in
-- [relation.typ] apron → arms
-- [relation.typ] scream → shriek
-- [relation.typ] that → it
-- [relation.typ] Now → Now again
-- [relation.typ] blessed → beheld
-- [relation.typ] for → , or
-- [relation.typ] , saith my God → 
-- [relation.typ] the → 
-- [relation.typ] fool → soul
-- [relation.typ] II Cor . → 2 Corinthians
-- [relation.typ] also , → 
-- [relation.typ] then → 
-- [relation.typ] these → these words
-- [relation.typ] pressed → would
-- [relation.typ] up → bid
-- [relation.typ] to → us
-- [relation.typ] as → that
-- [relation.typ] what → 
-- [relation.typ] His → the
-- [relation.typ] He → He had
-- [relation.typ] at → out of
-- [relation.typ] much → 
-- [relation.typ] both → 
-- [relation.typ] as → 
-- [relation.typ] things → truth
-- [relation.typ] for me → 
-- [relation.typ] might → might so
-- [relation.typ] so → 
-- [relation.typ] before → before me, and cause them to dwell with me, talk with
-- [relation.typ] Now → Now I
-- [relation.typ] I → 
-- [relation.typ] might → might be
-- [relation.typ] be → 
-- [relation.typ] with → of
-- [relation.typ] also → 
+- [relation.typ] 98 → 97
+- [relation.typ] an Heaven ; ) → a heaven,
+- [relation.typ] one → 
+- [relation.typ] 99 → 98
+- [relation.typ] 100 → 99
+- [relation.typ] whirl - wind → whirlwind
+- [relation.typ] 101 → 100
+- [relation.typ] over - flow → overflow
+- [relation.typ] 102 → 101
+- [relation.typ] 103 → 102
+- [relation.typ] 104 → 103
+- [relation.typ] 105 → 104
+- [relation.typ] every thing → everything
+- [relation.typ] , Isa → 
+- [relation.typ] 57 . 20 , 21 . → ’
+- [relation.typ] 106 → 105
+- [relation.typ] 107 → 106
+- [relation.typ] 108 → 107
+- [relation.typ] I → I should see the devil; nay, thought I
+- [relation.typ] If → , ‘if
+- [relation.typ] me , Mat . → me’ (Matt
+- [relation.typ] 109 → 108
+- [relation.typ] . The → the
+- [relation.typ] 110 → 109
+- [relation.typ] it self → itself
+- [relation.typ] me , → Me
+- [relation.typ] 111 → 110
+- [relation.typ] : ) → .
+- [relation.typ] 112 → 111
+- [relation.typ] my self → myself
+- [relation.typ] : But , → ; but
+- [relation.typ] . 26 . → :27
+- [relation.typ] Shall → , ‘shall
+- [relation.typ] 113 → 112
+- [relation.typ] Jer → the third of Jer
+- [relation.typ] 3 → 
+- [relation.typ] ver . 5 . Of → the fifth verse of
+- [relation.typ] 114 → 113
+- [relation.typ] Cor . → Corinthians
+- [relation.typ] . 12 . → :21: ‘
+- [relation.typ] , Act . → (Acts
+- [relation.typ] 115 → 114
+- [relation.typ] me → me; and
 - [relation.typ] and → 
-- [relation.typ] my → 
-- [relation.typ] down → down fell
-- [relation.typ] fell → 
-- [relation.typ] one → on that
-- [relation.typ] also → indeed
-- [relation.typ] in → in a
-- [relation.typ] third → 
-- [relation.typ] and that → 
-- [relation.typ] discern → consider
-- [relation.typ] how → 
-- [relation.typ] to → 
-- [relation.typ] but → yet
-- [relation.typ] that → if
-- [relation.typ] do → 
-- [relation.typ] was → should
-- [relation.typ] I → I be
-- [relation.typ] in sunder → asunder
-- [relation.typ] I → 
-- [relation.typ] that is → 
-- [relation.typ] should → should be
-- [relation.typ] be → 
-- [relation.typ] thought → 
-- [relation.typ] yea → but yet
-- [relation.typ] sins → fits
-- [relation.typ] cry → cry, ‘Return unto me’; it would cry aloud with a very great voice
-- [relation.typ] I → I had
-- [relation.typ] and → of
-- [relation.typ] of → of a
-- [relation.typ] a → 
-- [relation.typ] threatening → threatening of
-- [relation.typ] shall → should
-- [relation.typ] Jesus → Jesus Christ
-- [relation.typ] saw → saw that
-- [relation.typ] God → He
-- [relation.typ] thou → 
-- [relation.typ] you → you have
-- [relation.typ] away → 
-- [relation.typ] you → 
-- [relation.typ] yourself → yourself to
-- [relation.typ] when → when yet
-- [relation.typ] thought → 
-- [relation.typ] my → the
-- [relation.typ] this → this good
-- [relation.typ] with → with an
-- [relation.typ] at → in
-- [relation.typ] to → 
-- [relation.typ] I → I had
-- [relation.typ] shall → should
-- [relation.typ] again → 
-- [relation.typ] have → had
+- [relation.typ] 116 → 115
+- [relation.typ] Country , → country
+- [relation.typ] hath → hath ‘
+- [relation.typ] Soul , → soul
+- [relation.typ] 117 → 116
+- [relation.typ] was set → sat
+- [relation.typ] 118 → 117
+- [relation.typ] rests → rests that
 - [relation.typ] that → 
-- [relation.typ] a → some
-- [relation.typ] was → was but
-- [relation.typ] His → 
-- [relation.typ] I → I cannot
-- [relation.typ] cannot → 
-- [relation.typ] the → this
-- [relation.typ] so → 
-- [relation.typ] such → 
+- [relation.typ] to → to take and make to our souls
+- [relation.typ] 119 → 118
+- [relation.typ] Soul , → soul
+- [relation.typ] God → God that
 - [relation.typ] that → 
-- [relation.typ] more → more such as I
-- [relation.typ] in → in it
-- [relation.typ] how → how might
-- [relation.typ] might → 
-- [relation.typ] II → 2
-- [relation.typ] Thus → Thus I
-- [relation.typ] I → 
-- [relation.typ] would → wonder
-- [relation.typ] II → 2
-- [relation.typ] scripture → scripture also
-- [relation.typ] also → now
-- [relation.typ] have → 
-- [relation.typ] But → Yet
-- [relation.typ] that → 
-- [relation.typ] did → did it
-- [relation.typ] shed blood → 
-- [relation.typ] not → not out
-- [relation.typ] did → did it
-- [relation.typ] wishing → wishing of
-- [relation.typ] on me → 
-- [relation.typ] ver → vv
-- [relation.typ] ver → v
-- [relation.typ] ver → v
-- [relation.typ] for → 
-- [relation.typ] is → was
+- [relation.typ] Glory , → glory
+- [relation.typ] , Mat . → (Matt
+- [relation.typ] Joh . → John
+- [relation.typ] 120 → 119
+- [relation.typ] his Ascention , → His ascension
+- [relation.typ] Heaven , → heaven
+- [relation.typ] 121 → 120
+- [relation.typ] any thing → anything
+- [relation.typ] : Me thought → . Methought
+- [relation.typ] Birth , → birth
+- [relation.typ] Judgment : Me - thought → judgment. Methought
+- [relation.typ] Cradle , → cradle
+- [relation.typ] his → , His
+- [relation.typ] 12 → 19
+- [relation.typ] 122 → 121
+- [relation.typ] Right - Hand → right hand
+- [relation.typ] Heaven , → heaven
+- [relation.typ] Act . → Acts
+- [relation.typ] . & → ;
+- [relation.typ] . & → ;
+- [relation.typ] . & → ;
+- [relation.typ] 38 → 3
+- [relation.typ] Thes . → Thess
+- [relation.typ] 123 → 122
+- [relation.typ] my self → myself
+- [relation.typ] Rev . 5 . Came → the fifth of the Revelations came
+- [relation.typ] me - thought → methought
+- [relation.typ] 124 → 123
+- [relation.typ] 125 → 124
+- [relation.typ] That → 5. That
+- [relation.typ] Church - yard , → churchyard
+- [relation.typ] Man , → man
+- [relation.typ] 126 → 125
+- [relation.typ] 127 → 126
+- [relation.typ] 128 → 127
+- [relation.typ] , he → He
+- [relation.typ] Conscience , → conscience
+- [relation.typ] 129 → 128
+- [relation.typ] him , → Him
+- [relation.typ] there - from , → therefrom
+- [relation.typ] : And , Oh → ; and oh
+- [relation.typ] 130 → 129
+- [relation.typ] any → 
+- [relation.typ] 131 → 130
+- [relation.typ] Hell , → hell
+- [relation.typ] me thinks → , methinks,
+- [relation.typ] 132 → 131
+- [relation.typ] me - thought → methought
+- [relation.typ] 133 → 132
+- [relation.typ] man ner → manner
+- [relation.typ] Heaven , → heaven
+- [relation.typ] 134 → 133
+- [relation.typ] any thing → anything
+- [relation.typ] 135 → 134
+- [relation.typ] my self ) → myself,
+- [relation.typ] For → ‘
+- [relation.typ] 136 → 135
+- [relation.typ] dis - like → dislike
+- [relation.typ] inter - mix it self → intermix itself
+- [relation.typ] 137 → 136
+- [relation.typ] 138 → 137
+- [relation.typ] some times ; → sometimes,
+- [relation.typ] gain - say → gainsay
+- [relation.typ] 139 → 138
+- [relation.typ] my self → myself
+- [relation.typ] 140 → 139
+- [relation.typ] 141 → 140
+- [relation.typ] 142 → 141
+- [relation.typ] birth right : → birthright;
+- [relation.typ] 143 → 142
+- [relation.typ] my self → myself
+- [relation.typ] 144 → 143
+- [relation.typ] Soul , → soul
+- [relation.typ] a - clock → o’clock
+- [relation.typ] my self → myself
+- [relation.typ] . Sentence → sentence
+- [relation.typ] Joh . → John
+- [relation.typ] 145 → 144
+- [relation.typ] me - thought → methought
+- [relation.typ] me - thought → methought
+- [relation.typ] 146 → 145
+- [relation.typ] Birth - right → birthright
+- [relation.typ] my self → myself
+- [relation.typ] 147 → 146
+- [relation.typ] Luk . → Luke
+- [relation.typ] . 31 . → :32, ‘
+- [relation.typ] 148 → 147
+- [relation.typ] Mar . 3 . → Mark,
+- [relation.typ] I → 148. I
+- [relation.typ] 149 . Feared → feared
+- [relation.typ] speaketh → speaketh, ‘
+- [relation.typ] 3 → 3:29)
+- [relation.typ] 150 → 149
+- [relation.typ] my self ; → myself,
+- [relation.typ] any body → anybody
+- [relation.typ] my self → myself
+- [relation.typ] Any thing → Anything
+- [relation.typ] 151 → 150
+- [relation.typ] 152 → 151
+- [relation.typ] 153 → 152
+- [relation.typ] transgression → transgression (Ps 19:13)
+- [relation.typ] Psal . 19 . 13 . → 
+- [relation.typ] Soul → soul (1 John 5:18)
+- [relation.typ] 4 → 
+- [relation.typ] Joh → 
+- [relation.typ] 5 → 
+- [relation.typ] 18 → 
+- [relation.typ] 154 → 153
+- [relation.typ] my self → myself
+- [relation.typ] 155 → 154
+- [relation.typ] : And , → ; and
+- [relation.typ] my self → myself
+- [relation.typ] 156 → 155
+- [relation.typ] mine → my
+- [relation.typ] 157 → 156
+- [relation.typ] Though → ; though
+- [relation.typ] my → me
+- [relation.typ] 158 → 157
+- [relation.typ] it self → itself
+- [relation.typ] my self → myself
+- [relation.typ] 159 → 158
+- [relation.typ] 160 → 159
+- [relation.typ] my self → myself
+- [relation.typ] 161 → 160
+- [relation.typ] Judgment : Insomuch → judgment; insomuch,
+- [relation.typ] 162 → 161
+- [relation.typ] my self → myself
+- [relation.typ] your self → yourself
+- [relation.typ] before hand → beforehand
+- [relation.typ] 163 → 162
+- [relation.typ] , Oh → oh
+- [relation.typ] ! Me - thought → ; methought
+- [relation.typ] 164 → 163
+- [relation.typ] ’ → It
+- [relation.typ] Birth - right → birthright
+- [relation.typ] 165 → 164
+- [relation.typ] some times → sometimes
+- [relation.typ] , Act . → (Acts
+- [relation.typ] 1 → 1:18)
+- [relation.typ] 166 → 165
+- [relation.typ] 167 → 166
+- [relation.typ] , Psal → (Ps 68:18)
+- [relation.typ] 68 . 18 . → ‘
+- [relation.typ] 168 → 167
+- [relation.typ] to → to the place of
+- [relation.typ] 169 → 168
+- [relation.typ] my self ; → myself:
+- [relation.typ] Set → Set the
+- [relation.typ] 170 → 169
+- [relation.typ] my self , → myself
+- [relation.typ] 171 → 170
+- [relation.typ] 172 → 171
+- [relation.typ] 173 → 172
+- [relation.typ] me - thoughts → methought,
+- [relation.typ] out - went → outwent
+- [relation.typ] 174 → 173
+- [relation.typ] Heb → Heb 10:31)
+- [relation.typ] 10 ) → 
+- [relation.typ] some times → sometimes
+- [relation.typ] 175 → 174
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] past → past was
+- [relation.typ] was → 
+- [relation.typ] in - expedient → inexpedient
+- [relation.typ] it self → itself
+- [relation.typ] 176 → 175
+- [relation.typ] it self → itself
+- [relation.typ] ’ → it
+- [relation.typ] him , → Him
+- [relation.typ] my self → myself
+- [relation.typ] 177 → 176
+- [relation.typ] 178 → 177
+- [relation.typ] him → Him; and
 - [relation.typ] and → 
-- [relation.typ] had → also
-- [relation.typ] now → 
-- [relation.typ] l → I
-- [relation.typ] not → not now
-- [relation.typ] all → all His
-- [relation.typ] His → 
-- [relation.typ] of this : → 
-- [relation.typ] in → on
-- [relation.typ] Eph . → Ephesians
-- [relation.typ] to → in
-- [relation.typ] law → law by Him, died
-- [relation.typ] days → days he
-- [relation.typ] he → 
-- [relation.typ] in → and
-- [relation.typ] a → 
-- [relation.typ] two → two also
-- [relation.typ] also → 
-- [relation.typ] was → was thus
-- [relation.typ] thus → 
-- [relation.typ] she → 
-- [relation.typ] to sleeping → asleep
-- [relation.typ] also → also have
-- [relation.typ] now → 
-- [relation.typ] perish → perish for
-- [relation.typ] soever → 
-- [relation.typ] unto them → 
-- [relation.typ] and → but
-- [relation.typ] soever → 
-- [relation.typ] beaten → held
-- [relation.typ] ver → v
-- [relation.typ] had → had a
-- [relation.typ] in → in an
-- [relation.typ] faithfulness → faithfulness (2 Sam 3:28)
-- [relation.typ] that → that blessed
-- [relation.typ] 8 → 28
-- [relation.typ] to → do
-- [relation.typ] met → met with
-- [relation.typ] This → Do
-- [relation.typ] do → this
-- [relation.typ] at → at the
-- [relation.typ] was → was all
-- [relation.typ] it → they
-- [relation.typ] which → that
-- [relation.typ] he → he has
-- [relation.typ] Tit . → Titus
-- [relation.typ] II → 2
-- [relation.typ] ver → vv
-- [relation.typ] 4 → 24
-- [relation.typ] that → the
-- [relation.typ] of → to the Hebrews
-- [relation.typ] 4 → 24
-- [relation.typ] in → for
-- [call-to-the-ministry.typ] which → which also
-- [call-to-the-ministry.typ] I → 1
-- [call-to-the-ministry.typ] this → this my
-- [call-to-the-ministry.typ] Act . → Acts
-- [call-to-the-ministry.typ] it → 
-- [call-to-the-ministry.typ] which → which also
-- [call-to-the-ministry.typ] who → who thus
-- [call-to-the-ministry.typ] thus → 
-- [call-to-the-ministry.typ] came → is come
-- [call-to-the-ministry.typ] II → 2
-- [call-to-the-ministry.typ] of → of the
-- [call-to-the-ministry.typ] with → of
-- [call-to-the-ministry.typ] been → been in
-- [call-to-the-ministry.typ] did → should
-- [call-to-the-ministry.typ] the → 
-- [call-to-the-ministry.typ] so → 
-- [call-to-the-ministry.typ] also → 
-- [call-to-the-ministry.typ] in → in my
-- [call-to-the-ministry.typ] teachest → teachest thou
-- [call-to-the-ministry.typ] thou → 
-- [call-to-the-ministry.typ] II → 2
-- [call-to-the-ministry.typ] of → 
-- [call-to-the-ministry.typ] a soul → souls
-- [call-to-the-ministry.typ] that → 
-- [call-to-the-ministry.typ] must → must also
-- [call-to-the-ministry.typ] for → for all
-- [call-to-the-ministry.typ] 11 → 11, 12
-- [call-to-the-ministry.typ] a woman → women
-- [imprisonment.typ] sessions → sessions after
-- [imprisonment.typ] after → 
-- [imprisonment.typ] to → 
-- [imprisonment.typ] you → you, in
-- [imprisonment.typ] were → are
-- [imprisonment.typ] seen → seen Him
-- [imprisonment.typ] i → :
-- [imprisonment.typ] God → God (1 Pet 1:21)
-- [imprisonment.typ] the → 
-- [imprisonment.typ] xiv → 14
-- [imprisonment.typ] John xvi . → 16:
-- [imprisonment.typ] iii → 3
-- [imprisonment.typ] . xii . → 12:
-- [imprisonment.typ] rider → rider (Job 39:18)
-- [imprisonment.typ] to → 
-- [imprisonment.typ] xii → :
-- [imprisonment.typ] glory , ” → glory’ (
-- [imprisonment.typ] . i . → 1:
-- [imprisonment.typ] vii → :
-- [imprisonment.typ] . i . → 1:
-- [imprisonment.typ] to → to endure, should my imprisonment be long and tedious; the second was, how to be able to
-- [imprisonment.typ] be → be here
-- [imprisonment.typ] i → :
-- [imprisonment.typ] have → have all
-- [imprisonment.typ] dead , ” → dead’ (
-- [imprisonment.typ] . i . → 1:
+- [relation.typ] he → , He
+- [relation.typ] he → , He
+- [relation.typ] , Numb . → (Num
+- [relation.typ] 179 → 178
+- [relation.typ] As’ tis → As it is
+- [relation.typ] place → place (Exod 21:14)
+- [relation.typ] Exod . 21 . 14 The → the
+- [relation.typ] King . → Kgs
+- [relation.typ] . 27 , → :
+- [relation.typ] . Did → did
+- [relation.typ] my self , → myself
+- [relation.typ] 180 → 179
+- [relation.typ] Prophet , → prophet
+- [relation.typ] besides my self : → beside myself.
+- [relation.typ] 181 → 180
+- [relation.typ] 182 → 181
+- [relation.typ] Soul , → soul
+- [relation.typ] him , → Him
+- [relation.typ] 183 → 182
+- [relation.typ] saw’ twas → saw it was
+- [relation.typ] him , → Him
+- [relation.typ] 184 → 183
+- [relation.typ] Goodness Kindness → goodness
+- [relation.typ] Gentleness Meekness → kindness
+- [relation.typ] Death → gentleness
+- [relation.typ] Blood → meekness
+- [relation.typ] Promises → death
+- [relation.typ] your self → yourself
+- [relation.typ] his Goodness → , His goodness
+- [relation.typ] your self → yourself
+- [relation.typ] dis - inherited → I disinherited
+- [relation.typ] ' → it
+- [relation.typ] 185 → 184
+- [relation.typ] a fresh → afresh
+- [relation.typ] Heaven , → heaven
+- [relation.typ] a - new → anew
+- [relation.typ] he → , He
+- [relation.typ] 186 → 185
+- [relation.typ] , Oh , → oh!
+- [relation.typ] him , → Him
+- [relation.typ] 187 → 186
+- [relation.typ] head - long → headlong
+- [relation.typ] my self → myself
+- [relation.typ] hath → hath ‘
+- [relation.typ] tombs , → tombs’
+- [relation.typ] and → and ‘
+- [relation.typ] . 1 , → :
+- [relation.typ] , 3 → –5)
+- [relation.typ] 188 → 187
+- [relation.typ] me - thought → methought
+- [relation.typ] me - thought → methought
+- [relation.typ] Oh , → O
+- [relation.typ] over → over what
+- [relation.typ] For → ; for
+- [relation.typ] 189 → 188
+- [relation.typ] my self → myself
+- [relation.typ] For → ? for
+- [relation.typ] The → , the
+- [relation.typ] & c → etc
+- [relation.typ] Or → , or
+- [relation.typ] 190 → 189
+- [relation.typ] , Oh → oh
+- [relation.typ] : Yet → ; yet,
+- [relation.typ] 191 → 190
+- [relation.typ] it → it but
+- [relation.typ] but → 
+- [relation.typ] 192 → 191
+- [relation.typ] 193 → 192
+- [relation.typ] my self , → myself
+- [relation.typ] 194 → 193
+- [relation.typ] feared → feared’ (Ps 130:3
+- [relation.typ] Psal . 130 . → 
+- [relation.typ] , he → He
+- [relation.typ] 195 → 194
+- [relation.typ] . 36 → :63)
+- [relation.typ] 196 → 195
+- [relation.typ] broken , Joh . → broken’ (John
+- [relation.typ] 197 → 196
+- [relation.typ] ake , → ache
+- [relation.typ] my self : → myself.
+- [relation.typ] Heb → Heb 6:4–6)
+- [relation.typ] 6 . → ‘
+- [relation.typ] adversaries → adversaries’ (Heb 10:26
+- [relation.typ] Heb . 10 → 27)
+- [relation.typ] Even → Even ‘
+- [relation.typ] Birth - right : For → birthright; for
+- [relation.typ] tears → tears’ (Heb 12:16
+- [relation.typ] Heb . 12 → 17)
+- [relation.typ] 198 → 197
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] 199 → 198
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] This → This is
+- [relation.typ] some times → sometimes
+- [relation.typ] 200 → 199
+- [relation.typ] re - call my self → recall myself
+- [relation.typ] my self an → myself a
+- [relation.typ] 201 → 200
+- [relation.typ] Luk . 18 . 1 . With → the eighteenth of Luke, with
+- [relation.typ] Christ's Blood → Christ’s blood,
+- [relation.typ] 202 → 201
+- [relation.typ] faith → faith’ (Matt 15:28)
+- [relation.typ] ] Mat . 15 . 28 . Even → even
+- [relation.typ] 203 → 202
+- [relation.typ] question → question; and
+- [relation.typ] and → 
+- [relation.typ] Psal . → ’ (Ps
+- [relation.typ] , 8 , → –
+- [relation.typ] me - thought , → methought
+- [relation.typ] ' → It
+- [relation.typ] , he → He
+- [relation.typ] 204 → 203
+- [relation.typ] me - thought → methought
+- [relation.typ] 205 → 204
+- [relation.typ] , me - thought , → methought
+- [relation.typ] 206 → 205
+- [relation.typ] Birth - right → birthright
+- [relation.typ] 207 → 206
+- [relation.typ] me → me, ‘My grace is sufficient’
+- [relation.typ] My → 
+- [relation.typ] Grace → 
+- [relation.typ] is → 
+- [relation.typ] sufficient → 
+- [relation.typ] because → because ‘
+- [relation.typ] suddainly → , suddenly
+- [relation.typ] Oh → ,
+- [relation.typ] me → oh
+- [relation.typ] 208 → 207
+- [relation.typ] Heaven , → heaven
+- [relation.typ] Tiles , → tiles
+- [relation.typ] 209 → 208
+- [relation.typ] Scriptures fore - named , → scriptures forenamed
+- [relation.typ] my self → myself
+- [relation.typ] 210 → 209
+- [relation.typ] me - thought → methought
+- [relation.typ] your → 
+- [relation.typ] And → And ‘
+- [relation.typ] Heb → (2 Pet 2:21)
+- [relation.typ] 10 . → ‘
+- [relation.typ] , 2 Pet → 
+- [relation.typ] 2 . 21 . → ’
+- [relation.typ] 211 → 210
+- [relation.typ] 4 → 4).
+- [relation.typ] 212 → 211
+- [relation.typ] 213 → 212
+- [relation.typ] me - thought → methought
+- [relation.typ] 214 → 213
+- [relation.typ] Birth - right → birthright
+- [relation.typ] me → me, ‘
+- [relation.typ] 215 → 214
+- [relation.typ] Law , → law
+- [relation.typ] , 10 , 11 . Mar . 9 . → :
+- [relation.typ] , 6 , → –
+- [relation.typ] Joh → 
+- [relation.typ] 6 → 
+- [relation.typ] 37 → )
+- [relation.typ] 216 → 215
+- [relation.typ] Soul ; → soul, ‘
+- [relation.typ] out → out’ (John 6:37)
+- [relation.typ] nothing → no thing,
+- [relation.typ] : Him → ; ‘him
+- [relation.typ] a - right → aright
+- [relation.typ] a - right , → aright
+- [relation.typ] my self → myself
+- [relation.typ] my self → myself
+- [relation.typ] 217 → 216
+- [relation.typ] Birth - right , → birthright
+- [relation.typ] ’twould → it would
+- [relation.typ] ’twould → it would
+- [relation.typ] 218 → 217
+- [relation.typ] freedom → freedom in
+- [relation.typ] , 16 , etc → –17)
+- [relation.typ] 219 → 218
+- [relation.typ] Josh → the
+- [relation.typ] 20 → of
+- [relation.typ] afore - time → aforetime
+- [relation.typ] 220 → 219
+- [relation.typ] afore - time → aforetime
+- [relation.typ] twelve - month → twelvemonth
+- [relation.typ] 221 → 220
+- [relation.typ] 222 → 221
+- [relation.typ] such → such ‘
+- [relation.typ] , 27 → )
+- [relation.typ] come , Mat . → come’ (Matt
+- [relation.typ] . 31 → :32)
+- [relation.typ] 8 → 8:38)
+- [relation.typ] 223 → 222
+- [relation.typ] 224 → 223
+- [relation.typ] vers → vv
+- [relation.typ] , 2 , → –
+- [relation.typ] as → as ‘
+- [relation.typ] 225 → 224
+- [relation.typ] vers → v
+- [relation.typ] 226 → 225
+- [relation.typ] Birth - right → birthright,
+- [relation.typ] Birth - right → birthright
+- [relation.typ] yea → (v. 34). Yea
+- [relation.typ] thy → 
+- [relation.typ] 227 → 226
+- [relation.typ] Birth - right → birthright
+- [relation.typ] , he → ; ‘He
+- [relation.typ] Birth - right → birthright
+- [relation.typ] 228 → 227
+- [relation.typ] are → are who
+- [relation.typ] who → 
+- [relation.typ] Birth - right → birthright
+- [relation.typ] Depart , → depart
+- [relation.typ] 32 → 33
+- [relation.typ] , 26 , → –
+- [relation.typ] 229 → 228
+- [relation.typ] 230 → 229
+- [relation.typ] where ever → wherever
+- [relation.typ] 231 → 230
+- [relation.typ] 1 → 
+- [relation.typ] Cor → 
+- [relation.typ] 1 → 
+- [relation.typ] 33 → 
+- [relation.typ] He → He ‘
+- [relation.typ] true → true (1 Cor 1:30)
+- [relation.typ] 232 → 231
+- [relation.typ] God → God. Here
+- [relation.typ] here → 
+- [relation.typ] O me thought → Oh, methought,
+- [relation.typ] Relations Offices → relations, offices,
+- [relation.typ] 233 → 232
+- [relation.typ] ’Twas → It was
+- [relation.typ] my self → myself
+- [relation.typ] crackt - → cracked
+- [relation.typ] four pence → fourpence
+- [relation.typ] half pennies → halfpennies
+- [relation.typ] 234 → 233
+- [relation.typ] my self → myself
+- [relation.typ] 235 → 234
+- [relation.typ] 26 → 26:19)
+- [relation.typ] . Which → ); which
+- [relation.typ] He → He ‘
+- [relation.typ] 236 → 235
+- [relation.typ] Psal → (Ps
+- [relation.typ] 237 → 236
+- [relation.typ] twelve month → twelvemonth
+- [relation.typ] 238 → 237
+- [relation.typ] 239 → 238
+- [relation.typ] : For → ; for ‘
+- [relation.typ] Psal → (Ps
+- [relation.typ] 16 → 1
+- [relation.typ] 240 → 239
+- [relation.typ] Duty → duty (Heb 4:16)
+- [relation.typ] Heb → 
+- [relation.typ] 4 → 
+- [relation.typ] 16 → 
+- [relation.typ] : and → .’ And
+- [relation.typ] 241 → 240
+- [relation.typ] 242 → 241
+- [relation.typ] 243 → 242
+- [relation.typ] 244 → 243
+- [relation.typ] 245 → 244
+- [relation.typ] 246 → 245
+- [relation.typ] : O → . Oh!
+- [relation.typ] Refuge → refuge (Josh 20:4)
+- [relation.typ] Josh → 
+- [relation.typ] 20 → 
+- [relation.typ] 4 → 
+- [relation.typ] 247 → 246
+- [relation.typ] 248 → 247
+- [relation.typ] Promises , → promises
+- [relation.typ] Heart , → heart
+- [relation.typ] 249 → 248
+- [relation.typ] Promise , → promise
+- [relation.typ] now’ twas → now it was
+- [relation.typ] 250 → 249
+- [relation.typ] John → v
+- [relation.typ] 6 . 30 → 37)
+- [relation.typ] my self → myself
+- [relation.typ] my self , → myself
+- [relation.typ] 251 → 250
+- [relation.typ] Ground , → ground
+- [relation.typ] Sathan , → Satan
+- [relation.typ] ’ → it
+- [relation.typ] 252 → 251
+- [relation.typ] him , → Him
+- [relation.typ] . etc → )
+- [relation.typ] , Mat . → (Matt
+- [relation.typ] . 22 . etc . And → :21–28); and
+- [relation.typ] Midnight → midnight (Luke 11:5–8)
+- [relation.typ] Luke 1 . 5 , 6 , 7 , 8 , etc . Were → were
+- [relation.typ] 253 → 252
+- [relation.typ] Grace and Love → grace
+- [relation.typ] Mercy → love, and mercy
+- [relation.typ] had → had ‘
+- [relation.typ] 254 → 253
+- [relation.typ] Church , → church
+- [relation.typ] . Was → ), was
+- [relation.typ] . Did → did
+- [relation.typ] my self , → myself
+- [relation.typ] 255 → 254
+- [relation.typ] Scripture , → scripture
+- [relation.typ] 256 → 255
+- [relation.typ] my self → myself
+- [relation.typ] mine → my
+- [relation.typ] 257 → 256
+- [relation.typ] 258 → 257
+- [relation.typ] are → are ‘
+- [relation.typ] 259 → 258
+- [relation.typ] Infirmities , → infirmities
+- [relation.typ] , my → My
+- [relation.typ] 260 → 259
+- [relation.typ] Tit → 
+- [relation.typ] 3 → 
+- [relation.typ] 5 → )
+- [relation.typ] my self → myself
+- [relation.typ] God , → God’
+- [relation.typ] then → , than
+- [relation.typ] World ; → world. ‘
+- [relation.typ] 261 → 260
+- [relation.typ] Soul , → soul
+- [relation.typ] Death , → death
+- [relation.typ] my self → myself
+- [relation.typ] were → was
+- [relation.typ] 262 → 261
+- [relation.typ] over - run → overrun
+- [relation.typ] 263 → 262
+- [relation.typ] Heb → 
+- [relation.typ] 12 → (vv
+- [relation.typ] , 23 , → –
+- [relation.typ] 264 → 263
+- [relation.typ] People , → people
+- [relation.typ] 23 → 24
+- [relation.typ] 265 → 264
+- [relation.typ] born → ,
+- [relation.typ] Thorow → ’ Through
+- [relation.typ] Sentence , → sentence
+- [call-to-the-ministry.typ] 266 → 265
+- [call-to-the-ministry.typ] my self → myself
+- [call-to-the-ministry.typ] Judgment , → judgment
+- [call-to-the-ministry.typ] times → ,
+- [call-to-the-ministry.typ] 267 → 266
+- [call-to-the-ministry.typ] 268 → 267
+- [call-to-the-ministry.typ] other → other received
+- [call-to-the-ministry.typ] received → 
+- [call-to-the-ministry.typ] re joycing → rejoicing
+- [call-to-the-ministry.typ] 269 → 268
+- [call-to-the-ministry.typ] Devil , → devil
+- [call-to-the-ministry.typ] 270 → 269
+- [call-to-the-ministry.typ] Brethren , → brethren
+- [call-to-the-ministry.typ] first fruits → firstfruits
+- [call-to-the-ministry.typ] your selves → yourselves
+- [call-to-the-ministry.typ] 271 → 270
+- [call-to-the-ministry.typ] Abilities , → abilities
+- [call-to-the-ministry.typ] . And → ;
+- [call-to-the-ministry.typ] . etc . → ;
+- [call-to-the-ministry.typ] Mon → Monuments)
+- [call-to-the-ministry.typ] 272 → 271
+- [call-to-the-ministry.typ] my self , → myself
+- [call-to-the-ministry.typ] Truth : Which → truth; which,
+- [call-to-the-ministry.typ] 273 → 272
+- [call-to-the-ministry.typ] , he → He
+- [call-to-the-ministry.typ] touched → touched by the Word
+- [call-to-the-ministry.typ] 274 → 273
+- [call-to-the-ministry.typ] my self → myself
+- [call-to-the-ministry.typ] 275 → 274
+- [call-to-the-ministry.typ] 276 → 275
+- [call-to-the-ministry.typ] Preaching , → preaching
+- [call-to-the-ministry.typ] . And → ); and
+- [call-to-the-ministry.typ] Though → Though ‘
+- [call-to-the-ministry.typ] . 6 . → 9:
+- [call-to-the-ministry.typ] 277 → 276
+- [call-to-the-ministry.typ] That → , that
+- [call-to-the-ministry.typ] 278 → 277
+- [call-to-the-ministry.typ] my self → myself
+- [call-to-the-ministry.typ] Conscience , → conscience
+- [call-to-the-ministry.typ] Pulpit - → pulpit
+- [call-to-the-ministry.typ] Pulpit - → pulpit
+- [call-to-the-ministry.typ] 279 → 278
+- [call-to-the-ministry.typ] 280 → 279
+- [call-to-the-ministry.typ] 281 → 280
+- [call-to-the-ministry.typ] cryed → , cried
+- [call-to-the-ministry.typ] 282 → 281
+- [call-to-the-ministry.typ] do → do what sin
+- [call-to-the-ministry.typ] what Sin → death
+- [call-to-the-ministry.typ] Death , Hell → hell
+- [call-to-the-ministry.typ] Eyes , → eyes
+- [call-to-the-ministry.typ] 283 → 282
+- [call-to-the-ministry.typ] my self ) → myself,
+- [call-to-the-ministry.typ] 284 → 283
+- [call-to-the-ministry.typ] 285 → 284
+- [call-to-the-ministry.typ] Faith , → faith
+- [call-to-the-ministry.typ] lines → lines (Rom 15:18)
+- [call-to-the-ministry.typ] Rom . 15 . 18 . ( → 
+- [call-to-the-ministry.typ] Gal → 
+- [call-to-the-ministry.typ] 1 → 
+- [call-to-the-ministry.typ] 11 → 
+- [call-to-the-ministry.typ] 12 → 
+- [call-to-the-ministry.typ] aware → aware (Gal 1:11, 12)
+- [call-to-the-ministry.typ] 287 → 286
+- [call-to-the-ministry.typ] Ministry , → ministry
+- [call-to-the-ministry.typ] , then → than
+- [call-to-the-ministry.typ] my self → myself
+- [call-to-the-ministry.typ] death , Jam → death’ (Jas 5:20)
+- [call-to-the-ministry.typ] 5 . 20 . → ‘
+- [call-to-the-ministry.typ] Righteous , → righteous
+- [call-to-the-ministry.typ] Souls , → souls
+- [call-to-the-ministry.typ] Prov → Prov 11:30)
+- [call-to-the-ministry.typ] 11 . 30 . → ‘
+- [call-to-the-ministry.typ] Dan → Dan 12:3)
+- [call-to-the-ministry.typ] 12 → 
+- [call-to-the-ministry.typ] 3 → 
+- [call-to-the-ministry.typ] Thes . → Thess
+- [call-to-the-ministry.typ] 288 → 287
+- [call-to-the-ministry.typ] Sermon , → sermon
+- [call-to-the-ministry.typ] 289 → 288
+- [call-to-the-ministry.typ] 290 → 289
+- [call-to-the-ministry.typ] Ministry , → ministry
+- [call-to-the-ministry.typ] - Work → work
+- [call-to-the-ministry.typ] it self → itself
+- [call-to-the-ministry.typ] man's Foundation → man’s foundation’ (
+- [call-to-the-ministry.typ] 291 → 290
+- [call-to-the-ministry.typ] Psal → (Ps
+- [call-to-the-ministry.typ] , 4 , → –
+- [call-to-the-ministry.typ] 292 → 291
+- [call-to-the-ministry.typ] Opinions , → opinions
+- [call-to-the-ministry.typ] 293 → 292
+- [call-to-the-ministry.typ] 294 → 293
+- [call-to-the-ministry.typ] Opportunity , → opportunity
+- [call-to-the-ministry.typ] 295 → 294
+- [call-to-the-ministry.typ] your → 
+- [call-to-the-ministry.typ] 296 → 295
+- [call-to-the-ministry.typ] my self → myself
+- [call-to-the-ministry.typ] Transgression where ever → transgression wherever
+- [call-to-the-ministry.typ] Conscience ; → conscience! ‘
+- [call-to-the-ministry.typ] . Rather → ), rather
+- [call-to-the-ministry.typ] thy self → thyself
+- [call-to-the-ministry.typ] thy self → thyself
+- [call-to-the-ministry.typ] thy self → thyself
+- [call-to-the-ministry.typ] 297 → 296
+- [call-to-the-ministry.typ] 2 → 
+- [call-to-the-ministry.typ] Cor → 
+- [call-to-the-ministry.typ] 12 → 
+- [call-to-the-ministry.typ] 8 → 
+- [call-to-the-ministry.typ] 9 , ) → 
+- [call-to-the-ministry.typ] me → me (2 Cor 12:7–9)
+- [call-to-the-ministry.typ] 298 → 297
+- [call-to-the-ministry.typ] 299 → 298
+- [call-to-the-ministry.typ] Cymbal , → cymbal
+- [call-to-the-ministry.typ] 300 → 299
+- [call-to-the-ministry.typ] - Grace ; → grace,
+- [call-to-the-ministry.typ] 301 → 300
+- [call-to-the-ministry.typ] knew’ twas Love → knew it was love
+- [call-to-the-ministry.typ] 302 → 301
+- [call-to-the-ministry.typ] 303 → 302
+- [call-to-the-ministry.typ] All → , all of
+- [call-to-the-ministry.typ] 304 → 303
+- [call-to-the-ministry.typ] Gifts , → gifts
+- [call-to-the-ministry.typ] 305 → 304
+- [call-to-the-ministry.typ] 306 → 305
+- [call-to-the-ministry.typ] , ( Gifts → ; gifts
+- [call-to-the-ministry.typ] 307 → 306
+- [call-to-the-ministry.typ] 308 → 307
+- [call-to-the-ministry.typ] High - way - man → highwayman
+- [call-to-the-ministry.typ] 309 → 308
+- [call-to-the-ministry.typ] 310 → 309
+- [call-to-the-ministry.typ] sake → sake; rejoice
+- [call-to-the-ministry.typ] rejoice → 
+- [call-to-the-ministry.typ] you → you’ (Matt 5:11
+- [call-to-the-ministry.typ] Mat . 5 . 11 → 12)
+- [call-to-the-ministry.typ] 311 → 310
+- [call-to-the-ministry.typ] 312 → 311
+- [call-to-the-ministry.typ] ? Because twill → , because it will
+- [call-to-the-ministry.typ] 313 → 312
+- [call-to-the-ministry.typ] Profession , → profession
+- [call-to-the-ministry.typ] 314 → 313
+- [call-to-the-ministry.typ] any thing → anything
+- [call-to-the-ministry.typ] 315 → 314
+- [call-to-the-ministry.typ] 316 → 315
+- [call-to-the-ministry.typ] ’ → it
+- [call-to-the-ministry.typ] ? Thus → ; thus,
+- [call-to-the-ministry.typ] so ever → soever
+- [call-to-the-ministry.typ] 317 → 316
+- [call-to-the-ministry.typ] 318 → 317
+- [call-to-the-ministry.typ] Country - men → countrymen
+- [imprisonment.typ] 319 → 318
+- [imprisonment.typ] 320 → 319
+- [imprisonment.typ] 321 → 320
+- [imprisonment.typ] 322 → 321
+- [imprisonment.typ] in - let → inlet
+- [imprisonment.typ] them Scriptures → ; those scriptures
+- [imprisonment.typ] : O → . Oh!
+- [imprisonment.typ] . And → ), and
+- [imprisonment.typ] - Faith → faith
+- [imprisonment.typ] . 2 . Were → :21), were
+- [imprisonment.typ] 323 → 322
+- [imprisonment.typ] , 2 , → –4; 16:33; Col 3:
+- [imprisonment.typ] John 16 . 33 . Col . 3 . 3 , 4 . → ;
+- [imprisonment.typ] , 23 , → –
+- [imprisonment.typ] Rider → rider (Job 39:18)
+- [imprisonment.typ] World : O → world. Oh!
+- [imprisonment.typ] Jesus → Jesus (Heb 12:22–24)
+- [imprisonment.typ] 324 → 323
+- [imprisonment.typ] As → , as
+- [imprisonment.typ] 325 → 324
+- [imprisonment.typ] Prison , → prison
+- [imprisonment.typ] a → 
+- [imprisonment.typ] How → how to be able to endure, should my imprisonment be long and tedious; the second was, how
+- [imprisonment.typ] II → 11
+- [imprisonment.typ] God → God, ‘
+- [imprisonment.typ] Petition , → petition
+- [imprisonment.typ] it self → itself
+- [imprisonment.typ] 326 → 325
+- [imprisonment.typ] Saying , ( 2 Cor . 1 . 9 . ) → saying
+- [imprisonment.typ] our selves → ourselves
+- [imprisonment.typ] our selves → ourselves
+- [imprisonment.typ] dead → dead’ (2 Cor 1
+- [imprisonment.typ] that → , That
 - [imprisonment.typ] every thing → everything
-- [imprisonment.typ] them → them. ‘He that loveth father or mother, son or daughter, more than me, is not worthy of me’ (Matt 10:37)
-- [imprisonment.typ] on → at
-- [imprisonment.typ] which → that
-- [imprisonment.typ] which → that
-- [imprisonment.typ] which → that
-- [imprisonment.typ] which → that
-- [imprisonment.typ] eternal , ” → eternal’ (
-- [imprisonment.typ] . iv . → 4:
-- [imprisonment.typ] beside → I had besides
-- [imprisonment.typ] . vi . → 6:
-- [imprisonment.typ] 10 → 10–12)
-- [imprisonment.typ] evil , ” → evil’ (
-- [imprisonment.typ] . xlix . → 49:
-- [imprisonment.typ] xv → 15
-- [imprisonment.typ] should → should now
-- [imprisonment.typ] in → and
-- [imprisonment.typ] and → and was
-- [imprisonment.typ] flaw → flesh
-- [imprisonment.typ] in → in all
-- [imprisonment.typ] Psalm → Ps
-- [imprisonment.typ] eix → 109
-- [imprisonment.typ] have → has
-- [imprisonment.typ] . xi . → 11:
-- [imprisonment.typ] me , ” → me’ (
-- [imprisonment.typ] xx → 20
-- [imprisonment.typ] poor → poor forlorn
-- [imprisonment.typ] I → 
-- [imprisonment.typ] this → that
-- [imprisonment.typ] in → for
-- [imprisonment.typ] 1 → I
-- [imprisonment.typ] the → a
-- [imprisonment.typ] a → the
-- [imprisonment.typ] my → my very
-- [imprisonment.typ] lie → he
-- [imprisonment.typ] had → have
-- [imprisonment.typ] Psalm → Ps
-- [imprisonment.typ] xliv → 44
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] 327 → 326
+- [imprisonment.typ] eternal → eternal’ (2 Cor 4
+- [imprisonment.typ] my self ; if → myself, If
+- [imprisonment.typ] Death come , → death comes
+- [imprisonment.typ] 328 → 327
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] ; O → . Oh!
+- [imprisonment.typ] 329 → 328
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] Milch - Kine → milch kine
+- [imprisonment.typ] , 11 , → –
+- [imprisonment.typ] 330 → 329
+- [imprisonment.typ] : and → .’ And
+- [imprisonment.typ] . Chap . → ;
+- [imprisonment.typ] . II → :11)
+- [imprisonment.typ] 331 → 330
+- [imprisonment.typ] Psal → (Ps
+- [imprisonment.typ] , 7 , 8 , etc. → –20)
+- [imprisonment.typ] 332 → 331
+- [imprisonment.typ] , The → the
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] 333 → 332
+- [imprisonment.typ] Sheep - Skins , → sheepskins
+- [imprisonment.typ] Goat - Skins , → goatskins;
+- [imprisonment.typ] worthy → worthy)’ (Heb 11:37
+- [imprisonment.typ] Ditch , → ditch
+- [imprisonment.typ] 334 → 333
+- [imprisonment.typ] lay → lying
+- [imprisonment.typ] 335 → 334
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] did → did I
+- [imprisonment.typ] my self → myself
+- [imprisonment.typ] his People , → His people
+- [imprisonment.typ] 336 → 335
+- [imprisonment.typ] 337 → 336
+- [imprisonment.typ] 338 → 337
+- [imprisonment.typ] ’ twas → ’twas
+- [imprisonment.typ] Wherefore , → wherefore
+- [imprisonment.typ] 339 → 338
+- [imprisonment.typ] Resolution , → resolution
+- [imprisonment.typ] , etc . → ?
+- [imprisonment.typ] Psal → (Ps
+- [imprisonment.typ] . etc. → –26)
+- [imprisonment.typ] 340 → 339
+- [imprisonment.typ] Tryal , → trial
 - [imprisonment.typ] Chron → Chr 26:27)
-- [imprisonment.typ] xxvi → 
-- [imprisonment.typ] 27 → 
-- [conclusion.typ] the → 
-- [conclusion.typ] the → 
-- [conclusion.typ] look → pray
+- [imprisonment.typ] 26 , 27 . . → 
+- [conclusion.typ] my self → myself
+- [conclusion.typ] , then → than
+- [conclusion.typ] ' → it
+- [conclusion.typ] Heart ; → heart: (
+- [conclusion.typ] 7 → ’
+- [conclusion.typ] my self → myself
 
 ## grammar
 
-- unto → to (×4)
-- eighteeneth → eighteenth
-- hast → have
-- hath → has
-- thou → you
+- an → a (×13)
+- showeth → sheweth (×2)
+- thee → thee’ (×2)
+- blest → blessed
+- laboureth → laboureth’
+- loueth → loveth
+- speaketh → speaketh’
 
 ## punctuation
 
+- [preface.typ] , → 
+- [preface.typ] , → 
+- [preface.typ] . → ,
+- [preface.typ] , → ;
+- [preface.typ] ( → (S. of
 - [preface.typ] . → :
 - [preface.typ] . → 
+- [preface.typ] ) → ),
+- [preface.typ] , → ;
+- [preface.typ] , → (
+- [preface.typ] . → :
+- [preface.typ] , → (
+- [preface.typ] . → 
+- [preface.typ] . → .’
 - [preface.typ] . → :
 - [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] - → –
-- [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] - → –
-- [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] , → , and
+- [preface.typ] ) → ),
+- [preface.typ] , → 
 - [preface.typ] . → 
 - [preface.typ] . → :
 - [preface.typ] . → :
+- [preface.typ] . → )
+- [preface.typ] , → 
+- [preface.typ] , → (
 - [preface.typ] . → 
 - [preface.typ] . → :
+- [preface.typ] . → . ‘
+- [preface.typ] , → 
+- [preface.typ] . → :
+- [preface.typ] , → 
+- [preface.typ] , → 
+- [preface.typ] , → (
+- [preface.typ] , → ,’
+- [preface.typ] . → 
+- [preface.typ] , → 
+- [preface.typ] . → 
+- [preface.typ] . → 
+- [preface.typ] . → .’
+- [preface.typ] , → (
 - [preface.typ] . → 
 - [preface.typ] . → :
-- [preface.typ] . → 
+- [preface.typ] , → 
+- [preface.typ] - → 
+- [preface.typ] ; → ,
 - [preface.typ] . → :
-- [preface.typ] . → 
 - [preface.typ] . → :
-- [preface.typ] - → –
-- [preface.typ] . → 
-- [preface.typ] . → :
-- [preface.typ] - → –
+- [preface.typ] , → 
+- [preface.typ] : → .
+- [preface.typ] , → 
+- [preface.typ] ; → ,
+- [preface.typ] : → .
+- [preface.typ] , → ;
+- [preface.typ] ; → ,
+- [preface.typ] : → ;
+- [preface.typ] : → ;
+- [preface.typ] ; → —
+- [preface.typ] : → .
+- [preface.typ] , → ;
+- [preface.typ] , → ;
+- [preface.typ] , → ;
+- [preface.typ] , → ;
+- [preface.typ] ; → ,
+- [preface.typ] , → 
+- [preface.typ] ; → ,
+- [preface.typ] , → 
+- [preface.typ] : → .
+- [preface.typ] , → 
+- [preface.typ] ; → ,
+- [preface.typ] : → .
+- [preface.typ] ; → ,
+- [preface.typ] , → 
+- [preface.typ] : → .
+- [preface.typ] : → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → (
 - [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → ,
-- [relation.typ] , → , indeed,
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] , → , as
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] , → , thought
-- [relation.typ] . → 
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → —
 - [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
 - [relation.typ] . → :
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] ( → 
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] ( → 
+- [relation.typ] ) → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ( → ,
+- [relation.typ] ) → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → ,—
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] . → ,
+- [relation.typ] . → :
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] - → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → , “
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ? → ?”
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] : → 
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ( → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] - → 
+- [relation.typ] , → 
+- [relation.typ] . → Num
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ; → ; my hinder parts were inward;
+- [relation.typ] ( → ,
+- [relation.typ] ) → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → :
+- [relation.typ] . → . “
+- [relation.typ] , → ,”
+- [relation.typ] ? → ?”
+- [relation.typ] ? → ?”
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ; → :
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ,’
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] [ → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ! → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → —
 - [relation.typ] , → 
 - [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ; → !
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] , → , and
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] , → , but
-- [relation.typ] , → , as
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] , → , and
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ; → ; I
-- [relation.typ] , → , thought
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ; → ; or
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
 - [relation.typ] . → 
 - [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ! → ! thought
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] , → , also,
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] , → , that
+- [relation.typ] , → 
 - [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] : → ?
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → , ‘
+- [relation.typ] ; → ,
+- [relation.typ] , → (
 - [relation.typ] . → 
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ; ‘
+- [relation.typ] ; → ,
+- [relation.typ] . → .’
+- [relation.typ] ) → 
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ? → ?’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] ( → ,
+- [relation.typ] , → 
+- [relation.typ] ) → 
+- [relation.typ] - → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] ; → ; ‘
+- [relation.typ] , → ’
+- [relation.typ] . → e
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → !
+- [relation.typ] , → , ‘
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → !
+- [relation.typ] ! → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ? → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → : ‘
+- [relation.typ] , → :
+- [relation.typ] , → (
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ! → ,
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] . → :
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ! → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → !
+- [relation.typ] ! → ;
+- [relation.typ] . → . ‘
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ) → ),
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → .,
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .’
+- [relation.typ] , → , ‘
+- [relation.typ] - → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → :
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → ’
+- [relation.typ] . → s
+- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ;
+- [relation.typ] ) → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → ,
+- [relation.typ] ( → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → !
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] . → ?
+- [relation.typ] ( → ,
+- [relation.typ] , → 
+- [relation.typ] ) → ,
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] . → ;
+- [relation.typ] - → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] , → .
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → :
+- [relation.typ] : → .
+- [relation.typ] , → —
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ! → .
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → :
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → —
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ( → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] ) → );
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → : ‘
+- [relation.typ] , → 
+- [relation.typ] , → ,’
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] . → 
+- [relation.typ] . → emiah,
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] , → ;
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] ? → ?’ (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → , ‘
+- [relation.typ] , → ’
+- [relation.typ] . → n
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] . → :
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → , ‘
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → —
+- [relation.typ] ; → —
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ( → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ) → 
+- [relation.typ] , → 
+- [relation.typ] . → :
+- [relation.typ] . → –17;
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ! → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → , ‘
+- [relation.typ] , → ,’
+- [relation.typ] . → .,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → n
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → ;
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → :
+- [relation.typ] . → ;
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → ;
+- [relation.typ] . → :
+- [relation.typ] : → , ‘
+- [relation.typ] , → 
+- [relation.typ] . → .’
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → ;
+- [relation.typ] , → :
+- [relation.typ] , → ,’
+- [relation.typ] . → . (
 - [relation.typ] . → 
 - [relation.typ] . → :
 - [relation.typ] . → 
-- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → :
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] ; → —
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] : → ;
+- [relation.typ] : → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ; → —
+- [relation.typ] ( → for
+- [relation.typ] , → ,’
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
+- [relation.typ] ) → )—
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → .
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] ; → !
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] - → –
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → ;
 - [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
 - [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] . → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] , → —
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] - → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ’
+- [relation.typ] . → k
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] ! → !’ (
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] ? → ;
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → .
+- [relation.typ] : → .
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ; ‘
+- [relation.typ] . → .’
+- [relation.typ] - → 
+- [relation.typ] , → ,’
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → :
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → :
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] ( → ‘
+- [relation.typ] , → (
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → 
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → ‘
+- [relation.typ] : → .
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
-- [relation.typ] ; → ; for
-- [relation.typ] , → , and
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] : → ;
+- [relation.typ] , → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] “ → it
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] . → :
+- [relation.typ] & → etc.)
+- [relation.typ] : → ;
+- [relation.typ] , → (
+- [relation.typ] . → .).
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ? → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → ,’
+- [relation.typ] , → (
 - [relation.typ] . → 
 - [relation.typ] . → :
+- [relation.typ] ; → ,
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] ; → :
+- [relation.typ] , → ’
+- [relation.typ] . → s
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → , blood, promises
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → !
+- [relation.typ] , → !
+- [relation.typ] ? → !
+- [relation.typ] , → 
+- [relation.typ] ; → , ‘
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ’
+- [relation.typ] . → k
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → !
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] . → n
+- [relation.typ] . → :
+- [relation.typ] ) → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] : → ;
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] ; → :—
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] ; → —
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → !
+- [relation.typ] , → 
+- [relation.typ] ! → ;
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ; ‘
+- [relation.typ] . → :
+- [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] " → It
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ?
+- [relation.typ] ( → ‘
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , crying, Is His mercy clean gone? Is His mercy clean gone for ever? And I thought sometimes, even when I was groaning in these expressions, they did seem to make a question whether it was or no; yet I greatly feared it was.
+- [relation.typ] , → 
+- [relation.typ] ; → , ‘
+- [relation.typ] ! → ?
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → :
+- [relation.typ] . → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ( → ;
+- [relation.typ] , → 
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → 
+- [relation.typ] , → ’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → , ‘
+- [relation.typ] , → ,’
+- [relation.typ] : → ;
+- [relation.typ] - → !
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → !
+- [relation.typ] ! → ?
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] : → : ‘
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → ’
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → ’
+- [relation.typ] . → s
+- [relation.typ] . → :
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → –12; Mark
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → ‘
+- [relation.typ] , → 
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] . → ,
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → :
+- [relation.typ] , → , ‘
+- [relation.typ] . → .’
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] . → twentieth
+- [relation.typ] . → Joshua
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → :
+- [relation.typ] , → 
+- [relation.typ] - → 
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] ( → 
+- [relation.typ] , → ;
+- [relation.typ] ) → ;
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] ( → ,
+- [relation.typ] ) → 
+- [relation.typ] : → .
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] : → (
+- [relation.typ] . → 
+- [relation.typ] : → : ‘
+- [relation.typ] - → 
+- [relation.typ] . → . ‘
+- [relation.typ] , → ;
+- [relation.typ] , → ’ (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] - → 
+- [relation.typ] , → 
+- [relation.typ] ) → );
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] , → :
+- [relation.typ] , → , ‘
+- [relation.typ] , → , ‘
+- [relation.typ] , → ;
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → ;
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] : → ;
+- [relation.typ] ; → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ; → .
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] , → 
+- [relation.typ] ( → 
+- [relation.typ] ) → 
+- [relation.typ] ; → !
+- [relation.typ] , → 
+- [relation.typ] ; → !
+- [relation.typ] , → 
+- [relation.typ] . → ians
+- [relation.typ] . → :
+- [relation.typ] , → ;
+- [relation.typ] . → . ‘
+- [relation.typ] , → ,’
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → :
+- [relation.typ] . → :
+- [relation.typ] ; → ,
+- [relation.typ] , → ’
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ; → , ‘
+- [relation.typ] , → :
+- [relation.typ] , → .
+- [relation.typ] , → :
+- [relation.typ] , → ’
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ( → 
+- [relation.typ] ) → ;
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] ; → :
+- [relation.typ] . → ,
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → ,’
+- [relation.typ] , → , ‘
+- [relation.typ] , → ’
+- [relation.typ] . → 
+- [relation.typ] . → 9:
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → ‘
+- [relation.typ] : → .’
+- [relation.typ] , → , ‘
+- [relation.typ] : → .
+- [relation.typ] : → .
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] ( → 
+- [relation.typ] ) → ,
+- [relation.typ] ; → .
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] . → ;
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → –
+- [relation.typ] , → 
+- [relation.typ] , → ;
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → ,’
+- [relation.typ] ? → ;
+- [relation.typ] : → .’
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] ? → ;
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] , → , ‘
+- [relation.typ] , → 
+- [relation.typ] ! → (
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ( → 
+- [relation.typ] ) → ,
+- [relation.typ] ( → 
+- [relation.typ] ) → ,
+- [relation.typ] ; → .
+- [relation.typ] ( → 
+- [relation.typ] ) → 
+- [relation.typ] ; → .
+- [relation.typ] , → 
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → (
+- [relation.typ] . → s
+- [relation.typ] . → :
+- [relation.typ] ! → .
+- [relation.typ] , → 
+- [relation.typ] ; → .
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] , → , of His dealings with me
+- [relation.typ] : → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → (
+- [relation.typ] . → :
+- [relation.typ] : → ;
+- [relation.typ] , → ;
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] : → ;
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → .
+- [relation.typ] , → .
+- [relation.typ] , → ;
+- [relation.typ] . → ,
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] ; → :
+- [relation.typ] ; → ,
+- [relation.typ] , → ;
+- [relation.typ] , → , ‘
+- [relation.typ] , → ,’
+- [relation.typ] . → . (Titus 3:5;
+- [relation.typ] . → 
 - [relation.typ] . → :
 - [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] . → 
+- [relation.typ] , → ;
+- [relation.typ] , → ;
+- [relation.typ] : → .
+- [relation.typ] , → ;
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] . → 
+- [relation.typ] . → :
+- [relation.typ] . → 
+- [relation.typ] ( → 
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] ( → ,
+- [relation.typ] ) → ,
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] , → ?
+- [relation.typ] ? → ?’ (
+- [relation.typ] . → :
+- [relation.typ] , → 
+- [relation.typ] , → 
+- [relation.typ] : → ;
+- [relation.typ] ; → ,
+- [relation.typ] ; → ,
+- [relation.typ] , → 
+- [relation.typ] , → , ‘
+- [relation.typ] ; → ,’
+- [relation.typ] , → 
+- [relation.typ] . → 
+- [relation.typ] : → ;
+- [relation.typ] ; → .
+- [relation.typ] , → ;
+- [relation.typ] , → (
+- [relation.typ] . → 
+- [relation.typ] . → :
 - [relation.typ] , → –
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → :
-- [relation.typ] - → –
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] . → 
-- [relation.typ] . → :
-- [relation.typ] ; → ; I
-- [relation.typ] - → –
-- [relation.typ] - → –
+- [relation.typ] . → )
+- [relation.typ] , → , ‘
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] : → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] ( → 
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] ) → ),
+- [call-to-the-ministry.typ] , → (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] : → .’
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → (
 - [call-to-the-ministry.typ] . → :
 - [call-to-the-ministry.typ] . → :
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → ;
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] . → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] ( → ,
+- [call-to-the-ministry.typ] ) → 
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] . → (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ? → ?’ (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → :
+- [call-to-the-ministry.typ] , → (
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → .
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] . → ;
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ; → .
+- [call-to-the-ministry.typ] ( → 
+- [call-to-the-ministry.typ] ) → ;
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ; → .
+- [call-to-the-ministry.typ] ( → ,
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ; → .
+- [call-to-the-ministry.typ] ( → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ; → .
+- [call-to-the-ministry.typ] , → (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] ( → 
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ! → , ‘
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → (
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → (
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → ‘
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → (
+- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ( → 
+- [call-to-the-ministry.typ] ) → ,
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → .
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → , ‘He that winneth souls is wise’ (Prov 11:30); and again, ‘
+- [call-to-the-ministry.typ] , → ’
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ! → ,
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] . → ,
+- [call-to-the-ministry.typ] , → ,’
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] , → (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] ; → , ‘
+- [call-to-the-ministry.typ] ? → ?’
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] ( → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] . → 
+- [call-to-the-ministry.typ] , → , ‘
+- [call-to-the-ministry.typ] , → (
 - [call-to-the-ministry.typ] . → 
 - [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] - → –
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] - → –
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
-- [call-to-the-ministry.typ] . → 
-- [call-to-the-ministry.typ] . → :
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] - → 
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] ! → .
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] ! → ;
+- [call-to-the-ministry.typ] ; → 
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] ( → ,
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] ( → ,
+- [call-to-the-ministry.typ] ) → ,
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] . → . ‘
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] ; → ?
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] : → ,
+- [call-to-the-ministry.typ] [ → ,
+- [call-to-the-ministry.typ] : → ?
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → .
+- [call-to-the-ministry.typ] , → .
+- [call-to-the-ministry.typ] ; → ,
+- [call-to-the-ministry.typ] - → 
+- [call-to-the-ministry.typ] : → ;
+- [call-to-the-ministry.typ] , → ;
+- [call-to-the-ministry.typ] , → 
+- [call-to-the-ministry.typ] , → ;
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] ( → 
+- [imprisonment.typ] ) → ,
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] ( → ,
+- [imprisonment.typ] ) → !
 - [imprisonment.typ] , → (
-- [imprisonment.typ] . → 1
-- [imprisonment.typ] , → (
+- [imprisonment.typ] . → 
 - [imprisonment.typ] . → :
-- [imprisonment.typ] - → –
-- [imprisonment.typ] . → :
-- [imprisonment.typ] - → –
-- [imprisonment.typ] , → (
-- [imprisonment.typ] . → 12
-- [imprisonment.typ] - → –
-- [imprisonment.typ] " → ‘
-- [imprisonment.typ] , → (
-- [imprisonment.typ] . → 7
-- [imprisonment.typ] , → (
-- [imprisonment.typ] . → 1
-- [imprisonment.typ] , → )
-- [imprisonment.typ] " → ‘
-- [imprisonment.typ] " → ’
-- [imprisonment.typ] " → ‘
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] . → (
+- [imprisonment.typ] . → 
 - [imprisonment.typ] , → 
-- [imprisonment.typ] " → ‘
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ? → (
+- [imprisonment.typ] . → :
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → .
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → , ‘
+- [imprisonment.typ] , → 
+- [imprisonment.typ] . → (
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
 - [imprisonment.typ] , → (
-- [imprisonment.typ] - → 
-- [imprisonment.typ] " → ‘
-- [imprisonment.typ] " → ’
-- [imprisonment.typ] " → ‘
+- [imprisonment.typ] . → 
 - [imprisonment.typ] . → :
+- [imprisonment.typ] . → ;
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] , → .
 - [imprisonment.typ] , → (
+- [imprisonment.typ] . → 
 - [imprisonment.typ] . → :
-- [imprisonment.typ] - → –
-- [imprisonment.typ] " → ‘
-- [imprisonment.typ] " → ’ (
-- [imprisonment.typ] " → ‘
-- [imprisonment.typ] " → ’
-- [imprisonment.typ] " → ‘
+- [imprisonment.typ] . → )
+- [imprisonment.typ] ; → .’
+- [imprisonment.typ] , → , ‘
+- [imprisonment.typ] : → :9).
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → :18).
+- [imprisonment.typ] : → .
+- [imprisonment.typ] : → 
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ? → !
+- [imprisonment.typ] : → .
+- [imprisonment.typ] ; → .
+- [imprisonment.typ] , → !
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → .
+- [imprisonment.typ] , → (
+- [imprisonment.typ] . → 
 - [imprisonment.typ] . → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → , ‘
+- [imprisonment.typ] , → , ‘
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → ’
+- [imprisonment.typ] & → 
+- [imprisonment.typ] . → (
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → .
+- [imprisonment.typ] , → 
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → ;
+- [imprisonment.typ] , → .
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → , ‘
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → ; (
+- [imprisonment.typ] , → , 38);
+- [imprisonment.typ] ; → , ‘
+- [imprisonment.typ] , → ,’ ‘
+- [imprisonment.typ] ; → ’ (Acts 20:23).
+- [imprisonment.typ] , → 
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] ; → .
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] ( → 
+- [imprisonment.typ] ) → 
+- [imprisonment.typ] : → ;
+- [imprisonment.typ] : → ;
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → ;
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] , → 
+- [imprisonment.typ] , → 
+- [imprisonment.typ] : → ;
+- [imprisonment.typ] , → ;
+- [imprisonment.typ] ; → .
+- [imprisonment.typ] ; → ,
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] ; → ?
+- [imprisonment.typ] ( → ,
+- [imprisonment.typ] ) → ,
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
+- [imprisonment.typ] . → 
+- [imprisonment.typ] . → :
+- [imprisonment.typ] ; → :
+- [imprisonment.typ] , → 
 - [imprisonment.typ] . → ,
-- [imprisonment.typ] . → ?
 - [imprisonment.typ] , → (
-- [imprisonment.typ] . → :
-- [imprisonment.typ] - → –
-- [imprisonment.typ] , → (
-- [imprisonment.typ] . → 
-- [imprisonment.typ] . → 
+- [conclusion.typ] : → .
+- [conclusion.typ] , → , ‘
+- [conclusion.typ] : → ;
+- [conclusion.typ] , → , ‘
+- [conclusion.typ] ? → ?’
+- [conclusion.typ] , → 
+- [conclusion.typ] : → .
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → , ‘
+- [conclusion.typ] , → ;
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . (
+- [conclusion.typ] . → )
+- [conclusion.typ] . → . Amen.
 
 ## case
 
-- he → He (×8)
-- his → His (×7)
-- him → Him (×5)
-- thou → Thou (×5)
-- TO → to (×3)
-- BY → by (×2)
-- THE → the (×2)
-- AND → and
-- AUTHOR → author
-- BEGET → beget
-- CHILDREN → Children
-- COUNTED → counted
-- DEDICATED → dedicated
-- FAITH → faith
-- Farther → farther
-- For → for
-- GOD → God
-- HATH → hath
-- HIM → him
-- HIS → his
-- IN → in
-- MINISTRY → ministry
-- So → so
-- THEREOF → thereof
-- THOSE → those
-- The → the
-- Then → then
+- his → His (×121)
+- Soul → soul (×114)
+- him → Him (×103)
+- he → He (×91)
+- Grace → grace (×65)
+- Heaven → heaven (×48)
+- Scripture → scripture (×34)
+- World → world (×34)
+- Conscience → conscience (×27)
+- Faith → faith (×26)
+- Life → life (×25)
+- That → that (×25)
+- But → but (×22)
+- Devil → devil (×22)
+- Blood → blood (×21)
+- Children → children (×20)
+- Tempter → tempter (×20)
+- Word → word (×20)
+- Righteousness → righteousness (×19)
+- Mercy → mercy (×18)
+- And → and (×17)
+- Heart → heart (×17)
+- Salvation → salvation (×17)
+- Scriptures → scriptures (×17)
+- Spirit → spirit (×17)
+- Love → love (×16)
+- Glory → glory (×15)
+- Gospel → gospel (×15)
+- Hell → hell (×15)
+- Law → law (×15)
+- Souls → souls (×14)
+- Work → work (×14)
+- Saints → saints (×13)
+- Country → country (×11)
+- Man → man (×11)
+- People → people (×11)
+- Earth → earth (×10)
+- Oh → oh (×10)
+- Religion → religion (×10)
+- Sentence → sentence (×10)
+- Sin → sin (×10)
+- Day → day (×9)
+- Death → death (×9)
+- Gifts → gifts (×9)
+- It → it (×9)
+- Judgment → judgment (×9)
+- Wife → wife (×9)
+- thou → Thou (×9)
+- Angels → angels (×8)
+- For → for (×8)
+- Sun → sun (×8)
+- Being → being (×7)
+- Book → book (×7)
+- Child → child (×7)
+- Church → church (×7)
+- City → city (×7)
+- Eyes → eyes (×7)
+- Gift → gift (×7)
+- Land → land (×7)
+- Ministry → ministry (×7)
+- Preaching → preaching (×7)
+- So → so (×7)
+- Sword → sword (×7)
+- Truth → truth (×7)
+- Apostle → apostle (×6)
+- Birth → birth (×6)
+- Enemies → enemies (×6)
+- Face → face (×6)
+- He → he (×6)
+- Mind → mind (×6)
+- Name → name (×6)
+- Person → person (×6)
+- Profession → profession (×6)
+- Promise → promise (×6)
+- Sins → sins (×6)
+- The → the (×6)
+- Wall → wall (×6)
+- What → what (×6)
+- Woman → woman (×6)
+- thee → Thee (×6)
+- word → Word (×6)
+- Condition → condition (×5)
+- Consideration → consideration (×5)
+- Conversion → conversion (×5)
+- Eternal → eternal (×5)
+- Exercise → exercise (×5)
+- Grave → grave (×5)
+- House → house (×5)
+- Justice → justice (×5)
+- Kingdom → kingdom (×5)
+- Night → night (×5)
+- Prayer → prayer (×5)
+- Preach → preach (×5)
+- Sermon → sermon (×5)
+- Temptations → temptations (×5)
+- Wisdom → wisdom (×5)
+- himself → Himself (×5)
+- Angel → angel (×4)
+- Arms → arms (×4)
+- As → as (×4)
+- Blessing → blessing (×4)
+- Body → body (×4)
+- Calling → calling (×4)
+- Chains → chains (×4)
+- Company → company (×4)
+- Covenant → covenant (×4)
+- Doctrine → doctrine (×4)
+- Dog → dog (×4)
+- Elders → elders (×4)
+- Flesh → flesh (×4)
+- Godly → godly (×4)
+- Hand → hand (×4)
+- If → if (×4)
+- Lion → lion (×4)
+- Man’s → man’s (×4)
+- Mountain → mountain (×4)
+- Nature → nature (×4)
+- Ordinance → ordinance (×4)
+- Praise → praise (×4)
+- Professors → professors (×4)
+- Resurrection → resurrection (×4)
+- Sentences → sentences (×4)
+- Spirits → spirits (×4)
+- Text → text (×4)
+- Then → then (×4)
+- Town → town (×4)
+- Wilderness → wilderness (×4)
+- Women → women (×4)
+- Works → works (×4)
+- if → If (×4)
+- thy → Thy (×4)
+- Apostles → apostles (×3)
+- Beasts → beasts (×3)
+- Brass → brass (×3)
+- Brother → brother (×3)
+- Comfort → comfort (×3)
+- Commandments → commandments (×3)
+- Corruptions → corruptions (×3)
+- Elect → elect (×3)
+- Enemy → enemy (×3)
+- Errors → errors (×3)
+- Eye → eye (×3)
+- Father → father (×3)
+- Gold → gold (×3)
+- Heavenly → heavenly (×3)
+- Heavens → heavens (×3)
+- Holiness → holiness (×3)
+- Holy → holy (×3)
+- Instrument → instrument (×3)
+- Joy → joy (×3)
+- Judge → judge (×3)
+- Knowledge → knowledge (×3)
+- Ladder → ladder (×3)
+- Laws → laws (×3)
+- Light → light (×3)
+- Men → men (×3)
+- Morning → morning (×3)
+- Neighbours → neighbours (×3)
+- Now → now (×3)
+- One → one (×3)
+- Priest → priest (×3)
+- Prison → prison (×3)
+- Question → question (×3)
+- Redemption → redemption (×3)
+- Remember → remember (×3)
+- Remembrance → remembrance (×3)
+- Repentance → repentance (×3)
+- Sanctification → sanctification (×3)
+- Servant → servant (×3)
+- Servants → servants (×3)
+- Service → service (×3)
+- This → this (×3)
+- Transgressions → transgressions (×3)
+- Tree → tree (×3)
+- Was → was (×3)
+- Wherefore → wherefore (×3)
+- Will → will (×3)
+- Would → would (×3)
+- Yet → yet (×3)
+- Youth → youth (×3)
+- i → I (×3)
+- the → The (×3)
+- Adultery → adultery (×2)
+- Afflictions → afflictions (×2)
+- All → all (×2)
+- Argument → argument (×2)
+- Assemblies → assemblies (×2)
+- At → at (×2)
+- Atheism → atheism (×2)
+- Author → author (×2)
+- Avenger → avenger (×2)
+- Beam → beam (×2)
+- Bed → bed (×2)
+- Bell → bell (×2)
+- Blessed → blessed (×2)
+- Bones → bones (×2)
+- Books → books (×2)
+- Bowels → bowels (×2)
+- Bread → bread (×2)
+- Calamities → calamities (×2)
+- Came → came (×2)
+- Cat → cat (×2)
+- Clerk → clerk (×2)
+- Cold → cold (×2)
+- Comforts → comforts (×2)
+- Creature → creature (×2)
+- Creatures → creatures (×2)
+- Cross → cross (×2)
+- Cymbal → cymbal (×2)
+- Darkness → darkness (×2)
+- Epistles → epistles (×2)
+- Eternity → eternity (×2)
+- Even → even (×2)
+- Experience → experience (×2)
+- Fear → fear (×2)
+- Fears → fears (×2)
+- Fire → fire (×2)
+- Firmament → firmament (×2)
+- Gate → gate (×2)
+- Government → government (×2)
+- Guilt → guilt (×2)
+- Head → head (×2)
+- Hedge → hedge (×2)
+- Heritage → heritage (×2)
+- Hill → hill (×2)
+- Honey → honey (×2)
+- Hope → hope (×2)
+- Horse → horse (×2)
+- How → how (×2)
+- Idols → idols (×2)
+- Imprisonment → imprisonment (×2)
+- Infirmities → infirmities (×2)
+- Inheritance → inheritance (×2)
+- Meeting → meeting (×2)
+- Mercies → mercies (×2)
+- Merits → merits (×2)
+- Mount → mount (×2)
+- My → my (×2)
+- Mystery → mystery (×2)
+- Neck → neck (×2)
+- Neighbour → neighbour (×2)
+- Ordinances → ordinances (×2)
+- Pit → pit (×2)
+- Power → power (×2)
+- Promises → promises (×2)
+- Puddles → puddles (×2)
+- Rain → rain (×2)
+- Ranters → ranters (×2)
+- Refreshment → refreshment (×2)
+- Refuge → refuge (×2)
+- Reprobate → reprobate (×2)
+- Sacrifice → sacrifice (×2)
+- Salutation → salutation (×2)
+- Scales → scales (×2)
+- Seal → seal (×2)
+- Sessions → sessions (×2)
+- Sheep → sheep (×2)
+- Sinners → sinners (×2)
+- Son → son (×2)
+- State → state (×2)
+- Steeple → steeple (×2)
+- Street → street (×2)
+- Swine → swine (×2)
+- Teeth → teeth (×2)
+- Tempest → tempest (×2)
+- There → there (×2)
+- Thought → thought (×2)
+- Treasure → treasure (×2)
+- Unbelief → unbelief (×2)
+- Understanding → understanding (×2)
+- Union → union (×2)
+- Vessel → vessel (×2)
+- Victory → victory (×2)
+- Way → way (×2)
+- Weeks → weeks (×2)
+- When → when (×2)
+- Wretch → wretch (×2)
+- Yea → yea (×2)
+- holy → Holy (×2)
+- now → Now (×2)
+- A → a
+- AND → And
+- Abettors → abettors
+- Able → able
+- Abominations → abominations
+- About → about
+- Accuser → accuser
+- Acquaintance → acquaintance
+- Acts → acts
+- Adder → adder
+- Admonition → admonition
+- Adulterer → adulterer
+- Adulterers → adulterers
+- Affliction → affliction
+- Against → against
+- Agonies → agonies
+- Alarm → alarm
+- Alas → alas
+- Also → also
+- Altar → altar
+- Altars → altars
+- Apostleship → apostleship
+- Apparel → apparel
+- Application → application
+- Are → are
+- Ark → ark
+- Army → army
+- Arrival → arrival
+- Arrows → arrows
+- Art → art
+- Assembly → assembly
+- Attainments → attainments
+- Authors → authors
+- Bad → bad
+- Barn → barn
+- Bars → bars
+- Bastards → bastards
+- Bear → bear
+- Beginnings → beginnings
+- Bells → bells
+- Benefits → benefits
+- Besides → besides
+- Bird → bird
+- Blasphemies → blasphemies
+- Blasphemy → blasphemy
+- Blindness → blindness
+- Bodies → bodies
+- Bonds → bonds
+- Bounty → bounty
+- Brethren → brethren
+- Broad → broad
+- Buildings → buildings
+- Bull → bull
+- Burial → burial
+- Bush → bush
+- By → by
+- Calves → calves
+- Canonical → canonical
+- Captive → captive
+- Captivity → captivity
+- Carcase → carcase
+- Castings → castings
+- Caul → caul
+- Cause → cause
+- Channel → channel
+- Chapter → chapter
+- Charity → charity
+- Civility → civility
+- Close → close
+- Cloud → cloud
+- Commandment → commandment
+- Comment → comment
+- Companion → companion
+- Companions → companions
+- Compassion → compassion
+- Concernments → concernments
+- Conclusion → conclusion
+- Conclusions → conclusions
+- Condemnation → condemnation
+- Conference → conference
+- Confession → confession
+- Conform → conform
+- Conforming → conforming
+- Congregation → congregation
+- Considerations → considerations
+- Consolations → consolations
+- Consumption → consumption
+- Conventicles → conventicles
+- Conversation → conversation
+- Conviction → conviction
+- Copes → copes
+- Corner → corner
+- Corruption → corruption
+- Could → could
+- Countries → countries
+- Cradle → cradle
+- Crows → crows
+- Cry → cry
+- Cud → cud
+- Cup → cup
+- Curse → curse
+- Cymbals → cymbals
+- Damning → damning
+- Days → days
+- Dead → dead
+- Deceitfulness → deceitfulness
+- Deliverance → deliverance
+- Dens → dens
+- Deportment → deportment
+- Descent → descent
+- Despair → despair
+- Destroyer → destroyer
+- Devils → devils
+- Did → did
+- Disciples → disciples
+- Discourse → discourse
+- Divine → divine
+- Doctors → doctors
+- Doubts → doubts
+- Duties → duties
+- Duty → duty
+- Ease → ease
+- Edification → edification
+- Elected → elected
+- Election → election
+- Emperor → emperor
+- Encouragement → encouragement
+- Envy → envy
+- Equals → equals
+- Error → error
+- Especially → especially
+- Evangelists → evangelists
+- Everlasting → everlasting
+- Evidence → evidence
+- Examples → examples
+- Exhortation → exhortation
+- Exhortations → exhortations
+- Fables → fables
+- Fame → fame
+- Family → family
+- Fatherless → fatherless
+- Fellows → fellows
+- Fiddle → fiddle
+- Fiends → fiends
+- First → first
+- Foes → foes
+- Fool → fool
+- Fornicators → fornicators
+- Foundation → foundation
+- Foundations → foundations
+- Frost → frost
+- Gallows → gallows
+- Gap → gap
+- Garb → garb
+- Gates → gates
+- Ghost → ghost
+- Giant → giant
+- Girdle → girdle
+- Glorious → glorious
+- Godliness → godliness
+- Good → good
+- Graces → graces
+- Grave’s → grave’s
+- Great → great
+- Greatness → greatness
+- Guide → guide
+- Had → had
+- Hare → hare
+- Hast → hast
+- Haven → haven
+- Heads → heads
+- Health → health
+- Hearts → hearts
+- Help → help
+- Historical → historical
+- Histories → histories
+- Hoof → hoof
+- Horses → horses
+- Hour → hour
+- Hunger → hunger
+- Husband → husband
+- Hypocrite → hypocrite
+- Ignorance → ignorance
+- In → in
+- Indictment → indictment
+- Iniquities → iniquities
+- Iniquity → iniquity
+- Ink → ink
+- Innocents → innocents
+- Instruction → instruction
+- Insufficiency → insufficiency
+- Intercession → intercession
+- Iron → iron
+- Irons → irons
+- Journeyings → journeyings
+- Judges → judges
+- Judgments → judgments
+- Just → just
+- Justices → justices
+- Keys → keys
+- Kick → kick
+- King → king
+- Kingdoms → kingdoms
+- Knees → knees
+- Lane → lane
+- Legs → legs
+- Leopards → leopards
+- Lest → lest
+- Lightning → lightning
+- Lions → lions
+- Living → living
+- Locusts → locusts
+- Lord → lord
+- Lordships → lordships
+- Maintainer → maintainer
+- Manhood → manhood
+- Many → many
+- Marriage → marriage
+- Master → master
+- Maul → maul
+- Mediator → mediator
+- Meetings → meetings
+- Milk → milk
+- Mill → mill
+- Minds → minds
+- Ministers → ministers
+- Miracle → miracle
+- Mirth → mirth
+- Misses → misses
+- Months → months
+- Mother → mother
+- Mountains → mountains
+- Muck → muck
+- Murder → murder
+- Murderer → murderer
+- Nakedness → nakedness
+- National → national
+- Nations → nations
+- Nay → nay
+- Necessity → necessity
+- Neighbour’s → neighbour’s
+- Neither → neither
+- Nest → nest
+- New → new
+- Noble → noble
+- Not → not
+- OF → Of
+- Oath → oath
+- Objection → objection
+- Objections → objections
+- Offering → offering
+- Offices → offices
+- Operations → operations
+- Opinion → opinion
+- Opportunity → opportunity
+- Or → or
+- Order → order
+- Pains → pains
+- Pangs → pangs
+- Parents → parents
+- Parson → parson
+- Particular → particular
+- Particulars → particulars
+- Parts → parts
+- Passage → passage
+- Peace → peace
+- Pedigree → pedigree
+- Pen → pen
+- Perdition → perdition
+- Perils → perils
+- Piety → piety
+- Pikes → pikes
+- Pillory → pillory
+- Places → places
+- Player → player
+- Point → point
+- Portion → portion
+- Powers → powers
+- Pray → pray
+- Prayers → prayers
+- Preached → preached
+- Pride → pride
+- Priests → priests
+- Prince → prince
+- Prisoner → prisoner
+- Prophets → prophets
+- Providence → providence
+- Purses → purses
+- Quiver → quiver
+- Rack → rack
+- Ranter → ranter
+- Ranting → ranting
+- Reader → reader
+- Reason → reason
+- Reasons → reasons
+- Record → record
+- Regeneration → regeneration
+- Relation → relation
+- Relations → relations
+- Religions → religions
+- Remission → remission
+- Remnant → remnant
+- Revelations → revelations
+- Reward → reward
+- Righteous → righteous
+- Rock → rock
+- Rocks → rocks
+- Rope → rope
+- Ropes → ropes
+- Salute → salute
+- Sanctuary → sanctuary
+- Saving → saving
+- Sayings → sayings
+- School → school
+- Sea → sea
+- Seals → seals
+- Seed → seed
+- Sentinel → sentinel
+- Sermons → sermons
+- Settle → settle
+- Should → should
+- Siege → siege
+- Sinner → sinner
+- Sister → sister
+- Slayer → slayer
+- Soldier → soldier
+- Songs → songs
+- Sons → sons
+- Sot → sot
+- Stable → stable
+- Stake → stake
+- Stars → stars
+- Stewardship → stewardship
+- Streets → streets
+- Subject → subject
+- Sufferings → sufferings
+- Superstition → superstition
+- Supper → supper
+- Support → support
+- Sureties → sureties
+- THE → the
+- TO → to
+- Talker → talker
+- Tears → tears
+- Temple → temple
+- Temples → temples
+- Temptation → temptation
+- Tenderness → tenderness
+- Terrors → terrors
+- Texts → texts
+- Than → than
+- Their → their
+- These → these
+- They → they
+- Thirstings → thirstings
+- Thorn → thorn
 - Those → those
-- Thou → thou
-- WHOM → whom
-- WORD → word
-- WORTHY → worthy
+- Thoughts → thoughts
+- Throne → throne
+- Times → times
+- Timorousness → timorousness
+- To → to
+- Toad → toad
+- Tongue → tongue
+- Tongues → tongues
+- Torments → torments
+- Transgression → transgression
+- Travel → travel
+- Trembling → trembling
+- Tribunal → tribunal
+- Triumph → triumph
+- Troubles → troubles
+- Trunk → trunk
+- Trunks → trunks
+- Uncleanness → uncleanness
+- Unlawful → unlawful
+- Unrighteousness → unrighteousness
+- Upholder → upholder
+- Vein → vein
+- Virtues → virtues
+- Vision → vision
 - WRITTEN → Written
-- thee → Thee
-- thy → Thy
+- Water → water
+- Wheel → wheel
+- Where → where
+- Whether → whether
+- Whip → whip
+- Who → who
+- Whores → whores
+- Why → why
+- Widows → widows
+- Wind → wind
+- Winds → winds
+- Witch → witch
+- With → with
+- Within → within
+- Witnesses → witnesses
+- Wits → wits
+- Wives → wives
+- Womb → womb
+- Words → words
+- Working → working
+- Worlds → worlds
+- Worm → worm
+- Worship → worship
+- Worshippers → worshippers
+- Wrath → wrath
+- Writ → writ
+- Writers → writers
+- Year → year
+- Years → years
+- Yoke → yoke
+- Zeal → zeal
+- are → Are
+- as → As
+- blessed → Blessed
+- but → But
+- by → By
+- fire → Fire
+- friend → Friend
+- me → Me
+- my → My
+- no → No
+- sell → Sell
+- this → This
+- to → To
+- when → When
+- yea → Yea
 
 ## spelling
 
-- to → unto (×5)
-- on → upon (×3)
-- 24 → 24) (×2)
-- Kings → Kgs (×2)
-- had → has (×2)
-- into → in (×2)
-- into → unto (×2)
-- nor → or (×2)
-- 11 → 11)
-- 16 → 16)
-- 18 → 18)
-- 20 → 20)
+- also → also, (×22)
+- therefore → therefore, (×13)
+- Now → Now, (×12)
+- and → and, (×12)
+- yet → yet, (×10)
+- God → God, (×9)
+- again → again, (×8)
+- me → me, (×8)
+- that → that, (×8)
+- O → Oh (×7)
+- Wherefore → Wherefore, (×7)
+- suddainly → suddenly (×7)
+- which → which, (×7)
+- 20 → 20) (×6)
+- 9 → 9) (×6)
+- now → now, (×6)
+- though → though, (×6)
+- time → time, (×6)
+- 5 → 5) (×5)
+- Also → Also, (×5)
+- And → And, (×5)
+- Christ → Christ, (×5)
+- Gods → God’s (×5)
+- Soul → soul, (×5)
+- me → me’ (×5)
+- not → not, (×5)
+- then → then, (×5)
+- thorow → through (×5)
+- 13 → 13) (×4)
+- 14 → 14) (×4)
+- 16 → 16) (×4)
+- 2 → 2) (×4)
+- 25 → 25) (×4)
+- 6 → 6) (×4)
+- So → So, (×4)
+- This → This, (×4)
+- Thus → Thus, (×4)
+- a → a- (×4)
+- burthen → burden (×4)
+- first → first, (×4)
+- for → for, (×4)
+- had → had, (×4)
+- it → it, (×4)
+- sate → sat (×4)
+- then → than (×4)
+- tis → is (×4)
+- 12 → 12) (×3)
+- 17 → 17) (×3)
+- 24 → 24) (×3)
+- 3 → 3) (×3)
+- But → But, (×3)
+- God → God’ (×3)
+- Here → Here, (×3)
+- Musick → music (×3)
+- Sometimes → Sometimes, (×3)
+- before → before, (×3)
+- last → last, (×3)
+- loth → loath (×3)
+- ought → aught (×3)
+- publick → public (×3)
+- sieze → seize (×3)
+- sin → sin’ (×3)
+- stroak → stroke (×3)
+- things → things, (×3)
+- think → think, (×3)
+- this → this, (×3)
+- thought → thought, (×3)
+- was → was, (×3)
+- were → were, (×3)
+- who → who, (×3)
+- you → you, (×3)
+- 1 → 1) (×2)
+- 15 → 15) (×2)
+- 19 → 19) (×2)
+- 22 → 22) (×2)
+- 28 → 28) (×2)
+- 4 → 4) (×2)
+- 7 → 7) (×2)
+- 8 → 8) (×2)
+- Act → (Act (×2)
+- Besides → Besides, (×2)
+- Desparation → desperation (×2)
+- Esau's → Esau’s (×2)
+- How → How, (×2)
+- Jesus → Jesus’ (×2)
+- Joh → (Joh (×2)
+- Lord → Lord, (×2)
+- Lords → Lord’s (×2)
+- Mar → (Mar (×2)
+- Then → Then, (×2)
+- Tis → is (×2)
+- Twas → was (×2)
+- be → be, (×2)
+- committed → committed, (×2)
+- considered → considered, (×2)
+- days → days, (×2)
+- denyed → denied (×2)
+- divers → diverse (×2)
+- enlightned → enlightened (×2)
+- fastned → fastened (×2)
+- fell → fell, (×2)
+- found → found, (×2)
+- heart → heart, (×2)
+- if → if, (×2)
+- improvement → improvement, (×2)
+- indeed → indeed, (×2)
+- is → is, (×2)
+- joy → joy’ (×2)
+- knees → knees, (×2)
+- know → know, (×2)
+- mens → men’s (×2)
+- might → might, (×2)
+- mind → mind, (×2)
+- of → of, (×2)
+- rather → rather, (×2)
+- rejoyce → rejoice (×2)
+- rejoycing → rejoicing (×2)
+- remember → remember, (×2)
+- said → said, (×2)
+- saw → saw, (×2)
+- self → yourself (×2)
+- should → should, (×2)
+- sin → sin, (×2)
+- sometimes → sometimes, (×2)
+- spight → spite (×2)
+- suddain → sudden (×2)
+- temptation → temptation, (×2)
+- terrour → terror (×2)
+- them → them, (×2)
+- these → these, (×2)
+- tho → though (×2)
+- thorough → through (×2)
+- thus → thus, (×2)
+- too → too, (×2)
+- way → way, (×2)
+- when → when, (×2)
+- where → where, (×2)
+- wise → wise’ (×2)
+- would → would, (×2)
+- yea → yea, (×2)
+- 10 → 10)
+- 14 → 14:
+- 2 → 2:
+- 21 → 21)
 - 23 → 23)
 - 26 → 26)
+- 27 → 27)
+- 31 → 31)
+- 33 → 33)
+- 34 → 34.
+- 35 → 35)
+- 36 → 36)
+- 37 → 37)
 - 38 → 38)
-- 5 → 5)
-- 8 → 8)
-- 9 → 9)
-- 97 → 97.
-- Eccles → Eccl
-- Hebrews → Heb
-- I → it
-- Mounments → Monuments
-- Now → No
-- abd → and
-- almost → also
-- an → any
-- as → a
-- befal → befall
-- bye → by
-- case → cause
-- channel → channel,
-- continued → continual
-- denial → denying
-- dispensation → dispensations
-- efforts → offers
-- faces → face
-- falling → fallen
-- faults → false
+- 55 → 55)
+- 57 → 57.
+- Abrahams → Abraham’s
+- Ah → Ah,
+- Angels → angels,
+- Ay → aye
+- Battel → battle,
+- Bedford → Bedford,
+- Behold → Behold,
+- Birthright → birthright’
+- Book → book,
+- Chastizement → chastisement
+- Christ's → Christ’s
+- Christs → Christ’s
+- Churches → church’s
+- Cloaths → clothes
+- Cymbal → cymbal,
+- Cymbal → cymbal’
+- Death → death,
+- Discourse → discourse,
+- Dove → dove’
+- Enjoyments → enjoyments,
+- Ephes → (Eph
+- Every → Everyone
+- Farewel → Farewell
+- Fleece → fleece,
+- Forasmuch → Forasmuch,
+- Fox → Foxe’s
+- Generations → generations’
+- Glory → glory’
+- Goalers → gaolers’
+- God → God;
+- God's → God’s
+- Goliah → Goliath
+- Goliah’s → Goliath’s
+- Grace → grace,
+- Grace → grace.
+- Gypsy → gipsy
+- Hare → hare,
+- Heaven → heaven,
+- Honey → honey,
+- Hosea → (Hos
+- Hungrings → hungerings
+- I → I,
+- I → I.
+- Jam → (Ja
+- Jesus → Jesus,
+- Joy → joy’
+- Judas → Judas,
+- Judges → judges,
+- King → Kg
+- Law → law,
+- Lions → lions’
+- Lord → Lord’
+- Love → love’
+- Loyns → loins
+- Luk → (Luk
+- Mens → men’s
+- Miracle → miracle:
+- Multitude → multitude,
+- Musick → music,
+- My → ‘my
+- Oh → Oh,
+- Patience → patience,
+- Peter's → Peter’s
+- Philistines → Philistines’
+- Promise → promise,
+- Redemption → redemption’
+- Reformation → reformation,
+- Repentance → repentance’
+- Respects → -respects
+- Righteousness → righteousness;
+- Saint → saint,
+- Satan's → Satan’s
+- Sathan → Satan
+- Scripture → scripture,
+- Scriptures → Scriptures,
+- Simon → Simon,
+- Sion → Sion,
+- Snow → snow,
+- Something → Something,
+- Spring → spring,
+- Stephanus → Stephanas
+- Stile → style
+- That → That,
+- That → that,
+- Therefore → Therefore,
+- Think → think-
+- Travel → travail
+- Truth → truth’
+- W'hat → “What
+- W'hose → ‘Whose
+- Wandrings → Wanderings
+- Wherefore → wherefore,
+- Which → Which,
+- Why → Why,
+- Why → “why
+- Widows → widow’s
+- Wife → wife,
+- Without → ‘without
+- Wits → wits’
+- Wizzard → wizard
+- Wizzards → wizards
+- Womans → woman’s
+- Wonderful → Wonderful,
+- Work → work,
+- World → world,
+- World → world;
+- W’all → wall,
+- Yea → Yea,
+- Yea → ‘yea
+- Years → years’
+- Yet → Yet,
+- Youth → youth’
+- Zion → Zion’
+- account → account,
+- advantage → advantage,
+- afflicted → afflicted,
+- after → after,
+- afterwards → afterwards,
+- alone → alone,
+- also → also’
+- amazement → amazement.
+- another → another,
+- answered → answered,
+- appear'd → appeared
+- as → as,
+- ashamed → ashamed,
+- be → be.
+- bear → bear;
+- because → because,
+- before → before’
+- began → began,
+- behold → behold,
+- believe → believe,
+- bigger → bigger,
+- bondage → bondage’
+- born → borne
+- burnt → burned
+- burthens → burdens
+- but → but,
+- can → can,
+- catcht → catch
+- cloaths → clothes
+- clog’d → clogged
+- come → come,
+- comes → comes’
+- comforted → comforted,
+- comforts → comfort’s
+- condemned → condemned,
+- consideration → consideration,
+- considering → considering,
+- content → content,
+- conviction → conviction,
+- could → could,
+- couldst → couldest
+- crick → creek
+- cross → cross’
+- cryed → cried
+- crying → crying,
+- cursing → cursing,
+- damnation → damnation,
+- darkned → darkened
+- darkness → darkness,
+- day → day,
+- days → days’
+- days → day’s
+- dead → dead,
+- deliberation → deliberation,
+- desertion → desertion;
+- desparation → desperation
+- desperate → desperate,
+- despised → despised,
+- did → did,
+- die → die,
+- difficulty → difficulty,
+- diligence → diligence,
+- disannul → disannul,
+- discourse → discourse;
+- disobedience → disobedience’
+- disswasions → dissuasions
+- distress → distress’
+- doubt → doubt,
+- dropt → dropped
+- dye → die
+- earnestness → earnestness,
+- engendred → engendered
+- enquire → inquire
+- enquiry → inquiry
+- estate → state
+- etc → etc.
+- ever → ever’
+- exceeding → exceedingly
+- faln → fallen
+- falshoods → falsehoods
+- fasly → falsely
+- fears → fears,
+- fear’d → feared
+- feet → feet,
+- filled → filled’
+- fire → fire;
+- first → firstborn
+- fitness → fitness,
+- fools → fools,
+- for → ‘For
+- force → force,
 - fore → fore-
-- has → had
-- have → save
-- his → its
-- intreat → entreat
-- intreated → entreated
-- kiss → kiss;
-- knew → know
-- lead → lean
-- leadings → dealings
-- love’ → dove’
-- made → make
-- man → men
-- me → me,
-- mistrusting → mistrust
-- no → not
-- not → no
-- ought → aught
-- redemption’ → redemption’;
-- relief → belief
-- said → said,
-- salvation → salutation
-- say → saw
-- seriousness → fearfulness
-- set → yet
-- shewn → shown
-- should → would
-- sins → sin
-- sins’ → sin’
-- spirit → spurt
-- taste → take
-- their → the
-- them → others
+- frame → frame,
+- gauled → galled
+- go → go’
+- good → good,
+- gravely → gravely,
+- grief → grief,
+- grievous → grievously
+- groaned → groaned;
+- guilty → guilty,
+- hairs → hair’s
+- handhold → hand-hold
+- handsom → handsome
+- hang’d → hanged
+- happy → happy,
+- he → He,
+- head → head,
+- heard → heard,
+- heart → heart!
+- heighth → height
+- him → Him.
+- him → him,
+- him → him:
+- him → him’
+- holden → held
+- hollow → holloa
+- horrour → horror
+- house → house,
+- how → how,
+- ill → ill-
+- inabled → enabled
+- inchantments → enchantments
+- inclose → enclose
+- inclosed → enclosed
+- ineffectual → ineffectual,
+- inforcing → enforcing
+- it's → its
+- joyn → join
+- joyned → joined
+- judge → judge,
+- judgment → judgment,
+- kept → kept,
+- known → known’
+- labour → labour,
+- lamenting → lamenting,
+- lasted → lasted,
+- lean’d → leaned
+- lear → leer
+- learnt → learned
+- lie → lie,
+- lightned → lightened
+- long → long-
+- look → ‘Look
+- look't → looked
+- loose → loosen
+- loyns → loins
+- lye → lie
+- lying → lying,
+- maintained → maintained,
+- man → man.
+- man's → man’s
+- manners → manners;
+- mans → man’s
+- me → me.
+- measure → measure,
+- meer → mere
+- mercy → mercy,
+- mercy → mercy’
+- methinks → methinks,
+- methought → methought,
+- might → might;
+- mine → mine.
+- miseries → miseries,
+- mist → missed
+- moment → moment,
+- month → month,
+- mopeing → moping
+- morning → morning,
+- must → must,
+- namely → namely,
+- nature → nature,
+- negligence → negligence,
+- neither → neither,
+- no → no.
+- no → no’
+- not → not;
+- not → not’
+- off → off,
+- oh → oh,
+- one → one.
+- open → open,
+- otherwise → otherwise,
+- out → out,
+- out → out’
+- pangs → pangs,
+- pardonable → pardonable,
+- part → part,
+- past → past,
+- people → people’
+- peoples → people’s
+- perplexed → perplexed,
+- places → places,
+- plowed → ploughed
+- power → power,
+- prayer → prayer,
+- praying → praying,
+- pray’d → prayed
+- present → present,
+- prophaneness → profaneness
+- protection → protection,
+- question → question,
+- quickly → quickly,
+- race → race,
+- ratling → rattling
+- rayling → railing
+- read → read,
+- rejected → rejected’
+- rejoice → rejoice,
+- remission → remission’
+- rent → rend
+- repentance → repentance,
+- resolvings → resolvings,
+- return → return’
+- right → right’
+- ring → ring,
+- room → room’
+- rumored → rumoured
+- say → say,
+- scattered → scattered,
+- scruple → scruple,
+- scurfy → scurvy
+- secresy → secrecy
+- see → see,
+- seisure → seizure
+- self → thyself
+- sense → sense,
+- sensless → senseless
+- seriousness → seriousness,
+- shame → shame’
+- shamed → ashamed
+- showed → shown
+- shrink → shrink,
+- sideling → sidling
+- siezed → seized
+- sight → sight’
+- slanders → slanders,
+- slight → slight,
+- small → small,
+- so → so,
+- some → sometimes
+- sordid → sordid,
+- state → state,
+- stedfast → steadfast
+- stile → style
+- still → still,
+- still → still.
+- straitned → straitened
+- such → such,
+- surprize → surprise
+- surprized → surprised
+- sweetness → sweetness,
+- tears → tears’
+- tell → tell,
+- temptations → temptations,
+- than → than,
+- that → that;
+- them → them;
 - them → those
-- these → this
-- upon → on
-- vanish → vanish,
-- when → then
-- whosoever → whomsoever
-- words → word
-- world → word
-- would → should
-- yea → yet
-- yielded → yielding
-- ‘twas → ’twas
+- thereat → thereat,
+- therein → therein,
+- thereto → thereto;
+- they → they,
+- thing → anything
+- thing → thing.
+- thought → methought
+- thought → thought;
+- thousands → thousands,
+- tho’ → though
+- threats → threats,
+- three → three-
+- times → times,
+- to → to,
+- to → to-
+- together → together,
+- tore → torn
+- travel → travail
+- travelled → travailed
+- trembling → trembling,
+- trifle → trifle;
+- truly → truly,
+- truth → truth,
+- tryal → trial
+- tryed → tried
+- twas → was
+- twice → twice,
+- two → two,
+- unawares → unawares,
+- uncapable → incapable
+- unexpressible → inexpressible
+- unwittingly → unwittingly,
+- us → us,
+- us → us’
+- utterance → utterance,
+- venture → venture,
+- verily → verily,
+- villany → villainy
+- ward → ward,
+- ways → ways,
+- ways → ways’
+- wearisomnels → wearisomeness
+- weeks → weeks’
+- well → well-
+- whereas → whereas,
+- wherefore → wherefore,
+- wherewith → wherewith,
+- will → will.
+- will → will’
+- willing → willing,
+- wishings → wishings,
+- woful → woeful
+- wondred → wondered
+- word → word,
+- word → word.
+- words → words,
+- would → would’
+- wrapt → wrapped
+- years → years’
+- yet → ye
 
