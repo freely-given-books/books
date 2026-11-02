@@ -9,7 +9,7 @@ summary = "Spurgeon's All of Grace in the words of the 1886 printing (New York, 
 file = "source/grace.thml.xml"
 description = "Our transcription (CC0) of All of Grace (New York: Robert Carter & Brothers, 1886): Kraken OCR of the archive.org scan corrected by four witnesses and the page images: source/SOURCES.md"
 url = "https://archive.org/details/allofgraceearnes00spur"
-sha256 = "6e0415efaa10229b68f92f5bd2c26cc449c99d6260d4a02cfb17e6b0e836f913"
+sha256 = "226534b2eeb7b0aa031db495fb69bb31d8c6156edfd6df9dfed06aefa085f86c"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
