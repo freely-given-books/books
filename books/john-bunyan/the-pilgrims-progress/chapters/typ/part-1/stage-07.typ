@@ -153,7 +153,7 @@ Now I saw that, just on the other side of this plain, the pilgrims came to a pla
 
 #speech[#smallcaps[Hopeful]: I am sorry that I was so foolish, and am made to wonder that I am not now as Lot’s wife; for wherein was the difference betwixt her sin and mine? She only looked back, and I had a desire to go see. Let grace be adored; and let me be ashamed that ever such a thing should be in mine heart.]
 
-#speech[#smallcaps[Christian]: Let us take notice of what we see here, for our help from time to come. This woman escaped one judgment, for she fell not by the destruction of Sodom; yet she was destroyed by another, as we see: she is turned into a pillar of salt.]
+#speech[#smallcaps[Christian]: Let us take notice of what we see here, for our help for time to come. This woman escaped one judgment, for she fell not by the destruction of Sodom; yet she was destroyed by another, as we see: she is turned into a pillar of salt.]
 
 #speech[#smallcaps[Hopeful]: True, and she may be to us both caution and example; caution, that we should shun her sin; or a sign of what judgment will overtake such as shall not be prevented by this caution: so Korah, Dathan, and Abiram, with the two hundred and fifty men that perished in their sin, did also become a sign or example to others to beware. Num 16:31, 32; 26:9, 10. But above all, I muse at one thing, to wit, how Demas and his fellows can stand so confidently yonder to look for that treasure, which this woman but for looking behind her after, (for we read not that she stepped one foot out of the way,) was turned into a pillar of salt; especially since the judgment which overtook her did make her an example within sight of where they are; for they cannot choose but see her, did they but lift up their eyes.]
 

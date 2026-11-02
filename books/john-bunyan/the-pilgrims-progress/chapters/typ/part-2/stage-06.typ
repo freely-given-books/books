@@ -137,7 +137,7 @@ Now I saw that they still went on in their talk. For after Mr. Great-Heart had m
 
 #speech[#smallcaps[Mr. Great-Heart]: Prithee, Mr. Honest, present us with a few particulars.]
 
-#speech[#smallcaps[Mr. Honest]: So I will. He said, to have to do with other men’s wives had been practised by David, God’s beloved; and therefore he could do it. He said, to have more women than one was a thing that Solomon practised, and therefore he could do it. He said, that Sarah and the godly midwives of Egypt lied, and so did save Rahab, and therefore he could do it. He said, that the disciples went at the bidding of their Master, and took away the owner’s ass, and therefore he could do so too. He said, that Jacob got the inheritance of his father in a way of guile and dissimulation, and therefore he could do so too.]
+#speech[#smallcaps[Mr. Honest]: So I will. He said, to have to do with other men’s wives had been practised by David, God’s beloved; and therefore he could do it. He said, to have more women than one was a thing that Solomon practised, and therefore he could do it. He said, that Sarah and the godly midwives of Egypt lied, and so did saved Rahab, and therefore he could do it. He said, that the disciples went at the bidding of their Master, and took away the owner’s ass, and therefore he could do so too. He said, that Jacob got the inheritance of his father in a way of guile and dissimulation, and therefore he could do so too.]
 
 #speech[#smallcaps[Mr. Great-Heart]: High base indeed! And are you sure he was of this opinion?]
 
