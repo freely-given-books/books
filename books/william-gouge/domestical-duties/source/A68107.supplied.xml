@@ -84,5 +84,9 @@ His <hi>Wisdome,</hi> in that he turned that which had an apparent shew of great
     the copy the TCP was made from), each read on the page image.</desc>
     <fix pb="61" before="To this purpoſe" tcp="faith" print="ſaith" after="the Apoſtle"
          evidence="p. 61 (scan n86): 'To this purpoſe ſaith the Apoſtle', long s as in purpoſe (GPT review Q004)"/>
+    <fix pb="tcp:3442:3" before="" tcp="M" print="" after=""
+         evidence="Ep. Ded. (scan n4): the margin note begins with the Greek Μακρολόγος; the transcription's M is that word's first letter read as Latin, not a separate letter (GPT review Q003)"/>
+    <fix pb="530" before="See Treat. 1. §." tcp="110" print="119" after=""
+         evidence="p. 530 (scan n549): margin '* παιδεία. See Treat. 1. §. 119.', where Treatise I defines nurture (GPT review Q008)"/>
   </corrections>
 </supplement>

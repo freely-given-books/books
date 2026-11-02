@@ -21,7 +21,7 @@ The nurturing of children before mentioned consisteth
 
 Not only heathen men, and other moralists which were but mere natural civil men, but also the Holy Ghost himself hath prescribed many rules of good manners, and much urged and pressed the same.
 
-1\. The word #footnote[παιδεία. See Treat. 1. §. 110.] #emph[nurture] mentioned by the Apostle in this text which we have in hand, implieth as much: and the phrase which #emph[Solomon] useth, #emph[Train up a child in the way he should go:]#footnote[Prov 22:6.] that is, teach him how to order the course of his life.
+1\. The word #emph[nurture]#footnote[παιδεία. See Treat. 1. §. 119.] mentioned by the Apostle in this text which we have in hand, implieth as much: and the phrase which #emph[Solomon] useth, #emph[Train up a child in the way he should go:]#footnote[Prov 22:6.] that is, teach him how to order the course of his life.
 
 2\. The many #footnote[Lev 19:32. Prov 25:6. Luke 14:8.] precepts of reverencing our superiors, and carrying our selves with respect one to another, are rules of good manners. Hereof there be very many in scripture.
 
