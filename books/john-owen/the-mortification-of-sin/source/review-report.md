@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 517 |
-| emendation | 308 |
-| punctuation | 64 |
-| spelling | 31 |
+| spacing | 518 |
+| emendation | 309 |
+| punctuation | 66 |
+| spelling | 30 |
 | heading | 18 |
 | grammar | 1 |
 | split | 1 |
@@ -288,6 +288,7 @@
 - [chapter-14.typ note] . i . → 1:
 - [chapter-14.typ note] . xv . → 15:
 - [chapter-14.typ note] . i . → 1:
+- [chapter-14.typ note] v → 5
 - [chapter-14.typ note] . i . 18 → 1:13
 - [chapter-14.typ note] . xii . → 12:
 - [chapter-14.typ] . vi . → 6:
@@ -386,6 +387,8 @@
 - [chapter-14.typ note] . → :
 - [chapter-14.typ note] . → :
 - [chapter-14.typ note] . → :
+- [chapter-14.typ note] , → ;
+- [chapter-14.typ note] . → :
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → :
@@ -409,7 +412,6 @@
 - perplex → perplex;
 - this → his
 - unhealthy → healthy
-- v → vv
 - αἰνίγματι → αἰνίγματι,
 - λαβωμεν → λάβωμεν
 - προσώπω → προσώπῳ

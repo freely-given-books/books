@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 2556 |
-| emendation | 2162 |
-| punctuation | 611 |
-| spelling | 287 |
+| spacing | 2558 |
+| emendation | 2164 |
+| punctuation | 615 |
+| spelling | 286 |
 | grammar | 45 |
 | list | 22 |
 | italic | 7 |
@@ -2134,6 +2134,8 @@
 - [appendix-2-sprigge.typ] i → 1
 - [appendix-2-sprigge.typ] . ix . → 9:
 - [appendix-2-sprigge.typ] . ii . → 2:
+- [appendix-2-sprigge.typ] v → 5
+- [appendix-2-sprigge.typ] vii → 7
 - [appendix-2-sprigge.typ] 27 → 28
 - [appendix-2-sprigge.typ] . viii . → 8:
 - [appendix-2-sprigge.typ] . vii . → 7:
@@ -2799,6 +2801,10 @@
 - [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
+- [appendix-2-sprigge.typ] . → :
+- [appendix-2-sprigge.typ] , → ;
+- [appendix-2-sprigge.typ] . → :
 - [appendix-2-sprigge.typ] , → –
 - [appendix-2-sprigge.typ] , → ;
 - [appendix-2-sprigge.typ] . → :
@@ -2851,7 +2857,6 @@
 - them → those (×2)
 - those → them (×2)
 - to → into (×2)
-- v → vv (×2)
 - voice → noise (×2)
 - word → words (×2)
 - Bible → Bibles
@@ -2963,6 +2968,7 @@
 - truth → truths
 - undeniable → undeniably
 - upon → on
+- v → vv
 - water → waters
 - way → ways
 - where → when
