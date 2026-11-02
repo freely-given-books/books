@@ -3,9 +3,9 @@
 | kind | count |
 | --- | --- |
 | emendation | 368 |
-| punctuation | 349 |
+| punctuation | 350 |
 | spacing | 97 |
-| spelling | 92 |
+| spelling | 96 |
 | case | 60 |
 | grammar | 8 |
 | italic | 1 |
@@ -464,6 +464,7 @@
 - [relation.typ] . → 
 - [relation.typ] . → :
 - [relation.typ] ; → ; my hinder parts were inward;
+- [relation.typ] , → 
 - [relation.typ] . → 
 - [relation.typ] . → :
 - [relation.typ] . → :
@@ -630,7 +631,7 @@
 - [relation.typ] . → :
 - [relation.typ] . → :
 - [relation.typ] . → 
-- [relation.typ] , → :
+- [relation.typ] , → –
 - [relation.typ] . → 
 - [relation.typ] . → :
 - [relation.typ] . → :
@@ -829,6 +830,7 @@
 - intreated → entreated
 - kiss → kiss;
 - knew → know
+- lead → lean
 - leadings → dealings
 - love’ → dove’
 - made → make
@@ -839,7 +841,10 @@
 - not → no
 - ought → aught
 - redemption’ → redemption’;
+- relief → belief
 - said → said,
+- salvation → salutation
+- say → saw
 - seriousness → fearfulness
 - set → yet
 - shewn → shown
