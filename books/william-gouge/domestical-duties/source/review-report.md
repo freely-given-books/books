@@ -10,13 +10,13 @@
 | note moved | 1096 |
 | grammar | 147 |
 | case | 146 |
-| list | 139 |
+| list | 141 |
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
 | inset | 24 |
+| split | 20 |
 | note | 13 |
-| split | 10 |
 | epigraph | 2 |
 
 ## split
@@ -28,6 +28,16 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 1
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 2
 - [vol-1/03-headship-in-marriage-and-the-church.typ] paragraph → 1 split(s) at 3
+- [vol-2/01-seeking-marriage.typ] paragraph → 1 split(s) at 1
+- [vol-2/01-seeking-marriage.typ] paragraph → 1 split(s) at 2
+- [vol-2/01-seeking-marriage.typ] paragraph → 1 split(s) at 3
+- [vol-2/01-seeking-marriage.typ] paragraph → 1 split(s) at 4
+- [vol-2/01-seeking-marriage.typ] paragraph → 1 split(s) at 5
+- [vol-2/02-getting-married.typ] paragraph → 1 split(s) at 1
+- [vol-2/02-getting-married.typ] paragraph → 1 split(s) at 2
+- [vol-2/02-getting-married.typ] paragraph → 1 split(s) at 3
+- [vol-2/02-getting-married.typ] paragraph → 1 split(s) at 4
+- [vol-2/02-getting-married.typ] paragraph → 1 split(s) at 5
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] paragraph → 1 split(s) at 3
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ] paragraph → 1 split(s) at 3
 - [vol-4/02-a-servants-reverence-for-his-master.typ] paragraph → 1 split(s) at 4

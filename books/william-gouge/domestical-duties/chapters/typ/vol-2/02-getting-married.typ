@@ -120,15 +120,14 @@ Great reason there is why marriage should with such honour be solemnized. For it
 
 5\. The #emph[Manner] was with as great deliberation as ever was used in instituting any ordinance. For first the three glorious #footnote[Gen 2:18. #emph[Cui hoc dicitur? non creatae alicui potentiae, sed ei qui ex se natus est, Consiliario admirabili, etc. Chrys. in Gen. hom.] 14.] persons in the Trinity do meet to advise about it. For #emph[The Lord God said,] and to whom should he speak? Not to any created power, but to him that was begotten of himself, that #emph[Wonderful, Counsellor,] etc. In this consultation this ordinance is found to be very needful: #emph[(It is not good for man to be alone)] thereupon a determination is set down, to #emph[make an help meet for man.] For the better effecting hereof the Lord proceedeth thereto very deliberately, by sundry steps, and degrees.
 
-1\. All the creatures that lived on the earth, or breathed in the air, are brought before man, to see if an help meet for him might be found among them.
-
-2\. Every of them being thoroughly viewed, and found unfit, another creature is made and that out of man’s substance and side, and after his image.
-
-3\. This excellent creature thus made is by the maker thereof presented to man, to see how he would like it.
-
-4\. Man manifesting a good liking to her, she is given to him to be his wife.
-
-5\. The inviolable law of the near and firm union of man and wife together is enacted.
+#[
+#set enum(indent: 24pt)
++ All the creatures that lived on the earth, or breathed in the air, are brought before man, to see if an help meet for him might be found among them.
++ Every of them being thoroughly viewed, and found unfit, another creature is made and that out of man’s substance and side, and after his image.
++ This excellent creature thus made is by the maker thereof presented to man, to see how he would like it.
++ Man manifesting a good liking to her, she is given to him to be his wife.
++ The inviolable law of the near and firm union of man and wife together is enacted.
+]
 
 Let all the forenamed branches concerning the first institution of marriage expressly recorded by the Holy Ghost be well weighed, and we shall easily see that there is no ordinance now in force among the sons of men so honourable in the institution thereof, as this.
 

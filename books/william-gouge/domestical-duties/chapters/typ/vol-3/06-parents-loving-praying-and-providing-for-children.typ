@@ -33,7 +33,6 @@ The precept it self enjoineth to parents three duties.
 
 + To #emph[nourish] children, namely with food, apparel, and other like necessaries #emph[(Nourish them.)]
 + To #emph[nurture] them, namely with good discipline #emph[(In nurture.)]
-
 + To #emph[instruct] them, namely in the ways of God #emph[(And admonition of the Lord.)]
 
 Nature teacheth unreasonable creatures to do the first, civility teacheth reasonable men to do the second, piety teacheth Christians to do the third.
