@@ -49,55 +49,73 @@
 #show: keep-notes.with(("16": "w", "104": "s+", "224": "b", "527": "w", "540": "t+", "596": "b", "703": "s++", "705": "w", "718": "b", "719": "s-", "851": "w", "1025": "s--", "1106": "w", "1116": "b", "1184": "b",))
 
 #metadata[Seeking Marriage] <short>
+#metadata((part: [The Second Treatise, Part I: Of Husband and Wife], sections: [§§. 1–13])) <kicker>
 #include "chapters/typ/vol-2/01-seeking-marriage.typ"
 
 #metadata[Getting Married] <short>
+#metadata((part: [The Second Treatise, Part I: Of Husband and Wife], sections: [§§. 14–28])) <kicker>
 #include "chapters/typ/vol-2/02-getting-married.typ"
 
 #metadata[Marital Unity and Sexual Faithfulness] <short>
+#metadata((part: [The Second Treatise, Part II: Of Their Common Duties], sections: [§§. 1–9])) <kicker>
 #include "chapters/typ/vol-2/03-marital-unity-and-sexual-faithfulness.typ"
 
 #metadata[Living Together in Love] <short>
+#metadata((part: [The Second Treatise, Part II: Of Their Common Duties], sections: [§§. 10–17])) <kicker>
 #include "chapters/typ/vol-2/04-living-together-in-love.typ"
 
 #metadata[Caring for Each Other’s Souls] <short>
+#metadata((part: [The Second Treatise, Part II: Of Their Common Duties], sections: [§§. 18–28])) <kicker>
 #include "chapters/typ/vol-2/05-caring-for-each-others-souls.typ"
 
 #metadata[Guarding Each Other’s Health, Reputation, and Property] <short>
+#metadata((part: [The Second Treatise, Part II: Of Their Common Duties], sections: [§§. 29–39])) <kicker>
 #include "chapters/typ/vol-2/06-guarding-each-others-health-reputation-and-property.typ"
 
 #metadata[Serving Together in Family Ministry] <short>
+#metadata((part: [The Second Treatise, Part II: Of Their Common Duties], sections: [§§. 40–45])) <kicker>
 #include "chapters/typ/vol-2/07-serving-together-in-family-ministry.typ"
 
 #metadata[A Wife’s Respect for Her Husband] <short>
+#metadata((part: [The Third Treatise: Of Wives], sections: [§§. 1–16])) <kicker>
 #include "chapters/typ/vol-2/08-a-wifes-respect-for-her-husband.typ"
 
 #metadata[A Wife’s Not Going Against Her Husband’s Will (I)] <short>
+#metadata((part: [The Third Treatise: Of Wives], sections: [§§. 17–32])) <kicker>
 #include "chapters/typ/vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ"
 
 #metadata[A Wife’s Not Going Against Her Husband’s Will (II)] <short>
+#metadata((part: [The Third Treatise: Of Wives], sections: [§§. 33–42])) <kicker>
 #include "chapters/typ/vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ"
 
 #metadata[A Wife’s Active Obedience to Her Husband] <short>
+#metadata((part: [The Third Treatise: Of Wives], sections: [§§. 43–50])) <kicker>
 #include "chapters/typ/vol-2/11-a-wifes-active-obedience-to-her-husband.typ"
 
 #metadata[A Wife’s Submission to Christ First] <short>
+#metadata((part: [The Third Treatise: Of Wives], sections: [§§. 51–74])) <kicker>
 #include "chapters/typ/vol-2/12-a-wifes-submission-to-christ-first.typ"
 
 #metadata[A Husband’s Affectionate Authority over His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 1–12])) <kicker>
 #include "chapters/typ/vol-2/13-a-husbands-affectionate-authority-over-his-wife.typ"
 
 #metadata[A Husband’s Humble Gentleness to His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 13–23])) <kicker>
 #include "chapters/typ/vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ"
 
 #metadata[A Husband’s Patient Correcting of His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 24–39])) <kicker>
 #include "chapters/typ/vol-2/15-a-husbands-patient-correcting-of-his-wife.typ"
 
 #metadata[A Husband’s Kind Conduct toward His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 40–46])) <kicker>
 #include "chapters/typ/vol-2/16-a-husbands-kind-conduct-toward-his-wife.typ"
 
 #metadata[A Husband’s Providing for His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 46–60])) <kicker>
 #include "chapters/typ/vol-2/17-a-husbands-providing-for-his-wife.typ"
 
 #metadata[A Husband’s Sincere and Steady Love for His Wife] <short>
+#metadata((part: [The Fourth Treatise: Of Husbands], sections: [§§. 61–76])) <kicker>
 #include "chapters/typ/vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ"

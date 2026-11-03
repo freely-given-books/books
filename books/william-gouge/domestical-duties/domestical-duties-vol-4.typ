@@ -49,32 +49,42 @@
 #show: keep-notes.with(("341": "s++", "457": "w", "622": "s+", "625": "s++",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 123–133])) <kicker>
 #include "chapters/typ/vol-4/01-servants-and-masters-in-the-apostles-words.typ"
 
 #metadata[A Servant’s Reverence for His Master] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 1–9])) <kicker>
 #include "chapters/typ/vol-4/02-a-servants-reverence-for-his-master.typ"
 
 #metadata[A Servant’s Obedience to His Master] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 10–19])) <kicker>
 #include "chapters/typ/vol-4/03-a-servants-obedience-to-his-master.typ"
 
 #metadata[A Servant’s Faithful and Willing Service] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 20–34])) <kicker>
 #include "chapters/typ/vol-4/04-a-servants-faithful-and-willing-service.typ"
 
 #metadata[A Servant’s Duty and Its Limits under God] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 35–43])) <kicker>
 #include "chapters/typ/vol-4/05-a-servants-duty-and-its-limits-under-god.typ"
 
 #metadata[A Master’s Authority Rightly Maintained] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 1–12])) <kicker>
 #include "chapters/typ/vol-4/06-a-masters-authority-rightly-maintained.typ"
 
 #metadata[A Master’s Correcting and Governing of His Household] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 13–20])) <kicker>
 #include "chapters/typ/vol-4/07-a-masters-correcting-and-governing-of-his-household.typ"
 
 #metadata[A Master’s Care for His Servants’ Souls and Bodies] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 21–34])) <kicker>
 #include "chapters/typ/vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ"
 
 #metadata[A Master’s Employing and Rewarding of His Servants] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 35–45])) <kicker>
 #include "chapters/typ/vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ"
 
 #metadata[A Master’s Own Master in Heaven] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 46–49])) <kicker>
 #include "chapters/typ/vol-4/10-a-masters-own-master-in-heaven.typ"
 

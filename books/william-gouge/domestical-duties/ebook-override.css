@@ -46,3 +46,7 @@ ul { list-style: none; padding-left: 2em; }
 /* a list set one step in, under the numbered paragraph it belongs to
    (tei_to_html.py, list/@style="indent") */
 ol.indent { margin-left: 3em; }
+
+/* the chapter's treatise and section numbers, under its title (the layout's
+   kicker; print sets it over the title) */
+p.kicker { text-align: center; text-indent: 0; font-size: 0.9em; font-variant: small-caps; letter-spacing: 0.03em; margin: -0.5em 0 1.5em; }

@@ -52,37 +52,49 @@
 #include "chapters/typ/vol-1/dedication.typ"
 
 #metadata[Serving Each Other in the Fear of the Lord] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 1–6])) <kicker>
 #include "chapters/typ/vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ"
 
 #metadata[Particular Callings and the Wife’s Submission] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 7–13])) <kicker>
 #include "chapters/typ/vol-1/02-particular-callings-and-the-wifes-submission.typ"
 
 #metadata[Headship in Marriage and the Church] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 14–25])) <kicker>
 #include "chapters/typ/vol-1/03-headship-in-marriage-and-the-church.typ"
 
 #metadata[Husbands and the Love of Christ] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 26–33])) <kicker>
 #include "chapters/typ/vol-1/04-husbands-and-the-love-of-christ.typ"
 
 #metadata[Love That Purifies the Unclean] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 34–47])) <kicker>
 #include "chapters/typ/vol-1/05-love-that-purifies-the-unclean.typ"
 
 #metadata[Redeemed for Glory] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 48–52])) <kicker>
 #include "chapters/typ/vol-1/06-redeemed-for-glory.typ"
 
 #metadata[Marital Love and Self-Love] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 53–67])) <kicker>
 #include "chapters/typ/vol-1/07-marital-love-and-self-love.typ"
 
 #metadata[Christ’s Union with His Beloved Body] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 68–78])) <kicker>
 #include "chapters/typ/vol-1/08-christs-union-with-his-beloved-body.typ"
 
 #metadata[The Ancient Law and Unique Bond of Marriage] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 79–89])) <kicker>
 #include "chapters/typ/vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ"
 
 #metadata[The Mystery and Practice of Marriage] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 90–95])) <kicker>
 #include "chapters/typ/vol-1/10-the-mystery-and-practice-of-marriage.typ"
 
 #metadata[The Child’s Duties to His Parents] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 96–114])) <kicker>
 #include "chapters/typ/vol-1/11-the-childs-duties-to-his-parents.typ"
 
 #metadata[The Parents’ Duty towards Their Children] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 115–122])) <kicker>
 #include "chapters/typ/vol-1/12-the-parents-duty-towards-their-children.typ"

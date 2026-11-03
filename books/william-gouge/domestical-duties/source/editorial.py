@@ -39,6 +39,13 @@ def slugify(title):
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
 
 
+def section_no(div):
+    """Gouge's number for a section ("§. 12." in its head), or None."""
+    head = div.find("{http://www.tei-c.org/ns/1.0}head")
+    m = re.search(r"§\.\s*(\d+)", "".join(head.itertext())) if head is not None else None
+    return m.group(1) if m else None
+
+
 def LAYOUT(root):
     """edition.json: four volumes of chapters, each chapter a run of one
     treatise's sections cut by ordinal position (Gouge's own numbering
@@ -54,11 +61,20 @@ def LAYOUT(root):
                           "parts": [divs[spec["div"] - 1]]})
         for name in vol.get("front", []):
             matter(name)
+        prev = None
         for i, ch in enumerate(vol["chapters"], start=1):
             first, last = ch["sections"]
+            parts = layout.sections(divs[ch["div"] - 1], first, last)
+            # the treatise and Gouge's section numbers the chapter holds, as
+            # print's <kicker>: a part page before a treatise's first chapter
+            treatise = EDITION["treatises"][str(ch["div"])]
+            nos = [n for n in map(section_no, parts) if n]
             files.append({"file": f"{d}/{i:02d}-{slugify(ch['title'])}.typ",
                           "title": ch["title"],
-                          "parts": layout.sections(divs[ch["div"] - 1], first, last)})
+                          "part": treatise if treatise != prev else None,
+                          "kicker": f"{treatise} · §§. {nos[0]}–{nos[-1]}" if nos else treatise,
+                          "parts": parts})
+            prev = treatise
         for name in vol.get("back", []):
             matter(name)
     return files

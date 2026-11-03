@@ -49,31 +49,41 @@
 #show: keep-notes.with(("284": "s-", "286": "t+", "289": "ws-", "354": "b", "440": "h-", "445": "b", "685": "w", "690": "w", "751": "w", "760": "s-",))
 
 #metadata[Children Showing Respect for Parents] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 1–10])) <kicker>
 #include "chapters/typ/vol-3/01-children-showing-respect-for-parents.typ"
 
 #metadata[Children Getting Parents’ Permission] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 11–26])) <kicker>
 #include "chapters/typ/vol-3/02-children-getting-parents-permission.typ"
 
 #metadata[Children Obeying Parents’ Instruction and Correction] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 27–38])) <kicker>
 #include "chapters/typ/vol-3/03-children-obeying-parents-instruction-and-correction.typ"
 
 #metadata[Children Giving Back to Parents] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 39–51])) <kicker>
 #include "chapters/typ/vol-3/04-children-giving-back-to-parents.typ"
 
 #metadata[Children Honoring Father and Mother in the Lord] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 52–64])) <kicker>
 #include "chapters/typ/vol-3/05-children-honoring-father-and-mother-in-the-lord.typ"
 
 #metadata[Parents Loving, Praying, and Providing for Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 1–25])) <kicker>
 #include "chapters/typ/vol-3/06-parents-loving-praying-and-providing-for-children.typ"
 
 #metadata[Parents Nurturing, Teaching, and Training Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 26–41])) <kicker>
 #include "chapters/typ/vol-3/07-parents-nurturing-teaching-and-training-children.typ"
 
 #metadata[Parents Admonishing and Correcting Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 42–49])) <kicker>
 #include "chapters/typ/vol-3/08-parents-admonishing-and-correcting-children.typ"
 
 #metadata[Parents Directing Children into Adulthood] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 50–70])) <kicker>
 #include "chapters/typ/vol-3/09-parents-directing-children-into-adulthood.typ"
 
 #metadata[Parents Being Faithful to All under Their Care] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 71–79])) <kicker>
 #include "chapters/typ/vol-3/10-parents-being-faithful-to-all-under-their-care.typ"
