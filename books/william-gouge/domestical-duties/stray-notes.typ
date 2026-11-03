@@ -51,11 +51,13 @@
   show heading: it => context {
     let n = counter(footnote).get().first() + 1
     let k = fixes.at(str(n), default: none)
-    // headings with no numbered note between them (a * note is not
-    // counted) share n: it is the one nearest the note's
+    // a note set with its own mark (*) is not counted, so the headings
+    // around one share n: it is the one nearest the note's
     if k != none {
       let nh = query(selector(heading).after(here(), inclusive: false))
-      if nh.len() > 0 and counter(footnote).at(nh.first().location()).first() + 1 == n { k = none }
+      if (nh.len() > 0 and counter(footnote).at(nh.first().location()).first() + 1 == n and
+          query(selector(footnote).after(here()).before(nh.first().location()))
+            .any(f => type(f.numbering) == function)) { k = none }
     }
     if k == "b" { pagebreak(weak: true) + it }
     else if k == "h-" { v(-4pt) + it }
