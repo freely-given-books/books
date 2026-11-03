@@ -174,10 +174,13 @@ Contrary is a dissolute carelessness of husbands, who care no more to help and s
 
 1\. Some more fear to offend their wives then they care to do #footnote[Contrary, Dissolute carelessness. 1. In suffering seducers to come to the house.] them good, and in that respect they let any sort of people come to their wives that are welcome to them. If Magistrates in a common-wealth shall answer for suffering seducers to come into their dominions to deceive their people, much more shall husbands answer for suffering them to come and deceive their wives.
 
+#[
+#set enum(indent: 12pt)
 + Because they have a greater charge over their wives then Magistrates over their people.
 + Because wives ought to be dearer to husbands then people to Magistrates.
 + Because they may sooner espy them in their house, then Magistrates in the common-wealth.
 + Because they may be much more easily kept out of an house, then out of a common-wealth, or a City.
+]
 
 2\. Others care not whither their wives wander: and if they#footnote[2\. In suffering wives to go whither they list.] do go out of their house, they shall never be sought after by their husbands: though this may be a just punishment on wandering wives, yet is it not just for husbands so to deal with them. If Christ our husband should so deal with us, we should soon be lost: for we oft go astray like wandering sheep, but he is that good shepherd, who seeketh after the lost sheep until he #footnote[Luke 15:4.] find it.
 

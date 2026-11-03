@@ -10,7 +10,7 @@
 | note moved | 1096 |
 | grammar | 147 |
 | case | 146 |
-| list | 134 |
+| list | 139 |
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |

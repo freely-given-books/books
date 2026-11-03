@@ -90,9 +90,12 @@ These therefore ought he with a general consent to refer to her discretion: with
 
 2\. That he have a general oversight in all, and so interpose his authority as he suffer nothing that is unlawful or unseemly to be done by his wife about house, children, servants, or other things: for
 
+#[
+#set enum(indent: 12pt)
 + The general charge of all lieth principally upon him.
 + He shall give an account unto God for all things that are amiss in his house.
 + The blame of all will also before men lie upon him.
+]
 
 But those two cautions provided, he ought together with his general consent #emph[put trust]#footnote[Prov 31:11.] in his wife, (as #emph[Potiphar]#footnote[Gen 39:6. Difference betwixt the trust put in a wife, and in others.] did in #emph[Joseph)] making herein a difference betwixt a wife, and all others whether children of years, friends, or servants whom he employeth in his affairs. Them in every particular he may direct for matter and manner, and take a strait account of them for expenses laid out, or other things done: because what they do is wholly and only for another. To his wife (who is a joint parent of his children, and governor of his house, to whose good the husbands wealth redoundeth, and in that respect doth for her self that which she doth for her husband) greater liberty, and licence must be given.
 

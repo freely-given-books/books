@@ -39,6 +39,8 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 1\. #emph[Affirmatively] by showing what graces are requisite: to which purpose he reckoneth up four particulars.
 
+#[
+#set enum(indent: 12pt)
 + #emph[Fear and trembling.]
 + #emph[Singleness of heart.]
 + #emph[Conscience to Christ.]
@@ -47,6 +49,7 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
   + Readiness.
   + Diligence.
   + Faithfulness.
+]
 
 2\. #emph[Negatively,] by showing what vices are to be avoided, and these are two especially,
 
@@ -59,10 +62,13 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 
 3\. The extent of servants duties is noted in these four phrases,—
 
+#[
+#set enum(indent: 12pt)
 + Masters #emph[after the flesh,] v. 5.
 + #emph[As to Christ,] v. 5.
 + #emph[As servants of Christ,] v. 6.
 + #emph[Doing God’s will,] v. 6.
+]
 
 II. The motives which the Apostle useth are partly—
 
