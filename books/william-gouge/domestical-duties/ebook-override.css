@@ -50,3 +50,8 @@ ol.indent { margin-left: 3em; }
 /* the chapter's treatise and section numbers, under its title (the layout's
    kicker; print sets it over the title) */
 p.kicker { text-align: center; text-indent: 0; font-size: 0.9em; font-variant: small-caps; letter-spacing: 0.03em; margin: -0.5em 0 1.5em; }
+
+/* Gouge's * references (note[@rend="mark"]): the mark larger than a note
+   number, in the text and before the note, so it is found at a glance */
+a.noteref[href^="#fn-m"] sup { font-size: 1.15em; }
+aside[id^="fn-m"] a[role="doc-backlink"] { font-size: 1.3em; }
