@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "277": "w", "306": "w", "436": "b", "589": "b", "617": "t+", "980": "w",))
+#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "262": "t+", "277": "w", "306": "w", "436": "b", "589": "b", "617": "t+", "980": "w",))
 
 #metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/vol-1/dedication.typ"

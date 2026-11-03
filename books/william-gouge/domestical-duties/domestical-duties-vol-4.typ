@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("341": "s++", "622": "s+", "625": "s++",))
+#show: keep-notes.with(("341": "s++", "457": "w", "622": "s+", "625": "s++",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
 #include "chapters/typ/vol-4/01-servants-and-masters-in-the-apostles-words.typ"
