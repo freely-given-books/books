@@ -48,7 +48,10 @@
     else if k == "t+" { set text(tracking: 0.01em); it }
     else { it }
   }
-  show heading: it => context {
+  // section headings only: a chapter heading starts its own page already,
+  // and a page break put before it here would leave its place (contents,
+  // bookmark, running head) on the page before (vol. III p. 105)
+  show heading: it => if it.level < 3 { it } else { context {
     let n = counter(footnote).get().first() + 1
     let k = fixes.at(str(n), default: none)
     // a note set with its own mark (*) is not counted, so the headings
@@ -64,6 +67,6 @@
     else if k == "h--" { v(-8pt) + it }
     else if k == "h---" { v(-12pt) + it }
     else { it }
-  }
+  } }
   body
 }
