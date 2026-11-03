@@ -1,5 +1,5 @@
 #import "@local/fgbooks:0.15.0": *
-#import "stray-notes.typ": keep-notes
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -47,6 +47,7 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
 #show: keep-notes.with(("284": "s-", "286": "t+", "289": "ws-", "354": "b", "440": "h-", "445": "b", "685": "w", "690": "w", "751": "w", "760": "s-",))
+#show: keep-text.with(("persons, by their prayers": "t-", "§. 25. Of children’s contentedness": "b", "§. 54. Of the equal": "b", "§. 7. Of the preposterous": "b", "own child smart, and": "t+", "made to that purpose": "t-", "a parent respect that": "ts-",))
 
 #metadata[Children Showing Respect for Parents] <short>
 #metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 1–10])) <kicker>

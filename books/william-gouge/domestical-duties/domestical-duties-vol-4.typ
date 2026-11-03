@@ -1,5 +1,5 @@
 #import "@local/fgbooks:0.15.0": *
-#import "stray-notes.typ": keep-notes
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -47,6 +47,7 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
 #show: keep-notes.with(("341": "s++", "457": "w", "622": "s+", "625": "s++",))
+#show: keep-text.with(("see what is meet": "s+", "talk of the lips": "s-", "§. 22. Of masters neglecting": "b",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 123–133])) <kicker>

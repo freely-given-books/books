@@ -1,5 +1,5 @@
 #import "@local/fgbooks:0.15.0": *
-#import "stray-notes.typ": keep-notes
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -46,7 +46,8 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "262": "t+", "277": "w", "306": "w", "436": "b", "589": "b", "617": "t+", "980": "w",))
+#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "262": "t+", "277": "w", "306": "w", "350": "ws+", "436": "b", "589": "b", "617": "t+", "980": "w",))
+#show: keep-text.with(("they are cleansed and": "t-", "the nearest, then they": "t+", "§. 88. Of the equal": "b", "But in the grave": "s-", "one another as husband": "k", "proper actions appertaining to": "t-",))
 
 #metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/vol-1/dedication.typ"

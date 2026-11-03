@@ -70,3 +70,64 @@
   } }
   body
 }
+
+// Breaks kept tidy where no note can key a lever (the typesetting report of
+// 2026-11-03): a section heading left with one line under it at a page's
+// foot, a paragraph's last word or two alone at the next page's head. Keyed
+// by a phrase of the heading's or paragraph's own words (as set, notes left
+// out); the levers are keep-notes' ("b", "s-", "t+", ...), and "k": keep the
+// paragraph's lines together (no line of it alone at a page's foot or head).
+// Used as  #show: keep-text.with((("§. 38. Of the Churches"): "b", ...))
+#let _plain(c) = {
+  if type(c) == str { return c }
+  if type(c) != content { return "" }
+  if c.func() == footnote { return "" }
+  if c == [ ] { return " " }
+  if c.has("text") { return if type(c.text) == str { c.text } else { "" } }
+  if c.has("children") { return c.children.map(_plain).join("") }
+  if c.has("body") { return _plain(c.body) }
+  if c.has("child") { return _plain(c.child) }
+  ""
+}
+#let keep-text(fixes, body) = {
+  let kind(c) = {
+    let t = _plain(c)
+    for (phrase, k) in fixes { if t.contains(phrase) { return k } }
+    none
+  }
+  show par: it => {
+    let k = kind(it.body)
+    if k == none { it }
+    else if k == "w" { set text(costs: (widow: 0%, orphan: 0%)); it }
+    else if k == "s-" { set text(spacing: 90%); it }
+    else if k == "s+" { set text(spacing: 112%); it }
+    else if k == "s--" { set text(spacing: 80%); it }
+    else if k == "s++" { set text(spacing: 125%); it }
+    else if k == "t-" { set text(tracking: -0.01em); it }
+    else if k == "t+" { set text(tracking: 0.01em); it }
+    else if k == "ts-" { set text(tracking: -0.01em, spacing: 90%); it }
+    else if k == "ts+" { set text(tracking: 0.01em, spacing: 112%); it }
+    else if k == "k" { set text(costs: (widow: 1000%, orphan: 1000%)); it }
+    else { it }
+  }
+  // a block set off (a proposition) or a list item, whose words are not a
+  // paragraph of their own
+  let lever(k, it) = {
+    if k == "s-" { set text(spacing: 90%); it }
+    else if k == "s+" { set text(spacing: 112%); it }
+    else if k == "t-" { set text(tracking: -0.01em); it }
+    else if k == "t+" { set text(tracking: 0.01em); it }
+    else if k == "ts-" { set text(tracking: -0.01em, spacing: 90%); it }
+    else if k == "ts+" { set text(tracking: 0.01em, spacing: 112%); it }
+    else if k == "k" { set text(costs: (widow: 1000%, orphan: 1000%)); it }
+    else { it }
+  }
+  show block: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
+  show enum.item: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
+  show list.item: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
+  show heading: it => if it.level < 3 { it } else {
+    let k = kind(it.body)
+    if k == "b" { pagebreak(weak: true) + it } else { it }
+  }
+  body
+}
