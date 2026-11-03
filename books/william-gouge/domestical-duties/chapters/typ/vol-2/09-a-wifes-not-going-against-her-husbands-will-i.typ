@@ -93,7 +93,7 @@ But our question is concerning such goods as the husband hath not set apart, but
 
 Concerning such as are out of the family, if they be in great need, and require present relief, though the wife know her husband to be so hard-hearted, as he will not suffer her to relieve such an one, yet without his consent she may relieve him. The ground of this and other like cases is that rule laid down by the Prophets, and by Christ himself, viz. #emph[I will have mercy and not sacrifice.]#footnote[Hos 6:6. Matt 9:13; 12:7.] If God in case of mercy dispenseth with a duty due to himself, will he not much more dispense with a duty due to an husband?
 
-=== §. 23. #emph[Of a wives restraint in disposing goods without consent of her husband: and of the ground of that restraint.]#footnote[Treat. 4. §. 54.]
+=== §. 23. #emph[Of a wives restraint in disposing goods without consent of her husband: and of the ground of that restraint.]#footnote(numbering: (..) => "*")[Treat. 4. §. 54.]
 
 Out of all these things thus premised I gather the true state #footnote[Non potest vxor ex bonis communibus occulte accipere ad donandum vel ad erogandum in alios vsus sine expressa, aut praesumpta saltem viri licentia. Greg. Sayr. loc. citat.] of the question in controversy concerning the power of wives in disposing the goods of the family to be this,
 

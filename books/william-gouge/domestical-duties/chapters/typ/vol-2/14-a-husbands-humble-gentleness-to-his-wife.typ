@@ -1,6 +1,6 @@
 == A Husband’s Humble Gentleness to His Wife
 
-=== §. 13. #emph[Of an husbands kind acceptance of such things as his wife doth.]#footnote[Treat. 3. §. 10.]
+=== §. 13. #emph[Of an husbands kind acceptance of such things as his wife doth.]#footnote(numbering: (..) => "*")[Treat. 3. §. 10.]
 
 #emph[S. Peter] giveth a general rule for an husbands outward carriage to his wife, which is, that he dwell with her #emph[according to knowledge,] that is, as a man able to order his carriage wisely to his own honour and his wives good, that so she may have just cause to bless God that ever she was joined to such an husband.
 
@@ -31,7 +31,7 @@ Contrary is their practise who thinking all which a wife #footnote[Contrary, 1. 
 
 But what may we say of such as scornfully reject their wives #footnote[3\. Scornfully to reject it.] duty, yea like them the worse for making conscience thereof, and so (clean contrary to the rule of christianity) #emph[overcome goodness with evil?]#footnote[Rom 12:21.] Surely they show a very diabolical spirit to be in them: and cannot but minister much grief, and offence to their wives, and make that which they do to be very irksome and tedious. Fathers ought not to provoke their #footnote[Eph 6:4.] children, much less husbands their wives.
 
-=== §. 15. #emph[Of husbands courteous accepting their wives reverend carriage.]#footnote[Treat. 3. §. 11. 55.]
+=== §. 15. #emph[Of husbands courteous accepting their wives reverend carriage.]#footnote(numbering: (..) => "*")[Treat. 3. §. 11. 55.]
 
 For the better conceiving of this so needful a point I will #footnote[How a man’s good acceptance of his wives duty is manifested.] somewhat more particularly and distinctly apply the same to the several duties of a wife: which were drawn to two heads
 
@@ -53,7 +53,7 @@ Contrary is a lofty carriage of husbands to their wives, who overlook all revere
 
 Oft have I noted that there is a great difference betwixt a wife and all other inferiors, in which respect all evidences of reverence should much better be respected; yet we know that Kings and Queens will put out their hands to be kissed by their subjects when they kneel before them, which is a token of courtesy: how much more ought husbands to show courtesy? Unworthy they are to be reverenced of their wives, who too Lord-like overlook them.
 
-=== §. 16. #emph[Of husbands ready yielding to their wives humble suits.]#footnote[Treat. 3. §. 15.]
+=== §. 16. #emph[Of husbands ready yielding to their wives humble suits.]#footnote(numbering: (..) => "*")[Treat. 3. §. 15.]
 
 Again, it being a token of reverence in a wife humbly to #footnote[2\. By granting her humble request.] make known her desire to her husband, he ought to show so much courtesy as readily to grant her desire: this courtesy the forenamed #emph[Ahasuerus]#footnote[Esth 5:3.] afforded to #emph[Esther: David]#footnote[1 Kgs 1:28. #emph[etc.]] to #emph[Bathsheba: Isaac]#footnote[Gen 28:1.] to #emph[Rebekah: Abraham]#footnote[Gen 16:6.] to #emph[Sarah,] and many other husbands to their wives. #emph[Abraham]#footnote[Gen 21:10, 11.] showed herein such respect to his wife, that though the thing which she desired were grievous to him, yet he yielded to his wife.
 
@@ -65,7 +65,7 @@ Again, it being a token of reverence in a wife humbly to #footnote[2\. By granti
 
 Contrary is the harshness of their disposition who yield to their wives request as an hard-milch-cow letteth down her milk, not without much ado: whereby the grace of all their yielding is taken away. There can be no courtesy in yielding, when it is against their mind and will forced from them: their wives must ask, and entreat again and again, yea be forced to use the mediation of others to persuade their husbands to yield to their request before they will yield, if at all they yield. What is this but to proclaim to all the world that there is no affection in them to their wives? If a wives breath be strange to her husband, assuredly his heart is first strange to her: which is the ready way to make him set his heart on strange women.
 
-=== §. 18. #emph[Of husbands forbearing to exact all that they may.]#footnote[Treat. 3. §. 38, 39, #emph[etc.] & §. 43, 44, #emph[etc.]]
+=== §. 18. #emph[Of husbands forbearing to exact all that they may.]#footnote(numbering: (..) => "*")[Treat. 3. §. 38, 39, #emph[etc.] & §. 43, 44, #emph[etc.]]
 
 As a wives #emph[reverence] so also her #emph[obedience] must be answered with her husbands courtesy. In testimony whereof, #emph[An husband] #footnote[3\. By accepting what she is willing to do.] #emph[must be ready to accept that wherein his wife showeth her self willing to obey him.] He ought to be sparing in exacting too much of her: in this case he ought so to frame his carriage towards her, as that obedience which she performeth, may rather come from her own voluntary disposition, from a free conscience to God-wards, even because God hath placed her in a place of subjection, and from a wive-like love, then from any exaction on her husbands part, and as it were by force.
 
@@ -133,7 +133,7 @@ Contrary is an ungrateful, if not envious disposition of such #footnote[#emph[Qu
 
 Yet such will be ready to praise other men’s wives, and upbraid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
 
-=== §. 22. #emph[Of an husbands mildness.]#footnote[Treat. 3. §. 10.]
+=== §. 22. #emph[Of an husbands mildness.]#footnote(numbering: (..) => "*")[Treat. 3. §. 10.]
 
 Hitherto of that respect which an husband is to have of that duty which his wife performeth to him.
 

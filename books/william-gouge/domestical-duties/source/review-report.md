@@ -11,12 +11,12 @@
 | grammar | 147 |
 | case | 146 |
 | list | 141 |
+| note | 68 |
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
 | inset | 24 |
 | split | 20 |
-| note | 13 |
 | epigraph | 2 |
 
 ## split

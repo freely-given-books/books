@@ -49,8 +49,14 @@
     else { it }
   }
   show heading: it => context {
-    let n = str(counter(footnote).get().first() + 1)
-    let k = fixes.at(n, default: none)
+    let n = counter(footnote).get().first() + 1
+    let k = fixes.at(str(n), default: none)
+    // headings with no numbered note between them (a * note is not
+    // counted) share n: it is the one nearest the note's
+    if k != none {
+      let nh = query(selector(heading).after(here(), inclusive: false))
+      if nh.len() > 0 and counter(footnote).at(nh.first().location()).first() + 1 == n { k = none }
+    }
     if k == "b" { pagebreak(weak: true) + it }
     else if k == "h-" { v(-4pt) + it }
     else if k == "h--" { v(-8pt) + it }
