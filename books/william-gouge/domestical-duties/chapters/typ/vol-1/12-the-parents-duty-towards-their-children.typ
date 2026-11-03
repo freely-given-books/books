@@ -41,7 +41,7 @@ The next phrase #emph[(provoke to wrath)] is the exposition of one #footnote[π�
 
 #emph[Answ.] #footnote[See Treat. 5. §. 31, 41.] No. This prohibition intendeth no such thing: the Apostle hath here to do with parents: and instructeth them how to prevent such mischiefs as their children through their weakness may fall into. So as here only he showeth what is unlawful for parents, not what is lawful for children. Hence then by the way I observe that
 
-#emph[Parents must be so watchful over their carriage, as thereby they] #footnote[2\. #emph[Obser.]] #emph[make not their children to sin.]
+#block(inset: (x: 1em))[#emph[Parents must be so watchful over their carriage, as thereby they] #footnote[2\. #emph[Obser.]] #emph[make not their children to sin.]]
 
 If they do, they make their own sin the more heinous, and also they pull down upon their own pates a far more heavy vengeance, even the vengeance of their own sin, and the vengeance of their childes sin. For every parent is made a watchman over his child. If a watchman#footnote[Ezek 3:18.] do not what he can to hinder the sin of such as are under his charge, he pulls their blood on his own neck. What do they then that being watchmen, minister occasion of sin to them that are under their charge?
 

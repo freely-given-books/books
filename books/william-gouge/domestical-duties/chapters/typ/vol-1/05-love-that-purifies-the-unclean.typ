@@ -170,7 +170,7 @@ On the other side, Anabaptists, and such like Libertines, too #footnote[Anabapti
 
 In that #emph[with] this #emph[washing of water,] Christ cleanseth his Church, I observe that
 
-#emph[Whosoever are fully baptised are cleansed from sin.]
+#block(inset: (x: 1em))[#emph[Whosoever are fully baptised are cleansed from sin.]]
 
 #emph[Fully,] that is, powerfully and effectually, as well inwardly by the Spirit, as outwardly by the Minister.
 

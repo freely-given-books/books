@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.14.0": *
+#import "@local/fgbooks:0.15.0": *
 #import "stray-notes.typ": keep-notes
 
 // Edited by hand (first written by the earlier converter): a chapter added
@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("1": "w", "161": "b", "277": "w", "306": "w", "436": "b", "589": "b", "617": "t+", "980": "w",))
+#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "277": "w", "306": "w", "436": "b", "589": "b", "617": "t+", "980": "w",))
 
 #metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/vol-1/dedication.typ"

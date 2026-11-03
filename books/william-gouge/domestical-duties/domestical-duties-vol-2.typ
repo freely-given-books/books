@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.14.0": *
+#import "@local/fgbooks:0.15.0": *
 #import "stray-notes.typ": keep-notes
 
 // Edited by hand (first written by the earlier converter): a chapter added

@@ -23,7 +23,7 @@ In it two points are to be noted.
 
 Here first note that
 
-#emph[The union betwixt Christ and the Church is a great mystery.]
+#block(inset: (x: 1em))[#emph[The union betwixt Christ and the Church is a great mystery.]]
 
 The Apostle could not have said more of it then to call it #emph[a mystery, a great mystery.]
 

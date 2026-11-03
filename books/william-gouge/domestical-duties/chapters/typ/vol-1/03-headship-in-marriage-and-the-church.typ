@@ -138,7 +138,7 @@ The #emph[Goodness] of Christ is set down in these words #emph[(and he is the Sa
 
 1\. The copulative particle (AND) showeth that
 
-#emph[The goodness which Christ doth for his Church, he doth because] #footnote[καί 1. #emph[Obser.]] #emph[he is the head thereof.]
+#block(inset: (x: 1em))[#emph[The goodness which Christ doth for his Church, he doth because] #footnote[καί 1. #emph[Obser.]] #emph[he is the head thereof.]]
 
 O how happy a thing is it for the Church that it hath such an head! An head that doth not tyrannize over it, nor trample it under foot: an head that doth not poll, or peel the Church: but procureth peace and safety to it. When #emph[Naomi] sought to make a match betwixt #emph[Boaz] and #emph[Ruth,]#footnote[Ruth 3:1.] that he might be her head, what saith she? #emph[Shall I not seek rest for thee that it may be well with thee?] It is therefore the office of an head to be a Saviour, to procure rest and prosperity to the body whose head it is.
 

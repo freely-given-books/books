@@ -17,11 +17,11 @@ From the place of an husband, I gather this general ground concerning a wives su
 
 #emph[Subjection must be yielded to the husband as to Christ,] whence will follow two conclusions, one #emph[negative,] which is this,
 
-#emph[The wife must yield no other subjection to her husband then what may stand with her subjection to Christ.]
+#block(inset: (x: 1em))[#emph[The wife must yield no other subjection to her husband then what may stand with her subjection to Christ.]]
 
 The other affirmative, which is this,
 
-#emph[The wife must subject her self to her husband in that manner that she would or should subject her self to Christ.]
+#block(inset: (x: 1em))[#emph[The wife must subject her self to her husband in that manner that she would or should subject her self to Christ.]]
 
 The former is a necessary condition required of all inferiors in their subjection, and obedience (as I showed #footnote[Treat. 1. §. 6.] before) much more in a wives subjection to her husband, because there is of all unequals #footnote[See §. 4. of this Treat.] the least disparity betwixt husbands and wives.
 
@@ -55,7 +55,7 @@ For better application of this point I will lay down some particular instances a
 
 The other particular conclusion is this, that
 
-#emph[If an husband require his wife to do that which God hath forbidden she ought not to do it.]
+#block(inset: (x: 1em))[#emph[If an husband require his wife to do that which God hath forbidden she ought not to do it.]]
 
 Two cautions like the former are likewise to be observed #footnote[2\. Cautions for limiting a wives refusing to do that which her husband commands.] about this point.
 

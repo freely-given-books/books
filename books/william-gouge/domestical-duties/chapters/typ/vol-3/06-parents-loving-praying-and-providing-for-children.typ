@@ -363,7 +363,7 @@ To the forenamed fault of mothers do all such fathers make themselves accessary,
 
 There is a further duty to be performed of parents to their children even in their infancy, and that is in regard of their #emph[spiritual good,] which is this,
 
-#emph[Parents ought to procure that their children be rightly baptized in due season.]
+#block(inset: (x: 1em))[#emph[Parents ought to procure that their children be rightly baptized in due season.]]
 
 This is indeed a common duty appertaining to both parents, but most principally to the father, and that for two reasons.
 

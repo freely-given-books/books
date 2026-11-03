@@ -14,6 +14,7 @@
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
+| inset | 24 |
 | note | 13 |
 | split | 10 |
 | epigraph | 2 |

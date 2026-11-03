@@ -43,7 +43,7 @@ Here by the way, note three points.
 
 The other title #emph[(masters)] hath as large an extent comprising #footnote[τοῖς κυρίοις. What masters are meant.] under it both sexes, #emph[masters] and #emph[mistresses:] and of these all sorts, great and mean, rich and poor, strong and weak, faithful and infidels, true professors and profane; superstitious, idolatrous, heretical persons, or the like: so as
 
-#emph[No condition or disposition of the master exempteth a servant] #footnote[5\. #emph[Obseru.]] #emph[from performing duty to him.]
+#block(inset: (x: 1em))[#emph[No condition or disposition of the master exempteth a servant] #footnote[5\. #emph[Obseru.]] #emph[from performing duty to him.]]
 
 Among other degrees and differences, most especially let it be noted that both sexes, mistresses as well as masters, are here meant, that so the duties which are enjoined to be performed to masters may answerably be performed to mistresses (so far as they are common to both) and that both by maidservants, and also by men-servants that are under mistresses. In families mistresses are as ordinary as masters, and therefore I thought good to give an especial #emph[item] of this.
 
@@ -83,15 +83,15 @@ Lest upon the forenamed description of masters, servants #footnote[Servants fear
 
 Hence learn that
 
-#emph[The authority of a master ought to strike a servants heart with] #footnote[8\. #emph[Obser.]] #emph[dread.]
+#block(inset: (x: 1em))[#emph[The authority of a master ought to strike a servants heart with] #footnote[8\. #emph[Obser.]] #emph[dread.]]
 
 The dread which servants ought to have of their masters power and authority maketh many to care for no more then to avoid their masters displeasure: wherefore the Apostle addeth a further degree of a servants subjection, namely that #footnote[ἐν ἁπλότητι τῆς καρδίας ὑμῶν.] it be #emph[in singleness of heart,] that is, honest, entire, upright: for this is opposed to hypocrisy, dissimulation, and fraud: yea of YOUR heart, not anothers: another in the simplicity of his heart may think you do a thing better then you do, by a charitable construction of every thing, but if in singleness of #emph[your own] heart you do it, it will in truth be as it appeareth to be. So as
 
-#emph[All the services which servants perform to their masters must] #footnote[9\. #emph[Obser.]] #emph[be done in truth and uprightness.]
+#block(inset: (x: 1em))[#emph[All the services which servants perform to their masters must] #footnote[9\. #emph[Obser.]] #emph[be done in truth and uprightness.]]
 
 The Apostle gives this direction to Christians who have to do not only with masters according to the flesh (who only #emph[see the outward appearance)] but also with the master of spirits #footnote[1 Sam 16:7 ὡς τῷ Χριστῷ.] who #emph[looketh on the heart:] and therefore also he added this clause, #emph[as unto Christ:] teaching servants thereby that
 
-#emph[Servants in their obedience to their masters, must approve] #footnote[10\. #emph[Obseru.]] #emph[themselves to Jesus Christ as well as to their masters after the flesh.]
+#block(inset: (x: 1em))[#emph[Servants in their obedience to their masters, must approve] #footnote[10\. #emph[Obseru.]] #emph[themselves to Jesus Christ as well as to their masters after the flesh.]]
 
 This phrase #emph[(as unto Christ)] implieth as much as that #emph[(in the Lord)] whereof we spake #footnote[§. 96.] before.
 
@@ -110,7 +110,7 @@ This phrase #emph[(as unto Christ)] implieth as much as that #emph[(in the Lord)
 
 #smallcaps[This] and the verse following are added as a further explication of the last clause of the former verse. It should seem that servants, howsoever they might in some measure perform the main duty of obedience, yet failed exceedingly in the manner of performing it. Because masters were but men, #emph[masters according to the flesh,] who neither had power over the heart, nor could discern the disposition thereof, servants thought they had well done their duty, if they had outwardly performed what their master required: now to root out this bitter weed, and to reform this corrupt conceit, the Apostle is more large in clearing the point of sincere and upright service: therefore, the more fully to express his mind and meaning, first he layeth down the vice contrary to the foresaid sincerity (for contraries laid together do much set forth one #footnote[Opposita iuxta se posita magis elucescunt.] another) and then returneth more distinctly to declare the virtue. Whence note
 
-#emph[Those points are most to be urged upon people, wherein they] #footnote[11\. #emph[Obser.]] #emph[most fail.]
+#block(inset: (x: 1em))[#emph[Those points are most to be urged upon people, wherein they] #footnote[11\. #emph[Obser.]] #emph[most fail.]]
 
 The vice here noted to be contrary to sincere service is termed #footnote[ὀφθαλμοδουλεία.] #emph[eye-service.] Our English word doth properly and fitly answer the original, both in the notation, and in the true sense and meaning of it. It implieth a mere outward service only #footnote[What eye-service is.] to satisfy the eye of man:
 
@@ -147,7 +147,7 @@ To avoid the two forenamed sins, #emph[eye-service,] and #emph[men-pleasing,] th
 
 From this opposition betwixt #emph[men-pleasers] and #emph[servants of Christ,] note that
 
-#emph[They who in all things give themselves to please men are no servants of Christ.]
+#block(inset: (x: 1em))[#emph[They who in all things give themselves to please men are no servants of Christ.]]
 
 That we may the better know who are servants of Christ, #footnote[13\. #emph[Obseru.]] the Apostle addeth a description of them in these words #emph[(doing the will of God from the heart.)] Christ’s will is God’s will: for as Christ is God, the fathers will and his is all one: as he is man he wholly ordereth his will by his fathers, #emph[he seeketh not] #footnote[John 5:30.] #emph[his own will, but the will of the father that sent him.]
 
@@ -220,7 +220,7 @@ From this large declaration of the #emph[manner] of doing service #footnote[Diff
 
 #emph[Servants labour shall not be in vain in the Lord.] To press #footnote[20\. #emph[Obser.]] this encouragement the more upon them, he setteth it down as a thing granted by all, so clear as none of them can be ignorant thereof #emph[(Knowing)] as if he had said, ye all well enough #footnote[εἰδότες.] know that what I now say is most true: hence note that
 
-#emph[God’s respect of faithful servants is so well known, as none that] #footnote[21\. #emph[Obser.]] #emph[have any understanding can be ignorant thereof.]
+#block(inset: (x: 1em))[#emph[God’s respect of faithful servants is so well known, as none that] #footnote[21\. #emph[Obser.]] #emph[have any understanding can be ignorant thereof.]]
 
 The Apostles argument is drawn from the #emph[general to a particular,] #footnote[A genere ad speciem.] and the generality is noted in the #emph[thing done (whatsoever)] and in the #emph[person] that doth it #emph[(any man.)] But because the generality of the thing might be too far stretched, he addeth this limitation #emph[(good)] and because the generality of the person might be too much restrained, he addeth this explication #emph[(whether bond or free.)] This distinction is used because in those days many servants were bond-men and bondwomen. Now the Apostles argument may thus be framed: #emph[Every one of what estate and degree soever he be, shall be rewarded of God for every good thing he doth, be it great or small. Therefore every servant shall be rewarded of God for every good service.]
 

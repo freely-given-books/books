@@ -97,7 +97,7 @@ Concerning such as are out of the family, if they be in great need, and require 
 
 Out of all these things thus premised I gather the true state #footnote[Non potest vxor ex bonis communibus occulte accipere ad donandum vel ad erogandum in alios vsus sine expressa, aut praesumpta saltem viri licentia. Greg. Sayr. loc. citat.] of the question in controversy concerning the power of wives in disposing the goods of the family to be this,
 
-#emph[Whether a wife may privily and simply without, or openly and directly against her husbands consent distribute such common goods of the family as her husband reserveth to his own disposing, there being no extraordinary necessity?]
+#block(inset: (x: 1em))[#emph[Whether a wife may privily and simply without, or openly and directly against her husbands consent distribute such common goods of the family as her husband reserveth to his own disposing, there being no extraordinary necessity?]]
 
 The most ancient and common answer unto this question hath been negative, namely, that a wife hath not power so to do: whereunto I for my part subscribe.
 

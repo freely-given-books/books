@@ -127,9 +127,9 @@ In an husbands commending of his wife this caveat must be put: that he so order 
 
 Contrary is an ungrateful, if not envious disposition of such #footnote[#emph[Quisque suam laudat, studijs certamina crescunt. Ouid. Fast. lib.] 2.] husbands, as passing by many good things ordinarily and usually every day done by their wives without any approbation, commendation or remuneration, are ready to dispraise the least slip, or neglect in them; and that in such general terms as if they never did any thing well, so as their wives may well complain and say as it is in the proverb,
 
-#emph[Oft did I well, and that hear I never:]
+#block(inset: (x: 1em))[#emph[Oft did I well, and that hear I never:]]
 
-#emph[Once did I ill, and that hear I ever.]
+#block(inset: (x: 1em))[#emph[Once did I ill, and that hear I ever.]]
 
 Yet such will be ready to praise other men’s wives, and upbraid their own wives with the examples of those other, when their own do far excel them in all kind of goodness. What doth this show but that either they take no notice of their own wives goodness, or else by reason of the commonness thereof little regard it? If their wives have not the more grace in them, this disposition is enough not only to discourage them from doing any good duty, but also to breed jealousy in them, and to alienate their hearts from them.
 
