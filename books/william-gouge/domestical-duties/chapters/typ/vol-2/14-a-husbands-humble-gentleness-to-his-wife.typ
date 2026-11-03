@@ -91,7 +91,7 @@ These therefore ought he with a general consent to refer to her discretion: with
 2\. That he have a general oversight in all, and so interpose his authority as he suffer nothing that is unlawful or unseemly to be done by his wife about house, children, servants, or other things: for
 
 #[
-#set enum(indent: 12pt)
+#set enum(indent: 24pt)
 + The general charge of all lieth principally upon him.
 + He shall give an account unto God for all things that are amiss in his house.
 + The blame of all will also before men lie upon him.

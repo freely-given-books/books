@@ -197,7 +197,7 @@ This calling is twofold:
 2\. #emph[Inward,] which is proper to the elect, none but they, and all they in their time shall both outwardly be called by the word to a profession of Christ, and also inwardly and effectually by the spirit to believe in Christ, and obey his Gospel. This is styled #emph[an heavenly calling,]#footnote[Heb 3:1.] which is #footnote[1 Cor 1:2.] proper to the Saints. These make that Church, whereof Christ is properly the head: and therefore in relation to that metaphor of an head, they are called the #emph[Body:] and that in these respects;
 
 #[
-#set enum(indent: 12pt)
+#set enum(indent: 24pt)
 + They are under Christ, as a body under the head.
 + They receive spiritual life and grace from Christ, as a body natural receiveth sense, and vigour from the head.
 + Christ governeth them, as an head the body.

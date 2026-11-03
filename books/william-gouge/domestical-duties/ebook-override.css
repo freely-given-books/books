@@ -45,4 +45,4 @@ ul { list-style: none; padding-left: 2em; }
 
 /* a list set one step in, under the numbered paragraph it belongs to
    (tei_to_html.py, list/@style="indent") */
-ol.indent { margin-left: 1.5em; }
+ol.indent { margin-left: 3em; }

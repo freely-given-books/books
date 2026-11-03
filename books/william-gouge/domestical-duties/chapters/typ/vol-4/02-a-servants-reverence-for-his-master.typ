@@ -40,7 +40,7 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 1\. #emph[Affirmatively] by showing what graces are requisite: to which purpose he reckoneth up four particulars.
 
 #[
-#set enum(indent: 12pt)
+#set enum(indent: 24pt)
 + #emph[Fear and trembling.]
 + #emph[Singleness of heart.]
 + #emph[Conscience to Christ.]
@@ -63,7 +63,7 @@ I. In declaring servants duties he noteth the #emph[kinds], the #emph[manner], a
 3\. The extent of servants duties is noted in these four phrases,—
 
 #[
-#set enum(indent: 12pt)
+#set enum(indent: 24pt)
 + Masters #emph[after the flesh,] v. 5.
 + #emph[As to Christ,] v. 5.
 + #emph[As servants of Christ,] v. 6.
