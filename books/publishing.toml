@@ -57,7 +57,7 @@ lulu = [
 ]   # volumes 1-4
 
 ["1689-baptist-confession/1689-baptist-confession"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-03", commit = "d150875" }
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
 
 ["william-perkins/christian-economy"]
@@ -70,4 +70,4 @@ ready = { date = "2026-11-01", commit = "0dd6a9c" }
 ready = { date = "2026-11-01", commit = "0dd6a9c" }
 
 ["john-owen/the-death-of-death"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-03", commit = "d150875" }
