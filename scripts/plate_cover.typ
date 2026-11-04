@@ -32,6 +32,9 @@
 #let BLEED = 0.125in
 #let SAFETY = 0.5in
 #let SPINE_TRIM = 0.125in
+// a thin spine's type, as a share of the strip its capitals could fill: room
+// for the ink beyond them (round letters, the diamond), centred on its bounds
+#let FIT = 0.85
 #let DISPLAY = "Cinzel"
 #let SERIF = "EB Garamond"
 
@@ -74,6 +77,9 @@
   author: [Author],
   spine-title: none,
   spine-author: none,
+  // the clear space between anything on a thin spine and each fold: Lulu's
+  // 1/8in, the most its trim can move the spine toward either cover
+  spine-clearance: float(sys.inputs.at("spine-clearance", default: "0.125")) * 1in,
   title-size: 32pt,
   // ink: the title; accent: author, rules; label: the name plate and seal
   ink: rgb("#1E3524"),
@@ -212,31 +218,33 @@
           }
         }
       }))
-    } else if spine >= 0.25in {
-      // A thin spine (about 80 to 170 pages): too narrow for the full
-      // allowance, so the name and title run down it on one line from the
-      // same head position, held 1/16in off each fold, with a single rule
-      // across head and foot and the seal, as wide as the spine allows, at
-      // the foot (it still reads as a fountain at a fifth of an inch).
-      let w = spine - 0.125in
-      let s = calc.min(w, 0.5in)
+    } else if spine > 2 * spine-clearance {
+      // A thin spine (about 80 to 170 pages). Lulu's trim can move the spine
+      // 1/8in toward either cover, so nothing comes nearer a fold than
+      // `spine-clearance`; in the strip between, the name and title run down
+      // it on one line, sized so their ink fills the strip (`FIT`) and centred
+      // on the ink itself, a rule across head and foot as wide, and
+      // the seal at the foot where the strip is wide enough for it to read.
+      let w = spine - 2 * spine-clearance
+      let size = calc.min(10pt, w / 0.7 * FIT)
+      let s = if w >= 0.15in { w } else { 0in }
       place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
         set align(center)
         for (edge, sign) in ((top, 1.0), (bottom, -1.0)) {
           place(edge + center, dy: sign * 0.42in, rect(width: w, height: 0.8pt, fill: accent))
         }
-        if seal != none {
+        if seal != none and s > 0in {
           place(bottom + center, dy: -0.58in, seal(width: s, roundel: label, fountain: paper))
         }
-        let size = calc.min(10pt, w / 1in * 72pt * 0.62)
         place(top + center, dy: 0.66in, rotate(90deg, reflow: true,
-          box(width: trim-height - 1.32in - s - 0.3in, height: w, align(left + horizon, {
+          box(width: trim-height - 1.32in - s - 0.3in, height: spine, align(left + horizon, {
+            set text(top-edge: "bounds", bottom-edge: "bounds")
             text(font: SERIF, weight: "medium", size: size * 0.9, tracking: 0.1em, fill: accent,
               upper(spine-name))
             h(0.1in)
-            text(size: 5pt, fill: accent, sym.diamond.filled)
+            text(size: size * 0.5, fill: accent, sym.diamond.filled)
             h(0.1in)
-            text(font: DISPLAY, weight: "bold", size: size, fill: ink, spine-title)
+            text(font: DISPLAY, weight: "bold", size: size, fill: ink, upper(spine-title))
           }))))
       }))
     }

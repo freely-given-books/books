@@ -150,9 +150,9 @@
 
 // The spine (under 0.6in: title and author run along it, no art).
 #let spine-panel = box(width: spine, height: trim-height, {
-  let rules(y) = place(dx: 0.07in, dy: y, stack(spacing: 0.035in,
-    line(length: spine - 0.14in, stroke: 0.9pt + gold),
-    line(length: spine - 0.14in, stroke: 0.4pt + gold)))
+  let rules(y) = place(dx: SPINE_TRIM, dy: y, stack(spacing: 0.035in,
+    line(length: spine - 2 * SPINE_TRIM, stroke: 0.9pt + gold),
+    line(length: spine - 2 * SPINE_TRIM, stroke: 0.4pt + gold)))
   rules(0.42in)
   rules(trim-height - 0.47in)
   place(center + horizon, dy: -0.15in, rotate(90deg, reflow: true,
