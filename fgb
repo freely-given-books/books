@@ -13,4 +13,8 @@ if ! command -v uv >/dev/null; then
     exit 1
 fi
 export FGB_LIBRARY="$repo"
+# the fonts the covers are set in (Cinzel, EB Garamond; OFL) travel with the
+# repository rather than depending on what is installed: Typst reads them
+# from here as well as from the system
+export TYPST_FONT_PATHS="$repo/fonts${TYPST_FONT_PATHS:+:$TYPST_FONT_PATHS}"
 exec uv run --quiet --locked --project "$repo/colophon" python "$repo/colophon/fgb.py" "$@"

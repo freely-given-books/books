@@ -1,4 +1,5 @@
-#import "@local/fgbooks:0.12.0": *
+#import "@local/fgbooks:0.15.0": *
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -15,40 +16,12 @@
   subtitle: [Volume I — The First Treatise: An Exposition of That Part of Scripture Out of Which Domestical Duties Are Raised],
   author: "William Gouge",
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
+  // the Common Weal Press publisher's page, from the template
+  publishing-info: publisher-page(note: [
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107).
 
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
-    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John
-    Haviland for William Bladen, 1622), with the spelling modernized. The text
-    is the Text Creation Partnership transcription of the first edition
-    (EEBO-TCP A68107).
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-
-    This is volume 1 of four. The complete work is in eight treatises:
-    I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of
-    wives; IV, of husbands; V, of children; VI, of parents; VII, of servants;
-    VIII, of masters.
-
-  ],
+    This is volume 1 of four. The complete work is in eight treatises: I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of wives; IV, of husbands; V, of children; VI, of parents; VII, of servants; VIII, of masters.
+  ]),
   preface: [
     #align(center + horizon)[
       #text(size: 12pt)[
@@ -72,42 +45,57 @@
 // lines) are set as it prints them: no bullet, set in past a paragraph's
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
+// Notes kept on their marker's page (stray-notes.typ; print_check.py)
+#show: keep-notes.with(("1": "w", "161": "b", "247": "w", "262": "t+", "277": "w", "306": "w", "350": "ws+", "436": "b", "589": "b", "617": "t+", "980": "w",))
+#show: keep-text.with(("they are cleansed and": "t-", "the nearest, then they": "t+", "§. 88. Of the equal": "b", "But in the grave": "s-", "one another as husband": "k", "proper actions appertaining to": "t-", "Hereby let trial be": "ts-", "It is necessary that": "ts+",))
 
 #metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/vol-1/dedication.typ"
 
 #metadata[Serving Each Other in the Fear of the Lord] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 1–6])) <kicker>
 #include "chapters/typ/vol-1/01-serving-each-other-in-the-fear-of-the-lord.typ"
 
 #metadata[Particular Callings and the Wife’s Submission] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 7–13])) <kicker>
 #include "chapters/typ/vol-1/02-particular-callings-and-the-wifes-submission.typ"
 
 #metadata[Headship in Marriage and the Church] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 14–25])) <kicker>
 #include "chapters/typ/vol-1/03-headship-in-marriage-and-the-church.typ"
 
 #metadata[Husbands and the Love of Christ] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 26–33])) <kicker>
 #include "chapters/typ/vol-1/04-husbands-and-the-love-of-christ.typ"
 
 #metadata[Love That Purifies the Unclean] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 34–47])) <kicker>
 #include "chapters/typ/vol-1/05-love-that-purifies-the-unclean.typ"
 
 #metadata[Redeemed for Glory] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 48–52])) <kicker>
 #include "chapters/typ/vol-1/06-redeemed-for-glory.typ"
 
 #metadata[Marital Love and Self-Love] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 53–67])) <kicker>
 #include "chapters/typ/vol-1/07-marital-love-and-self-love.typ"
 
 #metadata[Christ’s Union with His Beloved Body] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 68–78])) <kicker>
 #include "chapters/typ/vol-1/08-christs-union-with-his-beloved-body.typ"
 
 #metadata[The Ancient Law and Unique Bond of Marriage] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 79–89])) <kicker>
 #include "chapters/typ/vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ"
 
 #metadata[The Mystery and Practice of Marriage] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 90–95])) <kicker>
 #include "chapters/typ/vol-1/10-the-mystery-and-practice-of-marriage.typ"
 
 #metadata[The Child’s Duties to His Parents] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 96–114])) <kicker>
 #include "chapters/typ/vol-1/11-the-childs-duties-to-his-parents.typ"
 
 #metadata[The Parents’ Duty towards Their Children] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 115–122])) <kicker>
 #include "chapters/typ/vol-1/12-the-parents-duty-towards-their-children.typ"

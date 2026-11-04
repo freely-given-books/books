@@ -24,33 +24,87 @@ git -c gpg.ssh.allowedSignersFile=allowed_signers tag -v <author>/<book>/vN
 
 ## Contributing
 
-Contributions are welcome! Books should be submitted in one of the following formats:
+Contributions are welcome: a typo fixed, a wrong scripture reference, a
+dropped word, or a whole new book. Every book here is **Typst**. Books
+in other formats (an ebook, a PDF, a Word document) belong to the
+[website project](https://books.freely.giving) instead.
 
-- **Typst** (`.typ`) — preferred
-- **AsciiDoc** (`.adoc`)
-- **LaTeX** (`.tex`)
+### How a book is made
 
-### Other Sources
+Most books are built from an early printed source (an EEBO-TCP
+transcription or a CCEL text) by **colophon**, the pipeline in the
+`colophon/` submodule. Each book folder, `books/<author>/<book>/`, holds:
 
-If you have a book that is already in some other format such as an ebook or PDF,
-or if you have some sort of Word document, please contribute it to the website project.
+| Path | What it is |
+| --- | --- |
+| `chapters/typ/*.typ` | the edition's text, one file per chapter: **edit here** |
+| `<book>.typ`, `cover.typ` | the print edition and its cover (they import the `@local/fgbooks` template) |
+| `source/<ID>.tcp.xml`, `source/<work>.thml.xml` | the source, untouched: never edit it |
+| `source/<book>.tei.xml` | the master: the source plus every editorial decision, written by `./fgb sync` |
+| `source/editorial.py` | the book's settings |
+| `README.md` | where the text comes from and what this edition does with it |
+
+`./fgb list` names the books on the pipeline. The 1689 Confession is
+plain Typst outside it; edit its `.typ` files directly.
+
+### Fixing the text
+
+1. Find the place: `./fgb find BOOK WORD` shows where a word is, as printed
+   and as the edition reads it; `./fgb page BOOK --open` sets the printed
+   text and the edition side by side.
+2. Edit `chapters/typ`. Text, italics (`_..._`, `#emph[...]`), footnotes,
+   `#quote[...]` and headings are all kept. Layout commands
+   (`#linebreak()`, `#pagebreak()`, `#v(...)`, `#par(...)`) are not: they do
+   not belong in `chapters/typ`.
+3. `./fgb sync BOOK` folds your edit into the TEI as an editor decision and
+   shows what changed. Commit both `chapters/typ` and the TEI.
+4. `./fgb check BOOK` must pass: `chapters/typ` has to be exactly what the
+   TEI gives back, so the print book and the ebook cannot drift apart.
+5. Open a pull request saying what you changed and why (the page, the
+   witness you checked against).
+
+Keep the old words: *hath*, *-eth*, *'tis*, *shew* and the like are the
+author's, not mistakes. A book that has been signed off (see
+[Finished books](#finished-books)) goes back to not finished when its folder
+changes, until the editor signs it off again; that is expected.
+
+### A new book
+
+Open an issue first with the title and the source you have in mind
+(an EEBO-TCP `A#####` number, a CCEL link). The steps are in
+`CLAUDE.md` and `.claude/skills/eebo-tcp-book/SKILL.md`; colophon's own
+notes are in `colophon/CLAUDE.md`.
+
+### Changes to the tools
+
+colophon and the Typst templates are submodules with their own
+repositories ([colophon](https://github.com/freely-given-books/colophon),
+[fgbooks-typst](https://github.com/freely-given-books/fgbooks-typst)), and
+this repository pins each to a release tag. Send changes there; `CLAUDE.md`
+has the release steps.
 
 ## Building
 
-Clone with the Typst templates (a submodule):
+You need git, [uv](https://docs.astral.sh/uv/) and
+[Typst](https://typst.app). [epubcheck](https://www.w3.org/publishing/epubcheck/)
+(with Java) checks the EPUBs when installed; without it `./fgb` says it
+skipped the check.
+
+Clone with the submodules (colophon and the Typst templates):
 
 ```sh
 git clone --recursive https://github.com/freely-given-books/books.git
 # or, in an existing clone:
-git submodule update --init typst/fgbooks-typst
+git submodule update --init
 ```
 
-Books on the TEI pipeline build with one command, into `dist/` (PDFs and
-EPUBs are not kept in git):
+Books build with one command, into `dist/` (PDFs and EPUBs are not kept in
+git). `./fgb` sets up colophon's Python environment itself the first time:
 
 ```sh
-./fgb build              # every TEI book
-./fgb build perkins      # one book
+./fgb build              # every book on the pipeline
+./fgb build perkins      # one book, by part of its name
+./fgb --help             # everything else
 ```
 
 ### The Typst templates
@@ -68,9 +122,3 @@ A new template version: commit in `typst/fgbooks-typst`, bump `typst.toml`,
 tag it, push; then commit the submodule's new position here. While it is
 untagged, a book importing the version in the working copy's `typst.toml`
 builds against the working copy.
-
-## TODO
-
-[x] Embed typst template in project and update commands to use the fgbooks template
-[x] Instead of committing ebooks and PDFs, create a workflow that builds packages
-    (`./fgb build`, for books on the TEI pipeline)

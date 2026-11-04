@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 100 100" width="100" height="100">
+  <!-- A frame's corner, for the top left; engraved_cover.typ turns it for the
+       other three.  0,0 is where the inner rule's corner would be: the rule
+       comes in along each edge, bends inward and ends as a scroll, and a
+       fleur-de-lis points into the corner in the space that leaves.  The
+       rules here are the inner rule's own (stroke 1.5 = 0.6pt at a 0.55in
+       ornament); the frame's straight rule stops where this begins.  Gold,
+       as HOUSE.gold. -->
+  <g fill="none" stroke="#A9843F" stroke-linecap="round" stroke-linejoin="round">
+    <!-- top: the rule from the right, a step down, the scroll curling under -->
+    <path stroke-width="1.5" d="M98,0 H66 C61,0 59,2 59,7"/>
+    <path stroke-width="2.3" d="M59,7 C59,19 49,25 41,21 C34,17.5 35.5,9 41.5,8.5 C46,8 47.5,13 44.5,14.5"/>
+    <!-- left: the same, mirrored on the diagonal -->
+    <path stroke-width="1.5" d="M0,98 V66 C0,61 2,59 7,59"/>
+    <path stroke-width="2.3" d="M7,59 C19,59 25,49 21,41 C17.5,34 9,35.5 8.5,41.5 C8,46 13,47.5 14.5,44.5"/>
+  </g>
+  <circle cx="41" cy="16" r="1.4" fill="#A9843F"/>
+  <circle cx="16" cy="41" r="1.4" fill="#A9843F"/>
+  <!-- the fleur-de-lis, drawn pointing up from its tip at 0,0, laid on the
+       diagonal -->
+  <g fill="#A9843F" transform="translate(6.5 6.5) rotate(-45) scale(0.95)">
+    <!-- the centre petal -->
+    <path d="M0,0 C4.5,6 6.5,13 3.6,22 L-3.6,22 C-6.5,13 -4.5,6 0,0 Z"/>
+    <!-- the side petals, curling out to either side -->
+    <path d="M2.4,23 C6,15 13,10.5 17,13 C19.6,14.8 18.4,18.6 15.6,18 C15,17.8 14.6,17 15.2,16.4
+             C12.6,15.6 8.6,19.4 6.6,25 Z"/>
+    <path d="M-2.4,23 C-6,15 -13,10.5 -17,13 C-19.6,14.8 -18.4,18.6 -15.6,18 C-15,17.8 -14.6,17 -15.2,16.4
+             C-12.6,15.6 -8.6,19.4 -6.6,25 Z"/>
+    <!-- the band, and the foot below it -->
+    <rect x="-7.5" y="23.5" width="15" height="3.4" rx="1.4"/>
+    <path d="M-2.2,27 C-2.4,31 -5.5,34 -9,35.6 C-4,36.4 -0.8,34 0,31.5 C0.8,34 4,36.4 9,35.6
+             C5.5,34 2.4,31 2.2,27 Z"/>
+  </g>
+</svg>

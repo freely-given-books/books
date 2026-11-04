@@ -1,0 +1,73 @@
+# Where each book is published, by book folder (<author>/<book>); ./fgb export
+# puts it in site.json for the books.freely.giving import. Kept here, outside
+# the book folders, so editing it never holds a signed-off book back.
+#   lulu  Lulu's shop page for the paperback; a book in volumes lists one per
+#         volume, in order. "" = not on Lulu yet, or not recorded yet.
+#   slug  the site's book slug, when it is not the book's folder name
+#   note  anything particular to this book's import, for the site's Claude
+#   ready the editor called the book ready to sign as it stands at this
+#         commit (./fgb release ready BOOK; signed with its Lulu revision)
+
+["anonymous/the-anatomy-of-simon-magus"]
+ready = { date = "2026-11-01", commit = "0dd6a9c" }
+lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
+
+["charles-spurgeon/all-of-grace"]
+ready = { date = "2026-11-01", commit = "260d2b4" }
+lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
+
+["john-bunyan/grace-abounding"]
+ready = { date = "2026-11-01", commit = "260d2b4" }
+lulu = "https://www.lulu.com/shop/john-bunyan/grace-abounding-to-the-chief-of-sinners/paperback/product-p6mpygr.html"
+note = """The site's grace-abounding is another edition, not Courtney's: this one \
+replaces it entirely, under the same slug and URLs. Licence CC0; credits add \
+courtney-hicks, prepared: true. The old copy's other formats go: remove the \
+mobi and htmlBook (Read Online) entries from book.yaml and \
+content/grace-abounding.html and .mobi, and tell the owner to delete \
+grace-abounding/grace-abounding.mobi from R2. The description can stay unless \
+the owner wants it changed."""
+
+["john-bunyan/the-pilgrims-progress"]
+ready = { date = "2026-11-01", commit = "a0ff124" }
+lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
+
+["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
+ready = { date = "2026-11-03", commit = "8b9cb02" }
+lulu = "https://www.lulu.com/shop/jonathan-edwards-and-courtney-hicks/sinners-in-the-hands-of-an-angry-god/paperback/product-65w6dz7.html"
+
+["richard-sibbes/the-glorious-feast-of-the-gospel"]
+ready = { date = "2026-11-03", commit = "8b9cb02" }
+lulu = "https://www.lulu.com/shop/richard-sibbes/the-glorious-feast-of-the-gospel/paperback/product-w4ywv7q.html"
+
+["thomas-brooks/precious-remedies-against-satans-devices"]
+ready = { date = "2026-11-01", commit = "0dd6a9c" }
+lulu = "https://www.lulu.com/shop/thomas-brooks/precious-remedies-against-satans-devices/paperback/product-dy7vjp4.html"
+
+["thomas-brooks/the-secret-key-of-heaven"]
+ready = { date = "2026-11-03", commit = "8b9cb02" }
+lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
+
+["william-gouge/domestical-duties"]
+ready = { date = "2026-11-03", commit = "3aea369" }
+lulu = [
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-1/paperback/product-dy759jz.html",
+  "https://www.lulu.com/shop/william-gouge-and-courtney-hicks/domestical-duties-volume-2/paperback/product-q679ezr.html",
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-3/paperback/product-p6mvre9.html",
+  "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-4/paperback/product-v8nzvjr.html"
+]   # volumes 1-4
+
+["1689-baptist-confession/1689-baptist-confession"]
+ready = { date = "2026-11-03", commit = "d150875" }
+lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
+
+["william-perkins/christian-economy"]
+ready = { date = "2026-11-01", commit = "b1d1c26" }
+
+["thomas-boston/the-crook-in-the-lot"]
+ready = { date = "2026-11-01", commit = "0dd6a9c" }
+
+["john-owen/the-mortification-of-sin"]
+ready = { date = "2026-11-01", commit = "0dd6a9c" }
+
+["john-owen/the-death-of-death"]
+ready = { date = "2026-11-03", commit = "d150875" }

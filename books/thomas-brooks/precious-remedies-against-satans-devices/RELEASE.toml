@@ -5,6 +5,13 @@
 # One or two sentences for the release catalog: the edition, its source.
 summary = "Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866)."
 
+# A print warning the editor accepted (2026-10-29): a false alarm. On p. 11
+# (the Epistle Dedicatory) markers 9-12 and notes 9-12 are all on the page;
+# the check misreads a note on p. 12. The pages were looked at as rendered.
+accepted_print = [
+  "precious-remedies-against-satans-devices.pdf: footnote 11 is set on page 11, its marker on page 12",
+]
+
 [[source]]
 file = "source/A77614.tcp.xml"
 description = "EEBO-TCP A77614: Precious Remedies against Satans Devices (London, M. Simmons for John Hancock, 1653), the second edition"

@@ -3,21 +3,37 @@
 # off with a signed tag, john-bunyan/grace-abounding/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Bunyan's Grace Abounding to the Chief of Sinners in his enlarged text, as CCEL gives it, with CCEL's slips and lost words corrected against the 1666 first edition and George Offor's 1855 edition."
+summary = "Bunyan's Grace Abounding to the Chief of Sinners in the words and italics of the sixth edition (1688), the last printed in his lifetime, newly transcribed from the page images, in modern spelling, with the passages that edition cut kept from the first (1666)."
 
 [[source]]
-file = "source/grace.thml.xml"
-description = "CCEL ThML: John Bunyan, Grace Abounding to the Chief of Sinners (Bunyan's enlarged text)"
-url = "https://www.ccel.org/ccel/b/bunyan/grace.xml"
-sha256 = "21dba22cf36ddec4399091313ce74e826152ea62232f10e6182365496102e2c0"
+file = "source/grace-abounding-1688.tcp.xml"
+description = "Our transcription (CC0) of Grace Abounding, the sixth edition (London: Nath. Ponder, 1688): Kraken OCR of the British Library copy (EEBO microfilm, archive.org) corrected by six witnesses and the page images, the words the film lost in the gutter supplied from the 1692 copy, the 1666 first edition or the RTS text: source/transcription-report.md"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_grace-abounding-to-the-c_bunyan-john_1688"
+sha256 = "e0d3b26abe8f9df5a961acf90cd7d9fd6553c788010cdf3b7b9fcd2c2a14af4e"
 
 [[source]]
 file = "source/A30143.witness.xml"
-description = "EEBO-TCP A30143: Grace Abounding to the Chief of Sinners (London, George Larkin, 1666), the first edition, a witness: source/witness-report.md"
+description = "EEBO-TCP A30143: Grace Abounding to the Chief of Sinners (London, George Larkin, 1666), the first edition, a witness and the text of the passages 1688 cut: source/witness-report.md"
 url = "https://github.com/textcreationpartnership/A30143"
 sha256 = "6d927ab6622091da3b311a9615a019788695f870b8f6ba44012e2a9dfe744c7c"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
-description = "The Works of John Bunyan, ed. George Offor (1855), vol. 1, archive.org scan and OCR, the witness for the passages added after 1666: source/proofread-report.md"
+description = "CCEL ThML of Grace Abounding (a later printing's text), the previous edition's source, kept as source/grace.ccel.witness.xml: source/witness-report.md"
+url = "https://www.ccel.org/ccel/b/bunyan/grace.xml"
+
+[[witness]]
+description = "Grace Abounding (London, Robert Ponder, 1692), the seventh edition, a photograph of a printed copy (archive.org bunyangraceabounding5ed), read with Kraken: the witness for the words the 1688 film lost in the gutter: source/transcription-report.md"
+url = "https://archive.org/details/bunyangraceabounding5ed"
+
+[[witness]]
+description = "GLM-OCR, Tesseract and archive.org's OCR of the 1688 scan, voters in the transcription (2026-11-01; the GLM and Tesseract texts in source/ocr/): source/transcription-report.md"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_grace-abounding-to-the-c_bunyan-john_1688"
+
+[[witness]]
+description = "The Works of John Bunyan, ed. George Offor (1855), vol. 1, archive.org scan and OCR, the witness for the passages added after 1666 (previous edition): source/proofread-report.md"
 url = "https://archive.org/details/worksofjohnbunya01buny"
+
+[[witness]]
+description = "Grace Abounding, Religious Tract Society edition (1905), 'as nearly as possible' the eighth edition: Project Gutenberg #654, transcribed by David Price; a voter in the transcription: source/transcription-report.md"
+url = "https://www.gutenberg.org/ebooks/654"

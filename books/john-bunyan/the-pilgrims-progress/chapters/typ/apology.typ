@@ -1,4 +1,4 @@
-#import "@local/fgbooks:0.12.0": speech, stanza
+#import "@local/fgbooks:0.14.0": speech, stanza
 
 == The Author’s Apology For His Book
 
@@ -136,7 +136,7 @@ By birds and herbs, and by the blood of lambs, \
 God speaketh to him; and happy is he \
 That finds the light and grace that in them be.]
 
-#stanza[But not too forward, therefore, to conclude \
+#stanza[Be not too forward, therefore, to conclude \
 That I want solidness—that I am rude; \
 All things solid in show, not solid be; \
 All things in parable despise not we, \

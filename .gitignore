@@ -49,6 +49,11 @@ books/thomas-boston/the-crook-in-the-lot/*.pdf
 books/thomas-boston/the-crook-in-the-lot/*.epub
 books/john-calvin/institutes-of-the-christian-religion/*.pdf
 books/john-calvin/institutes-of-the-christian-religion/*.epub
+books/john-owen/the-death-of-death/*.pdf
+books/john-owen/the-death-of-death/*.epub
+# Owen, Death of Death: OCR of Goold 1850 and the 1648 edition, CCEL's PDF
+books/john-owen/the-death-of-death/source/*_djvu.txt
+books/john-owen/the-death-of-death/source/*.ccel.pdf
 # Calvin: the 1845 printing's OCR (archive.org), a witness
 books/john-calvin/institutes-of-the-christian-religion/source/*.djvu.txt
 
@@ -62,3 +67,10 @@ books/thomas-boston/the-crook-in-the-lot/source/transcription/work/
 
 # Working lists kept locally, not published
 books/PURITAN-PAPERBACKS.md
+books/1689-baptist-confession/1689-baptist-confession/*.pdf
+books/1689-baptist-confession/1689-baptist-confession/*.epub
+
+# Local OCR witnesses (source/ocr/): the per-page raw bundles (scan PDF,
+# engine output, word boxes) are kept locally; their SHA-256s are in the
+# tracked <scan-id>.ocr-witness.json beside them
+books/**/source/ocr/ocr-witnesses/

@@ -2,122 +2,87 @@
 
 ## Please check
 
-- chapter-20.typ: the three centred appeals are centred in CCEL (p[@rend='center']), so the TEI sets them centred in print and ebook.
+- chapter-20.typ: the three centred appeals are centred in the print (p[@rend='center']), so the TEI sets them centred in print and ebook.
 
 | kind | count |
 | --- | --- |
-| spelling | 53 |
-| case | 51 |
-| merge | 19 |
-| punctuation | 14 |
-| quotation | 14 |
-| spacing | 11 |
-| emendation | 8 |
-| italic | 5 |
-| split | 4 |
-| grammar | 1 |
-
-## split
-
-- [chapter-08.typ] paragraph → 1 split(s) at "
-- [chapter-09.typ] quotation → 2 split(s) at The, It, There
-- [chapter-16.typ] paragraph → 2 split(s) at ", "
-- [chapter-19.typ] paragraph → 1 split(s) at "
+| spacing | 127 |
+| spelling | 85 |
+| emendation | 24 |
+| punctuation | 7 |
 
 ## emendation
 
-- [chapter-01.typ] he → be
-- [chapter-06.typ] if → it
-- [chapter-07.typ] of → of it
-- [chapter-08.typ] is → in
-- [chapter-08.typ] of → 
-- [chapter-11.typ] l → I
-- [chapter-17.typ] Cor . → Corinthians
-- [chapter-19.typ] Cor . → Corinthians
-
-## grammar
-
-- YE → “YE
+- [chapter-02.typ] half - crown → money
+- [chapter-03.typ] barrister’s → lawyer’s
+- [chapter-03.typ] sirs → friends
+- [chapter-03.typ] trow → think
+- [chapter-03.typ] pounds → dollars
+- [chapter-03.typ] pounds → dollars
+- [chapter-03.typ] Ay → Yes
+- [chapter-04.typ] viii → 8
+- [chapter-04.typ] sixpence → a penny
+- [chapter-05.typ] iii → 3
+- [chapter-06.typ] xxxvi → 36
+- [chapter-07.typ] Ephesians → Eph
+- [chapter-07.typ] ii → 2
+- [chapter-10.typ] xvi → 16
+- [chapter-11.typ] . v . → 5:
+- [chapter-12.typ] mayhap → perhaps
+- [chapter-14.typ] v → 5
+- [chapter-15.typ] v → 5
+- [chapter-16.typ] be → he
+- [chapter-17.typ] . i . → 1:
+- [chapter-19.typ] . i . → 1:
+- [chapter-19.typ] farthing → cent
+- [chapter-19.typ] in → on
+- [chapter-19.typ] pound → dollar
 
 ## punctuation
 
-- [chapter-03.typ] " → ”
-- [chapter-05.typ] " → 
-- [chapter-05.typ] " → 
-- [chapter-06.typ] . → 
-- [chapter-07.typ] " → 
-- [chapter-07.typ] " → 
-- [chapter-08.typ] , → ,”
-- [chapter-09.typ] . → ?
-- [chapter-11.typ] , → .
-- [chapter-16.typ] " → 
-- [chapter-16.typ] " → 
-- [chapter-18.typ] , → , “
-- [chapter-19.typ] " → 
-- [chapter-19.typ] " → 
-
-## case
-
-- in → IN (×4)
-- all → ALL (×3)
-- of → OF (×3)
-- Do → DO (×2)
-- Him → HIM (×2)
-- grace → GRACE (×2)
-- heaven → HEAVEN (×2)
-- me → ME (×2)
-- meet → MEET (×2)
-- Christ → CHRIST
-- Forgiveness → FORGIVENESS
-- He → HE
-- Of → of
-- Reader → READER
-- Redeemer → REDEEMER
-- Sins → SINS
-- Sir → sir
-- Thy → thy
-- You → YOU
-- away → AWAY
-- believe → BELIEVE
-- believeth → BELIEVETH
-- beseech → BESEECH
-- everlasting → EVERLASTING
-- from → FROM
-- hath → HATH
-- his → His
-- is → IS
-- life → LIFE
-- never → NEVER
-- not → NOT
-- now → NOW
-- or → OR
-- that → THAT
-- the → THE
-- turn → TURN
-- you → YOU
-- your → YOUR
+- [chapter-04.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-15.typ] . → :
 
 ## spelling
 
-- Saviour → Savior (×29)
+- Saviour → Savior (×28)
+- towards → toward (×10)
+- ere → before (×4)
+- marvellous → marvelous (×3)
 - offence → offense (×3)
-- Endeavour → Endeavor (×2)
-- marvellous → marvelous (×2)
-- Ay → Aye
-- Come → Come,
-- No → Nor
+- spilt → spilled (×3)
+- traveller → traveler (×3)
+- fulfil → fulfill (×2)
+- labelled → labeled (×2)
+- marvelled → marveled (×2)
+- Romans → Rom
+- Saviourship → Saviorship
 - Saviour’s → Savior’s
+- Spirt → Spirit
+- almanack → almanac
 - axe → ax
+- checque → check
 - counsellor → counselor
-- everasting → everlasting
+- draught → draft
+- evils → evil
 - fulfilment → fulfillment
-- mutrition → nutrition
+- fulness → fullness
+- godness → goodness
+- got → gotten
 - offences → offenses
+- parcelled → parceled
 - plough → plow
 - pretence → pretense
-- quell’d → quell’d,
-- sir → sir,
-- wordly → worldly
-- you → you,
-- ‘Twas → ’Twas
+- sarpe → spare
+- scarely → scarcely
+- sceptre → scepter
+- sepulchre → sepulcher
+- that → than
+- trangression → transgression
+- upwards → upward
 

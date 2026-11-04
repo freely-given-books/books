@@ -101,15 +101,29 @@ tag `<author>/<book>/vN` (`./fgb release sign BOOK`, which runs every gate
 first). Claude never cuts these tags. The book's `RELEASE.toml` records
 what the edition is made from (each source file with its SHA-256, the
 witnesses, a summary for the catalog); `./fgb release record BOOK` starts
-one. A sign-off holds while the book's folder is as tagged: any later
-change, a colophon release that rewrites the TEI included, holds the book
-back until it is signed off again (the `releases` workflow warns on such a
-PR). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
+one. A sign-off holds while the book's folder is as tagged: after any later
+change, a colophon release that rewrites the TEI included, the book is held
+back (the `releases` workflow warns on such a PR), and a release **carries**
+its last signed version, built from its tag, its folder in `stable` as
+tagged, until it is signed off again (colophon 0.29.0). Books move to a new
+template version one at a time, when they are worked on, not all together:
+some drift between books is fine (the editor, 2026-10-26). Versions continue the Lulu revisions in `books/revisions.json`, which `make` updates (commit it on `main` after a release).
 A whole version vN is a print revision and matches Lulu's revision N. A point
 version, `./fgb release sign BOOK --point` (or `./release --point BOOK`), is
 an improved edition between Lulu revisions (an ebook fix, say): vN.1, vN.2,
-every file named so, the next whole version still N+1. Its sign-off says
-whether its print is still revision N's, page for page as rendered.
+the next whole version still N+1. Its EPUBs and web pages are named vN.M; its
+print stays revision N's, so `make` builds the print PDFs and covers from the
+vN tag and names them vN (what Lulu sells), and print corrections wait for
+N+1. Its sign-off says whether its print is still revision N's, page for page
+as rendered.
+
+`books/publishing.toml` keeps where each book is published: its Lulu links
+(one per volume) and notes for the site import. It lives outside the book
+folders, so editing it never holds a signed-off book back. `./fgb export DIR`
+lays the newest release out for books.freely.giving (the
+`abereanone/books-freelygiv-ing` repository) in DIR: per book the PDFs,
+covers, EPUBs, front covers and print-ready ZIPs, with `site.json` and an
+`IMPORT.md` for the site owner's Claude. The editor zips DIR and sends it.
 
 Day to day, `./release [BOOK ...]` at the root does all of it: signs off
 each BOOK not yet signed off (and pushes its tag), runs `make`, and after a
@@ -123,7 +137,15 @@ first (`./fgb release record BOOK`, filled in, merged). The steps by hand:
 ./fgb release make            # gates on every done book, dist/release/<date>/
                               # and a commit on the local `stable` branch
 ./fgb release make --trial    # the same with unverified tags or tools, to stable-trial
+./fgb export DIR               # the newest release laid out for the site, with IMPORT.md
 ```
+
+**Ready to sign.** The editor may call a book ready before signing it (the
+signing waits until its Lulu revision is made): `./fgb release ready BOOK`
+records the date and commit in `books/publishing.toml` (`--clear` takes it
+back), `./fgb release` shows "ready to sign since …", or "changed since" if
+the book's folder has moved on, and the site's unsigned preview
+(`npm run build:unsigned`) marks the book "Ready to sign".
 
 `stable` is this repository with only the done books, plus `CATALOG.md`;
 readers clone it (`git clone --recursive -b stable`). Signatures are checked

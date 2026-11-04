@@ -7,16 +7,16 @@
 
 | kind | count |
 | --- | --- |
-| case | 4568 |
+| case | 4567 |
 | italic | 762 |
-| spelling | 601 |
+| spelling | 575 |
+| punctuation | 441 |
 | grammar | 388 |
-| punctuation | 369 |
-| emendation | 299 |
+| emendation | 338 |
 | note moved | 160 |
-| spacing | 90 |
+| spacing | 95 |
 | split | 28 |
-| gap | 8 |
+| gap | 7 |
 | merge | 6 |
 | note | 5 |
 | trailer | 1 |
@@ -55,7 +55,6 @@
 ## gap
 
 - [chapter-02.typ] 〈 in non-Latin alphabet 〉 → מָלֵא יָד
-- [chapter-03.typ note] • → 
 - [chapter-04.typ note] 2• → 2
 - [chapter-05.typ] 〈 in non-Latin alphabet 〉 → Ἐξαγγελεύς
 - [chapter-05.typ] 〈 in non-Latin alphabet 〉 → Τελεστάρχου
@@ -65,15 +64,19 @@
 
 ## emendation
 
+- [chapter-01.typ note] Matth . → Matt
 - [chapter-01.typ note] Joh . → John
 - [chapter-01.typ note] Matth . Hom . → Mattheum Homilia
-- [chapter-01.typ note] Act → Acts 8:19-23
+- [chapter-01.typ note] Act → Acts 8:19–23
 - [chapter-01.typ note] 8 . 19 , 20 , 21 , 22 , 23 , → 
 - [chapter-01.typ note] Homil → Gregory the Great, Homily 4 on the Gospels
 - [chapter-01.typ note] 4 . in Evang . → 
 - [chapter-01.typ note] Joh . → John
+- [chapter-01.typ note] Numb . → Num
 - [chapter-01.typ note] In Sent . Lib . → Bonaventure, Commentary on the Sentences, Liber 4, Distinction 25, Article 1, Question
 - [chapter-01.typ note] Dist . 25 . Art . 1 . q . 4 . → 
+- [chapter-01.typ note] Levit . → Lev
+- [chapter-01.typ note] Levit . → Lev
 - [chapter-01.typ] and → 
 - [chapter-01.typ] & c . → (
 - [chapter-01.typ] thence → from there
@@ -130,12 +133,19 @@
 - [chapter-01.typ] Increpation → rebuke
 - [chapter-01.typ] 3dly → Thirdly
 - [chapter-02.typ note] 3 . → 
+- [chapter-02.typ note] Numb . → Num
+- [chapter-02.typ note] Chron . → Chr
 - [chapter-02.typ note] 4 → 5
+- [chapter-02.typ note] Philipp . → Phil
+- [chapter-02.typ note] Colos . → Col
 - [chapter-02.typ note] Joh . → John
-- [chapter-02.typ note] 3 → 3:1
-- [chapter-02.typ note] • . → 
-- [chapter-02.typ note] King . → Kings
+- [chapter-02.typ note] Tim → Tim 3:1
+- [chapter-02.typ note] 3 . • . → 
+- [chapter-02.typ note] King . → Kgs
+- [chapter-02.typ note] Psal . → Ps
 - [chapter-02.typ note] Act . → Acts
+- [chapter-02.typ note] Levit . → Lev
+- [chapter-02.typ note] Chron . → Chr
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] shall → will
 - [chapter-02.typ] any thing → anything
@@ -203,8 +213,14 @@
 - [chapter-02.typ] wit → is
 - [chapter-02.typ] John → Jehu
 - [chapter-02.typ] evil doers → evildoers
+- [chapter-03.typ note] Tit . → Titus
 - [chapter-03.typ note] Act . → Acts
-- [chapter-03.typ note] 5 → 5:2
+- [chapter-03.typ note] Pet → Pet 5:2
+- [chapter-03.typ note] 5 . • → 
+- [chapter-03.typ note] Matth . → Matt
+- [chapter-03.typ note] Matth . → Matt 10:
+- [chapter-03.typ note] 10 . → 
+- [chapter-03.typ note] 6 . → 
 - [chapter-03.typ] consine it self → confine itself
 - [chapter-03.typ] extendeth it self → extends itself
 - [chapter-03.typ] Ghost → Spirit
@@ -230,13 +246,19 @@
 - [chapter-03.typ] any thing → anything
 - [chapter-03.typ] & c → etc
 - [chapter-03.typ] shall → will
+- [chapter-03.typ] . Pleading → pleading
 - [chapter-03.typ] shall → will
 - [chapter-03.typ] solver ; → solvere. (
 - [chapter-03.typ] doth → does he
 - [chapter-03.typ] shall → will
 - [chapter-03.typ] shall → will
 - [chapter-04.typ note] Act . → Acts
+- [chapter-04.typ note] Ver . → Verse
+- [chapter-04.typ note] Ver . → Verse
+- [chapter-04.typ note] Matth . → Matt
 - [chapter-04.typ note] Joh . → John
+- [chapter-04.typ note] Matth . → Matt
+- [chapter-04.typ note] Numb . → Num
 - [chapter-04.typ] Ghost → Spirit
 - [chapter-04.typ] 1st → First
 - [chapter-04.typ] shall → will
@@ -271,11 +293,21 @@
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
 - [chapter-04.typ] & c → etc
+- [chapter-05.typ note] Chron . → Chr
+- [chapter-05.typ note] Matth . → Matt
 - [chapter-05.typ note] Joh . → John
 - [chapter-05.typ note] Joh . → John
+- [chapter-05.typ note] Matth . → Matt
+- [chapter-05.typ note] Matth . → Matt
+- [chapter-05.typ note] Matth . → Matt
+- [chapter-05.typ note] Philip . → Phil
 - [chapter-05.typ note] & c → etc
+- [chapter-05.typ note] Matth . → Matt 16:
 - [chapter-05.typ note] 16 . Joh . → John
 - [chapter-05.typ note] Joh . → John
+- [chapter-05.typ note] Psal . → Ps
+- [chapter-05.typ note] Matth . → Matt
+- [chapter-05.typ note] Psal . → Ps
 - [chapter-05.typ] Resolution , → resolution
 - [chapter-05.typ] Ghost → Spirit
 - [chapter-05.typ] Ghost → Spirit
@@ -325,11 +357,13 @@
 - [chapter-05.typ] oft times → often
 - [chapter-05.typ] tho' → ) though
 - [chapter-05.typ] doth oft times → does often
+- [chapter-06.typ note] Matth . → Matt
 - [chapter-06.typ note] & c → etc
-- [chapter-06.typ note] 33 → 33:7
-- [chapter-06.typ note] • . → 
+- [chapter-06.typ note] Ezek → Ezek 33:7
+- [chapter-06.typ note] 33 . • . → 
 - [chapter-06.typ note] 9 → 9:15, 16
 - [chapter-06.typ note] 17 . → 
+- [chapter-06.typ note] Chron . → Chr
 - [chapter-06.typ] all ways → always
 - [chapter-06.typ] him - → 
 - [chapter-06.typ] thy self → yourself
@@ -347,12 +381,16 @@
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] thy self → yourself
 - [chapter-06.typ] . Means → means
+- [chapter-07.typ note] Matth . → Matt
+- [chapter-07.typ note] Matth . → Matt
+- [chapter-07.typ note] Matth . → Matt
 - [chapter-07.typ] your selves → yourselves
 - [chapter-07.typ] your selves → yourselves
 - [chapter-07.typ] 'tis → it is
 - [chapter-07.typ] 'tis → it is
 - [chapter-07.typ] your selves → yourselves
 - [chapter-08.typ note] A pud → Apud
+- [chapter-08.typ note] Matth . → Matt
 - [chapter-08.typ note] & c → etc
 - [chapter-08.typ] Common - wealth → commonwealth
 - [chapter-08.typ] your selves → yourselves
@@ -470,12 +508,16 @@
 - [chapter-01.typ note] . → :
 - [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → 
+- [chapter-01.typ note] . → 
+- [chapter-01.typ note] . → :
+- [chapter-01.typ note] . → :
+- [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → :
 - [chapter-01.typ note] . → :
 - [chapter-01.typ note] . → :
+- [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → :
-- [chapter-01.typ note] . → :
-- [chapter-01.typ note] . → :
+- [chapter-01.typ note] . → 
 - [chapter-01.typ note] . → :
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
@@ -494,6 +536,8 @@
 - [chapter-01.typ] , → (
 - [chapter-01.typ] , → (
 - [chapter-01.typ] : → .
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → 
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → .
@@ -510,34 +554,51 @@
 - [chapter-01.typ] : → .
 - [chapter-01.typ] : → (
 - [chapter-01.typ] : → (
-- [chapter-02.typ note] . → . 3:
+- [chapter-02.typ note] . → 3:
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
+- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
 - [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
-- [chapter-02.typ note] . → :
+- [chapter-02.typ note] . → 
 - [chapter-02.typ note] . → :
 - [chapter-02.typ] : → .
 - [chapter-02.typ] : → ,
@@ -606,22 +667,32 @@
 - [chapter-02.typ] . → . (
 - [chapter-02.typ] . → .)
 - [chapter-02.typ] : → .
+- [chapter-03.typ note] . → 
 - [chapter-03.typ note] . → :
 - [chapter-03.typ note] . → :
 - [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
+- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
 - [chapter-03.typ note] . → :
 - [chapter-03.typ note] . → :
 - [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 
 - [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
-- [chapter-03.typ note] . → :
+- [chapter-03.typ note] . → 6:
+- [chapter-03.typ note] . → 
 - [chapter-03.typ note] . → :
 - [chapter-03.typ note] . → :
 - [chapter-03.typ] , → 
@@ -642,6 +713,7 @@
 - [chapter-03.typ] . → .)
 - [chapter-03.typ] . → . (
 - [chapter-03.typ] . → .)
+- [chapter-03.typ] . → 
 - [chapter-03.typ] : → .
 - [chapter-03.typ] : → . (
 - [chapter-03.typ] . → .)
@@ -658,11 +730,17 @@
 - [chapter-03.typ] : → . (
 - [chapter-03.typ] . → .)
 - [chapter-03.typ] : → .
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] . → 
 - [chapter-04.typ note] . → :
 - [chapter-04.typ note] . → :
 - [chapter-04.typ note] . → :
@@ -670,6 +748,7 @@
 - [chapter-04.typ note] . → :
 - [chapter-04.typ note] . → :
 - [chapter-04.typ] . → ,
+- [chapter-04.typ] . → 
 - [chapter-04.typ] ! → !)
 - [chapter-04.typ] , → 
 - [chapter-04.typ] . → . (
@@ -701,23 +780,33 @@
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → . 16:
-- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
+- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
-- [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
 - [chapter-05.typ note] . → :
@@ -762,27 +851,44 @@
 - [chapter-05.typ] , → , (
 - [chapter-05.typ] : → .
 - [chapter-05.typ] : → .
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
+- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
-- [chapter-06.typ note] . → :
+- [chapter-06.typ note] . → 
 - [chapter-06.typ note] . → :
 - [chapter-06.typ] : → .
 - [chapter-06.typ] : → . (
@@ -812,6 +918,7 @@
 - [chapter-07.typ note] . → :
 - [chapter-07.typ note] . → :
 - [chapter-07.typ note] . → :
+- [chapter-07.typ note] . → 
 - [chapter-07.typ note] . → :
 - [chapter-07.typ] : → .
 - [chapter-07.typ] : → .
@@ -819,8 +926,11 @@
 - [chapter-07.typ] : → .
 - [chapter-07.typ] : → .
 - [chapter-07.typ] : → .
+- [chapter-08.typ note] . → 
 - [chapter-08.typ note] . → :
+- [chapter-08.typ note] . → 
 - [chapter-08.typ note] . → :
+- [chapter-08.typ note] . → 
 - [chapter-08.typ note] . → :
 - [chapter-08.typ note] . → :
 - [chapter-08.typ] : → . (
@@ -1823,7 +1933,6 @@
 - Plague → plague
 - Planter → planter
 - Plea → plea
-- Pleading → pleading
 - Pleasure → pleasure
 - Points → points
 - Policy → policy
@@ -2050,7 +2159,6 @@
 
 - Ministery → ministry (×57)
 - whilst → while (×31)
-- Matth → Matt (×16)
 - condemn'd → condemned (×16)
 - Favour → favor (×15)
 - Maintainance → maintenance (×14)
@@ -2081,12 +2189,9 @@
 - Fervour → fervor (×3)
 - Governours → governors (×3)
 - Labourer → laborer (×3)
-- Levit → Lev (×3)
 - Ministeries → ministries (×3)
-- Numb → Num (×3)
 - Ordain'd → ordained (×3)
 - Propriety → property (×3)
-- Psal → Ps (×3)
 - Saviour's → Savior's (×3)
 - Tythes → tithes (×3)
 - Whosoever → Whoever (×3)
@@ -2137,7 +2242,6 @@
 - Bracar → Braga
 - Caelestinus → Celestinus
 - Christ → Christ)
-- Colos → Col
 - Colours → colors
 - Complement → compliment
 - Complices → accomplices
@@ -2163,8 +2267,10 @@
 - Indebitae → Indebita
 - Instrustrument → instrument
 - Intercessour → intercessor
+- James → Jas
 - Jerom → Jerome
 - Jews → Jews'
+- Kings → Kgs
 - Labour → labor
 - Maintainances → maintenance
 - Malachy → Malachi
@@ -2180,8 +2286,6 @@
 - Passuge → passage
 - Pedler → peddler
 - Peoples → people's
-- Philip → Phil
-- Philipp → Phil
 - Practisers → practicers
 - Preferr'd → preferred
 - Prophesy → prophecy

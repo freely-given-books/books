@@ -29,7 +29,7 @@ REPORT_NOTES = [
 
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "The Anatomy of Simon Magus", "author": "Anonymous",
-        "front": "ebook-front.html", "cover": "cover_front.jpg",
+        "front": "ebook-front.html", "cover": "cover.typ",
         "before": ["chapters/typ/foreword.typ"],
         "after": ["ebook-appendix.html", "chapters/typ/abbreviations.typ"],
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}

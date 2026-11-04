@@ -3,15 +3,23 @@
 # off with a signed tag, charles-spurgeon/all-of-grace/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Spurgeon's All of Grace (1886) as CCEL gives it, with clear CCEL errors fixed."
+summary = "Spurgeon's All of Grace in the words of the 1886 printing (New York, Robert Carter & Brothers), newly transcribed from the page images, in place of CCEL's reworded text."
 
 [[source]]
 file = "source/grace.thml.xml"
-description = "CCEL ThML: C. H. Spurgeon, All of Grace (1886)"
-url = "https://www.ccel.org/ccel/s/spurgeon/grace.xml"
-sha256 = "7980c795972bb279338a67325ccb4abfe6df7b9bf29cb77504b993cfeb52713c"
+description = "Our transcription (CC0) of All of Grace (New York: Robert Carter & Brothers, 1886): Kraken OCR of the archive.org scan corrected by four witnesses and the page images: source/SOURCES.md"
+url = "https://archive.org/details/allofgraceearnes00spur"
+sha256 = "226534b2eeb7b0aa031db495fb69bb31d8c6156edfd6df9dfed06aefa085f86c"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
 description = "Monergism's PDF (2015), which follows CCEL's text: source/proofread-report.md"
 url = "https://www.monergism.com/"
+
+[[witness]]
+description = "CCEL ThML of All of Grace, a modernized revision that rewords and drops passages, kept as source/grace.ccel.witness.xml: source/SOURCES.md"
+url = "https://www.ccel.org/ccel/s/spurgeon/grace.xml"
+
+[[witness]]
+description = "GLM-OCR, Tesseract and archive.org's OCR of the 1886 scan, voters in the transcription (2026-11-01): source/SOURCES.md"
+url = "https://archive.org/details/allofgraceearnes00spur"

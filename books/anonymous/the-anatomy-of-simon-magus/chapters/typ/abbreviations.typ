@@ -48,7 +48,7 @@ are not listed here.
 
 / Super Mattheum Homilia [N].: John Chrysostom (c. 349–407), _Homilies on Matthew_ (_In Matthaeum_), Homily [N].
 
-/ In Rom. 1.: John Chrysostom, _Homilies on Romans_, Homily 1.
+/ In Romans 1: John Chrysostom, _Homilies on Romans_, Homily 1.
 
 / In Act 8: Nicolaus de Lyra (c. 1270–1349), _Postilla litteralis super totam Bibliam_ — a verse-by-verse commentary on the entire Bible. "In Act 8" refers to his commentary on Acts, chapter 8.
 

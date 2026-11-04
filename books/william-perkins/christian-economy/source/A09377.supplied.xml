@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected to the 1609
+  print as the source is read (colophon/sources.py); the TCP file itself is
+  untouched.  Found by collating the TCP with two OCR readings of the print
+  (both had to differ), each read on the page image before it was put here.
+
+  fix/@pb: the printed page.  before + tcp + after: the transcription's text
+  there (in one text node; any white space matches any white space), found
+  exactly once on that page.  print: what is printed in place of tcp (empty
+  tcp: words the transcription left out); white space at its ends stays
+  outside the seg.  evidence: kept in a comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected to the 1609
+    print (archive.org bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0,
+    scan page = printed page + 16 to + 24), each read on the page image.</desc>
+    <fix pb="21" before="is begun," tcp="" print=" though"
+         evidence="p. 21 (scan 37): 'is begun, though* not in regard of fact'"/>
+    <fix pb="15" before="gift of" tcp="contimencie" print="continencie"
+         evidence="p. 15 (scan 31): 'the gift of continencie'"/>
+    <fix pb="46" before="comfort" tcp="this" print="his" after="wife"
+         evidence="p. 46 (scan 64): 'cherish and comfort his wife'"/>
+    <fix pb="103" before="with him." tcp="" print=" Lombard,"
+         evidence="p. 103 (scan 127): 'with him. Lombard, the master of the sentences', in italic"/>
+    <fix pb="122" before="is better" tcp="them" print="then" after="wine."
+         evidence="p. 122 (scan 146): 'is better then wine'"/>
+    <fix pb="144" before="the Priest" tcp="of" print="or" after="Prince"
+         evidence="p. 144 (scan 168): 'the Priest or Prince of Midian'"/>
+    <fix pb="157" before="offence," tcp="them" print="the" after="master"
+         evidence="p. 157 (scan 181): 'in case of offence, the master'"/>
+    <fix pb="161" before="that is" tcp="bough" print="bought" after="with money"
+         evidence="p. 161 (scan 185): 'he that is bought with money'"/>
+  </corrections>
+</supplement>

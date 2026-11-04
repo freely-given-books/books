@@ -74,6 +74,25 @@
         "thomas-brooks/the-secret-key-of-heaven": "6.1",
         "william-gouge/domestical-duties": 1
       }
+    },
+    {
+      "release": "2026.11.03",
+      "books": {
+        "1689-baptist-confession/1689-baptist-confession": 1,
+        "anonymous/the-anatomy-of-simon-magus": 7,
+        "charles-spurgeon/all-of-grace": 16,
+        "john-bunyan/grace-abounding": 2,
+        "john-bunyan/the-pilgrims-progress": 14,
+        "john-owen/the-death-of-death": 1,
+        "john-owen/the-mortification-of-sin": 1,
+        "jonathan-edwards/sinners-in-the-hands-of-an-angry-god": 9,
+        "richard-sibbes/the-glorious-feast-of-the-gospel": 14,
+        "thomas-boston/the-crook-in-the-lot": 1,
+        "thomas-brooks/precious-remedies-against-satans-devices": 2,
+        "thomas-brooks/the-secret-key-of-heaven": 7,
+        "william-gouge/domestical-duties": 2,
+        "william-perkins/christian-economy": 3
+      }
     }
   ]
 }

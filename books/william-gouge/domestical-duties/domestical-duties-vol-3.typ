@@ -1,4 +1,5 @@
-#import "@local/fgbooks:0.12.0": *
+#import "@local/fgbooks:0.15.0": *
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -15,40 +16,12 @@
   subtitle: [Volume III — The Fifth and Sixth Treatises: Of Children and Parents],
   author: "William Gouge",
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
-  publishing-info: [
-    This copy is provided to you free of charge under the Creative Commons CC0 1.0 Universal license.
+  // the Common Weal Press publisher's page, from the template
+  publishing-info: publisher-page(note: [
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107).
 
-    https://creativecommons.org/publicdomain/zero/1.0/
-
-    #image("lcc_standard_pd.png", width: 50%)
-
-    Freely you have received; freely give. - Matthew 10:8b
-
-    To get more free ebooks or at-cost printed copies, visit:
-
-    https://books.freely.giving
-
-    Printed books are at the cost of the printing, no revenue or
-    royalty is made from printings so you can get ahold of
-    physical prints at the lowest cost possible.
-
-    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John
-    Haviland for William Bladen, 1622), with the spelling modernized. The text
-    is the Text Creation Partnership transcription of the first edition
-    (EEBO-TCP A68107).
-
-    Book formatted by Courtney Allen Hicks
-
-    #link("mailto:books@lyndnex.com")
-
-    ebook and PDF also available.
-
-    This is volume 3 of four. The complete work is in eight treatises:
-    I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of
-    wives; IV, of husbands; V, of children; VI, of parents; VII, of servants;
-    VIII, of masters.
-
-  ],
+    This is volume 3 of four. The complete work is in eight treatises: I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of wives; IV, of husbands; V, of children; VI, of parents; VII, of servants; VIII, of masters.
+  ]),
   preface: [
     #align(center + horizon)[
       #text(size: 12pt)[
@@ -72,33 +45,46 @@
 // lines) are set as it prints them: no bullet, set in past a paragraph's
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
+// Notes kept on their marker's page (stray-notes.typ; print_check.py)
+#show: keep-notes.with(("284": "s-", "286": "t+", "289": "ws-", "354": "b", "440": "h-", "445": "b", "685": "w", "690": "w", "751": "w", "760": "s-",))
+#show: keep-text.with(("persons, by their prayers": "t-", "§. 25. Of children’s contentedness": "b", "§. 54. Of the equal": "b", "§. 7. Of the preposterous": "b", "own child smart, and": "t+", "made to that purpose": "t-", "a parent respect that": "ts-", "This motive doth exceedingly": "ts+", "For the general. God’s": "t+", "Vanity in apparel doth": "t+", "Too much sport maketh": "t+",))
 
 #metadata[Children Showing Respect for Parents] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 1–10])) <kicker>
 #include "chapters/typ/vol-3/01-children-showing-respect-for-parents.typ"
 
 #metadata[Children Getting Parents’ Permission] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 11–26])) <kicker>
 #include "chapters/typ/vol-3/02-children-getting-parents-permission.typ"
 
 #metadata[Children Obeying Parents’ Instruction and Correction] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 27–38])) <kicker>
 #include "chapters/typ/vol-3/03-children-obeying-parents-instruction-and-correction.typ"
 
 #metadata[Children Giving Back to Parents] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 39–51])) <kicker>
 #include "chapters/typ/vol-3/04-children-giving-back-to-parents.typ"
 
 #metadata[Children Honoring Father and Mother in the Lord] <short>
+#metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 52–64])) <kicker>
 #include "chapters/typ/vol-3/05-children-honoring-father-and-mother-in-the-lord.typ"
 
 #metadata[Parents Loving, Praying, and Providing for Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 1–25])) <kicker>
 #include "chapters/typ/vol-3/06-parents-loving-praying-and-providing-for-children.typ"
 
 #metadata[Parents Nurturing, Teaching, and Training Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 26–41])) <kicker>
 #include "chapters/typ/vol-3/07-parents-nurturing-teaching-and-training-children.typ"
 
 #metadata[Parents Admonishing and Correcting Children] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 42–49])) <kicker>
 #include "chapters/typ/vol-3/08-parents-admonishing-and-correcting-children.typ"
 
 #metadata[Parents Directing Children into Adulthood] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 50–70])) <kicker>
 #include "chapters/typ/vol-3/09-parents-directing-children-into-adulthood.typ"
 
 #metadata[Parents Being Faithful to All under Their Care] <short>
+#metadata((part: [The Sixth Treatise: Of Parents], sections: [§§. 71–79])) <kicker>
 #include "chapters/typ/vol-3/10-parents-being-faithful-to-all-under-their-care.typ"
