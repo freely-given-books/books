@@ -47,7 +47,7 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
 #show: keep-notes.with(("16": "w", "104": "s+", "224": "b", "527": "w", "540": "t+", "596": "b", "681": "b", "703": "s++", "705": "w", "718": "b", "719": "s-", "851": "w", "1025": "s--", "1106": "w", "1116": "b", "1184": "b",))
-#show: keep-text.with(("§. 12. Of wife-like modesty": "b", "§. 58. Of wives complemental": "b", "to enforce the same": "s+", "That matrimonial society may": "k", "the other from the": "k", "and content with his": "k", "§. 30. Of husbands and": "b", "§. 21. Of the things": "b", "§. 25. Of the law": "b", "§. 16. Of husbands ready": "b", "§. 13. Of that mutual": "b", "§. 32. Of husbands and": "b", "§. 20. Of Husbands encouraging": "b", "§. 21. Of husbands ungrateful": "b", "when we come to": "k",))
+#show: keep-text.with(("§. 12. Of wife-like modesty": "b", "§. 58. Of wives complemental": "b", "to enforce the same": "s+", "That matrimonial society may": "k", "the other from the": "k", "and content with his": "k", "§. 30. Of husbands and": "b", "§. 21. Of the things": "b", "§. 25. Of the law": "b", "§. 16. Of husbands ready": "b", "§. 13. Of that mutual": "b", "§. 32. Of husbands and": "b", "§. 20. Of Husbands encouraging": "b", "§. 21. Of husbands ungrateful": "b", "when we come to": "k", "On the other side,": "ts-", "If a wife must": "t+", "Others, through discontent lie": "t-",))
 
 #metadata[Seeking Marriage] <short>
 #metadata((part: [The Second Treatise, Part I: Of Husband and Wife], sections: [§§. 1–13])) <kicker>

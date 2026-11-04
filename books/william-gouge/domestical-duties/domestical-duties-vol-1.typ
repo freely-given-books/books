@@ -47,7 +47,7 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
 #show: keep-notes.with(("1": "w", "161": "b", "247": "w", "262": "t+", "277": "w", "306": "w", "350": "ws+", "436": "b", "589": "b", "617": "t+", "980": "w",))
-#show: keep-text.with(("they are cleansed and": "t-", "the nearest, then they": "t+", "§. 88. Of the equal": "b", "But in the grave": "s-", "one another as husband": "k", "proper actions appertaining to": "t-",))
+#show: keep-text.with(("they are cleansed and": "t-", "the nearest, then they": "t+", "§. 88. Of the equal": "b", "But in the grave": "s-", "one another as husband": "k", "proper actions appertaining to": "t-", "Hereby let trial be": "ts-", "It is necessary that": "ts+",))
 
 #metadata[The Epistle Dedicatory] <short>
 #include "chapters/typ/vol-1/dedication.typ"
