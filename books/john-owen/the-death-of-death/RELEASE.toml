@@ -13,7 +13,8 @@ summary = "Owen's Death of Death in the Death of Christ in William Goold's text,
 # reads as a note broken over. The page was looked at as rendered: it is the
 # table, whole, and no footnote.
 accepted_print = [
-  "the-death-of-death.pdf: a footnote is broken over to page 454: “Universalists.”",
+  "the-death-of-death.pdf: a footnote is broken over to page 454: “Universalists. Scriptural Redemption.”",
+  "the-death-of-death.pdf: a footnote is broken over to page 455: “yet no one saved. purchased, upon covenant and com”",
 ]
 
 [[source]]
