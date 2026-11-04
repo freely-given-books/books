@@ -32,11 +32,11 @@ ready = { date = "2026-11-01", commit = "a0ff124" }
 lulu = "https://www.lulu.com/shop/john-bunyan/the-pilgrims-progress/paperback/product-45y62qy.html"
 
 ["jonathan-edwards/sinners-in-the-hands-of-an-angry-god"]
-ready = { date = "2026-11-01", commit = "e68ca40" }
+ready = { date = "2026-11-03", commit = "8b9cb02" }
 lulu = "https://www.lulu.com/shop/jonathan-edwards-and-courtney-hicks/sinners-in-the-hands-of-an-angry-god/paperback/product-65w6dz7.html"
 
 ["richard-sibbes/the-glorious-feast-of-the-gospel"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-03", commit = "8b9cb02" }
 lulu = "https://www.lulu.com/shop/richard-sibbes/the-glorious-feast-of-the-gospel/paperback/product-w4ywv7q.html"
 
 ["thomas-brooks/precious-remedies-against-satans-devices"]
@@ -44,7 +44,7 @@ ready = { date = "2026-11-01", commit = "0dd6a9c" }
 lulu = "https://www.lulu.com/shop/thomas-brooks/precious-remedies-against-satans-devices/paperback/product-dy7vjp4.html"
 
 ["thomas-brooks/the-secret-key-of-heaven"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-03", commit = "8b9cb02" }
 lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
 
 ["william-gouge/domestical-duties"]
