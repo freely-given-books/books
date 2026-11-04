@@ -47,7 +47,7 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
 #show: keep-notes.with(("234": "t-", "341": "s++", "457": "w", "622": "s+", "625": "s++",))
-#show: keep-text.with(("see what is meet": "s+", "talk of the lips": "s-", "§. 22. Of masters neglecting": "b",))
+#show: keep-text.with(("see what is meet": "s+", "talk of the lips": "s-", "§. 22. Of masters neglecting": "b", "I may not be thought": "ts-", "will scarce afford them a": "ts-",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 123–133])) <kicker>
