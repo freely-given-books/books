@@ -14,9 +14,9 @@ sha256 = "d7404af2ca63812e0e37f7e38a4e9e091390951d686f3c1f807ad7192acc58d4"
 
 [[source]]
 file = "source/A68107.supplied.xml"
-description = "Pages 191-196 of the 1622 edition, missing from the copy the TCP transcribed, transcribed from a second 1622 copy (archive.org, n220-n225)"
+description = "Pages 191-196 of the 1622 edition, missing from the copy the TCP transcribed, transcribed from a second 1622 copy (archive.org, n220-n225); and the places where the TCP misreads the print, corrected from the page images"
 url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domesticall-duties_gouge-william_1622"
-sha256 = "a5620c2d6f858778a60f4d695cb7cb17db6ac082a7eafb99a15f0a8ef3548ee4"
+sha256 = "e7541ceaa9342c274f8963f1cc14238482751dbe6a691f35eb0be89645a5060b"
 
 # Copies the edition was checked against, kept or not (one per witness):
 
