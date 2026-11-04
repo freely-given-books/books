@@ -33,7 +33,6 @@ The precept it self enjoineth to parents three duties.
 
 + To #emph[nourish] children, namely with food, apparel, and other like necessaries #emph[(Nourish them.)]
 + To #emph[nurture] them, namely with good discipline #emph[(In nurture.)]
-
 + To #emph[instruct] them, namely in the ways of God #emph[(And admonition of the Lord.)]
 
 Nature teacheth unreasonable creatures to do the first, civility teacheth reasonable men to do the second, piety teacheth Christians to do the third.
@@ -363,7 +362,7 @@ To the forenamed fault of mothers do all such fathers make themselves accessary,
 
 There is a further duty to be performed of parents to their children even in their infancy, and that is in regard of their #emph[spiritual good,] which is this,
 
-#emph[Parents ought to procure that their children be rightly baptized in due season.]
+#block(inset: (x: 1em))[#emph[Parents ought to procure that their children be rightly baptized in due season.]]
 
 This is indeed a common duty appertaining to both parents, but most principally to the father, and that for two reasons.
 

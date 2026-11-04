@@ -4,7 +4,7 @@
 
 An husband that tenderly respecteth his wife, but providently careth not for her, showeth more affection then discretion: he may have a kind heart, but he wants a wise head. How then can he be a good head unto his wife? Some present contentment she may have by him: but small profit and benefit can she reap from him. Those duties therefore which have been delivered must be done, but these that follow must by no means be left undone.
 
-An husbands provident care is noted in that office of Christ, wherein an husband resembleth him, namely, to be #emph[a Saviour of] #footnote[Eph 5:23.] #emph[the body,] as hath been #footnote[Treat. 1. §. 15. & Treat. 3. §. 73.] before declared. It consisteth
+An husbands provident care is noted in that office of Christ, wherein an husband resembleth him, namely, to be #emph[a Saviour of] #footnote[Eph 5:23.] #emph[the body,] as hath been #footnote(numbering: (..) => "*")[Treat. 1. §. 15. & Treat. 3. §. 73.] before declared. It consisteth
 
 + In providing things needful for his wife.
 + In protecting her from things hurtful.
@@ -72,7 +72,7 @@ Many other such bitter fruits of unkind husbands arising from covetousness might
 
 2\. Others through jealous suspicion forbear not even in #footnote[#emph[Si quid vxor peccauerit consolare & noli moerorem augere. Chrys. hom.] 26. #emph[in] 1 Cor 11.] the time of their wives pain and weakness, to upbraid them with lightness, and to say that the child is none of theirs. To lay this to a wives charge unjustly, is at any time a most shameful and odious reproach: but in the time of childbirth whether just or unjust, a thing too too spiteful and revengeful. Some wives are so far overcome thereby, (especially in the time of their weakness) as they are not able to bear it, but even faint and die under the reproach: others more stout vow never to know their husbands again. Many like mischiefs follow on such unkindness.
 
-=== §. 52. #emph[Of an husbands providing for his wife according to his estate and ability.]#footnote[Treat. 3. §. 38.]
+=== §. 52. #emph[Of an husbands providing for his wife according to his estate and ability.]#footnote(numbering: (..) => "*")[Treat. 3. §. 38.]
 
 In an husbands providing for the body of his wife respect must be had to the #emph[measure,] and to the #emph[manner.]
 
@@ -86,7 +86,7 @@ Both in the #emph[measure] and in the #emph[manner] of providing, there must be 
 
 Contrary is an husbands niggardly dealing with his wife: when the allowance she hath is both far under his estate, and also so given her by little and little, as if she were a child. Many husbands make their wives drudge at home, fare hardly, and go meanly; who are themselves brave in apparel, frolic in their feasting abroad, and so exceed their wives as they are ashamed to be seen in company with them. They who marry their maids, or others of meaner rank then themselves, oft so deal with them: esteeming them but as servants and mean persons though they be their wives. But it hath been #footnote[§. 6.] before showed, that wives by marriage are advanced to their husbands dignity, how mean soever they were before.
 
-=== §. 54. #emph[Of husbands allowing their wives to bestow on others, as they see good occasion.]#footnote[Treat. 3. §. 23. 29. 33.]
+=== §. 54. #emph[Of husbands allowing their wives to bestow on others, as they see good occasion.]#footnote(numbering: (..) => "*")[Treat. 3. §. 23. 29. 33.]
 
 So far ought the provident care of an husband for his wife to extend, as she may have (beside things needful to her self) to bestow on such as it is requisite for her to give unto: as namely, on children and servants in the house, and others also out of the house. For so much is noted in #emph[Solomon’s] description #footnote[Prov 31:15. #emph[etc. Vers.] 21. #emph[Vers.] 28.] of a good wife; #emph[She giveth meat to her household, and a portion to her maidens: all her household is clothed with scarlet] (namely, by her ordering and disposing the matter.) #emph[Her children rise up and call her blessed,] as for her general carriage in the family, so for her particular favours bestowed on themselves. As for #footnote[#emph[Vers.] 20.] others out of the house, it is also noted, that #emph[she stretcheth out her hand to the poor, and reacheth forth her hands to the needy.] These things she did by virtue of that power and liberty which her husband gave her: as appeareth by two points there noted:
 
@@ -138,7 +138,7 @@ Having showed how an husband is to provide things needful for his wife: It remai
 
 In regard of that #emph[protection] which an husband oweth his wife, he is called #emph[the veil of her eyes:]#footnote[Gen 20:16.] which phrase as it implieth #emph[subjection] on the wives part, so also #emph[Protection] on the husbands: to protect one, is as it were, to #emph[cover] them, namely, from danger; to be negligent and careless of them, is, as it were, to lay them open to danger. The same duty is implied under another like phrase of #emph[spreading his wing] over his wife. #footnote[Ruth 3:9.] The metaphor is taken from winged fowls, which to keep their young ones from hurt, use to spread their wings over them: this phrase and metaphor is also attributed to God, to #footnote[Ruth 2:12.] set forth his protection.
 
-But most pertinent to this purpose is the title, #footnote[Treat. 1. §. 15. and treat. 3. §. 73.] #emph[Saviour,] given to an husband in relation to his wife.
+But most pertinent to this purpose is the title, #footnote(numbering: (..) => "*")[Treat. 1. §. 15. and treat. 3. §. 73.] #emph[Saviour,] given to an husband in relation to his wife.
 
 For this end the Lord who subjected a woman unto her husband, gave to his sex greater strength, courage and boldness then to hers, that he might protect her which is the #emph[weaker vessel.] In this duty of #emph[protection] Christ showeth himself an excellent pattern and precedent unto husbands.
 
@@ -174,10 +174,13 @@ Contrary is a dissolute carelessness of husbands, who care no more to help and s
 
 1\. Some more fear to offend their wives then they care to do #footnote[Contrary, Dissolute carelessness. 1. In suffering seducers to come to the house.] them good, and in that respect they let any sort of people come to their wives that are welcome to them. If Magistrates in a common-wealth shall answer for suffering seducers to come into their dominions to deceive their people, much more shall husbands answer for suffering them to come and deceive their wives.
 
+#[
+#set enum(indent: 24pt)
 + Because they have a greater charge over their wives then Magistrates over their people.
 + Because wives ought to be dearer to husbands then people to Magistrates.
 + Because they may sooner espy them in their house, then Magistrates in the common-wealth.
 + Because they may be much more easily kept out of an house, then out of a common-wealth, or a City.
+]
 
 2\. Others care not whither their wives wander: and if they#footnote[2\. In suffering wives to go whither they list.] do go out of their house, they shall never be sought after by their husbands: though this may be a just punishment on wandering wives, yet is it not just for husbands so to deal with them. If Christ our husband should so deal with us, we should soon be lost: for we oft go astray like wandering sheep, but he is that good shepherd, who seeketh after the lost sheep until he #footnote[Luke 15:4.] find it.
 

@@ -10,7 +10,6 @@ Twelfthly, consider you are the only persons in all the world that God hath made
 - He is an independent friend.
 - He is an unchangeable friend.
 - He is a watchful friend.
-
 - He is a tender and compassionate friend.
 - He is a close and faithful friend.
 

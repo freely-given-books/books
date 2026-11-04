@@ -127,7 +127,7 @@ The forenamed ancient marriage law is here applied mystically #footnote[#emph[Qu
 
 The mystery in general is this,
 
-#emph[Christ and the Church are to one another as husband and wife.]
+#block(inset: (x: 1em))[#emph[Christ and the Church are to one another as husband and wife.]]
 
 The particulars of this mystery are these.
 

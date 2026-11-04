@@ -185,8 +185,10 @@
     // a roundel above the seal, at one height on every volume. The surname
     // runs down the spine on every volume, so a set shelved together lines up
     // whatever each volume's thickness.
+    // everything on the spine, rules included, keeps 1/8in off each fold
+    // (plate_cover.typ's rules too), so a fold or print a little off true
+    // carries nothing of it round onto the front or back
     let safe = spine - 2 * SPINE_TRIM
-    let band = spine - 0.125in
     let fit = if spine-fit != none { calc.min(spine-fit, safe) } else { safe }
     let s = calc.min(fit, 0.5in)
     let name = if spine-author != none { spine-author } else { author }
@@ -194,8 +196,8 @@
     place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
       set align(center)
       for (edge, sign) in ((top, 1.0), (bottom, -1.0)) {
-        place(edge + center, dy: sign * 0.42in, rect(width: band, height: 1.2pt, fill: accent))
-        place(edge + center, dy: sign * 0.48in, rect(width: band, height: 0.5pt, fill: accent))
+        place(edge + center, dy: sign * 0.42in, rect(width: safe, height: 1.2pt, fill: accent))
+        place(edge + center, dy: sign * 0.48in, rect(width: safe, height: 0.5pt, fill: accent))
       }
       if seal != none {
         place(bottom + center, dy: -0.62in, seal(width: s, roundel: label, fountain: paper))

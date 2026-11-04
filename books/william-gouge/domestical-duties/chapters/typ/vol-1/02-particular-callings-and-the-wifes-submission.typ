@@ -134,11 +134,11 @@ Under this phrase #emph[(submit your selves)] all the duties which a wife oweth 
 
 In setting down the parties to whom wives owe subjection, the Apostle noteth a particle of restraint#footnote[ἰδίοις.] (#emph[own)] and that to show that a wife ought to have but one husband, which is more plainly expressed in another place by the same phrase, #emph[let every woman have her own husband:] that #footnote[1 Cor 7:2 τὸν ἴδιον ἄνδρα. See §. 82, 83.] is, only one proper to her self: so as
 
-#emph[It is unlawful for a wife to have more than one husband at once.]
+#block(inset: (x: 1em))[#emph[It is unlawful for a wife to have more than one husband at once.]]
 
 A wife must submit her self only to that one, proper #footnote[2\. #emph[Obser.]] husband, and to no other man (as she is a wife and yieldeth the duty of a wife) so as the subjection of adulteresses is here excluded: and the duty required is, that
 
-#emph[A wife must yield a chaste, faithful, matrimonial subjection] #footnote[3\. #emph[Obser.]] #emph[to her husband.]
+#block(inset: (x: 1em))[#emph[A wife must yield a chaste, faithful, matrimonial subjection] #footnote[3\. #emph[Obser.]] #emph[to her husband.]]
 
 Here by the way note the foolish #footnote[#emph[Adamiani ex Adam dicti, cuius imitantur in paradiso nuditatem. Nuptias auersantur. Nudi itaque mares foeminaeque conueniunt, etc. August. de Haeres. distinct.] 31. #emph[Promiscuè inter se viri & foeminae, Veneri operam dabant. Philast.]] collection of Adamites, Familists, and such like licentious libertines, who from the general words which the Apostle useth #emph[(men] #footnote[οἱ ἄνδρες. αἱ γυναῖκες.] and #emph[women)] infer that all women are as wives to all men, and that there needeth not any such near conjunction of one man with one woman. Which beastly opinion as it is contrary to the current of Scripture, and to the ancient law of marriage #emph[(two shall be one flesh)] so also to this clause #emph[(their own husbands.)] The Apostle, in using those general words, followed the Greek phrase, which putteth those two words #emph[(men women)] for husbands and wives: so also do other tongues, yea and our English. The particular relation, which is betwixt the persons who are meant by those two words, doth plainly show how they are to be taken, and when they are to be restrained to man and wife. To take away that ambiguity, our English hath well translated them, #emph[husband] and #emph[wife.]
 
@@ -154,4 +154,4 @@ It provoketh wives to submit themselves to their husbands, by noting the place o
 
 #emph[Wives in subjecting themselves aright to their husbands are subject to the Lord.] And on the contrary side, #footnote[6\. #emph[Obser.]]
 
-#emph[Wives in refusing to be subject to their husbands, refuse to be subject to the Lord.] #footnote[7\. #emph[Obser.] See #emph[Treat.] 3. §. 70.]
+#block(inset: (x: 1em))[#emph[Wives in refusing to be subject to their husbands, refuse to be subject to the Lord.] #footnote[7\. #emph[Obser.] See #emph[Treat.] 3. §. 70.]]

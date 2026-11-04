@@ -103,7 +103,7 @@ Again others by some continuance in doing good to their wives, think it a burden
 
 By this pattern of Christ here propounded to husbands, we have on the one side a good direction to teach us how to love our wives, as hath been particularly declared; and on the other side, matter of humiliation, in that it showeth us how far short we come of our bounden duty. Howsoever, wives may most complain of their burden, because it is a #emph[subjection] whereunto by nature we are all loath to yield: yet I am sure #footnote[See Treat. 1. §. 10.] the heaviest burden is laid upon the husbands shoulders: and much more easy it is to perform the part of a good wife, then a good husband.
 
-=== §. 74. #emph[Of husbands loving their wives as themselves.]#footnote[Treat. 3. §. 59.]
+=== §. 74. #emph[Of husbands loving their wives as themselves.]#footnote(numbering: (..) => "*")[Treat. 3. §. 59.]
 
 To the example of Christ the Apostle annexeth the pattern of ones self, in these words: #emph[So ought men to love their] #footnote[Eph 5:28.] #emph[wives as their own bodies.]
 
@@ -133,7 +133,7 @@ The forenamed examples of #emph[Christ] and of #emph[our selves as] #footnote[Ge
 
 A greater, and stronger motive cannot be yielded then the #footnote[Christ’s example the greatest motive that can be.] example of Christ. Example in it self is of great force to provoke us to do any thing: especially if it be the example of some great one, a man of place and renown.
 
-But who greater then Christ? What more worthy pattern? If (as was #footnote[Treat. 3. §. 74.] showed) the example of the Church be of great force to move wives to be subject to their husbands, the example of Christ must needs be of much greater force to move husbands to love their wives. A great honour it is to be like unto Christ: and his example is a perfect pattern.
+But who greater then Christ? What more worthy pattern? If (as was #footnote(numbering: (..) => "*")[Treat. 3. §. 74.] showed) the example of the Church be of great force to move wives to be subject to their husbands, the example of Christ must needs be of much greater force to move husbands to love their wives. A great honour it is to be like unto Christ: and his example is a perfect pattern.
 
 Two things there be which in Christ’s example are especially #footnote[Two things in Christ’s pattern provoke husbands to love their wives.] to be noted to move husbands to love their wives.
 

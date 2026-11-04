@@ -234,7 +234,7 @@ This then is a matter of trial, whereby we may prove whether #footnote[Use.] ind
 
 This relative particle (HIS) twice repeated #emph[(of] HIS #emph[flesh,] #footnote[αὐτοῦ.] #emph[and of] HIS #emph[bones)] showeth that
 
-#emph[Regeneration is of Christ.] #footnote[John 5:21.] #emph[The son quickeneth whom he will.] #footnote[Doctr.]
+#block(inset: (x: 1em))[#emph[Regeneration is of Christ.] #footnote[John 5:21.] #emph[The son quickeneth whom he will.] #footnote[Doctr.]]
 
 #emph[Object.] This work is attributed in Scripture to the #footnote[1 Pet 1:3.] father, to the #footnote[John 3:5.] Spirit, to the #footnote[Jas 1:18.] word, and to the #footnote[1 Cor 4:15.] Ministers of the word.
 

@@ -96,7 +96,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-01" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-03" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2007-02</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -2046,17 +2046,14 @@ them to <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</re
 terminated in the <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice>, they could not <choice><orig>ſee</orig><reg resp="#auto" type="spelling">see</reg></choice> through to
 the end and <choice><orig>ſcope</orig><reg resp="#auto" type="spelling">scope</reg></choice> of it. <choice><orig>Nevertheleſſe</orig><reg resp="#auto" type="spelling">Nevertheless</reg></choice>, when they
 <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>turne</orig><reg resp="#auto" type="spelling">turn</reg></choice> to the Lord, the <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> be taken away.</p>
-            <p>
-               <milestone type="tcpmilestone" unit="unspecified" n="1"/> </p>
-<list type="numbered" change="#review"><item>From the <choice><orig>words</orig><reg resp="#editor" type="spelling">words,</reg></choice> <choice><orig>conſider</orig><reg resp="#auto" type="spelling">consider</reg></choice> <choice><orig>firſt</orig><reg resp="#auto" type="spelling">first</reg></choice> of all, that natural<g ref="char:EOLhyphen"/>ly
-there is a <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice> of ignorance upon the <choice><orig>ſoule</orig><reg resp="#auto" type="spelling">soul</reg></choice>.</item></list>
-            <p>
-               <milestone type="tcpmilestone" unit="unspecified" n="2"/> </p>
-<list type="numbered" change="#review"><item>Secondly, God doth take away his <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice><choice><orig>,</orig><reg resp="#editor" type="punctuation">;</reg></choice> and God by
-his Spirit <choice><orig>onely</orig><reg resp="#auto" type="spelling">only</reg></choice> can <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> it.</item></list>
-            <p>
-               <milestone type="tcpmilestone" unit="unspecified" n="3"/> </p>
-<list type="numbered" change="#review"><item xml:id="rb15" next="#rb16">Thirdly, that this is <choice><orig>onely</orig><reg resp="#auto" type="spelling">only</reg></choice> in his <choice><orig>Church</orig><reg resp="#editor" type="case">church</reg></choice><choice><orig>:</orig><reg resp="#editor" type="punctuation">.</reg></choice> And where
+            <list type="numbered" change="#review"><item>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> From the <choice><orig>words</orig><reg resp="#editor" type="spelling">words,</reg></choice> <choice><orig>conſider</orig><reg resp="#auto" type="spelling">consider</reg></choice> <choice><orig>firſt</orig><reg resp="#auto" type="spelling">first</reg></choice> of all, that natural<g ref="char:EOLhyphen"/>ly
+there is a <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice> of ignorance upon the <choice><orig>ſoule</orig><reg resp="#auto" type="spelling">soul</reg></choice>.</item>
+<item>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, God doth take away his <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice><choice><orig>,</orig><reg resp="#editor" type="punctuation">;</reg></choice> and God by
+his Spirit <choice><orig>onely</orig><reg resp="#auto" type="spelling">only</reg></choice> can <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> it.</item>
+<item xml:id="rb15" next="#rb16">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, that this is <choice><orig>onely</orig><reg resp="#auto" type="spelling">only</reg></choice> in his <choice><orig>Church</orig><reg resp="#editor" type="case">church</reg></choice><choice><orig>:</orig><reg resp="#editor" type="punctuation">.</reg></choice> And where
 this <choice><orig>vaile</orig><reg resp="#editor" type="spelling">veil</reg><reg resp="#auto" type="spelling">vail</reg></choice> of ignorance is taken off, there is <choice><orig>feaſting</orig><reg resp="#auto" type="spelling">feasting</reg></choice> with
 <pb n="35" facs="tcp:117791:26"/>
 God<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> and <choice><orig>ſpirituall</orig><reg resp="#auto" type="spelling">spiritual</reg></choice> joy, and delight in the <choice><orig>beſt</orig><reg resp="#auto" type="spelling">best</reg></choice> order<choice><orig>:</orig><reg resp="#editor" type="punctuation">;</reg></choice>
@@ -4826,10 +4823,9 @@ thee<choice><orig>.</orig><reg resp="#editor" type="punctuation">.'</reg></choic
 for thee, and <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice> will <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> glad in thy <choice><orig>ſalvation</orig><reg resp="#auto" type="spelling">salvation</reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">.'</reg></choice>
 <pb n="108" facs="tcp:117791:63"/>
 We <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>ſo</orig><reg resp="#auto" type="spelling">so</reg></choice> enjoy them, that we <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> joy in them<choice><orig>:</orig><reg resp="#editor" type="punctuation">.</reg></choice> Good
-<choice><orig>things</orig><reg resp="#editor" type="spelling">things,</reg></choice> when they be enjoyed, they <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> joyed in.</item></list>
-            <p>
-               <milestone type="tcpmilestone" unit="unspecified" n="5"/> </p>
-<list type="numbered" change="#review"><item><choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, <choice><orig>wee</orig><reg resp="#editor" type="spelling">'we</reg><reg resp="#auto" type="spelling">we</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>rejoyce</orig><reg resp="#editor" type="spelling">rejoice</reg></choice> in our <choice><orig>ſalvation</orig><reg resp="#auto" type="spelling">salvation</reg></choice><choice><orig>;</orig><reg resp="#editor" type="punctuation">,</reg></choice> <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice>
+<choice><orig>things</orig><reg resp="#editor" type="spelling">things,</reg></choice> when they be enjoyed, they <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> joyed in.</item>
+<item>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> <choice><orig>Againe</orig><reg resp="#auto" type="spelling">Again</reg></choice>, <choice><orig>wee</orig><reg resp="#editor" type="spelling">'we</reg><reg resp="#auto" type="spelling">we</reg></choice> <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> <choice><orig>rejoyce</orig><reg resp="#editor" type="spelling">rejoice</reg></choice> in our <choice><orig>ſalvation</orig><reg resp="#auto" type="spelling">salvation</reg></choice><choice><orig>;</orig><reg resp="#editor" type="punctuation">,</reg></choice> <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice>
 <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> glory in our God<choice><orig>.</orig><reg resp="#editor" type="punctuation">.'</reg></choice> After they <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> a while <choice><orig>exerci<g ref="char:EOLhyphen"/>ſed</orig><reg resp="#auto" type="spelling">exercised</reg></choice>
 in waiting, then <choice><orig>commeth</orig><reg resp="#auto" type="spelling">cometh</reg></choice> performance, then
 they <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> enjoyed, and they <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> enjoyed with joy,
@@ -4862,11 +4858,10 @@ there? <hi ana="#print-only" change="#review"><choice><orig>Come</orig><reg resp
 </orig><reg resp="#editor" type="spacing"/></choice><hi ana="#print-only" change="#review"><choice><orig>come</orig><reg resp="#editor" type="emendation">, 'Come,</reg></choice> Lord<choice><orig>,</orig><reg resp="#editor" type="punctuation">,'</reg></choice></hi> till <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice> be in heaven. So that though in<g ref="char:EOLhyphen"/>termediate<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice>
 <choice><orig>promiſes</orig><reg resp="#auto" type="spelling">promises</reg></choice> <choice><orig>bee</orig><reg resp="#auto" type="spelling">be</reg></choice> performed here, yet there is a<g ref="char:EOLhyphen"/>nother
 great day of the Lord to be performed, which is
-<choice><orig>ſpecially</orig><reg resp="#auto" type="spelling">specially</reg></choice> meant here.</p></item></list>
-            <p>
+<choice><orig>ſpecially</orig><reg resp="#auto" type="spelling">specially</reg></choice> meant here.</p></item>
+<item>
                <pb n="109" facs="tcp:117791:63"/>
-</p>
-<list type="numbered" change="#review"><item>The <choice><orig>laſt</orig><reg resp="#auto" type="spelling">last</reg></choice> thing <choice><orig>conſiderable</orig><reg resp="#auto" type="spelling">considerable</reg></choice> in the words is the manner <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+The <choice><orig>laſt</orig><reg resp="#auto" type="spelling">last</reg></choice> thing <choice><orig>conſiderable</orig><reg resp="#auto" type="spelling">considerable</reg></choice> in the words is the manner <milestone type="tcpmilestone" unit="unspecified" n="6"/>
 of <choice><orig>expreſſion</orig><reg resp="#auto" type="spelling">expression</reg></choice><choice><orig>:</orig><reg resp="#editor" type="punctuation">.</reg></choice> They are <choice><orig>expreſſed</orig><reg resp="#auto" type="spelling">expressed</reg></choice> full of life, and with
 repetition, to make them <choice><orig>ſure</orig><reg resp="#auto" type="spelling">sure</reg></choice> and more <choice><orig>certaine</orig><reg resp="#auto" type="spelling">certain</reg></choice>, <hi ana="#print-only" change="#review"><choice><orig>In</orig><reg resp="#editor" type="spelling">'In</reg></choice> that
 day it <choice><orig>ſhall</orig><reg resp="#auto" type="spelling">shall</reg></choice> be <choice><orig>ſaid</orig><reg resp="#auto" type="spelling">said</reg></choice>, <choice><orig>this</orig><reg resp="#editor" type="case">This</reg></choice> is our God<choice><orig>,</orig><reg resp="#editor" type="punctuation">;</reg></choice> <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice> have waited for

@@ -283,7 +283,7 @@ Against this good instinct of nature do many offend. #footnote[Use.]
 
 As the Apostle by naming these two #emph[(nourish, cherish)] showeth that both of them are needful, so by naming them only, and no more but them, he showeth that they two are sufficient: whence we learn, that
 
-#emph[Having food and raiment, we must be therewith content.] #footnote[Doct.]
+#block(inset: (x: 1em))[#emph[Having food and raiment, we must be therewith content.] #footnote[Doct.]]
 
 The Apostle in these very words layeth down this doctrine in #footnote[1 Tim 6:8.] another place. The #footnote[Prov 30:8.] prayer of #emph[Agur,] and the tenor of the #footnote[Matt 6:11.] fourth Petition prove as much.
 

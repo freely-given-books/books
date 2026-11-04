@@ -1,5 +1,5 @@
-#import "@local/fgbooks:0.14.0": *
-#import "stray-notes.typ": keep-notes
+#import "@local/fgbooks:0.15.0": *
+#import "stray-notes.typ": keep-notes, keep-text
 
 // Edited by hand (first written by the earlier converter): a chapter added
 // or renamed in source/edition.json needs its #include and <short> lines here.
@@ -18,7 +18,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107). Greek and Hebrew the transcription could not key are read from the page images of the copy it was made from, words it misread are corrected to the print, and each margin note is set as a footnote after the words it belongs to. This volume opens with the end of the First Treatise (§§ 123–133), its exposition of Ephesians 6:5–9, which belongs with the treatises of servants and masters.
+    Set from William Gouge's _Of Domesticall Dvties_ (London, printed by John Haviland for William Bladen, 1622), with the spelling modernized. The text is the Text Creation Partnership transcription of the first edition (EEBO-TCP A68107).
 
     This is volume 4 of four. The complete work is in eight treatises: I, an exposition of Ephesians 5:21–6:9; II, of husband and wife; III, of wives; IV, of husbands; V, of children; VI, of parents; VII, of servants; VIII, of masters.
   ]),
@@ -46,35 +46,46 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("341": "s++", "622": "s+", "625": "s++",))
+#show: keep-notes.with(("234": "t-", "341": "s++", "457": "w", "622": "s+", "625": "s++",))
+#show: keep-text.with(("see what is meet": "s+", "talk of the lips": "s-", "§. 22. Of masters neglecting": "b", "I may not be thought": "ts-", "will scarce afford them a": "ts-",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
+#metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 123–133])) <kicker>
 #include "chapters/typ/vol-4/01-servants-and-masters-in-the-apostles-words.typ"
 
 #metadata[A Servant’s Reverence for His Master] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 1–9])) <kicker>
 #include "chapters/typ/vol-4/02-a-servants-reverence-for-his-master.typ"
 
 #metadata[A Servant’s Obedience to His Master] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 10–19])) <kicker>
 #include "chapters/typ/vol-4/03-a-servants-obedience-to-his-master.typ"
 
 #metadata[A Servant’s Faithful and Willing Service] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 20–34])) <kicker>
 #include "chapters/typ/vol-4/04-a-servants-faithful-and-willing-service.typ"
 
 #metadata[A Servant’s Duty and Its Limits under God] <short>
+#metadata((part: [The Seventh Treatise: Of Servants], sections: [§§. 35–43])) <kicker>
 #include "chapters/typ/vol-4/05-a-servants-duty-and-its-limits-under-god.typ"
 
 #metadata[A Master’s Authority Rightly Maintained] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 1–12])) <kicker>
 #include "chapters/typ/vol-4/06-a-masters-authority-rightly-maintained.typ"
 
 #metadata[A Master’s Correcting and Governing of His Household] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 13–20])) <kicker>
 #include "chapters/typ/vol-4/07-a-masters-correcting-and-governing-of-his-household.typ"
 
 #metadata[A Master’s Care for His Servants’ Souls and Bodies] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 21–34])) <kicker>
 #include "chapters/typ/vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ"
 
 #metadata[A Master’s Employing and Rewarding of His Servants] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 35–45])) <kicker>
 #include "chapters/typ/vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ"
 
 #metadata[A Master’s Own Master in Heaven] <short>
+#metadata((part: [The Eighth Treatise: Of Masters], sections: [§§. 46–49])) <kicker>
 #include "chapters/typ/vol-4/10-a-masters-own-master-in-heaven.typ"
 

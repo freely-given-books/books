@@ -16,6 +16,19 @@
     "own arrangement is lost."
   ],
 
+  "treatises": {
+    "_comment": "The line over each chapter, by `div`: Gouge's treatises, which his references name (\"Treat. 4. §. 2.\"). Print: the <kicker> lines in each volume's .typ; ebook: the layout's part and kicker.",
+    "5": "The First Treatise: On Ephesians 5:21–6:9",
+    "6": "The Second Treatise, Part I: Of Husband and Wife",
+    "7": "The Second Treatise, Part II: Of Their Common Duties",
+    "8": "The Third Treatise: Of Wives",
+    "9": "The Fourth Treatise: Of Husbands",
+    "10": "The Fifth Treatise: Of Children",
+    "11": "The Sixth Treatise: Of Parents",
+    "12": "The Seventh Treatise: Of Servants",
+    "13": "The Eighth Treatise: Of Masters"
+  },
+
   "front": {
     "dedication": {"div": 2, "title": "The Epistle Dedicatory"}
   },

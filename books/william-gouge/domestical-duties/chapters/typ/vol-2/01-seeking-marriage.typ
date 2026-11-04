@@ -200,15 +200,14 @@ Great are the dangers and damages that ordinarily fall out thereupon. For first 
 
 3\. Many other mischiefs are like to follow upon this kind of unequal marriage, besides danger of apostasy (which yet is the greatest) as
 
-1\. #emph[Many jars and contentions betwixt man and wife.]#footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
-
-2\. #emph[Disturbance of the family:] one part holding with the man, another with the woman.
-
-3\. #emph[Wasting of goods:] the husband spending what he can on such as are of his profession: and the wife what she can, on them that are of hers.
-
-4\. #emph[Hindrance of all holy duties] in the house: the party that is of #footnote[#emph[Cum oratio communis esse debeat, quomodo inter dispares deuotione potest esse coniugij communis charitas? Ibid.]] the contrary profession not enduring that there should be any.
-
-5\. #emph[Profaneness and Atheism in children.] For commonly when parents are of divers religions, children are of none: #footnote[Lev 24:10, 11.] instance that cursed blasphemer, whose mother was an Israelite, but his father an Egyptian.
+#[
+#set enum(indent: 24pt)
++ #emph[Many jars and contentions betwixt man and wife.]#footnote[#emph[Nihil grauius quam copulari alienigenae, vbi discordiae incentiua conflantur. Ambr. Ep.] 70.] For how can there be mutual marriage-concord, betwixt those that are of different minds?
++ #emph[Disturbance of the family:] one part holding with the man, another with the woman.
++ #emph[Wasting of goods:] the husband spending what he can on such as are of his profession: and the wife what she can, on them that are of hers.
++ #emph[Hindrance of all holy duties] in the house: the party that is of #footnote[#emph[Cum oratio communis esse debeat, quomodo inter dispares deuotione potest esse coniugij communis charitas? Ibid.]] the contrary profession not enduring that there should be any.
++ #emph[Profaneness and Atheism in children.] For commonly when parents are of divers religions, children are of none: #footnote[Lev 24:10, 11.] instance that cursed blasphemer, whose mother was an Israelite, but his father an Egyptian.
+]
 
 The Scripture noteth such children to be #footnote[Gen 6:4.] monsters, and #footnote[Neh 13:24.] mongrels.
 
