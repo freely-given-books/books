@@ -51,13 +51,14 @@
   // section headings only: a chapter heading starts its own page already,
   // and a page break put before it here would leave its place (contents,
   // bookmark, running head) on the page before (vol. III p. 105)
-  show heading: it => if it.level < 3 { it } else { context {
+  show heading: it => if it.level < 3 or it.at("label", default: none) == <bookmark-only> { it } else { context {
     let n = counter(footnote).get().first() + 1
     let k = fixes.at(str(n), default: none)
     // a note set with its own mark (*) is not counted, so the headings
     // around one share n: it is the one nearest the note's
     if k != none {
       let nh = query(selector(heading).after(here(), inclusive: false))
+        .filter(h => h.at("label", default: none) != <bookmark-only>)
       if (nh.len() > 0 and counter(footnote).at(nh.first().location()).first() + 1 == n and
           query(selector(footnote).after(here()).before(nh.first().location()))
             .any(f => type(f.numbering) == function)) { k = none }
@@ -125,7 +126,7 @@
   show block: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
   show enum.item: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
   show list.item: it => { let k = kind(it.body); if k == none or k == "b" { it } else { lever(k, it) } }
-  show heading: it => if it.level < 3 { it } else {
+  show heading: it => if it.level < 3 or it.at("label", default: none) == <bookmark-only> { it } else {
     let k = kind(it.body)
     if k == "b" { pagebreak(weak: true) + it } else { it }
   }

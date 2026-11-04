@@ -46,7 +46,7 @@
 // first-line indent, where the brace puts them.
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py)
-#show: keep-notes.with(("341": "s++", "457": "w", "622": "s+", "625": "s++",))
+#show: keep-notes.with(("234": "t-", "341": "s++", "457": "w", "622": "s+", "625": "s++",))
 #show: keep-text.with(("see what is meet": "s+", "talk of the lips": "s-", "§. 22. Of masters neglecting": "b",))
 
 #metadata[Servants and Masters in the Apostle’s Words] <short>
