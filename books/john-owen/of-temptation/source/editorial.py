@@ -1,60 +1,72 @@
-# Editorial settings for John Owen, Of Temptation: the Nature and Power of It,
-# from CCEL (https://www.ccel.org/ccel/o/owen/temptation.xml), kept untouched in
-# temptation.thml.xml. Read by build_tei.py, tei_extract.py and ./fgb.
+# Editorial settings for John Owen, Of Temptation: the Nature and Power of It, from the first
+# edition (Oxford: Leon. Lichfield for Tho. Robinson, 1658), EEBO-TCP A90277, kept untouched in
+# A90277.tcp.xml. Read by build_tei.py, tei_extract.py and ./fgb.
 #
-# CCEL's text is Goold's (The Works of John Owen, vol. 6, 1850-53), with its
-# page breaks. Witnesses: the 1658 first edition, EEBO-TCP A90277
-# (A90277.witness.xml, untouched); Goold's printing (vol. 6, 1850) and its
-# American reprint (Philadelphia, n.d.), archive.org scans; and Monergism's
-# modernized ebook (not kept here: it is not ours to publish). drift.py
-# compares them
-# (source/witness-report.md).
+# The orig layer is the 1658 print as the TCP keys it; no 1658 page images are free to read,
+# so the TCP stands as our witness of the print (the editor, 2026-11-05). Witnesses: the 1721
+# printing (archive.org bim_eighteenth-century_of-temptation-the-natur_owen-john_1721, Kraken
+# and Tesseract, work/of-temptation/ocr-1721); Goold's text (The Works of John Owen, vol. 6,
+# 1850-53), CCEL's ThML in temptation.ccel.witness.xml, the previous edition's source; and
+# Monergism's modernized ebook (not kept here). Goold's wording, already brought close to
+# Owen's, is the modernization layer: the review (chapters/typ).
 
 import layout
 
-# A modern text: the early-modern spelling and case rules stay off.
-MODERNIZE = False
-TYPOGRAPHY = True
-QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
-# CCEL keeps Goold's small capitals (the directions' ordinals, LORD, chapter
-# openings); the fgbooks 0.6.0 font, Libertinus Serif, has real ones.
-SMALLCAPS = "smallcaps"
-
-# CCEL's title page and indexes are its own apparatus.
-SKIP_DIVISIONS = {"contents", "index", "titlePage"}
-
 T = "{http://www.tei-c.org/ns/1.0}"
-XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
-ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
-         "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII"]
 
+QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
+SMALLCAPS = "smallcaps"
+OPENING_SMALLCAPS = True  # "HAving shewed": the chapter's first word in small capitals, as Goold
+# A chapter opening the 1658 print sets without a drop capital, in small capitals as Goold. (His
+# small-capital LORD and GOD, three times, are plain "Lord", "God" in the 1658 print: kept so.)
+SMALLCAPS_PHRASES = ("^[The] Directions",)
 
-def _by_id(root):
-    return {d.get(XML_ID): d for d in layout.top_divs(root)}
+# The title page is the print's, not the edition's; the errata are the printer's corrections,
+# carried into the reading text as emendations (source/errata.md), not printed.
+SKIP_DIVISIONS = {"title_page", "errata"}
+
+ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"]
 
 
 def LAYOUT(root):
-    """Owen's preface to the reader, then the nine chapters, one file each.
-    CCEL's ids: i.iii is the preface, i.iv chapter I ... i.xii IX."""
-    by_id = _by_id(root)
+    """Owen's preface to the reader, then the nine chapters, one file each, each chapter's
+    printed summary (head[@type="sub"]) set under its title."""
+    divs = layout.top_divs(root)
     files = [{"file": "to-the-reader.typ", "title": "To the Reader",
-              "parts": layout.sections(by_id["ccel-i.iii"])}]
-    for k in range(1, 10):
-        div = by_id[f"ccel-i.{ROMAN[k + 2].lower()}"]
+              "parts": layout.sections(next(d for d in divs if d.get("type") == "dedication"))}]
+    chapters = [d for d in divs if d.get("type") == "chapter"]
+    assert [d.get("n") for d in chapters] == [str(k) for k in range(1, 10)]
+    for k, div in enumerate(chapters, 1):
+        sub = next(h for h in div.findall(f"{T}head") if h.get("type") == "sub")
         files.append({"file": f"chapter-{k:02d}.typ", "title": f"Chapter {ROMAN[k - 1]}",
-                      "parts": layout.sections(div)})
+                      "subtitle": sub, "parts": layout.sections(div)})
     return files
 
 
-def SKIP_BLOCKS(root):
-    """Goold's prefatory note (1850s), not Owen's."""
-    return [_by_id(root)["ccel-i.ii"]]
+# Macron abbreviations default to a suppressed "n"; these document-order indices expand to "m"
+# (te̅ptations, the̅, diste̅per, the̅selves: Goold and 1721 read temptations, them, distemper,
+# themselves).
+MACRON_M = {1, 3, 4, 5, 9}
 
+# Gaps (build_tei.py --list): (letters, certainty, evidence). The Greek the TCP could not key
+# is Goold's, and προσέχειν was read on the 1721 page (frame 11); gap 9 (Greek after "lead us
+# not into temptation", p. 34) is in neither 1721 nor Goold and stays open. Gaps 1-5 are in
+# the errata, which the edition does not print.
+GAP_FIXES = {
+    0: ("ly", "medium", "seen dayly: Goold and 1721 'daily'", "#editor"),
+    6: ("Cor", "high", "margin Heb. 2. 9. Gal. 3. 13. 2 Cor. 5. 21. (Goold, 1721)", "#editor"),
+    7: ("ἐμπίπτειν", "high", "Goold; 1 Tim. 6:9", "#editor"),
+    8: ("προσέχειν", "high", "1721 page (frame 11), Goold", "#editor"),
+    10: ("ἐκ τοῦ πονηροῦ", "high", "Goold", "#editor"),
+    11: ("φρουρήσει τὰς καρδίας", "high", "Goold; Phil. 4:7", "#editor"),
+    12: ("Φρουρά", "high", "Goold", "#editor"),
+    13: ("φρουρήσει", "high", "Goold", "#editor"),
+    14: ("Τὴν καλὴν παρακαταθήκην", "high", "Goold; 2 Tim. 1:14", "#editor"),
+}
 
-# The headings below each chapter title are this edition's own (Owen and
-# Goold have none): the three parts of the text's opening, the doctrine, and
-# the two inquiries with their parts, so a reader can see where he is in
-# Owen's outline. label[@type="head"] in the TEI, not printed text.
+# The headings below each chapter title are this edition's own (Owen and Goold have none): the
+# three parts of the text's opening, the doctrine, and the two inquiries with their parts, so a
+# reader can see where he is in Owen's outline. label[@type="head"] in the TEI, not printed text.
 EDITION_HEADINGS = True
 
 # ./fgb epub / pdf / build (paths from the book folder)

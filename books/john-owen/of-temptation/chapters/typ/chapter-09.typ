@@ -1,6 +1,6 @@
 == Chapter IX
 
-#block(inset: (x: 1em))[General exhortation to the duty prescribed.]
+#align(center)[General exhortation to the duty prescribed.]
 
 === A General Exhortation
 

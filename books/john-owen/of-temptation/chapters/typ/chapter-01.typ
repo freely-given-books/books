@@ -1,8 +1,17 @@
 == Chapter I
 
-#block(inset: (x: 1em))[The words of the text, that are the foundation of the ensuing discourse—The occasion of the words, with their dependence—The things specially aimed at in them—Things considerable in the words as to the general purpose in hand—Of the general nature of temptation, wherein it consists—The special nature of temptation—Temptation taken actively and passively—How God tempts any—His ends in so doing—The way whereby he doth it—Of temptation in its special nature; of the actions of it—The true nature of temptation stated.]
+#align(center)[The words of the text, that are the foundation of the ensuing discourse—The occasion of the words, with their dependence—The things specially aimed at in them—Things considerable in the words as to the general purpose in hand—Of the general nature of temptation, wherein it consists—The special nature of temptation—Temptation taken actively and passively—How God tempts any—His ends in so doing—The way whereby he doth it—Of temptation in its special nature; of the actions of it—The true nature of temptation stated.]
 
-#block(inset: (x: 1em))[“Watch and pray, that ye enter not into temptation.”—Matt 26:41]
+#align(center)[
+  #block(width: 85%, breakable: false)[
+    #set par(justify: false)
+    #text(size: 0.9em, weight: 600)[Matt 26:41]
+
+    #text(style: "italic")[Watch and pray, that ye enter not into temptation.]
+  ]
+]
+
+#v(0.8em)
 
 #smallcaps[These] words of our Saviour are repeated with very little alteration in three evangelists; only, whereas Matthew and Mark have recorded them as above written, Luke reporteth them thus: “Rise and pray, lest ye enter into temptation;” so that the whole of his caution seems to have been, “Arise, watch and pray, that ye enter not into temptation.”
 
@@ -14,7 +23,7 @@ I shall not insist on the particular aimed at here by our Saviour, in this cauti
 
 There are three things in the words:—
 
-I. The #emph[evil] cautioned against,—#emph[temptation].
+I. The #emph[evil] cautioned against,—temptation.
 
 II. The #emph[means] of its prevalency,—by our #emph[entering into it].
 
@@ -30,7 +39,7 @@ Secondly, Temptation in its #emph[special] nature, as it denotes any evil, is co
 
 Again, actively considered, it either denotes in the tempter a design for the bringing about of the special end of temptation, namely, #emph[a leading into evil]\; so it is said, that “God tempts no man,” Jas 1:13, with a design for sin as such;—or the general nature and end of temptation, which is trial; so “God tempted Abraham,” Gen 22:1. And he proveth or tempteth by false prophets, Deut 13:3.
 
-Now, as to God’s tempting of any, two things are to be considered:—1. The end why he doth it; 2. The way whereby he doth it.
+Now, as to God’s tempting of any, two things are to be considered:—1\. The end why he doth it; 2\. The way whereby he doth it.
 
 1\. For the first, his general ends are two:—
 
