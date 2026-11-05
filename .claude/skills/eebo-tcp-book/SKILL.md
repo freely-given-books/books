@@ -335,13 +335,17 @@ The TCP is not letter-perfect: in Perkins it left out "Lombard," and
 "though" and misread six words ("of" for "or", "contimencie", "this wife",
 "better them wine", "them master", "bough"), all found after review and an
 outside proofread. Before a TCP book is called ready, collate its orig layer
-with OCR of the scan it was keyed from (the witness export's
-`source/ocr/<scan>.{glm,tesseract}.witness.txt`, or Kraken/Chandra output in
-the same layout):
+with OCR of the scan it was keyed from: Kraken and Tesseract through
+colophon's `ocr/` (a bundle per scan under `work/<book>/`, one engine at a
+time), or an earlier witness export's
+`source/ocr/<scan>.{glm,tesseract}.witness.txt`:
 
 ```sh
-python3 ~/Projects/fgbooks/local-tools/tcp_collate.py $B ~/Projects/fgbooks/work/<book>/tcp-collate \
-    $B/source/ocr/<scan>.glm.witness.txt $B/source/ocr/<scan>.tesseract.witness.txt
+S=~/Projects/fgbooks/work/<book>/<scan>      # source/<scan>.pdf inside
+./fgb ocr run $S tesseract && ./fgb ocr run $S kraken      # Kraken: $FGB_KRAKEN, $FGB_KRAKEN_MODEL
+./fgb ocr export $S tesseract && ./fgb ocr export $S kraken
+./fgb collate <book> ~/Projects/fgbooks/work/<book>/tcp-collate $S.kraken.witness.txt $S.tesseract.witness.txt
+./fgb crops ~/Projects/fgbooks/work/<book>/tcp-collate/candidates.json $S ~/Projects/fgbooks/work/<book>/tcp-collate/crops
 ```
 
 It lists only places where every witness differs from the TCP:
@@ -349,10 +353,10 @@ It lists only places where every witness differs from the TCP:
 (one-letter swaps, which the first pass would take for spelling). Expect
 mostly OCR noise: macron words (whē, gaue as "gae"), running heads,
 catchwords, GLM's modern guesses (five for foure). **Read every real
-candidate on the page image** (`pdftoppm -f N -l N -r 120 -gray -png
-source/ocr/ocr-witnesses/<scan>/source/scan.pdf`; the scan page is the
-printed page plus an offset that drifts, so find it from the GLM text's
-"--- Source PDF page" line). A turned letter is what was printed (Perkins
+candidate on the page image**: `./fgb crops` cuts each one's printed lines
+into contact sheets (or render a page: `pdftoppm -f N -l N -r 120 -gray
+-png <scan>.pdf`; the scan page is the printed page plus an offset that
+drifts, so find it from the witness's "--- Source PDF page" line). A turned letter is what was printed (Perkins
 "aud"): keep it in orig, correct it in reg.
 
 Each confirmed slip goes in `source/<ID>.supplied.xml` as a fix (colophon
