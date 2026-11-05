@@ -1,6 +1,9 @@
 == Chapter VII
 
-#align(center)[Several acts of watchfulness against temptation proposed—Watch the heart—What it is to be watched in and about—Of the snares lying in man’s natural tempers—Of peculiar lusts—Of occasions suited to them—Watching to lay in provision against temptation—Directions for watchfulness in the first approaches of temptation—Directions after entering into temptation.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[Several acts of watchfulness against temptation proposed—Watch the heart—What it is to be watched in and about—Of the snares lying in man’s natural tempers—Of peculiar lusts—Of occasions suited to them—Watching to lay in provision against temptation—Directions for watchfulness in the first approaches of temptation—Directions after entering into temptation.]
+]
 
 ==== Watch the Heart
 

@@ -1,6 +1,9 @@
 == Chapter I
 
-#align(center)[The words of the text, that are the foundation of the ensuing discourse—The occasion of the words, with their dependence—The things specially aimed at in them—Things considerable in the words as to the general purpose in hand—Of the general nature of temptation, wherein it consists—The special nature of temptation—Temptation taken actively and passively—How God tempts any—His ends in so doing—The way whereby he doth it—Of temptation in its special nature; of the actions of it—The true nature of temptation stated.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[The words of the text, that are the foundation of the ensuing discourse—The occasion of the words, with their dependence—The things specially aimed at in them—Things considerable in the words as to the general purpose in hand—Of the general nature of temptation, wherein it consists—The special nature of temptation—Temptation taken actively and passively—How God tempts any—His ends in so doing—The way whereby he doth it—Of temptation in its special nature; of the actions of it—The true nature of temptation stated.]
+]
 
 #align(center)[
   #block(width: 85%, breakable: false)[

@@ -1,6 +1,9 @@
 == Chapter V
 
-#align(center)[The second case proposed, or inquiries resolved—What are the best directions to prevent entering into temptation—Those directions laid down—The directions given by our Saviour: “Watch and pray”—What is included therein—(1.) Sense of the danger of temptation—(2.) That it is not in our power to keep ourselves—(3.) Faith in promises of preservation—Of prayer in particular—Of watching.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[The second case proposed, or inquiries resolved—What are the best directions to prevent entering into temptation—Those directions laid down—The directions given by our Saviour: “Watch and pray”—What is included therein—(1.) Sense of the danger of temptation—(2.) That it is not in our power to keep ourselves—(3.) Faith in promises of preservation—Of prayer in particular—Of watching.]
+]
 
 === Second Inquiry: Directions Against Entering into Temptation
 

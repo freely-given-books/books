@@ -1,6 +1,9 @@
 == Chapter II
 
-#align(center)[What it is to “enter into temptation”—Not barely being tempted—Not to be conquered by it—To fall into it—The force of that expression—Things required unto entering into temptation—Satan or lust more than ordinarily importunate—The soul’s entanglement—Seasons of such entanglements discovered—Of the “hour of temptation,” Rev 3:10, what it is—How any temptation comes to its hour—How it may be known when it is so come—The means of prevention prescribed by our Saviour—Of watching, and what is intended thereby—Of prayer.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[What it is to “enter into temptation”—Not barely being tempted—Not to be conquered by it—To fall into it—The force of that expression—Things required unto entering into temptation—Satan or lust more than ordinarily importunate—The soul’s entanglement—Seasons of such entanglements discovered—Of the “hour of temptation,” Rev 3:10, what it is—How any temptation comes to its hour—How it may be known when it is so come—The means of prevention prescribed by our Saviour—Of watching, and what is intended thereby—Of prayer.]
+]
 
 === II. What It Is to Enter into Temptation
 

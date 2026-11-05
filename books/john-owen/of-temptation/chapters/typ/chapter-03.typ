@@ -1,6 +1,9 @@
 == Chapter III
 
-#align(center)[The doctrine—Grounds of it; our Saviour’s direction in this case—His promise of preservation—Issues of men entering into temptation—1. Of ungrounded professors—2. Of the choicest saints, Adam, Abraham, David—Self-consideration as to our own weakness—The power of a man’s heart to withstand temptation considered—The considerations that it useth for that purpose—The power of temptation; it darkens the mind—The several ways whereby it doth so—1. By fixing the imaginations—2. By entangling the affections—3. Temptations give fuel to lust—The end of temptation considered, with the issue of former temptations—Some objections answered.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[The doctrine—Grounds of it; our Saviour’s direction in this case—His promise of preservation—Issues of men entering into temptation—1. Of ungrounded professors—2. Of the choicest saints, Adam, Abraham, David—Self-consideration as to our own weakness—The power of a man’s heart to withstand temptation considered—The considerations that it useth for that purpose—The power of temptation; it darkens the mind—The several ways whereby it doth so—1. By fixing the imaginations—2. By entangling the affections—3. Temptations give fuel to lust—The end of temptation considered, with the issue of former temptations—Some objections answered.]
+]
 
 === The Doctrine and Its Grounds
 

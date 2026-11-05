@@ -1,6 +1,9 @@
 == Chapter VI
 
-#align(center)[Of watching that we enter not into temptation—The nature and efficacy of that duty—The first part of it, as to the special seasons of temptation—The first season, in unusual prosperity—The second, in a slumber of grace—Third, a season of great spiritual enjoyment—The fourth, a season of self-confidence.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[Of watching that we enter not into temptation—The nature and efficacy of that duty—The first part of it, as to the special seasons of temptation—The first season, in unusual prosperity—The second, in a slumber of grace—Third, a season of great spiritual enjoyment—The fourth, a season of self-confidence.]
+]
 
 ==== Watch the Seasons of Temptation
 

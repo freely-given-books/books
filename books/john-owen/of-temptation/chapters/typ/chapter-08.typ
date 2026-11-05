@@ -1,6 +1,9 @@
 == Chapter VIII
 
-#align(center)[The last general direction, Rev 3:10: Watch against temptation by constant “keeping the word of Christ’s patience”—What that word is—How it is kept—How the keeping of it will keep us from the power of temptation.]
+#block(inset: (x: 1em))[
+  #set par(justify: false)
+  #text(size: 0.9em)[The last general direction, Rev 3:10: Watch against temptation by constant “keeping the word of Christ’s patience”—What that word is—How it is kept—How the keeping of it will keep us from the power of temptation.]
+]
 
 ==== The Last General Direction: Keep the Word of Christ’s Patience
 

@@ -30,7 +30,7 @@ ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"]
 
 def LAYOUT(root):
     """Owen's preface to the reader, then the nine chapters, one file each, each chapter's
-    printed summary (head[@type="sub"]) set under its title."""
+    printed summary (head[@type="sub"]) set off under its title, indented both sides."""
     divs = layout.top_divs(root)
     files = [{"file": "to-the-reader.typ", "title": "To the Reader",
               "parts": layout.sections(next(d for d in divs if d.get("type") == "dedication"))}]
@@ -39,7 +39,7 @@ def LAYOUT(root):
     for k, div in enumerate(chapters, 1):
         sub = next(h for h in div.findall(f"{T}head") if h.get("type") == "sub")
         files.append({"file": f"chapter-{k:02d}.typ", "title": f"Chapter {ROMAN[k - 1]}",
-                      "subtitle": sub, "parts": layout.sections(div)})
+                      "subtitle": sub, "subtitle_rend": "inset", "parts": layout.sections(div)})
     return files
 
 
