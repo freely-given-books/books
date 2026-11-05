@@ -4,10 +4,10 @@
 | --- | --- |
 | italic | 2303 |
 | punctuation | 2249 |
-| spelling | 1218 |
+| spelling | 1217 |
 | case | 933 |
-| emendation | 875 |
-| spacing | 740 |
+| emendation | 876 |
+| spacing | 741 |
 | grammar | 67 |
 | merge | 54 |
 | split | 27 |
@@ -721,6 +721,7 @@
 - [chapter-08.typ] it self ; → itself.
 - [chapter-08.typ] Temptation ; → temptation,—
 - [chapter-08.typ] Remedy , → remedy
+- [chapter-08.typ] that → . It
 - [chapter-08.typ] Revel . → Rev
 - [chapter-08.typ] is → is “
 - [chapter-08.typ] to day → today
@@ -4146,7 +4147,6 @@
 - subject → subject-
 - subtility → subtlety
 - subtilly → subtly
-- success → success;
 - such → such,
 - such → “Such
 - suffered → suffered,
