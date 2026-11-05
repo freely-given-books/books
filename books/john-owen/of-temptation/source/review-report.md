@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | italic | 2303 |
-| punctuation | 2249 |
-| spelling | 1217 |
-| case | 933 |
-| emendation | 876 |
+| punctuation | 2251 |
+| spelling | 1215 |
+| case | 937 |
+| emendation | 846 |
 | spacing | 741 |
 | grammar | 67 |
 | merge | 54 |
@@ -86,7 +86,7 @@
 - [chapter-01.typ] lye → “lie
 - [chapter-01.typ] . Men → ,—men
 - [chapter-01.typ] was → was “
-- [chapter-01.typ] cryes , → crying
+- [chapter-01.typ] cryes , → cries
 - [chapter-01.typ] 4 → 7
 - [chapter-01.typ] . The → ;—the
 - [chapter-01.typ] was → was “
@@ -151,7 +151,6 @@
 - [chapter-01.typ] silver → silver” (verse 5
 - [chapter-01.typ] vers → 
 - [chapter-01.typ] 5 → 
-- [chapter-01.typ] and → and the
 - [chapter-01.typ] comprized , → comprised
 - [chapter-01.typ] my self → myself
 - [chapter-01.typ] ayme → aim
@@ -165,19 +164,15 @@
 - [chapter-02.typ] to → to “
 - [chapter-02.typ] the → the “
 - [chapter-02.typ] 18 → 10
-- [chapter-02.typ] in the next place → , secondly,
 - [chapter-02.typ] Luk → ”
 - [chapter-02.typ] Mat → ”
 - [chapter-02.typ] 9 → 13
 - [chapter-02.typ] is → is “
-- [chapter-02.typ] and → 
 - [chapter-02.typ] , then → than
 - [chapter-02.typ] may → may “
 - [chapter-02.typ] it → it. But
 - [chapter-02.typ] but → —
 - [chapter-02.typ] Temptation ; → temptation,”
-- [chapter-02.typ] a → 
-- [chapter-02.typ] and → or
 - [chapter-02.typ] kill'd , → killed
 - [chapter-02.typ] : He → ,—he
 - [chapter-02.typ] it → ;” that
@@ -189,9 +184,6 @@
 - [chapter-02.typ] Temptation ; → temptation.”
 - [chapter-02.typ] Authour , → author
 - [chapter-02.typ] Temptation , → temptation
-- [chapter-02.typ] to → 
-- [chapter-02.typ] be → be wholly
-- [chapter-02.typ] wholy → 
 - [chapter-02.typ] poyson , → poison
 - [chapter-02.typ] thrise → ” thrice
 - [chapter-02.typ] the → the “
@@ -249,7 +241,6 @@
 - [chapter-03.typ] Matth . → Matt
 - [chapter-03.typ] to → to “
 - [chapter-03.typ] 〈 in non-Latin alphabet 〉 : → 
-- [chapter-03.typ] the → 
 - [chapter-03.typ] so → ;”—“So
 - [chapter-03.typ] Our → ” Our
 - [chapter-03.typ] it → it, Heb 2:18
@@ -259,13 +250,8 @@
 - [chapter-03.typ] For → (1.) For
 - [chapter-03.typ] Scripture → Scripture. Luke 8:13
 - [chapter-03.typ] Luk . 8 . 13 . → “
-- [chapter-03.typ] with → with it, that have made profession of
-- [chapter-03.typ] a → 
 - [chapter-03.typ] Matth . → Matt
-- [chapter-03.typ] words → sayings
-- [chapter-03.typ] like → like unto
 - [chapter-03.typ] a → a foolish
-- [chapter-03.typ] that → , which
 - [chapter-03.typ] : but → .” But
 - [chapter-03.typ] vers . → verse
 - [chapter-03.typ] Gospel , → gospel
@@ -442,7 +428,6 @@
 - [chapter-03.typ] our selves → ourselves
 - [chapter-03.typ] actively → ) Actively,
 - [chapter-03.typ] you → ye
-- [chapter-03.typ] manifold → divers
 - [chapter-03.typ] v → ”
 - [chapter-03.typ] v → ,
 - [chapter-03.typ] no → ”—“No,”
@@ -451,7 +436,6 @@
 - [chapter-03.typ] joy → joy when
 - [chapter-03.typ] when → 
 - [chapter-03.typ] Afflictions , → afflictions
-- [chapter-03.typ] high Priest , → priest:
 - [chapter-03.typ] that → that he
 - [chapter-03.typ] had → had ‘
 - [chapter-03.typ] Luk → ’
@@ -523,7 +507,6 @@
 - [chapter-05.typ] our → ourselves
 - [chapter-05.typ] selves → —
 - [chapter-05.typ] faith → ) Faith
-- [chapter-05.typ] Of Watching . → 
 - [chapter-05.typ] Matth . → Matt
 - [chapter-05.typ] words → words, “
 - [chapter-05.typ] Pray ; → pray.”
@@ -566,7 +549,6 @@
 - [chapter-05.typ] vve → we
 - [chapter-05.typ] way → way that
 - [chapter-05.typ] that → 
-- [chapter-05.typ] in it → therein
 - [chapter-05.typ] . 55 . → 35:
 - [chapter-05.typ] Graces , → graces
 - [chapter-05.typ] , lyes → lies
@@ -574,7 +556,6 @@
 - [chapter-05.typ] Temptation , → temptation
 - [chapter-05.typ] our → ourselves
 - [chapter-05.typ] selves → “
-- [chapter-05.typ] a → the
 - [chapter-05.typ] Ep . → Eph
 - [chapter-05.typ] Luk . → Luke
 - [chapter-05.typ] . 1 Thes . 5 . 14 . With → , Eph 6:18; “with
@@ -626,13 +607,12 @@
 - [chapter-06.typ] hovv vvofull → how woful,
 - [chapter-06.typ] 4th → fourth
 - [chapter-06.typ] to → to “
-- [chapter-06.typ] Peter louest → , son of Jonas, lovest
+- [chapter-06.typ] louest → , lovest
 - [chapter-06.typ] these → these?” John 21:15
 - [chapter-06.typ] Joh . 21 . 15 . He → he
 - [chapter-06.typ] cryeth → crieth, “
 - [chapter-06.typ] that → that thinketh he
 - [chapter-06.typ] Wouldest → ” Wouldst
-- [chapter-06.typ] on → in
 - [chapter-07.typ] its self → itself
 - [chapter-07.typ] that → that “
 - [chapter-07.typ] of → of;” which
@@ -648,16 +628,13 @@
 - [chapter-07.typ] Occasions → occasions and opportunities
 - [chapter-07.typ] Opportunities , Employments → employments
 - [chapter-07.typ] tic , → entice
-- [chapter-07.typ] insnares → weary
 - [chapter-07.typ] thy self → thyself
 - [chapter-07.typ] High - priests → high priest’s
-- [chapter-07.typ] in → on
 - [chapter-07.typ] in → on
 - [chapter-07.typ] Wisdom , → wisdom
 - [chapter-07.typ] Matth . → Matt
 - [chapter-07.typ] fly → flee
 - [chapter-07.typ] Jam → ”
-- [chapter-07.typ] a → 
 - [chapter-07.typ] : Nay → ; nay,
 - [chapter-07.typ] the → the “
 - [chapter-07.typ] Phi → ,
@@ -710,14 +687,12 @@
 - [chapter-07.typ] 6 → (6thly
 - [chapter-07.typ] 4 → 4thly
 - [chapter-07.typ] surprized , → surprised
-- [chapter-07.typ] that → the
 - [chapter-07.typ] hovv → how,
 - [chapter-07.typ] thy flesh → thyself
 - [chapter-07.typ] lyen → lain
 - [chapter-07.typ] ; bevvaile → ,—bewail
 - [chapter-08.typ] Revel . → Rev
 - [chapter-08.typ] constant → constant “
-- [chapter-08.typ] power → “hour
 - [chapter-08.typ] it self ; → itself.
 - [chapter-08.typ] Temptation ; → temptation,—
 - [chapter-08.typ] Remedy , → remedy
@@ -804,7 +779,6 @@
 - [chapter-08.typ] , accompanyeth → accompanieth
 - [chapter-08.typ] & c → ,” etc
 - [chapter-08.typ] : so → .” So
-- [chapter-08.typ] to → 
 - [chapter-08.typ] Temptation , → temptation
 - [chapter-08.typ] beseeches → “besought
 - [chapter-08.typ] my Grace → “My grace
@@ -840,7 +814,6 @@
 - [chapter-08.typ] vers → 
 - [chapter-08.typ] Graces , → graces
 - [chapter-08.typ] it self → itself
-- [chapter-08.typ] Communion → a communion
 - [chapter-08.typ] Principles : → principles,—
 - [chapter-08.typ] 1 → 1st
 - [chapter-08.typ] Revel → Rev 2:19–23
@@ -899,10 +872,8 @@
 - [chapter-08.typ] your selves → yourselves
 - [chapter-08.typ] 2 → )
 - [chapter-08.typ] your selves → yourselves
-- [chapter-08.typ] For instance ; the → The
 - [chapter-08.typ] 1 → ]
 - [chapter-08.typ] 5 → (2
-- [chapter-09.typ] A → 
 - [chapter-09.typ] ; by → ,—“By
 - [chapter-09.typ] where → !
 - [chapter-09.typ] nowhow → , now, how
@@ -926,7 +897,6 @@
 - [chapter-09.typ] not → not into temptation
 - [chapter-09.typ] , & → and
 - [chapter-09.typ] our selves → ourselves
-- [chapter-09.typ] he → 
 - [chapter-09.typ] would → ” Would
 - [chapter-09.typ] intangled , → entangled
 
@@ -1886,6 +1856,7 @@
 - [chapter-03.typ] , → 
 - [chapter-03.typ] : → ,
 - [chapter-03.typ] , → 
+- [chapter-03.typ] , → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → , ‘
@@ -2128,6 +2099,7 @@
 - [chapter-05.typ] . → .)
 - [chapter-05.typ] . → .)
 - [chapter-05.typ] . → (
+- [chapter-05.typ] . → —
 - [chapter-05.typ] . → —
 - [chapter-05.typ] , → 
 - [chapter-05.typ] , → 
@@ -2657,7 +2629,6 @@
 - [chapter-08.typ] . → :
 - [chapter-08.typ] : → —
 - [chapter-08.typ] : → —
-- [chapter-08.typ] . → .”
 - [chapter-08.typ] , → 
 - [chapter-08.typ] ; → .
 - [chapter-08.typ] . → :
@@ -3004,7 +2975,7 @@
 - [chapter-08.typ] , → 
 - [chapter-08.typ] , → ,—
 - [chapter-08.typ] , → ,—
-- [chapter-08.typ] ; → ,—as
+- [chapter-08.typ] ; → ,—
 - [chapter-08.typ] , → ,—
 - [chapter-08.typ] , → ,—
 - [chapter-08.typ] . → .)
@@ -3132,6 +3103,7 @@
 - [chapter-08.typ] : → ,
 - [chapter-08.typ] , → ;
 - [chapter-08.typ] , → 
+- [chapter-08.typ] ; → ,
 - [chapter-08.typ] , → 
 - [chapter-08.typ] , → 
 - [chapter-08.typ] . → [1.
@@ -3223,7 +3195,7 @@
 - Temptations → temptations (×35)
 - Gospel → gospel (×31)
 - Grace → grace (×29)
-- General → general (×14)
+- General → general (×15)
 - Love → love (×13)
 - Saints → saints (×13)
 - Apostle → apostle (×11)
@@ -3238,9 +3210,9 @@
 - Lust → lust (×8)
 - Or → or (×8)
 - it → It (×8)
+- Communion → communion (×7)
 - they → They (×7)
 - As → as (×6)
-- Communion → communion (×6)
 - So → so (×6)
 - That → that (×6)
 - spirit → Spirit (×6)
@@ -3443,6 +3415,7 @@
 - Praying → praying
 - Preservation → preservation
 - Prevention → prevention
+- Priest → priest
 - Professor → professor
 - Promise → promise
 - Property → property
@@ -3483,6 +3456,7 @@
 - Union → union
 - Universal → universal
 - Watchfulness → watchfulness
+- Watching → watching
 - Ways → ways
 - We → we
 - What → what
@@ -3575,12 +3549,12 @@
 - publick → public (×8)
 - vvill → will (×8)
 - woeful → woful (×8)
+- mans → man’s (×7)
 - poyson → poison (×7)
 - trialls → trials (×7)
 - yea → yea, (×7)
 - 3 → [3 (×6)
 - dye → die (×6)
-- mans → man’s (×6)
 - mens → men’s (×6)
 - namely → namely, (×6)
 - the → “The (×6)
@@ -3631,7 +3605,6 @@
 - them → them, (×3)
 - thing → thing, (×3)
 - this → this, (×3)
-- to → unto (×3)
 - tryed → tried (×3)
 - uncleaness → uncleanness (×3)
 - us → us, (×3)
@@ -3690,7 +3663,6 @@
 - lead → led (×2)
 - long → long- (×2)
 - loose → lose (×2)
-- man → men (×2)
 - mannaged → managed (×2)
 - may → may, (×2)
 - means → means, (×2)
@@ -3972,6 +3944,7 @@
 - indeavour → endeavour
 - indeed → indeed,
 - ingages → engages
+- insnares → ensnares
 - insnaring → ensnaring
 - instance → instance,
 - intangle → entangle
@@ -4004,8 +3977,8 @@
 - madness → madness,
 - make → makes
 - man → man,
+- man → men
 - mannage → manage
-- mans → men’s
 - mean → mean,
 - mean → meantime
 - meanining → meaning
@@ -4221,6 +4194,7 @@
 - wherinto → whereunto
 - whilst → whilst,
 - whither → whether
+- wholy → wholly
 - willfully → wilfully
 - wine → wine,
 - withal → withal,
