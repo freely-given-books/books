@@ -32,7 +32,12 @@
 
 #include "chapters/typ/chapter-06.typ"
 
-#include "chapters/typ/chapter-07.typ"
+// chapter VII's last two lines would stand alone on p. 82: its letter spacing
+// a little tighter brings them back to p. 81 (the next chapter opens on p. 83 either way)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/chapter-07.typ"
+]
 
 #include "chapters/typ/chapter-08.typ"
 
