@@ -329,6 +329,53 @@ applies everywhere, in every book:
 book whose machine pass changed. Read each new report, and say in the
 commit that words moved from `#editor` to `#auto`.
 
+## The TCP against the print
+
+The TCP is not letter-perfect: in Perkins it left out "Lombard," and
+"though" and misread six words ("of" for "or", "contimencie", "this wife",
+"better them wine", "them master", "bough"), all found after review and an
+outside proofread. Before a TCP book is called ready, collate its orig layer
+with OCR of the scan it was keyed from: Kraken and Tesseract through
+colophon's `ocr/` (a bundle per scan under `work/<book>/`, one engine at a
+time), or an earlier witness export's
+`source/ocr/<scan>.{glm,tesseract}.witness.txt`:
+
+```sh
+S=~/Projects/fgbooks/work/<book>/<scan>      # source/<scan>.pdf inside
+./fgb ocr run $S tesseract && ./fgb ocr run $S kraken      # Kraken: $FGB_KRAKEN, $FGB_KRAKEN_MODEL
+./fgb ocr export $S tesseract && ./fgb ocr export $S kraken
+./fgb collate <book> ~/Projects/fgbooks/work/<book>/tcp-collate $S.kraken.witness.txt $S.tesseract.witness.txt
+./fgb crops ~/Projects/fgbooks/work/<book>/tcp-collate/candidates.json $S ~/Projects/fgbooks/work/<book>/tcp-collate/crops
+```
+
+It lists only places where every witness differs from the TCP:
+`extra.md` (words the TCP lacks or a different word) and `nearmiss.md`
+(one-letter swaps, which the first pass would take for spelling). Expect
+mostly OCR noise: macron words (whē, gaue as "gae"), running heads,
+catchwords, GLM's modern guesses (five for foure). **Read every real
+candidate on the page image**: `./fgb crops` cuts each one's printed lines
+into contact sheets (or render a page: `pdftoppm -f N -l N -r 120 -gray
+-png <scan>.pdf`; the scan page is the printed page plus an offset that
+drifts, so find it from the witness's "--- Source PDF page" line). A turned letter is what was printed (Perkins
+"aud"): keep it in orig, correct it in reg.
+
+Each confirmed slip goes in `source/<ID>.supplied.xml` as a fix (colophon
+0.33.0; see Perkins'):
+
+```xml
+<corrections xml:id="tcp-corrections">
+  <desc>Words the TCP transcription misread or left out, corrected to the print (scan …).</desc>
+  <fix pb="103" before="with him." tcp="" print=" Lombard," evidence="p. 103 (scan 127): …"/>
+  <fix pb="144" before="the Priest" tcp="of" print="or" after="Prince" evidence="…"/>
+</corrections>
+```
+
+`before`+`tcp`+`after` is the TCP's raw text on printed page `pb`, in one
+text node, found exactly once (white space matches any white space). Put
+the same words in `chapters/typ` if the reg did not have them already,
+`./fgb sync`, `./fgb check`, and list the supplement as a `[[source]]` in
+`RELEASE.toml` with its sha256 (update it whenever the file changes).
+
 ## Verify
 
 ```sh
