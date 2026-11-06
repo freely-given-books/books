@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.11.03
+# Freely Given Books: release 2026.11.05
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -19,7 +19,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.36.0.
+Built with colophon 0.39.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
@@ -28,6 +28,7 @@ Built with colophon 0.36.0.
 | [All of Grace](#all-of-grace) | Charles Spurgeon | v16 | 2026-11-03 |
 | [Grace Abounding to the Chief of Sinners](#grace-abounding-to-the-chief-of-sinners) | John Bunyan | v2 | 2026-11-03 |
 | [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v14 | 2026-11-03 |
+| [Of Temptation](#of-temptation) | John Owen | v1 | 2026-11-05 |
 | [The Death of Death in the Death of Christ](#the-death-of-death-in-the-death-of-christ) | John Owen | v1 | 2026-11-03 |
 | [The Mortification of Sin](#the-mortification-of-sin) | John Owen | v1 | 2026-11-03 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v9 | 2026-11-03 |
@@ -36,7 +37,7 @@ Built with colophon 0.36.0.
 | [Precious Remedies Against Satan’s Devices](#precious-remedies-against-satans-devices) | Thomas Brooks | v2 | 2026-11-03 |
 | [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v7 | 2026-11-03 |
 | [Of Domestical Duties](#of-domestical-duties) | William Gouge | v2 | 2026-11-03 |
-| [Christian Economy](#christian-economy) | William Perkins | v3 | 2026-11-03 |
+| [Christian Economy](#christian-economy) | William Perkins | v3.1 (between Lulu revisions) | 2026-11-05 |
 
 ## The 1689 Baptist Confession of Faith: With Catechisms
 
@@ -141,6 +142,28 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - grammar modernized (hath -> has, thou -> you): 0 words (0.0%)
 - changed in wording (emendations): 63 words (0.1%); 20 words added, 13 removed
 - gaps in the transcription: none
+
+## Of Temptation
+
+Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.
+
+- folder: `books/john-owen/of-temptation`
+- version v1: tag `john-owen/of-temptation/v1`, signed off 2026-11-05 by Courtney
+- template: fgbooks 0.14.0
+- source: EEBO-TCP A90277: John Owen, Of Temptation: the Nature and Power of It (Oxford: Leon. Lichfield for Tho. Robinson, 1658), the first edition: the text <https://github.com/textcreationpartnership/A90277>, `source/A90277.tcp.xml` (sha256 `9270022961e61afb…`)
+- source: CCEL ThML: John Owen, Of Temptation, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53), a witness and the modernization layer's guide: source/wording-decisions.md <https://www.ccel.org/ccel/o/owen/temptation.xml>, `source/temptation.ccel.witness.xml` (sha256 `6b5231f59965fe7b…`)
+- witness: The 1721 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP (work/of-temptation/collate-3m): the TCP's keying slips, source/errata.md <https://archive.org/details/bim_eighteenth-century_of-temptation-the-natur_owen-john_1721>
+- witness: The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the printing CCEL follows <https://archive.org/details/worksofjohnowe185006owen>
+- files: `of-temptation-v1.pdf`, `of-temptation-v1-cover.pdf`, `of-temptation-v1-cover-front.png`, `of-temptation-v1-cover-front.png`, `of-temptation-v1.epub`, `of-temptation-v1-reader.html`, `of-temptation-v1-compare.html`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 33,129 printed words; 72.7% as printed
+- changed in form only (spelling, case, punctuation): 7,926 words (23.9%)
+- grammar modernized (hath -> has, thou -> you): 71 words (0.2%)
+- changed in wording (emendations): 1,040 words (3.1%); 176 words added, 332 removed
+- gaps in the transcription: 10, 10 restored, 0 left open
+- notes: 0 added by the editor, 5 printed notes left out
 
 ## The Death of Death in the Death of Christ
 
@@ -319,12 +342,14 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images.
 
 - folder: `books/william-perkins/christian-economy`
-- version v3: tag `william-perkins/christian-economy/v3`, signed off 2026-11-03 by Courtney
+- version v3.1: tag `william-perkins/christian-economy/v3.1`, signed off 2026-11-05 by Courtney
 - template: fgbooks 0.14.0
+- a point version: an improved ebook after Lulu revision 3; the print PDFs are that revision's (v3, built from its tag)
+- sign-off note: Print: changed since v3 (christian-economy.pdf: 5 page(s) differ: 19, 38, 47, 48, 68); not a Lulu revision.
 - source: EEBO-TCP A09377: Christian Oeconomie, or, A Short Survey of the Right Manner of Erecting and Ordering a Family (London, Felix Kyngston for Edmund Weaver, 1609), translated by Thomas Pickering <https://github.com/textcreationpartnership/A09377>, `source/A09377.tcp.xml` (sha256 `83d0f693c303aed4…`)
 - source: Corrections to the TCP transcription from the 1609 page images: "Lombard," and "though" restored where it left them out; "or", "continencie", "his", "then", "the" and "bought" where it misread them <https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0>, `source/A09377.supplied.xml` (sha256 `a43617693cab8cfe…`)
 - witness: The 1609 printing, archive.org scan (the copy TCP was keyed from), local OCR (GLM-OCR and Tesseract) in source/ocr/: two readings corrected ("his wife", "he forbiddeth"); the page images also settled the proofread's questions (source/proofread-report.md) <https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0>
-- files: `christian-economy-v3.pdf`, `christian-economy-v3-cover.pdf`, `christian-economy-v3-cover-front.png`, `christian-economy-v3-cover-front.png`, `christian-economy-v3.epub`, `christian-economy-v3-reader.html`, `christian-economy-v3-compare.html`
+- files: `christian-economy-v3.1.epub`, `christian-economy-v3.pdf`, `christian-economy-v3-cover.pdf`, `christian-economy-v3-cover-front.png`, `christian-economy-v3.1-reader.html`, `christian-economy-v3.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 

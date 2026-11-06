@@ -1,0 +1,27 @@
+# Release record of Of Temptation: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-owen/of-temptation/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording."
+
+[[source]]
+file = "source/A90277.tcp.xml"
+description = "EEBO-TCP A90277: John Owen, Of Temptation: the Nature and Power of It (Oxford: Leon. Lichfield for Tho. Robinson, 1658), the first edition: the text"
+url = "https://github.com/textcreationpartnership/A90277"
+sha256 = "9270022961e61afb1cd43d8e528603cb2e96de1d325e516eee217b5b8484ec5d"
+
+[[source]]
+file = "source/temptation.ccel.witness.xml"
+description = "CCEL ThML: John Owen, Of Temptation, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53), a witness and the modernization layer's guide: source/wording-decisions.md"
+url = "https://www.ccel.org/ccel/o/owen/temptation.xml"
+sha256 = "6b5231f59965fe7b7d75db2f59919fd5e9aff429d48e65cabb528f393c14a0ab"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1721 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP (work/of-temptation/collate-3m): the TCP's keying slips, source/errata.md"
+url = "https://archive.org/details/bim_eighteenth-century_of-temptation-the-natur_owen-john_1721"
+
+[[witness]]
+description = "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the printing CCEL follows"
+url = "https://archive.org/details/worksofjohnowe185006owen"

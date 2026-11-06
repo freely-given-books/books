@@ -1,0 +1,3 @@
+# colophon settings for this library (colophon/library.py: settings())
+editor = "Courtney Allen Hicks"     # credited in each TEI header for the review
+editor_short = "Courtney Hicks"     # as the press prints it

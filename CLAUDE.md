@@ -178,9 +178,10 @@ push, the release tag (`YYYY.MM.DD`, as in `revisions.json`) and the
    texts (CCEL included) turn it into a full space: "Cicero : Qui deos",
    "“ Prince of Peace.”", "others ; see". Any text keyed from an
    1800s edition (CCEL, Goold, Beveridge, Grosart, M'Millan) needs its
-   `sweep.py` spacing hits cleared before review is done; the 1600s TCP
+   `sweep.py` spacing hits cleared before review is done (`./fgb check` now
+   fails on them: colophon's `rules.py`); the 1600s TCP
    texts do not have it. Checked 2026-10-16: Spurgeon, Bunyan, Owen and
-   Boston clean in the edition; Calvin (Beveridge 1845) about 25 left.
+   Boston clean in the edition; Calvin (Beveridge 1845) clean since.
 
 ## Starting a new TCP book
 

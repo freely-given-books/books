@@ -85,6 +85,14 @@ p.inset {
   margin: 0.6em 1.5em;
 }
 
+/* a file's printed summary under its title (layout subtitle_rend "inset"):
+   a size smaller and ragged right, as the print sets it */
+p.inset.summary {
+  font-size: 0.9em;
+  text-align: left;
+  hyphens: none;
+}
+
 img {
   display: block;
   margin: 1.5em auto;
