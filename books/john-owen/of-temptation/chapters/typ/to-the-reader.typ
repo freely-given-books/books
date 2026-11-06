@@ -1,6 +1,6 @@
 == To the Reader
 
-#smallcaps[Christian Reader],
+Christian Reader,
 
 #smallcaps[If] thou art in any measure awake in these days wherein we live, and hast taken notice of the manifold, great, and various temptations wherewith all sorts of persons that know the Lord and profess his name are beset, and whereunto they are continually exposed, with what success those temptations have obtained, to the unspeakable scandal of the gospel, with the wounding and ruin of innumerable souls, I suppose thou wilt not inquire any farther after other reasons of the publishing of the ensuing warnings and directions, being suited to the times that pass over us, and thine own concernment in them. This I shall only say to those who think meet to persist in any such inquiry, that though my first engagement for the exposing of these meditations unto public view did arise from the desires of some, whose avouching the interest of Christ in the world by personal holiness and constant adhering to every thing that is made precious by its relation to him, have given them power over me to require at any time services of greater importance; yet I dare not lay my doing of it so upon that account, as in the least to intimate that, with respect to the general state of things mentioned, I did not myself esteem it seasonable and necessary. The variety of outward providences and dispensations wherewith I have myself been exercised in this world, with the inward trials they have been attended withal, added to the observation that I have had advantages to make of the ways and walkings of others,—their beginnings, progresses, and endings, their risings and falls, in profession and conversation, in darkness and light,—have left such a constant sense and impression of the power and danger of temptations upon my mind and spirit, that, without other pleas and pretences, I cannot but own a serious call unto men to beware, with a discovery of some of the most eminent ways and means of the prevalency of present temptations, to have been, in my own judgment, in this season needful.
 
@@ -8,4 +8,6 @@ But now, reader, if thou art amongst them, who takest no notice of these things,
 
 That our faithful and merciful High Priest, who both suffered and was tempted, and is on that account touched with the feeling of our infirmities, would accompany this small discourse with seasonable supplies of his Spirit and suitable mercy to them that shall consider it, that it may be useful to his servants for the ends whereunto it is designed, is the prayer of him who received this handful of seed from his storehouse and treasure.
 
-#smallcaps[John Owen].
+#v(1em)
+
+#align(right)[John Owen.]

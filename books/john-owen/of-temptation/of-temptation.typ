@@ -5,9 +5,7 @@
   subtitle: [The Nature and Power of It; the Danger of Entering into It; and the Means of Preventing That Danger: with a Resolution of Sundry Cases Thereunto Belonging],
   author: "John Owen",
   // the Common Weal Press publisher's page, from the template
-  publishing-info: publisher-page(note: [
-    The text is that of William H. Goold’s edition of Owen’s Works (1850), checked against the first edition of 1658. The summaries at the head of each chapter are Goold’s; Owen’s first edition has none.
-  ]),
+  publishing-info: publisher-page(),
   preface: [
     #align(center + horizon)[
       #text(size: 12pt)[
@@ -34,7 +32,12 @@
 
 #include "chapters/typ/chapter-06.typ"
 
-#include "chapters/typ/chapter-07.typ"
+// chapter VII's last two lines would stand alone on p. 82: its letter spacing
+// a little tighter brings them back to p. 81 (the next chapter opens on p. 83 either way)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/chapter-07.typ"
+]
 
 #include "chapters/typ/chapter-08.typ"
 
