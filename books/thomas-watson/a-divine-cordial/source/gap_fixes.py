@@ -406,7 +406,7 @@ GAP_FIXES = {
     398: ('o', 'high', "Augustine: 'Amare Deum & obedire'", '#editor'),
     399: ('a', 'high', "Latin note: 'transveharis ad sanctos'", '#editor'),
     400: ('πρὸς τὸν ἐχθρὸν μηδέποτε ἀπεχθῶς ἔχε', 'medium', '1663 scan 118 margin: read (πρὸς τὸν| ἐχθρὸν μη-|δέποτε ἀ-|πεχθῶς|ἔχε; τὸν abbreviated)', '#editor'),
-    401: ('h', 'high', "context: 'a spirit of Martyrdome in him, he saith as Paul'", '#editor'),
+    401: ('', 'high', "1663 scan 119: 'in him, he saith as Paul'; the mark before 'he' is a blot, no letter lost (filled 'h' at first, 2026-11-08)", '#editor'),
     402: ('ἑτοίμως ἔχω', 'high', '1663 scan 119: read (breathing on the first ε unclear); Acts 21:13 ἑτοίμως ἔχω', '#editor'),
     403: ('δι’ ὀδόντων θηρίων ἀλήθομαι ἵνα καθαρὸς ἄρτος θεοῦ εὑρεθῶ', 'medium', '1663 scan 119 margin: read (ος, ου ligatures; stained); Ignatius ad Rom. 4', '#editor'),
     404: ('ὡς γύνη φιλόκοσμος', 'high', '1663 scan 120: read, γύνη accented as printed (standard γυνὴ); Chrysostom', '#editor'),

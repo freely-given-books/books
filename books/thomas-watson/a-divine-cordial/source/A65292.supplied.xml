@@ -22,5 +22,13 @@
          evidence="p. 39 (scan 47): 'and turn our back upon it'"/>
     <fix pb="32" before="ad Deum ire" tcp="pogunt." print="cogunt."
          evidence="p. 32 (scan 40), margin: 'premunt ad Deum ire cogunt.'"/>
+    <fix pb="55" before="hacknying" tcp="our" print="out" after="themselves"
+         evidence="p. 55 (scan 63): 'hacknying out themselves in the Devils service'"/>
+    <fix pb="63" before="peccati" tcp="on" print="con"
+         evidence="p. 63 (scan 71), margin: 'peccati con-flictatur'"/>
+    <fix pb="154" before="certe quod" tcp="muliae" print="multae" after="gentes"
+         evidence="p. 154 (scan 162), margin: 'quod multæ gentes'"/>
+    <fix pb="16" tcp="sted" print="cted"
+         evidence="p. 16 (scan 24; Kraken 'dejected'): 'comfort a deje-cted soul', the ct ligature"/>
   </corrections>
 </supplement>

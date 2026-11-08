@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 655 |
+| punctuation | 652 |
 | italic | 348 |
-| emendation | 142 |
-| spelling | 12 |
-| spacing | 8 |
-| gap | 1 |
+| emendation | 163 |
+| spelling | 112 |
+| spacing | 7 |
+| gap | 3 |
 | skipped | 1 |
 
 ## skipped
@@ -16,7 +16,9 @@
 
 ## gap
 
+- [chapter-06.typ] Chance-medly, is nothing → Chance-medley, is nothing
 - [chapter-07.typ] χρηστεύεται → χρηστεύεται,
+- [chapter-14.typ note] exccole → excole
 
 ## emendation
 
@@ -26,6 +28,7 @@
 - [chapter-01.typ] ROM . → Rom
 - [chapter-02.typ] Tex ▪ → Text
 - [chapter-02.typ] Psal . → Ps
+- [chapter-03.typ note] Judg . → Judge 14:
 - [chapter-03.typ note] 14 . → 
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Chron . → Chr
@@ -44,22 +47,30 @@
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Thes . → Thess
+- [chapter-03.typ] dey → deje
 - [chapter-03.typ] Pro . → Prov
 - [chapter-03.typ] Thes . → Thess
 - [chapter-03.typ] Mat . → Matt
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Mat . → Matt
+- [chapter-03.typ] burntin → burnt in
 - [chapter-03.typ] Joh . → John
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] vers → v
-- [chapter-04.typ note] thing ▪ → things
+- [chapter-04.typ note] Evill thing ▪ → Evil things
 - [chapter-04.typ note] Psal . → Ps
+- [chapter-04.typ note] od → ad
+- [chapter-04.typ note] do → de
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
+- [chapter-04.typ note] estpeccatum → est peccatum
+- [chapter-04.typ note] temporecum → tempore cum
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Joh . → John
+- [chapter-04.typ] I → Ay
+- [chapter-04.typ] Phansy → Fancy
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] Chron . → Chr
 - [chapter-04.typ] ample xus → amplexus
@@ -68,6 +79,7 @@
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Vers . → Verse
 - [chapter-04.typ] Psal . → Ps
+- [chapter-04.typ] Judg . → Judge
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
@@ -126,8 +138,10 @@
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Mat . → Matt
+- [chapter-09.typ] fill'd → fill'd with
 - [chapter-09.typ] Cant . → Song
 - [chapter-09.typ] Revel . → Rev
+- [chapter-10.typ note] vicemrependere → vicem rependere
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] 33 → 23
 - [chapter-10.typ] Chron . → Chr
@@ -137,6 +151,7 @@
 - [chapter-10.typ] Eccles . → Eccl
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] Matth . → Matt
+- [chapter-10.typ] Judg . → Judge
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] Thes . → Thess
 - [chapter-10.typ] Thes . → Thess
@@ -145,21 +160,29 @@
 - [chapter-10.typ] Mat . → Matt
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Ephes . → Eph
+- [chapter-11.typ] be → he
+- [chapter-11.typ] phansy → fancy
 - [chapter-11.typ] 1 → 
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Psal . → Ps
+- [chapter-11.typ] is → 
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Joh . → John
+- [chapter-11.typ] of → 
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
+- [chapter-11.typ] I → Ay
 - [chapter-13.typ note] Psal . → Ps
 - [chapter-13.typ note] Numb . → Num
 - [chapter-13.typ] Ephes . → Eph
+- [chapter-13.typ] a → 
 - [chapter-13.typ] Psal . → Ps
 - [chapter-14.typ] Psal . → Ps
 - [chapter-14.typ] Ephes . → Eph
 - [chapter-14.typ] Eccles . → Eccl
+- [chapter-15.typ note] Signifaeternum → Signif. aeternum
+- [chapter-15.typ note] Ans Im → Anselm
 - [chapter-16.typ] Ephes . → Eph
 - [chapter-16.typ] Thes . → Thess
 
@@ -191,7 +214,6 @@
 - [chapter-02.typ note] ▪ → .
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
-- [chapter-03.typ note] . → 14:
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
@@ -361,7 +383,6 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
-- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
@@ -633,7 +654,6 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
@@ -823,10 +843,70 @@
 
 ## spelling
 
+- least → lest (×11)
+- Devils → Devil's (×9)
+- Vse → Use (×8)
+- Lords → Lord's (×6)
+- then → than (×5)
 - James → Jas (×4)
 - Kings → Kgs (×4)
+- Kings → King's (×3)
+- Spirits → Spirit's (×3)
+- Jacobs → Jacob's (×2)
+- animae → anima (×2)
+- Animae → Anima
+- Bee → Be
+- Brethreo → Brethren
+- Chymistry → Chemistry
+- Eli's → Elis
+- Fathers → Father's
+- Jaylor → Jailer
+- Josephs → Joseph's
+- Least → Lest
 - Luk → Luke
+- Plurisy → Pleurisy
 - Psal → Ps
+- Quirtus → Quintus
+- Stelia → Stellae
+- Tryal → Trial
+- amore → amor
+- augmention → augmentation
+- being → bring
+- boby → body
+- buring → burying
+- coetinguiuntur → extinguuntur
+- cognitione → cognition
+- corige → corrige
+- desloured → deflowered
+- destracted → distracted
+- diligandi → diligendi
+- dixcit → dixit
+- east → cast
+- epum → opum
+- excellenty → excellency
+- fragant → fragrant
 - gracen → grace
+- jucundiffimus → jucundissimus
+- knew → know
+- marveleus → marvelous
+- percatum → peccatum
+- perfers → prefers
+- persume → perfume
+- perticular → particular
+- quartumvis → quantumvis
+- salutom → salutem
+- seintillulae → scintillulae
 - showrs → showers
+- sorth → forth
+- sugientis → fugientis
+- supercisious → supercilious
+- surrows → furrows
+- their → there
+- think → thing
+- uncoverted → unconverted
+- unfavoury → unsavoury
+- unkindnesses → unkindness
+- whrewith → wherewith
+- wordly → worldly
+- yo → you
 
