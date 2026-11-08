@@ -10,6 +10,8 @@
 # reworded 20th-century modernization, only as a check.
 
 import layout
+import runpy as _runpy
+from pathlib import Path
 
 T = "{http://www.tei-c.org/ns/1.0}"
 
@@ -54,6 +56,11 @@ def LAYOUT(root):
 # ("bonū hominem", a Latin note). Index 1, "free-gracē" (p. 153), is no abbreviation: the 1663
 # page (scan 161) has "free-grace:", the colon's upper dot set high; the reading text has "grace".
 MACRON_M = {0}
+
+# Gaps (build_tei.py --list): every illegible letter, the Greek and Hebrew the TCP could not
+# key and the words lost to blots, read from the 1663 page images or the 1678 edition; see
+# gap_fixes.py. Gap 496 (p. 161, an eight-line Greek margin note, stained) stays open.
+GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
 
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "A Divine Cordial", "author": "Thomas Watson",
