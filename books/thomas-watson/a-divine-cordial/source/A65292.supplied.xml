@@ -18,6 +18,8 @@
     each read on the page image.</desc>
     <fix pb="27" before="ever" tcp="fightly" print="rightly" after="understand"
          evidence="p. 27 (scan 35): 'never rightly understand', the r damaged"/>
+    <fix pb="39" before="and turn" tcp="out" print="our" after="back upon it"
+         evidence="p. 39 (scan 47): 'and turn our back upon it'"/>
     <fix pb="32" before="ad Deum ire" tcp="pogunt." print="cogunt."
          evidence="p. 32 (scan 40), margin: 'premunt ad Deum ire cogunt.'"/>
   </corrections>
