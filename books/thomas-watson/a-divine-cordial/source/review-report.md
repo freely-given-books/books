@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 652 |
+| punctuation | 653 |
 | italic | 350 |
 | emendation | 186 |
 | spelling | 126 |
@@ -233,6 +233,7 @@
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] ▪ → ;
+- [chapter-01.typ] * → 
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-02.typ note] ▪ → .
