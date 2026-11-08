@@ -23,11 +23,6 @@
 // the paragraphs before notes 12 and 27 set with -/+0.01em letter spacing
 #show: keep-text.with(("2. I Pass to the second, the": "t-", "2. The second heart-quieting": "t+", ))
 
-// Orphans allowed (a paragraph's first line alone at a page's foot): with
-// orphan control Typst can push a marker's line onto the next page after
-// setting its footnote, so note and marker part (as Gouge). Widows are still avoided.
-#set text(costs: (orphan: 0%))
-
 #include "chapters/typ/to-the-reader.typ"
 
 #include "chapters/typ/chapter-01.typ"
