@@ -5,7 +5,7 @@
 | punctuation | 652 |
 | italic | 350 |
 | emendation | 165 |
-| spelling | 117 |
+| spelling | 123 |
 | spacing | 10 |
 | gap | 3 |
 | skipped | 1 |
@@ -138,7 +138,7 @@
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Mat . → Matt
-- [chapter-09.typ] fill'd → fill'd with
+- [chapter-09.typ] fill'd → filled with
 - [chapter-09.typ] Cant . → Song
 - [chapter-09.typ] Revel . → Rev
 - [chapter-10.typ note] vicemrependere → vicem rependere
@@ -881,6 +881,8 @@
 - buring → burying
 - coetinguiuntur → extinguuntur
 - cognitione → cognition
+- condemn'd → condemned
+- conferr'd → conferred
 - corige → corrige
 - desloured → deflowered
 - destracted → distracted
@@ -892,8 +894,11 @@
 - favoured → savoured
 - fragant → fragrant
 - gracen → grace
+- groun'd → ground
 - jucundiffimus → jucundissimus
 - knew → know
+- lay'n → lain
+- lif'd → lived
 - marveleus → marvelous
 - percatum → peccatum
 - perfers → prefers
@@ -912,6 +917,7 @@
 - uncoverted → unconverted
 - unfavoury → unsavoury
 - unkindnesses → unkindness
+- unparallel'd → unparalleled
 - whrewith → wherewith
 - woes → woos
 - wordly → worldly
