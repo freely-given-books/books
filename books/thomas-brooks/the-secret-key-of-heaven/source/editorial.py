@@ -145,3 +145,21 @@ EDITION_HEADINGS = True
 # Salutations and signatures are plain paragraphs, which the edition runs on
 # into the text or sets on two lines.
 CLOSER_PLAIN = True
+
+# Gaps (build_tei.py --list): the Hebrew and Greek the TCP keyed as "〈 in non-Latin
+# alphabet 〉", read from the 1665 page images (archive.org
+# bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665; "leaf" is
+# its page/nNNN image, kept in work/secret-key/scan-1665). Recorded as printed: the Hebrew
+# is unpointed, Greek accents and breathings as far as the film shows them.
+GAP_FIXES = {
+    0: ('קרא', 'high', "leaf 6 (epistle): 'The Hebrew word קרא hath nine other significations', unpointed; Kara, Isa 58:1 קְרָא", '#editor'),
+    1: ('יראה', 'high', "leaf 7 (epistle): 'the Hebrew word here used יראה', unpointed; Mic 6:9 יִרְאֶה שְׁמֶךָ (Jare/Raah)", '#editor'),
+    2: ('שמע', 'high', "leaf 8 (epistle): 'is from שמע Shamang', unpointed; root שָׁמַע", '#editor'),
+    7: ('Ὀλιγώρει', 'medium', "leaf 84 (epistle): read, capital Ο with smooth breathing set before it, γ and ω close, ει ligature, acute on ω faint; Heb 12:5 μὴ ὀλιγώρει", '#editor'),
+    9: ('Φρίσσουσι', 'medium', "leaf 86 (epistle): read, capital Φ, acute on ι, σσ and ου ligatured, final σι; middle letters crowded; Jas 2:19 φρίσσουσι(ν)", '#editor'),
+    15: ('ταμιεῖον', 'high', "p. 5 (leaf 114): read, circumflex over the second ι; Matt 6:6 ταμιεῖον (TR; NA ταμεῖον)", '#editor'),
+    21: ('ἐν παντὶ καιρῶ', 'medium', "p. 124 margin (leaf 233): read on two lines (ἐν παντὶ | καιρῶ), και ligature; no iota subscript visible under ω; Eph 6:18 ἐν παντὶ καιρῷ", '#editor'),
+    29: ('τί περισσὸν ποιεῖτε', 'medium', "p. 170 (leaf 279): read, πε ligature; acute on τί and circumflex on ποιεῖτε clear, grave on περισσὸν not certain; Matt 5:47 τί περισσὸν ποιεῖτε", '#editor'),
+    55: ('ἐνεργουμένη', 'high', "p. 329 margin (leaf 438): read, ἐνεργου-|μένη with ου ligature, hyphen at the line end; Jas 5:16 ἐνεργουμένη", '#editor'),
+    62: ('ἐκκακεῖν', 'medium', "p. 339 margin (leaf 448): blurred on the film; breathing, κκ, the ει+circumflex and final ν visible, middle α κ uncertain; Luke 18:1 (the text cited) μὴ ἐκκακεῖν", '#editor'),
+}

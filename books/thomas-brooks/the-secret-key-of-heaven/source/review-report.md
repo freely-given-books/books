@@ -7,9 +7,9 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4982 |
+| punctuation | 4984 |
 | case | 3803 |
-| emendation | 3668 |
+| emendation | 3667 |
 | spelling | 2405 |
 | italic | 1973 |
 | spacing | 1896 |
@@ -238,7 +238,7 @@
 - [chapter-03.typ] it → ! It
 - [chapter-03.typ] Allegories , → allegories
 - [chapter-03.typ] Figuratively , → figuratively
-- [chapter-03.typ] 〈 in non-Latin alphabet 〉 , → ταμεῖον
+- [chapter-03.typ] ταμιεῖον , → ταμεῖον
 - [chapter-03.typ] most usual significations → common meanings
 - [chapter-03.typ] Chamber , → chamber
 - [chapter-03.typ] Cupbord , → cupboard
@@ -1519,7 +1519,6 @@
 - [application-02.typ] Math → 
 - [application-02.typ] 5 . 47 . → “
 - [application-02.typ] you → ye
-- [application-02.typ] 〈 in non-Latin alphabet 〉 ? → ” (Matt 5:47)—τί περισσὸν ποιεῖτε;
 - [application-02.typ] Publick Prayers , → public prayers
 - [application-02.typ] O but → Oh! But
 - [application-02.typ] O that → Oh! That
@@ -5741,6 +5740,8 @@
 - [application-02.typ] & → 
 - [application-02.typ] , → ;
 - [application-02.typ] , → 
+- [application-02.typ] ? → ?” (Matt 5:47)—
+- [application-02.typ] ? → ;
 - [application-02.typ] , → 
 - [application-02.typ] ; → ,
 - [application-02.typ] ; → ,
