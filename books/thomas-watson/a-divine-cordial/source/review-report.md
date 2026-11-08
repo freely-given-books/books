@@ -5,7 +5,7 @@
 | punctuation | 654 |
 | italic | 350 |
 | emendation | 196 |
-| spelling | 129 |
+| spelling | 131 |
 | heading | 32 |
 | spacing | 13 |
 | list | 10 |
@@ -893,11 +893,13 @@
 - God's → gods (×2)
 - Jacobs → Jacob's (×2)
 - animae → anima (×2)
+- 1 → 1.
 - 1 → 1:
 - 14 → 14:
 - 2 → 2:
 - 25 → 2:5
 - 37 → 37:
+- 4 → 4.
 - Animae → Anima
 - Bee → Be
 - Brethreo → Brethren
