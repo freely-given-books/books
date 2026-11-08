@@ -54,7 +54,7 @@ def LAYOUT(root):
     for k, div in enumerate(chapters, 1):
         sub = div.findall(f"{T}head")[-1]
         files.append({"file": f"chapter-{k:02d}.typ", "title": f"Chapter {ROMAN[k - 1]}",
-                      "subtitle": sub, "part": PARTS.get(k),
+                      "subtitle": sub, "subtitle_rend": "strong", "part": PARTS.get(k),
                       "parts": layout.sections(div)})
     return files
 

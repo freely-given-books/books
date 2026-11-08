@@ -35,3 +35,10 @@ h3 {
   text-align: center;
   margin-bottom: 1.5em;
 }
+
+/* Watson's printed chapter title under the chapter heading: bold, set off (colophon subtitle_rend "strong") */
+p.subtitle.strong {
+  font-weight: bold;
+  text-align: center;
+  margin: 0.4em 7.5% 1.4em;
+}

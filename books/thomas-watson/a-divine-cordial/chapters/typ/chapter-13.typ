@@ -1,6 +1,11 @@
 == Chapter XIII
 
-#align(center)[Exhorting to the heavenly Calling.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Exhorting to the heavenly Calling.]
+]]
+
+#v(0.9em)
 
 2\. #smallcaps[Labour] to clear this to your own souls, that you are savingly called, 2 Pet 1:10. #emph[Give diligence to make your calling sure.] This is the great business of our lives, to get sound evidences of our #emph[effectual calling.] Acquiesce not in outward privileges, do not cry as the Jews, #emph[The Temple of the Lord]\; rest not in Baptism; what is it to have the Water, and want the Spirit? Be not content that you were born within the sound of #emph[Aarons] Bells, that Christ hath been preached to you; Satisfy not your selves with an empty profession; all this may be, and yet you are no better than blazing Comets; but labour to evidence to your souls that you are #emph[called of God]: Be not #emph[Athenians] to enquire News, what is the state and complexion of the times? What are the effects of such an Eclipse? What changes are like to happen in such a year? What is all this if you are not #emph[effectually called?] what if the times should have a fairer aspect? What though #emph[glory did dwell in our Land,] if grace doth not dwell in our hearts?#footnote[Ps 35:9.] Oh my Brethren, when things are dark without, let all be clear within, #emph[Give diligence to make your calling sure]\; 'tis both feasible and probable, God is not wanting to them that seek him; let not this great business hang in hand any longer. If there were controversy about your Land, you would use all means to clear your Title; and is salvation nothing? Will not you clear your Title here? Consider how sad your case is if you are not #emph[effectually called.]
 

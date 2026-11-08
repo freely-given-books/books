@@ -1,6 +1,11 @@
 == Chapter VII
 
-#align(center)[Showing the Nature, Cause, Kinds, Properties, and Degree of love to God.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Showing the Nature, Cause, Kinds, Properties, and Degree of love to God.]
+]]
+
+#v(0.9em)
 
 2\. I Proceed to the second general Branch of the Text, the #emph[Persons] interested in this Privilege, and they are doubly qualified.
 

@@ -1,5 +1,10 @@
 == Chapter XV
 
-#align(center)[Concerning God's Purpose.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Concerning God's Purpose.]
+]]
+
+#v(0.9em)
 
 3\. #smallcaps[The] third and last thing in the Text, which I shall but briefly glance at, is, The Ground and Original of our #emph[Effectual Calling,] in these words, κατὰ πρόθεσιν, #emph[According to his purpose: Anselm] renders it, #emph[according to his good will] #footnote[#emph[Signif. aeternum Dei beneplacitum.] Anselm.]. #emph[Peter Martyr] reads it, κατὰ γνώμην, according to his #emph[Decree]\; and so #emph[Beza] Interprets it. This purpose, or decree of God is the fountain-head of all our spiritual blessings #footnote[πρόθεσις #emph[est decretum Dei, a aeterno sanctum, ex mera ipsius non scrutanda sed adoranda voluntate.] Beza]\; it is #emph[causa] προηγουμένη, the impulsive cause of our Vocation, Justification, Glorification; it is the highest link in the Golden Chain of Salvation. What is the reason that one man is called, and not another? It is from the eternal purpose of God. God's Decree gives the casting voice in man's salvation.

@@ -1,6 +1,11 @@
 == Chapter IV
 
-#align(center)[Showing that the worst things work for good to the Godly.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Showing that the worst things work for good to the Godly.]
+]]
+
+#v(0.9em)
 
 2\. #smallcaps[The] #emph[worst things] work for good to the Godly #footnote[καὶ πάντα περιτρέπει ὁ θεὸς εἰς ἀγαθά. #emph[Aecumon.]]. Mistake me not, I do not say of their own nature they are good #footnote[Evil things in their own nature, do not cooperate, but contra-operate.], for they are a fruit of the curse; but though they are #emph[naturally] evil, yet they are #emph[morally] good, the wise over-ruling hand of God disposing and sanctifying. As the Elements, though of contrary qualities, yet God hath so tempered them, that they all work in an harmonious manner, for the good of the Universe. Or as in a Watch, the wheels seem to move contrary one to another, but all carry on the motion of the Watch, and help to make the Alarum strike: So things that seem to move cross to the Godly, yet by the wonderful Providence of God work for their good. Among these κάκιστα worst things, there are four sad evils work for good to them that love God.
 

@@ -1,6 +1,11 @@
 == Chapter III
 
-#align(center)[Showing that the best things work for good to the Godly.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Showing that the best things work for good to the Godly.]
+]]
+
+#v(0.9em)
 
 1\. #smallcaps[The] #emph[best things] work for good to the Godly: There are eight of these.
 

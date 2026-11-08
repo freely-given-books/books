@@ -1,6 +1,11 @@
 == Chapter XVI
 
-#align(center)[Showing that all must be resolved into God's purpose.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Showing that all must be resolved into God's purpose.]
+]]
+
+#v(0.9em)
 
 #footnote[#emph[Use.] 1.]#smallcaps[Let] us ascribe the whole work of grace to the pleasure of God's Will. God did not choose us because we were worthy, but by choosing us makes us worthy. Proud men are apt to assume and arrogate too much to themselves in being sharers with God. While many cry out of Church-sacrilege, they are in the mean time guilty of a far greater sacrilege, in robbing God of his glory, while they go to set the #emph[Crown of Salvation] upon their own head: but we must resolve all into God's #emph[purpose.] The Signs of salvation are in the Saints, but the Cause of salvation is in God. If it be God's purpose that saves, then,
 

@@ -1,6 +1,11 @@
 == Chapter V
 
-#align(center)[Showing the Reason of the Proposition.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Showing the Reason of the Proposition.]
+]]
+
+#v(0.9em)
 
 #smallcaps[The] grand Reason why all things shall work for good,#footnote[#emph[Reason.]] is the near and dear interest which God hath in his people. The Lord hath made a Covenant with them, Jer 32:38. #emph[They shall be my people, and I will be their God.] By virtue of this compact, all things do, and must work for good to them. Ps 50:7. #emph[I am God, even thy God.] This word אלהיךָ #emph[Thy God,] is the sweetest word in the Bible, it implies the best relations; and it is impossible there should be these relations between God and his people, and every thing not work for their good. This expression, #emph[I am thy God,] implies,
 

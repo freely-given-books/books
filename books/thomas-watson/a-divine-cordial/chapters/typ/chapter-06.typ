@@ -1,6 +1,11 @@
 == Chapter VI
 
-#align(center)[The Inferences drawn from the Proposition. A Use of Information.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[The Inferences drawn from the Proposition. A Use of Information.]
+]]
+
+#v(0.9em)
 
 1\. #smallcaps[IF] all things work for good, hence learn,#footnote[#emph[Use] of Information.] That there is a Providence: Things do not work of themselves, but God sets them a working for good.#footnote[1 #emph[Branch.]] God is the great Disposer of all events and issues, he sets every thing a working, #emph[His Kingdom ruleth over all,] Ps 103:13. It is meant of his providential Kingdom. Things in the world are not governed by #emph[second Causes,] by the counsels of men, by the Stars and Planets, but by divine Providence. Providence is #emph[Regina mundi,] the Queen and Governess of the world. There are three things in Providence. 1. πρόγνωσις, God's #emph[foreknowing]\; 2. προορισμὸς, God's #emph[determining]\; 3. διοίκησις, God's #emph[directing] all things to their periods and events: Whatever things do work in the world, God sets them a working. We read in the first of #emph[Ezekiel] of #emph[Wheels,] and #emph[Eyes] in the Wheels, and the #emph[moving] of the Wheels: The Wheels are the whole Universe, the Eyes in the Wheels are God's Providence, the moving of the Wheels is the hand of Providence turning all things here below.That which is by some called Chance-medley, is nothing else but the result of Providence #footnote[1 Kgs 22:34.]
 

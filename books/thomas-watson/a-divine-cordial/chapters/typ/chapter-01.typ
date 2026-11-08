@@ -1,6 +1,11 @@
 == Chapter I
 
-#align(center)[The Proaemium, or Introduction.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[The Proaemium, or Introduction.]
+]]
+
+#v(0.9em)
 
 #align(center)[
   #block(width: 85%, breakable: false)[

@@ -1,6 +1,11 @@
 == Chapter IX
 
-#align(center)[Discovering the Signs, or Fruits of love to God.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Discovering the Signs, or Fruits of love to God.]
+]]
+
+#v(0.9em)
 
 #emph[Use] 2. Let us try our selves impartially,#footnote[#emph[Use] 2. Trial.] whether we are in the number of those that love God. For the deciding of this, (our love will be best seen by the Fruits of it) I shall lay down fourteen Signs, or Fruits of love to God, and it concerns us nearly to search, whether any of these Fruits grow in our Garden.
 

@@ -1,6 +1,11 @@
 == Chapter XIV
 
-#align(center)[Three Exhortations to them who are called.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Three Exhortations to them who are called.]
+]]
+
+#v(0.9em)
 
 === Admire Free Grace
 

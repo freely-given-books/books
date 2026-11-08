@@ -1,6 +1,11 @@
 == Chapter XI
 
-#align(center)[Concerning Effectual Calling.]
+#align(center)[#block(width: 85%)[
+  #set par(justify: false)
+  #strong[Concerning Effectual Calling.]
+]]
+
+#v(0.9em)
 
 #smallcaps[The] second Qualification of the persons to whom this privilege in the Text belongs, is, They are #emph[the called of God:] All things shall work for good τοῖς κλητοῖς, #emph[to them who are called.] Though this word \[#emph[called]\] be placed in #emph[order] after loving of God, yet in #emph[nature] it goes before it: Love is first #emph[named,] but not first #emph[wrought]\; we must be #emph[called] of God, before we can #emph[love] God.
 
