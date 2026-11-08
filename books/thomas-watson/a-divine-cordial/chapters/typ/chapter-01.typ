@@ -1,0 +1,26 @@
+== Chapter I
+
+#align(center)[CHAP. I. The Proaemium, or Introduction.]
+
+#align(center)[
+  #block(width: 85%, breakable: false)[
+    #set par(justify: false)
+    #text(style: "italic")[#emph[ROM. 8.28.] We know that all things work together for good, to them that love God, to them who are the called according to his purpose.]
+  ]
+]
+
+#v(0.8em)
+
+#smallcaps[If] the whole Scripture be the feast of the soul (as St #emph[Ambrose] saith) then this Chapter may be a dish at this feast, which with its sweet variety may very much refresh and animate the hearts of Gods People. In the preceding verses the Apostle had been wading through the great Doctrines of Justification and Adoption; Mysteries so arduous and profound, that without the help and conduct of the Spirit, he might soon have waded beyond his depth. In this verse the Apostle toucheth upon that pleasant string of Consolation; #emph[We know that all things work together for good, to them that love God.] Not a word but is weighty▪ therefore I shall gather up every filing of this Gold, that nothing be lost.
+
+In the Text there are three general Branches. 1. A glorious Priviledge, #emph[All things work for good.] 2. The Persons interested in this Priviledge; and they are doubly specified. 1. They are #emph[Lovers of God.] 2. They are #emph[Called.] 3. The Original and Spring of this effectual calling, set down in these works, 〈 in non-Latin alphabet 〉, #emph[according to his purpose.] Of all these in order; and I begin with the first.
+
+1\. The glorious Priviledge; wherein there are two things considerable: 1. The certainty of the Priviledge, 〈 in non-Latin alphabet 〉, #emph[We know.] 2. The excellency of the Priviledge, 〈 in non-Latin alphabet 〉, #emph[All things work together for good.]
+
+1\. The #emph[certainty] of the Priviledge: #emph[We know.] It is not a matter pendulous or doubtful; the Apostle doth not say▪ We hope, or conjecture, but it is like an Article in our Creed, #emph[We know all things work for good:]
+
+Whence observe, #emph[That the Truths of the Gospel,] #footnote[#emph[Doct.]] #emph[are evident and infallible.]
+
+A Christian may come not only to a loose opinion, but to a certainty of what he holds. As the Axioms in Logick, and Aphorisms in Physick, are demonstrated to Reason; so the Truths in Religion are demonstrated to Faith▪ #emph[We know,] saith the Apostle. Though a Christian hath no• a perfect knowledge of the Mysteries of the Gospel, yet he hath a certain knowledge. #emph[We see through a glass darkly] #footnote[〈 in non-Latin alphabet 〉.], 1 Cor. 13.12. Therefore we have not perfection of knowledge; but #emph[we behold with open face] #footnote[〈 in non-Latin alphabet 〉.], 2 #emph[Cor.] 3.18. Therefore we have a certainty. The Spirit of God doth imprint Heavenly Truths upon the heart, as with the point of a Diamond. A Christian may know infallibly there is an evil in sin, a beauty in holiness: He may know that he is in the state of Grace, 1 #emph[John] 3.14. #emph[We know that we have passed from death to life.] He may know that he shall go to Heaven, 2 #emph[Cor.] 5.1. #emph[We know that if our earthly Tabernacle were dissolved, we have a building of God, an house made without hands, eternal in the Heavens.] The Lord doth not leave his People at uncertainties in matters of Salvation. The Apostle comes with his #emph[Probatum est,] in the Text, #emph[We know]\; we have arrived at a 〈 in non-Latin alphabet 〉, or holy confidence; we have both the Spirit of God and our own experience setting seal to it.
+
+Let us not rest in Scepticisme,#footnote[#emph[Vse.]] but labour to come to a certainty in the things of Religion. As that Martyr woman said, #emph[I cannot dispute for Christ, but I can burn for Christ.] God knows whether we may not be called forth to be witnesses to his Truth; therefore it concerns us to be well-grounded, and confirmed in it. If we are doubtful Christians, we shall be wavering Christian▪ whence is apostacy, but from incredulity? \* Men first question •he •ruth, and then fall from the T•u•h. O beg the •pi•it of God, not only to #emph[anoint] you, but to #emph[seal] you, 2 #emph[Cor.] 1.22.
