@@ -14,5 +14,8 @@ Ps 25:10. #emph[All the paths of the Lord are mercy unto such as keep his Covena
 
 1\. What things are they which work for good to the Elect?
 
+#[
+#set enum(indent: 24pt)
 + The best things.
 + The worst things.#footnote[#emph[Answ.]]
+]

@@ -7,7 +7,7 @@
 | emendation | 186 |
 | spelling | 126 |
 | spacing | 10 |
-| list | 5 |
+| list | 10 |
 | gap | 3 |
 | skipped | 1 |
 

@@ -8,10 +8,13 @@
 
 1\. God's #emph[Power] works for good. It is a #emph[glorious] power, Col 1:11. And it is engaged for the good of the Elect. Out of this #emph[strong] comes forth #emph[sweetness] #footnote[Judge 14:14.]. The #emph[Power] of God works for good four ways.
 
+#[
+#set enum(indent: 24pt)
 + In supporting us in misery.
 + In supplying our wants.
 + In subduing our corruptions.
 + In conquering our enemies.
+]
 
 God's Power works for good,
 

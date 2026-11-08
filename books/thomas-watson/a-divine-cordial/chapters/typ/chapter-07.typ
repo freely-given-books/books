@@ -6,11 +6,14 @@
 
 1\. They are #emph[Lovers] of God: #emph[All things work together for good, τοῖς ἀγαπῶσι τὸν θεὸν, to them that love God.] Despisers and Haters of God, have no #emph[lot] or #emph[part] in this privilege, it is #emph[children's bread,] it belongs only to them that #emph[love God.] Because love is the very heart and spirit of Religion, I shall the more expatiate upon this; and for the further discussion of it, I shall clear these five things.
 
+#[
+#set enum(indent: 24pt)
 + The Nature of love to God.
 + The Ground of love to God.
 + The Kinds of love to God.
 + The Properties of love to God.
 + The Degree of love to God.
+]
 
 1\. The #emph[Nature] of divine love. Love is an expansion of soul, or the inflaming of the affections, whereby a Christian breaths after God as the supreme and sovereign good. St #emph[Austin] in his second Tome, calls love #emph[Pondus anima]: Love is to the soul as the weights to the Clock, it sets the soul a going towards God; it is the wing by which we fly to Heaven; by love we cleave to God, as the Needle to the Load-stone.
 

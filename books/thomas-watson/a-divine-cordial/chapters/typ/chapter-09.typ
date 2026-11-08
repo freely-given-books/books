@@ -52,8 +52,11 @@ If this be to love God, when we love his Image sparkling in the Saints, Oh then,
 
 11\. The eleventh Fruit of love is #emph[Obedience,] John 14:21. #emph[He that hath my Commandments, and keepeth them,] #footnote[11 #emph[Fruit.]] #emph[he it is that loveth me.—Pater adsum, impera quid vis]—#footnote[#emph[Plaut.]]. 'Tis a vain thing to say we love Christ's person, if we slight his Commands. Doth that Child love his Father, who refuseth to obey him #footnote[#emph[Amore Deum. & obedire, duae sunt alae, quibus evoles ad coelos, transveharis ad sanctos, inseraris inter Angelos.] Austin. de vis. infi.]? If we love God, we will obey him in those things which cross flesh and blood:
 
+#[
+#set enum(indent: 24pt)
 + In things difficult.
 + In things dangerous.
+]
 
 1\. In #emph[things difficult.] As 1. In mortifying sin. There are some sins which are not only near to us as the garment, but dear to us as the eye; if we love God, we will set our selves against these, both in purpose and practise. 2. In forgiving our enemies. God commands us upon pain of death to forgive, Eph 4:32. #emph[Forgiving one another] #footnote[πρὸς τὸν ἐχθρὸν μηδέποτε ἀπεχθῶς ἔχε.]. This is hard, 'tis crossing the stream; we are apt to forget kindnesses, and remember injuries; but if we love God, we will pass by offences. When we seriously consider how many Talents God hath forgiven us, how many affronts and indignations he hath put up at our hands, this makes us write after his Copy, and endeavour rather to bury an injury, than retaliate it.
 

@@ -46,9 +46,12 @@ God would have the world hang as a loose Tooth, which being twitched away, doth 
 
 2\. #smallcaps[The] evil of Temptation works for good. Satan is called ὁ πειράζων, the #emph[Tempter,] Mark 4:3. He is ever lying in ambush, #emph[stat in procinctu Diabolus]\; he is continually at work with one Saint or other #footnote[ὁ διάβολος ἐπιθηρᾶται πλέον, ὅταν ἴδῃ τὰ φορτία τῆς ἀρετῆς συγκείμενα, καὶ πολὺν τὸν ὄγκον. #emph[Chrysost.]]. The Devil hath his Circuit, or Diocese, that he walks every day; he is not yet fully cast into prison, but like a prisoner that goes under Bail, he #emph[walks about] to tempt the Saints. This is a great molestation to a child of God; as it is a trouble to a Virgin to have her chastity daily assaulted. Now concerning Satan's Temptations, there are three things to be considered:
 
+#[
+#set enum(indent: 24pt)
 + His Method in tempting.
 + The Extent of his Power.
 + That these Temptations work for good.
+]
 
 1\. Satan's Method in tempting: Here, take notice of two things. 1. His #emph[Violence] in tempting, and so he is the #emph[Red Dragon:] He labours to storm the Castle of the heart, he throws in thoughts of blasphemy, he tempts to deny God; these are the #emph[fiery Darts] he shoots, whereby he would inflame the passions.
 
