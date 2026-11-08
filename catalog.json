@@ -1,6 +1,6 @@
 {
-  "release": "2026.11.05",
-  "colophon": "0.39.0",
+  "release": "2026.11.08",
+  "colophon": "0.41.0",
   "books": [
     {
       "book": "1689-baptist-confession/1689-baptist-confession",
@@ -51,12 +51,12 @@
         {
           "name": "1689-baptist-confession-v1.pdf",
           "bytes": 1323416,
-          "sha256": "664567e368e3305a2f44be15282c551abe3c48a350abc87e8d0c26250a4f8856"
+          "sha256": "279d83f0e83bca6879d74dc32ee815223f68140b14c378f5b754b9eccb12b40e"
         },
         {
           "name": "1689-baptist-confession-v1-cover.pdf",
           "bytes": 108373,
-          "sha256": "f680680f9d3a1593505fa898a0b849177913d673b8df90762f4c17eebe87c28b"
+          "sha256": "a13b87bf020c110fd386751be8b7dc358715bc09db7f79030d12973cd4a5db41"
         },
         {
           "name": "1689-baptist-confession-v1-cover-front.png",
@@ -70,13 +70,13 @@
         },
         {
           "name": "1689-baptist-confession-v1.epub",
-          "bytes": 422562,
-          "sha256": "ec1db4e4cc73248ea0f49ea2eb8ac5b0274e7e2ecbcc270e18f1371415e7893e"
+          "bytes": 422703,
+          "sha256": "6fdd7b59505ed7ec5a86c9682cd7cb28c52d26f516bf9221cc3eb3d2ad999068"
         },
         {
           "name": "1689-baptist-confession-v1-reader.html",
-          "bytes": 874228,
-          "sha256": "2c35fa4d4378f8941f13760e54b9e1bbeed23c5aa60cd8c89be72aaad58e4ecf"
+          "bytes": 874707,
+          "sha256": "d98ff6d62f096ba40889d85cd9b4de15bdc68346f5f2caeaf25ca3e8727e4708"
         },
         {
           "name": "1689-baptist-confession-v1-compare.html",
@@ -134,12 +134,12 @@
         {
           "name": "the-anatomy-of-simon-magus-v7.pdf",
           "bytes": 1065677,
-          "sha256": "7b996a8b13f8f8bd4f6968cd89b5f94f21b540a53f5969123d971c84cbb4c80d"
+          "sha256": "6be7aaa849d9c0c55cbed687168f909e4b7e5d830eba03c0067313c11c7cb833"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-cover.pdf",
           "bytes": 5753650,
-          "sha256": "57ee6f38a04ef37b3a216fb15b75ccb1ffde76eabcb181cddc1f302ea2ec60d8"
+          "sha256": "e44486606d8ab8923a3ab2d85a3a1e673439a9f22868079dc34a0debb47c3898"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-cover-front.png",
@@ -153,13 +153,13 @@
         },
         {
           "name": "the-anatomy-of-simon-magus-v7.epub",
-          "bytes": 2729619,
-          "sha256": "970ec53c7068fb67e186ff5d8962d4781db963921b2406bc81c2b4834a070a07"
+          "bytes": 2729761,
+          "sha256": "e881d906144c63e5960fc5d0e1087baac63fdbcee09bf7c31d75c29d01e11ba9"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-reader.html",
-          "bytes": 3762008,
-          "sha256": "2363731f8db52da163a3f21dc30e079b685ac3579d5b4fab7135e468bf0e668f"
+          "bytes": 3762487,
+          "sha256": "d18eee23dac0294db107e7e43943fbcf16eaa301e10c16c61557b25f5c124bf8"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-compare.html",
@@ -230,12 +230,12 @@
         {
           "name": "all-of-grace-v16.pdf",
           "bytes": 754017,
-          "sha256": "ef206939bb885316fc3a95851ac7c9203e9503aa5b4c767f17be4b74de506276"
+          "sha256": "6dcdd7b4bc5ecd28579b756d7904c871ce1f4f8ac18eec7878bb387956dea326"
         },
         {
           "name": "all-of-grace-v16-cover.pdf",
           "bytes": 2683075,
-          "sha256": "f255a385947bcd9d311c7d654b2e1008c108bf5d0d88737fca56db63f53be71a"
+          "sha256": "c509f2ec45353e35aaaf3f9327743294f6d90910003b9c6d9b7b07dd7047ebe3"
         },
         {
           "name": "all-of-grace-v16-cover-front.png",
@@ -249,13 +249,13 @@
         },
         {
           "name": "all-of-grace-v16.epub",
-          "bytes": 1419366,
-          "sha256": "bcfa8b2efbbeca67b35d3714223036d6b42467327f5181f625b9d609a5d0deaa"
+          "bytes": 1419509,
+          "sha256": "362c39198579d636c85d86565d014c9423b7994c79d5d15ec79628609a9064ce"
         },
         {
           "name": "all-of-grace-v16-reader.html",
-          "bytes": 1982702,
-          "sha256": "199973f62caaa9b95ed591655969e84b0c58ee0333933a72f09ea6763196dce6"
+          "bytes": 1983181,
+          "sha256": "3e40c048ef597a44d398ac74e275af988d1e94ca12dff2689c4af2a56c7f8750"
         },
         {
           "name": "all-of-grace-v16-compare.html",
@@ -340,12 +340,12 @@
         {
           "name": "grace-abounding-v2.pdf",
           "bytes": 900769,
-          "sha256": "dc25b66f645abd4b065bd34304c6938d6f4ad1433de65e9373bb5a07aabb9761"
+          "sha256": "beb32cd222c6fd476d7f7df13e9e12d14529dfb4e56eec3890c6986d17d2ba81"
         },
         {
           "name": "grace-abounding-v2-cover.pdf",
           "bytes": 1890042,
-          "sha256": "d62ef2b1f68ac0481467f696061478e40774414af2d2f338f25089f4087ac6c5"
+          "sha256": "0d683966b26d34a74fbfda1eea20666efed4821c2e554869bd55e527e7fd7f3c"
         },
         {
           "name": "grace-abounding-v2-cover-front.png",
@@ -359,13 +359,13 @@
         },
         {
           "name": "grace-abounding-v2.epub",
-          "bytes": 2094735,
-          "sha256": "f9e7e6c11ca8619d7a8e2f1c3b4351c7d462b4ba87c52b965393dd6a35b2f962"
+          "bytes": 2094878,
+          "sha256": "9030e1882f381e926fa1e0ce9f4d4dd432b6d6880939bc85e4f240b831d45184"
         },
         {
           "name": "grace-abounding-v2-reader.html",
-          "bytes": 2925855,
-          "sha256": "2ab7039d735eeb74e27150b6af2a7724b71df79e28e43bd679d3bff688022109"
+          "bytes": 2926334,
+          "sha256": "4017bb4fea1710902afeb03f81006f153f49678adaba3b77776e52997c3c93c7"
         },
         {
           "name": "grace-abounding-v2-compare.html",
@@ -438,12 +438,12 @@
         {
           "name": "the-pilgrims-progress-v14.pdf",
           "bytes": 1766072,
-          "sha256": "5c465c313365cd4614e661036e53aaaeb20063019dcfa2a8a94c1b723538efd0"
+          "sha256": "f54c8ce3d7cca0e7fedbe0acaff2394bc725981911622305765cb9df95b8f4c8"
         },
         {
           "name": "the-pilgrims-progress-v14-cover.pdf",
           "bytes": 2098832,
-          "sha256": "cd4a64b692be3351811a2f4ad57f8119726990e9fd1f985539c7caf92e7c47d5"
+          "sha256": "f2382515744d82a032895622a8ac0ce2be35369ff795d23802194a3314b709ec"
         },
         {
           "name": "the-pilgrims-progress-v14-cover-front.png",
@@ -457,13 +457,13 @@
         },
         {
           "name": "the-pilgrims-progress-v14.epub",
-          "bytes": 2267639,
-          "sha256": "7c072ffda84e31bc0ac0e16319f8e91f4ca3800c2f76fa56e9b6e69b9148bf45"
+          "bytes": 2267781,
+          "sha256": "8615adbd29f3a7f31bf66ba2f06fa9ffedb421b772d340dac7109ecbdee9b949"
         },
         {
           "name": "the-pilgrims-progress-v14-reader.html",
-          "bytes": 3367898,
-          "sha256": "978ba5a63903c3f912bfe8ddbd8e207b253c78b5dcbfd9e23ea385e90d742fe6"
+          "bytes": 3368377,
+          "sha256": "161910ba290f2764b3dc3238d5115882f9f2c03e7f11011460254a56530a064d"
         },
         {
           "name": "the-pilgrims-progress-v14-compare.html",
@@ -477,14 +477,14 @@
       "folder": "of-temptation",
       "title": "Of Temptation",
       "author": "John Owen",
-      "version": "v1",
+      "version": "v1.1",
       "summary": "Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.",
       "signed_off": {
-        "tag": "john-owen/of-temptation/v1",
-        "commit": "818645bb805909a0ba15270b9f9e1b857842ce99",
-        "date": "2026-11-05",
+        "tag": "john-owen/of-temptation/v1.1",
+        "commit": "f2406a95d74e09b794e2ad9d5e385dee8e90dbef",
+        "date": "2026-11-08",
         "signer": "Courtney",
-        "note": "",
+        "note": "Print: the same as v1, page for page (Lulu revision 1).",
         "signature_verified": true
       },
       "carried": false,
@@ -514,12 +514,12 @@
         }
       ],
       "coverage": {
-        "words": 33129,
+        "words": 33135,
         "form": 7926,
         "grammar": 71,
-        "wording": 1040,
+        "wording": 1046,
         "added": 176,
-        "removed": 332,
+        "removed": 338,
         "by_editor": 6009,
         "by_machine": 5235,
         "gaps": 10,
@@ -530,18 +530,23 @@
         "unchanged": 72.7,
         "form_pct": 23.9,
         "grammar_pct": 0.2,
-        "wording_pct": 3.1
+        "wording_pct": 3.2
       },
       "files": [
         {
+          "name": "of-temptation-v1.1.epub",
+          "bytes": 358542,
+          "sha256": "41041c0099037d1a557564f65d75ea283f117b320d9f06d4534a32360cb78125"
+        },
+        {
           "name": "of-temptation-v1.pdf",
           "bytes": 765568,
-          "sha256": "40416b2042e6e2c55463bf5b574661ce0327a86b554936613f11795c38778ebe"
+          "sha256": "8bcd3a79e6de6ec5f1ced757cb73f3e2a4a89f340fa9066173f4f4218c686fd0"
         },
         {
           "name": "of-temptation-v1-cover.pdf",
           "bytes": 97837,
-          "sha256": "24521bd3f0d1471afbae9e70d82fa1b46161a0fa34ec526378e5fed05225196e"
+          "sha256": "6f52e69e74759cb7ab494e9231349054de0eebf25670395a25e6c6f2a1fc733d"
         },
         {
           "name": "of-temptation-v1-cover-front.png",
@@ -549,24 +554,14 @@
           "sha256": "4a7a640e85ede9e86807cae0a6ab08cad09192a7a32047bf8c137286b3abab54"
         },
         {
-          "name": "of-temptation-v1-cover-front.png",
-          "bytes": 79367,
-          "sha256": "4a7a640e85ede9e86807cae0a6ab08cad09192a7a32047bf8c137286b3abab54"
+          "name": "of-temptation-v1.1-reader.html",
+          "bytes": 584379,
+          "sha256": "38101fb442735b4dd53247cd89913aaff108bc37148719389ad87a25ced396dc"
         },
         {
-          "name": "of-temptation-v1.epub",
-          "bytes": 358400,
-          "sha256": "f49de7216f2b5e818a7a81c10d09b07f181ad39f2a754db1dd19ffb813a77533"
-        },
-        {
-          "name": "of-temptation-v1-reader.html",
-          "bytes": 583896,
-          "sha256": "16a9646bc588700dbbd96a380d763183769650d4310ef14436df9ff36971c3e1"
-        },
-        {
-          "name": "of-temptation-v1-compare.html",
-          "bytes": 3194227,
-          "sha256": "24c123f7500ace1e6b4d3c5446d8cfcce70fb590b7e181552b93c187344adc38"
+          "name": "of-temptation-v1.1-compare.html",
+          "bytes": 3194689,
+          "sha256": "70fc2ed5da61e766019eb4feff558c74c6496267c4ebb1aa4a841c8d1f4886ec"
         }
       ]
     },
@@ -628,12 +623,12 @@
         {
           "name": "the-death-of-death-v1.pdf",
           "bytes": 2601617,
-          "sha256": "a533d087284f69bcd825edfd19c4757016e0799d46f0d4065edfaf76fe4c4e36"
+          "sha256": "705089c80c004ef10b10f13a0cc6021198f9cb17ad2146cec4b62053fe9850cb"
         },
         {
           "name": "the-death-of-death-v1-cover.pdf",
           "bytes": 125553,
-          "sha256": "35355a87f882ed19bd623c17ef4efdb2b8296e62cb68dc63d7dd25b0174e9eeb"
+          "sha256": "5b1d302375d176b8b60e843e32265353334b2fad7b8cb0810c4d2476daab4083"
         },
         {
           "name": "the-death-of-death-v1-cover-front.png",
@@ -647,13 +642,13 @@
         },
         {
           "name": "the-death-of-death-v1.epub",
-          "bytes": 636199,
-          "sha256": "a5423edd030774a66210c05359781bc4c616c6250db53c174664f50b8baa592d"
+          "bytes": 636341,
+          "sha256": "a1fd93cae19e80c2ec7e725930ddcca44f34d9e98bbe2ec241679a748102618f"
         },
         {
           "name": "the-death-of-death-v1-reader.html",
-          "bytes": 1305204,
-          "sha256": "077df52c65c4bf66b3d649f894e454bb791571288f5e5978082d21534510c5d4"
+          "bytes": 1305683,
+          "sha256": "43b42b480b34eabbcfa1c27cdfc2e30991a9e9da3a67fc1ec7120bdce8ff688f"
         },
         {
           "name": "the-death-of-death-v1-compare.html",
@@ -726,12 +721,12 @@
         {
           "name": "the-mortification-of-sin-v1.pdf",
           "bytes": 1005313,
-          "sha256": "6f3123af82d5df746dc6a998ea76c5b0ca8aa89492d0f2310233adc6e28101ed"
+          "sha256": "c706feb83c8c2112a571ed8afdcc9dfe0d96cd995c21113bb2dccc2a5e66bc38"
         },
         {
           "name": "the-mortification-of-sin-v1-cover.pdf",
           "bytes": 126657,
-          "sha256": "23c83dd08354dbf22df308ee9681b69561d62ddfcc00ce44985b7c2224ef2309"
+          "sha256": "306d6519d24de4807fa76be92ecb71b58d5284518565a506cce8b79b775207a1"
         },
         {
           "name": "the-mortification-of-sin-v1-cover-front.png",
@@ -745,13 +740,13 @@
         },
         {
           "name": "the-mortification-of-sin-v1.epub",
-          "bytes": 389352,
-          "sha256": "423aa2465fcf06b8a5126d914a10bf207d5b2db9f1c3929ff9fb8e6b7a9d1cef"
+          "bytes": 389495,
+          "sha256": "c8dfa70435314b5f9b9ec48b47903bdc80763dab35e5783663f905e1b98f27c7"
         },
         {
           "name": "the-mortification-of-sin-v1-reader.html",
-          "bytes": 653924,
-          "sha256": "fe6f1c95846fce80bee2740c45d1259222c56ba8b81afed88e5af0247ccf0d74"
+          "bytes": 654403,
+          "sha256": "f1f24507097d6f3af0412dc2efcd9c074d95b96963cbc102c11692668229a46e"
         },
         {
           "name": "the-mortification-of-sin-v1-compare.html",
@@ -814,12 +809,12 @@
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9.pdf",
           "bytes": 394506,
-          "sha256": "4e1eba5b82c22087b8d46e1a11197a10169452b5a047aa1661d139c7a3ad6b38"
+          "sha256": "4127acb59d699ba4fa67031d07743572b069a520bc627232ae41970d38b365d3"
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9-cover.pdf",
           "bytes": 103491,
-          "sha256": "ef471f01de208a7cf766c6cc69a0c616a5d201a39e6968e934defce4c7db2869"
+          "sha256": "f4e067b7d712146f1c38bc8125a35ea8e4e468a18efcc81b3e7d326e0e7f771d"
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9-cover-front.png",
@@ -833,13 +828,13 @@
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9.epub",
-          "bytes": 289006,
-          "sha256": "3f8925eab1b869bdca7b695ce50fa482355691ba958b994aeaee66b5194e2280"
+          "bytes": 289149,
+          "sha256": "4c8d7e8dd91b62981971d1d93310fd6e1337786f24341ae48aa4a30a2ec0a5d3"
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9-reader.html",
-          "bytes": 424832,
-          "sha256": "7773be8548b30c02735bd9821756a1809748731e0f537b7efc2d94f9622b4590"
+          "bytes": 425311,
+          "sha256": "6d5bb296a02645f630e15b33097100f150881260f070fc61ad277dbc82150480"
         },
         {
           "name": "sinners-in-the-hands-of-an-angry-god-v9-compare.html",
@@ -906,12 +901,12 @@
         {
           "name": "the-glorious-feast-of-the-gospel-v14.pdf",
           "bytes": 947927,
-          "sha256": "85c0a9291dd640c02d2bd580417b45d7768650ad4eec44dd076248236319aaf4"
+          "sha256": "1245aad4cf47b99b1352ef4db314168d0cae38c7711b3a1ddaa1e44a5e750df4"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v14-cover.pdf",
           "bytes": 132101,
-          "sha256": "cf0aef66f4beb7b3b35516fda51ec333bf1e5d7ca81c8405d0cb5b76f3ecc28b"
+          "sha256": "d3d12c05b08af7bb4e5e877b2afda41d5b8950e33b943f6763b6ab55395da138"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v14-cover-front.png",
@@ -925,13 +920,13 @@
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v14.epub",
-          "bytes": 493165,
-          "sha256": "6160442144885d942ad362d91e0e40a313a4639800a76c70f5d1b020da43cc0a"
+          "bytes": 493307,
+          "sha256": "538be8c289ce3e39812b693839f32a827baa329ed8d32139d1d8c07d2fce7df9"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v14-reader.html",
-          "bytes": 817576,
-          "sha256": "18cc0aae1e0ae3a98ccc97501291fe7d8df63f7301d8e2f95370e112562c83fa"
+          "bytes": 818055,
+          "sha256": "19574b7629184504765f08d20842f8e5ddde1bd9e62193f392b07944d3159b2c"
         },
         {
           "name": "the-glorious-feast-of-the-gospel-v14-compare.html",
@@ -1008,12 +1003,12 @@
         {
           "name": "the-crook-in-the-lot-v1.pdf",
           "bytes": 945424,
-          "sha256": "82b94d3ada7357d47711cb193c59687f443be7476cfe2f6955c8da79a88e353a"
+          "sha256": "27588cec9ad5d7ad9eb8278db569d3a961881335e0b09214afaf938f592f5e6c"
         },
         {
           "name": "the-crook-in-the-lot-v1-cover.pdf",
           "bytes": 1587646,
-          "sha256": "9ac9549908f1ac7e02c988a28b1b73c0ac14368e28fd70c26bd4f04f20b2093a"
+          "sha256": "7dad9d37ee2e2d7612a77f62033f913aefc8591714096938b63d736ee25b0e73"
         },
         {
           "name": "the-crook-in-the-lot-v1-cover-front.png",
@@ -1027,13 +1022,13 @@
         },
         {
           "name": "the-crook-in-the-lot-v1.epub",
-          "bytes": 1633661,
-          "sha256": "fc7d97c0f41cc2efe2209274004aeba3249f224a555554bbfee029225a187521"
+          "bytes": 1633802,
+          "sha256": "48ee34a050e8e5f21cc35b3b264c06fd0805c422102807dc70a5bc50092b3f80"
         },
         {
           "name": "the-crook-in-the-lot-v1-reader.html",
-          "bytes": 2325885,
-          "sha256": "fc5388fdc53285e9c37aefe8736b53a99d4053894f77aa5f0d171c60b2b0d31f"
+          "bytes": 2326364,
+          "sha256": "9c634937d4c298e11512bda0cd32bd92261ee8f5b204162383cd55465175cff2"
         },
         {
           "name": "the-crook-in-the-lot-v1-compare.html",
@@ -1108,12 +1103,12 @@
         {
           "name": "precious-remedies-against-satans-devices-v2.pdf",
           "bytes": 3281328,
-          "sha256": "785a0354364a7860f784badaab1bc616a70724b76a139ba375abc32515e4b690"
+          "sha256": "2551a25012232e88c203573ba4b82925c1d11cf80466849b1c1a0b7edaef0094"
         },
         {
           "name": "precious-remedies-against-satans-devices-v2-cover.pdf",
           "bytes": 1345465,
-          "sha256": "3d2941ca3454d9b5c897b72cd967c63ee0206726ac7d35a7c998b22831d8575f"
+          "sha256": "d339e19e6afd4a25bc132c65f9c23aba1246b30d927e16b3952c206ce7ab6f80"
         },
         {
           "name": "precious-remedies-against-satans-devices-v2-cover-front.png",
@@ -1127,13 +1122,13 @@
         },
         {
           "name": "precious-remedies-against-satans-devices-v2.epub",
-          "bytes": 859430,
-          "sha256": "3ef7a6a584aef7fbd6f8289cd442e6c1b1f388378b13e64ebb328d076549a79a"
+          "bytes": 859572,
+          "sha256": "6dc8e3f745eee3c83d7a1e280a2129890c3267cf02453ba2ffd2645656ffa537"
         },
         {
           "name": "precious-remedies-against-satans-devices-v2-reader.html",
-          "bytes": 1530554,
-          "sha256": "cac7f83b4876e645b2fb2d975d80b7bc48224f72d2daf0c6b823bf1b5dbb8d3c"
+          "bytes": 1531033,
+          "sha256": "3f46d1f2ea9101de3c8ad31913af72cf44fe8b2f7f04f9b4f0c3be2257629919"
         },
         {
           "name": "precious-remedies-against-satans-devices-v2-compare.html",
@@ -1147,14 +1142,14 @@
       "folder": "the-secret-key-of-heaven",
       "title": "The Secret Key of Heaven",
       "author": "Thomas Brooks",
-      "version": "v7",
+      "version": "v7.1",
       "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
       "signed_off": {
-        "tag": "thomas-brooks/the-secret-key-of-heaven/v7",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "thomas-brooks/the-secret-key-of-heaven/v7.1",
+        "commit": "f2406a95d74e09b794e2ad9d5e385dee8e90dbef",
+        "date": "2026-11-08",
         "signer": "Courtney",
-        "note": "",
+        "note": "Print: the same as v7, page for page (Lulu revision 7).",
         "signature_verified": true
       },
       "carried": false,
@@ -1182,34 +1177,39 @@
         }
       ],
       "coverage": {
-        "words": 102961,
+        "words": 102975,
         "form": 20937,
         "grammar": 76,
-        "wording": 4573,
-        "added": 2525,
-        "removed": 2026,
-        "by_editor": 16575,
+        "wording": 4570,
+        "added": 2523,
+        "removed": 2027,
+        "by_editor": 16576,
         "by_machine": 13246,
         "gaps": 72,
-        "restored": 61,
-        "open": 11,
+        "restored": 66,
+        "open": 6,
         "notes_added": 0,
         "notes_dropped": 403,
-        "unchanged": 75.1,
+        "unchanged": 75.2,
         "form_pct": 20.3,
         "grammar_pct": 0.1,
         "wording_pct": 4.4
       },
       "files": [
         {
+          "name": "the-secret-key-of-heaven-v7.1.epub",
+          "bytes": 454548,
+          "sha256": "e61c4941457b7672fcbfac3f5c8507afb2a6cddc720da5209dab097f23d61f90"
+        },
+        {
           "name": "the-secret-key-of-heaven-v7.pdf",
           "bytes": 1504977,
-          "sha256": "4406c19be88275f28c41851b4253bfa9311bd84a0448af6dd16634959f236775"
+          "sha256": "b2382b39f4e19a178081735d72922d6c5502f12f09f1d7b8061c1d61fe3e7194"
         },
         {
           "name": "the-secret-key-of-heaven-v7-cover.pdf",
           "bytes": 123946,
-          "sha256": "a867ead1722fe6ee220718c49e75f8a3717f2b07a78036c6307c7c3658ee9ea7"
+          "sha256": "2aec803210119db93e42733eaacb1ccc394196d819268d11c3543d865a516836"
         },
         {
           "name": "the-secret-key-of-heaven-v7-cover-front.png",
@@ -1217,24 +1217,118 @@
           "sha256": "962c563355db03ae109b7e8dd9b57ba63e8241b7d2b7ae53b6dfae4b299f9394"
         },
         {
-          "name": "the-secret-key-of-heaven-v7-cover-front.png",
-          "bytes": 62114,
-          "sha256": "962c563355db03ae109b7e8dd9b57ba63e8241b7d2b7ae53b6dfae4b299f9394"
+          "name": "the-secret-key-of-heaven-v7.1-reader.html",
+          "bytes": 851432,
+          "sha256": "0c4a2f9f823288057f128ad91402addd47e5715c3f46c7e4557f363394f0a0c8"
         },
         {
-          "name": "the-secret-key-of-heaven-v7.epub",
-          "bytes": 454404,
-          "sha256": "20c4d2c81edcbbc8cec77bf43dc0bf4edb8b9e8b168d744153e44274e8e419df"
+          "name": "the-secret-key-of-heaven-v7.1-compare.html",
+          "bytes": 7558699,
+          "sha256": "8c8c3f8e23edf985ed5d8b81a6c25f7c195f809e95b85e13dca3fbd4568f793d"
+        }
+      ]
+    },
+    {
+      "book": "thomas-watson/a-divine-cordial",
+      "folder": "a-divine-cordial",
+      "title": "A Divine Cordial",
+      "author": "Thomas Watson",
+      "version": "v1",
+      "summary": "Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost.",
+      "signed_off": {
+        "tag": "thomas-watson/a-divine-cordial/v1",
+        "commit": "5d034f2dcbe40a38254d8025ea136424b6559ab1",
+        "date": "2026-11-08",
+        "signer": "Courtney",
+        "note": "",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [
+        {
+          "file": "source/A65292.tcp.xml",
+          "description": "EEBO-TCP A65292: A Divine Cordial, or, The Transcendent Priviledge of Those That Love God and Are Savingly Called (London, for Thomas Parkhurst, 1663)",
+          "url": "https://github.com/textcreationpartnership/A65292",
+          "sha256": "b696a71fc48ffedfae7a98745cc2552687ab1b50f28800718819714c4c6fd9e5"
         },
         {
-          "name": "the-secret-key-of-heaven-v7-reader.html",
-          "bytes": 850949,
-          "sha256": "837de74d5ecc3a4e690a70a45fe288227b573b164f5f2cc955b40aa820305a95"
+          "file": "source/A65292.supplied.xml",
+          "description": "Corrections to the TCP transcription from the 1663 page images (\"out\" for \"our\", \"dejected\", Latin misprints in the TCP, among others)",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663",
+          "sha256": "658278afc8387c8e7364fa7c302f3513f4d5d9a55fbb9cc974dc0e5a6b0a7981"
         },
         {
-          "name": "the-secret-key-of-heaven-v7-compare.html",
-          "bytes": 7556837,
-          "sha256": "0904bac025dc2e5ab86ad1c03fd6ae1f67b678cf1913799f2ccc766b88ebefa2"
+          "file": "source/cordial.ccel.witness.xml",
+          "description": "CCEL's text of A Divine Cordial, a reworded later modernization, kept as a check only",
+          "url": "https://www.ccel.org/ccel/w/watson/cordial.xml",
+          "sha256": "7b27f46b7deee948ce6475e52beac31d120b4c11b8abf3159edab3ff346341df"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The 1663 printing, archive.org scan (the copy TCP was keyed from), local OCR (Kraken and Tesseract) collated with the TCP; gaps, Greek and Hebrew, and the proofread's questions read on its page images",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663"
+        },
+        {
+          "description": "The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161)",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678"
+        }
+      ],
+      "coverage": {
+        "words": 44881,
+        "form": 1542,
+        "grammar": 0,
+        "wording": 209,
+        "added": 13,
+        "removed": 165,
+        "by_editor": 995,
+        "by_machine": 1184,
+        "gaps": 561,
+        "restored": 561,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 20,
+        "unchanged": 96.1,
+        "form_pct": 3.4,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.5
+      },
+      "files": [
+        {
+          "name": "a-divine-cordial-v1.pdf",
+          "bytes": 1402485,
+          "sha256": "d5b90c3ac1a391b631244288fb6361195dbf204704717b7ace925a70956cdaec"
+        },
+        {
+          "name": "a-divine-cordial-v1-cover.pdf",
+          "bytes": 622940,
+          "sha256": "5209160055a0461b77c78e582d0171d43e257be6190813327cb7ea49aea56123"
+        },
+        {
+          "name": "a-divine-cordial-v1-cover-front.png",
+          "bytes": 540062,
+          "sha256": "6f49ead96c500f53365201c9f8998ea8956d25a15c33f26d3e451558e70da462"
+        },
+        {
+          "name": "a-divine-cordial-v1-cover-front.png",
+          "bytes": 540062,
+          "sha256": "6f49ead96c500f53365201c9f8998ea8956d25a15c33f26d3e451558e70da462"
+        },
+        {
+          "name": "a-divine-cordial-v1.epub",
+          "bytes": 867460,
+          "sha256": "b589d5ff6ef1b19aa5639e7a47beb88324306ee47e67d7b335701843801720ef"
+        },
+        {
+          "name": "a-divine-cordial-v1-reader.html",
+          "bytes": 1299298,
+          "sha256": "6f33041ddab29be84ecf4805f45abe48e9d595c3fae72d1e16e07a0786ba9f2c"
+        },
+        {
+          "name": "a-divine-cordial-v1-compare.html",
+          "bytes": 1319330,
+          "sha256": "dd4935750f5406ccbc972a9b1176b4e5adcfb9a6319697cda50ae85dcc818a74"
         }
       ]
     },
@@ -1310,42 +1404,42 @@
         {
           "name": "domestical-duties-v2-vol-1.pdf",
           "bytes": 3384878,
-          "sha256": "4746cbdcee9b7131f615884717a1415cadd228c474d188a2955e056043250e98"
+          "sha256": "8508dc8521b6eb4393b4c32e1c47cd3071034fb9f166935227b499785398c8e7"
         },
         {
           "name": "domestical-duties-v2-vol-2.pdf",
           "bytes": 4351982,
-          "sha256": "90cf0eea2d6f7b5cb2f76ea4d75c1a95051f1afc08c23a0844baf072e92a2388"
+          "sha256": "f930abe7d43ce4ec6a4946163a6bbbd87b3b09634a8222f9b8df4bf1d12b335e"
         },
         {
           "name": "domestical-duties-v2-vol-3.pdf",
           "bytes": 2973296,
-          "sha256": "cc8e1ba7e6172d0ae40f9b3cf388fe9a7fc35773438a2dead2a8fd27e29fff31"
+          "sha256": "29051186cf3ef5f82f741a64b3c64ec1dc428bd2bfb10e23d62633fd8f5d798e"
         },
         {
           "name": "domestical-duties-v2-vol-4.pdf",
           "bytes": 2360680,
-          "sha256": "1642c046d56c27091dc458d9bfb16d5b6f216812025dadb39e6dc0132a135d41"
+          "sha256": "e61eacf6cfba0d79d59f6ff1ea5276086092f59f3e25b421256d67021dfba9f8"
         },
         {
           "name": "domestical-duties-v2-cover-vol-1.pdf",
           "bytes": 138259,
-          "sha256": "4355adeb8260fb75c08d1cba3410058f807e1074d462cd25df8b53c60ac356d4"
+          "sha256": "5da56d49b1a3789385ed92807895ec5e6bdeb75a3aa47a5ceead11e88fa26482"
         },
         {
           "name": "domestical-duties-v2-cover-vol-2.pdf",
           "bytes": 136582,
-          "sha256": "1e076adcde4e3f3642e6e93f858b5dbbe883aa858613e2869d9ceaac0dc212da"
+          "sha256": "a224a86010e4448a31ff2e86c7147fc65a7422f848e5e87172759eb1473828de"
         },
         {
           "name": "domestical-duties-v2-cover-vol-3.pdf",
           "bytes": 136934,
-          "sha256": "641fe2982b86ccecb45d624388eb05db4b31ea06e7213b67c52d0c3cceae5b5f"
+          "sha256": "55ea7d6920e490c16c043e29a6928ac3644a332cad0b34412b2e1905b6d3f38f"
         },
         {
           "name": "domestical-duties-v2-cover-vol-4.pdf",
           "bytes": 138073,
-          "sha256": "d37508787c49dd4dcc1734e5b86884890a2c434524527cf35962e038ca9b8f26"
+          "sha256": "abbbce078789afad4af311176a49d785b8a900781f97988a1f70a5d4fe89d1dc"
         },
         {
           "name": "domestical-duties-v2-cover-vol-1-front.png",
@@ -1374,8 +1468,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-1.epub",
-          "bytes": 583100,
-          "sha256": "98e9c2e3ce249617328a4f2c7053b864aeb9cf529899619973c17883effa3c27"
+          "bytes": 583243,
+          "sha256": "23ec7821efe1ff7cc6346d91881dab3251f825a28cddf5d39bea3e143a37ef4d"
         },
         {
           "name": "domestical-duties-v2-cover-vol-2-front.png",
@@ -1384,8 +1478,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-2.epub",
-          "bytes": 679607,
-          "sha256": "783818d5a59ecb8d1cf93dc9bb418049fac0ab3ad698e6f5e43ca717fb4c4713"
+          "bytes": 679749,
+          "sha256": "b562c95b79336f245fb8b0e4a69606b0551c63c710d1e6ac49c3c8dbdf227880"
         },
         {
           "name": "domestical-duties-v2-cover-vol-3-front.png",
@@ -1394,8 +1488,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-3.epub",
-          "bytes": 574867,
-          "sha256": "bb7115683d58288633b0d204c4228d26b5a6a0949f5c8a8273f3cad2b4056bc0"
+          "bytes": 575009,
+          "sha256": "c2a850d925d0688132b2e70d7b3e5afe9b0b938b0e0a384e7e44594d83fcdcc5"
         },
         {
           "name": "domestical-duties-v2-cover-vol-4-front.png",
@@ -1404,13 +1498,13 @@
         },
         {
           "name": "domestical-duties-v2-vol-4.epub",
-          "bytes": 533346,
-          "sha256": "de06c84a1d5522ee9dc8e29aeb382d7e522489d6cda61d27adbb6a7381cc04e7"
+          "bytes": 533489,
+          "sha256": "9e5c1b525144e85fc1504e41ce59c74f75efda2e231b2618958bfdc94a389558"
         },
         {
           "name": "domestical-duties-v2-vol-1-reader.html",
-          "bytes": 1172963,
-          "sha256": "ca8e56d9b3adc8a41c11be212c12a2227886a84f21b8edb1621f8ada714635c8"
+          "bytes": 1173442,
+          "sha256": "4de77cb07a6196fe04181cc38f7d6c1c9450a52b00c9e183a6da061d65264cad"
         },
         {
           "name": "domestical-duties-v2-vol-1-compare.html",
@@ -1419,8 +1513,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-2-reader.html",
-          "bytes": 1447166,
-          "sha256": "8cee587e50a2fca46e292ded0eb6ce18b1a8269b7ae1f6f0cd401dc5690febe9"
+          "bytes": 1447645,
+          "sha256": "1e498be25b131a2ed1e9d8b3c5ff59eedbaba0b58541c239d92304c40f802ae0"
         },
         {
           "name": "domestical-duties-v2-vol-2-compare.html",
@@ -1429,8 +1523,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-3-reader.html",
-          "bytes": 1131935,
-          "sha256": "c75be82bff3b00b2fa2129e2306c130463ef018b8230e78d7d8254721d3df391"
+          "bytes": 1132414,
+          "sha256": "59a8e7e4c10775f6a171c9e2f07289c10fb7ce0c44a92e821311bc0836980e8c"
         },
         {
           "name": "domestical-duties-v2-vol-3-compare.html",
@@ -1439,8 +1533,8 @@
         },
         {
           "name": "domestical-duties-v2-vol-4-reader.html",
-          "bytes": 988399,
-          "sha256": "06b466ce50d7d360259fc89a1fb782b5832b3b6b447f4739cb9fc4505d16a5b8"
+          "bytes": 988878,
+          "sha256": "e9e22721ee62826fa09ae028040206baa46c94443dc5d9db9908b6377c98ecc6"
         },
         {
           "name": "domestical-duties-v2-vol-4-compare.html",
@@ -1454,14 +1548,14 @@
       "folder": "christian-economy",
       "title": "Christian Economy",
       "author": "William Perkins",
-      "version": "v3.1",
+      "version": "v3.2",
       "summary": "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images.",
       "signed_off": {
-        "tag": "william-perkins/christian-economy/v3.1",
-        "commit": "818645bb805909a0ba15270b9f9e1b857842ce99",
-        "date": "2026-11-05",
+        "tag": "william-perkins/christian-economy/v3.2",
+        "commit": "f2406a95d74e09b794e2ad9d5e385dee8e90dbef",
+        "date": "2026-11-08",
         "signer": "Courtney",
-        "note": "Print: changed since v3 (christian-economy.pdf: 5 page(s) differ: 19, 38, 47, 48, 68); not a Lulu revision.",
+        "note": "Print: changed since v3.1 (christian-economy.pdf: 67 page(s) differ: 7, 9, 10, 11, 12, 13, 18, 20, 21, 22, 24, 25 ...); not a Lulu revision.",
         "signature_verified": true
       },
       "carried": false,
@@ -1488,38 +1582,38 @@
       ],
       "coverage": {
         "words": 35568,
-        "form": 5739,
+        "form": 5955,
         "grammar": 10,
-        "wording": 86,
-        "added": 44,
-        "removed": 45,
-        "by_editor": 1280,
-        "by_machine": 4968,
+        "wording": 88,
+        "added": 45,
+        "removed": 46,
+        "by_editor": 1508,
+        "by_machine": 4934,
         "gaps": 39,
         "restored": 39,
         "open": 0,
         "notes_added": 0,
         "notes_dropped": 1,
-        "unchanged": 83.6,
-        "form_pct": 16.1,
+        "unchanged": 83.0,
+        "form_pct": 16.7,
         "grammar_pct": 0.0,
         "wording_pct": 0.2
       },
       "files": [
         {
-          "name": "christian-economy-v3.1.epub",
-          "bytes": 1140615,
-          "sha256": "4cdf5f4355cade349319565915f5731bc1e5647aca1804b93cd762cc347d3737"
+          "name": "christian-economy-v3.2.epub",
+          "bytes": 1141002,
+          "sha256": "410750e9a11ae78b4a9f8e044da7af72e44b9a46601d8527a582ae090d8ccaf0"
         },
         {
           "name": "christian-economy-v3.pdf",
           "bytes": 996501,
-          "sha256": "825992f8a82c9894ef4e32d9df207526f34250ff3132aeba15025301032c3fa4"
+          "sha256": "c9fb734400fee2c2d5b7425164805d3e2e5ad5c1c98cca6d28728ff2151e20da"
         },
         {
           "name": "christian-economy-v3-cover.pdf",
           "bytes": 1620197,
-          "sha256": "5e2e1f3d0463464c13ba88d7e8d68e096258b5c260532ec5a975454585d41628"
+          "sha256": "9097ec26755ae2abd77f646eaefd5704cac75bb92c5d97d1e78ac5756d00f993"
         },
         {
           "name": "christian-economy-v3-cover-front.png",
@@ -1527,14 +1621,14 @@
           "sha256": "640bbe5b6ade05f81fad38e615696303a4c79eb42253c99fd688539205e81697"
         },
         {
-          "name": "christian-economy-v3.1-reader.html",
-          "bytes": 1632552,
-          "sha256": "e3d0627cb25f94f7a51547e3061f14bc1f2dfe18f5daa5262e142537cc889594"
+          "name": "christian-economy-v3.2-reader.html",
+          "bytes": 1633717,
+          "sha256": "6cfcd3c194b680238ea7d2a0b4422db99fbdcd12e1890bf82992df0d38446e49"
         },
         {
-          "name": "christian-economy-v3.1-compare.html",
-          "bytes": 1821490,
-          "sha256": "3be24c3a62d55b8a2b52099544a4d6b7dc4eed10e6e5999560cf744b922942e4"
+          "name": "christian-economy-v3.2-compare.html",
+          "bytes": 1868654,
+          "sha256": "1303b1a6a7c8edd94ced97ddb8a5939be76db5c1d1219a12d539293f31f21ce2"
         }
       ]
     }

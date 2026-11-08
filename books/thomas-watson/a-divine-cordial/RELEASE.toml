@@ -1,0 +1,33 @@
+# Release record of A Divine Cordial: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, thomas-watson/a-divine-cordial/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost."
+
+[[source]]
+file = "source/A65292.tcp.xml"
+description = "EEBO-TCP A65292: A Divine Cordial, or, The Transcendent Priviledge of Those That Love God and Are Savingly Called (London, for Thomas Parkhurst, 1663)"
+url = "https://github.com/textcreationpartnership/A65292"
+sha256 = "b696a71fc48ffedfae7a98745cc2552687ab1b50f28800718819714c4c6fd9e5"
+
+[[source]]
+file = "source/A65292.supplied.xml"
+description = "Corrections to the TCP transcription from the 1663 page images (\"out\" for \"our\", \"dejected\", Latin misprints in the TCP, among others)"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663"
+sha256 = "658278afc8387c8e7364fa7c302f3513f4d5d9a55fbb9cc974dc0e5a6b0a7981"
+
+[[source]]
+file = "source/cordial.ccel.witness.xml"
+description = "CCEL's text of A Divine Cordial, a reworded later modernization, kept as a check only"
+url = "https://www.ccel.org/ccel/w/watson/cordial.xml"
+sha256 = "7b27f46b7deee948ce6475e52beac31d120b4c11b8abf3159edab3ff346341df"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1663 printing, archive.org scan (the copy TCP was keyed from), local OCR (Kraken and Tesseract) collated with the TCP; gaps, Greek and Hebrew, and the proofread's questions read on its page images"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663"
+
+[[witness]]
+description = "The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161)"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678"

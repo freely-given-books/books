@@ -8,6 +8,8 @@
 #   note  anything particular to this book's import, for the site's Claude
 #   ready the editor called the book ready to sign as it stands at this
 #         commit (./fgb release ready BOOK; signed with its Lulu revision)
+#   paperback  false: no paperback of the book on its own; the site offers
+#         none for it, not even "coming soon"
 
 ["anonymous/the-anatomy-of-simon-magus"]
 ready = { date = "2026-11-01", commit = "0dd6a9c" }
@@ -38,7 +40,7 @@ ready = { date = "2026-11-01", commit = "0dd6a9c" }
 lulu = "https://www.lulu.com/shop/thomas-brooks/precious-remedies-against-satans-devices/paperback/product-dy7vjp4.html"
 
 ["thomas-brooks/the-secret-key-of-heaven"]
-ready = { date = "2026-11-03", commit = "8b9cb02" }
+ready = { date = "2026-11-08", commit = "86f79c9" }
 lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
 
 ["william-gouge/domestical-duties"]
@@ -56,13 +58,21 @@ ready = { date = "2026-11-03", commit = "d150875" }
 lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-faith/paperback/product-e76dy2y.html"
 
 ["william-perkins/christian-economy"]
-ready = { date = "2026-11-01", commit = "b1d1c26" }
+ready = { date = "2026-11-08", commit = "86f79c9" }
 
 ["thomas-boston/the-crook-in-the-lot"]
 ready = { date = "2026-11-01", commit = "0dd6a9c" }
+
+["john-owen/of-temptation"]
+ready = { date = "2026-11-08", commit = "86f79c9" }
+# printed only with The Mortification of Sin, in one volume (the editor, 2026-11-05)
+paperback = false
 
 ["john-owen/the-mortification-of-sin"]
 ready = { date = "2026-11-01", commit = "0dd6a9c" }
 
 ["john-owen/the-death-of-death"]
 ready = { date = "2026-11-03", commit = "d150875" }
+
+["thomas-watson/a-divine-cordial"]
+ready = { date = "2026-11-08", commit = "86f79c9" }

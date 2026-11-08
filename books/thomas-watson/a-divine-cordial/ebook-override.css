@@ -1,0 +1,44 @@
+p {
+  text-indent: 0;
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+}
+
+h2 {
+  page-break-after: always;
+  break-after: page;
+  text-align: center;
+  letter-spacing: 0.2em;
+  hyphens: none;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 0.7em 0;
+  margin-top: 30vh;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 0;
+}
+
+h3 {
+  -webkit-column-break-before: always;
+  break-before: page;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  padding-top: 25%;
+  margin-bottom: 1.5em;
+}
+
+.subtitle {
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+
+/* Watson's printed chapter title under the chapter heading: bold, set off (colophon subtitle_rend "strong") */
+p.subtitle.strong {
+  font-weight: bold;
+  text-align: center;
+  margin: 0.4em 7.5% 1.4em;
+}

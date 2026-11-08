@@ -74,3 +74,5 @@ books/1689-baptist-confession/1689-baptist-confession/*.epub
 # engine output, word boxes) are kept locally; their SHA-256s are in the
 # tracked <scan-id>.ocr-witness.json beside them
 books/**/source/ocr/ocr-witnesses/
+books/thomas-watson/a-divine-cordial/*.pdf
+books/thomas-watson/a-divine-cordial/*.epub

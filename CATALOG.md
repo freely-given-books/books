@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.11.05
+# Freely Given Books: release 2026.11.08
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -19,7 +19,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.39.0.
+Built with colophon 0.41.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
@@ -28,16 +28,17 @@ Built with colophon 0.39.0.
 | [All of Grace](#all-of-grace) | Charles Spurgeon | v16 | 2026-11-03 |
 | [Grace Abounding to the Chief of Sinners](#grace-abounding-to-the-chief-of-sinners) | John Bunyan | v2 | 2026-11-03 |
 | [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v14 | 2026-11-03 |
-| [Of Temptation](#of-temptation) | John Owen | v1 | 2026-11-05 |
+| [Of Temptation](#of-temptation) | John Owen | v1.1 (between Lulu revisions) | 2026-11-08 |
 | [The Death of Death in the Death of Christ](#the-death-of-death-in-the-death-of-christ) | John Owen | v1 | 2026-11-03 |
 | [The Mortification of Sin](#the-mortification-of-sin) | John Owen | v1 | 2026-11-03 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v9 | 2026-11-03 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v14 | 2026-11-03 |
 | [The Crook in the Lot](#the-crook-in-the-lot) | Thomas Boston | v1 | 2026-11-03 |
 | [Precious Remedies Against Satan’s Devices](#precious-remedies-against-satans-devices) | Thomas Brooks | v2 | 2026-11-03 |
-| [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v7 | 2026-11-03 |
+| [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v7.1 (between Lulu revisions) | 2026-11-08 |
+| [A Divine Cordial](#a-divine-cordial) | Thomas Watson | v1 | 2026-11-08 |
 | [Of Domestical Duties](#of-domestical-duties) | William Gouge | v2 | 2026-11-03 |
-| [Christian Economy](#christian-economy) | William Perkins | v3.1 (between Lulu revisions) | 2026-11-05 |
+| [Christian Economy](#christian-economy) | William Perkins | v3.2 (between Lulu revisions) | 2026-11-08 |
 
 ## The 1689 Baptist Confession of Faith: With Catechisms
 
@@ -148,20 +149,22 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.
 
 - folder: `books/john-owen/of-temptation`
-- version v1: tag `john-owen/of-temptation/v1`, signed off 2026-11-05 by Courtney
+- version v1.1: tag `john-owen/of-temptation/v1.1`, signed off 2026-11-08 by Courtney
 - template: fgbooks 0.14.0
+- a point version: an improved ebook after Lulu revision 1; the print PDFs are that revision's (v1, built from its tag)
+- sign-off note: Print: the same as v1, page for page (Lulu revision 1).
 - source: EEBO-TCP A90277: John Owen, Of Temptation: the Nature and Power of It (Oxford: Leon. Lichfield for Tho. Robinson, 1658), the first edition: the text <https://github.com/textcreationpartnership/A90277>, `source/A90277.tcp.xml` (sha256 `9270022961e61afb…`)
 - source: CCEL ThML: John Owen, Of Temptation, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53), a witness and the modernization layer's guide: source/wording-decisions.md <https://www.ccel.org/ccel/o/owen/temptation.xml>, `source/temptation.ccel.witness.xml` (sha256 `6b5231f59965fe7b…`)
 - witness: The 1721 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP (work/of-temptation/collate-3m): the TCP's keying slips, source/errata.md <https://archive.org/details/bim_eighteenth-century_of-temptation-the-natur_owen-john_1721>
 - witness: The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the printing CCEL follows <https://archive.org/details/worksofjohnowe185006owen>
-- files: `of-temptation-v1.pdf`, `of-temptation-v1-cover.pdf`, `of-temptation-v1-cover-front.png`, `of-temptation-v1-cover-front.png`, `of-temptation-v1.epub`, `of-temptation-v1-reader.html`, `of-temptation-v1-compare.html`
+- files: `of-temptation-v1.1.epub`, `of-temptation-v1.pdf`, `of-temptation-v1-cover.pdf`, `of-temptation-v1-cover-front.png`, `of-temptation-v1.1-reader.html`, `of-temptation-v1.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
-- 33,129 printed words; 72.7% as printed
+- 33,135 printed words; 72.7% as printed
 - changed in form only (spelling, case, punctuation): 7,926 words (23.9%)
 - grammar modernized (hath -> has, thou -> you): 71 words (0.2%)
-- changed in wording (emendations): 1,040 words (3.1%); 176 words added, 332 removed
+- changed in wording (emendations): 1,046 words (3.2%); 176 words added, 338 removed
 - gaps in the transcription: 10, 10 restored, 0 left open
 - notes: 0 added by the editor, 5 printed notes left out
 
@@ -296,22 +299,47 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.
 
 - folder: `books/thomas-brooks/the-secret-key-of-heaven`
-- version v7: tag `thomas-brooks/the-secret-key-of-heaven/v7`, signed off 2026-11-03 by Courtney
+- version v7.1: tag `thomas-brooks/the-secret-key-of-heaven/v7.1`, signed off 2026-11-08 by Courtney
 - template: fgbooks 0.14.0
+- a point version: an improved ebook after Lulu revision 7; the print PDFs are that revision's (v7, built from its tag)
+- sign-off note: Print: the same as v7, page for page (Lulu revision 7).
 - source: EEBO-TCP A29703: The Privie Key of Heaven (London, John Hancock, 1665) <https://github.com/textcreationpartnership/A29703>, `source/A29703.tcp.xml` (sha256 `b6742bf2f0d59f51…`)
 - witness: Chapel Library's edition (Private Key to Heaven, EPUB, text in the public domain), which the earlier copy followed: source/proofread-report.md <https://www.chapellibrary.org/>
 - witness: The 1665 printing's page images (archive.org), for the Greek, Hebrew and illegible places <https://archive.org/details/bim_early-english-books-1641-1700_the-privie-key-of-heaven_brookes-thomas_1665>
 - witness: The earlier Freely Given Books copy (lightly modernized), folded in as the review
-- files: `the-secret-key-of-heaven-v7.pdf`, `the-secret-key-of-heaven-v7-cover.pdf`, `the-secret-key-of-heaven-v7-cover-front.png`, `the-secret-key-of-heaven-v7-cover-front.png`, `the-secret-key-of-heaven-v7.epub`, `the-secret-key-of-heaven-v7-reader.html`, `the-secret-key-of-heaven-v7-compare.html`
+- files: `the-secret-key-of-heaven-v7.1.epub`, `the-secret-key-of-heaven-v7.pdf`, `the-secret-key-of-heaven-v7-cover.pdf`, `the-secret-key-of-heaven-v7-cover-front.png`, `the-secret-key-of-heaven-v7.1-reader.html`, `the-secret-key-of-heaven-v7.1-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
-- 102,961 printed words; 75.1% as printed
+- 102,975 printed words; 75.2% as printed
 - changed in form only (spelling, case, punctuation): 20,937 words (20.3%)
 - grammar modernized (hath -> has, thou -> you): 76 words (0.1%)
-- changed in wording (emendations): 4,573 words (4.4%); 2,525 words added, 2,026 removed
-- gaps in the transcription: 72, 61 restored, 11 left open
+- changed in wording (emendations): 4,570 words (4.4%); 2,523 words added, 2,027 removed
+- gaps in the transcription: 72, 66 restored, 6 left open
 - notes: 0 added by the editor, 403 printed notes left out
+
+## A Divine Cordial
+
+Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost.
+
+- folder: `books/thomas-watson/a-divine-cordial`
+- version v1: tag `thomas-watson/a-divine-cordial/v1`, signed off 2026-11-08 by Courtney
+- template: fgbooks 0.14.0
+- source: EEBO-TCP A65292: A Divine Cordial, or, The Transcendent Priviledge of Those That Love God and Are Savingly Called (London, for Thomas Parkhurst, 1663) <https://github.com/textcreationpartnership/A65292>, `source/A65292.tcp.xml` (sha256 `b696a71fc48ffedf…`)
+- source: Corrections to the TCP transcription from the 1663 page images ("out" for "our", "dejected", Latin misprints in the TCP, among others) <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663>, `source/A65292.supplied.xml` (sha256 `658278afc8387c8e…`)
+- source: CCEL's text of A Divine Cordial, a reworded later modernization, kept as a check only <https://www.ccel.org/ccel/w/watson/cordial.xml>, `source/cordial.ccel.witness.xml` (sha256 `7b27f46b7deee948…`)
+- witness: The 1663 printing, archive.org scan (the copy TCP was keyed from), local OCR (Kraken and Tesseract) collated with the TCP; gaps, Greek and Hebrew, and the proofread's questions read on its page images <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663>
+- witness: The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161) <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678>
+- files: `a-divine-cordial-v1.pdf`, `a-divine-cordial-v1-cover.pdf`, `a-divine-cordial-v1-cover-front.png`, `a-divine-cordial-v1-cover-front.png`, `a-divine-cordial-v1.epub`, `a-divine-cordial-v1-reader.html`, `a-divine-cordial-v1-compare.html`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 44,881 printed words; 96.1% as printed
+- changed in form only (spelling, case, punctuation): 1,542 words (3.4%)
+- grammar modernized (hath -> has, thou -> you): 0 words (0.0%)
+- changed in wording (emendations): 209 words (0.5%); 13 words added, 165 removed
+- gaps in the transcription: 561, 561 restored, 0 left open
+- notes: 0 added by the editor, 20 printed notes left out
 
 ## Of Domestical Duties
 
@@ -342,20 +370,20 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images.
 
 - folder: `books/william-perkins/christian-economy`
-- version v3.1: tag `william-perkins/christian-economy/v3.1`, signed off 2026-11-05 by Courtney
+- version v3.2: tag `william-perkins/christian-economy/v3.2`, signed off 2026-11-08 by Courtney
 - template: fgbooks 0.14.0
 - a point version: an improved ebook after Lulu revision 3; the print PDFs are that revision's (v3, built from its tag)
-- sign-off note: Print: changed since v3 (christian-economy.pdf: 5 page(s) differ: 19, 38, 47, 48, 68); not a Lulu revision.
+- sign-off note: Print: changed since v3.1 (christian-economy.pdf: 67 page(s) differ: 7, 9, 10, 11, 12, 13, 18, 20, 21, 22, 24, 25 ...); not a Lulu revision.
 - source: EEBO-TCP A09377: Christian Oeconomie, or, A Short Survey of the Right Manner of Erecting and Ordering a Family (London, Felix Kyngston for Edmund Weaver, 1609), translated by Thomas Pickering <https://github.com/textcreationpartnership/A09377>, `source/A09377.tcp.xml` (sha256 `83d0f693c303aed4…`)
 - source: Corrections to the TCP transcription from the 1609 page images: "Lombard," and "though" restored where it left them out; "or", "continencie", "his", "then", "the" and "bought" where it misread them <https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0>, `source/A09377.supplied.xml` (sha256 `a43617693cab8cfe…`)
 - witness: The 1609 printing, archive.org scan (the copy TCP was keyed from), local OCR (GLM-OCR and Tesseract) in source/ocr/: two readings corrected ("his wife", "he forbiddeth"); the page images also settled the proofread's questions (source/proofread-report.md) <https://archive.org/details/bim_early-english-books-1475-1640_christian-oeconomie-or-_perkins-william_1609_0>
-- files: `christian-economy-v3.1.epub`, `christian-economy-v3.pdf`, `christian-economy-v3-cover.pdf`, `christian-economy-v3-cover-front.png`, `christian-economy-v3.1-reader.html`, `christian-economy-v3.1-compare.html`
+- files: `christian-economy-v3.2.epub`, `christian-economy-v3.pdf`, `christian-economy-v3-cover.pdf`, `christian-economy-v3-cover-front.png`, `christian-economy-v3.2-reader.html`, `christian-economy-v3.2-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
-- 35,568 printed words; 83.6% as printed
-- changed in form only (spelling, case, punctuation): 5,739 words (16.1%)
+- 35,568 printed words; 83.0% as printed
+- changed in form only (spelling, case, punctuation): 5,955 words (16.7%)
 - grammar modernized (hath -> has, thou -> you): 10 words (0.0%)
-- changed in wording (emendations): 86 words (0.2%); 44 words added, 45 removed
+- changed in wording (emendations): 88 words (0.2%); 45 words added, 46 removed
 - gaps in the transcription: 39, 39 restored, 0 left open
 - notes: 0 added by the editor, 1 printed notes left out
