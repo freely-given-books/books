@@ -4,10 +4,12 @@
 | --- | --- |
 | punctuation | 654 |
 | italic | 350 |
-| emendation | 186 |
+| emendation | 196 |
 | spelling | 129 |
+| heading | 32 |
 | spacing | 13 |
 | list | 10 |
+| merge | 10 |
 | gap | 3 |
 | skipped | 1 |
 
@@ -71,14 +73,17 @@
 - [chapter-04.typ note] estpeccatum → est peccatum
 - [chapter-04.typ note] temporecum → tempore cum
 - [chapter-04.typ] CHAP . IV . → 
+- [chapter-04.typ] SECTION I . Showing that the evil of affliction works for good to the Godly . → 
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] I → Ay
+- [chapter-04.typ] SECTION II . Showing that the evil of Temptation works for good to the Godly . → 
 - [chapter-04.typ] Phansy → Fancy
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] Chron . → Chr
 - [chapter-04.typ] ample xus → amplexus
+- [chapter-04.typ] SECTION III . Showing that the evil of Desertion works for good to the Godly . → 
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Cant . → Song
@@ -87,6 +92,7 @@
 - [chapter-04.typ] Judg . → Judge
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Psal . → Ps
+- [chapter-04.typ] SECTION IV . Showing that the evil of sin works for good to the Godly . → 
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
@@ -176,12 +182,17 @@
 - [chapter-10.typ] Vers . → Verse
 - [chapter-10.typ] Mat . → Matt
 - [chapter-11.typ] CHAP . XI . → 
+- [chapter-11.typ] SECTION I . A Distinction about Calling . → 
 - [chapter-11.typ] Mat . → Matt
+- [chapter-11.typ] SECTION II . Our deplorable condition before we are called . → 
 - [chapter-11.typ] Ephes . → Eph
 - [chapter-11.typ] be → he
 - [chapter-11.typ] phansy → fancy
 - [chapter-11.typ] 1 → 
+- [chapter-11.typ] SECT . III . The Means of our blessed Call . → 
 - [chapter-11.typ] Psal . → Ps
+- [chapter-11.typ] SECTION IV . God's Method in calling Sinners . → 
+- [chapter-11.typ] SECTION V . The properties of the divine call . → 
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] is → 
 - [chapter-11.typ] Psal . → Ps
@@ -191,6 +202,7 @@
 - [chapter-11.typ] Iam → Ja
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
+- [chapter-11.typ] SECT . VI . Showing the end of Effectual Calling . → 
 - [chapter-11.typ] I → Ay
 - [chapter-12.typ] CHAP . XII . → 
 - [chapter-13.typ note] Psal . → Ps

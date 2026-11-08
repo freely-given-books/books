@@ -15,7 +15,11 @@
 + The Degree of love to God.
 ]
 
+=== The Nature of Love
+
 1\. The #emph[Nature] of divine love. Love is an expansion of soul, or the inflaming of the affections, whereby a Christian breaths after God as the supreme and sovereign good. St #emph[Austin] in his second Tome, calls love #emph[Pondus anima]: Love is to the soul as the weights to the Clock, it sets the soul a going towards God; it is the wing by which we fly to Heaven; by love we cleave to God, as the Needle to the Load-stone.
+
+=== The Ground of Love
 
 2\. The #emph[Ground] of love to God, and that is, #emph[knowledge. Ignoti nulla cupido] — We cannot love that which we do not know. That our love may be drawn forth to God, we must know these three things in him.
 
@@ -25,6 +29,8 @@
 
 3\. A #emph[Propriety.] We must know this fulness in God is ours, Ps 48:14. #emph[This God is our God.] Here is the ground of love, #emph[Deity] and #emph[Propriety.]
 
+=== The Kinds of Love
+
 3\. The #emph[Kinds] of love, which I shall branch into these three.
 
 1\. There is a love of #emph[Appretiation,] when we set an high value upon God, as being the most sublime and infinite good; we so esteem of God, as if we have him we care not though we want all things else. The Stars vanish when the Sun appears: All creatures vanish in our thoughts when the Sun of righteousness shines in his full splendour, Song 1:13. #emph[A bundle of Myrrh is my well-beloved unto me, and as a cluster of Camphire.]
@@ -32,6 +38,8 @@
 2\. A love of #emph[Complacency] and delight: So #emph[Aquinas] defines love to be #emph[complacentia amantis in amato]: As a man takes delight in a friend whom he loves. The soul that loves God rejoiceth in him, as in his treasure, and rests in him, as in his Center. The heart is so set upon God as it desires no more, John 14:8. #emph[Show us the Father, and it sufficeth.]
 
 3\. A love of #emph[Benevolence,] which is a wishing well to the Cause of God#footnote[Φιλεῖν ἐστι βούλεσθαι τινὶ ὁ ὄντα ἀγαθὰ, etc. #emph[Aristot.]]. He that is endeared in affection to his friend, wisheth all happiness to him. This is to love God, when we are well-wishers, we desire that his Interest may prevail; our Vote and Prayer is, that his name may be had in honour; that his Gospel, which is #emph[the Rod of his strength,] may like #emph[Aarons Rod,] blossom, and bring forth Almonds.
+
+=== The Properties of Love
 
 4\. The #emph[Properties] of love. 1. Our love to God must be #emph[entire,] and that #emph[ex part subjecti,] in regard of the #emph[Subject,] it must be with the whole heart. Mark 12:30. #emph[Thou shalt love the Lord thy God ἐξ ὅλης καρδίας, with all thy heart.] In the Old Law, an High Priest was not to marry with a Widow, nor with an Harlot; not with a Widow, because he had not her first love, nor with an Harlot, because he had not all her love. God will have the whole heart. Hos 10:2. #emph[Their heart is divided.] The true Mother would not have the child divided; nor God will not have the heart divided: God will not be an #emph[Inmate,] to have only one Room in the heart, and all the other Rooms let out to sin. It must be an entire love.
 
@@ -46,6 +54,8 @@
 6\. Love to God is #emph[peculiar:] He who is a Lover of God, gives him such a love, as he bestows upon none else. As God gives his children such a love as he doth not bestow upon the wicked, #emph[electing, adopting] love; so a gracious heart gives to God such a special distinguishing love, as none else are sharers in. 2 Cor 11:2. #emph[I have espoused you to one husband, that I may present you as a chaste Virgin to Christ.] A Wife espoused to an Husband, gives him such a love as she hath for none else; she doth not part with her conjugal love to any, but her husband: So a Saint espoused to Christ, gives him a peculiarity of love, a love incommunicable to any other, namely, a love joined with adoration. Not only the #emph[love] is given to God, but the #emph[soul,] Song 4:8. #emph[A garden enclosed, is my Sister, my Spouse.] The heart of a Believer is Christ's Garden, the Flower growing in it, is love mixed with Divine Worship, and this Flower is for Christ alone to smell to; the Spouse keeps the Key of the Garden, that none may come there but Christ.
 
 7\. Love to God is #emph[permanent]\; it is like the fire the Vestal Virgins kept in #emph[Rome,] it doth not go out; true love boils over, but doth not give over. Love to God, as it is sincere without hypocrisy, so it is constant without apostasy. Love is like the Pulse of the body, always beating; 'tis not a Land-flood, but a Spring. As wicked men are constant in love to their sins; neither shame, nor sickness, nor fear of Hell, will make them give over their sins: so nothing can hinder a Christians love to God: Nothing can conquer love, not any difficulties, or oppositions, Song 8:6. #emph[Love is strong as the Grave.] The Grave swallows up the strongest bodies; so Love swallows up the strongest difficulties, Song 8:7. #emph[Many waters cannot quench love:] Neither the sweet waters of pleasure, nor the bitter waters of persecution: love to God abides firm to the death, Eph 3:17. #emph[Being rooted and grounded in love.] Eight things, as Chaff and Feathers, are quickly blown away; but a tree that is rooted, abides the storm; he that is rooted in love endures: True love never ends but with the life.
+
+=== The Degrees of Love
 
 5\. The #emph[Degrees] of love. We must love God above all other objects #footnote[#emph[Minus Domine te amat, qui aliquid tecum amat.] Austin.]. Ps 73:25. #emph[There is nothing on earth I desire in comparison of thee.] God is the quintessence of all good things, he is superlatively good; now the soul seeing a super-eminency in God, and admiring in him that constellation of all excellencies, is carried out in love to him in the highest degree. #emph[The measure of our love to God,] saith #emph[Bernard, must be to love him without measure] #footnote[#emph[Modus diligendi Deum, est diligere Deum sine modo.] Bern.]. God who is the chief of our happiness, must have the chief of our affections, Song 8:2. #emph[I would cause thee to drink of my spiced Wine, of the juice of my Pomegranate.] If the Spouse hath any love better than other, a Cup more juicy and spiced, Christ shall drink, of that. The creature may have the Milk of our love, but God must have the Cream. Love to God must be above all other things, as the Oil swims above the Water.
 

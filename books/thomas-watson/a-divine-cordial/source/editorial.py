@@ -31,6 +31,10 @@ SKIP_DIVISIONS = {"title_page", "table_of_contents"}
 # Watson's sections (chapters 4 and 11) under their chapter.
 DIV_LEVELS = {"section": 3}
 
+# Headings this edition adds over the parts of chapters 3, 7, 10, 13, 14 and 16, in the words
+# of the 1663 contents page (the parts Watson lists under each chapter there).
+EDITION_HEADINGS = True
+
 ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
          "XI", "XII", "XIII", "XIV", "XV", "XVI"]
 

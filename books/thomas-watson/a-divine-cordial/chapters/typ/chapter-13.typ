@@ -12,6 +12,8 @@
 
 #emph[Answ.] Great sinners have been called. #emph[Paul] was as bloody a persecutor, as ever #emph[Domitian] or #emph[Julian]\; yet he was called #footnote[μήτε ὁ πρὸς τὸν πυθμένα τῆς κακίας κατελθὼν ἀπελπιζέτω ἑαυτοῦ τὴν σωτηρίαν. #emph[Chrysost.]]. Some of the Jews, who had an hand in crucifying Christ, were called. God loves to display the Flag of Free-grace to sinners. Therefore be not discouraged; you see a golden Cord let down from Heaven, for poor trembling souls to lay hold upon.
 
+=== Signs of Effectual Calling
+
 #emph[Quest.] 2. But how shall I know that I am #emph[effectually called?]
 
 #emph[Answ.] 1. He who is #emph[savingly called,] is called out of himself; not only #emph[sinful self,] but #emph[righteous self]\; he denies his duties and moral endowments, Phil 3:9. #emph[Not having mine own righteousness.] He whose heart God hath touched by his Spirit, lays down the Idol of Self-righteousness at Christ's feet for him to tread upon; he useth morality, and Duties of Piety, but doth not trust to them. #emph[Noah]'s Dove made use of her wings to fly, but trusted to the Ark for safety. This is excellent, when a man is called out of himself. This self-renunciation is (as #emph[Austin] saith) #emph[Primus ad fidem aditus,] the first step to saving faith.
