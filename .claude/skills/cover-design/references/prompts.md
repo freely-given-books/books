@@ -204,3 +204,18 @@ No people.
 (The house filled more of the height than a four-line title block allows;
 the plate is set 0.42in low, which puts the seal on the garden path. Ask for
 "the house small in the lower half" when the title is long.)
+
+**A Divine Cordial** (Watson, To the Reader: "I would prescribe them to take
+now & then a little of this Cordial"), asked for simple, not highly detailed;
+used as it came (2026-11-08), then hand-tinted (art/tint.py):
+
+```
+A small seventeenth-century apothecary's cordial bottle standing alone on a
+plain table top: a round-bellied glass phial with a short narrow neck, stopped
+with a cork, a square of paper tied over the cork with a loop of string, the
+bottle about half full of a clear cordial. A simple, quiet object, plainly
+drawn, with only a little detail: the curve of the glass shown by a few lines
+and one small highlight, no pattern or lettering on the bottle, no label.
+```
+(With the fixed composition and style paragraphs, plus "Simple and
+uncluttered, lightly drawn, at least two-thirds of the image white paper".)

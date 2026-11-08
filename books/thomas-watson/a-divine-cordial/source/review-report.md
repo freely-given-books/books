@@ -5,7 +5,7 @@
 | punctuation | 655 |
 | italic | 348 |
 | emendation | 142 |
-| spelling | 11 |
+| spelling | 12 |
 | spacing | 8 |
 | gap | 1 |
 | skipped | 1 |
@@ -828,4 +828,5 @@
 - Luk → Luke
 - Psal → Ps
 - gracen → grace
+- showrs → showers
 
