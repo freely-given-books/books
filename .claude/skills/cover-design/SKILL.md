@@ -43,7 +43,7 @@ Covers already done (read them as worked examples, `books/<author>/<book>/cover.
 | Mortification of Sin | no picture: Romans 8:13, the verse the book expounds, "mortify" and "ye shall live" in gold | type only, oxblood and gold (Typst `art`) |
 | Of Domestical Duties (4 vols) | no picture: lettered after the 1622 title page, the eight treatises with this volume's picked out | type only, olive and gold, `scripts/set_cover.typ` |
 | Institutes (6 vols) | a small vignette, not a plate: spectacles on an open book (I.vi.1), pages filled in paper colour | ChatGPT engraving, `art/vignette.png` (`art/vignette.py`); grounds step sea-green to indigo across the set |
-| A Divine Cordial | an apothecary's cordial bottle, half full, paper tied over the cork ("take now & then a little of this Cordial", To the Reader) | ChatGPT engraving, simple; hand-tinted by `art/tint.py` (washes from the bottle's own outline, row by row): amber cordial, sea-green glass, cream cap; plate enlarged past the bleed |
+| A Divine Cordial | an apothecary's cordial bottle, half full, paper tied over the cork ("take now & then a little of this Cordial", To the Reader) | ChatGPT engraving, simple; hand-tinted by `art/tint.py` (washes from the bottle's own outline, row by row): amber cordial, sea-green glass, cream cap, on soft teal (chosen over sage and seven others); plate enlarged past the bleed |
 
 ## What the editor wants (learned the hard way)
 
