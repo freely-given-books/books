@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 621 |
-| italic | 343 |
-| emendation | 128 |
+| punctuation | 627 |
+| italic | 347 |
+| emendation | 138 |
 | spelling | 11 |
 | spacing | 6 |
 | skipped | 1 |
@@ -26,6 +26,8 @@
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
+- [chapter-03.typ] 14 → 4
+- [chapter-03.typ] Word → Wind
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
@@ -68,12 +70,17 @@
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Pro . → Prov
 - [chapter-04.typ] Psal . → Ps
+- [chapter-04.typ] Psal . 15 . → Ps 51:
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Ephes . → Eph
 - [chapter-05.typ] Cant . → Song
+- [chapter-05.typ] 16 → 6
+- [chapter-05.typ] Cant . → Song
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] 9 → 4
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
@@ -112,6 +119,8 @@
 - [chapter-09.typ] Mat . → Matt
 - [chapter-09.typ] Cant . → Song
 - [chapter-09.typ] Revel . → Rev
+- [chapter-10.typ] Psal . → Ps
+- [chapter-10.typ] 33 → 23
 - [chapter-10.typ] Chron . → Chr
 - [chapter-10.typ] Cant . → Song
 - [chapter-10.typ] Psal . → Ps
@@ -127,6 +136,7 @@
 - [chapter-10.typ] Mat . → Matt
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Ephes . → Eph
+- [chapter-11.typ] 1 → 
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Psal . → Ps
@@ -186,6 +196,8 @@
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
@@ -393,17 +405,19 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
-- [chapter-05.typ] . → 
-- [chapter-05.typ] . → :
-- [chapter-05.typ] . → :
-- [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
@@ -569,6 +583,7 @@
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
+- [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
@@ -658,6 +673,7 @@
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
