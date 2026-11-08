@@ -2,16 +2,21 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 627 |
-| italic | 347 |
-| emendation | 138 |
+| punctuation | 655 |
+| italic | 348 |
+| emendation | 142 |
 | spelling | 11 |
-| spacing | 6 |
+| spacing | 8 |
+| gap | 1 |
 | skipped | 1 |
 
 ## skipped
 
 - [to-the-reader.typ] new ¶ before 'CHRISTIAN' → not a paragraph (e.g. a list heading); kept as is
+
+## gap
+
+- [chapter-07.typ] χρηστεύεται → χρηστεύεται,
 
 ## emendation
 
@@ -19,6 +24,7 @@
 - [to-the-reader.typ note] King → Kgs
 - [to-the-reader.typ note] Psal . → Ps
 - [chapter-01.typ] ROM . → Rom
+- [chapter-02.typ] Tex ▪ → Text
 - [chapter-02.typ] Psal . → Ps
 - [chapter-03.typ note] 14 . → 
 - [chapter-03.typ] Psal . → Ps
@@ -48,6 +54,7 @@
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] vers → v
+- [chapter-04.typ note] thing ▪ → things
 - [chapter-04.typ note] Psal . → Ps
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
 - [chapter-04.typ] Psal . → Ps
@@ -99,6 +106,8 @@
 - [chapter-07.typ] Psal . → Ps
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Thes . → Thess
+- [chapter-07.typ] Cor → Cor 8:2
+- [chapter-07.typ] 8 . 2 ▪ → 
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Cant . → Song
@@ -163,7 +172,12 @@
 - [to-the-reader.typ note] . → :
 - [to-the-reader.typ note] . → :
 - [to-the-reader.typ note] . → :
+- [to-the-reader.typ] ▪ → ,
+- [to-the-reader.typ] ▪ → ,
 - [chapter-01.typ] . → :
+- [chapter-01.typ] ▪ → :
+- [chapter-01.typ] ▪ → ,
+- [chapter-01.typ] ▪ → ;
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → 
@@ -171,8 +185,10 @@
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-01.typ] ▪ → ;
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-02.typ note] ▪ → .
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-03.typ note] . → 14:
@@ -239,6 +255,7 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
+- [chapter-03.typ] ▪ → .
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
@@ -266,6 +283,7 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-04.typ note] . → :
+- [chapter-04.typ note] ▪ → .
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
@@ -329,6 +347,8 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
+- [chapter-04.typ] ▪ → ,
+- [chapter-04.typ] ▪ → ;
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
@@ -386,6 +406,7 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] ▪ → ,
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
@@ -422,6 +443,7 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-06.typ note] ▪ → .
 - [chapter-06.typ note] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
@@ -511,10 +533,11 @@
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
+- [chapter-07.typ] ▪ → ,
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
-- [chapter-07.typ] . → 
-- [chapter-07.typ] . → :
+- [chapter-07.typ] ▪ → ;
+- [chapter-07.typ] ▪ → .
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → :
@@ -533,6 +556,7 @@
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
+- [chapter-09.typ note] ▪ → .
 - [chapter-09.typ note] . → :
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
@@ -564,10 +588,12 @@
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → :
+- [chapter-09.typ] ▪ → ?
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
+- [chapter-09.typ] ▪ → ;
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
@@ -595,6 +621,7 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
+- [chapter-10.typ] ▪ → .
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
@@ -700,6 +727,7 @@
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
+- [chapter-11.typ] ▪ → ,
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
@@ -709,10 +737,14 @@
 - [chapter-11.typ] . → 
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
-- [chapter-12.typ] . → 
+- [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] ▪ → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] ▪ → ,
 - [chapter-12.typ] . → :
 - [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → :
@@ -722,6 +754,7 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] ▪ → -
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
@@ -733,6 +766,7 @@
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] ▪ → ,
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
@@ -741,9 +775,11 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] ▪ → ,
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] ▪ → 
 - [chapter-14.typ note] . → 
 - [chapter-14.typ note] . → :
 - [chapter-14.typ] . → :
@@ -771,6 +807,7 @@
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
+- [chapter-15.typ note] ▪ → ,
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → 
