@@ -5,7 +5,7 @@
 | punctuation | 652 |
 | italic | 350 |
 | emendation | 165 |
-| spelling | 123 |
+| spelling | 125 |
 | spacing | 10 |
 | gap | 3 |
 | skipped | 1 |
@@ -854,6 +854,7 @@
 - Kings → Kgs (×4)
 - Kings → King's (×3)
 - Spirits → Spirit's (×3)
+- God's → gods (×2)
 - Jacobs → Jacob's (×2)
 - animae → anima (×2)
 - 2 → 2:

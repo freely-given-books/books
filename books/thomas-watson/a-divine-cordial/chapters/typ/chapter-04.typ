@@ -118,7 +118,7 @@ Desertion is very sad; for as when the light is withdrawn, darkness follows in t
 
 4\. Desertion works for good, as it works these three gracious effects.
 
-1\. It sets the soul a weeping for the loss of God. When the Sun is gone, the dew falls; and when God is gone, tears drop from the eyes. How was #emph[Micah] troubled when he had lost his God's? Judge 18:24. #emph[Ye have taken away my God's, and what have I more?] So, when God is gone, what have we more? It is not the Harp and Viol can comfort, when God is gone. Though it be sad to want God's presence, yet it is good to lament his absence.
+1\. It sets the soul a weeping for the loss of God. When the Sun is gone, the dew falls; and when God is gone, tears drop from the eyes. How was #emph[Micah] troubled when he had lost his gods? Judge 18:24. #emph[Ye have taken away my gods, and what have I more?] So, when God is gone, what have we more? It is not the Harp and Viol can comfort, when God is gone. Though it be sad to want God's presence, yet it is good to lament his absence.
 
 2\. Desertion sets the soul a seeking after God. When Christ was stepped aside, the Spouse pursues after him, she seeks him #emph[in the streets of the City,] Song 3:2. And a #emph[non inventus] being returned, she makes a hue and cry after him, #emph[vers.] 3. #emph[Saw ye him whom my soul loves?] The deserted soul sends up whole Volleys of sighs and groans, it knocks at Heaven-gate by prayer, it can have no rest till the golden beams of God's face shine.
 
