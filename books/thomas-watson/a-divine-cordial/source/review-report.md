@@ -4,14 +4,32 @@
 | --- | --- |
 | punctuation | 654 |
 | italic | 350 |
+| level | 208 |
 | emendation | 196 |
 | spelling | 131 |
 | heading | 32 |
+| note | 20 |
+| note moved | 15 |
 | spacing | 13 |
+| split | 11 |
 | list | 10 |
 | merge | 10 |
 | gap | 3 |
 | skipped | 1 |
+
+## split
+
+- [chapter-03.typ] paragraph → 1 split(s) at 1
+- [chapter-04.typ] paragraph → 1 split(s) at 1
+- [chapter-04.typ] paragraph → 1 split(s) at 1
+- [chapter-04.typ] paragraph → 2 split(s) at 1, 2
+- [chapter-05.typ] paragraph → 1 split(s) at •
+- [chapter-06.typ] paragraph → 1 split(s) at •
+- [chapter-07.typ] paragraph → 1 split(s) at 1
+- [chapter-09.typ] paragraph → 1 split(s) at 1
+- [chapter-09.typ] paragraph → 1 split(s) at 1
+- [chapter-11.typ] paragraph → 1 split(s) at 1
+- [chapter-11.typ] paragraph → 1 split(s) at 1
 
 ## skipped
 

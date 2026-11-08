@@ -13,14 +13,14 @@
 
 Ps 25:10. #emph[All the paths of the Lord are mercy unto such as keep his Covenant.] If every path hath mercy in it, then it works for good.
 
-1\. What things work for good to the Godly.
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. What things work for good to the Godly.]]
 
-2\. Why all things work for good to the Godly.
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[2\. Why all things work for good to the Godly.]]
 
-1\. What things are they which work for good to the Elect?
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. What things are they which work for good to the Elect?]]
 
 #[
-#set enum(indent: 24pt)
+#set enum(indent: 4.0em)
 + The best things.
 + The worst things.#footnote[#emph[Answ.]]
 ]

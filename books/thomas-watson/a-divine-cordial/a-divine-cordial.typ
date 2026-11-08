@@ -38,7 +38,12 @@
 
 #include "chapters/typ/chapter-09.typ"
 
-#include "chapters/typ/chapter-10.typ"
+// Chapter X set a hair tighter (leading 0.765em, the book's 0.78em): at full
+// spacing its last two lines run onto a page of their own
+#[
+  #set par(leading: 0.765em)
+  #include "chapters/typ/chapter-10.typ"
+]
 
 #include "chapters/typ/chapter-11.typ"
 
