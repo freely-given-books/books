@@ -4,7 +4,7 @@ The servant, is a person in the family subject unto his master.
 
 #emph[The duty of a servant is, faithfully and diligently to demean himself in the affairs of his master, and to do service unto him as unto Christ, though he be froward and hard-hearted.] Titus 2:9. Let servants be subject to their masters, and please them in all things, not answering again. Eph 6:5. Servants, be obedient to them that are your masters according to the flesh, with fear & trembling, in singleness of your hearts, as unto Christ. #emph[Col 3:22. Thus] Jacob #emph[served] Laban, Gen 31:38. This twenty years have I been with thee; thine ewes and thy goats have not cast their young, and the rams of the flock have I not eaten, #emph[etc.]
 
-Contrariwise, the servant must take heed that he do not his masters business negligently, or for fashion sake, or with eye-service as a man-pleaser; that in case of rebuke or controlment, he answer not again; lastly, that he be trusty & withhold his hands from picking, and his heart from deceiving his master.
+Contrariwise, the servant must take heed that he do not his master's business negligently, or for fashion sake, or with eye-service as a man-pleaser; that in case of rebuke or controlment, he answer not again; lastly, that he be trusty & withhold his hands from picking, and his heart from deceiving his master.
 
 Servants are of two sorts; either free, or bond-servants.
 
@@ -16,7 +16,7 @@ A bond-servant, is a servant bought for money, and is commonly called a slave. T
 
 I. That the master have not over his servant the power of life and death; for this takes away the lawful power of the Magistrate, to whom only the Lord hath committed the sword of justice.
 
-II. That there be not liberty granted him, to use his servant at his own will and pleasure in all things; for this was not granted by the law of God to his own people: Exod 21:26. #emph[If a man smite his servant or his maid in the eye, and hath perished it, he shall let him go free for his eye: Also if he smite out his servants or his maids tooth, he shall let him go out free for his tooth.]
+II. That there be not liberty granted him, to use his servant at his own will and pleasure in all things; for this was not granted by the law of God to his own people: Exod 21:26. #emph[If a man smite his servant or his maid in the eye, and hath perished it, he shall let him go free for his eye: Also if he smite out his servant's or his maid's tooth, he shall let him go out free for his tooth.]
 
 III. That the power be not enlarged to the commanding of things against piety or justice; for in these cases a man must rather obey God then man, Acts 4:19.
 

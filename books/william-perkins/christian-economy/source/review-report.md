@@ -9,9 +9,9 @@
 | --- | --- |
 | punctuation | 628 |
 | spacing | 338 |
-| emendation | 185 |
+| spelling | 296 |
+| emendation | 186 |
 | italic | 128 |
-| spelling | 69 |
 | case | 34 |
 | gap | 9 |
 | expansion | 9 |
@@ -158,7 +158,8 @@
 - [chapter-08.typ] honestpure → honest, pure,
 - [chapter-08.typ] Eccles . → Eccl
 - [chapter-09.typ] II → 11
-- [chapter-09.typ] for saken → forsaken
+- [chapter-09.typ] is → is forsaken
+- [chapter-09.typ] saken for Gods → God's
 - [chapter-09.typ] Matth . → Matt
 - [chapter-09.typ] . Speaketh → speaketh
 - [chapter-09.typ] ship wrack → shipwreck
@@ -919,33 +920,66 @@
 
 ## spelling
 
+- fathers → father's (×58)
+- mothers → mother's (×36)
+- Gods → God's (×16)
+- wives → wife's (×16)
+- brothers → brother's (×15)
 - then → than (×10)
+- mans → man's (×9)
+- husbands → husband's (×8)
+- Abrahams → Abraham's (×7)
+- Pharaohs → Pharaoh's (×4)
+- masters → master's (×4)
+- sisters → sister's (×4)
+- sons → son's (×4)
 - vail → veil (×4)
+- Davids → David's (×3)
+- anothers → another's (×3)
 - chap → ch (×3)
+- daughters → daughter's (×3)
+- nephews → nephew's (×3)
+- nieces → niece's (×3)
+- uncles → uncle's (×3)
 - Anna → Hannah (×2)
 - Cananites → Canaanites (×2)
 - Cham → Ham (×2)
 - Esther → Esth (×2)
 - Honourable → Honorable (×2)
+- Josephs → Joseph's (×2)
+- Kings → King's (×2)
+- Moses → Moses' (×2)
+- Pauls → Paul's (×2)
+- aunts → aunt's (×2)
 - bruit → brute (×2)
+- childs → child's (×2)
 - honour → honor (×2)
+- others → other's (×2)
+- servants → servant's (×2)
+- womans → woman's (×2)
 - 14 → 14:
+- Adams → Adam's
 - Adoniah → Adonijah
 - Ahashuerosh → Ahasuerus
 - Anna's → Hannah's
 - Be → Bee
 - Corinthes → Corinthians
 - Exodus → Exod
+- Fathers → Father's
+- Harans → Haran's
 - Hosea → Hos
 - Iischa → Iscah
 - Izreelite → Jezreelitess
 - James → Jas
 - Jerem → Jer
+- Jobs → Job's
 - King → Kg
 - Levit → Lev
 - Luk → Luke
 - Matrimony → Matrimonij
+- Rebekahs → Rebekah's
 - Ruben → Reuben
+- Sauls → Saul's
 - Sea → See
 - Thamar → Tamar
 - Thesphylus → Theophilus
@@ -953,8 +987,9 @@
 - Vashi → Vashti
 - advise → advice
 - bitterns → bitterness
-- brother → brothers
+- brother → brother's
 - cal → call
+- childrens → children's
 - daughter → daughter.
 - fair → fare
 - harts → hearts
@@ -962,6 +997,9 @@
 - heard → herd
 - husband → husband.
 - labors → labours
+- maids → maid's
+- neighbours → neighbour's
+- parties → party's
 - prays → praise
 - sauorem → fauorem
 - sundrie → sundry
