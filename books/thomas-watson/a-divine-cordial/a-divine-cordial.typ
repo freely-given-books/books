@@ -1,4 +1,5 @@
 #import "@local/fgbooks:0.14.0": *
+#import "stray-notes.typ": keep-text
 
 #show: book.with(
   title: [A Divine Cordial],
@@ -17,6 +18,15 @@
   ],
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),   // Lulu: 151-400 pages
 )
+
+// Notes kept on their marker's page (stray-notes.typ, from Gouge; print_check.py):
+// the paragraphs before notes 12 and 27 set with -/+0.01em letter spacing
+#show: keep-text.with(("2. I Pass to the second, the": "t-", "2. The second heart-quieting": "t+", ))
+
+// Orphans allowed (a paragraph's first line alone at a page's foot): with
+// orphan control Typst can push a marker's line onto the next page after
+// setting its footnote, so note and marker part (as Gouge). Widows are still avoided.
+#set text(costs: (orphan: 0%))
 
 #include "chapters/typ/to-the-reader.typ"
 
@@ -51,7 +61,12 @@
 
 #include "chapters/typ/chapter-13.typ"
 
-#include "chapters/typ/chapter-14.typ"
+// Chapter XIV set a hair tighter (leading 0.775em, the book's 0.78em) so
+// note 149 stays on its marker's page
+#[
+  #set par(leading: 0.775em)
+  #include "chapters/typ/chapter-14.typ"
+]
 
 #include "chapters/typ/chapter-15.typ"
 
