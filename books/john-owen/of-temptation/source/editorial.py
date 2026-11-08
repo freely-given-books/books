@@ -50,13 +50,17 @@ MACRON_M = {1, 3, 4, 5, 9}
 
 # Gaps (build_tei.py --list): (letters, certainty, evidence). The Greek the TCP could not key
 # is Goold's, and προσέχειν was read on the 1721 page (frame 11); gap 9 (Greek after "lead us
-# not into temptation", p. 34) is in neither 1721 nor Goold and stays open. Gaps 1-5 are in
-# the errata, which the edition does not print.
+# not into temptation", p. 34) is in neither 1721 nor Goold and was read on the 1658 page (the
+# user's scan); the reading text drops it. Gaps 1-5 are in the errata, which the edition does
+# not print.
 GAP_FIXES = {
     0: ("ly", "medium", "seen dayly: Goold and 1721 'daily'", "#editor"),
     6: ("Cor", "high", "margin Heb. 2. 9. Gal. 3. 13. 2 Cor. 5. 21. (Goold, 1721)", "#editor"),
     7: ("ἐμπίπτειν", "high", "Goold; 1 Tim. 6:9", "#editor"),
     8: ("προσέχειν", "high", "1721 page (frame 11), Goold", "#editor"),
+    9: ("ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ", "high",
+        "1658 (user's scan, pdf page 22 = pp. 34-35): ἀλλα ῥῦσαι ἡμᾶς ἀπο | τοῦ πονηροῦ, "
+        "τοῦ and final -οῦ as ligatures, π as ϖ; Matt. 6:13; accents normalized", "#editor"),
     10: ("ἐκ τοῦ πονηροῦ", "high", "Goold", "#editor"),
     11: ("φρουρήσει τὰς καρδίας", "high", "Goold; Phil. 4:7", "#editor"),
     12: ("Φρουρά", "high", "Goold", "#editor"),

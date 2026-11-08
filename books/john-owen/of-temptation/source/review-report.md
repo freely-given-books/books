@@ -240,7 +240,7 @@
 - [chapter-03.typ] to → to “
 - [chapter-03.typ] Matth . → Matt
 - [chapter-03.typ] to → to “
-- [chapter-03.typ] 〈 in non-Latin alphabet 〉 : → 
+- [chapter-03.typ] ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ : → 
 - [chapter-03.typ] so → ;”—“So
 - [chapter-03.typ] Our → ” Our
 - [chapter-03.typ] it → it, Heb 2:18
