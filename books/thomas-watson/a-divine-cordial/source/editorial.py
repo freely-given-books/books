@@ -20,6 +20,9 @@ SMALLCAPS = "smallcaps"
 OPENING_SMALLCAPS = True
 DROP_CAP_CASE = True
 EXPAND_ETC = True
+# The short lists the print sets out as tables (1. The best things. 2. The worst things.)
+# number as the template does, 1. 2. 3.
+TYPST_ENUM = None
 
 # The title page is the print's, not the edition's; the contents index the 1663 pages and the
 # edition's own contents replace it.

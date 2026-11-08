@@ -82,7 +82,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>list[@subtype='printed']: a list printed as one that this edition numbers; the printed numerals are kept in label.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -295,7 +295,7 @@ is matter of comfort<note n="*" place="margin">
          <div n="1" type="chapter">
             <pb n="1" facs="tcp:106271:5"/>
             <head>A DIVINE CORDIAL.</head>
-            <head>CHAP. I. The Proaemium, or Introduction.</head>
+            <head><choice><orig>CHAP. I.</orig><reg resp="#editor" type="emendation"></reg></choice> The Proaemium, or Introduction.</head>
             <epigraph>
                <q>
                   <bibl>
@@ -360,7 +360,7 @@ Christian<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type
                </gap></supplied>it of God, not <choice><orig>onely</orig><reg resp="#auto" type="spelling">only</reg></choice> to <hi>anoint</hi> you, but to <hi>seal</hi> you, 2 <hi ana="#print-only" change="#review">Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>22.</p>
          </div>
          <div n="2" type="chapter">
-            <head>CHAP. II. Containing the grand Proposition.</head>
+            <head><choice><orig>CHAP. II.</orig><reg resp="#editor" type="emendation"></reg></choice> Containing the grand Proposition.</head>
             <p n="2">
                <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. I <choice><orig>Passe</orig><reg resp="#auto" type="spelling">Pass</reg></choice> to the second, the <hi>excellency</hi> of the <choice><orig>Priviledge</orig><reg resp="#auto" type="spelling">Privilege</reg></choice>: <hi>All t<supplied reason="illegible" cert="high" resp="#editor">h<!-- context + OCR: 'All things' --><gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -446,16 +446,16 @@ at the end of the ro<supplied reason="illegible" cert="high" resp="#editor">d<!-
             <p n="1">1. What things work for good to the Godly.</p>
             <p n="2">2. Why all things work for good to the Godly.</p>
             <p n="1">1. What things are they which work for good to the Elect?</p>
-            <list>
-               <item>1. The best things.</item>
-               <item>2. The worst things.<note place="margin">
+            <list type="numbered" subtype="printed" change="#review">
+               <item><label>1.</label> The best things.</item>
+               <item><label>2.</label> The worst things.<note place="margin">
                      <hi>Answ.</hi>
                   </note>
                </item>
             </list>
          </div>
          <div n="3" type="chapter">
-            <head>CHAP. III. <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that the best things work for good to the Godly.</head>
+            <head><choice><orig>CHAP. III.</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that the best things work for good to the Godly.</head>
             <p n="1">1. <seg rend="smallcaps" type="opening"><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice></seg> <hi>best things</hi> work for good to the Godly: There a<supplied reason="illegible" cert="high" resp="#editor">r<!-- context: 'There are eight of these' --><gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap></supplied>e eight of these.<milestone type="tcpmilestone" unit="unspecified" n="1"/>
@@ -467,11 +467,11 @@ at the end of the ro<supplied reason="illegible" cert="high" resp="#editor">d<!-
                <pb n="6" facs="tcp:106271:8"/>
                <hi>glorious</hi> power, <hi ana="#print-only" change="#review">Col<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>11. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> it is engaged for the good of the Elect. Out of this <hi>strong</hi> comes forth <hi>sweetness</hi>
                <note n="*" place="margin"><choice><orig>Judg.</orig><reg resp="#editor" type="emendation">Judge 14:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>14.<choice><orig>14.</orig><reg resp="#editor" type="emendation"></reg></choice></note>. The <hi>Power</hi> of God works for good four <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <list>
-               <item>1. In supporting us in misery.</item>
-               <item>2. In supplying our wants.</item>
-               <item>3. In subduing our corruptions.</item>
-               <item>4. In conquering our enemies.</item>
+            <list type="numbered" subtype="printed" change="#review">
+               <item><label>1.</label> In supporting us in misery.</item>
+               <item><label>2.</label> In supplying our wants.</item>
+               <item><label>3.</label> In subduing our corruptions.</item>
+               <item><label>4.</label> In conquering our enemies.</item>
             </list>
             <p><choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> Power works for good,</p>
             <p n="1">1. In supporting us in misery, <hi ana="#print-only" change="#review">Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 33<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>27. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
@@ -773,7 +773,7 @@ Trade of Prayer driven for him. When he comes into any Town or Corporation, he m
                </gap></supplied>e, others are praying for me, who are quick and lively. Thus the best things work for good to the people of God.</p>
          </div>
          <div n="4" type="chapter">
-            <head>CHAP. IV. <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that the worst things work for good to the Godly.</head>
+            <head><choice><orig>CHAP. IV.</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that the worst things work for good to the Godly.</head>
             <p n="2">2. <seg rend="smallcaps" type="opening"><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice></seg> <hi>worst things</hi> work for good to the <milestone type="tcpmilestone" unit="unspecified" n="2"/> Godly <note n="*" place="margin">
                   <supplied reason="foreign" cert="medium" resp="#editor">καὶ πάντα περιτρέπει ὁ θεὸς εἰς ἀγαθά<!-- 1663 scan 31 margin: read (καὶ as ϗ, θεὸς ligature) --><gap reason="foreign">
                      <desc>〈 in non-Latin alphabet 〉</desc>
@@ -1008,10 +1008,10 @@ Glory. The Limner lays his Gold upon dark colours: So God first lays the dark co
                   </note>. The Devil hath his Circuit, or <choice><orig>Diocess</orig><reg resp="#auto" type="spelling">Diocese</reg></choice>, that he walks every day; he is not yet fully cast into prison, but like a prisoner that goes under Bail, he <hi>walks about</hi> to tempt the Saints. This is a great molestation to a child of God; as it is a trouble to a Virgin to have her chastity daily assaulted. Now concerning <choice><orig>Satans</orig><reg resp="#auto" type="spelling">Satan's</reg></choice>
 <pb n="35" facs="tcp:106271:24"/>
 Temptations, there are three things to be considered:
-<list>
-                     <item>1. His Method in tempting.</item>
-                     <item>2. The Extent of his Power.</item>
-                     <item>3. That these Temptations work for good.</item>
+<list type="numbered" subtype="printed" change="#review">
+                     <item><label>1.</label> His Method in tempting.</item>
+                     <item><label>2.</label> The Extent of his Power.</item>
+                     <item><label>3.</label> That these Temptations work for good.</item>
                   </list>
                </p>
                <p n="1">1. <choice><orig>Satans</orig><reg resp="#auto" type="spelling">Satan's</reg></choice> Method in tempting: Here, take notice of two things. 1. His <hi>Violence</hi> in <milestone type="tcpmilestone" unit="unspecified" n="1"/> tempting, and so he is the <hi>Red Dragon:</hi> He labou<supplied reason="illegible" cert="medium" resp="#editor">rs<!-- 1663 scan 43: 'labou' + two broken letters: 'He labours to storm the Castle' (TCP marks one letter) --><gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1366,7 +1366,7 @@ felt the <choice><orig>terrours</orig><reg resp="#auto" type="spelling">terrors<
             </div>
          </div>
          <div n="5" type="chapter">
-            <head>CHAP. V. <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> the Reason of the Proposition.</head>
+            <head><choice><orig>CHAP. V.</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> the Reason of the Proposition.</head>
             <p><seg rend="smallcaps" type="opening"><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice></seg> grand Reason why all things shall work for good,<note place="margin">
                   <hi>Reason.</hi>
                </note> is the near and dear in<g ref="char:EOLhyphen"/>terest which God hath in his people. The Lord
@@ -1422,7 +1422,7 @@ men, then friends will look upon them, but if there be a Cloud of adversity on t
 The Head is placed for the good of the Body. Christ and the Saints make one Body Mystical. Our Head is in Heaven, and sure he will not suffer his Body to be hurt, but will consult for the safety of it, and make all things work for the good of the Body Mystical.</p>
          </div>
          <div n="6" type="chapter">
-            <head>CHAP. VI. The Inferences drawn from the Proposition. A Use of Information.</head>
+            <head><choice><orig>CHAP. VI.</orig><reg resp="#editor" type="emendation"></reg></choice> The Inferences drawn from the Proposition. A Use of Information.</head>
             <p n="1">1. <seg rend="smallcaps" type="opening">IF</seg> all things work for good, hence learn,<note place="margin">
                   <hi><choice><orig>Vse</orig><reg resp="#editor" type="spelling">Use</reg></choice></hi> of Informa<g ref="char:EOLhyphen"/>tion.</note> That there is a Providence: Things do not work of themselves, but God sets them a working for good.<note place="margin">1 <hi>Branch<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice>
                   </hi>
@@ -1602,19 +1602,19 @@ not I, but the Grace of God which was with me. Constantine</hi> did use to write
          </div>
          <div n="7" type="chapter">
             <head>THE BREATHINGS OF LOVE.</head>
-            <head>CHAP. VII. <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> the Nature, Cause, Kinds, Properties, and Degree of love to God.</head>
+            <head><choice><orig>CHAP. VII.</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> the Nature, Cause, Kinds, Properties, and Degree of love to God.</head>
             <p n="2">2. I Proceed to the second general Branch of the Text, the <hi>Persons</hi> interested in <milestone type="tcpmilestone" unit="unspecified" n="2"/> this <choice><orig>Priviledge</orig><reg resp="#auto" type="spelling">Privilege</reg></choice>, and they are doubly quali<g ref="char:EOLhyphen"/>fied.</p>
             <p n="1">1. They are <hi>Lovers</hi> of God: <hi>All things <milestone type="tcpmilestone" unit="unspecified" n="1"/> work together for good, <supplied reason="foreign" cert="high" resp="#editor">τοῖς ἀγαπῶσι τὸν θεὸν<!-- 1663 scan 91: read, τὸν abbreviated; Rom 8:28 --><gap reason="foreign">
                      <desc>〈 in non-Latin alphabet 〉</desc>
                   </gap></supplied>, to them that love God.</hi> Despisers and Haters of
 <pb n="84" facs="tcp:106271:49"/>
-God, have no <hi>lot</hi> or <hi>part</hi> in this <choice><orig>priviledge</orig><reg resp="#auto" type="spelling">privilege</reg></choice>, it is <hi>childrens bread,</hi> it belongs only to them that <hi>love God.</hi> Because love is the very heart and spirit of Religion, I shall the more expa<g ref="char:EOLhyphen"/>tiate upon this; and for the further discus<g ref="char:EOLhyphen"/>sion of it, I shall <choice><orig>cleer</orig><reg resp="#auto" type="spelling">clear</reg></choice> these five things.</p>
-            <list>
-               <item>1 The Nature of love to God.</item>
-               <item>2 The Ground of love to God.</item>
-               <item>3 The Kinds of love to God.</item>
-               <item>4 The Properties of love to God.</item>
-               <item>5 The Degree of love to God.</item>
+God, have no <hi>lot</hi> or <hi>part</hi> in this <choice><orig>priviledge</orig><reg resp="#auto" type="spelling">privilege</reg></choice>, it is <hi><choice><orig>childrens</orig><reg resp="#editor" type="spelling">children's</reg></choice> bread,</hi> it belongs only to them that <hi>love God.</hi> Because love is the very heart and spirit of Religion, I shall the more expa<g ref="char:EOLhyphen"/>tiate upon this; and for the further discus<g ref="char:EOLhyphen"/>sion of it, I shall <choice><orig>cleer</orig><reg resp="#auto" type="spelling">clear</reg></choice> these five things.</p>
+            <list type="numbered" subtype="printed" change="#review">
+               <item><choice><orig>1</orig><reg resp="#editor" type="emendation"></reg></choice> The Nature of love to God.</item>
+               <item><choice><orig>2</orig><reg resp="#editor" type="emendation"></reg></choice> The Ground of love to God.</item>
+               <item><choice><orig>3</orig><reg resp="#editor" type="emendation"></reg></choice> The Kinds of love to God.</item>
+               <item><choice><orig>4</orig><reg resp="#editor" type="emendation"></reg></choice> The Properties of love to God.</item>
+               <item><choice><orig>5</orig><reg resp="#editor" type="emendation"></reg></choice> The Degree of love to God.</item>
             </list>
             <p n="1">
                <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The <hi>Nature</hi> of divine love. Love is an expansion of soul, or the inflaming of the af<g ref="char:EOLhyphen"/>fections, whereby a Christian breaths after God as the <choice><orig>supream</orig><reg resp="#auto" type="spelling">supreme</reg></choice> and <choice><orig>soveraign</orig><reg resp="#auto" type="spelling">sovereign</reg></choice> good. <choice><abbr>S<hi rend="sup">t</hi></abbr><expan>St</expan></choice> 
@@ -1708,7 +1708,7 @@ to God must be above all other things, as the <choice><orig>Oyl</orig><reg resp=
 room in our affections? <hi>Plutarch</hi> saith, When a Dictator was created in <hi>Rome,</hi> all o<g ref="char:EOLhyphen"/>ther Authority was for the time suspended: So when the love of God bears sway in the heart, all other love is suspended, and is as nothing in comparison of this love.</p>
          </div>
          <div n="8" type="chapter">
-            <head>CHAP. VIII. Containing a sharp Corrective to those that do not love God.</head>
+            <head><choice><orig>CHAP. VIII.</orig><reg resp="#editor" type="emendation"></reg></choice> Containing a sharp Corrective to those that do not love God.</head>
             <p>
                <hi><choice><orig>Vse</orig><reg resp="#auto" type="spelling">Use</reg></choice></hi> 1. <choice><orig>THis</orig><reg resp="#auto" type="spelling">This</reg></choice> may serve for a sharp Repre<g ref="char:EOLhyphen"/>hension to such as have not a dram of love to God in their hearts:<note place="margin">
                   <hi><choice><orig>Vse</orig><reg resp="#editor" type="spelling">Use</reg></choice></hi> 1. Reproof.</note> And are there such Miscreants alive? He who loves not God, <hi>aut lapis est, aut belluae,</hi> he is a Beast with a <choice><orig>mans</orig><reg resp="#auto" type="spelling">man's</reg></choice> head. Oh wretch, Dost thou live upon God every day, yet not love him? If one had a friend that fed him continually with money, and gave him all his allowance, were not he worse than a <hi>Barbarian,</hi> that did not respect and honour that friend? Such a friend is God, he gives thee thy breath, he bestows a liveli<g ref="char:EOLhyphen"/>hood upon thee, and wilt thou not love him? Thou wilt love thy Prince if he saves thy life, and wilt thou not love God who gives thee thy life? What Load-stone so powerful to draw love, as the blessed Deity? He is blind whom
@@ -1731,7 +1731,7 @@ beauty doth not tempt; he is sottish, who is not drawn with the Cords of love. W
          </div>
          <div n="9" type="chapter">
             <pb n="95" facs="tcp:106271:54"/>
-            <head>CHAP. IX. Discovering the Signs, or Fruits of love to God.</head>
+            <head><choice><orig>CHAP. IX.</orig><reg resp="#editor" type="emendation"></reg></choice> Discovering the Signs, or Fruits of love to God.</head>
             <p>
                <hi><choice><orig>Vse</orig><reg resp="#auto" type="spelling">Use</reg></choice></hi> 2. <choice><orig>LEt</orig><reg resp="#auto" type="spelling">Let</reg></choice> us try our selves impartially,<note place="margin">
                   <hi><choice><orig>Vse</orig><reg resp="#editor" type="spelling">Use</reg></choice></hi> 2. <choice><orig>Tryal</orig><reg resp="#editor" type="spelling">Trial</reg></choice>.</note> whether we are in the number of those that love God. For the deciding of this, (our love will be best seen by the Fruits of it) I shall lay down fourteen Signs, or Fruits of love to God, and it concerns us nearly to search, whether any of these Fruits grow in our Garden.</p>
@@ -1836,9 +1836,9 @@ to break my heart; he knows how full I am of bad humors, how sick of a <choice><
                         <desc>•</desc>
                      </gap></supplied>ns<g ref="char:EOLhyphen"/>veharis ad sanctos, in<g ref="char:EOLhyphen"/>seraris inter Angelos.</hi> Austin. de vis. infi<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice>
                </note>? If we love God, we will obey him in those things which <choice><orig>crosse</orig><reg resp="#auto" type="spelling">cross</reg></choice> flesh and blood:
-<list>
-                  <item>1. In things difficult.</item>
-                  <item>2. In things dangerous.</item>
+<list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> In things difficult.</item>
+                  <item><label>2.</label> In things dangerous.</item>
                </list>
             </p>
             <p n="1">1. In <hi>things difficult.</hi> As 1. In mortifying
@@ -1888,7 +1888,7 @@ day bestow two Jewels upon us. 1. His love; a love so great and astonishing, tha
 their rank to be employed in that service, but love made them do it. If we love God we shall not think any work too mean for us, wherein we may be helpful to <choice><orig>Christs</orig><reg resp="#auto" type="spelling">Christ's</reg></choice> Mem<g ref="char:EOLhyphen"/>bers. Love is not <choice><orig>squemish</orig><reg resp="#auto" type="spelling">squeamish</reg></choice>, it will visit the sick, relieve the poor, wash the Saints wounds. The Mother that loves her child, is not coy and nice, she will do those things about her child, which others would scorn to do. He who loves God will humble himself to the meanest office of love to Christ and his Mem<g ref="char:EOLhyphen"/>bers. These are the fruits of love to God. Happy are they, who can find these Out-Lan<g ref="char:EOLhyphen"/>dish Fruits growing in their souls.</p>
          </div>
          <div n="10" type="chapter">
-            <head>CHAP. X. An Exhortation to love God.</head>
+            <head><choice><orig>CHAP. X.</orig><reg resp="#editor" type="emendation"></reg></choice> An Exhortation to love God.</head>
             <p>
                <hi><choice><orig>Vse</orig><reg resp="#auto" type="spelling">Use</reg></choice></hi> 3. <choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice> third Use is of Exhortation,<note place="margin">
                   <hi><choice><orig>Vse</orig><reg resp="#editor" type="spelling">Use</reg></choice></hi> 1. Exhorta<g ref="char:EOLhyphen"/>tion.</note> and it hath three Branches. 1. Let me earnestly <choice><orig>perswade</orig><reg resp="#auto" type="spelling">persuade</reg></choice> all, who bare the name of Christians, to become Lovers of God, <hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="emendation">Ps</reg></choice></hi> 31<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig>33</orig><reg resp="#editor" type="emendation">23</reg></choice>.<note place="margin">1. <hi>Branch</hi>
@@ -2139,7 +2139,7 @@ above all things endeavour to cherish and ex<g ref="char:EOLhyphen"/>cite their 
          <div n="11" type="chapter">
             <pb n="143" facs="tcp:106271:78"/>
             <head>EFFECTUAL CALLING.</head>
-            <head>CHAP. XI. Concerning Effectual Calling.</head>
+            <head><choice><orig>CHAP. XI.</orig><reg resp="#editor" type="emendation"></reg></choice> Concerning Effectual Calling.</head>
             <p><seg rend="smallcaps" type="opening"><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice></seg> second Qualification of the persons to whom this <choice><orig>priviledge</orig><reg resp="#auto" type="spelling">privilege</reg></choice> in the Text be<g ref="char:EOLhyphen"/>longs,<milestone type="tcpmilestone" unit="unspecified" n="2"/> is, They are <hi>the called of God:</hi> All things shall work for good <supplied reason="foreign" cert="high" resp="#editor">τοῖς κλητοῖς<!-- 1663 scan 151: read; Rom 8:28 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
                </gap></supplied>, <hi>to them who are called.</hi> Though this word [<hi>called</hi>] be pla<g ref="char:EOLhyphen"/>ced in <hi>order</hi> after loving of God, yet in <hi>nature</hi> it goes before it: Love is first <hi>named,</hi> but not first <hi>wrought</hi>; we must be <hi>called</hi> of God, before we can <hi>love</hi> God.</p>
@@ -2277,7 +2277,7 @@ their Religion according to the fashion of the times; they are for the <choice><
             </div>
          </div>
          <div n="12" type="chapter">
-            <head>CHAP. XII. Two Inferences drawn from the Proposition.</head>
+            <head><choice><orig>CHAP. XII.</orig><reg resp="#editor" type="emendation"></reg></choice> Two Inferences drawn from the Proposition.</head>
             <p n="1">1. <seg rend="smallcaps" type="opening">IT</seg> <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice> us the necessity of effectual call<g ref="char:EOLhyphen"/>ing; <milestone type="tcpmilestone" unit="unspecified" n="1"/> without it there is no going to
 <pb n="158" facs="tcp:106271:86"/>
 Heaven: We must be <hi>made meet for the inhe<g ref="char:EOLhyphen"/>ritance,</hi> Col<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>12. As God makes Heaven fit for us, so he makes us fit for Heaven; and what gives this idoneity and meetness, but effectu<g ref="char:EOLhyphen"/>al Calling? A man remaining in the filth and rubbish of nature, is no more fit for Heaven, than a dead man is fit to inherit. The <hi>High Calling</hi> is not a thing arbitrary, or indifferent, but as needful as salvation; yet, alas, how is this one thing <choice><orig>needfull</orig><reg resp="#auto" type="spelling">needful</reg></choice> neglected! Most men, like the people of <hi>Israel,</hi> wander up and down <hi>to gather straw,</hi> but mind not evidences of their effectual Calling.</p>
@@ -2314,7 +2314,7 @@ Heaven: We must be <hi>made meet for the inhe<g ref="char:EOLhyphen"/>ritance,</
 you use arguments, and <choice><orig>perswade</orig><reg resp="#auto" type="spelling">persuade</reg></choice> him to go, is that sufficient? <choice><orig>there</orig><reg resp="#auto" type="spelling">There</reg></choice> must be a beating off his fetters, and setting him free, before he can walk: So it is with every natural man, he is fettered with corruption; now the Lord by converting grace must file off his fetters, nay, give him legs to run too, or he can never obtain salvation.</p>
          </div>
          <div n="13" type="chapter">
-            <head>CHAP. XIII. Exhorting to the heavenly Calling.</head>
+            <head><choice><orig>CHAP. XIII.</orig><reg resp="#editor" type="emendation"></reg></choice> Exhorting to the heavenly Calling.</head>
             <p n="2">2. <seg rend="smallcaps" type="opening"><choice><orig>LAbour</orig><reg resp="#auto" type="spelling">Labour</reg></choice></seg> to clear this to your own souls, that you are savingly called, 2 <hi ana="#print-only" change="#review">Pet<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>10.<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
                <hi>Give diligence to make your calling sure.</hi> This <milestone type="tcpmilestone" unit="unspecified" n="1"/> is the great business of our lives, to get sound evidences of our <hi>effectual calling.</hi> Acquiesce not in ou<supplied reason="illegible" cert="high" resp="#editor">t<!-- context: 'outward priviledges' --><gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2425,7 +2425,7 @@ looks upon his <hi>effectual calling</hi> as his <hi>prefer<g ref="char:EOLhyphe
 find that you are effectually called, I have three Exhortations to you.</p>
          </div>
          <div n="14" type="chapter">
-            <head>CHAP. XIV. Three Exhortations to them who are called.</head>
+            <head><choice><orig>CHAP. XIV.</orig><reg resp="#editor" type="emendation"></reg></choice> Three Exhortations to them who are called.</head>
             <p n="1">1. <seg rend="smallcaps" type="opening"><choice><orig>ADmire</orig><reg resp="#auto" type="spelling">Admire</reg></choice></seg> and adore <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> free-grace in calling you; that God should leap o<g ref="char:EOLhyphen"/>ver so many, that he should pass by the wise and noble, and that the lot of free-grace <milestone type="tcpmilestone" unit="unspecified" n="1"/> should fall upon you! That he should take you out of a state of vassalage, from grinding at the <choice><orig>Devils</orig><reg resp="#editor" type="spelling">Devil's</reg></choice> Mill, and should set you above the Princes of the Earth, and call you to inherit the Throne of Glory! <choice><orig>fall</orig><reg resp="#auto" type="spelling">Fall</reg></choice> upon your knees, break forth into a thankful triumph of praise; Let your hearts be ten-stringed In<g ref="char:EOLhyphen"/>struments, to sound forth the memorial of <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> mercy. None so deep in debt to Free-grace as you, and none should be so high moun<g ref="char:EOLhyphen"/>ted upon the <choice><orig>Pinacle</orig><reg resp="#auto" type="spelling">Pinnacle</reg></choice> of thanksgiving. Say as the sweet Singer, <hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 145<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice>2. <hi>I will extol thee, O God my King, every day will I bless thee, and I will praise thy name for ever.</hi> Those who are Patterns of mercy, should be Trumpets of praise. Oh long to be in Heaven, where your thanksgivings shall be purer, and shall be raised a Note higher.</p>
             <p n="2">2. Pity those who are not yet called. Sin<g ref="char:EOLhyphen"/>ners <milestone type="tcpmilestone" unit="unspecified" n="2"/> in Scarlet are not objects of <hi>envy,</hi> but <hi>pity,</hi> they are under <hi>the p<supplied reason="illegible" cert="high" resp="#editor">o<!-- Acts 26:18 'the power of Satan' --><gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2544,7 +2544,7 @@ this cure the trembling of the heart! What though the Sea roar, though the Earth
          <div n="15" type="chapter">
             <pb n="175" facs="tcp:106271:94"/>
             <head><choice><orig>GODS</orig><reg resp="#auto" type="spelling">GOD'S</reg></choice> ETERNAL PURPOSE.</head>
-            <head>CHAP. XV. Concerning <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> Purpose.</head>
+            <head><choice><orig>CHAP. XV.</orig><reg resp="#editor" type="emendation"></reg></choice> Concerning <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> Purpose.</head>
             <p n="3">3. <seg rend="smallcaps" type="opening"><choice><orig>THe</orig><reg resp="#auto" type="spelling">The</reg></choice></seg> third and last thing in the Text, which I shall but briefly glance at, is, The Ground and O<supplied reason="illegible" cert="high" resp="#editor">r<!-- context: 'The Ground and Original' --><gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap></supplied>iginal of our <hi>Effectual Calling,</hi> in these words, <supplied reason="foreign" cert="high" resp="#editor">κατὰ πρόθεσιν<!-- 1663 scan 183: read (κατὰ as the κτ abbreviation, πρό-|θεσιν) --><gap reason="foreign">
@@ -2579,7 +2579,7 @@ this cure the trembling of the heart! What though the Sea roar, though the Earth
 God. <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> Decree gives the casting voice in <choice><orig>mans</orig><reg resp="#auto" type="spelling">man's</reg></choice> salvation.</p>
          </div>
          <div n="16" type="chapter">
-            <head>CHAP. XVI. <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that all must be resolved into <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> purpose.</head>
+            <head><choice><orig>CHAP. XVI.</orig><reg resp="#editor" type="emendation"></reg></choice> <choice><orig>Shewing</orig><reg resp="#auto" type="spelling">Showing</reg></choice> that all must be resolved into <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> purpose.</head>
             <p>
                <note place="margin">
                   <hi><choice><orig>Vse</orig><reg resp="#editor" type="spelling">Use</reg></choice>.</hi> 1.</note><seg rend="smallcaps" type="opening"><choice><orig>LEt</orig><reg resp="#auto" type="spelling">Let</reg></choice></seg> us ascribe the whole work of grace to the pleasure of <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> Will. God did not choose us because we were worthy, but by <choice><orig>chusing</orig><reg resp="#auto" type="spelling">choosing</reg></choice> us makes us worthy. Proud men are apt to assume and arrogate too much to them<g ref="char:EOLhyphen"/>selves in being sharers with God. While many cry out of Church-<choice><orig>sacriledge</orig><reg resp="#auto" type="spelling">sacrilege</reg></choice>, they are in the mean time guilty of a far greater <choice><orig>sa<g ref="char:EOLhyphen"/>criledge</orig><reg resp="#auto" type="spelling">sacrilege</reg></choice>, in robbing God of his glory, while they go to set the <hi>Crown of Salvation</hi> upon their own head: but we must resolve all into <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> <hi>purpose.</hi> The Signs of salvation are in the Saints, but the Cause of salvation is in God. If it be <choice><orig>Gods</orig><reg resp="#auto" type="spelling">God's</reg></choice> purpose that saves, then,</p>

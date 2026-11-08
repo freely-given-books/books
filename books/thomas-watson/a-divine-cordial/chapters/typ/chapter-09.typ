@@ -1,6 +1,6 @@
 == Chapter IX
 
-#align(center)[CHAP. IX. Discovering the Signs, or Fruits of love to God.]
+#align(center)[Discovering the Signs, or Fruits of love to God.]
 
 #emph[Use] 2. Let us try our selves impartially,#footnote[#emph[Use] 2. Trial.] whether we are in the number of those that love God. For the deciding of this, (our love will be best seen by the Fruits of it) I shall lay down fourteen Signs, or Fruits of love to God, and it concerns us nearly to search, whether any of these Fruits grow in our Garden.
 
@@ -52,8 +52,8 @@ If this be to love God, when we love his Image sparkling in the Saints, Oh then,
 
 11\. The eleventh Fruit of love is #emph[Obedience,] John 14:21. #emph[He that hath my Commandments, and keepeth them,] #footnote[11 #emph[Fruit.]] #emph[he it is that loveth me.—Pater adsum, impera quid vis]—#footnote[#emph[Plaut.]]. 'Tis a vain thing to say we love Christ's person, if we slight his Commands. Doth that Child love his Father, who refuseth to obey him #footnote[#emph[Amore Deum. & obedire, duae sunt alae, quibus evoles ad coelos, transveharis ad sanctos, inseraris inter Angelos.] Austin. de vis. infi.]? If we love God, we will obey him in those things which cross flesh and blood:
 
-- 1\. In things difficult.
-- 2\. In things dangerous.
++ In things difficult.
++ In things dangerous.
 
 1\. In #emph[things difficult.] As 1. In mortifying sin. There are some sins which are not only near to us as the garment, but dear to us as the eye; if we love God, we will set our selves against these, both in purpose and practise. 2. In forgiving our enemies. God commands us upon pain of death to forgive, Eph 4:32. #emph[Forgiving one another] #footnote[πρὸς τὸν ἐχθρὸν μηδέποτε ἀπεχθῶς ἔχε.]. This is hard, 'tis crossing the stream; we are apt to forget kindnesses, and remember injuries; but if we love God, we will pass by offences. When we seriously consider how many Talents God hath forgiven us, how many affronts and indignations he hath put up at our hands, this makes us write after his Copy, and endeavour rather to bury an injury, than retaliate it.
 

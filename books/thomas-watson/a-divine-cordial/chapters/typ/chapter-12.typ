@@ -1,6 +1,6 @@
 == Chapter XII
 
-#align(center)[CHAP. XII. Two Inferences drawn from the Proposition.]
+#align(center)[Two Inferences drawn from the Proposition.]
 
 1\. #smallcaps[IT] shows us the necessity of effectual calling; without it there is no going to Heaven: We must be #emph[made meet for the inheritance,] Col 1:12. As God makes Heaven fit for us, so he makes us fit for Heaven; and what gives this idoneity and meetness, but effectual Calling? A man remaining in the filth and rubbish of nature, is no more fit for Heaven, than a dead man is fit to inherit. The #emph[High Calling] is not a thing arbitrary, or indifferent, but as needful as salvation; yet, alas, how is this one thing needful neglected! Most men, like the people of #emph[Israel,] wander up and down #emph[to gather straw,] but mind not evidences of their effectual Calling.
 

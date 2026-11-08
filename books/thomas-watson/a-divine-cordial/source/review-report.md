@@ -4,9 +4,10 @@
 | --- | --- |
 | punctuation | 652 |
 | italic | 350 |
-| emendation | 165 |
-| spelling | 125 |
+| emendation | 186 |
+| spelling | 126 |
 | spacing | 10 |
+| list | 5 |
 | gap | 3 |
 | skipped | 1 |
 
@@ -25,11 +26,14 @@
 - [to-the-reader.typ note] 4 . → 
 - [to-the-reader.typ note] King → Kgs
 - [to-the-reader.typ note] Psal . → Ps
+- [chapter-01.typ] CHAP . I . → 
 - [chapter-01.typ] ROM . → Rom
+- [chapter-02.typ] CHAP . II . → 
 - [chapter-02.typ] Tex ▪ → Text
 - [chapter-02.typ] Psal . → Ps
 - [chapter-03.typ note] Judg . → Judge 14:
 - [chapter-03.typ note] 14 . → 
+- [chapter-03.typ] CHAP . III . → 
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Chron . → Chr
 - [chapter-03.typ] Psal . → Ps
@@ -66,6 +70,7 @@
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
 - [chapter-04.typ note] estpeccatum → est peccatum
 - [chapter-04.typ note] temporecum → tempore cum
+- [chapter-04.typ] CHAP . IV . → 
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Joh . → John
@@ -90,6 +95,7 @@
 - [chapter-04.typ] Pro . → Prov
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . 15 . → Ps 51:
+- [chapter-05.typ] CHAP . V . → 
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Ephes . → Eph
@@ -100,6 +106,7 @@
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] 9 → 4
+- [chapter-06.typ] CHAP . VI . → 
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
@@ -113,6 +120,12 @@
 - [chapter-06.typ] Chap . → Chapter
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Cant . → Song
+- [chapter-07.typ] CHAP . VII . → 
+- [chapter-07.typ] 1 → 
+- [chapter-07.typ] 2 → 
+- [chapter-07.typ] 3 → 
+- [chapter-07.typ] 4 → 
+- [chapter-07.typ] 5 → 
 - [chapter-07.typ] Psal . → Ps
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Psal . → Ps
@@ -128,7 +141,9 @@
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Luk . → Luke
 - [chapter-08.typ note] Psal . → Ps
+- [chapter-08.typ] CHAP . VIII . → 
 - [chapter-09.typ note] Act . → Acts
+- [chapter-09.typ] CHAP . IX . → 
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
@@ -142,6 +157,7 @@
 - [chapter-09.typ] Cant . → Song
 - [chapter-09.typ] Revel . → Rev
 - [chapter-10.typ note] vicemrependere → vicem rependere
+- [chapter-10.typ] CHAP . X . → 
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] 33 → 23
 - [chapter-10.typ] Chron . → Chr
@@ -159,6 +175,7 @@
 - [chapter-10.typ] 5 . → 
 - [chapter-10.typ] Vers . → Verse
 - [chapter-10.typ] Mat . → Matt
+- [chapter-11.typ] CHAP . XI . → 
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Ephes . → Eph
 - [chapter-11.typ] be → he
@@ -175,16 +192,21 @@
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
 - [chapter-11.typ] I → Ay
+- [chapter-12.typ] CHAP . XII . → 
 - [chapter-13.typ note] Psal . → Ps
 - [chapter-13.typ note] Numb . → Num
+- [chapter-13.typ] CHAP . XIII . → 
 - [chapter-13.typ] Ephes . → Eph
 - [chapter-13.typ] a → 
 - [chapter-13.typ] Psal . → Ps
+- [chapter-14.typ] CHAP . XIV . → 
 - [chapter-14.typ] Psal . → Ps
 - [chapter-14.typ] Ephes . → Eph
 - [chapter-14.typ] Eccles . → Eccl
 - [chapter-15.typ note] Signifaeternum → Signif. aeternum
 - [chapter-15.typ note] Ans Im → Anselm
+- [chapter-15.typ] CHAP . XV . → 
+- [chapter-16.typ] CHAP . XVI . → 
 - [chapter-16.typ] Ephes . → Eph
 - [chapter-16.typ] Thes . → Thess
 
@@ -880,6 +902,7 @@
 - biter → bitter
 - boby → body
 - buring → burying
+- childrens → children's
 - coetinguiuntur → extinguuntur
 - cognitione → cognition
 - condemn'd → condemned

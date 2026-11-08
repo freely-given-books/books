@@ -1,6 +1,6 @@
 == Chapter VIII
 
-#align(center)[CHAP. VIII. Containing a sharp Corrective to those that do not love God.]
+#align(center)[Containing a sharp Corrective to those that do not love God.]
 
 #emph[Use] 1. This may serve for a sharp Reprehension to such as have not a dram of love to God in their hearts:#footnote[#emph[Use] 1. Reproof.] And are there such Miscreants alive? He who loves not God, #emph[aut lapis est, aut belluae,] he is a Beast with a man's head. Oh wretch, Dost thou live upon God every day, yet not love him? If one had a friend that fed him continually with money, and gave him all his allowance, were not he worse than a #emph[Barbarian,] that did not respect and honour that friend? Such a friend is God, he gives thee thy breath, he bestows a livelihood upon thee, and wilt thou not love him? Thou wilt love thy Prince if he saves thy life, and wilt thou not love God who gives thee thy life? What Load-stone so powerful to draw love, as the blessed Deity? He is blind whom beauty doth not tempt; he is sottish, who is not drawn with the Cords of love. When the body is cold, and hath no heat in it, it is a sign of death: That man is dead, who hath no heat of love in his soul to God. How can he expect love from God, who shows no love to him? Will God ever lay such a Viper in his bosom, as spits forth the poison of malice and enmity against him?
 

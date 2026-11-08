@@ -1,6 +1,6 @@
 == Chapter XIV
 
-#align(center)[CHAP. XIV. Three Exhortations to them who are called.]
+#align(center)[Three Exhortations to them who are called.]
 
 1\. #smallcaps[Admire] and adore God's free-grace in calling you; that God should leap over so many, that he should pass by the wise and noble, and that the lot of free-grace should fall upon you! That he should take you out of a state of vassalage, from grinding at the Devil's Mill, and should set you above the Princes of the Earth, and call you to inherit the Throne of Glory! Fall upon your knees, break forth into a thankful triumph of praise; Let your hearts be ten-stringed Instruments, to sound forth the memorial of God's mercy. None so deep in debt to Free-grace as you, and none should be so high mounted upon the Pinnacle of thanksgiving. Say as the sweet Singer, Ps 145:2. #emph[I will extol thee, O God my King, every day will I bless thee, and I will praise thy name for ever.] Those who are Patterns of mercy, should be Trumpets of praise. Oh long to be in Heaven, where your thanksgivings shall be purer, and shall be raised a Note higher.
 

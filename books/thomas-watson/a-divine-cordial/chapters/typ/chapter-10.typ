@@ -1,6 +1,6 @@
 == Chapter X
 
-#align(center)[CHAP. X. An Exhortation to love God.]
+#align(center)[An Exhortation to love God.]
 
 #emph[Use] 3. The third Use is of Exhortation,#footnote[#emph[Use] 1. Exhortation.] and it hath three Branches. 1. Let me earnestly persuade all, who bare the name of Christians, to become Lovers of God, Ps 31:23.#footnote[1\. #emph[Branch]] #emph[O love the Lord all ye his Saints.] There are but few that love God: Many give him an hypocritical kiss, but few love him. 'Tis not so easy to love God as most imagine. The #emph[Affection] of love is natural, but the #emph[Grace] is not. Men are by nature θεοστυγεῖς #emph[God-haters,] Rom 1:30. The wicked would fly from God; they would neither be under his rules, nor within his reach; they #emph[fear] God, but do not love him. All the strength in men or Angels, cannot make the heart love God: Ordinances will not do it of themselves, nor Judgements; it is only the Almighty and Invincible power of the Spirit of God can infuse love into the soul; this being so hard a work, it calls upon us for the more earnest prayer and endeavour after this Angelical grace of love #footnote[#emph[Impium est Deum non diligere, cui vicem rependere non possumus, etiamsi diligamus.] Austin]. To excite and inflame our desires after it, I shall prescribe twenty Motives.
 

@@ -1,6 +1,6 @@
 == Chapter IV
 
-#align(center)[CHAP. IV. Showing that the worst things work for good to the Godly.]
+#align(center)[Showing that the worst things work for good to the Godly.]
 
 2\. #smallcaps[The] #emph[worst things] work for good to the Godly #footnote[καὶ πάντα περιτρέπει ὁ θεὸς εἰς ἀγαθά. #emph[Aecumon.]]. Mistake me not, I do not say of their own nature they are good #footnote[Evil things in their own nature, do not cooperate, but contra-operate.], for they are a fruit of the curse; but though they are #emph[naturally] evil, yet they are #emph[morally] good, the wise over-ruling hand of God disposing and sanctifying. As the Elements, though of contrary qualities, yet God hath so tempered them, that they all work in an harmonious manner, for the good of the Universe. Or as in a Watch, the wheels seem to move contrary one to another, but all carry on the motion of the Watch, and help to make the Alarum strike: So things that seem to move cross to the Godly, yet by the wonderful Providence of God work for their good. Among these κάκιστα worst things, there are four sad evils work for good to them that love God.
 
@@ -46,9 +46,9 @@ God would have the world hang as a loose Tooth, which being twitched away, doth 
 
 2\. #smallcaps[The] evil of Temptation works for good. Satan is called ὁ πειράζων, the #emph[Tempter,] Mark 4:3. He is ever lying in ambush, #emph[stat in procinctu Diabolus]\; he is continually at work with one Saint or other #footnote[ὁ διάβολος ἐπιθηρᾶται πλέον, ὅταν ἴδῃ τὰ φορτία τῆς ἀρετῆς συγκείμενα, καὶ πολὺν τὸν ὄγκον. #emph[Chrysost.]]. The Devil hath his Circuit, or Diocese, that he walks every day; he is not yet fully cast into prison, but like a prisoner that goes under Bail, he #emph[walks about] to tempt the Saints. This is a great molestation to a child of God; as it is a trouble to a Virgin to have her chastity daily assaulted. Now concerning Satan's Temptations, there are three things to be considered:
 
-- 1\. His Method in tempting.
-- 2\. The Extent of his Power.
-- 3\. That these Temptations work for good.
++ His Method in tempting.
++ The Extent of his Power.
++ That these Temptations work for good.
 
 1\. Satan's Method in tempting: Here, take notice of two things. 1. His #emph[Violence] in tempting, and so he is the #emph[Red Dragon:] He labours to storm the Castle of the heart, he throws in thoughts of blasphemy, he tempts to deny God; these are the #emph[fiery Darts] he shoots, whereby he would inflame the passions.
 
