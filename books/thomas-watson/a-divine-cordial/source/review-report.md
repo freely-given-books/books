@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 653 |
+| punctuation | 654 |
 | italic | 350 |
 | emendation | 186 |
-| spelling | 126 |
-| spacing | 10 |
+| spelling | 129 |
+| spacing | 13 |
 | list | 10 |
 | gap | 3 |
 | skipped | 1 |
@@ -570,6 +570,7 @@
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → :
@@ -880,8 +881,11 @@
 - God's → gods (×2)
 - Jacobs → Jacob's (×2)
 - animae → anima (×2)
+- 1 → 1:
+- 14 → 14:
 - 2 → 2:
 - 25 → 2:5
+- 37 → 37:
 - Animae → Anima
 - Bee → Be
 - Brethreo → Brethren
