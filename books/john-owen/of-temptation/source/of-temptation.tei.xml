@@ -94,7 +94,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-05" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-08" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2007-06</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1241,9 +1241,9 @@ us from it<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></c
             <p xml:id="rb31" prev="#rb30" change="#review" next="#rb32">The <choice><orig>laſt</orig><reg resp="#auto" type="spelling">last</reg></choice> words <choice><orig>are</orig><reg resp="#editor" type="spelling">are,</reg></choice> as it <choice><orig>were</orig><reg resp="#editor" type="spelling">were,</reg></choice> <hi ana="#print-only" change="#review"><choice><orig>exege<g ref="char:EOLhyphen"/>ticall</orig><reg resp="#auto" type="spelling">exegetical</reg></choice>,</hi>
 or <hi ana="#print-only" change="#review"><choice><orig>expoſitory</orig><reg resp="#auto" type="spelling">expository</reg></choice></hi> of the former<choice><orig>;</orig><reg resp="#editor" type="punctuation">:</reg></choice> <hi ana="#print-only" change="#review"><choice><orig>lead</orig><reg resp="#editor" type="spelling">“Lead</reg></choice>
 us not into temptation,</hi> 
-               <choice><orig><gap reason="foreign">
+               <choice><orig><supplied reason="foreign" cert="high" resp="#editor">ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ<!-- 1658 (user's scan, pdf page 22 = pp. 34-35): ἀλλα ῥῦσαι ἡμᾶς ἀπο | τοῦ πονηροῦ, τοῦ and final -οῦ as ligatures, π as ϖ; Matt. 6:13; accents normalized --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>:</orig><reg resp="#editor" type="emendation"></reg></choice>
+               </gap></supplied>:</orig><reg resp="#editor" type="emendation"></reg></choice>
 <hi ana="#print-only" change="#review">but deliver us from the <choice><orig>evill</orig><reg resp="#auto" type="spelling">evil</reg></choice><choice><orig>:</orig><reg resp="#editor" type="punctuation"></reg></choice></hi><choice><orig>
 </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>ſo</orig><reg resp="#editor" type="emendation">;”—“So</reg><reg resp="#auto" type="spelling">so</reg></choice> <choice><orig>deale</orig><reg resp="#auto" type="spelling">deal</reg></choice> with us<choice><orig>,</orig><reg resp="#editor" type="punctuation"></reg></choice> that we may be pow<g ref="char:EOLhyphen"/>erfully
 delivered from that <hi ana="#print-only" change="#review"><choice><orig>evill</orig><reg resp="#auto" type="spelling">evil</reg></choice></hi> which
