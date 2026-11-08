@@ -2,7 +2,9 @@
 # ChatGPT, 2026-11-08) hand-tinted, after the cover-design skill's tint_example.py.
 # The washes follow the bottle's own outline, read from the line row by row; the
 # rows are in the source's 1024x1536 coordinates.
-# Usage: python3 tint.py art/cordial-original.png art/plate.jpg
+# Usage: python3 tint.py art/cordial-original.png art/plate.jpg "#CFE0DC" "#B9CFCA"
+# The two colours are the ground behind the bottle, head and foot (the cover's teal;
+# left out, a warm paper).
 
 """Hand-tint the cordial bottle: a warm amber cordial, faintly green glass, a
 cream paper cap tied with brown string, the line multiplied over the washes."""
@@ -46,10 +48,15 @@ def ellipse(cx, cy, rx, ry, blur):
     ImageDraw.Draw(m).ellipse([(cx - rx) * k, (cy - ry) * k, (cx + rx) * k, (cy + ry) * k], fill=255)
     return m.filter(ImageFilter.GaussianBlur(blur * k))
 
-# warm paper, a little deeper toward the foot
-paper = Image.new("RGB", (W, H), (245, 239, 225))
+# the ground, a little deeper toward the foot
+def hexrgb(h):
+    h = h.lstrip("#")
+    return tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
+
+TOP, FOOT = (hexrgb(a) for a in sys.argv[3:5]) if len(sys.argv) > 4 else ((245, 239, 225), (238, 229, 210))
+paper = Image.new("RGB", (W, H), TOP)
 g = Image.linear_gradient("L").resize((W, H))
-paper = Image.composite(Image.new("RGB", (W, H), (238, 229, 210)), paper, g)
+paper = Image.composite(Image.new("RGB", (W, H), FOOT), paper, g)
 
 # the table's shadow under the bottle
 paper = wash(paper, (150, 130, 100), ellipse(506, 1218, 175, 14, 10), 0.35)

@@ -7,14 +7,16 @@
 // take now & then a little of this Cordial" (To the Reader): an apothecary's
 // bottle, its cork tied over with paper, half full. An engraving made for
 // this edition (art/cordial-original.png), hand-tinted by art/tint.py: amber
-// cordial, faintly green glass, cream paper cap. The back carries the
+// cordial, faintly green glass, cream paper cap, on a soft teal ground. The back carries the
 // epistle's promise.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-// the spine and back: the plate's own warm paper, deepening toward the foot
-#let ground = ((rgb("#F5EFE1"), 0%), (rgb("#EEE5D2"), 100%))
+//
+// the spine and back: the plate's own teal ground, deepening toward the foot (the
+// editor chose it over sage, 2026-11-08: the amber cordial glows against it)
+#let ground = ((rgb("#CFE0DC"), 0%), (rgb("#B9CFCA"), 100%))
 
 #plate-cover(
   plate: read("art/plate.jpg", encoding: none),
@@ -22,7 +24,7 @@
   // the table's edge above the seal
   plate-at: (dx: -0.85in, dy: -2in, width: 7.2in, height: 10.8in),
   ground: ground,
-  front-ground: rgb("#EEE5D2"),
+  front-ground: rgb("#B9CFCA"),
   seal: press-seal,
   title: [A Divine],
   tail: [Cordial],
