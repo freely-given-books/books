@@ -501,6 +501,7 @@ GAP_FIXES = {
     493: ('t', 'high', "context: 'Citizens'", '#editor'),
     494: ('r', 'high', "context: 'you are heirs to all the plagues'", '#editor'),
     495: ('1', 'high', "Luke 19:27 'But those mine enemies which would not that I should reign over them'", '#editor'),
+    496: ('μήτε ὁ πρὸς τὸν πυθμένα τῆς κακίας κατελθὼν ἀπελπιζέτω ἑαυτοῦ τὴν σωτηρίαν', 'medium', '1663 scan 168 margin, stained: read (μήτε ὁ|πρὸς τ̃ πυ-|θμένα τ̃|κακίας κα-|τελθὼν ἀ-|πελπιζέτω|ἑαυτῦ τ̃|σωτηρίαν; τὸν, τῆς, τὴν abbreviated); the 1678 note (scan 169) reads the same, clearer; Chrysostom, the passage not found', '#editor'),
     497: ('e', 'high', "context: 'Duties of Piety'", '#editor'),
     498: ('θαυμαστὸν φῶς', 'high', '1663 scan 170: read (θαυ-|μαστὸν φῶς); 1 Pet 2:9', '#editor'),
     499: ('θαυμαστὸν', 'high', '1663 scan 171 margin: read', '#editor'),

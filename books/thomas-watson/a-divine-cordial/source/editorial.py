@@ -59,7 +59,7 @@ MACRON_M = {0}
 
 # Gaps (build_tei.py --list): every illegible letter, the Greek and Hebrew the TCP could not
 # key and the words lost to blots, read from the 1663 page images or the 1678 edition; see
-# gap_fixes.py. Gap 496 (p. 161, an eight-line Greek margin note, stained) stays open.
+# gap_fixes.py. Gap 496 (p. 161, an eight-line Greek margin note, stained) is read with the 1678.
 GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
 
 # Watson's 1663 spellings the shared tables leave (spelling.py): letters only, the word stays his

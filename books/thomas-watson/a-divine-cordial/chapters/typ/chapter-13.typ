@@ -10,7 +10,7 @@
 
 #emph[Quest.] 1. But is there any hope of my being called? I have been a great sinner.
 
-#emph[Answ.] Great sinners have been called. #emph[Paul] was as bloody a persecutor, as ever #emph[Domitian] or #emph[Julian]\; yet he was called #footnote[〈 in non-Latin alphabet 〉. #emph[Chrysost.]]. Some of the Jews, who had an hand in crucifying Christ, were called. God loves to display the Flag of Free-grace to sinners. Therefore be not discouraged; you see a golden Cord let down from Heaven, for poor trembling souls to lay hold upon.
+#emph[Answ.] Great sinners have been called. #emph[Paul] was as bloody a persecutor, as ever #emph[Domitian] or #emph[Julian]\; yet he was called #footnote[μήτε ὁ πρὸς τὸν πυθμένα τῆς κακίας κατελθὼν ἀπελπιζέτω ἑαυτοῦ τὴν σωτηρίαν. #emph[Chrysost.]]. Some of the Jews, who had an hand in crucifying Christ, were called. God loves to display the Flag of Free-grace to sinners. Therefore be not discouraged; you see a golden Cord let down from Heaven, for poor trembling souls to lay hold upon.
 
 #emph[Quest.] 2. But how shall I know that I am #emph[effectually called?]
 
