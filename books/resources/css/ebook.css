@@ -149,3 +149,16 @@ table.parallel span.num { display: inline-block; min-width: 1.4em; }
 #front .imprint img.licence { width: 40%; max-width: 12em; }
 #front .imprint p.site { letter-spacing: 0.05em; font-size: 1em; }
 #front .imprint p.contact { font-size: 0.75em; }
+
+/* A paragraph set in by its place in the author's numbered outline
+   (p[@rend="levelN"], colophon 0.41.0): 2em a level, as in print */
+p.level1 { margin-left: 2em; }
+p.level2 { margin-left: 4em; }
+p.level3 { margin-left: 6em; }
+p.level4 { margin-left: 8em; }
+p.level5 { margin-left: 10em; }
+/* a list under such a paragraph: one level below it */
+ol.level2 { margin-left: 4em; }
+ol.level3 { margin-left: 6em; }
+ol.level4 { margin-left: 8em; }
+ol.level5 { margin-left: 10em; }

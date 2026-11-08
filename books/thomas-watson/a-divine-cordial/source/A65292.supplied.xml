@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected to the 1663
+  print as the source is read (colophon/sources.py); the TCP file itself is
+  untouched.  Each was read on the 1663 page image (scan page numbers as in
+  work/a-divine-cordial/ocr-1663) before it was put here.
+
+  fix/@pb: the printed page.  before + tcp + after: the transcription's text
+  there (in one text node; any white space matches any white space), found
+  exactly once on that page.  print: what is printed in place of tcp (empty
+  tcp: words the transcription left out); white space at its ends stays
+  outside the seg.  evidence: kept in a comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected to the 1663
+    print (archive.org bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663),
+    each read on the page image.</desc>
+    <fix pb="27" before="ever" tcp="fightly" print="rightly" after="understand"
+         evidence="p. 27 (scan 35): 'never rightly understand', the r damaged"/>
+    <fix pb="39" before="and turn" tcp="out" print="our" after="back upon it"
+         evidence="p. 39 (scan 47): 'and turn our back upon it'"/>
+    <fix pb="32" before="ad Deum ire" tcp="pogunt." print="cogunt."
+         evidence="p. 32 (scan 40), margin: 'premunt ad Deum ire cogunt.'"/>
+    <fix pb="55" before="hacknying" tcp="our" print="out" after="themselves"
+         evidence="p. 55 (scan 63): 'hacknying out themselves in the Devils service'"/>
+    <fix pb="63" before="peccati" tcp="on" print="con"
+         evidence="p. 63 (scan 71), margin: 'peccati con-flictatur'"/>
+    <fix pb="154" before="certe quod" tcp="muliae" print="multae" after="gentes"
+         evidence="p. 154 (scan 162), margin: 'quod multæ gentes'"/>
+    <fix pb="16" tcp="sted" print="cted"
+         evidence="p. 16 (scan 24; Kraken 'dejected'): 'comfort a deje-cted soul', the ct ligature"/>
+  </corrections>
+</supplement>
