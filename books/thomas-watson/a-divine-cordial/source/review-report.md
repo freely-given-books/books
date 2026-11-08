@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | punctuation | 652 |
-| italic | 348 |
-| emendation | 163 |
-| spelling | 112 |
-| spacing | 7 |
+| italic | 350 |
+| emendation | 165 |
+| spelling | 117 |
+| spacing | 10 |
 | gap | 3 |
 | skipped | 1 |
 
@@ -156,6 +156,7 @@
 - [chapter-10.typ] Thes . → Thess
 - [chapter-10.typ] Thes . → Thess
 - [chapter-10.typ] Psal . → Ps
+- [chapter-10.typ] 5 . → 
 - [chapter-10.typ] Vers . → Verse
 - [chapter-10.typ] Mat . → Matt
 - [chapter-11.typ] Mat . → Matt
@@ -170,6 +171,7 @@
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Joh . → John
 - [chapter-11.typ] of → 
+- [chapter-11.typ] Iam → Ja
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
 - [chapter-11.typ] I → Ay
@@ -688,8 +690,7 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 5:
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
@@ -739,6 +740,7 @@
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
+- [chapter-11.typ] . → s
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
@@ -854,6 +856,8 @@
 - Spirits → Spirit's (×3)
 - Jacobs → Jacob's (×2)
 - animae → anima (×2)
+- 2 → 2:
+- 25 → 2:5
 - Animae → Anima
 - Bee → Be
 - Brethreo → Brethren
@@ -872,6 +876,7 @@
 - amore → amor
 - augmention → augmentation
 - being → bring
+- biter → bitter
 - boby → body
 - buring → burying
 - coetinguiuntur → extinguuntur
@@ -884,6 +889,7 @@
 - east → cast
 - epum → opum
 - excellenty → excellency
+- favoured → savoured
 - fragant → fragrant
 - gracen → grace
 - jucundiffimus → jucundissimus
@@ -907,6 +913,7 @@
 - unfavoury → unsavoury
 - unkindnesses → unkindness
 - whrewith → wherewith
+- woes → woos
 - wordly → worldly
 - yo → you
 
