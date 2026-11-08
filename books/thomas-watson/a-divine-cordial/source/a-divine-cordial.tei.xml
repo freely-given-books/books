@@ -82,7 +82,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -112,7 +112,8 @@
          <change>
             <date>2004-04</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
-      </revisionDesc>
+      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected to the 1663 print (archive.org bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663), each read on the page image.</change>
+</revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
       <front>
@@ -833,7 +834,7 @@ bound in Chains, this was sad to see a Crown of Gold changed into Fetters; but i
                   <note n="*" place="margin">
                      <hi>Cum vi<g ref="char:EOLhyphen"/>bices dorso meo impri<g ref="char:EOLhyphen"/>meres, prae<g ref="char:EOLhyphen"/>cepta tua cordi meo insculpsisti.</hi> Rivet. in Psal.</note>. <hi>Luther</hi> saith, he could <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ever fightly understand some of the <hi>Psalms,</hi> 
+                  </gap>ever <seg type="transcription" change="#tcp-corrections">rightly<!-- the transcription has 'fightly'; p. 27 (scan 35): 'never rightly understand', the r damaged --></seg> understand some of the <hi>Psalms,</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ill he was in affliction. Affliction teacheth <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -970,7 +971,7 @@ they have thought themselves in the borders of the Heavenly <hi>Canaan</hi>; the
                   </gap>k Christ. Thus af<g ref="char:EOLhyphen"/>fliction makes us happy in bringing us nearer to God <note n="*" place="margin">
                      <hi>Mala quae hic nos pre<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
-                        </gap>unt ad Deum ire pogunt.</hi>
+                        </gap>unt ad Deum ire <seg type="transcription" change="#tcp-corrections">cogunt.<!-- the transcription has 'pogunt.'; p. 32 (scan 40), margin: 'premunt ad Deum ire cogunt.' --></seg></hi>
                   </note>. Fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>h can make use of the waters of <gap reason="illegible" resp="#PDCC" extent="2 letters">
