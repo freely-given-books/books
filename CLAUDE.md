@@ -6,6 +6,10 @@ EEBO-TCP `A09377`) and *The Anatomy of Simon Magus* (1700, `A25330`, a
 heavily edited edition brought into the pipeline after it was finished).
 Read this before starting a new book from the same kind of source.
 
+**`EDITION-RULES.md` holds the press's standing decisions** (the base, the as-printed layer, the
+reading edition, typesetting, what still goes to the editor). Follow it without asking; a new
+question, once the editor answers it, becomes a rule there.
+
 The tools are **colophon**, the `colophon/` submodule
 (github.com/freely-given-books/colophon): its architecture, the TEI
 encodings, book settings and the lessons learned building it are in

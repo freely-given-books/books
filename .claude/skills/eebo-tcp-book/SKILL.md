@@ -470,17 +470,12 @@ images, a full proofread) go to subagents:
 
 ## Decide vs ask
 
-Decide yourself: n/m macrons and gaps that context settles (with evidence
-notes), mechanical fixes, anything `verify.py` can prove.
-Ask the user: the book's division structure and file names, which text is
-the base (TCP or CCEL, which edition), gaps that need a page image you
-couldn't get, anything that changes their reviewed text on purpose
-(restoring cut passages, undoing a modernization), what to leave out,
-`MANUAL` entries that could be context-dependent, and the editor credit
-(`build_tei.py --editor`, default "Courtney Allen Hicks").
+`EDITION-RULES.md` at the repository root is the rulebook: follow it without asking. Its last
+section lists the only things that stop a book for the editor (a real choice of base, the batch
+of wording changes, grammar modernization, the cover colour, sign-off). Everything else you
+decide, with evidence notes: macrons and gaps (read from the page images), keying slips, layout by
+the house typesetting rules, mechanical fixes, anything `verify.py` can prove.
 
-The user's standing preferences: editions now are *lightly* modernized (a
-separate, more modern edition may come later from the same TEI), so don't
-sweep for archaic grammar unless asked; clear slips are fixed and reported;
-a book's deliberate choices stand (Edwards quotes the BSB). Report what you
+When something comes up that the rules do not cover, ask once, then add the answer to
+`EDITION-RULES.md` in the same branch, so the next book does not ask again. Report what you
 fixed in plain words, with examples.
