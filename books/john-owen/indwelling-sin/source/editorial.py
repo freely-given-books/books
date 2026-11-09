@@ -53,6 +53,6 @@ def LAYOUT(root):
 
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "Indwelling Sin", "author": "John Owen",
-        "file": "indwelling-sin.epub", "front": "ebook-front.html", "toc_depth": 4,
+        "file": "indwelling-sin.epub", "front": "ebook-front.html", "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["indwelling-sin.typ"]
