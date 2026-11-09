@@ -3,13 +3,13 @@
 | kind | count |
 | --- | --- |
 | spelling | 812 |
-| punctuation | 750 |
-| italic | 435 |
-| spacing | 401 |
-| emendation | 384 |
+| punctuation | 756 |
+| italic | 443 |
+| spacing | 404 |
+| emendation | 388 |
 | level | 207 |
 | grammar | 32 |
-| case | 27 |
+| case | 29 |
 | inset | 17 |
 | heading | 16 |
 | gap | 5 |
@@ -190,6 +190,7 @@
 - [chapter-07.typ] Ephes . → Eph
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
+- [chapter-07.typ] His . → Hos
 - [chapter-07.typ] it self → itself
 - [chapter-08.typ] Jam . → Jas
 - [chapter-08.typ] it self → itself
@@ -206,6 +207,7 @@
 - [chapter-08.typ] for saken → forsaken
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] Luk . → Luke
+- [chapter-08.typ] Epist . → Pet
 - [chapter-08.typ] Tit . → Titus
 - [chapter-08.typ] Ephes . → Eph
 - [chapter-08.typ] it self → itself
@@ -220,6 +222,7 @@
 - [chapter-09.typ] When ever → Whenever
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] vers → v
 - [chapter-09.typ] What ever → Whatever
 - [chapter-09.typ] what ever → whatever
@@ -264,6 +267,7 @@
 - [chapter-10.typ] King . → Kgs
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
+- [chapter-10.typ] Dent . → Deut
 - [chapter-10.typ] & c → etc
 - [chapter-10.typ] ver → vv
 - [chapter-10.typ] it self → itself
@@ -675,6 +679,7 @@
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
@@ -728,6 +733,7 @@
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
 - [chapter-08.typ] ▪ → ;
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
@@ -750,6 +756,7 @@
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
+- [chapter-09.typ] . → ,
 - [chapter-09.typ] ▪ → ,
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
@@ -841,6 +848,7 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
@@ -903,6 +911,8 @@
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
@@ -1187,8 +1197,10 @@
 - He → he (×2)
 - Colt → colt
 - Come → come
+- Designing → designing
 - For → for
 - Is → is
+- Laying → laying
 - Or → or
 - Takes → takes
 - Those → those
