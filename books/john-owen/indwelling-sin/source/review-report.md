@@ -2,10 +2,33 @@
 
 | kind | count |
 | --- | --- |
+| spelling | 658 |
 | level | 207 |
 | punctuation | 27 |
 | inset | 17 |
 | heading | 16 |
+| grammar | 10 |
+| emendation | 3 |
+| gap | 1 |
+
+## gap
+
+- [chapter-02.typ] medling → meddling
+
+## emendation
+
+- [chapter-01.typ] hood - winkt → hoodwinked
+- [chapter-05.typ] lyen → lain
+- [chapter-12.typ] itnot → it not
+
+## grammar
+
+- chuseth → chooseth (×5)
+- dispossest → dispossessed
+- endeavoureth → endeavoreth
+- intangleth → entangleth
+- intermedleth → intermeddleth
+- prepossest → prepossessed
 
 ## punctuation
 
@@ -36,4 +59,308 @@
 - [chapter-16.typ] ▪ → ,
 - [chapter-17.typ] ▪ → .
 - [chapter-17.typ] ▪ → ,
+
+## spelling
+
+- endeavours → endeavors (×22)
+- Saviour → Savior (×21)
+- endeavour → endeavor (×17)
+- lyes → lies (×17)
+- woful → woeful (×15)
+- labour → labor (×14)
+- poyson → poison (×13)
+- publick → public (×13)
+- terrour → terror (×13)
+- weakned → weakened (×13)
+- mens → men's (×11)
+- vigour → vigor (×11)
+- meerly → merely (×10)
+- subtilty → subtlety (×10)
+- intangled → entangled (×8)
+- pretences → pretenses (×8)
+- Sathan → Satan (×7)
+- dryed → dried (×7)
+- Mens → Men's (×6)
+- applyed → applied (×6)
+- surprizals → surprisals (×6)
+- damm → dam (×5)
+- defence → defense (×5)
+- burthen → burden (×4)
+- dishonour → dishonor (×4)
+- fartherance → furtherance (×4)
+- favour → favor (×4)
+- harbouring → harboring (×4)
+- joyn → join (×4)
+- labours → labors (×4)
+- meer → mere (×4)
+- peculiary → peculiarly (×4)
+- savour → savor (×4)
+- sence → sense (×4)
+- stedfastness → steadfastness (×4)
+- succour → succor (×4)
+- surprized → surprised (×4)
+- tryal → trial (×4)
+- weakning → weakening (×4)
+- Labour → Labor (×3)
+- Satans → Satan's (×3)
+- Soveraignty → Sovereignty (×3)
+- carryed → carried (×3)
+- complyance → compliance (×3)
+- cryes → cries (×3)
+- heightned → heightened (×3)
+- honour → honor (×3)
+- intanglements → entanglements (×3)
+- marvellous → marvelous (×3)
+- mould → mold (×3)
+- pretence → pretense (×3)
+- regardlesness → regardlessness (×3)
+- stopt → stopped (×3)
+- stroaks → strokes (×3)
+- subtilly → subtly (×3)
+- tryals → trials (×3)
+- wofully → woefully (×3)
+- Feaver → Fever (×2)
+- Philistins → Philistines (×2)
+- Saviours → Saviors (×2)
+- Senacherib → Sennacherib (×2)
+- Soveraign → Sovereign (×2)
+- burthened → burdened (×2)
+- carryes → carries (×2)
+- chearfully → cheerfully (×2)
+- compleating → completing (×2)
+- decaies → decays (×2)
+- denyed → denied (×2)
+- encrease → increase (×2)
+- enflamed → inflamed (×2)
+- hearkning → hearkening (×2)
+- humour → humor (×2)
+- hurryed → hurried (×2)
+- inconveniencies → inconveniences (×2)
+- indispensible → indispensable (×2)
+- ingaged → engaged (×2)
+- intangling → entangling (×2)
+- labouring → laboring (×2)
+- loaths → loathes (×2)
+- lothness → loathness (×2)
+- outragious → outrageous (×2)
+- parlies → parleys (×2)
+- priviledge → privilege (×2)
+- priviledges → privileges (×2)
+- proceds → proceeds (×2)
+- prosess → profess (×2)
+- rebells → rebels (×2)
+- restlesly → restlessly (×2)
+- rouls → rolls (×2)
+- sensless → senseless (×2)
+- soveraign → sovereign (×2)
+- streight → straight (×2)
+- strengthning → strengthening (×2)
+- stubborness → stubbornness (×2)
+- travelling → traveling (×2)
+- Abrahams → Abraham's
+- Athletick → Athletic
+- Cittadel → Citadel
+- Cloaths → Clothes
+- Eightly → Eighthly
+- Endeavour → Endeavor
+- Honour → Honor
+- Ingagements → Engagements
+- Labours → Labors
+- Lanb → Lamb
+- Membres → Members
+- Milstone → Millstone
+- Oyl → Oil
+- Pauls → Paul's
+- Rejoycing → Rejoicing
+- Sacrameats → Sacraments
+- Sampsons → Samson's
+- Somtimes → Sometimes
+- Theachers → Teachers
+- Travailer → Traveler
+- Traytors → Traitors
+- Warriour → Warrior
+- Withs → Withes
+- Woful → Woeful
+- aboad → abode
+- accrew → accrue
+- adeò → adeoò
+- advantagious → advantageous
+- aiery → airy
+- applyes → applies
+- asfirms → affirms
+- astate → estate
+- athletick → athletic
+- attendencies → attendances
+- attented → attended
+- ballance → balance
+- balsom → balsam
+- battel → battle
+- bringiug → bringing
+- bubling → bubbling
+- burthensome → burdensome
+- cabable → capable
+- centre → center
+- chearfulness → cheerfulness
+- chearing → cheering
+- choaked → choked
+- clamour → clamor
+- cleary → clearly
+- cloystering → cloistering
+- colour → color
+- colours → colors
+- compell'd → compelled
+- concern'd → concerned
+- conmunion → communion
+- conquerours → conquerors
+- consisteh → consisteth
+- controul → control
+- controuls → controls
+- counteance → countenance
+- coyning → coining
+- creaated → created
+- cryed → cried
+- deceituflness → deceitfulness
+- decryed → decried
+- design'd → designed
+- desireableness → desirableness
+- dipt → dipped
+- discoloured → discolored
+- discouragemen → discouragement
+- dishonoured → dishonored
+- dishonours → dishonors
+- dispenced → dispensed
+- dispoiled → despoiled
+- drunkènness → drunkèdrunkenness
+- ecafficy → efficacy
+- enclined → inclined
+- enclines → inclines
+- endeavouring → endeavoring
+- enflaming → inflaming
+- enjoyned → enjoined
+- entercourse → intercourse
+- exceding → exceeding
+- expell'd → expelled
+- exraordinary → extraordinary
+- extream → extreme
+- fabrick → fabric
+- fafe → safe
+- falshood → falsehood
+- farthering → furthering
+- fewds → feuds
+- fiercerness → fierceness
+- fonutain → fountain
+- grosly → grossly
+- harbour → harbor
+- hardned → hardened
+- hardning → hardening
+- havock → havoc
+- hearding → herding
+- hed → bed
+- honourable → honorable
+- horrour → horror
+- humours → humors
+- imbitter → embitter
+- immorrality → immortality
+- imploys → employs
+- inclineableness → inclinableness
+- indeavour → endeavor
+- indifferency → indifference
+- indispensibly → indispensably
+- inraged → enraged
+- intangles → entangles
+- intensness → intenseness
+- inticements → enticements
+- irreconcileable → irreconcilable
+- joyned → joined
+- joynt → joint
+- laboured → labored
+- leasure → leisure
+- lessning → lessening
+- losty → lofty
+- manageing → managing
+- mannage → manage
+- mannaged → managed
+- milstones → millstones
+- miraculos → miraculous
+- mispent → misspent
+- murthering → murdering
+- negligencies → negligences
+- neighbours → neighbors
+- noysome → noisome
+- offences → offenses
+- oppointed → appointed
+- outragiously → outrageously
+- pardom → pardon
+- parlying → parleying
+- particulary → particularly
+- perfom → perform
+- pervers → perverse
+- perversness → perverseness
+- pimrovement → improvement
+- plough → plow
+- ploughed → plowed
+- poysoned → poisoned
+- poysonous → poisonous
+- pravalent → prevalent
+- previledges → privileges
+- priciple → principle
+- princicipally → principally
+- rapins → rapines
+- rejoyced → rejoiced
+- replyes → replies
+- rigour → rigor
+- rouze → rouse
+- rush'd → rushed
+- saken → forsaken
+- seised → seized
+- senless → senseless
+- senslesness → senselessness
+- shew'd → showed
+- shipwrack → shipwreck
+- slipt → slipped
+- sloathful → slothful
+- sollicitations → solicitations
+- specifick → specific
+- spoyl → spoil
+- starvling → starveling
+- stear → steer
+- steer'd → steered
+- stength → strength
+- stirr'd → stirred
+- stollen → stolen
+- strugling → struggling
+- struglings → strugglings
+- stupendious → stupendous
+- subtil → subtle
+- sugred → sugared
+- summ → sum
+- supplyed → supplied
+- surprizing → surprising
+- terrifyed → terrified
+- terrours → terrors
+- thred → thread
+- threeds → threads
+- toyle → toil
+- toyling → toiling
+- travelled → traveled
+- uncleaness → uncleanness
+- uncloath → unclothe
+- undesireable → undesirable
+- unexpressible → inexpressible
+- unmoveable → unmovable
+- unmoveableness → unmovableness
+- unrightcousness → unrighteousness
+- unsearchahle → unsearchable
+- venemous → venomous
+- vitious → vicious
+- vitiousness → viciousness
+- wakning → wakening
+- wandred → wandered
+- warr → war
+- warrs → wars
+- warthful → wrathful
+- wearyed → wearied
+- werein → wherein
+- whon → whom
+- withs → withes
 
