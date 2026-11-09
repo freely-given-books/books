@@ -10,6 +10,8 @@
 # Owen, vol. 6, 1850-53), CCEL's ThML in indwellingsin.ccel.witness.xml.
 
 import layout
+import runpy as _runpy
+from pathlib import Path
 
 T = "{http://www.tei-c.org/ns/1.0}"
 
@@ -21,6 +23,11 @@ OPENING_SMALLCAPS = True
 # own words from the chapter's text or summary, so his outline needs at most three levels of
 # indent (work/indwelling-sin/outline/headings.py; the levels: source/outline.json).
 EDITION_HEADINGS = True
+
+# Gaps (build_tei.py --list): every illegible letter and word, the Greek and Hebrew the TCP could
+# not key, read from the 1675 page images, its Kraken and Tesseract readings and the 1668 first
+# edition's (Kraken); Goold's Greek where the print agrees with it. See gap_fixes.py.
+GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
 
 # The frontispiece and title page are the print's, not the edition's.
 SKIP_DIVISIONS = {"illustration", "title_page"}

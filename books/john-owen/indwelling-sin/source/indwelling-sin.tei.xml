@@ -80,7 +80,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -110,7 +110,8 @@
          <change>
             <date>2005-10</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
-      </revisionDesc>
+      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected to the 1675 print (archive.org bim_early-english-books-1641-1700_the-nature-power-decei_owen-john_1675).</change>
+</revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
       <front>
@@ -407,9 +408,9 @@ is in Believers, in the others only in order to
 the farther conviction and manifestation thereof.</p>
             <p>2dly, The Apostle proposeth the way where<g ref="char:EOLhyphen"/>by
 he discovered this Law in himself,
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">εὑρίσκω ἄρα τὸν νόμον<!-- Rom 7:21; Goold; the 1675 page (archive.org bim ..._1675) --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>I find then,</hi> or therefore a <hi>Law.</hi> He
+               </gap></supplied>, <hi>I find then,</hi> or therefore a <hi>Law.</hi> He
 <hi>found</hi> it; it had been <hi>told</hi> him there was such a
 Law, it had been <hi>preached</hi> unto him. This con<g ref="char:EOLhyphen"/>vinced
 him, that there was a <hi>Law of Sin.</hi> But it is
@@ -436,9 +437,9 @@ when as we are taught it from the Word, so we
 find it in our selves. Hence we observe,</p>
             <p>Secondly, <hi>Believers have experience of the power
 and efficacy of Indwelling-Sin.</hi> They <hi>find</hi> it in
-themselves, they <hi>find</hi> it as a Law. It h<gap reason="illegible" resp="#TECH" extent="1 letter">
+themselves, they <hi>find</hi> it as a Law. It h<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'hath' 265x; OCR read {'kraken': ['is'], 'tesseract': ['is']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>th a self-evidencing
+               </gap></supplied>th a self-evidencing
 efficacy to them that are <hi>alive</hi> to dis<g ref="char:EOLhyphen"/>cern
 it: They that find not its power, are under
 <pb n="6" facs="tcp:42900:8"/>
@@ -451,9 +452,9 @@ of it.</p>
             <p>Thirdly, The general frame of Believers not<g ref="char:EOLhyphen"/>withstanding
 the inhabitation of <hi>this Law of Sin,</hi>
 is here also expressed. <hi>They would do good.</hi> This
-Law is present <gap reason="foreign">
+Law is present <supplied reason="foreign" cert="high" resp="#editor">θέλοντι ἐμοὶ ποιεῖν τὸ καλόν<!-- Rom 7:21; Goold; the 1668 page --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>. The
+               </gap></supplied>. The
 habitual inclination of their will is unto good.
 This Law in them, is not a Law unto them, as it
 is to Unbelievers. They are not <hi>wholly</hi> obnoxious
@@ -461,13 +462,13 @@ to its power, nor <hi>morally</hi> unto its commands.
 Grace hath the Soveraignty in their souls; This
 gives them a <hi>Will</hi> unto good; <hi>they would do good,</hi>
 that is, <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> and constantly, 1 <hi>John</hi> 3. 9.
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">ποιεῖν ἁμαρτίαν<!-- 1 John 3:9; the 1668 page --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>to commit sin,</hi> is to make a trade of
+               </gap></supplied>, <hi>to commit sin,</hi> is to make a trade of
 sin, to make it a mans business to sin; so it is said, a
-Believer doth not <hi>commit sin.</hi> And so <gap reason="foreign">
+Believer doth not <hi>commit sin.</hi> And so <supplied reason="foreign" cert="high" resp="#editor">ποιεῖν τὸ καλόν<!-- Goold; the 1668 page --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 to do that which is good; to will to do so; is to
 have the <hi>habitual</hi> bent and inclination of the will
 set on that which is good, that is, morally and
@@ -484,7 +485,7 @@ opposition they make to sin, either in the root, or
 <pb n="7" facs="tcp:42900:8"/>
 branches of it, is from their light, and their con<g ref="char:EOLhyphen"/>sciences;
 the <hi>will of sinning</hi> in them is never taken
-away<g ref="char:punc">▪</g> Take away all other considerations &amp; hin<g ref="char:EOLhyphen"/>derances,
+away<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice> Take away all other considerations &amp; hin<g ref="char:EOLhyphen"/>derances,
 whereof we shall treat afterwards, and
 they would sin willingly always. Their faint en<g ref="char:EOLhyphen"/>deavours
 to answer their convictions, are far from
@@ -526,7 +527,7 @@ is but pretended.</p>
 in these words of the Apostle, arising from that re<g ref="char:EOLhyphen"/>spect
 that the <hi>presence</hi> of sin hath unto the <hi>time</hi> and
 <hi>season</hi> of <hi>duty: When I would do good,</hi> (saith he)
-<hi>evils is present with me.</hi>
+<hi><seg type="transcription" change="#tcp-corrections">evil<!-- the transcription has 'evils'; p. 8 (scan 16): '(saith he) evil is present with me', Rom 7:21; both OCRs 'evil' --></seg> is present with me.</hi>
             </p>
             <p>There are two thing to be considered in the
 <hi>will of doing good,</hi> that is in Believers.</p>
@@ -551,9 +552,9 @@ or the actual willing of this or that good in par<g ref="char:EOLhyphen"/>ticula
 unto this, <hi>when I would do good,</hi> is opposed
 the presence of this Law, <hi>evil is present with me,</hi>
                <pb n="9" facs="tcp:42900:9"/>
-               <gap reason="foreign">
+               <supplied reason="foreign" cert="high" resp="#editor">παράκειταί μοι τὸ κακόν<!-- the 1675 page (archive.org bim ..._1675), p. 9 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>; evil is at hand and ready
+               </gap></supplied>; evil is at hand and ready
 to oppose the <hi>actual accomplishment</hi> of the good
 aimed at. Whence,</p>
             <p>
@@ -626,9 +627,9 @@ time we may well bewail the woful sloth and neg<g ref="char:EOLhyphen"/>ligence
 <pb n="11" facs="tcp:42900:10"/>
 that is in the most, even of Professors.
 They live and walk as though they intended to
-go to heaven hood-wink<gap reason="illegible" resp="#TECH" extent="1 letter">
+go to heaven hood-wink<supplied reason="illegible" cert="high" resp="#editor">t<!-- hood-winkt: 1668 Kraken; 1675 'hood-winkr' --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>, and asleep, as though
+               </gap></supplied>, and asleep, as though
 they had no <hi>enemy</hi> to deal <choice><orig>withall</orig><reg resp="#auto" type="spelling">withal</reg></choice>. Their mistake
 therefore and folly will be fully laid open in our
 Progress.</p>
@@ -662,9 +663,9 @@ the <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choi
             <pb n="12" facs="tcp:42900:11"/>
             <head>CHAP. II.</head>
             <argument>
-               <p rend="inset" change="#review">Indwelling<gap reason="illegible" resp="#TECH" extent="1 letter">
+               <p rend="inset" change="#review">Indwelling<supplied reason="illegible" cert="high" resp="#editor">-<!-- Indwelling-Sin (chapter argument), as the running head --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>Sin a Law. In what sense it is so
+                  </gap></supplied>Sin a Law. In what sense it is so
 called. What kind of Law it is. An inward
 effective Principle called a Law. The power
 of sin thence evinced.</p>
@@ -680,7 +681,7 @@ of grace in Believers the <hi>Law of the spirit of
 life,</hi> as we observed before, <hi>Rom.</hi> 8. 3. <choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> is the
 <hi>exceeding greatness of the power of God in them,
 Ephes.</hi> 1. 19. Where there is a <hi>Law</hi>
-               <g ref="char:punc">▪</g> there is power.</p>
+               <choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> there is power.</p>
             <p>We shall therefore <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> both what belongs unto
 it, as it is a <hi>Law</hi> in general, and also what is pecu<g ref="char:EOLhyphen"/>liar
 or proper in it, as being <hi>such a Law</hi> as we have
@@ -689,12 +690,12 @@ described.</p>
 <hi>Law,</hi> as such.</p>
             <p>First, <hi>Dominion. Rom.</hi> 7. 1. <hi>The Law hath domi<g ref="char:EOLhyphen"/>nion
 over a man whilst he liveth;</hi>
-               <gap reason="foreign">
+               <supplied reason="foreign" cert="high" resp="#editor">κυριεύει τοῦ ἀνθρώπου<!-- Rom 7:1; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, it <hi>Lordeth</hi> it over a man. Where any Law takes
-place, <gap reason="foreign">
+               </gap></supplied>, it <hi>Lordeth</hi> it over a man. Where any Law takes
+place, <supplied reason="foreign" cert="high" resp="#editor">κυριεύει<!-- Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, it hath <hi>dominion.</hi> It is properly the
+               </gap></supplied>, it hath <hi>dominion.</hi> It is properly the
 <hi>act of a <choice><orig>Superiour</orig><reg resp="#auto" type="spelling">Superior</reg></choice>,</hi> and it belongs to its nature to ex<g ref="char:EOLhyphen"/>act
 obedience by way of dominion. Now there is
 a two-fold <hi>dominion,</hi> as there is a two-fold Law.
@@ -706,12 +707,12 @@ the latter of the Law of sin. The Law of sin hath
 not in it self a <hi>moral dominion,</hi> it hath not a right<g ref="char:EOLhyphen"/>ful
 dominion or authority over any man, but it
 hath that which is equivalent unto it; whence it
-is said <gap reason="foreign">
+is said <supplied reason="foreign" cert="high" resp="#editor">βασιλεύειν<!-- Rom 6:12; Goold --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, to <hi>reign</hi> as a King, <hi>Rom.</hi> 6. 12. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice>
-<gap reason="foreign">
+               </gap></supplied>, to <hi>reign</hi> as a King, <hi>Rom.</hi> 6. 12. <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice>
+<supplied reason="foreign" cert="high" resp="#editor">κυριεύειν<!-- Rom 6:14; 1668 Kraken 'κυριυειν', 1675 'κνeιςύειν' --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, to <hi>Lord</hi> it, or have dominion, <hi>ver.</hi> 14.
+               </gap></supplied>, to <hi>Lord</hi> it, or have dominion, <hi>ver.</hi> 14.
 <choice><orig>as</orig><reg resp="#auto" type="spelling">As</reg></choice> a Law in general is said to have, <hi>chap.</hi> 7. 1. But
 because it hath lost its <hi>complete dominion,</hi> in refe<g ref="char:EOLhyphen"/>rence
 unto Believers, of whom alone we speak, I
@@ -809,9 +810,9 @@ and inconveniencies attend the duties of the
 Gospel, they will have nothing to do with them,
 and so are wholly given up to the Rule and Domi<g ref="char:EOLhyphen"/>nion
 of this Law.</p>
-            <p>And this <hi>l<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p>And this <hi>l<supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'light' 39x; OCR read {'kraken': ['li ght', 'also lyes', 'lax and', 'habitual propensity', 'power of', 'lusting of', 'rebellion consists', 'appears', 'is so', 'grace', 'way'], 'tesseract': ['ght', 'alfois denoted', 'habitus prepenfity', 'infting of', 'rebellion coafifts', 'appears', 's fo', 'way']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ght</hi> in general we have into the power
+                  </gap></supplied>ght</hi> in general we have into the power
 and efficacy of Indwelling-sin from the general na<g ref="char:EOLhyphen"/>ture
 of a <hi>Law,</hi> whereof it is partaker.</p>
             <p>We may consider nextly what <hi>kind of Law</hi> in
@@ -895,9 +896,9 @@ worst. Men little consider what a dangerous com<g ref="char:EOLhyphen"/>panion
 is <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> at <hi>home</hi> with them. When they
 are in Company, when alone, by night or by day,
 all is one, sin is with them. There is a living <hi>coal</hi>
-continually in their houses, which if i<gap reason="illegible" resp="#TECH" extent="1 letter">
+continually in their houses, which if i<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: both read 'it'; book has it 2412x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> be not
+               </gap></supplied> be not
 looked unto, will <hi>fire</hi> them, and it may be <hi>consume</hi>
 them. O the woful security of poor souls! How
 little do the most of men think of this <hi>Inbred</hi> Ene<g ref="char:EOLhyphen"/>my,
@@ -910,9 +911,9 @@ not only <hi>dwell in me,</hi> saith the Apostle, <hi>but when
 I would do good, it is present with me:</hi> There is
 somewhat more in that expression, than meer <hi>in<g ref="char:EOLhyphen"/>dwelling.</hi>
 An <hi>Inmate</hi> may dwell in an house, and
-yet not be <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> m<gap reason="illegible" resp="#TECH" extent="1 letter">
+yet not be <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> m<supplied reason="illegible" cert="high" resp="#editor">e<!-- medling: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>dling with what the good
+               </gap></supplied>dling with what the good
 <pb n="19" facs="tcp:42900:14"/>
 man of the house hath to do, (that so we may keep
 to the allusion of <hi>Indwelling,</hi> used by the Apostle.)
@@ -946,9 +947,9 @@ of it.</p>
             <p>Thirdly, It being an indwelling-Law, it applyes
 it self to its work with great <hi>facility</hi> and easiness,
 like the sin that doth so <hi>easily beset us, Heb.</hi> 12. 1. It
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="medium" resp="#editor">h<!-- hath: context (It hath a great facility) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ath a great <hi>facility</hi> and easiness in the application of
+               </gap></supplied>ath a great <hi>facility</hi> and easiness in the application of
 <pb n="20" facs="tcp:42900:15"/>
 it self unto its work; it needs no doors to be ope<g ref="char:EOLhyphen"/>ned
 unto it, it needs no Engines to work by. The
@@ -978,9 +979,9 @@ that with easiness and facility.</p>
 he <hi>found</hi> in himself, this is the title that he gives
 unto the powerful and effectual remainders of In<g ref="char:EOLhyphen"/>dwelling-Sin,
 even in Believers, and these general
-evidences of its power from th<gap reason="illegible" resp="#TECH" extent="1 letter">
+evidences of its power from th<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'that' 1638x; OCR read {'kraken': ['thot'], 'tesseract': ['tht']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>t Appellation have
+               </gap></supplied>t Appellation have
 we. Many there are in the world, who <hi>find</hi> not this
 Law in them, who whatever they have been
 taught in the word, have not a spiritual sense and
@@ -1020,9 +1021,9 @@ feel its effects. It will not at all advantage a man
 to have an <hi>hectical</hi> distemper, and not to discover
 it; a fire lying secretly in his house, and not to
 <pb n="22" facs="tcp:42900:16"/>
-know it. So much as Men find of this Law i<gap reason="illegible" resp="#TECH" extent="1 letter">
+know it. So much as Men find of this Law i<supplied reason="illegible" cert="high" resp="#editor">n<!-- scan OCR: both read 'in'; book has it 2238x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 them, so much they will <hi>abhor</hi> it and themselves,
 and no more. Proportionably also to their discove<g ref="char:EOLhyphen"/>ry
 of it, will be their <hi>earnestness</hi> for Grace; not
@@ -1131,9 +1132,9 @@ treasure</hi> that increaseth by doing evil. And where
 doth this treasure lye? It is in the <hi>heart,</hi> there it is
 laid up, there it is kept in safety. All the men in
 the world, all the Angels in Heaven, cannot dis<g ref="char:EOLhyphen"/>possess
-a man of this treasure, it is so sa<gap reason="illegible" resp="#TECH" extent="1 letter">
+a man of this treasure, it is so sa<supplied reason="illegible" cert="high" resp="#editor">f<!-- context; book has 'safely' 2x; OCR read {'kraken': ['sasely'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ely stored
+               </gap></supplied>ely stored
 in the heart.</p>
             <p>The <hi>heart</hi> in the Scripture is variously used.
 Sometimes for the <hi>mind</hi> and understanding; some<g ref="char:EOLhyphen"/>times
@@ -1388,9 +1389,9 @@ of it, is at an end. The place of its habitation
 is <hi>unsearchable;</hi> and when we may think that we
 have <choice><orig>throughly</orig><reg resp="#auto" type="spelling">thoroughly</reg></choice> won the field, there is still some
 reserve remaining that we saw not, that we knew
-not o<gap reason="illegible" resp="#TECH" extent="1 letter">
+not o<supplied reason="illegible" cert="high" resp="#editor">f<!-- of: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>. Many Conquerors have been ruined by
+               </gap></supplied>. Many Conquerors have been ruined by
 their <choice><orig>carelesness</orig><reg resp="#auto" type="spelling">carelessness</reg></choice> after a victory; and many have
 been spiritually wounded after great successes
 against this enemy. <hi>David</hi> was so, his great sur<g ref="char:EOLhyphen"/>prizal
@@ -1430,7 +1431,7 @@ may be greatly weakened in its power? Let us
 then reckon on it, that there is no way to have
 our work done, but by always doing of it; and
 <pb n="34" facs="tcp:42900:22"/>
-he who dies <hi>fighting</hi> in this warfare, dies assuredly<g ref="char:punc">▪</g>
+he who dies <hi>fighting</hi> in this warfare, dies assuredly<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation"></reg></choice>
 a <hi>Conqueror.</hi>
             </p>
             <p>Secondly, Hath it its residence in that which is
@@ -1463,9 +1464,9 @@ give a fair appearance of serenity and peace,
 turbulent affections may arise, and cloud the soul
 with sin and darkness.</p>
             <p>Thirdly then, commit the whole matter with
-all care and diligence unto him who can <hi>search th<gap reason="illegible" resp="#TECH" extent="1 letter">
+all care and diligence unto him who can <hi>search th<supplied reason="illegible" cert="high" resp="#editor">e<!-- the: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                   <pb n="35" facs="tcp:42900:22"/>
 heart</hi> to the uttermost, and knows how to prevent
 all its treacheries and deceits. In the things before
@@ -1484,9 +1485,9 @@ do thou, who art present with my heart, who
 knowest my thoughts long before, undertake this
 work, perform it <choice><orig>throughly</orig><reg resp="#auto" type="spelling">thoroughly</reg></choice>, for thou alone art able
 so to do.</p>
-            <p>There are yet other arguments for the eviden<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p>There are yet other arguments for the eviden<supplied reason="illegible" cert="high" resp="#editor">c<!-- scan OCR: both read 'evidencing'; book has it 1x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap><g ref="char:EOLhyphen"/>ing
+               </gap></supplied><g ref="char:EOLhyphen"/>ing
 of the power and strength of <hi>Indwelling-sin</hi>
 from whence it is termed a <hi>Law,</hi> which we must
 pass through according to the order wherein before
@@ -1501,9 +1502,9 @@ its power. Admits of no peace nor rest: Is
 against God himself, Acts it self in aver<g ref="char:EOLhyphen"/>sation
 from God; and propensity to Evil.
 Is Universal. To all of God. In all of
-the soul. Cons<gap reason="illegible" resp="#TECH" extent="1 letter">
+the soul. Cons<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'constant' 37x; OCR read {'kraken': ['whereby', 'thus ephes'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ant.</p>
+                  </gap></supplied>ant.</p>
             </argument>
             <p><seg rend="smallcaps" type="opening">WE</seg> have seen the <hi>seat</hi> and <hi>subject</hi> of this
 Law of Sin. In the next place we might
@@ -1517,14 +1518,14 @@ in reference unto our special design in hand, con<g ref="char:EOLhyphen"/>sider
 And this <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> where ever it is. And this is
 that which is expressed by the Apostle, Rom. 8. 7.
 <hi>The carnal mind is enmity against God;</hi> that which
-is here called, <gap reason="foreign">
+is here called, <supplied reason="foreign" cert="high" resp="#editor">φρόνημα τῆς σαρκός<!-- Rom 8:7; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>the wisdom of the
+               </gap></supplied>, <hi>the wisdom of the
 flesh,</hi> is the same with the <hi>Law of Sin,</hi> which we
 insist on. And what <choice><orig>sayes</orig><reg resp="#auto" type="spelling">says</reg></choice> he hereof? Why it is
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">ἔχθρα εἰς Θεόν<!-- Rom 8:7; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>enmity against God</hi> It is not
+               </gap></supplied>, <hi>enmity against God</hi> It is not
 only an <hi>Enemy,</hi> for so possibly some <hi>Reconciliation</hi>
 of it unto God might be made, but it is <hi>Enmity</hi> it
 self, and so not capable of accepting any terms of
@@ -1604,21 +1605,21 @@ is in vain for a man to have any expectation of
 <hi>rest</hi> from his <hi>lust,</hi> but by its death, of <hi>absolute free<g ref="char:EOLhyphen"/>dom,</hi>
 but by his own. Some in the tumultuating
 of their corruptions, seek for quietness by labouring
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">t<!-- to: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>o <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice> them, <hi>making provision for the flesh to ful<g ref="char:EOLhyphen"/>fill
+               </gap></supplied>o <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice> them, <hi>making provision for the flesh to ful<g ref="char:EOLhyphen"/>fill
 the lusts thereof;</hi> as the Apostle speaks, <hi>Rom.</hi>
 13. 14. This is to aslake Fire by Wood and <choice><orig>Oyle</orig><reg resp="#auto" type="spelling">Oil</reg></choice>.
 As all the fuel in the world, all the fabrick of the
 creation that is combustible, being cast into the fire,
 will not at all <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice> it, but increase it; so is it
 with satisfaction given to sin by sinning, it doth
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">b<!-- but: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ut inflame and increase. If a man will part with
+               </gap></supplied>ut inflame and increase. If a man will part with
 some of his goods unto an enemy, it may <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice>
 him; but enmity will have all, and is not one whit
-the more satisfied, that if he had received nothing
+the more satisfied, <seg type="transcription" change="#tcp-corrections">than<!-- the transcription has 'that'; p. 39 (scan 47): 'not one whit the more satisfied, than if he had received nothing' --></seg> if he had received nothing
 at all. Like the <hi>lean Cattle</hi> that were never the
 less hungry, for having devoured the fat. You can<g ref="char:EOLhyphen"/>not
 bargain with the fire to take but so much of
@@ -1631,18 +1632,18 @@ It is so with this Indwelling-Sin, whe<g ref="char:EOLhyphen"/>ther
 it rage or laugh, whether it violently tumul<g ref="char:EOLhyphen"/>tuate,
 as it will do on provocations and temptati<g ref="char:EOLhyphen"/>ons,
 it will be outragious in the soul, or whether
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">i<!-- it: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>t seem to be pleased and contented, to be satis<g ref="char:EOLhyphen"/>fied,
+               </gap></supplied>t seem to be pleased and contented, to be satis<g ref="char:EOLhyphen"/>fied,
 all is one, there is no peace, no rest to be had
 with it, or by it. Had it then been of any other
 nature, some other way might have been fixed on,
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">b<!-- but: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ut being it consists in <hi>enmity,</hi> all the relief the soul
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>ut being it consists in <hi>enmity,</hi> all the relief the soul
+<supplied reason="illegible" cert="high" resp="#editor">h<!-- hath: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ath must lye in its <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>.</p>
+               </gap></supplied>ath must lye in its <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>.</p>
             <p>
                <pb n="40" facs="tcp:42900:25"/>
 Secondly, It is not only said to be <hi>enmity,</hi> but it
@@ -1654,7 +1655,7 @@ to the soul, that is, to our selves. Sometimes
 as an Enemy to the Spirit that is in us, <hi>The flesh
 lusteth or fighteth against the Spirit,</hi> Gal. 5. 17. It
 fights against the Spirit, or the <hi>Spiritual principle</hi>
-that is in us, to conquer it<g ref="char:punc">▪</g> it fights against our souls
+that is in us, to conquer it<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> it fights against our souls
 to destroy them. It hath special ends and designs
 against our souls, and against the principle of Grace
 that is in us; but its proper formal object is God,
@@ -1981,7 +1982,7 @@ at work, there will be a secret lothness in them
 unto duty; yea, sometimes there will be a violent
 inclination to the contrary; so that the soul had
 rather do any thing, embrace any <hi>diversion,</hi> though
-it would it self thereby, than vigorously apply
+it <seg type="transcription" change="#tcp-corrections">wound<!-- the transcription has 'would'; p. 49 (scan 57): 'embrace any diversion, though it wound it self thereby' --></seg> it self thereby, than vigorously apply
 it self unto that which in the inward man
 it breaths after. It is <hi>weary</hi> before it begins, and
 says, when will the work be over? Here God and
@@ -2229,32 +2230,32 @@ wretched hearts, to harbour such a cursed secret
 dislike of him and his ways? Let us be ashamed
 and astonished at the consideration of it, and walk in
 <pb n="57" facs="tcp:42900:33"/>
-               <gap reason="illegible" resp="#TECH" extent="1 letter">
+               <supplied reason="illegible" cert="high" resp="#editor">a<!-- an humbling: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>n humbling sense of it all our <choice><orig>dayes</orig><reg resp="#auto" type="spelling">days</reg></choice>. Let us car<g ref="char:EOLhyphen"/>ry
+               </gap></supplied>n humbling sense of it all our <choice><orig>dayes</orig><reg resp="#auto" type="spelling">days</reg></choice>. Let us car<g ref="char:EOLhyphen"/>ry
 it about with us in the most secret of our
 thoughts. And as this is a <hi>Duty</hi> in it self acceptable
 unto God, who delights to dwell with them that
 are of an <hi>humble and contrite spirit;</hi> so it is of ex<g ref="char:EOLhyphen"/>ceeding
 efficacy to the weakening of the evil we
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">g<!-- context; book has 'great' 159x, next 'treat' 5x; OCR read {'kraken': ['reat'], 'tesseract': ['eat']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>reat of.</p>
+               </gap></supplied>reat of.</p>
             <p>Fifthly, Labour to possess the mind with the
 beauty and excellency of spiritual things, that so
 they may be presented <hi>lovely</hi> and desirable to the
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">s<!-- soul: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>oul, and this cursed <hi>aversation</hi> of sin will be weak<g ref="char:EOLhyphen"/>ned
+               </gap></supplied>oul, and this cursed <hi>aversation</hi> of sin will be weak<g ref="char:EOLhyphen"/>ned
 thereby. It is an innate acknowledged prin<g ref="char:EOLhyphen"/>ciple,
 that the soul of man will not keep up chear<g ref="char:EOLhyphen"/>fully
 unto the <hi>Worship of God,</hi> unless it have a dis<g ref="char:EOLhyphen"/>covery
 of a <hi>beauty</hi> and comeliness in it. Hence
 when men had lost all spiritual sense and savour
 of the things of God, to supply the want that was
-in their own souls, they invented outwardly pom<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#TECH" extent="1 letter">
+in their own souls, they invented outwardly pom<g ref="char:EOLhyphen"/><supplied reason="illegible" cert="high" resp="#editor">p<!-- pompous: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ous
+               </gap></supplied>ous
 and gorgeous <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> of worship, in <hi>Images,
 Paintings, Pictures,</hi> and I know not what carnal or<g ref="char:EOLhyphen"/>naments
 which they have called the <hi>beauties of ho<g ref="char:EOLhyphen"/>liness.</hi>
@@ -2265,15 +2266,15 @@ delight in it, <hi>aversation</hi> will prevail. Let then the
 soul labour to acquaint it self with the <hi>spiritual
 beauty</hi> of obedience, of Communion with God, and
 of all Duties of immediate approach to him, that
-<gap reason="illegible" resp="#TECH" extent="1 word">
+<supplied reason="illegible" cert="high" resp="#editor">it<!-- that it may: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> may be filled with <hi>delight</hi> in them. It is not my
+               </gap></supplied> may be filled with <hi>delight</hi> in them. It is not my
 present work to discover the heads and springs of
 that <hi>beauty</hi> and desirableness which is in spiritual
 duties, in their relation to <hi>God,</hi> the eternal spring
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">o<!-- context; book has 'of' 4203x, next 'if' 242x; OCR read {'kraken': ['i'], 'tesseract': ['f']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>f all beauty, to <hi>Christ,</hi> the Love, desire, and hope
+               </gap></supplied>f all beauty, to <hi>Christ,</hi> the Love, desire, and hope
 <pb n="58" facs="tcp:42900:34"/>
 of all Nations, to the <hi>Spirit</hi> the great Beautifier of
 souls, rendering them by his grace all glorious
@@ -2306,9 +2307,9 @@ is so in things natural and moral. As light and
 darkness, heat and cold, so <choice><orig>vertue</orig><reg resp="#auto" type="spelling">virtue</reg></choice> and vice op<g ref="char:EOLhyphen"/>pose
 each other. So is it with sin and Grace, saith
 the Apostle, these are contrary one to the other,
-Gal. 5. 17. <gap reason="foreign">
+Gal. 5. 17. <supplied reason="foreign" cert="high" resp="#editor">ἀντίκειται ἀλλήλοις<!-- Gal 5:17; the 1675 page (archive.org bim ..._1675), p. 58 (order as printed; Goold reverses it) --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, they are <hi>placed and
+               </gap></supplied>, they are <hi>placed and
 <pb n="59" facs="tcp:42900:34"/>
 set in mutual opposition,</hi> and that continually and
 constantly, as we shall see.</p>
@@ -2320,9 +2321,9 @@ mannaged an enmity against them, <hi>Exod.</hi> 1. 10.
 <hi>Pharaoh</hi> saith, <hi>Let us deal wisely,</hi> or rather cunning<g ref="char:EOLhyphen"/>ly
 and subtilly with this People; for so <hi>Stephen</hi> with
 respect to this word, expresseth it, <hi>Acts</hi> 7. 19. <choice><orig>by</orig><reg resp="#auto" type="spelling">By</reg></choice>
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">κατασοφισάμενος<!-- Acts 7:19; the 1675 page (archive.org bim ..._1675), p. 59; 1668 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>; He used <hi>all manner of fraudulent
+               </gap></supplied>; He used <hi>all manner of fraudulent
 Sophistry.</hi> And unto this deceit they added <hi>force,</hi> in
 their grievous oppressions. This is the way and
 manner of things where there is a prevailing <hi>en<g ref="char:EOLhyphen"/>mity.</hi>
@@ -2360,9 +2361,9 @@ order.</p>
 <hi>The flesh lusteth against the Spirit.</hi> This word ex<g ref="char:EOLhyphen"/>presseth
 the general nature of that opposition
 which the <hi>Law of Sin</hi> maketh against God, and
-the Rule o<gap reason="illegible" resp="#TECH" extent="1 letter">
+the Rule o<supplied reason="illegible" cert="high" resp="#editor">f<!-- scan OCR: both read 'of'; book has it 4203x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> his Spirit or Grace in them that believe,
+               </gap></supplied> his Spirit or Grace in them that believe,
 and therefore the least degree of that opposition is
 expressed hereby. When it doth any thing it
 <hi>lusteth.</hi> As because <hi>burning</hi> is the general acting of
@@ -2381,9 +2382,9 @@ the Law of Sin whatever in all the faculties and
 Affections of the soul. Thus <hi>Ephes.</hi> 2. 3. We have
 mention of the <hi>desires,</hi> or <hi>wills,</hi> or <hi>lusts</hi> of the mind,
 as well as of the flesh. The <hi>mind</hi> the most spiritu<g ref="char:EOLhyphen"/>al
-part o<gap reason="illegible" resp="#TECH" extent="1 letter">
+part o<supplied reason="illegible" cert="high" resp="#editor">f<!-- of: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> the soul hath its <hi>lusts,</hi> no less than the
+               </gap></supplied> the soul hath its <hi>lusts,</hi> no less than the
 <hi>sensual appetite,</hi> which seems sometimes more pro<g ref="char:EOLhyphen"/>perly
 <pb n="61" facs="tcp:42900:35"/>
 to be called the flesh. And in the products
@@ -2402,11 +2403,11 @@ the flesh is flesh;</hi> that is, it is all so, and nothing else.
 And what ever remains of the <hi>old</hi> nature in the <hi>new
 man</hi> is flesh still. And <hi>this flesh lusteth;</hi> this Law of
 Sin doth so, which is the general bottom and foun<g ref="char:EOLhyphen"/>dation
-of all its opposition unto God. And this <gap reason="illegible" resp="#TECH" extent="1 word">
+of all its opposition unto God. And this <supplied reason="illegible" cert="high" resp="#editor">it<!-- this it doth: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap>
+               </gap></supplied>
 doth two <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First<g ref="char:punc">▪</g> In an hidden close <hi>propensity</hi> unto all evil.
+            <p>First<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> In an hidden close <hi>propensity</hi> unto all evil.
 This lyes in it <hi>habitually.</hi> Whilest a man is in the
 state of nature, fully under the power and domi<g ref="char:EOLhyphen"/>nion
 of this <hi>Law of Sin,</hi> it is said, that <hi>every figment
@@ -2440,9 +2441,9 @@ whilest the Springs and Fountains of it are open,
 and waters are continually supplyed unto its
 streams, set a damm before it, and it causeth it to
 rise and swell, <choice><orig>untill</orig><reg resp="#auto" type="spelling">until</reg></choice> it bear down all, or overflow
-the banks about it. Let these waters b<gap reason="illegible" resp="#TECH" extent="1 letter">
+the banks about it. Let these waters b<supplied reason="illegible" cert="high" resp="#editor">e<!-- be: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> 
+               </gap></supplied> 
                <hi>abated,</hi>
 dryed up in some good measure, in the springs of
 them, and the remainder may be coerced and re<g ref="char:EOLhyphen"/>strained.
@@ -2483,25 +2484,25 @@ it to be an <hi>habitual principle</hi> prevailing in
 the mind: So <hi>Cant.</hi> 6. 12. <hi>Or ever I was aware my
 soul made me as the Chariots of Aminadab;</hi> that is,
 free, willing and ready for communion with
-Christ. <gap reason="foreign">
+Christ. <supplied reason="foreign" cert="high" resp="#editor">לא ידעתי<!-- Song 6:12; the 1675 page (archive.org bim ..._1675), p. 63 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap> 
+               </gap></supplied> 
                <hi>I knew not;</hi> it was done by the
 power of the Spirit of Grace, so that I took no
 notice of it, as it were, until it was done. The fre<g ref="char:EOLhyphen"/>quent
 actings of Grace in this manner, exciting
 acts of faith, love and complacency in God, are
-Evidences of much strength and prevalency of<gap reason="illegible" resp="#TECH" extent="1 letter">
+Evidences of much strength and prevalency of<supplied reason="illegible" cert="high" resp="#editor">f<!-- context; book has 'off' 117x, next 'oft' 7x; OCR read {'kraken': ['ost'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 in the soul. And thus also is it with <hi>Indwelling-Sin;</hi>
 ere the <hi>soul is aware,</hi> without any provocati<g ref="char:EOLhyphen"/>on
 or temptation, when it knows not, it is cast
-into a vain and <gap reason="illegible" resp="#TECH" extent="1 letter">
+into a vain and <supplied reason="illegible" cert="high" resp="#editor">f<!-- context; book has 'foolish' 19x; OCR read {'kraken': ['soolish'], 'tesseract': ["loo'ith"]} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>oolish frame. S<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>oolish frame. S<supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'sin' 1041x, next 'seen' 11x; OCR read {'kraken': ['sn'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>n produceth its
+               </gap></supplied>n produceth its
 <pb n="64" facs="tcp:42900:37"/>
                <hi>figments</hi> secretly in the heart, and prevents the minds
 consideration of what it is about. I mean hereby
@@ -2521,22 +2522,22 @@ by sin are we oftentimes, ere we are aware, car<g ref="char:EOLhyphen"/>ried
 into distempered affections, foolish imaginati<g ref="char:EOLhyphen"/>ons,
 and pleasing delightfulness in things that are
 not good nor profitable. Hence is that caution of
-the Apostle, <hi>Gal.</hi> 6. 1. <gap reason="foreign">
+the Apostle, <hi>Gal.</hi> 6. 1. <supplied reason="foreign" cert="high" resp="#editor">ἐὰν προληφθῇ<!-- Gal 6:1; 1675 Kraken 'ἐἀν ωριληοbῆ', 1668 'έν πρληοβῆ' --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, If a man be
+               </gap></supplied>, If a man be
 <hi>surprized</hi> at unawares with a fault or in a trans<g ref="char:EOLhyphen"/>gression.
 I doubt not but the subtilty of Satan, and
 the power of temptation, are there taken into
 consideration by the Apostle, which causeth him
-to express a mans falling into sin, by <gap reason="foreign">
+to express a mans falling into sin, by <supplied reason="foreign" cert="high" resp="#editor">προληφθῇ<!-- Gal 6:1; Goold --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 if <hi>he be surprized;</hi> So this working of <hi>Indwelling-Sin</hi>
 also hath its consideration in it, and that in the
 <hi>chiefest place</hi> without which nothing else could
-<hi>surprize</hi> us. For without the help thereof, what<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#TECH" extent="1 letter">
+<hi>surprize</hi> us. For without the help thereof, what<g ref="char:EOLhyphen"/><supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'whatever' 26x; OCR read {'kraken': ['whatver'], 'tesseract': ['wharrer']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ver
+               </gap></supplied>ver
 comes from without, from Satan, or the world,
 must admit of some <hi>parley</hi> in the mind before it be
 received, but it is from within, from our selves
@@ -2628,9 +2629,9 @@ of Sathan, and stealing away the heart. And this it
 doth always, which evinceth an <hi>habitual inclina<g ref="char:EOLhyphen"/>tion.
 Psal.</hi> 38. 17. <choice><orig>saith</orig><reg resp="#auto" type="spelling">Saith</reg></choice> <hi>David,</hi> I am ready to halt,
 or <hi>for halting;</hi> 
-               <gap reason="foreign">
+               <supplied reason="foreign" cert="high" resp="#editor">כי אני לצלע נכון<!-- Ps 38:17; the 1675 page (archive.org bim ..._1675), p. 67 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>I am prepared</hi> and
+               </gap></supplied>, <hi>I am prepared</hi> and
 disposed unto <hi>hallucination,</hi> to the slipping of my
 foot into sin, <hi>verse</hi> 16. <choice><orig>as</orig><reg resp="#auto" type="spelling">As</reg></choice> he expounds the meaning
 of that phrase, <hi>Psal.</hi> 73. 2, 3. There was from
@@ -2663,9 +2664,9 @@ the veins. This the Apostle calls its tempting,
 Now what is it to be tempted? It is to have that
 proposed to a mans consideration, which if he close
 <choice><orig>withall</orig><reg resp="#auto" type="spelling">withal</reg></choice>, it is evil, it is sin unto him. This is sins
-trade; <gap reason="foreign">
+trade; <supplied reason="foreign" cert="high" resp="#editor">ἐπιθυμεῖ<!-- Gal 5:17; Goold --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>it lusteth.</hi> It is raising up in the
+               </gap></supplied>, <hi>it lusteth.</hi> It is raising up in the
 heart, and proposing unto the mind and affections,
 that which is evil, trying, as it were, whether the
 soul will close with its suggestions, or how far it
@@ -2681,19 +2682,19 @@ appearances of evil, in this or that kind, indeed in
 every kind, that the nature of man is capable to
 exercise corruption in. Something or other, in
 matter, or manner, or circumstance, inordinate,
-unspiritual, unanswerable unto the Rule, it ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+unspiritual, unanswerable unto the Rule, it ha<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: one read 'hatcheth'; book has it 1x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ch<g ref="char:EOLhyphen"/>eth
+               </gap></supplied>ch<g ref="char:EOLhyphen"/>eth
 and proposeth unto the soul. And this power
 of sin to beget figments and idea's of actual evil in
 <pb n="69" facs="tcp:42900:39"/>
 the heart the Apostle may have respect unto,
 1 <hi>Thess.</hi> 
-               <gap reason="illegible" resp="#TECH" extent="1 letter">
+               <supplied reason="illegible" cert="high" resp="#editor">5<!-- 1 Thess 5:22; the 1675 page (archive.org bim ..._1675), p. 69 --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>. 22. <gap reason="foreign">
+               </gap></supplied>. 22. <supplied reason="foreign" cert="high" resp="#editor">ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε<!-- 1 Thess 5:22; the 1675 page (archive.org bim ..._1675), p. 69 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 Keep your selves from every evil figment or <hi>idea</hi>
 of sin in the heart; for the word there used doth
 not any where <choice><orig>signifie</orig><reg resp="#auto" type="spelling">signify</reg></choice> an <hi>outward form or appea<g ref="char:EOLhyphen"/>rance;</hi>
@@ -2716,15 +2717,15 @@ it <hi>fights</hi> or <hi>wars;</hi> that is, it acts with
 strength and violence, as men do in war. First, it
 <hi>lusts</hi> stirring and moving inordinate figments in the
 <hi>Mind,</hi> desires in the appetite and the <hi>Affections,</hi>
-proposing them to the <hi>W<gap reason="illegible" resp="#TECH" extent="1 letter">
+proposing them to the <hi>W<supplied reason="illegible" cert="high" resp="#editor">i<!-- Will: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ll.</hi> But it rests not there,
+                  </gap></supplied>ll.</hi> But it rests not there,
 it cannot rest: it urgeth, presseth and pursueth
 its proposals with earnestness, strength and vigour,
 fighting, and contending, and warring to obtain
-its end and purpose. Would it meerly <hi>s<gap reason="illegible" resp="#TECH" extent="2 letters">
+its end and purpose. Would it meerly <hi>s<supplied reason="illegible" cert="high" resp="#editor">ti<!-- stir: 1675 and 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                      <desc>••</desc>
-                  </gap>r up</hi> and
+                  </gap></supplied>r up</hi> and
 <hi>propose</hi> things to the soul, and immediately ac<g ref="char:EOLhyphen"/>quiesce
 in the sentence and judgment of the mind
 that the thing is evil, against God, and his will,
@@ -2746,9 +2747,9 @@ of the mind.</p>
 for Rule and Sovereignty over it.</p>
             <p rend="level1" change="#review">The first is expressed by the Apostle, <hi>Rom.</hi> 7. 23.
 <hi>I find,</hi> saith he, <hi>another Law,</hi> 
-               <gap reason="foreign">
+               <supplied reason="foreign" cert="high" resp="#editor">ἀντιστρατευόμενον τῷ νόμῳ τοῦ νοός μου<!-- Rom 7:23; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 <hi>rebelling against the Law of my
 mind.</hi> There are, it seems, <hi>two Laws</hi> in us, the Law
 of the flesh, or of sin; and the Law of the mind, or
@@ -2759,22 +2760,22 @@ hand of the Law of grace; so the Apostle declares,
 <hi>verse</hi> 22. <hi>I delight in the Law of God in the inward
 man.</hi> Obedience unto this Law is performed with
 <hi>delight</hi> and complacency in the inward man, be<g ref="char:EOLhyphen"/>cause
-its authority is <hi>lawful</hi> and good. So more <choice><orig>ex<g ref="char:EOLhyphen"/>presly</orig><reg resp="#auto" type="spelling">expressly</reg></choice><g ref="char:punc">▪</g>
+its authority is <hi>lawful</hi> and good. So more <choice><orig>ex<g ref="char:EOLhyphen"/>presly</orig><reg resp="#auto" type="spelling">expressly</reg></choice><choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
                <hi>chap.</hi> 6. 14. <hi>For sin shall not have dominion
 over you, for ye are not under the Law but under
 grace.</hi> Now to war against the Law that hath a just
-Sovereignty, is to <choice><orig>rebell</orig><reg resp="#auto" type="spelling">rebel</reg></choice>; and so <gap reason="foreign">
+Sovereignty, is to <choice><orig>rebell</orig><reg resp="#auto" type="spelling">rebel</reg></choice>; and so <supplied reason="foreign" cert="high" resp="#editor">ἀντιστρατεύεσθαι<!-- Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>
-signifies; it is to <choice><orig>rebell</orig><reg resp="#auto" type="spelling">rebel</reg></choice>, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+signifies; it is to <choice><orig>rebell</orig><reg resp="#auto" type="spelling">rebel</reg></choice>, and <supplied reason="illegible" cert="high" resp="#editor">o<!-- ought: 1675 Kraken 'cught', 1668 'ought' --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ught to have been so
-translated, <hi>reb<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>ught to have been so
+translated, <hi>reb<supplied reason="illegible" cert="high" resp="#editor">e<!-- scan OCR: one read 'rebelling'; book has it 4x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>lling against the Law of my mind.</hi>
-And this rebellion consists in a stubborn obstina<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  </gap></supplied>lling against the Law of my mind.</hi>
+And this rebellion consists in a stubborn obstina<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'obstinate' 4x; OCR read {'kraken': ['obstina e'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>e
+               </gap></supplied>e
 <pb n="71" facs="tcp:42900:40"/>
 opposition unto the commands and directions of
 the Law of grace. Doth the <hi>Law of the mind</hi> com<g ref="char:EOLhyphen"/>mand
@@ -2819,9 +2820,9 @@ sometimes it stirs up contrary affections, sometimes
 it begets prejudices, and one way or other
 intangles the soul, so that it never suffers grace to
 have an absolute and complete success in any duty.
-<hi>Verse</hi> 18. <gap reason="foreign">
+<hi>Verse</hi> 18. <supplied reason="foreign" cert="high" resp="#editor">τὸ κατεργάζεσθαι τὸ καλὸν οὐχ εὑρίσκω<!-- Rom 7:18; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, I find
+               </gap></supplied>, I find
 not the way <hi>perfectly to work</hi> out, or accomplish
 that which is good; so the word signifies; and that
 from this opposition and resistance that is made by
@@ -2858,29 +2859,29 @@ unto those things which are before, I press toward
 the mark for the prize of the high calling of God in
 Christ Jesus.</hi> He useth three words excellently ex<g ref="char:EOLhyphen"/>pressing
 the souls universal pursuit of this purpose of
-heart in cleaving unto God, First, saith he, <gap reason="foreign">
+heart in cleaving unto God, First, saith he, <supplied reason="foreign" cert="high" resp="#editor">διώκω<!-- Phil 3:12; Goold --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, ver.
+               </gap></supplied>, ver.
 12. <hi>I follow after,</hi> prosecute; the word signifies pro<g ref="char:EOLhyphen"/>perly
 to <hi>persecute,</hi> which with what earnestness and
 diligence it is usually done, we know. Secondly,
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">ἐπεκτείνομαι<!-- Phil 3:13; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>I reach forward,</hi> reaching with great
+               </gap></supplied>, <hi>I reach forward,</hi> reaching with great
 intention of spirit and affections. It is a great and
 constant endeavour that is expressed in that word.
-Thirdly, <gap reason="foreign">
+Thirdly, <supplied reason="foreign" cert="high" resp="#editor">κατὰ σκοπὸν διώκω<!-- Phil 3:14; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, say we, <hi>I press to<g ref="char:EOLhyphen"/>wards
+               </gap></supplied>, say we, <hi>I press to<g ref="char:EOLhyphen"/>wards
 the mark,</hi> that is, even as men that are run<g ref="char:EOLhyphen"/>ning
 for a prize. All set forth the vigour, earnest<g ref="char:EOLhyphen"/>ness,
 diligence and constancy that is used in the
 pursuit of this purpose. And this the nature of the
 principle of Grace requireth in them in whom it is.
 But yet we see with what <hi>failings,</hi> yea <hi>fallings,</hi>
-their pursuit of this course is attended. The <gap reason="illegible" resp="#TECH" extent="1 letter">
+their pursuit of this course is attended. The <supplied reason="illegible" cert="high" resp="#editor">f<!-- scan OCR: both read 'frame'; book has it 67x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>rame
+               </gap></supplied>rame
 of the heart is changed, the heart is stollen away,
 the affections intangled, eruptions of unbelief and
 distempered passions discovered, carnal wisdom
@@ -2938,23 +2939,23 @@ of its <hi>fighting.</hi>
             <p>Secondly, It doth not only <hi>rebel</hi> and resist, but
 it assaults the soul; it sets upon the Law of the
 mind and grace, which is the second part of its
-warring, 1 <hi>Pet.</hi> 2. 11. <gap reason="foreign">
+warring, 1 <hi>Pet.</hi> 2. 11. <supplied reason="foreign" cert="high" resp="#editor">στρατεύονται κατὰ τῆς ψυχῆς<!-- 1 Pet 2:11; the 1675 page (archive.org bim ..._1675), p. 75 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 <hi>they fight,</hi> or war <hi>against the soul. Jam.</hi> 4. 1.
-<gap reason="foreign">
+<supplied reason="foreign" cert="high" resp="#editor">στρατεύονται ἐν τοῖς μέλεσιν ὑμῶν<!-- Jas 4:1; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>They fight,</hi> or
+               </gap></supplied>, <hi>They fight,</hi> or
 war <hi>in your members. Peter</hi> <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice> what they oppose
 and fight against, namely the <hi>Soul,</hi> and the Law of
 Grace therein; <hi>James,</hi> what they fight with, or
 by, namely the members, or the corruption that
-is in our mortal bodies. <gap reason="foreign">
+is in our mortal bodies. <supplied reason="foreign" cert="high" resp="#editor">ἀντιστρατεύεσθαι<!-- Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap> is to re<g ref="char:EOLhyphen"/>bel
-against a <choice><orig>superiour</orig><reg resp="#auto" type="spelling">superior</reg></choice>; <gap reason="foreign">
+               </gap></supplied> <choice><orig>is</orig><reg resp="#auto" type="spelling">Is</reg></choice> to re<g ref="char:EOLhyphen"/>bel
+against a <choice><orig>superiour</orig><reg resp="#auto" type="spelling">superior</reg></choice>; <supplied reason="foreign" cert="high" resp="#editor">στρατεύεσθαι<!-- Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap> is to assault or
+               </gap></supplied> is to assault or
 war for superiority. It takes the part of an <hi>As<g ref="char:EOLhyphen"/>sailant</hi>
 as well as of a resister. It makes attempts
 for rule and sovereignty, as well as opposeth the
@@ -2973,32 +2974,32 @@ the folly of the imaginations, it sets upon the <hi>soul</hi>
 then, when the Law of grace is not actually put<g ref="char:EOLhyphen"/>ting
 it on duty, so that therein it doth not rebel
 but assault. Hence the Apostle cries out, <hi>Rom.</hi> 7.
-24. <hi>Who shall deliver me from it,</hi> who shall <hi>rescue<gap reason="illegible" resp="#TECH" extent="1 letter">
+24. <hi>Who shall deliver me from it,</hi> who shall <hi>rescue<supplied reason="illegible" cert="high" resp="#editor">d<!-- context; book has 'rescued' 1x; OCR read {'kraken': ['deliver', 'deliver', 'rescut', 'rescue'], 'tesseract': ['deliver', 'vefcue', 'deliver']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi>
 me out of its hand, as the word signifies. When
 we <hi>pursue</hi> an enemy, and he resists us, we do not
 cry out, <hi>Who shall deliver us,</hi> for we are the assail<g ref="char:EOLhyphen"/>ants;
-but, <hi>Who shall rescue me,</hi> is the cry of one<gap reason="illegible" resp="#TECH" extent="1 letter">
+but, <hi>Who shall rescue me,</hi> is the cry of one<supplied reason="illegible" cert="high" resp="#editor">s<!-- context; book has 'ones' 5x; OCR read {'kraken': ['one'], 'tesseract': ['on']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 who is set upon by an enemy. So it is here, a man
 is assaulted by his own <hi>lusts,</hi> as <hi>James</hi> speaks. By
 the way side, in his employment, under a duty,
 sin sets upon the soul with vain imaginations, foolish
 desires, and would willingly employ the soul to
 make provision for its satisfaction; which the
-Apostle cautions us against, <hi>Rom.</hi> 13. 14. <gap reason="foreign">
+Apostle cautions us against, <hi>Rom.</hi> 13. 14. <supplied reason="foreign" cert="high" resp="#editor">τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθε εἰς ἐπιθυμίας<!-- Rom 13:14; Goold; 1675 Kraken --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>,
+               </gap></supplied>,
 Do not accom<g ref="char:EOLhyphen"/>plish
 the providence or projection of the flesh, for
 its own satisfaction.</p>
             <p rend="level1" change="#review">Secondly, Its <hi>importunity</hi> and urgency seems to
-be noted in this expression of its <hi>warring.</hi> Enemies<gap reason="illegible" resp="#TECH" extent="1 letter">
+be noted in this expression of its <hi>warring.</hi> Enemies<supplied reason="illegible" cert="high" resp="#editor"><!-- Enemies in war: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 in war are restless, pressing and importunate. So is
 the Law of sin. Doth it set upon the soul? <choice><orig>cast</orig><reg resp="#auto" type="spelling">Cast</reg></choice> off
 its motions, it returns again; rebuke them by the
@@ -3013,37 +3014,37 @@ presseth on the soul again. Mind it of the love of
 God in Christ, though it be stricken, yet it gives
 not over. Present <hi>Hell-fire</hi> unto it, it rusheth into
 the midst of those flames. Reproach it with its
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">f<!-- folly: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>olly and madness, it knows no shame, but presseth
+               </gap></supplied>olly and madness, it knows no shame, but presseth
 on still. Let the thoughts of the mind strive to <choice><orig>flie</orig><reg resp="#auto" type="spelling">fly</reg></choice>
 from it, it follows as on the wings of the wind.
 And by this <hi>importunity</hi> it wearies and warrs out
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'the' 5345x, next 'she' 21x; OCR read {'kraken': ['he'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>he soul, and if the great remedy, <hi>Rom</hi> 8. 13. <choice><orig>come</orig><reg resp="#auto" type="spelling">Come</reg></choice>
-not timely, it prevails to a conquest. There is no<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>he soul, and if the great remedy, <hi>Rom</hi> 8. 13. <choice><orig>come</orig><reg resp="#auto" type="spelling">Come</reg></choice>
+not timely, it prevails to a conquest. There is no<g ref="char:EOLhyphen"/><supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'nothing' 68x; OCR read {'kraken': ['somewhar', 'nohing', 'one yet', 'none'], 'tesseract': ['fomewhar', 'no hing', 'one yet']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>hing
-more marvellous nor dreadful in the work<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>hing
+more marvellous nor dreadful in the work<g ref="char:EOLhyphen"/><supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'working' 50x; OCR read {'kraken': ['very foundation', 'discovery', 'fineyard', 'remainders', 'person', 'nature', 'hearts', 'principal intendment', 'remainders', 'mill', 'guiding management', 'government', 'hearts', 'most even', 'remainder', 'law', 'law', 'application', 'remainders', 'beginning', 'hidden darkness', 'dealings', 'heart', 'pursuit', 'heart experiences', 'sense', 'least', 'subduing', 'blood', 'he art', 'nature', 'rebukes', 'most secret', 'things', 'pursuit', 'products', 'blamelesness', 'state', 'law', 'springs', 'life', 'nature', 'law', 'law', 'fear', 'pursuit', 'workng', 'outward part', 'scripture', 'way', 'snare', 'nature', 'demonstration', 'pursuit', 'pursuit', 'pursuit', 'business', 'whole seat', 'way', 'principal duties', 'hearts', 'hearts', 'business', 'conception', 'compleating', 'lives', 'wilderness', 'instance', 'daies', 'blood', 'waies', 'manner', 'reading', 'discovery', 'pursuit', 'name', 'grace', 'law', 'wayes', 'things', 'mind', 'consideration', 'mind', 'strength', 'performance', 'midst', 'law', 'declaration', 'blood', 'fear', 'lot', 'knowledge', 'turning', 'power', 'sight', 'pleasures', 'whole course', 'beginning', 'lust', 'scrtpture', 'murthering', 'denying', 'mill', 'soul because', 'sight', 'pursuit', 'sons', 'destruction', 'wayes', 'wa y', 'ballance', 'lives', 'consent', 'womb', 'will', 'by cutting', 'covenant', 'blood', 'purpose', 'coming', 'pursuit', 'perpetrating', 'power', 'whole course', 'design', 'pursuit', 'folly', 'execution', 'pursuit', 'government', 'the will', 'way', 'case', 'midst', 'sharpens arrows', 'hearts', 'pursuit', 'works', 'work', 'integrity', 'change', 'first conversion', 'following supplies', 'midst', 'height', 'fulness', 'renewed communications', 'government', 'pursuit', 'lives', 'demonstration', 'management', 'lives', 'lives', 'lives', 'wayes', 'lives', 'lives', 'scripture', 'wilderness', 'church', 'scripture', 'lives', 'room', 'room', 'lives', 'ordinances worship', 'observation', 'covenant', 'lives', 'use', 'remembrance', 'lives', 'midst', 'use', 'lives', 'measure', 'lives', 'lives', 'waies', 'beauties', 'beauties', 'souls', 'destruction', 'power', 'blood', 'course', 'waies', 'things', 'generation', 'course', 'body', 'whole course', 'eyes', 'whole', 'blood', 'law', 'enjoyment', 'law', 'principles', 'nourifhing', 'principles', 'education', 'top', 'preaching', 'works', 'proposal', 'forgivene', 'name', 'blood', 'puriet', 'amend ment', 'rock', 'wakning', 'church', 'things', 'possession', 'service', 'entrance', 'soul', 'pursuit', 'service', 'same snares', 'natures', 'first conversion'], 'tesseract': ['very foundation', 'd covery', 'perfon', 'na ture', 'hearts', 'will', 'guiding management', 'government', 'hearts', 'moft even', 'remainder', 'law', 'law', 'application', 'remainders', 'begirining', 'hidden darknefs', 'dealings', 'heart', 'purfuit', 'heart experiences', 'fenfe', 'leaft', 'foul', 'h art', 'nature', 'rebukes', 'moft fecret', 'things', 'purfuit', 'produ s', 'ftate', 'law', 'ri fessn', 'jife', 'nature', 'law', 'fear', 'workng', 'scripture', 'nare', 'nature', 'demonftration', 'purfuit', 'bulinefs', 'name', 'whole feat', 'way', 'hearts', 'hearts', 'bufinefs', 'conception', 'compleating', 'lives', 'wildernefs', 'inftance', 'daies', 'blood', 'waies', 'manner', 'reading', 'difcovery', 'purfuit', 'name', 'grace', 'law', 'wayes', 'work', 'confideration', 'mind', 'ftrength', 'performance', 'midft', 'law', 'declaration', 'blood', 'fear', 'lot', 'knowledge', 'turning', 'power', 'fight', 'pleafures', 'whole courfe', 'beginning', 'crofs', 'luff', 'scripture', 'murthering', 'denying', 'fight', 'purfuit', 'sons', 'deftru ion', 'wayes', 'ballance', 'lives', 'confent', 'obftru ion', 'by cutting', 'covenant', 'blood', 'purpofe', 'purfuic', 'perpetrating', 'power', 'whole courfe', 'purfuit', 'folly', 'execution', 'purfuit', 'government', 'the will', 'way', 'mid', 'fharpens arrows', 'hearts', 'purfuic', 'works', 'work', 'change', 'firft converfion', 'following fupplies', 'midft', 'height', 'fulnefs', 'remewed commanicarsons', 'government', 'lives', 'demonftration', 'management', 'lives', 'lives', 'lives', 'wayes', 'lives', 'lives', 'scripture', 'church', 'scripture', 'lives', 'room', 'room', 'lives', 'ordinances worthip', 'obfervation', 'covenant', 'lives', 'ufe', 'remembrance', 'lives', 'midft', 'ufe', 'meafure', 'wiies', 'beauties', 'beauties', 'souls', 'deftru ion', 'power', 'blood', 'prings', 'courfe', 'things', 'ge neration', 'body', 'whole courfe', 'blood', 'erfjdyment', 'law', 'principles', 'education', 'top', 'preaching', 'works', 'propofal', 'forgivenef', 'name', 'blood', 'p', 'amend ment', 'rock', 'wakying', 'church', 'things', 'fervice', 'entrance', 'whole mafs', 'purfuir', 'famednaces', 'natures', 'firft converfios']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ng
+               </gap></supplied>ng
 of sin, than this of its <hi>importunity.</hi> The soul
-knows not what to make of it; it dislikes, ab<g ref="char:EOLhyphen"/><gap reason="illegible" resp="#TECH" extent="1 letter">
+knows not what to make of it; it dislikes, ab<g ref="char:EOLhyphen"/><supplied reason="illegible" cert="high" resp="#editor">h<!-- context; book has 'abhors' 4x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ors,
+               </gap></supplied>ors,
 abominates the evil it tends unto, it despiseth
 the thoughts of it, hates them as hell, and yet is by
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">i<!-- it: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>t self imposed on with them, as if it were another
+               </gap></supplied>t self imposed on with them, as if it were another
 person, an express enemy got within him. All
 this the Apostle discovers, <hi>Rom.</hi> 7. 15, 17. <hi>The
 things that I do I hate;</hi> it is not of outward acti<g ref="char:EOLhyphen"/>ons,
 but the inward risings of the mind that he
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">t<!-- treats: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>reats. <hi>I hate them,</hi> saith he, I abominate them.
+               </gap></supplied>reats. <hi>I hate them,</hi> saith he, I abominate them.
 But why then will he have any thing more to do
 with them? If he hate them, and abhor himself
 for them, let them alone, have no more to do with
@@ -3159,9 +3160,9 @@ and therefore supposed they believed it, might be
 delivered from their soul ruining deceits, if they
 would diligently apply themselves unto this search
 <pb n="81" facs="tcp:42900:45"/>
-of their won hearts. Or would other <hi>Professor<gap reason="illegible" resp="#TECH" extent="1 letter">
+of their won hearts. Or would other <hi>Professor<supplied reason="illegible" cert="high" resp="#editor">s<!-- context; book has 'professors' 26x; OCR read {'kraken': ['professor'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi>
 walk with so much boldness and security as some
 do, if they considered a right what a deadly watch<g ref="char:EOLhyphen"/>ful
@@ -3207,7 +3208,7 @@ Let us go then and judge, condemn, reproach
 others that have been tempted; we shall find a
 great inconsistency in these things. And many
 things of the like nature might be here added
-upon the consideration of this woful effect of<g ref="char:punc">▪</g>
+upon the consideration of this woful effect of<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation"></reg></choice>
                <hi>Indwelling-Sin.</hi> The way of opposing and de<g ref="char:EOLhyphen"/>feating
 its design herein shall be afterwards consi<g ref="char:EOLhyphen"/>dered.</p>
          </div>
@@ -3282,9 +3283,9 @@ small or great, it becomes in him in whom it is,
 a sin of <hi>boldness, pride,</hi> and presumption. For these
 things are not reckoned from the nature or kind
 of the sin, but from its prevalency and customa<g ref="char:EOLhyphen"/>riness,
-wherein its pride, boldness<g ref="char:punc">▪</g> and contempt<gap reason="illegible" resp="#TECH" extent="1 letter">
+wherein its pride, boldness<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> and contempt<supplied reason="illegible" cert="high" resp="#editor"><!-- contempt of God: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 of God doth consist. To the same purpose, if I
 mistake not, <choice><orig>prayes</orig><reg resp="#auto" type="spelling">prays</reg></choice> <hi>Jabez,</hi> 1 Chron. 4. 10. <hi>O that
 thou wouldst bless me indeed and enlarge my Coast,
@@ -3396,9 +3397,9 @@ against his will. Captivity is misery and trouble,
 and no man willingly puts himself into trouble.
 Men <choice><orig>chuse</orig><reg resp="#auto" type="spelling">choose</reg></choice> it in its <hi>causes,</hi> and in the <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>
 and means leading unto it, but not in it self.
-So the Prophe<gap reason="illegible" resp="#TECH" extent="1 letter">
+So the Prophe<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: one read 'prophet'; book has it 15x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> informs us, Hos. 5. 11. <hi>Ephraim
+               </gap></supplied> informs us, Hos. 5. 11. <hi>Ephraim
 was not willingly oppressed and broken in
 <pb n="88" facs="tcp:42900:49"/>
 Judgement;</hi> that was his misery and trouble; but
@@ -3433,9 +3434,9 @@ soul, that it turns aside as it were, and leaves con<g ref="char:EOLhyphen"/>ten
 which is a success also. One or more, or
 all of these must be, where <hi>Captivity</hi> takes place.
 Such a kind of course doth the Apostle ascribe unto
-cove<gap reason="illegible" resp="#TECH" extent="1 letter">
+cove<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'covetousness' 9x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ousness, 1 <hi>Tim.</hi> 6. 9.</p>
+               </gap></supplied>ousness, 1 <hi>Tim.</hi> 6. 9.</p>
             <p rend="level1" change="#review">
                <pb n="89" facs="tcp:42900:49"/>
 Thirdly, This leading captive manifests this
@@ -3477,9 +3478,9 @@ subject thereunto. It hath, as it were, a rightful
 dominion over them, and they oppose it not, but
 only when it hath irruptions to the disturbance of
 their consciences. And then the opposition they
-make unto it is not from their <hi>wills,</hi> but is the mee<gap reason="illegible" resp="#TECH" extent="1 letter">
+make unto it is not from their <hi>wills,</hi> but is the mee<supplied reason="illegible" cert="high" resp="#editor">r<!-- meer: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 acting of an affrighted conscience, and a convinced
 mind. They regard not the <hi>nature</hi> of sin, but its
 <hi>guilt</hi> and consequences. But to be brought into
@@ -3500,21 +3501,21 @@ up unto <hi>madness.</hi> The holy Ghost expresseth this
 rage of sin by a fit similitude which he useth in
 sundry places, as <hi>Jer.</hi> 2. 24. <hi>Hos.</hi> 8. 9. It maketh
 <hi>men as a wild Ass;</hi> she traverseth her ways, and
-<gap reason="illegible" resp="#TECH" extent="5 letters">
+<supplied reason="illegible" cert="high" resp="#editor">snuff<!-- snuffeth: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); Jer 2:24 --><gap reason="illegible" resp="#TECH" extent="5 letters">
                   <desc>•••••</desc>
-               </gap>eth up the wind, and runneth whither her mind
+               </gap></supplied>eth up the wind, and runneth whither her mind
 or lust leads her. And he saith of Idolaters enraged
 with their lusts, that they <hi>are mad upon their idols,
 Jer.</hi> 5. 38. We may a little consider what lies in
 this <hi>madness</hi> and rage of sin, and how it riseth up
 thereunto.</p>
             <p>
-               <gap reason="illegible" resp="#TECH" extent="2 letters">
+               <supplied reason="illegible" cert="high" resp="#editor">Fi<!-- First: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>rst, For the <hi>nature</hi> of it, it seems to consist in
-a violent, heady, per<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>rst, For the <hi>nature</hi> of it, it seems to consist in
+a violent, heady, per<supplied reason="illegible" cert="high" resp="#editor">t<!-- pertinacious: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>inacious pressing unto evil or
+               </gap></supplied>inacious pressing unto evil or
 <pb n="91" facs="tcp:42900:50"/>
 sin. <hi>Violence,</hi> importunity and pertinacy are in it.
 It is the tearing and torturing of the soul by any
@@ -3540,9 +3541,9 @@ by which, as the Apostle speaks, men <hi>pierce them<g ref="char:EOLhyphen"/>sel
 through with many sorrows.</hi> God is angry
 with them, and discovereth his wrath by all the
 ways and means that it was possible for them to be
-made sensible thereof. He was <hi>wroth</hi> and smo<gap reason="illegible" resp="#TECH" extent="1 letter">
+made sensible thereof. He was <hi>wroth</hi> and smo<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: one read 'smote'; book has it 4x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>e
+               </gap></supplied>e
 them; but though it may be this staggered them
 a little, yet they went on. <hi>He is angry, and hides
 himself from them,</hi> deserts them as to his gracious
@@ -3552,46 +3553,46 @@ their covetousness. Nothing can put a stop to their
 raging lusts. This is <hi>plain madness</hi> and fury. We
 need not seek far for instances, we see men mad on
 <pb n="92" facs="tcp:42900:51"/>
-their lusts every day: And which is the worst kind<gap reason="illegible" resp="#TECH" extent="1 letter">
+their lusts every day: And which is the worst kind<supplied reason="illegible" cert="high" resp="#editor">s<!-- context; book has 'kinds' 2x; OCR read {'kraken': ['kind', 'and excellency'], 'tesseract': ['and excellency']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 of <hi>madness,</hi> their lusts do not rage so much in
 them, as they rage in the pursuit of them. Are
 those greedy pursuits of things in the world, which
 we see some men engaged in, though they have
-other pretences, indeed an<gap reason="illegible" resp="#TECH" extent="1 letter">
+other pretences, indeed an<supplied reason="illegible" cert="high" resp="#editor">d<!-- context; book has 'and' 3378x, next 'any' 227x; OCR read {'kraken': ['an'], 'tesseract': ['ar']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> thing else but plain
+               </gap></supplied> thing else but plain
 <hi>madness</hi> in the pursuit of their lusts? God who
 searcheth the hearts of men, knows, that the most
 of things that are done with other pretences in the
-world, are nothing but the actings of men mad<gap reason="illegible" resp="#TECH" extent="1 letter">
+world, are nothing but the actings of men mad<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'made' 107x; OCR read {'kraken': ['mad', 'by deceitfulness', 'from sin', 'lusts', 'unto', 'utmost endeavours'], 'tesseract': ['ma', 'lufts', 'unto', 'utmoft endeavours']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 and furious in the pursuit of their lusts.</p>
             <p>Secondly, That sin ariseth not unto this height
 ordinarily, but when it hath got a double advan<g ref="char:EOLhyphen"/>tage.</p>
-            <p rend="level1" change="#review">First, That it be provoked, enraged and h<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level1" change="#review">First, That it be provoked, enraged and h<supplied reason="illegible" cert="high" resp="#editor"><!-- heightned: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>eight<g ref="char:EOLhyphen"/>ned
-by some great <hi>temptation.</hi> Though it be a<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>eight<g ref="char:EOLhyphen"/>ned
+by some great <hi>temptation.</hi> Though it be a<supplied reason="illegible" cert="high" resp="#editor"><!-- be a poison: 1668 Kraken; 1675 'bey' --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 poison in it self, yet being inbred in nature, it
 grows not violently outragious without the con<g ref="char:EOLhyphen"/>tribution
 of some new poison of <hi>Sathan</hi> unto it in
-a suitable t<gap reason="illegible" resp="#TECH" extent="1 letter">
+a suitable t<supplied reason="illegible" cert="high" resp="#editor">e<!-- scan OCR: one read 'temptation'; book has it 65x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>mptation. It was the advantage that
+               </gap></supplied>mptation. It was the advantage that
 Sathan got against <hi>David,</hi> by a suitable temptation
 that raised his lusts to that <hi>rage</hi> and <hi>madness,</hi> which
 it went forth unto in the business of <hi>Bathsheba</hi> and
 <hi><choice><orig>Vriah</orig><reg resp="#auto" type="spelling">Uriah</reg></choice>.</hi> Though sin be always a fire in the bones,
 yet it flames not, unless Sathan come with his bel<g ref="char:EOLhyphen"/>lows
 to blow it up. And let any one in whom the
-Law of sin <gap reason="illegible" resp="#TECH" extent="1 letter">
+Law of sin <supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'ariseth' 5x; OCR read {'kraken': ['proposed', 'consists in', 'rises up', 'riseth up', 'and', 'is said', 'hath', 'there are', 'endeavours deceitfully', 'is apt', 'were', 'useth', 'endeavours', 'endeavours', 'utterly', 'namely', 'proceeds thus', 'endeavours', 'proceedeth in', 'is', 'not fail', 'prevail', 'and bondage', 'begins'], 'tesseract': ['rifeth up', 'a firefent', 'is aid', 'endeavours decestfully', 'endeavours', 'pot fail']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>riseth to this height of rage, seriously
+               </gap></supplied>riseth to this height of rage, seriously
 consider, and he may find out where the devil
 stands and puts in the business.</p>
             <p rend="level1" change="#review">Secondly, It must be advantaged by some <hi>for<g ref="char:EOLhyphen"/>mer</hi>
@@ -3599,7 +3600,7 @@ entertainment and prevalency. Sin grows not
 to this height at its first assault. Had it not been
 suffered to make its entrance, had there not been
 <pb n="93" facs="tcp:42900:51"/>
-some yielding in the soul, this had not come about<g ref="char:punc">▪</g>
+some yielding in the soul, this had not come about<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice>
 The great wisdom and security of the soul in deal<g ref="char:EOLhyphen"/>ing
 with in-dwelling sin, is to put a violent stop
 unto its <hi>beginnings,</hi> its first motions and actings.
@@ -3658,7 +3659,7 @@ effectual working in all the faculties of the soul,
 as they are one united principle of moral and spi<g ref="char:EOLhyphen"/>ritual
 operations. So then, the interrupting of
 its exercise, of its Rule and Power by the Law
-of Sin<g ref="char:punc">▪</g> must consist in its contrary acting in and
+of Sin<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> must consist in its contrary acting in and
 upon the faculties and affections of the soul, where<g ref="char:EOLhyphen"/>on,
 and by which grace should exert its power
 and efficacy. And this it doth. It <hi>darkens</hi> the
@@ -3723,11 +3724,11 @@ farther clear this unto us.</p>
 from the power of <hi>renewing grace,</hi> God deals with
 it to keep it within bounds by <hi>preventing grace.</hi>
 So the Lord declares that he will deal with <hi>Israel,
-H<gap reason="illegible" resp="#TECH" extent="1 letter">
+H<supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'his' 564x, next 'hos' 13x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>s.</hi> 2. 6. <choice><orig>seeing</orig><reg resp="#auto" type="spelling">Seeing</reg></choice> <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  </gap></supplied>s.</hi> 2. 6. <choice><orig>seeing</orig><reg resp="#auto" type="spelling">Seeing</reg></choice> <supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'thou' 41x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>hou hast rejected me, I will take
+               </gap></supplied>hou hast rejected me, I will take
 another course with thee. I will lay obstacles be<g ref="char:EOLhyphen"/>fore
 thee that thou shalt not be able to pass on
 whither the fury of thy lusts would drive thee. He
@@ -3747,13 +3748,13 @@ the Spirit of Life, the <hi>Love of Christ constraineth
 him,</hi> 2 <hi>Cor.</hi> 5. 14. The principle of his doing good
 and abstaining from evil, is <hi>faith working by love,</hi>
 accompanied with a following of Christ because of
-the sweet <gap reason="illegible" resp="#TECH" extent="1 letter">
+the sweet <supplied reason="illegible" cert="high" resp="#editor">s<!-- savour: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>avour of his name. But now when
+               </gap></supplied>avour of his name. But now when
 this blessed <hi>
-                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <choice><orig><supplied reason="illegible" cert="high" resp="#editor">easie<!-- easie yoke: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap> yoke</hi> is for a season cast off, so as
+                  </gap></supplied></orig><reg resp="#auto" type="spelling">easy</reg></choice> yoke</hi> is for a season cast off, so as
 was manifested before, God sets an hedge of <hi>terrour</hi>
 before the soul, minds it of Death and Judgement
 to come, flashes the flames of Hell Fire in the face,
@@ -3800,9 +3801,9 @@ whatever may befall it. That is, though they be
 presented unto it, it will venture upon them all.
 Rage and madness is <hi>fearless.</hi> And this it doth two
 <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p rend="level1" change="#review">First, It <hi>possess<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level1" change="#review">First, It <hi>possess<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'possesseth' 3x; OCR read {'kraken': ['lusteth ivherein', 'possessetb', 'is from', 'intangleth'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>th the mind,</hi> that it suffers not the
+                  </gap></supplied>th the mind,</hi> that it suffers not the
 consideration of these things to dwell upon it, but
 renders the thoughts of them slight and <hi>evanid.</hi>
 Or if the mind do force it self to a contemplation
@@ -3916,9 +3917,9 @@ was a new fruit of the sin she had cast her self into.
 But the matter of fact was true, she was <hi>beguiled</hi>
 before she eat; deceit went before the transgression.
 And the Apostle <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice> that Sin and Satan still take
-the same c<gap reason="illegible" resp="#TECH" extent="1 letter">
+the same c<supplied reason="illegible" cert="high" resp="#editor">o<!-- context; book has 'course' 73x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>urse, 2 <hi>Cor.</hi> 11. 3. There is saith he, the
+               </gap></supplied>urse, 2 <hi>Cor.</hi> 11. 3. There is saith he, the
 same way of working towards actual sin, as was of
 old; beguiling, deceiving goes before, and sin that
 <pb n="102" facs="tcp:42900:56"/>
@@ -3982,18 +3983,18 @@ eye. Hence Satan takes advantage secretly to
 insinuate, that it was meerly an <hi>abridgement</hi> of
 their happiness, that God aimed at in forbidding
 them to eat of it. That it was for a tryal of their
-obedience<g ref="char:punc">▪</g> that certain though not immediate
-<gap reason="illegible" resp="#TECH" extent="1 word">
+obedience<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> that certain though not immediate
+<choice><orig><supplied reason="illegible" cert="high" resp="#editor">ruine<!-- the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> would ensue upon the eating of it, he <hi>hides</hi>
-from <gap reason="illegible" resp="#TECH" extent="3 letters">
+               </gap></supplied></orig><reg resp="#auto" type="spelling">ruin</reg></choice> would ensue upon the eating of it, he <hi>hides</hi>
+from <supplied reason="illegible" cert="high" resp="#editor">the<!-- them: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
-               </gap>m; only he proposeth the present advan<g ref="char:EOLhyphen"/>tage
+               </gap></supplied>m; only he proposeth the present advan<g ref="char:EOLhyphen"/>tage
 of knowledge, and so presents the whole case
 quite otherwise unto them, than indeed it was.
-This is the <gap reason="illegible" resp="#TECH" extent="3 letters">
+This is the <supplied reason="illegible" cert="high" resp="#editor">natu<!-- nature of deceit: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
-               </gap>re of <hi>deceit;</hi> it is a Representation
+               </gap></supplied>re of <hi>deceit;</hi> it is a Representation
 of a matter under disguises, hiding that which is
 <pb n="104" facs="tcp:42900:57"/>
 undesirable, proposing that which indeed is not in
@@ -4245,7 +4246,7 @@ unto. <hi>If ye call on the Father, who without respect of
 <pb n="111" facs="tcp:42900:60"/>
 persons judgeth according to every mans work, pass
 the time of your sojourning here in fear.</hi> This is the
-humble frame of soul<g ref="char:punc">▪</g> and how is this obtained?
+humble frame of soul<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">;</reg></choice> and how is this obtained?
 <choice><orig>how</orig><reg resp="#auto" type="spelling">How</reg></choice> is this preserved? No otherwise but by a con<g ref="char:EOLhyphen"/>stant
 deep apprehension of the evil, vileness, and
 danger of sin. So was it wrought, so was it kept
@@ -4770,7 +4771,7 @@ by the skilful hand of the Spirit of God, he had a
 discovery made unto him of the root of all his mis<g ref="char:EOLhyphen"/>carriages
 in his <hi>original corruption, vers.</hi> 5. The
 Spirit in this duty is as the <hi>candle of the Lord</hi> unto
-the soul<g ref="char:punc">▪</g> enabling it to search all the inward parts of
+the soul<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> enabling it to search all the inward parts of
 the belly. It gives a holy spiritual light into the
 mind, enabling it to search the deep and dark re<g ref="char:EOLhyphen"/>cesses
 of the heart, to find out the subtil and de<g ref="char:EOLhyphen"/>ceitful
@@ -4817,14 +4818,14 @@ any of the enemies of God, or the soul, no not for a
 moment. And hence it is, that oftentimes in this
 duty, the heart is raised to the most sincere effe<g ref="char:EOLhyphen"/>ctual
 sense of sin, and detestation of it, that the soul
-ever obtains in its whole cour<gap reason="illegible" resp="#TECH" extent="1 letter">
+ever obtains in its whole cour<supplied reason="illegible" cert="high" resp="#editor">s<!-- context; book has 'course' 73x; OCR read {'kraken': ['cour e'], 'tesseract': ['cour e']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>e of obedience. And
+               </gap></supplied>e of obedience. And
 this evidently tends also to the <hi>weakning</hi> and <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>
 of the Law of sin.</p>
-            <p>Thirdly, This is the way appointed and bles<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p>Thirdly, This is the way appointed and bles<g ref="char:EOLhyphen"/>s<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'blessed' 18x; OCR read {'kraken': ["bless'd"], 'tesseract': ['blef d']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>d
+               </gap></supplied>d
 of God to obtain strength and power against
 <pb n="128" facs="tcp:42900:69"/>
 sin. <hi>Jam.</hi> 1. 5. <hi>Doth any man lack, let him ask of
@@ -4901,12 +4902,12 @@ yea, to the <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</re
 <hi><choice><orig>hypocrisie</orig><reg resp="#auto" type="spelling">hypocrisy</reg></choice>,</hi> this engagement unto God will greatly
 influence it unto a peculiar diligence and watchful<g ref="char:EOLhyphen"/>ness
 against all sin. There is no greater evidence of
-<choice><orig>hypocrisie</orig><reg resp="#auto" type="spelling">hypocrisy</reg></choice>, than to have the hear<gap reason="illegible" resp="#TECH" extent="1 letter">
+<choice><orig>hypocrisie</orig><reg resp="#auto" type="spelling">hypocrisy</reg></choice>, than to have the hear<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: both read 'heart'; book has it 187x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> like the <hi>whorish
+               </gap></supplied> like the <hi>whorish
 woman, Prov.</hi> 7. 14. <choice><orig>to</orig><reg resp="#auto" type="spelling">To</reg></choice> say, <hi>I have paid my vows,
 now I may take my self unto my sin.</hi> Or to be
-<hi>negligent</hi> about sin<g ref="char:punc">▪</g> as being <hi>satisfied</hi> that it hath
+<hi>negligent</hi> about sin<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> as being <hi>satisfied</hi> that it hath
 prayed against it. It is otherwise in a gracious soul.
 Sense and conscience of engagements against sin
 made to God, do make it universally watchful
@@ -5325,9 +5326,9 @@ performance of any duty which a Believer, who is
 trusted with spiritual light, ought to attend unto.</p>
             <p rend="level3" change="#review">First, that it be done <hi>in the way,</hi> and by the
 means that God hath prescribed with respect unto
-the ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+the ou<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'outward' 31x; OCR read {'kraken': ['ou ward'], 'tesseract': ['oui ward']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ward manner of its performance. And this
+               </gap></supplied>ward manner of its performance. And this
 is especially to be regarded in duties of the wor<g ref="char:EOLhyphen"/>ship
 of God; the matter and outward manner
 whereof do both equally fall under his command.
@@ -5685,9 +5686,9 @@ had sinned against special mercies, especial intima<g ref="char:EOLhyphen"/>tion
 of love; he sinned after God had appeared
 to him twice. God required that he should have
 born in mind that <hi>especial favour,</hi> and have made
-it an argument against sin. But he neglected<gap reason="illegible" resp="#TECH" extent="1 letter">
+it an argument against sin. But he neglected<supplied reason="illegible" cert="high" resp="#editor"> it<!-- neglected it: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>,
+               </gap></supplied>,
 and is burdened with this sore rebuke. And in<g ref="char:EOLhyphen"/>deed
 <pb n="153" facs="tcp:42900:81"/>
 all <choice><orig>especiall</orig><reg resp="#auto" type="spelling">especial</reg></choice> mercies, all especial tokens and
@@ -5934,9 +5935,9 @@ concerning this effect of the deceit of sin, we shall
 briefly <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> two things.</p>
             <p>First, What it is to be <hi>enticed,</hi> or to be <hi>entangled</hi>
 with the bait of sin, to have the <hi>Affections</hi> tainted
-with an inclin<gap reason="illegible" resp="#TECH" extent="1 letter">
+with an inclin<supplied reason="illegible" cert="high" resp="#editor">a<!-- scan OCR: one read 'inclination'; book has it 22x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>tion thereunto, and when they are
+               </gap></supplied>tion thereunto, and when they are
 so.</p>
             <p>Secondly, What course sin takes, and what way
 it proceedeth in, thus to entice, ensnare, or entangle
@@ -5974,12 +5975,12 @@ how sin prevailed with him, <hi>Josh.</hi> 7. 21. First <hi>he
 saw</hi> the wedge of Gold, and <hi>Babylonish garment,</hi>
 and then he coveted them. He rolled them the plea<g ref="char:EOLhyphen"/>sures,
 the profit of them, in his Imagination, and
-then fixed his heart upon the obt<gap reason="illegible" resp="#TECH" extent="1 letter">
+then fixed his heart upon the obt<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'obtaining' 4x; OCR read {'kraken': ['souls', 'proposal', 'account', 'first appearance', 'consideration', 'aversation', 'law', 'soul cast', 'considaraion', 'eating', 'urgency', 'duties', 'account', 'minds', 'consideration', 'apprehensions', 'obteining', 'account', 'pursuit', 'failure', 'neck', 'spirits', 'conception', 'spirits', 'apostasie', 'souls', 'first toud', 'account', 'account', 'conscience', 'soul instead', 'souls', 'souls'], 'tesseract': ['fouls', 'propofal', 'account', 'firft appearance', 'confidera tion', 'averfation', 'foul caft', 'confidgrajon', 'eating', 'urgency', 'duties', 'account', 'minds', 'confidcration', 'obtiining', 'account', 'purfuit', 'failure', 'fpirits', 'conception', 'fpirits', 'apoftafie', 'fouls', 'account', 'confcience', 'soul tead', 'souls', 'souls']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ining of them.
+               </gap></supplied>ining of them.
 Now the heart may have a <choice><orig>setled</orig><reg resp="#auto" type="spelling">settled</reg></choice>, fixed detestati<g ref="char:EOLhyphen"/>on
 of sin; but yet if a man find that the <hi>Imagina<g ref="char:EOLhyphen"/>tion</hi>
-of the mind is frequently solicited by it<g ref="char:punc">▪</g> and
+of the mind is frequently solicited by it<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> and
 exercised about it, such a one may know that his
 <hi>Affections</hi> are secretly enticed and entangled.</p>
             <p rend="level1" change="#review">Secondly, This entanglement is heightned,
@@ -6051,9 +6052,9 @@ wing, as in the <hi>Original.</hi> If it hath eyes open to dis<g ref="char:EOLhy
 the snare, and a wing to carry it away, it will
 not be caught. And in vain should the <hi>deceit of sin</hi>
 spread its <hi>snares</hi> and <hi>Nets</hi> for the entanglement of
-the <gap reason="illegible" resp="#TECH" extent="2 letters">
+the <supplied reason="illegible" cert="high" resp="#editor">sou<!-- the soul: 1668 Kraken; 1675 'thec ol' --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>l, whilest the Eyes of the mind are intent
+               </gap></supplied>l, whilest the Eyes of the mind are intent
 upon what it doth, and so stir up the wings of its
 <hi>Will</hi> and <hi>Affections</hi> to carry it away and avoid it.
 But if the <hi>Eyes</hi> be put out or diverted, the <hi>wings</hi>
@@ -6080,15 +6081,15 @@ for its satisfaction, and it is by all Artifices ren<g ref="char:EOLhyphen"/>der
 desirable and suitable. Thus is sin presented
 by the help of the imagination unto the soul; that
 is, sinful and inordinate objects, which the <hi>Af<g ref="char:EOLhyphen"/>fections</hi>
-cleave unto, are <gap reason="illegible" resp="#TECH" extent="1 word">
+cleave unto, are <supplied reason="illegible" cert="high" resp="#editor">so <!-- so presented: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap><gap reason="illegible" resp="#TECH" extent="3 letters">
+               </gap></supplied><supplied reason="illegible" cert="high" resp="#editor">pre<!-- so presented: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
-               </gap>sented. The Apostle
+               </gap></supplied>sented. The Apostle
 tells us, that there are <hi>pleasures of sin, Heb.</hi> 11. 35.
-<choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> unless they are despis<gap reason="illegible" resp="#TECH" extent="1 letter">
+<choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> unless they are despis<supplied reason="illegible" cert="high" resp="#editor">e<!-- scan OCR: one read 'despised'; book has it 8x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>d, as they were by
+               </gap></supplied>d, as they were by
 <hi>Moses,</hi> there is no escaping of sin it self Hence
 they that <hi>live in sin,</hi> are said to <hi>live in pleasure,
 James</hi> 5. 5. Now this pleasure of sin consisteth in
@@ -6098,9 +6099,9 @@ Rom. 13. 14. <hi>Make no provision for the flesh to
 fulfill the lust thereof.</hi> That is, do not suffer your
 minds, thoughts, or affections to fix upon sinful
 objects, suited to give satisfaction to the lusts of
-the flesh, to nouri<gap reason="illegible" resp="#TECH" extent="1 letter">
+the flesh, to nouri<supplied reason="illegible" cert="high" resp="#editor">sh<!-- context; book has 'nourish' 1x; OCR read {'kraken': ['nouri'], 'tesseract': ["mouri '"]} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> and cherish them thereby. To
+               </gap></supplied> and cherish them thereby. To
 which purpose he speaks again, <hi>Gal.</hi> 5. 16. <hi>Fulfill
 ye not the lusts of the flesh.</hi> Bring not in the pleasures
 of sin to give them satisfaction. When men are
@@ -6142,7 +6143,7 @@ At first <hi>Eve</hi> guards her self, with calling to mind
 the <hi>danger of sin;</hi> if we eat, or touch it, we shall
 die, <hi>Gen.</hi> 3. 3. But so soon as <hi>Satan</hi> had filled her
 mind with the beauty and usefulness of the fruit to
-make on wise, how quickly did she lay aside her
+make <seg type="transcription" change="#tcp-corrections">one<!-- the transcription has 'on'; p. 165 (scan 173): 'the beauty and usefulness of the fruit to make one wise' --></seg> wise, how quickly did she lay aside her
 practical prevalent consideration of the danger of
 eating it, the curse due unto it; or else relieves
 her self with a vain hope and pretence that it
@@ -6340,10 +6341,10 @@ seat and cause of <hi>obedience</hi> and <hi>disobedience.</hi> Moral
 actions are unto us, or in us, so far good or evil as
 they partake of the <hi>consent of the Will.</hi> He spake
 truth of old who said, <hi>Omne peccatum est adeò vo<g ref="char:EOLhyphen"/>luntarium,
-ut non <gap reason="illegible" resp="#TECH" extent="1 letter">
+ut non <supplied reason="illegible" cert="high" resp="#editor">f<!-- scan OCR: both read 'fit'; book has it 4x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>it peccatum nisi sit voluntarium.
-Every sin is so voluntary, that if it be not voluntary<g ref="char:punc">▪</g>
+                  </gap></supplied>it peccatum nisi sit voluntarium.
+Every sin is so voluntary, that if it be not voluntary<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
 it is not sin.</hi> It is most true of <hi>actual sins.</hi> The forma<g ref="char:EOLhyphen"/>lity
 of their iniquity ariseth from the acts of the
 will in them, and concerning them, I mean, as to
@@ -6406,9 +6407,9 @@ consent unto sin in the <hi>will,</hi> which is contrary to
 the inclination and general prevailing principle in
 the same will, is not, cannot be total, absolute and
 complete.</p>
-            <p rend="level1" change="#review">Secondly, There is not only a general, <gap reason="illegible" resp="#TECH" extent="3 letters">
+            <p rend="level1" change="#review">Secondly, There is not only a general, <supplied reason="illegible" cert="high" resp="#editor">ruli<!-- ruling: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
-               </gap>ng,
+               </gap></supplied>ng,
 prevailing principle in the will against sin, but
 there is also a secret <hi>reluctancy</hi> in it against its own
 act in consenting unto sin. It is true, the soul is not
@@ -6441,9 +6442,9 @@ for sin.</p>
 of the <hi>consent of the will</hi> unto sin, may beget a
 disposition, and inclineableness in it unto the like
 acts, that may bring the will unto a <hi>proneness and
-readiness</hi> to consent unto sin upon <choice><orig>easie</orig><reg resp="#auto" type="spelling">easy</reg></choice> sollicita<g ref="char:EOLhyphen"/>tion<gap reason="illegible" resp="#TECH" extent="1 letter">
+readiness</hi> to consent unto sin upon <choice><orig>easie</orig><reg resp="#auto" type="spelling">easy</reg></choice> sollicita<g ref="char:EOLhyphen"/>tion<supplied reason="illegible" cert="medium" resp="#editor">s<!-- sollicitations: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 which is a condition of soul dangerous, and
 greatly to be watched against.</p>
             <p>Fifthly, This <hi>consent of the will,</hi> which we have
@@ -6492,9 +6493,9 @@ it is; So that,</p>
 the <hi>minds being drawn away,</hi> and the <hi>Affections
 being entangled.</hi> Both these have an influence into
 the <hi>consent of the will,</hi> and the conception of this or
-t<gap reason="illegible" resp="#TECH" extent="1 letter">
+t<supplied reason="illegible" cert="high" resp="#editor">h<!-- that: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>at actual sin thereby. Our way therefore here is
+               </gap></supplied>at actual sin thereby. Our way therefore here is
 <pb n="176" facs="tcp:42900:93"/>
 made somewhat plain. We have seen at large how
 the mind is drawn away by the deceit of sin, and
@@ -6536,9 +6537,9 @@ and he is the propitiation for our sins.</hi> Here is
 the whole design and use of the Gospel briefly ex<g ref="char:EOLhyphen"/>pressed,
 <hi>These things,</hi> saith he, <hi>I write unto you;</hi> what
 things were these? Those mentioned, v. 2. <hi>The life
-was manifested, and we have seen it, and <gap reason="illegible" resp="#TECH" extent="1 word">
+was manifested, and we have seen it, and <supplied reason="illegible" cert="high" resp="#editor">bear<!-- bear witness: 1668 Kraken; 1 John 1:2 --><gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap> wit<g ref="char:EOLhyphen"/>ness,
+                  </gap></supplied> wit<g ref="char:EOLhyphen"/>ness,
 and <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> unto you that eternal life which was
 with the Father, and was manifested unto us,</hi> that is,
 the things concerning the person and mediations of
@@ -6562,15 +6563,15 @@ relief in the propitiation and intercession of Christ
 for us. This is the order and <hi>method</hi> of the
 Doctrine of the Gospel and of the application of it
 to our own souls: First, To keep us from sin;
-and then to relieve us against sin. But here ente<g ref="char:EOLhyphen"/>re<gap reason="illegible" resp="#TECH" extent="1 letter">
+and then to relieve us against sin. But here ente<g ref="char:EOLhyphen"/>re<supplied reason="illegible" cert="high" resp="#editor">t<!-- entereth: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>h
-the dece<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>h
+the dece<supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'deceit' 110x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>t of sin, and puts this <hi>new Wine into
-old Bottles,</hi> whereby the bottles are brok<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>t of sin, and puts this <hi>new Wine into
+old Bottles,</hi> whereby the bottles are brok<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'broken' 9x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>n, and
+               </gap></supplied>n, and
 <pb n="178" facs="tcp:42900:94"/>
 the Wine perisheth as to our benefit by it. It
 changeth this <hi>method</hi> and order of the application
@@ -6626,7 +6627,7 @@ of particular sins. It works the soul insensibly off
 from the <choice><orig>mysterie</orig><reg resp="#auto" type="spelling">mystery</reg></choice> of the Law of Grace, to look
 for salvation as if we had never performed any
 duty, being after we have done all unprofitable
-servants, with a resting on Soveraign Mercy<g ref="char:punc">▪</g>
+servants, with a resting on Soveraign Mercy<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
 through the blood of Christ, and to attend unto
 duties with all diligence as if we looked for no
 mercy; that is with no less care, though with more
@@ -6665,15 +6666,15 @@ soul.</p>
             <p>Secondly, As the <hi>mind</hi> being <hi>withdrawn,</hi> so the
 <hi>Affections</hi> being <hi>enticed</hi> and entangled, do greatly
 farther the conception of sin in the soul by the
-<hi>consent of t<gap reason="illegible" resp="#TECH" extent="1 letter">
+<hi>consent of t<supplied reason="illegible" cert="high" resp="#editor">h<!-- scan OCR: both read 'the'; book has it 5345x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>e will;</hi> and they do it two <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p rend="level2" change="#review">First, By s<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  </gap></supplied>e will;</hi> and they do it two <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
+            <p rend="level2" change="#review">First, By s<supplied reason="illegible" cert="high" resp="#editor">o<!-- some: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>me hasty <hi>impulse and surprisal;</hi> being
-themselves <gap reason="illegible" resp="#TECH" extent="4 letters">
+               </gap></supplied>me hasty <hi>impulse and surprisal;</hi> being
+themselves <supplied reason="illegible" cert="high" resp="#editor">stir<!-- stirred: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="4 letters">
                   <desc>••••</desc>
-               </gap>red up, incited, and drawn forth by
+               </gap></supplied>red up, incited, and drawn forth by
 some violent provocation, or suitable temptation,
 they put the whole soul as it were into a com<g ref="char:EOLhyphen"/>bustion,
 and draw the will into a consent unto
@@ -6807,9 +6808,9 @@ they know so much, as sin hath not on that ac<g ref="char:EOLhyphen"/>count
 much advantage against them; when others
 high in their notions, give advantage to their
 lusts even by their <hi>ignorance,</hi> though they know
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="medium" resp="#editor"><!-- itnot: so the 1675 OCRs (1668 'it not'); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>itnot.</p>
+               </gap></supplied>itnot.</p>
             <p rend="level1" change="#review">Secondly, <hi><choice><orig>Errour</orig><reg resp="#auto" type="spelling">Error</reg></choice></hi> is a worse part or effect of
 the minds darkness, and gives great advantage to
 the Law of sin. There is indeed <hi>ignorance</hi> in every
@@ -6829,11 +6830,11 @@ excellency, when they are foaming out their
 own shame. Under their real darkness and pre<g ref="char:EOLhyphen"/>tended
 zeal, sin sits securely and fills Pulpits,
 Houses, Prayers, Streets, with as bitter fruits of
-envy, malice, wrath, hatred, evi<gap reason="illegible" resp="#TECH" extent="1 letter">
+envy, malice, wrath, hatred, evi<supplied reason="illegible" cert="high" resp="#editor">l<!-- evil surmises: 1668 Kraken; 1 Tim 6:4 --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap><gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied><supplied reason="illegible" cert="high" resp="#editor"> s<!-- evil surmises: 1668 Kraken; 1 Tim 6:4 --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>urmises, false
+               </gap></supplied>urmises, false
 speakings, as full as they can hold. The common
 issue with such poor creatures, is, the holy blessed
 meek Spirit of God withdraws from them, and
@@ -6848,7 +6849,7 @@ whereof this single instance of its improving the
 darkness of the mind unto its own ends, is a suf<g ref="char:EOLhyphen"/>ficient
 evidence.</p>
             <p>Secondly, It useth means of relieving it self
-against the pursuit<g ref="char:punc">▪</g> that is made after it in the heart
+against the pursuit<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> that is made after it in the heart
 by the Word and Spirit of grace. One also of its
 wiles, in the way of instance, I shall name in this
 kind, and that i; the <hi>alleviation of its own guilt.</hi> It
@@ -6955,9 +6956,9 @@ power ceaseth with it. Even God himself, to
 evince the everlasting stability of his own power,
 gives himself the title of the <hi>living God.</hi> Now he
 frequently obviates the power of exerting sin actu<g ref="char:EOLhyphen"/>ally,
-by cutting short and taking away the <hi>liv<gap reason="illegible" resp="#TECH" extent="1 letter">
+by cutting short and taking away the <hi>liv<supplied reason="illegible" cert="high" resp="#editor">e<!-- scan OCR: both read 'lives'; book has it 40x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>s</hi> of
+                  </gap></supplied>s</hi> of
 them that have conceived it. Thus he dealt with
 the Army of <hi>Senacherib,</hi> when according as he had
 purposed, so he <choice><orig>threatned</orig><reg resp="#auto" type="spelling">threatened</reg></choice> that <hi>the Lord should not
@@ -7065,9 +7066,9 @@ it, and hold out against it, but would dis<g ref="char:EOLhyphen"/>honour
 him, and defile themselves, he may, and
 doubtless often doth take them out of the world,
 to take them out of the way of it. <hi>Isa.</hi> 57. 1. <hi>The
-rig<gap reason="illegible" resp="#TECH" extent="1 letter">
+rig<supplied reason="illegible" cert="high" resp="#editor">h<!-- context; book has 'righteous' 7x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>teous is taken away from the evil to come;</hi> not
+                  </gap></supplied>teous is taken away from the evil to come;</hi> not
 only the evil of punishment and judgement, but the
 evil of temptations and trials, which oftentimes
 proves much the worse of the two. Thus a Cap<g ref="char:EOLhyphen"/>tain
@@ -7157,23 +7158,23 @@ them with an arrow, suddenly shall they be wounded:
 so they shall make their own tongue to fall upon
 themselves.</hi> God meets with them, brings them
 down, that they shall not be able to accomplish their
-d<gap reason="illegible" resp="#TECH" extent="1 letter">
+d<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'design' 39x; OCR read {'kraken': ['d sign'], 'tesseract': ['d ign']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>sign. And this way of Gods preventing sin, seems
-to b<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>sign. And this way of Gods preventing sin, seems
+to b<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'beat' 2x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>at e<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>at e<supplied reason="illegible" cert="high" resp="#editor">pi<!-- context; book has 'epist' 2x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>st ordinarily, peculiar to the men of the
+               </gap></supplied>st ordinarily, peculiar to the men of the
 <pb n="195" facs="tcp:42900:102"/>
 world; God deals thus with them every day, and
 leaves them to pine away in their sins. They go
 all their <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice> big with the iniquity they have con<g ref="char:EOLhyphen"/>ceived,
-and are greatly burdened that they <gap reason="illegible" resp="#TECH" extent="1 letter">
+and are greatly burdened that they <supplied reason="illegible" cert="high" resp="#editor">c<!-- cannot: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>anno<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>anno<supplied reason="illegible" cert="high" resp="#editor">t<!-- cannot: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 be delivered of it. The Prophet tells us, that <hi>they
 practise iniquity that they had conceived, because it
 is in the power of their hand,</hi> Micah 2. 1. If they
@@ -7200,16 +7201,16 @@ mind of God to joyn in affinity with <hi>Ahab,</hi> and to
 send his Ships with him to <hi>Tarshish;</hi> but God
 breaks his Ships by a wind, that he could not
 accomplish what he had designed. But in Gods
-dealing with <gap reason="illegible" resp="#TECH" extent="1 letter">
+dealing with <supplied reason="illegible" cert="high" resp="#editor">h<!-- his: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>is in this way, there is a diffe<g ref="char:EOLhyphen"/>rence
+               </gap></supplied>is in this way, there is a diffe<g ref="char:EOLhyphen"/>rence
 from the same dispensation towards others;
 for,</p>
             <p rend="level2" change="#review">
                <pb n="196" facs="tcp:42900:103"/>
-First, It is so onl<gap reason="illegible" resp="#TECH" extent="1 letter">
+First, It is so onl<supplied reason="illegible" cert="high" resp="#editor">y<!-- context; book has 'only' 112x; OCR read {'kraken': ['far', 'sasely stored', 'and', 'when', 'ofren mentioned'], 'tesseract': ['and']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> in cases of <hi>exraordinary temp<g ref="char:EOLhyphen"/>tation.</hi>
+               </gap></supplied> in cases of <hi>exraordinary temp<g ref="char:EOLhyphen"/>tation.</hi>
 When through the violence of temptation,
 and craft of Satan, they are hurryed from under
 the conduct of the Law of grace, God one way
@@ -7238,9 +7239,9 @@ forth of conceived sin, by opposing an <hi>external
 hindering power</hi> unto sinners. He leaves them their
 lives, and leaves them power to do what they
 intend, only he raiseth up an opposite power to
-coerce, forbid, and restrain them. An <gap reason="illegible" resp="#TECH" extent="2 letters">
+coerce, forbid, and restrain them. An <supplied reason="illegible" cert="high" resp="#editor">In<!-- Instance: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>stance here<g ref="char:EOLhyphen"/>of
+               </gap></supplied>stance here<g ref="char:EOLhyphen"/>of
 we have, 1 <hi>Sam.</hi> 14. 35. <hi>Saul</hi> had sworn that
 <hi>Jonathan</hi> should be put to death, and as far as ap<g ref="char:EOLhyphen"/>pears
 went on resolutely to have slain him; God
@@ -7272,9 +7273,9 @@ them that they shall not be able to fulfill their de<g ref="char:EOLhyphen"/>sig
 and lusts.</p>
             <p rend="level1" change="#review">Fourthly, God obviates the accomplishment of
 conceived sin, by removing, or taking away the
-<hi>ob<gap reason="illegible" resp="#TECH" extent="1 letter">
+<hi>ob<supplied reason="illegible" cert="high" resp="#editor">j<!-- context; book has 'objects' 10x; OCR read {'kraken': ['ob ects'], 'tesseract': ['ob eits']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ects</hi> on whom, or about whom, the sin conceived
+                  </gap></supplied>ects</hi> on whom, or about whom, the sin conceived
 was to be committed. <hi>Acts</hi> 12. 11. <choice><orig>yields</orig><reg resp="#auto" type="spelling">Yields</reg></choice> us a sig<g ref="char:EOLhyphen"/>nal
 Instance of this issue of Providence: When
 the day was coming wherein <hi>Herod</hi> thought to
@@ -7405,7 +7406,7 @@ trampling on by ambition, or swallowing down by
 covetousness all that stand before them. Many of
 their follies and mischiefs they bring to the very
 birth, and are in pain to be delivered; but God eve<g ref="char:EOLhyphen"/>ry
-day fills them with disappointment<g ref="char:punc">▪</g> and <hi>shuts up
+day fills them with disappointment<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> and <hi>shuts up
 the womb</hi> of sin. Some are filled with hatred of Gods
 people all their <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice>, and never once have an op<g ref="char:EOLhyphen"/>portunity
 to exercise it. So <hi>David</hi> describes them,
@@ -7470,9 +7471,9 @@ mercy thereby. Though God deal not these pro<g ref="char:EOLhyphen"/>vidences
 of Grace, yet there is always <hi>mercy</hi> in them, always
 a call in them to consider the Author of them.
 Had not God thus dealt with you, it may be this
-day you ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+day you ha<supplied reason="illegible" cert="medium" resp="#editor">d<!-- had: 1668 Kraken; 1675 OCR 'ha' --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> been a terrour to your selves, a shame
+               </gap></supplied> been a terrour to your selves, a shame
 to your relations, and under the punishment due
 to some notorious sins which you had <hi>conceived.</hi>
 Besides, there is commonly an <hi>additional guilt</hi> in
@@ -7481,9 +7482,9 @@ of it. It may be others would have been
 ruined by it here, or drawn into a partnership in
 sin by it, and so have been eternally ruined by it, all
 which are prevented by these providences, and
-Eternity will witness, tha<gap reason="illegible" resp="#TECH" extent="1 letter">
+Eternity will witness, tha<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'that' 1638x, next 'than' 86x; OCR read {'kraken': ['lthia'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> there is a singularity of
+               </gap></supplied> there is a singularity of
 mercy in them. Do not look then on any such
 things as common accidents, the hand of God is
 in them all; and that a merciful hand if not de<g ref="char:EOLhyphen"/>spised:
@@ -7587,9 +7588,9 @@ with him as in <hi>Micah</hi> 2. 1. <choice><orig>he</orig><reg resp="#auto" typ
 his bed, and when he thought to have practised
 it in the morning, God interposed in a dream,
 and hides sin from him, as he speaks, <hi>Job</hi> 
-               <gap reason="illegible" resp="#TECH" extent="2 letters">
+               <supplied reason="illegible" cert="high" resp="#editor">33<!-- Job 33:15-17: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>, 15, 16,
+               </gap></supplied>, 15, 16,
 17. To the same purpose is that of the <hi>Psalmist</hi>
 concerning the people of God, <hi>Psal.</hi> 106. 46. <hi>He
 made them to be pitied of all those who carried
@@ -7729,13 +7730,13 @@ that their hearts would carry them out unto. For
 <hi>Conscience</hi> is a mans prejudging of himself, with
 respect unto the future judgement of God. Thus
 <hi>
-                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <supplied reason="illegible" cert="high" resp="#editor">Felix<!-- Felix: 1668 Kraken; 1675 'lix'; Acts 24:25 --><gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap>
+                  </gap></supplied>
                </hi> was staggered in his pursuit of sin, when he
-<gap reason="illegible" resp="#TECH" extent="1 word">
+<supplied reason="illegible" cert="high" resp="#editor">trembled<!-- trembled: 1668 Kraken; Acts 24:25 --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> at <hi>Pauls</hi> preaching of righteousness and
+               </gap></supplied> at <hi>Pauls</hi> preaching of righteousness and
 <pb n="211" facs="tcp:42900:110"/>
 judgement to come, <hi>Act.</hi> 24. 25. So <hi>Job</hi> tells us,
 that the consideration of <hi>punishment from God,</hi>
@@ -7872,9 +7873,9 @@ thereof. By this he melts down the lusts of men,
 causeth them to wither at the root, that they shall
 no more strive to bring forth what they have
 <hi>conceived,</hi> but be filled with shame and sorrow at
-their conception. An example and instance of t<gap reason="illegible" resp="#TECH" extent="1 letter">
+their conception. An example and instance of t<supplied reason="illegible" cert="high" resp="#editor">h<!-- context; book has 'this' 951x; OCR read {'kraken': ['is'], 'tesseract': ['t s']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>is
+               </gap></supplied>is
 <pb n="215" facs="tcp:42900:112"/>
 proceeding of God, for the use and instruction of
 all generations we have in <hi>Paul.</hi> His heart was
@@ -7910,13 +7911,13 @@ instance of this work of Gods grace and love. <hi>Paul</hi>
 is dragged either <hi>by</hi> him, or <hi>before</hi> him, to plead for
 his life, as a setter forth of <hi>strange gods,</hi> which at
 <pb n="216" facs="tcp:42900:113"/>
-               <hi>Athens</hi> was death by the Law. In the midst o<gap reason="illegible" resp="#TECH" extent="1 letter">
+               <hi>Athens</hi> was death by the Law. In the midst o<supplied reason="illegible" cert="high" resp="#editor">f<!-- of: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 this frame of spirit God meets with him by <hi>con<g ref="char:EOLhyphen"/>verting
-grace,</hi> sin withers in the womb, and he<gap reason="illegible" resp="#TECH" extent="1 letter">
+grace,</hi> sin withers in the womb, and he<supplied reason="illegible" cert="high" resp="#editor"><!-- and he cleaves: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 cleaves to <hi>Paul</hi> and his doctrine, <hi>Acts</hi> 17. 18--34.
 The like dispensation towards <hi>Israel</hi> we have, <hi>Hos.</hi>
 11. 7, 8, 9, 10. But there is no need to insist on
@@ -8087,9 +8088,9 @@ go through at large with this Consideration, I
 must recount all the sad and scandalous failings of
 the Saints that are left on record in the holy Scrip<g ref="char:EOLhyphen"/>ture.
 But the particulars of them are known to
-all; so that I shall not need to mention them, no<gap reason="illegible" resp="#TECH" extent="1 letter">
+all; so that I shall not need to mention them, no<supplied reason="illegible" cert="high" resp="#editor">r<!-- scan OCR: both read 'nor'; book has it 61x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 the many aggravations that in their circumstances
 they are attended with: Only some few things
 tending to the <choice><orig>rendring</orig><reg resp="#auto" type="spelling">rendering</reg></choice> of our present conside<g ref="char:EOLhyphen"/>ration
@@ -8148,9 +8149,9 @@ yet we see how fearfully they were prevailed
 against.</p>
             <p rend="level1" change="#review">Thirdly, As if God had permitted their Falls
 on set purpose, that we might learn to be wary
-of <gap reason="illegible" resp="#TECH" extent="1 letter">
+of <supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'this' 951x; OCR read {'kraken': ["'his"], 'tesseract': ['his']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>his powerful enemy, they all of them fell out
+               </gap></supplied>his powerful enemy, they all of them fell out
 when they had <hi>newly received great &amp; stupendious
 mercies</hi> from the hand of God, that ought to have
 been strong Obligations unto diligence and watch<g ref="char:EOLhyphen"/>fulness
@@ -8181,9 +8182,9 @@ great and miraculos deliverance that he falls into
 his <hi>carnal pride and boasting.</hi> I say, their falls in
 such seasons, seem to be permitted on set purpose,
 to instruct us all in the Truth that we have in
-hand; so that no persons, in no seasons, with wht<gap reason="illegible" resp="#TECH" extent="1 letter">
+hand; so that no persons, in no seasons, with <seg type="transcription" change="#tcp-corrections">what<!-- the transcription has 'wht'; p. 223 (scan 231): 'with what furniture of Grace soever'; 1675 Kraken 'wht', 1668 'what'; the TCP's gap after it stands for no letter --></seg><supplied reason="illegible" cert="high" resp="#editor"><!-- what: the TCP's 'wht' corrected (supplement) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 furniture of Grace soever, can promise themselves
 security from its prevalency, any other <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>,
 than by keeping close constantly to him, who hath
@@ -8208,40 +8209,40 @@ unto us the Sands, the Shelves, the Rocks, where<g ref="char:EOLhyphen"/>upon
 they made their shipwrack, to their hazard,
 danger, loss, yea and would have done to their
 <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>, had not God been pleased in his faithfulness
-graciously to prevent it. And this is the first par<gap reason="illegible" resp="#TECH" extent="1 letter">
+graciously to prevent it. And this is the first par<supplied reason="illegible" cert="high" resp="#editor">t<!-- part: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 of this Evidence of the power of sin, from its ef<g ref="char:EOLhyphen"/>fects.</p>
-            <p>Secondly, It manifests its <hi>power</hi> in the <hi>habitua<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p>Secondly, It manifests its <hi>power</hi> in the <hi>habitua<supplied reason="illegible" cert="high" resp="#editor">l<!-- context; book has 'habitual' 35x; OCR read {'kraken': ['habitud'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
-declensions</hi> from zeal &amp; holiness, from the frame<g ref="char:punc">▪</g>
+                  </gap></supplied>
+declensions</hi> from zeal &amp; holiness, from the frame<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
 state and condition of Obedience and Communion
 with God, whereunto they had attained, which
-are found in many Believers. <hi>Promises of growt<gap reason="illegible" resp="#TECH" extent="1 letter">
+are found in many Believers. <hi>Promises of growt<supplied reason="illegible" cert="high" resp="#editor">h<!-- context; book has 'growth' 9x; OCR read {'kraken': ['groutt'], 'tesseract': ['grow']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi>
-and improvement are many, and precious; th<gap reason="illegible" resp="#TECH" extent="1 letter">
+and improvement are many, and precious; th<supplied reason="illegible" cert="high" resp="#editor">e<!-- the: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
-               <hi>Means</hi> excellent and effectual; the <hi>benefits</hi> grea<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+               <hi>Means</hi> excellent and effectual; the <hi>benefits</hi> grea<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'great' 159x; OCR read {'kraken': ['gren'], 'tesseract': ['gra']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 and unspeakable: Yet it often falls out, that in<g ref="char:EOLhyphen"/>stead
 hereof, decays and declensions are found
-upon Professors, yea in and upon many of th<gap reason="illegible" resp="#TECH" extent="1 letter">
+upon Professors, yea in and upon many of th<supplied reason="illegible" cert="high" resp="#editor">e<!-- the: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
-Saints of God. Now whereas this must nee<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+Saints of God. Now whereas this must nee<supplied reason="illegible" cert="medium" resp="#editor">ds<!-- needs: 1668 Kraken; 1675 'nec' --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
-principally and chiefly be from the strength an<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+principally and chiefly be from the strength an<supplied reason="illegible" cert="high" resp="#editor">d<!-- context; book has 'and' 3378x, next 'any' 227x; OCR read {'kraken': ['an'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
-efficacy of indwelling sin, and is therefore a grea<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+efficacy of indwelling sin, and is therefore a grea<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'great' 159x; OCR read {'kraken': ['gree'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
                <pb n="225" facs="tcp:42900:117"/>
 evidence thereof; I shall first evince the Observa<g ref="char:EOLhyphen"/>tion
 it self to be true; namely, That some of the
@@ -8307,13 +8308,13 @@ of this Observation? An <hi>habitual declension</hi> from
 first Ingagements unto God, from first Attain<g ref="char:EOLhyphen"/>ments
 of Communion with God, from first strict<g ref="char:EOLhyphen"/>ness
 in Duties of Obedience, is ordinary and com<g ref="char:EOLhyphen"/>mon
-amongst Professors<g ref="char:punc">▪</g> Might we to this pur<g ref="char:EOLhyphen"/>pose
+amongst Professors<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice> Might we to this pur<g ref="char:EOLhyphen"/>pose
 take a general view of the Professors in these
-Nations, among whom the <gap reason="illegible" resp="#TECH" extent="1 word">
+Nations, among whom the <supplied reason="illegible" cert="high" resp="#editor">Lot<!-- the Lot of the best of us: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> of the <gap reason="illegible" resp="#TECH" extent="1 word">
+               </gap></supplied> of the <supplied reason="illegible" cert="high" resp="#editor">best<!-- the Lot of the best of us: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> of us
+               </gap></supplied> of us
 <pb n="227" facs="tcp:42900:118"/>
 will be found in part or in whole, in somewhat
 or in all, to fall, we might be plentifully con<g ref="char:EOLhyphen"/>vinced
@@ -8359,9 +8360,9 @@ to an open <hi>enmity</hi> unto, and hatred of the <choice><orig>wayes</orig><re
 of God? <choice><orig>they</orig><reg resp="#auto" type="spelling">They</reg></choice> please them no more, but are evil
 in their eyes. But not to mention such <hi>open Apo<g ref="char:EOLhyphen"/>states</hi>
 any farther, whose <choice><orig>Hypocrisie</orig><reg resp="#auto" type="spelling">Hypocrisy</reg></choice> the Lord Je<g ref="char:EOLhyphen"/>sus
-Christ will <gap reason="illegible" resp="#TECH" extent="2 letters">
+Christ will <supplied reason="illegible" cert="high" resp="#editor">sh<!-- shortly: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>ortly judge; how is it with the
+               </gap></supplied>ortly judge; how is it with the
 best? <choice><orig>are</orig><reg resp="#auto" type="spelling">Are</reg></choice> not almost all men grown cold and slack
 as to these things? <choice><orig>are</orig><reg resp="#auto" type="spelling">Are</reg></choice> they not less concerned in
 them than formerly? <choice><orig>are</orig><reg resp="#auto" type="spelling">Are</reg></choice> they not grown weary,
@@ -8408,9 +8409,9 @@ be found amongst them? May it not be said,
 perceive it not?</hi> Yea, are not men ready to say with
 them of old, <hi>What a weariness is it? Mal.</hi> 1. 3.
 It is even a <hi>burthen and a weariness</hi> to be tied up
-to the observation of all these Ordinances. Wha<gap reason="illegible" resp="#TECH" extent="1 letter">
+to the observation of all these Ordinances. Wha<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'what' 272x; OCR read {'kraken': ['wha'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 need we be all out so strict in the observation of
 the <hi>Sabbath?</hi> What need we hear so often? What
 need this distinction in hearing? Insensibly a great
@@ -8521,9 +8522,9 @@ of this assistance he hath afforded us, but
 is continually <hi>calling upon us</hi> to make use of the
 means oppointed for the attaining of the end pro<g ref="char:EOLhyphen"/>posed.
 He <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice> them unto us, as the <hi>Angel</hi>
-<choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> the water-spring to <hi>Hagar<gap reason="illegible" resp="#TECH" extent="1 letter">
+<choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> the water-spring to <hi>Hagar<supplied reason="illegible" cert="high" resp="#editor"><!-- Hagar. the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi> Commands,
 Exhortations, Promises, <choice><orig>Threatnings</orig><reg resp="#auto" type="spelling">Threatenings</reg></choice>, are multi<g ref="char:EOLhyphen"/>plied
 to this purpose; see them summed up,
@@ -8594,11 +8595,11 @@ to afford them a strong, vigorous, thriving,
 flourishing life, <hi>Joh.</hi> 10. 10. He comes not only that
 his sheep may have life, but that <hi>they may have it
 more abundantly;</hi> that is, in a plentiful manner,
-<gap reason="illegible" resp="#TECH" extent="1 word">
+<supplied reason="illegible" cert="high" resp="#editor">so<!-- so as: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap> as that they may flourish, be fat and fruitful<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied> as that they may flourish, be fat and fruitful<supplied reason="illegible" cert="high" resp="#editor"><!-- fruitful. the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
                <pb n="235" facs="tcp:42900:122"/>
 Thus is it with the whole body of Christ and
 every member thereof, <hi>Eph.</hi> 4. 15, 16. <hi>Whereby it
@@ -8664,7 +8665,7 @@ flourishing, how fruitful and exemplary in holi<g ref="char:EOLhyphen"/>ness,
 might many a soul be, by and with that
 grace which is continually communicated to it
 from Christ, which now by reason of the power
-of in-dwelling sin is only <hi>not dead<g ref="char:punc">▪</g>
+of in-dwelling sin is only <hi>not dead<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
                </hi> but weak,
 withering and useless. And this, if any thing, is
 a notable evidence of the efficacy of <hi>in-dwelling sin,</hi>
@@ -8738,7 +8739,7 @@ duty <hi>to watch</hi> against this Enemy, to fight against
 it, to pray against it, and so they do. They more
 <pb n="249" facs="tcp:42900:124"/>
 desire his <hi>destruction,</hi> than the enjoyment of all this
-world<g ref="char:punc">▪</g> and all that it can afford. And yet not<g ref="char:EOLhyphen"/>withstanding
+world<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> and all that it can afford. And yet not<g ref="char:EOLhyphen"/>withstanding
 all this such is the subtilty, and fraud,
 and violence, and fury, and urgency, and importuni<g ref="char:EOLhyphen"/>ty
 of this Adversary, that it frequently prevails to
@@ -8771,9 +8772,9 @@ have not been able to bear them up against some
 kept them indeed that they have not been driven
 and split on <hi>rocks</hi> and <hi>shelves;</hi> it hath preserved
 <pb n="240" facs="tcp:42900:125"/>
-               <gap reason="illegible" resp="#TECH" extent="1 letter">
+               <supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'them' 667x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>hem from gross, scandalous sins, but yet they
+               </gap></supplied>hem from gross, scandalous sins, but yet they
 have lost in their <hi>spiritual frame,</hi> or gone back<g ref="char:EOLhyphen"/>wards,
 and are intangled under many woful <choice><orig>de<g ref="char:EOLhyphen"/>cayes</orig><reg resp="#auto" type="spelling">decays</reg></choice>;
 which is a <hi>notable</hi> evidence of the <hi>Life of
@@ -8856,9 +8857,9 @@ to make it their business to <hi>live unto God.</hi>
 things,</hi> keeps up such a favour and relish of them
 in their Souls, as that worldly Contentments
 whereby men are drawn off from close walking
-with G<gap reason="illegible" resp="#TECH" extent="1 letter">
+with G<supplied reason="illegible" cert="high" resp="#editor">o<!-- God: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>d, are <choice><orig>rendred</orig><reg resp="#auto" type="spelling">rendered</reg></choice> sapless and undesireable
+               </gap></supplied>d, are <choice><orig>rendred</orig><reg resp="#auto" type="spelling">rendered</reg></choice> sapless and undesireable
 unto them. Having tasted of the <hi>Wine</hi> of the
 Gospel they desire no other, for they say, <hi>this is
 best.</hi> So was it with the Apostles upon that <hi>option</hi>
@@ -8876,9 +8877,9 @@ Sun, finds so much pleasure and contentment in
 it, in the beauties of the old Creation, that he
 thinks he can never be weary of it, nor shall ever
 be contented on any account to be under dark<g ref="char:EOLhyphen"/>ness
-again. So is it with Souls when first transl<gap reason="illegible" resp="#TECH" extent="1 letter">
+again. So is it with Souls when first transl<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'translated' 1x; OCR read {'kraken': ['transletel'], 'tesseract': ['tranfl tel']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap><g ref="char:EOLhyphen"/>ted
+               </gap></supplied><g ref="char:EOLhyphen"/>ted
 into the <hi>marvellous Light</hi> of Christ, to behold
 <pb n="243" facs="tcp:42900:126"/>
 the beauties of the <hi>New Creation.</hi> They see a new
@@ -8913,9 +8914,9 @@ up and decay, and consequently that Obedience
 that should spring from them will do so also. <hi>Isaac
 digged Wells,</hi> but the <hi>Philistins</hi> stopt them, and
 his Flocks had no benefit by them. Let the heart
-never so little di<gap reason="illegible" resp="#TECH" extent="1 letter">
+never so little di<supplied reason="illegible" cert="high" resp="#editor">s<!-- disuse: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>use it self to gracious soul-affect<g ref="char:EOLhyphen"/>ing
+               </gap></supplied>use it self to gracious soul-affect<g ref="char:EOLhyphen"/>ing
 thoughts of the Love of God, the Cross of
 <pb n="244" facs="tcp:42900:127"/>
 Christ, the greatness and excellency of Gospel
@@ -8957,9 +8958,9 @@ and Majesty, <hi>Heb.</hi> 12. 28, 29. And this is that
 which the Lord himself spake in the destruction
 of <hi>Nadab</hi> and <hi>Abihu, I will be sanctified in them
 that come to me,</hi> Lev. 10. 3. He will be dealt withal
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">s<!-- context; book has 'sin' 1041x, next 'vain' 21x; OCR read {'kraken': ['according to', 'in'], 'tesseract': ['according to']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>in an awful, <hi>holy,</hi> reverent manner. So are we to
+               </gap></supplied>in an awful, <hi>holy,</hi> reverent manner. So are we to
 deal with all the things of God, wherein, or
 whereby we have communion with him. The
 soul is to have a great Reverence of God in them.
@@ -9156,13 +9157,13 @@ place where he lives. So is it with many a Be<g ref="char:EOLhyphen"/>liever;
 after he hath walked in a fruitful course
 of obedience to the glory of God, and edification
 of the Church of Christ, being afresh set upon by
-the <hi>ret<gap reason="illegible" resp="#TECH" extent="1 letter">
+the <hi>ret<supplied reason="illegible" cert="high" resp="#editor">u<!-- context; book has 'return' 15x; OCR read {'kraken': ['providenre', 'blood', 'exercise', 'blood', 'effects', 'spirit', 'violence', 'power', 'aversation', 'lam', 'remainders', 'power', 'involuntary surprisals', 'rebellion', 'law', 'vanity', 'power', 'law', 'law', 'power', 'continual solicitations', 'law', 'consideration', 'way', 'deceitfulness', 'deceitfalness', 'way', 'deceit', 'deceitfulness', 'grace', 'deceitfulness', 'wind', 'skilful hand', 'deceitfulness', 'actual operation', 'actual working', 'faith', 'faith', 'deceitfulness', 'deceitfulness', 'faith', 'subtilty', 'power', 'law', 'deceit', 'deceitfulness', 'deceit', 'grace', 'deceit', 'deceit', 'help', 'inadvertency', 'deceit', 'deceit', 'deceit', 'name', 'deceit', 'deceit', 'deceit', 'consent', 'help', 'deceitfulne', 'taking away', 'power', 'merpur', 'power', 'spirit', 'power', 'rule', 'supplies', 'examination', 'vanity', 'corruption', 'ret rn', 'evil examples', 'power', 'preaching', 'power', 'power', 'asfaults', 'preuching', 'dispensation', 'spirit', 'blood', 'power'], 'tesseract': ['blood', 'exercife', 'blood', 'effe s', 'spirit', 'violence', 'power', 'averfation', 'law', 'remainders', 'power', 'snvoluntary urprifals', 'rebellion', 'law', 'power', 'power', 'continual folicitations', 'law', 'confideration', 'way', 'deceitfulne s', 'deceitfalnefs', 'way', 'deceit', 'deceitfulne s', 'grace', 'deceitfulnefs', 'wind', 'deceitfulnefs', 'agual operation', 'faith', 'faith', 'decestfulnefs', 'deceitfulnefs', 'faith', 'fubtilty', 'power', 'law', 'deceit', 'deceitfulnefs', 'deceit', 'grace', 'deceit', 'deceit', 'help', 'inadvertency', 'deceit', 'deceit', 'deceit', 'name', 'deceit', 'deceit', 'deceit', 'bdgod', 'se', 'se of', 'help', 'deceitfuluef', 'taking away', 'power', 'perxonr', 'power', 'spirit', 'spirit', 'power', 'rule', 'fupplies', 'examination', 'vanity', 'corruption', 'rer vz', 'evil examples', 'power', 'preaching', 'power', 'aifaults', 'difpenfation', 'light', 'spirsr', 'blood', 'power']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>rn</hi> of Satan in one way or other, he hath
+                  </gap></supplied>rn</hi> of Satan in one way or other, he hath
 enough to do all the remainder of his life to keep
-himself <hi>a<gap reason="illegible" resp="#TECH" extent="1 letter">
+himself <hi>a<supplied reason="illegible" cert="high" resp="#editor">l<!-- alive: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ive;</hi> in the mean time a to many graces,
+                  </gap></supplied>ive;</hi> in the mean time a to many graces,
 wofully decaying and going backward. Now
 this also, though Satan hath an hand in it, is from
 <pb n="251" facs="tcp:42900:130"/>
@@ -9221,9 +9222,9 @@ When they have more to do in the world than
 they can well manage, they shall have more to
 do from Satan than they can well withstand.
 When men are made spiritually <hi>faint,</hi> by dealing
-in and with the world, Satan sets on them a<gap reason="illegible" resp="#TECH" extent="1 letter">
+in and with the world, Satan sets on them a<supplied reason="illegible" cert="high" resp="#editor">s<!-- as Amalech: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
                <hi>Amalek</hi> did on the faint and weak of the people
 that came out of <hi>Egypt.</hi>
             </p>
@@ -9235,9 +9236,9 @@ to make the soul <hi>inadvertent,</hi> to turn it off from the
 diligent watchful attendance unto its duty, which
 is required. Now there is not any thing in refe<g ref="char:EOLhyphen"/>rence
 whereunto diligence and watchfulness is
-more strictly enjoyned; than the <hi>returning assau<gap reason="illegible" resp="#TECH" extent="1 letter">
+more strictly enjoyned; than the <hi>returning assau<supplied reason="illegible" cert="high" resp="#editor">l<!-- context; book has 'assaults' 12x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>ts</hi>
+                  </gap></supplied>ts</hi>
 of Satan, 1 <hi>Pet.</hi> 5. 8. <hi>Be sober, be vigilant;</hi> and
 why so? <hi>because of your adversary the Devil.</hi> Unless
 <pb n="253" facs="tcp:42900:131"/>
@@ -9248,7 +9249,7 @@ unto him, and his temptations. Now when
 the soul is made <hi>careless</hi> and inadvertent, forgetting
 what an enemy it hath to deal withal, or is lifted
 up with the <hi>successes</hi> it hath newly obtained against
-him, then in Satans time to attempt a re-entrance
+him, then <seg type="transcription" change="#tcp-corrections">is<!-- the transcription has 'in'; p. 253 (scan 261): 'then is Satans time to attempt a re-entrance' --></seg> Satans time to attempt a re-entrance
 of his old <hi>habitation;</hi> which if he cannot obtain,
 yet he makes their lives uncomfortable to them<g ref="char:EOLhyphen"/>selves,
 and unfruitful to others, in weakening their
@@ -9344,9 +9345,9 @@ do converse are sick, and wounded; the wounds
 of some of them do <hi>stink, and are corrupt because
 of their folly.</hi> If you have any <hi>spiritual health,</hi> do
 not think their weak and uneven walking will be
-accepted at your hands; much less <gap reason="illegible" resp="#TECH" extent="2 letters">
+accepted at your hands; much less <supplied reason="illegible" cert="high" resp="#editor">th<!-- think: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>ink it will
+               </gap></supplied>ink it will
 <pb n="256" facs="tcp:42900:133"/>
 be well for you to become <hi>sick</hi> and to be wounded
 also.</p>
@@ -9354,9 +9355,9 @@ also.</p>
                <hi>Thirdly,</hi> Remember that of many of the <hi>best
 Christians,</hi> the <hi>worst</hi> only is known and seen.
 Many who keep up precious Communion with
-God, do yet oftentimes by their <hi>natural temper<gap reason="illegible" resp="#TECH" extent="1 letter">
+God, do yet oftentimes by their <hi>natural temper<supplied reason="illegible" cert="high" resp="#editor">s<!-- tempers: 1668 Kraken; the 1675 page loses the letter at the gutter --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi>
 of freedom or passion, not carry so glorious ap<g ref="char:EOLhyphen"/>pearances
 as others, who perhaps come short of
@@ -9376,29 +9377,29 @@ contends against faintly, It <hi>contends against</hi> it upon
 the account of sincerity, it cannot but do so; but it
 doth not make through-work vigorously to <choice><orig>mor<g ref="char:EOLhyphen"/>tifie</orig><reg resp="#auto" type="spelling">mortify</reg></choice>
 it by the strength and power of Grace. Now
-where it is thus with the Soul, an <hi>habitual dec<gap reason="illegible" resp="#TECH" extent="1 letter">
+where it is thus with the Soul, an <hi>habitual dec<supplied reason="illegible" cert="high" resp="#editor">l<!-- context; book has 'declension' 11x; OCR read {'kraken': ['dec iension'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>en<g ref="char:EOLhyphen"/>sion</hi>
+                  </gap></supplied>en<g ref="char:EOLhyphen"/>sion</hi>
 as to holiness will assuredly ensue. <hi>David</hi> <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice>
 us how in his <hi>first days</hi> he kept his heart close un<g ref="char:EOLhyphen"/>to
-God, <hi>Psal</hi> 18. 23. <hi>I was upright before him, <gap reason="illegible" resp="#TECH" extent="1 word">
+God, <hi>Psal</hi> 18. 23. <hi>I was upright before him, <supplied reason="illegible" cert="high" resp="#editor">and<!-- and I kept: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); Ps 18:23 --><gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap>
+                  </gap></supplied>
 I kept my self from mine iniquity.</hi> His great care
 was lest any <hi>one lust</hi> should prevail in him, or
-upon him, that might be called <hi>his iniquity</hi> in s<gap reason="illegible" resp="#TECH" extent="1 letter">
+upon him, that might be called <hi>his iniquity</hi> in <seg type="transcription" change="#tcp-corrections">a<!-- the transcription has 's'; p. 256 (scan 264): 'his iniquity in a peculiar manner', the a damaged at the gutter; 1668 'in a peculiar' --></seg><supplied reason="illegible" cert="high" resp="#editor"><!-- in a peculiar manner: the TCP's 's' corrected (supplement) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
                <hi>peculiar manner.</hi> The same course steer'd <hi>Paul</hi> also
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">1<!-- 1 Cor 9:27: 1675 and 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> 
-               <hi>Cor.</hi> 9. 27<g ref="char:punc">▪</g> he was in <hi>danger to be lifted up</hi> by
-his spiritua<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied> 
+               <hi>Cor.</hi> 9. 27<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice> he was in <hi>danger to be lifted up</hi> by
+his spiritua<supplied reason="illegible" cert="high" resp="#editor">l<!-- spiritual Revelations: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap><gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied><supplied reason="illegible" cert="high" resp="#editor"> R<!-- spiritual Revelations: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>evelations and Enjoyments. This
+               </gap></supplied>evelations and Enjoyments. This
 <pb n="257" facs="tcp:42900:133"/>
 makes him keep <hi>his body in subjection,</hi> that no car<g ref="char:EOLhyphen"/>nal
 reasonings or vain imagination might take
@@ -9465,9 +9466,9 @@ lust in them. For a while it may be they take
 little notice of it. Somtimes they <hi>complain,</hi> but
 think they will do as in former times, <choice><orig>untill</orig><reg resp="#auto" type="spelling">until</reg></choice> be<g ref="char:EOLhyphen"/>ing
 insensibly weakned in their spiritual strength,
-they hav<gap reason="illegible" resp="#TECH" extent="1 letter">
+they hav<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'have' 453x; OCR read {'kraken': ['hav'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap> work enough to do in keeping alive
+               </gap></supplied> work enough to do in keeping alive
 what remains and is ready to dye, <hi>Hos.</hi> 5. 13.
 <pb n="259" facs="tcp:42900:134"/>
 I shall not add any thing here as to the pre<g ref="char:EOLhyphen"/>vention
@@ -9491,9 +9492,9 @@ that whereof we are weary. Now God alone be<g ref="char:EOLhyphen"/>ing
 the fountain and spring of spiritual life, if
 there be a <hi>weariness</hi> of him, and withdrawing from
 him, it is impossible but that there will <hi>a decay</hi>
-in the Life ensue. Indeed what men are in <hi>these<gap reason="illegible" resp="#TECH" extent="1 letter">
+in the Life ensue. Indeed what men are in <hi>these<supplied reason="illegible" cert="high" resp="#editor"><!-- these duties: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
 duties,</hi> I mean as to Faith and Love in them, that
 they are and no more. Here lies the root of
 their obedience, and if this fail all fruit will quick<g ref="char:EOLhyphen"/>ly
@@ -9824,9 +9825,9 @@ stream of natural affections, to root up the prin<g ref="char:EOLhyphen"/>ciples
 of the Law of nature, and to drive them
 unto a <hi>neglect,</hi> a destruction of the <hi>fruit of their
 own loins. Paul</hi> tells us of the old Gentiles, they
-were <gap reason="foreign">
+were <supplied reason="foreign" cert="high" resp="#editor">ἄστοργοι<!-- Rom 1:31; the 1675 page (archive.org bim ..._1675), p. 269 --><gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
-               </gap>, <hi>Rom.</hi> 1. 31. <hi>without natural affection;</hi>
+               </gap></supplied>, <hi>Rom.</hi> 1. 31. <hi>without natural affection;</hi>
 that which he aims at is that barbarous custom
 among the <hi>Romans,</hi> who oft-times to spare the
 trouble in the education of their children, and to
@@ -9839,9 +9840,9 @@ Nations; amongst our selves, of <hi>women murdering
 their own children,</hi> through the deceitful reasoning
 of sin. And herein sin turns the strong <hi>current</hi>
 of nature, darkens all the <hi>light</hi> of God in the soul,
-controuls all natural <hi>principles,</hi> influenced w<gap reason="illegible" resp="#TECH" extent="1 letter">
+controuls all natural <hi>principles,</hi> influenced w<supplied reason="illegible" cert="high" resp="#editor">i<!-- context; book has 'with' 686x, next 'wrath' 18x; OCR read {'kraken': ['w', 'w th'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>th
+               </gap></supplied>th
 the power of the command &amp; will of God. But yet
 this <hi>evil</hi> hath, through the efficacy of sin, received
 a fearful aggravation. Men have not only <hi>slain,</hi> but
@@ -9952,11 +9953,11 @@ and every one of them <hi>in a kind,</hi> that the whole
 world can propose nothing like unto it.</p>
             <p rend="level1" change="#review">It is the most <hi>reasonable thing</hi> that can be pro<g ref="char:EOLhyphen"/>posed
 to the understanding of a man; that he
-who thr<gap reason="illegible" resp="#TECH" extent="1 letter">
+who thr<supplied reason="illegible" cert="high" resp="#editor"><!-- through: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken); no letter lost --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ough his <hi>own default</hi> hath lost that <hi>way</hi>
+               </gap></supplied>ough his <hi>own default</hi> hath lost that <hi>way</hi>
                <pb n="273" facs="tcp:42900:141"/>
-of bringiug glory of God, and saving his own soul,
+of bringiug glory <seg type="transcription" change="#tcp-corrections">to<!-- the transcription has 'of'; p. 273 (scan 281): 'of bringiug glory to God' (bringiug as printed) --></seg> God, and saving his own soul,
 (for which ends he was made) that he was
 first placed in, should accept of, and embrace,
 that other, blessed, <choice><orig>easie</orig><reg resp="#auto" type="spelling">easy</reg></choice>, safe, excellent <hi>way,</hi> for
@@ -10189,7 +10190,7 @@ made to fulfil the lusts thereof.</p>
             <p rend="level1" change="#review">If a Man, in the things of this World, had
 such a hope of a large <hi>Inheritance,</hi> of a King<g ref="char:EOLhyphen"/>dom,
 as wherein he is satisfied that it will not
-fail him<g ref="char:punc">▪</g> but that in the issue he shall surely enjoy
+fail him<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> but that in the issue he shall surely enjoy
 it, and lead an happy and a glorious life in the
 possession of it many <choice><orig>dayes</orig><reg resp="#auto" type="spelling">days</reg></choice>; if one should go to
 him and tell him, It is true, the <hi>Kingdom</hi> you
@@ -10337,36 +10338,36 @@ Souls. Though they have been taught somewhat
 of the <hi>doctrine</hi> of it, yet they know nothing of its
 <hi>power.</hi> They know it not so, as to deal with it
 as their mortal Enemy. As a Man, whatever he be
-told, cannot be said to know, that he hath an<gap reason="illegible" resp="#TECH" extent="1 letter">
+told, cannot be said to know, that he hath an<supplied reason="illegible" cert="high" resp="#editor">d<!-- context; book has 'and' 3378x, next 'any' 227x; OCR read {'kraken': ['a'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
-               <hi>hectical Feaver,</hi> if he love his life, and set no<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+               <hi>hectical Feaver,</hi> if he love his life, and set no<supplied reason="illegible" cert="high" resp="#editor">t<!-- not: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 himself to stop its progress.</p>
             <p>This then the Law doth, it <hi>discovers this enemy;</hi>
 it convinceth the soul that there is such a traitor
-harbouring in his <choice><orig>bosome</orig><reg resp="#auto" type="spelling">bosom</reg></choice>, <hi>Rom.</hi> 7. 7. <hi>I had no<gap reason="illegible" resp="#TECH" extent="1 letter">
+harbouring in his <choice><orig>bosome</orig><reg resp="#auto" type="spelling">bosom</reg></choice>, <hi>Rom.</hi> 7. 7. <hi>I had no<supplied reason="illegible" cert="high" resp="#editor">t<!-- scan OCR: both read 'not'; book has it 774x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
 known sin but by the Law, for I had not known lust,
 except the Law had said, Thou shalt non covet.</hi> I
 had not known it, that is, fully, clearly, distinctly.
-<hi>Conscience</hi> will somewhat tumultuate about it; bu<gap reason="illegible" resp="#TECH" extent="1 letter">
+<hi>Conscience</hi> will somewhat tumultuate about it; bu<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'but' 537x, next 'burn' 4x; OCR read {'kraken': ['such', 'bu'], 'tesseract': ['gen', 'bu']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 a man cannot know it clearly and distinctly from
 thence. It gives a man such a sight of it, as the
 blind man had in the Gospel upon the first touch
 of his eyes, <hi>He saw men like trees walking,</hi> ob<g ref="char:EOLhyphen"/>scurely,
-confusedly; but when the Law comes, th<gap reason="illegible" resp="#TECH" extent="2 letters">
+confusedly; but when the Law comes, th<supplied reason="illegible" cert="high" resp="#editor">at<!-- that gives: 1668 Kraken; 1675 'thr' --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>
-gives the soul <hi>a distinct sight of this indwelling-sin<g ref="char:punc">▪</g>
+               </gap></supplied>
+gives the soul <hi>a distinct sight of this indwelling-sin<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">.</reg></choice>
                </hi>
-Again, <hi>I had not known it,</hi> that is, the <hi>depths</hi> o<gap reason="illegible" resp="#TECH" extent="1 letter">
+Again, <hi>I had not known it,</hi> that is, the <hi>depths</hi> o<supplied reason="illegible" cert="high" resp="#editor">f<!-- scan OCR: both read 'of'; book has it 4203x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 it, the root, the habitual inclination of my nature to
 sin, which is here called <hi>lust;</hi> as it is by <hi>James,
 chap.</hi> 1. 14. I had not known it, or not known it
@@ -10380,9 +10381,9 @@ but say that the Law <hi>warned</hi> him of him, dis<g ref="char:EOLhyphen"/>cov
 him unto him, yea, and raised a <hi>concourse
 about him</hi> in the soul of various affections, as an
 <hi>Officer</hi> doth, that discovers a <hi>Thief</hi> or <hi>Robber,</hi>
-calling out <gap reason="illegible" resp="#TECH" extent="1 letter">
+calling out <supplied reason="illegible" cert="high" resp="#editor">f<!-- for: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>or assistance to apprehend him.</p>
+               </gap></supplied>or assistance to apprehend him.</p>
             <p>
                <pb n="285" facs="tcp:42900:147"/>
 Secondly, The Law not only <hi>discovers</hi> sin, but
@@ -10417,7 +10418,7 @@ will live but a very few hours.</p>
             <p>So is it in this case, a man may have some <hi>trou<g ref="char:EOLhyphen"/>ble</hi>
 in his mind and conscience about <hi>Indwelling-sin;</hi>
 he finds all not well, as it should be with him, more
-from the <hi>effects</hi> of sin, and its continual eruptions<g ref="char:punc">▪</g>
+from the <hi>effects</hi> of sin, and its continual eruptions<choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice>
 than the nature of it, which he hopes to wrestle
 <pb n="286" facs="tcp:42900:148"/>
 <choice><orig>withall</orig><reg resp="#auto" type="spelling">withal</reg></choice>: but now when the <hi>Law</hi> comes, that lets
@@ -10453,11 +10454,11 @@ its sinful inmate. When ever the soul hath
 indulged to its commands, made provision for it,
 immediately the Law <hi>flies upon it,</hi> with the wrath
 and terrour of the Lord, makes it quake and trem<g ref="char:EOLhyphen"/>ble:
-It shall h<gap reason="illegible" resp="#TECH" extent="1 letter">
+It shall h<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'have' 453x; OCR read {'kraken': ['yield or', 'h ve'], 'tesseract': ['yield or']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>ve no rest, but is like a poor beast th<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>ve no rest, but is like a poor beast th<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'that' 1638x; OCR read {'kraken': ['thet'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>t
+               </gap></supplied>t
 <pb n="287" facs="tcp:42900:148"/>
 hath a deadly arrow sticking in its sides, that makes
 it restless where ever it is, and whatever it doth.</p>
@@ -10491,14 +10492,14 @@ neither of these befalls <hi>Indwelling-sin</hi> by the as<g ref="char:EOLhyphen
 of the Law; it loseth not one jot of its
 <hi>dominion</hi> nor <hi>strength</hi> by all the blows that are gi<g ref="char:EOLhyphen"/>ven
 unto it. The <hi>Law cannot</hi> do this thing, <hi>Rom.</hi>
-8. 3. <choice><orig>it</orig><reg resp="#auto" type="spelling">It</reg></choice> cannot deprive sin of its power and d<gap reason="illegible" resp="#TECH" extent="1 letter">
+8. 3. <choice><orig>it</orig><reg resp="#auto" type="spelling">It</reg></choice> cannot deprive sin of its power and d<supplied reason="illegible" cert="high" resp="#editor">o<!-- context; book has 'dominion' 39x; OCR read {'kraken': ['efficacy', 'efficacy ofit', 'deminion'], 'tesseract': ['deceir']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap><g ref="char:EOLhyphen"/>minion;
-for he <hi>that is under the L<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied><g ref="char:EOLhyphen"/>minion;
+for he <hi>that is under the L<supplied reason="illegible" cert="high" resp="#editor">a<!-- context; book has 'law' 405x, next 'low' 2x; OCR read {'kraken': ['power of', 'l w'], 'tesseract': ['power of']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>w is also <gap reason="illegible" resp="#TECH" extent="1 word">
+                  </gap></supplied>w is also <supplied reason="illegible" cert="high" resp="#editor">under<!-- under sin: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap>
+                  </gap></supplied>
                   <pb n="288" facs="tcp:42900:149"/>
 sin;</hi> that is, what ever power the Law gets upon
 the conscience of a man, so that he fears to sin, lest
@@ -10675,15 +10676,15 @@ cannot but know sin to be evil, and that such an evil
 that renders them obnoxious to the Judgement of
 God. This galls the Minds and Consciences of
 some so far, as that they are kept in awe, and
-d<gap reason="illegible" resp="#TECH" extent="1 letter">
+d<supplied reason="illegible" cert="high" resp="#editor">a<!-- dare: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>re not sin as they would. Being awed with a
+               </gap></supplied>re not sin as they would. Being awed with a
 sense of the guilt of sin, and the terrour of the Lord,
 Men begin to endeavour to <hi>abstain from sin,</hi> at
 least from such sins as they have been most terrified
-<gap reason="illegible" resp="#TECH" extent="1 letter">
+<supplied reason="illegible" cert="high" resp="#editor">a<!-- scan OCR: one read 'about'; book has it 78x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>bout. Whilest they have this design in hand, the
+               </gap></supplied>bout. Whilest they have this design in hand, the
 <pb n="293" facs="tcp:42900:151"/>
 strength and power of sin begins to discover it self
 unto them; They begin to <choice><orig>finde</orig><reg resp="#auto" type="spelling">find</reg></choice> that there is <hi>some<g ref="char:EOLhyphen"/>thing
@@ -10715,7 +10716,7 @@ The <hi>Psalmist</hi> <choice><orig>shews</orig><reg resp="#auto" type="spelling
 whereby false and <hi>hypocritical</hi> Persons do endeavour
 to extricate and deliver themselves out of trouble
 and perplexity; They make <hi>Promises to God;</hi> which
-he calls, <hi>flutering him with the lips,</hi> Psal. 78. 36.
+he calls, <hi><seg type="transcription" change="#tcp-corrections">flattering<!-- the transcription has 'flutering'; p. 293 (scan 301): 'flattering him with the lips, Psal. 78. 36.' --></seg> him with the lips,</hi> Psal. 78. 36.
 So is it in this case; being freshly galled with the
 guilt of any sin, that by the power of their temp<g ref="char:EOLhyphen"/>tations,
 they, it may be, have frequently been over<g ref="char:EOLhyphen"/>taken
@@ -10780,13 +10781,13 @@ skin them over, and hinder their corruption from
 coming forth; but the issue of them is, that they
 cause them to <hi>fester</hi> inwardly, and so prove, though
 it may be not so <hi>noysome</hi> and offensive as they were
-before, yet far more <hi>dangero<gap reason="illegible" resp="#TECH" extent="2 letters">
+before, yet far more <hi>dangero<supplied reason="illegible" cert="high" resp="#editor">us<!-- context; book has 'dangerous' 9x; OCR read {'kraken': [], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="2 letters">
                      <desc>••</desc>
-                  </gap>
+                  </gap></supplied>
                </hi> So is it with this
-repelling of the power of co<gap reason="illegible" resp="#TECH" extent="3 letters">
+repelling of the power of co<supplied reason="illegible" cert="high" resp="#editor">rru<!-- corruption: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
-               </gap>ption by <hi>Mens
+               </gap></supplied>ption by <hi>Mens
 Vows,</hi> and promises against it; <hi>external eruptions</hi>
 are it may be restrained for a season; but the <hi>in<g ref="char:EOLhyphen"/>ward
 root</hi> and principle is not weakned in the least.
@@ -10804,35 +10805,35 @@ unto <hi>Lyons, Bears,</hi> and <hi>Asps, Isa.</hi> 11. 6,
 7, 8, 9. Now this is the excellency of Gospel-grace,
 that it changes the <hi>Nature</hi> and inward Principles
 of these otherwise passionate and untamed Beasts,
-making the <hi>Wolf</hi> as the <hi>Kid,</hi> the <hi>Lyon</hi> as the <hi>Lan<gap reason="illegible" resp="#TECH" extent="1 letter">
+making the <hi>Wolf</hi> as the <hi>Kid,</hi> the <hi>Lyon</hi> as the <hi>Lan<supplied reason="illegible" cert="high" resp="#editor">b<!-- Lamb: 1668 Kraken; Isa 11:6 --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>,</hi>
+                  </gap></supplied>,</hi>
 and the <hi>Bear</hi> as the <hi>Cow.</hi> When this is effected,
 they may safely be trusted in; a <hi>little <choice><orig>Childe</orig><reg resp="#auto" type="spelling">Child</reg></choice> may
-lead them:</hi> But these <hi>self-endeavours</hi> do not <gap reason="illegible" resp="#TECH" extent="1 word">
+lead them:</hi> But these <hi>self-endeavours</hi> do not <supplied reason="illegible" cert="high" resp="#editor">at<!-- at all: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap>
-all change the Nature, but restrain their outwar<gap reason="illegible" resp="#TECH" extent="1 letter">
+               </gap></supplied>
+all change the Nature, but restrain their outwar<supplied reason="illegible" cert="high" resp="#editor">d<!-- context; book has 'outward' 31x; OCR read {'kraken': ['outwau'], 'tesseract': ['outwa']} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
-               </gap>
+               </gap></supplied>
 violence: He that takes a <hi>Lyon,</hi> or a <hi>Wolf,</hi> and
 shuts him up from ravening, whilest yet his in<g ref="char:EOLhyphen"/>ward
-violence remains, may well expect that <gap reason="illegible" resp="#TECH" extent="1 word">
+violence remains, may well expect that <supplied reason="illegible" cert="high" resp="#editor">at<!-- at one time: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
-               </gap>
+               </gap></supplied>
 one time or other they will break their bonds, and
 fall to their former <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> of rapine and violence.
 However, shutting them up, doth not as we see,
-change their Natures, but only restrain their <hi>rag<gap reason="illegible" resp="#TECH" extent="1 letter">
+change their Natures, but only restrain their <hi>rag<supplied reason="illegible" cert="high" resp="#editor">e<!-- context; book has 'rage' 33x; OCR read {'kraken': ['ras'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
-                  </gap>
+                  </gap></supplied>
                </hi>
 from doing open spoyl. So it is in this case; it is
 Grace alone that <hi>changeth the heart,</hi> and takes
 away that poyson and fiercerness that is in
-them by nature; Mens <hi>self-endeavours</hi> do b<gap reason="illegible" resp="#TECH" extent="2 letters">
+them by nature; Mens <hi>self-endeavours</hi> do b<supplied reason="illegible" cert="high" resp="#editor">ut<!-- but: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
-               </gap>
+               </gap></supplied>
 coerce them as to some outward eruptions.
 But,</p>
             <p rend="level1" change="#review">
@@ -10877,7 +10878,7 @@ pleasures, it takes up with great advantage, in
 blindness, darkness, superstition, self-righteous<g ref="char:EOLhyphen"/>ness,
 and soul-pride, contempt of the Gos<g ref="char:EOLhyphen"/>pel,
 and the righteousness of it, and reigns no
-less, than in the most proffigate sinners in the
+less, than in the most <seg type="transcription" change="#tcp-corrections">profligate<!-- the transcription has 'proffigate'; p. 297 (scan 305): 'than in the most profligate sinners in the World' --></seg> sinners in the
 World.</p>
             <p rend="level1" change="#review">
                <pb n="298" facs="tcp:42900:154"/>
