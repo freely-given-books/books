@@ -1,7 +1,7 @@
 # Indwelling Sin (Owen, 1667) — sources, queued 2026-10-10
 
 Puritan Paperbacks #14, *Indwelling Sin in Believers* (Banner abridges it; ours is the full text).
-Not started.
+Started 2026-11-08 on branch indwelling-sin: base = the 1675 TCP (A53712), the editor's decision; the 1668 first edition and Goold are witnesses.
 
 - **Base:** CCEL `indwellingsin.thml.xml` (https://www.ccel.org/ccel/o/owen/indwellingsin.xml),
   Goold's text (vol. 6) via Banner 1967; ~90,000 words. Check CCEL against Goold
