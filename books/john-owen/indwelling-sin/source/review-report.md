@@ -2,33 +2,270 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 658 |
+| spelling | 777 |
+| emendation | 230 |
 | level | 207 |
-| punctuation | 27 |
+| grammar | 31 |
+| punctuation | 28 |
 | inset | 17 |
 | heading | 16 |
-| grammar | 10 |
-| emendation | 3 |
-| gap | 1 |
+| gap | 3 |
+| case | 1 |
+| spacing | 1 |
 
 ## gap
 
 - [chapter-02.typ] medling → meddling
+- [chapter-06.typ] off → of it
+- [chapter-12.typ] fit → sit
 
 ## emendation
 
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] our selves → ourselves
+- [chapter-01.typ] our selves → ourselves
+- [chapter-01.typ] what ever → whatever
+- [chapter-01.typ] mean time → meantime
 - [chapter-01.typ] hood - winkt → hoodwinked
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] What ever → Whatever
+- [chapter-02.typ] what ever → whatever
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] Where ever → Wherever
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] applyes it self → applies itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] what ever → whatever
+- [chapter-02.typ] its self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-03.typ] every where → everywhere
+- [chapter-03.typ] its self → itself
+- [chapter-03.typ] its self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] what ever → whatever
+- [chapter-03.typ] our selves → ourselves
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] where ever → wherever
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] What ever → Whatever
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] never the less → nevertheless
+- [chapter-04.typ] What ever → Whatever
+- [chapter-04.typ] our selves → ourselves
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] our selves → ourselves
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] thy self → thyself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] what ever → whatever
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] our selves → ourselves
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] what ever → whatever
+- [chapter-05.typ] is → it
+- [chapter-05.typ] thy self → thyself
+- [chapter-05.typ] it self → itself
 - [chapter-05.typ] lyen → lain
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-06.typ] its self → itself
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] its self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] our selves → ourselves
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] your selves → yourselves
+- [chapter-06.typ] any where → anywhere
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] my self → myself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] my self → myself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] our selves → ourselves
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] such → such as
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] her self → herself
+- [chapter-08.typ] every where → everywhere
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] our selves → ourselves
+- [chapter-08.typ] for saken → forsaken
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] every where → everywhere
+- [chapter-08.typ] our selves → ourselves
+- [chapter-08.typ] it self → itself
+- [chapter-09.typ] When ever → Whenever
+- [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] What ever → Whatever
+- [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] my self → myself
+- [chapter-09.typ] it self peculiary → itself peculiarly
+- [chapter-09.typ] her self → herself
+- [chapter-09.typ] our selves → ourselves
+- [chapter-09.typ] your selves → yourselves
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] thy self → thyself
+- [chapter-10.typ] our selves → ourselves
+- [chapter-10.typ] our selves → ourselves
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] its self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] her self → herself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-11.typ] it self → itself
+- [chapter-11.typ] some what → somewhat
+- [chapter-11.typ] it self → itself
+- [chapter-11.typ] her self → herself
+- [chapter-11.typ] her self → herself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] is → in
+- [chapter-12.typ] our selves → ourselves
+- [chapter-12.typ] our selves → ourselves
+- [chapter-12.typ] its self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
 - [chapter-12.typ] itnot → it not
+- [chapter-12.typ] any where → anywhere
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] the → that
+- [chapter-13.typ] it self → itself
+- [chapter-13.typ] What ever → Whatever
+- [chapter-13.typ] what ever → whatever
+- [chapter-13.typ] it self → itself
+- [chapter-13.typ] ju → in
+- [chapter-13.typ] David → the Psalmist
+- [chapter-13.typ] your selves → yourselves
+- [chapter-13.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] my self → myself
+- [chapter-14.typ] my self → myself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-15.typ] it self → itself
+- [chapter-15.typ] as → 
+- [chapter-15.typ] streight way forgeteth → straightway forgetteth
+- [chapter-15.typ] them → him
+- [chapter-15.typ] mean time → meantime
+- [chapter-15.typ] through - → thorough
+- [chapter-15.typ] my self → myself
+- [chapter-15.typ] its self → itself
+- [chapter-15.typ] use → use of
+- [chapter-15.typ] it self → itself
+- [chapter-15.typ] What ever → Whatever
+- [chapter-15.typ] it self → itself
+- [chapter-16.typ] our selves → ourselves
+- [chapter-16.typ] what ever → whatever
+- [chapter-16.typ] What ever → Whatever
+- [chapter-16.typ] its → it is
+- [chapter-16.typ] to day → today
+- [chapter-16.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] in → it
+- [chapter-17.typ] When ever → Whenever
+- [chapter-17.typ] where ever → wherever
+- [chapter-17.typ] Where ever → Wherever
+- [chapter-17.typ] what ever → whatever
+- [chapter-17.typ] every where → everywhere
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] mean time → meantime
 
 ## grammar
 
+- whilest → whilst (×12)
+- Whilest → Whilst (×5)
 - chuseth → chooseth (×5)
+- an → a
 - dispossest → dispossessed
 - endeavoureth → endeavoreth
 - intangleth → entangleth
 - intermedleth → intermeddleth
+- possest → possessed
 - prepossest → prepossessed
+- surprizeth → surpriseth
+- thy → they
 
 ## punctuation
 
@@ -50,6 +287,7 @@
 - [chapter-12.typ] ▪ → ,
 - [chapter-12.typ] ▪ → ,
 - [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] ; → ,
 - [chapter-13.typ] ▪ → ,
 - [chapter-14.typ] ▪ → ,
 - [chapter-14.typ] ▪ → .
@@ -59,6 +297,10 @@
 - [chapter-16.typ] ▪ → ,
 - [chapter-17.typ] ▪ → .
 - [chapter-17.typ] ▪ → ,
+
+## case
+
+- Colt → colt
 
 ## spelling
 
@@ -76,42 +318,58 @@
 - vigour → vigor (×11)
 - meerly → merely (×10)
 - subtilty → subtlety (×10)
+- judgement → judgment (×9)
 - intangled → entangled (×8)
 - pretences → pretenses (×8)
 - Sathan → Satan (×7)
 - dryed → dried (×7)
+- lye → lie (×7)
+- Judgement → Judgment (×6)
 - Mens → Men's (×6)
 - applyed → applied (×6)
+- savour → savor (×6)
 - surprizals → surprisals (×6)
 - damm → dam (×5)
 - defence → defense (×5)
+- dependance → dependence (×5)
+- enquire → inquire (×5)
+- Sion → Zion (×4)
+- born → borne (×4)
 - burthen → burden (×4)
 - dishonour → dishonor (×4)
+- enquiring → inquiring (×4)
 - fartherance → furtherance (×4)
-- favour → favor (×4)
 - harbouring → harboring (×4)
 - joyn → join (×4)
 - labours → labors (×4)
 - meer → mere (×4)
-- peculiary → peculiarly (×4)
-- savour → savor (×4)
+- practise → practice (×4)
 - sence → sense (×4)
+- stedfast → steadfast (×4)
 - stedfastness → steadfastness (×4)
 - succour → succor (×4)
+- surprizal → surprisal (×4)
 - surprized → surprised (×4)
 - tryal → trial (×4)
 - weakning → weakening (×4)
+- Judgements → Judgments (×3)
 - Labour → Labor (×3)
+- Lyon → Lion (×3)
+- Lyons → Lions (×3)
 - Satans → Satan's (×3)
 - Soveraignty → Sovereignty (×3)
 - carryed → carried (×3)
 - complyance → compliance (×3)
 - cryes → cries (×3)
+- enquired → inquired (×3)
+- enquiry → inquiry (×3)
+- fulness → fullness (×3)
 - heightned → heightened (×3)
 - honour → honor (×3)
 - intanglements → entanglements (×3)
 - marvellous → marvelous (×3)
 - mould → mold (×3)
+- peculiary → peculiarly (×3)
 - pretence → pretense (×3)
 - regardlesness → regardlessness (×3)
 - stopt → stopped (×3)
@@ -120,10 +378,11 @@
 - tryals → trials (×3)
 - wofully → woefully (×3)
 - Feaver → Fever (×2)
+- Jehosaphat → Jehoshaphat (×2)
 - Philistins → Philistines (×2)
-- Saviours → Saviors (×2)
 - Senacherib → Sennacherib (×2)
 - Soveraign → Sovereign (×2)
+- bruit → brute (×2)
 - burthened → burdened (×2)
 - carryes → carries (×2)
 - chearfully → cheerfully (×2)
@@ -132,6 +391,7 @@
 - denyed → denied (×2)
 - encrease → increase (×2)
 - enflamed → inflamed (×2)
+- favour → favor (×2)
 - hearkning → hearkening (×2)
 - humour → humor (×2)
 - hurryed → hurried (×2)
@@ -144,6 +404,7 @@
 - lothness → loathness (×2)
 - outragious → outrageous (×2)
 - parlies → parleys (×2)
+- practised → practiced (×2)
 - priviledge → privilege (×2)
 - priviledges → privileges (×2)
 - proceds → proceeds (×2)
@@ -153,18 +414,24 @@
 - rouls → rolls (×2)
 - sensless → senseless (×2)
 - soveraign → sovereign (×2)
-- streight → straight (×2)
 - strengthning → strengthening (×2)
 - stubborness → stubbornness (×2)
+- subtile → subtle (×2)
+- surprize → surprise (×2)
 - travelling → traveling (×2)
 - Abrahams → Abraham's
+- Asses → ass's
 - Athletick → Athletic
+- Believers → Deliverers
 - Cittadel → Citadel
 - Cloaths → Clothes
 - Eightly → Eighthly
 - Endeavour → Endeavor
+- Enquire → Inquire
+- God → God's
 - Honour → Honor
 - Ingagements → Engagements
+- Kings → King's
 - Labours → Labors
 - Lanb → Lamb
 - Membres → Members
@@ -174,19 +441,24 @@
 - Rejoycing → Rejoicing
 - Sacrameats → Sacraments
 - Sampsons → Samson's
+- Saviours → Savior's
+- Saviours → Saviors
 - Somtimes → Sometimes
+- Steven → Stephen
 - Theachers → Teachers
 - Travailer → Traveler
 - Traytors → Traitors
 - Warriour → Warrior
 - Withs → Withes
 - Woful → Woeful
+- a → at
 - aboad → abode
+- abridgement → abridgment
 - accrew → accrue
 - adeò → adeoò
 - advantagious → advantageous
 - aiery → airy
-- applyes → applies
+- allay → alloy
 - asfirms → affirms
 - astate → estate
 - athletick → athletic
@@ -230,7 +502,10 @@
 - dishonours → dishonors
 - dispenced → dispensed
 - dispoiled → despoiled
-- drunkènness → drunkèdrunkenness
+- draw → drawn
+- drunkènness → drunkenness
+- dye → die
+- east → least
 - ecafficy → efficacy
 - enclined → inclined
 - enclines → inclines
@@ -244,11 +519,14 @@
 - extream → extreme
 - fabrick → fabric
 - fafe → safe
+- faith → saith
 - falshood → falsehood
 - farthering → furthering
 - fewds → feuds
 - fiercerness → fierceness
 - fonutain → fountain
+- fores → sores
+- frame → frames
 - grosly → grossly
 - harbour → harbor
 - hardned → hardened
@@ -260,9 +538,11 @@
 - horrour → horror
 - humours → humors
 - imbitter → embitter
+- immixed → unmixed
 - immorrality → immortality
 - imploys → employs
 - inclineableness → inclinableness
+- inclosures → enclosures
 - indeavour → endeavor
 - indifferency → indifference
 - indispensibly → indispensably
@@ -273,32 +553,47 @@
 - irreconcileable → irreconcilable
 - joyned → joined
 - joynt → joint
+- judgements → judgments
+- justle → jostle
 - laboured → labored
+- later → latter
+- laves → lays
+- lead → led
 - leasure → leisure
 - lessning → lessening
+- loath → loathe
 - losty → lofty
+- man → main
 - manageing → managing
 - mannage → manage
 - mannaged → managed
 - milstones → millstones
+- mina → mind
 - miraculos → miraculous
 - mispent → misspent
 - murthering → murdering
 - negligencies → negligences
 - neighbours → neighbors
+- non → not
 - noysome → noisome
+- of → off
 - offences → offenses
+- ones → one's
 - oppointed → appointed
 - outragiously → outrageously
 - pardom → pardon
 - parlying → parleying
 - particulary → particularly
+- past → passed
 - perfom → perform
 - pervers → perverse
 - perversness → perverseness
 - pimrovement → improvement
+- places → place
 - plough → plow
 - ploughed → plowed
+- possible → possibly
+- powers → showers
 - poysoned → poisoned
 - poysonous → poisonous
 - pravalent → prevalent
@@ -311,12 +606,13 @@
 - rigour → rigor
 - rouze → rouse
 - rush'd → rushed
-- saken → forsaken
 - seised → seized
 - senless → senseless
 - senslesness → senselessness
+- sewer → fewer
 - shew'd → showed
 - shipwrack → shipwreck
+- skilful → skillful
 - slipt → slipped
 - sloathful → slothful
 - sollicitations → solicitations
@@ -328,6 +624,7 @@
 - stength → strength
 - stirr'd → stirred
 - stollen → stolen
+- streight → straight
 - strugling → struggling
 - struglings → strugglings
 - stupendious → stupendous
@@ -336,8 +633,11 @@
 - summ → sum
 - supplyed → supplied
 - surprizing → surprising
+- table → able
+- tat → that
 - terrifyed → terrified
 - terrours → terrors
+- the → he
 - thred → thread
 - threeds → threads
 - toyle → toil
@@ -351,16 +651,18 @@
 - unmoveableness → unmovableness
 - unrightcousness → unrighteousness
 - unsearchahle → unsearchable
+- upmost → uppermost
 - venemous → venomous
 - vitious → vicious
 - vitiousness → viciousness
 - wakning → wakening
 - wandred → wandered
 - warr → war
-- warrs → wars
+- warrs → wears
 - warthful → wrathful
 - wearyed → wearied
 - werein → wherein
 - whon → whom
 - withs → withes
+- won → own
 

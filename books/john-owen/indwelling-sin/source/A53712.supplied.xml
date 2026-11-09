@@ -36,5 +36,29 @@
          evidence="p. 293 (scan 301): 'flattering him with the lips, Psal. 78. 36.'"/>
     <fix pb="297" before="most " tcp="proffigate" print="profligate" after=""
          evidence="p. 297 (scan 305): 'than in the most profligate sinners in the World'"/>
+    <fix pb="22" before="for Grace; " tcp="not" print="nor" after=" will"
+         evidence="p. 22 (scan 30): 'for Grace; nor will it rise higher'; 1668 'nor' (wording check 2026-11-09)"/>
+    <fix pb="28" before="it was but out of " tcp="fight" print="sight" after=". It hath"
+         evidence="p. 28 (scan 36): 'out of ſight. It hath coverts'; 1668 'sight' (wording check 2026-11-09)"/>
+    <fix pb="28" before="retired out of " tcp="fight" print="sight" after=". It can"
+         evidence="p. 28 (scan 36): 'retired out of ſight. It can lie so close' (wording check 2026-11-09)"/>
+    <fix pb="29" before="strength " tcp="of" print="to" after=" the Law"
+         evidence="p. 29 (scan 37): 'encrease of ſtrength to the Law of ſin'; 1668 'to' (wording check 2026-11-09)"/>
+    <fix pb="32" before="look to it, " tcp="left" print="lest" after=""
+         evidence="p. 32 (scan 40): 'look to it, leſt their own hearts' (wording check 2026-11-09)"/>
+    <fix pb="32" before="properties of this " tcp="feat" print="seat" after=" and"
+         evidence="p. 32 (scan 40): 'properties of this ſeat and ſubject' (wording check 2026-11-09)"/>
+    <fix pb="138" before="heard, " tcp="lost" print="lest" after=" at any"
+         evidence="p. 138 (scan 146): Heb 2:1 'leſt at any time we ſhould let them ſlip' (wording check 2026-11-09)"/>
+    <fix pb="163" before="in vain is the " tcp="Not" print="Net" after=" spread"
+         evidence="p. 163 (scan 171): Prov 1:17 'in vain is the Net ſpread' (wording check 2026-11-09)"/>
+    <fix pb="185" before="kind, and that " tcp="i" print="is" after="; the"
+         evidence="p. 185 (scan 193): 'and that is the alleviation', the s cracked; 1668 'is' (wording check 2026-11-09)"/>
+    <fix pb="242" before="keeps up such a " tcp="favour" print="savour" after=" and relish"
+         evidence="p. 242 (scan 250): 'ſuch a ſavour and reliſh of them'; 1668 'savour' (wording check 2026-11-09)"/>
+    <fix pb="247" before="life, vigour, " tcp="favour" print="savour" after=", and"
+         evidence="p. 247 (scan 255): 'life, vigour, ſavour, and efficacy'; 1668 'savour' (wording check 2026-11-09)"/>
+    <fix pb="284" before="enemy; if " tcp="the" print="he" after=" will now"
+         evidence="p. 284 (scan 292): 'if he will now periſh by him'; 1668 'he' (wording check 2026-11-09)"/>
   </corrections>
 </supplement>
