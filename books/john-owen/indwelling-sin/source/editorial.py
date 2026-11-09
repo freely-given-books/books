@@ -17,6 +17,11 @@ QUOTE_BLOCK = True
 SMALLCAPS = "smallcaps"
 OPENING_SMALLCAPS = True
 
+# Headings this edition adds over the parts of its deepest chapters (7, 8, 9, 10, 13), in Owen's
+# own words from the chapter's text or summary, so his outline needs at most three levels of
+# indent (work/indwelling-sin/outline/headings.py; the levels: source/outline.json).
+EDITION_HEADINGS = True
+
 # The frontispiece and title page are the print's, not the edition's.
 SKIP_DIVISIONS = {"illustration", "title_page"}
 
@@ -38,3 +43,9 @@ def LAYOUT(root):
                       "subtitle": arg, "subtitle_rend": "inset",
                       "parts": [p for p in layout.sections(div) if p is not arg]})
     return files
+
+# ./fgb epub / pdf / build (paths from the book folder)
+EPUB = {"title": "Indwelling Sin", "author": "John Owen",
+        "file": "indwelling-sin.epub", "front": "ebook-front.html", "toc_depth": 4,
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
+PRINT = ["indwelling-sin.typ"]

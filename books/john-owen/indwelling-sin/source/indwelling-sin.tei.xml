@@ -80,7 +80,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>@rend='inset': a paragraph or quotation this edition sets off, indented on both sides.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>label[@type='head']: a heading this edition adds (its level in @n); it is not printed text.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -269,7 +269,7 @@ they are called.</p>
             <pb n="1" facs="tcp:42900:5"/>
             <head>CHAP. I.</head>
             <argument>
-               <p>Indwelling-Sin in Believers, treated of by the
+               <p rend="inset" change="#review">Indwelling-Sin in Believers, treated of by the
 Apostle, Rom. 7. 21. The Place explained.</p>
             </argument>
             <p>
@@ -530,18 +530,18 @@ that the <hi>presence</hi> of sin hath unto the <hi>time</hi> and
             </p>
             <p>There are two thing to be considered in the
 <hi>will of doing good,</hi> that is in Believers.</p>
-            <p>First, There is its <hi>habitual residence</hi> in them. They
+            <p rend="level1" change="#review">First, There is its <hi>habitual residence</hi> in them. They
 have always an <hi>habitual inclination of will</hi> unto
 that which is good. And this habitual preparation
 for good is always present with them, as the
 Apostle expresses it, ver. 18. <choice><orig>of</orig><reg resp="#auto" type="spelling">Of</reg></choice> this Chapter.</p>
-            <p>Secondly, There are special <hi>times</hi> and <hi>seasons</hi> for
+            <p rend="level1" change="#review">Secondly, There are special <hi>times</hi> and <hi>seasons</hi> for
 the exercise of that principle. There is a, <hi>When I
 would do good,</hi> a season wherein this or that good,
 this or that duty is to be performed and accom<g ref="char:EOLhyphen"/>plished,
 suitably unto the habitual preparation
 and inclination of the will.</p>
-            <p>Unto these two, there are two things in <hi>In<g ref="char:EOLhyphen"/>dwelling-sin</hi>
+            <p rend="level1" change="#review">Unto these two, there are two things in <hi>In<g ref="char:EOLhyphen"/>dwelling-sin</hi>
 opposed. To the <hi>gracious principle</hi>
 residing in the will, inclining unto that which is
 spiritually good, it is opposed as it is a <hi>Law</hi> that is a
@@ -662,7 +662,7 @@ the <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choi
             <pb n="12" facs="tcp:42900:11"/>
             <head>CHAP. II.</head>
             <argument>
-               <p>Indwelling<gap reason="illegible" resp="#TECH" extent="1 letter">
+               <p rend="inset" change="#review">Indwelling<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
                   </gap>Sin a Law. In what sense it is so
 called. What kind of Law it is. An inward
@@ -1054,7 +1054,7 @@ danger.</p>
             <pb n="23" facs="tcp:42900:16"/>
             <head>CHAP. III.</head>
             <argument>
-               <p>The Seat or subject of the Law of Sin. The
+               <p rend="inset" change="#review">The Seat or subject of the Law of Sin. The
 Heart, What meant thereby. Properties of
 the Heart as possessed by sin. Unsearchable.
 Deceitful. Whence that Deceit ariseth. Im<g ref="char:EOLhyphen"/>provements
@@ -1283,7 +1283,7 @@ measure which the object is cabable of.</p>
             <p>Now this <hi>deceitfulness</hi> of the heart, whereby
 it is exceedingly advantaged in its harbouring of
 sin, lies chiefly in these two things.</p>
-            <p>First, That it abounds in <hi>contradictions,</hi> so that it
+            <p rend="level1" change="#review">First, That it abounds in <hi>contradictions,</hi> so that it
 is not to be found and dealt <choice><orig>withall</orig><reg resp="#auto" type="spelling">withal</reg></choice> according to
 any constant rule, and way of procedure. There
 are some men that have much of this from their
@@ -1340,7 +1340,7 @@ order that it is constant unto, is under no certain
 conduct that is stable, but if I may so say, hath a
 <hi>rotation</hi> in it self, where oft-times the <hi>feet</hi> lead and
 guide the whole.</p>
-            <p>Secondly, Its deceit lies in its <hi>full promisings</hi>
+            <p rend="level1" change="#review">Secondly, Its deceit lies in its <hi>full promisings</hi>
 upon the first appearance of things. And this also
 proceeds from the same principle with the former.
 Sometimes the affections are <hi>touched</hi> and wrought
@@ -1364,7 +1364,7 @@ the interest and advantages of sin. Hence God
 cautions the people to look to it, left <hi>their own
 hearts should entice and deceive them.</hi>
             </p>
-            <p>Who can mention the treacheries and deceits
+            <p rend="level1" change="#review">Who can mention the treacheries and deceits
 that lie in the heart of man? It is not for nothing
 that the holy Ghost so expresseth it, <hi>It is deceitful
 above all things;</hi> uncertain in what it doth, and
@@ -1376,13 +1376,13 @@ live in this world; still new stratagems and wiles
 to deal <choice><orig>withall</orig><reg resp="#auto" type="spelling">withal</reg></choice>, as the manner will be where un<g ref="char:EOLhyphen"/>searchableness
 and deceitfulness are to be conten<g ref="char:EOLhyphen"/>ded
 with.</p>
-            <p>There are many other properties of this feat and
+            <p rend="level1" change="#review">There are many other properties of this feat and
 subject of the Law of sin, which might be insisted
 on to the same end and purpose, but that would
 too far divert us from our particular design; and
 therefore I shall pass these over with some few
 considerations.</p>
-            <p>Never let us reckon that our work in contend<g ref="char:EOLhyphen"/>ing
+            <p rend="level1" change="#review">Never let us reckon that our work in contend<g ref="char:EOLhyphen"/>ing
 against sin, in crucifying, mortifying, and sub<g ref="char:EOLhyphen"/>duing
 of it, is at an end. The place of its habitation
 is <hi>unsearchable;</hi> and when we may think that we
@@ -1496,7 +1496,7 @@ we laid them down.</p>
             <pb n="36" facs="tcp:42900:23"/>
             <head>CHAP. IV.</head>
             <argument>
-               <p>Indwelling Sin Enmity against God. Thence
+               <p rend="inset" change="#review">Indwelling Sin Enmity against God. Thence
 its power. Admits of no peace nor rest: Is
 against God himself, Acts it self in aver<g ref="char:EOLhyphen"/>sation
 from God; and propensity to Evil.
@@ -1756,7 +1756,7 @@ whole kind of that which is its object. Such is
 this enmity; for First, It is <hi><choice><orig>Vniversal</orig><reg resp="#auto" type="spelling">Universal</reg></choice></hi> to all of
 God; and Secondly, It is <hi><choice><orig>Vniversal</orig><reg resp="#auto" type="spelling">Universal</reg></choice></hi> in all of
 the soul.</p>
-            <p>First, It is <hi>universal to all of God.</hi> If there were
+            <p rend="level1" change="#review">First, It is <hi>universal to all of God.</hi> If there were
 any thing of God, his nature, properties, his mind
 or will, his Law or Gospel, any duty of obedience
 to him, of communion with him, that sin had not
@@ -1798,7 +1798,7 @@ it, and that meerly because more of the glorious
 properties of God nature, more of his excellencies
 and condescension, is manifested therein, than in
 the other.</p>
-            <p>Secondly, It is <hi>universal in all of the soul.</hi> Would
+            <p rend="level1" change="#review">Secondly, It is <hi>universal in all of the soul.</hi> Would
 this Law of Sin have contented it self to have sub<g ref="char:EOLhyphen"/>dued
 any one <hi>faculty</hi> of the soul, would it have
 left any one at liberty, any one affection free from
@@ -1860,7 +1860,7 @@ and there is no truth in them.</hi>
          <div n="5" type="chapter">
             <head>CHAP. V.</head>
             <argument>
-               <p>Nature of Sin farther discovered as it is en<g ref="char:EOLhyphen"/>mity
+               <p rend="inset" change="#review">Nature of Sin farther discovered as it is en<g ref="char:EOLhyphen"/>mity
 against God. Its aversation from all
 good, opened. Means to prevent the effects
 of it prescribed.</p>
@@ -1899,7 +1899,7 @@ Where there is <hi>enmity,</hi> there will be <hi>fighting,</hi> it
 is the proper and natural product of it. Now both
 these <hi>effects</hi> are found in this <hi>Law of sin.</hi>
             </p>
-            <p>First, For <hi>Aversation,</hi> there is an aversation in it
+            <p rend="level1" change="#review">First, For <hi>Aversation,</hi> there is an aversation in it
 unto God, and every thing of God, as we have in
 part discovered in handling the <hi>enmity</hi> it self, and
 so shall not need much to insist upon it again. All
@@ -1928,7 +1928,7 @@ comes at length unto that frame which is ex<g ref="char:EOLhyphen"/>pressed,
 <hi>bodily presence</hi> unto the worship of God, wherein
 it is not concerned, but it keeps the heart quite
 away.</p>
-            <p>It may be some will pretend, they find it not so
+            <p rend="level1" change="#review">It may be some will pretend, they find it not so
 in <hi>themselves,</hi> but they have <hi>freedom</hi> and <hi>liberty</hi>
 in and unto all the duties of obedience that they at<g ref="char:EOLhyphen"/>tend
 unto. But I fear, this <hi>pretended liberty</hi> will be
@@ -1955,7 +1955,7 @@ condition, as knowing that their way may be safe,
 though it be troublesome, and being willing to
 see their own dangers, that they may avoid the
 <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice> which others fall into.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="49" facs="tcp:42900:29"/>
 Let us then a little consider this <hi>aversation</hi> in
 such acts of obedience, as wherein there is no
@@ -2288,7 +2288,7 @@ weakening the <hi>Aversation</hi> spoken of.</p>
          <div n="6" type="chapter">
             <head>CHAP. VI.</head>
             <argument>
-               <p>The Work of this Enmity against God, by way
+               <p rend="inset" change="#review">The Work of this Enmity against God, by way
 of Opposition. First, It lusteth. Wherein
 the lusting of Sin consisteth. It surprizing
 of the soul. Readiness to close with Temp<g ref="char:EOLhyphen"/>tations.
@@ -2469,7 +2469,7 @@ sin. And this is its <hi>lusting.</hi>
             </p>
             <p>And this <hi>habitual propensity</hi> in it is discovered
 two <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First, In its <hi>unexpected surprizals</hi> of the soul into
+            <p rend="level1" change="#review">First, In its <hi>unexpected surprizals</hi> of the soul into
 foolish sinful figments and imaginations which it
 looked not for, nor was any occasion <choice><orig>administred</orig><reg resp="#auto" type="spelling">administered</reg></choice>
 unto them. It is with Indwelling-Sin, as it is with
@@ -2545,7 +2545,7 @@ and wrought over to do that which we
 <pb n="65" facs="tcp:42900:37"/>
 would not, and hindered from the doing of that
 which we would.</p>
-            <p>Hence it is, that when the soul is oftentimes do<g ref="char:EOLhyphen"/>ing
+            <p rend="level1" change="#review">Hence it is, that when the soul is oftentimes do<g ref="char:EOLhyphen"/>ing
 as it were quite another thing, engaged quite
 upon another design, sin starts that in the heart or
 imaginations of it, that carryes it away into that
@@ -2575,7 +2575,7 @@ of that corruption which is in the Will, and
 is the Principle of them. And it is in respect unto
 these, that the Apostle makes his complaint, <hi>Rom.</hi>
 7. 24.</p>
-            <p>Secondly, This <hi>habitual inclination</hi> manifests it
+            <p rend="level1" change="#review">Secondly, This <hi>habitual inclination</hi> manifests it
 <pb n="66" facs="tcp:42900:38"/>
 self in its <hi>readiness and promptness,</hi> without dispute
 or altercation to joyn and close with every tem<g ref="char:EOLhyphen"/>ptation,
@@ -2608,7 +2608,7 @@ when a temptation be fell him, he had only the <hi>out<g ref="char:EOLhyphen"/>w
 proposal of it to look unto, all was well
 within, until the outward temptation took place and
 prevailed. With us it is not so.</p>
-            <p>In a <hi>City</hi> that is at unity in it self, compact and
+            <p rend="level1" change="#review">In a <hi>City</hi> that is at unity in it self, compact and
 entire, without divisions and parties, if an enemy
 <pb n="67" facs="tcp:42900:38"/>
 approach about it, the Rulers and Inhabitants have
@@ -2740,11 +2740,11 @@ grows into a flame, and so it will do in others
 where it is so cherished.</p>
             <p>Now this fighting or warring of sin consists in
 two things.</p>
-            <p>First, In its <hi>rebellion</hi> against grace, or the Law
+            <p rend="level1" change="#review">First, In its <hi>rebellion</hi> against grace, or the Law
 of the mind.</p>
-            <p>Secondly, In its <hi>assaulting</hi> the soul, contending
+            <p rend="level1" change="#review">Secondly, In its <hi>assaulting</hi> the soul, contending
 for Rule and Sovereignty over it.</p>
-            <p>The first is expressed by the Apostle, <hi>Rom.</hi> 7. 23.
+            <p rend="level1" change="#review">The first is expressed by the Apostle, <hi>Rom.</hi> 7. 23.
 <hi>I find,</hi> saith he, <hi>another Law,</hi> 
                <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
@@ -2827,11 +2827,11 @@ that which is good; so the word signifies; and that
 from this opposition and resistance that is made by
 the Law of sin. Now this rebellion appears in two
 things.</p>
-            <p>First, In the opposition that it makes unto the
+            <p rend="level1" change="#review">First, In the opposition that it makes unto the
 general <hi>purpose</hi> and course of the soul.</p>
-            <p>Secondly, In the opposition it makes unto <hi>parti<g ref="char:EOLhyphen"/>cular</hi>
+            <p rend="level1" change="#review">Secondly, In the opposition it makes unto <hi>parti<g ref="char:EOLhyphen"/>cular</hi>
 duties.</p>
-            <p>First, In the opposition it makes to the <hi>general
+            <p rend="level1" change="#review">First, In the opposition it makes to the <hi>general
 purpose</hi> and course of the soul. There is none in
 whom is the Spirit of Christ, that is his, but it is his
 general design and purpose to walk in an universal
@@ -2901,7 +2901,7 @@ that we cannot do the things that we would, Gal.</hi>
 5. 17. We cannot accomplish the design of close
 walking according to the Law of grace, because of
 the contrariety and rebellion of this Law of sin.</p>
-            <p>Secondly, It rebells also in respect unto parti<g ref="char:EOLhyphen"/>cular
+            <p rend="level1" change="#review">Secondly, It rebells also in respect unto parti<g ref="char:EOLhyphen"/>cular
 duties. It raiseth a combustion in the soul
 against the particular commands and designings of
 the Law of grace: <hi>You cannot do the things that you
@@ -2964,7 +2964,7 @@ some <hi>violence</hi> in that acting of sin, which the Scri<g ref="char:EOLhyph
 calls <hi>fighting</hi> and warring. And this assailing
 efficacy of sin, as distinguished from its rebelling be<g ref="char:EOLhyphen"/>fore
 treated of, consists in these things that ensue.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="76" facs="tcp:42900:43"/>
 First, All its <hi>positive</hi> actings in stirring up unto
 sin, belong to this head. Oftentimes by the vanity
@@ -2995,7 +2995,7 @@ Apostle cautions us against, <hi>Rom.</hi> 13. 14. <gap reason="foreign">
 Do not accom<g ref="char:EOLhyphen"/>plish
 the providence or projection of the flesh, for
 its own satisfaction.</p>
-            <p>Secondly, Its <hi>importunity</hi> and urgency seems to
+            <p rend="level1" change="#review">Secondly, Its <hi>importunity</hi> and urgency seems to
 be noted in this expression of its <hi>warring.</hi> Enemies<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap>
@@ -3065,7 +3065,7 @@ of mind, inward and spiritual distempers, it
 is often so. Some I know pretend to great perfe<g ref="char:EOLhyphen"/>ction,
 but I am resolved to believe the Apostle be<g ref="char:EOLhyphen"/>fore
 them all and every one.</p>
-            <p>Thirdly, It carryes on its <hi>war,</hi> by entangling of
+            <p rend="level1" change="#review">Thirdly, It carryes on its <hi>war,</hi> by entangling of
 the Affections and drawing them into a combina<g ref="char:EOLhyphen"/>tion
 against the mind. Let Grace be enthroned in
 the mind and judgement, yet if the <hi>Law of Sin</hi>
@@ -3106,7 +3106,7 @@ no place, or company, perform no duty, private
 or publick, but sin will have one blow or other at
 it; it will be one way or other soliciting for it
 self.</p>
-            <p>This is the summ of what we shall offer unto
+            <p rend="level1" change="#review">This is the summ of what we shall offer unto
 this acting of the <hi>Law of Sin</hi> in a way of <hi>fighting</hi>
 and warring against our souls, which is so often
 mentioned in the Scripture. And a due conside<g ref="char:EOLhyphen"/>ration
@@ -3214,7 +3214,7 @@ its design herein shall be afterwards consi<g ref="char:EOLhyphen"/>dered.</p>
          <div n="7" type="chapter">
             <head>CHAP. VII.</head>
             <argument>
-               <p>The Captivating power of Indwelling-Sin,
+               <p rend="inset" change="#review">The Captivating power of Indwelling-Sin,
 wherein it consisteth. The prevalency of
 Sin, when from it self, when from Tem<g ref="char:EOLhyphen"/>ptation.
 The Rage and Madness that is in
@@ -3324,7 +3324,7 @@ whether the prevailing power of a particular sin
 in any, be from it self, or from the influence of
 <hi>temptation</hi> upon it, concerning which at present
 take only these two Observations.</p>
-            <p>First, Much of the <hi>prevalency</hi> of sin upon the
+            <p rend="level1" change="#review">First, Much of the <hi>prevalency</hi> of sin upon the
 soul is certainly from <hi>Satan,</hi> when the perplexing
 and captivating sin hath no peculiar footing, nor
 advantage in the nature, constitution, or conditi<g ref="char:EOLhyphen"/>on
@@ -3350,7 +3350,7 @@ corruption, that is not evidently seated in his na<g ref="char:EOLhyphen"/>ture:
 Let him as the Papists say, <hi>cross</hi> himself, or
 fly by faith to the Cross of Christ, for the Devil
 is nigh at hand.</p>
-            <p>Secondly, When a Lust is prevalent unto <hi>Capti<g ref="char:EOLhyphen"/>vity</hi>
+            <p rend="level1" change="#review">Secondly, When a Lust is prevalent unto <hi>Capti<g ref="char:EOLhyphen"/>vity</hi>
 where it brings in no advantage to the <hi>flesh,</hi> it
 is from Satan. All that the Law of Sin doth of it
 self, is to serve the <hi>providence of the flesh, Rom.</hi>
@@ -3360,7 +3360,7 @@ if the prevailing sin do not so act it self, if it be
 more spiritual and inward, it is much from Satan
 by the imagination, more than the corruption of
 the heart it self. But this by the way.</p>
-            <p>I say then, that the Apostle treats not here, of
+            <p rend="level1" change="#review">I say then, that the Apostle treats not here, of
 our being <hi>captivated</hi> unto this or that sin, but un<g ref="char:EOLhyphen"/>to
 the <hi>Law of Sin.</hi> That is, we are compelled to
 bear its presence and burden whether we will or
@@ -3408,7 +3408,7 @@ Whatever consent then the soul may give unto
 sin, which is the means of this Captivity, it gives
 none to the <hi>Captivity</hi> it self; that is against the will
 wholly. Hence these things ensue.</p>
-            <p>First, <hi>That the power of sin is great,</hi> which is that
+            <p rend="level1" change="#review">First, <hi>That the power of sin is great,</hi> which is that
 which we are in the demonstration of; and this
 appears in its prevalency unto Captivity; against
 the actings and contendings of the will for liberty
@@ -3418,7 +3418,7 @@ great evidence of its power, that it made Captives.
 But its prevailing against diligence, activity,
 watchfulness, the constant renitency of the will,
 this evinceth its efficacy.</p>
-            <p>Secondly, This leading Captive intimates <hi>mani<g ref="char:EOLhyphen"/>fold
+            <p rend="level1" change="#review">Secondly, This leading Captive intimates <hi>mani<g ref="char:EOLhyphen"/>fold
 particular successes.</hi> Had it not success in par<g ref="char:EOLhyphen"/>ticular
 it could not be said at all to lead captive.
 <choice><orig>Rebell</orig><reg resp="#auto" type="spelling">Rebel</reg></choice> it might, assail it might, but it cannot be
@@ -3436,7 +3436,7 @@ Such a kind of course doth the Apostle ascribe unto
 cove<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap>ousness, 1 <hi>Tim.</hi> 6. 9.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="89" facs="tcp:42900:49"/>
 Thirdly, This leading captive manifests this
 condition <hi>to be miserable and wretched.</hi> To be thus
@@ -3459,7 +3459,7 @@ captivated. Now what can be worse than this Law
 of sin? Hence the Apostle having once mentioned
 this captivity, cries out as one quite weary and
 ready to faint, <hi>ver.</hi> 24.</p>
-            <p>Fourthly, This condition is <hi>peculiar to Believers.</hi>
+            <p rend="level1" change="#review">Fourthly, This condition is <hi>peculiar to Believers.</hi>
 Unregenerate men are not said to be <hi>led captive</hi> to
 the Law of sin. They may indeed be led captive
 unto this or that particular sin or corruption, that
@@ -3487,7 +3487,8 @@ captivity, is that which befalls a man against his
 will. Which is all that shall be spoken unto this
 degree of the actings of the power of sin, manifesting
 it self in its success.</p>
-            <p>The fourth and last degree of the opposition
+            <label type="head" n="3" ana="#edition-only" change="#review">The Rage and Madness of Sin</label>
+<p>The fourth and last degree of the opposition
 made by the Law of sin to God, and the Law of
 his Will and Grace, is in its <hi>Rage</hi> and <hi>Madness.</hi>
 There is <hi>Madness</hi> in its nature, <hi>Eccles.</hi> 9. 3. <hi>The
@@ -3570,7 +3571,7 @@ world, are nothing but the actings of men mad<gap reason="illegible" resp="#TECH
 and furious in the pursuit of their lusts.</p>
             <p>Secondly, That sin ariseth not unto this height
 ordinarily, but when it hath got a double advan<g ref="char:EOLhyphen"/>tage.</p>
-            <p>First, That it be provoked, enraged and h<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level1" change="#review">First, That it be provoked, enraged and h<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap>eight<g ref="char:EOLhyphen"/>ned
 by some great <hi>temptation.</hi> Though it be a<gap reason="illegible" resp="#TECH" extent="1 letter">
@@ -3593,7 +3594,7 @@ Law of sin <gap reason="illegible" resp="#TECH" extent="1 letter">
                </gap>riseth to this height of rage, seriously
 consider, and he may find out where the devil
 stands and puts in the business.</p>
-            <p>Secondly, It must be advantaged by some <hi>for<g ref="char:EOLhyphen"/>mer</hi>
+            <p rend="level1" change="#review">Secondly, It must be advantaged by some <hi>for<g ref="char:EOLhyphen"/>mer</hi>
 entertainment and prevalency. Sin grows not
 to this height at its first assault. Had it not been
 suffered to make its entrance, had there not been
@@ -3622,7 +3623,8 @@ up to this frame whereof we speak.</p>
             <p>Thirdly, We may see what <hi>accompanies</hi> this
 rage and madness, what are the properties of it, and
 what effects it produceth.</p>
-            <p>First, There is in it the casting off, for a time at
+            <label type="head" n="4" ana="#edition-only" change="#review">Casting Off the Rule of Grace</label>
+<p>First, There is in it the casting off, for a time at
 least, of the yoke, rule and government of the Spi<g ref="char:EOLhyphen"/>rit
 and Law of Grace. Where Grace hath the <hi>do<g ref="char:EOLhyphen"/>minion,</hi>
 it will never utterly be expell'd from its
@@ -3704,7 +3706,8 @@ put a present stop to the rage of sin, and to recover
 its own rule, which God in his own time restores
 to it by the power of his Spirit dwelling in
 us.</p>
-            <p>Secondly, <hi>Madness</hi> or rage are accompanied
+            <label type="head" n="4" ana="#edition-only" change="#review">Fearlessness and Contempt of Danger</label>
+<p>Secondly, <hi>Madness</hi> or rage are accompanied
 with <hi><choice><orig>fearlesness</orig><reg resp="#auto" type="spelling">fearlessness</reg></choice></hi> and contempt of danger. It takes
 away the power of consideration, and all that
 influence that it ought to have upon the soul. Hence
@@ -3716,7 +3719,7 @@ that he can do to them, being secretly re<g ref="char:EOLhyphen"/>solved
 to accomplish their lusts though it cost
 them their souls. Some few considerations will
 farther clear this unto us.</p>
-            <p>First, Ofttimes when the soul is broken loose
+            <p rend="level1" change="#review">First, Ofttimes when the soul is broken loose
 from the power of <hi>renewing grace,</hi> God deals with
 it to keep it within bounds by <hi>preventing grace.</hi>
 So the Lord declares that he will deal with <hi>Israel,
@@ -3730,10 +3733,10 @@ thee that thou shalt not be able to pass on
 whither the fury of thy lusts would drive thee. He
 will propose that to them from without, that shall
 obstruct them in their progress.</p>
-            <p>Secondly, These <hi>hinderances</hi> that God laves in
+            <p rend="level1" change="#review">Secondly, These <hi>hinderances</hi> that God laves in
 the way of sinners, as shall be afterwards at large
 declared; are of two sorts.</p>
-            <p>First, <hi>Rational considerations</hi> taken from the
+            <p rend="level2" change="#review">First, <hi>Rational considerations</hi> taken from the
 consequence of the sin and evil that the soul is soli<g ref="char:EOLhyphen"/>cited
 unto, and perplexed withal. Such are the
 <hi>fear of Death,</hi> Judgement, and Hell, falling into the
@@ -3763,10 +3766,10 @@ from things temporal, as shame, reproach,
 scandal, punishments, and the like. By the con<g ref="char:EOLhyphen"/>sideration
 of these things, I say, doth God set an
 <hi>hedge</hi> before them.</p>
-            <p>Secondly, Providential Dispensations are used
+            <p rend="level2" change="#review">Secondly, Providential Dispensations are used
 by the Lord to the same purpose, and these are of
 two sorts;</p>
-            <p>First, Such as are suited to work upon the soul,
+            <p rend="level3" change="#review">First, Such as are suited to work upon the soul,
 and to cause it to desist and give over in its lust<g ref="char:EOLhyphen"/>ings
 and pursuit of sin. Such are <hi>Afflictions</hi> and
 Mercies, <hi>Isa.</hi> 57. 17. <hi>I was wroth and I smote them,</hi>
@@ -3782,11 +3785,11 @@ mercies on them that they may consider whom they
 are rebelling against. It may be signal distin<g ref="char:EOLhyphen"/>guishing
 mercies are made their portion for many
 <choice><orig>dayes</orig><reg resp="#auto" type="spelling">days</reg></choice>.</p>
-            <p>Secondly, Such as <hi>actually hinder</hi> the soul from
+            <p rend="level3" change="#review">Secondly, Such as <hi>actually hinder</hi> the soul from
 pursuing sin, though it be resolved so to do. The
 various <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby God doth <hi>this,</hi> we must
 afterwards consider.</p>
-            <p>These are the <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> I say, whereby the soul is
+            <p rend="level1" change="#review">These are the <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> I say, whereby the soul is
 dealt withal, after the Law of <hi>Indwelling-Sin</hi> hath
 cast off for a season the influencing power of the
 Law of Grace. But now when <hi>lust</hi> rises up to
@@ -3797,7 +3800,7 @@ whatever may befall it. That is, though they be
 presented unto it, it will venture upon them all.
 Rage and madness is <hi>fearless.</hi> And this it doth two
 <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First, It <hi>possess<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level1" change="#review">First, It <hi>possess<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
                   </gap>th the mind,</hi> that it suffers not the
 consideration of these things to dwell upon it, but
@@ -3811,9 +3814,9 @@ into contemplation, and not at all to be moved by
 them. And where they do prevail for a season,
 yet they are insensibly wrought off from the heart
 again.</p>
-            <p>Secondly, By secret stubborn <hi>resolves</hi> to venture
+            <p rend="level1" change="#review">Secondly, By secret stubborn <hi>resolves</hi> to venture
 all upon the way wherein it is.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="99" facs="tcp:42900:54"/>
 And this is the second branch of this Evidence
 of the <hi>power of sin,</hi> taken from the opposition that
@@ -3824,7 +3827,7 @@ of its <hi>deceit</hi> doth now follow.</p>
          <div n="8" type="chapter">
             <head>CHAP. VIII.</head>
             <argument>
-               <p>Indwelling-Sin proved powerful from its de<g ref="char:EOLhyphen"/>ceit.
+               <p rend="inset" change="#review">Indwelling-Sin proved powerful from its de<g ref="char:EOLhyphen"/>ceit.
 Proved to be deceitful. The Gene<g ref="char:EOLhyphen"/>ral
 Nature of Deceit. Jam. 1. 14. <choice><orig>opened</orig><reg resp="#auto" type="spelling">Opened</reg></choice>.
 How the mind is drawn off from its Duty
@@ -4091,7 +4094,8 @@ by his temptations upon her. So that every man is
 <hi>tempted,</hi> that is, every man is <hi>beguiled</hi> or deceived
 by his own lust, or <hi>indwelling-sin,</hi> which we have
 often declared to be the same.</p>
-            <p>The Degrees whereby sin proceedeth in this
+            <label type="head" n="3" ana="#edition-only" change="#review">The Degrees of Sin’s Deceit</label>
+<p>The Degrees whereby sin proceedeth in this
 work of <hi>tempting</hi> or <hi>deceiving,</hi> are <hi>five.</hi> For we
 <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> before, that this belongs unto the nature
 of deceit that it works by <hi>degrees,</hi> making its ad<g ref="char:EOLhyphen"/>vantage
@@ -4146,7 +4150,8 @@ production in the lives of men, must afterwards be
 spoken unto. The <hi>first three instances</hi> then we shall
 insist upon fully, as those wherein the principal
 concernment of Believers in this matter doth lie.</p>
-            <p>The first thing which sin is said to do, working
+            <label type="head" n="3" ana="#edition-only" change="#review">Drawing the Mind Away from Its Duty</label>
+<p>The first thing which sin is said to do, working
 in a way of deceit, is to draw away, or to draw off;
 whence a man is said to be <hi>drawn off,</hi> or <hi>drawn
 away</hi> and diverted, namely from <hi>attending</hi> unto
@@ -4281,7 +4286,8 @@ slighter, or less affecting thoughts of it, or about
 it, the mind of that man is <hi>drawn away</hi> by the <hi>de<g ref="char:EOLhyphen"/>ceitfulness
 of sin.</hi>
             </p>
-            <p>There are two <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> amongst others, where<g ref="char:EOLhyphen"/>by
+            <label type="head" n="4" ana="#edition-only" change="#review">The Abuse of Gospel Grace</label>
+<p>There are two <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> amongst others, where<g ref="char:EOLhyphen"/>by
 the Law of sin endeavours <hi>deceitfully</hi> to draw
 off the mind from this duty, and frame ensuing
 thereon.</p>
@@ -4368,7 +4374,7 @@ abused to counteance the soul in manifold neglect
 of duties, and to draw off the <hi>mind</hi> from a due
 consideration of the nature, desert and danger of
 sin. And this is done several <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First, The soul having frequent need of relief
+            <p rend="level1" change="#review">First, The soul having frequent need of relief
 by Gospel-Grace against a sense of the guilt of sin,
 and Accusation of the Law, comes at length to
 make it a <hi>common and ordinary thing,</hi> and such as
@@ -4392,7 +4398,7 @@ travelled a Road passed on without regard or
 enquiry; but he who is a stranger unto it observ<g ref="char:EOLhyphen"/>ing
 all turnings, and enquiring of all Passengers,
 secures his Journey beyond the other.</p>
-            <p>Secondly, The <hi>deceitfulness of sin</hi> takes advantage
+            <p rend="level1" change="#review">Secondly, The <hi>deceitfulness of sin</hi> takes advantage
 from the <hi>Doctrine of Grace,</hi> by many <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> and
 means to extend the bounds of the souls liberty
 beyond what God hath assigned unto it. Some
@@ -4407,11 +4413,11 @@ were no need of the Gospel? <choice><orig>as</orig><reg resp="#auto" type="spell
 of sin were to no purpose? But concerning these
 pleas of sin from Gospel-Grace, we shall have oc<g ref="char:EOLhyphen"/>casion
 to speak more hereafter in particular.</p>
-            <p>Thirdly, In times of <hi>temptation</hi> this deceitfulness
+            <p rend="level1" change="#review">Thirdly, In times of <hi>temptation</hi> this deceitfulness
 of sin, will argue <choice><orig>expresly</orig><reg resp="#auto" type="spelling">expressly</reg></choice> <hi>for sin</hi> from Gospel-Grace;
 <pb n="116" facs="tcp:42900:63"/>
 at least it will plead for these two things.</p>
-            <p>First, That there is not need of such a tenaci<g ref="char:EOLhyphen"/>ous
+            <p rend="level2" change="#review">First, That there is not need of such a tenaci<g ref="char:EOLhyphen"/>ous
 severe contending against it, as the principle
 of the <hi>new Creature</hi> is fixed on. If it cannot di<g ref="char:EOLhyphen"/>vert
 the soul or mind <hi>wholly</hi> from attending unto
@@ -4419,7 +4425,7 @@ temptations to oppose them, yet it will endeavour
 to draw them off, as to the <hi>manner</hi> of their at<g ref="char:EOLhyphen"/>tendance.
 They need not use that diligence
 which at first the soul apprehends to be neces<g ref="char:EOLhyphen"/>sary.</p>
-            <p>Secondly, It will be tendering relief as to the
+            <p rend="level2" change="#review">Secondly, It will be tendering relief as to the
 event of sin, that it shall not turn to the <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice> or
 destruction of the soul, because it is, it will, or
 may be pardoned by the Grace of the Gospel.
@@ -4532,7 +4538,8 @@ whereby the <hi>deceit of sin</hi> diverts the mind from
 the first part of its safe preserving frame, or draws
 it off from its constant watchfulness against sin and
 all the effects of it.</p>
-            <p>The second <hi>Part</hi> of this general duty of the mind,
+            <label type="head" n="4" ana="#edition-only" change="#review">The Holy Consideration of God and His Grace</label>
+<p>The second <hi>Part</hi> of this general duty of the mind,
 is to keep the soul unto a constant, holy considera<g ref="char:EOLhyphen"/>tion
 of God and his Grace. This evidently lies at
 the Spring-head of Gospel-obedience. The way
@@ -4597,7 +4604,7 @@ of God and his Grace.</p>
          <div n="9" type="chapter">
             <head>CHAP. IX.</head>
             <argument>
-               <p>The deceit of Sin in drawing off the mind
+               <p rend="inset" change="#review">The deceit of Sin in drawing off the mind
 from a due attendance unto especial Duties
 of Obedience, instanced in Meditation
 and Prayer.</p>
@@ -4708,14 +4715,15 @@ the very being and life of Indwelling-sin, or rather
 its utter <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>. I shall therefore upon this
 <hi>instance</hi> in the pursuit of our present purpose do
 these two things.</p>
-            <p>First, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> the suitableness and <hi>usefulness</hi> of this
+            <p rend="level1" change="#review">First, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> the suitableness and <hi>usefulness</hi> of this
 duty, or these duties, (as I shall handle them joint<g ref="char:EOLhyphen"/>ly)
 unto the ruining of sin.</p>
-            <p>Secondly, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> the <hi>means</hi> whereby the deceit<g ref="char:EOLhyphen"/>fulness
+            <p rend="level1" change="#review">Secondly, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> the <hi>means</hi> whereby the deceit<g ref="char:EOLhyphen"/>fulness
 <pb n="125" facs="tcp:42900:67"/>
 of sin endeavours to <hi>draw off the mind</hi> from
 a due attendance unto them.</p>
-            <p>For the first observe,</p>
+            <label type="head" n="3" ana="#edition-only" change="#review">The Usefulness of Prayer against Sin</label>
+<p>For the first observe,</p>
             <p>First, That it is the proper work of the soul in
 this duty, to consider all the <hi>secret workings</hi> and
 actings of sin, what advantages it hath got, what
@@ -4842,7 +4850,7 @@ pray with any other frame, is to flatter God with
 our lips, which he abhorreth. And this exceedingly
 helps a Believer in <hi>pursuing sin</hi> unto its <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>.
 For,</p>
-            <p>First, If there be any secret lust that lies lurking
+            <p rend="level1" change="#review">First, If there be any secret lust that lies lurking
 in the heart, he will find it either rising up against
 this engagement, or using its <hi>artifices</hi> to secure it
 self from it. And hereby it is discovered; and the
@@ -4858,7 +4866,7 @@ their dens and coverts, and never discover them<g ref="char:EOLhyphen"/>selves,
 at least so much in their proper nature and
 rage, as when they are most <hi>earnestly pursued.</hi> And
 so it is with sin and corruption in the heart.</p>
-            <p>Secondly, If any sin be <hi>prevalent</hi> in the soul, it
+            <p rend="level1" change="#review">Secondly, If any sin be <hi>prevalent</hi> in the soul, it
 will weaken it, and take it off from the <hi>universality</hi>
 of this engagement unto God, it will breed a
 <hi>tergiversation</hi> unto it, a slightness in it. Now when
@@ -4875,7 +4883,7 @@ sincere engagements of universal holiness unto
 God, it knows that there is some prevalent di<g ref="char:EOLhyphen"/>stemper
 in it, finds the place of it, and sets it self
 against it.</p>
-            <p>Thirdly, Whilst the soul can thus constantly en<g ref="char:EOLhyphen"/>gage
+            <p rend="level1" change="#review">Thirdly, Whilst the soul can thus constantly en<g ref="char:EOLhyphen"/>gage
 it self unto God, it is certain that sin can rise
 unto no <hi>ruinous prevalency.</hi> Yea, it is a <hi>conquest</hi>
 over sin, a most considerable conquest, when the soul
@@ -4889,7 +4897,7 @@ done; that it hath decreed a thing, and it shall be
 <pb n="130" facs="tcp:42900:70"/>
 established. And this tends to the disappointment,
 yea, to the <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice> of the Law of sin.</p>
-            <p>Fourthly, If the heart be not deceived by cursed
+            <p rend="level1" change="#review">Fourthly, If the heart be not deceived by cursed
 <hi><choice><orig>hypocrisie</orig><reg resp="#auto" type="spelling">hypocrisy</reg></choice>,</hi> this engagement unto God will greatly
 influence it unto a peculiar diligence and watchful<g ref="char:EOLhyphen"/>ness
 against all sin. There is no greater evidence of
@@ -4907,7 +4915,8 @@ and sundry other accounts, doth faith in this duty
 exert it self peculiary, to the weakening of the
 power, and stopping of the progress of the Law of
 sin.</p>
-            <p>If then the mind be <hi>diligent</hi> in its watch and
+            <label type="head" n="3" ana="#edition-only" change="#review">How Sin Draws the Mind Off from Prayer</label>
+<p>If then the mind be <hi>diligent</hi> in its watch and
 charge, to preserve the soul from the efficacy of
 sin, it will carefully attend unto this duty, and the
 due performance of it, which is of such singular
@@ -5140,7 +5149,7 @@ discharge; which are not here to be spoken unto.</p>
          <div n="10" type="chapter">
             <head>CHAP. X.</head>
             <argument>
-               <p>The Deceit of Sin in drawing off the Mind
+               <p rend="inset" change="#review">The Deceit of Sin in drawing off the Mind
 from its Attendance unto particular Duties
 farther discovered. Several things requi<g ref="char:EOLhyphen"/>red
 in the Mind of Believers with respect
@@ -5216,13 +5225,14 @@ this head of our discourse, the consideration of
 the charge of the mind in reference unto particular
 duties and sins. And in the consideration of it, we
 shall do these two things.</p>
-            <p>First, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> what is required in the <hi>mind of a Be<g ref="char:EOLhyphen"/>liever</hi>
+            <p rend="level1" change="#review">First, <choice><orig>Shew</orig><reg resp="#auto" type="spelling">Show</reg></choice> what is required in the <hi>mind of a Be<g ref="char:EOLhyphen"/>liever</hi>
 in reference unto particular duties.</p>
-            <p>Secondly, Declare the way of the working of the
+            <p rend="level1" change="#review">Secondly, Declare the way of the working of the
 deceit of sin to <hi>draw</hi> it off from its attendance
 thereunto. The like also shall be done with respect
 unto particular sins, and their avoidance.</p>
-            <p>First, For the right performance of any Duty, it
+            <label type="head" n="3" ana="#edition-only" change="#review">What the Mind Is to Attend unto in Duties</label>
+<p>First, For the right performance of any Duty, it
 is not enough that the thing it self required be per<g ref="char:EOLhyphen"/>formed,
 but that it be universally squared and fit<g ref="char:EOLhyphen"/>ted
 unto the rule of it. Herein lyes the great <hi>du<g ref="char:EOLhyphen"/>ty</hi>
@@ -5256,10 +5266,10 @@ all diligence it is to attend unto, <hi>Ephes.</hi> 5. 15.
 diligently in all things, take heed to the Rule of
 what you do. We <hi>Walk</hi> in duties, but we walk
 <hi>circumspectly</hi> in this attention of the mind.</p>
-            <p>Secondly, There are some special things which
+            <p rend="level1" change="#review">Secondly, There are some special things which
 the Rule directs unto, that the mind is to attend in
 every duty; as,</p>
-            <p>First, That as to the <hi>matter</hi> of it, it be full and
+            <p rend="level2" change="#review">First, That as to the <hi>matter</hi> of it, it be full and
 <choice><orig>compleat</orig><reg resp="#auto" type="spelling">complete</reg></choice>. Under the Law, no Beast was allowed
 to be a Sacrifice that had any member wanting,
 <pb n="141" facs="tcp:42900:75"/>
@@ -5275,7 +5285,7 @@ but not unto the proportion that the Rule
 requireth, and which the mind by diligent at<g ref="char:EOLhyphen"/>tention
 unto it might discover, the whole duty is
 vitiated.</p>
-            <p>Secondly, As to the <hi>Principle</hi> of it, namely, that
+            <p rend="level2" change="#review">Secondly, As to the <hi>Principle</hi> of it, namely, that
 it be done in faith, and therein by an actual deri<g ref="char:EOLhyphen"/>vation
 of strength from Christ, (<hi>John</hi> 15. 5.)
 without whom <hi>we can do nothing.</hi> It is not enough
@@ -5308,12 +5318,12 @@ unto, namely, that every thing he doth to
 God, be done in the strength of Christ; which
 wherein it consisteth ought diligently to be en<g ref="char:EOLhyphen"/>quired
 into by all who intend to walk with God.</p>
-            <p>Thirdly, In this respect unto Rule, the <hi>manner</hi>
+            <p rend="level2" change="#review">Thirdly, In this respect unto Rule, the <hi>manner</hi>
 of the performance of every duty is to be regarded.
 Now there are two things in the manner of the
 performance of any duty which a Believer, who is
 trusted with spiritual light, ought to attend unto.</p>
-            <p>First, that it be done <hi>in the way,</hi> and by the
+            <p rend="level3" change="#review">First, that it be done <hi>in the way,</hi> and by the
 means that God hath prescribed with respect unto
 the ou<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -5336,7 +5346,7 @@ And this is the reason that God so often calls on
 his People to <hi>consider diligently</hi> and wisely, that
 <pb n="143" facs="tcp:42900:76"/>
 they may do all according as he had commanded.</p>
-            <p>Secondly, The Affections of the heart and mind
+            <p rend="level3" change="#review">Secondly, The Affections of the heart and mind
 in duties belong to the performance of them in the
 inward manner. The prescriptions and commands
 of God for attendance hereunto are innumerable,
@@ -5350,7 +5360,7 @@ to him. And we find also that God requireth
 especial Affections to accompany special duties. <hi>He
 that gives with chearfulness;</hi> which if they are not
 attended unto, the whole is lost.</p>
-            <p>Fourthly, The mind is to attend unto the <hi>Ends</hi>
+            <p rend="level2" change="#review">Fourthly, The mind is to attend unto the <hi>Ends</hi>
 of duties; and therein principally the glory of God
 in Christ. Several other <hi>ends</hi> will sin and self
 impose upon our duties: Especially two it will press
@@ -5380,7 +5390,8 @@ which lye in these concernments of them,
 that the mind is to attend unto it will not much
 trouble it self nor us about the duties themselves.
 And this it attempts several <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First, By <choice><orig>perswading</orig><reg resp="#auto" type="spelling">persuading</reg></choice> the <hi>mind</hi> to content it self
+            <label type="head" n="3" ana="#edition-only" change="#review">How Sin Draws the Mind Off from Duties</label>
+<p>First, By <choice><orig>perswading</orig><reg resp="#auto" type="spelling">persuading</reg></choice> the <hi>mind</hi> to content it self
 with <hi>generals,</hi> and to take it off from attending
 unto things in particular instances. For example;
 it would <choice><orig>perswade</orig><reg resp="#auto" type="spelling">persuade</reg></choice> the soul to rest satisfied in a
@@ -5485,7 +5496,8 @@ in themselves, or acceptation with God; their
 minds being wholly estranged from a due atten<g ref="char:EOLhyphen"/>dance
 unto what they do, by the power and deceit<g ref="char:EOLhyphen"/>fulness
 of sin.</p>
-            <p>Secondly, As it is in respect of duties, so also it is
+            <label type="head" n="3" ana="#edition-only" change="#review">What the Mind Is to Attend unto as to Sin</label>
+<p>Secondly, As it is in respect of duties, so also it is
 in respect of <hi>sins.</hi> There are sundry things in and
 about <hi>every sin</hi> that the mind of a <hi>Believer,</hi> by <choice><orig>ver<g ref="char:EOLhyphen"/>tue</orig><reg resp="#auto" type="spelling">virtue</reg></choice>
 of its <hi>office</hi> and duty is obliged to attend di<g ref="char:EOLhyphen"/>ligently
@@ -5499,7 +5511,7 @@ these the <hi>deceit of sin</hi> endeavours by all means to
 draw off the mind from a due consideration of, and
 attendance unto. Some few of them we shall a little
 reflect upon.</p>
-            <p>First, The first and most general is the <hi>Sove<g ref="char:EOLhyphen"/>reignty</hi>
+            <p rend="level1" change="#review">First, The first and most general is the <hi>Sove<g ref="char:EOLhyphen"/>reignty</hi>
 of God, the great Law-giver, by whom it
 is forbidden. This <hi>Joseph</hi> fixed on in his great
 temptation, <hi>Gen.</hi> 39. 9. <hi>How can I do this great
@@ -5536,7 +5548,7 @@ by that consideration, but suffered her mind to be
 diverted from it by the subtilty of <hi>Sathan,</hi> which
 was the entrance of her transgression; and so it is
 unto us all in our deviations from obedience.</p>
-            <p>Secondly, The <hi>deceit of sin,</hi> of every sin, the <hi>pu<g ref="char:EOLhyphen"/>nishment</hi>
+            <p rend="level1" change="#review">Secondly, The <hi>deceit of sin,</hi> of every sin, the <hi>pu<g ref="char:EOLhyphen"/>nishment</hi>
 appointed unto it in the Law, is another
 <pb n="149" facs="tcp:42900:79"/>
 thing that the mind ought actually to attend unto,
@@ -5594,7 +5606,7 @@ sin,</hi> are put together by our Saviour, <hi>Matth.</hi> 10.
 able to kill the soul; but rather fear him which is
 able to destroy both soul and body in hell.</hi>
             </p>
-            <p>Thirdly, The consideration of all the <hi>love and kind<g ref="char:EOLhyphen"/>ness</hi>
+            <p rend="level1" change="#review">Thirdly, The consideration of all the <hi>love and kind<g ref="char:EOLhyphen"/>ness</hi>
 of God, against whom every sin is committed,
 is another thing that the mind ought diligently to
 attend unto. And this is a prevailing consideration,
@@ -5622,7 +5634,7 @@ spiritual ingenuity in the soul, whilst the mind is
 attentive to this consideration, there can be no
 prevailing attempt made upon it by the power of
 sin. Now there are two parts of this consideration.</p>
-            <p>First, That which is general in it, that which is
+            <p rend="level2" change="#review">First, That which is general in it, that which is
 common unto all believers. This is managed unto
 this purpose, 1 <hi>Joh.</hi> 3. 1, 2, 3. <hi>Behold what manner of
 love the Father hath bestowed upon us, that we should
@@ -5653,7 +5665,7 @@ full enjoyment of the fruits of it, of being made
 like to God in glory, <hi>purifieth himself,</hi> that is, in
 an abstinence from all and every sin, as in the fol<g ref="char:EOLhyphen"/>lowing
 words is at large declared.</p>
-            <p>Secondly, It is to be considered as to such <hi>pe<g ref="char:EOLhyphen"/>culiar
+            <p rend="level2" change="#review">Secondly, It is to be considered as to such <hi>pe<g ref="char:EOLhyphen"/>culiar
 mercies</hi> and fruits of love, as every <hi>ones soul</hi>
 hath been made partaker of. There is no <hi>Believer,</hi>
 but besides the love and mercy which he hath
@@ -5685,7 +5697,7 @@ then is another thing, that it is the duty of the mind
 greatly to attend unto, and to oppose effectually
 unto every attempt that is made on the soul by the
 Law of sin.</p>
-            <p>Fourthly, The considerations that arise from the
+            <p rend="level1" change="#review">Fourthly, The considerations that arise from the
 blood and mediation of Christ, are of the same
 importance. So the <hi>Apostle</hi> declares, 2 <hi>Cor.</hi> 5. 14,
 15. <hi>For the love of Christ constraineth us, because
@@ -5697,7 +5709,7 @@ There is a constraining efficacy in this consideration,
 it is great, forcible, effectual, if duly attented unto.
 But I must not here in particular insist upon these
 things. Nor,</p>
-            <p>Fifthly, Shall I speak of the <hi>inhabitation of the
+            <p rend="level1" change="#review">Fifthly, Shall I speak of the <hi>inhabitation of the
 Spirit,</hi> the greatest priviledge that we are made
 partakers of in this world. The due consideration
 how he is grieved by sin, how his <hi>dwelling place</hi> is
@@ -5711,7 +5723,8 @@ things, to dwell constantly upon the consideration
 of them, to have them in a continual readiness to
 oppose unto all the lustings, actings, warrings, at<g ref="char:EOLhyphen"/>tempts,
 and rage of sin.</p>
-            <p>
+            <label type="head" n="3" ana="#edition-only" change="#review">How Sin Draws the Mind Off as to Sin</label>
+<p>
                <pb n="154" facs="tcp:42900:82"/>
 In reference hereunto doth <hi>sin</hi> in an especial
 manner put forth and act its <hi>deceit.</hi> It labours by all
@@ -5760,7 +5773,7 @@ everlasting Kingdom of our Lord and Saviour Jesus
 Christ,</hi> ver. 9, 10. All this the mind is turned from,
 if once by the deceit of sin it be made <hi>slothful.</hi> Now
 this sloth consists in three things.</p>
-            <p>First, <hi>Inadvertency;</hi> it doth not set it self to con<g ref="char:EOLhyphen"/>sider
+            <p rend="level1" change="#review">First, <hi>Inadvertency;</hi> it doth not set it self to con<g ref="char:EOLhyphen"/>sider
 and attend unto its special concernments.
 The Apostle <choice><orig>perswading</orig><reg resp="#auto" type="spelling">persuading</reg></choice> the <hi>Hebrews</hi> with all
 earnestness to <hi>attend diligently,</hi> to consider care<g ref="char:EOLhyphen"/>fully
@@ -5772,7 +5785,7 @@ the things of their duty. A secret <hi>regardlesness</hi> is
 apt to creep upon the soul, and it doth not set it
 self to a diligent marking how things go with it,
 and what is continually incumbent on it.</p>
-            <p>Secondly, An <hi>unwillingness to be stirred up unto its
+            <p rend="level1" change="#review">Secondly, An <hi>unwillingness to be stirred up unto its
 duty,</hi> Prov. 19. 24. <hi>The slothful man hideth his hand
 in his bosom, and will not so much as bring it to his
 mouth again.</hi> There is an unwillingness in <hi>sloth</hi>
@@ -5788,7 +5801,7 @@ suitable word, or a pressing judgement, cannot
 prevail with it to pull its hand out of its <choice><orig>bosome</orig><reg resp="#auto" type="spelling">bosom</reg></choice>,
 that is, to set about the special duties that it is
 called unto.</p>
-            <p>Thirdly, <hi>Weak and ineffectual attempts</hi> to recover
+            <p rend="level1" change="#review">Thirdly, <hi>Weak and ineffectual attempts</hi> to recover
 its self unto its duty, Prov. 26. 14. <hi>As the door
 turneth it self upon its hinges, so doth the slothful
 man upon his hed.</hi> In the turning of a door upon its
@@ -5803,7 +5816,7 @@ there where he was one year, he is the next. His
 endeavours are faint, cold, and evanid; he gets no
 ground by them, but is <choice><orig>alwayes</orig><reg resp="#auto" type="spelling">always</reg></choice> beginning and ne<g ref="char:EOLhyphen"/>ver
 finishing his work.</p>
-            <p>Fourthly, <hi><choice><orig>Heartlesness</orig><reg resp="#auto" type="spelling">Heartlessness</reg></choice> upon the apprehensions of
+            <p rend="level1" change="#review">Fourthly, <hi><choice><orig>Heartlesness</orig><reg resp="#auto" type="spelling">Heartlessness</reg></choice> upon the apprehensions of
 difficulties</hi> and discouragements, Prov. 22. 13. <hi>The
 slothful man saith there is a Lyon in the way, I shall
 be slain in the Streets.</hi> Every difficulty deters him
@@ -5901,7 +5914,7 @@ the <hi>deceit</hi> of sin.</p>
          <div n="11" type="chapter">
             <head>CHAP. XI.</head>
             <argument>
-               <p>The working of Sin by Deceit to entangle the
+               <p rend="inset" change="#review">The working of Sin by Deceit to entangle the
 Affections. The <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby it is done.
 Means of their prevention.</p>
             </argument>
@@ -5969,7 +5982,7 @@ of sin; but yet if a man find that the <hi>Imagina<g ref="char:EOLhyphen"/>tion<
 of the mind is frequently solicited by it<g ref="char:punc">▪</g> and
 exercised about it, such a one may know that his
 <hi>Affections</hi> are secretly enticed and entangled.</p>
-            <p>Secondly, This entanglement is heightned,
+            <p rend="level1" change="#review">Secondly, This entanglement is heightned,
 when the <hi>Imagination</hi> can prevail with the mind <hi>to
 lodge vain thoughts</hi> in it, with secret delight and
 <hi>complacency.</hi> This is termed by <hi>Casuists, Cogitatio
@@ -5993,7 +6006,7 @@ and return to the Imagination of its worth, and
 goodly <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice>, and so by little and little the soul is
 <hi>enflamed</hi> unto sin. And here if the <hi>Will</hi> parts with
 its <hi>Sovereignty,</hi> sin is actually conceived.</p>
-            <p>Thirdly, Inclinations, or readiness to attend un<g ref="char:EOLhyphen"/>to
+            <p rend="level1" change="#review">Thirdly, Inclinations, or readiness to attend un<g ref="char:EOLhyphen"/>to
 <hi>extenuations of sin,</hi> or the reliefs that are tende<g ref="char:EOLhyphen"/>red
 against sin when committed, manifest the Af<g ref="char:EOLhyphen"/>fections
 to be entangled with it. We have <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice>,
@@ -6025,11 +6038,11 @@ thereunto. And many other instances I could
 give as tokens and evidences of this entanglement.
 These may suffice to manifest what we intend
 thereby.</p>
-            <p>Our next enquiry is, how, or by what means
+            <p rend="level1" change="#review">Our next enquiry is, how, or by what means
 the <hi>deceit of sin</hi> proceeds thus to entice and en<g ref="char:EOLhyphen"/>tangle
 the Affections; and two or three of its baits
 are manifest herein.</p>
-            <p>First It makes use of its former prevalency up<g ref="char:EOLhyphen"/>on
+            <p rend="level1" change="#review">First It makes use of its former prevalency up<g ref="char:EOLhyphen"/>on
 the mind in <hi>drawing it off</hi> from its watch and
 circumspection. <choice><orig>Sayes</orig><reg resp="#auto" type="spelling">Says</reg></choice> the Wise man, Prov. 1. 17.
 <hi>Surely in vain is the Not spread in the sight of any
@@ -6054,7 +6067,7 @@ sin, it first <hi>draws off</hi> and diverts the mind by false
 reasonings and pretences, as hath been <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice>,
 and then casts its Net upon the Affections for their
 entanglement.</p>
-            <p>Secondly, Taking advantage of such seasons, it
+            <p rend="level1" change="#review">Secondly, Taking advantage of such seasons, it
 proposeth sin as <hi>desirable,</hi> as exceeding satisfacto<g ref="char:EOLhyphen"/>ry
 to the corrupt part of our Affections. It gilds
 <pb n="164" facs="tcp:42900:87"/>
@@ -6111,7 +6124,7 @@ of sin: And then if Satan with any peculiar tem<g ref="char:EOLhyphen"/>ptation
 fall in to its assistance, it oftentimes inflames
 all the affections, and puts the whole soul into
 disorder.</p>
-            <p>Thirdly, It <hi>hides the danger</hi> that attends sin, it
+            <p rend="level1" change="#review">Thirdly, It <hi>hides the danger</hi> that attends sin, it
 covers it as the <hi>hook</hi> is covered with the <hi>bait,</hi> or
 the net spread over with meat for the fowl to be
 taken. It is not indeed possible that sin should ut<g ref="char:EOLhyphen"/>terly
@@ -6157,14 +6170,14 @@ hide it, <hi>desperate resolutions</hi> to venture the utter<g ref="char:EOLhyph
 for the enjoyment of lust in its pleasures and
 profits, shall hide it. A thousand wiles it hath which
 cannot be recounted.</p>
-            <p>Fourthly, Having prevailed thus far, gilding
+            <p rend="level1" change="#review">Fourthly, Having prevailed thus far, gilding
 over the pleasures of sin, hiding its end and demerit,
 it proceds to raise <hi>pervers reasonings</hi> in the mind,
 to fix it upon the sin proposed, that it may be
 conceived and brought forth, the affections being
 already prevailed upon; of which we shall speak
 under the next head of its progress.</p>
-            <p>Here we may stay a little, as formerly, to give
+            <p rend="level1" change="#review">Here we may stay a little, as formerly, to give
 some few directions for the obviating of this wo<g ref="char:EOLhyphen"/>ful
 work of the deceitfulness of sin. Would we
 <pb n="167" facs="tcp:42900:88"/>
@@ -6222,7 +6235,7 @@ vain transitory pleasures of sin, in comparison of
 the exceeding <choice><orig>recompence</orig><reg resp="#auto" type="spelling">recompense</reg></choice> of reward which is
 proposed unto us? Which argument the Apostle
 presses, 2 <hi>Cor.</hi> 4. 18.</p>
-            <p>Secondly, As to the <hi>Object of your affections in an
+            <p rend="level1" change="#review">Secondly, As to the <hi>Object of your affections in an
 especial manner;</hi> let it be the <hi>Cross of Christ,</hi> which
 hath an exceeding efficacy towards the disappoint<g ref="char:EOLhyphen"/>ment
 of the whole work of Indwelling-sin. <hi>Gal.</hi> 6.
@@ -6283,7 +6296,7 @@ and stirring up unto duty.</p>
          <div n="12" type="chapter">
             <head>CHAP. XII.</head>
             <argument>
-               <p>The Conception of Sin through its Deceit.
+               <p rend="inset" change="#review">The Conception of Sin through its Deceit.
 Wherein it consisteh. The consent of the
 Will unto Sin. The Nature thereof. Ways
 and Means whereby it is obtained. Other
@@ -6342,7 +6355,7 @@ Law of God.</hi>
                <pb n="272" facs="tcp:42900:91"/>
 Secondly, There is a two-fold <hi>consent of the will</hi>
 unto sin.</p>
-            <p>First, That which is <hi>full, absolute,</hi> complete, and
+            <p rend="level1" change="#review">First, That which is <hi>full, absolute,</hi> complete, and
 upon deliberation. A prevailing consent, the con<g ref="char:EOLhyphen"/>victions
 of the mind being conquered, and no prin<g ref="char:EOLhyphen"/>ciple
 of grace in the will to weaken it. With this
@@ -6360,7 +6373,7 @@ the will</hi> which is acted in the finishing and com<g ref="char:EOLhyphen"/>pl
 of sin, in unregenerate persons, and is not
 required to the single bringing forth of sin,
 whereof we speak.</p>
-            <p>Secondly, There is a <hi>Consent of the will,</hi> which is
+            <p rend="level1" change="#review">Secondly, There is a <hi>Consent of the will,</hi> which is
 attended with a secret <hi>renitency</hi> and <hi>volition</hi> of the
 contrary. Thus <hi>Peter</hi>'s will was in the denying of
 his Master. His <hi>will</hi> was in it, or he had not done
@@ -6382,7 +6395,7 @@ consent in the will,</hi> which may suffice for the con<g ref="char:EOLhyphen"/>
 of particular sins, yet there cannot be an
 <hi>absolute, total, full</hi> consent of the will of a Believer
 unto any sin: for,</p>
-            <p>First, There is in his <hi>will</hi> a principle fixed on
+            <p rend="level1" change="#review">First, There is in his <hi>will</hi> a principle fixed on
 good, on all good, <hi>Rom.</hi> 7. 21. <hi>He would do good.</hi>
 The principle of grace in the <hi>will,</hi> inclines him to
 all good. And this in general is pravalent against
@@ -6393,7 +6406,7 @@ consent unto sin in the <hi>will,</hi> which is contrary to
 the inclination and general prevailing principle in
 the same will, is not, cannot be total, absolute and
 complete.</p>
-            <p>Secondly, There is not only a general, <gap reason="illegible" resp="#TECH" extent="3 letters">
+            <p rend="level1" change="#review">Secondly, There is not only a general, <gap reason="illegible" resp="#TECH" extent="3 letters">
                   <desc>•••</desc>
                </gap>ng,
 prevailing principle in the will against sin, but
@@ -6435,7 +6448,7 @@ which is a condition of soul dangerous, and
 greatly to be watched against.</p>
             <p>Fifthly, This <hi>consent of the will,</hi> which we have
 thus described, may be considered two ways.</p>
-            <p>First, As it is exercised about the circumstances,
+            <p rend="level1" change="#review">First, As it is exercised about the circumstances,
 causes, means and inducements unto sin. Secondly,
 As it respects this or that <hi>actual sin.</hi> In the first
 sense, there is a virtual consent of the <hi>will</hi> unto sin
@@ -6454,7 +6467,7 @@ or is prevented by other <choice><orig>wayes</orig><reg resp="#auto" type="spell
 not of our present consideration. And herein con<g ref="char:EOLhyphen"/>sists
 the <hi>conceiving of sin.</hi>
             </p>
-            <p>These things being supposed, that which in the
+            <p rend="level1" change="#review">These things being supposed, that which in the
 next place we are to consider, is the <hi>way</hi> that the
 deceit of sin proceedeth in; to procure the <hi>consent
 of the will,</hi> and so to conceive actual sin in the
@@ -6491,7 +6504,7 @@ For the discovery whereof we must instance in
 some of the special <hi>deceits,</hi> corrupt and fallacious
 reasonings before mentioned, and then <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> their
 prevalency on the <hi>Will</hi> to a consent unto sin.</p>
-            <p>First, The <hi>Will</hi> is imposed upon by that corrupt
+            <p rend="level1" change="#review">First, The <hi>Will</hi> is imposed upon by that corrupt
 reasoning, that <hi>Grace is exalted in pardon;</hi> and that
 mercy is provided for sinners. This first as hath
 been <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice>, deceives the mind, and that opens
@@ -6579,7 +6592,7 @@ and purpose. Now the mind being entangled with
 this deceit, drawn off from its watch by it, diver<g ref="char:EOLhyphen"/>ted
 from the true ends of the Gospel, doth seve<g ref="char:EOLhyphen"/>ral
 <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> impose upon the <hi>will</hi> to obtain its con<g ref="char:EOLhyphen"/>sent.</p>
-            <p>First, By a sudden <hi>surprizal</hi> in case of temptation.
+            <p rend="level2" change="#review">First, By a sudden <hi>surprizal</hi> in case of temptation.
 Temptation is the representation of a thing as a
 <hi>present good,</hi> a particular good, which is a real
 evil, a general evil. Now when a temptation armed
@@ -6597,7 +6610,7 @@ the sight of God is conceived, though it be never
 committed. Thus is the seed of God sacrificed
 to <hi>Moloch,</hi> and the weapons of Christ abused to
 the service of the Devil.</p>
-            <p>Secondly, It doth it insensibly. It insinuates the
+            <p rend="level2" change="#review">Secondly, It doth it insensibly. It insinuates the
 poyson of this corrupt reasoning by little and lit<g ref="char:EOLhyphen"/>tle,
 <choice><orig>untill</orig><reg resp="#auto" type="spelling">until</reg></choice> it hath greatly prevailed. And as the
 whole effect of the Doctrine of the Gospel in ho<g ref="char:EOLhyphen"/>liness
@@ -6621,7 +6634,7 @@ liberty and freedom. This the deceitfulness of sin
 endeavoureth by all means to work the soul from,
 and thereby debaucheth the <hi>will</hi> when its consent
 is required unto particular sins.</p>
-            <p>Secondly, The deceived <hi>mind</hi> imposeth on the
+            <p rend="level1" change="#review">Secondly, The deceived <hi>mind</hi> imposeth on the
 <hi>will</hi> to obtain its consent unto sin, by proposing
 unto it, the advantages that may accrew and arise
 thereby, which is one <hi>Medium</hi> whereby its
@@ -6655,7 +6668,7 @@ farther the conception of sin in the soul by the
 <hi>consent of t<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
                   </gap>e will;</hi> and they do it two <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p>First, By s<gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level2" change="#review">First, By s<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap>me hasty <hi>impulse and surprisal;</hi> being
 themselves <gap reason="illegible" resp="#TECH" extent="4 letters">
@@ -6686,7 +6699,7 @@ prevalent consent of the will may be suddenly
 obtained, which gives the soul a fixed guilt,
 though the sin it self be never actually brought
 forth.</p>
-            <p>Secondly, Enticed Affections procure the <hi>consent
+            <p rend="level2" change="#review">Secondly, Enticed Affections procure the <hi>consent
 of the will by frequent solicitations,</hi> whereby they
 get ground insensibly upon it, and Enthrone them<g ref="char:EOLhyphen"/>selves.
 Take an Instance in the Sons of <hi>Jacob,
@@ -6722,7 +6735,7 @@ multitudes of sins <hi>conceived in the heart</hi> which
 very little less defile the soul, or cause it to
 contract very little less guilt, than if they were
 actually committed.</p>
-            <p>Unto what hath been spoken concerning the
+            <p rend="level2" change="#review">Unto what hath been spoken concerning the
 <hi>deceitfulness</hi> of <hi>indwelling-sin</hi> in general, which
 greatly evidenceth its <hi>power</hi> and efficacy, I shall
 <choice><orig>adde</orig><reg resp="#auto" type="spelling">add</reg></choice> as a close of this discourse, one or two par<g ref="char:EOLhyphen"/>ticular
@@ -6759,7 +6772,7 @@ that for truth which is falshood, and that for <hi>light</hi>
 which is <hi>darkness.</hi> Now of both these doth the <hi>Law
 of sin</hi> make great advantage for the exerting of its
 power in the soul.</p>
-            <p>First, Is there a remaining ignorance of any
+            <p rend="level1" change="#review">First, Is there a remaining ignorance of any
 thing of the will of God, sin will be sure to make
 use of it, and improve it to the uttermost. Though
 <hi>Abimelech</hi> were not a <hi>Believer,</hi> yet he was a person
@@ -6797,7 +6810,7 @@ lusts even by their <hi>ignorance,</hi> though they know
 <gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap>itnot.</p>
-            <p>Secondly, <hi><choice><orig>Errour</orig><reg resp="#auto" type="spelling">Error</reg></choice></hi> is a worse part or effect of
+            <p rend="level1" change="#review">Secondly, <hi><choice><orig>Errour</orig><reg resp="#auto" type="spelling">Error</reg></choice></hi> is a worse part or effect of
 the minds darkness, and gives great advantage to
 the Law of sin. There is indeed <hi>ignorance</hi> in every
 <hi>error,</hi> but there is not <hi>error</hi> in all <hi>ignorance,</hi> and
@@ -6875,7 +6888,7 @@ we have declared?</p>
             <pb n="187" facs="tcp:42900:98"/>
             <head>CHAP. XIII.</head>
             <argument>
-               <p>Several <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby the bringing forth of
+               <p rend="inset" change="#review">Several <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby the bringing forth of
 conceived Sin is obstructed.</p>
             </argument>
             <p><seg rend="smallcaps" type="opening"><choice><orig>BEfore</orig><reg resp="#auto" type="spelling">Before</reg></choice></seg> we proceed to the remaining evidences
@@ -6930,11 +6943,12 @@ in outward acts respecting the power of the
 creature, Grace common or special in internal
 <choice><orig>efficacie</orig><reg resp="#auto" type="spelling">efficacy</reg></choice>, respecting his will. And we shall be<g ref="char:EOLhyphen"/>gin
 with the first.</p>
-            <p>First, When sin is conceived, the Lord obstructs
+            <label type="head" n="3" ana="#edition-only" change="#review">God’s Providence Opposed to the Sinner’s Power</label>
+<p>First, When sin is conceived, the Lord obstructs
 its production by his providence in taking away, or
 taking short that <hi>power</hi> which is absolutely neces<g ref="char:EOLhyphen"/>sary
 for its bringing forth or accomplishment. As,</p>
-            <p>First, <hi>Life</hi> is the foundation of all power, the
+            <p rend="level1" change="#review">First, <hi>Life</hi> is the foundation of all power, the
 principle of operation. When that ceaseth, all
 power ceaseth with it. Even God himself, to
 <pb n="189" facs="tcp:42900:99"/>
@@ -6998,21 +7012,21 @@ well with the wicked, neither shall he prolong his
 not before God.</hi> How long soever a wicked man
 lives, yet he dies <hi>judicially,</hi> and shall not abide
 to do the evil he had conceived.</p>
-            <p>But now seeing we have granted, that even
+            <p rend="level1" change="#review">But now seeing we have granted, that even
 <hi>Believers</hi> themselves may conceive sin through the
 power and the deceitfulness of it, it may be en<g ref="char:EOLhyphen"/>quired
 whether God ever thus <hi>obviates</hi> its pro<g ref="char:EOLhyphen"/>duction
 and accomplishment in them, by cutting
 off and taking away their lives, so as that they shall
 not be able to perform it: I answer,</p>
-            <p>First, That God doth not <hi>judicially</hi> cut off and
+            <p rend="level2" change="#review">First, That God doth not <hi>judicially</hi> cut off and
 take away the life of any of <hi>his,</hi> for this end and
 <pb n="191" facs="tcp:42900:100"/>
 purpose, that he may thereby prevent the execu<g ref="char:EOLhyphen"/>tion,
 or bringing forth of any particular sin that he
 had conceived, and which without that <hi>taking
 away</hi> he would have perpetrated. For,</p>
-            <p>First, This is directly contrary to the very de<g ref="char:EOLhyphen"/>clared
+            <p rend="level3" change="#review">First, This is directly contrary to the very de<g ref="char:EOLhyphen"/>clared
 end of the <hi>patience of God</hi> towards them,
 2 <hi>Pet.</hi> 3. 9. This is the very end of the <hi>long-suffering
 of God towards Believers,</hi> that before they depart
@@ -7026,7 +7040,7 @@ of the same nature with all Gospel-grace, and of
 mercy in the blood of Christ. Now this dispensa<g ref="char:EOLhyphen"/>tion
 whereof we speak, would lie in a direct con<g ref="char:EOLhyphen"/>tradiction
 unto it.</p>
-            <p>Secondly, This also flows from the former, that
+            <p rend="level3" change="#review">Secondly, This also flows from the former, that
 whereas <hi>conceived sin</hi> contains the whole nature of
 it, as our Saviour at large declares, <hi>Matth.</hi> 5. And
 to be cut off under the guilt of it, to prevent its
@@ -7039,12 +7053,12 @@ thence <hi>David</hi> prays for the patience of God be<g ref="char:EOLhyphen"/>f
 that it might not be so with him,
 <hi>Psa.</hi> 39. 13. <hi>O spare me that I may recover strength,
 before I go hence and be no more.</hi> But yet,</p>
-            <p>Secondly, There are some cases wherein God
+            <p rend="level2" change="#review">Secondly, There are some cases wherein God
 may, and doth take away the <hi>lives of his own</hi> to
 <pb n="192" facs="tcp:42900:101"/>
 prevent the guilt that otherwise they would be in<g ref="char:EOLhyphen"/>volved
 in; As,</p>
-            <p>First, In the coming of some great temptation
+            <p rend="level3" change="#review">First, In the coming of some great temptation
 and tryal upon the world. God knowing that
 such and such of his would not be able to with<g ref="char:EOLhyphen"/>stand
 it, and hold out against it, but would dis<g ref="char:EOLhyphen"/>honour
@@ -7061,7 +7075,7 @@ in war will call off a <choice><orig>souldier</orig><reg resp="#auto" type="spel
 and guard, when he knows that he is not able,
 through some infirmity to bear the stress and
 force of the enemy that is coming upon him.</p>
-            <p>Secondly, In case of their engagement into any
+            <p rend="level3" change="#review">Secondly, In case of their engagement into any
 way not acceptable to him, through ignorance,
 or not knowing of his mind and will. This seems
 to have been the case of <hi>Josiah.</hi> And doubtless the
@@ -7075,7 +7089,7 @@ himself, where they shall <choice><orig>erre</orig><reg resp="#auto" type="spell
 more. But in ordinary cases, God hath other
 <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> of diverting his own from sin, than by kil<g ref="char:EOLhyphen"/>ling
 of them, as we shall see afterwards.</p>
-            <p>Secondly, God providentially hinders the
+            <p rend="level1" change="#review">Secondly, God providentially hinders the
 bringing forth of conceived sin, by taking away,
 <pb n="193" facs="tcp:42900:101"/>
 and <hi>cutting short the power of them that had concei<g ref="char:EOLhyphen"/>ved
@@ -7177,7 +7191,7 @@ sin, and are disquieted and tortured by it all their
 <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice>. And hence they become in themselves, as
 well as unto others, a <hi>troubled Sea that cannot rest,
 Isa.</hi> 57. 20.</p>
-            <p>It may be also in some cases, under some violent
+            <p rend="level1" change="#review">It may be also in some cases, under some violent
 temptations, or in mistakes, God may thus obvi<g ref="char:EOLhyphen"/>ate
 the accomplishment of conceived sin in his own.
 And there seems to be an instance of it in his deal<g ref="char:EOLhyphen"/>ing
@@ -7191,7 +7205,7 @@ dealing with <gap reason="illegible" resp="#TECH" extent="1 letter">
                </gap>is in this way, there is a diffe<g ref="char:EOLhyphen"/>rence
 from the same dispensation towards others;
 for,</p>
-            <p>
+            <p rend="level2" change="#review">
                <pb n="196" facs="tcp:42900:103"/>
 First, It is so onl<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -7208,7 +7222,7 @@ they struggle with it, being as a wild Bull in a net,
 <hi>Isa.</hi> 51. 20. Gods <hi>Net</hi> is upon them, and they are
 filled with fury that they cannot do all the wicked<g ref="char:EOLhyphen"/>ness
 that they would.</p>
-            <p>Secondly, God doth it not to leave them to
+            <p rend="level2" change="#review">Secondly, God doth it not to leave them to
 wrestle with Sin, and to attempt other <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> of its
 accomplishment upon the failure of that which
 they were ingaged in, but by their disappointment
@@ -7219,7 +7233,7 @@ on. Some Mens deprivation of power for the
 committing of conceived contrived sin, hath been
 sanctified to the changing of their hearts from all
 dalliances with that or other sins.</p>
-            <p>Thirdly, God <hi>providentially</hi> hinders the bringing
+            <p rend="level1" change="#review">Thirdly, God <hi>providentially</hi> hinders the bringing
 forth of conceived sin, by opposing an <hi>external
 hindering power</hi> unto sinners. He leaves them their
 lives, and leaves them power to do what they
@@ -7256,7 +7270,7 @@ God leaves them for a while to act in the folly of
 their spirits, but he sets a <hi>hedge,</hi> and a <hi>wall</hi> before
 them that they shall not be able to fulfill their de<g ref="char:EOLhyphen"/>signs
 and lusts.</p>
-            <p>Fourthly, God obviates the accomplishment of
+            <p rend="level1" change="#review">Fourthly, God obviates the accomplishment of
 conceived sin, by removing, or taking away the
 <hi>ob<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
@@ -7280,7 +7294,7 @@ and stifled by the taking away of the other. So
 <hi>wings</hi> were given to the <hi>woman</hi> to carry her into
 the Wilderness and to disappoint the World in the
 execution of their rage, <hi>Rev.</hi> 12. 14.</p>
-            <p>Fifthly, God doth this by some eminent <hi>diver<g ref="char:EOLhyphen"/>sions</hi>
+            <p rend="level1" change="#review">Fifthly, God doth this by some eminent <hi>diver<g ref="char:EOLhyphen"/>sions</hi>
 of the thoughts of Men who had conceived
 sin; <hi>Gen.</hi> 37. 24. The <hi>Brethren of Joseph</hi> cast him
 into a pit, with an intent to famish him there;
@@ -7297,7 +7311,7 @@ God stirs up the <hi>Philistins</hi> to invade the Land,
 which both diverted his thoughts, and drew
 the course of his actings another way, 1 <hi>Sam.</hi>
 27. 27.</p>
-            <p>And these are <hi>some of the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice></hi> whereby God is
+            <p rend="level1" change="#review">And these are <hi>some of the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice></hi> whereby God is
 pleased to hinder the bringing forth of <hi>conceived
 sin,</hi> by opposing himself and his Providence to the
 <pb n="199" facs="tcp:42900:104"/>
@@ -7305,7 +7319,7 @@ sin,</hi> by opposing himself and his Providence to the
 in our passage take a brief view of the great ad<g ref="char:EOLhyphen"/>vantages
 to Faith, and the Church of God, which
 may be found in this matter. As,</p>
-            <p>First, This may give us a little insight into the
+            <p rend="level2" change="#review">First, This may give us a little insight into the
 ever to be adored Providence of God, by these and
 the like <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> in great variety obstructing the
 breaking forth of sin in the World. It is he who
@@ -7326,7 +7340,7 @@ O the infinite beauty of divine Wisdom
 and Providence in the government of the World!
 For the Conservation of it asks daily no less pow<g ref="char:EOLhyphen"/>er
 and wisdom than the first making of it did re<g ref="char:EOLhyphen"/>quire.</p>
-            <p>Secondly, If we will look to our own Concern<g ref="char:EOLhyphen"/>ments,
+            <p rend="level2" change="#review">Secondly, If we will look to our own Concern<g ref="char:EOLhyphen"/>ments,
 they will in a special manner <choice><orig>inforce</orig><reg resp="#auto" type="spelling">enforce</reg></choice> us
 to adore the wisdom and efficacy of the Provi<g ref="char:EOLhyphen"/>dence
 of God, in stopping the progress of <hi>conceived
@@ -7371,7 +7385,7 @@ them; all the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</
 Just shall walk in them, but the Transgressors shall
 fall therein.</hi>
             </p>
-            <p>Thirdly, If these and the like are the ways where<g ref="char:EOLhyphen"/>by
+            <p rend="level2" change="#review">Thirdly, If these and the like are the ways where<g ref="char:EOLhyphen"/>by
 God obviates the bringing forth of conceived
 sin in wicked Men, we may learn hence how mi<g ref="char:EOLhyphen"/>serable
 their condition is, and in what perpetual
@@ -7420,7 +7434,7 @@ Lord, nor the power of his grace. Envy not
 their condition, notwithstanding their outward
 glittering <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice>, their hearts are full of anxiety
 trouble and sorrow.</p>
-            <p>Fourthly, Do we see sometimes the flood-gates
+            <p rend="level2" change="#review">Fourthly, Do we see sometimes the flood-gates
 of Mens lusts and rage set open against the
 Church, and interest of it, and doth prevalency
 attend them, and power is for a season on their
@@ -7443,7 +7457,7 @@ and affright, and prevent the rage of all. He can
 knock them on the head, or break out their
 teeth, or chain up their wrath, and who can op<g ref="char:EOLhyphen"/>pose
 him?</p>
-            <p>Fifthly, Those who have received benefit by any
+            <p rend="level2" change="#review">Fifthly, Those who have received benefit by any
 of the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> mentioned, may know to whom
 they owe their preservation, and not look on it
 as a common thing. When you have <hi>conceived sin,</hi>
@@ -7477,7 +7491,7 @@ if it be, yet God doth good to others by it,
 <pb n="204" facs="tcp:42900:107"/>
 the World is the better, and you are not so wicked
 as you would be.</p>
-            <p>Sixthly, We may also see hence the great use of
+            <p rend="level2" change="#review">Sixthly, We may also see hence the great use of
 <hi><choice><orig>Magistracie</orig><reg resp="#auto" type="spelling">Magistracy</reg></choice></hi> in the world, that great appointment
 of God. Amongst other things, it is peculiarly sub<g ref="char:EOLhyphen"/>servient
 to this holy Providence, in obstructing
@@ -7503,7 +7517,7 @@ we have been speaking, is the proper work of
 <hi>Magistracy,</hi> namely to be subservient to the provi<g ref="char:EOLhyphen"/>dence
 of God in obstructing the bringing forth of
 conceived sin.</p>
-            <p>These then are some of the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby God
+            <p rend="level1" change="#review">These then are some of the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby God
 <hi>providentially</hi> prevents the <hi>bringing forth of sin,</hi> by
 opposing obstacles to the <hi>power</hi> of the sinner. And
 by them sin is not consumed, but shut up in the
@@ -7512,7 +7526,8 @@ womb. Men are not burthened <hi>for</hi> it, but <hi>with</hi> it;
 not laden in their hearts and consciences with its
 <hi>guilt,</hi> but perplexed with it <hi>power,</hi> which they
 are not able to exert and <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">satisfy</reg></choice>.</p>
-            <p>The way that yet remains for consideration
+            <label type="head" n="3" ana="#edition-only" change="#review">God’s Working on the Will of the Sinner</label>
+<p>The way that yet remains for consideration
 whereby God obviates the production of <hi>conceived
 sin,</hi> is his working on the <hi>Will</hi> of the sinners, so
 making sin to consume away in the womb.</p>
@@ -7595,7 +7610,7 @@ they had fashioned, and go to work upon some
 other. Now that we may a little see into the <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>
 whereby God doth accomplish this work, we
 must premise the ensuing considerations.</p>
-            <p>First, That the general <hi>medium</hi> wherein the
+            <p rend="level1" change="#review">First, That the general <hi>medium</hi> wherein the
 matter of <hi>restraining grace</hi> doth consist, whereby
 God thus prevents the bringing forth of sin, doth
 lie in certain <hi>Arguments</hi> and Reasonings, presented
@@ -7608,7 +7623,7 @@ This is the general way of the working
 of restraining grace, it is by <hi>arguments</hi> and rea<g ref="char:EOLhyphen"/>sonings
 rising up against the perpetration of con<g ref="char:EOLhyphen"/>ceived
 sin.</p>
-            <p>Secondly, That no <hi>Arguments</hi> or Reasonings,
+            <p rend="level1" change="#review">Secondly, That no <hi>Arguments</hi> or Reasonings,
 as such, <hi>materially</hi> considered, are sufficient to stop
 or hinder any purpose of sinning, or to cause con<g ref="char:EOLhyphen"/>ceived
 sin to prove abortive, if the sinner have
@@ -7631,7 +7646,7 @@ of the Spirit, which the Lord puts forth in these
 shall now consider some of the <hi>Arguments</hi> which
 we find that he hath made use of to this end and
 purpose.</p>
-            <p>First, God stops many men in their <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> upon
+            <p rend="level2" change="#review">First, God stops many men in their <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> upon
 the conception of sin, by an argument taken from
 the <hi>difficulty,</hi> if not impossibility of doing that they
 aim at. They have a mind unto it, but God sets
@@ -7677,7 +7692,7 @@ by the Holy Ghost: Adulteries, rapins, murders,
 are obviated and stifled by it. Men would engage
 into them daily, but that they judge it impossible
 for them to fulfill what they aim at.</p>
-            <p>Secondly, God doth it by an Argument taken
+            <p rend="level2" change="#review">Secondly, God doth it by an Argument taken
 <hi>ab incommodo,</hi> from the <hi>inconveniencies,</hi> evils, and
 troubles that will befall men in the pursuit of sin.
 If they follow it, this or that <hi>inconvenience</hi> will
@@ -7730,7 +7745,7 @@ Lord makes use of that consideration, even to<g ref="char:EOLhyphen"/>wards
 his own, when they have broken the cords
 of his love, and cast off the rule of his grace for
 a season, I have before declared.</p>
-            <p>Thirdly, God doth this same work, by making
+            <p rend="level2" change="#review">Thirdly, God doth this same work, by making
 effectual an <hi>Argument, ab inutili,</hi> from the <hi>unpro<g ref="char:EOLhyphen"/>fitableness</hi>
 of the thing that men are engaged in.
 By this were the <hi>Brethren</hi> of <hi>Joseph</hi> stayed from
@@ -7746,7 +7761,7 @@ come, nothing belonging to this life, or another,
 nothing desirable or undesirable, nothing good or
 evil, but at one time or another, an Argument
 may be taken from it for the obstructing of sin.</p>
-            <p>Fourthly, God accomplisheth this work by <hi>Ar<g ref="char:EOLhyphen"/>guments</hi>
+            <p rend="level2" change="#review">Fourthly, God accomplisheth this work by <hi>Ar<g ref="char:EOLhyphen"/>guments</hi>
 taken <hi>ab honesto,</hi> from what is <hi>good</hi> and
 <hi>honest,</hi> what is comely, praise-worthy, and ac<g ref="char:EOLhyphen"/>ceptable
 unto himself. This is the great road
@@ -7808,7 +7823,7 @@ that it was from the Lord, <hi>ver.</hi> 32.
 I shall add no more, for all the Scripture motives
 which we have to duty, made effectual by grace,
 are instances of this way of Gods procedure.</p>
-            <p>Sometimes, I confess, God secretly works the
+            <p rend="level2" change="#review">Sometimes, I confess, God secretly works the
 hearts of men by his own finger, without the
 use and means of such Arguments as those insisted
 on, to stop the progress of sin. So he tells <hi>Abimelech,
@@ -7914,7 +7929,7 @@ in the fulness of the purpose of his heart to go on
 in sin, in this or that sin, and is stopt in his course
 by the power of <hi>converting grace.</hi>
             </p>
-            <p>Secondly, God doth it by the same grace in the
+            <p rend="level1" change="#review">Secondly, God doth it by the same grace in the
 <hi>renewed communications</hi> of it, that is, by special
 <hi>assisting grace.</hi> This is the common way of his
 dealing with <hi>Believers</hi> in this case. That they also
@@ -7997,7 +8012,8 @@ his own glory, and the honour of his Gospel in the
 world, whose Professors would stain the whole
 beauty of it, were they left to themselves to bring
 forth all the evil that is <hi>conceived</hi> in their hearts.</p>
-            <p>Besides these <hi>general</hi> <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>, there is one yet more
+            <label type="head" n="3" ana="#edition-only" change="#review">The Way of Afflictions</label>
+<p>Besides these <hi>general</hi> <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>, there is one yet more
 <hi>special,</hi> that at once worketh both upon the <hi>Power</hi>
 and <hi>Will</hi> of the sinner; and this is the way of
 <hi>afflictions,</hi> concerning which one word shall close
@@ -8038,7 +8054,7 @@ yet we must still conclude that it is but a
             <pb n="220" facs="tcp:42900:115"/>
             <head>CHAP. XIV.</head>
             <argument>
-               <p>The Power of Sin farther demonstrated by
+               <p rend="inset" change="#review">The Power of Sin farther demonstrated by
 the Effects it hath had in the Lives of
 Professors. First in actual sins. Secondly
 in habitual Declensions.</p>
@@ -8078,7 +8094,7 @@ the many aggravations that in their circumstances
 they are attended with: Only some few things
 tending to the <choice><orig>rendring</orig><reg resp="#auto" type="spelling">rendering</reg></choice> of our present conside<g ref="char:EOLhyphen"/>ration
 of them useful, may be remarked. As,</p>
-            <p>First, They are most of them in the Lives of
+            <p rend="level1" change="#review">First, They are most of them in the Lives of
 men that were not of the <hi>lowest form</hi> or ordinary
 sort of Believers, but of men that had a peculiar
 <hi>eminency</hi> in them on the account of their walking
@@ -8094,7 +8110,7 @@ Engine could never have turned them out of the
 course of their obedience. It was a poyson that
 no <hi>Athletick</hi> constitution of spiritual health, no
 <hi>Antidote</hi> could withstand.</p>
-            <p>Secondly, And these very men, fell not into
+            <p rend="level1" change="#review">Secondly, And these very men, fell not into
 their great sins at the <hi>beginning of their professi<g ref="char:EOLhyphen"/>on,</hi>
 when they had had but little experience of the
 goodness of God, of the sweetness and pleasant<g ref="char:EOLhyphen"/>ness
@@ -8130,7 +8146,7 @@ hath either better furniture to oppose sin with<g ref="char:EOLhyphen"/>al,
 or more obligation so to do, than they? <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice>
 yet we see how fearfully they were prevailed
 against.</p>
-            <p>Thirdly, As if God had permitted their Falls
+            <p rend="level1" change="#review">Thirdly, As if God had permitted their Falls
 on set purpose, that we might learn to be wary
 of <gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -8369,7 +8385,7 @@ because they follow not with us.</hi> Better it were
 doubtless for men never to pretend unto any <hi>Zeal</hi>
 at all, than to substitute such warthful selfishness
 in the room of it.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="229" facs="tcp:42900:119"/>
 Secondly, Is mens <hi>delight</hi> in the Ordinances
 &amp; Worship of God the same as in former days?
@@ -8401,7 +8417,7 @@ need this distinction in hearing? Insensibly a great
 disrespect, yea, even a contempt of the pleasant
 and excellent ways of Christ and his Gospel, is
 fallen upon many Professors.</p>
-            <p>Thirdly, May not the same conviction be far<g ref="char:EOLhyphen"/>ther
+            <p rend="level1" change="#review">Thirdly, May not the same conviction be far<g ref="char:EOLhyphen"/>ther
 carried on, by an enquiry into the <hi>universal
 course of obedience,</hi> and the performance of duties
 that men have been engaged in. Is there the same
@@ -8413,12 +8429,12 @@ brethren? <choice><orig>the</orig><reg resp="#auto" type="spelling">The</reg></c
 same humility of mind and spirit? <choice><orig>the</orig><reg resp="#auto" type="spelling">The</reg></choice> same self-denial?
 The steam of mens lusts, wherewith the
 air is tainted, will not suffer us so to say.</p>
-            <p>We need then go no farther than this wretched
+            <p rend="level1" change="#review">We need then go no farther than this wretched
 Generation wherein we live, to evince the truth
 of the observation laid down, as the foundation of
 the instance insisted on, the Lord give repentance
 before it be too late.</p>
-            <p>Now all these <hi>declensions,</hi> all these decays that
+            <p rend="level1" change="#review">Now all these <hi>declensions,</hi> all these decays that
 are found in some Professors, they all proceed from
 this root and cause, they are all the product of
 <hi>Indwelling sin,</hi> and all evince the exceeding power
@@ -8443,7 +8459,7 @@ for the preventing of <hi>declensions</hi> and decays in Be<g ref="char:EOLhyphe
 <pb n="231" facs="tcp:42900:120"/>
 but also for their continual carrying on
 towards perfection. As,</p>
-            <p>First, The <hi>Word</hi> it self, and all the Ordinances
+            <p rend="level1" change="#review">First, The <hi>Word</hi> it self, and all the Ordinances
 of the Gospel, are appointed and given unto us
 for this end, <hi>Eph.</hi> 4. 11, 12, 13, 14, 15. That
 which is the end of giving <hi>Gospel Officers</hi> to the
@@ -8499,7 +8515,7 @@ of the death of the Lord, and the exercise of
 love one towards another. The <hi>communion of
 Saints</hi> is for the edifying each other in faith, love,
 and obedience.</p>
-            <p>Secondly, There is that which adds weight to
+            <p rend="level1" change="#review">Secondly, There is that which adds weight to
 this consideration. God suffers us not to be <hi>un<g ref="char:EOLhyphen"/>mindful</hi>
 of this assistance he hath afforded us, but
 is continually <hi>calling upon us</hi> to make use of the
@@ -8548,7 +8564,7 @@ God, more selfish and worldly, even <hi>habitually,
 <pb n="234" facs="tcp:42900:122"/>
 to decline</hi> as to the degrees of holiness which they
 had attained unto.</p>
-            <p>Thirdly, Together with the dispensation of
+            <p rend="level1" change="#review">Thirdly, Together with the dispensation of
 the <hi>outward means</hi> of spiritual growth or im<g ref="char:EOLhyphen"/>provement,
 there are also supplies of grace con<g ref="char:EOLhyphen"/>tinually
 afforded the <hi>Saints</hi> from their Head,
@@ -8663,7 +8679,7 @@ as to what they had attained unto; their <hi>last
 Vineyard in the very <hi>fruitful hill</hi> to bring forth
 so many <choice><orig>wilde</orig><reg resp="#auto" type="spelling">wild</reg></choice> Grapes. This makes so many
 trees barren in fertile fields.</p>
-            <p>Fourthly, Besides the <hi>continual supplies of Grace</hi>
+            <p rend="level1" change="#review">Fourthly, Besides the <hi>continual supplies of Grace</hi>
 that constantly according to the tenure of the <hi>Co<g ref="char:EOLhyphen"/>venant</hi>
 are communicated unto Believers, which
 keeps them that they thirst no more as to <hi>a total
@@ -8780,7 +8796,7 @@ against it.</p>
          <div n="15" type="chapter">
             <head>CHAP. XV.</head>
             <argument>
-               <p><choice><orig>Decayes</orig><reg resp="#auto" type="spelling">Decays</reg></choice> in Degrees of Grace caused by In<g ref="char:EOLhyphen"/>dwelling
+               <p rend="inset" change="#review"><choice><orig>Decayes</orig><reg resp="#auto" type="spelling">Decays</reg></choice> in Degrees of Grace caused by In<g ref="char:EOLhyphen"/>dwelling
 Sin. The <choice><orig>Waies</orig><reg resp="#auto" type="spelling">Ways</reg></choice> of its prevalen<g ref="char:EOLhyphen"/>cy
 to this purpose.</p>
             </argument>
@@ -8804,7 +8820,7 @@ with a more than ordinary fulness. Now if these
 the continuance of these showers, they must needs
 decay and go backwards. We shall name <hi>one or
 two</hi> of them.</p>
-            <p>First, They have <hi>a fresh, vigorous sence of Par<g ref="char:EOLhyphen"/>doning
+            <p rend="level1" change="#review">First, They have <hi>a fresh, vigorous sence of Par<g ref="char:EOLhyphen"/>doning
 Mercy.</hi> According as this is in the Soul, so
 will its Love and delight in God, so will its Obe<g ref="char:EOLhyphen"/>dience
 be. As, I say, is the sence of Gospel-pardon,
@@ -8835,7 +8851,7 @@ The love of God and of Christ in their
 <hi>forgiveness,</hi> highly conquers and constrains them
 to make it their business to <hi>live unto God.</hi>
             </p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Secondly,</hi> The <hi>fresh taste they have had of spiritu<g ref="char:EOLhyphen"/>al
 things,</hi> keeps up such a favour and relish of them
 in their Souls, as that worldly Contentments
@@ -8871,7 +8887,7 @@ of all earthly diversions. And they see a new
 guilt and filth in sin, that gives them an utter ab<g ref="char:EOLhyphen"/>horrency
 of its old delights and pleasures; and so
 of other things.</p>
-            <p>Now whilest these and the <hi>like Springs</hi> are kept
+            <p rend="level1" change="#review">Now whilest these and the <hi>like Springs</hi> are kept
 open in the Souls of converted sinners, they con<g ref="char:EOLhyphen"/>strain
 them to a vigorous active Holiness. They
 can never <hi>do enough for God;</hi> so that oftentimes
@@ -8879,12 +8895,12 @@ their Zeal, as <hi>Saints,</hi> suffers them not to escape
 without some blots on their Prudence <hi>as men,</hi> as
 might be instanced in many of the <hi>Martyrs</hi> of
 old.</p>
-            <p>This then is the <hi>first,</hi> at least <hi>one way</hi> whereby
+            <p rend="level1" change="#review">This then is the <hi>first,</hi> at least <hi>one way</hi> whereby
 indwelling-sin prepares men for <hi><choice><orig>decayes</orig><reg resp="#auto" type="spelling">decays</reg></choice></hi> and de<g ref="char:EOLhyphen"/>clensions
 in Grace and Obedience: It endeavours
 to <hi>stop</hi> or taint <hi>these springs.</hi> And there are seve<g ref="char:EOLhyphen"/>ral
 <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby it bringeth this to pass.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>First,</hi> It works by <hi>sloth</hi> and <hi>negligence.</hi> It pre<g ref="char:EOLhyphen"/>vails
 in the Soul to a neglect of <hi>stirring up</hi> conti<g ref="char:EOLhyphen"/>nual
 thoughts of, or about the things that so
@@ -8930,7 +8946,7 @@ that his people had <hi>forgotten him,</hi> that is,
 grew unmindful of his Love and Grace, which was
 the beginning of their <hi><choice><orig>Apostasie</orig><reg resp="#auto" type="spelling">Apostasy</reg></choice>.</hi>
             </p>
-            <p>Secondly, By <hi>unframing the soul,</hi> so that it shall
+            <p rend="level2" change="#review">Secondly, By <hi>unframing the soul,</hi> so that it shall
 have formal, weary, <hi>powerless</hi> thoughts of those
 things, which should prevail with it unto <hi>dili<g ref="char:EOLhyphen"/>gence</hi>
 in thankful obedience. The Apostle cautions
@@ -9019,7 +9035,7 @@ things in an <hi>overly</hi> manner, whereby they
 have lost all their life, vigour, favour, and efficacy
 towards them. Be <choice><orig>alwaies</orig><reg resp="#auto" type="spelling">always</reg></choice> <hi>serious</hi> in spiritual things,
 if ever you intend to be bettered by them.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Thirdly, Indwelling-sin</hi> oftentimes <choice><orig>prevailes</orig><reg resp="#auto" type="spelling">prevails</reg></choice> to
 the stopping of these springs of Gospel obedience,
 by false and foolish opinions, corrupting the <hi>sim<g ref="char:EOLhyphen"/>plicity</hi>
@@ -9074,7 +9090,7 @@ the springs</hi> of true Evangelical obedience, insensi<g ref="char:EOLhyphen"/>
 to turn the heart from God, and to bring the
 whole soul into a spiritual <hi>decay.</hi>
             </p>
-            <p>And this is one way whereby <hi>Indwelling-sin</hi>
+            <p rend="level2" change="#review">And this is one way whereby <hi>Indwelling-sin</hi>
 produceth this pernicious effect, of drawing men
 <pb n="249" facs="tcp:42900:129"/>
 off from the power, purity, and fruitfulness at<g ref="char:EOLhyphen"/>tending
@@ -9179,7 +9195,7 @@ to this end of Satan. I shall therefore only
 at present mention one or two, that seem princi<g ref="char:EOLhyphen"/>cipally
 to invite Satan to attempt a <hi>return.</hi>
             </p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>First,</hi> It intangleth the soul in the things of the
 world, all which are so many Purveyors for Sa<g ref="char:EOLhyphen"/>tan.
 When <hi>Pharaoh</hi> had let the people go, he heard
@@ -9211,7 +9227,7 @@ in and with the world, Satan sets on them a<gap reason="illegible" resp="#TECH" 
                <hi>Amalek</hi> did on the faint and weak of the people
 that came out of <hi>Egypt.</hi>
             </p>
-            <p>Secondly, It produceth this effect by <hi>making
+            <p rend="level1" change="#review">Secondly, It produceth this effect by <hi>making
 the soul negligent,</hi> and taking it off from its watch.
 We have before shew'd at large that it is one main
 part of the <hi>effectual deceitfulness of Indwelling sin,</hi>
@@ -9242,7 +9258,7 @@ of <hi>obedience,</hi> as the fowls upon <hi>Abrahams</hi> sacrifice,
 that if we watch not, as he did, to drive them
 away, [for by resistance he is overcome and put
 to flight] he will <hi>devour</hi> them.</p>
-            <p>Thirdly, <hi>Indwelling-sin</hi> takes advantage to put
+            <p rend="level1" change="#review">Thirdly, <hi>Indwelling-sin</hi> takes advantage to put
 forth its efficacy and deceit, to with-draw men
 from their <hi>primitive zeal</hi> and holiness, from their
 <hi>first faith, love,</hi> and works by the <hi>evil examples of
@@ -9282,7 +9298,7 @@ faith, and holiness. Now lest this may have been
 the case of any who shall read this discourse, I
 shall add some few cautions that are <hi>necessary</hi> to
 preserve men from this infection.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>First,</hi> In the <hi>body of Professors</hi> there is a great
 number of <hi>hypocrites.</hi> Though we cannot say of
 <hi>this</hi> or <hi>that</hi> man, that he is so, yet that some there
@@ -9299,7 +9315,7 @@ they are <hi>like</hi> unto them who bare the <hi>image of
 God,</hi> they conform themselves to those, who bare
 the <hi>Image of Satan.</hi>
             </p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Secondly,</hi> You know not what may be the <hi>present
 temptations</hi> of those whose <hi>ways</hi> you observe.
 It may be they are under some <hi>peculiar desertion</hi>
@@ -9334,7 +9350,7 @@ accepted at your hands; much less <gap reason="illegible" resp="#TECH" extent="2
 <pb n="256" facs="tcp:42900:133"/>
 be well for you to become <hi>sick</hi> and to be wounded
 also.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Thirdly,</hi> Remember that of many of the <hi>best
 Christians,</hi> the <hi>worst</hi> only is known and seen.
 Many who keep up precious Communion with
@@ -9353,7 +9369,7 @@ though their <hi>Cloaths be not <choice><orig>alwayes</orig><reg resp="#auto" ty
 Gold.</hi> Take heed then that you be not infected
 with their <hi>worst,</hi> when ye are not able it may be
 to imitate them in their <hi>best;</hi> but to return.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Fourthly,</hi> Sin doth this work by <hi>cherishing some
 secret particular lust in the heart.</hi> This the soul
 contends against faintly, It <hi>contends against</hi> it upon
@@ -9458,7 +9474,7 @@ I shall not add any thing here as to the pre<g ref="char:EOLhyphen"/>vention
 and obviating this advantage of In<g ref="char:EOLhyphen"/>dwelling-sin,
 having elsewhere treated of it pe<g ref="char:EOLhyphen"/>culiarly
 and apart.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Fifthly,</hi> It works by <hi>negligence of private con<g ref="char:EOLhyphen"/>munion
 with God in Prayer and Meditation.</hi> I have
 <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> before how <hi>Indwelling Sin</hi> puts forth its
@@ -9528,7 +9544,7 @@ with God, and constancy in these duties, it will
 not fail to effect a <hi>declining</hi> in the whole of a
 mans obedience. It hath made its entrance, and
 will assuredly make good its progress.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Sixthly,</hi> Growing in <hi>Notions of Truth without
 answerable practice,</hi> is another thing that <hi>Indwell<g ref="char:EOLhyphen"/>ing-sin</hi>
 makes use to bring the souls of Believers
@@ -9578,7 +9594,7 @@ the notions of truth, without labouring after an
 experience of the power of them in their hearts,
 and the bringing forth the fruit of them in their
 lives, on which a <hi>decay</hi> must needs ensue.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Seventhly, Growth in carnal wisdom</hi> is another
 help to sin in producing this sad effect. <hi>Thy wisdom
 and thy knowledge,</hi> saith the Prophet, <hi>hath per<g ref="char:EOLhyphen"/>verted
@@ -9602,7 +9618,7 @@ dipt in a <hi>worldly carnal frame,</hi> and utterly to wi<g ref="char:EOLhyphen
 in their profession. Many are so <hi>sullied</hi> hereby,
 that they are not to be known to be the men they
 were.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Eightly, Some great sin lying long in the heart and
 conscience unrepented of,</hi> or not repented of as it
 ought, and as the matter requires, furthers <hi>in<g ref="char:EOLhyphen"/>dwelling-sin</hi>
@@ -9641,7 +9657,7 @@ of its efficacy and power.</p>
          <div n="16" type="chapter">
             <head>CHAP. XVI.</head>
             <argument>
-               <p>The strength of Indwelling-sin, manifested
+               <p rend="inset" change="#review">The strength of Indwelling-sin, manifested
 from its power and effects in persons un<g ref="char:EOLhyphen"/>regenerate.</p>
             </argument>
             <p><seg rend="smallcaps" type="opening">IT</seg> is of the power and efficacy of <hi>Indwelling-sin,</hi>
@@ -9789,7 +9805,7 @@ creature made to yield him obedience, must needs
 be esteemed of great force and efficacy.</p>
             <p>Now this is frequently done by <hi>Indwelling-sin,</hi>
 in persons <hi>unregenerate.</hi> Let us take some few in<g ref="char:EOLhyphen"/>stances.</p>
-            <p>First, There is nothing that is more deeply in<g ref="char:EOLhyphen"/>laid
+            <p rend="level1" change="#review">First, There is nothing that is more deeply in<g ref="char:EOLhyphen"/>laid
 in the principles of the natures of all living
 creatures, and so of man himself, than a love un<g ref="char:EOLhyphen"/>to,
 and a care for the preservation and nourishing
@@ -9800,7 +9816,7 @@ nature directs them to as their best, to <hi>impart</hi> it
 <pb n="269" facs="tcp:42900:139"/>
 to them; and acting in their behalf to the utmost
 of their power.</p>
-            <p>Now such is the efficacy, power, and force of
+            <p rend="level1" change="#review">Now such is the efficacy, power, and force of
 <hi>Indwelling-sin</hi> in man, an <hi>infection</hi> that the nature
 of other creatures knows nothing of, that in many
 it prevails to stop this fountain, to beat back the
@@ -9818,7 +9834,7 @@ be at liberty to <choice><orig>satisfie</orig><reg resp="#auto" type="spelling">
 own children from the womb.</hi> So far did the
 strength of sin prevail to obliterate the Law of na<g ref="char:EOLhyphen"/>ture,
 and to repel the force and power of it.</p>
-            <p>Examples of this nature are common in all
+            <p rend="level1" change="#review">Examples of this nature are common in all
 Nations; amongst our selves, of <hi>women murdering
 their own children,</hi> through the deceitful reasoning
 of sin. And herein sin turns the strong <hi>current</hi>
@@ -9865,7 +9881,7 @@ not be hired with any reward to deal with his
 <hi>best,</hi> to know and consider, that they carry that
 about them, in them, which in others hath pro<g ref="char:EOLhyphen"/>duced
 these effects.</p>
-            <p>The like may be spoken of all other sins against
+            <p rend="level1" change="#review">The like may be spoken of all other sins against
 the <hi>prime dictates</hi> of the Law of Nature, that
 mankind is or hath been stained and defamed
 withal. <hi>Murder</hi> of <hi>Parents</hi> and Children, of Wives
@@ -9874,7 +9890,7 @@ and Husbands, <hi>Sodomy, Incest,</hi> and the like enor<g ref="char:EOLhyphen"/
 in all which, sin prevails in men against
 the <hi>whole Law of their Being</hi> and dependance up<g ref="char:EOLhyphen"/>on
 God.</p>
-            <p>What should I reckon up the murders of <hi>Cain</hi>
+            <p rend="level1" change="#review">What should I reckon up the murders of <hi>Cain</hi>
 and <hi>Abel,</hi> the treason of <hi>Judas,</hi> with their aggra<g ref="char:EOLhyphen"/>vations;
 or remind the filth and villany of <hi>Nero,</hi>
 in whom sin seemed to design an instance of what
@@ -9888,7 +9904,7 @@ alone.</p>
 men off from <hi>believing</hi> under the dispensation of
 the Gospel. This evidence must be a little further
 cleared.</p>
-            <p>First, Under the dispensation of the Gospel,
+            <p rend="level1" change="#review">First, Under the dispensation of the Gospel,
 there are <hi>but few that do believe.</hi> So the Preachers
 of it complain, <hi>Isa.</hi> 53. 1. <hi>Who hath believed our
 report?</hi> which the Apostle interprets of the <hi>pau<g ref="char:EOLhyphen"/>city</hi>
@@ -9908,7 +9924,7 @@ places, and most eminent for profession, are not
 such persons like the <hi>berries after the shaking of
 an Olive-tree,</hi> two or three in the top of the up<g ref="char:EOLhyphen"/>most
 boughs, and 4 or 5 in the highest branches?</p>
-            <p>Secondly, There is proposed to men in the
+            <p rend="level1" change="#review">Secondly, There is proposed to men in the
 preaching of the Gospel, as <hi>motives unto Believing</hi>
 every thing in conjunction, that <hi>severally</hi> prevail
 with men to do what ever else they do in their
@@ -9930,11 +9946,11 @@ use to avoid that which they apprehend <hi>evil</hi> or
 grievous to them. And any one of these is enough
 to <hi>oil the wheels</hi> of mens utmost endeavours, and
 set men at work to the purpose.</p>
-            <p>But now all these things centre in the propo<g ref="char:EOLhyphen"/>sal
+            <p rend="level1" change="#review">But now all these things centre in the propo<g ref="char:EOLhyphen"/>sal
 of the Gospel, and the <hi>command of Believing;</hi>
 and every one of them <hi>in a kind,</hi> that the whole
 world can propose nothing like unto it.</p>
-            <p>It is the most <hi>reasonable thing</hi> that can be pro<g ref="char:EOLhyphen"/>posed
+            <p rend="level1" change="#review">It is the most <hi>reasonable thing</hi> that can be pro<g ref="char:EOLhyphen"/>posed
 to the understanding of a man; that he
 who thr<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -9948,13 +9964,13 @@ the attaining the ends mentioned, which God
 in infinite Grace, Love, Mercy, Wisdom, and
 Righteousness hath found out, and doth propose
 unto him. And,</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Secondly,</hi> It is the <hi>profitablest</hi> thing that a man
 can possibly be invited unto; if there be any <hi>pro<g ref="char:EOLhyphen"/>fit,</hi>
 or benefit, any advantage in the <hi>forgiveness of
 sins,</hi> in the love and favour of God, in a blessed
 immortality, in eternal glory. And,</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Thirdly,</hi> It is most <hi>pleasant</hi> also; surely it is a
 pleasant thing to be brought out of <hi>darkness into
 light,</hi> out of a dungeon unto a Throne, from
@@ -9962,7 +9978,7 @@ captivity and slavery to Satan and cursed lusts, to
 the glorious liberty of the children of God, with a
 thousand heavenly <hi><choice><orig>sweetnesses</orig><reg resp="#auto" type="spelling">sweetness</reg></choice></hi> not now to be men<g ref="char:EOLhyphen"/>tioned.
 And,</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Fourthly,</hi> It is surely <hi>necessary,</hi> and that not on<g ref="char:EOLhyphen"/>ly
 from the <hi>command of God,</hi> who hath the Su<g ref="char:EOLhyphen"/>preme
 Authority over us, but also indispensibly so
@@ -9971,7 +9987,7 @@ soul, <hi>Mat.</hi> 16. 16. It is constantly proposed under
 these terms, believe, or you perish under the
 weight of the wrath of the great God, and that for
 evermore.</p>
-            <p>But now notwithstanding that all these consi<g ref="char:EOLhyphen"/>derations
+            <p rend="level2" change="#review">But now notwithstanding that all these consi<g ref="char:EOLhyphen"/>derations
 are <hi>preached</hi> unto men, and pressed upon
 them in the Name of the great God from day to
 day, from one year to another; yet, as was be<g ref="char:EOLhyphen"/>fore
@@ -9989,7 +10005,7 @@ one, they regard it not, set not their hearts unto
 it, but, as it were, plainly say, <hi>We will have nothing
 to do with these things;</hi> they will rather perish in
 their lusts than accept of mercy.</p>
-            <p>Thirdly, It is <hi>Indwelling-sin</hi> that both disena<g ref="char:EOLhyphen"/>bleth
+            <p rend="level1" change="#review">Thirdly, It is <hi>Indwelling-sin</hi> that both disena<g ref="char:EOLhyphen"/>bleth
 men unto, and hinders them from believing,
 &amp; that alone. <hi>Blindness</hi> of mind, stubbornness of the
 will, sensuality of the affections, all concur to
@@ -9998,14 +10014,14 @@ Men are made <hi>blind</hi> by sin, and cannot see his Ex<g ref="char:EOLhyphen"
 <hi>obstinate</hi> and will not lay hold of his
 Righteousness <hi>senseless</hi> and take no notice of their
 own eternal concernments.</p>
-            <p>Now certainly that which can prevail with
+            <p rend="level1" change="#review">Now certainly that which can prevail with
 men wise and sober, and prudent in other things,
 to neglect and despise the love of God, the blood
 of Christ, the eternal welfare of their own souls,
 upon weak and worthless pretences, must be ac<g ref="char:EOLhyphen"/>knowledged
 to have an astonishable force and
 efficacy accompanying it.</p>
-            <p>Whose heart, who hath once heard of the ways
+            <p rend="level1" change="#review">Whose heart, who hath once heard of the ways
 of God, can but bleed to see <hi>poor souls</hi> eternally
 perishing under a <hi>thousand gracious invitations,</hi>
 to accept of mercy and pardon in the blood of
@@ -10072,7 +10088,7 @@ power to an utter <hi>relinquishment of their Professi<g ref="char:EOLhyphen"/>o
 and their whole engagement unto God: And
 this several ways evinces the greatness of its
 strength and efficacy:</p>
-            <p>1. In that it giveth stop or control unto that
+            <p rend="level1" change="#review">1. In that it giveth stop or control unto that
 <hi>exceeding greatness of power</hi> which is put forth in
 the Word, in their Conviction and Reformation.
 We see it by experience, that Men are not <hi>easily
@@ -10109,7 +10125,7 @@ the <hi>enlightening</hi> of their minds, the
 <hi>changing</hi> of their affections, the <hi>awing</hi> of their
 hearts, the <hi>reforming</hi> of their <hi>lives,</hi> and <hi>compelling</hi>
 them to duties, is unexpressible.</p>
-            <p>But now, unto all these is there <hi>check</hi> and con<g ref="char:EOLhyphen"/>trol
+            <p rend="level1" change="#review">But now, unto all these is there <hi>check</hi> and con<g ref="char:EOLhyphen"/>trol
 given by <hi>Indwelling Sin.</hi> It prevails against
 this <hi>whole work</hi> of the Spirit by the Word, with
 <pb n="278" facs="tcp:42900:144"/>
@@ -10140,7 +10156,7 @@ in conjunction with some <hi>vigorous temptation,</hi> it
 suddenly, and at once plunges the Soul into a
 course of alienation from God, and the profession
 of his ways.</p>
-            <p>2. It takes them off from those <hi>hopes of Heaven,</hi>
+            <p rend="level1" change="#review">2. It takes them off from those <hi>hopes of Heaven,</hi>
 which upon their Convictions, Obedience, and
 <hi>temporary Faith</hi> or believing, they had attained.
 There is a <hi>general hope of Heaven,</hi> or at least of
@@ -10165,12 +10181,12 @@ trials; It is such, as they would not <hi>part withal</hi>
 for all the World; and upon all occasions they
 retreat in their minds unto it, for comfort and
 relief.</p>
-            <p>Now all this by the <hi>Power of Sin</hi> are they
+            <p rend="level1" change="#review">Now all this by the <hi>Power of Sin</hi> are they
 prevailed withal to forgo. Let Heaven go if
 it will, a blessed Immortality with the enjoyment
 of God himself, Sin must be served, and provision
 made to fulfil the lusts thereof.</p>
-            <p>If a Man, in the things of this World, had
+            <p rend="level1" change="#review">If a Man, in the things of this World, had
 such a hope of a large <hi>Inheritance,</hi> of a King<g ref="char:EOLhyphen"/>dom,
 as wherein he is satisfied that it will not
 fail him<g ref="char:punc">▪</g> but that in the issue he shall surely enjoy
@@ -10187,7 +10203,7 @@ Tyrant. You will easily grant; he must have
 some strange bewitching power with him, that
 should prevail with a Man in his wits to follow
 his advice.</p>
-            <p>Yet thus it is, and much more so in the case
+            <p rend="level1" change="#review">Yet thus it is, and much more so in the case
 we have in hand. Sin it self cannot deny, but
 that the <hi>Kingdom of Heaven</hi> which the Soul is in
 hope and expectation of, is glorious and excel<g ref="char:EOLhyphen"/>lent,
@@ -10200,7 +10216,7 @@ no other motive but that he may serve some
 <hi>worldly, cruel,</hi> or filthy and sensual lust; Cer<g ref="char:EOLhyphen"/>tainly
 here lies a secret efficacy, whose depths
 cannot be fathomed.</p>
-            <p>3. The Apostle manifests the power of the
+            <p rend="level1" change="#review">3. The Apostle manifests the power of the
 entanglements of sin in and upon <hi>Apostates,</hi> in
 that it turns them off from <hi>the way of righteous<g ref="char:EOLhyphen"/>ness
 after they have known it,</hi> 2 <hi>Pet.</hi> 2. 21. It will
@@ -10232,7 +10248,7 @@ against all their Light, Conviction, Experiences,
 Professions, Engagements, or whatever may be
 <hi>strong</hi> upon them to keep them to the known
 ways of Righteousness.</p>
-            <p>4. It evinces its strength in them by pre<g ref="char:EOLhyphen"/>vailing
+            <p rend="level1" change="#review">4. It evinces its strength in them by pre<g ref="char:EOLhyphen"/>vailing
 with them unto <hi>a total renunciation of
 God</hi> as revealed in Christ, and the Power of all
 Gospel-Truth, <hi>in the Sin against the Holy Ghost.</hi>
@@ -10252,7 +10268,7 @@ A Man by it, is brought to renounce the End for
 which he was made; <hi>wilfully</hi> to reject the Means
 of his coming to the enjoyment of God, to pro<g ref="char:EOLhyphen"/>voke
 him to his face; and so to perish in his Re<g ref="char:EOLhyphen"/>bellion.</p>
-            <p>I have not mentioned these things, as though
+            <p rend="level1" change="#review">I have not mentioned these things, as though
 I hoped by them to set out to the <hi>full the power
 of Indwelling Sin in unregenerate Men;</hi> only by
 a few Instances I thought to give a glimpse of it.
@@ -10277,7 +10293,7 @@ I say using the Law for his Light and Rule, take
 this course, and if he have any spiritual discern<g ref="char:EOLhyphen"/>ing,
 he may quickly attain satisfaction in this
 matter.</p>
-            <p>And I <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> in the entrance of this discourse,
+            <p rend="level1" change="#review">And I <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> in the entrance of this discourse,
 how this consideration doth fully confirm the
 Truth proposed.</p>
          </div>
@@ -10285,7 +10301,7 @@ Truth proposed.</p>
             <pb n="283" facs="tcp:42900:146"/>
             <head>CHAP. XVII.</head>
             <argument>
-               <p>The strength of Sin Evidenced from its Re<g ref="char:EOLhyphen"/>sistance
+               <p rend="inset" change="#review">The strength of Sin Evidenced from its Re<g ref="char:EOLhyphen"/>sistance
 unto the power of the Law.</p>
             </argument>
             <p><seg rend="smallcaps" type="opening">THE</seg> measure of the strength of any <hi>Person,</hi>
@@ -10464,7 +10480,7 @@ fall he recovered new strength, and was more
 vigorous than formerly: So is it with all the falls
 and repulses that are given to <hi>Indwelling-sin</hi> by the
 Law. For,</p>
-            <p>First, It is not <hi>conquered.</hi> A conquest infers two
+            <p rend="level1" change="#review">First, It is not <hi>conquered.</hi> A conquest infers two
 things in respect of the conquered: First, <hi>Loss of
 Dominion;</hi> and, secondly, <hi>loss of strength.</hi> Where
 ever any one is <hi>conquered,</hi> he is dispoiled of both
@@ -10516,18 +10532,18 @@ grows more <hi>outragiously oppressive,</hi> and doubles
 the bondage of their Souls. This is not then the
 work of the Law to <hi>destroy</hi> sin, or deprive it of
 that dominion which it hath by nature.</p>
-            <p>Nor doth it by all these <hi>stroaks of the Law</hi> lose
+            <p rend="level1" change="#review">Nor doth it by all these <hi>stroaks of the Law</hi> lose
 any thing of its <hi>strength.</hi> It continues both its
 <pb n="289" facs="tcp:42900:149"/>
 authority and its force; It is neither destroyed,
 nor weakned. Yea,</p>
-            <p>Secondly, It is so far from being <hi>conquered,</hi> that
+            <p rend="level1" change="#review">Secondly, It is so far from being <hi>conquered,</hi> that
 it is only <hi>enraged.</hi> The whole work of the Law,
 doth only provoke and enrage sin; and cause it as it
 hath opportunity, to put out its strength with more
 power and vigour and force than formerly. This
 the Apostle <choice><orig>shews</orig><reg resp="#auto" type="spelling">shows</reg></choice> at large, <hi>Rom.</hi> 7. 9, 10, 11, 12, 13.</p>
-            <p>But you will say, Do we not see it by experi<g ref="char:EOLhyphen"/>ence;
+            <p rend="level1" change="#review">But you will say, Do we not see it by experi<g ref="char:EOLhyphen"/>ence;
 that many are wrought upon by the <hi>preach<g ref="char:EOLhyphen"/>ing
 of the Law</hi> to a relinquishment of many sins,
 and amendment of their Lives, and to a great con<g ref="char:EOLhyphen"/>tending
@@ -10536,7 +10552,7 @@ which they cannot yet <choice><orig>mortifie</orig><reg resp="#auto" type="spell
 cannot be denyed, but that great is the power and
 <hi>efficacy</hi> of the Law, when preached and applyed to
 the Conscience in a due manner: I answer,</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>First,</hi> It is acknowledged, that very great and
 effectual is the power of the Law of God. Great
 are the effects that are wrought by it; and it shall
@@ -10545,7 +10561,7 @@ is appointed. But yet the <hi>subduing of sin,</hi> is none of
 its work; it is not designed of God unto that pur<g ref="char:EOLhyphen"/>pose;
 and therefore it is no dishonour, if it cannot
 do that which is not its proper work, <hi>Rom.</hi> 8. 3.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Secondly,</hi> Whatever effects it have upon <hi>some,</hi>
 yet we see that in the <hi>most,</hi> such is the power and
 prevalency of sin, that it takes no impression at all
@@ -10564,7 +10580,7 @@ secure, as if they had never been told of the
 guilt of sin, or terrour of the Lord. Such as these are
 Congregations full of, who proclaim the <hi>trium<g ref="char:EOLhyphen"/>phing
 power</hi> of sin, over the dispensation of the Law.</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Thirdly,</hi> When any of the Effects mentioned are
 wrought, it is not from the power of <hi>the letter of
 the Law,</hi> but from the actual efficacy of the Spirit of
@@ -10573,12 +10589,12 @@ and purpose; And we deny not but that the Spirit of
 the Lord is able to restrain and quell the power of
 lust when he pleaseth; and some <choice><orig>wayes</orig><reg resp="#auto" type="spelling">ways</reg></choice> whereby he
 is pleased so to do we have formerly considered. But,</p>
-            <p>
+            <p rend="level2" change="#review">
                <hi>Fourthly,</hi> Notwithstanding all that may be ob<g ref="char:EOLhyphen"/>served
 of the <hi>power of the Law</hi> upon the Souls of
 Men, yet it is most evident that Lust is not <hi>conque<g ref="char:EOLhyphen"/>red,</hi>
 nor subdued, nor mortified by it. For,</p>
-            <p>
+            <p rend="level3" change="#review">
                <hi>First,</hi> Though the <hi>course</hi> of sin may be <hi>repelled</hi>
 for a season by the dispensation of the Law, yet the
 <hi>Spring</hi> and Fountain of it, is not dryed up thereby,
@@ -10605,7 +10621,7 @@ begin to wear out that sense and the terrour that
 was upon them, they return to their former course,
 in the service of sin again. This was the state with
 <hi>Pharaoh</hi> once and again.</p>
-            <p>
+            <p rend="level3" change="#review">
                <hi>Secondly,</hi> In such seasons sin is not <hi>conquered</hi> but
 <hi>diverted.</hi> When it seems to fall under the power
 of the Law, indeed it is only <hi>turned</hi> into a new
@@ -10641,14 +10657,14 @@ notwithstanding the <hi>whole work of the Law</hi> upon
 the Souls of Men, <hi>Indwelling-sin</hi> will keep <hi>alive</hi> in
 them still, which is another evidence of its great
 power and strength.</p>
-            <p>I shall yet touch upon some other evidences of
+            <p rend="level3" change="#review">I shall yet touch upon some other evidences of
 the same truth, that I have under consideration;
 but I shall be brief in them: In the next place then,
 the great <hi>endeavours of Men ignorant of the
 Righteousness of Christ</hi> for the <hi>subduing</hi> and mor<g ref="char:EOLhyphen"/>tifying
 of sin, which are all fruitless, do evidence
 the great strength and power of it.</p>
-            <p>Men who have no <hi>strength against sin,</hi> may yet be
+            <p rend="level3" change="#review">Men who have no <hi>strength against sin,</hi> may yet be
 made sensible of the <hi>strength of sin.</hi> The way where<g ref="char:EOLhyphen"/>by
 for the most part they come to that knowledge,
 is by some previous sense that they have of the
@@ -10691,7 +10707,7 @@ peace with God. Some of the <choice><orig>wayes</orig><reg resp="#auto" type="sp
 they endeavour to suppress the power of sin, which
 casts them into an unquiet condition, and their
 insufficiency for that end, we must look into.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>First,</hi> They will promise and bind themselves by
 <hi>Vows</hi> from those sins, which they have been most
 liable unto, and so have been most perplexed <choice><orig>with<g ref="char:EOLhyphen"/>all</orig><reg resp="#auto" type="spelling">withal</reg></choice>.
@@ -10782,7 +10798,7 @@ which is the Principle as was before ob<g ref="char:EOLhyphen"/>served
 <pb n="296" facs="tcp:42900:153"/>
 of most of the <hi>visible Apostasies</hi> which we
 have in the World, 2 <hi>Pet.</hi> 2. 19, 20.</p>
-            <p>The Holy Ghost compares sinners, because of
+            <p rend="level1" change="#review">The Holy Ghost compares sinners, because of
 the <hi>odious,</hi> fierce, poysonous nature of this <hi>In<g ref="char:EOLhyphen"/>dwelling-sin,</hi>
 unto <hi>Lyons, Bears,</hi> and <hi>Asps, Isa.</hi> 11. 6,
 7, 8, 9. Now this is the excellency of Gospel-grace,
@@ -10819,7 +10835,7 @@ them by nature; Mens <hi>self-endeavours</hi> do b<gap reason="illegible" resp="
                </gap>
 coerce them as to some outward eruptions.
 But,</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>Secondly,</hi> Beyond bare <hi>Vows and Promises</hi> with
 some watchfulness to observe them in a rational use
 of ordinary means, Men have put, and some do yet
@@ -10863,7 +10879,7 @@ and soul-pride, contempt of the Gos<g ref="char:EOLhyphen"/>pel,
 and the righteousness of it, and reigns no
 less, than in the most proffigate sinners in the
 World.</p>
-            <p>
+            <p rend="level1" change="#review">
                <pb n="298" facs="tcp:42900:154"/>
 Lastly, The strength, efficacy and power of this
 Law of Sin, may be farther evidenced from its life
@@ -10872,7 +10888,7 @@ wound that is given unto it, in the first conversion
 of the Soul to God; and the continual opposition
 that is made unto it by Grace. But this is the
 subject and design of another Endeavour.</p>
-            <p>It may now be expected, that we should here
+            <p rend="level1" change="#review">It may now be expected, that we should here
 <choice><orig>adde</orig><reg resp="#auto" type="spelling">add</reg></choice> the especial <hi><choice><orig>Vses</orig><reg resp="#auto" type="spelling">Uses</reg></choice></hi> of all this discovery that
 hath been made of the <hi>Power, Deceit, Prevalency</hi>
 and <hi>Success,</hi> of this great Adversary of our Souls.
@@ -10889,7 +10905,7 @@ another small Treatise written long since unto that
 purpose, which I suppose he may do well to con<g ref="char:EOLhyphen"/>sider
 together with this, if he find these things to
 be his Concernment.</p>
-            <p>
+            <p rend="level1" change="#review">
                <hi>To the Only Wise God our Saviour, be Glory
 and Majesty, Dominion, and Power, both
 Now and Ever. </hi> Amen.</p>

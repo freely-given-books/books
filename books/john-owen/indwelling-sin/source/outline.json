@@ -1,1 +1,20 @@
-{"witness": "indwellingsin.ccel.witness.xml"}
+{
+ "witness": "indwellingsin.ccel.witness.xml",
+ "overrides": {
+  "chapter-07.typ:These are the ways I say, whereby the so": 3,
+  "chapter-07.typ:First, It #emph[possess•th the mind,] th": 3,
+  "chapter-07.typ:Secondly, By secret stubborn #emph[resol": 3,
+  "chapter-13.typ:These then are some of the ways whereby ": 3,
+  "chapter-01.typ:First, There is its #emph[habitual resid": 2,
+  "chapter-01.typ:Secondly, There are special #emph[times]": 2,
+  "chapter-01.typ:Unto these two, there are two things in ": 2,
+  "chapter-01.typ:Secondly, #emph[Believers have experienc": 1,
+  "chapter-03.typ:Secondly, Hath it its residence in that ": 1,
+  "chapter-04.typ:Secondly, It is not only said to be #emp": 1,
+  "chapter-06.typ:Secondly, There is its particular way of": 1,
+  "chapter-09.typ:Fourthly, If the heart be not deceived b": 4,
+  "chapter-12.typ:Secondly, As the #emph[mind] being #emph": 1,
+  "chapter-13.typ:Sixthly, We may also see hence the great": 4,
+  "chapter-01.typ:#emph[Fourthly,] Indwelling-sin is effec": 1
+ }
+}
