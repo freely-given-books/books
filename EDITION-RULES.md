@@ -55,7 +55,7 @@ What the finished books show (counted from their TEIs, 2026-11-08):
 | | Example | Note |
 | --- | --- | --- |
 | letter forms | ſ → s, vv → w, u/v, i/j, Ʋ → U | machine |
-| spelling | approueth → approveth, shew → show, choyce → choice, weakned → weakened, terrour → terror | machine + book's `SPELLING`; any old spelling with a plain modern form is modernized by default (2026-11-08) |
+| spelling | approueth → approveth, shew → show, choyce → choice, weakned → weakened, terrour → terror; American: labour → labor, defence → defense, centre → center, Saviour → Savior | machine + book's `SPELLING`; any old spelling with a plain modern form is modernized by default, in American spelling (2026-11-08; All of Grace and Indwelling Sin; released British-spelled books change at their next revision) |
 | compounds | my self → myself, our selves → ourselves, any thing → anything | |
 | elided past forms | fill'd → filled, lay'n → lain, blest → blessed | 2026-11-08 |
 | capitals | mid-sentence nouns lowercased (Grace → grace); drop-cap words (HAving → Having) | |
@@ -65,7 +65,7 @@ What the finished books show (counted from their TEIs, 2026-11-08):
 | &c. | → etc. where the book sets `EXPAND_ETC` | per book |
 
 A spelling review page lists the book's remaining old spellings with these defaults already standing
-(modern form taken; the author's own words, Latin, names, contractions and -our kept); the editor
+(modern American form taken; the author's own words, Latin, names and contractions kept); the editor
 only overrides. Claude settles the unclear ones; nothing is left waiting on the editor by default.
 
 **Kept as printed**
