@@ -55,7 +55,7 @@ What the finished books show (counted from their TEIs, 2026-11-08):
 | | Example | Note |
 | --- | --- | --- |
 | letter forms | ſ → s, vv → w, u/v, i/j, Ʋ → U | machine |
-| spelling | approueth → approveth, shew → show, choyce → choice | machine + book's `SPELLING` |
+| spelling | approueth → approveth, shew → show, choyce → choice, weakned → weakened, terrour → terror | machine + book's `SPELLING`; any old spelling with a plain modern form is modernized by default (2026-11-08) |
 | compounds | my self → myself, our selves → ourselves, any thing → anything | |
 | elided past forms | fill'd → filled, lay'n → lain, blest → blessed | 2026-11-08 |
 | capitals | mid-sentence nouns lowercased (Grace → grace); drop-cap words (HAving → Having) | |
@@ -63,6 +63,10 @@ What the finished books show (counted from their TEIs, 2026-11-08):
 | Scripture references | Heb. xii. 5 → Heb 12:5; spelled out where the sentence reads it ("in Romans 8:28"); v., vv., ch. | 2026-10-27 |
 | printer's misprints | be → he where the sense needs it, a wrong verse number fixed from the page | with evidence |
 | &c. | → etc. where the book sets `EXPAND_ETC` | per book |
+
+A spelling review page lists the book's remaining old spellings with these defaults already standing
+(modern form taken; the author's own words, Latin, names, contractions and -our kept); the editor
+only overrides. Claude settles the unclear ones; nothing is left waiting on the editor by default.
 
 **Kept as printed**
 
