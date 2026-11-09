@@ -6,19 +6,20 @@
 | punctuation | 750 |
 | italic | 435 |
 | spacing | 401 |
-| emendation | 382 |
+| emendation | 384 |
 | level | 207 |
 | grammar | 32 |
 | case | 27 |
 | inset | 17 |
 | heading | 16 |
-| gap | 4 |
+| gap | 5 |
 
 ## gap
 
 - [chapter-02.typ] medling → meddling
 - [chapter-06.typ] off → of it
 - [chapter-12.typ] fit → sit
+- [chapter-14.typ] fruitful → fruitful.
 - [chapter-17.typ] dangerous → dangerous.
 
 ## emendation
@@ -240,6 +241,7 @@
 - [chapter-09.typ] our selves → ourselves
 - [chapter-09.typ] your selves → yourselves
 - [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] 38 → 58
 - [chapter-09.typ] 7 → 17
 - [chapter-09.typ] Psal . → Ps
 - [chapter-10.typ] it self → itself
@@ -351,6 +353,7 @@
 - [chapter-14.typ] ver → v
 - [chapter-14.typ] for sake → forsake
 - [chapter-14.typ] Joh . → John
+- [chapter-14.typ] 9 → 
 - [chapter-14.typ] my self → myself
 - [chapter-14.typ] my self → myself
 - [chapter-14.typ] Joh . → John
@@ -1053,7 +1056,7 @@
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
-- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 8:
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] & → and
