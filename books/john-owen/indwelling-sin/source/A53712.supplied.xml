@@ -60,5 +60,7 @@
          evidence="p. 247 (scan 255): 'life, vigour, ſavour, and efficacy'; 1668 'savour' (wording check 2026-11-09)"/>
     <fix pb="284" before="enemy; if " tcp="the" print="he" after=" will now"
          evidence="p. 284 (scan 292): 'if he will now periſh by him'; 1668 'he' (wording check 2026-11-09)"/>
+    <fix pb="291" before="against these " tcp="course" print="courses" after=";"
+         evidence="p. 291 (scan 299): 'sets a damm against these courses'; 1668 'courses' (proofread 2026-11-09)"/>
   </corrections>
 </supplement>

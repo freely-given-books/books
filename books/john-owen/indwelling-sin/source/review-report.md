@@ -2,23 +2,24 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 790 |
-| punctuation | 671 |
-| spacing | 378 |
-| italic | 377 |
-| emendation | 340 |
+| spelling | 812 |
+| punctuation | 750 |
+| italic | 435 |
+| spacing | 401 |
+| emendation | 382 |
 | level | 207 |
-| grammar | 31 |
+| grammar | 32 |
+| case | 27 |
 | inset | 17 |
 | heading | 16 |
-| gap | 3 |
-| case | 1 |
+| gap | 4 |
 
 ## gap
 
 - [chapter-02.typ] medling → meddling
 - [chapter-06.typ] off → of it
 - [chapter-12.typ] fit → sit
+- [chapter-17.typ] dangerous → dangerous.
 
 ## emendation
 
@@ -28,14 +29,17 @@
 - [chapter-01.typ] it self → itself
 - [chapter-01.typ] ver → v
 - [chapter-01.typ] it self → itself
+- [chapter-01.typ] ver → v
 - [chapter-01.typ] our selves → ourselves
 - [chapter-01.typ] our selves → ourselves
 - [chapter-01.typ] ver → v
+- [chapter-01.typ] . Of → of
 - [chapter-01.typ] what ever → whatever
 - [chapter-01.typ] mean time → meantime
 - [chapter-01.typ] hood - winkt → hoodwinked
 - [chapter-02.typ] Ephes . → Eph
 - [chapter-02.typ] it self → itself
+- [chapter-02.typ] ver → v
 - [chapter-02.typ] it self → itself
 - [chapter-02.typ] What ever → Whatever
 - [chapter-02.typ] what ever → whatever
@@ -48,6 +52,7 @@
 - [chapter-02.typ] it self → itself
 - [chapter-02.typ] it self → itself
 - [chapter-02.typ] it self → itself
+- [chapter-02.typ] ver → v
 - [chapter-02.typ] it self → itself
 - [chapter-02.typ] applyes it self → applies itself
 - [chapter-02.typ] it self → itself
@@ -60,6 +65,7 @@
 - [chapter-03.typ] every where → everywhere
 - [chapter-03.typ] Eccles . → Eccl
 - [chapter-03.typ] Matth . → Matt
+- [chapter-03.typ] & c → etc
 - [chapter-03.typ] its self → itself
 - [chapter-03.typ] its self → itself
 - [chapter-03.typ] it self → itself
@@ -73,6 +79,7 @@
 - [chapter-03.typ] Colos . → Col
 - [chapter-03.typ] it self → itself
 - [chapter-03.typ] Psal . → Ps
+- [chapter-03.typ] vers → vv
 - [chapter-04.typ] it self → itself
 - [chapter-04.typ] where ever → wherever
 - [chapter-04.typ] it self → itself
@@ -90,7 +97,7 @@
 - [chapter-04.typ] it self → itself
 - [chapter-04.typ] it self → itself
 - [chapter-05.typ] it self → itself
-- [chapter-05.typ] Zach . → Zech
+- [chapter-05.typ] 7 → 
 - [chapter-05.typ] Joh . → John
 - [chapter-05.typ] it self → itself
 - [chapter-05.typ] Eccles . → Eccl
@@ -129,6 +136,7 @@
 - [chapter-06.typ] our selves → ourselves
 - [chapter-06.typ] it self → itself
 - [chapter-06.typ] Joh . → John
+- [chapter-06.typ] be fell → befell
 - [chapter-06.typ] it self → itself
 - [chapter-06.typ] it self → itself
 - [chapter-06.typ] Psal . → Ps
@@ -142,6 +150,7 @@
 - [chapter-06.typ] ver → v
 - [chapter-06.typ] ver → v
 - [chapter-06.typ] ver → vv
+- [chapter-06.typ] Ver . → Verse
 - [chapter-06.typ] ver → v
 - [chapter-06.typ] it self → itself
 - [chapter-06.typ] it self → itself
@@ -155,10 +164,12 @@
 - [chapter-06.typ] it self → itself
 - [chapter-06.typ] what ever → whatever
 - [chapter-06.typ] it self → itself
+- [chapter-06.typ] hi sownheart → his own heart
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] ver → v
 - [chapter-07.typ] Ephes . → Eph
 - [chapter-07.typ] Psalm . → Ps
+- [chapter-07.typ] ver → v
 - [chapter-07.typ] such → such as
 - [chapter-07.typ] Chron . → Chr
 - [chapter-07.typ] Isa . → Isaiah
@@ -166,9 +177,11 @@
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
+- [chapter-07.typ] ver → vv
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
+- [chapter-07.typ] ver → v
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] Eccles . → Eccl
 - [chapter-07.typ] it self → itself
@@ -181,6 +194,9 @@
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] Ephes . → Eph
 - [chapter-08.typ] her self → herself
+- [chapter-08.typ] vers → v
+- [chapter-08.typ] ver → v
+- [chapter-08.typ] ver → v
 - [chapter-08.typ] every where → everywhere
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] it self → itself
@@ -192,6 +208,7 @@
 - [chapter-08.typ] Tit . → Titus
 - [chapter-08.typ] Ephes . → Eph
 - [chapter-08.typ] it self → itself
+- [chapter-08.typ] ver → v
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] Eccles . → Eccl
@@ -202,6 +219,7 @@
 - [chapter-09.typ] When ever → Whenever
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] vers → v
 - [chapter-09.typ] What ever → Whatever
 - [chapter-09.typ] what ever → whatever
 - [chapter-09.typ] it self → itself
@@ -222,6 +240,7 @@
 - [chapter-09.typ] our selves → ourselves
 - [chapter-09.typ] your selves → yourselves
 - [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] 7 → 17
 - [chapter-09.typ] Psal . → Ps
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
@@ -234,6 +253,8 @@
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] thy self → thyself
+- [chapter-10.typ] ver → vv
+- [chapter-10.typ] ver → v
 - [chapter-10.typ] Matth . → Matt
 - [chapter-10.typ] our selves → ourselves
 - [chapter-10.typ] Joh . → John
@@ -241,6 +262,7 @@
 - [chapter-10.typ] King . → Kgs
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
+- [chapter-10.typ] & c → etc
 - [chapter-10.typ] ver → vv
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] Chap . → Chapter
@@ -253,11 +275,15 @@
 - [chapter-11.typ] it self → itself
 - [chapter-11.typ] 33 → 23:3
 - [chapter-11.typ] 21 → 
+- [chapter-11.typ] ver → v
 - [chapter-11.typ] some what → somewhat
+- [chapter-11.typ] 35 → 25
 - [chapter-11.typ] it self → itself
 - [chapter-11.typ] her self → herself
 - [chapter-11.typ] her self → herself
 - [chapter-11.typ] Coloss . → Col
+- [chapter-11.typ] ver → v
+- [chapter-11.typ] ver → v
 - [chapter-12.typ] it self → itself
 - [chapter-12.typ] it self → itself
 - [chapter-12.typ] Ephes . → Eph
@@ -269,6 +295,7 @@
 - [chapter-12.typ] our selves → ourselves
 - [chapter-12.typ] its self → itself
 - [chapter-12.typ] King . → Kgs
+- [chapter-12.typ] ver → vv
 - [chapter-12.typ] it self → itself
 - [chapter-12.typ] it self → itself
 - [chapter-12.typ] Ephes . → Eph
@@ -286,13 +313,16 @@
 - [chapter-13.typ] Matth . → Matt
 - [chapter-13.typ] Psa . → Ps
 - [chapter-13.typ] What ever → Whatever
+- [chapter-13.typ] ver → v
 - [chapter-13.typ] King . → Kgs
 - [chapter-13.typ] Psa . → Ps
 - [chapter-13.typ] what ever → whatever
 - [chapter-13.typ] Chron . → Chr
+- [chapter-13.typ] . Yields → yields
 - [chapter-13.typ] Joh . → John
 - [chapter-13.typ] . chap → ch
 - [chapter-13.typ] it self → itself
+- [chapter-13.typ] vers → vv
 - [chapter-13.typ] 27 → 2
 - [chapter-13.typ] ju → in
 - [chapter-13.typ] Psal . → Ps
@@ -307,12 +337,19 @@
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] Matth . → Matt
 - [chapter-13.typ] Matth . → Matt
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] . Of → of
 - [chapter-13.typ] Act . → Acts
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] ver → v
 - [chapter-13.typ] Psa . → Ps
 - [chapter-13.typ] Psal . → Ps
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] Chron . → Chr
+- [chapter-14.typ] ver → vv
 - [chapter-14.typ] it self → itself
+- [chapter-14.typ] ver → v
+- [chapter-14.typ] for sake → forsake
 - [chapter-14.typ] Joh . → John
 - [chapter-14.typ] my self → myself
 - [chapter-14.typ] my self → myself
@@ -321,15 +358,18 @@
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] it self → itself
+- [chapter-15.typ] . And → and
 - [chapter-15.typ] Joh . → John
 - [chapter-15.typ] Vers . → Verse
 - [chapter-15.typ] it self → itself
 - [chapter-15.typ] as → 
+- [chapter-15.typ] ver → v
 - [chapter-15.typ] Chron . → Chr
+- [chapter-15.typ] vers → 
 - [chapter-15.typ] streight way forgeteth → straightway forgetteth
 - [chapter-15.typ] them → him
 - [chapter-15.typ] Luk . → Luke
-- [chapter-15.typ] mean time → meantime
+- [chapter-15.typ] mean time a → meantime as
 - [chapter-15.typ] through - → thorough
 - [chapter-15.typ] my self → myself
 - [chapter-15.typ] Psal . → Ps
@@ -337,6 +377,7 @@
 - [chapter-15.typ] Matth . → Matt
 - [chapter-15.typ] use → use of
 - [chapter-15.typ] it self → itself
+- [chapter-15.typ] chap . → 
 - [chapter-15.typ] What ever → Whatever
 - [chapter-15.typ] it self → itself
 - [chapter-16.typ] 59 → 39
@@ -348,7 +389,8 @@
 - [chapter-16.typ] What ever → Whatever
 - [chapter-16.typ] its → it is
 - [chapter-16.typ] Mat . → Matt
-- [chapter-16.typ] to day → today
+- [chapter-16.typ] ver → v
+- [chapter-16.typ] verse → :
 - [chapter-16.typ] it self → itself
 - [chapter-17.typ] it self → itself
 - [chapter-17.typ] it self → itself
@@ -357,6 +399,7 @@
 - [chapter-17.typ] where ever → wherever
 - [chapter-17.typ] Where ever → Wherever
 - [chapter-17.typ] what ever → whatever
+- [chapter-17.typ] 17 → 19
 - [chapter-17.typ] every where → everywhere
 - [chapter-17.typ] it self → itself
 - [chapter-17.typ] it self → itself
@@ -370,6 +413,7 @@
 - chuseth → chooseth (×5)
 - an → a
 - dispossest → dispossessed
+- diuest → divest
 - endeavoureth → endeavoreth
 - intangleth → entangleth
 - intermedleth → intermeddleth
@@ -380,15 +424,25 @@
 
 ## punctuation
 
+- [preface.typ] & → and
+- [preface.typ] & → and
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → ,
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
 - [chapter-01.typ] . → :
 - [chapter-01.typ] . → 
 - [chapter-01.typ] ▪ → .
+- [chapter-01.typ] & → and
 - [chapter-01.typ] . → 
 - [chapter-01.typ] . → :
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → :
@@ -396,6 +450,8 @@
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → ,
 - [chapter-02.typ] . → :
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
@@ -412,6 +468,7 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
@@ -424,6 +481,7 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] ▪ → 
+- [chapter-03.typ] . → ,
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
@@ -434,6 +492,7 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] & → and
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
@@ -450,7 +509,8 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
-- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → 11:
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
@@ -465,6 +525,7 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
@@ -518,6 +579,7 @@
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
+- [chapter-06.typ] . → ,
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
@@ -530,6 +592,7 @@
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] ▪ → ,
+- [chapter-06.typ] . → :
 - [chapter-06.typ] . → ,
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
@@ -552,11 +615,13 @@
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
+- [chapter-06.typ] . → ,
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
@@ -569,6 +634,7 @@
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → :
+- [chapter-07.typ] . → ,
 - [chapter-07.typ] ▪ → ,
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → :
@@ -632,6 +698,7 @@
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
@@ -738,6 +805,39 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ;
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ;
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ,
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
@@ -749,32 +849,7 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
+- [chapter-10.typ] & → and
 - [chapter-10.typ] . → :
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
@@ -791,6 +866,7 @@
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
+- [chapter-11.typ] . → ,
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
@@ -819,6 +895,7 @@
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → :
+- [chapter-12.typ] & → and
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
@@ -832,6 +909,7 @@
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
+- [chapter-12.typ] . → ,
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
@@ -842,6 +920,9 @@
 - [chapter-12.typ] ; → ,
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] . → ,
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
@@ -855,6 +936,7 @@
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
+- [chapter-13.typ] . → ,
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
@@ -898,6 +980,7 @@
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
 - [chapter-13.typ] , → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
@@ -905,7 +988,6 @@
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
-- [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
@@ -915,6 +997,10 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] & → and
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
@@ -927,6 +1013,7 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
@@ -934,8 +1021,15 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-14.typ] . → 
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
 - [chapter-14.typ] ▪ → ,
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
 - [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → ,
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
@@ -948,6 +1042,7 @@
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
+- [chapter-14.typ] & → and
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
@@ -961,6 +1056,7 @@
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
+- [chapter-14.typ] & → and
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
@@ -980,9 +1076,14 @@
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
+- [chapter-15.typ] & → and
+- [chapter-15.typ] & → and
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
@@ -992,35 +1093,55 @@
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
+- [chapter-15.typ] & → and
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
 - [chapter-15.typ] . → 
 - [chapter-15.typ] . → :
-- [chapter-15.typ] . → 
-- [chapter-15.typ] . → :
+- [chapter-16.typ] & → and
 - [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → :
-- [chapter-16.typ] . → 
-- [chapter-16.typ] . → :
-- [chapter-16.typ] . → :
-- [chapter-16.typ] . → 
-- [chapter-16.typ] . → :
-- [chapter-16.typ] . → :
-- [chapter-16.typ] . → 
-- [chapter-16.typ] . → :
-- [chapter-16.typ] . → 
-- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] & → and
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
 - [chapter-16.typ] ▪ → ,
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
@@ -1029,6 +1150,7 @@
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
 - [chapter-17.typ] ▪ → .
+- [chapter-17.typ] . → :
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
 - [chapter-17.typ] ▪ → ,
@@ -1044,6 +1166,7 @@
 - [chapter-17.typ] . → :
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
+- [chapter-17.typ] & → and
 - [chapter-17.typ] . → :
 - [chapter-17.typ] . → 
 - [chapter-17.typ] . → :
@@ -1054,7 +1177,23 @@
 
 ## case
 
+- Which → which (×5)
+- As → as (×3)
+- But → but (×3)
+- And → and (×2)
+- He → he (×2)
 - Colt → colt
+- Come → come
+- For → for
+- Is → is
+- Or → or
+- Takes → takes
+- Those → those
+- Though → though
+- Verse → verse
+- What → what
+- Whether → whether
+- Without → without
 
 ## spelling
 
@@ -1064,6 +1203,7 @@
 - lyes → lies (×17)
 - woful → woeful (×15)
 - labour → labor (×14)
+- chap → ch (×13)
 - poyson → poison (×13)
 - publick → public (×13)
 - terrour → terror (×13)
@@ -1088,6 +1228,7 @@
 - defence → defense (×5)
 - dependance → dependence (×5)
 - enquire → inquire (×5)
+- Chap → ch (×4)
 - Sion → Zion (×4)
 - born → borne (×4)
 - burthen → burden (×4)
@@ -1189,6 +1330,7 @@
 - God → God's
 - Honour → Honor
 - Ingagements → Engagements
+- It → Its
 - Kings → King's
 - Labours → Labors
 - Lanb → Lamb
@@ -1210,6 +1352,7 @@
 - Warriour → Warrior
 - Withs → Withes
 - Woful → Woeful
+- Zach → Zech
 - a → at
 - aboad → abode
 - abridgement → abridgment
@@ -1231,7 +1374,6 @@
 - burthensome → burdensome
 - cabable → capable
 - centre → center
-- chap → ch
 - chearfulness → cheerfulness
 - chearing → cheering
 - choaked → choked
@@ -1281,6 +1423,7 @@
 - fafe → safe
 - faith → saith
 - falshood → falsehood
+- farther → further
 - farthering → furthering
 - fewds → feuds
 - fiercerness → fierceness
@@ -1311,6 +1454,7 @@
 - intensness → intenseness
 - inticements → enticements
 - irreconcileable → irreconcilable
+- it → its
 - joyned → joined
 - joynt → joint
 - judgements → judgments
@@ -1400,6 +1544,7 @@
 - the → he
 - thred → thread
 - threeds → threads
+- through → thorough
 - toyle → toil
 - toyling → toiling
 - travelled → traveled
@@ -1422,6 +1567,7 @@
 - warthful → wrathful
 - wearyed → wearied
 - werein → wherein
+- whith → with
 - whon → whom
 - withs → withes
 - won → own
