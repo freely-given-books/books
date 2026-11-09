@@ -37,6 +37,38 @@ The TEI is the master. `chapters/typ` is where the user reviews, but every
 review edit is folded back into the TEI by rebuilding, so the two never
 disagree. `verify.py` proves that.
 
+## "Do this book": the runbook
+
+When the user names a book and says to do it, run these stages in order without stopping,
+following `EDITION-RULES.md` (read it first). Stop only for its section 6 (a real choice of
+base, the wording batch, grammar modernization, the cover colour, sign-off). Work on a books
+branch named for the book; long job outputs go in `~/Projects/fgbooks/work/<book>/`.
+
+1. **Sources.** The TCP (or CCEL ThML), Monergism and sermonindex witnesses, and scans of the
+   base printing and of the author's other lifetime editions (archive.org
+   `bim_early-english-books-*`), each cached under `work/<book>/scan-<year>/` with a README.
+   Choose the base by the rules' section 1; stop only if it leaves a real choice.
+2. **OCR.** Kraken + Tesseract on each scan (`./fgb ocr run`, one GPU job at a time; a
+   `run_ocr.sh` in the work folder runs them in sequence).
+3. **The as-printed layer.** `./fgb collate` the TCP against the base printing's OCR, read the
+   candidates on the page (`./fgb crops`), slips into the supplement's `<corrections>`. Every
+   gap and every Greek/Hebrew passage read from the page images into `GAP_FIXES`.
+4. **Layout.** `editorial.py` (`LAYOUT`, the house typesetting), machine pass, `chapters/typ`.
+5. **The reading edition.** The book's `SPELLING` for what the machine pass leaves, elided
+   -'d forms, `refstyle.py`; a later editor's text (Goold, CCEL) compared for wording: the
+   real wording changes listed for the editor in one batch, the rest decided by the rules.
+6. **Outline levels.** `./fgb outline BOOK` (a later edition with distinct marks as `witness`
+   in `source/outline.json`), settle each "?" by sense in `outline.json`, `--write`, sync.
+7. **Proofread** by the policy (`./fgb proof`, `gapmark`, `marked`; colophon's CLAUDE.md).
+8. **Build and clean.** `./fgb build`; clear every `page:` warning (a heading at a page's foot,
+   a short chapter ending) and stray footnote before the draft; check print, EPUB, reader and
+   the site's Then & Now; no "non-Latin alphabet" placeholder anywhere.
+9. **Draft** to Nextcloud, the site preview refreshed; the cover's colour from the editor; then
+   the editor's review, ready mark and sign-off.
+
+Every question the editor answers along the way goes into `EDITION-RULES.md` in the same
+branch, so the next book does not ask it.
+
 ## Setup
 
 For the user, and for routine work, `./fgb` at the repo root wraps

@@ -101,6 +101,8 @@ paragraphs); its numerals stay as printed labels (1., I., First), never regenera
   own lines;
 - a list sits one step in, under the point it belongs to, never left of it; half a line above and
   below;
+- levels are assigned by `./fgb outline` (colophon), with a later edition's distinct marks
+  (Goold's 1. (1.) [1.] 1st.) as evidence where one exists; only its "?" places are judged;
 - a deep outline (three levels or more) also gets edition headings over its main parts, in the
   author's or the contents page's words (Divine Cordial, mock-up "B").
 
@@ -116,7 +118,8 @@ is dropped.
 title (Watson): bold, centred under "Chapter N", never doubled with the printed "CHAP. II.".
 
 **Pages (print):** every footnote on its marker's page; no heading at a page's foot; no chapter
-ending on 2-4 lines; no widow lines.
+ending on 2-4 lines; no widow lines. `./fgb build` lists the first two as `page:` warnings;
+clear them before a draft goes to the editor.
 
 **Every output alike:** print, EPUB, reader and the site's Then & Now show every feature before
 a book goes to the editor.
