@@ -48,7 +48,8 @@
   title-y: 0.85in,
   seal: press-seal,
   title: [Owen on Sin],
-  subtitle: [Of Temptation \ The Mortification of Sin],
+  // the two books' titles: a size above the house's 11pt subtitle, as they name the volume's contents
+  subtitle: text(size: 13pt)[Of Temptation \ The Mortification of Sin],
   author: [John Owen],
   spine-title: [Owen on Sin],
   spine-author: [Owen],
