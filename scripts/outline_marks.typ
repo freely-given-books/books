@@ -71,8 +71,8 @@
   }
 }
 
-#let spaced(level, content) = context block(
-  above: par.spacing + space-before.at(calc.min(level, 4)), below: par.spacing, content)
+// a little space before a point (beyond the paragraph spacing), then the paragraph
+#let spaced(level, content) = { context v(par.spacing + space-before.at(calc.min(level, 4)), weak: true); content }
 
 #let plain-par(body) = par(first-line-indent: (amount: 12pt, all: true), fresh + body)
 
@@ -80,9 +80,9 @@
 //   an ordinal word: a grey mark before it naming the level (the top level's word in small caps);
 //   a figure: at a set-in level, a plain 1. restyled to the level's shape (Watson's figures);
 //     otherwise the level its shape names (Goold's marks) - and the space before the point.
-#let point(level, body) = {
+#let point(level, body, original: none) = {
   let o = opening(body)
-  if o == none { return block(plain-par(body)) }
+  if o == none { return plain-par(body) }
   if o.at(0) == "figure" {
     let f = o.at(1)
     let shaped = f.captures.at(0) != none or f.captures.at(2) != none
@@ -90,23 +90,20 @@
     if level != none and not shaped and level > 0 {
       let n = int(f.captures.at(1))
       return spaced(lv, {
-        show regex("^\\d{1,2}\\.(\\s|,)"): it => mark-text(lv, n) + it.text.slice(it.text.position(".") + 1)
+        show regex("^\\d{1,2}\\.(\\s|,|$)"): it => mark-text(lv, n) + it.text.slice(it.text.position(".") + 1)
         plain-par(body)
       })
     }
-    return spaced(lv, plain-par(body))
+    return spaced(lv, if original != none { original } else { plain-par(body) })
   }
   let word = o.at(1)
   let key = lower(word)
   let lv = if level == none { 0 } else { level }
   let k = calc.min(lv, 4)
-  context {
-    let c = counts.get()
-    let n = if key == "lastly" { c.at(k) + 1 } else { ORDINALS.at(key) }
-    show regex("^(?i:" + word + ")"): it => if lv == 0 { smallcaps(it) } else { it }
-    spaced(lv, par(first-line-indent: (amount: 12pt, all: true),
-      [#box(text(fill: luma(90), mark-text(lv, n)))<omark>] + h(0.35em) + body))
-  }
+  let num = c => if key == "lastly" { c.at(k) + 1 } else { ORDINALS.at(key) }
+  show regex("^(?i:" + word + ")"): it => if lv == 0 { smallcaps(it) } else { it }
+  spaced(lv, par(first-line-indent: (amount: 12pt, all: true),
+    [#box(text(fill: luma(90), context mark-text(lv, num(counts.get()))))<omark>] + h(0.35em) + body))
   counts.update(c => {
     let n = if key == "lastly" { c.at(k) + 1 } else { ORDINALS.at(key) }
     let out = c
@@ -125,6 +122,6 @@
   }
   // a top-level paragraph that opens with an ordinal or a figure (a made paragraph opens
   // with a mark or `fresh`, so it is not taken again)
-  show par: it => if opening(it.body) != none { point(none, it.body) } else { it }
+  show par: it => if opening(it.body) != none { point(none, it.body, original: it) } else { it }
   doc
 }
