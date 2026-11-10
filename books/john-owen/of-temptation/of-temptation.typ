@@ -1,4 +1,5 @@
 #import "@local/fgbooks:0.14.0": *
+#import "../../../scripts/outline_marks.typ": outline-marks
 
 #show: book.with(
   title: [Of Temptation],
@@ -17,6 +18,10 @@
   ],
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
 )
+
+// the outline: every level full width, each numbered point marked by its level and given
+// a little space (scripts/outline_marks.typ; the editor's choice, 2026-11-09)
+#show: outline-marks
 
 // Owen's summary under each chapter's title (the TEI's <argument>, the book's only
 // inset block): a line's space before the chapter's first paragraph.
