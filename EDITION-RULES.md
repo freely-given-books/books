@@ -56,12 +56,13 @@ What the finished books show (counted from their TEIs, 2026-11-08):
 | --- | --- | --- |
 | letter forms | ſ → s, vv → w, u/v, i/j, Ʋ → U | machine |
 | spelling | approueth → approveth, shew → show, choyce → choice, weakned → weakened, terrour → terror; American: labour → labor, defence → defense, centre → center, Saviour → Savior | machine + book's `SPELLING`; any old spelling with a plain modern form is modernized by default, in American spelling (2026-11-08; All of Grace and Indwelling Sin; released British-spelled books change at their next revision) |
-| compounds | my self → myself, our selves → ourselves, any thing → anything | |
+| compounds | it self → itself, our selves → ourselves, what ever → whatever, to day → today | "any thing", "every one" kept as printed (Owen's books, 2026-11-09) |
 | elided past forms | fill'd → filled, lay'n → lain, blest → blessed | 2026-11-08 |
 | capitals | mid-sentence nouns lowercased (Grace → grace); drop-cap words (HAving → Having) | |
 | God | always capitalized when it means God | 2026-11-01 |
 | Scripture references | Heb. xii. 5 → Heb 12:5; spelled out where the sentence reads it ("in Romans 8:28"); v., vv., ch. | 2026-10-27 |
-| printer's misprints | be → he where the sense needs it, a wrong verse number fixed from the page | with evidence |
+| printer's misprints | be → he where the sense needs it, a wrong verse number fixed from the page | with evidence; a reference whose verse is not the one quoted is corrected to it (check every quotation against its verse, italic ones too: Indwelling Sin had 12) |
+| & | → and | Indwelling Sin, Of Temptation (2026-11-09) |
 | &c. | → etc. where the book sets `EXPAND_ETC` | per book |
 
 A spelling review page lists the book's remaining old spellings with these defaults already standing
@@ -83,7 +84,9 @@ only overrides. Claude settles the unclear ones; nothing is left waiting on the 
 **Wording, only where really needed** (each a decision, listed for the editor in one batch):
 a word that now means something else or misleads ("let" = hinder), a construction that reads as a
 mistake today, a word lost to the page. Look at Goold's reading first; take whichever reads
-better and stays closer to the author. Of Temptation's looser rule (whichever reads better in
+better and stays closer to the author. Where the base printing slips in sense and the author's
+own earlier edition (or Goold) has the word that makes sense, take it, listed for the editor
+(Indwelling Sin: Saviours or *Believers* → *Deliverers*, 2026-11-09). Of Temptation's looser rule (whichever reads better in
 modern English) stays that book's.
 
 **Grammar modernization** (hath → has, thou → you, -eth → -s) is a per-book decision, off by
@@ -97,9 +100,16 @@ revision history (2026-11-08); colophon makes these the defaults.
 **Follow the print's structure.** Its paragraph breaks stay (Gouge's "teacheth us, that" doctrine
 paragraphs); its numerals stay as printed labels (1., I., First), never regenerated.
 
-**Numbered outlines** (points, sub-points, reasons):
-- each level set in 2em further than the one above, clearly more than the 12pt first-line
-  indent; a set-in paragraph keeps its first-line indent;
+**Numbered outlines** (points, sub-points, reasons), the outline marks layout (the editor's
+choice, 2026-11-09, over indents, first-line steps, margin rules and styled ordinals):
+- every level full width, no set-in columns; each numbered point opens with a mark naming its
+  level, `1.` / `(1.)` / `[1.]` / `1st.` as Goold marked Owen, and a little space before it
+  (6pt at the top level, 3pt, then 2pt); the top level's ordinal word in small capitals;
+- the author's ordinal words ("First,") keep their words and get the mark in grey before them;
+  printed figures the same at every depth (Watson's "1.") are restyled to the level's shape;
+  a text that already prints distinct marks (Goold's) keeps them and gains the spacing;
+- print: `#show: outline-marks` (`scripts/outline_marks.typ`); ebook: `OUTLINE_MARKS = True`;
+  chapters/typ and the TEI keep the levels as `./fgb outline` sets them;
 - the level comes from the numbering (I. › 1. › (1.) › [1] › a.), settled by sense where the
   numbering is ambiguous; a run-in series ("…: 1. The Word preached. 2. …") is split onto its
   own lines;
@@ -118,23 +128,35 @@ genealogy or tree is a diagram, drawn in print, EPUB and reader alike.
 clause or name they gloss, not on a point's number; a note that only repeats the point's number
 is dropped.
 
-**Chapter summaries** (Owen's arguments): inset, a size smaller, ragged right. A printed chapter
+**Chapter summaries** (Owen's arguments): inset, a size smaller, ragged right, a line's space
+before the chapter's first paragraph (2026-11-09). A printed chapter
 title (Watson): bold, centred under "Chapter N", never doubled with the printed "CHAP. II.".
 
 **Pages (print):** every footnote on its marker's page; no heading at a page's foot; no chapter
 ending on 2-4 lines; no widow lines. `./fgb build` lists the first two as `page:` warnings;
 clear them before a draft goes to the editor.
 
+**Sign-offs:** each part on its own line set right; a valediction that ends in the name in
+capitals ("… Devotion. THOMAS WATSON.") sets the name a line of its own (`SIGNATURE_NAME_LINE`).
+
 **Every output alike:** print, EPUB, reader and the site's Then & Now show every feature before
 a book goes to the editor.
 
-## 5. Front and back matter
+## 5. Proofread
+
+The house routine (`proof/`): Qwen flags small-word slips, the gap marker scores every word;
+every flag is settled against the base printing and its witnesses; the top 15% of sentences by
+score and a random 5% are read. The paragraphs Qwen cannot answer (long ones) are read in full,
+and every reference's quotation is checked against its verse. A second random 5% is the
+confidence check before the editor's reading.
+
+## 6. Front and back matter
 
 - Publisher page: the printed edition, "spelling modernized", and the transcription used (e.g.
   EEBO-TCP A53712). No method detail (2026-11-02).
 - The print's title page and contents are not reproduced; the edition makes its own.
 
-## 6. What still goes to the editor
+## 7. What still goes to the editor
 
 Only these stop a book:
 
