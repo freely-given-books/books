@@ -65,4 +65,9 @@
   #include "chapters/typ/chapter-13.typ"
 ]
 
-#include "chapters/typ/chapter-14.typ"
+// chapter 14's last lines would run onto a page of their own: its letter spacing a
+// little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/chapter-14.typ"
+]
