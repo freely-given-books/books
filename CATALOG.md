@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.11.08
+# Freely Given Books: release 2026.11.10
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -19,7 +19,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # nothing
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.41.0.
+Built with colophon 0.43.0.
 
 | Book | Author | Version | Signed off |
 | --- | --- | --- | --- |
@@ -28,15 +28,17 @@ Built with colophon 0.41.0.
 | [All of Grace](#all-of-grace) | Charles Spurgeon | v16 | 2026-11-03 |
 | [Grace Abounding to the Chief of Sinners](#grace-abounding-to-the-chief-of-sinners) | John Bunyan | v2 | 2026-11-03 |
 | [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | v14 | 2026-11-03 |
-| [Of Temptation](#of-temptation) | John Owen | v1.1 (between Lulu revisions) | 2026-11-08 |
+| [Indwelling Sin](#indwelling-sin) | John Owen | v1 | 2026-11-10 |
+| [Of Temptation](#of-temptation) | John Owen | v2 | 2026-11-10 |
+| [Owen on Sin](#owen-on-sin) | John Owen | v1 | 2026-11-10 |
 | [The Death of Death in the Death of Christ](#the-death-of-death-in-the-death-of-christ) | John Owen | v1 | 2026-11-03 |
-| [The Mortification of Sin](#the-mortification-of-sin) | John Owen | v1 | 2026-11-03 |
+| [The Mortification of Sin](#the-mortification-of-sin) | John Owen | v2 | 2026-11-10 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | v9 | 2026-11-03 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | v14 | 2026-11-03 |
 | [The Crook in the Lot](#the-crook-in-the-lot) | Thomas Boston | v1 | 2026-11-03 |
 | [Precious Remedies Against Satan’s Devices](#precious-remedies-against-satans-devices) | Thomas Brooks | v2 | 2026-11-03 |
 | [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | v7.1 (between Lulu revisions) | 2026-11-08 |
-| [A Divine Cordial](#a-divine-cordial) | Thomas Watson | v1 | 2026-11-08 |
+| [A Divine Cordial](#a-divine-cordial) | Thomas Watson | v2 | 2026-11-10 |
 | [Of Domestical Duties](#of-domestical-duties) | William Gouge | v2 | 2026-11-03 |
 | [Christian Economy](#christian-economy) | William Perkins | v3.2 (between Lulu revisions) | 2026-11-08 |
 
@@ -144,20 +146,40 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - changed in wording (emendations): 63 words (0.1%); 20 words added, 13 removed
 - gaps in the transcription: none
 
+## Indwelling Sin
+
+Owen's Indwelling Sin from the second edition (London, 1675), EEBO-TCP A53712, its gaps restored from the page and the transcription's slips corrected, with the first edition (1668) and Goold's text (1850-53) as witnesses.
+
+- folder: `books/john-owen/indwelling-sin`
+- version v1: tag `john-owen/indwelling-sin/v1`, signed off 2026-11-10 by Courtney
+- template: fgbooks 0.14.0
+- source: EEBO-TCP A53712: John Owen, The Nature, Power, Deceit, and Prevalency of the Remainders of Indwelling-Sin in Believers (London: printed for Thomas Cockerill, 1675), the second edition, the last in Owen's lifetime: the text <https://github.com/textcreationpartnership/A53712>, `source/A53712.tcp.xml` (sha256 `87a10f8feec4f69d…`)
+- source: The transcription's keying slips corrected to the 1675 page, each read on the page image (the TCP file untouched) <https://archive.org/details/bim_early-english-books-1641-1700_the-nature-power-decei_owen-john_1675>, `source/A53712.supplied.xml` (sha256 `2260217c597f9f24…`)
+- source: CCEL ThML: John Owen, Indwelling Sin, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53): a witness, and the guide to the outline levels <https://www.ccel.org/ccel/o/owen/indwellingsin.xml>, `source/indwellingsin.ccel.witness.xml` (sha256 `d96a21545e33e34e…`)
+- witness: The 1675 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP: the gaps restored (Greek and Hebrew from the page) and the keying slips <https://archive.org/details/bim_early-english-books-1641-1700_the-nature-power-decei_owen-john_1675>
+- witness: The first edition (London: Elizabeth Calvert, 1668), read with Kraken and Tesseract: Owen's revisions checked (none of substance) and the 1675 printer's slips settled <https://archive.org/details/bim_early-english-books-1641-1700_the-nature-power-decei_owen-john_1668>
+- files: `indwelling-sin-v1.pdf`, `indwelling-sin-v1-cover.pdf`, `indwelling-sin-v1-cover-front.png`, `indwelling-sin-v1-cover-front.png`, `indwelling-sin-v1.epub`, `indwelling-sin-v1-reader.html`, `indwelling-sin-v1-compare.html`
+
+Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
+
+- 88,925 printed words; 97.5% as printed
+- changed in form only (spelling, case, punctuation): 1,658 words (1.9%)
+- grammar modernized (hath -> has, thou -> you): 32 words (0.0%)
+- changed in wording (emendations): 491 words (0.6%); 7 words added, 228 removed
+- gaps in the transcription: 214, 214 restored, 0 left open
+
 ## Of Temptation
 
 Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.
 
 - folder: `books/john-owen/of-temptation`
-- version v1.1: tag `john-owen/of-temptation/v1.1`, signed off 2026-11-08 by Courtney
+- version v2: tag `john-owen/of-temptation/v2`, signed off 2026-11-10 by Courtney
 - template: fgbooks 0.14.0
-- a point version: an improved ebook after Lulu revision 1; the print PDFs are that revision's (v1, built from its tag)
-- sign-off note: Print: the same as v1, page for page (Lulu revision 1).
 - source: EEBO-TCP A90277: John Owen, Of Temptation: the Nature and Power of It (Oxford: Leon. Lichfield for Tho. Robinson, 1658), the first edition: the text <https://github.com/textcreationpartnership/A90277>, `source/A90277.tcp.xml` (sha256 `9270022961e61afb…`)
 - source: CCEL ThML: John Owen, Of Temptation, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53), a witness and the modernization layer's guide: source/wording-decisions.md <https://www.ccel.org/ccel/o/owen/temptation.xml>, `source/temptation.ccel.witness.xml` (sha256 `6b5231f59965fe7b…`)
 - witness: The 1721 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP (work/of-temptation/collate-3m): the TCP's keying slips, source/errata.md <https://archive.org/details/bim_eighteenth-century_of-temptation-the-natur_owen-john_1721>
 - witness: The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the printing CCEL follows <https://archive.org/details/worksofjohnowe185006owen>
-- files: `of-temptation-v1.1.epub`, `of-temptation-v1.pdf`, `of-temptation-v1-cover.pdf`, `of-temptation-v1-cover-front.png`, `of-temptation-v1.1-reader.html`, `of-temptation-v1.1-compare.html`
+- files: `of-temptation-v2.pdf`, `of-temptation-v2-cover.pdf`, `of-temptation-v2-cover-front.png`, `of-temptation-v2-cover-front.png`, `of-temptation-v2.epub`, `of-temptation-v2-reader.html`, `of-temptation-v2-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -167,6 +189,17 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 - changed in wording (emendations): 1,046 words (3.2%); 176 words added, 338 removed
 - gaps in the transcription: 10, 10 restored, 0 left open
 - notes: 0 added by the editor, 5 printed notes left out
+
+## Owen on Sin
+
+Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback, Of Temptation first: each is the text of its own edition here, unchanged, with its own ebook and record of every change.
+
+- folder: `books/john-owen/owen-on-sin`
+- version v1: tag `john-owen/owen-on-sin/v1`, signed off 2026-11-10 by Courtney
+- template: fgbooks 0.14.0
+- a print volume, made from: john-owen/of-temptation v2 (`john-owen/of-temptation/v2`), john-owen/the-mortification-of-sin v2 (`john-owen/the-mortification-of-sin/v2`)
+- sign-off note: Made from: Of Temptation v2 (john-owen/of-temptation/v2); The Mortification of Sin v2 (john-owen/the-mortification-of-sin/v2).
+- files: `owen-on-sin-v1.pdf`, `owen-on-sin-v1-cover.pdf`, `owen-on-sin-v1-cover-front.png`
 
 ## The Death of Death in the Death of Christ
 
@@ -193,13 +226,13 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Owen's Of the Mortification of Sin in Believers in Goold's text (1850-53), as CCEL gives it, with two lines CCEL dropped and three slips corrected from Goold's printing, the 1668 second edition agreeing.
 
 - folder: `books/john-owen/the-mortification-of-sin`
-- version v1: tag `john-owen/the-mortification-of-sin/v1`, signed off 2026-11-03 by Courtney
+- version v2: tag `john-owen/the-mortification-of-sin/v2`, signed off 2026-11-10 by Courtney
 - template: fgbooks 0.14.0
 - source: CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53) <https://www.ccel.org/ccel/o/owen/mort.xml>, `source/mort.thml.xml` (sha256 `e3577b8e81583250…`)
 - source: EEBO-TCP A53715: Of the Mortification of Sin in Believers, the second edition (London, Nathanael Ponder, 1668), a witness: source/witness-report.md <https://github.com/textcreationpartnership/A53715>, `source/A53715.witness.xml` (sha256 `4603d4fd73838e69…`)
 - witness: The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), archive.org scan and OCR, the printing CCEL follows: source/witness-report.md <https://archive.org/details/worksofjohnowe185006owen>
 - witness: William H. Gross's modernized and annotated text (On the Wing, 2002, published by Monergism), read only to confirm passages; under copyright, not kept <https://www.monergism.com/>
-- files: `the-mortification-of-sin-v1.pdf`, `the-mortification-of-sin-v1-cover.pdf`, `the-mortification-of-sin-v1-cover-front.png`, `the-mortification-of-sin-v1-cover-front.png`, `the-mortification-of-sin-v1.epub`, `the-mortification-of-sin-v1-reader.html`, `the-mortification-of-sin-v1-compare.html`
+- files: `the-mortification-of-sin-v2.pdf`, `the-mortification-of-sin-v2-cover.pdf`, `the-mortification-of-sin-v2-cover-front.png`, `the-mortification-of-sin-v2-cover-front.png`, `the-mortification-of-sin-v2.epub`, `the-mortification-of-sin-v2-reader.html`, `the-mortification-of-sin-v2-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -323,14 +356,14 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost.
 
 - folder: `books/thomas-watson/a-divine-cordial`
-- version v1: tag `thomas-watson/a-divine-cordial/v1`, signed off 2026-11-08 by Courtney
+- version v2: tag `thomas-watson/a-divine-cordial/v2`, signed off 2026-11-10 by Courtney
 - template: fgbooks 0.14.0
 - source: EEBO-TCP A65292: A Divine Cordial, or, The Transcendent Priviledge of Those That Love God and Are Savingly Called (London, for Thomas Parkhurst, 1663) <https://github.com/textcreationpartnership/A65292>, `source/A65292.tcp.xml` (sha256 `b696a71fc48ffedf…`)
 - source: Corrections to the TCP transcription from the 1663 page images ("out" for "our", "dejected", Latin misprints in the TCP, among others) <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663>, `source/A65292.supplied.xml` (sha256 `658278afc8387c8e…`)
 - source: CCEL's text of A Divine Cordial, a reworded later modernization, kept as a check only <https://www.ccel.org/ccel/w/watson/cordial.xml>, `source/cordial.ccel.witness.xml` (sha256 `7b27f46b7deee948…`)
 - witness: The 1663 printing, archive.org scan (the copy TCP was keyed from), local OCR (Kraken and Tesseract) collated with the TCP; gaps, Greek and Hebrew, and the proofread's questions read on its page images <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663>
 - witness: The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161) <https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678>
-- files: `a-divine-cordial-v1.pdf`, `a-divine-cordial-v1-cover.pdf`, `a-divine-cordial-v1-cover-front.png`, `a-divine-cordial-v1-cover-front.png`, `a-divine-cordial-v1.epub`, `a-divine-cordial-v1-reader.html`, `a-divine-cordial-v1-compare.html`
+- files: `a-divine-cordial-v2.pdf`, `a-divine-cordial-v2-cover.pdf`, `a-divine-cordial-v2-cover-front.png`, `a-divine-cordial-v2-cover-front.png`, `a-divine-cordial-v2.epub`, `a-divine-cordial-v2-reader.html`, `a-divine-cordial-v2-compare.html`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 

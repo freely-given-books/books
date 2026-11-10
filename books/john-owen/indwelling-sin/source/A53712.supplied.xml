@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected to the 1675
+  print as the source is read (colophon/sources.py); the TCP file itself is
+  untouched.  Each was read on the 1675 page image (scan page numbers as in
+  work/indwelling-sin/ocr-1675) or settled by both OCR readings of it and the
+  1668 first edition before it was put here.
+
+  fix/@pb: the printed page.  before + tcp + after: the transcription's text
+  there (in one text node; any white space matches any white space), found
+  exactly once on that page.  print: what is printed in place of tcp (empty
+  tcp: words the transcription left out); white space at its ends stays
+  outside the seg.  evidence: kept in a comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected to the 1675
+    print (archive.org bim_early-english-books-1641-1700_the-nature-power-decei_owen-john_1675).</desc>
+    <fix pb="223" before="in no seasons, with " tcp="wht" print="what" after=""
+         evidence="p. 223 (scan 231): 'with what furniture of Grace soever'; 1675 Kraken 'wht', 1668 'what'; the TCP's gap after it stands for no letter"/>
+    <fix pb="256" before="in " tcp="s" print="a" after=""
+         evidence="p. 256 (scan 264): 'his iniquity in a peculiar manner', the a damaged at the gutter; 1668 'in a peculiar'"/>
+    <fix pb="8" before="" tcp="evils" print="evil" after=" is present"
+         evidence="p. 8 (scan 16): '(saith he) evil is present with me', Rom 7:21; both OCRs 'evil'"/>
+    <fix pb="39" before="satisfied, " tcp="that" print="than" after=" if he had"
+         evidence="p. 39 (scan 47): 'not one whit the more satisfied, than if he had received nothing'"/>
+    <fix pb="49" before="though it " tcp="would" print="wound" after=" it self"
+         evidence="p. 49 (scan 57): 'embrace any diversion, though it wound it self thereby'"/>
+    <fix pb="165" before="to make " tcp="on" print="one" after=" wise"
+         evidence="p. 165 (scan 173): 'the beauty and usefulness of the fruit to make one wise'"/>
+    <fix pb="253" before="then " tcp="in" print="is" after=" Satans time"
+         evidence="p. 253 (scan 261): 'then is Satans time to attempt a re-entrance'"/>
+    <fix pb="273" before="glory " tcp="of" print="to" after=" God"
+         evidence="p. 273 (scan 281): 'of bringiug glory to God' (bringiug as printed)"/>
+    <fix pb="293" before="" tcp="flutering" print="flattering" after=" him"
+         evidence="p. 293 (scan 301): 'flattering him with the lips, Psal. 78. 36.'"/>
+    <fix pb="297" before="most " tcp="proffigate" print="profligate" after=""
+         evidence="p. 297 (scan 305): 'than in the most profligate sinners in the World'"/>
+    <fix pb="22" before="for Grace; " tcp="not" print="nor" after=" will"
+         evidence="p. 22 (scan 30): 'for Grace; nor will it rise higher'; 1668 'nor' (wording check 2026-11-09)"/>
+    <fix pb="28" before="it was but out of " tcp="fight" print="sight" after=". It hath"
+         evidence="p. 28 (scan 36): 'out of ſight. It hath coverts'; 1668 'sight' (wording check 2026-11-09)"/>
+    <fix pb="28" before="retired out of " tcp="fight" print="sight" after=". It can"
+         evidence="p. 28 (scan 36): 'retired out of ſight. It can lie so close' (wording check 2026-11-09)"/>
+    <fix pb="29" before="strength " tcp="of" print="to" after=" the Law"
+         evidence="p. 29 (scan 37): 'encrease of ſtrength to the Law of ſin'; 1668 'to' (wording check 2026-11-09)"/>
+    <fix pb="32" before="look to it, " tcp="left" print="lest" after=""
+         evidence="p. 32 (scan 40): 'look to it, leſt their own hearts' (wording check 2026-11-09)"/>
+    <fix pb="32" before="properties of this " tcp="feat" print="seat" after=" and"
+         evidence="p. 32 (scan 40): 'properties of this ſeat and ſubject' (wording check 2026-11-09)"/>
+    <fix pb="138" before="heard, " tcp="lost" print="lest" after=" at any"
+         evidence="p. 138 (scan 146): Heb 2:1 'leſt at any time we ſhould let them ſlip' (wording check 2026-11-09)"/>
+    <fix pb="163" before="in vain is the " tcp="Not" print="Net" after=" spread"
+         evidence="p. 163 (scan 171): Prov 1:17 'in vain is the Net ſpread' (wording check 2026-11-09)"/>
+    <fix pb="185" before="kind, and that " tcp="i" print="is" after="; the"
+         evidence="p. 185 (scan 193): 'and that is the alleviation', the s cracked; 1668 'is' (wording check 2026-11-09)"/>
+    <fix pb="242" before="keeps up such a " tcp="favour" print="savour" after=" and relish"
+         evidence="p. 242 (scan 250): 'ſuch a ſavour and reliſh of them'; 1668 'savour' (wording check 2026-11-09)"/>
+    <fix pb="247" before="life, vigour, " tcp="favour" print="savour" after=", and"
+         evidence="p. 247 (scan 255): 'life, vigour, ſavour, and efficacy'; 1668 'savour' (wording check 2026-11-09)"/>
+    <fix pb="284" before="enemy; if " tcp="the" print="he" after=" will now"
+         evidence="p. 284 (scan 292): 'if he will now periſh by him'; 1668 'he' (wording check 2026-11-09)"/>
+    <fix pb="291" before="against these " tcp="course" print="courses" after=";"
+         evidence="p. 291 (scan 299): 'sets a damm against these courses'; 1668 'courses' (proofread 2026-11-09)"/>
+  </corrections>
+</supplement>

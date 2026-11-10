@@ -1,0 +1,1589 @@
+# Review decisions carried into the enriched TEI
+
+| kind | count |
+| --- | --- |
+| spelling | 812 |
+| punctuation | 756 |
+| italic | 443 |
+| spacing | 404 |
+| emendation | 388 |
+| level | 204 |
+| grammar | 32 |
+| case | 29 |
+| inset | 17 |
+| heading | 16 |
+| gap | 5 |
+
+## gap
+
+- [chapter-02.typ] medling → meddling
+- [chapter-06.typ] off → of it
+- [chapter-12.typ] fit → sit
+- [chapter-14.typ] fruitful → fruitful.
+- [chapter-17.typ] dangerous → dangerous.
+
+## emendation
+
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] ver → v
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] ver → v
+- [chapter-01.typ] it self → itself
+- [chapter-01.typ] ver → v
+- [chapter-01.typ] our selves → ourselves
+- [chapter-01.typ] our selves → ourselves
+- [chapter-01.typ] ver → v
+- [chapter-01.typ] . Of → of
+- [chapter-01.typ] what ever → whatever
+- [chapter-01.typ] mean time → meantime
+- [chapter-01.typ] hood - winkt → hoodwinked
+- [chapter-02.typ] Ephes . → Eph
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] What ever → Whatever
+- [chapter-02.typ] what ever → whatever
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] Where ever → Wherever
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] ver → v
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] applyes it self → applies itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] what ever → whatever
+- [chapter-02.typ] its self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-02.typ] it self → itself
+- [chapter-03.typ] every where → everywhere
+- [chapter-03.typ] Eccles . → Eccl
+- [chapter-03.typ] Matth . → Matt
+- [chapter-03.typ] & c → etc
+- [chapter-03.typ] its self → itself
+- [chapter-03.typ] its self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] what ever → whatever
+- [chapter-03.typ] our selves → ourselves
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] Colos . → Col
+- [chapter-03.typ] it self → itself
+- [chapter-03.typ] Psal . → Ps
+- [chapter-03.typ] vers → vv
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] where ever → wherever
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] What ever → Whatever
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] never the less → nevertheless
+- [chapter-04.typ] What ever → Whatever
+- [chapter-04.typ] our selves → ourselves
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] our selves → ourselves
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-04.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] 7 → 
+- [chapter-05.typ] Joh . → John
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] Eccles . → Eccl
+- [chapter-05.typ] thy self → thyself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] Ezech . → Ezek
+- [chapter-05.typ] what ever → whatever
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] our selves → ourselves
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] what ever → whatever
+- [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] is → it
+- [chapter-05.typ] thy self → thyself
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] 12 → 
+- [chapter-05.typ] Chap . → Chapter
+- [chapter-05.typ] lyen → lain
+- [chapter-05.typ] it self → itself
+- [chapter-05.typ] it self → itself
+- [chapter-06.typ] its self → itself
+- [chapter-06.typ] Eccles . → Eccl
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] Ephes . → Eph
+- [chapter-06.typ] 2 → 1
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] its self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] Cant . → Song
+- [chapter-06.typ] our selves → ourselves
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] Joh . → John
+- [chapter-06.typ] be fell → befell
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] Jam . → Jas
+- [chapter-06.typ] your selves → yourselves
+- [chapter-06.typ] any where → anywhere
+- [chapter-06.typ] ver → v
+- [chapter-06.typ] ver → v
+- [chapter-06.typ] ver → v
+- [chapter-06.typ] ver → vv
+- [chapter-06.typ] Ver . → Verse
+- [chapter-06.typ] ver → v
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] my self → myself
+- [chapter-06.typ] ver → v
+- [chapter-06.typ] Jam . → Jas
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] my self → myself
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] our selves → ourselves
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] what ever → whatever
+- [chapter-06.typ] it self → itself
+- [chapter-06.typ] hi sownheart → his own heart
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] ver → v
+- [chapter-07.typ] Ephes . → Eph
+- [chapter-07.typ] Psalm . → Ps
+- [chapter-07.typ] ver → v
+- [chapter-07.typ] such → such as
+- [chapter-07.typ] Chron . → Chr
+- [chapter-07.typ] Isa . → Isaiah
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] ver → vv
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] ver → v
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] Eccles . → Eccl
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] Ephes . → Eph
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] it self → itself
+- [chapter-07.typ] His . → Hos
+- [chapter-07.typ] it self → itself
+- [chapter-08.typ] Jam . → Jas
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] Ephes . → Eph
+- [chapter-08.typ] her self → herself
+- [chapter-08.typ] vers → v
+- [chapter-08.typ] ver → v
+- [chapter-08.typ] ver → v
+- [chapter-08.typ] every where → everywhere
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] our selves → ourselves
+- [chapter-08.typ] for saken → forsaken
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] Luk . → Luke
+- [chapter-08.typ] Epist . → Pet
+- [chapter-08.typ] Tit . → Titus
+- [chapter-08.typ] Ephes . → Eph
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] ver → v
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] it self → itself
+- [chapter-08.typ] Eccles . → Eccl
+- [chapter-08.typ] every where → everywhere
+- [chapter-08.typ] Joh . → John
+- [chapter-08.typ] our selves → ourselves
+- [chapter-08.typ] it self → itself
+- [chapter-09.typ] When ever → Whenever
+- [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] vers → v
+- [chapter-09.typ] What ever → Whatever
+- [chapter-09.typ] what ever → whatever
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] Jam . → Jas
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] it self → itself
+- [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] my self → myself
+- [chapter-09.typ] it self peculiary → itself peculiarly
+- [chapter-09.typ] Matth . → Matt
+- [chapter-09.typ] Cant . → Song
+- [chapter-09.typ] her self → herself
+- [chapter-09.typ] our selves → ourselves
+- [chapter-09.typ] your selves → yourselves
+- [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] 38 → 58
+- [chapter-09.typ] 7 → 17
+- [chapter-09.typ] Psal . → Ps
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] Ephes . → Eph
+- [chapter-10.typ] Ephes . → Eph
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] thy self → thyself
+- [chapter-10.typ] ver → vv
+- [chapter-10.typ] ver → v
+- [chapter-10.typ] Matth . → Matt
+- [chapter-10.typ] our selves → ourselves
+- [chapter-10.typ] Joh . → John
+- [chapter-10.typ] our selves → ourselves
+- [chapter-10.typ] King . → Kgs
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] Dent . → Deut
+- [chapter-10.typ] & c → etc
+- [chapter-10.typ] ver → vv
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] Chap . → Chapter
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] its self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] her self → herself
+- [chapter-10.typ] it self → itself
+- [chapter-10.typ] it self → itself
+- [chapter-11.typ] it self → itself
+- [chapter-11.typ] 33 → 23:3
+- [chapter-11.typ] 21 → 
+- [chapter-11.typ] ver → v
+- [chapter-11.typ] some what → somewhat
+- [chapter-11.typ] 35 → 25
+- [chapter-11.typ] it self → itself
+- [chapter-11.typ] her self → herself
+- [chapter-11.typ] her self → herself
+- [chapter-11.typ] Coloss . → Col
+- [chapter-11.typ] ver → v
+- [chapter-11.typ] ver → v
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] Ephes . → Eph
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] is → in
+- [chapter-12.typ] Joh . → John
+- [chapter-12.typ] Chap . → Chapter
+- [chapter-12.typ] our selves → ourselves
+- [chapter-12.typ] our selves → ourselves
+- [chapter-12.typ] its self → itself
+- [chapter-12.typ] King . → Kgs
+- [chapter-12.typ] ver → vv
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] Ephes . → Eph
+- [chapter-12.typ] itnot → it not
+- [chapter-12.typ] any where → anywhere
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] it self → itself
+- [chapter-12.typ] the → that
+- [chapter-13.typ] it self → itself
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] Eccles . → Eccl
+- [chapter-13.typ] Matth . → Matt
+- [chapter-13.typ] Psa . → Ps
+- [chapter-13.typ] What ever → Whatever
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] King . → Kgs
+- [chapter-13.typ] Psa . → Ps
+- [chapter-13.typ] what ever → whatever
+- [chapter-13.typ] Chron . → Chr
+- [chapter-13.typ] . Yields → yields
+- [chapter-13.typ] Joh . → John
+- [chapter-13.typ] . chap → ch
+- [chapter-13.typ] it self → itself
+- [chapter-13.typ] vers → vv
+- [chapter-13.typ] 27 → 2
+- [chapter-13.typ] ju → in
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] Vers . → Verse
+- [chapter-13.typ] David → the Psalmist
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] your selves → yourselves
+- [chapter-13.typ] Psal . → Ps
+- [chapter-13.typ] it self → itself
+- [chapter-13.typ] Matth . → Matt
+- [chapter-13.typ] Matth . → Matt
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] . Of → of
+- [chapter-13.typ] Act . → Acts
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] ver → v
+- [chapter-13.typ] Psa . → Ps
+- [chapter-13.typ] Psal . → Ps
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] Chron . → Chr
+- [chapter-14.typ] ver → vv
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] ver → v
+- [chapter-14.typ] for sake → forsake
+- [chapter-14.typ] Joh . → John
+- [chapter-14.typ] 9 → 
+- [chapter-14.typ] my self → myself
+- [chapter-14.typ] my self → myself
+- [chapter-14.typ] Joh . → John
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-14.typ] it self → itself
+- [chapter-15.typ] . And → and
+- [chapter-15.typ] Joh . → John
+- [chapter-15.typ] Vers . → Verse
+- [chapter-15.typ] it self → itself
+- [chapter-15.typ] as → 
+- [chapter-15.typ] ver → v
+- [chapter-15.typ] Chron . → Chr
+- [chapter-15.typ] vers → 
+- [chapter-15.typ] streight way forgeteth → straightway forgetteth
+- [chapter-15.typ] them → him
+- [chapter-15.typ] Luk . → Luke
+- [chapter-15.typ] mean time a → meantime as
+- [chapter-15.typ] through - → thorough
+- [chapter-15.typ] my self → myself
+- [chapter-15.typ] Psal . → Ps
+- [chapter-15.typ] its self → itself
+- [chapter-15.typ] Matth . → Matt
+- [chapter-15.typ] use → use of
+- [chapter-15.typ] it self → itself
+- [chapter-15.typ] chap . → 
+- [chapter-15.typ] What ever → Whatever
+- [chapter-15.typ] it self → itself
+- [chapter-16.typ] 59 → 39
+- [chapter-16.typ] our selves → ourselves
+- [chapter-16.typ] Psal . → Ps
+- [chapter-16.typ] Psal . → Jer
+- [chapter-16.typ] Joh . → John
+- [chapter-16.typ] what ever → whatever
+- [chapter-16.typ] What ever → Whatever
+- [chapter-16.typ] its → it is
+- [chapter-16.typ] Mat . → Matt
+- [chapter-16.typ] ver → v
+- [chapter-16.typ] verse → :
+- [chapter-16.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] in → it
+- [chapter-17.typ] When ever → Whenever
+- [chapter-17.typ] where ever → wherever
+- [chapter-17.typ] Where ever → Wherever
+- [chapter-17.typ] what ever → whatever
+- [chapter-17.typ] 17 → 19
+- [chapter-17.typ] every where → everywhere
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] it self → itself
+- [chapter-17.typ] Psal . → Ps
+- [chapter-17.typ] mean time → meantime
+
+## grammar
+
+- whilest → whilst (×12)
+- Whilest → Whilst (×5)
+- chuseth → chooseth (×5)
+- an → a
+- dispossest → dispossessed
+- diuest → divest
+- endeavoureth → endeavoreth
+- intangleth → entangleth
+- intermedleth → intermeddleth
+- possest → possessed
+- prepossest → prepossessed
+- surprizeth → surpriseth
+- thy → they
+
+## punctuation
+
+- [preface.typ] & → and
+- [preface.typ] & → and
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → ,
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
+- [chapter-01.typ] . → :
+- [chapter-01.typ] . → 
+- [chapter-01.typ] ▪ → .
+- [chapter-01.typ] & → and
+- [chapter-01.typ] . → 
+- [chapter-01.typ] . → :
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
+- [chapter-01.typ] & → and
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → :
+- [chapter-02.typ] ▪ → ,
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → ,
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-02.typ] . → 
+- [chapter-02.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → :
+- [chapter-03.typ] . → :
+- [chapter-03.typ] ▪ → 
+- [chapter-03.typ] . → ,
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] & → and
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] ▪ → ,
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → 11:
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 12:
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → 
+- [chapter-05.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] ▪ → ,
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → ,
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] ▪ → ,
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → ,
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → ,
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] . → 
+- [chapter-06.typ] . → :
+- [chapter-06.typ] ▪ → 
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → ,
+- [chapter-07.typ] ▪ → ,
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → 0:
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] ▪ → .
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] ▪ → ,
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → 
+- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] ▪ → ,
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] ▪ → ;
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → 
+- [chapter-08.typ] . → :
+- [chapter-08.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → ,
+- [chapter-09.typ] ▪ → ,
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] ▪ → ,
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → 
+- [chapter-09.typ] . → :
+- [chapter-09.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ;
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ;
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → ,
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] & → and
+- [chapter-10.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] ▪ → ,
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → 1
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → ,
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] & → and
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → ,
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] . → 
+- [chapter-12.typ] . → :
+- [chapter-12.typ] ▪ → ,
+- [chapter-12.typ] ; → ,
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → 3:
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] ▪ → ,
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] , → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
+- [chapter-13.typ] & → and
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → 
+- [chapter-13.typ] . → :
+- [chapter-13.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
+- [chapter-14.typ] ▪ → ,
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
+- [chapter-14.typ] & → and
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → ,
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] ▪ → .
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] & → and
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → 8:
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] & → and
+- [chapter-14.typ] . → :
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] ▪ → ,
+- [chapter-14.typ] . → 
+- [chapter-14.typ] . → :
+- [chapter-14.typ] ▪ → ,
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] & → and
+- [chapter-15.typ] & → and
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] ▪ → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] & → and
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → ,
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-15.typ] . → 
+- [chapter-15.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] & → and
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] & → and
+- [chapter-16.typ] ▪ → ,
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-16.typ] . → 
+- [chapter-16.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] ▪ → .
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] ▪ → ,
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] & → and
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+- [chapter-17.typ] . → 
+- [chapter-17.typ] . → :
+
+## case
+
+- Which → which (×5)
+- As → as (×3)
+- But → but (×3)
+- And → and (×2)
+- He → he (×2)
+- Colt → colt
+- Come → come
+- Designing → designing
+- For → for
+- Is → is
+- Laying → laying
+- Or → or
+- Takes → takes
+- Those → those
+- Though → though
+- Verse → verse
+- What → what
+- Whether → whether
+- Without → without
+
+## spelling
+
+- endeavours → endeavors (×22)
+- Saviour → Savior (×21)
+- endeavour → endeavor (×17)
+- lyes → lies (×17)
+- woful → woeful (×15)
+- labour → labor (×14)
+- chap → ch (×13)
+- poyson → poison (×13)
+- publick → public (×13)
+- terrour → terror (×13)
+- weakned → weakened (×13)
+- mens → men's (×11)
+- vigour → vigor (×11)
+- meerly → merely (×10)
+- subtilty → subtlety (×10)
+- judgement → judgment (×9)
+- intangled → entangled (×8)
+- pretences → pretenses (×8)
+- Sathan → Satan (×7)
+- dryed → dried (×7)
+- lye → lie (×7)
+- Judgement → Judgment (×6)
+- Mens → Men's (×6)
+- applyed → applied (×6)
+- savour → savor (×6)
+- surprizals → surprisals (×6)
+- James → Jas (×5)
+- damm → dam (×5)
+- defence → defense (×5)
+- dependance → dependence (×5)
+- enquire → inquire (×5)
+- Chap → ch (×4)
+- Sion → Zion (×4)
+- born → borne (×4)
+- burthen → burden (×4)
+- dishonour → dishonor (×4)
+- enquiring → inquiring (×4)
+- fartherance → furtherance (×4)
+- harbouring → harboring (×4)
+- joyn → join (×4)
+- labours → labors (×4)
+- meer → mere (×4)
+- practise → practice (×4)
+- sence → sense (×4)
+- stedfast → steadfast (×4)
+- stedfastness → steadfastness (×4)
+- succour → succor (×4)
+- surprizal → surprisal (×4)
+- surprized → surprised (×4)
+- tryal → trial (×4)
+- weakning → weakening (×4)
+- Judgements → Judgments (×3)
+- Kings → Kgs (×3)
+- Labour → Labor (×3)
+- Lyon → Lion (×3)
+- Lyons → Lions (×3)
+- Satans → Satan's (×3)
+- Soveraignty → Sovereignty (×3)
+- carryed → carried (×3)
+- complyance → compliance (×3)
+- cryes → cries (×3)
+- enquired → inquired (×3)
+- enquiry → inquiry (×3)
+- fulness → fullness (×3)
+- heightned → heightened (×3)
+- honour → honor (×3)
+- intanglements → entanglements (×3)
+- marvellous → marvelous (×3)
+- mould → mold (×3)
+- peculiary → peculiarly (×3)
+- pretence → pretense (×3)
+- regardlesness → regardlessness (×3)
+- stopt → stopped (×3)
+- stroaks → strokes (×3)
+- subtilly → subtly (×3)
+- tryals → trials (×3)
+- wofully → woefully (×3)
+- Feaver → Fever (×2)
+- Jehosaphat → Jehoshaphat (×2)
+- Micah → Mic (×2)
+- Philistins → Philistines (×2)
+- Senacherib → Sennacherib (×2)
+- Soveraign → Sovereign (×2)
+- bruit → brute (×2)
+- burthened → burdened (×2)
+- carryes → carries (×2)
+- chearfully → cheerfully (×2)
+- compleating → completing (×2)
+- decaies → decays (×2)
+- denyed → denied (×2)
+- encrease → increase (×2)
+- enflamed → inflamed (×2)
+- favour → favor (×2)
+- hearkning → hearkening (×2)
+- humour → humor (×2)
+- hurryed → hurried (×2)
+- inconveniencies → inconveniences (×2)
+- indispensible → indispensable (×2)
+- ingaged → engaged (×2)
+- intangling → entangling (×2)
+- labouring → laboring (×2)
+- loaths → loathes (×2)
+- lothness → loathness (×2)
+- outragious → outrageous (×2)
+- parlies → parleys (×2)
+- practised → practiced (×2)
+- priviledge → privilege (×2)
+- priviledges → privileges (×2)
+- proceds → proceeds (×2)
+- prosess → profess (×2)
+- rebells → rebels (×2)
+- restlesly → restlessly (×2)
+- rouls → rolls (×2)
+- sensless → senseless (×2)
+- soveraign → sovereign (×2)
+- strengthning → strengthening (×2)
+- stubborness → stubbornness (×2)
+- subtile → subtle (×2)
+- surprize → surprise (×2)
+- travelling → traveling (×2)
+- 25 → 25:
+- Abrahams → Abraham's
+- Asses → ass's
+- Athletick → Athletic
+- Believers → Deliverers
+- Cittadel → Citadel
+- Cloaths → Clothes
+- Eightly → Eighthly
+- Endeavour → Endeavor
+- Enquire → Inquire
+- God → God's
+- Honour → Honor
+- Ingagements → Engagements
+- It → Its
+- Kings → King's
+- Labours → Labors
+- Lanb → Lamb
+- Membres → Members
+- Milstone → Millstone
+- Oyl → Oil
+- Pauls → Paul's
+- Psal → Ps
+- Rejoycing → Rejoicing
+- Sacrameats → Sacraments
+- Sampsons → Samson's
+- Saviours → Savior's
+- Saviours → Saviors
+- Somtimes → Sometimes
+- Steven → Stephen
+- Theachers → Teachers
+- Travailer → Traveler
+- Traytors → Traitors
+- Warriour → Warrior
+- Withs → Withes
+- Woful → Woeful
+- Zach → Zech
+- a → at
+- aboad → abode
+- abridgement → abridgment
+- accrew → accrue
+- adeò → adeoò
+- advantagious → advantageous
+- aiery → airy
+- allay → alloy
+- asfirms → affirms
+- astate → estate
+- athletick → athletic
+- attendencies → attendances
+- attented → attended
+- ballance → balance
+- balsom → balsam
+- battel → battle
+- bringiug → bringing
+- bubling → bubbling
+- burthensome → burdensome
+- cabable → capable
+- centre → center
+- chearfulness → cheerfulness
+- chearing → cheering
+- choaked → choked
+- clamour → clamor
+- cleary → clearly
+- cloystering → cloistering
+- colour → color
+- colours → colors
+- compell'd → compelled
+- concern'd → concerned
+- conmunion → communion
+- conquerours → conquerors
+- consisteh → consisteth
+- controul → control
+- controuls → controls
+- counteance → countenance
+- coyning → coining
+- creaated → created
+- cryed → cried
+- deceituflness → deceitfulness
+- decryed → decried
+- design'd → designed
+- desireableness → desirableness
+- dipt → dipped
+- discoloured → discolored
+- discouragemen → discouragement
+- dishonoured → dishonored
+- dishonours → dishonors
+- dispenced → dispensed
+- dispoiled → despoiled
+- draw → drawn
+- drunkènness → drunkenness
+- dye → die
+- east → least
+- ecafficy → efficacy
+- enclined → inclined
+- enclines → inclines
+- endeavouring → endeavoring
+- enflaming → inflaming
+- enjoyned → enjoined
+- entercourse → intercourse
+- exceding → exceeding
+- expell'd → expelled
+- exraordinary → extraordinary
+- extream → extreme
+- fabrick → fabric
+- fafe → safe
+- faith → saith
+- falshood → falsehood
+- farther → further
+- farthering → furthering
+- fewds → feuds
+- fiercerness → fierceness
+- fonutain → fountain
+- fores → sores
+- frame → frames
+- grosly → grossly
+- harbour → harbor
+- hardned → hardened
+- hardning → hardening
+- havock → havoc
+- hearding → herding
+- hed → bed
+- honourable → honorable
+- horrour → horror
+- humours → humors
+- imbitter → embitter
+- immixed → unmixed
+- immorrality → immortality
+- imploys → employs
+- inclineableness → inclinableness
+- inclosures → enclosures
+- indeavour → endeavor
+- indifferency → indifference
+- indispensibly → indispensably
+- inraged → enraged
+- intangles → entangles
+- intensness → intenseness
+- inticements → enticements
+- irreconcileable → irreconcilable
+- it → its
+- joyned → joined
+- joynt → joint
+- judgements → judgments
+- justle → jostle
+- laboured → labored
+- later → latter
+- laves → lays
+- lead → led
+- leasure → leisure
+- lessning → lessening
+- loath → loathe
+- losty → lofty
+- man → main
+- manageing → managing
+- mannage → manage
+- mannaged → managed
+- milstones → millstones
+- mina → mind
+- miraculos → miraculous
+- mispent → misspent
+- murthering → murdering
+- negligencies → negligences
+- neighbours → neighbors
+- non → not
+- noysome → noisome
+- of → off
+- offences → offenses
+- ones → one's
+- oppointed → appointed
+- outragiously → outrageously
+- pardom → pardon
+- parlying → parleying
+- particulary → particularly
+- past → passed
+- perfom → perform
+- pervers → perverse
+- perversness → perverseness
+- pimrovement → improvement
+- places → place
+- plough → plow
+- ploughed → plowed
+- possible → possibly
+- powers → showers
+- poysoned → poisoned
+- poysonous → poisonous
+- pravalent → prevalent
+- previledges → privileges
+- priciple → principle
+- princicipally → principally
+- rapins → rapines
+- rejoyced → rejoiced
+- replyes → replies
+- rigour → rigor
+- rouze → rouse
+- rush'd → rushed
+- seised → seized
+- senless → senseless
+- senslesness → senselessness
+- sewer → fewer
+- shew'd → showed
+- shipwrack → shipwreck
+- skilful → skillful
+- slipt → slipped
+- sloathful → slothful
+- sollicitations → solicitations
+- specifick → specific
+- spoyl → spoil
+- starvling → starveling
+- stear → steer
+- steer'd → steered
+- stength → strength
+- stirr'd → stirred
+- stollen → stolen
+- streight → straight
+- strugling → struggling
+- struglings → strugglings
+- stupendious → stupendous
+- subtil → subtle
+- sugred → sugared
+- summ → sum
+- supplyed → supplied
+- surprizing → surprising
+- table → able
+- tat → that
+- terrifyed → terrified
+- terrours → terrors
+- the → he
+- thred → thread
+- threeds → threads
+- through → thorough
+- toyle → toil
+- toyling → toiling
+- travelled → traveled
+- uncleaness → uncleanness
+- uncloath → unclothe
+- undesireable → undesirable
+- unexpressible → inexpressible
+- unmoveable → unmovable
+- unmoveableness → unmovableness
+- unrightcousness → unrighteousness
+- unsearchahle → unsearchable
+- upmost → uppermost
+- venemous → venomous
+- vitious → vicious
+- vitiousness → viciousness
+- wakning → wakening
+- wandred → wandered
+- warr → war
+- warrs → wears
+- warthful → wrathful
+- wearyed → wearied
+- werein → wherein
+- whith → with
+- whon → whom
+- withs → withes
+- won → own
+

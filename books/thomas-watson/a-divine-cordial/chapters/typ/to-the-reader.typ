@@ -6,4 +6,6 @@ CHRISTIAN READER:
 
 #v(1em)
 
-#align(right)[Thy Friend, in all true Affection & Devotion. THOMAS WATSON.]
+#align(right)[Thy Friend, in all true Affection & Devotion.]
+
+#align(right)[THOMAS WATSON.]

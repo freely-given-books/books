@@ -6,6 +6,10 @@ EEBO-TCP `A09377`) and *The Anatomy of Simon Magus* (1700, `A25330`, a
 heavily edited edition brought into the pipeline after it was finished).
 Read this before starting a new book from the same kind of source.
 
+**`EDITION-RULES.md` holds the press's standing decisions** (the base, the as-printed layer, the
+reading edition, typesetting, what still goes to the editor). Follow it without asking; a new
+question, once the editor answers it, becomes a rule there.
+
 The tools are **colophon**, the `colophon/` submodule
 (github.com/freely-given-books/colophon): its architecture, the TEI
 encodings, book settings and the lessons learned building it are in
@@ -116,6 +120,12 @@ print stays revision N's, so `make` builds the print PDFs and covers from the
 vN tag and names them vN (what Lulu sells), and print corrections wait for
 N+1. Its sign-off says whether its print is still revision N's, page for page
 as rendered.
+
+A **print volume** (a folder with a `volume.toml`, as `books/john-owen/owen-on-sin/`: Of
+Temptation and The Mortification of Sin in one paperback) is built and released like a
+book, print only. Its `RELEASE.toml` names the signed version of each book it is made from
+(`./fgb release record owen-on-sin` writes them; run it again after a book is re-signed, then
+sign the volume again), and it is held back whenever one of those books changes.
 
 `books/publishing.toml` keeps where each book is published: its Lulu links
 (one per volume) and notes for the site import. It lives outside the book

@@ -1,0 +1,18 @@
+# Release record of Owen on Sin: a print volume made of the editions of
+# other books (volume.toml). ./fgb release checks it; the editor signs a
+# version off with a signed tag, john-owen/owen-on-sin/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the volume, its books.
+summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback, Of Temptation first: each is the text of its own edition here, unchanged, with its own ebook and record of every change."
+
+# The signed versions of the books this volume is made from, each
+# one's newest sign-off: ./fgb release record john-owen/owen-on-sin writes them again
+# after a book is signed off again (then sign the volume off again).
+
+[[book]]
+book = "john-owen/of-temptation"
+version = "v2"
+
+[[book]]
+book = "john-owen/the-mortification-of-sin"
+version = "v2"
