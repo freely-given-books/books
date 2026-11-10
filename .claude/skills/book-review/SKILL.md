@@ -256,7 +256,10 @@ the early printing (or the witness) on your side, stray spaces, broken
 quotation marks, swallowed semicolons, glued or doubled words, a
 reference that is plainly mistyped (`1 Kings 17:4, G` → `17:4, 6`).
 
-**Ask first**, with a recommendation, for anything that changes the
+The reading edition's rules are in `EDITION-RULES.md` (section 3); what they settle,
+apply without asking.
+
+**Ask first**, with a recommendation, in one batch, for anything that changes the
 wording on purpose: restoring text the copy lost or cut, undoing an older
 editor's change, a reading where the evidence is split, normalizing
 variant spellings across the book, rewording a sentence that reads as a
