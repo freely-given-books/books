@@ -68,7 +68,12 @@
   #include "chapters/typ/chapter-12.typ"
 ]
 
-#include "chapters/typ/chapter-13.typ"
+// chapter 13's last lines would stand alone on the next page: its letter spacing a
+// little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/chapter-13.typ"
+]
 
 #include "chapters/typ/chapter-14.typ"
 
