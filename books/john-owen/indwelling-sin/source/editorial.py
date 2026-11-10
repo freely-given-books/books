@@ -52,6 +52,10 @@ def LAYOUT(root):
     return files
 
 # ./fgb epub / pdf / build (paths from the book folder)
+# The outline set full width, each numbered point marked by its level (1. (1.) [1.] before
+# Owen's First, Secondly): the editor's choice of 2026-11-09. Print: scripts/outline_marks.typ.
+OUTLINE_MARKS = True
+
 EPUB = {"title": "Indwelling Sin", "author": "John Owen",
         "file": "indwelling-sin.epub", "front": "ebook-front.html", "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}

@@ -162,3 +162,11 @@ ol.level2 { margin-left: 4em; }
 ol.level3 { margin-left: 6em; }
 ol.level4 { margin-left: 7em; }
 ol.level5 { margin-left: 8em; }
+
+/* outline marks (OUTLINE_MARKS, colophon tei_to_html.mark_point): every outline level
+   full width, a numbered point opened by its level's mark (1. (1.) [1.]) and a little
+   space before it, as the print sets them (scripts/outline_marks.typ) */
+span.omark { color: #595959; }
+p.point0 { margin-top: 0.5em; }
+p.point1 { margin-top: 0.3em; }
+p.point2, p.point3, p.point4 { margin-top: 0.2em; }

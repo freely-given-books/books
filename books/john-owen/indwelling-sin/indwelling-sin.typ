@@ -1,4 +1,5 @@
 #import "@local/fgbooks:0.14.0": *
+#import "../../../scripts/outline_marks.typ": outline-marks
 
 #show: book.with(
   title: [Indwelling Sin],
@@ -21,6 +22,10 @@
 // Owen's summary under each chapter's title (the TEI's <argument>, the book's only
 // inset block): a line's space before the chapter's first paragraph.
 #show block: it => if it.inset == (left: 1em, right: 1em) { block(below: 1.6em, it) } else { it }
+
+// the outline: every level full width, each numbered point marked by its level
+// (scripts/outline_marks.typ: 1. (1.) [1.] before Owen's First, Secondly)
+#show: outline-marks
 
 #include "chapters/typ/preface.typ"
 
