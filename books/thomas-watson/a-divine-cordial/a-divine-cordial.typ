@@ -1,4 +1,5 @@
 #import "@local/fgbooks:0.14.0": *
+#import "../../../scripts/outline_marks.typ": outline-marks
 #import "stray-notes.typ": keep-text
 
 #show: book.with(
@@ -19,6 +20,10 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1in),   // Lulu: 151-400 pages
 )
 
+// the outline: every level full width, each numbered point marked by its level and given
+// a little space (scripts/outline_marks.typ; the editor's choice, 2026-11-09)
+#show: outline-marks
+
 // Notes kept on their marker's page (stray-notes.typ, from Gouge; print_check.py):
 // the paragraphs before notes 12 and 27 set with -/+0.01em letter spacing
 #show: keep-text.with(("2. I Pass to the second, the": "t-", "2. The second heart-quieting": "t+", ))
@@ -27,13 +32,23 @@
 
 #include "chapters/typ/chapter-01.typ"
 
-#include "chapters/typ/chapter-02.typ"
+// Chapter 2's letter spacing a hair tighter (-0.02em) so its notes stay on their markers'
+// pages and no page ends on a lone heading or a chapter on a few lines (print_check)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/chapter-02.typ"
+]
 
 #include "chapters/typ/chapter-03.typ"
 
 #include "chapters/typ/chapter-04.typ"
 
-#include "chapters/typ/chapter-05.typ"
+// Chapter 5's letter spacing a hair tighter (-0.02em) so its notes stay on their markers'
+// pages and no page ends on a lone heading or a chapter on a few lines (print_check)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/chapter-05.typ"
+]
 
 #include "chapters/typ/chapter-06.typ"
 
@@ -41,12 +56,17 @@
 
 #include "chapters/typ/chapter-08.typ"
 
-#include "chapters/typ/chapter-09.typ"
-
-// Chapter X set a hair tighter (leading 0.765em, the book's 0.78em): at full
-// spacing its last two lines run onto a page of their own
+// Chapter 9's letter spacing a hair looser (0.01em) so its notes stay on their markers'
+// pages and no page ends on a lone heading or a chapter on a few lines (print_check)
 #[
-  #set par(leading: 0.765em)
+  #set text(tracking: 0.01em)
+  #include "chapters/typ/chapter-09.typ"
+]
+
+// Chapter 10's letter spacing a hair tighter (-0.01em) so its notes stay on their markers'
+// pages and no page ends on a lone heading or a chapter on a few lines (print_check)
+#[
+  #set text(tracking: -0.01em)
   #include "chapters/typ/chapter-10.typ"
 ]
 
@@ -54,14 +74,14 @@
 
 #include "chapters/typ/chapter-12.typ"
 
-#include "chapters/typ/chapter-13.typ"
-
-// Chapter XIV set a hair tighter (leading 0.775em, the book's 0.78em) so
-// note 149 stays on its marker's page
+// Chapter 13's letter spacing a hair looser (0.01em) so its notes stay on their markers'
+// pages and no page ends on a lone heading or a chapter on a few lines (print_check)
 #[
-  #set par(leading: 0.775em)
-  #include "chapters/typ/chapter-14.typ"
+  #set text(tracking: 0.01em)
+  #include "chapters/typ/chapter-13.typ"
 ]
+
+#include "chapters/typ/chapter-14.typ"
 
 #include "chapters/typ/chapter-15.typ"
 
