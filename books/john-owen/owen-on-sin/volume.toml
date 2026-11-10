@@ -1,0 +1,9 @@
+# Owen on Sin: a print volume made of two books, as the 1855 Presbyterian Board
+# reprint paired them (Of Temptation first, the editor's order). Each is still its
+# own book, with its own TEI, ebook and sign-off; this folder only sets their
+# chapters in one paperback (owen-on-sin.typ, cover.typ). Print only: ./fgb build
+# makes the interior and the cover; ./fgb release records which signed versions of
+# the two books it was made from (RELEASE.toml) and holds it back when either changes.
+title = "Owen on Sin"
+author = "John Owen"
+books = ["john-owen/of-temptation", "john-owen/the-mortification-of-sin"]
