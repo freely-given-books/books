@@ -64,7 +64,7 @@
 // chapter 12's last lines would stand alone on the next page: its letter spacing a
 // little tighter brings them back (print_check's page warning)
 #[
-  #set text(tracking: -0.02em)
+  #set text(tracking: -0.01em)
   #include "chapters/typ/chapter-12.typ"
 ]
 

@@ -7,7 +7,7 @@
 | italic | 443 |
 | spacing | 404 |
 | emendation | 388 |
-| level | 207 |
+| level | 206 |
 | grammar | 32 |
 | case | 29 |
 | inset | 17 |

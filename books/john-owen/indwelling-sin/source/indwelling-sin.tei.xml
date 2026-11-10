@@ -6669,7 +6669,7 @@ soul.</p>
 <hi>consent of t<supplied reason="illegible" cert="high" resp="#editor">h<!-- scan OCR: both read 'the'; book has it 5345x --><gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
                   </gap></supplied>e will;</hi> and they do it two <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>.</p>
-            <p rend="level2" change="#review">First, By s<supplied reason="illegible" cert="high" resp="#editor">o<!-- some: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
+            <p rend="level1" change="#review">First, By s<supplied reason="illegible" cert="high" resp="#editor">o<!-- some: the 1675 scan (Kraken, Tesseract) and the 1668 first edition (Kraken) --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap></supplied>me hasty <hi>impulse and surprisal;</hi> being
 themselves <supplied reason="illegible" cert="high" resp="#editor">stir<!-- stirred: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="4 letters">
@@ -6700,7 +6700,7 @@ prevalent consent of the will may be suddenly
 obtained, which gives the soul a fixed guilt,
 though the sin <choice><orig>it self</orig><reg resp="#editor" type="emendation">itself</reg></choice> be never actually brought
 forth.</p>
-            <p rend="level2" change="#review">Secondly, Enticed Affections procure the <hi>consent
+            <p rend="level1" change="#review">Secondly, Enticed Affections procure the <hi>consent
 of the will by frequent solicitations,</hi> whereby they
 get ground insensibly upon it, and Enthrone them<g ref="char:EOLhyphen"/>selves.
 Take an Instance in the Sons of <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Jacob,</hi>
@@ -6736,7 +6736,7 @@ multitudes of sins <hi>conceived in the heart</hi> which
 very little less defile the soul, or cause it to
 contract very little less guilt, than if they were
 actually committed.</p>
-            <p rend="level2" change="#review">Unto what hath been spoken concerning the
+            <p>Unto what hath been spoken concerning the
 <hi>deceitfulness</hi> of <hi>indwelling-sin</hi> in general, which
 greatly evidenceth its <hi>power</hi> and efficacy, I shall
 <choice><orig>adde</orig><reg resp="#auto" type="spelling">add</reg></choice> as a close of this discourse, one or two par<g ref="char:EOLhyphen"/>ticular
