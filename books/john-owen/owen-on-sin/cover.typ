@@ -5,28 +5,17 @@
 // Mortification of Sin, in the design of Owen's sin books (no picture, the verses the
 // books open as the image; plate_cover.typ). The editor asked for both books' colours:
 // Of Temptation's slate blue above with its verse (Matthew 26:41), Mortification's
-// oxblood below with its own (Romans 8:13), in the books' order.
-//   variant "blend": the blue deepening into the oxblood down the whole wrap
-//   variant "split": the two colours meeting at a gold rule between the verses
-// (`--input variant=split`; blend by default). The back: Owen's most quoted line, from
-// Mortification chapter II.
+// oxblood below with its own (Romans 8:13), in the books' order, the blue deepening into
+// the oxblood down the whole wrap (the editor's choice over a hard split at a gold rule).
+// The back: Owen's most quoted line, from Mortification chapter II.
 //
 // `pages` here is only for compiling the cover by itself; ./fgb build gives it the
 // interior's page count.
-#let variant = sys.inputs.at("variant", default: "blend")
 #let ink = rgb("#ECEEF0")
 #let gold = rgb("#D6A55A")
 #let blue = rgb("#1D2838")       // Of Temptation
 #let oxblood = rgb("#3A1E1E")    // The Mortification of Sin
-// where the colours meet, as a share of the wrap's height (bleed included): between
-// the two verses on the front
-#let meet = (0.125 + 4.62) / 8.75 * 100%
-
-#let ground = if variant == "split" {
-  ((blue, 0%), (blue, meet), (oxblood, meet), (oxblood, 100%))
-} else {
-  ((blue, 0%), (blue, 30%), (oxblood, 72%), (oxblood, 100%))
-}
+#let ground = ((blue, 0%), (blue, 30%), (oxblood, 72%), (oxblood, 100%))
 
 #plate-cover(
   ground: ground,
@@ -48,9 +37,6 @@
       [#plain[that ye enter not] \
        #plain[into]#h(0.1in)#gilt[temptation.]]
     }, [Matthew xxvi. 41])
-    if variant == "split" {
-      place(dx: 2.25in, dy: 4.62in, line(length: 1in, stroke: 0.6pt + gold.transparentize(30%)))
-    }
     verse(5.0in, {
       [#plain[If ye through the Spirit] \
        #plain[do]#h(0.1in)#gilt[mortify] \
