@@ -3,7 +3,7 @@
 # version off with a signed tag, john-owen/owen-on-sin/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the volume, its books.
-summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback, Of Temptation first, as an 1855 printing paired them: each is the text of its own edition here, unchanged, with its own ebook and record of every change."
+summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback, Of Temptation first: each is the text of its own edition here, unchanged, with its own ebook and record of every change."
 
 # The signed versions of the books this volume is made from, each
 # one's newest sign-off: ./fgb release record john-owen/owen-on-sin writes them again
