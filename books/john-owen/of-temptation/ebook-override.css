@@ -35,3 +35,9 @@ h3 {
   text-align: center;
   margin-bottom: 1.5em;
 }
+
+/* Owen's summary under each chapter's title (the book's only inset paragraph):
+   a line's space before the first paragraph */
+p.inset {
+  margin-bottom: 1.6em;
+}

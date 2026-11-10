@@ -146,3 +146,11 @@ EPUB = {"title": "A Divine Cordial", "author": "Thomas Watson",
         "cover": "cover.typ", "toc_depth": 3,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["a-divine-cordial.typ"]
+
+
+# The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a
+# little space before it: the editor's choice of 2026-11-09. Print: scripts/outline_marks.typ.
+OUTLINE_MARKS = True
+
+# The sign-off of To the Reader: the valediction, then the name in capitals a line of its own
+SIGNATURE_NAME_LINE = True

@@ -61,3 +61,8 @@ EPUB = {"title": "The Mortification of Sin", "author": "John Owen",
         "cover": "cover.typ", "toc_depth": 4,
         "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["the-mortification-of-sin.typ"]
+
+
+# The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a
+# little space before it: the editor's choice of 2026-11-09. Print: scripts/outline_marks.typ.
+OUTLINE_MARKS = True
