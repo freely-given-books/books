@@ -24,6 +24,10 @@ LOWERCASE_COMMON_NOUNS = _runpy.run_path(str(Path(__file__).parent / "nouns.py")
 # A quotation's first word (an italic run of 5 words or more) keeps its printed capital.
 QUOTE_START_CASE = True
 
+# Gaps (build_tei.py --list): every illegible letter and word the TCP could not key, read from the
+# 1746 page images and their Kraken and Tesseract readings. See gap_fixes.py.
+GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
+
 # The title page and the print's own "Table of the Contents" are the print's, not the edition's
 # (EDITION-RULES 6); the errata are applied in the reading text; the booksellers' notice is an
 # advertisement.
