@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected to the 1746 print as the source is
+  read (colophon/sources.py); the TCP file itself is untouched. Each was read on the 1746 page
+  image (the Princeton copy, archive.org treatiseconcerni1746edwa; scan images as in
+  work/religious-affections/ocr-1746) after the collation with Kraken and Tesseract or the gap
+  readers flagged it. Made by work/religious-affections/slips/assemble.py; edit there.
+
+  fix/@pb: the printed page (the back matter, unnumbered: its image). before + tcp + after: the
+  transcription's text there (in one text node; any white space matches any white space), found
+  exactly once on that page. print: what is printed in place of tcp (empty tcp: words the
+  transcription left out). evidence: kept in a comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected to the 1746 print
+    (archive.org treatiseconcerni1746edwa).</desc>
+    <fix pb="7" before="" tcp="wise" print="" after=" t"
+         evidence="p. 7: 'will circumcise thine Heart'; the gap holds &quot;circumcise&quot;"/>
+    <fix pb="13" before=", " tcp="at" print="as" after=""
+         evidence="p. 13: 'Put ye on, as the Elect of God' (Col 3:12)"/>
+    <fix pb="13" before="" tcp="Mixt" print="Mint" after=","
+         evidence="p. 13: 'ye pay Tythe of Mint, and Annise, and Cummin' (Matt 23:23)"/>
+    <fix pb="14" before="" tcp="Commandment" print="Commandments" after=" c"
+         evidence="p. 14: 'those two Commandments compre-hend all the Duty'"/>
+    <fix pb="15" before="" tcp="if" print="of" after=" S"
+         evidence="p. 15: 'Fear of Sin'"/>
+    <fix pb="32" before="e " tcp="then" print="them" after=""
+         evidence="p. 32: 'I hate them with perfect Hatred' (Ps 139:22)"/>
+    <fix pb="32" before="" tcp="ever" print="over" after=" h"
+         evidence="p. 32: 'his Sins going over his Head'"/>
+    <fix pb="66" before="d to " tcp="l" print="b" after=""
+         evidence="p. 66: 'the Maimed to be whole' (Matt 15:31)"/>
+    <fix pb="66" before="" tcp="wide" print="whole" after=","
+         evidence="p. 66: 'the Maimed to be whole'"/>
+    <fix pb="66" before="" tcp="beloved" print="believed" after="."
+         evidence="p. 66: 'as many as were ordained to eternal Life, believed' (Acts 13:48)"/>
+    <fix pb="66" before="" tcp="s" print="d" after=", t"
+         evidence="p. 66: 'So of Old, the Children of Israel'"/>
+    <fix pb="78" before="" tcp="with" print="will" after=" e"
+         evidence="p. 78: 'that will ever'"/>
+    <fix pb="79" before="o " tcp="direct'" print="directl" after=""
+         evidence="p. 79: 'do directly thwart'"/>
+    <fix pb="79" before="" tcp="Eving" print="living" after=" b"
+         evidence="p. 79: 'living by Sight'"/>
+    <fix pb="79" before="" tcp="Dart" print="Dark" after=","
+         evidence="p. 79: 'God in the Dark'"/>
+    <fix pb="79" before="" tcp="Eving" print="living" after=" u"
+         evidence="p. 79: 'living upon Frames'"/>
+    <fix pb="79" before="" tcp="me" print="se" after=" th"
+         evidence="p. 79: 'meerly because they take them'"/>
+    <fix pb="79" before="" tcp="art" print="are" after=" n"
+         evidence="p. 79: 'for there are no other'"/>
+    <fix pb="79" before="r " tcp="Fi" print="E" after=""
+         evidence="p. 79: 'keeping their Eye on God's Glory'"/>
+    <fix pb="84" before="" tcp="sprang" print="sprung" after=" u"
+         evidence="p. 84: 'the Blade was sprung up' (Matt 13:26)"/>
+    <fix pb="93" before="" tcp="only" print="abundantly" after=""
+         evidence="p. 93: 'unsanctified, is abundantly evident'"/>
+    <fix pb="115" before="" tcp="be as" print="lie at" after=" G"
+         evidence="p. 115: 'brought to lie at God's Foot'"/>
+    <fix pb="125" before="" tcp="Act" print="Acts" after=" 1"
+         evidence="p. 125: 'So Acts 14. 3.'"/>
+    <fix pb="127" before="nt " tcp="or" print="of" after=""
+         evidence="p. 127: 'bound there 'till the Judgment of the great Day'"/>
+    <fix pb="175" before="" tcp="Tis" print="The" after=" L"
+         evidence="p. 175: 'Verse 15. The Labour of the Foolish' (Eccl 10:15)"/>
+    <fix pb="205" before="d " tcp="feriou" print="seriou" after=""
+         evidence="p. 205: 'if a Minister should seriously tell 'em'"/>
+    <fix pb="208" before="" tcp="Matters" print="Masters" after=" i"
+         evidence="p. 208: 'Dictators and Masters in Matters of Religion'"/>
+    <fix pb="208" before="1. " tcp="10" print="19." after=""
+         evidence="p. 208: 'Jam. 1. 19. Be ye swift to hear' "/>
+    <fix pb="209" before="" tcp="me" print="one" after=" to"
+         evidence="p. 209: 'All of you be subject one to another' (1 Pet 5:5)"/>
+    <fix pb="223" before="" tcp="time" print="me" after=","
+         evidence="p. 223: 'No, it seems to me, none are so bad as I'"/>
+    <fix pb="229" before="" tcp="out" print="but" after=" in P"
+         evidence="p. 229: 'but in Part'"/>
+    <fix pb="230" before="" tcp="igher" print="ighty" after=" P"
+         evidence="p. 230: 'the Working of his mighty Power' (Eph 1:19)"/>
+    <fix pb="232" before="of " tcp="it" print="" after=""
+         evidence="p. 232: 'all receive of his Fulness' (John 1:16); the gap holds &quot;his&quot;"/>
+    <fix pb="232" before="" tcp="s" print="" after=" F"
+         evidence="p. 232: 'his Fulness'"/>
+    <fix pb="232" before="" tcp="Fullness" print="Fulness" after=","
+         evidence="p. 232: 'his Fulness, and Grace for Grace'"/>
+    <fix pb="256" before="" tcp="geeth" print="goeth" after=","
+         evidence="p. 256: 'follow the Lamb whithersoever he goeth' (Rev 14:4)"/>
+    <fix pb="271" before="" tcp="Soul" print="Saul" after=""
+         evidence="p. 271: 'Saul was commanded to destroy'"/>
+    <fix pb="271" before="" tcp="Joh" print="Josh" after=""
+         evidence="p. 271: 'Deut. 1. 36. Josh. 14. 6, 8, 9'"/>
+    <fix pb="273" before="" tcp="aithful" print="lothful" after=" S"
+         evidence="p. 273: 'the slothful Servant, is a wicked Servant'"/>
+    <fix pb="305" before="" tcp="brirgeth" print="bringeth" after=" n"
+         evidence="p. 305: 'every Tree that bringeth not forth good Fruit' (Matt 7:19)"/>
+    <fix pb="308" before="" tcp="work" print="Rock" after=""
+         evidence="p. 308: 'built his House upon aRock'"/>
+    <fix pb="309" before="f " tcp="the" print="his" after=" D"
+         evidence="p. 309: 'according to the Fruit of his Doings' (Jer 17:10)"/>
+    <fix pb="328" before="" tcp="they" print="obey" after=","
+         evidence="p. 328: 'If ye be willing and obedient' — print 'If ye consent and obey, ye shall eat'"/>
+    <fix pb="343" before="" tcp="distingushed" print="distinguished" after=" B"
+         evidence="p. 343: 'amiable distinguished Behaviour'"/>
+    <fix pb="unknown:005767_0352_10270971F8B09E78" before="ne " tcp="o" print="9" after=""
+         evidence="errata: 'PAge 5. Line 9. for'"/>
+    <fix pb="14" before="in the Original" tcp="," print=" is" after=" "
+         evidence="p. 14: 'in the Original is αγαπη, the proper English of which'"/>
+    <fix pb="158" before="" tcp="Love" print="have" after=","
+         evidence="p. 158: 'Many have, and these will fall away'"/>
+    <fix pb="228" before="" tcp="Soul" print="Saul" after=","
+         evidence="p. 228: 'like Saul, when sent against the Amalekites'"/>
+    <fix pb="268" before="" tcp="work" print="Work" after=""
+         evidence="p. 268: 'eminently his Work and Business' (the TCP's gaps either side stand for nothing)"/>
+    <fix pb="273" before="" tcp="aithful" print="lothful" after=","
+         evidence="p. 273: 'They that are slothful, are not Followers'"/>
+  </corrections>
+</supplement>
