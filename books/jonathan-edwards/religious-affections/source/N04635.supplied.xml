@@ -15,56 +15,616 @@
   <corrections xml:id="tcp-corrections">
     <desc>Words the TCP transcription misread or left out, corrected to the 1746 print
     (archive.org treatiseconcerni1746edwa).</desc>
+    <fix pb="iii" before="" tcp="on" print="an" after=" O"
+         evidence="c5: p. iii (scan 8): 'offer to the Lord an Offering in Righteousness' (Mal. 3. 3)"/>
+    <fix pb="v" before="" tcp="he" print="lie" after=" e"
+         evidence="c8: p. v (scan 10): 'the Church of God lie exposed to 'em'"/>
+    <fix pb="4" before="" tcp="more" print="most" after=" p"
+         evidence="c17: p. 4 (scan 15): 'but was most pure, and cleansed'"/>
+    <fix pb="4" before="" tcp="be" print="he" after=" s"
+         evidence="c18: p. 4 (scan 15): 'and Glory; he singles out'"/>
+    <fix pb="7" before="d " tcp="new" print="now" after=""
+         evidence="c23: p. 7 (scan 18): 'Deut. 10. 12. And now Israel'"/>
+    <fix pb="7" before="" tcp="is" print="to" after=" love h"
+         evidence="c24: p. 7 (scan 18): 'and to love him, and to serve'"/>
+    <fix pb="7" before="" tcp="the" print="one" after=" Lord;"
+         evidence="c25: p. 7 (scan 18): 'our God is one Lord' (Deut. 6. 4)"/>
+    <fix pb="7" before="" tcp="have" print="love" after=" t"
+         evidence="c26: p. 7 (scan 18): 'and thou shalt love the Lord thy God'"/>
+    <fix pb="7" before="" tcp="is" print="to" after=" love t"
+         evidence="c27: p. 7 (scan 18): 'the Heart of thy Seed, to love the Lord'"/>
+    <fix pb="11" before="" tcp="on" print="an" after=" H"
+         evidence="c32: p. 11 (scan 22): 'And for an Helmet, the Hope of Salvation' (1 Thes. 5. 8)"/>
+    <fix pb="11" before="" tcp="the" print="this" after=" ev"
+         evidence="c33: p. 11 (scan 22): 'by the Storms of this evil World'"/>
+    <fix pb="11" before="" tcp="have" print="hate" after=" t"
+         evidence="c35: p. 11 (scan 22): 'I hate the Work of them that turn aside' (Psal. 101. 3)"/>
+    <fix pb="11" before="m " tcp="feet" print="that" after=""
+         evidence="c36: p. 11 (scan 22): 'the Work of them that turn aside'"/>
+    <fix pb="11" before="nd " tcp="is" print="to" after=""
+         evidence="c37: p. 11 (scan 22): 'the Lord, and to enquire in his Temple' (Psal. 27. 4)"/>
+    <fix pb="11" before="" tcp="seen" print="even" after=" f"
+         evidence="c38: p. 11 (scan 22): 'My Soul longeth, yea, even fainteth' (Psal. 84. 2)"/>
+    <fix pb="13" before="" tcp="Men" print="Man" after=","
+         evidence="c43: p. 13 (scan 24): 'a merciful Man, and a good Man'"/>
+    <fix pb="13" before="n a peculiar" tcp="" print="Manner" after=""
+         evidence="c44: p. 13 (scan 24): 'in a peculiar Manner, a righteous Man'"/>
+    <fix pb="13" before=", " tcp="at" print="as" after=""
+         evidence="c45: p. 13 (scan 24): 'Put ye on, as the Elect of God' (Col. 3. 12)"/>
+    <fix pb="13" before="" tcp="what" print="who" after=" a"
+         evidence="c46: p. 13 (scan 24): 'by which those who are truly Blessed'"/>
+    <fix pb="13" before="o " tcp="is" print="do" after=""
+         evidence="c47: p. 13 (scan 24): 'but to do Justice, and love Mercy' (Mich. 6. 8)"/>
+    <fix pb="13" before="" tcp="is" print="as" after=" a v"
+         evidence="c48: p. 13 (scan 24): 'Zeal is also spoken of, as a very essential Part'"/>
+    <fix pb="13" before="" tcp="with" print="unto" after=" h"
+         evidence="c49: p. 13 (scan 24): 'and purify unto himself a peculiar People' (Tit. 2. 14)"/>
+    <fix pb="14" before="" tcp="Poem" print="Rom" after="."
+         evidence="c52: p. 14 (scan 25): 'as in Rom. 13. 8. He that loveth another'"/>
+    <fix pb="14" before="e Commandment" tcp="" print="is Charity" after=""
+         evidence="c53: p. 14 (scan 25): 'Now the End of the Commandment is Charity, out of a pure Heart' (1 Tim. 1. 5)"/>
+    <fix pb="14" before="" tcp="" print="is αγαπη" after=" the p"
+         evidence="c54: p. 14 (scan 25): 'in the Original is αγαπη, the proper English' (Greek, no accents visible; TCP dropped both words)"/>
+    <fix pb="15" before="" tcp="is" print="to" after=" Me"
+         evidence="c56: p. 15 (scan 26): 'from a fervent Love to Men, will arise'"/>
+    <fix pb="16" before="" tcp="aged" print="lived" after=","
+         evidence="c59: p. 16 (scan 27): 'Servant of Christ, that ever lived, received'"/>
+    <fix pb="16" before="" tcp="Psal" print="Phil" after="."
+         evidence="c61: p. 16 (scan 27): '2 Cor. 12. 19. Phil. 4. 1. 2 Tim. 1. 2.'"/>
+    <fix pb="16" before="" tcp="with" print="unto" after=" y"
+         evidence="c62: p. 16 (scan 27): 'willing to have imparted unto you' (1 Thes. 2. 8)"/>
+    <fix pb="16" before="el of" tcp="" print="God" after=""
+         evidence="c63: p. 16 (scan 27): 'not the Gospel of God only'"/>
+    <fix pb="17" before="" tcp="tall" print="full" after=" h"
+         evidence="c68: p. 17 (scan 28): 'And how full he was of Affection'"/>
+    <fix pb="17" before="" tcp="every" print="if" after=" a"
+         evidence="c70: p. 17 (scan 28): 'Now if any one can consider these Accounts'"/>
+    <fix pb="23" before="" tcp="be" print="he" after=" hardenet"
+         evidence="c77: p. 23 (scan 34): 'and whom he will he hardeneth' (Rom. 9. 18)"/>
+    <fix pb="23" before="" tcp="is" print="to" after=" D"
+         evidence="c79: p. 23 (scan 34): 'while it is called to Day' (Heb. 3. 13)"/>
+    <fix pb="26" before="t it" tcp="" print="be" after=""
+         evidence="c83: p. 26 (scan 37): 'And let it be consider'd'"/>
+    <fix pb="31" before="" tcp="of" print="to" after=" God,"
+         evidence="c90: p. 31 (scan 42): 'Exercises of Love to God, and Sorrow for Sin'"/>
+    <fix pb="32" before="uke" tcp="" print="to" after=""
+         evidence="c92: p. 32 (scan 43): 'in Luke 6. 23. to leap for Joy'"/>
+    <fix pb="32" before="" tcp="from" print="them" after=" tha"
+         evidence="c93: p. 32 (scan 43): 'grieved with them that rise up against thee' (Psal. 139. 21)"/>
+    <fix pb="32" before="s Souls" tcp="" print="thirsting" after=""
+         evidence="c95: p. 32 (scan 43): 'his Souls thirsting as a dry and thirsty Land'"/>
+    <fix pb="32" before="" tcp="Baby" print="Body" after=" o"
+         evidence="c96: p. 32 (scan 43): 'anointed the Body of Jesus'"/>
+    <fix pb="33" before="y, that" tcp="" print="should be" after=""
+         evidence="c98: p. 33 (scan 44): 'good Tydings of great Joy, that should be to all People'"/>
+    <fix pb="33" before="" tcp="it" print="if" after=" r"
+         evidence="c99: p. 33 (scan 44): 'And therefore, if religious Affections in Men here below'"/>
+    <fix pb="44" before="" tcp="latter" print="better" after=" T"
+         evidence="c114: p. 44 (scan 55): 'unacquainted with those better Things that accompany Salvation'"/>
+    <fix pb="47" before="" tcp="vet" print="yet" after=" t"
+         evidence="c118: p. 47 (scan 58): 'internal Virtue; yet the more manifold will the Counterfeits be'"/>
+    <fix pb="53" before="" tcp="on" print="an" after=" ev"
+         evidence="c125: p. 53 (scan 64): 'they were in an evil Case'"/>
+    <fix pb="53" before="" tcp="is" print="to" after=" c"
+         evidence="c126: p. 53 (scan 64): 'evil Case, and to cry unto God'"/>
+    <fix pb="58" before="t so much" tcp="" print="as" after=""
+         evidence="c136: p. 58 (scan 69): 'not so much as one of the Sins'"/>
+    <fix pb="66" before="od " tcp="with" print="hath" after=""
+         evidence="c154: p. 66 (scan 77): 'and that God hath visited his People' (Luke 7. 16)"/>
+    <fix pb="66" before="" tcp="" print="soon" after=" forg"
+         evidence="c155: p. 66 (scan 77): 'sang God's Praise; but soon forgat his Works'"/>
+    <fix pb="66" before="l and" tcp="" print="magnify" after=""
+         evidence="c157: p. 66 (scan 77): 'greatly to extol and magnify free Grace'"/>
+    <fix pb="78" before="" tcp="with" print="will" after=" e"
+         evidence="c174: p. 78 (scan 89): 'the Influence of, that will ever make Men conscientious'"/>
+    <fix pb="78" before="oy" tcp="" print="of Hope" after=""
+         evidence="c175: p. 78 (scan 89): 'the Light and Joy of Hope goes out'"/>
+    <fix pb="78" before="" tcp="" print="on" after=" the contrary."
+         evidence="c177: p. 78 (scan 89): 'And so on the contrary'"/>
+    <fix pb="79" before="c." tcp="" print="Fear" after=""
+         evidence="c181: p. 79 (scan 90): 'Temptations, &amp;c. / Fear is cast out by the Spirit of God'"/>
+    <fix pb="79" before="" tcp="" print="exhort" after=" others"
+         evidence="c182: p. 79 (scan 90): 'Constitution of Things, who exhort others to be confident'"/>
+    <fix pb="79" before="" tcp="" print="Frames" after=" under a No"
+         evidence="c184: p. 79 (scan 90): 'when in dead Frames; under a Notion of living by Faith'"/>
+    <fix pb="79" before="d it" tcp="" print="has" after=""
+         evidence="c185: p. 79 (scan 90): 'And it has a direct Tendency'"/>
+    <fix pb="79" before="" tcp="art" print="are" after=" n"
+         evidence="c186: p. 79 (scan 90): 'for there are no other Evidences'"/>
+    <fix pb="83" before="" tcp="not" print="rot" after=" u"
+         evidence="c192: p. 83 (scan 94): 'and drop off, and rot under the Trees'"/>
+    <fix pb="87" before="" tcp="he" print="be" after=","
+         evidence="c198: p. 87 (scan 98): 'must the Notion be, that they have'"/>
+    <fix pb="91" before="" tcp="and" print="that" after=" ca"
+         evidence="c203: p. 91 (scan 102): 'as Men in the Dark, that cannot plainly see'"/>
+    <fix pb="92" before="" tcp="be" print="he" after=" k"
+         evidence="c205: p. 92 (scan 103): 'neither can he know them' (1 Cor. 2. 14)"/>
+    <fix pb="93" before="" tcp="only" print="abundantly" after=""
+         evidence="c207: p. 93 (scan 104): 'is abundantly evident, by Rom. 7. 25.'"/>
+    <fix pb="93" before="nd," tcp="" print="Rom" after=""
+         evidence="c209: p. 93 (scan 104): 'a spiritual Mind, Rom. 8. 6, 7. and of spiritual Wisdom'"/>
+    <fix pb="93" before="" tcp="" print="be observed" after=" that the E"
+         evidence="c210: p. 93 (scan 104): 'Now it may be observed that the Epithet'"/>
+    <fix pb="95" before="" tcp="Som" print="Sam" after="."
+         evidence="c214: p. 95 (scan 106): 'Numb. 24. 2. 1 Sam. 10. 10.'"/>
+    <fix pb="96" before="" tcp="yet" print="not" after=" t"
+         evidence="c216: p. 96 (scan 107): 'natural Men are said not to have the Spirit, Jude 19.'"/>
+    <fix pb="96" before="y not" tcp="" print="at" after=""
+         evidence="c217: p. 96 (scan 107): 'may not at all communicate himself'"/>
+    <fix pb="114" before="s, " tcp="that" print="it" after=""
+         evidence="c244: p. 114 (scan 125): 'And this it is that affects and elevates them'"/>
+    <fix pb="114" before="" tcp="" print="affects and" after=" ele"
+         evidence="c245: p. 114 (scan 125): 'this it is that affects and elevates them'"/>
+    <fix pb="114" before="d. And" tcp="" print="if" after=""
+         evidence="c246: p. 114 (scan 125): 'from God. And if it was true that God brought'"/>
+    <fix pb="114" before="" tcp="or" print="on" after=" no"
+         evidence="c247: p. 114 (scan 125): 'are built on no spiritual Foundation'"/>
+    <fix pb="114" before="" tcp="from" print="seem" after=" s"
+         evidence="c248: p. 114 (scan 125): 'and the Words seem sweet to 'em'"/>
+    <fix pb="118" before="" tcp="all" print="and" after=" s"
+         evidence="c254: p. 118 (scan 129): 'are made to him, and spoken to him'"/>
+    <fix pb="122" before="" tcp="it" print="if" after=" he p"
+         evidence="c258: p. 122 (scan 133): 'so God can if he pleases'"/>
+    <fix pb="122" before="" tcp="his" print="has" after=" b"
+         evidence="c259: p. 122 (scan 133): 'as has been just now demonstrated'"/>
+    <fix pb="124" before="" tcp="Soul" print="Seal" after=" o"
+         evidence="c263: p. 124 (scan 135): 'called the Seal of the Spirit, 2 Cor. 1. 22.'"/>
+    <fix pb="126" before="" tcp="be it their Image" print="bear their Image" after=";"
+         evidence="c267: p. 126 (scan 137): 'The Seals of Princes were wont to bear their Image'"/>
+    <fix pb="127" before="" tcp="in" print="is" after=" their G"
+         evidence="c279: p. 127 (scan 139) footnote: 'not only because that God is their God'"/>
+    <fix pb="158" before="" tcp="has" print="was" after=" n"
+         evidence="c314: p. 158 (scan 169): 'when he was not affected'"/>
+    <fix pb="158" before="" tcp="lying" print="bring" after=" m"
+         evidence="c315: p. 158 (scan 169): 'let them bring me into thy holy Hill' (Psal. 43. 3)"/>
+    <fix pb="162" before="" tcp="Truly" print="Trust" after=" i"
+         evidence="c321: p. 162 (scan 173): 'will put their Trust in thee' (Psal. 9. 10)"/>
+    <fix pb="165" before="" tcp="lot" print="let" after=" i"
+         evidence="c325: p. 165 (scan 176): 'the Believer is let into the Knowledge'"/>
+    <fix pb="171" before="" tcp="it" print="if" after=" t"
+         evidence="c334: p. 171 (scan 182): 'brought to his Mind, as if they were spoken to him'"/>
+    <fix pb="172" before="" tcp="to" print="so" after=" dr"
+         evidence="c336: p. 172 (scan 183): 'which is threatned with so dreadful a Curse'"/>
+    <fix pb="172" before="" tcp="once" print="since" after=" i"
+         evidence="c338: p. 172 (scan 183): 'contain'd in it, ever since it was written'"/>
+    <fix pb="172" before="" tcp="now" print="new" after=" S"
+         evidence="c339: p. 172 (scan 183): 'without having any new Sense added'"/>
+    <fix pb="174" before="g " tcp="is" print="as" after=""
+         evidence="c342: p. 174 (scan 185): 'such a Thing as a divine Taste'"/>
+    <fix pb="174" before="" tcp="for" print="far" after=" m"
+         evidence="c343: p. 174 (scan 185): 'will direct him, far more readily and exactly'"/>
+    <fix pb="178" before="nation " tcp="of" print="or" after=""
+         evidence="c352: p. 178 (scan 189): 'The Imagination or Phantasy seems'"/>
+    <fix pb="186" before="" tcp="Sign" print="Sight" after=" o"
+         evidence="c380: p. 186 (scan 197): 'true Faith arises from a spiritual Sight of Christ'"/>
+    <fix pb="186" before="" tcp="deserved this" print="believed that" after=" t"
+         evidence="c381: p. 186 (scan 197): 'and they have believed that thou didst send me' (John 17. 8)"/>
+    <fix pb="187" before="" tcp="mere" print="more" after=" e"
+         evidence="c383: p. 187 (scan 198): 'Being more exceedingly zealous' (Gal. 1. 14)"/>
+    <fix pb="193" before="r a" tcp="" print="clear" after=""
+         evidence="c393: p. 193 (scan 204): 'must wait for a clear and certain Conviction'"/>
+    <fix pb="193" before="ruth " tcp="or" print="of Christianity" after=""
+         evidence="c394: p. 193 (scan 204): 'Conviction of the Truth of Christianity, 'till they have'"/>
+    <fix pb="194" before="" tcp="low" print="few" after=" o"
+         evidence="c397: p. 194 (scan 205): 'how few of them were there'"/>
+    <fix pb="194" before="y;" tcp="" print="or" after=""
+         evidence="c398: p. 194 (scan 205): 'this Way; or indeed for whom it was possible'"/>
+    <fix pb="194" before="" tcp="" print="had" after=" been bu"
+         evidence="c399: p. 194 (scan 205): 'from Antiquity and History, had been but very imperfectly handled'"/>
+    <fix pb="196" before="" tcp="has" print="lies" after=" o"
+         evidence="c403: p. 196 (scan 207): 'so that the Mind thereby lies open'"/>
+    <fix pb="201" before="h is my" tcp="" print="Footstool" after=""
+         evidence="c409: p. 201 (scan 212): 'and the Earth is my Footstool:—-But to this Man' (Isai. 66. 1, 2)"/>
+    <fix pb="201" before="" tcp="But is" print="to" after=" t"
+         evidence="c410: p. 201 (scan 212): 'my Footstool:—-But to this Man will I look' - TCP 'But But is this', page 'But to this'"/>
+    <fix pb="201" before="" tcp="it" print="to" after=" b"
+         evidence="c412: p. 201 (scan 212): 'and am no more worthy to be called thy Son' (Luke 15. 18)"/>
+    <fix pb="203" before="" tcp="Meitch" print="Moloch" after=""
+         evidence="c415: p. 203 (scan 214): 'Sacrifice to this Moloch of spiritual Pride'"/>
+    <fix pb="205" before="" tcp="then" print="their" after=" g"
+         evidence="c420: p. 205 (scan 216): 'their wicked Hearts, and their great Short-comings'"/>
+    <fix pb="208" before="" tcp="than" print="holier than" after=" tho"
+         evidence="c425: p. 208 (scan 219): 'I am holier than thou' (Isai. 65. 5)"/>
+    <fix pb="208" before="e to take" tcp="" print="a high" after=""
+         evidence="c426: p. 208 (scan 219): 'as it were to take a high Seat among them' (TEI gap fill put 'Seat among' for the gap, page has 'a high Seat among')"/>
+    <fix pb="208" before="" tcp="" print="for" after=" them to ta"
+         evidence="c427: p. 208 (scan 219): ''Tis natural for them to take it for granted'"/>
+    <fix pb="208" before="" tcp="at" print="it" after=" f"
+         evidence="c428: p. 208 (scan 219): 'for them to take it for granted'"/>
+    <fix pb="208" before="" tcp="" print="to expect" after=" that others s"
+         evidence="c429: p. 208 (scan 219): 'They are apt to expect that others should regard 'em'"/>
+    <fix pb="208" before="" tcp="Psal" print="Phil" after="."
+         evidence="c430: p. 208 (scan 219): 'better than themselves; Phil. 2. 3. In Lowliness of Mind'"/>
+    <fix pb="209" before="" tcp="of" print="if" after=" the E"
+         evidence="c433: p. 209 (scan 220): 'to have great Experiences, if the Experiences be true'"/>
+    <fix pb="214" before="" tcp="most" print="best" after=" A"
+         evidence="c441: p. 214 (scan 225): 'of his highest and best Affections'"/>
+    <fix pb="215" before="" tcp="" print="as" after=" they are k"
+         evidence="c443: p. 215 (scan 226): 'who know as they are known'"/>
+    <fix pb="216" before="" tcp="be" print="he" after=" th"
+         evidence="c445: p. 216 (scan 227): 'And thus he that is greatest in the Kingdom'"/>
+    <fix pb="219" before="" tcp="way" print="why" after=" s"
+         evidence="c449: p. 219 (scan 230): 'The very Reason why such outward Acts'"/>
+    <fix pb="221" before="ations," tcp="" print="and" after=""
+         evidence="c452: p. 221 (scan 232): 'their Humiliations, and to set them forth'"/>
+    <fix pb="222" before="e " tcp="represent" print="represents it as" after=""
+         evidence="c454: p. 222 (scan 233): 'The Scripture represents it as of a contrary Nature'"/>
+    <fix pb="223" before="" tcp="time" print="me" after=","
+         evidence="c457: p. 223 (scan 234): 'it seems to me, none are so bad as I'"/>
+    <fix pb="223" before="" tcp="" print="as" after=" proud as the Devil;"
+         evidence="c458: p. 223 (scan 234): 'It seems to me I am as proud as the Devil'"/>
+    <fix pb="225" before="" tcp="Lord" print="Land" after="."
+         evidence="c463: p. 225 (scan 236): 'bowed himself to the People of the Land' (Gen. 23. 12)"/>
+    <fix pb="225" before="" tcp="who" print="noble" after=""
+         evidence="c464: p. 225 (scan 236): 'I am not mad, most noble Festus' (Acts 26. 25)"/>
+    <fix pb="227" before="" tcp="forward" print="thenceforward" after=" h"
+         evidence="c467: p. 227 (scan 238): 'So that thenceforward he becomes a holy Person'"/>
+    <fix pb="227" before="" tcp="" print="high" after=" Affections, a"
+         evidence="c468: p. 227 (scan 238): 'after a Person's high Affections' (page has one 'a'; TCP stream 'a a')"/>
+    <fix pb="228" before="y with respect" tcp="" print="to" after=""
+         evidence="c471: p. 228 (scan 239): 'with respect to it, to correct it'"/>
+    <fix pb="228" before="" tcp="as" print="is" after=" a"
+         evidence="c472: p. 228 (scan 239): 'wrought in Conversion, is an universal Change'"/>
+    <fix pb="229" before="" tcp="" print="is" after=" ali"
+         evidence="c474: p. 229 (scan 240): 'so that that also is alive'"/>
+    <fix pb="229" before="" tcp="to" print="as" after=" the L"
+         evidence="c475: p. 229 (scan 240): 'as much from Christ, as the Light in a Glass'"/>
+    <fix pb="237" before="" tcp="to" print="as" after=" M"
+         evidence="c487: p. 237 (scan 248): 'are ye not carnal, and walk as Men?' (1 Cor. 3. 3)"/>
+    <fix pb="241" before="" tcp="Role" print="Rule" after=" b"
+         evidence="c492: p. 241 (scan 252): 'against that Rule by which Christ has declared'"/>
+    <fix pb="242" before="" tcp="he" print="lie" after=" do"
+         evidence="c494: p. 242 (scan 253): 'their young ones shall lie down together' (Isai. 11. 7)"/>
+    <fix pb="260" before="" tcp="Horch" print="Horeb" after=";"
+         evidence="c522: p. 260 (scan 271): 'in Mount Horeb; Exod. 3.'"/>
+    <fix pb="278" before="" tcp="it" print="is" after=" n"
+         evidence="c560: p. 278 (scan 289): 'The Kingdom of God is not in Word, but in Power' (1 Cor. 4. 20)"/>
+    <fix pb="284" before="" tcp="is" print="as" after=" Fruit i"
+         evidence="c568: p. 284 (scan 295): 'about his Saints, as Fruit is the End of all'"/>
+    <fix pb="293" before="t good" tcp="" print="or" after=""
+         evidence="c580: p. 293 (scan 304): 'and his Fruit good; or else make the Tree corrupt' (Matth. 12. 33)"/>
+    <fix pb="296" before="" tcp="it" print="if" after=" he"
+         evidence="c585: p. 296 (scan 307): 'but yet acts as if he looked upon himself'"/>
+    <fix pb="296" before="" tcp="it" print="if" after=" a P"
+         evidence="c586: p. 296 (scan 307): 'So (to mention no more Instances) if a Professor of Christianity'"/>
+    <fix pb="296" before="" tcp="Man" print="Men" after=","
+         evidence="c587: p. 296 (scan 307): 'Manifestation of a Spirit of Love to Men, than only a Man's telling'"/>
+    <fix pb="299" before="" tcp="how" print="bow" after=","
+         evidence="c591: p. 299 (scan 310): 'every Knee shall bow, every Tongue shall swear' (Isai. 45. 23)"/>
+    <fix pb="307" before="" tcp="" print="far" after=" as the S"
+         evidence="c601: p. 307 (scan 318): 'is the good Work it self, so far as the Soul is concerned in it'"/>
+    <fix pb="307" before="" tcp="" print="is concerned" after=" in i"
+         evidence="c602: p. 307 (scan 318): 'so far as the Soul is concerned in it, or so far as'"/>
+    <fix pb="307" before="g " tcp="Aim" print="Alms" after=""
+         evidence="c604: p. 307 (scan 318): 'doing Justice or distributing Alms by Clockwork'"/>
+    <fix pb="308" before="" tcp="be" print="he" after=" it"
+         evidence="c607: p. 308 (scan 319): 'and keepeth them, he it is that loveth me' (John 14. 21)"/>
+    <fix pb="308" before="" tcp="be" print="he" after=" t"
+         evidence="c608: p. 308 (scan 319): 'that I am he that searcheth the Reins' (Rev. 2. 23)"/>
+    <fix pb="309" before="f " tcp="the" print="his" after=" D"
+         evidence="c610: p. 309 (scan 320): 'by his Ways, and the Fruit of his Doings'"/>
+    <fix pb="312" before="" tcp="It" print="If" after=" i"
+         evidence="c615: p. 312 (scan 323): 'without a holy Life. If in his Name Men have prophecy'd'"/>
+    <fix pb="327" before="" tcp="to" print="so" after=" i"
+         evidence="c635: p. 327 (scan 338): 'is in the Use of 'em; so it is with our Graces'"/>
+    <fix pb="327" before="" tcp="as" print="is" after=" i"
+         evidence="c636: p. 327 (scan 338): 'the proper Trial and Proof of them is in their Exercise in Practice'"/>
+    <fix pb="328" before="" tcp="they" print="obey" after=","
+         evidence="c640: p. 328 (scan 339) footnote: 'If ye consent and obey, ye shall eat the good Things of the Land' (Isai. 1. 19)"/>
+    <fix pb="330" before="" tcp="" print="hears" after=" then"
+         evidence="c644: p. 330 (scan 341): 'in a Dependance on what he hears; then he may be said'"/>
+    <fix pb="338" before="lt of" tcp="" print="Sin" after=""
+         evidence="c658: p. 338 (scan 349): 'as a Balance for the Guilt of Sin, or a Recommendation'"/>
+    <fix pb="338" before="t, and" tcp="" print="not" after=""
+         evidence="c659: p. 338 (scan 349): 'the Righteousness of Christ, and not by our Righteousness'"/>
+    <fix pb="343" before="" tcp="" print="an" after=" ami"
+         evidence="c666: p. 343 (scan 354): 'more by an amiable distinguished Behaviour'"/>
+    <fix pb="v" before="t " tcp="Restrains" print="Restraint" after=""
+         evidence="c672: p. v (scan 10): 'and so sin without Restraint, yea with earnest Forwardness'"/>
+    <fix pb="7" before="" tcp="is" print="in" after=" S"
+         evidence="c676: p. 7 (scan 18): 'fervent in Spirit, and our Hearts vigorously engaged'"/>
+    <fix pb="78" before="" tcp="is" print="to" after=" in v"
+         evidence="c678: p. 7 (scan 18), heading says p. 78/scan 89 but the crop is p. 7: 'and to love him, and to serve'; same place as c24"/>
+    <fix pb="11" before="" tcp="to" print="no" after=" w"
+         evidence="c685: p. 11 (scan 22): 'I will set no wicked Thing before mine Eyes' (Psal. 101. 3)"/>
+    <fix pb="13" before="" tcp="on" print="one" after=" of th"
+         evidence="c695: p. 13 (scan 24): 'This is one of those great Things'"/>
+    <fix pb="13" before="" tcp="Mixt" print="Mint" after=","
+         evidence="c697: p. 13 (scan 24): 'Tythe of Mint, and Annise' (Matth. 23. 23)"/>
+    <fix pb="14" before="" tcp="those" print="these" after=" t"
+         evidence="c701: p. 14 (scan 25): 'as that these two Commandments comprehend' (page also has Commandments, plural)"/>
+    <fix pb="15" before="" tcp="if" print="of" after=" S"
+         evidence="c704: p. 15 (scan 26): 'Fear of Sin, and a Dread of God's'"/>
+    <fix pb="16" before=", " tcp="esteem" print="esteeming" after=""
+         evidence="c707: p. 16 (scan 27): 'glorious Lord, esteeming all Things as Loss'"/>
+    <fix pb="16" before="" tcp="Dang" print="Dung" after=" t"
+         evidence="c708: p. 16 (scan 27): 'esteeming them but Dung that he might win him'"/>
+    <fix pb="16" before="" tcp="Affection" print="Affliction" after=", and A"
+         evidence="c711: p. 16 (scan 27): 'For out of much Affliction, and Anguish of Heart' (2 Cor. 2. 4)"/>
+    <fix pb="17" before="" tcp="Matter" print="Master" after=","
+         evidence="c713: p. 17 (scan 28): 'the Cause of his Master, and the Interest'"/>
+    <fix pb="17" before="" tcp="informing" print="inflaming" after=" h"
+         evidence="c714: p. 17 (scan 28): 'continually inflaming his Heart'"/>
+    <fix pb="17" before="" tcp="connecting" print="conflicting" after=" w"
+         evidence="c715: p. 17 (scan 28): 'travelling in Birth with them; conflicting with those powerful'"/>
+    <fix pb="17" before="" tcp="these" print="those" after=" p"
+         evidence="c716: p. 17 (scan 28): 'conflicting with those powerful and innumerable Enemies'"/>
+    <fix pb="17" before="" tcp="confuted" print="consisted" after=" m"
+         evidence="c719: p. 17 (scan 28): 'that his Religion consisted much in Affection'"/>
+    <fix pb="23" before="" tcp="Mind" print="Minds" after=","
+         evidence="c723: p. 23 (scan 34): 'He hath blinded their Minds' (John 12. 40)"/>
+    <fix pb="25" before="" tcp="consists" print="consist" after=" i"
+         evidence="c727: p. 25 (scan 36): 'did not at all consist in them'"/>
+    <fix pb="29" before="" tcp="endered" print="endured" after=","
+         evidence="c728: p. 29 (scan 40): 'Sufferings, he endured, from his tender Love'"/>
+    <fix pb="32" before="s " tcp="Sin" print="Sins" after=""
+         evidence="c731: p. 32 (scan 43): 'He speaks of his Sins going over his Head'"/>
+    <fix pb="32" before="" tcp="ever" print="over" after=" h"
+         evidence="c732: p. 32 (scan 43): 'his Sins going over his Head'"/>
+    <fix pb="32" before="" tcp="Draught" print="Drought" after=" o"
+         evidence="c733: p. 32 (scan 43): 'turned into the Drought of Summer' (page also Summer)"/>
+    <fix pb="32" before="" tcp="Jealously" print="Jealousy" after=" a"
+         evidence="c735: p. 32 (scan 43): 'godly Jealousy and fervent Zeal'"/>
+    <fix pb="33" before="" tcp="hear" print="bear" after=" y"
+         evidence="c739: p. 33 (scan 44): 'For I bear you Record' (Gal. 4. 15)"/>
+    <fix pb="37" before="" tcp="behold" print="beheld" after=":"
+         evidence="c743: p. 37 (scan 48): 'which these Saints beheld: For tho' it be true'"/>
+    <fix pb="37" before="" tcp="outwar" print="outward" after="."
+         evidence="c744: p. 37 (scan 48): 'they were outward Representations of Christ's Glory'"/>
+    <fix pb="37" before="" tcp="behold" print="beheld" after=" w"
+         evidence="c745: p. 37 (scan 48): 'which they beheld with their bodily Eyes'"/>
+    <fix pb="44" before="" tcp="especially" print="especeially" after=" s"
+         evidence="c749: p. 44 (scan 55): misprint on page 'Persons, especeially such as are of a weak'"/>
+    <fix pb="51" before="" tcp="Countenances" print="Countenance" after=","
+         evidence="c752: p. 51 (scan 62): 'appear with a cheerful Countenance, and talk'"/>
+    <fix pb="57" before="" tcp="than" print="then" after=" t"
+         evidence="c759: p. 57 (scan 68): page prints 'more manifest, then that some Persons'"/>
+    <fix pb="58" before="" tcp="that" print="they" after=" are y"
+         evidence="c761: p. 58 (scan 69): 'and which Men, while they are yet his own Children'"/>
+    <fix pb="65" before="" tcp="Authorites" print="Anchorites" after=","
+         evidence="c767: p. 65 (scan 76): 'called Hermits and Anchorites, that left the World'"/>
+    <fix pb="65" before="" tcp="these" print="those" after=" T"
+         evidence="c768: p. 65 (scan 76): 'for a Person, if those Things that have been already observed'"/>
+    <fix pb="66" before="" tcp="Barnahas" print="Barnabas" after=","
+         evidence="c769: p. 66 (scan 77): 'heard from Paul and Barnabas'"/>
+    <fix pb="66" before="" tcp="beloved" print="believed" after="."
+         evidence="c770: p. 66 (scan 77): 'as many as were ordained to eternal Life, believed. So of Old' (Acts 13. 48)"/>
+    <fix pb="67" before="" tcp="Redeems" print="Redeemer" after=" l"
+         evidence="c775: p. 67 (scan 78): 'I know that my Redeemer liveth' (Job 19. 25)"/>
+    <fix pb="68" before="" tcp="spoke" print="spake" after=" t"
+         evidence="c779: p. 68 (scan 79): 'tells his Father, that he spake these Things'"/>
+    <fix pb="55" before="" tcp="Heart" print="Hearts" after=" f"
+         evidence="c757: p. 55 (scan 66): 'and prepare Men's Hearts for his Reception'"/>
+    <fix pb="67" before="" tcp="glorifying" print="glorying" after=" i"
+         evidence="c776: p. 67 (scan 78): 'as his God; glorying in him as his Portion'"/>
+    <fix pb="75" before="" tcp="Faith" print="Frith" after=" of"
+         evidence="c784: p. 75 (scan 86): misprint on page 'is not the Frith of the Children of the Light'"/>
+    <fix pb="78" before="" tcp="Balances" print="Balance" after=" w"
+         evidence="c787: p. 78 (scan 89): 'the two opposite Scales of a Balance'"/>
+    <fix pb="79" before="" tcp="Eving" print="living" after=" b"
+         evidence="c790: p. 79 (scan 90): 'under a Notion of living by Faith'"/>
+    <fix pb="79" before="" tcp="Dart" print="Dark" after=","
+         evidence="c791: p. 79 (scan 90): 'trusting God in the Dark'"/>
+    <fix pb="79" before="" tcp="Eving" print="living" after=" u"
+         evidence="c792: p. 79 (scan 90): 'and living upon Christ'"/>
+    <fix pb="79" before="" tcp="forever" print="soever" after=" W"
+         evidence="c793: p. 79 (scan 90): 'how much soever Wickedness rages'"/>
+    <fix pb="84" before="" tcp="farthest" print="furthest" after=" t"
+         evidence="c797: p. 84 (scan 95): 'those who have gone furthest this Way'"/>
+    <fix pb="84" before="" tcp="over" print="ever" after=" i"
+         evidence="c799: p. 84 (scan 95): 'How difficult so ever it be to discern' (Flavel)"/>
+    <fix pb="85" before="" tcp="stain" print="slain" after=","
+         evidence="c801: p. 85 (scan 96): 'whether they should not be slain, will judge every Man'"/>
+    <fix pb="93" before="" tcp="these" print="those" after=" P"
+         evidence="c811: p. 93 (scan 104): 'as much in the Soul, as those Properties that are called spiritual'"/>
+    <fix pb="96" before="" tcp="communicate" print="communicates" after=" himself in his o"
+         evidence="c813: p. 96 (scan 107): 'wherein he exerts and communicates himself'"/>
+    <fix pb="100" before="" tcp="Baiaam" print="Balaam" after=","
+         evidence="c817: p. 100 (scan 111): 'as he did Balaam'"/>
+    <fix pb="101" before="" tcp="Aboliah" print="Aholiab" after=""
+         evidence="c818: p. 101 (scan 112): 'as he assisted Bezaleel and Aholiab'"/>
+    <fix pb="106" before="" tcp="vasily" print="vastly" after=" a"
+         evidence="c821: p. 106 (scan 117): 'perfectly different from, and vastly above any Sensation'"/>
+    <fix pb="114" before="y " tcp="know" print="knew" after=""
+         evidence="c826: p. 114 (scan 125): 'and they certainly knew it, that would not be spiritual Knowledge'"/>
+    <fix pb="114" before="" tcp="those" print="these" after=" S"
+         evidence="c828: p. 114 (scan 125): 'own the Things which these Scriptures say to 'em'"/>
+    <fix pb="114" before="" tcp="or" print="of" after=" h"
+         evidence="c829: p. 114 (scan 125): 'who gives it, and of his excellent Grace'"/>
+    <fix pb="115" before="" tcp="applics" print="applies" after=" t"
+         evidence="c830: p. 115 (scan 126): 'whatever Spirit applies the Promises'"/>
+    <fix pb="118" before="" tcp="Promise" print="Promises" after=" o"
+         evidence="c831: p. 118 (scan 129): 'than all the Promises of the Covenant of Grace'"/>
+    <fix pb="122" before="" tcp="extraordinarily" print="extrordinarily" after=" b"
+         evidence="c835: p. 122 (scan 133): misprint on page 'immediately and extrordinarily brought to Mind'"/>
+    <fix pb="122" before="" tcp="may" print="many" after=" c"
+         evidence="c837: p. 122 (scan 133): 'That which many call the Witness of the Spirit'"/>
+    <fix pb="123" before="" tcp="an" print="and" after=" h"
+         evidence="c838: p. 123 (scan 134): 'the coming of Christ, and his setting up'"/>
+    <fix pb="125" before="" tcp="hear" print="bear" after=" W"
+         evidence="c839: p. 125 (scan 136): 'God is said to bear Witness, with Signs and Wonders' (Heb. 2. 4)"/>
+    <fix pb="127" before="" tcp="Knewing" print="Knowing" after=" y"
+         evidence="c840: p. 127 (scan 138; worksheet says 126), footnote: 'Part I. p. 134. Knowing your Election of God'"/>
+    <fix pb="127" before="" tcp="Devil" print="Devils" after=","
+         evidence="c844: p. 127 (scan 138; worksheet says 310), footnote: 'ask of the Angels, how they know they are not Devils' (same quote on p. 310 also has Devils)"/>
+    <fix pb="127" before="nt " tcp="or" print="of" after=""
+         evidence="c845: p. 127 (scan 138; worksheet says 126), footnote: 'bound there 'till the Judgment of the great Day'"/>
+    <fix pb="127" before="" tcp="Life" print="Conclusion" after=" o"
+         evidence="c846: p. 127 (scan 138; worksheet says 258), footnote: 'the Minor Experience, and the Conclusion the Lord's Spirit's Work' (page also Minor)"/>
+    <fix pb="137" before="" tcp="forgot" print="forgat" after=" G"
+         evidence="c851: p. 137 (scan 148): 'but soon forgat God's Works; and in Naaman'"/>
+    <fix pb="141" before="" tcp="Soul" print="Saul" after=""
+         evidence="c854: p. 141 (scan 152): 'as in Saul towards David'"/>
+    <fix pb="154" before="" tcp="People" print="Peeple" after=":"
+         evidence="c858: p. 154 (scan 165): misprint on page, italic 'above all Peeple: Let them praise' (Psal. 99. 2) (zoomed)"/>
+    <fix pb="157" before="" tcp="then" print="them" after=" a"
+         evidence="c861: p. 157 (scan 168): 'but it may elevate them, and raise their Joy'"/>
+    <fix pb="157" before="" tcp="lefty" print="lofty" after=" T"
+         evidence="c862: p. 157 (scan 168): 'in the most lofty Terms, extol and magnify God'"/>
+    <fix pb="161" before="" tcp="Person" print="Persons" after=" t"
+         evidence="c867: p. 161 (scan 172): 'causing Persons to feel pleasantly'"/>
+    <fix pb="162" before="" tcp="or" print="of" after=" div"
+         evidence="c869: p. 162 (scan 173): 'apprehending or discerning of divine Things'"/>
+    <fix pb="162" before="" tcp="us" print="no" after=" mo"
+         evidence="c871: p. 162 (scan 173): 'The World seeth me no more' (John 14. 19)"/>
+    <fix pb="164" before="" tcp="Letter" print="Latter" after=" i"
+         evidence="c873: p. 164 (scan 175): 'in the Law. The Latter is often represented by relishing'"/>
+    <fix pb="165" before="" tcp="consults" print="consists" after=" i"
+         evidence="c876: p. 165 (scan 176): 'For this wholly consists in its Tendency'"/>
+    <fix pb="166" before="" tcp="Exercise" print="Exercises" after=" o"
+         evidence="c878: p. 166 (scan 177): 'of all gracious Exercises of Soul'"/>
+    <fix pb="170" before="" tcp="mythical" print="mystical" after=" M"
+         evidence="c880: p. 170 (scan 181): 'of the mystical Meaning of these and those Passages'"/>
+    <fix pb="172" before="" tcp="thy" print="the" after=" w"
+         evidence="c883: p. 172 (scan 183): 'to behold the wonderful spiritual Excellency'"/>
+    <fix pb="172" before="" tcp="Manifestation" print="Manifestations" after=" o"
+         evidence="c885: p. 172 (scan 183): 'the amiable and bright Manifestations of the divine Perfections'"/>
+    <fix pb="174" before="" tcp="that" print="than" after=" a"
+         evidence="c889: p. 174 (scan 185, not p. 264): 'conducts more securely, than all the Reasonings she could make'"/>
+    <fix pb="174" before="" tcp="these" print="those" after=" S"
+         evidence="c891: p. 174 (scan 185): 'on every Occasion, to those Speeches and Actions'"/>
+    <fix pb="175" before="" tcp="those" print="these" after=" G"
+         evidence="c893: p. 175 (scan 186): 'how to put on these Garments'"/>
+    <fix pb="175" before="" tcp="Tis" print="The" after=" L"
+         evidence="c894: p. 175 (scan 186): 'With Verse 15. The Labour of the Foolish' (Eccl. 10. 15)"/>
+    <fix pb="175" before="" tcp="that" print="what" after=" is a"
+         evidence="c895: p. 175 (scan 186): 'The Lips of the Righteous know what is acceptable' (Prov. 10. 32)"/>
+    <fix pb="178" before="" tcp="many" print="may" after=" a"
+         evidence="c900: p. 178 (scan 189): 'but may adore him'"/>
+    <fix pb="178" before="" tcp="Grace" print="Graces" after=" a"
+         evidence="c902: p. 178 (scan 189): 'and counterfeit Graces and Affections'"/>
+    <fix pb="184" before="" tcp="Snow" print="Show" after=" a"
+         evidence="c904: p. 184 (scan 195): 'however great a Show and Noise they make'"/>
+    <fix pb="185" before="" tcp="anox" print="anon" after=","
+         evidence="c906: p. 185 (scan 196): 'that were greatly affected, and anon, with Joy received the Word'"/>
+    <fix pb="187" before="" tcp="best" print="lest" after=" t"
+         evidence="c911: p. 187 (scan 198): 'that BELIEVE not, lest the Light of the GLORIOUS GOSPEL'"/>
+    <fix pb="190" before="" tcp="Eves" print="Eyes" after=" o"
+         evidence="c913: p. 190 (scan 201): 'hid from the Eyes of natural Men'"/>
+    <fix pb="194" before="" tcp="so" print="for" after=";"
+         evidence="c915: p. 194 (scan 205): 'died Martyrs for Christ, since the Beginning'"/>
+    <fix pb="194" before="" tcp="or" print="of" after=" Christi"
+         evidence="c917: p. 194 (scan 205): 'Arguments for the Truth of Christianity'"/>
+    <fix pb="201" before="" tcp="will" print="wilt" after=" n"
+         evidence="c921: p. 201 (scan 212): 'O God, thou wilt not despise' (Psal. 51. 17)"/>
+    <fix pb="201" before="" tcp="will" print="wilt" after="."
+         evidence="c924: p. 201 (scan 212; worksheet says 328): 'be it unto thee, even as thou wilt. Matth. 15. 26, 27.'"/>
+    <fix pb="203" before="" tcp="Realases" print="Recluses" after=""
+         evidence="c926: p. 203 (scan 214): 'Many Anchorites and Recluses have abandon'd'"/>
+    <fix pb="205" before="" tcp="or" print="of" after=" H"
+         evidence="c929: p. 205 (scan 216): 'of any Savour of Humility'"/>
+    <fix pb="205" before="" tcp="or" print="of" after=" thei"
+         evidence="c931: p. 205 (scan 216): 'had Reason solemnly to consider of their great Barrenness'"/>
+    <fix pb="205" before="" tcp="Price" print="Pride" after=";"
+         evidence="c932: p. 205 (scan 216): 'can be nothing else but spiritual Pride'"/>
+    <fix pb="207" before="" tcp="and" print="an" after=" I"
+         evidence="c934: p. 207 (scan 218): 'so subtil and secret an Iniquity'"/>
+    <fix pb="209" before="" tcp="chathed" print="cloathed" after=" w"
+         evidence="c937: p. 209 (scan 220): 'and be cloathed with Humility' (1 Pet. 5. 5)"/>
+    <fix pb="215" before="d " tcp="Angel" print="Angels" after=""
+         evidence="c942: p. 215 (scan 226): 'to the Saints and Angels in Heaven'"/>
+    <fix pb="215" before="" tcp="Praise" print="Praises" after=" a"
+         evidence="c943: p. 215 (scan 226): 'our most ardent Love and Praises appear to them'"/>
+    <fix pb="216" before="" tcp="abusing" print="abasing" after=" a"
+         evidence="c944: p. 216 (scan 227): 'so great and quick and abasing a Sense'"/>
+    <fix pb="217" before="" tcp="a" print="d" after=" up"
+         evidence="c946: p. 217 (scan 228): 'and look'd upon himself the most ignorant' (TCP 'look a' for 'look'd'; print token 'd' as TCP splits apostrophes, cf. 'open d')"/>
+    <fix pb="218" before="" tcp="pray" print="prays" after=" t"
+         evidence="c947: p. 218 (scan 229): 'often curses others, and prays that such Misery'"/>
+    <fix pb="221" before="" tcp="or" print="of" after=" H"
+         evidence="c950: p. 221 (scan 232): 'a great outward Shew of Humility'"/>
+    <fix pb="225" before="" tcp="to" print="in" after=" his B"
+         evidence="c953: p. 225 (scan 236): 'honour the Saints in his Behaviour'"/>
+    <fix pb="225" before="" tcp="or" print="of" after=" a"
+         evidence="c954: p. 225 (scan 236): 'a remarkable Instance of a humble Behaviour'"/>
+    <fix pb="225" before="" tcp="or" print="of" after=" M"
+         evidence="c955: p. 225 (scan 236): 'were a Grief of Mind to Isaac and Rebecca'"/>
+    <fix pb="226" before="y " tcp="Magdaline" print="Magdalene" after=""
+         evidence="c957: p. 226 (scan 237): 'like those of Mary Magdalene (Luke 7.'"/>
+    <fix pb="227" before="" tcp="come" print="comes" after=" t"
+         evidence="c959: p. 227 (scan 238): 'first Conversion, it comes to that in a little Time'"/>
+    <fix pb="228" before="" tcp="These" print="Those" after=" S"
+         evidence="c961: p. 228 (scan 239): 'the natural Temper: Those Sins which a Man'"/>
+    <fix pb="228" before="" tcp="Constitutions" print="Constitution" after=" e"
+         evidence="c963: p. 228 (scan 239): 'by his natural Constitution, especially inclined'"/>
+    <fix pb="229" before="" tcp="hold" print="held" after=" ou"
+         evidence="c966: p. 229 (scan 240): 'the Light in a Glass, held out in the Sun-beams'"/>
+    <fix pb="229" before="" tcp="sure" print="Nature" after=" o"
+         evidence="c968: p. 229 (scan 240): 'the Glass remains as it was, the Nature of it not being at all chang'd'"/>
+    <fix pb="233" before="" tcp="Lomb" print="Lamb" after=","
+         evidence="c975: p. 233 (scan 244): 'by David's delivering the Lamb, out of the Mouth of the Lion'"/>
+    <fix pb="232" before="" tcp="these" print="those" after=" Vertues t"
+         evidence="c971: p. 232 (scan 243): 'a special Agreeableness with those Vertues'"/>
+    <fix pb="232" before="" tcp="Forgiveness" print="Forgivness" after=","
+         evidence="c972: p. 232 (scan 243): page spells 'Love, Forgivness, and Mercy'"/>
+    <fix pb="233" before="" tcp="or" print="of" after=" B"
+         evidence="c974: p. 233 (scan 244): 'with the same Sort of Brightness'"/>
+    <fix pb="234" before="" tcp="Neah" print="Noah" after=""
+         evidence="c976: p. 234 (scan 245): 'The Dove that Noah sent out of the Ark'"/>
+    <fix pb="238" before="" tcp="it" print="its" after=". O"
+         evidence="c980: p. 238 (scan 249): 'the Good that is its Object'"/>
+    <fix pb="239" before="" tcp="Episties" print="Epistles" after="."
+         evidence="c981: p. 239 (scan 250): 'in his Epistles'"/>
+    <fix pb="256" before="" tcp="or" print="of" after=" P"
+         evidence="c991: p. 256 (scan 267): 'other uncommon Dispensation of Providence'"/>
+    <fix pb="263" before="" tcp="as" print="no" after=" ot"
+         evidence="c998: p. 263 (scan 274): 'desire no other Kind of Enjoyments'"/>
+    <fix pb="293" before="" tcp="knew" print="know" after=" t"
+         evidence="c1013: p. 293 (scan 304): 'Wherefore by their Fruits ye shall know them' (Matth. 7. 20)"/>
+    <fix pb="294" before="" tcp="Distrephes" print="Diotrephes" after=","
+         evidence="c1018: p. 294 (scan 305): 'he mentions one Diotrephes'"/>
+    <fix pb="298" before="" tcp="Things" print="Thing" after=" that b"
+         evidence="c1026: p. 298 (scan 309): 'of every individual Thing that belongs'"/>
+    <fix pb="303" before="" tcp="Interiours" print="Inferiours" after=" a"
+         evidence="c1029: p. 303 (scan 314): 'towards Superiours, Inferiours and Equals'"/>
+    <fix pb="305" before="" tcp="brirgeth" print="bringeth" after=" n"
+         evidence="c1030: p. 305 (scan 316): 'Every Tree that bringeth not forth good Fruit'"/>
+    <fix pb="305" before="" tcp="Savings" print="Sayings" after=" o"
+         evidence="c1031: p. 305 (scan 316): 'heareth these Sayings of mine'"/>
+    <fix pb="308" before="" tcp="Savings" print="Sayings" after=" o"
+         evidence="c1036: p. 308 (scan 319): 'what those preceeding Sayings of his are'"/>
+    <fix pb="309" before="r " tcp="Begger" print="Beggar" after=""
+         evidence="c1040: p. 309 (scan 320): 'to a poor Beggar, while his Hand'"/>
+    <fix pb="310" before="" tcp="others" print="other" after=" T"
+         evidence="c1041: p. 310 (scan 321): 'God and other Things come to stand in Competition'"/>
+    <fix pb="313" before="" tcp="or" print="of" after=" R"
+         evidence="c1043: p. 313 (scan 324): 'And the Difficulties of Religion are often represented'"/>
+    <fix pb="318" before="" tcp="must" print="most" after=" t"
+         evidence="c1045: p. 318 (scan 329): 'which his Heart inclines most to'"/>
+    <fix pb="326" before="" tcp="Places" print="Place" after=","
+         evidence="c1049: p. 326 (scan 337): 'offered him, in a distant Place, on Condition'"/>
+    <fix pb="337" before="" tcp="evercomes" print="overcomes" after=","
+         evidence="c1062: p. 337 (scan 348): 'to him that overcomes, Rev. 2. 17'"/>
+    <fix pb="342" before="" tcp="know" print="knows" after=","
+         evidence="c1065: p. 342 (scan 353): 'God knows his own Reasons'"/>
+    <fix pb="343" before="" tcp="distingushed" print="distinguished" after=" B"
+         evidence="c1066: p. 343 (scan 354): 'more by an amiable distinguished Behaviour' (TCP also lacks 'an')"/>
+    <fix pb="271" before="" tcp="Soul" print="Saul" after=""
+         evidence="c1003: p. 271 (scan 282): 'Matth. 5. 29,30. Saul was commanded to slay all God's Enemies'"/>
     <fix pb="7" before="" tcp="wise" print="" after=" t"
          evidence="p. 7: 'will circumcise thine Heart'; the gap holds &quot;circumcise&quot;"/>
-    <fix pb="13" before=", " tcp="at" print="as" after=""
-         evidence="p. 13: 'Put ye on, as the Elect of God' (Col 3:12)"/>
-    <fix pb="13" before="" tcp="Mixt" print="Mint" after=","
-         evidence="p. 13: 'ye pay Tythe of Mint, and Annise, and Cummin' (Matt 23:23)"/>
     <fix pb="14" before="" tcp="Commandment" print="Commandments" after=" c"
          evidence="p. 14: 'those two Commandments compre-hend all the Duty'"/>
-    <fix pb="15" before="" tcp="if" print="of" after=" S"
-         evidence="p. 15: 'Fear of Sin'"/>
     <fix pb="32" before="e " tcp="then" print="them" after=""
          evidence="p. 32: 'I hate them with perfect Hatred' (Ps 139:22)"/>
-    <fix pb="32" before="" tcp="ever" print="over" after=" h"
-         evidence="p. 32: 'his Sins going over his Head'"/>
     <fix pb="66" before="d to " tcp="l" print="b" after=""
          evidence="p. 66: 'the Maimed to be whole' (Matt 15:31)"/>
     <fix pb="66" before="" tcp="wide" print="whole" after=","
          evidence="p. 66: 'the Maimed to be whole'"/>
-    <fix pb="66" before="" tcp="beloved" print="believed" after="."
-         evidence="p. 66: 'as many as were ordained to eternal Life, believed' (Acts 13:48)"/>
     <fix pb="66" before="" tcp="s" print="d" after=", t"
          evidence="p. 66: 'So of Old, the Children of Israel'"/>
-    <fix pb="78" before="" tcp="with" print="will" after=" e"
-         evidence="p. 78: 'that will ever'"/>
     <fix pb="79" before="o " tcp="direct'" print="directl" after=""
          evidence="p. 79: 'do directly thwart'"/>
-    <fix pb="79" before="" tcp="Eving" print="living" after=" b"
-         evidence="p. 79: 'living by Sight'"/>
-    <fix pb="79" before="" tcp="Dart" print="Dark" after=","
-         evidence="p. 79: 'God in the Dark'"/>
-    <fix pb="79" before="" tcp="Eving" print="living" after=" u"
-         evidence="p. 79: 'living upon Frames'"/>
     <fix pb="79" before="" tcp="me" print="se" after=" th"
          evidence="p. 79: 'meerly because they take them'"/>
-    <fix pb="79" before="" tcp="art" print="are" after=" n"
-         evidence="p. 79: 'for there are no other'"/>
     <fix pb="79" before="r " tcp="Fi" print="E" after=""
          evidence="p. 79: 'keeping their Eye on God's Glory'"/>
     <fix pb="84" before="" tcp="sprang" print="sprung" after=" u"
          evidence="p. 84: 'the Blade was sprung up' (Matt 13:26)"/>
-    <fix pb="93" before="" tcp="only" print="abundantly" after=""
-         evidence="p. 93: 'unsanctified, is abundantly evident'"/>
     <fix pb="115" before="" tcp="be as" print="lie at" after=" G"
          evidence="p. 115: 'brought to lie at God's Foot'"/>
     <fix pb="125" before="" tcp="Act" print="Acts" after=" 1"
          evidence="p. 125: 'So Acts 14. 3.'"/>
-    <fix pb="127" before="nt " tcp="or" print="of" after=""
-         evidence="p. 127: 'bound there 'till the Judgment of the great Day'"/>
-    <fix pb="175" before="" tcp="Tis" print="The" after=" L"
-         evidence="p. 175: 'Verse 15. The Labour of the Foolish' (Eccl 10:15)"/>
     <fix pb="205" before="d " tcp="feriou" print="seriou" after=""
          evidence="p. 205: 'if a Minister should seriously tell 'em'"/>
     <fix pb="208" before="" tcp="Matters" print="Masters" after=" i"
@@ -73,8 +633,6 @@
          evidence="p. 208: 'Jam. 1. 19. Be ye swift to hear' "/>
     <fix pb="209" before="" tcp="me" print="one" after=" to"
          evidence="p. 209: 'All of you be subject one to another' (1 Pet 5:5)"/>
-    <fix pb="223" before="" tcp="time" print="me" after=","
-         evidence="p. 223: 'No, it seems to me, none are so bad as I'"/>
     <fix pb="229" before="" tcp="out" print="but" after=" in P"
          evidence="p. 229: 'but in Part'"/>
     <fix pb="230" before="" tcp="igher" print="ighty" after=" P"
@@ -87,22 +645,12 @@
          evidence="p. 232: 'his Fulness, and Grace for Grace'"/>
     <fix pb="256" before="" tcp="geeth" print="goeth" after=","
          evidence="p. 256: 'follow the Lamb whithersoever he goeth' (Rev 14:4)"/>
-    <fix pb="271" before="" tcp="Soul" print="Saul" after=""
-         evidence="p. 271: 'Saul was commanded to destroy'"/>
     <fix pb="271" before="" tcp="Joh" print="Josh" after=""
          evidence="p. 271: 'Deut. 1. 36. Josh. 14. 6, 8, 9'"/>
     <fix pb="273" before="" tcp="aithful" print="lothful" after=" S"
          evidence="p. 273: 'the slothful Servant, is a wicked Servant'"/>
-    <fix pb="305" before="" tcp="brirgeth" print="bringeth" after=" n"
-         evidence="p. 305: 'every Tree that bringeth not forth good Fruit' (Matt 7:19)"/>
     <fix pb="308" before="" tcp="work" print="Rock" after=""
          evidence="p. 308: 'built his House upon aRock'"/>
-    <fix pb="309" before="f " tcp="the" print="his" after=" D"
-         evidence="p. 309: 'according to the Fruit of his Doings' (Jer 17:10)"/>
-    <fix pb="328" before="" tcp="they" print="obey" after=","
-         evidence="p. 328: 'If ye be willing and obedient' — print 'If ye consent and obey, ye shall eat'"/>
-    <fix pb="343" before="" tcp="distingushed" print="distinguished" after=" B"
-         evidence="p. 343: 'amiable distinguished Behaviour'"/>
     <fix pb="unknown:005767_0352_10270971F8B09E78" before="ne " tcp="o" print="9" after=""
          evidence="errata: 'PAge 5. Line 9. for'"/>
     <fix pb="14" before="in the Original" tcp="," print=" is" after=" "
@@ -115,5 +663,73 @@
          evidence="p. 268: 'eminently his Work and Business' (the TCP's gaps either side stand for nothing)"/>
     <fix pb="273" before="" tcp="aithful" print="lothful" after=","
          evidence="p. 273: 'They that are slothful, are not Followers'"/>
+    <fix pb="7" before="the" tcp="servent" print="fervent" after="Exercises"
+         evidence="p. 7: 'or the fervent Exercises of the Heart'"/>
+    <fix pb="7" before="Be ye" tcp="servent" print="fervent" after="in Spirit"
+         evidence="p. 7: 'Be ye fervent in Spirit, serving the Lord' (Rom 12:11)"/>
+    <fix pb="7" before="" tcp="servent" print="fervent" after=""
+         evidence="p. 7: 'we be in good Earnest, fervent in Spirit'"/>
+    <fix pb="14" before="" tcp="Part" print="Paul" after=""
+         evidence="p. 14: 'And the Apostle Paul does from Time to Time'"/>
+    <fix pb="14" before="and" tcp="servent" print="fervent" after="Love which"
+         evidence="p. 14: 'such vigourous and fervent Love which Christ speaks of'"/>
+    <fix pb="15" before="affectionate, and" tcp="servent" print="fervent" after=""
+         evidence="p. 15: 'a vigourous, affectionate, and fervent Love'"/>
+    <fix pb="15" before="expected, and" tcp="servent" print="fervent" after=""
+         evidence="p. 15: 'Enjoyment of God is expected, and fervent Zeal for the Glory of God'"/>
+    <fix pb="15" before="from a" tcp="servent" print="fervent" after=""
+         evidence="p. 15: 'And in like Manner, from a fervent Love to Men'"/>
+    <fix pb="23" before="Brethren," tcp="left" print="lest" after="there be"
+         evidence="p. 23: 'Take heed Brethren, lest there be in any of you an evil Heart' (Heb 3:12)"/>
+    <fix pb="32" before="" tcp="mar" print="mer" after=","
+         evidence="p. 32: 'turned into the Drought of Sum-mer' (Psal. 32. 4)"/>
+    <fix pb="67" before="" tcp="ins" print="ius" after=","
+         evidence="p. 67: 'and both he, and Darius, in their high Affections'"/>
+    <fix pb="67" before="in" tcp="the" print="their" after=""
+         evidence="p. 67: 'Darius, in their high Affections'"/>
+    <fix pb="78" before="would be" tcp="lan" print="lam" after=""
+         evidence="p. 78: 'would be lamentably exposed indeed'"/>
+    <fix pb="78" before="" tcp="of" print="or" after="the"
+         evidence="p. 78: 'the Spirit of Bondage, or the servile Principle'"/>
+    <fix pb="79" before="" tcp="tute" print="tution" after=""
+         evidence="p. 79: 'God's wise and gracious Consti-tution of Things' (the TCP has 'Constitute' and a gap; the page has the one word)"/>
+    <fix pb="79" before="e" tcp="of" print="on" after="God's Glory"
+         evidence="p. 79: 'instead of keeping their Eye on God's Glory'"/>
+    <fix pb="110" before="Condition," tcp="sank" print="sunk" after="down"
+         evidence="p. 110: 'in this mortal Condition, sunk down deeply into the Body'"/>
+    <fix pb="127" before="in" tcp="an" print="" after=""
+         evidence="p. 127 note: 'Mr. Shepard is abundant in militating against the Notion' (no 'an' on the page)"/>
+    <fix pb="127" before="," tcp="is" print="as" after="an Evidence"
+         evidence="p. 127 note: 'Work of the Spirit wro't on the Heart, as an Evidence and Proof'"/>
+    <fix pb="127" before="" tcp="Miner" print="Minor" after=""
+         evidence="p. 127 note: 'The Major is the Word, the Minor Experience'"/>
+    <fix pb="193" before="have" tcp="I" print="" after=""
+         evidence="p. 193: ''till they have Learning and Acquaintance with the Histories'"/>
+    <fix pb="201" before="" tcp="Verify" print="Verily" after="I say unto you, Except"
+         evidence="p. 201: 'Matth. 18. 3, 4. Verily I say unto you, Except ye be converted'"/>
+    <fix pb="201" before="" tcp="Verify" print="Verily" after="I say unto you, whosoever"
+         evidence="p. 201: 'Mark 10. 15. Verily I say unto you, whosoever shall not receive'"/>
+    <fix pb="206" before="" tcp="Sed" print="Sod" after=""
+         evidence="p. 206: 'the most impure Beast in Sodom'"/>
+    <fix pb="243" before="Hope of Mercy," tcp="and" print="are" after="harden'd"
+         evidence="p. 243 note: 'some Hope of Mercy, are harden'd thereby to fly from God'"/>
+    <fix pb="256" before="" tcp="Presion" print="Preston" after=""
+         evidence="p. 256: '(says Dr. Preston) a certain Love, by Fits'"/>
+    <fix pb="264" before="Measure; but" tcp="with" print="wish" after="they had"
+         evidence="p. 264: 'not content themselves with any Measure; but wish they had more'"/>
+    <fix pb="270" before="mitteth" tcp="Son" print="Sin" after=", is of the Devil"
+         evidence="p. 270: 'He that com-mitteth Sin, is of the Devil' (1 John 3:8)"/>
+    <fix pb="287" before="if so, you" tcp="had" print="have" after="not fol"
+         evidence="p. 287 note: 'or if so, you have not followed the Lord to remove it'"/>
+    <fix pb="294" before="" tcp="Gains" print="Gaius" after=","
+         evidence="p. 294: 'the Ground of his good Opinion of Gaius, 3 John 3'"/>
+    <fix pb="294" before="" tcp="Gains" print="Gaius" after="?"
+         evidence="p. 294: 'the Truth that was in Gaius? And how'"/>
+    <fix pb="307" before="" tcp="De" print="Do" after=""
+         evidence="p. 307: 'as Dr. Doddridge observes'"/>
+    <fix pb="307" before="" tcp="by" print="In" after="this Practice"
+         evidence="p. 307: 'In this Practice of the Soul, is included the Aim'"/>
+    <fix pb="16" before="very" tcp="man" print="manifest," after=""
+         evidence="p. 16: 'And 'tis very manifest, that the Religion he expresses in his Epistles'"/>
   </corrections>
 </supplement>
