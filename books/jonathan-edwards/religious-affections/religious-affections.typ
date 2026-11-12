@@ -16,6 +16,10 @@
       ]
     ]
   ],
+  // 6x9 at 10.5pt: the editor's choice for a book this long (2026-11-11)
+  page-width: 6in,
+  page-height: 9in,
+  font-size: 10.5pt,
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.125in),   // Lulu: 401-600 pages
 )
 
