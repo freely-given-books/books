@@ -61,8 +61,6 @@
          evidence="c49: p. 13 (scan 24): 'and purify unto himself a peculiar People' (Tit. 2. 14)"/>
     <fix pb="14" before="" tcp="Poem" print="Rom" after="."
          evidence="c52: p. 14 (scan 25): 'as in Rom. 13. 8. He that loveth another'"/>
-    <fix pb="14" before="e Commandment" tcp="" print="is Charity" after=""
-         evidence="c53: p. 14 (scan 25): 'Now the End of the Commandment is Charity, out of a pure Heart' (1 Tim. 1. 5)"/>
     <fix pb="14" before="" tcp="" print="is αγαπη" after=" the p"
          evidence="c54: p. 14 (scan 25): 'in the Original is αγαπη, the proper English' (Greek, no accents visible; TCP dropped both words)"/>
     <fix pb="15" before="" tcp="is" print="to" after=" Me"
@@ -91,12 +89,8 @@
          evidence="c92: p. 32 (scan 43): 'in Luke 6. 23. to leap for Joy'"/>
     <fix pb="32" before="" tcp="from" print="them" after=" tha"
          evidence="c93: p. 32 (scan 43): 'grieved with them that rise up against thee' (Psal. 139. 21)"/>
-    <fix pb="32" before="s Souls" tcp="" print="thirsting" after=""
-         evidence="c95: p. 32 (scan 43): 'his Souls thirsting as a dry and thirsty Land'"/>
     <fix pb="32" before="" tcp="Baby" print="Body" after=" o"
          evidence="c96: p. 32 (scan 43): 'anointed the Body of Jesus'"/>
-    <fix pb="33" before="y, that" tcp="" print="should be" after=""
-         evidence="c98: p. 33 (scan 44): 'good Tydings of great Joy, that should be to all People'"/>
     <fix pb="33" before="" tcp="it" print="if" after=" r"
          evidence="c99: p. 33 (scan 44): 'And therefore, if religious Affections in Men here below'"/>
     <fix pb="44" before="" tcp="latter" print="better" after=" T"
@@ -113,22 +107,14 @@
          evidence="c154: p. 66 (scan 77): 'and that God hath visited his People' (Luke 7. 16)"/>
     <fix pb="66" before="" tcp="" print="soon" after=" forg"
          evidence="c155: p. 66 (scan 77): 'sang God's Praise; but soon forgat his Works'"/>
-    <fix pb="66" before="l and" tcp="" print="magnify" after=""
-         evidence="c157: p. 66 (scan 77): 'greatly to extol and magnify free Grace'"/>
     <fix pb="78" before="" tcp="with" print="will" after=" e"
          evidence="c174: p. 78 (scan 89): 'the Influence of, that will ever make Men conscientious'"/>
-    <fix pb="78" before="oy" tcp="" print="of Hope" after=""
-         evidence="c175: p. 78 (scan 89): 'the Light and Joy of Hope goes out'"/>
     <fix pb="78" before="" tcp="" print="on" after=" the contrary."
          evidence="c177: p. 78 (scan 89): 'And so on the contrary'"/>
-    <fix pb="79" before="c." tcp="" print="Fear" after=""
-         evidence="c181: p. 79 (scan 90): 'Temptations, &amp;c. / Fear is cast out by the Spirit of God'"/>
     <fix pb="79" before="" tcp="" print="exhort" after=" others"
          evidence="c182: p. 79 (scan 90): 'Constitution of Things, who exhort others to be confident'"/>
     <fix pb="79" before="" tcp="" print="Frames" after=" under a No"
          evidence="c184: p. 79 (scan 90): 'when in dead Frames; under a Notion of living by Faith'"/>
-    <fix pb="79" before="d it" tcp="" print="has" after=""
-         evidence="c185: p. 79 (scan 90): 'And it has a direct Tendency'"/>
     <fix pb="79" before="" tcp="art" print="are" after=" n"
          evidence="c186: p. 79 (scan 90): 'for there are no other Evidences'"/>
     <fix pb="83" before="" tcp="not" print="rot" after=" u"
@@ -209,8 +195,6 @@
          evidence="c399: p. 194 (scan 205): 'from Antiquity and History, had been but very imperfectly handled'"/>
     <fix pb="196" before="" tcp="has" print="lies" after=" o"
          evidence="c403: p. 196 (scan 207): 'so that the Mind thereby lies open'"/>
-    <fix pb="201" before="h is my" tcp="" print="Footstool" after=""
-         evidence="c409: p. 201 (scan 212): 'and the Earth is my Footstool:—-But to this Man' (Isai. 66. 1, 2)"/>
     <fix pb="201" before="" tcp="But is" print="to" after=" t"
          evidence="c410: p. 201 (scan 212): 'my Footstool:—-But to this Man will I look' - TCP 'But But is this', page 'But to this'"/>
     <fix pb="201" before="" tcp="it" print="to" after=" b"
@@ -221,8 +205,6 @@
          evidence="c420: p. 205 (scan 216): 'their wicked Hearts, and their great Short-comings'"/>
     <fix pb="208" before="" tcp="than" print="holier than" after=" tho"
          evidence="c425: p. 208 (scan 219): 'I am holier than thou' (Isai. 65. 5)"/>
-    <fix pb="208" before="e to take" tcp="" print="a high" after=""
-         evidence="c426: p. 208 (scan 219): 'as it were to take a high Seat among them' (TEI gap fill put 'Seat among' for the gap, page has 'a high Seat among')"/>
     <fix pb="208" before="" tcp="" print="for" after=" them to ta"
          evidence="c427: p. 208 (scan 219): ''Tis natural for them to take it for granted'"/>
     <fix pb="208" before="" tcp="at" print="it" after=" f"
