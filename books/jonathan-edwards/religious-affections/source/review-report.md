@@ -2,13 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| case | 376 |
+| spelling | 1663 |
+| case | 375 |
+| emendation | 219 |
 | punctuation | 161 |
-| spelling | 30 |
-| emendation | 22 |
+| gap | 34 |
+| grammar | 16 |
 | spacing | 9 |
-| gap | 3 |
-| grammar | 1 |
 | skipped | 1 |
 | merge | 1 |
 
@@ -18,37 +18,267 @@
 
 ## gap
 
+- [part-1/03-religion-in-the-affections.typ] stedfast → steadfast
+- [part-1/03-religion-in-the-affections.typ] as an Anchor of the Soul, both sure and stedfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and → as an Anchor of the Soul, both sure and steadfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and
+- [part-1/03-religion-in-the-affections.typ] enquire → inquire
+- [part-1/03-religion-in-the-affections.typ] Pharisees, Hypocrites; for ye pay Tythe of → Pharisees, Hypocrites; for ye pay Tithe of
+- [part-1/03-religion-in-the-affections.typ] Annise → Anise
+- [part-1/03-religion-in-the-affections.typ] all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbour as thy self. On these two Commandments hang all the Law and the Prophets. → all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbor as thy self. On these two Commandments hang all the Law and the Prophets.
+- [part-1/03-religion-in-the-affections.typ] enflamed, → inflamed,
+- [part-1/04-inferences.typ] be consider’d → be considered
+- [part-1/04-inferences.typ] extoll’d → extolled
+- [part-2/sign-01.typ] rais'd to an → raised to an
+- [part-2/sign-03.typ] open’d → opened
+- [part-2/sign-04.typ] vapoury → vapory
+- [part-2/sign-08.typ] rais’d → raised
+- [part-2/sign-08.typ] looses → loses
+- [part-2/sign-10.typ] and honours → and honors
+- [part-3/sign-01.typ] extrinsick → extrinsic
+- [part-3/sign-01.typ] ben’t restrain’d → ben’t restrained
+- [part-3/sign-04.typ] relishbes → relishes
+- [part-3/sign-05.typ] 'till they → till they
+- [part-3/sign-05.typ] fetch’d → fetched
 - [part-3/sign-06.typ] Part of Dictators → part of Dictators
+- [part-3/sign-06.typ] useth Intreaties → useth Entreaties
+- [part-3/sign-06.typ] Behaviour; → Behavior;
+- [part-3/sign-06.typ] down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behaviour among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them. → down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behavior among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them.
+- [part-3/sign-07.typ] unsavoury → unsavory
+- [part-3/sign-11.typ] coveteous → covetous
+- [part-3/sign-12.typ note] thoro' → thorough
 - [part-3/sign-12.typ] doth → Doth
+- [part-3/sign-12.typ] Zechariab → Zechariah
+- [part-3/sign-12.typ] loueth → loveth
+- [part-3/sign-12.typ] materially agreable → materially agreeable
+- [part-3/sign-12.typ] loueth → loveth
+- [part-3/sign-12.typ] And they are called by this Name, because hereby Professors are try'd and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supream Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that thro' them I may prove Israel, whether they will keep the → And they are called by this Name, because hereby Professors are tried and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supreme Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that through them I may prove Israel, whether they will keep the
 - [part-3/sign-12.typ] thus → Thus
 
 ## emendation
 
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [preface.typ] 'em → them
+- [part-1/01-the-text.typ] 'em → them
+- [part-1/01-the-text.typ] 'em → them
+- [part-1/01-the-text.typ] 'em → them
+- [part-1/02-what-the-affections-are.typ] 'em → them
+- [part-1/02-what-the-affections-are.typ] 'em → them
 - [part-1/02-what-the-affections-are.typ] voluntarily → 
+- [part-1/03-religion-in-the-affections.typ] 'em → them
+- [part-1/03-religion-in-the-affections.typ] 'em → them
+- [part-1/03-religion-in-the-affections.typ] that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbour as thy self. → that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbor as thy self.
+- [part-1/03-religion-in-the-affections.typ] em inent → eminent
+- [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] work → things of the word
+- [part-1/03-religion-in-the-affections.typ] Christ anity → Christianity
+- [part-1/04-inferences.typ] 'em → them
+- [part-1/04-inferences.typ] 'em → them
+- [part-1/04-inferences.typ] 'em → them
+- [part-1/04-inferences.typ] 'em → them
+- [part-2/sign-01.typ] 'em → them
+- [part-2/sign-01.typ] 'em → them
+- [part-2/sign-03.typ] 'em → them
+- [part-2/sign-04.typ] 'em → them
+- [part-2/sign-04.typ] 'em → them
+- [part-2/sign-04.typ] 'em → them
+- [part-2/sign-04.typ] 'em → them
+- [part-2/sign-06.typ] 'em → them
 - [part-2/sign-06.typ] him → Jesus
+- [part-2/sign-06.typ] 'em → them
 - [part-2/sign-08.typ] does → 
 - [part-2/sign-08.typ] which → who
+- [part-2/sign-08.typ] 'em → them
+- [part-2/sign-08.typ] 'em → them
+- [part-2/sign-08.typ] 'em → them
 - [part-2/sign-11.typ] but → not
+- [part-2/sign-11.typ] 'em → them
+- [part-2/sign-11.typ] 'em → them
+- [part-2/sign-11.typ] 'em → them
+- [part-2/sign-11.typ] 'em → them
+- [part-2/sign-11.typ] 'em → them
+- [part-2/sign-12.typ] certa in → certain
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] 'em → them
+- [part-3/00-of-the-signs.typ] 'em → them
+- [part-3/sign-01.typ note] 'em → them
 - [part-3/sign-01.typ] was → is
 - [part-3/sign-01.typ] the → 
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] producing → producing the
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] 'em → them
 - [part-3/sign-02.typ] indeed → in
-- [part-3/sign-02.typ] the → the love of the
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] In → In the love of
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] they → I
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-02.typ] 'em → them
+- [part-3/sign-03.typ] 'em → them
 - [part-3/sign-03.typ] used → used concerning God
 - [part-3/sign-03.typ] which → that
+- [part-3/sign-03.typ] 'em → them
+- [part-3/sign-03.typ] 'em → them
 - [part-3/sign-03.typ] and → 
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] ' → 
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] of → 
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] 'em → them
+- [part-3/sign-06.typ note] 'd → ed
+- [part-3/sign-06.typ note] 'em → them
+- [part-3/sign-06.typ note] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] that → 
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-07.typ] 'em → them
+- [part-3/sign-08.typ] 'em → them
+- [part-3/sign-08.typ] 'em → them
+- [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] was → 
+- [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] as → is
+- [part-3/sign-09.typ note] 'em → them
+- [part-3/sign-09.typ note] 'em → them
+- [part-3/sign-09.typ note] 'em → them
+- [part-3/sign-09.typ] 'em → them
 - [part-3/sign-09.typ] and → of
+- [part-3/sign-09.typ] 'em → them
+- [part-3/sign-09.typ] 'em → them
 - [part-3/sign-09.typ] he → 
+- [part-3/sign-09.typ] 'em → them
+- [part-3/sign-09.typ] 'em → them
+- [part-3/sign-10.typ note] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-11.typ note] 'em → them
+- [part-3/sign-11.typ] 'em → them
+- [part-3/sign-12.typ note] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
 
 ## grammar
 
+- loueth → loveth (×14)
+- LOUETH → LOVETH
 - judgeth → judged
 
 ## punctuation
@@ -238,39 +468,458 @@
 - IN → In
 - Kings → kings
 - Some → some
-- Tho' → tho'
 - reason → Reason
 - they → They
 
 ## spelling
 
+- tho' → though (×165)
+- it's → its (×118)
+- behaviour → behavior (×56)
+- thro' → through (×56)
+- 'till → till (×44)
+- favour → favor (×43)
+- honour → honor (×33)
+- meer → mere (×31)
+- Saviour → Savior (×30)
+- Tho' → Though (×30)
+- agreable → agreeable (×28)
+- dependance → dependence (×24)
+- altho' → although (×20)
+- labour → labor (×20)
+- mention'd → mentioned (×20)
+- impress'd → impressed (×18)
+- meerly → merely (×16)
+- supream → supreme (×15)
+- colours → colors (×14)
+- neighbours → neighbors (×14)
+- preceeding → preceding (×14)
+- fulness → fullness (×12)
+- open'd → opened (×11)
+- pretences → pretenses (×11)
+- publick → public (×11)
+- seem'd → seemed (×11)
+- consider'd → considered (×10)
+- enlightning → enlightening (×10)
+- express'd → expressed (×9)
+- savour → savor (×9)
+- subtil → subtle (×9)
+- subtilty → subtlety (×9)
+- endeavours → endeavors (×8)
+- fill'd → filled (×8)
+- loose → lose (×8)
+- mens → men's (×8)
+- odour → odor (×8)
+- It's → Its (×7)
+- explain'd → explained (×7)
+- prevail'd → prevailed (×7)
+- endeavour → endeavor (×6)
+- experienc'd → experienced (×6)
+- join'd → joined (×6)
+- neighbour → neighbor (×6)
+- pretence → pretense (×6)
+- stedfast → steadfast (×6)
+- unparallel'd → unparalleled (×6)
+- apostacy → apostasy (×5)
+- deliver'd → delivered (×5)
+- enlightnings → enlightenings (×5)
+- enquired → inquired (×5)
+- enquiry → inquiry (×5)
+- favours → favors (×5)
+- fervour → fervor (×5)
+- honoured → honored (×5)
+- melancholly → melancholy (×5)
+- pass'd → passed (×5)
+- prophaneness → profaneness (×5)
+- sepulchre → sepulcher (×5)
+- vigour → vigor (×5)
+- Altho' → Although (×4)
+- appear'd → appeared (×4)
+- attain'd → attained (×4)
+- contain'd → contained (×4)
+- coveteousness → covetousness (×4)
+- crown'd → crowned (×4)
+- enlightned → enlightened (×4)
+- extrinsick → extrinsic (×4)
+- fix'd → fixed (×4)
+- look'd → looked (×4)
+- lustre → luster (×4)
+- mix'd → mixed (×4)
+- obtain'd → obtained (×4)
+- publickly → publicly (×4)
+- reveal'd → revealed (×4)
+- thoro' → thorough (×4)
+- touch'd → touched (×4)
+- woful → woeful (×4)
+- 'Till → till (×3)
+- Neighbour's → Neighbor's (×3)
+- Tho'ts → Thoughts (×3)
+- centre → center (×3)
+- colour → color (×3)
+- compar'd → compared (×3)
+- compleated → completed (×3)
+- endeavoured → endeavored (×3)
+- enquire → inquire (×3)
+- enter'd → entered (×3)
+- esteem'd → esteemed (×3)
+- extream → extreme (×3)
+- falshood → falsehood (×3)
+- govern'd → governed (×3)
+- hardned → hardened (×3)
+- hereticks → heretics (×3)
+- indued → endued (×3)
+- labouring → laboring (×3)
+- learn'd → learned (×3)
+- lillies → lilies (×3)
+- looses → loses (×3)
+- marvellous → marvelous (×3)
+- occasion'd → occasioned (×3)
+- overpower'd → overpowered (×3)
+- possess'd → possessed (×3)
+- priviledge → privilege (×3)
+- priviledges → privileges (×3)
+- render'd → rendered (×3)
+- stedfastly → steadfastly (×3)
+- stupify → stupefy (×3)
+- suffer'd → suffered (×3)
+- turn'd → turned (×3)
+- tydings → tidings (×3)
+- vigourous → vigorous (×3)
+- Agreable → Agreeable (×2)
+- Judg → Judge (×2)
+- Meerly → Merely (×2)
+- abandon'd → abandoned (×2)
+- alter'd → altered (×2)
+- answer'd → answered (×2)
+- armour → armor (×2)
+- attone → atone (×2)
+- attonement → atonement (×2)
+- blameable → blamable (×2)
+- cloath → clothe (×2)
+- cloathing → clothing (×2)
+- cloaths → clothes (×2)
+- concern'd → concerned (×2)
+- counselling → counseling (×2)
+- dependant → dependent (×2)
+- desireable → desirable (×2)
+- disagreable → disagreeable (×2)
+- disagreableness → disagreeableness (×2)
+- embolden'd → emboldened (×2)
+- enlighten'd → enlightened (×2)
+- enquiries → inquiries (×2)
+- examin'd → examined (×2)
+- exhileration → exhilaration (×2)
+- favour'd → favored (×2)
+- favourite → favorite (×2)
+- favourites → favorites (×2)
+- grosly → grossly (×2)
+- harden'd → hardened (×2)
+- heal'd → healed (×2)
+- honourable → honorable (×2)
+- honourableness → honorableness (×2)
+- honours → honors (×2)
+- influenc'd → influenced (×2)
+- labours → labors (×2)
+- loathsomness → loathsomeness (×2)
+- lyar → liar (×2)
+- lye → lie (×2)
+- maintain'd → maintained (×2)
+- natur'd → natured (×2)
+- offer'd → offered (×2)
+- own'd → owned (×2)
+- pardon'd → pardoned (×2)
+- penn'd → penned (×2)
+- press'd → pressed (×2)
+- profess'd → professed (×2)
+- promis'd → promised (×2)
+- pronounciation → pronunciation (×2)
+- receiv'd → received (×2)
+- refer'd → referred (×2)
+- rejoycing → rejoicing (×2)
+- reliev'd → relieved (×2)
+- reproach'd → reproached (×2)
+- seal'd → sealed (×2)
+- spiritualiz'd → spiritualized (×2)
+- stop'd → stopped (×2)
+- sum'd → summed (×2)
+- surprizing → surprising (×2)
+- utter'd → uttered (×2)
+- valour → valor (×2)
+- weaken'd → weakened (×2)
+- wofully → woefully (×2)
+- Academicks → Academics
+- Begger's → Beggar's
+- Burthens → Burdens
 - Complaisance → complacence
+- Cynicks → Cynics
+- Forgivness → Forgiveness
+- Frith → Faith
+- Gnosticks → Gnostics
 - Goliah → Goliath
+- Honoured → Honored
+- Jephtbab → Jephthah
+- Judoic → Judaic
+- Lora → Lord
+- Marvellous → Marvelous
+- Mesaick → Mosaic
+- Nebuchadnezzer → Nebuchadnezzar
+- Peeple → People
+- Pharoah → Pharaoh
+- Phythagorean → Pythagorean
+- Preceeding → Preceding
+- Pretiousness → Preciousness
 - Testamen → Testament
+- Tho' → though
+- Thro'out → Throughout
+- admir'd → admired
+- affecttion → affection
+- agreably → agreeably
+- alledging → alleging
+- allsufficiency → all-sufficiency
+- alsufficiency → all-sufficiency
+- antient → ancient
+- apear → appear
+- apostacies → apostasies
+- approbotion → approbation
 - ascention → ascension
+- bargain'd → bargained
+- begger → beggar
+- beleiving → believing
 - benefits → benefit
+- bewilder'd → bewildered
+- bless'd → blessed
+- bruitish → brutish
+- carry'd → carried
+- characteristick → characteristic
+- characteristicks → characteristics
+- chearful → cheerful
+- chearfully → cheerfully
+- chearfulness → cheerfulness
+- clamour → clamor
+- coin'd → coined
+- collatteral → collateral
+- compos'd → composed
+- concoraicants → concomitants
+- condemn'd → condemned
+- condescention → condescension
+- conseqently → consequently
 - continued → contrived
+- contray → contrary
+- counsellor → counselor
+- counsellors → counselors
+- cover'd → covered
+- crack'd → cracked
+- croud → crowd
+- crucify'd → crucified
+- damn'd → damned
+- darken'd → darkened
+- defence → defense
+- depress'd → depressed
+- desart → desert
+- desarts → deserts
+- destroy'd → destroyed
+- determin'd → determined
+- deuled → defiled
+- disagreably → disagreeably
+- discern'd → discerned
+- discernable → discernible
+- discernably → discernibly
+- discover'd → discovered
+- disfigur'd → disfigured
+- dishonoured → dishonored
+- disorder'd → disordered
 - dispensation → dispensations
+- displeas'd → displeased
 - dispositions → disposition
+- distemper'd → distempered
+- drop'd → dropped
+- dulness → dullness
 - effectually → effectual
+- encreases → increases
+- encreasing → increasing
+- endeavouring → endeavoring
+- engag'd → engaged
+- envenom'd → envenomed
+- especeially → especially
+- establish'd → established
+- exchang'd → exchanged
+- exercis'd → exercised
 - exercise → excite
 - exercises → exercise
 - exercizing → exercising
+- expos'd → exposed
+- extasies → ecstasies
+- extinguish'd → extinguished
+- extrordinarily → extraordinarily
+- falsiy → falsely
+- fear'd → feared
+- fervours → fervors
+- flow'd → flowed
+- foil'd → foiled
+- fole → foal
+- fool'd → fooled
+- fordid → sordid
+- form'd → formed
+- fulfill'd → fulfilled
+- garnish'd → garnished
+- gather'd → gathered
 - gave → gives
 - glory → glorify
+- gratfied → gratified
+- gull'd → gulled
+- hatch'd → hatched
+- heardst → heardest
+- heighten'd → heightened
+- highminded → high-minded
+- honour'd → honored
+- honouring → honoring
+- howed → bowed
+- hungred → hungered
+- hypocrits → hypocrites
+- imagin'd → imagined
+- immediated → immediate
+- immoveable → immovable
+- immoveably → immovably
 - incapable → capable
+- inclin'd → inclined
+- inconsistence → inconsistency
+- inconveniencies → inconveniences
+- incumber → encumber
+- independant → independent
+- infer'd → inferred
+- inferr'd → inferred
+- ingeniosity → ingenuity
+- invinceable → invincible
+- irresistable → irresistible
+- judgement → judgment
+- jus → ius
+- kill'd → killed
 - lain → laid
+- lengthen'd → lengthened
+- liken'd → likened
+- lov'd → loved
+- manifectations → manifestations
+- mans → man's
 - many → may
+- mark'd → marked
+- match'd → matched
+- mathematicks → mathematics
+- mimick → mimic
+- mould → mold
+- mourn'd → mourned
+- mov'd → moved
+- musick → music
 - natures → nature
 - never → ever
+- occular → ocular
+- oeconomy → economy
+- order'd → ordered
+- overlook'd → overlooked
+- paradventure → peradventure
+- pav'd → paved
+- pecular → peculiar
+- perform'd → performed
+- physick → physic
+- pick'd → picked
+- pleas'd → pleased
+- power'd → powered
 - practices → practice
+- practising → practicing
+- preach'd → preached
+- preceedes → precedes
+- preceeds → precedes
 - precious → previous
+- preferr'd → preferred
+- prepar'd → prepared
+- priviledged → privileged
+- prophaness → profaneness
+- prophecy'd → prophesied
+- propos'd → proposed
+- pull'd → pulled
+- quarrellings → quarrelings
+- quell'd → quelled
+- rearing → roaring
+- reckon'd → reckoned
+- redeem'd → redeemed
+- referr'd → referred
+- rejoyce → rejoice
+- remain'd → remained
+- renown'd → renowned
+- resign'd → resigned
+- restor'd → restored
+- restrain'd → restrained
+- rhotorician → rhetorician
+- ridicul'd → ridiculed
 - rigorous → vigorous
+- ruin'd → ruined
+- satisfy'd → satisfied
+- savoury → savory
+- scoarg'd → scourged
 - seeking → seeing
+- seperated → separated
+- sepulchres → sepulchers
+- serv'd → served
+- shew'd → showed
+- shock'd → shocked
+- signifys → signifies
+- soil'd → foiled
+- sollicitations → solicitations
+- sooth'd → soothed
+- sory → story
+- spight → spite
+- spiritualy → spiritually
+- splended → splendid
+- stamp'd → stamped
+- stopp'd → stopped
+- strain'd → strained
+- strawed → strewed
+- stund → stun
+- stupifying → stupefying
+- subsistance → subsistence
+- suceedingly → exceedingly
 - suparlative → superlative
+- supreamly → supremely
+- surprized → surprised
+- swarm'd → swarmed
+- swasion → suasion
+- sway'd → swayed
+- swolen → swollen
+- synonimous → synonymous
+- takens → tokens
+- talk'd → talked
 - terror → terrors
 - the → 'the
+- theatre → theater
+- transfigur'd → transfigured
+- truely → truly
+- trustling → trusting
+- tyger → tiger
+- understandstanding → understanding
+- undiscernable → undiscernible
+- undiscernably → undiscernibly
+- unfoundness → unsoundness
+- unmov'd → unmoved
+- unparrallel'd → unparalleled
+- unsavouriness → unsavoriness
+- unsavoury → unsavory
+- us'd → used
+- vapours → vapors
+- view'd → viewed
 - virtue → virtues
+- warriour → warrior
+- wash'd → washed
+- weltring → weltering
+- whereever → wherever
+- whethersoever → whithersoever
+- whimseys → whimsies
+- whisper'd → whispered
+- wilful → willful
+- wonder'd → wondered
+- wondred → wondered
+- wondring → wondering
+- wordly → worldly
+- woulid → would
+- wracking → racking
 - wraped → wrapped
 - yo → you
 - ΕΡΓΟ → ΕΡΓΩ

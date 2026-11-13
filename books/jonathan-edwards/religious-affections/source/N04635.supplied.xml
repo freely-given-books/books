@@ -673,7 +673,7 @@
          evidence="p. 308: 'built his House upon aRock'"/>
     <fix pb="unknown:005767_0352_10270971F8B09E78" before="ne " tcp="o" print="9" after=""
          evidence="errata: 'PAge 5. Line 9. for'"/>
-    <fix pb="14" before="in the Original" tcp="," print=" is" after=" "
+    <fix pb="14" before="in the " tcp="Original," print="Original is" after=""
          evidence="p. 14: 'in the Original is αγαπη, the proper English of which'"/>
     <fix pb="158" before="" tcp="Love" print="have" after=","
          evidence="p. 158: 'Many have, and these will fall away'"/>
@@ -777,5 +777,31 @@
          evidence="p. 204 (scan 215) footnote: 'as the Academicks, who profess'd they knew nothing'"/>
     <fix pb="179" before="pretended to " tcp="Enthusiams" print="Enthusiasms" after=";"
          evidence="p. 180 (scan 191) footnote: 'many have pretended to Enthusiasms;—-They leave the Scriptures'"/>
+    <fix pb="79" before="with " tcp="Gods" print="Goods" after=", in their"
+         evidence="p. 79 (scan 90): 'rich and encreased with Goods, in their own Apprehensions' (Rev. 3. 17; Kraken 'withGoods')"/>
+    <fix pb="18" before="wept over it, " tcp="saring" print="saying" after=","
+         evidence="p. 18 (scan 29): 'he beheld the City, and wept over it, saying' (Luke 19. 41, 42)"/>
+    <fix pb="32" before="Resurrection; " tcp="Marth" print="Matth" after=", 28."
+         evidence="p. 32 (scan 43): 'on Occasion of Christ's Resurrection; Matth. 28. 8.' (Kraken)"/>
+    <fix pb="32" before="Wicked that " tcp="for sake" print="forsake" after=" thy"
+         evidence="p. 32 (scan 43): 'because of the Wicked that forsake thy Law' (Psal. 119. 53)"/>
+    <fix pb="79" before="" tcp="for sake Chirst, an I" print="forsake Christ, and" after=" l"
+         evidence="p. 79 (scan 90): 'Persons can't be said to forsake Christ, and live on their Experiences'"/>
+    <fix pb="65" before="" tcp="down" print="dow" after=", which open"
+         evidence="p. 65 (scan 76): 'at his eastern Win-dow, which open'd next to mine' (Kraken 'Win¬')"/>
+    <fix pb="127" before="is " tcp="insused" print="infused" after=", and the vital"
+         evidence="p. 128 (scan 139) footnote: 'before the Habit is infused, and the vital Act perform'd' (the long s keyed for f)"/>
+    <fix pb="154" before="Light is " tcp="soum" print="sown" after=" for the"
+         evidence="p. 154 (scan 165): 'Light is sown for the Righteous' (Psal. 97. 11; Kraken 'sovn')"/>
+    <fix pb="167" before="Hearts are " tcp="unfound" print="unsound" after="."
+         evidence="p. 167 (scan 178): 'and yet their Hearts are unsound' (Kraken)"/>
+    <fix pb="83" before="be very " tcp="favoury" print="savoury" after=","
+         evidence="p. 83 (scan 94): 'may appear fair, and be very savoury' (Kraken)"/>
+    <fix pb="58" before="" tcp="ach" print="oh" after="'"
+         evidence="p. 58 (scan 69): 'Pharaoh's chief Baker' (Gen. 40; gap 257 holds 'ara')"/>
+    <fix pb="67" before="contrary to the " tcp="plair" print="" after=""
+         evidence="p. 67 (scan 78): 'and contrary to the plainest Scripture Evidence' (Kraken); the TCP's 'plair' before the gap (plainest) is no word of the print"/>
+    <fix pb="114" before="" tcp="mdash;" print="—" after="it"
+         evidence="p. 114 (scan 125): 'Fear not,—it is your Father's good Pleasure' (Luke 12. 32): the TCP's entity &amp;mdash; lost its '&amp;' to a gap"/>
   </corrections>
 </supplement>
