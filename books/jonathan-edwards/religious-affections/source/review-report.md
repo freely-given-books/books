@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
+| case | 376 |
 | punctuation | 161 |
 | spelling | 30 |
 | emendation | 22 |
-| case | 10 |
 | spacing | 9 |
-| gap | 2 |
+| gap | 3 |
 | grammar | 1 |
 | skipped | 1 |
 | merge | 1 |
@@ -18,6 +18,7 @@
 
 ## gap
 
+- [part-3/sign-06.typ] Part of Dictators → part of Dictators
 - [part-3/sign-12.typ] doth → Doth
 - [part-3/sign-12.typ] thus → Thus
 
@@ -33,7 +34,7 @@
 - [part-3/sign-01.typ] the → 
 - [part-3/sign-01.typ] producing → producing the
 - [part-3/sign-02.typ] indeed → in
-- [part-3/sign-02.typ] In → In the love of
+- [part-3/sign-02.typ] the → the love of the
 - [part-3/sign-02.typ] they → I
 - [part-3/sign-03.typ] used → used concerning God
 - [part-3/sign-03.typ] which → that
@@ -216,10 +217,26 @@
 
 ## case
 
+- Spirit → spirit (×158)
+- Part → part (×70)
+- Acts → acts (×33)
+- Spirits → spirits (×31)
+- Mark → mark (×13)
+- Father → father (×11)
+- Mount → mount (×11)
+- Son → son (×10)
+- King → king (×7)
+- Lamb → lamb (×6)
+- Guide → guide (×4)
+- Master → master (×4)
+- Sea → sea (×4)
+- Mediator → mediator (×2)
 - and → And (×2)
 - the → The (×2)
+- Almighty → almighty
 - And → and
 - IN → In
+- Kings → kings
 - Some → some
 - Tho' → tho'
 - reason → Reason

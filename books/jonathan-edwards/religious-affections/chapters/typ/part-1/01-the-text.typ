@@ -41,4 +41,4 @@ Here I would,
 
 I. Show what is intended by the #emph[affections,]
 
-II. Observe some things which make it evident, that a great Part of true religion lies in the affections.
+II. Observe some things which make it evident, that a great part of true religion lies in the affections.
