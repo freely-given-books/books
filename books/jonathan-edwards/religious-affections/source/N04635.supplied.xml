@@ -817,5 +817,19 @@
          evidence="p. 201 (scan 212): 'Isai. 66. 1, 2. Thus saith the Lord, the Heaven is my Throne' (Kraken)"/>
     <fix pb="98" before="" tcp="1. 24" print="1. 14" after=". and an having"
          evidence="p. 98 (scan 109): 'Eph. 1. 14. and an having any Thing of the Spirit' (Kraken)"/>
+    <fix pb="225" before=", Acts. " tcp="20" print="26" after=". 25."
+         evidence="p. 225 (scan 236): 'So Paul honoured Festus, Acts. 26. 25. I am not mad, most noble Festus' (Kraken)"/>
+    <fix pb="23" before="Ezek. 11. " tcp="10" print="19" after=". and Chap. 36."
+         evidence="p. 23 (scan 34): 'giving an Heart of Flesh, Ezek. 11. 19. and Chap. 36. 26.' (Kraken)"/>
+    <fix pb="268" before="Psal. " tcp="110" print="119" after=". 1, 2"
+         evidence="p. 268 (scan 279): 'Psal. 119. 1. Blessed are the Undefiled in the Way' (Kraken)"/>
+    <fix pb="293" before="judge of us; Matth. 5. " tcp="10" print="16" after="."
+         evidence="p. 293 (scan 304): 'whereby they may judge of us; Matth. 5. 16. Let your Light so shine' (Kraken, Tesseract)"/>
+    <fix pb="164" before="Thou " tcp="favourest" print="savourest" after=""
+         evidence="p. 164 (scan 175): 'Matth. 16. 23. Thou savourest not the Things that be of God' (Kraken 'savour est'; the long s keyed as f)"/>
+    <fix pb="164" before="ye may " tcp="grew" print="grow" after=" thereby"
+         evidence="p. 164 (scan 175): 'that ye may grow thereby' (1 Pet. 2. 2; Tesseract 'grow', Kraken 'grou')"/>
+    <fix pb="232" before="meek, and " tcp="fitting" print="sitting" after=" upon an Ass"
+         evidence="p. 232 (scan 243): 'meek, and sitting upon an Ass' (Matth. 21. 5; Kraken; the long s keyed as f)"/>
   </corrections>
 </supplement>

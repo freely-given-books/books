@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | spelling | 1759 |
-| punctuation | 1699 |
-| spacing | 1093 |
-| emendation | 657 |
-| case | 376 |
+| punctuation | 1700 |
+| spacing | 1096 |
+| emendation | 663 |
+| case | 377 |
 | italic | 325 |
 | gap | 47 |
 | grammar | 16 |
@@ -213,6 +213,7 @@
 - [part-2/sign-08.typ] Psal . → Psalm
 - [part-2/sign-08.typ] Isai . → Isaiah
 - [part-2/sign-08.typ] Isai . → Isa
+- [part-2/sign-09.typ] 1 → 2
 - [part-2/sign-09.typ] Psal . → Ps
 - [part-2/sign-09.typ] Psal . → Ps
 - [part-2/sign-09.typ] Psal . → Ps
@@ -227,6 +228,7 @@
 - [part-2/sign-10.typ] Matth . → Matt
 - [part-2/sign-10.typ] Isai . → Isa
 - [part-2/sign-11.typ note] Chap . → Chapter
+- [part-2/sign-11.typ] . 1 . → 4:7,
 - [part-2/sign-11.typ] but → not
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
@@ -450,6 +452,8 @@
 - [part-3/sign-08.typ] Matth . → Matt
 - [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] 'matth . → 'Matt
+- [part-3/sign-08.typ] 'rev . → 'Rev
 - [part-3/sign-08.typ] Joh . → John
 - [part-3/sign-08.typ] Psal . → Ps
 - [part-3/sign-08.typ] Cant . → Song
@@ -597,6 +601,7 @@
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Tit . → Titus
+- [part-3/sign-12.typ] 13 → 16
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Chap . → Chapter
@@ -625,6 +630,7 @@
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Nehem . → Neh
 - [part-3/sign-12.typ] Nehem . → Neh
+- [part-3/sign-12.typ] 4 → 41
 - [part-3/sign-12.typ] Isai . → Isa
 - [part-3/sign-12.typ] Nehem . → Neh
 - [part-3/sign-12.typ] Psal . → Ps
@@ -1093,8 +1099,6 @@
 - [part-2/sign-11.typ] . → :
 - [part-2/sign-11.typ] . → :
 - [part-2/sign-11.typ] . → :
-- [part-2/sign-11.typ] . → :
-- [part-2/sign-11.typ] . → 
 - [part-2/sign-11.typ] . → :
 - [part-2/sign-11.typ] . → 
 - [part-2/sign-11.typ] . → :
@@ -1601,7 +1605,10 @@
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → 
 - [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → 
@@ -2453,6 +2460,7 @@
 - Mediator → mediator (×2)
 - and → And (×2)
 - the → The (×2)
+- 'john → 'John
 - Almighty → almighty
 - And → and
 - IN → In
