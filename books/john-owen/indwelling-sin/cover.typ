@@ -15,11 +15,13 @@
 #let ink = rgb("#ECEFEA")
 #let gold = rgb("#D6A55A")
 
+// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
+// transparency into image tiles: scripts/plate_cover.typ)
 #plate-cover(
   ground: rgb("#1C2B22"),
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
-      fill: ink.transparentize(35%), body)
+      fill: color.mix((ink, 65%), (rgb("#1C2B22"), 35%)), body)
     let gilt(body) = text(font: DISPLAY, weight: "bold", size: 22pt,
       tracking: 0.14em, fill: gold, body)
     place(dx: 0.5in, dy: 3.35in, box(width: 4.5in, {
@@ -33,7 +35,7 @@
       v(0.1in)
       gilt[with me.]
       v(0.2in)
-      caps([Romans vii. 21], 9pt, gold.transparentize(20%), tracking: 0.25em)
+      caps([Romans vii. 21], 9pt, color.mix((gold, 80%), (rgb("#1C2B22"), 20%)), tracking: 0.25em)
     }))
   }),
   title-y: 0.85in,

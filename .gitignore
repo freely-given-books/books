@@ -77,3 +77,6 @@ books/1689-baptist-confession/1689-baptist-confession/*.epub
 books/**/source/ocr/ocr-witnesses/
 books/thomas-watson/a-divine-cordial/*.pdf
 books/thomas-watson/a-divine-cordial/*.epub
+
+# a plate cover's ground pass (colophon fgb.cover_ground), rebuilt with every cover
+books/*/*/.cover*-ground.png
