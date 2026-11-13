@@ -803,5 +803,19 @@
          evidence="p. 67 (scan 78): 'and contrary to the plainest Scripture Evidence' (Kraken); the TCP's 'plair' before the gap (plainest) is no word of the print"/>
     <fix pb="114" before="" tcp="mdash;" print="—" after="it"
          evidence="p. 114 (scan 125): 'Fear not,—it is your Father's good Pleasure' (Luke 12. 32): the TCP's entity &amp;mdash; lost its '&amp;' to a gap"/>
+    <fix pb="11" before="Religion; " tcp="Isal" print="Isai" after=". 26. 8."
+         evidence="p. 11 (scan 22): 'Isai. 26. 8. The Desire of our Soul is to thy Name' (Kraken)"/>
+    <fix pb="11" before="Psal. " tcp="110" print="119" after=". 20."
+         evidence="p. 11 (scan 22): 'Psal. 119. 20. My Soul breaketh for the Longing' (Kraken)"/>
+    <fix pb="12" before="Sincerity, Psal. " tcp="110" print="119" after=". 14."
+         evidence="p. 12 (scan 23): 'Psal. 119. 14. I have rejoiced in the Way of thy Testimonies' (Kraken)"/>
+    <fix pb="123" before="" tcp="125" print="105" after=". 15. And if"
+         evidence="p. 123 (scan 134): 'see Gen. 31. 24. and Psal. 105. 15.' (Kraken)"/>
+    <fix pb="201" before="" tcp="Isal" print="Isai" after=". 57. 15."
+         evidence="p. 201 (scan 212): 'Isai. 57. 15. Thus saith the high and lofty One' (Kraken)"/>
+    <fix pb="201" before="" tcp="Isal. 60" print="Isai. 66" after=". 1, 2."
+         evidence="p. 201 (scan 212): 'Isai. 66. 1, 2. Thus saith the Lord, the Heaven is my Throne' (Kraken)"/>
+    <fix pb="98" before="" tcp="1. 24" print="1. 14" after=". and an having"
+         evidence="p. 98 (scan 109): 'Eph. 1. 14. and an having any Thing of the Spirit' (Kraken)"/>
   </corrections>
 </supplement>
