@@ -131,8 +131,6 @@
          evidence="c214: p. 95 (scan 106): 'Numb. 24. 2. 1 Sam. 10. 10.'"/>
     <fix pb="96" before="" tcp="yet" print="not" after=" t"
          evidence="c216: p. 96 (scan 107): 'natural Men are said not to have the Spirit, Jude 19.'"/>
-    <fix pb="114" before="s, " tcp="that" print="it" after=""
-         evidence="c244: p. 114 (scan 125): 'And this it is that affects and elevates them'"/>
     <fix pb="114" before="" tcp="" print=" affects and" after=" ele"
          evidence="c245: p. 114 (scan 125): 'this it is that affects and elevates them'"/>
     <fix pb="114" before="d. And" tcp="" print=" if" after=""
@@ -191,7 +189,7 @@
          evidence="c399: p. 194 (scan 205): 'from Antiquity and History, had been but very imperfectly handled'"/>
     <fix pb="196" before="" tcp="has" print="lies" after=" o"
          evidence="c403: p. 196 (scan 207): 'so that the Mind thereby lies open'"/>
-    <fix pb="201" before="" tcp="But is" print="to" after=" t"
+    <fix pb="201" before="" tcp="is" print="to" after=" thi"
          evidence="c410: p. 201 (scan 212): 'my Footstool:—-But to this Man will I look' - TCP 'But But is this', page 'But to this'"/>
     <fix pb="201" before="" tcp="it" print="to" after=" b"
          evidence="c412: p. 201 (scan 212): 'and am no more worthy to be called thy Son' (Luke 15. 18)"/>
@@ -417,8 +415,6 @@
          evidence="c844: p. 127 (scan 138; worksheet says 310), footnote: 'ask of the Angels, how they know they are not Devils' (same quote on p. 310 also has Devils)"/>
     <fix pb="127" before="nt " tcp="or" print="of" after=""
          evidence="c845: p. 127 (scan 138; worksheet says 126), footnote: 'bound there 'till the Judgment of the great Day'"/>
-    <fix pb="127" before="" tcp="Life" print="Conclusion" after=" o"
-         evidence="c846: p. 127 (scan 138; worksheet says 258), footnote: 'the Minor Experience, and the Conclusion the Lord's Spirit's Work' (page also Minor)"/>
     <fix pb="137" before="" tcp="forgot" print="forgat" after=" G"
          evidence="c851: p. 137 (scan 148): 'but soon forgat God's Works; and in Naaman'"/>
     <fix pb="141" before="" tcp="Soul" print="Saul" after=""
@@ -569,6 +565,62 @@
          evidence="c1066: p. 343 (scan 354): 'more by an amiable distinguished Behaviour' (TCP also lacks 'an')"/>
     <fix pb="271" before="" tcp="Soul" print="Saul" after=""
          evidence="c1003: p. 271 (scan 282): 'Matth. 5. 29,30. Saul was commanded to slay all God's Enemies'"/>
+    <fix pb="78" before="" tcp="to" print="is" after=" e"
+         evidence="c2000: p. 78 (scan 89): 'whenLove rises, and is in vigorous Exercise'"/>
+    <fix pb="118" before="" tcp="was" print="does" after=" n"
+         evidence="c2002: p. 118 (scan 129): 'Promise does not consist in'"/>
+    <fix pb="224" before="" tcp="into" print="doth" after=" t"
+         evidence="c2007: p. 224 (scan 235): 'These six Things doth the Lord hate' (Prov. 6. 16)"/>
+    <fix pb="224" before="" tcp="serve" print="seven" after=" a"
+         evidence="c2008: p. 224 (scan 235): 'yea seven are an Abomination' (Prov. 6. 16)"/>
+    <fix pb="244" before="" tcp="to" print="this" after=" M"
+         evidence="c2009: p. 244 (scan 255): 'After this Manner they trusted in Christ'"/>
+    <fix pb="289" before="" tcp="be" print="he" after=" n"
+         evidence="c2010: p. 289 (scan 300): italic 'yet will he not learn' (h distinct from b of 'be shewed' same line)"/>
+    <fix pb="289" before="" tcp="be" print="he" after=" a"
+         evidence="c2011: p. 289 (scan 300, heading said p. 324/scan 335): italic 'Will he always call upon God?' (Job 27. 10)"/>
+    <fix pb="81" before="" tcp="fellow" print="follow" after=" t"
+         evidence="c2014: p. 81 (scan 92): 'may seem to follow these, and one another'"/>
+    <fix pb="118" before="" tcp="on" print="of" after=" th"
+         evidence="c2015: p. 118 (scan 129): 'There is nothing of the Evidence of the Hand of God'"/>
+    <fix pb="159" before="" tcp="these" print="those" after=" A"
+         evidence="c2016: p. 159 (scan 170): 'But in many Persons those Apprehensions or Conceptions'"/>
+    <fix pb="261" before="" tcp="broken" print="broke" after=":"
+         evidence="c2018: p. 261 (scan 272): 'his Heart is broke, the more he desires it should be broke'"/>
+    <fix pb="289" before="" tcp="Straitenss" print="Straitness" after=" o"
+         evidence="c2020: p. 289 (scan 300, heading said p. 151): 'Herein chiefly con-sists the Straitness of the Gate' (Job 20. 12, 13 just before)"/>
+    <fix pb="123" before="" tcp="on" print="an" after=" in"
+         evidence="c2023: p. 124 (scan 135) footnote: 'reveals it by giving an inward Testimony to it'"/>
+    <fix pb="202" before="" tcp="be" print="he" after=" an"
+         evidence="c2025: p. 202 (scan 213) footnote: 'what was the third, still he answered, Pronunciation'"/>
+    <fix pb="206" before="" tcp="came" print="come" after=" i"
+         evidence="c2026: p. 206 (scan 217) footnote: italic 'Beware of them, that come in Sheep's Cloathing' (Matth. 7. 15)"/>
+    <fix pb="224" before="" tcp="Alamination" print="Abomination" after=" u"
+         evidence="c2017: p. 224 (scan 235): italic 'yea seven are an Abomination unto him; a proud Look' (Prov. 6. 16, 17)"/>
+    <fix pb="58" before="" tcp="Pharach" print="Pharaoh" after=","
+         evidence="c2028: p. 59 (scan 70) footnote: italic 'as Pharaoh, who justified God, Exod. 9. 27'"/>
+    <fix pb="81" before="" tcp="Arminions" print="Arminians" after=""
+         evidence="c2029: p. 81 (scan 92) footnote: italic 'as the Arminians think. 1 Joh. 2. 19'"/>
+    <fix pb="115" before="" tcp="Dependance" print="Dependence" after="."
+         evidence="c2030: p. 116 (scan 127) footnote: 'which is by Faith of Dependence. When Men have comfortable Scriptures' (also 'De-pendence' two lines up)"/>
+    <fix pb="130" before="" tcp="many" print="may" after=" n"
+         evidence="c2031: p. 130 (scan 141) footnote: ''tis possible there may subesse falsum'"/>
+    <fix pb="159" before="" tcp="the" print="a" after=" M"
+         evidence="c2032: p. 159 (scan 170) footnote: 'Christians, by a formal, barren, unsavoury' (TCP 'unfavoury' is a long-s slip too)"/>
+    <fix pb="158" before="" tcp="truth" print="trust" after=" t"
+         evidence="c2033: p. 159 (scan 170) footnote: 'Oh trust them not!'"/>
+    <fix pb="158" before="" tcp="is" print="in" after=" S"
+         evidence="c2034: p. 159 (scan 170) footnote, heading said p. 176: 'has more in Heart than in Shew; and so hopes all shall go well'"/>
+    <fix pb="167" before="" tcp="or" print="of" after=" the Go"
+         evidence="c2035: p. 167 (scan 178) footnote: 'some by the Letter of the Gospel'"/>
+    <fix pb="167" before="" tcp="secs" print="sees" after=" n"
+         evidence="c2036: p. 167 (scan 178) footnote: 'the poor Creature in seeing, sees not'"/>
+    <fix pb="208" before="" tcp="Cortnihian" print="Corinthian" after=""
+         evidence="c2039: p. 208 (scan 219) footnote: italic 'as the Corinthian Knowledge did'"/>
+    <fix pb="123" before="" tcp="heareth" print="beareth" after=" W"
+         evidence="round 3 (c2022 line), p. 124 footnote: 'The Spirit it self beareth Witness with our Spirit' (Rom. 8. 16)"/>
+    <fix pb="158" before="" tcp="unfavoury" print="unsavoury" after=","
+         evidence="round 3 (c2032 line), p. 159 footnote: 'a formal, barren, unsavoury, unfruitful Heart'"/>
     <fix pb="7" before="" tcp="wise" print="" after=" t"
          evidence="p. 7: 'will circumcise thine Heart'; the gap holds &quot;circumcise&quot;"/>
     <fix pb="14" before="" tcp="Commandment" print="Commandments" after=" c"
@@ -717,5 +769,13 @@
          evidence="p. 289 (scan 300): 'to renounce his Sin, and give it a Bill of Divorce' (the TCP joins 'give' and 'it' across the line)"/>
     <fix pb="304" before="Original it is " tcp="EPTO" print="ΕΡΓΟ" after=""
          evidence="p. 304 (scan 315): the Greek capitals ΕΡΓΟ (1 John 3:18), keyed by the TCP in Latin letters; the errata corrects it to ΕΡΓΩ"/>
+    <fix pb="114" before="" tcp="that" print="it" after=""
+         evidence="p. 114 (scan 125): 'And this it is that affects and elevates them' (the TCP's 'that' alone between two gaps)"/>
+    <fix pb="39" before="s " tcp="Tough" print="Touch" after="-stone"
+         evidence="p. 40 (scan 51) footnote: 'Flavel's Touch-stone of Sincerity, Chap. II. Sect. 2.'"/>
+    <fix pb="203" before="who " tcp="posess" print="profess" after="'d"
+         evidence="p. 204 (scan 215) footnote: 'as the Academicks, who profess'd they knew nothing'"/>
+    <fix pb="179" before="pretended to " tcp="Enthusiams" print="Enthusiasms" after=";"
+         evidence="p. 180 (scan 191) footnote: 'many have pretended to Enthusiasms;—-They leave the Scriptures'"/>
   </corrections>
 </supplement>

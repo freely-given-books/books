@@ -464,7 +464,7 @@ GAP_FIXES = {
     459: ('Estate', 'high', "1746 footnote (scan 000127): page reads 'and then to manifest his good Estate unto him.'", "#editor"),
     460: ('p. 76.', 'high', "1746 p. 115: page reads 'unto him.” And p. 76. speaking of them'", "#editor"),
     461: ('o', 'high', "1746 footnote (scan 000127): page reads 'be brought to lie at God's Foot, and give an Account'", "#editor"),
-    462: ('true', 'high', "1746 scan p. 115 (Princeton copy, image 126): Kraken and Tesseract read 'true'", "#editor"),
+    462: ('closing', 'high', "1746 p. 116 footnote: 'give an Account of their closing with Christ' (round 3 reader, c2021)", "#editor"),
     463: ('goes', 'high', "1746 p. 115: page reads 'our Acceptance goes before Pardon'", "#editor"),
     464: ('Mr', 'high', "1746 p. 115: page reads 'Knowledge of it.” / Mr. Shepard, in his Parable'", "#editor"),
     465: ('him', 'high', "1746 p. 116: page reads 'spoken and directed by God to him, because the Words came'", "#editor"),
