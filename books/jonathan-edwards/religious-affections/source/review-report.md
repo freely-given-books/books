@@ -6,8 +6,8 @@
 | punctuation | 1699 |
 | spacing | 1093 |
 | emendation | 657 |
-| case | 375 |
-| italic | 330 |
+| case | 376 |
+| italic | 325 |
 | gap | 47 |
 | grammar | 16 |
 | skipped | 1 |
@@ -2457,6 +2457,7 @@
 - And → and
 - IN → In
 - Kings → kings
+- Mouth → mouth
 - Some → some
 - reason → Reason
 - they → They
