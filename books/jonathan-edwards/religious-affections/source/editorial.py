@@ -18,7 +18,8 @@ QUOTE_BLOCK = True
 # Edwards's notes are English: long quotations from Flavel, Shepard, Stoddard and others.
 MODERNIZE_NOTES = "case"
 SMALLCAPS = "smallcaps"
-OPENING_SMALLCAPS = True
+# the opening word in small capitals, a numeral opening a sign not
+OPENING_SMALLCAPS = "words"
 # a decorated initial and its word printed in capitals ("THERE is") set as a word (There)
 DROP_CAP_CASE = True
 
