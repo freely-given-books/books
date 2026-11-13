@@ -2,13 +2,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1663 |
+| spelling | 1759 |
+| punctuation | 1699 |
+| spacing | 1093 |
+| emendation | 657 |
 | case | 375 |
-| emendation | 219 |
-| punctuation | 161 |
-| gap | 34 |
+| italic | 330 |
+| gap | 47 |
 | grammar | 16 |
-| spacing | 9 |
 | skipped | 1 |
 | merge | 1 |
 
@@ -18,13 +19,20 @@
 
 ## gap
 
+- [part-1/03-religion-in-the-affections.typ] Thes. → Thess
 - [part-1/03-religion-in-the-affections.typ] stedfast → steadfast
 - [part-1/03-religion-in-the-affections.typ] as an Anchor of the Soul, both sure and stedfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and → as an Anchor of the Soul, both sure and steadfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and
+- [part-1/03-religion-in-the-affections.typ] Christ's Resurrection, 1 Pet. 1. 3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant Mercy, hath begotten us again unto a lively Hope, by the Resurrection of Jesus Christ from the Dead → Christ's Resurrection, 1 Pet 1:3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant Mercy, hath begotten us again unto a lively Hope, by the Resurrection of Jesus Christ from the Dead
 - [part-1/03-religion-in-the-affections.typ] enquire → inquire
+- [part-1/03-religion-in-the-affections.typ] lendeth. And Prov. 14. → lendeth. And Prov 14:
+- [part-1/03-religion-in-the-affections.typ] hath Mercy on the Poor. And Col. 3. → hath Mercy on the Poor. And Col 3:
 - [part-1/03-religion-in-the-affections.typ] Pharisees, Hypocrites; for ye pay Tythe of → Pharisees, Hypocrites; for ye pay Tithe of
 - [part-1/03-religion-in-the-affections.typ] Annise → Anise
 - [part-1/03-religion-in-the-affections.typ] all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbour as thy self. On these two Commandments hang all the Law and the Prophets. → all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbor as thy self. On these two Commandments hang all the Law and the Prophets.
 - [part-1/03-religion-in-the-affections.typ] enflamed, → inflamed,
+- [part-1/03-religion-in-the-affections.typ] Cor. 5. 14, → Cor 5:14,
+- [part-1/03-religion-in-the-affections.typ] Tim. → Tim
+- [part-1/03-religion-in-the-affections.typ] being exceeding joyful, 2 Cor. 7. 4. → being exceeding joyful, 2 Cor 7:4.
 - [part-1/04-inferences.typ] be consider’d → be considered
 - [part-1/04-inferences.typ] extoll’d → extolled
 - [part-2/sign-01.typ] rais'd to an → raised to an
@@ -33,15 +41,20 @@
 - [part-2/sign-08.typ] rais’d → raised
 - [part-2/sign-08.typ] looses → loses
 - [part-2/sign-10.typ] and honours → and honors
+- [part-3/sign-01.typ] 7, 8, 9, 12, 13. Gal. 5. 16, to the End. Col. 2. 18. Now therefore, if by natural and carnal, → 7, 8, 9, 12, 13. Gal 5:16, to the End. Col 2:18. Now therefore, if by natural and carnal,
+- [part-3/sign-01.typ] Rom. 8. 6, 7. → Rom 8:6, 7
+- [part-3/sign-01.typ] Blessings, Eph. 1. 3 → Blessings, Eph 1:3
 - [part-3/sign-01.typ] extrinsick → extrinsic
 - [part-3/sign-01.typ] ben’t restrain’d → ben’t restrained
+- [part-3/sign-01.typ] Eph. → Eph
 - [part-3/sign-04.typ] relishbes → relishes
 - [part-3/sign-05.typ] 'till they → till they
 - [part-3/sign-05.typ] fetch’d → fetched
+- [part-3/sign-06.typ] Christ condemns, Luke 14. → Christ condemns, Luke 14:
 - [part-3/sign-06.typ] Part of Dictators → part of Dictators
 - [part-3/sign-06.typ] useth Intreaties → useth Entreaties
 - [part-3/sign-06.typ] Behaviour; → Behavior;
-- [part-3/sign-06.typ] down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behaviour among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them. → down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behavior among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them.
+- [part-3/sign-06.typ] down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behaviour among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them. → down high Looks. And Ps 101:5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor 13:4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behavior among Men, arising from Humility that the Scripture often speaks of; 1 Pet 3:15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom 13:7. Fear, to whom Fear. 2 Cor 7:15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph 6:5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet 2:18. Servants be subject to your Masters, with all Fear. 1 Pet 3:2. While they behold your chaste Conversation, coupled with Fear. 1 Tim 2:9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them.
 - [part-3/sign-07.typ] unsavoury → unsavory
 - [part-3/sign-11.typ] coveteous → covetous
 - [part-3/sign-12.typ note] thoro' → thorough
@@ -50,13 +63,20 @@
 - [part-3/sign-12.typ] loueth → loveth
 - [part-3/sign-12.typ] materially agreable → materially agreeable
 - [part-3/sign-12.typ] loueth → loveth
-- [part-3/sign-12.typ] And they are called by this Name, because hereby Professors are try'd and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supream Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that thro' them I may prove Israel, whether they will keep the → And they are called by this Name, because hereby Professors are tried and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supreme Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that through them I may prove Israel, whether they will keep the
+- [part-3/sign-12.typ] And they are called by this Name, because hereby Professors are try'd and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supream Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that thro' them I may prove Israel, whether they will keep the → And they are called by this Name, because hereby Professors are tried and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supreme Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut 8:2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judg 2:21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that through them I may prove Israel, whether they will keep the
+- [part-3/sign-12.typ] is, that in Practice, Grace, in Scripture Style, is said to be made perfect, or to be finished. So the Apostle James says, Jam. 2. 22. Seest thou how Faith wrought with his Works, and by Works was Faith made perfect, or finished (as the Word in the Original properly signifies.) So the Love of God is said to be made perfect, or finished, in keeping his Commandments; 1 John 2. 4, 5. He that saith, I know him, and keepeth not his Commandments, is a Liar, and the Truth is not in him; but whoso keepeth his Word, in him verily is the Love of God perfected. The Commandment → is, that in Practice, Grace, in Scripture Style, is said to be made perfect, or to be finished. So the Apostle James says, Jas 2:22. Seest thou how Faith wrought with his Works, and by Works was Faith made perfect, or finished (as the Word in the Original properly signifies.) So the Love of God is said to be made perfect, or finished, in keeping his Commandments; 1 John 2:4, 5. He that saith, I know him, and keepeth not his Commandments, is a Liar, and the Truth is not in him; but whoso keepeth his Word, in him verily is the Love of God perfected. The Commandment
 - [part-3/sign-12.typ] thus → Thus
 
 ## emendation
 
 - [preface.typ] 'em → them
+- [preface.typ] Jer . → Jeremiah
+- [preface.typ] Matth . → Matthew
 - [preface.typ] 'em → them
+- [preface.typ] Isai . → Isa
+- [preface.typ] Psal . → Ps
+- [preface.typ] Isai . → Isa
+- [preface.typ] Psal . → Ps
 - [preface.typ] 'em → them
 - [preface.typ] 'em → them
 - [preface.typ] 'em → them
@@ -74,37 +94,153 @@
 - [part-1/02-what-the-affections-are.typ] voluntarily → 
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] 'em → them
-- [part-1/03-religion-in-the-affections.typ] that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbour as thy self. → that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbor as thy self.
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Heb. 6 → Heb 6
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Cant . → Song
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Thes . → Thess
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Isai . → Isa
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Isai . → Isa
+- [part-1/03-religion-in-the-affections.typ] Isal → Isa 50
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] ver → v
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Hos. 6 → Hos 6
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Tit . → Titus
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbour as thy self. → that loveth another, hath fulfilled the Law. And Verse 10. Love is the fulfilling of the Law. And Gal 5:14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbor as thy self.
+- [part-1/03-religion-in-the-affections.typ] Tim . → Timothy
+- [part-1/03-religion-in-the-affections.typ] Cor . → Corinthians
 - [part-1/03-religion-in-the-affections.typ] em inent → eminent
+- [part-1/03-religion-in-the-affections.typ] Thes . → Thess
+- [part-1/03-religion-in-the-affections.typ] Philem . v . → Phlm
+- [part-1/03-religion-in-the-affections.typ] Thes . → Thess
+- [part-1/03-religion-in-the-affections.typ] V . → Verse
+- [part-1/03-religion-in-the-affections.typ] Thes . → Thess
+- [part-1/03-religion-in-the-affections.typ] Philem . → Phlm
+- [part-1/03-religion-in-the-affections.typ] Thes . → Thess
+- [part-1/03-religion-in-the-affections.typ] Phil . → Philippians
+- [part-1/03-religion-in-the-affections.typ] Cor . → Corinthians
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] work → things of the word
+- [part-1/03-religion-in-the-affections.typ] Psal . → Ps
+- [part-1/03-religion-in-the-affections.typ] Chron . → Chr
+- [part-1/03-religion-in-the-affections.typ] Isai . → Isa
 - [part-1/03-religion-in-the-affections.typ] Christ anity → Christianity
 - [part-1/04-inferences.typ] 'em → them
 - [part-1/04-inferences.typ] 'em → them
 - [part-1/04-inferences.typ] 'em → them
 - [part-1/04-inferences.typ] 'em → them
+- [part-2/sign-01.typ] Matth . → Matt
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] 39 → 29
+- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] shall they rejoice all the Day, and in thy Righteousness shall they be exalted. Zech. 9. 9. Rejoice greatly, O Daughter of Zion, shout, O → shall they rejoice all the Day, and in thy Righteousness shall they be exalted. Zech 9:9. Rejoice greatly, O Daughter of Zion, shout, O
 - [part-2/sign-01.typ] 'em → them
 - [part-2/sign-01.typ] 'em → them
+- [part-2/sign-02.typ note] Psal . → Ps
+- [part-2/sign-02.typ note] Cant . → Song
+- [part-2/sign-02.typ note] Psal . → Ps
+- [part-2/sign-02.typ note] Psal . → Ps
+- [part-2/sign-02.typ note] Psal . → Ps
+- [part-2/sign-02.typ] Matth . → Matt
+- [part-2/sign-02.typ] Psal . → Ps
+- [part-2/sign-02.typ] Psal . → Ps
+- [part-2/sign-02.typ] Psal . → Ps
+- [part-2/sign-03.typ note] II → 2
 - [part-2/sign-03.typ] 'em → them
+- [part-2/sign-03.typ] v . → 
+- [part-2/sign-04.typ note] Isai . → Isa
 - [part-2/sign-04.typ] 'em → them
 - [part-2/sign-04.typ] 'em → them
 - [part-2/sign-04.typ] 'em → them
 - [part-2/sign-04.typ] 'em → them
+- [part-2/sign-04.typ] Eph . → Ephesians
+- [part-2/sign-04.typ] ver → v
 - [part-2/sign-06.typ] 'em → them
+- [part-2/sign-06.typ] Matth . → Matt
 - [part-2/sign-06.typ] him → Jesus
+- [part-2/sign-06.typ] Eph . → Ephesians
 - [part-2/sign-06.typ] 'em → them
+- [part-2/sign-07.typ] Numb . → Num
+- [part-2/sign-07.typ] Psal . → Psalm
+- [part-2/sign-07.typ] Psal . → Ps
+- [part-2/sign-07.typ] Matth . → Matt
+- [part-2/sign-07.typ] Numb . → Num
 - [part-2/sign-08.typ] does → 
+- [part-2/sign-08.typ] Matth . → Matt
+- [part-2/sign-08.typ] Matth . → Matt
+- [part-2/sign-08.typ] Levit . → Lev
+- [part-2/sign-08.typ] Psal . → Ps
+- [part-2/sign-08.typ] Isai . → Isa
 - [part-2/sign-08.typ] which → who
 - [part-2/sign-08.typ] 'em → them
 - [part-2/sign-08.typ] 'em → them
 - [part-2/sign-08.typ] 'em → them
+- [part-2/sign-08.typ] Cant . → Song
+- [part-2/sign-08.typ] Matth . → Matt
+- [part-2/sign-08.typ] Psal . → Psalm
+- [part-2/sign-08.typ] Isai . → Isaiah
+- [part-2/sign-08.typ] Isai . → Isa
+- [part-2/sign-09.typ] Psal . → Ps
+- [part-2/sign-09.typ] Psal . → Ps
+- [part-2/sign-09.typ] Psal . → Ps
+- [part-2/sign-09.typ] Isai . → Isa
+- [part-2/sign-09.typ] Psal . → Ps
+- [part-2/sign-09.typ] Psal . → Ps
+- [part-2/sign-09.typ] ver → v
+- [part-2/sign-09.typ] Isai . → Isa
+- [part-2/sign-09.typ] Isai . → Isa
+- [part-2/sign-09.typ] Isai . → Isa
+- [part-2/sign-10.typ] Matth . → Matt
+- [part-2/sign-10.typ] Matth . → Matt
+- [part-2/sign-10.typ] Isai . → Isa
+- [part-2/sign-11.typ note] Chap . → Chapter
 - [part-2/sign-11.typ] but → not
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
+- [part-2/sign-12.typ note] Chap . → Chapter
+- [part-2/sign-12.typ note] Chap . → Chapter
+- [part-2/sign-12.typ note] Joh . → John
+- [part-2/sign-12.typ note] Cant . → Song
+- [part-2/sign-12.typ] Isai . → Isa
+- [part-2/sign-12.typ] Psal . → Ps
 - [part-2/sign-12.typ] certa in → certain
+- [part-2/sign-12.typ] Matth . → Matt
 - [part-2/sign-12.typ] 'em → them
 - [part-2/sign-12.typ] 'em → them
 - [part-2/sign-12.typ] 'em → them
@@ -113,10 +249,29 @@
 - [part-2/sign-12.typ] 'em → them
 - [part-2/sign-12.typ] 'em → them
 - [part-2/sign-12.typ] 'em → them
+- [part-2/sign-12.typ] Rom . → Romans
+- [part-2/sign-12.typ] Rev . → Revelation
+- [part-2/sign-12.typ] Cor . → Corinthians
+- [part-2/sign-12.typ] V . → Verse
+- [part-2/sign-12.typ] V . → Verse
+- [part-2/sign-12.typ] Thes . → Thess
+- [part-2/sign-12.typ] Thes . → Thess 1:
+- [part-2/sign-12.typ] 1 . → 
 - [part-3/00-of-the-signs.typ] 'em → them
+- [part-3/sign-01.typ note] Isai . → Isa
 - [part-3/sign-01.typ note] 'em → them
+- [part-3/sign-01.typ] Rom . → Romans
+- [part-3/sign-01.typ] Gal . → Galatians
+- [part-3/sign-01.typ] Jam . → Jas
+- [part-3/sign-01.typ] ver → v
+- [part-3/sign-01.typ] Cor . → Corinthians
+- [part-3/sign-01.typ] Numb . → Num
+- [part-3/sign-01.typ] Psal . → Ps
 - [part-3/sign-01.typ] was → is
+- [part-3/sign-01.typ] Numb . → Num
 - [part-3/sign-01.typ] the → 
+- [part-3/sign-01.typ] Kings → Kgs 22:
+- [part-3/sign-01.typ] 22 → 
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
@@ -140,7 +295,14 @@
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
+- [part-3/sign-01.typ] Psal . → Ps
+- [part-3/sign-01.typ] Rev . → Revelation
+- [part-3/sign-01.typ] Ezek . → Ezekiel
+- [part-3/sign-01.typ] Cant . → Song
+- [part-3/sign-01.typ] Cor . → Corinthians
+- [part-3/sign-02.typ] Matth . → Matt
 - [part-3/sign-02.typ] indeed → in
+- [part-3/sign-02.typ] . 2 . → 1:
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
@@ -150,6 +312,7 @@
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] In → In the love of
+- [part-3/sign-02.typ] Psal . → Ps
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] they → I
@@ -158,24 +321,59 @@
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-03.typ] 'em → them
 - [part-3/sign-03.typ] used → used concerning God
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Psal . → Ps
 - [part-3/sign-03.typ] which → that
+- [part-3/sign-03.typ] Matth . → Matt
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Isai . → Isa
+- [part-3/sign-03.typ] Chap . → Chapter
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Isai . → Isa
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] Psal . → Ps
 - [part-3/sign-03.typ] 'em → them
 - [part-3/sign-03.typ] 'em → them
+- [part-3/sign-03.typ] Isai . → Isa
+- [part-3/sign-03.typ] Numb . → Num
+- [part-3/sign-03.typ] Psal . → Ps
 - [part-3/sign-03.typ] and → 
+- [part-3/sign-04.typ note] Matth . → Matt
+- [part-3/sign-04.typ] Psal . → Ps
+- [part-3/sign-04.typ] Matth . → Matt
+- [part-3/sign-04.typ] Psal . → Ps
+- [part-3/sign-04.typ] Ver . → Verse
+- [part-3/sign-04.typ] ver → v
+- [part-3/sign-04.typ] Matth . → Matt
+- [part-3/sign-04.typ] Cant . → Song
+- [part-3/sign-04.typ] Cor . → Corinthians
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] Rom . → Romans
 - [part-3/sign-04.typ] 'em → them
+- [part-3/sign-04.typ] Psal . → Ps
+- [part-3/sign-04.typ] Rom . → Romans
+- [part-3/sign-04.typ] Eccl. 10. 2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool: → Eccl 10:2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool:
 - [part-3/sign-04.typ] ' → 
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
+- [part-3/sign-05.typ] Matth . → Matt
+- [part-3/sign-05.typ] ver → v
+- [part-3/sign-05.typ] ver → v
+- [part-3/sign-05.typ] ver → vv
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] Tit . → Titus
+- [part-3/sign-05.typ] ver → v
+- [part-3/sign-05.typ] Matth . → Matt
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
@@ -190,9 +388,24 @@
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
+- [part-3/sign-06.typ note] Chap . → Chapter
+- [part-3/sign-06.typ note] Chap . → Chapter
 - [part-3/sign-06.typ note] 'd → ed
+- [part-3/sign-06.typ note] Chap . → Chapter
+- [part-3/sign-06.typ note] Matth . → Matt
+- [part-3/sign-06.typ note] Chap . → Chapter
+- [part-3/sign-06.typ note] 15 → 14
+- [part-3/sign-06.typ note] Math . → Matt
 - [part-3/sign-06.typ note] 'em → them
 - [part-3/sign-06.typ note] 'em → them
+- [part-3/sign-06.typ] Psal . → Ps
+- [part-3/sign-06.typ] Psal . → Ps
+- [part-3/sign-06.typ] Psal . → Ps
+- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
@@ -203,24 +416,76 @@
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] Luk . → Luke
+- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] Jam . → Jas
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] Jam . → Jas
 - [part-3/sign-06.typ] 'em → them
-- [part-3/sign-06.typ] 'em → them
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Cor . → Corinthians
+- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] Psal . → Ps
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] that → 
+- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Matth . → Matthew
+- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] Psal . → Ps
+- [part-3/sign-06.typ] Psal . → Ps
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-07.typ] 'em → them
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Col . → Colossians
+- [part-3/sign-08.typ] Jam . → Jas
+- [part-3/sign-08.typ] Matth . → Matt
 - [part-3/sign-08.typ] 'em → them
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Joh . → John
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] Cant . → Song
+- [part-3/sign-08.typ] Cant . → Song
+- [part-3/sign-08.typ] Chap . → Chapter
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Ver . → Verse
+- [part-3/sign-08.typ] Ver . → Verse
+- [part-3/sign-08.typ] Matth . → Matt
 - [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] was → 
 - [part-3/sign-08.typ] 'em → them
+- [part-3/sign-08.typ] Thes . → Thess
+- [part-3/sign-08.typ] 26 → 6
 - [part-3/sign-08.typ] as → is
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Matth . → Matthew
+- [part-3/sign-08.typ] Chap . → Chapter
+- [part-3/sign-08.typ] Chap . → Chapter
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] Ver . → Verse
+- [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] V . → Verse
+- [part-3/sign-08.typ] Jam . → Jas
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Jam . → Jas
+- [part-3/sign-08.typ] Matth . → Matt
+- [part-3/sign-08.typ] Isai . → Isa
+- [part-3/sign-08.typ] Isai . → Isa
+- [part-3/sign-08.typ] Tit . → Titus
 - [part-3/sign-09.typ note] 'em → them
 - [part-3/sign-09.typ note] 'em → them
 - [part-3/sign-09.typ note] 'em → them
@@ -228,52 +493,239 @@
 - [part-3/sign-09.typ] and → of
 - [part-3/sign-09.typ] 'em → them
 - [part-3/sign-09.typ] 'em → them
+- [part-3/sign-09.typ] Ezek . → Ezekiel
 - [part-3/sign-09.typ] he → 
+- [part-3/sign-09.typ] Psal . → Ps
+- [part-3/sign-09.typ] Isai . → Isa
+- [part-3/sign-09.typ] Chap . → Chapter
+- [part-3/sign-09.typ] Psal . → Psalm
 - [part-3/sign-09.typ] 'em → them
+- [part-3/sign-09.typ] Isai . → Isa
 - [part-3/sign-09.typ] 'em → them
+- [part-3/sign-09.typ] Psal . → Ps
+- [part-3/sign-09.typ] Psal . → Ps
+- [part-3/sign-09.typ] Psal . → Ps
 - [part-3/sign-10.typ note] 'em → them
+- [part-3/sign-10.typ note] II → 2
+- [part-3/sign-10.typ note] Matth . → Matt
+- [part-3/sign-10.typ note] VII → 7
+- [part-3/sign-10.typ note] Chap . v → Chapter 5
+- [part-3/sign-10.typ note] Matth . → Matt 6:
+- [part-3/sign-10.typ note] 6 . → 
+- [part-3/sign-10.typ note] VI → 6
+- [part-3/sign-10.typ] Psal . → Ps
+- [part-3/sign-10.typ] Matth . → Matt
+- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] Ezek . → Ezekiel
+- [part-3/sign-10.typ] Matth . → Matt
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] Matth . → Matt
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] Psal . → Ps
+- [part-3/sign-10.typ] ver → v
+- [part-3/sign-10.typ] Psal . → Ps
 - [part-3/sign-10.typ] 'em → them
 - [part-3/sign-10.typ] 'em → them
-- [part-3/sign-10.typ] 'em → them
+- [part-3/sign-10.typ] Psal . → Ps
+- [part-3/sign-10.typ] Cant . → Song
+- [part-3/sign-11.typ note] Matth . → Matt
+- [part-3/sign-11.typ note] Chron . → Chr
 - [part-3/sign-11.typ note] 'em → them
 - [part-3/sign-11.typ] 'em → them
+- [part-3/sign-11.typ] Psal . → Ps
+- [part-3/sign-11.typ] Psal . → Ps
+- [part-3/sign-11.typ] Isai . → Isa
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] 68 → 18
+- [part-3/sign-12.typ note] Tit . → Titus
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Chron . → Chr
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Isai . → Isa
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Jam . → Jas
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Philip . → Phil
+- [part-3/sign-12.typ note] Jam . → Jas
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Mat . → Matt
+- [part-3/sign-12.typ note] Tit . → Titus
 - [part-3/sign-12.typ note] 'em → them
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] Chap . → Chapter
+- [part-3/sign-12.typ note] Chap . → Chapter
+- [part-3/sign-12.typ note] Chap . → Chapter
+- [part-3/sign-12.typ note] Psal . → Ps
+- [part-3/sign-12.typ note] Jam . → Jas
+- [part-3/sign-12.typ note] Isai . → Isa
+- [part-3/sign-12.typ note] ver → v
+- [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Numb . → Num
+- [part-3/sign-12.typ] Matth . → Matthew
+- [part-3/sign-12.typ] Tit . → Titus
+- [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Gal . → Galatians
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Thes . → Thess
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Tit . → Titus
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Cant . → Song
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Cant . → Song
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Nehem . → Neh
+- [part-3/sign-12.typ] Nehem . → Neh
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Nehem . → Neh
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Chron . → Chr
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Rom . → Romans
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Heb . → Hebrews
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Saviour ▪ Matth . → Savior, Matt
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Ver . → Verses
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Matth . → Matthew
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] ver → vv
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] Ver . → Verses
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Matth . → Matthew
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Tit . → Titus
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Micah . → Mic
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Chron ▪ → Chr
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] Cant . → Song
+- [part-3/sign-12.typ] Thes . → Thess
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Jer . → Jeremiah
+- [part-3/sign-12.typ] Psal . → Ps
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] Thes . → Thess
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Rom . → Romans
+- [part-3/sign-12.typ] Rom . → Romans
+- [part-3/sign-12.typ] ver → v
+- [part-3/sign-12.typ] Cor . → Corinthians
+- [part-3/sign-12.typ] ver → v
 - [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
-- [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Rev . → Revelation
+- [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] ver → vv
 
 ## grammar
 
@@ -283,33 +735,1038 @@
 
 ## punctuation
 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [preface.typ] . → 
+- [preface.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → ans
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] , → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → 
+- [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] ▪ → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → 
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-01.typ] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → 
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
+- [part-2/sign-02.typ note] . → :
 - [part-2/sign-02.typ] , → , that
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → 
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → 
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → :
 - [part-2/sign-02.typ] , → , as
+- [part-2/sign-02.typ] . → 
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-02.typ] . → 
+- [part-2/sign-02.typ] . → :
+- [part-2/sign-03.typ] . → 
+- [part-2/sign-03.typ] . → :
+- [part-2/sign-03.typ] . → 
+- [part-2/sign-03.typ] . → :
+- [part-2/sign-04.typ note] . → 
+- [part-2/sign-04.typ note] . → :
+- [part-2/sign-04.typ note] . → 
+- [part-2/sign-04.typ note] . → :
+- [part-2/sign-04.typ note] . → :
+- [part-2/sign-04.typ note] . → 
+- [part-2/sign-04.typ note] . → :
+- [part-2/sign-04.typ note] . → 
+- [part-2/sign-04.typ note] . → :
+- [part-2/sign-04.typ] . → :
+- [part-2/sign-04.typ] . → 
+- [part-2/sign-04.typ] . → :
+- [part-2/sign-05.typ] . → 
+- [part-2/sign-05.typ] . → :
+- [part-2/sign-06.typ] . → :
+- [part-2/sign-06.typ] . → :
+- [part-2/sign-06.typ] . → 
+- [part-2/sign-06.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-07.typ] . → 
+- [part-2/sign-07.typ] . → :
+- [part-2/sign-08.typ note] . → 
+- [part-2/sign-08.typ note] . → :
+- [part-2/sign-08.typ note] . → 
+- [part-2/sign-08.typ note] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-08.typ] . → 
+- [part-2/sign-08.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → 
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-09.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → 
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] . → 
+- [part-2/sign-10.typ] . → :
+- [part-2/sign-11.typ note] . → 
+- [part-2/sign-11.typ note] . → :
+- [part-2/sign-11.typ note] . → 
+- [part-2/sign-11.typ note] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-11.typ] . → 3:
+- [part-2/sign-11.typ] . → 
+- [part-2/sign-11.typ] . → :
 - [part-2/sign-11.typ] ▪ → :
+- [part-2/sign-11.typ] . → :
+- [part-2/sign-12.typ note] . → :
+- [part-2/sign-12.typ note] . → 
+- [part-2/sign-12.typ note] . → :
+- [part-2/sign-12.typ note] . → :
+- [part-2/sign-12.typ] . → 
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → :
 - [part-2/sign-12.typ] . → ,
+- [part-2/sign-12.typ] . → :
 - [part-2/sign-12.typ] ▪ → ,
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → 
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → 
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → 
+- [part-2/sign-12.typ] . → :
+- [part-2/sign-12.typ] . → :
+- [part-3/00-of-the-signs.typ note] . → 
+- [part-3/00-of-the-signs.typ note] . → :
+- [part-3/00-of-the-signs.typ] . → 
+- [part-3/00-of-the-signs.typ] . → :
+- [part-3/00-of-the-signs.typ] . → 
+- [part-3/00-of-the-signs.typ] . → :
 - [part-3/00-of-the-signs.typ] . → ,
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] . → 
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] , → ; 3:
+- [part-3/sign-01.typ note] . → 
+- [part-3/sign-01.typ note] . → :
+- [part-3/sign-01.typ note] . → :
 - [part-3/sign-01.typ note] ▪ → ,
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
 - [part-3/sign-01.typ] ▪ → ;
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
 - [part-3/sign-01.typ] ▪ → ;
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → 
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-01.typ] . → :
+- [part-3/sign-02.typ note] . → 
+- [part-3/sign-02.typ note] . → :
+- [part-3/sign-02.typ note] . → 
+- [part-3/sign-02.typ note] . → :
+- [part-3/sign-02.typ note] . → 
+- [part-3/sign-02.typ note] . → :
+- [part-3/sign-02.typ note] . → 
+- [part-3/sign-02.typ note] . → :
+- [part-3/sign-02.typ] . → :
+- [part-3/sign-02.typ] . → :
+- [part-3/sign-02.typ] . → :
+- [part-3/sign-02.typ] . → :
+- [part-3/sign-02.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-03.typ] . → 
+- [part-3/sign-03.typ] . → :
+- [part-3/sign-04.typ note] . → :
 - [part-3/sign-04.typ note] ▪ → ,
 - [part-3/sign-04.typ note] ▪ → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
 - [part-3/sign-04.typ] ▪ → ;
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → 
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-04.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-05.typ] . → 
+- [part-3/sign-05.typ] . → :
+- [part-3/sign-06.typ note] . → :
+- [part-3/sign-06.typ note] . → :
+- [part-3/sign-06.typ note] . → :
+- [part-3/sign-06.typ note] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
 - [part-3/sign-06.typ] ( → 
 - [part-3/sign-06.typ] ) → ,
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-06.typ] . → 
+- [part-3/sign-06.typ] . → :
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → 
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-07.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → ,
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → 
+- [part-3/sign-08.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → 
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-09.typ] . → :
+- [part-3/sign-10.typ note] . → 
+- [part-3/sign-10.typ note] . → :
+- [part-3/sign-10.typ note] . → :
+- [part-3/sign-10.typ note] . → 
+- [part-3/sign-10.typ note] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
 - [part-3/sign-10.typ] ▪ → ,
 - [part-3/sign-10.typ] ▪ → ;
+- [part-3/sign-10.typ] . → :
 - [part-3/sign-10.typ] , → , they
 - [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] , → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
 - [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → 
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
+- [part-3/sign-10.typ] . → :
 - [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] . → 
 - [part-3/sign-10.typ] ▪ → .
+- [part-3/sign-11.typ note] . → :
+- [part-3/sign-11.typ note] . → 
+- [part-3/sign-11.typ note] . → :
+- [part-3/sign-11.typ note] . → :
 - [part-3/sign-11.typ note] ▪ → ;
+- [part-3/sign-11.typ note] . → :
 - [part-3/sign-11.typ note] ▪ → ,
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] . → :
 - [part-3/sign-11.typ] ▪ → ;
-- [part-3/sign-11.typ] ▪ → .
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] ▪ → :
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → :
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ;
@@ -318,7 +1775,10 @@
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ;
 - [part-3/sign-11.typ] ▪ → :
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → :
 - [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] . → :
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ;
@@ -326,20 +1786,403 @@
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ,
 - [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-11.typ] . → 
+- [part-3/sign-11.typ] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → 
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → ;
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] , → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → .
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → .—
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → .—
 - [part-3/sign-12.typ note] ▪ → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] , → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → :
+- [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] ▪ → ,
+- [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ] ▪ → .—
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ?
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] , → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → 
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
@@ -350,100 +2193,247 @@
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ;
 - [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → .
-- [part-3/sign-12.typ] ▪ → .
-- [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → 
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → :
-- [part-3/sign-12.typ] ▪ → .
-- [part-3/sign-12.typ] ▪ → :
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → :
-- [part-3/sign-12.typ] ▪ → ,
-- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → 
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] , → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → 
 - [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ;
-- [part-3/sign-12.typ] ▪ → .
-- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ;
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → .
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → -
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ;
 - [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → :
 - [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → .
 - [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] . → 
+- [part-3/sign-12.typ] . → :
 
 ## case
 
@@ -475,14 +2465,15 @@
 
 - tho' → though (×165)
 - it's → its (×118)
+- chap → ch (×70)
 - behaviour → behavior (×56)
 - thro' → through (×56)
 - 'till → till (×44)
 - favour → favor (×43)
 - honour → honor (×33)
 - meer → mere (×31)
-- Saviour → Savior (×30)
 - Tho' → Though (×30)
+- Saviour → Savior (×29)
 - agreable → agreeable (×28)
 - dependance → dependence (×24)
 - altho' → although (×20)
@@ -490,6 +2481,7 @@
 - mention'd → mentioned (×20)
 - impress'd → impressed (×18)
 - meerly → merely (×16)
+- Kings → Kgs (×15)
 - supream → supreme (×15)
 - colours → colors (×14)
 - neighbours → neighbors (×14)
@@ -534,6 +2526,7 @@
 - sepulchre → sepulcher (×5)
 - vigour → vigor (×5)
 - Altho' → Although (×4)
+- Isai → Isa (×4)
 - appear'd → appeared (×4)
 - attain'd → attained (×4)
 - contain'd → contained (×4)
@@ -586,6 +2579,7 @@
 - tydings → tidings (×3)
 - vigourous → vigorous (×3)
 - Agreable → Agreeable (×2)
+- James → Jas (×2)
 - Judg → Judge (×2)
 - Meerly → Merely (×2)
 - abandon'd → abandoned (×2)
@@ -647,6 +2641,8 @@
 - valour → valor (×2)
 - weaken'd → weakened (×2)
 - wofully → woefully (×2)
+- 14 → 14:
+- 24 → 24:
 - Academicks → Academics
 - Begger's → Beggar's
 - Burthens → Burdens
@@ -657,11 +2653,15 @@
 - Gnosticks → Gnostics
 - Goliah → Goliath
 - Honoured → Honored
+- Hosea → Hos
 - Jephtbab → Jephthah
+- Judges → Judg
 - Judoic → Judaic
 - Lora → Lord
 - Marvellous → Marvelous
+- Matth → Matt
 - Mesaick → Mosaic
+- Micah → Mic
 - Nebuchadnezzer → Nebuchadnezzar
 - Peeple → People
 - Pharoah → Pharaoh
