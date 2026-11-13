@@ -6,7 +6,7 @@
 | punctuation | 1700 |
 | spacing | 1096 |
 | emendation | 663 |
-| case | 377 |
+| case | 378 |
 | italic | 325 |
 | gap | 47 |
 | grammar | 16 |
@@ -2444,7 +2444,7 @@
 
 ## case
 
-- Spirit → spirit (×158)
+- Spirit → spirit (×159)
 - Part → part (×70)
 - Acts → acts (×33)
 - Spirits → spirits (×31)
@@ -2526,7 +2526,6 @@
 - enlightnings → enlightenings (×5)
 - enquired → inquired (×5)
 - enquiry → inquiry (×5)
-- favours → favors (×5)
 - fervour → fervor (×5)
 - honoured → honored (×5)
 - melancholly → melancholy (×5)
@@ -2543,6 +2542,7 @@
 - crown'd → crowned (×4)
 - enlightned → enlightened (×4)
 - extrinsick → extrinsic (×4)
+- favours → favors (×4)
 - fix'd → fixed (×4)
 - look'd → looked (×4)
 - lustre → luster (×4)
@@ -2862,6 +2862,7 @@
 - rigorous → vigorous
 - ruin'd → ruined
 - satisfy'd → satisfied
+- savours → savors
 - savoury → savory
 - scoarg'd → scourged
 - seeking → seeing

@@ -831,5 +831,25 @@
          evidence="p. 164 (scan 175): 'that ye may grow thereby' (1 Pet. 2. 2; Tesseract 'grow', Kraken 'grou')"/>
     <fix pb="232" before="meek, and " tcp="fitting" print="sitting" after=" upon an Ass"
          evidence="p. 232 (scan 243): 'meek, and sitting upon an Ass' (Matth. 21. 5; Kraken; the long s keyed as f)"/>
+    <fix pb="71" before="christian Assurance: It " tcp="favours" print="savours" after=" more of the"
+         evidence="p. 71: Kraken 'savours more of the Spirit'; the TCP read the long s and f one for the other"/>
+    <fix pb="192" before="them, with Boldness, to " tcp="fell" print="sell" after=" all, confid"
+         evidence="p. 192: Kraken 'with Boldness, to sell-all'; the TCP read the long s and f one for the other"/>
+    <fix pb="236" before="16. 32. 'He that is " tcp="flow" print="slow" after=" to Anger, i"
+         evidence="p. 236: Kraken 'is slow to Anger' (Prov. 16. 32); the TCP read the long s and f one for the other"/>
+    <fix pb="144" before="of Pleasure, and be " tcp="listed" print="lifted" after=" up with wha"
+         evidence="p. 144: Kraken 'lifted up with'; the TCP read the long s and f one for the other"/>
+    <fix pb="172" before="it, it's sanctified Eye " tcp="fees" print="sees" after=" no Beauty i"
+         evidence="p. 172: Kraken 'Eye sees no Beauty'; the TCP read the long s and f one for the other"/>
+    <fix pb="259" before="And mine Eye shall weep " tcp="fore" print="sore" after=", and run do"
+         evidence="p. 259: Kraken 'weep sore' (Jer. 13. 17); the TCP read the long s and f one for the other"/>
+    <fix pb="287" before="Practice is evermore " tcp="sound" print="found" after=" in true Sai"
+         evidence="p. 287: Kraken 'evermore found'; the TCP read the long s and f one for the other"/>
+    <fix pb="326" before="of all the wise, " tcp="found" print="sound" after=" and experie"
+         evidence="p. 326: Kraken 'all the wise, sound and experienced Divines'; the TCP read the long s and f one for the other"/>
+    <fix pb="334" before="is at Hand. I have " tcp="sought" print="fought" after=" a good Figh"
+         evidence="p. 334: Kraken 'I have fought a good Fight' (2 Tim. 4. 7); the TCP read the long s and f one for the other"/>
+    <fix pb="323" before="know me? " tcp="faith" print="saith" after=" the Lord"
+         evidence="p. 323: Kraken 'Was not this to know me? saith the Lord' (Jer. 22. 16); the TCP read the long s as f"/>
   </corrections>
 </supplement>
