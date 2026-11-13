@@ -81,8 +81,6 @@
          evidence="c77: p. 23 (scan 34): 'and whom he will he hardeneth' (Rom. 9. 18)"/>
     <fix pb="23" before="" tcp="is" print="to" after=" D"
          evidence="c79: p. 23 (scan 34): 'while it is called to Day' (Heb. 3. 13)"/>
-    <fix pb="26" before="t it" tcp="" print=" be" after=""
-         evidence="c83: p. 26 (scan 37): 'And let it be consider'd'"/>
     <fix pb="31" before="" tcp="of" print="to" after=" God,"
          evidence="c90: p. 31 (scan 42): 'Exercises of Love to God, and Sorrow for Sin'"/>
     <fix pb="32" before="uke" tcp="" print=" to " after=""
@@ -133,8 +131,6 @@
          evidence="c214: p. 95 (scan 106): 'Numb. 24. 2. 1 Sam. 10. 10.'"/>
     <fix pb="96" before="" tcp="yet" print="not" after=" t"
          evidence="c216: p. 96 (scan 107): 'natural Men are said not to have the Spirit, Jude 19.'"/>
-    <fix pb="96" before="y not" tcp="" print=" at" after=""
-         evidence="c217: p. 96 (scan 107): 'may not at all communicate himself'"/>
     <fix pb="114" before="s, " tcp="that" print="it" after=""
          evidence="c244: p. 114 (scan 125): 'And this it is that affects and elevates them'"/>
     <fix pb="114" before="" tcp="" print=" affects and" after=" ele"
@@ -235,8 +231,6 @@
          evidence="c464: p. 225 (scan 236): 'I am not mad, most noble Festus' (Acts 26. 25)"/>
     <fix pb="227" before="" tcp="forward" print="thenceforward" after=" h"
          evidence="c467: p. 227 (scan 238): 'So that thenceforward he becomes a holy Person'"/>
-    <fix pb="228" before="y with respect" tcp="" print=" to" after=""
-         evidence="c471: p. 228 (scan 239): 'with respect to it, to correct it'"/>
     <fix pb="228" before="" tcp="as" print="is" after=" a"
          evidence="c472: p. 228 (scan 239): 'wrought in Conversion, is an universal Change'"/>
     <fix pb="229" before="" tcp="" print=" is" after=" ali"
@@ -721,5 +715,7 @@
          evidence="p. 125 (scan 136): 'in their Foreheads; together with Ezek. 9. 4.' (the TCP keys 'to-' before 'together' at the line's end)"/>
     <fix pb="289" before="and give" tcp="" print=" " after=""
          evidence="p. 289 (scan 300): 'to renounce his Sin, and give it a Bill of Divorce' (the TCP joins 'give' and 'it' across the line)"/>
+    <fix pb="304" before="Original it is " tcp="EPTO" print="ΕΡΓΟ" after=""
+         evidence="p. 304 (scan 315): the Greek capitals ΕΡΓΟ (1 John 3:18), keyed by the TCP in Latin letters; the errata corrects it to ΕΡΓΩ"/>
   </corrections>
 </supplement>

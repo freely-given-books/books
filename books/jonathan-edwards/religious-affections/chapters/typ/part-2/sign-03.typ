@@ -1,6 +1,6 @@
 == Fluent Talk of Religion
 
-#smallcaps[III]. 'Tis no sign that affections are truly gracious affections, or that they are not, that they cause those who have them, to be fluent, fervent and abundant, in talking of the things of religion.
+III. 'Tis no sign that affections are truly gracious affections, or that they are not, that they cause those who have them, to be fluent, fervent and abundant, in talking of the things of religion.
 
 There are many persons, who if they see this in others, are greatly prejudiced against them. Their being so full of talk, is with them, a sufficient ground to condemn them, as Pharisees, and ostentatious hypocrites. On the other hand, there are many, who if they see this effect in any, are very ignorantly and imprudently forward, at once to determine that they are the true children of God, and are under the saving influences of his Spirit, and speak of it as a great evidence of a new creature: they say #emph[such an one's mouth is now open’d: he used to be slow to speak; but now he is full and free: he is free now to open his heart, and tell his experiences, and declare the praises of God; it comes from him, as free as water from a fountain,] and the like. And especially are they captivated into a confident and undoubting persuasion that they are savingly wrought upon, if they are not only free and abundant, but very affectionate and earnest in their talk.
 

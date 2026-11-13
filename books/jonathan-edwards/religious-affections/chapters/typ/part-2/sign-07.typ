@@ -1,6 +1,6 @@
 == Affections of Many Kinds
 
-#smallcaps[VII]. Persons having religious affections of many kinds, accompanying one another, is not sufficient to determine whether they have any gracious affections or no.
+VII. Persons having religious affections of many kinds, accompanying one another, is not sufficient to determine whether they have any gracious affections or no.
 
 Tho' false religion is wont to be maimed and monstrous, and not to have that entireness and symmetry of parts, which is to be seen in true religion; yet there may be a great variety of false affections together, that may resemble gracious affections.
 
