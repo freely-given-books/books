@@ -2,38 +2,186 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 19 |
-| case | 10 |
-| spacing | 8 |
-| grammar | 2 |
+| punctuation | 153 |
+| spacing | 7 |
+| case | 6 |
+| gap | 2 |
+| emendation | 1 |
+| spelling | 1 |
 
-## grammar
+## gap
 
-- commiteth → committeth (×2)
+- [part-3/sign-12.typ] doth → Doth
+- [part-3/sign-12.typ] thus → Thus
+
+## emendation
+
+- [part-3/sign-04.typ] ' → 
+
+## punctuation
+
+- [part-1/03-religion-in-the-affections.typ] ▪ → :
+- [part-2/sign-11.typ] ▪ → :
+- [part-2/sign-12.typ] ▪ → ,
+- [part-3/sign-01.typ note] ▪ → ,
+- [part-3/sign-01.typ] ▪ → ;
+- [part-3/sign-01.typ] ▪ → ;
+- [part-3/sign-04.typ note] ▪ → ,
+- [part-3/sign-04.typ note] ▪ → 
+- [part-3/sign-04.typ] ▪ → ;
+- [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] ▪ → ;
+- [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] ▪ → ,
+- [part-3/sign-10.typ] ▪ → .
+- [part-3/sign-11.typ note] ▪ → ;
+- [part-3/sign-11.typ note] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → .
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → :
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ,
+- [part-3/sign-11.typ] ▪ → ;
+- [part-3/sign-12.typ note] ▪ → 
+- [part-3/sign-12.typ note] ▪ → ;
+- [part-3/sign-12.typ note] ▪ → .
+- [part-3/sign-12.typ note] ▪ → .—
+- [part-3/sign-12.typ note] ▪ → .—
+- [part-3/sign-12.typ note] ▪ → :
+- [part-3/sign-12.typ note] ▪ → :
+- [part-3/sign-12.typ note] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .—
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ?
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → 
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → -
+- [part-3/sign-12.typ] ▪ → ;
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → :
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → ,
+- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → ;
 
 ## case
 
-- 'tis → 'Tis (×7)
-- 'till → 'Till
-- Lifetime → LifeTime
-- Springwater → SpringWater
+- and → And (×2)
+- the → The (×2)
+- reason → Reason
+- they → They
 
 ## spelling
 
-- Show → Shew (×2)
-- persuaded → perswaded (×2)
-- shows → shews (×2)
-- Marry → Mary
-- Persuasions → Perswasions
-- Revelation → Revelatione
-- Threatenings → Threatnings
-- Virtue → Vertue
-- Virtues → Vertues
-- choose → chuse
-- expressly → expresly
-- mixed → mixt
-- profane → prophane
-- show → shew
-- subess → subesse
-- tit → tite
+- the → 'the
 
