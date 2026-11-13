@@ -19,6 +19,8 @@ QUOTE_BLOCK = True
 MODERNIZE_NOTES = "case"
 SMALLCAPS = "smallcaps"
 OPENING_SMALLCAPS = True
+# a decorated initial and its word printed in capitals ("THERE is") set as a word (There)
+DROP_CAP_CASE = True
 
 LOWERCASE_COMMON_NOUNS = _runpy.run_path(str(Path(__file__).parent / "nouns.py"))["LOWERCASE_COMMON_NOUNS"]
 # A quotation's first word (an italic run of 5 words or more) keeps its printed capital.
@@ -108,9 +110,9 @@ def LAYOUT(root):
         return heads[1] if len(heads) > 1 else None
 
     # Part I: the text, the doctrine and the method; I. the affections; II. their place; inferences
-    # the text (1 Pet 1:8), printed as two heads under the part's title, opens the first file
-    text = parts[0].findall(f"{T}head")[2:4]
-    p1 = text + _blocks(parts[0])
+    # the text (1 Pet 1:8), printed as two heads under the part's title, is the first file's epigraph
+    text = tuple(parts[0].findall(f"{T}head")[2:4])
+    p1 = _blocks(parts[0])
     # "II • . Thing proposed": a gap in the TCP where the print has "SECOND"
     starts = [_opens(PART_1[1][2]), lambda el: _opens("II")(el) and "Thing proposed" in _text(el)[:40],
               _opens(PART_1[3][2])]
@@ -118,7 +120,8 @@ def LAYOUT(root):
         files.append({"file": f"part-1/{name}", "title": title,
                       "kicker": "Part I · The Nature and Importance of the Affections",
                       "part": "Part I" if k == 0 else None,
-                      "subtitle": part_title(parts[0]) if k == 0 else None, "parts": chunk})
+                      "subtitle": part_title(parts[0]) if k == 0 else None,
+                      "epigraph": text if k == 0 else None, "parts": chunk})
 
     # Part II: the plan (I. no signs, II. distinguishing signs), then twelve signs that are no signs
     p2 = _blocks(parts[1])

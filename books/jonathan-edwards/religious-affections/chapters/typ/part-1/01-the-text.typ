@@ -2,11 +2,18 @@
 
 #align(center)[Concerning the Nature of the Affections, and their Importance in Religion.]
 
-=== 1 PETER i. 8.
+#align(center)[
+  #block(width: 85%, breakable: false)[
+    #set par(justify: false)
+    #text(size: 0.9em, weight: 600)[1 PETER i. 8.]
 
-=== Whom having not seen, ye love: In whom, though now ye see him not, yet believing, ye rejoice with Joy unspeakable, and full of Glory.
+    #text(style: "italic")[Whom having not seen, ye love: in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable, and full of glory.]
+  ]
+]
 
-#smallcaps[IN] these words, the apostle represents the state of the minds of the Christians he wrote to, under the persecutions they were then the subjects of. These persecutions are what he has respect to, in the two preceeding verses, when he speaks of #emph[the trial of their faith,] and of #emph[their being in heaviness through manifold temptations.]
+#v(0.8em)
+
+#smallcaps[In] these words, the apostle represents the state of the minds of the Christians he wrote to, under the persecutions they were then the subjects of. These persecutions are what he has respect to, in the two preceeding verses, when he speaks of #emph[the trial of their faith,] and of #emph[their being in heaviness through manifold temptations.]
 
 Such trials are of threefold benefit to true religion: hereby the truth of it is manifested, and it appears to be indeed #emph[true religion:] they, above all other things, have a tendency to distinguish between true religion and false, and to cause the difference between them evidently to appear. Hence they are called by the name of #emph[trials,] in the verse nextly preceeding the text, and in innumerable other places: they try the faith and religion of professors, of what sort it is, as apparent gold is tried in the fire, and manifested, whether it be true gold or no. And the faith of true Christians being thus tried and proved to be true, is #emph[found to praise, and honour, and glory;] as in that preceeding verse.
 
