@@ -1251,7 +1251,7 @@ GAP_FIXES = {
     1246: ('the midst of', 'high', "1746 p. 329: page reads 'at the Receipt of Custom, and in the midst of his worldly Gains'", "#editor"),
     1247: ('dl', 'high', "1746 scan p. 329 (Princeton copy, image 340): Kraken and Tesseract read 'worldly'", "#editor"),
     1248: ("Levi's", 'high', "1746 p. 329: page reads 'the closing of Levi's Heart with this Invitation' (italic Levi)", "#editor"),
-    1249: ('art', 'high', "1746 scan p. 329 (Princeton copy, image 340): Kraken and Tesseract read 'art'", "#editor"),
+    1249: ('', 'high', '1746 p. 329: the page reads "the closing of Levi\'s Heart with" (the TCP\'s "He" is corrected to "Heart"; this gap stands for nothing)', "#editor"),
     1250: ('Invitation', 'high', "1746 scan p. 329 (Princeton copy, image 340): Kraken and Tesseract read 'Invitation'", "#editor"),
     1251: ('manifested', 'high', "1746 scan p. 329 (image 340): Kraken 'manifested', Tesseract 'manifcfled'", "#editor"),
     1252: ('and', 'high', "1746 scan p. 329 (Princeton copy, image 340): Kraken and Tesseract read 'and'", "#editor"),

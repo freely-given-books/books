@@ -141,8 +141,6 @@
          evidence="c205: p. 92 (scan 103): 'neither can he know them' (1 Cor. 2. 14)"/>
     <fix pb="93" before="" tcp="only" print="abundantly" after=""
          evidence="c207: p. 93 (scan 104): 'is abundantly evident, by Rom. 7. 25.'"/>
-    <fix pb="93" before="nd," tcp="" print="Rom" after=""
-         evidence="c209: p. 93 (scan 104): 'a spiritual Mind, Rom. 8. 6, 7. and of spiritual Wisdom'"/>
     <fix pb="93" before="" tcp="" print="be observed" after=" that the E"
          evidence="c210: p. 93 (scan 104): 'Now it may be observed that the Epithet'"/>
     <fix pb="95" before="" tcp="Som" print="Sam" after="."
@@ -201,9 +199,7 @@
          evidence="c381: p. 186 (scan 197): 'and they have believed that thou didst send me' (John 17. 8)"/>
     <fix pb="187" before="" tcp="mere" print="more" after=" e"
          evidence="c383: p. 187 (scan 198): 'Being more exceedingly zealous' (Gal. 1. 14)"/>
-    <fix pb="193" before="r a" tcp="" print="clear" after=""
-         evidence="c393: p. 193 (scan 204): 'must wait for a clear and certain Conviction'"/>
-    <fix pb="193" before="ruth " tcp="or" print="of Christianity" after=""
+    <fix pb="193" before="ruth " tcp="or" print="of" after=""
          evidence="c394: p. 193 (scan 204): 'Conviction of the Truth of Christianity, 'till they have'"/>
     <fix pb="194" before="" tcp="low" print="few" after=" o"
          evidence="c397: p. 194 (scan 205): 'how few of them were there'"/>
@@ -245,8 +241,6 @@
          evidence="c445: p. 216 (scan 227): 'And thus he that is greatest in the Kingdom'"/>
     <fix pb="219" before="" tcp="way" print="why" after=" s"
          evidence="c449: p. 219 (scan 230): 'The very Reason why such outward Acts'"/>
-    <fix pb="221" before="ations," tcp="" print="and" after=""
-         evidence="c452: p. 221 (scan 232): 'their Humiliations, and to set them forth'"/>
     <fix pb="222" before="e " tcp="represent" print="represents it as" after=""
          evidence="c454: p. 222 (scan 233): 'The Scripture represents it as of a contrary Nature'"/>
     <fix pb="223" before="" tcp="time" print="me" after=","
@@ -317,7 +311,7 @@
          evidence="c658: p. 338 (scan 349): 'as a Balance for the Guilt of Sin, or a Recommendation'"/>
     <fix pb="338" before="t, and" tcp="" print="not" after=""
          evidence="c659: p. 338 (scan 349): 'the Righteousness of Christ, and not by our Righteousness'"/>
-    <fix pb="343" before="" tcp="" print="an" after=" ami"
+    <fix pb="343" before="" tcp="" print=" an" after=" ami"
          evidence="c666: p. 343 (scan 354): 'more by an amiable distinguished Behaviour'"/>
     <fix pb="v" before="t " tcp="Restrains" print="Restraint" after=""
          evidence="c672: p. v (scan 10): 'and so sin without Restraint, yea with earnest Forwardness'"/>
@@ -731,5 +725,17 @@
          evidence="p. 307: 'In this Practice of the Soul, is included the Aim'"/>
     <fix pb="16" before="very" tcp="man" print="manifest," after=""
          evidence="p. 16: 'And 'tis very manifest, that the Religion he expresses in his Epistles'"/>
+    <fix pb="93" before="" tcp="and" print="and of" after="" n="3"
+         evidence="p. 93 (scan 104): 'a spiritual Mind, Rom. 8. 6, 7. and of spiritual Wisdom, Col. 1. 9.' (the third ' and ' alone in its text node on the page)"/>
+    <fix pb="93" before="ritual Part" tcp="" print=" of Man, in Opposition to the Body, which is the material Part" after=":"
+         evidence="p. 93 (scan 104): 'as the spiritual Part of Man, in Opposition to the Body, which is the material Part: Qualities' (the keyer's eye skipped from Part to Part)"/>
+    <fix pb="208" before="20. 'Tis natural" tcp="" print=" for" after=""
+         evidence="p. 208 (scan 219): ''Tis natural for them to take it for granted'"/>
+    <fix pb="294" before="" tcp="Gains" print="Gaius" after="" n="1"
+         evidence="p. 294 (scan 305): 'to give it as a Rule to Gaius how he should judge' (3 John)"/>
+    <fix pb="294" before="" tcp="Gains" print="Gaius" after=""
+         evidence="p. 294 (scan 305): 'then in the 11th Verse he directs Gaius to beware of such' (3 John)"/>
+    <fix pb="329" before="" tcp="He" print="Heart" after=""
+         evidence="p. 329 (scan 340): 'the closing of Levi's Heart with this Invitation' (gap 1249 after it stands for nothing)"/>
   </corrections>
 </supplement>
