@@ -8,7 +8,7 @@ This manner of slighting all religious #emph[affections,] is the way exceedingly
 
 And for persons to despise and cry down all religious #emph[affections,] is the way to shut all religion out of their own hearts, and to make thorough work in ruining their souls.
 
-They who condemn high affections in others, are certainly not likely to have high affections themselves. And let itbe be consider’d, that they who have but little religious affection, have certainly but little religion. And they who condemn others for their #emph[religious affections,] and have none themselves, have no religion.
+They who condemn high affections in others, are certainly not likely to have high affections themselves. And let it be be consider’d, that they who have but little religious affection, have certainly but little religion. And they who condemn others for their #emph[religious affections,] and have none themselves, have no religion.
 
 There are false #emph[affections,] and there are true. A man's having #emph[much affection,] don't prove that he has any true religion: but if he has #emph[no affection,] it proves that he has no true religion. The right way, is not to reject all affections, nor to approve all; but to distinguish between affections, approving some, and rejecting others; separating between the wheat and the chaff, the gold and the dross, the precious and the vile.
 
