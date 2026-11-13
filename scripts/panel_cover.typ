@@ -314,7 +314,7 @@
          fill: pal.panel))
 
   if front-style == "set" {
-    let dim = pal.ink.transparentize(48%)
+    let dim = color.mix((pal.ink, 52%), (pal.panel, 48%))   // opaque (Lulu flattens transparency)
     // the frame sits inside the panel; type keeps SAFETY from the trim
     place(top + left, dx: front-x + PANEL_INSET + 0.16in, dy: BLEED + PANEL_INSET + 0.16in,
       box(width: trim-width - 2 * PANEL_INSET - 0.32in,

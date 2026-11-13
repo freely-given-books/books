@@ -30,7 +30,9 @@
 #let navy = rgb("#1a2744")
 #let gold = rgb("#c9a227")
 #let cream = rgb("#f4e9d6")
-#let soft = cream.transparentize(25%)
+// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
+// transparency into image tiles: scripts/plate_cover.typ)
+#let soft = color.mix((cream, 75%), (navy, 25%))
 
 #let SERIF = "Libertinus Serif"
 #let DISPLAY = ("Libertinus Serif Display", "Libertinus Serif")

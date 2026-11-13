@@ -16,12 +16,15 @@
 #let blue = rgb("#1D2838")       // Of Temptation
 #let oxblood = rgb("#3A1E1E")    // The Mortification of Sin
 #let ground = ((blue, 0%), (blue, 30%), (oxblood, 72%), (oxblood, 100%))
+// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens at its height
+// transparency into image tiles: scripts/plate_cover.typ)
+#let behind = gradient.linear(..ground).sample(45%)
 
 #plate-cover(
   ground: ground,
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 13pt, tracking: 0.12em,
-      fill: ink.transparentize(35%), body)
+      fill: color.mix((ink, 65%), (behind, 35%)), body)
     let gilt(body) = text(font: DISPLAY, weight: "bold", size: 18pt,
       tracking: 0.14em, fill: gold, body)
     let verse(dy, body, source) = place(dx: 0.5in, dy: dy, box(width: 4.5in, {
@@ -29,7 +32,7 @@
       set par(leading: 0.55em, spacing: 0pt)
       body
       v(0.16in)
-      caps(source, 8pt, gold.transparentize(20%), tracking: 0.25em)
+      caps(source, 8pt, color.mix((gold, 80%), (behind, 20%)), tracking: 0.25em)
     }))
     verse(3.05in, {
       gilt[Watch and pray,]
