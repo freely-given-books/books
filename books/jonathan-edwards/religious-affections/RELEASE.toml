@@ -1,0 +1,31 @@
+# Release record of Religious Affections: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, jonathan-edwards/religious-affections/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied."
+
+[[source]]
+file = "source/N04635.tcp.xml"
+description = "Evans-TCP N04635: A Treatise Concerning Religious Affections, in Three Parts (Boston, S. Kneeland and T. Green, 1746; Evans 5767)"
+url = "https://github.com/textcreationpartnership/N04635"
+sha256 = "238dbbe338902d11dd1f514be5fe570d22c606892e511c7f044d2cda38086924"
+
+[[source]]
+file = "source/N04635.supplied.xml"
+description = "Corrections to the TCP transcription, read on the 1746 page images (dropped and misread words, f for s, among others)"
+url = "https://archive.org/details/treatiseconcerni1746edwa"
+sha256 = "661d1eb31a7dc04c0d3598c920c994038ab886a2421f052e9dd22da0f7e6c818"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1746 printing, Princeton Theological Seminary copy, archive.org scan: local OCR (Kraken and Tesseract) collated with the TCP; gaps, slips and the errata page read on its page images"
+url = "https://archive.org/details/treatiseconcerni1746edwa"
+
+[[witness]]
+description = "The 1768 New York edition (J. Parker for G. Noel, set from 1746), archive.org scan, local OCR collated as a second reading"
+url = "https://archive.org/details/treatiseconcerni00edwa"
+
+[[witness]]
+description = "CCEL's modern-spelling text (the Worcester line), a check on case and spelling only"
+url = "https://www.ccel.org/ccel/edwards/affections.html"
