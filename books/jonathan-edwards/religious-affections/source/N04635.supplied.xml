@@ -15,6 +15,98 @@
   <corrections xml:id="tcp-corrections">
     <desc>Words the TCP transcription misread or left out, corrected to the 1746 print
     (archive.org treatiseconcerni1746edwa).</desc>
+    <fix pb="11" before="" tcp="Se" print="So" after=" V"
+         evidence="q8 (proofread, 2026-11-13): p. 11: 'So Verse 128'"/>
+    <fix pb="12" before="" tcp="faith" print="saith" after=" t"
+         evidence="q9 (proofread, 2026-11-13): p. 12: 'Thus saith the high'"/>
+    <fix pb="22" before="" tcp="same" print="some" after=" A"
+         evidence="q15 (proofread, 2026-11-13): p. 22: 'Christ gave some Apostles'"/>
+    <fix pb="32" before="" tcp="Last" print="hast" after=" b"
+         evidence="q19 (proofread, 2026-11-13): p. 32: 'because thou hast been'"/>
+    <fix pb="59" before="" tcp="Soul" print="Saul" after=""
+         evidence="q29 (proofread, 2026-11-13): p. 59: 'And yet Saul seems'"/>
+    <fix pb="66" before="" tcp="be" print="he" after=" t"
+         evidence="q31 (proofread, 2026-11-13): p. 66: 'And he taught in'"/>
+    <fix pb="66" before="" tcp="in" print="is" after=" i"
+         evidence="q32 (proofread, 2026-11-13): p. 66: 'as is intimated in'"/>
+    <fix pb="68" before="" tcp="him of" print="himself" after=" f"
+         evidence="q36 (proofread, 2026-11-13): p. 68: 'and gave himself for me'"/>
+    <fix pb="72" before="" tcp="ren" print="ten" after=" V"
+         evidence="q40 (proofread, 2026-11-13): p. 72: 'the ten Virgins'"/>
+    <fix pb="98" before="" tcp="when" print="whom" after=" t"
+         evidence="q55 (proofread, 2026-11-13): p. 98: 'Truth, whom the World cannot'"/>
+    <fix pb="125" before="" tcp="cat" print="eat" after=" o"
+         evidence="q74 (proofread, 2026-11-13): p. 125: 'give to eat of'"/>
+    <fix pb="133" before="" tcp="be" print="the" after=" S"
+         evidence="q77 (proofread, 2026-11-13): p. 133: 'satisfy the Soul'"/>
+    <fix pb="152" before="" tcp="or" print="of" after=" H"
+         evidence="q87 (proofread, 2026-11-13): p. 152: 'Taste of Honey is'"/>
+    <fix pb="163" before="" tcp="lost" print="lest" after=" t"
+         evidence="q98 (proofread, 2026-11-13): p. 163: 'not, lest the Light'"/>
+    <fix pb="175" before="" tcp="be" print="he" after=" k"
+         evidence="q109 (proofread, 2026-11-13): p. 175: 'he knoweth not'"/>
+    <fix pb="178" before="" tcp="to" print="" after=" be a"
+         evidence="q111 (proofread, 2026-11-13): p. 178: 'may not be afraid'"/>
+    <fix pb="183" before="" tcp="be" print="he" after=" w"
+         evidence="q113 (proofread, 2026-11-13): p. 183: 'that he which raised'"/>
+    <fix pb="183" before="" tcp="be" print="he" after=" i"
+         evidence="q114 (proofread, 2026-11-13): p. 183: 'and he in us'"/>
+    <fix pb="205" before="" tcp="or" print="of" after=" a l"
+         evidence="q124 (proofread, 2026-11-13): p. 205: 'be of a legal'"/>
+    <fix pb="215" before="" tcp="at" print="as" after=" the m"
+         evidence="q131 (proofread, 2026-11-13): p. 215: 'as the most eminent Saints'"/>
+    <fix pb="219" before="" tcp="same" print="some" after=" g"
+         evidence="q133 (proofread, 2026-11-13): p. 219: 'be some great one'"/>
+    <fix pb="219" before="" tcp="he" print="" after=" a"
+         evidence="q134 (proofread, 2026-11-13): p. 219: 'And if after he had done it'"/>
+    <fix pb="224" before="" tcp="is" print="in" after=" g"
+         evidence="q138 (proofread, 2026-11-13): p. 224: 'my self in great'"/>
+    <fix pb="240" before="" tcp="faith" print="saith" after=" h"
+         evidence="q150 (proofread, 2026-11-13): p. 240: 'Man saith he hath'"/>
+    <fix pb="245" before="" tcp="be" print="he" after=" t"
+         evidence="q153 (proofread, 2026-11-13): p. 245: 'if he trust'"/>
+    <fix pb="252" before="" tcp="be" print="he" after=" l"
+         evidence="q157 (proofread, 2026-11-13): p. 252: 'how can he love God'"/>
+    <fix pb="252" before="" tcp="be" print="he" after=" hat"
+         evidence="q158 (proofread, 2026-11-13): p. 252: 'whom he hath not'"/>
+    <fix pb="254" before="" tcp="save" print="five" after=" t"
+         evidence="q163 (proofread, 2026-11-13): p. 254: 'fed five thousand'"/>
+    <fix pb="256" before="" tcp="held" print="hold" after=" o"
+         evidence="q164 (proofread, 2026-11-13): p. 256: 'shall hold on'"/>
+    <fix pb="271" before="" tcp="he" print="be" after=" u"
+         evidence="q169 (proofread, 2026-11-13): p. 271: 'also be universal'"/>
+    <fix pb="274" before="" tcp="2" print="a" after=" P"
+         evidence="q172 (proofread, 2026-11-13): p. 274: 'that a Professor'"/>
+    <fix pb="274" before="" tcp="Professions" print="Profession" after=" o"
+         evidence="q173 (proofread, 2026-11-13): p. 274: 'a Profession of'"/>
+    <fix pb="276" before="" tcp="given" print="give" after=" i"
+         evidence="q175 (proofread, 2026-11-13): p. 276: 'pass and give in'"/>
+    <fix pb="311" before="" tcp="fit" print="sit" after=" s"
+         evidence="q188 (proofread, 2026-11-13): p. 311: 'or sit still'"/>
+    <fix pb="67" before="" tcp="night" print="might" after=" r"
+         evidence="q34 (proofread, 2026-11-13): p. 67: 'my Joy might remain'"/>
+    <fix pb="151" before="" tcp="Last" print="hast" after=" c"
+         evidence="q84 (proofread, 2026-11-13): p. 151: 'that thou hast commanded'"/>
+    <fix pb="79" before="" tcp="as" print="" after=" be s"
+         evidence="q46 (proofread, 2026-11-13): p. 79: the print has no 'as' here"/>
+    <fix pb="118" before="" tcp="as" print="" after=" and"
+         evidence="q67 (proofread, 2026-11-13): p. 118: the print has no 'as' here"/>
+    <fix pb="124" before="" tcp="my" print="" after=" h"
+         evidence="q72 (proofread, 2026-11-13): p. 124: the print has no 'my' here"/>
+    <fix pb="122" before="" tcp="sanctified" print="" after=" Minds"
+         evidence="q69 (proofread, 2026-11-13): p. 122: the print has no 'sanctified' here"/>
+    <fix pb="190" before="" tcp="presentations" print="" after=" a"
+         evidence="q117 (proofread, 2026-11-13): p. 190: the print has no 'presentations' here"/>
+    <fix pb="114" before="" tcp="the" print="be" after=" spiritual K"
+         evidence="q65 (proofread, 2026-11-13): p. 114: the print has no 'the' here"/>
+    <fix pb="39" before="" tcp="Whose" print="Whoso" after=""
+         evidence="q21 (proofread, 2026-11-13): p. 39: 'Prov. 25. 14. Whoso boasteth'"/>
+    <fix pb="39" before="" tcp="easteth" print="oasteth" after=" h"
+         evidence="q21 (proofread, 2026-11-13): p. 39: 'Whoso boasteth himself'"/>
+    <fix pb="92" before="" tcp="be" print="he" after=" k"
+         evidence="q96 (proofread, 2026-11-13): p. 92: 'neither can he know them' (1 Cor 2:14)"/>
+    <fix pb="162" before="" tcp="be" print="he" after=" k"
+         evidence="q96 (Kraken, 2026-11-13): p. 162: 'neither can he know them' (1 Cor 2:14)"/>
     <fix pb="iii" before="" tcp="on" print="an" after=" O"
          evidence="c5: p. iii (scan 8): 'offer to the Lord an Offering in Righteousness' (Mal. 3. 3)"/>
     <fix pb="v" before="" tcp="he" print="lie" after=" e"
@@ -61,8 +153,6 @@
          evidence="c49: p. 13 (scan 24): 'and purify unto himself a peculiar People' (Tit. 2. 14)"/>
     <fix pb="14" before="" tcp="Poem" print="Rom" after="."
          evidence="c52: p. 14 (scan 25): 'as in Rom. 13. 8. He that loveth another'"/>
-    <fix pb="14" before="" tcp="" print=" is αγαπη" after=" the p"
-         evidence="c54: p. 14 (scan 25): 'in the Original is αγαπη, the proper English' (Greek, no accents visible; TCP dropped both words)"/>
     <fix pb="15" before="" tcp="is" print="to" after=" Me"
          evidence="c56: p. 15 (scan 26): 'from a fervent Love to Men, will arise'"/>
     <fix pb="16" before="" tcp="aged" print="lived" after=","
@@ -83,8 +173,6 @@
          evidence="c79: p. 23 (scan 34): 'while it is called to Day' (Heb. 3. 13)"/>
     <fix pb="31" before="" tcp="of" print="to" after=" God,"
          evidence="c90: p. 31 (scan 42): 'Exercises of Love to God, and Sorrow for Sin'"/>
-    <fix pb="32" before="uke" tcp="" print=" to " after=""
-         evidence="c92: p. 32 (scan 43): 'in Luke 6. 23. to leap for Joy'"/>
     <fix pb="32" before="" tcp="from" print="them" after=" tha"
          evidence="c93: p. 32 (scan 43): 'grieved with them that rise up against thee' (Psal. 139. 21)"/>
     <fix pb="32" before="" tcp="Baby" print="Body" after=" o"
@@ -121,8 +209,6 @@
          evidence="c198: p. 87 (scan 98): 'must the Notion be, that they have'"/>
     <fix pb="91" before="" tcp="and" print="that" after=" ca"
          evidence="c203: p. 91 (scan 102): 'as Men in the Dark, that cannot plainly see'"/>
-    <fix pb="92" before="" tcp="be" print="he" after=" k"
-         evidence="c205: p. 92 (scan 103): 'neither can he know them' (1 Cor. 2. 14)"/>
     <fix pb="93" before="" tcp="only" print="abundantly" after=""
          evidence="c207: p. 93 (scan 104): 'is abundantly evident, by Rom. 7. 25.'"/>
     <fix pb="93" before="" tcp="" print=" be observed" after=" that the E"
@@ -199,8 +285,6 @@
          evidence="c420: p. 205 (scan 216): 'their wicked Hearts, and their great Short-comings'"/>
     <fix pb="208" before="" tcp="than" print="holier than" after=" tho"
          evidence="c425: p. 208 (scan 219): 'I am holier than thou' (Isai. 65. 5)"/>
-    <fix pb="208" before="" tcp="" print=" for" after=" them to ta"
-         evidence="c427: p. 208 (scan 219): ''Tis natural for them to take it for granted'"/>
     <fix pb="208" before="" tcp="at" print="it" after=" f"
          evidence="c428: p. 208 (scan 219): 'for them to take it for granted'"/>
     <fix pb="208" before="" tcp="" print=" to expect" after=" that others s"
@@ -247,8 +331,6 @@
          evidence="c560: p. 278 (scan 289): 'The Kingdom of God is not in Word, but in Power' (1 Cor. 4. 20)"/>
     <fix pb="284" before="" tcp="is" print="as" after=" Fruit i"
          evidence="c568: p. 284 (scan 295): 'about his Saints, as Fruit is the End of all'"/>
-    <fix pb="293" before="t good" tcp="" print=" or " after=""
-         evidence="c580: p. 293 (scan 304): 'and his Fruit good; or else make the Tree corrupt' (Matth. 12. 33)"/>
     <fix pb="296" before="" tcp="it" print="if" after=" he"
          evidence="c585: p. 296 (scan 307): 'but yet acts as if he looked upon himself'"/>
     <fix pb="296" before="" tcp="it" print="if" after=" a P"
@@ -257,8 +339,6 @@
          evidence="c587: p. 296 (scan 307): 'Manifestation of a Spirit of Love to Men, than only a Man's telling'"/>
     <fix pb="299" before="" tcp="how" print="bow" after=","
          evidence="c591: p. 299 (scan 310): 'every Knee shall bow, every Tongue shall swear' (Isai. 45. 23)"/>
-    <fix pb="307" before="" tcp="" print=" far" after=" as the S"
-         evidence="c601: p. 307 (scan 318): 'is the good Work it self, so far as the Soul is concerned in it'"/>
     <fix pb="307" before="" tcp="" print=" is concerned" after=" in i"
          evidence="c602: p. 307 (scan 318): 'so far as the Soul is concerned in it, or so far as'"/>
     <fix pb="307" before="g " tcp="Aim" print="Alms" after=""
@@ -289,8 +369,6 @@
          evidence="c672: p. v (scan 10): 'and so sin without Restraint, yea with earnest Forwardness'"/>
     <fix pb="7" before="" tcp="is" print="in" after=" S"
          evidence="c676: p. 7 (scan 18): 'fervent in Spirit, and our Hearts vigorously engaged'"/>
-    <fix pb="78" before="" tcp="is" print="to" after=" in v"
-         evidence="c678: p. 7 (scan 18), heading says p. 78/scan 89 but the crop is p. 7: 'and to love him, and to serve'; same place as c24"/>
     <fix pb="11" before="" tcp="to" print="no" after=" w"
          evidence="c685: p. 11 (scan 22): 'I will set no wicked Thing before mine Eyes' (Psal. 101. 3)"/>
     <fix pb="13" before="" tcp="on" print="one" after=" of th"
@@ -565,8 +643,6 @@
          evidence="c1066: p. 343 (scan 354): 'more by an amiable distinguished Behaviour' (TCP also lacks 'an')"/>
     <fix pb="271" before="" tcp="Soul" print="Saul" after=""
          evidence="c1003: p. 271 (scan 282): 'Matth. 5. 29,30. Saul was commanded to slay all God's Enemies'"/>
-    <fix pb="78" before="" tcp="to" print="is" after=" e"
-         evidence="c2000: p. 78 (scan 89): 'whenLove rises, and is in vigorous Exercise'"/>
     <fix pb="118" before="" tcp="was" print="does" after=" n"
          evidence="c2002: p. 118 (scan 129): 'Promise does not consist in'"/>
     <fix pb="224" before="" tcp="into" print="doth" after=" t"
@@ -603,9 +679,9 @@
          evidence="c2029: p. 81 (scan 92) footnote: italic 'as the Arminians think. 1 Joh. 2. 19'"/>
     <fix pb="115" before="" tcp="Dependance" print="Dependence" after="."
          evidence="c2030: p. 116 (scan 127) footnote: 'which is by Faith of Dependence. When Men have comfortable Scriptures' (also 'De-pendence' two lines up)"/>
-    <fix pb="130" before="" tcp="many" print="may" after=" n"
+    <fix pb="127" before="e " tcp="many" print="may" after=""
          evidence="c2031: p. 130 (scan 141) footnote: ''tis possible there may subesse falsum'"/>
-    <fix pb="159" before="" tcp="the" print="a" after=" M"
+    <fix pb="158" before="" tcp="the" print="a" after=" f"
          evidence="c2032: p. 159 (scan 170) footnote: 'Christians, by a formal, barren, unsavoury' (TCP 'unfavoury' is a long-s slip too)"/>
     <fix pb="158" before="" tcp="truth" print="trust" after=" t"
          evidence="c2033: p. 159 (scan 170) footnote: 'Oh trust them not!'"/>

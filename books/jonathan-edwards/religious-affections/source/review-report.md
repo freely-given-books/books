@@ -2,14 +2,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1747 |
-| punctuation | 1702 |
-| spacing | 1098 |
-| emendation | 678 |
-| case | 379 |
-| italic | 325 |
+| spelling | 1757 |
+| punctuation | 1703 |
+| spacing | 1100 |
+| emendation | 690 |
+| case | 380 |
+| italic | 326 |
 | level | 207 |
-| gap | 47 |
+| gap | 51 |
 | grammar | 16 |
 | merge | 2 |
 | skipped | 1 |
@@ -41,13 +41,17 @@
 - [part-2/sign-04.typ] vapoury → vapory
 - [part-2/sign-08.typ] rais’d → raised
 - [part-2/sign-08.typ] looses → loses
+- [part-2/sign-08.typ] unmortify’d → unmortified
+- [part-2/sign-10.typ] Ill- → ill-
 - [part-2/sign-10.typ] and honours → and honors
+- [part-2/sign-11.typ] least they should → lest they should
 - [part-3/sign-01.typ] 7, 8, 9, 12, 13. Gal. 5. 16, to the End. Col. 2. 18. Now therefore, if by natural and carnal, → 7, 8, 9, 12, 13. Gal 5:16, to the End. Col 2:18. Now therefore, if by natural and carnal,
 - [part-3/sign-01.typ] Rom. 8. 6, 7. → Rom 8:6, 7
 - [part-3/sign-01.typ] Blessings, Eph. 1. 3 → Blessings, Eph 1:3
 - [part-3/sign-01.typ] extrinsick → extrinsic
 - [part-3/sign-01.typ] ben’t restrain’d → ben’t restrained
 - [part-3/sign-01.typ] Eph. → Eph
+- [part-3/sign-04.typ] son → on
 - [part-3/sign-04.typ] relishbes → relishes
 - [part-3/sign-05.typ] 'till they → till they
 - [part-3/sign-05.typ] fetch’d → fetched
@@ -127,6 +131,7 @@
 - [part-1/03-religion-in-the-affections.typ] Isai . → Isa
 - [part-1/03-religion-in-the-affections.typ] Chap . → Chapter
 - [part-1/03-religion-in-the-affections.typ] Isal → Isa 50
+- [part-1/03-religion-in-the-affections.typ] in decypher'd; → is deciphered;
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] ver → v
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
@@ -182,6 +187,7 @@
 - [part-2/sign-02.typ] Psal . → Ps
 - [part-2/sign-02.typ] Psal . → Ps
 - [part-2/sign-02.typ] Psal . → Ps
+- [part-2/sign-03.typ note] ly → lie
 - [part-2/sign-03.typ note] II → 2
 - [part-2/sign-03.typ] 'em → them
 - [part-2/sign-03.typ] v . → 
@@ -206,6 +212,7 @@
 - [part-2/sign-08.typ] Matth . → Matt
 - [part-2/sign-08.typ] Matth . → Matt
 - [part-2/sign-08.typ] Levit . → Lev
+- [part-2/sign-08.typ] ly → lie
 - [part-2/sign-08.typ] Psal . → Ps
 - [part-2/sign-08.typ] Isai . → Isa
 - [part-2/sign-08.typ] which → who
@@ -232,6 +239,7 @@
 - [part-2/sign-10.typ] Matth . → Matt
 - [part-2/sign-10.typ] Isai . → Isa
 - [part-2/sign-11.typ note] Chap . → Chapter
+- [part-2/sign-11.typ] shall → shall have
 - [part-2/sign-11.typ] . 1 . → 4:7,
 - [part-2/sign-11.typ] but → not
 - [part-2/sign-11.typ] Chap . → Chapter
@@ -266,6 +274,7 @@
 - [part-2/sign-12.typ] 1 . → 
 - [part-3/00-of-the-signs.typ] 'em → them
 - [part-3/sign-01.typ note] Isai . → Isa
+- [part-3/sign-01.typ note] seem → seem to
 - [part-3/sign-01.typ note] 'em → them
 - [part-3/sign-01.typ] Chap . → Chapter
 - [part-3/sign-01.typ] Rom . → Romans
@@ -281,6 +290,7 @@
 - [part-3/sign-01.typ] the → 
 - [part-3/sign-01.typ] Kings → Kgs 22:
 - [part-3/sign-01.typ] 22 → 
+- [part-3/sign-01.typ] a → 
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
@@ -336,6 +346,7 @@
 - [part-3/sign-03.typ] Matth . → Matt
 - [part-3/sign-03.typ] Psal . → Ps
 - [part-3/sign-03.typ] Psal . → Ps
+- [part-3/sign-03.typ] it → it is
 - [part-3/sign-03.typ] Isai . → Isa
 - [part-3/sign-03.typ] Chap . → Chapter
 - [part-3/sign-03.typ] Psal . → Ps
@@ -353,6 +364,7 @@
 - [part-3/sign-04.typ] Psal . → Ps
 - [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] Chap . → Chapter
+- [part-3/sign-04.typ] that → 
 - [part-3/sign-04.typ] Matth . → Matt
 - [part-3/sign-04.typ] Psal . → Ps
 - [part-3/sign-04.typ] Ver . → Verse
@@ -360,6 +372,7 @@
 - [part-3/sign-04.typ] Matth . → Matt
 - [part-3/sign-04.typ] Cant . → Song
 - [part-3/sign-04.typ] Cor . → Corinthians
+- [part-3/sign-04.typ] is → it
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
@@ -391,6 +404,7 @@
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] he athenism, → heathenism,
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
@@ -705,6 +719,7 @@
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Opportuto → opportunity to
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Tit . → Titus
@@ -736,6 +751,7 @@
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Thes . → Thess
+- [part-3/sign-12.typ] ly → lie
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Rom . → Romans
 - [part-3/sign-12.typ] Rom . → Romans
@@ -948,6 +964,7 @@
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] ▪ → :
+- [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
@@ -2462,7 +2479,7 @@
 
 ## case
 
-- Spirit → spirit (×159)
+- Spirit → spirit (×160)
 - Part → part (×71)
 - Acts → acts (×33)
 - Spirits → spirits (×31)
@@ -2491,7 +2508,7 @@
 ## spelling
 
 - tho' → though (×165)
-- it's → its (×118)
+- it's → its (×116)
 - chap → ch (×57)
 - behaviour → behavior (×56)
 - thro' → through (×56)
@@ -2526,10 +2543,8 @@
 - subtilty → subtlety (×9)
 - endeavours → endeavors (×8)
 - fill'd → filled (×8)
-- loose → lose (×8)
 - mens → men's (×8)
 - odour → odor (×8)
-- It's → Its (×7)
 - explain'd → explained (×7)
 - prevail'd → prevailed (×7)
 - endeavour → endeavor (×6)
@@ -2545,6 +2560,7 @@
 - enquired → inquired (×5)
 - enquiry → inquiry (×5)
 - fervour → fervor (×5)
+- foremention'd → forementioned (×5)
 - honoured → honored (×5)
 - melancholly → melancholy (×5)
 - pass'd → passed (×5)
@@ -2563,6 +2579,7 @@
 - favours → favors (×4)
 - fix'd → fixed (×4)
 - look'd → looked (×4)
+- loose → lose (×4)
 - lustre → luster (×4)
 - mix'd → mixed (×4)
 - obtain'd → obtained (×4)
@@ -2572,6 +2589,7 @@
 - touch'd → touched (×4)
 - woful → woeful (×4)
 - 'Till → till (×3)
+- It's → Its (×3)
 - Neighbour's → Neighbor's (×3)
 - Tho'ts → Thoughts (×3)
 - centre → center (×3)
@@ -2660,14 +2678,17 @@
 - reliev'd → relieved (×2)
 - reproach'd → reproached (×2)
 - seal'd → sealed (×2)
+- sham'd → shamed (×2)
 - spiritualiz'd → spiritualized (×2)
 - stop'd → stopped (×2)
 - sum'd → summed (×2)
 - surprizing → surprising (×2)
+- then → than (×2)
 - utter'd → uttered (×2)
 - valour → valor (×2)
 - weaken'd → weakened (×2)
 - wofully → woefully (×2)
+- won't → wont (×2)
 - 14 → 14:
 - 24 → 24:
 - Academicks → Academics
@@ -2718,6 +2739,7 @@
 - benefits → benefit
 - bewilder'd → bewildered
 - bless'd → blessed
+- born → borne
 - bruitish → brutish
 - carry'd → carried
 - characteristick → characteristic
@@ -2743,6 +2765,7 @@
 - crucify'd → crucified
 - damn'd → damned
 - darken'd → darkened
+- decay'd → decayed
 - defence → defense
 - depress'd → depressed
 - desart → desert
@@ -2769,6 +2792,7 @@
 - encreasing → increasing
 - endeavouring → endeavoring
 - engag'd → engaged
+- entertain'd → entertained
 - envenom'd → envenomed
 - especeially → especially
 - establish'd → established
@@ -2810,6 +2834,7 @@
 - immediated → immediate
 - immoveable → immovable
 - immoveably → immovably
+- impression → impressions
 - incapable → capable
 - inclin'd → inclined
 - inconsistence → inconsistency
@@ -2819,12 +2844,14 @@
 - infer'd → inferred
 - inferr'd → inferred
 - ingeniosity → ingenuity
+- instamp'd → instamped
 - invinceable → invincible
 - irresistable → irresistible
 - judgement → judgment
 - jus → ius
 - kill'd → killed
 - lain → laid
+- least → lest
 - lengthen'd → lengthened
 - liken'd → likened
 - lov'd → loved
@@ -2841,6 +2868,7 @@
 - musick → music
 - natures → nature
 - never → ever
+- observ'd → observed
 - occular → ocular
 - oeconomy → economy
 - order'd → ordered
@@ -2920,6 +2948,7 @@
 - talk'd → talked
 - terror → terrors
 - theatre → theater
+- tho → the
 - transfigur'd → transfigured
 - truely → truly
 - trustling → trusting
@@ -2930,6 +2959,7 @@
 - unfoundness → unsoundness
 - unmov'd → unmoved
 - unparrallel'd → unparalleled
+- unsanctify'd → unsanctified
 - unsavouriness → unsavoriness
 - unsavoury → unsavory
 - us'd → used
