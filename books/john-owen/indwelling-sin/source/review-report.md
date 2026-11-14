@@ -8,8 +8,8 @@
 | spacing | 404 |
 | emendation | 388 |
 | level | 204 |
+| case | 35 |
 | grammar | 32 |
-| case | 29 |
 | inset | 17 |
 | heading | 16 |
 | gap | 5 |
@@ -1190,6 +1190,7 @@
 
 ## case
 
+- holy → Holy (×6)
 - Which → which (×5)
 - As → as (×3)
 - But → but (×3)

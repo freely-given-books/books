@@ -15,6 +15,7 @@
 | list | 10 |
 | merge | 10 |
 | gap | 3 |
+| case | 1 |
 | skipped | 1 |
 
 ## split
@@ -896,6 +897,10 @@
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
+
+## case
+
+- holy → Holy
 
 ## spelling
 

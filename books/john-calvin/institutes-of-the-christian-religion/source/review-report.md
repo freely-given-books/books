@@ -8,7 +8,7 @@
 | spacing | 116 |
 | note | 36 |
 | italic | 18 |
-| case | 11 |
+| case | 12 |
 | grammar | 8 |
 | inset | 6 |
 | merge | 4 |
@@ -3287,6 +3287,7 @@
 - PS → Ps
 - french → French
 - geneva → Geneva
+- holy → Holy
 - in → In
 - scripture → Scripture
 - seeing → Seeing

@@ -7,7 +7,7 @@
 | kind | count |
 | --- | --- |
 | punctuation | 144 |
-| case | 132 |
+| case | 105 |
 | spelling | 103 |
 | emendation | 87 |
 | spacing | 68 |
@@ -26,7 +26,7 @@
 - [chapter-02.typ] more → more.
 - [chapter-02.typ] 9. → 9:
 - [chapter-02.typ] holy → Holy
-- [chapter-02.typ] E → e.
+- [chapter-02.typ] e → e.
 - [chapter-02.typ] hs → his
 - [chapter-02.typ] thence → thence;
 
@@ -276,20 +276,15 @@
 ## case
 
 - church → Church (×22)
-- E → e (×16)
 - Spirit → spirit (×7)
 - holy → Holy (×7)
-- That → that (×6)
 - GOD → God (×5)
+- That → that (×5)
 - Gods → gods (×4)
 - I → i (×4)
-- For → for (×3)
-- In → in (×3)
 - Son → son (×3)
 - To → to (×3)
-- Either → either (×2)
 - Father → father (×2)
-- The → the (×2)
 - then → Then (×2)
 - thou → Thou (×2)
 - ver → Ver (×2)
@@ -299,25 +294,24 @@
 - As → as
 - Because → because
 - Communicate, → communicate,
+- For → for
 - Have → have
+- In → in
 - Mark → mark
 - Now → now
 - Of → of
 - Press → press
-- Rob → rob
 - Sake, → sake,
 - Such → such
 - THE → The
+- The → the
 - They → they
 - Those → those
 - Treatise, → treatise,
-- Unless → unless
 - Ver → ver
 - WE → We
-- When → when
 - Which → which
 - Who → who
-- With → with
 - Word. → word.
 - all → All
 - how → How
@@ -329,6 +323,7 @@
 - the → The
 - v → V
 - viz → Viz
+- what → What
 - why → Why
 
 ## spelling
