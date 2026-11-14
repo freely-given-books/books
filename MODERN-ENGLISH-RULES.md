@@ -47,6 +47,8 @@ same text anymore").
    the author's own: mortify, justification, sanctification, grace, saints, the flesh, lusts,
    indwelling sin, regeneration, means of grace. A doctrinal term is never traded for a vaguer
    one.
+   **Effectual / effectually stays** (the editor, 2026-11-14): it carries its theological sense
+   (effectual calling, effectual grace), so it is never modernized to "effective".
 4. **Gendered language stays** (the editor, 2026-11-14): the author's man, men, he, brethren are
    kept, even in a rebuilt sentence. "The man who stands still and takes blow after blow without
    resisting will be conquered in the end", not "Whoever stands still". "No man who truly sets
