@@ -123,9 +123,9 @@ what a draft must be checked for before it goes to the editor:
    Phil 3:15; "through the Spirit", 1 Pet 1:22; "mine iniquity", Ps 18:23; "brutish", Prov 30:2;
    "although he adds drunkenness to thirst", Deut 29:19). For each quotation ask: does the
    next sentence lean on a word of it? If so, that word stays (rules §5).
-10. **An ambiguous sentence in the Classic is settled from the first printing**, not from a
+10. **An ambiguous sentence in the Classic is settled from the author’s own printing**, not from a
    reviewer's reading of the later editor's punctuation (6:7: Goold's commas make "not … always
-   stirring up" possible; the 1656 print's parentheses, "(though not under that formal
+   stirring up" possible; the 1668 edition's parentheses, "(though not under that formal
    Consideration,) alwayes stirring up", settle it).
 
 ## 7a. The meaning audit (every book, before the editor's read)
