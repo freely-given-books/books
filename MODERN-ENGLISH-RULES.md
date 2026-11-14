@@ -130,6 +130,14 @@ what a draft must be checked for before it goes to the editor:
    stirring up" possible; the 1668 edition's parentheses, "(though not under that formal
    Consideration,) alwayes stirring up", settle it).
 
+## 7b. Wordings the editor settled
+
+Reviewers and correction passes do not reopen these; a finding against one is noted, not taken:
+- Owen's "unframes" → "unsettles" (our spirit, the soul); never "out of tune".
+- "double blows upon him" → "takes blow after blow"; never "rain blows".
+- "effectual / effectually" stays, Mortification 14:20 included (not "efficiently").
+- Gendered language: "the man", "no man", "men".
+
 ## 7a. The meaning audit (every book, before the editor's read)
 
 Scripts in `work/modern-english/` (Mortification's run: `audit-2026-11-14/`):
