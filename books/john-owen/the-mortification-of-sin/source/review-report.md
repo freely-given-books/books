@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 518 |
+| spacing | 519 |
 | emendation | 309 |
-| punctuation | 66 |
+| punctuation | 69 |
 | spelling | 30 |
 | heading | 18 |
 | grammar | 1 |
@@ -352,6 +352,9 @@
 - [chapter-03.typ] . → 12
 - [chapter-05.typ] . → :
 - [chapter-06.typ note] . → 13
+- [chapter-06.typ] , → , (
+- [chapter-06.typ] , → 
+- [chapter-06.typ] , → ,)
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] — → 
