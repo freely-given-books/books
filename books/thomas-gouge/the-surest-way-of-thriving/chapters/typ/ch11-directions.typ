@@ -16,7 +16,7 @@ Friend, thou sayst thou art the #emph[Lord's,] and hast devoted thyself to him; 
 
 #emph[Obi.] But some will say, must I give all I have to the poor, and so leave myself, and my farily to be beggars? Or, what else is your meaning, when you say, I must give all to the Lord?
 
-My meaning is, #emph[that you so give all to the Lord, as to resolve to dispose of your whole estate to such persons and purposes, as God orders and appoints you.] The Lord would have you live, and maintain your self, and provide for you family soberly, according to your rank and degree (some extraordinary cases being excepted.) but still you must allow no more to your self, nor no less to those in need, then is according to the will, and good-pleasure of the Lord.
+My meaning is, #emph[that you so give all to the Lord, as to resolve to dispose of your whole estate to such persons and purposes, as God orders and appoints you.] The Lord would have you live, and maintain your self, and provide for your family soberly, according to your rank and degree (some extraordinary cases being excepted.) but still you must allow no more to your self, nor no less to those in need, then is according to the will, and good-pleasure of the Lord.
 
 Some other will here put in and say: but I am free and bountiful, and give great alas; I cast my bread upon the waters; I give a portion to six, and also to seven: I devise liberal things, I delight to show mercy.
 

@@ -81,7 +81,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -109,7 +109,8 @@
          <change>
             <date>2003-12</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
-      </revisionDesc>
+      <change xml:id="tcp-corrections" who="#editor">Words the TCP transcription misread or left out, corrected by sense with the 1676 printing (Kraken and Tesseract readings of its page images).</change>
+</revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
       <front>
@@ -185,7 +186,7 @@ the hearts of his suffering <choice><orig>Servants</orig><reg resp="#auto" type=
 <choice><orig>He</orig><reg resp="#auto" type="spelling">he</reg></choice> closes up <choice><orig>His</orig><reg resp="#auto" type="spelling">his</reg></choice> <choice><orig>Sermon</orig><reg resp="#auto" type="spelling">sermon</reg></choice> with the words of the text,
 wherein <choice><orig>He</orig><reg resp="#auto" type="spelling">he</reg></choice> declareth not only that high account which he had of
 <choice><orig>His</orig><reg resp="#auto" type="spelling">his</reg></choice> <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice>, and <choice><orig>People</orig><reg resp="#auto" type="spelling">people</reg></choice> themselves, but also of them who
-should yield any relief, of upon <choice><orig>His</orig><reg resp="#auto" type="spelling">his</reg></choice> account <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> kindness to them,
+should yield any relief, <seg type="transcription" change="#tcp-corrections">or<!-- the transcription has 'of'; swap0 (collation, 2026-11-14): 1676 reads 'relief, or upon His' --></seg> upon <choice><orig>His</orig><reg resp="#auto" type="spelling">his</reg></choice> account <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> kindness to them,
 assuring them; <hi><choice><orig>That</orig><reg resp="#auto" type="spelling">that</reg></choice> he who receiveth a <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> in the name of a <choice><orig>Pro<g ref="char:EOLhyphen"/>phet</orig><reg resp="#auto" type="spelling">prophet</reg></choice>,
 should receive a <choice><orig>Prophets</orig><reg resp="#auto" type="spelling">prophets</reg></choice> reward.</hi> And <hi>he that receiveth a righte<g ref="char:EOLhyphen"/>ous
 man in the name of a righteous man, should receive a righteous
@@ -305,7 +306,7 @@ Gospel are but mean persons, and little in esteem, what great re<g ref="char:EOL
 can be expected for entertaining them?</p>
             <p>
                <hi>A.</hi> As little as they be, be they as inconsiderable and contemptible
-as the proud world make them, yet are they not so little in the eyes of
+as the proud world make them, yet are they not so little in the eyes of <seg type="transcription" change="#tcp-corrections">the<!-- not in the transcription; drop1 (collation, 2026-11-14): 1676 reads 'eyes of the Lord, but' --></seg>
 Lord, but that he will reward all such as are friendly to them.</p>
             <p>2. <hi><choice><orig>Obj</orig><reg resp="#auto" type="spelling">Obi</reg></choice>.</hi> I <choice><orig>my self</orig><reg resp="#editor" type="emendation">myself</reg></choice> am but poor, and can <choice><orig>doe</orig><reg resp="#auto" type="spelling">do</reg></choice> but little for them.</p>
             <p>
@@ -319,7 +320,7 @@ be rewarded by him, who more respecteth the willingness of the
                <pb n="5" facs="tcp:55174:4"/>
 The greatest difficulty in the words is who are here meant by
 <hi>little ones,</hi> for whose sake the reward is promised.</p>
-            <p>By <hi>little ones,</hi> our <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice> meaneth no other than such in the
+            <p>By <hi>little ones,</hi> our <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice> meaneth no other than such <seg type="transcription" change="#tcp-corrections">whom<!-- not in the transcription; drop2 (collation, 2026-11-14): 1676 reads 'than such whom in the foregoing' --></seg> in the
 foregoing verse, he had <choice><orig>stiled</orig><reg resp="#auto" type="spelling">styled</reg></choice> <hi><choice><orig>Prophets</orig><reg resp="#auto" type="spelling">prophets</reg></choice></hi> and <hi>righteous ones.</hi>
             </p>
             <p>They are called <hi>Little ones</hi> in two respects.</p>
@@ -393,7 +394,7 @@ Christians as are more obscure, and less considerable in the <choice><orig>World
 Possibly when those of greater worth and remark may <choice><orig>tast</orig><reg resp="#editor" type="spelling">taste</reg></choice> deeply of
 their bounty, every one almost hath a kindness for them: in the
 mean time there may be some poor hidden ones, whose worth is
-less, but their wants are greater, who being low in those gifs or
+less, but their wants are greater, who being low in those <seg type="transcription" change="#tcp-corrections">gifts<!-- the transcription has 'gifs'; typo9 (collation, 2026-11-14): 1676 reads 'those gifts or graces' --></seg> or
 graces which would commend them to the more <choice><orig>publick</orig><reg resp="#editor" type="spelling">public</reg></choice> notice, are
 almost buried in forgetfulness. Its true that by how much the more
 eminent the person is that is relieved (<hi>caeteris paribus</hi>) by so much
@@ -437,9 +438,9 @@ pebble.</p>
 world are desolate, and forsaken: though they be left alone (as
 <hi>Elijah was</hi> 1 <choice><orig>King</orig><reg resp="#editor" type="reference">Kgs</reg></choice> 19<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice>) <choice><orig>And</orig><reg resp="#auto" type="spelling">and</reg></choice> <hi>as a <choice><orig>Pelican</orig><reg resp="#auto" type="spelling">pelican</reg></choice> in the wilderness:</hi> <choice><orig>Or</orig><reg resp="#auto" type="spelling">or</reg></choice> <hi>an
 <choice><orig>Owl</orig><reg resp="#auto" type="spelling">owl</reg></choice> of the <choice><orig>Desert</orig><reg resp="#auto" type="spelling">desert</reg></choice>,</hi> <choice><orig>Or</orig><reg resp="#auto" type="spelling">or</reg></choice> <hi>as a sparrow alone upon the house top,</hi> as the
-<choice><orig>Psalmist</orig><reg resp="#auto" type="spelling">psalmist</reg></choice> expresseh, <hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 102<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6, 7. <choice><orig>yet</orig><reg resp="#auto" type="spelling">Yet</reg></choice> is the Lord with them, and
+<choice><orig>Psalmist</orig><reg resp="#auto" type="spelling">psalmist</reg></choice> <seg type="transcription" change="#tcp-corrections">expresseth<!-- the transcription has 'expresseh'; typo3 (collation, 2026-11-14): 1676 reads 'Psalmist expresseth' --></seg>, <hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 102<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6, 7. <choice><orig>yet</orig><reg resp="#auto" type="spelling">Yet</reg></choice> is the Lord with them, and
 takes care of them. Now if the Lord be with us, and taketh care of
-us, <choice><orig>What</orig><reg resp="#auto" type="spelling">what</reg></choice> need me fear?] <choice><orig>How</orig><reg resp="#auto" type="spelling">how</reg></choice> should this encourage us to extend
+us, <choice><orig>What</orig><reg resp="#auto" type="spelling">what</reg></choice> need <seg type="transcription" change="#tcp-corrections">we<!-- the transcription has 'me'; swap4 (collation, 2026-11-14): 1676 reads 'What need we fear' --></seg> fear?] <choice><orig>How</orig><reg resp="#auto" type="spelling">how</reg></choice> should this encourage us to extend
 our charity to any one of the <choice><orig>Saints</orig><reg resp="#auto" type="spelling">saints</reg></choice>, and members of Christ, though
 mean and little in the world, and not able to <choice><orig>recompence</orig><reg resp="#auto" type="spelling">recompense</reg></choice> us: and
 though none take notice thereof, to consider that the Lord taketh
@@ -585,7 +586,7 @@ true that the <choice><orig>SOUL</orig><reg resp="#auto" type="spelling">soul</r
 by his liberality: no more <hi>thriving Christians,</hi> then the <hi>merciful
 Christians,</hi> what they expend in temporals is abundantly returned
 in spirituals. But because there is so much of <hi>carnal,</hi> even in too
-many Christians, and have need of encouragements suited to our
+many Christians, and <seg type="transcription" change="#tcp-corrections">we<!-- not in the transcription; drop5 (collation, 2026-11-14): 1676 reads 'Christians, and we have need' --></seg> have need of encouragements suited to our
 tempers, therefore to our spiritual advantages, which are the great<g ref="char:EOLhyphen"/>est
 these outward encouragements are added as often most taking
 with our too carnal hearts. So that this is the sense of the place. The
@@ -615,7 +616,7 @@ lent unto him.</p>
             <p>It is true, the Lord loves to deal <hi>upon trust,</hi> and uses to make pay<g ref="char:EOLhyphen"/>ment
 by way of <hi><choice><orig>Returns</orig><reg resp="#auto" type="spelling">returns</reg></choice>.</hi> He will be trusted, and those that will
 not give him <choice><orig>Credit</orig><reg resp="#auto" type="spelling">credit</reg></choice>, let them if they can, put their estates into surer
-hands. And he uses to pay by the way of <hi>Returus,</hi> it may be neither
+hands. And he uses to pay by the way of <hi><seg type="transcription" change="#tcp-corrections"><choice><orig>Returns</orig><reg resp="#auto" type="spelling">returns</reg></choice><!-- the transcription has 'Returus'; typo6 (collation, 2026-11-14): 1676 reads 'the way of Returns' --></seg>,</hi> it may be neither
 in the same kind, nor in the same <choice><orig>Country</orig><reg resp="#auto" type="spelling">country</reg></choice>. Sometimes tis so that
 he pays not in the same kind, bread for bread, or clothes for clothes,
 or money or money, <choice><orig>Nor</orig><reg resp="#auto" type="spelling">nor</reg></choice> possibly may he make his payment in
@@ -669,7 +670,7 @@ sincere heart, it shall not be lost, but certainly be returned into thy
             <p>Yet further saith the Lord by the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> <hi>Isa<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 58<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7, 8<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. If thou
 deal thy bread to the hungry, and bring the poor that are cast out, to
 thy house, and when thou seest the naked, if thou cover him, and that
-thou hide not <choice><orig>thy self</orig><reg resp="#editor" type="emendation">thyself</reg></choice> from thine own flesh,</hi> by tnrning thy <choice><orig>sace</orig><reg resp="#auto" type="spelling">sac</reg></choice> from
+thou hide not <choice><orig>thy self</orig><reg resp="#editor" type="emendation">thyself</reg></choice> from thine own flesh,</hi> by <seg type="transcription" change="#tcp-corrections">turning thy face<!-- the transcription has 'tnrning thy sace'; typo7 (collation, 2026-11-14): 1676 reads 'by turning thy face' --></seg> from
 him; <hi><choice><orig>Then</orig><reg resp="#auto" type="spelling">then</reg></choice></hi> (see what a gracious promise of signal blessings follow
 hereupon) <hi>shall thy light break forth as the <choice><orig>Morning</orig><reg resp="#auto" type="spelling">morning</reg></choice>,</hi> that is, then
 shall the night of thine adversity be dispelled, and the day spring of
@@ -698,7 +699,7 @@ own experience, and with thankfulness to God have acknowledged
 as much.</p>
             <p>And what variety of expressions doth our <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice> use in <hi ana="#print-only" change="#review">Luke</hi> 6<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig>
 </orig><reg resp="#editor" type="reference"/></choice>38. <choice><orig>to</orig><reg resp="#auto" type="spelling">To</reg></choice> assure us of a large reward here of all our <choice><orig>labour</orig><reg resp="#editor" type="spelling">labor</reg></choice> of love <choice><orig>shew<g ref="char:EOLhyphen"/>ed</orig><reg resp="#auto" type="spelling">showed</reg></choice>
-to his <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice>, and members? <hi>Give,</hi> saith he, <hi>and it shall be gi<g ref="char:EOLhyphen"/>en
+to his <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice>, and members? <hi>Give,</hi> saith he, <hi>and it shall be <choice><orig>gi<g ref="char:EOLhyphen"/>en</orig><reg resp="#editor" type="spelling">given</reg></choice>
 to you again, good measure, pressed down, and shaken together, and
 running over.</hi> For your encouragement unto this duty of giving
 to the poor, <choice><orig>Our</orig><reg resp="#auto" type="spelling">our</reg></choice> <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice> first annexeth a general promise of return,
@@ -738,7 +739,7 @@ doctrine. And to use the expression of the forementioned <hi><choice><orig>Docto
 Testament, I conceive this <choice><orig>Doctrine</orig><reg resp="#auto" type="spelling">doctrine</reg></choice> as clear as any in the Scripture;</hi>
                <q>
                   <hi><choice><orig>That</orig><reg resp="#auto" type="spelling">that</reg></choice> the promise of temporal plenty to the liberal is so distinct and
-infallible, that is can be no less than.</hi>
+infallible, that <seg type="transcription" change="#tcp-corrections">it<!-- the transcription has 'is'; swap10 (collation, 2026-11-14): 1676 reads 'that it can be' --></seg> can be no less than.</hi>
                </q>
             </p>
             <list>
@@ -801,7 +802,7 @@ Christian of the truth of it. Consider them at your leisure, <hi ana="#print-onl
 <choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> though more <hi>generally</hi> delivered of any kind of parting with
 possessions for <hi>Christ sake,</hi> are <choice><orig>applyed</orig><reg resp="#editor" type="spelling">applied</reg></choice> by St. <hi>Hierom:</hi> to the
 words of <hi>Solomon.</hi> <choice><orig>Pro.</orig><reg resp="#editor" type="reference">Prov</reg></choice> 11<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>24. <hi>There is that Scattereth, and yet
-increaseth, quia contuplum accipiunt in hoc tempore,</hi> because, saith
+increaseth, quia <seg type="transcription" change="#tcp-corrections">centuplum<!-- the transcription has 'contuplum'; typo11 (collation, 2026-11-14): 1676 reads 'quia centuplum accipiunt' --></seg> accipiunt in hoc tempore,</hi> because, saith
 he they receive an hundred fold in this world.</q>
             </p>
             <p>
@@ -1081,7 +1082,7 @@ who begged an alms of him: <choice><orig>wherupon</orig><reg resp="#editor" type
 he had about him, who answered <hi>Three crowns,</hi> which he com<g ref="char:EOLhyphen"/>manded
 him to give unto them: but the servant thinking himself
 wiser than his <choice><orig>Master</orig><reg resp="#auto" type="spelling">master</reg></choice>, gave them but two crowns, not knowing
-what occasions they might have for money before that got home.
+what occasions they might have for money before <seg type="transcription" change="#tcp-corrections">they<!-- the transcription has 'that'; swap12 (collation, 2026-11-14): 1676 reads 'before they got home' --></seg> got home.
 Not long after <choice><orig>Some</orig><reg resp="#auto" type="spelling">some</reg></choice> <choice><orig>Noblemen</orig><reg resp="#auto" type="spelling">noblemen</reg></choice> meeting the <choice><orig>Bishop</orig><reg resp="#auto" type="spelling">bishop</reg></choice>, and knowing
 him to be a very charitable man, appointed <hi>two hundred <choice><orig>Crowns</orig><reg resp="#auto" type="spelling">crowns</reg></choice></hi>
 to be paid to the <choice><orig>Bishops</orig><reg resp="#auto" type="spelling">bishops</reg></choice> <choice><orig>Servant</orig><reg resp="#auto" type="spelling">servant</reg></choice> for his <choice><orig>Masters</orig><reg resp="#auto" type="spelling">masters</reg></choice> use. The <choice><orig>Ser<g ref="char:EOLhyphen"/>vant</orig><reg resp="#auto" type="spelling">servant</reg></choice>
@@ -1252,7 +1253,7 @@ with considerable <choice><orig>summs</orig><reg resp="#editor" type="spelling">
 weekly</hi> to the poor of several <hi>Out-Parishes.</hi> All this he did <choice><orig>whilest</orig><reg resp="#editor" type="grammar">whilst</reg></choice>
 yet living; besides what he gave upon the like account at his death,
 which was also very considerable, as further appears by his <choice><orig>Will</orig><reg resp="#auto" type="spelling">will</reg></choice>.
-Nothwithstanding all which, he gave and left to his <choice><orig>Wife</orig><reg resp="#auto" type="spelling">wife</reg></choice> and his
+<seg type="transcription" change="#tcp-corrections">Notwithstanding<!-- the transcription has 'Nothwithstanding'; typo14 (collation, 2026-11-14): 1676 reads 'Notwithstanding all which' --></seg> all which, he gave and left to his <choice><orig>Wife</orig><reg resp="#auto" type="spelling">wife</reg></choice> and his
 two <choice><orig>Daughters</orig><reg resp="#auto" type="spelling">daughters</reg></choice> about ten thousand pounds. This questionless is
 the surest way to have our WILLS performed, to see them per<g ref="char:EOLhyphen"/>formed
 in our life-time; in regard that many <hi><choice><orig>Executors</orig><reg resp="#auto" type="spelling">executors</reg></choice></hi> prove <hi>Exe<g ref="char:EOLhyphen"/>cutioners</hi>
@@ -1402,11 +1403,11 @@ he <choice><orig>call'd</orig><reg resp="#editor" type="spelling">called</reg></
 and many other <choice><orig>Towns</orig><reg resp="#auto" type="spelling">towns</reg></choice> together with them, were large sharers in
 the like bounty.</p>
             <p>Several poor children of the said <choice><orig>Town</orig><reg resp="#auto" type="spelling">town</reg></choice>, and likewise of those be<g ref="char:EOLhyphen"/>longing
-to <hi>Farriugdon</hi> he set to <choice><orig>School</orig><reg resp="#auto" type="spelling">school</reg></choice>, and did not only pay for their
+to <hi><seg type="transcription" change="#tcp-corrections">Faringdon<!-- the transcription has 'Farriugdon'; typo15 (collation, 2026-11-14): 1676 reads 'belonging to Faringdon' --></seg></hi> he set to <choice><orig>School</orig><reg resp="#auto" type="spelling">school</reg></choice>, and did not only pay for their
 teaching, but also furnished them with all such books as were fit
 and convenient for them. He also caused several good books to be
 printed at his own charge, which he freely gave to the poor, that
-they might the better be encouraged to mad, and to acquaint them<g ref="char:EOLhyphen"/>selves
+they might the better be encouraged to <seg type="transcription" change="#tcp-corrections">read<!-- the transcription has 'mad'; typo13 (collation, 2026-11-14): 1676 reads 'encouraged to read' --></seg>, and to acquaint them<g ref="char:EOLhyphen"/>selves
 with the concerns of another and better life.</p>
             <p>
                <pb n="31" facs="tcp:55174:17"/>
@@ -1424,7 +1425,7 @@ he freely and bountifully contributed to their relief.</p>
 and adventure upon the royal <hi><choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice></hi>'s words, <hi>to cast his bread upon
 the waters;</hi> which though the unbelieving world accounts but folly,
 and usually reckon it amongst their losses; yet he to his advantage,
-according to the promise thereto annexrd, <hi>found it again not after
+according to the promise thereto <seg type="transcription" change="#tcp-corrections">annexed<!-- the transcription has 'annexrd'; typo16 (collation, 2026-11-14): 1676 reads 'thereto annexed' --></seg>, <hi>found it again not after
 many <choice><orig>daies</orig><reg resp="#auto" type="spelling">days</reg></choice>:</hi> <choice><orig>This</orig><reg resp="#auto" type="spelling">this</reg></choice> bread, like the loaves with which Christ fed the
 multitude, was <choice><orig>multiplyed</orig><reg resp="#editor" type="spelling">multiplied</reg></choice> in his hands, and his <choice><orig>oyle</orig><reg resp="#auto" type="spelling">oil</reg></choice> <choice><orig>encreased</orig><reg resp="#auto" type="spelling">increased</reg></choice> by
 pouring out. He was but a younger <choice><orig>Brother</orig><reg resp="#auto" type="spelling">brother</reg></choice>, and the <choice><orig>Estate</orig><reg resp="#auto" type="spelling">estate</reg></choice> settled
@@ -1443,7 +1444,7 @@ more than 2000 <hi>l.</hi>
             </p>
             <p>And here I hope I may, without <choice><orig>offence</orig><reg resp="#editor" type="spelling">offense</reg></choice>, or vain glory, take liberty
 to mention, amongst others, the <hi><choice><orig>Charity</orig><reg resp="#auto" type="spelling">charity</reg></choice></hi> and <hi>Liberality</hi> of my dear
-and hononred Father Dr. <hi>William Gouge,</hi> late <hi>Pastor</hi> of <hi>Black fryers,
+and <seg type="transcription" change="#tcp-corrections"><choice><orig>honoured</orig><reg resp="#editor" type="spelling">honored</reg></choice><!-- the transcription has 'hononred'; typo17 (collation, 2026-11-14): 1676 reads 'and honoured Father' --></seg> Father Dr. <hi>William Gouge,</hi> late <hi>Pastor</hi> of <hi>Black fryers,
 London,</hi> who was eminent as in other graces, so in that of <choice><orig>Charity</orig><reg resp="#auto" type="spelling">charity</reg></choice>;
 <choice><orig>From</orig><reg resp="#auto" type="spelling">from</reg></choice> him I first heard, <hi><choice><orig>The</orig><reg resp="#auto" type="spelling">the</reg></choice> tenth part of a rich mans estate to be a fit
 proportion to be devoted and dedicated to God for charitable uses.</hi> But
@@ -1464,7 +1465,7 @@ the blessed fruit of that seed which they had so plentifully sown in
 this: <choice><orig>Others</orig><reg resp="#auto" type="spelling">others</reg></choice> of persons yet living amongst us, some of which have
 acknowledged to me, <hi><choice><orig>That</orig><reg resp="#auto" type="spelling">that</reg></choice> God hath already rewarded them an hun<g ref="char:EOLhyphen"/>dred-fold
 for what they have lent to him, by giving it to his poor.</hi> But
-these already mentioned, may be abundantly <choice><orig>sufficent</orig><reg resp="#editor" type="spelling">sufficient</reg></choice> to evidence
+these already mentioned, may be abundantly <seg type="transcription" change="#tcp-corrections">sufficient<!-- the transcription has 'sufficent'; typo19 (collation, 2026-11-14): 1676 reads 'abundantly sufficient to evidence' --></seg> to evidence
 the truth in hand, and to encourage and provoke us in imitation of
 those <choice><orig>Worthies</orig><reg resp="#auto" type="spelling">worthies</reg></choice>, to a more ready and conscientious practice of this
 great duty, so essential to Christianity, so well pleasing to God, so
@@ -1477,7 +1478,7 @@ we now to the <choice><orig>Reasons</orig><reg resp="#auto" type="spelling">reas
 is such, that he will not suffer any work of <choice><orig>Charity</orig><reg resp="#auto" type="spelling">charity</reg></choice>, <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> to any of
 his <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice>, or <choice><orig>Children</orig><reg resp="#auto" type="spelling">children</reg></choice>, to pass away unrewarded, without a full
 <choice><orig>recompence</orig><reg resp="#auto" type="spelling">recompense</reg></choice>. Whereupon saith <hi>David,</hi> <choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice> 62<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12. <hi><choice><orig>Vnto</orig><reg resp="#auto" type="spelling">Unto</reg></choice> thee, O
-Lord, belongeth mercy, for thou rendrest to every man according his
+Lord, belongeth mercy, for thou rendrest to every man according <seg type="transcription" change="#tcp-corrections">to<!-- not in the transcription; drop18 (collation, 2026-11-14): 1676 reads 'rendrest to every man according to his' --></seg> his
 work.</hi> Though God doth not render a reward to any man <hi>for his
 work done,</hi> yet doth he render to every man <hi>according to his work.</hi> Yea
 God doth <choice><orig>alwaies</orig><reg resp="#auto" type="spelling">always</reg></choice> exceed in his remunerations, to give evidence of
@@ -1572,7 +1573,7 @@ to want necessaries, even food and <choice><orig>rayment</orig><reg resp="#auto"
 to Christ to suffer him to starve? It is evident thou <choice><orig>lovest</orig><reg resp="#auto" type="spelling">louest</reg></choice> thy mo<g ref="char:EOLhyphen"/>ney
 more than Christ, and so commest under that fearful <hi>Anathe<g ref="char:EOLhyphen"/>ma,</hi>
 1 <hi ana="#print-only" change="#review">Cor<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 16<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22. If any love not the Lord Jesus Christ, let him
-be <hi>Anathema Maranatha:</hi> <choice><orig>These</orig><reg resp="#auto" type="spelling">these</reg></choice> two words though both deno<g ref="char:EOLhyphen"/>ing
+be <hi>Anathema Maranatha:</hi> <choice><orig>These</orig><reg resp="#auto" type="spelling">these</reg></choice> two words though both <choice><orig>deno<g ref="char:EOLhyphen"/>ing</orig><reg resp="#editor" type="spelling">denoting</reg></choice>
 <pb n="27" facs="tcp:55174:19"/>
 a curse, are of two several languages. The former word <hi>Ana<g ref="char:EOLhyphen"/>thema,</hi>
 is a <hi>Greek</hi> word signifying <hi>accursed;</hi> <choice><orig>So</orig><reg resp="#auto" type="spelling">so</reg></choice> it is used <hi ana="#print-only" change="#review">Rom<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 9<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3.
@@ -1633,7 +1634,7 @@ but fire, and brimstone. What! <choice><orig>must</orig><reg resp="#auto" type="
 the fountain of bliss and happiness? <choice><orig>and</orig><reg resp="#auto" type="spelling">And</reg></choice> into <hi>everlasting fire?</hi> Ah
 wretches! <choice><orig>cursed</orig><reg resp="#auto" type="spelling">Cursed</reg></choice> indeed. For as the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> speaketh <hi ana="#print-only" change="#review">Isa<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 33<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>14.
 <hi>Who can dwell with devouring fires? <choice><orig>who</orig><reg resp="#auto" type="spelling">Who</reg></choice> can dwell with everlasting
-burnings?</hi> An everlasting <choice><orig>feaver</orig><reg resp="#editor" type="spelling">fever</reg></choice>, or an but an everlasting <choice><orig>tooth-ach</orig><reg resp="#editor" type="emendation">toothache</reg></choice>,
+burnings?</hi> An everlasting <choice><orig>feaver</orig><reg resp="#editor" type="spelling">fever</reg></choice>, or <seg type="transcription" change="#tcp-corrections"><!-- the transcription has 'an'; double21 (collation, 2026-11-14): 1676 reads 'or but an' --></seg> but an everlasting <choice><orig>tooth-ach</orig><reg resp="#editor" type="emendation">toothache</reg></choice>,
 were a misery unspeakable. But what are these to the <hi>lying in that
 lake which burneth with fire and brimstone to all eternity?</hi> Oh me<g ref="char:EOLhyphen"/>thinks,
 the name of <hi>everlasting fire,</hi> and <hi>everlasting burnings</hi> should
@@ -1665,7 +1666,7 @@ against thee, saying, <hi>Lord, there are not a few who have enough and
 to spare, a liberal portion of this <choice><orig>worlds</orig><reg resp="#editor" type="spelling">world's</reg></choice> goods, with Dives they fare
 sumptuously every day: but what are we thy wanting servants the
 better for them? <choice><orig>who</orig><reg resp="#auto" type="spelling">Who</reg></choice> of us are warmed with their fires, or clothed with
-their <choice><orig>rayment</orig><reg resp="#auto" type="spelling">raiment</reg></choice>, or so much as partake of the <choice><orig>crums</orig><reg resp="#editor" type="spelling">crumbs</reg></choice> or their table? <choice><orig>we</orig><reg resp="#auto" type="spelling">We</reg></choice>
+their <choice><orig>rayment</orig><reg resp="#auto" type="spelling">raiment</reg></choice>, or so much as partake of the <choice><orig>crums</orig><reg resp="#editor" type="spelling">crumbs</reg></choice> <seg type="transcription" change="#tcp-corrections">of<!-- the transcription has 'or'; swap22 (collation, 2026-11-14): 1676 reads 'partake of the crums of their' --></seg> their table? <choice><orig>we</orig><reg resp="#auto" type="spelling">We</reg></choice>
 are ready to perish for want, when they are surfeited with their abun<g ref="char:EOLhyphen"/>dance.
 Is the blessing of them that are ready to perish like to come up<g ref="char:EOLhyphen"/>on
 them? <choice><orig>wilt</orig><reg resp="#auto" type="spelling">Wilt</reg></choice> not thou judge them O Lord?</hi> Certainly, these bitter
@@ -1703,7 +1704,7 @@ to the Lord, whilst that accursed thing thy covetous, and
 cruel heart, which the Lord <choice><orig>abhoreth</orig><reg resp="#editor" type="grammar">abhorreth</reg></choice>, (<hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 10<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice>) <choice><orig>remaines</orig><reg resp="#auto" type="spelling">remains</reg></choice> with<g ref="char:EOLhyphen"/>in
 thee. Think not that one duty will excuse the neglect of another,
 that thy praying may serve instead of thine alms, that religion shall
-excuse thee mercy, or thy confession of thine unmercifulness will
+excuse <seg type="transcription" change="#tcp-corrections">thy<!-- the transcription has 'thee'; swap23 (collation, 2026-11-14): 1676 reads 'excuse thy mercy' --></seg> mercy, or thy confession of thine unmercifulness will
 make up the matter. The Lord abhorreth thee and all thy <choice><orig>Sa<g ref="char:EOLhyphen"/>crifices</orig><reg resp="#auto" type="spelling">sacrifices</reg></choice>,
 whilst the <choice><orig>Sacrifice</orig><reg resp="#auto" type="spelling">sacrifice</reg></choice> of a compassionate heart is want<g ref="char:EOLhyphen"/>ing.</p>
             <p rend="level2" change="#review">Oh that all uncharitable persons would steep their thoughts in a
@@ -1810,7 +1811,7 @@ another. The coats &amp; garments which <hi>Dorcas</hi> made for poor wid<g ref=
 to <choice><orig>your selves</orig><reg resp="#editor" type="emendation">yourselves</reg></choice> friends of the <choice><orig>Mammon</orig><reg resp="#auto" type="spelling">mammon</reg></choice> of unrighteousness, <hi>that
 when ye fail, they may receive you into everlasting habitations. When
 ye fail,</hi> that is, when ye depart out of this world, <hi>they may receive
-you into everlasting habitations.</hi> This particle <hi><choice><orig>THEY</orig><reg resp="#auto" type="spelling">they</reg></choice>,</hi> some refer
+you into everlasting habitations.</hi> This particle <hi><choice><orig>THEY</orig><reg resp="#auto" type="spelling">they</reg></choice>,</hi> some refer <seg type="transcription" change="#tcp-corrections">to them who<!-- not in the transcription; drop24 (collation, 2026-11-14): 1676 reads 'some refer to them who being relieved' --></seg>
 <pb n="33" facs="tcp:55174:22"/>
 being relieved call upon God to recompense their benefactors,)
 but most refer it to the <hi>Riches</hi> which they bestow upon the poor,
@@ -1953,7 +1954,7 @@ when you say, I must give all to the Lord?</p>
             <p>My meaning is, <hi>that you so give all to the Lord, as to resolve to
 dispose of your whole estate to such persons and purposes, as God orders
 and appoints you.</hi> The Lord would have you live, and maintain
-your self, and provide for you family soberly, according to your
+your self, and provide for <seg type="transcription" change="#tcp-corrections">your<!-- the transcription has 'you'; swap25 (collation, 2026-11-14): 1676 reads 'provide for your family' --></seg> family soberly, according to your
 rank and degree (some extraordinary cases being excepted.) <choice><orig>But</orig><reg resp="#auto" type="spelling">but</reg></choice>
 still you must allow no more to your self, nor no less to those
 in need, then is according to the will, and good-pleasure of the
@@ -2699,9 +2700,9 @@ by whose <choice><orig>Ministry</orig><reg resp="#auto" type="spelling">ministry
 between God and man. Surely what kindness you <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice>
 to these, he takes as done unto himself, <hi ana="#print-only" change="#review"><choice><orig>Matth.</orig><reg resp="#editor" type="reference">Matt</reg></choice></hi> 25<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>40.</p>
             <p rend="level1" change="#review">Reas. V. <hi>Your relieving the faithful <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice> of Christ, may in
-a sense be said tò have something more in it, than if you should <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice>
+a sense be said <seg type="transcription" change="#tcp-corrections">to<!-- the transcription has 'tò'; typo27 (collation, 2026-11-14): 1676 reads 'be said to have' --></seg> have something more in it, than if you should <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice>
 your <choice><orig>Charity</orig><reg resp="#auto" type="spelling">charity</reg></choice> to himself, in his own person, as being a sign of greater
-love.</hi> It is but an ordinary thing to return kindness to our dearests
+love.</hi> It is but an ordinary thing to return kindness to our <seg type="transcription" change="#tcp-corrections">dearest<!-- the transcription has 'dearests'; swap26 (collation, 2026-11-14): 1676 reads 'our dearest friends' --></seg>
 friends; but to extend our good will to their relations, or ser<g ref="char:EOLhyphen"/>vants
 for their sakes, is an evidence of much greater love. For
 if upon their account only we do good unto these; how much
@@ -2816,7 +2817,7 @@ unto you:</hi> <choice><orig>He</orig><reg resp="#auto" type="spelling">he</reg>
 all the rest which they had were secured, sanctified and made
 clean. So that charitable men are they, who may with the more
 freedom, quietness and comfort use what they have. Who that
-hath any desire to be accepted and appoved of God, would not
+hath any desire to be accepted and <seg type="transcription" change="#tcp-corrections">approved<!-- the transcription has 'appoved'; typo28 (collation, 2026-11-14): 1676 reads 'accepted and approved of' --></seg> of God, would not
 have his person, and the actions which he doth, and things which
 he possesseth to be clean? Whatsoever is unclean is odious and abo<g ref="char:EOLhyphen"/>minable
 in God's sight: unclean persons might not approach to

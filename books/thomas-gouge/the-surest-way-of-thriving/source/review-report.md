@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 306 |
+| spelling | 308 |
 | punctuation | 220 |
 | spacing | 146 |
 | emendation | 135 |
@@ -483,6 +483,7 @@
 - crums → crumbs
 - debter → debtor
 - debtour → debtor
+- denoing → denoting
 - descease → decease
 - disbursments → disbursements
 - disparagment → disparagement
@@ -495,9 +496,11 @@
 - faln → fallen
 - famin → famine
 - favour → favor
+- gien → given
 - hardned → hardened
 - hearkning → hearkening
 - honourable → honorable
+- honoured → honored
 - intail → entail
 - labourers → laborers
 - labours → labors
@@ -531,7 +534,6 @@
 - streights → straits
 - strip'd → stripped
 - succourer → succorer
-- sufficent → sufficient
 - summ → sum
 - tast → taste
 - terrour → terror
