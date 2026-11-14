@@ -18,7 +18,7 @@
         — Romans 8:13
       ]
       #v(2em)
-      #text(size: 9pt)[In this edition “you#super[+]” marks a plural “you” (the older “ye”); \ a plain “you” is singular or general. \\ Capitals for God in quotations (He, His) follow the Berean Standard Bible.]
+      #text(size: 9pt)[In this edition “you#super[+]” marks a plural “you” (the older “ye”); \ a plain “you” is singular or general. \ Capitals for God in quotations (He, His) follow the Berean Standard Bible.]
     ]
   ],
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 0.625in),   // Lulu: 61-150 pages
