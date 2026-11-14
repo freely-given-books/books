@@ -3,9 +3,9 @@
 | kind | count |
 | --- | --- |
 | spelling | 106 |
-| punctuation | 89 |
+| punctuation | 90 |
 | level | 36 |
-| case | 25 |
+| case | 27 |
 | emendation | 22 |
 | italic | 2 |
 | spacing | 1 |
@@ -41,6 +41,7 @@
 - [to-the-reader.typ] & → and
 - [to-the-reader.typ] & → and
 - [to-the-reader.typ] & → and
+- [to-the-reader.typ] . → ,
 - [sermon.typ] . → :
 - [sermon.typ] & → and
 - [sermon.typ] & → and
@@ -135,6 +136,8 @@
 - DOCT → Doct
 - SPIRIT → Spirit
 - Workmanship → workmanship
+- e → E
+- his → His
 
 ## spelling
 

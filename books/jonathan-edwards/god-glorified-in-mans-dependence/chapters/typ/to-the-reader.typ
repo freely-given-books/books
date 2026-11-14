@@ -18,6 +18,10 @@ To his blessing we commit them all, with this discourse, and every one that read
 
 #v(1em)
 
-#align(right)[Your servants in the gospel, T. Prince, W. Cooper.]
+#align(right)[Your servants in the gospel,]
 
-#emph[Boston, August 17. 1731.]
+#align(right)[T. Prince,]
+
+#align(right)[W. Cooper.]
+
+#emph[Boston, August 17, 1731.]

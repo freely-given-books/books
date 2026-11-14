@@ -45,3 +45,6 @@ EPUB = {"title": "God Glorified in Man's Dependence", "author": "Jonathan Edward
         "file": "god-glorified-in-mans-dependence.epub", "front": "ebook-front.html",
         "cover": "cover.typ", "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
 PRINT = ["god-glorified-in-mans-dependence.typ"]
+
+# the preface signed by both ministers: the valediction and each name a line
+SIGNATURE_NAME_LINE = True
