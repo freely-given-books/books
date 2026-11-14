@@ -1,0 +1,17 @@
+# Release record of God Glorified in Man's Dependence: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, jonathan-edwards/god-glorified-in-mans-dependence/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Edwards's first published sermon, preached on the public lecture in Boston, July 8, 1731, in modern spelling from the Evans-TCP transcription of its only printing in his lifetime, with the Boston ministers' preface."
+
+[[source]]
+file = "source/N02859.tcp.xml"
+description = "Evans-TCP N02859: God Glorified in the Work of Redemption, by the Greatness of Man's Dependance upon Him (Boston, S. Kneeland and T. Green, for D. Henchman, 1731; Evans 3415)"
+url = "https://github.com/textcreationpartnership/N02859"
+sha256 = "485dcb30c25b9e680a25e9368d4b8524ec1f58f5c87f3ac528846375509d8b09"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "CCEL's text in Edwards's Selected Sermons (the Worcester line, revised wording): a check on spelling and two unreadable marks in the TCP"
+url = "https://www.ccel.org/ccel/edwards/sermons.dependence.html"
