@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | punctuation | 475 |
-| spelling | 418 |
+| spelling | 419 |
 | emendation | 371 |
 | italic | 239 |
 | level | 192 |
@@ -1051,6 +1051,7 @@
 - labours → labors
 - layd → laid
 - layen → lain
+- lives → lines
 - lyed → lied
 - mannage → manage
 - murthers → murders
