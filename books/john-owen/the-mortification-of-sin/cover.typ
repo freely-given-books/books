@@ -13,7 +13,9 @@
 #let ink = rgb("#F1ECE2")
 #let gold = rgb("#D6A55A")
 
-#plate-cover(
+// cover-modern.typ sets the same cover for the Modern English edition, labelled
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: rgb("#3A1E1E"),
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
@@ -58,3 +60,5 @@
   epigraph-source: [From Chapter II],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

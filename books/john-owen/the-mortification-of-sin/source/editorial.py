@@ -59,8 +59,12 @@ EDITION_HEADINGS = True
 EPUB = {"title": "The Mortification of Sin", "author": "John Owen",
         "file": "the-mortification-of-sin.epub", "front": "ebook-front.html",
         "cover": "cover.typ", "toc_depth": 4,
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-mortification-of-sin.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        # the Modern English edition (MODERN-ENGLISH-RULES.md)
+        "modern": {"chapters": "chapters/modern", "file": "the-mortification-of-sin-modern.epub",
+                   "title": "The Mortification of Sin (Modern English)",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-mortification-of-sin.typ", "the-mortification-of-sin-modern.typ"]
 
 
 # The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a
