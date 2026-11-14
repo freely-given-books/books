@@ -21,7 +21,9 @@ same text anymore").
    *First,*), so the two can be read side by side.
 3. Greek, Hebrew and Latin the author quotes stay, with his own rendering of them where he gives
    one (Owen: Εἰ θανατοῦτε, "if you⁺ put to death").
-4. The print's italics stay (as in the reading edition).
+4. The print's italics stay (as in the reading edition), where they are emphasis. Where a 17th-
+   century print sets a quotation in italics instead of quotation marks (Owen's 1658 and 1675
+   prints), the Modern English sets it in roman inside quotation marks, as modern books do.
 
 ## 2. Sentences (the "level 3" of the pilots)
 
