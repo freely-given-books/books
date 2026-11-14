@@ -8,8 +8,9 @@
 | emendation | 146 |
 | level | 100 |
 | italic | 87 |
+| case | 13 |
 | grammar | 13 |
-| case | 12 |
+| note | 1 |
 | skipped | 1 |
 
 ## skipped
@@ -410,6 +411,7 @@
 - Lords → lords
 - THE → The
 - Use → use
+- holy → Holy
 
 ## spelling
 
