@@ -17,7 +17,7 @@ Strength and comfort, power and peace, in our walk with God, are the things we d
 
 3\. In our ordinary walk with God, and in the ordinary course of his dealing with us, the vigor and comfort of our spiritual lives depend greatly on our mortification. It is not only a “causa sine qua non” [a cause without which the thing does not come about], but something that has an effectual influence on them. For:
 
-==== As a Means, by Removing What Opposes It
+==== As a Means, by Removing the Contrary
 
 First, this alone keeps sin from robbing us of both the one and the other. Every unmortified sin will certainly do two things:
 
