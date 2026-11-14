@@ -49,6 +49,16 @@ same text anymore").
    one.
    **Effectual / effectually stays** (the editor, 2026-11-14): it carries its theological sense
    (effectual calling, effectual grace), so it is never modernized to "effective".
+   The same holds for the author's other technical terms, which a Reformed reader knows or can
+   learn: **efficacy** (of Christ's death, the covenant, prayer, means; "force" only for sin's
+   own drive), **efficient cause**, **principle** (a source of action: "a principle of grace"),
+   **frame** (of heart or spirit), **habit**. Where a term needs help, keep it and explain it
+   ("by virtue of the work done"; "a real working on the very nature of sin" for "physical
+   efficiency"), never trade it for a vaguer word.
+5. **Old words read in their old sense**: countenance (favor, not excuse), virtually (in virtue
+   and power, not "in principle" or "almost"), admire (wonder at), studying (scheming),
+   comfortable (strengthening), to the purpose (effectually), sometimes (at times, not "for a
+   time").
 4. **Gendered language stays** (the editor, 2026-11-14): the author's man, men, he, brethren are
    kept, even in a rebuilt sentence. "The man who stands still and takes blow after blow without
    resisting will be conquered in the end", not "Whoever stands still". "No man who truly sets
@@ -74,7 +84,9 @@ same text anymore").
    - Rom 6:6, Eph 4:22, Col 3:9: "old man" for the BSB's "old self", where the author builds on
      the picture of a person.
 3. The author's **paraphrases** of Scripture stay his, in modern words; only what he quotes as
-   Scripture becomes BSB.
+   Scripture becomes BSB. **Quote only what he quotes**: a partial quotation is not filled out to
+   the whole verse (Owen's "the LORD will have mercy, and our God will abundantly pardon",
+   Isa 55:7, without the verse's condition), and a paraphrase is not turned into a quotation.
 4. References as in the reading edition (John 3:16, 1 Thess 2:5).
 
 ## 6. Making it
@@ -105,6 +117,34 @@ what a draft must be checked for before it goes to the editor:
    mused'"); use indirect speech.
 8. **Capitals for God in BSB quotations** (He, His) differ from the author's prose: the front matter
    says so.
+9. **The BSB loses the author's word more often than anything else.** The meaning audit found
+   some twenty places where the argument rests on one word of the verse and the BSB lacks it
+   ("all our works in us", Isa 26:12; "cannot do", Gal 5:17; "slightly", Jer 6:14; "perfect",
+   Phil 3:15; "through the Spirit", 1 Pet 1:22; "mine iniquity", Ps 18:23; "brutish", Prov 30:2;
+   "although he adds drunkenness to thirst", Deut 29:19). For each quotation ask: does the
+   next sentence lean on a word of it? If so, that word stays (rules §5).
+10. **An ambiguous sentence in the Classic is settled from the first printing**, not from a
+   reviewer's reading of the later editor's punctuation (6:7: Goold's commas make "not … always
+   stirring up" possible; the 1656 print's parentheses, "(though not under that formal
+   Consideration,) alwayes stirring up", settle it).
+
+## 7a. The meaning audit (every book, before the editor's read)
+
+Scripts in `work/modern-english/` (Mortification's run: `audit-2026-11-14/`):
+
+1. `audit-pairs.py`: paragraph pairs, Classic and Modern.
+2. **Fresh readers**, three or four, each a group of chapters (about 20,000 words), given only the
+   pairs and `reader-brief.md`: sentence by sentence, meaning only, findings to a TSV.
+3. `audit-terms.py` / `audit-show.py`: every technical term the Modern drops, read in place.
+4. `audit-negation.py` / `audit-negshow.py`: paragraphs whose negations or limiting words (only,
+   alone, all, always, never) differ, each sentence read against its match.
+5. `audit-scripture.py`: every quotation with its reference against the BSB; each difference must
+   be a deliberate adjustment (§5) or the author's paraphrase.
+6. Each finding settled (accept, adjust, or reject with the reason), the corrections in one
+   script (`<book>-audit-edits.py`), the rules updated with anything new.
+
+Mortification: 49 reader findings, 48 corrections (2026-11-14); no reversal survived, the
+remaining losses were technical terms and Scripture words.
 
 ## 8. The two editions
 
