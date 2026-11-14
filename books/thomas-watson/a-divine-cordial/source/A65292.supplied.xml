@@ -30,5 +30,9 @@
          evidence="p. 154 (scan 162), margin: 'quod multæ gentes'"/>
     <fix pb="16" tcp="sted" print="cted"
          evidence="p. 16 (scan 24; Kraken 'dejected'): 'comfort a deje-cted soul', the ct ligature"/>
+    <fix pb="91" tcp="Eight" print="Light" after="things, as Chaffe"
+         evidence="p. 91 (scan 99; Kraken and Tesseract 'Light'): 'Light things, as Chaffe and Feathers'"/>
+    <fix pb="175" tcp="a" print="ab" after="aeterno"
+         evidence="p. 175 (scan 183), margin: 'est decretum Dei, ab æterno sanctum'"/>
   </corrections>
 </supplement>
