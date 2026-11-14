@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 306 |
-| punctuation | 218 |
+| punctuation | 220 |
 | spacing | 146 |
 | emendation | 135 |
 | level | 93 |
@@ -14,145 +14,145 @@
 
 ## skipped
 
-- [01-the-text-opened.typ] new ¶ before 'Verse' → not a paragraph (e.g. a list heading); kept as is
+- [ch01-the-text-opened.typ] new ¶ before 'Verse' → not a paragraph (e.g. a list heading); kept as is
 
 ## emendation
 
-- [01-the-text-opened.typ] Math . → Matt
-- [01-the-text-opened.typ] Joh . → John
-- [01-the-text-opened.typ] 4 → 3
-- [01-the-text-opened.typ] my self → myself
-- [01-the-text-opened.typ] Joh . → John
-- [01-the-text-opened.typ] Psal . → Ps
-- [01-the-text-opened.typ] Math . → Matt
-- [01-the-text-opened.typ] Math . → Matt
-- [02-the-least-of-his-saints.typ] Luk . → Luke
-- [02-the-least-of-his-saints.typ] Psal . → Ps
-- [02-the-least-of-his-saints.typ] Psal . → Ps
-- [02-the-least-of-his-saints.typ] King → Kgs
-- [02-the-least-of-his-saints.typ] Psal . → Ps
-- [02-the-least-of-his-saints.typ] Esther . → Esth
-- [03-the-main-point.typ] Luk . → Luke
-- [03-the-main-point.typ] your selves → yourselves
-- [04-proofs-from-scripture.typ] Pro . → Prov
-- [04-proofs-from-scripture.typ] our selves → ourselves
-- [04-proofs-from-scripture.typ] wiseman → wise man
-- [04-proofs-from-scripture.typ] Pro . → Prov
-- [04-proofs-from-scripture.typ] Psal . → Ps
-- [04-proofs-from-scripture.typ] thy self → thyself
-- [04-proofs-from-scripture.typ] wiseman → wise man
-- [04-proofs-from-scripture.typ] Pro . → Prov
-- [04-proofs-from-scripture.typ] Pro . → Proverbs
-- [04-proofs-from-scripture.typ] thy self → thyself
-- [04-proofs-from-scripture.typ] Math . → Matt
-- [05-testimonies.typ] thy self → thyself
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] Psal . → Ps
-- [05-testimonies.typ] Psal . → Ps
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] . & → ;
-- [05-testimonies.typ] . & → ;
-- [05-testimonies.typ] . & → ;
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] Psal . → Ps
-- [05-testimonies.typ] Math . → Matt
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] Pro . → Prov
-- [05-testimonies.typ] any thing → anything
-- [05-testimonies.typ] my self → myself
-- [06-examples.typ] King → Kgs
-- [06-examples.typ] King . → Kgs
-- [06-examples.typ] King . → Kgs
-- [06-examples.typ] King . → Kgs
-- [06-examples.typ] Act . → Acts
-- [06-examples.typ] Pro . → Prov
-- [07-examples-of-our-time.typ] school - master → schoolmaster
-- [07-examples-of-our-time.typ] Matth . → Matt
-- [07-examples-of-our-time.typ] any thing → anything
-- [08-the-reasons.typ] Psal . → Ps
-- [08-the-reasons.typ] dis - bursed → disbursed
-- [08-the-reasons.typ] any thing → anything
-- [08-the-reasons.typ] Pro . → Prov
-- [09-reproof.typ] Jam . → Jas
-- [09-reproof.typ] Math . → Matt
-- [09-reproof.typ] tooth - ach → toothache
-- [09-reproof.typ] Psal . → Ps
-- [09-reproof.typ] Pro . → Prov
-- [09-reproof.typ] Luk . → Luke
-- [09-reproof.typ] Psal . → Ps
-- [10-exhortation.typ] Pro . → Prov
-- [10-exhortation.typ] Math . → Matt
-- [10-exhortation.typ] your selves → yourselves
-- [10-exhortation.typ] your selves → yourselves
-- [10-exhortation.typ] your selves → yourselves
-- [10-exhortation.typ] any thing → anything
-- [10-exhortation.typ] your selves → yourselves
-- [10-exhortation.typ] Jam . → Jas
-- [10-exhortation.typ] our selves → ourselves
-- [10-exhortation.typ] Pro . → Prov
-- [10-exhortation.typ] Honour thy self → Honor thyself
-- [10-exhortation.typ] thy self → thyself
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] ver → v
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] my self → myself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] joyned thy self → joined thyself
-- [11-directions.typ] my self → myself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] cup - board → cupboard
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] any thing → anything
-- [11-directions.typ] your - selvs → yourselves
-- [11-directions.typ] Chro . → Chronicles
-- [12-means.typ] thy self → thyself
-- [12-means.typ] Luk . → Luke
-- [12-means.typ] Luk . → Luke
-- [12-means.typ] your selves → yourselves
-- [12-means.typ] my self → myself
-- [12-means.typ] any thing → anything
-- [12-means.typ] Thes . → Thess
-- [12-means.typ] ' → 
-- [12-means.typ] thy self → thyself
-- [12-means.typ] thy self → thyself
-- [12-means.typ] Psal . → Ps
-- [12-means.typ] any thing → anything
-- [12-means.typ] Matth . → Matthew
-- [13-ministers.typ] 17 → 1
-- [13-ministers.typ] King . → Kgs
-- [13-ministers.typ] King . → Kgs
-- [13-ministers.typ] King . → Kgs
-- [13-ministers.typ] Tim . → Timothy
-- [13-ministers.typ] King . → Kgs
-- [13-ministers.typ] to day → today
-- [13-ministers.typ] your selves → yourselves
-- [13-ministers.typ] Psalm → Ps
-- [13-ministers.typ] Matth . → Matt
-- [14-application.typ] Matth . → Matt
-- [14-application.typ] Numb . → Num
-- [14-application.typ] Levit . → Lev
-- [14-application.typ] Deut . → Deuteronomy
-- [14-application.typ] thy self → thyself
-- [14-application.typ] thy self → thyself
-- [14-application.typ] Matth . → Matt
-- [14-application.typ] thy self → thyself
-- [14-application.typ] any thing → anything
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch01-the-text-opened.typ] Joh . → John
+- [ch01-the-text-opened.typ] 4 → 3
+- [ch01-the-text-opened.typ] my self → myself
+- [ch01-the-text-opened.typ] Joh . → John
+- [ch01-the-text-opened.typ] Psal . → Ps
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch02-the-least-of-his-saints.typ] Luk . → Luke
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] King → Kgs
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] Esther . → Esth
+- [ch03-the-main-point.typ] Luk . → Luke
+- [ch03-the-main-point.typ] your selves → yourselves
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] our selves → ourselves
+- [ch04-proofs-from-scripture.typ] wiseman → wise man
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] Psal . → Ps
+- [ch04-proofs-from-scripture.typ] thy self → thyself
+- [ch04-proofs-from-scripture.typ] wiseman → wise man
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] Pro . → Proverbs
+- [ch04-proofs-from-scripture.typ] thy self → thyself
+- [ch04-proofs-from-scripture.typ] Math . → Matt
+- [ch05-testimonies.typ] thy self ▪ → thyself:
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Math . → Matt
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] any thing → anything
+- [ch05-testimonies.typ] my self → myself
+- [ch06-examples.typ] King → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] Act . → Acts
+- [ch06-examples.typ] Pro . → Prov
+- [ch07-examples-of-our-time.typ] school - master → schoolmaster
+- [ch07-examples-of-our-time.typ] Matth . → Matt
+- [ch07-examples-of-our-time.typ] any thing → anything
+- [ch08-the-reasons.typ] Psal . → Ps
+- [ch08-the-reasons.typ] dis - bursed → disbursed
+- [ch08-the-reasons.typ] any thing → anything
+- [ch08-the-reasons.typ] Pro . → Prov
+- [ch09-reproof.typ] Jam . → Jas
+- [ch09-reproof.typ] Math . → Matt
+- [ch09-reproof.typ] tooth - ach → toothache
+- [ch09-reproof.typ] Psal . → Ps
+- [ch09-reproof.typ] Pro . → Prov
+- [ch09-reproof.typ] Luk . → Luke
+- [ch09-reproof.typ] Psal . → Ps
+- [ch10-exhortation.typ] Pro . → Prov
+- [ch10-exhortation.typ] Math . → Matt
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] any thing → anything
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] Jam . → Jas
+- [ch10-exhortation.typ] our selves → ourselves
+- [ch10-exhortation.typ] Pro . → Prov
+- [ch10-exhortation.typ] Honour thy self → Honor thyself
+- [ch10-exhortation.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] ver → v
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] my self → myself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] joyned thy self → joined thyself
+- [ch11-directions.typ] my self → myself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] cup - board → cupboard
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] any thing → anything
+- [ch11-directions.typ] your - selvs → yourselves
+- [ch11-directions.typ] Chro . → Chronicles
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] Luk . → Luke
+- [ch12-means.typ] Luk . → Luke
+- [ch12-means.typ] your selves → yourselves
+- [ch12-means.typ] my self → myself
+- [ch12-means.typ] any thing → anything
+- [ch12-means.typ] Thes . → Thess
+- [ch12-means.typ] ' → 
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] Psal . → Ps
+- [ch12-means.typ] any thing → anything
+- [ch12-means.typ] Matth . → Matthew
+- [ch13-ministers.typ] 17 → 1
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] Tim . → Timothy
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] to day → today
+- [ch13-ministers.typ] your selves → yourselves
+- [ch13-ministers.typ] Psalm → Ps
+- [ch13-ministers.typ] Matth . → Matt
+- [ch14-application.typ] Matth . → Matt
+- [ch14-application.typ] Numb . → Num
+- [ch14-application.typ] Levit . → Lev
+- [ch14-application.typ] Deut . → Deuteronomy
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] Matth . → Matt
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] any thing → anything
 
 ## grammar
 
@@ -166,224 +166,226 @@
 
 ## punctuation
 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] , → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → 
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → :
-- [01-the-text-opened.typ] . → :
-- [02-the-least-of-his-saints.typ] . → 
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → 
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → 
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → :
-- [02-the-least-of-his-saints.typ] . → 
-- [03-the-main-point.typ] . → 
-- [03-the-main-point.typ] . → :
-- [03-the-main-point.typ] . → :
-- [03-the-main-point.typ] . → 
-- [03-the-main-point.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → :
-- [04-proofs-from-scripture.typ] . → 
-- [04-proofs-from-scripture.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → 
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → 
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → 
-- [05-testimonies.typ] . → :
-- [05-testimonies.typ] . → 
-- [05-testimonies.typ] . → :
-- [06-examples.typ] . → :
-- [06-examples.typ] . → :
-- [06-examples.typ] . → :
-- [06-examples.typ] . → :
-- [06-examples.typ] . → 
-- [06-examples.typ] . → :
-- [06-examples.typ] . → :
-- [07-examples-of-our-time.typ] . → :
-- [08-the-reasons.typ] . → :
-- [08-the-reasons.typ] . → 
-- [08-the-reasons.typ] . → :
-- [08-the-reasons.typ] . → :
-- [08-the-reasons.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → :
-- [09-reproof.typ] . → 
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → 
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → 
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → 
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] . → :
-- [10-exhortation.typ] - → 
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → :
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → :
-- [12-means.typ] . → :
-- [12-means.typ] . → 
-- [12-means.typ] . → :
-- [12-means.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → :
-- [13-ministers.typ] . → 
-- [13-ministers.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → 
-- [14-application.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → 
-- [14-application.typ] . → 
-- [14-application.typ] . → :
-- [14-application.typ] . → :
-- [14-application.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] , → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch03-the-main-point.typ] . → 
+- [ch03-the-main-point.typ] . → :
+- [ch03-the-main-point.typ] . → :
+- [ch03-the-main-point.typ] . → 
+- [ch03-the-main-point.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] ▪ → .
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → 
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch07-examples-of-our-time.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → 
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] - → 
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] ▪ → .
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
 
 ## case
 
