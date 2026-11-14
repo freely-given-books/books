@@ -94,7 +94,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-09" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-13" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2005-03</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1237,7 +1237,7 @@ away, when yet there is an unsearchable reserve
 for a more suitable object, a more vigorous tem<g ref="char:EOLhyphen"/>ptation
 than at present it is tried withal. Hath a
 man had a contest with any lust, and a blessed vi<g ref="char:EOLhyphen"/>ctory
-over it by the holy Ghost, as to that present
+over it by the <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice> Ghost, as to that present
 trial; when he thinks it is utterly expelled, he ere
 long finds that it was but retired out of <seg type="transcription" change="#tcp-corrections">sight<!-- the transcription has 'fight'; p. 28 (scan 36): 'retired out of ſight. It can lie so close' (wording check 2026-11-09) --></seg>. It
 can lie so close in the minds darkness, in the wills
@@ -1250,7 +1250,7 @@ follow it into the secret corners of the <hi>heart,</hi> that
 we cannot do. It is true, there is yet a relief in
 this case, namely that he to whom the work of
 destroying the Law of sin, and body of death in
-us is principally committed, namely the holy
+us is principally committed, namely the <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice>
 Ghost, comes with his Ax to the very root, neither
 is there any thing in an unsearchable heart that is
 not open and naked unto him, <hi ana="#print-only" change="#review">Heb<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12. But we
@@ -1367,7 +1367,7 @@ hearts should entice and deceive them.</hi>
             </p>
             <p rend="level1" change="#review">Who can mention the treacheries and deceits
 that lie in the heart of man? It is not for nothing
-that the holy Ghost so expresseth it, <hi>It is deceitful
+that the <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice> Ghost so expresseth it, <hi>It is deceitful
 above all things;</hi> uncertain in what it doth, and
 false in what it promiseth. And hence moreover it
 is, amongst other causes, that in the pursuit of our
@@ -2656,7 +2656,7 @@ unto that which is good. The former instances
 <choice><orig>shewed</orig><reg resp="#auto" type="spelling">showed</reg></choice> its constant readiness to this work, this
 now treats of the work <choice><orig>it self</orig><reg resp="#editor" type="emendation">itself</reg></choice>. It is not only <hi>ready,</hi>
 but for the most part always engaged. It <hi>lusteth</hi>
-<choice><orig>faith</orig><reg resp="#editor" type="spelling">saith</reg></choice> the holy Ghost, it doth so continually. It
+<choice><orig>faith</orig><reg resp="#editor" type="spelling">saith</reg></choice> the <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice> Ghost, it doth so continually. It
 <hi><choice><orig>stirreth</orig><reg resp="#auto" type="spelling">stireth</reg></choice></hi> in the soul by one act or other constantly,
 almost as the spirits in the blood, or the blood in
 the veins. This the Apostle calls its tempting,
@@ -3497,7 +3497,7 @@ heart of the sons of men is full of evil, and madness
 is in their heart.</hi> The evil that the heart of man is
 full of by nature, is that <hi>Indwelling-sin</hi> whereof we
 speak. And this is so in their heart, that it riseth
-up unto <hi>madness.</hi> The holy Ghost expresseth this
+up unto <hi>madness.</hi> The <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice> Ghost expresseth this
 rage of sin by a fit similitude which he useth in
 sundry places, as <hi ana="#print-only" change="#review">Jer<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 2<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>24. <hi ana="#print-only" change="#review">Hos<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 8<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9. It maketh
 <hi>men as a wild Ass;</hi> she traverseth her ways, and
@@ -7793,7 +7793,7 @@ them of being a <hi>provocation by sin</hi> unto the eyes of
 his glory, saying in their hearts, <hi>Do not that abo<g ref="char:EOLhyphen"/>minable
 thing which my soul hateth.</hi> Minds them
 of their <hi>wounding</hi> the Lord Christ, and putting
-him to shame; of their <hi>grieving</hi> the holy Spirit,
+him to shame; of their <hi>grieving</hi> the <choice><orig>holy</orig><reg resp="#editor" type="case">Holy</reg></choice> Spirit,
 whereby they are sealed to the day of redemption;
 of their <hi>defiling</hi> his dwelling place. Minds them
 of the reproach, <choice><orig>dishonours</orig><reg resp="#editor" type="spelling">dishonors</reg></choice>, scandal which they

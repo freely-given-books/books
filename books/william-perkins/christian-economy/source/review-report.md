@@ -12,7 +12,7 @@
 | spelling | 296 |
 | emendation | 186 |
 | italic | 128 |
-| case | 34 |
+| case | 38 |
 | gap | 9 |
 | expansion | 9 |
 | split | 8 |
@@ -890,6 +890,7 @@
 
 ## case
 
+- holy → Holy (×4)
 - case → Case (×2)
 - family → Family (×2)
 - house → House (×2)
