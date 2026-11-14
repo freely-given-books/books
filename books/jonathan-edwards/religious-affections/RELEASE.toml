@@ -5,6 +5,12 @@
 # One or two sentences for the release catalog: the edition, its source.
 summary = "Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied."
 
+# Edwards's longest notes (Shepard, more than 2.2in) may break; the print file keeps the rest whole
+accepted_print = [
+  "religious-affections.pdf: a footnote is broken over to page 365: “of a heaven voyage to fetch this treasure, to pass”",
+  "religious-affections.pdf: a footnote is broken over to page 389: “received the anointing to know him that is true, a”",
+]
+
 [[source]]
 file = "source/N04635.tcp.xml"
 description = "Evans-TCP N04635: A Treatise Concerning Religious Affections, in Three Parts (Boston, S. Kneeland and T. Green, 1746; Evans 5767)"
