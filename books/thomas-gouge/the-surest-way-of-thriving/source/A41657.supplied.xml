@@ -70,5 +70,11 @@
          evidence="typo27 (collation, 2026-11-14): 1676 reads 'be said to have'"/>
     <fix pb="56" before="" tcp="appoved" print="approved" after=" o"
          evidence="typo28 (collation, 2026-11-14): 1676 reads 'accepted and approved of'"/>
+    <fix pb="15" before="" tcp="fame" print="same" after=" F"
+         evidence="q1 (collation, 2026-11-14): 1676 reads 'The same Father in his 25'"/>
+    <fix pb="36" before="" tcp="alas" print="alms;" after=";"
+         evidence="q2 (collation, 2026-11-14): 1676 reads 'give great alms;'"/>
+    <fix pb="12" before="" tcp="or" print="for" after=" money,"
+         evidence="q3 (collation, 2026-11-14): 1676 reads 'or money for money,'"/>
   </corrections>
 </supplement>

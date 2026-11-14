@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 308 |
+| spelling | 336 |
 | punctuation | 220 |
-| spacing | 146 |
-| emendation | 135 |
+| spacing | 147 |
+| emendation | 144 |
 | level | 93 |
 | italic | 87 |
 | grammar | 9 |
@@ -20,11 +20,13 @@
 
 - [ch01-the-text-opened.typ] Math . → Matt
 - [ch01-the-text-opened.typ] Joh . → John
+- [ch01-the-text-opened.typ] a succouring → succoring
 - [ch01-the-text-opened.typ] 4 → 3
 - [ch01-the-text-opened.typ] my self → myself
 - [ch01-the-text-opened.typ] Joh . → John
 - [ch01-the-text-opened.typ] Psal . → Ps
 - [ch01-the-text-opened.typ] Math . → Matt
+- [ch01-the-text-opened.typ] the → 
 - [ch01-the-text-opened.typ] Math . → Matt
 - [ch02-the-least-of-his-saints.typ] Luk . → Luke
 - [ch02-the-least-of-his-saints.typ] Psal . → Ps
@@ -61,12 +63,17 @@
 - [ch05-testimonies.typ] Pro . → Prov
 - [ch05-testimonies.typ] any thing → anything
 - [ch05-testimonies.typ] my self → myself
+- [ch05-testimonies.typ] willbe → will be
 - [ch06-examples.typ] King → Kgs
 - [ch06-examples.typ] King . → Kgs
 - [ch06-examples.typ] King . → Kgs
 - [ch06-examples.typ] King . → Kgs
 - [ch06-examples.typ] Act . → Acts
+- [ch06-examples.typ] his → 
+- [ch06-examples.typ] A ban → Alban
+- [ch06-examples.typ] to me → tome
 - [ch06-examples.typ] Pro . → Prov
+- [ch06-examples.typ] aplague → a plague
 - [ch07-examples-of-our-time.typ] school - master → schoolmaster
 - [ch07-examples-of-our-time.typ] Matth . → Matt
 - [ch07-examples-of-our-time.typ] any thing → anything
@@ -125,6 +132,7 @@
 - [ch12-means.typ] Luk . → Luke
 - [ch12-means.typ] Luk . → Luke
 - [ch12-means.typ] your selves → yourselves
+- [ch12-means.typ] I → Ay,
 - [ch12-means.typ] my self → myself
 - [ch12-means.typ] any thing → anything
 - [ch12-means.typ] Thes . → Thess
@@ -144,6 +152,7 @@
 - [ch13-ministers.typ] your selves → yourselves
 - [ch13-ministers.typ] Psalm → Ps
 - [ch13-ministers.typ] Matth . → Matt
+- [ch13-ministers.typ] exercisethe → exercise the
 - [ch14-application.typ] Matth . → Matt
 - [ch14-application.typ] Numb . → Num
 - [ch14-application.typ] Levit . → Lev
@@ -397,6 +406,7 @@
 - Gods → God's (×24)
 - Saviour → Savior (×17)
 - worlds → world's (×15)
+- then → than (×13)
 - Lords → Lord's (×12)
 - honour → honor (×11)
 - succour → succor (×9)
@@ -404,7 +414,9 @@
 - labour → labor (×7)
 - implyed → implied (×6)
 - widdows → widows (×6)
+- loose → lose (×5)
 - summs → sums (×5)
+- Its → It's (×4)
 - cryed → cried (×4)
 - mens → men's (×4)
 - pitty → pity (×4)
@@ -427,6 +439,7 @@
 - forreign → foreign (×2)
 - harbouring → harboring (×2)
 - improvment → improvement (×2)
+- latter → later (×2)
 - lyar → liar (×2)
 - meer → mere (×2)
 - neighbours → neighbors (×2)
@@ -435,7 +448,6 @@
 - publick → public (×2)
 - sowen → sown (×2)
 - succoured → succored (×2)
-- succouring → succoring (×2)
 - ther → there (×2)
 - 19 → 19:
 - 5 → 5:
@@ -502,9 +514,11 @@
 - honourable → honorable
 - honoured → honored
 - intail → entail
+- its → it's
 - labourers → laborers
 - labours → labors
 - lightned → lightened
+- looser → loser
 - loyns → loins
 - lyed → lied
 - meerly → merely
@@ -513,7 +527,9 @@
 - multiplyed → multiplied
 - neccessity → necessity
 - neighbour → neighbor
+- of → off-
 - offence → offense
+- past → passed
 - perswasive → persuasive
 - pin'd → pined
 - pinch'd → pinched
@@ -534,12 +550,13 @@
 - streights → straits
 - strip'd → stripped
 - succourer → succorer
+- succouring → succoring
 - summ → sum
 - tast → taste
 - terrour → terror
 - thankeful → thankful
 - ther's → there's
-- thorow → thorough
+- thorow → through
 - tis → 'tis
 - troden → trodden
 - truely → truly
@@ -549,6 +566,7 @@
 - unreconcileable → unreconcilable
 - watry → watery
 - welpleasing → well-pleasing
+- wer → were
 - wherupon → whereupon
 - worlding → worldling
 
