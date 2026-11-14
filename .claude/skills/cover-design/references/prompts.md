@@ -153,6 +153,28 @@ Colours clear but gentle, the white of the paper still showing through;
 no new lines, no texture, no border, no text.
 ```
 
+**God Glorified in Man's Dependence** (Edwards: "that River of water of life,
+that proceeds from the throne of God and the Lamb", Rev 22:1), 2026-11-15. A
+moon first ("as the moon and planets are bright by the Sun's light") came back
+with its light inverted (dark side hatched, lit crescent a bare outline); in one
+ink, light is blank paper, so a picture that is all light fails. The river:
+
+```
+A single clear river winding toward the viewer through a quiet open valley,
+its source out of sight beyond a distant rise where the sky is brightest, the
+light coming from behind that rise. Low grassy banks, two or three small trees
+on the banks, the water drawn with fine horizontal engraved lines and calm
+reflections. No buildings, no bridges, no people, no boats.
+```
+It came back with no light at the source; an edit, the far hills and sky selected:
+```
+Behind the farthest hills, where the river comes from, add a soft radiance of
+light rising from beyond the horizon, drawn only with fine engraved lines
+radiating outward, the paper left white at its centre, as if the river's
+source were in that light. Change nothing else.
+```
+The rays came faint; `art/tint.py` darkens them under a feathered mask.
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut
