@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected to the 1668
+  print as the source is read (colophon/sources.py); the TCP file itself is
+  untouched.  Each was read on the 1668 page image (scan frame = printed
+  page + 6, as in work/mortification-1668/ocr-1668) before it was put here:
+  found by ./fgb collate against the Kraken and Tesseract readings of the scan
+  (work/mortification-1668/collate-1668), the spelling pass's odd words
+  (work/mortification-1668/spelling/candidates.json) and the gap reading
+  (work/mortification-1668/gaps).
+
+  fix/@pb: the printed page.  before + tcp + after: the transcription's text
+  there (in one text node; any white space matches any white space), found
+  exactly once on that page.  print: what is printed in place of tcp (empty
+  tcp: words the transcription left out); white space at its ends stays
+  outside the seg.  evidence: kept in a comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected to the 1668
+    print (archive.org bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668).</desc>
+    <fix pb="15" before="sin will" tcp="" print=" be" after="alwayes Acting"
+         evidence="p. 15 (scan 21): 'If then ſin will be alwayes Acting'; both OCRs 'be'"/>
+    <fix pb="16" before="got " tcp="sooting" print="footing" after=" in the heart"
+         evidence="p. 16 (scan 22): 'having once got footing in the heart'; Goold 'footing'"/>
+    <fix pb="18" before="Duty " tcp="cast" print="casts" after=" the Soul"
+         evidence="p. 18 (scan 24): 'Negligence in this Duty caſts the Soul'; both OCRs 'casts'"/>
+    <fix pb="40" before="" tcp="c" print="r" after=""
+         evidence="p. 40 (scan 46): 'that one unmortified Luſt' (italic); the TCP's 'un••c•tified' is un+mo (gap)+r+tified, the second gap no letter"/>
+    <fix pb="54" before="doth, is " tcp="whithout" print="without" after=" the"
+         evidence="p. 54 (scan 60): 'is without the body', 1 Cor 6:18"/>
+    <fix pb="58" before="he could" tcp="" print=" not" after="look up"
+         evidence="p. 58 (scan 64): 'that he could not look up, Pſal. 40. 12.'; both OCRs 'not'"/>
+    <fix pb="58" before="therefore " tcp="man" print="men" after=" have"
+         evidence="p. 58 (scan 64): 'When therefore men have ſleight and tranſient thoughts'; both OCRs 'men'"/>
+    <fix pb="60" before="so " tcp="thay" print="that" after=" they"
+         evidence="p. 60 (scan 66): 'ſo that they are not able to hinder'"/>
+    <fix pb="63" before="" tcp="Sencca" print="Seneca" after=","
+         evidence="p. 63 (scan 69): 'Philoſophers, Seneca, Tully, Epictetus'"/>
+    <fix pb="102" before="in " tcp="thc" print="the" after=" Glass"
+         evidence="p. 102 (scan 108): 'Guilt in the Glaſs of the Law'"/>
+    <fix pb="111" before="no " tcp="groater" print="greater" after=" Motive"
+         evidence="p. 111 (scan 117): 'there is no greater Motive'"/>
+    <fix pb="113" before="" tcp="." print="!" after=" Amongst"
+         evidence="p. 113 (scan 119): 'for the moſt part ! Amongſt'; the TCP keyed the point and left the stroke a gap (filled empty)"/>
+    <fix pb="134" before="" tcp="Te" print="The" after=" Apostle"
+         evidence="p. 134 (scan 140): the line's start lies under a mended tear; the TCP's '••Te' can only be 'The' (Goold 'The apostle tells us'), its gap filled empty; read as far as the damage allows (medium)"/>
+    <fix pb="72" before="" tcp="thempunc;" print="them," after=""
+         evidence="p. 72 (scan 78): 'It deludes them, hardens them'; the TCP keyed a stray 'punc;'"/>
+  </corrections>
+</supplement>
