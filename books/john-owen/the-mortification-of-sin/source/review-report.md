@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 475 |
-| spelling | 419 |
-| emendation | 371 |
+| punctuation | 474 |
+| spelling | 426 |
+| emendation | 367 |
 | italic | 239 |
 | level | 192 |
 | spacing | 117 |
@@ -105,13 +105,12 @@
 - [chapter-02.typ] . The → the
 - [chapter-02.typ] Tit . → Titus
 - [chapter-02.typ] . To → to
-- [chapter-03.typ] Chap . → Chapter
 - [chapter-03.typ] 2 → 3
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] . Think → think
 - [chapter-03.typ] 8 → 7
+- [chapter-03.typ] a → 
 - [chapter-03.typ] it self → itself
-- [chapter-03.typ] Chap . → Chapter
 - [chapter-03.typ] Joh . → John
 - [chapter-03.typ] Act . → Acts
 - [chapter-03.typ] . And → and
@@ -255,7 +254,6 @@
 - [chapter-11.typ] my self → myself
 - [chapter-11.typ] thy self → thyself
 - [chapter-11.typ] the → 
-- [chapter-11.typ] Chap . → Chapter
 - [chapter-11.typ] . That → that
 - [chapter-11.typ] thy self → thyself
 - [chapter-11.typ] thy self → thyself
@@ -263,7 +261,6 @@
 - [chapter-12.typ note] 1 . 11 . → 
 - [chapter-12.typ note] Cant , → Song
 - [chapter-12.typ] thy self → thyself
-- [chapter-12.typ] Chap . → Chapter
 - [chapter-12.typ] . Yet → yet
 - [chapter-12.typ] Joh . → John
 - [chapter-12.typ] vers → v
@@ -308,7 +305,6 @@
 - [chapter-13.typ] . When → when
 - [chapter-13.typ] my self → myself
 - [chapter-13.typ] . And → and
-- [chapter-13.typ] Chap . → Chapter
 - [chapter-13.typ] . From → from
 - [chapter-13.typ] . Unto → unto
 - [chapter-13.typ] Psal . → Psalm
@@ -585,7 +581,6 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → 
-- [chapter-04.typ] . → ter
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
@@ -909,6 +904,7 @@
 - cryes → cries (×7)
 - labour → labor (×7)
 - through → thorough (×7)
+- Chap → ch (×6)
 - sence → sense (×6)
 - meerly → merely (×5)
 - Endeavour → Endeavor (×4)
@@ -1036,6 +1032,7 @@
 - harboured → harbored
 - hardned → hardened
 - heightnings → heightenings
+- him → him.
 - honoured → honored
 - humour → humor
 - hurryed → hurried
