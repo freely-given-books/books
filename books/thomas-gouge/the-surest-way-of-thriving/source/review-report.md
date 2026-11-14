@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 306 |
-| punctuation | 217 |
+| punctuation | 218 |
 | spacing | 146 |
 | emendation | 133 |
 | italic | 87 |
@@ -376,6 +376,7 @@
 - [14-application.typ] . → 
 - [14-application.typ] . → :
 - [14-application.typ] . → :
+- [14-application.typ] . → 
 - [14-application.typ] . → 
 - [14-application.typ] . → :
 - [14-application.typ] . → :
