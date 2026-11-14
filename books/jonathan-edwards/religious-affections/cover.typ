@@ -12,12 +12,15 @@
 // `pages` here is only for compiling the cover by itself.
 #let ink = rgb("#ECEDF0")
 #let gold = rgb("#D6A55A")
+#let ground = rgb("#1B2238")
 
+// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
+// transparency into image tiles: scripts/plate_cover.typ)
 #plate-cover(
-  ground: rgb("#1B2238"),
+  ground: ground,
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
-      fill: ink.transparentize(35%), body)
+      fill: color.mix((ink, 65%), (ground, 35%)), body)
     let gilt(body) = text(font: DISPLAY, weight: "bold", size: 22pt,
       tracking: 0.14em, fill: gold, body)
     place(dx: 0.5in, dy: 3.35in, box(width: 4.5in, {
@@ -31,7 +34,7 @@
       v(0.1in)
       gilt[and full of glory.]
       v(0.2in)
-      caps([1 Peter i. 8], 9pt, gold.transparentize(20%), tracking: 0.25em)
+      caps([1 Peter i. 8], 9pt, color.mix((gold, 80%), (ground, 20%)), tracking: 0.25em)
     }))
   }),
   title-y: 0.85in,
