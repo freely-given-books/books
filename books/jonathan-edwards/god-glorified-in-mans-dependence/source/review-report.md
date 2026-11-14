@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 105 |
+| spelling | 106 |
 | punctuation | 89 |
 | level | 36 |
-| case | 24 |
+| case | 25 |
 | emendation | 22 |
 | italic | 2 |
 | spacing | 1 |
@@ -134,6 +134,7 @@
 - CHRIST → Christ
 - DOCT → Doct
 - SPIRIT → Spirit
+- Workmanship → workmanship
 
 ## spelling
 
@@ -145,6 +146,7 @@
 - Saviour → Savior (×2)
 - chap → ch (×2)
 - tho' → though (×2)
+- 'title → title
 - Dependance → Dependence
 - Expence → expense
 - I → It
