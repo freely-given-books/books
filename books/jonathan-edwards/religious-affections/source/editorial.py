@@ -26,6 +26,8 @@ DROP_CAP_CASE = True
 LOWERCASE_COMMON_NOUNS = _runpy.run_path(str(Path(__file__).parent / "nouns.py"))["LOWERCASE_COMMON_NOUNS"]
 # A quotation's first word (an italic run of 5 words or more) keeps its printed capital.
 QUOTE_START_CASE = True
+# an italic run opening a sentence (#emph[First,] at a paragraph's head) takes its capital
+ITALIC_SENTENCE_QUIRK = False
 
 # Gaps (build_tei.py --list): every illegible letter and word the TCP could not key, read from the
 # 1746 page images and their Kraken and Tesseract readings. See gap_fixes.py.
