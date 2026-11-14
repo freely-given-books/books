@@ -22,6 +22,8 @@ QUOTE_BLOCK = True
 SMALLCAPS = "smallcaps"
 OPENING_SMALLCAPS = True
 DROP_CAP_CASE = True
+# an italic run ending in a full stop ends the sentence: the next word keeps its capital
+ITALIC_SENTENCE_QUIRK = False
 EXPAND_ETC = True
 TYPST_ENUM = None
 OUTLINE_MARKS = True
