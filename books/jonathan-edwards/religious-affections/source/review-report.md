@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1746 |
-| punctuation | 1700 |
-| spacing | 1096 |
-| emendation | 676 |
+| spelling | 1747 |
+| punctuation | 1702 |
+| spacing | 1097 |
+| emendation | 677 |
 | case | 378 |
 | italic | 325 |
 | level | 207 |
@@ -87,6 +87,7 @@
 - [preface.typ] 'em → them
 - [preface.typ] 'em → them
 - [preface.typ] 'em → them
+- [part-1/01-the-text.typ] i → 1
 - [part-1/01-the-text.typ] 'em → them
 - [part-1/01-the-text.typ] 'em → them
 - [part-1/01-the-text.typ] 'em → them
@@ -777,6 +778,8 @@
 - [preface.typ] . → :
 - [preface.typ] . → 
 - [preface.typ] . → :
+- [part-1/01-the-text.typ] . → :
+- [part-1/01-the-text.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → 
@@ -2687,6 +2690,7 @@
 - Mesaick → Mosaic
 - Micah → Mic
 - Nebuchadnezzer → Nebuchadnezzar
+- PETER → Pet
 - Peeple → People
 - Pharoah → Pharaoh
 - Phythagorean → Pythagorean

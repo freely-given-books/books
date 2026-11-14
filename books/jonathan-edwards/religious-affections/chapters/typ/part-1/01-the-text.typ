@@ -5,7 +5,7 @@
 #align(center)[
   #block(width: 85%, breakable: false)[
     #set par(justify: false)
-    #text(size: 0.9em, weight: 600)[1 PETER i. 8.]
+    #text(size: 0.9em, weight: 600)[1 Pet 1:8]
 
     #text(style: "italic")[Whom having not seen, ye love: in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable, and full of glory.]
   ]
