@@ -1,6 +1,6 @@
 == God Takes Notice of the Least of His Saints
 
-The words thus explained, afford unto us two special poins of doctrine.
+#par(first-line-indent: (amount: 12pt, all: true))[The words thus explained, afford unto us two special poins of doctrine.]
 
 1\. #emph[Doct.] God taketh notice of every of his saints, even of the least of them, and of kindness showed to them.
 
