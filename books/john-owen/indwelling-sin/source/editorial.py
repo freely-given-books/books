@@ -58,5 +58,9 @@ OUTLINE_MARKS = True
 
 EPUB = {"title": "Indwelling Sin", "author": "John Owen",
         "file": "indwelling-sin.epub", "front": "ebook-front.html", "cover": "cover.typ", "toc_depth": 4,
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["indwelling-sin.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        # the Modern English edition (MODERN-ENGLISH-RULES.md)
+        "modern": {"chapters": "chapters/modern", "file": "indwelling-sin-modern.epub",
+                   "title": "Indwelling Sin (Modern English)",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["indwelling-sin.typ", "indwelling-sin-modern.typ"]

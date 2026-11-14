@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | spelling | 812 |
-| punctuation | 756 |
+| punctuation | 758 |
 | italic | 443 |
-| spacing | 404 |
-| emendation | 388 |
+| spacing | 406 |
+| emendation | 401 |
 | level | 204 |
 | grammar | 32 |
 | case | 29 |
@@ -38,6 +38,7 @@
 - [chapter-01.typ] what ever → whatever
 - [chapter-01.typ] mean time → meantime
 - [chapter-01.typ] hood - winkt → hoodwinked
+- [chapter-02.typ] 3 → 2
 - [chapter-02.typ] Ephes . → Eph
 - [chapter-02.typ] it self → itself
 - [chapter-02.typ] ver → v
@@ -190,11 +191,14 @@
 - [chapter-07.typ] Ephes . → Eph
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] it self → itself
+- [chapter-07.typ] 16 → 15
+- [chapter-07.typ] 21 → 26
 - [chapter-07.typ] His . → Hos
 - [chapter-07.typ] it self → itself
 - [chapter-08.typ] Jam . → Jas
 - [chapter-08.typ] it self → itself
 - [chapter-08.typ] Ephes . → Eph
+- [chapter-08.typ] 2 → 22
 - [chapter-08.typ] her self → herself
 - [chapter-08.typ] vers → v
 - [chapter-08.typ] ver → v
@@ -232,6 +236,7 @@
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
+- [chapter-09.typ] 5 → 6
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
@@ -267,6 +272,7 @@
 - [chapter-10.typ] King . → Kgs
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
+- [chapter-10.typ] 14 → 13
 - [chapter-10.typ] Dent . → Deut
 - [chapter-10.typ] & c → etc
 - [chapter-10.typ] ver → vv
@@ -278,6 +284,8 @@
 - [chapter-10.typ] her self → herself
 - [chapter-10.typ] it self → itself
 - [chapter-10.typ] it self → itself
+- [chapter-11.typ] Ep . → John
+- [chapter-11.typ] 14 → 16
 - [chapter-11.typ] it self → itself
 - [chapter-11.typ] 33 → 23:3
 - [chapter-11.typ] 21 → 
@@ -314,6 +322,7 @@
 - [chapter-12.typ] the → that
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] ver → v
+- [chapter-13.typ] 19 → 13
 - [chapter-13.typ] Psal . → Ps
 - [chapter-13.typ] Eccles . → Eccl
 - [chapter-13.typ] Matth . → Matt
@@ -323,6 +332,7 @@
 - [chapter-13.typ] King . → Kgs
 - [chapter-13.typ] Psa . → Ps
 - [chapter-13.typ] what ever → whatever
+- [chapter-13.typ] 35 → 45
 - [chapter-13.typ] Chron . → Chr
 - [chapter-13.typ] . Yields → yields
 - [chapter-13.typ] Joh . → John
@@ -353,6 +363,7 @@
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] Chron . → Chr
 - [chapter-14.typ] ver → vv
+- [chapter-14.typ] 3 → 13
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] ver → v
 - [chapter-14.typ] for sake → forsake
@@ -392,10 +403,11 @@
 - [chapter-16.typ] Psal . → Ps
 - [chapter-16.typ] Psal . → Jer
 - [chapter-16.typ] Joh . → John
+- [chapter-16.typ] 6 → 
 - [chapter-16.typ] what ever → whatever
 - [chapter-16.typ] What ever → Whatever
 - [chapter-16.typ] its → it is
-- [chapter-16.typ] Mat . → Matt
+- [chapter-16.typ] Mat . → Mark
 - [chapter-16.typ] ver → v
 - [chapter-16.typ] verse → :
 - [chapter-16.typ] it self → itself
@@ -404,6 +416,7 @@
 - [chapter-17.typ] in → it
 - [chapter-17.typ] When ever → Whenever
 - [chapter-17.typ] where ever → wherever
+- [chapter-17.typ] 3 → 9
 - [chapter-17.typ] Where ever → Wherever
 - [chapter-17.typ] what ever → whatever
 - [chapter-17.typ] 17 → 19
@@ -770,6 +783,7 @@
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
+- [chapter-09.typ] , → –
 - [chapter-09.typ] . → :
 - [chapter-09.typ] . → 
 - [chapter-09.typ] . → :
@@ -865,6 +879,7 @@
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
+- [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
@@ -1134,7 +1149,7 @@
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → :
 - [chapter-16.typ] . → 
-- [chapter-16.typ] . → :
+- [chapter-16.typ] . → 7:
 - [chapter-16.typ] & → and
 - [chapter-16.typ] & → and
 - [chapter-16.typ] & → and
