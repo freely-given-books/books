@@ -113,7 +113,7 @@ SPELLING = {
     "lyes": "lies", "lymbecks": "limbecks", "manassah": "Manasseh", "mans": "man's",
     "marriner": "mariner", "medly": "medley", "mens": "men's", "mettal": "metal",
     "mettals": "metals", "milstones": "millstones", "mishapen": "misshapen",
-    "mistriss": "mistress", "moistned": "moistened", "musick": "music", "myrth": "mirth",
+    "mistriss": "mistress", "moistned": "moistened", "musick": "music", "myrth": "myrrh",
     "neer": "near", "oratour": "orator", "oyl": "oil", "oyles": "oils", "oyls": "oils",
     "oyntment": "ointment", "oyntments": "ointments", "pallat": "palate",
     "paradice": "paradise", "parlying": "parleying", "pauls": "Paul's", "pennance": "penance",
@@ -144,8 +144,12 @@ SPELLING = {
 EPUB = {"title": "A Divine Cordial", "author": "Thomas Watson",
         "file": "a-divine-cordial.epub", "front": "ebook-front.html",
         "cover": "cover.typ", "toc_depth": 3,
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["a-divine-cordial.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        # the Modern English edition (MODERN-ENGLISH-RULES.md)
+        "modern": {"chapters": "chapters/modern", "file": "a-divine-cordial-modern.epub",
+                   "title": "A Divine Cordial (Modern English)",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["a-divine-cordial.typ", "a-divine-cordial-modern.typ"]
 
 
 # The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a

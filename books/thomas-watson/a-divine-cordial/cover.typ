@@ -18,7 +18,9 @@
 // editor chose it over sage, 2026-11-08: the amber cordial glows against it)
 #let ground = ((rgb("#CFE0DC"), 0%), (rgb("#B9CFCA"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.jpg", encoding: none),
   // enlarged past the bleed (the plate is mostly paper), the bottle below the title and
   // the table's edge above the seal
@@ -47,3 +49,5 @@
   ],
   epigraph-source: [From the Epistle to the Reader],
 )
+
+#cover()
