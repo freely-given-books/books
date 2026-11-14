@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 104 |
-| punctuation | 88 |
+| spelling | 105 |
+| punctuation | 89 |
 | level | 36 |
 | case | 24 |
 | emendation | 22 |
@@ -110,6 +110,7 @@
 - [sermon.typ] . → 
 - [sermon.typ] . → :
 - [sermon.typ] & → and
+- [sermon.typ] , → , he
 - [sermon.typ] & → and
 - [sermon.typ] & → and
 - [sermon.typ] & → and
@@ -146,6 +147,7 @@
 - tho' → though (×2)
 - Dependance → Dependence
 - Expence → expense
+- I → It
 - armour → armor
 - bestow'd → bestowed
 - confer'd → conferred
