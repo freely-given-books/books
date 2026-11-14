@@ -137,6 +137,11 @@ Reviewers and correction passes do not reopen these; a finding against one is no
 - "double blows upon him" → "takes blow after blow"; never "rain blows".
 - "effectual / effectually" stays, Mortification 14:20 included (not "efficiently").
 - Gendered language: "the man", "no man", "men".
+- Edition headings in the author's own words keep them in the Modern: "As a Means, by Removing the
+  Contrary" (Mortification ch. 4), not "What Opposes It".
+- The author's own slips stay in both editions, as printed: Watson's "Corinthians" for the
+  Macedonians (2 Cor 8:3, A Divine Cordial ch. 7); Owen's "the deceit of sin" (Indwelling Sin
+  ch. 10), though "desert" may be meant. Only printers' errors and wrong references are corrected.
 
 ## 7a. The meaning audit (every book, before the editor's read)
 
