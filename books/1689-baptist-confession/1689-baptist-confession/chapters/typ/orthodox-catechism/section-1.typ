@@ -120,7 +120,7 @@
 
 #speech[#smallcaps[Question 30]: Why is he called Christ, that is, anointed?]
 
-#speech[#smallcaps[Answer]: Because he was ordained of the Father, and anointed of the holy Ghost#footnote[Ps 45:7; Heb 1:9; Deut 18:15; Acts 3:22] the chief Prophet#footnote[John 1:18; John 15:15; Matt 11:27] and Teacher, who#footnote[Heb 7:21; Heb 10:12] hath opened unto us the secret Counsel, & all the will of his Father concerning our Redemption, and the high Preist, who with that one only Sacrifice of his Body#footnote[Rom 3:24; Rom 5:9–10] hath redeemed us, and doth#footnote[Ps 2:6; Luke 1:33] continually make Intercession to his Father for us; and a King, who ruleth us by his Word and Spirit, and defendeth#footnote[Matt 28:18] and maintaineth that Salvation which he hath purchased for us.]
+#speech[#smallcaps[Answer]: Because he was ordained of the Father, and anointed of the Holy Ghost#footnote[Ps 45:7; Heb 1:9; Deut 18:15; Acts 3:22] the chief Prophet#footnote[John 1:18; John 15:15; Matt 11:27] and Teacher, who#footnote[Heb 7:21; Heb 10:12] hath opened unto us the secret Counsel, & all the will of his Father concerning our Redemption, and the high Preist, who with that one only Sacrifice of his Body#footnote[Rom 3:24; Rom 5:9–10] hath redeemed us, and doth#footnote[Ps 2:6; Luke 1:33] continually make Intercession to his Father for us; and a King, who ruleth us by his Word and Spirit, and defendeth#footnote[Matt 28:18] and maintaineth that Salvation which he hath purchased for us.]
 
 #speech[#smallcaps[Question 31]: But why art thou called a Christian?]
 

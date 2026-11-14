@@ -8,8 +8,8 @@
 | spelling | 1830 |
 | emendation | 1335 |
 | note moved | 1097 |
+| case | 148 |
 | grammar | 147 |
-| case | 146 |
 | list | 141 |
 | note | 68 |
 | gap | 48 |
@@ -5972,7 +5972,7 @@
 
 ## case
 
-- holy → Holy (×27)
+- holy → Holy (×29)
 - The → the (×13)
 - children → Children (×8)
 - That → that (×4)

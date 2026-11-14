@@ -11,7 +11,7 @@
 | spacing | 634 |
 | emendation | 510 |
 | note | 222 |
-| case | 139 |
+| case | 149 |
 | italic | 113 |
 | gap | 33 |
 | grammar | 26 |
@@ -1687,6 +1687,7 @@
 ## case
 
 - ’tis → ’Tis (×15)
+- holy → Holy (×11)
 - Of → of (×10)
 - ’Tis → ’tis (×10)
 - BY → By (×8)
@@ -1743,7 +1744,6 @@
 - french → French
 - ghost → Ghost
 - he → He
-- holy → Holy
 - if → If
 - satan → Satan
 - viz → Viz
