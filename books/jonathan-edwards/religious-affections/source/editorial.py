@@ -31,6 +31,8 @@ ITALIC_SENTENCE_QUIRK = False
 
 # Gaps (build_tei.py --list): every illegible letter and word the TCP could not key, read from the
 # 1746 page images and their Kraken and Tesseract readings. See gap_fixes.py.
+# the fills modernized like the words around them ("dead Frames;" -> "dead frames;")
+MODERNIZE_FILLS = True
 GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FIXES"]
 
 # The title page and the print's own "Table of the Contents" are the print's, not the edition's
