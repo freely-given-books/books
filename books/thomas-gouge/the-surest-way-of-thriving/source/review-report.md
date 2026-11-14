@@ -2,14 +2,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 336 |
-| punctuation | 220 |
-| spacing | 147 |
-| emendation | 144 |
-| level | 93 |
+| spelling | 370 |
+| punctuation | 222 |
+| spacing | 149 |
+| emendation | 146 |
+| level | 100 |
 | italic | 87 |
-| grammar | 9 |
-| case | 2 |
+| grammar | 13 |
+| case | 12 |
 | skipped | 1 |
 
 ## skipped
@@ -36,6 +36,8 @@
 - [ch02-the-least-of-his-saints.typ] Esther . → Esth
 - [ch03-the-main-point.typ] Luk . → Luke
 - [ch03-the-main-point.typ] your selves → yourselves
+- [ch04-proofs-from-scripture.typ] old , → Old
+- [ch04-proofs-from-scripture.typ] new - → New
 - [ch04-proofs-from-scripture.typ] Pro . → Prov
 - [ch04-proofs-from-scripture.typ] our selves → ourselves
 - [ch04-proofs-from-scripture.typ] wiseman → wise man
@@ -165,7 +167,9 @@
 
 ## grammar
 
+- Louest → Lovest (×2)
 - applyeth → applieth (×2)
+- louest → lovest (×2)
 - whilest → whilst (×2)
 - abhoreth → abhorreth
 - cryeth → crieth
@@ -199,6 +203,7 @@
 - [ch01-the-text-opened.typ] . → 
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → :
@@ -293,6 +298,7 @@
 - [ch09-reproof.typ] . → :
 - [ch09-reproof.typ] . → 
 - [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] , → 
 - [ch09-reproof.typ] . → :
 - [ch09-reproof.typ] . → :
 - [ch09-reproof.typ] . → 
@@ -398,13 +404,18 @@
 
 ## case
 
+- Testament → testament (×3)
+- new → New (×3)
+- old → Old (×3)
 - Lords → lords
 - THE → The
+- Use → use
 
 ## spelling
 
 - Gods → God's (×24)
 - Saviour → Savior (×17)
+- mans → man's (×15)
 - worlds → world's (×15)
 - then → than (×13)
 - Lords → Lord's (×12)
@@ -413,23 +424,25 @@
 - Christs → Christ's (×7)
 - labour → labor (×7)
 - implyed → implied (×6)
-- widdows → widows (×6)
 - loose → lose (×5)
 - summs → sums (×5)
 - Its → It's (×4)
+- Obi → Obj (×4)
 - cryed → cried (×4)
 - mens → men's (×4)
 - pitty → pity (×4)
+- widdows → widow's (×4)
 - beggery → beggary (×3)
 - denyed → denied (×3)
 - mony → money (×3)
 - oyl → oil (×3)
+- prophets → prophet's (×3)
 - widdow → widow (×3)
+- years → year's (×3)
 - Cloath → cloth (×2)
 - Honour → Honor (×2)
 - Physick → Physic (×2)
 - Shepheards → shepherds (×2)
-- Widdows → widows (×2)
 - applyed → applied (×2)
 - chap → ch (×2)
 - childs → child's (×2)
@@ -449,12 +462,15 @@
 - sowen → sown (×2)
 - succoured → succored (×2)
 - ther → there (×2)
+- widdows → widows (×2)
 - 19 → 19:
 - 5 → 5:
 - 9 → 9:
 - Aegypt → Egypt
 - Anbassadours → Ambassadors
 - Auditour → auditor
+- Barnes → Barns
+- Barnes → barns
 - Battel → battle
 - Brethrens → brethren's
 - Cellers → Cellars
@@ -468,14 +484,19 @@
 - Sathans → Satan's
 - Shepheards → Shepherds
 - Shipwrack → shipwreck
+- Southwork → Southwark
 - Succourers → succorers
 - Ther's → There's
 - Travellers → travelers
 - Wherupon → Whereupon
+- Widdows → widow's
+- Widdows → widows
 - Withold → Withhold
 - Wollen → woolen
 - accrew → accrue
 - accrews → accrues
+- act → Acts
+- affuency → affluency
 - alsufficient → all-sufficient
 - amonst → amongst
 - beggers → beggars
@@ -511,8 +532,10 @@
 - gien → given
 - hardned → hardened
 - hearkning → hearkening
+- henefits → benefits
 - honourable → honorable
 - honoured → honored
+- humane → human
 - intail → entail
 - its → it's
 - labourers → laborers
@@ -533,6 +556,7 @@
 - perswasive → persuasive
 - pin'd → pined
 - pinch'd → pinched
+- poins → points
 - poors → poor's
 - practise → practice
 - practised → practiced
@@ -564,6 +588,7 @@
 - uncapable → incapable
 - undefield → undefiled
 - unreconcileable → unreconcilable
+- unthristy → unthrifty
 - watry → watery
 - welpleasing → well-pleasing
 - wer → were
