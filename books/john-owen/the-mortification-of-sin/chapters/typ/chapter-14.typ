@@ -48,7 +48,7 @@ First, Set Faith at work on Christ for the #emph[killing] of thy sin. His #emph[
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[For the First, the Direction given in #emph[general] may suffice.]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[As to the latter, that of the Apostle may give us some Light into our Direction, Gal 3:1. Let Faith look on Christ in the Gospel as he is set forth #emph[dying] and #emph[crucified] for us:#footnote[1 Cor 15:31. 1 Pet 1:16. 1 Pet 5:1, 2. Col 1:3.] Look on him #emph[under] the weight of our #emph[Sins, praying, bleeding, dying]: bring him in that Condition into thy #emph[heart] by Faith: apply his #emph[blood] so shed to thy Corruptions: do this daily. I might draw out this Consideration to a great length, in sundry particulars, but I must come to a close.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[As to the latter, that of the Apostle may give us some Light into our Direction, Gal 3:1. Let Faith look on Christ in the Gospel as he is set forth #emph[dying] and #emph[crucified] for us:#footnote[1 Cor 15:3. 1 Pet 1:18, 19. 1 Pet 5:1, 2. Col 1:13, 14.] Look on him #emph[under] the weight of our #emph[Sins, praying, bleeding, dying]: bring him in that Condition into thy #emph[heart] by Faith: apply his #emph[blood] so shed to thy Corruptions: do this daily. I might draw out this Consideration to a great length, in sundry particulars, but I must come to a close.]]
 
 ==== The Work of the Spirit
 

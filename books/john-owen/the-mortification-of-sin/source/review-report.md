@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 480 |
+| punctuation | 475 |
 | spelling | 418 |
-| emendation | 364 |
+| emendation | 371 |
 | italic | 239 |
 | level | 192 |
 | spacing | 117 |
@@ -36,7 +36,7 @@
 - [chapter-01.typ] vers → v
 - [chapter-01.typ] . Ye → ye
 - [chapter-01.typ] vers → v
-- [chapter-01.typ] . Who → who
+- [chapter-01.typ] 5 . Who → 9 who
 - [chapter-01.typ] vers → vv
 - [chapter-01.typ] Joh . → John
 - [chapter-01.typ] vers → v
@@ -106,8 +106,10 @@
 - [chapter-02.typ] Tit . → Titus
 - [chapter-02.typ] . To → to
 - [chapter-03.typ] Chap . → Chapter
+- [chapter-03.typ] 2 → 3
 - [chapter-03.typ] vers → v
 - [chapter-03.typ] . Think → think
+- [chapter-03.typ] 8 → 7
 - [chapter-03.typ] it self → itself
 - [chapter-03.typ] Chap . → Chapter
 - [chapter-03.typ] Joh . → John
@@ -188,6 +190,7 @@
 - [chapter-07.typ] vers → vv
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] . Which → which
+- [chapter-07.typ] 4 → 3
 - [chapter-07.typ] it self → itself
 - [chapter-07.typ] Act . → Acts
 - [chapter-07.typ] . Or → or
@@ -314,7 +317,7 @@
 - [chapter-13.typ] Joh . → John
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] Hos . → Hosea
-- [chapter-13.typ] . When → when
+- [chapter-13.typ] . 11 . 3 . When → 9:9 when
 - [chapter-13.typ] my self → myself
 - [chapter-13.typ] our selves → ourselves
 - [chapter-13.typ] Psal . → Ps
@@ -336,7 +339,7 @@
 - [chapter-13.typ] 14 → 4
 - [chapter-13.typ] Cant . → Song
 - [chapter-13.typ] your selves → yourselves
-- [chapter-13.typ] Luk . → Luke
+- [chapter-13.typ] Luk . 22 → Luke 24
 - [chapter-13.typ] Cant . → Song
 - [chapter-13.typ] . His → his
 - [chapter-13.typ] & c → etc
@@ -346,6 +349,10 @@
 - [chapter-14.typ note] 8 . 38 . → 
 - [chapter-14.typ note] Mat . → Matt
 - [chapter-14.typ note] Revel . → Rev
+- [chapter-14.typ note] 31 → 3
+- [chapter-14.typ note] . 16 → :18, 19
+- [chapter-14.typ note] Col → Col 1:13, 14
+- [chapter-14.typ note] 1 . 3 . → 
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] it self → itself
 - [chapter-14.typ] its self → itself
@@ -626,7 +633,7 @@
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
-- [chapter-07.typ] . → :
+- [chapter-07.typ] . → :2,
 - [chapter-07.typ] . → 
 - [chapter-07.typ] . → :
 - [chapter-07.typ] . → 
@@ -780,8 +787,6 @@
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
-- [chapter-13.typ] . → 
-- [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
@@ -817,9 +822,6 @@
 - [chapter-14.typ note] . → 
 - [chapter-14.typ note] . → :
 - [chapter-14.typ note] . → 
-- [chapter-14.typ note] . → :
-- [chapter-14.typ note] . → 
-- [chapter-14.typ note] . → :
 - [chapter-14.typ note] . → 
 - [chapter-14.typ note] . → :
 - [chapter-14.typ] ▪ → :
