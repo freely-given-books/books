@@ -2,12 +2,13 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1759 |
+| spelling | 1746 |
 | punctuation | 1700 |
 | spacing | 1096 |
-| emendation | 663 |
+| emendation | 676 |
 | case | 378 |
 | italic | 325 |
+| level | 207 |
 | gap | 47 |
 | grammar | 16 |
 | skipped | 1 |
@@ -122,6 +123,7 @@
 - [part-1/03-religion-in-the-affections.typ] Isai . → Isa
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Isai . → Isa
+- [part-1/03-religion-in-the-affections.typ] Chap . → Chapter
 - [part-1/03-religion-in-the-affections.typ] Isal → Isa 50
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] ver → v
@@ -230,6 +232,7 @@
 - [part-2/sign-11.typ note] Chap . → Chapter
 - [part-2/sign-11.typ] . 1 . → 4:7,
 - [part-2/sign-11.typ] but → not
+- [part-2/sign-11.typ] Chap . → Chapter
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
@@ -262,6 +265,7 @@
 - [part-3/00-of-the-signs.typ] 'em → them
 - [part-3/sign-01.typ note] Isai . → Isa
 - [part-3/sign-01.typ note] 'em → them
+- [part-3/sign-01.typ] Chap . → Chapter
 - [part-3/sign-01.typ] Rom . → Romans
 - [part-3/sign-01.typ] Gal . → Galatians
 - [part-3/sign-01.typ] Jam . → Jas
@@ -269,6 +273,7 @@
 - [part-3/sign-01.typ] Cor . → Corinthians
 - [part-3/sign-01.typ] Numb . → Num
 - [part-3/sign-01.typ] Psal . → Ps
+- [part-3/sign-01.typ] Chap . → Chapter
 - [part-3/sign-01.typ] was → is
 - [part-3/sign-01.typ] Numb . → Num
 - [part-3/sign-01.typ] the → 
@@ -344,6 +349,8 @@
 - [part-3/sign-03.typ] and → 
 - [part-3/sign-04.typ note] Matth . → Matt
 - [part-3/sign-04.typ] Psal . → Ps
+- [part-3/sign-04.typ] Chap . → Chapter
+- [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] Matth . → Matt
 - [part-3/sign-04.typ] Psal . → Ps
 - [part-3/sign-04.typ] Ver . → Verse
@@ -360,6 +367,7 @@
 - [part-3/sign-04.typ] Rom . → Romans
 - [part-3/sign-04.typ] Eccl. 10. 2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool: → Eccl 10:2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool:
 - [part-3/sign-04.typ] ' → 
+- [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] 'em → them
@@ -368,13 +376,15 @@
 - [part-3/sign-05.typ] ver → v
 - [part-3/sign-05.typ] ver → v
 - [part-3/sign-05.typ] ver → vv
+- [part-3/sign-05.typ] Chap . → Chapter
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] Tit . → Titus
-- [part-3/sign-05.typ] ver → v
+- [part-3/sign-05.typ] Chap . → Chapter
+- [part-3/sign-05.typ] Ver . → Verse
 - [part-3/sign-05.typ] Matth . → Matt
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
@@ -408,6 +418,8 @@
 - [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] Chap . → Chapter
+- [part-3/sign-06.typ] Chap . → Chapter
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
@@ -584,6 +596,7 @@
 - [part-3/sign-12.typ note] ver → v
 - [part-3/sign-12.typ note] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
+- [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Numb . → Num
 - [part-3/sign-12.typ] Matth . → Matthew
@@ -602,6 +615,7 @@
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Tit . → Titus
 - [part-3/sign-12.typ] 13 → 16
+- [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Chap . → Chapter
@@ -2474,12 +2488,12 @@
 
 - tho' → though (×165)
 - it's → its (×118)
-- chap → ch (×70)
+- chap → ch (×57)
 - behaviour → behavior (×56)
 - thro' → through (×56)
 - 'till → till (×44)
 - favour → favor (×43)
-- honour → honor (×33)
+- honour → honor (×32)
 - meer → mere (×31)
 - Tho' → Though (×30)
 - Saviour → Savior (×29)
@@ -2661,6 +2675,7 @@
 - Frith → Faith
 - Gnosticks → Gnostics
 - Goliah → Goliath
+- Honour → Honor
 - Honoured → Honored
 - Hosea → Hos
 - Jephtbab → Jephthah
@@ -2678,6 +2693,7 @@
 - Preceeding → Preceding
 - Pretiousness → Preciousness
 - Testamen → Testament
+- The → 'The
 - Tho' → though
 - Thro'out → Throughout
 - admir'd → admired
@@ -2898,7 +2914,6 @@
 - takens → tokens
 - talk'd → talked
 - terror → terrors
-- the → 'the
 - theatre → theater
 - transfigur'd → transfigured
 - truely → truly
