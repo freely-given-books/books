@@ -77,8 +77,12 @@ EDITION_HEADINGS = True
 EPUB = {"title": "Of Temptation", "author": "John Owen",
         "file": "of-temptation.epub", "front": "ebook-front.html",
         "cover": "cover.typ", "toc_depth": 4,
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["of-temptation.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        # the Modern English edition (MODERN-ENGLISH-RULES.md)
+        "modern": {"chapters": "chapters/modern", "file": "of-temptation-modern.epub",
+                   "title": "Of Temptation (Modern English)",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["of-temptation.typ", "of-temptation-modern.typ"]
 
 
 # The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a
