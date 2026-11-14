@@ -2,16 +2,17 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1757 |
-| punctuation | 1703 |
-| spacing | 1100 |
-| emendation | 690 |
-| case | 416 |
+| spelling | 1772 |
+| punctuation | 1702 |
+| spacing | 1104 |
+| emendation | 705 |
+| case | 425 |
 | italic | 326 |
 | level | 207 |
-| gap | 51 |
+| gap | 55 |
 | grammar | 16 |
 | merge | 2 |
+| note moved | 1 |
 | skipped | 1 |
 
 ## skipped
@@ -22,14 +23,14 @@
 
 - [part-1/03-religion-in-the-affections.typ] Thes. → Thess
 - [part-1/03-religion-in-the-affections.typ] stedfast → steadfast
-- [part-1/03-religion-in-the-affections.typ] as an Anchor of the Soul, both sure and stedfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and → as an Anchor of the Soul, both sure and steadfast, and which entreth into that within the Veil. 'Tis spoken of as a great Fruit and
-- [part-1/03-religion-in-the-affections.typ] Christ's Resurrection, 1 Pet. 1. 3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant Mercy, hath begotten us again unto a lively Hope, by the Resurrection of Jesus Christ from the Dead → Christ's Resurrection, 1 Pet 1:3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant Mercy, hath begotten us again unto a lively Hope, by the Resurrection of Jesus Christ from the Dead
+- [part-1/03-religion-in-the-affections.typ] as an anchor of the soul, both sure and stedfast, and which entreth into that within the veil. 'Tis spoken of as a great fruit and → as an anchor of the soul, both sure and steadfast, and which entreth into that within the veil. 'Tis spoken of as a great fruit and
+- [part-1/03-religion-in-the-affections.typ] Christ's resurrection, 1 Pet. 1. 3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy, hath begotten us again unto a lively hope, by the resurrection of Jesus Christ from the dead → Christ's resurrection, 1 Pet 1:3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy, hath begotten us again unto a lively hope, by the resurrection of Jesus Christ from the dead
 - [part-1/03-religion-in-the-affections.typ] enquire → inquire
 - [part-1/03-religion-in-the-affections.typ] lendeth. And Prov. 14. → lendeth. And Prov 14:
-- [part-1/03-religion-in-the-affections.typ] hath Mercy on the Poor. And Col. 3. → hath Mercy on the Poor. And Col 3:
-- [part-1/03-religion-in-the-affections.typ] Pharisees, Hypocrites; for ye pay Tythe of → Pharisees, Hypocrites; for ye pay Tithe of
+- [part-1/03-religion-in-the-affections.typ] hath mercy on the poor. And Col. 3. → hath mercy on the poor. And Col 3:
+- [part-1/03-religion-in-the-affections.typ] Pharisees, hypocrites; for ye pay Tythe of → Pharisees, hypocrites; for ye pay Tithe of
 - [part-1/03-religion-in-the-affections.typ] Annise → Anise
-- [part-1/03-religion-in-the-affections.typ] all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbour as thy self. On these two Commandments hang all the Law and the Prophets. → all thy Mind: This is the first, and great Commandment; and the second is like unto it, Thou shalt love thy Neighbor as thy self. On these two Commandments hang all the Law and the Prophets.
+- [part-1/03-religion-in-the-affections.typ] all thy mind: this is the first, and great commandment; and the second is like unto it, thou shalt love thy neighbour as thy self. On these two commandments hang all the law and the prophets. → all thy mind: this is the first, and great commandment; and the second is like unto it, thou shalt love thy neighbor as thy self. On these two commandments hang all the law and the prophets.
 - [part-1/03-religion-in-the-affections.typ] enflamed, → inflamed,
 - [part-1/03-religion-in-the-affections.typ] Cor. 5. 14, → Cor 5:14,
 - [part-1/03-religion-in-the-affections.typ] Tim. → Tim
@@ -37,29 +38,33 @@
 - [part-1/04-inferences.typ] be consider’d → be considered
 - [part-1/04-inferences.typ] extoll’d → extolled
 - [part-2/sign-01.typ] rais'd to an → raised to an
+- [part-2/sign-01.typ] To leap → to leap
 - [part-2/sign-03.typ] open’d → opened
 - [part-2/sign-04.typ] vapoury → vapory
 - [part-2/sign-08.typ] rais’d → raised
 - [part-2/sign-08.typ] looses → loses
 - [part-2/sign-08.typ] unmortify’d → unmortified
-- [part-2/sign-10.typ] Ill- → ill-
 - [part-2/sign-10.typ] and honours → and honors
 - [part-2/sign-11.typ] least they should → lest they should
-- [part-3/sign-01.typ] 7, 8, 9, 12, 13. Gal. 5. 16, to the End. Col. 2. 18. Now therefore, if by natural and carnal, → 7, 8, 9, 12, 13. Gal 5:16, to the End. Col 2:18. Now therefore, if by natural and carnal,
-- [part-3/sign-01.typ] Rom. 8. 6, 7. → Rom 8:6, 7
-- [part-3/sign-01.typ] Blessings, Eph. 1. 3 → Blessings, Eph 1:3
+- [part-2/sign-12.typ] bro't forth fruit, → brought forth fruit,
+- [part-3/sign-01.typ note] but mediately → but mediately;
+- [part-3/sign-01.typ] 7, 8, 9, 12, 13. Gal. 5. 16, to the end. Col. 2. 18. Now therefore, if by natural and carnal, → 7, 8, 9, 12, 13. Gal 5:16, to the end. Col 2:18. Now therefore, if by natural and carnal,
+- [part-3/sign-01.typ] Rom. 8. 6, 7. → Rom 8:6, 7.
+- [part-3/sign-01.typ] blessings, Eph. 1. 3 → blessings, Eph 1:3
 - [part-3/sign-01.typ] extrinsick → extrinsic
 - [part-3/sign-01.typ] ben’t restrain’d → ben’t restrained
 - [part-3/sign-01.typ] Eph. → Eph
 - [part-3/sign-04.typ] son → on
 - [part-3/sign-04.typ] relishbes → relishes
+- [part-3/sign-04.typ] Christlike Beaviour → Christlike behavior
+- [part-3/sign-04.typ] wise → wise useth
 - [part-3/sign-05.typ] 'till they → till they
 - [part-3/sign-05.typ] fetch’d → fetched
 - [part-3/sign-06.typ] Christ condemns, Luke 14. → Christ condemns, Luke 14:
 - [part-3/sign-06.typ] Part of Dictators → part of Dictators
 - [part-3/sign-06.typ] useth Intreaties → useth Entreaties
-- [part-3/sign-06.typ] Behaviour; → Behavior;
-- [part-3/sign-06.typ] down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behaviour among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them. → down high Looks. And Ps 101:5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor 13:4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behavior among Men, arising from Humility that the Scripture often speaks of; 1 Pet 3:15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom 13:7. Fear, to whom Fear. 2 Cor 7:15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph 6:5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet 2:18. Servants be subject to your Masters, with all Fear. 1 Pet 3:2. While they behold your chaste Conversation, coupled with Fear. 1 Tim 2:9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them.
+- [part-3/sign-06.typ] behaviour; → behavior;
+- [part-3/sign-06.typ] down high looks. And Psal. 101. 5. Him that hath an high look, and a proud heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable modesty and fear that belongs to a christian behaviour among men, arising from humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an answer to every man that asketh you,---with meekness and fear. Rom. 13. 7. Fear, to whom fear. 2 Cor. 7. 15. Whilst he remembreth the obedience of you all, how with fear and trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your masters according to the flesh, with fear and trembling. 1 Pet. 2. 18. Servants be subject to your masters, with all fear. 1 Pet. 3. 2. While they behold your chaste conversation, coupled with fear. 1 Tim. 2. 9. That women adorn themselves in modest apparel, with Shamefacedness and Sobriety. In this respect a Christian is like a little child; a little child is modest before men, and his heart is apt to be possessed with fear and awe amongst them. → down high looks. And Ps 101:5. Him that hath an high look, and a proud heart, will I not suffer. 1 Cor 13:4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable modesty and fear that belongs to a christian behavior among men, arising from humility that the Scripture often speaks of; 1 Pet 3:15. Be ready to give an answer to every man that asketh you,---with meekness and fear. Rom 13:7. Fear, to whom fear. 2 Cor 7:15. Whilst he remembreth the obedience of you all, how with fear and trembling ye received him. Eph 6:5. Servants be obedient to them which are your masters according to the flesh, with fear and trembling. 1 Pet 2:18. Servants be subject to your masters, with all fear. 1 Pet 3:2. While they behold your chaste conversation, coupled with fear. 1 Tim 2:9. That women adorn themselves in modest apparel, with Shamefacedness and Sobriety. In this respect a Christian is like a little child; a little child is modest before men, and his heart is apt to be possessed with fear and awe amongst them.
 - [part-3/sign-07.typ] unsavoury → unsavory
 - [part-3/sign-11.typ] coveteous → covetous
 - [part-3/sign-12.typ note] thoro' → thorough
@@ -68,8 +73,8 @@
 - [part-3/sign-12.typ] loueth → loveth
 - [part-3/sign-12.typ] materially agreable → materially agreeable
 - [part-3/sign-12.typ] loueth → loveth
-- [part-3/sign-12.typ] And they are called by this Name, because hereby Professors are try'd and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supream Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that thro' them I may prove Israel, whether they will keep the → And they are called by this Name, because hereby Professors are tried and proved of what Sort they be, whether they be really what they profess and appear to be; and because in them, the Reality of a supreme Love to God is brought to the Test of Experiment and Fact; They are the proper Proofs, in which it is truly determined by Experience, whether Men have a thorough Disposition of Heart to cleave to God or no; Deut 8:2. And thou shalt remember all the Way which the Lord thy God led thee, these forty Years in the Wilderness, to humble thee, and to prove thee, whether thou wouldst keep his Commandments or no. Judg 2:21, 22. I also will not henceforth drive out any from before them, of the Nations which Joshua left when he died; that through them I may prove Israel, whether they will keep the
-- [part-3/sign-12.typ] is, that in Practice, Grace, in Scripture Style, is said to be made perfect, or to be finished. So the Apostle James says, Jam. 2. 22. Seest thou how Faith wrought with his Works, and by Works was Faith made perfect, or finished (as the Word in the Original properly signifies.) So the Love of God is said to be made perfect, or finished, in keeping his Commandments; 1 John 2. 4, 5. He that saith, I know him, and keepeth not his Commandments, is a Liar, and the Truth is not in him; but whoso keepeth his Word, in him verily is the Love of God perfected. The Commandment → is, that in Practice, Grace, in Scripture Style, is said to be made perfect, or to be finished. So the Apostle James says, Jas 2:22. Seest thou how Faith wrought with his Works, and by Works was Faith made perfect, or finished (as the Word in the Original properly signifies.) So the Love of God is said to be made perfect, or finished, in keeping his Commandments; 1 John 2:4, 5. He that saith, I know him, and keepeth not his Commandments, is a Liar, and the Truth is not in him; but whoso keepeth his Word, in him verily is the Love of God perfected. The Commandment
+- [part-3/sign-12.typ] And they are called by this name, because hereby professors are try'd and proved of what sort they be, whether they be really what they profess and appear to be; and because in them, the reality of a supream love to God is brought to the test of experiment and fact; they are the proper proofs, in which it is truly determined by experience, whether men have a thorough disposition of heart to cleave to God or no; Deut. 8. 2. And thou shalt remember all the way which the Lord thy God led thee, these forty years in the wilderness, to humble thee, and to prove thee, whether thou wouldst keep his commandments or no. Judges 2. 21, 22. I also will not henceforth drive out any from before them, of the nations which Joshua left when he died; that thro' them I may prove Israel, whether they will keep the → And they are called by this name, because hereby professors are tried and proved of what sort they be, whether they be really what they profess and appear to be; and because in them, the reality of a supreme love to God is brought to the test of experiment and fact; they are the proper proofs, in which it is truly determined by experience, whether men have a thorough disposition of heart to cleave to God or no; Deut 8:2. And thou shalt remember all the way which the Lord thy God led thee, these forty years in the wilderness, to humble thee, and to prove thee, whether thou wouldst keep his commandments or no. Judg 2:21, 22. I also will not henceforth drive out any from before them, of the nations which Joshua left when he died; that through them I may prove Israel, whether they will keep the
+- [part-3/sign-12.typ] is, that in practice, grace, in Scripture style, is said to be made perfect, or to be finished. So the apostle James says, Jam. 2. 22. Seest thou how faith wrought with his works, and by works was faith made perfect, or finished (as the word in the original properly signifies.) So the love of God is said to be made perfect, or finished, in keeping his commandments; 1 John 2. 4, 5. He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him; but whoso keepeth his word, in him verily is the love of God perfected. The commandment → is, that in practice, grace, in Scripture style, is said to be made perfect, or to be finished. So the apostle James says, Jas 2:22. Seest thou how faith wrought with his works, and by works was faith made perfect, or finished (as the word in the original properly signifies.) So the love of God is said to be made perfect, or finished, in keeping his commandments; 1 John 2:4, 5. He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him; but whoso keepeth his word, in him verily is the love of God perfected. The commandment
 - [part-3/sign-12.typ] thus → Thus
 
 ## emendation
@@ -100,6 +105,7 @@
 - [part-1/02-what-the-affections-are.typ] voluntarily → 
 - [part-1/03-religion-in-the-affections.typ] Iid . Thing → second thing
 - [part-1/03-religion-in-the-affections.typ] 'em → them
+- [part-1/03-religion-in-the-affections.typ] thro' out → throughout
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
@@ -140,7 +146,7 @@
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] Tit . → Titus
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
-- [part-1/03-religion-in-the-affections.typ] that loveth another, hath fulfilled the Law. And Ver. 10. Love is the fulfilling of the Law. And Gal. 5. 14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbour as thy self. → that loveth another, hath fulfilled the Law. And Verse 10. Love is the fulfilling of the Law. And Gal 5:14. For all the Law is fulfilled in one Word, even in this, Thou shalt love thy Neighbor as thy self.
+- [part-1/03-religion-in-the-affections.typ] that loueth another, hath fulfilled the law. And ver. 10. Love is the fulfilling of the law. And Gal. 5. 14. For all the law is fulfilled in one word, even in this, thou shalt love thy neighbour as thy self. → that loveth another, hath fulfilled the law. And v. 10. Love is the fulfilling of the law. And Gal 5:14. For all the law is fulfilled in one word, even in this, thou shalt love thy neighbor as thy self.
 - [part-1/03-religion-in-the-affections.typ] Tim . → Timothy
 - [part-1/03-religion-in-the-affections.typ] Cor . → Corinthians
 - [part-1/03-religion-in-the-affections.typ] em inent → eminent
@@ -175,7 +181,7 @@
 - [part-2/sign-01.typ] Psal . → Ps
 - [part-2/sign-01.typ] 39 → 29
 - [part-2/sign-01.typ] Psal . → Ps
-- [part-2/sign-01.typ] shall they rejoice all the Day, and in thy Righteousness shall they be exalted. Zech. 9. 9. Rejoice greatly, O Daughter of Zion, shout, O → shall they rejoice all the Day, and in thy Righteousness shall they be exalted. Zech 9:9. Rejoice greatly, O Daughter of Zion, shout, O
+- [part-2/sign-01.typ] shall they rejoice all the day, and in thy righteousness shall they be exalted. Zech. 9. 9. Rejoice greatly, O daughter of Zion, shout, O → shall they rejoice all the day, and in thy righteousness shall they be exalted. Zech 9:9. Rejoice greatly, O daughter of Zion, shout, O
 - [part-2/sign-01.typ] 'em → them
 - [part-2/sign-01.typ] 'em → them
 - [part-2/sign-02.typ note] Psal . → Ps
@@ -231,13 +237,14 @@
 - [part-2/sign-09.typ] Isai . → Isa
 - [part-2/sign-09.typ] Psal . → Ps
 - [part-2/sign-09.typ] Psal . → Ps
-- [part-2/sign-09.typ] ver → v
+- [part-2/sign-09.typ] Ver . → Verse
 - [part-2/sign-09.typ] Isai . → Isa
 - [part-2/sign-09.typ] Isai . → Isa
 - [part-2/sign-09.typ] Isai . → Isa
 - [part-2/sign-10.typ] Matth . → Matt
 - [part-2/sign-10.typ] Matth . → Matt
 - [part-2/sign-10.typ] Isai . → Isa
+- [part-2/sign-10.typ] . 25 . → 24:
 - [part-2/sign-11.typ note] Chap . → Chapter
 - [part-2/sign-11.typ] shall → shall have
 - [part-2/sign-11.typ] . 1 . → 4:7,
@@ -248,6 +255,7 @@
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
 - [part-2/sign-11.typ] 'em → them
+- [part-2/sign-11.typ] so , → 
 - [part-2/sign-12.typ note] Chap . → Chapter
 - [part-2/sign-12.typ note] Chap . → Chapter
 - [part-2/sign-12.typ note] Joh . → John
@@ -276,6 +284,7 @@
 - [part-3/sign-01.typ note] Isai . → Isa
 - [part-3/sign-01.typ note] seem → seem to
 - [part-3/sign-01.typ note] 'em → them
+- [part-3/sign-01.typ note] some → ? Some
 - [part-3/sign-01.typ] Chap . → Chapter
 - [part-3/sign-01.typ] Rom . → Romans
 - [part-3/sign-01.typ] Gal . → Galatians
@@ -322,6 +331,7 @@
 - [part-3/sign-02.typ] Matth . → Matt
 - [part-3/sign-02.typ] indeed → in
 - [part-3/sign-02.typ] . 2 . → 1:
+- [part-3/sign-02.typ] Saving - → saving
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
 - [part-3/sign-02.typ] 'em → them
@@ -362,6 +372,7 @@
 - [part-3/sign-03.typ] and → 
 - [part-3/sign-04.typ note] Matth . → Matt
 - [part-3/sign-04.typ] Psal . → Ps
+- [part-3/sign-04.typ] high → high .
 - [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] that → 
@@ -371,6 +382,7 @@
 - [part-3/sign-04.typ] ver → v
 - [part-3/sign-04.typ] Matth . → Matt
 - [part-3/sign-04.typ] Cant . → Song
+- [part-3/sign-04.typ] head , → 
 - [part-3/sign-04.typ] Cor . → Corinthians
 - [part-3/sign-04.typ] is → it
 - [part-3/sign-04.typ] 'em → them
@@ -380,7 +392,7 @@
 - [part-3/sign-04.typ] 'em → them
 - [part-3/sign-04.typ] Psal . → Ps
 - [part-3/sign-04.typ] Rom . → Romans
-- [part-3/sign-04.typ] Eccl. 10. 2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool: → Eccl 10:2, 3. A wise Man's Heart is at his right Hand; but a Fool's Heart is at his Left. Yea also, when he that is a Fool, walketh by the Way, his Wisdom faileth him; and he saith to every one that he is a Fool:
+- [part-3/sign-04.typ] Eccl. 10. 2, 3. A wise man's heart is at his right hand; but a Fool's heart is at his left. Yea also, when he that is a fool, walketh by the way, his wisdom faileth him; and he saith to every one that he is a fool: → Eccl 10:2, 3. A wise man's heart is at his right hand; but a Fool's heart is at his left. Yea also, when he that is a fool, walketh by the way, his wisdom faileth him; and he saith to every one that he is a fool:
 - [part-3/sign-04.typ] ' → 
 - [part-3/sign-04.typ] Chap . → Chapter
 - [part-3/sign-04.typ] 'em → them
@@ -406,6 +418,7 @@
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] he athenism, → heathenism,
 - [part-3/sign-05.typ] 'em → them
+- [part-3/sign-05.typ] doubtless → . Doubtless
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
@@ -459,18 +472,22 @@
 - [part-3/sign-06.typ] Jam . → Jas
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] Matth . → Matt
+- [part-3/sign-06.typ] with out → without
 - [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] Cor . → Corinthians
+- [part-3/sign-06.typ] d → 
 - [part-3/sign-06.typ] Isai . → Isa
 - [part-3/sign-06.typ] Psal . → Ps
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] that → 
+- [part-3/sign-06.typ] speech, ormeanness → speech, or meanness
 - [part-3/sign-06.typ] Isai . → Isa
 - [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] Matth . → Matthew
 - [part-3/sign-06.typ] Isai . → Isa
 - [part-3/sign-06.typ] Psal . → Ps
+- [part-3/sign-06.typ] Chap . → Chapter
 - [part-3/sign-06.typ] Psal . → Ps
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-07.typ] 'em → them
@@ -616,6 +633,7 @@
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Numb . → Num
 - [part-3/sign-12.typ] Matth . → Matthew
+- [part-3/sign-12.typ] Whore - Master → whoremaster
 - [part-3/sign-12.typ] Tit . → Titus
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
@@ -670,6 +688,8 @@
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Rom . → Romans
 - [part-3/sign-12.typ] Isai . → Isa
+- [part-3/sign-12.typ] thus → . Thus
+- [part-3/sign-12.typ] to tally → totally
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
@@ -1122,8 +1142,7 @@
 - [part-2/sign-10.typ] . → :
 - [part-2/sign-10.typ] . → :
 - [part-2/sign-10.typ] . → :
-- [part-2/sign-10.typ] . → 
-- [part-2/sign-10.typ] . → :
+- [part-2/sign-10.typ] & → and
 - [part-2/sign-10.typ] . → 
 - [part-2/sign-10.typ] . → :
 - [part-2/sign-11.typ note] . → 
@@ -2493,26 +2512,33 @@
 - Guide → guide (×4)
 - Master → master (×4)
 - Sea → sea (×4)
+- and → And (×3)
+- And → and (×2)
 - Mediator → mediator (×2)
-- and → And (×2)
 - the → The (×2)
-- 'john → 'John
 - Almighty → almighty
-- And → and
+- Burnt → burnt
+- Citizens → citizens
+- Co → co
+- Flattery → flattery
+- Glow → glow
+- Has → has
 - IN → In
 - Kings → kings
 - Mouth → mouth
+- Offerings → offerings
 - Some → some
+- Worm → worm
 - reason → Reason
 - they → They
 
 ## spelling
 
 - tho' → though (×165)
-- it's → its (×116)
-- chap → ch (×57)
+- it's → its (×115)
 - behaviour → behavior (×56)
-- thro' → through (×56)
+- chap → ch (×56)
+- thro' → through (×55)
 - 'till → till (×44)
 - favour → favor (×43)
 - honour → honor (×32)
@@ -2593,6 +2619,7 @@
 - It's → Its (×3)
 - Neighbour's → Neighbor's (×3)
 - Tho'ts → Thoughts (×3)
+- bro't → brought (×3)
 - centre → center (×3)
 - colour → color (×3)
 - compar'd → compared (×3)
@@ -2652,6 +2679,7 @@
 - favour'd → favored (×2)
 - favourite → favorite (×2)
 - favourites → favorites (×2)
+- glory → glorify (×2)
 - grosly → grossly (×2)
 - harden'd → hardened (×2)
 - heal'd → healed (×2)
@@ -2690,13 +2718,17 @@
 - weaken'd → weakened (×2)
 - wofully → woefully (×2)
 - won't → wont (×2)
+- wro't → wrought (×2)
+- 'john → John
 - 14 → 14:
+- 24 → 24.
 - 24 → 24:
 - Academicks → Academics
 - Begger's → Beggar's
 - Burthens → Burdens
 - Complaisance → complacence
 - Cynicks → Cynics
+- Feed → 'Feed
 - Forgivness → Forgiveness
 - Frith → Faith
 - Gnosticks → Gnostics
@@ -2707,18 +2739,22 @@
 - Jephtbab → Jephthah
 - Judges → Judg
 - Judoic → Judaic
+- Lambs' → lambs.'
 - Lora → Lord
 - Marvellous → Marvelous
 - Matth → Matt
+- Mehometans → Mahometans
 - Mesaick → Mosaic
 - Micah → Mic
 - Nebuchadnezzer → Nebuchadnezzar
 - PETER → Pet
+- Page → page:
 - Peeple → People
 - Pharoah → Pharaoh
 - Phythagorean → Pythagorean
 - Preceeding → Preceding
 - Pretiousness → Preciousness
+- Rehobeam → Rehoboam
 - Testamen → Testament
 - The → 'The
 - Tho' → though
@@ -2768,6 +2804,7 @@
 - darken'd → darkened
 - decay'd → decayed
 - defence → defense
+- delusions → delusions.
 - depress'd → depressed
 - desart → desert
 - desarts → deserts
@@ -2819,7 +2856,6 @@
 - garnish'd → garnished
 - gather'd → gathered
 - gave → gives
-- glory → glorify
 - gratfied → gratified
 - gull'd → gulled
 - hatch'd → hatched
@@ -2855,6 +2891,7 @@
 - least → lest
 - lengthen'd → lengthened
 - liken'd → likened
+- look → looked
 - lov'd → loved
 - manifectations → manifestations
 - mans → man's
@@ -2892,6 +2929,7 @@
 - prepar'd → prepared
 - priviledged → privileged
 - prophaness → profaneness
+- prophecy → prophesy
 - prophecy'd → prophesied
 - propos'd → proposed
 - pull'd → pulled
@@ -2950,6 +2988,7 @@
 - terror → terrors
 - theatre → theater
 - tho → the
+- tho't → thought
 - transfigur'd → transfigured
 - truely → truly
 - trustling → trusting
@@ -2975,6 +3014,7 @@
 - whimseys → whimsies
 - whisper'd → whispered
 - wilful → willful
+- witnessed → witnesses
 - wonder'd → wondered
 - wondred → wondered
 - wondring → wondering

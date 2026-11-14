@@ -87,6 +87,16 @@
          evidence="q34 (proofread, 2026-11-13): p. 67: 'my Joy might remain'"/>
     <fix pb="151" before="" tcp="Last" print="hast" after=" c"
          evidence="q84 (proofread, 2026-11-13): p. 151: 'that thou hast commanded'"/>
+    <fix pb="58" before="" tcp="sanctioning" print="sanctifying" after=";"
+         evidence="g1 (proofread, 2026-11-13): p. 58: 'divine and sanctifying'"/>
+    <fix pb="243" before="" tcp="fly" print="sly" after=" E"
+         evidence="g2 (proofread, 2026-11-13): p. 243: 'subtil sly Ends'"/>
+    <fix pb="222" before="" tcp="filleth" print="sitteth" after=" a"
+         evidence="g3 (proofread, 2026-11-13): p. 222: 'He sitteth alone,'"/>
+    <fix pb="125" before="" tcp="affecting" print="asserting" after=" a"
+         evidence="g4 (proofread, 2026-11-13): p. 125: 'declaring and asserting a Thing'"/>
+    <fix pb="209" before="" tcp="Things" print="Things" after=";"
+         evidence="g6 (proofread, 2026-11-13): p. 209: 'great Things they have'"/>
     <fix pb="79" before="" tcp="as" print="" after=" be s"
          evidence="q46 (proofread, 2026-11-13): p. 79: the print has no 'as' here"/>
     <fix pb="118" before="" tcp="as" print="" after=" and"
@@ -199,8 +209,6 @@
          evidence="c177: p. 78 (scan 89): 'And so on the contrary'"/>
     <fix pb="79" before="" tcp="" print=" exhort" after=" others"
          evidence="c182: p. 79 (scan 90): 'Constitution of Things, who exhort others to be confident'"/>
-    <fix pb="79" before="" tcp="" print=" Frames" after=" under a No"
-         evidence="c184: p. 79 (scan 90): 'when in dead Frames; under a Notion of living by Faith'"/>
     <fix pb="79" before="" tcp="art" print="are" after=" n"
          evidence="c186: p. 79 (scan 90): 'for there are no other Evidences'"/>
     <fix pb="83" before="" tcp="not" print="rot" after=" u"
