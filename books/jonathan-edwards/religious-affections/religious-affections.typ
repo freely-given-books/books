@@ -23,6 +23,17 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.125in),   // Lulu: 401-600 pages
 )
 
+// Orphans allowed (a paragraph's first line alone at a page's foot): with orphan control Typst
+// can push a marker's line onto the next page after setting its footnote. A note is kept whole
+// on its page, never broken over to the next (as Gouge).
+#set text(costs: (orphan: 0%))
+// Edwards's longest notes (whole paragraphs of Shepard and Flavel) are kept whole only while
+// they are short enough to move to the next page entire; a longer one may break.
+#show footnote.entry: it => context {
+  let h = measure(block(width: 6in - 0.75in - 1.125in, it)).height
+  if h < 2.2in { block(breakable: false, it) } else { it }
+}
+
 // the outline: every level full width, each numbered point marked by its level
 #show: outline-marks
 
@@ -50,13 +61,23 @@
 #include "chapters/typ/part-2/sign-01.typ"
 
 #metadata((part: [Part II], sections: [No Certain Sign II])) <kicker>
-#include "chapters/typ/part-2/sign-02.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/part-2/sign-02.typ"
+]
 
 #metadata((part: [Part II], sections: [No Certain Sign III])) <kicker>
 #include "chapters/typ/part-2/sign-03.typ"
 
 #metadata((part: [Part II], sections: [No Certain Sign IV])) <kicker>
-#include "chapters/typ/part-2/sign-04.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/part-2/sign-04.typ"
+]
 
 #metadata((part: [Part II], sections: [No Certain Sign V])) <kicker>
 #include "chapters/typ/part-2/sign-05.typ"
@@ -74,7 +95,12 @@
 #include "chapters/typ/part-2/sign-09.typ"
 
 #metadata((part: [Part II], sections: [No Certain Sign X])) <kicker>
-#include "chapters/typ/part-2/sign-10.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/part-2/sign-10.typ"
+]
 
 #metadata((part: [Part II], sections: [No Certain Sign XI])) <kicker>
 #include "chapters/typ/part-2/sign-11.typ"
@@ -89,7 +115,12 @@
 #include "chapters/typ/part-3/00-of-the-signs.typ"
 
 #metadata((part: [Part III], sections: [Sign I])) <kicker>
-#include "chapters/typ/part-3/sign-01.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/part-3/sign-01.typ"
+]
 
 #metadata((part: [Part III], sections: [Sign II])) <kicker>
 #include "chapters/typ/part-3/sign-02.typ"
@@ -107,7 +138,12 @@
 #include "chapters/typ/part-3/sign-06.typ"
 
 #metadata((part: [Part III], sections: [Sign VII])) <kicker>
-#include "chapters/typ/part-3/sign-07.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/part-3/sign-07.typ"
+]
 
 #metadata((part: [Part III], sections: [Sign VIII])) <kicker>
 #include "chapters/typ/part-3/sign-08.typ"
