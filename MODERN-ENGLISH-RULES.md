@@ -82,7 +82,28 @@ same text anymore").
    added (each paragraph's points counted on both sides).
 3. The editor reviews before it is built.
 
+## 7. The two editions
+
+Agreed with the editor, 2026-11-14:
+
+1. **Names: Classic and Modern English.** *Classic* is the reading edition (the author's own words,
+   spelling updated); *Modern English* is this one. Never "Original" (that is the as-printed text)
+   or "Updated" (Updated Works).
+2. **Modern English is a whole second edition**: its own EPUB, print PDF, cover, reader page and
+   print-ready files, and its own Lulu listing. Its text lives in the same book folder,
+   paragraph-matched to the Classic chapters, built from the same layout.
+3. **The website keeps one entry per book.** The book page switches between Classic and Modern
+   English (downloads, reader, Lulu link); the library card says "Also in Modern English". A
+   site-wide setting picks which edition a reader sees first; a book with only a Classic edition
+   shows its Classic.
+4. **The cover** is the Classic cover (same art and colours) with a small "MODERN ENGLISH" label in
+   the house type and a mark on the spine, so the two are told apart on a shelf.
+5. **Latin, Greek or Hebrew the author leaves untranslated** is translated in **square brackets**
+   straight after it, so our words are never taken for the author's own parentheses:
+   "Non habuit guttam, quia non dedit micam [He had not a drop, because he gave not a crumb]".
+   Where the author translates it himself, nothing is added. The Classic text is left as the
+   author wrote it.
+
 ## Still open
 
-- The edition's shape: its own EPUB, print and reader pages, and its name.
-- Latin or Greek the author leaves untranslated: translate in a note, or leave as he does.
+- The site-wide default edition.
