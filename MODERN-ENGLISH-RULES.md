@@ -82,7 +82,29 @@ same text anymore").
    added (each paragraph's points counted on both sides).
 3. The editor reviews before it is built.
 
-## 7. The two editions
+## 7. Lessons from the first book (Mortification, 2026-11-14)
+
+Two complete editorial assessments (8.4 and 8.5 of 10, "publish after a light correction pass") found
+what a draft must be checked for before it goes to the editor:
+
+1. **Reversals.** A clause recast can say the opposite ("the breaches of the old are repaired" for
+   "according to the renovations of the new are the breaches and decays of the old"). Read every
+   rebuilt sentence against Owen for its direction, not only its words.
+2. **The quotation his exposition leans on.** Where the author explains a word of the verse ("She
+   knew his voice"; "I cannot look up", proving weakness; "revenge" on sin), the quoted words keep
+   that word, the BSB adjusted (rules §5), even where the BSB rendering is good in itself.
+3. **Pronouns that change persons** when a sentence is rebuilt ("a burden to God, though only one is
+   a burden to him"; "the soul … they"); name the person ("the man himself").
+4. **The print's italics** stay on the word that replaces an italic word.
+5. **A title of the Holy Spirit** ("a Spirit of judgment") keeps its capital where the author applies
+   it to him, whatever the BSB's case.
+6. **Plural marks** for one construction everywhere ("You⁺ will say" each time Owen turns to his readers).
+7. **A quotation spliced into narration** keeps its grammar (not "David's work when 'in my heart I
+   mused'"); use indirect speech.
+8. **Capitals for God in BSB quotations** (He, His) differ from the author's prose: the front matter
+   says so.
+
+## 8. The two editions
 
 Agreed with the editor, 2026-11-14:
 
