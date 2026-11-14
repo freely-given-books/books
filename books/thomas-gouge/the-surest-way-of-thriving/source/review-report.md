@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 370 |
+| spelling | 371 |
 | punctuation | 222 |
 | spacing | 149 |
 | emendation | 146 |
@@ -532,6 +532,7 @@
 - gien → given
 - hardned → hardened
 - hearkning → hearkening
+- hel → hell
 - henefits → benefits
 - honourable → honorable
 - honoured → honored
