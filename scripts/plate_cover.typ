@@ -94,6 +94,10 @@
   trim-width: 5.5in,
   trim-height: 8.5in,
   front-only: sys.inputs.at("front-only", default: "false") == "true",
+  // the edition, for a second edition of the same book ([Modern English]): a small label
+  // under the title block and after the title on the spine; the rest of the cover as the
+  // first edition's, so the two are one book on a shelf (MODERN-ENGLISH-RULES.md)
+  edition: none,
 ) = {
   let pages = int(sys.inputs.at("pages", default: str(pages)))
   let trim-width = if "trim-width" in sys.inputs { float(sys.inputs.at("trim-width")) * 1in } else { trim-width }
@@ -162,6 +166,11 @@
             text(style: "italic", size: 11pt, fill: ink.transparentize(15%), subtitle)
           })
         }
+        if edition != none {
+          v(0.24in)
+          box(stroke: (top: 0.6pt + accent, bottom: 0.6pt + accent), inset: (x: 0.04in, y: 0.07in),
+            caps(edition, 8pt, accent))
+        }
       }))
     place(top + left, dx: front-x, dy: BLEED, box(width: trim-width, height: trim-height,
       press-tab(trim-height - SAFETY - 1.18in)))
@@ -203,8 +212,10 @@
               text(size: 6pt, fill: accent, sym.diamond.filled))
             let top-y = name-y + across * 1.25 + 0.28in
             place(top + center, dy: top-y, rotate(90deg, reflow: true,
-              box(width: foot - top-y, height: safe, align(center + horizon,
-                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)))))
+              box(width: foot - top-y, height: safe, align(center + horizon, {
+                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)
+                if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(font: SERIF, weight: "medium", size: title-size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
+              }))))
           } else {
             // a thin spine: the name runs down it from the same place, then the title
             place(top + center, dy: name-y, rotate(90deg, reflow: true,
@@ -214,6 +225,7 @@
                 text(size: 6pt, fill: accent, sym.diamond.filled)
                 h(0.12in)
                 text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)
+                if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(font: SERIF, weight: "medium", size: title-size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
               }))))
           }
         }
@@ -245,6 +257,7 @@
             text(size: size * 0.5, fill: accent, sym.diamond.filled)
             h(0.1in)
             text(font: DISPLAY, weight: "bold", size: size, fill: ink, upper(spine-title))
+            if edition != none { h(0.1in); text(size: size * 0.5, fill: accent, sym.diamond.filled); h(0.1in); text(font: SERIF, weight: "medium", size: size * 0.7, tracking: 0.1em, fill: accent, upper(edition)) }
           }))))
       }))
     }
