@@ -2,19 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 474 |
-| spelling | 426 |
-| emendation | 367 |
+| punctuation | 481 |
+| spelling | 432 |
+| emendation | 374 |
 | italic | 239 |
-| level | 192 |
-| spacing | 117 |
-| grammar | 35 |
+| level | 191 |
+| spacing | 121 |
+| grammar | 37 |
 | heading | 20 |
 | inset | 14 |
-| case | 4 |
+| case | 6 |
 | gap | 1 |
 | note moved | 1 |
 | skipped | 1 |
+| merge | 1 |
 
 ## skipped
 
@@ -78,7 +79,7 @@
 - [chapter-02.typ] . And → and
 - [chapter-02.typ] Joh . → John
 - [chapter-02.typ] . From → from
-- [chapter-02.typ] . Now → now
+- [chapter-02.typ] ; whilest → whilst
 - [chapter-02.typ] . And → and
 - [chapter-02.typ] Jam . → Jas
 - [chapter-02.typ] Jam . → Jas
@@ -141,9 +142,10 @@
 - [chapter-05.typ] our selves → ourselves
 - [chapter-05.typ] it self → itself
 - [chapter-05.typ] it self → itself
-- [chapter-05.typ] vers → v
+- [chapter-05.typ] Epist . chap . → Cor
+- [chapter-05.typ] vers → 
 - [chapter-05.typ] it self → itself
-- [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] Psal → ,
 - [chapter-05.typ] . Unto → unto
 - [chapter-05.typ] . And → and
 - [chapter-06.typ] its self → itself
@@ -210,6 +212,7 @@
 - [chapter-09.typ] lyen → lain
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] it self → itself
+- [chapter-09.typ] often - times → oftentimes
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
@@ -221,6 +224,7 @@
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] it self → itself
 - [chapter-09.typ] our selves → ourselves
+- [chapter-09.typ] it → 
 - [chapter-09.typ] thy self → thyself
 - [chapter-09.typ] thy self → thyself
 - [chapter-09.typ] thy self → thyself
@@ -233,6 +237,7 @@
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] 18 → 17
 - [chapter-10.typ] my self → myself
+- [chapter-10.typ] to → 
 - [chapter-10.typ] thy self → thyself
 - [chapter-10.typ] . To → to
 - [chapter-10.typ] Ephes . → Eph
@@ -245,6 +250,7 @@
 - [chapter-11.typ] thy self → thyself
 - [chapter-11.typ] its self → itself
 - [chapter-11.typ] thy self → thyself
+- [chapter-11.typ] 5 → Fifth
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] . As → as
 - [chapter-11.typ] it self → itself
@@ -313,6 +319,7 @@
 - [chapter-13.typ] Joh . → John
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] Hos . → Hosea
+- [chapter-13.typ] back sliding → backsliding
 - [chapter-13.typ] . 11 . 3 . When → 9:9 when
 - [chapter-13.typ] my self → myself
 - [chapter-13.typ] our selves → ourselves
@@ -329,6 +336,7 @@
 - [chapter-13.typ] thy → 
 - [chapter-13.typ] thy self → thyself
 - [chapter-13.typ] our selves → ourselves
+- [chapter-13.typ] where with → wherewith
 - [chapter-13.typ] Psal . → Ps
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] Joh . → John
@@ -396,12 +404,15 @@
 
 ## grammar
 
-- whilest → whilst (×23)
+- whilest → whilst (×22)
 - Whilest → Whilst (×5)
 - choisest → choicest (×3)
 - commiteth → committeth
+- denyest → deniest
 - encreaseth → increaseth
 - loueth → loveth
+- middest → midst
+- readyest → readiest
 - rejoyceth → rejoiceth
 
 ## punctuation
@@ -550,6 +561,7 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
+- [chapter-03.typ] . → ,
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
@@ -593,6 +605,9 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
+- [chapter-05.typ] . → Ps
+- [chapter-05.typ] . → :
+- [chapter-05.typ] . → ,
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
@@ -688,6 +703,7 @@
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
+- [chapter-10.typ] , → .
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
@@ -800,6 +816,7 @@
 - [chapter-13.typ] . → :
 - [chapter-13.typ] & → and
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
 - [chapter-14.typ note] . → 
 - [chapter-14.typ note] . → :
 - [chapter-14.typ note] . → :
@@ -868,6 +885,7 @@
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
+- [chapter-14.typ] , → )
 - [chapter-14.typ] . → :
 - [chapter-14.typ] . → 
 - [chapter-14.typ] . → :
@@ -883,9 +901,10 @@
 
 ## case
 
+- To → to (×2)
+- Are → are
 - But → but
 - Of → of
-- To → to
 - holy → Holy
 
 ## spelling
@@ -909,7 +928,6 @@
 - meerly → merely (×5)
 - Endeavour → Endeavor (×4)
 - ayms → aims (×4)
-- chap → ch (×4)
 - labouring → laboring (×4)
 - succour → succor (×4)
 - Enquiry → Inquiry (×3)
@@ -919,10 +937,12 @@
 - Terrour → Terror (×3)
 - aym → aim (×3)
 - battel → battle (×3)
+- chap → ch (×3)
 - enquired → inquired (×3)
 - honour → honor (×3)
 - meer → mere (×3)
 - multiplyed → multiplied (×3)
+- staid → stayed (×3)
 - terrour → terror (×3)
 - v → vv (×3)
 - Dyet → Diet (×2)
@@ -951,6 +971,8 @@
 - surprizal → surprisal (×2)
 - weakning → weakening (×2)
 - woful → woeful (×2)
+- 1 → 1.
+- 2 → 2.
 - 5 → 5:
 - Aym → Aim
 - Ayr → Air
@@ -959,6 +981,7 @@
 - Charriot → Chariot
 - Colours → Colors
 - Companyes → Companies
+- Contention → Contentation
 - Councel → Counsel
 - Coveteousness → Covetousness
 - Cryes → Cries
@@ -998,6 +1021,7 @@
 - ballance → balance
 - battail → battle
 - breath → breathe
+- breaths → breathes
 - burthen → burden
 - c → ch
 - carryed → carried
@@ -1051,6 +1075,7 @@
 - lives → lines
 - lyed → lied
 - mannage → manage
+- morrow → tomorrow
 - murthers → murders
 - navar → navare
 - nayled → nailed
@@ -1076,12 +1101,11 @@
 - releived → relieved
 - revellings → revelings
 - seise → seize
+- self → itself
 - self → thyself
 - sences → senses
 - skilful → skillful
 - slying → flying
-- soiled → foiled
-- soils → foils
 - soveraign → sovereign
 - soveraigne → sovereign
 - soveraignty → sovereignty

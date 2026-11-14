@@ -57,6 +57,4 @@ Only then will it be well with men, when they have an equal regard for #emph[all
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[He who has his senses trained to distinguish good from evil, having grown in judgment and experience by constantly observing the ways of Christ’s dealings with the soul, the manner of the Spirit’s workings, and the effects he usually produces, is the best judge for himself in this case.]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[2\. If the word of the Lord does your#super[+] souls good, he speaks it: if it humbles, if it cleanses, and if it serves the ends for which promises are given, namely, 1. to endear, 2. to cleanse,]]
-
-#pad(left: 4.0em)[#par(first-line-indent: (amount: 12pt, all: true))[3\. To melt and bind to obedience, 4. to self-emptying, and so on. But this is not my business, and I will not turn aside any further in pursuing this direction. Without observing it, sin will gain great advantages toward hardening the heart.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[2\. If the word of the Lord does your#super[+] souls good, he speaks it: if it humbles, if it cleanses, and if it serves the ends for which promises are given, namely, 1. to endear, 2. to cleanse, 3. to melt and bind to obedience, 4. to self-emptying, and so on. But this is not my business, and I will not turn aside any further in pursuing this direction. Without observing it, sin will gain great advantages toward hardening the heart.]]

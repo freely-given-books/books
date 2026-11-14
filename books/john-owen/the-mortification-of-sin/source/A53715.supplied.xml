@@ -47,5 +47,19 @@
          evidence="p. 134 (scan 140): the line's start lies under a mended tear; the TCP's '••Te' can only be 'The' (Goold 'The apostle tells us'), its gap filled empty; read as far as the damage allows (medium)"/>
     <fix pb="72" before="" tcp="thempunc;" print="them," after=""
          evidence="p. 72 (scan 78): 'It deludes them, hardens them'; the TCP keyed a stray 'punc;'"/>
+    <fix pb="15" before="but sin " tcp="soils, or is soiled" print="foils, or is foiled" after="; prevails"
+         evidence="p. 15: Kraken and Tesseract 'fin foils, or is foiled'; long s keyed for f (full read, 2026-11-15)"/>
+    <fix pb="35" before="" tcp="prositeth" print="profiteth" after=""
+         evidence="p. 35: both OCRs 'profiteth' (Isa 55:2); s keyed for f (full read)"/>
+    <fix pb="37" before="" tcp="sayes, God." print="sayes God." after=" The use"
+         evidence="p. 37: Kraken 'fayes God. The ufe of means'; no comma in the print (full read)"/>
+    <fix pb="40" before="" tcp="Consolation,," print="Consolation," after=""
+         evidence="p. 40: Kraken 'Thoughts of Consolation, Sin quickly scatters'; one comma (full read)"/>
+    <fix pb="43" before="practical " tcp="Cases,," print="Cases," after=""
+         evidence="p. 43: both OCRs 'practical Cases, that present'; one comma (full read)"/>
+    <fix pb="99" before=" " tcp="should, say" print="should say" after=" that he"
+         evidence="p. 99: both OCRs 'fhould fay that he'; no comma (full read)"/>
+    <fix pb="125" before="" tcp=" he" print=" He" after=" watch"
+         evidence="p. 125: Kraken 'from mine Iniquity. He watch-'; capital in the print (full read)"/>
   </corrections>
 </supplement>
