@@ -12,7 +12,7 @@ Though these proofs of Scripture are sufficient to convince any Christian of the
 
 The fame Father in his 25 sermon #emph[de verbis Domini,] brings in Christ speaking thus, #emph[Da mihi ex eo quod dedi tibi, habuisti me largitorem, fac me debitorem] etc. Give to me of that which I have given to thee; I have been thy benefactor, make me thy debtor, become an usurer to me, and I will pay thee with advantage. And in one of his epistles, #emph[Da modicum ut recipias centuplum.] Give a little, and thou shalt receive an hundred fold.
 
-#emph[Da pauperi ut detur tibi, quicquid pauperi dederis tu habebis, quod non dederis, habebit alter.] Give to the poor, and it shall be given to thee. Whatsoever thou givest to the poor, thou securest to thyself▪ what thou withholdest, another shall possess. #emph[Pet. Raven Serm. Quodam.]
+#emph[Da pauperi ut detur tibi, quicquid pauperi dederis tu habebis, quod non dederis, habebit alter.] Give to the poor, and it shall be given to thee. Whatsoever thou givest to the poor, thou securest to thyself: what thou withholdest, another shall possess. #emph[Pet. Raven Serm. Quodam.]
 
 #emph[Deus his solvit hoc faenus, scilicet semel in terra, Secundo in caelo. In terra a enim elecmosynariis multiplicat opes, in caelo autem longe plura, et major a rependit.] God twice pays what's lent to him, once in this world, by multiplying the wealth of alms-givers; and then in heaven he pays it over and over. #emph[Cornelius a lapid. In] Prov 19:17.
 

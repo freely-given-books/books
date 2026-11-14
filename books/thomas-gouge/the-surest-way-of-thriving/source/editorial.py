@@ -34,21 +34,21 @@ GAP_FIXES = _runpy.run_path(str(Path(__file__).parent / "gap_fixes.py"))["GAP_FI
 
 # Each file: its title, in Gouge's words where he gives a head, and the printed opening it starts at.
 FILES = [
-    ("01-the-text-opened.typ", "The Text Opened", None),
-    ("02-the-least-of-his-saints.typ", "God Takes Notice of the Least of His Saints",
+    ("ch01-the-text-opened.typ", "The Text Opened", None),
+    ("ch02-the-least-of-his-saints.typ", "God Takes Notice of the Least of His Saints",
      "The words thus explained, afford unto us two"),
-    ("03-the-main-point.typ", "The Least Kindness Shall Not Lose Its Reward",
+    ("ch03-the-main-point.typ", "The Least Kindness Shall Not Lose Its Reward",
      "And thus I come to the Second and main point"),
-    ("04-proofs-from-scripture.typ", "Proofs from Scripture", "1. For Scripture proofes"),
-    ("05-testimonies.typ", "The Testimonies of Divines", "Though these proofes of Scripture are sufficient"),
-    ("06-examples.typ", "Examples out of Scripture and History", "These two Cautions premised"),
-    ("07-examples-of-our-time.typ", "Examples of Our Own Time", "Daniel Waldow Esquire"),
-    ("08-the-reasons.typ", "The Reasons", "The Point being thus proved by Scriptures and Examples, Come we now"),
-    ("09-reproof.typ", "A Use of Reproof", "1. Vse of Reproof"),
-    ("10-exhortation.typ", "A Use of Exhortation", "2. Use of Exhortation"),
-    ("11-directions.typ", "Directions for Giving", "I told you before that I am willing"),
-    ("12-means.typ", "The Means of This Grace", "Having given you some Directions for the manner"),
-    ("13-ministers.typ", "A Word for the Ministers", "A word or two for my Brethrens sake"),
+    ("ch04-proofs-from-scripture.typ", "Proofs from Scripture", "1. For Scripture proofes"),
+    ("ch05-testimonies.typ", "The Testimonies of Divines", "Though these proofes of Scripture are sufficient"),
+    ("ch06-examples.typ", "Examples out of Scripture and History", "These two Cautions premised"),
+    ("ch07-examples-of-our-time.typ", "Examples of Our Own Time", "Daniel Waldow Esquire"),
+    ("ch08-the-reasons.typ", "The Reasons", "The Point being thus proved by Scriptures and Examples, Come we now"),
+    ("ch09-reproof.typ", "A Use of Reproof", "1. Vse of Reproof"),
+    ("ch10-exhortation.typ", "A Use of Exhortation", "2. Use of Exhortation"),
+    ("ch11-directions.typ", "Directions for Giving", "I told you before that I am willing"),
+    ("ch12-means.typ", "The Means of This Grace", "Having given you some Directions for the manner"),
+    ("ch13-ministers.typ", "A Word for the Ministers", "A word or two for my Brethrens sake"),
 ]
 
 
@@ -87,7 +87,7 @@ def LAYOUT(root):
     for k, (name, title, _) in enumerate(FILES):
         files.append({"file": name, "title": title,
                       "parts": blocks[at[k]:at[k + 1] if k + 1 < len(at) else len(blocks)]})
-    files.append({"file": "14-application.typ", "title": "The Application", "parts": layout.sections(part)})
+    files.append({"file": "ch14-application.typ", "title": "The Application", "parts": layout.sections(part)})
     return files
 
 

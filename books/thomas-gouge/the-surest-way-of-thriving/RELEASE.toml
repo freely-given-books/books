@@ -1,0 +1,17 @@
+# Release record of The Surest and Safest Way of Thriving: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, thomas-gouge/the-surest-way-of-thriving/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Thomas Gouge's The Surest and Safest Way of Thriving (1673), on giving to the poor and to ministers, in modern spelling from the EEBO-TCP transcription of the first edition; its Greek restored from the 1676 printing."
+
+[[source]]
+file = "source/A41657.tcp.xml"
+description = "EEBO-TCP A41657: The Surest & Safest Way of Thriving, or, A Conviction of That Grand Mistake in Many, That What Is Given to the Poor Is a Loss to Their Estate (London, for William Rawlins, 1673)"
+url = "https://github.com/textcreationpartnership/A41657"
+sha256 = "8e82bc0f604502a0e3d611f54ce4b2b3ccb45a97bb27ebe7525fcc8a32ada69e"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1676 printing (London, Nevil Simmons), archive.org scan: the Greek the TCP left out, the stops it could not read, and the print's numbering, read on its page images; local OCR collated with the TCP"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_the-surest-safest-way-_gouge-thomas_1676"
