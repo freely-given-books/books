@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Words the TCP transcription misread or left out, corrected as the source is read
+  (colophon/sources.py); the TCP file itself is untouched. No scan of the 1673 printing is to be
+  had: each is a keying slip (not a word, or nonsense where it stands) that the 1676 printing,
+  set from 1673, reads as the sense requires (archive.org scan, work/surest-way/scan-1676; read
+  with Kraken and Tesseract, collated, and checked by sense). Variants of the 1676 printing are
+  not taken. Made by work/surest-way/slips/assemble.py; edit there.
+
+  fix/@pb: the printed page. before + tcp + after: the transcription's text there (in one text
+  node; any white space matches any white space), found exactly once on that page. print: what
+  is printed in place of tcp (empty tcp: words the transcription left out). evidence: kept in a
+  comment in the TEI.
+-->
+<supplement xmlns="http://www.tei-c.org/ns/1.0">
+  <corrections xml:id="tcp-corrections">
+    <desc>Words the TCP transcription misread or left out, corrected by sense with the 1676
+    printing (Kraken and Tesseract readings of its page images).</desc>
+    <fix pb="2" before="" tcp="of" print="or" after=" u"
+         evidence="swap0 (collation, 2026-11-14): 1676 reads 'relief, or upon His'"/>
+    <fix pb="4" before="" tcp="" print=" the" after="&#10;Lord,"
+         evidence="drop1 (collation, 2026-11-14): 1676 reads 'eyes of the Lord, but'"/>
+    <fix pb="5" before="" tcp="" print=" whom" after=" in the&#10;f"
+         evidence="drop2 (collation, 2026-11-14): 1676 reads 'than such whom in the foregoing'"/>
+    <fix pb="7" before="" tcp="expresseh" print="expresseth" after=","
+         evidence="typo3 (collation, 2026-11-14): 1676 reads 'Psalmist expresseth'"/>
+    <fix pb="7" before="" tcp="me" print="we" after=" f"
+         evidence="swap4 (collation, 2026-11-14): 1676 reads 'What need we fear'"/>
+    <fix pb="11" before="" tcp="" print=" we" after=" have"
+         evidence="drop5 (collation, 2026-11-14): 1676 reads 'Christians, and we have need'"/>
+    <fix pb="12" before="" tcp="Returus" print="Returns" after=","
+         evidence="typo6 (collation, 2026-11-14): 1676 reads 'the way of Returns'"/>
+    <fix pb="13" before="" tcp="tnrning thy sace" print="turning thy face" after=" f"
+         evidence="typo7 (collation, 2026-11-14): 1676 reads 'by turning thy face'"/>
+    <fix pb="6" before="" tcp="gifs" print="gifts" after=" o"
+         evidence="typo9 (collation, 2026-11-14): 1676 reads 'those gifts or graces'"/>
+    <fix pb="15" before="" tcp="is" print="it" after=" c"
+         evidence="swap10 (collation, 2026-11-14): 1676 reads 'that it can be'"/>
+    <fix pb="16" before="" tcp="contuplum" print="centuplum" after=" a"
+         evidence="typo11 (collation, 2026-11-14): 1676 reads 'quia centuplum accipiunt'"/>
+    <fix pb="22" before="" tcp="that" print="they" after=" g"
+         evidence="swap12 (collation, 2026-11-14): 1676 reads 'before they got home'"/>
+    <fix pb="30" before="" tcp="mad" print="read" after=","
+         evidence="typo13 (collation, 2026-11-14): 1676 reads 'encouraged to read'"/>
+    <fix pb="27" before="" tcp="Nothwithstanding" print="Notwithstanding" after=" a"
+         evidence="typo14 (collation, 2026-11-14): 1676 reads 'Notwithstanding all which'"/>
+    <fix pb="30" before="" tcp="Farriugdon" print="Faringdon" after=""
+         evidence="typo15 (collation, 2026-11-14): 1676 reads 'belonging to Faringdon'"/>
+    <fix pb="31" before="" tcp="annexrd" print="annexed" after=","
+         evidence="typo16 (collation, 2026-11-14): 1676 reads 'thereto annexed'"/>
+    <fix pb="31" before="" tcp="hononred" print="honoured" after=" F"
+         evidence="typo17 (collation, 2026-11-14): 1676 reads 'and honoured Father'"/>
+    <fix pb="32" before="g" tcp="" print=" to" after=" hi"
+         evidence="drop18 (collation, 2026-11-14): 1676 reads 'rendrest to every man according to his'"/>
+    <fix pb="32" before="" tcp="sufficent" print="sufficient" after=" t"
+         evidence="typo19 (collation, 2026-11-14): 1676 reads 'abundantly sufficient to evidence'"/>
+    <fix pb="28" before="" tcp="an" print="" after=" bu"
+         evidence="double21 (collation, 2026-11-14): 1676 reads 'or but an'"/>
+    <fix pb="29" before="" tcp="or" print="of" after=" their t"
+         evidence="swap22 (collation, 2026-11-14): 1676 reads 'partake of the crums of their'"/>
+    <fix pb="30" before="" tcp="thee" print="thy" after=" m"
+         evidence="swap23 (collation, 2026-11-14): 1676 reads 'excuse thy mercy'"/>
+    <fix pb="32" before="efer" tcp="" print=" to them who" after=""
+         evidence="drop24 (collation, 2026-11-14): 1676 reads 'some refer to them who being relieved'"/>
+    <fix pb="36" before="" tcp="you" print="your" after=" f"
+         evidence="swap25 (collation, 2026-11-14): 1676 reads 'provide for your family'"/>
+    <fix pb="53" before="" tcp="dearests" print="dearest" after="&#10;f"
+         evidence="swap26 (collation, 2026-11-14): 1676 reads 'our dearest friends'"/>
+    <fix pb="53" before="" tcp="tò" print="to" after=" h"
+         evidence="typo27 (collation, 2026-11-14): 1676 reads 'be said to have'"/>
+    <fix pb="56" before="" tcp="appoved" print="approved" after=" o"
+         evidence="typo28 (collation, 2026-11-14): 1676 reads 'accepted and approved of'"/>
+  </corrections>
+</supplement>

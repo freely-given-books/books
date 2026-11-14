@@ -11,7 +11,7 @@
 
 #v(0.8em)
 
-#smallcaps[The] troubles whereunto God bringeth his ministers and people, though they be many and great, yet are they not more, and greater, then the comforts which he affordeth unto them, to support and encourage them in their troubles. Instance this chapter, and the sermon of Christ therein recorded, concerning those sore trials whereunto his church and children should be brought. As any kind of affliction is foretold, a proper and peculiar consolation is usually annexed. Therefore to establish the hearts of his suffering servants, and to encourage their succorers, he closes up his sermon with the words of the text, wherein he declareth not only that high account which he had of his ministers, and people themselves, but also of them who should yield any relief, of upon his account show kindness to them, assuring them; #emph[that he who receiveth a prophet in the name of a prophet, should receive a prophets reward.] And #emph[he that receiveth a righteous man in the name of a righteous man, should receive a righteous mans reward.]
+#smallcaps[The] troubles whereunto God bringeth his ministers and people, though they be many and great, yet are they not more, and greater, then the comforts which he affordeth unto them, to support and encourage them in their troubles. Instance this chapter, and the sermon of Christ therein recorded, concerning those sore trials whereunto his church and children should be brought. As any kind of affliction is foretold, a proper and peculiar consolation is usually annexed. Therefore to establish the hearts of his suffering servants, and to encourage their succorers, he closes up his sermon with the words of the text, wherein he declareth not only that high account which he had of his ministers, and people themselves, but also of them who should yield any relief, or upon his account show kindness to them, assuring them; #emph[that he who receiveth a prophet in the name of a prophet, should receive a prophets reward.] And #emph[he that receiveth a righteous man in the name of a righteous man, should receive a righteous mans reward.]
 
 The words in brief contain, A #emph[Declaration of that great benefit, which they bring to themselves, who afford any relief, and succor to ministers, or other saints;] teaching, #emph[that there is no such way to fill our treasures, as by emptying them for God.]
 
@@ -69,7 +69,7 @@ These words are added by our Savior to the former to anticipate some objections,
 
 1\. #emph[Obi.] May be thus made, these preachers and professors of the Gospel are but mean persons, and little in esteem, what great reward can be expected for entertaining them?
 
-#emph[A.] As little as they be, be they as inconsiderable and contemptible as the proud world make them, yet are they not so little in the eyes of Lord, but that he will reward all such as are friendly to them.
+#emph[A.] As little as they be, be they as inconsiderable and contemptible as the proud world make them, yet are they not so little in the eyes of the Lord, but that he will reward all such as are friendly to them.
 
 2\. #emph[Obi.] I myself am but poor, and can do but little for them.
 
@@ -77,7 +77,7 @@ These words are added by our Savior to the former to anticipate some objections,
 
 The greatest difficulty in the words is who are here meant by #emph[little ones,] for whose sake the reward is promised.
 
-By #emph[little ones,] our Savior meaneth no other than such in the foregoing verse, he had styled #emph[prophets] and #emph[righteous ones.]
+By #emph[little ones,] our Savior meaneth no other than such whom in the foregoing verse, he had styled #emph[prophets] and #emph[righteous ones.]
 
 They are called #emph[Little ones] in two respects.
 
@@ -96,4 +96,4 @@ They are called #emph[Little ones] in two respects.
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[But though all the servants of God are on the the forementioned account #emph[little ones,] yet there are some among them less than others, #emph[as in regard of their offices,] and stations in the church, some are in higher, others in lower offices, some are in office, others not; so also #emph[in regard of their parts and gifts,] and graces, some are strong, and others are weak; some the chief, others the least of saints: some as the head, and others but as the finger, or the foot: and 'tis probable the text hath the most special respect (and the emphasis of it is the greater) to the least of all these little ones, and so the expression is Matt 25:40. In as much as ye have done it unto one #emph[of the least] of these my brethren ye have done it unto me.]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[This I the rather take notice of it to give an hint to Christians in their charitable distributions to have an eye to such ministers or Christians as are more obscure, and less considerable in the world. Possibly when those of greater worth and remark may taste deeply of their bounty, every one almost hath a kindness for them: in the mean time there may be some poor hidden ones, whose worth is less, but their wants are greater, who being low in those gifs or graces which would commend them to the more public notice, are almost buried in forgetfulness. Its true that by how much the more eminent the person is that is relieved (#emph[caeteris paribus]) by so much the more excellent the work: yet special care should be taken that the more obscure and least deserving among all that belong to God be not forgotten.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[This I the rather take notice of it to give an hint to Christians in their charitable distributions to have an eye to such ministers or Christians as are more obscure, and less considerable in the world. Possibly when those of greater worth and remark may taste deeply of their bounty, every one almost hath a kindness for them: in the mean time there may be some poor hidden ones, whose worth is less, but their wants are greater, who being low in those gifts or graces which would commend them to the more public notice, are almost buried in forgetfulness. Its true that by how much the more eminent the person is that is relieved (#emph[caeteris paribus]) by so much the more excellent the work: yet special care should be taken that the more obscure and least deserving among all that belong to God be not forgotten.]]
