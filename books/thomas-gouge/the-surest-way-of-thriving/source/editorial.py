@@ -47,7 +47,7 @@ FILES = [
     ("09-reproof.typ", "A Use of Reproof", "1. Vse of Reproof"),
     ("10-exhortation.typ", "A Use of Exhortation", "2. Use of Exhortation"),
     ("11-directions.typ", "Directions for Giving", "I told you before that I am willing"),
-    ("12-means.typ", "Means for the Better Managing of It", "2. For the Means tending"),
+    ("12-means.typ", "The Means of This Grace", "Having given you some Directions for the manner"),
     ("13-ministers.typ", "A Word for the Ministers", "A word or two for my Brethrens sake"),
 ]
 

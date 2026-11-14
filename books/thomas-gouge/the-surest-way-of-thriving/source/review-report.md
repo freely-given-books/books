@@ -5,7 +5,8 @@
 | spelling | 306 |
 | punctuation | 218 |
 | spacing | 146 |
-| emendation | 133 |
+| emendation | 135 |
+| level | 93 |
 | italic | 87 |
 | grammar | 9 |
 | case | 2 |
@@ -19,6 +20,7 @@
 
 - [01-the-text-opened.typ] Math . → Matt
 - [01-the-text-opened.typ] Joh . → John
+- [01-the-text-opened.typ] 4 → 3
 - [01-the-text-opened.typ] my self → myself
 - [01-the-text-opened.typ] Joh . → John
 - [01-the-text-opened.typ] Psal . → Ps
@@ -119,11 +121,11 @@
 - [11-directions.typ] any thing → anything
 - [11-directions.typ] your - selvs → yourselves
 - [11-directions.typ] Chro . → Chronicles
-- [11-directions.typ] thy self → thyself
-- [11-directions.typ] Luk . → Luke
-- [11-directions.typ] Luk . → Luke
-- [11-directions.typ] your selves → yourselves
-- [11-directions.typ] my self → myself
+- [12-means.typ] thy self → thyself
+- [12-means.typ] Luk . → Luke
+- [12-means.typ] Luk . → Luke
+- [12-means.typ] your selves → yourselves
+- [12-means.typ] my self → myself
 - [12-means.typ] any thing → anything
 - [12-means.typ] Thes . → Thess
 - [12-means.typ] ' → 
@@ -132,6 +134,7 @@
 - [12-means.typ] Psal . → Ps
 - [12-means.typ] any thing → anything
 - [12-means.typ] Matth . → Matthew
+- [13-ministers.typ] 17 → 1
 - [13-ministers.typ] King . → Kgs
 - [13-ministers.typ] King . → Kgs
 - [13-ministers.typ] King . → Kgs
@@ -316,13 +319,13 @@
 - [11-directions.typ] . → :
 - [11-directions.typ] . → 
 - [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → 
-- [11-directions.typ] . → 
-- [11-directions.typ] . → :
-- [11-directions.typ] . → :
-- [11-directions.typ] . → :
+- [12-means.typ] . → 
+- [12-means.typ] . → :
+- [12-means.typ] . → 
+- [12-means.typ] . → 
+- [12-means.typ] . → :
+- [12-means.typ] . → :
+- [12-means.typ] . → :
 - [12-means.typ] . → 
 - [12-means.typ] . → :
 - [12-means.typ] . → 
