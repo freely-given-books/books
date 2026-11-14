@@ -5,7 +5,7 @@
   #text(size: 0.9em)[Indwelling sin a law. In what sense it is so called. What kind of law it is. An inward effective principle called a law. The power of sin shown from this.]
 ]
 
-#smallcaps[What] we have set out to consider is the #emph[power and efficacy of indwelling sin]. There are many ways in which it may be shown. I will begin with the #emph[name] given to it in the place mentioned before: it is a #emph[law]. “I find this law,” says the apostle. It is called so because of its power and efficacy. In the same way the principle of grace in believers is called the #emph[law of the Spirit of life], as we observed before (Rom 8:3), which is “the surpassing greatness of the power of God in them” (Eph 1:19). Where there is a #emph[law], there is power.
+#smallcaps[What] we have set out to consider is the #emph[power and efficacy of indwelling sin]. There are many ways in which it may be shown. I will begin with the #emph[name] given to it in the place mentioned before: it is a #emph[law]. “I find this law,” says the apostle. It is called so because of its power and efficacy. In the same way the principle of grace in believers is called the #emph[law of the Spirit of life], as we observed before (Rom 8:2), which is “the surpassing greatness of the power of God in them” (Eph 1:19). Where there is a #emph[law], there is power.
 
 We will therefore show both what belongs to it as a #emph[law] in general, and also what is peculiar or proper to it as being #emph[such a law] as we have described.
 

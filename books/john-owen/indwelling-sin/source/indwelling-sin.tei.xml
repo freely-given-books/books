@@ -94,7 +94,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-09" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-14" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2005-03</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -678,7 +678,7 @@ the place before mentioned, it is a <hi>Law; I find a
 Law,</hi> saith the Apostle. It is because of its power
 and efficacy that it is so called; so is also the prin<g ref="char:EOLhyphen"/>ciple
 of grace in Believers the <hi>Law of the spirit of
-life,</hi> as we observed before, <hi ana="#print-only" change="#review">Rom<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 8<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3. <choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> is the
+life,</hi> as we observed before, <hi ana="#print-only" change="#review">Rom<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 8<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>3</orig><reg resp="#editor" type="emendation">2</reg></choice>. <choice><orig>which</orig><reg resp="#auto" type="spelling">Which</reg></choice> is the
 <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">exceeding greatness of the power of God in them,</hi>
 <choice><orig>Ephes.</orig><reg resp="#editor" type="reference">Eph</reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>19. Where there is a <hi>Law</hi>
                <choice><orig><g ref="char:punc">▪</g></orig><reg resp="#editor" type="punctuation">,</reg></choice> there is power.</p>
@@ -3714,7 +3714,7 @@ away the power of consideration, and all that
 influence that it ought to have upon the soul. Hence
 sinners that are wholly under the power of this
 rage, are said, <hi>to run upon God and the thick bosses
-of his buckler,</hi> Job 16<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>21. That wherein he is
+of his buckler,</hi> Job <choice><orig>16</orig><reg resp="#editor" type="emendation">15</reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>21</orig><reg resp="#editor" type="emendation">26</reg></choice>. That wherein he is
 armed for their utter <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice>. They despise the ut<g ref="char:EOLhyphen"/>most
 that he can do to them, being secretly re<g ref="char:EOLhyphen"/>solved
 to accomplish their lusts though it cost
@@ -3868,7 +3868,7 @@ consider his <hi>heart</hi> on the account of this Law of Sin,
 it is <hi>crafty</hi> and deceitful above all things, <hi>They are
 wise to do evil,</hi> saith the Prophet, but to do good
 they know not, <hi ana="#print-only" change="#review">Jer<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22. To the same purpose
-speaks the Apostle, <choice><orig>Ephes.</orig><reg resp="#editor" type="reference">Eph</reg></choice> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>2. <hi>The old man is
+speaks the Apostle, <choice><orig>Ephes.</orig><reg resp="#editor" type="emendation">Eph</reg></choice> 4<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>2</orig><reg resp="#editor" type="emendation">22</reg></choice>. <hi>The old man is
 corrupt according to deceitful lusts.</hi> Every lust,
 which is a branch of this Law of Sin, is <hi>deceitful;</hi>
 and where there is <choice><orig>poyson</orig><reg resp="#editor" type="spelling">poison</reg></choice> in every stream, the
@@ -4862,7 +4862,7 @@ than when it is most severely pursued. Lusts in men
 are compared to hurtful and <hi>noisome beasts,</hi> or
 men themselves are so because of their lusts,
 <pb n="129" facs="tcp:42900:69"/>
-               <hi ana="#print-only" change="#review">Isa<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 11<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>4, 5. Now such beasts use themselves to
+               <hi ana="#print-only" change="#review">Isa<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 11<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>4<choice><orig>,</orig><reg resp="#editor" type="punctuation">–</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>5</orig><reg resp="#editor" type="emendation">6</reg></choice>. Now such beasts use themselves to
 their dens and coverts, and never discover them<g ref="char:EOLhyphen"/>selves,
 at least so much in their proper nature and
 rage, as when they are most <hi>earnestly pursued.</hi> And
@@ -5744,7 +5744,7 @@ unto this duty. The principal discharge of its trust
 in this matter is expressed by <hi>watching,</hi> which is
 the great Caution that the Lord <hi>Jesus</hi> gave unto his
 Disciples in reference unto all their dangers from
-sin and Satan, <hi ana="#print-only" change="#review">Mark</hi> 14<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>37. <hi>I say unto all watch.</hi>
+sin and Satan, <hi ana="#print-only" change="#review">Mark</hi> <choice><orig>14</orig><reg resp="#editor" type="emendation">13</reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>37. <hi>I say unto all watch.</hi>
 That is, use your utmost diligence and circumspe<g ref="char:EOLhyphen"/>ction,
 that you be not surprised and entangled with
 temptations. It is called also <hi>consideration; Consi<g ref="char:EOLhyphen"/>der
@@ -5960,7 +5960,7 @@ lusts. And it is so <hi>in part</hi> where the Affections are
 <hi>in part</hi> entangled with sin, and begin to turn aside
 unto it. <hi>John</hi> tells us that the things that are in the
 world, are the <hi>lust of the flesh, the lust of the eyes,
-and the pride of life,</hi> 1 Ep. 2. 14. <hi>The lust of the
+and the pride of life,</hi> 1 <choice><orig>Ep.</orig><reg resp="#editor" type="emendation">John</reg></choice> 2<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>14</orig><reg resp="#editor" type="emendation">16</reg></choice>. <hi>The lust of the
 Eyes is</hi> that which by them is conveyed unto the
 soul. Now it is not the <hi>bodily sense</hi> of <hi>seeing,</hi> but
 the fixing of the imagination from that sense on
@@ -6990,7 +6990,7 @@ which put a period to the lives of men. Men living
 forth the sins they had conceived; thereupon the
 <pb n="190" facs="tcp:42900:100"/>
 earth was filled with violence, injustice, and rapine,
-and all <hi>flesh corrupted their <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 6<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>12, 19. To
+and all <hi>flesh corrupted their <choice><orig>waies</orig><reg resp="#auto" type="spelling">ways</reg></choice>,</hi> Gen<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice> 6<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>12, <choice><orig>19</orig><reg resp="#editor" type="emendation">13</reg></choice>. To
 prevent the like inundation of sin, God shortens
 the course of the pilgrimage of men in the earth,
 and reduces their lives to a much shorter measure.
@@ -7242,7 +7242,7 @@ intend, only he raiseth up an opposite power to
 coerce, forbid, and restrain them. An <supplied reason="illegible" cert="high" resp="#editor">In<!-- Instance: 1668 Kraken --><gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
                </gap></supplied>stance here<g ref="char:EOLhyphen"/>of
-we have, 1 <hi ana="#print-only" change="#review">Sam<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 14<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>35. <hi>Saul</hi> had sworn that
+we have, 1 <hi ana="#print-only" change="#review">Sam<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 14<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>35</orig><reg resp="#editor" type="emendation">45</reg></choice>. <hi>Saul</hi> had sworn that
 <hi>Jonathan</hi> should be put to death, and as far as ap<g ref="char:EOLhyphen"/>pears
 went on resolutely to have slain him; God
 <pb n="197" facs="tcp:42900:103"/>
@@ -8407,7 +8407,7 @@ them? <choice><orig>are</orig><reg resp="#auto" type="spelling">Are</reg></choic
 be found amongst them? May it not be said,
 <hi>Gray hairs are here and there upon them, and they
 perceive it not?</hi> Yea, are not men ready to say with
-them of old, <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">What a weariness is it?</hi> Mal<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3.
+them of old, <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">What a weariness is it?</hi> Mal<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 1<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>3</orig><reg resp="#editor" type="emendation">13</reg></choice>.
 It is even a <hi><choice><orig>burthen</orig><reg resp="#editor" type="spelling">burden</reg></choice> and a weariness</hi> to be tied up
 to the observation of all these Ordinances. Wha<supplied reason="illegible" cert="high" resp="#editor">t<!-- context; book has 'what' 272x; OCR read {'kraken': ['wha'], 'tesseract': []} --><gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -9912,7 +9912,7 @@ report?</hi> which the Apostle interprets of the <hi>pau<g ref="char:EOLhyphen"/
 of Believers, <hi ana="#print-only" change="#review"><choice><orig>Joh.</orig><reg resp="#editor" type="reference">John</reg></choice></hi> 12<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>38. <choice><orig>our</orig><reg resp="#auto" type="spelling">Our</reg></choice> <choice><orig>Saviour</orig><reg resp="#editor" type="spelling">Savior</reg></choice> Christ
 himself tells us, that <hi>many are called,</hi> the Word is
 preached unto many, but <hi>few are chosen.</hi> And so
-the Church complains of its number, <hi ana="#print-only" change="#review">Mic<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 6<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1.
+the Church complains of its number, <hi ana="#print-only" change="#review">Mic<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> <choice><orig>6</orig><reg resp="#editor" type="emendation"></reg></choice><choice><orig>.</orig><reg resp="#editor" type="punctuation">7:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>1.
 <hi>Few</hi> there be who enter the <hi>narrow gate,</hi> daily
 experience confirms this <choice><orig>woful</orig><reg resp="#editor" type="spelling">woeful</reg></choice> observation. How
 many Villages, Parishes, yea, Towns may we go
@@ -9984,7 +9984,7 @@ And,</p>
 from the <hi>command of God,</hi> who hath the Su<g ref="char:EOLhyphen"/>preme
 Authority over us, but also <choice><orig>indispensibly</orig><reg resp="#editor" type="spelling">indispensably</reg></choice> so
 for the avoidance of <hi>eternal <choice><orig>ruine</orig><reg resp="#auto" type="spelling">ruin</reg></choice></hi> of body and
-soul, <hi ana="#print-only" change="#review"><choice><orig>Mat.</orig><reg resp="#editor" type="reference">Matt</reg></choice></hi> 16<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>16. It is constantly proposed under
+soul, <hi ana="#print-only" change="#review"><choice><orig>Mat.</orig><reg resp="#editor" type="emendation">Mark</reg></choice></hi> 16<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>16. It is constantly proposed under
 these terms, believe, or you perish under the
 weight of the wrath of the great God, and that for
 evermore.</p>
@@ -10463,7 +10463,7 @@ It shall h<supplied reason="illegible" cert="high" resp="#editor">a<!-- context;
 hath a deadly arrow sticking in its sides, that makes
 it restless <choice><orig>where ever</orig><reg resp="#editor" type="emendation">wherever</reg></choice> it is, and whatever it doth.</p>
             <p>Fifthly, The Law stays not here, but also it
-<hi>slays</hi> the soul, <hi ana="#print-only" change="#review">Rom<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 7<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>3. <choice><orig>that</orig><reg resp="#auto" type="spelling">That</reg></choice> is, by its conviction
+<hi>slays</hi> the soul, <hi ana="#print-only" change="#review">Rom<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 7<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice><choice><orig>3</orig><reg resp="#editor" type="emendation">9</reg></choice>. <choice><orig>that</orig><reg resp="#auto" type="spelling">That</reg></choice> is, by its conviction
 of the nature, power, and desert of this <hi>indwelling-sin,</hi>
 it deprives him in whom it is of all that life of
 <hi>self-righteousness and hope,</hi> which formerly he su<g ref="char:EOLhyphen"/>stained
