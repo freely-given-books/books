@@ -14,19 +14,19 @@ Now, all these depend greatly on a constant course of mortification. Concerning 
 
 2\. In the ways God has instituted to give us life, vigor, courage, and consolation, mortification is not one of the immediate causes. It is the privileges of our adoption, made known to our souls, that give us these things immediately. The Spirit’s testifying “with our spirit that we are God’s children,” his giving us a new name and a white stone, adoption and justification (that is, as we sense and know them): these are the immediate causes, in the hand of the Spirit, of these things. But this I do say:
 
-3\. In our ordinary walk with God, and in the ordinary course of his dealing with us, the vigor and comfort of our spiritual lives depend greatly on our mortification. It is not only a “causa sine qua non” [a cause without which the thing does not come about], but something that has a real influence on them. For:
+3\. In our ordinary walk with God, and in the ordinary course of his dealing with us, the vigor and comfort of our spiritual lives depend greatly on our mortification. It is not only a “causa sine qua non” [a cause without which the thing does not come about], but something that has an effectual influence on them. For:
 
 (1.) This alone keeps sin from robbing us of both the one and the other.
 
 Every unmortified sin will certainly do two things: \[1.\] It will #emph[weaken] the soul and rob it of its vigor. \[2.\] It will #emph[darken] the soul and rob it of its comfort and peace.
 
-\[1.\] It #emph[weakens] the soul and robs it of its strength. When David had for a while harbored an unmortified lust in his heart, it broke all his bones and left him no spiritual strength. So he complained that he was sick, weak, wounded, faint. “There is no soundness in my body,” he says (Ps 38:3); “I am numb and badly crushed” (verse 8); yes, “I cannot look up” (Ps 40:12). An unmortified lust will drink up the spirit and all the vigor of the soul, and weaken it for all duties. For:
+\[1.\] It #emph[weakens] the soul and robs it of its strength. When David had for a while harbored an unmortified lust in his heart, it broke all his bones and left him no spiritual strength. So he complained that he was sick, weak, wounded, faint. “There is no soundness in my body,” he says (Ps 38:3); “I am feeble and badly crushed” (verse 8); yes, “I cannot look up” (Ps 40:12). An unmortified lust will drink up the spirit and all the vigor of the soul, and weaken it for all duties. For:
 
 1#emph[st]. It #emph[disorders] and unsettles the heart itself, by entangling its affections. It turns the heart away from the spiritual frame that is required for vigorous communion with God. It lays hold on the affections and makes its object loved and desirable, and so drives out the love of the Father (1 John 2:15; 3:17). The soul then cannot say honestly and truly to God, “You are my portion,” for it has something else that it loves. Fear, desire, and hope, the choice affections of the soul, which should be full of God, will in one way or another be entangled with it.
 
 2#emph[nd]. It fills the #emph[thoughts] with schemes about it. Thoughts are the great suppliers of the soul, bringing in provision to satisfy its affections. If sin remains unmortified in the heart, they must again and again be making provision for the flesh, to fulfill its lusts. They must polish, adorn, and dress up the objects of the flesh, and bring them home to give satisfaction. And in the service of a defiled imagination they are able to do this beyond all expression.
 
-3#emph[rd]. It breaks out and actually hinders duty. The ambitious man must be studying, the worldly man must be working or scheming, and the sensual, vain person must be providing himself with vanity, when they should be engaged in the worship of God.
+3#emph[rd]. It breaks out and actually hinders duty. The ambitious man must be scheming, the worldly man must be working or scheming, and the sensual, vain person must be providing himself with vanity, when they should be engaged in the worship of God.
 
 If it were my present business to set out the breaches, ruin, weakness, and desolation that one unmortified lust will bring on a soul, this discourse would have to be extended far beyond what I intend.
 
