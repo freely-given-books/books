@@ -6,10 +6,10 @@
 | punctuation | 1703 |
 | spacing | 1100 |
 | emendation | 690 |
-| case | 380 |
+| case | 418 |
 | italic | 326 |
 | level | 207 |
-| gap | 51 |
+| gap | 52 |
 | grammar | 16 |
 | merge | 2 |
 | skipped | 1 |
@@ -61,6 +61,7 @@
 - [part-3/sign-06.typ] Behaviour; → Behavior;
 - [part-3/sign-06.typ] down high Looks. And Psal. 101. 5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor. 13. 4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behaviour among Men, arising from Humility that the Scripture often speaks of; 1 Pet. 3. 15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom. 13. 7. Fear, to whom Fear. 2 Cor. 7. 15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph. 6. 5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet. 2. 18. Servants be subject to your Masters, with all Fear. 1 Pet. 3. 2. While they behold your chaste Conversation, coupled with Fear. 1 Tim. 2. 9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them. → down high Looks. And Ps 101:5. Him that hath an high Look, and a proud Heart, will I not suffer. 1 Cor 13:4. Charity vaunteth not it self; doth not behave it self unseemly. There is a certain amiable Modesty and Fear that belongs to a christian Behavior among Men, arising from Humility that the Scripture often speaks of; 1 Pet 3:15. Be ready to give an Answer to every Man that asketh you,---with Meekness and Fear. Rom 13:7. Fear, to whom Fear. 2 Cor 7:15. Whilst he remembreth the Obedience of you all, how with Fear and Trembling ye received him. Eph 6:5. Servants be obedient to them which are your Masters according to the Flesh, with Fear and Trembling. 1 Pet 2:18. Servants be subject to your Masters, with all Fear. 1 Pet 3:2. While they behold your chaste Conversation, coupled with Fear. 1 Tim 2:9. That Women adorn themselves in modest Apparel, with Shamefacedness and Sobriety. In this Respect a Christian is like a little Child; a little Child is modest before Men, and his Heart is apt to be possessed with Fear and Awe amongst them.
 - [part-3/sign-07.typ] unsavoury → unsavory
+- [part-3/sign-07.typ] holy → Holy
 - [part-3/sign-11.typ] coveteous → covetous
 - [part-3/sign-12.typ note] thoro' → thorough
 - [part-3/sign-12.typ] doth → Doth
@@ -2481,6 +2482,7 @@
 
 - Spirit → spirit (×160)
 - Part → part (×71)
+- holy → Holy (×38)
 - Acts → acts (×33)
 - Spirits → spirits (×31)
 - Mark → mark (×13)
