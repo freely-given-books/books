@@ -2,11 +2,12 @@
 #import "@local/fgbooks:0.15.0": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press plate design (see
-// scripts/plate_cover.typ), as Owen's sin books and Religious Affections: no
-// picture, the sermon's text is the image. Edwards preaches on 1 Cor 1:29-31, so its
-// close is set in the title's type with "glory in the Lord" in gold. The back gives
-// the doctrine in his words. The ground's colour is a placeholder until the editor
-// chooses one (EDITION-RULES 7). At about 40 pages the spine carries nothing.
+// scripts/plate_cover.typ): a small framed picture on the dark green ground, the
+// editor's choice for a short book (2026-11-15). The picture is Edwards' own:
+// "that River of water of life, that proceeds from the throne of God and the
+// Lamb" (Rev 22:1), its source in the light beyond the hills. ChatGPT engraving
+// (fgbooks-generated-art "God Glorified (river, light at source)"), hand-tinted
+// by art/tint.py into art/plate.jpg. At about 40 pages the spine carries nothing.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
@@ -19,39 +20,27 @@
 // transparency into image tiles: scripts/plate_cover.typ)
 #plate-cover(
   ground: ground,
-  art: box(width: 4.25in, height: 6.875in, {
-    let plain(body) = text(font: DISPLAY, size: 11pt, tracking: 0.12em,
-      fill: color.mix((ink, 65%), (ground, 35%)), body)
-    let gilt(body) = text(font: DISPLAY, weight: "bold", size: 16pt,
-      tracking: 0.14em, fill: gold, body)
-    place(dx: 0.4in, dy: 3.0in, box(width: 3.45in, {
-      set align(center)
-      set par(leading: 0.55em, spacing: 0pt)
-      plain[He that glorieth,]
-      v(0.08in)
-      plain[let him]
-      v(0.1in)
-      gilt[glory in the Lord.]
-      v(0.18in)
-      caps([1 Corinthians i. 31], 7.5pt, color.mix((gold, 80%), (ground, 20%)), tracking: 0.25em)
-    }))
-  }),
-  title-y: 0.75in,
+  // the picture in a frame of gold, the river's source near its top third
+  art: box(width: 4.25in, height: 6.875in, place(dx: 0.55in, dy: 2.2in,
+    block(width: 3.15in, height: 2.65in, clip: true, stroke: 0.6pt + gold,
+      place(top + left, dx: -0.35in, dy: -1.62in,
+        image("art/plate.jpg", width: 3.85in, height: 5.775in))))),
+  title-y: 0.62in,
   seal: press-seal,
   title: [God Glorified],
   tail: [in Man's Dependence],
   subtitle: [A Sermon Preached in Boston, July 8, 1731],
   author: [Jonathan Edwards],
   spine-author: [Edwards],
-  title-size: 30pt,
+  title-size: 28pt,
   pages: 40,
   ink: ink,
   accent: gold,
   label: gold,
   paper: rgb("#17221F"),
   epigraph: [
-    God is glorified in the work of redemption in this, that there appears in it
-    so absolute and universal a dependence of the redeemed on him.
+    The sum of the blessings, which the redeemed shall receive in heaven, is that
+    River of water of life, that proceeds from the throne of God and the Lamb.
   ],
   epigraph-source: [God Glorified in Man's Dependence],
 )
