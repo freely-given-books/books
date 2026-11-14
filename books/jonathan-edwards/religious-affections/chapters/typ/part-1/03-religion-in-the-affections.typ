@@ -1,6 +1,6 @@
 == True Religion Lies Much in the Affections
 
-Iid. Thing proposed, which was to observe some things that render it evident, that true religion, in great Part, consists in the affections. And here,
+There are other mixed affections that might be also mentioned, but I hasten to the second thing proposed, which was to observe some things that render it evident, that true religion, in great part, consists in the affections. And here,
 
 1\. What has been said of the nature of the affections, makes this evident, and may be sufficient, without adding any thing further, to put this matter out of doubt: for who will deny that true religion consists, in a great measure, in vigorous and lively actings of the #emph[inclination] and #emph[will] of the soul, or the fervent exercises of the #emph[heart.]
 

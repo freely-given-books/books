@@ -44,7 +44,7 @@ ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII
 PART_1 = [
     ("01-the-text.typ", "The Text and the Doctrine", None),
     ("02-what-the-affections-are.typ", "What the Affections Are", "I. It may be enquired"),
-    ("03-religion-in-the-affections.typ", "True Religion Lies Much in the Affections", "II"),
+    ("03-religion-in-the-affections.typ", "True Religion Lies Much in the Affections", "There are other mixt"),
     ("04-inferences.typ", "Inferences", "1. We may hence learn"),
 ]
 # Each sign: the edition's title, in Edwards's own words, and the printed opening it starts at.
@@ -116,9 +116,8 @@ def LAYOUT(root):
     # the text (1 Pet 1:8), printed as two heads under the part's title, is the first file's epigraph
     text = tuple(parts[0].findall(f"{T}head")[2:4])
     p1 = _blocks(parts[0])
-    # "II • . Thing proposed": a gap in the TCP where the print has "SECOND"
-    starts = [_opens(PART_1[1][2]), lambda el: _opens("II")(el) and "Thing proposed" in _text(el)[:40],
-              _opens(PART_1[3][2])]
+    # "but I hasten to the / IId. Thing proposed": the second head opens in the sentence before it
+    starts = [_opens(PART_1[1][2]), _opens(PART_1[2][2]), _opens(PART_1[3][2])]
     for k, ((name, title, _), chunk) in enumerate(zip(PART_1, _cut(p1, starts))):
         files.append({"file": f"part-1/{name}", "title": title,
                       "kicker": "Part I · The Nature and Importance of the Affections",

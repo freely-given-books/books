@@ -4,15 +4,15 @@
 | --- | --- |
 | spelling | 1747 |
 | punctuation | 1702 |
-| spacing | 1097 |
-| emendation | 677 |
-| case | 378 |
+| spacing | 1098 |
+| emendation | 678 |
+| case | 379 |
 | italic | 325 |
 | level | 207 |
 | gap | 47 |
 | grammar | 16 |
+| merge | 2 |
 | skipped | 1 |
-| merge | 1 |
 
 ## skipped
 
@@ -94,6 +94,7 @@
 - [part-1/02-what-the-affections-are.typ] 'em → them
 - [part-1/02-what-the-affections-are.typ] 'em → them
 - [part-1/02-what-the-affections-are.typ] voluntarily → 
+- [part-1/03-religion-in-the-affections.typ] Iid . Thing → second thing
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
@@ -2462,7 +2463,7 @@
 ## case
 
 - Spirit → spirit (×159)
-- Part → part (×70)
+- Part → part (×71)
 - Acts → acts (×33)
 - Spirits → spirits (×31)
 - Mark → mark (×13)

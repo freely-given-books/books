@@ -23,5 +23,3 @@ As all the exercises of the inclination and will, are either in approving and li
 Of the former sort are #emph[Love, desire, hope, joy, gratitude, complacence.] Of the latter kind, are #emph[hatred, fear, anger, grief,] and such like; which it is needless now to stand particularly to define.
 
 And there are some affections wherein there is a composition of each of the aforementioned kinds of actings of the will; as in the affection of #emph[pity,] there is something of the #emph[former kind,] towards the person suffering, and something of the #emph[latter;] towards what he suffers. And so in #emph[zeal,] there is in it high #emph[approbation] of some person or thing, together with vigorous #emph[opposition] to what is conceived to be contrary to it.
-
-There are other mixed affections that might be also mentioned, but I hasten to the
