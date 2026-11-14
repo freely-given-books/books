@@ -11,7 +11,7 @@
 | spacing | 634 |
 | emendation | 510 |
 | note | 222 |
-| case | 149 |
+| case | 136 |
 | italic | 113 |
 | gap | 33 |
 | grammar | 26 |
@@ -1692,7 +1692,6 @@
 - ’Tis → ’tis (×10)
 - BY → By (×8)
 - And → and (×7)
-- E → e (×7)
 - That → that (×5)
 - ’twas → ’Twas (×5)
 - The → the (×4)
@@ -1702,7 +1701,6 @@
 - ’Twas → ’twas (×3)
 - But → but (×2)
 - He → he (×2)
-- In → in (×2)
 - To → to (×2)
 - What → what (×2)
 - When → when (×2)
@@ -1718,18 +1716,14 @@
 - Gods → gods
 - I → i
 - If → if
-- It → it
-- Labour → labour
+- In → in
 - Little → little
 - Met → met
-- None → none
-- Often → often
 - Paradise → paradise
 - Remedy → remedy
 - Sinned → sinned
 - Sixth → sixth
 - Speaks → speaks
-- Such → such
 - Though → though
 - Thoughts → thoughts
 - True → true
