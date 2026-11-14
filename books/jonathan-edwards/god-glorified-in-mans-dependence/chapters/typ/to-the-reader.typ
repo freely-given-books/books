@@ -6,7 +6,7 @@ A subject which secures to God his great design in the work of fallen man's rede
 
 For in proportion to the sense we have of our dependence on the sovereign God, for all the good we want, will be our value for him, our application to him, our trust in him, our fear to offend him, and our care to please him; as likewise our gratitude and love, our delight and praise, upon our sensible experience of his free benefits.
 
-In short, it is the very #emph[soul of piety] to apprehend and own, that all our springs are in him; the springs of our present grace and comfort, and of our future glory and blessedness; and that they all entirely flow through #emph[Christ] by the efficacious influence of the #emph[holy Spirit.] By #emph[these things] saints #emph[live, and in all these things is the life of our spirits.]
+In short, it is the very #emph[soul of piety] to apprehend and own, that all our springs are in him; the springs of our present grace and comfort, and of our future glory and blessedness; and that they all entirely flow through #emph[Christ] by the efficacious influence of the #emph[Holy Spirit.] By #emph[these things] saints #emph[live, and in all these things is the life of our spirits.]
 
 Such doctrines as these, which by humbling the minds of men, prepare them for the exaltations of God, he has signally owned and prospered in the reformed world, and in our land especially in the days of our forefathers; and we hope they will never grow unfashionable among us: for, we are well assured, if those which we call the #emph[doctrines of grace,] ever come to be contemned or disrelished, vital piety will proportionably languish and wear away; as these doctrines always sink in the esteem of men, upon the decay of serious religion.
 
