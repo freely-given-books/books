@@ -38,7 +38,7 @@ In the third place, let the judgement of the ancient Church be observed. #emph[A
 
 The second Action touching the consummation of marriage, is the action of the Minister. And that is the blessing or sanctification thereof, which is a solemn work, whereby the Minister pronouncing the parties contracted to be man and wife before the whole congregation, commendeth them and their estate unto God by solemn prayer.
 
-This solemn sanctification is grounded upon the practise of God himself, who having given #emph[Eve] to #emph[Adam,] blessed them, saying, #emph[Increase and multiply,] Gen 2:22; 1:27. For that which God then gave, the Minister standing in his room, now prayeth may be given to the man and wife. Yea it is agreeable to the general rule of the Apostle, #emph[Let all things be done decently and in order,] 1 Cor 14:40.
+This solemn sanctification is grounded upon the practise of God himself, who having given #emph[Eve] to #emph[Adam,] blessed them, saying, #emph[Increase and multiply,] Gen 2:22; 1:28. For that which God then gave, the Minister standing in his room, now prayeth may be given to the man and wife. Yea it is agreeable to the general rule of the Apostle, #emph[Let all things be done decently and in order,] 1 Cor 14:40.
 
 Now that this action is to be approved and used in the Church, appears by these reasons.
 
