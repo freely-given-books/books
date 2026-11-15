@@ -26,7 +26,9 @@
 // a faint spark is its colour mixed with the ground behind it, sampled at its height.
 #let behind(y) = gradient.linear(..stops).sample((y + 0.125in) / (th + 0.25in) * 100%)
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   trim-width: tw,
   trim-height: th,
   ground: stops,
@@ -71,3 +73,5 @@
   epigraph-source: [Sinners in the Hands of an Angry God],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

@@ -43,3 +43,7 @@ $ ./fgb build edwards     # print PDF and checked EPUB into dist/
 
 The PDF and the EPUB are not kept in git: `./fgb build edwards` makes them
 in `dist/jonathan-edwards/sinners-in-the-hands-of-an-angry-god/`.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `sinners-in-the-hands-of-an-angry-god-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the house pilot on Sinners, then meaning-audited (work/modern-english).
