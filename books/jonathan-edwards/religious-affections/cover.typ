@@ -20,6 +20,10 @@
   plate: read("art/plate.jpg", encoding: none),
   plate-at: (dx: 0.7in, dy: 0.42in, width: 5.5in, height: 8.25in),
   ground: paper,
+  // the book's 6 x 9in trim as the default too (./fgb build passes it for the print
+  // cover, but the ebook's front is rendered without it)
+  trim-width: 6in,
+  trim-height: 9in,
   title-y: 0.85in,
   seal: press-seal,
   title: [Religious Affections],
