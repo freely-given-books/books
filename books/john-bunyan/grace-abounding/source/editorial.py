@@ -47,5 +47,7 @@ def LAYOUT(root):
 EPUB = {"title": "Grace Abounding to the Chief of Sinners", "author": "John Bunyan",
         "file": "grace-abounding.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["grace-abounding.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "grace-abounding-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["grace-abounding.typ", "grace-abounding-modern.typ"]
