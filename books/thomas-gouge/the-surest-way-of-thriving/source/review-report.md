@@ -1,0 +1,600 @@
+# Review decisions carried into the enriched TEI
+
+| kind | count |
+| --- | --- |
+| spelling | 371 |
+| punctuation | 222 |
+| spacing | 149 |
+| emendation | 146 |
+| level | 100 |
+| italic | 87 |
+| case | 13 |
+| grammar | 13 |
+| note | 1 |
+| skipped | 1 |
+
+## skipped
+
+- [ch01-the-text-opened.typ] new ¶ before 'Verse' → not a paragraph (e.g. a list heading); kept as is
+
+## emendation
+
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch01-the-text-opened.typ] Joh . → John
+- [ch01-the-text-opened.typ] a succouring → succoring
+- [ch01-the-text-opened.typ] 4 → 3
+- [ch01-the-text-opened.typ] my self → myself
+- [ch01-the-text-opened.typ] Joh . → John
+- [ch01-the-text-opened.typ] Psal . → Ps
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch01-the-text-opened.typ] the → 
+- [ch01-the-text-opened.typ] Math . → Matt
+- [ch02-the-least-of-his-saints.typ] Luk . → Luke
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] King → Kgs
+- [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] Esther . → Esth
+- [ch03-the-main-point.typ] Luk . → Luke
+- [ch03-the-main-point.typ] your selves → yourselves
+- [ch04-proofs-from-scripture.typ] old , → Old
+- [ch04-proofs-from-scripture.typ] new - → New
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] our selves → ourselves
+- [ch04-proofs-from-scripture.typ] wiseman → wise man
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] Psal . → Ps
+- [ch04-proofs-from-scripture.typ] thy self → thyself
+- [ch04-proofs-from-scripture.typ] wiseman → wise man
+- [ch04-proofs-from-scripture.typ] Pro . → Prov
+- [ch04-proofs-from-scripture.typ] Pro . → Proverbs
+- [ch04-proofs-from-scripture.typ] thy self → thyself
+- [ch04-proofs-from-scripture.typ] Math . → Matt
+- [ch05-testimonies.typ] thy self ▪ → thyself:
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Psal . → Ps
+- [ch05-testimonies.typ] Math . → Matt
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] Pro . → Prov
+- [ch05-testimonies.typ] any thing → anything
+- [ch05-testimonies.typ] my self → myself
+- [ch05-testimonies.typ] willbe → will be
+- [ch06-examples.typ] King → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] Act . → Acts
+- [ch06-examples.typ] his → 
+- [ch06-examples.typ] A ban → Alban
+- [ch06-examples.typ] to me → tome
+- [ch06-examples.typ] Pro . → Prov
+- [ch06-examples.typ] aplague → a plague
+- [ch07-examples-of-our-time.typ] school - master → schoolmaster
+- [ch07-examples-of-our-time.typ] Matth . → Matt
+- [ch07-examples-of-our-time.typ] any thing → anything
+- [ch08-the-reasons.typ] Psal . → Ps
+- [ch08-the-reasons.typ] dis - bursed → disbursed
+- [ch08-the-reasons.typ] any thing → anything
+- [ch08-the-reasons.typ] Pro . → Prov
+- [ch09-reproof.typ] Jam . → Jas
+- [ch09-reproof.typ] Math . → Matt
+- [ch09-reproof.typ] tooth - ach → toothache
+- [ch09-reproof.typ] Psal . → Ps
+- [ch09-reproof.typ] Pro . → Prov
+- [ch09-reproof.typ] Luk . → Luke
+- [ch09-reproof.typ] Psal . → Ps
+- [ch10-exhortation.typ] Pro . → Prov
+- [ch10-exhortation.typ] Math . → Matt
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] any thing → anything
+- [ch10-exhortation.typ] your selves → yourselves
+- [ch10-exhortation.typ] Jam . → Jas
+- [ch10-exhortation.typ] our selves → ourselves
+- [ch10-exhortation.typ] Pro . → Prov
+- [ch10-exhortation.typ] Honour thy self → Honor thyself
+- [ch10-exhortation.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] ver → v
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] my self → myself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] joyned thy self → joined thyself
+- [ch11-directions.typ] my self → myself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] thy self → thyself
+- [ch11-directions.typ] cup - board → cupboard
+- [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] any thing → anything
+- [ch11-directions.typ] your - selvs → yourselves
+- [ch11-directions.typ] Chro . → Chronicles
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] Luk . → Luke
+- [ch12-means.typ] Luk . → Luke
+- [ch12-means.typ] your selves → yourselves
+- [ch12-means.typ] I → Ay,
+- [ch12-means.typ] my self → myself
+- [ch12-means.typ] any thing → anything
+- [ch12-means.typ] Thes . → Thess
+- [ch12-means.typ] ' → 
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] thy self → thyself
+- [ch12-means.typ] Psal . → Ps
+- [ch12-means.typ] any thing → anything
+- [ch12-means.typ] Matth . → Matthew
+- [ch13-ministers.typ] 17 → 1
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] Tim . → Timothy
+- [ch13-ministers.typ] King . → Kgs
+- [ch13-ministers.typ] to day → today
+- [ch13-ministers.typ] your selves → yourselves
+- [ch13-ministers.typ] Psalm → Ps
+- [ch13-ministers.typ] Matth . → Matt
+- [ch13-ministers.typ] exercisethe → exercise the
+- [ch14-application.typ] Matth . → Matt
+- [ch14-application.typ] Numb . → Num
+- [ch14-application.typ] Levit . → Lev
+- [ch14-application.typ] Deut . → Deuteronomy
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] Matth . → Matt
+- [ch14-application.typ] thy self → thyself
+- [ch14-application.typ] any thing → anything
+
+## grammar
+
+- Louest → Lovest (×2)
+- applyeth → applieth (×2)
+- louest → lovest (×2)
+- whilest → whilst (×2)
+- abhoreth → abhorreth
+- cryeth → crieth
+- ingageth → engageth
+- recieveth → receiveth
+- stopeth → stoppeth
+
+## punctuation
+
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] , → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 
+- [ch03-the-main-point.typ] . → 
+- [ch03-the-main-point.typ] . → :
+- [ch03-the-main-point.typ] . → :
+- [ch03-the-main-point.typ] . → 
+- [ch03-the-main-point.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch04-proofs-from-scripture.typ] . → 
+- [ch04-proofs-from-scripture.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch05-testimonies.typ] . → 
+- [ch05-testimonies.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] ▪ → .
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → 
+- [ch06-examples.typ] . → :
+- [ch06-examples.typ] . → :
+- [ch07-examples-of-our-time.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → 
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch08-the-reasons.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] , → 
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → :
+- [ch09-reproof.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → 
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] . → :
+- [ch10-exhortation.typ] - → 
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 
+- [ch11-directions.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → 
+- [ch12-means.typ] . → :
+- [ch12-means.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] ▪ → .
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → :
+- [ch13-ministers.typ] . → 
+- [ch13-ministers.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → 
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+- [ch14-application.typ] . → :
+
+## case
+
+- Testament → testament (×3)
+- new → New (×3)
+- old → Old (×3)
+- Lords → lords
+- THE → The
+- Use → use
+- holy → Holy
+
+## spelling
+
+- Gods → God's (×24)
+- Saviour → Savior (×17)
+- mans → man's (×15)
+- worlds → world's (×15)
+- then → than (×13)
+- Lords → Lord's (×12)
+- honour → honor (×11)
+- succour → succor (×9)
+- Christs → Christ's (×7)
+- labour → labor (×7)
+- implyed → implied (×6)
+- loose → lose (×5)
+- summs → sums (×5)
+- Its → It's (×4)
+- Obi → Obj (×4)
+- cryed → cried (×4)
+- mens → men's (×4)
+- pitty → pity (×4)
+- widdows → widow's (×4)
+- beggery → beggary (×3)
+- denyed → denied (×3)
+- mony → money (×3)
+- oyl → oil (×3)
+- prophets → prophet's (×3)
+- widdow → widow (×3)
+- years → year's (×3)
+- Cloath → cloth (×2)
+- Honour → Honor (×2)
+- Physick → Physic (×2)
+- Shepheards → shepherds (×2)
+- applyed → applied (×2)
+- chap → ch (×2)
+- childs → child's (×2)
+- cloathing → clothing (×2)
+- encreasing → increasing (×2)
+- feaver → fever (×2)
+- forreign → foreign (×2)
+- harbouring → harboring (×2)
+- improvment → improvement (×2)
+- latter → later (×2)
+- lyar → liar (×2)
+- meer → mere (×2)
+- neighbours → neighbors (×2)
+- oftner → oftener (×2)
+- priviledges → privileges (×2)
+- publick → public (×2)
+- sowen → sown (×2)
+- succoured → succored (×2)
+- ther → there (×2)
+- widdows → widows (×2)
+- 19 → 19:
+- 5 → 5:
+- 9 → 9:
+- Aegypt → Egypt
+- Anbassadours → Ambassadors
+- Auditour → auditor
+- Barnes → Barns
+- Barnes → barns
+- Battel → battle
+- Brethrens → brethren's
+- Cellers → Cellars
+- Colledge → College
+- Creatour → Creator
+- Daniel → Dan
+- Glocester → Gloucester
+- Heroick → heroic
+- Oyl → oil
+- Sathan → Satan
+- Sathans → Satan's
+- Shepheards → Shepherds
+- Shipwrack → shipwreck
+- Southwork → Southwark
+- Succourers → succorers
+- Ther's → There's
+- Travellers → travelers
+- Wherupon → Whereupon
+- Widdows → widow's
+- Widdows → widows
+- Withold → Withhold
+- Wollen → woolen
+- accrew → accrue
+- accrews → accrues
+- act → Acts
+- affuency → affluency
+- alsufficient → all-sufficient
+- amonst → amongst
+- beggers → beggars
+- breifly → briefly
+- call'd → called
+- carryed → carried
+- chear → cheer
+- chearfulness → cheerfulness
+- childrens → children's
+- cloath → cloth
+- cloathe → clothe
+- cloaths → clothes
+- comanded → commanded
+- commited → committed
+- compassionat → compassionate
+- comprized → comprised
+- crums → crumbs
+- debter → debtor
+- debtour → debtor
+- denoing → denoting
+- descease → decease
+- disbursments → disbursements
+- disparagment → disparagement
+- dunghil → dunghill
+- encrease → increase
+- endeavours → endeavors
+- enjoyned → enjoined
+- espyed → espied
+- exegencies → exigencies
+- faln → fallen
+- famin → famine
+- favour → favor
+- gien → given
+- hardned → hardened
+- hearkning → hearkening
+- hel → hell
+- henefits → benefits
+- honourable → honorable
+- honoured → honored
+- humane → human
+- intail → entail
+- its → it's
+- labourers → laborers
+- labours → labors
+- lightned → lightened
+- looser → loser
+- loyns → loins
+- lyed → lied
+- meerly → merely
+- meeted → meted
+- monys → moneys
+- multiplyed → multiplied
+- neccessity → necessity
+- neighbour → neighbor
+- of → off-
+- offence → offense
+- past → passed
+- perswasive → persuasive
+- pin'd → pined
+- pinch'd → pinched
+- poins → points
+- poors → poor's
+- practise → practice
+- practised → practiced
+- priz'd → prized
+- recieved → received
+- rejoyce → rejoice
+- rejoycing → rejoicing
+- releive → relieve
+- repay'd → repaid
+- repayed → repaid
+- revenew → revenue
+- rigour → rigor
+- sacriledge → sacrilege
+- smal → small
+- streights → straits
+- strip'd → stripped
+- succourer → succorer
+- succouring → succoring
+- summ → sum
+- tast → taste
+- terrour → terror
+- thankeful → thankful
+- ther's → there's
+- thorow → through
+- tis → 'tis
+- troden → trodden
+- truely → truly
+- tydings → tidings
+- uncapable → incapable
+- undefield → undefiled
+- unreconcileable → unreconcilable
+- unthristy → unthrifty
+- watry → watery
+- welpleasing → well-pleasing
+- wer → were
+- wherupon → whereupon
+- worlding → worldling
+
