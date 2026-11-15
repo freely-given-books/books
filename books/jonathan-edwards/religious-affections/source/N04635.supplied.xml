@@ -65,6 +65,8 @@
          evidence="p. 334: 'Exercises of Grace, that are sound, and prove effectually' (the long s as p. 227's 'unsound'; Kraken 'found'; medium)"/>
     <fix pb="115" before="" tcp="Prom se" print="Promise" after="!"
          evidence="p. 115 note: 'By any Word or Promise! No: this is Delusion.' (drafter C)"/>
+    <fix pb="125" before="" tcp="Affections" print="Assertions" after=","
+         evidence='p. 125: Kraken "ture of Assertions", the sense (witness: assertions proved by miracles); the outside assessment, 2026-11-15'/>
     <fix pb="11" before="" tcp="Se" print="So" after=" V"
          evidence="q8 (proofread, 2026-11-13): p. 11: 'So Verse 128'"/>
     <fix pb="12" before="" tcp="faith" print="saith" after=" t"
