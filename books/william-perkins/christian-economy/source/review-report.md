@@ -9,8 +9,8 @@
 | --- | --- |
 | punctuation | 627 |
 | spacing | 337 |
-| spelling | 297 |
-| emendation | 201 |
+| spelling | 296 |
+| emendation | 202 |
 | italic | 128 |
 | case | 38 |
 | gap | 9 |
@@ -229,6 +229,7 @@
 - [chapter-15.typ] Colos . → Col
 - [chapter-15.typ] Psal . → Ps
 - [chapter-15.typ] Act . → Acts
+- [chapter-15.typ] intercession → intermission
 - [chapter-15.typ] Levit . → Lev
 - [chapter-15.typ] Luk . → Luke
 - [chapter-15.typ] Mat . → Matt
@@ -1011,7 +1012,6 @@
 - he → the
 - heard → herd
 - husband → husband.
-- intercession → intermission
 - labors → labours
 - maids → maid's
 - neighbours → neighbour's

@@ -84,3 +84,7 @@ def DIAGRAM_LISTS(root):
 
 # "&c." is written "etc.", as on the rest of the shelf.
 EXPAND_ETC = True
+
+# Misprints corrected by a word that looks alike (the editor, 2026-11-15):
+# recorded as emendations, not spellings.
+EMENDATION_PAIRS = {("intercession", "intermission")}
