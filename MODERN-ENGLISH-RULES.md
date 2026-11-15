@@ -117,8 +117,11 @@ what a draft must be checked for before it goes to the editor:
 6. **Plural marks** for one construction everywhere ("You⁺ will say" each time Owen turns to his readers).
 7. **A quotation spliced into narration** keeps its grammar (not "David's work when 'in my heart I
    mused'"); use indirect speech.
-8. **Capitals for God in BSB quotations** (He, His) differ from the author's prose: the front matter
-   says so.
+8. **The front note** (print epigraph page and ebook front) says how Scripture and you⁺ are handled (the editor,
+   2026-11-15): “Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his
+   argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You⁺” marks a plural “you”
+   (the older “ye”), once in a sentence; a plain “you” is singular or general.” (work/modern-english/scaffold.py writes it;
+   front-note.py changed the books of 2026-11-14/15.)
 9. **The BSB loses the author's word more often than anything else.** The meaning audit found
    some twenty places where the argument rests on one word of the verse and the BSB lacks it
    ("all our works in us", Isa 26:12; "cannot do", Gal 5:17; "slightly", Jer 6:14; "perfect",
@@ -139,6 +142,8 @@ Reviewers and correction passes do not reopen these; a finding against one is no
 - Gendered language: "the man", "no man", "men".
 - Edition headings in the author's own words keep them in the Modern: "As a Means, by Removing the
   Contrary" (Mortification ch. 4), not "What Opposes It".
+- Edwards's own quoted words stay where he puts them in quotation marks: Sinners ¶21, he will only "laugh" and "mock"
+  (Prov 1:26), not the BSB's "mock" and "sneer" (the editor, 2026-11-15).
 - Gouge's "thy flesh" in his lists of what is given ("thy bread, or thy flesh, or thy money", The Surest Way
   ch. 11 and 14) stays "flesh": the giver's own flesh and blood, not meat (the editor, 2026-11-15).
 - "Owned him" (acknowledged, 2 Tim 1:16) → "was not ashamed of him", the verse's own words; not "openly stood by".
