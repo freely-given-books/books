@@ -157,11 +157,11 @@ p.level2 { margin-left: 4em; }
 p.level3 { margin-left: 6em; }
 p.level4 { margin-left: 7em; }
 p.level5 { margin-left: 8em; }
-/* a list under such a paragraph: one level below it */
-ol.level2 { margin-left: 4em; }
-ol.level3 { margin-left: 6em; }
-ol.level4 { margin-left: 7em; }
-ol.level5 { margin-left: 8em; }
+/* a list set in under its point (list/@style="indent": ol.indent, or ol.levelN under a
+   set-in paragraph): one modest step in, its numbers inside the step, whatever the
+   point's level, so on a phone the items keep the measure (4em a level and the list's
+   own padding put Watson's "In supporting us in misery" past the middle of the screen) */
+ol.indent, ol.level2, ol.level3, ol.level4, ol.level5 { margin-left: 0; padding-left: 2em; }
 
 /* outline marks (OUTLINE_MARKS, colophon tei_to_html.mark_point): every outline level
    full width, a numbered point opened by its level's mark (1. (1.) [1.]) and a little
