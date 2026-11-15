@@ -9,17 +9,21 @@
   subtitle: [#text(size: 0.85em, tracking: 0.12em)[MODERN ENGLISH]],
   author: "Richard Sibbes",
   // the Common Weal Press publisher's page, from the template
-  publishing-info: publisher-page(),
-  preface: [
-    #align(center + horizon)[
-      #text(size: 9pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), once in a sentence; a plain “you” is singular or general.]
-    ]
-  ],
+  // the publisher's page carries the Modern English front note (the Classic has no epigraph page to put it on)
+  publishing-info: publisher-page(note: [Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), once in a sentence; a plain “you” is singular or general.]),
 )
 
-#include "chapters/modern/tothereader.typ"
+// the signatures would stand alone on the next page: its letter spacing a little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/tothereader.typ"
+]
 
-#include "chapters/modern/chapter1.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/chapter1.typ"
+]
 
 #include "chapters/modern/chapter2.typ"
 
@@ -29,7 +33,11 @@
 
 #include "chapters/modern/chapter5.typ"
 
-#include "chapters/modern/chapter6.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/chapter6.typ"
+]
 
 #include "chapters/modern/chapter7.typ"
 
