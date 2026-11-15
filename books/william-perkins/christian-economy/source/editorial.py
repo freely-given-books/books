@@ -70,8 +70,10 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / page (paths from the book folder)
 EPUB = {"title": "Christian Economy", "author": "William Perkins",
         "front": "ebook-front.html", "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["christian-economy.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "christian-economy-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["christian-economy.typ", "christian-economy-modern.typ"]
 
 # The genealogies of chapter 5, printed as trees (the TCP's untyped lists),
 # are diagrams: set whole, like an illustration, never across two pages.
