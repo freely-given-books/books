@@ -2,8 +2,8 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 371 |
-| punctuation | 218 |
+| spelling | 377 |
+| punctuation | 219 |
 | emendation | 159 |
 | spacing | 146 |
 | level | 100 |
@@ -229,6 +229,7 @@
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → 
 - [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] ] → 
 - [ch02-the-least-of-his-saints.typ] . → 
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → :
@@ -478,12 +479,14 @@
 - 5 → 5:
 - Aegypt → Egypt
 - Anbassadours → Ambassadors
+- Animities → Annuities
 - Auditour → auditor
 - Barnes → Barns
 - Barnes → barns
 - Battel → battle
 - Brethrens → brethren's
 - Cellers → Cellars
+- Codizel → Codicil
 - Colledge → College
 - Creatour → Creator
 - Daniel → Dan
@@ -560,6 +563,7 @@
 - meeted → meted
 - monys → moneys
 - multiplyed → multiplied
+- neat → near
 - neccessity → necessity
 - neighbour → neighbor
 - of → off-
@@ -579,10 +583,12 @@
 - releive → relieve
 - repay'd → repaid
 - repayed → repaid
+- reproved → reported
 - revenew → revenue
 - rigour → rigor
 - sacriledge → sacrilege
 - smal → small
+- spittle → Spital
 - streights → straits
 - strip'd → stripped
 - succourer → succorer
@@ -605,5 +611,6 @@
 - welpleasing → well-pleasing
 - wer → were
 - wherupon → whereupon
+- with → wish
 - worlding → worldling
 

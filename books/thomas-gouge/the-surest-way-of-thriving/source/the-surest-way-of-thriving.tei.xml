@@ -440,7 +440,7 @@ world are desolate, and forsaken: though they be left alone (as
 <choice><orig>Owl</orig><reg resp="#auto" type="spelling">owl</reg></choice> of the <choice><orig>Desert</orig><reg resp="#auto" type="spelling">desert</reg></choice>,</hi> <choice><orig>Or</orig><reg resp="#auto" type="spelling">or</reg></choice> <hi>as a sparrow alone upon the house top,</hi> as the
 <choice><orig>Psalmist</orig><reg resp="#auto" type="spelling">psalmist</reg></choice> <seg type="transcription" change="#tcp-corrections">expresseth<!-- the transcription has 'expresseh'; typo3 (collation, 2026-11-14): 1676 reads 'Psalmist expresseth' --></seg>, <hi ana="#print-only" change="#review"><choice><orig>Psal.</orig><reg resp="#editor" type="reference">Ps</reg></choice></hi> 102<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>6, 7. <choice><orig>yet</orig><reg resp="#auto" type="spelling">Yet</reg></choice> is the Lord with them, and
 takes care of them. Now if the Lord be with us, and taketh care of
-us, <choice><orig>What</orig><reg resp="#auto" type="spelling">what</reg></choice> need <seg type="transcription" change="#tcp-corrections">we<!-- the transcription has 'me'; swap4 (collation, 2026-11-14): 1676 reads 'What need we fear' --></seg> fear?] <choice><orig>How</orig><reg resp="#auto" type="spelling">how</reg></choice> should this encourage us to extend
+us, <choice><orig>What</orig><reg resp="#auto" type="spelling">what</reg></choice> need <seg type="transcription" change="#tcp-corrections">we<!-- the transcription has 'me'; swap4 (collation, 2026-11-14): 1676 reads 'What need we fear' --></seg> fear?<choice><orig>]</orig><reg resp="#editor" type="punctuation"></reg></choice> <choice><orig>How</orig><reg resp="#auto" type="spelling">how</reg></choice> should this encourage us to extend
 our charity to any one of the <choice><orig>Saints</orig><reg resp="#auto" type="spelling">saints</reg></choice>, and members of Christ, though
 mean and little in the world, and not able to <choice><orig>recompence</orig><reg resp="#auto" type="spelling">recompense</reg></choice> us: and
 though none take notice thereof, to consider that the Lord taketh
@@ -848,7 +848,7 @@ not be lost,</hi> yea it will return again with advantage and increase: <choice>
 that that is thus given will bring <choice><orig>Gods</orig><reg resp="#editor" type="spelling">God's</reg></choice> blessing upon all that we
 have besides, Deut<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice> 15<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>10.</p>
             <p>Dr. <hi>Thomas <choice><orig>Iacomb</orig><reg resp="#auto" type="spelling">Jacomb</reg></choice>,</hi> in his <choice><orig>Sermon</orig><reg resp="#auto" type="spelling">sermon</reg></choice> on <hi ana="#print-only" change="#review"><choice><orig>Math.</orig><reg resp="#editor" type="reference">Matt</reg></choice></hi> 5<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>7. <choice><orig>preached</orig><reg resp="#auto" type="spelling">Preached</reg></choice> at
-the spittle 1657. <choice><orig>saith</orig><reg resp="#auto" type="spelling">Saith</reg></choice>, God w<supplied reason="illegible: missing" cert="high" resp="#editor">i<!-- will --><gap reason="illegible: missing" extent="1 letter">
+the <choice><orig>spittle</orig><reg resp="#editor" type="spelling">Spital</reg></choice> 1657. <choice><orig>saith</orig><reg resp="#auto" type="spelling">Saith</reg></choice>, God w<supplied reason="illegible: missing" cert="high" resp="#editor">i<!-- will --><gap reason="illegible: missing" extent="1 letter">
                   <desc>•</desc>
                </gap></supplied>ll return to the <choice><orig>Mercifull</orig><reg resp="#auto" type="spelling">merciful</reg></choice> man what
 he gives to the poor, he will reward him <hi>in kind;</hi> that look what ever
@@ -1035,7 +1035,7 @@ of <choice><orig>Martyrdome</orig><reg resp="#auto" type="spelling">martyrdom</r
             <p>St. <hi>Austin,</hi> having set forth the mercifulness and liberality of <hi>Con<g ref="char:EOLhyphen"/>stantine</hi>
 the great, saith, <hi>Bonus Deus, Constantinum Magnum tantis
 terrenis implevit muneribus,</hi> <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. God gave <hi>Constantine,</hi> that <choice><orig>Merci<g ref="char:EOLhyphen"/>full</orig><reg resp="#auto" type="spelling">merciful</reg></choice>
-Prince, more wealth than heart could with, for his bounty to the
+Prince, more wealth than heart could <choice><orig>with</orig><reg resp="#editor" type="spelling">wish</reg></choice>, for his bounty to the
 poor, <hi>Aug. <choice><orig>de</orig><reg resp="#auto" type="spelling">De</reg></choice> Civitate. Dei. <choice><orig>l</orig><reg resp="#auto" type="spelling">L</reg></choice>.</hi> 5.</p>
             <p>
                <q>Dr. <hi>Hammond</hi> in his forementioned <choice><orig>Treatise</orig><reg resp="#auto" type="spelling">treatise</reg></choice> mentioneth an an<g ref="char:EOLhyphen"/>cient
@@ -1233,7 +1233,7 @@ to entrust me with, to bestow the same on charitable uses.</p>
 to build <hi><choice><orig>Alms</orig><reg resp="#auto" type="spelling">alms</reg></choice>-houses;</hi> one in the <choice><orig>Parish</orig><reg resp="#auto" type="spelling">parish</reg></choice> of St. <hi>George</hi> in <hi><choice><orig>Southwork</orig><reg resp="#editor" type="spelling">Southwark</reg></choice>;</hi>
 another in St. <hi><choice><orig>Mary</orig><reg resp="#auto" type="spelling">Marry</reg></choice> Newington;</hi> because in those <hi>Parishes</hi> he ob<g ref="char:EOLhyphen"/>served,
 there were many blind, lame, distressed poor people, and
-never an <hi><choice><orig>Alms</orig><reg resp="#auto" type="spelling">alms</reg></choice>-house</hi> in them. He likewise built a <hi>Chapel</hi> neat one
+never an <hi><choice><orig>Alms</orig><reg resp="#auto" type="spelling">alms</reg></choice>-house</hi> in them. He likewise built a <hi>Chapel</hi> <choice><orig>neat</orig><reg resp="#editor" type="spelling">near</reg></choice> one
 of his <choice><orig>Alms</orig><reg resp="#auto" type="spelling">alms</reg></choice>-houses for the poor people to serve God in daily. Ha<g ref="char:EOLhyphen"/>ving
 built his <hi><choice><orig>Alms</orig><reg resp="#auto" type="spelling">alms</reg></choice>-houses,</hi> with the <hi><choice><orig>poors</orig><reg resp="#editor" type="spelling">poor's</reg></choice> stock,</hi> he bought <hi><choice><orig>Lands</orig><reg resp="#auto" type="spelling">lands</reg></choice>,</hi>
 and <hi>Houses of <choice><orig>Inheritance</orig><reg resp="#auto" type="spelling">inheritance</reg></choice>,</hi> which he settled upon the <choice><orig>Company</orig><reg resp="#auto" type="spelling">company</reg></choice> of
@@ -1302,7 +1302,7 @@ out four children yearly: <choice><orig>And</orig><reg resp="#auto" type="spelli
 a Bible.</p>
             <p>Besides these, he gave to his poor kindred above two thousand pounds
 by his <choice><orig>Will</orig><reg resp="#auto" type="spelling">will</reg></choice>.</p>
-            <p>And by a Codizel annexed thereunto, he bequeathed to certain <hi><choice><orig>Trustees</orig><reg resp="#auto" type="spelling">trustees</reg></choice></hi>
+            <p>And by a <choice><orig>Codizel</orig><reg resp="#editor" type="spelling">Codicil</reg></choice> annexed thereunto, he bequeathed to certain <hi><choice><orig>Trustees</orig><reg resp="#auto" type="spelling">trustees</reg></choice></hi>
 a <hi>thousand pounds</hi> to be given to honest poor people; as also 300 <hi>l.</hi> <choice><orig>for</orig><reg resp="#auto" type="spelling">For</reg></choice>
 releasing poor prisoners; which <choice><orig>summs</orig><reg resp="#editor" type="spelling">sums</reg></choice> have been paid into the hands of
 the <hi><choice><orig>Trustees</orig><reg resp="#auto" type="spelling">trustees</reg></choice></hi> by Mr. <hi>Richard Loton,</hi> and <hi>Michael Davison</hi> 
@@ -1413,7 +1413,7 @@ with the concerns of another and better life.</p>
                <pb n="31" facs="tcp:55174:17"/>
 He further gave considerable <choice><orig>summs</orig><reg resp="#editor" type="spelling">sums</reg></choice> of money yearly for the con<g ref="char:EOLhyphen"/>stant
 supply of such godly <choice><orig>Ministers</orig><reg resp="#auto" type="spelling">ministers</reg></choice> as he knew to be in want: <choice><orig>And</orig><reg resp="#auto" type="spelling">and</reg></choice>
-upon several of them he settled considerable Animities, 10 <hi>l. 20 <choice><orig>l</orig><reg resp="#auto" type="spelling">L</reg></choice>. <choice><orig>per</orig><reg resp="#auto" type="spelling">Per</reg></choice>
+upon several of them he settled considerable <choice><orig>Animities</orig><reg resp="#editor" type="spelling">Annuities</reg></choice>, 10 <hi>l. 20 <choice><orig>l</orig><reg resp="#auto" type="spelling">L</reg></choice>. <choice><orig>per</orig><reg resp="#auto" type="spelling">Per</reg></choice>
 annum</hi> for their lives, besides such <choice><orig>Legacies</orig><reg resp="#auto" type="spelling">legacies</reg></choice> which were not small,
 that he gave to some of them at his death.</p>
             <p>Besides all this, his hand was ever open and ready to distribute
@@ -2504,7 +2504,7 @@ all things necessary unto them, 1 <hi ana="#print-only" change="#review"><choice
 likewise how the <choice><orig>widdow</orig><reg resp="#editor" type="spelling">widow</reg></choice> of <hi>Sarephath</hi> nourished the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> <hi>Elijah</hi>
 in her house for many <choice><orig>dayes</orig><reg resp="#auto" type="spelling">days</reg></choice> and years, even so long as the <choice><orig>famin</orig><reg resp="#editor" type="spelling">famine</reg></choice>
 continued, 1 <hi ana="#print-only" change="#review"><choice><orig>King.</orig><reg resp="#editor" type="reference">Kgs</reg></choice></hi> 17<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>15, 16. The kindness of the good <hi>Shunamite</hi>
-to the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> <hi>Elisha,</hi> is largely reproved, 2 <hi ana="#print-only" change="#review"><choice><orig>King.</orig><reg resp="#editor" type="reference">Kgs</reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8, <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. <hi>It fell
+to the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> <hi>Elisha,</hi> is largely <choice><orig>reproved</orig><reg resp="#editor" type="spelling">reported</reg></choice>, 2 <hi ana="#print-only" change="#review"><choice><orig>King.</orig><reg resp="#editor" type="reference">Kgs</reg></choice></hi> 4<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>8, <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. <hi>It fell
 <pb n="49" facs="tcp:55174:30"/>
 on a day that</hi> Elisha <hi>passed to</hi> Shunem, <hi>where was a great woman, and
 she constrained him to eat bread;</hi> that is, to refresh himself with food.
