@@ -78,3 +78,23 @@ ready = { date = "2026-11-03", commit = "d150875" }
 
 ["thomas-watson/a-divine-cordial"]
 ready = { date = "2026-11-08", commit = "86f79c9" }
+
+# year (first published), description (a sentence or two for readers) and tags
+# go to books.freely.giving in site.json (colophon 0.50.0); tags default to
+# ["classic"]. Books the site already has keep the owner's own text.
+
+["john-owen/indwelling-sin"]
+year = 1668
+description = "Owen on Romans 7:21, “I find then a law, that, when I would do good, evil is present with me”: the power and deceit of the sin that remains in believers, and how it works against the law and grace of God in them."
+
+["jonathan-edwards/god-glorified-in-mans-dependence"]
+year = 1731
+description = "Edwards's first published sermon, on 1 Corinthians 1:29–31, preached at the Boston lecture: the redeemed have all their good of God, through God and in God, so that all the glory is his."
+
+["jonathan-edwards/religious-affections"]
+year = 1746
+description = "How to tell true religion from its counterfeits: true religion lies much in holy affections, but strong feelings prove nothing by themselves. Twelve signs that are no signs, and twelve that mark grace truly, the chief of them Christian practice."
+
+["thomas-gouge/the-surest-way-of-thriving"]
+year = 1673
+description = "Thomas Gouge on Christ's promise that a cup of cold water given in his name shall not lose its reward (Matthew 10:41–42): giving to the poor is no loss, but the surest way of thriving."
