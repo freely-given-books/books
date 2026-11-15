@@ -2,41 +2,24 @@
 #import "@local/fgbooks:0.15.0": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press plate design (see
-// scripts/plate_cover.typ), as Owen's sin books: no picture, the book's text is
-// the image. The treatise opens on 1 Peter 1:8, so the verse is set in the
-// title's type with "joy unspeakable" and "full of glory" in gold. The ground's
-// colour is a placeholder until the editor chooses one (EDITION-RULES 7).
+// scripts/plate_cover.typ). The picture is Edwards' own figure for the whole
+// treatise (Part II, xii): blossoms in the spring, many of which fall, and the
+// fruit by which we must judge. ChatGPT engraving, its fruit redrawn as young apples
+// (fgbooks-generated-art "Religious Affections (blossom bough, apples)"),
+// hand-tinted by art/tint.py into art/plate.jpg (the editor, 2026-11-15). The bough
+// stands 0.78in clear of the spine fold, so a cover trimmed a little crooked loses
+// nothing (the editor); its branch runs off the outer edge, the petals fall clear
+// of the seal.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-#let ink = rgb("#ECEDF0")
-#let gold = rgb("#D6A55A")
-#let ground = rgb("#1B2238")
+#let paper = rgb(245, 241, 230)              // the plate's own paper
 
-// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
-// transparency into image tiles: scripts/plate_cover.typ)
 #plate-cover(
-  ground: ground,
-  art: box(width: 5.5in, height: 8.5in, {
-    let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
-      fill: color.mix((ink, 65%), (ground, 35%)), body)
-    let gilt(body) = text(font: DISPLAY, weight: "bold", size: 22pt,
-      tracking: 0.14em, fill: gold, body)
-    place(dx: 0.5in, dy: 3.35in, box(width: 4.5in, {
-      set align(center)
-      set par(leading: 0.55em, spacing: 0pt)
-      plain[Whom having not seen, ye love;]
-      v(0.08in)
-      plain[yet believing, ye rejoice with]
-      v(0.1in)
-      gilt[joy unspeakable]
-      v(0.1in)
-      gilt[and full of glory.]
-      v(0.2in)
-      caps([1 Peter i. 8], 9pt, color.mix((gold, 80%), (ground, 20%)), tracking: 0.25em)
-    }))
-  }),
+  plate: read("art/plate.jpg", encoding: none),
+  plate-at: (dx: 0.7in, dy: 0.42in, width: 5.5in, height: 8.25in),
+  ground: paper,
   title-y: 0.85in,
   seal: press-seal,
   title: [Religious Affections],
@@ -44,13 +27,14 @@
   author: [Jonathan Edwards],
   spine-title: [Religious Affections],
   spine-author: [Edwards],
-  pages: 500,
-  ink: ink,
-  accent: gold,
-  label: gold,
-  paper: rgb("#11162A"),
+  pages: 426,
+  ink: rgb("#3B3330"),
+  accent: rgb("#9A5B54"),
+  label: rgb("#4E5B3A"),
+  paper: paper,
   epigraph: [
-    True religion, in great part, consists in holy affections.
+    ’Tis the mature fruit which comes afterwards, and not the beautiful colors
+    and smell of the blossom, that we must judge by.
   ],
-  epigraph-source: [Part I],
+  epigraph-source: [Part II],
 )
