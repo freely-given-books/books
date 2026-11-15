@@ -15,35 +15,48 @@
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
 #let ink = rgb("#F6E3CF")
+// The pocket trim (4.25 x 6.875in, the interior's), which ./fgb build also passes;
+// the front's art is laid out for it, scaled from the first 5.5 x 8.5in design (k).
+#let tw = float(sys.inputs.at("trim-width", default: "4.25")) * 1in
+#let th = float(sys.inputs.at("trim-height", default: "6.875")) * 1in
+#let k = tw / 5.5in
+#let stops = ((rgb("#1E0B09"), 0%), (rgb("#2A100D"), 48%), (rgb("#6B1C0E"), 72%),
+              (rgb("#B8441C"), 89%), (rgb("#E9923A"), 100%))
+// No transparency on a cover (Lulu flattens it into image tiles: plate_cover.typ):
+// a faint spark is its colour mixed with the ground behind it, sampled at its height.
+#let behind(y) = gradient.linear(..stops).sample((y + 0.125in) / (th + 0.25in) * 100%)
 
 #plate-cover(
-  ground: ((rgb("#1E0B09"), 0%), (rgb("#2A100D"), 48%), (rgb("#6B1C0E"), 72%),
-           (rgb("#B8441C"), 89%), (rgb("#E9923A"), 100%)),
-  art: box(width: 5.5in, height: 8.5in, {
+  trim-width: tw,
+  trim-height: th,
+  ground: stops,
+  art: box(width: tw, height: th, {
     // sparks going up, a few, at no regular place
     for i in range(46) {
-      let x = calc.rem(i * 1.37 + calc.sin(i * 12.9898) * 3.1 + 7, 5.5) * 1in
+      let x = calc.rem(i * 1.37 + calc.sin(i * 12.9898) * 3.1 + 7, 5.5) * k * 1in
       let t = calc.rem(calc.abs(calc.sin(i * 78.233)) * 43758.5453, 1.0)
-      let y = 8.5in - t * t * 3.6in
-      let r = (0.6 + 1.4 * (1 - t)) * 1pt
-      place(dx: x, dy: y, circle(radius: r, fill: rgb("#F2B25C").transparentize(25% + 60% * t)))
+      let y = th - t * t * 3.6in * k
+      let r = (0.6 + 1.4 * (1 - t)) * k * 1pt
+      let a = 100% - (25% + 60% * t)
+      place(dx: x, dy: y, circle(radius: r, fill: color.mix((rgb("#F2B25C"), a), (behind(y), 100% - a))))
     }
     // the thread, from above the trim, and the spider small at its end
-    let tx = 4.25in
-    place(dx: tx, dy: -0.125in, line(start: (0pt, 0pt), end: (0pt, 4.955in),
-      stroke: 0.45pt + ink.transparentize(45%)))
-    place(dx: tx - 0.3in, dy: 4.82in, image("art/spider.svg", width: 0.6in))
+    let tx = 4.25in * k
+    let sy = 4.82in * k
+    place(dx: tx, dy: -0.125in, line(start: (0pt, 0pt), end: (0pt, sy + 0.135in * k),
+      stroke: 0.45pt + color.mix((ink, 55%), (behind(sy / 2), 45%))))
+    place(dx: tx - 0.3in * k, dy: sy, image("art/spider.svg", width: 0.6in * k))
   }),
-  title-y: 1.0in,
+  title-y: 0.8in,
   title-align: left,
-  title-width: 3.5in,
+  title-width: tw - 1in,
   seal: press-seal,
   title: [Sinners],
   tail: [in the Hands \ of an Angry God],
   subtitle: [A Sermon Preached at Enfield, July 8th, 1741],
   author: [Jonathan Edwards],
   spine-author: [Edwards],
-  title-size: 40pt,
+  title-size: 31pt,
   pages: 40,
   ink: ink,
   accent: rgb("#E98A3A"),
