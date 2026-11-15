@@ -18,7 +18,7 @@ Distance of blood is then just and lawful, when neither of the persons that are 
 
 Kindred is of two sorts, consanguinity, or affinity.
 
-Kindred in consanguinity, are those which issue from out, & the same common blood or stock. And there be certain degrees, whereby kinsmen of this sort are distinguished one from another.
+Kindred in consanguinity, are those which issue from one & the same common blood or stock. And there be certain degrees, whereby kinsmen of this sort are distinguished one from another.
 
 A degree is a generation or descent between two persons that are of the same blood. For one person cannot make a degree, unless he be considered relatively in regard of generation.
 
@@ -87,7 +87,7 @@ The equal collateral line, is that, whereby kinsmen are equally distant from the
 
 Kinsmen of this line, are,
 
-+ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father or mother, or half sisters by one of them and not by both.
++ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father and mother, or half sisters by one of them and not by both.
 + The brother's children or cousin germans; that is, the uncle's sons or daughters, or the aunt's sons or daughters. The sister's children, or cousin germans; that is, the aunt's sons or daughters, which are the children of two sisters.
 + The cousin german, the son of the great uncle by the father's or mother's side, and the cousin german the son of the great aunt, by the father's or mother's side. The cousin-german the daughter of the great uncle, by the father's or mother's side, and the cousin german, the daughter of the great aunt by the same sides.
 

@@ -26,7 +26,7 @@ Here two questions are put forward.
 
 #emph[Question I.] Is it lawful for the son to make a vow concerning either religion or civil life without the consent of the parent?
 
-#emph[Answer.] A vow so made has no force to bind the child, but by the law of nature and common equity it is to be made void. For it is a settled case that he who is not his own man (that is to say, not at his own liberty, but under the power of another) cannot bind himself. Again, the authority of the parent by the law of God is great. For it allows the father to make void the vow of the child concerning God’s worship (Num 30:6).
+#emph[Answer.] A vow so made has no force to bind the child, but by the law of nature and common equity it is to be made void. For it is a settled case that he who is not his own man (that is to say, not at his own liberty, but under the power of another) cannot bind himself. Again, the authority of the parent by the law of God is great. For it allows the father to make void the vow of the child concerning God’s worship (Num 30:5).
 
 #emph[Question II.] Is the consent of the parents to be required in the second marriages of their children?
 

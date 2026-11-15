@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 628 |
-| spacing | 338 |
-| spelling | 296 |
-| emendation | 193 |
+| punctuation | 627 |
+| spacing | 337 |
+| spelling | 297 |
+| emendation | 201 |
 | italic | 128 |
 | case | 38 |
 | gap | 9 |
@@ -79,6 +79,7 @@
 - [chapter-02.typ] or → of
 - [chapter-02.typ] 6 → 7
 - [chapter-02.typ] Psalm . → Ps
+- [chapter-02.typ] 18 → 17
 - [chapter-02.typ] Psa . → Ps
 - [chapter-02.typ] 1 → 2
 - [chapter-02.typ] Hest . → Esth
@@ -109,6 +110,8 @@
 - [chapter-04.typ] Matth . → Matt
 - [chapter-05.typ note] Dei → De ciuit. Dei
 - [chapter-05.typ note] Chap . → Chapter
+- [chapter-05.typ] out , → one
+- [chapter-05.typ] or → and
 - [chapter-05.typ] Levit . → Lev
 - [chapter-05.typ] Genes . → Gen
 - [chapter-05.typ] 13 . Thamar → Tamar
@@ -149,9 +152,12 @@
 - [chapter-06.typ] vers → v
 - [chapter-06.typ] Matth . → Matt
 - [chapter-06.typ] 18 → 18, 19
+- [chapter-07.typ] conveniently → conveniently be
+- [chapter-08.typ] are → are not
 - [chapter-08.typ] Matth . → Matt
 - [chapter-08.typ] Jerem . → Jer
 - [chapter-08.typ] Numb . → Num
+- [chapter-08.typ] 6 . → 
 - [chapter-08.typ] . Requires → requires
 - [chapter-08.typ] in → 
 - [chapter-08.typ] . And → ;
@@ -184,6 +190,7 @@
 - [chapter-10.typ] Matth . → Matt
 - [chapter-10.typ] Ephes . → Eph
 - [chapter-10.typ] Cantic . → Song
+- [chapter-10.typ] 1 → 2
 - [chapter-10.typ] Esay → Isa
 - [chapter-10.typ] 7 → 5
 - [chapter-11.typ] Ephes . → Eph
@@ -217,6 +224,7 @@
 - [chapter-14.typ note] parfactis → parentum factis
 - [chapter-14.typ] Colos . → Col
 - [chapter-14.typ] Numb . → Num
+- [chapter-14.typ] 6 → 5
 - [chapter-15.typ] Ephes . → Eph
 - [chapter-15.typ] Colos . → Col
 - [chapter-15.typ] Psal . → Ps
@@ -494,8 +502,7 @@
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → ,
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → :3,
 - [chapter-08.typ] . → ,
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 
@@ -1004,6 +1011,7 @@
 - he → the
 - heard → herd
 - husband → husband.
+- intercession → intermission
 - labors → labours
 - maids → maid's
 - neighbours → neighbour's
