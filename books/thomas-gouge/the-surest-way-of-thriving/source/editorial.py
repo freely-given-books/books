@@ -93,5 +93,7 @@ def LAYOUT(root):
 
 EPUB = {"title": "The Surest and Safest Way of Thriving", "author": "Thomas Gouge",
         "file": "the-surest-way-of-thriving.epub", "front": "ebook-front.html",
-        "cover": "cover.typ", "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-surest-way-of-thriving.typ"]
+        "cover": "cover.typ", "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "the-surest-way-of-thriving-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-surest-way-of-thriving.typ", "the-surest-way-of-thriving-modern.typ"]
