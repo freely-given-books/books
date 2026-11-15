@@ -6,7 +6,7 @@
 | punctuation | 90 |
 | level | 36 |
 | case | 27 |
-| emendation | 22 |
+| emendation | 23 |
 | italic | 2 |
 | spacing | 1 |
 
@@ -27,6 +27,7 @@
 - [sermon.typ] it self → itself
 - [sermon.typ] ver → v
 - [sermon.typ] Mat . → Matt
+- [sermon.typ] 11 → 13
 - [sermon.typ] our selves → ourselves
 - [sermon.typ] it self → itself
 - [sermon.typ] it self → itself

@@ -28,3 +28,7 @@ $ ./fgb sync god-glorified      # after editing chapters/typ: into the TEI, list
 $ ./fgb check god-glorified     # verify
 $ ./fgb build god-glorified     # print PDF and checked EPUB into dist/
 ```
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `god-glorified-in-mans-dependence-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the house pilot on Sinners, then meaning-audited (work/modern-english).
