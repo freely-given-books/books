@@ -8,8 +8,8 @@
 | kind | count |
 | --- | --- |
 | punctuation | 2289 |
-| case | 1762 |
-| spelling | 1688 |
+| case | 1761 |
+| spelling | 1689 |
 | emendation | 803 |
 | italic | 583 |
 | note | 385 |
@@ -816,7 +816,7 @@
 - [chapter9.typ] , you → Reason 3. You
 - [chapter9.typ] ; for → Reason 4. For
 - [chapter9.typ] wch → , which
-- [chapter9.typ] throat → throat, Gen 22:12, 18
+- [chapter9.typ] throat → throat, Gen 22:12-14
 - [chapter9.typ] I → Aye,
 - [chapter9.typ] Summaars → Summa ars
 - [chapter9.typ] c → 
@@ -3251,8 +3251,8 @@
 - they → They (×28)
 - but → But (×26)
 - Word → word (×24)
-- spirit → Spirit (×23)
 - Manna → manna (×22)
+- spirit → Spirit (×22)
 - Apostle → apostle (×19)
 - Mountain → mountain (×18)
 - so → So (×18)
@@ -4483,6 +4483,7 @@
 - verse → verse,
 - vessel → vessel,
 - villified → vilified
+- visible → invisible
 - vvaite → wait
 - vvaiting → waiting
 - vvhich → which
