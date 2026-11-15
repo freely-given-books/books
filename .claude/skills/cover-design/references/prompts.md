@@ -174,6 +174,26 @@ radiating outward, the paper left white at its centre, as if the river's
 source were in that light. Change nothing else.
 ```
 The rays came faint; `art/tint.py` darkens them under a feathered mask.
+**Religious Affections** (Edwards, Part II, xii: "'Tis the mature fruit which
+comes afterwards, and not the beautiful colors and smell of the blossom, that we
+must judge by"), 2026-11-15:
+
+```
+One apple bough in spring, reaching in from the right, thick with open
+blossoms and buds, and among them two or three tiny green apples just setting
+where blossoms have fallen. A few fallen petals below. No tree trunk, no
+background.
+```
+The fruit came back with tall star-shaped crowns (pomegranates); an edit, the
+three fruits selected:
+```
+Redraw these three small fruits as young apples just setting after the
+blossom: round and smooth, with only a tiny dried tuft of sepals at the tip,
+not a tall crown. Same size, same engraved style. Change nothing else.
+```
+A plate whose drawing reaches its left edge goes in from the spine fold (the
+editor: keep art clear of the fold); `art/tint.py` whitens the generated
+paper (not quite white) so the plate's paper is exactly the ground.
 
 ## Marks and devices: woodcut, not engraving
 
