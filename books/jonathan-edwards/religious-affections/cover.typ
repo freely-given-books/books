@@ -16,7 +16,9 @@
 // `pages` here is only for compiling the cover by itself.
 #let paper = rgb(245, 241, 230)              // the plate's own paper
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.jpg", encoding: none),
   plate-at: (dx: 0.7in, dy: 0.42in, width: 5.5in, height: 8.25in),
   ground: paper,
@@ -42,3 +44,5 @@
   ],
   epigraph-source: [Part II],
 )
+
+#cover()

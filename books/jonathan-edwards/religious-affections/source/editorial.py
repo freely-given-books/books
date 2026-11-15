@@ -159,5 +159,7 @@ OUTLINE_MARKS = True
 
 EPUB = {"title": "Religious Affections", "author": "Jonathan Edwards",
         "file": "religious-affections.epub", "front": "ebook-front.html", "cover": "cover.typ",
-        "toc_depth": 4, "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["religious-affections.typ"]
+        "toc_depth": 4, "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "religious-affections-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["religious-affections.typ", "religious-affections-modern.typ"]

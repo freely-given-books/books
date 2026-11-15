@@ -15,6 +15,58 @@
   <corrections xml:id="tcp-corrections">
     <desc>Words the TCP transcription misread or left out, corrected to the 1746 print
     (archive.org treatiseconcerni1746edwa).</desc>
+    <fix pb="7" before="" tcp="12" print="10" after=". 12"
+         evidence="p. 7: 'Deut. 10. 12. And now Israel, What doth the Lord thy God require' (Deut 10:12; drafter A)"/>
+    <fix pb="16" before="" tcp="speak" print="speaks" after=" o"
+         evidence="p. 16: 'So he speaks of his earnest Care for others'"/>
+    <fix pb="16" before="" tcp="10" print="16" after=". a"
+         evidence="p. 16: 'his earnest Care for others, 2 Cor. 8. 16.' (drafter A)"/>
+    <fix pb="16" before="" tcp="or" print="of" after=" E"
+         evidence="p. 16: 'And his Epistles are full of Expressions' (drafter A)"/>
+    <fix pb="17" before="" tcp="Act" print="Acts" after=""
+         evidence="p. 17: 'and so Acts 20. 19.' (drafter A)"/>
+    <fix pb="32" before="" tcp="have" print="hate" after=" t"
+         evidence="p. 32: 'Do I not hate them, O Lord, that hate thee?' (Ps 139:21; drafter B)"/>
+    <fix pb="162" before="4. " tcp="10" print="19" after=""
+         evidence="p. 162: 'Chap. 14. 19. The World seeth me no more' (John 14:19; drafter D)"/>
+    <fix pb="164" before="" tcp="national" print="notional" after=" U"
+         evidence="p. 164: 'a meer notional Understanding' (drafter D)"/>
+    <fix pb="174" before="" tcp="Lost" print="Loft" after=","
+         evidence="p. 174: 'that is let fall from a Loft' (drafter D)"/>
+    <fix pb="178" before="" tcp="soul" print="foul" after=" a"
+         evidence="p. 178: 'the very Nest of foul and delusive Spirits' (drafter D)"/>
+    <fix pb="201" before="" tcp="Lovely" print="Lowly" after=","
+         evidence="p. 201: 'he hath Respect unto the Lowly' (Ps 138:6; drafter E)"/>
+    <fix pb="227" before="" tcp="unfound" print="unsound" after="."
+         evidence="p. 227 note: 'without this Bent, and Change of Affections, is unsound' (drafter F)"/>
+    <fix pb="229" before="" tcp="live" print="lives" after=". H"
+         evidence="p. 229: 'In the Soul where Christ savingly is, there he lives.' (drafter F)"/>
+    <fix pb="229" before="y " tcp="Light" print="Lightsomness" after=""
+         evidence="p. 229: 'as much without any Lightsomness in it's Nature' (one word; the gap after it is filled empty, gaps/manual-z.tsv 800; drafter F)"/>
+    <fix pb="261" before="" tcp="found" print="sound" after="."
+         evidence="p. 261 note: 'and that which is sound.' (Kraken 'sound'; drafter F)"/>
+    <fix pb="267" before="" tcp="send" print="sent" after=" m"
+         evidence="p. 267: 'My Meat is to do the Will of him that sent me' (John 4:34; drafter F)"/>
+    <fix pb="274" before="" tcp="Jan" print="Jam" after="."
+         evidence="p. 274 note: '2 Cor. 8. 8. Jam. 1. 12. 1 Pet. 4. 12.' (drafter G)"/>
+    <fix pb="276" before="" tcp="unfound" print="unsound" after=","
+         evidence="p. 276 note: 'were only discovered to be unsound, by their Apostacy' (drafter G)"/>
+    <fix pb="287" before="" tcp="unfound" print="unsound" after=" H"
+         evidence="p. 287: 'There is never an unsound Heart in the World' (drafter G)"/>
+    <fix pb="295" before="" tcp="Professors" print="Professions" after=" a"
+         evidence="p. 295: 'a thousand earnest Professions and solemn Declarations' (drafter G)"/>
+    <fix pb="296" before="" tcp="Affection" print="Affliction" after=","
+         evidence="p. 296: 'patient and resign'd to God under Affliction' (drafter G)"/>
+    <fix pb="309" before="" tcp="Brother" print="Brothel" after=" H"
+         evidence="p. 309: 'to a Tavern or Brothel House' (drafter G)"/>
+    <fix pb="318" before="e " tcp="saws" print="says" after=""
+         evidence="p. 318: 'By thus loving in Work, the Apostle says' (drafter G)"/>
+    <fix pb="334" before="" tcp="found" print="sound" after=","
+         evidence="p. 334: 'Exercises of Grace, that are sound, and prove effectually' (the long s as p. 227's 'unsound'; Kraken 'found'; medium)"/>
+    <fix pb="115" before="" tcp="Prom se" print="Promise" after="!"
+         evidence="p. 115 note: 'By any Word or Promise! No: this is Delusion.' (drafter C)"/>
+    <fix pb="125" before="" tcp="Affections" print="Assertions" after=","
+         evidence='p. 125: Kraken "ture of Assertions", the sense (witness: assertions proved by miracles); the outside assessment, 2026-11-15'/>
     <fix pb="11" before="" tcp="Se" print="So" after=" V"
          evidence="q8 (proofread, 2026-11-13): p. 11: 'So Verse 128'"/>
     <fix pb="12" before="" tcp="faith" print="saith" after=" t"
@@ -365,8 +417,6 @@
          evidence="c636: p. 327 (scan 338): 'the proper Trial and Proof of them is in their Exercise in Practice'"/>
     <fix pb="328" before="" tcp="they" print="obey" after=","
          evidence="c640: p. 328 (scan 339) footnote: 'If ye consent and obey, ye shall eat the good Things of the Land' (Isai. 1. 19)"/>
-    <fix pb="330" before="" tcp="" print=" hears" after=" then"
-         evidence="c644: p. 330 (scan 341): 'in a Dependance on what he hears; then he may be said'"/>
     <fix pb="338" before="lt of" tcp="" print=" Sin" after=""
          evidence="c658: p. 338 (scan 349): 'as a Balance for the Guilt of Sin, or a Recommendation'"/>
     <fix pb="338" before="t, and" tcp="" print=" not" after=""
@@ -935,5 +985,25 @@
          evidence="p. 334: Kraken 'I have fought a good Fight' (2 Tim. 4. 7); the TCP read the long s and f one for the other"/>
     <fix pb="323" before="know me? " tcp="faith" print="saith" after=" the Lord"
          evidence="p. 323: Kraken 'Was not this to know me? saith the Lord' (Jer. 22. 16); the TCP read the long s as f"/>
+    <fix pb="13" before="Scripture; " tcp="Isal," print="Isai." after=" 5"
+         evidence="p. 13: 'equivalent Terms in Scripture, Isai. 57. 1.' (Kraken; refstyle read the TCP's 'Isal,' as Isa 50)"/>
+    <fix pb="16" before="" tcp="al" print="swal" after=""
+         evidence="p. 16: 'actuated and entirely swal-lowed up' (Kraken 'entirely swallowed up'; the gap before holds 'entirely')"/>
+    <fix pb="17" before="" tcp=". 2 Cor." print=", 2 Cor." after=""
+         evidence="p. 17: 'as always rejoicing, 2 Cor. 6. 10. So he speaks' (Tesseract)"/>
+    <fix pb="193" before="among " tcp="them. Infinitely difficult Miserable" print="them, infinitely difficult. Miserable" after=" is the"
+         evidence="p. 193: 'render the Propagation of the Gospel among them, infinitely difficult. Miserable is the Condition' (Kraken)"/>
+    <fix pb="194" before="" tcp=";" print="" after=" Christ, since"
+         evidence="p. 194: 'the many Thousands that died Martyrs for Christ' (Kraken; the TCP's 'so' is corrected to 'for' in slips, its stop dropped here)"/>
+    <fix pb="215" before="who know" tcp="?" print="" after=""
+         evidence="p. 215: 'who see Christ as he is, who know as they are known' (Kraken; the 'as' the TCP drops is inserted in slips, its '?' dropped here)"/>
+    <fix pb="228" before="" tcp="say they" print="(say they)" after=" when God"
+         evidence="p. 228: 'because ( say they) when God is departed' (Kraken; the gap before, filled '(' from the OCR, is filled empty: gaps/manual-z.tsv 788)"/>
+    <fix pb="264" before="Ibid " tcp="&quot;p." print="p." after=" 71"
+         evidence="p. 264 note: 'Ibid p. 71.' (the TCP keys the quotation mark the print sets at the line's start)"/>
+    <fix pb="296" before="" tcp="." print="" after=" Thing"
+         evidence="p. 296: 'Christian Practice is a costly laborious Thing.' (Kraken; the TCP's stop after the gap is not printed)"/>
+    <fix pb="17" before="and " tcp="to" print="so" after=""
+         evidence="p. 17: 'he speaks of his many Tears, and so Acts 20. 19.' (Kraken, Tesseract)"/>
   </corrections>
 </supplement>
