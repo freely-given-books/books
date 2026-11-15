@@ -14,9 +14,7 @@ Observe with much comfort that #emph[the Lord Jesus Christ gives this repentance
 
 The hearts of the children of Israel had grown hard as an adamant stone. Luther used to think it impossible to convert a Jew. We are far from agreeing with him, and yet we must admit that the seed of Israel have been exceedingly obstinate in their rejection of the Savior during these many centuries. Truly did the Lord say, “Israel would not obey Me.” “He came to His own, and His own did not receive Him.” Yet on behalf of Israel our Lord Jesus is exalted for the giving of repentance and remission. Probably my reader is a Gentile; but yet he may have a very stubborn heart, which has stood out against the Lord Jesus for many years; and yet in him our Lord can work repentance. It may be that you will yet feel compelled to write as William Hone did when he yielded to divine love. He was the author of those most entertaining volumes called the “Every-day Book,” but he was once a stout-hearted infidel. When subdued by sovereign grace, he wrote as follows:
 
-#quote[“The proudest heart that ever beat \ Hath been subdued in me; \ The wildest will that ever rose \ To scorn thy cause and aid thy foes]
-
-Is quell’d, my Lord, by thee.
+#quote[“The proudest heart that ever beat \ Hath been subdued in me; \ The wildest will that ever rose \ To scorn thy cause and aid thy foes \ Is quell’d, my Lord, by thee.]
 
 #quote[“Thy will, and not my will be done, \ My heart be ever thine; \ Confessing thee the mighty Word, \ My Savior Christ, my God, my Lord, \ Thy cross shall be my sign.”]
 

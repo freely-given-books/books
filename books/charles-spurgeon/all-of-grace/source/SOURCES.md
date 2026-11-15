@@ -72,6 +72,12 @@ The 1886 printer's own misprints stay in the transcription as printed
 ("sarpe", "godness", "scarely", "trangression", "Spirt", "checque"; each
 read on the page image) and are corrected in the reg layer.
 
+Corrected 2026-11-15 (found while drafting the Modern English; each read on the page
+image; `work/all-of-grace/typ_edits.py`): the last line of William Hone's hymn (p. 105),
+which the transcription had set as a paragraph of its own, is back in its stanza here in
+grace.thml.xml; misplaced quotation marks (pp. 14, 54, 114), stray marks and two dropped
+points of the print ("Oh, sir, my", "turning and returning. It") are corrected in the reg layer.
+
 ## Modernizing (the reg layer)
 
 The orig layer is the 1886 print. The reg layer (`transcription/modernize.py`,

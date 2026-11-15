@@ -8,7 +8,7 @@ But is it not remarkable that the very chapter in which our Lord makes this swee
 
 But, then, the fourteenth and fifteenth verses speak to us in this way:
 
-#quote[“Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes in Him may have eternal life.”]
+#quote[“Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that whoever believes in Him should not perish, but have eternal life.”]
 
 The eighteenth verse repeats the same delightful doctrine in the broadest terms:
 

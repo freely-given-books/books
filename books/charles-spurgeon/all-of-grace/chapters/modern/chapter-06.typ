@@ -10,13 +10,13 @@ The angel said of our Lord, “You are to give Him the name Jesus, because He wi
 
 If, however, you are troubled about the power of sin, and about the tendencies of your nature, as you well may be, here is a promise for you. Have faith in it, for it stands in that covenant of grace which is ordered in all things and sure. God, who cannot lie, has said in Ezekiel 36:26:
 
-#quote[“I will give you a new heart and put a new spirit within you; I will take away your heart of stone and give you a heart of flesh.”]
+#quote[“I will give you a new heart and I will put a new spirit within you; I will take away your heart of stone and I will give you a heart of flesh.”]
 
 You see, it is all “I will,” and “I will.” “I will give,” and “I will take away.” This is the royal style of the King of kings, who is able to accomplish all his will. No word of his shall ever fall to the ground.
 
 The Lord knows right well that you cannot change your own heart, and cannot cleanse your own nature; but he also knows that he can do both. He can cause the Ethiopian to change his skin, and the leopard his spots. Hear this, and be astonished: he can create you a second time; he can cause you to be born again. This is a miracle of grace, but the Holy Spirit will perform it. It would be a very wonderful thing if one could stand at the foot of the Niagara Falls, and could speak a word which should make the river St. Lawrence begin to run up stream, and leap up that great precipice over which it now rolls in stupendous force. Nothing but the power of God could achieve that marvel; but that would be no more than a fit parallel to what would take place if the course of your nature were altogether reversed. All things are possible with God. He can reverse the direction of your desires and the current of your life, and instead of going downward from God, he can make your whole being tend upward toward God. That is, in fact, what the Lord has promised to do for all who are in the covenant; and we know from Scripture that all believers are in the covenant. Let me read the words again:
 
-#quote[“I will give you a new heart and put a new spirit within you; I will take away your heart of stone and give you a heart of flesh.”]
+#quote[“I will give you a new heart and I will put a new spirit within you; I will take away your heart of stone and I will give you a heart of flesh.”]
 
 What a wonderful promise! And it is yes and amen in Christ Jesus to the glory of God by us. Let us lay hold of it; accept it as true, and appropriate it to ourselves. Then shall it be fulfilled in us, and we shall have, in after days and years, to sing of that wondrous change which the sovereign grace of God has worked in us.
 
