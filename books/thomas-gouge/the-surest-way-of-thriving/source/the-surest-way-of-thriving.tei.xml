@@ -783,9 +783,9 @@ Serm. <choice><orig>quodam</orig><reg resp="#auto" type="spelling">Quodam</reg><
             </p>
             <p>
                <pb n="16" facs="tcp:55174:10"/>
-               <hi>Deus his solvit hoc faenus, scilicet semel in terra, Secundo in caelo. In
-terra a enim elecmosynariis multiplicat opes, in caelo autem longe plura,
-et major a rependit.</hi> God twice pays what's lent to him, once in
+               <hi>Deus <choice><orig>his</orig><reg resp="#editor" type="spelling">bis</reg></choice> solvit hoc faenus, scilicet semel in terra, Secundo in caelo. In
+terra <choice><orig>a</orig><reg resp="#editor" type="emendation"></reg></choice> enim <choice><orig>elecmosynariis</orig><reg resp="#editor" type="spelling">eleemosynariis</reg></choice> multiplicat opes, in caelo autem longe plura,
+et <choice><orig>major a</orig><reg resp="#editor" type="emendation">majora</reg></choice> rependit.</hi> God twice pays what's lent to him, once in
 this world, by multiplying the wealth of alms-givers; and then
 in heaven he pays it over and over. <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Cornelius a lapid. <choice><orig>in</orig><reg resp="#auto" type="spelling">In</reg></choice></hi> <choice><orig>Pro.</orig><reg resp="#editor" type="reference">Prov</reg></choice></hi>
 19<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>17.</p>
@@ -1091,7 +1091,7 @@ having received the money, presently with great joy acquain<g ref="char:EOLhyphe
 his <choice><orig>Master</orig><reg resp="#auto" type="spelling">master</reg></choice> therewith, whereupon said the <choice><orig>Bishop</orig><reg resp="#auto" type="spelling">bishop</reg></choice>, <choice><orig>Thou</orig><reg resp="#auto" type="spelling">thou</reg></choice> mayst
 now see how in wronging the poor of their due, by keeping back
 the third crown which I intended them, thou hast likewise wrong<g ref="char:EOLhyphen"/>ed
-me, <hi>Si enimtres dedisses, trecentos accepisses</hi> <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. If thou hadst gi<g ref="char:EOLhyphen"/>ven
+me, <hi>Si <choice><orig>enimtres</orig><reg resp="#editor" type="emendation">enim tres</reg></choice> dedisses, trecentos accepisses</hi> <choice><orig>&amp;</orig><reg resp="#auto" type="abbreviation">etc</reg></choice><choice><orig>c</orig><reg resp="#auto" type="abbreviation"></reg></choice>. If thou hadst gi<g ref="char:EOLhyphen"/>ven
 those <hi>three <choice><orig>Crowns</orig><reg resp="#auto" type="spelling">crowns</reg></choice></hi> I commanded thee to give, thou hadst re<g ref="char:EOLhyphen"/>ceived
 <hi>three hundred <choice><orig>Crowns</orig><reg resp="#auto" type="spelling">crowns</reg></choice></hi> whereas now I have but <hi>two. Melanc.
 <choice><orig>apud</orig><reg resp="#auto" type="spelling">Apud</reg></choice> <choice><orig>Ioh</orig><reg resp="#auto" type="spelling">Joh</reg></choice>. Manlium in Loc. Com.</hi>
@@ -1544,7 +1544,7 @@ that <hi><choice><orig>GIVING</orig><reg resp="#auto" type="spelling">giving</re
 yet 'tis a certain truth: for <hi>this giving</hi> is lending: and he that lends
 to the Lord will find a greater income at the <choice><orig>years</orig><reg resp="#editor" type="spelling">year's</reg></choice> end, <choice><orig>then</orig><reg resp="#editor" type="spelling">than</reg></choice> he that
 lends to the best of men. Therefore as one well saith, <hi>Eleemosyna
-non est divitiarum dispendium, sed <choice><orig>dite</orig><reg resp="#auto" type="spelling">dit</reg></choice> scendi potius compendium, <choice><abbr>quaest<g ref="char:EOLhyphen"/>us<expan>
+non est divitiarum dispendium, sed <choice><orig><choice><orig>dite</orig><reg resp="#auto" type="spelling">dit</reg></choice> scendi</orig><reg resp="#editor" type="emendation">ditescendi</reg></choice> potius compendium, <choice><abbr>quaest<g ref="char:EOLhyphen"/>us<expan>
                      <am>
                         <g ref="char:abque"/>
                      </am>

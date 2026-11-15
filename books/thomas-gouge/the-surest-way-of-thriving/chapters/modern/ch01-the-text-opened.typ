@@ -15,7 +15,7 @@
 
 In brief, the words contain a #emph[declaration of the great benefit which those bring to themselves who give any relief and help to ministers or other saints.] They teach #emph[that there is no such way to fill our treasures as by emptying them for God.]
 
-To clear the words, I will briefly show you#super[+]:
+To explain the words, I will briefly show you#super[+]:
 
 - 1\. Who is meant here by a #emph[prophet,] and who by a #emph[righteous man.]
 - 2\. What is meant by #emph[receiving] them.
@@ -39,7 +39,7 @@ In answer to this, you#super[+] must know that there are two things to which thi
 
 #par(first-line-indent: (amount: 12pt, all: true))[III. For the third particular: what is meant here by #emph[the reward of a prophet, and of a righteous man?] I answer: these phrases, #emph[receiving a prophet’s, and a righteous man’s, reward,] may be taken #emph[actively] or #emph[passively. Actively,] for the reward which a #emph[prophet] or a #emph[righteous man] gives. #emph[Passively,] for the reward which God gives to the one and to the other. #emph[The reward which a prophet gives] is, as a minister, to preach the word of reconciliation to those who receive him, as #emph[Peter] did to #emph[Cornelius] (Acts 10:34, etc.); to pray for them, as #emph[Abraham] did for #emph[Abimelech] (Gen 20:7, 17); and to bless them, as #emph[Melchizedek] blessed #emph[Abraham] (Gen 14:19).]
 
-The reward which a righteous man gives is, in private, to instruct and edify, to pray for, and to be a good pattern and example of righteousness to, those who entertain or otherwise relieve him.
+The reward which a righteous man gives is, in private, to instruct and edify, to pray for, and to be a good pattern and example of righteousness to those who welcome or otherwise relieve him.
 
 #emph[The reward which is given by God] to either of these, for the kindness anyone shows to them, is so surpassing and excellent a weight of glory that it cannot be expressed by the tongue of men or angels. Yet it differs in degrees, as is clear from Dan 12:3.
 
@@ -49,7 +49,7 @@ The words, explained in this way, give us several points of doctrine.
 
 From the duty expressed here, of receiving and relieving #emph[prophets] and #emph[righteous men,] and from the way it is set down, we may observe:
 
-1\. #emph[Doctrine.] All needed help and good entertainment are to be given to ministers of the gospel. #emph[This is the main and principal point intended.]
+1\. #emph[Doctrine.] All needed help and good hospitality are to be given to ministers of the gospel. #emph[This is the main and principal point intended.]
 
 2\. #emph[Doctrine.] Christian kindness is to be shown not only to ministers, but also to all the members of Christ. #emph[For our blessed Savior is not content to have mentioned a] prophet, #emph[but also adds] a righteous man.
 
@@ -67,7 +67,7 @@ And if anyone gives even a cup of cold water to one of these little ones in the 
 
 Our Savior adds these words to the former to answer beforehand some objections which might be made to them, and also to explain more fully the points mentioned before.
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. #emph[Obj.] It may be put thus: These preachers of the gospel, and those who profess it, are only lowly persons, and little esteemed. What great reward can be expected for entertaining them?]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. #emph[Obj.] It may be put thus: These preachers of the gospel, and those who profess it, are only lowly persons, and little esteemed. What great reward can be expected for welcoming them?]]
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[#emph[A.] Little as they are, be they as insignificant and contemptible as the proud world makes them, yet they are not so little in the eyes of the Lord that he will not reward all who are friendly to them.]]
 

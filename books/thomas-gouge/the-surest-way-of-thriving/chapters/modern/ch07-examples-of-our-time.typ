@@ -20,29 +20,29 @@ After this vow, finding his estate wonderfully increased, he began to build #emp
 
 To give you a clear demonstration of his Christian charity, and of God’s repaying it to him here in this life with temporal blessings, I will list some of the #emph[legacies] he left to charitable uses in his last will and testament, passing over those he gave to his rich relatives and friends.
 
-To poor ministers, widows, and others in distress, about 150 l.
+To poor ministers, widows, and others in distress, about £150
 
-To four of his poor tenants, 20 l.
+To four of his poor tenants, £20
 
-Also 800 l., to be laid out here in woolen cloth or other goods, to be sent to #emph[New England] for the use of his poor relatives there.
+Also £800, to be laid out here in woolen cloth or other goods, to be sent to #emph[New England] for the use of his poor relatives there.
 
 He gave lands to the value of twenty pounds #emph[a year] to certain trustees, to pay for the schooling of forty boys.
 
-To #emph[Bristol,] 54 l. #emph[a year] toward the maintenance of a schoolmaster, and of a lecturer to preach a weekday lecture there; and to other charitable uses.
+To #emph[Bristol,] £54 #emph[a year] toward the maintenance of a schoolmaster, and of a lecturer to preach a weekday lecture there; and to other charitable uses.
 
-He also settled 20 l. #emph[a year] on #emph[trustees] for the schooling of forty poor children in or near #emph[White-Chappel,] and 40 #emph[s.] a year to buy Bibles for some of the children.
+He also settled £20 #emph[a year] on #emph[trustees] for the schooling of forty poor children in or near #emph[White-Chappel,] and 40 shillings a year to buy Bibles for some of the children.
 
-He gave 12 l. #emph[a year] for the maintaining of a school at the #emph[Hay] in #emph[Brecknockshire,] and 40 #emph[s.] more a year to buy books for the scholars.
+He gave £12 #emph[a year] for the maintaining of a school at the #emph[Hay] in #emph[Brecknockshire,] and 40 shillings more a year to buy books for the scholars.
 
-Also 10 l. #emph[a year] for the maintenance of poor distressed people in the #emph[Hospital] of #emph[Bethlehem] in #emph[London.]
+Also £10 #emph[a year] for the maintenance of poor distressed people in the #emph[Hospital] of #emph[Bethlehem] in #emph[London.]
 
 And 10 #emph[l. a year] to ten of the blindest, oldest and poorest clothworkers, at the discretion of the masters, wardens and assistants of that company for the time being.
 
-He gave 40 #emph[l. a year] to #emph[Christ-church Hospital,] for apprenticing four children a year, and 40 #emph[s.] more a year to buy each of the children a Bible.
+He gave 40 #emph[l. a year] to #emph[Christ-church Hospital,] for apprenticing four children a year, and 40 shillings more a year to buy each of the children a Bible.
 
 Besides these, he gave his poor relatives more than two thousand pounds by his will.
 
-And by a codicil attached to it, he left to certain #emph[trustees] a #emph[thousand pounds] to be given to honest poor people, and also 300 #emph[l.] for releasing poor prisoners. These sums have been paid into the hands of the #emph[trustees] by Mr. #emph[Richard Loton] and #emph[Michael Davison] Esq., who to their honor proved themselves #emph[faithful executors] of this charitable will.
+And by a codicil attached to it, he left to certain #emph[trustees] a #emph[thousand pounds] to be given to honest poor people, and also £300 for releasing poor prisoners. These sums have been paid into the hands of the #emph[trustees] by Mr. #emph[Richard Loton] and #emph[Michael Davison] Esq., who to their honor proved themselves #emph[faithful executors] of this charitable will.
 
 #emph[Thomas Arnold, citizen] and #emph[Haberdasher] of #emph[London.] When he first set up for himself, his stock was not great. But being charitably disposed and ready for every good work, he saw his estate, through God’s blessing, increase very much.
 
@@ -64,11 +64,11 @@ I do not deny that #emph[works of mercy] may and ought to be done on that day. F
 
 He sent several poor children of that town to school, and also some of those belonging to #emph[Faringdon,] and he not only paid for their schooling but also supplied them with all such books as were fit and suitable for them. He also had several good books printed at his own expense, which he gave freely to the poor, so that they might be the more encouraged to read and to acquaint themselves with the concerns of another and better life.
 
-He further gave considerable sums of money every year for the constant supply of such godly ministers as he knew to be in want. And on several of them he settled considerable annuities, 10 #emph[l., 20 l. a year] for their lives, besides the legacies, not small ones, that he gave to some of them at his death.
+He further gave considerable sums of money every year for the constant supply of such godly ministers as he knew to be in want. And on several of them he settled considerable annuities, £10 and £20 #emph[a year] for their lives, besides the legacies, not small ones, that he gave to some of them at his death.
 
 Besides all this, his hand was always open and ready to give whenever any fit occasion was offered him. Indeed, such was the largeness of his heart and the tenderness of his compassion that he could hardly pass by anyone he judged a proper object of his charity without contributing freely and bountifully to that person’s relief.
 
-So this pious gentleman honored God with his substance, and ventured on the words of the royal #emph[prophet,] #emph[to cast his bread upon the waters.] The unbelieving world counts this mere folly and usually reckons it among its losses. Yet he, to his advantage, according to the promise attached to it, #emph[found it again, and not after many days.] This bread, like the loaves with which Christ fed the multitude, was multiplied in his hands, and his oil increased by pouring out. He was only a younger brother, and the estate settled on him was only 800 #emph[l. a year,] or thereabouts. And yet, in spite of this (I had almost said) excess of charity, his estate was so far from being ruined, or in the least diminished, that he received not only the same bare measure, but a #emph[much] greater one, #emph[pressed down and running over, measured out to him and his descendants.] So remarkably did God reward his charity in this life, wisely ordering by his good providence that, one way or another, large handfuls were thrown into his bushel from various hands, as overmeasure. There is now left to his heirs an estate of more than double the value of what he received from his father, besides the portions he gave to all his #emph[daughters,] five in number, which were very considerable, to some of them more than 2000 #emph[l.]
+So this pious gentleman honored God with his substance, and ventured on the words of the royal #emph[prophet,] #emph[to cast his bread upon the waters.] The unbelieving world counts this mere folly and usually reckons it among its losses. Yet he, to his advantage, according to the promise attached to it, #emph[found it again, and not after many days.] This bread, like the loaves with which Christ fed the multitude, was multiplied in his hands, and his oil increased by pouring out. He was only a younger brother, and the estate settled on him was only 800 #emph[l. a year,] or thereabouts. And yet, in spite of this (I had almost said) excess of charity, his estate was so far from being ruined, or in the least diminished, that he received not only the same bare measure, but a #emph[much] greater one, #emph[pressed down and running over, measured out to him and his descendants.] So remarkably did God reward his charity in this life, wisely ordering by his good providence that, one way or another, large handfuls were thrown into his bushel from various hands, as overmeasure. There is now left to his heirs an estate of more than double the value of what he received from his father, besides the portions he gave to all his #emph[daughters,] five in number, which were very considerable, to some of them more than £2,000
 
 And here I hope I may, without offense or vainglory, take the liberty to mention, among others, the #emph[charity] and #emph[liberality] of my dear and honored father, Dr. #emph[William Gouge,] late #emph[pastor] of #emph[Black fryers, London.] He was eminent in other graces, and so also in that of charity. It was from him that I first heard that #emph[the tenth part of a rich man’s estate is a fit proportion to be devoted and dedicated to God for charitable uses.] But though he commended that to others, yet by what I find in some papers written in his own hand, I may truly say that he gave #emph[the seventh part of all his yearly income] toward maintaining poor scholars at the university and relieving poor families and distressed persons. And how wonderfully God blessed both his #emph[ministry] and his #emph[outward estate] is so well known to all who lived in his days that I suppose it needless for me to say anything about it. Only I may truly apply to him the words of the #emph[psalmist:] “He is ever generous and quick to lend, and his children are blessed.”
 

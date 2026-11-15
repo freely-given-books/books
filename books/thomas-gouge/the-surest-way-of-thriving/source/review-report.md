@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 377 |
+| spelling | 379 |
 | punctuation | 218 |
-| emendation | 159 |
+| emendation | 163 |
 | spacing | 146 |
 | level | 100 |
 | italic | 87 |
@@ -55,6 +55,8 @@
 - [ch04-proofs-from-scripture.typ] thy self → thyself
 - [ch04-proofs-from-scripture.typ] Math . → Matt
 - [ch05-testimonies.typ] thy self ▪ → thyself:
+- [ch05-testimonies.typ] a → 
+- [ch05-testimonies.typ] major a → majora
 - [ch05-testimonies.typ] Pro . → Prov
 - [ch05-testimonies.typ] Psal . → Ps
 - [ch05-testimonies.typ] Psal . → Ps
@@ -80,6 +82,7 @@
 - [ch06-examples.typ] A ban → Alban
 - [ch06-examples.typ] to me → tome
 - [ch06-examples.typ] Pro . → Prov
+- [ch06-examples.typ] enimtres → enim tres
 - [ch06-examples.typ] aplague → a plague
 - [ch07-examples-of-our-time.typ] school - master → schoolmaster
 - [ch07-examples-of-our-time.typ] Matth . → Matt
@@ -88,6 +91,7 @@
 - [ch08-the-reasons.typ] dis - bursed → disbursed
 - [ch08-the-reasons.typ] any thing → anything
 - [ch08-the-reasons.typ] Pro . → Prov
+- [ch08-the-reasons.typ] dit scendi → ditescendi
 - [ch09-reproof.typ] Jam . → Jas
 - [ch09-reproof.typ] Math . → Matt
 - [ch09-reproof.typ] tooth - ach → toothache
@@ -534,6 +538,7 @@
 - disbursments → disbursements
 - disparagment → disparagement
 - dunghil → dunghill
+- elecmosynariis → eleemosynariis
 - encrease → increase
 - endeavours → endeavors
 - enjoyned → enjoined
@@ -547,6 +552,7 @@
 - hearkning → hearkening
 - hel → hell
 - henefits → benefits
+- his → bis
 - honourable → honorable
 - honoured → honored
 - humane → human
