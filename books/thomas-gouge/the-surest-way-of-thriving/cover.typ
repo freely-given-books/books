@@ -2,10 +2,13 @@
 #import "@local/fgbooks:0.15.0": press-seal
 
 // Full-wrap paperback cover in the Common Weal Press plate design (see
-// scripts/plate_cover.typ), type only, as Owen's and Edwards's: the 1673 title page's
-// own verse, Prov 19:17, with "lendeth unto the Lord" in gold. The back gives Gouge's
-// paradox in his words (chapter 3). The ground's colour is a placeholder until the
-// editor chooses one (EDITION-RULES 7); dark olive, after his father's Domestical Duties.
+// scripts/plate_cover.typ): a framed picture on the olive ground, as God Glorified's.
+// The picture is the figure Gouge quotes, "money here like the widow's oil, the more
+// 'tis poured out, the more it doth increase": the widow of 2 Kings 4 pouring, the
+// door shut, her sons bringing the vessels, the full ones set aside. ChatGPT
+// engraving (fgbooks-generated-art "Surest Way (widow's oil, door shut)"), coloured by
+// ChatGPT and that colour laid under the approved lines by art/transfer.py into
+// art/plate.jpg (the editor, 2026-11-15). The back keeps Gouge's own paradox.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
@@ -18,23 +21,11 @@
 // transparency into image tiles: scripts/plate_cover.typ)
 #plate-cover(
   ground: ground,
-  art: box(width: 5.5in, height: 8.5in, {
-    let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
-      fill: color.mix((ink, 65%), (ground, 35%)), body)
-    let gilt(body) = text(font: DISPLAY, weight: "bold", size: 22pt,
-      tracking: 0.14em, fill: gold, body)
-    place(dx: 0.5in, dy: 3.4in, box(width: 4.5in, {
-      set align(center)
-      set par(leading: 0.55em, spacing: 0pt)
-      plain[He that hath pity]
-      v(0.08in)
-      plain[on the poor]
-      v(0.1in)
-      gilt[lendeth unto the Lord.]
-      v(0.2in)
-      caps([Proverbs xix. 17], 9pt, color.mix((gold, 80%), (ground, 20%)), tracking: 0.25em)
-    }))
-  }),
+  // the picture in a frame of gold: the shut door, the sons, the widow pouring
+  art: box(width: 5.5in, height: 8.5in, place(dx: 0.75in, dy: 2.6in,
+    block(width: 4.0in, height: 3.85in, clip: true, stroke: 0.6pt + gold,
+      place(top + left, dy: -0.958in,
+        image("art/plate.jpg", width: 4.0in, height: 5.333in))))),
   title-y: 0.85in,
   seal: press-seal,
   title: [The Surest Way],

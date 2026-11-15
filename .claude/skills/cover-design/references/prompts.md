@@ -195,6 +195,40 @@ A plate whose drawing reaches its left edge goes in from the spine fold (the
 editor: keep art clear of the fold); `art/tint.py` whitens the generated
 paper (not quite white) so the plate's paper is exactly the ground.
 
+**The Surest Way of Thriving** (Thomas Gouge, quoting Hammond: "money here like
+the widow's oil, the more 'tis poured out, the more it doth increase"), 2026-11-15.
+Bread on the waters did not excite the editor, a cruse pouring by itself was "too
+abstract"; the scene, written to 2 Kings 4:4-6 (the first try had the door open,
+against v. 4):
+
+```
+Inside a plain, humble room of an old Eastern house, its heavy wooden door
+shut and barred, a poor widow kneels on the floor pouring oil from a small
+earthen pot into a large clay vessel. Borrowed vessels of many shapes stand
+around her; those already full are set aside against the wall, and her elder
+son, a boy of about twelve, carries one more empty jar toward her while his
+younger brother stands by the door watching. Soft light falls from a small high
+window onto the stream of oil. Calm and quiet, the room simply drawn.
+```
+Coloured by ChatGPT, its colour then transferred under the approved lines:
+```
+Hand-colour this engraving as a Victorian colourist would, with soft
+transparent watercolour washes laid under the black lines; keep every line
+exactly as it is and change nothing in the drawing. A quiet afternoon inside a
+humble room of an old Eastern house. The plaster walls warm cream and pale
+ochre, a little cooler in the corners; the floor warm sandy stone. A shaft of
+soft golden light falls from the small high window across toward the widow.
+The heavy door and its bar old weathered wood, warm grey-brown. The widow's
+mantle and headcloth a faded indigo blue, her robe beneath it a soft
+grey-blue, her face and hands a natural warm skin tone. The elder boy's tunic
+undyed linen, oatmeal, his headband faded madder red; the younger boy's
+tunic a pale linen white with a little warm shadow. All the jars terracotta
+clay in slightly varied warm reds and browns; the jars set against the wall
+full to the brim with golden olive oil; the stream of oil she pours a clear
+shining gold. Colours clear but gentle, the white of the paper still showing
+through; no new lines, no texture, no border, no text.
+```
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut
