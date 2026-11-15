@@ -18,6 +18,9 @@ sys.path.insert(0, str(W))
 from foundation import key, is_head, TOK, pages_from_export, ccel_text
 
 T = json.loads((W / "foundation.json").read_text())
+# Lines of verse set as paragraphs by the layout pass, put back as their stanza's last line
+# (found 2026-11-15 drafting the Modern English; p. 105, William Hone's hymn, read on the image).
+VERSE_LINE_FIXES = ["Is quell"]                   # the line's opening words
 
 
 # --- geometry: Kraken line -> (left, right, height) from Tesseract's TSV ---------------------
@@ -418,6 +421,13 @@ def main(out_path):
                 cur = ["p", list(idxs), []]; blocks.append(cur)
             else:
                 cur[1] += idxs
+        # verse lines the geometry set as a paragraph of their own, read on the page image:
+        # each is the last line of the stanza before it (VERSE_LINE_FIXES)
+        for k in range(len(blocks) - 1, 0, -1):
+            kind, idx, _ = blocks[k]
+            words = " ".join(toks[i]["t"] for i in idx[:4])
+            if kind == "p" and blocks[k - 1][0] == "verse" and any(words.startswith(w) for w in VERSE_LINE_FIXES):
+                blocks[k - 1][2].append(len(blocks[k - 1][1])); blocks[k - 1][1] += idx; del blocks[k]
         body.append((chapters[ci][0], blocks))
     for title, blocks in body:
         for kind, idx, _ in blocks:
