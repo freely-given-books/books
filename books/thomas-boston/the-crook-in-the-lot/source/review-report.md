@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1033 |
-| emendation | 725 |
-| punctuation | 221 |
+| spacing | 1029 |
+| emendation | 727 |
+| punctuation | 218 |
 | spelling | 55 |
 | case | 2 |
 | grammar | 1 |
@@ -98,7 +98,7 @@
 - [part-1.typ] . iv . → 4:
 - [part-1.typ] Psal . lxxxi . → Ps 81:
 - [part-1.typ] ver → v
-- [part-1.typ] . xvi . → 16:
+- [part-1.typ] . xvi . 10 → 16:11
 - [part-1.typ] Psal . lxxvi . → Ps 76:
 - [part-1.typ] i → 1
 - [part-1.typ] ver → vv
@@ -139,7 +139,8 @@
 - [part-1.typ] . i . → 1:
 - [part-1.typ] Cant . ii . → Song 2:
 - [part-1.typ] iv → 4
-- [part-1.typ] Psal . cxvii . → Ps 147:
+- [part-1.typ] Psal . cxvii . → Ps 147:10,
+- [part-1.typ] , 12 → 
 - [part-1.typ] . xxi . → 21:
 - [part-1.typ] Numb . xii . → Num 12:
 - [part-1.typ] Psal . xxviii . → Ps 28:
@@ -167,7 +168,7 @@
 - [part-1.typ] v → 5
 - [part-1.typ] xvi → 16
 - [part-1.typ] Psal . cxix . → Ps 119:
-- [part-1.typ] . v . → 5:
+- [part-1.typ] . v . 10 , → 5:
 - [part-1.typ] . xx . → 20:
 - [part-1.typ] Psal . cxxxv . → Ps 135:
 - [part-1.typ] x → 10
@@ -208,7 +209,8 @@
 - [part-1.typ] Psal . cxvi . → Ps 116:
 - [part-1.typ] . iv . → 4:
 - [part-1.typ] . xviii . → 18:
-- [part-1.typ] xviii → 18
+- [part-1.typ] xviii . → 18:1,
+- [part-1.typ] , 31 → 
 - [part-1.typ] Ver . → Verse
 - [part-1.typ] . xxxvi . → 36:
 - [part-1.typ] . vii . → 7:
@@ -353,7 +355,7 @@
 - [part-2.typ] . v . → 5:
 - [part-2.typ] . v . → 5:
 - [part-2.typ] . v . → 5:
-- [part-2.typ] . vi . → 6:
+- [part-2.typ] . vi . → 8:
 - [part-2.typ] . xlviii . → 48:
 - [part-2.typ] . vii . → 7:
 - [part-2.typ] iv → 4
@@ -690,7 +692,7 @@
 - [part-3.typ] . xiv . → 14:
 - [part-3.typ] . xxi . → 21:
 - [part-3.typ] . iv . → 4:
-- [part-3.typ] xviii → 18
+- [part-3.typ] xviii . 7 . → 18:8
 - [part-3.typ] xxxii → 32
 - [part-3.typ] Eccles . iii . → Eccl 3:
 - [part-3.typ] vii → 7
@@ -796,7 +798,6 @@
 - [part-1.typ] . → 
 - [part-1.typ] . → :
 - [part-1.typ] " → 
-- [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → :
@@ -942,8 +943,6 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :

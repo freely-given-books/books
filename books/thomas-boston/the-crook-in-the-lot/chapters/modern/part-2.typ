@@ -4,7 +4,7 @@
 
 #align(center)[#emph[Better to be of a humble spirit with the lowly than to divide the spoil with the proud.]]
 
-If men could once be brought to believe that it is better to have their minds brought to bend to the crook in their lot than to force the crook to be made even to suit their mind, they would then be in a fair way to bring their affairs in that case to a good outcome. Here, then, is the divine decision in that case: “Better to be of a humble spirit with the lowly than to divide the spoil with the proud.” In these words,
+If men could once be brought to believe that it is better to have their minds brought to bend to the crook in their lot than to force even the crook itself to suit their mind, they would then be in a fair way to bring their affairs in that case to a good outcome. Here, then, is the divine decision in that case: “Better to be of a humble spirit with the lowly than to divide the spoil with the proud.” In these words,
 
 #emph[First,] there is a comparison set up, and that between two parties, and two points in which they differ vastly.
 
@@ -40,7 +40,7 @@ I. We shall consider the generation of the lowly afflicted ones, whose spirit is
 
 5\. Though all the godly are of that generation, there are some of them to whom that character belongs more especially. The way to heaven lies through tribulation for all (Acts 14:22), and all Christ’s followers are reconciled to it nonetheless (Luke 14:26). Yet some of them are more remarkably disciplined than others, and their spirit is nevertheless humbled by it and brought down to their lot: “Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me” (Ps 131:2). “For I have learned to be content regardless of my circumstances. I know how to live humbly, and I know how to abound. I am accustomed to any and every situation—to being filled and being hungry, to having plenty and having need” (Phil 4:11–12).
 
-#emph[Lastly,] a lowly disposition of soul, and the habitual aim and bent of the heart that way, is very favorably regarded in heaven. If we looked for a generation perfectly purged of pride, and of the heart’s risings against their adverse lot at any time, we would find none in this world. But those who sincerely aim and endeavor to reach it, and to keep the way of contented submission, returning to it again though they are sometimes blown aside, God counts to be that lowly generation (2 Cor 8:12; Jas 5:11).
+#emph[Lastly,] a lowly disposition of soul, and the habitual aim and bent of the heart that way, is very favorably interpreted in heaven. If we looked for a generation perfectly purged of pride, and of the heart’s risings against their adverse lot at any time, we would find none in this world. But those who sincerely aim and endeavor to reach it, and to keep the way of contented submission, returning to it again though they are sometimes blown aside, God counts to be that lowly generation (2 Cor 8:12; Jas 5:11).
 
 II. We shall go into the particulars of their character. Three things together make up their character.
 
@@ -86,11 +86,11 @@ II. We shall consider the generation of the #emph[proud] who get their will and 
 
 2\. The pride of their heart exposes them particularly to crosses. A proud heart will make a cross for itself where a lowly soul would find none (Esth 5:13). It will make a real cross ten times heavier than it would be to the humble. The generation of the proud are like nettles and thorn-hedges, on which things flying about settle, while they pass over low and plain things. So none are more exposed to crosses than they are, though none are so unfit to bear them, as appears from what follows:
 
-#emph[Secondly,] reigning pride in their spirit. Their spirits were never subdued by a work of thorough humiliation; they remain at the height where the corruption of nature set them. That is why they can in no way bear the yoke God lays on them. The neck is swollen with the infection of pride and passion, so when the yoke once begins to touch it, they can have no more ease. We may view the case of the proud generation here in three things.
+#emph[Secondly,] reigning pride in their spirit. Their spirits were never subdued by a work of thorough humiliation; they remain at the height where the corruption of nature set them. That is why they can in no way bear the yoke God lays on them. The neck is swollen with the bad humors of pride and passion, so when the yoke once begins to touch it, they can have no more ease. We may view the case of the proud generation here in three things.
 
 1\. They value themselves too highly, and so the proud mind says the man should not stoop to the yoke; it is beneath him. What swelling vanity there is in this: “Who is the #smallcaps[Lord] that I should obey His voice?” (Exod 5:2). That is why a work of humiliation is necessary to make one take on the yoke, whether of #emph[Christ’s] precepts or of his providence. The first error is in the understanding, which is why Solomon commonly calls a wicked man a fool. Accordingly the first stroke in conversion falls there too, humbling by conviction. Men are bigger in their own conceit than they really are. So God, suiting things to what we really are, cannot please us.
 
-2\. They have an unmortified self-will, arising from that overvaluing of themselves, and it says he will not stoop (Exod 5:2). The question between Heaven and us is whether God’s will or our own must win the day. Our will is corrupt; God’s will is holy; they cannot agree. God says in his providence that our will must yield to his. But our will will not do that until the iron sinew in it is broken (Rom 6:7; Isa 48:4).
+2\. They have an unmortified self-will, arising from that overvaluing of themselves, and it says he will not stoop (Exod 5:2). The question between Heaven and us is whether God’s will or our own must win the day. Our will is corrupt; God’s will is holy; they cannot agree. God says in his providence that our will must yield to his. But our will will not do that until the iron sinew in it is broken (Rom 8:7; Isa 48:4).
 
 3\. They have a crowd of unsubdued passions taking the side of self-will, and these say he shall not stoop (Rom 7:8–9). And so the war begins, and there is a field of battle within the man and outside him (Jas 4:1).
 
@@ -136,7 +136,7 @@ Now, is it not better to be fit for communion with God than to have him set agai
 
 #emph[Secondly,] those whose spirits are brought down to their afflicted lot have much quiet and rest of mind, while the proud, who must have their lot brought up to their liking, have much unrest, trouble and vexation. Consider here, on the one hand:
 
-1\. Quiet of mind and ease within is a great blessing, on which the comfort of life depends. Nothing outside us can make one’s life happy without it (Dan 5:6). And where it is kept, nothing can make life miserable (John 16:33). When this is secured in God, defiance is given to all the troubles of the world (Ps 46:2–4), like the child sailing in the midst of the rolling waves.
+1\. Quiet of mind and ease within is a great blessing, on which the comfort of life depends. Without it, nothing can make one’s life happy (Dan 5:6). And where it is kept, nothing can make life miserable (John 16:33). When this is secured in God, defiance is given to all the troubles of the world (Ps 46:2–4), like the child sailing in the midst of the rolling waves.
 
 2\. The spirit brought down to the lot creates and keeps this inward calm. All our trouble in our lot in the world rises from our mind’s disagreement with it. Let the mind be brought to the lot, and the whole tumult is instantly hushed. Let it be kept in that disposition, and the man will stand at ease in his affliction, like a rock unmoved by the waters beating on it: “Let the peace of Christ rule in your#super[+] hearts, for to this you were called” (Col 3:15).
 

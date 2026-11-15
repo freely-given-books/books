@@ -90,7 +90,7 @@ II. We shall consider the generation of the #emph[proud] getting their will, and
 
 1\. They have an over-value for themselves; and so the proud mind says, the man should not stoop to the yoke; it is below them. What a swelling vanity is in that, Exod 5:2. “Who is the Lord, that I should obey his voice?” Hence a work of humiliation is necessary to make one take on the yoke, whether of #emph[Christ’s] precepts or providence. The first error is in the understanding, whence Solomon ordinarily calls a wicked man a fool; accordingly the first stroke in conversion is there too, by conviction to humble. Men are bigger in their own conceit than they are indeed; therefore God, suiting things to what we are really, cannot please us.
 
-2\. They have an unmortified self-will arising from that over-value for themselves, and it says he will not stoop, Exod 5:2. The question betwixt Heaven and us is, Whether God’s will or our own must carry it? Our will is corrupt, God’s will is holy; they cannot agree in one. God says in his providence, our will must yield to his: but that it will not do till the iron sinew in it be broken, Rom 6:7. Isa 48:4.
+2\. They have an unmortified self-will arising from that over-value for themselves, and it says he will not stoop, Exod 5:2. The question betwixt Heaven and us is, Whether God’s will or our own must carry it? Our will is corrupt, God’s will is holy; they cannot agree in one. God says in his providence, our will must yield to his: but that it will not do till the iron sinew in it be broken, Rom 8:7. Isa 48:4.
 
 3\. They have a crowd of unsubdued passions taking part with the self-will, and they say, he shall not stoop, Rom 7:8, 9 and so the war begins, and there is a field of battle within and without the man, Jas 4:1.
 
