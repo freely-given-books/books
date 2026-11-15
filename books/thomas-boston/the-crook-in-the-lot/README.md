@@ -48,3 +48,7 @@ $ ./fgb build crook     # print PDF, cover and checked EPUB into dist/
 
 The PDF and the EPUB are not kept in git: `./fgb build crook` makes them in
 `dist/thomas-boston/the-crook-in-the-lot/`.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `the-crook-in-the-lot-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-14 from the brief in work/modern-english/crook-brief.md (six drafters, slices in work/modern-english/crook/), then meaning-audited (work/modern-english/audit-crook).

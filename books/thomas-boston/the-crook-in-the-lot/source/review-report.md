@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 1033 |
-| emendation | 725 |
-| punctuation | 221 |
-| spelling | 55 |
+| spacing | 1036 |
+| emendation | 731 |
+| punctuation | 231 |
+| spelling | 57 |
 | case | 2 |
 | grammar | 1 |
 
@@ -27,7 +27,8 @@
 - [part-1.typ] . v . → 5:
 - [part-1.typ] . xxv . → 25:
 - [part-1.typ] iv → 4
-- [part-1.typ] Matth . ii . → Matt 2:
+- [part-1.typ] Matth → ”
+- [part-1.typ] ii → 2
 - [part-1.typ] Eccles . ix . → Eccl 9:
 - [part-1.typ] i → 1
 - [part-1.typ] Psal . lxxiii . → Ps 73:
@@ -92,19 +93,20 @@
 - [part-1.typ] Psal . xciv . → Ps 94:
 - [part-1.typ] ix → 9
 - [part-1.typ] . iv . → 4:
-- [part-1.typ] . Jam . i . → , Jas 1:
+- [part-1.typ] Jam → ”
+- [part-1.typ] i → 1
 - [part-1.typ] xiv → 14
 - [part-1.typ] . iii . → 3:
 - [part-1.typ] . iv . → 4:
 - [part-1.typ] Psal . lxxxi . → Ps 81:
 - [part-1.typ] ver → v
-- [part-1.typ] . xvi . → 16:
+- [part-1.typ] . xvi . 10 → 16:11
 - [part-1.typ] Psal . lxxvi . → Ps 76:
 - [part-1.typ] i → 1
 - [part-1.typ] ver → vv
 - [part-1.typ] ii → 2
 - [part-1.typ] ver → v
-- [part-1.typ] ver → v
+- [part-1.typ] ver → ” v
 - [part-1.typ] . xlvi . → 46:
 - [part-1.typ] . xvi . → 16:
 - [part-1.typ] . viii . → 8:
@@ -139,7 +141,8 @@
 - [part-1.typ] . i . → 1:
 - [part-1.typ] Cant . ii . → Song 2:
 - [part-1.typ] iv → 4
-- [part-1.typ] Psal . cxvii . → Ps 147:
+- [part-1.typ] Psal . cxvii . → Ps 147:10,
+- [part-1.typ] , 12 → 
 - [part-1.typ] . xxi . → 21:
 - [part-1.typ] Numb . xii . → Num 12:
 - [part-1.typ] Psal . xxviii . → Ps 28:
@@ -167,7 +170,7 @@
 - [part-1.typ] v → 5
 - [part-1.typ] xvi → 16
 - [part-1.typ] Psal . cxix . → Ps 119:
-- [part-1.typ] . v . → 5:
+- [part-1.typ] . v . 10 , → 5:
 - [part-1.typ] . xx . → 20:
 - [part-1.typ] Psal . cxxxv . → Ps 135:
 - [part-1.typ] x → 10
@@ -208,7 +211,8 @@
 - [part-1.typ] Psal . cxvi . → Ps 116:
 - [part-1.typ] . iv . → 4:
 - [part-1.typ] . xviii . → 18:
-- [part-1.typ] xviii → 18
+- [part-1.typ] xviii . → 18:1,
+- [part-1.typ] , 31 → 
 - [part-1.typ] Ver . → Verse
 - [part-1.typ] . xxxvi . → 36:
 - [part-1.typ] . vii . → 7:
@@ -353,7 +357,7 @@
 - [part-2.typ] . v . → 5:
 - [part-2.typ] . v . → 5:
 - [part-2.typ] . v . → 5:
-- [part-2.typ] . vi . → 6:
+- [part-2.typ] . vi . → 8:
 - [part-2.typ] . xlviii . → 48:
 - [part-2.typ] . vii . → 7:
 - [part-2.typ] iv → 4
@@ -386,7 +390,8 @@
 - [part-2.typ] . v . → 5:
 - [part-2.typ] Psal . xxx . → Ps 30:
 - [part-2.typ] . viii . → 8:
-- [part-2.typ] Matth . v . → Matt 5:
+- [part-2.typ] Matth → ”
+- [part-2.typ] v → 5
 - [part-2.typ] Is . lxvi . → Isa 66:
 - [part-2.typ] Psal . cxxxviii . → Ps 138:
 - [part-2.typ] Is . lvii . → Isa 57:
@@ -652,6 +657,7 @@
 - [part-3.typ] xi → 11
 - [part-3.typ] ii → 2
 - [part-3.typ] v → 5
+- [part-3.typ] is → is not
 - [part-3.typ] Psal . lxxxviii . → Ps 88:
 - [part-3.typ] . ii . → 2:
 - [part-3.typ] xvi → 16
@@ -690,7 +696,7 @@
 - [part-3.typ] . xiv . → 14:
 - [part-3.typ] . xxi . → 21:
 - [part-3.typ] . iv . → 4:
-- [part-3.typ] xviii → 18
+- [part-3.typ] xviii . 7 . → 18:8
 - [part-3.typ] xxxii → 32
 - [part-3.typ] Eccles . iii . → Eccl 3:
 - [part-3.typ] vii → 7
@@ -748,6 +754,8 @@
 - [part-1.typ] . → :
 - [part-1.typ] . → 
 - [part-1.typ] . → :
+- [part-1.typ] . → Matt
+- [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → 
@@ -773,6 +781,9 @@
 - [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → 
+- [part-1.typ] . → :
+- [part-1.typ] . → ,
+- [part-1.typ] . → Jas
 - [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → :
@@ -812,7 +823,6 @@
 - [part-1.typ] . → :
 - [part-1.typ] . → :
 - [part-1.typ] . → :
-- [part-1.typ] . → :
 - [part-1.typ] . → 
 - [part-1.typ] . → :
 - [part-1.typ] . → :
@@ -835,6 +845,7 @@
 - [part-2.typ] . → :
 - [part-2.typ] . → :
 - [part-2.typ] . → :
+- [part-2.typ] . → .”
 - [part-2.typ] . → 
 - [part-2.typ] . → :
 - [part-2.typ] " → 
@@ -853,6 +864,8 @@
 - [part-2.typ] . → 
 - [part-2.typ] . → :
 - [part-2.typ] . → 
+- [part-2.typ] . → Matt
+- [part-2.typ] . → :
 - [part-2.typ] . → 
 - [part-2.typ] . → :
 - [part-2.typ] . → :
@@ -887,6 +900,7 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] , → ,”
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
@@ -917,33 +931,35 @@
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] . → .”
+- [part-3.typ] . → .”
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] . → .”
 - [part-3.typ] . → :
 - [part-3.typ] . → 
-- [part-3.typ] . → 
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → 
-- [part-3.typ] . → :
-- [part-3.typ] . → :
-- [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → :
-- [part-3.typ] . → :
 - [part-3.typ] . → 
-- [part-3.typ] . → :
+- [part-3.typ] . → .”
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → 
 - [part-3.typ] . → :
 - [part-3.typ] . → :
+- [part-3.typ] . → :
 - [part-3.typ] . → 
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → :
+- [part-3.typ] . → 
+- [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
 - [part-3.typ] . → :
@@ -978,7 +994,9 @@
 - Micah → Mic (×2)
 - PROVERBS → Prov
 - affections → afflictions
+- death → death”
 - disolated → desolated
+- explanatory → exemplary
 - happinness → happiness
 - it → it.
 - performed → performeth
