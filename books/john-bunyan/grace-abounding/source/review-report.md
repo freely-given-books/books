@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | case | 2433 |
-| punctuation | 1862 |
-| emendation | 1046 |
+| punctuation | 1860 |
+| emendation | 1050 |
 | spelling | 943 |
-| spacing | 690 |
+| spacing | 691 |
 | italic | 376 |
 | grammar | 21 |
 | merge | 2 |
@@ -57,6 +57,7 @@
 - [preface.typ] Hearts , Psal . 73 . → hearts (Ps 77:
 - [preface.typ] , 6 , 7 , 8 , 9 , 10 , 11 , → –
 - [preface.typ] that → there
+- [preface.typ] of → for
 - [preface.typ] Milk - → milk
 - [preface.typ] Kindness , → kindness
 - [preface.typ] God → God did not play in convincing of me, the devil
@@ -775,6 +776,7 @@
 - [relation.typ] 6 . 30 → 37)
 - [relation.typ] my self → myself
 - [relation.typ] my self , → myself
+- [relation.typ] . 3 . → 7:
 - [relation.typ] 251 → 250
 - [relation.typ] Ground , → ground
 - [relation.typ] Sathan , → Satan
@@ -949,6 +951,7 @@
 - [call-to-the-ministry.typ] 301 → 300
 - [call-to-the-ministry.typ] knew’ twas Love → knew it was love
 - [call-to-the-ministry.typ] 302 → 301
+- [call-to-the-ministry.typ] love → while
 - [call-to-the-ministry.typ] 303 → 302
 - [call-to-the-ministry.typ] All → , all of
 - [call-to-the-ministry.typ] 304 → 303
@@ -1054,6 +1057,7 @@
 - [imprisonment.typ] 338 → 337
 - [imprisonment.typ] ’ twas → ’twas
 - [imprisonment.typ] Wherefore , → wherefore
+- [imprisonment.typ] save → 
 - [imprisonment.typ] 339 → 338
 - [imprisonment.typ] Resolution , → resolution
 - [imprisonment.typ] , etc . → ?
@@ -2476,8 +2480,6 @@
 - [relation.typ] , → 
 - [relation.typ] ; → .
 - [relation.typ] , → (
-- [relation.typ] . → 
-- [relation.typ] . → :
 - [relation.typ] ( → 
 - [relation.typ] ) → ,
 - [relation.typ] ( → 
