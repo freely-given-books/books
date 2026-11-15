@@ -1,6 +1,6 @@
 == The Testimonies of Divines
 
-These proofs from Scripture are enough to convince any Christian of the truth of the doctrine. Yet for your#super[+] further satisfaction I will briefly give you#super[+] the judgment of some ancient fathers, and of some modern divines, on the same.
+These proofs from Scripture are enough to convince any Christian of the truth of the doctrine. Yet for your#super[+] further satisfaction I will briefly give you the judgment of some ancient fathers, and of some modern divines, on the same.
 
 #emph[Non qui habet et Servat, sed qui impertit est Dives, et impertitio, non autem possessio divites facit. Clemens Alexand.] Paedag. Lib. 3. Not he who possesses wealth and keeps it by him, but he who distributes it, is rich; nor is it the having but the laying out of riches that makes men rich.
 

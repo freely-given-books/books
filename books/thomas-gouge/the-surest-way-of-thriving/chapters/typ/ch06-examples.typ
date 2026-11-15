@@ -7,9 +7,9 @@ The widow of #emph[Sareptah] nourished the prophet #emph[Elijah] in her house du
 How abundantly was the #emph[Shunamite]'s kindness to the prophet #emph[Elisha,] recompensed?
 
 - 1\. By the gift of a Son after long barrenness.
-- 2\. By restoring her Son to life again when he was dead. 2 Kgs 16.
+- 2\. By restoring her Son to life again when he was dead. 2 Kgs 4:35.
 - 3\. By forewarning her of a famine approaching, 2 Kgs 8:1, 4.
-- 4\. By the restoring of her house and land, lost in her long absence; by reason of the famine, 2 Kgs 4:28.
+- 4\. By the restoring of her house and land, lost in her long absence; by reason of the famine, 2 Kgs 8:6.
 
 #emph[Notable is the instance of] Job. #emph[What a merciful man he was, we may read chap.] 29. 12, 13, 15. I delivered the poor that cried, and the fatherless, and him that had none to help him. The blessing of him that was ready to perish came upon me, and I caused the widow's heart to sing for joy. I was eyes to the blind, and feet I was to the lame, I was a father to the poor. #emph[And chap.] 31. 16, & 22. if I have withheld the poor from their desire or have caused the eyes of the widow to fail, or have eaten my morsel alone, and the fatherless hath not eaten thereof; if I have seen any perish for want of clothing, or any poor without covering; if his loins have not blessed me, and if he were not warmed with the fleece of my sheep: then let mine arms fall from my shoulder-blade, and mine arm be broken from the bone. #emph[I have transcribed his own words thus at large, that I might set this worthy pattern before the readers eyes.]
 
