@@ -83,4 +83,8 @@ EPUB = {"title": "The Glorious Feast of the Gospel", "author": "Richard Sibbes",
         "modern": {"chapters": "chapters/modern", "file": "the-glorious-feast-of-the-gospel-modern.epub",
                    "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
 PRINT = ["the-glorious-feast-of-the-gospel.typ", "the-glorious-feast-of-the-gospel-modern.typ"]
+# Look-alike word swaps that are corrections, not spellings (colophon 0.53.0): the 9th sermon's "hang with the
+# greatest worldling" -> "change with" (the editor, 2026-11-15; the next clause "he would not change his place").
+EMENDATION_PAIRS = {("hang", "change")}
+
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks

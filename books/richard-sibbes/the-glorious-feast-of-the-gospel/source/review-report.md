@@ -10,7 +10,7 @@
 | punctuation | 2289 |
 | case | 1761 |
 | spelling | 1689 |
-| emendation | 803 |
+| emendation | 805 |
 | italic | 583 |
 | note | 385 |
 | spacing | 183 |
@@ -383,6 +383,7 @@
 - [chapter3.typ] world → world,' Phil 2:15
 - [chapter3.typ] no where → nowhere
 - [chapter3.typ] Gods → , God’s
+- [chapter3.typ] is → is not
 - [chapter3.typ] In → Obs. In
 - [chapter3.typ] vail → veil,' verse 7
 - [chapter3.typ] The → Reason. The
@@ -897,6 +898,7 @@
 - [chapter9.typ] over much → overmuch
 - [chapter9.typ] saith → saith, 1 Cor 15:19
 - [chapter9.typ] fore - taste → foretaste
+- [chapter9.typ] hang → change
 - [chapter9.typ] , then → than
 - [chapter9.typ] my self → myself
 - [chapter9.typ] Covenant , → covenant
