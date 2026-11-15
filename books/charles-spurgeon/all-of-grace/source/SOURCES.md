@@ -59,8 +59,11 @@ folder outside the repository):
 4. **Italics** (`italics.py`): the print's italic (Scripture quoted in the
    text, Spurgeon's emphasis) measured as the slant of each word on the
    page image, against the word's own upright slant elsewhere in the book
-   (168 italic runs). Small capitals (each chapter's opening words and the
-   centred appeals) are set as the print sets them.
+   (168 italic runs). Every page was then read against the italics on its image
+   (2026-11-15, the editor's request): 78 places where the measure was wrong, mostly spans cut
+   at a line-end hyphen or short italic words missed, are set as printed by
+   `transcription/italic-fixes.tsv`, which `assemble.py` applies. Small capitals
+   (each chapter's opening words and the centred appeals) are set as the print sets them.
 5. **Completeness** (`completeness.py`): every word of the corrected Kraken
    text is in the transcription, and no run of words that GLM, Tesseract or
    archive.org's OCR found on the pages is missing from it (what they have
