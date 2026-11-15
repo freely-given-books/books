@@ -58,3 +58,7 @@ $ ./fgb build pilgrim      # print PDF, cover and checked EPUB into dist/
 The PDF and the EPUB are not kept in git: `./fgb build pilgrim` makes them
 in `dist/john-bunyan/the-pilgrims-progress/`. `cover.typ` is set for 357
 pages (spine by Lulu's formula, 0.86"); change `pages` if the count changes.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/` (the same part-1/ and part-2/ folders); its print file is `the-pilgrims-progress-modern.typ` (the front note on the publisher's page), its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the brief in work/modern-english/pilgrim-brief.md (fourteen drafters, slices in work/modern-english/pilgrim/), modernized less than any book before it: grammar, words that now mislead, and only the sentences that lose a reader; every name, the dream frame and the famous lines untouched; all verse kept exactly as printed (rules §1.5); the recurring verses rendered the same each time, the BSB kept to the words the allegory leans on. Meaning-audited (work/modern-english/audit-pilgrim) and independently assessed (work/modern-english/assessments/pilgrim-2026-11-15).
