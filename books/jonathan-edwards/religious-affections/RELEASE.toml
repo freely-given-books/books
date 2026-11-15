@@ -21,7 +21,7 @@ sha256 = "238dbbe338902d11dd1f514be5fe570d22c606892e511c7f044d2cda38086924"
 file = "source/N04635.supplied.xml"
 description = "Corrections to the TCP transcription, read on the 1746 page images (dropped and misread words, f for s, among others)"
 url = "https://archive.org/details/treatiseconcerni1746edwa"
-sha256 = "23d829fcb08b4f4ce0306073ad0f3315c73e724e5b46f4dc2477d69904f3a991"
+sha256 = "b4940dea84fc01710e8e54ffc8d96f775bb45581459971b2e4d15567b304c6de"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]

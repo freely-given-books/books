@@ -2,15 +2,15 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1772 |
-| punctuation | 1702 |
-| spacing | 1104 |
-| emendation | 705 |
-| case | 425 |
-| italic | 326 |
+| spelling | 1781 |
+| punctuation | 1703 |
+| spacing | 1112 |
+| emendation | 723 |
+| case | 429 |
+| italic | 327 |
 | level | 207 |
-| gap | 55 |
-| grammar | 16 |
+| gap | 57 |
+| grammar | 17 |
 | merge | 2 |
 | note moved | 1 |
 | skipped | 1 |
@@ -26,7 +26,6 @@
 - [part-1/03-religion-in-the-affections.typ] as an anchor of the soul, both sure and stedfast, and which entreth into that within the veil. 'Tis spoken of as a great fruit and → as an anchor of the soul, both sure and steadfast, and which entreth into that within the veil. 'Tis spoken of as a great fruit and
 - [part-1/03-religion-in-the-affections.typ] Christ's resurrection, 1 Pet. 1. 3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy, hath begotten us again unto a lively hope, by the resurrection of Jesus Christ from the dead → Christ's resurrection, 1 Pet 1:3. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy, hath begotten us again unto a lively hope, by the resurrection of Jesus Christ from the dead
 - [part-1/03-religion-in-the-affections.typ] enquire → inquire
-- [part-1/03-religion-in-the-affections.typ] lendeth. And Prov. 14. → lendeth. And Prov 14:
 - [part-1/03-religion-in-the-affections.typ] hath mercy on the poor. And Col. 3. → hath mercy on the poor. And Col 3:
 - [part-1/03-religion-in-the-affections.typ] Pharisees, hypocrites; for ye pay Tythe of → Pharisees, hypocrites; for ye pay Tithe of
 - [part-1/03-religion-in-the-affections.typ] Annise → Anise
@@ -34,7 +33,9 @@
 - [part-1/03-religion-in-the-affections.typ] enflamed, → inflamed,
 - [part-1/03-religion-in-the-affections.typ] Cor. 5. 14, → Cor 5:14,
 - [part-1/03-religion-in-the-affections.typ] Tim. → Tim
+- [part-1/03-religion-in-the-affections.typ] 2 Cor. 7. → 2 Cor 7:
 - [part-1/03-religion-in-the-affections.typ] being exceeding joyful, 2 Cor. 7. 4. → being exceeding joyful, 2 Cor 7:4.
+- [part-1/03-religion-in-the-affections.typ] 6. 10. → 6:10.
 - [part-1/04-inferences.typ] be consider’d → be considered
 - [part-1/04-inferences.typ] extoll’d → extolled
 - [part-2/sign-01.typ] rais'd to an → raised to an
@@ -47,6 +48,7 @@
 - [part-2/sign-10.typ] and honours → and honors
 - [part-2/sign-11.typ] least they should → lest they should
 - [part-2/sign-12.typ] bro't forth fruit, → brought forth fruit,
+- [part-3/00-of-the-signs.typ] Acban → Achan
 - [part-3/sign-01.typ note] but mediately → but mediately;
 - [part-3/sign-01.typ] 7, 8, 9, 12, 13. Gal. 5. 16, to the end. Col. 2. 18. Now therefore, if by natural and carnal, → 7, 8, 9, 12, 13. Gal 5:16, to the end. Col 2:18. Now therefore, if by natural and carnal,
 - [part-3/sign-01.typ] Rom. 8. 6, 7. → Rom 8:6, 7.
@@ -136,12 +138,14 @@
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Isai . → Isa
 - [part-1/03-religion-in-the-affections.typ] Chap . → Chapter
-- [part-1/03-religion-in-the-affections.typ] Isal → Isa 50
+- [part-1/03-religion-in-the-affections.typ] Isai . → Isa
 - [part-1/03-religion-in-the-affections.typ] in decypher'd; → is deciphered;
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] ver → v
+- [part-1/03-religion-in-the-affections.typ] lendeth. And Prov. 14. 3 → lendeth. And Prov 14:31
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] Mich . → Mic
 - [part-1/03-religion-in-the-affections.typ] Hos. 6 → Hos 6
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] Tit . → Titus
@@ -178,7 +182,7 @@
 - [part-2/sign-01.typ] Psal . → Ps
 - [part-2/sign-01.typ] Psal . → Ps
 - [part-2/sign-01.typ] Psal . → Ps
-- [part-2/sign-01.typ] Psal . → Ps
+- [part-2/sign-01.typ] Psal . 73 . → Ps 63:
 - [part-2/sign-01.typ] 39 → 29
 - [part-2/sign-01.typ] Psal . → Ps
 - [part-2/sign-01.typ] shall they rejoice all the day, and in thy righteousness shall they be exalted. Zech. 9. 9. Rejoice greatly, O daughter of Zion, shout, O → shall they rejoice all the day, and in thy righteousness shall they be exalted. Zech 9:9. Rejoice greatly, O daughter of Zion, shout, O
@@ -292,6 +296,7 @@
 - [part-3/sign-01.typ] ver → v
 - [part-3/sign-01.typ] Cor . → Corinthians
 - [part-3/sign-01.typ] Numb . → Num
+- [part-3/sign-01.typ] 21 → 24
 - [part-3/sign-01.typ] Psal . → Ps
 - [part-3/sign-01.typ] Chap . → Chapter
 - [part-3/sign-01.typ] was → is
@@ -324,10 +329,13 @@
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] 'em → them
 - [part-3/sign-01.typ] Psal . → Ps
+- [part-3/sign-01.typ] 13 → 30
 - [part-3/sign-01.typ] Rev . → Revelation
+- [part-3/sign-01.typ] 6 → 5
 - [part-3/sign-01.typ] Ezek . → Ezekiel
 - [part-3/sign-01.typ] Cant . → Song
 - [part-3/sign-01.typ] Cor . → Corinthians
+- [part-3/sign-01.typ] 22 → 23
 - [part-3/sign-02.typ] Matth . → Matt
 - [part-3/sign-02.typ] indeed → in
 - [part-3/sign-02.typ] . 2 . → 1:
@@ -413,6 +421,7 @@
 - [part-3/sign-05.typ] Chap . → Chapter
 - [part-3/sign-05.typ] Ver . → Verse
 - [part-3/sign-05.typ] Matth . → Matt
+- [part-3/sign-05.typ] . 3 . → 4:
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
 - [part-3/sign-05.typ] 'em → them
@@ -482,7 +491,7 @@
 - [part-3/sign-06.typ] 'em → them
 - [part-3/sign-06.typ] that → 
 - [part-3/sign-06.typ] speech, ormeanness → speech, or meanness
-- [part-3/sign-06.typ] Isai . → Isa
+- [part-3/sign-06.typ] Isai . 57 . → Isa 58:
 - [part-3/sign-06.typ] Matth . → Matt
 - [part-3/sign-06.typ] Matth . → Matthew
 - [part-3/sign-06.typ] Isai . → Isa
@@ -493,7 +502,7 @@
 - [part-3/sign-07.typ] 'em → them
 - [part-3/sign-08.typ] Matth . → Matt
 - [part-3/sign-08.typ] Col . → Colossians
-- [part-3/sign-08.typ] Jam . → Jas
+- [part-3/sign-08.typ] 2 → 
 - [part-3/sign-08.typ] Matth . → Matt
 - [part-3/sign-08.typ] 'em → them
 - [part-3/sign-08.typ] Matth . → Matt
@@ -502,9 +511,11 @@
 - [part-3/sign-08.typ] Joh . → John
 - [part-3/sign-08.typ] Psal . → Ps
 - [part-3/sign-08.typ] Cant . → Song
+- [part-3/sign-08.typ] 6 → 5
 - [part-3/sign-08.typ] Cant . → Song
 - [part-3/sign-08.typ] Chap . → Chapter
 - [part-3/sign-08.typ] Psal . → Ps
+- [part-3/sign-08.typ] 13 → 19
 - [part-3/sign-08.typ] Psal . → Ps
 - [part-3/sign-08.typ] Psal . → Ps
 - [part-3/sign-08.typ] Matth . → Matt
@@ -535,6 +546,7 @@
 - [part-3/sign-08.typ] Isai . → Isa
 - [part-3/sign-08.typ] Isai . → Isa
 - [part-3/sign-08.typ] Tit . → Titus
+- [part-3/sign-08.typ] . 2 . → 3:
 - [part-3/sign-09.typ note] 'em → them
 - [part-3/sign-09.typ note] 'em → them
 - [part-3/sign-09.typ note] 'em → them
@@ -588,6 +600,7 @@
 - [part-3/sign-11.typ] 'em → them
 - [part-3/sign-11.typ] Psal . → Ps
 - [part-3/sign-11.typ] Psal . → Ps
+- [part-3/sign-11.typ] 74 → 70
 - [part-3/sign-11.typ] Isai . → Isa
 - [part-3/sign-12.typ note] Psal . → Ps
 - [part-3/sign-12.typ note] Matth . → Matt
@@ -607,6 +620,7 @@
 - [part-3/sign-12.typ note] Matth . → Matt
 - [part-3/sign-12.typ note] Psal . → Ps
 - [part-3/sign-12.typ note] Matth . → Matt
+- [part-3/sign-12.typ note] 8 → 
 - [part-3/sign-12.typ note] Matth . → Matt
 - [part-3/sign-12.typ note] Jam . → Jas
 - [part-3/sign-12.typ note] Matth . → Matt
@@ -630,6 +644,7 @@
 - [part-3/sign-12.typ note] Matth . → Matt
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Chap . → Chapter
+- [part-3/sign-12.typ] 34 → 31
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Numb . → Num
 - [part-3/sign-12.typ] Matth . → Matthew
@@ -644,6 +659,8 @@
 - [part-3/sign-12.typ] Isai . → Isa
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] Cor → 
+- [part-3/sign-12.typ] 2 → 
 - [part-3/sign-12.typ] Thes . → Thess
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] 'em → them
@@ -674,6 +691,7 @@
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] 'em → them
 - [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] 3 → 4
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Matth . → Matt
 - [part-3/sign-12.typ] Nehem . → Neh
@@ -728,6 +746,7 @@
 - [part-3/sign-12.typ] Ver . → Verse
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Jam . → Jas
+- [part-3/sign-12.typ] 27 → 26
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Isai . → Isa
@@ -749,6 +768,7 @@
 - [part-3/sign-12.typ] Isai . → Isa
 - [part-3/sign-12.typ] Jam . → Jas
 - [part-3/sign-12.typ] Matth . → Matt
+- [part-3/sign-12.typ] 23 → 24
 - [part-3/sign-12.typ] Micah . → Mic
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Chap . → Chapter
@@ -789,6 +809,7 @@
 
 - loueth → loveth (×14)
 - LOUETH → LOVETH
+- Togeth → Together
 - judgeth → judged
 
 ## punctuation
@@ -882,6 +903,8 @@
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
@@ -948,6 +971,7 @@
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
@@ -984,7 +1008,6 @@
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] ▪ → :
-- [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
 - [part-2/sign-01.typ] . → :
@@ -1505,8 +1528,6 @@
 - [part-3/sign-05.typ] . → :
 - [part-3/sign-05.typ] . → 
 - [part-3/sign-05.typ] . → :
-- [part-3/sign-05.typ] . → 
-- [part-3/sign-05.typ] . → :
 - [part-3/sign-05.typ] . → :
 - [part-3/sign-05.typ] . → 
 - [part-3/sign-05.typ] . → :
@@ -1596,7 +1617,6 @@
 - [part-3/sign-06.typ] . → :
 - [part-3/sign-06.typ] . → :
 - [part-3/sign-06.typ] . → :
-- [part-3/sign-06.typ] . → :
 - [part-3/sign-06.typ] . → 
 - [part-3/sign-06.typ] . → :
 - [part-3/sign-06.typ] . → :
@@ -1646,7 +1666,8 @@
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → 
 - [part-3/sign-08.typ] . → 
-- [part-3/sign-08.typ] . → :
+- [part-3/sign-08.typ] . → s
+- [part-3/sign-08.typ] . → 3:
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → 
@@ -1727,8 +1748,6 @@
 - [part-3/sign-08.typ] . → ,
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-08.typ] . → :
-- [part-3/sign-08.typ] . → :
-- [part-3/sign-08.typ] . → 
 - [part-3/sign-08.typ] . → :
 - [part-3/sign-09.typ] . → :
 - [part-3/sign-09.typ] . → :
@@ -1916,7 +1935,9 @@
 - [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] . → 
 - [part-3/sign-12.typ note] . → :
+- [part-3/sign-12.typ note] . → 8:
 - [part-3/sign-12.typ note] . → 
+- [part-3/sign-12.typ note] . → s
 - [part-3/sign-12.typ note] . → :
 - [part-3/sign-12.typ note] . → 
 - [part-3/sign-12.typ note] . → :
@@ -2087,6 +2108,7 @@
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] ▪ → ,
 - [part-3/sign-12.typ] . → :
+- [part-3/sign-12.typ] ; → ; 1 Cor
 - [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] . → :
@@ -2502,7 +2524,7 @@
 - Part → part (×71)
 - holy → Holy (×36)
 - Acts → acts (×33)
-- Spirits → spirits (×31)
+- Spirits → spirits (×32)
 - Mark → mark (×13)
 - Father → father (×11)
 - Mount → mount (×11)
@@ -2517,6 +2539,7 @@
 - Mediator → mediator (×2)
 - the → The (×2)
 - Almighty → almighty
+- Brothel → brothel
 - Burnt → burnt
 - Citizens → citizens
 - Co → co
@@ -2525,9 +2548,11 @@
 - Has → has
 - IN → In
 - Kings → kings
+- Loft → loft
 - Mouth → mouth
 - Offerings → offerings
 - Some → some
+- Tavern → tavern
 - Worm → worm
 - reason → Reason
 - they → They
@@ -2652,6 +2677,7 @@
 - tydings → tidings (×3)
 - vigourous → vigorous (×3)
 - Agreable → Agreeable (×2)
+- Jam → Ja (×2)
 - James → Jas (×2)
 - Judg → Judge (×2)
 - Meerly → Merely (×2)
@@ -2720,6 +2746,7 @@
 - won't → wont (×2)
 - wro't → wrought (×2)
 - 'john → John
+- 'that → that
 - 14 → 14:
 - 24 → 24.
 - 24 → 24:
@@ -2731,7 +2758,9 @@
 - Feed → 'Feed
 - Forgivness → Forgiveness
 - Frith → Faith
+- Gabazi → Gehazi
 - Gnosticks → Gnostics
+- God → good
 - Goliah → Goliath
 - Honour → Honor
 - Honoured → Honored
@@ -2740,6 +2769,7 @@
 - Judges → Judg
 - Judoic → Judaic
 - Lambs' → lambs.'
+- Lightsomness → lightsomeness
 - Lora → Lord
 - Marvellous → Marvelous
 - Matth → Matt
@@ -2860,6 +2890,7 @@
 - gull'd → gulled
 - hatch'd → hatched
 - heardst → heardest
+- heart → heat
 - heighten'd → heightened
 - highminded → high-minded
 - honour'd → honored
@@ -2906,6 +2937,7 @@
 - musick → music
 - natures → nature
 - never → ever
+- oar → ore
 - observ'd → observed
 - occular → ocular
 - oeconomy → economy
@@ -2940,6 +2972,7 @@
 - redeem'd → redeemed
 - referr'd → referred
 - rejoyce → rejoice
+- religions → religious
 - remain'd → remained
 - renown'd → renowned
 - resign'd → resigned

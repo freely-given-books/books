@@ -46,3 +46,7 @@ $ ./fgb build religious-affections     # print PDF and checked EPUB into dist/
 
 The PDF and the EPUB are not kept in git: `./fgb build religious-affections` makes them
 in `dist/jonathan-edwards/religious-affections/`.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`, drafted 2026-11-15 by seven drafters to one brief (work/modern-english/ra-brief.md), then meaning-audited by ten independent readers (work/modern-english/audit-ra; edits in ra-audit-edits.py). Its print file is `religious-affections-modern.typ`, its cover `cover-modern.typ`, its ebook front `ebook-front-modern.html`. The drafters' findings corrected the Classic too: TCP slips (work/religious-affections/slips/slips-modern.tsv, manual-fixes.xml, gaps/manual-z.tsv) and printer's errors and wrong references (typ_edits.py, late), each read on the 1746 page.
