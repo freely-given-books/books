@@ -25,6 +25,10 @@
     block(width: 3.15in, height: 2.65in, clip: true, stroke: 0.6pt + gold,
       place(top + left, dx: -0.35in, dy: -1.62in,
         image("art/plate.jpg", width: 3.85in, height: 5.775in))))),
+  // the pocket trim as the default too (./fgb build passes it for the print cover,
+  // but the ebook's front is rendered without it), as Sinners' cover does
+  trim-width: 4.25in,
+  trim-height: 6.875in,
   title-y: 0.62in,
   seal: press-seal,
   title: [God Glorified],
