@@ -19,7 +19,9 @@
 
 // opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
 // transparency into image tiles: scripts/plate_cover.typ)
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: ground,
   // the picture in a frame of gold: the shut door, the sons, the widow pouring
   art: box(width: 5.5in, height: 8.5in, place(dx: 0.75in, dy: 2.6in,
@@ -46,3 +48,5 @@
   ],
   epigraph-source: [The Surest and Safest Way of Thriving],
 )
+
+#cover()

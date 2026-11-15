@@ -27,3 +27,7 @@ run in order by its `rebuild.sh`.
 $ ./fgb check surest-way     # verify
 $ ./fgb build surest-way     # print PDF and checked EPUB into dist/
 ```
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `the-surest-way-of-thriving-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-14 from the brief in work/modern-english/surest-way-brief.md, then meaning-audited (work/modern-english/audit-sw).
