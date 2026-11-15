@@ -48,3 +48,7 @@ in `dist/charles-spurgeon/all-of-grace/`.
 `chapter-20.typ` centres its three closing appeals with `#align(center)`;
 that is layout, not stored in the TEI, so `./fgb check` lists the file as
 differing only by those lines.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `all-of-grace-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Spurgeon needed the lightest hand of any book so far: grammar, a few misleading words, Scripture from the BSB (kept to his King James words where he builds on them: "justifies the ungodly", "without strength … in due time", "Look to Me", "confirm you"); the hymns he quotes stay as printed. The 1886 print's italics for Scripture and for his inquirers' speeches become roman inside quotation marks; italics of emphasis stay. Drafted 2026-11-15 from the brief in work/modern-english/allofgrace-brief.md (six drafters, slices in work/modern-english/allofgrace/), then meaning-audited (work/modern-english/audit-allofgrace).

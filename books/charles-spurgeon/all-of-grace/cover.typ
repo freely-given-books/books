@@ -13,7 +13,9 @@
 // `pages` here is only for compiling the cover by itself.
 #let sky = ((rgb("#A6C9E0"), 0%), (rgb("#D9E9F3"), 38%), (rgb("#C3DAEA"), 70%), (rgb("#A9C9DF"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.png", encoding: none),
   plate-at: (dx: -0.165in, dy: -0.125in, width: 5.83in, height: 8.75in),
   ground: sky,
@@ -38,3 +40,5 @@
   // drops the barcode into on the back cover.
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()
