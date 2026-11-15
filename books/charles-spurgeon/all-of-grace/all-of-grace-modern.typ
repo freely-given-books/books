@@ -11,7 +11,7 @@
   publishing-info: publisher-page(),
   preface: [
     #align(center + horizon)[
-      #text(size: 16pt)[“Where sin increased, grace increased all the more.” - Romans 5:20]
+      #text(size: 16pt)[“Where sin increased, \ grace increased all the more.” \ - Romans 5:20]
 
       #v(2em)
       #text(size: 8pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own \ Bible where his argument rests on its wording; capitals for God in quotations \ (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), \ once in a sentence; a plain “you” is singular or general.]
@@ -35,7 +35,11 @@
 
 #include "chapters/modern/chapter-08.typ"
 
-#include "chapters/modern/chapter-09.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/chapter-09.typ"
+]
 
 #include "chapters/modern/chapter-10.typ"
 
@@ -43,7 +47,11 @@
 
 #include "chapters/modern/chapter-12.typ"
 
-#include "chapters/modern/chapter-13.typ"
+// its last two lines would stand alone on the next page (tighter spacing cannot bring them back): a little looser carries a full paragraph over
+#[
+  #set text(tracking: 0.01em)
+  #include "chapters/modern/chapter-13.typ"
+]
 
 #include "chapters/modern/chapter-14.typ"
 
