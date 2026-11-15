@@ -79,6 +79,8 @@ REPORT_NOTES = [
 EPUB = {"title": "The Glorious Feast of the Gospel", "author": "Richard Sibbes",
         "file": "the-glorious-feast-of-the-gospel.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-glorious-feast-of-the-gospel.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "the-glorious-feast-of-the-gospel-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-glorious-feast-of-the-gospel.typ", "the-glorious-feast-of-the-gospel-modern.typ"]
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks

@@ -121,7 +121,7 @@
 - [tothereader.typ] Here's → ' Here is
 - [tothereader.typ] hidden Manna → 'hidden manna,' Rev 2:17
 - [tothereader.typ] life → life,' Rev 22:17
-- [tothereader.typ] God → God,' Gen 2:9
+- [tothereader.typ] God → God,' Rev 2:7
 - [tothereader.typ] Here's → Here is
 - [tothereader.typ] here's → here is
 - [tothereader.typ] spare → spare,' Luke 15
@@ -178,7 +178,7 @@
 - [chapter1.typ] fear → fear;' for
 - [chapter1.typ] for → 
 - [chapter1.typ] also → also,' Rom 11:20, 21
-- [chapter1.typ] Candlesticks → candlesticks,' Rev 1:12
+- [chapter1.typ] Candlesticks → candlesticks,' Rev 2:1
 - [chapter1.typ] where → Rev 12:6. Where,
 - [chapter1.typ] Rev → 
 - [chapter1.typ] 14 . 1 . The → 'The
@@ -203,7 +203,7 @@
 - [chapter1.typ] Again → Third. Again
 - [chapter1.typ] truth → truth,' John 1:14
 - [chapter1.typ] Ther's → There is
-- [chapter1.typ] God → God,' 1 Pet 5:2
+- [chapter1.typ] God → God,' Acts 20:28
 - [chapter1.typ] fire → fire,' Heb 12:29
 - [chapter1.typ] A → Fourth. A
 - [chapter1.typ] our selves → ourselves
@@ -438,7 +438,7 @@
 - [chapter3.typ] comfort → 
 - [chapter3.typ] A → Ans. 4. A
 - [chapter3.typ] changed → changed,' 2 Cor 3:18
-- [chapter3.typ] world → world,' John 1:4
+- [chapter3.typ] world → world,' John 6:51
 - [chapter4.typ] ISAIAH 25 . 7 , 8 . → 
 - [chapter4.typ] victory → victory.—Isa 25:7
 - [chapter4.typ] & c → 8
@@ -446,7 +446,7 @@
 - [chapter4.typ] it ever → whatever
 - [chapter4.typ] Captain , → captain
 - [chapter4.typ] our selves → ourselves
-- [chapter4.typ] 5 → 5:19
+- [chapter4.typ] 5 → 5:12
 - [chapter4.typ] accessary our selves → accessory ourselves
 - [chapter4.typ] it self → itself
 - [chapter4.typ] it self → itself
@@ -1018,7 +1018,7 @@
 - [tothereader.typ] , → 
 - [tothereader.typ] : → :8;
 - [tothereader.typ] , → ;
-- [tothereader.typ] , → ,' Prov 31:23;
+- [tothereader.typ] , → ,' Prov 31:31;
 - [tothereader.typ] ) → ),
 - [tothereader.typ] : → .
 - [tothereader.typ] : → .
