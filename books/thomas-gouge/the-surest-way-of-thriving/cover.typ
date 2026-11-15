@@ -19,10 +19,13 @@
 
 // opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
 // transparency into image tiles: scripts/plate_cover.typ)
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: ground,
   // the picture in a frame of gold: the shut door, the sons, the widow pouring
-  art: box(width: 5.5in, height: 8.5in, place(dx: 0.75in, dy: 2.6in,
+  // the Modern English label sits under the subtitle: the picture moves down to clear it
+  art: box(width: 5.5in, height: 8.5in, place(dx: 0.75in, dy: if edition != none { 2.9in } else { 2.6in },
     block(width: 4.0in, height: 3.85in, clip: true, stroke: 0.6pt + gold,
       place(top + left, dy: -0.958in,
         image("art/plate.jpg", width: 4.0in, height: 5.333in))))),
@@ -46,3 +49,5 @@
   ],
   epigraph-source: [The Surest and Safest Way of Thriving],
 )
+
+#cover()

@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 371 |
-| punctuation | 222 |
-| spacing | 149 |
-| emendation | 146 |
+| spelling | 379 |
+| punctuation | 218 |
+| emendation | 163 |
+| spacing | 146 |
 | level | 100 |
 | italic | 87 |
 | case | 13 |
@@ -22,6 +22,7 @@
 - [ch01-the-text-opened.typ] Math . → Matt
 - [ch01-the-text-opened.typ] Joh . → John
 - [ch01-the-text-opened.typ] a succouring → succoring
+- [ch01-the-text-opened.typ] 17 → 1
 - [ch01-the-text-opened.typ] 4 → 3
 - [ch01-the-text-opened.typ] my self → myself
 - [ch01-the-text-opened.typ] Joh . → John
@@ -29,8 +30,11 @@
 - [ch01-the-text-opened.typ] Math . → Matt
 - [ch01-the-text-opened.typ] the → 
 - [ch01-the-text-opened.typ] Math . → Matt
+- [ch02-the-least-of-his-saints.typ] 32 → 39:2
+- [ch02-the-least-of-his-saints.typ] 5 → 
 - [ch02-the-least-of-his-saints.typ] Luk . → Luke
 - [ch02-the-least-of-his-saints.typ] Psal . → Ps
+- [ch02-the-least-of-his-saints.typ] 12 → 17
 - [ch02-the-least-of-his-saints.typ] Psal . → Ps
 - [ch02-the-least-of-his-saints.typ] King → Kgs
 - [ch02-the-least-of-his-saints.typ] Psal . → Ps
@@ -51,11 +55,13 @@
 - [ch04-proofs-from-scripture.typ] thy self → thyself
 - [ch04-proofs-from-scripture.typ] Math . → Matt
 - [ch05-testimonies.typ] thy self ▪ → thyself:
+- [ch05-testimonies.typ] a → 
+- [ch05-testimonies.typ] major a → majora
 - [ch05-testimonies.typ] Pro . → Prov
 - [ch05-testimonies.typ] Psal . → Ps
 - [ch05-testimonies.typ] Psal . → Ps
 - [ch05-testimonies.typ] Pro . → Prov
-- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & 12 . → ; 22:
 - [ch05-testimonies.typ] . & → ;
 - [ch05-testimonies.typ] . & → ;
 - [ch05-testimonies.typ] Pro . → Prov
@@ -68,14 +74,15 @@
 - [ch05-testimonies.typ] my self → myself
 - [ch05-testimonies.typ] willbe → will be
 - [ch06-examples.typ] King → Kgs
+- [ch06-examples.typ] King . 16 → Kgs 4:35
 - [ch06-examples.typ] King . → Kgs
-- [ch06-examples.typ] King . → Kgs
-- [ch06-examples.typ] King . → Kgs
+- [ch06-examples.typ] King . 4 . 28 → Kgs 8:6
 - [ch06-examples.typ] Act . → Acts
 - [ch06-examples.typ] his → 
 - [ch06-examples.typ] A ban → Alban
 - [ch06-examples.typ] to me → tome
 - [ch06-examples.typ] Pro . → Prov
+- [ch06-examples.typ] enimtres → enim tres
 - [ch06-examples.typ] aplague → a plague
 - [ch07-examples-of-our-time.typ] school - master → schoolmaster
 - [ch07-examples-of-our-time.typ] Matth . → Matt
@@ -84,6 +91,7 @@
 - [ch08-the-reasons.typ] dis - bursed → disbursed
 - [ch08-the-reasons.typ] any thing → anything
 - [ch08-the-reasons.typ] Pro . → Prov
+- [ch08-the-reasons.typ] dit scendi → ditescendi
 - [ch09-reproof.typ] Jam . → Jas
 - [ch09-reproof.typ] Math . → Matt
 - [ch09-reproof.typ] tooth - ach → toothache
@@ -111,6 +119,7 @@
 - [ch11-directions.typ] your selves → yourselves
 - [ch11-directions.typ] your selves → yourselves
 - [ch11-directions.typ] my self → myself
+- [ch11-directions.typ] 1 → 
 - [ch11-directions.typ] thy self → thyself
 - [ch11-directions.typ] joyned thy self → joined thyself
 - [ch11-directions.typ] my self → myself
@@ -123,6 +132,7 @@
 - [ch11-directions.typ] thy self → thyself
 - [ch11-directions.typ] thy self → thyself
 - [ch11-directions.typ] your selves → yourselves
+- [ch11-directions.typ] 6 → :7
 - [ch11-directions.typ] thy self → thyself
 - [ch11-directions.typ] thy self → thyself
 - [ch11-directions.typ] thy self → thyself
@@ -134,6 +144,7 @@
 - [ch12-means.typ] thy self → thyself
 - [ch12-means.typ] Luk . → Luke
 - [ch12-means.typ] Luk . → Luke
+- [ch12-means.typ] 36 → 38
 - [ch12-means.typ] your selves → yourselves
 - [ch12-means.typ] I → Ay,
 - [ch12-means.typ] my self → myself
@@ -143,9 +154,13 @@
 - [ch12-means.typ] thy self → thyself
 - [ch12-means.typ] thy self → thyself
 - [ch12-means.typ] Psal . → Ps
+- [ch12-means.typ] 16 → 26
 - [ch12-means.typ] any thing → anything
 - [ch12-means.typ] Matth . → Matthew
+- [ch12-means.typ] . 23 → :34-36
+- [ch12-means.typ] 21 → 27
 - [ch13-ministers.typ] 17 → 1
+- [ch13-ministers.typ] 13 → 10
 - [ch13-ministers.typ] King . → Kgs
 - [ch13-ministers.typ] King . → Kgs
 - [ch13-ministers.typ] King . → Kgs
@@ -160,6 +175,8 @@
 - [ch14-application.typ] Numb . → Num
 - [ch14-application.typ] Levit . → Lev
 - [ch14-application.typ] Deut . → Deuteronomy
+- [ch14-application.typ] . 14 . → :13
+- [ch14-application.typ] 23 → 24
 - [ch14-application.typ] thy self → thyself
 - [ch14-application.typ] thy self → thyself
 - [ch14-application.typ] Matth . → Matt
@@ -188,7 +205,7 @@
 - [ch01-the-text-opened.typ] . → 
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → 
-- [ch01-the-text-opened.typ] . → :
+- [ch01-the-text-opened.typ] . → 4:
 - [ch01-the-text-opened.typ] . → 
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → 
@@ -209,13 +226,14 @@
 - [ch01-the-text-opened.typ] . → :
 - [ch01-the-text-opened.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → 
-- [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] . → 1
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → 
 - [ch02-the-least-of-his-saints.typ] . → :
+- [ch02-the-least-of-his-saints.typ] ] → 
 - [ch02-the-least-of-his-saints.typ] . → 
 - [ch02-the-least-of-his-saints.typ] . → :
 - [ch02-the-least-of-his-saints.typ] . → :
@@ -253,7 +271,6 @@
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
-- [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → 
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
@@ -264,7 +281,6 @@
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → 
 - [ch05-testimonies.typ] . → :
-- [ch06-examples.typ] . → :
 - [ch06-examples.typ] . → :
 - [ch06-examples.typ] . → :
 - [ch06-examples.typ] ▪ → .
@@ -320,7 +336,7 @@
 - [ch11-directions.typ] . → 
 - [ch11-directions.typ] . → :
 - [ch11-directions.typ] . → 
-- [ch11-directions.typ] . → :
+- [ch11-directions.typ] . → 8:
 - [ch11-directions.typ] . → 
 - [ch11-directions.typ] . → :
 - [ch11-directions.typ] . → 
@@ -354,7 +370,6 @@
 - [ch12-means.typ] . → :
 - [ch12-means.typ] . → :
 - [ch12-means.typ] . → 
-- [ch12-means.typ] . → :
 - [ch12-means.typ] . → :
 - [ch13-ministers.typ] . → 
 - [ch13-ministers.typ] . → :
@@ -396,8 +411,6 @@
 - [ch14-application.typ] . → :
 - [ch14-application.typ] . → 
 - [ch14-application.typ] . → :
-- [ch14-application.typ] . → :
-- [ch14-application.typ] . → 
 - [ch14-application.typ] . → 
 - [ch14-application.typ] . → :
 - [ch14-application.typ] . → :
@@ -467,15 +480,16 @@
 - widdows → widows (×2)
 - 19 → 19:
 - 5 → 5:
-- 9 → 9:
 - Aegypt → Egypt
 - Anbassadours → Ambassadors
+- Animities → Annuities
 - Auditour → auditor
 - Barnes → Barns
 - Barnes → barns
 - Battel → battle
 - Brethrens → brethren's
 - Cellers → Cellars
+- Codizel → Codicil
 - Colledge → College
 - Creatour → Creator
 - Daniel → Dan
@@ -490,6 +504,7 @@
 - Succourers → succorers
 - Ther's → There's
 - Travellers → travelers
+- VI → VII
 - Wherupon → Whereupon
 - Widdows → widow's
 - Widdows → widows
@@ -523,6 +538,7 @@
 - disbursments → disbursements
 - disparagment → disparagement
 - dunghil → dunghill
+- elecmosynariis → eleemosynariis
 - encrease → increase
 - endeavours → endeavors
 - enjoyned → enjoined
@@ -536,6 +552,7 @@
 - hearkning → hearkening
 - hel → hell
 - henefits → benefits
+- his → bis
 - honourable → honorable
 - honoured → honored
 - humane → human
@@ -551,6 +568,7 @@
 - meeted → meted
 - monys → moneys
 - multiplyed → multiplied
+- neat → near
 - neccessity → necessity
 - neighbour → neighbor
 - of → off-
@@ -570,10 +588,12 @@
 - releive → relieve
 - repay'd → repaid
 - repayed → repaid
+- reproved → reported
 - revenew → revenue
 - rigour → rigor
 - sacriledge → sacrilege
 - smal → small
+- spittle → Spital
 - streights → straits
 - strip'd → stripped
 - succourer → succorer
@@ -596,5 +616,6 @@
 - welpleasing → well-pleasing
 - wer → were
 - wherupon → whereupon
+- with → wish
 - worlding → worldling
 
