@@ -15,7 +15,7 @@ sha256 = "4603d4fd73838e698e523487eebb04841f242be20f61b01c3a510bfa35cd661d"
 file = "source/A53715.supplied.xml"
 description = "The transcription's keying slips corrected to the 1668 page, each read on the page image (the TCP file untouched)"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668"
-sha256 = "3dcb2b30c4aef3d2b05470c0ea14130890b38e26db03b57048571c9791d5a8d8"
+sha256 = "ecee4bd05ea2b304dbcbd91525759f4233aa0a4df4ed7c623da37ddd780ca6db"
 
 [[source]]
 file = "source/mort.ccel.witness.xml"

@@ -15,7 +15,7 @@ sha256 = "b696a71fc48ffedfae7a98745cc2552687ab1b50f28800718819714c4c6fd9e5"
 file = "source/A65292.supplied.xml"
 description = "Corrections to the TCP transcription from the 1663 page images (\"out\" for \"our\", \"dejected\", Latin misprints in the TCP, among others)"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663"
-sha256 = "658278afc8387c8e7364fa7c302f3513f4d5d9a55fbb9cc974dc0e5a6b0a7981"
+sha256 = "1a83a00f4688d4a916a6ff961f6ebf7e8cefa382a2716e225950a151807fb549"
 
 [[source]]
 file = "source/cordial.ccel.witness.xml"
