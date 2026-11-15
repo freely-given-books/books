@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 377 |
-| punctuation | 219 |
+| punctuation | 218 |
 | emendation | 159 |
 | spacing | 146 |
 | level | 100 |
@@ -59,7 +59,7 @@
 - [ch05-testimonies.typ] Psal . → Ps
 - [ch05-testimonies.typ] Psal . → Ps
 - [ch05-testimonies.typ] Pro . → Prov
-- [ch05-testimonies.typ] . & → ;
+- [ch05-testimonies.typ] . & 12 . → ; 22:
 - [ch05-testimonies.typ] . & → ;
 - [ch05-testimonies.typ] . & → ;
 - [ch05-testimonies.typ] Pro . → Prov
@@ -260,7 +260,6 @@
 - [ch04-proofs-from-scripture.typ] . → :
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → 
-- [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
 - [ch05-testimonies.typ] . → :
