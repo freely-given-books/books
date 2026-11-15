@@ -18,11 +18,14 @@
 
 // opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
 // transparency into image tiles: scripts/plate_cover.typ)
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: ground,
   // the picture in a frame of gold, the river's source near its top third
-  art: box(width: 4.25in, height: 6.875in, place(dx: 0.55in, dy: 2.2in,
-    block(width: 3.15in, height: 2.65in, clip: true, stroke: 0.6pt + gold,
+  // (the Modern English edition's label sits under the subtitle: the frame starts lower)
+  art: box(width: 4.25in, height: 6.875in, place(dx: 0.55in, dy: if edition == none { 2.2in } else { 2.5in },
+    block(width: 3.15in, height: if edition == none { 2.65in } else { 2.4in }, clip: true, stroke: 0.6pt + gold,
       place(top + left, dx: -0.35in, dy: -1.62in,
         image("art/plate.jpg", width: 3.85in, height: 5.775in))))),
   // the pocket trim as the default too (./fgb build passes it for the print cover,
@@ -48,3 +51,5 @@
   ],
   epigraph-source: [God Glorified in Man's Dependence],
 )
+
+#cover()

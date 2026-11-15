@@ -43,8 +43,10 @@ OUTLINE_MARKS = True
 
 EPUB = {"title": "God Glorified in Man's Dependence", "author": "Jonathan Edwards",
         "file": "god-glorified-in-mans-dependence.epub", "front": "ebook-front.html",
-        "cover": "cover.typ", "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["god-glorified-in-mans-dependence.typ"]
+        "cover": "cover.typ", "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "god-glorified-in-mans-dependence-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["god-glorified-in-mans-dependence.typ", "god-glorified-in-mans-dependence-modern.typ"]
 
 # the preface signed by both ministers: the valediction and each name a line
 SIGNATURE_NAME_LINE = True
