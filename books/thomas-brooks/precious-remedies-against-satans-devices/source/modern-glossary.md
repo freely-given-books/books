@@ -74,7 +74,7 @@ heavy: "a sad, doubting condition" stays).
 | physic | medicine |
 | cordial(s) | heart-medicine(s) |
 | would fain | would gladly |
-| secure / security (careless) | careless / carelessness (or "false security") |
+| secure / security (careless) | complacent / complacency (the 2026-11-16 sweep; "false security" where Brooks pairs it) |
 | humours (bodily) | infection |
 | discoveries (of God's love) | revelations |
 | parts (gifts) | talents |
@@ -107,3 +107,54 @@ is added. Greek and Hebrew stay as printed.
 in the plural ("ye" in the dedication to his flock, "beloved" addresses). The first plural you/your of EVERY
 sentence of a plural address is marked, the rest of that sentence plain. Brooks's usual "you" to the single
 reader ("thou", "thy soul") is plain "you".
+
+## False friends (the editor, 2026-11-16: replaced with a modern word, never glossed)
+
+The sweep of 2026-11-16 (`work/false-friends-2026-11-16/precious-remedies-against-satans-devices.md`) added:
+
+| Brooks | Modern English |
+|---|---|
+| the creature(s) (created things; men as against God) | created things; men / man (by sense) |
+| molest, molesting, molested | harass, harassing, harassed |
+| cross (providences, actings); cross to; crosses (verb) | adverse; contrary to, against; thwarts (heading: "Adverse Providences") |
+| vain souls | worldly souls |
+| generous souls (high-spirited) | bold souls |
+| uncomfortable condition | comfortless condition |
+| legal arguments | legalistic arguments |
+| pursued (a sin, as an enemy) | opposed |
+| undertaken for me | stood surety for me |
+| the margin (Brooks's notes) | the notes (this edition sets them as footnotes) |
+| passion | anger, outbursts |
+| virtue (power) | power, force |
+| mercy, mercies (blessings) | blessing(s) |
+| motions | stirrings |
+| Mistress (Katherine Brettergh) | Mrs. |
+| gold angels | gold coins |
+| astonishes and amazes; amazed | stuns and dazes; dismayed |
+| mischiefs, mischief | harms; wickedness |
+| profession | profession of faith |
+| grievous (1 John 5:3) | burdensome |
+| ravished; affected with | enraptured; moved by |
+| quickened, quicken(ing) | enlivened, enliven(ing) (with "enlarged": revived and set free) |
+| mind (think on), perplexed (entangled) | think on, entangled |
+| considerable | important |
+| engage(d) (himself, his honor) | bound, pledged, move |
+| abroad | out in the world, in others, among others, away from home |
+| affectionately (seeking) | ardently |
+| affecting (laying claim to) | laying claim to |
+| significant, argues | expressive, shows |
+| divinity | theology |
+| the stone | a kidney stone |
+| aggravate, aggravating | add weight to; exaggerating |
+| manners | conduct |
+| vanity (former) | folly |
+| confusion | shame |
+| vicious | of vice |
+| liquor | liquid |
+| corn | grain |
+| surprised | overtaken |
+
+Also applied where the draft had missed this glossary: Dives → the rich man; cordial → heart-medicine.
+Kept: sad (as above), dolors [sorrows] (Isidore's rhyme; a bracket on the Latin-English pun), Bridewell, peremptory,
+divine appearances, open (the words), subtle serpent, preferment, on this head, the formal act, affectionately (receive
+the truth), fancies.
