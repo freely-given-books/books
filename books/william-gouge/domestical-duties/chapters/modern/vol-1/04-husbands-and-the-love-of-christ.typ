@@ -133,7 +133,7 @@ Since the person of Christ, God-man, was given up,#footnote[1 Pet 1:19. #emph[Us
 
 3\. What just cause do we have to give ourselves up as “living sacrifices, #footnote[Rom 12:1.] holy and pleasing” to him who gave himself for us?
 
-4\. How ungrateful, how unworthy of Christ are those who for his sake will not forsake their unstable honors, fading wealth, vain pleasures, gaudy clothes, and such trash?
+4\. How ungrateful, how unworthy of Christ are those who for his sake will not forsake their unstable honors, fading wealth, vain pleasures, gaudy clothes, and such trash!
 
 === §. 32. #emph[Of Christ’s seeking the good of the church.]
 
