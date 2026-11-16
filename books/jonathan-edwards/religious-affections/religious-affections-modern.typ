@@ -139,7 +139,12 @@
 ]
 
 #metadata((part: [Part III], sections: [Sign IV])) <kicker>
-#include "chapters/modern/part-3/sign-04.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter
+// brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/part-3/sign-04.typ"
+]
 
 #metadata((part: [Part III], sections: [Sign V])) <kicker>
 #include "chapters/modern/part-3/sign-05.typ"
