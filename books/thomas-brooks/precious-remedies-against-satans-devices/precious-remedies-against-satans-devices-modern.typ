@@ -37,7 +37,11 @@
 
 #include "chapters/modern/dedication.typ"
 
-#include "chapters/modern/to-the-reader.typ"
+// its closing (salutation and name) would stand alone on the next page: its letter spacing a little tighter brings it back (print_check's page warning)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/modern/to-the-reader.typ"
+]
 
 #include "chapters/modern/introduction.typ"
 
@@ -95,7 +99,11 @@
 
 #include "chapters/modern/doubting-04.typ"
 
-#include "chapters/modern/doubting-05.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/doubting-05.typ"
+]
 
 #include "chapters/modern/doubting-06.typ"
 
@@ -125,7 +133,11 @@
 
 #include "chapters/modern/appendix-01.typ"
 
-#include "chapters/modern/appendix-02.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/appendix-02.typ"
+]
 
 #include "chapters/modern/appendix-03.typ"
 
