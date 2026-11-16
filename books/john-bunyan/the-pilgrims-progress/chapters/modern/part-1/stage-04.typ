@@ -70,7 +70,7 @@ By dint of sword, did quickly make him fly: \
 Therefore to Him let me give lasting praise, \
 And thank and bless his holy name always.”]
 
-Then there came to him a hand with some of the leaves of the tree of life, which Christian took and applied to the wounds that he had received in the battle, and he was healed immediately. He also sat down in that place to eat bread, and to drink from the bottle that was given him a little before: so, being refreshed, he set out on his journey with his sword drawn in his hand; for he said, For all I know, some other enemy may be at hand. But he met with no other affront from Apollyon all the way through this valley.
+Then there came to him a hand with some of the leaves of the tree of life, which Christian took and applied to the wounds that he had received in the battle, and he was healed immediately. He also sat down in that place to eat bread, and to drink from the bottle that was given him a little before: so, being refreshed, he set out on his journey with his sword drawn in his hand; for he said, For all I know, some other enemy may be at hand. But he met with no other attack from Apollyon all the way through this valley.
 
 Now at the end of this valley was another, called the Valley of the Shadow of Death; and Christian had to go through it, because the way to the Celestial City lay through the midst of it. Now, this valley is a very solitary place. The prophet Jeremiah describes it like this: “A wilderness, a land of deserts and pits, a land of drought and of the Shadow of Death, a land where no man” (but a Christian) “travels, and where no man lives.” Jer 2:6.
 

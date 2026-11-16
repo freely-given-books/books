@@ -12,7 +12,7 @@ And I slept, and dreamed again, and saw the same two pilgrims going down the mou
 
 #speech[#smallcaps[Christian]: But what have you to show at that gate, that the gate should be opened to you?]
 
-#speech[#smallcaps[Ignorance]: I know my Lord’s will, and have been a good liver; I pay every man his own; I pray, fast, pay tithes, and give alms, and have left my country for the place where I am going.]
+#speech[#smallcaps[Ignorance]: I know my Lord’s will, and have lived a good life; I pay every man his own; I pray, fast, pay tithes, and give alms, and have left my country for the place where I am going.]
 
 #speech[#smallcaps[Christian]: But you did not come in at the wicket-gate that is at the head of this way; you came in here through that same crooked lane, and therefore I fear, however you may think of yourself, when the day of reckoning comes, you will have it laid to your charge that you are a thief and a robber, instead of getting admittance into the city.]
 
@@ -39,7 +39,7 @@ Then said Christian to his companion, Now I call to mind what was told me of a t
 
 #speech[#smallcaps[Hopeful]: But is it not a wonder they did not get from him his certificate, by which he was to receive his admittance at the Celestial Gate?]
 
-#speech[#smallcaps[Christian]: It is a wonder; but they did not get that, though it was not through any good cunning of his that they missed it; for he, being dismayed by their coming upon him, had neither power nor skill to hide anything; so it was more by good providence than by his endeavor that they missed that good thing. 2 Tim 1:12–14; 2 Pet 2:9.]
+#speech[#smallcaps[Christian]: It is a wonder; but they did not get that, though it was not through any good skill of his that they missed it; for he, being dismayed by their coming upon him, had neither power nor skill to hide anything; so it was more by good providence than by his endeavor that they missed that good thing. 2 Tim 1:12–14; 2 Pet 2:9.]
 
 #speech[#smallcaps[Hopeful]: But it must surely be a comfort to him that they did not get this jewel from him.]
 
@@ -55,9 +55,9 @@ Then said Christian to his companion, Now I call to mind what was told me of a t
 
 #speech[#smallcaps[Hopeful]: Why are you so tart, my brother? Esau sold his birthright, and that for a mess of pottage, Heb 12:16; and that birthright was his greatest jewel: and if he did, why might not Little-Faith do so too?]
 
-#speech[#smallcaps[Christian]: Esau did sell his birthright indeed, and so do many besides, and by doing so exclude themselves from the chief blessing, as that wretch also did; but you must put a difference between Esau and Little-Faith, and also between their states. Esau’s birthright was a type; but Little-Faith’s jewels were not so. Esau’s belly was his god; but Little-Faith’s belly was not so. Esau’s need lay in his fleshly appetite; Little-Faith’s did not. Besides, Esau could see no further than the fulfilling of his lusts: For I am about to die, said he, and what good will this birthright do me? Gen 25:32. But Little-Faith, though it was his lot to have only a little faith, was by his little faith kept from such extravagances, and made to see and prize his jewels too much to sell them, as Esau did his birthright. You do not read anywhere that Esau had faith, no, not so much as a little; therefore it is no wonder, where the flesh alone bears sway (as it will in that man where there is no faith to resist it), if he sells his birthright and his soul and all, and that to the devil of hell; for it is with such as it is with the donkey, who in her heat cannot be turned away, Jer 2:24: when their minds are set upon their lusts, they will have them, whatever they cost. But Little-Faith was of another temper; his mind was on things divine; his livelihood was upon things that were spiritual, and from above: therefore, to what end should he who is of such a temper sell his jewels (had there been any who would have bought them) to fill his mind with empty things? Will a man give a penny to fill his belly with hay? Or can you persuade the turtle-dove to live upon carrion, like the crow? Though faithless ones can, for carnal lusts, pawn, or mortgage, or sell what they have, and themselves outright to boot; yet those who have faith, saving faith, though only a little of it, cannot do so. Here, therefore, my brother, is your mistake.]
+#speech[#smallcaps[Christian]: Esau did sell his birthright indeed, and so do many besides, and by doing so exclude themselves from the chief blessing, as that wretch also did; but you must put a difference between Esau and Little-Faith, and also between their states. Esau’s birthright was a type; but Little-Faith’s jewels were not so. Esau’s belly was his god; but Little-Faith’s belly was not so. Esau’s need lay in his fleshly appetite; Little-Faith’s did not. Besides, Esau could see no further than the fulfilling of his lusts: For I am about to die, said he, and what good will this birthright do me? Gen 25:32. But Little-Faith, though it was his lot to have only a little faith, was by his little faith kept from such extravagances, and made to see and prize his jewels too much to sell them, as Esau did his birthright. You do not read anywhere that Esau had faith, no, not so much as a little; therefore it is no wonder, where the flesh alone bears sway (as it will in that man where there is no faith to resist it), if he sells his birthright and his soul and all, and that to the devil of hell; for it is with such as it is with the donkey, who in her heat cannot be turned away, Jer 2:24: when their minds are set upon their lusts, they will have them, whatever they cost. But Little-Faith was of another disposition; his mind was on things divine; his livelihood was upon things that were spiritual, and from above: therefore, to what end should he who is of such a disposition sell his jewels (had there been any who would have bought them) to fill his mind with empty things? Will a man give a penny to fill his belly with hay? Or can you persuade the turtle-dove to live upon carrion, like the crow? Though faithless ones can, for carnal lusts, pawn, or mortgage, or sell what they have, and themselves outright to boot; yet those who have faith, saving faith, though only a little of it, cannot do so. Here, therefore, my brother, is your mistake.]
 
-#speech[#smallcaps[Hopeful]: I acknowledge it; but yet your severe reflection had almost made me angry.]
+#speech[#smallcaps[Hopeful]: I acknowledge it; but yet your severe rebuke had almost made me angry.]
 
 #speech[#smallcaps[Christian]: Why, I only compared you to some of the birds that are of the brisker sort, which will run to and fro in untrodden paths with the shell still upon their heads: but pass by that, and consider the matter under debate, and all shall be well between you and me.]
 
@@ -65,7 +65,7 @@ Then said Christian to his companion, Now I call to mind what was told me of a t
 
 #speech[#smallcaps[Christian]: That they are cowards, many have said, but few have found it so in the time of trial. As for a great heart, Little-Faith had none; and I perceive by you, my brother, that had you been the man concerned, you are only for a brush, and then to yield. And truly, since this is the height of your courage now that they are at a distance from us, should they appear to you as they did to him, they might put you to second thoughts.]
 
-But consider again, that they are only journeymen thieves; they serve under the king of the bottomless pit, who, if need be, will come to their aid himself, and his voice is as the roaring of a lion. 1 Pet 5:8. I myself have been engaged as this Little-Faith was, and I found it a terrible thing. These three villains set upon me, and as I began like a Christian to resist, they gave but a call, and in came their master. I would, as the saying is, have given my life for a penny, but that, as God would have it, I was clothed with armor of proof. Yes, and yet, though I was so harnessed, I found it hard work to quit myself like a man: no man can tell what attends us in that combat, but he who has been in the battle himself.
+But consider again, that they are only journeymen thieves; they serve under the king of the bottomless pit, who, if need be, will come to their aid himself, and his voice is as the roaring of a lion. 1 Pet 5:8. I myself have been engaged as this Little-Faith was, and I found it a terrible thing. These three villains set upon me, and as I began like a Christian to resist, they gave but a call, and in came their master. I would, as the saying is, have given my life for a penny, but that, as God would have it, I was clothed with armor of proof. Yes, and yet, though I was so armed, I found it hard work to quit myself like a man: no man can tell what attends us in that combat, but he who has been in the battle himself.
 
 #speech[#smallcaps[Hopeful]: Well, but they ran, you see, when they did but suppose that one Great-Grace was in the way.]
 
@@ -73,7 +73,7 @@ But consider again, that they are only journeymen thieves; they serve under the 
 
 #speech[#smallcaps[Hopeful]: I wish it had been Great-Grace, for their sakes.]
 
-#speech[#smallcaps[Christian]: If it had been he, he might have had his hands full: for I must tell you, that though Great-Grace is excellently good with his weapons, and has, and can, so long as he keeps them at sword’s point, do well enough with them; yet if they get within his guard, even Faint-Heart, Mistrust, or the other, it will go hard but they will throw up his heels. And when a man is down, you know, what can he do?]
+#speech[#smallcaps[Christian]: If it had been he, he might have had his hands full: for I must tell you, that though Great-Grace is excellently good with his weapons, and has, and can, so long as he keeps them at sword’s point, do well enough with them; yet if they get within his guard, even Faint-Heart, Mistrust, or the other, they will almost certainly throw up his heels. And when a man is down, you know, what can he do?]
 
 Whoever looks well upon Great-Grace’s face will see those scars and cuts there that will easily demonstrate what I say. Indeed, I once heard that he said (and that when he was in the combat), We despaired even of life. How did these sturdy rogues and their fellows make David groan, mourn, and roar! Indeed, Heman, Ps 88, and Hezekiah too, though champions in their day, were forced to bestir themselves when assaulted by these; and yet, for all that, they had their coats soundly brushed by them. Peter, upon a time, would go and try what he could do; but though some say of him that he is the prince of the apostles, they handled him so that they made him at last afraid of a mere girl.
 
@@ -83,7 +83,7 @@ But for such foot soldiers as you and I are, let us never desire to meet with an
 
 When, therefore, we hear that such robberies are done on the King’s highway, there are two things it becomes us to do.
 
-1\. To go out harnessed, and be sure to take a shield with us: for it was for lack of that, that he who laid on so vigorously at Leviathan could not make him yield; for, indeed, if that is lacking, he does not fear us at all. Therefore, he who had skill has said, “Above all, take up the shield of faith, with which you#super[+] can quench all the fiery darts of the evil one.” Eph 6:16.
+1\. To go out armed, and be sure to take a shield with us: for it was for lack of that, that he who laid on so vigorously at Leviathan could not make him yield; for, indeed, if that is lacking, he does not fear us at all. Therefore, he who had skill has said, “Above all, take up the shield of faith, with which you#super[+] can quench all the fiery darts of the evil one.” Eph 6:16.
 
 2\. It is good, also, that we desire of the King a convoy, indeed, that he will go with us himself. This made David rejoice when in the Valley of the Shadow of Death; and Moses was rather for dying where he stood, than to go one step without his God. Exod 33:15.
 
@@ -408,7 +408,7 @@ Then said Christian to Hopeful (but softly), Did I not tell you he did not care 
 
 #speech[#smallcaps[Hopeful]: Ask him if he ever had Christ revealed to him from heaven.]
 
-#speech[#smallcaps[Ignorance]: What! You are a man for revelations! I do believe that what both you and all the rest of you say about that matter is but the fruit of distracted brains.]
+#speech[#smallcaps[Ignorance]: What! You are a man for revelations! I do believe that what both you and all the rest of you say about that matter is but the fruit of crazed brains.]
 
 #speech[#smallcaps[Hopeful]: Why, man, Christ is so hidden in God from the natural understanding of the flesh that he cannot be savingly known by any man, unless God the Father reveals him to him.]
 

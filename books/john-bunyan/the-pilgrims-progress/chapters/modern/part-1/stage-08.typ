@@ -20,7 +20,7 @@ They went then till they came to the Delectable Mountains, which mountains belon
 
 #speech[#smallcaps[Christian]: Is there in this place any relief for pilgrims who are weary and faint in the way?]
 
-#speech[#smallcaps[The Shepherds]: The Lord of these mountains has given us a charge not to forget to entertain strangers, Heb 13:2; therefore the good of the place is before you.]
+#speech[#smallcaps[The Shepherds]: The Lord of these mountains has given us a charge not to forget to show hospitality to strangers, Heb 13:2; therefore the good of the place is before you.]
 
 I saw also in my dream, that when the shepherds perceived that they were wayfaring men, they also put questions to them (to which they made answer as in other places), such as, Where did you come from? and, How did you get into the way? and, By what means have you persevered in it so far? For only a few of those who begin to come here show their face on these mountains. But when the shepherds heard their answers, being pleased with them, they looked very lovingly upon them, and said, Welcome to the Delectable Mountains.
 

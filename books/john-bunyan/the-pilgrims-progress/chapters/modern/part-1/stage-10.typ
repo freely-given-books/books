@@ -84,7 +84,7 @@ Now, the ignorant do not know that such convictions as tend to put them in fear 
 
 1\. They draw off their thoughts, as much as they can, from the remembrance of God, death, and judgment to come.
 
-2\. Then they cast off private duties by degrees, such as closet prayer, curbing their lusts, watching, sorrow for sin, and the like.
+2\. Then they cast off private duties by degrees, such as private prayer, curbing their lusts, watching, sorrow for sin, and the like.
 
 3\. Then they shun the company of lively and warm Christians.
 
@@ -94,7 +94,7 @@ Now, the ignorant do not know that such convictions as tend to put them in fear 
 
 6\. Then they begin to adhere to, and associate themselves with, carnal, loose, and wanton men.
 
-7\. Then they give way to carnal and wanton talk in secret; and glad they are if they can see such things in any who are counted honest, that they may do it more boldly through their example.
+7\. Then they give way to carnal and wanton talk in secret; and glad they are if they can see such things in any who are counted upright, that they may do it more boldly through their example.
 
 8\. After this they begin to play with little sins openly.
 

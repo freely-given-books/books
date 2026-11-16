@@ -22,7 +22,7 @@ The neighbors also came out to see him run, Jer 20:10; and as he ran, some mocke
 
 #speech[#smallcaps[Obstinate]: What, said Obstinate, and leave our friends and our comforts behind us!]
 
-#speech[#smallcaps[Christian]: Yes, said Christian (for that was his name), because all that you forsake is not worthy to be compared with a little of that which I am seeking to enjoy, 2 Cor 4:18; and if you will go along with me, and hold to it, you will fare as I myself; for there, where I am going, is enough and to spare. Luke 15:17. Come away, and prove my words.]
+#speech[#smallcaps[Christian]: Yes, said Christian (for that was his name), because all that you forsake is not worthy to be compared with a little of that which I am seeking to enjoy, 2 Cor 4:18; and if you will go along with me, and hold to it, you will fare as I myself; for there, where I am going, is enough and to spare. Luke 15:17. Come away, and test my words.]
 
 #speech[#smallcaps[Obstinate]: What are the things you seek, since you leave all the world to find them?]
 
@@ -34,7 +34,7 @@ The neighbors also came out to see him run, Jer 20:10; and as he ran, some mocke
 
 #speech[#smallcaps[Obstinate]: Come then, neighbor Pliable, let us turn back, and go home without him: there is a company of these crazy-headed coxcombs who, when they take a fancy by the end, are wiser in their own eyes than seven men that can render a reason.]
 
-#speech[#smallcaps[Pliable]: Then said Pliable, Don’t revile; if what the good Christian says is true, the things he looks after are better than ours: my heart inclines to go with my neighbor.]
+#speech[#smallcaps[Pliable]: Then said Pliable, Don’t revile; if what the good Christian says is true, the things he looks for are better than ours: my heart inclines to go with my neighbor.]
 
 #speech[#smallcaps[Obstinate]: What, more fools still! Be ruled by me, and go back; who knows where such a brain-sick fellow will lead you? Go back, go back, and be wise.]
 
@@ -76,7 +76,7 @@ Now I saw in my dream that, when Obstinate had gone back, Christian and Pliable 
 
 #speech[#smallcaps[Christian]: There we shall be with seraphim and cherubim, Isa 6:2; 1 Thess 4:16, 17; Rev 5:11; creatures that will dazzle your eyes to look on them. There also you will meet with thousands and ten thousands that have gone before us to that place; none of them are hurtful, but loving and holy; every one walking in the sight of God, and standing in his presence with acceptance forever. In a word, there we shall see the elders with their golden crowns, Rev 4:4; there we shall see the holy virgins with their golden harps, Rev 14:1–5; there we shall see men that by the world were cut in pieces, burned in flames, eaten by beasts, drowned in the seas, for the love they bore to the Lord of the place, John 12:25; all well, and clothed with immortality as with a garment. 2 Cor 5:2.]
 
-#speech[#smallcaps[Pliable]: The hearing of this is enough to ravish one’s heart. But are these things to be enjoyed? How shall we get to be sharers in them?]
+#speech[#smallcaps[Pliable]: The hearing of this is enough to enrapture one’s heart. But are these things to be enjoyed? How shall we get to be sharers in them?]
 
 #speech[#smallcaps[Christian]: The Lord, the governor of the country, has recorded that in this book, Isa 55:1, 2; John 6:37; 7:37; Rev 21:6; 22:17; the substance of which is, if we are truly willing to have it, he will bestow it upon us freely.]
 
@@ -90,7 +90,7 @@ Now I saw in my dream that, just as they had ended this talk, they drew near to 
 
 #speech[#smallcaps[Christian]: Truly, said Christian, I do not know.]
 
-#speech[#smallcaps[Pliable]: At this Pliable began to be offended, and angrily said to his fellow, Is this the happiness you have told me of all this while? If we fare so badly at our first setting out, what may we expect between this and our journey’s end? If I can only get out again with my life, you shall possess the brave country alone for me. And with that he gave a desperate struggle or two, and got out of the mire on that side of the slough which was next to his own house: so away he went, and Christian saw him no more.]
+#speech[#smallcaps[Pliable]: At this Pliable began to be offended, and angrily said to his fellow, Is this the happiness you have told me of all this while? If we fare so badly at our first setting out, what may we expect between this and our journey’s end? If I can only get out again with my life, you shall possess the fine country alone, for all I care. And with that he gave a desperate struggle or two, and got out of the mire on that side of the slough which was next to his own house: so away he went, and Christian saw him no more.]
 
 So Christian was left to tumble in the Slough of Despond alone; but still he endeavored to struggle to that side of the slough that was farthest from his own house, and next to the wicket-gate; which he did, but could not get out because of the burden that was upon his back: but I beheld in my dream that a man came to him, whose name was Help, and asked him what he was doing there.
 
@@ -108,9 +108,9 @@ Then I stepped to him that plucked him out, and said, “Sir, since over this pl
 
 “True, there are, by the direction of the Lawgiver, certain good and substantial steps, placed even through the very midst of this slough; but at such times as this place spews out much of its filth, as it does before a change of weather, these steps are hardly seen; or if they are, men, through the dizziness of their heads, step beside them, and then they are thoroughly bemired, though the steps are there: but the ground is good when they have once got in at the gate.” 1 Sam 12:23.
 
-Now I saw in my dream that by this time Pliable had got home to his house. So his neighbors came to visit him; and some of them called him a wise man for coming back, and some called him a fool for hazarding himself with Christian: others again mocked at his cowardliness, saying, “Surely, since you began to venture, I would not have been so base as to have given up for a few difficulties.” So Pliable sat sneaking among them. But at last he got more confidence, and then they all turned their tales, and began to deride poor Christian behind his back. And thus much concerning Pliable.
+Now I saw in my dream that by this time Pliable had got home to his house. So his neighbors came to visit him; and some of them called him a wise man for coming back, and some called him a fool for hazarding himself with Christian: others again mocked at his cowardliness, saying, “Surely, since you began to venture, I would not have been so base as to have given up for a few difficulties.” So Pliable sat cringing among them. But at last he got more confidence, and then they all turned their tales, and began to deride poor Christian behind his back. And thus much concerning Pliable.
 
-Now as Christian was walking solitary by himself, he spied one far off coming across the field to meet him; and as it happened, they met just as they were crossing each other’s way. The gentleman’s name that met him was Mr. Worldly Wiseman: he dwelt in the town of Carnal Policy, a very great town, and also close by the place Christian came from. This man then, meeting with Christian, and having some inkling#footnote[Slight knowledge.] of him (for Christian’s setting out from the city of Destruction was much noised abroad, not only in the town where he dwelt, but it also began to be the town-talk in some other places)—Mr. Worldly Wiseman, therefore, having some guess of him, by seeing his laborious going, by observing his sighs and groans, and the like, began thus to enter into some talk with Christian.
+Now as Christian was walking solitary by himself, he spied one far off coming across the field to meet him; and as it happened, they met just as they were crossing each other’s way. The gentleman’s name that met him was Mr. Worldly Wiseman: he dwelt in the town of Carnal Policy, a very great town, and also close by the place Christian came from. This man then, meeting with Christian, and having some inkling of him (for Christian’s setting out from the city of Destruction was much noised abroad, not only in the town where he dwelt, but it also began to be the town-talk in some other places)—Mr. Worldly Wiseman, therefore, having some guess of him, by seeing his laborious going, by observing his sighs and groans, and the like, began thus to enter into some talk with Christian.
 
 #speech[#smallcaps[Mr. Worldly Wiseman]: How now, good fellow, where are you going in this burdened manner?]
 
@@ -132,7 +132,7 @@ Now as Christian was walking solitary by himself, he spied one far off coming ac
 
 #speech[#smallcaps[Christian]: A man that appeared to me to be a very great and honorable person: his name, as I remember, is Evangelist.]
 
-#speech[#smallcaps[Mr. Worldly Wiseman]: I beshrew#footnote[Wish a curse to.] him for his counsel! There is not a more dangerous and troublesome way in the world than that into which he has directed you; and that you will find, if you will be ruled by his counsel. You have met with something already, as I perceive; for I see the dirt of the Slough of Despond is upon you: but that slough is the beginning of the sorrows that attend those that go on in that way. Hear me; I am older than you: you are likely to meet with, in the way you are going, wearisomeness, painfulness, hunger, perils, nakedness, sword, lions, dragons, darkness, and, in a word, death, and what not. These things are certainly true, having been confirmed by many testimonies. And should a man so carelessly cast himself away by giving heed to a stranger?]
+#speech[#smallcaps[Mr. Worldly Wiseman]: A curse on him for his counsel! There is not a more dangerous and troublesome way in the world than that into which he has directed you; and that you will find, if you will be ruled by his counsel. You have met with something already, as I perceive; for I see the dirt of the Slough of Despond is upon you: but that slough is the beginning of the sorrows that attend those that go on in that way. Hear me; I am older than you: you are likely to meet with, in the way you are going, wearisomeness, painfulness, hunger, perils, nakedness, sword, lions, dragons, darkness, and, in a word, death, and what not. These things are certainly true, having been confirmed by many testimonies. And should a man so carelessly cast himself away by giving heed to a stranger?]
 
 #speech[#smallcaps[Christian]: Why, sir, this burden on my back is more terrible to me than all these things which you have mentioned: indeed, I think I do not care what I meet with in the way, if only I can also meet with deliverance from my burden.]
 
@@ -140,7 +140,7 @@ Now as Christian was walking solitary by himself, he spied one far off coming ac
 
 #speech[#smallcaps[Christian]: By reading this book in my hand.]
 
-#speech[#smallcaps[Mr. Worldly Wiseman]: I thought so; and it has happened to you as to other weak men, who, meddling with things too high for them, suddenly fall into your distractions; which distractions not only unman men, as yours, I perceive, have done you, but they drive them into desperate ventures, to obtain they know not what.]
+#speech[#smallcaps[Mr. Worldly Wiseman]: I thought so; and it has happened to you as to other weak men, who, meddling with things too high for them, suddenly fall into your frenzies; which frenzies not only unman men, as yours, I perceive, have done you, but they drive them into desperate ventures, to obtain they know not what.]
 
 #speech[#smallcaps[Christian]: I know what I would obtain; it is ease from my heavy burden.]
 
@@ -148,7 +148,7 @@ Now as Christian was walking solitary by himself, he spied one far off coming ac
 
 #speech[#smallcaps[Christian]: Sir, please open this secret to me.]
 
-#speech[#smallcaps[Mr. Worldly Wiseman]: Why, in yonder village (the village is named Morality) there dwells a gentleman whose name is Legality, a very judicious man, and a man of a very good name, that has skill to help men off with such burdens as yours from their shoulders; yes, to my knowledge, he has done a great deal of good this way; yes, and besides, he has skill to cure those that are somewhat crazed in their wits with their burdens. To him, as I said, you may go, and be helped at once. His house is not quite a mile from this place; and if he should not be at home himself, he has a fine young man for his son, whose name is Civility, that can do it (so to speak) as well as the old gentleman himself: there, I say, you may be eased of your burden; and if you are not minded to go back to your former home (as indeed I would not wish you to), you may send for your wife and children to this village, where there are houses now standing empty, one of which you may have at a reasonable rate: provisions there are also cheap and good; and what will make your life the happier is that, to be sure, there you will live by honest neighbors, in credit and good fashion.]
+#speech[#smallcaps[Mr. Worldly Wiseman]: Why, in yonder village (the village is named Morality) there dwells a gentleman whose name is Legality, a very judicious man, and a man of a very good name, that has skill to help men off with such burdens as yours from their shoulders; yes, to my knowledge, he has done a great deal of good this way; yes, and besides, he has skill to cure those that are somewhat crazed in their wits with their burdens. To him, as I said, you may go, and be helped at once. His house is not quite a mile from this place; and if he should not be at home himself, he has a fine young man for his son, whose name is Civility, that can do it (so to speak) as well as the old gentleman himself: there, I say, you may be eased of your burden; and if you are not minded to go back to your former home (as indeed I would not wish you to), you may send for your wife and children to this village, where there are houses now standing empty, one of which you may have at a reasonable rate: provisions there are also cheap and good; and what will make your life the happier is that, to be sure, there you will live by honest neighbors, in good repute and good fashion.]
 
 Now Christian was somewhat at a loss; but at once he concluded, If what this gentleman has said is true, my wisest course is to take his advice: and with that he spoke further thus.
 
@@ -194,7 +194,7 @@ So Christian turned out of his way to go to Mr. Legality’s house for help: but
 
 Then Christian fell down at his feet as dead, crying, Woe is me, for I am undone! At the sight of which Evangelist caught him by the right hand, saying, “Every sin and blasphemy will be forgiven men.” Matt 12:31. “Stop doubting and believe.” John 20:27. Then Christian again revived a little, and stood up trembling, as at first, before Evangelist.
 
-Then Evangelist proceeded, saying, Give more earnest heed to the things that I shall tell you of. I will now show you who it was that deluded you, and who it was also to whom he sent you. The man that met you is one Worldly Wiseman, and rightly is he so called; partly because he savors only the doctrine of this world, 1 John 4:5 (therefore he always goes to the town of Morality to church); and partly because he loves that doctrine best, for it saves him best from the cross, Gal 6:12: and because he is of this carnal temper, therefore he seeks to pervert my ways, though right. Now there are three things in this man’s counsel that you must utterly abhor.
+Then Evangelist proceeded, saying, Give more earnest heed to the things that I shall tell you of. I will now show you who it was that deluded you, and who it was also to whom he sent you. The man that met you is one Worldly Wiseman, and rightly is he so called; partly because he savors only the doctrine of this world, 1 John 4:5 (therefore he always goes to the town of Morality to church); and partly because he loves that doctrine best, for it saves him best from the cross, Gal 6:12: and because he is of this carnal disposition, therefore he seeks to pervert my ways, though right. Now there are three things in this man’s counsel that you must utterly abhor.
 
 1\. His turning you out of the way.
 
