@@ -23,7 +23,7 @@ In the eleventh #emph[verse] he gives another reason to move them to show pity a
 
 #emph[So that Satan should not get an advantage over us,] #footnote[Πλεονεκτηθῶμεν.] that is, so that Satan should not over-reach us. The Greek word signifies to have more than belongs to one. The comparison is taken from the greedy merchant, who seeks and takes every opportunity to cheat and deceive others. Satan is that wily merchant who devours not widows’ houses, but most men’s souls.
 
-#emph[For we are not ignorant of] Satan’s #emph[devices,] or plots, or machinations, or stratagems.#footnote[Νοήματα.] He is only a Christian in name who has no personal experience of Satan’s stratagems, his set and composed machinations, his artfully molded methods, his plots, darts, and depths, by which he outwitted our first parents, and by which he always fits each of us with a bargain to suit us, as he sees fit.
+#emph[For we are not ignorant of] Satan’s #emph[devices,] or plots, or machinations, or stratagems.#footnote[Νοήματα.] He is only a Christian in name who has no personal experience of Satan’s stratagems, his set and composed machinations, his artfully molded methods, his plots, darts, and depths, by which he outwitted our first parents, and by which he always fits each of us with a cheating bargain, as he sees fit.
 
 The main observation that I will draw from these words is this:
 
