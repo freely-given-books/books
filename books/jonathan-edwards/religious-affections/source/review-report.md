@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1781 |
+| spelling | 1782 |
 | punctuation | 1703 |
 | spacing | 1112 |
 | emendation | 726 |
@@ -2788,6 +2788,7 @@
 - Preceeding → Preceding
 - Pretiousness → Preciousness
 - Rehobeam → Rehoboam
+- Sina → Sinai
 - Testamen → Testament
 - The → 'The
 - Tho' → though
