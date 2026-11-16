@@ -37,6 +37,9 @@ same text anymore").
    Rejected in the pilot: "out of tune" for Owen's "unframes our spirit" (now "unsettles our
    spirit"); "rain blows on him" for "double blows upon him" (read as literal rain; now "takes
    blow after blow").
+5. **An early-modern "?" used as an exclamation becomes "!" or "."** ("What folly is it to trust
+   in other saviors?" → "What folly it is to trust in other saviors!"), and tags like "and what
+   not?" are rephrased ("and who knows what else."); real rhetorical questions stay questions.
 
 ## 3. Words
 
