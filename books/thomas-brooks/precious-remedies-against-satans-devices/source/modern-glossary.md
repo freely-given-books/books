@@ -69,6 +69,18 @@ heavy: "a sad, doubting condition" stays).
 | whilst, amongst | while, among |
 | want (lack) | lack |
 | Act. and Mon. (in notes) | Foxe, #emph[Acts and Monuments] (folio number kept) |
+| with a witness | with a vengeance (all five places) |
+| bowels (of mercy, compassion) | heart, tender mercy, tender compassion (by sense) |
+| physic | medicine |
+| cordial(s) | heart-medicine(s) |
+| would fain | would gladly |
+| secure / security (careless) | careless / carelessness (or "false security") |
+| humours (bodily) | infection |
+| discoveries (of God's love) | revelations |
+| parts (gifts) | talents |
+| peremptory | determined, obstinate (by sense) |
+| the three children (Dan 3) | the three young men |
+| Dives | the rich man |
 | Holy Ghost | Holy Spirit |
 | LORD (in Scripture) | #smallcaps[Lord] |
 
