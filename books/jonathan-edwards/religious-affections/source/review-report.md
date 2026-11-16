@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | spelling | 1782 |
-| punctuation | 1703 |
+| punctuation | 1704 |
 | spacing | 1112 |
-| emendation | 726 |
-| case | 429 |
+| emendation | 727 |
+| case | 430 |
 | italic | 327 |
 | level | 207 |
 | gap | 57 |
@@ -747,6 +747,7 @@
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] " be → 'Be
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Jam . → Jas
 - [part-3/sign-12.typ] 27 → 26
@@ -914,6 +915,7 @@
 - [part-1/03-religion-in-the-affections.typ] . → ans
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → ,
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → 
@@ -2360,7 +2362,7 @@
 - [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] . → :
-- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → .'
 - [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] . → 
@@ -2556,6 +2558,7 @@
 - Offerings → offerings
 - Some → some
 - Tavern → tavern
+- The → the
 - Worm → worm
 - reason → Reason
 - they → They
