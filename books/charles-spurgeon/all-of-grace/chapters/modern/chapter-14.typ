@@ -8,7 +8,7 @@ This living Jesus is also raised to an eminence of glory and power. He does not 
 
 #quote[“The God of our fathers raised up Jesus, whom you#super[+] had killed by hanging Him on a tree. God exalted Him to His right hand to be a Prince and a Savior, to give repentance to Israel and forgiveness of sins.” — Acts 5:30, 31.]
 
-The glory which surrounds the ascended Lord should breathe hope into every believer’s breast. Jesus is no common person — he is “a Savior and a great one.” He is the crowned and enthroned Redeemer of men. The sovereign prerogative of life and death is vested in him; the Father has put all men under the mediatorial government of the Son, so that he can quicken whom he will. He opens, and no man shuts. At his word the soul which is bound by the cords of sin and condemnation can be unloosed in a moment. He stretches out the silver scepter, and whoever touches it lives.
+The glory which surrounds the ascended Lord should breathe hope into every believer’s breast. Jesus is no common person — he is “a Savior and a great one.” He is the crowned and enthroned Redeemer of men. The sovereign prerogative of life and death is vested in him; the Father has put all men under the mediatorial government of the Son, so that he can give life to whom he will. He opens, and no man shuts. At his word the soul which is bound by the cords of sin and condemnation can be unloosed in a moment. He stretches out the silver scepter, and whoever touches it lives.
 
 It is well for us that as sin lives, and the flesh lives, and the devil lives, so Jesus lives; and it is also well that whatever might these may have to ruin us, Jesus has still greater power to save us.
 
