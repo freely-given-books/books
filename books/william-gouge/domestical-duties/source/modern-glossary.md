@@ -136,6 +136,9 @@ from the grace of God" (Heb 12:15), "Train up a child in the trade of his way" (
 | Doomsday / Day of Assize | Judgment Day / day of trial |
 | Doctor (a title of Christ) | teacher |
 | treasure of the Church (popish) | treasury of the church |
+| rudely brought up (untaught) | brought up untaught (not "roughly") |
+| starve (for want of clothing, of cold) | freeze |
+| sins "slipped from them" | they "have fallen into them" |
 
 Kept as terms: natural affection, the second table, privative, oblation, surety, incommunicable, professors
 (of religion), quicken (theological, "give life" where plain), humor (of the body), ex opere operato (glossed).
