@@ -1,6 +1,6 @@
 == The Ancient Law and Unique Bond of Marriage
 
-=== §. 79. #emph[Of the ancient Law of marriage.]
+=== §. 79. #emph[Of the ancient law of marriage.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -47,7 +47,7 @@ In it three things are noted concerning the state of marriage.
 
 3\. Its nearness #emph[(the two will be one flesh).]
 
-=== §. 80. #emph[Of preferring husband or wife before parents.]
+=== §. 80. #emph[Of preferring husband or wife to parents.]
 
 The first point shows that
 
@@ -73,7 +73,7 @@ The second point, concerning the firmness of the marriage knot, in these words #
 
 Be careful, therefore, to preserve this indissoluble knot. And live together in such a way that you#super[+] may live together with comfort, because you must not part.
 
-=== §. 82. #emph[Of two only to be joined together in marriage.]
+=== §. 82. #emph[Of only two being joined together in marriage.]
 
 The third point, concerning the nearness of man and wife, in these words #emph[(the two will be one flesh),] yields two more doctrines.
 
@@ -89,7 +89,7 @@ The third point, concerning the nearness of man and wife, in these words #emph[(
 
 If, therefore, there are more than two, the offspring that comes from it is an adulterous offspring.
 
-=== §. 83. #emph[Of Polygamy and Bigamy.]
+=== §. 83. #emph[Of polygamy and bigamy.]
 
 Can polygamy (having many wives) or bigamy (having two wives at once) have any good warrant against so express a law? Are not both of them against the first institution of marriage, so that we may say, “It was not this way from the beginning”?#footnote[Matt 19:8.] Are they not also against #footnote[Deut 17:17. Lev 18:18.] other particular laws? Lamech,#footnote[Gen 4:19. #emph[Magis pertinere ad nuptiarum bonum, non vnum & multas, sed vnum & vnam, satis indicat ipsa prima diuinitus facta coniugum copula, etc.] \[That one man and one woman, not one man and many women, belongs more to the good of marriage, the very first joining of a couple, made by God, shows clearly enough, etc.\] #emph[Aug. de Nupt. & concup. l.] 1. #emph[c.] 9. Gen 2:18. Gen 16:5; 21:11.] one of Cain’s cursed line, was the first we read of who presumed to go against that ancient law.
 
@@ -99,7 +99,7 @@ Can polygamy (having many wives) or bigamy (having two wives at once) have any g
 
 Considering how heinous this sin is, our laws #footnote[#emph[Statute] 1 #emph[James I,] c. 11.] have justly made it a felony for a man to have more wives than one, or a woman more husbands.
 
-=== §. 84. #emph[Of the near conjunction of man and wife together.]
+=== §. 84. #emph[Of the close union of man and wife.]
 
 2\. #emph[Husband and wife are the nearest of all to one another.] #footnote[Doctrine.] Every clause in the law named above proves as much.
 
@@ -121,7 +121,7 @@ So much for the literal sense of this verse.
 
 The mystical sense follows.
 
-=== §. 85. #emph[Of the matrimonial conjunction of Christ and the Church.]
+=== §. 85. #emph[Of the marriage union of Christ and the church.]
 
 The ancient marriage law named above is here applied mystically #footnote[#emph[Quod per historiam impletum est in Adam, per prophetiam significat Christum qui reliquit patrem, etc.] \[What was fulfilled as history in Adam signifies by prophecy Christ, who left his Father, etc.\] #emph[Aug. de Gen. lib.] 2. #emph[c.] 24.] to Christ and the church. This is evident from the next verse, where the apostle, referring to this verse, says, “This is a great mystery.” There is, then, a mystery contained in it. But of what, or of whom, is that mystery? The apostle himself answers in these words: “I am speaking about Christ and the church.”
 
@@ -183,7 +183,7 @@ The #footnote[Use.] church, and all who are of the church, must be of the same m
 
 This, then, is our duty: that we do not let any natural affection and doting on our parents swallow up the love we owe to Christ, as Pharaoh’s “cows that were sickly and thin devoured #footnote[Gen 41:4.] the seven sleek, well-fed cows.” How much less should any love of this world, of its profits, promotions or pleasures, draw our hearts away from Christ! Should we not rather say and do as the apostles did: “Look, we have left #footnote[Matt 19:27.] everything to follow You”?
 
-=== §. 87. #emph[Of the indissoluble union betwixt Christ and the Church.]
+=== §. 87. #emph[Of the indissoluble union between Christ and the church.]
 
 #smallcaps[II]. The firmness of the bond by which Christ and the church are said to be #emph[glued] together is greater and more inviolable than that by which man and wife are joined together. Death parts man and wife, but death cannot make a separation between Christ and the church. So from this metaphor we may well infer that #emph[Christ and the church are inseparably] #footnote[Hos 2:19.] #emph[knit together.] “I will betroth you to Me forever,” says Christ to the church. The covenant which Christ makes with his church is an #emph[everlasting] covenant. The mountains will be removed #footnote[Isa 61:8; 54:10.] and the hills shaken before his loving devotion departs from the church.
 
@@ -199,7 +199,7 @@ There are three virtues of special use for this purpose: faith, hope and love.
 
 #emph[Love] is the glue and solder which makes us one with Christ. For it is the property of love to unite in one those who love one another. “The souls of Jonathan and #footnote[1 Sam 18:1.] David were knit together.” Why? “Jonathan loved him as himself.” He who loves is well pleased with the one he loves, and also seeks to please him, so that they may delight in one another. If these three virtues were well rooted in us, we would say, “Who shall separate us from the love of Christ?#footnote[Rom 8:35. #emph[etc.]] Shall trouble or distress,” etc.
 
-=== §. 88. #emph[Of the equal privilege of all the Saints.]
+=== §. 88. #emph[Of the equal privilege of all the saints.]
 
 #smallcaps[III]. Concerning the phrase by which the nearness of #footnote[All the saints made one spouse.] man and wife is set forth #emph[(the two will be one flesh),] it may be asked how this can be applied to Christ and the saints, who are more than two.
 
@@ -213,7 +213,7 @@ This gives instruction to the more eminent in the #footnote[Use.] church, that t
 
 So much for the parties joined to Christ. For these words #emph[(the two)] show that all the saints are only #emph[one;] Christ is the other of the two. The next words #emph[(will be one flesh)] show how near those saints are to Christ.
 
-=== §. 89. #emph[Of the near union betwixt Christ and the Church.]
+=== §. 89. #emph[Of the close union between Christ and the church.]
 
 The main point to be noted here is that
 

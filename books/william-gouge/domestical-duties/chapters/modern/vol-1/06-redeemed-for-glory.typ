@@ -1,6 +1,6 @@
 == Redeemed for Glory
 
-=== §. 48. #emph[Of the Inference of Glorification upon Justification and Sanctification.]
+=== §. 48. #emph[Of the inference of glorification from justification and sanctification.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -41,7 +41,7 @@ Is this glory fit for Christ’s spouse? Then it seems Christ has carnal eyes an
 
 For our part, as we desire to appear before Christ in such a way that he #footnote[Use.] may think us glorious, let us be arrayed with righteousness and holiness, “without which no one will see the Lord,” Heb 12:14.
 
-=== §. 49. #emph[Of the fruition of Christ’s presence in heaven.]
+=== §. 49. #emph[Of the enjoyment of Christ’s presence in heaven.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -80,7 +80,7 @@ In heaven the marriage between Christ and the church is solemnized, which has be
 
 Can the thought of death be terrible to those who know and #footnote[Use.] believe the truth of this? Will not the consideration #footnote[Encouragement against death.] of it rather make them, with the apostle, sigh and “desire to depart,” that they may be with the Lord? The highest degree of the church’s happiness consists in this enjoyment of the #footnote[#emph[Totum tibi sit Deus: quia horum quae diligis, totum tibi est. Aug. in Ioh.] 3. #emph[tract.] 13. \[Let God be all to you, for he is to you the whole of the things you love.\] Rev 21:22, 23. John 17:20, 21.] presence of her spouse; for so he becomes all in all to her, not by means, as in this world, but immediately, by himself. So there will be no need of any minister, any sacrament, any ordinance to set forth Christ to us; no governor in family, church, or commonwealth to represent his person, or to keep us in subjection; no light to direct us, no food to sustain us: we will be so attended by Christ that we will need nothing. If those servants were happy who stood continually before Solomon,#footnote[1 Kgs 10:8.] what are those who always stand in the presence of one who is infinitely greater than Solomon, not as servants, but as a wife? If it was a great grace and favor that Moses saw the back #footnote[Exod 33:23.] of God, what a grace and favor is it to behold Christ #footnote[1 Cor 13:12.] face to face? For “when Christ appears … we will see Him as He is.” #footnote[1 John 3:2.] Though we are now absent from the Lord, yet let us uphold ourselves with the expectation and assurance of this, that we will be presented before Christ.
 
-=== §. 50. #emph[Of the Glory of the Church in heaven.]
+=== §. 50. #emph[Of the glory of the church in heaven.]
 
 #emph[The quality of the church in heaven is as excellent as can be,] #footnote[Doctrine.] and therefore it is said here to be #emph[glorious.] All beauty, all comeliness, #footnote[ἔνδοξον.] all grace, whatever may make the church lovely, attractive, or in any way to be desired or admired, is comprised under this word #emph[glorious.] In this respect the saints are said to “shine,” and that “like a most precious jewel,”#footnote[Rev 21:11.] indeed, like “the brightness of the heavens,”#footnote[Dan 12:3.] like “the stars,” and like “the sun”;#footnote[Matt 13:43.] and to be “like Him,”#footnote[1 John 3:2.] Christ himself; and to “appear with Him in glory.”#footnote[Col 3:4.]
 
@@ -96,7 +96,7 @@ Much more might be said of the glory of the church, but enough can never be said
 
 Is this not enough to uphold us against all the reproach and disgrace which the world lays on us because we are #footnote[Use.] of the church of Christ? The world has #footnote[Isa 62:4.] of old counted her forsaken and desolate, though Christ calls her “Hephzibah” (that is, #emph[my delight in her]) and “Beulah” (that is, #emph[married]); indeed, it has counted her #footnote[1 Cor 4:13 ὡς περικαθάρματα τοῦ κόσμου, πάντων περίψημα.] “the scum of the earth, the refuse of the world.” Among the heathen, none were so vilely regarded as Christians; among papists, none so much as Protestants; and among carnal professors of the gospel, none so much as those who endeavor #footnote[1 John 3:3.] to purify themselves, “just as Christ is pure,” and to avoid the common sins of the world. When we are basely regarded for Christ’s sake, let us think of this.
 
-=== §. 51. #emph[Of the Churches freedom from all deformity in heaven. Not having spot, or wrinkle, or any such thing.]
+=== §. 51. #emph[Of the church’s freedom from all deformity in heaven. Not having spot or wrinkle or any such thing.]
 
 The first point noted by the apostle in his illustration of the glory named before is the removing of all deformity. The word translated #footnote[σπίλος.] #emph[spot] is used for a stain on a garment, and for a foul speck on a man’s face or another part of the body, or a scar or other blemish in his flesh from a sore, wound, blow, or the like. The other word#footnote[ῥυτίς.] (#emph[wrinkle)] is used for a #emph[crease] in the face through old age, for it signifies a #emph[gathering together of the skin by old age.] By it is meant any kind of breaking (as we say) through age, sickness, trouble, pain, or the like. Because there may also be deformities in other ways, the apostle adds this clause #emph[(or any such thing.)] These things, applied to #footnote[ἤ τι τῶν τοιούτων.] the church, show that
 
@@ -104,7 +104,7 @@ The first point noted by the apostle in his illustration of the glory named befo
 
 Though this is only a privative good, yet it adds much to the heavenly happiness of the saints. If it were possible for us to enjoy the rest and glory prepared for the saints in heaven while the spots and wrinkles of sin still remained on us, these spots and wrinkles would be like the handwriting which appeared to Belshazzar#footnote[Dan 5:5.] in the midst of his revelry; they would be like gall mixed with wine; they would turn all our joy into heaviness, and take away the sweet relish of all our happiness. Therefore the consideration of this privative benefit cannot but breed, in the hearts of all who are members of this church, a longing desire for this perfect purging of them from all deformity.
 
-=== §. 52. #emph[Of the perfect purity of the Church in heaven.]
+=== §. 52. #emph[Of the perfect purity of the church in heaven.]
 
 But that she should be holy and without blemish.
 

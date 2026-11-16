@@ -1,6 +1,6 @@
 == Marital Love and Self-Love
 
-=== §. 53. #emph[Of the application of the things which Christ hath done for the Church, unto husbands.]
+=== §. 53. #emph[Of the application to husbands of the things that Christ has done for the church.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -33,7 +33,7 @@ This ought to be the mind of husbands toward their wives.
 
 I shall speak more fully of these points hereafter.
 
-=== §. 54. #emph[Of the application of the love which a man beareth to himself, unto an husband.]
+=== §. 54. #emph[Of the application to a husband of the love that a man bears to himself.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -117,7 +117,7 @@ To press this point yet further, he returns again to the example of Christ (“j
 
 2\. To give husbands better direction for their provident care toward their wives. They must nourish and cherish them not only as their own bodies, but as Christ nourishes and cherishes his church: not only with things temporal, but also with things spiritual and eternal.
 
-=== §. 56. #emph[Of man’s natural affection to himself.]
+=== §. 56. #emph[Of man’s natural affection toward himself.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -182,17 +182,17 @@ The self-love which is evil swerves in its
 
 But by distinguishing the forenamed points we may see that, although #emph[evil self-love] is a most detestable vice, yet it is both lawful and commendable to love oneself rightly.
 
-=== §. 60. #emph[Of the error of Stoics in condemning all passion.]
+=== §. 60. #emph[Of the error of the Stoics in condemning all passion.]
 
 The folly of the Stoics, who would have all natural affection #footnote[1\. #emph[Use.]] rooted out of man, is contrary to this pattern, and unworthy to find any welcome among Christians. For what do they aim at but to root out of man what God has planted in him, and to take away the means which God has used for the better preservation of man? That wise man whom they frame for themselves is worse than a brute beast: he is a mere log or block. Not only the best and wisest men that ever were in the world, but also Christ himself had in him those passions and affections which they account unbecoming a wise man. Their folly has long since been hissed out of the schools of the philosophers; should it then find a place in Christ’s church?
 
-=== §. 61. #emph[Of well using natural affection.]
+=== §. 61. #emph[Of using natural affection well.]
 
 Let us labor to cherish this natural affection in us, and to #footnote[2\. #emph[Use.]] turn it to the best things: even to such as are good not only in appearance but in truth, and among good things to such as are most excellent and most necessary, such as concern our souls and eternal life. To this end we must pray to have our understandings enlightened (that we may “#emph[discern] #footnote[Phil 1:10.] what differs, and approve what is excellent”), and to have our wills and affections sanctified, so that we embrace, pursue and delight in what we know to be best. So our #emph[natural] affection will be turned into a #emph[spiritual] affection.
 
 Here we see how we may make nature a schoolmaster to us. For as Christ sends us to the birds of the air and the lilies #footnote[Matt 6:26, 28.] of the field to learn from them, so the apostle here sends us to our own natural instinct. We cannot complain that we have no schoolmaster near us (as many in the country can, whose children are roughly brought up for want of one): we ourselves are schoolmasters to ourselves. Therefore, as the apostle by this teaches husbands to love their wives, so let us all learn more generally to love one another. For #footnote[1 Cor 12:12.] we are all mutual members of one and the same body, and our brother or neighbor is “our own flesh.”#footnote[Isa 58:7.]
 
-=== §. 62. #emph[Of Man’s forbearing to wrong himself.]
+=== §. 62. #emph[Of man’s forbearing to wrong himself.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -221,7 +221,7 @@ Hatred is contrary to love. Since it was proved before #footnote[Reason.] that e
 
 #emph[Answer.] That was far from hatred, and done in great love to themselves, as was shown #footnote[§. 58.] before.
 
-=== §. 63. #emph[Of unnatural practises against ones self.]
+=== §. 63. #emph[Of unnatural practices against oneself.]
 
 The forenamed doctrine exposes many practices used #footnote[1 #emph[Use.]] by various men as being against nature, and in that respect most horrible and detestable.
 
@@ -263,7 +263,7 @@ But to return to the point of nourishing and cherishing our flesh:
 
 2\. When we nourish and cherish our bodies well, they are the better enabled to do the work and service which God appoints to be done; but when we neglect them, they are disabled for it. As this is a motive, so it ought to be an end at which we aim in nourishing and cherishing our bodies.
 
-=== §. 66. #emph[Of them that neglect to cherish their bodies.]
+=== §. 66. #emph[Of those who neglect to cherish their bodies.]
 
 Many offend against this good instinct of nature. #footnote[Use.]
 
@@ -279,7 +279,7 @@ Many offend against this good instinct of nature. #footnote[Use.]
 
 3\. Those who #emph[sever] these two duties of nature (#emph[nourishing] and #footnote[3\. They who make excess in one needful thing a hindrance to another.] #emph[cherishing]) and make them a hindrance to one another. Some so #emph[nourish] their bodies that they cannot #emph[cherish] them; that is, they spend so much on eating and drinking that they have nothing to clothe themselves with. Others so #emph[cherish] them that they cannot nourish them; that is, they so deck themselves out in fine clothing beyond their means that they do not have sufficient food for themselves. These fall into two contrary extremes: into #emph[excess] in one thing, and into #emph[defect] in another.
 
-=== §. 67. #emph[Of contentment in that which is sufficient.]
+=== §. 67. #emph[Of contentment with what is sufficient.]
 
 As the apostle, by naming these two (#emph[nourish, cherish]), shows that both of them are needful, so by naming them only, and no more than them, he shows that these two are sufficient. From this we learn that
 

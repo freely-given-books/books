@@ -1,6 +1,6 @@
 == Love That Purifies the Unclean
 
-=== §. 34. #emph[Of Christ’s preventing Grace.]
+=== §. 34. #emph[Of Christ’s grace that goes before (his preventing grace).]
 
 In setting down how the condition of the church named before is changed, note:
 
@@ -15,7 +15,7 @@ In this Christ’s love differs from the love of all men toward#footnote[The dif
 
 Seeing that all the beauty#footnote[Use.] and dignity of the church is “from Him and through Him and to Him,” “to Him be the glory forever!#footnote[Rom 11:36.] Amen.”
 
-=== §. 35. #emph[Of Christ’s seeking to make his Church pure.]
+=== §. 35. #emph[Of Christ’s seeking to make his church pure.]
 
 The #emph[matter,] or substance, of that subordinate #emph[end] which Christ aimed at in giving himself up for the church is in these words (“that He might sanctify her, having cleansed her”). In general they show that
 
@@ -31,7 +31,7 @@ How unworthy of this benefit are those who live as the#footnote[3 #emph[Use.] Re
 
 But what may be thought of those who, like Ishmael, mock and scoff at those who labor to be cleansed?
 
-=== §. 36. #emph[Of the Churches Justification.]
+=== §. 36. #emph[Of the church’s justification.]
 
 The two particular parts of the end named before, #emph[cleansing] and #emph[sanctifying,] set forth more distinctly the purity of the church even in this world. #emph[Cleansing] has relation to the blood of Christ, and so points out our #emph[justification.]
 
@@ -41,7 +41,7 @@ From this cleansing of the church meant here, I gather that #emph[no sin lies up
 
 See here the blessed condition of the church: “Blessed is#footnote[Use.] he whose transgressions are forgiven, whose sins are covered. Blessed#footnote[Ps 32:1, 2.] is the man whose iniquity the #smallcaps[Lord] does not impute to him.”
 
-=== §. 37. #emph[Of the Churches Sanctification.]
+=== §. 37. #emph[Of the church’s sanctification.]
 
 From the sanctifying of the church mentioned here, I further gather that
 
@@ -49,7 +49,7 @@ From the sanctifying of the church mentioned here, I further gather that
 
 See here the free condition of the church. Whereas the#footnote[Use.] world lies under the slavery of sin and the tyranny of Satan, the church is “set free from sin” and has become a slave “to righteousness”;#footnote[Rom 6:18, 11.] it is “dead to sin, but alive to God in Christ Jesus.”
 
-=== §. 38. #emph[Of the Churches purity before God and Man.]
+=== §. 38. #emph[Of the church’s purity before God and man.]
 
 From the joining together of these two benefits of Christ’s death, justification and sanctification, we see that #emph[the church is both spotless before God and blameless before men.] The blood of Christ so cleanses her that in God’s sight she has no spot of sin. And the Spirit of Christ so sanctifies her that her righteousness shines before men. For “the grace of God”#footnote[Titus 2:11, 12.] “instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age.” In this respect the church is said to be “all glorious within,” and her#footnote[Ps 45:13.] “gown” also to be “embroidered with gold.” And Zechariah and Elizabeth,#footnote[Luke 1:6.] members of this church, are said to be “righteous in the sight of God” and “blameless,” namely before men. There is no such purity in any as in the church. For true and perfect beauty#footnote[#emph[Vera & perfecta pulchritudo in nullo hominum est nisi in corpore Christi quod interpretatur Ecclesia. Hier. in Ezech.] 27.] is only in the body of Christ, which is the church, of which it is said, “You are altogether beautiful … there is no spot in you” (Song 4:7).
 
@@ -63,7 +63,7 @@ From the joining together of these two benefits of Christ’s death, justificati
 
 2\. It is the course of a man’s life, not this or that particular#footnote[How the saints are blameless before men. #emph[Vna hirundo non facit ver.] \[One swallow does not make a spring.\]] action, which makes a man blameworthy or blameless; just as it is the flock of swallows, and not one here or another there, which shows the spring. Now because the constant conduct of those who are of the church is blameless before men, they may justly be accounted so, even though some particular blameworthy things at times pass from them. See here how the true saints may boldly lift up their faces before God and man. The soundness of their faith gives them confidence before God. The testimony of their conscience gives them courage before men. Let all who desire this boldness join a sound faith and a good conscience together, and labor for assurance both of their cleansing by the blood of Christ and of their sanctifying by the Spirit of Christ.
 
-=== §. 39. #emph[Of the order and dependance of justification and sanctification one upon another.]
+=== §. 39. #emph[Of the order and dependence of justification and sanctification on one another.]
 
 The order and manner of knitting these two benefits together is worth noting.
 
@@ -83,7 +83,7 @@ For sanctification is a fruit of justification. In this respect James says that 
 
 Wonderful is the comfort which the saints in this world#footnote[Use.] reap from this. For their sanctification is imperfect, and the flesh abides in them and lusts against the Spirit. Indeed, sin is present with them when they would do good, so that they are often forced to complain and cry, “What wretched men we are!#footnote[Rom 7:24.] Who will rescue us from this body of death?” If they had no other ground on which to fasten the anchor of their hope but their sanctification, it could not hold them fast enough against the storms of Satan’s temptations. But because their sanctification is a fruit and evidence of their justification, they take heart, and thank God that with the mind they themselves serve the law of God, though with the flesh they serve the law of sin. And so, upheld and comforted, they go on striving against sin until it is clean rooted out of them, as well as forgiven.
 
-=== §. 40. #emph[Of Sacramental washing of water.]
+=== §. 40. #emph[Of the sacramental washing of water.]
 
 One of the means which Christ uses for the cleansing and sanctifying of his church is expressed under this phrase: “with the washing of water.” Water is the outward element used in baptism; #emph[washing] is the principal sacramental rite in it. #emph[Water] sets forth Christ’s blood; #emph[washing] points out its application and efficacy, which is the purging and cleansing of our souls. As water without washing makes nothing clean, so the blood of Christ, without a right application of it, cleanses no man’s soul.
 
@@ -93,7 +93,7 @@ Since this #emph[washing of water] mentioned here is applied to an inward, spiri
 
 #emph[Answer.] That sprinkling is enough to show the use of water.#footnote[Why water in baptism is only sprinkled.] The one to be baptized is not brought to the font to have his face, or any other part of his body, made clean, but to have assurance of the inward cleansing of his soul. Now, so that our minds may not fasten too much on the outward thing done, but be wholly raised up to the mystery, the outward element is used no further than may serve to put us in mind of the inward thing signified by it. In the same way, in the Lord’s Supper not so much bread and wine is given and received as would satisfy one’s appetite, or slake his hunger and quench his thirst. Only a little bit of bread and a taste of wine are given, to declare the use of bread and wine, and so to draw the minds of the communicants to consider their spiritual nourishment by the body and blood of Jesus Christ.
 
-=== §. 41. #emph[How Baptism is a means of cleansing and sanctifying.]
+=== §. 41. #emph[How baptism is a means of cleansing and sanctifying.]
 
 The manner of joining this sacramental washing to the sanctifying and cleansing of the church, “with the washing of water,” shows that
 
@@ -127,11 +127,11 @@ It may be said to be a means, as stated above, in four special respects.
 
 #emph[Answer.] The use and efficacy of baptism is not passing, as the act of it is, but lasting and perpetual, as long as the one baptized lives. Whenever a sinner sincerely repents and lays hold in faith on the promises of God, baptism, which is the seal of them, is as powerful and effectual as it could have been when it was first administered. For the efficacy of baptism consists in the free offer of grace. As long, therefore, as God continues to offer grace, so long may a man’s baptism be effectual. On this ground we are baptized only once for all. And as the#footnote[Jer 4:4.] prophets put the people in mind of their circumcision, so the apostles put them in mind of their baptism long after it was administered. Indeed, they speak of it (though the act was long past) as if it were being done in the present time: “baptism … now saves you#super[+].”#footnote[1 Pet 3:21.]
 
-=== §. 43. #emph[What kind of means of grace Baptism is.]
+=== §. 43. #emph[What kind of means of grace baptism is.]
 
 #smallcaps[II]. Baptism is no physical or natural means of working#footnote[#emph[Aqua exhibet forinsecus Sacramentum gratiae, & Spiritus operatur intrinsecus beneficium gratiae.] \[The water presents outwardly the sacrament of grace, and the Spirit works inwardly the benefit of grace.\] #emph[Aug. Epist.] 23.] grace, as if the grace which is sealed up by it were inherent in the water, or in the minister’s act of sprinkling it. (In medicines, salves, herbs, foods and the like, the virtue which comes from their use is inherent in them; when they are applied they have their effect, whether a man believes it or not.) Rather, it is only a voluntary instrument which Christ uses, as it pleases him, to work what grace, or what measure of#footnote[#emph[In Baptismo praecipua pars est Spiritus, per quem & aqua sit efficax.] \[In baptism the chief part is the Spirit, through whom the water also is made effectual.\] #emph[Chrys. in Act. Hom.] 1.] grace, seems best to him. So grace only attends it; it is not enclosed in it. Yet in the right use of it, Christ by his Spirit works that grace which is received by it. In this respect the minister is said to “baptize with water,” but Christ “with the Holy Spirit and with fire” (Matt 3:11).
 
-=== §. 44. #emph[Of the necessity of Baptism.]
+=== §. 44. #emph[Of the necessity of baptism.]
 
 #smallcaps[III]. A means of working a thing may be said to be necessary#footnote[Things are necessary in two ways.] in two ways.
 
@@ -150,7 +150,7 @@ But it is necessary #emph[by consequence,] and that in two#footnote[Ex hypothesi
 
 2\. Great is the need that we have of it, in regard of our dullness in understanding spiritual things, and of our weakness in believing invisible things. We are carnal and earthly, and we understand spiritual and heavenly things better by things that are earthly and perceived by the senses. Therefore God has ordained visible elements to be sacraments of invisible graces. Again, we are slow to believe such things as are promised in the word. Therefore, the more to help and strengthen our faith, God has added to his covenant in the word his seal in and by the sacrament, so “that by two unchangeable things” (God’s covenant and God’s seal) “in which it is impossible for God to lie, we … may be strongly encouraged.” Besides, though in general we do believe the truth of God’s word, yet we are doubtful about applying it to ourselves. So, for the better applying of God’s covenant to our own souls, God has added his sacrament to his word.
 
-=== §. 45. #emph[Of the contrary extremes of Papists and Anabaptists about the necessity and efficacy of Baptism.]
+=== §. 45. #emph[Of the contrary extremes of papists and Anabaptists about the necessity and efficacy of baptism.]
 
 There are two extremes contrary to the points about baptism set down above.
 
@@ -166,7 +166,7 @@ Again, they add such efficacy to baptism that it gives grace #emph[by the work i
 
 On the other side, the Anabaptists and such libertines esteem#footnote[Anabaptists make too little of baptism.] this holy and necessary ordinance of God too lightly. For they make it only a badge of our profession, a mark of difference between the true and the false church, a sign of mutual fellowship, a bare sign of spiritual grace, a picture of mortification, regeneration, ingrafting into Christ, and the like, but no more. These indeed are some of the ends and uses of baptism. But in that they confine all its efficacy to these, they take away the greatest comfort and truest benefit which the church reaps by it, as may be gathered from the points noted#footnote[§. 41.] before.
 
-=== §. 46. #emph[Of the inward washing by Baptism.] #footnote[#emph[Ecce quia Christus sanctificat; ecce quia Christus ipso lauacro aquae in verbo vbi Minister videtur corporaliter operari ipse abluit, ipse mundat. Aug. contr. lit. Petil. l.] 3. #emph[c.] 49. \[See, it is Christ who sanctifies; see, Christ himself, by the washing of water in the word, where the minister is seen to work bodily, himself washes, himself cleanses.\]]
+=== §. 46. #emph[Of the inward washing by baptism.] #footnote[#emph[Ecce quia Christus sanctificat; ecce quia Christus ipso lauacro aquae in verbo vbi Minister videtur corporaliter operari ipse abluit, ipse mundat. Aug. contr. lit. Petil. l.] 3. #emph[c.] 49. \[See, it is Christ who sanctifies; see, Christ himself, by the washing of water in the word, where the minister is seen to work bodily, himself washes, himself cleanses.\]]
 
 In that Christ cleanses his church #emph[with] this #emph[washing of water,] I observe that
 
@@ -180,7 +180,7 @@ To this purpose tend the many emphatic phrases which the apostles apply to bapti
 
 Vain is the rejoicing of many who boast of their baptism,#footnote[Use.] and think themselves by virtue of it to be as good Christians as the best, and yet live and lie in their sin, more smeared and defiled with it than they were when they were first born. John says that Christ baptizes “with the Holy Spirit#footnote[Matt 3:11.] and with fire.” The apostle says that Christ cleanses “with the washing of water.” If that fire of the Holy Spirit does not burn up the dross of sin in you, and this water does not wash away the filth of sin, you were never #emph[fully] baptized. It may be that the hand of some minister has sprinkled a little water on your face, but Christ’s blood has not yet been sprinkled on your soul. All the benefit which you reap from your baptism is that one day you will answer dearly for the abuse of so honorable an ordinance.
 
-=== §. 47. #emph[Of joining the word with Baptism.]
+=== §. 47. #emph[Of joining the word with baptism.]
 
 The other means of sanctifying and cleansing the church expressed here is the #emph[word.] Since this is applied to baptism and joined with it, it must be meant of the promise of grace sealed up in baptism, which is God’s promise of justifying us freely and sanctifying us effectually, plainly made known and truly believed. Since this means is added to this sacrament in this way, we may well infer that
 

@@ -6,8 +6,12 @@ to every volume already drafted. The general rules are `MODERN-ENGLISH-RULES.md`
 
 ## Layout kept exactly
 
-- Chapter titles (`==`) and Gouge's section heads (`=== §. N. #emph[Of …]`) are kept character for
-  character, as the Classic has them (they make the contents).
+- Chapter titles (`==`) are the edition's own, already modern. Gouge's section heads
+  (`=== §. N. #emph[Of …]`) keep their level, number, italics and any margin footnote, but their wording is
+  modernized like the body (the editor, 2026-11-15, on "betwixt"): between, a husband, wife's, has, -s
+  verbs; church lowercase and baptism, justification, saints, papists, pope as the body has them;
+  Saviour → Savior. A partly italic head (`#emph[Of the resemblance between] the church's …`) keeps its
+  split.
 - The text blocks over a section (`#align(center)[#block …]`) keep their layout; only the verse words
   inside change, set in italic without quotation marks.
 - Paragraphs match the Classic one for one; the 1622 breaks before an italic doctrine stay
@@ -138,3 +142,29 @@ Kept as terms: natural affection, the second table, privative, oblation, surety,
 
 Divine titles: "Spirit" capitalized where it means the Holy Spirit; Father and Son capitalized as divine
 persons; "Father in heaven" capitalized.
+
+## Section-head wording (Volume I, 2026-11-15)
+
+| 1622 head | Modern English head |
+|---|---|
+| betwixt | between |
+| an husband / wives head | a husband / wife's head |
+| Apostles order, wives duties, Churches | apostle's order, wives' duties, church's |
+| preventing Grace | grace that goes before (his preventing grace) |
+| fruition (of Christ's presence) | enjoyment |
+| Inference of Glorification upon … | inference of glorification from … |
+| appertaining / by reason of | belonging / because of |
+| near conjunction / near union | close union |
+| matrimonial conjunction | marriage union |
+| within the compass of | within the bounds of |
+| honesty before commodity | what is honorable to what is profitable |
+| how far forth | how far |
+| wanting (prosperity) | lacking |
+| appropriating … to | applying … to |
+| high account of | high regard for |
+| determined period (of life) | appointed term |
+| perpetuity of the substance of such things as … are vanished | lasting substance of things whose circumstances … have passed away |
+| the Popes usurping to be Spouse | the pope's usurping the title of spouse |
+
+Kept in heads as in the body: oblation, information (§121, beside discipline), natural affection, the
+matter of our regeneration, forbearing, "Fathers, Children" (§116, the verse's words).

@@ -1,6 +1,6 @@
 == The Parents’ Duty towards Their Children
 
-=== §. 115. #emph[Of the connection of Parents duty with Children’s.]
+=== §. 115. #emph[Of the connection of parents’ duty with children’s.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[

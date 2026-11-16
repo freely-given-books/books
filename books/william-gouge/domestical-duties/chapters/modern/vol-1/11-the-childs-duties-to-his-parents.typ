@@ -1,6 +1,6 @@
 == The Child’s Duties to His Parents
 
-=== §. 96. #emph[Of the meaning of the first verse of the sixth Chapter.]
+=== §. 96. #emph[Of the meaning of the first verse of the sixth chapter.]
 
 #smallcaps[From] the particular duties that concern #emph[husbands] and #emph[wives,] the apostle proceeds to lay down those that concern children and parents. As before he laid down wives’ duties before husbands’, so here he begins with children’s (who are inferior to their parents), and that for the same reasons that were given #footnote[§. 10.] before.
 
@@ -96,7 +96,7 @@ Now this is the first commandment of the second table.
 
 The word #emph[promise] shows that this fourth reason includes some benefit that comes to the children themselves who honor their parents. The benefit is expressly named in the next verse, which we will consider point by point later.
 
-=== §. 98. #emph[Of aiming at our own, in seeking the good of others.]
+=== §. 98. #emph[Of aiming at our own good in seeking the good of others.]
 
 Here in general we may note that
 
@@ -122,7 +122,7 @@ Yet because through the corruption of our nature we are too #footnote[Cautions i
 
 4\. That our own benefit is not the #emph[only] thing, no, nor the #emph[chief] thing, we aim at in doing our duty. Rather, it should come in as a motive to add an edge to other motives of greater weight and sharpen them. And this is what the order the apostle keeps in setting down his reasons points out to us. For the three former reasons concern God, and the good conscience children ought to keep toward him. The #emph[first] points to #emph[God’s image,] which parents carry #emph[(in the Lord).] The #emph[second] sets out the #emph[right] that God has prescribed to children. The #emph[third] declares #emph[God’s charge.] Only this #emph[fourth,] which is the last, concerns the #emph[profit] and benefit of the children themselves.
 
-=== §. 99. #emph[Of preferring honesty before commodity.]
+=== §. 99. #emph[Of preferring what is honorable to what is profitable.]
 
 From the order just described we may further gather that #emph[Equity and a good conscience ought to move us to do our duty more than our own profit and the benefit that comes to us from it.] Suppose such a conflict should arise between these that they could not both stand together. Suppose that for doing what is right, and what God has commanded, our prosperity must be hindered and our life shortened. Then we should so hold to what is right and commanded by God that prosperity, life and all are let go. All the exhortations in Scripture to forsake goods, lands, life and everything else for righteousness’ sake tend to this purpose. This point is so clear #footnote[#emph[Cic. lib.] 2. #emph[de Offic. & Paradox.] 1.] that the heathen saw it by the glimmer of the light of nature they had. For they could say that what is honorable and right is to be preferred before what is advantageous and profitable.
 
@@ -147,7 +147,7 @@ They are unworthy, therefore, of the name of Christians #footnote[Use.] who aim 
 
 The apostle sets down the place where the benefit of this promise is to be enjoyed in the broadest phrase, #emph[(on the earth).] The law brings it into a narrower compass, “in the land that the #smallcaps[Lord] your God is giving you,” meaning the land of Canaan, which God gave to the Jews as their own special inheritance. So the promise, as the law sets it down for the Jews in particular, implies #emph[long life] and #emph[prosperity] in their own inheritance; for to the Jews #emph[long life] out of their own country was counted #emph[no life.] But the apostle, writing to all nations, leaves out that description of Canaan and keeps only the general substance in this phrase #emph[(on the earth).] He sets it down to show that even outward prosperity, and a #emph[long life] in this world, is promised here.
 
-=== §. 101. #emph[Of prosperity: how far forth it may be a blessing.]
+=== §. 101. #emph[Of prosperity: how far it may be a blessing.]
 
 To clear this text further and to apply it better, I will resolve various questions arising out of it, and gather such profitable instructions as it offers.
 
@@ -191,7 +191,7 @@ The first branch #emph[(that it may go well with you)] is very ample #footnote[�
 
 #emph[Answer.] Purely by consequence, through their abuse of it. God gives it to them to show the riches of his mercy; and so that all may taste of it, he does good to the #emph[evil] and the #emph[good.]#footnote[Matt 5:45. Rom 2:4.] Besides, he tests them in this way, to see whether by any means they may be brought to repentance. Because they do not have that gift, their prosperity proves to be a means of making them the more inexcusable, and of increasing their just condemnation the more. For the more God’s blessings abound toward them, the more they abuse them, adding to all their other sins that most odious sin of ingratitude, which completes the heap. And in these respects I may say of the prosperity of the wicked what the prophet said of their king: God gives it in his anger, and takes it away in #footnote[Hos 13:11.] his wrath. For by their abuse of it, it proves to be Satan’s bait to lure them, his snare to catch them, and his hook to drown #footnote[1 Tim 6:9.] them in ruin and destruction. In a word, then, the wicked are fed in a fair pasture, like oxen appointed for the slaughter. They are raised up high, as on a ladder or scaffold, like thieves and traitors, to be brought down with shame and destruction, as #emph[Pharaoh’s] baker was lifted up. #footnote[Gen 40:19.]
 
-=== §. 103. #emph[How both having, and wanting prosperity is a blessing to the Saints.]
+=== §. 103. #emph[How both having and lacking prosperity is a blessing to the saints.]
 
 5\. #emph[Question.] How is the enjoying or the lacking of prosperity a blessing to the righteous?
 
@@ -201,7 +201,7 @@ The first branch #emph[(that it may go well with you)] is very ample #footnote[�
 
 #emph[Answer.] There is flesh and blood in them, and because of its weakness they are forced to complain. But the present impression of weak flesh is not enough to call the truth of God’s promise into question. In their present extremity they do not consider what God’s mind is, what his manner of dealing with them is, how needful it is that they should be dealt with so, and what end and outcome the Lord will give. In truth it is better with them than they know. There are some weighty reasons that move God to bring them to the extremity they are in. These concern his #emph[own glory,]#footnote[John 9:3. 2 Cor 12:9.] or the #emph[building up]#footnote[Eph 3:1.] of others, or their own good: as #footnote[Ps 119:67.] curing some dangerous disease, #footnote[Job 1:12.] displaying the grace of God given to them, #footnote[Hos 5:15.] drawing them nearer to God, #footnote[2 Cor 5:2.] making them long the more for heaven, and the like.
 
-=== §. 104. #emph[Of long-life: how far forth it is a blessing.]
+=== §. 104. #emph[Of long life: how far it is a blessing.]
 
 Concerning the second branch of God’s promise #emph[(long life),] other questions are to be resolved.
 
@@ -242,7 +242,7 @@ So we see that there may be just cause to alter the latter branch of this promis
 
 #emph[Answer.] Not in the least. For first, all promises of temporal blessings are limited by a condition such as this: #emph[if keeping it may stand with God’s honor and the good of the person to whom it is made.] 2. God never simply deprives his saints of what is promised, but only gives them something better in its place. In taking away #emph[wealth,] he gives a greater store of #emph[grace;] in restraining #emph[liberty of body,] he gives #emph[freedom of conscience;] with #emph[affliction] he gives #emph[patience;] by taking away this #emph[temporal life,] he gives #emph[eternal life.] In this God deals like one who, having promised so much iron, gives as much silver instead, or gold for silver, and so for one pound gives the value of hundreds or thousands.
 
-=== §. 107. #emph[Of appropriating prosperity and long-life to the obedience which children yield to their parents.]
+=== §. 107. #emph[Of applying prosperity and long life to the obedience that children give their parents.]
 
 4\. #emph[Question.] Why are #emph[long life] and #emph[prosperity] assigned to this kind of righteousness in particular?
 
@@ -266,7 +266,7 @@ So we see that there may be just cause to alter the latter branch of this promis
 
 Since these harms are avoided by giving due obedience to parents, it may well be said that #emph[it will go well with obedient children, and they will live long.]
 
-=== §. 108. #emph[Of God’s ordering his favours so as they may appear to be true blessings.]
+=== §. 108. #emph[Of God’s ordering his favors so that they may appear to be true blessings.]
 
 Now that the particular branches of God’s promise have been #footnote[How fitly prosperity and long life are joined together.] opened one by one, we will consider them jointly, for they greatly enlarge one another. #emph[Prosperity] sweetens long life and makes it welcome; otherwise to live long, that is, in misery and wretchedness, is very tiresome and grievous. Again, long life added to prosperity makes it so much the greater blessing. For the longer a good thing lasts, the better it is. If prosperity were only like a flower, soon gone, the very thought of its vanity would greatly lessen its joy and comfort. But both of them joined together show that what is promised is no small blessing.
 
@@ -280,11 +280,11 @@ In this way God will show that he gives in love even the temporal blessings he g
 
 This is the use we must make of the things the Lord is #footnote[1\. #emph[Use.]] pleased to give us, such as long life, good health, honor, peace, plenty, liberty and all prosperity. We must receive and use them as God gives them, namely, as tokens of his favor, and be the more stirred up by them to perform the duties he requires of us. We must not abuse them to his dishonor and our own harm, but use them rather so that he may have honor and we profit by them.
 
-=== §. 109. #emph[Of God’s high account of dutiful children.]
+=== §. 109. #emph[Of God’s high regard for dutiful children.]
 
 More particularly, by this promise we may learn what high #footnote[2\. #emph[Use.]] esteem and great regard God has for dutiful children, and for the obedience they give their parents. This ought all the more to move children to complete obedience, if at least they have any care for God’s favor and the tokens of his love. Oh, consider this, all you#super[+] who have parents to honor! Consider how concerned and how earnest God is, in every way and by all means, to draw you#super[+] to obedience. He does not content himself with urging the justice of the point, the place of your parent, and the charge he himself has given. He presses your own profit most of all, and that not only in hope for the time to come, but in present enjoyment in this life. And he does so because we, in our childishness, are moved most by things that are present and that we can see and feel. He deals with us as a tender father who provides for his child not only a good calling and a fair inheritance, but also gives him plums, pears and such things as delight him for the present, the more to draw him on.
 
-=== §. 110. #emph[Of children’s doing good to themselves by honouring their parents.]
+=== §. 110. #emph[Of children’s doing good to themselves by honoring their parents.]
 
 Children may further learn from this promise that in #footnote[3\. #emph[Use.]] performing their duty they do good not only to their parents, but also to themselves: they procure their own welfare and long life. What utter fools, then, disobedient children are! They regard neither God, nor their parents, nor themselves. They deprive themselves of their eternal happiness, hinder their welfare and shorten their days. So I may fitly apply to undutiful children these words of the psalmist: “Mark the obedient child, for the end of him is peace; #footnote[Ps 37:37, 38.] but the rebellious will be destroyed; he will be cut off.” And these of the wise man: “I know that it will go well with the dutiful #footnote[Eccl 8:12, 13.] child, but it will not go well with the disobedient; he will not prolong his days.” And these of the prophet: “Tell the obedient child that it will be well with him;#footnote[Isa 3:10, 11.] he will eat the fruit of his doings; but woe to the transgressor; it will be ill with him.”
 
@@ -294,7 +294,7 @@ From this promise parents may learn how to do good #footnote[4\. #emph[Use.]] to
 
 It is said that a good trade is better than house and land; but by virtue of this promise we may say that obedience in a child is better than trade and all. This is the #emph[trade of a child’s] #footnote[Prov 22:6.] #emph[way] that parents should teach their children. So as parents desire their children’s good, they ought to be wise in procuring it, and that is by teaching them this #emph[trade of obedience.] So they will bring much comfort to themselves while they live, and good to their children after them.
 
-=== §. 112. #emph[Of the perpetuity of the substance of such things as in their circumstances respecting the Jews are vanished.]
+=== §. 112. #emph[Of the lasting substance of things whose circumstances concerning the Jews have passed away.]
 
 In laying down this particular promise, the apostle puts in place of its limitation to the Jews, in these words, “in the land that the #smallcaps[Lord] your God is giving you,” a general phrase that extends it to all nations, namely this, #emph[(on the earth).] From this I gather that
 
@@ -304,7 +304,7 @@ By this we may learn what use to make of the Old Testament, #footnote[Use.] even
 
 Pray, therefore, for the spirit of illumination to discern between #emph[substance] and #emph[circumstance,] especially in reading the Old Testament.
 
-=== §. 113. #emph[Of the determined period of man’s life.]
+=== §. 113. #emph[Of the appointed term of man’s life.]
 
 Having declared the orthodox points this text affords, I will further point out two heretical positions that our adversaries raise from it. One is held by those who call themselves #emph[Lutherans,] to the dishonor of the man whom God raised up to be a worthy instrument in dispelling the mist of popery, which had greatly darkened the light of the gospel. The other is held by the #emph[papists.]
 
@@ -324,7 +324,7 @@ The knowledge of this determined limit of man’s life is of great use, for it t
 
 3\. To do God’s work while we have time,#footnote[John 9:4.] etc.
 
-=== §. 114. #emph[Of reward promised to obedience, that it implieth no merit.]
+=== §. 114. #emph[Of the reward promised to obedience, and that it implies no merit.]
 
 The other heresy, which the papists gather from this text, is #footnote[Against merit.] this: #emph[Man’s obedience is meritorious.]
 

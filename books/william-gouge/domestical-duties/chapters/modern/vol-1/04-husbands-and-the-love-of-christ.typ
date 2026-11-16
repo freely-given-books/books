@@ -1,6 +1,6 @@
 == Husbands and the Love of Christ
 
-=== §. 26. #emph[Of the sum of Husbands duties.]
+=== §. 26. #emph[Of the sum of husbands’ duties.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -135,7 +135,7 @@ Since the person of Christ, God-man, was given up,#footnote[1 Pet 1:19. #emph[Us
 
 4\. How ungrateful, how unworthy of Christ are those who for his sake will not forsake their unstable honors, fading wealth, vain pleasures, gaudy clothes, and such trash?
 
-=== §. 32. #emph[Of Christ’s seeking the good of the Church.]
+=== §. 32. #emph[Of Christ’s seeking the good of the church.]
 
 The #emph[end] for which Christ gave himself was #emph[for the church, so] #footnote[Doctrine.] #emph[that Christ in his death aimed at our good.] #footnote[2 Cor 5:21.] He was made “sin for us, so that in Him we might become the righteousness of God”; #footnote[Gal 3:13.] he became “a curse for us,” and “redeemed us from the curse of the law”; #footnote[Gal 1:4.] he gave himself “for our sins to rescue us”; #footnote[John 10:15.] he laid down his life “for the sheep.”
 
@@ -163,7 +163,7 @@ From this it follows by just consequence that #emph[Christ did not merit] #footn
 
 This notion of Christ’s meriting for himself greatly lessens the glory of Christ’s grace and goodness in giving himself.
 
-=== §. 33. #emph[Of the particular ends, why Christ gave himself, and of the condition of the Church before Christ took her.]
+=== §. 33. #emph[Of the particular ends for which Christ gave himself, and of the condition of the church before Christ took her.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[

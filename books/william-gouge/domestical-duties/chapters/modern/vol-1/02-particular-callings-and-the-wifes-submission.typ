@@ -37,7 +37,7 @@ Yet there are many who, having no public employment, think they may spend their 
 
 As for those who have public offices in church or #footnote[3\. #emph[Use.] Public callings may not hinder private duties.] commonwealth, they may not on that account think themselves exempt from all family duties. These private duties are necessary duties. Though a man is a magistrate or a minister, yet if he is a husband, or a father, or a master, he may not neglect his wife, children and servants. Indeed, those who are free from public functions are bound to attend all the more to the private duties of their families, because they have more leisure for them. But no one ought wholly to neglect them. Joshua,#footnote[Josh 24:15.] who was a captain and prince of his people, and very much employed in public affairs, yet did not neglect his family: for he professes that he and #emph[his house] would serve the Lord. It seems that Eli#footnote[1 Sam 2:29; 3:13.] was negligent in performing the duty of a father, and David#footnote[1 Kgs 1:6.] also. But what followed from it? Two of Eli’s sons proved sacrilegious and wicked priests. Two of David’s sons proved very bad members of the commonwealth, even plain traitors.
 
-=== §. 9. #emph[Of the Apostles order in laying down the duties of husbands and wives in the first place.]
+=== §. 9. #emph[Of the apostle’s order in laying down the duties of husbands and wives in the first place.]
 
 There being three special degrees or orders in a family, #footnote[Why the duties of man and wife are delivered first.] (as we heard before) the apostle places husband and wife in the first rank, and declares their duties first, and that not without good reason. For
 
@@ -47,7 +47,7 @@ Secondly, most usually the husband and his wife are the #footnote[2\. Man and wi
 
 Know therefore, O husbands and wives, that you#super[+], above #footnote[Use.] all others in the family, are most bound to a conscientious performance of your duty. Your#super[+] condemnation will be greater if you fail in it. Look to it above the rest, and by your#super[+] example draw your children and servants (if you have any) to perform their duties. They will surely do this more readily when they see you#super[+] as guides going before them, and making conscience of your joint and separate duties.
 
-=== §. 10. #emph[Of the Apostles order in setting down inferiors duties in the first place.] #footnote[Wives particular duties first laid down, because they are inferiors.]
+=== §. 10. #emph[Of the apostle’s order in setting down the duties of inferiors in the first place.] #footnote[Wives’ particular duties are laid down first because they are inferiors.]
 
 In handling the duties of the first couple named above, the apostle begins with wives, and lays down their particular duties in the first place. I take the reason for this order to be the #emph[inferiority] of the wife to her husband. I take it so all the more because I observe this to be his usual method and order: first to declare the duties of inferiors, and then those of superiors. For in handling the duties of #footnote[Eph 6:1.] children and parents, and of #footnote[Eph 6:5.] servants and masters, he begins with the inferiors, both in this and #footnote[Col 3:18, 20, 22.] in other epistles. Peter#footnote[1 Pet 3:1.] also observes this order. Yes, #footnote[Exod 20:12.] the law itself mentions the inferiors’ duty in the first place, and that expressly, only implying the superiors’ duty to follow as a just consequence, which is this: #emph[If the inferior must give honor, and by virtue of it perform such duties as belong to it, then the superior must carry himself as worthy of honor, and by virtue of it perform corresponding duties.]
 
@@ -81,7 +81,7 @@ It is therefore to be wished that superiors and inferiors would strive over who 
 
 But if the question is raised who will begin, I advise inferiors not to hold out in this contest, but to consider that the apostle #footnote[Reasons why inferiors ought to perform their duties first.] urges them first, and that it is safest for them to begin. For in this contest inferiors are likely to fare the worst, because of the power which superiors have over them. And though it is more against our corrupt, proud and stubborn nature to be subject and obey, yet let us endeavor all the more to yield duty in this kind. For it is a special part of spiritual prudence to observe what our corrupt nature is most prone to, and where it most swells up, so that there we may strive most to beat it down. Nature is contrary to grace, and “the mind of the flesh is hostile to God.”#footnote[Rom 8:7.]
 
-=== §. 11. #emph[Of the reasons why wives duties are first taught.]
+=== §. 11. #emph[Of the reasons why wives’ duties are taught first.]
 
 #emph[Question.] Why, among other inferiors, are wives brought first into the school of Christ to learn their duty?
 
@@ -101,7 +101,7 @@ So you#super[+] will deserve that commendation of good wives: “Many have done 
 
 Having so far handled the general instructions named above, I will go on to a more distinct opening of the words, gather the observations which arise from them, and then declare in particular the separate duties which the three orders in a family owe to each other.
 
-=== §. 12. #emph[Of wives subjection.]
+=== §. 12. #emph[Of wives’ subjection.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[

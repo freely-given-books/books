@@ -1,6 +1,6 @@
 == The Mystery and Practice of Marriage
 
-=== §. 90. #emph[Of the mystery of the union of Christ and the Church.]
+=== §. 90. #emph[Of the mystery of the union of Christ and the church.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -53,13 +53,13 @@ In our meditation on this mystery, let us conceive nothing carnal, #footnote[2\.
 
 The folly of our adversaries is plainly exposed here. They make our union with Christ purely carnal. For they imagine it to consist in a bodily mingling of Christ’s flesh with ours: by our eating his flesh with the teeth of our bodies, drinking his blood down our throats, and digesting both #footnote[3\. #emph[Use.] Papists make our union with Christ a carnal matter. John 6:52. John 3:4.] in our stomachs as our bodily food, so that it may turn into our substance. In this they show themselves like the dull-headed people of Capernaum, and like ignorant Nicodemus. There is a great deal of gross absurdity in that notion, but no great mystery.
 
-=== §. 91. #emph[Of the Popes usurping to be Spouse of the Church.]
+=== §. 91. #emph[Of the pope’s usurping the title of spouse of the church.]
 
 The apostle’s application of this mystery to Christ and the church exposes two gross errors of the papists.
 
 One is that they make the pope a spouse of the church. How can anyone have the face to apply to the pope and the church what the apostle says so expressly is meant of Christ and the #footnote[#emph[Multos adulteros video qui sponsam tanto pretio emptam possidere volunt, & id agunt vt pro sponso amentur.] \[I see many adulterers who want to possess the bride bought at so great a price, and who work to be loved in place of the bridegroom.\] #emph[Aug. in Ioh. Tract.] 12. #emph[Vide Bern. ep.] 237. #emph[ad Eugen.]] church? Indeed, what arrogant presumption it is to attribute to a mortal, sinful man what belongs to the eternal and holy Son of God alone! Is not this to confer Christ’s prerogatives on himself, and so make himself an outright Antichrist? Who gave the church to the pope, or the pope to the church? When did she give her consent? (I speak of the true catholic church of Christ, the universal church.) What has he done for her? Or rather, what has he not done against her? The #footnote[See §. 17.] distinction between an #emph[imperial] and a #emph[ministerial] spouse cannot serve their turn here. The metaphor of a head will not allow a ministerial head, and much less will the metaphor of a spouse allow a ministerial spouse. As he is an adulterer who takes it on himself to be a ministerial husband, so she is an adulteress who yields herself to such a one. The apostle says, “I promised you#super[+] to ONE husband.” #footnote[2 Cor 11:2.]
 
-=== §. 92. #emph[Of the false Sacrament of Marriage.]
+=== §. 92. #emph[Of the false sacrament of marriage.]
 
 The other error is that #emph[marriage is a sacrament.] The main ground of it they have taken from this text. Yet that ground is removed by the apostle’s application of this mystery to Christ and the church as plainly as if the apostle had framed his words on purpose to forestall this wrong inference. It is as if he had said, #emph[So that no one may mistake this mystery and apply it to the joining of man and woman in marriage, know that I mean no such thing: the mystery I speak of concerns Christ and the church.] I wonder how they dare misapply what is expressed so plainly. Even if the apostle had not shown his mind and meaning so clearly, the very thing itself would lead us to judge so of it. For “that which in Christ #footnote[#emph[Quod est in Christo & in Ecclesia magnum, hoc in singulis quibusque viris & uxoribus minimum. Aug. de nupt. & concup. lib.] 1. #emph[cap.] 21.] and the church is a great mystery is only a small matter in man and wife.” The Latin Vulgate first led them into this error, for it translates the word #emph[mystery] as #emph[a sacrament.] But a translation is no sufficient ground to prove a doctrine. Besides, the word #emph[sacrament] used by that translator has as wide a range as #emph[mystery.] If they were to make everything he translates #emph[sacrament] a proper sacrament of the church, there would be many more sacraments than the papists themselves make.
 
@@ -79,7 +79,7 @@ Others make it other things. So, lacking the light of God’s word, one strays d
 
 4\. If the other positions they lay down concerning marriage are noted, one would think they would be far from making it a sacrament. They prefer virginity to it. Indeed, they count it a kind of pollution. They hold it unlawful for priests, monks, nuns, and such holy orders (as they esteem them) to marry. So there is a sacrament in which their holy ones may not share. The order of priesthood is a sacrament (in their account), yet that order keeps men from marriage; so one sacrament fights against another. Indeed, infidels may partake of a sacrament, and so their holy and precious things are denied to their holy ones and cast to swine. So we see a rotten building raised on a sandy foundation: a false sacrament established on a false application of this text. Can it then stand?
 
-=== §. 93. #emph[Of the Sum of husbands and wives duties.]
+=== §. 93. #emph[Of the sum of husbands’ and wives’ duties.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -110,7 +110,7 @@ These two, as they are distinct duties in themselves, so they are also common co
 
 I will speak of these more distinctly in the treatises on the particular duties of husbands and wives.
 
-=== §. 94. #emph[Of applying the word to our selves.]
+=== §. 94. #emph[Of applying the word to ourselves.]
 
 The direction for each of them to apply his own proper duties to himself in particular is especially to be noted here. Two things are to be observed in this direction.
 
@@ -124,7 +124,7 @@ The life and power of God’s word lies in this particular #footnote[#emph[Reaso
 
 That we may make the better use of this doctrine, let us observe both what general duties belong to all Christians, and apply them to ourselves as particular; and also what duties belong to persons of our own place, calling and condition, and apply them to ourselves more especially. Let all manner of husbands and all manner of wives, of whatever rank or degree they are, who read the duties that follow, know that they are spoken to them in particular. Let kings and queens, lords and ladies, ministers and their wives, rich men and their wives, poor men and their wives, old men and their wives, young men and their wives, all of every sort, take them as spoken to them in particular. It is not honor, wealth, learning, or any other excellence, nor lowliness of place, poverty, lack of learning, or any other such thing, that can exempt a husband from loving his wife, or a wife from reverencing her husband. He who says #emph[each one] excepts #emph[no one.] Therefore, #emph[each one in particular,] do you#super[+] so. The same application may be made to all parents and children, masters and servants, concerning their duties.
 
-=== §. 95. #emph[Of every ones looking to his own duty especially.]
+=== §. 95. #emph[Of everyone’s looking especially to his own duty.]
 
 In this application we must look rather to the duty which we owe and ought to perform to others than to what is due to us and others ought to perform to us. For the apostle does not say to the husband, “See that your wife reverences you,” but, “See that you love her”; and so to the wife.
 

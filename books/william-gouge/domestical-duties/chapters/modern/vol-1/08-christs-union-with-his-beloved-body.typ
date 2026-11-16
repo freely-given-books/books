@@ -1,6 +1,6 @@
 == Christ’s Union with His Beloved Body
 
-=== §. 68. #emph[Of Christ’s forbearing to hate the Church.]
+=== §. 68. #emph[Of Christ’s forbearing to hate the church.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -33,7 +33,7 @@ What now if all the world hates us? Seeing that Christ does not hate#footnote[2\
 
 2\. That those who are of the church do not grow insolent and provoke Christ too much to anger. For though he does not hate such, yet in wisdom he may correct them as severely as if he hated them, and make them repent their folly and insolence again and again.
 
-=== §. 69. #emph[Of Christ’s nourishing and cherishing his Church.]
+=== §. 69. #emph[Of Christ’s nourishing and cherishing his church.]
 
 2\. That #emph[the Lord nourishes and cherishes his church] is evident from his continual providence over her in all ages. When he first created man, he#footnote[Gen 1:28, 29.] provided beforehand all things needful to nourish and cherish him. When he was moved to destroy the earth and all living things on it, he took care of his church: he provided an ark to keep her out of#footnote[Gen 6:14, 21.] the waters, and stored up in the ark all things needful for her. When he purposed to bring a famine on the world, he sent a man beforehand to lay up provision for his church. When#footnote[Gen 45:7. Exod 16:15; 17:6.] his church was in a barren and dry wilderness, he gave them bread from heaven and water out of the rock, and kept their clothing from wearing out and their feet from swelling.#footnote[Deut 8:4.] After this he brought his church into a land flowing with milk and honey, and so long as it remained faithful he preserved it in that pleasant and plentiful land. So he dealt with the church in her childhood; and so also has he dealt with her in her riper age under the gospel, as the experience of all ages may witness. Nor has he nourished and cherished her only with temporal blessings, but also with all needful spiritual blessings. His word and sacraments, his Spirit and the graces of the Spirit, he has given her in all ages for that purpose. Yes, he has fed her with his own flesh and blood,#footnote[John 6:55.] and clothed her with his own righteousness. #footnote[Isa 61:10.]
 
@@ -41,7 +41,7 @@ Let us learn from whom we receive all needful things, both#footnote[1\. #emph[Us
 
 Let us also learn to depend on Christ for all things that we#footnote[2\. #emph[Use.]] lack. We need not fear poverty. Though we do not have the#footnote[Depend on Christ for all things.] plenty we could wish, yet we will have sufficiency. Christ will not allow his church to famish for lack of food, nor starve for lack of clothing, whether temporal for the body or spiritual for the soul. He who can and will perform it has said, “Never will I leave you, never will I forsake you.”#footnote[Heb 13:5.] Lazarus was not forsaken; witness the angels that carried his soul into Abraham’s#footnote[Luke 16:22.] bosom. If any of Christ’s church do perish for lack of outward means, it is because Christ by that means will advance them to that place where they will need nothing; so he does not forsake them.
 
-=== §. 70. #emph[Of the union betwixt Christ and the Saints.]
+=== §. 70. #emph[Of the union between Christ and the saints.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -124,7 +124,7 @@ This is to be noted against the fancy of those who imagine this union to be only
 
 Having thus laid open this great mystery by questions and answers as plainly as I can, I will further point out some of the excellent privileges which belong to the saints by virtue of it, and also some of the principal duties to which the saints are bound in regard of it.
 
-=== §. 71. #emph[Of the privileges appertaining to the Saints even in this life by reason of their union with Christ.]
+=== §. 71. #emph[Of the privileges belonging to the saints even in this life because of their union with Christ.]
 
 The privileges of the saints which arise from their union with Christ concern this life, the time of death, and the life to come.
 
@@ -191,7 +191,7 @@ What was said before of the difference between the preservation of the bodies of
 
 Resurrection simply in itself is not the privilege of the saints, but “the resurrection of life”: to the wicked belongs the#footnote[John 5:29.] “resurrection of condemnation.” The benefit of resurrection arises from the glory which follows it in heaven. The apostle has excellently set forth that glory#footnote[§. 49, 50. #emph[etc.]] before, in v. 27.
 
-=== §. 74. #emph[Of the duties which are required of the Saints by virtue of their union with Christ.]
+=== §. 74. #emph[Of the duties required of the saints by virtue of their union with Christ.]
 
 As the mystery of our union with Christ is a matter of great comfort and encouragement (which arises from the privileges already named), so it is also a matter of direction and incitement to us for the performing of various duties. Those who desire assurance of these privileges, and comfort by them, must be diligent and conscientious in these duties. Some of the most principal of them are these.
 
@@ -209,7 +209,7 @@ As the mystery of our union with Christ is a matter of great comfort and encoura
 
 So much for the union itself. The means of bringing it about remain to be handled.
 
-=== §. 75. #emph[Of their regeneration who are members of Christ.]
+=== §. 75. #emph[Of the regeneration of those who are members of Christ.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -230,7 +230,7 @@ This second man and last Adam, Christ Jesus, is “a life-giving#footnote[Reason
 
 This, then, is a test by which we may prove whether#footnote[Use.] we are indeed of this body or not, and so have a true right#footnote[Trial whether we are members of Christ.] to the privileges already named. Many boast of this honor, that they are members of Christ’s body, and yet they are not #emph[of his flesh and of his bones:] they have no other being than what they received from their parents. These vain professors are like wooden legs or arms on a man, which may be covered over with hose and sleeves for a time, but will not be raised at the resurrection with the other parts of the man’s body. So neither will those professors be raised to glory with Christ, though they may be covered over with the hose and sleeves of profession, and so seem to be members.
 
-=== §. 76. #emph[Of the author of our regeneration Christ.]
+=== §. 76. #emph[Of Christ, the author of our regeneration.]
 
 This relative particle (HIS), twice repeated #emph[(of] HIS #emph[flesh,]#footnote[αὐτοῦ.] #emph[and of] HIS #emph[bones),] shows that
 
@@ -256,7 +256,7 @@ The #emph[former] may learn here where to turn for it: namely, to him who came d
 
 The #emph[latter] must, with the tenth leper, return to#footnote[Luke 17:16.] Christ and glorify God. Whatever the means were, or whoever the minister was, the praise and glory of all must be given to him.
 
-=== §. 77. #emph[Of the matter of our regeneration, Christ.]
+=== §. 77. #emph[Of Christ, the matter of our regeneration.]
 
 The preposition (OF), set down twice (OF #emph[his flesh, and]#footnote[ἐκ.] OF #emph[his bones),] being a proper sign of the material cause, shows that
 
@@ -268,7 +268,7 @@ Behold here the benefit of Christ’s incarnation. By his taking#footnote[1\. #e
 
 By this doctrine we may further learn how to seek every#footnote[2\. #emph[Use.]] thing from God’s hands which we desire to obtain, and how to offer that sacrifice of praise to God#footnote[Heb 13:15.] which we would have#footnote[John 16:23.] accepted: namely, in and through Jesus Christ, by whom alone we have all the communion which we have with God.#footnote[Col 3:17.] Rightly therefore does the church conclude all her forms of prayers and praises with this, or some similar clause, “through Jesus Christ our Lord.”
 
-=== §. 78. #emph[Of the excellency of Regeneration.]
+=== §. 78. #emph[Of the excellence of regeneration.]
 
 The particular matter of our regeneration expressed here (the #emph[flesh] and #emph[bones] of Christ) shows that
 

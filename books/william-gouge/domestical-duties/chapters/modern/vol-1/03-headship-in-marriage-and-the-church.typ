@@ -1,6 +1,6 @@
 == Headship in Marriage and the Church
 
-=== §. 14. #emph[How an husband is his wives head.]
+=== §. 14. #emph[How a husband is his wife’s head.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -37,7 +37,7 @@ The second is taken from the benefit that a wife reaps from her husband’s supe
 
 #emph[Those who will not submit themselves to their superiors are] #footnote[#emph[Observation.] See #emph[Treatise] 3, §. 73.] #emph[injurious to themselves,] as the body would be injurious to itself if it would not be subject to the head.
 
-=== §. 15. #emph[Of the resemblance of an husband to Christ.]
+=== §. 15. #emph[Of the resemblance of a husband to Christ.]
 
 To enforce the reason given above all the more, the apostle adds the likeness there is between a husband and Christ, as this note of comparison#footnote[ὡς.] (#emph[as]) shows. From this it follows that
 
@@ -47,7 +47,7 @@ These words, “and He is the Savior of the body,” as they declare the office 
 
 On this ground the apostle infers the conclusion in the next verse.
 
-=== §. 16. #emph[Of the resemblance betwixt] the Church to Christ, and a wife to her husband.
+=== §. 16. #emph[Of the resemblance between] the church’s relation to Christ and a wife’s to her husband.
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -76,7 +76,7 @@ Thus much of the main drift of the apostle in setting before wives the example o
 
 I will further consider these examples of Christ and the church more distinctly by themselves, without any relation to man and wife, and from them note such general instructions as concern all Christians.
 
-=== §. 17. #emph[Of the relation betwixt Christ and the Church.]
+=== §. 17. #emph[Of the relation between Christ and the church.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -144,7 +144,7 @@ O how happy a thing it is for the church that it has such a head! A head that do
 
 Happy it would be for kingdoms, commonwealths, cities, churches, families, wives, and all that have heads, if they had such heads: heads that, because they are heads, would endeavor to be saviors.
 
-=== §. 19. #emph[Of Christ a sufficient] Saviour.
+=== §. 19. #emph[Of Christ as a sufficient] Savior.
 
 In setting out the goodness of Christ, three things are noted.
 
@@ -166,7 +166,7 @@ Those who believe in this #emph[Savior] will be of like mind. As they rejoice in
 
 This being so, what end does the supposed #emph[treasury of] #footnote[Refutation.] #emph[the church] serve, in which are said to be stored up #emph[indulgences, pardons, merits, works of supererogation,] and I know not what trash, to add to the satisfaction of this Savior? Either Christ is not a sufficient Savior, or these things are (to say the least) vain. But vain they are; and that is an empty, filthy, detestable treasury, which God will destroy with all who trust in it.
 
-=== §. 20. #emph[Of Christ the only Saviour.]
+=== §. 20. #emph[Of Christ as the only Savior.]
 
 This relative particle#footnote[αὐτός.] (HE) also has its emphasis. For as it points out #emph[Christ the head of the church,] so it restricts this great work to him. It may be translated thus: #emph[he himself;] that is, he in his own person, he by himself, he and none but he. So, to speak properly,
 
@@ -184,7 +184,7 @@ What folly is it to trust in other saviors? Papists have legions of #footnote[#e
 
 Let us for our part flee to this Savior only, and wholly #footnote[2\. #emph[Use.]] rely on him, as we desire to be saved. In this way we shall honor him by preferring him before all, indeed, by rejecting all but him; and in this way we shall be sure to bring help, ease and comfort to our own souls.
 
-=== §. 21. #emph[Of the Church the body of Christ.]
+=== §. 21. #emph[Of the church as the body of Christ.]
 
 The persons who receive any benefit from this #emph[Savior] are all comprised under this metaphor, #emph[the body,] by which the same thing is meant as was meant before by the #emph[church.]
 
@@ -239,13 +239,13 @@ This is a point of wonderful comfort to those who have assurance #footnote[Use.]
     + They will edify one another.#footnote[Eph 4:16.]
     + They keep a mutual sympathy, rejoicing and mourning with one another.#footnote[1 Cor 12:26.]
 
-=== §. 23. #emph[Of the restraint of the benefit of Christ’s headship to them only that are of his body.]
+=== §. 23. #emph[Of limiting the benefit of Christ’s headship to those only who are of his body.]
 
 That none but those who are of Christ’s body will share in the benefit of his office is clear from other like titles of restriction, such as #emph[his people]#footnote[Matt 1:21.] and #emph[his sheep,]#footnote[John 10:15.] but especially from his denying to the #emph[world] the benefit of his intercession: “I do not ask on behalf of the world,”#footnote[John 17:9.] he says. In this respect this position, #emph[(out of the church, no salvation),] is true without exception. For #emph[the body] is the true, invisible catholic church (the universal church). He who is not a member of this church, but is out of it, does not have Christ to be his head #footnote[#emph[Ecclesia corpus Christi est: unde manifestum est, eum qui non est in membris Christi Christianam salutem habere non posse. Aug. de Unit. Eccl. c.] 2. \[The church is the body of Christ; from which it is clear that he who is not among the members of Christ cannot have Christian salvation.\]] and Savior; from where, then, can he have salvation?
 
 The former point is not more comforting to those who have assurance that they are members of this body than this one is terrible to those who give too much evidence that they are no members of it. All those do so who do not have the spirit of Christ ruling in them, but rather rebel against him, and who bear no love to the saints, but rather hate them and do them all the spite they can.
 
-=== §. 24. #emph[Of the Churches subjection to Christ.]
+=== §. 24. #emph[Of the church’s subjection to Christ.]
 
 #align(center)[
   #block(width: 85%, breakable: false)[
@@ -276,7 +276,7 @@ By this let trial be made of particular visible churches and of particular perso
 
 #emph[Answer.] Election indeed gives them a title to Christ, but they cannot reap any benefit by that title until they have possession of Christ by virtue of their spiritual union with him. Nor can they have any assurance of their election until they find, by the quickening virtue of the spirit, that they are united to Christ. Therefore, so long as men remain destitute of the Spirit of Christ and are possessed by a contrary spirit, they may well be judged, for the present, to be none of this body and to have no part in Christ; their future state is left to him who alone knows what it will be.
 
-=== §. 25. #emph[Of the extent of the Churches subjection.]
+=== §. 25. #emph[Of the extent of the church’s subjection.]
 
 The extent of the church’s subjection to Christ is without any restriction at all: #emph[in everything.] For there is nothing that Christ requires of her but she may yield to it with a good conscience, and must yield to it in obedience. Just and pure and perfect are all his commandments; there is no error in any of them; no mischief or harm can follow from keeping them. This extent being taken for granted here, I may further infer that
 
