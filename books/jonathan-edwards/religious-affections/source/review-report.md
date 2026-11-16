@@ -5,7 +5,7 @@
 | spelling | 1781 |
 | punctuation | 1703 |
 | spacing | 1112 |
-| emendation | 723 |
+| emendation | 726 |
 | case | 429 |
 | italic | 327 |
 | level | 207 |
@@ -125,6 +125,7 @@
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Cant . → Song
+- [part-1/03-religion-in-the-affections.typ] 6 → 5
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
@@ -164,6 +165,7 @@
 - [part-1/03-religion-in-the-affections.typ] Phil . → Philippians
 - [part-1/03-religion-in-the-affections.typ] Cor . → Corinthians
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] 18 → 20
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] work → things of the word
@@ -639,6 +641,7 @@
 - [part-3/sign-12.typ note] Chap . → Chapter
 - [part-3/sign-12.typ note] Psal . → Ps
 - [part-3/sign-12.typ note] Jam . → Jas
+- [part-3/sign-12.typ note] 5 → 4
 - [part-3/sign-12.typ note] Isai . → Isa
 - [part-3/sign-12.typ note] ver → v
 - [part-3/sign-12.typ note] Matth . → Matt
