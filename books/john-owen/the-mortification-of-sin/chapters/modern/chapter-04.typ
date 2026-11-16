@@ -5,7 +5,7 @@
   #text(size: 0.9em)[#emph[The last principle: the usefulness of mortification. The vigor and comfort of our spiritual life depend on our mortification. In what sense. Not absolutely and necessarily.] Ps 88. #emph[Heman’s condition. Not as the next and immediate cause. As a means: by removing what is contrary. The desperate effects of unmortified lust: it weakens the soul]\; Ps 38:3, 8. #emph[in various ways: and darkens it. All graces improved by the mortification of sin. The best evidence of sincerity.]]
 ]
 
-#smallcaps[The] last principle I will insist on (passing over, first, the necessity of mortification for life, and, second, the certainty of life upon mortification) is this:
+#smallcaps[The] last principle I will dwell on (passing over, first, the necessity of mortification for life, and, second, the certainty of life upon mortification) is this:
 
 #emph[That the life, vigor, and comfort of our spiritual life depend greatly on our mortification of sin.]
 
