@@ -16,7 +16,7 @@ The times of this service are these:
 
 The morning, in which the family, coming together in one place, is to call on the name of the Lord before they begin the works of their callings.
 
-The evening also is another time to be used in prayer. For the family has seen the blessing of God on their labors through the day, and now the time of rest draws on, in which every one is to commend his body and soul into the protection of the Lord. For no man knows what will befall him before he rises again; nor does anyone know whether he will ever rise again or not. It is therefore a desperate boldness to go to rest without praying.
+The evening also is another time to be used in prayer. For the family has seen the blessing of God on their labors through the day, and now the time of rest draws on, in which every one is to commend his body and soul into the protection of the Lord. For no man knows what will befall him before he rises again; nor does anyone know whether he will ever rise again or not. It is therefore a reckless boldness to go to rest without praying.
 
 Besides these, there are other times also in which to perform this duty, as before and after meals. For food and drink are blessed to those who receive them by the word and prayer. 1 Tim 4:4: “For every creation of God is good, and nothing that is received with thanksgiving should be rejected, because it is sanctified by the word of God and prayer.”
 

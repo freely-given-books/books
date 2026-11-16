@@ -2,7 +2,7 @@
 
 Marriage has two distinct parts: the first is its beginning; the second, its accomplishment or consummation.
 
-The beginning is the contract, or espousals (betrothal); the end or accomplishment is the solemn public declaration of the contract, by what we properly call marriage. Deut 20:7: “Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.” Matt 1:18: “His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.”
+The beginning is the contract, or betrothal; the end or accomplishment is the solemn public declaration of the contract, by what we properly call marriage. Deut 20:7: “Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.” Matt 1:18: “His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.”
 
 Between the contract and the marriage there ought to be some certain space or distance of time. The reasons for this may be these:
 

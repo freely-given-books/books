@@ -8,7 +8,7 @@ On the other hand, the servant must take heed that he does not do his master’s
 
 Servants are of two sorts: either free servants or bond-servants.
 
-A free servant is one whom his master hires for wages to serve him. To him belongs the just payment of his wages. And if he offends, the master has authority to censure and correct him, provided that in doing so regard is had to his age, and the correction is used with moderation, as if he were his son.
+A free servant is one whom his master hires for wages to serve him. To him belongs the just payment of his wages. And if he offends, the master has authority to censure and punish him, provided that in doing so regard is had to his age, and the correction is used with moderation, as if he were his son.
 
 A bond-servant is a servant bought for money, and is commonly called a slave. Concerning this sort a question is raised: may a Christian with a good conscience have and use a man as his slave?
 

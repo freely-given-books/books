@@ -14,7 +14,7 @@ From this arises a question: What if, after the marriage is completed, a contagi
 
 #emph[Answer.] Both the marriage itself and the duty of dwelling together ought to continue firm and sure notwithstanding. Yet the sound party neither may nor ought, in good conscience, to desire union with the other by which he or she may bring infection upon themselves, and so hurt their children and endanger the commonwealth.
 
-But if either of the parties does not have the gift of continency and cannot abstain, they must seek it from God in earnest prayer, and he will give it to them.
+But if either of the parties does not have the gift of self-control and cannot abstain, they must seek it from God in earnest prayer, and he will give it to them.
 
 For God has called a man or woman to continency where they are necessarily hindered from the use of the ordinary and lawful remedy of the contract.
 
@@ -38,7 +38,7 @@ II. Case. What if a desertion happens between two married persons who are both b
 
 Again, suppose that one is resolutely unwilling to live with the other, and on that account flees without any fault of the other. If the matter, after a long time, is sufficiently known beforehand, and all possible means have been used to reclaim the guilty person; and if, when called, he does not appear in person before the judge to give a reason for his act: then, after public and solemn declaration has been made, the minister may, on such desertion, pronounce the marriage dissolved. For he who out of malice flees from his mate is to be held on the same footing as an unbeliever who departs out of hatred of religion and the service of God (1 Tim 5:8).
 
-However, if the place to which he has fled is unknown, and on his flight some fault is found in the plaintiff, she is not to be heard, or set at liberty, by the judge in this case, though she pleads lack of the gift of continency.
+However, if the place to which he has fled is unknown, and on his flight some fault is found in the plaintiff, she is not to be heard, or set at liberty, by the judge in this case, though she pleads lack of the gift of self-control.
 
 But suppose he who fled comes back unexpectedly and claims his spouse. Then, if the former course has not been taken, nor judgment given against him, they may be reconciled and come together again. If it has, and matters are concluded, he is not to be heard on his return, but rather to be severely punished.
 

@@ -2,9 +2,9 @@
 
 The communion of man and wife is that duty by which they mutually and willingly share with each other both their persons and their goods, for their mutual help, need and comfort. Eph 5:28: “Husbands ought to love their wives as their own bodies. He who loves his wife loves himself.”
 
-This duty consists chiefly in the performance of a special benevolence toward one another, and that not as a courtesy, but as a debt that is due. 1 Cor 7:3: “The husband should fulfill his marital duty to his wife, and likewise the wife to her husband.”
+This duty consists chiefly in the performance of a special marital duty toward one another, and that not as a courtesy, but as a debt that is due. 1 Cor 7:3: “The husband should fulfill his marital duty to his wife, and likewise the wife to her husband.”
 
-Due benevolence (the marriage duty each owes the other) must be shown with a singular and entire affection toward one another, and that chiefly in three ways.
+The marriage duty each owes the other must be shown with a singular and entire affection toward one another, and that chiefly in three ways.
 
 First, by the right and lawful use of their bodies, that is, of the marriage bed, which is indeed an essential duty of marriage.
 
@@ -36,33 +36,33 @@ First, while the woman has her monthly flow. Lev 18:19: “You must not approach
 
 + #emph[The having of a blessed seed.] Deut 28:1: “Now if you faithfully obey the voice of the #smallcaps[Lord] your God …,” “the fruit of your womb will be blessed, as well as the produce of your land.” #emph[This is also called] “the seed of God,” #emph[being begotten in a holy manner,] Mal 2:15: “Has not the #smallcaps[Lord] made them one, having a portion of the Spirit? And why one? Because He seeks a seed of God. So guard yourselves#super[+] in your spirit, and do not break faith with the wife of your youth.”
 + #emph[The preservation of the body in cleanness, so that it may be a fit temple for the Holy Spirit to dwell in,] 1 Thess 4:3, 4: “For it is God’s will that you#super[+] should be holy: … each of you must know how to control his own body in holiness and honor, not in lustful passion like the Gentiles who do not know God.”
-+ #emph[The holy state of marriage is a lively type of Christ and his church, and this communion of married persons is also a figure of the union that is between him and the faithful,] Hos 2:19: “I will betroth you to Me forever; I will betroth you in righteousness and justice, in loving devotion and compassion. And I will betroth you in faithfulness, and you will know the #smallcaps[Lord].” Eph 5:23: “For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior.”
++ #emph[The holy state of marriage is a living type of Christ and his church, and this communion of married persons is also a figure of the union that is between him and the faithful,] Hos 2:19: “I will betroth you to Me forever; I will betroth you in righteousness and justice, in loving devotion and compassion. And I will betroth you in faithfulness, and you will know the #smallcaps[Lord].” Eph 5:23: “For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior.”
 
 Here some questions are to be resolved.
 
 #emph[Case.] I. May marriage be dissolved in the case of barrenness?
 
-#emph[Answer.] No. For barrenness is for the most part a hidden infirmity, and one that God has often cured, even when it seemed hopeless, as in Sarah. Again, the fruit of the womb is God’s blessing and depends wholly on him. Therefore the man who rejects his wife for want of children, when he received her at the hands of God, does wrong even to God himself.
+#emph[Answer.] No. For barrenness is for the most part a hidden infirmity, and one that God has often cured, even when it seemed hopeless, as in Sarah. Again, the fruit of the womb is God’s blessing and depends wholly on him. Therefore the man who rejects his wife for lack of children, when he received her at the hands of God, does wrong even to God himself.
 
 #emph[Case] II. What if either of the married folks commits fornication, or any sin of the same kind greater than fornication, such as incest, sodomy, lying with beasts, or the like?
 
 #emph[Answer.] Adultery and fornication are most grievous and open crimes, which break the very bond and covenant of marriage, Prov 2:17. And therefore when the married persons certainly know of them, they are by no means to be winked at, but the magistrate is to be informed of them at once. However, if the innocent party is willing to receive the adulterer again because of his repentance, then, so that the innocent party may not seem to favor and maintain sin, and to be himself a practiser of uncleanness, he is to go to the congregation and declare the whole matter to the minister, so that the minister may understand the guilty party’s repentance and desire of forgiveness.
 
-And if the adulteress has conceived and is in labor, the husband, to avoid being charged with having a bastard for his heir, is to report the adulteress’s repentance to the church, or to make certain persons acquainted with it. This is not so that she may be punished for the deed, but so that they may take notice of a child conceived in adultery, whom he may afterward lawfully put off as none of his.
+And if the adulteress has conceived and is in labor, the husband, to avoid being charged with having a bastard for his heir, is to report the adulteress’s repentance to the church, or to make certain persons acquainted with it. This is not so that she may be punished for the deed, but so that they may take notice of a child conceived in adultery, whom he may afterward lawfully disown as none of his.
 
 When the matter is known, the innocent party may seek a divorce. For adultery is such a sin as breaks off completely not only the use but the bond and covenant of marriage. Matt 19:9: “Now I tell you#super[+] that whoever divorces his wife, except for sexual immorality, and marries another woman, commits adultery.” And yet the same bond may be continued and grow up again by the good will and consent of the innocent party; and so they may be reconciled and still live together. 1 Sam 25:44: “But Saul had given his daughter Michal, David’s wife, to Palti son of Laish, who was from Gallim.” 2 Sam 3:14: “Then David sent messengers to say to Ish-bosheth son of Saul, ‘Give me back my wife, Michal, whom I betrothed to myself for a hundred Philistine foreskins.’” The innocent may take the same course in like cases, especially on the repentance of the guilty person. But still every man must be left to his own conscience, and no one is to be compelled against his will to take back the other party, from whom he may justly be separated.
 
 Now in seeking a divorce there is an equal right and power in both parties, so that the woman may seek it as well as the man, and he as well as she. The reason is that they are equally bound to each other and have the same right in one another’s body; provided always that the man is to maintain his superiority, and the woman to observe the modesty that befits her toward the man.
 
-After the divorce is made, it will be lawful for the innocent party, if he does not have the gift of continency, to marry again, on leave obtained from the church and the Christian magistrate.
+After the divorce is made, it will be lawful for the innocent party, if he does not have the gift of self-control, to marry again, on leave obtained from the church and the Christian magistrate.
 
 But what then will become of the offending party?
 
-#emph[Answer.] It may be that, because his conscience is in danger for want of the remedy, some liberty of a second marriage is to be granted him by the church or the civil magistrate (as indeed here in England there is not). If so, several restraints must be observed in this case.
+#emph[Answer.] It may be that, because his conscience is in danger for lack of the remedy, some liberty of a second marriage is to be granted him by the church or the civil magistrate (as indeed here in England there is not). If so, several restraints must be observed in this case.
 
 First, no such liberty is to be granted so long as it remains uncertain whether they may be reconciled, especially while the innocent party lives single. Secondly, it must plainly appear that the offending party has earnestly repented of his sin before he can either be received into the church or admitted to a second marriage. Thirdly, this liberty is not to be granted him either at once or rashly, but only after frequent and serious admonition that he should rather give himself to mourning and lamentation, and still remain alone, than desire to enjoy again the benefit of that state which he has already so shamefully abused.
 
-So much for the first way of performing due benevolence.
+So much for the first way of performing the marriage duty.
 
 The second way is by cherishing one another. Eph 5:29: “No one ever hated his own flesh, but he nourishes and cherishes it, just as Christ does the church.” This cherishing is the performing of any duties that tend to the preserving of each other’s life. For this reason they are freely to share with each other their goods, their counsel and their labors, for the good of themselves and their own.
 
