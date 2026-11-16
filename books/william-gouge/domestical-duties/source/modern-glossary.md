@@ -74,8 +74,8 @@ mystery, sanctify / sanctification, justification, glorification, the elect, the
 the flesh, the spirit (the regenerate part), means, ordinance, sacrament, popish / papists, head /
 headship, spouse, due benevolence (glossed once a chapter: "the marriage duty each owes the other").
 
-- church: lowercase (as the BSB), but "the Church of Rome"; "the Catholic Church" → "the catholic
-  church", with "(the universal church)" at its first use in a chapter.
+- church: lowercase (as the BSB), but "the Church of Rome"; Gouge's "the Catholic Church" → "the universal
+  church", with no gloss (2026-11-16: "catholic" beside his anti-papal argument reads as Roman).
 - Holy Ghost → Holy Spirit; Saviour → Savior.
 - God always capitalized; Gouge's own pronouns for God as the Classic prints them; the BSB's in its quotations.
 - Gendered language kept (man, men, he, brethren, no man).
@@ -171,3 +171,59 @@ persons; "Father in heaven" capitalized.
 
 Kept in heads as in the body: oblation, information (§121, beside discipline), natural affection, the
 matter of our regeneration, forbearing, "Fathers, Children" (§116, the verse's words).
+
+## False friends (the editor, 2026-11-16: replaced with a modern word, never glossed)
+
+Binds Volumes II-IV too. The sweep of Volume I (`work/false-friends-2026-11-16/domestical-duties.md`) replaced our glosses
+with the plain words (catholic church (the universal church) → universal church; indifferent things (…) → things neither
+commanded nor forbidden; (preventing grace) dropped beside "grace that goes before"; exhibits (that is, holds out and gives)
+→ holds out and gives; a periphrasis (a roundabout phrase) → a roundabout phrase; children of different venters (…) →
+children of different mothers; covert-baron (…) → under Christ's covering, as a wife is under her husband's in law), and:
+
+| Gouge | Modern English |
+|---|---|
+| professors (of the gospel) | professing Christians (overrules the earlier "kept") |
+| humor(s) | infection (bodily); evil inclinations, corrupt appetites (of the mind) |
+| proper to (one's own, belonging only to) | her own, belongs only to |
+| may not (must not) | must not |
+| virtue (power) | power, force; "by virtue of" stays |
+| quicken, quickening virtue | give life to, life-giving power |
+| immediately (directly) | directly |
+| nearly (closely) | closely |
+| communicate | impart |
+| lively | vivid, full of life |
+| largely | fully |
+| forward | eager |
+| opening (of the words), open | explanation, explain |
+| take place (prevail) | prevail |
+| profession | profession of faith |
+| appropriated to | reserved for |
+| mischief | injury |
+| peculiar | distinctive |
+| simply (absolutely) | wholly |
+| arbitrary (optional) | optional |
+| well affected to | well disposed toward |
+| riot, riotous | wild living, dissolute |
+| travels (travails) | toils |
+| voluptuous | pleasure-loving |
+| corrections (chastening) | chastisements |
+| indefinitely | generally |
+| answerable to | corresponding to |
+| against (the day) | until |
+| prove (whether) | find out |
+| want(s) | need(s) |
+| hose | stockings |
+| creatures (food etc.) | created things |
+| ravish | enrapture |
+| offices (of a husband) | duties |
+| vanity (of a flower) | how fleeting it is |
+| disposes of (our time) | orders |
+| due desert | what is deserved |
+| the mean (between extremes) | the middle way |
+| lightness | flightiness |
+| universal (obedience) | complete |
+
+Kept: "approve ourselves to God", fellows, denounce, provoke (to good), defect (vs excess), breaking, conscience, indefinite
+phrase, besotted, make conscience of, restraint, the creature (as a created being), information, invention / disposition
+(rhetoric, dedication), preferment, clean, ex opere operato "by the work itself, that is, by the very work done" (the Latin
+term, translated). starve already "freeze".

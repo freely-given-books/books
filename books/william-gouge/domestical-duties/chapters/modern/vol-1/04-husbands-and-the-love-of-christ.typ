@@ -13,7 +13,7 @@
 
 #v(0.8em)
 
-#smallcaps[From] the duties of wives the apostle goes on to press the duties of husbands. And as he set before wives the example of the church as a pattern, so he sets before husbands the example of Christ; and #footnote[#emph[v.] 28, 29.] he adds to it the pattern of a man’s own self, in regard of that natural affection which he bears to his body. So he adds pattern to pattern, #footnote[Husbands’ duties most pressed.] and he presses husbands’ duties the more largely and earnestly, because husbands have a more honorable place, and so their failing in duty is the more heinous, scandalous, and dangerous.
+#smallcaps[From] the duties of wives the apostle goes on to press the duties of husbands. And as he set before wives the example of the church as a pattern, so he sets before husbands the example of Christ; and #footnote[#emph[v.] 28, 29.] he adds to it the pattern of a man’s own self, in regard of that natural affection which he bears to his body. So he adds pattern to pattern, #footnote[Husbands’ duties most pressed.] and he presses husbands’ duties the more fully and earnestly, because husbands have a more honorable place, and so their failing in duty is the more heinous, scandalous, and dangerous.
 
 The apostle limits the duties of husbands to their #footnote[ἑαυτῶν.] #emph[own] wives, as he did the duties of wives to their #footnote[ἰδίοις.] #emph[own] husbands. For though the same word is not used here as was used before, yet a word of like emphasis is used; and there is as good reason that our English translators should have put this particle #emph[(own)] into this verse as into the 22nd verse. For proof of this, read 1 Corinthians 7:2, where #footnote[ἑαυτοῦ. ἴδιον. See §. 82.] these two words are used, and both of them are translated #emph[own.]
 
@@ -113,7 +113,7 @@ The object, the thing which Christ gave as a ransom, was #emph[himself:] not his
 
 2\. Though the divine nature of Christ did not suffer, yet it upheld the human nature, and added dignity, worth and efficacy to the sufferings of that nature.
 
-3\. Christ’s divine nature had its own proper and peculiar works in the work of redemption, such as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
+3\. Christ’s divine nature had its own proper and distinctive works in the work of redemption, such as to sanctify his human nature, to take away our sins, to reconcile us to God, and the like.
 
 So then, in three respects the whole person of Christ was given to us.
 

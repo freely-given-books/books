@@ -29,7 +29,7 @@ This ought to be the mind of husbands toward their wives.
 
 1\. Though their wives are in no way worthy of love, yet husbands must love them.
 
-2\. They must endeavor, with all the understanding and wisdom they have, to make them worthy of love. I say #emph[endeavor] because it is not simply in the husband’s power to do the deed. Yet his faithful endeavor shall, on his part, be accepted for the deed.
+2\. They must endeavor, with all the understanding and wisdom they have, to make them worthy of love. I say #emph[endeavor] because it is not wholly in the husband’s power to do the deed. Yet his faithful endeavor shall, on his part, be accepted for the deed.
 
 I shall speak more fully of these points hereafter.
 
@@ -52,7 +52,7 @@ There is more emphasis used here in setting down a husband’s duty than there w
 
 There it was laid down by way of exhortation: “Husbands, love your#super[+] wives.”
 
-Here it is laid down with a stricter charge: #emph[husbands ought to love their wives.] So this duty is not an arbitrary matter, left to the husband’s will to do or to leave undone. A necessity is laid upon him: he must love his wife. Woe to him, therefore, if he does not do it.
+Here it is laid down with a stricter charge: #emph[husbands ought to love their wives.] So this duty is not an optional matter, left to the husband’s will to do or to leave undone. A necessity is laid upon him: he must love his wife. Woe to him, therefore, if he does not do it.
 
 In setting down this argument taken from a man’s self, the apostle likens a man’s wife to his #emph[body.] In this he has relation to v. 23, where he said, “the husband is the head of the wife.” By this he shows that as a husband’s place is a motive to his wife to perform her duty, so it is to himself, #footnote[See #emph[Treatise] 4, §. 74, 76. Why the pattern of a man’s self is added to the pattern of Christ.] to perform his duty.
 
@@ -136,7 +136,7 @@ They set forth #emph[the natural affection of a man to himself.] #footnote[The s
 
 Two points are to be noted here.
 
-1\. The general proposition, #emph[that a man is well affected to himself.]
+1\. The general proposition, #emph[that a man is well disposed toward himself.]
 
 2\. The particular amplification and manifestation of that affection.
 
@@ -163,7 +163,7 @@ The good and commendable loving of a man’s self is
 + Natural.
 + Spiritual.
 
-That which is natural is in all men by the very instinct of nature. It was created at first, and is always preserved in our nature by God’s providence, and that for the preservation of nature. If there were not such a natural love of himself in every one, a man would be as careless of himself as of others, and as unwilling to take pains for himself as for others. Therefore, so that every one might have care of at least one, namely himself, and so the world be better preserved, God has reserved in man this natural affection, notwithstanding his corruption by sin. Yes, further: because not every one is able to look after himself, at least when he is young, sick, old, or in any other way helpless, God by his wise providence has extended this natural affection toward others also, as they are nearly linked to us by the bonds of nature. The nearest to a man’s self (by blood and the bond of nature) are his children. It is wonderful how much parents do for their children, which they would never do if there were not a natural affection in them toward their children. From children again this affection rises toward their parents, so that when parents grow old, helpless, or in any way unable to help themselves, they might have relief from their children. And because parents and children are not always together, or are not able to help one another, or are unnatural, God has extended this natural affection yet further, to brothers, kinsmen and other relatives. And to extend it further still, he has instituted marriage between those who are not of the same blood, and by virtue of that bond has raised a natural affection not only in husband and wife toward one another, but also in all the kindred by marriage that is made by it. Moreover, this affection is wrought in neighbors, friends, companions and others knit together by like bonds, so that the bow of God’s providence might have many strings, and if one breaks, another might hold. In all these kinds, the nearer a man comes to himself, the more this affection shows itself, according to the proverb, #emph[Near is my coat, but nearer is my skin.] Since God has wrought this natural affection in its distinct kinds, and there are good ends and uses of it, it is not to be condemned.
+That which is natural is in all men by the very instinct of nature. It was created at first, and is always preserved in our nature by God’s providence, and that for the preservation of nature. If there were not such a natural love of himself in every one, a man would be as careless of himself as of others, and as unwilling to take pains for himself as for others. Therefore, so that every one might have care of at least one, namely himself, and so the world be better preserved, God has reserved in man this natural affection, notwithstanding his corruption by sin. Yes, further: because not every one is able to look after himself, at least when he is young, sick, old, or in any other way helpless, God by his wise providence has extended this natural affection toward others also, as they are closely linked to us by the bonds of nature. The nearest to a man’s self (by blood and the bond of nature) are his children. It is wonderful how much parents do for their children, which they would never do if there were not a natural affection in them toward their children. From children again this affection rises toward their parents, so that when parents grow old, helpless, or in any way unable to help themselves, they might have relief from their children. And because parents and children are not always together, or are not able to help one another, or are unnatural, God has extended this natural affection yet further, to brothers, kinsmen and other relatives. And to extend it further still, he has instituted marriage between those who are not of the same blood, and by virtue of that bond has raised a natural affection not only in husband and wife toward one another, but also in all the kindred by marriage that is made by it. Moreover, this affection is wrought in neighbors, friends, companions and others knit together by like bonds, so that the bow of God’s providence might have many strings, and if one breaks, another might hold. In all these kinds, the nearer a man comes to himself, the more this affection shows itself, according to the proverb, #emph[Near is my coat, but nearer is my skin.] Since God has wrought this natural affection in its distinct kinds, and there are good ends and uses of it, it is not to be condemned.
 
 === §. 58. #emph[Of spiritual self-love.]
 
@@ -176,7 +176,7 @@ The self-love which is evil swerves in its
 - #emph[Object.]
 - #emph[Measure.]
 
-1\. In the #emph[object,] when it is set on our corruptions, our lusts, our evil humors: when we desire and love them, and for their sake pursue whatever may satisfy them, as the ambitious, lustful, riotous, gluttonous and other such persons do. This is expressly forbidden: “Make no provision for the flesh, to gratify its lusts.” #footnote[Rom 13:14.]
+1\. In the #emph[object,] when it is set on our corruptions, our lusts, our evil inclinations: when we desire and love them, and for their sake pursue whatever may satisfy them, as the ambitious, lustful, dissolute, gluttonous and other such persons do. This is expressly forbidden: “Make no provision for the flesh, to gratify its lusts.” #footnote[Rom 13:14.]
 
 2\. In the #emph[measure,] when our love is wholly and only set on ourselves, so seeking our own good that we regard no man’s good but our own, nor care what damage another receives, so long as we may gain advantage by it. This is also forbidden, #footnote[Phil 2:21. 1 Cor 13:5; 10:24.] for it is contrary to the property of true love, which “does not seek its own,” namely to the hurt of another. This has the title of #footnote[φιλαυτία.] #emph[self-love] appropriated to it. It sprang from the corruption of nature, and is daily increased by the instigation of Satan for the destruction of mankind. It shows itself in the many tricks of deceit which most men use in their dealings with others; in taking advantage of others’ necessities, as in the case of usury, and of raising the price of grain and other goods in time of scarcity, and the like; in men’s slowness to help those who stand in need of their help; in want of compassion for other men’s miseries; and in many other such unkindnesses. All of these verify the proverb, #emph[Every man for himself.]
 
@@ -211,7 +211,7 @@ Here we see how we may make nature a schoolmaster to us. For as Christ sends us 
 
 Hatred is contrary to love. Since it was proved before #footnote[Reason.] that every man by nature loves himself, it follows by necessary consequence that no man hates his flesh. For two contrary effects do not proceed from the same cause: “no spring can yield both salt water and fresh.” #footnote[Jas 3:12.]
 
-#emph[Objection.] Many waste their bodies with fasts, vigils, labors, travels and the like. Others tear and gash their flesh with whips, knives, swords, and even with their teeth. Others lay such violent hands on themselves that they take away their own lives.
+#emph[Objection.] Many waste their bodies with fasts, vigils, labors, toils and the like. Others tear and gash their flesh with whips, knives, swords, and even with their teeth. Others lay such violent hands on themselves that they take away their own lives.
 
 #emph[Answer.] 1. None of these things are done by the instinct of nature which God has set in man, but through the corruption of nature which the devil has caused. Now nature and the corruption of nature are two contrary causes; no wonder, then, that contrary effects come from them.
 
@@ -227,7 +227,7 @@ The forenamed doctrine exposes many practices used #footnote[1 #emph[Use.]] by v
 
 1\. #emph[The practice of the idolatrous Baalites,] who, to move their idol to hear them, “cut themselves with knives and lances … until the blood gushed over them.”#footnote[1 Kgs 18:28. #emph[Cassian. Collat.] 19.] Not much unlike them are popish hermits, anchorites, flagellant monks, Grandimontenses, various sorts of Franciscans, and other friars. Of these #footnote[#emph[D. Willet Synops. Papism. Contr.] 6. #emph[quaest.] 6.] some wear shirts of haircloth, some shirts of mail next to their bodies, some go barefoot, some whip themselves daily until blood follows, and some waste their bodies with lying hard, vigils, fasting, going on pilgrimage, etc.
 
-2\. #emph[The practice of gluttons, drunkards, unchaste and voluptuous persons,] who, to satisfy their corrupt humors, impair their health, bring diseases on themselves and shorten their days.
+2\. #emph[The practice of gluttons, drunkards, unchaste and pleasure-loving persons,] who, to satisfy their corrupt appetites, impair their health, bring diseases on themselves and shorten their days.
 
 3\. #emph[The practice of brawlers,] who by quarrels cause their flesh to be wounded and their lives taken away. Among these may be reckoned those who bring themselves into great straits, distresses and dangers for the sake of gain, and those who by felony, treason and like evil deeds cast themselves on the sword of the magistrate.
 

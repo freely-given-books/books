@@ -262,13 +262,13 @@ So we see that there may be just cause to alter the latter branch of this promis
 
 3\. When parents are too indulgent toward their children, God punishes the sin of both parent and child by shortening the child’s days. Take for example #emph[Hophni]#footnote[1 Sam 2:34.] and #emph[Phinehas, Absalom,]#footnote[2 Sam 18:14.] and #emph[Adonijah.]#footnote[1 Kgs 2:25.]
 
-4\. Disobedience to parents is a sin that seldom goes alone, for an undutiful child is commonly a very wicked person in many other ways. Considering how prone our nature is to every sin, it cannot be avoided that those who shake off the yoke of government at the beginning should run headlong into all riot, looseness and licentiousness. So with sin added to sin, it must bring harm upon harm, until at length life is cut off.
+4\. Disobedience to parents is a sin that seldom goes alone, for an undutiful child is commonly a very wicked person in many other ways. Considering how prone our nature is to every sin, it cannot be avoided that those who shake off the yoke of government at the beginning should run headlong into all wild living, looseness and licentiousness. So with sin added to sin, it must bring harm upon harm, until at length life is cut off.
 
 Since these harms are avoided by giving due obedience to parents, it may well be said that #emph[it will go well with obedient children, and they will live long.]
 
 === §. 108. #emph[Of God’s ordering his favors so that they may appear to be true blessings.]
 
-Now that the particular branches of God’s promise have been #footnote[How fitly prosperity and long life are joined together.] opened one by one, we will consider them jointly, for they greatly enlarge one another. #emph[Prosperity] sweetens long life and makes it welcome; otherwise to live long, that is, in misery and wretchedness, is very tiresome and grievous. Again, long life added to prosperity makes it so much the greater blessing. For the longer a good thing lasts, the better it is. If prosperity were only like a flower, soon gone, the very thought of its vanity would greatly lessen its joy and comfort. But both of them joined together show that what is promised is no small blessing.
+Now that the particular branches of God’s promise have been #footnote[How fitly prosperity and long life are joined together.] opened one by one, we will consider them jointly, for they greatly enlarge one another. #emph[Prosperity] sweetens long life and makes it welcome; otherwise to live long, that is, in misery and wretchedness, is very tiresome and grievous. Again, long life added to prosperity makes it so much the greater blessing. For the longer a good thing lasts, the better it is. If prosperity were only like a flower, soon gone, the very thought of how fleeting it is would greatly lessen its joy and comfort. But both of them joined together show that what is promised is no small blessing.
 
 From the joining of them both together, I observe that
 
@@ -318,7 +318,7 @@ As for their inference #emph[(if a man’s time is determined, all the promises 
 
 The knowledge of this determined limit of man’s life is of great use, for it teaches us:
 
-1\. To submit ourselves wholly to God, and to be prepared #footnote[Uses to be made of the determined time of man’s life.] either to depart out of this world soon or to live in it long, as God disposes of our time; neither desiring to live longer than God has appointed, nor grieving to live as long as he has appointed.
+1\. To submit ourselves wholly to God, and to be prepared #footnote[Uses to be made of the determined time of man’s life.] either to depart out of this world soon or to live in it long, as God orders our time; neither desiring to live longer than God has appointed, nor grieving to live as long as he has appointed.
 
 2\. Not to fear the threats of any man, so as to be drawn away #footnote[Dan 3:17, 18.] from God by them.
 
@@ -328,6 +328,6 @@ The knowledge of this determined limit of man’s life is of great use, for it t
 
 The other heresy, which the papists gather from this text, is #footnote[Against merit.] this: #emph[Man’s obedience is meritorious.]
 
-#emph[Answer.] The reward promised here is no matter of wages and due desert, but of pure grace and favor.
+#emph[Answer.] The reward promised here is no matter of wages and what is deserved, but of pure grace and favor.
 
 I have spoken more fully of this error #footnote[#emph[Whole Armour of God,] Treatise 2, Part 4, §. 7, on Eph 6:14.] elsewhere.
