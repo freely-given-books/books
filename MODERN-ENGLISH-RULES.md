@@ -212,6 +212,11 @@ Reviewers and correction passes do not reopen these; a finding against one is no
 
 ## 7a. The meaning audit (every book, before the editor's read)
 
+**Since 2026-11-17 the method lives in the `modern-english` skill** (`.claude/skills/modern-english/`): its scripts,
+briefs, the false-friend lexicon, two offset reader passes with proven coverage, targeted checks (false friends,
+split points, Scripture lean), a review of every edit pass, and which model and effort does each job. The steps
+below are the first books' audit, kept for the record.
+
 Scripts in `work/modern-english/` (Mortification's run: `audit-2026-11-14/`):
 
 1. `audit-pairs.py`: paragraph pairs, Classic and Modern.
