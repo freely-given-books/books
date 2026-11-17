@@ -26,15 +26,21 @@ Use effort `max` only when the editor asks for it.
 
 ## Coverage is proven, not promised
 
-Every reader (audit or assessment) returns **one line per paragraph** of its assignment: `file  n  ok` or a
-finding row. `coverage.py PAIRS ASSIGNMENT READER.tsv MINUTES` must pass before its findings are accepted:
+Every reader (audit or assessment) returns two files:
+- **verdicts:** one line per paragraph of its assignment, `file  n  ok`, or a finding row;
+- **a clause ledger:** one row per Classic sentence or clause it compared,
+  `file  n  classic clause (first words, copied)  modern words carrying it  = or ≠`.
 
-- every paragraph has a verdict;
-- the run took at least about 10 minutes per 10,000 Classic words. Earlier assessment readers took 4 to 6 minutes
-  for 20,000 to 27,000 words, which is skimming, though each brief said "read every sentence".
+`coverage.py PAIRS ASSIGNMENT READER.tsv LEDGER.tsv` must pass before the reader's findings are accepted. It
+checks that every paragraph has a verdict, that ledger rows cover at least 80% of each paragraph's sentences,
+and that each row's Classic words are really in that paragraph. A run that fails is redone. A brief may never
+invite sampling. If a reader must stop, it says which paragraphs it did not read, and they go to a new reader.
 
-A run that fails is redone with smaller assignments. A brief may never invite sampling. If a reader must stop,
-it says which paragraphs it did not read, and they go to a new reader.
+**Not a clock.** A timing gate of 10 minutes per 10,000 words was tried on the first four re-checks
+(2026-11-17) and dropped. Honest opus and sonnet readers read 2,000–3,500 words a minute and failed it on every
+run, and small runs passed it only because of start-up overhead. Keeping the ledger is what made readers
+compare clause by clause, and unlike a time, a ledger can be checked. The other check on reading is
+agreement: the same finding reached independently by readers of both passes.
 
 ## Calibration: choosing the drafter and reader models
 

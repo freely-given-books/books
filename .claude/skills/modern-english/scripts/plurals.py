@@ -1,6 +1,8 @@
 """Plural marks, the house style (rules §4; Surest Way lesson): in every paragraph the drafters marked as a plural
 address (it holds a you⁺) and whose Classic has no singular thou/thee/thy, mark the first you/your of EVERY
-sentence; the rest of a sentence stays plain. python3 plurals.py BOOK_DIR [--write]  (without --write: counts only)"""
+sentence; the rest of a sentence stays plain. python3 plurals.py BOOK_DIR [--write]  (without --write: counts only)
+--excess lists sentences carrying more than one mark (the house style is one a sentence; the 11-17 re-check
+counted 18 in Mortification, 26 in Indwelling Sin, 12 in A Divine Cordial); removing them is a judgment call."""
 import re, sys
 from pathlib import Path
 THOU = re.compile(r"\b(thou|thee|thy|thine|thyself)\b", re.I)
@@ -24,4 +26,8 @@ for mp in sorted((B / "modern").rglob("*.typ")):
     if n and "--write" in sys.argv: mp.write_text("".join(mps))
     if n: print(f"{mp.name}: {n}")
     total += n
+if "--excess" in sys.argv:
+    for mp in sorted((B / "modern").rglob("*.typ")):
+        for s in re.split(r"(?<=[.?!])\s+", mp.read_text()):
+            if s.count("#super[+]") > 1: print(f"excess {mp.name}: {s[:140]}")
 print(total, "marks", "written" if "--write" in sys.argv else "to add (run with --write)")

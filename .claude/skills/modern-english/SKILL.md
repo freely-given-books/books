@@ -118,8 +118,8 @@ a misprint; when one is fixed, say so.
    half a run.
 2. Pass A readers are opus/high and pass B readers sonnet/high, each at most 10,000 words, all with
    `references/reader-brief.md`.
-3. For each reader run `coverage.py PAIRS <reader>.ids <reader>.tsv MINUTES`. **A reader that fails is
-   redone, with smaller runs.**
+3. For each reader run `coverage.py PAIRS <reader>.ids <reader>.tsv <reader>-ledger.tsv`: a verdict for every
+   paragraph and a clause ledger that covers it. **A reader that fails is redone.** Time is not the test.
 4. Settle every finding: accept, adjust, or reject with a reason. Put the corrections in
    `<book>-audit-edits.py`, each edit with a comment saying why. Where two readers disagree, read the Classic
    yourself.
@@ -207,5 +207,5 @@ gives the second reading, and opus or fable drafts and judges. Pass `model` and 
 | `audit-scripture.py`, `bsb.py` | quotations against the BSB; verse lookup |
 | `audit-grep.py`, `audit-match.py` | look a phrase up in the pairs |
 | `plurals.py` | first you⁺ of every sentence of a plural address |
-| `assign.py`, `coverage.py` | reader runs for two offset passes; proof that each read everything |
+| `assign.py`, `coverage.py` | reader runs for two offset passes; proof (verdicts + clause ledger) that each read everything |
 | `scaffold.py`, `pagefit.py`, `side_by_side.py` | edition files, page fit, the editor's review page |
