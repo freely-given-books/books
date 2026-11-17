@@ -9,10 +9,10 @@
 | --- | --- |
 | punctuation | 4983 |
 | case | 3803 |
-| emendation | 3668 |
+| emendation | 3667 |
 | spelling | 2404 |
 | italic | 1973 |
-| spacing | 1895 |
+| spacing | 1896 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
@@ -2627,7 +2627,6 @@
 - [application-03.typ] and → 
 - [application-03.typ] and → 
 - [application-03.typ] kindling → kindling (Isa 50:11)
-- [application-03.typ] live → live (Gen 2
 - [application-03.typ] shall → must
 - [application-03.typ] we → I
 - [application-03.typ] and → ” (Acts 16:30).
@@ -7267,8 +7266,8 @@
 - [application-03.typ] , → , “
 - [application-03.typ] . → .”
 - [application-03.typ] , → ;
-- [application-03.typ] , → .
-- [application-03.typ] : → :2).
+- [application-03.typ] , → (Gen 2:16–17).
+- [application-03.typ] : → .
 - [application-03.typ] ; → (Acts 2:37). “
 - [application-03.typ] ? → ?” (Mark 10:17–20).
 - [application-03.typ] , → 

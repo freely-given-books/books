@@ -86,7 +86,7 @@ The phoenix gathers sweet, fragrant sticks together in Arabia, and then fans the
 
 This was Bernard’s temptation: when he had been helped a little in duty, he could stroke his own head with #emph[bene fecisti Bernard], “O Bernard, this was gallantly done; now cheer yourself up.” Ah, how apt man is, when he has been a little helped, heated, melted, set free in a way of duty, to go away and stroke himself, bless himself, hug himself, and warm himself with the sparks, with the fire of his own kindling (Isa 50:11)!
 
-Adam was to win life and wear it; he was to be saved by his doings. Do this and live (Gen 2:2). That is why all his descendants are so prone to seek salvation by doing (Acts 2:37). “What must I do to be saved?” (Acts 16:30). “Good Teacher, what must I do to inherit eternal life?” (Mark 10:17–20). Like father, like son. But if our own duties or doings were sufficient to save us, to what purpose did Christ leave His Father’s bosom and lay down His dearest life?
+Adam was to win life and wear it; he was to be saved by his doings (Gen 2:16–17). Do this and live. That is why all his descendants are so prone to seek salvation by doing (Acts 2:37). “What must I do to be saved?” (Acts 16:30). “Good Teacher, what must I do to inherit eternal life?” (Mark 10:17–20). Like father, like son. But if our own duties or doings were sufficient to save us, to what purpose did Christ leave His Father’s bosom and lay down His dearest life?
 
 Closet duties rested in may pacify conscience for a time, but this will not always hold. “When Ephraim saw his sickness and Judah his wound, then Ephraim turned to Assyria and sent to King Jareb. But he cannot cure you#super[+] or heal your wound” (Hos 5:13).
 
