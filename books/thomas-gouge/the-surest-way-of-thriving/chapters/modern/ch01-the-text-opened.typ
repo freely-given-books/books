@@ -55,9 +55,9 @@ From the duty expressed here, of receiving and relieving #emph[prophets] and #em
 
 These two sorts make up #emph[the household of faith,] to whom the apostle urges Christians #emph[especially] to do good (Gal 6:10).
 
-Q. Is our charity to reach no further?
+Question. Is our charity to reach no further?
 
-#emph[A.] Yes, it reaches to all who are in want, but #emph[especially] to those who have a particular relation to Christ, as his members or ministers, because in them Christ himself is helped and relieved in a special way. So it will be our wisdom to take notice of how far this duty reaches. In all we do, whether for Christians or for others, let us see to it that what we do is done for the Lord’s sake and for conscience’ sake: to the one, in compassion to his members; to the other, in obedience to his will.
+#emph[Answer.] Yes, it reaches to all who are in want, but #emph[especially] to those who have a particular relation to Christ, as his members or ministers, because in them Christ himself is helped and relieved in a special way. So it will be our wisdom to take notice of how far this duty reaches. In all we do, whether for Christians or for others, let us see to it that what we do is done for the Lord’s sake and for conscience’ sake: to the one, in compassion to his members; to the other, in obedience to his will.
 
 3\. Doctrine. #emph[According to the kindness which we show, so will our reward be.] He who receives and relieves a #emph[prophet] will receive a #emph[prophet’s reward.] And he who receives and relieves a #emph[righteous man] will receive #emph[the reward of a righteous man.]
 
@@ -67,13 +67,13 @@ And if anyone gives even a cup of cold water to one of these little ones in the 
 
 Our Savior adds these words to the former to answer beforehand some objections which might be made to them, and also to explain more fully the points mentioned before.
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. #emph[Obj.] It may be put thus: These preachers of the gospel, and those who profess it, are only lowly persons, and little esteemed. What great reward can be expected for welcoming them?]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. #emph[Objection.] It may be put thus: These preachers of the gospel, and those who profess it, are only lowly persons, and little esteemed. What great reward can be expected for welcoming them?]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[#emph[A.] Little as they are, be they as insignificant and contemptible as the proud world makes them, yet they are not so little in the eyes of the Lord that he will not reward all who are friendly to them.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[#emph[Answer.] Little as they are, be they as insignificant and contemptible as the proud world makes them, yet they are not so little in the eyes of the Lord that he will not reward all who are friendly to them.]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[2\. #emph[Obj.] I myself am only poor, and can do only a little for them.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[2\. #emph[Objection.] I myself am poor, and can do only a little for them.]]
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[#emph[A.] Though your kindness is ever so small, as small as a #emph[cup of water,] and that #emph[cold,] taken out of the river without any trouble or cost to heat it, yes, only #emph[ONE] cupful of it and no more (supposing that to be the most you can do for them), yet it will be rewarded by him who regards the willingness of the giver more than the greatness of the gift.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[#emph[Answer.] Though your kindness is ever so small, as small as a #emph[cup of water,] and that #emph[cold,] taken out of the river without any trouble or cost to heat it, yes, only #emph[ONE] cupful of it and no more (supposing that to be the most you can do for them), yet it will be rewarded by him who regards the willingness of the giver more than the greatness of the gift.]]
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[The greatest difficulty in the words is who are meant here by #emph[little ones,] for whose sake the reward is promised.]]
 
@@ -84,7 +84,7 @@ Our Savior adds these words to the former to answer beforehand some objections w
 - 1\. In regard to the world’s esteem of them.
 - 2\. In regard to their own estimate of themselves.
 
-#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[First, #emph[they are little in the world’s eye.] The world, which does not judge according to inward worth, holds them in low esteem. It goes with the servants as it went with their master: they are despised and rejected and trodden underfoot by men. Of old they were called “Desolate” and “Forsaken” (Isa 62:4). In the #emph[apostles’] time they were “the scum of the earth, the refuse of the world” (1 Cor 4:13). The experience of all ages confirms as much, and among other ages ours gives not the least evidence of it.]]
+#pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[First, #emph[they are little in the world’s eye.] The world, which does not judge according to inward worth, holds them in low esteem. It goes with the servants as it went with their master: they are despised and rejected and trodden underfoot by men. Of old they were called “Desolate” and “Forsaken” (Isa 62:4). In the #emph[apostles’] time they were “the scum of the earth, the refuse of the world” (1 Cor 4:13). The experience of all ages confirms as much, and among other ages ours gives no small evidence of it.]]
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[The comfort and contentment which God’s people find in the Lord and in the light of his countenance, yes, the hope they have of finding grace in his eyes, make them care less for, and seek less after, the honor, wealth and promotions of the world. And commonly they have only a little of it. Now the world judges according to outward, earthly, worldly glory; it does not discern the spiritual glory of the saints (1 John 3:1).]]
 

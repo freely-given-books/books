@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 379 |
+| spelling | 380 |
 | punctuation | 218 |
 | emendation | 163 |
 | spacing | 146 |
@@ -579,6 +579,7 @@
 - pinch'd → pinched
 - poins → points
 - poors → poor's
+- portion → portione
 - practise → practice
 - practised → practiced
 - priz'd → prized
