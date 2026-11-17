@@ -3593,7 +3593,7 @@
 - [application-04.typ] But , → 
 - [application-04.typ] Chamber → chamber will ere long
 - [application-04.typ] will e're long → 
-- [application-04.typ] Israel → Israel (2 Sam 12:11)
+- [application-04.typ] Israel → Israel (2 Sam 16:21–22)
 - [application-04.typ] upon → open
 - [application-04.typ] his → 
 - [application-04.typ] it self → itself
