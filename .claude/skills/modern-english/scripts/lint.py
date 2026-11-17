@@ -55,6 +55,8 @@ for r in pairs:
         pre = b[max(0, m.start() - 25):m.start()]
         if re.search(r"\b(the|a|an|of|to|and|his|their|our|your|my)\s*$", pre):
             out["ellipsis seams"].append(f"{w}: …{b[max(0, m.start() - 50):m.end() + 30]}…")
+    for m in re.finditer(r"#super\[\+\][;(\[]", b):
+        out["swallowed after a mark (escape it: \\;)"].append(f"{w}: …{b[max(0, m.start() - 30):m.end() + 20]}…")
     na, nb = NOTE.findall(a), NOTE.findall(b)
     for x, y in zip(na, nb):
         if len(EN.findall(x)) < 2 and x.strip() != re.sub(r"\s*\[[^\]]*\]", "", y).strip():
