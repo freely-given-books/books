@@ -42,7 +42,11 @@
 
 #include "chapters/modern/argument-03.typ"
 
-#include "chapters/modern/argument-04.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/argument-04.typ"
+]
 
 #include "chapters/modern/argument-05.typ"
 
@@ -50,7 +54,11 @@
 
 #include "chapters/modern/argument-07.typ"
 
-#include "chapters/modern/argument-08.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/argument-08.typ"
+]
 
 #include "chapters/modern/argument-09.typ"
 
@@ -68,9 +76,17 @@
 
 #include "chapters/modern/argument-16.typ"
 
-#include "chapters/modern/argument-17.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/argument-17.typ"
+]
 
-#include "chapters/modern/argument-18.typ"
+// a short chapter (3 lines alone on its last page, which tighter spacing could not pull back): letter spacing a little looser, so its last page fills
+#[
+  #set text(tracking: 0.02em)
+  #include "chapters/modern/argument-18.typ"
+]
 
 #include "chapters/modern/argument-19.typ"
 

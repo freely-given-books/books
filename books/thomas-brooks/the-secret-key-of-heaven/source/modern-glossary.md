@@ -135,6 +135,10 @@ British spellings become American (honor, labor, Savior, color, favor).
 | whoremongers, strumpets | the sexually immoral, prostitutes |
 | Mohammedans | Muslims |
 | jealous (God's eye) | jealous (kept: God's attribute) |
+| Look, as … so | Just as … so |
+| as ever you would … | if ever you would … |
+| stroke themselves (after a duty) | stroke themselves (his image, kept) |
+| great-bellied (mercy, day) | great-bellied (his image, kept) |
 
 ## Labels
 
