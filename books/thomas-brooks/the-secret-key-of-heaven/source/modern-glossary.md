@@ -34,8 +34,14 @@ BSB adjusted lightly where Brooks leans on the KJV's word:
 - **Jas 5:16** “The effectual, fervent prayer of a righteous man has great power.” (*effectual, fervent*: he expounds them)
 - **Ps 25:14** “The secret of the #smallcaps[Lord] is with those who fear Him, and He reveals His covenant to them.” (*secret*, Argument 12)
 - **Ps 83:3** “… they conspire against Your hidden ones.” (*hidden ones*, Argument 20, "or Thy secret ones")
-- **Song 2:14** “O my dove, in the clefts of the rock, in the secret places of the cliff …” (*secret places*;
-  Brooks's own "the secret places of the stairs" → "of the cliff" in his exposition too)
+- **Song 2:14** “O my dove, in the clefts of the rock, in the secret places of the stairs …” (BSB "crevices of the
+  cliff" adjusted: Brooks leans on the word, "in the clefts of the rock, or under the stairs"; settled in the audit)
+- **Ps 55:17** “Evening, morning, and noon I pray and cry aloud, and He hears my voice.” (*pray*: his proof of set times)
+- **Ps 5:3** “… in the morning I will direct my prayer to You and will look up.” (he expounds both words)
+- **Mark 1:35** “Early in the morning, a great while before day, Jesus got up …” (he repeats "a great while before day")
+- **Eph 6:18** “Pray in the Spirit always, with every kind of prayer and supplication …”
+- **Ezek 36:37** “For this, too, I will be sought by the house of Israel, to do it for them.”
+- **Jer 3:3** “Yet you have a harlot’s forehead …” (his prose echoes it: "a harlot's forehead")
 - **Hos 12:4** “Yes, he had power over the angel and prevailed; he wept and made supplication to Him.”
 - **Gen 32:24-30** BSB, with "wrestled" and "prevailed" kept wherever Brooks leans on them; v. 28 where he quotes
   “As a prince hast thou power with God”: “as a prince you have power with God”.
@@ -108,6 +114,27 @@ British spellings become American (honor, labor, Savior, color, favor).
 | corporal | bodily |
 | acts grace, actings | exercises grace, actions |
 | the text is indefinite | the text is general (logician's sense: no sort of person is named) |
+| yearnings (earnings, gains) | gains; "earnings" in his trade image (application 3) |
+| employments (offices, affairs) | employments, affairs (never "duties": in this book duties are religious exercises) |
+| convenient (place, time) | suitable, fitting |
+| run and read (Hab 2:2) | read at a glance |
+| fools in folio | utter fools |
+| spirited and principled (for prayer) | given the spirit (His Spirit) and a principle of grace |
+| deserted (the martyrs, at the stake) | deserted by God |
+| He prays with a witness who prays without a witness (and "grieves") | He prays in earnest who prays without a witness |
+| with a witness (elsewhere) | with a vengeance (Precious Remedies) |
+| honest (honorable) | honorable |
+| speed (succeed), privy marks, peculiar | succeed, secret marks, special / found only in |
+| complexion sins | the sins of his own temperament |
+| ingenuous | sincere, fair-minded, noble-minded (by sense) |
+| crosses (noun) | afflictions, trials |
+| malefactors | criminals, wrongdoers |
+| bodily distemper | illness, ailment |
+| prevalent (with God) | prevailing |
+| quickened, enlarged (in duty) | revived, enlivened; set free |
+| whoremongers, strumpets | the sexually immoral, prostitutes |
+| Mohammedans | Muslims |
+| jealous (God's eye) | jealous (kept: God's attribute) |
 
 ## Labels
 
