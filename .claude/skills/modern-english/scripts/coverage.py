@@ -43,7 +43,8 @@ for l in open(sys.argv[4]):
 
 short = []
 for k in sorted(rows):
-    s = len([x for x in re.split(r"(?<=[.?!;:])\s+", by[k]["classic"]) if len(x.split()) > 2]) or 1
+    text = re.sub(r"\b(\d+)\s*([ls]d?)\.", r"\1\2", by[k]["classic"])  # money: 20 l. 5 s.
+    s = len([x for x in re.split(r"(?<=[.?!])[”’)\]]?\s+(?=[“‘(]?[A-Z])", text) if len(x.split()) > 2]) or 1
     if led[k] < max(1, round(0.8 * s)): short.append((k, led[k], s))
 miss = sorted(rows - seen)
 print(f"{len(rows)} paragraphs, {words} Classic words; verdicts {len(rows & seen)}, missing {len(miss)}; "
