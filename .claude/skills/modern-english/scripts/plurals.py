@@ -18,7 +18,7 @@ for mp in sorted((B / "modern").rglob("*.typ")):
         c = cps[k]; k += 1
         if "#super[+]" not in mps[i] or THOU.search(c): continue
         out = []
-        for s in re.split(r"(?<=[.?!][”’\])]?)(\s+)(?=[“‘(\[#]?[A-Z])", mps[i]):  # also after .” and .]
+        for s in re.split(r"(?:(?<=[.?!])|(?<=[.?!][”’\])]))(\s+)(?=[“‘(\[#]?[A-Z])", mps[i]):  # also after .” and .]
             if "#super[+]" not in s and not s.isspace():
                 s, a = YOU.subn(r"\1#super[+]", s, count=1); n += a
             out.append(s)
