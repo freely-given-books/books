@@ -1,6 +1,6 @@
 # Brief: sentence-by-sentence meaning reader (template)
 
-Fill in {AUTHOR}, {BOOK}, {YEAR}, {GLOSSARY}, {ASSIGNMENT}, {OUT}. The same brief serves the audit's pass A
+Fill in {AUTHOR}, {BOOK}, {YEAR}, {GLOSSARY}, {ASSIGNMENT}, {OUT}, {LEDGER}. The same brief serves the audit's pass A
 (opus) and pass B (sonnet), and the assessment's readers.
 
 ---
@@ -14,10 +14,11 @@ paragraph as CLASSIC then MODERN (Typst markup: `#emph[...]` is italics, `#footn
 did say?** Read each Classic sentence, find its Modern counterpart, and compare their meaning clause by
 clause.
 
-**Read every paragraph of your assignment. Do not sample.** For each paragraph, write one line: `ok` if you
-find nothing, or one finding row per problem. Your output is checked paragraph by paragraph against the
-assignment, along with the time you took, and a run with gaps or that went too fast is thrown away and done
-again. If you cannot finish, stop and list the paragraphs you did not read; that is fine. Claiming to have
+**Read every paragraph of your assignment. Do not sample.** Keep a **clause ledger** as you go ({LEDGER}): for
+each Classic sentence or clause, one row `file  n  classic clause (its first words, copied exactly)  the Modern
+words carrying it  = or ≠`. Then, for each paragraph, write one verdict line: `ok` if you find nothing, or one
+finding row per problem. Both files are checked against the assignment, paragraph by paragraph, and against
+the text, and a run with gaps is thrown away and done again. If you cannot finish, stop and list the paragraphs you did not read; that is fine. Claiming to have
 read them is not.
 
 Your assignment: {ASSIGNMENT}
