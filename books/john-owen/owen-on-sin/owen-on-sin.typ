@@ -72,14 +72,29 @@
   #set text(tracking: -0.01em)
   #include "../the-mortification-of-sin/chapters/typ/chapter-03.typ"
 ]
-#include "../the-mortification-of-sin/chapters/typ/chapter-04.typ"
-#include "../the-mortification-of-sin/chapters/typ/chapter-05.typ"
+// its last lines would stand alone on the next page: its letter spacing a little
+// tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "../the-mortification-of-sin/chapters/typ/chapter-04.typ"
+]
+// its last lines would stand alone on the next page: its letter spacing a little
+// tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.015em)
+  #include "../the-mortification-of-sin/chapters/typ/chapter-05.typ"
+]
 #include "../the-mortification-of-sin/chapters/typ/chapter-06.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-07.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-08.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-09.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-10.typ"
-#include "../the-mortification-of-sin/chapters/typ/chapter-11.typ"
+// its last lines would stand alone on the next page: its letter spacing a little
+// tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.005em)
+  #include "../the-mortification-of-sin/chapters/typ/chapter-11.typ"
+]
 #include "../the-mortification-of-sin/chapters/typ/chapter-12.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-13.typ"
 #include "../the-mortification-of-sin/chapters/typ/chapter-14.typ"
