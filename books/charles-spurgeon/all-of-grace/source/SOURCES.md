@@ -59,8 +59,11 @@ folder outside the repository):
 4. **Italics** (`italics.py`): the print's italic (Scripture quoted in the
    text, Spurgeon's emphasis) measured as the slant of each word on the
    page image, against the word's own upright slant elsewhere in the book
-   (168 italic runs). Small capitals (each chapter's opening words and the
-   centred appeals) are set as the print sets them.
+   (168 italic runs). Every page was then read against the italics on its image
+   (2026-11-15, the editor's request): 78 places where the measure was wrong, mostly spans cut
+   at a line-end hyphen or short italic words missed, are set as printed by
+   `transcription/italic-fixes.tsv`, which `assemble.py` applies. Small capitals
+   (each chapter's opening words and the centred appeals) are set as the print sets them.
 5. **Completeness** (`completeness.py`): every word of the corrected Kraken
    text is in the transcription, and no run of words that GLM, Tesseract or
    archive.org's OCR found on the pages is missing from it (what they have
@@ -71,6 +74,12 @@ The title page is transcribed by hand (its epigraph is in black letter).
 The 1886 printer's own misprints stay in the transcription as printed
 ("sarpe", "godness", "scarely", "trangression", "Spirt", "checque"; each
 read on the page image) and are corrected in the reg layer.
+
+Corrected 2026-11-15 (found while drafting the Modern English; each read on the page
+image; `work/all-of-grace/typ_edits.py`): the last line of William Hone's hymn (p. 105),
+which the transcription had set as a paragraph of its own, is back in its stanza here in
+grace.thml.xml; misplaced quotation marks (pp. 14, 54, 114), stray marks and two dropped
+points of the print ("Oh, sir, my", "turning and returning. It") are corrected in the reg layer.
 
 ## Modernizing (the reg layer)
 

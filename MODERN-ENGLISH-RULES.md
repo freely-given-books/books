@@ -24,6 +24,9 @@ same text anymore").
 4. The print's italics stay (as in the reading edition), where they are emphasis. Where a 17th-
    century print sets a quotation in italics instead of quotation marks (Owen's 1658 and 1675
    prints), the Modern English sets it in roman inside quotation marks, as modern books do.
+5. **Hymns and verse** the author quotes from hymnals keep their printed wording (thee, thou, hath,
+   "Convinc’d"), for their rhyme and meter (the editor, 2026-11-15, All of Grace); the Modern
+   modernizes the author's prose and his Scripture around them.
 
 ## 2. Sentences (the "level 3" of the pilots)
 
