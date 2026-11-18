@@ -36,9 +36,17 @@
 
 #include "chapters/typ/argument-02.typ"
 
-#include "chapters/typ/argument-03.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/argument-03.typ"
+]
 
-#include "chapters/typ/argument-04.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/argument-04.typ"
+]
 
 #include "chapters/typ/argument-05.typ"
 
@@ -64,22 +72,42 @@
 
 #include "chapters/typ/argument-16.typ"
 
-#include "chapters/typ/argument-17.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/argument-17.typ"
+]
 
-#include "chapters/typ/argument-18.typ"
+// a short chapter (3 lines alone on its last page, which tighter spacing could not pull back): letter spacing a little looser, so its last page fills
+#[
+  #set text(tracking: 0.02em)
+  #include "chapters/typ/argument-18.typ"
+]
 
 #include "chapters/typ/argument-19.typ"
 
-#include "chapters/typ/argument-20.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/argument-20.typ"
+]
 
 = Application
 
 #include "chapters/typ/application-01.typ"
 
-#include "chapters/typ/application-02.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/application-02.typ"
+]
 
 #include "chapters/typ/application-03.typ"
 
-#include "chapters/typ/application-04.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/application-04.typ"
+]
 
 #include "chapters/typ/application-05.typ"

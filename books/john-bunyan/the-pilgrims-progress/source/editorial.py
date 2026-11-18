@@ -81,5 +81,7 @@ def LAYOUT(root):
 EPUB = {"title": "The Pilgrim's Progress", "author": "John Bunyan",
         "file": "the-pilgrims-progress.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-pilgrims-progress.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "the-pilgrims-progress-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-pilgrims-progress.typ", "the-pilgrims-progress-modern.typ"]

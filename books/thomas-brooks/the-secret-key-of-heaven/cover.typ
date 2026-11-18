@@ -20,7 +20,14 @@
   curve.cubic((w / 2 * 1.5523, 0pt), (w, w / 2 * 0.4477), (w, w / 2)),
   curve.line((w, h)), curve.close())
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+// epigraph: the back's verse (the Modern English quotes the BSB as adjusted, cover-modern.typ)
+#let cover(edition: none, epigraph: [
+    “But when you pray, go into your closet, shut your door, and pray to your
+    Father, who is unseen. And your Father, who sees what is done in secret,
+    will reward you.”
+  ]) = plate-cover(
+  edition: edition,
   ground: rgb("#C8922C"),
   art: box(width: 5.5in, height: 8.5in, {
     place(dx: 2.75in - 1.2in, dy: 0.5in, arch(2.4in, 4.05in, 1.2pt + rule-ink))
@@ -42,11 +49,9 @@
   accent: rule-ink,
   label: rgb("#4A2C0C"),
   paper: rgb("#F6E7C4"),
-  epigraph: [
-    “But when you pray, go into your closet, shut your door, and pray to your
-    Father, who is unseen. And your Father, who sees what is done in secret,
-    will reward you.”
-  ],
+  epigraph: epigraph,
   epigraph-source: [Matthew 6:6],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

@@ -32,4 +32,8 @@
   page-margin: (top: 0.9in, bottom: 0.6in, outside: 0.6in, inside: 0.5in),   // Lulu: under 60 pages
   show-outline: false
 )
-#include "chapters/modern/sermon.typ"
+// set a hair tighter, so the last note's marker and its text fall on the same page (print_check's footnote warning)
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/sermon.typ"
+]
