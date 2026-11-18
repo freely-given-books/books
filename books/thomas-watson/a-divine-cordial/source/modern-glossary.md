@@ -40,6 +40,26 @@ How the Modern English edition renders words that meant something else to the au
 | armor of proof | armor proof |
 | indecencies | improprieties |
 | a pass (to heaven) | a passport |
+| engaged (pledged) | pledged |
+| tempered (mixed, compounded) | compounded, blended |
+| conversation (holy conference = talk) | kept (modern sense) |
+| charity (kindly love, against malice) | kindness |
+| indifferent (love to passing things) | cool; (things) left to our choice |
+| ravished (with delight) | enraptured |
+| may not (= may well) | may; might not |
+| institutions (God's) | ordinances |
+| civil (things, against religion) | secular |
+| lightness | levity |
+| send abroad | send out |
+| politician (worldly-wise statesman) | statesman |
+| interest (God's in his people) | relation |
+| studies (our welfare) | plans for |
+| stain (the pride, Isa 23:9) | tarnish |
+| disconsolacy | a comfortless state |
+| passion (anger) | anger |
+| wrought | produced |
+
+Kept (2026-11-17 re-check also): improved (grace tested and improved), correct (ours are only to correct), cunning (angler), prevent (danger), creatures (silly creatures = men; higher creatures = angels), Mammon, singular(ly).
 
 Kept: cordial (the title word, among medical images), sovereign (medicine, elixir), revival, office, try, appear for,
 make bold with, peculiar to, consumption (his disease figure), complexion, quickening (means of), temper (heavenly).

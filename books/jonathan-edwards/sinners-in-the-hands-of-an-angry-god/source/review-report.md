@@ -7,8 +7,8 @@
 
 | kind | count |
 | --- | --- |
-| case | 1160 |
-| emendation | 351 |
+| case | 1161 |
+| emendation | 350 |
 | punctuation | 158 |
 | spelling | 110 |
 | italic | 75 |
@@ -372,7 +372,6 @@
 - [sermon.typ] Day's → day's opportunity
 - [sermon.typ] Opportunity → 
 - [sermon.typ] slung → thrown
-- [sermon.typ] the Door , → 
 - [sermon.typ] Him , that → him who
 - [sermon.typ] that → who
 - [sermon.typ] that → and
@@ -706,6 +705,7 @@
 - Deliverance → deliverance (×2)
 - Difficulty → difficulty (×2)
 - Discourse → discourse (×2)
+- Door → door (×2)
 - Escape → escape (×2)
 - Executions → executions (×2)
 - Experience → experience (×2)
@@ -815,7 +815,6 @@
 - Dispensation → dispensation
 - Disturbance → disturbance
 - Dominion → dominion
-- Door → door
 - Dreams → dreams
 - Duration → duration
 - Dust → dust
