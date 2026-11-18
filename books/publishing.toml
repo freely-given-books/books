@@ -8,10 +8,14 @@
 #   note  anything particular to this book's import, for the site's Claude
 #   ready the editor called the book ready to sign as it stands at this
 #         commit (./fgb release ready BOOK; signed with its Lulu revision)
-#   paperback  false: no paperback of the book on its own; the site offers
-#         none for it, not even "coming soon"
+#   paperback  true: a printed copy is offered (its Lulu link, shown once the
+#         site is built with PRINT_ON_SALE=on). Unset: digital only, the site
+#         says nothing of a paperback (the editor, 2026-11-18: a gentle launch
+#         with Simon Magus, Domestical Duties and Glorious Feast in print).
+#         false: no paperback of its own (printed in a volume)
 
 ["anonymous/the-anatomy-of-simon-magus"]
+paperback = true
 ready = { date = "2026-11-01", commit = "0dd6a9c" }
 lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
 
@@ -32,11 +36,12 @@ ready = { date = "2026-11-17", commit = "7efbb30" }
 lulu = "https://www.lulu.com/shop/jonathan-edwards-and-courtney-hicks/sinners-in-the-hands-of-an-angry-god/paperback/product-65w6dz7.html"
 
 ["richard-sibbes/the-glorious-feast-of-the-gospel"]
+paperback = true
 ready = { date = "2026-11-17", commit = "7efbb30" }
 lulu = "https://www.lulu.com/shop/richard-sibbes/the-glorious-feast-of-the-gospel/paperback/product-w4ywv7q.html"
 
 ["thomas-brooks/precious-remedies-against-satans-devices"]
-ready = { date = "2026-11-18", commit = "4d75bc4" }
+ready = { date = "2026-11-18", commit = "b949cdb" }
 lulu = "https://www.lulu.com/shop/thomas-brooks/precious-remedies-against-satans-devices/paperback/product-dy7vjp4.html"
 
 ["thomas-brooks/the-secret-key-of-heaven"]
@@ -44,6 +49,7 @@ ready = { date = "2026-11-17", commit = "7efbb30" }
 lulu = "https://www.lulu.com/shop/thomas-brooks-and-courtney-hicks/the-secret-key-of-heaven/paperback/product-65dnrmr.html"
 
 ["william-gouge/domestical-duties"]
+paperback = true
 ready = { date = "2026-11-18", commit = "c77860b" }
 lulu = [
   "https://www.lulu.com/shop/william-gouge/domestical-duties-volume-1/paperback/product-dy759jz.html",
@@ -99,3 +105,12 @@ description = "How to tell true religion from its counterfeits: true religion li
 ["thomas-gouge/the-surest-way-of-thriving"]
 year = 1673
 description = "Thomas Gouge on Christ's promise that a cup of cold water given in his name shall not lose its reward (Matthew 10:41–42): giving to the poor is no loss, but the surest way of thriving."
+
+["jonathan-edwards/sinners-in-the-hands-of-an-angry-god/modern"]
+ready = { date = "2026-11-18", commit = "2a9f376" }
+
+["charles-spurgeon/all-of-grace/modern"]
+ready = { date = "2026-11-18", commit = "2a9f376" }
+
+["thomas-watson/a-divine-cordial/modern"]
+ready = { date = "2026-11-18", commit = "2a9f376" }

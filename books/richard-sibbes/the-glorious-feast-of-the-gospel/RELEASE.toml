@@ -19,3 +19,15 @@ url = "https://www.monergism.com/"
 [[witness]]
 description = "The earlier Freely Given Books copy (a Grosart-type text, 1862), corrected against 1650"
 url = ""
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (richard-sibbes/the-glorious-feast-of-the-gospel/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+# based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []
