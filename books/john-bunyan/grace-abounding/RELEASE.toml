@@ -37,3 +37,15 @@ url = "https://archive.org/details/worksofjohnbunya01buny"
 [[witness]]
 description = "Grace Abounding, Religious Tract Society edition (1905), 'as nearly as possible' the eighth edition: Project Gutenberg #654, transcribed by David Price; a voter in the transcription: source/transcription-report.md"
 url = "https://www.gutenberg.org/ebooks/654"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (john-bunyan/grace-abounding/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+# based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []
