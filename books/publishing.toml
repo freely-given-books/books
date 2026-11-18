@@ -77,7 +77,7 @@ paperback = false
 ready = { date = "2026-11-17", commit = "7efbb30" }
 
 ["thomas-watson/a-divine-cordial"]
-ready = { date = "2026-11-08", commit = "86f79c9" }
+ready = { date = "2026-11-18", commit = "f12fff8" }
 
 # year (first published), description (a sentence or two for readers) and tags
 # go to books.freely.giving in site.json (colophon 0.50.0); tags default to
