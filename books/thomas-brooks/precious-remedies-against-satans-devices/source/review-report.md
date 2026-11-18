@@ -9,7 +9,7 @@
 | spelling | 1541 |
 | punctuation | 1088 |
 | spacing | 658 |
-| emendation | 533 |
+| emendation | 534 |
 | note | 222 |
 | case | 136 |
 | italic | 123 |
@@ -410,6 +410,7 @@
 - [doubting-05.typ note] 58 → 5
 - [doubting-05.typ] St . Together → saint together
 - [doubting-05.typ] The → 5. The
+- [doubting-05.typ] world → flesh
 - [doubting-06.typ note] . Mic . 7 . → :
 - [doubting-06.typ note] Psal → Ps 42:5
 - [doubting-06.typ note] 42 . 5 , → 

@@ -153,6 +153,7 @@ The sweep of 2026-11-16 (`work/false-friends-2026-11-16/precious-remedies-agains
 | liquor | liquid |
 | corn | grain |
 | surprised | overtaken |
+| stand with God for a trifle | fall out with God over a trifle (his own "break with God for a little" in the same paragraph; the editor, 2026-11-18) |
 
 Also applied where the draft had missed this glossary: Dives → the rich man; cordial → heart-medicine.
 Kept: sad (as above), dolors [sorrows] (Isidore's rhyme; a bracket on the Latin-English pun), Bridewell, peremptory,
