@@ -61,7 +61,7 @@ lulu = "https://www.lulu.com/shop/courtney-hicks/the-1689-baptist-confession-of-
 ready = { date = "2026-11-18", commit = "79ced9d" }
 
 ["thomas-boston/the-crook-in-the-lot"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-18", commit = "6647157" }
 
 ["john-owen/of-temptation"]
 ready = { date = "2026-11-17", commit = "7efbb30" }
@@ -84,6 +84,7 @@ ready = { date = "2026-11-18", commit = "f12fff8" }
 # ["classic"]. Books the site already has keep the owner's own text.
 
 ["john-owen/indwelling-sin"]
+ready = { date = "2026-11-18", commit = "6647157" }
 year = 1668
 description = "Owen on Romans 7:21, “I find then a law, that, when I would do good, evil is present with me”: the power and deceit of the sin that remains in believers, and how it works against the law and grace of God in them."
 
