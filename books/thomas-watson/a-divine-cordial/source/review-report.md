@@ -4,9 +4,9 @@
 | --- | --- |
 | punctuation | 650 |
 | italic | 350 |
-| emendation | 221 |
+| emendation | 222 |
 | level | 208 |
-| spelling | 135 |
+| spelling | 136 |
 | heading | 32 |
 | spacing | 20 |
 | note | 20 |
@@ -91,6 +91,7 @@
 - [chapter-04.typ note] Psal . → Ps
 - [chapter-04.typ note] od → ad
 - [chapter-04.typ note] do → de
+- [chapter-04.typ note] Peccato rum → Peccatorum
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
 - [chapter-04.typ note] estpeccatum → est peccatum
 - [chapter-04.typ note] temporecum → tempore cum
@@ -946,6 +947,7 @@
 - 37 → 37:
 - 4 → 4.
 - Bee → Be
+- Born → Bern
 - Brethreo → Brethren
 - Chymistry → Chemistry
 - Eli's → Elis
