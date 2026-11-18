@@ -53,7 +53,11 @@
 
 #include "chapters/typ/sin-05.typ"
 
-#include "chapters/typ/sin-06.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/sin-06.typ"
+]
 
 #include "chapters/typ/sin-07.typ"
 

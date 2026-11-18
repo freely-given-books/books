@@ -61,7 +61,11 @@
 
 #include "chapters/modern/sin-07.typ"
 
-#include "chapters/modern/sin-08.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/sin-08.typ"
+]
 
 #include "chapters/modern/sin-09.typ"
 
@@ -69,7 +73,11 @@
 
 #include "chapters/modern/sin-11.typ"
 
-#include "chapters/modern/sin-12.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/sin-12.typ"
+]
 
 = Part II. Devices to Keep Souls from Holy Duties
 
