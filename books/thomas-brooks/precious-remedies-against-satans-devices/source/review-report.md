@@ -7,16 +7,16 @@
 | kind | count |
 | --- | --- |
 | spelling | 1541 |
-| punctuation | 1081 |
-| spacing | 634 |
-| emendation | 510 |
+| punctuation | 1088 |
+| spacing | 658 |
+| emendation | 534 |
 | note | 222 |
 | case | 136 |
-| italic | 113 |
+| italic | 123 |
 | gap | 33 |
 | grammar | 26 |
+| note moved | 5 |
 | expansion | 3 |
-| note moved | 3 |
 | split | 2 |
 | merge | 1 |
 
@@ -115,7 +115,15 @@
 - [sin-01.typ note] Vale lunen → Vale lumen
 - [sin-01.typ note] Ambrose → 
 - [sin-01.typ] now adayes → nowadays
-- [sin-01.typ] Mat . → Matthew
+- [sin-01.typ] the → Matt
+- [sin-01.typ] of → 
+- [sin-01.typ] Mat → 
+- [sin-01.typ] the → Rom
+- [sin-01.typ] Rom . → :
+- [sin-01.typ] v . → 
+- [sin-01.typ] Rom → 
+- [sin-01.typ] ver . → 
+- [sin-01.typ] Job → :
 - [sin-01.typ] to day → today
 - [sin-02.typ note] at → et
 - [sin-02.typ] sheeps - → sheep's
@@ -178,6 +186,8 @@
 - [sin-06.typ] a fresh → afresh
 - [sin-06.typ] is → is as
 - [sin-07.typ] . ver . → :
+- [sin-07.typ] the → Prov
+- [sin-07.typ] Prov → 
 - [sin-07.typ] a loft → aloft
 - [sin-07.typ] a gogg → agog
 - [sin-07.typ] Psal . → Ps
@@ -188,8 +198,11 @@
 - [sin-08.typ note] Psal . → Ps
 - [sin-08.typ note] Psal . → Ps
 - [sin-08.typ] interestin → interest in
-- [sin-08.typ] Psal . → Ps
-- [sin-08.typ] Psal . → Ps
+- [sin-08.typ] that → Ps
+- [sin-08.typ] Psal . → :
+- [sin-08.typ] verses → 
+- [sin-08.typ] the → Ps
+- [sin-08.typ] Psal . → :
 - [sin-08.typ] made up on → mad upon
 - [sin-09.typ note] Vedib bartignal → Vedibbartignal
 - [sin-09.typ note] . Ch → ch
@@ -202,7 +215,8 @@
 - [sin-09.typ] then hel → than hell.
 - [sin-09.typ] soul , → soul's
 - [sin-09.typ] ruf → rough-
-- [sin-09.typ] Dan . → Deut
+- [sin-09.typ] that → Deut
+- [sin-09.typ] Dan → 
 - [sin-09.typ] is → in
 - [sin-10.typ note] look ; → looks
 - [sin-10.typ note] Mat . → Matt
@@ -227,7 +241,9 @@
 - [sin-11.typ note] from → from ענה
 - [sin-11.typ] honey combe → honeycomb
 - [sin-11.typ] I → ay
-- [sin-11.typ] Psal . → Ps
+- [sin-11.typ] the → the Ps
+- [sin-11.typ] Psal → 
+- [sin-11.typ] v . → 
 - [sin-12.typ note] bath → bath with
 - [sin-12.typ note] v . → 
 - [sin-12.typ note] 3 . Remedy . → 
@@ -261,11 +277,15 @@
 - [duties-01.typ] np → up
 - [duties-01.typ] castdown → cast down
 - [duties-01.typ] in → -
+- [duties-01.typ] the → Gen
+- [duties-01.typ] Gen → 
 - [duties-01.typ] . It → it
 - [duties-01.typ] Eccles . → Eccl
 - [duties-01.typ] . v . → :
 - [duties-02.typ note] assoon → as soon
 - [duties-02.typ note] in → 
+- [duties-02.typ] that → John
+- [duties-02.typ] John → :
 - [duties-03.typ note] . v . → :
 - [duties-03.typ note] . ult . 3 . Remedy → :31
 - [duties-03.typ note] were → worn
@@ -390,6 +410,7 @@
 - [doubting-05.typ note] 58 → 5
 - [doubting-05.typ] St . Together → saint together
 - [doubting-05.typ] The → 5. The
+- [doubting-05.typ] world → flesh
 - [doubting-06.typ note] . Mic . 7 . → :
 - [doubting-06.typ note] Psal → Ps 42:5
 - [doubting-06.typ note] 42 . 5 , → 
@@ -400,8 +421,11 @@
 - [doubting-06.typ note] 9 → 9 ch
 - [doubting-06.typ note] Mat . → Matt
 - [doubting-06.typ note] Psal . → Ps
-- [doubting-06.typ note] Psal . → Ps
-- [doubting-06.typ note] Psal . → Ps
+- [doubting-06.typ note] the → Ps
+- [doubting-06.typ note] Psal . → :
+- [doubting-06.typ note] . v . → 
+- [doubting-06.typ note] the → Ps
+- [doubting-06.typ note] Psal . → :
 - [doubting-07.typ note] Chron . → Chr
 - [doubting-07.typ note] . ch . → :
 - [doubting-07.typ note] Jud . → Judg
@@ -650,16 +674,17 @@
 - [sin-01.typ] . → :
 - [sin-01.typ] ▪ → 
 - [sin-01.typ] . → :
+- [sin-01.typ] . → ,
 - [sin-01.typ] & → and
-- [sin-01.typ] . → 
-- [sin-01.typ] . → 
 - [sin-01.typ] ( → 
 - [sin-01.typ] . → 
 - [sin-01.typ] . → :
+- [sin-01.typ] . → . Rom
 - [sin-01.typ] . → 
-- [sin-01.typ] . → 
+- [sin-01.typ] . → :
 - [sin-01.typ] ▪ → 
-- [sin-01.typ] , → :
+- [sin-01.typ] . → . Job
+- [sin-01.typ] . → 
 - [sin-01.typ] . → 
 - [sin-01.typ] . → :
 - [sin-02.typ note] . → ,
@@ -727,6 +752,7 @@
 - [sin-06.typ] . → 
 - [sin-06.typ] . → :
 - [sin-06.typ] . → 
+- [sin-06.typ] . → :
 - [sin-06.typ] . → 
 - [sin-06.typ] . → :
 - [sin-06.typ] . → 
@@ -743,6 +769,7 @@
 - [sin-07.typ] . → :
 - [sin-07.typ] . → 
 - [sin-07.typ] . → :
+- [sin-07.typ] . → ,
 - [sin-07.typ] . → 
 - [sin-07.typ] . → :
 - [sin-07.typ] , → 
@@ -788,6 +815,8 @@
 - [sin-09.typ] . → :
 - [sin-09.typ] . → :
 - [sin-09.typ] . → :
+- [sin-09.typ] . → 
+- [sin-09.typ] . → :
 - [sin-09.typ] ▪ → .
 - [sin-09.typ] ▪ → ,
 - [sin-10.typ note] . → :
@@ -816,6 +845,7 @@
 - [sin-11.typ] ; → ,
 - [sin-11.typ] , → ;
 - [sin-11.typ] . → 
+- [sin-11.typ] . → :
 - [sin-11.typ] ? → ,
 - [sin-11.typ] , → ?
 - [sin-12.typ note] . → 
@@ -867,6 +897,7 @@
 - [duties-01.typ] . → ?
 - [duties-01.typ] . → ,
 - [duties-01.typ] . → 
+- [duties-01.typ] . → :
 - [duties-01.typ] , → 
 - [duties-01.typ] & → and
 - [duties-01.typ] ? → .
@@ -875,6 +906,7 @@
 - [duties-02.typ note] & → and
 - [duties-02.typ note] . → ?
 - [duties-02.typ note] & → and
+- [duties-02.typ] . → 
 - [duties-02.typ] . → ?
 - [duties-03.typ note] . → 
 - [duties-03.typ note] & → and
@@ -1188,8 +1220,6 @@
 - [doubting-06.typ note] . → :
 - [doubting-06.typ note] . → 
 - [doubting-06.typ note] . → :
-- [doubting-06.typ note] . → 
-- [doubting-06.typ note] , → :
 - [doubting-06.typ] & → and
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
@@ -1204,6 +1234,7 @@
 - [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → :
+- [doubting-07.typ note] . → ,
 - [doubting-07.typ note] . → 
 - [doubting-07.typ note] . → :
 - [doubting-07.typ note] . → :
@@ -2006,7 +2037,7 @@
 - Luk → Luke
 - Luther → Luther,
 - Lyon → lion
-- Manasses → Manasseh'
+- Manasses → Manasseh's
 - Mat → Matt
 - Mathew → Matthew
 - Maximimilians → Maximilian's
