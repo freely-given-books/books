@@ -16,7 +16,7 @@ ready = { date = "2026-11-01", commit = "0dd6a9c" }
 lulu = "https://www.lulu.com/shop/anonymous-and-conley-owens-and-courtney-hicks/the-anatomy-of-simon-magus/paperback/product-gjpymn4.html"
 
 ["charles-spurgeon/all-of-grace"]
-ready = { date = "2026-11-01", commit = "260d2b4" }
+ready = { date = "2026-11-18", commit = "494cf54" }
 lulu = "https://www.lulu.com/shop/charles-spurgeon/all-of-grace/paperback/product-q6dwn5w.html"
 
 ["john-bunyan/grace-abounding"]
