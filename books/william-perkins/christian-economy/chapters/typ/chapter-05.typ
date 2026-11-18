@@ -18,7 +18,7 @@ Distance of blood is then just and lawful, when neither of the persons that are 
 
 Kindred is of two sorts, consanguinity, or affinity.
 
-Kindred in consanguinity, are those which issue from out, & the same common blood or stock. And there be certain degrees, whereby kinsmen of this sort are distinguished one from another.
+Kindred in consanguinity, are those which issue from one & the same common blood or stock. And there be certain degrees, whereby kinsmen of this sort are distinguished one from another.
 
 A degree is a generation or descent between two persons that are of the same blood. For one person cannot make a degree, unless he be considered relatively in regard of generation.
 
@@ -87,7 +87,7 @@ The equal collateral line, is that, whereby kinsmen are equally distant from the
 
 Kinsmen of this line, are,
 
-+ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father or mother, or half sisters by one of them and not by both.
++ Whole brothers, that is, brothers by the same father and mother, or half brothers, that is, brethren by the same father, but not by the same mother. Again whole sisters by the same father and mother, or half sisters by one of them and not by both.
 + The brother's children or cousin germans; that is, the uncle's sons or daughters, or the aunt's sons or daughters. The sister's children, or cousin germans; that is, the aunt's sons or daughters, which are the children of two sisters.
 + The cousin german, the son of the great uncle by the father's or mother's side, and the cousin german the son of the great aunt, by the father's or mother's side. The cousin-german the daughter of the great uncle, by the father's or mother's side, and the cousin german, the daughter of the great aunt by the same sides.
 
@@ -207,7 +207,7 @@ First, the Canaanites long before these laws were given by #emph[Moses] to the I
 
 Fourthly, nature it self by proper instinct, abhorreth such kind of conjunctions, & the prohibitions of them, have sufficient ground, even from her principles. For to this purpose it is, that not only the laws of the Roman Emperors, but also the civil Canons and constitutions of men, very skilful in that kind, have in all ages expressly been made against such persons, as have offended in those societies forbidden by the law of #emph[Moses.]
 
-#emph[Fifthly, The Lord himself hath denounced many and great punishments to be inflicted upon the breach of the same laws.] Lev 20:11. The man that lieth with his father's wife, because he hath uncovered his father's shame, they shall both die; their blood shall be upon them. #emph[vers.] 12. The man that lieth with his daughter in law, they both shall die the death; they have wrought abomination; their blood shall be upon them. #emph[vers.] 14. He that takes a wife and her mother, committeth wickedness; they shall burn him and them with fire. #emph[vers.] 16. The man that taketh his sister, his father's daughter, or his mother's daughter, and seeth her shame, and she seeth his shame; it is villainy: therefore they shall be cut off in the sight of their people. #emph[vers.] 20. The man that lieth with his father's brother's wife, and uncovereth his uncle's shame, they shall bear their iniquity, & shall die childless. Deut 23:2. A bastard shall not enter into the congregation of the Lord, even to his tenth generation. Deut 27:20. Cursed be he that lieth with his father's wife.
+#emph[Fifthly, The Lord himself hath denounced many and great punishments to be inflicted upon the breach of the same laws.] Lev 20:11. The man that lieth with his father's wife, because he hath uncovered his father's shame, they shall both die; their blood shall be upon them. #emph[vers.] 12. The man that lieth with his daughter in law, they both shall die the death; they have wrought abomination; their blood shall be upon them. #emph[vers.] 14. He that takes a wife and her mother, committeth wickedness; they shall burn him and them with fire. #emph[vers.] 17. The man that taketh his sister, his father's daughter, or his mother's daughter, and seeth her shame, and she seeth his shame; it is villainy: therefore they shall be cut off in the sight of their people. #emph[vers.] 20. The man that lieth with his father's brother's wife, and uncovereth his uncle's shame, they shall bear their iniquity, & shall die childless. Deut 23:2. A bastard shall not enter into the congregation of the Lord, even to his tenth generation. Deut 27:20. Cursed be he that lieth with his father's wife.
 
 The third essential sign of a person marriageable, is ability and fitness for procreation. And this in an holy and modest sort is always supposed to be in the party contracted, unless the contrary be manifestly known, & discerned by some apparent infirmity in the body.
 

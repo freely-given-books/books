@@ -90,3 +90,7 @@ $ typst compile --root ../../../ --input front-only=true --format png --ppi 150 
 The second command renders the front panel alone, at the trim size: the
 ebook cover (the `EPUB` setting's `cover` names `cover.typ`, so `./fgb`
 does this itself) and a picture for the web.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `christian-economy-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the brief in work/modern-english/economy-brief.md (five drafters, slices in work/modern-english/economy/), then meaning-audited (work/modern-english/audit-economy).
