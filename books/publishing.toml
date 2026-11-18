@@ -69,7 +69,7 @@ ready = { date = "2026-11-17", commit = "7efbb30" }
 paperback = false
 
 ["john-owen/the-mortification-of-sin"]
-ready = { date = "2026-11-01", commit = "0dd6a9c" }
+ready = { date = "2026-11-18", commit = "ffa70e1" }
 # printed only with Of Temptation, in Owen on Sin (books/john-owen/owen-on-sin; the editor, 2026-11-05)
 paperback = false
 
