@@ -93,7 +93,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-14" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-17" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2003-08</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -2403,7 +2403,7 @@ wilt not be the poorer, but rather a great gainer. For thereby wilt
 thou procure God's blessing upon <choice><orig>thy self</orig><reg resp="#editor" type="emendation">thyself</reg></choice> and children, which in
 truth is all in all; and without which, all is like to come to nothing,
 as <choice><orig>wee</orig><reg resp="#auto" type="spelling">we</reg></choice> see by daily experience; which made St. <hi>Austin</hi> say, <hi>Haeredi
-praestabis, quicquid misericordiae causa de ejus <choice><orig>portione</orig><reg resp="#auto" type="spelling">portion</reg></choice> detraxeris,</hi> Aug.
+praestabis, quicquid misericordiae causa de ejus <choice><orig>portione</orig><reg resp="#editor" type="spelling">portione</reg><reg resp="#auto" type="spelling">portion</reg></choice> detraxeris,</hi> Aug.
 <choice><orig>de</orig><reg resp="#auto" type="spelling">De</reg></choice> Tempore, Serm. 76. That which thou givest out of thine estate to
 charitable uses, will be no loss to thy children, but rather a great ad<g ref="char:EOLhyphen"/>vantage.
 Yea the Spirit of God in setting forth the happiness of a

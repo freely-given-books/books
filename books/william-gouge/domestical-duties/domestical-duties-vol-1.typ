@@ -70,7 +70,11 @@
 
 #metadata[Love That Purifies the Unclean] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 34–47])) <kicker>
-#include "chapters/typ/vol-1/05-love-that-purifies-the-unclean.typ"
+// letter spacing a hair looser keeps §. 38's heading off the foot of p. 90 (print_check's page warning)
+#[
+  #set text(tracking: 0.0025em)
+  #include "chapters/typ/vol-1/05-love-that-purifies-the-unclean.typ"
+]
 
 #metadata[Redeemed for Glory] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 48–52])) <kicker>

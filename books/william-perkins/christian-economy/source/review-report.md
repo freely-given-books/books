@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 628 |
-| spacing | 338 |
+| punctuation | 627 |
+| spacing | 337 |
 | spelling | 296 |
-| emendation | 186 |
+| emendation | 202 |
 | italic | 128 |
 | case | 38 |
 | gap | 9 |
@@ -77,8 +77,11 @@
 - [chapter-02.typ] Psalm . → Ps
 - [chapter-02.typ] Psal . → Ps
 - [chapter-02.typ] or → of
+- [chapter-02.typ] 6 → 7
 - [chapter-02.typ] Psalm . → Ps
+- [chapter-02.typ] 18 → 17
 - [chapter-02.typ] Psa . → Ps
+- [chapter-02.typ] 1 → 2
 - [chapter-02.typ] Hest . → Esth
 - [chapter-02.typ] Zachar . → Zech
 - [chapter-02.typ] Philem . 1 . → Phlm
@@ -107,6 +110,8 @@
 - [chapter-04.typ] Matth . → Matt
 - [chapter-05.typ note] Dei → De ciuit. Dei
 - [chapter-05.typ note] Chap . → Chapter
+- [chapter-05.typ] out , → one
+- [chapter-05.typ] or → and
 - [chapter-05.typ] Levit . → Lev
 - [chapter-05.typ] Genes . → Gen
 - [chapter-05.typ] 13 . Thamar → Tamar
@@ -131,6 +136,7 @@
 - [chapter-05.typ] vers → v
 - [chapter-05.typ] Ezech . → Ezek
 - [chapter-05.typ] Levit . → Lev
+- [chapter-05.typ] 16 → 17
 - [chapter-05.typ] Matth . → Matt
 - [chapter-05.typ] vers . → Verse
 - [chapter-05.typ] Philip . → Phil
@@ -145,12 +151,17 @@
 - [chapter-06.typ] v . → Verse
 - [chapter-06.typ] vers → v
 - [chapter-06.typ] Matth . → Matt
+- [chapter-06.typ] 18 → 18, 19
+- [chapter-07.typ] conveniently → conveniently be
+- [chapter-08.typ] are → are not
 - [chapter-08.typ] Matth . → Matt
 - [chapter-08.typ] Jerem . → Jer
 - [chapter-08.typ] Numb . → Num
+- [chapter-08.typ] 6 . → 
 - [chapter-08.typ] . Requires → requires
 - [chapter-08.typ] in → 
 - [chapter-08.typ] . And → ;
+- [chapter-08.typ] 27 → 28
 - [chapter-08.typ] Gen → Gen 2:24
 - [chapter-08.typ] 2 . 24 , → 
 - [chapter-08.typ] Joh . → John
@@ -169,6 +180,7 @@
 - [chapter-10.typ] . Affirming → affirming
 - [chapter-10.typ] Hebr . → Heb
 - [chapter-10.typ] v . → Verse
+- [chapter-10.typ] 4 → 4, 5
 - [chapter-10.typ] Levit . → Lev
 - [chapter-10.typ] intents → in tents
 - [chapter-10.typ] Zach . → Zech
@@ -178,6 +190,7 @@
 - [chapter-10.typ] Matth . → Matt
 - [chapter-10.typ] Ephes . → Eph
 - [chapter-10.typ] Cantic . → Song
+- [chapter-10.typ] 1 → 2
 - [chapter-10.typ] Esay → Isa
 - [chapter-10.typ] 7 → 5
 - [chapter-11.typ] Ephes . → Eph
@@ -205,15 +218,18 @@
 - [chapter-13.typ] Ephes → Eph 6:4
 - [chapter-13.typ] 6 → 
 - [chapter-13.typ] 3 → 
+- [chapter-13.typ] 23 → 23, 24
 - [chapter-13.typ] 26 → 2
 - [chapter-13.typ] Josu . → Josh
 - [chapter-14.typ note] parfactis → parentum factis
 - [chapter-14.typ] Colos . → Col
 - [chapter-14.typ] Numb . → Num
+- [chapter-14.typ] 6 → 5
 - [chapter-15.typ] Ephes . → Eph
 - [chapter-15.typ] Colos . → Col
 - [chapter-15.typ] Psal . → Ps
 - [chapter-15.typ] Act . → Acts
+- [chapter-15.typ] intercession → intermission
 - [chapter-15.typ] Levit . → Lev
 - [chapter-15.typ] Luk . → Luke
 - [chapter-15.typ] Mat . → Matt
@@ -487,8 +503,7 @@
 - [chapter-08.typ] . → 
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → ,
-- [chapter-08.typ] . → :
-- [chapter-08.typ] . → ,
+- [chapter-08.typ] . → :3,
 - [chapter-08.typ] . → ,
 - [chapter-08.typ] . → :
 - [chapter-08.typ] . → 

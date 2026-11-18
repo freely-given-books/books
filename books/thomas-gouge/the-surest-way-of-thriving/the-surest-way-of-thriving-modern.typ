@@ -30,7 +30,11 @@
 // page (./fgb pdf page checks)
 
 #include "chapters/modern/ch01-the-text-opened.typ"
-#include "chapters/modern/ch02-the-least-of-his-saints.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/ch02-the-least-of-his-saints.typ"
+]
 #[
   #set text(tracking: 0.015em)
   #include "chapters/modern/ch03-the-main-point.typ"

@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 651 |
+| punctuation | 650 |
 | italic | 350 |
-| emendation | 218 |
+| emendation | 222 |
 | level | 208 |
-| spelling | 135 |
+| spelling | 136 |
 | heading | 32 |
 | spacing | 20 |
 | note | 20 |
@@ -91,6 +91,7 @@
 - [chapter-04.typ note] Psal . → Ps
 - [chapter-04.typ note] od → ad
 - [chapter-04.typ note] do → de
+- [chapter-04.typ note] Peccato rum → Peccatorum
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
 - [chapter-04.typ note] estpeccatum → est peccatum
 - [chapter-04.typ note] temporecum → tempore cum
@@ -108,6 +109,7 @@
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] Chron . → Chr
 - [chapter-04.typ] ample xus → amplexus
+- [chapter-04.typ] sense → fence
 - [chapter-04.typ] SECTION III . Showing that the evil of Desertion works for good to the Godly . → 
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] 9 → 4
@@ -130,6 +132,7 @@
 - [chapter-05.typ] CHAP . V . → 
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] 7 → 6
 - [chapter-05.typ] Ephes . → Eph
 - [chapter-05.typ] Cant . → Song
 - [chapter-05.typ] 16 → 6
@@ -152,7 +155,7 @@
 - [chapter-06.typ] . 31 → :21, 22
 - [chapter-06.typ] 7 → 8
 - [chapter-06.typ] Luk . → Luke
-- [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] Psal . 106 . 41 → Ps 105:25
 - [chapter-06.typ] 10 → 9
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
@@ -244,6 +247,7 @@
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
 - [chapter-11.typ] 9 → 29
+- [chapter-11.typ] sounded → founded
 - [chapter-11.typ] SECT . VI . Showing the end of Effectual Calling . → 
 - [chapter-11.typ] I → Ay
 - [chapter-12.typ] CHAP . XII . → 
@@ -580,7 +584,6 @@
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
-- [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
@@ -944,6 +947,7 @@
 - 37 → 37:
 - 4 → 4.
 - Bee → Be
+- Born → Bern
 - Brethreo → Brethren
 - Chymistry → Chemistry
 - Eli's → Elis

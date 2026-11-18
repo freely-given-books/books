@@ -47,7 +47,7 @@ Thirdly, it is not meet, it is not convenient nor expedient, that any should be 
 
 Fourthly, loud prayers may be a hindrance and disturbance to others that may be busied near us in some religious or civil exercises.
 
-Fifthly and lastly, Hannah prayed and yet spoke never a word. Her heart was full, but her voice was not heard (1 Sam 1:11). Moses prays and cries and yet lets fall never a word. “And the LORD said unto Moses, Wherefore criest thou unto me?” (Exod 14:15). Moses did not cry with any audible voice but with inward sighs, and secret breathings, and wrestlings of soul. And these inward and secret cries, which made no noise, carried the day with God; for Moses is heard and answered, and his people are delivered. Oh, the prevalence of those prayers that make no noise in the ears of others!
+Fifthly and lastly, Hannah prayed and yet spoke never a word. Her heart was full, but her voice was not heard (1 Sam 1:13). Moses prays and cries and yet lets fall never a word. “And the LORD said unto Moses, Wherefore criest thou unto me?” (Exod 14:15). Moses did not cry with any audible voice but with inward sighs, and secret breathings, and wrestlings of soul. And these inward and secret cries, which made no noise, carried the day with God; for Moses is heard and answered, and his people are delivered. Oh, the prevalence of those prayers that make no noise in the ears of others!
 
 === e. Those That Hinder and Discourage Others from This Duty of Duties
 

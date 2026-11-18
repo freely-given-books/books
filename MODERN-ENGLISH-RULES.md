@@ -24,6 +24,9 @@ same text anymore").
 4. The print's italics stay (as in the reading edition), where they are emphasis. Where a 17th-
    century print sets a quotation in italics instead of quotation marks (Owen's 1658 and 1675
    prints), the Modern English sets it in roman inside quotation marks, as modern books do.
+5. **Hymns and verse** the author quotes from hymnals keep their printed wording (thee, thou, hath,
+   "Convinc’d"), for their rhyme and meter (the editor, 2026-11-15, All of Grace); the Modern
+   modernizes the author's prose and his Scripture around them.
 
 ## 2. Sentences (the "level 3" of the pilots)
 
@@ -59,7 +62,9 @@ same text anymore").
    own drive), **efficient cause**, **principle** (a source of action: "a principle of grace"),
    **frame** (of heart or spirit), **habit**. Where a term needs help, keep it and explain it
    ("by virtue of the work done"; "a real working on the very nature of sin" for "physical
-   efficiency"), never trade it for a vaguer word.
+   efficiency"), never trade it for a vaguer word. (Since 2026-11-16 an explanation is only for such
+   a technical term that no modern word can carry; any other word whose sense has shifted is
+   replaced, §3.6.)
 5. **Old words read in their old sense**: countenance (favor, not excuse), virtually (in virtue
    and power, not "in principle" or "almost"), admire (wonder at), studying (scheming),
    comfortable (strengthening), to the purpose (effectually), sometimes (at times, not "for a
@@ -68,6 +73,60 @@ same text anymore").
    kept, even in a rebuilt sentence. "The man who stands still and takes blow after blow without
    resisting will be conquered in the end", not "Whoever stands still". "No man who truly sets
    himself", not "No one".
+
+6. **False friends are replaced, not glossed** (the editor, 2026-11-16). A word that still exists but meant
+   something else to the author ("enthusiasts", "professors", "doubted" for feared, "convinced" of sin, "prevent"
+   for go before) is replaced in the text with the modern word that carries his sense, chosen by context (one old
+   word may need different renderings) and kept consistent within the book: "Most aren't going to look at a footnote
+   or even a parenthesis and have that stick in their head through the book." Only the misleading word or the
+   smallest phrase changes; the sentence, its order and the author's voice stay ("I want the authorship
+   recognizable yet modernly readable … we just need to be keen on words that have different meanings too, like
+   gay"). A light reorder is allowed only where the replacement leaves a hard sentence; words merely old-fashioned
+   but still read rightly are left alone. **A gloss** (in parentheses, brackets or "that is, …") is kept only for
+   the author's own technical term that his argument depends on, where no modern word can carry it; the author's
+   own explanations (in the Classic too) are his text and stay. Scripture quotations (BSB as adjusted) and verse
+   are not touched; a word of a verse the author expounds keeps the verse's word in his exposition too (Owen's
+   "slightly", Jer 6:14; Edwards's "the earnest of the Spirit"). Each book records its choices in
+   `source/modern-glossary.md`; the 2026-11-16 sweep of every Modern edition is in `work/false-friends-2026-11-16/`.
+
+   **The common ones and their usual renderings** (check the sense in each place):
+
+   | Old word (its old sense) | Usual rendering |
+   |---|---|
+   | professors (of religion), profession | professing Christians, profession of faith |
+   | enthusiasm, enthusiastic, enthusiasts | fanaticism, fanatical, fanatics |
+   | convince, convinced (of sin), convictions (conscience's verdict) | convict, convicted, (accusing) conscience |
+   | security, secure (careless ease) | complacency, complacent |
+   | discover, discovery, discoveries (show, things shown) | reveal, show, revelation(s); in Edwards manifestation(s) |
+   | communicate, communication (of grace) | impart, imparting, give |
+   | apprehension(s), apprehend (perceive) | perception(s), grasp, understanding; perceive |
+   | sensible, sensibly (felt, aware) | felt, perceptible, aware; perceptibly |
+   | improve (turn to use) | make use of, use, turn to; (money) increase |
+   | close with (Christ, a temptation) | embrace, accept |
+   | interest (in Christ, the covenant) | share; (Satan's) claim, hold; (a person's) cause |
+   | own, owned (acknowledge) | acknowledge, confess |
+   | temper (disposition) | disposition, temperament |
+   | passion (anger) | anger |
+   | humors (bodily) | infection |
+   | virtue (power) | power |
+   | motions (of sin, of the Spirit) | stirrings, impulses, promptings |
+   | indifferent (things) | neither good nor bad, neither commanded nor forbidden |
+   | peculiar (to) | special, distinctive, found only in |
+   | still (always), presently, anon | always, at once, soon |
+   | want (lack), wants (needs) | lack, need(s) |
+   | suffer (allow), prove / try (test) | allow, test |
+   | jealous (over) | watchful |
+   | mere (pure), the mere pleasure of God | sheer, pure; the sheer good pleasure of God |
+   | arbitrary (God's free will) | sovereign, unconstrained |
+   | condescension (God's) | his gracious stooping to us |
+   | humiliation (being humbled) | humbling (Edwards's "evangelical humiliation" waits on the editor) |
+   | aggravation(s) (of sin) | what makes it worse, added weight |
+   | engage (oblige) | bind, oblige |
+   | universal (in all things) | in all things, complete |
+   | forward (eager) | eager, zealous |
+   | the creature (created things) | created things |
+   | doubted (feared), surprised (overtaken) | feared, overtaken |
+   | starve (die of cold), closet (private room), conversation (conduct), prevent (go before), let (hinder), meat (food) | as §3.2 |
 
 ## 4. You and you⁺
 
@@ -155,6 +214,11 @@ Reviewers and correction passes do not reopen these; a finding against one is no
   ch. 10), though "desert" may be meant. Only printers' errors and wrong references are corrected.
 
 ## 7a. The meaning audit (every book, before the editor's read)
+
+**Since 2026-11-17 the method lives in the `modern-english` skill** (`.claude/skills/modern-english/`): its scripts,
+briefs, the false-friend lexicon, two offset reader passes with proven coverage, targeted checks (false friends,
+split points, Scripture lean), a review of every edit pass, and which model and effort does each job. The steps
+below are the first books' audit, kept for the record.
 
 Scripts in `work/modern-english/` (Mortification's run: `audit-2026-11-14/`):
 

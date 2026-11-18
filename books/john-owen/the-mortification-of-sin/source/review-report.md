@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 481 |
+| punctuation | 480 |
 | spelling | 432 |
-| emendation | 374 |
+| emendation | 375 |
 | italic | 239 |
 | level | 191 |
 | spacing | 121 |
@@ -12,6 +12,7 @@
 | heading | 20 |
 | inset | 14 |
 | case | 6 |
+| list | 4 |
 | gap | 1 |
 | note moved | 1 |
 | skipped | 1 |
@@ -267,6 +268,7 @@
 - [chapter-12.typ note] 1 . 11 . → 
 - [chapter-12.typ note] Cant , → Song
 - [chapter-12.typ] thy self → thyself
+- [chapter-12.typ] . 13 , 14 , 15 → :12–25
 - [chapter-12.typ] . Yet → yet
 - [chapter-12.typ] Joh . → John
 - [chapter-12.typ] vers → v
@@ -737,7 +739,6 @@
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
-- [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
 - [chapter-12.typ] . → :
 - [chapter-12.typ] . → 
