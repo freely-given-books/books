@@ -38,6 +38,14 @@ line of prose CCEL put inside a verse. Two witnesses were compared with it
   whose book file left out the whole Tenth Stage of Part I and set the
   Apology as running prose.
 
+Where CCEL's text looked wrong, the early prints decide (the editor,
+2026-11-17; scans on archive.org, cached in `work/pilgrim-scans/`): the
+1678 for Part I ("straight as a rule", "lions' den"), the 1679 (the
+first with Mr. Worldly Wiseman) for "Mark 8:34" where CCEL has 8:38, and
+the 1684 first edition of Part II for "God make it a true saying" (CCEL
+"made") and the Keeper's question (CCEL's label "Keep:", now "Keeper:";
+the 1684 marks his speech by italics only).
+
 Verse is set line by line: as an indented quotation in the narrative, as
 plain stanzas in the sections made of verse (the Apology, the Conclusion,
 the Author's Way). CCEL's small capitals (the Author's Way's "Objection" and

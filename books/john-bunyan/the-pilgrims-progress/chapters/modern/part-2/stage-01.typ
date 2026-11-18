@@ -69,7 +69,7 @@ Oh, sir, she said, I am faint; there is scarcely any life left in me. But he ans
 
 #speech[#smallcaps[Mercy]: I have come for that to which I was never invited, as my friend Christiana was. Hers was from the King, and mine was only from her. So I fear I presume.]
 
-#speech[#smallcaps[Keep]: Did she ask you to come with her to this place?]
+#speech[#smallcaps[Keeper]: Did she ask you to come with her to this place?]
 
 #speech[#smallcaps[Mercy]: Yes; and, as my Lord sees, I have come. And if there is any grace and forgiveness of sins to spare, I beg that your poor handmaid may be a partaker of it.]
 
