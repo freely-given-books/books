@@ -3,9 +3,9 @@
 | kind | count |
 | --- | --- |
 | punctuation | 394 |
-| emendation | 102 |
+| emendation | 103 |
 | spacing | 94 |
-| spelling | 66 |
+| spelling | 70 |
 | case | 39 |
 | merge | 2 |
 | split | 1 |
@@ -23,6 +23,7 @@
 - [part-1/stage-01.typ] Tit . → Titus
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-01.typ] Ex . → Exod
+- [part-1/stage-01.typ] 38 → 34
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-02.typ] picture → picture of
 - [part-1/stage-02.typ] may → , May
@@ -566,6 +567,7 @@
 - Habak → Hab
 - Hosea → Hos
 - Hymenius → Hymenaeus
+- Keep → Keeper
 - Kings → Kgs
 - Micah → Mic
 - Mnason → Mnason.
@@ -583,6 +585,8 @@
 - knew → know
 - land → land,
 - lillies → lilies
+- lion’s → lions’
+- made → make
 - of’ → of
 - pilgrims → pilgrims’
 - pilgrim’s → pilgrims
@@ -592,6 +596,7 @@
 - shew → show
 - similtudes → similitudes
 - straight → strait
+- strait → straight
 - sufferet → suffered
 - sure → sure,
 - them → then

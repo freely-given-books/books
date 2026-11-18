@@ -15,6 +15,9 @@ Three layers, never mixed (the editor, 2026-11-05):
 The reading edition is spelling-modernized; grammar and wording change only where a rule below
 says so.
 
+The Modern English edition, a second edition beside the reading edition, has its own rules:
+`MODERN-ENGLISH-RULES.md`.
+
 ## 1. Choosing the base
 
 Case by case, with the evidence shown to the editor (2026-11-08):

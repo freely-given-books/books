@@ -89,10 +89,19 @@
     let lv = if level == none or shaped { figure-level(f) } else { level }
     if level != none and not shaped and level > 0 {
       let n = int(f.captures.at(1))
-      return spaced(lv, {
-        show regex("^\\d{1,2}\\.(\\s|,|$)"): it => mark-text(lv, n) + it.text.slice(it.text.position(".") + 1)
-        plain-par(body)
-      })
+      // only the paragraph's opening figure: a "12." later in it (after "vers.", a note) stays
+      // (the figure may come in pieces, "1" and "." of `1\.`: take the opening pieces up to
+      // the end of the figure, so the rule cannot reach a figure further on)
+      let kids = if body.has("children") { body.children } else { (body,) }
+      let k = 1
+      while k < kids.len() and kids.slice(0, k).map(lead-text).join("").match(FIGURE) == none { k += 1 }
+      return spaced(lv, plain-par({
+        {
+          show regex("^\\d{1,2}\\.(\\s|,|$)"): it => mark-text(lv, n) + it.text.slice(it.text.position(".") + 1)
+          kids.slice(0, k).join()
+        }
+        kids.slice(k).join()
+      }))
     }
     return spaced(lv, if original != none { original } else { plain-par(body) })
   }

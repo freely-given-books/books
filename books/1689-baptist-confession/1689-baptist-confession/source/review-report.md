@@ -7,6 +7,7 @@
 | spacing | 78 |
 | punctuation | 4 |
 | note | 1 |
+| case | 1 |
 
 ## emendation
 
@@ -771,6 +772,10 @@
 - [orthodox-catechism/section-1.typ note] ; → ; Phil
 - [orthodox-catechism/section-3.typ note] . → :
 - [orthodox-catechism/section-3.typ note] . → :
+
+## case
+
+- holy → Holy
 
 ## spelling
 

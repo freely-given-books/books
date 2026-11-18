@@ -90,7 +90,12 @@
   let back-x = BLEED
   let spine-x = BLEED + trim-width
   let front-x = spine-x + spine
-  let dim = ink.transparentize(50%)
+  // no transparency on a cover (Lulu flattens it into image tiles: plate_cover.typ):
+  // a dimmed ink is the ink mixed with the colour behind it
+  let solid(f) = if type(f) == gradient { f.sample(50%) } else { f }
+  let behind-front = solid(if panel != none { panel } else if front-ground != none { front-ground } else { ground })
+  let behind-back = solid(ground)
+  let dim = color.mix((ink, 50%), (behind-front, 50%))
 
   set text(font: SERIF, fill: ink)
   set page(width: page-width, height: page-height, margin: 0pt) if not front-only
@@ -141,7 +146,7 @@
         }
         if imprint != none {
           v(0.07in)
-          text(size: 9pt, style: "italic", fill: ink.transparentize(25%), imprint)
+          text(size: 9pt, style: "italic", fill: color.mix((ink, 75%), (behind-front, 25%)), imprint)
         }
         v(0.16in)
         line(length: 100%, stroke: 0.5pt + accent)
@@ -231,7 +236,7 @@
         if back-lead != none {
           block(width: 100%, inset: (x: 0.1in), {
             set par(justify: false, leading: 0.7em)
-            text(size: 11pt, fill: ink.transparentize(10%), back-lead)
+            text(size: 11pt, fill: color.mix((ink, 90%), (behind-back, 10%)), back-lead)
           })
           v(0.35in)
         }

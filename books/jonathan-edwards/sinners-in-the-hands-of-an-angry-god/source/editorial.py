@@ -54,6 +54,8 @@ REPORT_NOTES = [
 EPUB = {"title": "Sinners in the Hands of an Angry God", "author": "Jonathan Edwards",
         "file": "sinners-in-the-hands-of-an-angry-god.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css"]}
-PRINT = ["sinners-in-the-hands-of-an-angry-god.typ"]
+        "css": ["../../resources/css/ebook.css"],
+        "modern": {"chapters": "chapters/modern", "file": "sinners-in-the-hands-of-an-angry-god-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["sinners-in-the-hands-of-an-angry-god.typ", "sinners-in-the-hands-of-an-angry-god-modern.typ"]
 QUOTE_BLOCK = True

@@ -1,0 +1,264 @@
+# Modern English edition: rules
+
+The press's standing decisions for the Modern English edition, a second edition beside a book's
+reading edition (`EDITION-RULES.md`), for readers who find 17th- and 18th-century English hard
+going, those reading English as a second language included. Settled with the editor on two pilots,
+Edwards's *Sinners in the Hands of an Angry God* and Owen's *The Mortification of Sin*
+(2026-11-13/14, `work/modern-english/`). When a book raises something not covered here, ask the
+editor once, then add the answer.
+
+The aim, in the editor's words: modernize **without losing the author's voice**, easy to read and
+still recognizable. It is not an abridgment and not a retelling (as Updated Works is: "not even the
+same text anymore").
+
+## 1. Nothing is left out
+
+1. **Every sentence's matter stays**: each point, argument, proof, objection and answer, Scripture
+   reference, illustration and image. No summarizing, no shortening of digressions, no dropping of
+   "repetitions".
+2. **Paragraph for paragraph.** The modern text has the same paragraphs as the reading edition,
+   in the same order, with the author's own numbering and outline marks (I., 1., (1.), [1.],
+   *First,*), so the two can be read side by side.
+3. Greek, Hebrew and Latin the author quotes stay, with his own rendering of them where he gives
+   one (Owen: Εἰ θανατοῦτε, "if you⁺ put to death").
+4. The print's italics stay (as in the reading edition), where they are emphasis. Where a 17th-
+   century print sets a quotation in italics instead of quotation marks (Owen's 1658 and 1675
+   prints), the Modern English sets it in roman inside quotation marks, as modern books do.
+5. **Hymns and verse** the author quotes from hymnals keep their printed wording (thee, thou, hath,
+   "Convinc’d"), for their rhyme and meter (the editor, 2026-11-15, All of Grace); the Modern
+   modernizes the author's prose and his Scripture around them.
+
+## 2. Sentences (the "level 3" of the pilots)
+
+1. **Long periods are split** into sentences of modern length, in natural word order. Owen's
+   460-word paragraph on sin "always acting" became some twenty plain sentences, every clause kept.
+2. Joining words that carried the old period ("whereby", "wherein", "so that", "whence") become
+   plain ones ("so", "that is why", "for this reason"), or a new sentence.
+3. The author's **own phrase stays wherever it is still plain modern English**: "its waters are
+   usually deepest where they are still"; "He has changed his master, but he is a servant still".
+4. Where a phrase must change, take the nearest plain words, **never a fresh image of our own**.
+   Rejected in the pilot: "out of tune" for Owen's "unframes our spirit" (now "unsettles our
+   spirit"); "rain blows on him" for "double blows upon him" (read as literal rain; now "takes
+   blow after blow").
+5. **An early-modern "?" used as an exclamation becomes "!" or "."** ("What folly is it to trust
+   in other saviors?" → "What folly it is to trust in other saviors!"), and tags like "and what
+   not?" are rephrased ("and who knows what else."); real rhetorical questions stay questions.
+
+## 3. Words
+
+1. **Grammar** is modern: hath → has, -eth → -s, doth → does, 'tis → it is, thou art → you are.
+2. **Obsolete or misleading words** give way to the plain word that means what the author meant:
+   awful (awe-full) → fearful, mere pleasure → sheer good pleasure, suffered → allowed,
+   prevent (go before) → precede, conversation → conduct, meat → food, humour (a bodily fluid) →
+   infection, fly → flee, yea → yes, indeed.
+3. **A Reformed theological register.** Words a Reformed reader and preacher actually use, close to
+   the author's own: mortify, justification, sanctification, grace, saints, the flesh, lusts,
+   indwelling sin, regeneration, means of grace. A doctrinal term is never traded for a vaguer
+   one.
+   **Effectual / effectually stays** (the editor, 2026-11-14): it carries its theological sense
+   (effectual calling, effectual grace), so it is never modernized to "effective".
+   The same holds for the author's other technical terms, which a Reformed reader knows or can
+   learn: **efficacy** (of Christ's death, the covenant, prayer, means; "force" only for sin's
+   own drive), **efficient cause**, **principle** (a source of action: "a principle of grace"),
+   **frame** (of heart or spirit), **habit**. Where a term needs help, keep it and explain it
+   ("by virtue of the work done"; "a real working on the very nature of sin" for "physical
+   efficiency"), never trade it for a vaguer word. (Since 2026-11-16 an explanation is only for such
+   a technical term that no modern word can carry; any other word whose sense has shifted is
+   replaced, §3.6.)
+5. **Old words read in their old sense**: countenance (favor, not excuse), virtually (in virtue
+   and power, not "in principle" or "almost"), admire (wonder at), studying (scheming),
+   comfortable (strengthening), to the purpose (effectually), sometimes (at times, not "for a
+   time").
+4. **Gendered language stays** (the editor, 2026-11-14): the author's man, men, he, brethren are
+   kept, even in a rebuilt sentence. "The man who stands still and takes blow after blow without
+   resisting will be conquered in the end", not "Whoever stands still". "No man who truly sets
+   himself", not "No one".
+
+6. **False friends are replaced, not glossed** (the editor, 2026-11-16). A word that still exists but meant
+   something else to the author ("enthusiasts", "professors", "doubted" for feared, "convinced" of sin, "prevent"
+   for go before) is replaced in the text with the modern word that carries his sense, chosen by context (one old
+   word may need different renderings) and kept consistent within the book: "Most aren't going to look at a footnote
+   or even a parenthesis and have that stick in their head through the book." Only the misleading word or the
+   smallest phrase changes; the sentence, its order and the author's voice stay ("I want the authorship
+   recognizable yet modernly readable … we just need to be keen on words that have different meanings too, like
+   gay"). A light reorder is allowed only where the replacement leaves a hard sentence; words merely old-fashioned
+   but still read rightly are left alone. **A gloss** (in parentheses, brackets or "that is, …") is kept only for
+   the author's own technical term that his argument depends on, where no modern word can carry it; the author's
+   own explanations (in the Classic too) are his text and stay. Scripture quotations (BSB as adjusted) and verse
+   are not touched; a word of a verse the author expounds keeps the verse's word in his exposition too (Owen's
+   "slightly", Jer 6:14; Edwards's "the earnest of the Spirit"). Each book records its choices in
+   `source/modern-glossary.md`; the 2026-11-16 sweep of every Modern edition is in `work/false-friends-2026-11-16/`.
+
+   **The common ones and their usual renderings** (check the sense in each place):
+
+   | Old word (its old sense) | Usual rendering |
+   |---|---|
+   | professors (of religion), profession | professing Christians, profession of faith |
+   | enthusiasm, enthusiastic, enthusiasts | fanaticism, fanatical, fanatics |
+   | convince, convinced (of sin), convictions (conscience's verdict) | convict, convicted, (accusing) conscience |
+   | security, secure (careless ease) | complacency, complacent |
+   | discover, discovery, discoveries (show, things shown) | reveal, show, revelation(s); in Edwards manifestation(s) |
+   | communicate, communication (of grace) | impart, imparting, give |
+   | apprehension(s), apprehend (perceive) | perception(s), grasp, understanding; perceive |
+   | sensible, sensibly (felt, aware) | felt, perceptible, aware; perceptibly |
+   | improve (turn to use) | make use of, use, turn to; (money) increase |
+   | close with (Christ, a temptation) | embrace, accept |
+   | interest (in Christ, the covenant) | share; (Satan's) claim, hold; (a person's) cause |
+   | own, owned (acknowledge) | acknowledge, confess |
+   | temper (disposition) | disposition, temperament |
+   | passion (anger) | anger |
+   | humors (bodily) | infection |
+   | virtue (power) | power |
+   | motions (of sin, of the Spirit) | stirrings, impulses, promptings |
+   | indifferent (things) | neither good nor bad, neither commanded nor forbidden |
+   | peculiar (to) | special, distinctive, found only in |
+   | still (always), presently, anon | always, at once, soon |
+   | want (lack), wants (needs) | lack, need(s) |
+   | suffer (allow), prove / try (test) | allow, test |
+   | jealous (over) | watchful |
+   | mere (pure), the mere pleasure of God | sheer, pure; the sheer good pleasure of God |
+   | arbitrary (God's free will) | sovereign, unconstrained |
+   | condescension (God's) | his gracious stooping to us |
+   | humiliation (being humbled) | humbling (Edwards's "evangelical humiliation" waits on the editor) |
+   | aggravation(s) (of sin) | what makes it worse, added weight |
+   | engage (oblige) | bind, oblige |
+   | universal (in all things) | in all things, complete |
+   | forward (eager) | eager, zealous |
+   | the creature (created things) | created things |
+   | doubted (feared), surprised (overtaken) | feared, overtaken |
+   | starve (die of cold), closet (private room), conversation (conduct), prevent (go before), let (hinder), meat (food) | as §3.2 |
+
+## 4. You and you⁺
+
+1. thou, thee, thy, ye, you all become **you / your**.
+2. **The plural carries a small mark**, you⁺ (a superscript plus), so the singular/plural
+   distinction of the original is not lost: Scripture's "ye" (Rom 8:13, Gal 5:17, Isa 7:9) and the
+   author turning to all his readers (Owen: "You⁺ know the example of David").
+3. The singular, the author's "thou" to the single reader, is unmarked.
+4. Where the original already writes "you" for both (Edwards, 1741, preaching to a congregation),
+   mark only the plurals that matter to the sense; a mark in every line helps no one.
+
+## 5. Scripture
+
+1. **Quotations are from the BSB.**
+2. **The BSB is adjusted lightly where the author's argument rests on the King James wording**
+   (the editor, 2026-11-14), changed just there and no more:
+   - Jas 4:5: Owen reads it as sin's spirit in us, so the BSB's "the Spirit He caused to dwell in us
+     yearns with envy" becomes "the spirit that dwells in us yearns with envy".
+   - Rom 6:6, Eph 4:22, Col 3:9: "old man" for the BSB's "old self", where the author builds on
+     the picture of a person.
+3. The author's **paraphrases** of Scripture stay his, in modern words; only what he quotes as
+   Scripture becomes BSB. **Quote only what he quotes**: a partial quotation is not filled out to
+   the whole verse (Owen's "the LORD will have mercy, and our God will abundantly pardon",
+   Isa 55:7, without the verse's condition), and a paraphrase is not turned into a quotation.
+4. References as in the reading edition (John 3:16, 1 Thess 2:5).
+
+## 6. Making it
+
+1. Drafted from the reading edition's `chapters/typ`, paragraph by paragraph.
+2. Read side by side with the reading edition; a check that no sentence's matter is missing or
+   added (each paragraph's points counted on both sides).
+3. The editor reviews before it is built.
+
+## 7. Lessons from the first book (Mortification, 2026-11-14)
+
+Two complete editorial assessments (8.4 and 8.5 of 10, "publish after a light correction pass") found
+what a draft must be checked for before it goes to the editor:
+
+1. **Reversals.** A clause recast can say the opposite ("the breaches of the old are repaired" for
+   "according to the renovations of the new are the breaches and decays of the old"). Read every
+   rebuilt sentence against Owen for its direction, not only its words.
+2. **The quotation his exposition leans on.** Where the author explains a word of the verse ("She
+   knew his voice"; "I cannot look up", proving weakness; "revenge" on sin), the quoted words keep
+   that word, the BSB adjusted (rules §5), even where the BSB rendering is good in itself.
+3. **Pronouns that change persons** when a sentence is rebuilt ("a burden to God, though only one is
+   a burden to him"; "the soul … they"); name the person ("the man himself").
+4. **The print's italics** stay on the word that replaces an italic word.
+5. **A title of the Holy Spirit** ("a Spirit of judgment") keeps its capital where the author applies
+   it to him, whatever the BSB's case.
+6. **Plural marks** for one construction everywhere ("You⁺ will say" each time Owen turns to his readers).
+7. **A quotation spliced into narration** keeps its grammar (not "David's work when 'in my heart I
+   mused'"); use indirect speech.
+8. **The front note** (print epigraph page and ebook front) says how Scripture and you⁺ are handled (the editor,
+   2026-11-15): “Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his
+   argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You⁺” marks a plural “you”
+   (the older “ye”), once in a sentence; a plain “you” is singular or general.” (work/modern-english/scaffold.py writes it;
+   front-note.py changed the books of 2026-11-14/15.)
+9. **The BSB loses the author's word more often than anything else.** The meaning audit found
+   some twenty places where the argument rests on one word of the verse and the BSB lacks it
+   ("all our works in us", Isa 26:12; "cannot do", Gal 5:17; "slightly", Jer 6:14; "perfect",
+   Phil 3:15; "through the Spirit", 1 Pet 1:22; "mine iniquity", Ps 18:23; "brutish", Prov 30:2;
+   "although he adds drunkenness to thirst", Deut 29:19). For each quotation ask: does the
+   next sentence lean on a word of it? If so, that word stays (rules §5).
+10. **An ambiguous sentence in the Classic is settled from the author’s own printing**, not from a
+   reviewer's reading of the later editor's punctuation (6:7: Goold's commas make "not … always
+   stirring up" possible; the 1668 edition's parentheses, "(though not under that formal
+   Consideration,) alwayes stirring up", settle it).
+
+## 7b. Wordings the editor settled
+
+Reviewers and correction passes do not reopen these; a finding against one is noted, not taken:
+- Owen's "unframes" → "unsettles" (our spirit, the soul); never "out of tune".
+- "double blows upon him" → "takes blow after blow"; never "rain blows".
+- "effectual / effectually" stays, Mortification 14:20 included (not "efficiently").
+- Gendered language: "the man", "no man", "men".
+- Edition headings in the author's own words keep them in the Modern: "As a Means, by Removing the
+  Contrary" (Mortification ch. 4), not "What Opposes It".
+- Edwards's own quoted words stay where he puts them in quotation marks: Sinners ¶21, he will only "laugh" and "mock"
+  (Prov 1:26), not the BSB's "mock" and "sneer" (the editor, 2026-11-15).
+- Gouge's "thy flesh" in his lists of what is given ("thy bread, or thy flesh, or thy money", The Surest Way
+  ch. 11 and 14) stays "flesh": the giver's own flesh and blood, not meat (the editor, 2026-11-15).
+- "Owned him" (acknowledged, 2 Tim 1:16) → "was not ashamed of him", the verse's own words; not "openly stood by".
+- The author's own slips stay in both editions, as printed: Watson's "Corinthians" for the
+  Macedonians (2 Cor 8:3, A Divine Cordial ch. 7); Owen's "the deceit of sin" (Indwelling Sin
+  ch. 10), though "desert" may be meant. Only printers' errors and wrong references are corrected.
+
+## 7a. The meaning audit (every book, before the editor's read)
+
+**Since 2026-11-17 the method lives in the `modern-english` skill** (`.claude/skills/modern-english/`): its scripts,
+briefs, the false-friend lexicon, two offset reader passes with proven coverage, targeted checks (false friends,
+split points, Scripture lean), a review of every edit pass, and which model and effort does each job. The steps
+below are the first books' audit, kept for the record.
+
+Scripts in `work/modern-english/` (Mortification's run: `audit-2026-11-14/`):
+
+1. `audit-pairs.py`: paragraph pairs, Classic and Modern.
+2. **Fresh readers**, three or four, each a group of chapters (about 20,000 words), given only the
+   pairs and `reader-brief.md`: sentence by sentence, meaning only, findings to a TSV.
+3. `audit-terms.py` / `audit-show.py`: every technical term the Modern drops, read in place.
+4. `audit-negation.py` / `audit-negshow.py`: paragraphs whose negations or limiting words (only,
+   alone, all, always, never) differ, each sentence read against its match.
+5. `audit-scripture.py`: every quotation with its reference against the BSB; each difference must
+   be a deliberate adjustment (§5) or the author's paraphrase.
+6. Each finding settled (accept, adjust, or reject with the reason), the corrections in one
+   script (`<book>-audit-edits.py`), the rules updated with anything new.
+
+Mortification: 49 reader findings, 48 corrections (2026-11-14); no reversal survived, the
+remaining losses were technical terms and Scripture words.
+
+## 8. The two editions
+
+Agreed with the editor, 2026-11-14:
+
+1. **Names: Classic and Modern English.** *Classic* is the reading edition (the author's own words,
+   spelling updated); *Modern English* is this one. Never "Original" (that is the as-printed text)
+   or "Updated" (Updated Works).
+2. **Modern English is a whole second edition**: its own EPUB, print PDF, cover, reader page and
+   print-ready files, and its own Lulu listing. Its text lives in the same book folder,
+   paragraph-matched to the Classic chapters, built from the same layout.
+3. **The website keeps one entry per book.** The book page switches between Classic and Modern
+   English (downloads, reader, Lulu link); the library card says "Also in Modern English".
+4. **A site-wide setting picks the edition a reader sees first; the default is Classic.** Every
+   book has a Classic edition, it is the text the press stands behind, and a reader who searched
+   for the author's words finds them. A reader who chooses Modern English keeps it (remembered in
+   the browser; the site has no accounts) and sees it on every book that has one; a book without
+   one shows its Classic, marked "Modern English coming". A link can carry the edition
+   (`?ed=modern`), so a shared link opens the edition it was shared in, whatever the reader's own
+   setting.
+5. **The cover** is the Classic cover (same art and colours) with a small "MODERN ENGLISH" label in
+   the house type and a mark on the spine, so the two are told apart on a shelf.
+6. **Latin, Greek or Hebrew the author leaves untranslated** is translated in **square brackets**
+   straight after it, so our words are never taken for the author's own parentheses:
+   "Non habuit guttam, quia non dedit micam [He had not a drop, because he gave not a crumb]".
+   Where the author translates it himself, nothing is added. The Classic text is left as the
+   author wrote it.

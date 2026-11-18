@@ -15,7 +15,7 @@ sha256 = "b696a71fc48ffedfae7a98745cc2552687ab1b50f28800718819714c4c6fd9e5"
 file = "source/A65292.supplied.xml"
 description = "Corrections to the TCP transcription from the 1663 page images (\"out\" for \"our\", \"dejected\", Latin misprints in the TCP, among others)"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663"
-sha256 = "658278afc8387c8e7364fa7c302f3513f4d5d9a55fbb9cc974dc0e5a6b0a7981"
+sha256 = "1a83a00f4688d4a916a6ff961f6ebf7e8cefa382a2716e225950a151807fb549"
 
 [[source]]
 file = "source/cordial.ccel.witness.xml"
@@ -31,3 +31,14 @@ url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-co
 [[witness]]
 description = "The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161)"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-watson/a-divine-cordial/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = "v3"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

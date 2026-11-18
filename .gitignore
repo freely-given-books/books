@@ -14,6 +14,7 @@ __pycache__/
 *.xhtml
 !ebook-front.html
 !ebook-front-vol-*.html
+!ebook-front-modern.html
 !ebook-appendix.html
 
 # Built PDFs and EPUBs, for books whose builds are reproducible from the
@@ -35,6 +36,10 @@ books/thomas-brooks/the-secret-key-of-heaven/cover.pdf
 books/thomas-brooks/the-secret-key-of-heaven/*.epub
 books/jonathan-edwards/sinners-in-the-hands-of-an-angry-god/*.pdf
 books/jonathan-edwards/sinners-in-the-hands-of-an-angry-god/*.epub
+books/jonathan-edwards/god-glorified-in-mans-dependence/*.pdf
+books/jonathan-edwards/god-glorified-in-mans-dependence/*.epub
+books/thomas-gouge/the-surest-way-of-thriving/*.pdf
+books/thomas-gouge/the-surest-way-of-thriving/*.epub
 books/john-bunyan/grace-abounding/*.pdf
 books/john-bunyan/grace-abounding/*.epub
 books/benjamin-keach/the-gospel-ministers-maintenance-vindicated/*.pdf
@@ -77,3 +82,6 @@ books/1689-baptist-confession/1689-baptist-confession/*.epub
 books/**/source/ocr/ocr-witnesses/
 books/thomas-watson/a-divine-cordial/*.pdf
 books/thomas-watson/a-divine-cordial/*.epub
+
+# a plate cover's ground pass (colophon fgb.cover_ground), rebuilt with every cover
+books/*/*/.cover*-ground.png

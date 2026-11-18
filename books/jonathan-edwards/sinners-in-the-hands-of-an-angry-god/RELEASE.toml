@@ -16,3 +16,14 @@ sha256 = "9600c9fdc53098be5a21c4442d6eb522abadaad73e82c7cfde8e93ec2f7029ef"
 [[witness]]
 description = "The Berean Standard Bible, for the scripture quotations: source/proofread-report.md"
 url = "https://berean.bible/"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (jonathan-edwards/sinners-in-the-hands-of-an-angry-god/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = "v10"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

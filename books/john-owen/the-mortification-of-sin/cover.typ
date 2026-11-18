@@ -13,11 +13,15 @@
 #let ink = rgb("#F1ECE2")
 #let gold = rgb("#D6A55A")
 
-#plate-cover(
+// opaque: the ink mixed with the ground it sits on, not transparent (Lulu flattens
+// transparency into image tiles: scripts/plate_cover.typ)
+// cover-modern.typ sets the same cover for the Modern English edition, labelled
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: rgb("#3A1E1E"),
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 15pt, tracking: 0.12em,
-      fill: ink.transparentize(35%), body)
+      fill: color.mix((ink, 65%), (rgb("#3A1E1E"), 35%)), body)
     let gilt(body) = text(font: DISPLAY, weight: "bold", size: 22pt,
       tracking: 0.14em, fill: gold, body)
     place(dx: 0.5in, dy: 3.45in, box(width: 4.5in, {
@@ -29,7 +33,7 @@
       v(0.08in)
       gilt[ye shall live.]
       v(0.2in)
-      caps([Romans viii. 13], 9pt, gold.transparentize(20%), tracking: 0.25em)
+      caps([Romans viii. 13], 9pt, color.mix((gold, 80%), (rgb("#3A1E1E"), 20%)), tracking: 0.25em)
     }))
   }),
   title-y: 0.85in,
@@ -58,3 +62,5 @@
   epigraph-source: [From Chapter II],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

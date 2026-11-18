@@ -3,25 +3,43 @@
 # off with a signed tag, john-owen/the-mortification-of-sin/vN (./fgb release sign).
 
 # One or two sentences for the release catalog: the edition, its source.
-summary = "Owen's Of the Mortification of Sin in Believers in Goold's text (1850-53), as CCEL gives it, with two lines CCEL dropped and three slips corrected from Goold's printing, the 1668 second edition agreeing."
+summary = "Owen's Of the Mortification of Sin in Believers from the second edition (London, 1668), the last in Owen's lifetime, EEBO-TCP A53715, its gaps restored from the page and the transcription's slips corrected, with Goold's text (1850-53) as a witness; and a Modern English edition of it."
 
 [[source]]
-file = "source/mort.thml.xml"
-description = "CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53)"
-url = "https://www.ccel.org/ccel/o/owen/mort.xml"
-sha256 = "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211"
-
-[[source]]
-file = "source/A53715.witness.xml"
-description = "EEBO-TCP A53715: Of the Mortification of Sin in Believers, the second edition (London, Nathanael Ponder, 1668), a witness: source/witness-report.md"
+file = "source/A53715.tcp.xml"
+description = "EEBO-TCP A53715: John Owen, Of the Mortification of Sin in Believers (London: printed for Nathanael Ponder, 1668), the second edition: the text"
 url = "https://github.com/textcreationpartnership/A53715"
 sha256 = "4603d4fd73838e698e523487eebb04841f242be20f61b01c3a510bfa35cd661d"
 
+[[source]]
+file = "source/A53715.supplied.xml"
+description = "The transcription's keying slips corrected to the 1668 page, each read on the page image (the TCP file untouched)"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668"
+sha256 = "ecee4bd05ea2b304dbcbd91525759f4233aa0a4df4ed7c623da37ddd780ca6db"
+
+[[source]]
+file = "source/mort.ccel.witness.xml"
+description = "CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53): a witness, and the guide to the outline levels"
+url = "https://www.ccel.org/ccel/o/owen/mort.xml"
+sha256 = "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211"
+
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
-description = "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), archive.org scan and OCR, the printing CCEL follows: source/witness-report.md"
-url = "https://archive.org/details/worksofjohnowe185006owen"
+description = "The 1668 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP: the gaps restored (Greek from the page) and the keying slips"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668"
 
 [[witness]]
-description = "William H. Gross's modernized and annotated text (On the Wing, 2002, published by Monergism), read only to confirm passages; under copyright, not kept"
-url = "https://www.monergism.com/"
+description = "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the edition's base until 2026-11-14: wording and references compared"
+url = "https://archive.org/details/worksofjohnowe185006owen"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (john-owen/the-mortification-of-sin/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+# based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

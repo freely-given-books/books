@@ -46,5 +46,7 @@ def LAYOUT(root):
 EPUB = {"title": "The Crook in the Lot", "author": "Thomas Boston",
         "file": "the-crook-in-the-lot.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-crook-in-the-lot.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "the-crook-in-the-lot-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-crook-in-the-lot.typ", "the-crook-in-the-lot-modern.typ"]
