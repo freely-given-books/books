@@ -182,7 +182,12 @@ EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
         "volumes": [
         {"files": ["vol-1/"], "title": "Of Domestical Duties, Volume I",
          "file": "domestical-duties-vol-1.epub", "cover": "cover-vol-1.typ",
-         "front": "ebook-front-vol-1.html"},
+         "front": "ebook-front-vol-1.html",
+         # volume 1's Modern English edition (MODERN-ENGLISH-RULES.md; terms in
+         # source/modern-glossary.md): its text from chapters/modern/vol-1
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume I",
+                    "file": "domestical-duties-vol-1-modern.epub",
+                    "cover": "cover-vol-1-modern.typ", "front": "ebook-front-vol-1-modern.html"}},
         {"files": ["vol-2/"], "title": "Of Domestical Duties, Volume II",
          "file": "domestical-duties-vol-2.epub", "cover": "cover-vol-2.typ",
          "front": "ebook-front-vol-2.html"},
@@ -192,5 +197,9 @@ EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
         {"files": ["vol-4/"], "title": "Of Domestical Duties, Volume IV",
          "file": "domestical-duties-vol-4.epub", "cover": "cover-vol-4.typ",
          "front": "ebook-front-vol-4.html"}]}
-PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)]
+PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)] + ["domestical-duties-vol-1-modern.typ"]
 SIDE_BY_SIDE = {"split": ["vol-1/", "vol-2/", "vol-3/", "vol-4/"]}
+
+# Look-alike word swaps that are emendations, not spellings (printed, reading), lowercase:
+# vol. 1 ch. 3, Augustine's "Virum multi salutares" is a misprint for "Vtrum" (whether).
+EMENDATION_PAIRS = {("virum", "vtrum")}

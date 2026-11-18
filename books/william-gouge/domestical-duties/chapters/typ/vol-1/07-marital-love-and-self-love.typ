@@ -146,7 +146,7 @@ Negatively, #emph[No man hateth his own flesh.] Affirmatively, and that in two b
 
 Both these are justified by the like affection of Christ to the Church which is his body #emph[(Even as the Lord the Church)] In that the Apostle propoundeth the natural affection of a man’s self to his body as a motive and pattern to Christians, to love their wives, and also justifieth the same by a like affection of Christ to his Church, I observe that
 
-#emph[Natural affection is a thing lawful and commendable:] it is #footnote[Doctr.] an affection which may stand with a good conscience: which God’s word is so far from taking away, as it doth establish it. For such as are #footnote[ἄστοργοι.] #emph[without natural affection]#footnote[2 Tim 3:3.] are directly condemned:#footnote[Rom 1:30.] and we are #footnote[Rom 12:10.] commanded to be so kindly affectioned one to another as #footnote[φιλόστοργοι] we are to our selves. Yea the law in the strict rigour thereof layeth down that natural affection which is in a man to himself as a rule for the love of his neighbour#footnote[Matt 22:39.] (#emph[thou shalt love thy neighbour as thy self.)] Hence is it that the #footnote[Lev 19:18. Isa 58:7.] Prophets, #footnote[1 Cor 12:26. Jas 2:8.] Apostles, and Christ himself do oft call upon us to have an eye to that affection which we bear to our selves. Of this pattern Christ saith, #emph[This is the Law, and the Prophets,]#footnote[Matt 7:12.] this is the brief sum of them, this is it which they do much urge and press.
+#emph[Natural affection is a thing lawful and commendable:] it is #footnote[Doctr.] an affection which may stand with a good conscience: which God’s word is so far from taking away, as it doth establish it. For such as are #footnote[ἄστοργοι.] #emph[without natural affection]#footnote[2 Tim 3:3.] are directly condemned:#footnote[Rom 1:31.] and we are#footnote[Rom 12:10.] commanded to be so kindly affectioned one to another as #footnote[φιλόστοργοι] we are to our selves. Yea the law in the strict rigour thereof layeth down that natural affection which is in a man to himself as a rule for the love of his neighbour#footnote[Matt 22:39.] (#emph[thou shalt love thy neighbour as thy self.)] Hence is it that the #footnote[Lev 19:18. Isa 58:7.] Prophets, #footnote[1 Cor 12:26. Jas 2:8.] Apostles, and Christ himself do oft call upon us to have an eye to that affection which we bear to our selves. Of this pattern Christ saith, #emph[This is the Law, and the Prophets,]#footnote[Matt 7:12.] this is the brief sum of them, this is it which they do much urge and press.
 
 1\. Natural affection was at first created of God, by him #footnote[Reasons.] planted in man, so that as soul, body, the powers, and parts of them, are in their substance good things, this affection also in it self is good.
 
@@ -219,7 +219,7 @@ Hatred is contrary to love: it being therefore before proved #footnote[Reason.] 
 
 2\. #emph[Object.] Holy and wise men deliberately, and on good advice, have #emph[beaten down their bodies,] and yielded their lives #footnote[1 Cor 9:27. Heb 11:35. #emph[etc.]] to be taken away, #emph[not accepting deliverance.]
 
-#emph[Answ.] That was far from hatred, and in great love to themselves, as was showed #footnote[§. 56.] before.
+#emph[Answ.] That was far from hatred, and in great love to themselves, as was showed #footnote[§. 58.] before.
 
 === §. 63. #emph[Of unnatural practises against ones self.]
 
