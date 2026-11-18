@@ -158,3 +158,9 @@ OUTLINE_MARKS = True
 
 # The sign-off of To the Reader: the valediction, then the name in capitals a line of its own
 SIGNATURE_NAME_LINE = True
+
+# Printer's errors corrected in the reading edition that look like spellings (colophon EMENDATION_PAIRS):
+# p. 156 "Gods call is sounded upon his decree" (long s for f), read "founded"; p. 43 "mend his sence" (long s for f,
+# "his fence" printed four lines above), read "fence" (2026-11-17 Modern re-check); 1663 scan 66 margin "Born." (torn corner),
+# read "Bern." with the 1678 edition (the editor, 2026-11-17).
+EMENDATION_PAIRS = {("sounded", "founded"), ("sence", "fence"), ("sense", "fence"), ("Born", "Bern")}

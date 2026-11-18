@@ -6,10 +6,10 @@
 
 | kind | count |
 | --- | --- |
-| spacing | 127 |
-| spelling | 85 |
-| emendation | 24 |
-| punctuation | 7 |
+| spacing | 142 |
+| spelling | 88 |
+| emendation | 26 |
+| punctuation | 20 |
 
 ## emendation
 
@@ -23,6 +23,7 @@
 - [chapter-04.typ] viii → 8
 - [chapter-04.typ] sixpence → a penny
 - [chapter-05.typ] iii → 3
+- [chapter-05.typ] Jesus ‘ → Jesus’
 - [chapter-06.typ] xxxvi → 36
 - [chapter-07.typ] Ephesians → Eph
 - [chapter-07.typ] ii → 2
@@ -31,6 +32,7 @@
 - [chapter-12.typ] mayhap → perhaps
 - [chapter-14.typ] v → 5
 - [chapter-15.typ] v → 5
+- [chapter-15.typ] holiness ‘ → holiness’
 - [chapter-16.typ] be → he
 - [chapter-17.typ] . i . → 1:
 - [chapter-19.typ] . i . → 1:
@@ -40,13 +42,26 @@
 
 ## punctuation
 
+- [chapter-03.typ] ; → ;”
+- [chapter-03.typ] ” → “
+- [chapter-03.typ] . → .”
+- [chapter-03.typ] ” → ‘
+- [chapter-03.typ] ‘ → ’”
 - [chapter-04.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-07.typ] . → :
+- [chapter-08.typ] ‘ → 
+- [chapter-08.typ] . → 
+- [chapter-09.typ] ” → ” “
+- [chapter-09.typ] “ → ”
+- [chapter-09.typ] ” → “
+- [chapter-09.typ] . → .”
 - [chapter-10.typ] . → :
 - [chapter-14.typ] . → :
 - [chapter-15.typ] . → :
+- [chapter-18.typ] — → — “
+- [chapter-18.typ] “ → ”
 
 ## spelling
 
@@ -64,6 +79,7 @@
 - Saviourship → Saviorship
 - Saviour’s → Savior’s
 - Spirt → Spirit
+- Twas → ’Twas
 - almanack → almanac
 - axe → ax
 - checque → check
@@ -78,10 +94,12 @@
 - parcelled → parceled
 - plough → plow
 - pretence → pretense
+- returning → returning.
 - sarpe → spare
 - scarely → scarcely
 - sceptre → scepter
 - sepulchre → sepulcher
+- sir → sir,
 - that → than
 - trangression → transgression
 - upwards → upward

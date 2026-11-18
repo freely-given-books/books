@@ -6,6 +6,7 @@
 import csv, json, re, sys
 from collections import Counter
 from difflib import SequenceMatcher
+from itertools import accumulate
 from html import escape
 from pathlib import Path
 from statistics import median
@@ -18,6 +19,9 @@ sys.path.insert(0, str(W))
 from foundation import key, is_head, TOK, pages_from_export, ccel_text
 
 T = json.loads((W / "foundation.json").read_text())
+# Lines of verse set as paragraphs by the layout pass, put back as their stanza's last line
+# (found 2026-11-15 drafting the Modern English; p. 105, William Hone's hymn, read on the image).
+VERSE_LINE_FIXES = ["Is quell"]                   # the line's opening words
 
 
 # --- geometry: Kraken line -> (left, right, height) from Tesseract's TSV ---------------------
@@ -241,6 +245,53 @@ def mark_italics(toks, geo):
                 if flag[b + d]: toks[words[a + d]]["it"] = True
 
 
+def braces(text):
+    """[(word, italic)] from text with italics in {braces}; a span may open on the page before"""
+    norm = lambda w: re.sub(r"\W", "", w).lower()
+    o, c = text.find("{"), text.find("}")
+    out, on = [], c >= 0 and (o < 0 or c < o)
+    for piece in re.split(r"[\s—–]+", text):
+        it = None
+        for ch in piece:
+            if ch == "{": on = True
+            elif ch == "}": on = False
+            elif ch.isalnum() and it is None: it = on
+        if norm(piece): out.append((norm(piece), bool(it)))
+    return out
+
+
+def apply_italic_fixes(toks):
+    """italic-fixes.tsv: italics read on the page images (2026-11-15), where the slant measure
+    was wrong: page, the words as transcribed with the measured italics in {braces}, and as
+    printed. Each line's words are found on that page and take the printed italics."""
+    f = W / "italic-fixes.tsv"
+    if not f.exists(): return
+    norm = lambda w: re.sub(r"\W", "", w).lower()
+    bypage = {}
+    for i, t in enumerate(toks):
+        if norm(t["t"]): bypage.setdefault(t["p"] - OFFSET, []).append(i)
+    for row in list(csv.reader(open(f), delimiter="\t"))[1:]:
+        page, corrected = int(row[0]), row[2]
+        want, cur = braces(corrected), braces(row[1])
+        idx = bypage.get(page, [])
+        keys = [norm(toks[i]["t"]) for i in idx]      # a small-caps run is one token: match letters
+        starts, s = [], 0
+        for k in keys: starts.append(s); s += len(k)
+        page_s, want_s = "".join(keys), "".join(w for w, _ in want)
+        hits = [m.start() for m in re.finditer(f"(?={re.escape(want_s)})", page_s)
+                if m.start() in starts and (m.start() + len(want_s) == len(page_s) or m.start() + len(want_s) in starts)]
+        flags_at = lambda pos: [toks[idx[max(n for n, st in enumerate(starts) if st <= q)]].get("it", False)
+                                for q in accumulate([pos] + [len(w) for w, _ in cur][:-1])]
+        if len(hits) > 1:                                # the same words twice: the one with these italics
+            hits = [h for h in hits if flags_at(h) == [i for _, i in cur]]
+        if len(hits) != 1:
+            raise SystemExit(f"italic-fixes.tsv: page {page}: {len(hits)} matches for {corrected!r}")
+        pos = hits[0]
+        for w, it in want:
+            k = max(n for n, st in enumerate(starts) if st <= pos)
+            toks[idx[k]]["it"] = it; pos += len(w)
+
+
 def small_caps(toks):
     """runs of capitals -> one token wrapped in SC_ON/SC_OFF, as SC gives them"""
     out, i = [], 0
@@ -418,6 +469,13 @@ def main(out_path):
                 cur = ["p", list(idxs), []]; blocks.append(cur)
             else:
                 cur[1] += idxs
+        # verse lines the geometry set as a paragraph of their own, read on the page image:
+        # each is the last line of the stanza before it (VERSE_LINE_FIXES)
+        for k in range(len(blocks) - 1, 0, -1):
+            kind, idx, _ = blocks[k]
+            words = " ".join(toks[i]["t"] for i in idx[:4])
+            if kind == "p" and blocks[k - 1][0] == "verse" and any(words.startswith(w) for w in VERSE_LINE_FIXES):
+                blocks[k - 1][2].append(len(blocks[k - 1][1])); blocks[k - 1][1] += idx; del blocks[k]
         body.append((chapters[ci][0], blocks))
     for title, blocks in body:
         for kind, idx, _ in blocks:
@@ -427,6 +485,7 @@ def main(out_path):
                 ref = next((n for n, i in enumerate(idx) if toks[i]["t"] in "—–" and n > len(idx) // 2), len(idx))
                 for i in idx[:ref]:
                     if toks[i]["t"][0].isalnum(): toks[i]["it"] = True
+    apply_italic_fixes(toks)
     # emit
     lines = [HEAD]
     lastp = None
