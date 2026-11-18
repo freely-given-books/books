@@ -33,13 +33,12 @@
 
 #include "chapters/modern/chapter-01.typ"
 
-// its letter spacing a little tighter keeps its notes on their markers' pages and its last lines
-// off a page of their own (print_check)
+// its letter spacing a hair looser carries the line with note 12's marker over to the next page,
+// so the note sits on its marker's page (print_check; tighter spacing could not, 2026-11-18)
 #[
-  #set text(tracking: -0.02em)
+  #set text(tracking: 0.005em)
   #include "chapters/modern/chapter-02.typ"
 ]
-// (its note 12, long, is set on the page after its marker at any spacing: accepted)
 
 // its letter spacing a little tighter keeps its notes on their markers' pages and its last lines
 // off a page of their own (print_check)
