@@ -114,3 +114,6 @@ ready = { date = "2026-11-18", commit = "2a9f376" }
 
 ["thomas-watson/a-divine-cordial/modern"]
 ready = { date = "2026-11-18", commit = "2a9f376" }
+
+["john-bunyan/grace-abounding/modern"]
+ready = { date = "2026-11-18", commit = "5c736a3" }
