@@ -43,8 +43,8 @@ First, Set Faith at work on Christ for the #emph[killing] of thy sin. His #emph[
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[(2) Then act #emph[Faith] on the #emph[Death] of Christ, and that under these two #emph[Notions]:#footnote[Phil 3:10. Col 3:3. 1 Pet 1:18.]]]
 
-- 1\. In expectation of #emph[Power.]
-- 2\. In endeavors for #emph[Conformity.]
++ In expectation of #emph[Power.]
++ In endeavors for #emph[Conformity.]
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[For the First, the Direction given in #emph[general] may suffice.]]
 

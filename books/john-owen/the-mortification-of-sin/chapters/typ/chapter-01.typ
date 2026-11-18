@@ -41,9 +41,9 @@ The first thing occurring in the words, as they lie in the entire #emph[Proposit
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[Three things are here to be inquired into,]]
 
-- 1\. What is meant by the #emph[Body.]
-- 2\. What by the #emph[deeds of the Body.]
-- 3\. What by #emph[Mortifying] of them.
++ What is meant by the #emph[Body.]
++ What by the #emph[deeds of the Body.]
++ What by #emph[Mortifying] of them.
 
 #pad(left: 4.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. The #emph[Body] in the close of the verse, is the same with the #emph[Flesh] in the beginning. #emph[If ye live after the flesh, ye shall die,] but if ye #emph[Mortify the deeds of the body]\; that is, of the #emph[flesh.] It is that which the Apostle hath all along discoursed of, under the name of the #emph[flesh,] which is #emph[evident] from the #emph[prosecution] of the #emph[Antithesis] between the #emph[spirit] and the #emph[flesh,] before and after. The #emph[Body] then here is taken for that Corruption and Pravity of our Natures, whereof the Body in a great part is the Seat and Instrument: The very Members of the Body, being made servants unto Unrighteousness thereby, Rom 6:19. It is #emph[Indwelling Sin,] the #emph[corrupted] Flesh, or Lust that is intended. Many #emph[Reasons] might be #emph[given] of this #emph[metonymical] expression, that I shall not now insist on. The #emph[body] here is the same with παλαιὸς ἄνθρωπος, and σῶμα τῆς ἁμαρτίας, the #emph[Old man,] and the #emph[body] of Sin, Rom 6:6 or it may #emph[synecdochically] express the whole #emph[person] considered as corrupted, and the seat of #emph[Lusts,] and distempered Affections.]]
 
