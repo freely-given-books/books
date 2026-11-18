@@ -9,7 +9,7 @@
 
 The directions for the work itself are very few; I mean those that belong particularly to it. They are these:
 
-==== The Work Itself: Act Faith on Christ
+==== The Work Itself: Exercise Faith on Christ
 
 First, set faith to work on Christ for the #emph[killing] of your sin. His blood is the great sovereign remedy for sin-sick souls. Live in this, and you will die a conqueror; indeed, through the good providence of God, you will live to see your lust dead at your feet. But you will say, “How shall faith act on Christ for this end and purpose?” I say, in several ways.
 
