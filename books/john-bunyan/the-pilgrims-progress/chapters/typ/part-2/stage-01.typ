@@ -69,7 +69,7 @@ Oh, sir, said she, I am faint; there is scarce life left in me. But he answered,
 
 #speech[#smallcaps[Mercy]: I am come for that unto which I was never invited, as my friend Christiana was. Hers was from the King, and mine was but from her. Wherefore I fear I presume.]
 
-#speech[#smallcaps[Keep]: Did she desire thee to come with her to this place?]
+#speech[#smallcaps[Keeper]: Did she desire thee to come with her to this place?]
 
 #speech[#smallcaps[Mercy]: Yes; and, as my Lord sees, I am come. And if there is any grace and forgiveness of sins to spare, I beseech that thy poor handmaid may be a partaker thereof.]
 

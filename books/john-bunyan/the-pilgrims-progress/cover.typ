@@ -12,7 +12,9 @@
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.jpg", encoding: none),
   // enlarged, some sky cut away and slid left, so Christian stands clear of
   // the press's seal and the path runs from his feet to the gate
@@ -44,3 +46,5 @@
   // drops the barcode into on the back cover.
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()
