@@ -36,7 +36,7 @@ III. The #emph[way] to prevent it: #emph[watch and pray].
 
 I do not intend to treat the general subject of temptations, but only the danger of them in general, with the means of preventing that danger. Yet, so that we may know what we are asserting and what we are speaking of, some things concerning the general nature of temptation may be laid down first.
 
-First, as for the #emph[general] nature of tempting and temptation, it belongs among things indifferent. To try, to test, to prove, to pierce a cask so that the liquor in it may be known: that is all the word means. That is why God is said at times to tempt. And we are commanded as our duty to tempt, or try, or search ourselves, to know what is in us, and to pray that God would do so too. So temptation is like a knife, which may cut either a man’s meat or his throat; it may be his food or his poison, his exercise or his destruction.
+First, as for the #emph[general] nature of tempting and temptation, it belongs among things neither good nor bad in themselves. To try, to test, to prove, to pierce a cask so that the liquor in it may be known: that is all the word means. That is why God is said at times to tempt. And we are commanded as our duty to tempt, or try, or search ourselves, to know what is in us, and to pray that God would do so too. So temptation is like a knife, which may cut either a man’s meat or his throat; it may be his food or his poison, his exercise or his destruction.
 
 Secondly, temptation in its #emph[special] nature, as it denotes some evil, is considered either actively, as it #emph[leads] to evil, or passively, as it #emph[has] evil and suffering in it. So temptation is taken for affliction (Jas 1:2), for in that sense we are to “consider it pure joy” when we fall into temptation; in the other sense, we are to pray that we “will not enter into temptation.”
 
@@ -50,7 +50,7 @@ Now, as to God’s tempting anyone, two things are to be considered: 1\. the end
 
 (2.) God does it to #emph[show himself] to man, and that:
 
-\[1.\] In the way of #emph[preventing grace], the grace that goes before and keeps us. A man will see that it is God alone who keeps him from all sin. Until we are tempted, we think we live on our own strength. Though all men do this or that, we will not. When the trial comes, we quickly see where our preservation comes from, by standing or falling. So it was in the case of Abimelech: “I have kept you from sinning” (Gen 20:6).
+\[1.\] In the way of #emph[grace that goes before us] and keeps us. A man will see that it is God alone who keeps him from all sin. Until we are tempted, we think we live on our own strength. Though all men do this or that, we will not. When the trial comes, we quickly see where our preservation comes from, by standing or falling. So it was in the case of Abimelech: “I have kept you from sinning” (Gen 20:6).
 
 \[2.\] In the way of #emph[renewing grace]. He would have the temptation remain with Paul, so that he might reveal himself to him in the sufficiency of his renewing grace (2 Cor 12:9). We do not know the power and strength that God puts forth on our behalf, nor the sufficiency of his grace, until it appears to us when we compare the temptation with our own weakness. The efficacy of an antidote is found when poison has been taken, and the preciousness of medicines is made known by diseases. We will never know what strength there is in grace if we do not know what strength there is in temptation. We must be tried, so that we may be made aware of being preserved. And he has many other good and gracious ends that he accomplishes toward his saints by his trials and temptations, which are not to be dwelt on now.
 
@@ -62,7 +62,7 @@ Now, as to God’s tempting anyone, two things are to be considered: 1\. the end
 
 (3.) By so ordering things in his providence that #emph[occasions] for sin will be presented to men. This is the case mentioned in Deut 13:3, and countless other instances could be added.
 
-Now, it is not the temptations that properly come from God, with his ends in them, that are meant here, and so I will set these aside from our present consideration. What I intend, then, is temptation in its special nature, as it denotes an #emph[active efficiency toward sinning], a force at work to bring sin about (as it is carried on by evil and toward evil).
+Now, it is not the temptations that properly come from God, with his ends in them, that are meant here, and so I will set these aside from our present consideration. What I intend, then, is temptation in its special nature, as it denotes an #emph[active force toward sinning] (as it is carried on by evil and toward evil).
 
 In this sense temptation may come from Satan, or the world, or other men in the world, or ourselves, each singly; or from all or some of them jointly, in their various combinations:
 
