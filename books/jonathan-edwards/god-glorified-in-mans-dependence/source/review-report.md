@@ -6,7 +6,7 @@
 | punctuation | 90 |
 | level | 36 |
 | case | 27 |
-| emendation | 23 |
+| emendation | 24 |
 | spacing | 2 |
 | italic | 2 |
 
@@ -35,6 +35,7 @@
 - [sermon.typ] our selves → ourselves
 - [sermon.typ] it self → itself
 - [sermon.typ] Psal . → Ps
+- [sermon.typ] words → works
 
 ## punctuation
 
