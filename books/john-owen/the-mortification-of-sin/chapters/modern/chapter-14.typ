@@ -43,8 +43,11 @@ First, set faith to work on Christ for the #emph[killing] of your sin. His blood
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[(2) Then exercise faith on the death of Christ, and that under these two aspects:#footnote[Phil 3:10; Col 3:3; 1 Pet 1:18.]]]
 
-- 1\. In expectation of #emph[power].
-- 2\. In striving for #emph[conformity].
+#[
+#set enum(indent: 4.0em)
++ In expectation of #emph[power].
++ In striving for #emph[conformity].
+]
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[For the first, the general direction already given may be enough.]]
 

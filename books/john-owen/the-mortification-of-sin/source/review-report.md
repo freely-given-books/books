@@ -12,6 +12,7 @@
 | heading | 20 |
 | inset | 14 |
 | case | 6 |
+| list | 4 |
 | gap | 1 |
 | note moved | 1 |
 | skipped | 1 |

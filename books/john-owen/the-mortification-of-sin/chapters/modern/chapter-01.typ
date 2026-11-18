@@ -41,9 +41,12 @@ The first thing we meet in the words, as they stand in the whole statement, is t
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[Three things are to be asked here:]]
 
-- 1\. What is meant by #emph[the body.]
-- 2\. What by #emph[the deeds of the body.]
-- 3\. What by #emph[mortifying] them.
+#[
+#set enum(indent: 4.0em)
++ What is meant by #emph[the body.]
++ What by #emph[the deeds of the body.]
++ What by #emph[mortifying] them.
+]
 
 #pad(left: 4.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. #emph[The body] at the end of the verse is the same as #emph[the flesh] at the beginning: “If you#super[+] live according to the flesh, you will die; but if … you put to death the deeds of the body,” that is, of the flesh. It is what the apostle has been speaking of all along under the name of #emph[the flesh]. This is clear from the contrast between the Spirit and the flesh that he carries on before and after. #emph[The body], then, here means the corruption and depravity of our natures, of which the body is in large part the seat and instrument; by this corruption the very members of the body are made servants to unrighteousness (Rom 6:19). What is meant is indwelling sin, the corrupted flesh or lust. Many reasons might be given for this figure of speech, which I will not dwell on now. The “body” here is the same as the παλαιὸς ἄνθρωπος and the σῶμα τῆς ἁμαρτίας, the “old man” and the “body of sin” (Rom 6:6). Or it may stand, by naming a part for the whole, for the whole person considered as corrupted, the seat of lusts and disordered affections.]]
 

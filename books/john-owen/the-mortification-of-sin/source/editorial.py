@@ -70,3 +70,6 @@ PRINT = ["the-mortification-of-sin.typ", "the-mortification-of-sin-modern.typ"]
 # The outline set full width, each numbered point marked by its level (1. (1.) [1.]) with a
 # little space before it: the editor's choice of 2026-11-09. Print: scripts/outline_marks.typ.
 OUTLINE_MARKS = True
+
+# Numbered lists keep the template's "1." numbering, as Owen prints them (no "#set enum(numbering: \"I.\")")
+TYPST_ENUM = None
