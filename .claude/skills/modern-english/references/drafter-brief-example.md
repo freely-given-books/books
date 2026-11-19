@@ -116,8 +116,8 @@ prying; elaborate), *admire* (wonder at), *meat* (food), *nice* (fastidious), *q
 Proverbs and sayings stay proverbs, in modern grammar.
 
 **Plural you:** `you#super[+]` (your#super[+], You#super[+]) for Scripture's "ye"/"you" to many, and for Brooks
-addressing his readers as many ("ye", "yourselves", "friends", "Christians, you …", "you that …"). The first
-plural you/your of EVERY sentence of a plural address is marked, the rest of that sentence plain; Brooks's
+addressing his readers as many ("ye", "yourselves", "friends", "Christians, you …", "you that …"). EVERY
+plural you/your/yours/yourselves is marked (rules §4.2); Brooks's
 singular "thou"/"thee" to the single reader is plain "you"; a general "you" (= one, anyone) is plain. **List in
 your reply the paragraphs (file ¶N) that are a plural address throughout** (a script re-marks them later). Brooks's
 "we / us / our" stay.
