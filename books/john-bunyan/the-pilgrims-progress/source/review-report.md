@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | punctuation | 394 |
-| emendation | 103 |
+| emendation | 106 |
 | spacing | 94 |
 | spelling | 70 |
 | case | 39 |
@@ -88,17 +88,20 @@
 - [part-2/stage-03.typ] ‘ Tis → ’Tis
 - [part-2/stage-04.typ] Psa → ”
 - [part-2/stage-04.typ] and → and they sent for him, and he came. When he was
+- [part-2/stage-04.typ] taught → taught that
 - [part-2/stage-04.typ] Eccles . → Eccl
 - [part-2/stage-05.typ] come → come to
 - [part-2/stage-05.typ] 36 → 35
 - [part-2/stage-05.typ] Psa . → Ps
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
+- [part-2/stage-05.typ] ; and look → 
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] Psa . → Ps
 - [part-2/stage-06.typ] Psa . → Ps
 - [part-2/stage-06.typ] loss → loss of
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] Peter , → Pet
+- [part-2/stage-06.typ] in → in for
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] ‘ Twas → ’Twas
 - [part-2/stage-06.typ] Psalm → Ps
