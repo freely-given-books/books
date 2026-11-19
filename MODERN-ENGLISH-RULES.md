@@ -137,6 +137,9 @@ same text anymore").
    **Every plural you, your, yours and yourselves is marked**, not only the first of its sentence (the
    editor, 2026-11-19; until then one mark a sentence). Applied first to The Pilgrim's Progress; the other
    books move to it one at a time, each with its front note.
+   Why: it keeps the old English distinction without much noise (a plain you is singular or general,
+   so the singular needs no mark), and a translator into a language that tells singular from plural
+   "you" can render each one rightly.
 3. The singular, the author's "thou" to the single reader, is unmarked.
 4. Where the original already writes "you" for both (Edwards, 1741, preaching to a congregation),
    mark only the plurals that matter to the sense; a mark in every line helps no one.
