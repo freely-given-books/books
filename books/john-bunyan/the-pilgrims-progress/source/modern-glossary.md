@@ -72,7 +72,7 @@ Classic are untouched. General rules: `MODERN-ENGLISH-RULES.md`; change list: `w
 | exercise (in my soul) | trouble |
 
 Kept: conductor (always paired with guide), evidence (his roll), virtue (of plants), corn elsewhere checked, Whispering,
-brave spirits, strange, preferments, proper names, likely lads, sympathy, envious, tedious, reasonable creature, pretty
+brave spirits, strange, preferments, proper names, bottle of spirits (the editor 2026-11-18), sympathy, envious, tedious, reasonable creature, pretty
 fellow, countryman, ill-favored, "A saint abroad, and a devil at home" (the proverb), "for nothing" (free of charge;
 literal), "doubted" (real doubt). The footnote on "virginals" stays (a gloss of a thing, no modern word).
 
