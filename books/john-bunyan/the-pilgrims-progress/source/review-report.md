@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 394 |
-| emendation | 106 |
+| punctuation | 396 |
+| emendation | 110 |
 | spacing | 94 |
 | spelling | 70 |
-| case | 39 |
+| case | 40 |
 | merge | 2 |
 | split | 1 |
 
@@ -74,6 +74,10 @@
 - [part-2/authors-way.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] Psa . → Ps
+- [part-2/to-the-reader.typ] life → Light
+- [part-2/to-the-reader.typ] John → 
+- [part-2/to-the-reader.typ] 8 → 
+- [part-2/to-the-reader.typ] 12 → 
 - [part-2/to-the-reader.typ] Psalm → Ps
 - [part-2/stage-01.typ] Psa . → Ps
 - [part-2/stage-01.typ] Psa . → Ps
@@ -403,6 +407,8 @@
 - [part-2/to-the-reader.typ] , → 
 - [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] - → –
+- [part-2/to-the-reader.typ] : → 
+- [part-2/to-the-reader.typ] ; → 
 - [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] . → .”
 - [part-2/to-the-reader.typ] . → 
@@ -546,6 +552,7 @@
 - it → It
 - lamb → Lamb
 - let → Let
+- light → Light
 - lord → Lord
 - objection → Objection
 - since → Since
