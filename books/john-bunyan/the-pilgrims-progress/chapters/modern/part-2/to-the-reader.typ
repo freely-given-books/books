@@ -4,7 +4,7 @@
 
 #smallcaps[courteous companions,]
 
-Some time ago, telling you#super[+] the dream I had of Christian the pilgrim, and of his dangerous journey towards the Celestial country, was pleasant to me and profitable to you. I also told you#super[+] then what I saw concerning his wife and children, and how unwilling they were to go with him on pilgrimage; so unwilling that he was forced to go on his progress without them, for he did not dare to run the risk of the destruction he feared would come from staying with them in the City of Destruction. So, as I showed you then, he left them and departed.
+Some time ago, telling you#super[+] the dream I had of Christian the pilgrim, and of his dangerous journey towards the Celestial country, was pleasant to me and profitable to you#super[+]. I also told you#super[+] then what I saw concerning his wife and children, and how unwilling they were to go with him on pilgrimage; so unwilling that he was forced to go on his progress without them, for he did not dare to run the risk of the destruction he feared would come from staying with them in the City of Destruction. So, as I showed you#super[+] then, he left them and departed.
 
 Now it has so happened, through a great press of business, that I have been much hindered and kept from my usual travels into the parts he came from, and so could not, until now, find an opportunity to inquire further after those he left behind, so that I might give you#super[+] an account of them. But lately, having had some business that way, I went down there again. Now, having taken up my lodging in a wood about a mile from the place, as I slept, I dreamed again.
 

@@ -102,7 +102,7 @@ Then Christian said, Even a babe in religion can answer ten thousand questions l
 
 4\. Simon the wizard was of this religion too; for he wanted the Holy Spirit so that he could make money by it; and the sentence Peter passed on him was to match. Acts 8:19–22.
 
-5\. Nor can I get it out of my mind that the man who takes up religion for the world will throw religion away for the world; for just as surely as Judas had his eye on the world in becoming religious, so surely did he also sell religion and his Master for the same. So to answer the question yes, as I see you#super[+] have done, and to accept such an answer as sound, is heathenish, hypocritical, and devilish; and your reward will be according to your works.
+5\. Nor can I get it out of my mind that the man who takes up religion for the world will throw religion away for the world; for just as surely as Judas had his eye on the world in becoming religious, so surely did he also sell religion and his Master for the same. So to answer the question yes, as I see you#super[+] have done, and to accept such an answer as sound, is heathenish, hypocritical, and devilish; and your#super[+] reward will be according to your#super[+] works.
 
 Then they stood staring at one another, but had nothing to answer Christian with. Hopeful also agreed that Christian’s answer was sound; so there was a great silence among them. Mr. By-ends and his company also faltered and hung back, so that Christian and Hopeful could get ahead of them. Then Christian said to his fellow, If these men cannot stand before the sentence of men, what will they do with the sentence of God? And if they are struck dumb when dealt with by vessels of clay, what will they do when they are rebuked by the flames of a devouring fire?
 

@@ -221,7 +221,7 @@ Then she called for old Mr. Honest, and said of him, “Here is a true Israelite
 
 Then that good man Mr. Ready-to-halt came in to see her. So she said to him, Your journey so far has been hard; but that will make your rest all the sweeter. Watch, and be ready; for the messenger may come at an hour when you do not expect him.
 
-After him came Mr. Despondency and his daughter Much-afraid, to whom she said, You ought to remember forever, with thankfulness, your deliverance from the hands of Giant Despair and out of Doubting Castle. The fruit of that mercy is that you have been brought here in safety. You#super[+] be watchful, and cast away fear; be sober, and hope to the end.
+After him came Mr. Despondency and his daughter Much-afraid, to whom she said, You#super[+] ought to remember forever, with thankfulness, your#super[+] deliverance from the hands of Giant Despair and out of Doubting Castle. The fruit of that mercy is that you#super[+] have been brought here in safety. You#super[+] be watchful, and cast away fear; be sober, and hope to the end.
 
 Then she said to Mr. Feeble-mind, You were delivered from the mouth of Giant Slay-good so that you might live in the light of the living and see your King with comfort. Only I advise you to repent of your readiness to fear and doubt his goodness before he sends for you; so that you will not be forced, when he comes, to stand before him blushing for that fault.
 
