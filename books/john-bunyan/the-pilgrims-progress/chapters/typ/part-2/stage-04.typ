@@ -253,7 +253,7 @@ It was told you before, that Prudence bid the boys, that if at any time they wou
 
 #speech[#smallcaps[Matthew]: What should we learn by seeing the flame of our fire go upwards, and by seeing the beams and sweet influences of the sun strike downwards?]
 
-#speech[#smallcaps[Prudence]: By the going up of the fire, we are taught to ascend to heaven by fervent and hot desires. And by the sun sending his heat, beams, and sweet influences downwards, we are taught the Savior of the world, though high, reaches down with his grace and love to us below.]
+#speech[#smallcaps[Prudence]: By the going up of the fire, we are taught to ascend to heaven by fervent and hot desires. And by the sun sending his heat, beams, and sweet influences downwards, we are taught that the Savior of the world, though high, reaches down with his grace and love to us below.]
 
 #speech[#smallcaps[Matthew]: Whence have the clouds their water?]
 

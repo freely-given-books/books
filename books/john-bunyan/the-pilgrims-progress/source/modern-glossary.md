@@ -75,3 +75,60 @@ Kept: conductor (always paired with guide), evidence (his roll), virtue (of plan
 brave spirits, strange, preferments, proper names, likely lads, sympathy, envious, tedious, reasonable creature, pretty
 fellow, countryman, ill-favored, "A saint abroad, and a devil at home" (the proverb), "for nothing" (free of charge;
 literal), "doubted" (real doubt). The footnote on "virginals" stays (a gloss of a thing, no modern word).
+
+## Full-level redraft (2026-11-18)
+
+The editor's level for every Modern book: today's words and phrasing, Bunyan's sentences, images, order and voice
+kept. The first draft's "kept for his voice" (Hark, How now, yonder, Tush, "made a pretty good shift") gave way. Recurring
+renderings of the redraft (by sense in context):
+
+| Bunyan | Modern English |
+|---|---|
+| perceive | see, notice, understand |
+| espied | saw, caught sight of, noticed |
+| yonder, hereabouts | over there, that … over there; around here |
+| hark; how now; tush | listen; what is this? / well now; nonsense! |
+| methinks, methought; I trow | I think, it seems to me; I suppose, I wonder |
+| whither, whence, thither, hither | where, where from, there, here |
+| relations | family |
+| chamber | room |
+| damsel(s), virgins | young woman / young women (the speaker label "Damsel" stays) |
+| countenance (face) | face |
+| counsel (advice) | advice ("the counsel of God" stays) |
+| discourse | talk, conversation |
+| bid (told) | told |
+| slew, slain | killed |
+| apace | quickly |
+| wroth | angry |
+| comely | lovely |
+| company-keeper | companion |
+| hard put to it, hard beset | hard pressed |
+| must needs | had to, was bound to |
+| by reason of | because of |
+| gins | nooses |
+| bedlams; runagate | madmen; renegade |
+| trencher; girdle; staves; hosen | plate; belt; staffs; stockings |
+| quoth; prithee | said; please, tell me |
+| post (messenger) | messenger |
+| perspective glass, the glass (the shepherds') | spyglass |
+| looking-glass (Mercy's) | mirror |
+| cordial (medicine) | restorative ("bottle of spirits" kept) |
+| wanted (lacked) | needed |
+| argument (reasoning) | reasoning |
+| mischief | harm |
+| unnatural (death) | violent |
+| proper (own) | their own |
+| brave (fine) | fine, splendid ("brave spirits" kept) |
+| relieve (himself, sustain) | sustain |
+| offended (Rom 14 sense) | made to stumble, stumble at |
+| a price (in the hand, Prov 17:16) | the means |
+| jugglings | conjuring tricks |
+| surfeits | sickness from overeating |
+| good fashion | good standing |
+| a lot (portion) | a fate |
+| becomes (befits) | befits |
+| bear up (a name) | uphold |
+| beheld (the narrator, "Now I beheld in my dream") | saw ("Now I saw in my dream") |
+| behold (plain narrative) | look, there (kept in the dream frame and the four visions, editor's question) |
+| hurtful (1 Tim 6:9) | harmful |
+| the water stood in his/her eyes | kept (his image) |

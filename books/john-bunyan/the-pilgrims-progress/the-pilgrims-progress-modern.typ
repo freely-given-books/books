@@ -79,7 +79,7 @@
 
 // the virginals footnote would fall on the page before its marker: its letter spacing a little tighter brings them back
 #[
-  #set text(tracking: -0.01em)
+  #set text(tracking: -0.015em)
   #include "chapters/modern/part-2/stage-04.typ"
 ]
 
