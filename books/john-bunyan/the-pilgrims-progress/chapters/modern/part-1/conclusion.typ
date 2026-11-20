@@ -2,25 +2,25 @@
 
 == CONCLUSION
 
-#stanza[Now, reader, I have told my dream to thee, \
-See if thou canst interpret it to me, \
-Or to thyself, or neighbor: but take heed \
+#stanza[Now, reader, I have told my dream; now see \
+Whether you can interpret it to me, \
+Or to yourself, or neighbor; but take heed \
 Of misinterpreting; for that, instead \
-Of doing good, will but thyself abuse: \
-By misinterpreting, evil ensues. \
-Take heed, also, that thou be not extreme \
+Of doing good, will only lead you astray: \
+By misinterpreting, evil comes your way. \
+Take care, also, that you are not extreme \
 In playing with the outside of my dream; \
 Nor let my figure or similitude \
-Put thee into a laughter, or a feud. \
-Leave this for boys and fools; but as for thee, \
-Do thou the substance of my matter see. \
-Put by the curtains, look within my veil, \
+Set you to laughing, or into a feud. \
+Leave that to boys and fools; but you, instead, \
+Look at the substance of what I have said. \
+Draw back the curtains, look behind my veil, \
 Turn up my metaphors, and do not fail. \
-There, if thou seekest them, such things thou’lt find \
+There, if you look for them, such things you’ll find \
 As will be helpful to an honest mind. \
-What of my dross thou findest there, be bold \
-To throw away, but yet preserve the gold. \
-What if my gold be wrapped up in ore? \
-None throw away the apple for the core: \
-But if thou shalt cast all away as vain, \
-I know not but ’twill make me dream again.]
+Whatever dross you find of mine, be bold \
+To throw away, but still preserve the gold. \
+What if my gold is wrapped up in ore? \
+No one throws out the apple for the core: \
+But if you throw it all away as vain, \
+It may, for all I know, make me dream again.]

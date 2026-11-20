@@ -2,7 +2,7 @@
 
 How the Modern English edition renders words that meant something else to Bunyan (false friends). The editor's rule
 (2026-11-16): such a word is replaced with a modern word in the text, chosen by context, never glossed; the sentence and
-Bunyan's voice stay. Verse, names (Pliable, Talkative, Vanity Fair …), Scripture quotations (BSB as adjusted) and the
+Bunyan's voice stay. The verse frame (Apology, Conclusion, Author's Way) is modernized line for line, rhymes kept; the songs, names (Pliable, Talkative, Vanity Fair …), Scripture quotations (BSB as adjusted) and the
 Classic are untouched. General rules: `MODERN-ENGLISH-RULES.md`; change list: `work/false-friends-2026-11-16/the-pilgrims-progress.md`.
 
 | Bunyan | Modern English |
