@@ -38,7 +38,11 @@
 
 #include "chapters/modern/chapter-04.typ"
 
-#include "chapters/modern/chapter-05.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/chapter-05.typ"
+]
 
 #include "chapters/modern/chapter-06.typ"
 
