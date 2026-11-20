@@ -465,7 +465,7 @@ GAP_FIXES = {
     456: ('th', 'high', "the book's own vocabulary: _e -> th:12236, ar:2300, on:990, do:944; confirmed on the 1622 page image (n462)", '#auto'),  # [th]e
     457: ('ie', 'high', "the book's own vocabulary: sub_ction -> ie:297", '#auto'),  # sub[ie]ction
     458: ('le', 'high', "the book's own vocabulary: cal_d -> le:93, ce:1; confirmed on the 1622 page image (n462)", '#auto'),  # cal[le]d
-    459: ('bo', 'high', 'by hand: an hand in placing [bo]th their children', '#editor'),  # [bo]th
+    459: ('for', 'high', 'read from the 1622 page image (n462), replacing the guess bo: rth at the gutter; the 1626 edition reads placing forth', '#editor'),  # [for]th
     460: ('w', 'high', "the book's own vocabulary: _orld -> w:137", '#auto'),  # [w]orld
     461: ('w', 'high', "the book's own vocabulary: _hile -> w:105", '#auto'),  # [w]hile
     462: ('sh', 'high', 'by hand: that they [sh]ould see their children well trained vp', '#editor'),  # [sh]ould

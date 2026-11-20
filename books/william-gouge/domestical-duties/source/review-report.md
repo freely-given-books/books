@@ -2,16 +2,16 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4445 |
-| spacing | 2719 |
-| italic | 2671 |
-| spelling | 1831 |
-| emendation | 1348 |
-| note moved | 1098 |
+| punctuation | 4447 |
+| spacing | 2715 |
+| italic | 2670 |
+| spelling | 1835 |
+| emendation | 1360 |
+| note moved | 1099 |
 | case | 148 |
 | grammar | 147 |
 | list | 141 |
-| note | 68 |
+| note | 69 |
 | gap | 48 |
 | merge | 29 |
 | expansion | 25 |
@@ -917,6 +917,7 @@
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gladly → gladly bestow, and be
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] est → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Mat . → Matt
+- [vol-3/01-children-showing-respect-for-parents.typ note] 30 → 31
 - [vol-3/01-children-showing-respect-for-parents.typ note] 3 . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Exo . → Exod
 - [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
@@ -983,6 +984,9 @@
 - [vol-3/02-children-getting-parents-permission.typ] Godhath → God hath
 - [vol-3/02-children-getting-parents-permission.typ] Mar . → Mark
 - [vol-3/02-children-getting-parents-permission.typ] Exo . → Exod
+- [vol-3/02-children-getting-parents-permission.typ] hold → hold me from
+- [vol-3/02-children-getting-parents-permission.typ] from me → 
+- [vol-3/02-children-getting-parents-permission.typ] my → thine
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Psal . → Ps
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Ephes . → Eph
@@ -1014,6 +1018,8 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] Luk . → Luke
 - [vol-3/04-children-giving-back-to-parents.typ note] Pro . → Prov
 - [vol-3/04-children-giving-back-to-parents.typ note] Parent is imprecation → Parentis imprecatione
+- [vol-3/04-children-giving-back-to-parents.typ note] 42 → 42:3
+- [vol-3/04-children-giving-back-to-parents.typ note] 8 . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] Mar . → Mark
 - [vol-3/04-children-giving-back-to-parents.typ note] Joh . → John
 - [vol-3/04-children-giving-back-to-parents.typ note] Luk . → Luke
@@ -1056,7 +1062,9 @@
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] after wards → afterwards
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] thetime → the time
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus 3:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Rom → Rom 1:31
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 30 → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 3 . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] King . → Kgs
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Act . → Acts
@@ -1067,7 +1075,10 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Pro . → Prov
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tro . → Prov
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vindie abitur → vindicabitur
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Pet → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Ose . → Hos
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Exo . → Exod
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus
@@ -1095,7 +1106,6 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Mat . → Matt
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Psal . → Ps
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] baptizandis → Consuetudo matris Ecclesiae in baptizandis
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . l → 50
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Matth . → Matt
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Joh . → John
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Matth . → Matt
@@ -1235,6 +1245,8 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] Psal . → Ps
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] Exo . → Exod
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] construx it → construxit
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] the children of → 
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] their → their children’s
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] OVVNE → OWN
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] of → : if
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] for → sort
@@ -4560,7 +4572,6 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
@@ -4681,7 +4692,8 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Gen
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 2
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → m 3:
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
@@ -4744,7 +4756,9 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] , → .
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 2:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
@@ -6270,7 +6284,9 @@
 - Stevens → Stephens
 - Sucton → Sueton
 - Then → When
+- Tit → Ti
 - Uatabl → Vatabl
+- Ueial → Vital
 - Uerendum → Verendum
 - Uirg → Virg
 - Uirginitas → Virginitas
@@ -6280,6 +6296,7 @@
 - Vers → Vers.
 - Ves → Vers
 - Virginea → Virginia
+- Vitit → Vital
 - Weigh → Weighty
 - Wisemans → Wiseman’s
 - Zachariahs → Zachariah’s
@@ -6448,6 +6465,7 @@
 - prince → price
 - profanenss → profaneness
 - pronider → provider
+- prostitatione → prostitutione
 - purchaesing → purchasing
 - quast → quaest
 - qucm → quem
