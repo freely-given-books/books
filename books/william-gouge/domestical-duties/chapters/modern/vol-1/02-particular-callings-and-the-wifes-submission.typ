@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[Eph 5:22.]
 
-    #text(style: "italic")[Wives, submit yourselves#super[+] to your own husbands as to the Lord.]
+    #text(style: "italic")[Wives, submit yourselves#super[+] to your#super[+] own husbands as to the Lord.]
   ]
 ]
 
@@ -45,7 +45,7 @@ First, the husband and wife were the first couple that #footnote[1\. Man and wif
 
 Secondly, most usually the husband and his wife are the #footnote[2\. Man and wife are commonly the chief in a family.] chief in a family, and all under them are single persons: they are the governors of all the rest in the house. Therefore it is most fitting that they should first know their duty and learn to practice it, so that they may be an example to all the rest. If they fail in their duty to one another, they give occasion to all the rest under them to be careless and negligent in theirs. Let a husband be churlish to his wife and despise her, and he gives an occasion to children and servants to despise her likewise and to be disobedient to her. Yes, he gives them occasion to be churlish and perverse to one another, especially to those under them. Let a wife be untrustworthy and unfaithful to her husband, let her filch and pilfer from him, and children and servants will soon take courage, or rather boldness, from her example to steal secretly what they can from their father and master. So their breach of #footnote[Bis peccat qui exemplo peccat. \[He sins twice who sins by example.\]] duty is a double fault: one in respect of the party whom they wrong and to whom they deny duty, the other in respect of those to whom they give occasion of sinning.
 
-Know therefore, O husbands and wives, that you#super[+], above #footnote[Use.] all others in the family, are most bound to a conscientious performance of your duty. Your#super[+] condemnation will be greater if you fail in it. Look to it above the rest, and by your#super[+] example draw your children and servants (if you have any) to perform their duties. They will surely do this more readily when they see you#super[+] as guides going before them, and making conscience of your joint and separate duties.
+Know therefore, O husbands and wives, that you#super[+], above #footnote[Use.] all others in the family, are most bound to a conscientious performance of your#super[+] duty. Your#super[+] condemnation will be greater if you#super[+] fail in it. Look to it above the rest, and by your#super[+] example draw your#super[+] children and servants (if you#super[+] have any) to perform their duties. They will surely do this more readily when they see you#super[+] as guides going before them, and making conscience of your#super[+] joint and separate duties.
 
 === §. 10. #emph[Of the apostle’s order in setting down the duties of inferiors in the first place.] #footnote[Wives’ particular duties are laid down first because they are inferiors.]
 
@@ -63,7 +63,7 @@ Besides, the apostle would teach by this those who are under authority how to mo
 
 Lastly, men must first learn to obey well before they #footnote[3\. By obeying, men learn to rule well. #emph[Parendo disces imperare. Arist. Polit. lib.] 3. #emph[c.] 3. #emph[Use.]] can rule well. For those who scorn to be subject to their governors while they are under authority are likely to prove intolerably insolent when they are in authority.
 
-Learn, all you#super[+] who are under authority, how to win your governors’ favor: how to make your yoke easy and your burden light, and how to prevent many harms which might otherwise fall on you because of the power your superiors have over you. First do your#super[+] duty.
+Learn, all you#super[+] who are under authority, how to win your#super[+] governors’ favor: how to make your#super[+] yoke easy and your#super[+] burden light, and how to prevent many harms which might otherwise fall on you#super[+] because of the power your#super[+] superiors have over you#super[+]. First do your#super[+] duty.
 
 There are many weighty reasons to move governors #footnote[Reasons why governors ought to perform their duties first.] to be the first to begin doing their duty. For,
 
@@ -95,9 +95,9 @@ Thirdly, wives are the fountain from which all the other degrees spring, and the
 
 Fourthly, this subjection is a good pattern for children and servants, and a great means to move them to be subject.
 
-Fifthly, I may further add as a truth, which experience makes all too plain in every place, that among all the parties from whom the Holy Spirit requires subjection, wives for the most part are #footnote[See #emph[Treatise] 3, §. 4.] the most backward in yielding subjection to their husbands. But you#super[+] wives who fear God, be careful of your duty. Though it may seem somewhat contrary to #footnote[Exod 23:2.] the common course and practice of wives, yet “you shall not follow the crowd in wrongdoing.” Though it is harsh to corrupt nature, #footnote[#emph[Si propter Deum viro parueris, noli proponere quae ab eo fieri deceant, sed ea quibus te legislator fecit obnoxiam diligenter exequere.] \[If you obey your husband for God’s sake, do not set before you what it becomes him to do, but diligently carry out what the lawgiver has bound you to.\] #emph[Chrys. hom.] 26. #emph[in] 1 Cor 11.] yet beat down that corruption. Yes, though your#super[+] husbands are backward in their duties, yet be eager, and strive to go before them in yours. Remember what the Lord says (Matt 5:46, 47): “If you#super[+] love those who love you, what are you doing more than others?” Remember also what the apostle says (1 Tim 2:14): that the woman was first in the transgression, #footnote[Gen 3:16.] and first had her duty given to her, and that the woman was made for the man, and not man for the woman.#footnote[1 Cor 11:9.]
+Fifthly, I may further add as a truth, which experience makes all too plain in every place, that among all the parties from whom the Holy Spirit requires subjection, wives for the most part are #footnote[See #emph[Treatise] 3, §. 4.] the most backward in yielding subjection to their husbands. But you#super[+] wives who fear God, be careful of your#super[+] duty. Though it may seem somewhat contrary to #footnote[Exod 23:2.] the common course and practice of wives, yet “you shall not follow the crowd in wrongdoing.” Though it is harsh to corrupt nature, #footnote[#emph[Si propter Deum viro parueris, noli proponere quae ab eo fieri deceant, sed ea quibus te legislator fecit obnoxiam diligenter exequere.] \[If you obey your husband for God’s sake, do not set before you what it becomes him to do, but diligently carry out what the lawgiver has bound you to.\] #emph[Chrys. hom.] 26. #emph[in] 1 Cor 11.] yet beat down that corruption. Yes, though your#super[+] husbands are backward in their duties, yet be eager, and strive to go before them in yours#super[+]. Remember what the Lord says (Matt 5:46, 47): “If you#super[+] love those who love you#super[+], what are you#super[+] doing more than others?” Remember also what the apostle says (1 Tim 2:14): that the woman was first in the transgression, #footnote[Gen 3:16.] and first had her duty given to her, and that the woman was made for the man, and not man for the woman.#footnote[1 Cor 11:9.]
 
-So you#super[+] will deserve that commendation of good wives: “Many have done noble things, but you surpass them all.”#footnote[Prov 31:29.]
+So you#super[+] will deserve that commendation of good wives: “Many have done noble things, but you#super[+] surpass them all.”#footnote[Prov 31:29.]
 
 Having so far handled the general instructions named above, I will go on to a more distinct explanation of the words, gather the observations which arise from them, and then declare in particular the separate duties which the three orders in a family owe to each other.
 
@@ -108,7 +108,7 @@ Having so far handled the general instructions named above, I will go on to a mo
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[Eph 5:22.]
 
-    #text(style: "italic")[Wives, submit yourselves#super[+] to your own husbands as to the Lord.]
+    #text(style: "italic")[Wives, submit yourselves#super[+] to your#super[+] own husbands as to the Lord.]
   ]
 ]
 

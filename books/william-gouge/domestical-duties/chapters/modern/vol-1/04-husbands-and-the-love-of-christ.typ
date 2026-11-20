@@ -54,7 +54,7 @@ As this example of Christ’s love to his church is set before husbands, so it m
 
 It is a motive to love Christ, because love deserves love, especially such a love, from such a person, as the love of Christ is. Indeed, our love of Christ is an evidence that we are loved by Christ, as smoke is a sign of fire. Therefore, both in thankfulness to Christ for his love to us, and for the assurance of our own souls of Christ’s love to us, we ought in all things that we can to testify our love to Christ.
 
-It is also a motive to love our brethren, because, Christ being in heaven, “our goodness does not extend to him”;#footnote[Ps 16:2.] but our brethren on earth stand in his place, and the love we show to them we show to him, and he accepts it as done to him. “You#super[+] fed Me, you visited Me,”#footnote[Matt 25:35, 40.] says Christ to those who fed and visited his brethren. This love too, the #footnote[1 John 4:20.] love of our brethren, is an evidence that we are loved by God. Therefore, “if Christ so loved us, we also ought to love one another.”#footnote[#emph[and v.] 11.]
+It is also a motive to love our brethren, because, Christ being in heaven, “our goodness does not extend to him”;#footnote[Ps 16:2.] but our brethren on earth stand in his place, and the love we show to them we show to him, and he accepts it as done to him. “You#super[+] fed Me, you#super[+] visited Me,”#footnote[Matt 25:35, 40.] says Christ to those who fed and visited his brethren. This love too, the #footnote[1 John 4:20.] love of our brethren, is an evidence that we are loved by God. Therefore, “if Christ so loved us, we also ought to love one another.”#footnote[#emph[and v.] 11.]
 
 How the love of Christ is a pattern I will #footnote[Treatise 4, §. 61, #emph[etc.]] show later.
 

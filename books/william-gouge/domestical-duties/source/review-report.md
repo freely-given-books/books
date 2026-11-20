@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4447 |
-| spacing | 2720 |
-| italic | 2672 |
-| spelling | 1830 |
-| emendation | 1345 |
+| punctuation | 4445 |
+| spacing | 2719 |
+| italic | 2671 |
+| spelling | 1831 |
+| emendation | 1348 |
 | note moved | 1098 |
 | case | 148 |
 | grammar | 147 |
@@ -610,6 +610,7 @@
 - [vol-2/02-getting-married.typ] Mat . → Matt
 - [vol-2/02-getting-married.typ] Pro . → Prov
 - [vol-2/02-getting-married.typ] Psal . → Psalm
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 1 → 2
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 4 . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] sirem → si rem
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] Tit . → Titus
@@ -747,7 +748,6 @@
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] 6 → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] King . → Kgs
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Eccles . → Eccl
-- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Deu . → Deut
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] vsum . fructun → vsumfructum
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Cor → 1 Cor
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Pro . → Prov
@@ -765,6 +765,8 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Tit . → Titus
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Sam → Sam 1:11
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] 1 . 15 . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] herequireth → he requireth
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Iam . → Jas
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Treat → Treat. 4
@@ -833,6 +835,7 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] tu → too
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] by → joy
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] up braid → upbraid
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] 4 → 3
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] on → an
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Est . → Esth
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Philem . → Phlm
@@ -3591,8 +3594,6 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
@@ -6518,6 +6519,7 @@
 - wile → vile
 - with → which
 - wives → wives.
+- women → woman
 - wordlings → worldlings
 - world → world.
 - yoaked → yoked

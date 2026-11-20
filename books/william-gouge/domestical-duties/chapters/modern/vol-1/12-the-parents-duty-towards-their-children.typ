@@ -7,7 +7,7 @@
     #set par(justify: false)
     #text(size: 0.9em, weight: 600)[Eph 6:4.]
 
-    #text(style: "italic")[And you#super[+] fathers, do not provoke your children to wrath, but bring them up in the nurture and admonition of the Lord.]
+    #text(style: "italic")[And you#super[+] fathers, do not provoke your#super[+] children to wrath, but bring them up in the nurture and admonition of the Lord.]
   ]
 ]
 
@@ -27,7 +27,7 @@ The authority which parents have is not so much for their own advancement as for
 
 Therefore let ministers follow this pattern of the apostle, #footnote[1\. #emph[Use.] Ministers must stir up parents to their duty.] and deal evenly with all of every sort. Let them not be partial, laying all the burden of duty on children’s necks and none on parents, holding children in very strictly but leaving parents to their own will. Parents are flesh and blood as well as children, and as prone to transgress in their place as children in theirs. Indeed, of the two, ministers ought to be more earnest in urging parents to perform their duty, because parents are under no such power and authority as children are. Fear of their parents’ authority keeps children much in awe. There is no such thing to keep parents in awe. They will therefore be all the readier to take the greater liberty, if they are not kept within bounds by the fear of God and by a good conscience.
 
-Now you#super[+] parents, as you look for honor, carry yourselves #footnote[2\. #emph[Use.]] worthy of honor; as you look for duty from your children, perform duty to them. Know that one day you#super[+] too will be called to account before the highest Judge. Your#super[+] authority will then be no pretext to excuse your fault, but evidence to aggravate it. For you#super[+], being older in years and more eminent in place, of more experience, and having a charge over your children, ought to be a light to show them the way and an example to draw them on. Then, seeing you#super[+] careful and conscientious in performing your duty, they may be the more stirred up to perform theirs, or at least be made ashamed of neglecting their duty. But if you#super[+] are careless of your duty, how can you expect duty at their hands? Indeed, if by your#super[+] bad example they have been made negligent, their blood will be required at your hands.
+Now you#super[+] parents, as you#super[+] look for honor, carry yourselves#super[+] #footnote[2\. #emph[Use.]] worthy of honor; as you#super[+] look for duty from your#super[+] children, perform duty to them. Know that one day you#super[+] too will be called to account before the highest Judge. Your#super[+] authority will then be no pretext to excuse your#super[+] fault, but evidence to aggravate it. For you#super[+], being older in years and more eminent in place, of more experience, and having a charge over your#super[+] children, ought to be a light to show them the way and an example to draw them on. Then, seeing you#super[+] careful and conscientious in performing your#super[+] duty, they may be the more stirred up to perform theirs, or at least be made ashamed of neglecting their duty. But if you#super[+] are careless of your#super[+] duty, how can you#super[+] expect duty at their hands? Indeed, if by your#super[+] bad example they have been made negligent, their blood will be required at your#super[+] hands.
 
 === §. 116. #emph[Of the extent of these words,] Fathers, Children.
 

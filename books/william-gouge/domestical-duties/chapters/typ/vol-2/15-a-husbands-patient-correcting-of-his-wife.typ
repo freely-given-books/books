@@ -65,7 +65,7 @@ And on the contrary, the things which he forbiddeth must be
 
 2\. Though the husbands command be sufficient warrant to the wife, and if he peremptorily press her to this or that, she ought to yield, yet the love and mildness required of an husband should make him so to tender her as to remit something of his power, and when he seeth her conscience troubled about his command, to relieve her conscience by forbearing to press that which seemeth so burdensome to her. A husband may sin in pressing that too much upon his wife, which she upon his pressing may without sin yield unto.
 
-=== §. 27. #emph[Of an husbands wise carriage when his wife is erroneously scrupulous.]#footnote[Treat. 4. §. 66.]
+=== §. 27. #emph[Of an husbands wise carriage when his wife is erroneously scrupulous.]#footnote[Treat. 3. §. 66.]
 
 2\. #emph[Object.] What if an husband upon his knowledge observe his wife to be erroneously scrupulous, and to misinterpret and misapply the word of God which she maketh the ground of her scruple?
 
