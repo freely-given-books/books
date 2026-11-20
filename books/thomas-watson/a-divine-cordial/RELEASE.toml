@@ -31,3 +31,14 @@ url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-co
 [[witness]]
 description = "The 1678 edition, archive.org scan: letters and Greek the 1663 film lost (the Chrysostom note on p. 161)"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-watson/a-divine-cordial/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = "v3"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

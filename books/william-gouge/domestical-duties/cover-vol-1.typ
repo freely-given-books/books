@@ -4,8 +4,9 @@
 // Full-wrap paperback cover in the Common Weal Press set design (see
 // scripts/set_cover.typ), lettered after the 1622 title page: the whole
 // work's eight treatises, this volume's picked out, its number in a roundel.
-// Olive in its dark, for the household psalm: "thy children like olive plants round
-// about thy table" (Psalm 128:3).
+// Olive, for the household psalm: "thy children like olive plants round about thy
+// table" (Psalm 128:3), stepping from a light green (volume I) to the darkest
+// (volume IV) across the set, as the Institutes' covers step their colours.
 //
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
@@ -15,11 +16,13 @@
   epigraph: [Submitting your selves one to another in the fear of God.]) = set-cover(
   edition: edition,
   seal: press-seal,
-  // the dark of the earlier covers round the frame and on spine and back;
-  // inside the frame, olive with a soft light behind the title and contents
-  ground: rgb("#1F2416"),
-  panel: gradient.radial((rgb("#566038"), 0%), (rgb("#4A5230"), 45%),
-    (rgb("#363D25"), 100%), center: (50%, 42%), radius: 75%),
+  // this volume's step of the ramp: a darker olive round the frame and on spine and
+  // back; inside the frame, olive with a soft light behind the title and contents;
+  // paper (the seal's fountain, the name plate's lettering) darkest
+  ground: rgb("#404B2A"),
+  panel: gradient.radial((rgb("#7D8D4F"), 0%), (rgb("#6C7B44"), 45%),
+    (rgb("#525E33"), 100%), center: (50%, 42%), radius: 75%),
+  paper: rgb("#2A3219"),
   title: [Of Domestical Duties],
   title-display: [
     #lettered([Of], 13pt, tracking: 0.5em)

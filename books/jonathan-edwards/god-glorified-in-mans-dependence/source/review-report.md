@@ -6,9 +6,9 @@
 | punctuation | 90 |
 | level | 36 |
 | case | 27 |
-| emendation | 23 |
+| emendation | 24 |
+| spacing | 2 |
 | italic | 2 |
-| spacing | 1 |
 
 ## emendation
 
@@ -25,7 +25,7 @@
 - [sermon.typ] our selves → ourselves
 - [sermon.typ] it self → itself
 - [sermon.typ] it self → itself
-- [sermon.typ] ver → v
+- [sermon.typ] ver . → 2 Cor 5:
 - [sermon.typ] Mat . → Matt
 - [sermon.typ] 11 → 13
 - [sermon.typ] our selves → ourselves
@@ -35,6 +35,7 @@
 - [sermon.typ] our selves → ourselves
 - [sermon.typ] it self → itself
 - [sermon.typ] Psal . → Ps
+- [sermon.typ] words → works
 
 ## punctuation
 

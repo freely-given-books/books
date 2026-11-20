@@ -15,3 +15,15 @@ sha256 = "8e82bc0f604502a0e3d611f54ce4b2b3ccb45a97bb27ebe7525fcc8a32ada69e"
 [[witness]]
 description = "The 1676 printing (London, Nevil Simmons), archive.org scan: the Greek the TCP left out, the stops it could not read, and the print's numbering, read on its page images; local OCR collated with the TCP"
 url = "https://archive.org/details/bim_early-english-books-1641-1700_the-surest-safest-way-_gouge-thomas_1676"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-gouge/the-surest-way-of-thriving/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+# based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

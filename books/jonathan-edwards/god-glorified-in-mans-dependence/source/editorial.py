@@ -50,3 +50,8 @@ PRINT = ["god-glorified-in-mans-dependence.typ", "god-glorified-in-mans-dependen
 
 # the preface signed by both ministers: the valediction and each name a line
 SIGNATURE_NAME_LINE = True
+
+# Printer's error corrected in the reading edition (colophon EMENDATION_PAIRS): "abundant in good Words" (1731,
+# TCP N02859), read "good works": the next clause is "created in Christ Jesus unto good works" (the editor, Vikunja #6,
+# 2026-11-17; no 1731 scan found to check the print).
+EMENDATION_PAIRS = {("words", "works")}

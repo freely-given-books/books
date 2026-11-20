@@ -206,8 +206,10 @@ ITALIC_SENTENCE_QUIRK = False
 EPUB = {"title": "Precious Remedies Against Satan’s Devices", "author": "Thomas Brooks",
         "file": "precious-remedies-against-satans-devices.epub",
         "front": "ebook-front.html", "cover": "cover.typ", "toc_depth": 3,
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["precious-remedies-against-satans-devices.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "precious-remedies-against-satans-devices-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["precious-remedies-against-satans-devices.typ", "precious-remedies-against-satans-devices-modern.typ"]
 QUOTE_BLOCK = True
 
 # Salutations and signatures are plain paragraphs, as in The Secret Key of

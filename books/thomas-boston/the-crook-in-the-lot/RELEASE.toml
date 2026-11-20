@@ -29,3 +29,15 @@ url = "https://archive.org/details/crookinlotorsove01bost"
 [[witness]]
 description = "The Crook in the Lot, 1782 and London 1791 printings, archive.org scans, consulted in the transcription; no scan of the 1737 first edition was found"
 url = "https://archive.org/details/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-boston/the-crook-in-the-lot/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+# based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

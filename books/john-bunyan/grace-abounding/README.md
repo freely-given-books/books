@@ -51,3 +51,7 @@ $ ./fgb build grace-abounding     # print PDF, cover and checked EPUB into dist/
 
 The PDF and the EPUB are not kept in git: `./fgb build grace-abounding`
 makes them in `dist/john-bunyan/grace-abounding/`.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`, Bunyan's section numbers kept; its print file is `grace-abounding-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the brief in work/modern-english/grace-brief.md (six drafters, slices in work/modern-english/grace/; the verses his struggle turns on, Heb 12:16, 17, 2 Cor 12:9, John 6:37, Heb 6:4-6 and 10:26, rendered the same way each time they recur, the BSB kept to the words he leans on), then meaning-audited (work/modern-english/audit-grace).

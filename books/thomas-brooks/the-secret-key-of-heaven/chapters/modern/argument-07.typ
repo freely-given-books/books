@@ -1,0 +1,3 @@
+== 7. This Life Is the Only Time for Private Prayer
+
+Seventhly, consider that the time of this life is the only time for private prayer. Heaven will admit no secret prayer. In heaven there will be no secret sins to trouble us, no secret needs to pinch us, no secret temptations to betray us, no secret snares to entangle us, no secret enemies to supplant us. We need to live much in the practice of that duty here on earth that we will never be exercised in after death. Some duties that are binding on us now, such as praising God, wondering at God, exalting and lifting up God, rejoicing and delighting in God, etc., will be binding on us forever in heaven; but this duty of private prayer we must take our leave of when we come to lay our heads in the dust.

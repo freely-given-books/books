@@ -11,7 +11,9 @@
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: ((rgb("#6A2140"), 0%), (rgb("#4A142C"), 100%)),
   front-ground: gradient.radial(center: (50%, 30%), radius: 70%,
     rgb("#8A2F55"), rgb("#6A2140"), rgb("#4A142C")),
@@ -41,3 +43,5 @@
   epigraph-source: [Proverbs 9:1–5],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

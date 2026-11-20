@@ -1,0 +1,55 @@
+# Indwelling Sin: Modern English glossary
+
+How the Modern English edition renders words that meant something else to Owen (false friends). The editor's rule (2026-11-16): such a word is replaced with a modern word in the text, chosen by context, never glossed; the sentence and Owen's voice stay. Scripture quotations (BSB as adjusted) and the Classic are untouched. The general rules are `MODERN-ENGLISH-RULES.md` at the repository root; the change list is `work/false-friends-2026-11-16/<book>.md`.
+
+## False friends (2026-11-16)
+
+| Owen | Modern English |
+|---|---|
+| professors / a professor | professing Christians / a professing Christian ("false professors" → those who professed falsely) |
+| profession (professed religion) | profession of faith, what they professed |
+| (carnal) security, secure | (carnal) complacency, complacent (security meaning safety stays) |
+| convinced, unconvinced (of sin) | convicted, unconvicted |
+| convictions (the conscience's verdict) | conscience, accusing consciences, conviction of sin |
+| close with (temptation, Christ) | embrace, accept, take, join with |
+| close (inclination) | secret |
+| discover, discovery (show) | reveal, show, revelations (where it means "find out", it stays) |
+| apprehension(s) | grasp, understanding, awareness, perceptions |
+| improve (turn to use) | make use of, turn to, use, exploit |
+| impose on (the will) | deceive |
+| relieve itself against | defend itself against |
+| communicate, communications (of grace) | impart, give, convey; imparting, supplies |
+| sensible, sensibly | felt, perceptibly |
+| slightly (superficially) | lightly |
+| still (always) | always, ever |
+| jealous (over) | watchful, vigilant |
+| peculiar to believers | found only in believers |
+| signal (mercy, grace) | remarkable |
+| strange (mercies) | remarkable |
+| success (of sin's deceit) | result |
+| interest (Satan's) | claim, hold |
+| virtue (power) | power, might |
+| humor(s) (bodily) | infection, disorders |
+| motions (of sin, of the Spirit) | impulses, stirrings, promptings |
+| condescension (God's) | his gracious stooping to us |
+| properly / improperly | strictly / loosely |
+| formal nature / formal reason (of sin) | very essence / essence |
+| reluctance (of grace) | resistance |
+| want | lack |
+| mean (of their kind) | paltry |
+| owning | acknowledging |
+| become (befit) | befit |
+| by accident | incidentally |
+| ingenuousness | nobleness of heart |
+| character (description) | description |
+| retirement (duties of) | solitude |
+| outrageous (raging) | rage |
+| quick (sense) | fresh |
+| abroad (in the world) | out (in the world) |
+| desert (merit) | ill desert |
+| aggravations | circumstances that made them worse |
+
+Kept: Owen's own explanations ("a spontaneous lassitude, or a causeless weariness"; "canonical, that is, regular, obedience";
+"a virtual consent"; "formally or virtually"), the Reformed register (frame, principle, effectual, mortify, quickening,
+evangelical, legal), engine(s), formal / formality (going through the form), generality (most men), senseless, Isa 38:14
+"undertake for me" (a quotation). No gloss of ours remains.
