@@ -32,7 +32,7 @@ From this it appears to be a clear case that the commandment of the Pope of Rome
 
 But various things are alleged against this doctrine.
 
-#emph[Objection 1.] The apostle commands the married among the Corinthians to abstain by consent for a time, “so you#super[+] may devote yourselves to fasting and prayer” (1 Cor 7:5). I answer that Paul does not speak in that place of the daily and common service of God in prayer, but of the solemn and extraordinary exercise of it, which was joined with fasting and abstinence in common dangers and calamities.
+#emph[Objection 1.] The apostle commands the married among the Corinthians to abstain by consent for a time, “so you#super[+] may devote yourselves#super[+] to fasting and prayer” (1 Cor 7:5). I answer that Paul does not speak in that place of the daily and common service of God in prayer, but of the solemn and extraordinary exercise of it, which was joined with fasting and abstinence in common dangers and calamities.
 
 #emph[Objection 2.] 1 Cor 7:32: “The unmarried man is concerned about the work of the Lord, how he can please the Lord. But the married man is concerned about the affairs of this world.” #emph[Answer.] The place is not to be understood universally, of all, but only of some: of those married persons who are carnal and fleshly. And he who is married is to be so concerned for the things of the world that he ought to have, and may have as well, a special regard for the things that concern God and his kingdom.
 
