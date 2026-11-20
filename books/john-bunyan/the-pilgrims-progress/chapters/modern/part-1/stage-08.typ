@@ -50,9 +50,9 @@ By this time the pilgrims wanted to go on, and the shepherds wanted them to; so 
 
 Then they tried to look; but the memory of that last thing the shepherds had shown them made their hands shake, and because of this they could not hold the spyglass steady to look through it; yet they thought they saw something like the gate, and also some of the glory of the place. Then they went away and sang,
 
-#quote[“Thus by the shepherds secrets are reveal’d, \
+#quote[“Thus by the shepherds secrets are revealed, \
 Which from all other men are kept concealed: \
 Come to the shepherds then, if you would see \
-Things deep, things hid, and that mysterious be.”]
+Things deep, things hidden, things of mystery.”]
 
 When they were about to leave, one of the shepherds gave them directions for the way. Another of them told them to beware of the Flatterer. The third told them to take care not to sleep on Enchanted Ground. And the fourth wished them Godspeed. So I awoke from my dream.

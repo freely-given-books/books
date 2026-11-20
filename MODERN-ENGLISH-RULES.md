@@ -26,7 +26,11 @@ same text anymore").
    prints), the Modern English sets it in roman inside quotation marks, as modern books do.
 5. **Hymns and verse** the author quotes from hymnals keep their printed wording (thee, thou, hath,
    "Convinc’d"), for their rhyme and meter (the editor, 2026-11-15, All of Grace); the Modern
-   modernizes the author's prose and his Scripture around them.
+   modernizes the author's prose and his Scripture around them. **The author's own verse** (Bunyan's
+   Apology, Conclusion and Author's Way, and his rhymed comments inside the story) is modernized like his
+   prose, but stays verse: line for line, same stanzas, every couplet still rhyming, about the same meter; the
+   short verses change as little as possible (grammar, misleading words). His true songs and psalm verses ("He
+   that is down", "Who would true valor see") stay as printed (the editor, 2026-11-19, The Pilgrim's Progress).
 
 ## 2. Sentences (the "level 3" of the pilots)
 

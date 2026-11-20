@@ -6,10 +6,10 @@ Then he began to go forward; but Discretion, Piety, Charity, and Prudence were s
 
 Then I saw in my dream that these good companions, when Christian had got down to the bottom of the hill, gave him a loaf of bread, a bottle of wine, and a cluster of raisins; and then he went on his way,
 
-#quote[“Whilst Christian is among his godly friends, \
-Their golden mouths make him sufficient mends \
+#quote[“While Christian is among his godly friends, \
+Their golden mouths make him complete amends \
 For all his griefs; and when they let him go, \
-He’s clad with northern steel from top to toe.”]
+He’s clad in northern steel from top to toe.”]
 
 But now, in this valley of Humiliation, poor Christian was hard pressed; for he had gone only a little way when he caught sight of a foul fiend coming across the field to meet him: his name is Apollyon. Then Christian began to be afraid, and to turn over in his mind whether to go back or to stand his ground. But he considered again that he had no armor for his back, and so he thought that to turn his back on the fiend might give him all the greater advantage, and let him pierce him with his darts with ease. So he resolved to take the risk and stand his ground: for, he thought, even if I had nothing more in view than saving my life, it would be best to stand.
 
@@ -63,10 +63,10 @@ So when the battle was over, Christian said, I will give thanks here to him who 
 
 #quote[“Great Beelzebub, the captain of this fiend, \
 Designed my ruin; therefore to this end \
-He sent him harness’d out; and he, with rage \
-That hellish was, did fiercely me engage: \
+He sent him out in armor; and with rage \
+From hell he came at me, fierce to engage: \
 But blessed Michael helped me, and I, \
-By dint of sword, did quickly make him fly: \
+By dint of sword, was quick to make him fly: \
 Therefore to Him let me give lasting praise, \
 And thank and bless his holy name always.”]
 
@@ -131,10 +131,10 @@ So I saw that Christian went on his way; yet, at the sight of the old man who sa
 #quote[“O world of wonders, (I can say no less,) \
 That I should be preserved in that distress \
 That I have met with here! O blessed be \
-That hand that from it hath delivered me! \
+That hand that from it has delivered me! \
 Dangers in darkness, devils, hell, and sin, \
-Did compass me, while I this vale was in; \
-Yea, snares, and pits, and traps, and nets did lie \
-My path about, that worthless, silly I \
-Might have been catch’d, entangled, and cast down; \
+Surrounded me, while I this vale was in; \
+Yes, snares, and pits, and traps, and nets would lie \
+Around my path, that worthless, helpless I \
+Might have been caught, entangled, and cast down; \
 But since I live, let Jesus wear the crown.”]

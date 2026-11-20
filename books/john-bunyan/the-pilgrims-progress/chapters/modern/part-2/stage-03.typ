@@ -4,7 +4,7 @@
 
 The Interpreter then called for one of his servants, a man named Great-heart, and told him to take a sword, and helmet, and shield; and, Take these daughters of mine, he said, and lead them to the house called Beautiful, where they will rest next. So he took his weapons and went before them; and the Interpreter said, God speed. Those who belonged to the household also sent them off with many a good wish. So they went on their way, and sang,
 
-#quote[This place hath been our second stage: \
+#quote[This place has been our second stage: \
 Here we have heard, and seen \
 Those good things, that from age to age \
 To others hid have been.]
@@ -16,10 +16,10 @@ Conformed to it be.]
 
 #quote[The butcher, garden, and the field, \
 The robin and his bait, \
-Also the rotten tree, doth yield \
+Also the rotten tree, all yield \
 Me argument of weight,]
 
-#quote[To move me for to watch and pray, \
+#quote[To move me, then, to watch and pray, \
 To strive to be sincere; \
 To take my cross up day by day, \
 And serve the Lord with fear.]
@@ -72,12 +72,12 @@ Now I saw in my dream that they went on until they came to the place where Simpl
 
 #speech[#smallcaps[Mercy]: No, no; let them hang, and their names rot, and their crimes live forever against them. I think it a great favor that they were hanged before we came here: otherwise who knows what they might have done to poor women like us? Then she turned it into a song, saying,]
 
-#quote[“Now then you three hang there, and be a sign \
-To all that shall against the truth combine. \
-And let him that comes after, fear this end, \
-If unto pilgrims he is not a friend. \
-And thou, my soul, of all such men beware, \
-That unto holiness opposers are.”]
+#quote[“Now then you#super[+] three hang there, and be a sign \
+To all who will against the truth combine. \
+And let him who comes after fear this end, \
+If to the pilgrims he is not a friend. \
+And you, my soul, of all such men beware, \
+Who to holiness opponents are.”]
 
 So they went on till they came to the foot of the hill Difficulty, where again the good Mr. Great-Heart took the opportunity to tell them what happened there when Christian himself went by. So he took them first to the spring. Look, he said, this is the spring that Christian drank from before he went up this hill; and then it was clear and good, but now it is muddied by the feet of some who do not want pilgrims to quench their thirst here. Ezek 34:18, 19. At this Mercy said, And why so envious, I wonder? But, said their guide, it will do, if it is drawn up and put into a vessel that is clean and good; for then the dirt will sink to the bottom, and the water will come out clearer by itself. So this is what Christiana and her companions had to do. They drew it up, and put it into an earthenware pot, and let it stand till the dirt had sunk to the bottom, and then they drank it.
 

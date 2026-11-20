@@ -8,10 +8,10 @@ He ran like this till he came to a place where the ground rose a little; and on 
 
 Then Christian was glad and light-hearted, and said with a merry heart, “He has given me rest by his sorrow, and life by his death.” Then he stood still a while, to look and wonder; for it was very surprising to him that the sight of the cross should ease him of his burden like this. So he looked, and looked again, until the springs that were in his head sent the waters down his cheeks. Zech 12:10. Now as he stood looking and weeping, behold, three Shining Ones came to him, and greeted him with, “Peace be to you.” Then the first said to him, “Your sins are forgiven,” Mark 2:5; the second stripped him of his rags, and clothed him with a change of clothes, Zech 3:4; the third set a mark on his forehead, Eph 1:13, and gave him a roll with a seal on it, which he told him to look at as he ran, and to hand in at the celestial gate; and so they went their way. Then Christian gave three leaps for joy, and went on singing,
 
-#quote[“Thus far did I come laden with my sin, \
-Nor could aught ease the grief that I was in, \
-Till I came hither. What a place is this! \
-Must here be the beginning of my bliss? \
+#quote[“Thus far I have come laden with my sin, \
+And nothing eased the grief that I was in, \
+Till I came here. What a place is this! \
+Must this be the beginning of my bliss? \
 Must here the burden fall from off my back? \
 Must here the strings that bound it to me crack? \
 Blest cross! blest sepulchre! blest rather be \
@@ -49,10 +49,10 @@ To these things they gave him no answer; they only looked at each other and laug
 
 Then I saw that they all went on till they came to the foot of the hill Difficulty, at the bottom of which there was a spring. In the same place there were also two other ways besides the one that came straight from the gate: one turned to the left, and the other to the right, at the bottom of the hill; but the narrow way ran straight up the hill, and the climb up the side of the hill is called Difficulty. Christian now went to the spring, Isa 49:10, and drank from it to refresh himself, and then began to go up the hill, saying,
 
-#quote[“The hill, though high, I covet to ascend; \
-The difficulty will not me offend; \
-For I perceive the way to life lies here: \
-Come, pluck up heart, let’s neither faint nor fear. \
+#quote[“The hill, though high, I’m eager to ascend; \
+The difficulty will not make me bend; \
+For I can see the way to life lies here: \
+Come, take heart now, let’s neither faint nor fear. \
 Better, though #emph[difficult], the right way to go, \
 Than wrong, though #emph[easy], where the end is woe.”]
 
@@ -179,9 +179,9 @@ For, as they said, and as I believe, said Christian, he did it with the loss of 
 So they talked together till late at night; and after they had committed themselves to their Lord for protection, they went to bed. They put the pilgrim in a large upstairs room, whose window opened towards the sunrise. The name of the room was Peace; there he slept till daybreak, and then he woke and sang,
 
 #quote[“Where am I now? Is this the love and care \
-Of Jesus, for the men that pilgrims are, \
+Of Jesus, for the men who pilgrims are, \
 Thus to provide that I should be forgiven, \
-And dwell already the next door to heaven!”]
+And dwell already right next door to heaven!”]
 
 So in the morning they all got up; and after some more talk, they told him that he must not leave till they had shown him the rare things of that place. And first they took him into the study, where they showed him records of the greatest age; in which, as I remember my dream, they showed him the family line of the Lord of the hill: that he was the Son of the Ancient of Days, and came by eternal generation. Here, too, the deeds he had done were recorded more fully, and the names of many hundreds whom he had taken into his service; and how he had placed them in such dwellings as could be destroyed neither by length of days nor by the decay of nature.
 

@@ -33,15 +33,15 @@ Now I saw in my dream that, when all these things were finished, Mr. Great-Heart
 Then he wrote under it, on a marble stone, the following verses:
 
 #quote[“This is the head of him whose name only \
-In former times did pilgrims terrify. \
+In former times would pilgrims terrify. \
 His castle’s down, and Diffidence his wife \
 Brave Mr. Great-Heart has bereft of life. \
 Despondency, his daughter Much-afraid, \
-Great-Heart for them also the man has play’d. \
-Who hereof doubts, if he’ll but cast his eye \
-Up hither, may his scruples satisfy. \
+Great-Heart for them as well the man has played. \
+Who doubts this, if he’ll only cast his eye \
+Up here, may his misgivings satisfy. \
 This head also, when doubting cripples dance, \
-Doth show from fears they have deliverance.”]
+Shows that from fears they have deliverance.”]
 
 When these men had shown themselves so brave against Doubting Castle, and had killed Giant Despair, they went forward, and went on until they came to the Delectable Mountains, where Christian and Hopeful had refreshed themselves with the many good things of the place. They also got to know the shepherds there, who welcomed them to the Delectable Mountains, as they had welcomed Christian before.
 
@@ -49,18 +49,18 @@ Now the shepherds, seeing so large a party following Mr. Great-Heart (for they k
 
 Then Mr. Great-Heart replied,
 
-#quote[“First, here is Christiana and her train, \
-Her sons, and her sons’ wives, who, like the wain, \
-Keep by the pole, and do by compass steer \
-From sin to grace, else they had not been here. \
+#quote[“First, here is Christiana, in whose care \
+Are her sons and their wives, who, like the Great Bear, \
+Keep by the pole, and by the compass steer \
+From sin to grace, or they would not be here. \
 Next here’s old Honest come on pilgrimage, \
-Ready-to-halt too, who I dare engage \
-True-hearted is, and so is Feeble-mind, \
-Who willing was not to be left behind. \
+Ready-to-halt too, who, I dare to pledge, \
+Is true-hearted, and so is Feeble-mind, \
+Who was not willing to be left behind. \
 Despondency, good man, is coming after, \
 And so also is Much-afraid, his daughter. \
-May we have entertainment here, or must \
-We further go? Let’s know whereon to trust.”]
+May we be given lodging here, or must \
+We go on farther? Tell us what to trust.”]
 
 Then the shepherds said, This is a heartening company. You are welcome here; for we provide for the feeble as well as for the strong. Our Prince takes note of what is done to the least of these; so Infirmity must not be an obstacle to our welcome. Matt 25:40. So they took them to the palace door, and then said to them, Come in, Mr. Feeble-Mind; come in, Mr. Ready-to-halt; come in, Mr. Despondency, and Mrs. Much-afraid his daughter. These, Mr. Great-Heart, said the shepherds to the guide, we call in by name, because they are the most apt to draw back; but as for you and the rest who are strong, we leave you to your usual liberty. Then Mr. Great-Heart said, Today I see that grace shines in your faces, and that you are my Lord’s shepherds indeed; for you have not pushed these sick ones with either side or shoulder, but have rather strewn their way into the palace with flowers, as you should. Ezek 34:21.
 
@@ -95,11 +95,11 @@ When they were ready to go on from there, the shepherds let them go in peace, bu
 From there they went on singing, and they said,
 
 #quote[“Behold how fitly are the stages set \
-For their relief that pilgrims are become, \
-And how they us receive without one let, \
-That make the other life our mark and home!]
+For their relief who pilgrims have become, \
+And how they take us in, no hindrance met, \
+Who make the other life our mark and home!]
 
-#quote[What novelties they have to us they give, \
-That we, though pilgrims, joyful lives may live; \
-They do upon us, too, such things bestow, \
-That show we pilgrims are, where’er we go.”]
+#quote[What new things they have, to us they give, \
+So we, though pilgrims, joyful lives may live; \
+They also upon us such things bestow \
+That show we’re pilgrims, wherever we go.”]

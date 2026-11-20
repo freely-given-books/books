@@ -6,10 +6,10 @@ Now when they had eaten and drunk, and had chatted a little longer, their guide 
 
 When they had come to the place where Mistrust and Timorous met Christian, to persuade him to go back for fear of the lions, they saw what looked like a stage, and in front of it, towards the road, a broad plaque with some verses written on it, and underneath, the reason why that stage had been put up in that place. The verses were these:
 
-#quote[“Let him that sees this stage, take heed \
-Unto his heart and tongue; \
-Lest, if he do not, here he speed \
-As some have long agone.”]
+#quote[“Let him who sees this stage take care \
+Of both his heart and tongue; \
+Lest, if he doesn’t, here he’ll fare \
+As some, long since, have done.”]
 
 The words underneath the verses were, “This stage was built as a place to punish those who, through timidity or mistrust, are afraid to go further on pilgrimage. Also, on this stage both Mistrust and Timorous were burned through the tongue with a hot iron, for trying to hinder Christian on his journey.”
 
@@ -307,14 +307,14 @@ Then they took them to the mount on which Abraham our father offered up Isaac hi
 
 After they had shown them all these things, Prudence took them into a dining room, where there stood a pair of excellent virginals;#footnote[A musical instrument.] so she played on them, and turned what she had shown them into this excellent song, singing,
 
-#quote[“Eve’s apple we have showed you; \
-Of that be you aware: \
-You have seen Jacob’s ladder too, \
+#quote[“Eve’s apple we have shown you#super[+]\; \
+Of that, you#super[+] must beware: \
+You#super[+] have seen Jacob’s ladder too, \
 Upon which angels are. \
-An anchor you received have; \
-But let not these suffice, \
-Until with Abra’m you have gave \
-Your best, a sacrifice.”]
+An anchor, too, you#super[+] have; \
+But let these not suffice, \
+Until with Abra’m you#super[+] give \
+Your#super[+] best, a sacrifice.”]
 
 Now, about this time, someone knocked at the door; so the Porter opened it, and there was Mr. Great-Heart. But when he had come in, what joy there was! For it now came fresh into their minds how only a little while ago he had killed old Grim Bloody-man the giant, and had delivered them from the lions.
 
