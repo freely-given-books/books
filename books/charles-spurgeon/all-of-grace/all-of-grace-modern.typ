@@ -14,7 +14,7 @@
       #text(size: 16pt)[“Where sin increased, \ grace increased all the more.” \ - Romans 5:20]
 
       #v(2em)
-      #text(size: 8pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own \ Bible where his argument rests on its wording; capitals for God in quotations \ (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), \ once in a sentence; a plain “you” is singular or general.]
+      #text(size: 8pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own \ Bible where his argument rests on its wording; capitals for God in quotations \ (He, His) follow the BSB. “You#super[+]” marks every plural “you” (the older “ye”); \ a plain “you” is singular or general.]
     ]
   ]
 )
