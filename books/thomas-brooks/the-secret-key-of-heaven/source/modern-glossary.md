@@ -154,9 +154,11 @@ translation]; where Brooks translates it himself, nothing is added. Greek and He
 
 ## Plural you
 
-`you#super[+]` (your⁺, You⁺) marks a plural "you": Scripture's "ye"/"you" to many; Brooks to his readers in
-the plural ("yourselves", "friends", "Christians", "you that …"). The first plural you/your of EVERY sentence of a
-plural address is marked, the rest of that sentence plain. Brooks's "thou" to the single reader is plain "you".
+`you#super[+]` (your⁺, yours⁺, yourselves⁺) marks EVERY plural you/your (rules §4.2, the editor 2026-11-19): Scripture's
+"ye"/"you" to many, and Brooks to his readers in the plural ("yourselves", "friends", "Christians", "O sirs", and his
+expository "as you⁺ may see", "you⁺ have here", "Thus you⁺ see": he writes "thou" to the single reader). Brooks's "thou"
+to the single reader, a speaker to one person, a singular verse, and God addressed in prayer stay plain "you".
+Headings carry no mark. (Re-check 2026-11-20: the expository "you" marked throughout, 70 forms.)
 
 ## False friends (the editor, 2026-11-16: replaced with a modern word, never glossed)
 
@@ -203,4 +205,37 @@ Carried over from Precious Remedies (the 2026-11-16 sweep):
 | liquor | liquid |
 | corn | grain |
 | surprised | overtaken |
+
+## Added in the re-check of 2026-11-20
+
+| Brooks | Modern English |
+|---|---|
+| take heed of (= beware of) | beware of (headings too) |
+| shut up (unable to pray or speak) | tongue-tied |
+| carnal relations | relatives according to the flesh |
+| glass (looking-glass) | mirror |
+| retirement(s) | seclusion, secret retreats |
+| quick (living) | living |
+| universal (friend) | a friend in all things |
+| nearly (related) | closely |
+| properly (theirs) | rightfully |
+| civil (actions) | everyday |
+| sensual appetite (of the senses) | sensory appetite |
+| corrections (God's) | chastisements |
+| tempered (clay) | kneaded |
+| heartless (without heart) | without heart |
+| formal (devotions) | merely outward |
+| slightly (carelessly) | superficially |
+| vile (in his own eyes) | unworthy |
+| enlargements (in prayer) | times of freedom in prayer |
+| immediately (to God) | directly |
+| entertain (Christ) | welcome |
+| for nothing (free of charge) | for free |
+| luxury (lust) | lust |
+| ciphers | zeros |
+| to purpose | effectually (rules §3.5) |
+| at this day | in our day |
+| blackamore | blackamoor (the author's word for a person) |
+| curious (prying) | prying, where the context does not carry it |
+| mercies (blessings) | "mercies" kept where Brooks plays on mercy; put to the editor |
 

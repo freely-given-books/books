@@ -8,11 +8,11 @@
 | kind | count |
 | --- | --- |
 | punctuation | 4983 |
-| case | 3803 |
-| emendation | 3667 |
+| case | 3801 |
+| emendation | 3666 |
 | spelling | 2404 |
-| italic | 1973 |
-| spacing | 1896 |
+| italic | 1974 |
+| spacing | 1897 |
 | note | 403 |
 | split | 99 |
 | heading | 90 |
@@ -1897,7 +1897,6 @@
 - [application-02.typ] O → oh,
 - [application-02.typ] heaven → heaven (John 17:3)
 - [application-02.typ] vers → 
-- [application-02.typ] 18 → (1 John 2:10
 - [application-02.typ] The → The “
 - [application-02.typ] Vers . → verse
 - [application-02.typ] But , → 
@@ -6291,7 +6290,7 @@
 - [application-02.typ] . → :
 - [application-02.typ] , → 
 - [application-02.typ] , → 
-- [application-02.typ] . → 
+- [application-02.typ] . → (1 John 2:
 - [application-02.typ] , → –
 - [application-02.typ] . → ,
 - [application-02.typ] , → 
@@ -8860,7 +8859,7 @@
 ## case
 
 - his → His (×344)
-- he → He (×195)
+- he → He (×193)
 - Communion → communion (×75)
 - and → And (×75)
 - him → Him (×66)
