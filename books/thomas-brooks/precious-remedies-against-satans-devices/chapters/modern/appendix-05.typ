@@ -2,7 +2,7 @@
 
 === The fifth #emph[device] that Satan has to keep a sinner and Christ apart, is,
 
-BY working on a sinner to mind the secret decrees and counsels of God more than his own duty. “Why do you need to busy yourself about receiving, embracing, and welcoming Christ?” says Satan. “If you are elected, you will be saved; if not, all that you can do will do you no good.” Indeed, he will work on the soul not only to doubt its election, but to conclude that he is not elected, and that therefore, let him do what he can, he will never be saved.
+BY working on a sinner to think more on the secret decrees and counsels of God than on his own duty. “Why do you need to busy yourself about receiving, embracing, and welcoming Christ?” says Satan. “If you are elected, you will be saved; if not, all that you can do will do you no good.” Indeed, he will work on the soul not only to doubt its election, but to conclude that he is not elected, and that therefore, let him do what he can, he will never be saved.
 
 #strong[Now the remedies against this #emph[device] of Satan are these.]
 

@@ -104,9 +104,10 @@ is added. Greek and Hebrew stay as printed.
 ## Plural you
 
 `you#super[+]` (your⁺, You⁺) marks a plural "you": Scripture's "ye"/"you" to many; Brooks to his readers
-in the plural ("ye" in the dedication to his flock, "beloved" addresses). The first plural you/your of EVERY
-sentence of a plural address is marked, the rest of that sentence plain. Brooks's usual "you" to the single
-reader ("thou", "thy soul") is plain "you".
+in the plural ("ye" in the dedication to his flock, "beloved" addresses). EVERY plural you, your, yours and
+yourselves is marked (rules §4.2, the editor 2026-11-19; applied to this book in the re-check of 2026-11-19).
+Brooks's "you" to the single reader or soul ("thou", "thy soul"), Satan or an objector speaking to one soul, and a
+general "you" (anyone, in a proverb or maxim) are plain "you".
 
 ## False friends (the editor, 2026-11-16: replaced with a modern word, never glossed)
 
@@ -154,6 +155,30 @@ The sweep of 2026-11-16 (`work/false-friends-2026-11-16/precious-remedies-agains
 | corn | grain |
 | surprised | overtaken |
 | stand with God for a trifle | fall out with God over a trifle (his own "break with God for a little" in the same paragraph; the editor, 2026-11-18) |
+| vain men, vain persons (empty, worldly) | worldly men, worldly people (re-check 2026-11-19; "vain thoughts" stays) |
+| study (aim, pursuit; composing) | aim, pursuit, strive; writing (by sense) |
+| mind (attend to, heed) | think on, attend to, heed (by sense) |
+| work (a person) to (induce) | lead, move, bring (by sense) |
+| confusion (shame, ruin) | disgrace, ruin (where "shame" already stands beside it) |
+| proper, properly (own; truly) | true, truly, distinctively (by sense) |
+| credit (reputation) | reputation |
+| deserts | merits |
+| put off (this earthly tabernacle) | lay aside |
+| backward / forward (unwilling / eager) | reluctant / eager |
+| graceless | godless |
+| jealous (suspicious) | suspicious |
+| visitation (Augustine's) | pastoral visit |
+| motions (of providence) | workings ("stirrings" for the Spirit and sin) |
+| expostulate | remonstrate |
+| converse (with God) | commune |
+| lustiness (vigor) | vigor |
+| insensible of | numb to |
+| new creature | new creation (2 Cor 5:17) |
+| disappointed of (prey) | deprived of |
+| naught (Tully's judgment) | worthless |
+| cross actings (a man's own, Jonah's) | contrary actings ("adverse" stays for providences acting on him) |
+| "may not" after "who can tell" / "cannot say that" | "may yet" / "will not" |
+| mercies (blessings) | blessings; except chapter 8 ("The Outward Mercies of Worldly Men"), where the word runs through the chapter beside God's mercy: the editor's call (2026-11-19) |
 
 Also applied where the draft had missed this glossary: Dives → the rich man; cordial → heart-medicine.
 Kept: sad (as above), dolors [sorrows] (Isidore's rhyme; a bracket on the Latin-English pun), Bridewell, peremptory,
