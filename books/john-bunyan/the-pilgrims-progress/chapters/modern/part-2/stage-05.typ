@@ -61,13 +61,13 @@ Did I say that our Lord had his country house here in former days, and that he l
 
 Now they had come to the place where the battle mentioned before was fought. Then the guide said to Christiana, her children, and Mercy, This is the place; on this ground Christian stood, and up there Apollyon came against him. And look, did I not tell you? here is some of your husband’s blood on these stones to this day. See, too, how here and there some of the splinters of Apollyon’s broken darts can still be seen on the place. See also how they beat the ground with their feet as they fought, to hold their places against each other; and how with their stray blows they split the very stones in pieces. Truly, Christian played the man here, and showed himself as valiant as Hercules could have done, had he been there, even Hercules himself. When Apollyon was beaten, he retreated to the next valley, which is called the Valley of the Shadow of Death, and which we will come to soon. Look, over there also stands a monument, on which this battle is engraved, and Christian’s victory, to his fame through all ages. So, because it stood right by the wayside in front of them, they stepped up to it and read the writing, which word for word was this:
 
-#quote[“Hard by here was a battle fought, \
+#quote[“Near here there was a battle fought, \
 Most strange, and yet most true; \
 Christian and Apollyon fought \
 Each other to subdue.]
 
-#quote[The man so bravely play’d the man, \
-He made the fiend to fly; \
+#quote[The man so bravely played the man, \
+He forced the fiend to fly; \
 Of which a monument I stand, \
 The same to testify.”]
 
@@ -111,11 +111,11 @@ Mr. Great-Heart, seeing that, runs at him in the full heat of his spirit, and pi
 
 When this was done, they together set up a pillar, fastened the giant’s head on it, and wrote underneath, in letters that passers-by might read,
 
-#quote[“He that did wear this head was one \
-That pilgrims did misuse; \
+#quote[“He who once wore this head was one \
+Who pilgrims would misuse; \
 He stopped their way, he spared none, \
-But did them all abuse; \
-Until that I Great-Heart arose, \
+But all he would abuse; \
+Until I, Great-Heart, arose, \
 The pilgrims’ guide to be; \
-Until that I did him oppose \
-That was their enemy.”]
+Until I rose up to oppose \
+Him who was their enemy.”]

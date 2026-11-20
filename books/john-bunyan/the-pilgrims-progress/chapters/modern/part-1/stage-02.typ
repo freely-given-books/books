@@ -118,7 +118,7 @@ Then Christian said, May we go in there?
 Then the Interpreter took him and led him up toward the door of the palace; and there at the door stood a great company of men, wanting to go in, but they did not dare. A man also sat at a little distance from the door, at a table, with a book and his inkhorn in front of him, to take down the names of those who were to enter; and Christian saw that many men in armor stood in the doorway to guard it, resolved to do the men who wanted to enter whatever hurt and harm they could. Now Christian was somewhat bewildered. At last, when every man was shrinking back for fear of the armed men, Christian saw a man with a very resolute face come up to the man who sat there to write, saying, “Set down my name, sir”; and when the writer had done so, Christian saw the man draw his sword, put a helmet on his head, and rush toward the door at the armed men, who fell on him with deadly force; but the man, not at all discouraged, fell to cutting and hacking most fiercely. So after he had received and given many wounds to those who tried to keep him out, Matt 11:12; Acts 14:22; he cut his way through them all and pressed forward into the palace. At this a pleasant voice was heard from those who were inside, even from those who walked on top of the palace, saying,
 
 #quote[“Come in, come in, \
-Eternal glory thou shalt win.”]
+Eternal glory you will win.”]
 
 So he went in, and was clothed with garments like theirs. Then Christian smiled and said, I really think I know the meaning of this.
 
@@ -182,5 +182,5 @@ Then the Interpreter said to Christian, “Have you considered all these things?
 Things pleasant, dreadful, things to make me stable \
 In what I have begun to take in hand: \
 Then let me think on them, and understand \
-Wherefore they showed me were, and let me be \
-Thankful, O good Interpreter, to thee.”]
+Why they were shown to me, and let me too \
+Give thanks, O good Interpreter, to you.”]

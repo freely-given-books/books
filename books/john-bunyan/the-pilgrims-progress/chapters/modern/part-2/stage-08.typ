@@ -196,10 +196,10 @@ How many are his foes! \
 How many ways there are to sin \
 No living mortal knows.]
 
-#quote[Some in the ditch are spoiled, yea, can \
+#quote[Some in the ditch are ruined, yes, can \
 Lie tumbling in the mire: \
 Some, though they shun the frying-pan \
-Do leap into the fire.”]
+Will leap into the fire.”]
 
 After this, I watched until they had come into the land of Beulah, where the sun shines night and day. Here, because they were weary, they gave themselves up to rest for a while. And because this country was open to pilgrims, and because the orchards and vineyards here belonged to the King of the Celestial country, they were free to help themselves to any of his things. But a little while soon refreshed them here; for the bells rang so, and the trumpets sounded so continually and so melodiously, that they could not sleep; and yet they were as refreshed as if they had slept ever so soundly. Here also the cry of all who walked the streets was, More pilgrims have come to town! And another would answer, And so many went over the water, and were let in at the golden gates today! They would cry again, There is now a legion of shining ones just come to town, by which we know that there are more pilgrims on the road; for they come here to wait for them, and to comfort them after all their sorrow. Then the pilgrims got up and walked to and fro. But how their ears were now filled with heavenly sounds, and their eyes delighted with celestial visions! In this land they heard nothing, saw nothing, felt nothing, smelled nothing, tasted nothing that was offensive to their stomach or mind; only when they tasted the water of the river they were to go over, they thought it tasted a little bitter to the palate; but it proved sweeter when it was down.
 

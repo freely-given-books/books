@@ -114,14 +114,14 @@ Now, when I had got more than halfway up, I looked back and saw someone coming a
 
 #speech[#smallcaps[Faithful]: Say? I could not tell what to say at first. Indeed, he pressed me so hard that my blood rushed up into my face; it was this Shame that brought it up, and he had almost beaten me off altogether. But at last I began to consider that what is highly valued among men is held in abomination by God. Luke 16:15. And I thought again, this Shame tells me what men are; but he tells me nothing about what God, or the word of God, is. And I thought, moreover, that at the day of doom we shall not be doomed to death or life according to the swaggering spirits of the world, but according to the wisdom and law of the Highest. Therefore, I thought, what God says is best is indeed best, though all the men in the world are against it. Seeing, then, that God prefers his religion; seeing God prefers a tender conscience; seeing those who make themselves fools for the kingdom of heaven are wisest, and that the poor man who loves Christ is richer than the greatest man in the world who hates him: Shame, depart; you are an enemy to my salvation. Shall I welcome you against my sovereign Lord? How then could I look him in the face at his coming? Mark 8:38. If I were ashamed of his ways and servants now, how could I expect the blessing? But indeed this Shame was a bold villain; I could hardly shake him out of my company; he kept on haunting me, and continually whispering in my ear about one or another of the weaknesses that go with religion. But at last I told him that it was useless to try any further in this business; for the very things he despised were the things in which I saw the most glory. And so at last I got past this persistent fellow. And when I had shaken him off, I began to sing,]
 
-#quote[“The trials that those men do meet withal, \
-That are obedient to the heavenly call, \
+#quote[“The trials those men meet with, one and all, \
+Who are obedient to the heavenly call, \
 Are manifold, and suited to the flesh, \
 And come, and come, and come again afresh; \
-That now, or some time else, we by them may \
+That, now or later on, by them we may \
 Be taken, overcome, and cast away. \
 O let the pilgrims, let the pilgrims then, \
-Be vigilant, and quit themselves like men.”]
+Be watchful, and acquit themselves like men.”]
 
 #speech[#smallcaps[Christian]: I am glad, my brother, that you stood up to this villain so bravely; for of them all, as you say, I think he has the wrong name; for he is so bold as to follow us in the streets, and to try to put us to shame before all men; that is, to make us ashamed of what is good. But if he were not so audacious himself, he would never attempt to do what he does. But let us go on resisting him; for, in spite of all his bravado, he promotes the fool, and no one else. “The wise will inherit glory,” said Solomon, “but shame will be the promotion of fools.” Prov 3:35.]
 
@@ -272,10 +272,10 @@ Then Christian came up and said to his brother, I told you how it would turn out
 #speech[#smallcaps[Christian]: You did well to talk to him as plainly as you did. There is very little of this faithful dealing with men nowadays, and that is what makes religion stink so in the nostrils of many; for it is these talkative fools, whose religion is only in word, and who are debauched and vain in their conduct, who (being admitted so much into the fellowship of the godly) confuse the world, blemish Christianity, and grieve the sincere. I wish that all men would deal with such people as you have done; then they would either be brought more into line with religion, or the company of saints would be too hot for them. Then Faithful said,]
 
 #quote[“How Talkative at first lifts up his plumes! \
-How bravely doth he speak! How he presumes \
-To drive down all before him! But so soon \
+How grandly he can speak! How he presumes \
+To drive down all before him! But as soon \
 As Faithful talks of heart-work, like the moon \
 That’s past the full, into the wane he goes; \
-And so will all but he that heart-work know.”]
+And so will all but he that heart-work knows.”]
 
 So they went on, talking of what they had seen on the way, and in this way made easy a way that would no doubt otherwise have been tedious to them, for now they were going through a wilderness.
