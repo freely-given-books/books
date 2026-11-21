@@ -7,3 +7,5 @@
 title = "Owen on Sin"
 author = "John Owen"
 books = ["john-owen/of-temptation", "john-owen/the-mortification-of-sin"]
+# the print files: the Classic, and the Modern English edition (the two books' chapters/modern)
+print = ["owen-on-sin.typ", "owen-on-sin-modern.typ"]

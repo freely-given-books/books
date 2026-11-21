@@ -11,8 +11,30 @@ summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in on
 
 [[book]]
 book = "john-owen/of-temptation"
-version = "v2"
+version = "v3"
 
 [[book]]
 book = "john-owen/the-mortification-of-sin"
-version = "v2"
+version = "v3"
+
+# The Modern English edition of this volume: a paperback of its own, made from the
+# books' Modern English editions (its -modern print file), signed off on its own
+# (john-owen/owen-on-sin/modern/vN: ./fgb release sign john-owen/owen-on-sin --modern), with its
+# own Lulu revisions. A change to this table holds back only it.
+[modern]
+# One or two sentences for the release catalog: the Modern English volume, its books.
+summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback in Modern English, Of Temptation first: each is the text of its own Modern English edition, unchanged."
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []
+
+# The signed Modern English versions of the books it is made from,
+# each one's newest Modern sign-off (<author>/<book>/modern/vN), written
+# by ./fgb release record as for the Classic's above.
+
+[[modern.book]]
+book = "john-owen/of-temptation"
+version = ""
+
+[[modern.book]]
+book = "john-owen/the-mortification-of-sin"
+version = ""
