@@ -114,7 +114,7 @@ Having so far handled the general instructions named above, I will go on to a mo
 
 #v(0.8em)
 
-#smallcaps[The] #footnote[ὑποτάσσεσθε.] word by which the apostle has set out the duties of wives is in the middle voice. It may be translated passively, as #footnote[Subditae sint \[Let them be subject\]. Hieron. Vet. Trans. Erasm.] many have done, or #footnote[Subijcite vos \[Submit yourselves\]. Beza.] actively, as our English Bible does #emph[(submit yourselves),] and that most fitly: for there is a double subjection.
+#smallcaps[The] #footnote[ὑποτάσσεσθε.] word by which the apostle has set out the duties of wives is in the middle voice. It may be translated passively, as #footnote[Subditae sint \[Let them be subject\]. Hieron. Vet. Trans. Erasm.] many have done, or #footnote[Subijcite vos. Beza.] actively, as our English Bible does #emph[(submit yourselves),] and that most fitly: for there is a double subjection.
 
 1\. A #emph[necessary] subjection, which is the subjection of #emph[order.]
 

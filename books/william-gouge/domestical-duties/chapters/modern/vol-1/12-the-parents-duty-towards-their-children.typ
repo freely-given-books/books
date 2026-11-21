@@ -53,7 +53,7 @@ So that parents, in avoiding the rock of #emph[provoking,] do not fall into the 
 
 The main good which parents ought especially to seek for their children is set out in these words: “Bring them up in the nurture and admonition of the Lord.”
 
-The word translated #emph[(bring up)] properly means to feed #footnote[ἐκτρέφετε.] or nourish with all needful things. It is the same word used before in chapter 5, verse 29, and translated there #emph[nourishes.] It would not be unfitting to keep the proper meaning of the #footnote[ἐκτρέφει. #emph[Enutrite,] \[nourish\] #emph[Beza.]] word here, as the best Latin translations, the French, and others have kept it.
+The word translated #emph[(bring up)] properly means to feed #footnote[ἐκτρέφετε.] or nourish with all needful things. It is the same word used before in chapter 5, verse 29, and translated there #emph[nourishes.] It would not be unfitting to keep the proper meaning of the #footnote[ἐκτρέφει. #emph[Enutrite,] #emph[Beza.]] word here, as the best Latin translations, the French, and others have kept it.
 
 This word, joined with the others that follow, may seem #footnote[Nourrissez. Fr.] at first sight to be placed here only to fill out the sense, as if he had said, #emph[nurture your child in the ways of God.] But if the apostle’s aim and the meaning of the word are well weighed, we shall find that it further implies a general duty, which nature itself teaches parents, namely this, that
 
