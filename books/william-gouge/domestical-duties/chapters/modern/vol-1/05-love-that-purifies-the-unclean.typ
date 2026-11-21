@@ -135,9 +135,9 @@ It may be said to be a means, as stated above, in four special respects.
 
 #smallcaps[III]. A means of working a thing may be said to be necessary#footnote[Things are necessary in two ways.] in two ways.
 
-1\. #emph[Absolutely,] so that the thing cannot possibly be without it.#footnote[Ex Hypothesi.] In this way the proper causes of a thing are absolutely necessary; as in this case God’s covenant, Christ’s blood, and the working of the Spirit are absolutely necessary for attaining any grace.
+1\. #emph[Absolutely,] so that the thing cannot possibly be without it. In this way the proper causes of a thing are absolutely necessary; as in this case God’s covenant, Christ’s blood, and the working of the Spirit are absolutely necessary for attaining any grace.
 
-2\. #emph[By consequence,] so that, according to the course and order which God has set down, things cannot be without them.
+2\. #emph[By consequence,]#footnote[Ex Hypothesi. \[By supposition.\]] so that, according to the course and order which God has set down, things cannot be without them.
 
 Baptism is not absolutely necessary as a cause. For then it would be equal to God’s covenant, Christ’s blood, and the work of the Spirit. #emph[Indeed, then all who are baptized, without any exception, would be cleansed.]
 

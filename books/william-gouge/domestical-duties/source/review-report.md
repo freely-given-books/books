@@ -7,7 +7,7 @@
 | italic | 2671 |
 | spelling | 1831 |
 | emendation | 1348 |
-| note moved | 1098 |
+| note moved | 1102 |
 | case | 148 |
 | grammar | 147 |
 | list | 141 |
