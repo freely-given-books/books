@@ -53,3 +53,30 @@ Kept: Owen's own explanations ("a spontaneous lassitude, or a causeless wearines
 "a virtual consent"; "formally or virtually"), the Reformed register (frame, principle, effectual, mortify, quickening,
 evangelical, legal), engine(s), formal / formality (going through the form), generality (most men), senseless, Isa 38:14
 "undertake for me" (a quotation). No gloss of ours remains.
+
+## Added by the re-check (2026-11-20)
+
+| Owen | Modern English |
+|---|---|
+| vanity (of mind) | futility |
+| perplexed | troubled |
+| pretend(ed) (claim) | claim(ed) |
+| temper (disposition) | disposition, mood |
+| indisposition, indisposed (to duty) | disinclination, disinclined |
+| peculiar (to) | special, distinctive, belonging to him alone, found only in |
+| aggravation (of sin) | what makes it worse (worst of all) |
+| surprised (into sin) | overtaken; surprisal = being taken unawares |
+| sensual (opinions, affections) | carnal, fleshly |
+| apparent (good) | seeming |
+| engagements (to God) | commitments |
+| slight, slightness | light, lightness, shallow |
+| conviction(s) (of sin) | conviction of sin, accusing conscience |
+| commination | denunciation |
+| outrageously | furiously |
+| take heed of | beware of |
+| passion (anger) | quick temper |
+| the creature (a man who has conceived sin) | the person |
+
+Kept as well: quickening (not "making alive"), engines, expiation, "virtual consent" (no gloss), "preventing grace" in ch. 13 (it
+hinders sin; ch. 7 has "restraining grace", a question for the editor). Jas 1:15 is quoted "brings forth" throughout (BSB adjusted:
+chs. 12-13 argue from conceiving and bringing forth).

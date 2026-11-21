@@ -3,10 +3,10 @@
 | kind | count |
 | --- | --- |
 | spelling | 812 |
-| punctuation | 758 |
+| punctuation | 759 |
 | italic | 443 |
 | spacing | 406 |
-| emendation | 401 |
+| emendation | 402 |
 | level | 204 |
 | case | 35 |
 | grammar | 32 |
@@ -322,6 +322,7 @@
 - [chapter-12.typ] the → that
 - [chapter-13.typ] it self → itself
 - [chapter-13.typ] ver → v
+- [chapter-13.typ] 19 → 10
 - [chapter-13.typ] 19 → 13
 - [chapter-13.typ] Psal . → Ps
 - [chapter-13.typ] Eccles . → Eccl
@@ -953,6 +954,7 @@
 - [chapter-13.typ] . → ,
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
+- [chapter-13.typ] . → ,
 - [chapter-13.typ] . → :
 - [chapter-13.typ] . → 
 - [chapter-13.typ] . → :
