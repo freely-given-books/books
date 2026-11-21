@@ -512,3 +512,9 @@ Anabaptists, atheists (lowercase), caterpillars (Gouge's image of idle servants)
   5:21-6:4); "servants" kept as his general title, "slaves" (and "slave or free") for his bondmen and
   bondslaves, "servile or more free" for his two kinds; Justinian's Code cited Cod. 9.14 (De emendatione
   servorum), corrected from the print's "tit. 18", both editions.
+- Volume IV (Vikunja #120-#126): ch. 04 §. 31 margin notes as the 1626 edition sets them; the printer's and
+  transcription errors corrected in both editions (classic-verdicts.tsv); Gouge's own slips kept ("ten
+  talents" at Luke 19, the doubled "11. Observation"); "equity" kept as his category (Justice and Equity,
+  Col 4:1), "fairness" elsewhere by sense; "purloin" kept where he expounds Titus 2:10; 1 Cor 15:33 and 10:23
+  in his reading ("Evil talk", "not all things that are lawful are expedient"); "conscience of the true
+  God" (Rahab and the Gibeonites, ch. 05 §. 38) → "conscience toward the true God", a moral fear of God.
