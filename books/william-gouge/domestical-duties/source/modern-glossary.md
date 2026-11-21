@@ -492,3 +492,9 @@ Anabaptists, atheists (lowercase), caterpillars (Gouge's image of idle servants)
   printed, unexplained; "under covert baron, that is, under her husband's covering" kept, the gloss in
   Gouge's sentence; Gouge's "you" to all his readers marked you⁺. Ch. 17's section heads renumbered to the
   print's own contents table (§. 57 → 56, the first §. 58 → 57), both editions.
+- Volume III (Vikunja #107-#111): the Classic's corrections from the 1626 edition kept (2 Sam 13:13 "with-hold
+  me from thee", Gen 31:37 "thine household-stuff"; ch. 10 §73 "their children's husbands or wives");
+  "fathers and mothers in law" rendered by sense (stepfather / stepmother for a parent's marriage,
+  father-in-law / mother-in-law for a child's, both named where Gouge means both, and in his definitions);
+  baptismal "witnesses" kept (not godparents or sponsors); "rudely brought up" by sense ("untaught" where
+  the point is teaching, "without manners" where it is manners, as ch. 07 §§30-31).
