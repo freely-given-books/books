@@ -6,7 +6,7 @@
 | spacing | 2719 |
 | italic | 2671 |
 | spelling | 1831 |
-| emendation | 1348 |
+| emendation | 1350 |
 | note moved | 1102 |
 | case | 148 |
 | grammar | 147 |
@@ -888,6 +888,8 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Pro . → Prov
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 57 → 56
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 58 → 57
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Joh . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Cant . → Song

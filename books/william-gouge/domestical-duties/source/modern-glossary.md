@@ -328,3 +328,9 @@ irritate (ch. 07 §44).
   Hypothesi" moved to "By consequence"; ch. 8 §71 Heb 1:2, Ps 24:1 and 1 Cor 3:21 moved to "heir of all",
   "the fulness thereof" and "All things are yours" (both editions).
 - Kept as printed in both editions: Eph 3:1 (ch. 11 §103) and "the unity of his divine nature" (ch. 4 §31).
+- Volume II (Vikunja #100-#106): Eph 5:33 "fears" in ch. 08 §7 only, where Gouge argues from the word,
+  "reverences" elsewhere; Gouge's Geneva verse numbers kept as printed beside BSB wording (Eccl 7:3, 7:23,
+  Num 30, Song 1:2), in every volume; the names husband and wife give each other (ch. 08, ch. 15) kept as
+  printed, unexplained; "under covert baron, that is, under her husband's covering" kept, the gloss in
+  Gouge's sentence; Gouge's "you" to all his readers marked you⁺. Ch. 17's section heads renumbered to the
+  print's own contents table (§. 57 → 56, the first §. 58 → 57), both editions.
