@@ -38,7 +38,27 @@ Perkins's voice stay. Scripture quotations (BSB as adjusted) and the Classic are
 | proper (government) | particular |
 | public exercises | public services |
 | causes (criminal) | cases |
+| mere (nullity) | utter (nullity) (re-check 2026-11-21) |
+| graceless, ungracious | wicked, godless |
+| interest (in a thing); right and interest | right; right and claim |
+| confusion (of kinds) | mixing |
+| proper to, the proper cause | belonging only to, the true cause |
+| estate (rank; condition) | standing; fortunes; state |
+| race (of ancestors, of posterity) | lineage |
+| in a sort | in a certain sense |
+| the creatures (created things) | created things |
+| several (distinct) | distinct |
+| may not (must not) | must not |
+| live continently | keep self-control |
+| Christian profession | profession of the Christian faith; profess Christianity |
 
 Kept: Perkins's own explanations ("his own man (that is to say …)"), originally, wanting, extremity, simply, lethargy,
 conceived, by accident, Turk (period word), stranger, resolved, stands in, civil, in their kind, made conscience of,
 positive laws, government (of children).
+
+Scripture adjusted where Perkins's proof leans on a word (rules §5.2; re-check 2026-11-21): Deut 20:7, Deut 22:23,
+Matt 1:18 "betrothed" (BSB "pledged"); Matt 1:20 "take Mary as your wife"; Heb 13:4 "Marriage is honorable among all,
+and the marriage bed undefiled" (chs. 3, 10); Num 36:11 "their father's brothers' sons"; Mal 2:15 "a godly seed" (ch. 3),
+"a seed of God" (ch. 10); Eph 6:4 "Parents, do not provoke"; Ezek 1:9 "joined"; Gen 29:27 "Rachel"; Num 30:5 "has not
+consented"; Ps 101:6 "serve me"; 1 Cor 7:21 and John 8:35 "servant"; John 8:35 "does not remain in the house forever";
+1 Tim 4:3 "forbid marriage"; 1 Tim 5:14 "I want"; Luke 16:19 "feasted sumptuously"; Exod 4:26 "When Zipporah said".
