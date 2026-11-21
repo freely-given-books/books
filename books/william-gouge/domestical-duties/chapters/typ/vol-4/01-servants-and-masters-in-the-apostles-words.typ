@@ -8,7 +8,7 @@ As he began with wives and children, in the two former orders, so here he beginn
 
 The Apostle is somewhat copious in laying forth the duties of servants, and in urging them to perform their duty; and that for two especial reasons: One in respect of those, whose masters were infidels: another in respect of those, whose masters were Saints.
 
-1\. Many servants there were in those days wherein the #footnote[#emph[Seruus beneuolentia prosequatur dominum, quamuis impiun. Qui fidelem habet dominum, saluo eius dominio, diligat vt patrem. Conslit. Apost. li.] 4. #emph[ca.] 12. Gal 4:28.] Gospel was first preached to the Gentiles, that by the preaching thereof were converted, whose masters embraced not the Gospel: whereupon those servants began to conceit that they being Christians, ought not to be subject to their masters that were infidels.
+1\. Many servants there were in those days wherein the #footnote[#emph[Seruus beneuolentia prosequatur dominum, quamuis impium. Qui fidelem habet dominum, saluo eius dominio, diligat vt patrem. Constit. Apost. li.] 4. #emph[ca.] 12. Gal 3:28.] Gospel was first preached to the Gentiles, that by the preaching thereof were converted, whose masters embraced not the Gospel: whereupon those servants began to conceit that they being Christians, ought not to be subject to their masters that were infidels.
 
 2\. Other servants there were whose masters believed the Gospel as well as they: now because the Gospel taught, that #emph[there is neither bond nor free, but all are one in Christ Jesus:] they thought that they ought not to be subject to their master who was their brother in Christ.
 
@@ -33,7 +33,7 @@ Here by the way, note three points.
 
 #v(0.8em)
 
-#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all such as by any outward civil bond, or right, #footnote[#emph[Origo vocabuli seruorun in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabaxtur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Uide apud Viu. ibid.]] owe their service to another: of what sex soever the persons themselves be: or of what kind soever their servitude is: whether more servile or liberal.
+#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all such as by any outward civil bond, or right, #footnote[#emph[Origo vocabuli seruorum in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabantur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Vide Lud Viu. ibid.]] owe their service to another: of what sex soever the persons themselves be: or of what kind soever their servitude is: whether more servile or liberal.
 
 #emph[Servile,] as being born servants, or sold for servants, or taken in war, or ransomed; For of old they were called servants, who being taken in war, were saved from death.
 
@@ -143,7 +143,7 @@ Those that content themselves with doing #emph[eye-service] the #footnote[Men pl
 
 To avoid the two forenamed sins, #emph[eye-service,] and #emph[men-pleasing,] the Apostle giveth an excellent direction in these words, #emph[as the servants of Christ doing the will of God from the heart,] where we may observe #emph[servants of Christ] to be opposed to #emph[men-pleasers,] and #emph[doing God’s will from the heart] to #emph[eye-service.]
 
-#emph[Servants of Christ,] are they who know that their masters are in #footnote[δοῦλοι τοῦ Χριστοῦ.] Christ’s place, bear his image, have their authority from him, and are under him: so as in serving their masters they serve #footnote[Who are servants of Christ.] Christ: and so far as they may serve both together, they will: but if they prove contrary masters, and thereupon one of necessity must be left, then they will cleave unto the highest master, which is Christ: and in this respect they are called #emph[the Lord’s freemen,] 1 Cor 7:22. Thus we see how a servant may #footnote[#emph[Quo pacto servus non est servus? Cum prop ter Deum omnia facit. Chrys. in] 1 Cor 7. #emph[hom.] 19.] be no servant, if he do all things for the Lord.
+#emph[Servants of Christ,] are they who know that their masters are in #footnote[δοῦλοι τοῦ Χριστοῦ.] Christ’s place, bear his image, have their authority from him, and are under him: so as in serving their masters they serve #footnote[Who are servants of Christ.] Christ: and so far as they may serve both together, they will: but if they prove contrary masters, and thereupon one of necessity must be left, then they will cleave unto the highest master, which is Christ: and in this respect they are called #emph[the Lord’s freemen,] 1 Cor 7:22. Thus we see how a servant may #footnote[#emph[Quo pacto servus non est servus? Cum propter Deum omnia facit. Chrys. in] 1 Cor 7. #emph[hom.] 19.] be no servant, if he do all things for the Lord.
 
 From this opposition betwixt #emph[men-pleasers] and #emph[servants of Christ,] note that
 

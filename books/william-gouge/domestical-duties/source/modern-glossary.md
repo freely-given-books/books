@@ -60,7 +60,18 @@ BSB, adjusted where Gouge expounds the King James wording:
 - 6:2 “Honor your father and mother” (which is the first commandment with a promise),
 - 6:3 that it may go well with you, and that you may live long on the earth.
 - 6:4 And you⁺ fathers, do not provoke your children to wrath, but bring them up in the nurture and admonition of the Lord.
-- 6:5-9 (Volume IV): to be set the same way when drafted, from the BSB, keeping the words Gouge expounds.
+- 6:5 Servants, be obedient to those who are your⁺ masters according to the flesh, with fear and trembling, in singleness of your⁺ heart, as to Christ;
+- 6:6 not with eye-service, as men-pleasers, but as the servants of Christ, doing the will of God from the heart;
+- 6:7 with good will doing service, as to the Lord and not to men,
+- 6:8 knowing that whatever good thing any man does, the same he will receive from the Lord, whether he is slave or free.
+- 6:9 And you⁺ masters, do the same things to them, forbearing threatening, knowing that your⁺ Master also is in heaven, and there is no respect of persons with Him.
+
+  (Volume IV, 2026-11-20: Gouge expounds every word of 6:5–9 in Treatise 1 §§. 123–133 and Treatises 7–8, so the
+  verses keep his expounded words: "servants" (δοῦλοι, a general title, not "slaves"), "according to the flesh",
+  "fear and trembling", "singleness of heart" (he defines it: "honest, entire, upright"), "eye-service" and
+  "men-pleasers" (his comment on the English word), "the same things", "forbearing threatening" (moderating, not
+  forbidding: his §. 130), "respect of persons" (πρόσωπον, face and person: his §. 133); "bond or free" → "slave or
+  free", as Gouge himself explains it of bondmen.)
 
 Other recurring verses: 1 Pet 3:7 "the weaker vessel" (kept); Gen 2:24 and Matt 19:5-6 as the BSB
 ("one flesh"; "what God has joined together, let man not separate").
@@ -390,3 +401,72 @@ first person); baptism "in the name of" (Acts 2:38; 10:48; 19:5). Lam 4:3: Gouge
 Kept: correct / correction (a parent's), the rod, nurture, admonition, recompense (head term), infirmities (head term),
 eye-service, peremptory, filial awe, corrosive, apothecary, dry nurse, "apish kindness" (the ape that smothers its young),
 "pain and pains", schoolmasters, orphans, religious orders, simony, "approved examples" (approved by God).
+
+
+## Added from the Volume IV drafts and checks (2026-11-20)
+
+The text blocks: ch. 01 (Eph 6:5, 6:6, 6:7, 6:8, 6:9, one verse over each section), ch. 02 (Eph 6:5–8, "5\. … 8."),
+ch. 06 (Eph 6:9) and ch. 10 (Eph 6:9 from "Knowing"), all in the settled wording above.
+
+Recurring Scripture words kept where Gouge leans on them (BSB adjusted): Col 3:22 and Titus 2:9 "in all things"; Titus
+2:9 "please them well … not answering back"; 1 Pet 2:18–20 "with all fear", "the perverse", "thankworthy", "for
+conscience toward God, endure grief, suffering wrongfully", "buffeted", "take it patiently"; 1 Tim 6:1 "worthy of all
+honor"; Col 3:24 "the reward of the inheritance"; Col 4:1 "what is just and equal"; 1 Cor 7:21–22 "servant", "the Lord's
+freeman"; Gal 1:10 "If I still pleased men, I would not be the servant of Christ"; Matt 25:21, 30 "faithful",
+"unprofitable"; Luke 16:2 "Give an account of your stewardship" / "steward"; Prov 25:13 "faithful messenger"; Prov 13:17
+"is health"; Prov 11:13 "of a faithful spirit"; Prov 20:19 "He who reveals secrets is a gossip" (convertible); Prov
+29:19 "though they understand, they will not speak" (Gouge's own wording); Prov 29:21 "become his son in the end"; Prov
+27:22 the BSB ("grind a fool in a mortar with a pestle along with grain"); Prov 27:27 "Let the milk of your goats be
+enough for your food" (a direction); Prov 31:21 "double garments"; Gen 39:2 "prosperous"; Gen 30:30 "When shall I
+provide for my own household?"; Ps 40:6 "my ears You have pierced" (the bored ear, Exod 21:6); Ps 101:6 "My eyes";
+1 Tim 3:4 "rule his own household well … in subjection"; 1 Cor 10:23 "lawful … expedient" (Gouge: "not all things that
+are lawful are expedient"); 1 Cor 15:33 "Evil talk corrupts good character"; Luke 13:7 "Why should it take up the
+ground?"; 1 Sam 22:7 "Will the son of Jesse give …"; Eph 6:9 "respect of persons" (and God's "impartial respect toward
+all", §. 49). Isa 24:2 "like master, like servant" as Gouge's proverb.
+
+| 1622 | Modern English |
+|---|---|
+| servant(s) (δοῦλοι, Gouge's general title) | servant(s), kept; "servile or liberal" → "servile or free" |
+| bondmen, bondwomen, bond-servants, bondslave, bond or free | slaves; slave or free (where Gouge means the unfree) |
+| covenant, covenanted (of service) | agreement, agreed; "covenant" kept where Gouge plays on it (two covenants, ch. 08 §. 25) |
+| prentices, journeymen | apprentices, journeymen (kept) |
+| eye-service, men-pleasers | kept (the verse's words) |
+| parasitical (service) | fawning; parasites → flatterers, sycophants |
+| purloin (Titus 2:10, where Gouge expounds the word) | purloin (kept: secret keeping back, wider than stealing); elsewhere steal, pilfer |
+| filch | pilfer |
+| answer again, gainsay | answer back, speak against |
+| equity (Gouge's category, with Justice, Col 4:1) | Equity, kept; "common equity … but no equality" kept; fairness elsewhere |
+| estate (temporal: soul, body and estate) | livelihood; (goods) wealth |
+| finding (at their masters' finding) | provided for at their masters' expense |
+| seasonable | timely, in due season |
+| ingenious (disposition) | frank and generous (= ingenuous) |
+| desperate (thieves, servants) | reckless |
+| presume (above their master) | set themselves above |
+| insult over | lord it over |
+| rigour, austerity | severity, harshness |
+| dehort | warn against |
+| tale-bearer | gossip |
+| idle packs | idlers |
+| hoggish, sluttish | boorish, slovenly / dirty |
+| repine at | begrudge, resent |
+| mystery (of a trade) | secrets |
+| chapmen, custom | buyers, customers |
+| beholding | indebted, beholden |
+| prevention (of an objection) | forestalling an objection |
+| reverend titles | respectful titles |
+| conscience of (the true God) | awareness of |
+| execution (of commanding power) | exercise |
+| ell (proverb) | "give an inch … take a mile" |
+| Kings translators | the King James translators |
+| dispose (of servants' persons) | have the disposal of |
+| tropical, hyperbolical | figurative, hyperbolic |
+| many years together, thirty days together | many years on end, thirty days on end |
+| think to (go free, thrive) | expect to |
+| in this kind | in this respect, in this way |
+| baseness (of spirit) | servility |
+| visit (of God, with sickness) | visit with sickness |
+| for their own turn | to serve their own ends |
+| take knowledge of | learn |
+
+Kept: eye-service, men-pleasers, journeyman, preferment, the Lord's freemen, "respect of persons", Equity (category),
+Anabaptists, atheists (lowercase), caterpillars (Gouge's image of idle servants), "conceal their infirmities".

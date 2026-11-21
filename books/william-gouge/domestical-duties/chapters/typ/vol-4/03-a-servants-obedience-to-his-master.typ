@@ -57,7 +57,7 @@ Contrary to the forenamed limitations of servants liberty are these, and such li
 
 1\. When servants watch their times to go whither they list, and their master not know it: as when their masters are seriously employed, or abroad, or in bed. Thus that lewd servant #emph[Gehazi] watched his time to run after #emph[Naaman,] thinking that #footnote[2 Kgs 5:20.] his master should not know it.
 
-2\. When being bound to their masters service, they do their own business, and seek their own profit; and that without their masters leave. This aggravated #emph[Gehazi] his privy stealing and withdrawing himself from his master, that he went to receive gifts for himself. Many such lewd servants there be, that knowing such and such friends of their master, who will be ready to do any kindness for them, will use their masters name to borrow money, or get some other favour, and never let their-masters know of it.
+2\. When being bound to their masters service, they do their own business, and seek their own profit; and that without their masters leave. This aggravated #emph[Gehazi] his privy stealing and withdrawing himself from his master, that he went to receive gifts for himself. Many such lewd servants there be, that knowing such and such friends of their master, who will be ready to do any kindness for them, will use their masters name to borrow money, or get some other favour, and never let their masters know of it.
 
 3\. When servants will choose their own work, and do that which liketh themselves best, or else do nothing at all. Thus where many servants be in one house together, if they be not in such places as they like themselves, they will mumble, and grumble, and do nothing well.
 
