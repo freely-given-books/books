@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 627 |
-| spacing | 337 |
-| spelling | 296 |
-| emendation | 202 |
+| punctuation | 628 |
+| spacing | 338 |
+| spelling | 297 |
+| emendation | 203 |
 | italic | 128 |
 | case | 38 |
 | gap | 9 |
@@ -108,6 +108,7 @@
 - [chapter-04.typ] Matth . → Matt
 - [chapter-04.typ] Genes . → Gen
 - [chapter-04.typ] Matth . → Matt
+- [chapter-05.typ note] Leuit . → Lev
 - [chapter-05.typ note] Dei → De ciuit. Dei
 - [chapter-05.typ note] Chap . → Chapter
 - [chapter-05.typ] out , → one
@@ -400,6 +401,7 @@
 - [chapter-04.typ] . → :
 - [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → :
+- [chapter-05.typ note] . → ,
 - [chapter-05.typ note] . → 
 - [chapter-05.typ note] . → 
 - [chapter-05.typ] . → 
@@ -974,6 +976,7 @@
 - servants → servant's (×2)
 - womans → woman's (×2)
 - 14 → 14:
+- 18 → 18:
 - Adams → Adam's
 - Adoniah → Adonijah
 - Ahashuerosh → Ahasuerus
