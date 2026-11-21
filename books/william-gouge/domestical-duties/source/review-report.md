@@ -2,19 +2,19 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4447 |
-| spacing | 2715 |
-| italic | 2670 |
-| spelling | 1835 |
-| emendation | 1362 |
-| note moved | 1103 |
+| punctuation | 4450 |
+| spacing | 2716 |
+| italic | 2671 |
+| spelling | 1846 |
+| emendation | 1370 |
+| note moved | 1105 |
 | case | 148 |
 | grammar | 147 |
 | list | 141 |
 | note | 69 |
 | gap | 48 |
 | merge | 29 |
-| expansion | 25 |
+| expansion | 27 |
 | inset | 24 |
 | split | 20 |
 | epigraph | 2 |
@@ -120,6 +120,8 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Sanctun → Sanctum
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vnun → vnum
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] adultan → adultam
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] impiun → impium
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] rationen → rationem
 
 ## emendation
 
@@ -1255,7 +1257,9 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] where unto → whereunto
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] an other → another
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] meeretitular → mere titular
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] 4 → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Tit . → Titus
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] prop ter → propter
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Joh . → John
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Ephes . → Eph
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Matth . → Matt
@@ -1347,8 +1351,7 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 11 → II
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 2 → 2 King
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] King → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] King → Kgs
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Matth . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Matth . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
@@ -1378,7 +1381,8 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Pro . → Prov
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat → Matt 21:38
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 24 . 49 . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 16 . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] King . → Kgs
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] King . → Kgs
@@ -1431,12 +1435,16 @@
 - [vol-4/06-a-masters-authority-rightly-maintained.typ note] Exo . → Exod
 - [vol-4/06-a-masters-authority-rightly-maintained.typ] EPHES . → Eph
 - [vol-4/06-a-masters-authority-rightly-maintained.typ] relin quishing → relinquishing
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] sea quo . libet → seu quolibet
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Deil → Dei l
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Jos . → Josh
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] 18 → 14
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Psal . → Ps
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Exo . → Exod
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] peccat is → peccatis
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Exo . → Exod
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Coloss . → Col
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ] Pro . → Prov
@@ -1473,6 +1481,7 @@
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Thes . → Thess
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] King . → Kgs
+- [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] eosunt → eo sunt
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Psal . → Ps
@@ -1483,6 +1492,7 @@
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ] Jos . → Josh
 - [vol-4/10-a-masters-own-master-in-heaven.typ note] Mat . → Matt
 - [vol-4/10-a-masters-own-master-in-heaven.typ note] Pro . → Prov
+- [vol-4/10-a-masters-own-master-in-heaven.typ note] fruicoelo → frui coelo
 - [vol-4/10-a-masters-own-master-in-heaven.typ] Ephes . → Eph
 - [vol-4/10-a-masters-own-master-in-heaven.typ] i , → is
 
@@ -5226,7 +5236,7 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
-- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 3:
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
@@ -5443,6 +5453,7 @@
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ] . → ,
+- [vol-4/03-a-servants-obedience-to-his-master.typ] - → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5457,6 +5468,8 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5581,7 +5594,6 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
@@ -5890,6 +5902,7 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] - → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] ( → 
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
@@ -6202,6 +6215,7 @@
 - 48 → 48:
 - 5 → 5:
 - 50 → 50.
+- 72 → 72.
 - 74 → 74.
 - 8 → 8:
 - 83 → 83.
@@ -6227,6 +6241,7 @@
 - Chuzas → Chuza’s
 - Com → Com.
 - Coning → Coniug
+- Conslit → Constit
 - Craelius → Cornelius
 - Daniels → Daniel’s
 - Edwards → Edward’s
@@ -6290,6 +6305,7 @@
 - Uatabl → Vatabl
 - Ueial → Vital
 - Uerendum → Verendum
+- Uide → Vide
 - Uirg → Virg
 - Uirginitas → Virginitas
 - Uiu → Viu
@@ -6338,6 +6354,7 @@
 - capeable → capable
 - case → ease
 - castigandun → castigandum
+- cause → causa
 - cavear → caveat
 - ccuet → covet
 - childings → chidings
@@ -6364,6 +6381,7 @@
 - entertaiment → entertainment
 - erroneeusly → erroneously
 - errore → errare
+- eus → eas
 - even → event
 - expani → expavi
 - extermities → extremities
@@ -6375,6 +6393,7 @@
 - fearinglove → fearing-love
 - feat → fear
 - femals → females
+- fine → sine
 - finisherh → finisheth
 - first → fifth
 - fist → fifth
@@ -6422,6 +6441,7 @@
 - laudot → laudat
 - leek → seek
 - lesum → Iesum
+- lethal → lethale
 - leven → leaven
 - like → like.
 - likwise → likewise
@@ -6473,11 +6493,13 @@
 - qucm → quem
 - queant → quean
 - quiae → quia
+- quodammedo → quodammodo
 - rains → reins
 - rathet → rather
 - requirety → requireth
 - revererend → reverend
 - revetence → reverence
+- revs → reus
 - rhaine → main
 - ruptias → nuptias
 - rust → just
@@ -6492,9 +6514,11 @@
 - see → set
 - sen → seu
 - sences → fences
+- seruabaxtur → seruabantur
 - seruans → servants
 - seruiee → service
 - seruingmen → servingmen
+- seruorun → seruorum
 - shall → shalt
 - sicknesle → sickness
 - siliall → filial

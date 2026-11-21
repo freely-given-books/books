@@ -204,9 +204,13 @@ EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
                     "cover": "cover-vol-3-modern.typ", "front": "ebook-front-vol-3-modern.html"}},
         {"files": ["vol-4/"], "title": "Of Domestical Duties, Volume IV",
          "file": "domestical-duties-vol-4.epub", "cover": "cover-vol-4.typ",
-         "front": "ebook-front-vol-4.html"}]}
+         "front": "ebook-front-vol-4.html",
+         # volume 4's Modern English edition: its text from chapters/modern/vol-4
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume IV",
+                    "file": "domestical-duties-vol-4-modern.epub",
+                    "cover": "cover-vol-4-modern.typ", "front": "ebook-front-vol-4-modern.html"}}]}
 PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)] + ["domestical-duties-vol-1-modern.typ", "domestical-duties-vol-2-modern.typ",
-         "domestical-duties-vol-3-modern.typ"]
+         "domestical-duties-vol-3-modern.typ", "domestical-duties-vol-4-modern.typ"]
 SIDE_BY_SIDE = {"split": ["vol-1/", "vol-2/", "vol-3/", "vol-4/"]}
 
 # Look-alike word swaps that are emendations, not spellings (printed, reading), lowercase:
