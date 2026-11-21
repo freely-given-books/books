@@ -33,7 +33,7 @@ Here, by the way, note three points.
 
 #v(0.8em)
 
-#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all who by any outward legal bond or right #footnote[#emph[Origo vocabuli seruorum in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabantur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Vide Lud Viu. ibid.]] owe their service to another, whatever the sex of the persons themselves, and whatever the kind of their servitude, whether more servile or more free.
+#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all who by any outward legal bond or right #footnote[#emph[Origo vocabuli seruorum in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabantur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Vide Lud Viu. ibid.] \[The origin of the word for servants (#emph[servi]) in the Latin language is believed to be this: those who by the law of war might have been killed by the victors became servants when they were spared (#emph[servabantur]); they were named from “sparing” (#emph[servando]). See Luis Vives on the same place.\]] owe their service to another, whatever the sex of the persons themselves, and whatever the kind of their servitude, whether more servile or more free.
 
 #emph[Servile,] as those who are born servants, or sold as servants, or taken in war, or ransomed. For in ancient times those who were taken in war and saved from death were called servants.
 
