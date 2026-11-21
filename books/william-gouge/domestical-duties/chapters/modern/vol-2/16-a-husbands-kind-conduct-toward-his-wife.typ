@@ -52,7 +52,7 @@ Contrary to this are the furious and spiteful actions of many unkind husbands #e
 
 4\. Masters do not have such opportunity to exercise their cruelty on servants as husbands have on wives, who are to be continually at table and in bed with their husbands.
 
-5\. The nearer wives are to their husbands, and the dearer they ought to be to them, the more grievous blows must be when they are given by a husband’s hand,#footnote[#emph[Huiusmodi virum (siquidem vir appellandus est potius quàm fera) & patricidae, & matricidae similem dixeris. Chrys. hom.] 26. #emph[in] 1 Cor 11.] than by a master’s.
+5\. The nearer wives are to their husbands, and the dearer they ought to be to them, the more grievous blows must be when they are given by a husband’s hand,#footnote[#emph[Huiusmodi virum (siquidem vir appellandus est potius quàm fera) & patricidae, & matricidae similem dixeris.] \[Such a man (if indeed he is to be called a man rather than a wild beast) you would call like a murderer of his father and of his mother.\] #emph[Chrys. hom.] 26. #emph[in] 1 Cor 11.] than by a master’s.
 
 6\. The less power and authority a husband has to strike his wife than a master has to strike a servant, the heavier his blows seem, and the worse a wife’s case seems in that respect than a servant’s. Not unfitly, therefore, is such a man (if he may be thought a man rather than a beast) said to be like a father-killer and a mother-killer.
 
