@@ -11,7 +11,10 @@
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-#set-cover(
+// edition: the Modern English edition's label (cover-vol-3-modern.typ)
+#let cover(edition: none,
+  epigraph: [Submitting your selves one to another in the fear of God.]) = set-cover(
+  edition: edition,
   seal: press-seal,
   // this volume's step of the ramp: a darker olive round the frame and on spine and
   // back; inside the frame, olive with a soft light behind the title and contents;
@@ -49,7 +52,9 @@
   spine-fit: 0.21in,
   pages: 232,
   back-lead: [The duties children owe their parents — reverence, consent, obedience, and the recompense owed to age — and then the parents' own: love and prayer, nursing and nurture, teaching and correction, and the settling of a child in a calling and a marriage.],
-  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph: epigraph,
   epigraph-source: [Ephesians v. 21],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

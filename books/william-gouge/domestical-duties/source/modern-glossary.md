@@ -312,6 +312,84 @@ husband as "Savior of the body" (Gouge's borrowed title, capitalized only inside
 Gouge's head terms (ch. 16, as Volume I); "provoke (to good)" kept, but "urge" where "provoke her" would read as
 irritate (ch. 07 §44).
 
+
+## Added from the Volume III drafts and checks (2026-11-20)
+
+The text blocks: ch. 01 (Eph 6:1–3) "1. Children, obey your⁺ parents in the Lord, for this is right. 2. Honor your father
+and mother (which is the first commandment with a promise), 3. that it may go well with you, and that you may live long on
+the earth." (6:2–3 the commandment to one child: plain "you"); ch. 06 (Eph 6:4) "And you⁺ fathers, do not provoke your⁺
+children to wrath, but bring them up in the nurture and admonition of the Lord." (Volume I's form). "Nurture" and
+"admonition" are kept as the verse's words, with Gouge's own definitions. The fifth commandment's promise is quoted
+"that they may prolong your days" where Gouge gives it "word for word" (ch. 01 §. 2).
+
+Recurring Scripture words kept where Gouge leans on them (BSB adjusted): Lev 19:3 "each of you⁺ must fear his mother and
+his father" (fear; mother first); Col 3:20 "in all things"; Col 3:23 "heartily, as to the Lord"; 1 Tim 5:4 "requite their
+parents", "good and pleasing"; 1 Tim 5:8 "worse than an unbeliever"; 2 Cor 12:14 "lay up for"; Heb 12:9 "we have had
+fathers of our flesh who corrected us, and we gave them reverence"; Heb 12:6–11 "chastens", "chastening"; Prov 13:1 "his
+father's instruction"; Prov 19:18 "Chasten your son"; Prov 29:17 "Correct your son … he will give delight to your soul";
+Prov 22:15 and 23:13 "correction"; Prov 23:13 "if you strike him"; Prov 13:24 "disciplines him early"; Prov 22:6 as
+Volume I; Prov 24:25 "a blessing of good"; Eccl 12:11 "like nails firmly fastened"; 2 Tim 4:2 "be urgent"; 1 Kgs 1:6
+"never once reprimanded him" (Gouge's "displease"); Deut 6:7 "talk of My words to your children", "teach them
+continually"; Isa 28:10 "precept on precept"; Job 11:12 "born like a wild donkey's colt"; Gen 25:27 "dwelt in tents";
+Gen 25:28 "because he ate of his game"; Gen 37:4 "could not speak peaceably"; 1 Cor 7:36 (a father and his virgin
+daughter, "need so requires"); Jer 17:16 "I have not pushed myself forward"; Gal 3:15 "a man's will"; Gal 4:1 "servant";
+Gen 31:36 "trespass … sin"; Ps 22:9 "hope upon my mother's breasts"; Song 8:1 "sucked at my mother's breasts"; Gen 17:7
+"your seed after you"; Hab 2:4 "his own faith"; Matt 12:44 "empty"; Rom 12:19 "Do not avenge ourselves" (Gouge's own
+first person); baptism "in the name of" (Acts 2:38; 10:48; 19:5). Lam 4:3: Gouge's "sea monsters" stay his words
+(not the BSB's jackals). Gouge's Geneva verse numbers kept (Num 30, Eccl 5:12).
+
+| 1622 | Modern English |
+|---|---|
+| fathers / mothers in law | by sense: stepfather, stepmother (by a parent's marriage); father-in-law, mother-in-law (by a child's marriage); "stepparents and parents-in-law" where Gouge means both; his own definition (ch. 05 §. 56) keeps both terms |
+| children in law | stepchildren and children-in-law (by sense) |
+| pupils (of guardians) / scholars | wards / pupils, students |
+| tutors (civil law) / tutors (universities) | guardians (by sense) / tutors |
+| usher | assistant teacher |
+| cocker, cockering, cockeringly | pamper, pampering, with too much pampering |
+| indulgency, lenity | indulgence, leniency |
+| give suck, put forth to nurse, milch nurse, dugs, paps | nurse, send out to a wet nurse, wet nurse, teats (animals), breasts |
+| travel, travail (childbirth) | labor |
+| prentices | apprentices |
+| stock (to set up a child) | capital |
+| portion, will, executor, birthright, firstborn | kept |
+| equity | justice; fairness (by sense) |
+| rudely brought up (without manners, ch. 07 §§. 30-31) | brought up without manners, unmannerly (Volume I's "untaught" where it means untaught) |
+| aberrations, pretences | failings, pretexts |
+| by-respects, complemental(ly) | ulterior motives; for show, as a mere formality (paired with hypocrisy); an outward honor of courtesy (reverence, ch. 02 §. 11) |
+| reverend (bearing) | reverent |
+| carriage, gesture, obeisance | conduct, bearing, gestures of respect |
+| stout, stoutness, stomachful, stout stomach | defiant / headstrong, defiance, sullen, stubborn pride |
+| awful (respect) | awe-filled |
+| the upper hand (precedence) | precedence |
+| loquacity, importunity | talkativeness, insistence |
+| decency (of funerals) | seemliness |
+| casual extremities / necessities | chance misfortunes / chance needs |
+| imprecations | curses |
+| preposterous | wrongheaded |
+| niggardliness, lavishness | stinginess, lavishness |
+| docible, docility | teachable, teachableness |
+| reasonable / unreasonable creatures | rational / irrational creatures |
+| civil (worship, cases) | social, secular (by sense); "civil law" kept |
+| properly (exclusively, strictly) | exclusively, strictly |
+| positive (statute) | enacted |
+| may not (cannot) | cannot, can |
+| put off (a duty) | decline (when it means shirk) |
+| vanity (emptiness) | emptiness |
+| stupid (insensible) | numb |
+| jealousy (suspicion) | distrust |
+| passion | anger |
+| corrections (God's) | chastisements; a parent's "correction" kept, in Gouge's lists too |
+| meddle with (lay hands on) | lay a hand on |
+| witnesses (at baptism) | witnesses (kept: Gouge avoids "godfathers") |
+| Pater noster, Ave Maria, the Belief | kept, translated in brackets; the Creed |
+| gripulous, peeling and polling, bezel out | grasping, stripping and plundering, waste |
+| basely born | born out of wedlock |
+| bastard, idiots, buggery | kept (Gouge's words) |
+| names | the BSB's forms in the Modern: Ham, Reuel, Zechariah, Shimei, Japheth; Abraham after Gen 17 (the Classic keeps Gouge's) |
+
+Kept: correct / correction (a parent's), the rod, nurture, admonition, recompense (head term), infirmities (head term),
+eye-service, peremptory, filial awe, corrosive, apothecary, dry nurse, "apish kindness" (the ape that smothers its young),
+"pain and pains", schoolmasters, orphans, religious orders, simony, "approved examples" (approved by God).
 ## The editor's answers, 2026-11-21
 
 - Eph 5:22: "Wives, submit yourselves⁺ to your own husbands as to the Lord." in every volume (Gouge's §12
@@ -334,3 +412,9 @@ irritate (ch. 07 §44).
   printed, unexplained; "under covert baron, that is, under her husband's covering" kept, the gloss in
   Gouge's sentence; Gouge's "you" to all his readers marked you⁺. Ch. 17's section heads renumbered to the
   print's own contents table (§. 57 → 56, the first §. 58 → 57), both editions.
+- Volume III (Vikunja #107-#111): the Classic's corrections from the 1626 edition kept (2 Sam 13:13 "with-hold
+  me from thee", Gen 31:37 "thine household-stuff"; ch. 10 §73 "their children's husbands or wives");
+  "fathers and mothers in law" rendered by sense (stepfather / stepmother for a parent's marriage,
+  father-in-law / mother-in-law for a child's, both named where Gouge means both, and in his definitions);
+  baptismal "witnesses" kept (not godparents or sponsors); "rudely brought up" by sense ("untaught" where
+  the point is teaching, "without manners" where it is manners, as ch. 07 §§30-31).
