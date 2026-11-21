@@ -33,7 +33,7 @@ Here, by the way, note three points.
 
 #v(0.8em)
 
-#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all who by any outward legal bond or right #footnote[#emph[Origo vocabuli seruorum in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabantur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Vide Lud Viu. ibid.] \[The origin of the word for servants (#emph[servi]) in the Latin language is believed to be this: those who by the law of war might have been killed by the victors became servants when they were spared (#emph[servabantur]); they were named from “sparing” (#emph[servando]). See Luis Vives on the same place.\]] owe their service to another, whatever the sex of the persons themselves, and whatever the kind of their servitude, whether more servile or more free.
+#smallcaps[This] title #emph[(servants)] is a general title, which may be applied #footnote[οἱ δοῦλοι.] to all who by any outward legal bond or right #footnote[#emph[Origo vocabuli seruorum in Lat. lingua inde creditur ducta, quod hi qui iure belli possint occidi à victoribus cùm seruabantur serui fiebant: à seruando appellati. Aug. de Ciu. Dei lib.] 19. #emph[cap.] 15. #emph[Vide Lud Viu. ibid.] \[The Latin word for servants (#emph[servi]) is thought to come from this: those whom the victors might lawfully kill in war became servants when they were spared (#emph[servabantur]), and were named from sparing.\]] owe their service to another, whatever the sex of the persons themselves, and whatever the kind of their servitude, whether more servile or more free.
 
 #emph[Servile,] as those who are born servants, or sold as servants, or taken in war, or ransomed. For in ancient times those who were taken in war and saved from death were called servants.
 
@@ -319,7 +319,7 @@ These two little words #emph[(even your#super[+],] or #emph[your#super[+] also)]
 
 That great master, under whom all masters on earth are, is said here to be #emph[in heaven,] to commend and set forth his dignity and authority all the more, and to make masters stand in greater awe of him. To a like purpose David, having set forth God #footnote[Ps 2:4, 10, 11.] sitting in #emph[the heavens,] draws from it this exhortation to the great rulers on earth: “Therefore be wise, O kings; be admonished, O judges of the earth. Serve the #smallcaps[Lord] with fear, and rejoice with trembling.”
 
-#emph[Objection.] This placing of God #emph[in heaven] makes those who do not fear God all the more insolent and complacent: for they will be ready to think and say, “What does God know? Does He judge through #footnote[Job 22:13, 14.] thick darkness? Thick clouds veil Him so He does not see us as He traverses the vault of heaven.”
+#emph[Objection.] This placing of God #emph[in heaven] makes those who do not fear God all the more insolent and complacent: for they will be ready to think and say, “What does God know?#footnote[Job 22:13, 14.] Does He judge through thick darkness? Thick clouds veil Him so He does not see us as He traverses the vault of heaven.”
 
 #emph[Answer.] 1. The apostle wrote to Christian masters, who thought better of God than such atheists did.
 
