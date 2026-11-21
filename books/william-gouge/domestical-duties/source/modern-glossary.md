@@ -133,7 +133,7 @@ from the grace of God" (Heb 12:15), "Train up a child in the trade of his way" (
 | dotage | folly |
 | exact (of parents, superiors) | demand |
 | careful (of God) | concerned |
-| behoveful | needful |
+| behoveful | needful; beneficial where Gouge argues from benefit (Vol. III ch. 09 ¶258, the heir law) |
 | privily purloin | secretly steal |
 | may not (part) = must not | must not |
 | Whitsuntide | Pentecost |
@@ -498,3 +498,8 @@ Anabaptists, atheists (lowercase), caterpillars (Gouge's image of idle servants)
   father-in-law / mother-in-law for a child's, both named where Gouge means both, and in his definitions);
   baptismal "witnesses" kept (not godparents or sponsors); "rudely brought up" by sense ("untaught" where
   the point is teaching, "without manners" where it is manners, as ch. 07 §§30-31).
+- Volume III (Vikunja #112-#114): the two margin notes moved to their 1622 places kept (ch. 04 §42 2 Sam
+  15:3, ch. 06 §10 1 Pet 2:2, both editions); Bible names normalized in the Modern only (Abram → Abraham after
+  Gen 17, Reuel, Ham, Zechariah, Shimei), Gouge's forms in the Classic; "a behoveful law" → "a beneficial
+  law" in ch. 09 (the argument is about benefit). Reverence is never dropped: it is a theological term, and
+  "Reverence, compared with obedience, is only an outward honor of courtesy" (ch. 02) keeps it as the subject.

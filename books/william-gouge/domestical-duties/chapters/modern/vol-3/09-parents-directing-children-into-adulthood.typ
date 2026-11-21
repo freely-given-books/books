@@ -255,7 +255,7 @@ The parties to whom parents are to perform all the aforesaid duties are expresse
 
 #emph[Answer.] For this reason parents ought to be all the more provident for their other children: in training them up to callings, or laying up portions, or settling other estates on them besides the main inheritance, or in arranging that sufficient portions are raised out of the eldest son’s inheritance, in case God takes the parents away before they have otherwise provided for their children.
 
-From this answer a third reason may be gathered to show that it is a needful law for the commonwealth that the heir should have all the land. For this law makes parents more careful in training up their younger sons to various callings which are profitable to a commonwealth. If every child were to have a part of his father’s lands, they would all depend on it so much that none of them would apply themselves to such callings as are means of men’s livelihood.
+From this answer a third reason may be gathered to show that it is a beneficial law for the commonwealth that the heir should have all the land. For this law makes parents more careful in training up their younger sons to various callings which are profitable to a commonwealth. If every child were to have a part of his father’s lands, they would all depend on it so much that none of them would apply themselves to such callings as are means of men’s livelihood.
 
 === §. 69. #emph[Of parents’ partiality toward some children.]
 
