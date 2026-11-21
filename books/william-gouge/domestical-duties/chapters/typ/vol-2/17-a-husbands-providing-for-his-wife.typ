@@ -108,7 +108,7 @@ Contrary is their strait-handedness to their wives, who allow them no more then 
 
 Thus much of the #emph[extent] of an husbands provident care for the good of his wife. It followeth to speak of the continuance thereof.
 
-=== §. 57. #emph[Of an husbands care to provide for his wife so long as she shall live.]
+=== §. 56. #emph[Of an husbands care to provide for his wife so long as she shall live.]
 
 The #emph[continuance] of an husbands provident care for his wife must be so long as she liveth, yea though she out-live him: not that he can actually when he is dead provide for her, but that he may before his death so provide for her, as she may have wherewithal to maintain her self, and to live according to that place whereunto by him she is advanced: at least that he leave her not only so much as he had with her, but something more also in testimony of his love to her, and care for her. Husbands have the example of Christ to press this duty upon them: for when he went away from his Church#footnote[Eph 4:8.] here on earth, he left his spirit, which furnished it with gifts as plentifully, as if Christ had still remained with her, if not more abundantly.
 
@@ -120,7 +120,7 @@ For the better performance of this duty, husbands which die before the wives, mu
 
 At the time of a man’s departure out of this world from his wife, will the truest trial of his affection to his wife be given: for many that bear their wives fair in hand while they live with them, at their death show that there was no soundness of affection in their heart towards them: all was but a mere show for some by-respects.
 
-=== §. 58. #emph[Of husbands neglect of their wives future estate.]
+=== §. 57. #emph[Of husbands neglect of their wives future estate.]
 
 Contrary are divers practises of unkind husbands. For #footnote[Contrary. 1. A wilful inability.]
 
