@@ -94,7 +94,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-14" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-20" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2005-03</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -6970,7 +6970,7 @@ his <choice><orig>souldiers</orig><reg resp="#auto" type="spelling">soldiers</re
 that his conceived sin should be brought forth.
 This providential dispensation in the obstruction of
 conceived sin, <hi>Moses</hi> excellently sets forth in the
-case of <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Pharaoh,</hi> Exod<choice><orig>.</orig><reg resp="#editor" type="reference"></reg></choice></hi> 15<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>9. 19. <hi>The enemy said, I
+case of <hi ana="#print-only" change="#review"><hi ana="#edition-only" change="#review">Pharaoh,</hi> Exod<choice><orig>.</orig><reg resp="#editor" type="punctuation"></reg></choice></hi> 15<choice><orig>.</orig><reg resp="#editor" type="punctuation">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="spacing"/></choice>9<choice><orig>.</orig><reg resp="#editor" type="punctuation">,</reg></choice> <choice><orig>19</orig><reg resp="#editor" type="emendation">10</reg></choice>. <hi>The enemy said, I
 will pursue, I will overtake, I will divide the spoil, my
 lusts shall be satisfied upon them: I will draw my
 sword, my hand shall destroy them. Thou didst
