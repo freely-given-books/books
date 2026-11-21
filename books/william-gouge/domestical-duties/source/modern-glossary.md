@@ -423,3 +423,8 @@ eye-service, peremptory, filial awe, corrosive, apothecary, dry nurse, "apish ki
   Gen 17, Reuel, Ham, Zechariah, Shimei), Gouge's forms in the Classic; "a behoveful law" → "a beneficial
   law" in ch. 09 (the argument is about benefit). Reverence is never dropped: it is a theological term, and
   "Reverence, compared with obedience, is only an outward honor of courtesy" (ch. 02) keeps it as the subject.
+- Latin, Greek and Hebrew (Vikunja #115, all four volumes): translated in \[brackets\] only where Gouge does
+  not explain or translate the words himself (rule 6, Greek and Hebrew as much as Latin); where his text
+  renders them nothing is added, and duplicate brackets were taken out (Vol. I 4, Vol. III 2). Added:
+  Vol. II 3 (Digest 23.2.42, 1 Pet 3:7 Greek, Chrysostom), Vol. III 1 (Origen), Vol. IV 1 (Augustine on servi).
+- "aforesaid" and Gouge's "and that daily" / "and that by faith and prayer" kept as his turns (Vikunja #116).
