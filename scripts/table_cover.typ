@@ -6,7 +6,8 @@
 // The table is spread with a cloth in the volume's green, olive plants round about it,
 // and this volume's places are laid with gold plates.
 //
-// A cream sheet the whole way round, with a band of the volume's green across head and
+// A cream sheet the whole way round, a step warmer on each volume (ivory to
+// parchment), with a band of the volume's green across head and
 // foot (front, spine and back alike, so the set's greens show on the shelf); the
 // spine is cream, so a fold a little off true shows no stripe. The type is dark ink
 // throughout, which reads on cream and on every green of the set. Cinzel over EB
@@ -25,6 +26,7 @@
 
 #let CREAM = rgb("#F6F1E1")
 #let INK = rgb("#1E2913")
+#let PARCHMENT = rgb("#D6C198")
 #let HONEY = rgb("#DCA53A")
 // olive leaves: dark, mid and light, the same on every volume
 #let LEAVES = (rgb("#5F7A3E"), rgb("#76914B"), rgb("#93AB62"))
@@ -107,8 +109,13 @@
   pages: 200,
   trim-width: 5.5in,
   trim-height: 8.5in,
+  // the cream of this volume's sheet, warmed toward parchment by this much: a step
+  // per volume (the editor, 2026-11-21), so the set's spines differ on the shelf;
+  // the whole wrap alike, so a fold off true shows no stripe
+  paper-tint: 0%,
   front-only: sys.inputs.at("front-only", default: "false") == "true",
 ) = {
+  let CREAM = color.mix((CREAM, 100% - paper-tint), (PARCHMENT, paper-tint))
   let pages = int(sys.inputs.at("pages", default: str(pages)))
   let trim-width = if "trim-width" in sys.inputs { float(sys.inputs.at("trim-width")) * 1in } else { trim-width }
   let trim-height = if "trim-height" in sys.inputs { float(sys.inputs.at("trim-height")) * 1in } else { trim-height }
@@ -206,10 +213,12 @@
     let safe = spine - 2 * SPINE_TRIM
     let fit = if spine-fit != none { calc.min(spine-fit, safe) } else { safe }
     let s = calc.min(fit, 0.5in)
+    let sp-ground = CREAM
+    let sp-accent = LEAVES.at(0)
     place(top + left, dx: spine-x, dy: BLEED, box(width: spine, height: trim-height, {
       set align(center)
       if seal != none {
-        place(bottom + center, dy: -0.5in, seal(width: s, roundel: LEAVES.at(0), fountain: CREAM))
+        place(bottom + center, dy: -0.5in, seal(width: s, roundel: sp-accent, fountain: sp-ground))
       }
       let d = calc.min(0.36in, fit)
       let mark-y = 0.5in + s + 0.14in
@@ -222,14 +231,14 @@
       place(top + center, dy: top-y, rotate(90deg, reflow: true,
         box(width: trim-height - top-y - mark-y - d - 0.16in, height: safe,
           align(left + horizon, {
-            text(weight: "medium", size: size * 0.9, tracking: 0.1em, fill: LEAVES.at(0), upper(spine-author))
+            text(weight: "medium", size: size * 0.9, tracking: 0.1em, fill: sp-accent, upper(spine-author))
             h(0.14in)
-            text(size: 6pt, fill: LEAVES.at(0), sym.diamond.filled)
+            text(size: 6pt, fill: sp-accent, sym.diamond.filled)
             h(0.14in)
             text(font: DISPLAY, size: size, tracking: 0.12em, weight: "bold", fill: INK, upper(title))
             if edition != none {
-              h(0.1in); text(size: 6pt, fill: LEAVES.at(0), sym.diamond.filled); h(0.1in)
-              text(weight: "medium", size: size * 0.6, tracking: 0.1em, fill: LEAVES.at(0), upper(edition))
+              h(0.1in); text(size: 6pt, fill: sp-accent, sym.diamond.filled); h(0.1in)
+              text(weight: "medium", size: size * 0.6, tracking: 0.1em, fill: sp-accent, upper(edition))
             }
           }))))
     }))

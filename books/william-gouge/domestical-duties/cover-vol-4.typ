@@ -16,6 +16,8 @@
   edition: edition,
   seal: press-seal,
   cloth: rgb("#76914B"),
+  // this volume's step from ivory (I) to parchment (IV)
+  paper-tint: 48%,
   places: (
     ([I], [Exposition], [An Exposition of That Part of Scripture out of Which Domestical Duties Are Raised]),
     ([II], [Man and Wife], [Of a Right Conjunction of Man and Wife, and Their Common-Mutual Duties]),
