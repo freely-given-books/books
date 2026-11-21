@@ -470,3 +470,19 @@ all", §. 49). Isa 24:2 "like master, like servant" as Gouge's proverb.
 
 Kept: eye-service, men-pleasers, journeyman, preferment, the Lord's freemen, "respect of persons", Equity (category),
 Anabaptists, atheists (lowercase), caterpillars (Gouge's image of idle servants), "conceal their infirmities".
+## The editor's answers, 2026-11-21
+
+- Eph 5:22: "Wives, submit yourselves⁺ to your own husbands as to the Lord." in every volume (Gouge's §12
+  argues from the reflexive), not the BSB's "submit to".
+- "fathers in law" / "mothers in law" (Gouge's word for those in the place of parents, Vol. I §§96, 116):
+  both senses named, "stepfathers and stepmothers, fathers-in-law and mothers-in-law"; for children
+  "stepchildren, sons-in-law and daughters-in-law".
+- church lowercase, as above; "the Catholic Church" stays "the universal church" with no gloss (the
+  false-friends rule of 2026-11-16 overrules the earlier gloss).
+- Gen 3:16 as Gouge quotes it in each place: "Your desire will be to your husband, and he will rule over
+  you" where he quotes the verse so (Vol. II ch. 9, which argues the verse implies subjection), "your desire
+  will be subject to your husband" where he quotes it so (the KJV margin: Vol. II chs. 8, 11, 12).
+- Margin notes stay where 1622 set them, except where the place misleads: Vol. I ch. 5 §44 "Ex
+  Hypothesi" moved to "By consequence"; ch. 8 §71 Heb 1:2, Ps 24:1 and 1 Cor 3:21 moved to "heir of all",
+  "the fulness thereof" and "All things are yours" (both editions).
+- Kept as printed in both editions: Eph 3:1 (ch. 11 §103) and "the unity of his divine nature" (ch. 4 §31).
