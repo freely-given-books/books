@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4447 |
-| spacing | 2723 |
-| italic | 2673 |
-| spelling | 1830 |
-| emendation | 1335 |
-| note moved | 1097 |
+| punctuation | 4445 |
+| spacing | 2719 |
+| italic | 2671 |
+| spelling | 1831 |
+| emendation | 1350 |
+| note moved | 1102 |
 | case | 148 |
 | grammar | 147 |
 | list | 141 |
@@ -196,6 +196,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Luk . → Luke
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Act . → Acts
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] Virum → Vtrum
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
@@ -270,6 +271,8 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 3 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Rom → Rom 4:11
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 411 . → 
+- [vol-1/05-love-that-purifies-the-unclean.typ note] Jer → Jer 4:4
+- [vol-1/05-love-that-purifies-the-unclean.typ note] 44 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Exhypothesi → Ex hypothesi
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Jos . → Josh 5:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 5 . → 
@@ -332,8 +335,10 @@
 - [vol-1/06-redeemed-for-glory.typ] Christs good - ness → Christ’s goodness
 - [vol-1/07-marital-love-and-self-love.typ note] Ephes . → Eph
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
-- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 1:31
 - [vol-1/07-marital-love-and-self-love.typ note] 12 . 10 → 
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] 1 . 30 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] 3 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Jam . → Jas
@@ -344,6 +349,7 @@
 - [vol-1/07-marital-love-and-self-love.typ note] Mar . → Mark 5:
 - [vol-1/07-marital-love-and-self-love.typ note] 5 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Iam . → Jas
+- [vol-1/07-marital-love-and-self-love.typ note] 56 → 58
 - [vol-1/07-marital-love-and-self-love.typ note] King . → Kgs
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
@@ -379,7 +385,6 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . l → 50
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] King . → Kgs
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Psal . → Ps
@@ -433,6 +438,11 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ] but → : but
 - [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body
 - [vol-1/08-christs-union-with-his-beloved-body.typ] We → . We
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Gen → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 2 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 23 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Vers → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 28 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Sam → Sam 19:11
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 19 . 11 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
@@ -600,6 +610,7 @@
 - [vol-2/02-getting-married.typ] Mat . → Matt
 - [vol-2/02-getting-married.typ] Pro . → Prov
 - [vol-2/02-getting-married.typ] Psal . → Psalm
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 1 → 2
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 4 . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] sirem → si rem
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] Tit . → Titus
@@ -737,7 +748,6 @@
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] 6 → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] King . → Kgs
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Eccles . → Eccl
-- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Deu . → Deut
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] vsum . fructun → vsumfructum
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Cor → 1 Cor
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Pro . → Prov
@@ -755,6 +765,8 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Tit . → Titus
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Sam → Sam 1:11
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] 1 . 15 . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] herequireth → he requireth
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Iam . → Jas
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Treat → Treat. 4
@@ -823,6 +835,7 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] tu → too
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] by → joy
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] up braid → upbraid
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] 4 → 3
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] on → an
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Est . → Esth
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Philem . → Phlm
@@ -875,6 +888,8 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Pro . → Prov
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 57 → 56
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 58 → 57
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Joh . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Cant . → Song
@@ -1959,7 +1974,6 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 3:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
-- [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
@@ -2089,8 +2103,6 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 3:
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
@@ -2370,7 +2382,10 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
@@ -3581,8 +3596,6 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
@@ -6508,6 +6521,7 @@
 - wile → vile
 - with → which
 - wives → wives.
+- women → woman
 - wordlings → worldlings
 - world → world.
 - yoaked → yoked
