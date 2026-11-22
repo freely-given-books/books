@@ -237,5 +237,5 @@ Carried over from Precious Remedies (the 2026-11-16 sweep):
 | at this day | in our day |
 | blackamore | blackamoor (the author's word for a person) |
 | curious (prying) | prying, where the context does not carry it |
-| mercies (blessings) | "mercies" kept where Brooks plays on mercy; put to the editor |
+| mercies (blessings) | "blessings" for good things received; "mercies" kept where Brooks plays on the word (mercies / miseries, "his mercies in mercy", sanctified mercies, the great-bellied mercy) and in the Scripture phrases his point rests on (Gen 32:10 "less than all Your mercies", "the sure mercies of David"): the editor, card #95, 2026-11-22 |
 
