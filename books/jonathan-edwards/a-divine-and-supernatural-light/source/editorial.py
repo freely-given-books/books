@@ -22,7 +22,16 @@ OPENING_SMALLCAPS = "words"
 # a decorated initial and its word printed in capitals ("CHRIST says") set as a word
 DROP_CAP_CASE = True
 # Edwards's capitalized nouns (Religious Affections' and God Glorified's list) and this sermon's own
-LOWERCASE_COMMON_NOUNS = _runpy.run_path(str(Path(__file__).parent / "nouns.py"))["LOWERCASE_COMMON_NOUNS"]
+LOWERCASE_COMMON_NOUNS = _runpy.run_path(str(Path(__file__).parent / "nouns.py"))["LOWERCASE_COMMON_NOUNS"] | {
+    # this sermon's own capitalized nouns, read 2026-11-21
+    "acts", "agreement", "arguings", "author", "believeth", "blessing", "capacities", "candour", "close",
+    "common", "deluge", "edification", "embroidering", "eternal", "experienced", "faculties", "fairy",
+    "fishermen", "force", "glorious", "gloriousness", "godlike", "gradation", "indirectly", "inference",
+    "inferring", "intenseness", "invention", "inventors", "joyful", "judging", "knowlege", "knowledge",
+    "light", "lot", "mode", "mothers", "orders", "oversight", "pieces", "prejudices", "print", "province",
+    "prudence", "ratiocination", "ratiociation", "readers", "reason", "remarkable", "resort", "reveal",
+    "romance", "sciences", "sea", "stage", "stories", "studies", "supernatural", "symphonize", "taste",
+    "unfashionableness", "weather", "whimsy", "writing"}
 # A quotation's first word (an italic run of 5 words or more) keeps its printed capital.
 QUOTE_START_CASE = True
 ITALIC_SENTENCE_QUIRK = False
@@ -41,6 +50,9 @@ def LAYOUT(root):
              "parts": layout.sections(divs["sermon"])}]
 
 
+# the four parts Edwards announces (I., II., III., the improvement) as edition headings, in his
+# words, so the outline under each stays within four levels (EDITION-RULES 4)
+EDITION_HEADINGS = True
 OUTLINE_MARKS = True
 
 EPUB = {"title": "A Divine and Supernatural Light", "author": "Jonathan Edwards",
@@ -81,7 +93,7 @@ GAP_FIXES = {
     24: ('t', 'medium', 'has cast my Lot; preface, read by sense: no free scan of the 1734 preface (the c.1795 reprint omits it)', '#editor'),
     25: ('w', 'medium', "own'd; preface, read by sense: no free scan of the 1734 preface (the c.1795 reprint omits it)", '#editor'),
     26: ('t', 'medium', 'that I have had; preface, read by sense: no free scan of the 1734 preface (the c.1795 reprint omits it)', '#editor'),
-    27: ('had', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-03); two independent reads agree', '#editor'),
+    27: ('had ', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-03); two independent reads agree', '#editor'),
     28: ('t', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-03); two independent reads agree', '#editor'),
     29: ('he', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-03); two independent reads agree', '#editor'),
     30: ('he', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-03); two independent reads agree', '#editor'),
@@ -155,3 +167,10 @@ GAP_FIXES = {
     98: ('a', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-20); two independent reads agree', '#editor'),
     99: ('o', 'high', 'read on the Manning & Loring reprint [c.1795] (work scan-1795 s-20); two independent reads agree', '#editor'),
 }
+
+# Slips of the TCP text corrected in the reading edition, found by two full reads against the
+# c.1795 reprint (work/divine-and-supernatural-light/read): recorded as emendations, not
+# spellings (colophon EMENDATION_PAIRS). Without the 1734 images it is not known whether each is
+# the 1734 printer's or the transcriber's, so the as-printed layer keeps the TCP's reading.
+EMENDATION_PAIRS = {("be", "he"), ("sew", "few"), ("then", "thou"), ("his", "this"), ("pen", "open"),
+                    ("sorth", "forth"), ("ratiociation", "ratiocination")}
