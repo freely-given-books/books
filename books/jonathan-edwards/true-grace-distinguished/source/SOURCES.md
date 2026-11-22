@@ -1,0 +1,9 @@
+# Sources: True Grace, Distinguished from the Experience of Devils (Edwards, 1753)
+
+| Role | Source | File |
+| --- | --- | --- |
+| **Base** | Evans-TCP N05520: *True Grace, Distinguished from the Experience of Devils; in a Sermon, Preached before the Synod of New-York, Convened at New-Ark, in New-Jersey, on September 28. N.S. 1752* (New York: James Parker, 1753; Evans 6996, ESTC W24052), the first printing and the only one in Edwards's lifetime, CC0. The same volume (and TCP file) carries, after it, the "second edition" of *Sinners in the Hands of an Angry God* (pp. 43-62, its own book here); this edition takes True Grace's sermon only. The TCP has four illegible places in True Grace, all filled (`GAP_FIXES`). | `N05520.tcp.xml` (untouched; the same file as Sinners') |
+| Scan of the base printing | None free to use: the Evans images are Readex's, and quod.lib.umich.edu refuses scripted access. Not on archive.org, HathiTrust or Google Books (searched 2026-11-21). The later printings (Elizabeth-Town and Stockbridge, 1791) are posthumous and not online either. | |
+| Page images read against | *The Works of President Edwards*, Leeds: Edward Baines, 1806, vol. 8, Sermon V, pp. 107-139 (archive.org `worksofpresident81edwa`): the earliest free page images, posthumous and edited (modern spelling, some cuts and smoothing). Used for two full close reads of the TCP and the four gaps; a TCP reading was changed only where the sense required it. | `~/Projects/fgbooks/work/true-grace/scan-1806-leeds/` |
+| Keyed witness | CCEL, *Works of Jonathan Edwards*, vol. 2 (Hickman, 1834), `works2.iii.v`: the same edited line as Leeds. | `~/Projects/fgbooks/work/true-grace/sources/web/` |
+| Modern witness | Monergism, "True Grace Distinguished from the Experience of Devils": a copy of the Hickman/CCEL text, not a separate witness. sermonindex.net has no copy (searched 2026-11-21). | `~/Projects/fgbooks/work/true-grace/sources/web/true-grace.monergism.txt` |

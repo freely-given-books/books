@@ -1,0 +1,401 @@
+# Review decisions carried into the enriched TEI
+
+| kind | count |
+| --- | --- |
+| case | 327 |
+| spelling | 166 |
+| emendation | 109 |
+| spacing | 81 |
+| punctuation | 69 |
+| italic | 24 |
+| level | 17 |
+| heading | 4 |
+| grammar | 2 |
+| split | 1 |
+| merge | 1 |
+
+## split
+
+- [sermon.typ] paragraph → 1 split(s) at 1
+
+## emendation
+
+- [sermon.typ] II → 2
+- [sermon.typ] 'em → them
+- [sermon.typ] viii → 8
+- [sermon.typ] , iii . → 3:
+- [sermon.typ] . Xiii . → 13:
+- [sermon.typ] V . → Verse
+- [sermon.typ] , ii . → 2:
+- [sermon.typ] Chap . Iii . → Chapter 3:
+- [sermon.typ] Chap . v . → Chapter 5:
+- [sermon.typ] it self → itself
+- [sermon.typ] . Vi . → 6:
+- [sermon.typ] 'em → them
+- [sermon.typ] 'em → them
+- [sermon.typ] some - way → someway
+- [sermon.typ] 'em → them
+- [sermon.typ] IMPROVEMENT . → 
+- [sermon.typ] 'em → them
+- [sermon.typ] . Xxii . → 22:
+- [sermon.typ] Vi → 
+- [sermon.typ] & c → etc
+- [sermon.typ] Iii → 
+- [sermon.typ] Xi → 
+- [sermon.typ] xiii → 13
+- [sermon.typ] xxxviii → 38
+- [sermon.typ] , xvii → 17:3
+- [sermon.typ] . Xii . → 11:
+- [sermon.typ] . Ix . → 9:
+- [sermon.typ] Philip . Iii . → Phil 3:
+- [sermon.typ] 'em → them
+- [sermon.typ] v → 5
+- [sermon.typ] I → 
+- [sermon.typ] will → will be
+- [sermon.typ] . Vi . → 6:
+- [sermon.typ] Xxxvi → 
+- [sermon.typ] 1 → 50
+- [sermon.typ] thy self → thyself
+- [sermon.typ] Ii → 
+- [sermon.typ] Xxii → 
+- [sermon.typ] came → came in
+- [sermon.typ] be → he
+- [sermon.typ] besure → be sure
+- [sermon.typ] Iii → 
+- [sermon.typ] 'em → them
+- [sermon.typ] 'em → them
+- [sermon.typ] 'em → them
+- [sermon.typ] cxix → 119th
+- [sermon.typ] xiv . Xv . And xvi . Chapters → 14th, 15th and 16th chapters
+- [sermon.typ] chap . Xvii → chapter 17
+- [sermon.typ] . v . → 5:
+- [sermon.typ] & c → etc
+- [sermon.typ] That → , that
+- [sermon.typ] Iii → 
+- [sermon.typ] Xl → 
+- [sermon.typ] Eccles . Xi . → Eccl 11:
+- [sermon.typ] iii → 3
+- [sermon.typ] It → If
+- [sermon.typ] 'em → them
+- [sermon.typ] xvi . Chap . Of → 16th chapter of
+- [sermon.typ] . Momentariness → momentariness
+- [sermon.typ] . Iv . → 5:
+- [sermon.typ] 'em → them
+- [sermon.typ] Ix → 
+- [sermon.typ] Isai . Ii . → Isa 2:
+- [sermon.typ] I → 
+- [sermon.typ] & c → etc
+- [sermon.typ] xiii . Chap . Of → 13th chapter of
+- [sermon.typ] 'em → them
+- [sermon.typ] Ii → 
+- [sermon.typ] U S E → use
+- [sermon.typ] for → from
+- [sermon.typ] vi → 6
+- [sermon.typ] 'em → them
+- [sermon.typ] 'em → them
+- [sermon.typ] 'em → them
+- [sermon.typ] & c → etc
+- [sermon.typ] Iv → 
+- [sermon.typ] . Vi . → 6:
+- [sermon.typ] xvii → 17
+- [sermon.typ] . Ix . → 9:
+- [sermon.typ] GOD , → God
+- [sermon.typ] I → 
+- [sermon.typ] Iii → 
+- [sermon.typ] Iii → 
+- [sermon.typ] Novice left → novice
+- [sermon.typ] Xii → 
+- [sermon.typ] Ii → 
+- [sermon.typ] it self → itself
+- [sermon.typ] 1 → 1st
+- [sermon.typ] St → ,
+- [sermon.typ] ii → 2
+- [sermon.typ] believest → believest that
+- [sermon.typ] , i . → 1:
+- [sermon.typ] or → as
+- [sermon.typ] Ii → 2
+- [sermon.typ] that → if
+- [sermon.typ] Chap . Iii . → Chapter 3:
+- [sermon.typ] . Xiv . → 14:
+- [sermon.typ] Philip . I . → Phil 1:
+- [sermon.typ] . I . → 1:
+- [sermon.typ] : Partaking → partaking
+- [sermon.typ] . Xii . → 12:
+- [sermon.typ] i → 1
+- [sermon.typ] . Iii . → 3:
+- [sermon.typ] i → 1
+- [sermon.typ] , iv . → 4:
+- [sermon.typ] 'em → them
+- [sermon.typ] fore - runner → forerunner
+- [sermon.typ] iv → 4
+- [sermon.typ] AMEN . → 
+
+## grammar
+
+- commiteth → committeth
+- ye → yea
+
+## punctuation
+
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] , → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 6:
+- [sermon.typ] . → 
+- [sermon.typ] . → 3:
+- [sermon.typ] . → 
+- [sermon.typ] . → 11:
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] . → ,
+- [sermon.typ] . → 
+- [sermon.typ] . → :
+- [sermon.typ] . → ,
+- [sermon.typ] . → us
+- [sermon.typ] . → 1:
+- [sermon.typ] . → 
+- [sermon.typ] . → 26:
+- [sermon.typ] . → :
+- [sermon.typ] . → 
+- [sermon.typ] . → 2:
+- [sermon.typ] . → 
+- [sermon.typ] . → 22:
+- [sermon.typ] . → 
+- [sermon.typ] . → 3:
+- [sermon.typ] . → ?
+- [sermon.typ] . → s
+- [sermon.typ] . → 3:
+- [sermon.typ] . → 
+- [sermon.typ] . → 40:
+- [sermon.typ] . → :
+- [sermon.typ] , → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 9:
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 1:
+- [sermon.typ] . → ;
+- [sermon.typ] . → :
+- [sermon.typ] ; → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 2:
+- [sermon.typ] - → 
+- [sermon.typ] . → :
+- [sermon.typ] . → ?
+- [sermon.typ] , → 
+- [sermon.typ] , → 
+- [sermon.typ] . → 
+- [sermon.typ] . → 4:
+- [sermon.typ] . → :
+- [sermon.typ] . → 
+- [sermon.typ] . → 1:
+- [sermon.typ] . → 
+- [sermon.typ] . → 3:
+- [sermon.typ] . → 
+- [sermon.typ] . → 3:
+- [sermon.typ] , → , lest
+- [sermon.typ] . → 
+- [sermon.typ] . → 12:
+- [sermon.typ] . → 
+- [sermon.typ] . → 2:
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] . → :
+- [sermon.typ] . → 
+- [sermon.typ] . → :
+
+## case
+
+- GOD → God (×152)
+- CHRIST → Christ (×53)
+- JESUS → Jesus (×13)
+- Damned → damned (×4)
+- Father → father (×4)
+- Demonstrations → demonstrations (×3)
+- Science → science (×3)
+- And → and (×2)
+- Concerns → concerns (×2)
+- Conclusiveness → conclusiveness (×2)
+- Existence → existence (×2)
+- Gainsayers → gainsayers (×2)
+- Property → property (×2)
+- Speechless → speechless (×2)
+- That → that (×2)
+- A → a
+- Acceptableness → acceptableness
+- Acquiescence → acquiescence
+- Adversary → adversary
+- Affiance → affiance
+- Affinity → affinity
+- Arrangement → arrangement
+- Bar → bar
+- Brothers → brothers
+- CHRIST' → Christ'
+- CHRIST'S → Christ's
+- Capacities → capacities
+- Captains → captains
+- Citizens → citizens
+- Compensation → compensation
+- Comprehension → comprehension
+- Concurrence → concurrence
+- Crowns → crowns
+- Dens → dens
+- Destroyer → destroyer
+- Disorder → disorder
+- Disputant → disputant
+- Dragon → dragon
+- Edification → edification
+- Efforts → efforts
+- Excuses → excuses
+- Executions → executions
+- Extent → extent
+- Fifty → fifty
+- Foundations → foundations
+- GOD' → God'
+- Generations → generations
+- Hart → hart
+- His → his
+- Hundreds → hundreds
+- Ignominy → ignominy
+- Ignorant → ignorant
+- Impediments → impediments
+- Insinuations → insinuations
+- JEHOVAH → Jehovah
+- Joint → joint
+- Lilies → lilies
+- Line → line
+- Long → long
+- Malefactor → malefactor
+- Measures → measures
+- Medicine → medicine
+- Memory → memory
+- More → more
+- Murderer → murderer
+- Negative → negative
+- Nourishment → nourishment
+- Objector → objector
+- Offices → offices
+- Palaces → palaces
+- Plains → plains
+- Plants → plants
+- Pleading → pleading
+- Preachers → preachers
+- Prevailing → prevailing
+- Prisoner → prisoner
+- Profaneness → profaneness
+- Providences → providences
+- Rebel → rebel
+- Reproof → reproof
+- Scribes → scribes
+- Sinner's → sinner's
+- Streets → streets
+- Ten → ten
+- Their → their
+- Trifles → trifles
+- Wander → wander
+- When → when
+- Who → who
+- Worm → worm
+- Wretch → wretch
+- holy → Holy
+- these → These
+- they → They
+
+## spelling
+
+- tho' → though (×10)
+- Saviour → Savior (×8)
+- it's → its (×8)
+- Tho' → Though (×6)
+- meer → mere (×6)
+- meerly → merely (×6)
+- open'd → opened (×6)
+- infer'd → inferred (×5)
+- subtilty → subtlety (×5)
+- favour → favor (×4)
+- awaken'd → awakened (×3)
+- fill'd → filled (×3)
+- honour → honor (×3)
+- mention'd → mentioned (×3)
+- subtil → subtle (×3)
+- Comliness → comeliness (×2)
+- Heniousness → heinousness (×2)
+- Isai → Isa (×2)
+- Sufficency → sufficiency (×2)
+- characteristicks → characteristics (×2)
+- esteem'd → esteemed (×2)
+- impress'd → impressed (×2)
+- inthroned → enthroned (×2)
+- threaten'd → threatened (×2)
+- woful → woeful (×2)
+- Despensations → dispensations
+- Encrease → increase
+- Enquiry → Inquiry
+- Extasy → ecstasy
+- Genuiness → genuineness
+- Grrment → garment
+- Hear → heart
+- Inquities → iniquities
+- JAMES → Jas
+- Jam → Ja
+- James → Jas
+- Medator → Mediator
+- Oftentation → ostentation
+- Philip → Phil
+- REVEAL'D → REVEALED
+- Unexcuseableness → inexcusableness
+- angelick → angelic
+- apearing → appearing
+- chap → ch
+- colours → colors
+- counsellor → counselor
+- dead → deal
+- deceiv'd → deceived
+- determin'd → determined
+- dispicable → despicable
+- dispised → despised
+- distinguish'd → distinguished
+- drink's → drinks
+- enlighten'd → enlightened
+- enlightning → enlightening
+- enquire → inquire
+- enquiring → inquiring
+- establish'd → established
+- favourites → favorites
+- favours → favors
+- fear'd → feared
+- fell → fall
+- fort' → forth
+- found → sound
+- fulness → fullness
+- infalliable → infallible
+- inferr'd → inferred
+- intercessary → intercessory
+- intreating → entreating
+- join'd → joined
+- labours → labors
+- look'd → looked
+- man → men
+- marvellous → marvelous
+- musick → music
+- observ'd → observed
+- obtain'd → obtained
+- oeconomy → economy
+- pardon'd → pardoned
+- pare → pure
+- prevent → pervert
+- publick → public
+- rejoycing → rejoicing
+- stopp'd → stopped
+- suns → sun's
+- supream → supreme
+- surprize → surprise
+- that → than
+- this → this,
+- unrestrain'd → unrestrained
+- with → which
+- work → worth
+
