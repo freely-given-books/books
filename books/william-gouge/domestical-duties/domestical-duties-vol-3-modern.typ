@@ -52,6 +52,8 @@
 #set list(marker: [], indent: 2em)
 // Notes kept on their marker's page (stray-notes.typ; print_check.py), keyed by the Modern's own note numbers:
 // none yet (set after the first build of the Modern)
+// Section heads kept off a page's foot (stray-notes.typ keep-text, print_check's page warning):
+#show: keep-text.with(("§. 2. Of the love which parents": "b", "§. 20. Of parents’ care to give": "b",))
 
 #metadata[Children Showing Respect for Parents] <short>
 #metadata((part: [The Fifth Treatise: Of Children], sections: [§§. 1–10])) <kicker>
