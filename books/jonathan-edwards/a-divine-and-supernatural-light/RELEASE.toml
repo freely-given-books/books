@@ -1,0 +1,21 @@
+# Release record of A Divine and Supernatural Light: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, jonathan-edwards/a-divine-and-supernatural-light/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Edwards's sermon on Matt 16:17, preached at Northampton and printed in Boston in 1734 with his preface to his people, in modern spelling from the Evans-TCP transcription of its only printing in his lifetime."
+
+[[source]]
+file = "source/N03122.tcp.xml"
+description = "Evans-TCP N03122: A Divine and Supernatural Light, Immediately Imparted to the Soul by the Spirit of God (Boston, S. Kneeland and T. Green, 1734; Evans 3768)"
+url = "https://github.com/textcreationpartnership/N03122"
+sha256 = "157e459f307eafcb6b5697a5b74000ebd137bfdfa09b42651c2c3f088e7a5a60"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The Manning & Loring Boston reprint [c.1795] (no preface or hymn), page images: every gap of the sermon read from it, and two full reads of the TCP against it"
+url = "https://archive.org/details/bim_early-english-books-1641-1700_edwards-jonathan_1750_0"
+
+[[witness]]
+description = "CCEL's text in Edwards's Selected Sermons (the Worcester line, revised wording): spelling only"
+url = "https://www.ccel.org/ccel/edwards/sermons.supernatural_light.html"
