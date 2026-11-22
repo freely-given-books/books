@@ -1,0 +1,19 @@
+{
+ "files": [
+  "sermon.typ"
+ ],
+ "overrides": {
+  "sermon.typ:I. The devils have no degree of #emph[ho": 1,
+  "sermon.typ:II. The devils are not only absolutely w": 1,
+  "sermon.typ:III. It is unreasonable to suppose, that": 1,
+  "sermon.typ:IV. It may be inferred, from the doctrin": 1,
+  "sermon.typ:1\\. They differ in their #emph[foundatio": 1,
+  "sermon.typ:2\\. Truly gracious affections and exerci": 1,
+  "sermon.typ:(1.) They are of a tendency and influenc": 2,
+  "sermon.typ:(2.) These gracious exercises and affect": 2,
+  "sermon.typ:2\\. Truly gracious experiences, have a t": 3,
+  "sermon.typ:1\\. The devils and damned souls, have a ": 3,
+  "sermon.typ:2\\. Devils and damned men, have a strong": 3,
+  "sermon.typ:3\\. Devils and damned men have some kind": 3
+ }
+}

@@ -1,0 +1,21 @@
+# Release record of True Grace, Distinguished from the Experience of Devils: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, jonathan-edwards/true-grace-distinguished/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Edwards's sermon on James 2:19, preached before the Synod of New York at Newark, September 28, 1752, in modern spelling from the Evans-TCP transcription of its first printing (New York, 1753), the only one in his lifetime."
+
+[[source]]
+file = "source/N05520.tcp.xml"
+description = "Evans-TCP N05520: True Grace, Distinguished from the Experience of Devils (New York: James Parker, 1753; Evans 6996), with Sinners in the Hands of an Angry God bound after it (not in this edition)"
+url = "https://github.com/textcreationpartnership/N05520"
+sha256 = "9600c9fdc53098be5a21c4442d6eb522abadaad73e82c7cfde8e93ec2f7029ef"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The Works of President Edwards (Leeds, 1806), vol. 8, Sermon V: page images, read against the whole text twice (no free scan of the 1753 printing exists)"
+url = "https://archive.org/details/worksofpresident81edwa"
+
+[[witness]]
+description = "CCEL's text in Edwards's Works, vol. 2 (Hickman, 1834)"
+url = "https://www.ccel.org/ccel/edwards/works2.iii.v.html"
