@@ -59,3 +59,7 @@ $ ./fgb page precious     # the side-by-side page (1653 | edition)
 $ ./fgb check precious    # verify
 $ ./fgb build precious    # print PDF, cover and checked EPUB into dist/
 ```
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `precious-remedies-against-satans-devices-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled, its back verse from the BSB), its ebook front `ebook-front-modern.html`. How it renders Brooks's recurring terms, labels and verses is `source/modern-glossary.md`. Drafted 2026-11-16 by fourteen drafters from the brief in work/precious-remedies-modern/brief.md, then meaning-audited (work/precious-remedies-modern/audit).

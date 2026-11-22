@@ -134,8 +134,10 @@ REPORT_NOTES = [
 EPUB = {"title": "The Secret Key of Heaven", "author": "Thomas Brooks",
         "file": "the-secret-key-of-heaven.epub", "front": "ebook-front.html",
         "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["the-secret-key-of-heaven.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "the-secret-key-of-heaven-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["the-secret-key-of-heaven.typ", "the-secret-key-of-heaven-modern.typ"]
 QUOTE_BLOCK = True
 
 # The headings below each file title are this edition's own (the 1665 print

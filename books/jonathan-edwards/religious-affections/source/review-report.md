@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 1781 |
-| punctuation | 1703 |
+| spelling | 1782 |
+| punctuation | 1704 |
 | spacing | 1112 |
-| emendation | 723 |
-| case | 429 |
+| emendation | 727 |
+| case | 430 |
 | italic | 327 |
 | level | 207 |
 | gap | 57 |
@@ -125,6 +125,7 @@
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Cant . → Song
+- [part-1/03-religion-in-the-affections.typ] 6 → 5
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
 - [part-1/03-religion-in-the-affections.typ] Psal . → Ps
@@ -164,6 +165,7 @@
 - [part-1/03-religion-in-the-affections.typ] Phil . → Philippians
 - [part-1/03-religion-in-the-affections.typ] Cor . → Corinthians
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
+- [part-1/03-religion-in-the-affections.typ] 18 → 20
 - [part-1/03-religion-in-the-affections.typ] Matth . → Matt
 - [part-1/03-religion-in-the-affections.typ] 'em → them
 - [part-1/03-religion-in-the-affections.typ] work → things of the word
@@ -639,6 +641,7 @@
 - [part-3/sign-12.typ note] Chap . → Chapter
 - [part-3/sign-12.typ note] Psal . → Ps
 - [part-3/sign-12.typ note] Jam . → Jas
+- [part-3/sign-12.typ note] 5 → 4
 - [part-3/sign-12.typ note] Isai . → Isa
 - [part-3/sign-12.typ note] ver → v
 - [part-3/sign-12.typ note] Matth . → Matt
@@ -744,6 +747,7 @@
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Psal . → Ps
 - [part-3/sign-12.typ] Ver . → Verse
+- [part-3/sign-12.typ] " be → 'Be
 - [part-3/sign-12.typ] Chap . → Chapter
 - [part-3/sign-12.typ] Jam . → Jas
 - [part-3/sign-12.typ] 27 → 26
@@ -911,6 +915,7 @@
 - [part-1/03-religion-in-the-affections.typ] . → ans
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → :
+- [part-1/03-religion-in-the-affections.typ] . → ,
 - [part-1/03-religion-in-the-affections.typ] . → 
 - [part-1/03-religion-in-the-affections.typ] . → :
 - [part-1/03-religion-in-the-affections.typ] . → 
@@ -2357,7 +2362,7 @@
 - [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] . → :
-- [part-3/sign-12.typ] ▪ → .
+- [part-3/sign-12.typ] ▪ → .'
 - [part-3/sign-12.typ] . → 
 - [part-3/sign-12.typ] . → :
 - [part-3/sign-12.typ] . → 
@@ -2553,6 +2558,7 @@
 - Offerings → offerings
 - Some → some
 - Tavern → tavern
+- The → the
 - Worm → worm
 - reason → Reason
 - they → They
@@ -2785,6 +2791,7 @@
 - Preceeding → Preceding
 - Pretiousness → Preciousness
 - Rehobeam → Rehoboam
+- Sina → Sinai
 - Testamen → Testament
 - The → 'The
 - Tho' → though

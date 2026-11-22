@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4984 |
+| punctuation | 4983 |
 | case | 3803 |
 | emendation | 3667 |
-| spelling | 2405 |
+| spelling | 2404 |
 | italic | 1973 |
 | spacing | 1896 |
 | note | 403 |
@@ -577,7 +577,7 @@
 - [argument-06.typ] saw → saw “
 - [argument-06.typ] sight → sight” (Acts 9:12)
 - [argument-06.typ] Graces → , graces
-- [argument-06.typ] Domitian → Domitian (Rev 1:9; 5:1–9)
+- [argument-06.typ] Domitian → Domitian (Rev 1:9–20; 5:1–9)
 - [argument-06.typ] Golden - → golden
 - [argument-06.typ] Word → Word most
 - [argument-06.typ] most → 
@@ -1267,6 +1267,7 @@
 - [application-01.typ] 'tis → it is
 - [application-01.typ] that → who
 - [application-01.typ] Religious , → religious
+- [application-01.typ] . 11 → :13)
 - [application-01.typ] Exod → 
 - [application-01.typ] 14 . 15 . → “
 - [application-01.typ] O → Oh,
@@ -1779,7 +1780,7 @@
 - [application-02.typ] 8 . 12 . → “
 - [application-02.typ] not → not” (2 Cor 8:12)
 - [application-02.typ] do → do (Lev 2:1–2; 6:15; Luke 21:3)
-- [application-02.typ] trade → trade (Isa 49:20–22; Ps 84:7)
+- [application-02.typ] trade → trade (Isa 40:29–31; Ps 84:7)
 - [application-02.typ] home ward , → homeward
 - [application-02.typ] . So doth → , so
 - [application-02.typ] God → God does
@@ -2380,7 +2381,7 @@
 - [application-02.typ] O → Oh,
 - [application-02.typ] : O → . Oh,
 - [application-02.typ] , he → He
-- [application-02.typ] in → in (Phil 1:6, 13; 1 Cor 15:10)
+- [application-02.typ] in → in (Phil 1:6; 2:13; 1 Cor 15:10)
 - [application-02.typ] t'other → the other
 - [application-02.typ] co - operate → cooperate
 - [application-02.typ] O → Oh,
@@ -2626,7 +2627,6 @@
 - [application-03.typ] and → 
 - [application-03.typ] and → 
 - [application-03.typ] kindling → kindling (Isa 50:11)
-- [application-03.typ] live → live (Gen 2
 - [application-03.typ] shall → must
 - [application-03.typ] we → I
 - [application-03.typ] and → ” (Acts 16:30).
@@ -3592,7 +3592,7 @@
 - [application-04.typ] But , → 
 - [application-04.typ] Chamber → chamber will ere long
 - [application-04.typ] will e're long → 
-- [application-04.typ] Israel → Israel (2 Sam 12:11)
+- [application-04.typ] Israel → Israel (2 Sam 16:21–22)
 - [application-04.typ] upon → open
 - [application-04.typ] his → 
 - [application-04.typ] it self → itself
@@ -5351,7 +5351,6 @@
 - [application-01.typ] ; → .
 - [application-01.typ] , → (
 - [application-01.typ] . → 
-- [application-01.typ] . → :
 - [application-01.typ] , → 
 - [application-01.typ] , → 
 - [application-01.typ] ? → ?” (Exod 14:15).
@@ -7267,8 +7266,8 @@
 - [application-03.typ] , → , “
 - [application-03.typ] . → .”
 - [application-03.typ] , → ;
-- [application-03.typ] , → .
-- [application-03.typ] : → :2).
+- [application-03.typ] , → (Gen 2:16–17).
+- [application-03.typ] : → .
 - [application-03.typ] ; → (Acts 2:37). “
 - [application-03.typ] ? → ?” (Mark 10:17–20).
 - [application-03.typ] , → 
@@ -9913,7 +9912,6 @@
 - then → then, (×5)
 - thus → thus, (×5)
 - 10 → 10) (×4)
-- 11 → 11) (×4)
 - 15 → 15) (×4)
 - 17 → 17) (×4)
 - 18 → 18) (×4)
@@ -9942,6 +9940,7 @@
 - wickedness → wickednesses (×4)
 - 'tis → is (×3)
 - 1 → (1 (×3)
+- 11 → 11) (×3)
 - 2 → (2 (×3)
 - 20 → 20) (×3)
 - 26 → 26) (×3)
