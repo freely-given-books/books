@@ -6,7 +6,7 @@ BY suggesting to them that their graces are not true, but counterfeit. “All is
 
 #strong[Now the remedies against this device of Satan are as follows.]
 
-The first #emph[remedy] against this device of Satan is seriously to consider that grace is taken in two ways.
+The first #emph[remedy] against this device of Satan is to consider seriously that grace is taken in two ways.
 
 First, it is taken for the gracious goodwill and favor of God, by which he is pleased, of his own free love, to accept some in Christ as his own. Some call this the first grace, because it is the fountain of all other graces, and the spring from which they flow. And it is called grace because it makes a man gracious with God; but this is only in God.
 
@@ -16,7 +16,7 @@ Some are common to believers and hypocrites, such as a gift of knowledge, a gift
 
 Some are special graces, and they belong distinctively and only to the saints, such as faith, humility, meekness, love, patience, etc.
 
-The second #emph[remedy] against this device of Satan is wisely to consider the differences between renewing grace and#footnote[God does not bring a pair of scales to weigh our graces, but a touchstone to test our graces. Purity, preciousness, and holiness are stamped on all saving graces. Acts 15:9. 2 Pet 1:1. Jude 20.] restraining grace, between sanctifying grace and temporary grace. I will show you this in the following particulars:
+The second #emph[remedy] against this device of Satan is to consider wisely the differences between renewing grace and#footnote[God does not bring a pair of scales to weigh our graces, but a touchstone to test our graces. Purity, preciousness, and holiness are stamped on all saving graces. Acts 15:9. 2 Pet 1:1. Jude 20.] restraining grace, between sanctifying grace and temporary grace. I will show you this in the following particulars:
 
 1\. True grace makes all glorious within and without: “The king’s daughter is all glorious within; her gown is embroidered with gold.” True grace makes the understanding glorious, the will glorious, the affections glorious; it casts a general glory on all the noble parts of the soul: “The king’s daughter is all glorious within.” And as it makes the inside glorious, so it makes the outside glorious: “Her gown is embroidered with gold.” It makes men look gloriously and speak gloriously, and walk and act gloriously, so that worldly souls will be#footnote[Acts 4:8-15.] forced to say that these are the ones who have seen Jesus. As grace is a fire to burn up and consume the dross and filth of the soul, so it is an ornament to#footnote[2 Cor 5:17. Καινὴ κτίσις, a new creation: new Adam, new covenant, new paradise, new creation, new Lord, new law, new hearts, and new natures go together.] beautify and adorn the soul. True grace makes all new, the inside new and the outside new: “If anyone is in Christ, he is a new creation.” But temporary grace does not do this. True grace changes the very nature of a man; moral virtue only restrains or chains up the outward man, and does not change the whole man. A lion in a cage is a lion still: he is restrained, but not changed, for he keeps his lion-like nature still. So temporary graces restrain many men from this and that wickedness, but they do not change and turn their hearts from wickedness. But true grace turns a lion into a lamb, as you may see in Paul,#footnote[Acts 9.] and a notorious prostitute into a blessed and glorious penitent, as you may see in Mary Magdalene, etc.#footnote[Luke 7.]
 

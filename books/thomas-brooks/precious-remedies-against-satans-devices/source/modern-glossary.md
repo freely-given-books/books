@@ -178,9 +178,14 @@ The sweep of 2026-11-16 (`work/false-friends-2026-11-16/precious-remedies-agains
 | naught (Tully's judgment) | worthless |
 | cross actings (a man's own, Jonah's) | contrary actings ("adverse" stays for providences acting on him) |
 | "may not" after "who can tell" / "cannot say that" | "may yet" / "will not" |
-| mercies (blessings) | blessings; except chapter 8 ("The Outward Mercies of Worldly Men"), where the word runs through the chapter beside God's mercy: the editor's call (2026-11-19) |
+| mercies (blessings) | blessings; except chapter 8 ("The Outward Mercies of Worldly Men"), where the word runs through the chapter beside God's mercy: the editor's call (2026-11-19), confirmed 2026-11-22 (card #89: keep "mercies" there) |
 
 Also applied where the draft had missed this glossary: Dives → the rich man; cordial → heart-medicine.
 Kept: sad (as above), dolors [sorrows] (Isidore's rhyme; a bracket on the Latin-English pun), Bridewell, peremptory,
 divine appearances, open (the words), subtle serpent, preferment, on this head, the formal act, affectionately (receive
 the truth), fancies.
+
+## The editor's answers, 2026-11-22
+
+- The remedy formula (card #90): "is solemnly/seriously/wisely/briefly to consider" (and "to dwell") becomes "is to consider solemnly" etc., everywhere (98 places), and "If you⁺ would not be…" becomes "If you⁺ do not want to be…" ("would not have your judgments polluted" → "do not want your judgments polluted"), 11 places.
+- Chapter 8 keeps "mercies" (card #89).

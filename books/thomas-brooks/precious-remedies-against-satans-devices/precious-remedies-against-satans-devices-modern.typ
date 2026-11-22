@@ -143,7 +143,11 @@
 
 #include "chapters/modern/reasons.typ"
 
-#include "chapters/modern/use.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/use.typ"
+]
 
 = Appendix. Five More Devices to Keep Souls from Christ
 

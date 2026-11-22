@@ -4,7 +4,7 @@
 
 BY suggesting to the sinner Christ’s unwillingness to save. “It is true,” says Satan, “Christ is able to save you, but is he willing? Surely, though he is able, yet he is not willing to save such a wretch as you are, who have trampled his blood under your feet, and who have been in open rebellion against him all your days,” etc.
 
-#strong[The remedy against this device of Satan is briefly to consider these few things.]
+#strong[The remedy against this device of Satan is to consider briefly these few things.]
 
 1\. The great journey that he has taken from heaven to earth, on purpose to save sinners, strongly demonstrates his willingness to save them. Matt 9:13: “I have not come to call the#footnote[Matt 9:13.] righteous, but sinners to repentance.” 1 Tim 1:15: “This is a trustworthy saying, worthy#footnote[1 Tim 1:15.] of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst.”
 
