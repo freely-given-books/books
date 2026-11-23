@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 2755 |
-| punctuation | 2451 |
+| punctuation | 2452 |
 | emendation | 941 |
 | case | 132 |
 | spacing | 129 |
@@ -1332,6 +1332,7 @@
 - [vol-2/book-2-chapter-02.typ] . → 
 - [vol-2/book-2-chapter-02.typ] . → 
 - [vol-2/book-2-chapter-03.typ] – → -
+- [vol-2/book-2-chapter-03.typ] . → 
 - [vol-2/book-2-chapter-03.typ] . → 
 - [vol-2/book-2-chapter-03.typ] . → 
 - [vol-2/book-2-chapter-03.typ] . → 
