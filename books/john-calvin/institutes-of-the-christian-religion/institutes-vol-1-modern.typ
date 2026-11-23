@@ -19,8 +19,7 @@
   publishing-info: publisher-page(note: [
     Henry Beveridge's translation (Edinburgh, 1845) in modern English, checked against Calvin's Latin of 1559.
 
-    This is volume 1 of six: Book I is volume 1, Book II volume 2,
-    Book III volumes 3 and 4, and Book IV volumes 5 and 6.
+    Volume 1 of six.
   ]),
   preface: [
     #align(center + horizon)[

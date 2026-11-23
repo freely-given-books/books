@@ -14,10 +14,9 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Set from Henry Beveridge's translation of John Calvin's _Institutio Christianae Religionis_ (1559), first published by the Calvin Translation Society (Edinburgh, 1845). The text is the Christian Classics Ethereal Library's, checked against the 1845 printing.
+    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
 
-    This is volume 2 of six: Book I is volume 1, Book II volume 2,
-    Book III volumes 3 and 4, and Book IV volumes 5 and 6.
+    Volume 2 of six.
   ]),
   preface: [
     #align(center + horizon)[
