@@ -20,7 +20,9 @@
 // transparency into image tiles: scripts/plate_cover.typ)
 #let behind = gradient.linear(..ground).sample(45%)
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   ground: ground,
   art: box(width: 5.5in, height: 8.5in, {
     let plain(body) = text(font: DISPLAY, size: 13pt, tracking: 0.12em,
@@ -69,3 +71,5 @@
   ],
   epigraph-source: [The Mortification of Sin, Chapter II],
 )
+
+#cover()
