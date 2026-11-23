@@ -32,7 +32,7 @@
 
 #set text(font: "Libertinus Serif", size: 10.5pt)
 
-= Book Second: Of the Knowledge of God the Redeemer, in Christ
+= Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested to the Fathers, under the Law, and Thereafter to Us under the Gospel
 
 #metadata[Argument] <short>
 #include "chapters/typ/vol-2/book-2-argument.typ"

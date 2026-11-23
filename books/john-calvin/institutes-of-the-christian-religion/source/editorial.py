@@ -47,7 +47,9 @@ PREFACES = [("ccel-ii.viii", "prefatory-address", "Prefatory Address to King Fra
             ("ccel-ii.xi", "epistle-1559", "Epistle to the Reader (1559)")]
 BOOKS = ["ccel-iii", "ccel-iv", "ccel-v", "ccel-vi"]
 BOOK_TITLES = ["Book First: Of the Knowledge of God the Creator",
-               "Book Second: Of the Knowledge of God the Redeemer, in Christ",
+               # in full, as 1845 prints it (the cover and title page keep the short form)
+               "Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested "
+               "to the Fathers, under the Law, and Thereafter to Us under the Gospel",
                "Book Third: The Mode of Obtaining the Grace of Christ",
                "Book Fourth: Of the Holy Catholic Church"]
 # (book, first chapter, last chapter) per volume; chapter 0 is the Argument

@@ -2,16 +2,16 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2718 |
-| punctuation | 2449 |
-| emendation | 868 |
-| spacing | 127 |
-| case | 104 |
+| spelling | 2755 |
+| punctuation | 2451 |
+| emendation | 940 |
+| case | 131 |
+| spacing | 129 |
 | note | 38 |
 | italic | 19 |
 | grammar | 10 |
 | inset | 6 |
-| merge | 4 |
+| merge | 5 |
 | note moved | 3 |
 
 ## emendation
@@ -231,22 +231,40 @@
 - [vol-2/book-2-chapter-02.typ] he → be
 - [vol-2/book-2-chapter-02.typ] oJion ejp e \ ma ” a [ geisi → οἷον ἐπ’ ἦμαρ ἄγῃσι
 - [vol-2/book-2-chapter-02.typ] Mt . → Matt
+- [vol-2/book-2-chapter-02.typ] has → hath
+- [vol-2/book-2-chapter-02.typ] has → hath
 - [vol-2/book-2-chapter-02.typ] Is . → Isa
+- [vol-2/book-2-chapter-02.typ] has → hath
+- [vol-2/book-2-chapter-02.typ] has → hath
+- [vol-2/book-2-chapter-02.typ] has → hath
 - [vol-2/book-2-chapter-02.typ] ajkrasiva → ἀκρασία
 - [vol-2/book-2-chapter-02.typ] pavtho ” → πάθος
 - [vol-2/book-2-chapter-02.typ] ajkolasiva → ἀκολασία
 - [vol-2/book-2-chapter-02.typ] 6 → 5
 - [vol-2/book-2-chapter-03.typ note] ˆ → a
 - [vol-2/book-2-chapter-03.typ] 40 → 60
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] has → hath
 - [vol-2/book-2-chapter-03.typ] I → 1
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] has → hath
 - [vol-2/book-2-chapter-03.typ] Psalm → Ps
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] has → hath
 - [vol-2/book-2-chapter-03.typ] Mt . → Matt
+- [vol-2/book-2-chapter-03.typ] has → hath
 - [vol-2/book-2-chapter-03.typ] heaven by → heavenly
+- [vol-2/book-2-chapter-03.typ] has → hath
+- [vol-2/book-2-chapter-03.typ] does → doth
 - [vol-2/book-2-chapter-03.typ] I → 1
+- [vol-2/book-2-chapter-03.typ] has → hath
 - [vol-2/book-2-chapter-03.typ] Mt . → Matt
 - [vol-2/book-2-chapter-04.typ note] Psalm → Ps
 - [vol-2/book-2-chapter-04.typ note] . 2 → 50
 - [vol-2/book-2-chapter-04.typ] Psalm → Ps
+- [vol-2/book-2-chapter-04.typ] has → hath
 - [vol-2/book-2-chapter-04.typ] when → Even
 - [vol-2/book-2-chapter-04.typ] Psalm → Ps
 - [vol-2/book-2-chapter-04.typ] Chap . → Chapter
@@ -259,18 +277,28 @@
 - [vol-2/book-2-chapter-05.typ] hove → how
 - [vol-2/book-2-chapter-05.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-05.typ] Chap . → Chapter
+- [vol-2/book-2-chapter-05.typ] has → hath
 - [vol-2/book-2-chapter-05.typ] we → ye
 - [vol-2/book-2-chapter-05.typ] Psalm → Ps
 - [vol-2/book-2-chapter-05.typ] Psalm → Ps
 - [vol-2/book-2-chapter-05.typ] Psalm → Ps
+- [vol-2/book-2-chapter-05.typ] does → doth
+- [vol-2/book-2-chapter-05.typ] has → hath
+- [vol-2/book-2-chapter-05.typ] has → hath
 - [vol-2/book-2-chapter-06.typ] Psalm → Ps
 - [vol-2/book-2-chapter-06.typ] Mt . → Matt
 - [vol-2/book-2-chapter-06.typ] Chap . → Chapter
+- [vol-2/book-2-chapter-06.typ] has → hath
 - [vol-2/book-2-chapter-07.typ note] 117 → 118
+- [vol-2/book-2-chapter-07.typ] has → hath
 - [vol-2/book-2-chapter-07.typ] Psalm → Ps
 - [vol-2/book-2-chapter-07.typ] Mt . → Matt
+- [vol-2/book-2-chapter-07.typ] has → hath
 - [vol-2/book-2-chapter-07.typ] Psalm → Ps
 - [vol-2/book-2-chapter-07.typ] Mt . → Matt
+- [vol-2/book-2-chapter-07.typ] has → hath
+- [vol-2/book-2-chapter-07.typ] has → hath
+- [vol-2/book-2-chapter-07.typ] has → hath
 - [vol-2/book-2-chapter-08.typ note] 12 → 13
 - [vol-2/book-2-chapter-08.typ note] Psalm → Ps
 - [vol-2/book-2-chapter-08.typ note] Ecclesiæ → Ecclesiæ; Vera Reformandæ Ecclesiæ
@@ -295,32 +323,47 @@
 - [vol-2/book-2-chapter-08.typ note] 57 → 58
 - [vol-2/book-2-chapter-08.typ] Refutation drawn , 1 . From a consideration of the whole Decalogue . 2 . The testimony of an Apostle . 3 . The authority of Christ . 4 . The nature and majesty of God . 5 . The sentence pronounced against sin . Conclusion . → 
 - [vol-2/book-2-chapter-08.typ] 59 . → 
+- [vol-2/book-2-chapter-08.typ] has → hath
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] mighty → , might,
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] has → hath
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] does → doth
 - [vol-2/book-2-chapter-08.typ] I → 1
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
+- [vol-2/book-2-chapter-08.typ] does → doth
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Psalm → Ps
+- [vol-2/book-2-chapter-08.typ] has → hath
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-08.typ] Mt . → Matt
 - [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] has → hath
+- [vol-2/book-2-chapter-09.typ] has → hath
+- [vol-2/book-2-chapter-09.typ] has → hath
+- [vol-2/book-2-chapter-09.typ] has → hath
+- [vol-2/book-2-chapter-09.typ] has → hath
 - [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] . 3 → 8
+- [vol-2/book-2-chapter-09.typ] does → doth
 - [vol-2/book-2-chapter-09.typ] Mt . → Matt
+- [vol-2/book-2-chapter-09.typ] has → hath
 - [vol-2/book-2-chapter-09.typ] Mt . → Matt
 - [vol-2/book-2-chapter-09.typ] 28 → 11
 - [vol-2/book-2-chapter-10.typ note] enterre → en terre
 - [vol-2/book-2-chapter-10.typ note] Mt . → Matt
 - [vol-2/book-2-chapter-10.typ] Is . → Isa
+- [vol-2/book-2-chapter-10.typ] has → hath
 - [vol-2/book-2-chapter-10.typ] Psalm → Ps
 - [vol-2/book-2-chapter-10.typ] Mt . → Matt
-- [vol-2/book-2-chapter-10.typ] reproach → 
+- [vol-2/book-2-chapter-10.typ] has → hath
+- [vol-2/book-2-chapter-10.typ] has → hath
 - [vol-2/book-2-chapter-10.typ] Psalm → Ps
 - [vol-2/book-2-chapter-10.typ] Psalm → Ps
 - [vol-2/book-2-chapter-10.typ] Psalm → Ps
@@ -336,41 +379,61 @@
 - [vol-2/book-2-chapter-11.typ note] cá → çà
 - [vol-2/book-2-chapter-11.typ note] lá → là
 - [vol-2/book-2-chapter-11.typ] at → of
+- [vol-2/book-2-chapter-11.typ] has → hath
 - [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] characters honoured → character, honored
 - [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] Mt . → Matt
 - [vol-2/book-2-chapter-11.typ] Mt . → Matt
+- [vol-2/book-2-chapter-11.typ] has → hath
 - [vol-2/book-2-chapter-11.typ] clay → day
 - [vol-2/book-2-chapter-12.typ note] Mt . → 11:25; Matt
 - [vol-2/book-2-chapter-12.typ] the → i.e.
 - [vol-2/book-2-chapter-12.typ] Is . → Isa
+- [vol-2/book-2-chapter-12.typ] has → hath
 - [vol-2/book-2-chapter-12.typ] Tit . → Titus
+- [vol-2/book-2-chapter-12.typ] does → doth
+- [vol-2/book-2-chapter-12.typ] has → hath
+- [vol-2/book-2-chapter-12.typ] has → hath
 - [vol-2/book-2-chapter-12.typ] Tit . → Titus
 - [vol-2/book-2-chapter-12.typ] I → 1
 - [vol-2/book-2-chapter-12.typ] And → All,
+- [vol-2/book-2-chapter-12.typ] akefalon → ἀκέφαλον
 - [vol-2/book-2-chapter-13.typ note] the → this
+- [vol-2/book-2-chapter-13.typ] objections answered . → 
+- [vol-2/book-2-chapter-13.typ] 4 . Other three → 
 - [vol-2/book-2-chapter-13.typ] I → 1
+- [vol-2/book-2-chapter-13.typ] has → hath
 - [vol-2/book-2-chapter-13.typ] Mt . → Matt
 - [vol-2/book-2-chapter-14.typ note] 52 → 102
 - [vol-2/book-2-chapter-14.typ note] VideCalv → Vide Calv
 - [vol-2/book-2-chapter-14.typ] ijdiwmavtwn → ἰδιωμάτων
 - [vol-2/book-2-chapter-14.typ] koinoniva → κοινωνία
 - [vol-2/book-2-chapter-14.typ] ijdiwvmata → ἰδιώματα
+- [vol-2/book-2-chapter-14.typ] has → hath
 - [vol-2/book-2-chapter-14.typ] oJmoouvsion → ὁμοούσιον
 - [vol-2/book-2-chapter-15.typ] Is . → Isa
 - [vol-2/book-2-chapter-15.typ] Is . → Isa
+- [vol-2/book-2-chapter-15.typ] has → hath
+- [vol-2/book-2-chapter-15.typ] has → hath
+- [vol-2/book-2-chapter-15.typ] has → hath
 - [vol-2/book-2-chapter-15.typ] Is . 60 → Isa 61
 - [vol-2/book-2-chapter-15.typ] n → a
 - [vol-2/book-2-chapter-15.typ] and → all,
+- [vol-2/book-2-chapter-15.typ] has → hath
+- [vol-2/book-2-chapter-15.typ] has → hath
 - [vol-2/book-2-chapter-16.typ note] ˆ → a
 - [vol-2/book-2-chapter-16.typ note] Ephes . → Eph
 - [vol-2/book-2-chapter-16.typ note] Ephes . → Eph
 - [vol-2/book-2-chapter-16.typ note] Mt . → Matt
 - [vol-2/book-2-chapter-16.typ note] 3 → 13
+- [vol-2/book-2-chapter-16.typ] has → hath
+- [vol-2/book-2-chapter-16.typ] has → hath
 - [vol-2/book-2-chapter-16.typ] id → is
 - [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] has → hath
+- [vol-2/book-2-chapter-16.typ] has → hath
 - [vol-2/book-2-chapter-16.typ] Is . → Isa
 - [vol-2/book-2-chapter-16.typ] Is . → Isa
 - [vol-2/book-2-chapter-16.typ] Is . → Isa
@@ -379,7 +442,9 @@
 - [vol-2/book-2-chapter-16.typ] kaqarmavton → καθαρμάτων
 - [vol-2/book-2-chapter-16.typ] to ! ` a → אשם
 - [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] has → hath
 - [vol-2/book-2-chapter-16.typ] Is . → Isa
+- [vol-2/book-2-chapter-16.typ] has → hath
 - [vol-2/book-2-chapter-16.typ] ajpoluvtrwsi ” → ἀπολύτρωσις
 - [vol-2/book-2-chapter-16.typ] ajntivlutron → ἀντίλυτρον
 - [vol-2/book-2-chapter-16.typ] kai ; iJlasthvrion → καὶ ἱλαστήριον
@@ -387,11 +452,18 @@
 - [vol-2/book-2-chapter-16.typ] Mt . → Matt
 - [vol-2/book-2-chapter-16.typ] Mt . → Matt
 - [vol-2/book-2-chapter-16.typ] Mt . → Matt
+- [vol-2/book-2-chapter-16.typ] has → hath
 - [vol-2/book-2-chapter-16.typ] Mt . → Matt
 - [vol-2/book-2-chapter-17.typ] at → of
+- [vol-2/book-2-chapter-17.typ] has → hath
+- [vol-2/book-2-chapter-17.typ] has → hath
 - [vol-2/book-2-chapter-17.typ] Is . → Isa
 - [vol-2/book-2-chapter-17.typ] Is . → Isa
+- [vol-2/book-2-chapter-17.typ] has → hath
+- [vol-2/book-2-chapter-17.typ] has → hath
 - [vol-2/book-2-chapter-17.typ] aujtov ” → αὐτός
+- [vol-2/book-2-chapter-17.typ] has → hath
+- [vol-2/book-2-chapter-17.typ] has → hath
 - [vol-3/book-3-chapter-01.typ note] 2 → 4
 - [vol-3/book-3-chapter-02.typ note] Thess → 1 Thess
 - [vol-3/book-3-chapter-02.typ note] Tit . → Titus
@@ -1314,6 +1386,7 @@
 - [vol-2/book-2-chapter-04.typ] ? → 
 - [vol-2/book-2-chapter-04.typ] . → 
 - [vol-2/book-2-chapter-04.typ] . → 
+- [vol-2/book-2-chapter-04.typ] , → .
 - [vol-2/book-2-chapter-04.typ] . → 
 - [vol-2/book-2-chapter-05.typ note] . → 
 - [vol-2/book-2-chapter-05.typ note] . → 
@@ -1490,6 +1563,7 @@
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] . → 
+- [vol-2/book-2-chapter-08.typ] . → ,
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] , → , in
@@ -1512,7 +1586,6 @@
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] . → 
 - [vol-2/book-2-chapter-08.typ] . → 
-- [vol-2/book-2-chapter-09.typ] . → 
 - [vol-2/book-2-chapter-09.typ] . → 
 - [vol-2/book-2-chapter-09.typ] . → 
 - [vol-2/book-2-chapter-09.typ] . → 
@@ -1602,6 +1675,7 @@
 - [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-11.typ] . → 
+- [vol-2/book-2-chapter-11.typ] — → ,
 - [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-11.typ] . → 
 - [vol-2/book-2-chapter-11.typ] — → ,
@@ -3354,11 +3428,17 @@
 
 - Judgment → judgment (×47)
 - Judgments → judgments (×14)
+- And → and (×3)
 - prefixed → Prefixed (×3)
 - AND → and (×2)
 - HIS → His (×2)
 - MOST → Most (×2)
-- And → and
+- ad → Ad (×2)
+- he → He (×2)
+- law → Law (×2)
+- lord → Lord (×2)
+- scripture → Scripture (×2)
+- the → The (×2)
 - CALVIN → Calvin
 - CHRIST → Christ
 - CHRISTIAN → Christian
@@ -3373,25 +3453,38 @@
 - PS → Ps
 - SALVATION → Salvation
 - SOVEREIGN → Sovereign
+- See → see
 - THE → The
 - TO → To
+- The → the
+- Where → where
+- Which → which
 - Who → who
 - Wisdom → wisdom
+- With → with
+- Word → word
+- apostle → Apostle
 - divinity → Divinity
 - ed → Ed
+- evangelical → Evangelical
 - french → French
 - geneva → Geneva
-- he → He
 - him → Him
 - holy → Holy
 - in → In
-- lord → Lord
-- scripture → Scripture
+- interpreter → Interpreter
+- know → Know
+- mediator → Mediator
+- ninth → Ninth
+- nor → Nor
+- pour → Pour
 - seeing → Seeing
 - strasburg → Strasburg
-- the → The
+- virgin → Virgin
 - virtues → Virtues
+- when → When
 - who → Who
+- whosoever → Whosoever
 
 ## spelling
 
@@ -3462,6 +3555,7 @@
 - Origin → Origen (×5)
 - favoured → favored (×5)
 - labouring → laboring (×5)
+- levity → lenity (×5)
 - marvellous → marvelous (×5)
 - neighbouring → neighboring (×5)
 - prophets → prophet, (×5)
@@ -3474,13 +3568,13 @@
 - acknowledgement → acknowledgment (×4)
 - c → c. (×4)
 - ceaselessly → causelessly (×4)
+- does → doeth (×4)
 - foreknow → foreknew (×4)
 - glamour → clamor (×4)
 - honourably → honorably (×4)
 - honouring → honoring (×4)
 - is → is, (×4)
 - its → it, (×4)
-- levity → lenity (×4)
 - manners → manner, (×4)
 - prayers → prayer, (×4)
 - qu → que (×4)
@@ -3488,6 +3582,7 @@
 - savours → savors (×4)
 - sceptres → scepters (×4)
 - stigmatise → stigmatize (×4)
+- untreated → uncreated (×4)
 - where → were (×4)
 - worshipper → worshiper (×4)
 - Ahab → Ahaz (×3)
@@ -3497,6 +3592,7 @@
 - Micah → Mic (×3)
 - Mt → Matt (×3)
 - NEIGHBOUR’S → NEIGHBOR’S (×3)
+- a → an (×3)
 - baptises → baptizes (×3)
 - candour → candor (×3)
 - catechising → catechizing (×3)
@@ -3510,6 +3606,7 @@
 - philosophise → philosophize (×3)
 - recognises → recognizes (×3)
 - retakes → betakes (×3)
+- retaking → betaking (×3)
 - rumour → rumor (×3)
 - theme → them, (×3)
 - wills → will, (×3)
@@ -3519,6 +3616,7 @@
 - Baptise → Baptize (×2)
 - Bone → Bono (×2)
 - Counsellor → Counselor (×2)
+- Emmanuel → Immanuel (×2)
 - Fathers → Father, (×2)
 - French → French, (×2)
 - God → Good (×2)
@@ -3534,6 +3632,7 @@
 - authorised → authorized (×2)
 - behave → behove (×2)
 - behaviour → behavior (×2)
+- caresses → carcases (×2)
 - characterised → characterized (×2)
 - civilisation → civilization (×2)
 - consciences → conscience, (×2)
@@ -3545,6 +3644,8 @@
 - flagitous → flagitious (×2)
 - fleshy → flesh, (×2)
 - fulfils → fulfills (×2)
+- further → farther (×2)
+- gravity → pravity (×2)
 - harbour → harbor (×2)
 - hesitations → hesitation, (×2)
 - humours → humors (×2)
@@ -3570,7 +3671,6 @@
 - prophesying → prophesyings (×2)
 - reasons → reason (×2)
 - reconciliations → reconciliation, (×2)
-- retaking → betaking (×2)
 - rights → right, (×2)
 - saving → saying (×2)
 - says → says, (×2)
@@ -3584,7 +3684,6 @@
 - therefore → therefore, (×2)
 - times → time, (×2)
 - unbaptised → unbaptized (×2)
-- untreated → uncreated (×2)
 - uses → use, (×2)
 - verdant → versant (×2)
 - views → view, (×2)
@@ -3616,6 +3715,7 @@
 - Baptiser → Baptizer
 - Beats → Beata
 - Bert → Berd
+- Bonifacum → Bonifacium
 - C → C.
 - Candour → Candor
 - Catechism → Catechismo
@@ -3636,7 +3736,6 @@
 - Eccles → Eccles.
 - Ecclesiœ → Ecclesiæ
 - Eceles → Eccles
-- Emmanuel → Immanuel
 - Epicures → Epicurus
 - Epistles → Epistle
 - Epistles → Epistle,
@@ -3664,6 +3763,7 @@
 - Joshua → Josh
 - Judgment → —judgment
 - Julia → Julian
+- Justin → Justit.
 - LABOUR → LABOR
 - LICENCE → LICENSE
 - Lateral → Lateran
@@ -3678,6 +3778,7 @@
 - Mas → Mais
 - Matthiue → Matthieu
 - Maximum → Maximus
+- Messiah → Messias
 - Morever → Moreover
 - Mortals → Mortuis
 - NEIGHBOUR → NEIGHBOR
@@ -3696,8 +3797,10 @@
 - Put → But
 - Pœitentia → Pœnitentia
 - Pœnit → Pœnit.
+- SHEWING → SHOWING
 - Satan’s → Satan,
 - Section → Sections
+- Simon → Sihon
 - Simon → Simeon
 - Simplie → Simplic
 - Sion → Zion
@@ -3714,7 +3817,6 @@
 - Trojan → Trajan
 - Way → Nay
 - When → Then
-- a → an
 - abrograte → abrogate
 - abstracte → abstracted
 - abuse → abused
@@ -3800,6 +3902,7 @@
 - dedlans → dedans
 - defections → defection,
 - deforming → deforcing
+- delusory → elusory
 - dequel → duquel
 - desires → desire
 - despairs → despair,
@@ -3817,6 +3920,7 @@
 - distinctions → distinction,
 - divcs → divos
 - doctrines → doctrine,
+- does → doest
 - dogmatising → dogmatizing
 - done → donc
 - doors → doers
@@ -3839,6 +3943,7 @@
 - equivocations → equivocation,
 - erainte → crainte
 - errors → error,
+- establishes → stablishes
 - estra → estre
 - eto → ete
 - eulogised → eulogized
@@ -3868,14 +3973,12 @@
 - friend → friends
 - fulfill → fulfills
 - furry → fury
-- further → farther
 - futile → fatale
 - glow → glory
 - gnawing → gnawings
 - goes → gives
 - gormandising → gormandizing
 - governments → government,
-- gravity → pravity
 - grey → gray
 - grounds → ground,
 - gue → que
@@ -3899,6 +4002,7 @@
 - himself → himself,
 - his → this
 - holds → hold,
+- holiday → holyday
 - however → however,
 - humaiu → humain
 - humoured → humored
@@ -3909,6 +4013,9 @@
 - impunity → impurity
 - indicted → inflicted
 - indulgences → indulgence,
+- infernos → infernis
+- infrequent → unfrequent
+- infrequently → unfrequently
 - inhale → inflame
 - inheritances → inheritance,
 - insanc → insano
@@ -3931,6 +4038,7 @@
 - judement → judgment
 - justices → justice,
 - justified → justifies
+- kill → kills
 - knew → know
 - know → known
 - known → known,
@@ -3942,6 +4050,7 @@
 - light → right
 - limitations → limitation,
 - literature → literaturæ
+- little → tittle
 - loafbread → loaf-bread
 - lurkingplaces → lurking-places
 - lust → lusts
@@ -3951,6 +4060,7 @@
 - man → men
 - masteries → mysteries
 - maturity → maturity,
+- may → mayst
 - mean → means
 - mechans → meschans
 - men → man
@@ -4014,6 +4124,7 @@
 - pious → pious,
 - places → palaces
 - placte → placet
+- plans → pæans
 - plasir → plaisir
 - plour → pour
 - plue → plus
@@ -4028,6 +4139,7 @@
 - principle → principal
 - proofs → proofs,
 - prosperity → posterity
+- prurience → pruriency
 - psalms → psalm
 - psalms → psalm,
 - pure → pure:
@@ -4056,6 +4168,7 @@
 - restricted → astricted
 - results → result,
 - rethink → bethink
+- rethinks → bethinks
 - retook → betook
 - rewarding → regarding
 - rewards → reward,
@@ -4072,12 +4185,14 @@
 - savouring → savoring
 - say → says
 - scented → seemed
+- sees → seeth
 - selfexistence → self-existence
 - selfexistent → self-existent
 - separated → separate
 - seperance → esperance
 - sepingle → espingle
 - sepulchres → sepulchers
+- seq → seqq
 - servants → servant
 - shorts → short,
 - shows → show,
@@ -4147,9 +4262,11 @@
 - unjustly → justly
 - unnamed → inflamed
 - use → us,
+- vain → twain
 - valour → valor
 - veuillins → veuillions
 - vices → vice,
+- viel → vieil
 - viloer → violer
 - vulgarised → vulgarized
 - was → wash
