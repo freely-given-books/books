@@ -1,5 +1,11 @@
 # Checking CCEL against the 1845 printing — how it is done
 
+**Changed 2026-11-23 (the editor): the Classic follows the 1845 print wherever CCEL's wording departs
+from it, older decisions included. CCEL's modernized grammar (has/does/goes for 1845's
+hath/doth/goeth, in Scripture and elsewhere) goes back to the print. The Modern English edition
+modernizes it. Still house style, as in every book: Arabic references, American spelling, and
+CCEL's punctuation around references. The 2026-11 recheck uses our Kraken OCR of 1845.**
+
 **Done for all six volumes (2026-10-11/12): 999 findings applied.**
 
 CCEL's text of Beveridge's translation (keyed from the 1953 Eerdmans reprint)
@@ -51,8 +57,7 @@ sgreek.py: paths inside point to its scratchpad; adapt them).
 > view with Read). The "ccel" field must be the EXACT text in the .typ file
 > (curly quotes, the file's Greek encoding), occurring once. Do NOT list
 > CCEL-wide style the edition keeps: Arabic references, CCEL's spellings,
-> has/does/goes in Scripture quotations (the editor keeps CCEL's), CCEL's
-> punctuation around references ("word (ref)."). DO list wrong words,
+> CCEL's punctuation around references ("word (ref)."). DO list wrong words,
 > commas-as-"s", missing/extra/displaced lines, wrong reference numbers
 > (proposed in CCEL's Arabic style), Greek/Latin errors, Greek or Hebrew in
 > font codes, stray note numbers. One plain command per Bash call, absolute
@@ -103,9 +108,9 @@ From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-
 ## The editor's decisions
 
 - CCEL is the base. Its slips are corrected; its style is kept: Arabic
-  references, its spellings, its modernised has/does/goes in Scripture
-  quotations (2026-10-11: "lets keep CCELs this time"), its punctuation
-  around references.
+  references, its spellings, its punctuation around references.
+  (CCEL's modernized has/does/goes in Scripture, kept 2026-10-11, was
+  reversed 2026-11-23: the Classic follows the 1845 print.)
 - References wrong in both CCEL and 1845 are corrected to the right verse.
 - A note's page cross-reference to another printing names the passage instead.
 - Only the public-domain notes of the 1845 printing go in (2026-10-12: "make

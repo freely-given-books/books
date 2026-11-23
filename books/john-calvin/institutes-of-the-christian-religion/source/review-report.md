@@ -2,14 +2,14 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2648 |
-| punctuation | 2426 |
-| emendation | 824 |
-| spacing | 116 |
-| note | 36 |
+| spelling | 2685 |
+| punctuation | 2434 |
+| emendation | 865 |
+| spacing | 117 |
+| case | 84 |
+| note | 38 |
 | italic | 18 |
-| case | 12 |
-| grammar | 8 |
+| grammar | 9 |
 | inset | 6 |
 | merge | 4 |
 | note moved | 2 |
@@ -17,6 +17,7 @@
 ## emendation
 
 - [vol-1/01-prefatory-address.typ note] at bottom of p . 11 , → 
+- [vol-1/01-prefatory-address.typ] scourings → scourings (broken at the line end)
 - [vol-1/01-prefatory-address.typ] Psalm → Ps
 - [vol-1/01-prefatory-address.typ] be → be the
 - [vol-1/01-prefatory-address.typ] Mt . → Matt
@@ -39,10 +40,16 @@
 - [vol-1/book-1-argument.typ] Chap . → Chapter
 - [vol-1/book-1-argument.typ] Chap . → Chapter
 - [vol-1/book-1-chapter-01.typ] has → have
+- [vol-1/book-1-chapter-04.typ] because → but
+- [vol-1/book-1-chapter-04.typ] arrogating → arrogating (the earlier clause also opens “because”)
 - [vol-1/book-1-chapter-04.typ] Psalm → Ps
 - [vol-1/book-1-chapter-04.typ] Psalm → Ps
+- [vol-1/book-1-chapter-04.typ] has → hath
+- [vol-1/book-1-chapter-04.typ] has → hath
+- [vol-1/book-1-chapter-05.typ note] 4 1 → 6, l
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
+- [vol-1/book-1-chapter-05.typ] has → hath
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
@@ -51,8 +58,10 @@
 - [vol-1/book-1-chapter-06.typ note] 70 → 
 - [vol-1/book-1-chapter-06.typ] Psalm → Ps
 - [vol-1/book-1-chapter-06.typ] Psalm → Ps
+- [vol-1/book-1-chapter-06.typ] does → doth
 - [vol-1/book-1-chapter-06.typ] Psalm → Ps
 - [vol-1/book-1-chapter-07.typ note] is → it
+- [vol-1/book-1-chapter-07.typ] has → hath
 - [vol-1/book-1-chapter-08.typ note] Numb . → Num
 - [vol-1/book-1-chapter-08.typ note] Numb . → Num
 - [vol-1/book-1-chapter-08.typ note] Numb . → Num
@@ -75,6 +84,7 @@
 - [vol-1/book-1-chapter-11.typ] ιδολατρια → idolatria
 - [vol-1/book-1-chapter-11.typ] δυλια → dulia
 - [vol-1/book-1-chapter-11.typ] oven → own
+- [vol-1/book-1-chapter-11.typ] has → hath
 - [vol-1/book-1-chapter-11.typ] λατρια → latria
 - [vol-1/book-1-chapter-11.typ] δυλια → dulia
 - [vol-1/book-1-chapter-12.typ] δυλια → dulia
@@ -94,11 +104,16 @@
 - [vol-1/book-1-chapter-13.typ] are → are three persons
 - [vol-1/book-1-chapter-13.typ] he → be
 - [vol-1/book-1-chapter-13.typ] it is → this
+- [vol-1/book-1-chapter-13.typ] prove → 
 - [vol-1/book-1-chapter-13.typ] us → as
 - [vol-1/book-1-chapter-13.typ] ver → v
 - [vol-1/book-1-chapter-13.typ] ver → v
 - [vol-1/book-1-chapter-13.typ] Is . → Isa
 - [vol-1/book-1-chapter-13.typ] Mt . → Matt
+- [vol-1/book-1-chapter-13.typ] has → hath
+- [vol-1/book-1-chapter-13.typ] has → hath
+- [vol-1/book-1-chapter-13.typ] has → hath
+- [vol-1/book-1-chapter-13.typ] has → hath
 - [vol-1/book-1-chapter-13.typ] Mt . → Matt
 - [vol-1/book-1-chapter-13.typ] he → be
 - [vol-1/book-1-chapter-13.typ] ̔Ου → Οὐ
@@ -111,6 +126,9 @@
 - [vol-1/book-1-chapter-13.typ] Is . → Isa
 - [vol-1/book-1-chapter-13.typ] Is . → Isa
 - [vol-1/book-1-chapter-14.typ note] Ex . → Exod
+- [vol-1/book-1-chapter-14.typ note] 28 → 
+- [vol-1/book-1-chapter-14.typ note] 29 → 
+- [vol-1/book-1-chapter-14.typ note] Judges → 23:20; Judg
 - [vol-1/book-1-chapter-14.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ note] Mt . → Matt
@@ -133,27 +151,50 @@
 - [vol-1/book-1-chapter-15.typ note] Mt . → Matt
 - [vol-1/book-1-chapter-15.typ] ant → out
 - [vol-1/book-1-chapter-15.typ] Eccles . → Eccl
+- [vol-1/book-1-chapter-15.typ] has → hath
 - [vol-1/book-1-chapter-15.typ] Mt . → Matt
 - [vol-1/book-1-chapter-15.typ] so → 
 - [vol-1/book-1-chapter-15.typ] sec → c
 - [vol-1/book-1-chapter-16.typ note] sumum → , summum
 - [vol-1/book-1-chapter-16.typ] Mt . → Matt
+- [vol-1/book-1-chapter-16.typ] has → hath
+- [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-16.typ] Mt . → Matt
 - [vol-1/book-1-chapter-16.typ] Scriptures moreover → Scripture, more over
+- [vol-1/book-1-chapter-16.typ] has → hath
+- [vol-1/book-1-chapter-16.typ] does → doth
 - [vol-1/book-1-chapter-16.typ] Is . → Isa
+- [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-17.typ note] L → 
+- [vol-1/book-1-chapter-17.typ] has → hath
+- [vol-1/book-1-chapter-17.typ] has → hath
+- [vol-1/book-1-chapter-17.typ] has → hath
 - [vol-1/book-1-chapter-17.typ] δ ᾽ → δ’
+- [vol-1/book-1-chapter-17.typ] has → hath
+- [vol-1/book-1-chapter-17.typ] has → hath
 - [vol-1/book-1-chapter-17.typ] Lament . → Lam
 - [vol-1/book-1-chapter-17.typ] Is . → Isa
 - [vol-1/book-1-chapter-17.typ] Is . → Isa
 - [vol-1/book-1-chapter-17.typ] Is . → Isa
+- [vol-1/book-1-chapter-17.typ] has → hath
+- [vol-1/book-1-chapter-17.typ] has → hath
+- [vol-1/book-1-chapter-17.typ] has → hath
 - [vol-1/book-1-chapter-18.typ note] . 1 → 50
 - [vol-1/book-1-chapter-18.typ note] Is . → Isa
+- [vol-1/book-1-chapter-18.typ] has → hath
+- [vol-1/book-1-chapter-18.typ] has → hath
+- [vol-1/book-1-chapter-18.typ] has → hath
 - [vol-1/book-1-chapter-18.typ] 4 → 3
 - [vol-1/book-1-chapter-18.typ] Psalm → Ps
+- [vol-1/book-1-chapter-18.typ] has → hath
 - [vol-1/book-1-chapter-18.typ] Chap . → Chapter
+- [vol-1/book-1-chapter-18.typ] has → hath
+- [vol-1/book-1-chapter-18.typ] has → hath
+- [vol-1/book-1-chapter-18.typ] has → hath
 - [vol-1/book-1-chapter-18.typ] Is . → Isa
+- [vol-1/book-1-chapter-18.typ] has → hath
 - [vol-1/book-1-chapter-18.typ] I → 1
+- [vol-1/book-1-chapter-18.typ] has → hath
 - [vol-2/book-2-argument.typ] Chap . → Chapter
 - [vol-2/book-2-argument.typ] Chap . → Chapter
 - [vol-2/book-2-argument.typ] Chap . → Chapter
@@ -843,6 +884,7 @@
 
 ## grammar
 
+- Quest → Quæst
 - art → and
 - best → hast
 - n’est → n'est
@@ -855,14 +897,19 @@
 ## punctuation
 
 - [vol-1/01-prefatory-address.typ note] , → 
+- [vol-1/01-prefatory-address.typ] — → -
+- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] — → -|
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
-- [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
@@ -878,6 +925,7 @@
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
+- [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/book-1-argument.typ] - → –
 - [vol-1/book-1-argument.typ] - → –
@@ -1006,6 +1054,8 @@
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
+- [vol-1/book-1-chapter-14.typ note] , → 
+- [vol-1/book-1-chapter-14.typ note] , → 
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
@@ -3283,15 +3333,27 @@
 
 ## case
 
+- Judgment → judgment (×48)
+- Judgments → judgments (×14)
 - prefixed → Prefixed (×3)
+- And → and
 - PS → Ps
+- Who → who
+- Wisdom → wisdom
+- divinity → Divinity
+- ed → Ed
 - french → French
 - geneva → Geneva
+- he → He
+- him → Him
 - holy → Holy
 - in → In
+- lord → Lord
 - scripture → Scripture
 - seeing → Seeing
 - strasburg → Strasburg
+- the → The
+- virtues → Virtues
 - who → Who
 
 ## spelling
@@ -3330,12 +3392,12 @@
 - worshippers → worshipers (×15)
 - behaved → behoved (×13)
 - sepulchre → sepulcher (×13)
-- Judges → Judg (×12)
 - licence → license (×12)
 - odour → odor (×12)
 - rigour → rigor (×12)
 - threatening → threatenings (×12)
 - Hosea → Hos (×11)
+- Judges → Judg (×11)
 - favourable → favorable (×11)
 - recognising → recognizing (×11)
 - retake → betake (×11)
@@ -3409,6 +3471,7 @@
 - passages → passage, (×3)
 - philosophise → philosophize (×3)
 - recognises → recognizes (×3)
+- retakes → betakes (×3)
 - rumour → rumor (×3)
 - theme → them, (×3)
 - wills → will, (×3)
@@ -3427,6 +3490,7 @@
 - admits → admit, (×2)
 - anathematised → anathematized (×2)
 - apologises → apologizes (×2)
+- appetite → appetive (×2)
 - ardour → ardor (×2)
 - asks → ask, (×2)
 - authorised → authorized (×2)
@@ -3464,21 +3528,23 @@
 - passages → passage (×2)
 - practised → practiced (×2)
 - presence → pretense (×2)
+- prophesying → prophesyings (×2)
 - reasons → reason (×2)
 - reconciliations → reconciliation, (×2)
-- retakes → betakes (×2)
 - retaking → betaking (×2)
 - rights → right, (×2)
 - saving → saying (×2)
 - scrutinise → scrutinize (×2)
 - sees → seest (×2)
 - stigmatised → stigmatized (×2)
+- subsistence → subsistences (×2)
 - terms → term, (×2)
 - then → than (×2)
 - then → them (×2)
 - therefore → therefore, (×2)
 - times → time, (×2)
 - unbaptised → unbaptized (×2)
+- untreated → uncreated (×2)
 - uses → use, (×2)
 - verdant → versant (×2)
 - views → view, (×2)
@@ -3526,6 +3592,8 @@
 - Eccles → Eccles.
 - Ecclesiœ → Ecclesiæ
 - Eceles → Eccles
+- Emmanuel → Immanuel
+- Epicures → Epicurus
 - Epistles → Epistle
 - Epistles → Epistle,
 - Esther → Esth
@@ -3538,10 +3606,12 @@
 - Genesis → Gen
 - Genesis → Genesim
 - Gods → God
+- Goes → goeth
 - Gratis → Gratia
 - HONOUR → HONOR
 - Haggai → Hag
 - Hence → Whence
+- Hero → Hiero
 - Ies → les
 - Ills → Ils
 - Impardonable → unpardonable
@@ -3554,6 +3624,7 @@
 - Lateral → Lateran
 - Latin → Latin,
 - Lawgivers → Lawgiver,
+- Libertine → Elibertine
 - Lig → Lib
 - Lords → Lord,
 - Lore → Lord
@@ -3561,11 +3632,14 @@
 - Malachi → Mal
 - Mas → Mais
 - Matthiue → Matthieu
+- Maximum → Maximus
 - Morever → Moreover
 - Mortals → Mortuis
 - NEIGHBOUR → NEIGHBOR
 - Nahum → Nah
+- Nathan → Dathan
 - Nature → Natura
+- Nicidenitas → Nicodemitas
 - Not → No
 - Nothings → Nothing,
 - Pighiium → Pighium
@@ -3579,6 +3653,7 @@
 - Pœnit → Pœnit.
 - Satan’s → Satan,
 - Section → Sections
+- Simon → Simeon
 - Simplie → Simplic
 - Sion → Zion
 - Spirits → Spirit
@@ -3587,11 +3662,14 @@
 - Testaments → Testament,
 - Therefore → Therefore,
 - Thomas → Thomam
+- Torah → Terah
+- Trinity → Trinit
 - Trojan → Trajan
 - Way → Nay
 - When → Then
 - a → an
 - abrograte → abrogate
+- abstracte → abstracted²
 - abuse → abused
 - adds → add,
 - adoptions → adoption,
@@ -3655,6 +3733,7 @@
 - commencment → commencement
 - condemnations → condemnation,
 - condemned → contemned
+- condemning → contemning
 - confessions → confession
 - conseli → conseil
 - contaminations → contamination,
@@ -3663,6 +3742,7 @@
 - coporeally → corporeally
 - corresponds → correspond
 - corruptions → corruption,
+- coueurs → cœurs
 - counsellors → counselors
 - dangers → danger,
 - deaths → death,
@@ -3707,6 +3787,7 @@
 - enlisting → existing
 - ent → ont
 - eontre → contre
+- equivocations → equivocation,
 - erainte → crainte
 - errors → error,
 - estra → estre
@@ -3732,6 +3813,7 @@
 - fin → fin.
 - fins → sins
 - formaæ → formæ
+- formula → formulæ
 - foul → soul
 - fradulently → fraudulently
 - friend → friends
@@ -3739,6 +3821,7 @@
 - furry → fury
 - further → farther
 - glow → glory
+- gnawing → gnawings
 - goes → gives
 - gormandising → gormandizing
 - governments → government,
@@ -3761,6 +3844,7 @@
 - heavenly → heaven’s
 - heavens → heaven,
 - height → weight
+- helms → helm,
 - him → him,
 - his → this
 - holds → hold,
@@ -3801,8 +3885,10 @@
 - laquelie → laquelle
 - lar → la
 - leave → have
+- lib → Lib.
 - light → right
 - limitations → limitation,
+- literature → literaturæ
 - loafbread → loaf-bread
 - lurkingplaces → lurking-places
 - lust → lusts
@@ -3811,6 +3897,7 @@
 - malice → make
 - masteries → mysteries
 - mean → means
+- mechans → meschans
 - men → man
 - men → me,
 - methods → method,
@@ -3863,6 +3950,7 @@
 - permissions → permission,
 - perpare → prepare
 - perrogative → prerogative
+- perversment → perversement
 - pester → prater
 - places → palaces
 - placte → placet
@@ -3902,6 +3990,7 @@
 - relish → perish
 - rench → French
 - require → required
+- restrict → astrict
 - restricted → astricted
 - results → result,
 - rethink → bethink
@@ -3911,6 +4000,7 @@
 - right → rite
 - righteousness → righteousnesses,
 - rigid → frigid
+- ruissuaux → ruisseaux
 - said → saith
 - saini → asini
 - sakes → sake,
@@ -3939,6 +4029,7 @@
 - spare → spared
 - speaks → speak,
 - spearing → speaking
+- spectra → spectre
 - speculate → speculative
 - split → spirit
 - squ → sq
@@ -3949,7 +4040,6 @@
 - strengths → strength,
 - subjects → subject
 - subjects → subject,
-- subsistence → subsistences
 - substantæ → substantiæ
 - substitutions → substitution,
 - suffcit → sufficit
@@ -3981,13 +4071,17 @@
 - tyrannises → tyrannizes
 - uit → ult
 - unas → unus
+- unblessed → unbiased
+- unborn → upborne
 - uncerstand → understand
+- unconfined → uncoffined
 - unfavourable → unfavorable
 - unhonoured → unhonored
 - unity → unity.
 - universes → universe,
 - unjustly → justly
 - unnamed → inflamed
+- unrighteous → righteous
 - use → us,
 - valour → valor
 - veuillins → veuillions
@@ -3996,6 +4090,7 @@
 - vulgarised → vulgarized
 - was → wash
 - were → were,
+- wet → wot
 - when → when,
 - whould → would
 - wills → will
