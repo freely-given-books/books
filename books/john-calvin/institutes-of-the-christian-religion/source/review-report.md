@@ -2,17 +2,17 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2684 |
-| punctuation | 2439 |
-| emendation | 862 |
-| spacing | 120 |
-| case | 84 |
+| spelling | 2718 |
+| punctuation | 2449 |
+| emendation | 868 |
+| spacing | 127 |
+| case | 83 |
 | note | 38 |
-| italic | 18 |
-| grammar | 9 |
+| italic | 19 |
+| grammar | 10 |
 | inset | 6 |
 | merge | 4 |
-| note moved | 2 |
+| note moved | 3 |
 
 ## emendation
 
@@ -20,6 +20,7 @@
 - [vol-1/01-prefatory-address.typ] Psalm → Ps
 - [vol-1/01-prefatory-address.typ] be → be the
 - [vol-1/01-prefatory-address.typ] Mt . → Matt
+- [vol-1/01-prefatory-address.typ] withall → with all
 - [vol-1/01-prefatory-address.typ] era → of a
 - [vol-1/01-prefatory-address.typ] subtleties → subtleties of
 - [vol-1/01-prefatory-address.typ] Is . → Isa
@@ -45,6 +46,7 @@
 - [vol-1/book-1-chapter-04.typ] has → hath
 - [vol-1/book-1-chapter-04.typ] has → hath
 - [vol-1/book-1-chapter-05.typ note] 4 1 → 6, l
+- [vol-1/book-1-chapter-05.typ note] 1 → l
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-05.typ] Psalm → Ps
 - [vol-1/book-1-chapter-05.typ] has → hath
@@ -60,7 +62,7 @@
 - [vol-1/book-1-chapter-06.typ] Psalm → Ps
 - [vol-1/book-1-chapter-07.typ note] is → it
 - [vol-1/book-1-chapter-07.typ] has → hath
-- [vol-1/book-1-chapter-08.typ note] Numb . → Num
+- [vol-1/book-1-chapter-08.typ note] Numb → ;
 - [vol-1/book-1-chapter-08.typ note] Numb . → Num
 - [vol-1/book-1-chapter-08.typ note] Numb . → Num
 - [vol-1/book-1-chapter-08.typ] Numb . → Num
@@ -68,6 +70,7 @@
 - [vol-1/book-1-chapter-08.typ] clear to leave it free for heathen writers to deny that Moses did perform miracles , the father of lies suggested a calumny , and → 
 - [vol-1/book-1-chapter-08.typ] 55 → 45
 - [vol-1/book-1-chapter-08.typ] Chron . → Chr
+- [vol-1/book-1-chapter-08.typ] more over → moreover
 - [vol-1/book-1-chapter-09.typ note] étépetis → été petis
 - [vol-1/book-1-chapter-10.typ note] 42 → 
 - [vol-1/book-1-chapter-10.typ] Ex . → Exod
@@ -117,6 +120,7 @@
 - [vol-1/book-1-chapter-13.typ] ἕι → ἓν
 - [vol-1/book-1-chapter-13.typ] εὶς → εἰς
 - [vol-1/book-1-chapter-13.typ] ἑν → ἓν
+- [vol-1/book-1-chapter-13.typ] ; 10 : → ,
 - [vol-1/book-1-chapter-13.typ] Is . → Isa
 - [vol-1/book-1-chapter-13.typ] Ex . → Exod
 - [vol-1/book-1-chapter-13.typ] Mt . → Matt
@@ -145,7 +149,9 @@
 - [vol-1/book-1-chapter-14.typ] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ] Mt . → Matt
 - [vol-1/book-1-chapter-14.typ] Mt . → Matt
+- [vol-1/book-1-chapter-15.typ note] hic → nec
 - [vol-1/book-1-chapter-15.typ note] Mt . → Matt
+- [vol-1/book-1-chapter-15.typ note] Psycho pannychia → Psychopannychia
 - [vol-1/book-1-chapter-15.typ] ant → out
 - [vol-1/book-1-chapter-15.typ] Eccles . → Eccl
 - [vol-1/book-1-chapter-15.typ] has → hath
@@ -157,12 +163,12 @@
 - [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-16.typ] Mt . → Matt
-- [vol-1/book-1-chapter-16.typ] Scriptures moreover → Scripture, more over
 - [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-16.typ] does → doth
 - [vol-1/book-1-chapter-16.typ] Is . → Isa
 - [vol-1/book-1-chapter-16.typ] has → hath
 - [vol-1/book-1-chapter-17.typ note] L → 
+- [vol-1/book-1-chapter-17.typ note] 29 → 49
 - [vol-1/book-1-chapter-17.typ] has → hath
 - [vol-1/book-1-chapter-17.typ] has → hath
 - [vol-1/book-1-chapter-17.typ] has → hath
@@ -881,6 +887,7 @@
 
 ## grammar
 
+- Cest → C’est
 - Quest → Quæst
 - art → and
 - best → hast
@@ -931,6 +938,8 @@
 - [vol-1/book-1-chapter-04.typ] . → 
 - [vol-1/book-1-chapter-04.typ] . → 
 - [vol-1/book-1-chapter-04.typ] . → 
+- [vol-1/book-1-chapter-04.typ] : → .
+- [vol-1/book-1-chapter-05.typ note] . → ,
 - [vol-1/book-1-chapter-05.typ] . → 
 - [vol-1/book-1-chapter-05.typ] . → 
 - [vol-1/book-1-chapter-05.typ] . → 
@@ -942,6 +951,7 @@
 - [vol-1/book-1-chapter-05.typ] . → 
 - [vol-1/book-1-chapter-05.typ] . → 
 - [vol-1/book-1-chapter-05.typ] . → 
+- [vol-1/book-1-chapter-06.typ] . → 
 - [vol-1/book-1-chapter-06.typ] . → 
 - [vol-1/book-1-chapter-06.typ] . → 
 - [vol-1/book-1-chapter-06.typ] - → –
@@ -954,6 +964,7 @@
 - [vol-1/book-1-chapter-08.typ note] . → 
 - [vol-1/book-1-chapter-08.typ note] . → 
 - [vol-1/book-1-chapter-08.typ note] . → 
+- [vol-1/book-1-chapter-08.typ note] . → Num
 - [vol-1/book-1-chapter-08.typ] . → 
 - [vol-1/book-1-chapter-08.typ] . → 
 - [vol-1/book-1-chapter-08.typ] . → 
@@ -976,6 +987,7 @@
 - [vol-1/book-1-chapter-11.typ note] ; → ; also Ep. 53. et 126. lib. 2., where Gregory, while wishing to excuse the worship of
 - [vol-1/book-1-chapter-11.typ] . → 
 - [vol-1/book-1-chapter-11.typ] . → 
+- [vol-1/book-1-chapter-11.typ] , → , lib. 6
 - [vol-1/book-1-chapter-11.typ] . → 
 - [vol-1/book-1-chapter-11.typ] . → 
 - [vol-1/book-1-chapter-11.typ] . → 
@@ -1053,6 +1065,8 @@
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
 - [vol-1/book-1-chapter-14.typ note] . → 
@@ -1079,6 +1093,7 @@
 - [vol-1/book-1-chapter-14.typ] . → 
 - [vol-1/book-1-chapter-14.typ] . → 
 - [vol-1/book-1-chapter-14.typ] . → 
+- [vol-1/book-1-chapter-14.typ] , → 
 - [vol-1/book-1-chapter-14.typ] . → 
 - [vol-1/book-1-chapter-14.typ] . → 
 - [vol-1/book-1-chapter-14.typ] . → 
@@ -1133,6 +1148,7 @@
 - [vol-1/book-1-chapter-16.typ] . → 
 - [vol-1/book-1-chapter-16.typ] . → 
 - [vol-1/book-1-chapter-16.typ] . → 
+- [vol-1/book-1-chapter-16.typ] ) → ).
 - [vol-1/book-1-chapter-16.typ] . → 
 - [vol-1/book-1-chapter-16.typ] . → 
 - [vol-1/book-1-chapter-16.typ] . → 
@@ -1189,6 +1205,7 @@
 - [vol-1/book-1-chapter-18.typ] . → 
 - [vol-1/book-1-chapter-18.typ] . → 
 - [vol-1/book-1-chapter-18.typ] . → 
+- [vol-1/book-1-chapter-18.typ] , → 
 - [vol-2/book-2-chapter-01.typ] . → 
 - [vol-2/book-2-chapter-01.typ] . → 
 - [vol-2/book-2-chapter-01.typ] . → 
@@ -3335,7 +3352,7 @@
 
 ## case
 
-- Judgment → judgment (×48)
+- Judgment → judgment (×47)
 - Judgments → judgments (×14)
 - prefixed → Prefixed (×3)
 - And → and
@@ -3416,6 +3433,7 @@
 - favours → favors (×7)
 - realised → realized (×7)
 - theatre → theater (×7)
+- Scriptures → Scripture, (×6)
 - baptising → baptizing (×6)
 - dishonour → dishonor (×6)
 - endeavoured → endeavored (×6)
@@ -3424,7 +3442,6 @@
 - rebaptised → rebaptized (×6)
 - skilful → skillful (×6)
 - Origin → Origen (×5)
-- Scriptures → Scripture, (×5)
 - favoured → favored (×5)
 - labouring → laboring (×5)
 - marvellous → marvelous (×5)
@@ -3437,6 +3454,7 @@
 - Honour → Honor (×4)
 - Isiah → Isa (×4)
 - acknowledgement → acknowledgment (×4)
+- c → c. (×4)
 - ceaselessly → causelessly (×4)
 - foreknow → foreknew (×4)
 - glamour → clamor (×4)
@@ -3512,6 +3530,7 @@
 - harbour → harbor (×2)
 - hesitations → hesitation, (×2)
 - humours → humors (×2)
+- indeed → indeed, (×2)
 - judgments → judgment, (×2)
 - justifications → justification, (×2)
 - kingdoms → kingdom, (×2)
@@ -3536,6 +3555,7 @@
 - retaking → betaking (×2)
 - rights → right, (×2)
 - saving → saying (×2)
+- says → says, (×2)
 - scrutinise → scrutinize (×2)
 - sees → seest (×2)
 - stigmatised → stigmatized (×2)
@@ -3564,6 +3584,8 @@
 - 28 → 28.
 - 30 → 30.
 - 4 → 4.
+- 6 → 6.
+- 9 → 9.
 - Adams → Adam,
 - Ambrose → Ambros
 - Andy → And,
@@ -3571,6 +3593,7 @@
 - Aristoeratie → Aristocratie,
 - Asian → Asia,
 - Athanasuis → Athanasius
+- Augustine → Augustine,
 - BRIEFLY → CHIEFLY
 - Baptiser → Baptizer
 - Beats → Beata
@@ -3581,6 +3604,7 @@
 - Catholicœ → Catholicæ
 - Certainly → Certain
 - Chalcedony → Chalcedon
+- Christi → Christo
 - Cleres → Clercs
 - Come → Comme
 - Commandment → Commandment.
@@ -3620,6 +3644,7 @@
 - Janur → Januar
 - Jerusalem → Jerusalem,
 - Joshua → Josh
+- Judgment → —judgment
 - Julia → Julian
 - LABOUR → LABOR
 - LICENCE → LICENSE
@@ -3666,6 +3691,8 @@
 - Thomas → Thomam
 - Torah → Terah
 - Trinity → Trinit
+- Triport → Tripart
+- Trismegr → Trismeg
 - Trojan → Trajan
 - Way → Nay
 - When → Then
@@ -3688,6 +3715,7 @@
 - ambitions → ambition,
 - anathematise → anathematize
 - anathematises → anathematizes
+- anew → anew.
 - apostles → apostle,
 - appending → appendix
 - apprehensions → apprehension
@@ -3718,7 +3746,6 @@
 - breviare → breviaire
 - burials → burial,
 - bye → by
-- c → c.
 - call → called
 - callings → calling,
 - camparison → comparison
@@ -3734,6 +3761,7 @@
 - comes → cometh
 - comets → cometh
 - commencment → commencement
+- communicate → communicate.
 - condemnations → condemnation,
 - condemned → contemned
 - condemning → contemning
@@ -3823,6 +3851,7 @@
 - fulfill → fulfills
 - furry → fury
 - further → farther
+- futile → fatale
 - glow → glory
 - gnawing → gnawings
 - goes → gives
@@ -3849,8 +3878,10 @@
 - height → weight
 - helms → helm,
 - him → him,
+- himself → himself,
 - his → this
 - holds → hold,
+- however → however,
 - humaiu → humain
 - humoured → humored
 - hæ → hæc
@@ -3858,7 +3889,6 @@
 - importers → imposters
 - improve → approve
 - impunity → impurity
-- indeed → indeed,
 - indicted → inflicted
 - indulgences → indulgence,
 - inhale → inflame
@@ -3866,6 +3896,7 @@
 - insanc → insano
 - inspired → inspires
 - instil → instill
+- instites → antistites
 - intellects → intellect,
 - intends → intend,
 - interogated → interrogated
@@ -3884,10 +3915,12 @@
 - justified → justifies
 - knew → know
 - know → known
+- known → known,
 - labourer → laborer
 - laquelie → laquelle
 - lar → la
 - leave → have
+- lib → lib.
 - light → right
 - limitations → limitation,
 - literature → literaturæ
@@ -3897,11 +3930,14 @@
 - l’eau → l'eau
 - maintaine → maintained
 - malice → make
+- man → men
 - masteries → mysteries
+- maturity → maturity,
 - mean → means
 - mechans → meschans
 - men → man
 - men → me,
+- men → men.
 - methods → method,
 - meutrissent → meurtrissent
 - midst → didst
@@ -3910,10 +3946,12 @@
 - mitre → miter
 - modelled → modeled
 - moreover → moreover,
+- mothers → mothers’
 - mouths → mouth,
 - nations → nation,
 - natute → nature
 - nays → nay,
+- neverfailing → never-failing
 - nexts → next
 - ne’st → n’est
 - nights → night,
@@ -3950,10 +3988,12 @@
 - performs → perform
 - perlin → pelerin
 - permissions → permission,
+- permitting → permitting,
 - perpare → prepare
 - perrogative → prerogative
 - perversment → perversement
 - pester → prater
+- pious → pious,
 - places → palaces
 - placte → placet
 - plasir → plaisir
@@ -3968,9 +4008,11 @@
 - pretences → pretenses
 - priests → priest,
 - principle → principal
+- proofs → proofs,
 - prosperity → posterity
 - psalms → psalm
 - psalms → psalm,
+- pure → pure:
 - qu → qui
 - quarrelling → quarreling
 - que → qui
@@ -4002,6 +4044,7 @@
 - right → rite
 - righteousness → righteousnesses,
 - rigid → frigid
+- rises → rises,
 - ruissuaux → ruisseaux
 - said → saith
 - saini → asini
@@ -4010,8 +4053,9 @@
 - saviour → savior
 - savouring → savoring
 - say → says
-- says → says,
 - scented → seemed
+- selfexistence → self-existence
+- selfexistent → self-existent
 - separated → separate
 - seperance → esperance
 - sepingle → espingle
@@ -4062,6 +4106,7 @@
 - this → his
 - thunderbolts → thunderbolt,
 - tombs → tomb,
+- too → to
 - tou → tous
 - toutesfeis → toutesfois
 - towards → toward
