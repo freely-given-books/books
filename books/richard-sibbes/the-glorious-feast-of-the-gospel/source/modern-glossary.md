@@ -40,6 +40,19 @@ How the Modern English edition renders words that meant something else to the au
 | mean, meaner | lowliest, lower |
 | professors of religion | professing Christians |
 | stay (the stomach; your soul) | ease (the hunger); rest |
+| apprehension (of truths), apprehend | grasp, understanding; see (re-check 2026-11-21) |
+| passion (suffering, set against compassion) | suffering |
+| honest (man) | honorable |
+| arguments (pleas to God) | pleas |
+| immediate (without means) | direct |
+| jealousies (suspicions) | distrust |
+| peculiar to | belongs only to |
+| a certain day | a fixed day |
+| confound (enemies) | put to shame |
+| howsoever (although) | although |
+| contentments (pleasures) | satisfactions |
+| scandal, scandalous offences | offense, offenses that make men stumble |
+| minds (the things above) | sets his mind on |
 
 Kept: formal (Christian), single combatants, suggestions, several, the creatures, vicious, "stand in their own light",
 affection (of fear), bless themselves (Deut 29:19), property, catastrophe (Sibbes explains it), care for nothing, ranting.

@@ -96,7 +96,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-15" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-22" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2007-02</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -3002,9 +3002,9 @@ there was an <choice><orig>hooke</orig><reg resp="#editor" type="spelling">hook<
 him, that when he thought to have <choice><orig>ſwallowed</orig><reg resp="#auto" type="spelling">swallowed</reg></choice> up <choice><orig>Chriſt</orig><reg resp="#editor" type="spelling">Christ,</reg><reg resp="#auto" type="spelling">Christ</reg></choice>
 was <choice><orig>ſwallowed</orig><reg resp="#auto" type="spelling">swallowed</reg></choice> up <choice><orig>himſelfe</orig><reg resp="#auto" type="spelling">himself</reg></choice><choice><orig>,</orig><reg resp="#editor" type="punctuation">.</reg></choice> <choice><orig>his</orig><reg resp="#editor" type="case">His</reg></choice> head was then broken<choice><orig>;</orig><reg resp="#editor" type="punctuation">.</reg></choice>
 <choice><orig>he</orig><reg resp="#editor" type="case">He</reg></choice> never had <choice><orig>ſuch</orig><reg resp="#auto" type="spelling">such</reg></choice> a blow, as by <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> on the <choice><orig>croſſe</orig><reg resp="#auto" type="spelling">cross</reg></choice>, when
-he was <choice><orig>overcome</orig><reg resp="#editor" type="spelling">overcome,</reg></choice> being a <choice><orig>ſcorne</orig><reg resp="#auto" type="spelling">scorn</reg></choice> of the world <choice><orig>viſibly</orig><reg resp="#auto" type="spelling">visibly</reg></choice>, yet
+he was <choice><orig>overcome</orig><reg resp="#editor" type="emendation">overcome. Christ,</reg></choice> being a <choice><orig>ſcorne</orig><reg resp="#auto" type="spelling">scorn</reg></choice> of the world <choice><orig>viſibly</orig><reg resp="#auto" type="spelling">visibly</reg></choice>, yet
 <choice><orig>inviſibly</orig><reg resp="#auto" type="spelling">invisibly</reg></choice> in <choice><orig>Gods</orig><reg resp="#editor" type="spelling">God’s</reg></choice> acceptation of that <choice><orig>ſacrifice</orig><reg resp="#auto" type="spelling">sacrifice</reg></choice>, and in a
-<choice><orig>ſpirit</orig><reg resp="#auto" type="spelling">spirit</reg></choice> of faith<choice><orig>:</orig><reg resp="#editor" type="punctuation">.</reg></choice> <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> triumpheth over Satan<choice><orig>,</orig><reg resp="#editor" type="punctuation">.</reg></choice> <choice><orig>death</orig><reg resp="#editor" type="case">Death</reg></choice> was
+<choice><orig>ſpirit</orig><reg resp="#auto" type="spelling">spirit</reg></choice> of faith<choice><orig>: <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice></orig><reg resp="#editor" type="emendation">,</reg></choice> triumpheth over Satan<choice><orig>,</orig><reg resp="#editor" type="punctuation">.</reg></choice> <choice><orig>death</orig><reg resp="#editor" type="case">Death</reg></choice> was
 <choice><orig>ſubdued</orig><reg resp="#auto" type="spelling">subdued</reg></choice> even in his <choice><orig>owne</orig><reg resp="#auto" type="spelling">own</reg></choice> <choice><orig>kingdome</orig><reg resp="#auto" type="spelling">kingdom</reg></choice>, and that makes the
 victory great.</p>
             <p>Death by <choice><orig>ſeiſing</orig><reg resp="#editor" type="spelling">seizing</reg><reg resp="#auto" type="spelling">seising</reg></choice> on <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> without right, <choice><orig>Chriſt</orig><reg resp="#auto" type="spelling">Christ</reg></choice> hath
