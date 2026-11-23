@@ -23,8 +23,8 @@ When Christian saw that the man was wise in his own conceit, he whispered to Hop
 #quote[“Let Ignorance a little while now muse \
 On what is said, and let him not refuse \
 Good counsel to embrace, lest he remain \
-Still ignorant of what’s the chiefest gain. \
-God saith, those that no understanding have, \
+Still ignorant of what’s the greatest gain. \
+God says, those who no understanding have, \
 (Although he made them,) them he will not save.”]
 
 #speech[#smallcaps[Hopeful]: He added further, I do not think it is good to tell him everything at once; let us pass him by, if you are willing, and talk to him later, as far as he is able to bear it.]
@@ -91,10 +91,10 @@ O my brother, if he will only go along with us, why should we be afraid of tens 
 
 For my part, I have been in the fray before now; and though (through the goodness of Him who is best) I am alive, as you see, yet I cannot boast of any manhood. I will be glad if I meet no more such onslaughts; though I fear we are not yet past all danger. However, since the lion and the bear have not yet devoured me, I hope God will also deliver us from the next uncircumcised Philistine. Then Christian sang,
 
-#quote[“Poor Little-Faith! hast been among the thieves? \
-Wast robb’d? Remember this, whoso believes, \
-And get more faith; then shall you victors be \
-Over ten thousand—else scarce over three.”]
+#quote[“Poor Little-Faith! Have you been among the thieves? \
+And robbed? Remember this, whoever believes, \
+And get more faith; then you will victors be \
+Over ten thousand—else hardly over three.”]
 
 So they went on, and Ignorance followed. They went on until they came to a place where they saw another way join their way, and it seemed to lie as straight as the way they ought to go; and here they did not know which of the two to take, for both seemed straight before them. So here they stood still to think it over. And as they were thinking about the way, a man black of flesh, but covered with a very light robe, came up to them and asked them why they were standing there. They answered that they were going to the Celestial City, but did not know which of these ways to take. “Follow me,” said the man, “that is where I am going.” So they followed him in the way that had just come into the road, which little by little turned, and turned them so far from the city they wanted to go to that in a short time their faces were turned away from it; yet they followed him. But soon, before they were aware of it, he led them both into the middle of a net, in which they were both so entangled that they did not know what to do; and with that the white robe fell off the black man’s back. Then they saw where they were. So there they lay crying for some time, for they could not get themselves out.
 
@@ -104,12 +104,12 @@ So they went on, and Ignorance followed. They went on until they came to a place
 
 Then I saw in my dream that he commanded them to lie down; and when they did, he chastised them severely, to teach them the good way in which they should walk, Deut 25:2; 2 Chr 6:27; and as he chastised them, he said, “Those I love, I rebuke and chasten. Therefore be earnest and repent.” Rev 3:19. When this was done, he told them to go on their way, and to pay close attention to the shepherds’ other directions. So they thanked him for all his kindness, and went quietly along the right way, singing,
 
-#quote[“Come hither, you that walk along the way, \
-See how the pilgrims fare that go astray: \
-They catched are in an entangling net, \
-Cause they good counsel lightly did forget: \
-’Tis true, they rescued were; but yet, you see, \
-They’re scourged to boot; let this your caution be.”]
+#quote[“Come here, you#super[+] who walk along the way, \
+See how the pilgrims fare who go astray: \
+They have been caught in an entangling net, \
+Because good counsel they would lightly forget: \
+It’s true, they were rescued; but yet, you#super[+] see, \
+They’re scourged to boot; let this your#super[+] caution be.”]
 
 Now after a while they saw someone far off, coming quietly and alone along the highway to meet them. Then Christian said to his companion, There is a man over there with his back towards Zion, and he is coming to meet us.
 
@@ -165,11 +165,11 @@ I then saw in my dream that they went on until they came into a certain country 
 
 #speech[#smallcaps[Christian]: First I will sing you this song:]
 
-#quote[“When saints do sleepy grow, let them come hither, \
+#quote[“When saints grow sleepy, let them come and gather, \
 And hear how these two pilgrims talk together; \
-Yea, let them learn of them in any wise, \
+Yes, by all means, let them learn from them, likewise \
 Thus to keep open their drowsy, slumb’ring eyes. \
-Saints’ fellowship, if it be managed well, \
+Saints’ fellowship, if it is managed well, \
 Keeps them awake, and that in spite of hell.”]
 
 Then Christian began, and said, I will ask you a question. How did you first come to think of doing what you are doing now?
@@ -420,11 +420,11 @@ Then Christian said to Hopeful (but quietly), Did I not tell you he did not care
 
 Then they said,
 
-#quote[“Well, Ignorance, wilt thou yet foolish be, \
-To slight good counsel, ten times given thee? \
-And if thou yet refuse it, thou shalt know, \
-Ere long, the evil of thy doing so. \
+#quote[“Well, Ignorance, will you still foolish be, \
+To slight good counsel, ten times given free? \
+And if you still refuse it, you will know, \
+Before long, the evil of your doing so. \
 Remember, man, in time: stoop, do not fear: \
 Good counsel, taken well, saves; therefore hear. \
-But if thou yet shalt slight it, thou wilt be \
-The loser, Ignorance, I’ll warrant thee.”]
+But if you slight it still, then you will be \
+The loser, Ignorance, I guarantee.”]

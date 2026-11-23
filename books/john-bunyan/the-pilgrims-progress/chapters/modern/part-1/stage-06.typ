@@ -102,9 +102,9 @@ Now I saw that there stood behind the crowd a chariot and a pair of horses waiti
 
 And as he went, he sang these words,
 
-#quote[“Well, Faithful, thou hast faithfully profest \
-Unto thy Lord, with whom thou shalt be blest, \
+#quote[“Well, Faithful, you have faithfully professed \
+Unto your Lord, with whom you will be blessed, \
 When faithless ones, with all their vain delights, \
 Are crying out under their hellish plights: \
-Sing, Faithful, sing, and let thy name survive; \
-For though they killed thee, thou art yet alive.”]
+Sing, Faithful, sing, and let your name survive; \
+For though they killed you, you are still alive.”]

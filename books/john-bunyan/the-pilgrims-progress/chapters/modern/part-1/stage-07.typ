@@ -145,7 +145,7 @@ By this time By-ends and his companions had come into sight again, and at the fi
 #quote[“By-ends and silver Demas both agree; \
 One calls, the other runs, that he may be \
 A sharer in his lucre: so these two \
-Take up in this world, and no farther go.”]
+Settle in this world, and no farther go.”]
 
 Now I saw that, just on the other side of this plain, the pilgrims came to a place where an old monument stood close beside the highway, and the sight of it troubled them both, because its form was so strange; for it seemed to them as if it were a woman changed into the shape of a pillar. So they stood here looking and looking at it, but for a while could not tell what to make of it. At last Hopeful noticed some writing in an unusual hand, high up on its head; but as he was no scholar, he called to Christian (for he was learned) to see if he could make out the meaning. So Christian came, and after piecing the letters together a little, he found it to say this, “Remember Lot’s wife.” So he read it to his fellow, and then they both concluded that this was the pillar of salt that Lot’s wife was turned into for looking back with a covetous heart as she was fleeing from Sodom for safety. Gen 19:26. And this sudden and astonishing sight led them to talk as follows.
 
@@ -163,11 +163,11 @@ Now I saw that, just on the other side of this plain, the pilgrims came to a pla
 
 I saw then that they went on their way to a pleasant river, which David the king called “the river of God,” and John “the river of the water of life.” Ps 65:9; Rev 22:1; Ezek 47:1–9. Now their way ran right along the bank of this river, so Christian and his companion walked here with great delight; they also drank of the water of the river, which was pleasant and refreshing to their weary spirits. Besides this, on the banks of this river, on either side, were green trees bearing all kinds of fruit; and they ate the leaves to prevent sickness from overeating and other illnesses that come on those who heat their blood by travel. On either side of the river there was also a meadow, beautifully adorned with lilies, and it was green all year round. In this meadow they lay down and slept, for here they could lie down safely. Ps 23:2; Isa 14:30. When they woke up they gathered of the fruit of the trees again, and drank of the water of the river again, and then lay down to sleep again. They did this for several days and nights. Then they sang:
 
-#quote[“Behold ye, how these Crystal Streams do glide, \
+#quote[“Behold, you#super[+], how these Crystal Streams glide, \
 To comfort pilgrims by the highway-side. \
 The meadows green, besides their fragrant smell, \
 Yield dainties for them; And he that can tell \
-What pleasant fruit, yea, leaves these trees do yield, \
+What pleasant fruit, yes, leaves these trees can yield, \
 Will soon sell all, that he may buy this field.”]
 
 So when they were ready to go on (for they were not yet at their journey’s end), they ate, and drank, and set off.
@@ -227,8 +227,8 @@ Then Christian pulled it out of his bosom and began to try it on the dungeon doo
 Now when they had gone over the stile, they began to work out between themselves what they should do at that stile to keep those who would come after them from falling into the hands of Giant Despair. So they agreed to put up a pillar there, and to engrave on its side these words: “Over this stile is the way to Doubting Castle, which is kept by Giant Despair, who despises the King of the Celestial country, and seeks to destroy his holy pilgrims.” Many who followed after therefore read what was written there, and escaped the danger. When this was done, they sang as follows:
 
 #quote[“Out of the way we went, and then we found \
-What ’twas to tread upon forbidden ground: \
-And let them that come after have a care, \
-Lest heedlessness makes them as we to fare; \
+What it was to tread upon forbidden ground: \
+And let those coming after us take care, \
+Lest heedlessness should make them, like us, fare; \
 Lest they, for trespassing, his prisoners are, \
 Whose castle’s Doubting, and whose name’s Despair.”]

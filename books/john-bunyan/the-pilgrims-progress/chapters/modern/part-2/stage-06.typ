@@ -108,14 +108,14 @@ And here also I noticed something very remarkable: the water of that river was l
 
 #speech[#smallcaps[Mr. Great-Heart]: Well said, James; you have hit the mark. For the fear of God is the beginning of wisdom; and to be sure, those who lack the beginning have neither middle nor end. But we will close our talk about Mr. Fearing here, after we have sent this farewell after him.]
 
-#quote[“Well, Master Fearing, thou didst fear \
-Thy God, and wast afraid \
-Of doing any thing, while here, \
-That would have thee betrayed. \
-And didst thou fear the lake and pit? \
-Would others do so too! \
-For, as for them that want thy wit, \
-They do themselves undo.”]
+#quote[“Well, Master Fearing, you did fear \
+Your God, and were afraid \
+Of doing anything, while here, \
+That would have you betrayed. \
+And did you fear the lake and pit? \
+If only others did too! \
+For, as for those who lack your wit, \
+Themselves they will undo.”]
 
 Now I saw that they still went on talking. For after Mr. Great-Heart had finished with Mr. Fearing, Mr. Honest began to tell them about another, whose name was Mr. Self-will. He made himself out to be a pilgrim, Mr. Honest said; but I am sure he never came in at the gate that stands at the head of the way.
 
@@ -215,12 +215,12 @@ Then they brought them a dish of apples, and they were very good-tasting fruit. 
 
 Then Gaius said,
 
-#quote[“Apples were they with which we were beguil’d, \
-Yet sin, not apples, hath our souls defil’d: \
-Apples forbid, if ate, corrupt the blood; \
+#quote[“Apples they were with which we were beguiled, \
+Yet sin, not apples, has our souls defiled: \
+Forbidden apples, eaten, corrupt the blood; \
 To eat such, when commanded, does us good: \
-Drink of his flagons then, thou church, his dove, \
-And eat his apples, who art sick of love.”]
+Drink of his flagons then, you church, his dove, \
+And eat his apples, you who are sick with love.”]
 
 Then Matthew said, I raised that concern because a while ago I was sick from eating fruit.
 
@@ -229,19 +229,19 @@ Then Matthew said, I raised that concern because a while ago I was sick from eat
 While they were talking like this, they were served another dish, and it was a dish of nuts. Song 6:11. Then some at the table said, Nuts spoil tender teeth, especially children’s teeth: and when Gaius heard this, he said,
 
 #quote[“Hard texts are nuts, (I will not call them cheaters,) \
-Whose shells do keep the kernel from the eaters: \
-Open the shells, and you shall have the meat; \
-They here are brought for you to crack and eat.”]
+Whose shells keep back the kernel from the eaters: \
+Open the shells, and you will have the meat; \
+They’re brought here for you to crack and eat.”]
 
 Then they were very merry, and sat at the table a long time, talking of many things. Then the old gentleman said, My good landlord, while we are cracking your nuts, if you please, solve this riddle:
 
-#quote[“A man there was, though some did count him mad, \
+#quote[“A man there was, though some thought him mad, \
 The more he cast away, the more he had.”]
 
 Then they all listened closely, wondering what good Gaius would say; so he sat still a while, and then replied like this:
 
 #quote[“He who bestows his goods upon the poor, \
-Shall have as much again, and ten times more.”]
+Will have as much again, and ten times more.”]
 
 Then Joseph said, I must say, sir, I did not think you could have worked it out.
 
@@ -256,15 +256,15 @@ While they stayed here, Mercy, as her custom was, kept making coats and garments
 But to return to our story: after supper the lads wanted a bed, for they were weary with traveling. Then Gaius called for someone to show them their room; but Mercy said, I will put them to bed. So she put them to bed, and they slept well; but the rest sat up all night; for Gaius and they were such congenial company that they did not know how to part. After much talk about their Lord, themselves, and their journey, old Mr. Honest, the one who had put the riddle to Gaius, began to nod. Then Great-Heart said, What, sir, you are getting drowsy; come, rouse yourself, here is a riddle for you. Then Mr. Honest said, Let us hear it. Then Mr. Great-heart replied,
 
 #quote[“He that would kill, must first be overcome: \
-Who live abroad would, first must die at home.”]
+Who would live abroad, must first die at home.”]
 
 Ha, said Mr. Honest, it is a hard one; hard to explain, and harder to practice. But come, landlord, he said, if you please, I will leave my part to you: you explain it, and I will hear what you say.
 
 No, said Gaius, it was put to you, and you are expected to answer it. Then the old gentleman said,
 
 #quote[“He first by grace must conquered be, \
-That sin would mortify; \
-Who that he lives would convince me, \
+Who sin would mortify; \
+Who would prove that he lives to me, \
 Unto himself must die.”]
 
 That is right, said Gaius; good doctrine and experience teach this. For, first, until grace shows itself and overcomes the soul with its glory, the soul has no heart at all to oppose sin. Besides, if sin is Satan’s cords, by which the soul lies bound, how could it resist before it is freed from that weakness? Secondly, no one who knows either reason or grace will believe that a man who is a slave to his own corruptions can be a living monument of grace. And now that it comes to mind, I will tell you a story worth hearing. There were two men who went on pilgrimage; one began when he was young, the other when he was old. The young man had strong corruptions to grapple with; the old man’s were weak with the decay of nature. The young man kept his steps as even as the old one did, and was in every way as light as he. Now which of them had his graces shining the clearest, since both seemed to be alike?
@@ -307,12 +307,12 @@ Now, just as Mr. Feeble-mind and Gaius were talking like this, someone came runn
 
 #speech[#smallcaps[Mr. Feeble-Mind]: Alas! said Mr. Feeble-mind, has he been killed? He overtook me some days before I got this far, and wanted to keep me company. He was also with me when Slay-good the giant took me, but he was quick on his feet, and escaped; but it seems he escaped to die, and I was taken to live.]
 
-#quote[“What one would think doth seek to slay outright, \
-Ofttimes delivers from the saddest plight. \
+#quote[“What one would think intends to slay outright, \
+Often delivers from the saddest plight. \
 That very Providence whose face is death, \
-Doth ofttimes to the lowly life bequeath. \
-I taken was, he did escape and flee; \
-Hands cross’d gave death to him and life to me.”]
+Will often to the lowly life bequeath. \
+I was taken; he escaped and went free; \
+Hands crossed gave death to him and life to me.”]
 
 Now about this time Matthew and Mercy were married; Gaius also gave his daughter Phebe to James, Matthew’s brother, as his wife; after which they stayed about ten days longer at Gaius’ house, spending their time and the seasons as pilgrims usually do.
 
