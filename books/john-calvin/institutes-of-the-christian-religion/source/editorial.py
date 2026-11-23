@@ -159,6 +159,13 @@ def SKIP_BLOCKS(root):
 
 # ./fgb epub / pdf / page / build (paths from the book folder); one ebook
 # per volume, as printed. The book files are written by make_volumes.py.
+#
+# The volumes with a Modern English edition (MODERN-ENGLISH-RULES.md; terms in
+# source/modern-glossary.md), its text from chapters/modern/vol-N, paragraph for
+# paragraph with chapters/typ/vol-N; one volume at a time. make_volumes.py writes
+# each one's institutes-vol-N-modern.typ, cover-vol-N-modern.typ and
+# ebook-front-vol-N-modern.html.
+MODERN_VOLUMES = [1]
 EPUB = {"title": "Institutes of the Christian Religion", "author": "John Calvin",
         "file": "institutes.epub", "cover": "cover-vol-1.typ",
         "front": "ebook-front-vol-1.html",
@@ -168,7 +175,15 @@ EPUB = {"title": "Institutes of the Christian Religion", "author": "John Calvin"
             {"files": [f"vol-{n}/"],
              "title": f"Institutes of the Christian Religion, Volume {r}",
              "file": f"institutes-vol-{n}.epub", "cover": f"cover-vol-{n}.typ",
-             "front": f"ebook-front-vol-{n}.html"}
+             "front": f"ebook-front-vol-{n}.html",
+             # the volume's Modern English edition, where it has one (MODERN_VOLUMES)
+             **({"modern": {"chapters": "chapters/modern",
+                            "title": f"Institutes of the Christian Religion, Volume {r}",
+                            "file": f"institutes-vol-{n}-modern.epub",
+                            "cover": f"cover-vol-{n}-modern.typ",
+                            "front": f"ebook-front-vol-{n}-modern.html"}}
+                if n in MODERN_VOLUMES else {})}
             for n, r in enumerate(["I", "II", "III", "IV", "V", "VI"], start=1)]}
-PRINT = [f"institutes-vol-{n}.typ" for n in range(1, 7)]
+PRINT = ([f"institutes-vol-{n}.typ" for n in range(1, 7)]
+         + [f"institutes-vol-{n}-modern.typ" for n in MODERN_VOLUMES])
 SIDE_BY_SIDE = {"split": [f"vol-{n}/" for n in range(1, 7)]}

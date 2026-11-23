@@ -7,10 +7,13 @@
 // book (art/vignette.png, made by art/vignette.py), this volume's line.
 // ./fgb build gives the cover its compiled interior's page count and trim;
 // `pages` is only for compiling the cover by itself.
+// edition: the Modern English edition's label (cover-vol-5-modern.typ), set
+// under this volume's line, clear of the vignette
 #let ink = rgb("#F4EEDF")
 #let gold = rgb("#E2C383")
 
-#set-cover(
+#let cover(edition: none, epigraph: [For as the aged, or those whose sight is defective, when any book, however fair, is set before them, though they perceive that there is something written are scarcely able to make out two consecutive words, but, when aided by glasses, begin to read distinctly, so Scripture, gathering together the impressions of Deity, which, till then, lay confused in our minds, dissipates the darkness, and shows us the true God clearly.]) = set-cover(
+  edition: edition,
   ground: rgb("#353F75"),
   seal: press-seal,
   front: {
@@ -30,6 +33,11 @@
       caps([Volume V · Book Fourth], 8.5pt, gold, tracking: 0.3em)
       v(0.1in)
       text(size: 11pt, style: "italic", fill: ink)[Of the Holy Catholic Church, chapters 1–13]
+      if edition != none {
+        v(0.2in)
+        box(stroke: (top: 0.6pt + gold, bottom: 0.6pt + gold), inset: (x: 0.04in, y: 0.07in),
+          caps(edition, 8pt, gold))
+      }
     }))
   },
   title: [Institutes of the Christian Religion],
@@ -43,7 +51,9 @@
   paper: rgb("#1C213D"),
   pages: 347,
   back-lead: [The fourth book begins: the true church and the false; its ministers and their office; the primitive church and the papacy; councils, laws, discipline, and vows.],
-  epigraph: [For as the aged, or those whose sight is defective, when any book, however fair, is set before them, though they perceive that there is something written are scarcely able to make out two consecutive words, but, when aided by glasses, begin to read distinctly, so Scripture, gathering together the impressions of Deity, which, till then, lay confused in our minds, dissipates the darkness, and shows us the true God clearly.],
+  epigraph: epigraph,
   epigraph-source: [Institutes, I. vi. 1],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()
