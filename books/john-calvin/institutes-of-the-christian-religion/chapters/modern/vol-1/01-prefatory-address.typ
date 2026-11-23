@@ -1,16 +1,16 @@
 == Prefatory Address to King Francis
 
-#align(center)[TO]
+#align(center)[#smallcaps[To]]
 
-#align(center)[HIS MOST CHRISTIAN MAJESTY,]
+#align(center)[#smallcaps[His Most Christian Majesty,]]
 
-#align(center)[THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,]
+#align(center)[#smallcaps[The Most Mighty and Illustrious Monarch,]]
 
 #align(center)[FRANCIS, KING OF THE FRENCH,]
 
-#align(center)[HIS SOVEREIGN;#footnote[In Calvin’s last edition the words are simply, as translated here, “Principi suo.” In the edition published at Basle \[Basel\] in 1536 they are “Principi ac Domino suo sibi observando.” (Beveridge’s note.)]]
+#align(center)[#smallcaps[His Sovereign;]#footnote[In Calvin’s last edition the words are simply, as translated here, “Principi suo.” In the edition published at Basle \[Basel\] in 1536 they are “Principi ac Domino suo sibi observando.” (Beveridge’s note.)]]
 
-#align(center)[JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.#footnote[The 1536 edition has “In Domino” (in the Lord). (Beveridge’s note.)]]
+#align(center)[#smallcaps[John Calvin Prays Peace and Salvation in Christ.]#footnote[The 1536 edition has “In Domino” (in the Lord). (Beveridge’s note.)]]
 
 #smallcaps[Sire], when I first took up this work, nothing was farther from my thoughts than to write something that would afterwards be presented to Your Majesty. My intention was only to provide a kind of first lessons, by which those who feel some zeal for religion might be trained in true piety. And I labored at the task chiefly for the sake of my countrymen the French. I saw that many of them were hungering and thirsting after Christ, while very few seemed to have been properly given even a slender knowledge of him. That this was the aim I had in view is plain from the work itself, which is written in a simple and elementary form suited to teaching.
 

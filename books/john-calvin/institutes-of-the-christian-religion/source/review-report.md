@@ -6,7 +6,7 @@
 | punctuation | 2449 |
 | emendation | 868 |
 | spacing | 127 |
-| case | 83 |
+| case | 104 |
 | note | 38 |
 | italic | 19 |
 | grammar | 10 |
@@ -3355,8 +3355,26 @@
 - Judgment → judgment (×47)
 - Judgments → judgments (×14)
 - prefixed → Prefixed (×3)
+- AND → and (×2)
+- HIS → His (×2)
+- MOST → Most (×2)
 - And → and
+- CALVIN → Calvin
+- CHRIST → Christ
+- CHRISTIAN → Christian
+- ILLUSTRIOUS → Illustrious
+- IN → in
+- JOHN → John
+- MAJESTY → Majesty
+- MIGHTY → Mighty
+- MONARCH → Monarch
+- PEACE → Peace
+- PRAYS → Prays
 - PS → Ps
+- SALVATION → Salvation
+- SOVEREIGN → Sovereign
+- THE → The
+- TO → To
 - Who → who
 - Wisdom → wisdom
 - divinity → Divinity

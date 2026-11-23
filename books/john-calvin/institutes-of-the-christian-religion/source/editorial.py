@@ -19,6 +19,17 @@ TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 SMALLCAPS = "smallcaps"
 
+# The salutation to Francis in small capitals, as the 1845 print sets it, Francis's
+# line in full capitals (the editor, 2026-11-23); each named by its head, since the
+# index prints "TO" too
+SMALLCAPS_PHRASES = (
+    ("ccel-ii.viii-p0.2", "^[TO]$"),
+    ("ccel-ii.viii-p0.3", "^[HIS MOST CHRISTIAN MAJESTY,]$"),
+    ("ccel-ii.viii-p0.4", "^[THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,]$"),
+    ("ccel-ii.viii-p0.6", "^[HIS SOVEREIGN;]$"),
+    ("ccel-ii.viii-p1.1", "^[JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.]$"),
+)
+
 T = "{http://www.tei-c.org/ns/1.0}"
 XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
 ROMAN = ["I", "II", "III", "IV"]

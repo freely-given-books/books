@@ -1,16 +1,16 @@
 == Prefatory Address to King Francis
 
-#align(center)[TO]
+#align(center)[#smallcaps[To]]
 
-#align(center)[HIS MOST CHRISTIAN MAJESTY,]
+#align(center)[#smallcaps[His Most Christian Majesty,]]
 
-#align(center)[THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,]
+#align(center)[#smallcaps[The Most Mighty and Illustrious Monarch,]]
 
 #align(center)[FRANCIS, KING OF THE FRENCH,]
 
-#align(center)[HIS SOVEREIGN;#footnote[In the last edition by Calvin, the words are, as here translated, simply, “Principi suo.” In the edition published at Basle in 1536, the words are, “Principi ac Domino suo sibiobservando.”]]
+#align(center)[#smallcaps[His Sovereign;]#footnote[In the last edition by Calvin, the words are, as here translated, simply, “Principi suo.” In the edition published at Basle in 1536, the words are, “Principi ac Domino suo sibiobservando.”]]
 
-#align(center)[JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.#footnote[Ed. 1536. “In Domino.”]]
+#align(center)[#smallcaps[John Calvin Prays Peace and Salvation in Christ.]#footnote[Ed. 1536. “In Domino.”]]
 
 #smallcaps[Sire],—When I first engaged in this work, nothing was farther from my thoughts than to write what should afterwards be presented to your Majesty. My intention was only to furnish a kind of rudiments, by which those who feel some interest in religion might be trained to true godliness. And I toiled at the task chiefly for the sake of my countrymen the French, multitudes of whom I perceived to be hungering and thirsting after Christ, while very few seemed to have been duly imbued with even a slender knowledge of him. That this was the object which I had in view is apparent from the work itself, which is written in a simple and elementary form adapted for instruction.
 
