@@ -125,7 +125,7 @@ In four especial respects it may be said to be a means as aforesaid.
 
 3\. #emph[Object.] Many who long after their baptism, have lived like swine in sin, and so have not been cleansed or sanctified, yet divers years after have been effectually called: what means hath baptism been hereof?
 
-#emph[Answ.] The use and efficacy of baptism is not as the act thereof, transient, but permanent and perpetual so long as the party baptized liveth. Whensoever a sinner unfeignedly repenteth, and faithfully layeth hold on the promises of God, baptism, which is the seal thereof is as powerful and effectual as it could have been when it was first administered. For the efficacy of baptism consisteth in the free offer of grace. So long therefore as God continueth to offer grace, so long may a man’s baptism be effectual. On this ground we are but once for all baptized: and as the #footnote[Jer 44.] Prophets put the people in mind of their circumcision, so the Apostles of their baptism long after it was administered. Yea, they speak of it (though the act were long before past) as if it were in doing, in the time present, #emph[Baptism saveth.] #footnote[1 Pet 3:21.]
+#emph[Answ.] The use and efficacy of baptism is not as the act thereof, transient, but permanent and perpetual so long as the party baptized liveth. Whensoever a sinner unfeignedly repenteth, and faithfully layeth hold on the promises of God, baptism, which is the seal thereof is as powerful and effectual as it could have been when it was first administered. For the efficacy of baptism consisteth in the free offer of grace. So long therefore as God continueth to offer grace, so long may a man’s baptism be effectual. On this ground we are but once for all baptized: and as the #footnote[Jer 4:4.] Prophets put the people in mind of their circumcision, so the Apostles of their baptism long after it was administered. Yea, they speak of it (though the act were long before past) as if it were in doing, in the time present, #emph[Baptism saveth.] #footnote[1 Pet 3:21.]
 
 === §. 43. #emph[What kind of means of grace Baptism is.]
 
@@ -135,9 +135,9 @@ In four especial respects it may be said to be a means as aforesaid.
 
 #smallcaps[III]. A means of working a thing may be said to be necessary #footnote[Things necessary two ways.] two ways.
 
-1\. #emph[Absolutely,] so as the thing cannot possibly be without it. #footnote[Ex Hypothesi.] Thus are the proper causes of a thing absolutely necessary, as in this case, God’s covenant, Christ’s blood, and the operation of the Spirit, are absolutely necessary for attaining any grace.
+1\. #emph[Absolutely,] so as the thing cannot possibly be without it. Thus are the proper causes of a thing absolutely necessary, as in this case, God’s covenant, Christ’s blood, and the operation of the Spirit, are absolutely necessary for attaining any grace.
 
-2\. #emph[By consequence,] so as according to that course and order which God hath set down, things cannot be without them.
+2\. #emph[By consequence,]#footnote[Ex Hypothesi.] so as according to that course and order which God hath set down, things cannot be without them.
 
 Baptism is not absolutely necessary as a cause: for then should it be equal to God’s covenant, Christ’s blood, and the work of the Spirit. #emph[Yea then should all that are baptized without any exception be cleansed.]
 

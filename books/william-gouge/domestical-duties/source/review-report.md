@@ -3,11 +3,11 @@
 | kind | count |
 | --- | --- |
 | punctuation | 4447 |
-| spacing | 2723 |
-| italic | 2673 |
+| spacing | 2720 |
+| italic | 2672 |
 | spelling | 1830 |
-| emendation | 1335 |
-| note moved | 1097 |
+| emendation | 1345 |
+| note moved | 1102 |
 | case | 148 |
 | grammar | 147 |
 | list | 141 |
@@ -196,6 +196,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Luk . → Luke
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Act . → Acts
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] Virum → Vtrum
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
@@ -270,6 +271,8 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 3 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Rom → Rom 4:11
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 411 . → 
+- [vol-1/05-love-that-purifies-the-unclean.typ note] Jer → Jer 4:4
+- [vol-1/05-love-that-purifies-the-unclean.typ note] 44 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Exhypothesi → Ex hypothesi
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Jos . → Josh 5:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 5 . → 
@@ -332,8 +335,10 @@
 - [vol-1/06-redeemed-for-glory.typ] Christs good - ness → Christ’s goodness
 - [vol-1/07-marital-love-and-self-love.typ note] Ephes . → Eph
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
-- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 1:31
 - [vol-1/07-marital-love-and-self-love.typ note] 12 . 10 → 
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] 1 . 30 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] 3 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Jam . → Jas
@@ -344,6 +349,7 @@
 - [vol-1/07-marital-love-and-self-love.typ note] Mar . → Mark 5:
 - [vol-1/07-marital-love-and-self-love.typ note] 5 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Iam . → Jas
+- [vol-1/07-marital-love-and-self-love.typ note] 56 → 58
 - [vol-1/07-marital-love-and-self-love.typ note] King . → Kgs
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
@@ -379,7 +385,6 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . l → 50
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] King . → Kgs
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Psal . → Ps
@@ -433,6 +438,11 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ] but → : but
 - [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body
 - [vol-1/08-christs-union-with-his-beloved-body.typ] We → . We
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Gen → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 2 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 23 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Vers → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 28 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Sam → Sam 19:11
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 19 . 11 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
@@ -1959,7 +1969,6 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 3:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
-- [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
@@ -2089,8 +2098,6 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 3:
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
@@ -2370,7 +2377,10 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 

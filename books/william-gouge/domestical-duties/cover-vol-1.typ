@@ -11,7 +11,10 @@
 // ./fgb build gives the cover its compiled interior's page count and trim,
 // and with --input front-only=true renders the front alone (the ebook cover);
 // `pages` here is only for compiling the cover by itself.
-#set-cover(
+// edition: the Modern English edition's label (cover-vol-1-modern.typ)
+#let cover(edition: none,
+  epigraph: [Submitting your selves one to another in the fear of God.]) = set-cover(
+  edition: edition,
   seal: press-seal,
   // this volume's step of the ramp: a darker olive round the frame and on spine and
   // back; inside the frame, olive with a soft light behind the title and contents;
@@ -49,7 +52,9 @@
   spine-fit: 0.21in,
   pages: 235,
   back-lead: [The first of Gouge's eight treatises: a verse-by-verse exposition of Ephesians 5:21-6:4, the passage the whole work is raised out of. Wives and husbands, children and parents, and above them the marriage of Christ and His church.],
-  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph: epigraph,
   epigraph-source: [Ephesians v. 21],
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()
