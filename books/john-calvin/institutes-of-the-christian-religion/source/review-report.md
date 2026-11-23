@@ -3,7 +3,7 @@
 | kind | count |
 | --- | --- |
 | spelling | 2685 |
-| punctuation | 2434 |
+| punctuation | 2437 |
 | emendation | 865 |
 | spacing | 117 |
 | case | 84 |
@@ -1005,6 +1005,9 @@
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] - → –
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
@@ -3669,7 +3672,7 @@
 - When → Then
 - a → an
 - abrograte → abrogate
-- abstracte → abstracted²
+- abstracte → abstracted
 - abuse → abused
 - adds → add,
 - adoptions → adoption,
