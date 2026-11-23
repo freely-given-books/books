@@ -148,12 +148,12 @@ GROUNDS = ["#3E6E5C", "#336A6E", "#2D5B77", "#2E4C79", "#353F75", "#3A3363"]
 # the seal's fountain and the name plate's lettering: each ground, darker
 PAPERS = ["#22392F", "#1B3739", "#172F3D", "#18283F", "#1C213D", "#1E1A33"]
 FRONTS = [
-    ("First", "Of the Knowledge of God the Creator"),
-    ("Second", "Of the Knowledge of God the Redeemer, in Christ"),
-    ("Third", "The Mode of Obtaining the Grace of Christ, chapters 1–10"),
-    ("Third", "Justification, Liberty, Prayer, Election, chapters 11–25"),
-    ("Fourth", "Of the Holy Catholic Church, chapters 1–13"),
-    ("Fourth", "The Sacraments and Civil Government, chapters 14–20"),
+    ("One", "Of the Knowledge of God the Creator"),
+    ("Two", "Of the Knowledge of God the Redeemer, in Christ"),
+    ("Three", "The Mode of Obtaining the Grace of Christ, chapters 1–10"),
+    ("Three", "Justification, Liberty, Prayer, Election, chapters 11–25"),
+    ("Four", "Of the Holy Catholic Church, chapters 1–13"),
+    ("Four", "The Sacraments and Civil Government, chapters 14–20"),
 ]
 BACK_WORDS = ("For as the aged, or those whose sight is defective, when any book, "
               "however fair, is set before them, though they perceive that there is "

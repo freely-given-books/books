@@ -30,7 +30,7 @@
     }))
     place(center + top, dy: 3.2in, image("art/vignette.png", width: 2.5in))
     place(center + top, dy: 5.05in, box(width: 4.5in, {
-      caps([Volume III · Book Third], 8.5pt, gold, tracking: 0.3em)
+      caps([Volume III · Book Three], 8.5pt, gold, tracking: 0.3em)
       v(0.1in)
       text(size: 11pt, style: "italic", fill: ink)[The Mode of Obtaining the Grace of Christ, chapters 1–10]
       if edition != none {

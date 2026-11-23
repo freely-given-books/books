@@ -30,7 +30,7 @@
     }))
     place(center + top, dy: 3.2in, image("art/vignette.png", width: 2.5in))
     place(center + top, dy: 5.05in, box(width: 4.5in, {
-      caps([Volume V · Book Fourth], 8.5pt, gold, tracking: 0.3em)
+      caps([Volume V · Book Four], 8.5pt, gold, tracking: 0.3em)
       v(0.1in)
       text(size: 11pt, style: "italic", fill: ink)[Of the Holy Catholic Church, chapters 1–13]
       if edition != none {

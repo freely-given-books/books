@@ -30,7 +30,7 @@
     }))
     place(center + top, dy: 3.2in, image("art/vignette.png", width: 2.5in))
     place(center + top, dy: 5.05in, box(width: 4.5in, {
-      caps([Volume II · Book Second], 8.5pt, gold, tracking: 0.3em)
+      caps([Volume II · Book Two], 8.5pt, gold, tracking: 0.3em)
       v(0.1in)
       text(size: 11pt, style: "italic", fill: ink)[Of the Knowledge of God the Redeemer, in Christ]
       if edition != none {
