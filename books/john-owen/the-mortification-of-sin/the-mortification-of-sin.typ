@@ -26,6 +26,11 @@
 // Owen's summary under each chapter's title (the TEI's <argument>, the book's only
 // inset block): a line's space before the chapter's first paragraph.
 #show block: it => if it.inset == (left: 1em, right: 1em) { block(below: 1.6em, it) } else { it }
+// A note wholly in Greek or Hebrew is set ragged-right: its words cannot be
+// hyphenated, and justified they leave wide gaps (Mortification ch. 6, note on
+// Rom 7:23). A one-line note is unchanged.
+#let note-text(c) = if type(c) == str { c } else if c.has("text") { c.text } else if c.has("children") { c.children.map(note-text).join("") } else if c.has("body") { note-text(c.body) } else { "" }
+#show footnote.entry: it => if note-text(it.note.body).contains(regex("[A-Za-z]")) { it } else { set par(justify: false); it }
 
 #include "chapters/typ/preface.typ"
 
