@@ -13,6 +13,8 @@
 #let gold = rgb("#E2C383")
 
 #let cover(edition: none, epigraph: [For as the aged, or those whose sight is defective, when any book, however fair, is set before them, though they perceive that there is something written are scarcely able to make out two consecutive words, but, when aided by glasses, begin to read distinctly, so Scripture, gathering together the impressions of Deity, which, till then, lay confused in our minds, dissipates the darkness, and shows us the true God clearly.]) = set-cover(
+  // the books' 6x9 trim, for the front image the EPUB renders on its own
+  trim-width: 6in, trim-height: 9in,
   edition: edition,
   ground: rgb("#2D5B77"),
   seal: press-seal,

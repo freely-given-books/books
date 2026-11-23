@@ -138,6 +138,9 @@ title (Watson): bold, centred under "Chapter N", never doubled with the printed 
 **Type size (print):** body text in Libertinus Serif at 10.5pt (the editor, 2026-11-23). Books
 already set at 11pt stay as they are: Brooks's two, Christian Economy and the 1689 Confession.
 
+**Trim (print):** 5.5x8.5; a large set of volumes 6x9, the Institutes first (the editor,
+2026-11-23). Domestical Duties stays 5.5x8.5.
+
 **Pages (print):** every footnote on its marker's page; no heading at a page's foot; no chapter
 ending on 2-4 lines; no widow lines. `./fgb build` lists the first two as `page:` warnings;
 clear them before a draft goes to the editor.
