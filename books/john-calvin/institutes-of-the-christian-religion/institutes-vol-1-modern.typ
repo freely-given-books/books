@@ -40,7 +40,7 @@
 #metadata[Prefatory Address to King Francis] <short>
 // page fit (print_check's page warning): letter spacing adjusted
 #[
-  #set text(tracking: 0.005em)
+  #set text(tracking: 0.015em)
   #include "chapters/modern/vol-1/01-prefatory-address.typ"
 ]
 

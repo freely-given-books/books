@@ -33,13 +33,21 @@
 #set text(font: "Libertinus Serif", size: 10.5pt)
 
 #metadata[Prefatory Address to King Francis] <short>
-#include "chapters/typ/vol-1/01-prefatory-address.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: 0.005em)
+  #include "chapters/typ/vol-1/01-prefatory-address.typ"
+]
 
 #metadata[Epistle to the Reader (1539)] <short>
 #include "chapters/typ/vol-1/02-epistle-1539.typ"
 
 #metadata[Subject of the Present Work (1545)] <short>
-#include "chapters/typ/vol-1/03-subject-1545.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-1/03-subject-1545.typ"
+]
 
 #metadata[Epistle to the Reader (1559)] <short>
 #include "chapters/typ/vol-1/04-epistle-1559.typ"
@@ -56,7 +64,11 @@
 #include "chapters/typ/vol-1/book-1-chapter-02.typ"
 
 #metadata[Chapter 3: The Knowledge of God Naturally Implanted in the Human Mind] <short>
-#include "chapters/typ/vol-1/book-1-chapter-03.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.015em)
+  #include "chapters/typ/vol-1/book-1-chapter-03.typ"
+]
 
 #metadata[Chapter 4: The Knowledge of God Stifled or Corrupted] <short>
 #include "chapters/typ/vol-1/book-1-chapter-04.typ"
@@ -77,7 +89,11 @@
 #include "chapters/typ/vol-1/book-1-chapter-09.typ"
 
 #metadata[Chapter 10: The True God Opposed to the Gods of the Heathen] <short>
-#include "chapters/typ/vol-1/book-1-chapter-10.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-1/book-1-chapter-10.typ"
+]
 
 #metadata[Chapter 11: Impiety of Attributing a Visible Form to God] <short>
 #include "chapters/typ/vol-1/book-1-chapter-11.typ"
@@ -89,13 +105,21 @@
 #include "chapters/typ/vol-1/book-1-chapter-13.typ"
 
 #metadata[Chapter 14: The True God Distinguished in the Creation] <short>
-#include "chapters/typ/vol-1/book-1-chapter-14.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-1/book-1-chapter-14.typ"
+]
 
 #metadata[Chapter 15: State in which Man Was Created] <short>
 #include "chapters/typ/vol-1/book-1-chapter-15.typ"
 
 #metadata[Chapter 16: The World Still Cherished and Protected by God] <short>
-#include "chapters/typ/vol-1/book-1-chapter-16.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-1/book-1-chapter-16.typ"
+]
 
 #metadata[Chapter 17: Use to Be Made of the Doctrine of Providence] <short>
 #include "chapters/typ/vol-1/book-1-chapter-17.typ"
