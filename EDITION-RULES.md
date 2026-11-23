@@ -135,6 +135,9 @@ is dropped.
 before the chapter's first paragraph (2026-11-09). A printed chapter
 title (Watson): bold, centred under "Chapter N", never doubled with the printed "CHAP. II.".
 
+**Type size (print):** body text in Libertinus Serif at 10.5pt (the editor, 2026-11-23). Books
+already set at 11pt stay as they are: Brooks's two, Christian Economy and the 1689 Confession.
+
 **Pages (print):** every footnote on its marker's page; no heading at a page's foot; no chapter
 ending on 2-4 lines; no widow lines. `./fgb build` lists the first two as `page:` warnings;
 clear them before a draft goes to the editor.
