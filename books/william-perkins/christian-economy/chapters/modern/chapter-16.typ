@@ -20,7 +20,7 @@ II. That he is not given liberty to use his servant at his own will and pleasure
 
 III. That the power is not enlarged to commanding things against piety or justice. For in these cases a man must obey God rather than man (Acts 4:19).
 
-IV. That masters do not take liberty to separate those of their servants who are married from one another, or those who are parents from their children. For God himself has made these societies and joined such persons together, and therefore man may not separate them.
+IV. That masters do not take liberty to separate those of their servants who are married from one another, or those who are parents from their children. For God himself has made these societies and joined such persons together, and therefore man must not separate them.
 
 V. That masters do not take liberty to hand over their servants to ungodly and unbelieving masters. For that is an unkind and cruel liberty, and may be an evident occasion of making the servant fall away from religion and renounce the true God.
 
@@ -38,7 +38,7 @@ III. The man who is ransomed from his enemy is bound to serve as a slave in retu
 
 #emph[IV. The examples of the godly in the Scriptures.] Abraham had servants whom he bought with silver. Gen 17:12: “Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring.” Gen 24:35: “The #smallcaps[Lord] has greatly blessed my master … He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys.”
 
-V. The apostles do not disapprove of such servants. They command them, being servants and called to the profession of Christianity in that state, not to change it, but to remain in their calling. 1 Cor 7:21: “Were you a slave when you were called? Do not let it concern you.”
+V. The apostles do not disapprove of such servants. They command them, being servants and called to profess Christianity in that state, not to change it, but to remain in their calling. 1 Cor 7:21: “Were you a servant when you were called? Do not let it concern you.”
 
 It is alleged that such servitude is against the law of nature. #emph[Answer.] It is indeed against the law of nature in its integrity, as it was before the fall; but it is not against the law of corrupted nature since the fall.
 
