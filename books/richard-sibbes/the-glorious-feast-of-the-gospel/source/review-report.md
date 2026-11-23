@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2289 |
+| punctuation | 2288 |
 | case | 1761 |
-| spelling | 1689 |
-| emendation | 805 |
+| spelling | 1688 |
+| emendation | 807 |
 | italic | 583 |
 | note | 385 |
 | spacing | 183 |
@@ -473,6 +473,8 @@
 - [chapter4.typ] us → us,' Rom 5:10
 - [chapter4.typ] judgement . Now → judgment! Note,
 - [chapter4.typ] ; nay → . Nay,
+- [chapter4.typ] overcome → overcome. Christ,
+- [chapter4.typ] : Christ → ,
 - [chapter4.typ] it self → itself
 - [chapter4.typ] Now → Use 1. Now
 - [chapter4.typ] it self → itself
@@ -1974,7 +1976,6 @@
 - [chapter4.typ] ; → ,
 - [chapter4.typ] , → .
 - [chapter4.typ] ; → .
-- [chapter4.typ] : → .
 - [chapter4.typ] , → .
 - [chapter4.typ] : → .
 - [chapter4.typ] ; → .
@@ -4350,7 +4351,6 @@
 - others → others,
 - ought → ought,
 - over → ever
-- overcome → overcome,
 - past → passed
 - peace → 'peace
 - peece → piece
