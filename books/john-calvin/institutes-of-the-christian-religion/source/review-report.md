@@ -5,7 +5,7 @@
 | spelling | 2755 |
 | punctuation | 2451 |
 | emendation | 941 |
-| case | 131 |
+| case | 132 |
 | spacing | 129 |
 | note | 38 |
 | italic | 19 |
@@ -3455,6 +3455,7 @@
 - SALVATION → Salvation
 - SOVEREIGN → Sovereign
 - See → see
+- Sought → sought
 - THE → The
 - TO → To
 - The → the
