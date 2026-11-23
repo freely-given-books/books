@@ -6,10 +6,10 @@ The widow of #emph[Zarephath] fed the prophet #emph[Elijah] in her house during 
 
 How abundantly the #emph[Shunammite]’s kindness to the prophet #emph[Elisha] was rewarded!
 
-- 1\. By the gift of a son after long barrenness.
-- 2\. By restoring her son to life again when he was dead (2 Kgs 4:35).
-- 3\. By warning her beforehand of a famine that was coming (2 Kgs 8:1, 4).
-- 4\. By the restoring of her house and land, lost in her long absence because of the famine (2 Kgs 8:6).
++ By the gift of a son after long barrenness.
++ By restoring her son to life again when he was dead (2 Kgs 4:35).
++ By warning her beforehand of a famine that was coming (2 Kgs 8:1, 4).
++ By the restoring of her house and land, lost in her long absence because of the famine (2 Kgs 8:6).
 
 #emph[Notable is the instance of] Job. #emph[What a merciful man he was, we may read in] Job 29:12, 13, 15: “I rescued the poor who cried out and the fatherless who had no helper. The dying man blessed me, and I made the widow’s heart sing for joy. … I served as eyes to the blind and as feet to the lame. I was a father to the needy.” #emph[And in] Job 31:16, 22: “If I have denied the desires of the poor or allowed the widow’s eyes to fail, if I have eaten my morsel alone, not sharing it with the fatherless, … if I have seen one perish for lack of clothing, or a needy man without a cloak, if his heart has not blessed me for warming him with the fleece of my sheep, … then may my arm fall from my shoulder and be torn from its socket.” #emph[I have copied out his own words at this length so that I might set this worthy pattern before the reader’s eyes.]
 

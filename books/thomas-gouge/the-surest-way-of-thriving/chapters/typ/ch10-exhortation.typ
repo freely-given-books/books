@@ -8,8 +8,8 @@ What now remaineth but that you look about you, where you may lay out your money
 
 Riches are a mere uncertainty, like unto a flock of birds in a man's field, who cannot say they are his because they sit there, #emph[for they take unto themselves wings, and fly away.] Now in dealing with things uncertain, it will be your wisdom,
 
-- 1\. To make them as sure as you can.
-- 2\. To make the best use of them that you can.
++ To make them as sure as you can.
++ To make the best use of them that you can.
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. What greater wisdom than to make sure? And what better way imaginable to make sure your estate, than by putting it into good hands? And what safer hands than the hands of the Lord? Put them into the hands of God's poor, and you thereby put them into God's hands.]]
 

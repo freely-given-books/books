@@ -4,8 +4,8 @@ Having given you some #emph[Directions] for the #emph[manner] of bestowing your 
 
 Now the #emph[means] I shall prescribe, shall be,
 
-- 1\. Such as tend to the bringing your hearts to be willing to this duty.
-- 2\. Such as shall tend to the helping of you for the better managing of it.
++ Such as tend to the bringing your hearts to be willing to this duty.
++ Such as shall tend to the helping of you for the better managing of it.
 
 First, for #emph[means to bring your hearts to be willing to set upon this duty, take these,]
 

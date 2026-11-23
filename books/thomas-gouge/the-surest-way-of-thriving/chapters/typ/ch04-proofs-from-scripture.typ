@@ -28,5 +28,5 @@ And what variety of expressions doth our Savior use in Luke 6:38. To assure us o
 
 Thus you see there are so many promises both in the Old and New Testament of #emph[temporal,] as well as of spiritual and eternal blessings to the merciful, that there can be no question made of the truth of the doctrine. And to use the expression of the forementioned #emph[doctor: by all those testimonies from the word of God, both in the New and Old Testament, I conceive this doctrine as clear as any in the Scripture; that the promise of temporal plenty to the liberal is so distinct and infallible, that it can be no less than.]
 
-- 1\. A very gross ignorance of plain Scripture not to observe it, and
-- 2\. An act of arrant infidelity, not to believe it.
++ A very gross ignorance of plain Scripture not to observe it, and
++ An act of arrant infidelity, not to believe it.

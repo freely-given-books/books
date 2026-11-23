@@ -4,8 +4,8 @@ Having given you#super[+] some #emph[directions] for the #emph[manner] of giving
 
 Now the #emph[means] I will prescribe will be of two kinds:
 
-- 1\. Those that tend to bring your#super[+] hearts to be willing to do this duty.
-- 2\. Those that tend to help you#super[+] to manage it better.
++ Those that tend to bring your#super[+] hearts to be willing to do this duty.
++ Those that tend to help you#super[+] to manage it better.
 
 First, as #emph[means to bring your#super[+] hearts to be willing to set about this duty, take these.]
 
