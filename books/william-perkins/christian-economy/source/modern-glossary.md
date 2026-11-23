@@ -51,9 +51,10 @@ Perkins's voice stay. Scripture quotations (BSB as adjusted) and the Classic are
 | may not (must not) | must not |
 | live continently | keep self-control |
 | Christian profession | profession of the Christian faith; profess Christianity |
+| simply … by accident (the scholastic pair: in itself / accidentally) | in itself … because of circumstances (ch. 3 ¶9; the editor, card #139, 2026-11-22). Kept where they read rightly today ("does not simply forbid", "by accident: for example, by sickness") |
 
-Kept: Perkins's own explanations ("his own man (that is to say …)"), originally, wanting, extremity, simply, lethargy,
-conceived, by accident, Turk (period word), stranger, resolved, stands in, civil, in their kind, made conscience of,
+Kept: Perkins's own explanations ("his own man (that is to say …)"), originally, wanting, extremity, lethargy,
+conceived, Turk (period word), stranger, resolved, stands in, civil, in their kind, made conscience of,
 positive laws, government (of children).
 
 Scripture adjusted where Perkins's proof leans on a word (rules §5.2; re-check 2026-11-21): Deut 20:7, Deut 22:23,
@@ -62,3 +63,9 @@ and the marriage bed undefiled" (chs. 3, 10); Num 36:11 "their father's brothers
 "a seed of God" (ch. 10); Eph 6:4 "Parents, do not provoke"; Ezek 1:9 "joined"; Gen 29:27 "Rachel"; Num 30:5 "has not
 consented"; Ps 101:6 "serve me"; 1 Cor 7:21 and John 8:35 "servant"; John 8:35 "does not remain in the house forever";
 1 Tim 4:3 "forbid marriage"; 1 Tim 5:14 "I want"; Luke 16:19 "feasted sumptuously"; Exod 4:26 "When Zipporah said".
+
+## The editor's answers, 2026-11-22 (the recommendations)
+
+- #136, #137: Scripture quoted from the BSB in the Modern ("Cursed be Canaan", "rescued us from the shepherds"); the Classic keeps Perkins's "Ham" and "Philistines".
+- #138: "kindred by blood (consanguinity) … kindred by marriage (affinity)" kept.
+- #139: "simply" / "by accident" in the scholastic sense rendered "in itself" / "because of circumstances"; taken off the Kept list.
