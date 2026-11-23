@@ -53,7 +53,7 @@ So when Christian was stepping in, the other gave him a pull. Then said Christia
 
 #speech[#smallcaps[Christian]: Why truly I do not know what had become of me there, had not Evangelist happily met me again as I was musing in the midst of my dumps; but it was God’s mercy that he came to me again, for else I had never come hither. But now I am come, such a one as I am, more fit indeed for death by that mountain, than thus to stand talking with my Lord. But O, what a favor is this to me, that yet I am admitted entrance here!]
 
-#speech[#smallcaps[Goodwill]: We make no objections against any, notwithstanding all that they have done before they come hither; they in no wise are cast out. John 6:37. And therefore good Christian, come a little way with me, and I will teach thee about the way thou must go. Look before thee; dost thou see this narrow way? That is the way thou must go. It was cast up by the patriarchs, prophets, Christ, and his apostles, and it is as strait as a rule can make it; this is the way thou must go.]
+#speech[#smallcaps[Goodwill]: We make no objections against any, notwithstanding all that they have done before they come hither; they in no wise are cast out. John 6:37. And therefore good Christian, come a little way with me, and I will teach thee about the way thou must go. Look before thee; dost thou see this narrow way? That is the way thou must go. It was cast up by the patriarchs, prophets, Christ, and his apostles, and it is as straight as a rule can make it; this is the way thou must go.]
 
 #speech[#smallcaps[Christian]: But, said Christian, are there no turnings nor windings, by which a stranger may lose his way?]
 

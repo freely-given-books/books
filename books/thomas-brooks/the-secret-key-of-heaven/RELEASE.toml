@@ -24,3 +24,15 @@ url = "https://archive.org/details/bim_early-english-books-1641-1700_the-privie-
 [[witness]]
 description = "The earlier Freely Given Books copy (lightly modernized), folded in as the review"
 url = ""
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-brooks/the-secret-key-of-heaven/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+based_on = "v9"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

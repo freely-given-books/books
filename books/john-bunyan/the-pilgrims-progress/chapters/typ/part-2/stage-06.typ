@@ -159,7 +159,7 @@ Now I saw that they still went on in their talk. For after Mr. Great-Heart had m
 
 #speech[#smallcaps[Christiana]: There are strange opinions in the world. I know one that said, it was time enough to repent when we come to die.]
 
-#speech[#smallcaps[Mr. Great-Heart]: Such are not overwise; that man would have been loth, might he have had a week to run twenty miles in his life, to defer his journey to the last hour of that week.]
+#speech[#smallcaps[Mr. Great-Heart]: Such are not overwise; that man would have been loth, might he have had a week to run twenty miles in for his life, to defer his journey to the last hour of that week.]
 
 #speech[#smallcaps[Mr. Honest]: You say right; and yet the generality of them who count themselves pilgrims, do indeed do thus. I am, as you see, an old man, and have been a traveller in this road many a day; and I have taken notice of many things.]
 

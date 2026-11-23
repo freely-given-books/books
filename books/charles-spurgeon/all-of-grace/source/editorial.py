@@ -25,8 +25,10 @@ REPORT_NOTES = [
 # ./fgb epub / pdf / build (paths from the book folder)
 EPUB = {"title": "All of Grace", "author": "Charles Spurgeon",
         "file": "all-of-grace.epub", "front": "ebook-front.html", "cover": "cover.typ",
-        "css": ["../../resources/css/ebook.css", "ebook-override.css"]}
-PRINT = ["all-of-grace.typ"]
+        "css": ["../../resources/css/ebook.css", "ebook-override.css"],
+        "modern": {"chapters": "chapters/modern", "file": "all-of-grace-modern.epub",
+                   "cover": "cover-modern.typ", "front": "ebook-front-modern.html"}}
+PRINT = ["all-of-grace.typ", "all-of-grace-modern.typ"]
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 # Verse is set line by line, as the print breaks it ("line \\" in Typst, <br/>
 # in the ebook): the hymns quoted in #quote blocks.

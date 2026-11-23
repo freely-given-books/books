@@ -47,7 +47,7 @@ This #emph[Desertion] is in the case of marriage so capital, as it #footnote[#em
 
 === §. 4. #emph[Of matrimonial Chastity.]
 
-The second necessary common-mutual marriage-duty is #emph[Matrimonial chastity. Chastity] in a large extent is taken for all manner of purity in soul or body: in which respect the Apostle calleth the Church of God #emph[a chaste virgin.]#footnote[1 Cor 11:2.] But in the sense wherein we here use it, it especially appertaineth to the body: which is that virtue whereby #emph[we possess our vessels]#footnote[1 Thess 4:4.] (to use the Apostles phrase) #emph[in holiness and honour:] or more plainly to our purpose, whereby we keep our bodies undefiled.
+The second necessary common-mutual marriage-duty is #emph[Matrimonial chastity. Chastity] in a large extent is taken for all manner of purity in soul or body: in which respect the Apostle calleth the Church of God #emph[a chaste virgin.]#footnote[2 Cor 11:2.] But in the sense wherein we here use it, it especially appertaineth to the body: which is that virtue whereby #emph[we possess our vessels]#footnote[1 Thess 4:4.] (to use the Apostles phrase) #emph[in holiness and honour:] or more plainly to our purpose, whereby we keep our bodies undefiled.
 
 Chastity thus restrained to the body is of
 

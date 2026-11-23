@@ -9,7 +9,7 @@ summary = "Spurgeon's All of Grace in the words of the 1886 printing (New York, 
 file = "source/grace.thml.xml"
 description = "Our transcription (CC0) of All of Grace (New York: Robert Carter & Brothers, 1886): Kraken OCR of the archive.org scan corrected by four witnesses and the page images: source/SOURCES.md"
 url = "https://archive.org/details/allofgraceearnes00spur"
-sha256 = "226534b2eeb7b0aa031db495fb69bb31d8c6156edfd6df9dfed06aefa085f86c"
+sha256 = "2ca49ee46a82525df4b9400424ecde3cebeb868e8b1f865c4e2937182137b694"
 
 # Copies the edition was checked against, kept or not (one per witness):
 [[witness]]
@@ -23,3 +23,14 @@ url = "https://www.ccel.org/ccel/s/spurgeon/grace.xml"
 [[witness]]
 description = "GLM-OCR, Tesseract and archive.org's OCR of the 1886 scan, voters in the transcription (2026-11-01): source/SOURCES.md"
 url = "https://archive.org/details/allofgraceearnes00spur"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (charles-spurgeon/all-of-grace/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = "v17"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

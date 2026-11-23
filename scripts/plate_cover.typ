@@ -24,6 +24,16 @@
 // the ebook cover. The fonts come from the repository's fonts/ (./fgb sets
 // TYPST_FONT_PATHS).
 //
+// NO TRANSPARENCY OVER THE GROUND (2026-11-13): Lulu's prepress flattens any
+// transparency (a cut-out plate PNG over the gradient) into JPEG tiles, which
+// never quite match the vector gradient beside them, so a faint box showed
+// round the plate in its print-ready files. So a cover with a plate is built
+// in two passes (colophon's ./fgb build): `--input layer=ground` draws only
+// the grounds and the plate, rendered at 300 ppi; then the cover itself is
+// compiled with `--input background=/path/from/root.png`, that picture laid
+// as the whole sheet in place of the grounds and plate, the type over it as
+// vector. Nothing on the cover is drawn semi-transparent.
+//
 // PRINT: bleed 0.125in on every side; type at least 0.5in inside the trim;
 // on the spine, inside 0.125in of each fold (Lulu trims to within that).
 // The spine shares the back's ground, which is the plate's own colours, so a
@@ -94,6 +104,14 @@
   trim-width: 5.5in,
   trim-height: 8.5in,
   front-only: sys.inputs.at("front-only", default: "false") == "true",
+  // the edition, for a second edition of the same book ([Modern English]): a small label
+  // under the title block and after the title on the spine; the rest of the cover as the
+  // first edition's, so the two are one book on a shelf (MODERN-ENGLISH-RULES.md)
+  edition: none,
+  // the two passes of a plate cover (above): "ground" draws the grounds and
+  // the plate alone; background, the picture of them to lay instead
+  layer: sys.inputs.at("layer", default: "all"),
+  background: sys.inputs.at("background", default: none),
 ) = {
   let pages = int(sys.inputs.at("pages", default: str(pages)))
   let trim-width = if "trim-width" in sys.inputs { float(sys.inputs.at("trim-width")) * 1in } else { trim-width }
@@ -123,22 +141,32 @@
   } else { body }
 
   wrap({
-    // --- spine and back: the plate's ground ----------------------------------
-    // `ground` is gradient stops (head to foot) or any fill
-    let ground-fill = if type(ground) == array { gradient.linear(dir: ttb, ..ground) } else { ground }
-    place(top + left, rect(width: front-x, height: page-height, fill: ground-fill))
+    if background != none {
+      // the grounds and plate, rendered whole (the ground pass): one opaque picture
+      place(top + left, image(background, width: page-width, height: page-height))
+    } else {
+      // --- spine and back: the plate's ground --------------------------------
+      // `ground` is gradient stops (head to foot) or any fill
+      let ground-fill = if type(ground) == array { gradient.linear(dir: ttb, ..ground) } else { ground }
+      place(top + left, rect(width: front-x, height: page-height, fill: ground-fill))
 
-    // --- front: the plate, cut at the fold and the bleed ----------------------
-    place(top + left, dx: front-x, box(width: trim-width + BLEED, height: page-height, clip: true, {
-      place(rect(width: 100%, height: 100%,
-        fill: if front-ground != none { front-ground } else { ground-fill }))
-      if plate != none {
-        place(dx: plate-at.dx, dy: BLEED + plate-at.dy,
-          box(width: plate-at.width, height: plate-at.height,
-            image(plate, width: 100%, height: 100%)))
-      }
-      if art != none { place(dy: BLEED, art) }
-    }))
+      // --- front: the plate, cut at the fold and the bleed --------------------
+      place(top + left, dx: front-x, box(width: trim-width + BLEED, height: page-height, clip: true, {
+        place(rect(width: 100%, height: 100%,
+          fill: if front-ground != none { front-ground } else { ground-fill }))
+        if plate != none {
+          place(dx: plate-at.dx, dy: BLEED + plate-at.dy,
+            box(width: plate-at.width, height: plate-at.height,
+              image(plate, width: 100%, height: 100%)))
+        }
+      }))
+    }
+    // the ground pass ends here; the rest is the type over it
+    if layer != "ground" {
+    if art != none {
+      place(top + left, dx: front-x, box(width: trim-width + BLEED, height: page-height, clip: true,
+        place(dy: BLEED, art)))
+    }
 
     // the title block, the house's order: author, rule, title, subtitle
     place(top + left, dx: front-x + SAFETY, dy: BLEED + title-y,
@@ -159,8 +187,14 @@
           v(0.22in)
           block(width: 100%, {
             set par(leading: 0.5em)
-            text(style: "italic", size: 11pt, fill: ink.transparentize(15%), subtitle)
+            // ink a shade lighter, mixed opaque (no transparency on a cover)
+            text(style: "italic", size: 11pt, fill: color.mix((ink, 85%), (paper, 15%)), subtitle)
           })
+        }
+        if edition != none {
+          v(0.24in)
+          box(stroke: (top: 0.6pt + accent, bottom: 0.6pt + accent), inset: (x: 0.04in, y: 0.07in),
+            caps(edition, 8pt, accent))
         }
       }))
     place(top + left, dx: front-x, dy: BLEED, box(width: trim-width, height: trim-height,
@@ -203,8 +237,10 @@
               text(size: 6pt, fill: accent, sym.diamond.filled))
             let top-y = name-y + across * 1.25 + 0.28in
             place(top + center, dy: top-y, rotate(90deg, reflow: true,
-              box(width: foot - top-y, height: safe, align(center + horizon,
-                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)))))
+              box(width: foot - top-y, height: safe, align(center + horizon, {
+                text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)
+                if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(font: SERIF, weight: "medium", size: title-size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
+              }))))
           } else {
             // a thin spine: the name runs down it from the same place, then the title
             place(top + center, dy: name-y, rotate(90deg, reflow: true,
@@ -214,6 +250,7 @@
                 text(size: 6pt, fill: accent, sym.diamond.filled)
                 h(0.12in)
                 text(font: DISPLAY, weight: "bold", size: title-size, fill: ink, spine-title)
+                if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(font: SERIF, weight: "medium", size: title-size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
               }))))
           }
         }
@@ -242,9 +279,12 @@
             text(font: SERIF, weight: "medium", size: size * 0.9, tracking: 0.1em, fill: accent,
               upper(spine-name))
             h(0.1in)
-            text(size: size * 0.5, fill: accent, sym.diamond.filled)
+            // drawn, not a glyph: at half the lettering's size it fell under Lulu's
+            // 5pt type floor on thin spines (a warning on Grace Abounding)
+            box(height: size * 0.7, align(horizon, rotate(45deg, square(size: size * 0.22, fill: accent))))
             h(0.1in)
             text(font: DISPLAY, weight: "bold", size: size, fill: ink, upper(spine-title))
+            if edition != none { h(0.1in); box(height: size * 0.7, align(horizon, rotate(45deg, square(size: size * 0.22, fill: accent)))); h(0.1in); text(font: SERIF, weight: "medium", size: size * 0.7, tracking: 0.1em, fill: accent, upper(edition)) }
           }))))
       }))
     }
@@ -270,7 +310,8 @@
         }
         v(1fr)
         // the press at the foot, left; the lower right kept clear for a
-        // barcode (2in x 1.2in) once the book has an ISBN
+        // barcode (2in x 1.2in) once the book has an ISBN (a pocket trim keeps
+        // less clear, so the press's name stays on one line)
         grid(columns: (1fr, auto), align: (left + bottom, right + bottom),
           grid(columns: 2, column-gutter: 0.12in, align: left + horizon,
             if seal != none { seal(width: 0.46in, roundel: label, fountain: paper) },
@@ -278,7 +319,8 @@
           if isbn != none {
             stack(box(fill: white, width: 2in, height: 1.2in), v(0.06in),
               text(size: 7.5pt)[ISBN #isbn])
-          } else { box(width: 2in, height: 1.2in) })
+          } else { box(width: calc.min(2in, trim-width - 2 * SAFETY - 2.1in), height: 1.2in) })
       }))
+    }
   })
 }

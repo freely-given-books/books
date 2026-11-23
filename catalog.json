@@ -1,18 +1,21 @@
 {
-  "release": "2026.11.10",
-  "colophon": "0.43.0",
+  "release": "2026.11.22.2",
+  "colophon": "0.59.1",
   "books": [
     {
       "book": "1689-baptist-confession/1689-baptist-confession",
+      "unit": "1689-baptist-confession/1689-baptist-confession",
+      "edition": "classic",
       "folder": "1689-baptist-confession",
       "title": "The 1689 Baptist Confession of Faith: With Catechisms",
       "author": "Particular Baptist Churches",
-      "version": "v1",
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "The Second London Baptist Confession of Faith (1677, owned in 1689), with the Baptist Catechism (1695) and An Orthodox Catechism (1680), from SVRBC's symbolics-data, with the confession's preface and closing statement transcribed for this edition.",
       "signed_off": {
-        "tag": "1689-baptist-confession/1689-baptist-confession/v1",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "1689-baptist-confession/1689-baptist-confession/v2",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -30,12 +33,12 @@
       "witnesses": [],
       "coverage": {
         "words": 40321,
-        "form": 1670,
+        "form": 1671,
         "grammar": 0,
         "wording": 22,
         "added": 48,
         "removed": 5,
-        "by_editor": 1770,
+        "by_editor": 1771,
         "by_machine": 0,
         "gaps": 0,
         "restored": 0,
@@ -49,48 +52,51 @@
       },
       "files": [
         {
-          "name": "1689-baptist-confession-v1.pdf",
-          "bytes": 1323416,
-          "sha256": "787f096f80321baaf07d26d85e6405f92a3968c8ecf97f4f6b67a378451bff69"
+          "name": "1689-baptist-confession-v2.pdf",
+          "bytes": 1323417,
+          "sha256": "dfb42d37a71544f84b84ce2a3cf3d8223b6e087a67f2e57a017ede91cb4f1204"
         },
         {
-          "name": "1689-baptist-confession-v1-cover.pdf",
-          "bytes": 108373,
-          "sha256": "b459b2268635d7b2563ff5c242398052f332e1cecc3c7c97cdba50390343fb80"
+          "name": "1689-baptist-confession-v2-cover.pdf",
+          "bytes": 110625,
+          "sha256": "04718ba700c7d4981c85c39b818e6b41f1a8859cc0231f608240c722349d1453"
         },
         {
-          "name": "1689-baptist-confession-v1-cover-front.png",
-          "bytes": 76742,
-          "sha256": "a770e096014364e6413d20b17229c0fd96bc6f4ba77fb31c6b037efbae38c644"
+          "name": "1689-baptist-confession-v2-cover-front.png",
+          "bytes": 78568,
+          "sha256": "9459aa48eb79d5eeab2ba7066bbd10bf05ccf4420b4196d3ca1098c4f346ca5e"
         },
         {
-          "name": "1689-baptist-confession-v1-cover-front.png",
-          "bytes": 76742,
-          "sha256": "a770e096014364e6413d20b17229c0fd96bc6f4ba77fb31c6b037efbae38c644"
+          "name": "1689-baptist-confession-v2-cover-front.png",
+          "bytes": 78568,
+          "sha256": "9459aa48eb79d5eeab2ba7066bbd10bf05ccf4420b4196d3ca1098c4f346ca5e"
         },
         {
-          "name": "1689-baptist-confession-v1.epub",
-          "bytes": 422879,
-          "sha256": "7738afd325651961ab2ee2277768d90f36029084a1befd7bc5869609436b609e"
+          "name": "1689-baptist-confession-v2.epub",
+          "bytes": 424855,
+          "sha256": "a458bdb40d030adbb6d70010128191eb8aa56f1df5d69cce97ad457f6ad77386"
         },
         {
-          "name": "1689-baptist-confession-v1-reader.html",
-          "bytes": 875122,
-          "sha256": "93c07576e589e34f92da356bbbc0e37bf85e9d3e9c16d285402e56d3410af529"
+          "name": "1689-baptist-confession-v2-reader.html",
+          "bytes": 877817,
+          "sha256": "b8dae07d957ecf9476c965d46751322d1df43ad315c9ce9efce180111a1491b3"
         },
         {
-          "name": "1689-baptist-confession-v1-compare.html",
-          "bytes": 1198154,
-          "sha256": "b8d2639afe55c4c41c296f5d7773be049a57096ddd748aa7a064305138193a87"
+          "name": "1689-baptist-confession-v2-compare.html",
+          "bytes": 1198346,
+          "sha256": "90ffbbe013d6d1d4e79e149e6304d930b95332a23c175d876c882a7422823a50"
         }
       ]
     },
     {
       "book": "anonymous/the-anatomy-of-simon-magus",
+      "unit": "anonymous/the-anatomy-of-simon-magus",
+      "edition": "classic",
       "folder": "the-anatomy-of-simon-magus",
       "title": "The Anatomy of Simon Magus",
       "author": "Anonymous",
       "version": "v7",
+      "lulu_revision": 7,
       "summary": "The 1700 printing in modern spelling and grammar, with translations of the Latin, a foreword and an abbreviations guide; two slips of the author's corrected (Jehu the Seer, Apollos).",
       "signed_off": {
         "tag": "anonymous/the-anatomy-of-simon-magus/v7",
@@ -134,12 +140,12 @@
         {
           "name": "the-anatomy-of-simon-magus-v7.pdf",
           "bytes": 1065677,
-          "sha256": "bd728b9f1099d89bb2e99d3534fc62f23a7a0879b208230b7258be17c20b994d"
+          "sha256": "7cfc2a1ab5c058df3648ae0c60857c37db93953193ec6d6022f472823e48ff2b"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-cover.pdf",
           "bytes": 5753650,
-          "sha256": "1d65b81c50f7134b5e6e01fdb3b3d57f72dd6f8c5359179ae4c00f19cf800ca5"
+          "sha256": "1afc00a72dd6696e7df2915dd02ff7ca897228e94ed6425e1a0ceb3e21c11973"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-cover-front.png",
@@ -153,13 +159,13 @@
         },
         {
           "name": "the-anatomy-of-simon-magus-v7.epub",
-          "bytes": 2729936,
-          "sha256": "b1ba9e65403de9cfaf21835c67a2b388f4674cd6026e9f1ade86dd72f52e2686"
+          "bytes": 2730084,
+          "sha256": "e6b768806ab21f2dad6d0ffdd3a3818bfada33c018f03eaaee59375102541c0b"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-reader.html",
-          "bytes": 3762902,
-          "sha256": "a88fc6a9d6f7d02dd9c70cb29b9df6073bf791651ba4b55b7f21435b0f9de9fb"
+          "bytes": 3763161,
+          "sha256": "59e2891e8f88b5d2006cb77ae683f851e55945f71f603a2d0a99124c8910051f"
         },
         {
           "name": "the-anatomy-of-simon-magus-v7-compare.html",
@@ -170,15 +176,18 @@
     },
     {
       "book": "charles-spurgeon/all-of-grace",
+      "unit": "charles-spurgeon/all-of-grace",
+      "edition": "classic",
       "folder": "all-of-grace",
       "title": "All of Grace",
       "author": "Charles Spurgeon",
-      "version": "v16",
+      "version": "v17",
+      "lulu_revision": 17,
       "summary": "Spurgeon's All of Grace in the words of the 1886 printing (New York, Robert Carter & Brothers), newly transcribed from the page images, in place of CCEL's reworded text.",
       "signed_off": {
-        "tag": "charles-spurgeon/all-of-grace/v16",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "charles-spurgeon/all-of-grace/v17",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -190,7 +199,7 @@
           "file": "source/grace.thml.xml",
           "description": "Our transcription (CC0) of All of Grace (New York: Robert Carter & Brothers, 1886): Kraken OCR of the archive.org scan corrected by four witnesses and the page images: source/SOURCES.md",
           "url": "https://archive.org/details/allofgraceearnes00spur",
-          "sha256": "226534b2eeb7b0aa031db495fb69bb31d8c6156edfd6df9dfed06aefa085f86c"
+          "sha256": "2ca49ee46a82525df4b9400424ecde3cebeb868e8b1f865c4e2937182137b694"
         }
       ],
       "witnesses": [
@@ -209,12 +218,12 @@
       ],
       "coverage": {
         "words": 34717,
-        "form": 95,
+        "form": 98,
         "grammar": 0,
-        "wording": 15,
+        "wording": 17,
         "added": 1,
         "removed": 1,
-        "by_editor": 239,
+        "by_editor": 263,
         "by_machine": 0,
         "gaps": 0,
         "restored": 0,
@@ -228,53 +237,108 @@
       },
       "files": [
         {
-          "name": "all-of-grace-v16.pdf",
-          "bytes": 754017,
-          "sha256": "fea0d4b0a9486a3cbb1b078925708fa084781bca6d3e21ca34a8835b9e2a81b2"
+          "name": "all-of-grace-v17.pdf",
+          "bytes": 755854,
+          "sha256": "ef855e111b3483b202daf2c8ca5c2b050271de45f9d08de3d14d1736e598df51"
         },
         {
-          "name": "all-of-grace-v16-cover.pdf",
-          "bytes": 2683075,
-          "sha256": "f47e3bc514643f7e132d30d048b8c757d0c3597f3786fb9ee582d7a02d086130"
+          "name": "all-of-grace-v17-cover.pdf",
+          "bytes": 4349539,
+          "sha256": "c31a8eb9ff6fd9fba4ef261399dfe04ae1654e7a4102894a70164292cb1edce6"
         },
         {
-          "name": "all-of-grace-v16-cover-front.png",
-          "bytes": 1124269,
-          "sha256": "dd3eb9da57d643e4372708fee122ed2f660373a5d09887516d28f305712ba291"
+          "name": "all-of-grace-v17-cover-front.png",
+          "bytes": 1124711,
+          "sha256": "fadc50da03b4889a49534619c78f984853a59be0248f7305e9a627e17c5c5814"
         },
         {
-          "name": "all-of-grace-v16-cover-front.png",
-          "bytes": 1124269,
-          "sha256": "dd3eb9da57d643e4372708fee122ed2f660373a5d09887516d28f305712ba291"
+          "name": "all-of-grace-v17-cover-front.png",
+          "bytes": 1124711,
+          "sha256": "fadc50da03b4889a49534619c78f984853a59be0248f7305e9a627e17c5c5814"
         },
         {
-          "name": "all-of-grace-v16.epub",
-          "bytes": 1419682,
-          "sha256": "b6f3087b450c47ca1739761c0fdf31ca55a32517800384ab04a0ca8aa3c55261"
+          "name": "all-of-grace-v17.epub",
+          "bytes": 1420125,
+          "sha256": "fa2f2e2c2ccc53220bc75ed0c231efa243cab0e311ff2f46d137104ba4612d94"
         },
         {
-          "name": "all-of-grace-v16-reader.html",
-          "bytes": 1983596,
-          "sha256": "6ceb96e2a4a44a2097dbef1147c5f1fc7410728ffdccc44199be4a40a2950f36"
+          "name": "all-of-grace-v17-reader.html",
+          "bytes": 1984544,
+          "sha256": "e1455b7a14c3abdebf0a20db5e019f2060fc90746eba3c02f37778c8d57b59f5"
         },
         {
-          "name": "all-of-grace-v16-compare.html",
-          "bytes": 478286,
-          "sha256": "117f27044bda869295267046296d1915b6a3cc345af687db9792f4d072ec5c06"
+          "name": "all-of-grace-v17-compare.html",
+          "bytes": 483902,
+          "sha256": "cce36f251fe8ff3a82e479c56e3dc72f3df2b677f222cadd02dadc5dad6ab8fb"
+        }
+      ]
+    },
+    {
+      "book": "charles-spurgeon/all-of-grace",
+      "unit": "charles-spurgeon/all-of-grace/modern",
+      "edition": "modern",
+      "folder": "all-of-grace",
+      "title": "All of Grace (Modern English)",
+      "author": "Charles Spurgeon",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Spurgeon's All of Grace in the words of the 1886 printing (New York, Robert Carter & Brothers), newly transcribed from the page images, in place of CCEL's reworded text.",
+      "based_on": "v17",
+      "signed_off": {
+        "tag": "charles-spurgeon/all-of-grace/modern/v2",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v17 (charles-spurgeon/all-of-grace/v17).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "all-of-grace-v2-modern.pdf",
+          "bytes": 754908,
+          "sha256": "7086840ed9f82aa0382d1f6c97482305c5caca69e159f6698f604e5633727e7f"
+        },
+        {
+          "name": "all-of-grace-v2-cover-modern.pdf",
+          "bytes": 2684687,
+          "sha256": "0ddd0f76a40dc1d71ac9ffbf6e1222c11209947cd6c781ca0945a87625a2dbbf"
+        },
+        {
+          "name": "all-of-grace-v2-cover-modern-front.png",
+          "bytes": 1128157,
+          "sha256": "b2863e9a0063a0a9ad8460052d8448e5b4697619989d2d3495d4eb07d8956dd9"
+        },
+        {
+          "name": "all-of-grace-v2-modern.epub",
+          "bytes": 1422445,
+          "sha256": "d64e443d62e4bc435ec8fb03137af69f18bb285359561af86dad1d3d8398ec82"
+        },
+        {
+          "name": "all-of-grace-v2-modern-reader.html",
+          "bytes": 1986661,
+          "sha256": "78a6bd6f541ae28de428cdd702d4acf90116cb9c7aed500a87a1045b6cea8c60"
         }
       ]
     },
     {
       "book": "john-bunyan/grace-abounding",
+      "unit": "john-bunyan/grace-abounding",
+      "edition": "classic",
       "folder": "grace-abounding",
       "title": "Grace Abounding to the Chief of Sinners",
       "author": "John Bunyan",
-      "version": "v2",
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Bunyan's Grace Abounding to the Chief of Sinners in the words and italics of the sixth edition (1688), the last printed in his lifetime, newly transcribed from the page images, in modern spelling, with the passages that edition cut kept from the first (1666).",
       "signed_off": {
-        "tag": "john-bunyan/grace-abounding/v2",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "john-bunyan/grace-abounding/v3",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -321,10 +385,10 @@
         "words": 44253,
         "form": 3659,
         "grammar": 22,
-        "wording": 1409,
+        "wording": 1413,
         "added": 307,
-        "removed": 438,
-        "by_editor": 6808,
+        "removed": 439,
+        "by_editor": 6810,
         "by_machine": 193,
         "gaps": 0,
         "restored": 0,
@@ -338,53 +402,108 @@
       },
       "files": [
         {
-          "name": "grace-abounding-v2.pdf",
-          "bytes": 900769,
-          "sha256": "4811977caa7bb42d75a6eb5d81ad4590c8967ad9a5ef3d332ff7c892e66543c3"
+          "name": "grace-abounding-v3.pdf",
+          "bytes": 900752,
+          "sha256": "e98763692365a0abfa309506aefe4a97a8d13628d19ba103fae699a919ba6d25"
         },
         {
-          "name": "grace-abounding-v2-cover.pdf",
-          "bytes": 1890042,
-          "sha256": "cbc421c723b08a25010397e86ce446d8c5977d649d9112dc820b3ee223bbff33"
+          "name": "grace-abounding-v3-cover.pdf",
+          "bytes": 8169762,
+          "sha256": "d5d491a71066df7e874a1d54f17fbb4044f42b370c6d3222c2e5f9a22879f642"
         },
         {
-          "name": "grace-abounding-v2-cover-front.png",
-          "bytes": 1798315,
-          "sha256": "36991f7c298d276f511399a5b460224e5365b38b89b1f59510504934aad8c336"
+          "name": "grace-abounding-v3-cover-front.png",
+          "bytes": 1798498,
+          "sha256": "7bb312400205b7f7a50425d6ffeb061620bb250bc0bb6234aa1950b0a3a69c6c"
         },
         {
-          "name": "grace-abounding-v2-cover-front.png",
-          "bytes": 1798315,
-          "sha256": "36991f7c298d276f511399a5b460224e5365b38b89b1f59510504934aad8c336"
+          "name": "grace-abounding-v3-cover-front.png",
+          "bytes": 1798498,
+          "sha256": "7bb312400205b7f7a50425d6ffeb061620bb250bc0bb6234aa1950b0a3a69c6c"
         },
         {
-          "name": "grace-abounding-v2.epub",
-          "bytes": 2095052,
-          "sha256": "1ae16ed1b033fb70c356ae4cd63751979556ba011993457efb8df01947ffcb18"
+          "name": "grace-abounding-v3.epub",
+          "bytes": 2095384,
+          "sha256": "b2749ce8bfd36189973f5a8d076fcd265d5896232422748a599aaa3e3fd20187"
         },
         {
-          "name": "grace-abounding-v2-reader.html",
-          "bytes": 2926749,
-          "sha256": "c521511f53b75a1a0f4a99b1776be91ace8a29c5a4365357ea687ced18d71e00"
+          "name": "grace-abounding-v3-reader.html",
+          "bytes": 2927249,
+          "sha256": "eb6baeaff0eb97840312b95d3eb5cc487a6b39157995e6b4c614260363ff30cd"
         },
         {
-          "name": "grace-abounding-v2-compare.html",
-          "bytes": 2130303,
-          "sha256": "096de7d63d52a6dad598a827985d3a97b60b551b938dcf8acf1d7bff0dc95da7"
+          "name": "grace-abounding-v3-compare.html",
+          "bytes": 2130731,
+          "sha256": "45db0c338888ccec925f19133520cdc70eded2310a627d88b47e63884c755f8f"
+        }
+      ]
+    },
+    {
+      "book": "john-bunyan/grace-abounding",
+      "unit": "john-bunyan/grace-abounding/modern",
+      "edition": "modern",
+      "folder": "grace-abounding",
+      "title": "Grace Abounding to the Chief of Sinners (Modern English)",
+      "author": "John Bunyan",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Bunyan's Grace Abounding to the Chief of Sinners in the words and italics of the sixth edition (1688), the last printed in his lifetime, newly transcribed from the page images, in modern spelling, with the passages that edition cut kept from the first (1666).",
+      "based_on": "v3",
+      "signed_off": {
+        "tag": "john-bunyan/grace-abounding/modern/v2",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v3 (john-bunyan/grace-abounding/v3).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "grace-abounding-v2-modern.pdf",
+          "bytes": 814188,
+          "sha256": "1e0ee8a1b5c70df4d9d20b5691f94e8fced161d0796afc5d2e0593b95f1f8629"
+        },
+        {
+          "name": "grace-abounding-v2-cover-modern.pdf",
+          "bytes": 1892524,
+          "sha256": "4d38cd38a2d82ce2192437ed1d9294dd1642406616e47852ae08d074e6d63039"
+        },
+        {
+          "name": "grace-abounding-v2-cover-modern-front.png",
+          "bytes": 1751172,
+          "sha256": "b7eb8ffb7f640134ec524a1f1f48c301beed2858d17fd147ccb3193a226cc3a0"
+        },
+        {
+          "name": "grace-abounding-v2-modern.epub",
+          "bytes": 2045729,
+          "sha256": "f3d3736482bb648c6ff7b24ad936311b74f0954aab14a6c0eccdf3c91176ee12"
+        },
+        {
+          "name": "grace-abounding-v2-modern-reader.html",
+          "bytes": 2859334,
+          "sha256": "12aafed9023ed4cf760526d429bfad76e792f3c6ec3bd02f94888da0c67da332"
         }
       ]
     },
     {
       "book": "john-bunyan/the-pilgrims-progress",
+      "unit": "john-bunyan/the-pilgrims-progress",
+      "edition": "classic",
       "folder": "the-pilgrims-progress",
       "title": "The Pilgrim's Progress",
       "author": "John Bunyan",
-      "version": "v14",
+      "version": "v16",
+      "lulu_revision": 16,
       "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
       "signed_off": {
-        "tag": "john-bunyan/the-pilgrims-progress/v14",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "john-bunyan/the-pilgrims-progress/v16",
+        "commit": "d1d8c205f0c860273952bf00c1e38d7d93c83363",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -417,12 +536,12 @@
       ],
       "coverage": {
         "words": 110974,
-        "form": 153,
+        "form": 158,
         "grammar": 0,
-        "wording": 63,
-        "added": 20,
-        "removed": 13,
-        "by_editor": 691,
+        "wording": 72,
+        "added": 22,
+        "removed": 18,
+        "by_editor": 706,
         "by_machine": 0,
         "gaps": 0,
         "restored": 0,
@@ -436,53 +555,108 @@
       },
       "files": [
         {
-          "name": "the-pilgrims-progress-v14.pdf",
-          "bytes": 1766072,
-          "sha256": "bc29d40664a4c75ba730d7d666335a7c0babbaa66a9ec225503583321af2fb37"
+          "name": "the-pilgrims-progress-v16.pdf",
+          "bytes": 1766048,
+          "sha256": "dbf364c4b6a4166b40561326c44b1b1338f5afb83bad804b49a8c55befa7b51a"
         },
         {
-          "name": "the-pilgrims-progress-v14-cover.pdf",
-          "bytes": 2098832,
-          "sha256": "5b2c47e800172acc30121edb45681403f9690168e040909da339c4e1c4c0320d"
+          "name": "the-pilgrims-progress-v16-cover.pdf",
+          "bytes": 7712505,
+          "sha256": "a836421535d3dc476eb5116a4ab5da28bc952ee22683f68fa67406179ca34dd9"
         },
         {
-          "name": "the-pilgrims-progress-v14-cover-front.png",
-          "bytes": 1817680,
-          "sha256": "0ac5fec88cf6a15097b5cb4ae4fa350a809df37b0db218337e75a5030be41b6a"
+          "name": "the-pilgrims-progress-v16-cover-front.png",
+          "bytes": 1817755,
+          "sha256": "b449a5ca8f93b320f808aa81eb049638efbf6455ff5312027d96d033471e45af"
         },
         {
-          "name": "the-pilgrims-progress-v14-cover-front.png",
-          "bytes": 1817680,
-          "sha256": "0ac5fec88cf6a15097b5cb4ae4fa350a809df37b0db218337e75a5030be41b6a"
+          "name": "the-pilgrims-progress-v16-cover-front.png",
+          "bytes": 1817755,
+          "sha256": "b449a5ca8f93b320f808aa81eb049638efbf6455ff5312027d96d033471e45af"
         },
         {
-          "name": "the-pilgrims-progress-v14.epub",
-          "bytes": 2267956,
-          "sha256": "e7d1fbec462eee23c9452949a18b4aebf3baedaef9998b2afac3b1cbcc35afe6"
+          "name": "the-pilgrims-progress-v16.epub",
+          "bytes": 2268174,
+          "sha256": "a1b3731135ce43ff982e8bd77dba4161a4e5d98405f83ae16f0be4d5372a73fe"
         },
         {
-          "name": "the-pilgrims-progress-v14-reader.html",
-          "bytes": 3368792,
-          "sha256": "e9c914653c236f83a360c18136bf3394a2b8103f3afc506c9a36e3bab4866e1b"
+          "name": "the-pilgrims-progress-v16-reader.html",
+          "bytes": 3369144,
+          "sha256": "826ff3e2a46e6e22d608036f88ce7ddef0b6c4eaae9162a8fba2e523518d9ab8"
         },
         {
-          "name": "the-pilgrims-progress-v14-compare.html",
-          "bytes": 1498582,
-          "sha256": "4a00e2b685246d59c18b289f0b127a2e471de4cfd7a05731de9bbe50883844b4"
+          "name": "the-pilgrims-progress-v16-compare.html",
+          "bytes": 1502011,
+          "sha256": "d3e1a92df52cd434b277c6e901e1d60fb596f772bb5832d1f9e481be48a456d6"
+        }
+      ]
+    },
+    {
+      "book": "john-bunyan/the-pilgrims-progress",
+      "unit": "john-bunyan/the-pilgrims-progress/modern",
+      "edition": "modern",
+      "folder": "the-pilgrims-progress",
+      "title": "The Pilgrim's Progress (Modern English)",
+      "author": "John Bunyan",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
+      "based_on": "v16",
+      "signed_off": {
+        "tag": "john-bunyan/the-pilgrims-progress/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v16 (john-bunyan/the-pilgrims-progress/v16).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-pilgrims-progress-v1-modern.pdf",
+          "bytes": 1790611,
+          "sha256": "112a2327e189b6fb1f5fcb9f2b77f6ea58e139a2f1d4199438dea562ee939578"
+        },
+        {
+          "name": "the-pilgrims-progress-v1-cover-modern.pdf",
+          "bytes": 2101482,
+          "sha256": "d2df4e9fc02a66c878ea469ad26e377c42e26eeeaacac653d1c89df1827bc435"
+        },
+        {
+          "name": "the-pilgrims-progress-v1-cover-modern-front.png",
+          "bytes": 1820625,
+          "sha256": "50960c5680f2ccc7a196d4f87fd530f511732a99f99aed9ae17d43c984ad2f62"
+        },
+        {
+          "name": "the-pilgrims-progress-v1-modern.epub",
+          "bytes": 2266393,
+          "sha256": "b32ee99c3ad92b2595bac4247927d411194a21c87115acaf03f1260c363068c6"
+        },
+        {
+          "name": "the-pilgrims-progress-v1-modern-reader.html",
+          "bytes": 3363986,
+          "sha256": "1c94d8ec4b5928b6bd9458752cedbedc67f85ed9d3eb38dcd02f3fb96679a6da"
         }
       ]
     },
     {
       "book": "john-owen/indwelling-sin",
+      "unit": "john-owen/indwelling-sin",
+      "edition": "classic",
       "folder": "indwelling-sin",
       "title": "Indwelling Sin",
       "author": "John Owen",
-      "version": "v1",
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Owen's Indwelling Sin from the second edition (London, 1675), EEBO-TCP A53712, its gaps restored from the page and the transcription's slips corrected, with the first edition (1668) and Goold's text (1850-53) as witnesses.",
       "signed_off": {
-        "tag": "john-owen/indwelling-sin/v1",
-        "commit": "cbf6930ed25574d7949e00695ccb604356ad3212",
-        "date": "2026-11-10",
+        "tag": "john-owen/indwelling-sin/v3",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -521,12 +695,12 @@
       ],
       "coverage": {
         "words": 88925,
-        "form": 1658,
+        "form": 1662,
         "grammar": 32,
-        "wording": 491,
+        "wording": 507,
         "added": 7,
-        "removed": 228,
-        "by_editor": 2419,
+        "removed": 229,
+        "by_editor": 2444,
         "by_machine": 603,
         "gaps": 214,
         "restored": 214,
@@ -540,53 +714,108 @@
       },
       "files": [
         {
-          "name": "indwelling-sin-v1.pdf",
-          "bytes": 2033237,
-          "sha256": "dc5fe317150ddc58015fff3065627dc000828d5f32400db27bd74b28cdb7063b"
+          "name": "indwelling-sin-v3.pdf",
+          "bytes": 2033253,
+          "sha256": "63bd64f550a727a7b9d2ec6014e554546cba0ef75047db4f79a5f42dd85d9a8d"
         },
         {
-          "name": "indwelling-sin-v1-cover.pdf",
-          "bytes": 125145,
-          "sha256": "349fcfa36ebbb3b3f9a9f953c8ac915d1c155ef12785bcf48bd9fa289017525b"
+          "name": "indwelling-sin-v3-cover.pdf",
+          "bytes": 124916,
+          "sha256": "9c2b0fe2d96405d82c08ea90c0fe82e742d7c8404cdf77c316c5d9913d490143"
         },
         {
-          "name": "indwelling-sin-v1-cover-front.png",
-          "bytes": 79536,
-          "sha256": "69651f6a24e0f2d5f2028cb2767598e1abf3fe062b1468eea6be2e353177e302"
+          "name": "indwelling-sin-v3-cover-front.png",
+          "bytes": 79351,
+          "sha256": "7ec23a498b4bb1d83cfa8536ba6a14b12e435f4f09ff6c506f4b910224d077a3"
         },
         {
-          "name": "indwelling-sin-v1-cover-front.png",
-          "bytes": 79536,
-          "sha256": "69651f6a24e0f2d5f2028cb2767598e1abf3fe062b1468eea6be2e353177e302"
+          "name": "indwelling-sin-v3-cover-front.png",
+          "bytes": 79351,
+          "sha256": "7ec23a498b4bb1d83cfa8536ba6a14b12e435f4f09ff6c506f4b910224d077a3"
         },
         {
-          "name": "indwelling-sin-v1.epub",
-          "bytes": 480474,
-          "sha256": "07588e7d588a63baae44e2640f554a8ca2c2f6df193f63ba8dff051d923da938"
+          "name": "indwelling-sin-v3.epub",
+          "bytes": 481014,
+          "sha256": "1f447c8fb30d0e923e507bfd41200fc25ae3b8af7e786b3064afb46b811eb637"
         },
         {
-          "name": "indwelling-sin-v1-reader.html",
-          "bytes": 930482,
-          "sha256": "32cd53ec909541a9f2230c5b1d8f8d6114bc60da1937e6fdf079f1fa0a21094b"
+          "name": "indwelling-sin-v3-reader.html",
+          "bytes": 950266,
+          "sha256": "c56235ffc0ce5b5743cd86af1643e8b1feb00ba59958190ad1e69ad978bbbf88"
         },
         {
-          "name": "indwelling-sin-v1-compare.html",
-          "bytes": 1935874,
-          "sha256": "f0b1bc81548228e490be93c782f3afe6347162a4c5ed80511d439cffe097f20b"
+          "name": "indwelling-sin-v3-compare.html",
+          "bytes": 1941130,
+          "sha256": "526665aa5c51fa8d798e583030d3958c3f1fa4ade5ec88c0266119fd9bf0f431"
+        }
+      ]
+    },
+    {
+      "book": "john-owen/indwelling-sin",
+      "unit": "john-owen/indwelling-sin/modern",
+      "edition": "modern",
+      "folder": "indwelling-sin",
+      "title": "Indwelling Sin (Modern English)",
+      "author": "John Owen",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Owen's Indwelling Sin from the second edition (London, 1675), EEBO-TCP A53712, its gaps restored from the page and the transcription's slips corrected, with the first edition (1668) and Goold's text (1850-53) as witnesses.",
+      "based_on": "v3",
+      "signed_off": {
+        "tag": "john-owen/indwelling-sin/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v3 (john-owen/indwelling-sin/v3).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "indwelling-sin-v1-modern.pdf",
+          "bytes": 1969014,
+          "sha256": "dfa6280d1a97c8c68116fc44620694e6844367c4f708dd46fec964bb2a26fcfe"
+        },
+        {
+          "name": "indwelling-sin-v1-cover-modern.pdf",
+          "bytes": 127529,
+          "sha256": "eab9657b6cd0beb33046c2886160d85ca8006ac4dbd23078ad6ef17e2ade1a70"
+        },
+        {
+          "name": "indwelling-sin-v1-cover-modern-front.png",
+          "bytes": 82855,
+          "sha256": "de6e3b68b9d216dd60a05d4aed33590f88c9983c4dfc387b64c71895efce051c"
+        },
+        {
+          "name": "indwelling-sin-v1-modern.epub",
+          "bytes": 481860,
+          "sha256": "918befa475e7003970983187ce8ff79fe3cbb1766a366b7ef99c561d6e5fed98"
+        },
+        {
+          "name": "indwelling-sin-v1-modern-reader.html",
+          "bytes": 948838,
+          "sha256": "f079ad84cbc53709fe3122acb57ad0799ccbb09dbe3e7735e5123b69ad86dd62"
         }
       ]
     },
     {
       "book": "john-owen/of-temptation",
+      "unit": "john-owen/of-temptation",
+      "edition": "classic",
       "folder": "of-temptation",
       "title": "Of Temptation",
       "author": "John Owen",
-      "version": "v2",
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.",
       "signed_off": {
-        "tag": "john-owen/of-temptation/v2",
-        "commit": "cbf6930ed25574d7949e00695ccb604356ad3212",
-        "date": "2026-11-10",
+        "tag": "john-owen/of-temptation/v3",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -638,55 +867,110 @@
       },
       "files": [
         {
-          "name": "of-temptation-v2.pdf",
+          "name": "of-temptation-v3.pdf",
           "bytes": 765774,
-          "sha256": "f2468e575a32579ea9cfd4c6e8a216e350745dce08e39df498a0ee6d09754114"
+          "sha256": "2a3a56c0338d896473cbc155392652f7670ee9cb54e5404b5103404bd475fccf"
         },
         {
-          "name": "of-temptation-v2-cover.pdf",
-          "bytes": 97837,
-          "sha256": "b8a4b9dd4762d20655ca6eabc28904148e108ebecffadd36766d60dc4d29589b"
+          "name": "of-temptation-v3-cover.pdf",
+          "bytes": 97640,
+          "sha256": "61e589ca816299bd2599460df56a853ee4f1e957e5cc104f0302cb79bd3f6ec2"
         },
         {
-          "name": "of-temptation-v2-cover-front.png",
-          "bytes": 79367,
-          "sha256": "4a7a640e85ede9e86807cae0a6ab08cad09192a7a32047bf8c137286b3abab54"
+          "name": "of-temptation-v3-cover-front.png",
+          "bytes": 79394,
+          "sha256": "78ff23618fad4ec3ae63c494a11348650c18f182090291b01288407ccfa6b18b"
         },
         {
-          "name": "of-temptation-v2-cover-front.png",
-          "bytes": 79367,
-          "sha256": "4a7a640e85ede9e86807cae0a6ab08cad09192a7a32047bf8c137286b3abab54"
+          "name": "of-temptation-v3-cover-front.png",
+          "bytes": 79394,
+          "sha256": "78ff23618fad4ec3ae63c494a11348650c18f182090291b01288407ccfa6b18b"
         },
         {
-          "name": "of-temptation-v2.epub",
-          "bytes": 359205,
-          "sha256": "f6d6c5b6f910c859cb28580a3aa33b7806f38ac627b64252e2b378a0581844c7"
+          "name": "of-temptation-v3.epub",
+          "bytes": 359710,
+          "sha256": "ab42f3951096bb5cb1ad74d8ea57a5ae8ecd88cb7ed40f931b19959fefc14167"
         },
         {
-          "name": "of-temptation-v2-reader.html",
-          "bytes": 587822,
-          "sha256": "6ec60322c9b39abdda358bacf848c4d74c6ffcfa66a81823c0cf60a35e4710eb"
+          "name": "of-temptation-v3-reader.html",
+          "bytes": 604778,
+          "sha256": "ec1bbd20b8176b64faf81c09b7ac9a583d7c3917a03316dafe40d117e35e020a"
         },
         {
-          "name": "of-temptation-v2-compare.html",
+          "name": "of-temptation-v3-compare.html",
           "bytes": 3194687,
-          "sha256": "30fef0c9a9f1c891c6bea51814f32eee2c3028c1a4e1eb1926018b39891384f5"
+          "sha256": "e58d3df096d7263d2bcede88f053b78c4ef02cd543f1cb54cfcd79df8addd548"
+        }
+      ]
+    },
+    {
+      "book": "john-owen/of-temptation",
+      "unit": "john-owen/of-temptation/modern",
+      "edition": "modern",
+      "folder": "of-temptation",
+      "title": "Of Temptation (Modern English)",
+      "author": "John Owen",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Owen's Of Temptation from the first edition (Oxford, 1658), EEBO-TCP A90277, its printer's errata and the transcription's slips corrected, with Goold's text (1850-53) as the guide to modern wording.",
+      "based_on": "v3",
+      "signed_off": {
+        "tag": "john-owen/of-temptation/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v3 (john-owen/of-temptation/v3).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "of-temptation-v1-modern.pdf",
+          "bytes": 772980,
+          "sha256": "6c0093d3e42db9c0d696140ab67cd6b2574094cee3146fc31a2a2cbbe8cffaad"
+        },
+        {
+          "name": "of-temptation-v1-cover-modern.pdf",
+          "bytes": 100256,
+          "sha256": "9302f471aa898e3d6f594a4bb89f9386988cd5019394a633ae00ef4ee69df2c0"
+        },
+        {
+          "name": "of-temptation-v1-cover-modern-front.png",
+          "bytes": 82387,
+          "sha256": "df21a4d9be27d817e7b7e0f84b89210ee1997af69021ad3f300ac130deb4c607"
+        },
+        {
+          "name": "of-temptation-v1-modern.epub",
+          "bytes": 363040,
+          "sha256": "5d15662f3cb591a0f1a81626f65e59d32d609069ca0885b10aaef6063c36b11b"
+        },
+        {
+          "name": "of-temptation-v1-modern-reader.html",
+          "bytes": 609555,
+          "sha256": "ccd73e4b578d3fd9ff31f152849bff7b3fa3db137b91dba46484fb4ad5de32c8"
         }
       ]
     },
     {
       "book": "john-owen/owen-on-sin",
+      "unit": "john-owen/owen-on-sin",
+      "edition": "classic",
       "folder": "owen-on-sin",
       "title": "Owen on Sin",
       "author": "John Owen",
-      "version": "v1",
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback, Of Temptation first: each is the text of its own edition here, unchanged, with its own ebook and record of every change.",
       "signed_off": {
-        "tag": "john-owen/owen-on-sin/v1",
-        "commit": "0cd382e7ec4dafa6e0984a368a5cbd316e818d73",
-        "date": "2026-11-10",
+        "tag": "john-owen/owen-on-sin/v2",
+        "commit": "241b37a54c0972f031862badb06975ac08701c1f",
+        "date": "2026-11-22",
         "signer": "Courtney",
-        "note": "Made from: Of Temptation v2 (john-owen/of-temptation/v2); The Mortification of Sin v2 (john-owen/the-mortification-of-sin/v2).",
+        "note": "Made from: Of Temptation v3 (john-owen/of-temptation/v3); The Mortification of Sin v4 (john-owen/the-mortification-of-sin/v4).",
         "signature_verified": true
       },
       "carried": false,
@@ -696,45 +980,96 @@
       "made_from": [
         {
           "book": "john-owen/of-temptation",
-          "version": "v2",
-          "tag": "john-owen/of-temptation/v2"
+          "version": "v3",
+          "tag": "john-owen/of-temptation/v3"
         },
         {
           "book": "john-owen/the-mortification-of-sin",
-          "version": "v2",
-          "tag": "john-owen/the-mortification-of-sin/v2"
+          "version": "v4",
+          "tag": "john-owen/the-mortification-of-sin/v4"
         }
       ],
       "coverage": null,
       "files": [
         {
-          "name": "owen-on-sin-v1.pdf",
-          "bytes": 1513534,
-          "sha256": "c36f748f8e85dbf4a3b9a7eecdfa083e15af106da463b11c728f05d04daedadc"
+          "name": "owen-on-sin-v2.pdf",
+          "bytes": 2032357,
+          "sha256": "e7e7fdf0c8ccf9fe5d8162952994dc93f6f3fbf2920a21c521151e28d7ee9abf"
         },
         {
-          "name": "owen-on-sin-v1-cover.pdf",
-          "bytes": 128877,
-          "sha256": "02c51c95dc4fe957cd2df30c20fbf5a1cffdd8ec63b65c91d04e5e13addb57c6"
+          "name": "owen-on-sin-v2-cover.pdf",
+          "bytes": 128676,
+          "sha256": "220a790156eb4920cd9a4feda68bb1a2ae5341098bf1d3b0eef7277cbea72658"
         },
         {
-          "name": "owen-on-sin-v1-cover-front.png",
-          "bytes": 89071,
-          "sha256": "84e83920e7559105efe4ac1ec72433ef7bbffa902a0cb199d54017b3db751782"
+          "name": "owen-on-sin-v2-cover-front.png",
+          "bytes": 88858,
+          "sha256": "e8f9c7158ea0199bed088d7d9697298760e1402245fc1e2b2eb953df320695a2"
+        }
+      ]
+    },
+    {
+      "book": "john-owen/owen-on-sin",
+      "unit": "john-owen/owen-on-sin/modern",
+      "edition": "modern",
+      "folder": "owen-on-sin",
+      "title": "Owen on Sin (Modern English)",
+      "author": "John Owen",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback in Modern English, Of Temptation first: each is the text of its own Modern English edition, unchanged.",
+      "signed_off": {
+        "tag": "john-owen/owen-on-sin/modern/v1",
+        "commit": "241b37a54c0972f031862badb06975ac08701c1f",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Made from: Of Temptation (Modern English) v1 (john-owen/of-temptation/modern/v1); The Mortification of Sin (Modern English) v1 (john-owen/the-mortification-of-sin/modern/v1).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "made_from": [
+        {
+          "book": "john-owen/of-temptation",
+          "version": "v1",
+          "tag": "john-owen/of-temptation/modern/v1"
+        },
+        {
+          "book": "john-owen/the-mortification-of-sin",
+          "version": "v1",
+          "tag": "john-owen/the-mortification-of-sin/modern/v1"
+        }
+      ],
+      "coverage": null,
+      "files": [
+        {
+          "name": "owen-on-sin-v1-modern.pdf",
+          "bytes": 1522745,
+          "sha256": "8c60fbfcac284ee4aefd5e52194afc84ffeaa6a4c575df7d3d837ba9d58742d3"
+        },
+        {
+          "name": "owen-on-sin-v1-cover-modern.pdf",
+          "bytes": 131327,
+          "sha256": "9fe2c1ae5e3dbcd2c1cfc0873d53dbf3798717cd3179bc1418dffef8e9d88270"
         }
       ]
     },
     {
       "book": "john-owen/the-death-of-death",
+      "unit": "john-owen/the-death-of-death",
+      "edition": "classic",
       "folder": "the-death-of-death",
       "title": "The Death of Death in the Death of Christ",
       "author": "John Owen",
-      "version": "v1",
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "Owen's Death of Death in the Death of Christ in William Goold's text, as CCEL gives it, with CCEL's slips corrected against Goold's printing and Owen's own wording, chiefly his quotations of Scripture, restored from the 1648 first edition.",
       "signed_off": {
-        "tag": "john-owen/the-death-of-death/v1",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "john-owen/the-death-of-death/v2",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -780,53 +1115,56 @@
       },
       "files": [
         {
-          "name": "the-death-of-death-v1.pdf",
+          "name": "the-death-of-death-v2.pdf",
           "bytes": 2601617,
-          "sha256": "b0f3f60801669a8681d882f1ed2c77ce79ed1fb13b79d7c35277a86f870b6681"
+          "sha256": "06c268d99e77b942c2364b563ad43c147940afcf94f68dfadfafc364139788a3"
         },
         {
-          "name": "the-death-of-death-v1-cover.pdf",
-          "bytes": 125553,
-          "sha256": "6163a4e8c44cfc8429f4e8d0a20dde0bddee8dd8585c55ef1be5032b3a2a6c21"
+          "name": "the-death-of-death-v2-cover.pdf",
+          "bytes": 125340,
+          "sha256": "26ca8a233f02acd6be052864c9f0e348d90c3e97d8ccef063dcf92ff69bce13f"
         },
         {
-          "name": "the-death-of-death-v1-cover-front.png",
-          "bytes": 91742,
-          "sha256": "9db6889de7ed1ab60b9f9b33a40b92cc0308467ff71fe1ddb0f4381586786f3d"
+          "name": "the-death-of-death-v2-cover-front.png",
+          "bytes": 91557,
+          "sha256": "4688ab205877695c296d76b0f1d778e4d05780601030c2f7ef76e89b128f59ec"
         },
         {
-          "name": "the-death-of-death-v1-cover-front.png",
-          "bytes": 91742,
-          "sha256": "9db6889de7ed1ab60b9f9b33a40b92cc0308467ff71fe1ddb0f4381586786f3d"
+          "name": "the-death-of-death-v2-cover-front.png",
+          "bytes": 91557,
+          "sha256": "4688ab205877695c296d76b0f1d778e4d05780601030c2f7ef76e89b128f59ec"
         },
         {
-          "name": "the-death-of-death-v1.epub",
-          "bytes": 636517,
-          "sha256": "363997d99e2943992a6971d0da44e7d2a6df4a2df4d75cff3407840c8564ae8f"
+          "name": "the-death-of-death-v2.epub",
+          "bytes": 636546,
+          "sha256": "3e7d9ea0e9e46c9675de09863a91c3e303b461326f050f34775e7aa16ceeedf8"
         },
         {
-          "name": "the-death-of-death-v1-reader.html",
-          "bytes": 1306098,
-          "sha256": "49f375621bc4b4c70b1f879278069c234a74c51cd4b34466437c1fe4690cda55"
+          "name": "the-death-of-death-v2-reader.html",
+          "bytes": 1306109,
+          "sha256": "567dc46294cae818cfb008c89b0d00c10eb3a57b5d4fe0fe4882349921c81242"
         },
         {
-          "name": "the-death-of-death-v1-compare.html",
+          "name": "the-death-of-death-v2-compare.html",
           "bytes": 2940684,
-          "sha256": "0d22978e9b8a9ce66f73fea7a5f151256a01dbc3c2041c872af3bf7f1d976d98"
+          "sha256": "0bf30e1f726eedf924611aae6062bbc454964756e4fce5dec0eff925b7f67e0d"
         }
       ]
     },
     {
       "book": "john-owen/the-mortification-of-sin",
+      "unit": "john-owen/the-mortification-of-sin",
+      "edition": "classic",
       "folder": "the-mortification-of-sin",
       "title": "The Mortification of Sin",
       "author": "John Owen",
-      "version": "v2",
-      "summary": "Owen's Of the Mortification of Sin in Believers in Goold's text (1850-53), as CCEL gives it, with two lines CCEL dropped and three slips corrected from Goold's printing, the 1668 second edition agreeing.",
+      "version": "v4",
+      "lulu_revision": 4,
+      "summary": "Owen's Of the Mortification of Sin in Believers from the second edition (London, 1668), the last in Owen's lifetime, EEBO-TCP A53715, its gaps restored from the page and the transcription's slips corrected, with Goold's text (1850-53) as a witness; and a Modern English edition of it.",
       "signed_off": {
-        "tag": "john-owen/the-mortification-of-sin/v2",
-        "commit": "cbf6930ed25574d7949e00695ccb604356ad3212",
-        "date": "2026-11-10",
+        "tag": "john-owen/the-mortification-of-sin/v4",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -835,96 +1173,314 @@
       "template": "fgbooks 0.14.0",
       "sources": [
         {
-          "file": "source/mort.thml.xml",
-          "description": "CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53)",
-          "url": "https://www.ccel.org/ccel/o/owen/mort.xml",
-          "sha256": "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211"
-        },
-        {
-          "file": "source/A53715.witness.xml",
-          "description": "EEBO-TCP A53715: Of the Mortification of Sin in Believers, the second edition (London, Nathanael Ponder, 1668), a witness: source/witness-report.md",
+          "file": "source/A53715.tcp.xml",
+          "description": "EEBO-TCP A53715: John Owen, Of the Mortification of Sin in Believers (London: printed for Nathanael Ponder, 1668), the second edition: the text",
           "url": "https://github.com/textcreationpartnership/A53715",
           "sha256": "4603d4fd73838e698e523487eebb04841f242be20f61b01c3a510bfa35cd661d"
+        },
+        {
+          "file": "source/A53715.supplied.xml",
+          "description": "The transcription's keying slips corrected to the 1668 page, each read on the page image (the TCP file untouched)",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668",
+          "sha256": "ecee4bd05ea2b304dbcbd91525759f4233aa0a4df4ed7c623da37ddd780ca6db"
+        },
+        {
+          "file": "source/mort.ccel.witness.xml",
+          "description": "CCEL ThML: John Owen, Of the Mortification of Sin in Believers, from The Works of John Owen, ed. William H. Goold, vol. 6 (1850-53): a witness, and the guide to the outline levels",
+          "url": "https://www.ccel.org/ccel/o/owen/mort.xml",
+          "sha256": "e3577b8e81583250a41df8b0bd6504dc37209a60944cbd5e20ec2ae82779c211"
         }
       ],
       "witnesses": [
         {
-          "description": "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), archive.org scan and OCR, the printing CCEL follows: source/witness-report.md",
-          "url": "https://archive.org/details/worksofjohnowe185006owen"
+          "description": "The 1668 printing (archive.org scan, EEBO microfilm), read with Kraken and Tesseract and collated with the TCP: the gaps restored (Greek from the page) and the keying slips",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_of-the-mortification-of-_owen-john-dd_1668"
         },
         {
-          "description": "William H. Gross's modernized and annotated text (On the Wing, 2002, published by Monergism), read only to confirm passages; under copyright, not kept",
-          "url": "https://www.monergism.com/"
+          "description": "The Works of John Owen, ed. William H. Goold, vol. 6 (Johnstone and Hunter, 1850-53), the edition's base until 2026-11-14: wording and references compared",
+          "url": "https://archive.org/details/worksofjohnowe185006owen"
         }
       ],
       "coverage": {
-        "words": 43166,
-        "form": 333,
-        "grammar": 1,
-        "wording": 20,
-        "added": 32,
-        "removed": 11,
-        "by_editor": 699,
-        "by_machine": 10,
-        "gaps": 0,
-        "restored": 0,
+        "words": 43857,
+        "form": 1309,
+        "grammar": 37,
+        "wording": 369,
+        "added": 10,
+        "removed": 116,
+        "by_editor": 1342,
+        "by_machine": 655,
+        "gaps": 163,
+        "restored": 163,
         "open": 0,
         "notes_added": 0,
         "notes_dropped": 0,
-        "unchanged": 99.2,
-        "form_pct": 0.8,
-        "grammar_pct": 0.0,
-        "wording_pct": 0.0
+        "unchanged": 96.1,
+        "form_pct": 3.0,
+        "grammar_pct": 0.1,
+        "wording_pct": 0.8
       },
       "files": [
         {
-          "name": "the-mortification-of-sin-v2.pdf",
-          "bytes": 1009592,
-          "sha256": "663640a651ad514b28eb008b8848de136230f46770f5a7d1440bee3604bc5266"
+          "name": "the-mortification-of-sin-v4.pdf",
+          "bytes": 1530584,
+          "sha256": "9037aaa19bb69d6d9f7ce02be8717473ddbf4b69801be99f8dc20d87ef9ca766"
         },
         {
-          "name": "the-mortification-of-sin-v2-cover.pdf",
-          "bytes": 126657,
-          "sha256": "c106d7ce87030f200c57ddb651c29788d203231874a28a9078fe1f14f59eb435"
+          "name": "the-mortification-of-sin-v4-cover.pdf",
+          "bytes": 126461,
+          "sha256": "31296803b138adf48bd1102266998d52eaa67ca982095d065ce49d2299a2f095"
         },
         {
-          "name": "the-mortification-of-sin-v2-cover-front.png",
-          "bytes": 80684,
-          "sha256": "f045ea13a0b15d75c731a46f2b54a077335fb79c348e2b8a449ff647bccf0a43"
+          "name": "the-mortification-of-sin-v4-cover-front.png",
+          "bytes": 80538,
+          "sha256": "eb41188e1c65400ba0dc17e7d5d947c3fa90f1042d072b3d879bad254605db41"
         },
         {
-          "name": "the-mortification-of-sin-v2-cover-front.png",
-          "bytes": 80684,
-          "sha256": "f045ea13a0b15d75c731a46f2b54a077335fb79c348e2b8a449ff647bccf0a43"
+          "name": "the-mortification-of-sin-v4-cover-front.png",
+          "bytes": 80538,
+          "sha256": "eb41188e1c65400ba0dc17e7d5d947c3fa90f1042d072b3d879bad254605db41"
         },
         {
-          "name": "the-mortification-of-sin-v2.epub",
-          "bytes": 390337,
-          "sha256": "3cb9a45c21601712e9e36e1ccb528c0e64067b1e565c7b9f2818de75ab2bb4dd"
+          "name": "the-mortification-of-sin-v4.epub",
+          "bytes": 397469,
+          "sha256": "52f7b4c99bcd2e55764a94de3887af9b6e325be412ef24c20fddd4682beaf86f"
         },
         {
-          "name": "the-mortification-of-sin-v2-reader.html",
-          "bytes": 658909,
-          "sha256": "5e46f53f2507ad1d4ec47b5b49a3665fcb0aace175b2ac6e54621728f601b28d"
+          "name": "the-mortification-of-sin-v4-reader.html",
+          "bytes": 699339,
+          "sha256": "dd050f67ea7e6dc087406fc83b5c5959f953b4d795457c30610c5ad6fe5aee52"
         },
         {
-          "name": "the-mortification-of-sin-v2-compare.html",
-          "bytes": 708532,
-          "sha256": "bcae6afcd818f6abfc6206663517315355f0d664825415b99d59c57d9c9cb64a"
+          "name": "the-mortification-of-sin-v4-compare.html",
+          "bytes": 1097535,
+          "sha256": "1676bef52e5e3fcff16386e983865abc7e6010b3eb2505916c96066eaccd8eb8"
+        }
+      ]
+    },
+    {
+      "book": "john-owen/the-mortification-of-sin",
+      "unit": "john-owen/the-mortification-of-sin/modern",
+      "edition": "modern",
+      "folder": "the-mortification-of-sin",
+      "title": "The Mortification of Sin (Modern English)",
+      "author": "John Owen",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Owen's Of the Mortification of Sin in Believers from the second edition (London, 1668), the last in Owen's lifetime, EEBO-TCP A53715, its gaps restored from the page and the transcription's slips corrected, with Goold's text (1850-53) as a witness; and a Modern English edition of it.",
+      "based_on": "v4",
+      "signed_off": {
+        "tag": "john-owen/the-mortification-of-sin/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v4 (john-owen/the-mortification-of-sin/v4).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-mortification-of-sin-v1-modern.pdf",
+          "bytes": 981589,
+          "sha256": "a10df1595bd66e5bb5eecf908ea0b8859528631799b833b7790804a6e640b1d4"
+        },
+        {
+          "name": "the-mortification-of-sin-v1-cover-modern.pdf",
+          "bytes": 101274,
+          "sha256": "7bddbbaebe9f3e1411095c0e0e33352696982e7ebaed069221b10f3169e375e9"
+        },
+        {
+          "name": "the-mortification-of-sin-v1-cover-modern-front.png",
+          "bytes": 84017,
+          "sha256": "936581b0a261a47514d4046694f44188f6d3446c8de806fe45d19a23c662a17d"
+        },
+        {
+          "name": "the-mortification-of-sin-v1-modern.epub",
+          "bytes": 392896,
+          "sha256": "917482e4b698a9a91c4a60c694d447b422d2f6831d5b8afb8c8f848d285399d2"
+        },
+        {
+          "name": "the-mortification-of-sin-v1-modern-reader.html",
+          "bytes": 673728,
+          "sha256": "d2770fce92298d6aae1a88374c332ae659eed57b910ce861ad7586a98128ee9d"
+        }
+      ]
+    },
+    {
+      "book": "jonathan-edwards/religious-affections",
+      "unit": "jonathan-edwards/religious-affections",
+      "edition": "classic",
+      "folder": "religious-affections",
+      "title": "Religious Affections",
+      "author": "Jonathan Edwards",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied.",
+      "signed_off": {
+        "tag": "jonathan-edwards/religious-affections/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.15.0",
+      "sources": [
+        {
+          "file": "source/N04635.tcp.xml",
+          "description": "Evans-TCP N04635: A Treatise Concerning Religious Affections, in Three Parts (Boston, S. Kneeland and T. Green, 1746; Evans 5767)",
+          "url": "https://github.com/textcreationpartnership/N04635",
+          "sha256": "238dbbe338902d11dd1f514be5fe570d22c606892e511c7f044d2cda38086924"
+        },
+        {
+          "file": "source/N04635.supplied.xml",
+          "description": "Corrections to the TCP transcription, read on the 1746 page images (dropped and misread words, f for s, among others)",
+          "url": "https://archive.org/details/treatiseconcerni1746edwa",
+          "sha256": "2cfb23614e997a1162c0ecf103a2fe8654510502dd84339ac12356fe03f54b45"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The 1746 printing, Princeton Theological Seminary copy, archive.org scan: local OCR (Kraken and Tesseract) collated with the TCP; gaps, slips and the errata page read on its page images",
+          "url": "https://archive.org/details/treatiseconcerni1746edwa"
+        },
+        {
+          "description": "The 1768 New York edition (J. Parker for G. Noel, set from 1746), archive.org scan, local OCR collated as a second reading",
+          "url": "https://archive.org/details/treatiseconcerni00edwa"
+        },
+        {
+          "description": "CCEL's modern-spelling text (the Worcester line), a check on case and spelling only",
+          "url": "https://www.ccel.org/ccel/edwards/affections.html"
+        }
+      ],
+      "coverage": {
+        "words": 181653,
+        "form": 36389,
+        "grammar": 20,
+        "wording": 429,
+        "added": 16,
+        "removed": 30,
+        "by_editor": 5819,
+        "by_machine": 31581,
+        "gaps": 1377,
+        "restored": 1377,
+        "open": 0,
+        "notes_added": 0,
+        "notes_dropped": 0,
+        "unchanged": 79.7,
+        "form_pct": 20.0,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.2
+      },
+      "files": [
+        {
+          "name": "religious-affections-v1.pdf",
+          "bytes": 2991406,
+          "sha256": "517f3332b92b2023d51ffda950b0f5b10003161383299abe6b62f6fca0b5cbe9"
+        },
+        {
+          "name": "religious-affections-v1-cover.pdf",
+          "bytes": 2019135,
+          "sha256": "c9aa8c9ff074c04ce28acee569427a5dff529cd360977ec8e8dca8f27c9d4e65"
+        },
+        {
+          "name": "religious-affections-v1-cover-front.png",
+          "bytes": 525263,
+          "sha256": "9796a61e4843b341f1d6c80a5607d8d91ec5c2be43353bee3a4f6ae6b8309554"
+        },
+        {
+          "name": "religious-affections-v1-cover-front.png",
+          "bytes": 525263,
+          "sha256": "9796a61e4843b341f1d6c80a5607d8d91ec5c2be43353bee3a4f6ae6b8309554"
+        },
+        {
+          "name": "religious-affections-v1.epub",
+          "bytes": 1103719,
+          "sha256": "e6fac51d4d8f59b17feca0b503fa3e6a783fe429f6b459b15f6f9c4b23716b78"
+        },
+        {
+          "name": "religious-affections-v1-reader.html",
+          "bytes": 2061553,
+          "sha256": "3defdc586cd48fe2fcfb1ddbb4c110229ad82b91c7886142a7d43f5a6d34338c"
+        },
+        {
+          "name": "religious-affections-v1-compare.html",
+          "bytes": 10647701,
+          "sha256": "cb5d0958133fcf7102c1ec14b7752683e5b4893f2d044be403c2f778c0a571de"
+        }
+      ]
+    },
+    {
+      "book": "jonathan-edwards/religious-affections",
+      "unit": "jonathan-edwards/religious-affections/modern",
+      "edition": "modern",
+      "folder": "religious-affections",
+      "title": "Religious Affections (Modern English)",
+      "author": "Jonathan Edwards",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied.",
+      "based_on": "v1",
+      "signed_off": {
+        "tag": "jonathan-edwards/religious-affections/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v1 (jonathan-edwards/religious-affections/v1).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.15.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "religious-affections-v1-modern.pdf",
+          "bytes": 2985952,
+          "sha256": "9fb0c63777a75372a44b456f6d7658cd64c71dc91e722ab71cc51b58af374413"
+        },
+        {
+          "name": "religious-affections-v1-cover-modern.pdf",
+          "bytes": 790147,
+          "sha256": "80168418d90988db3f9cf14113606c5f5b781bfec8b7df2029d3be34df88f6e9"
+        },
+        {
+          "name": "religious-affections-v1-cover-modern-front.png",
+          "bytes": 528746,
+          "sha256": "455916158ea28b97f3b3d2736ab999a827a7233bfbc8202f9ed26de235c7127a"
+        },
+        {
+          "name": "religious-affections-v1-modern.epub",
+          "bytes": 1102374,
+          "sha256": "1afaa4abe44e8d5186d02e6d03a221f84cccb3dc49247615f9150a4f2fd3ad7e"
+        },
+        {
+          "name": "religious-affections-v1-modern-reader.html",
+          "bytes": 2055668,
+          "sha256": "f566af670b66f95308a4434f3c1d66240d1ca08f26ec4dfad54cb4d42e262f60"
         }
       ]
     },
     {
       "book": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god",
+      "unit": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god",
+      "edition": "classic",
       "folder": "sinners-in-the-hands-of-an-angry-god",
       "title": "Sinners in the Hands of an Angry God",
       "author": "Jonathan Edwards",
-      "version": "v9",
+      "version": "v10",
+      "lulu_revision": 10,
       "summary": "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).",
       "signed_off": {
-        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v9",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v10",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -947,11 +1503,11 @@
       ],
       "coverage": {
         "words": 23249,
-        "form": 4074,
+        "form": 4075,
         "grammar": 11,
-        "wording": 567,
+        "wording": 565,
         "added": 166,
-        "removed": 238,
+        "removed": 236,
         "by_editor": 1849,
         "by_machine": 2672,
         "gaps": 11,
@@ -966,53 +1522,108 @@
       },
       "files": [
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9.pdf",
-          "bytes": 394506,
-          "sha256": "db47986df591e6bcd915e3d2e26e356b0b832ba8070daa4e735b295b61d52f7e"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10.pdf",
+          "bytes": 394529,
+          "sha256": "3465e08c126f3cfa4ce9bc1206f72b91cee1b7c26d7581e8f473b7dda1cc200b"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9-cover.pdf",
-          "bytes": 103491,
-          "sha256": "e73f66ca92fb5606f47fd2a54f2b1f9bce5a07689c52fc4493c35f1914d675ce"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10-cover.pdf",
+          "bytes": 98774,
+          "sha256": "8f60a9b1fd67d299e804f840558a864d393544bacc3e49d6e51536979ef1bcce"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9-cover-front.png",
-          "bytes": 69661,
-          "sha256": "6149a313a90abd3992ec3b2d3b0f6be474ae1952d9dc9ddbd821c062307db53c"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10-cover-front.png",
+          "bytes": 59211,
+          "sha256": "d3042dea3e16a22aafc9fca68fc4be09fa8dffa2b90b6470db1f1d77482695bc"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9-cover-front.png",
-          "bytes": 69661,
-          "sha256": "6149a313a90abd3992ec3b2d3b0f6be474ae1952d9dc9ddbd821c062307db53c"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10-cover-front.png",
+          "bytes": 59211,
+          "sha256": "d3042dea3e16a22aafc9fca68fc4be09fa8dffa2b90b6470db1f1d77482695bc"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9.epub",
-          "bytes": 289323,
-          "sha256": "176b6a1d73917806ae030240507b0cc761fb01149b5b87f8d81d6c9ce2a260b8"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10.epub",
+          "bytes": 280337,
+          "sha256": "7ae18be8c6f1549058bf9f3de2da9348f1bab8c4b8f9b62b9133fc12d330c146"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9-reader.html",
-          "bytes": 425726,
-          "sha256": "324f3e2b263669a86d155e5e4842ba2c0f778accbebd43e6f8aa8a2bef3bb80c"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10-reader.html",
+          "bytes": 412062,
+          "sha256": "9c7a12814eda0c6aac1f577a2abb3d9afefb132ca52581e6b8afe8337eea0849"
         },
         {
-          "name": "sinners-in-the-hands-of-an-angry-god-v9-compare.html",
-          "bytes": 650065,
-          "sha256": "2139b25a60b78cc702bfd36c90acc4c3a3fa94c0aee0cae80798fdc3fa4356e2"
+          "name": "sinners-in-the-hands-of-an-angry-god-v10-compare.html",
+          "bytes": 650002,
+          "sha256": "3a252c41d68a3f9f5cd48deafd4560a37773f759a5020b4995c4dd967e27fccb"
+        }
+      ]
+    },
+    {
+      "book": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god",
+      "unit": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/modern",
+      "edition": "modern",
+      "folder": "sinners-in-the-hands-of-an-angry-god",
+      "title": "Sinners in the Hands of an Angry God (Modern English)",
+      "author": "Jonathan Edwards",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Edwards's Enfield sermon (1741) from its second edition, in modern spelling, a small hand-out book quoting scripture from the Berean Standard Bible (two KJV quotations kept where Edwards builds on their words).",
+      "based_on": "v10",
+      "signed_off": {
+        "tag": "jonathan-edwards/sinners-in-the-hands-of-an-angry-god/modern/v2",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v10 (jonathan-edwards/sinners-in-the-hands-of-an-angry-god/v10).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v2-modern.pdf",
+          "bytes": 414042,
+          "sha256": "ddbe6cb0d84b8ce4804e364e94d2eb19d986afdca0bd3986d784006cc6beae7d"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v2-cover-modern.pdf",
+          "bytes": 98976,
+          "sha256": "c7316a3d0035455af2b3a07eeb63af5c2cc0597f91441085c15bbbd52bee3c8e"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v2-cover-modern-front.png",
+          "bytes": 62533,
+          "sha256": "8fe4ce609b88e2472ca0896e3a762047e4710afb6376156609f3df2bcf6ddf45"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v2-modern.epub",
+          "bytes": 283673,
+          "sha256": "a0b8c5cd7bb2b04acf3f7bb3119d24a098196febd896ca92ef58f04b9a2ae0b4"
+        },
+        {
+          "name": "sinners-in-the-hands-of-an-angry-god-v2-modern-reader.html",
+          "bytes": 417142,
+          "sha256": "0a43a6fa016b84ae6b6e093128b3fd04d801a786f929633c2f1fd074e3761f98"
         }
       ]
     },
     {
       "book": "richard-sibbes/the-glorious-feast-of-the-gospel",
+      "unit": "richard-sibbes/the-glorious-feast-of-the-gospel",
+      "edition": "classic",
       "folder": "the-glorious-feast-of-the-gospel",
       "title": "The Glorious Feast of the Gospel",
       "author": "Richard Sibbes",
-      "version": "v14",
+      "version": "v16",
+      "lulu_revision": 16,
       "summary": "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.",
       "signed_off": {
-        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v14",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/v16",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1039,12 +1650,12 @@
       ],
       "coverage": {
         "words": 56190,
-        "form": 13236,
+        "form": 13235,
         "grammar": 53,
-        "wording": 1117,
-        "added": 821,
-        "removed": 355,
-        "by_editor": 6743,
+        "wording": 1121,
+        "added": 822,
+        "removed": 356,
+        "by_editor": 6745,
         "by_machine": 9276,
         "gaps": 12,
         "restored": 12,
@@ -1058,53 +1669,108 @@
       },
       "files": [
         {
-          "name": "the-glorious-feast-of-the-gospel-v14.pdf",
-          "bytes": 947927,
-          "sha256": "a48bef6b67596dffc2d7340eb2c662c134cfa6ea4031a06a02d9b593ac77f37f"
+          "name": "the-glorious-feast-of-the-gospel-v16.pdf",
+          "bytes": 949332,
+          "sha256": "f5299131f65ba608fd58c42e352095e0f96ea98fb4be69162339e461cf9b5c01"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14-cover.pdf",
-          "bytes": 132101,
-          "sha256": "490b22260f29690fbb97fe36e3022dd26bd393aa012cf9ffc1cfeaaef1764c40"
+          "name": "the-glorious-feast-of-the-gospel-v16-cover.pdf",
+          "bytes": 132014,
+          "sha256": "c144e2fba2a33ae98d322f7a8f7dc6b119fe40391949d65972167f1a658683ac"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14-cover-front.png",
-          "bytes": 177555,
-          "sha256": "a57fe8eff2d0dd0641e5d6f5e5910c6087349a089e277b242d98142d108fae71"
+          "name": "the-glorious-feast-of-the-gospel-v16-cover-front.png",
+          "bytes": 177808,
+          "sha256": "5efc2519ee6fc24b6811cd59fe50dc83ce33cdd117b5e8152898882e5ea985bb"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14-cover-front.png",
-          "bytes": 177555,
-          "sha256": "a57fe8eff2d0dd0641e5d6f5e5910c6087349a089e277b242d98142d108fae71"
+          "name": "the-glorious-feast-of-the-gospel-v16-cover-front.png",
+          "bytes": 177808,
+          "sha256": "5efc2519ee6fc24b6811cd59fe50dc83ce33cdd117b5e8152898882e5ea985bb"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14.epub",
-          "bytes": 493482,
-          "sha256": "9d263073f076e6555623028a6200e2735e6a7a7dc76ad42182cc013753024f3b"
+          "name": "the-glorious-feast-of-the-gospel-v16.epub",
+          "bytes": 493896,
+          "sha256": "77fcf28018ef3e3dad2ed4afef9cdc4652f9f1381961ee4dc581e0ec635145f1"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14-reader.html",
-          "bytes": 818470,
-          "sha256": "072be62ead108cad7c0b221f318c932f8d390dd9eb66ad984afbba96a73fafa4"
+          "name": "the-glorious-feast-of-the-gospel-v16-reader.html",
+          "bytes": 819078,
+          "sha256": "594867206d4a6016061b72b174b8ee0f8267ce90b378f82ac77150fe2b668e66"
         },
         {
-          "name": "the-glorious-feast-of-the-gospel-v14-compare.html",
-          "bytes": 4190472,
-          "sha256": "3669064e242ce8e27a103e762592d710164fd2dee0ae81e117032970bb9d7da2"
+          "name": "the-glorious-feast-of-the-gospel-v16-compare.html",
+          "bytes": 4190867,
+          "sha256": "8949033626c3b03e97b771f69a43b303fd99962e691100f2f290f845389a4c47"
+        }
+      ]
+    },
+    {
+      "book": "richard-sibbes/the-glorious-feast-of-the-gospel",
+      "unit": "richard-sibbes/the-glorious-feast-of-the-gospel/modern",
+      "edition": "modern",
+      "folder": "the-glorious-feast-of-the-gospel",
+      "title": "The Glorious Feast of the Gospel (Modern English)",
+      "author": "Richard Sibbes",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spelling; an earlier copy's misprints and dropped words corrected against the 1650 text, and its Greek and illegible places restored from the page images.",
+      "based_on": "v16",
+      "signed_off": {
+        "tag": "richard-sibbes/the-glorious-feast-of-the-gospel/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v16 (richard-sibbes/the-glorious-feast-of-the-gospel/v16).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-glorious-feast-of-the-gospel-v1-modern.pdf",
+          "bytes": 988384,
+          "sha256": "2028381d8cf20b22e63937a89426cd406bd8ffc7a53289a9a059a84cd74d963e"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v1-cover-modern.pdf",
+          "bytes": 134540,
+          "sha256": "6c46859e31f96827a9e269b064883ab513d158cf0ed1104473d0b8943977b71c"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v1-cover-modern-front.png",
+          "bytes": 181109,
+          "sha256": "3cb14859d00a8175ce41a47636269a5d5dfe007f0dd8416656f509e6720ad44e"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v1-modern.epub",
+          "bytes": 498533,
+          "sha256": "09c9702c16f765bd18bd44d1019da5680d6d216b443e08189cde2a9c967337c8"
+        },
+        {
+          "name": "the-glorious-feast-of-the-gospel-v1-modern-reader.html",
+          "bytes": 827327,
+          "sha256": "0fc1bf5403b5dcdadc0aa331919d2639957d72d48f8698eb2617b69fc4ecde24"
         }
       ]
     },
     {
       "book": "thomas-boston/the-crook-in-the-lot",
+      "unit": "thomas-boston/the-crook-in-the-lot",
+      "edition": "classic",
       "folder": "the-crook-in-the-lot",
       "title": "The Crook in the Lot",
       "author": "Thomas Boston",
-      "version": "v1",
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.",
       "signed_off": {
-        "tag": "thomas-boston/the-crook-in-the-lot/v1",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "thomas-boston/the-crook-in-the-lot/v2",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1141,12 +1807,12 @@
       ],
       "coverage": {
         "words": 47445,
-        "form": 1186,
+        "form": 1181,
         "grammar": 1,
-        "wording": 52,
-        "added": 8,
-        "removed": 5,
-        "by_editor": 1692,
+        "wording": 65,
+        "added": 11,
+        "removed": 11,
+        "by_editor": 1710,
         "by_machine": 921,
         "gaps": 0,
         "restored": 0,
@@ -1160,53 +1826,108 @@
       },
       "files": [
         {
-          "name": "the-crook-in-the-lot-v1.pdf",
-          "bytes": 945424,
-          "sha256": "e7bc3d0a34b4d2883d2f9eee71fd40d1e717eadc90fa8df38788be4531f5ff3d"
+          "name": "the-crook-in-the-lot-v2.pdf",
+          "bytes": 945379,
+          "sha256": "b4b9bf08413bd5d51d5c767a2b32ef03933c45ba9ff53442c36f099a4246125c"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover.pdf",
-          "bytes": 1587646,
-          "sha256": "56cf187d4a3cdaba0fbc83f2a1faba9d2b6bacd310b03c48e10df4ebd1519779"
+          "name": "the-crook-in-the-lot-v2-cover.pdf",
+          "bytes": 5721935,
+          "sha256": "54aafd444c8f7ee1bde20c589e3861f803c81de5f2ca2dbda8172630361e7add"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover-front.png",
-          "bytes": 1329783,
-          "sha256": "290161124ddabb9bc946d3b5085477fb84fb5e73a734264e48badc8cf17d9784"
+          "name": "the-crook-in-the-lot-v2-cover-front.png",
+          "bytes": 1329941,
+          "sha256": "3a7a64145b975ee819ef3c4377449c3dfdb59eee422b4440e381ac5165702f7b"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover-front.png",
-          "bytes": 1329783,
-          "sha256": "290161124ddabb9bc946d3b5085477fb84fb5e73a734264e48badc8cf17d9784"
+          "name": "the-crook-in-the-lot-v2-cover-front.png",
+          "bytes": 1329941,
+          "sha256": "3a7a64145b975ee819ef3c4377449c3dfdb59eee422b4440e381ac5165702f7b"
         },
         {
-          "name": "the-crook-in-the-lot-v1.epub",
-          "bytes": 1633977,
-          "sha256": "cf9cc820d1679fdd3725d25bac8d9dcfcb290c2a58e21a3c2b633dd1b7c1ad5d"
+          "name": "the-crook-in-the-lot-v2.epub",
+          "bytes": 1634303,
+          "sha256": "56b4c902200d149be79787ba1390de06b2b1c41049119c9d31fde11c8712b096"
         },
         {
-          "name": "the-crook-in-the-lot-v1-reader.html",
-          "bytes": 2326779,
-          "sha256": "2ce3ba6c52044a6c7578f0d12b7df99aa18dc8def069adabdf9511b46e92929a"
+          "name": "the-crook-in-the-lot-v2-reader.html",
+          "bytes": 2327280,
+          "sha256": "3a13b6265289d0bd930999222a4bc1c0a4eacb1aade9fe56150f034b77f2f088"
         },
         {
-          "name": "the-crook-in-the-lot-v1-compare.html",
-          "bytes": 1172170,
-          "sha256": "9da93b9be8e8f010b1f4080530f43be4feba2c6fbddf5f1450ad8e7b5118cb0a"
+          "name": "the-crook-in-the-lot-v2-compare.html",
+          "bytes": 1176053,
+          "sha256": "17f723f5bcbb6dc5635dffd756dc13b24ed9c4d983a279957c4d3dfda19be4ae"
+        }
+      ]
+    },
+    {
+      "book": "thomas-boston/the-crook-in-the-lot",
+      "unit": "thomas-boston/the-crook-in-the-lot/modern",
+      "edition": "modern",
+      "folder": "the-crook-in-the-lot",
+      "title": "The Crook in the Lot (Modern English)",
+      "author": "Thomas Boston",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.",
+      "based_on": "v2",
+      "signed_off": {
+        "tag": "thomas-boston/the-crook-in-the-lot/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v2 (thomas-boston/the-crook-in-the-lot/v2).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-crook-in-the-lot-v1-modern.pdf",
+          "bytes": 1004106,
+          "sha256": "bdfc2e0f8c0d2736b7c6955c5148336dd58311bed706a8d78e8871b6e4afb86c"
+        },
+        {
+          "name": "the-crook-in-the-lot-v1-cover-modern.pdf",
+          "bytes": 1590250,
+          "sha256": "b1c3627878e7d74b5c06dc3f2f9ad4bf820fdfb26d7240ba3fe4ab975ce7b9e5"
+        },
+        {
+          "name": "the-crook-in-the-lot-v1-cover-modern-front.png",
+          "bytes": 1331832,
+          "sha256": "12148f348e3716f7b9cb88ffebf66d263a6cdf68ded85f67eef23f2d85b3949e"
+        },
+        {
+          "name": "the-crook-in-the-lot-v1-modern.epub",
+          "bytes": 1636887,
+          "sha256": "43199c78b66d8bc19458a810cc60acc8c6079a086557bb41e4693e4cb7507ff6"
+        },
+        {
+          "name": "the-crook-in-the-lot-v1-modern-reader.html",
+          "bytes": 2336676,
+          "sha256": "25d348e92f509b2a75330f0812404b3de807523cba7bd106267d67aa7499e492"
         }
       ]
     },
     {
       "book": "thomas-brooks/precious-remedies-against-satans-devices",
+      "unit": "thomas-brooks/precious-remedies-against-satans-devices",
+      "edition": "classic",
       "folder": "precious-remedies-against-satans-devices",
       "title": "Precious Remedies Against Satan’s Devices",
       "author": "Thomas Brooks",
-      "version": "v2",
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866).",
       "signed_off": {
-        "tag": "thomas-brooks/precious-remedies-against-satans-devices/v2",
-        "commit": "69b5ce857d4ca05644e8694c539e54561ca3bb92",
-        "date": "2026-11-03",
+        "tag": "thomas-brooks/precious-remedies-against-satans-devices/v3",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1241,13 +1962,13 @@
       ],
       "coverage": {
         "words": 102836,
-        "form": 23466,
+        "form": 23459,
         "grammar": 29,
-        "wording": 666,
-        "added": 335,
-        "removed": 440,
-        "by_editor": 3948,
-        "by_machine": 20338,
+        "wording": 693,
+        "added": 336,
+        "removed": 456,
+        "by_editor": 4001,
+        "by_machine": 20337,
         "gaps": 438,
         "restored": 438,
         "open": 0,
@@ -1256,59 +1977,114 @@
         "unchanged": 76.5,
         "form_pct": 22.8,
         "grammar_pct": 0.0,
-        "wording_pct": 0.6
+        "wording_pct": 0.7
       },
       "files": [
         {
-          "name": "precious-remedies-against-satans-devices-v2.pdf",
-          "bytes": 3281328,
-          "sha256": "c375661ed1b95a30f0859823b2086a287dbaa6068993f879cf6ee7cfb67fd786"
+          "name": "precious-remedies-against-satans-devices-v3.pdf",
+          "bytes": 3272736,
+          "sha256": "fd2dbccc156d1ce79070f15a781833c1bc31c9af7755e515e13aacad0802982c"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2-cover.pdf",
-          "bytes": 1345465,
-          "sha256": "df83ecf127c57f87bd07c9d49b5ec571e45aca81db38502e0d8e88056e92f48a"
+          "name": "precious-remedies-against-satans-devices-v3-cover.pdf",
+          "bytes": 1487621,
+          "sha256": "7c5ab3f75b72ec7df74fd61778ef60d8078d87c6b094818bc1878dd79d5b5a48"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2-cover-front.png",
-          "bytes": 382879,
-          "sha256": "d49168cb6b509d7c2c25aea38121bbae285d9046679681bd2e6314d148780158"
+          "name": "precious-remedies-against-satans-devices-v3-cover-front.png",
+          "bytes": 382905,
+          "sha256": "19701d6eb27e189a27eb2bb025896ffc898f981870151cd727f15ac88d8f2886"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2-cover-front.png",
-          "bytes": 382879,
-          "sha256": "d49168cb6b509d7c2c25aea38121bbae285d9046679681bd2e6314d148780158"
+          "name": "precious-remedies-against-satans-devices-v3-cover-front.png",
+          "bytes": 382905,
+          "sha256": "19701d6eb27e189a27eb2bb025896ffc898f981870151cd727f15ac88d8f2886"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2.epub",
-          "bytes": 859747,
-          "sha256": "ac4bcf197f42a4a3a34d3524264f105a3eedd0ddc827355195d14c5a48dc8f24"
+          "name": "precious-remedies-against-satans-devices-v3.epub",
+          "bytes": 860075,
+          "sha256": "45d776cb91bb493dfb6888757c9dfa11017274adf039ce053099bb421575c8d9"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2-reader.html",
-          "bytes": 1531448,
-          "sha256": "3e60a9639148ead1bf2674b0974e1d26129e00e0ba54fcef4affb02165a2c025"
+          "name": "precious-remedies-against-satans-devices-v3-reader.html",
+          "bytes": 1531642,
+          "sha256": "e5def8db50de1edd3a1e9210ed5edcecfb3d5fdf90e7f84773be5ee23fd96f0f"
         },
         {
-          "name": "precious-remedies-against-satans-devices-v2-compare.html",
-          "bytes": 6624944,
-          "sha256": "82ed659d3655ab6a3b82f81a564dd4292e91a7a7db3498132778b1a1a89bab68"
+          "name": "precious-remedies-against-satans-devices-v3-compare.html",
+          "bytes": 6639040,
+          "sha256": "0402e6b9f65c85b1b8e2e8681b3723c6da9b0ea6c3615f8e2ac19719a736abf6"
+        }
+      ]
+    },
+    {
+      "book": "thomas-brooks/precious-remedies-against-satans-devices",
+      "unit": "thomas-brooks/precious-remedies-against-satans-devices/modern",
+      "edition": "modern",
+      "folder": "precious-remedies-against-satans-devices",
+      "title": "Precious Remedies Against Satan’s Devices (Modern English)",
+      "author": "Thomas Brooks",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Brooks's Precious Remedies Against Satan's Devices from the second edition (1653, corrected and enlarged), lightly modernized, its lost Greek and Hebrew restored from the 1652 and 1658 printings and the text proofread twice against Grosart's edition (1866).",
+      "based_on": "v3",
+      "signed_off": {
+        "tag": "thomas-brooks/precious-remedies-against-satans-devices/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v3 (thomas-brooks/precious-remedies-against-satans-devices/v3).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "precious-remedies-against-satans-devices-v1-modern.pdf",
+          "bytes": 3211631,
+          "sha256": "6272ca5d133ff6db27bce8ab2d675d5d69fb302862150df7a1fea99a61edcc7f"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-cover-modern.pdf",
+          "bytes": 1348757,
+          "sha256": "6e8404b5994321f495c0540f3906239a4925a4a2397707fb03d1ba0040a62b44"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-cover-modern-front.png",
+          "bytes": 385968,
+          "sha256": "cb46e293d04094568cc074db7840331ee0a39867fe3d7fd1ee3e425b754e81bb"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-modern.epub",
+          "bytes": 860721,
+          "sha256": "c14b794b82ea053ab4828694c70a6afb8f50175c9f3c7f4d839130c7fc130384"
+        },
+        {
+          "name": "precious-remedies-against-satans-devices-v1-modern-reader.html",
+          "bytes": 1527818,
+          "sha256": "253dc96de5a1715f3e04c3b5e0df396eb0773cd1521b2eac27835902fc9cf2d5"
         }
       ]
     },
     {
       "book": "thomas-brooks/the-secret-key-of-heaven",
+      "unit": "thomas-brooks/the-secret-key-of-heaven",
+      "edition": "classic",
       "folder": "the-secret-key-of-heaven",
       "title": "The Secret Key of Heaven",
       "author": "Thomas Brooks",
-      "version": "v7.1",
+      "version": "v9",
+      "lulu_revision": 9,
       "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
       "signed_off": {
-        "tag": "thomas-brooks/the-secret-key-of-heaven/v7.1",
-        "commit": "f2406a95d74e09b794e2ad9d5e385dee8e90dbef",
-        "date": "2026-11-08",
+        "tag": "thomas-brooks/the-secret-key-of-heaven/v9",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
-        "note": "Print: the same as v7, page for page (Lulu revision 7).",
+        "note": "",
         "signature_verified": true
       },
       "carried": false,
@@ -1337,12 +2113,12 @@
       ],
       "coverage": {
         "words": 102975,
-        "form": 20937,
+        "form": 20934,
         "grammar": 76,
-        "wording": 4570,
-        "added": 2523,
+        "wording": 4569,
+        "added": 2521,
         "removed": 2027,
-        "by_editor": 16576,
+        "by_editor": 16571,
         "by_machine": 13246,
         "gaps": 72,
         "restored": 66,
@@ -1356,48 +2132,251 @@
       },
       "files": [
         {
-          "name": "the-secret-key-of-heaven-v7.1.epub",
-          "bytes": 454721,
-          "sha256": "f3a95fdaf978e7c50971aa4636f64005d56684f23763621360c7b4edcc613e05"
+          "name": "the-secret-key-of-heaven-v9.pdf",
+          "bytes": 1508537,
+          "sha256": "cc9474c5fe892a23b267c5d1a9608ad32f4a328681a115f9184bb180ac78ecc0"
         },
         {
-          "name": "the-secret-key-of-heaven-v7.pdf",
-          "bytes": 1504977,
-          "sha256": "83fb25b02fc067f30f1417e4c517d377491819cf597a91e84529bc406ccb15ea"
+          "name": "the-secret-key-of-heaven-v9-cover.pdf",
+          "bytes": 123866,
+          "sha256": "e7cd8ea4539faa7aec243e81ed8cbbe4b7558a463d4ce4704bd2bd73b80e15b6"
         },
         {
-          "name": "the-secret-key-of-heaven-v7-cover.pdf",
-          "bytes": 123946,
-          "sha256": "c0413f78187f2f8def8ac5d3eb20d2c29a636d2722b6e002b644c4f168261553"
+          "name": "the-secret-key-of-heaven-v9-cover-front.png",
+          "bytes": 62014,
+          "sha256": "b0e6cba4a3d02f4e698a3ac4bec1e24a0ac2ef953e7ee92921b26a1b94e2f49c"
         },
         {
-          "name": "the-secret-key-of-heaven-v7-cover-front.png",
-          "bytes": 62114,
-          "sha256": "962c563355db03ae109b7e8dd9b57ba63e8241b7d2b7ae53b6dfae4b299f9394"
+          "name": "the-secret-key-of-heaven-v9-cover-front.png",
+          "bytes": 62014,
+          "sha256": "b0e6cba4a3d02f4e698a3ac4bec1e24a0ac2ef953e7ee92921b26a1b94e2f49c"
         },
         {
-          "name": "the-secret-key-of-heaven-v7.1-reader.html",
-          "bytes": 851847,
-          "sha256": "2ba63703181332c2b5671aa07fb3e1d391229223fcc655afc996cf50e136f229"
+          "name": "the-secret-key-of-heaven-v9.epub",
+          "bytes": 454749,
+          "sha256": "ed078448d2a7cfb862dda88f5f8cc78ad71e7ef730645346405e62ee7e0e5be3"
         },
         {
-          "name": "the-secret-key-of-heaven-v7.1-compare.html",
-          "bytes": 7558699,
-          "sha256": "8c8c3f8e23edf985ed5d8b81a6c25f7c195f809e95b85e13dca3fbd4568f793d"
+          "name": "the-secret-key-of-heaven-v9-reader.html",
+          "bytes": 851988,
+          "sha256": "0fbd8c0d9e2598549c78bdc706896378f703f8cb4445b9ba9f7be5dc80fb0561"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v9-compare.html",
+          "bytes": 7557888,
+          "sha256": "22997bac549b0a1f6661b78f286a08e26f74fe5988b6968223583a630da2a17a"
+        }
+      ]
+    },
+    {
+      "book": "thomas-brooks/the-secret-key-of-heaven",
+      "unit": "thomas-brooks/the-secret-key-of-heaven/modern",
+      "edition": "modern",
+      "folder": "the-secret-key-of-heaven",
+      "title": "The Secret Key of Heaven (Modern English)",
+      "author": "Thomas Brooks",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Brooks's The Privie Key of Heaven (1665) in modern spelling, from an earlier copy corrected against the 1665 printing; its dropped clauses, Latin, Greek and Hebrew restored from the page images.",
+      "based_on": "v9",
+      "signed_off": {
+        "tag": "thomas-brooks/the-secret-key-of-heaven/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v9 (thomas-brooks/the-secret-key-of-heaven/v9).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-secret-key-of-heaven-v1-modern.pdf",
+          "bytes": 1661143,
+          "sha256": "fcdcd985195ffa7e291bea28b093380c7714f50b3e64d86ced3f91a0a93e7a43"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v1-cover-modern.pdf",
+          "bytes": 126645,
+          "sha256": "941b38e6cb701064dd99a342423bcc5e73ff68674e5c8f8c84bb4d27a3fd01f3"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v1-cover-modern-front.png",
+          "bytes": 65326,
+          "sha256": "29ca131a84c300b3bda4a9d5c1c1a0f15a23a4bb3ff0bf1804cacd1a3c0dab74"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v1-modern.epub",
+          "bytes": 457955,
+          "sha256": "5dbb3e3251e212bbf38dcf8825f3922127dc0b2e3757eecab861c2ae7f82574e"
+        },
+        {
+          "name": "the-secret-key-of-heaven-v1-modern-reader.html",
+          "bytes": 861511,
+          "sha256": "45c5e55dfbb05be1f93ecb23f850b1042389fe015750cccdb30de5ce3a71ad9c"
+        }
+      ]
+    },
+    {
+      "book": "thomas-gouge/the-surest-way-of-thriving",
+      "unit": "thomas-gouge/the-surest-way-of-thriving",
+      "edition": "classic",
+      "folder": "the-surest-way-of-thriving",
+      "title": "The Surest and Safest Way of Thriving",
+      "author": "Thomas Gouge",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Thomas Gouge's The Surest and Safest Way of Thriving (1673), on giving to the poor and to ministers, in modern spelling from the EEBO-TCP transcription of the first edition; its Greek restored from the 1676 printing.",
+      "signed_off": {
+        "tag": "thomas-gouge/the-surest-way-of-thriving/v2",
+        "commit": "352420046d08239f970ef997e0a811537bb542d6",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.15.0",
+      "sources": [
+        {
+          "file": "source/A41657.tcp.xml",
+          "description": "EEBO-TCP A41657: The Surest & Safest Way of Thriving, or, A Conviction of That Grand Mistake in Many, That What Is Given to the Poor Is a Loss to Their Estate (London, for William Rawlins, 1673)",
+          "url": "https://github.com/textcreationpartnership/A41657",
+          "sha256": "8e82bc0f604502a0e3d611f54ce4b2b3ccb45a97bb27ebe7525fcc8a32ada69e"
+        }
+      ],
+      "witnesses": [
+        {
+          "description": "The 1676 printing (London, Nevil Simmons), archive.org scan: the Greek the TCP left out, the stops it could not read, and the print's numbering, read on its page images; local OCR collated with the TCP",
+          "url": "https://archive.org/details/bim_early-english-books-1641-1700_the-surest-safest-way-_gouge-thomas_1676"
+        }
+      ],
+      "coverage": {
+        "words": 30283,
+        "form": 1890,
+        "grammar": 13,
+        "wording": 180,
+        "added": 20,
+        "removed": 81,
+        "by_editor": 933,
+        "by_machine": 1402,
+        "gaps": 23,
+        "restored": 23,
+        "open": 0,
+        "notes_added": 1,
+        "notes_dropped": 0,
+        "unchanged": 93.1,
+        "form_pct": 6.2,
+        "grammar_pct": 0.0,
+        "wording_pct": 0.6
+      },
+      "files": [
+        {
+          "name": "the-surest-way-of-thriving-v2.pdf",
+          "bytes": 855196,
+          "sha256": "5d70b3cbc84dd006c565c2c7d81c5f1ccd2ec7fa429a8ff310c0b0c9ce48d4c8"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-cover.pdf",
+          "bytes": 2619022,
+          "sha256": "3099aa10c3b7198681558efe3c8e1418327cc55e283f066159fa6e682a625e9d"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-cover-front.png",
+          "bytes": 839212,
+          "sha256": "5c6cdf1e3cb1dad5f13560c5f2ec2dbace803163f093bb5f9e76884eeb29a6e6"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-cover-front.png",
+          "bytes": 839212,
+          "sha256": "5c6cdf1e3cb1dad5f13560c5f2ec2dbace803163f093bb5f9e76884eeb29a6e6"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2.epub",
+          "bytes": 1121890,
+          "sha256": "af5857f57a8fa64ffa31a912f62d49e01609538c27963112c1b09fea036f0dc5"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-reader.html",
+          "bytes": 1606928,
+          "sha256": "613f158be2816fb83115a99951078c9e9ee4b1e66f7933475ec7c6b2c7eb2cff"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-compare.html",
+          "bytes": 912264,
+          "sha256": "9dad32e09b729727b8ccac78cf00296911b209e3a97361589835c65c5e7b7f53"
+        }
+      ]
+    },
+    {
+      "book": "thomas-gouge/the-surest-way-of-thriving",
+      "unit": "thomas-gouge/the-surest-way-of-thriving/modern",
+      "edition": "modern",
+      "folder": "the-surest-way-of-thriving",
+      "title": "The Surest and Safest Way of Thriving (Modern English)",
+      "author": "Thomas Gouge",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Thomas Gouge's The Surest and Safest Way of Thriving (1673), on giving to the poor and to ministers, in modern spelling from the EEBO-TCP transcription of the first edition; its Greek restored from the 1676 printing.",
+      "based_on": "v2",
+      "signed_off": {
+        "tag": "thomas-gouge/the-surest-way-of-thriving/modern/v2",
+        "commit": "9af327f259d5eddbc414413d26b85ffccbe1b09f",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v2 (thomas-gouge/the-surest-way-of-thriving/v2).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.15.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "the-surest-way-of-thriving-v2-modern.pdf",
+          "bytes": 913959,
+          "sha256": "31f8c651db2cfac7bf9a04f711379dac2f2834eda235c8e978f7da18b26c2e03"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-cover-modern.pdf",
+          "bytes": 2621287,
+          "sha256": "24c4dc4e70a56f36908a6b366510cf919591e376744f3d8a9954a2826cea8459"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-cover-modern-front.png",
+          "bytes": 842296,
+          "sha256": "85103dba51e3037ccdaf014ab44b24724e0dcdf3a03b1dadbaf4f3d14f5c7ed5"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-modern.epub",
+          "bytes": 1124879,
+          "sha256": "4d987c6560f3065a0ce2d6bd0631663c191fe5f82e6d3c5c89e5643f49aba589"
+        },
+        {
+          "name": "the-surest-way-of-thriving-v2-modern-reader.html",
+          "bytes": 1613194,
+          "sha256": "97c6e6494ff2316bc39d75b2cd166810577d42568bfaff6806bdd5aaa5dc3145"
         }
       ]
     },
     {
       "book": "thomas-watson/a-divine-cordial",
+      "unit": "thomas-watson/a-divine-cordial",
+      "edition": "classic",
       "folder": "a-divine-cordial",
       "title": "A Divine Cordial",
       "author": "Thomas Watson",
-      "version": "v2",
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost.",
       "signed_off": {
-        "tag": "thomas-watson/a-divine-cordial/v2",
-        "commit": "cbf6930ed25574d7949e00695ccb604356ad3212",
-        "date": "2026-11-10",
+        "tag": "thomas-watson/a-divine-cordial/v3",
+        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
+        "date": "2026-11-18",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1415,7 +2394,7 @@
           "file": "source/A65292.supplied.xml",
           "description": "Corrections to the TCP transcription from the 1663 page images (\"out\" for \"our\", \"dejected\", Latin misprints in the TCP, among others)",
           "url": "https://archive.org/details/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas_1663",
-          "sha256": "658278afc8387c8e7364fa7c302f3513f4d5d9a55fbb9cc974dc0e5a6b0a7981"
+          "sha256": "1a83a00f4688d4a916a6ff961f6ebf7e8cefa382a2716e225950a151807fb549"
         },
         {
           "file": "source/cordial.ccel.witness.xml",
@@ -1436,72 +2415,127 @@
       ],
       "coverage": {
         "words": 44881,
-        "form": 1542,
+        "form": 1538,
         "grammar": 0,
-        "wording": 209,
-        "added": 13,
-        "removed": 165,
-        "by_editor": 995,
-        "by_machine": 1184,
+        "wording": 249,
+        "added": 14,
+        "removed": 170,
+        "by_editor": 1027,
+        "by_machine": 1180,
         "gaps": 561,
         "restored": 561,
         "open": 0,
         "notes_added": 0,
         "notes_dropped": 20,
-        "unchanged": 96.1,
+        "unchanged": 96.0,
         "form_pct": 3.4,
         "grammar_pct": 0.0,
-        "wording_pct": 0.5
+        "wording_pct": 0.6
       },
       "files": [
         {
-          "name": "a-divine-cordial-v2.pdf",
-          "bytes": 1387739,
-          "sha256": "704c658e1cb88750e3999937e8116ce398a73db83ea0951a387d1f86d6deb341"
+          "name": "a-divine-cordial-v3.pdf",
+          "bytes": 1388835,
+          "sha256": "398bab299b42f83e5a567eec07d72ba9e5434dbb2ee4a501957b5b5d19ca9696"
         },
         {
-          "name": "a-divine-cordial-v2-cover.pdf",
-          "bytes": 622939,
-          "sha256": "76476d46e9c6edf1b3b25d40ed7d61864c5b4a5f2ae01d9ac6a52adbf930f014"
+          "name": "a-divine-cordial-v3-cover.pdf",
+          "bytes": 1841882,
+          "sha256": "07c34f2db7d05e98b5d38ed9901acf85c8faf4fa7a54531e20086d89cd373446"
         },
         {
-          "name": "a-divine-cordial-v2-cover-front.png",
-          "bytes": 540062,
-          "sha256": "6f49ead96c500f53365201c9f8998ea8956d25a15c33f26d3e451558e70da462"
+          "name": "a-divine-cordial-v3-cover-front.png",
+          "bytes": 540046,
+          "sha256": "9bea2c763cb78c920dcbf86ec5a9ca3e049e7593260f79bb6ec4f2475912fc7a"
         },
         {
-          "name": "a-divine-cordial-v2-cover-front.png",
-          "bytes": 540062,
-          "sha256": "6f49ead96c500f53365201c9f8998ea8956d25a15c33f26d3e451558e70da462"
+          "name": "a-divine-cordial-v3-cover-front.png",
+          "bytes": 540046,
+          "sha256": "9bea2c763cb78c920dcbf86ec5a9ca3e049e7593260f79bb6ec4f2475912fc7a"
         },
         {
-          "name": "a-divine-cordial-v2.epub",
-          "bytes": 868068,
-          "sha256": "c95c18daa8819213b1ee704998dd792c596f636296f79ba7ac36b8d9ca154e0d"
+          "name": "a-divine-cordial-v3.epub",
+          "bytes": 868700,
+          "sha256": "13fea76f2b8e0983f6c07ac02b501d2ab5d88c8f39b14f7773ec975b5b576bd5"
         },
         {
-          "name": "a-divine-cordial-v2-reader.html",
-          "bytes": 1302784,
-          "sha256": "96df2e58bad4033bb44259ec3e12c397bbb5566da1bf8d56e0556b8fedb62b37"
+          "name": "a-divine-cordial-v3-reader.html",
+          "bytes": 1321179,
+          "sha256": "cf4527e6fcf5ab4fe76d67c98a34eb5ba37de0045f9fa65f33e6d16146cd15ed"
         },
         {
-          "name": "a-divine-cordial-v2-compare.html",
-          "bytes": 1319330,
-          "sha256": "8d5ebe8008f759cb3c409b9362c3ef4498c24a0ddc461b542f667b4216aa863f"
+          "name": "a-divine-cordial-v3-compare.html",
+          "bytes": 1325426,
+          "sha256": "9e61a4864bc526315599fce9ab2085d9e18ec856071c069f8abbc70f8718c7b0"
+        }
+      ]
+    },
+    {
+      "book": "thomas-watson/a-divine-cordial",
+      "unit": "thomas-watson/a-divine-cordial/modern",
+      "edition": "modern",
+      "folder": "a-divine-cordial",
+      "title": "A Divine Cordial (Modern English)",
+      "author": "Thomas Watson",
+      "version": "v2",
+      "lulu_revision": 2,
+      "summary": "Thomas Watson's A Divine Cordial (1663), in modern spelling from the EEBO-TCP transcription of the first edition; Greek, Hebrew and illegible letters restored, and transcription slips corrected, from the 1663 page images, with the 1678 edition where the 1663 film is lost.",
+      "based_on": "v3",
+      "signed_off": {
+        "tag": "thomas-watson/a-divine-cordial/modern/v2",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v3 (thomas-watson/a-divine-cordial/v3).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "a-divine-cordial-v2-modern.pdf",
+          "bytes": 1389155,
+          "sha256": "9e50caac0ddba1bec3d389489f477cfbfa97d8fb83b07572c0e4efdac625f949"
+        },
+        {
+          "name": "a-divine-cordial-v2-cover-modern.pdf",
+          "bytes": 625347,
+          "sha256": "f7a2cfd640a38b0cbca25d4f0047c8150092e5f7126ca67446a8abdab7c04f53"
+        },
+        {
+          "name": "a-divine-cordial-v2-cover-modern-front.png",
+          "bytes": 543537,
+          "sha256": "75305119f1772c695f86d889598a03680cb6ca8d629af506c179c5e4c43306db"
+        },
+        {
+          "name": "a-divine-cordial-v2-modern.epub",
+          "bytes": 874437,
+          "sha256": "7978b84d6b4e11b9a715b4991d661ed468eb9fffc2b6b7347c9f7146246b623b"
+        },
+        {
+          "name": "a-divine-cordial-v2-modern-reader.html",
+          "bytes": 1332484,
+          "sha256": "a2cf6f8ab4affd6d3f6f3fe37ddf2eb3ffb3df01ec503e1d7f63e01fded662db"
         }
       ]
     },
     {
       "book": "william-gouge/domestical-duties",
+      "unit": "william-gouge/domestical-duties",
+      "edition": "classic",
       "folder": "domestical-duties",
       "title": "Of Domestical Duties",
       "author": "William Gouge",
-      "version": "v2",
+      "version": "v4",
+      "lulu_revision": 4,
       "summary": "Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied.",
       "signed_off": {
-        "tag": "william-gouge/domestical-duties/v2",
-        "commit": "f02d68a35cf124caec2d6bb899e5703a3d3e781b",
-        "date": "2026-11-03",
+        "tag": "william-gouge/domestical-duties/v4",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1542,17 +2576,17 @@
       ],
       "coverage": {
         "words": 290438,
-        "form": 73650,
+        "form": 73654,
         "grammar": 155,
-        "wording": 1205,
-        "added": 459,
-        "removed": 856,
-        "by_editor": 10689,
-        "by_machine": 68344,
+        "wording": 1256,
+        "added": 476,
+        "removed": 884,
+        "by_editor": 10745,
+        "by_machine": 68332,
         "gaps": 717,
         "restored": 717,
         "open": 0,
-        "notes_added": 7,
+        "notes_added": 8,
         "notes_dropped": 6,
         "unchanged": 74.2,
         "form_pct": 25.4,
@@ -1561,160 +2595,290 @@
       },
       "files": [
         {
-          "name": "domestical-duties-v2-vol-1.pdf",
-          "bytes": 3384878,
-          "sha256": "fce43391a051e585a1ceeb9f98a0235945439d0f7b35aec195c4d1bd5f98d0f3"
+          "name": "domestical-duties-v4-vol-1.pdf",
+          "bytes": 3387127,
+          "sha256": "c8d2e65a6fbc21593b9749d938893f59e7fa0a5329b72748fff24a307fa18c3f"
         },
         {
-          "name": "domestical-duties-v2-vol-2.pdf",
-          "bytes": 4351982,
-          "sha256": "42d5662558e780844b1a05f35ab2f2f0c69bb4761b9ad62c0c8d7b77b0c266d0"
+          "name": "domestical-duties-v4-vol-2.pdf",
+          "bytes": 4352134,
+          "sha256": "3de8d28d0d30f64efc10c1f553b3a8639e9622a160c6d74922fdc3cd0fe375f8"
         },
         {
-          "name": "domestical-duties-v2-vol-3.pdf",
-          "bytes": 2973296,
-          "sha256": "9c05f2903e7953cc18b662b2d610e05f8af4c666bb9e8a9fb10a090626d6d67f"
+          "name": "domestical-duties-v4-vol-3.pdf",
+          "bytes": 2976076,
+          "sha256": "430d842f1041d9f8923a9b611c046c4826650524b57ba7504ae5a24d65042a25"
         },
         {
-          "name": "domestical-duties-v2-vol-4.pdf",
-          "bytes": 2360680,
-          "sha256": "9e0948647cee009c94dec6c899b69737f8d9de9ec7a38c867d4f9ba01d711a56"
+          "name": "domestical-duties-v4-vol-4.pdf",
+          "bytes": 2360690,
+          "sha256": "3aa704706d0f1ac8cd00c738bb663913cedc97740e808eb3f487f0559b00a193"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-1.pdf",
-          "bytes": 138259,
-          "sha256": "c5399dbc5cbe0940e88b6d8a728733cfa906083c77f593e913750c61bd28976b"
+          "name": "domestical-duties-v4-cover-vol-1.pdf",
+          "bytes": 135783,
+          "sha256": "7eb2ec10ee9f59d3aad229cec4faed6a6e577ac411c752b52aac97654ee1b940"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-2.pdf",
-          "bytes": 136582,
-          "sha256": "c2ac89580cdee5f79a58a9d606e9913a322b4484af3d981b8bf721d9ec8c9527"
+          "name": "domestical-duties-v4-cover-vol-2.pdf",
+          "bytes": 136114,
+          "sha256": "b68b0fd3bc64b414a826bd07eed4be0a7f26839f3ad9c1acffbc962f8d083935"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-3.pdf",
-          "bytes": 136934,
-          "sha256": "b3a0b39d94affae66d14c3be868b48bbc8aa3155dfc3adb8e915f3e094892f38"
+          "name": "domestical-duties-v4-cover-vol-3.pdf",
+          "bytes": 134617,
+          "sha256": "00219ee53bae28aedbde3033adba5292efe9dc485f1c6734e9a5d97b08ab4cad"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-4.pdf",
-          "bytes": 138073,
-          "sha256": "f0d62ccfc0888c568c66d154e832fb32a6eddafb21ac6b621d7b04267053e63e"
+          "name": "domestical-duties-v4-cover-vol-4.pdf",
+          "bytes": 134935,
+          "sha256": "fe11b1a8a28ce61da26fb8c11dddf417bf7f194276fcd7752894b5033becbe84"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-1-front.png",
-          "bytes": 183340,
-          "sha256": "83f9a6a96f5911d3c0170d9de57bc5b68c810c8a15514d8a0f06ebb6a4450aa4"
+          "name": "domestical-duties-v4-cover-vol-1-front.png",
+          "bytes": 118584,
+          "sha256": "572b7aad31d04db358217c9c2aff99d30015680edf6456a8708ce377f00025f4"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-2-front.png",
-          "bytes": 185639,
-          "sha256": "4ea0becddd057bd335039fdb26292196a8d87c582311f90d522d545f390b8b46"
+          "name": "domestical-duties-v4-cover-vol-2-front.png",
+          "bytes": 131319,
+          "sha256": "9876a3d875c03b360a1ac2d37b8cef66b12da3d09abc13566230228d36bc8c38"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-3-front.png",
-          "bytes": 183194,
-          "sha256": "bb9cc260794fd1465eb6cd3b8550e776c1751dfed1560c494ac1111abc4e7368"
+          "name": "domestical-duties-v4-cover-vol-3-front.png",
+          "bytes": 111862,
+          "sha256": "8965f16a555bbb402f60c9e59f8e17eee57d7391dffe858b7ab17841a8e4f09a"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-4-front.png",
-          "bytes": 183594,
-          "sha256": "7a649ab222063f29dfa2990843b61bd64b1d9e572c7f8a4bb46d25df632969d0"
+          "name": "domestical-duties-v4-cover-vol-4-front.png",
+          "bytes": 110478,
+          "sha256": "8945748145be9b3657b2aefaab0a4e860e8aa1a7ea34d601804fb8f1c4b29d17"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-1-front.png",
-          "bytes": 183340,
-          "sha256": "83f9a6a96f5911d3c0170d9de57bc5b68c810c8a15514d8a0f06ebb6a4450aa4"
+          "name": "domestical-duties-v4-cover-vol-1-front.png",
+          "bytes": 118584,
+          "sha256": "572b7aad31d04db358217c9c2aff99d30015680edf6456a8708ce377f00025f4"
         },
         {
-          "name": "domestical-duties-v2-vol-1.epub",
-          "bytes": 583417,
-          "sha256": "36c78480741b6969f40f32635abf9030d6df61c40d7c6e9ba34d604e551dea30"
+          "name": "domestical-duties-v4-vol-1.epub",
+          "bytes": 514707,
+          "sha256": "8487cde8e8da3583b0dcc35520c91ee16166271a6f51df12636a6c77f9687b6e"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-2-front.png",
-          "bytes": 185639,
-          "sha256": "4ea0becddd057bd335039fdb26292196a8d87c582311f90d522d545f390b8b46"
+          "name": "domestical-duties-v4-cover-vol-2-front.png",
+          "bytes": 131319,
+          "sha256": "9876a3d875c03b360a1ac2d37b8cef66b12da3d09abc13566230228d36bc8c38"
         },
         {
-          "name": "domestical-duties-v2-vol-2.epub",
-          "bytes": 679924,
-          "sha256": "d1670093f79a970645a697961d34068f96155ca3e7088b33fb3d9ff474dca93e"
+          "name": "domestical-duties-v4-vol-2.epub",
+          "bytes": 621742,
+          "sha256": "6e0a0ed8884af46da3cb5f260d55bdc8bdd18e6c329821f4871bd1c950c3286c"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-3-front.png",
-          "bytes": 183194,
-          "sha256": "bb9cc260794fd1465eb6cd3b8550e776c1751dfed1560c494ac1111abc4e7368"
+          "name": "domestical-duties-v4-cover-vol-3-front.png",
+          "bytes": 111862,
+          "sha256": "8965f16a555bbb402f60c9e59f8e17eee57d7391dffe858b7ab17841a8e4f09a"
         },
         {
-          "name": "domestical-duties-v2-vol-3.epub",
-          "bytes": 575184,
-          "sha256": "c86231f14a34562d6d819bc8b3f994d862d97b2a5c0425082765c23a5f838827"
+          "name": "domestical-duties-v4-vol-3.epub",
+          "bytes": 500420,
+          "sha256": "6013899a8902f7ab4957f9bfbc5dc36baff4d15b32bffc3424890d92685ef7ca"
         },
         {
-          "name": "domestical-duties-v2-cover-vol-4-front.png",
-          "bytes": 183594,
-          "sha256": "7a649ab222063f29dfa2990843b61bd64b1d9e572c7f8a4bb46d25df632969d0"
+          "name": "domestical-duties-v4-cover-vol-4-front.png",
+          "bytes": 110478,
+          "sha256": "8945748145be9b3657b2aefaab0a4e860e8aa1a7ea34d601804fb8f1c4b29d17"
         },
         {
-          "name": "domestical-duties-v2-vol-4.epub",
-          "bytes": 533663,
-          "sha256": "3f064c172722ed4df9864adb3387e2db29534e1db0acc84c97b927549fdfcee8"
+          "name": "domestical-duties-v4-vol-4.epub",
+          "bytes": 456669,
+          "sha256": "d13d8d23ba0982865f7b51a5fff3e3dae664df54712a7c53bbf3e020166869ab"
         },
         {
-          "name": "domestical-duties-v2-vol-1-reader.html",
-          "bytes": 1173857,
-          "sha256": "21d86ce013c912b6da94be90624fd86e2eb8b7dcea4cda917138eb2d5036735e"
+          "name": "domestical-duties-v4-vol-1-reader.html",
+          "bytes": 1087735,
+          "sha256": "f2d161cfd62fca5385f7c56cc2471465f94e1f91116aeb79294609a701019494"
         },
         {
-          "name": "domestical-duties-v2-vol-1-compare.html",
-          "bytes": 5356351,
-          "sha256": "e16f1e0a43a888b701c9b378e3f1153d366ce7bc3e98c6d685822c90d92a48e5"
+          "name": "domestical-duties-v4-vol-1-compare.html",
+          "bytes": 5358502,
+          "sha256": "abc6a8bd79c693633a73ea2e142c680912ca34820f98f5feb3099b95c1e5b9ef"
         },
         {
-          "name": "domestical-duties-v2-vol-2-reader.html",
-          "bytes": 1448060,
-          "sha256": "adcaaca49d00dde624e241a9e01de87adaa24df47f571d016a05ddae79499adf"
+          "name": "domestical-duties-v4-vol-2-reader.html",
+          "bytes": 1375901,
+          "sha256": "0ae492daebbebe5c144a84afa920451c667b2901c9b604c637cb4cfc8c350323"
         },
         {
-          "name": "domestical-duties-v2-vol-2-compare.html",
-          "bytes": 7836964,
-          "sha256": "3ec30fb24d525e3b4e3933972b2f876e618188156673f58ac55582b94d2679e7"
+          "name": "domestical-duties-v4-vol-2-compare.html",
+          "bytes": 7837792,
+          "sha256": "de9eb5ba5454d603681290108ffc55298c44c778c226935bfd18a83a784fc4ad"
         },
         {
-          "name": "domestical-duties-v2-vol-3-reader.html",
-          "bytes": 1132829,
-          "sha256": "b5d17975c978eb1f8af927754ef37fbbc8a058eb2779ce93ec5171db749b7376"
+          "name": "domestical-duties-v4-vol-3-reader.html",
+          "bytes": 1038178,
+          "sha256": "e3af27bb775ccb3a79567da91608119f0b3fa132ae9ce35b56c274cf962bf33f"
         },
         {
-          "name": "domestical-duties-v2-vol-3-compare.html",
-          "bytes": 5031913,
-          "sha256": "5b9b9982792c58199793a7eed1f34f7e8c3c31bbbe25b189d1440871c79f757a"
+          "name": "domestical-duties-v4-vol-3-compare.html",
+          "bytes": 5035895,
+          "sha256": "b3f92597defc07d1d1a09e5b8945c07cbe7bb4cf4a4cd91da4ad19ccd988da32"
         },
         {
-          "name": "domestical-duties-v2-vol-4-reader.html",
-          "bytes": 989293,
-          "sha256": "215fc647d8f3efa2db1ef0ee069be40e9e6dd09a8ddf8064680e305c8b32ac65"
+          "name": "domestical-duties-v4-vol-4-reader.html",
+          "bytes": 892051,
+          "sha256": "e90f6ca8354cb6a7064b7ddb05af085ee0969832cb03a776cc857491857744dc"
         },
         {
-          "name": "domestical-duties-v2-vol-4-compare.html",
-          "bytes": 4124285,
-          "sha256": "feb93798485d5373b9216c14910c6fc3d1aa4657fbc896ca06c0573f47fe8739"
+          "name": "domestical-duties-v4-vol-4-compare.html",
+          "bytes": 4129195,
+          "sha256": "75c97971b1e9cec7900f386ec074bd713978abcad13d9c79b55bed215794e4d6"
+        }
+      ]
+    },
+    {
+      "book": "william-gouge/domestical-duties",
+      "unit": "william-gouge/domestical-duties/modern",
+      "edition": "modern",
+      "folder": "domestical-duties",
+      "title": "Of Domestical Duties (Modern English)",
+      "author": "William Gouge",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Gouge's Of Domesticall Duties (1622), all eight treatises in four volumes, in modern spelling with his wording kept; the transcription corrected against the 1622 page images, its Greek and Hebrew restored, six missing pages supplied from a second 1622 copy, and the printer's errata applied.",
+      "based_on": "v4",
+      "signed_off": {
+        "tag": "william-gouge/domestical-duties/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v4 (william-gouge/domestical-duties/v4).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.15.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "domestical-duties-v1-vol-1-modern.pdf",
+          "bytes": 3316108,
+          "sha256": "88e9b453e4022c232533754ab3fb00797f52f1106f5e21d8c4e9a0ad9c3f8728"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-modern.pdf",
+          "bytes": 4248274,
+          "sha256": "5f85ab2e090525020e30f62f8ef726bd186558625786809ff6765f8ee4f7e012"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-modern.pdf",
+          "bytes": 2899095,
+          "sha256": "c3fee83ac82e404108a2416c1a1aa3ca190d3d4016f0a0846efa89a058bf399e"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-modern.pdf",
+          "bytes": 2295486,
+          "sha256": "3d09efada49499118baab35ac6fc325845e2bdeddb558cc4812e110a152e0bbe"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-1-modern.pdf",
+          "bytes": 137442,
+          "sha256": "ce3349d176f0dd242cac20c5a76d6355fe90bdf0dc10b4718b1c37e9fc3e8601"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-2-modern.pdf",
+          "bytes": 137263,
+          "sha256": "d0a7aad102540b463ccc7ed42f745d2695ace435cea8f82c0107328ac4e69785"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-3-modern.pdf",
+          "bytes": 135359,
+          "sha256": "19f596fce5b66e25c795a2e8bfbfcd6b6ed43c5ce5d5821b86e87f52490d49c2"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-4-modern.pdf",
+          "bytes": 135893,
+          "sha256": "7ae57a0180748a0dd91f02defe045dca5a57ae4d9977ce2817e3ec14537fc53b"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-1-modern-front.png",
+          "bytes": 123601,
+          "sha256": "9c0caadb7b75dedc9fd4c234906d3d710ceb2f93ff47c391cc1bf578563e72a4"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-modern.epub",
+          "bytes": 520758,
+          "sha256": "f4957c97bd6e7827162b351d6044287519ef7c9c2ea0ebd9f42bf2a0e27e175f"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-2-modern-front.png",
+          "bytes": 135971,
+          "sha256": "c8525ca56838f105174a45f16fc4df082491f17bae2e09f736ba670cbc88ecbb"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-modern.epub",
+          "bytes": 628641,
+          "sha256": "40c6b3ee4076101722d173aacaa5e04a02c1b61c6bc5f7862673754a399594ba"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-3-modern-front.png",
+          "bytes": 116572,
+          "sha256": "d5e4d26113c55a48e9bca0ffee202b59d422932c4d5c81d254ededea9d2f3328"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-modern.epub",
+          "bytes": 506705,
+          "sha256": "379d362036f570ce01a32c12800addac05d639826fc198c51e2d45f2c4a0823e"
+        },
+        {
+          "name": "domestical-duties-v1-cover-vol-4-modern-front.png",
+          "bytes": 114888,
+          "sha256": "6e25a1b40c65d7452ee837dacbb816a5169933bf0d2db8e3e2624941d056d4a2"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-modern.epub",
+          "bytes": 461505,
+          "sha256": "c5c5d291ef883e0f33f4e59a015cb4a816d76aa6395530c56abe24831e6f0cfd"
+        },
+        {
+          "name": "domestical-duties-v1-vol-1-modern-reader.html",
+          "bytes": 1094264,
+          "sha256": "dd6168006339215ba832e1e7d5c56355762dde4ec9f2db16d1a3af636d725b43"
+        },
+        {
+          "name": "domestical-duties-v1-vol-2-modern-reader.html",
+          "bytes": 1385668,
+          "sha256": "a1b0fe29456f66059d33d911fb3a34ca4e01e875f585abb1574235f02dfae385"
+        },
+        {
+          "name": "domestical-duties-v1-vol-3-modern-reader.html",
+          "bytes": 1046433,
+          "sha256": "655b789df39623614032dd97873edd7370c66f1c6feed5f93e33f788e1d2e671"
+        },
+        {
+          "name": "domestical-duties-v1-vol-4-modern-reader.html",
+          "bytes": 896304,
+          "sha256": "e8522afb93accf4c0e3ca09531a843c6607b213c89590843cf35b876a071aa8b"
         }
       ]
     },
     {
       "book": "william-perkins/christian-economy",
+      "unit": "william-perkins/christian-economy",
+      "edition": "classic",
       "folder": "christian-economy",
       "title": "Christian Economy",
       "author": "William Perkins",
-      "version": "v3.2",
+      "version": "v5",
+      "lulu_revision": 5,
       "summary": "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images.",
       "signed_off": {
-        "tag": "william-perkins/christian-economy/v3.2",
-        "commit": "f2406a95d74e09b794e2ad9d5e385dee8e90dbef",
-        "date": "2026-11-08",
+        "tag": "william-perkins/christian-economy/v5",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
         "signer": "Courtney",
-        "note": "Print: changed since v3.1 (christian-economy.pdf: 67 page(s) differ: 7, 9, 10, 11, 12, 13, 18, 20, 21, 22, 24, 25 ...); not a Lulu revision.",
+        "note": "",
         "signature_verified": true
       },
       "carried": false,
@@ -1741,53 +2905,110 @@
       ],
       "coverage": {
         "words": 35568,
-        "form": 5955,
+        "form": 5951,
         "grammar": 10,
-        "wording": 88,
-        "added": 45,
-        "removed": 46,
-        "by_editor": 1508,
-        "by_machine": 4934,
+        "wording": 113,
+        "added": 49,
+        "removed": 48,
+        "by_editor": 1530,
+        "by_machine": 4933,
         "gaps": 39,
         "restored": 39,
         "open": 0,
         "notes_added": 0,
         "notes_dropped": 1,
-        "unchanged": 83.0,
+        "unchanged": 82.9,
         "form_pct": 16.7,
         "grammar_pct": 0.0,
-        "wording_pct": 0.2
+        "wording_pct": 0.3
       },
       "files": [
         {
-          "name": "christian-economy-v3.2.epub",
-          "bytes": 1141176,
-          "sha256": "74b42aa177fcd9a32a33408ba514d319a1428bd6a9fe19fb854230ae0144f5bf"
+          "name": "christian-economy-v5.pdf",
+          "bytes": 996510,
+          "sha256": "6e08cbeef4c936985188bc6440a71c80e377f65771ec8d05ada3bd1436e9910b"
         },
         {
-          "name": "christian-economy-v3.pdf",
-          "bytes": 996501,
-          "sha256": "aeba39d4365e62dcc05e91b9071bbff82d4e40d0aba389cd84d757cd193ff960"
+          "name": "christian-economy-v5-cover.pdf",
+          "bytes": 2923387,
+          "sha256": "c6a4c90aa978a4d6d32ff421b90ecf134168cf8931c15174046d3a2c7bb8657c"
         },
         {
-          "name": "christian-economy-v3-cover.pdf",
-          "bytes": 1620197,
-          "sha256": "bc0c22c13fd5e6712136eb42744a4abb578e7ef9bd63edbc3b3ead1bbe3730ed"
+          "name": "christian-economy-v5-cover-front.png",
+          "bytes": 842918,
+          "sha256": "d0ad1560dce88f7f9c22f3e967db9fc9cd1d945a9b34f986ea13d9bfab7250c8"
         },
         {
-          "name": "christian-economy-v3-cover-front.png",
-          "bytes": 842403,
-          "sha256": "640bbe5b6ade05f81fad38e615696303a4c79eb42253c99fd688539205e81697"
+          "name": "christian-economy-v5-cover-front.png",
+          "bytes": 842918,
+          "sha256": "d0ad1560dce88f7f9c22f3e967db9fc9cd1d945a9b34f986ea13d9bfab7250c8"
         },
         {
-          "name": "christian-economy-v3.2-reader.html",
-          "bytes": 1634132,
-          "sha256": "08524d6de6948b6fda6beebb8f56bddba58dad6f776d7cab2f4e9c0260b877a6"
+          "name": "christian-economy-v5.epub",
+          "bytes": 1141746,
+          "sha256": "467722638654a5e3dde937d4c2f43b27a57a36084b3108d8d2d4e3cffcbdca3a"
         },
         {
-          "name": "christian-economy-v3.2-compare.html",
-          "bytes": 1868654,
-          "sha256": "1303b1a6a7c8edd94ced97ddb8a5939be76db5c1d1219a12d539293f31f21ce2"
+          "name": "christian-economy-v5-reader.html",
+          "bytes": 1635090,
+          "sha256": "d8bd9a132174a5fccc324e11ac1b9c8408a150d7b7cebadb63d90ce7b6f04f0e"
+        },
+        {
+          "name": "christian-economy-v5-compare.html",
+          "bytes": 1873209,
+          "sha256": "a3eda782c181dcdfec8c06cdbbf1741e3c24963b3826524805f93ed59a5f013c"
+        }
+      ]
+    },
+    {
+      "book": "william-perkins/christian-economy",
+      "unit": "william-perkins/christian-economy/modern",
+      "edition": "modern",
+      "folder": "christian-economy",
+      "title": "Christian Economy (Modern English)",
+      "author": "William Perkins",
+      "version": "v1",
+      "lulu_revision": 1,
+      "summary": "Perkins's Christian Oeconomie (1609), translated from the Latin by Thomas Pickering, in modern spelling from the EEBO-TCP transcription; footnotes kept in the original spelling; readings corrected and words the transcription left out restored from the 1609 page images.",
+      "based_on": "v5",
+      "signed_off": {
+        "tag": "william-perkins/christian-economy/modern/v1",
+        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
+        "date": "2026-11-22",
+        "signer": "Courtney",
+        "note": "Based on: the Classic v5 (william-perkins/christian-economy/v5).",
+        "signature_verified": true
+      },
+      "carried": false,
+      "template": "fgbooks 0.14.0",
+      "sources": [],
+      "witnesses": [],
+      "coverage": null,
+      "files": [
+        {
+          "name": "christian-economy-v1-modern.pdf",
+          "bytes": 934687,
+          "sha256": "7f17023988d8eefa7e5e431f8e9efc1e7aaf8899501bd1a644909389328c44f3"
+        },
+        {
+          "name": "christian-economy-v1-cover-modern.pdf",
+          "bytes": 1622204,
+          "sha256": "de06478f08ae6773c2256b0cbe48169a826a5fcf5af23fe5748699a8ad0c6649"
+        },
+        {
+          "name": "christian-economy-v1-cover-modern-front.png",
+          "bytes": 846435,
+          "sha256": "dee94c58c099803fe135483874741f40eceb8bd6941d0ec01622c4135e3d753f"
+        },
+        {
+          "name": "christian-economy-v1-modern.epub",
+          "bytes": 1144121,
+          "sha256": "afa7e2e8030a5cb410b283de81cb7147319b1bed4f5090cf9c87054dda39459e"
+        },
+        {
+          "name": "christian-economy-v1-modern-reader.html",
+          "bytes": 1636588,
+          "sha256": "f9b475b3155d04001e9126e852d38f715885a8e9dcd77af41cc7f7e20f9214c7"
         }
       ]
     }

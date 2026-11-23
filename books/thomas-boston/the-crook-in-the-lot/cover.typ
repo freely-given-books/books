@@ -17,7 +17,9 @@
 // heather to the dawn's warmth, then the pale land
 #let ground = ((rgb("#DDD9E8"), 0%), (rgb("#E7DCE0"), 15%), (rgb("#EFDECC"), 30%), (rgb("#E6DEC8"), 42%), (rgb("#E4E0D0"), 70%), (rgb("#ECE8DC"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.jpg", encoding: none),
   // full width to the bleed, raised so the near hill's grass ends above the
   // press's seal
@@ -45,3 +47,5 @@
   // drops the barcode into on the back cover.
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

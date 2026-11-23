@@ -18,11 +18,14 @@
 // toward the mountain, then cold snow below.
 #let ground = ((rgb("#C3E3FC"), 0%), (rgb("#C8E5FA"), 20%), (rgb("#F2EED8"), 34%), (rgb("#E6ECF2"), 66%), (rgb("#ECF4FC"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.jpg", encoding: none),
   // the scene lowered 0.8in under extended sky (tint.py), its top band clear
   // for the title; the foot of plain snow runs into the bleed
-  plate-at: (dx: -0.125in, dy: -0.72in, width: 5.75in, height: 10.02in),
+  // the Modern English label needs the ridge a little lower, clear of its line
+  plate-at: (dx: -0.125in, dy: if edition != none { -0.38in } else { -0.72in }, width: 5.75in, height: 10.02in),
   ground: ground,
   // under the plate's foot, its own snow colour, so no seam shows
   front-ground: rgb("#EFF6FC"),
@@ -51,3 +54,5 @@
   ],
   epigraph-source: [Grace Abounding, §55],
 )
+
+#cover()

@@ -2,19 +2,20 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 654 |
+| punctuation | 650 |
 | italic | 350 |
+| emendation | 222 |
 | level | 208 |
-| emendation | 196 |
-| spelling | 131 |
+| spelling | 136 |
 | heading | 32 |
+| spacing | 20 |
 | note | 20 |
 | note moved | 15 |
-| spacing | 13 |
 | split | 11 |
 | list | 10 |
 | merge | 10 |
-| gap | 3 |
+| gap | 4 |
+| case | 1 |
 | skipped | 1 |
 
 ## split
@@ -37,6 +38,7 @@
 
 ## gap
 
+- [chapter-03.typ] unction → unctione
 - [chapter-06.typ] Chance-medly, is nothing → Chance-medley, is nothing
 - [chapter-07.typ] χρηστεύεται → χρηστεύεται,
 - [chapter-14.typ note] exccole → excole
@@ -51,7 +53,6 @@
 - [chapter-02.typ] CHAP . II . → 
 - [chapter-02.typ] Tex ▪ → Text
 - [chapter-02.typ] Psal . → Ps
-- [chapter-03.typ note] Judg . → Judge 14:
 - [chapter-03.typ note] 14 . → 
 - [chapter-03.typ] CHAP . III . → 
 - [chapter-03.typ] Psal . → Ps
@@ -68,12 +69,15 @@
 - [chapter-03.typ] Joh . → John
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Psal . → Ps
-- [chapter-03.typ] Psal . → Ps
+- [chapter-03.typ] 119 → 11
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Thes . → Thess
 - [chapter-03.typ] dey → deje
 - [chapter-03.typ] Pro . → Prov
 - [chapter-03.typ] Thes . → Thess
+- [chapter-03.typ] Judge . → Judg
+- [chapter-03.typ] 24 → 22
+- [chapter-03.typ] 45 → 43
 - [chapter-03.typ] Mat . → Matt
 - [chapter-03.typ] Psal . → Ps
 - [chapter-03.typ] Mat . → Matt
@@ -87,6 +91,7 @@
 - [chapter-04.typ note] Psal . → Ps
 - [chapter-04.typ note] od → ad
 - [chapter-04.typ note] do → de
+- [chapter-04.typ note] Peccato rum → Peccatorum
 - [chapter-04.typ note] Ge hennalesfacit pullulare → Gehennales facit pullulare
 - [chapter-04.typ note] estpeccatum → est peccatum
 - [chapter-04.typ note] temporecum → tempore cum
@@ -94,20 +99,25 @@
 - [chapter-04.typ] SECTION I . Showing that the evil of affliction works for good to the Godly . → 
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] Psal . → Ps
+- [chapter-04.typ] 2 → 3
+- [chapter-04.typ] 8 . → 
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] I → Ay
 - [chapter-04.typ] SECTION II . Showing that the evil of Temptation works for good to the Godly . → 
+- [chapter-04.typ] Mark . → Matt
 - [chapter-04.typ] Phansy → Fancy
 - [chapter-04.typ] Joh . → John
 - [chapter-04.typ] Chron . → Chr
 - [chapter-04.typ] ample xus → amplexus
+- [chapter-04.typ] sense → fence
 - [chapter-04.typ] SECTION III . Showing that the evil of Desertion works for good to the Godly . → 
 - [chapter-04.typ] Cant . → Song
+- [chapter-04.typ] 9 → 4
 - [chapter-04.typ] Psal . → Ps
+- [chapter-04.typ] 6 → 16
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Vers . → Verse
 - [chapter-04.typ] Psal . → Ps
-- [chapter-04.typ] Judg . → Judge
 - [chapter-04.typ] Cant . → Song
 - [chapter-04.typ] Psal . → Ps
 - [chapter-04.typ] SECTION IV . Showing that the evil of sin works for good to the Godly . → 
@@ -122,27 +132,36 @@
 - [chapter-05.typ] CHAP . V . → 
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
+- [chapter-05.typ] 7 → 6
 - [chapter-05.typ] Ephes . → Eph
 - [chapter-05.typ] Cant . → Song
 - [chapter-05.typ] 16 → 6
 - [chapter-05.typ] Cant . → Song
+- [chapter-05.typ] Dan . → Deut
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] Psal . → Ps
 - [chapter-05.typ] 9 → 4
 - [chapter-06.typ] CHAP . VI . → 
 - [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] 13 → 19
 - [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] . Starve → starve
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Numb . → Num
-- [chapter-06.typ] Pro . → Prov
+- [chapter-06.typ] Pro . → Prov 15:
+- [chapter-06.typ] 15 . → 
 - [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] . 31 → :21, 22
+- [chapter-06.typ] 7 → 8
 - [chapter-06.typ] Luk . → Luke
-- [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] Psal . 106 . 41 → Ps 105:25
+- [chapter-06.typ] 10 → 9
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Psal . → Ps
 - [chapter-06.typ] Chap . → Chapter
 - [chapter-06.typ] Psal . → Ps
+- [chapter-06.typ] 18 → 8
 - [chapter-06.typ] Cant . → Song
 - [chapter-07.typ] CHAP . VII . → 
 - [chapter-07.typ] 1 → 
@@ -155,9 +174,11 @@
 - [chapter-07.typ] Psal . → Ps
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Thes . → Thess
-- [chapter-07.typ] Cor → Cor 8:2
+- [chapter-07.typ] 13 → 14
+- [chapter-07.typ] Cor → Cor 8:3
 - [chapter-07.typ] 8 . 2 ▪ → 
 - [chapter-07.typ] Cant . → Song
+- [chapter-07.typ] 8 → 12
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Cant . → Song
 - [chapter-07.typ] Ephes . → Eph
@@ -169,10 +190,12 @@
 - [chapter-09.typ note] Act . → Acts
 - [chapter-09.typ] CHAP . IX . → 
 - [chapter-09.typ] Psal . → Ps
+- [chapter-09.typ] 17 → 18
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Mat . → Matt
+- [chapter-09.typ] 17 → 7
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
 - [chapter-09.typ] Psal . → Ps
@@ -186,16 +209,19 @@
 - [chapter-10.typ] 33 → 23
 - [chapter-10.typ] Chron . → Chr
 - [chapter-10.typ] Cant . → Song
+- [chapter-10.typ] Job . → John
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] vers → vv
+- [chapter-10.typ] 9 → 19
 - [chapter-10.typ] Eccles . → Eccl
 - [chapter-10.typ] Psal . → Ps
 - [chapter-10.typ] Matth . → Matt
-- [chapter-10.typ] Judg . → Judge
 - [chapter-10.typ] Psal . → Ps
+- [chapter-10.typ] Isa . → Zech
+- [chapter-10.typ] 5 . → 
+- [chapter-10.typ] 1 → 2
 - [chapter-10.typ] Thes . → Thess
-- [chapter-10.typ] Thes . → Thess
-- [chapter-10.typ] Psal . → Ps
+- [chapter-10.typ] 36 → 63
 - [chapter-10.typ] 5 . → 
 - [chapter-10.typ] Vers . → Verse
 - [chapter-10.typ] Mat . → Matt
@@ -211,7 +237,7 @@
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] SECTION IV . God's Method in calling Sinners . → 
 - [chapter-11.typ] SECTION V . The properties of the divine call . → 
-- [chapter-11.typ] Psal . → Ps
+- [chapter-11.typ] 100 → 110
 - [chapter-11.typ] is → 
 - [chapter-11.typ] Psal . → Ps
 - [chapter-11.typ] Psal . → Ps
@@ -220,10 +246,12 @@
 - [chapter-11.typ] Iam → Ja
 - [chapter-11.typ] Mat . → Matt
 - [chapter-11.typ] Matth . → Matt
+- [chapter-11.typ] 9 → 29
+- [chapter-11.typ] sounded → founded
 - [chapter-11.typ] SECT . VI . Showing the end of Effectual Calling . → 
 - [chapter-11.typ] I → Ay
 - [chapter-12.typ] CHAP . XII . → 
-- [chapter-13.typ note] Psal . → Ps
+- [chapter-13.typ note] Psal . 35 . → Ps 85:
 - [chapter-13.typ note] Numb . → Num
 - [chapter-13.typ] CHAP . XIII . → 
 - [chapter-13.typ] Ephes . → Eph
@@ -269,6 +297,7 @@
 - [chapter-02.typ note] ▪ → .
 - [chapter-02.typ] . → 
 - [chapter-02.typ] . → :
+- [chapter-03.typ note] . → 14:
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
@@ -313,7 +342,8 @@
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
-- [chapter-03.typ] . → :
+- [chapter-03.typ] . → 
+- [chapter-03.typ] . → 6:
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
@@ -330,7 +360,6 @@
 - [chapter-03.typ] . → :
 - [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
-- [chapter-03.typ] . → 
 - [chapter-03.typ] . → :
 - [chapter-03.typ] ▪ → .
 - [chapter-03.typ] . → 
@@ -384,18 +413,7 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
-- [chapter-04.typ] . → 
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → 
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → 
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → 
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → :
-- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 8:
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
@@ -403,6 +421,15 @@
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
+- [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
@@ -438,6 +465,7 @@
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
+- [chapter-04.typ] . → 
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → :
 - [chapter-04.typ] . → 
@@ -508,7 +536,6 @@
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
-- [chapter-05.typ] . → 
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
 - [chapter-05.typ] . → :
@@ -550,16 +577,13 @@
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
-- [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
-- [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
-- [chapter-06.typ] . → :
 - [chapter-06.typ] . → :
 - [chapter-06.typ] . → 
 - [chapter-06.typ] . → :
@@ -695,7 +719,6 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] ▪ → .
@@ -710,28 +733,6 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
-- [chapter-10.typ] . → :
-- [chapter-10.typ] . → 
 - [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 
@@ -743,6 +744,29 @@
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → 5:
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → s
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → :
+- [chapter-10.typ] . → 
 - [chapter-10.typ] . → :
 - [chapter-10.typ] . → 5:
 - [chapter-10.typ] . → :
@@ -781,6 +805,7 @@
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → :
+- [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
 - [chapter-11.typ] . → 
 - [chapter-11.typ] . → :
@@ -822,7 +847,6 @@
 - [chapter-12.typ] . → :
 - [chapter-12.typ] ▪ → ,
 - [chapter-12.typ] . → :
-- [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → :
 - [chapter-13.typ note] . → 
 - [chapter-13.typ note] . → :
@@ -897,6 +921,10 @@
 - [chapter-16.typ] . → 
 - [chapter-16.typ] . → :
 
+## case
+
+- holy → Holy
+
 ## spelling
 
 - least → lest (×11)
@@ -906,11 +934,11 @@
 - then → than (×5)
 - James → Jas (×4)
 - Kings → Kgs (×4)
+- Psal → Ps (×4)
 - Kings → King's (×3)
 - Spirits → Spirit's (×3)
 - God's → gods (×2)
 - Jacobs → Jacob's (×2)
-- animae → anima (×2)
 - 1 → 1.
 - 1 → 1:
 - 14 → 14:
@@ -918,22 +946,22 @@
 - 25 → 2:5
 - 37 → 37:
 - 4 → 4.
-- Animae → Anima
 - Bee → Be
+- Born → Bern
 - Brethreo → Brethren
 - Chymistry → Chemistry
 - Eli's → Elis
+- Elisha's → Elijah's
 - Fathers → Father's
 - Jaylor → Jailer
 - Josephs → Joseph's
 - Least → Lest
 - Luk → Luke
+- Michael → Michal
 - Plurisy → Pleurisy
-- Psal → Ps
 - Quirtus → Quintus
 - Stelia → Stellae
 - Tryal → Trial
-- amore → amor
 - augmention → augmentation
 - being → bring
 - biter → bitter
@@ -941,7 +969,6 @@
 - buring → burying
 - childrens → children's
 - coetinguiuntur → extinguuntur
-- cognitione → cognition
 - condemn'd → condemned
 - conferr'd → conferred
 - corige → corrige
@@ -956,11 +983,14 @@
 - fragant → fragrant
 - gracen → grace
 - groun'd → ground
+- hoe → hoc
 - jucundiffimus → jucundissimus
 - knew → know
 - lay'n → lain
 - lif'd → lived
 - marveleus → marvelous
+- memorial → memoriale
+- part → parte
 - percatum → peccatum
 - perfers → prefers
 - persume → perfume
@@ -982,5 +1012,6 @@
 - whrewith → wherewith
 - woes → woos
 - wordly → worldly
+- works → words
 - yo → you
 

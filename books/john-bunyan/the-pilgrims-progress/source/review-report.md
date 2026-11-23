@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 394 |
-| emendation | 102 |
+| punctuation | 396 |
+| emendation | 110 |
 | spacing | 94 |
-| spelling | 66 |
-| case | 39 |
+| spelling | 70 |
+| case | 40 |
 | merge | 2 |
 | split | 1 |
 
@@ -23,6 +23,7 @@
 - [part-1/stage-01.typ] Tit . → Titus
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-01.typ] Ex . → Exod
+- [part-1/stage-01.typ] 38 → 34
 - [part-1/stage-01.typ] Psalm → Ps
 - [part-1/stage-02.typ] picture → picture of
 - [part-1/stage-02.typ] may → , May
@@ -73,6 +74,10 @@
 - [part-2/authors-way.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] ‘ tis → ’tis
 - [part-2/to-the-reader.typ] Psa . → Ps
+- [part-2/to-the-reader.typ] life → Light
+- [part-2/to-the-reader.typ] John → 
+- [part-2/to-the-reader.typ] 8 → 
+- [part-2/to-the-reader.typ] 12 → 
 - [part-2/to-the-reader.typ] Psalm → Ps
 - [part-2/stage-01.typ] Psa . → Ps
 - [part-2/stage-01.typ] Psa . → Ps
@@ -87,17 +92,20 @@
 - [part-2/stage-03.typ] ‘ Tis → ’Tis
 - [part-2/stage-04.typ] Psa → ”
 - [part-2/stage-04.typ] and → and they sent for him, and he came. When he was
+- [part-2/stage-04.typ] taught → taught that
 - [part-2/stage-04.typ] Eccles . → Eccl
 - [part-2/stage-05.typ] come → come to
 - [part-2/stage-05.typ] 36 → 35
 - [part-2/stage-05.typ] Psa . → Ps
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
+- [part-2/stage-05.typ] ; and look → 
 - [part-2/stage-05.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] Psa . → Ps
 - [part-2/stage-06.typ] Psa . → Ps
 - [part-2/stage-06.typ] loss → loss of
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] Peter , → Pet
+- [part-2/stage-06.typ] in → in for
 - [part-2/stage-06.typ] ‘ Tis → ’Tis
 - [part-2/stage-06.typ] ‘ Twas → ’Twas
 - [part-2/stage-06.typ] Psalm → Ps
@@ -399,6 +407,8 @@
 - [part-2/to-the-reader.typ] , → 
 - [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] - → –
+- [part-2/to-the-reader.typ] : → 
+- [part-2/to-the-reader.typ] ; → 
 - [part-2/to-the-reader.typ] . → 
 - [part-2/to-the-reader.typ] . → .”
 - [part-2/to-the-reader.typ] . → 
@@ -542,6 +552,7 @@
 - it → It
 - lamb → Lamb
 - let → Let
+- light → Light
 - lord → Lord
 - objection → Objection
 - since → Since
@@ -566,6 +577,7 @@
 - Habak → Hab
 - Hosea → Hos
 - Hymenius → Hymenaeus
+- Keep → Keeper
 - Kings → Kgs
 - Micah → Mic
 - Mnason → Mnason.
@@ -583,6 +595,8 @@
 - knew → know
 - land → land,
 - lillies → lilies
+- lion’s → lions’
+- made → make
 - of’ → of
 - pilgrims → pilgrims’
 - pilgrim’s → pilgrims
@@ -592,6 +606,7 @@
 - shew → show
 - similtudes → similitudes
 - straight → strait
+- strait → straight
 - sufferet → suffered
 - sure → sure,
 - them → then

@@ -61,6 +61,10 @@
   contents-height: 2.45in,
   volume: none,          // "Volume I", under the roundel
   volume-number: none,   // "I", in it
+  // the edition, for a second edition of the same volume ([Modern English]): a small
+  // ruled label under the volume's name and a mark on the spine, all else as the
+  // first edition's, so the two are one book on a shelf (MODERN-ENGLISH-RULES.md)
+  edition: none,
   // the spine's type, roundel and seal are sized to this width, the
   // thinnest volume's safe strip (spine less 1/8in each side), so every
   // volume of a set shelves alike; none sizes them to this volume's own
@@ -90,7 +94,12 @@
   let back-x = BLEED
   let spine-x = BLEED + trim-width
   let front-x = spine-x + spine
-  let dim = ink.transparentize(50%)
+  // no transparency on a cover (Lulu flattens it into image tiles: plate_cover.typ):
+  // a dimmed ink is the ink mixed with the colour behind it
+  let solid(f) = if type(f) == gradient { f.sample(50%) } else { f }
+  let behind-front = solid(if panel != none { panel } else if front-ground != none { front-ground } else { ground })
+  let behind-back = solid(ground)
+  let dim = color.mix((ink, 50%), (behind-front, 50%))
 
   set text(font: SERIF, fill: ink)
   set page(width: page-width, height: page-height, margin: 0pt) if not front-only
@@ -141,7 +150,7 @@
         }
         if imprint != none {
           v(0.07in)
-          text(size: 9pt, style: "italic", fill: ink.transparentize(25%), imprint)
+          text(size: 9pt, style: "italic", fill: color.mix((ink, 75%), (behind-front, 25%)), imprint)
         }
         v(0.16in)
         line(length: 100%, stroke: 0.5pt + accent)
@@ -167,6 +176,11 @@
         if volume != none {
           v(0.08in)
           caps(volume, 8.5pt, accent, tracking: 0.3em)
+        }
+        if edition != none {
+          v(0.16in)
+          box(stroke: (top: 0.6pt + accent, bottom: 0.6pt + accent), inset: (x: 0.04in, y: 0.07in),
+            caps(edition, 8pt, accent))
         }
         v(1fr)
       }))
@@ -220,6 +234,7 @@
             h(0.14in)
             show linebreak: [ ]
             text(font: DISPLAY, size: size, tracking: 0.12em, fill: ink, upper(stitle))
+            if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(weight: "medium", size: size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
           }))))
     }))
 
@@ -231,7 +246,7 @@
         if back-lead != none {
           block(width: 100%, inset: (x: 0.1in), {
             set par(justify: false, leading: 0.7em)
-            text(size: 11pt, fill: ink.transparentize(10%), back-lead)
+            text(size: 11pt, fill: color.mix((ink, 90%), (behind-back, 10%)), back-lead)
           })
           v(0.35in)
         }

@@ -7,10 +7,10 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 2289 |
-| case | 1762 |
+| punctuation | 2288 |
+| case | 1761 |
 | spelling | 1688 |
-| emendation | 803 |
+| emendation | 807 |
 | italic | 583 |
 | note | 385 |
 | spacing | 183 |
@@ -121,7 +121,7 @@
 - [tothereader.typ] Here's → ' Here is
 - [tothereader.typ] hidden Manna → 'hidden manna,' Rev 2:17
 - [tothereader.typ] life → life,' Rev 22:17
-- [tothereader.typ] God → God,' Gen 2:9
+- [tothereader.typ] God → God,' Rev 2:7
 - [tothereader.typ] Here's → Here is
 - [tothereader.typ] here's → here is
 - [tothereader.typ] spare → spare,' Luke 15
@@ -178,7 +178,7 @@
 - [chapter1.typ] fear → fear;' for
 - [chapter1.typ] for → 
 - [chapter1.typ] also → also,' Rom 11:20, 21
-- [chapter1.typ] Candlesticks → candlesticks,' Rev 1:12
+- [chapter1.typ] Candlesticks → candlesticks,' Rev 2:1
 - [chapter1.typ] where → Rev 12:6. Where,
 - [chapter1.typ] Rev → 
 - [chapter1.typ] 14 . 1 . The → 'The
@@ -203,7 +203,7 @@
 - [chapter1.typ] Again → Third. Again
 - [chapter1.typ] truth → truth,' John 1:14
 - [chapter1.typ] Ther's → There is
-- [chapter1.typ] God → God,' 1 Pet 5:2
+- [chapter1.typ] God → God,' Acts 20:28
 - [chapter1.typ] fire → fire,' Heb 12:29
 - [chapter1.typ] A → Fourth. A
 - [chapter1.typ] our selves → ourselves
@@ -383,6 +383,7 @@
 - [chapter3.typ] world → world,' Phil 2:15
 - [chapter3.typ] no where → nowhere
 - [chapter3.typ] Gods → , God’s
+- [chapter3.typ] is → is not
 - [chapter3.typ] In → Obs. In
 - [chapter3.typ] vail → veil,' verse 7
 - [chapter3.typ] The → Reason. The
@@ -438,7 +439,7 @@
 - [chapter3.typ] comfort → 
 - [chapter3.typ] A → Ans. 4. A
 - [chapter3.typ] changed → changed,' 2 Cor 3:18
-- [chapter3.typ] world → world,' John 1:4
+- [chapter3.typ] world → world,' John 6:51
 - [chapter4.typ] ISAIAH 25 . 7 , 8 . → 
 - [chapter4.typ] victory → victory.—Isa 25:7
 - [chapter4.typ] & c → 8
@@ -446,7 +447,7 @@
 - [chapter4.typ] it ever → whatever
 - [chapter4.typ] Captain , → captain
 - [chapter4.typ] our selves → ourselves
-- [chapter4.typ] 5 → 5:19
+- [chapter4.typ] 5 → 5:12
 - [chapter4.typ] accessary our selves → accessory ourselves
 - [chapter4.typ] it self → itself
 - [chapter4.typ] it self → itself
@@ -472,6 +473,8 @@
 - [chapter4.typ] us → us,' Rom 5:10
 - [chapter4.typ] judgement . Now → judgment! Note,
 - [chapter4.typ] ; nay → . Nay,
+- [chapter4.typ] overcome → overcome. Christ,
+- [chapter4.typ] : Christ → ,
 - [chapter4.typ] it self → itself
 - [chapter4.typ] Now → Use 1. Now
 - [chapter4.typ] it self → itself
@@ -816,7 +819,7 @@
 - [chapter9.typ] , you → Reason 3. You
 - [chapter9.typ] ; for → Reason 4. For
 - [chapter9.typ] wch → , which
-- [chapter9.typ] throat → throat, Gen 22:12, 18
+- [chapter9.typ] throat → throat, Gen 22:12-14
 - [chapter9.typ] I → Aye,
 - [chapter9.typ] Summaars → Summa ars
 - [chapter9.typ] c → 
@@ -897,6 +900,7 @@
 - [chapter9.typ] over much → overmuch
 - [chapter9.typ] saith → saith, 1 Cor 15:19
 - [chapter9.typ] fore - taste → foretaste
+- [chapter9.typ] hang → change
 - [chapter9.typ] , then → than
 - [chapter9.typ] my self → myself
 - [chapter9.typ] Covenant , → covenant
@@ -1018,7 +1022,7 @@
 - [tothereader.typ] , → 
 - [tothereader.typ] : → :8;
 - [tothereader.typ] , → ;
-- [tothereader.typ] , → ,' Prov 31:23;
+- [tothereader.typ] , → ,' Prov 31:31;
 - [tothereader.typ] ) → ),
 - [tothereader.typ] : → .
 - [tothereader.typ] : → .
@@ -1972,7 +1976,6 @@
 - [chapter4.typ] ; → ,
 - [chapter4.typ] , → .
 - [chapter4.typ] ; → .
-- [chapter4.typ] : → .
 - [chapter4.typ] , → .
 - [chapter4.typ] : → .
 - [chapter4.typ] ; → .
@@ -3251,8 +3254,8 @@
 - they → They (×28)
 - but → But (×26)
 - Word → word (×24)
-- spirit → Spirit (×23)
 - Manna → manna (×22)
+- spirit → Spirit (×22)
 - Apostle → apostle (×19)
 - Mountain → mountain (×18)
 - so → So (×18)
@@ -4348,7 +4351,6 @@
 - others → others,
 - ought → ought,
 - over → ever
-- overcome → overcome,
 - past → passed
 - peace → 'peace
 - peece → piece
@@ -4483,6 +4485,7 @@
 - verse → verse,
 - vessel → vessel,
 - villified → vilified
+- visible → invisible
 - vvaite → wait
 - vvaiting → waiting
 - vvhich → which

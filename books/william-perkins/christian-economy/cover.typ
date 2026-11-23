@@ -14,7 +14,9 @@
 // `pages` here is only for compiling the cover by itself.
 #let rose = ((rgb("#E6D7DD"), 0%), (rgb("#F3EBEE"), 38%), (rgb("#EDE2E6"), 70%), (rgb("#E3D3DA"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+#let cover(edition: none) = plate-cover(
+  edition: edition,
   plate: read("art/plate.png", encoding: none),
   // set half an inch low: the title and its two-line subtitle need the sky
   plate-at: (dx: -0.165in, dy: 0.42in, width: 5.83in, height: 8.75in),
@@ -40,3 +42,5 @@
   ],
   epigraph-source: [Joshua 24:15],
 )
+
+#cover()

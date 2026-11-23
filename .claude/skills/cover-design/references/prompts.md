@@ -153,6 +153,82 @@ Colours clear but gentle, the white of the paper still showing through;
 no new lines, no texture, no border, no text.
 ```
 
+**God Glorified in Man's Dependence** (Edwards: "that River of water of life,
+that proceeds from the throne of God and the Lamb", Rev 22:1), 2026-11-15. A
+moon first ("as the moon and planets are bright by the Sun's light") came back
+with its light inverted (dark side hatched, lit crescent a bare outline); in one
+ink, light is blank paper, so a picture that is all light fails. The river:
+
+```
+A single clear river winding toward the viewer through a quiet open valley,
+its source out of sight beyond a distant rise where the sky is brightest, the
+light coming from behind that rise. Low grassy banks, two or three small trees
+on the banks, the water drawn with fine horizontal engraved lines and calm
+reflections. No buildings, no bridges, no people, no boats.
+```
+It came back with no light at the source; an edit, the far hills and sky selected:
+```
+Behind the farthest hills, where the river comes from, add a soft radiance of
+light rising from beyond the horizon, drawn only with fine engraved lines
+radiating outward, the paper left white at its centre, as if the river's
+source were in that light. Change nothing else.
+```
+The rays came faint; `art/tint.py` darkens them under a feathered mask.
+**Religious Affections** (Edwards, Part II, xii: "'Tis the mature fruit which
+comes afterwards, and not the beautiful colors and smell of the blossom, that we
+must judge by"), 2026-11-15:
+
+```
+One apple bough in spring, reaching in from the right, thick with open
+blossoms and buds, and among them two or three tiny green apples just setting
+where blossoms have fallen. A few fallen petals below. No tree trunk, no
+background.
+```
+The fruit came back with tall star-shaped crowns (pomegranates); an edit, the
+three fruits selected:
+```
+Redraw these three small fruits as young apples just setting after the
+blossom: round and smooth, with only a tiny dried tuft of sepals at the tip,
+not a tall crown. Same size, same engraved style. Change nothing else.
+```
+A plate whose drawing reaches its left edge goes in from the spine fold (the
+editor: keep art clear of the fold); `art/tint.py` whitens the generated
+paper (not quite white) so the plate's paper is exactly the ground.
+
+**The Surest Way of Thriving** (Thomas Gouge, quoting Hammond: "money here like
+the widow's oil, the more 'tis poured out, the more it doth increase"), 2026-11-15.
+Bread on the waters did not excite the editor, a cruse pouring by itself was "too
+abstract"; the scene, written to 2 Kings 4:4-6 (the first try had the door open,
+against v. 4):
+
+```
+Inside a plain, humble room of an old Eastern house, its heavy wooden door
+shut and barred, a poor widow kneels on the floor pouring oil from a small
+earthen pot into a large clay vessel. Borrowed vessels of many shapes stand
+around her; those already full are set aside against the wall, and her elder
+son, a boy of about twelve, carries one more empty jar toward her while his
+younger brother stands by the door watching. Soft light falls from a small high
+window onto the stream of oil. Calm and quiet, the room simply drawn.
+```
+Coloured by ChatGPT, its colour then transferred under the approved lines:
+```
+Hand-colour this engraving as a Victorian colourist would, with soft
+transparent watercolour washes laid under the black lines; keep every line
+exactly as it is and change nothing in the drawing. A quiet afternoon inside a
+humble room of an old Eastern house. The plaster walls warm cream and pale
+ochre, a little cooler in the corners; the floor warm sandy stone. A shaft of
+soft golden light falls from the small high window across toward the widow.
+The heavy door and its bar old weathered wood, warm grey-brown. The widow's
+mantle and headcloth a faded indigo blue, her robe beneath it a soft
+grey-blue, her face and hands a natural warm skin tone. The elder boy's tunic
+undyed linen, oatmeal, his headband faded madder red; the younger boy's
+tunic a pale linen white with a little warm shadow. All the jars terracotta
+clay in slightly varied warm reds and browns; the jars set against the wall
+full to the brim with golden olive oil; the stream of oil she pours a clear
+shining gold. Colours clear but gentle, the white of the paper still showing
+through; no new lines, no texture, no border, no text.
+```
+
 ## Marks and devices: woodcut, not engraving
 
 Fine hatching fills in at a quarter inch, so the press's marks are woodcut

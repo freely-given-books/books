@@ -1,0 +1,191 @@
+# Precious Remedies Against Satan's Devices: Modern English glossary
+
+How the Modern English edition renders Brooks's recurring terms, labels and verses (set 2026-11-16, when the
+Modern English was drafted by fourteen hands). A change here is the editor's to make, and is then applied to the
+whole book. The general rules are `MODERN-ENGLISH-RULES.md` at the repository root.
+
+## Headings (modernized like the body)
+
+- Chapter titles (`== 1. Presenting the Bait and Hiding the Hook`) are the edition's own; they keep their
+  number and wording unless a word is archaic or British (`Colours` → `Colors`, `Want of Preparation` →
+  `Lack of Preparation`).
+- Brooks's own heads (`=== The second #emph[Device] that Satan hath to keep poor sinners from believing …`)
+  keep their level, italics and footnotes, their wording modernized like the body: has, -s verbs, apart (for
+  asunder), between (for betwixt), Savior, "embracing Christ" (for "closing with Christ", see below).
+- The bold lines that open a device or its remedies (`#strong[…]`) are modernized too, one form:
+  `#strong[Now the remedies against this device of Satan are these.]` ("that follow" → "as follows":
+  `#strong[Now the remedies against this device of Satan are as follows.]`; "of the devil" stays where printed).
+- "Device" and "Remedy" lowercase in running text and the bold lines (the print capitalizes at random).
+
+## The text: 2 Cor 2:11
+
+BSB adjusted to the words Brooks expounds ("advantage", over-reach; "devices", the title word):
+
+- **2 Cor 2:11** “so that Satan should not get an advantage over us; for we are not ignorant of his devices.”
+  (The block over the introduction keeps its layout, italic, no quotation marks.)
+- **Eph 6:11** “Put on the full armor of God, so that you⁺ can stand against the wiles of the devil.”
+  (Brooks expounds the Greek word "rendered *wiles*".)
+- **1 Pet 5:8** “Be sober-minded and alert. Your⁺ adversary the devil prowls around like a roaring lion,
+  seeking someone to devour.” (BSB)
+- **2 Cor 11:3** “just as Eve was deceived by the serpent’s cunning, your⁺ minds may be led astray from your
+  simple and pure devotion to Christ.” (BSB; "subtilty" → "cunning"; where Brooks leans on "simplicity",
+  keep "simplicity".)
+- **2 Tim 2:26** “the snare of the devil, who has taken them captive at his will.” (Brooks's "snare" kept.)
+
+## Kept words (his register)
+
+device(s) (Brooks glosses it: plots, machinations, stratagems), remedy / remedies, Satan, the devil, the
+tempter, wiles, snare(s), bait, hook, golden bait, saints, sinners, the soul (his "poor soul", "a gracious
+soul"), **gracious** (having grace: "gracious souls" stays), grace (true grace, saving grace), the Spirit,
+the flesh, carnal, the world, holy duties, ordinances, the means of grace, assurance, interest in Christ (→
+"a share in Christ" where it would read as curiosity), justification, sanctification, repentance, conversion,
+effectual, hypocrite(s), professors → **professing Christians** (or "those who profess religion"; never bare
+"professors"), heaven, hell, glory, mercy-seat, "the Lamb", "precious", "sweet", "sad" (sorrowful, grievous,
+heavy: "a sad, doubting condition" stays).
+
+## Recurring renderings
+
+| Classic | Modern English |
+|---|---|
+| closing with Christ / close with Christ | embracing Christ / embrace Christ; where "embracing" is already in the same list, "taking hold of Christ" |
+| betwixt | between |
+| asunder | apart |
+| unto | to |
+| sadded | saddened |
+| bespeak | call for, deserve (by sense) |
+| bravery (of the world) | splendor, finery |
+| naught (wicked, worthless) | wicked / worthless (by sense); "brought to naught" → "brought to nothing" |
+| ever and anon / anon | again and again / soon (by sense) |
+| still (always) | always, continually (by sense) |
+| several (separate, distinct) | various, different, separate (by sense) |
+| presently | at once |
+| let (hinder) | hinder ("let him …" imperatives stay) |
+| estate (condition) | state, condition |
+| frame (of heart) | frame (kept: the Reformed register), or "state" where it would read as a structure |
+| yea / nay | yes / no; "yea, …" as "even" or "indeed" by sense |
+| lighted upon | came upon |
+| rout (put to flight) | scatter |
+| and what not | and so on |
+| whilst, amongst | while, among |
+| want (lack) | lack |
+| Act. and Mon. (in notes) | Foxe, #emph[Acts and Monuments] (folio number kept) |
+| with a witness | with a vengeance (all five places) |
+| bowels (of mercy, compassion) | heart, tender mercy, tender compassion (by sense) |
+| physic | medicine |
+| cordial(s) | heart-medicine(s) |
+| would fain | would gladly |
+| secure / security (careless) | complacent / complacency (the 2026-11-16 sweep; "false security" where Brooks pairs it) |
+| humours (bodily) | infection |
+| discoveries (of God's love) | revelations |
+| parts (gifts) | talents |
+| peremptory | determined, obstinate (by sense) |
+| the three children (Dan 3) | the three young men |
+| Dives | the rich man |
+| Holy Ghost | Holy Spirit |
+| LORD (in Scripture) | #smallcaps[Lord] |
+
+British spellings become American (honor, labor, Savior, color, favor).
+
+## Labels
+
+`Obj.` / `Object.` → `Objection.`; `Ans.` / `Answ.` → `Answer.`; `Quest.` → `Question.`; `Reason`, `Use`,
+`Remedy` stay (italic where the print has them italic). `etc.` stays (roman).
+
+## Italics and Scripture
+
+The print sets Scripture quotations in italic, often with the reference inside the italics
+(`#emph[Gen 3:4, 5. And the serpent said unto the woman …]`). In the Modern: the reference roman, then a colon,
+then the quotation in roman inside curly quotation marks (`Gen 3:4-5: “And the serpent said to the woman …”`
+— reference numbers as printed). Brooks's emphases keep their italics; italic names become roman; a word of a
+verse he picks out to expound keeps its italics. Quotations from the Fathers and others take quotation marks.
+Untranslated Latin keeps its words with a [bracketed translation]; where Brooks translates it himself, nothing
+is added. Greek and Hebrew stay as printed.
+
+## Plural you
+
+`you#super[+]` (your⁺, You⁺) marks a plural "you": Scripture's "ye"/"you" to many; Brooks to his readers
+in the plural ("ye" in the dedication to his flock, "beloved" addresses). EVERY plural you, your, yours and
+yourselves is marked (rules §4.2, the editor 2026-11-19; applied to this book in the re-check of 2026-11-19).
+Brooks's "you" to the single reader or soul ("thou", "thy soul"), Satan or an objector speaking to one soul, and a
+general "you" (anyone, in a proverb or maxim) are plain "you".
+
+## False friends (the editor, 2026-11-16: replaced with a modern word, never glossed)
+
+The sweep of 2026-11-16 (`work/false-friends-2026-11-16/precious-remedies-against-satans-devices.md`) added:
+
+| Brooks | Modern English |
+|---|---|
+| the creature(s) (created things; men as against God) | created things; men / man (by sense) |
+| molest, molesting, molested | harass, harassing, harassed |
+| cross (providences, actings); cross to; crosses (verb) | adverse; contrary to, against; thwarts (heading: "Adverse Providences") |
+| vain souls | worldly souls |
+| generous souls (high-spirited) | bold souls |
+| uncomfortable condition | comfortless condition |
+| legal arguments | legalistic arguments |
+| pursued (a sin, as an enemy) | opposed |
+| undertaken for me | stood surety for me |
+| the margin (Brooks's notes) | the notes (this edition sets them as footnotes) |
+| passion | anger, outbursts |
+| virtue (power) | power, force |
+| mercy, mercies (blessings) | blessing(s) |
+| motions | stirrings |
+| Mistress (Katherine Brettergh) | Mrs. |
+| gold angels | gold coins |
+| astonishes and amazes; amazed | stuns and dazes; dismayed |
+| mischiefs, mischief | harms; wickedness |
+| profession | profession of faith |
+| grievous (1 John 5:3) | burdensome |
+| ravished; affected with | enraptured; moved by |
+| quickened, quicken(ing) | enlivened, enliven(ing) (with "enlarged": revived and set free) |
+| mind (think on), perplexed (entangled) | think on, entangled |
+| considerable | important |
+| engage(d) (himself, his honor) | bound, pledged, move |
+| abroad | out in the world, in others, among others, away from home |
+| affectionately (seeking) | ardently |
+| affecting (laying claim to) | laying claim to |
+| significant, argues | expressive, shows |
+| divinity | theology |
+| the stone | a kidney stone |
+| aggravate, aggravating | add weight to; exaggerating |
+| manners | conduct |
+| vanity (former) | folly |
+| confusion | shame |
+| vicious | of vice |
+| liquor | liquid |
+| corn | grain |
+| surprised | overtaken |
+| stand with God for a trifle | fall out with God over a trifle (his own "break with God for a little" in the same paragraph; the editor, 2026-11-18) |
+| vain men, vain persons (empty, worldly) | worldly men, worldly people (re-check 2026-11-19; "vain thoughts" stays) |
+| study (aim, pursuit; composing) | aim, pursuit, strive; writing (by sense) |
+| mind (attend to, heed) | think on, attend to, heed (by sense) |
+| work (a person) to (induce) | lead, move, bring (by sense) |
+| confusion (shame, ruin) | disgrace, ruin (where "shame" already stands beside it) |
+| proper, properly (own; truly) | true, truly, distinctively (by sense) |
+| credit (reputation) | reputation |
+| deserts | merits |
+| put off (this earthly tabernacle) | lay aside |
+| backward / forward (unwilling / eager) | reluctant / eager |
+| graceless | godless |
+| jealous (suspicious) | suspicious |
+| visitation (Augustine's) | pastoral visit |
+| motions (of providence) | workings ("stirrings" for the Spirit and sin) |
+| expostulate | remonstrate |
+| converse (with God) | commune |
+| lustiness (vigor) | vigor |
+| insensible of | numb to |
+| new creature | new creation (2 Cor 5:17) |
+| disappointed of (prey) | deprived of |
+| naught (Tully's judgment) | worthless |
+| cross actings (a man's own, Jonah's) | contrary actings ("adverse" stays for providences acting on him) |
+| "may not" after "who can tell" / "cannot say that" | "may yet" / "will not" |
+| mercies (blessings) | blessings; except chapter 8 ("The Outward Mercies of Worldly Men"), where the word runs through the chapter beside God's mercy: the editor's call (2026-11-19), confirmed 2026-11-22 (card #89: keep "mercies" there) |
+
+Also applied where the draft had missed this glossary: Dives → the rich man; cordial → heart-medicine.
+Kept: sad (as above), dolors [sorrows] (Isidore's rhyme; a bracket on the Latin-English pun), Bridewell, peremptory,
+divine appearances, open (the words), subtle serpent, preferment, on this head, the formal act, affectionately (receive
+the truth), fancies.
+
+## The editor's answers, 2026-11-22
+
+- The remedy formula (card #90): "is solemnly/seriously/wisely/briefly to consider" (and "to dwell") becomes "is to consider solemnly" etc., everywhere (98 places), and "If you⁺ would not be…" becomes "If you⁺ do not want to be…" ("would not have your judgments polluted" → "do not want your judgments polluted"), 11 places.
+- Chapter 8 keeps "mercies" (card #89).

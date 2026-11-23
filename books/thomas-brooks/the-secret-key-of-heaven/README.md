@@ -54,3 +54,7 @@ it). The introduction's text in `chapter-03.typ` is an epigraph and its
 Doctrine an inset block (`#block(inset: (x: 1em))[…]`, `q[@rend="inset"]`
 in the TEI); headings are kept with their text by the template (fgbooks
 0.5.4), so there are no manual page or line breaks.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `the-secret-key-of-heaven-modern.typ`, its cover `cover-modern.typ` (the Classic cover, labelled, its back verse Matt 6:6 from the BSB as adjusted), its ebook front `ebook-front-modern.html`. How it renders Brooks's recurring terms, labels and verses (above all "closet", kept as the book's own term) is `source/modern-glossary.md`, begun from Precious Remedies' so the same author reads the same way. Drafted 2026-11-16 by thirteen drafters from the brief in work/secret-key-modern/brief.md, then meaning-audited (work/secret-key-modern/audit).

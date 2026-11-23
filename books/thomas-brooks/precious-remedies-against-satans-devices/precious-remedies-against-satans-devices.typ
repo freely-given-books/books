@@ -35,7 +35,11 @@
 
 #include "chapters/typ/to-the-reader.typ"
 
-#include "chapters/typ/introduction.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.02em)
+  #include "chapters/typ/introduction.typ"
+]
 
 = Part I. Devices to Draw the Soul into Sin
 
@@ -49,13 +53,21 @@
 
 #include "chapters/typ/sin-05.typ"
 
-#include "chapters/typ/sin-06.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/sin-06.typ"
+]
 
 #include "chapters/typ/sin-07.typ"
 
 #include "chapters/typ/sin-08.typ"
 
-#include "chapters/typ/sin-09.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/sin-09.typ"
+]
 
 #include "chapters/typ/sin-10.typ"
 
@@ -91,7 +103,11 @@
 
 #include "chapters/typ/doubting-04.typ"
 
-#include "chapters/typ/doubting-05.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/doubting-05.typ"
+]
 
 #include "chapters/typ/doubting-06.typ"
 
@@ -121,7 +137,11 @@
 
 #include "chapters/typ/appendix-01.typ"
 
-#include "chapters/typ/appendix-02.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back (print_check's page warning)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/appendix-02.typ"
+]
 
 #include "chapters/typ/appendix-03.typ"
 

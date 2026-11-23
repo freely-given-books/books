@@ -13,7 +13,13 @@
 // `pages` here is only for compiling the cover by itself.
 #let ground = ((rgb("#C5DAD4"), 0%), (rgb("#E3EEEA"), 45%), (rgb("#D2E3DD"), 80%), (rgb("#BDD3CC"), 100%))
 
-#plate-cover(
+// edition: the Modern English edition's label (cover-modern.typ)
+// epigraph: the back's verse (the Modern English quotes the BSB, cover-modern.typ)
+#let cover(edition: none, epigraph: [
+    “Put on the whole armour of God, that ye may be able to stand against
+    the wiles of the devil.”
+  ]) = plate-cover(
+  edition: edition,
   plate: read("art/plate.png", encoding: none),
   // a little under page size, so the shield stands clear of the press's seal
   plate-at: (dx: 0.635in, dy: 1.24in, width: 4.29in, height: 6.435in),
@@ -31,12 +37,11 @@
   accent: rgb("#7A5C22"),
   label: rgb("#13393B"),
   paper: rgb("#F1E6CF"),
-  epigraph: [
-    “Put on the whole armour of God, that ye may be able to stand against
-    the wiles of the devil.”
-  ],
+  epigraph: epigraph,
   epigraph-source: [Ephesians 6:11],
   // Uncomment once the book has an ISBN; this puts the white field the printer
   // drops the barcode into on the back cover.
   // isbn: "978-0-000000-00-0",
 )
+
+#cover()

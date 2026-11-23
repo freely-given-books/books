@@ -1,0 +1,27 @@
+== Regeneration And The Holy Spirit
+
+“You#super[+] must be born again.” These words of our Lord Jesus have seemed to many to flame across their path, like the drawn sword of the cherub at the gate of Paradise. They have despaired, because this change is beyond their utmost effort. The new birth is from above, and so it is not in any creature’s power. Now, I am far from wanting to deny, or even to hide, a truth in order to create a false comfort. I freely admit that the new birth is supernatural, and that the sinner cannot bring it about by himself. It would be poor help to my reader if I were wicked enough to try to cheer him by persuading him to reject or forget what is unquestionably true.
+
+But is it not remarkable that the very chapter in which our Lord makes this sweeping declaration also contains the most explicit statement about salvation by faith? Read the third chapter of John’s gospel all the way through, and do not dwell only on its earlier sentences. It is true that the third verse reads:
+
+#quote[“Jesus replied, ‘Truly, truly, I tell you, unless a man is born again, he cannot see the kingdom of God.’”]
+
+But then the fourteenth and fifteenth verses say this to us:
+
+#quote[“Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that whoever believes in Him should not perish, but have eternal life.”]
+
+The eighteenth verse repeats the same delightful doctrine in the broadest terms:
+
+#quote[“Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son.”]
+
+It is clear to every reader that these two statements must agree, since they came from the same lips and are recorded on the same inspired page. Why should we make a difficulty where there can be none? If one statement assures us that something which only God can give is necessary to salvation, and another assures us that the Lord will save us when we believe in Jesus, then we may safely conclude that the Lord will give to those who believe all that is declared to be necessary to salvation. The Lord does, in fact, bring about the new birth in all who believe in Jesus; and their believing is the surest evidence that they are born again.
+
+We trust in Jesus for what we cannot do ourselves: if it were in our own power, why would we need to look to him? It is ours to believe; it is the Lord’s to create us anew. He will not believe for us, nor are we to do the work of regeneration for him. It is enough for us to obey the gracious command; it is for the Lord to work the new birth in us. He who could go so far as to die on the cross for us can and will give us everything that is needed for our eternal safety.
+
+“But a saving change of heart is the work of the Holy Spirit.” This too is most true, and far be it from us to question it or to forget it. But the work of the Holy Spirit is secret and mysterious, and it can be perceived only by its results. There are mysteries about our natural birth into which it would be an unholy curiosity to pry: still more is this so with the sacred workings of the Spirit of God. “The wind blows where it wishes. You hear its sound, but you do not know where it comes from or where it is going. So it is with everyone born of the Spirit.” This much, however, we do know: the mysterious work of the Holy Spirit cannot be a reason for refusing to believe in Jesus, to whom that same Spirit bears witness.
+
+If a man were told to sow a field, he could not excuse his neglect by saying that it would be useless to sow unless God made the seed grow. He would not be justified in neglecting to till the ground because the secret energy of God alone can create a harvest. No one is held back in the ordinary pursuits of life by the fact that unless the Lord builds the house, those who build it labor in vain. It is certain that no man who believes in Jesus will ever find that the Holy Spirit refuses to work in him: in fact, his believing is the proof that the Spirit is already at work in his heart.
+
+God works in providence, but men do not therefore sit still. They could not move unless the divine power gave them life and strength, and yet they go on their way without question, the power being given from day to day by him who holds their breath in his hand, and to whom all their ways belong. So it is in grace. We repent and believe, though we could do neither if the Lord did not enable us. We forsake sin and trust in Jesus, and then we see that the Lord has worked in us to will and to do according to his good pleasure. It is idle to claim that there is any real difficulty in the matter.
+
+Some truths that are hard to explain in words are simple enough in actual experience. There is no contradiction between the truth that the sinner believes and the truth that his faith is worked in him by the Holy Spirit. Only folly can lead men to puzzle over plain matters while their souls are in danger. No man would refuse to get into a lifeboat because he did not know the specific gravity of objects; nor would a starving man refuse to eat till he understood the whole process of nutrition. If you, my reader, will not believe till you can understand all mysteries, you will never be saved at all; and if you let difficulties of your own invention keep you from accepting pardon through your Lord and Savior, you will perish under a condemnation that will be richly deserved. Do not commit spiritual suicide through a passion for discussing metaphysical subtleties.

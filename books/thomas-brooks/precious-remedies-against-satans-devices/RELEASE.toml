@@ -40,3 +40,18 @@ url = "https://archive.org/details/bim_early-english-books-1641-1700_precious-re
 [[witness]]
 description = "Monergism's keyed text of Grosart's edition, compared only"
 url = ""
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (thomas-brooks/precious-remedies-against-satans-devices/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows: set once that Classic is signed (its next
+# version), before the Modern is signed.
+based_on = "v3"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# the same false alarm the Classic accepts (note 11's marker "may¹¹" is on p. 11 with it).
+accepted_print = [
+  "precious-remedies-against-satans-devices-modern.pdf: footnote 11 is set on page 11, its marker on page 12",
+]

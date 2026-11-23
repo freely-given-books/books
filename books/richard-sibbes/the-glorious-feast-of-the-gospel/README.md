@@ -53,3 +53,7 @@ in `dist/richard-sibbes/the-glorious-feast-of-the-gospel/`.
 indent (`#par(first-line-indent: 0pt)`); that is layout, not stored in the
 TEI, so `./fgb check` lists the file as differing from the extraction by that
 line.
+
+## Modern English edition
+
+`chapters/modern/` is the Modern English edition (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/`; its print file is `the-glorious-feast-of-the-gospel-modern.typ` (a front-note page in place of an epigraph, which the Classic has none of), its cover `cover-modern.typ` (the Classic cover, labelled), its ebook front `ebook-front-modern.html`. Drafted 2026-11-15 from the brief in work/modern-english/feast-brief.md (eight drafters, one per sermon or two, slices in work/modern-english/feast/; the text, Isaiah 25:6-9, in one wording throughout: the BSB adjusted to the words Sibbes expounds, "fat things", "wines on the lees", "the face of the covering", "the veil", "swallow up death in victory", "rebukes", "Behold, this is our God … He will save us"), then meaning-audited (work/modern-english/audit-feast; five readers). Six references our edition had added were wrong and are corrected in both editions (work/modern-english/feast-audit-edits.py).

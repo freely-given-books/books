@@ -2,19 +2,19 @@
 
 | kind | count |
 | --- | --- |
-| punctuation | 4447 |
-| spacing | 2723 |
-| italic | 2673 |
-| spelling | 1830 |
-| emendation | 1335 |
-| note moved | 1097 |
+| punctuation | 4450 |
+| spacing | 2716 |
+| italic | 2671 |
+| spelling | 1846 |
+| emendation | 1370 |
+| note moved | 1105 |
+| case | 148 |
 | grammar | 147 |
-| case | 146 |
 | list | 141 |
-| note | 68 |
+| note | 69 |
 | gap | 48 |
 | merge | 29 |
-| expansion | 25 |
+| expansion | 27 |
 | inset | 24 |
 | split | 20 |
 | epigraph | 2 |
@@ -120,6 +120,8 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Sanctun → Sanctum
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vnun → vnum
 - [vol-3/09-parents-directing-children-into-adulthood.typ note] adultan → adultam
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] impiun → impium
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ note] rationen → rationem
 
 ## emendation
 
@@ -196,6 +198,7 @@
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Luk . → Luke
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Act . → Acts
+- [vol-1/03-headship-in-marriage-and-the-church.typ note] Virum → Vtrum
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Mat . → Matt
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
 - [vol-1/03-headship-in-marriage-and-the-church.typ note] Joh . → John
@@ -270,6 +273,8 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 3 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Rom → Rom 4:11
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 411 . → 
+- [vol-1/05-love-that-purifies-the-unclean.typ note] Jer → Jer 4:4
+- [vol-1/05-love-that-purifies-the-unclean.typ note] 44 . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Exhypothesi → Ex hypothesi
 - [vol-1/05-love-that-purifies-the-unclean.typ note] Jos . → Josh 5:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] 5 . → 
@@ -332,8 +337,10 @@
 - [vol-1/06-redeemed-for-glory.typ] Christs good - ness → Christ’s goodness
 - [vol-1/07-marital-love-and-self-love.typ note] Ephes . → Eph
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
-- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 1:31
 - [vol-1/07-marital-love-and-self-love.typ note] 12 . 10 → 
+- [vol-1/07-marital-love-and-self-love.typ note] Rom → Rom 12:10
+- [vol-1/07-marital-love-and-self-love.typ note] 1 . 30 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] 3 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Jam . → Jas
@@ -344,6 +351,7 @@
 - [vol-1/07-marital-love-and-self-love.typ note] Mar . → Mark 5:
 - [vol-1/07-marital-love-and-self-love.typ note] 5 . → 
 - [vol-1/07-marital-love-and-self-love.typ note] Iam . → Jas
+- [vol-1/07-marital-love-and-self-love.typ note] 56 → 58
 - [vol-1/07-marital-love-and-self-love.typ note] King . → Kgs
 - [vol-1/07-marital-love-and-self-love.typ note] Matth . → Matt
 - [vol-1/07-marital-love-and-self-love.typ note] Mat . → Matt
@@ -379,7 +387,6 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Ephes . → Eph
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
-- [vol-1/08-christs-union-with-his-beloved-body.typ note] . l → 50
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Joh . → John
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] King . → Kgs
 - [vol-1/08-christs-union-with-his-beloved-body.typ note] Psal . → Ps
@@ -433,6 +440,11 @@
 - [vol-1/08-christs-union-with-his-beloved-body.typ] but → : but
 - [vol-1/08-christs-union-with-his-beloved-body.typ] Body → and body
 - [vol-1/08-christs-union-with-his-beloved-body.typ] We → . We
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Gen → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 2 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 23 → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Vers → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 28 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] Sam → Sam 19:11
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] 19 . 11 → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] domumsponsi → domum sponsi
@@ -600,6 +612,7 @@
 - [vol-2/02-getting-married.typ] Mat . → Matt
 - [vol-2/02-getting-married.typ] Pro . → Prov
 - [vol-2/02-getting-married.typ] Psal . → Psalm
+- [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 1 → 2
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] 4 . → 
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] sirem → si rem
 - [vol-2/03-marital-unity-and-sexual-faithfulness.typ note] Tit . → Titus
@@ -737,7 +750,6 @@
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] 6 → 
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] King . → Kgs
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Eccles . → Eccl
-- [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Deu . → Deut
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] vsum . fructun → vsumfructum
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Cor → 1 Cor
 - [vol-2/09-a-wifes-not-going-against-her-husbands-will-i.typ note] Pro . → Prov
@@ -755,6 +767,8 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] King . → Kgs
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Tit . → Titus
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] Sam → Sam 1:11
+- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] 1 . 15 . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] herequireth → he requireth
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Iam . → Jas
 - [vol-2/11-a-wifes-active-obedience-to-her-husband.typ note] Treat → Treat. 4
@@ -823,6 +837,7 @@
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] tu → too
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] by → joy
 - [vol-2/14-a-husbands-humble-gentleness-to-his-wife.typ] up braid → upbraid
+- [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] 4 → 3
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] on → an
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Est . → Esth
 - [vol-2/15-a-husbands-patient-correcting-of-his-wife.typ note] Philem . → Phlm
@@ -875,6 +890,8 @@
 - [vol-2/17-a-husbands-providing-for-his-wife.typ note] Pro . → Prov
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] Continuance → and continuance
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] through try all → thorough trial
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 57 → 56
+- [vol-2/17-a-husbands-providing-for-his-wife.typ] 58 → 57
 - [vol-2/17-a-husbands-providing-for-his-wife.typ] but → and
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Joh . → John
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ note] Cant . → Song
@@ -904,6 +921,7 @@
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] gladly → gladly bestow, and be
 - [vol-2/18-a-husbands-sincere-and-steady-love-for-his-wife.typ] est → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Mat . → Matt
+- [vol-3/01-children-showing-respect-for-parents.typ note] 30 → 31
 - [vol-3/01-children-showing-respect-for-parents.typ note] 3 . → 
 - [vol-3/01-children-showing-respect-for-parents.typ note] Exo . → Exod
 - [vol-3/01-children-showing-respect-for-parents.typ note] 25 → 21
@@ -970,6 +988,9 @@
 - [vol-3/02-children-getting-parents-permission.typ] Godhath → God hath
 - [vol-3/02-children-getting-parents-permission.typ] Mar . → Mark
 - [vol-3/02-children-getting-parents-permission.typ] Exo . → Exod
+- [vol-3/02-children-getting-parents-permission.typ] hold → hold me from
+- [vol-3/02-children-getting-parents-permission.typ] from me → 
+- [vol-3/02-children-getting-parents-permission.typ] my → thine
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Psal . → Ps
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] . & → ;
 - [vol-3/03-children-obeying-parents-instruction-and-correction.typ note] Ephes . → Eph
@@ -1001,6 +1022,8 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] Luk . → Luke
 - [vol-3/04-children-giving-back-to-parents.typ note] Pro . → Prov
 - [vol-3/04-children-giving-back-to-parents.typ note] Parent is imprecation → Parentis imprecatione
+- [vol-3/04-children-giving-back-to-parents.typ note] 42 → 42:3
+- [vol-3/04-children-giving-back-to-parents.typ note] 8 . → 
 - [vol-3/04-children-giving-back-to-parents.typ note] Mar . → Mark
 - [vol-3/04-children-giving-back-to-parents.typ note] Joh . → John
 - [vol-3/04-children-giving-back-to-parents.typ note] Luk . → Luke
@@ -1043,7 +1066,9 @@
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] after wards → afterwards
 - [vol-3/05-children-honoring-father-and-mother-in-the-lord.typ] thetime → the time
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus 3:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Rom → Rom 1:31
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 30 → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 3 . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] King . → Kgs
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Act . → Acts
@@ -1054,7 +1079,10 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Pro . → Prov
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tro . → Prov
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] vindie abitur → vindicabitur
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 1 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Pet → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] 2 → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Ose . → Hos
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Exo . → Exod
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Tit . → Titus
@@ -1082,7 +1110,6 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Mat . → Matt
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Psal . → Ps
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] baptizandis → Consuetudo matris Ecclesiae in baptizandis
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . l → 50
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Matth . → Matt
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Joh . → John
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] Matth . → Matt
@@ -1222,13 +1249,17 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] Psal . → Ps
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] Exo . → Exod
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] construx it → construxit
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] the children of → 
+- [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] their → their children’s
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] OVVNE → OWN
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] of → : if
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] for → sort
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] where unto → whereunto
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] an other → another
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ] meeretitular → mere titular
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] 4 → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Tit . → Titus
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] prop ter → propter
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Joh . → John
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Ephes . → Eph
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] Matth . → Matt
@@ -1320,8 +1351,7 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 11 → II
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 2 → 2 King
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] King → 
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] King → Kgs
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Matth . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Matth . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Psal . → Ps
@@ -1351,7 +1381,8 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Pro . → Prov
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat . → Matt
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] Mat → Matt 21:38
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] 24 . 49 . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] 16 . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] King . → Kgs
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] King . → Kgs
@@ -1404,12 +1435,16 @@
 - [vol-4/06-a-masters-authority-rightly-maintained.typ note] Exo . → Exod
 - [vol-4/06-a-masters-authority-rightly-maintained.typ] EPHES . → Eph
 - [vol-4/06-a-masters-authority-rightly-maintained.typ] relin quishing → relinquishing
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] sea quo . libet → seu quolibet
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Deil → Dei l
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Jos . → Josh
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] 18 → 14
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Psal . → Ps
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Pro . → Prov
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Exo . → Exod
+- [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] peccat is → peccatis
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Exo . → Exod
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ note] Coloss . → Col
 - [vol-4/07-a-masters-correcting-and-governing-of-his-household.typ] Pro . → Prov
@@ -1446,6 +1481,7 @@
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Thes . → Thess
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] King . → Kgs
+- [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] eosunt → eo sunt
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Pro . → Prov
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] Psal . → Ps
@@ -1456,6 +1492,7 @@
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ] Jos . → Josh
 - [vol-4/10-a-masters-own-master-in-heaven.typ note] Mat . → Matt
 - [vol-4/10-a-masters-own-master-in-heaven.typ note] Pro . → Prov
+- [vol-4/10-a-masters-own-master-in-heaven.typ note] fruicoelo → frui coelo
 - [vol-4/10-a-masters-own-master-in-heaven.typ] Ephes . → Eph
 - [vol-4/10-a-masters-own-master-in-heaven.typ] i , → is
 
@@ -1959,7 +1996,6 @@
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 3:
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
-- [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → 
 - [vol-1/05-love-that-purifies-the-unclean.typ note] . → :
@@ -2089,8 +2125,6 @@
 - [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → :
-- [vol-1/07-marital-love-and-self-love.typ note] . → 
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
 - [vol-1/07-marital-love-and-self-love.typ note] . → 3:
 - [vol-1/07-marital-love-and-self-love.typ note] . → :
@@ -2370,7 +2404,10 @@
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
-- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
+- [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → :
 - [vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ note] . → 
@@ -3590,8 +3627,6 @@
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → 
-- [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ note] . → :
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] . → 
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] . → s
 - [vol-2/10-a-wifes-not-going-against-her-husbands-will-ii.typ] . → :
@@ -4549,7 +4584,6 @@
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
-- [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] & → Gen
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
 - [vol-3/04-children-giving-back-to-parents.typ note] . → :
@@ -4670,7 +4704,8 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → Gen
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 2
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → m 3:
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] & → ;
@@ -4733,7 +4768,9 @@
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] , → .
-- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 2:
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
+- [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → 
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
 - [vol-3/06-parents-loving-praying-and-providing-for-children.typ note] . → :
@@ -5199,7 +5236,7 @@
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-3/10-parents-being-faithful-to-all-under-their-care.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
-- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
+- [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 3:
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → :
 - [vol-4/01-servants-and-masters-in-the-apostles-words.typ note] . → 
@@ -5416,6 +5453,7 @@
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ note] . → :
 - [vol-4/03-a-servants-obedience-to-his-master.typ] . → ,
+- [vol-4/03-a-servants-obedience-to-his-master.typ] - → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5430,6 +5468,8 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
+- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
@@ -5554,7 +5594,6 @@
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
-- [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → :
 - [vol-4/04-a-servants-faithful-and-willing-service.typ note] . → 
@@ -5863,6 +5902,7 @@
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → 
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] . → :
 - [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] - → 
+- [vol-4/08-a-masters-care-for-his-servants-souls-and-bodies.typ] ( → 
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
 - [vol-4/09-a-masters-employing-and-rewarding-of-his-servants.typ note] . → :
@@ -5972,7 +6012,7 @@
 
 ## case
 
-- holy → Holy (×27)
+- holy → Holy (×29)
 - The → the (×13)
 - children → Children (×8)
 - That → that (×4)
@@ -6175,6 +6215,7 @@
 - 48 → 48:
 - 5 → 5:
 - 50 → 50.
+- 72 → 72.
 - 74 → 74.
 - 8 → 8:
 - 83 → 83.
@@ -6200,6 +6241,7 @@
 - Chuzas → Chuza’s
 - Com → Com.
 - Coning → Coniug
+- Conslit → Constit
 - Craelius → Cornelius
 - Daniels → Daniel’s
 - Edwards → Edward’s
@@ -6259,8 +6301,11 @@
 - Stevens → Stephens
 - Sucton → Sueton
 - Then → When
+- Tit → Ti
 - Uatabl → Vatabl
+- Ueial → Vital
 - Uerendum → Verendum
+- Uide → Vide
 - Uirg → Virg
 - Uirginitas → Virginitas
 - Uiu → Viu
@@ -6269,6 +6314,7 @@
 - Vers → Vers.
 - Ves → Vers
 - Virginea → Virginia
+- Vitit → Vital
 - Weigh → Weighty
 - Wisemans → Wiseman’s
 - Zachariahs → Zachariah’s
@@ -6308,6 +6354,7 @@
 - capeable → capable
 - case → ease
 - castigandun → castigandum
+- cause → causa
 - cavear → caveat
 - ccuet → covet
 - childings → chidings
@@ -6334,6 +6381,7 @@
 - entertaiment → entertainment
 - erroneeusly → erroneously
 - errore → errare
+- eus → eas
 - even → event
 - expani → expavi
 - extermities → extremities
@@ -6345,6 +6393,7 @@
 - fearinglove → fearing-love
 - feat → fear
 - femals → females
+- fine → sine
 - finisherh → finisheth
 - first → fifth
 - fist → fifth
@@ -6392,6 +6441,7 @@
 - laudot → laudat
 - leek → seek
 - lesum → Iesum
+- lethal → lethale
 - leven → leaven
 - like → like.
 - likwise → likewise
@@ -6437,16 +6487,19 @@
 - prince → price
 - profanenss → profaneness
 - pronider → provider
+- prostitatione → prostitutione
 - purchaesing → purchasing
 - quast → quaest
 - qucm → quem
 - queant → quean
 - quiae → quia
+- quodammedo → quodammodo
 - rains → reins
 - rathet → rather
 - requirety → requireth
 - revererend → reverend
 - revetence → reverence
+- revs → reus
 - rhaine → main
 - ruptias → nuptias
 - rust → just
@@ -6461,9 +6514,11 @@
 - see → set
 - sen → seu
 - sences → fences
+- seruabaxtur → seruabantur
 - seruans → servants
 - seruiee → service
 - seruingmen → servingmen
+- seruorun → seruorum
 - shall → shalt
 - sicknesle → sickness
 - siliall → filial
@@ -6508,6 +6563,7 @@
 - wile → vile
 - with → which
 - wives → wives.
+- women → woman
 - wordlings → worldlings
 - world → world.
 - yoaked → yoked

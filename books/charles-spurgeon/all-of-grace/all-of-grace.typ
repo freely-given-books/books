@@ -29,7 +29,11 @@
 
 #include "chapters/typ/chapter-08.typ"
 
-#include "chapters/typ/chapter-09.typ"
+// its last lines would stand alone on the next page: its letter spacing a little tighter brings them back
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/chapter-09.typ"
+]
 
 #include "chapters/typ/chapter-10.typ"
 
