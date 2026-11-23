@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-15" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-21" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2004-07</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -1300,7 +1300,7 @@ same <choice><orig>sexe</orig><reg resp="#auto" type="spelling">sex</reg></choic
 as also the confusion of the<note n="*" place="margin">Species.</note> 
                   <hi>kinds</hi>
 of creatures, when one kind commits
-<choice><orig>filthinesse</orig><reg resp="#auto" type="spelling">filthiness</reg></choice> and abomination with ano<g ref="char:EOLhyphen"/>ther.<note place="margin">Leuit. 18 22. 23.</note>
+<choice><orig>filthinesse</orig><reg resp="#auto" type="spelling">filthiness</reg></choice> and abomination with ano<g ref="char:EOLhyphen"/>ther.<note place="margin"><choice><orig>Leuit.</orig><reg resp="#editor" type="reference">Lev</reg></choice> <choice><orig>18</orig><reg resp="#editor" type="reference">18:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>22<choice><orig>.</orig><reg resp="#editor" type="reference">,</reg></choice> 23.</note>
                </p>
                <p>The second <choice><orig>signe</orig><reg resp="#auto" type="spelling">sign</reg></choice>, is, the <choice><orig>iust</orig><reg resp="#auto" type="spelling">just</reg></choice> &amp; <choice><orig>law<g ref="char:EOLhyphen"/>f<supplied reason="illegible" cert="high" resp="#auto">u<!-- lawfull --><gap reason="illegible" extent="1 letter">
                      <desc>•</desc>

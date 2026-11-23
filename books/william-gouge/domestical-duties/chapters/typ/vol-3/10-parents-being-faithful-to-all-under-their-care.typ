@@ -40,7 +40,7 @@ This is a point the more to be weighed, because the fault here taxed is so commo
 
 Many parents to the husbands and wives of their children do also much transgress and swerve from their duty: for
 
-1\. They will show much more respect to their own children then to the children of their husbands or wives: as by coming to their daughters when their husbands are abroad, and never but then: and sending for their sons to their house, but not for their wives.
+1\. They will show much more respect to their own children then to their children’s husbands or wives: as by coming to their daughters when their husbands are abroad, and never but then: and sending for their sons to their house, but not for their wives.
 
 2\. In all differences they will take part with their own children, though it be in the worse part, and show great partiality.
 

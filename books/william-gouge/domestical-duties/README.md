@@ -49,6 +49,10 @@ sections, never by the printed section number — Gouge prints "§. 15", "§. 43
 "§. 46" and "§. 58" twice each in Treatise IV alone, and two sections have no
 number at all.
 
+## Modern English edition (volume 1)
+
+`chapters/modern/vol-1/` is the Modern English edition of volume 1 (MODERN-ENGLISH-RULES.md), paragraph for paragraph with `chapters/typ/vol-1/`; its print file is `domestical-duties-vol-1-modern.typ`, its cover `cover-vol-1-modern.typ` (the Classic cover, labelled, with the BSB epigraph on the back), its ebook front `ebook-front-vol-1-modern.html`, and `EPUB["volumes"][0]["modern"]` in editorial.py builds its EPUB and reader (colophon 0.55.0). Every recurring term and the treatise's text are settled in `source/modern-glossary.md`, which volumes 2-4 follow. Drafted 2026-11-15 from work/domestical-duties-modern/brief.md (ten drafters), then meaning-audited (work/domestical-duties-modern/audit) and independently assessed. Release and sign-off stay per book: all volumes from one commit.
+
 ## Layout
 
 The text lives in a TEI edition (`source/`): the 1622 transcription with

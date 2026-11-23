@@ -79,7 +79,7 @@ This ought children the rather to labour after, because by nature they are nothi
 
 Two extremes are contrary to this affection of love.
 
-One is #emph[want of natural affection,] which is a vice most odious #footnote[ἀστοργία. Rom 1:30. 2 Tim 3:3.] and abominable in all, but most of all in children. The Apostle reckoneth this among the most heinous vices that be.
+One is #emph[want of natural affection,] which is a vice most odious #footnote[ἀστοργία. Rom 1:31. 2 Tim 3:3.] and abominable in all, but most of all in children. The Apostle reckoneth this among the most heinous vices that be.
 
 The other is hatred and despight of parents: a vice more then monstrous, and unnatural. From thence cometh mocking and cursing of parents, whereof we shall afterwards hear.
 

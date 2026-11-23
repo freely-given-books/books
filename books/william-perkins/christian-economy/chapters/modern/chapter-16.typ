@@ -2,7 +2,7 @@
 
 The servant is a person in the family who is subject to his master.
 
-#emph[The duty of a servant is to conduct himself faithfully and diligently in the affairs of his master, and to serve him as he would serve Christ, though the master be harsh and hard-hearted.] Titus 2:9: “Servants are to submit to their own masters in everything, to be well-pleasing, not argumentative.” Eph 6:5: “Servants, obey your#super[+] earthly masters with respect and fear and sincerity of heart, just as you would obey Christ.” Col 3:22. So Jacob served Laban. Gen 31:38: “I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock,” etc.
+#emph[The duty of a servant is to conduct himself faithfully and diligently in the affairs of his master, and to serve him as he would serve Christ, though the master be harsh and hard-hearted.] Titus 2:9: “Servants are to submit to their own masters in everything, to be well-pleasing, not argumentative.” Eph 6:5: “Servants, obey your#super[+] earthly masters with respect and fear and sincerity of heart, just as you#super[+] would obey Christ.” Col 3:22. So Jacob served Laban. Gen 31:38: “I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock,” etc.
 
 On the other hand, the servant must take heed that he does not do his master’s business negligently, or for appearance’ sake, or with eye-service, as a man-pleaser; that when he is rebuked or reproved he does not answer back; and lastly, that he is trustworthy, and keeps his hands from pilfering and his heart from deceiving his master.
 
@@ -20,7 +20,7 @@ II. That he is not given liberty to use his servant at his own will and pleasure
 
 III. That the power is not enlarged to commanding things against piety or justice. For in these cases a man must obey God rather than man (Acts 4:19).
 
-IV. That masters do not take liberty to separate those of their servants who are married from one another, or those who are parents from their children. For God himself has made these societies and joined such persons together, and therefore man may not separate them.
+IV. That masters do not take liberty to separate those of their servants who are married from one another, or those who are parents from their children. For God himself has made these societies and joined such persons together, and therefore man must not separate them.
 
 V. That masters do not take liberty to hand over their servants to ungodly and unbelieving masters. For that is an unkind and cruel liberty, and may be an evident occasion of making the servant fall away from religion and renounce the true God.
 
@@ -32,13 +32,13 @@ Now that this same power, limited by these cautions, is lawful and warranted in 
 
 I. God has ordained and allowed it, even by warrant of his own law. The posterity of Ham was cursed by Noah and condemned to slavery. Gen 9:25: “And he said, ‘Cursed be Canaan! A servant of servants shall he be to his brothers.’” So were the Gibeonites by Joshua. Josh 9:23: “Now therefore you#super[+] are under a curse and will perpetually serve as woodcutters and water carriers for the house of my God.” So was the thief. Exod 22:3: “A thief must make full restitution; if he has nothing, he himself shall be sold for his theft.” Again, those who are overcome in war may be held captive. It is lawful for the conqueror to kill them, and therefore to make them slaves. And if, being taken, they are saved from death, they owe all that they have to those by whom they are saved.
 
-#emph[II. The law of God gave liberty to any man who wished to sell himself to another.] Lev 25:45: “You#super[+] may also purchase them from the foreigners residing among you or their clans living among you who are born in your land. These may become your#super[+] property.” Deut 15:12: “If a fellow Hebrew, a man or a woman, sells himself to you and serves you six years, then in the seventh year you must set him free.” And v. 17: “Then take an awl and pierce it through his ear into the door, and he will become your servant for life.”
+#emph[II. The law of God gave liberty to any man who wished to sell himself to another.] Lev 25:45: “You#super[+] may also purchase them from the foreigners residing among you#super[+] or their clans living among you#super[+] who are born in your#super[+] land. These may become your#super[+] property.” Deut 15:12: “If a fellow Hebrew, a man or a woman, sells himself to you and serves you six years, then in the seventh year you must set him free.” And v. 17: “Then take an awl and pierce it through his ear into the door, and he will become your servant for life.”
 
 III. The man who is ransomed from his enemy is bound to serve as a slave in return, out of thankfulness.
 
 #emph[IV. The examples of the godly in the Scriptures.] Abraham had servants whom he bought with silver. Gen 17:12: “Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring.” Gen 24:35: “The #smallcaps[Lord] has greatly blessed my master … He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys.”
 
-V. The apostles do not disapprove of such servants. They command them, being servants and called to the profession of Christianity in that state, not to change it, but to remain in their calling. 1 Cor 7:21: “Were you a slave when you were called? Do not let it concern you.”
+V. The apostles do not disapprove of such servants. They command them, being servants and called to profess Christianity in that state, not to change it, but to remain in their calling. 1 Cor 7:21: “Were you a servant when you were called? Do not let it concern you.”
 
 It is alleged that such servitude is against the law of nature. #emph[Answer.] It is indeed against the law of nature in its integrity, as it was before the fall; but it is not against the law of corrupted nature since the fall.
 

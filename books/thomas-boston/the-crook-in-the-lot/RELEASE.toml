@@ -38,6 +38,6 @@ url = "https://archive.org/details/bim_eighteenth-century_crook-in-the-lot-or-th
 # summary = ""
 # The Classic version whose text it follows: set once that Classic is signed (its next
 # version), before the Modern is signed.
-# based_on = ""
+based_on = "v2"
 # Stray footnotes in its print PDF the editor accepts, each by its message:
 # accepted_print = []

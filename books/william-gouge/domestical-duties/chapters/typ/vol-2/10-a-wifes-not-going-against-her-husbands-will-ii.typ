@@ -140,7 +140,7 @@ First they disobey the ordinance of God in a main branch of their particular cal
 
 8\. Such as care not how or what they bind themselves unto #footnote[8\. Binding themselves without consent of husband.] without their husbands consent, or knowledge: Herein especially offend such as being seduced by Jesuits, Priests, or Friars, take the Sacrament, and thereupon by solemn vow and oath bind themselves never to read an English Bible, nor any Protestants books, no nor to go to any of their Churches, or to hear any of their Sermons: and such most of all as enter into some Popish Nunnery, and vow never to return to their husbands again.
 
-#emph[Object. Hannah]#footnote[1 Sam 1:15.] vowed her child to God without her husbands consent, why may not they much more vow themselves to God?
+#emph[Object. Hannah]#footnote[1 Sam 1:11.] vowed her child to God without her husbands consent, why may not they much more vow themselves to God?
 
 #emph[Answ.] Assuredly she was persuaded that her husband would not be against it, and so had an implicit consent: which may well be gathered, because afterwards she made it known to him, as both the #footnote[שמואל #emph[componitur ex diuersis vocibus] שאלתי אתו מאל #emph[Petiui eum a Deo,] I have asked him of God.] name given to the child, and #footnote[1 Sam 1:22.] that speech of #emph[Hannah, I will bring him that he may appear before the Lord, and there abide for ever,] and the answer of her husband, #emph[The Lord establish his word,]#footnote[#emph[Vers.] 23.] and #footnote[1 Sam 2:19.] his going up with her when he was dedicated to the Lord, do all show.
 

@@ -26,7 +26,11 @@ same text anymore").
    prints), the Modern English sets it in roman inside quotation marks, as modern books do.
 5. **Hymns and verse** the author quotes from hymnals keep their printed wording (thee, thou, hath,
    "Convinc’d"), for their rhyme and meter (the editor, 2026-11-15, All of Grace); the Modern
-   modernizes the author's prose and his Scripture around them.
+   modernizes the author's prose and his Scripture around them. **The author's own verse** (Bunyan's
+   Apology, Conclusion and Author's Way, and his rhymed comments inside the story) is modernized like his
+   prose, but stays verse: line for line, same stanzas, every couplet still rhyming, about the same meter; the
+   short verses change as little as possible (grammar, misleading words). His true songs and psalm verses ("He
+   that is down", "Who would true valor see") stay as printed (the editor, 2026-11-19, The Pilgrim's Progress).
 
 ## 2. Sentences (the "level 3" of the pilots)
 
@@ -134,6 +138,12 @@ same text anymore").
 2. **The plural carries a small mark**, you⁺ (a superscript plus), so the singular/plural
    distinction of the original is not lost: Scripture's "ye" (Rom 8:13, Gal 5:17, Isa 7:9) and the
    author turning to all his readers (Owen: "You⁺ know the example of David").
+   **Every plural you, your, yours and yourselves is marked**, not only the first of its sentence (the
+   editor, 2026-11-19; until then one mark a sentence). Applied first to The Pilgrim's Progress; the other
+   books move to it one at a time, each with its front note.
+   Why: it keeps the old English distinction without much noise (a plain you is singular or general,
+   so the singular needs no mark), and a translator into a language that tells singular from plural
+   "you" can render each one rightly.
 3. The singular, the author's "thou" to the single reader, is unmarked.
 4. Where the original already writes "you" for both (Edwards, 1741, preaching to a congregation),
    mark only the plurals that matter to the sense; a mark in every line helps no one.
@@ -182,7 +192,8 @@ what a draft must be checked for before it goes to the editor:
 8. **The front note** (print epigraph page and ebook front) says how Scripture and you⁺ are handled (the editor,
    2026-11-15): “Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his
    argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You⁺” marks a plural “you”
-   (the older “ye”), once in a sentence; a plain “you” is singular or general.” (work/modern-english/scaffold.py writes it;
+   (the older “ye”), once in a sentence; a plain “you” is singular or general.” Under the 2026-11-19 rule (§4.2):
+   ““You⁺” marks every plural “you” (the older “ye”); a plain “you” is singular or general.” (scaffold.py writes it;
    front-note.py changed the books of 2026-11-14/15.)
 9. **The BSB loses the author's word more often than anything else.** The meaning audit found
    some twenty places where the argument rests on one word of the verse and the BSB lacks it

@@ -182,15 +182,37 @@ EPUB = {"title": "Of Domestical Duties", "author": "William Gouge",
         "volumes": [
         {"files": ["vol-1/"], "title": "Of Domestical Duties, Volume I",
          "file": "domestical-duties-vol-1.epub", "cover": "cover-vol-1.typ",
-         "front": "ebook-front-vol-1.html"},
+         "front": "ebook-front-vol-1.html",
+         # volume 1's Modern English edition (MODERN-ENGLISH-RULES.md; terms in
+         # source/modern-glossary.md): its text from chapters/modern/vol-1
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume I",
+                    "file": "domestical-duties-vol-1-modern.epub",
+                    "cover": "cover-vol-1-modern.typ", "front": "ebook-front-vol-1-modern.html"}},
         {"files": ["vol-2/"], "title": "Of Domestical Duties, Volume II",
          "file": "domestical-duties-vol-2.epub", "cover": "cover-vol-2.typ",
-         "front": "ebook-front-vol-2.html"},
+         "front": "ebook-front-vol-2.html",
+         # volume 2's Modern English edition: its text from chapters/modern/vol-2
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume II",
+                    "file": "domestical-duties-vol-2-modern.epub",
+                    "cover": "cover-vol-2-modern.typ", "front": "ebook-front-vol-2-modern.html"}},
         {"files": ["vol-3/"], "title": "Of Domestical Duties, Volume III",
          "file": "domestical-duties-vol-3.epub", "cover": "cover-vol-3.typ",
-         "front": "ebook-front-vol-3.html"},
+         "front": "ebook-front-vol-3.html",
+         # volume 3's Modern English edition: its text from chapters/modern/vol-3
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume III",
+                    "file": "domestical-duties-vol-3-modern.epub",
+                    "cover": "cover-vol-3-modern.typ", "front": "ebook-front-vol-3-modern.html"}},
         {"files": ["vol-4/"], "title": "Of Domestical Duties, Volume IV",
          "file": "domestical-duties-vol-4.epub", "cover": "cover-vol-4.typ",
-         "front": "ebook-front-vol-4.html"}]}
-PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)]
+         "front": "ebook-front-vol-4.html",
+         # volume 4's Modern English edition: its text from chapters/modern/vol-4
+         "modern": {"chapters": "chapters/modern", "title": "Of Domestical Duties, Volume IV",
+                    "file": "domestical-duties-vol-4-modern.epub",
+                    "cover": "cover-vol-4-modern.typ", "front": "ebook-front-vol-4-modern.html"}}]}
+PRINT = [f"domestical-duties-vol-{n}.typ" for n in range(1, 5)] + ["domestical-duties-vol-1-modern.typ", "domestical-duties-vol-2-modern.typ",
+         "domestical-duties-vol-3-modern.typ", "domestical-duties-vol-4-modern.typ"]
 SIDE_BY_SIDE = {"split": ["vol-1/", "vol-2/", "vol-3/", "vol-4/"]}
+
+# Look-alike word swaps that are emendations, not spellings (printed, reading), lowercase:
+# vol. 1 ch. 3, Augustine's "Virum multi salutares" is a misprint for "Vtrum" (whether).
+EMENDATION_PAIRS = {("virum", "vtrum")}

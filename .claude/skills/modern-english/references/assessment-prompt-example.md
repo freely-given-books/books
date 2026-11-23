@@ -21,7 +21,7 @@ Given Books, as the earlier books were assessed (models: `../pilgrim-2026-11-15/
 2. Whole-book checks you run yourself: paragraph and footnote counts; Scripture references kept; archaic forms left;
    straight quotes; **headings** (every `=` line modernized, none keeping archaic words: betwixt, unto, -eth, hath,
    thereof, closing with, want = lack); the glossary's renderings applied consistently (closet, the key verses,
-   professors, closing with Christ); plural marks (you⁺) for genuine plural address, first of every sentence;
+   professors, closing with Christ); plural marks (you⁺) on every plural you of a genuine plural address;
    old words in their old sense left unexplained (still, presently, discover, want, conversation, prevent, bravery,
    naught, spoil, temper, conceit, large, light, several, lighted upon, rout, "and what not").
 3. Judge especially: is Brooks's voice kept (his heaped images, his pithy sayings, "the golden pipe of mercy", "a nose of wax")?

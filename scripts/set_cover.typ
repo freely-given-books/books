@@ -61,6 +61,10 @@
   contents-height: 2.45in,
   volume: none,          // "Volume I", under the roundel
   volume-number: none,   // "I", in it
+  // the edition, for a second edition of the same volume ([Modern English]): a small
+  // ruled label under the volume's name and a mark on the spine, all else as the
+  // first edition's, so the two are one book on a shelf (MODERN-ENGLISH-RULES.md)
+  edition: none,
   // the spine's type, roundel and seal are sized to this width, the
   // thinnest volume's safe strip (spine less 1/8in each side), so every
   // volume of a set shelves alike; none sizes them to this volume's own
@@ -173,6 +177,11 @@
           v(0.08in)
           caps(volume, 8.5pt, accent, tracking: 0.3em)
         }
+        if edition != none {
+          v(0.16in)
+          box(stroke: (top: 0.6pt + accent, bottom: 0.6pt + accent), inset: (x: 0.04in, y: 0.07in),
+            caps(edition, 8pt, accent))
+        }
         v(1fr)
       }))
     }
@@ -225,6 +234,7 @@
             h(0.14in)
             show linebreak: [ ]
             text(font: DISPLAY, size: size, tracking: 0.12em, fill: ink, upper(stitle))
+            if edition != none { h(0.1in); text(size: 6pt, fill: accent, sym.diamond.filled); h(0.1in); text(weight: "medium", size: size * 0.6, tracking: 0.1em, fill: accent, upper(edition)) }
           }))))
     }))
 

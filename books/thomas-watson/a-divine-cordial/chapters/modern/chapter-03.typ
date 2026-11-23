@@ -99,7 +99,7 @@
 
 === The Communion of Saints
 
-6\. The communion of saints works for good: συνεργοὶ ἐσμὲν, “we are fellow workers with you#super[+] for your joy” (2 Cor 1:24). One Christian talking with another is a means to strengthen him, as the stones in an arch help to strengthen one another. One Christian, by sharing his experiences, warms and enlivens another: “Let us … spur one another on to love and good deeds” (Heb 10:24). How grace flourishes by holy conversation! A Christian, by good talk, drops such oil on another as makes the lamp of his faith burn brighter.
+6\. The communion of saints works for good: συνεργοὶ ἐσμὲν, “we are fellow workers with you#super[+] for your#super[+] joy” (2 Cor 1:24). One Christian talking with another is a means to strengthen him, as the stones in an arch help to strengthen one another. One Christian, by sharing his experiences, warms and enlivens another: “Let us … spur one another on to love and good deeds” (Heb 10:24). How grace flourishes by holy conversation! A Christian, by good talk, drops such oil on another as makes the lamp of his faith burn brighter.
 
 === Christ’s Intercession
 

@@ -1,8 +1,13 @@
-"""Plural marks, the house style (rules §4; Surest Way lesson): in every paragraph the drafters marked as a plural
-address (it holds a you⁺) and whose Classic has no singular thou/thee/thy, mark the first you/your of EVERY
-sentence; the rest of a sentence stays plain. python3 plurals.py BOOK_DIR [--write]  (without --write: counts only)
---excess lists sentences carrying more than one mark (the house style is one a sentence; the 11-17 re-check
-counted 18 in Mortification, 26 in Indwelling Sin, 12 in A Divine Cordial); removing them is a judgment call."""
+"""Plural marks (rules §4.2, the editor 2026-11-19): EVERY plural you/your/yours/yourselves carries you⁺, not only
+the first of its sentence. Lists, in every Modern paragraph that carries a you⁺, the you/your forms still unmarked,
+numbered, with the Classic paragraph beside it, to be settled one by one: plural (ye, or you to a group) or singular
+(thou, or a polite singular you; a speaker may turn from the group to one person mid-paragraph).
+python3 plurals.py BOOK_DIR [--show] [--write]
+  --show   print each paragraph (Classic, then Modern with the unmarked forms numbered ⟨n⟩)
+  --write  mark every unmarked form in those paragraphs whose Classic has no singular thou/thee/thy. Only for a book
+           whose plural-address paragraphs speak to the group throughout (Owen's or Brooks's readers); in a
+           dialogue book (Bunyan) read --show and mark by hand (work/you-plus-2026-11-19/apply.py).
+A ; ( or [ straight after #super[+] is swallowed by Typst: the script escapes a ; it creates (\\;)."""
 import re, sys
 from pathlib import Path
 THOU = re.compile(r"\b(thou|thee|thy|thine|thyself)\b", re.I)
@@ -10,24 +15,23 @@ YOU = re.compile(r"\b([Yy]ou(?:rs|r|rselves)?)\b(?!#super)")
 B = Path(sys.argv[1]) / "chapters"
 total = 0
 for mp in sorted((B / "modern").rglob("*.typ")):
-    cps = [p for p in re.split(r"\n\s*\n", (B / "typ" / mp.relative_to(B / "modern")).read_text()) if p.strip()]
+    rel = mp.relative_to(B / "modern")
+    cps = [p for p in re.split(r"\n\s*\n", (B / "typ" / rel).read_text()) if p.strip()]
     mps = re.split(r"(\n\s*\n)", mp.read_text())
     k, n = 0, 0
     for i in range(0, len(mps), 2):
         if not mps[i].strip(): continue
         c = cps[k]; k += 1
-        if "#super[+]" not in mps[i] or THOU.search(c): continue
-        out = []
-        for s in re.split(r"(?:(?<=[.?!])|(?<=[.?!][”’\])]))(\s+)(?=[“‘(\[#]?[A-Z])", mps[i]):  # also after .” and .]
-            if "#super[+]" not in s and not s.isspace():
-                s, a = YOU.subn(r"\1#super[+]", s, count=1); n += a
-            out.append(s)
-        mps[i] = "".join(out)
+        if "#super[+]" not in mps[i] or not YOU.search(mps[i]): continue
+        hits = len(YOU.findall(mps[i])); n += hits
+        if "--show" in sys.argv:
+            c_ = [0]
+            def num(m):
+                c_[0] += 1; return f"{m.group(1)}⟨{c_[0]}⟩"
+            print(f"=== {rel} ¶{k}{'  (Classic has thou)' if THOU.search(c) else ''}\nC: {c}\nM: {YOU.sub(num, mps[i])}\n")
+        if "--write" in sys.argv and not THOU.search(c):
+            mps[i] = re.sub(r"#super\[\+\];", r"#super[+]\\;", YOU.sub(r"\1#super[+]", mps[i]))
     if n and "--write" in sys.argv: mp.write_text("".join(mps))
-    if n: print(f"{mp.name}: {n}")
+    if n: print(f"{rel}: {n} unmarked in plural-address paragraphs")
     total += n
-if "--excess" in sys.argv:
-    for mp in sorted((B / "modern").rglob("*.typ")):
-        for s in re.split(r"(?<=[.?!])\s+", mp.read_text()):
-            if s.count("#super[+]") > 1: print(f"excess {mp.name}: {s[:140]}")
-print(total, "marks", "written" if "--write" in sys.argv else "to add (run with --write)")
+print(total, "unmarked you/your in paragraphs carrying a you⁺", "(marked where the Classic has no thou)" if "--write" in sys.argv else "")

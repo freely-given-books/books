@@ -59,7 +59,7 @@ colophon's venv: `colophon/.venv/bin/python`.
    - headings modernized too;
    - the false-friend list up front, replace, never gloss;
    - the BSB lean check;
-   - the you⁺ rule (first plural you of every sentence of a plural address);
+   - the you⁺ rule (every plural you/your/yours/yourselves, rules §4.2);
    - gendered language kept;
    - no fresh images;
    - a reply that lists suspected Classic slips and recurring terms the glossary lacks.
@@ -124,8 +124,10 @@ a misprint; when one is fixed, say so.
    `<book>-audit-edits.py`, each edit with a comment saying why. Where two readers disagree, read the Classic
    yourself.
 5. **Review the edits:** sonnet/high on the edit script's diff (`check-prompts.md` §6).
-6. Plural marks: `plurals.py BOOK_DIR --write` marks the first you of every sentence of a plural address (a
-   paragraph with a you⁺ and no singular thou in the Classic). Run it again after any edit script.
+6. Plural marks: `plurals.py BOOK_DIR` lists every unmarked you/your in a paragraph that carries a you⁺;
+   settle each against the Classic (ye / you to a group, or thou / a polite singular you) and mark the plurals
+   (`--write` marks them all, only for a book whose plural-address paragraphs speak to the group throughout).
+   Run it again after any edit script.
 
 ### 7. Independent assessment (fable or opus, xhigh)
 
@@ -206,6 +208,6 @@ gives the second reading, and opus or fable drafts and judges. Pass `model` and 
 | `audit-terms.py`, `audit-show.py` | technical terms that must survive (not false friends) |
 | `audit-scripture.py`, `bsb.py` | quotations against the BSB; verse lookup |
 | `audit-grep.py`, `audit-match.py` | look a phrase up in the pairs |
-| `plurals.py` | first you⁺ of every sentence of a plural address |
+| `plurals.py` | unmarked you/your in plural-address paragraphs (every plural is marked) |
 | `assign.py`, `coverage.py` | reader runs for two offset passes; proof (verdicts + clause ledger) that each read everything |
 | `scaffold.py`, `pagefit.py`, `side_by_side.py` | edition files, page fit, the editor's review page |

@@ -9,10 +9,10 @@ from pathlib import Path
 B, slug, ep_old, ep_new = Path(sys.argv[1]), sys.argv[2], sys.argv[3], sys.argv[4]
 NOTE_TYP = ('#v(2em)\n      #text(size: 8pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own \\ '
             'Bible where his argument rests on its wording; capitals for God in quotations \\ (He, His) follow the BSB. '
-            '“You#super[+]” marks a plural “you” (the older “ye”), \\ once in a sentence; a plain “you” is singular or general.]')
+            '“You#super[+]” marks every plural “you” (the older “ye”); a plain “you” is singular or general.]')
 NOTE_HTML = ('<p class="note">Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his '
-             'argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You<sup>+</sup>” marks a plural '
-             '“you” (the older “ye”), once in a sentence; a plain “you” is singular or general.</p>')
+             'argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You<sup>+</sup>” marks every plural '
+             '“you” (the older “ye”); a plain “you” is singular or general.</p>')
 
 c = (B / "cover.typ").read_text()
 assert c.count("\n#plate-cover(") == 1

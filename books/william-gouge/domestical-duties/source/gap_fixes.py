@@ -117,7 +117,7 @@ GAP_FIXES = {
     108: ('שנן', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n183): Hebrew, unpointed, margin note d 'Doctus inter Hebr. vocem שנן continuò loqui exponit', p.158; root of Deut 6:7 וְשִׁנַּנְתָּם", '#editor'),  # שנן
     109: ('Κυρίου', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n184): margin by 'The last word (of the Lord)', p.159; ου ligature", '#editor'),  # Κυρίου
     110: ('οἱ δοῦλοι', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n185): margin by 'This title (Seruants)', p.160; Eph 6:5", '#editor'),  # οἱ δοῦλοι
-    111: ('ap', 'high', 'by hand: Vide [ap]ud Viu[es]. ibid.', '#editor'),  # [ap]ud
+    111: ('L', 'high', 'read from the 1622 page image (p.160 margin, scan n185), replacing the guess ap: Vide [L]ud Viu. ibid. (Ludovicus Vives)', '#editor'),  # [L]ud
     112: ('τοῖς κυρίοις', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n185): margin 'τοῖς κυρίοις. What masters are meant', p.160; Eph 6:5", '#editor'),  # τοῖς κυρίοις
     113: ('ὑπακούετε', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n186): margin by 'Vnder this word (obey)', p.161", '#editor'),  # ὑπακούετε
     114: ('κατὰ σάρκα', 'high', "read from the 1622 page image (archive.org bim_early-english-books-1475-1640_of-domesticall-duties-ei_gouge-william_1622, n186): margin under '6. Obseru.' by 'This clause (according to the flesh)', p.161; κατὰ printed as contraction κ with τ and grave", '#editor'),  # κατὰ σάρκα
@@ -465,7 +465,7 @@ GAP_FIXES = {
     456: ('th', 'high', "the book's own vocabulary: _e -> th:12236, ar:2300, on:990, do:944; confirmed on the 1622 page image (n462)", '#auto'),  # [th]e
     457: ('ie', 'high', "the book's own vocabulary: sub_ction -> ie:297", '#auto'),  # sub[ie]ction
     458: ('le', 'high', "the book's own vocabulary: cal_d -> le:93, ce:1; confirmed on the 1622 page image (n462)", '#auto'),  # cal[le]d
-    459: ('bo', 'high', 'by hand: an hand in placing [bo]th their children', '#editor'),  # [bo]th
+    459: ('for', 'high', 'read from the 1622 page image (n462), replacing the guess bo: rth at the gutter; the 1626 edition reads placing forth', '#editor'),  # [for]th
     460: ('w', 'high', "the book's own vocabulary: _orld -> w:137", '#auto'),  # [w]orld
     461: ('w', 'high', "the book's own vocabulary: _hile -> w:105", '#auto'),  # [w]hile
     462: ('sh', 'high', 'by hand: that they [sh]ould see their children well trained vp', '#editor'),  # [sh]ould
