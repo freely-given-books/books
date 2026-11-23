@@ -12,7 +12,10 @@
 // `pages` here is only for compiling the cover by itself.
 // edition: the Modern English edition's label (cover-vol-2-modern.typ)
 #let cover(edition: none,
-  epigraph: [Submitting your selves one to another in the fear of God.]) = table-cover(
+  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph-source: [Ephesians v. 21],
+  psalm: [Thy children like olive plants round about thy table.],
+  psalm-source: [Psalm cxxviii. 3]) = table-cover(
   edition: edition,
   seal: press-seal,
   cloth: rgb("#9FB66B"),
@@ -36,7 +39,9 @@
   pages: 348,
   back-lead: [Who may marry and how a marriage is made; the duties husband and wife owe each other in common; and then, at length, the particular duties of wives and of husbands — each duty set against the fault that answers to it.],
   epigraph: epigraph,
-  epigraph-source: [Ephesians v. 21],
+  epigraph-source: epigraph-source,
+  psalm: psalm,
+  psalm-source: psalm-source,
   // isbn: "978-0-000000-00-0",
 )
 

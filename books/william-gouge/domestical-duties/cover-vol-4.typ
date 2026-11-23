@@ -12,7 +12,10 @@
 // `pages` here is only for compiling the cover by itself.
 // edition: the Modern English edition's label (cover-vol-4-modern.typ)
 #let cover(edition: none,
-  epigraph: [Submitting your selves one to another in the fear of God.]) = table-cover(
+  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph-source: [Ephesians v. 21],
+  psalm: [Thy children like olive plants round about thy table.],
+  psalm-source: [Psalm cxxviii. 3]) = table-cover(
   edition: edition,
   seal: press-seal,
   cloth: rgb("#76914B"),
@@ -36,7 +39,9 @@
   pages: 179,
   back-lead: [The last of the eight treatises, with the exposition of Ephesians 6:5-9 they are raised out of: what a servant owes his master in reverence, obedience and faithfulness, and what a master owes his servants in authority, provision, employment and wages — under the Master they both have in heaven.],
   epigraph: epigraph,
-  epigraph-source: [Ephesians v. 21],
+  epigraph-source: epigraph-source,
+  psalm: psalm,
+  psalm-source: psalm-source,
   // isbn: "978-0-000000-00-0",
 )
 
