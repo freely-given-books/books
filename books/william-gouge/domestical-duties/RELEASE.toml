@@ -35,3 +35,14 @@ url = "https://archive.org/details/bim_early-english-books-1475-1640_of-domestic
 [[witness]]
 description = "The earlier Freely Given Books edition (made with the converter before the TEI): source/migration-differences.md"
 url = ""
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (william-gouge/domestical-duties/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = "v4"
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

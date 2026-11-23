@@ -114,7 +114,7 @@ In their #emph[Opinion] they must be informed and resolved that the #footnote[Se
 
 5\. God hath made many promises of reward both to masters, and servants, that conscionably perform the duties of their place: and hath made many threatenings against the one and the other that are negligent therein.
 
-All these grounds are so clearly and plentifully noted in the Scripture, that any one who is any whit acquainted therewith may know them to be so. Were there no other arguments then this text which I have in hand, it were enough to confound all gainsayers: and to move such as believe the rather #footnote[#emph[Serui cum crediderint plus dominis carnalibus seruire debent. Cypr. Testim. l.] 3. #emph[c.] 72 See Treat. 1. §. 123.] for their faith and profession sake to serve their masters after the flesh.
+All these grounds are so clearly and plentifully noted in the Scripture, that any one who is any whit acquainted therewith may know them to be so. Were there no other arguments then this text which I have in hand, it were enough to confound all gainsayers: and to move such as believe the rather #footnote[#emph[Serui cum crediderint plus dominis carnalibus seruire debent. Cypr. Testim. l.] 3. #emph[c.] 72. See Treat. 1. §. 123.] for their faith and profession sake to serve their masters after the flesh.
 
 === §. 3. #emph[Of the Anabaptists arguments against the authority of masters, and subjection of servants.]
 
