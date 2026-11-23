@@ -21,7 +21,7 @@
         — Joshua 24:15
       ]
       #v(2em)
-      #text(size: 9pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), once in a sentence; a plain “you” is singular or general.]
+      #text(size: 9pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks every plural “you” (the older “ye”); a plain “you” is singular or general.]
     ]
   ]
 )
@@ -38,7 +38,11 @@
 
 #include "chapters/modern/chapter-04.typ"
 
-#include "chapters/modern/chapter-05.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/chapter-05.typ"
+]
 
 #include "chapters/modern/chapter-06.typ"
 
