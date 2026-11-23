@@ -17,7 +17,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    The Modern English edition of John Calvin's _Institutio Christianae Religionis_ (1559), from Henry Beveridge's translation (Calvin Translation Society, Edinburgh, 1845) checked against Calvin's Latin: his words in modern English, paragraph for paragraph with the Classic edition, nothing left out.
+    Henry Beveridge's translation (Edinburgh, 1845) in modern English, checked against Calvin's Latin of 1559.
 
     This is volume 1 of six: Book I is volume 1, Book II volume 2,
     Book III volumes 3 and 4, and Book IV volumes 5 and 6.

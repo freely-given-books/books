@@ -55,11 +55,8 @@ SOURCE_NOTE = ("Set from Henry Beveridge's translation of John Calvin's "
 # Scripture and the plural "you", and its source paragraph
 MODERN_EPIGRAPH = ("Our wisdom, insofar as it ought to be counted true and solid wisdom, "
                    "consists almost entirely of two parts: the knowledge of God and of ourselves.")
-MODERN_SOURCE_NOTE = ("The Modern English edition of John Calvin's _Institutio Christianae "
-                      "Religionis_ (1559), from Henry Beveridge's translation (Calvin "
-                      "Translation Society, Edinburgh, 1845) checked against Calvin's Latin: "
-                      "his words in modern English, paragraph for paragraph with the Classic "
-                      "edition, nothing left out.")
+MODERN_SOURCE_NOTE = ("Henry Beveridge's translation (Edinburgh, 1845) in modern English, "
+                      "checked against Calvin's Latin of 1559.")
 MODERN_NOTE = ("Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own "
                "Bible where his argument rests on its wording; capitals for God in quotations "
                "(He, His) follow the BSB. “You{plus}” marks every plural “you” (the older “ye”); "
