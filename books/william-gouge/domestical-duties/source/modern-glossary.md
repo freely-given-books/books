@@ -79,7 +79,7 @@ headship, spouse, due benevolence (glossed once a chapter: "the marriage duty ea
 - Holy Ghost → Holy Spirit; Saviour → Savior.
 - God always capitalized; Gouge's own pronouns for God as the Classic prints them; the BSB's in its quotations.
 - Gendered language kept (man, men, he, brethren, no man).
-- you⁺: the first plural you/your of every sentence of a plural address.
+- you⁺: every plural you / your / yours / yourselves (the editor, 2026-11-19; Volume I re-marked 2026-11-20); plain = singular or general.
 
 False friends (old sense → plain word): honest (honorable, decent, chaste), discover (reveal,
 expose), let (hinder), meat (food), nice (fussy), presently (at once), prevent (go before),
@@ -228,6 +228,90 @@ phrase, besotted, make conscience of, restraint, the creature (as a created bein
 (rhetoric, dedication), preferment, clean, ex opere operato "by the work itself, that is, by the very work done" (the Latin
 term, translated). starve already "freeze".
 
+## Added from the Volume II drafts and checks (2026-11-20)
+
+The text blocks: ch. 08 (Eph 5:22–24) "Wives, submit yourselves⁺ to your⁺ own husbands as to the Lord. v. 23. … v. 24.
+Therefore, as the church is subject to Christ, so let wives be subject to their husbands in everything." (5:24 without
+"own", as the 1622 block prints it); ch. 13 "Husbands, love your⁺ own wives, just as Christ loved the church, etc." ("own":
+Gouge's §9 argues from it).
+
+Eph 5:33 is quoted "let the wife see that she **fears** her husband" where Gouge argues from the word Fear (φοβῆται, ch. 08
+§7); elsewhere "reverences" as settled. Recurring Scripture words kept where Gouge leans on them (BSB adjusted): Gen 3:16
+as Gouge quotes it in each place: "Your desire will be subject to your husband" where his text has "subject" (chs. 08,
+11, 12, as Volume I), "Your desire will be to your husband" in ch. 09, where he argues that the verse implies subjection; 1 Cor 7:2 "to avoid fornication"; 1 Cor 7:3
+"render due benevolence"; 1 Cor 7:4 "power over her own body"; 1 Cor 7:34 "care … how she can please her husband"; 1 Pet
+3:1–2 "be subject", "coupled with fear"; 1 Pet 3:4 "meek"; 1 Pet 3:5 "subject"; 1 Pet 3:6 Sarah's "lord" (lowercase, as
+the BSB); 1 Pet 3:7 "dwell with them according to knowledge", "the weaker vessel", "heirs of the grace of life"; 1 Tim
+2:12 "usurp authority … but to be in silence"; 1 Tim 5:14 "govern their households"; Titus 2:5 "keepers at home"; Heb
+13:4 "Marriage is honorable in all, and the bed undefiled"; Col 3:19 "do not be bitter"; Prov 5:19 "the loving doe and
+pleasant roe … be enraptured always with her love"; Deut 13:6 "the wife of your bosom"; Gen 20:16 "a covering of the
+eyes"; Lev 19:17 "allow sin to rest on him"; Matt 18:15 "tell him his fault between you and him alone"; 2 Tim 2:25
+"instruct with meekness those who oppose themselves"; Acts 5:9 "agree together"; Matt 16:18 "will never prevail against
+her"; Deut 7:7 "set His love on you⁺"; 1 Cor 9:5 "power to take along a wife"; Ps 110:3 "in the day of Your power";
+Prov 2:17 "the guide of her youth"; Prov 13:10 "Strife comes only from pride"; Prov 19:11 "it is to a man's glory to
+overlook an offense"; Job 19:17 "My breath is alien to my wife" (Gouge reads estrangement); 2 Cor 9:4 "this confident
+boasting". Gouge's Geneva verse numbers are kept (Eccl 7:3 and 7:23, Num 30 one above the KJV, Song 1:2).
+
+| 1622 | Modern English |
+|---|---|
+| matrimony, matrimonial | marriage, marital |
+| contract (the formal promise to marry) | contract (kept, Gouge's term); espoused / contracted persons → betrothed |
+| consummate (a marriage, made up and solemnized) | complete(d) (not the sexual sense) |
+| continency / incontinency | self-control / lack of self-control |
+| consanguinity and affinity | kinship by blood and by marriage |
+| impotency (bodily) | impotence; (of mind, ch. 09) incapacity |
+| requisite | needful |
+| portion, dowry, jointure, banns | kept (money and church terms) |
+| thirds (a widow's legal share) | her widow's third (a third part of the husband's estate) |
+| covert, woman covert, during coverture | married woman, while she is married; "covert baron" kept as Gouge's law-phrase |
+| feoffee in trust, feoffment, disseisor | trustee, conveyance of land, wrongfully dispossesses |
+| property / propriety (in goods) | ownership |
+| goodman, and the names a wife gives her husband | kept as printed, in quotation marks (ch. 08 §§. 12–13; ch. 15 the husband's names for his wife) |
+| obeisance | gestures of respect, reverent bearing |
+| carriage, gesture, countenance | conduct, bearing, expression ("countenance" kept as Gouge's head term in ch. 16) |
+| wive-like | wifely |
+| compellations | forms of address |
+| stout, stoutness, stomach | proud / stubborn, stubbornness, pride |
+| froward, peevish, louring | perverse, irritable, scowling |
+| passion | anger (distress, of Hannah) |
+| strumpet, light huswife | harlot, loose woman |
+| lightness (sexual) | looseness; otherwise flightiness |
+| strange flesh / women | another's flesh, forbidden women |
+| unnatural (of family love) | heartless; unnatural affection → lack of natural affection |
+| entertainment (of guests) | hospitality, welcome |
+| credit | reputation, good name (kept in the credit / discredit wordplay) |
+| house-wife, housewifery | homemaker, household management; "good housewife" kept for Solomon's (Prov 31); 1 Tim 5:13 "idle homemaker" |
+| yoke-fellow | yokefellow (one word, as Volume I and the BSB) |
+| requisite, expedient | needful, advisable ("expediency" kept as Gouge's category, ch. 02 §. 15) |
+| civil honor | social honor |
+| husbandry | thrift, management |
+| friends (kin) | family, relatives |
+| infidel, faithful (wives) | unbeliever, believing |
+| familiar (with) | affectionate, at ease with; "friendly" with other women |
+| pretend(ed) | claim, alleged |
+| prove (turn out, show oneself) | turn out, show himself |
+| slightly (pass over) | carelessly |
+| expedient | advisable |
+| baseness (of rank) | low standing |
+| properly (strictly) | in the strict sense |
+| dispose of (children, matters) | arrange for, order |
+| dotage (doting love) | foolish doting (vol. I "folly" where it means folly) |
+| by-respects | ulterior motives, self-interested reasons |
+| dissimulation, variableness | pretense, fickleness |
+| travel / child-bed | labor / recovery after childbirth |
+| stews | brothels |
+| veils (servants' tips) | gratuities |
+| Chirurgions, quellers | surgeons, killers |
+| the Tridentine council | the Council of Trent |
+| Canticles | the Song of Songs |
+
+Kept: proverbs and sayings as proverbs, put in modern grammar ("As good not to do it at all as to be never the better
+for it"; "The second blow makes the fray"; "Oft
+did I well … hear I ever", for its rhyme); "With all my worldly goods I thee endow" (the liturgy's words, ch. 09 §30); the
+husband as "Savior of the body" (Gouge's borrowed title, capitalized only inside the verse); "gesture" and "countenance" as
+Gouge's head terms (ch. 16, as Volume I); "provoke (to good)" kept, but "urge" where "provoke her" would read as
+irritate (ch. 07 §44).
+
 ## The editor's answers, 2026-11-21
 
 - Eph 5:22: "Wives, submit yourselves⁺ to your own husbands as to the Lord." in every volume (Gouge's §12
@@ -244,3 +328,9 @@ term, translated). starve already "freeze".
   Hypothesi" moved to "By consequence"; ch. 8 §71 Heb 1:2, Ps 24:1 and 1 Cor 3:21 moved to "heir of all",
   "the fulness thereof" and "All things are yours" (both editions).
 - Kept as printed in both editions: Eph 3:1 (ch. 11 §103) and "the unity of his divine nature" (ch. 4 §31).
+- Volume II (Vikunja #100-#106): Eph 5:33 "fears" in ch. 08 §7 only, where Gouge argues from the word,
+  "reverences" elsewhere; Gouge's Geneva verse numbers kept as printed beside BSB wording (Eccl 7:3, 7:23,
+  Num 30, Song 1:2), in every volume; the names husband and wife give each other (ch. 08, ch. 15) kept as
+  printed, unexplained; "under covert baron, that is, under her husband's covering" kept, the gloss in
+  Gouge's sentence; Gouge's "you" to all his readers marked you⁺. Ch. 17's section heads renumbered to the
+  print's own contents table (§. 57 → 56, the first §. 58 → 57), both editions.

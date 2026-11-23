@@ -71,7 +71,7 @@ The second point, concerning the firmness of the marriage knot, in these words #
 
 2\. #emph[Man and wife are joined together by an inviolable bond.] It #footnote[See #emph[Treatise] 2, #emph[part] 2, §. 2.] must never be cut apart until death cuts it. Body and soul must be separated from one another before husband and wife are.
 
-Be careful, therefore, to preserve this indissoluble knot. And live together in such a way that you#super[+] may live together with comfort, because you must not part.
+Be careful, therefore, to preserve this indissoluble knot. And live together in such a way that you#super[+] may live together with comfort, because you#super[+] must not part.
 
 === §. 82. #emph[Of only two being joined together in marriage.]
 

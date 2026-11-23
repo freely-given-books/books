@@ -33,7 +33,7 @@
         — Ephesians 5:21
       ]
       #v(2em)
-      #text(size: 9pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks a plural “you” (the older “ye”), once in a sentence; a plain “you” is singular or general.]
+      #text(size: 9pt)[Scripture is quoted from the Berean Standard Bible, kept closer to the author’s own Bible where his argument rests on its wording; capitals for God in quotations (He, His) follow the BSB. “You#super[+]” marks every plural “you” (the older “ye”); a plain “you” is singular or general.]
     ]
   ]
 )
@@ -66,7 +66,11 @@
 
 #metadata[Headship in Marriage and the Church] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 14–25])) <kicker>
-#include "chapters/modern/vol-1/03-headship-in-marriage-and-the-church.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/vol-1/03-headship-in-marriage-and-the-church.typ"
+]
 
 #metadata[Husbands and the Love of Christ] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 26–33])) <kicker>
@@ -74,15 +78,27 @@
 
 #metadata[Love That Purifies the Unclean] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 34–47])) <kicker>
-#include "chapters/modern/vol-1/05-love-that-purifies-the-unclean.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/vol-1/05-love-that-purifies-the-unclean.typ"
+]
 
 #metadata[Redeemed for Glory] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 48–52])) <kicker>
-#include "chapters/modern/vol-1/06-redeemed-for-glory.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/vol-1/06-redeemed-for-glory.typ"
+]
 
 #metadata[Marital Love and Self-Love] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 53–67])) <kicker>
-#include "chapters/modern/vol-1/07-marital-love-and-self-love.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/vol-1/07-marital-love-and-self-love.typ"
+]
 
 #metadata[Christ’s Union with His Beloved Body] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 68–78])) <kicker>
@@ -90,7 +106,11 @@
 
 #metadata[The Ancient Law and Unique Bond of Marriage] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 79–89])) <kicker>
-#include "chapters/modern/vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: -0.015em)
+  #include "chapters/modern/vol-1/09-the-ancient-law-and-unique-bond-of-marriage.typ"
+]
 
 #metadata[The Mystery and Practice of Marriage] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 90–95])) <kicker>
@@ -98,7 +118,11 @@
 
 #metadata[The Child’s Duties to His Parents] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 96–114])) <kicker>
-#include "chapters/modern/vol-1/11-the-childs-duties-to-his-parents.typ"
+// a short chapter ending pulled back (print_check's page warning): letter spacing a little tighter
+#[
+  #set text(tracking: 0.005em)
+  #include "chapters/modern/vol-1/11-the-childs-duties-to-his-parents.typ"
+]
 
 #metadata[The Parents’ Duty towards Their Children] <short>
 #metadata((part: [The First Treatise: On Ephesians 5:21–6:9], sections: [§§. 115–122])) <kicker>
