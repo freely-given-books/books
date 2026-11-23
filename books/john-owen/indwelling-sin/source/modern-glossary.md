@@ -77,6 +77,13 @@ evangelical, legal), engine(s), formal / formality (going through the form), gen
 | passion (anger) | quick temper |
 | the creature (a man who has conceived sin) | the person |
 
-Kept as well: quickening (not "making alive"), engines, expiation, "virtual consent" (no gloss), "preventing grace" in ch. 13 (it
-hinders sin; ch. 7 has "restraining grace", a question for the editor). Jas 1:15 is quoted "brings forth" throughout (BSB adjusted:
+Kept as well: quickening (not "making alive"), engines, expiation, "virtual consent" (no gloss), Owen's own grace terms: "preventing grace" in ch. 7 (it
+hinders sin; the editor, card #135, 2026-11-22), "restraining grace" in ch. 13 as he writes it there. Jas 1:15 is quoted "brings forth" throughout (BSB adjusted:
 chs. 12-13 argue from conceiving and bringing forth).
+
+
+## The editor's answers, 2026-11-22
+
+- #133: Jas 1:15 "brings forth" in all seven quotations (kept).
+- #134: exhortations to the readers marked you⁺; the generic "you" of ch. 2 ¶11-12 plain (kept).
+- #135: Owen's "preventing grace" restored in ch. 7 ¶27; ch. 13 keeps his "restraining grace".
