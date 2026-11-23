@@ -2,9 +2,9 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2686 |
+| spelling | 2684 |
 | punctuation | 2439 |
-| emendation | 864 |
+| emendation | 862 |
 | spacing | 120 |
 | case | 84 |
 | note | 38 |
@@ -17,7 +17,6 @@
 ## emendation
 
 - [vol-1/01-prefatory-address.typ note] at bottom of p . 11 , → 
-- [vol-1/01-prefatory-address.typ] scourings → scourings (broken at the line end)
 - [vol-1/01-prefatory-address.typ] Psalm → Ps
 - [vol-1/01-prefatory-address.typ] be → be the
 - [vol-1/01-prefatory-address.typ] Mt . → Matt
@@ -41,7 +40,6 @@
 - [vol-1/book-1-argument.typ] Chap . → Chapter
 - [vol-1/book-1-chapter-01.typ] has → have
 - [vol-1/book-1-chapter-04.typ] because → but
-- [vol-1/book-1-chapter-04.typ] arrogating → arrogating (the earlier clause also opens “because”)
 - [vol-1/book-1-chapter-04.typ] Psalm → Ps
 - [vol-1/book-1-chapter-04.typ] Psalm → Ps
 - [vol-1/book-1-chapter-04.typ] has → hath
@@ -898,7 +896,7 @@
 - [vol-1/01-prefatory-address.typ note] , → 
 - [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
-- [vol-1/01-prefatory-address.typ] — → -|
+- [vol-1/01-prefatory-address.typ] — → -
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
 - [vol-1/01-prefatory-address.typ] . → 
@@ -3890,7 +3888,6 @@
 - laquelie → laquelle
 - lar → la
 - leave → have
-- lib → Lib.
 - light → right
 - limitations → limitation,
 - literature → literaturæ
@@ -4086,7 +4083,6 @@
 - universes → universe,
 - unjustly → justly
 - unnamed → inflamed
-- unrighteous → righteous
 - use → us,
 - valour → valor
 - veuillins → veuillions
