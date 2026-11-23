@@ -4,7 +4,7 @@
 | --- | --- |
 | spelling | 2755 |
 | punctuation | 2451 |
-| emendation | 940 |
+| emendation | 941 |
 | case | 131 |
 | spacing | 129 |
 | note | 38 |
@@ -290,6 +290,7 @@
 - [vol-2/book-2-chapter-06.typ] Chap . → Chapter
 - [vol-2/book-2-chapter-06.typ] has → hath
 - [vol-2/book-2-chapter-07.typ note] 117 → 118
+- [vol-2/book-2-chapter-07.typ] be sprinkling → besprinkling
 - [vol-2/book-2-chapter-07.typ] has → hath
 - [vol-2/book-2-chapter-07.typ] Psalm → Ps
 - [vol-2/book-2-chapter-07.typ] Mt . → Matt
