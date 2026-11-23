@@ -9,5 +9,5 @@ Ah, Christians, if you#super[+] really believed this, and seriously dwelt on thi
 - suffer more patiently;
 - fight against the world, the flesh, and the devil more courageously;
 - spend yourselves#super[+] for God, His cause, and His glory more freely;
-- live with what providence has cut out for your#super[+] portion more quietly and contentedly; and,
-- you#super[+] would be in private prayer more frequently, more abundantly.
+- live with what providence has cut out as your#super[+] portion more quietly and contentedly; and,
+- you#super[+] would pray in private more frequently, more abundantly.
