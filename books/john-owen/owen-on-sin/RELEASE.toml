@@ -15,7 +15,7 @@ version = "v3"
 
 [[book]]
 book = "john-owen/the-mortification-of-sin"
-version = "v3"
+version = "v4"
 
 # The Modern English edition of this volume: a paperback of its own, made from the
 # books' Modern English editions (its -modern print file), signed off on its own
@@ -33,8 +33,8 @@ summary = "Owen's Of Temptation (1658) and The Mortification of Sin (1656) in on
 
 [[modern.book]]
 book = "john-owen/of-temptation"
-version = ""
+version = "v1"
 
 [[modern.book]]
 book = "john-owen/the-mortification-of-sin"
-version = ""
+version = "v1"
