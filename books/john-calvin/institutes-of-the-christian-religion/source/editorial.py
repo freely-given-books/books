@@ -127,8 +127,15 @@ def LAYOUT(root):
         d = f"vol-{v}"
         if v == 1:
             for i, (cid, name, title) in enumerate(PREFACES, start=1):
-                files.append({"file": f"{d}/0{i}-{name}.typ", "title": title,
-                              "parts": layout.sections(ids[cid])})
+                f = {"file": f"{d}/0{i}-{name}.typ", "title": title,
+                     "parts": layout.sections(ids[cid])}
+                # the Address's salutation, printed as heads under its title ("To / His
+                # Most Christian Majesty, / ... / John Calvin prays peace and salvation in
+                # Christ."): one centred line each
+                heads = [c for c in ids[cid] if c.tag == T + "head"][1:]
+                if heads:
+                    f["subtitle"] = heads
+                files.append(f)
         chapters = [c for c in ids[BOOKS[b - 1]] if c.tag == T + "div"]
         for n in range(first, last + 1):
             div = chapters[n]

@@ -1,5 +1,17 @@
 == Prefatory Address to King Francis
 
+#align(center)[TO]
+
+#align(center)[HIS MOST CHRISTIAN MAJESTY,]
+
+#align(center)[THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,]
+
+#align(center)[FRANCIS, KING OF THE FRENCH,]
+
+#align(center)[HIS SOVEREIGN;#footnote[In the last edition by Calvin, the words are, as here translated, simply, “Principi suo.” In the edition published at Basle in 1536, the words are, “Principi ac Domino suo sibiobservando.”]]
+
+#align(center)[JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.#footnote[Ed. 1536. “In Domino.”]]
+
 #smallcaps[Sire],—When I first engaged in this work, nothing was farther from my thoughts than to write what should afterwards be presented to your Majesty. My intention was only to furnish a kind of rudiments, by which those who feel some interest in religion might be trained to true godliness. And I toiled at the task chiefly for the sake of my countrymen the French, multitudes of whom I perceived to be hungering and thirsting after Christ, while very few seemed to have been duly imbued with even a slender knowledge of him. That this was the object which I had in view is apparent from the work itself, which is written in a simple and elementary form adapted for instruction.
 
 But when I perceived that the fury of certain bad men had risen to such a height in your realm, that there was no place in it for sound doctrine, I thought it might be of service if I were in the same work both to give instruction to my countrymen, and also lay before your Majesty a Confession, from which you may learn what the doctrine is that so inflames the rage of those madmen who are this day, with fire and sword, troubling your kingdom. For I fear not to declare, that what I have here given may be regarded as a summary of the very doctrine which, they vociferate, ought to be punished with confiscation, exile, imprisonment, and flames, as well as exterminated by land and sea.
