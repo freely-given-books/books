@@ -65,6 +65,13 @@ sgreek.py: paths inside point to its scratchpad; adapt them).
 
 ## Step 2: applying the report
 
+**Lesson from the 2026-11 recheck (vol. 1):** `apply.py` turns a finding's "1845" (or "proposed")
+field into the text word by word, so a field that carries a comment ("(broken at the line end)",
+"keep CCEL", "if the editor fixes") writes the comment into the book. Before applying: give
+"misprint-1845" and other keep-CCEL findings no word change (drop them from the run), and keep
+"1845"/"proposed" fields to the bare text. After applying, list every word change against the
+commit before (a word-level diff), and read the list in full.
+
 From the repository root (`R` = the report, `T` = `books/john-calvin/institutes-of-the-christian-religion/chapters/typ/vol-N`):
 
 1. `python3 -I source/witness-check/apply.py R T --dry`, then without `--dry`.
