@@ -1,6 +1,6 @@
 == Chapter 15
 
-#align(center)[THE BOASTED MERIT OF WORKS SUBVERSIVE BOTH OF THE GLORY OF GOD, IN BESTOWING RIGHTEOUSNESS, AND OF THE CERTAINTY OF SALVATION.]
+#align(center)[#smallcaps(all: true)[THE BOASTED MERIT OF WORKS SUBVERSIVE BOTH OF THE GLORY OF GOD, IN BESTOWING RIGHTEOUSNESS, AND OF THE CERTAINTY OF SALVATION.]]
 
 #block(inset: (x: 1em))[The divisions of this chapter are,—I. To the doctrine of free justification is opposed the question, Whether or not works merit favor with God, sec. 1. This question answered, sec. 2 and 3. II. An exposition of certain passages of Scripture produced in support of the erroneous doctrine of merit, sec. 4 and 5. III. Sophisms of Semipelagian Schoolmen refuted, sec. 6 and 7. IV. Conclusion, proving the sufficiency of the orthodox doctrine, sec. 8.]
 
@@ -21,6 +21,8 @@
 #block(inset: (x: 1em))[7\. Errors, of the younger Sophists extracted from Lombard. Refuted by Augustine. Also by Scripture.]
 
 #block(inset: (x: 1em))[8\. Conclusion, showing that the foundation which has been laid is sufficient for doctrine, exhortation, and comfort. Summary of the orthodox doctrine of Justification.]
+
+#v(0.8em)
 
 1\. #smallcaps[The] principal point in this subject has been now explained: as justification, if dependent upon works, cannot possibly stand in the sight of God, it must depend solely on the mercy of God and communion with Christ, and therefore on faith alone. But let us carefully attend to the point on which the whole subject hinges, lest we get entangled in the common delusion, not only of the vulgar, but of the learned. For the moment the question is raised as to the justification by faith or works, they run off to those passages which seem to ascribe some merit to works in the sight of God, just as if justification by works were proved whenever it is proved that works have any value with God. Above we have clearly shown that justification by works consists only in a perfect and absolute fulfillment of the law, and that, therefore, no man is justified by works unless he has reached the summit of perfection, and cannot be convicted of even the smallest transgression. But there is another and a separate question, Though works by no means suffice to justify, do they not merit favor with God?
 

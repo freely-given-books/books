@@ -1,6 +1,6 @@
 == Chapter 7
 
-#align(center)[THE TESTIMONY OF THE SPIRIT NECESSARY TO GIVE FULL AUTHORITY TO SCRIPTURE. THE IMPIETY OF PRETENDING THAT THE CREDIBILITY OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.]
+#align(center)[#smallcaps(all: true)[THE TESTIMONY OF THE SPIRIT NECESSARY TO GIVE FULL AUTHORITY TO SCRIPTURE. THE IMPIETY OF PRETENDING THAT THE CREDIBILITY OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -13,6 +13,8 @@
 #block(inset: (x: 1em))[4\. Conclusion, That the authority of Scripture is founded on its being spoken by God. This confirmed by the conscience of the godly, and the consent of all men of the least candor. A fourth objection common in the mouths of the profane. Refutation.]
 
 #block(inset: (x: 1em))[5\. Last and necessary conclusion, That the authority of Scripture is sealed on the hearts of believers by the testimony of the Holy Spirit. The certainty of this testimony. Confirmation of it from a passage of Isaiah, and the experience of believers. Also, from another passage of Isaiah.]
+
+#v(0.8em)
 
 1\. #smallcaps[Before] proceeding farther, it seems proper to make some observations on the authority of Scripture, in order that our minds may not only be prepared to receive it with reverence, but be divested of all doubt.
 

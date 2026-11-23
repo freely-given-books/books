@@ -1,6 +1,6 @@
 == Chapter 6
 
-#align(center)[THE NEED OF SCRIPTURE, AS A GUIDE AND TEACHER, IN COMING TO GOD AS A CREATOR.]
+#align(center)[#smallcaps(all: true)[THE NEED OF SCRIPTURE, AS A GUIDE AND TEACHER, IN COMING TO GOD AS A CREATOR.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -11,6 +11,8 @@
 #block(inset: (x: 1em))[3\. This view confirmed, 1. By the depravity of our nature making it necessary in every one who would know God to have recourse to the word; 2. From those passages of the Psalms in which God is introduced as reigning.]
 
 #block(inset: (x: 1em))[4\. Another confirmation from certain direct statements in the Psalms. Lastly, From the words of our Savior.]
+
+#v(0.8em)
 
 1\. #smallcaps[Therefore], though the effulgence which is presented to every eye, both in the heavens and on the earth, leaves the ingratitude of man without excuse, since God, in order to bring the whole human race under the same condemnation, holds forth to all, without exception, a mirror of his Deity in his works, another and better help must be given to guide us properly to God as a Creator. Not in vain, therefore, has he added the light of his Word in order that he might make himself known unto salvation, and bestowed the privilege on those whom he was pleased to bring into nearer and more familiar relation to himself. For, seeing how the minds of men were carried to and fro, and found no certain resting-place, he chose the Jews for a peculiar people, and then hedged them in that they might not, like others, go astray. And not in vain does he, by the same means, retain us in his knowledge, since but for this, even those who, in comparison of others, seem to stand strong, would quickly fall away. For as the aged, or those whose sight is defective, when any book, however fair, is set before them, though they perceive that there is something written are scarcely able to make out two consecutive words, but, when aided by glasses, begin to read distinctly, so Scripture, gathering together the impressions of Deity, which, till then, lay confused in our minds, dissipates the darkness, and shows us the true God clearly. God therefore bestows a gift of singular value, when, for the instruction of the Church, he employs not dumb teachers merely, but opens his own sacred mouth; when he not only proclaims that some God must be worshipped, but at the same time declares that He is the God to whom worship is due; when he not only teaches his elect to have respect to God, but manifests himself as the God to whom this respect should be paid.
 

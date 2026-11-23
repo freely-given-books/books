@@ -1,6 +1,6 @@
 == Chapter 2
 
-#align(center)[COMPARISON BETWEEN THE FALSE CHURCH AND THE TRUE.]
+#align(center)[#smallcaps(all: true)[COMPARISON BETWEEN THE FALSE CHURCH AND THE TRUE.]]
 
 #block(inset: (x: 1em))[The divisions of the chapter are,—I. Description of a spurious Church, resembling the Papacy vaunting of personal succession, of which a refutation is subjoined, sec. 1-4. II. An answer, in name of the orthodox Churches, to the Popish accusations of heresy and schism. A description of the Churches existing at present under the Papacy.]
 
@@ -29,6 +29,8 @@
 #block(inset: (x: 1em))[11\. Although the Papacy cannot properly be called a Church, still, against the will of Antichrist himself, there is some vestige of a Church in the Papacy, as Baptism and some other remnants.]
 
 #block(inset: (x: 1em))[12\. The name of Church not conceded to the Papacy, though under its domination there have been some kind of churches. Herein is a fulfillment of Paul’s prophecy, that Antichrist would sit in the temple of God. Deplorable condition of such churches. Summary of the chapter.]
+
+#v(0.8em)
 
 1\. #smallcaps[How] much the ministry of the word and sacraments should weigh with us, and how far reverence for it should extend, so as to be a perpetual badge for distinguishing the Church, has been explained; for we have shown, first, that wherever it exists entire and unimpaired, no errors of conduct, no defects should prevent us from giving the name of Church;#footnote[French, “Secondement, qu’encore il y ait quelques petites fautes, ou en la doctrine ou aux sacremens qu’icelui ne laisse point d’avoir sa vigeur.”—Secondly, that though there may be some little faults either in doctrine or in the sacraments, the Church ceases not to be in vigor.] and, secondly, that trivial errors in this ministry ought not to make us regard it as illegitimate. Moreover, we have shown that the errors to which such pardon is due, are those by which the fundamental doctrine of religion is not injured, and by which those articles of religion, in which all believers should agree, are not suppressed, while, in regard to the sacraments, the defects are such as neither destroy nor impair the legitimate institution of their Author. But as soon as falsehood has forced its way into the citadel of religion, as soon as the sum of necessary doctrine is inverted, and the use of the sacraments is destroyed, the death of the Church undoubtedly ensues, just as the life of man is destroyed when his throat is pierced, or his vitals mortally wounded. This is clearly evinced by the words of Paul when he says, that the Church is “built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner-stone” (Eph 2:20). If the Church is founded on the doctrine of the apostles and prophets, by which believers are enjoined to place their salvation in Christ alone, then if that doctrine is destroyed, how can the Church continue to stand? The Church must necessarily fall whenever that sum of religion which alone can sustain it has given way. Again, if the true Church is “the pillar and ground of the truth” (1 Tim 3:15), it is certain that there is no Church where lying and falsehood have usurped the ascendancy.
 

@@ -19,6 +19,10 @@ TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 SMALLCAPS = "smallcaps"
 
+# A little space between each chapter's summary (Beveridge's "Sections.") and its
+# text (the editor, 2026-11-23)
+SUMMARY_SPACE = "0.8em"
+
 # The salutation to Francis in small capitals, as the 1845 print sets it, Francis's
 # line in full capitals (the editor, 2026-11-23); each named by its head, since the
 # index prints "TO" too
@@ -158,6 +162,9 @@ def LAYOUT(root):
                 head = _chapter_title(div)
                 f = {"file": f"{d}/book-{b}-chapter-{n:02d}.typ", "title": f"Chapter {n}",
                      "short": f"Chapter {n}: {_short(b, n, head)}", "subtitle": head,
+                     # the printed title in capitals, set in small capitals (the editor,
+                     # 2026-11-23)
+                     "subtitle_rend": "smallcaps",
                      "parts": [p for p in layout.sections(div) if p is not head]}
             if n == first:
                 f["part"] = BOOK_TITLES[b - 1] + ("" if first == 0 else " (continued)")

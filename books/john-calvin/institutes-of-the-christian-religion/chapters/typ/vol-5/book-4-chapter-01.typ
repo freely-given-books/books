@@ -1,6 +1,6 @@
 == Chapter 1
 
-#align(center)[OF THE TRUE CHURCH. DUTY OF CULTIVATING UNITY WITH HER, AS THE MOTHER OF ALL THE GODLY.]
+#align(center)[#smallcaps(all: true)[OF THE TRUE CHURCH. DUTY OF CULTIVATING UNITY WITH HER, AS THE MOTHER OF ALL THE GODLY.]]
 
 #block(inset: (x: 1em))[The three divisions of this chapter are,—I. The article of the Creed concerning the Holy Catholic Church and the Communion of Saints briefly expounded. The grounds on which the Church claims our reverence, sec. 1-6. II. Of the marks of the Church, sec. 7-9. III. The necessity of cleaving to the Holy Catholic Church and the Communion of Saints. Refutation of the errors of the Novatians, Anabaptists, and other schismatics, in regard to this matter, sec. 10-29.]
 
@@ -63,6 +63,8 @@
 #block(inset: (x: 1em))[28\. Objection, that voluntary transgression excludes from the Church.]
 
 #block(inset: (x: 1em))[29\. Last objection of the Novatians, founded on the solemn renewal of repentance required by the Church for more heinous offenses. Answer.]
+
+#v(0.8em)
 
 1\. #smallcaps[In] the last Book, it has been shown, that by the faith of the gospel Christ becomes ours, and we are made partakers of the salvation and eternal blessedness procured by him. But as our ignorance and sloth (I may add, the vanity of our mind) stand in need of external helps, by which faith may be begotten in us, and may increase and make progress until its consummation, God, in accommodation to our infirmity, has added such helps, and secured the effectual preaching of the gospel, by depositing this treasure with the Church. He has appointed pastors and teachers, by whose lips he might edify his people (Eph 4:11); he has invested them with authority, and, in short, omitted nothing that might conduce to holy consent in the faith, and to right order. In particular, he has instituted sacraments, which we feel by experience to be most useful helps in fostering and confirming our faith. For seeing we are shut up in the prison of the body, and have not yet attained to the rank of angels, God, in accommodation to our capacity, has in his admirable providence provided a method by which, though widely separated, we might still draw near to him. Wherefore, due order requires that we first treat of the Church, of its Government, Orders, and Power; next, of the Sacraments; and, lastly, of Civil Government;—at the same time guarding pious readers against the corruptions of the Papacy, by which Satan has adulterated all that God had appointed for our salvation. I will begin with the Church, into whose bosom God is pleased to collect his children, not only that by her aid and ministry they may be nourished so long as they are babes and children, but may also be guided by her maternal care until they grow up to manhood, and, finally, attain to the perfection of faith. What God has thus joined, let not man put asunder (Mark 10:9): to those to whom he is a Father, the Church must also be a mother. This was true not merely under the Law, but even now after the advent of Christ; since Paul declares that we are the children of a new, even a heavenly Jerusalem (Gal 4:26).
 

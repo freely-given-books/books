@@ -1,6 +1,6 @@
 == Chapter 10
 
-#align(center)[IN SCRIPTURE, THE TRUE GOD OPPOSED, EXCLUSIVELY, TO ALL THE GODS OF THE HEATHEN.]
+#align(center)[#smallcaps(all: true)[IN SCRIPTURE, THE TRUE GOD OPPOSED, EXCLUSIVELY, TO ALL THE GODS OF THE HEATHEN.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -9,6 +9,8 @@
 #block(inset: (x: 1em))[2\. The attributes of God as described by Moses, David, and Jeremiah. Explanation of the attributes. Summary. Uses of this knowledge.]
 
 #block(inset: (x: 1em))[3\. Scripture, in directing us to the true God, excludes the gods of the heathen, who, however, in some sense, held the unity of God.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] formerly observed that the knowledge of God, which, in other respects, is not obscurely exhibited in the frame of the world, and in all the creatures, is more clearly and familiarly explained by the word. It may now be proper to show, that in Scripture the Lord represents himself in the same character in which we have already seen that he is delineated in his works. A full discussion of this subject would occupy a large space. But it will here be sufficient to furnish a kind of index, by attending to which the pious reader may be enabled to understand what knowledge of God he ought chiefly to search for in Scripture, and be directed as to the mode of conducting the search. I am not now adverting to the peculiar covenant by which God distinguished the race of Abraham from the rest of the nations. For when by gratuitous adoption he admitted those who were enemies to the rank of sons, he even then acted in the character of a Redeemer. At present, however, we are employed in considering that knowledge which stops short at the creation of the world, without ascending to Christ the Mediator. But though it will soon be necessary to quote certain passages from the New Testament (proofs being there given both of the power of God the Creator, and of his providence in the preservation of what he originally created), I wish the reader to remember what my present purpose is, that he may not wander from the proper subject. Briefly, then, it will be sufficient for him at present to understand how God, the Creator of heaven and earth, governs the world which was made by him. In every part of Scripture we meet with descriptions of his paternal kindness and readiness to do good, and we also meet with examples of severity which show that he is the just punisher of the wicked, especially when they continue obstinate notwithstanding of all his forbearance.
 

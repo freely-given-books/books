@@ -80,8 +80,10 @@ def volumes():
 # set off its marker's page): letter spacing a little tighter or looser on a
 # file, per print book, (volume, modern) -> {file: tracking}, found by trying
 PAGEFIT = {
-    (1, False): {"01-prefatory-address.typ": "-0.01em", "book-1-chapter-17.typ": "0.005em"},
-    (1, True): {"book-1-chapter-09.typ": "-0.01em", "book-1-chapter-11.typ": "0.005em"},
+    (1, False): {"01-prefatory-address.typ": "-0.01em", "book-1-chapter-12.typ": "-0.005em",
+                 "book-1-chapter-17.typ": "0.005em"},
+    (1, True): {"book-1-chapter-05.typ": "-0.005em", "book-1-chapter-09.typ": "-0.01em",
+                "book-1-chapter-11.typ": "0.005em"},
 }
 
 

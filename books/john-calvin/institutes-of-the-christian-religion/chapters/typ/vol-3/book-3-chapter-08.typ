@@ -1,6 +1,6 @@
 == Chapter 8
 
-#align(center)[OF BEARING THE CROSS—ONE BRANCH OF SELF-DENIAL.]
+#align(center)[#smallcaps(all: true)[OF BEARING THE CROSS—ONE BRANCH OF SELF-DENIAL.]]
 
 #block(inset: (x: 1em))[The four divisions of this chapter are,—I. The nature of the cross, its necessity and dignity, sec. 1, 2. II. The manifold advantages of the cross described, sec. 3-6. III. The form of the cross the most excellent of all, and yet it by no means removes all sense of pain, sec. 7, 8. IV. A description of warfare under the cross, and of true patience (not that of philosophers), after the example of Christ, sec. 9-11.]
 
@@ -27,6 +27,8 @@
 #block(inset: (x: 1em))[10\. Proved by the testimony and uniform experience of the elect. Also by the special example of the Apostle Peter. The nature of the patience required of us.]
 
 #block(inset: (x: 1em))[11\. Distinction between the patience of Christians and philosophers. The latter pretend a necessity which cannot be resisted. The former hold forth the justice of God and his care of our safety. A full exposition of this difference.]
+
+#v(0.8em)
 
 1\. #smallcaps[The] pious mind must ascend still higher, namely, whither Christ calls his disciples when he says, that every one of them must “take up his cross,” (Matt 16:24). Those whom the Lord has chosen and honored with his intercourse must prepare for a hard, laborious, troubled life, a life full of many and various kinds of evils; it being the will of our heavenly Father to exercise his people in this way while putting them to the proof. Having begun this course with Christ the first-born, he continues it towards all his children. For though that Son was dear to him above others, the Son in whom he was “well pleased,” yet we see, that far from being treated gently and indulgently, we may say, that not only was he subjected to a perpetual cross while he dwelt on earth, but his whole life was nothing else than a kind of perpetual cross. The Apostle assigns the reason, “Though he was a Son, yet learned he obedience by the things which he suffered,” (Heb 5:8). Why then should we exempt ourselves from that condition to which Christ our Head behoved to submit; especially since he submitted on our account, that he might in his own person exhibit a model of patience? Wherefore, the Apostle declares, that all the children of God are destined to be conformed to him. Hence it affords us great consolation in hard and difficult circumstances, which men deem evil and adverse, to think that we are holding fellowship with the sufferings of Christ; that as he passed to celestial glory through a labyrinth of many woes, so we too are conducted thither through various tribulations. For, in another passage, Paul himself thus speaks, “we must through much tribulation enter the kingdom of God,” (Acts 14:22); and again, “that I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death,” (Rom 8:29). How powerfully should it soften the bitterness of the cross, to think that the more we are afflicted with adversity, the surer we are made of our fellowship with Christ; by communion with whom our sufferings are not only blessed to us, but tend greatly to the furtherance of our salvation.
 

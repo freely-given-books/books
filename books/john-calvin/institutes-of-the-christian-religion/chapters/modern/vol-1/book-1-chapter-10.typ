@@ -1,14 +1,16 @@
 == Chapter 10
 
-#align(center)[IN SCRIPTURE, TO CORRECT ALL SUPERSTITION, THE TRUE GOD OPPOSED, EXCLUSIVELY, TO ALL THE GODS OF THE HEATHEN.]
+#align(center)[#smallcaps(all: true)[IN SCRIPTURE, TO CORRECT ALL SUPERSTITION, THE TRUE GOD OPPOSED, EXCLUSIVELY, TO ALL THE GODS OF THE HEATHEN.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The explanation of the knowledge of God resumed. God as revealed in Scripture is the same as he is portrayed in his works.]
 
 #block(inset: (x: 1em))[2\. The attributes of God as described by Moses, David, and Jeremiah. The attributes explained. Summary. The uses of this knowledge.]
 
 #block(inset: (x: 1em))[3\. Scripture, in directing us to the true God, excludes the gods of the heathen, though the heathen did in some sense hold the unity of God.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] noted earlier that the knowledge of God, which in other respects is set forth not obscurely in the frame of the world and in all created things, is explained more clearly and more intimately by the word. It may now be proper to show that in Scripture the Lord represents himself in the same character in which we have already seen him portrayed in his works. A full discussion of this subject would take up a great deal of space. But here it will be enough to provide a kind of index. By attending to it, the pious reader may learn what knowledge of God he should chiefly look for in Scripture, and be directed to a definite goal as he conducts the search. I am not yet touching on the special covenant by which God set the race of Abraham apart from the rest of the nations. For when by free adoption he admitted those who were enemies to the rank of sons, he was even then acting as a Redeemer. For the present, however, we are considering the knowledge that stops at the creation of the world and does not rise to Christ the Mediator. But although it will soon be necessary to quote certain passages from the New Testament (since proofs are given there both of the power of God the Creator and of his providence in preserving what he first created), I want the reader to remember what my present purpose is, so that he does not wander from the proper subject. In short, it will be enough for him for now to understand how God, the Creator of heaven and earth, governs the world he made. Throughout Scripture we find descriptions of his fatherly kindness and his readiness to do good, and we also find examples of severity which show that he is the just punisher of the wicked, especially when they remain obstinate in spite of all his forbearance.
 

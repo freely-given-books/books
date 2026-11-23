@@ -1,10 +1,10 @@
 == Chapter 5
 
-#align(center)[THE KNOWLEDGE OF GOD CONSPICUOUS IN THE CREATION, AND CONTINUAL GOVERNMENT OF THE WORLD.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD CONSPICUOUS IN THE CREATION, AND CONTINUAL GOVERNMENT OF THE WORLD.]]
 
-#block(inset: (x: 1em))[#emph[Beveridge’s summary.] This chapter has two parts. 1. The first, which takes up the first ten sections, divides all the works of God into two great classes, and explains the knowledge of God as it is displayed in each class. The one class is treated in the first six sections, and the other in the four that follow. 2. The second part of the chapter shows that, because of the extreme dullness of men, these manifestations of God, however clear, lead to no useful result. This second part begins at the eleventh section and runs to the end of the chapter.]
+#block(inset: (x: 1em))[This chapter has two parts. 1. The first, which takes up the first ten sections, divides all the works of God into two great classes, and explains the knowledge of God as it is displayed in each class. The one class is treated in the first six sections, and the other in the four that follow. 2. The second part of the chapter shows that, because of the extreme dullness of men, these manifestations of God, however clear, lead to no useful result. This second part begins at the eleventh section and runs to the end of the chapter.]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The invisible and incomprehensible essence of God made visible, to a certain extent, in his works.]
 
@@ -35,6 +35,8 @@
 #block(inset: (x: 1em))[14\. Though the wonderful glories of creation shine on us, we do not cease to follow our own ways.]
 
 #block(inset: (x: 1em))[15\. Our conduct is altogether inexcusable: the dullness of perception is our own fault, while both the structure and the government of the world fully remind us of the true path.]
+
+#v(0.8em)
 
 1\. #smallcaps[Since] the perfection of blessedness consists in the knowledge of God, he has been pleased, so that no one might be shut out from the way to happiness, not only to place in our minds that seed of religion of which we have already spoken, but also to reveal himself in the whole structure of the universe, and to set himself daily before our view, in such a way that we cannot open our eyes without being compelled to see him. His essence, indeed, is incomprehensible, so that his Godhead lies far beyond the reach of all human senses; but on each of his works his glory is engraved in letters so bright, so distinct, and so splendid that no one, however dull and unlearned, can plead ignorance as an excuse. So the Psalmist, with perfect truth, exclaims, “He wraps Himself in light as with a garment” (Ps 104:2). It is as if he had said that God first appeared clothed in visible attire when, in the creation of the world, he unfurled those glorious banners on which, whichever way we turn, we see his perfections visibly portrayed. In the same place the Psalmist aptly compares the outstretched heavens to his royal tent, and speaks of Him “laying the beams of His chambers in the waters, making the clouds His chariot, walking on the wings of the wind,” and sending out the winds and lightnings as his swift messengers. And because the glory of his power and wisdom shines more brightly in the sky above, the heavens are often called his palace. And, first, wherever you turn your eyes, there is no part of the world, however small, that does not show at least some sparks of his glory; and you cannot take in this vast and beautiful structure, as it stretches all around, without being overwhelmed by the immense weight of glory. That is why the author of the Epistle to the Hebrews elegantly calls the visible worlds images of the invisible (Heb 11:3): the harmonious arrangement of the world serves us as a kind of mirror in which we may see God, who is otherwise invisible. For the same reason the Psalmist gives the heavenly bodies a language that all nations understand (Ps 19:1), for the Godhead is shown there too clearly to escape the notice of any people, however obtuse. The apostle Paul, stating this still more clearly, says, “What may be known about God is plain to them, because God has made it plain to them. For since the creation of the world His invisible things, His eternal power and divine nature, have been clearly seen, being understood from His workmanship” (Rom 1:19, 20); so that all, to a man, see them.
 

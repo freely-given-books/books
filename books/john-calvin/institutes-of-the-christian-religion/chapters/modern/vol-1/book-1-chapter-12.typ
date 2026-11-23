@@ -1,14 +1,16 @@
 == Chapter 12
 
-#align(center)[GOD DISTINGUISHED FROM IDOLS, THAT HE MAY BE THE EXCLUSIVE OBJECT OF WORSHIP.]
+#align(center)[#smallcaps(all: true)[GOD DISTINGUISHED FROM IDOLS, THAT HE MAY BE THE EXCLUSIVE OBJECT OF WORSHIP.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. Scripture, in teaching that there is only one God, is not arguing about words, but gives all honor and religious worship to him alone. This is proved, first, by the derivation of the word; second, by the testimony of God himself, when he declares that he is a jealous God and will not allow himself to be confused with any fictitious deity.]
 
 #block(inset: (x: 1em))[2\. In opposing this pure doctrine, the papists gain nothing by their distinction between #emph[dulia] and #emph[latria].]
 
 #block(inset: (x: 1em))[3\. Passages of Scripture that overturn the papists’ distinction and prove that religious worship is due to God alone. Perversions of divine worship.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] said at the beginning of our work#footnote[Ch. 2. (Beveridge’s note.)] that the knowledge of God does not consist in cold speculation, but brings his worship with it; and we touched in passing#footnote[Ch. 5 s. 6, 9, 10. (Beveridge’s note.)] on what will be treated more fully in other places#footnote[Book 2, ch. 8. (Beveridge’s note.)]: namely, how God is rightly worshiped. Now I only briefly repeat that whenever Scripture asserts the unity of God, it is not contending for a bare name, but also commands that nothing which belongs to Divinity be applied to any other. This makes it plain how pure religion differs from superstition. The Greek word εὐσέβεια means “right worship”; for the Greeks, though groping in darkness, always knew that a fixed rule had to be kept, so that God would not be worshiped absurdly. Cicero rightly and shrewdly derives the name #emph[religion] from #emph[relego], and yet the reason he gives is forced and farfetched: namely, that honest worshipers #emph[read] and #emph[read again], and ponder what is true.#footnote[Cic. De Nat. Deor. lib. 2 c. 28. See also Lactant. Inst. Div. lib. 4 c. 28.] I think rather that the name is set against #emph[wandering license]. For most of mankind rashly snatch up whatever first comes their way, and even flit from one thing to another, whereas piety, so that it may stand with a firm step, collects itself within its proper limits. In the same way, superstition seems to take its name from its not being content with the measure and rule prescribed, but piling up a needless heap of empty trifles. But to say no more about words: it has been agreed in every age that religion is corrupted and perverted whenever false opinions are brought into it. From this it follows that whatever is allowed to be done out of thoughtless zeal cannot be defended by any pretext the superstitious may choose to cloak it with. But although this confession is in every man’s mouth, a shameful stupidity shows itself at once, for men neither cling to the one God nor use any discernment in their worship, as we have already observed.
 

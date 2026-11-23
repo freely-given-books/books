@@ -1,6 +1,6 @@
 == Chapter 1
 
-#align(center)[THROUGH THE FALL AND REVOLT OF ADAM, THE WHOLE HUMAN RACE MADE ACCURSED AND DEGENERATE. OF ORIGINAL SIN.]
+#align(center)[#smallcaps(all: true)[THROUGH THE FALL AND REVOLT OF ADAM, THE WHOLE HUMAN RACE MADE ACCURSED AND DEGENERATE. OF ORIGINAL SIN.]]
 
 #block(inset: (x: 1em))[I. How necessary the knowledge of ourselves is, its nature, the danger of mistake, its leading parts, sect. 1, 2, 3. II. The causes of Adam’s fearful fall, sect. 4. III. The effects of the fall extending to Adam’s posterity, and all the creatures, sect. 5, to the end of the Chapter, where the nature, propagation, and effect of original sin are considered.]
 
@@ -27,6 +27,8 @@
 #block(inset: (x: 1em))[10\. From the exposition of both parts of the definition it follows that God is not the author of sin, the whole human race being corrupted by an inherent viciousness.]
 
 #block(inset: (x: 1em))[11\. This, however, is not from nature, but is an adventitious quality. Accordingly, the dream of the Manichees as to two principles vanishes.]
+
+#v(0.8em)
 
 1\. #smallcaps[It] was not without reason that the ancient proverb so strongly recommended to man the knowledge of himself. For if it is deemed disgraceful to be ignorant of things pertaining to the business of life, much more disgraceful is self-ignorance, in consequence of which we miserably deceive ourselves in matters of the highest moment, and so walk blindfold. But the more useful the precept is, the more careful we must be not to use it preposterously, as we see certain philosophers have done. For they, when exhorting man to know himself, state the motive to be, that he may not be ignorant of his own excellence and dignity. They wish him to see nothing in himself but what will fill him with vain confidence, and inflate him with pride. But self-knowledge consists in this, #emph[first], When reflecting on what God gave us at our creation, and still continues graciously to give, we perceive how great the excellence of our nature would have been had its integrity remained, and, at the same time, remember that we have nothing of our own, but depend entirely on God, from whom we hold at pleasure whatever he has seen it meet to bestow; #emph[secondly], When viewing our miserable condition since Adam’s fall, all confidence and boasting are overthrown, we blush for shame, and feel truly humble. For as God at first formed us in his own image, that he might elevate our minds to the pursuit of virtue, and the contemplation of eternal life, so to prevent us from heartlessly burying those noble qualities which distinguish us from the lower animals, it is of importance to know that we were endued with reason and intelligence, in order that we might cultivate a holy and honorable life, and regard a blessed immortality as our destined aim. At the same time, it is impossible to think of our primeval dignity without being immediately reminded of the sad spectacle of our ignominy and corruption, ever since we fell from our original in the person of our first parent. In this way, we feel dissatisfied with ourselves, and become truly humble, while we are inflamed with new desires to seek after God, in whom each may regain those good qualities of which all are found to be utterly destitute.
 

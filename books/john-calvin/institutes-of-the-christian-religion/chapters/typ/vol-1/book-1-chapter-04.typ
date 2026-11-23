@@ -1,6 +1,6 @@
 == Chapter 4
 
-#align(center)[THE KNOWLEDGE OF GOD STIFLED OR CORRUPTED, IGNORANTLY OR MALICIOUSLY.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD STIFLED OR CORRUPTED, IGNORANTLY OR MALICIOUSLY.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -11,6 +11,8 @@
 #block(inset: (x: 1em))[3\. No pretext can justify superstition. This proved, first, from reason; and, secondly, from Scripture.]
 
 #block(inset: (x: 1em))[4\. The wicked never willingly come into the presence of God. Hence their hypocrisy. Hence, too, their sense of Deity leads to no good result.]
+
+#v(0.8em)
 
 1\. #smallcaps[But] though experience testifies that a seed of religion is divinely sown in all, scarcely one in a hundred is found who cherishes it in his heart, and not one in whom it grows to maturity, so far is it from yielding fruit in its season. Moreover, while some lose themselves in superstitious observances, and others, of set purpose, wickedly revolt from God, the result is that, in regard to the true knowledge of him, all are so degenerate, that in no part of the world can genuine godliness be found. In saying that some fall away into superstition, I mean not to insinuate that their excessive absurdity frees them from guilt; for the blindness under which they labor is almost invariably accompanied with vain pride and stubbornness. Mingled vanity and pride appear in this, that when miserable men do seek after God, instead of ascending higher than themselves as they ought to do, they measure him by their own carnal stupidity, and, neglecting solid inquiry, fly off to indulge their curiosity in vain speculation. Hence, they do not conceive of him in the character in which he is manifested, but imagine him to be whatever their own rashness has devised. This abyss standing open, they cannot move one footstep without rushing headlong to destruction. With such an idea of God, nothing which they may attempt to offer in the way of worship or obedience can have any value in his sight, because it is not him they worship, but, instead of him, the dream and figment of their own heart. This corrupt procedure is admirably described by Paul, when he says, that “thinking to be wise, they became fools” (Rom 1:22). He had previously said that “they became vain in their imaginations,” but lest any should suppose them blameless, he afterwards adds that they were deservedly blinded, because, not contented with sober inquiry, but, arrogating to themselves more than they have any title to do, they of their own accord court darkness, nay, bewitch themselves with perverse, empty show. Hence it is that their folly, the result not only of vain curiosity, but of licentious desire and overweening confidence in the pursuit of forbidden knowledge, cannot be excused.
 

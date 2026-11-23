@@ -1,6 +1,6 @@
 == Chapter 5
 
-#align(center)[THE ANCIENT FORM OF GOVERNMENT UTTERLY CORRUPTED BY THE TYRANNY OF THE PAPACY.]
+#align(center)[#smallcaps(all: true)[THE ANCIENT FORM OF GOVERNMENT UTTERLY CORRUPTED BY THE TYRANNY OF THE PAPACY.]]
 
 #block(inset: (x: 1em))[This chapter consists of two parts,—I. Who are called to the ministry under the Papacy, their character, and the ground of their appointment, sec. 1-7. II. How far they fulfill their office, sec. 8-19.]
 
@@ -43,6 +43,8 @@
 #block(inset: (x: 1em))[18\. Another defense with regard to the adorning of churches. Answer.]
 
 #block(inset: (x: 1em))[19\. Concluding answer, showing that the diaconate is completely subverted by the Papacy.]
+
+#v(0.8em)
 
 1\. #smallcaps[It] may now be proper to bring under the eye of the reader the order of church government observed by the Roman See and all its satellites, and the whole of that hierarchy, which they have perpetually in their mouths, and compare it with the description we have given of the primitive and early Church, that the contrast may make it manifest what kind of church those have who plume themselves on the very title, as sufficient to outweigh, or rather overwhelm us. It will be best to begin with the call, that we may see who are called to the ministry, with what character, and on what grounds. Thereafter we will consider how far they faithfully fulfill their office. We shall give the first place to the bishops; would that they could claim the honor of holding the first rank in this discussion! But the subject does not allow me even to touch it lightly, without exposing their disgrace. Still, let me remember in what kind of writing I am engaged, and not allow my discourse, which ought to be framed for simple teaching, to wander beyond its proper limits. But let any of them, who have not laid aside all modesty, tell me what kind of bishops are uniformly elected in the present day. Any examination of doctrine is too old fashioned, but if any respect is had to doctrine, they make choice of some lawyer who knows better how to plead in the forum than to preach in the church. This much is certain, that for a hundred years, scarcely one in a hundred has been elected who had any acquaintance with sacred doctrine. I do not spare former ages because they were much better, but because the question now relates only to the present Church. If morals be inquired into, we shall find few or almost none whom the ancient canons would not have judged unworthy. If one was not a drunkard, he was a fornicator; if one was free from this vice, he was either a gambler or sportsman, or a loose liver in some respect. For there are lighter faults which, according to the ancient canons, exclude from the episcopal office. But the most absurd thing of all is, that even boys scarcely ten years of age are, by the permission of the Pope, made bishops. Such is the effrontery and stupidity to which they have arrived, that they have no dread even of that last and monstrous iniquity, which is altogether abhorrent even from natural feeling. Hence it appears what kind of elections these must have been, when such supine negligence existed.
 

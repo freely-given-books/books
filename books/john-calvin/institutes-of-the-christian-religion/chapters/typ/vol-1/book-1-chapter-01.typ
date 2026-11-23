@@ -1,6 +1,6 @@
 == Chapter 1
 
-#align(center)[THE KNOWLEDGE OF GOD AND OF OURSELVES MUTUALLY CONNECTED.—NATURE OF THE CONNECTION.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD AND OF OURSELVES MUTUALLY CONNECTED.—NATURE OF THE CONNECTION.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -9,6 +9,8 @@
 #block(inset: (x: 1em))[2\. Effects of the knowledge of God, in humbling our pride, unveiling our hypocrisy, demonstrating the absolute perfections of God, and our own utter helplessness.]
 
 #block(inset: (x: 1em))[3\. Effects of the knowledge of God illustrated by the examples, 1. of holy patriarchs; 2. of holy angels; 3. of the sun and moon.]
+
+#v(0.8em)
 
 1\. #smallcaps[Our] wisdom, in so far as it ought to be deemed true and solid wisdom, consists almost entirely of two parts: the knowledge of God and of ourselves. But as these are connected together by many ties, it is not easy to determine which of the two precedes and gives birth to the other. For, in the first place, no man can survey himself without forthwith turning his thoughts towards the God in whom he lives and moves; because it is perfectly obvious, that the endowments which we possess cannot possibly be from ourselves; nay, that our very being is nothing else than subsistence in God alone. In the second place, those blessings which unceasingly distil to us from heaven, are like streams conducting us to the fountain. Here, again, the infinitude of good which resides in God becomes more apparent from our poverty. In particular, the miserable ruin into which the revolt of the first man has plunged us, compels us to turn our eyes upwards; not only that while hungry and famishing we may thence ask what we want, but being aroused by fear may learn humility. For as there exists in man something like a world of misery, and ever since we were stript of the divine attire our naked shame discloses an immense series of disgraceful properties every man, being stung by the consciousness of his own unhappiness, in this way necessarily obtains at least some knowledge of God. Thus, our feeling of ignorance, vanity, want, weakness, in short, depravity and corruption, reminds us (see Calvin on John 4:10), that in the Lord, and none but He, dwell the true light of wisdom, solid virtue, exuberant goodness. We are accordingly urged by our own evil things to consider the good things of God; and, indeed, we cannot aspire to Him in earnest until we have begun to be displeased with ourselves. For what man is not disposed to rest in himself? Who, in fact, does not thus rest, so long as he is unknown to himself; that is, so long as he is contented with his own endowments, and unconscious or unmindful of his misery? Every person, therefore, on coming to the knowledge of himself, is not only urged to seek God, but is also led as by the hand to find him.
 

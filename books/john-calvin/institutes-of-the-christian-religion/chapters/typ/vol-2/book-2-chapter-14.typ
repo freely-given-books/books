@@ -1,6 +1,6 @@
 == Chapter 14
 
-#align(center)[HOW TWO NATURES CONSTITUTE THE PERSON OF THE MEDIATOR.]
+#align(center)[#smallcaps(all: true)[HOW TWO NATURES CONSTITUTE THE PERSON OF THE MEDIATOR.]]
 
 #block(inset: (x: 1em))[This chapter contains two principal heads: I. A brief exposition of the doctrine of Christ’s two natures in one person, sec. 1-4. II. A refutation of the heresies of Servetus, which destroy the distinction of natures in Christ, and the eternity of the divine nature of the Son.]
 
@@ -21,6 +21,8 @@
 #block(inset: (x: 1em))[7\. Other objections answered.]
 
 #block(inset: (x: 1em))[8\. Conclusion of the former objections. Other pestilential heresies of Servetus.]
+
+#v(0.8em)
 
 1\. #smallcaps[When] it is said that the Word was made flesh, we must not understand it as if he were either changed into flesh, or confusedly intermingled with flesh, but that he made choice of the Virgin’s womb as a temple in which he might dwell. He who was the Son of God became the Son of man, not by confusion of substance, but by unity of person. For we maintain, that the divinity was so conjoined and united with the humanity, that the entire properties of each nature remain entire, and yet the two natures constitute only one Christ. If, in human affairs, any thing analogous to this great mystery can be found, the most apposite similitude#footnote[Augustine employs the same similitude, Epist. 102.] seems to be that of man, who obviously consists of two substances, neither of which however is so intermingled with the other as that both do not retain their own properties. For neither is soul body, nor is body soul. Wherefore that is said separately of the soul which cannot in any way apply to the body; and that, on the other hand, of the body which is altogether inapplicable to the soul; and that, again, of the whole man, which cannot be affirmed without absurdity either of the body or of the soul separately. Lastly, the properties of the soul are transferred to the body, and the properties of the body to the soul, and yet these form only one man, not more than one. Such modes of expression intimate both that there is in man one person formed of two compounds, and that these two different natures constitute one person. Thus the Scriptures speak of Christ. They sometimes attribute to him qualities which should be referred specially to his humanity and sometimes qualities applicable peculiarly to his divinity, and sometimes qualities which embrace both natures, and do not apply specially to either. This combination of a twofold nature in Christ they express so carefully, that they sometimes communicate them with each other, a figure of speech which the ancients termed ἰδιωμάτων κοινωνία (a communication of properties).
 

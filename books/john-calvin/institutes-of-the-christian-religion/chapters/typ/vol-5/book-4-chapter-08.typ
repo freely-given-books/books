@@ -1,6 +1,6 @@
 == Chapter 8
 
-#align(center)[OF THE POWER OF THE CHURCH IN ARTICLES OF FAITH. THE UNBRIDLED LICENSE OF THE PAPAL CHURCH IN DESTROYING PURITY OF DOCTRINE.]
+#align(center)[#smallcaps(all: true)[OF THE POWER OF THE CHURCH IN ARTICLES OF FAITH. THE UNBRIDLED LICENSE OF THE PAPAL CHURCH IN DESTROYING PURITY OF DOCTRINE.]]
 
 #block(inset: (x: 1em))[This chapter is divided into two parts,—I. The limits within which the Church ought to confine herself in matters of this kind, sec. 1-9. II. The Roman Church convicted of having transgressed these limits, sec. 10-16.]
 
@@ -37,6 +37,8 @@
 #block(inset: (x: 1em))[15\. Argument founded on Matt 18:17. Answer.]
 
 #block(inset: (x: 1em))[16\. Objections founded on Infant Baptism, and the Canon of the Council of Nice, as to the consubstantiality of the Son. Answer.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] come now to the third division—viz. the #emph[Power of the Church], as existing either in individual bishops, or in councils, whether provincial or general. I speak only of the spiritual power which is proper to the Church, and which consists either in doctrine, or jurisdiction, or in enacting laws. In regard to doctrine, there are two divisions—viz. the authority of delivering dogmas, and the interpretation of them. Before we begin to treat of each in particular, I wish to remind the pious reader, that whatever is taught respecting the power of the Church, ought to have reference to the end for which Paul declares (2 Cor 10:8; 13:10) that it was given—namely, for edification, and not for destruction, those who use it lawfully deeming themselves to be nothing more than servants of Christ, and, at the same time, servants of the people in Christ. Moreover, the only mode by which ministers can edify the Church is, by studying to maintain the authority of Christ, which cannot be unimpaired, unless that which he received of the Father is left to him—viz. to be the only Master of the Church. For it was not said of any other but of himself alone, “Hear him” (Matt 17:5). Ecclesiastical power, therefore, is not to be mischievously adorned, but is to be confined within certain limits, so as not to be drawn hither and thither at the caprice of men. For this purpose, it will be of great use to observe how it is described by Prophets and Apostles. For if we concede unreservedly to men all the power which they think proper to assume, it is easy to see how soon it will degenerate into a tyranny which is altogether alien from the Church of Christ.
 

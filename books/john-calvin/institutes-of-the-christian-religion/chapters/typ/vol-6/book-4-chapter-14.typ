@@ -1,6 +1,6 @@
 == Chapter 14
 
-#align(center)[OF THE SACRAMENTS.]
+#align(center)[#smallcaps(all: true)[OF THE SACRAMENTS.]]
 
 #block(inset: (x: 1em))[This chapter consists of two principal parts,—I. Of sacraments in general. The sum of the doctrine stated, sec. 1-6. Two classes of opponents to be guarded against—viz. those who undervalue the power of the sacraments, sec. 7-13; and those who attribute too much to the sacraments, sec. 14-17. II. Of the sacraments in particular, both of the Old and the New Testament. Their scope and meaning. Refutation of those who have either too high or too low ideas of the sacraments.]
 
@@ -57,6 +57,8 @@
 #block(inset: (x: 1em))[25\. Another objection answered.]
 
 #block(inset: (x: 1em))[26\. Sacraments of the New Testament sometimes excessively extolled by early Theologians. Their meaning explained.]
+
+#v(0.8em)
 
 1\. #smallcaps[Akin] to the preaching of the gospel, we have another help to our faith in the sacraments, in regard to which, it greatly concerns us that some sure doctrine should be delivered, informing us both of the end for which they were instituted, and of their present use. First, we must attend to what a sacrament is. It seems to me, then, a simple and appropriate definition to say, that it is an external sign, by which the Lord seals on our consciences his promises of good-will toward us, in order to sustain the weakness of our faith, and we in our turn testify our piety towards him, both before himself, and before angels as well as men. We may also define more briefly by calling it a testimony of the divine favor toward us, confirmed by an external sign, with a corresponding attestation of our faith towards Him. You may make your choice of these definitions, which in meaning differ not from that of Augustine, which defines a sacrament to be a visible sign of a sacred thing, or a visible form of an invisible grace, but does not contain a better or surer explanation. As its brevity makes it somewhat obscure, and thereby misleads the more illiterate, I wished to remove all doubt, and make the definition fuller by stating it at greater length.
 

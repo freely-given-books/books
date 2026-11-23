@@ -1,10 +1,10 @@
 == Chapter 13
 
-#align(center)[THE UNITY OF THE DIVINE ESSENCE IN THREE PERSONS TAUGHT, IN SCRIPTURE, FROM THE FOUNDATION OF THE WORLD.]
+#align(center)[#smallcaps(all: true)[THE UNITY OF THE DIVINE ESSENCE IN THREE PERSONS TAUGHT, IN SCRIPTURE, FROM THE FOUNDATION OF THE WORLD.]]
 
-#block(inset: (x: 1em))[#emph[Beveridge’s summary.] This chapter has two parts. The first sets out the orthodox doctrine of the Holy Trinity. This runs from sec. 1-21, and may be divided into four heads: the first, on the meaning of Person, both the term and the thing meant by it, sec. 2-6; the second, proving the deity of the Son, sec. 7-13; the third, the deity of the Holy Spirit, sec. 14 and 15; and the fourth, explaining what is to be held concerning the Holy Trinity. The second part of the chapter refutes certain heresies that have arisen, particularly in our age, against this orthodox doctrine. This runs from sec. 21 to the end.]
+#block(inset: (x: 1em))[This chapter has two parts. The first sets out the orthodox doctrine of the Holy Trinity. This runs from sec. 1-21, and may be divided into four heads: the first, on the meaning of Person, both the term and the thing meant by it, sec. 2-6; the second, proving the deity of the Son, sec. 7-13; the third, the deity of the Holy Spirit, sec. 14 and 15; and the fourth, explaining what is to be held concerning the Holy Trinity. The second part of the chapter refutes certain heresies that have arisen, particularly in our age, against this orthodox doctrine. This runs from sec. 21 to the end.]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. Scripture, in teaching that the essence of God is immense and spiritual, refutes not only idolaters and the foolish wisdom of the world, but also the Manichees and Anthropomorphites. These last briefly refuted.]
 
@@ -63,6 +63,8 @@
 #block(inset: (x: 1em))[28\. Reply to certain passages cited from Tertullian. The meaning of Tertullian.]
 
 #block(inset: (x: 1em))[29\. Anti-Trinitarians refuted by ancient Christian writers, for example, Justin and Hilary. Objections drawn from writings wrongly attributed to Ignatius. Conclusion of the whole discussion concerning the Trinity.]
+
+#v(0.8em)
 
 1\. #smallcaps[What] Scripture teaches about the immensity and the spirituality of the essence of God should serve not only to scatter the wild dreams of ordinary people, but also to refute the subtleties of a profane philosophy. One of the ancients thought he spoke shrewdly when he said that everything we see and everything we do not see is God.#footnote[Senec. #emph[Praef. lib.] 1 #emph[Quaest. Nat.] (Beveridge’s note.)] In this way he imagined that the Divinity was poured out into every separate part of the world. But although God, to keep us within the bounds of sobriety, speaks sparingly of his essence, yet by the two attributes I have mentioned he both does away with all crude imaginations and checks the audacity of the human mind. His immensity surely ought to deter us from measuring him by our own understanding, while his spiritual nature forbids us to indulge in any carnal or earthly speculation about him. For the same reason he often speaks of heaven as his dwelling place. It is true that, being incomprehensible, he fills the earth also; but knowing that our minds are slow and sink down to the earth, he raises us above the world, to shake off our sluggishness and inertia. And here we have a refutation of the error of the Manichees, who, by setting up two first principles, made the devil almost the equal of God. This, certainly, was both to destroy his unity and to restrict his immensity. Their attempt to twist certain passages of Scripture showed their shameful ignorance, just as the very nature of the error showed their monstrous madness. The Anthropomorphites also, who dreamed up a bodily God because Scripture often ascribes to him a mouth, ears, eyes, hands, and feet, are easily refuted. For who is so lacking in intelligence as not to understand that God, in speaking this way, lisps with us, as nurses do with little children? Such ways of speaking, therefore, do not so much express what kind of being God is, as accommodate the knowledge of him to our feebleness. To do this, he must of course stoop far below his true height.
 

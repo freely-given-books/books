@@ -1,8 +1,8 @@
 == Chapter 4
 
-#align(center)[THE KNOWLEDGE OF GOD STIFLED OR CORRUPTED, IGNORANTLY OR MALICIOUSLY.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD STIFLED OR CORRUPTED, IGNORANTLY OR MALICIOUSLY.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The knowledge of God suppressed by ignorance, many falling away into superstition. Such persons are nevertheless without excuse, because their error goes with pride and stubbornness.]
 
@@ -11,6 +11,8 @@
 #block(inset: (x: 1em))[3\. No pretext can justify superstition. This is proved, first, from reason; and, second, from Scripture.]
 
 #block(inset: (x: 1em))[4\. The wicked never willingly come into the presence of God. Hence their hypocrisy. Hence, too, their sense of Deity leads to no good result.]
+
+#v(0.8em)
 
 1\. #smallcaps[But] though experience shows that a seed of religion is divinely sown in all, scarcely one in a hundred is found who cherishes it in his heart, and not one in whom it ripens—so far is it from bearing fruit in its season. Moreover, while some lose themselves in their superstitions, and others deliberately and wickedly revolt from God, the result is that all are so degenerate in regard to the true knowledge of him that genuine piety can be found in no part of the world. In saying that some fall into superstition through error, I do not mean that their simplicity frees them from guilt; for the blindness they suffer from is almost always bound up with vain pride and stubbornness. Emptiness mixed with pride shows itself in this: when wretched men do seek after God, instead of rising above themselves as they ought, they measure him by their own carnal dullness, and, neglecting solid inquiry, fly off to indulge their curiosity in empty speculations. So they do not conceive of him as he presents himself, but imagine him to be whatever their own rashness has made up. With this abyss open before them, they cannot take a single step without rushing headlong to destruction. With such an idea of God, nothing they may try to offer him in worship or obedience can be counted as given to him, because it is not he whom they worship, but, in his place, the dream and figment of their own heart. Paul describes this perversity admirably when he says that, “seeking to be wise, they became fools” (Rom 1:22). He had said before that “they became futile in their thinking”; but so that no one should think them blameless, he then adds that they were justly blinded, because, not content with sober restraint, but claiming for themselves more than they have any right to, they court darkness of their own accord—indeed, make fools of themselves by empty and perverse pride. That is why their folly—the fruit not only of vain curiosity, but of unbridled desire and overweening confidence in the pursuit of forbidden knowledge—cannot be excused.
 

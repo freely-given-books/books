@@ -1,10 +1,10 @@
 == Chapter 14
 
-#align(center)[IN THE CREATION OF THE WORLD, AND ALL THINGS IN IT, THE TRUE GOD DISTINGUISHED BY CERTAIN MARKS FROM FICTITIOUS GODS.]
+#align(center)[#smallcaps(all: true)[IN THE CREATION OF THE WORLD, AND ALL THINGS IN IT, THE TRUE GOD DISTINGUISHED BY CERTAIN MARKS FROM FICTITIOUS GODS.]]
 
-#block(inset: (x: 1em))[#emph[Beveridge’s summary.] This chapter begins the second part of the First Book, namely the knowledge of man. Some preliminary matters. I. The creation of the world in general (s. 1 and 2). II. The subject of angels (s. 3-13). III. Bad angels, or devils (s. 13-20); and IV. The practical use to be made of the history of the creation (s. 20-22).]
+#block(inset: (x: 1em))[This chapter begins the second part of the First Book, namely the knowledge of man. Some preliminary matters. I. The creation of the world in general (s. 1 and 2). II. The subject of angels (s. 3-13). III. Bad angels, or devils (s. 13-20); and IV. The practical use to be made of the history of the creation (s. 20-22).]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The bare fact of creation should lead us to acknowledge God; but to keep us from falling away to the fictions of the heathen, God has been pleased to give us a history of the creation. An impious objection: Why was the world not created sooner? The answer to it. The shrewd saying of an old man.]
 
@@ -49,6 +49,8 @@
 #block(inset: (x: 1em))[21\. The special aim of this knowledge is to keep us from overlooking the perfections of God through ingratitude or thoughtlessness. An example of this first kind of knowledge.]
 
 #block(inset: (x: 1em))[22\. Another aim of this knowledge, namely that, seeing how these things were created for our use, we may be stirred up to trust in God, pray to him, and love him.]
+
+#v(0.8em)
 
 1\. #smallcaps[Although] Isaiah justly charges the worshipers of false gods with stupidity for not learning from the foundations of the earth and the circle of the heavens who the true God is (Isa 40:21), yet our minds are so sluggish and dull that it was necessary for the true God to be portrayed more clearly, so that the faithful might not fall away to the fictions of the heathen. The idea that God is the mind of the world, though the most tolerable that philosophers have suggested, is empty and fleeting; and so it was important that we should be given a more intimate knowledge of him, so that we might not wander to and fro in uncertainty. That is why God willed that there should be a history of the creation—a history on which the faith of the Church might lean, seeking no other God than Him whom Moses sets forth as the Creator and Architect of the world. First, that history marks the span of time, so that the faithful can go back through an unbroken succession of years to the first origin of their race and of all things. This knowledge is of the greatest use, not only as an antidote to the monstrous fables that once prevailed in Egypt and in other regions of the world, but also as a means of showing the eternity of God more clearly against the birth of creation, and so moving us to greater wonder. We must not be moved by the profane jeer that it is strange it did not occur to the Deity sooner to create the heavens and the earth, instead of idly letting an infinite stretch of time slip by, though he could have done it many thousands of ages before, while the present world is drawing to its close before it has completed its six thousandth year. It is neither fitting nor lawful for us to inquire why God delayed so long. If the human mind presumed to do so, it would fail a hundred times in the attempt; nor would it be useful for us to know what God, to test the modesty of our faith, has been pleased to conceal on purpose. It was a shrewd answer that a good old man gave when someone impudently asked, in mockery, what God was doing before the world was created: he said that God was making a hell for the inquisitive.#footnote[August. Confess., lib. 11 c. 12. (Beveridge’s note.)] This rebuke, as weighty as it is severe, should curb the wantonness that tickles many and drives them into perverse and harmful speculation.
 

@@ -1,6 +1,6 @@
 == Chapter 4
 
-#align(center)[OF THE STATE OF THE PRIMITIVE CHURCH, AND THE MODE OF GOVERNMENT IN USE BEFORE THE PAPACY.]
+#align(center)[#smallcaps(all: true)[OF THE STATE OF THE PRIMITIVE CHURCH, AND THE MODE OF GOVERNMENT IN USE BEFORE THE PAPACY.]]
 
 #block(inset: (x: 1em))[The divisions of this chapter are,—I. The mode of government in the primitive Church, sec 1-10. II. The formal ordination of Bishops and Ministers in the primitive Church, sec. 10-15.]
 
@@ -35,6 +35,8 @@
 #block(inset: (x: 1em))[14\. The form of ordination in the ancient Church.]
 
 #block(inset: (x: 1em))[15\. This form gradually changed.]
+
+#v(0.8em)
 
 1\. #smallcaps[Hitherto] we have discoursed of the order of church government as delivered to us in the pure word of God, and of ministerial offices as instituted by Christ (ch. 1 sec. 5, 6; ch. 3). Now that the whole subject may be more clearly and familiarly explained, and also better fixed in our minds, it will be useful to attend to the form of the early church, as this will give us a kind of visible representation of the divine institution. For although the bishops of those times published many canons, in which they seemed to express more than is expressed by the sacred volume, yet they were so cautious in framing all their economy on the word of God, the only standard, that it is easy to see that they scarcely in any respect departed from it. Even if something may be wanting in these enactments, still, as they were sincerely desirous to preserve the divine institution, and have not strayed far from it, it will be of great benefit here briefly to explain what their observance was. As we have stated that three classes of ministers are set before us in Scripture, so the early Church distributed all its ministers into three orders. For from the order of presbyters, part were selected as pastors and teachers, while to the remainder was committed the censure of manners and discipline. To the deacons belonged the care of the poor and the dispensing of alms. Readers and Acolytes were not the names of certain offices; but those whom they called clergy, they accustomed from their youth to serve the Church by certain exercises, that they might the better understand for what they were destined, and afterwards come better prepared for their duty, as I will shortly show at greater length. Accordingly, Jerome, in setting forth five orders in the Church, enumerates Bishops, Presbyters, Deacons, Believers, Catechumens: to the other Clergy and Monks he gives no proper place#footnote[“Pourtant Sainct Hierome apres avoir divisé l’Eglise en cinq ordres, nomme les Eveques, secondement, les Pretres, tiercement, les Diacres, puis les fideles en commun, finalement, ceux qui n’etoient pas baptisés encore, mais qui s’etoient presentés pour etre instruits en la foy Chretienne; et puis recevoient le baptéme. Ainsi il n’attribue point de certain lieu au reste du Clergé ni aux Moines.”—However, St Jerome, after dividing the Church into five orders, names the Bishops, secondly, the Priests, thirdly the Deacons, then the faithful in common, lastly, those who were not yet baptized but had presented themselves to be instructed in the Christian faith, and thereafter received baptism. Thus he attributes no certain place to the remainder of the Clergy or to the Monks.] (Hieron. in Jes. c. 9).
 

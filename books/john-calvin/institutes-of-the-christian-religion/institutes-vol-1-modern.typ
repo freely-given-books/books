@@ -67,7 +67,11 @@
 #include "chapters/modern/vol-1/book-1-chapter-04.typ"
 
 #metadata[Chapter 5: The Knowledge of God Conspicuous in the Creation] <short>
-#include "chapters/modern/vol-1/book-1-chapter-05.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/vol-1/book-1-chapter-05.typ"
+]
 
 #metadata[Chapter 6: The Need of Scripture as a Guide and Teacher] <short>
 #include "chapters/modern/vol-1/book-1-chapter-06.typ"

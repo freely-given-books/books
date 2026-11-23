@@ -1,14 +1,16 @@
 == Chapter 1
 
-#align(center)[THE KNOWLEDGE OF GOD AND OF OURSELVES MUTUALLY CONNECTED.—NATURE OF THE CONNECTION.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD AND OF OURSELVES MUTUALLY CONNECTED.—NATURE OF THE CONNECTION.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The sum of true wisdom—namely, the knowledge of God and of ourselves. Effects of the latter.]
 
 #block(inset: (x: 1em))[2\. Effects of the knowledge of God, in humbling our pride, unveiling our hypocrisy, showing the absolute perfections of God, and our own utter helplessness.]
 
 #block(inset: (x: 1em))[3\. Effects of the knowledge of God illustrated by examples: 1. of holy patriarchs; 2. of holy angels; 3. of the sun and moon.]
+
+#v(0.8em)
 
 1\. #smallcaps[Our] wisdom, insofar as it ought to be counted true and solid wisdom, consists almost entirely of two parts: the knowledge of God and of ourselves. But since these are bound together by many ties, it is not easy to tell which of the two comes first and gives birth to the other. For, in the first place, no man can look at himself without at once turning his thoughts toward the God in whom he lives and moves (Acts 17:28). For it is perfectly plain that the gifts we possess cannot possibly come from ourselves; indeed, that our very being is nothing else than subsistence in God alone. In the second place, the blessings that fall to us drop by drop from heaven are like streams leading us to the fountain. Here again, the infinite good that dwells in God shows all the more clearly against our poverty. In particular, the miserable ruin into which the revolt of the first man has plunged us compels us to lift our eyes upward: not only so that, hungry and starving, we may ask from there for what we lack, but so that, roused by fear, we may learn humility. For as there is in man something like a world of misery, and ever since we were stripped of the divine attire our shameful nakedness has exposed an immense heap of disgraces, every man must be stung by the consciousness of his own unhappiness, so that he may come at least to some knowledge of God. So our sense of our ignorance, emptiness, poverty, weakness—in short, our depravity and corruption—reminds us#footnote[See Calvin on John 4:10. (Beveridge’s note.)] that in the Lord, and in none but Him, dwell the true light of wisdom, solid strength, the perfect abundance of all good, and the purity of righteousness. And so our own ills spur us to consider the good things of God; indeed, we cannot aspire to Him in earnest until we have begun to be displeased with ourselves. For what man would not gladly rest in himself? Indeed, who does not rest so, as long as he is unknown to himself—that is, as long as he is content with his own gifts, and unaware or forgetful of his misery? So everyone, in coming to know himself, is not only urged to seek God but is also led as by the hand to find him.
 

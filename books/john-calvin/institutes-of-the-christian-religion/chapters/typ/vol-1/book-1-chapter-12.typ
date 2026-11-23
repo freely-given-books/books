@@ -1,6 +1,6 @@
 == Chapter 12
 
-#align(center)[GOD DISTINGUISHED FROM IDOLS, THAT HE MAY BE THE EXCLUSIVE OBJECT OF WORSHIP.]
+#align(center)[#smallcaps(all: true)[GOD DISTINGUISHED FROM IDOLS, THAT HE MAY BE THE EXCLUSIVE OBJECT OF WORSHIP.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -9,6 +9,8 @@
 #block(inset: (x: 1em))[2\. The Papists in opposing this pure doctrine, gain nothing by their distinction of #emph[dulia] and #emph[latria].]
 
 #block(inset: (x: 1em))[3\. Passages of Scripture subversive of the Papistical distinction, and proving that religious worship is due to God alone. Perversions of Divine worship.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] said at the commencement of our work (ch. 2), that the knowledge of God consists not in frigid speculation, but carries worship along with it; and we touched by the way (ch. 5 s. 6, 9, 10) on what will be more copiously treated in other places (Book 2, ch. 8)—viz. how God is duly worshipped. Now I only briefly repeat, that whenever Scripture asserts the unity of God, it does not contend for a mere name, but also enjoins that nothing which belongs to Divinity be applied to any other; thus making it obvious in what respect pure religion differs from superstition. The Greek word εὐσέβεια means “right worship;” for the Greeks, though groping in darkness, were always aware that a certain rule was to be observed, in order that God might not be worshipped absurdly. Cicero truly and shrewdly derives the name #emph[religion] from #emph[relego], and yet the reason which he assigns is forced and farfetched—viz. that honest worshipers #emph[read] and #emph[read again], and ponder what is true.#footnote[Cic. De Nat. Deor. lib. 2 c. 28. See also Lactant. Inst. Div. lib. 4 c. 28.] I rather think the name is used in opposition to #emph[vagrant license]—the greater part of mankind rashly taking up whatever first comes in their way, whereas piety, that it may stand with a firm step, confines itself within due bounds. In the same way superstition seems to take its name from its not being contented with the measure which reason prescribes, but accumulating a superfluous mass of vanities. But to say nothing more of words, it has been universally admitted in all ages, that religion is vitiated and perverted whenever false opinions are introduced into it, and hence it is inferred, that whatever is allowed to be done from inconsiderate zeal, cannot be defended by any pretext with which the superstitious may choose to cloak it. But although this confession is in every man’s mouth, a shameful stupidity is forthwith manifested, inasmuch as men neither cleave to the one God, nor use any selection in their worship, as we have already observed.
 

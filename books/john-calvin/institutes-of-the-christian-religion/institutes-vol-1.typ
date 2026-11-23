@@ -87,7 +87,11 @@
 #include "chapters/typ/vol-1/book-1-chapter-11.typ"
 
 #metadata[Chapter 12: God Distinguished from Idols] <short>
-#include "chapters/typ/vol-1/book-1-chapter-12.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-1/book-1-chapter-12.typ"
+]
 
 #metadata[Chapter 13: The Unity of the Divine Essence in Three Persons] <short>
 #include "chapters/typ/vol-1/book-1-chapter-13.typ"

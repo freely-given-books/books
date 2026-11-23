@@ -1,14 +1,16 @@
 == Chapter 3
 
-#align(center)[THE KNOWLEDGE OF GOD NATURALLY IMPLANTED IN THE HUMAN MIND.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD NATURALLY IMPLANTED IN THE HUMAN MIND.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The knowledge of God, being shown to all, leaves the reprobate without excuse. The universal belief in and acknowledgment of the existence of God.]
 
 #block(inset: (x: 1em))[2\. Objection—that religion and the belief in a Deity are the inventions of crafty statesmen. Refutation of the objection. This universal belief confirmed by the examples of wicked men and atheists.]
 
 #block(inset: (x: 1em))[3\. Confirmed also by the vain efforts of the wicked to banish all fear of God from their minds. Conclusion: the knowledge of God is naturally implanted in the human mind.]
+
+#v(0.8em)
 
 1\. #smallcaps[That] there is in the human mind, and indeed by natural instinct, some sense of Deity, we hold to be beyond dispute. For God himself, to prevent any man from pretending ignorance, has given all men some idea of his Godhead, and he constantly renews its memory, again and again instilling fresh drops, so that all, to a man, knowing that there is a God and that he is their Maker, may be condemned by their own conscience when they neither worship him nor consecrate their lives to his service. Certainly, if there is anywhere that God might be supposed to be unknown, the likeliest place to find an example is among the dullest peoples, farthest removed from civilization. But, as a heathen tells us,#footnote[“Intelligi necesse est deos, quoniam insitas eorum vel potius innatas cognitiones habemus.—Quae nobis natura informationem deorum ipsorum dedit, eadem insculpsit in mentibus ut eos aeternos et beatos haberemus.” \[It must be understood that there are gods, since we have implanted, or rather inborn, notions of them.—The same nature that gave us a notion of the gods themselves has engraved it on our minds that we should hold them eternal and blessed.\]—Cic. de Nat. Deor. lib. 1 c. 17.—“Itaque inter omnes omnium gentium summa constat; omnibus enim innatum est, et in animo quasi insculptum esse deos.” \[So the main point is agreed among all men of all nations; for it is inborn in all, and as it were engraved on the mind, that there are gods.\]—Lib. 2. c. 4. See also Lact. Inst. Div. lib. 3 c. 10. (Beveridge’s note.)] there is no nation so barbarous, no race so savage, as not to be filled with the conviction that there is a God. Even those who in other parts of life seem to differ least from the lower animals always retain some seed of religion; so deeply has this common conviction taken hold of the mind, so firmly is it stamped on the hearts of all men. Since, then, there has never been from the very beginning any region of the globe, any city, even any household, without religion, this amounts to a tacit confession that a sense of Deity is inscribed on every heart. Indeed, even idolatry is ample evidence of this. For we know how unwilling man is to lower himself so as to set other creatures above himself. So when he chooses to worship wood and stone rather than be thought to have no God, it is plain how very strong this imprint of a Deity must be, since it is harder to erase it from the mind of man than to break down the feelings of his nature. And these are certainly broken down when, against his natural haughtiness, he willingly humbles himself before the lowliest things as an act of reverence to God.
 

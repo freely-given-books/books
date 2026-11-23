@@ -1,6 +1,6 @@
 == Chapter 19
 
-#align(center)[OF CHRISTIAN LIBERTY.]
+#align(center)[#smallcaps(all: true)[OF CHRISTIAN LIBERTY.]]
 
 #block(inset: (x: 1em))[The three divisions of this chapter are,—I. Necessity of the doctrine of Christian Liberty, sec. 1. The principal parts of this liberty explained, sec. 2-8. II. The nature and efficacy of this liberty against the Epicureans and others who take no account whatever of the weak, sec. 9 and 10. III. Of offense given and received. A lengthened and not unnecessary discussion of this subject, sec. 11-16.]
 
@@ -37,6 +37,8 @@
 #block(inset: (x: 1em))[15\. Distinction to be made between Spiritual and Civil government. These must not be confounded. How far conscience can be bound by human constitutions. Definition of conscience. Definition explained by passages from the Apostolic writings.]
 
 #block(inset: (x: 1em))[16\. The relation which conscience bears to external obedience; first, in things good and evil; secondly, in things indifferent.]
+
+#v(0.8em)
 
 1\. #smallcaps[We] are now to treat of Christian Liberty, the explanation of which certainly ought not to be omitted by any one proposing to give a compendious summary of Gospel doctrine. For it is a matter of primary necessity, one without the knowledge of which the conscience can scarcely attempt any thing without hesitation, in many must demur and fluctuate, and in all proceed with fickleness and trepidation. In particular, it forms a proper appendix to Justification, and is of no little service in understanding its force. Nay, those who seriously fear God will hence perceive the incomparable advantages of a doctrine which wicked scoffers are constantly assailing with their jibes; the intoxication of mind under which they labor leaving their petulance without restraint. This, therefore, seems the proper place for considering the subject. Moreover, though it has already been occasionally adverted to, there was an advantage in deferring the fuller consideration of it till now, for the moment any mention is made of Christian liberty lust begins to boil, or insane commotions arise, if a speedy restraint is not laid on those licentious spirits by whom the best things are perverted into the worst. For they either, under pretext of this liberty, shake off all obedience to God, and break out into unbridled licentiousness, or they feel indignant, thinking that all choice, order, and restraint, are abolished. What can we do when thus encompassed with straits? Are we to bid adieu to Christian liberty, in order that we may cut off all opportunity for such perilous consequences? But, as we have said, if the subject be not understood, neither Christ, nor the truth of the Gospel, nor the inward peace of the soul, is properly known. Our endeavor must rather be, while not suppressing this very necessary part of doctrine, to obviate the absurd objections to which it usually gives rise.
 

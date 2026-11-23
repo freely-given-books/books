@@ -1,8 +1,8 @@
 == Chapter 7
 
-#align(center)[THE TESTIMONY OF THE SPIRIT NECESSARY TO CONFIRM SCRIPTURE, SO THAT ITS AUTHORITY MAY BE CERTAIN. THE IMPIETY OF CLAIMING THAT THE CREDIBILITY OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.]
+#align(center)[#smallcaps(all: true)[THE TESTIMONY OF THE SPIRIT NECESSARY TO CONFIRM SCRIPTURE, SO THAT ITS AUTHORITY MAY BE CERTAIN. THE IMPIETY OF CLAIMING THAT THE CREDIBILITY OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.]]
 
-#block(inset: (x: 1em))[#emph[Sections (Beveridge’s summary).]]
+#block(inset: (x: 1em))[#emph[Sections.]]
 
 #block(inset: (x: 1em))[1\. The authority of Scripture derived not from men, but from the Spirit of God. Objection: that Scripture depends on the decision of the Church. Refutation: I. The truth of God would thus be made subject to the will of man. II. It is an insult to the Holy Spirit. III. It sets up a tyranny in the Church. IV. It produces a mass of errors. V. It overturns conscience. VI. It exposes our faith to the scoffs of the ungodly.]
 
@@ -13,6 +13,8 @@
 #block(inset: (x: 1em))[4\. Conclusion: that the authority of Scripture is founded on its being spoken by God. This confirmed by the conscience of the godly, and the agreement of all men with the least candor. A fourth objection, common in the mouths of unbelievers. Refutation.]
 
 #block(inset: (x: 1em))[5\. Last and necessary conclusion: that the authority of Scripture is sealed on the hearts of believers by the testimony of the Holy Spirit. The certainty of this testimony. Confirmation of it from a passage of Isaiah and the experience of believers. Also from another passage of Isaiah.]
+
+#v(0.8em)
 
 1\. #smallcaps[Before] going further, it seems proper to make some observations on the authority of Scripture, so that our minds may not only be prepared to receive it with reverence, but be freed of all doubt.
 

@@ -1,6 +1,6 @@
 == Chapter 3
 
-#align(center)[THE KNOWLEDGE OF GOD NATURALLY IMPLANTED IN THE HUMAN MIND.]
+#align(center)[#smallcaps(all: true)[THE KNOWLEDGE OF GOD NATURALLY IMPLANTED IN THE HUMAN MIND.]]
 
 #block(inset: (x: 1em))[#emph[Sections.]]
 
@@ -9,6 +9,8 @@
 #block(inset: (x: 1em))[2\. Objection—that religion and the belief of a Deity are the inventions of crafty politicians. Refutation of the objection. This universal belief confirmed by the examples of wicked men and Atheists.]
 
 #block(inset: (x: 1em))[3\. Confirmed also by the vain endeavors of the wicked to banish all fear of God from their minds. Conclusion, that the knowledge of God is naturally implanted in the human mind.]
+
+#v(0.8em)
 
 1\. #smallcaps[That] there exists in the human mind, and indeed by natural instinct, some sense of Deity, we hold to be beyond dispute, since God himself, to prevent any man from pretending ignorance, has endued all men with some idea of his Godhead, the memory of which he constantly renews and occasionally enlarges, that all to a man being aware that there is a God, and that he is their Maker, may be condemned by their own conscience when they neither worship him nor consecrate their lives to his service. Certainly, if there is any quarter where it may be supposed that God is unknown, the most likely for such an instance to exist is among the dullest tribes farthest removed from civilization. But, as a heathen tells us,#footnote[“Intelligi necesse est deos, quoniam insitas eorum vel potius innatas cognitiones habemus.—Quae nobis natura informationem deorum ipsorum dedit, eadem insculpsit in mentibus ut eos aeternos et beatos haberemus.”—Cic. de Nat. Deor. lib. 1 c. 17.—“Itaque inter omnes omnium gentium summa constat; omnibus enim innatum est, et in animo quasi insculptum esse deos.”—Lib. 2. c. 4. See also Lact. Inst. Div. lib. 3 c. 10.] there is no nation so barbarous, no race so brutish, as not to be imbued with the conviction that there is a God. Even those who, in other respects, seem to differ least from the lower animals, constantly retain some sense of religion; so thoroughly has this common conviction possessed the mind, so firmly is it stamped on the breasts of all men. Since, then, there never has been, from the very first, any quarter of the globe, any city, any household even, without religion, this amounts to a tacit confession, that a sense of Deity is inscribed on every heart. Nay, even idolatry is ample evidence of this fact. For we know how reluctant man is to lower himself, in order to set other creatures above him. Therefore, when he chooses to worship wood and stone rather than be thought to have no God, it is evident how very strong this impression of a Deity must be; since it is more difficult to obliterate it from the mind of man, than to break down the feelings of his nature,—these certainly being broken down, when, in opposition to his natural haughtiness, he spontaneously humbles himself before the meanest object as an act of reverence to God.
 

@@ -1,6 +1,6 @@
 == Chapter 6
 
-#align(center)[OF THE PRIMACY OF THE ROMISH SEE.]
+#align(center)[#smallcaps(all: true)[OF THE PRIMACY OF THE ROMISH SEE.]]
 
 #block(inset: (x: 1em))[The divisions of this chapter are,—I. Question stated, and an argument for the primacy of the Roman Pontiff drawn from the Old Testament refuted, sec. 1, 2. II. Reply to various arguments in support of the Papacy founded on the words, “Thou art Peter,” &c., sec. 3-17.]
 
@@ -39,6 +39,8 @@
 #block(inset: (x: 1em))[16\. Argument that the unity of the Church cannot be maintained without a supreme head on earth. Answer, stating three reasons why great respect was paid in early times to the See of Rome.]
 
 #block(inset: (x: 1em))[17\. Opinion of early times on the subject of the unity of the Church. No primacy attributed to the Church of Rome. Christ alone regarded as the Head of the Universal Church.]
+
+#v(0.8em)
 
 1\. #smallcaps[Hitherto] we have reviewed those ecclesiastical orders which existed in the government of the primitive Church; but afterwards corrupted by time, and thereafter more and more vitiated, now only retain the name in the Papal Church, and are, in fact, nothing but mere masks, so that the contrast will enable the pious reader to judge what kind of Church that is, for revolting from which we are charged with schism. But, on the head and crown of the whole matter, I mean the primacy of the Roman See, from which they undertake to prove that the Catholic Church is to be found only with them,#footnote[See Calv. Adversus Concilium Tridentinum. Also Adversus Theologos Parisienses.] we have not yet touched, because it did not take its origin either in the institution of Christ, or the practice of the early Church, as did those other parts, in regard to which we have shown, that though they were ancient in their origin, they in process of time altogether degenerated, nay, assumed an entirely new form. And yet they endeavor to persuade the world that the chief and only bond of ecclesiastical unity is to adhere to the Roman See, and continue in subjection to it. I say, the prop on which they chiefly lean, when they would deprive us of the Church, and arrogate it to themselves, is, that they retain the head on which the unity of the Church depends, and without which it must necessarily be rent and go to pieces. For they regard the Church as a kind of mutilated trunk if it be not subject to the Romish See as its head. Accordingly, when they debate about their hierarchy they always set out with the axiom: The Roman Pontiff (as the vicar of Christ, who is the Head of the Church) presides in his stead over the universal Church, and the Church is not rightly constituted unless that See hold the primacy over all others. The nature of this claim must, therefore, be considered, that we may not omit anything which pertains to the proper government of the Church.
 
