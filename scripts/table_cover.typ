@@ -105,6 +105,7 @@
   epigraph-source: none,
   // the verse the front is drawn from, small above the seal on the back
   psalm: [Thy children like olive plants round about thy table.],
+  psalm-source: [Psalm cxxviii. 3],
   isbn: none,
   pages: 200,
   trim-width: 5.5in,
@@ -277,7 +278,7 @@
           set par(leading: 0.6em)
           text(size: 10pt, style: "italic", psalm)
           v(0.1in)
-          caps([Psalm cxxviii. 3], 7.5pt, LEAVES.at(0), tracking: 0.16em)
+          caps(psalm-source, 7.5pt, LEAVES.at(0), tracking: 0.16em)
         })
         v(0.45in)
         grid(columns: (1fr, auto), align: (left + bottom, right + bottom),

@@ -12,7 +12,10 @@
 // `pages` here is only for compiling the cover by itself.
 // edition: the Modern English edition's label (cover-vol-3-modern.typ)
 #let cover(edition: none,
-  epigraph: [Submitting your selves one to another in the fear of God.]) = table-cover(
+  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph-source: [Ephesians v. 21],
+  psalm: [Thy children like olive plants round about thy table.],
+  psalm-source: [Psalm cxxviii. 3]) = table-cover(
   edition: edition,
   seal: press-seal,
   cloth: rgb("#8AA45A"),
@@ -36,7 +39,9 @@
   pages: 232,
   back-lead: [The duties children owe their parents — reverence, consent, obedience, and the recompense owed to age — and then the parents' own: love and prayer, nursing and nurture, teaching and correction, and the settling of a child in a calling and a marriage.],
   epigraph: epigraph,
-  epigraph-source: [Ephesians v. 21],
+  epigraph-source: epigraph-source,
+  psalm: psalm,
+  psalm-source: psalm-source,
   // isbn: "978-0-000000-00-0",
 )
 

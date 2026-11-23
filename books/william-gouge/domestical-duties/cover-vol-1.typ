@@ -12,7 +12,10 @@
 // `pages` here is only for compiling the cover by itself.
 // edition: the Modern English edition's label (cover-vol-1-modern.typ)
 #let cover(edition: none,
-  epigraph: [Submitting your selves one to another in the fear of God.]) = table-cover(
+  epigraph: [Submitting your selves one to another in the fear of God.],
+  epigraph-source: [Ephesians v. 21],
+  psalm: [Thy children like olive plants round about thy table.],
+  psalm-source: [Psalm cxxviii. 3]) = table-cover(
   edition: edition,
   seal: press-seal,
   cloth: rgb("#B4C77E"),
@@ -36,7 +39,9 @@
   pages: 235,
   back-lead: [The first of Gouge's eight treatises: a verse-by-verse exposition of Ephesians 5:21-6:4, the passage the whole work is raised out of. Wives and husbands, children and parents, and above them the marriage of Christ and His church.],
   epigraph: epigraph,
-  epigraph-source: [Ephesians v. 21],
+  epigraph-source: epigraph-source,
+  psalm: psalm,
+  psalm-source: psalm-source,
   // isbn: "978-0-000000-00-0",
 )
 
