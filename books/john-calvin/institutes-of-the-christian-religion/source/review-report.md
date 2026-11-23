@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2685 |
-| punctuation | 2437 |
-| emendation | 865 |
-| spacing | 117 |
+| spelling | 2686 |
+| punctuation | 2439 |
+| emendation | 864 |
+| spacing | 120 |
 | case | 84 |
 | note | 38 |
 | italic | 18 |
@@ -104,7 +104,6 @@
 - [vol-1/book-1-chapter-13.typ] are → are three persons
 - [vol-1/book-1-chapter-13.typ] he → be
 - [vol-1/book-1-chapter-13.typ] it is → this
-- [vol-1/book-1-chapter-13.typ] prove → 
 - [vol-1/book-1-chapter-13.typ] us → as
 - [vol-1/book-1-chapter-13.typ] ver → v
 - [vol-1/book-1-chapter-13.typ] ver → v
@@ -999,11 +998,13 @@
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] - → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
+- [vol-1/book-1-chapter-13.typ] : → ;
 - [vol-1/book-1-chapter-13.typ] - → –
 - [vol-1/book-1-chapter-13.typ] . → 
 - [vol-1/book-1-chapter-13.typ] . → 
@@ -3708,6 +3709,7 @@
 - bean → been
 - behaves → behoves
 - benedicion → benediction
+- benefit → benefit,—
 - betisc → betise
 - births → birth,
 - bold → bound
