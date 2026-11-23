@@ -2,6 +2,7 @@
 // its text from chapters/modern, paragraph for paragraph with chapters/typ.
 #import "@local/fgbooks:0.15.0": *
 #import "../../../scripts/outline_marks.typ": outline-marks
+#import "stray-notes.typ": keep-text
 
 #show: book.with(
   title: [Religious Affections],
@@ -38,6 +39,10 @@
   let h = measure(block(width: 6in - 0.75in - 1.125in, it)).height
   if h < 2.2in { block(breakable: false, it) } else { it }
 }
+
+// Sign XII's note 87 (Preston) kept whole on its page: its paragraph's word spacing
+// wider (stray-notes.typ keep-text, print_check's footnote warning)
+#show: keep-text.with(("This fruit of holy practice": "s++",))
 
 // the outline: every level full width, each numbered point marked by its level
 #show: outline-marks
@@ -170,7 +175,15 @@
 #include "chapters/modern/part-3/sign-10.typ"
 
 #metadata((part: [Part III], sections: [Sign XI])) <kicker>
-#include "chapters/modern/part-3/sign-11.typ"
+// a long sign's notes kept on their markers' pages (print_check): letter spacing a little tighter
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/modern/part-3/sign-11.typ"
+]
 
 #metadata((part: [Part III], sections: [Sign XII])) <kicker>
-#include "chapters/modern/part-3/sign-12.typ"
+// a long sign's notes kept on their markers' pages (print_check): letter spacing a little looser
+#[
+  #set text(tracking: 0.0035em)
+  #include "chapters/modern/part-3/sign-12.typ"
+]

@@ -33,7 +33,8 @@ Edwards's voice stay. Scripture quotations (BSB as adjusted), verse and the Clas
 | answerable to | corresponding to |
 | satisfaction (being satisfied of) | assurance |
 | security, secure | complacency, complacent |
-| affectionate (manner) | emotional, ardent |
+| affectionate (manner, desire, expressions) | heartfelt (the editor, card #50, 2026-11-22: "emotional" leans to the mere passions Edwards sets apart) |
+| humiliation (plain uses: being humbled) | humbling ("great humbling", "lack humbling", "humbled for sin"); the named terms "evangelical humiliation" / "legal humiliation", the Sign 6 heading and references back to them ("this humiliation") keep Edwards's word (the editor, card #49, 2026-11-22) |
 | aggravations | weight, what made it worse |
 | reflex acts of faith | reflective acts |
 | entertainment, entertains | delight, delights |
@@ -55,4 +56,4 @@ Edwards's voice stay. Scripture quotations (BSB as adjusted), verse and the Clas
 affections, exercise(s) (Edwards defines the affections as "exercises of the inclination and will"), natural man / men
 (1 Cor 2:14), evangelical, animal spirits (period physiology he explains in place), the **earnest** of the Spirit (the
 word of 2 Cor 1:22 / 5:5 / Eph 1:14 he expounds, in the quotations as adjusted), experiment (test), hypocrites, divines,
-dispensation(s), immanent. **humiliation** waits on the editor (Vikunja project 18 #49).
+dispensation(s), immanent. **evangelical / legal humiliation** (the term; plain uses are "humbling", above).
