@@ -157,6 +157,17 @@ back), `./fgb release` shows "ready to sign since …", or "changed since" if
 the book's folder has moved on, and the site's unsigned preview
 (`npm run build:unsigned`) marks the book "Ready to sign".
 
+**Downloads on R2** (the editor, 2026-11-23): publishing a release runs the `R2 files` workflow,
+which sends its PDFs, EPUBs and print-ready zips (made there) to the Cloudflare R2 bucket under
+their release names, only what is not there yet (`cloudflare/files/upload.py`). The bucket keeps
+each edition's current version and the whole one before; older ones are listed, and deleted only
+when the workflow is run by hand with prune. The `commonweal-files` Worker on workers.dev
+(`cloudflare/files/worker.js`, deployed by the `Files worker` workflow when it changes) serves
+them, cached for a year, and sends a site link `/files/<book>/<file>` on to the current version
+by the map the site publishes (`/files-map.json`); commonwealpress.org's httpd redirects its
+`/files/` downloads there. Secrets `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`,
+`CLOUDFLARE_API_TOKEN`; variables `R2_ACCOUNT_ID`, `R2_BUCKET`.
+
 `stable` is this repository with only the done books, plus `CATALOG.md`;
 readers clone it (`git clone --recursive -b stable`). Signatures are checked
 against `allowed_signers` at the root. `make` pushes nothing: it prints the
