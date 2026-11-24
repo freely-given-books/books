@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2783 |
+| spelling | 2785 |
 | punctuation | 2472 |
 | emendation | 1109 |
 | case | 171 |
@@ -4238,6 +4238,7 @@
 - humaiu → humain
 - humoured → humored
 - hæ → hæc
+- idolatry → idolatry,
 - illusion → allusion
 - importers → imposters
 - improve → approve
@@ -4277,6 +4278,7 @@
 - labourer → laborer
 - laquelie → laquelle
 - lar → la
+- lasciviousness → lasciviousness,
 - leave → have
 - lib → lib.
 - light → right
