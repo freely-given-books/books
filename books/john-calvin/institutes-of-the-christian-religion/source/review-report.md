@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2795 |
+| spelling | 2802 |
 | punctuation | 2474 |
-| emendation | 1112 |
-| case | 189 |
-| spacing | 137 |
+| emendation | 1114 |
+| case | 208 |
+| spacing | 138 |
 | note | 39 |
 | italic | 19 |
 | grammar | 10 |
@@ -1042,7 +1042,7 @@
 - [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] Mt . → Matt
-- [vol-6/book-4-chapter-16.typ] Mt . → Matt
+- [vol-6/book-4-chapter-16.typ] Mt . 9 → Matt 4
 - [vol-6/book-4-chapter-16.typ] Mt . → Matt
 - [vol-6/book-4-chapter-16.typ] on ] y → only
 - [vol-6/book-4-chapter-17.typ note] Psalm → Ps
@@ -1087,6 +1087,7 @@
 - [vol-6/book-4-chapter-19.typ note] Mt . → Mark
 - [vol-6/book-4-chapter-19.typ note] Mt . → Matt
 - [vol-6/book-4-chapter-19.typ note] 33 → 32
+- [vol-6/book-4-chapter-19.typ] 23 → 33
 - [vol-6/book-4-chapter-19.typ] for → from a
 - [vol-6/book-4-chapter-19.typ] of → of the
 - [vol-6/book-4-chapter-19.typ] the → 
@@ -1127,6 +1128,7 @@
 - [vol-6/book-4-chapter-20.typ] l7 → 17
 - [vol-6/book-4-chapter-20.typ] with → with the
 - [vol-6/book-4-chapter-20.typ] l → 1
+- [vol-6/book-4-chapter-20.typ] . 24 → 26
 - [vol-6/book-4-chapter-20.typ] 65 → 
 
 ## grammar
@@ -3571,6 +3573,7 @@
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
+- [vol-6/book-4-chapter-20.typ] , → 
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
@@ -3613,7 +3616,6 @@
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
-- [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] - → –
 - [vol-6/book-4-chapter-20.typ] . → 
 - [vol-6/book-4-chapter-20.typ] . → 
@@ -3634,9 +3636,12 @@
 - Word → word (×2)
 - ad → Ad (×2)
 - apostle → Apostle (×2)
+- baptism → Baptism (×2)
 - he → He (×2)
+- him → Him (×2)
 - law → Law (×2)
 - lord → Lord (×2)
+- mass → Mass (×2)
 - mediator → Mediator (×2)
 - necessity → Necessity (×2)
 - the → The (×2)
@@ -3651,13 +3656,19 @@
 - CHRIST → Christ
 - CHRISTIAN → Christian
 - Can → can
+- Church → church
+- Churches → churches
 - Elders → elders
+- Forms → forms
+- Gods → gods
 - ILLUSTRIOUS → Illustrious
 - IN → in
 - In → in
 - JOHN → John
 - Just → just
 - Justified → justified
+- Law → law
+- Laws → laws
 - MAJESTY → Majesty
 - MIGHTY → Mighty
 - MONARCH → Monarch
@@ -3672,6 +3683,7 @@
 - Sacraments → sacraments
 - Sacrilege → sacrilege
 - Said → said
+- Schoolmen → schoolmen
 - Songs → songs
 - Sought → sought
 - Souls → souls
@@ -3686,23 +3698,24 @@
 - With → with
 - again → Again
 - apostles → Apostles
-- baptism → Baptism
 - because → Because
 - but → But
 - by → By
 - canons → Canons
 - chapters → Chapters
+- divine → Divine
 - divinity → Divinity
 - ed → Ed
 - elsewhere → Elsewhere
 - emperor → Emperor
 - epistle → Epistle
 - evangelical → Evangelical
+- father → Father
 - french → French
 - geneva → Geneva
+- gentiles → Gentiles
 - gospel → Gospel
 - have → Have
-- him → Him
 - his → His
 - holy → Holy
 - if → If
@@ -3710,14 +3723,19 @@
 - interpreter → Interpreter
 - is → Is
 - know → Know
+- marriage → Marriage
 - ninth → Ninth
 - nor → Nor
+- popish → Popish
 - pour → Pour
 - repent → Repent
 - seeing → Seeing
 - strasburg → Strasburg
+- supper → Supper
+- this → This
 - virgin → Virgin
 - virtues → Virtues
+- war → War
 - we → We
 - when → When
 - whether → Whether
@@ -4077,6 +4095,7 @@
 - allegorise → allegorize
 - alore → alors
 - ambitions → ambition,
+- amidst → amid
 - anathematise → anathematize
 - anathematises → anathematizes
 - anew → anew.
@@ -4130,6 +4149,7 @@
 - condemnations → condemnation,
 - condemned → contemned
 - condemning → contemning
+- confectioneries → confectionaries
 - confessions → confession
 - conseli → conseil
 - contaminations → contamination,
@@ -4180,9 +4200,11 @@
 - eclui → celui
 - effected → affected
 - effects → effect,
+- effrontées → effrontés
 - eië → euë
 - elicited → excited
 - eliciting → exciting
+- embued → imbued
 - eminences → eminence,
 - enlisting → existing
 - ent → ont
@@ -4204,6 +4226,7 @@
 - extravangantes → extravagantes
 - eyes → eye
 - faith → faith,
+- faith → faith.
 - familiarising → familiarizing
 - fastings → fasting,
 - favourite → favorite
@@ -4273,6 +4296,7 @@
 - inspired → inspires
 - instil → instill
 - instites → antistites
+- institutée → instituée
 - insure → ensure
 - intellects → intellect,
 - intends → intend,
@@ -4464,6 +4488,7 @@
 - spectra → spectre
 - speculate → speculative
 - split → spirit
+- sprung → sprang
 - squ → sq
 - sses → ses
 - stamps → stamp,
