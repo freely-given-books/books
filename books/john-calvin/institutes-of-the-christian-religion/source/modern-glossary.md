@@ -202,7 +202,7 @@ American spelling (honor, Savior, labor, center, theater, defense). Curly quotes
 - Isa 25:9 "Behold, this is our God … This, this is our God" (Calvin's two Latin forms, ch. 13).
 - Num 23:19 "that He should change His mind" (Latin ut mutetur); 1 Sam 15:29 "repent" (ch. 17).
 - Job 1:21 in Calvin's own (Vulgate) form "as it pleased the Lord, so it has been done" (ch. 18).
-- Our added "Jehovah" glosses are in square brackets (\[Jehovah\], rules §8.6); Beveridge's own "(Jehovah)" stays.
+- The divine name is printed "Yahweh" in the Modern English (the editor, 2026-11-24, card #167): our added glosses are in square brackets (\[Yahweh\], rules §8.6), and Beveridge's own "(Jehovah)" and every "Jehovah" in his prose become "Yahweh" too. The Classic keeps "Jehovah" as printed.
 - Dryden's Virgil (ch. 5) keeps its printed wording (rules §1.5).
 
 ## Footnotes (editor, 2026-11-23)
