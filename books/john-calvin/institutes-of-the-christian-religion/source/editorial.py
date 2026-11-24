@@ -50,7 +50,8 @@ BOOK_TITLES = ["Book First: Of the Knowledge of God the Creator",
                # in full, as 1845 prints it (the cover and title page keep the short form)
                "Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested "
                "to the Fathers, under the Law, and Thereafter to Us under the Gospel",
-               "Book Third: The Mode of Obtaining the Grace of Christ",
+               "Book Third: The Mode of Obtaining the Grace of Christ, the Benefits It Confers, "
+               "and the Effects Resulting from It",
                "Book Fourth: Of the Holy Catholic Church"]
 # (book, first chapter, last chapter) per volume; chapter 0 is the Argument
 VOLUMES = [(1, 0, 18), (2, 0, 17), (3, 0, 10), (3, 11, 25), (4, 0, 13), (4, 14, 20)]

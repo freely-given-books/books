@@ -2,12 +2,12 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2755 |
-| punctuation | 2452 |
-| emendation | 941 |
-| case | 132 |
-| spacing | 129 |
-| note | 38 |
+| spelling | 2758 |
+| punctuation | 2453 |
+| emendation | 984 |
+| case | 146 |
+| spacing | 130 |
+| note | 39 |
 | italic | 19 |
 | grammar | 10 |
 | inset | 6 |
@@ -466,23 +466,32 @@
 - [vol-2/book-2-chapter-17.typ] has → hath
 - [vol-2/book-2-chapter-17.typ] has → hath
 - [vol-3/book-3-chapter-01.typ note] 2 → 4
+- [vol-3/book-3-chapter-01.typ] has → hath
+- [vol-3/book-3-chapter-01.typ] has → hath
+- [vol-3/book-3-chapter-01.typ] has → hath
+- [vol-3/book-3-chapter-01.typ] has → hath
 - [vol-3/book-3-chapter-02.typ note] Thess → 1 Thess
 - [vol-3/book-3-chapter-02.typ note] Tit . → Titus
 - [vol-3/book-3-chapter-02.typ note] 18 → 8
 - [vol-3/book-3-chapter-02.typ note] Tit . → Titus
 - [vol-3/book-3-chapter-02.typ note] 4 → 14
 - [vol-3/book-3-chapter-02.typ note] engulfthem → engulf them
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Is . 4 → Isa 55
 - [vol-3/book-3-chapter-02.typ] Is . → Isa
 - [vol-3/book-3-chapter-02.typ] which → which proceeds from
 - [vol-3/book-3-chapter-02.typ] Tit . → Titus
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Mt . 16 → Matt 15
 - [vol-3/book-3-chapter-02.typ] . 1 → 2
 - [vol-3/book-3-chapter-02.typ] 2 , → 
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Psalm → Ps
 - [vol-3/book-3-chapter-02.typ] Psalm → Ps
+- [vol-3/book-3-chapter-02.typ] Has → Hath
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Psalm → Ps
 - [vol-3/book-3-chapter-02.typ] Psalm → Ps
 - [vol-3/book-3-chapter-02.typ] Psalm → Ps
@@ -493,15 +502,29 @@
 - [vol-3/book-3-chapter-02.typ] Is . → Isa
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
 - [vol-3/book-3-chapter-02.typ] here → has
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] 17 → 7
 - [vol-3/book-3-chapter-02.typ] in grafts → ingrafts
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
+- [vol-3/book-3-chapter-02.typ] does → doth
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
 - [vol-3/book-3-chapter-02.typ] I → 1
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] 2 → 11
+- [vol-3/book-3-chapter-02.typ] has → hath
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Is . → Isa
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] each → such
 - [vol-3/book-3-chapter-02.typ] A → 
+- [vol-3/book-3-chapter-02.typ] has → hath
 - [vol-3/book-3-chapter-02.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ note] . 37 → 38
 - [vol-3/book-3-chapter-03.typ note] Mt . → Matt
@@ -509,22 +532,30 @@
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Psalm → Ps
+- [vol-3/book-3-chapter-03.typ] has → hath
+- [vol-3/book-3-chapter-03.typ] has → hath
+- [vol-3/book-3-chapter-03.typ] has → hath
 - [vol-3/book-3-chapter-03.typ] Rom . → Romans
+- [vol-3/book-3-chapter-03.typ] has → hath
 - [vol-3/book-3-chapter-03.typ] 2 → 11
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] 10 → 15
+- [vol-3/book-3-chapter-03.typ] has → hath
+- [vol-3/book-3-chapter-03.typ] has → hath
 - [vol-3/book-3-chapter-03.typ] per adventure → peradventure
+- [vol-3/book-3-chapter-03.typ] has → hath
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] Mt . → Matt
 - [vol-3/book-3-chapter-03.typ] 3 , 4 → 34
+- [vol-3/book-3-chapter-03.typ] has → hath
 - [vol-3/book-3-chapter-03.typ] Psalm → Ps
 - [vol-3/book-3-chapter-04.typ note] given → given in the
 - [vol-3/book-3-chapter-04.typ note] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ note] Is . 59 → Isa 61
-- [vol-3/book-3-chapter-04.typ note] Psal . → Ps
+- [vol-3/book-3-chapter-04.typ note] Psal . 1 → Ps 50
 - [vol-3/book-3-chapter-04.typ note] . 3 → 52
 - [vol-3/book-3-chapter-04.typ note] Tit . → Titus
 - [vol-3/book-3-chapter-04.typ note] I’m → I am
@@ -540,25 +571,34 @@
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] hint → him
 - [vol-3/book-3-chapter-04.typ] “ allelous ” → ἀλλήλους
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] contain → contain a
 - [vol-3/book-3-chapter-04.typ] one → our
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] us → we
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] results → result is
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] lip , → lips
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] took → takes
 - [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] as → us
+- [vol-3/book-3-chapter-04.typ] has → hath
+- [vol-3/book-3-chapter-04.typ] has → hath
+- [vol-3/book-3-chapter-04.typ] does → doth
 - [vol-3/book-3-chapter-04.typ] anti type → antitype
 - [vol-3/book-3-chapter-04.typ] Psal . → Ps
 - [vol-3/book-3-chapter-04.typ] us , → use
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
+- [vol-3/book-3-chapter-04.typ] has → hath
 - [vol-3/book-3-chapter-04.typ] Psal . → Ps
 - [vol-3/book-3-chapter-04.typ] Mt . → Matt
 - [vol-3/book-3-chapter-05.typ note] indul grences → indulgences
@@ -568,6 +608,9 @@
 - [vol-3/book-3-chapter-05.typ note] o ˜ → où
 - [vol-3/book-3-chapter-05.typ note] pour → pour s’excuser, qu’ils ne soyent conveincus d’etre les plus vilains trompeurs qui furent
 - [vol-3/book-3-chapter-05.typ note] that → 
+- [vol-3/book-3-chapter-05.typ] has → hath
+- [vol-3/book-3-chapter-05.typ] has → hath
+- [vol-3/book-3-chapter-05.typ] has → hath
 - [vol-3/book-3-chapter-05.typ] Mt . → Matt
 - [vol-3/book-3-chapter-05.typ] 1 → 2
 - [vol-3/book-3-chapter-06.typ note] 1Cor → 1
@@ -2198,6 +2241,7 @@
 - [vol-3/book-3-chapter-06.typ] . → 
 - [vol-3/book-3-chapter-06.typ] . → 
 - [vol-3/book-3-chapter-06.typ] . → 
+- [vol-3/book-3-chapter-07.typ note] , → .
 - [vol-3/book-3-chapter-07.typ] . → 
 - [vol-3/book-3-chapter-07.typ] . → 
 - [vol-3/book-3-chapter-07.typ] . → 
@@ -3432,20 +3476,24 @@
 - Judgments → judgments (×14)
 - And → and (×3)
 - prefixed → Prefixed (×3)
+- scripture → Scripture (×3)
 - AND → and (×2)
 - HIS → His (×2)
 - MOST → Most (×2)
 - ad → Ad (×2)
+- apostle → Apostle (×2)
 - he → He (×2)
 - law → Law (×2)
 - lord → Lord (×2)
-- scripture → Scripture (×2)
 - the → The (×2)
+- All → all
 - CALVIN → Calvin
 - CHRIST → Christ
 - CHRISTIAN → Christian
+- Can → can
 - ILLUSTRIOUS → Illustrious
 - IN → in
+- In → in
 - JOHN → John
 - MAJESTY → Majesty
 - MIGHTY → Mighty
@@ -3453,8 +3501,11 @@
 - PEACE → Peace
 - PRAYS → Prays
 - PS → Ps
+- Psalm → psalm
 - SALVATION → Salvation
 - SOVEREIGN → Sovereign
+- Sacrilege → sacrilege
+- Said → said
 - See → see
 - Sought → sought
 - THE → The
@@ -3466,14 +3517,17 @@
 - Wisdom → wisdom
 - With → with
 - Word → word
-- apostle → Apostle
+- but → But
+- by → By
 - divinity → Divinity
 - ed → Ed
+- epistle → Epistle
 - evangelical → Evangelical
 - french → French
 - geneva → Geneva
 - him → Him
 - holy → Holy
+- if → If
 - in → In
 - interpreter → Interpreter
 - know → Know
@@ -3481,11 +3535,13 @@
 - ninth → Ninth
 - nor → Nor
 - pour → Pour
+- repent → Repent
 - seeing → Seeing
 - strasburg → Strasburg
 - virgin → Virgin
 - virtues → Virtues
 - when → When
+- whether → Whether
 - who → Who
 - whosoever → Whosoever
 
@@ -3566,6 +3622,7 @@
 - traveller → traveler (×5)
 - ways → way, (×5)
 - whose → whoso (×5)
+- Homily → Homil (×4)
 - Honour → Honor (×4)
 - Isiah → Isa (×4)
 - acknowledgement → acknowledgment (×4)
@@ -3591,7 +3648,6 @@
 - Ahab → Ahaz (×3)
 - Conformation → Confirmation (×3)
 - Dionysus → Dionysius (×3)
-- Homily → Homil (×3)
 - Micah → Mic (×3)
 - Mt → Matt (×3)
 - NEIGHBOUR’S → NEIGHBOR’S (×3)
@@ -3713,6 +3769,7 @@
 - Aristoeratie → Aristocratie,
 - Asian → Asia,
 - Athanasuis → Athanasius
+- Augustine → Augustin
 - Augustine → Augustine,
 - BRIEFLY → CHIEFLY
 - Baptiser → Baptizer
@@ -3892,6 +3949,7 @@
 - conseli → conseil
 - contaminations → contamination,
 - contemplations → contemplation,
+- conterolleurs → contrerolleurs
 - coporeal → corporeal
 - coporeally → corporeally
 - corresponds → correspond
@@ -3975,6 +4033,7 @@
 - fradulently → fraudulently
 - friend → friends
 - fulfill → fulfills
+- fulness → fatness
 - furry → fury
 - futile → fatale
 - glow → glory
@@ -4158,7 +4217,6 @@
 - qu’il → qu'il
 - rathers → rather
 - rebaptise → rebaptize
-- recognoissant → recognoissent
 - recoit → reçoit
 - redemptions → redemption,
 - reduction → reductio

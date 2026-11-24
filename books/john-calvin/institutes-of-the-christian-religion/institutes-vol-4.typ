@@ -32,7 +32,7 @@
 
 #set text(font: "Libertinus Serif", size: 10.5pt)
 
-= Book Third: The Mode of Obtaining the Grace of Christ (continued)
+= Book Third: The Mode of Obtaining the Grace of Christ, the Benefits It Confers, and the Effects Resulting from It (continued)
 
 #metadata[Chapter 11: Of Justification by Faith] <short>
 #include "chapters/typ/vol-4/book-3-chapter-11.typ"

@@ -32,7 +32,7 @@
 
 #set text(font: "Libertinus Serif", size: 10.5pt)
 
-= Book Third: The Mode of Obtaining the Grace of Christ
+= Book Third: The Mode of Obtaining the Grace of Christ, the Benefits It Confers, and the Effects Resulting from It
 
 #metadata[Argument] <short>
 #include "chapters/typ/vol-3/book-3-argument.typ"
