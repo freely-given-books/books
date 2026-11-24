@@ -69,12 +69,34 @@ function notFound() {
   return new Response("Not found", { status: 404, headers: { "cache-control": "public, max-age=60" } });
 }
 
-// the site's map, fetched through Cloudflare's cache (five minutes)
-async function siteMap(env) {
+// The site's map, fetched through Cloudflare's cache (five minutes; only a good answer is
+// kept: a 404 cached once broke old links for minutes). When the site cannot give it, the
+// last good map: this Worker's, or the copy it keeps in the bucket (MAP_COPY, a key with a
+// "/" in it, which no request can reach).
+const MAP_COPY = "_site/files-map.json";
+let last = null;          // { text, map } in this Worker instance
+
+async function siteMap(env, ctx) {
   try {
-    const r = await fetch(env.SITE_MAP, { cf: { cacheTtl: 300, cacheEverything: true } });
-    return r.ok ? await r.json() : null;
+    const r = await fetch(env.SITE_MAP, { cf: { cacheTtlByStatus: { "200-299": 300, "300-599": 0 } } });
+    if (r.ok) {
+      const text = await r.text();
+      if (last?.text !== text) {
+        const map = JSON.parse(text);
+        // the bucket's copy follows the site's (written only when it changes)
+        const kept = await env.BOOKS.get(MAP_COPY);
+        if (!kept || (await kept.text()) !== text) ctx.waitUntil(env.BOOKS.put(MAP_COPY, text));
+        last = { text, map };
+      }
+      return last.map;
+    }
   } catch {
-    return null;
+    // the site is down or its answer is not a map: the last good one
   }
+  if (last) return last.map;
+  const kept = await env.BOOKS.get(MAP_COPY);
+  if (!kept) return null;
+  const text = await kept.text();
+  last = { text, map: JSON.parse(text) };
+  return last.map;
 }
