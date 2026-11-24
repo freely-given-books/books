@@ -220,6 +220,12 @@ Reviewers and correction passes do not reopen these; a finding against one is no
 - Gouge's "thy flesh" in his lists of what is given ("thy bread, or thy flesh, or thy money", The Surest Way
   ch. 11 and 14) stays "flesh": the giver's own flesh and blood, not meat (the editor, 2026-11-15).
 - "Owned him" (acknowledged, 2 Tim 1:16) → "was not ashamed of him", the verse's own words; not "openly stood by".
+- The divine name: where the author writes "Jehovah", or where the Modern adds a bracketed gloss of
+  the name, the Modern prints **Yahweh** ("the #smallcaps[Lord] \[Yahweh\] Our Righteousness"). The
+  Classic keeps "Jehovah" as printed. Modern editions made from 2026-11-24 on follow this. Those
+  already made still read "Jehovah" and will be changed later, at the editor's word: All of Grace,
+  Christian Economy, Domestical Duties, Religious Affections, Sinners, Glorious Feast (the editor,
+  2026-11-24).
 - The author's own slips stay in both editions, as printed: Watson's "Corinthians" for the
   Macedonians (2 Cor 8:3, A Divine Cordial ch. 7); Owen's "the deceit of sin" (Indwelling Sin
   ch. 10), though "desert" may be meant. Only printers' errors and wrong references are corrected.
