@@ -264,3 +264,7 @@ Book II's (listed, as in vol. 2).
 ## Applied (2026-11-23)
 
 All 65 rows of apply-input.jsonl and the 3 manual edits were applied (`work/institutes/latin/vol3/recheck/apply_recheck.py`), and the word-level diff was read: 67 changes, exactly the rows. By hand: "see Augustin. De" (no comma after "Augustin."). The Book III title is in full, as 1845 prints it (`BOOK_TITLES` in editorial.py), as Book II's is. Not taken, for consistency with the rest of the book: "SUBJECT." for the Argument heading (Book II keeps "Argument" too), and "De Pœnitentia" (the ligature, house style as elsewhere).
+
+## Applied later (2026-11-23)
+
+Three parenthesis slips in III.2, found during the Latin compare and checked against the 1845 print: §4 "(Phil 3:15)", §21 "as Paul declares (Eph 6:16)", and §29 `works,” (Ps 86:5; …)`. III.8 §7 "breathes upon is" is as 1845 prints it, so it is kept.
