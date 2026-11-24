@@ -59,6 +59,9 @@ function headers(obj) {
   h.set("accept-ranges", "bytes");
   h.set("content-length", String(obj.size));
   h.set("access-control-allow-origin", "*");
+  // an ebook or a zip is saved, not opened (a link's download attribute does not reach
+  // across sites); a PDF opens in the browser
+  if (/\.(epub|zip)$/.test(obj.key)) h.set("content-disposition", `attachment; filename="${obj.key}"`);
   return h;
 }
 
