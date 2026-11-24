@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2759 |
-| punctuation | 2456 |
-| emendation | 984 |
-| case | 146 |
-| spacing | 133 |
+| spelling | 2783 |
+| punctuation | 2472 |
+| emendation | 1109 |
+| case | 171 |
+| spacing | 137 |
 | note | 39 |
 | italic | 19 |
 | grammar | 10 |
@@ -638,55 +638,102 @@
 - [vol-4/book-3-chapter-11.typ] arguments → arguments. Answers
 - [vol-4/book-3-chapter-11.typ] as → so
 - [vol-4/book-3-chapter-11.typ] Psalm → Ps
+- [vol-4/book-3-chapter-11.typ] has → hath
 - [vol-4/book-3-chapter-11.typ] ( ) → דעת
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
 - [vol-4/book-3-chapter-11.typ] . 3 → 5
 - [vol-4/book-3-chapter-11.typ] word → way
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
+- [vol-4/book-3-chapter-11.typ] has → hath
 - [vol-4/book-3-chapter-12.typ] 5 → 4
 - [vol-4/book-3-chapter-12.typ] Mt . → Matt
 - [vol-4/book-3-chapter-13.typ] 25 → 26
+- [vol-4/book-3-chapter-13.typ] has → hath
 - [vol-4/book-3-chapter-13.typ] 50 → 1
 - [vol-4/book-3-chapter-13.typ] Eccles . → Eccl
+- [vol-4/book-3-chapter-13.typ] has → hath
 - [vol-4/book-3-chapter-13.typ] in grafted → ingrafted
 - [vol-4/book-3-chapter-14.typ note] . 7 → 8
 - [vol-4/book-3-chapter-14.typ note] the → 
+- [vol-4/book-3-chapter-14.typ] has → hath
+- [vol-4/book-3-chapter-14.typ] has → hath
+- [vol-4/book-3-chapter-14.typ] has → hath
+- [vol-4/book-3-chapter-14.typ] has → hath
 - [vol-4/book-3-chapter-14.typ] Tit . → Titus
 - [vol-4/book-3-chapter-14.typ] Mt . → Matt
 - [vol-4/book-3-chapter-14.typ] statement → statement with
+- [vol-4/book-3-chapter-14.typ] has → hath
 - [vol-4/book-3-chapter-14.typ] Psalm → Ps
+- [vol-4/book-3-chapter-14.typ] has → hath
 - [vol-4/book-3-chapter-15.typ note] John → 1 John
 - [vol-4/book-3-chapter-15.typ note] . 7 → 8
 - [vol-4/book-3-chapter-15.typ] Psal . → Ps
 - [vol-4/book-3-chapter-15.typ] Psal . → Ps
 - [vol-4/book-3-chapter-15.typ] αὑτου̑ → αὐτοῦ
+- [vol-4/book-3-chapter-15.typ] has → hath
 - [vol-4/book-3-chapter-15.typ] Mt . → Matt
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
 - [vol-4/book-3-chapter-15.typ] Mt . → Matt
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
 - [vol-4/book-3-chapter-15.typ] in → on
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] has → hath
 - [vol-4/book-3-chapter-15.typ] Psal . → Ps
+- [vol-4/book-3-chapter-15.typ] has → hath
+- [vol-4/book-3-chapter-15.typ] does → doth
 - [vol-4/book-3-chapter-16.typ note] 5 → 4
 - [vol-4/book-3-chapter-16.typ note] Tit . → Titus
+- [vol-4/book-3-chapter-16.typ] has → hath
+- [vol-4/book-3-chapter-16.typ] has → hath
+- [vol-4/book-3-chapter-16.typ] has → hath
+- [vol-4/book-3-chapter-16.typ] has → hath
+- [vol-4/book-3-chapter-16.typ] has → hath
 - [vol-4/book-3-chapter-17.typ note] Mt . → Matt
 - [vol-4/book-3-chapter-17.typ note] Chap . → Chapter
 - [vol-4/book-3-chapter-17.typ] er → ex
 - [vol-4/book-3-chapter-17.typ] 10 → 11
 - [vol-4/book-3-chapter-17.typ] big → his
 - [vol-4/book-3-chapter-17.typ] else here → elsewhere
+- [vol-4/book-3-chapter-17.typ] has → hath
 - [vol-4/book-3-chapter-17.typ] Psal . → Ps
 - [vol-4/book-3-chapter-17.typ] ! yqj → חקים
 - [vol-4/book-3-chapter-17.typ] Psal . → Ps
 - [vol-4/book-3-chapter-17.typ] lie → he
+- [vol-4/book-3-chapter-17.typ] has → hath
+- [vol-4/book-3-chapter-17.typ] does → doth
+- [vol-4/book-3-chapter-17.typ] has → hath
+- [vol-4/book-3-chapter-17.typ] has → hath
+- [vol-4/book-3-chapter-17.typ] has → hath
+- [vol-4/book-3-chapter-17.typ] has → hath
 - [vol-4/book-3-chapter-17.typ] 23 → 33
 - [vol-4/book-3-chapter-18.typ note] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ note] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ note] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] has → hath
+- [vol-4/book-3-chapter-18.typ] has → hath
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
+- [vol-4/book-3-chapter-18.typ] has → hath
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ] 6 → 5
+- [vol-4/book-3-chapter-18.typ] has → hath
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-18.typ] Mt . → Matt
 - [vol-4/book-3-chapter-19.typ note] 16 → 15
 - [vol-4/book-3-chapter-19.typ] rise → use
+- [vol-4/book-3-chapter-19.typ] has → hath
 - [vol-4/book-3-chapter-19.typ] sock → work
 - [vol-4/book-3-chapter-19.typ] Tit . → Titus
 - [vol-4/book-3-chapter-19.typ] 10 → 12
@@ -702,6 +749,9 @@
 - [vol-4/book-3-chapter-20.typ note] Mt . → Matt
 - [vol-4/book-3-chapter-20.typ note] . 11 → 2
 - [vol-4/book-3-chapter-20.typ] use → use. 2
+- [vol-4/book-3-chapter-20.typ] Ps → 
+- [vol-4/book-3-chapter-20.typ] 36 → 
+- [vol-4/book-3-chapter-20.typ] 9 → 
 - [vol-4/book-3-chapter-20.typ] Psalm → Ps
 - [vol-4/book-3-chapter-20.typ] Psalm → Ps
 - [vol-4/book-3-chapter-20.typ] Psalm → Ps
@@ -714,11 +764,21 @@
 - [vol-4/book-3-chapter-20.typ] on → 
 - [vol-4/book-3-chapter-20.typ] Psalm → Ps
 - [vol-4/book-3-chapter-20.typ] 13 → 10
+- [vol-4/book-3-chapter-20.typ] 6 → 
+- [vol-4/book-3-chapter-20.typ] 13 → 
+- [vol-4/book-3-chapter-20.typ] 19 → 
+- [vol-4/book-3-chapter-20.typ] 2 → 
+- [vol-4/book-3-chapter-20.typ] Cor → 
+- [vol-4/book-3-chapter-20.typ] 1 → 
+- [vol-4/book-3-chapter-20.typ] 20 → 
 - [vol-4/book-3-chapter-20.typ] yet → still
 - [vol-4/book-3-chapter-20.typ] 32 → 34
+- [vol-4/book-3-chapter-20.typ] ( Eligius ) → 
 - [vol-4/book-3-chapter-20.typ] Eccles . → Eccl
 - [vol-4/book-3-chapter-20.typ] l → I
-- [vol-4/book-3-chapter-20.typ] Is . → Isa
+- [vol-4/book-3-chapter-20.typ] Is → 
+- [vol-4/book-3-chapter-20.typ] 42 → 
+- [vol-4/book-3-chapter-20.typ] 10 → 
 - [vol-4/book-3-chapter-20.typ] Is . → Isa
 - [vol-4/book-3-chapter-20.typ] Mt . → Matt
 - [vol-4/book-3-chapter-20.typ] Mt . → Matt
@@ -736,44 +796,109 @@
 - [vol-4/book-3-chapter-21.typ note] Psal . → Ps
 - [vol-4/book-3-chapter-21.typ] l → 1
 - [vol-4/book-3-chapter-21.typ] l → 1
+- [vol-4/book-3-chapter-21.typ] has → hath
 - [vol-4/book-3-chapter-21.typ] in → an
 - [vol-4/book-3-chapter-21.typ] lives → was
+- [vol-4/book-3-chapter-21.typ] has → hath
+- [vol-4/book-3-chapter-21.typ] has → hath
+- [vol-4/book-3-chapter-21.typ] has → hath
+- [vol-4/book-3-chapter-21.typ] has → hath
+- [vol-4/book-3-chapter-21.typ] has → hath
 - [vol-4/book-3-chapter-22.typ note] d’a aucuns → d'aucuns
 - [vol-4/book-3-chapter-22.typ] one → our
+- [vol-4/book-3-chapter-22.typ] has → hath
 - [vol-4/book-3-chapter-22.typ] Holiness of life springs from election , and is the object of it2 → 2
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
 - [vol-4/book-3-chapter-22.typ] Tit . → Titus
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
+- [vol-4/book-3-chapter-22.typ] has → hath
 - [vol-4/book-3-chapter-23.typ note] Auguste Dein → August. de
 - [vol-4/book-3-chapter-23.typ note] er → et
+- [vol-4/book-3-chapter-23.typ] has → hath
 - [vol-4/book-3-chapter-23.typ] Mt . → Matt
+- [vol-4/book-3-chapter-23.typ] Has → Hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
 - [vol-4/book-3-chapter-23.typ] 33 → 35
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
 - [vol-4/book-3-chapter-23.typ] Mt . → Matt
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
+- [vol-4/book-3-chapter-23.typ] has → hath
 - [vol-4/book-3-chapter-23.typ] will , → wills
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
 - [vol-4/book-3-chapter-24.typ] Psalm → Ps
 - [vol-4/book-3-chapter-24.typ] Psalm → Ps
 - [vol-4/book-3-chapter-24.typ] Psalm → Ps
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
 - [vol-4/book-3-chapter-24.typ] 1 → 2
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
 - [vol-4/book-3-chapter-24.typ] Mt . → Matt
+- [vol-4/book-3-chapter-24.typ] has → hath
 - [vol-4/book-3-chapter-25.typ note] . 7 → 8
 - [vol-4/book-3-chapter-25.typ note] se → si
+- [vol-4/book-3-chapter-25.typ] has → hath
 - [vol-4/book-3-chapter-25.typ] Mt . → Matt
 - [vol-4/book-3-chapter-25.typ] Mt . → Matt
 - [vol-4/book-3-chapter-25.typ] Psalm → Ps
 - [vol-4/book-3-chapter-25.typ] ver . → 
 - [vol-4/book-3-chapter-25.typ] 1 → 1), and then denounces
+- [vol-4/book-3-chapter-25.typ] has → hath
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] has → hath
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] has → hath
+- [vol-4/book-3-chapter-25.typ] has → hath
+- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] does → doth
 - [vol-4/book-3-chapter-25.typ] Mt . → Matt
 - [vol-4/book-3-chapter-25.typ] Mt . → Matt
 - [vol-4/book-3-chapter-25.typ] Mt . → Matt
-- [vol-4/book-3-chapter-25.typ] Mt . → Matt
-- [vol-4/book-3-chapter-25.typ] Mt . → Matt
-- [vol-4/book-3-chapter-25.typ] Mt . → Matt
+- [vol-4/book-3-chapter-25.typ] has → hath
+- [vol-4/book-3-chapter-25.typ] does → doth
 - [vol-5/book-4-argument.typ] Chap . → Chapter
 - [vol-5/book-4-argument.typ] Chap . → Chapter
 - [vol-5/book-4-argument.typ] Chap . → Chapter
@@ -2599,7 +2724,10 @@
 - [vol-4/book-3-chapter-20.typ note] . → 
 - [vol-4/book-3-chapter-20.typ note] . → 
 - [vol-4/book-3-chapter-20.typ note] . → 
+- [vol-4/book-3-chapter-20.typ] ( → 
 - [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] : → 
+- [vol-4/book-3-chapter-20.typ] ) → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
@@ -2640,6 +2768,42 @@
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] : → 
+- [vol-4/book-3-chapter-20.typ] , → 
+- [vol-4/book-3-chapter-20.typ] , → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] ( → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] : → 
+- [vol-4/book-3-chapter-20.typ] ) → 
+- [vol-4/book-3-chapter-20.typ] , → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] ) → ) We
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] : → :1,
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
@@ -2651,33 +2815,10 @@
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] ( → 
 - [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
-- [vol-4/book-3-chapter-20.typ] . → 
+- [vol-4/book-3-chapter-20.typ] : → 
+- [vol-4/book-3-chapter-20.typ] ) → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
 - [vol-4/book-3-chapter-20.typ] . → 
@@ -3477,18 +3618,23 @@
 
 - Judgment → judgment (×47)
 - Judgments → judgments (×14)
-- And → and (×3)
+- And → and (×5)
+- scripture → Scripture (×5)
 - prefixed → Prefixed (×3)
-- scripture → Scripture (×3)
 - AND → and (×2)
 - HIS → His (×2)
 - MOST → Most (×2)
+- Word → word (×2)
 - ad → Ad (×2)
 - apostle → Apostle (×2)
 - he → He (×2)
 - law → Law (×2)
 - lord → Lord (×2)
+- mediator → Mediator (×2)
+- necessity → Necessity (×2)
 - the → The (×2)
+- A → a
+- Again → again
 - All → all
 - CALVIN → Calvin
 - CHRIST → Christ
@@ -3498,19 +3644,25 @@
 - IN → in
 - In → in
 - JOHN → John
+- Just → just
+- Justified → justified
 - MAJESTY → Majesty
 - MIGHTY → Mighty
 - MONARCH → Monarch
 - PEACE → Peace
 - PRAYS → Prays
 - PS → Ps
+- Papistical → papistical
 - Psalm → psalm
+- Refulgent → refulgent
 - SALVATION → Salvation
 - SOVEREIGN → Sovereign
 - Sacrilege → sacrilege
 - Said → said
 - See → see
+- Songs → songs
 - Sought → sought
+- Souls → souls
 - THE → The
 - TO → To
 - The → the
@@ -3519,30 +3671,37 @@
 - Who → who
 - Wisdom → wisdom
 - With → with
-- Word → word
+- again → Again
+- because → Because
 - but → But
 - by → By
 - divinity → Divinity
 - ed → Ed
+- elsewhere → Elsewhere
 - epistle → Epistle
 - evangelical → Evangelical
 - french → French
 - geneva → Geneva
+- gospel → Gospel
+- have → Have
 - him → Him
+- his → His
 - holy → Holy
 - if → If
 - in → In
 - interpreter → Interpreter
+- is → Is
 - know → Know
-- mediator → Mediator
 - ninth → Ninth
 - nor → Nor
 - pour → Pour
 - repent → Repent
 - seeing → Seeing
 - strasburg → Strasburg
+- to → To
 - virgin → Virgin
 - virtues → Virtues
+- we → We
 - when → When
 - whether → Whether
 - who → Who
@@ -3593,6 +3752,7 @@
 - favourable → favorable (×11)
 - recognising → recognizing (×11)
 - retake → betake (×11)
+- does → doeth (×10)
 - neighbours → neighbors (×10)
 - succour → succor (×10)
 - Gods → God, (×9)
@@ -3608,6 +3768,7 @@
 - theatre → theater (×7)
 - Scriptures → Scripture, (×6)
 - baptising → baptizing (×6)
+- comes → cometh (×6)
 - dishonour → dishonor (×6)
 - endeavoured → endeavored (×6)
 - labourers → laborers (×6)
@@ -3628,10 +3789,10 @@
 - Homily → Homil (×4)
 - Honour → Honor (×4)
 - Isiah → Isa (×4)
+- a → an (×4)
 - acknowledgement → acknowledgment (×4)
 - c → c. (×4)
 - ceaselessly → causelessly (×4)
-- does → doeth (×4)
 - foreknow → foreknew (×4)
 - glamour → clamor (×4)
 - honourably → honorably (×4)
@@ -3654,7 +3815,6 @@
 - Micah → Mic (×3)
 - Mt → Matt (×3)
 - NEIGHBOUR’S → NEIGHBOR’S (×3)
-- a → an (×3)
 - baptises → baptizes (×3)
 - candour → candor (×3)
 - catechising → catechizing (×3)
@@ -3663,6 +3823,7 @@
 - days → day, (×3)
 - despatch → dispatch (×3)
 - dishonoured → dishonored (×3)
+- goes → goeth (×3)
 - meagre → meager (×3)
 - passages → passage, (×3)
 - philosophise → philosophize (×3)
@@ -3738,6 +3899,7 @@
 - says → says, (×2)
 - scrutinise → scrutinize (×2)
 - sees → seest (×2)
+- sees → seeth (×2)
 - stigmatised → stigmatized (×2)
 - subsistence → subsistences (×2)
 - terms → term, (×2)
@@ -3860,6 +4022,7 @@
 - Put → But
 - Pœitentia → Pœnitentia
 - Pœnit → Pœnit.
+- Rabbis → Rabbins
 - SHEWING → SHOWING
 - Satan’s → Satan,
 - Section → Sections
@@ -3902,6 +4065,7 @@
 - apostles → apostle,
 - appending → appendix
 - apprehensions → apprehension
+- arbre → l’arbre
 - arguments → argument,
 - arison → raison
 - arrangements → arrangement,
@@ -3917,6 +4081,7 @@
 - baptiser → baptizer
 - bean → been
 - behaves → behoves
+- believes → believeth
 - benedicion → benediction
 - benefit → benefit,—
 - betisc → betise
@@ -3941,7 +4106,6 @@
 - civilised → civilized
 - classes → causes
 - colouring → coloring
-- comes → cometh
 - comets → cometh
 - commencment → commencement
 - communicate → communicate.
@@ -3966,6 +4130,7 @@
 - dedlans → dedans
 - defections → defection,
 - deforming → deforcing
+- delaisse → delaissez
 - delusory → elusory
 - dequel → duquel
 - desires → desire
@@ -4048,6 +4213,7 @@
 - grounds → ground,
 - gue → que
 - guod → quod
+- hands → hand
 - harmonise → harmonize
 - harmonises → harmonizes
 - has → had
@@ -4078,6 +4244,7 @@
 - impunity → impurity
 - indicted → inflicted
 - indulgences → indulgence,
+- inextinguishable → unextinguishable
 - infernos → infernis
 - infrequent → unfrequent
 - infrequently → unfrequently
@@ -4245,11 +4412,11 @@
 - saini → asini
 - sakes → sake,
 - samblant → semblant
+- satisfied → satisfies
 - saviour → savior
 - savouring → savoring
 - say → says
 - scented → seemed
-- sees → seeth
 - selfexistence → self-existence
 - selfexistent → self-existent
 - separated → separate
@@ -4328,6 +4495,7 @@
 - use → us,
 - vain → twain
 - valour → valor
+- vehemence → vehemency
 - veuillins → veuillions
 - vices → vice,
 - viel → vieil
