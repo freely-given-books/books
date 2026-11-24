@@ -2,10 +2,10 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2785 |
-| punctuation | 2472 |
-| emendation | 1109 |
-| case | 171 |
+| spelling | 2795 |
+| punctuation | 2474 |
+| emendation | 1112 |
+| case | 189 |
 | spacing | 137 |
 | note | 39 |
 | italic | 19 |
@@ -946,6 +946,7 @@
 - [vol-5/book-4-chapter-03.typ] Tit . → Titus
 - [vol-5/book-4-chapter-03.typ] Tit . → Titus
 - [vol-5/book-4-chapter-03.typ] l → 1
+- [vol-5/book-4-chapter-03.typ] that → that that
 - [vol-5/book-4-chapter-03.typ] Mt . → Matt
 - [vol-5/book-4-chapter-03.typ] to → to be
 - [vol-5/book-4-chapter-04.typ note] do → de
@@ -960,6 +961,7 @@
 - [vol-5/book-4-chapter-06.typ] Mt . → Matt
 - [vol-5/book-4-chapter-06.typ] in → and
 - [vol-5/book-4-chapter-06.typ] Mt . → Matt
+- [vol-5/book-4-chapter-06.typ] confess → confess that
 - [vol-5/book-4-chapter-07.typ] ofthe → of the
 - [vol-5/book-4-chapter-07.typ] 4 → 6
 - [vol-5/book-4-chapter-07.typ] 8 → 7
@@ -982,6 +984,7 @@
 - [vol-5/book-4-chapter-09.typ] Mt . → Matt
 - [vol-5/book-4-chapter-10.typ note] distincti → distinction which
 - [vol-5/book-4-chapter-10.typ] the , → that
+- [vol-5/book-4-chapter-10.typ] 6 → 5
 - [vol-5/book-4-chapter-10.typ] Mt . → Matt
 - [vol-5/book-4-chapter-10.typ] Mt . → Matt
 - [vol-5/book-4-chapter-10.typ] Chap . → Chapter
@@ -3166,8 +3169,10 @@
 - [vol-5/book-4-chapter-04.typ] . → 
 - [vol-5/book-4-chapter-04.typ] . → 
 - [vol-5/book-4-chapter-04.typ] . → 
+- [vol-5/book-4-chapter-04.typ] . → ,
 - [vol-5/book-4-chapter-04.typ] . → .”
 - [vol-5/book-4-chapter-05.typ] . → 
+- [vol-5/book-4-chapter-05.typ] . → ,
 - [vol-5/book-4-chapter-05.typ] . → 
 - [vol-5/book-4-chapter-05.typ] . → 
 - [vol-5/book-4-chapter-05.typ] . → 
@@ -3620,10 +3625,12 @@
 - Judgments → judgments (×14)
 - And → and (×5)
 - scripture → Scripture (×5)
+- church → Church (×4)
 - prefixed → Prefixed (×3)
 - AND → and (×2)
 - HIS → His (×2)
 - MOST → Most (×2)
+- See → see (×2)
 - Word → word (×2)
 - ad → Ad (×2)
 - apostle → Apostle (×2)
@@ -3633,13 +3640,18 @@
 - mediator → Mediator (×2)
 - necessity → Necessity (×2)
 - the → The (×2)
+- to → To (×2)
 - A → a
 - Again → again
 - All → all
+- Apostle → apostle
+- Apostles → apostles
+- Bishop → bishop
 - CALVIN → Calvin
 - CHRIST → Christ
 - CHRISTIAN → Christian
 - Can → can
+- Elders → elders
 - ILLUSTRIOUS → Illustrious
 - IN → in
 - In → in
@@ -3657,27 +3669,33 @@
 - Refulgent → refulgent
 - SALVATION → Salvation
 - SOVEREIGN → Sovereign
+- Sacraments → sacraments
 - Sacrilege → sacrilege
 - Said → said
-- See → see
 - Songs → songs
 - Sought → sought
 - Souls → souls
 - THE → The
 - TO → To
 - The → the
+- Universal → universal
 - Where → where
 - Which → which
 - Who → who
 - Wisdom → wisdom
 - With → with
 - again → Again
+- apostles → Apostles
+- baptism → Baptism
 - because → Because
 - but → But
 - by → By
+- canons → Canons
+- chapters → Chapters
 - divinity → Divinity
 - ed → Ed
 - elsewhere → Elsewhere
+- emperor → Emperor
 - epistle → Epistle
 - evangelical → Evangelical
 - french → French
@@ -3698,7 +3716,6 @@
 - repent → Repent
 - seeing → Seeing
 - strasburg → Strasburg
-- to → To
 - virgin → Virgin
 - virtues → Virtues
 - we → We
@@ -3706,6 +3723,7 @@
 - whether → Whether
 - who → Who
 - whosoever → Whosoever
+- Οὐκ → οὐκ
 
 ## spelling
 
@@ -3749,6 +3767,7 @@
 - threatening → threatenings (×12)
 - Hosea → Hos (×11)
 - Judges → Judg (×11)
+- a → an (×11)
 - favourable → favorable (×11)
 - recognising → recognizing (×11)
 - retake → betake (×11)
@@ -3789,7 +3808,6 @@
 - Homily → Homil (×4)
 - Honour → Honor (×4)
 - Isiah → Isa (×4)
-- a → an (×4)
 - acknowledgement → acknowledgment (×4)
 - c → c. (×4)
 - ceaselessly → causelessly (×4)
@@ -4255,6 +4273,7 @@
 - inspired → inspires
 - instil → instill
 - instites → antistites
+- insure → ensure
 - intellects → intellect,
 - intends → intend,
 - interogated → interrogated
@@ -4329,6 +4348,7 @@
 - odours → odors
 - off → of
 - oft → off
+- of’ → of
 - omited → omitted
 - one → ones
 - ones → one,
@@ -4509,6 +4529,7 @@
 - when → when,
 - whould → would
 - wills → will
+- women → women;
 - word → words
 - works → works,
 - worlds → words
