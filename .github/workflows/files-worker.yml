@@ -1,0 +1,28 @@
+# Deploys the book downloads Worker (cloudflare/files/worker.js) to workers.dev
+# when it changes on main; "Run workflow" deploys it again.
+#
+# Secret: CLOUDFLARE_API_TOKEN (Edit Cloudflare Workers). Variable: R2_ACCOUNT_ID.
+name: Files worker
+
+on:
+  push:
+    branches: [main]
+    paths: ["cloudflare/files/worker.js", "cloudflare/files/wrangler.toml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cloudflare/files
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ vars.R2_ACCOUNT_ID }}
+          workingDirectory: cloudflare/files
+          wranglerVersion: "4.20.0"

@@ -1,0 +1,51 @@
+# A published books release's downloads (PDFs, EPUBs, print-ready zips) into the
+# R2 bucket the files Worker serves (cloudflare/files/: upload.py, worker.js). Only
+# what is not there yet goes up. "Run workflow" sends a release again (empty: the
+# newest), and with prune deletes versions older than each edition's previous one.
+#
+# Secrets: R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY. Variables: R2_ACCOUNT_ID, R2_BUCKET.
+name: R2 files
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Books release tag (empty: the newest)"
+        required: false
+      prune:
+        description: "Delete versions older than each edition's previous one"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency: r2-files
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      R2_ACCOUNT_ID: ${{ vars.R2_ACCOUNT_ID }}
+      R2_BUCKET: ${{ vars.R2_BUCKET }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: cloudflare/files
+
+      - run: pip install --quiet boto3==1.35.99
+
+      - name: The release's downloads
+        run: |
+          tag="${{ github.event.release.tag_name || inputs.tag }}"
+          tag=${tag:-$(gh release view -R "$GITHUB_REPOSITORY" --json tagName --jq .tagName)}
+          echo "books release $tag"
+          gh release download "$tag" -R "$GITHUB_REPOSITORY" -D rel -p catalog.json -p '*.pdf' -p '*.epub'
+
+      - name: Up to R2
+        run: python cloudflare/files/upload.py rel ${{ inputs.prune && '--prune' || '' }}
