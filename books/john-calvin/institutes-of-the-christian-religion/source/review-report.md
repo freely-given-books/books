@@ -2,11 +2,11 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2758 |
-| punctuation | 2453 |
+| spelling | 2759 |
+| punctuation | 2456 |
 | emendation | 984 |
 | case | 146 |
-| spacing | 130 |
+| spacing | 133 |
 | note | 39 |
 | italic | 19 |
 | grammar | 10 |
@@ -1958,6 +1958,7 @@
 - [vol-3/book-3-chapter-02.typ note] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] , → , (
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
@@ -1995,6 +1996,7 @@
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] ( → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
@@ -2013,6 +2015,7 @@
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
+- [vol-3/book-3-chapter-02.typ] . → (
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
 - [vol-3/book-3-chapter-02.typ] . → 
@@ -4337,6 +4340,7 @@
 - whould → would
 - wills → will
 - word → words
+- works → works,
 - worlds → words
 - worlds → works
 - writs → rites
