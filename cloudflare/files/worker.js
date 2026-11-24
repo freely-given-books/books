@@ -1,67 +1,71 @@
 // The book downloads (PDFs, EPUBs, print-ready zips) from the R2 bucket, for
 // commonwealpress.org: its httpd redirects /files/<book>/<file>.pdf|.epub|.zip here.
 //
-//   /<release file>            a file by its release name (the-book-v3.pdf): served as it
-//                              is, cached for a year (a name never changes its bytes)
-//   /files/<book>/<file>       a site link (the-book.pdf, no version): sent on to the
-//                              current version's file, by the map the site publishes
-//                              (SITE_MAP, /files-map.json: site path -> release name)
+//   /files/<book>/<file>       the site's link (the-book.pdf, no version, the same from
+//                              one version to the next): the current version's file,
+//                              found by the map the site publishes (SITE_MAP,
+//                              /files-map.json: site path -> release name), served
+//                              under that name, cached for an hour
+//   /<release file>            a file by its release name (the-book-v3.pdf): cached for
+//                              a year (a name never changes its bytes)
 //
 // Deployed by .github/workflows/files-worker.yml; filled by r2-files.yml.
 
 const YEAR = "public, max-age=31536000, immutable";
+const HOUR = "public, max-age=3600";
 
 export default {
   async fetch(request, env, ctx) {
     if (request.method !== "GET" && request.method !== "HEAD") {
       return new Response("Method not allowed", { status: 405, headers: { allow: "GET, HEAD" } });
     }
-    const url = new URL(request.url);
-    const path = decodeURIComponent(url.pathname);
+    const path = decodeURIComponent(new URL(request.url).pathname);
 
     if (path.startsWith("/files/")) {
       const map = await siteMap(env, ctx);
-      const name = map && map[path];
-      if (!name) return notFound();
-      return new Response(null, {
-        status: 302,
-        // short: the map moves on with each site release
-        headers: { location: new URL(`/${encodeURIComponent(name)}`, url).href, "cache-control": "public, max-age=300" },
-      });
+      const key = map && map[path];
+      if (!key) return notFound();
+      // the map moves on with each release: an hour, and the ETag says when it has
+      return serve(request, env, key, HOUR, path.slice(path.lastIndexOf("/") + 1));
     }
 
     const key = path.slice(1);
     if (!key || key.includes("/")) return notFound();
-    if (request.method === "HEAD") {
-      const head = await env.BOOKS.head(key);
-      return head ? new Response(null, { headers: headers(head) }) : notFound();
-    }
-    const obj = await env.BOOKS.get(key, { range: request.headers, onlyIf: request.headers });
-    if (!obj) return notFound();
-    const h = headers(obj);
-    if (!("body" in obj)) return new Response(null, { status: 304, headers: h }); // If-None-Match held
-    if (obj.range && request.headers.has("range")) {
-      const { offset = 0, length = obj.size - offset } = "suffix" in obj.range
-        ? { offset: obj.size - obj.range.suffix, length: obj.range.suffix } : obj.range;
-      h.set("content-range", `bytes ${offset}-${offset + length - 1}/${obj.size}`);
-      h.set("content-length", String(length));
-      return new Response(obj.body, { status: 206, headers: h });
-    }
-    return new Response(obj.body, { headers: h });
+    return serve(request, env, key, YEAR, key);
   },
 };
 
-function headers(obj) {
+async function serve(request, env, key, cache, filename) {
+  if (request.method === "HEAD") {
+    const head = await env.BOOKS.head(key);
+    return head ? new Response(null, { headers: headers(head, cache, filename) }) : notFound();
+  }
+  const obj = await env.BOOKS.get(key, { range: request.headers, onlyIf: request.headers });
+  if (!obj) return notFound();
+  const h = headers(obj, cache, filename);
+  if (!("body" in obj)) return new Response(null, { status: 304, headers: h }); // If-None-Match held
+  if (obj.range && request.headers.has("range")) {
+    const { offset = 0, length = obj.size - offset } = "suffix" in obj.range
+      ? { offset: obj.size - obj.range.suffix, length: obj.range.suffix } : obj.range;
+    h.set("content-range", `bytes ${offset}-${offset + length - 1}/${obj.size}`);
+    h.set("content-length", String(length));
+    return new Response(obj.body, { status: 206, headers: h });
+  }
+  return new Response(obj.body, { headers: h });
+}
+
+function headers(obj, cache, filename) {
   const h = new Headers();
   obj.writeHttpMetadata(h);
   h.set("etag", obj.httpEtag);
-  h.set("cache-control", YEAR);
+  h.set("cache-control", cache);
   h.set("accept-ranges", "bytes");
   h.set("content-length", String(obj.size));
   h.set("access-control-allow-origin", "*");
-  // an ebook or a zip is saved, not opened (a link's download attribute does not reach
-  // across sites); a PDF opens in the browser
-  if (/\.(epub|zip)$/.test(obj.key)) h.set("content-disposition", `attachment; filename="${obj.key}"`);
+  // saved under the name it was asked for; an ebook or a zip is saved, not opened (a
+  // link's download attribute does not reach across sites), a PDF opens in the browser
+  const how = /\.(epub|zip)$/.test(filename) ? "attachment" : "inline";
+  h.set("content-disposition", `${how}; filename="${filename}"`);
   return h;
 }
 
