@@ -15,7 +15,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
+    Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected.
 
     Volume 4 of six.
   ]),

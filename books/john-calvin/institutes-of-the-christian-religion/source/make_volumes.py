@@ -44,7 +44,7 @@ BACK = [
 EPIGRAPH = ("Our wisdom, in so far as it ought to be deemed true and solid wisdom, "
             "consists almost entirely of two parts: the knowledge of God and of ourselves.")
 EPIGRAPH_SOURCE = "Institutes, I. i. 1"
-SOURCE_NOTE = "Henry Beveridge's translation (Edinburgh, 1845), as first printed."
+SOURCE_NOTE = "Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected."
 
 # The Modern English edition (MODERN-ENGLISH-RULES.md): the same lines in its
 # own words (the epigraph and back passage from chapters/modern), its note on
