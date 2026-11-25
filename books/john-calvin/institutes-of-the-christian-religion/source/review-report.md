@@ -2,7 +2,7 @@
 
 | kind | count |
 | --- | --- |
-| spelling | 2802 |
+| spelling | 2803 |
 | punctuation | 2474 |
 | emendation | 1114 |
 | case | 208 |
@@ -4236,6 +4236,7 @@
 - filly → fully
 - fin → fin.
 - fins → sins
+- foretel → foretell
 - formaæ → formæ
 - formula → formulæ
 - foul → soul
