@@ -19,6 +19,21 @@ TYPOGRAPHY = True
 QUOTE_BLOCK = True       # the fgbooks template sets #quote as a block, no marks
 SMALLCAPS = "smallcaps"
 
+# A little space between each chapter's summary (Beveridge's "Sections.") and its
+# text (the editor, 2026-11-23)
+SUMMARY_SPACE = "0.8em"
+
+# The salutation to Francis in small capitals, as the 1845 print sets it, Francis's
+# line in full capitals (the editor, 2026-11-23); each named by its head, since the
+# index prints "TO" too
+SMALLCAPS_PHRASES = (
+    ("ccel-ii.viii-p0.2", "^[TO]$"),
+    ("ccel-ii.viii-p0.3", "^[HIS MOST CHRISTIAN MAJESTY,]$"),
+    ("ccel-ii.viii-p0.4", "^[THE MOST MIGHTY AND ILLUSTRIOUS MONARCH,]$"),
+    ("ccel-ii.viii-p0.6", "^[HIS SOVEREIGN;]$"),
+    ("ccel-ii.viii-p1.1", "^[JOHN CALVIN PRAYS PEACE AND SALVATION IN CHRIST.]$"),
+)
+
 T = "{http://www.tei-c.org/ns/1.0}"
 XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
 ROMAN = ["I", "II", "III", "IV"]
@@ -32,8 +47,11 @@ PREFACES = [("ccel-ii.viii", "prefatory-address", "Prefatory Address to King Fra
             ("ccel-ii.xi", "epistle-1559", "Epistle to the Reader (1559)")]
 BOOKS = ["ccel-iii", "ccel-iv", "ccel-v", "ccel-vi"]
 BOOK_TITLES = ["Book First: Of the Knowledge of God the Creator",
-               "Book Second: Of the Knowledge of God the Redeemer, in Christ",
-               "Book Third: The Mode of Obtaining the Grace of Christ",
+               # in full, as 1845 prints it (the cover and title page keep the short form)
+               "Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested "
+               "to the Fathers, under the Law, and Thereafter to Us under the Gospel",
+               "Book Third: The Mode of Obtaining the Grace of Christ, the Benefits It Confers, "
+               "and the Effects Resulting from It",
                "Book Fourth: Of the Holy Catholic Church"]
 # (book, first chapter, last chapter) per volume; chapter 0 is the Argument
 VOLUMES = [(1, 0, 18), (2, 0, 17), (3, 0, 10), (3, 11, 25), (4, 0, 13), (4, 14, 20)]
@@ -127,8 +145,15 @@ def LAYOUT(root):
         d = f"vol-{v}"
         if v == 1:
             for i, (cid, name, title) in enumerate(PREFACES, start=1):
-                files.append({"file": f"{d}/0{i}-{name}.typ", "title": title,
-                              "parts": layout.sections(ids[cid])})
+                f = {"file": f"{d}/0{i}-{name}.typ", "title": title,
+                     "parts": layout.sections(ids[cid])}
+                # the Address's salutation, printed as heads under its title ("To / His
+                # Most Christian Majesty, / ... / John Calvin prays peace and salvation in
+                # Christ."): one centred line each
+                heads = [c for c in ids[cid] if c.tag == T + "head"][1:]
+                if heads:
+                    f["subtitle"] = heads
+                files.append(f)
         chapters = [c for c in ids[BOOKS[b - 1]] if c.tag == T + "div"]
         for n in range(first, last + 1):
             div = chapters[n]
@@ -140,6 +165,9 @@ def LAYOUT(root):
                 head = _chapter_title(div)
                 f = {"file": f"{d}/book-{b}-chapter-{n:02d}.typ", "title": f"Chapter {n}",
                      "short": f"Chapter {n}: {_short(b, n, head)}", "subtitle": head,
+                     # the printed title in capitals, set in small capitals (the editor,
+                     # 2026-11-23)
+                     "subtitle_rend": "smallcaps",
                      "parts": [p for p in layout.sections(div) if p is not head]}
             if n == first:
                 f["part"] = BOOK_TITLES[b - 1] + ("" if first == 0 else " (continued)")
@@ -159,6 +187,13 @@ def SKIP_BLOCKS(root):
 
 # ./fgb epub / pdf / page / build (paths from the book folder); one ebook
 # per volume, as printed. The book files are written by make_volumes.py.
+#
+# The volumes with a Modern English edition (MODERN-ENGLISH-RULES.md; terms in
+# source/modern-glossary.md), its text from chapters/modern/vol-N, paragraph for
+# paragraph with chapters/typ/vol-N; one volume at a time. make_volumes.py writes
+# each one's institutes-vol-N-modern.typ, cover-vol-N-modern.typ and
+# ebook-front-vol-N-modern.html.
+MODERN_VOLUMES = [1]
 EPUB = {"title": "Institutes of the Christian Religion", "author": "John Calvin",
         "file": "institutes.epub", "cover": "cover-vol-1.typ",
         "front": "ebook-front-vol-1.html",
@@ -168,7 +203,15 @@ EPUB = {"title": "Institutes of the Christian Religion", "author": "John Calvin"
             {"files": [f"vol-{n}/"],
              "title": f"Institutes of the Christian Religion, Volume {r}",
              "file": f"institutes-vol-{n}.epub", "cover": f"cover-vol-{n}.typ",
-             "front": f"ebook-front-vol-{n}.html"}
+             "front": f"ebook-front-vol-{n}.html",
+             # the volume's Modern English edition, where it has one (MODERN_VOLUMES)
+             **({"modern": {"chapters": "chapters/modern",
+                            "title": f"Institutes of the Christian Religion, Volume {r}",
+                            "file": f"institutes-vol-{n}-modern.epub",
+                            "cover": f"cover-vol-{n}-modern.typ",
+                            "front": f"ebook-front-vol-{n}-modern.html"}}
+                if n in MODERN_VOLUMES else {})}
             for n, r in enumerate(["I", "II", "III", "IV", "V", "VI"], start=1)]}
-PRINT = [f"institutes-vol-{n}.typ" for n in range(1, 7)]
+PRINT = ([f"institutes-vol-{n}.typ" for n in range(1, 7)]
+         + [f"institutes-vol-{n}-modern.typ" for n in MODERN_VOLUMES])
 SIDE_BY_SIDE = {"split": [f"vol-{n}/" for n in range(1, 7)]}

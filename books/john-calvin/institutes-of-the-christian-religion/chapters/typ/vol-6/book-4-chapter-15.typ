@@ -1,6 +1,6 @@
 == Chapter 15
 
-#align(center)[OF BAPTISM.]
+#align(center)[#smallcaps(all: true)[OF BAPTISM.]]
 
 #block(inset: (x: 1em))[There are two parts of this chapter,—I. Dissertation on the two ends of Baptism, sec. 1-13. II. The second part may be reduced to four heads. Of the use of Baptism, sec. 14, 15. Of the worthiness or unworthiness of the minister, sec. 16-18. Of the corruptions by which this sacrament was polluted, sec. 19. To whom reference is had in the dispensation, sec. 20-22.]
 
@@ -49,6 +49,8 @@
 #block(inset: (x: 1em))[21\. Exploded also by Tertullian and Epiphanius.]
 
 #block(inset: (x: 1em))[22\. Objection founded on the case of Zipporah. Answer. Children dying before baptism not excluded from heaven, provided the want of it was not caused by negligence or contempt.]
+
+#v(0.8em)
 
 1\. #smallcaps[Baptism] is the initiatory sign by which we are admitted to the fellowship of the Church, that being ingrafted into Christ we may be accounted children of God. Moreover, the end for which God has given it (this I have shown to be common to all mysteries) is, first, that it may be conducive to our faith in him; and, secondly, that it may serve the purpose of a confession among men. The nature of both institutions we shall explain in order. Baptism contributes to our faith three things, which require to be treated separately. The first object, therefore, for which it is appointed by the Lord, is to be a sign and evidence of our purification, or (better to explain my meaning) it is a kind of sealed instrument by which he assures us that all our sins are so deleted, covered, and effaced, that they will never come into his sight, never be mentioned, never imputed. For it is his will that all who have believed, be baptized for the remission of sins. Hence those who have thought that baptism is nothing else than the badge and mark by which we profess our religion before men, in the same way as soldiers attest their profession by bearing the insignia of their commander, have not attended to what was the principal thing in baptism; and this is, that we are to receive it in connection with the promise, “He that believeth and is baptized shall be saved” (Mark 16:16).
 
