@@ -103,7 +103,11 @@
 #include "chapters/typ/vol-2/book-2-chapter-15.typ"
 
 #metadata[Chapter 16: How Christ Performed the Office of Redeemer] <short>
-#include "chapters/typ/vol-2/book-2-chapter-16.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: 0.005em)
+  #include "chapters/typ/vol-2/book-2-chapter-16.typ"
+]
 
 #metadata[Chapter 17: Christ Rightly Said to Have Merited Grace for Us] <short>
 #include "chapters/typ/vol-2/book-2-chapter-17.typ"

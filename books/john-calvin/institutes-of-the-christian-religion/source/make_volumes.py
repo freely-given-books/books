@@ -85,9 +85,10 @@ PAGEFIT = {
     (1, True): {"book-1-chapter-05.typ": "-0.005em", "book-1-chapter-09.typ": "-0.01em",
                 "book-1-chapter-11.typ": "0.005em", "book-1-chapter-12.typ": "-0.005em"},
     (2, False): {"book-2-argument.typ": "-0.01em", "book-2-chapter-04.typ": "-0.01em", "book-2-chapter-05.typ": "-0.01em",
-                 "book-2-chapter-06.typ": "-0.01em", "book-2-chapter-10.typ": "-0.01em"},
-    (4, False): {"book-3-chapter-11.typ": "-0.01em"},
+                 "book-2-chapter-06.typ": "-0.01em", "book-2-chapter-10.typ": "-0.01em", "book-2-chapter-16.typ": "0.005em"},
+    (4, False): {"book-3-chapter-11.typ": "-0.01em", "book-3-chapter-20.typ": "-0.005em"},
     (5, False): {"book-4-chapter-12.typ": "-0.01em"},
+    (6, False): {"book-4-chapter-20.typ": "-0.005em"},
 }
 
 

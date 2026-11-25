@@ -66,7 +66,11 @@
 #include "chapters/typ/vol-4/book-3-chapter-19.typ"
 
 #metadata[Chapter 20: Of Prayer] <short>
-#include "chapters/typ/vol-4/book-3-chapter-20.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-4/book-3-chapter-20.typ"
+]
 
 #metadata[Chapter 21: Of the Eternal Election] <short>
 #include "chapters/typ/vol-4/book-3-chapter-21.typ"

@@ -53,4 +53,8 @@
 #include "chapters/typ/vol-6/book-4-chapter-19.typ"
 
 #metadata[Chapter 20: Of Civil Government] <short>
-#include "chapters/typ/vol-6/book-4-chapter-20.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-6/book-4-chapter-20.typ"
+]
