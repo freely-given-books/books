@@ -1,0 +1,36 @@
+# Release record of Institutes of the Christian Religion: what this
+# edition is made from. ./fgb release checks it; the editor signs a version
+# off with a signed tag, john-calvin/institutes-of-the-christian-religion/vN (./fgb release sign).
+
+# One or two sentences for the release catalog: the edition, its source.
+summary = "Calvin's Institutes of the Christian Religion in Henry Beveridge's translation (Calvin Translation Society, Edinburgh, 1845), in six volumes: the CCEL text checked word for word against the 1845 printing and restored to it where CCEL departs."
+
+[[source]]
+file = "source/institutes.thml.xml"
+description = "CCEL ThML: John Calvin, Institutes of the Christian Religion, trans. Henry Beveridge (Edinburgh: Calvin Translation Society, 1845): the text"
+url = "https://www.ccel.org/ccel/c/calvin/institutes.xml"
+sha256 = "d7995178c1fe1723d1124126010e430f12d0444239ad7f9a7c8c818aa9766717"
+
+# Copies the edition was checked against, kept or not (one per witness):
+[[witness]]
+description = "The 1845 printing, vol. 1 (archive.org scan, University of Toronto copy), read with Kraken and Tesseract and collated with the CCEL text: every difference checked on the page image"
+url = "https://archive.org/details/instituteschrist01calvuoft"
+
+[[witness]]
+description = "The 1845 printing, vol. 2 (archive.org scan, University of Toronto copy), collated as vol. 1"
+url = "https://archive.org/details/institutesofreli02calvuoft"
+
+[[witness]]
+description = "The 1845 printing, vol. 3 (archive.org scan, University of Toronto copy), collated as vol. 1"
+url = "https://archive.org/details/institutesofthec03calvuoft"
+
+# The Modern English edition: a paperback and ebook of its own, signed off
+# on its own (john-calvin/institutes-of-the-christian-religion/modern/vN: ./fgb release sign BOOK --modern), with
+# its own Lulu revisions. A change to this table holds back only it.
+[modern]
+# The catalog uses the book's summary above; give the Modern its own only if needed:
+# summary = ""
+# The Classic version whose text it follows.
+based_on = ""
+# Stray footnotes in its print PDF the editor accepts, each by its message:
+# accepted_print = []

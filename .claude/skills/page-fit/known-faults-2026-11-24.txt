@@ -1,0 +1,46 @@
+### 1689-baptist-confession
+books/1689-baptist-confession/1689-baptist-confession/1689-baptist-confession.typ: WARNING footnote 20 is set on page 159, its marker on page 160  ->  chapters/typ/baptist-catechism/questions.typ
+books/1689-baptist-confession/1689-baptist-confession/1689-baptist-confession.typ: a chapter ends on page 25 with 3 line(s)  ->  (chapter not found: check by hand)
+books/1689-baptist-confession/1689-baptist-confession/1689-baptist-confession.typ: a chapter ends on page 36 with 2 line(s)  ->  (chapter not found: check by hand)
+books/1689-baptist-confession/1689-baptist-confession/1689-baptist-confession.typ: a chapter ends on page 90 with 3 line(s)  ->  chapters/typ/baptist-catechism/questions.typ
+### the-anatomy-of-simon-magus
+books/anonymous/the-anatomy-of-simon-magus/the-anatomy-of-simon-magus.typ: a chapter ends on page 106 with 4 line(s)  ->  chapters/typ/chapter-07.typ
+### all-of-grace
+### grace-abounding
+### the-pilgrims-progress
+books/john-bunyan/the-pilgrims-progress/the-pilgrims-progress.typ: a chapter ends on page 80 with 2 line(s)  ->  chapters/typ/part-1/stage-04.typ
+books/john-bunyan/the-pilgrims-progress/the-pilgrims-progress.typ: a chapter ends on page 191 with 4 line(s)  ->  chapters/typ/part-2/title.typ
+books/john-bunyan/the-pilgrims-progress/the-pilgrims-progress-modern.typ: a chapter ends on page 189 with 4 line(s)  ->  chapters/modern/part-2/title.typ
+### institutes-of-the-christian-religion
+### indwelling-sin
+### of-temptation
+### owen-on-sin
+### the-death-of-death
+books/john-owen/the-death-of-death/the-death-of-death.typ: WARNING a footnote is broken over to page 454: “Universalists. Scriptural Redemption.”  ->  chapters/typ/book-4/chapter-07.typ
+books/john-owen/the-death-of-death/the-death-of-death.typ: WARNING a footnote is broken over to page 455: “yet no one saved. purchased, upon covenant and com”  ->  chapters/typ/book-4/chapter-07.typ
+books/john-owen/the-death-of-death/the-death-of-death.typ: a chapter ends on page 69 with 2 line(s)  ->  chapters/typ/book-1/chapter-05.typ
+books/john-owen/the-death-of-death/the-death-of-death.typ: a chapter ends on page 157 with 3 line(s)  ->  chapters/typ/book-2/chapter-04.typ
+books/john-owen/the-death-of-death/the-death-of-death.typ: a chapter ends on page 321 with 3 line(s)  ->  chapters/typ/book-4/chapter-02.typ
+books/john-owen/the-death-of-death/the-death-of-death.typ: a chapter ends on page 369 with 4 line(s)  ->  chapters/typ/book-4/chapter-04.typ
+### the-mortification-of-sin
+### god-glorified-in-mans-dependence
+### religious-affections
+books/jonathan-edwards/religious-affections/religious-affections.typ: WARNING a footnote is broken over to page 365: “of a heaven voyage to fetch this treasure, to pass”  ->  chapters/typ/part-3/sign-12.typ
+books/jonathan-edwards/religious-affections/religious-affections.typ: WARNING a footnote is broken over to page 389: “received the anointing to know him that is true, a”  ->  chapters/typ/part-3/sign-12.typ
+books/jonathan-edwards/religious-affections/religious-affections-modern.typ: a chapter ends on page 44 with 2 line(s)  ->  chapters/modern/part-1/03-religion-in-the-affections.typ
+books/jonathan-edwards/religious-affections/religious-affections-modern.typ: a chapter ends on page 105 with 2 line(s)  ->  chapters/modern/part-2/sign-10.typ
+### sinners-in-the-hands-of-an-angry-god
+books/jonathan-edwards/sinners-in-the-hands-of-an-angry-god/sinners-in-the-hands-of-an-angry-god.typ: a heading is left at the foot of page 3: “Deuteronomy 32:35”  ->  chapters/typ/sermon.typ
+books/jonathan-edwards/sinners-in-the-hands-of-an-angry-god/sinners-in-the-hands-of-an-angry-god-modern.typ: a heading is left at the foot of page 3: “Deuteronomy 32:35”  ->  chapters/modern/sermon.typ
+### the-glorious-feast-of-the-gospel
+### the-crook-in-the-lot
+books/thomas-boston/the-crook-in-the-lot/the-crook-in-the-lot.typ: a chapter ends on page 64 with 3 line(s)  ->  chapters/typ/part-1.typ
+books/thomas-boston/the-crook-in-the-lot/the-crook-in-the-lot-modern.typ: a chapter ends on page 64 with 2 line(s)  ->  chapters/modern/part-1.typ
+### precious-remedies-against-satans-devices
+books/thomas-brooks/precious-remedies-against-satans-devices/precious-remedies-against-satans-devices.typ: WARNING footnote 11 is set on page 11, its marker on page 12  ->  chapters/typ/introduction.typ
+books/thomas-brooks/precious-remedies-against-satans-devices/precious-remedies-against-satans-devices-modern.typ: WARNING footnote 11 is set on page 11, its marker on page 12  ->  chapters/modern/introduction.typ
+### the-secret-key-of-heaven
+### the-surest-way-of-thriving
+### a-divine-cordial
+### domestical-duties
+### christian-economy

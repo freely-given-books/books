@@ -316,6 +316,11 @@ Before calling a book shelf ready, all of these hold:
   by 2026-10-19).
 - The compiled PDF's text has no quotes curled the wrong way (`,‘ word`,
   `‘ `, `’’`) and no stray markup (`#emph`, `\[`).
+- **Page fit** (the `page-fit` skill): no chapter ends on one to four lines,
+  no heading at a page's foot, no footnote broken over a page. A review that
+  moves text moves pages, so run it last:
+  `python3 -I .claude/skills/page-fit/scripts/pagefit.py BOOK --fix`, then
+  rebuild everything (covers follow the page count).
 
 Report to the user in plain words: what you fixed, by kind, with a few
 examples each; the questions, with your recommendation; anything left as is

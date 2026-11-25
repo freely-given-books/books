@@ -170,3 +170,13 @@ span.omark { color: #595959; }
 p.point0 { margin-top: 0.5em; }
 p.point1 { margin-top: 0.3em; }
 p.point2, p.point3, p.point4 { margin-top: 0.2em; }
+
+/* a printed title in capitals set in small capitals (#smallcaps(all: true)) */
+span.smallcaps.all {
+  font-variant: all-small-caps;
+}
+
+/* the space after a printed summary in the text (an argument), as print's #v */
+div.space {
+  height: 0.8em;
+}
