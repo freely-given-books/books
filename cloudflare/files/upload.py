@@ -1,9 +1,10 @@
-"""A books release's downloads into the R2 bucket the files Worker serves.
+"""A books release's downloads and covers into the R2 bucket the files Worker serves.
 
     python upload.py RELEASE_DIR [--prune] [--dry-run]
 
-RELEASE_DIR holds the release's catalog.json and its .pdf and .epub files
-(gh release download TAG -p catalog.json -p '*.pdf' -p '*.epub'). Each
+RELEASE_DIR holds the release's catalog.json and its .pdf, .epub, .png and .webp
+files (gh release download TAG -p catalog.json -p '*.pdf' -p '*.epub' -p '*.png'
+-p '*.webp'; the covers are the site's images, linked here by their names). Each
 download goes up under its release name (the-book-v3.pdf), once: a name
 never changes its bytes, so one already in the bucket is left alone. Each
 print book also gets its print-ready zip (interior and cover, as a printer
@@ -26,7 +27,10 @@ import sys
 import zipfile
 from pathlib import Path
 
-TYPES = {".pdf": "application/pdf", ".epub": "application/epub+zip", ".zip": "application/zip"}
+TYPES = {".pdf": "application/pdf", ".epub": "application/epub+zip", ".zip": "application/zip",
+         ".png": "image/png", ".webp": "image/webp"}
+# the covers go up too (front PNGs, the wrap's WebPs): the site links them here
+FILES = (".pdf", ".epub", ".png", ".webp")
 CACHE = "public, max-age=31536000, immutable"
 COVER = re.compile(r"^(.+?-v\d+(?:\.\d+)?)-cover(.*)\.pdf$")
 VERSION = r"v(\d+)(?:\.(\d+))?"
@@ -37,7 +41,7 @@ def downloads(cat):
     included; an edition key is (folder, modern?)."""
     out = {}
     for e in cat["books"]:
-        names = [f["name"] for f in e["files"] if Path(f["name"]).suffix in (".pdf", ".epub")]
+        names = [f["name"] for f in e["files"] if Path(f["name"]).suffix in FILES]
         for n in list(names):
             m = COVER.match(n)
             if m and f"{m.group(1)}{m.group(2)}.pdf" in names:
