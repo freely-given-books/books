@@ -30,7 +30,11 @@
 
 #include "chapters/typ/part-1/stage-03.typ"
 
-#include "chapters/typ/part-1/stage-04.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/part-1/stage-04.typ"
+]
 
 #include "chapters/typ/part-1/stage-05.typ"
 

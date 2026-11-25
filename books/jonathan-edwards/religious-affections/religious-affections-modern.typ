@@ -59,7 +59,11 @@
 #include "chapters/modern/part-1/02-what-the-affections-are.typ"
 
 #metadata((part: [Part I])) <kicker>
-#include "chapters/modern/part-1/03-religion-in-the-affections.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/part-1/03-religion-in-the-affections.typ"
+]
 
 #metadata((part: [Part I])) <kicker>
 #include "chapters/modern/part-1/04-inferences.typ"
@@ -108,7 +112,7 @@
 // its last lines would stand alone on the next page: its letter spacing a little tighter
 // brings them back (print_check's page warning)
 #[
-  #set text(tracking: -0.02em)
+  #set text(tracking: 0.01em)
   #include "chapters/modern/part-2/sign-10.typ"
 ]
 
