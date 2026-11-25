@@ -80,9 +80,9 @@ def volumes():
 # set off its marker's page): letter spacing a little tighter or looser on a
 # file, per print book, (volume, modern) -> {file: tracking}, found by trying
 PAGEFIT = {
-    (1, False): {"01-prefatory-address.typ": "-0.01em", "book-1-chapter-12.typ": "-0.005em",
-                 "book-1-chapter-17.typ": "0.005em"},
-    (1, True): {"book-1-chapter-05.typ": "-0.005em", "book-1-chapter-09.typ": "-0.01em",
+    (1, False): {"01-prefatory-address.typ": "-0.01em", "book-1-chapter-02.typ": "-0.01em", "book-1-chapter-08.typ": "-0.01em",
+                 "book-1-chapter-12.typ": "0.005em", "book-1-chapter-17.typ": "0.005em"},
+    (1, True): {"book-1-chapter-05.typ": "-0.005em", "book-1-chapter-08.typ": "-0.01em", "book-1-chapter-09.typ": "-0.01em",
                 "book-1-chapter-11.typ": "0.005em", "book-1-chapter-12.typ": "-0.005em"},
     (2, False): {"book-2-argument.typ": "-0.01em", "book-2-chapter-04.typ": "-0.01em", "book-2-chapter-05.typ": "-0.01em",
                  "book-2-chapter-06.typ": "-0.01em", "book-2-chapter-10.typ": "-0.01em", "book-2-chapter-16.typ": "0.005em"},
@@ -107,6 +107,10 @@ def print_book(n, files, modern=False):
              "// 6x9 at 10.5pt, the trim for a large set (the editor, 2026-11-23): at 700,000",
              "// words the Institutes is six volumes of 220-350 pages.", "",
              "#show outline: set text(9.5pt)", "",
+             "// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)",
+             "#show smallcaps.where(all: true): it => [#it #v(0.7em)]",
+             "// and before his \"Sections.\" list, after the chapter's summary",
+             "#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }", "",
              "#show: book.with(",
              "  title: [Institutes of the Christian Religion],",
              f"  subtitle: [Volume {ROMAN[n - 1]} — {SUBTITLES[n - 1]}{edition}],",
