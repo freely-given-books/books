@@ -7,6 +7,11 @@
 
 #show outline: set text(9.5pt)
 
+// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)
+#show smallcaps.where(all: true): it => [#it #v(0.7em)]
+// and before his "Sections." list, after the chapter's summary
+#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }
+
 #show: book.with(
   title: [Institutes of the Christian Religion],
   subtitle: [Volume II — Book Second: Of the Knowledge of God the Redeemer, in Christ],
@@ -15,7 +20,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
+    Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected.
 
     Volume 2 of six.
   ]),
@@ -35,7 +40,11 @@
 = Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested to the Fathers, under the Law, and Thereafter to Us under the Gospel
 
 #metadata[Argument] <short>
-#include "chapters/typ/vol-2/book-2-argument.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-argument.typ"
+]
 
 #metadata[Chapter 1: The Fall and Revolt of Adam] <short>
 #include "chapters/typ/vol-2/book-2-chapter-01.typ"
@@ -47,13 +56,25 @@
 #include "chapters/typ/vol-2/book-2-chapter-03.typ"
 
 #metadata[Chapter 4: How God Works in the Hearts of Men] <short>
-#include "chapters/typ/vol-2/book-2-chapter-04.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-04.typ"
+]
 
 #metadata[Chapter 5: The Arguments for Free Will Refuted] <short>
-#include "chapters/typ/vol-2/book-2-chapter-05.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-05.typ"
+]
 
 #metadata[Chapter 6: Redemption for Man Lost to Be Sought in Christ] <short>
-#include "chapters/typ/vol-2/book-2-chapter-06.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-06.typ"
+]
 
 #metadata[Chapter 7: The Law Given to Keep Alive the Hope of Salvation] <short>
 #include "chapters/typ/vol-2/book-2-chapter-07.typ"
@@ -65,7 +86,11 @@
 #include "chapters/typ/vol-2/book-2-chapter-09.typ"
 
 #metadata[Chapter 10: The Resemblance Between the Old Testament and the New] <short>
-#include "chapters/typ/vol-2/book-2-chapter-10.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-10.typ"
+]
 
 #metadata[Chapter 11: The Difference Between the Two Testaments] <short>
 #include "chapters/typ/vol-2/book-2-chapter-11.typ"
@@ -83,7 +108,11 @@
 #include "chapters/typ/vol-2/book-2-chapter-15.typ"
 
 #metadata[Chapter 16: How Christ Performed the Office of Redeemer] <short>
-#include "chapters/typ/vol-2/book-2-chapter-16.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: 0.005em)
+  #include "chapters/typ/vol-2/book-2-chapter-16.typ"
+]
 
 #metadata[Chapter 17: Christ Rightly Said to Have Merited Grace for Us] <short>
 #include "chapters/typ/vol-2/book-2-chapter-17.typ"

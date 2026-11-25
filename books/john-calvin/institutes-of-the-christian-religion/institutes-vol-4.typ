@@ -7,6 +7,11 @@
 
 #show outline: set text(9.5pt)
 
+// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)
+#show smallcaps.where(all: true): it => [#it #v(0.7em)]
+// and before his "Sections." list, after the chapter's summary
+#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }
+
 #show: book.with(
   title: [Institutes of the Christian Religion],
   subtitle: [Volume IV — Book Third, Chapters 11–25: Justification, Liberty, Prayer, Election],
@@ -15,7 +20,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
+    Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected.
 
     Volume 4 of six.
   ]),
@@ -35,7 +40,11 @@
 = Book Third: The Mode of Obtaining the Grace of Christ, the Benefits It Confers, and the Effects Resulting from It (continued)
 
 #metadata[Chapter 11: Of Justification by Faith] <short>
-#include "chapters/typ/vol-4/book-3-chapter-11.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-4/book-3-chapter-11.typ"
+]
 
 #metadata[Chapter 12: Contemplating the Judgment-Seat of God] <short>
 #include "chapters/typ/vol-4/book-3-chapter-12.typ"
@@ -62,7 +71,11 @@
 #include "chapters/typ/vol-4/book-3-chapter-19.typ"
 
 #metadata[Chapter 20: Of Prayer] <short>
-#include "chapters/typ/vol-4/book-3-chapter-20.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-4/book-3-chapter-20.typ"
+]
 
 #metadata[Chapter 21: Of the Eternal Election] <short>
 #include "chapters/typ/vol-4/book-3-chapter-21.typ"

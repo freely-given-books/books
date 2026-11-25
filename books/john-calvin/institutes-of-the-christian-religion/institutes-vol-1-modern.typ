@@ -10,6 +10,11 @@
 
 #show outline: set text(9.5pt)
 
+// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)
+#show smallcaps.where(all: true): it => [#it #v(0.7em)]
+// and before his "Sections." list, after the chapter's summary
+#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }
+
 #show: book.with(
   title: [Institutes of the Christian Religion],
   subtitle: [Volume I — Book First: Of the Knowledge of God the Creator \ #v(0.6em) #text(size: 0.85em, tracking: 0.12em)[MODERN ENGLISH]],
@@ -80,7 +85,11 @@
 #include "chapters/modern/vol-1/book-1-chapter-07.typ"
 
 #metadata[Chapter 8: The Credibility of Scripture Sufficiently Proved] <short>
-#include "chapters/modern/vol-1/book-1-chapter-08.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/vol-1/book-1-chapter-08.typ"
+]
 
 #metadata[Chapter 9: Fanatics Who Substitute Revelations for Scripture] <short>
 // page fit (print_check's page warning): letter spacing adjusted

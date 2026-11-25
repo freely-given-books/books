@@ -7,6 +7,11 @@
 
 #show outline: set text(9.5pt)
 
+// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)
+#show smallcaps.where(all: true): it => [#it #v(0.7em)]
+// and before his "Sections." list, after the chapter's summary
+#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }
+
 #show: book.with(
   title: [Institutes of the Christian Religion],
   subtitle: [Volume VI — Book Fourth, Chapters 14–20: The Sacraments and Civil Government],
@@ -15,7 +20,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
+    Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected.
 
     Volume 6 of six.
   ]),
@@ -53,4 +58,8 @@
 #include "chapters/typ/vol-6/book-4-chapter-19.typ"
 
 #metadata[Chapter 20: Of Civil Government] <short>
-#include "chapters/typ/vol-6/book-4-chapter-20.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.005em)
+  #include "chapters/typ/vol-6/book-4-chapter-20.typ"
+]

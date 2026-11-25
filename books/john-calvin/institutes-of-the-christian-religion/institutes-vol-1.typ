@@ -7,6 +7,11 @@
 
 #show outline: set text(9.5pt)
 
+// a little space under each chapter's title before Beveridge's summary (the editor, 2026-11-24)
+#show smallcaps.where(all: true): it => [#it #v(0.7em)]
+// and before his "Sections." list, after the chapter's summary
+#show emph: it => if it.body == [Sections.] [#v(0.5em) #it] else { it }
+
 #show: book.with(
   title: [Institutes of the Christian Religion],
   subtitle: [Volume I — Book First: Of the Knowledge of God the Creator],
@@ -15,7 +20,7 @@
   page-margin: (bottom: 0.6in, top: 0.9in, outside: 0.75in, inside: 1.0in),
   // the Common Weal Press publisher's page, from the template
   publishing-info: publisher-page(note: [
-    Henry Beveridge's translation (Edinburgh, 1845), as first printed.
+    Henry Beveridge's translation (Edinburgh, 1845), checked against the 1845 printing, with American spelling and printers' slips corrected.
 
     Volume 1 of six.
   ]),
@@ -57,7 +62,11 @@
 #include "chapters/typ/vol-1/book-1-chapter-01.typ"
 
 #metadata[Chapter 2: What It Is to Know God] <short>
-#include "chapters/typ/vol-1/book-1-chapter-02.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-1/book-1-chapter-02.typ"
+]
 
 #metadata[Chapter 3: The Knowledge of God Naturally Implanted in the Human Mind] <short>
 #include "chapters/typ/vol-1/book-1-chapter-03.typ"
@@ -75,7 +84,11 @@
 #include "chapters/typ/vol-1/book-1-chapter-07.typ"
 
 #metadata[Chapter 8: The Credibility of Scripture Sufficiently Proved] <short>
-#include "chapters/typ/vol-1/book-1-chapter-08.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-1/book-1-chapter-08.typ"
+]
 
 #metadata[Chapter 9: Fanatics Who Substitute Revelations for Scripture] <short>
 #include "chapters/typ/vol-1/book-1-chapter-09.typ"
@@ -89,7 +102,7 @@
 #metadata[Chapter 12: God Distinguished from Idols] <short>
 // page fit (print_check's page warning): letter spacing adjusted
 #[
-  #set text(tracking: -0.005em)
+  #set text(tracking: 0.005em)
   #include "chapters/typ/vol-1/book-1-chapter-12.typ"
 ]
 
