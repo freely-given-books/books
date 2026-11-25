@@ -28,5 +28,5 @@ And what a variety of expressions our Savior uses in Luke 6:38 to assure us of a
 
 So you#super[+] see that there are so many promises, in both the Old and the New Testament, of #emph[temporal] as well as of spiritual and eternal blessings to the merciful, that no question can be made of the truth of the doctrine. And to use the expression of the #emph[doctor] mentioned before: “By all these testimonies from the word of God, in both the New and the Old Testament, I take this doctrine to be as clear as any in the Scripture: that the promise of temporal plenty to the generous is so distinct and infallible that it can be no less than
 
-- 1\. a very gross ignorance of plain Scripture not to observe it, and
-- 2\. an act of downright unbelief not to believe it.”
++ a very gross ignorance of plain Scripture not to observe it, and
++ an act of downright unbelief not to believe it.”

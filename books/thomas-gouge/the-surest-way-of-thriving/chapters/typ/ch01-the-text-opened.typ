@@ -17,9 +17,9 @@ The words in brief contain, A #emph[Declaration of that great benefit, which the
 
 For, the clearing of the words, I shall briefly show you,
 
-- 1\. Who is here meant by a #emph[prophet.] And who by a #emph[righteous man.]
-- 2\. What is meant by #emph[receiving] them.
-- 3\. What is the #emph[reward] which followeth thereupon.
++ Who is here meant by a #emph[prophet.] And who by a #emph[righteous man.]
++ What is meant by #emph[receiving] them.
++ What is the #emph[reward] which followeth thereupon.
 
 I. For the first, who is here meant by a #emph[prophet;] and who by a #emph[righteous] man.
 
@@ -81,8 +81,8 @@ These words are added by our Savior to the former to anticipate some objections,
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[They are called #emph[Little ones] in two respects.]]
 
-- 1\. In regard of the world's esteem of them.
-- 2\. In regard of their own account of themselves.
++ In regard of the world's esteem of them.
++ In regard of their own account of themselves.
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[First, #emph[they are little in the world's eye.] The world which judgeth not according to inward worth, have them in low esteem. It fares with the servants, as it fared with their master, they are despised, and rejected, and trodden under foot of men. Of old they were accounted #emph[Desolate,] and #emph[forsaken,] Isa 62:4. In the #emph[Apostles] time, the #emph[filth of the world,] the #emph[off-scouring of all things,] 1 Cor 4:13. Experience of all ages verifieth as much. And among other ages ours giveth not the least evidence.]]
 

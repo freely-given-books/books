@@ -1,0 +1,12 @@
+# The book downloads Worker (worker.js): deployed by .github/workflows/files-worker.yml.
+name = "commonweal-files"
+main = "worker.js"
+compatibility_date = "2025-06-01"
+workers_dev = true
+
+[[r2_buckets]]
+binding = "BOOKS"
+bucket_name = "commonwealpress-books"
+
+[vars]
+SITE_MAP = "https://commonwealpress.org/files-map.json"

@@ -4,12 +4,13 @@
 | --- | --- |
 | spelling | 380 |
 | punctuation | 218 |
-| emendation | 163 |
+| emendation | 164 |
 | spacing | 146 |
 | level | 100 |
 | italic | 87 |
 | case | 13 |
 | grammar | 13 |
+| list | 6 |
 | note | 1 |
 | skipped | 1 |
 
@@ -74,7 +75,8 @@
 - [ch05-testimonies.typ] my self → myself
 - [ch05-testimonies.typ] willbe → will be
 - [ch06-examples.typ] King → Kgs
-- [ch06-examples.typ] King . 16 → Kgs 4:35
+- [ch06-examples.typ] King → Kgs 4:35
+- [ch06-examples.typ] 16 . → 
 - [ch06-examples.typ] King . → Kgs
 - [ch06-examples.typ] King . 4 . 28 → Kgs 8:6
 - [ch06-examples.typ] Act . → Acts

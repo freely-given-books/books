@@ -81,7 +81,7 @@
             <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
             <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
          </listPrefixDef>
-      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <editorialDecl><p>This file is the EEBO-TCP transcription with editorial layers added inline; nothing of the transcription has been removed.</p><p>choice/orig holds the text as printed; choice/reg holds the modern reading. reg/@resp says who decided it (#auto = machine, #editor = reviewed by hand); reg/@type is spelling, case, punctuation, spacing, grammar (an archaic form modernized: thou, hath, -eth), reference (a scripture reference in the modern style: Heb. xii. 5 as Heb 12:5) or emendation (another word, or a word added or removed). Where the editor overrode the machine, the editor's reg comes first and the machine's proposal follows as a second reg[@resp='#auto'].</p><p>choice/abbr + choice/expan: macron abbreviations (e.g. frō = from) and superscript contractions (yᵉ = the).</p><p>supplied: letters or words lost to illegible print, with @cert and a comment giving the evidence; the TCP gap element is kept inside.</p><p>Spelling regularized: u/v, i/j, silent final e, doubled consonants, -ie to -y, -nesse to -ness, and a word list. Grammatical forms (hath, doth, thou, thee, thy, ye, shalt, wilt, art, hast, dost) are retained. Footnote text is left in original spelling.</p><p>list[@change='#review']: run-in enumerations (I. ... II. ...) set out as numbered lists; the printed numerals are kept in label.</p><p>head[@type='edition']: section title used by this edition; the printed heading is kept in the preceding head. @change='#review' points at the revisionDesc entry for these structural changes.</p><p>Line breaks are those of the TCP transcription (newlines in the text; g[@ref='char:EOLhyphen'] marks a word hyphenated at line end). pb/@n is the printed page, pb/@facs the page image.</p><p>reg[@type='spacing']: a space this edition adds (empty orig) or removes (empty reg) between words.</p><p>p[@rend='levelN']: a paragraph this edition sets in by its place in the author's numbered outline (level N).</p><p>list[@subtype='printed']: a list printed as one that this edition numbers; the printed numerals are kept in label.</p><p>seg[@rend='smallcaps'][@type='opening']: the first word of a division, printed in capitals after a drop cap, which this edition sets in small capitals.</p><p>seg[@type='transcription']: words the transcription misread or left out, set as printed (read on the page image); a comment inside gives the transcription's reading and the evidence, and @change points at the revisionDesc entry.</p></editorialDecl><classDecl><taxonomy xml:id="edition-layers"><category xml:id="print-only"><catDesc>in the printed text but not in this edition (italics set roman, a note dropped)</catDesc></category><category xml:id="edition-only"><catDesc>added by this edition (italics, a note)</catDesc></category></taxonomy></classDecl></encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
@@ -93,7 +93,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change xml:id="review" when="2026-11-17" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
+         <change xml:id="review" when="2026-11-22" who="#editor">Enriched edition built from the TCP file and the reviewed Typst chapters.</change>
          <change>
             <date>2003-08</date>
             <label>TCP</label>Assigned for keying and markup</change>
@@ -198,12 +198,12 @@ which they bring to themselves, who afford any relief, and <choice><orig>succour
 fill our <choice><orig>Treasures</orig><reg resp="#auto" type="spelling">treasures</reg></choice>, as by emptying them for God.</hi>
             </p>
             <p>For, the clearing of the words, I shall <choice><orig>breifly</orig><reg resp="#editor" type="spelling">briefly</reg></choice> <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> you,
-<list>
-                  <item>1. Who is here meant by a <hi><choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice>.</hi> And who by a <hi><choice><orig>Righteous</orig><reg resp="#auto" type="spelling">righteous</reg></choice>
+<list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> Who is here meant by a <hi><choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice>.</hi> And who by a <hi><choice><orig>Righteous</orig><reg resp="#auto" type="spelling">righteous</reg></choice>
 man.</hi>
                   </item>
-                  <item>2. What is meant by <hi>receiving</hi> them.</item>
-                  <item>3. What is the <hi><choice><orig>Reward</orig><reg resp="#auto" type="spelling">reward</reg></choice></hi> which followeth thereupon.</item>
+                  <item><label>2.</label> What is meant by <hi>receiving</hi> them.</item>
+                  <item><label>3.</label> What is the <hi><choice><orig>Reward</orig><reg resp="#auto" type="spelling">reward</reg></choice></hi> which followeth thereupon.</item>
                </list>
             </p>
             <p>I. For the first, who is here meant by a <hi><choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice>;</hi> and who by a
@@ -324,9 +324,9 @@ The greatest difficulty in the words is who are here meant by
 foregoing verse, he had <choice><orig>stiled</orig><reg resp="#auto" type="spelling">styled</reg></choice> <hi><choice><orig>Prophets</orig><reg resp="#auto" type="spelling">prophets</reg></choice></hi> and <hi>righteous ones.</hi>
             </p>
             <p rend="level1" change="#review">They are called <hi>Little ones</hi> in two respects.</p>
-            <list>
-               <item>1. In regard of the <choice><orig>worlds</orig><reg resp="#editor" type="spelling">world's</reg></choice> esteem of them.</item>
-               <item>2. In regard of their own account of themselves.</item>
+            <list type="numbered" subtype="printed" change="#review">
+               <item><label>1.</label> In regard of the <choice><orig>worlds</orig><reg resp="#editor" type="spelling">world's</reg></choice> esteem of them.</item>
+               <item><label>2.</label> In regard of their own account of themselves.</item>
             </list>
             <p rend="level1" change="#review">First, <hi><choice><orig>They</orig><reg resp="#auto" type="spelling">they</reg></choice> are little in the <choice><orig>worlds</orig><reg resp="#editor" type="spelling">world's</reg></choice> eye.</hi> The world which judgeth
 not according to inward worth, have them in low esteem. It fares
@@ -742,9 +742,9 @@ Testament, I conceive this <choice><orig>Doctrine</orig><reg resp="#auto" type="
 infallible, that <seg type="transcription" change="#tcp-corrections">it<!-- the transcription has 'is'; swap10 (collation, 2026-11-14): 1676 reads 'that it can be' --></seg> can be no less than.</hi>
                </q>
             </p>
-            <list>
-               <item>1. A very gross ignorance of plain Scripture not to observe it, and</item>
-               <item>2. An act of arrant infidelity, not to believe it.</item>
+            <list type="numbered" subtype="printed" change="#review">
+               <item><label>1.</label> A very gross ignorance of plain Scripture not to observe it, and</item>
+               <item><label>2.</label> An act of arrant infidelity, not to believe it.</item>
             </list>
             <p>Though these <choice><orig>proofes</orig><reg resp="#auto" type="spelling">proofs</reg></choice> of Scripture are sufficient to convince any
 Christian of the truth of the <choice><orig>Doctrine</orig><reg resp="#auto" type="spelling">doctrine</reg></choice>, yet for your farther <choice><orig>Satis<g ref="char:EOLhyphen"/>faction</orig><reg resp="#auto" type="spelling">satisfaction</reg></choice>,
@@ -972,11 +972,11 @@ many <choice><orig>Moneths</orig><reg resp="#auto" type="spelling">months</reg><
 with carnal food.</p>
             <p>How abundantly was the <hi>Shunamite</hi>'s kindness to the <choice><orig>Prophet</orig><reg resp="#auto" type="spelling">prophet</reg></choice> <hi>E<g ref="char:EOLhyphen"/>lisha,</hi>
 recompensed?
-<list>
-                  <item>1. By the gift of a Son after long barrenness.</item>
-                  <item>2. By restoring her Son to life again when he was dead. 2 <choice><orig>King. 16</orig><reg resp="#editor" type="emendation">Kgs 4:35</reg></choice>.</item>
-                  <item>3. By forewarning her of a famine approaching, 2 <choice><orig>King.</orig><reg resp="#editor" type="reference">Kgs</reg></choice> 8<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1, 4.</item>
-                  <item>4. By the restoring of her house and land, lost in her long absence;
+<list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> By the gift of a Son after long barrenness.</item>
+                  <item><label>2.</label> By restoring her Son to life again when he was dead. 2 <choice><orig>King</orig><reg resp="#editor" type="emendation">Kgs 4:35</reg></choice>. <choice><orig>16.</orig><reg resp="#editor" type="emendation"></reg></choice></item>
+                  <item><label>3.</label> By forewarning her of a famine approaching, 2 <choice><orig>King.</orig><reg resp="#editor" type="reference">Kgs</reg></choice> 8<choice><orig>.</orig><reg resp="#editor" type="reference">:</reg></choice><choice><orig> </orig><reg resp="#editor" type="reference"/></choice>1, 4.</item>
+                  <item><label>4.</label> By the restoring of her house and land, lost in her long absence;
 by reason of the famine, 2 <choice><orig>King. 4. 28</orig><reg resp="#editor" type="emendation">Kgs 8:6</reg></choice>.</item>
                </list>
             </p>
@@ -1762,9 +1762,9 @@ profit <choice><orig>your selves</orig><reg resp="#editor" type="emendation">you
 field, who cannot say they are his because they sit there, <hi>for they take
 unto themselves wings, and fly away.</hi> Now in dealing with things un<g ref="char:EOLhyphen"/>certain,
 it will be your <choice><orig>wisdome</orig><reg resp="#auto" type="spelling">wisdom</reg></choice>,
-<list>
-                  <item>1. To make them as sure as you can.</item>
-                  <item>2. To make the best use of them that you can.</item>
+<list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> To make them as sure as you can.</item>
+                  <item><label>2.</label> To make the best use of them that you can.</item>
                </list>
             </p>
             <p rend="level1" change="#review">1. What greater <choice><orig>wisdome</orig><reg resp="#auto" type="spelling">wisdom</reg></choice> than to make sure? And what better
@@ -2132,9 +2132,9 @@ where the <choice><orig>Widdows</orig><reg resp="#editor" type="spelling">widow'
 briefly <choice><orig>shew</orig><reg resp="#auto" type="spelling">show</reg></choice> you the means how to attain to this grace of <hi>Christian <choice><orig>Charity</orig><reg resp="#auto" type="spelling">charity</reg></choice>.</hi>
             </p>
             <p>Now the <hi>means</hi> I shall prescribe, shall be,
-<list>
-                  <item>1. Such as tend to the bringing your hearts to be willing to this <choice><orig>Duty</orig><reg resp="#auto" type="spelling">duty</reg></choice>.</item>
-                  <item>2. Such as shall tend to the helping of you for the better managing of it.</item>
+<list type="numbered" subtype="printed" change="#review">
+                  <item><label>1.</label> Such as tend to the bringing your hearts to be willing to this <choice><orig>Duty</orig><reg resp="#auto" type="spelling">duty</reg></choice>.</item>
+                  <item><label>2.</label> Such as shall tend to the helping of you for the better managing of it.</item>
                </list>
             </p>
             <p>First, for <hi>means to bring your hearts to be willing to set upon this duty, take <choice><orig>These</orig><reg resp="#auto" type="spelling">these</reg></choice>,</hi>

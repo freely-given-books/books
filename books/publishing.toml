@@ -117,3 +117,7 @@ ready = { date = "2026-11-18", commit = "c90fe50" }
 
 ["john-bunyan/grace-abounding/modern"]
 ready = { date = "2026-11-18", commit = "c90fe50" }
+
+["john-calvin/institutes-of-the-christian-religion"]
+# six volumes; digital only for now (the editor, 2026-11-24: website + ebooks first, Lulu later)
+note = "Six volumes. Calvin's Latin (1559) and French (1560) come as parallel pages beside the English (Latin & French link)."

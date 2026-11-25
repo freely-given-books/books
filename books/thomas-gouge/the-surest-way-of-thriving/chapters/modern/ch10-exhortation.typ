@@ -8,8 +8,8 @@ What remains now but that you#super[+] look about you#super[+] for where you#sup
 
 Riches are a sheer uncertainty, like a flock of birds in a man’s field: he cannot say they are his because they sit there; for wealth “makes wings for itself and flies.” Now in dealing with uncertain things, it will be your#super[+] wisdom,
 
-- 1\. To make them as sure as you#super[+] can.
-- 2\. To make the best use of them that you#super[+] can.
++ To make them as sure as you#super[+] can.
++ To make the best use of them that you#super[+] can.
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[1\. What greater wisdom is there than to make sure? And what better way can be imagined to make your#super[+] estate sure than by putting it into good hands? And what hands are safer than the hands of the Lord? Put your#super[+] riches into the hands of God’s poor, and by doing so you#super[+] put them into God’s hands.]]
 

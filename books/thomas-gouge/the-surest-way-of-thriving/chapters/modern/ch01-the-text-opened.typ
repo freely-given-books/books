@@ -17,9 +17,9 @@ In brief, the words contain a #emph[declaration of the great benefit which those
 
 To explain the words, I will briefly show you#super[+]:
 
-- 1\. Who is meant here by a #emph[prophet,] and who by a #emph[righteous man.]
-- 2\. What is meant by #emph[receiving] them.
-- 3\. What the #emph[reward] is which follows on it.
++ Who is meant here by a #emph[prophet,] and who by a #emph[righteous man.]
++ What is meant by #emph[receiving] them.
++ What the #emph[reward] is which follows on it.
 
 I. For the first: who is meant here by a #emph[prophet,] and who by a #emph[righteous] man.
 
@@ -81,8 +81,8 @@ Our Savior adds these words to the former to answer beforehand some objections w
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[They are called #emph[little ones] in two respects:]]
 
-- 1\. In regard to the world’s esteem of them.
-- 2\. In regard to their own estimate of themselves.
++ In regard to the world’s esteem of them.
++ In regard to their own estimate of themselves.
 
 #pad(left: 2.0em)[#par(first-line-indent: (amount: 12pt, all: true))[First, #emph[they are little in the world’s eye.] The world, which does not judge according to inward worth, holds them in low esteem. It goes with the servants as it went with their master: they are despised and rejected and trodden underfoot by men. Of old they were called “Desolate” and “Forsaken” (Isa 62:4). In the #emph[apostles’] time they were “the scum of the earth, the refuse of the world” (1 Cor 4:13). The experience of all ages confirms as much, and among other ages ours gives no small evidence of it.]]
 
