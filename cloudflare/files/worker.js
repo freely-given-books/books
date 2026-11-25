@@ -1,4 +1,5 @@
-// The book downloads (PDFs, EPUBs, print-ready zips) from the R2 bucket, for
+// The book downloads (PDFs, EPUBs, print-ready zips) and the covers (front PNGs, wrap
+// WebPs, linked by the site by their release names) from the R2 bucket, for
 // commonwealpress.org: its httpd redirects /files/<book>/<file>.pdf|.epub|.zip here.
 //
 //   /files/<book>/<file>       the site's link (the-book.pdf, no version, the same from
