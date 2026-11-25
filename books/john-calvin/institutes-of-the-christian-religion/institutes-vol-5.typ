@@ -71,7 +71,11 @@
 #include "chapters/typ/vol-5/book-4-chapter-11.typ"
 
 #metadata[Chapter 12: Of the Discipline of the Church] <short>
-#include "chapters/typ/vol-5/book-4-chapter-12.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-5/book-4-chapter-12.typ"
+]
 
 #metadata[Chapter 13: Of Vows] <short>
 #include "chapters/typ/vol-5/book-4-chapter-13.typ"

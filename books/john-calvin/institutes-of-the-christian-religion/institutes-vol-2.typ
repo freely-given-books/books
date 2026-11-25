@@ -35,7 +35,11 @@
 = Book Second: Of the Knowledge of God the Redeemer, in Christ, as First Manifested to the Fathers, under the Law, and Thereafter to Us under the Gospel
 
 #metadata[Argument] <short>
-#include "chapters/typ/vol-2/book-2-argument.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-argument.typ"
+]
 
 #metadata[Chapter 1: The Fall and Revolt of Adam] <short>
 #include "chapters/typ/vol-2/book-2-chapter-01.typ"
@@ -47,13 +51,25 @@
 #include "chapters/typ/vol-2/book-2-chapter-03.typ"
 
 #metadata[Chapter 4: How God Works in the Hearts of Men] <short>
-#include "chapters/typ/vol-2/book-2-chapter-04.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-04.typ"
+]
 
 #metadata[Chapter 5: The Arguments for Free Will Refuted] <short>
-#include "chapters/typ/vol-2/book-2-chapter-05.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-05.typ"
+]
 
 #metadata[Chapter 6: Redemption for Man Lost to Be Sought in Christ] <short>
-#include "chapters/typ/vol-2/book-2-chapter-06.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-06.typ"
+]
 
 #metadata[Chapter 7: The Law Given to Keep Alive the Hope of Salvation] <short>
 #include "chapters/typ/vol-2/book-2-chapter-07.typ"
@@ -65,7 +81,11 @@
 #include "chapters/typ/vol-2/book-2-chapter-09.typ"
 
 #metadata[Chapter 10: The Resemblance Between the Old Testament and the New] <short>
-#include "chapters/typ/vol-2/book-2-chapter-10.typ"
+// page fit (print_check's page warning): letter spacing adjusted
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/vol-2/book-2-chapter-10.typ"
+]
 
 #metadata[Chapter 11: The Difference Between the Two Testaments] <short>
 #include "chapters/typ/vol-2/book-2-chapter-11.typ"
