@@ -1,0 +1,14 @@
+# Vol 6 part joins (check when all parts are in)
+- fr ch16: part-b starts p-509 "enfans, en ceste partie..." (§18 mid-sentence); part-a must end "...le Père céleste à ses".
+- fr ch19: part-a ends §18 "...(Jean IX, 6). Il" (p-582); part-b starts with the word after "Il".
+- fr ch20: part-a ends §16 "...ou ordonnances" (joined ordon-/nances); part-b must skip "nances," (agent told). Spelling: plenement (part-a has one "plènement"; normalise).
+- fr ch18: whole, §§1-20.
+- French italic subheads (De la Confirmation. etc.) kept as *italic* paragraphs.
+- CHECKED: fr ch16 a ends "à ses" / b starts "enfans" OK. fr ch19 a ends "Il" / b starts "guairissoit" OK (b ends §37 before ch20).
+- fr ch19b: subheads *Des Ordres ecclésiastiques.* (before §22), *Du Mariage.* (before §34), same style as part-a. No misprints corrected.
+- CHECKED: fr ch20 a ends "ordonnances" / b starts ", d'autant qu'elles..." (join with no space before comma). b ends §32 + "LOUANGE A DIEU." line; TABLE p-615/616 left out.
+- fr ch17 a: §1-§20 part, ends "...traitter d'avantage ci-après." (p-532); b should start "Maintenant je dispute seulement..." (check). Small caps (VOYCI MON CORPS, CECI, C'EST) written as plain capitals: OK.
+- fr ch17 c starts §33 "n'ait ne goust..." (p-547); b must end "...combien qu'elle" (check). c ends §50. The p-549 "CHAPITRE XVII" was a running head.
+- CHECKED: fr ch17 a/b ("ci-après." / "Maintenant je dispute") and b/c ("combien qu'elle" / "n'ait ne goust") join. ALL FRENCH DONE 11-24.
+- la ch17 a ends mid-§27 "...insinuent, ac non" (col 1026); b told to number notes from [17-30].
+- ALL LATIN DONE 11-24 (ch14-20; ch17 a/b; notes [17-30] on in b).

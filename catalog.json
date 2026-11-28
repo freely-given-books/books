@@ -1,6 +1,6 @@
 {
-  "release": "2026.11.24.2",
-  "colophon": "0.65.0",
+  "release": "2026.11.27",
+  "colophon": "0.65.1",
   "books": [
     {
       "book": "1689-baptist-confession/1689-baptist-confession",
@@ -54,7 +54,7 @@
         {
           "bytes": 1323417,
           "name": "1689-baptist-confession-v2.pdf",
-          "sha256": "3a83939b9a3fd8b65a59c2a37361894e0e4630e6d419f978a48cd582c7d731dd",
+          "sha256": "636cbc0df5c559124259a16e21fa2bc93223f9790406eea5944b1587638b467a",
           "print": {
             "pages": 179,
             "width": 5.5,
@@ -62,9 +62,9 @@
           }
         },
         {
-          "bytes": 108302,
+          "bytes": 110625,
           "name": "1689-baptist-confession-v2-cover.pdf",
-          "sha256": "5f05e3d01037d6edad3463897dea3edf943e3c1791f1c2c950db8677932ddd97",
+          "sha256": "27697ca7bd50bf38fe08cd8e43934159a5581ec991911f371777f6c81b3891b0",
           "wrap": {
             "spine": 0.463,
             "color": "#1f2c47",
@@ -74,24 +74,24 @@
           }
         },
         {
-          "bytes": 76584,
+          "bytes": 78568,
           "name": "1689-baptist-confession-v2-cover-front.png",
-          "sha256": "dc3724402360bc2f21e2baf0ebc37f131a6caf5a36bbf449e9a93f28ad4992bf"
+          "sha256": "9459aa48eb79d5eeab2ba7066bbd10bf05ccf4420b4196d3ca1098c4f346ca5e"
         },
         {
-          "bytes": 76584,
+          "bytes": 78568,
           "name": "1689-baptist-confession-v2-cover-front.png",
-          "sha256": "dc3724402360bc2f21e2baf0ebc37f131a6caf5a36bbf449e9a93f28ad4992bf"
+          "sha256": "9459aa48eb79d5eeab2ba7066bbd10bf05ccf4420b4196d3ca1098c4f346ca5e"
         },
         {
-          "bytes": 422991,
+          "bytes": 424941,
           "name": "1689-baptist-confession-v2.epub",
-          "sha256": "4b628e396cc156a6123aeb407b454f59fb913c16ad1defdd8f528102c9c060e4"
+          "sha256": "9621132a45e058409779f60c27dd27f64d9dc4c74af410ff95735c9733a23ef2"
         },
         {
-          "bytes": 875418,
+          "bytes": 878066,
           "name": "1689-baptist-confession-v2-reader.html",
-          "sha256": "ba022dfa7f40934eeb173e6d7c2272300195bd56d6a7ebb3f04a1d6b1ccdcec8"
+          "sha256": "f6e48819d07ada3efa0938839fb276d918359df3e195eee03a246338023364f1"
         },
         {
           "bytes": 1198346,
@@ -105,13 +105,13 @@
         },
         {
           "name": "1689-baptist-confession-v2-cover-spine.webp",
-          "bytes": 6288,
-          "sha256": "fc58197de8dd1918e5866f7d1b1019f6e2aea5f36ae072150d1a66b25bffdd23"
+          "bytes": 6286,
+          "sha256": "92217eb5621d415c3f8ae87ce4a00cbd576068c2da298549a2a1be6363af9dc3"
         },
         {
           "name": "1689-baptist-confession-v2-cover-front.webp",
-          "bytes": 34328,
-          "sha256": "592d98601178299c5834377551972d7695d56491ab7f76cdd609322c3b37bfd5"
+          "bytes": 34678,
+          "sha256": "1d4ae025139fd9f5182a23bc76db83f5b53c6c1cbcaa5284a138024931d4fb39"
         }
       ]
     },
@@ -167,7 +167,7 @@
         {
           "bytes": 1065677,
           "name": "the-anatomy-of-simon-magus-v7.pdf",
-          "sha256": "4dc5edc09a8523dac2d2308abb575b098d5d9533f376a56d96c6c18756263a8b",
+          "sha256": "bfe8291f85bee5b22d5477e2bf4e7d5c65fca2b5e7c06694ba2c2b5ae713d40b",
           "print": {
             "pages": 124,
             "width": 5.5,
@@ -177,7 +177,7 @@
         {
           "bytes": 5753650,
           "name": "the-anatomy-of-simon-magus-v7-cover.pdf",
-          "sha256": "85dd8499545c67d00aa3b1b5db2430ca362e554d4a5b960deb2aa249a3f58695",
+          "sha256": "f9d4c5a7030154519e18a90552f62e251fc0aacfc68b727032c41b7c0052fe06",
           "wrap": {
             "spine": 0.319,
             "color": "#b1a36c",
@@ -199,7 +199,7 @@
         {
           "bytes": 2730168,
           "name": "the-anatomy-of-simon-magus-v7.epub",
-          "sha256": "c904ff3e92cb9b37d1ae9b35e5a4e0321579aba2f456701827e07dde9777514d"
+          "sha256": "44401b1e8737e3c5092f9a5034fb88048ffe3ff5fbcb963838024c763ae4e2d6"
         },
         {
           "bytes": 3763410,
@@ -293,7 +293,7 @@
         {
           "bytes": 755854,
           "name": "all-of-grace-v17.pdf",
-          "sha256": "502145d96178b33a8779ef63ae36cec432f40760f3580529bf90ea31eaf0844d",
+          "sha256": "f9815c366a092b286f2215acc405e0b63d3fb50653205d5b562e4ac96b698c70",
           "print": {
             "pages": 119,
             "width": 5.5,
@@ -303,7 +303,7 @@
         {
           "bytes": 4349539,
           "name": "all-of-grace-v17-cover.pdf",
-          "sha256": "66a1586739d3880ac3fc97b589e1dd4c166372b591868381da21d8cd3b342aad",
+          "sha256": "667b4ab7bbebf43ea4480c0f3c2104d6c06623804d36bf047790b8a07cbf3fd4",
           "wrap": {
             "spine": 0.328,
             "color": "#c1d9e9",
@@ -325,7 +325,7 @@
         {
           "bytes": 1420209,
           "name": "all-of-grace-v17.epub",
-          "sha256": "fe5d78ff6fdb5de43dc3b3b0e34225c98a7f48acbf0c5bcb76e99696177d72e0"
+          "sha256": "24c8b2eebe7e812350cb546631593dd23d3bb1fed0d214cfbe7897bca8a1fbae"
         },
         {
           "bytes": 1984793,
@@ -382,7 +382,7 @@
         {
           "bytes": 754908,
           "name": "all-of-grace-v2-modern.pdf",
-          "sha256": "4562cafb48c78d2a96d74cc0f2cf87af8dad9c0a1c94205b81070eaddcd3c351",
+          "sha256": "9bad0462cbbfd5b090f938fd895bf9cf9bf50f31db2b2b3d01dea706f71fa559",
           "print": {
             "pages": 117,
             "width": 5.5,
@@ -392,7 +392,7 @@
         {
           "bytes": 2684687,
           "name": "all-of-grace-v2-cover-modern.pdf",
-          "sha256": "9d5afecd77fedecee493b68b765ba131433971e1f73ea063901af813d5787aed",
+          "sha256": "ad12b1c4a41f23ccdf6449edd0fe601909443ee45fea53531671009561aaa48f",
           "wrap": {
             "spine": 0.324,
             "color": "#c0d8e8",
@@ -409,7 +409,7 @@
         {
           "bytes": 1422529,
           "name": "all-of-grace-v2-modern.epub",
-          "sha256": "8376a09f64537c0e367984d17903819c4e09ee2726ff52397874e407db399029"
+          "sha256": "65a1b39420a76a46b662c185cfaf36a47e7c321fab9f9207f86c093a8dad1c81"
         },
         {
           "bytes": 1986910,
@@ -512,7 +512,7 @@
         {
           "bytes": 900752,
           "name": "grace-abounding-v3.pdf",
-          "sha256": "f9768ab725b3699cde4311aa7605e15d1f04e67fc7b944f5c54042544fdbe044",
+          "sha256": "a3c8c37691dd23df2eee3bac05e2acc882887c2b0da1724c2b7ccd7e628e7c77",
           "print": {
             "pages": 122,
             "width": 5.5,
@@ -522,7 +522,7 @@
         {
           "bytes": 8169762,
           "name": "grace-abounding-v3-cover.pdf",
-          "sha256": "750bb8bd2729ad6c2b814fd2ca76ea0ccab114a12f7ac43d4a082827dc0fbb30",
+          "sha256": "7a4f766c9e86e87d3b24175554820895128df3ac678881f8fba8e09d39224cbc",
           "wrap": {
             "spine": 0.335,
             "color": "#e0e9ed",
@@ -544,7 +544,7 @@
         {
           "bytes": 2095468,
           "name": "grace-abounding-v3.epub",
-          "sha256": "fe424c438a786929c9be87fc006da2d6f53cf88809dada20db1b6f0e8f621161"
+          "sha256": "7a0dd1628107794f86e250490353bf37df687dd2ed96f3780b9d7748c966cee9"
         },
         {
           "bytes": 2927498,
@@ -601,7 +601,7 @@
         {
           "bytes": 814188,
           "name": "grace-abounding-v2-modern.pdf",
-          "sha256": "e5ad272c7922646cf69aa9a71d13f09367b6a0c685bd7fd7f98466f6fc341e36",
+          "sha256": "97d1324d8b8079d67cee4d57eae729d150d82b09122be49fb2728b3e17c8deef",
           "print": {
             "pages": 122,
             "width": 5.5,
@@ -611,7 +611,7 @@
         {
           "bytes": 1892524,
           "name": "grace-abounding-v2-cover-modern.pdf",
-          "sha256": "18f96d1b8791693d75e00b032513f026cd744d6caecbd55a929006f239971313",
+          "sha256": "092d94f1cdc616aa56ec98a1eae47b7b1875da54c4932db1bb5368f28ffa2df1",
           "wrap": {
             "spine": 0.335,
             "color": "#dfe9ec",
@@ -626,9 +626,9 @@
           "sha256": "b7eb8ffb7f640134ec524a1f1f48c301beed2858d17fd147ccb3193a226cc3a0"
         },
         {
-          "bytes": 2045813,
+          "bytes": 2045812,
           "name": "grace-abounding-v2-modern.epub",
-          "sha256": "b571d27697cb2b34df98d5ab28f7f778b8ec193a007fc429803fd7e75177fff3"
+          "sha256": "3188a10a75392c5c6742cbf10a65b42e53ca359a150ac1dfb52c3fd167b5eb24"
         },
         {
           "bytes": 2859583,
@@ -659,13 +659,13 @@
       "folder": "the-pilgrims-progress",
       "title": "The Pilgrim's Progress",
       "author": "John Bunyan",
-      "version": "v16",
-      "lulu_revision": 16,
+      "version": "v17",
+      "lulu_revision": 17,
       "summary": "Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.",
       "signed_off": {
-        "tag": "john-bunyan/the-pilgrims-progress/v16",
-        "commit": "d1d8c205f0c860273952bf00c1e38d7d93c83363",
-        "date": "2026-11-18",
+        "tag": "john-bunyan/the-pilgrims-progress/v17",
+        "commit": "68bc44e41d279a9342b2ecd123d06ecc742dedbb",
+        "date": "2026-11-27",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -717,9 +717,9 @@
       },
       "files": [
         {
-          "bytes": 1766048,
-          "name": "the-pilgrims-progress-v16.pdf",
-          "sha256": "286029b381611564aba44247930efb7405c908df72374f523a708b7f8d1328f1",
+          "name": "the-pilgrims-progress-v17.pdf",
+          "bytes": 1766804,
+          "sha256": "8f3283d4b396c67e40118305ca2c057b0c3bbb8c92310147401ea9b0c9ade898",
           "print": {
             "pages": 355,
             "width": 5.5,
@@ -727,54 +727,54 @@
           }
         },
         {
+          "name": "the-pilgrims-progress-v17-cover.pdf",
           "bytes": 7712505,
-          "name": "the-pilgrims-progress-v16-cover.pdf",
-          "sha256": "8b163f0ba43215b69f7888f83884161b08ed60b3b611d32dcb303a657895dc3b",
+          "sha256": "a83f2613997dd4b37318fe420fb494527d3b196ec7d449bc710f62cb64088d83",
           "wrap": {
             "spine": 0.86,
             "color": "#d3d4b3",
-            "back": "the-pilgrims-progress-v16-cover-back.webp",
-            "spine_image": "the-pilgrims-progress-v16-cover-spine.webp",
-            "front": "the-pilgrims-progress-v16-cover-front.webp"
+            "back": "the-pilgrims-progress-v17-cover-back.webp",
+            "spine_image": "the-pilgrims-progress-v17-cover-spine.webp",
+            "front": "the-pilgrims-progress-v17-cover-front.webp"
           }
         },
         {
+          "name": "the-pilgrims-progress-v17-cover-front.png",
           "bytes": 1817755,
-          "name": "the-pilgrims-progress-v16-cover-front.png",
           "sha256": "b449a5ca8f93b320f808aa81eb049638efbf6455ff5312027d96d033471e45af"
         },
         {
+          "name": "the-pilgrims-progress-v17-cover-front.png",
           "bytes": 1817755,
-          "name": "the-pilgrims-progress-v16-cover-front.png",
           "sha256": "b449a5ca8f93b320f808aa81eb049638efbf6455ff5312027d96d033471e45af"
         },
         {
+          "name": "the-pilgrims-progress-v17.epub",
           "bytes": 2268258,
-          "name": "the-pilgrims-progress-v16.epub",
-          "sha256": "f637399bb23bfb638028a9b4559b7d72adf8076114283af041a502bd898c3cf5"
+          "sha256": "36e645cccb78cde6fece53f01c8110e0d3a92c4fae797230762fd502d24a6187"
         },
         {
+          "name": "the-pilgrims-progress-v17-reader.html",
           "bytes": 3369393,
-          "name": "the-pilgrims-progress-v16-reader.html",
-          "sha256": "e535de4d55c6c32abbfa687565737f241c186a82d3b336cc9f61530f0ea2b3a4"
+          "sha256": "d94fa0e9c153ea4ffb7e27f48eaadc4c1dd464cd0b924f076e0c16cdc23f25d7"
         },
         {
+          "name": "the-pilgrims-progress-v17-compare.html",
           "bytes": 1502011,
-          "name": "the-pilgrims-progress-v16-compare.html",
-          "sha256": "d3e1a92df52cd434b277c6e901e1d60fb596f772bb5832d1f9e481be48a456d6"
+          "sha256": "9dfb4aadf6aba7b7d10632339133d8e632af9ee1655e311edf218ae04e8043ca"
         },
         {
-          "name": "the-pilgrims-progress-v16-cover-back.webp",
+          "name": "the-pilgrims-progress-v17-cover-back.webp",
           "bytes": 38884,
           "sha256": "aa0b5270889b8d76232e6c6bf18fbdbeac3eb4e1c53c8ef3aa6f380a658f6860"
         },
         {
-          "name": "the-pilgrims-progress-v16-cover-spine.webp",
+          "name": "the-pilgrims-progress-v17-cover-spine.webp",
           "bytes": 8742,
           "sha256": "1a45261b917a68d99768d25246ffa5bcdc1c39b83306a7f38761641c8a38d323"
         },
         {
-          "name": "the-pilgrims-progress-v16-cover-front.webp",
+          "name": "the-pilgrims-progress-v17-cover-front.webp",
           "bytes": 283168,
           "sha256": "6d4de90fe816d4c669366a7905ca399fd056bf013b7d188745c2bbc4642da5b8"
         }
@@ -808,7 +808,7 @@
         {
           "bytes": 1790611,
           "name": "the-pilgrims-progress-v1-modern.pdf",
-          "sha256": "f2c9d6ae55b5f22411f9a112aeeb00d626690d8e29c81c5d62546ad092f3a6e0",
+          "sha256": "56e0ef4dbff65d32b5340c1925c617a76e267f91d020f605432c89bab8d019dc",
           "print": {
             "pages": 352,
             "width": 5.5,
@@ -818,7 +818,7 @@
         {
           "bytes": 2101482,
           "name": "the-pilgrims-progress-v1-cover-modern.pdf",
-          "sha256": "138f33c27c35a8ea8a99e931bdafe8893580bf6f3fda82b6621e8ca2e74d00a7",
+          "sha256": "4abf6d6e336ead4a8dc165b389fc3ea6cd55e6ce9e37e03809f9d34b34c49146",
           "wrap": {
             "spine": 0.853,
             "color": "#d3d4b2",
@@ -835,7 +835,7 @@
         {
           "bytes": 2266498,
           "name": "the-pilgrims-progress-v1-modern.epub",
-          "sha256": "832c1497446810ee878b47ffa751bd9b2a87bc575a98761cacdb723506788f37"
+          "sha256": "cded6750b565c02dcce8adbf13c143744dacbe1ede5ce001fbb2dc7dbe7b3c73"
         },
         {
           "bytes": 3364285,
@@ -922,39 +922,69 @@
       },
       "files": [
         {
+          "bytes": 146651,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-1-front.png",
+          "sha256": "f6915f60a7150143f967ae3b819ab23b5eaafd9b48d5bc6bfbf9e811562086e5"
+        },
+        {
+          "bytes": 593666,
           "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1.epub",
-          "bytes": 593665,
-          "sha256": "7319525ba0ca2f8f959c1144642de01a661b1087486f52b73ad50e9a13dccf3e"
+          "sha256": "76c907cdaa34bd4a5e9d0d3d00f330e4a21c687c01588b9ce7cc592924b72add"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2.epub",
+          "bytes": 149660,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-2-front.png",
+          "sha256": "d57394028e406425921b9e8c7103261a8e38c840fb4082adaec14f69ae84a7e9"
+        },
+        {
           "bytes": 655823,
-          "sha256": "f8d6429af1793b6ec56edede3c7ba57953a256b87b95c8ddcff9824b529840af"
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2.epub",
+          "sha256": "776fe86d4addda3a639540014a94b9b2dae712c0dcbe85c01c594d9be764996d"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3.epub",
+          "bytes": 151302,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-3-front.png",
+          "sha256": "eaa82d8e31234e6690e833a8eabb8aa7a1a3411802889c6da209d8ae74ef8b38"
+        },
+        {
           "bytes": 550162,
-          "sha256": "286d24131b864f63da5bb2ac319c87538221dceebbaae399f1d4d5a63dfdc676"
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3.epub",
+          "sha256": "1d6b7e3da2de96c03a83dfb2c5aa7d9dbb1d08212f4d086a83326acd14b72089"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4.epub",
+          "bytes": 150201,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-4-front.png",
+          "sha256": "cb2118c724ab1f5cfa83b695a7ae621d921154b1baa8f0eb1ea073e3193e54f7"
+        },
+        {
           "bytes": 646564,
-          "sha256": "943ade19f544b6e1acf7c2fab04153cfc7706fe2f2f289b39763a1f7f626ae78"
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4.epub",
+          "sha256": "077834df57fa5d61df4ea4806a05efbe1103b805e110e3232463babc62ae9f3a"
         },
         {
+          "bytes": 148182,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-5-front.png",
+          "sha256": "4b30609672b66eb0329fa3079fda40eac10060165dd9a5f577c3cdca0fd2c505"
+        },
+        {
+          "bytes": 609261,
           "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5.epub",
-          "bytes": 609260,
-          "sha256": "74b9312d95f18c46af19d1e531772e6520a3df74cc2c2a277d1528258bd6b7f5"
+          "sha256": "4e5e8ec2b16fceed84732a6c5080c044f4c634767620f7abc96d2400fd3c0933"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6.epub",
+          "bytes": 150191,
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-6-front.png",
+          "sha256": "c2fde1c558aa452659d52f9e0eb55e87807cda3786937e0bc8928de443f90972"
+        },
+        {
           "bytes": 568761,
-          "sha256": "1ece77288ef5f9417f4468a0601315da3a9e6fcc039cf0fa6a4c4acc95aed3a9"
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6.epub",
+          "sha256": "2758cc6cd11cd982b4245e257e89f4abecf8ded895ff6aaaee15c9b1666a38bc"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-1.pdf",
           "bytes": 1814592,
-          "sha256": "be0939c39bdac34ce6d4d25996499c265ef861848d71d6b7dca0ca52667cd9d5",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-1.pdf",
+          "sha256": "e5e57d8f9ab64027f39546e5318f61b96505bc2095b00bd591738c9ada260026",
           "print": {
             "pages": 258,
             "width": 6.0,
@@ -962,9 +992,9 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-2.pdf",
           "bytes": 2259624,
-          "sha256": "3833c5216d4b5ed83568e62acbe228801e365c591ef19c68bed0879bc24efbbe",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-2.pdf",
+          "sha256": "7c90ac04997e18dea7635f814e3f6ea7a6621348b3b4172067a542d7d9c66c56",
           "print": {
             "pages": 326,
             "width": 6.0,
@@ -972,9 +1002,9 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-3.pdf",
           "bytes": 1573775,
-          "sha256": "b905da2cf72cfc9d3645f6e0d2ca8ce5265508b7e79520ceb662c764b1bff98b",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-3.pdf",
+          "sha256": "8d769d9f19e6c18e91f77ff3784b9e228bf89da45f49360cc4f02ff5f999c95a",
           "print": {
             "pages": 212,
             "width": 6.0,
@@ -982,9 +1012,9 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-4.pdf",
           "bytes": 2186421,
-          "sha256": "d57a0cd2577d9523ef4a5a24d16224cc2039e97045d43d5750b8ccb7b01585e3",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-4.pdf",
+          "sha256": "89578a25af14d25e1b49d9b61e413dfe4341e9afe8b3381989c0c592db1c06d3",
           "print": {
             "pages": 317,
             "width": 6.0,
@@ -992,9 +1022,9 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-5.pdf",
           "bytes": 1885886,
-          "sha256": "09e3806adf51807ed40e2f3aa0ae503dbf1a6d0ec8befba946c671126aea05e2",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-5.pdf",
+          "sha256": "2190244bedb8ac09d916ce3f330ff3bdf0b2ec5bf86772c674a0f85c2385a678",
           "print": {
             "pages": 284,
             "width": 6.0,
@@ -1002,9 +1032,9 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-institutes-vol-6.pdf",
           "bytes": 1679851,
-          "sha256": "6a9dee18c2ac90dc432393c659fee566439affef7574a936278aa4e3ecb35cba",
+          "name": "institutes-of-the-christian-religion-v1-institutes-vol-6.pdf",
+          "sha256": "75954764071ccfcdb767e7fb1e31979202b72cba985532f7e05887b270f3ef05",
           "print": {
             "pages": 244,
             "width": 6.0,
@@ -1012,124 +1042,256 @@
           }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-1.pdf",
           "bytes": 707899,
-          "sha256": "c726766706f97335384dd777ca47b7222b8631ac9033ae5d44a818e49a030288"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-1.pdf",
+          "sha256": "9cccbf8badc6ee639732d5cb58020788c550a4e89ad9b0f5aeb590cec41375be",
+          "wrap": {
+            "spine": 0.641,
+            "color": "#43715e",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-1-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-1-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-1-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-2.pdf",
           "bytes": 707273,
-          "sha256": "2f969fa657a351f9c1242e63c2a6fb3aa31e828bfa1558c53d191a1736e01be5"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-2.pdf",
+          "sha256": "527503c987a5b02a53292536c9580641ec76b25f660c5ed8821203c864de390d",
+          "wrap": {
+            "spine": 0.794,
+            "color": "#386d6f",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-2-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-2-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-2-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-3.pdf",
           "bytes": 707728,
-          "sha256": "872800849ab9b80a61463bae052ccf4e26fd89336ab0b2ee17ded24af8b068da"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-3.pdf",
+          "sha256": "49fdfd454403cde50a98ed099b7548115d9b014f62f66f5d3bee01cf1c679383",
+          "wrap": {
+            "spine": 0.537,
+            "color": "#325e78",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-3-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-3-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-3-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-4.pdf",
           "bytes": 708116,
-          "sha256": "9c14ba915f1c3a065c72e6aee2093e39c9c5a15019ff456c8ad1240c2bc33d54"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-4.pdf",
+          "sha256": "c3d4e6eaaf3c975b663152922cb0e3e7b6d10257993cfe6544ec7b8da5af2779",
+          "wrap": {
+            "spine": 0.774,
+            "color": "#33507a",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-4-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-4-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-4-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-5.pdf",
           "bytes": 708223,
-          "sha256": "12c9c9938c47afac7235c433e42e6de9c52afac396b9bbd36580f57cc94c1f4a"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-5.pdf",
+          "sha256": "282f7b8c22dba870d8a725a6671c975fb914e76a515c0df34a5a661d84c94b25",
+          "wrap": {
+            "spine": 0.7,
+            "color": "#3a4376",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-5-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-5-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-5-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1-cover-vol-6.pdf",
           "bytes": 708224,
-          "sha256": "ca757d54dd1c1262f9ecea2e7093ab609a2a66113c7ee44ce9d0319a9d1a1856"
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-6.pdf",
+          "sha256": "917caabaac9d8099f54a4b9498a80bb31f7e2c8f8365a18a080e052807e743e5",
+          "wrap": {
+            "spine": 0.61,
+            "color": "#3f3865",
+            "back": "institutes-of-the-christian-religion-v1-cover-vol-6-back.webp",
+            "spine_image": "institutes-of-the-christian-religion-v1-cover-vol-6-spine.webp",
+            "front": "institutes-of-the-christian-religion-v1-cover-vol-6-front.webp"
+          }
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-reader.html",
           "bytes": 1100824,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-reader.html",
           "sha256": "6f1545732b8e667e4b3e65dc5743d771effe63b144498617a5b432ce9032e5b6"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-compare.html",
           "bytes": 1498688,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-compare.html",
           "sha256": "2b85e0bdfbd32d873eae7157945aa4824dda91e2579411cbcc196e6ad501343e"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-parallel.html",
           "bytes": 1607049,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-1-parallel.html",
           "sha256": "c410d782a52843561c8da559f47656fc5b7e5773519351426cebf415beb1bc27"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-reader.html",
           "bytes": 1294922,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-reader.html",
           "sha256": "cbb9ac0f132abc4eee9e68ca6b584d5022dd432859489cbdea9b85db9128eb72"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-compare.html",
           "bytes": 1998062,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-compare.html",
           "sha256": "06d7b0ae654b72eb2ca4a950081b22359f80872b85186df63e519f131949e603"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-parallel.html",
           "bytes": 2153108,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-2-parallel.html",
           "sha256": "3956f3b676facb514a9af0afb67a114eb33b67b4fef4b1876aa0cfbcb45d5cd4"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-reader.html",
           "bytes": 1016516,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-reader.html",
           "sha256": "772834f52a3e1d5d52c4ac4edc41ce2d241800e36e65f3a192c5d6ec515445f1"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-compare.html",
           "bytes": 1251228,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-compare.html",
           "sha256": "e8bdec274cf912bf20bb66eb18b625d91702938bad9d14ecbe58b31728b45446"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-parallel.html",
           "bytes": 1395179,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-3-parallel.html",
           "sha256": "8f17b180c5b84e543137cfcbcd49414c657eda2353fd26bed2ecaf89c70e49fd"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-reader.html",
           "bytes": 1278547,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-reader.html",
           "sha256": "8d27a8ade6c85e26e6b4064d729e902f9644086de83807b8f6a0af7249007e1e"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-compare.html",
           "bytes": 1920107,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-compare.html",
           "sha256": "884296ee8845a5767630a2777af21cae4480d3cc783c0664d8468dcbe2bfff69"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-parallel.html",
           "bytes": 2147812,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-4-parallel.html",
           "sha256": "7b7c155a9a0c66dea4c94afacec3f55ae5727a5139d665417a0156e1966aec84"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-reader.html",
           "bytes": 1174964,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-reader.html",
           "sha256": "b43600cb986dd9a2a9bb8134457d3ef85ec72cf383b662c5d16c30ebac992896"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-compare.html",
           "bytes": 1619884,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-compare.html",
           "sha256": "38da8b0d93eb5c9f55646a666f2c47ba46035bfcac6a6184ab6506328c454d19"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-parallel.html",
           "bytes": 1935939,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-5-parallel.html",
           "sha256": "d4676ef3d4dfc41300439cafcc9c505991feb0055be865523b6a2802cc65fd0a"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-reader.html",
           "bytes": 1095907,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-reader.html",
           "sha256": "a0f7a9e9e75ea29bc64adc96bf8927d70a2e1a06ca8c6f073a863e481a815346"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-compare.html",
           "bytes": 1467019,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-compare.html",
           "sha256": "a2d07b3ad77269cd3bbf659c48b11e041d5f6b667a916dbb512bc65d8300b6ae"
         },
         {
-          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-parallel.html",
           "bytes": 1734573,
+          "name": "institutes-of-the-christian-religion-v1.1-institutes-vol-6-parallel.html",
           "sha256": "d190965fba86f90860323bc0350f47043d363678606ba9ae4bb5a83342f34aad"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-1-back.webp",
+          "bytes": 46054,
+          "sha256": "01cef4bd9a34ccf7b30fbf9691e865ef9f794c581361aa5141d86c92ac2140f9"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-1-spine.webp",
+          "bytes": 6810,
+          "sha256": "ce3550817238f92db1d3b8337b3d7f40a42871085b6c10ca5c83d8ed19c91bad"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-1-front.webp",
+          "bytes": 30772,
+          "sha256": "20507d578cb3961cd7dc3b0c1f52672c44ce3218897b8c916510ba9b1fd93df8"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-2-back.webp",
+          "bytes": 50034,
+          "sha256": "e8ee0a3252153d8de9b861128b4e4f16cb3043f463ee501fd68bb2a30657ecce"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-2-spine.webp",
+          "bytes": 7454,
+          "sha256": "af78ede249f7d8243ae87e9515de7327b6f79587506b709b41219429dc9366c8"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-2-front.webp",
+          "bytes": 32788,
+          "sha256": "a6a3ec0bc366e151060e79077c752f8e83fa4123248a8df60264b18beec35239"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-3-back.webp",
+          "bytes": 52708,
+          "sha256": "7f2beea370112681a43b4251b455b3e357a4e1da93dfc87066cbe400630e8a16"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-3-spine.webp",
+          "bytes": 6094,
+          "sha256": "69a57f9f15028a9f3b50fcbda77bf5cdcd692ac98c3ea5369ace174737d005b1"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-3-front.webp",
+          "bytes": 34132,
+          "sha256": "1ba5c67758570f1023d7b93a71b52a1e5d471dec738eefe6b31e04dda8e5a279"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-4-back.webp",
+          "bytes": 50026,
+          "sha256": "c11ff6b4c89fc0b40c59eceb9f4fef1232e5913a7814a0651f8f85fbda5d2ce0"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-4-spine.webp",
+          "bytes": 7628,
+          "sha256": "c942ed50c04cca429c84c5052020b6655c2080e2175f4ded5926e8d1855c45ce"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-4-front.webp",
+          "bytes": 34114,
+          "sha256": "70f3449329a658d52f6fb7048e103d2fd0614a08bcf8b60d40de362d87d3102c"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-5-back.webp",
+          "bytes": 48910,
+          "sha256": "60b15cef193336835c6fdf18e364726aa63b762b6cb885c73d42e69d997ea7a1"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-5-spine.webp",
+          "bytes": 7562,
+          "sha256": "5b228b9a12ca280b61c4162b59c362b6e711a915bd2469afc79c31d6f38e6e5c"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-5-front.webp",
+          "bytes": 32968,
+          "sha256": "53fd767ba492ffa7150ea5d51143ffb6e58c459b3884ed89acab8ea14dc278b2"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-6-back.webp",
+          "bytes": 48244,
+          "sha256": "4219aa767c81d423fd05c142e46e48a78f2e665d60b57d118d7d8a7bed09ba26"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-6-spine.webp",
+          "bytes": 7224,
+          "sha256": "cb06e5f7232138b6616bf89e85efa5507834653b9a0675a1eeab5acd92a5ebb3"
+        },
+        {
+          "name": "institutes-of-the-christian-religion-v1-cover-vol-6-front.webp",
+          "bytes": 32886,
+          "sha256": "dfb78a172e20fb2ab75f5eb00a9fc4296351820190f8d4be32ef786f4ace19bb"
         }
       ]
     },
@@ -1206,7 +1368,7 @@
         {
           "bytes": 2033253,
           "name": "indwelling-sin-v3.pdf",
-          "sha256": "a74808ef67ba29fe1da927ba47b2ed5cae087892251eb09b7c7a4b213d2256ce",
+          "sha256": "494de224651edd64a1a43b9ca37d122e35dd5091850f704f9d17e482a307beee",
           "print": {
             "pages": 276,
             "width": 5.5,
@@ -1216,7 +1378,7 @@
         {
           "bytes": 124916,
           "name": "indwelling-sin-v3-cover.pdf",
-          "sha256": "2b6089056f72ea8f275351b022496858f1f40baffe4340da8a1ecc2b0fba47bb",
+          "sha256": "c5cab3a8e27a1d5779f1c82d8f63dc11a9137123cbb8ad181ee0a9ba886580af",
           "wrap": {
             "spine": 0.682,
             "color": "#233026",
@@ -1238,7 +1400,7 @@
         {
           "bytes": 481098,
           "name": "indwelling-sin-v3.epub",
-          "sha256": "428b7c42bcaa5064c27db1975739e0dc4f8d1572ff48eb254d882349b86c8b76"
+          "sha256": "483d7d7cd37beff840116c2172f2d7fd0f34202f27a270a85445c31d1ed04dcf"
         },
         {
           "bytes": 950515,
@@ -1295,7 +1457,7 @@
         {
           "bytes": 1969014,
           "name": "indwelling-sin-v1-modern.pdf",
-          "sha256": "50b0bbc52e4b7f1c17a63410737c56781db9e50b7265115e68f8e60ecaf272bd",
+          "sha256": "1776f16efbf469ef151027f2b840a1331a33ec4fbc5a87d843c5bae02099ec50",
           "print": {
             "pages": 274,
             "width": 5.5,
@@ -1305,7 +1467,7 @@
         {
           "bytes": 127529,
           "name": "indwelling-sin-v1-cover-modern.pdf",
-          "sha256": "5202ee1e4bc495d587dbbfa5a640a1b9e7565ebd917ad738abfc67fea11a196f",
+          "sha256": "616101610f172e57d42d00a9b66368683716f947ed3ca335ea5cf19aedad6222",
           "wrap": {
             "spine": 0.677,
             "color": "#233126",
@@ -1320,9 +1482,9 @@
           "sha256": "de6e3b68b9d216dd60a05d4aed33590f88c9983c4dfc387b64c71895efce051c"
         },
         {
-          "bytes": 481944,
+          "bytes": 481945,
           "name": "indwelling-sin-v1-modern.epub",
-          "sha256": "23685c96e8e730d84916e81e874ce2f39743ceafa5d6bcffdbfc38745a277c05"
+          "sha256": "fd025c72234a67c59a0f1de1471066523fe5aada666f605e1f9d210db8e3385c"
         },
         {
           "bytes": 949087,
@@ -1413,7 +1575,7 @@
         {
           "bytes": 765774,
           "name": "of-temptation-v3.pdf",
-          "sha256": "534cb5527b348766504503476c24e618b2f32bcc5a71ac55a80fa924a1f381ec",
+          "sha256": "d9884d69dbf1edb742f68dd27002708067aec96d1a5e5d6ee9f2e28ea758e2be",
           "print": {
             "pages": 104,
             "width": 5.5,
@@ -1423,7 +1585,7 @@
         {
           "bytes": 97640,
           "name": "of-temptation-v3-cover.pdf",
-          "sha256": "c64d0549465606ba0619b7cc8ccb52c517b2ab72aea2c2350bc0c632870c174d",
+          "sha256": "f94916cdc71d77cd2d9969b9583626e4e18dc2042c4b8f347ca1657bb97decb0",
           "wrap": {
             "spine": 0.294,
             "color": "#1e2938",
@@ -1445,7 +1607,7 @@
         {
           "bytes": 359794,
           "name": "of-temptation-v3.epub",
-          "sha256": "f6632ed412a36dcd053daa3d5e806895f5cda2efabee717a293409989a6e941c"
+          "sha256": "0b79ee2b2136b0bb275a3313e4ccf9f615c2425aa506365d8d2111559a230abb"
         },
         {
           "bytes": 605027,
@@ -1502,7 +1664,7 @@
         {
           "bytes": 772980,
           "name": "of-temptation-v1-modern.pdf",
-          "sha256": "88a65b3a096ab4a3645f2651d30d9dc66e8a1868fecadfae91fc9749b5a52124",
+          "sha256": "fd85e061cdaf5ca5b399fcd008799436148d46979298ed3cf78216ee65dee270",
           "print": {
             "pages": 104,
             "width": 5.5,
@@ -1512,7 +1674,7 @@
         {
           "bytes": 100256,
           "name": "of-temptation-v1-cover-modern.pdf",
-          "sha256": "414c288057f540e6ca5b2f4676ccc652d843abcc1f69dfd7c13dcfc32b66caaa",
+          "sha256": "2b21e15f837ff2ae2e06ac4b3cc0575237d3cec6cddc2f2a4d73d4e228ee2cd9",
           "wrap": {
             "spine": 0.294,
             "color": "#1e2939",
@@ -1527,9 +1689,9 @@
           "sha256": "df21a4d9be27d817e7b7e0f84b89210ee1997af69021ad3f300ac130deb4c607"
         },
         {
-          "bytes": 363141,
+          "bytes": 363140,
           "name": "of-temptation-v1-modern.epub",
-          "sha256": "b177a05eaab8e61b51a53eb4fe76453b123f3ab4e8e717c8ecf5d77b62f36458"
+          "sha256": "8b27b934ce596c9cd3a9e040d660123ff782829b9e9b8dc41704608f5c561dc2"
         },
         {
           "bytes": 609854,
@@ -1592,7 +1754,7 @@
         {
           "bytes": 2032357,
           "name": "owen-on-sin-v2.pdf",
-          "sha256": "f27b158631eff00df9c70ffcd18ec45e2efc765954c5bd833311c457625dcd8f",
+          "sha256": "994370dd8b3d549012ce0a23359fa0e034b59a8371506631979df6e4035b3f13",
           "print": {
             "pages": 257,
             "width": 5.5,
@@ -1602,7 +1764,7 @@
         {
           "bytes": 128676,
           "name": "owen-on-sin-v2-cover.pdf",
-          "sha256": "a9c925dee66578417871aebe5d24e1e12601213cb233fb114ae333f36f8b22df",
+          "sha256": "4db8b4fc9de572cda3ac9f59e7d91e2d14b4c4a472bd4083b61fbdfeb0602084",
           "wrap": {
             "spine": 0.639,
             "color": "#30272e",
@@ -1672,7 +1834,7 @@
         {
           "bytes": 1522745,
           "name": "owen-on-sin-v1-modern.pdf",
-          "sha256": "2db659715efc85d3a8855bc2c6da548a890694094c1f241639fe52364b5d65ba",
+          "sha256": "476b6e254bffba5aa10f060cbda34c1213c43f62fa6e480f65785e8b5571b495",
           "print": {
             "pages": 257,
             "width": 5.5,
@@ -1682,7 +1844,7 @@
         {
           "bytes": 131327,
           "name": "owen-on-sin-v1-cover-modern.pdf",
-          "sha256": "c0611be43a6799e8e0d5ee5116d259abb0f9dd2abf3dfaab1ea7f8f7f1a0ce1c",
+          "sha256": "84cf80ccd94fcfe4acfec4bf84271e4fa6f06a855d55553b1b21f1c918c5a5bd",
           "wrap": {
             "spine": 0.639,
             "color": "#31282e",
@@ -1715,13 +1877,13 @@
       "folder": "the-death-of-death",
       "title": "The Death of Death in the Death of Christ",
       "author": "John Owen",
-      "version": "v2",
-      "lulu_revision": 2,
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Owen's Death of Death in the Death of Christ in William Goold's text, as CCEL gives it, with CCEL's slips corrected against Goold's printing and Owen's own wording, chiefly his quotations of Scripture, restored from the 1648 first edition.",
       "signed_off": {
-        "tag": "john-owen/the-death-of-death/v2",
-        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
-        "date": "2026-11-18",
+        "tag": "john-owen/the-death-of-death/v3",
+        "commit": "68bc44e41d279a9342b2ecd123d06ecc742dedbb",
+        "date": "2026-11-27",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -1767,66 +1929,66 @@
       },
       "files": [
         {
-          "bytes": 2601617,
-          "name": "the-death-of-death-v2.pdf",
-          "sha256": "22a70ec538aa0f56b3f740d98a20360465996d342c66c7d763006183b8440bb8",
+          "name": "the-death-of-death-v3.pdf",
+          "bytes": 2609154,
+          "sha256": "cc9ce114cf46cac4297eb8a0f09957e51859ed56ea3ce24f74abe370b1c3d0fe",
           "print": {
-            "pages": 482,
+            "pages": 476,
             "width": 5.5,
             "height": 8.5
           }
         },
         {
+          "name": "the-death-of-death-v3-cover.pdf",
           "bytes": 125340,
-          "name": "the-death-of-death-v2-cover.pdf",
-          "sha256": "971b1ebe6df318ba33e698b52a7a30e6b2c756e32bb56ca73553f0a8461f6df7",
+          "sha256": "718c8e82cac2b5c2b5a07fb6a40f513b43e78450cf48f46c1dd2191204c81bd5",
           "wrap": {
-            "spine": 1.146,
-            "color": "#222c32",
-            "back": "the-death-of-death-v2-cover-back.webp",
-            "spine_image": "the-death-of-death-v2-cover-spine.webp",
-            "front": "the-death-of-death-v2-cover-front.webp"
+            "spine": 1.132,
+            "color": "#232d33",
+            "back": "the-death-of-death-v3-cover-back.webp",
+            "spine_image": "the-death-of-death-v3-cover-spine.webp",
+            "front": "the-death-of-death-v3-cover-front.webp"
           }
         },
         {
+          "name": "the-death-of-death-v3-cover-front.png",
           "bytes": 91557,
-          "name": "the-death-of-death-v2-cover-front.png",
           "sha256": "4688ab205877695c296d76b0f1d778e4d05780601030c2f7ef76e89b128f59ec"
         },
         {
+          "name": "the-death-of-death-v3-cover-front.png",
           "bytes": 91557,
-          "name": "the-death-of-death-v2-cover-front.png",
           "sha256": "4688ab205877695c296d76b0f1d778e4d05780601030c2f7ef76e89b128f59ec"
         },
         {
+          "name": "the-death-of-death-v3.epub",
           "bytes": 636630,
-          "name": "the-death-of-death-v2.epub",
-          "sha256": "aec74c9fe058ed4713236945624e243f19827d9a528f57a2bf3695c5a36b6e50"
+          "sha256": "dd564c86c59cb199a3d5082241aee9126ed02117819ca69fc011862276751579"
         },
         {
+          "name": "the-death-of-death-v3-reader.html",
           "bytes": 1306358,
-          "name": "the-death-of-death-v2-reader.html",
-          "sha256": "7c75a940163e23f3db5fcbdf3438fe31e85159a4ecfa6666a976d39e956c1bbc"
+          "sha256": "8dff0360956ea6581abb6e186b6bdd2cbece2710bbf30101b3d99f33cf3005fd"
         },
         {
+          "name": "the-death-of-death-v3-compare.html",
           "bytes": 2940684,
-          "name": "the-death-of-death-v2-compare.html",
-          "sha256": "0bf30e1f726eedf924611aae6062bbc454964756e4fce5dec0eff925b7f67e0d"
+          "sha256": "0b34f8b75ee495ee9edb90fb92b81f544602ed36fce3c1c479af66646709e2e5"
         },
         {
-          "name": "the-death-of-death-v2-cover-back.webp",
+          "name": "the-death-of-death-v3-cover-back.webp",
           "bytes": 19804,
           "sha256": "c5fa4435a77bfd39b93621908d39139a6d91cb0850f918793323d4b8af44a8aa"
         },
         {
-          "name": "the-death-of-death-v2-cover-spine.webp",
-          "bytes": 6928,
-          "sha256": "a628826d4560cce201ba904cf6ac1f5b6df21ba30256e8e603d13e3b6cfde7ec"
+          "name": "the-death-of-death-v3-cover-spine.webp",
+          "bytes": 6870,
+          "sha256": "ca746d67545cadb0ae5ed4ed6fd957a1152fecde676a78496dbb71e065e67136"
         },
         {
-          "name": "the-death-of-death-v2-cover-front.webp",
-          "bytes": 35548,
-          "sha256": "3baa5a5aa98a8c9bc2d4aa5578bc98bdfa0953ece39ea2b40783d0d197544bbe"
+          "name": "the-death-of-death-v3-cover-front.webp",
+          "bytes": 35648,
+          "sha256": "b63c27ac646724f78f6e63804973224c88bf24f04e3f628d04b323d6c903619b"
         }
       ]
     },
@@ -1903,7 +2065,7 @@
         {
           "bytes": 1530584,
           "name": "the-mortification-of-sin-v4.pdf",
-          "sha256": "56e5e37267240caa5a0da5b74cbea34952c06dbd43196fcda3ddb3f5e6332f07",
+          "sha256": "a9d9d3ae220375a0834fccd6c4fc4cf39607d5854226c54a063df174041426a6",
           "print": {
             "pages": 151,
             "width": 5.5,
@@ -1913,7 +2075,7 @@
         {
           "bytes": 126461,
           "name": "the-mortification-of-sin-v4-cover.pdf",
-          "sha256": "619b744663daefc55b9c478fd1ebd6d3cc2dfa034f21eb4d37340e5d60fab6ea",
+          "sha256": "747396d77868e87502772f802ca4b49843b7cabc2055054cf60dcf61887e1b2a",
           "wrap": {
             "spine": 0.4,
             "color": "#3f2322",
@@ -1935,7 +2097,7 @@
         {
           "bytes": 397553,
           "name": "the-mortification-of-sin-v4.epub",
-          "sha256": "8fc4d69e858fc7101f1c5316982177df66efaa22c8f178472f99a6357a14fc6c"
+          "sha256": "589bc5469f4cbcdbde1cbcf956f91e7f0b7e9eb86c2275cab83704a1218c84e8"
         },
         {
           "bytes": 699588,
@@ -1992,7 +2154,7 @@
         {
           "bytes": 981589,
           "name": "the-mortification-of-sin-v1-modern.pdf",
-          "sha256": "4394e7eb0c1e9050c89e69b3cc20020f5e35c518e8723f2a43434b5961cfffc5",
+          "sha256": "5c994748f48759ce8e549692983fbab55a9676c4e1b2ea2c2e2f85988eea6e3b",
           "print": {
             "pages": 136,
             "width": 5.5,
@@ -2002,7 +2164,7 @@
         {
           "bytes": 101274,
           "name": "the-mortification-of-sin-v1-cover-modern.pdf",
-          "sha256": "be7d4ee6b6e6307b18f448c6fd7ad97073ef1e5601bc32f603a6231d0370eda5",
+          "sha256": "c543e682d4fef8bdea8f49e0ff7c8c368e390fa5c4aaf3a2117b40dd847341b0",
           "wrap": {
             "spine": 0.366,
             "color": "#412524",
@@ -2017,9 +2179,9 @@
           "sha256": "936581b0a261a47514d4046694f44188f6d3446c8de806fe45d19a23c662a17d"
         },
         {
-          "bytes": 392990,
+          "bytes": 392991,
           "name": "the-mortification-of-sin-v1-modern.epub",
-          "sha256": "4ff08824c48b1c1aff4334f6a67e33bce455e5f6f9aca6c9378a97de71a78673"
+          "sha256": "013c90fae0f3662c2876e37243e4b22335ba6e01900da241ee5a1c0c44003be1"
         },
         {
           "bytes": 674002,
@@ -2114,7 +2276,7 @@
         {
           "bytes": 2991406,
           "name": "religious-affections-v1.pdf",
-          "sha256": "2d9fb3f5e891fd714773f92c1fe24fc2e8ef10767c043f00bb90cf7ea12398b1",
+          "sha256": "a7f8941c989b44d3f35a8b3985708c07d23547bf1a3a9d3de2c4a6dce12a6f8a",
           "print": {
             "pages": 426,
             "width": 6.0,
@@ -2124,7 +2286,7 @@
         {
           "bytes": 2019135,
           "name": "religious-affections-v1-cover.pdf",
-          "sha256": "7420dc85f670aff4417bbbc118ce54c7ac0001bb8628452f9f68465a3fb5205b",
+          "sha256": "2e8ebbf27cac01a7052e4fc783c5faf5a1b23c0322952e3049150103e2b64f14",
           "wrap": {
             "spine": 1.019,
             "color": "#f0ece1",
@@ -2144,9 +2306,9 @@
           "sha256": "9796a61e4843b341f1d6c80a5607d8d91ec5c2be43353bee3a4f6ae6b8309554"
         },
         {
-          "bytes": 1103804,
+          "bytes": 1103805,
           "name": "religious-affections-v1.epub",
-          "sha256": "59f5a410eb57d1130a5172dd6163c3736e88a1af207b59966d54347a0eef3f6b"
+          "sha256": "a973aff9b843cc24c6799dcf9c16baf16c84cbeb3acc4693f5a29434902408da"
         },
         {
           "bytes": 2061802,
@@ -2182,14 +2344,14 @@
       "folder": "religious-affections",
       "title": "Religious Affections (Modern English)",
       "author": "Jonathan Edwards",
-      "version": "v1",
-      "lulu_revision": 1,
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied.",
       "based_on": "v1",
       "signed_off": {
-        "tag": "jonathan-edwards/religious-affections/modern/v1",
-        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
-        "date": "2026-11-22",
+        "tag": "jonathan-edwards/religious-affections/modern/v2",
+        "commit": "68bc44e41d279a9342b2ecd123d06ecc742dedbb",
+        "date": "2026-11-27",
         "signer": "Courtney",
         "note": "Based on: the Classic v1 (jonathan-edwards/religious-affections/v1).",
         "signature_verified": true
@@ -2201,9 +2363,9 @@
       "coverage": null,
       "files": [
         {
-          "bytes": 2985952,
-          "name": "religious-affections-v1-modern.pdf",
-          "sha256": "3d86f455e288204727a90ea29bbc9170c0349b940baf827022311205354e1abc",
+          "name": "religious-affections-v2-modern.pdf",
+          "bytes": 2991192,
+          "sha256": "da1b211a9792e25e34fb6bc410ef1b057512ea93e5c54b69949a8a6dc5c27ef1",
           "print": {
             "pages": 422,
             "width": 6.0,
@@ -2211,44 +2373,44 @@
           }
         },
         {
+          "name": "religious-affections-v2-cover-modern.pdf",
           "bytes": 790147,
-          "name": "religious-affections-v1-cover-modern.pdf",
-          "sha256": "b7b166f9913798890b3c62f31b6b2c749e9fbc5d34ed9c65df9b2ca95a7017f1",
+          "sha256": "2f7e29ed91d74f74f846ee6c9679f6b3769b96719ab41b5fad48b9c6b8a67204",
           "wrap": {
             "spine": 1.01,
             "color": "#f0ebe0",
-            "back": "religious-affections-v1-cover-modern-back.webp",
-            "spine_image": "religious-affections-v1-cover-modern-spine.webp",
-            "front": "religious-affections-v1-cover-modern-front.webp"
+            "back": "religious-affections-v2-cover-modern-back.webp",
+            "spine_image": "religious-affections-v2-cover-modern-spine.webp",
+            "front": "religious-affections-v2-cover-modern-front.webp"
           }
         },
         {
+          "name": "religious-affections-v2-cover-modern-front.png",
           "bytes": 528746,
-          "name": "religious-affections-v1-cover-modern-front.png",
           "sha256": "455916158ea28b97f3b3d2736ab999a827a7233bfbc8202f9ed26de235c7127a"
         },
         {
-          "bytes": 1102465,
-          "name": "religious-affections-v1-modern.epub",
-          "sha256": "09f022f8d5d2c828faefed617a1502be4d35c90fa050db5ab655786c55830a79"
+          "name": "religious-affections-v2-modern.epub",
+          "bytes": 1102466,
+          "sha256": "fd5cbd269976e4897f4cb3b73024dcb2e7bf34586639267432e8f399b3952100"
         },
         {
+          "name": "religious-affections-v2-modern-reader.html",
           "bytes": 2055942,
-          "name": "religious-affections-v1-modern-reader.html",
-          "sha256": "dd717adc8b620e17807430f2339d44dbccf3f252f83790b72d0d360283c8af5a"
+          "sha256": "1866ef9018cc33c459f1fcef8d7eecfd49a661c582c4d964405f99029b5f6d35"
         },
         {
-          "name": "religious-affections-v1-cover-modern-back.webp",
+          "name": "religious-affections-v2-cover-modern-back.webp",
           "bytes": 12816,
           "sha256": "f24ffba37e70d97631854c4c6b4fd743624480f784d6c5783437a8b93be91536"
         },
         {
-          "name": "religious-affections-v1-cover-modern-spine.webp",
+          "name": "religious-affections-v2-cover-modern-spine.webp",
           "bytes": 7048,
           "sha256": "0397773d614ba7687a363562463b0a53f40099431dd6771e3ff6ce42276f37a1"
         },
         {
-          "name": "religious-affections-v1-cover-modern-front.webp",
+          "name": "religious-affections-v2-cover-modern-front.webp",
           "bytes": 75006,
           "sha256": "2701163df3adf6e36e73c92fcc49e4b48fda2ca8f2c5a9e59f59d9eca06fe31e"
         }
@@ -2311,7 +2473,7 @@
         {
           "bytes": 394529,
           "name": "sinners-in-the-hands-of-an-angry-god-v10.pdf",
-          "sha256": "45e2b16c7740c216edb69e42339cc89ca01a7eaa28d97ceac186718c48f8ea02",
+          "sha256": "7d63702960d62d424e957e565a3d63827180d109e54c17d95785b4057196e462",
           "print": {
             "pages": 38,
             "width": 4.25,
@@ -2321,7 +2483,7 @@
         {
           "bytes": 98774,
           "name": "sinners-in-the-hands-of-an-angry-god-v10-cover.pdf",
-          "sha256": "9f5665ec1a8825d589e48bb0be356f5bae25a4acbfb2c9cb37e9ad2c29233bdc",
+          "sha256": "b352772cddbc3cc5a1836e89cfa28facebd3d4bd782fb14d0326dd0bb7e956e6",
           "wrap": {
             "spine": 0.146,
             "color": "#511e10",
@@ -2343,7 +2505,7 @@
         {
           "bytes": 280420,
           "name": "sinners-in-the-hands-of-an-angry-god-v10.epub",
-          "sha256": "4cb532a250ea045856bab8016bfae583a7931dca017ff85f8801bcdbe22511da"
+          "sha256": "15df80ed0b6f62a5ed211ff9111c696809fd8a72f29fc99bd448b0355badc950"
         },
         {
           "bytes": 412311,
@@ -2400,7 +2562,7 @@
         {
           "bytes": 414042,
           "name": "sinners-in-the-hands-of-an-angry-god-v2-modern.pdf",
-          "sha256": "4e52427d0629eb35f7e0e69f64f45e44cdb825e3e200b5cbdf6cbed52ffe63d4",
+          "sha256": "a5ff78262a707cfec3ed1991b20fb7f83c649e73f4c0b203dce5ad37a5aa940c",
           "print": {
             "pages": 38,
             "width": 4.25,
@@ -2410,7 +2572,7 @@
         {
           "bytes": 98976,
           "name": "sinners-in-the-hands-of-an-angry-god-v2-cover-modern.pdf",
-          "sha256": "5af4ba1417a1f20b7882df2be405640cd77ca2a613437134b606b465ae78d87f",
+          "sha256": "536e4cc9dabdf9a62f882c36374757281ea5fb38f51dc9214a18f81baee0fb0b",
           "wrap": {
             "spine": 0.146,
             "color": "#511e10",
@@ -2425,9 +2587,9 @@
           "sha256": "8fe4ce609b88e2472ca0896e3a762047e4710afb6376156609f3df2bcf6ddf45"
         },
         {
-          "bytes": 283757,
+          "bytes": 283758,
           "name": "sinners-in-the-hands-of-an-angry-god-v2-modern.epub",
-          "sha256": "1ff5d8751b4d45953a57eac1e310db0279b5935a8d42960889581151feb9b476"
+          "sha256": "6929e8e677a5ac9e593ffb21ad7c5ca8ab7f446b04ecb702dcbc8ced99845f9c"
         },
         {
           "bytes": 417391,
@@ -2512,7 +2674,7 @@
         {
           "bytes": 949332,
           "name": "the-glorious-feast-of-the-gospel-v16.pdf",
-          "sha256": "70bec04e47101d407d4a1a188dd722f0f4ce39e5610dc89f33852718841bb072",
+          "sha256": "4618a101094f2c43733f8b5ea11c52ac642d0455cee4c9d077a1533a1db2be76",
           "print": {
             "pages": 164,
             "width": 5.5,
@@ -2522,7 +2684,7 @@
         {
           "bytes": 132014,
           "name": "the-glorious-feast-of-the-gospel-v16-cover.pdf",
-          "sha256": "1d8291a60f4a95bbd3d8523e235a80fd31c860086828422919b896dcccabd421",
+          "sha256": "287f07da18b8b6419899c22b4251530c865d79afa4d0496b7bf9f5d87ab9aea8",
           "wrap": {
             "spine": 0.429,
             "color": "#5f203b",
@@ -2542,9 +2704,9 @@
           "sha256": "5efc2519ee6fc24b6811cd59fe50dc83ce33cdd117b5e8152898882e5ea985bb"
         },
         {
-          "bytes": 493981,
+          "bytes": 493980,
           "name": "the-glorious-feast-of-the-gospel-v16.epub",
-          "sha256": "b01af4f70194b43d680a6c4cf83fc9a28a38617816100eac21286bd04d27bf3a"
+          "sha256": "0381333704e2c4ad6fc922326a8713e0660e467c4d9e0976c110820db83bf60f"
         },
         {
           "bytes": 819327,
@@ -2601,7 +2763,7 @@
         {
           "bytes": 988384,
           "name": "the-glorious-feast-of-the-gospel-v1-modern.pdf",
-          "sha256": "20c0340d8ffadf5e9f6a5d6af0d140b308a188b336658dd4fbeeb3ecfb195040",
+          "sha256": "a1de46c5b54a7014a1a4d36e10033ac9e1cd8ba01230fa08cfdd4cef3fc089ee",
           "print": {
             "pages": 162,
             "width": 5.5,
@@ -2611,7 +2773,7 @@
         {
           "bytes": 134540,
           "name": "the-glorious-feast-of-the-gospel-v1-cover-modern.pdf",
-          "sha256": "eab34dbbc8d2a13c2a53122a964ffdac0ccbdb9244ea32df9be7bd07e232b244",
+          "sha256": "4c9292ba565deb20e74972ee4046ce0bf7cc982f14aa6986217e0dd294fe16e9",
           "wrap": {
             "spine": 0.425,
             "color": "#5f213c",
@@ -2628,7 +2790,7 @@
         {
           "bytes": 498629,
           "name": "the-glorious-feast-of-the-gospel-v1-modern.epub",
-          "sha256": "0480bec5bb9dc73b118e3bdc6be023a1901cd76ce099b85b6d383fbd11086a65"
+          "sha256": "5935ba1010266343dc31bf310d8d9c91b61fcdfc6a12e27f1e5601c8396c039b"
         },
         {
           "bytes": 827601,
@@ -2659,13 +2821,13 @@
       "folder": "the-crook-in-the-lot",
       "title": "The Crook in the Lot",
       "author": "Thomas Boston",
-      "version": "v2",
-      "lulu_revision": 2,
+      "version": "v3",
+      "lulu_revision": 3,
       "summary": "Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.",
       "signed_off": {
-        "tag": "thomas-boston/the-crook-in-the-lot/v2",
-        "commit": "2e1a14cd758b09d30d567d22ac9be7ddedcdec03",
-        "date": "2026-11-18",
+        "tag": "thomas-boston/the-crook-in-the-lot/v3",
+        "commit": "68bc44e41d279a9342b2ecd123d06ecc742dedbb",
+        "date": "2026-11-27",
         "signer": "Courtney",
         "note": "",
         "signature_verified": true
@@ -2721,66 +2883,66 @@
       },
       "files": [
         {
-          "bytes": 945379,
-          "name": "the-crook-in-the-lot-v2.pdf",
-          "sha256": "3fd5c82fcde4ebaf38051709ad29acf6d3d35b8c0b70f2626158e50e80a05ab2",
+          "name": "the-crook-in-the-lot-v3.pdf",
+          "bytes": 949694,
+          "sha256": "cb63505cbd17afcd3a9f5880f06306b26b6bd1f444477331b9d297233996f33e",
           "print": {
-            "pages": 133,
+            "pages": 131,
             "width": 5.5,
             "height": 8.5
           }
         },
         {
-          "bytes": 5721935,
-          "name": "the-crook-in-the-lot-v2-cover.pdf",
-          "sha256": "7506e7e8c118a4cf7cd66a9ec56b513ea477e0ca6ecece95069a6b5a10dc554e",
+          "name": "the-crook-in-the-lot-v3-cover.pdf",
+          "bytes": 5720357,
+          "sha256": "fa3989e315279a8ccc0d674b144cb7e831fde47ed3aad4f1c58a48c5589fde95",
           "wrap": {
-            "spine": 0.36,
+            "spine": 0.355,
             "color": "#e3dbd0",
-            "back": "the-crook-in-the-lot-v2-cover-back.webp",
-            "spine_image": "the-crook-in-the-lot-v2-cover-spine.webp",
-            "front": "the-crook-in-the-lot-v2-cover-front.webp"
+            "back": "the-crook-in-the-lot-v3-cover-back.webp",
+            "spine_image": "the-crook-in-the-lot-v3-cover-spine.webp",
+            "front": "the-crook-in-the-lot-v3-cover-front.webp"
           }
         },
         {
+          "name": "the-crook-in-the-lot-v3-cover-front.png",
           "bytes": 1329941,
-          "name": "the-crook-in-the-lot-v2-cover-front.png",
           "sha256": "3a7a64145b975ee819ef3c4377449c3dfdb59eee422b4440e381ac5165702f7b"
         },
         {
+          "name": "the-crook-in-the-lot-v3-cover-front.png",
           "bytes": 1329941,
-          "name": "the-crook-in-the-lot-v2-cover-front.png",
           "sha256": "3a7a64145b975ee819ef3c4377449c3dfdb59eee422b4440e381ac5165702f7b"
         },
         {
+          "name": "the-crook-in-the-lot-v3.epub",
           "bytes": 1634388,
-          "name": "the-crook-in-the-lot-v2.epub",
-          "sha256": "ec5f07f236be207a9d46b62a336e39bd208870a05b69e9b88a5caf6d464b2e26"
+          "sha256": "23065408e1f2ecb94c236ed8db4bf08473be837366096e3718616226563dcf1c"
         },
         {
+          "name": "the-crook-in-the-lot-v3-reader.html",
           "bytes": 2327529,
-          "name": "the-crook-in-the-lot-v2-reader.html",
-          "sha256": "5cdeca829cf9c9c07e64d7a97e3457c2a4d70abc52f475d14aa17540d7826f73"
+          "sha256": "6da57c13f8d0420667ff23f09bf8435dca453168c3ef46c76ea28b473da23b53"
         },
         {
+          "name": "the-crook-in-the-lot-v3-compare.html",
           "bytes": 1176053,
-          "name": "the-crook-in-the-lot-v2-compare.html",
-          "sha256": "17f723f5bcbb6dc5635dffd756dc13b24ed9c4d983a279957c4d3dfda19be4ae"
+          "sha256": "27eed97a058c8ddf46125f970344d961e6ab11a42021f754e2db0941cd98ee8c"
         },
         {
-          "name": "the-crook-in-the-lot-v2-cover-back.webp",
+          "name": "the-crook-in-the-lot-v3-cover-back.webp",
           "bytes": 12214,
           "sha256": "ffac08b8d8d342c7e6f7804afd4aeae50beccf67235a2302003834b76b61e0e2"
         },
         {
-          "name": "the-crook-in-the-lot-v2-cover-spine.webp",
-          "bytes": 4056,
-          "sha256": "321a174fcea28f4f30ce734277235027f9be03db35b4fa9bc02ebac1e85405a6"
+          "name": "the-crook-in-the-lot-v3-cover-spine.webp",
+          "bytes": 4216,
+          "sha256": "791df805640bf6b443c9cc3bcbace108f6aade27a64712d104fd6078cd04ca29"
         },
         {
-          "name": "the-crook-in-the-lot-v2-cover-front.webp",
-          "bytes": 193174,
-          "sha256": "fc0d55befeac59d0af72399521f9e5519197d7c939ea2d6e62285292ee4e76f7"
+          "name": "the-crook-in-the-lot-v3-cover-front.webp",
+          "bytes": 193080,
+          "sha256": "42f1dd0c4ed16f28d81f0b422785073b13ec7616b4c265bb13036f736f2bcb76"
         }
       ]
     },
@@ -2791,14 +2953,14 @@
       "folder": "the-crook-in-the-lot",
       "title": "The Crook in the Lot (Modern English)",
       "author": "Thomas Boston",
-      "version": "v1",
-      "lulu_revision": 1,
+      "version": "v2",
+      "lulu_revision": 2,
       "summary": "Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.",
       "based_on": "v2",
       "signed_off": {
-        "tag": "thomas-boston/the-crook-in-the-lot/modern/v1",
-        "commit": "c5dee0bf4f668d91adb22f81d69459462d91a3b9",
-        "date": "2026-11-22",
+        "tag": "thomas-boston/the-crook-in-the-lot/modern/v2",
+        "commit": "68bc44e41d279a9342b2ecd123d06ecc742dedbb",
+        "date": "2026-11-27",
         "signer": "Courtney",
         "note": "Based on: the Classic v2 (thomas-boston/the-crook-in-the-lot/v2).",
         "signature_verified": true
@@ -2810,56 +2972,56 @@
       "coverage": null,
       "files": [
         {
-          "bytes": 1004106,
-          "name": "the-crook-in-the-lot-v1-modern.pdf",
-          "sha256": "f6d8e89536fd86efd2443d58657df63205c5c386128b100a8db931ba1c0df784",
+          "name": "the-crook-in-the-lot-v2-modern.pdf",
+          "bytes": 1008248,
+          "sha256": "69e061e308c82a35d0940607f9d83e81794cf4098d7e8b173a3cf9da82c1630c",
           "print": {
-            "pages": 134,
+            "pages": 132,
             "width": 5.5,
             "height": 8.5
           }
         },
         {
-          "bytes": 1590250,
-          "name": "the-crook-in-the-lot-v1-cover-modern.pdf",
-          "sha256": "77f7c2e7355cd5d2cf48cc4034e86045d2b358cf434d8d892e365b96b3857dda",
+          "name": "the-crook-in-the-lot-v2-cover-modern.pdf",
+          "bytes": 1590249,
+          "sha256": "f15ea922e645cb251b26aa4933ff969e7a8ef67544173bde59ba7fdbb4984e33",
           "wrap": {
-            "spine": 0.362,
-            "color": "#e2dacf",
-            "back": "the-crook-in-the-lot-v1-cover-modern-back.webp",
-            "spine_image": "the-crook-in-the-lot-v1-cover-modern-spine.webp",
-            "front": "the-crook-in-the-lot-v1-cover-modern-front.webp"
+            "spine": 0.357,
+            "color": "#e2dad0",
+            "back": "the-crook-in-the-lot-v2-cover-modern-back.webp",
+            "spine_image": "the-crook-in-the-lot-v2-cover-modern-spine.webp",
+            "front": "the-crook-in-the-lot-v2-cover-modern-front.webp"
           }
         },
         {
+          "name": "the-crook-in-the-lot-v2-cover-modern-front.png",
           "bytes": 1331832,
-          "name": "the-crook-in-the-lot-v1-cover-modern-front.png",
           "sha256": "12148f348e3716f7b9cb88ffebf66d263a6cdf68ded85f67eef23f2d85b3949e"
         },
         {
-          "bytes": 1636971,
-          "name": "the-crook-in-the-lot-v1-modern.epub",
-          "sha256": "dfc0e2a8577495d37fd5e735916349d246420f4d2400dc705259a4eb74527034"
+          "name": "the-crook-in-the-lot-v2-modern.epub",
+          "bytes": 1636972,
+          "sha256": "3382e094beb03c8d0ae30059c565480e22ec828d080e4461283f9332804d2ad7"
         },
         {
+          "name": "the-crook-in-the-lot-v2-modern-reader.html",
           "bytes": 2336925,
-          "name": "the-crook-in-the-lot-v1-modern-reader.html",
-          "sha256": "ad04974c38651488be3fb611e5f6772d75a0cf78e42466f01f6104e2fb3a5663"
+          "sha256": "c53a1a6470cf4147ab0c3fe9ab1f15ab77dd90010dbe0fad247199124e8ee758"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover-modern-back.webp",
+          "name": "the-crook-in-the-lot-v2-cover-modern-back.webp",
           "bytes": 12250,
           "sha256": "ebdc5aa60ed45c99c780c047fda2b555ee5176cdc34b3d21d6ebc5e174ece170"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover-modern-spine.webp",
-          "bytes": 5206,
-          "sha256": "fbc676e1753fafab2961cacf5a8c7850aeec1d2407d72d7d84aa0b6168288047"
+          "name": "the-crook-in-the-lot-v2-cover-modern-spine.webp",
+          "bytes": 5192,
+          "sha256": "96bc1824af2e7bc69ec301e4ad0d26751e130bcad0927fada92ca4b92b2f55f1"
         },
         {
-          "name": "the-crook-in-the-lot-v1-cover-modern-front.webp",
-          "bytes": 192468,
-          "sha256": "46fa5ba51044a03d9ad0698e8291093bebd8c18c333609d653147f0c6e46a17d"
+          "name": "the-crook-in-the-lot-v2-cover-modern-front.webp",
+          "bytes": 192384,
+          "sha256": "d8c5e24b4ce01033c1d154486f5665f72088f47c200547b81cdf5fcfe561dbbf"
         }
       ]
     },
@@ -2932,7 +3094,7 @@
         {
           "bytes": 3272736,
           "name": "precious-remedies-against-satans-devices-v3.pdf",
-          "sha256": "06e42334d35c6c63b3566f2007c28135a7b50e5dd41a51992b01b26dbe1ffaa4",
+          "sha256": "965b4529903b1685da236cf49b9c3f01a41342a94b05090ef4325f3fc752be9a",
           "print": {
             "pages": 348,
             "width": 5.5,
@@ -2942,7 +3104,7 @@
         {
           "bytes": 1487621,
           "name": "precious-remedies-against-satans-devices-v3-cover.pdf",
-          "sha256": "c27f525ddfd8ccfc483e6ef1babbfae8d06c13e6c36db2e95aac438a0b6850d4",
+          "sha256": "c888955d1d340609cb13cf6844cdb8819119c2669b82e573ad0a1326df419cb4",
           "wrap": {
             "spine": 0.844,
             "color": "#cbdcd6",
@@ -2964,7 +3126,7 @@
         {
           "bytes": 860159,
           "name": "precious-remedies-against-satans-devices-v3.epub",
-          "sha256": "67cc0ee61502c8c85bd25f222e184d49c5914c9cf39c0739e30b391572dbff85"
+          "sha256": "5d9e7729a054abb253ab321a2fd4c3db22c0f24a2991d5685204fed759b5275d"
         },
         {
           "bytes": 1531891,
@@ -3021,7 +3183,7 @@
         {
           "bytes": 3211631,
           "name": "precious-remedies-against-satans-devices-v1-modern.pdf",
-          "sha256": "4998ef8c72836049fc40b3d641ebef75356a891b4b700be01779ce3ec5e12d44",
+          "sha256": "c6b0658190cc20eb98834dd97c5f6d26976baff147a7a6b33dd4e3a38cbbe26b",
           "print": {
             "pages": 348,
             "width": 5.5,
@@ -3031,7 +3193,7 @@
         {
           "bytes": 1348757,
           "name": "precious-remedies-against-satans-devices-v1-cover-modern.pdf",
-          "sha256": "c779d9bd9015077174e3f6e4864cc215be8324308edc94f140a5e070c67e550f",
+          "sha256": "6c62053d5692d0c9adf1a98199fb46fd00e77e1ebe10218c2877cfa07f3946eb",
           "wrap": {
             "spine": 0.844,
             "color": "#cbdbd5",
@@ -3048,7 +3210,7 @@
         {
           "bytes": 860844,
           "name": "precious-remedies-against-satans-devices-v1-modern.epub",
-          "sha256": "84ee5f2d6c0bce807ca0f9ae91c22d424304d1a7468fa8e960aa9687184dd035"
+          "sha256": "54e8a2f0fbe7f066cb1bf6e3c0a92471e3e53fed3d6a01a27da37b47a59fcfd2"
         },
         {
           "bytes": 1528167,
@@ -3137,7 +3299,7 @@
         {
           "bytes": 1508537,
           "name": "the-secret-key-of-heaven-v9.pdf",
-          "sha256": "eaa31a9355fcf8997393fc76add675409bb95e462b138b65f1aac9ad49d1ca94",
+          "sha256": "b5ea7edd320c91ddad305572e232d8a85f8680450d7a42b743a7e015e40401f1",
           "print": {
             "pages": 293,
             "width": 5.5,
@@ -3147,7 +3309,7 @@
         {
           "bytes": 123866,
           "name": "the-secret-key-of-heaven-v9-cover.pdf",
-          "sha256": "5fbaa7fa77f759156acc058bc89bff90a894d317affdc16ef23bc8742319bc86",
+          "sha256": "f78d1318d7907ceb80a6e24487c23796af456bb8a56f027da71c4fa80d37f608",
           "wrap": {
             "spine": 0.72,
             "color": "#c38e2c",
@@ -3169,7 +3331,7 @@
         {
           "bytes": 454829,
           "name": "the-secret-key-of-heaven-v9.epub",
-          "sha256": "36d87bedf92f362b7cd245fcf388acde91cd871f37d3651fdd77719d4cd1debf"
+          "sha256": "7e332273f1d402dde91815d4b71dd589befb04f03dfb9f2be7eaae36b210a5be"
         },
         {
           "bytes": 852237,
@@ -3226,7 +3388,7 @@
         {
           "bytes": 1661143,
           "name": "the-secret-key-of-heaven-v1-modern.pdf",
-          "sha256": "07142f1bcf3f78063a733ef4f843f952ef030da92e07a01f63097aff2138e2b1",
+          "sha256": "5ba077712187f222585ee69967ae0bb4c53e1a60164f4f72fe3ca70b6509452f",
           "print": {
             "pages": 294,
             "width": 5.5,
@@ -3236,7 +3398,7 @@
         {
           "bytes": 126645,
           "name": "the-secret-key-of-heaven-v1-cover-modern.pdf",
-          "sha256": "53f14077610269752644f510ed0cdae6f6738e36908045bdd75f4c4fc5e4c75f",
+          "sha256": "077121d1f667511124cf7215c71ab90cb9d953bfa0fad7cbb6a419dc57e77a09",
           "wrap": {
             "spine": 0.722,
             "color": "#c28e2c",
@@ -3253,7 +3415,7 @@
         {
           "bytes": 458065,
           "name": "the-secret-key-of-heaven-v1-modern.epub",
-          "sha256": "9d8ac8a138a04ad192588815736f3b581fa3f81dbfb978ef2390e7e36856531b"
+          "sha256": "8f52a2e1f5f7230f5a8b90311ba67af9b1cef6860bf4af290dd553d27feec3e0"
         },
         {
           "bytes": 861835,
@@ -3334,7 +3496,7 @@
         {
           "bytes": 855196,
           "name": "the-surest-way-of-thriving-v2.pdf",
-          "sha256": "c8aca65dd67ac6fd734393c919b7c86dcf1ec03b6f0d28f0734cbb8e302a6ee9",
+          "sha256": "ba248c3c87a300bce28b63c93d4479a8deb8c8ffd10bff30726630099812be1e",
           "print": {
             "pages": 101,
             "width": 5.5,
@@ -3344,7 +3506,7 @@
         {
           "bytes": 2619022,
           "name": "the-surest-way-of-thriving-v2-cover.pdf",
-          "sha256": "84460cb2c8cbf515620dab77d830061a2381e8b939f1102d846df9e3ce154009",
+          "sha256": "aa76070c0de3daa92e0afc62cf67289e59e44f23b026bbd530856bd79b08c772",
           "wrap": {
             "spine": 0.287,
             "color": "#2e3321",
@@ -3366,7 +3528,7 @@
         {
           "bytes": 1121974,
           "name": "the-surest-way-of-thriving-v2.epub",
-          "sha256": "a7c8cc7d29d428e81ac0e28bfa276bd85570ef06744178221bbea18e0e909924"
+          "sha256": "f7ff4346c92c8a73bb3e8b3161c880db31d55ace905a05d6e4942ddc8b3ea49f"
         },
         {
           "bytes": 1607177,
@@ -3423,7 +3585,7 @@
         {
           "bytes": 913959,
           "name": "the-surest-way-of-thriving-v2-modern.pdf",
-          "sha256": "9c66941d47fcffb7a6e3b880e50cef7fb44dcd7d8a3f9a2965bcf3d89a0980db",
+          "sha256": "64d791dca1d701258366ab0dd08646fcc26211c30278ce4304d80870b2a67054",
           "print": {
             "pages": 101,
             "width": 5.5,
@@ -3433,7 +3595,7 @@
         {
           "bytes": 2621287,
           "name": "the-surest-way-of-thriving-v2-cover-modern.pdf",
-          "sha256": "f19bf501a905127d97d7984c6a044b6d9f6cd8b5327c68d5d43befa311e4871b",
+          "sha256": "873f1bc6e4a9eee027da8f72f35fee22ddfd9dc9ca24f688950251855a69e980",
           "wrap": {
             "spine": 0.287,
             "color": "#2e3321",
@@ -3450,7 +3612,7 @@
         {
           "bytes": 1124969,
           "name": "the-surest-way-of-thriving-v2-modern.epub",
-          "sha256": "e503ddfb295103674f913d0559312366c162466fdee37c8c00da16ba3c11b185"
+          "sha256": "7e523da11323e94d34f91513b68fdfb92882022c648c3f5de8dfbc910cfa2140"
         },
         {
           "bytes": 1613468,
@@ -3547,7 +3709,7 @@
         {
           "bytes": 1388835,
           "name": "a-divine-cordial-v3.pdf",
-          "sha256": "7e1ff299c5e8ec84cb741e2c95ea1fd2eefd90b62c344f0e62b52565e98b5c7b",
+          "sha256": "0dc6c1a84a9ec2414a2a8f896c08b86484307f48039daed6b8f2ad104542f153",
           "print": {
             "pages": 152,
             "width": 5.5,
@@ -3557,7 +3719,7 @@
         {
           "bytes": 1841882,
           "name": "a-divine-cordial-v3-cover.pdf",
-          "sha256": "e86a9169d2eb7ddc75e5117403f8a0611066e9c156f2ecca31a66e18695561d9",
+          "sha256": "3f49461358458b425ae6457d00866c4bfc7ef096215735a03f102cb0d3fbb68e",
           "wrap": {
             "spine": 0.402,
             "color": "#c1d4cf",
@@ -3579,7 +3741,7 @@
         {
           "bytes": 868783,
           "name": "a-divine-cordial-v3.epub",
-          "sha256": "d97ac61f2f8e750ef54f54efbb462a32787a409a04cad7b0854514a580bef0c9"
+          "sha256": "7483911a1ccc6e4986311e1f4196a52ed7529bc079f8dfdf4495c50ecdda89d4"
         },
         {
           "bytes": 1321428,
@@ -3636,7 +3798,7 @@
         {
           "bytes": 1389155,
           "name": "a-divine-cordial-v2-modern.pdf",
-          "sha256": "4e843eed22869edb9672bee82d076a3a1dec8673e71a167e0207f98f0e17c652",
+          "sha256": "6a1762c4c8f48fcf7f6075a87ca3a661b2f68b41009a271c87e942c685c5a7f1",
           "print": {
             "pages": 158,
             "width": 5.5,
@@ -3646,7 +3808,7 @@
         {
           "bytes": 625347,
           "name": "a-divine-cordial-v2-cover-modern.pdf",
-          "sha256": "f00c5177cc462101f04c0fbb258db388eb5252b6c307ca91a02e7ae2aa46b6ab",
+          "sha256": "48a744f665ee16b9dbedbac3ff102cb063097f9cdbb586d319715d0ff6f88f55",
           "wrap": {
             "spine": 0.416,
             "color": "#c1d3ce",
@@ -3661,9 +3823,9 @@
           "sha256": "75305119f1772c695f86d889598a03680cb6ca8d629af506c179c5e4c43306db"
         },
         {
-          "bytes": 874735,
+          "bytes": 874737,
           "name": "a-divine-cordial-v2-modern.epub",
-          "sha256": "73cc11d4658395ef65b0a62c21daa1655d9eb7992f60a61cd83533afb1af8eb6"
+          "sha256": "b30f6b8bbd4cc8e4fa1091b57c983e3d7742f655eab8da30123feaea809b61f1"
         },
         {
           "bytes": 1333183,
@@ -3762,7 +3924,7 @@
         {
           "bytes": 3387127,
           "name": "domestical-duties-v4-vol-1.pdf",
-          "sha256": "8b94b7561f066239bf15af77aeb765c73d72f4a4905b1b49808f28ae6bdb8da7",
+          "sha256": "f1e811600e9dfc1536845e3a9ff32c0e5a75353759d544e143e818c101b6913e",
           "print": {
             "pages": 235,
             "width": 5.5,
@@ -3772,7 +3934,7 @@
         {
           "bytes": 4352134,
           "name": "domestical-duties-v4-vol-2.pdf",
-          "sha256": "3b70af905f242b9a1631ccc85f66f718b5bad241464887987690f88c2f975e03",
+          "sha256": "331f464f4bff4a194b031df4e3cc5ff34791e229ca5fbb081c38e44191482e51",
           "print": {
             "pages": 344,
             "width": 5.5,
@@ -3782,7 +3944,7 @@
         {
           "bytes": 2976076,
           "name": "domestical-duties-v4-vol-3.pdf",
-          "sha256": "d782c0ba309664befd38e225690d6c8c42dfea51d74402d92b02cb84e259d3c1",
+          "sha256": "ecb1b411904ac50ce808fa6d3776e37aba27fccd66ab2116a7c0fd60183afa7e",
           "print": {
             "pages": 232,
             "width": 5.5,
@@ -3792,7 +3954,7 @@
         {
           "bytes": 2360690,
           "name": "domestical-duties-v4-vol-4.pdf",
-          "sha256": "88f5799c7f85a1a9d17812f43bed7e767eaf9145537baf9a64d6786adc6654e9",
+          "sha256": "e9d0eb4a1a264ea8a71d6df62d05cc8cdb7cede3c479ee84b42fb2e2e0ae46ee",
           "print": {
             "pages": 179,
             "width": 5.5,
@@ -3802,7 +3964,7 @@
         {
           "bytes": 135783,
           "name": "domestical-duties-v4-cover-vol-1.pdf",
-          "sha256": "ab9d4ebdab32faaad6c37dec7bb28b9de07abdc67129c3908e916c46b8cf41d2",
+          "sha256": "bdc38a75621bfbae508883331f794f7ae25a54aacecac5541b83760a70cb75dc",
           "wrap": {
             "spine": 0.589,
             "color": "#ede9d4",
@@ -3814,7 +3976,7 @@
         {
           "bytes": 136114,
           "name": "domestical-duties-v4-cover-vol-2.pdf",
-          "sha256": "6c215c0de17af377e3a9241a87d05644c0a13fc0f8e2e67637973904dffcaa87",
+          "sha256": "2fcb9a34938b634cc7b90917cad16cc1efb0a91f56ba6627e4a6e9bae7fca085",
           "wrap": {
             "spine": 0.835,
             "color": "#e9e2ca",
@@ -3826,7 +3988,7 @@
         {
           "bytes": 134617,
           "name": "domestical-duties-v4-cover-vol-3.pdf",
-          "sha256": "f44bd7a1477658df70f8421ac8726539cf08cb7d3bc6cc7003f84cadb41fc1e6",
+          "sha256": "a33bd63538ba19f17e2f7d1518b00fdcb3067c326237e15ec40e4cb84277e566",
           "wrap": {
             "spine": 0.583,
             "color": "#e3dbbf",
@@ -3838,7 +4000,7 @@
         {
           "bytes": 134935,
           "name": "domestical-duties-v4-cover-vol-4.pdf",
-          "sha256": "c42486f9fb11baeb4f2ab54d33442e9b7174b936b9c41c973e1cbc45b8ff56c1",
+          "sha256": "65c3f0b54c56c6936563dfca3b19c26d528367f9a106cbe6042c57cf4aa73db0",
           "wrap": {
             "spine": 0.463,
             "color": "#ddd3b4",
@@ -3875,7 +4037,7 @@
         {
           "bytes": 514790,
           "name": "domestical-duties-v4-vol-1.epub",
-          "sha256": "ca55ae218de28709b3dae2f027c3abe5769f2bbefe401bb99243a05497faa969"
+          "sha256": "062335e029b15ed8c2bed471ccd02f52625d5c64b07628edb1c826d9efdd8a7e"
         },
         {
           "bytes": 131319,
@@ -3885,7 +4047,7 @@
         {
           "bytes": 621825,
           "name": "domestical-duties-v4-vol-2.epub",
-          "sha256": "3dc12e099b4a07bd67a18c5db4f473d6cb541553e541024349c690d9b48f716c"
+          "sha256": "72593e1dcdb940b49f48b8b7349d9e5712104577986b7c58a6438ef77e0a6ea6"
         },
         {
           "bytes": 111862,
@@ -3895,7 +4057,7 @@
         {
           "bytes": 500504,
           "name": "domestical-duties-v4-vol-3.epub",
-          "sha256": "2aaa7daa815495e74acdd1410bca0c8d405e0d769e7b8ca1962524599748dea2"
+          "sha256": "31d8207761c29198c6f867a06a9b93586d38211be7a0788db9b66265c198c72b"
         },
         {
           "bytes": 110478,
@@ -3903,9 +4065,9 @@
           "sha256": "8945748145be9b3657b2aefaab0a4e860e8aa1a7ea34d601804fb8f1c4b29d17"
         },
         {
-          "bytes": 456751,
+          "bytes": 456752,
           "name": "domestical-duties-v4-vol-4.epub",
-          "sha256": "2c80c10e165fa9929beb62eeb1d27405930fd61480d05f7f824d7a2c80ac94e4"
+          "sha256": "55e58cbdb04377734b64927b0e4ee28e74055086c3d42714ce40df3546818af7"
         },
         {
           "bytes": 1087984,
@@ -4037,7 +4199,7 @@
         {
           "bytes": 3316108,
           "name": "domestical-duties-v1-vol-1-modern.pdf",
-          "sha256": "cbc15c14ffa1c47c87ca69e05abcbb930bfc5969b4044719290d45d507265f7d",
+          "sha256": "4df06349872d9e76e9fcb47a17ca50ad177c286c656a38d8923e4add7d414069",
           "print": {
             "pages": 235,
             "width": 5.5,
@@ -4047,7 +4209,7 @@
         {
           "bytes": 4248274,
           "name": "domestical-duties-v1-vol-2-modern.pdf",
-          "sha256": "7e38397dcfbaf0aa05f81ee61c244cce417a09d5959373bcf30a1070c1d0c2c6",
+          "sha256": "b604452cf54d081aa3d8ec7ffeb564a75931e3fbd6fed31f722d3c8d19d3a525",
           "print": {
             "pages": 350,
             "width": 5.5,
@@ -4057,7 +4219,7 @@
         {
           "bytes": 2899095,
           "name": "domestical-duties-v1-vol-3-modern.pdf",
-          "sha256": "3374995a3bfb450ca2c64b8bce22eb0a4ede01c98e5ab3a8ca43648caa514c43",
+          "sha256": "66a5e6d2586c479c4a592cf90c79ce1072ee5a28c4cf7be978b897e832cc5c7c",
           "print": {
             "pages": 234,
             "width": 5.5,
@@ -4067,7 +4229,7 @@
         {
           "bytes": 2295486,
           "name": "domestical-duties-v1-vol-4-modern.pdf",
-          "sha256": "c35b22351b97c729970c69216e1d121e9a8b0ed9bf47435c25b2b72a5abd6226",
+          "sha256": "b8b6e76f0c31de1813d27a045648692105eb848d005263c0881a27cfd7777402",
           "print": {
             "pages": 179,
             "width": 5.5,
@@ -4077,7 +4239,7 @@
         {
           "bytes": 137442,
           "name": "domestical-duties-v1-cover-vol-1-modern.pdf",
-          "sha256": "63ddb4294bdb04d06b22eb09e4824931750e6e17c4bc67bb6ba7789d7967211c",
+          "sha256": "0b195216d68750680209ee339a9546ff0e1b26b7af58d7e906b24cb2d6616e27",
           "wrap": {
             "spine": 0.589,
             "color": "#ede9d4",
@@ -4089,7 +4251,7 @@
         {
           "bytes": 137263,
           "name": "domestical-duties-v1-cover-vol-2-modern.pdf",
-          "sha256": "768a933c8e076ab42944a371d33e3a46957e2f5c25f0fd637131d320df996f9c",
+          "sha256": "69897ad925c84ec35a9b8f7351e8f3d797ebeeab632b8cb87234b87d139b4181",
           "wrap": {
             "spine": 0.848,
             "color": "#e9e2ca",
@@ -4101,7 +4263,7 @@
         {
           "bytes": 135359,
           "name": "domestical-duties-v1-cover-vol-3-modern.pdf",
-          "sha256": "5f467d3b549ca9f8417d7f2b777da04d95e145e2bd999f862364e5906a20f4fd",
+          "sha256": "06676e0c8a5d2715ed69316abfdadf4532f0b62de01a2fe5c2da9b2c8f59e29f",
           "wrap": {
             "spine": 0.587,
             "color": "#e2dbbe",
@@ -4113,7 +4275,7 @@
         {
           "bytes": 135893,
           "name": "domestical-duties-v1-cover-vol-4-modern.pdf",
-          "sha256": "5b288674c4ceeccc3eedc5546a769470756a251888df289684e668f263597684",
+          "sha256": "3e9356cec633e1584b1b7e8b1dd0f22a2df798467e3338e1f49582af1e5d7856",
           "wrap": {
             "spine": 0.463,
             "color": "#ddd3b3",
@@ -4130,7 +4292,7 @@
         {
           "bytes": 520924,
           "name": "domestical-duties-v1-vol-1-modern.epub",
-          "sha256": "6cab0da758970a04a74a52466c3e079640124cd1d1518e4109409f370472b9a8"
+          "sha256": "e11c3ec1fbcb81d921fb8e27cd4d756d248db6ea59e457c8b5e257a5a54d21c8"
         },
         {
           "bytes": 135971,
@@ -4140,7 +4302,7 @@
         {
           "bytes": 628734,
           "name": "domestical-duties-v1-vol-2-modern.epub",
-          "sha256": "ed6da90164793fc1094945c96dc9f21027e8043af8a6ac005988f789cc5120d8"
+          "sha256": "b6fa82854dd184baacea5557cb27724a25fbfffbc6c2e3486c5c8e34bad048f7"
         },
         {
           "bytes": 116572,
@@ -4150,7 +4312,7 @@
         {
           "bytes": 506801,
           "name": "domestical-duties-v1-vol-3-modern.epub",
-          "sha256": "dec7e30d013998cc638bb03184207b3a930cf7ff6f37fd621b6385bd2c9b1109"
+          "sha256": "9657a6a5a1eae5ca87f7cff92e63e4000234cec3ca15453fb2681ec92ff42ed6"
         },
         {
           "bytes": 114888,
@@ -4158,9 +4320,9 @@
           "sha256": "6e25a1b40c65d7452ee837dacbb816a5169933bf0d2db8e3e2624941d056d4a2"
         },
         {
-          "bytes": 461611,
+          "bytes": 461612,
           "name": "domestical-duties-v1-vol-4-modern.epub",
-          "sha256": "f69637c0f8b4a3dca5f4871e65021fda8d9b26b73fb5a97a4f4b0427efcf42ad"
+          "sha256": "2e5b42a01027216610bce6d45afd70ca9e22f9c2501ddc1dfb276797d8583897"
         },
         {
           "bytes": 1095213,
@@ -4307,7 +4469,7 @@
         {
           "bytes": 996510,
           "name": "christian-economy-v5.pdf",
-          "sha256": "1e3fe065df307cecc42e0042dada20dac6d485c26293ca3885d124e2699eaae4",
+          "sha256": "e9ba89b9b0d4df5b20cbfc2cdcdd81f0ced7237a483ed1a9c9048ce73a0cc7e3",
           "print": {
             "pages": 124,
             "width": 5.5,
@@ -4317,7 +4479,7 @@
         {
           "bytes": 2923387,
           "name": "christian-economy-v5-cover.pdf",
-          "sha256": "e5bcd380db152e4dc4798d619185e1f024a3c00b175fb000f6e6efcffb66d011",
+          "sha256": "ac33a2c7d7d9c067bc4c41abc7d99b5e6e6c1ad4abadcf5292a53f855a544cdd",
           "wrap": {
             "spine": 0.339,
             "color": "#eadee3",
@@ -4337,9 +4499,9 @@
           "sha256": "d0ad1560dce88f7f9c22f3e967db9fc9cd1d945a9b34f986ea13d9bfab7250c8"
         },
         {
-          "bytes": 1141829,
+          "bytes": 1141830,
           "name": "christian-economy-v5.epub",
-          "sha256": "c3a78d0854747fea2e056c2d125d62e27a1eb017d3a26deb92ee5dd145f6679c"
+          "sha256": "40a21389f5776f7532d87c48916d0922af356947e0a26bb1f57d5c3ab906a95b"
         },
         {
           "bytes": 1635339,
@@ -4396,7 +4558,7 @@
         {
           "bytes": 934687,
           "name": "christian-economy-v1-modern.pdf",
-          "sha256": "de54e711d1ca39cfb25dc494a570c2369687c93216bec3011b98df60bae9cf7f",
+          "sha256": "98d135b26a3d8563dc4cc2234823a307df5980f1bb71410bc979f69d3621029c",
           "print": {
             "pages": 124,
             "width": 5.5,
@@ -4406,7 +4568,7 @@
         {
           "bytes": 1622204,
           "name": "christian-economy-v1-cover-modern.pdf",
-          "sha256": "61df58f7a3ede0ff5c90a103b3002130f0af6015172174ac05a294867b57f54d",
+          "sha256": "3e5e09655d1c0d3f30136f9a882972d8ef310a823b95162495e6902e54cafa77",
           "wrap": {
             "spine": 0.339,
             "color": "#e9dde2",
@@ -4421,9 +4583,9 @@
           "sha256": "dee94c58c099803fe135483874741f40eceb8bd6941d0ec01622c4135e3d753f"
         },
         {
-          "bytes": 1144218,
+          "bytes": 1144217,
           "name": "christian-economy-v1-modern.epub",
-          "sha256": "472bfa9d7626e70b672437a0c3597d913470a1b633752585f966a7aa3df30f26"
+          "sha256": "7d9fb2a0509441c117cc3a52d9c2740886f50dd935ab0897319f102cf3083031"
         },
         {
           "bytes": 1636862,

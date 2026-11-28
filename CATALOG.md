@@ -1,4 +1,4 @@
-# Freely Given Books: release 2026.11.24.2
+# Freely Given Books: release 2026.11.27
 
 Get it: `git clone --recursive -b stable https://github.com/freely-given-books/books.git`, then `./fgb build`.
 
@@ -22,7 +22,7 @@ git diff --stat <author>/<book>/vN stable -- books/<author>/<book>   # that edit
 sha256sum -c SHA256SUMS                                         # the downloads
 ```
 
-Built with colophon 0.65.0.
+Built with colophon 0.65.1.
 
 | Book | Author | Edition | Version | Signed off |
 | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Built with colophon 0.65.0.
 | [All of Grace (Modern English)](#all-of-grace-modern-english) | Charles Spurgeon | Modern English | v2 | 2026-11-22 |
 | [Grace Abounding to the Chief of Sinners](#grace-abounding-to-the-chief-of-sinners) | John Bunyan | Classic | v3 | 2026-11-18 |
 | [Grace Abounding to the Chief of Sinners (Modern English)](#grace-abounding-to-the-chief-of-sinners-modern-english) | John Bunyan | Modern English | v2 | 2026-11-22 |
-| [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | Classic | v16 | 2026-11-18 |
+| [The Pilgrim's Progress](#the-pilgrims-progress) | John Bunyan | Classic | v17 | 2026-11-27 |
 | [The Pilgrim's Progress (Modern English)](#the-pilgrims-progress-modern-english) | John Bunyan | Modern English | v1 | 2026-11-22 |
 | [Institutes of the Christian Religion](#institutes-of-the-christian-religion) | John Calvin | Classic | v1.1 (between Lulu revisions) | 2026-11-24 |
 | [Indwelling Sin](#indwelling-sin) | John Owen | Classic | v3 | 2026-11-22 |
@@ -41,17 +41,17 @@ Built with colophon 0.65.0.
 | [Of Temptation (Modern English)](#of-temptation-modern-english) | John Owen | Modern English | v1 | 2026-11-22 |
 | [Owen on Sin](#owen-on-sin) | John Owen | Classic | v2 | 2026-11-22 |
 | [Owen on Sin (Modern English)](#owen-on-sin-modern-english) | John Owen | Modern English | v1 | 2026-11-22 |
-| [The Death of Death in the Death of Christ](#the-death-of-death-in-the-death-of-christ) | John Owen | Classic | v2 | 2026-11-18 |
+| [The Death of Death in the Death of Christ](#the-death-of-death-in-the-death-of-christ) | John Owen | Classic | v3 | 2026-11-27 |
 | [The Mortification of Sin](#the-mortification-of-sin) | John Owen | Classic | v4 | 2026-11-22 |
 | [The Mortification of Sin (Modern English)](#the-mortification-of-sin-modern-english) | John Owen | Modern English | v1 | 2026-11-22 |
 | [Religious Affections](#religious-affections) | Jonathan Edwards | Classic | v1 | 2026-11-22 |
-| [Religious Affections (Modern English)](#religious-affections-modern-english) | Jonathan Edwards | Modern English | v1 | 2026-11-22 |
+| [Religious Affections (Modern English)](#religious-affections-modern-english) | Jonathan Edwards | Modern English | v2 | 2026-11-27 |
 | [Sinners in the Hands of an Angry God](#sinners-in-the-hands-of-an-angry-god) | Jonathan Edwards | Classic | v10 | 2026-11-18 |
 | [Sinners in the Hands of an Angry God (Modern English)](#sinners-in-the-hands-of-an-angry-god-modern-english) | Jonathan Edwards | Modern English | v2 | 2026-11-22 |
 | [The Glorious Feast of the Gospel](#the-glorious-feast-of-the-gospel) | Richard Sibbes | Classic | v16 | 2026-11-22 |
 | [The Glorious Feast of the Gospel (Modern English)](#the-glorious-feast-of-the-gospel-modern-english) | Richard Sibbes | Modern English | v1 | 2026-11-22 |
-| [The Crook in the Lot](#the-crook-in-the-lot) | Thomas Boston | Classic | v2 | 2026-11-18 |
-| [The Crook in the Lot (Modern English)](#the-crook-in-the-lot-modern-english) | Thomas Boston | Modern English | v1 | 2026-11-22 |
+| [The Crook in the Lot](#the-crook-in-the-lot) | Thomas Boston | Classic | v3 | 2026-11-27 |
+| [The Crook in the Lot (Modern English)](#the-crook-in-the-lot-modern-english) | Thomas Boston | Modern English | v2 | 2026-11-27 |
 | [Precious Remedies Against Satan’s Devices](#precious-remedies-against-satans-devices) | Thomas Brooks | Classic | v3 | 2026-11-18 |
 | [Precious Remedies Against Satan’s Devices (Modern English)](#precious-remedies-against-satans-devices-modern-english) | Thomas Brooks | Modern English | v1 | 2026-11-22 |
 | [The Secret Key of Heaven](#the-secret-key-of-heaven) | Thomas Brooks | Classic | v9 | 2026-11-22 |
@@ -181,14 +181,14 @@ Bunyan's Grace Abounding to the Chief of Sinners in the words and italics of the
 Bunyan's Pilgrim's Progress, both parts, as CCEL gives it (Logos's text of the 1853 Auburn edition), with CCEL's slips and lost words corrected against the first edition of Part I (1678) and a 1732 printing of Part II.
 
 - folder: `books/john-bunyan/the-pilgrims-progress`
-- version v16: tag `john-bunyan/the-pilgrims-progress/v16`, signed off 2026-11-18 by Courtney
+- version v17: tag `john-bunyan/the-pilgrims-progress/v17`, signed off 2026-11-27 by Courtney
 - template: fgbooks 0.14.0
-- print: Lulu revision 16 of this paperback
+- print: Lulu revision 17 of this paperback
 - source: CCEL ThML: John Bunyan, The Pilgrim's Progress, Parts I and II (Logos's text of the 1853 Auburn edition) <https://www.ccel.org/ccel/b/bunyan/pilgrim.xml>, `source/pilgrim.thml.xml` (sha256 `1ebdfd4db68990f3…`)
 - source: EEBO-TCP A30170: The Pilgrim's Progress (London, Nath. Ponder, 1678), the first edition of Part I, a witness: source/witness-report.md <https://github.com/textcreationpartnership/A30170>, `source/A30170.witness.xml` (sha256 `14c3c96cab3e5a57…`)
 - witness: The Pilgrim's Progress, Part II (London, 1732), archive.org scan, checked for Part II: source/proofread-report.md <https://archive.org/details/bim_eighteenth-century_the-pilgrims-progress-_bunyan-john_1732>
 - witness: biblebb.com's Pilgrim's Progress Part 2, a modern copy, compared only
-- files: `the-pilgrims-progress-v16.pdf`, `the-pilgrims-progress-v16-cover.pdf`, `the-pilgrims-progress-v16-cover-front.png`, `the-pilgrims-progress-v16-cover-front.png`, `the-pilgrims-progress-v16.epub`, `the-pilgrims-progress-v16-reader.html`, `the-pilgrims-progress-v16-compare.html`, `the-pilgrims-progress-v16-cover-back.webp`, `the-pilgrims-progress-v16-cover-spine.webp`, `the-pilgrims-progress-v16-cover-front.webp`
+- files: `the-pilgrims-progress-v17.pdf`, `the-pilgrims-progress-v17-cover.pdf`, `the-pilgrims-progress-v17-cover-front.png`, `the-pilgrims-progress-v17-cover-front.png`, `the-pilgrims-progress-v17.epub`, `the-pilgrims-progress-v17-reader.html`, `the-pilgrims-progress-v17-compare.html`, `the-pilgrims-progress-v17-cover-back.webp`, `the-pilgrims-progress-v17-cover-spine.webp`, `the-pilgrims-progress-v17-cover-front.webp`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -224,7 +224,7 @@ Calvin's Institutes of the Christian Religion in Henry Beveridge's translation (
 - witness: The 1845 printing, vol. 1 (archive.org scan, University of Toronto copy), read with Kraken and Tesseract and collated with the CCEL text: every difference checked on the page image <https://archive.org/details/instituteschrist01calvuoft>
 - witness: The 1845 printing, vol. 2 (archive.org scan, University of Toronto copy), collated as vol. 1 <https://archive.org/details/institutesofreli02calvuoft>
 - witness: The 1845 printing, vol. 3 (archive.org scan, University of Toronto copy), collated as vol. 1 <https://archive.org/details/institutesofthec03calvuoft>
-- files: `institutes-of-the-christian-religion-v1.1-institutes-vol-1.epub`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2.epub`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3.epub`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4.epub`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5.epub`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6.epub`, `institutes-of-the-christian-religion-v1-institutes-vol-1.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-2.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-3.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-4.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-5.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-6.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-1.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-2.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-3.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-4.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-5.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-6.pdf`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-parallel.html`
+- files: `institutes-of-the-christian-religion-v1-cover-vol-1-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1.epub`, `institutes-of-the-christian-religion-v1-cover-vol-2-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2.epub`, `institutes-of-the-christian-religion-v1-cover-vol-3-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3.epub`, `institutes-of-the-christian-religion-v1-cover-vol-4-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4.epub`, `institutes-of-the-christian-religion-v1-cover-vol-5-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5.epub`, `institutes-of-the-christian-religion-v1-cover-vol-6-front.png`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6.epub`, `institutes-of-the-christian-religion-v1-institutes-vol-1.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-2.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-3.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-4.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-5.pdf`, `institutes-of-the-christian-religion-v1-institutes-vol-6.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-1.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-2.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-3.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-4.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-5.pdf`, `institutes-of-the-christian-religion-v1-cover-vol-6.pdf`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-1-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-2-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-3-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-4-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-5-parallel.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-reader.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-compare.html`, `institutes-of-the-christian-religion-v1.1-institutes-vol-6-parallel.html`, `institutes-of-the-christian-religion-v1-cover-vol-1-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-1-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-1-front.webp`, `institutes-of-the-christian-religion-v1-cover-vol-2-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-2-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-2-front.webp`, `institutes-of-the-christian-religion-v1-cover-vol-3-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-3-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-3-front.webp`, `institutes-of-the-christian-religion-v1-cover-vol-4-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-4-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-4-front.webp`, `institutes-of-the-christian-religion-v1-cover-vol-5-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-5-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-5-front.webp`, `institutes-of-the-christian-religion-v1-cover-vol-6-back.webp`, `institutes-of-the-christian-religion-v1-cover-vol-6-spine.webp`, `institutes-of-the-christian-religion-v1-cover-vol-6-front.webp`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -334,13 +334,13 @@ Owen's Of Temptation (1658) and The Mortification of Sin (1656) in one paperback
 Owen's Death of Death in the Death of Christ in William Goold's text, as CCEL gives it, with CCEL's slips corrected against Goold's printing and Owen's own wording, chiefly his quotations of Scripture, restored from the 1648 first edition.
 
 - folder: `books/john-owen/the-death-of-death`
-- version v2: tag `john-owen/the-death-of-death/v2`, signed off 2026-11-18 by Courtney
+- version v3: tag `john-owen/the-death-of-death/v3`, signed off 2026-11-27 by Courtney
 - template: fgbooks 0.14.0
-- print: Lulu revision 2 of this paperback
+- print: Lulu revision 3 of this paperback
 - source: CCEL ThML: John Owen, The Death of Death in the Death of Christ (Goold's text, The Works of John Owen, vol. 10, 1850-53) <https://www.ccel.org/ccel/o/owen/deathofdeath.xml>, `source/deathofdeath.thml.xml` (sha256 `c76ae424be0caab0…`)
 - witness: Salus Electorum, Sanguis Jesu: or, The Death of Death in the Death of Christ (London, 1648), the first edition, archive.org scan, read on the page images and by local OCR: source/collation/*.jsonl <https://archive.org/details/bim_early-english-books-1641-1700_salus-electorum-sanguis_owen-john_1648>
 - witness: The Works of John Owen, ed. William H. Goold, vol. 10 (1850), archive.org scan and local OCR, the printing CCEL was keyed from: source/collation/goold-ccel.jsonl <https://archive.org/details/worksofjohnowend0000owen>
-- files: `the-death-of-death-v2.pdf`, `the-death-of-death-v2-cover.pdf`, `the-death-of-death-v2-cover-front.png`, `the-death-of-death-v2-cover-front.png`, `the-death-of-death-v2.epub`, `the-death-of-death-v2-reader.html`, `the-death-of-death-v2-compare.html`, `the-death-of-death-v2-cover-back.webp`, `the-death-of-death-v2-cover-spine.webp`, `the-death-of-death-v2-cover-front.webp`
+- files: `the-death-of-death-v3.pdf`, `the-death-of-death-v3-cover.pdf`, `the-death-of-death-v3-cover-front.png`, `the-death-of-death-v3-cover-front.png`, `the-death-of-death-v3.epub`, `the-death-of-death-v3-reader.html`, `the-death-of-death-v3-compare.html`, `the-death-of-death-v3-cover-back.webp`, `the-death-of-death-v3-cover-spine.webp`, `the-death-of-death-v3-cover-front.webp`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -413,12 +413,12 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Jonathan Edwards's A Treatise Concerning Religious Affections (Boston, 1746), in modern spelling from the Evans-TCP transcription of the first edition; illegible letters restored and transcription slips corrected from the 1746 page images, with the printed errata applied.
 
 - folder: `books/jonathan-edwards/religious-affections`
-- version v1: tag `jonathan-edwards/religious-affections/modern/v1`, signed off 2026-11-22 by Courtney
+- version v2: tag `jonathan-edwards/religious-affections/modern/v2`, signed off 2026-11-27 by Courtney
 - template: fgbooks 0.15.0
-- print: Lulu revision 1 of the Modern English paperback, a Lulu book of its own
+- print: Lulu revision 2 of the Modern English paperback, a Lulu book of its own
 - its text follows the Classic v1
 - sign-off note: Based on: the Classic v1 (jonathan-edwards/religious-affections/v1).
-- files: `religious-affections-v1-modern.pdf`, `religious-affections-v1-cover-modern.pdf`, `religious-affections-v1-cover-modern-front.png`, `religious-affections-v1-modern.epub`, `religious-affections-v1-modern-reader.html`, `religious-affections-v1-cover-modern-back.webp`, `religious-affections-v1-cover-modern-spine.webp`, `religious-affections-v1-cover-modern-front.webp`
+- files: `religious-affections-v2-modern.pdf`, `religious-affections-v2-cover-modern.pdf`, `religious-affections-v2-cover-modern-front.png`, `religious-affections-v2-modern.epub`, `religious-affections-v2-modern-reader.html`, `religious-affections-v2-cover-modern-back.webp`, `religious-affections-v2-cover-modern-spine.webp`, `religious-affections-v2-cover-modern-front.webp`
 
 ## Sinners in the Hands of an Angry God
 
@@ -491,15 +491,15 @@ Sibbes's sermons on Isaiah 25:6-9 from the first edition (1650), in modern spell
 Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.
 
 - folder: `books/thomas-boston/the-crook-in-the-lot`
-- version v2: tag `thomas-boston/the-crook-in-the-lot/v2`, signed off 2026-11-18 by Courtney
+- version v3: tag `thomas-boston/the-crook-in-the-lot/v3`, signed off 2026-11-27 by Courtney
 - template: fgbooks 0.14.0
-- print: Lulu revision 2 of this paperback
+- print: Lulu revision 3 of this paperback
 - source: Our transcription of The Whole Works of Thomas Boston, ed. Samuel M'Millan, vol. 3 (Aberdeen, 1848), pp. 495-590, as ThML: how it was made in source/SOURCES.md <https://archive.org/details/wholeworksoflate03bost>, `source/crook.thml.xml` (sha256 `570af79869826424…`)
 - source: CCEL ThML: Thomas Boston, The Crook in the Lot, a modernized revision (Institute of Practical Bible Education etext, 2000), untouched; a witness only, used as a hint in the OCR correction <https://www.ccel.org/ccel/b/boston/crook.xml>, `source/crook.ccel.witness.xml` (sha256 `64cc81b01e511b78…`)
 - witness: M'Millan's 1848 volume, the University of Michigan scan: its OCR the second reading in the transcription (source/SOURCES.md) <https://archive.org/details/wholeworkslater06bostgoog>
 - witness: The Crook in the Lot, Philadelphia 1811, archive.org scan: M'Millan's misprints corrected where it agrees (source/proofread-report.md) <https://archive.org/details/crookinlotorsove01bost>
 - witness: The Crook in the Lot, 1782 and London 1791 printings, archive.org scans, consulted in the transcription; no scan of the 1737 first edition was found <https://archive.org/details/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782>
-- files: `the-crook-in-the-lot-v2.pdf`, `the-crook-in-the-lot-v2-cover.pdf`, `the-crook-in-the-lot-v2-cover-front.png`, `the-crook-in-the-lot-v2-cover-front.png`, `the-crook-in-the-lot-v2.epub`, `the-crook-in-the-lot-v2-reader.html`, `the-crook-in-the-lot-v2-compare.html`, `the-crook-in-the-lot-v2-cover-back.webp`, `the-crook-in-the-lot-v2-cover-spine.webp`, `the-crook-in-the-lot-v2-cover-front.webp`
+- files: `the-crook-in-the-lot-v3.pdf`, `the-crook-in-the-lot-v3-cover.pdf`, `the-crook-in-the-lot-v3-cover-front.png`, `the-crook-in-the-lot-v3-cover-front.png`, `the-crook-in-the-lot-v3.epub`, `the-crook-in-the-lot-v3-reader.html`, `the-crook-in-the-lot-v3-compare.html`, `the-crook-in-the-lot-v3-cover-back.webp`, `the-crook-in-the-lot-v3-cover-spine.webp`, `the-crook-in-the-lot-v3-cover-front.webp`
 
 Fidelity to the source (counted from the TEI's record of every decision; ./fgb coverage):
 
@@ -514,12 +514,12 @@ Fidelity to the source (counted from the TEI's record of every decision; ./fgb c
 Boston's The Crook in the Lot in full, from Samuel M'Millan's edition of his Whole Works (1848), transcribed for this edition from two scans and checked against the page images; M'Millan's few misprints corrected, the 1811 printing agreeing.
 
 - folder: `books/thomas-boston/the-crook-in-the-lot`
-- version v1: tag `thomas-boston/the-crook-in-the-lot/modern/v1`, signed off 2026-11-22 by Courtney
+- version v2: tag `thomas-boston/the-crook-in-the-lot/modern/v2`, signed off 2026-11-27 by Courtney
 - template: fgbooks 0.14.0
-- print: Lulu revision 1 of the Modern English paperback, a Lulu book of its own
+- print: Lulu revision 2 of the Modern English paperback, a Lulu book of its own
 - its text follows the Classic v2
 - sign-off note: Based on: the Classic v2 (thomas-boston/the-crook-in-the-lot/v2).
-- files: `the-crook-in-the-lot-v1-modern.pdf`, `the-crook-in-the-lot-v1-cover-modern.pdf`, `the-crook-in-the-lot-v1-cover-modern-front.png`, `the-crook-in-the-lot-v1-modern.epub`, `the-crook-in-the-lot-v1-modern-reader.html`, `the-crook-in-the-lot-v1-cover-modern-back.webp`, `the-crook-in-the-lot-v1-cover-modern-spine.webp`, `the-crook-in-the-lot-v1-cover-modern-front.webp`
+- files: `the-crook-in-the-lot-v2-modern.pdf`, `the-crook-in-the-lot-v2-cover-modern.pdf`, `the-crook-in-the-lot-v2-cover-modern-front.png`, `the-crook-in-the-lot-v2-modern.epub`, `the-crook-in-the-lot-v2-modern-reader.html`, `the-crook-in-the-lot-v2-cover-modern-back.webp`, `the-crook-in-the-lot-v2-cover-modern-spine.webp`, `the-crook-in-the-lot-v2-cover-modern-front.webp`
 
 ## Precious Remedies Against Satan’s Devices
 

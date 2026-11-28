@@ -26,7 +26,11 @@
 
 #include "chapters/modern/to-the-reader.typ"
 
-#include "chapters/modern/part-1.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/modern/part-1.typ"
+]
 
 #include "chapters/modern/part-2.typ"
 
