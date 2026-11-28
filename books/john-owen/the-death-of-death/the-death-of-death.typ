@@ -48,7 +48,11 @@
 #include "chapters/typ/book-1/chapter-04.typ"
 
 #metadata[The Work of the Holy Spirit] <short>
-#include "chapters/typ/book-1/chapter-05.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: 0.01em)
+  #include "chapters/typ/book-1/chapter-05.typ"
+]
 
 #metadata[The Means of This Work] <short>
 #include "chapters/typ/book-1/chapter-06.typ"
@@ -71,7 +75,11 @@
 #include "chapters/typ/book-2/chapter-03.typ"
 
 #metadata[Impetration and Application Distinguished] <short>
-#include "chapters/typ/book-2/chapter-04.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/book-2/chapter-04.typ"
+]
 
 #metadata[Application and Impetration] <short>
 #include "chapters/typ/book-2/chapter-05.typ"
@@ -117,13 +125,21 @@
 #include "chapters/typ/book-4/chapter-01.typ"
 
 #metadata[Particular Arguments Entered Upon] <short>
-#include "chapters/typ/book-4/chapter-02.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/book-4/chapter-02.typ"
+]
 
 #metadata[The Remaining Texts Unfolded] <short>
 #include "chapters/typ/book-4/chapter-03.typ"
 
 #metadata[The Second General Argument Answered] <short>
-#include "chapters/typ/book-4/chapter-04.typ"
+// page fit: the chapter would end on a few lines alone; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: -0.01em)
+  #include "chapters/typ/book-4/chapter-04.typ"
+]
 
 #metadata[The Last Argument from Scripture] <short>
 #include "chapters/typ/book-4/chapter-05.typ"
@@ -132,7 +148,11 @@
 #include "chapters/typ/book-4/chapter-06.typ"
 
 #metadata[Remaining Objections Removed] <short>
-#include "chapters/typ/book-4/chapter-07.typ"
+// page fit: a footnote broke over a page; its letter spacing set so it falls well (page-fit skill)
+#[
+  #set text(tracking: 0.01em)
+  #include "chapters/typ/book-4/chapter-07.typ"
+]
 
 = Appendices
 
